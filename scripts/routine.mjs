@@ -72,9 +72,18 @@ if (cmd === 'status') {
     times.splice(best, 1);
   }
   times.splice(Math.max(0, q.quota - done));
-  // A slot that has already passed is replaced by "a few minutes from now".
+  // A slot that has already passed moves to the first free time from a few minutes from now,
+  // still at least minGapMinutes from every other post today, so two posts never share a time.
   const soon = Date.now() + 10 * 60000;
-  out({ quotaToday: q.quota, publishedToday: done, pubDates: times.map((t) => new Date(Math.max(t.getTime(), soon)).toISOString()) });
+  const gap = (SITE.schedule.releaseWindowLocal?.minGapMinutes ?? 90) * 60000;
+  const picked = times.filter((t) => t.getTime() >= soon).map((t) => t.getTime());
+  for (const t of times.filter((t) => t.getTime() < soon)) {
+    let c = soon;
+    while ([...picked, ...taken].some((x) => Math.abs(x - c) < gap)) c += 5 * 60000;
+    picked.push(c);
+  }
+  picked.sort((a, b) => a - b);
+  out({ quotaToday: q.quota, publishedToday: done, pubDates: picked.map((t) => new Date(t).toISOString()) });
 } else if (cmd === 'next') {
   // Skip (and park) keywords over the volume cap or that would cannibalize a post.
   const queue = loadQueue();
