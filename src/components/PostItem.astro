@@ -1,0 +1,31 @@
+---
+import { categoryName, formatDate } from '../lib/site';
+import type { CollectionEntry } from 'astro:content';
+interface Props { post: CollectionEntry<'blog'>; lead?: boolean }
+const { post, lead = false } = Astro.props;
+const d = post.data;
+const href = `/blog/${post.id}/`;
+const photo = d.products.find((p) => p.image?.url)?.image;
+---
+{lead ? (
+  <article class="post-item lead-item">
+    <div>
+      {photo ? <a class="thumb product-thumb" href={href} tabindex="-1" aria-hidden="true"><img src={photo.url} alt="" width={photo.width ?? 500} height={photo.height ?? 500} loading="lazy" decoding="async" /></a> : d.heroImage && <a class="thumb" href={href} tabindex="-1" aria-hidden="true"><img src={d.heroImage} alt="" width="1200" height="630" loading="lazy" decoding="async" /></a>}
+      <a class="cat" href={`/category/${d.category}/`}>{categoryName(d.category)}</a>
+      <h3><a href={href}>{d.title}</a></h3>
+    </div>
+    <div class="side">
+      <p>{d.description}</p>
+      <span class="when">Updated <time datetime={(d.updatedDate ?? d.pubDate).toISOString()}>{formatDate(d.updatedDate ?? d.pubDate)}</time></span>
+      <a class="btn btn-quiet btn-sm" style="align-self:flex-start" href={href}>Read the guide</a>
+    </div>
+  </article>
+) : (
+  <article class="post-item">
+    {photo ? <a class="thumb product-thumb" href={href} tabindex="-1" aria-hidden="true"><img src={photo.url} alt="" width={photo.width ?? 500} height={photo.height ?? 500} loading="lazy" decoding="async" /></a> : d.heroImage && <a class="thumb" href={href} tabindex="-1" aria-hidden="true"><img src={d.heroImage} alt="" width="1200" height="630" loading="lazy" decoding="async" /></a>}
+    <a class="cat" href={`/category/${d.category}/`}>{categoryName(d.category)}</a>
+    <h3><a href={href}>{d.title}</a></h3>
+    <p>{d.description}</p>
+    <span class="when">Updated <time datetime={(d.updatedDate ?? d.pubDate).toISOString()}>{formatDate(d.updatedDate ?? d.pubDate)}</time></span>
+  </article>
+)}

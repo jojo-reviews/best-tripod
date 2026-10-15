@@ -1,0 +1,129 @@
+{
+  "name": "Best Tripod",
+  "domain": "best-tripod.com",
+  "url": "https://best-tripod.com",
+  "tagline": "Honest tripod buying guides: the right support for your camera, your bag and your shot.",
+  "description": "Honest tripod buying guides: camera, travel, phone, video and tabletop tripods, monopods and heads, compared on real working height, load capacity, packed length and leg locks.",
+  "contactEmail": "hello@best-tripod.com",
+  "affiliate": {
+    "amazonTag": "mikahtech-20",
+    "amazonDomain": "www.amazon.com"
+  },
+  "categories": [
+    {
+      "slug": "travel-tripods",
+      "name": "Travel Tripods",
+      "blurb": "Compact tripods that pack small, fit a carry-on and still hold steady."
+    },
+    {
+      "slug": "camera-tripods",
+      "name": "Camera Tripods",
+      "blurb": "Full-size tripods for mirrorless and DSLR cameras: landscape, astro and studio work."
+    },
+    {
+      "slug": "phone-tripods",
+      "name": "Phone Tripods",
+      "blurb": "Phone tripods, selfie-stick tripods and mounts for vlogging and video calls."
+    },
+    {
+      "slug": "video-tripods",
+      "name": "Video Tripods",
+      "blurb": "Fluid-head tripods for smooth pans and tilts, from vlogging rigs to cinema cameras."
+    },
+    {
+      "slug": "tabletop-mini-tripods",
+      "name": "Tabletop & Mini Tripods",
+      "blurb": "Mini, flexible and tabletop tripods for desks, close-ups and tight spaces."
+    },
+    {
+      "slug": "monopods",
+      "name": "Monopods",
+      "blurb": "Monopods and video monopods with feet for sports, wildlife and events."
+    },
+    {
+      "slug": "tripod-heads",
+      "name": "Tripod Heads",
+      "blurb": "Ball heads, pan-tilt, gimbal, geared and fluid heads, and how to match one to your legs."
+    },
+    {
+      "slug": "tripod-accessories",
+      "name": "Tripod Accessories",
+      "blurb": "Arca-Swiss plates, L-brackets, clamps, spikes and tripod bags."
+    }
+  ],
+  "schedule": {
+    "startDate": null,
+    "timezone": "America/New_York",
+    "weeklyPostsPerDay": [],
+    "randomPhase": {
+      "min": 3,
+      "max": 4,
+      "weights": [
+        1,
+        1
+      ]
+    },
+    "maxPostsPerRun": 4,
+    "publishHoursLocal": [
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21
+    ],
+    "releaseWindowLocal": {
+      "startHour": 9.5,
+      "endHour": 21.5,
+      "minGapMinutes": 90
+    }
+  },
+  "organization": {
+    "legalName": "Best Tripod",
+    "foundingDate": "2026",
+    "sameAs": [],
+    "editorialPolicyUrl": "/editorial-policy/"
+  },
+  "authors": [
+    {
+      "slug": "editorial-team",
+      "type": "Organization",
+      "name": "Best Tripod Editorial Team",
+      "role": "Research & editorial",
+      "bio": "We research tripods, monopods and heads for photographers and video creators: real working height with and without the center column, load capacity against the gear you actually shoot, packed length for a carry-on, leg-lock speed and Arca-Swiss compatibility. Every guide follows our published research process and editorial policy.",
+      "expertise": [
+        "Camera tripods",
+        "Travel tripods",
+        "Tripod heads and plates",
+        "Video support and fluid heads"
+      ],
+      "image": null,
+      "sameAs": []
+    }
+  ],
+  "indexing": {
+    "indexNowKey": "92d46440ec6bc05a36e061129f321814",
+    "gscSiteUrl": "sc-domain:best-tripod.com",
+    "recentDays": 2
+  },
+  "funnel": {
+    "targetMix": {
+      "tofu": 0.3,
+      "mofu": 0.3,
+      "bofu": 0.4
+    },
+    "window": 10
+  },
+  "keywordRules": {
+    "maxVolume": 250,
+    "minWords": 3,
+    "maxKd": 10
+  },
+  "qa": {
+    "requiredFrom": "2026-10-15T00:00:00Z",
+    "note": "Every post on this site must pass full QA (structure, facts and voice) before it goes live.",
+    "voiceRequiredFrom": "2026-10-15T00:00:00Z"
+  }
+}

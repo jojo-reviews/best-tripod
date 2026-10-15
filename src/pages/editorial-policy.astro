@@ -1,0 +1,23 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../lib/site';
+---
+<Page title="Editorial policy" description="How Best Tripod researches, writes, fact-checks, updates and corrects its tripod, monopod and tripod head buying guides." updated="October 15, 2026">
+  <p>{SITE.name} publishes buying guides and how-tos for photographers and video creators choosing camera support. This policy explains how a guide goes from idea to page, and what we promise readers.</p>
+  <h2>How a guide is made</h2>
+  <ol>
+    <li><strong>Topic selection.</strong> We pick questions photographers actually search for, using keyword data and the questions people ask in photography communities.</li>
+    <li><strong>Product research.</strong> We shortlist products that are currently sold in the U.S., then check manufacturer specifications, user manuals, compatibility details and long-term owner reports.</li>
+    <li><strong>Scoring.</strong> Each product is rated on the Best Tripod Score: stability, portability, working height, build and value (see <a href="/how-we-score/">how we score</a> and <a href="/how-we-research/">how we research</a>).</li>
+    <li><strong>Writing and fact-checking.</strong> Specifications and claims are checked against the sources listed at the end of each guide. We do not publish prices, star ratings or testing claims we cannot support.</li>
+    <li><strong>Review and updates.</strong> Guides show the date they were last reviewed. We revisit them when products are discontinued, replaced or materially changed.</li>
+  </ol>
+  <h2>Use of AI tools</h2>
+  <p>We use AI-assisted tools to help with research, drafting and on-page SEO checks. Every recommendation must trace back to verifiable sources, and our editorial standards, not a tool, decide what gets published and recommended.</p>
+  <h2>Independence</h2>
+  <p>We earn money through affiliate links, including as an Amazon Associate. Brands cannot buy placement or review outcomes, and commission rates do not influence rankings. See our <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>
+  <h2>Corrections</h2>
+  <p>If something is wrong or out of date, email <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>. We review every report, fix verified errors promptly, and update the guide's review date.</p>
+  <h2>Safety</h2>
+  <p>Our guides are general information. Never load a tripod, head or clamp beyond its rated capacity, keep a hand on the camera in wind or on uneven ground, and follow the manufacturer's instructions.</p>
+</Page>

@@ -1,0 +1,8 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../lib/site';
+---
+<Page title="Contact us" description="Contact the Best Tripod editorial team with questions, corrections or product suggestions.">
+  <p>We read every message. For questions about a guide, corrections, or product suggestions, email <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
+  <p>We do not accept payment for reviews or placement. Brands may send product information, but inclusion is never guaranteed.</p>
+</Page>

@@ -1,0 +1,120 @@
+---
+import Base from '../layouts/Base.astro';
+import PostItem from '../components/PostItem.astro';
+import Icon from '../components/Icon.astro';
+import { getPublishedPosts } from '../lib/posts';
+import { SITE, CATEGORY_ICON, absUrl } from '../lib/site';
+
+const posts = await getPublishedPosts();
+const [leadPost, ...rest] = posts;
+// Older guides we re-checked and actually changed recently (real updates only).
+const recentlyUpdated = posts
+  .filter((p) => p.data.updatedDate && p.data.updatedDate.getTime() > Date.now() - 30 * 86400000)
+  .sort((a, b) => b.data.updatedDate!.getTime() - a.data.updatedDate!.getTime())
+  .slice(0, 5);
+const counts = Object.fromEntries(SITE.categories.map((c) => [c.slug, posts.filter((p) => p.data.category === c.slug).length]));
+
+const jsonLd: object[] = [{
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Latest guides',
+  itemListElement: posts.slice(0, 10).map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: absUrl(`/blog/${p.id}/`), name: p.data.title })),
+}];
+---
+<Base title={`${SITE.name}: Honest Tripod Buying Guides`} description={SITE.description} jsonLd={jsonLd} image="/images/og/home.png" imageAlt={`${SITE.name}: honest tripod buying guides`} keywords={['best tripod', 'tripod buying guide', 'travel tripod', 'tripod for camera', 'best-tripod.com']}>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>The right tripod for your camera, your bag and your shot.</h1>
+        <p class="lead">We research travel, camera, phone and video tripods, monopods and heads on the numbers that matter: real working height without the center column, load capacity against the gear you actually shoot, and how small it packs.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="/blog/">Browse the guides</a>
+          <a class="btn btn-quiet" href="/tripod-buying-checklist/">Get the buying checklist</a>
+          <a class="btn btn-quiet" href="/how-we-score/">How we score</a>
+        </div>
+      </div>
+
+      <figure class="specsheet" aria-label="A tripod spec sheet, annotated with what the numbers really mean">
+        <div class="doc"><span>Spec sheet</span><span>Travel tripod, 5-section</span></div>
+        <h2>What the box says vs. what you get</h2>
+        <p>Max height: <s>with center column fully raised</s>. Ask for the height with the column down.</p>
+        <p>Max load: <s>a ceiling, not a working load</s>. Aim for two to three times your camera and heaviest lens.</p>
+        <p>Folded length: <s>legs only</s>. Check it with the head attached against your carry-on.</p>
+        <div class="notes">
+          <span class="tape">Column down</span>
+          <span class="tape alt">Real load</span>
+          <span class="tape">Packed length</span>
+        </div>
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Find support by type</h2>
+          <p>Every category is judged on the same five things: stability, portability, working height, build and value.</p>
+        </div>
+      </div>
+      <div class="rooms">
+        {SITE.categories.map((c) => (
+          <a class="room" href={`/category/${c.slug}/`}>
+            <Icon name={CATEGORY_ICON[c.slug] ?? 'tripod'} />
+            <span><strong>{c.name}</strong><span class="blurb">{c.blurb}</span></span>
+            <span class="count">{counts[c.slug] ? `${counts[c.slug]} guide${counts[c.slug] === 1 ? '' : 's'}` : 'Coming soon'}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div><h2>Latest guides</h2></div>
+        <a class="btn btn-quiet btn-sm" href="/blog/">See all guides</a>
+      </div>
+      {leadPost ? (
+        <div class="posts">
+          <PostItem post={leadPost} lead />
+          {rest.slice(0, 9).map((p) => <PostItem post={p} />)}
+        </div>
+      ) : <p class="empty">The first guides publish this week.</p>}
+    </div>
+  </section>
+
+  {recentlyUpdated.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div><h2>Recently re-checked</h2><p class="muted">Guides we re-verified against their sources and updated.</p></div>
+        </div>
+        <ul class="updated-list">
+          {recentlyUpdated.map((p) => (
+            <li>
+              <a href={`/blog/${p.id}/`}>{p.data.title}</a>
+              <span class="muted">Updated <time datetime={p.data.updatedDate!.toISOString()}>{p.data.updatedDate!.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' })}</time></span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Our three rules</h2>
+          <p>Every product on this site passes these before we recommend it. <a href="/how-we-research/">Read the full research process</a>.</p>
+        </div>
+      </div>
+      <div class="clauses">
+        <div class="clause"><h3>Real numbers, not box numbers</h3><p>We report working height with the center column down, folded length with the head on, and load capacity next to the weight of real camera and lens combinations.</p></div>
+        <div class="clause"><h3>Matched to how you shoot</h3><p>Travel, landscape, astro, video, vlogging or phone: we say who each pick is for, and who should skip it.</p></div>
+        <div class="clause"><h3>Honest about trade-offs</h3><p>We say when a bundled head will need replacing, when a plate isn't Arca-Swiss, and where a cheaper tripod does the job.</p></div>
+      </div>
+    </div>
+  </section>
+</Base>

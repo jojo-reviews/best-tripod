@@ -1,0 +1,137 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, absUrl } from '../lib/site';
+
+// The Best Tripod buying checklist: a branded, reusable tool photographers come
+// back to before buying a tripod, head or monopod. Progress is kept in the
+// visitor's own browser.
+const sections = [
+  {
+    id: 'gear',
+    title: 'Start with your gear',
+    items: [
+      ['Weigh your heaviest camera body with your heaviest lens, plus any battery grip, flash or cage you mount.', ''],
+      ['Pick legs and a head rated for at least two to three times that weight; a rated load is a ceiling, not a comfortable working load.', ''],
+      ['If the lens has its own tripod collar (a 70-200mm or longer), mount the lens, not the camera, and add the collar foot to your plan.', ''],
+      ['List what you will shoot most: travel, landscape, astro, video, vlogging, phone or tabletop work.', ''],
+    ],
+  },
+  {
+    id: 'height',
+    title: 'Height',
+    items: [
+      ['Check maximum height with the center column down; that is the steady working height. Raising the column adds wobble.', ''],
+      ['Add the height of the head and camera, then compare with your eye level so you are not stooping for every shot.', ''],
+      ['Check minimum height and whether the legs splay flat (leg angle stops) or the column can reverse for ground-level macro.', ''],
+    ],
+  },
+  {
+    id: 'carry',
+    title: 'Size and weight',
+    items: [
+      ['Measure your bag or carry-on, then compare with the folded length with the head attached.', '/category/travel-tripods/', 'Travel tripods'],
+      ['Check the tripod weight with the head, not the legs alone, and decide what you will carry on a long hike.', ''],
+      ['More leg sections fold shorter but set up slower and flex more; four or five sections is the usual travel trade-off.', ''],
+    ],
+  },
+  {
+    id: 'build',
+    title: 'Build and materials',
+    items: [
+      ['Carbon fiber vs aluminum: carbon is lighter and damps vibration better and is not as cold to hold; aluminum costs less and shrugs off knocks.', '/category/camera-tripods/', 'Camera tripods'],
+      ['Leg lock type: twist locks are slimmer and pack well; flip locks are quick to read at a glance and easy with gloves.', ''],
+      ['Feet: rubber for indoors and rock, spikes for dirt and grass, and a hook under the column to hang a bag in wind.', '/category/tripod-accessories/', 'Tripod accessories'],
+    ],
+  },
+  {
+    id: 'head',
+    title: 'Head and plate',
+    items: [
+      ['Head type: ball head for fast stills, pan-tilt or geared for precise landscapes, fluid head for video pans, gimbal for big telephotos.', '/category/tripod-heads/', 'Tripod heads'],
+      ['Shooting video? Look for a fluid head with adjustable drag and a flat or bowl base on the legs.', '/category/video-tripods/', 'Video tripods'],
+      ['Check that the clamp and plate are Arca-Swiss compatible so plates and L-brackets swap between heads.', ''],
+      ['Check the head has a separate panning lock and, for stills, a friction control so the camera does not flop when loosened.', ''],
+    ],
+  },
+  {
+    id: 'other',
+    title: 'Other ways to get stable',
+    items: [
+      ['Shooting sports, wildlife or events on the move? Compare a monopod with feet before buying a second tripod.', '/category/monopods/', 'Monopods'],
+      ['For phones, desks and close-ups, a mini or tabletop tripod may be all you need.', '/category/tabletop-mini-tripods/', 'Mini tripods'],
+      ['For phone video and vlogging, check the clamp fits your phone with its case and whether a remote is included.', '/category/phone-tripods/', 'Phone tripods'],
+    ],
+  },
+];
+const total = sections.reduce((n, s) => n + s.items.length, 0);
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: `The ${SITE.name} Buying Checklist`,
+  url: absUrl('/tripod-buying-checklist/'),
+  description: 'A free tripod buying checklist: load capacity, working height, folded length, weight, leg locks, head type, materials, feet and Arca-Swiss plates.',
+  publisher: { '@id': absUrl('/#organization') },
+  isPartOf: { '@id': absUrl('/#website') },
+}];
+---
+<Base title="Tripod Buying Checklist: 20 Things to Check Before You Buy" description="The free Best Tripod buying checklist: load capacity vs your heaviest kit, real working height, folded length, weight, leg locks, head type, carbon vs aluminum, feet and Arca-Swiss plates." jsonLd={jsonLd} image="/images/og/tripod-buying-checklist.png" imageAlt="The Best Tripod buying checklist" keywords={["tripod buying checklist", "how to choose a tripod", "what to look for in a tripod", "tripod buying guide"]}>
+  <div class="wrap checklist">
+    <header class="page-head">
+      <p class="kicker">Free buyer's tool</p>
+      <h1 style="font-size:var(--s4)">The {SITE.name} Buying Checklist</h1>
+      <p class="lead">Everything we check before recommending a tripod, from load capacity to the plate on top. Tick items off as you compare models; your progress stays in this browser.</p>
+      <div class="checklist-bar">
+        <div class="meter" aria-hidden="true"><span id="meter-fill"></span></div>
+        <p id="progress" aria-live="polite">0 of {total} done</p>
+        <button class="btn btn-quiet btn-sm" type="button" id="print">Print</button>
+        <button class="btn btn-quiet btn-sm" type="button" id="reset">Reset</button>
+      </div>
+    </header>
+
+    {sections.map((s) => (
+      <section class="check-group" aria-labelledby={s.id}>
+        <h2 id={s.id}>{s.title}</h2>
+        <ul>
+          {s.items.map(([text, href, label], i) => (
+            <li>
+              <label>
+                <input type="checkbox" data-key={`${s.id}-${i}`} />
+                <span>{text}{href && <> <a href={href}>{label ? `See ${label.toLowerCase()}` : 'Read the guide'}</a></>}</span>
+              </label>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <p class="muted" style="padding-bottom:40px">Bookmark this page or search "{SITE.name} checklist" to find it again before your next upgrade. Want to know how we weigh these? See <a href="/how-we-score/">how we score</a>.</p>
+  </div>
+</Base>
+
+<script define:vars={{ total }}>
+  const KEY = 'bt-checklist-v1';
+  let done = {};
+  try { done = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+  const boxes = [...document.querySelectorAll('.checklist input[type=checkbox]')];
+  const update = () => {
+    const n = boxes.filter((b) => b.checked).length;
+    document.getElementById('progress').textContent = `${n} of ${total} done`;
+    document.getElementById('meter-fill').style.width = `${(n / total) * 100}%`;
+  };
+  boxes.forEach((b) => {
+    b.checked = !!done[b.dataset.key];
+    b.addEventListener('change', () => {
+      done[b.dataset.key] = b.checked;
+      try { localStorage.setItem(KEY, JSON.stringify(done)); } catch {}
+      update();
+    });
+  });
+  document.getElementById('print').addEventListener('click', () => window.print());
+  document.getElementById('reset').addEventListener('click', () => {
+    boxes.forEach((b) => (b.checked = false));
+    done = {};
+    try { localStorage.removeItem(KEY); } catch {}
+    update();
+  });
+  update();
+</script>

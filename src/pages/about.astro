@@ -1,0 +1,13 @@
+---
+import Page from '../layouts/Page.astro';
+import { SITE } from '../lib/site';
+---
+<Page title="About Best Tripod" description="Best Tripod publishes honest buying guides for camera, travel, phone, video and tabletop tripods, monopods, heads and tripod accessories.">
+  <p>{SITE.name} exists because tripod spec sheets are hard to read and easy to misread. A "max height" often includes a fully raised center column, a "max load" is a ceiling rather than a comfortable working load, and the folded length rarely includes the head. Buy on the headline numbers and you can end up with a tripod that wobbles under your lens, stops short of eye level, or won't fit in your bag.</p>
+  <h2>What we cover</h2>
+  <p>We research travel, camera, phone, video and tabletop tripods, monopods, tripod heads and accessories through one lens: <strong>will this hold your camera steady at a usable height, and will you actually carry it?</strong> Every guide looks at real working height, load capacity against the gear you shoot, packed length, leg locks and plate compatibility.</p>
+  <h2>How we stay independent</h2>
+  <p>We are reader-supported. When you buy through our links we may earn an affiliate commission, which never changes the price you pay. Brands cannot pay for placement, and recommendations are based on published specifications, manufacturer documentation, owner feedback and our own scoring criteria. Read our <a href="/how-we-research/">research process</a> and <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>
+  <h2>Get in touch</h2>
+  <p>Questions, corrections or product suggestions are welcome at <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
+</Page>

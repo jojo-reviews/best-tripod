@@ -1,0 +1,13 @@
+{
+  "modifiers": ["best", "for travel", "for mirrorless camera", "lightweight", "carbon fiber", "vs", "under 3 pounds", "for beginners"],
+  "categories": {
+    "travel-tripods": ["travel tripod", "carry on tripod", "lightweight travel tripod", "compact tripod for backpacking", "travel tripod for mirrorless camera"],
+    "camera-tripods": ["tripod for dslr", "tripod for landscape photography", "tripod for astrophotography", "tall tripod for camera", "carbon fiber tripod"],
+    "phone-tripods": ["phone tripod", "tripod for iphone", "selfie stick tripod", "phone tripod with remote", "tripod for vlogging with phone"],
+    "video-tripods": ["video tripod with fluid head", "fluid head tripod", "tripod for video camera", "tripod for filmmaking", "tripod for camcorder"],
+    "tabletop-mini-tripods": ["mini tripod", "tabletop tripod", "flexible tripod", "gorillapod alternative", "desk tripod for webcam"],
+    "monopods": ["monopod for camera", "video monopod with feet", "monopod for wildlife photography", "monopod vs tripod", "hiking stick monopod"],
+    "tripod-heads": ["ball head for tripod", "gimbal head for telephoto lens", "pan tilt head", "geared head for landscape", "fluid head for photography"],
+    "tripod-accessories": ["arca swiss quick release plate", "l bracket for camera", "tripod bag", "tripod spikes feet", "super clamp for camera"]
+  }
+}

@@ -1,0 +1,47 @@
+---
+import Logo from './Logo.astro';
+import { SITE } from '../lib/site';
+import { getPublishedPosts } from '../lib/posts';
+const used = new Set((await getPublishedPosts()).map((p) => p.data.category));
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <Logo />
+        <p style="margin-top:14px;max-width:30em">{SITE.description}</p>
+      </div>
+      <div>
+        <h3>Categories</h3>
+        <ul>{SITE.categories.filter((c) => used.size === 0 || used.has(c.slug)).map((c) => <li><a href={`/category/${c.slug}/`}>{c.name}</a></li>)}</ul>
+      </div>
+      <div>
+        <h3>How we work</h3>
+        <ul>
+          <li><a href="/tripod-buying-checklist/">The {SITE.name} Buying Checklist</a></li>
+          <li><a href="/search/">Search guides</a></li>
+          <li><a href="/how-we-research/">How we research</a></li>
+          <li><a href="/how-we-score/">How we score</a></li>
+          <li><a href="/editorial-policy/">Editorial policy</a></li>
+          <li><a href="/affiliate-disclosure/">Affiliate disclosure</a></li>
+          <li><a href={`/authors/${SITE.authors[0].slug}/`}>Our authors</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Company</h3>
+        <ul>
+          <li><a href="/about/">About us</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy-policy/">Privacy policy</a></li>
+          <li><a href="/terms/">Terms of use</a></li>
+          <li><a href="/rss.xml">RSS feed</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-legal">
+      <p>As an Amazon Associate, {SITE.name} earns from qualifying purchases. Prices and availability change; check the retailer for current details.</p>
+      <p>&copy; {year} {SITE.name}. Always stay within a tripod's rated load and follow the manufacturer's instructions.</p>
+    </div>
+  </div>
+</footer>

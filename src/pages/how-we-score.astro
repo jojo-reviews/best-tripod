@@ -1,0 +1,53 @@
+---
+import Page from '../layouts/Page.astro';
+import { CRITERIA } from '../lib/score.mjs';
+import { SITE } from '../lib/site';
+---
+<Page title="How We Score Products: The Best Tripod Score" description="How the Best Tripod Score works: five criteria (stability, portability, height, build, value), their weights, the formula and what each number means." updated="October 15, 2026">
+  <p>Every product we recommend gets a <strong>Best Tripod Score</strong> out of 5. It answers one question: <em>how well does this support hold your camera steady, for the way you actually shoot and travel?</em> It's our own editorial rating, built from manufacturer specifications, user manuals and the research listed in each guide. It is not a customer rating, and we never copy star ratings from stores.</p>
+
+  <h2>The five criteria</h2>
+  <p>We rate each product from 1 to 10 on five criteria, weighted by how much they matter to a photographer or video shooter:</p>
+  <table>
+    <thead><tr><th scope="col">Criterion</th><th scope="col">Weight</th><th scope="col">What a 10 looks like</th></tr></thead>
+    <tbody>
+      {CRITERIA.map((c) => (
+        <tr>
+          <td>{c.label}</td>
+          <td>{Math.round(c.weight * 100)}%</td>
+          <td>{{
+            stability: 'Rock steady with its intended camera and lens, with a rated load well above that gear, no flex at full height, and a hook or spikes for wind.',
+            portability: 'Light for its class and short when folded: fits a carry-on or straps to a daypack without a second thought.',
+            height: 'Reaches eye level without raising the center column, and still goes low enough for ground-level shots.',
+            build: 'Quality materials, quick and secure leg locks, a smooth head that locks without drift, and an Arca-Swiss compatible plate.',
+            value: 'Fair price for what it does, with nothing important you need to buy separately to use it well.',
+          }[c.key]}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>The formula</h2>
+  <p><strong>Score = (Stability × 30% + Portability × 20% + Height × 15% + Build × 20% + Value × 15%) ÷ 2</strong>, rounded to one decimal.</p>
+  <p>Some criteria don't apply to every product. A quick-release plate, a super clamp or a tripod bag has no working height, so we leave that criterion out and rescale the other weights so they still add up to 100%. That keeps accessories from being punished for something they were never meant to do.</p>
+
+  <h2>How we pick each number</h2>
+  <ul>
+    <li><strong>Stability:</strong> 10 rated load at least three times your camera and lens, solid at full height, hook and spikes · 8 comfortable with a mirrorless kit and a mid-size zoom · 6 fine for light cameras, wobbles with long lenses or in wind · 4 or lower phone and compact cameras only.</li>
+    <li><strong>Portability (weight and folded length):</strong> 10 carry-on friendly and among the lightest in its class · 8 straps to a daypack all day · 6 car-to-location only · 4 or lower a studio or vehicle tripod.</li>
+    <li><strong>Working height:</strong> 10 eye level with the center column down plus a low-angle option · 8 eye level only with the column partly raised · 6 chest height · 4 or lower tabletop height (judged against its category, so a mini tripod is scored as a mini tripod).</li>
+    <li><strong>Build (materials, leg locks, head):</strong> 10 carbon fiber or premium alloy, fast reliable locks, a smooth head with independent pan and Arca-Swiss clamp · 8 solid aluminum with good locks and a capable head · 6 plastic parts in load-bearing places or a head that drifts · 4 or lower known reliability problems.</li>
+    <li><strong>Value:</strong> 10 hard to beat for the money and nothing essential to add · 8 good value · 6 premium price, or a head or plate you will likely need to replace.</li>
+  </ul>
+
+  <h2>What each score band means</h2>
+  <ul>
+    <li><strong>4.5 to 5.0:</strong> outstanding for its job. Buy it with confidence if it fits your camera, lens and budget.</li>
+    <li><strong>4.0 to 4.4:</strong> very good, with one clear trade-off (a little heavy, a little short, or a basic head).</li>
+    <li><strong>3.5 to 3.9:</strong> good for a specific use, such as light travel kits or phone video, but limited outside it.</li>
+    <li><strong>Below 3.5:</strong> we rarely recommend it, and only when it is the one option for an unusual need.</li>
+  </ul>
+
+  <h2>What the score is not</h2>
+  <p>It isn't a lab test or a customer review average, and it doesn't change with price swings or sales. When a product is revised or replaced, we re-check it and update the score. Read more about our <a href="/how-we-research/">research process</a>, the <a href="/tripod-buying-checklist/">{SITE.name} buying checklist</a> and our <a href="/editorial-policy/">editorial policy</a>.</p>
+</Page>
