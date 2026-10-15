@@ -32,7 +32,7 @@ Never commit secrets to the repository.
 
 ## Setup checklist
 
-1. Check `site.config.json` → `affiliate.amazonTag` (currently `mikahtech-20`;
+1. Check `site.config.json` → `affiliate.amazonTag` (currently `93485748-20`;
    change it if this site should use its own tracking ID).
 2. Add the secrets above, push to the default branch (`main`) and point
    best-tripod.com's nameservers to Cloudflare. The deploy creates the
