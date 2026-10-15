@@ -156,7 +156,7 @@
     "slug": "best-video-tripod-with-fluid-head-for-beginners"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -179,7 +179,8 @@
     "cluster": "tripod heads",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography"
+    "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+    "publishedAt": "2026-10-15T19:56:44.185Z"
   },
   {
     "status": "published",
