@@ -651,5 +651,31 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography"
+  },
+  {
+    "status": "published",
+    "attempts": 0,
+    "addedAt": "2026-10-15T20:02:48.992Z",
+    "secondaryKeywords": [
+      "peak design travel tripod vs befree",
+      "manfrotto befree advanced vs peak design",
+      "peak design or manfrotto travel tripod"
+    ],
+    "questions": [
+      "Is the Peak Design Travel Tripod better than the Manfrotto Befree?",
+      "Which travel tripod packs smaller, Peak Design or Manfrotto Befree?"
+    ],
+    "priority": 95,
+    "keyword": "peak design travel tripod vs manfrotto befree advanced",
+    "category": "travel-tripods",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Peak Design Travel Tripod vs Manfrotto Befree Advanced",
+    "cluster": "travel tripods",
+    "rationale": "owner request: brand comparison post",
+    "source": "user",
+    "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+    "publishedAt": "2026-10-15T23:28:15.346Z"
   }
 ]

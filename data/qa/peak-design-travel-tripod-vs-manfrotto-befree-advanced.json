@@ -1,0 +1,16 @@
+{
+  "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+  "pass": true,
+  "checkedAt": "2026-10-15T23:27:57.528Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Checked every spec and claim against the QA-corrected best-travel-tripod-for-mirrorless-camera post and the product research file, plus WebSearch spot checks (Oct 15 2026). Peak Design carbon: 2.81 lb/1.27 kg, 15.5 in/39.4 cm folded, 3.25 in wide, 51.25 in column down, 60 in raised, 5.5 in min, 20 lb/9.1 kg load, ball head, 5 sections - confirmed by Glazer's and Digital Camera Warehouse listings. PD aluminum: 3.44 lb/1.56 kg, same dims and load, ~290 g heavier (1.56-1.27), reversible/removable column - per corrected post and DCW review. Befree Advanced carbon: ~1.27 kg (1.25-1.3), ~41 cm/16.1 in folded, ~150 cm max with column raised, ~40 cm min, twist locks per retailer copy, load ~9 kg in most listings vs 8 kg (AVL Gear MKBFRTC4-BHUS listing shows 17.64 lb/8 kg; Have Camera Will Travel 8 kg) - stated as 'check the listing'. Befree column-down height left 'not listed' (only one retailer gives 50 in, not in research). Removed unsupported 'thinner lower legs' and leg-angle claims. Arca-Swiss stated as unconfirmed. Sony a7 + 24-70 weight range taken from corrected post. No prices, ratings, review counts or testing/ownership claims.",
+    "at": "2026-10-15T23:27:57.152Z"
+  }
+}

@@ -4,7 +4,7 @@
 //
 //   node scripts/featured-images.mjs            # only missing images
 //   node scripts/featured-images.mjs --force    # regenerate all
-//   node scripts/featured-images.mjs --pages    # also share images for home, blog, categories, checklist
+//   node scripts/featured-images.mjs --pages    # also share images for home, blog, categories, brands, checklist
 //   node scripts/featured-images.mjs --brand    # also logo-512.png and og-default.png
 import fs from 'node:fs';
 import path from 'node:path';
@@ -100,6 +100,14 @@ export async function renderFeatured(post, { dir = OUT_DIR, urlBase = '/images/f
   return `${urlBase}/${post.slug}.png`;
 }
 
+/** Share images for the brand index and each brand page (/brands/, /brand/<slug>/). */
+export function brandPages() {
+  return [
+    { slug: 'brands', title: 'Tripod brands: picks and buying guides by brand', kicker: 'Tripod brands', label: 'Brands', iconName: 'tripod' },
+    ...(SITE.brands ?? []).map((b) => ({ slug: `brand-${b.slug}`, title: `${b.name} tripods: picks and buying guides`, kicker: 'Tripod brands', label: 'Brand', iconName: 'tripod' })),
+  ];
+}
+
 /** Share images for non-article pages (home, categories, tools). */
 export async function renderPageImages() {
   const dir = path.join(ROOT, 'public/images/og');
@@ -108,6 +116,7 @@ export async function renderPageImages() {
     { slug: 'tripod-buying-checklist', title: `The ${SITE.name} Buying Checklist: 20 things to check`, kicker: "Free buyer's tool", label: 'Checklist', iconName: 'check' },
     { slug: 'blog', title: 'Every tripod, monopod and head buying guide', kicker: 'All guides', label: 'Guides', iconName: 'tripod' },
     ...SITE.categories.map((c) => ({ slug: `category-${c.slug}`, title: `${c.name}: buying guides and picks`, kicker: c.name, category: c.slug, label: 'Category' })),
+    ...brandPages(),
   ];
   for (const p of pages) await renderFeatured(p, { dir, urlBase: '/images/og' });
   return pages.length;

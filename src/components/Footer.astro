@@ -14,7 +14,10 @@ const year = new Date().getFullYear();
       </div>
       <div>
         <h3>Categories</h3>
-        <ul>{SITE.categories.filter((c) => used.size === 0 || used.has(c.slug)).map((c) => <li><a href={`/category/${c.slug}/`}>{c.name}</a></li>)}</ul>
+        <ul>
+          {SITE.categories.filter((c) => used.size === 0 || used.has(c.slug)).map((c) => <li><a href={`/category/${c.slug}/`}>{c.name}</a></li>)}
+          <li><a href="/brands/">Tripod brands</a></li>
+        </ul>
       </div>
       <div>
         <h3>How we work</h3>

@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getPublishedPosts } from '../../lib/posts';
+import { SITE, absUrl } from '../../lib/site';
+import { BRANDS, brandsIn } from '../../lib/brands.mjs';
+
+const posts = await getPublishedPosts();
+const guideCount = new Map<string, number>();
+for (const post of posts) for (const b of brandsIn(post.data.products)) guideCount.set(b.slug, (guideCount.get(b.slug) ?? 0) + 1);
+const live = BRANDS.filter((b) => guideCount.get(b.slug));
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Tripod Brands',
+  description: `The tripod brands ${SITE.name} covers, with every guide that features each one.`,
+  url: absUrl('/brands/'),
+  isPartOf: { '@id': absUrl('/#website') },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: BRANDS.map((b, i) => ({ '@type': 'ListItem', position: i + 1, url: absUrl(`/brand/${b.slug}/`), name: `${b.name} Tripods` })),
+  },
+}, {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: absUrl('/') },
+    { '@type': 'ListItem', position: 2, name: 'Brands', item: absUrl('/brands/') },
+  ],
+}];
+---
+<Base title="Tripod Brands: Picks and Buying Guides by Brand" description={`Tripods, heads and accessories by brand, from Peak Design and Manfrotto to Gitzo, Sirui and Leofoto, with every ${SITE.name} guide that features each one.`} jsonLd={jsonLd} noindex={live.length === 0} image="/images/og/brands.png" imageAlt={`Tripod brands: ${SITE.name}`} keywords={['tripod brands', 'best tripod brands', ...BRANDS.slice(0, 4).map((b) => `${b.name.toLowerCase()} tripod`)]}>
+  <div class="wrap">
+    <header class="page-head">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Brands</span></nav>
+      <h1>Tripod Brands</h1>
+      <p class="dek">The tripod, head and accessory makers we cover, and the guides where their products appear.</p>
+    </header>
+    <div class="rooms brand-list">
+      {BRANDS.map((b) => {
+        const n = guideCount.get(b.slug) ?? 0;
+        return (
+          <a class="room" href={`/brand/${b.slug}/`}>
+            <span><strong>{b.name}</strong><span class="blurb">{b.blurb}</span></span>
+            <span class="count">{n ? `${n} ${n === 1 ? 'guide' : 'guides'}` : 'Coming soon'}</span>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</Base>

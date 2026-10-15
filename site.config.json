@@ -51,6 +51,68 @@
       "blurb": "Arca-Swiss plates, L-brackets, clamps, spikes and tripod bags."
     }
   ],
+  "brands": [
+    {
+      "slug": "peak-design",
+      "name": "Peak Design",
+      "blurb": "San Francisco company known for camera bags and carry gear, and maker of the compact Travel Tripod in carbon fiber and aluminum."
+    },
+    {
+      "slug": "manfrotto",
+      "name": "Manfrotto",
+      "blurb": "Italian camera support maker based in Cassola, with a wide range of tripods, heads, monopods and stands, including the Befree travel line."
+    },
+    {
+      "slug": "gitzo",
+      "name": "Gitzo",
+      "blurb": "French-founded premium tripod brand, now made in Italy, known for carbon fiber tripods, heads and monopods."
+    },
+    {
+      "slug": "benro",
+      "name": "Benro",
+      "blurb": "Camera support maker from Zhongshan, China, offering travel and full-size tripods, geared and ball heads, and video support."
+    },
+    {
+      "slug": "vanguard",
+      "name": "Vanguard",
+      "blurb": "Camera support and bag maker founded in 1986, with VEO travel tripods, Alta Pro tripods and ball heads."
+    },
+    {
+      "slug": "sirui",
+      "name": "Sirui",
+      "blurb": "Zhongshan, China maker of carbon fiber and aluminum tripods, monopods and ball heads, with its own US subsidiary."
+    },
+    {
+      "slug": "joby",
+      "name": "Joby",
+      "blurb": "Maker of GorillaPod flexible tripods and mini tripods for phones, compact cameras and vlogging."
+    },
+    {
+      "slug": "really-right-stuff",
+      "name": "Really Right Stuff",
+      "blurb": "American maker of premium tripods, ball heads, L-plates and Arca-Swiss clamps."
+    },
+    {
+      "slug": "3-legged-thing",
+      "name": "3 Legged Thing",
+      "blurb": "British tripod maker from Bedfordshire, England, known for anodized travel tripods, ball heads and L-brackets."
+    },
+    {
+      "slug": "leofoto",
+      "name": "Leofoto",
+      "blurb": "Chinese maker of carbon fiber and aluminum tripods, ball heads and Arca-Swiss accessories."
+    },
+    {
+      "slug": "k-and-f-concept",
+      "name": "K&F Concept",
+      "blurb": "Shenzhen-based photo accessory brand making budget tripods, ball heads, filters and camera bags."
+    },
+    {
+      "slug": "ulanzi",
+      "name": "Ulanzi",
+      "blurb": "Shenzhen-based maker of vlogging and creator accessories, including travel tripods, phone tripods and quick-release mounts."
+    }
+  ],
   "schedule": {
     "startDate": null,
     "timezone": "America/New_York",

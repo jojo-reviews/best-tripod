@@ -13,13 +13,14 @@ const links = [
   { href: '/category/phone-tripods/', label: 'Phone' },
   { href: '/category/monopods/', label: 'Monopods' },
   { href: '/category/tripod-heads/', label: 'Heads' },
+  { href: '/brands/', label: 'Brands' },
 ];
 ---
 <header class="site-header">
   <div class="wrap">
     <Logo />
     <nav class="nav" aria-label="Main">
-      {links.map((l) => <a href={l.href} aria-current={path.startsWith(l.href) ? 'page' : undefined}>{l.label}</a>)}
+      {links.map((l) => <a href={l.href} aria-current={path.startsWith(l.href) || (l.href === '/brands/' && path.startsWith('/brand/')) ? 'page' : undefined}>{l.label}</a>)}
       <a href="/search/" class="nav-search" aria-label="Search guides">Search</a>
     </nav>
     <details class="menu">

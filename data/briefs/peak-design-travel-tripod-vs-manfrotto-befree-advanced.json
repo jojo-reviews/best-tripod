@@ -1,0 +1,242 @@
+{
+  "centralEntity": "Peak Design Travel Tripod",
+  "entityVariants": [
+    "Peak Design Travel Tripod vs Manfrotto Befree Advanced",
+    "Peak Design travel tripod vs Befree",
+    "Manfrotto Befree Advanced vs Peak Design",
+    "Peak Design or Manfrotto travel tripod",
+    "Peak Design",
+    "Befree Advanced",
+    "Manfrotto Befree Advanced"
+  ],
+  "entities": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "type": "product",
+      "relation": "5-section carbon travel tripod, 15.5 in folded, 20 lb rated load"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "type": "product",
+      "relation": "same dimensions and load as the carbon model, about 290 g heavier"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Carbon Fiber Travel Tripod",
+      "type": "product",
+      "relation": "carbon travel tripod kit with ball head, about 41 cm folded, 8 or 9 kg rated depending on listing"
+    },
+    {
+      "name": "Peak Design",
+      "type": "brand",
+      "relation": "maker of the Travel Tripod"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the Befree line"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "head included with the Befree kit and the Peak Design carbon model"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raises height but adds shake; column-down height is the stable working height"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter, vibration-damping leg material"
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "cheaper, heavier leg material"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail quick-release plate standard to check before buying"
+    },
+    {
+      "name": "twist lock",
+      "type": "component",
+      "relation": "leg lock type on the Befree carbon version per retailer copy"
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera",
+      "relation": "the kit most buyers put on these travel tripods"
+    },
+    {
+      "name": "70-200mm f/2.8",
+      "type": "lens",
+      "relation": "heavy telephoto that tests load capacity"
+    },
+    {
+      "name": "24-70mm",
+      "type": "lens",
+      "relation": "standard zoom for typical load math"
+    }
+  ],
+  "attributes": [
+    "weight",
+    "folded length",
+    "max height with column raised",
+    "column-down height",
+    "minimum height",
+    "load capacity",
+    "leg sections",
+    "leg lock type",
+    "head included",
+    "plate system",
+    "material",
+    "value"
+  ],
+  "ngrams": [
+    "travel tripod",
+    "peak design travel tripod",
+    "befree advanced",
+    "carbon fiber",
+    "folded length",
+    "load capacity",
+    "ball head",
+    "center column",
+    "max height",
+    "column down",
+    "leg sections",
+    "carry-on bag",
+    "mirrorless camera",
+    "rated load"
+  ],
+  "skipgrams": [
+    "peak\u2026design",
+    "befree\u2026advanced",
+    "folded\u2026length",
+    "load\u2026capacity",
+    "center\u2026column",
+    "ball\u2026head",
+    "carbon\u2026fiber",
+    "leg\u2026sections",
+    "travel\u2026tripod"
+  ],
+  "nlpTerms": [
+    "tripod",
+    "travel",
+    "mirrorless",
+    "stability",
+    "carbon fiber",
+    "aluminum",
+    "load capacity",
+    "folded length",
+    "maximum height",
+    "minimum height",
+    "ball head",
+    "quick release",
+    "Arca-Swiss",
+    "twist lock",
+    "center column",
+    "vibration",
+    "wind",
+    "telephoto lens",
+    "full-frame",
+    "carry-on",
+    "backpack",
+    "long exposure",
+    "landscape"
+  ],
+  "questions": [
+    "Is the Peak Design Travel Tripod better than the Manfrotto Befree Advanced?",
+    "Which is lighter, the Peak Design Travel Tripod or the Befree Advanced?",
+    "Which folds smaller for a carry-on?",
+    "How much weight can each tripod hold?",
+    "Is the Peak Design aluminum version worth it over carbon?"
+  ],
+  "contentGaps": [
+    "Column-down working height compared side by side, not just max height",
+    "Load rating against real mirrorless kits, with the Befree 8 vs 9 kg listing discrepancy flagged",
+    "Folded length difference in practical carry-on and daypack terms",
+    "Carbon vs aluminum Peak Design weight trade-off in the same comparison",
+    "Head and plate system: what to check before buying"
+  ],
+  "outline": [
+    {
+      "h2": "Short answer",
+      "intent": "Give the verdict up front",
+      "h3": []
+    },
+    {
+      "h2": "Peak Design Travel Tripod vs Manfrotto Befree Advanced: specs side by side",
+      "intent": "Comparison table",
+      "h3": []
+    },
+    {
+      "h2": "The three tripods in this comparison",
+      "intent": "Who each one suits",
+      "h3": [
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "Peak Design Travel Tripod (Aluminum)",
+        "Manfrotto Befree Advanced Carbon Fiber Travel Tripod"
+      ]
+    },
+    {
+      "h2": "Packed size and weight",
+      "intent": "Carry-on and backpack fit",
+      "h3": []
+    },
+    {
+      "h2": "Height with and without the center column",
+      "intent": "Working height",
+      "h3": []
+    },
+    {
+      "h2": "Stability and load capacity",
+      "intent": "Load vs gear weight",
+      "h3": []
+    },
+    {
+      "h2": "Head, plate and leg locks",
+      "intent": "Setup and compatibility",
+      "h3": []
+    },
+    {
+      "h2": "Value",
+      "intent": "Which is worth it",
+      "h3": []
+    },
+    {
+      "h2": "Verdict: choose the Peak Design if, choose the Befree if",
+      "intent": "Decisive recommendation",
+      "h3": []
+    }
+  ],
+  "targetWords": 1900,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://gearframe.net/compare/manfrotto-befree-advanced-travel-tripod-vs-peak-design-travel-tripod",
+      "https://markus-hagner-photography.com/manfrotto-befree-advanced-vs-peak-design-travel-tripod/",
+      "https://www.nbcnews.com/select/amp/ncna1287929",
+      "https://www.digitalcameraworld.com/au/reviews/manfrotto-befree-advanced-twist-travel-tripod-review",
+      "https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "Top results for the keyword are head-to-head spec comparisons (Gearframe, Markus Hagner Photography) and reviews that compare packed size, weight and load against the rival tripod (NBC Select, Digital Camera World); readers compare numbers first, so a spec table per product fits. Inferred from search result titles and snippets; pages were not fetched.",
+    "avgWords": 1800,
+    "avgProducts": 2,
+    "commonSections": [
+      "short verdict",
+      "spec comparison table",
+      "size and weight",
+      "height",
+      "stability",
+      "head",
+      "value",
+      "choose X if"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  }
+}
