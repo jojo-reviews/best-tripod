@@ -1,0 +1,78 @@
+{
+  "centralEntity": "tripod height",
+  "entityVariants": ["how tall a tripod should be", "tripod working height", "tripod height for your height", "tripod max height", "tripod eye level height", "tripod height for tall person"],
+  "entities": [
+    {"name": "eye level", "type": "measurement", "relation": "the target camera height for most standing shooters, about 4 to 5 inches below standing height"},
+    {"name": "center column", "type": "component", "relation": "the vertical post that adds height but reduces stability when extended"},
+    {"name": "maximum height", "type": "spec", "relation": "manufacturer figure that often includes the extended center column"},
+    {"name": "height without center column", "type": "spec", "relation": "the stable working height from legs alone, the number that matters for fit"},
+    {"name": "minimum height", "type": "spec", "relation": "lowest leg-spread height for low-angle and macro shots"},
+    {"name": "leg sections", "type": "component", "relation": "more sections mean a shorter folded length but more flex"},
+    {"name": "tripod head", "type": "component", "relation": "ball or fluid head adds roughly 3 to 5 inches to total height"},
+    {"name": "camera body and viewfinder", "type": "gear", "relation": "adds height above the head; a fold-out screen changes how high you need to go"},
+    {"name": "leg angle", "type": "mechanism", "relation": "wide-angle leg spread lowers height for low shots"},
+    {"name": "load capacity", "type": "spec", "relation": "stability falls as height increases, so tall setups need more margin"},
+    {"name": "carbon fiber tripod", "type": "material", "relation": "tall tripods stay lighter and damp vibration better in carbon fiber"},
+    {"name": "aluminum tripod", "type": "material", "relation": "cheaper tall option that weighs more"},
+    {"name": "travel tripod", "type": "tripod type", "relation": "folds short but often needs the column to reach eye level"},
+    {"name": "video tripod", "type": "tripod type", "relation": "needs height for standing interviews and a fluid head"},
+    {"name": "Manfrotto", "type": "brand", "relation": "tripod maker whose spec sheets list height with and without column"},
+    {"name": "Peak Design Travel Tripod", "type": "brand/product", "relation": "popular travel tripod with a column-based height trade-off"},
+    {"name": "wind stability", "type": "concept", "relation": "taller extension catches more wind"}
+  ],
+  "attributes": ["max height with center column", "height without center column", "minimum height", "folded length", "leg sections", "head height", "camera height above head", "load capacity", "weight", "stability at full extension", "photographer height", "eye level"],
+  "ngrams": ["tripod height", "eye level", "center column", "without the center column", "maximum height", "fully extended", "tall photographers", "working height", "leg sections", "folded length", "camera height", "tripod head", "stand up straight", "load capacity"],
+  "skipgrams": ["tripod…eye level", "center column…height", "maximum height…column", "tripod…taller", "extend…legs first", "camera…eye level", "height…without…column", "head…adds…inches", "column…stability", "tall…hunch"],
+  "nlpTerms": ["eye level", "center column", "viewfinder", "ergonomics", "hunch", "stability", "vibration", "leg extension", "leg lock", "ball head", "inverted column", "low angle", "landscape", "portrait", "rule of thumb", "inches", "centimeters", "spec sheet", "working height", "fully extended", "load rating"],
+  "questions": [
+    "What height tripod do I need if I am 6 feet tall?",
+    "Should you extend the center column on a tripod?",
+    "How is tripod maximum height measured?",
+    "Should a tripod reach eye level?",
+    "How tall should a tripod be for a tall person?",
+    "Does tripod head and camera height count toward tripod height?",
+    "Is a taller tripod less stable?",
+    "What is a good tripod height for landscape photography?",
+    "What is a good tripod height for video?"
+  ],
+  "contentGaps": [
+    "A height chart that maps person height to recommended tripod maximum height without the center column (explained as a rule of thumb: eye level is roughly 4 to 5 inches below standing height, then subtract about 5 to 8 inches for the head and camera). Top results give a single 6-foot example, not a lookup table.",
+    "Explicit explanation that advertised maximum height usually includes the extended center column and often runs 10 to 30 cm above the column-down figure, so shoppers must read the spec sheet.",
+    "Worked arithmetic: standing height minus eye offset minus head and camera height equals the needed legs-only height.",
+    "Tall-photographer ergonomics: why slightly below eye level is fine, and the trade-off between height and low-angle reach.",
+    "Stability cost of extending the column or the last leg section, with practical guidance on wind and load.",
+    "Viewfinder versus fold-out screen: how camera type changes the target height.",
+    "Carry-on and packed length trade-off for taller tripods.",
+    "How to measure your own target height at home in one minute with a tape measure.",
+    "Two concrete tripod picks that fit different height ranges, with real without-column heights from manufacturer specs."
+  ],
+  "outline": [
+    {"h2": "How Tall Should a Tripod Be for Your Height? The Short Answer", "intent": "Featured-snippet answer: legs alone should reach about your eye level minus the head and camera height, roughly your height minus 10 to 12 inches.", "h3": ["The one-line rule of thumb", "Why eye level is the target"]},
+    {"h2": "Tripod Height Chart by Your Height", "intent": "Lookup table from person height to recommended tripod maximum height without the center column, explained as a rule of thumb, not a guarantee.", "h3": ["Height chart (inches and centimeters)", "How the numbers are calculated", "Adjusting for your camera and head"]},
+    {"h2": "What Height Tripod Do You Need if You Are 6 Feet Tall?", "intent": "Answer the tall-person question directly and cover taller shooters.", "h3": ["6 feet: aim for about 60 inches without the column", "Tripod height for very tall people (6'3\" and up)", "Do you need the tallest tripod available?"]},
+    {"h2": "How Is Tripod Maximum Height Measured?", "intent": "Explain spec-sheet conventions and the gap between listed and usable height.", "h3": ["Max height usually includes the center column", "Height without the center column: the number to shop by", "Where head and camera height fit in"]},
+    {"h2": "Should You Extend the Center Column?", "intent": "Explain when the column helps and its stability cost.", "h3": ["Legs first, column last", "How much stability do you lose?", "Wind, long lenses and video"]},
+    {"h2": "Other Factors That Change the Height You Need", "intent": "Cover use case and gear variables.", "h3": ["Landscape, portrait and video heights", "Viewfinder versus tilting screen", "Minimum height and low-angle shots", "Folded length and weight trade-offs"]},
+    {"h2": "How to Measure the Right Tripod Height for You", "intent": "Practical numbered steps.", "h3": ["Measure eye level", "Subtract head and camera height", "Compare with the column-down spec"]},
+    {"h2": "Tripods That Fit Different Heights", "intent": "Light, non-pushy product mention, two picks that solve the problem; each has a height spec without the column.", "h3": []},
+    {"h2": "Tripod Height FAQ", "intent": "Quick answers to People Also Ask questions.", "h3": []},
+    {"h2": "Next Steps", "intent": "Point to the relevant best-tripod comparison guide.", "h3": []}
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.ulanzi.com/blogs/news/tripod-height-guide-perfect-photography",
+      "https://www.smallrig.com/blog/how-to-choose-camera-tripod-height.html",
+      "https://www.talkphotography.co.uk/threads/tripod-suggestion-for-tall-guy.459298/",
+      "https://www.talkphotography.co.uk/threads/tripod-maximum-height.774072/post-9719874"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Informational top results are explainer prose and forum threads with no spec tables or pros/cons lists; any product mention is a short prose recommendation, so paragraph fits a tofu guide.",
+    "avgWords": 1300,
+    "avgProducts": 2,
+    "commonSections": ["why tripod height matters", "eye level rule of thumb", "height by use case (landscape, portrait, travel, low angle)", "center column and stability", "how to choose / what to look for"],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  }
+}

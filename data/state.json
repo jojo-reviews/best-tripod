@@ -1,4 +1,12 @@
 {
-  "startDate": null,
-  "published": []
+  "startDate": "2026-10-15",
+  "published": [
+    {
+      "date": "2026-10-15",
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "keyword": "how tall should a tripod be for my height",
+      "category": "camera-tripods",
+      "funnel": "tofu"
+    }
+  ]
 }

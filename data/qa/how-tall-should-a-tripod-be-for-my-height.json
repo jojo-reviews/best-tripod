@@ -1,0 +1,15 @@
+{
+  "slug": "how-tall-should-a-tripod-be-for-my-height",
+  "pass": true,
+  "checkedAt": "2026-10-15T19:56:02.433Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Manfrotto MT055XPRO3 re-confirmed via search of Procam, Foto-Erhardt, Adorama, Markertek listings: 140 cm no column, 169.9 cm raised, min 8.9-9 cm, 24 in closed, 2.5 kg/5.5 lb. Vanguard Alta Pro 263AB Gen 2 confirmed against Vanguard US page and B&H: 55.3 in standard height, 27.4 in folded, 5.1 lb, 22 lb load; removed unconfirmed 9.6 in min height (other listings say 8.4 in). Peak Design aluminum Travel Tripod: 51.25 in column down, 60 in raised confirmed on retailer listings (Glazers, Cathay). Chart arithmetic recomputed for all rows (in and cm), consistent; labelled rule of thumb. No ownership claims, prices or ratings.",
+    "at": "2026-10-15T19:56:01.964Z"
+  }
+}
