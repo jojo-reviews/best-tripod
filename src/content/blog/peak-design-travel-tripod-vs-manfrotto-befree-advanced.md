@@ -87,6 +87,27 @@ products:
       20 lb load and 51-inch column-down height are strong for the size;
       15.5-inch folded length is carry-on friendly; premium price holds value
       back.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Holds up well over years; one owner says it still feels new after
+          eight years
+        - Weight saving makes gear easier to carry
+      complaints:
+        - Expensive
+        - Still heavy for multi-day hikes at about 1.27 kg
+      sources:
+        - title: 'Anders Noren: Peak Design Travel Tripod review'
+          url: >-
+            https://andersnoren.se/gear/photography/peak-design-travel-tripod-review/
+        - title: 'Expert Vagabond: Peak Design Travel Tripod'
+          url: 'https://expertvagabond.com/peak-design-travel-tripod/'
+        - title: 'MobileSyrup: Peak Design carbon tripod review'
+          url: >-
+            https://mobilesyrup.com/2023/05/28/peak-design-carbon-fibre-travel-tripod-review/
+        - title: 'Backcountry: Peak Design Travel Tripod'
+          url: 'https://www.backcountry.com/peak-design-travel-tripod'
   - name: Peak Design Travel Tripod (Aluminum)
     brand: Peak Design
     query: Peak Design Travel Tripod aluminum
@@ -123,6 +144,27 @@ products:
     scoreNote: >-
       Same capacity and height as the carbon model, but 3.4 lb costs
       portability; less expensive route into the design.
+    owners:
+      read: 5
+      praise:
+        - Very slim packed size and sturdy in a breeze
+        - 'Build quality, and saves money over carbon'
+      complaints:
+        - Heavier than owners expected
+        - >-
+          Unusual head takes getting used to; center column must be raised to
+          move it
+      sources:
+        - title: 'Digital Camera World: Peak Design aluminum review'
+          url: >-
+            https://www.digitalcameraworld.com/reviews/peak-design-travel-tripod-aluminum-review
+        - title: 'Pentax Forums: Peak Design Travel Tripod'
+          url: >-
+            https://www.pentaxforums.com/reviews/peak-design-travel-tripod-review/conclusion.html
+        - title: 'REI: Peak Design Travel Tripod Aluminum'
+          url: 'https://www.rei.com/product/180076'
+        - title: 'Le Long Weekend: Peak Design Travel Tripod review'
+          url: 'https://www.lelongweekend.com/peak-design-travel-tripod-review/'
   - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
     brand: Manfrotto
     query: Manfrotto Befree Advanced carbon fiber travel tripod
@@ -158,6 +200,29 @@ products:
     scoreNote: >-
       Light and compact with a solid load rating; 150 cm max height and a 40 cm
       minimum limit height flexibility.
+    owners:
+      read: 4
+      praise:
+        - Narrow four-section legs are surprisingly rigid
+        - Good balance of portability and stability
+      complaints:
+        - Basic features for the price
+        - >-
+          Not ideal for long exposures in breeze; head plate not compatible with
+          L-brackets
+      sources:
+        - title: 'TechRadar: Manfrotto Befree Advanced Carbon review'
+          url: >-
+            https://www.techradar.com/cameras/camera-accessories/manfrotto-befree-advanced-carbon-fiber-travel-tripod-review
+        - title: 'Digital Camera World: Befree Advanced Carbon review'
+          url: >-
+            https://www.digitalcameraworld.com/reviews/manfrotto-befree-advanced-carbon-fiber-travel-tripod-review
+        - title: 'Have Camera Will Travel: Befree Advanced'
+          url: >-
+            https://havecamerawilltravel.com/manfrotto-befree-advanced-travel-tripod/
+        - title: 'Shotkit: Befree Advanced review'
+          url: >-
+            https://shotkit.com/manfrotto-befree-advanced-as-twist-carbon-tripod-review/
 sources:
   - title: 'Glazer''s Camera: Peak Design Travel Tripod (carbon)'
     url: >-

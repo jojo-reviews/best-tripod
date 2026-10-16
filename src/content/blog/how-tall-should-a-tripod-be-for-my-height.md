@@ -84,6 +84,19 @@ products:
     scoreNote: >-
       Eye level with the column down and a low-angle option; heavy and long
       folded.
+    owners:
+      read: 3
+      praise:
+        - 'Very sturdy and well built, described as solid as a rock'
+        - Good value for the stability
+      complaints:
+        - Not light to carry
+        - Included head in bundles rated lower than the legs
+      sources:
+        - title: 'Adorama: Manfrotto 055 tripod listing'
+          url: 'https://www.adorama.com/bg055xprobkd.html'
+        - title: 'Adorama: Manfrotto 055 kit'
+          url: 'https://www.adorama.com/BG055XPROB52.html'
   - name: Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)
     brand: Vanguard
     query: Vanguard Alta Pro 263AB Gen 2 aluminum tripod BH-60 ball head
@@ -115,6 +128,24 @@ products:
       build: 8
       value: 9
     scoreNote: Eye level with the column down and a head included; long when folded.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Sturdier than the original Alta Pro, redesigned center column stays
+          firm horizontally
+        - >-
+          Good build quality for the money, multi-angle column helps low and
+          macro shots
+      complaints:
+        - Takes practice to learn all the knobs
+        - Questionable how comfortable it is to carry
+      sources:
+        - title: 'Adorama: Vanguard Alta Pro 2+ 263AB'
+          url: 'https://www.adorama.com/vgapro2263ab.html'
+        - title: 'Park Cameras: Vanguard Alta Pro 2+ 263AB100'
+          url: >-
+            https://www.parkcameras.com/shop/vanguard-alta-pro-2-263ab100-3-section-aluminium-tripod-and-ball-head-kit_9373620f
 sources:
   - title: Manfrotto MT055XPRO3 (B&H)
     url: >-

@@ -43,9 +43,9 @@ function ownersHtml(p) {
   if (!o) return '';
   const list = (xs) => xs.map((x) => `<li>${esc(x)}</li>`).join('');
   return (
-    `<div class="owners"><p class="owners-h">What owners say <span>from ${o.read} owner review${o.read === 1 ? '' : 's'} and posts we read</span></p>` +
-    `<div class="owners-cols"><div class="owners-good"><p class="owners-sub">Owners praise</p><ul>${list(o.praise)}</ul></div>` +
-    `<div class="owners-bad"><p class="owners-sub">Owners complain about</p><ul>${list(o.complaints)}</ul></div></div>` +
+    `<div class="owners"><p class="owners-h">What owners and reviewers say <span>from ${o.read} review${o.read === 1 ? '' : 's'} and posts we read</span></p>` +
+    `<div class="owners-cols"><div class="owners-good"><p class="owners-sub">Praised for</p><ul>${list(o.praise)}</ul></div>` +
+    `<div class="owners-bad"><p class="owners-sub">Common complaints</p><ul>${list(o.complaints)}</ul></div></div>` +
     `<p class="owners-src">Read on: ${o.sources.map((s) => `<a href="${esc(s.url)}" rel="noopener nofollow" target="_blank">${esc(s.title)}</a>`).join(' · ')}</p></div>`
   );
 }

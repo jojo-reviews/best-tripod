@@ -179,7 +179,7 @@ if (d.products.length > 1) {
           <aside class="research-box" aria-labelledby="how-picked">
             <h2 id="how-picked">How we picked these</h2>
             <ul>
-              <li><b>{ownerReads}</b> owner reviews and discussions read across <b>{ownerSources.length}</b> sources, so every pick comes with what real owners praise and complain about.</li>
+              <li><b>{ownerReads}</b> owner reviews, user discussions and expert reviews read across <b>{ownerSources.length}</b> sources, so every pick shows what buyers praise and complain about.</li>
               <li>Every spec checked against <b>{d.sources.length}</b> maker and retailer pages.</li>
               <li>We did not test these products ourselves, and we say so. All sources are linked at the end of this guide.</li>
             </ul>
@@ -236,7 +236,7 @@ if (d.products.length > 1) {
             {d.sources.length > 0 && <ol>{d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.title}</a></li>)}</ol>}
             {ownerSources.length > 0 && (
               <>
-                <h3>Owner reviews and discussions we read</h3>
+                <h3>Reviews and discussions we read</h3>
                 <ol>{ownerSources.map((s) => <li><a href={s.url} rel="noopener nofollow" target="_blank">{s.title}</a></li>)}</ol>
               </>
             )}

@@ -80,6 +80,25 @@ products:
       build: 6
       value: 8
     scoreNote: Light and compact; proprietary plate and modest load rating.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Smooth movement and firm lock with mid-weight DSLR and 70-200mm f/2.8
+          setups
+        - 'Light and compact, works well on a monopod'
+      complaints:
+        - Proprietary RC2 plate will not take Arca-Swiss plates
+        - No bubble level on the head
+      sources:
+        - title: 'Pentax Forums: Manfrotto mini ball head 496RC2'
+          url: >-
+            https://www.pentaxforums.com/accessoryreviews/manfrotto-mini-ball-head-496rc2.html
+        - title: 'Greentoe: Manfrotto 496RC2 listing reviews'
+          url: >-
+            https://greentoe.com/product/Manfrotto_496RC2_Compact_Ball_Head_with_200PL-14_QR_Plate_496RC2
+        - title: 'Adorama: Manfrotto 496RC2'
+          url: 'https://www.adorama.com/bg496RC2.html'
   - name: Leofoto LH-40
     brand: Leofoto
     query: Leofoto LH-40 ball head
@@ -109,6 +128,17 @@ products:
       build: 8
       value: 9
     scoreNote: High rating for its weight with an Arca-style clamp.
+    owners:
+      read: 1
+      praise:
+        - Controls described as smooth and easy to operate
+        - Low-profile design with separate pan lock and friction control
+      complaints:
+        - No recurring complaint in the 1 owner post we read
+      sources:
+        - title: Leofoto LH-40 at Adorama
+          url: >-
+            https://www.adorama.com/leofoto-lh-40-low-profile-ball-head/p/leolh40
   - name: Sirui K-30X Ball Head
     brand: Sirui
     query: Sirui K-30X ball head
@@ -139,6 +169,19 @@ products:
       build: 8
       value: 8
     scoreNote: Strong rating for its weight.
+    owners:
+      read: 3
+      praise:
+        - 'Solid, smooth ball movement with wide friction range'
+        - 'Holds camera and lens firmly, feels well made'
+      complaints:
+        - Traditional screw-type friction control is the biggest drawback
+      sources:
+        - title: 'LensVid: Sirui K-30X Ballhead Review'
+          url: >-
+            https://lensvid.com/gear/lensvid-exclusive-sirui-k-30x-ballhead-review/
+        - title: 'Castle Cameras: Sirui K-30X'
+          url: 'https://castlecameras.co.uk/sirui-k-30x-ball-head/p2327'
   - name: Manfrotto XPRO 3-Way Head MHXPRO-3W
     brand: Manfrotto
     query: Manfrotto XPRO 3-way head MHXPRO-3W
@@ -168,6 +211,19 @@ products:
       build: 7
       value: 7
     scoreNote: 'Precise and well rated, but heavy with a proprietary plate.'
+    owners:
+      read: 4
+      praise:
+        - Precise micrometric adjustment on all three axes
+        - 'Compact and light for its 8 kg rating, with three bubble levels'
+      complaints:
+        - 'No Arca-Swiss clamp, awkward with L-brackets'
+        - One owner reported the leveling grip slipping without warning
+      sources:
+        - title: 'Wim Arys: Manfrotto X-PRO 3-Way head review'
+          url: 'https://www.wimarys.com/manfrotto-x-pro-3-way-head-review/'
+        - title: 'Adorama: Manfrotto MHXPRO-3W'
+          url: 'https://www.adorama.com/tpxbgmhxpro3.html'
   - name: Benro GD3WH 3-Way Geared Head
     brand: Benro
     query: Benro GD3WH geared head
@@ -197,6 +253,23 @@ products:
       build: 8
       value: 7
     scoreNote: Precise gears and Arca plate; modest load rating and extra weight.
+    owners:
+      read: 4
+      praise:
+        - 'Ultra-fine, precise adjustments for landscape and architecture'
+        - Good value; one buyer rated it above a $500 ball head
+      complaints:
+        - 'Chunky and heavy, with slightly limited lateral tilt'
+        - Quick-release knob faces away from the user
+      sources:
+        - title: 'Fstoppers: Benro GD3WH review'
+          url: >-
+            https://fstoppers.com/reviews/affordable-geared-head-option-review-benro-gd3wh-3-way-geared-tripod-head-634272
+        - title: 'Digital Camera World: Benro GD3WH review'
+          url: >-
+            https://www.digitalcameraworld.com/cameras/tripods/benro-gd3wh-geared-head-review
+        - title: 'Adorama: Benro GD3WH'
+          url: 'https://www.adorama.com/begd3wh.html'
 sources:
   - title: Manfrotto 496RC2 (Greentoe)
     url: >-

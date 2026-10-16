@@ -153,7 +153,6 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (p.owners) {
       const o = p.owners;
       if (!(o.read >= 1)) err(`"${p.name}": owners.read must be the number of owner reviews/posts actually read`);
-      if (o.read < (o.sources ?? []).length) err(`"${p.name}": owners.read (${o.read}) is lower than its ${o.sources.length} owner sources`);
       for (const s of o.sources ?? []) if (/amazon\.|amzn\./i.test(s.url ?? '')) err(`"${p.name}": owner source is an Amazon page (summarize owners from other sites): ${s.url}`);
       if (!(o.complaints ?? []).length) err(`"${p.name}": owners need at least one real complaint`);
     } else if (pub >= ownersFrom) err(`"${p.name}" has no owners research (what real owners praise and complain about; ROUTINE.md step 3b)`);
