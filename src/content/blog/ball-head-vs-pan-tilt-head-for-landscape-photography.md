@@ -170,7 +170,7 @@ products:
       value: 8
     scoreNote: Strong rating for its weight.
     owners:
-      read: 3
+      read: 6
       praise:
         - 'Solid, smooth ball movement with wide friction range'
         - 'Holds camera and lens firmly, feels well made'
@@ -182,6 +182,8 @@ products:
             https://lensvid.com/gear/lensvid-exclusive-sirui-k-30x-ballhead-review/
         - title: 'Castle Cameras: Sirui K-30X'
           url: 'https://castlecameras.co.uk/sirui-k-30x-ball-head/p2327'
+        - title: Adorama customer reviews
+          url: 'https://www.adorama.com/sibsrk30.html'
   - name: Manfrotto XPRO 3-Way Head MHXPRO-3W
     brand: Manfrotto
     query: Manfrotto XPRO 3-way head MHXPRO-3W

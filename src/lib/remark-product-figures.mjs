@@ -44,7 +44,7 @@ function ownersHtml(p) {
   const list = (xs) => xs.map((x) => `<li>${esc(x)}</li>`).join('');
   const pool = o.sources.reduce((n, s) => n + (s.reviews ?? 0), 0);
   const basis = pool > 0
-    ? `review themes from ${pool.toLocaleString('en-US')} owner reviews, plus ${o.read} posts and reviews we read`
+    ? `review themes from ${pool.toLocaleString('en-US')} owner reviews${o.read ? `, plus ${o.read} posts and reviews we read` : ''}`
     : `from ${o.read} review${o.read === 1 ? '' : 's'} and posts we read`;
   return (
     `<div class="owners"><p class="owners-h">What owners and reviewers say <span>${basis}</span></p>` +

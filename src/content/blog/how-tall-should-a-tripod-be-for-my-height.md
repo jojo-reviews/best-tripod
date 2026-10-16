@@ -85,10 +85,13 @@ products:
       Eye level with the column down and a low-angle option; heavy and long
       folded.
     owners:
-      read: 3
+      read: 5
       praise:
         - 'Very sturdy and well built, described as solid as a rock'
         - Good value for the stability
+        - >-
+          Steady in wind and quick to level thanks to the rotating head-plate
+          level
       complaints:
         - Not light to carry
         - Included head in bundles rated lower than the legs
@@ -97,6 +100,9 @@ products:
           url: 'https://www.adorama.com/bg055xprobkd.html'
         - title: 'Adorama: Manfrotto 055 kit'
           url: 'https://www.adorama.com/BG055XPROB52.html'
+        - title: B&H customer reviews
+          url: >-
+            https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html
   - name: Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)
     brand: Vanguard
     query: Vanguard Alta Pro 263AB Gen 2 aluminum tripod BH-60 ball head

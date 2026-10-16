@@ -36,7 +36,7 @@ const product = z.object({
   // research agent actually read (never Amazon review text or star ratings).
   owners: z
     .object({
-      read: z.number().int().min(1),
+      read: z.number().int().min(0),
       praise: z.array(z.string()).min(1).max(4),
       complaints: z.array(z.string()).min(1).max(4),
       // reviews: how many owner reviews that page holds (its review themes cover all of them)

@@ -155,25 +155,31 @@ products:
       Same capacity and height as the carbon model, but 3.4 lb costs
       portability; less expensive route into the design.
     owners:
-      read: 3
+      read: 4
       praise:
+        - 'High build quality and durability, per Backcountry reviewer summary'
         - Compact folded size and clever design
         - Ball head and overall size liked by owners
-        - One owner reports almost two years of travel use
       complaints:
-        - >-
-          Somewhat heavy; carbon saves little weight for the extra cost, per one
-          owner
+        - Somewhat heavy; one REI reviewer questioned stability and weight
+        - Hard to point camera straight down; small hex tool easily falls out
         - 'Slender bottom legs vibrate in wind, per a forum owner'
       sources:
         - title: 'REI: Peak Design Travel Tripod - Aluminum'
           url: 'https://www.rei.com/product/180076'
+          reviews: 1150
         - title: 'Adorama: Used Peak Design Aluminum Travel Tripod'
           url: >-
             https://www.adorama.com/used-peak-design-aluminum-travel-tripod-with-ball-head/p/us1824128
         - title: 'BCG Forums: Seeking advice on Peak Design Travel Tripod'
           url: >-
             https://bcgforums.com/threads/seeking-advice-on-peak-design-travel-tripod.11998
+        - title: Best Buy customer reviews
+          url: 'https://www.bestbuy.com/site/6364717.p'
+          reviews: 217
+        - title: Backcountry customer reviews
+          url: 'https://backcountry.com/peak-design-travel-tripod'
+          reviews: 1040
   - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
     brand: Manfrotto
     query: Manfrotto Befree Advanced carbon fiber travel tripod
@@ -217,7 +223,9 @@ products:
         - Twist locks feel better made than budget Manfrotto models
       complaints:
         - 'Included 494 head uses a non-Arca plate, awkward with L brackets'
-        - Not ideal for long exposures in even light wind
+        - >-
+          Some customer feedback in an aggregator summary raises stability and
+          feature-practicality concerns
         - Price is high for the features
       sources:
         - title: 'Have Camera Will Travel: Befree Advanced hands-on'
@@ -226,6 +234,9 @@ products:
         - title: 'TechRadar: Manfrotto Befree Advanced Carbon Fiber review'
           url: >-
             https://www.techradar.com/cameras/camera-accessories/manfrotto-befree-advanced-carbon-fiber-travel-tripod-review
+        - title: 'ShopSavvy review summary: Manfrotto Befree Advanced'
+          url: >-
+            https://next.shopsavvy.com/reviews-tldr/manfrotto-befree-advanced-tripod
   - name: Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH)
     brand: Manfrotto
     query: Manfrotto Element MII aluminum tripod ball head
@@ -274,6 +285,7 @@ products:
         - title: 'Harvey Norman NZ: Manfrotto Element MII customer review'
           url: >-
             https://www.harveynorman.co.nz/cameras/camera-accessories/tripods-and-monopods/manfrotto-element-mii-aluminium-tripod-with-ball-head-black.html
+          reviews: 21
         - title: 'Space.com: Manfrotto Element MII review'
           url: 'https://space.com/manfrotto-element-mii-tripod-review'
   - name: >-
@@ -354,6 +366,7 @@ products:
         - title: 'Sweetwater: Benro FSL09AN00 customer reviews'
           url: >-
             https://www.sweetwater.com/store/detail/BenroTripodAl--benro-slim-travel-camera-tripod-aluminum/reviews
+          reviews: 3
         - title: 'Adorama: Benro Slim Travel Tripod Kit (Just Reduced listing)'
           url: >-
             https://www.adorama.com/specials/l/Photography/Tripods-and-Supports/Tripods/Benro~Photo-Tripods
@@ -392,7 +405,7 @@ products:
       Strong height and 8 kg rating; at about 1.6 lb heavier than the lightest
       carbon picks.
     owners:
-      read: 3
+      read: 5
       praise:
         - Portable and travel-friendly
         - Retailer owners rate it well overall in small samples
@@ -400,15 +413,21 @@ products:
       complaints:
         - One owner reported a stuck twist lock
         - Heavier and longer folded (about 18 in) than marketing suggests
+        - >-
+          Feels less stable than some rivals; one reviewer hangs a bag from the
+          hook for steadiness
       sources:
         - title: 'Verkkokauppa: Sirui Traveler 7C reviews'
           url: >-
             https://www.verkkokauppa.com/en/product/664993/Sirui-Traveler-7C-camera-tripod-black/reviews
+          reviews: 5
         - title: 'Coolblue: Sirui Traveler 7C'
           url: >-
             https://www.coolblue.be/en/product/908062/sirui-traveler-7c-travel-tripod.html
         - title: 'Digital Photo Mentor: Sirui Traveler 7C'
           url: 'https://www.digitalphotomentor.com/?p=96572'
+        - title: Desertcart customer reviews
+          url: 'https://www.desertcart.sg/products/242874557-carbon-fiber-7c.md'
   - name: Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head
     brand: Sirui
     query: Sirui Traveler 5C carbon fiber tripod
@@ -444,7 +463,7 @@ products:
     scoreNote: Very light and compact; 4 kg load and 138 cm height cap it for heavy gear.
     matchName: Sirui Traveler 5C Carbon Fiber Tripod
     owners:
-      read: 4
+      read: 5
       praise:
         - Light and portable for the money
         - Held up well in muddy and field conditions
@@ -465,6 +484,13 @@ products:
         - title: 'Review-Rating: Sirui Traveler 5C'
           url: >-
             https://www.review-rating.com/en/product/sirui-traveler-5c-carbon-fiber-55030
+        - title: Masterfoto customer reviews
+          url: >-
+            https://masterfoto.lv/en/photo-tripods/40826-sirui-traveler-5c-carbon-tripod---895g-31cm-138cm.html
+          reviews: 1
+        - title: 'ShopSavvy review summary: Sirui Traveler 5C'
+          url: >-
+            https://shopsavvy.com/reviews-tldr/"sirui-compact-traveler-5c-tripod".md
   - name: Sirui Traveler 5A Aluminium Tripod with 3T-35 Ball Head
     brand: Sirui
     query: Sirui Traveler 5A aluminum tripod
@@ -579,6 +605,17 @@ products:
       build: 8
       value: 8
     scoreNote: Very light with Arca plate; 6 kg and 117 cm column-down height limit.
+    owners:
+      read: 1
+      praise:
+        - Owner calls it a good travel companion
+        - Low-angle leg positions suit macro work
+      complaints:
+        - 'Only one owner review found, so no recurring complaint can be reported'
+      sources:
+        - title: Kakaku.com customer reviews
+          url: 'https://review.kakaku.com/review/K0001285387/'
+          reviews: 1
   - name: Vanguard VEO 3 GO 235CB
     brand: Vanguard
     query: Vanguard VEO 3 GO 235CB

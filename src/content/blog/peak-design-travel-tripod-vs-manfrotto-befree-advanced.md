@@ -145,15 +145,18 @@ products:
       Same capacity and height as the carbon model, but 3.4 lb costs
       portability; less expensive route into the design.
     owners:
-      read: 5
+      read: 7
       praise:
         - Very slim packed size and sturdy in a breeze
         - 'Build quality, and saves money over carbon'
       complaints:
-        - Heavier than owners expected
+        - >-
+          Heavier than owners expected; one REI reviewer questioned stability of
+          the tapered legs
         - >-
           Unusual head takes getting used to; center column must be raised to
           move it
+        - Pointing the camera straight down is difficult
       sources:
         - title: 'Digital Camera World: Peak Design aluminum review'
           url: >-
@@ -163,8 +166,15 @@ products:
             https://www.pentaxforums.com/reviews/peak-design-travel-tripod-review/conclusion.html
         - title: 'REI: Peak Design Travel Tripod Aluminum'
           url: 'https://www.rei.com/product/180076'
+          reviews: 1156
         - title: 'Le Long Weekend: Peak Design Travel Tripod review'
           url: 'https://www.lelongweekend.com/peak-design-travel-tripod-review/'
+        - title: Backcountry customer reviews
+          url: 'https://backcountry.com/peak-design-travel-tripod'
+          reviews: 1042
+        - title: Best Buy customer reviews
+          url: 'https://www.bestbuy.com/site/6364717.p'
+          reviews: 217
   - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
     brand: Manfrotto
     query: Manfrotto Befree Advanced carbon fiber travel tripod
