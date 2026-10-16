@@ -27,7 +27,10 @@ const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(
             <span class="tp-badge">{p.badge}{productScore(p.scores) != null && <span class="tp-score"> · {productScore(p.scores)!.toFixed(1)}/5</span>}</span>
             <a class="tp-name" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank">{p.name}</a>
           </div>
-          <a class="btn btn-quiet btn-sm tp-go" href={inBody.includes(p.name) ? `#pick-${slug(p.name)}` : amazonUrl({ asin: p.asin, query: p.query })} {...(inBody.includes(p.name) ? {} : { rel: AFFILIATE_REL, target: '_blank' })}>{inBody.includes(p.name) ? 'Jump to review' : 'Check price'}</a>
+          <div class="tp-actions">
+            {inBody.includes(p.name) && <a class="btn btn-quiet btn-sm tp-go" href={`#pick-${slug(p.name)}`}>Jump to review</a>}
+            <a class="btn btn-buy btn-sm tp-buy" href={amazonUrl({ asin: p.asin, query: p.query })} rel={AFFILIATE_REL} target="_blank">Check price</a>
+          </div>
         </li>
       ))}
     </ol>
