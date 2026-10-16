@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url';
 import { log } from './lib/config.mjs';
 import { listPosts, writePost } from './lib/store.mjs';
 import { hasAmazonApi, getItems, matchProduct } from './lib/amazon.mjs';
+import { amazonCandidates } from './amazon-candidates.mjs';
 
 const AGENT = 'amazon-refresh';
 
@@ -57,6 +58,10 @@ export async function refreshAmazon() {
       changed++;
     }
   }
+  // Products still without an ASIN link to an Amazon search and have no photo: list the real
+  // listings so the next session can pick the right ASIN or swap the product (ROUTINE.md step 3c).
+  const left = await amazonCandidates();
+  log(AGENT, `${left.length} products still without an ASIN (see data/amazon-unmatched.json)`);
   log(AGENT, `${changed} posts updated`);
   return changed;
 }

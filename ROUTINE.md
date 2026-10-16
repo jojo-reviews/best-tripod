@@ -163,6 +163,16 @@ give that source `reviews: <the number of reviews the page shows>`. Use that num
 page or in its search result; never estimate it. Amazon reviews themselves may be read for research, but write
 the findings in your own words and never quote them, show Amazon star ratings or Amazon review counts.
 
+## 3c. Every product needs its own Amazon listing (ASIN)
+A product that links to an Amazon search page instead of its own listing has no photo and is hard to buy, so it
+must not ship. Only feature products you have seen on Amazon US as one clear listing. After a push the Amazon
+refresh adds the ASIN and photo; if it can't match a product it writes the real Amazon candidates to
+`data/amazon-unmatched.json` (`strictMatch: true` marks a certain match). Before writing each day's post, open that
+file: for every product listed, either set `asin` to the candidate that is the SAME model (and add a short
+`matchName` so the daily refresh keeps matching it), or replace the product with a similar, popular model Amazon does
+sell (still recommended by the top-10 pages, step 3), and update the post's text to match. Never point a product at a
+different model or variant just to get a photo.
+
 ## 4. Semantic brief
 Follow `BRIEF_SYSTEM` in `agents/writer-agent.mjs` (search the live SERP for the
 keyword). Save it as `data/briefs/<slug>.json` with exactly these fields:
