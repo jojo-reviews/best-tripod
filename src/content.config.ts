@@ -39,7 +39,8 @@ const product = z.object({
       read: z.number().int().min(1),
       praise: z.array(z.string()).min(1).max(4),
       complaints: z.array(z.string()).min(1).max(4),
-      sources: z.array(z.object({ title: z.string(), url: z.string().url() })).min(1),
+      // reviews: how many owner reviews that page holds (its review themes cover all of them)
+      sources: z.array(z.object({ title: z.string(), url: z.string().url(), reviews: z.number().int().optional() })).min(1),
     })
     .optional(),
 });

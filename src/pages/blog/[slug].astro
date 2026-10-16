@@ -27,6 +27,7 @@ const modified = d.updatedDate ?? d.pubDate;
 // Owner research totals for the "How we picked" box and the sources list.
 const ownerReads = d.products.reduce((n, p) => n + (p.owners?.read ?? 0), 0);
 const ownerSources = [...new Map(d.products.flatMap((p) => p.owners?.sources ?? []).map((s) => [s.url, s])).values()];
+const reviewPool = ownerSources.reduce((n, s) => n + (s.reviews ?? 0), 0);
 const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
@@ -179,7 +180,8 @@ if (d.products.length > 1) {
           <aside class="research-box" aria-labelledby="how-picked">
             <h2 id="how-picked">How we picked these</h2>
             <ul>
-              <li><b>{ownerReads}</b> owner reviews, user discussions and expert reviews read across <b>{ownerSources.length}</b> sources, so every pick shows what buyers praise and complain about.</li>
+              {reviewPool > 0 && <li>Review themes from <b>{reviewPool.toLocaleString('en-US')}</b> verified-buyer and owner reviews on retailer sites, so every pick shows what buyers praise and complain about.</li>}
+              <li><b>{ownerReads}</b> owner posts, user discussions and expert reviews read across <b>{ownerSources.length}</b> sources.</li>
               <li>Every spec checked against <b>{d.sources.length}</b> maker and retailer pages.</li>
               <li>We did not test these products ourselves, and we say so. All sources are linked at the end of this guide.</li>
             </ul>
@@ -237,7 +239,7 @@ if (d.products.length > 1) {
             {ownerSources.length > 0 && (
               <>
                 <h3>Reviews and discussions we read</h3>
-                <ol>{ownerSources.map((s) => <li><a href={s.url} rel="noopener nofollow" target="_blank">{s.title}</a></li>)}</ol>
+                <ol>{ownerSources.map((s) => <li><a href={s.url} rel="noopener nofollow" target="_blank">{s.title}</a>{s.reviews ? ` (${s.reviews.toLocaleString('en-US')} reviews)` : ''}</li>)}</ol>
               </>
             )}
           </section>

@@ -157,6 +157,12 @@ share should also appear in the product's cons and in the review text ("owners o
 then shows a "How we picked these" box with the total reviews read and a "What owners say" block per product,
 and lists every owner source at the end.
 
+Also open each product's retailer review pages (REI, B&H, Best Buy, Adorama, Backcountry, Home Depot, Walmart,
+Target) and review-summary sites (ShopSavvy and similar summaries of Amazon reviews): read the review themes and
+give that source `reviews: <the number of reviews the page shows>`. Use that number only when you saw it on the
+page or in its search result; never estimate it. Amazon reviews themselves may be read for research, but write
+the findings in your own words and never quote them, show Amazon star ratings or Amazon review counts.
+
 ## 4. Semantic brief
 Follow `BRIEF_SYSTEM` in `agents/writer-agent.mjs` (search the live SERP for the
 keyword). Save it as `data/briefs/<slug>.json` with exactly these fields:

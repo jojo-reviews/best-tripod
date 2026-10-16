@@ -42,11 +42,15 @@ function ownersHtml(p) {
   const o = p.owners;
   if (!o) return '';
   const list = (xs) => xs.map((x) => `<li>${esc(x)}</li>`).join('');
+  const pool = o.sources.reduce((n, s) => n + (s.reviews ?? 0), 0);
+  const basis = pool > 0
+    ? `review themes from ${pool.toLocaleString('en-US')} owner reviews, plus ${o.read} posts and reviews we read`
+    : `from ${o.read} review${o.read === 1 ? '' : 's'} and posts we read`;
   return (
-    `<div class="owners"><p class="owners-h">What owners and reviewers say <span>from ${o.read} review${o.read === 1 ? '' : 's'} and posts we read</span></p>` +
+    `<div class="owners"><p class="owners-h">What owners and reviewers say <span>${basis}</span></p>` +
     `<div class="owners-cols"><div class="owners-good"><p class="owners-sub">Praised for</p><ul>${list(o.praise)}</ul></div>` +
     `<div class="owners-bad"><p class="owners-sub">Common complaints</p><ul>${list(o.complaints)}</ul></div></div>` +
-    `<p class="owners-src">Read on: ${o.sources.map((s) => `<a href="${esc(s.url)}" rel="noopener nofollow" target="_blank">${esc(s.title)}</a>`).join(' · ')}</p></div>`
+    `<p class="owners-src">Read on: ${o.sources.map((s) => `<a href="${esc(s.url)}" rel="noopener nofollow" target="_blank">${esc(s.title)}</a>${s.reviews ? ` (${s.reviews.toLocaleString('en-US')} reviews)` : ''}`).join(' · ')}</p></div>`
   );
 }
 
