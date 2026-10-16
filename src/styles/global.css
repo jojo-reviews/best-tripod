@@ -360,11 +360,14 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .toppicks li { display: grid; grid-template-columns: 64px 1fr auto; gap: 14px; align-items: center; padding: 12px 0; border-top: 1px solid var(--rule); }
 .toppicks li:first-child { border-top: 0; }
 .toppicks li > img { width: 64px; height: 64px; object-fit: contain; background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 4px; }
+/* Same box when a product has no photo yet, so the name never falls into the image column. */
+.toppicks li > .tp-ph { width: 64px; height: 64px; display: grid; place-items: center; background: #fff; border: 1px solid var(--rule); border-radius: 6px; font-family: var(--display); font-weight: 800; font-size: 1.4rem; color: var(--rule); }
+.toppicks .tp-text { min-width: 0; }
 .tp-text { display: grid; gap: 2px; min-width: 0; }
 .tp-badge { font-family: var(--display); font-size: var(--s-1); font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--tape-ink); }
 .tp-name { font-family: var(--display); font-weight: 700; color: var(--ink); text-decoration: none; line-height: 1.3; }
 .tp-name:hover { text-decoration: underline; }
-@media (max-width: 560px) { .toppicks li { grid-template-columns: 52px 1fr; } .toppicks li > img { width: 52px; height: 52px; } .tp-go { grid-column: 2; justify-self: start; } }
+@media (max-width: 560px) { .toppicks li { grid-template-columns: 52px 1fr; } .toppicks li > img, .toppicks li > .tp-ph { width: 52px; height: 52px; } .tp-go { grid-column: 2; justify-self: start; } }
 
 .pblock { margin: .4em 0 1.4em; font-family: var(--display); }
 .pblock-badge { margin: 0 0 10px !important; font-size: var(--s-1); font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--tape-ink); }

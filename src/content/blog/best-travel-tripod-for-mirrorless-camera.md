@@ -233,6 +233,7 @@ products:
       build: 8
       value: 8
     scoreNote: High load rating for the weight; 139.5 cm max keeps height score modest.
+    matchName: Benro Rhino Carbon Fiber Zero Series VX20
   - name: Benro Slim Aluminum Travel Tripod Kit (FSL09AN00)
     brand: Benro
     query: Benro Slim travel tripod aluminum FSL09AN00
@@ -262,6 +263,7 @@ products:
       build: 6
       value: 8
     scoreNote: 'Compact and inexpensive, but the 4 kg load restricts it to lighter kits.'
+    matchName: Benro Slim Travel Aluminum Tripod Kit
   - name: Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7C carbon fiber tripod E-10 ball head
@@ -329,6 +331,7 @@ products:
       build: 8
       value: 8
     scoreNote: Very light and compact; 4 kg load and 138 cm height cap it for heavy gear.
+    matchName: Sirui Traveler 5C Carbon Fiber Tripod
   - name: Sirui Traveler 5A Aluminium Tripod with 3T-35 Ball Head
     brand: Sirui
     query: Sirui Traveler 5A aluminum tripod
@@ -486,6 +489,7 @@ products:
       build: 8
       value: 7
     scoreNote: Strong load and height; weight and fold hold portability.
+    matchName: 3 Legged Thing Punks Travis 2.0
   - name: K&F Concept K254C2 Carbon Fiber Tripod with 36mm Ball Head
     brand: K&F Concept
     query: K&F Concept K254C2 carbon fiber tripod
