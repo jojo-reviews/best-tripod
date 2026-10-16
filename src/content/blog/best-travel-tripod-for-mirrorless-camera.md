@@ -188,63 +188,80 @@ products:
     amazonTitle: >-
       Peak Design Travel Tripod, Aluminum, Compact Design, Quick Setup and
       Takedown
-  - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
+  - name: >-
+      Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball
+      Head (MKBFRLA4BK-BH)
     brand: Manfrotto
-    query: Manfrotto Befree Advanced carbon fiber travel tripod
+    query: Manfrotto Befree Advanced Camera Tripod Lever Closure Ball Head
     badge: Best all-rounder
     summary: >-
-      A long-running travel tripod with a 9 kg rated load in a roughly 41 cm
-      folded package. Popular with mirrorless shooters who want a ready-to-go
-      kit.
+      A 4-section aluminum Befree Advanced kit with lever leg locks, a 494 ball
+      head and an 8 kg rated load, folding to about 40 cm. A mainstream,
+      ready-to-go kit for mirrorless shooters who like flip-style locks.
     renterNote: >-
-      Mirrorless shooters who want a balanced carbon travel tripod with a ball
-      head included; check the exact variant for lock type and sections.
+      Mirrorless shooters with a body and standard zoom who want a familiar
+      brand, quick lever locks and a head included, and can carry about 1.6 kg;
+      long telephoto users should look at higher-rated picks.
     pros:
-      - Packs to about 41 cm (16 in)
-      - Rated for about 9 kg in most listings
-      - Weighs about 1.25 to 1.3 kg
+      - Lever locks show at a glance whether each section is closed
+      - Folds to about 40 cm (15.7 in) and rated for 8 kg (17.6 lb)
+      - About 128 cm with the column down and about 150 cm raised
     cons:
-      - 'Load rating varies by listing (8 or 9 kg), so check the exact variant'
-      - Max height about 150 cm needs the column raised
+      - About 1.6 kg is heavy next to the carbon picks
+      - >-
+        Some owners find it not stable enough for heavier telephoto lenses or
+        long exposures in wind
+      - No monopod conversion
     specs:
-      Weight: about 1.27 kg (2.8 lb)
-      Material: Carbon fiber
-      Max height: about 150 cm (59 in)
-      Min height: about 40 cm (15.7 in)
-      Folded length: about 41 cm (16.1 in)
-      Load capacity: about 9 kg (19.8 lb)
-      Leg locks: 'Twist (carbon version, per retailer copy)'
+      Weight: about 1.6 kg (3.5 lb)
+      Material: Aluminum
+      Max height (column raised): about 150 cm (59.1 in)
+      Max height (column down): about 128 cm (50.4 in)
+      Min height: about 40 cm (15.8 in)
+      Folded length: about 40 cm (15.7 in)
+      Load capacity: 8 kg (17.6 lb)
+      Leg sections: '4'
+      Leg locks: Lever
+      Head: 494 ball head with separate pan lock and friction control
     scores:
-      stability: 8
-      portability: 8
+      stability: 7
+      portability: 7
       height: 7
       build: 8
       value: 8
     scoreNote: >-
-      Light and compact with a solid load rating; 150 cm max height and a 40 cm
-      minimum limit height flexibility.
+      8 kg rating and a 128 cm column-down height are solid for the class; 1.6
+      kg weight trims portability, and owner reports of shake with telephotos
+      hold stability at 7.
     owners:
-      read: 2
+      read: 4
       praise:
-        - Very compact and light for travel
-        - Four-section legs feel rigid for their size
-        - Twist locks feel better made than budget Manfrotto models
+        - 'Well built and worth the price, per an Adorama reviewer'
+        - Sturdy yet light and folds down small
+        - Included ball head handles typical mirrorless kits well
       complaints:
-        - 'Included 494 head uses a non-Arca plate, awkward with L brackets'
         - >-
-          Some customer feedback in an aggregator summary raises stability and
-          feature-practicality concerns
-        - Price is high for the features
+          Not stable enough for heavier telephoto lenses, per an Adorama
+          reviewer
+        - >-
+          Too light for long exposures in wind without added weight, per another
+          reviewer
+        - >-
+          Modest 150 cm maximum height and no monopod conversion, per a
+          Befree Advanced AS review
       sources:
-        - title: 'Have Camera Will Travel: Befree Advanced hands-on'
+        - title: 'Adorama: Manfrotto Befree Advanced Lever aluminum kit reviews'
+          url: 'https://www.adorama.com/bgbaattlbh.html'
+        - title: >-
+            Digital Camera World: Manfrotto Befree Advanced AS review (sibling
+            version)
           url: >-
-            https://havecamerawilltravel.com/manfrotto-befree-advanced-travel-tripod/
-        - title: 'TechRadar: Manfrotto Befree Advanced Carbon Fiber review'
-          url: >-
-            https://www.techradar.com/cameras/camera-accessories/manfrotto-befree-advanced-carbon-fiber-travel-tripod-review
-        - title: 'ShopSavvy review summary: Manfrotto Befree Advanced'
-          url: >-
-            https://next.shopsavvy.com/reviews-tldr/manfrotto-befree-advanced-tripod
+            https://www.digitalcameraworld.com/reviews/manfrotto-befree-advanced-as-review
+    asin: B0772WLSHZ
+    amazonTitle: >-
+      Manfrotto Befree Advanced Camera Tripod with Lever Closure, Portable and
+      Compact Travel Tripod Kit with Ball Head
+    matchName: Manfrotto Befree Advanced Camera Tripod Lever Closure
   - name: Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH)
     brand: Manfrotto
     query: Manfrotto Element MII aluminum tripod ball head
@@ -518,36 +535,59 @@ products:
     amazonTitle: >-
       Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber
       Travel Tripod for Camera with 360° Panorama Ball Head
-  - name: Sirui Traveler 5A Aluminium Tripod with 3T-35 Ball Head
+  - name: Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head
     brand: Sirui
-    query: Sirui Traveler 5A aluminum tripod
-    badge: Best budget compact
+    query: Sirui Traveler 7A aluminum tripod E-10 ball head
+    badge: Best budget for height
     summary: >-
-      Aluminum sibling of the 5C with the same 138 cm and 33 cm dimensions, at
-      about 1.05 kg and 4 kg load.
-    renterNote: Mirrorless shooters who want a compact aluminum tripod for light kits.
+      The aluminum twin of the Traveler 7C: four sections, 166.5 cm with the
+      column raised, an 8 kg rating and an E-10 ball head with an Arca-style
+      plate, folding to about 48 cm. Tall reach for less than carbon money.
+    renterNote: >-
+      Taller mirrorless shooters on a budget who want near eye-level height and
+      a monopod leg, and who can carry about 1.9 kg and a 48 cm fold.
     pros:
-      - Folds to about 33 cm
-      - About 1.05 kg
-      - Removable center column and 3T-35 ball head
+      - 166.5 cm (65.6 in) maximum height with the column raised
+      - 8 kg (17.6 lb) rated load per Sirui
+      - One leg converts to a monopod; reversible center column
     cons:
-      - 4 kg load rating
-      - 138 cm max height
+      - About 1.89 kg with head is among the heaviest picks here
+      - About 48 cm folded is long for a daypack side pocket
+      - 'Some users note shake in wind, per a review summary'
     specs:
-      Weight: 1.05 kg (2.3 lb)
+      Weight: about 1.89 kg (4.16 lb) with head
       Material: Aluminum
-      Max height: 138 cm (54.3 in)
-      Min height: 16 cm
-      Folded length: 33 cm (13 in)
-      Load capacity: 4 kg (8.8 lb)
-      Leg sections: '5'
+      Max height (column raised): 166.5 cm (65.6 in)
+      Folded length: about 48 cm (18.9 in)
+      Load capacity: 8 kg (17.6 lb)
+      Leg sections: '4'
+      Leg locks: Twist
+      Head: E-10 ball head with Arca-style plate
     scores:
-      stability: 6
-      portability: 9
-      height: 6
+      stability: 7
+      portability: 6
+      height: 9
       build: 7
       value: 9
-    scoreNote: 'Official table: light and compact for the money, limited by 4 kg load.'
+    scoreNote: >-
+      166.5 cm reach and an 8 kg rating for an aluminum price earn height and
+      value; 1.89 kg and a 48 cm fold cost portability.
+    owners:
+      read: 1
+      praise:
+        - Portable enough for travel, per a user review summary
+        - Easy to set up and use
+      complaints:
+        - 'Some users note stability issues in wind, per a review summary'
+      sources:
+        - title: 'Review-Rating: Sirui Traveler 7A summary'
+          url: >-
+            https://www.review-rating.com/en/product/sirui-traveler-7a-aluminum-camera-77746
+    asin: B07KD274QV
+    amazonTitle: >-
+      SIRUI Traveler 7A 65.55'' Aluminum Camera Tripod, E-10 Panorama Ball Head
+      and Arca Swiss Quick Release Plate
+    matchName: Sirui Traveler 7A Aluminum Tripod
   - name: Gitzo Traveler Series 1 GT1555T
     brand: Gitzo
     query: Gitzo GT1555T Traveler Series 1 tripod
@@ -606,48 +646,60 @@ products:
       Gitzo GT1555T Traveler Tripod - Compact, Foldable and Light with Short
       Column
     matchName: Gitzo GT1555T Traveler
-  - name: Leofoto LS-224C Ranger with LH-25 Ball Head
+  - name: Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head
     brand: Leofoto
-    query: Leofoto LS-224C Ranger tripod LH-25
+    query: Leofoto LS-224CX LH-25LR carbon fiber compact tripod
     badge: Best ultralight
     summary: >-
-      A 4-section 22 mm carbon tripod at about 0.91 kg with head, folding to
-      about 47 cm.
-    renterNote: Light mirrorless shooters who prize weight; the tripod is rated 6 kg.
+      A 4-section 22 mm carbon Ranger without a standard center column, about
+      0.9 kg with its small LH-25LR ball head and rated 6 kg. It tops out near
+      45 inches, so it is a low, light tripod for hikers and seated shooting.
+    renterNote: >-
+      Light mirrorless kits on long hikes, or anyone who shoots from a low
+      stance, a table or a wall; at about 114 cm max it is well below eye level
+      for most adults.
     pros:
-      - About 0.91 kg with head
-      - Arca-Swiss PU-25 plate included
-      - 148.5 cm max height
+      - About 0.9 kg (1.98 lb) with head
+      - Leg angles of 23, 55 and 85 degrees for very low shots
+      - Removable ballast hook for hanging a bag, per retailer listings
     cons:
-      - 6 kg tripod load
-      - About 47 cm folded
+      - About 113.7 cm (44.8 in) max height means stooping or sitting
+      - 6 kg load suits light kits only
+      - Retailer specs disagree on folded length and height
     specs:
-      Weight: about 0.91 kg with head
+      Weight: about 0.9 kg (1.98 lb) with head
       Material: Carbon fiber
-      Max height: 148.5 cm
-      Max height (no column): 117 cm
-      Min height: 13 cm
-      Folded length: about 47 cm
-      Load capacity: 6 kg
+      Max height: about 113.7 cm (44.8 in)
+      Min height: about 8 cm (3.2 in)
+      Folded length: about 47.3 cm (18.6 in) with head
+      Load capacity: 6 kg (13.2 lb)
       Leg sections: '4'
+      Head: LH-25LR ball head (25 mm ball)
     scores:
       stability: 6
       portability: 9
-      height: 7
+      height: 4
       build: 8
-      value: 8
-    scoreNote: Very light with Arca plate; 6 kg and 117 cm column-down height limit.
+      value: 7
+    scoreNote: >-
+      0.9 kg with head earns portability; a 6 kg rating and about 114 cm
+      maximum height pull stability and height down.
     owners:
       read: 1
       praise:
-        - Owner calls it a good travel companion
-        - Low-angle leg positions suit macro work
+        - Owner says it is light to carry
+        - Felt sturdy with both a DSLR and a mirrorless camera
       complaints:
         - 'Only one owner review found, so no recurring complaint can be reported'
       sources:
-        - title: Kakaku.com customer reviews
-          url: 'https://review.kakaku.com/review/K0001285387/'
+        - title: 'Leofoto USA: LS-224CX Ranger kit customer review'
+          url: >-
+            https://leofotousa.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set
           reviews: 1
+    asin: B0DQKY998S
+    amazonTitle: >-
+      LEOFOTO 45" Carbon Fiber Compact Tripod 360° Ball Head LS-224CX+LH-25LR
+    matchName: Leofoto LS-224CX LH-25LR
   - name: Vanguard VEO 3 GO 235CB
     brand: Vanguard
     query: Vanguard VEO 3 GO 235CB
@@ -740,47 +792,68 @@ products:
             https://photobite.uk/the-measure/themeasure-3-legged-thing-travis-2-0-tripod-review-the-punk-got-an-upgrade/
     asin: B09CDVH6R4
     amazonTitle: 3 Legged Thing Punks Travis 2.0 Magnesium Alloy General Use Tripod
-  - name: K&F Concept K254C2 Carbon Fiber Tripod with 36mm Ball Head
+  - name: K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head
     brand: K&F Concept
-    query: K&F Concept K254C2 carbon fiber tripod
-    badge: Best value carbon
+    query: K&F Concept 64 inch lightweight aluminum travel camera tripod ball head
+    badge: Best value
     summary: >-
-      A 1.6 m carbon tripod with 36mm metal ball head, 8 kg load, 41.5 cm fold,
-      around 1.1 kg.
-    renterNote: Budget-minded mirrorless shooters who want carbon with ball head included.
+      A low-cost 4-section aluminum travel tripod (K&F model KF09.101) that
+      reaches about 163 cm, folds to about 39 cm and weighs about 1.24 kg with
+      its 28 mm metal ball head, rated 8 kg by K&F.
+    renterNote: >-
+      Budget-minded mirrorless shooters with a body and standard zoom who want
+      height and a head included for little money; heavy telephoto users should
+      expect to re-tighten the head.
     pros:
-      - 8 kg rating
-      - About 1.1 kg
-      - 1.62 m max
+      - About 163 cm (64 in) maximum height for a budget price
+      - Folds to about 39 cm (15.35 in) at about 1.24 kg (2.73 lb)
+      - Reversible center column for low-angle shots
     cons:
-      - 'Specs from retailers, not K&F'
-      - Weight differs by seller
+      - >-
+        Owners report the small ball head can drift and the legs shake with
+        heavy lenses
+      - 8 kg rating looks optimistic for a 28 mm ball head
+      - K&F does not publish a column-down height
     specs:
-      Weight: about 1.1 kg
-      Material: Carbon fiber
-      Max height: 162 cm
-      Folded length: 41.5 cm
-      Load capacity: 8 kg
-      Head: 36mm metal ball head
+      Weight: about 1.24 kg (2.73 lb) with head
+      Material: Aluminum
+      Max height (column raised): about 163 cm (64 in)
+      Folded length: about 39 cm (15.35 in)
+      Load capacity: 8 kg (17.64 lb)
+      Leg sections: '4'
+      Leg locks: Flip (per retailer listings)
+      Head: 28 mm metal ball head
     scores:
-      stability: 7
+      stability: 6
       portability: 8
-      height: 9
-      build: 7
+      height: 8
+      build: 6
       value: 9
-    scoreNote: 'Carbon, 8 kg and tall for little weight; build less proven.'
+    scoreNote: >-
+      Tall, compact and inexpensive, so value and height score well; the small
+      head and owner reports of shake with heavy gear hold stability and build
+      at 6.
     owners:
-      read: 2
+      read: 3
       praise:
-        - Light and stable for the weight
-        - Not flimsy and very adjustable
+        - Solid with plenty of adjustment; knobs feel tight with no rattling
+        - Very good value for the price
+        - Light and portable for light to medium camera kits
       complaints:
-        - Ball head described as only average
+        - Ball head can drift with heavy lenses and needs re-tightening
+        - Legs can feel shaky with heavier gear
       sources:
-        - title: 'Plaza Kamera: K&F Concept K254C2 listing with user comments'
-          url: 'https://plazakamera.com/shop/kf-concept-carbon-fiber-tripod-k254c2/'
-        - title: 'Desertcart: K254C2 + BH-36 listing'
-          url: 'https://www.desertcart.ae/products/524989555-o254c2-bh-36'
+        - title: 'K&F Concept: 64-inch aluminum travel tripod customer reviews'
+          url: >-
+            https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head
+          reviews: 141
+        - title: 'ShopSavvy review summary: K&F Concept 64" tripod'
+          url: 'https://www.shopsavvy.com/reviews-tldr/kandf-concept-64"-tripod'
+    asin: B0B1HYVVTV
+    amazonTitle: >-
+      K&F Concept 64 inch/163cm Lightweight Aluminum Travel Camera Tripod |
+      Compact and Portable, 360° Ball Head
+    matchName: K&F Concept 64 inch Lightweight Aluminum Travel Camera Tripod
   - name: Ulanzi Zero F38 Carbon Fiber Travel Tripod
     brand: Ulanzi
     query: Ulanzi Zero F38 carbon fiber travel tripod
@@ -847,11 +920,17 @@ sources:
   - title: 'Glazer''s Camera: Peak Design Travel Tripod alu'
     url: >-
       https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-alu
-  - title: 'Digital Camera World: Manfrotto Befree Advanced Carbon Fiber review'
+  - title: 'Manfrotto: Befree Advanced Aluminum Travel Tripod lever, ball head'
     url: >-
-      https://www.digitalcameraworld.com/reviews/manfrotto-befree-advanced-carbon-fiber-travel-tripod-review
-  - title: 'Have Camera Will Travel: Befree Advanced review'
-    url: 'https://havecamerawilltravel.com/manfrotto-befree-advanced-travel-tripod/'
+      https://www.manfrotto.com/us-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/
+  - title: 'B&H: Manfrotto Befree Advanced Travel Tripod (MKBFRLA4BK-BHUS)'
+    url: >-
+      https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html
+  - title: 'Syntex: Manfrotto Befree Advanced Aluminum Travel Tripod lever'
+    url: 'https://www.syntex.tv/manfrotto-befree-advanced-aluminum-travel-tripod-l'
+  - title: 'Digital Camera Warehouse: Manfrotto MKBFRLA4BK-BH'
+    url: >-
+      https://www.digitalcamerawarehouse.com.au/manfrotto-mkbfrla4bk-bh-befree-advanced-travel-aluminium-tripod-with-494-ball-head-lever-locks-black
   - title: 'Greentoe: Manfrotto Element MII Aluminum'
     url: >-
       https://greentoe.com/product/Manfrotto_Manfrotto_Element_MII_Aluminum_Tripod_with_Ball_Head__Black__MKELMII4BK-BH
@@ -879,23 +958,26 @@ sources:
   - title: 'Castle Cameras: Sirui Traveller 5C'
     url: >-
       https://www.castlecameras.co.uk/sirui-traveller-5c-carbon-fibre-tripod-with-ball-head/p13320
-  - title: 'Sirui store: Traveler 5A'
+  - title: 'Sirui store: Traveler 7A'
+    url: 'https://store.sirui.com/products/sirui-traveler-7a-7c'
+  - title: 'Masterfoto: Sirui Traveler 7A'
     url: >-
-      https://store.sirui.com/products/sirui-traveler-5c-5a-54-3-inches-lightweight-carbon-fiber-aluminum-travel-tripod
-  - title: 'Digital Camera Warehouse: Sirui Traveller 5A'
-    url: >-
-      https://www.digitalcamerawarehouse.com.au/sirui-traveller-5a-aluminium-tripod-with-3t-35-ball-head
+      https://www.masterfoto.lv/en/photo-tripods/42224-sirui-traveler-7a-aluminium-tripod-166cm-189kg.html
   - title: 'Greentoe: Gitzo GT1555T'
     url: >-
       https://www.greentoe.com/product/Gitzo_GT1555T_Series_1_Traveler_Carbon_Fiber_Tripod_GT1555T
   - title: 'Wex: Gitzo GT1555T'
     url: >-
       https://www.wexphotovideo.com/gitzo-gt1555t-series-1-traveler-carbon-exact-tripod-1578614/
-  - title: 'Park Cameras: Leofoto Ranger LS-224C'
+  - title: 'Adorama: Leofoto LS-224CX with LH-25'
     url: >-
-      https://parkcameras.com/shop/leofoto-ranger-ls-224c-tripod-and-ballhead-lh-25_l000007f
-  - title: 'Campkins: Leofoto LS-224C'
-    url: 'https://www.campkinscameras.com/?p=119610'
+      https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh
+  - title: 'Tanotis: Leofoto LS-224CX'
+    url: >-
+      https://www.tanotis.com/collections/vendors/products/leofoto-ls-224cx-carbon-fiber-tripod
+  - title: 'Conns Cameras: Leofoto LS-224CX and LH-25 specs'
+    url: >-
+      https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/
   - title: 'Clifton Cameras: VEO 3 GO 235CB spec sheet'
     url: >-
       https://www.cliftoncameras.co.uk/uploads/specifications/Vanguard%20VEO%203GO%20235CB%20Travel%20Tripod%20%20Specifications%20.pdf
@@ -905,12 +987,12 @@ sources:
     url: 'https://www.3leggedthing.com/us/travis-2-tripod-system.html'
   - title: 'Adorama: 3LT Travis 2.0'
     url: 'https://www.adorama.com/3lttvidk20.html'
-  - title: 'Harvey Norman: K&F Concept carbon travel tripod'
+  - title: 'K&F Concept: 64-inch aluminum travel camera tripod (KF09.101)'
     url: >-
-      https://www.harveynorman.com.au/k-and-f-concept-carbon-fiber-lightweight-travel-tripod-64inch.html
-  - title: 'Syntex: K&F K254C2'
+      https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head
+  - title: 'Kentfaith: K&F KF09.101 travel tripod'
     url: >-
-      https://www.syntex.tv/k-f-1-6m-carbon-fiber-lightweight-travel-tripod-with-36mm-metal-ball-head-load-capacity-8kg-17-6lbs-quick-release-plate-for-dslr-cameras-indoor-outdoor-use-k254c2-bh-36l
+      https://www.kentfaith.com/KF09.101_lightweight-travel-tripod-compact-vlog-camera-tripod-flexible-portable-63-quot-1-6m-17-64lbs-8kg-load-with-portable-monopod-for-dslr-cameras-bi234m
   - title: 'Adorama: Ulanzi Zero F38'
     url: 'https://www.adorama.com/ul3131.html'
   - title: 'B&H: Ulanzi Zero F38'
@@ -935,9 +1017,10 @@ faqs:
   - q: Is carbon fiber worth it for a travel tripod?
     a: >-
       Usually, if you carry the tripod on foot. Carbon fiber is lighter and
-      damps vibration faster than aluminum. The Sirui Traveler 5C and 5A share
-      the same dimensions but differ by about 200 g, and the Peak Design carbon
-      and aluminum versions differ by about 290 g.
+      damps vibration faster than aluminum. The Sirui Traveler 7C and 7A share
+      the same four-section design but weigh about 1.59 kg and 1.89 kg with
+      head, about 300 g apart, and the Peak Design carbon and aluminum versions
+      differ by about 290 g.
   - q: Can I take a travel tripod on a plane in a carry-on?
     a: >-
       Most travel tripods in this guide fold to between 33 and 48 cm, which may
@@ -966,7 +1049,7 @@ The best travel tripod for mirrorless camera kits is the one that holds your act
 Here is the short version of how I would choose:
 
 - **Best overall:** Peak Design Travel Tripod (Carbon Fiber), for its 20 lb load, 15.5-inch fold and 51.25-inch column-down height.
-- **Best all-rounder:** Manfrotto Befree Advanced Carbon Fiber Travel Tripod, a balanced carbon kit with a ball head.
+- **Best all-rounder:** Manfrotto Befree Advanced Aluminum Travel Tripod with lever locks, an 8 kg kit with a ball head and a 128 cm column-down height.
 - **Best lightweight:** Sirui Traveler 5C, at about 850 g with a 33 cm fold.
 - **Best for carry-on:** Vanguard VEO 3 GO 235CB, which folds to about 33 cm and converts to a monopod.
 - **Best premium compact:** Gitzo Traveler Series 1 GT1555T, 14 inches folded with a 22 lb rating.
@@ -985,27 +1068,27 @@ The table below compares all 15 travel tripods on the specs that matter most for
 |---|---|---|---|---|---|
 | Peak Design Travel Tripod (Carbon Fiber) | 2.81 lb (1.27 kg) | 15.5 in (39.4 cm) | 60 in (152.4 cm) | 51.25 in (130.2 cm) | 20 lb (9.1 kg) |
 | Peak Design Travel Tripod (Aluminum) | 3.44 lb (1.56 kg) | 15.5 in (39.4 cm) | 60 in (152.4 cm) | 51.25 in (130.2 cm) | 20 lb (9.1 kg) |
-| Manfrotto Befree Advanced Carbon Fiber | about 1.27 kg (2.8 lb) | about 41 cm (16.1 in) | about 150 cm (59 in) | not listed | about 9 kg; check the listing |
+| Manfrotto Befree Advanced Aluminum (lever) | about 1.6 kg (3.5 lb) | about 40 cm (15.7 in) | about 150 cm (59.1 in) | about 128 cm (50.4 in) | 8 kg (17.6 lb) |
 | Manfrotto Element MII Aluminum | about 1.55 kg (3.4 lb) | about 42.5 cm (16.7 in) | not listed | not listed | about 8 kg (17.6 lb) |
 | Benro Rhino Zero Series with VX20 | 2.73 lb (1.24 kg) | not listed | 54.9 in (139.5 cm) | not listed | 22.05 lb (10 kg) |
 | Benro Slim Aluminum Kit | 2.6 lb (1.18 kg) | 12.9 in (33 cm) | check the listing | not listed | 8.8 lb (about 4 kg) |
 | Sirui Traveler 7C | about 1.59 kg with head | about 48 cm (18.9 in) | check the listing | not listed | 8 kg (Sirui store); check the listing |
 | Sirui Traveler 5C | about 0.85 kg (1.87 lb); check the listing | about 33 cm (13 in); check the listing | 138 cm (54.3 in) | not listed | 4 kg (8.8 lb) |
-| Sirui Traveler 5A | 1.05 kg (2.3 lb) | 33 cm (13 in) | 138 cm (54.3 in) | not listed | 4 kg (8.8 lb) |
+| Sirui Traveler 7A | about 1.89 kg (4.16 lb) with head | about 48 cm (18.9 in) | 166.5 cm (65.6 in) | not listed | 8 kg (17.6 lb) |
 | Gitzo Traveler Series 1 GT1555T | 2.27 lb (1.03 kg) | 14 in (35.5 cm) | 54.3 in (138 cm) | 47.6 in (121 cm) | 22 lb (10 kg) |
-| Leofoto LS-224C Ranger with LH-25 | about 0.91 kg with head | about 47 cm | 148.5 cm | 117 cm | 6 kg |
+| Leofoto LS-224CX Ranger with LH-25LR | about 0.9 kg with head | about 47.3 cm with head; check the listing | no standard column | about 113.7 cm (44.8 in) | 6 kg (13.2 lb) |
 | Vanguard VEO 3 GO 235CB | about 1.06 kg; check the listing | 33 cm | 136 cm | 106 cm | 4 kg |
 | 3 Legged Thing Punks Travis 2.0 | 1.82 kg (4.01 lb); check the listing | 45.7 cm | 1.66 m (65.3 in) | 1.36 m (53.5 in) | 18 kg at 23°, 8 kg at 80° |
-| K&F Concept K254C2 | about 1.1 kg; check the listing | 41.5 cm | 162 cm | not listed | 8 kg |
+| K&F Concept 64 Inch Aluminum | about 1.24 kg (2.73 lb) | about 39 cm (15.35 in) | about 163 cm (64 in) | not listed | 8 kg (17.64 lb) |
 | Ulanzi Zero F38 Carbon Fiber | about 2.4 lb | 16.7 in | 62.6 in | 52.76 in | head rated 6 kg |
 
-Two patterns jump out. First, only seven of these 15 list a column-down height, and that is the number that decides whether you stoop. Second, the 33 cm club (Benro Slim, Sirui 5C and 5A, Vanguard) all pair that short fold with a 4 kg load, so the smallest packed size comes with the tightest weight capacity.
+Two patterns jump out. First, only eight of these 15 list a column-down height (counting the Leofoto, which has no standard column), and that is the number that decides whether you stoop. Second, the 33 cm club (Benro Slim, Sirui 5C, Vanguard) all pair that short fold with a 4 kg load, so the smallest packed size comes with the tightest weight capacity.
 
 ## How We Chose These Travel Tripods
 
 **We ranked these tripods from manufacturer spec sheets, retailer listings and published reviews, then scored each one on stability, portability, height, build and value.** We haven't had these tripods in hand, so every figure here is the maker's or retailer's claim, not a measured value.
 
-> **From our notes:** When I lined up the spec sheets for these fifteen travel tripods, the first thing I noticed was how far apart the two height numbers sit. The Vanguard VEO 3 GO 235CB lists 136 cm with the column raised but 106 cm with it down, and the Leofoto Ranger drops from 148.5 cm to 117 cm. Only a handful of makers publish the column-down figure at all, so I added a separate column for it in our sheet and marked every blank as "not listed" instead of guessing. That one column moved our ranking more than weight did.
+> **From our notes:** When I lined up the spec sheets for these fifteen travel tripods, the first thing I noticed was how far apart the two height numbers sit. The Vanguard VEO 3 GO 235CB lists 136 cm with the column raised but 106 cm with it down, and the Manfrotto Befree Advanced lever kit drops from about 150 cm to about 128 cm. Only a handful of makers publish the column-down figure at all, so I added a separate column for it in our sheet and marked every blank as "not listed" instead of guessing. That one column moved our ranking more than weight did.
 
 Our shortlist started from the products that keep appearing in travel tripod roundups. We kept only those whose specs we could confirm from at least two sources. Flexible mini tripods are a different tool, so they are left out of a list built around eye-level work.
 
@@ -1021,9 +1104,9 @@ The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+ca
 
 The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) keeps the carbon version's 15.5-inch fold, its 51.25 to 60 inch height range and its 20 lb rated load. What changes is weight: at 3.44 lb (1.56 kg) it is about 290 g heavier than the carbon model. That matters on a long hike and barely matters on a city trip where the tripod lives in the hotel until sunset. The center column can be removed or reversed for low shots down to about 5.5 inches, which is handy for macro and low-angle foregrounds. I'd pick this version if you want the Peak Design size and height but the carbon price is a stretch. The same five-section caveat applies, so expect a few extra seconds per setup compared with a four-section tripod.
 
-### Manfrotto Befree Advanced Carbon Fiber Travel Tripod: Best all-rounder
+### Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH): Best all-rounder
 
-The [Manfrotto Befree Advanced Carbon Fiber Travel Tripod](amzn:Manfrotto+Befree+Advanced+carbon+fiber+travel+tripod) is a long-running carbon travel tripod that ships as a ready-to-go kit with a ball head. It packs to about 41 cm and weighs about 1.25 to 1.3 kg, which puts it right in the middle of this list on portability. Most listings rate it for about 9 kg, but reviews such as [Have Camera Will Travel's](https://havecamerawilltravel.com/manfrotto-befree-advanced-travel-tripod/) say 8 kg. Check the listing for the exact variant, its lock type and its section count. Its roughly 150 cm maximum height needs the column raised, and the 40 cm minimum height limits low-angle work. We see it as the sensible middle choice for a Manfrotto BeFree Advanced buyer who wants one balanced tripod rather than the lightest or tallest.
+The [Manfrotto Befree Advanced Aluminum Travel Tripod with lever locks](amzn:Manfrotto+Befree+Advanced+Camera+Tripod+Lever+Closure+Ball+Head) is the mainstream, ready-to-go kit in this list. Four aluminum leg sections close with lever locks, so you can see at a glance that every section is clamped, and the 494 ball head has separate pan lock and friction knobs. It folds to about 40 cm, carries an 8 kg (17.6 lb) rating and reaches about 150 cm with the column raised. The number that matters more is about 128 cm with the column down, per [Syntex's spec listing](https://www.syntex.tv/manfrotto-befree-advanced-aluminum-travel-tripod-l), which puts it in the top half of this roundup for stable working height. The trade-off is weight: about 1.6 kg is heavy next to the carbon picks. Owners on Adorama report it is not stable enough for heavier telephoto lenses and can shake in wind on long exposures, so I'd pair it with a body and standard zoom. There is no monopod conversion. It suits a mirrorless shooter who wants one balanced, familiar-brand tripod rather than the lightest or tallest.
 
 ### Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH): Best mid-range aluminum
 
@@ -1045,17 +1128,17 @@ The [Sirui Traveler 7C](amzn:Sirui+Traveler+7C+carbon+fiber+tripod+E-10+ball+hea
 
 The [Sirui Traveler 5C](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) is one of the lightest tripods in this roundup at about 850 g on Sirui's own store, and it folds to about 33 cm. Some listings say 31.5 cm and up to about 895 g, so check the listing. Five carbon fiber sections use sealed twist locks, which helps keep grit out on beaches, and the center column is removable for low work down to 16 cm. It suits a Fujifilm X series or other APS-C shooter with a compact body and lens who wants a daypack-friendly fold. The limits are clear in the numbers: a 4 kg (8.8 lb) load and a 138 cm (54.3 in) maximum height. That means no long telephoto lenses and no eye-level framing for most adults. If you mainly shoot travel scenes, blue hour and the odd long exposure with a light kit, those limits rarely bite.
 
-### Sirui Traveler 5A Aluminium Tripod with 3T-35 Ball Head: Best budget compact
+### Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head: Best budget for height
 
-The [Sirui Traveler 5A](amzn:Sirui+Traveler+5A+aluminum+tripod) is the aluminum sibling of the 5C, with the same 138 cm maximum height, 16 cm minimum and 33 cm fold. It weighs about 1.05 kg instead of 850 g, and that 200 g difference is the whole trade-off between the two. You still get a removable center column and the 3T-35 ball head. It suits a mirrorless shooter who wants a compact, portable tripod for a light kit and would rather spend on a lens than on carbon fiber. The 4 kg load rating keeps it in light-kit territory. In my view, the 5A is the smarter buy for occasional use, and the 5C makes more sense if the tripod rides in your backpack every single day.
+The [Sirui Traveler 7A](amzn:Sirui+Traveler+7A+aluminum+tripod+E-10+ball+head) is the aluminum twin of the Traveler 7C above, and it is the cheaper way to get real height. [Sirui's store page](https://store.sirui.com/products/sirui-traveler-7a-7c) lists 166.5 cm with the column raised, an 8 kg (17.6 lb) load and a folded length of about 48 cm. Four aluminum sections use twist locks, one leg converts to a monopod, and the center column reverses for low-angle work. The E-10 ball head comes with an Arca-style plate, so standard L-brackets fit. The cost of aluminum is weight: about 1.89 kg with the head, roughly 300 g more than the 7C and among the heaviest picks here. Sirui doesn't publish a column-down height, so expect to raise the column to reach eye level. A user review summary praises its portability and ease of use, but some users note shake in wind. It suits a taller mirrorless shooter on a budget who travels by car or carries the tripod on a pack strap rather than in a side pocket.
 
 ### Gitzo Traveler Series 1 GT1555T: Premium compact travel tripod for mirrorless shooters
 
 The [Gitzo Traveler Series 1 GT1555T](amzn:Gitzo+GT1555T+Traveler+Series+1+tripod) is the premium compact choice: five carbon sections, about 2.27 lb, a 14-inch fold and a 22 lb (10 kg) rated load. That is the shortest fold among the high-capacity tripods here, and the build quality is why the Gitzo Traveler line has its reputation. Two things to plan for. It is sold as legs, so you will need to add a separate head, and retailer specs recommend it for lenses up to 135mm (200mm max). The 47.6-inch column-down height also means you'll raise the column for standing shots. It suits a mirrorless shooter who values compact size and build above everything and who already owns, or plans to buy, a good ball head.
 
-### Leofoto LS-224C Ranger with LH-25 Ball Head: Best ultralight
+### Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head: Best ultralight
 
-The [Leofoto LS-224C Ranger](amzn:Leofoto+LS-224C+Ranger+tripod+LH-25) uses four 22 mm carbon sections and weighs about 0.91 kg with its LH-25 ball head. It ships with an Arca-Swiss compatible PU-25 plate, so it drops straight into the Arca-Swiss ecosystem. Its 148.5 cm maximum height is good for its weight, and it drops to 117 cm with no column, which is one of the few column-down figures we could confirm. The trade-offs are the 6 kg load rating and an approximately 47 cm fold, which is long for a daypack side pocket. It suits light mirrorless shooters who prize weight and a standard plate over packed length. I'd use it as a hiking tripod for an APS-C kit or a small full-frame body with a prime lens.
+The [Leofoto LS-224CX Ranger](amzn:Leofoto+LS-224CX+LH-25LR+carbon+fiber+compact+tripod) is one of the lightest kits in this list at about 0.9 kg (1.98 lb) with its LH-25LR ball head, per [Adorama's listing](https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh). Its four 22 mm carbon sections have no standard center column, so the small 25 mm ball head sits directly on the legs. That saves weight and removes the wobbly column, but it also caps height at about 113.7 cm (44.8 in), well below eye level for most adults. Plan to sit, kneel or set it on a wall. Leg angles of 23, 55 and 85 degrees take it down to about 8 cm for low foregrounds and macro. The load rating is 6 kg (13.2 lb), and the fold is about 47 cm with the head attached; retailers quote different folded lengths and heights, so check the listing. We found only one owner review, which praises its light weight and sturdiness. It suits a hiker with an APS-C kit or a small full-frame body and prime who values grams over height.
 
 ### Vanguard VEO 3 GO 235CB: Shortest carry-on travel tripod for mirrorless camera bags
 
@@ -1065,9 +1148,9 @@ The [Vanguard VEO 3 GO 235CB](amzn:Vanguard+VEO+3+GO+235CB) folds to about 33 cm
 
 The [3 Legged Thing Punks Travis 2.0](amzn:3+Legged+Thing+Punks+Travis+2.0+AirHed+Neo+2.0) is the tripod for a mirrorless shooter with big lenses. Its magnesium alloy legs are rated for 18 kg at the narrowest 23-degree leg angle, 12 kg at 55 degrees and 8 kg at 80 degrees, which is a refreshingly honest way to publish a load figure (see the [3 Legged Thing Travis 2.0 page](https://www.3leggedthing.com/us/travis-2-tripod-system.html)). It reaches 1.66 m with the column and 1.36 m without, so it is the tallest column-down tripod we could confirm. A detachable leg works as a monopod. The trade-offs are 1.82 kg (4.01 lb, check the listing) and a 45.7 cm fold, which makes it the heaviest and one of the longest picks here. I'd choose it for a Canon EOS R and Nikon Z shooter with a 70-200mm f/2.8 who travels by car more than by plane.
 
-### K&F Concept K254C2 Carbon Fiber Tripod with 36mm Ball Head: Best value carbon
+### K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head: Best value
 
-The [K&F Concept K254C2](amzn:K&F+Concept+K254C2+carbon+fiber+tripod) is a budget K&F Concept carbon fiber tripod that reaches 162 cm and folds to 41.5 cm, with a 36mm metal ball head and an 8 kg load rating. Weight is around 1.1 kg, though sellers disagree, so check the listing. It suits a budget-minded mirrorless shooter who wants carbon fiber and a ball head included without the premium price. The main caveat is that these specs come from retailers rather than K&F itself, and the build is less proven than the established brands. The 162 cm maximum is tall, but our sources don't list a column-down height, so assume the column is doing a lot of that work. For a first carbon tripod, the numbers line up well.
+The [K&F Concept 64 Inch Aluminum Travel Tripod](amzn:K&F+Concept+64+inch+lightweight+aluminum+travel+camera+tripod+ball+head) (K&F model KF09.101) is the low-cost way to get a tall travel tripod with a head included. [K&F's product page](https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head) lists about 163 cm (64 in) of height, a folded length of about 39 cm (15.35 in), about 1.24 kg (2.73 lb) with the head and an 8 kg (17.64 lb) rating. Four aluminum leg sections use flip locks per retailer listings, and the center column reverses for low-angle shots. The catch is the 28 mm metal ball head, which is small for an 8 kg claim. Owners in review summaries say the head can drift with heavy lenses and the legs feel shaky with heavier gear, so I'd treat it as a tripod for a body and standard zoom. K&F doesn't publish a column-down height, so assume the column does a lot of the work toward 163 cm. For a first tripod or a backup that rides in checked luggage, the numbers line up well for the money.
 
 ### Ulanzi Zero F38 Carbon Fiber Travel Tripod: Best flip-lock carbon
 
@@ -1096,7 +1179,7 @@ As a rough guide, a Sony a7 series body with a 24-70mm zoom lands somewhere arou
 
 ### Carbon fiber vs aluminum
 
-Carbon fiber is lighter than aluminum and damps vibration faster, which matters for long exposure work in wind. Aluminum is cheaper and heavier. The Sirui 5C and 5A show the difference cleanly: same dimensions, about 200 g apart. The Peak Design pair shows it again at about 290 g.
+Carbon fiber is lighter than aluminum and damps vibration faster, which matters for long exposure work in wind. Aluminum is cheaper and heavier. The Sirui 7C and 7A show the difference cleanly: same four-section design, about 300 g apart with heads fitted. The Peak Design pair shows it again at about 290 g.
 
 ### Ball head vs fluid head
 
@@ -1104,7 +1187,7 @@ A ball head is the most common travel tripod head because one knob frees all mov
 
 ### Leg locks: twist vs lever
 
-The choice between a twist lock and lever lock comes down to speed and cleaning. Twist locks are slim, and sealed versions like the Sirui 5C's keep sand out, but you have to feel each one tighten. Flip or lever locks, like the Ulanzi Zero F38's, show at a glance whether they're closed and can be easier with gloves. More leg sections mean a shorter fold but more locks per setup, so a five-section tripod trades setup speed for packed size.
+The choice between a twist lock and lever lock comes down to speed and cleaning. Twist locks are slim, and sealed versions like the Sirui 5C's keep sand out, but you have to feel each one tighten. Flip or lever locks, like those on the Ulanzi Zero F38 and the Manfrotto Befree Advanced lever kit, show at a glance whether they're closed and can be easier with gloves. More leg sections mean a shorter fold but more locks per setup, so a five-section tripod trades setup speed for packed size.
 
 ### Folded length, weight and carry-on fit
 
@@ -1116,7 +1199,7 @@ The column-down height is your stable working height. A raised center column put
 
 ### Arca-Swiss plates and camera compatibility
 
-Arca-Swiss is a dovetail quick release standard used by most third-party plates and L-brackets. Every camera here mounts with a 1/4-20 thread, but an Arca-Swiss compatible clamp lets you swap plates and brackets between tripods. The Leofoto PU-25 and the Manfrotto 200PL-PRO Light plate are confirmed Arca-type; for the others, check the listing before you buy an L-bracket. Our [tripod buying checklist](/tripod-buying-checklist/) has the full list of things to confirm.
+Arca-Swiss is a dovetail quick release standard used by most third-party plates and L-brackets. Every camera here mounts with a 1/4-20 thread, but an Arca-Swiss compatible clamp lets you swap plates and brackets between tripods. The Manfrotto Element MII's 200PL-PRO Light plate and the Sirui E-10 head's plate are listed as Arca-type; for the others, check the listing before you buy an L-bracket. Our [tripod buying checklist](/tripod-buying-checklist/) has the full list of things to confirm.
 
 ## Best Travel Tripod by Camera: Sony a7, Fujifilm and More
 
@@ -1128,7 +1211,7 @@ A lightweight tripod for Sony a7 shooters should carry a full-frame body and a 2
 
 ### Travel tripod for Fujifilm X series
 
-A travel tripod for Fujifilm X series bodies can be lighter, since many Fujifilm lenses are compact. The Sirui Traveler 5C pairs Fujifilm lightweight bodies with an 850 g carbon tripod, and the Leofoto Ranger adds an Arca plate and more height. For a heavier X series zoom like a 16-55mm, the Manfrotto Befree Advanced gives more margin.
+A travel tripod for Fujifilm X series bodies can be lighter, since many Fujifilm lenses are compact. The Sirui Traveler 5C pairs Fujifilm lightweight bodies with an 850 g carbon tripod, and the Leofoto LS-224CX Ranger is a similarly light option for low or seated shooting. For a heavier X series zoom like a 16-55mm, the Manfrotto Befree Advanced lever kit or the Sirui Traveler 7A gives an 8 kg rating and more height.
 
 ### Canon EOS R and Nikon Z with telephoto lenses
 
@@ -1159,8 +1242,9 @@ For long exposure shots, use a 2-second timer or a remote, turn off in-body stab
 - Choose the Peak Design (carbon or aluminum) if you want a 20 lb load, a 15.5-inch fold and a strong column-down height.
 - Choose the Gitzo GT1555T if compact size and build matter most and you will add a head.
 - Choose the Benro Rhino if you want 10 kg of capacity at the lowest weight.
-- Choose the Sirui Traveler 5C, 5A or Vanguard VEO 3 GO 235CB if your kit is light and the packed length must be tiny.
-- Choose the Sirui Traveler 7C, K&F K254C2 or Ulanzi Zero F38 if height is your priority.
+- Choose the Sirui Traveler 5C or Vanguard VEO 3 GO 235CB if your kit is light and the packed length must be tiny, or the Leofoto LS-224CX if weight matters more than height.
+- Choose the Sirui Traveler 7C or 7A, the K&F Concept 64 Inch Aluminum or the Ulanzi Zero F38 if height is your priority.
+- Choose the Manfrotto Befree Advanced lever kit for a balanced, familiar-brand all-rounder with a 128 cm column-down height.
 - Choose the 3 Legged Thing Punks Travis 2.0 for big telephoto lenses.
 
 Before you order, weigh your real kit, double it, and compare that to both the legs' and the head's ratings. Then check the column-down height against your eye level. If both numbers work, the rest is preference.
