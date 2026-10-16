@@ -24,6 +24,9 @@ const inBody: string[] = remarkPluginFrontmatter?.productsInBody ?? [];
 const toc = headings.filter((h) => h.depth === 2);
 const url = absUrl(`/blog/${post.id}/`);
 const modified = d.updatedDate ?? d.pubDate;
+// Owner research totals for the "How we picked" box and the sources list.
+const ownerReads = d.products.reduce((n, p) => n + (p.owners?.read ?? 0), 0);
+const ownerSources = [...new Map(d.products.flatMap((p) => p.owners?.sources ?? []).map((s) => [s.url, s])).values()];
 const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
@@ -65,7 +68,7 @@ const jsonLd: object[] = [
     image: { '@type': 'ImageObject', url: absUrl(hero ?? '/og-default.png'), width: 1200, height: 630 },
     author: authorSchema(author),
     publisher: { '@id': absUrl('/#organization') },
-    ...(d.sources.length ? { citation: d.sources.map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })) } : {}),
+    ...(d.sources.length ? { citation: [...d.sources, ...ownerSources].map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })) } : {}),
   },
   {
     '@context': 'https://schema.org',
@@ -172,6 +175,16 @@ if (d.products.length > 1) {
           </details>
         )}
         <p class="disclosure">We earn a commission if you buy through links on this page, at no extra cost to you. It never changes what we recommend. <a href="/affiliate-disclosure/">How we make money</a>.</p>
+        {ownerReads > 0 && (
+          <aside class="research-box" aria-labelledby="how-picked">
+            <h2 id="how-picked">How we picked these</h2>
+            <ul>
+              <li><b>{ownerReads}</b> owner reviews and discussions read across <b>{ownerSources.length}</b> sources, so every pick comes with what real owners praise and complain about.</li>
+              <li>Every spec checked against <b>{d.sources.length}</b> maker and retailer pages.</li>
+              <li>We did not test these products ourselves, and we say so. All sources are linked at the end of this guide.</li>
+            </ul>
+          </aside>
+        )}
         <ProductPicks products={d.products} inBody={inBody} style={d.productStyle} />
         {brands.length > 0 && (
           <nav class="brand-chips" aria-label="Brands in this guide">
@@ -217,10 +230,16 @@ if (d.products.length > 1) {
           <a class="btn btn-primary btn-sm" href="/tripod-buying-checklist/">Open the checklist</a>
         </aside>
 
-        {d.sources.length > 0 && (
+        {(d.sources.length > 0 || ownerSources.length > 0) && (
           <section class="sources" aria-labelledby="sources">
             <h2 id="sources">Sources</h2>
-            <ol>{d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.title}</a></li>)}</ol>
+            {d.sources.length > 0 && <ol>{d.sources.map((s) => <li><a href={s.url} rel="noopener" target="_blank">{s.title}</a></li>)}</ol>}
+            {ownerSources.length > 0 && (
+              <>
+                <h3>Owner reviews and discussions we read</h3>
+                <ol>{ownerSources.map((s) => <li><a href={s.url} rel="noopener nofollow" target="_blank">{s.title}</a></li>)}</ol>
+              </>
+            )}
           </section>
         )}
 

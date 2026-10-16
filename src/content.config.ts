@@ -32,6 +32,16 @@ const product = z.object({
   matchName: z.string().optional(),
   // Extra official product photos from the Amazon Creators API (images.variants).
   gallery: z.array(z.object({ url: z.string().url(), width: z.number().optional(), height: z.number().optional() })).default([]),
+  // What real owners report, summarized from the owner reviews and discussions the
+  // research agent actually read (never Amazon review text or star ratings).
+  owners: z
+    .object({
+      read: z.number().int().min(1),
+      praise: z.array(z.string()).min(1).max(4),
+      complaints: z.array(z.string()).min(1).max(4),
+      sources: z.array(z.object({ title: z.string(), url: z.string().url() })).min(1),
+    })
+    .optional(),
 });
 
 const blog = defineCollection({

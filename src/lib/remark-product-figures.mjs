@@ -37,6 +37,19 @@ export function scoreHtml(p) {
 
 /** Product block in the style of a magazine buying guide: gallery of official
  *  Amazon photos with a credit line, a buy button, and what we like / don't like. */
+/** "What owners say": praise and complaints from the owner reviews we read, with links. */
+function ownersHtml(p) {
+  const o = p.owners;
+  if (!o) return '';
+  const list = (xs) => xs.map((x) => `<li>${esc(x)}</li>`).join('');
+  return (
+    `<div class="owners"><p class="owners-h">What owners say <span>from ${o.read} owner review${o.read === 1 ? '' : 's'} and posts we read</span></p>` +
+    `<div class="owners-cols"><div class="owners-good"><p class="owners-sub">Owners praise</p><ul>${list(o.praise)}</ul></div>` +
+    `<div class="owners-bad"><p class="owners-sub">Owners complain about</p><ul>${list(o.complaints)}</ul></div></div>` +
+    `<p class="owners-src">Read on: ${o.sources.map((s) => `<a href="${esc(s.url)}" rel="noopener nofollow" target="_blank">${esc(s.title)}</a>`).join(' · ')}</p></div>`
+  );
+}
+
 export function productBlockHtml(p, { badge = false, style = 'pros-cons' } = {}) {
   const href = esc(amazonUrl({ asin: p.asin, query: p.query }));
   const imgs = [p.image, ...(p.gallery ?? [])].filter((x) => x?.url);
@@ -68,6 +81,7 @@ export function productBlockHtml(p, { badge = false, style = 'pros-cons' } = {})
           .map(([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`)
           .join('')}</tbody></table>`
       : '') +
+    ownersHtml(p) +
     `<p class="pblock-fit"><b>Who it's for:</b> ${esc(p.renterNote)}</p>` +
     `</div>`
   );

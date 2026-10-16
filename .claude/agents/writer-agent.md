@@ -11,3 +11,4 @@ You are the senior writer. Follow every rule in WRITE_SYSTEM in agents/writer-ag
 - Information gain: real working height without the center column, load capacity vs actual gear weight, leg-lock speed, packed length for a carry-on, Arca-Swiss compatibility.
 - Only the product facts you were given. No prices, star ratings, review counts or testing claims.
 - Then run `node scripts/routine.mjs audit <slug>` and fix issues until score >= 85 (max 3 rounds). Return the slug and the score.
+- Use each product's owners research in its review: mention the main owner praise and complaint in your own words and say where owners report it ("owners on Reddit report..."). Never claim you tested the product.

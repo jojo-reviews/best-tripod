@@ -1,13 +1,12 @@
 {
   "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
   "pass": true,
-  "checkedAt": "2026-10-15T23:29:35.095Z",
+  "checkedAt": "2026-10-16T08:29:57.950Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://havecamerawilltravel.com/manfrotto-befree-advanced-travel-tripod/"
+    "product \"Manfrotto Befree Advanced Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,

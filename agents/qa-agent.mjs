@@ -148,7 +148,15 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (d.productCount && products.length !== d.productCount) warn(`features ${products.length} products; the plan for this post was ${d.productCount}`);
   const amznLinks = [...body.matchAll(/\]\(amzn:([^)]*)\)/g)].map((m) => decodeURIComponent(m[1].replace(/\+/g, ' ')));
   const h3s = [...body.matchAll(/^###\s+(.+)$/gm)].map((m) => m[1]);
+  const ownersFrom = Date.parse(SITE.qa?.ownersRequiredFrom ?? '2100-01-01');
   for (const p of products) {
+    if (p.owners) {
+      const o = p.owners;
+      if (!(o.read >= 1)) err(`"${p.name}": owners.read must be the number of owner reviews/posts actually read`);
+      if (o.read < (o.sources ?? []).length) err(`"${p.name}": owners.read (${o.read}) is lower than its ${o.sources.length} owner sources`);
+      for (const s of o.sources ?? []) if (/amazon\.|amzn\./i.test(s.url ?? '')) err(`"${p.name}": owner source is an Amazon page (summarize owners from other sites): ${s.url}`);
+      if (!(o.complaints ?? []).length) err(`"${p.name}": owners need at least one real complaint`);
+    } else if (pub >= ownersFrom) err(`"${p.name}" has no owners research (what real owners praise and complain about; ROUTINE.md step 3b)`);
     const label = `product "${p.name}"`;
     if (!p.badge || !p.summary || !p.renterNote || !p.query) err(`${label} is missing badge, summary, renterNote ("Who it's for") or query`);
     if ((p.pros ?? []).length < 2) err(`${label} needs at least 2 pros ("What we like")`);

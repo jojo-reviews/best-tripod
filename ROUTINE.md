@@ -144,6 +144,19 @@ folded length, weight, max load, leg sections, leg lock, material, head, plate),
 the source URLs you used. Name each product the way its Amazon listing names the same model (brand + model words Amazon uses, no extra kit/bundle words), or add a short `matchName` with those words; the Amazon refresh only attaches a photo when every distinctive word of the name is in the listing title, so over-specific names leave the product without a photo. Never point it at a different model or variant. Leave `asin` out: the Amazon refresh workflow adds the
 real ASIN and product photo after you push.
 
+## 3b. Owner reviews (required for every product)
+For each product, read what real owners say before writing about it. Search `<brand model> review`,
+`<brand model> problems`, `<brand model> reddit`, `<brand model> after a year` and read the owner posts you find:
+Reddit and forum threads, retailer review pages (B&H, Best Buy, Adorama, Home Depot, Walmart), Trustpilot,
+long-term owner write-ups. Count each distinct owner review or post you actually read; that count is
+`owners.read`, and it must be honest (never estimate, never round up). Then add to the product:
+`owners: { read, praise: [2-3 things owners repeatedly like], complaints: [1-3 things owners repeatedly
+report going wrong], sources: [{ title, url }] }`. Summarize in your own words; no quotes from Amazon reviews,
+no Amazon URLs, no star ratings or review counts from Amazon (Associates rules). A complaint that many owners
+share should also appear in the product's cons and in the review text ("owners on Reddit report..."). The post
+then shows a "How we picked these" box with the total reviews read and a "What owners say" block per product,
+and lists every owner source at the end.
+
 ## 4. Semantic brief
 Follow `BRIEF_SYSTEM` in `agents/writer-agent.mjs` (search the live SERP for the
 keyword). Save it as `data/briefs/<slug>.json` with exactly these fields:
