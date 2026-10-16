@@ -50,7 +50,8 @@
     "cluster": "astrophotography tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-tripod-for-astrophotography-under-3-pounds"
+    "slug": "best-tripod-for-astrophotography-under-3-pounds",
+    "productCount": 14
   },
   {
     "status": "pending",
@@ -76,7 +77,8 @@
     "cluster": "tripod materials",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking"
+    "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
+    "productCount": 2
   },
   {
     "status": "pending",
@@ -102,7 +104,8 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-phone-tripod-for-vlogging-with-remote"
+    "slug": "best-phone-tripod-for-vlogging-with-remote",
+    "productCount": 6
   },
   {
     "status": "pending",
@@ -154,7 +157,8 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-video-tripod-with-fluid-head-for-beginners"
+    "slug": "best-video-tripod-with-fluid-head-for-beginners",
+    "productCount": 9
   },
   {
     "status": "published",
