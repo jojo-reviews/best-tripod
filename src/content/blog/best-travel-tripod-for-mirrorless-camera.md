@@ -118,6 +118,10 @@ products:
         - title: 'PetaPixel: My Experience with the Peak Design Travel Tripod'
           url: >-
             https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/
+    asin: B085BQTQMN
+    amazonTitle: >-
+      Peak Design Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and
+      Takedown
   - name: Peak Design Travel Tripod (Aluminum)
     brand: Peak Design
     query: Peak Design Travel Tripod aluminum
@@ -180,6 +184,10 @@ products:
         - title: Backcountry customer reviews
           url: 'https://backcountry.com/peak-design-travel-tripod'
           reviews: 1040
+    asin: B085BQS6K4
+    amazonTitle: >-
+      Peak Design Travel Tripod, Aluminum, Compact Design, Quick Setup and
+      Takedown
   - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
     brand: Manfrotto
     query: Manfrotto Befree Advanced carbon fiber travel tripod
@@ -288,6 +296,9 @@ products:
           reviews: 21
         - title: 'Space.com: Manfrotto Element MII review'
           url: 'https://space.com/manfrotto-element-mii-tripod-review'
+    asin: B08JZCQ9WQ
+    amazonTitle: 'Manfrotto Element MII 4-Section Aluminum Tripod with Ball Head, Black'
+    matchName: Manfrotto Element MII Aluminum Tripod Ball Head
   - name: >-
       Benro Rhino Carbon Fiber Zero Series Travel Tripod with VX20 Head
       (FRHN05CVX20)
@@ -323,7 +334,11 @@ products:
       build: 8
       value: 8
     scoreNote: High load rating for the weight; 139.5 cm max keeps height score modest.
-    matchName: Benro Rhino Carbon Fiber Zero Series VX20
+    matchName: Benro Rhino Carbon Fiber Zero Series Tripod VX20
+    asin: B08F2RYZLK
+    amazonTitle: >-
+      Benro Rhino Carbon Fiber Zero Series Tripod/Monopod with VX20 Ballhead, 5
+      Leg Sections
   - name: Benro Slim Aluminum Travel Tripod Kit (FSL09AN00)
     brand: Benro
     query: Benro Slim travel tripod aluminum FSL09AN00
@@ -370,6 +385,10 @@ products:
         - title: 'Adorama: Benro Slim Travel Tripod Kit (Just Reduced listing)'
           url: >-
             https://www.adorama.com/specials/l/Photography/Tripods-and-Supports/Tripods/Benro~Photo-Tripods
+    asin: B07C38WYKV
+    amazonTitle: >-
+      Benro Slim Travel Aluminum Tripod Kit – Lightweight 5-Section Tripod with
+      N00 Ball Head
   - name: Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7C carbon fiber tripod E-10 ball head
@@ -428,6 +447,10 @@ products:
           url: 'https://www.digitalphotomentor.com/?p=96572'
         - title: Desertcart customer reviews
           url: 'https://www.desertcart.sg/products/242874557-carbon-fiber-7c.md'
+    asin: B07KD2DBV6
+    amazonTitle: >-
+      SIRUI Traveler 7C Camera Tripod 65.55 inches Carbon Fiber Arca Tripod with
+      E-10 360° Panorama Ball Head
   - name: Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head
     brand: Sirui
     query: Sirui Traveler 5C carbon fiber tripod
@@ -491,6 +514,10 @@ products:
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
             https://shopsavvy.com/reviews-tldr/"sirui-compact-traveler-5c-tripod".md
+    asin: B07KD181B3
+    amazonTitle: >-
+      Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber
+      Travel Tripod for Camera with 360° Panorama Ball Head
   - name: Sirui Traveler 5A Aluminium Tripod with 3T-35 Ball Head
     brand: Sirui
     query: Sirui Traveler 5A aluminum tripod
@@ -574,6 +601,11 @@ products:
             https://amateurphotographer.com/field-tests/accessory_reviews/gitzo-gk1555t-82tqd-traveler-tripod-kit-review/
         - title: 'Adorama: Gitzo GT1555T buyer reviews'
           url: 'https://www.adorama.com/gzgt1555t.html'
+    asin: B016NSFU2U
+    amazonTitle: >-
+      Gitzo GT1555T Traveler Tripod - Compact, Foldable and Light with Short
+      Column
+    matchName: Gitzo GT1555T Traveler
   - name: Leofoto LS-224C Ranger with LH-25 Ball Head
     brand: Leofoto
     query: Leofoto LS-224C Ranger tripod LH-25
@@ -657,6 +689,11 @@ products:
       sources:
         - title: 'Digital Camera World: Vanguard VEO 3GO 235CB review'
           url: 'https://digitalcameraworld.com/reviews/vanguard-veo-3go-235cb-review'
+    asin: B0831RXR9P
+    amazonTitle: >-
+      Vanguard VEO3GO235CB Compact Carbon Fiber Travel Tripod with Ball Head,
+      Monopod Option
+    matchName: Vanguard VEO3GO235CB
   - name: 3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0
     brand: 3 Legged Thing
     query: 3 Legged Thing Punks Travis 2.0 AirHed Neo 2.0
@@ -701,6 +738,8 @@ products:
         - title: 'PhotoBite: 3 Legged Thing Travis 2.0 review'
           url: >-
             https://photobite.uk/the-measure/themeasure-3-legged-thing-travis-2-0-tripod-review-the-punk-got-an-upgrade/
+    asin: B09CDVH6R4
+    amazonTitle: 3 Legged Thing Punks Travis 2.0 Magnesium Alloy General Use Tripod
   - name: K&F Concept K254C2 Carbon Fiber Tripod with 36mm Ball Head
     brand: K&F Concept
     query: K&F Concept K254C2 carbon fiber tripod
@@ -791,6 +830,11 @@ products:
         - title: 'B&H: Ulanzi Zero F38 buyer reviews'
           url: >-
             https://www.bhphotovideo.com/c/product/1835224-REG/ulanzi_3131_zero_f38_quick_release.html
+    asin: B0BXD5YJC5
+    amazonTitle: >-
+      ULANZI F38 Carbon Fiber Video Travel Tripod, 61.4in | F38 Quick Release
+      Plate
+    matchName: Ulanzi F38 Carbon Fiber Travel Tripod
 sources:
   - title: 'Glazer''s Camera: Peak Design Travel Tripod (carbon)'
     url: >-

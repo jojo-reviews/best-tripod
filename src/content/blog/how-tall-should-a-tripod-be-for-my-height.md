@@ -103,6 +103,10 @@ products:
         - title: B&H customer reviews
           url: >-
             https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html
+    asin: B00IQ7PT50
+    amazonTitle: >-
+      Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column
+      (MT055XPRO3),Black
   - name: Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)
     brand: Vanguard
     query: Vanguard Alta Pro 263AB Gen 2 aluminum tripod BH-60 ball head
@@ -152,6 +156,11 @@ products:
         - title: 'Park Cameras: Vanguard Alta Pro 2+ 263AB100'
           url: >-
             https://www.parkcameras.com/shop/vanguard-alta-pro-2-263ab100-3-section-aluminium-tripod-and-ball-head-kit_9373620f
+    asin: B0FY3T8GHW
+    amazonTitle: >-
+      Vanguard Alta Pro 2+ 263AB G2 Camera Tripod with CNC-Machined
+      Arca-Compatible BH-60 Ball Head
+    matchName: Vanguard Alta Pro 2+ 263AB G2 BH-60
 sources:
   - title: Manfrotto MT055XPRO3 (B&H)
     url: >-

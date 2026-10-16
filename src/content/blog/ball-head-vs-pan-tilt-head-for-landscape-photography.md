@@ -99,6 +99,9 @@ products:
             https://greentoe.com/product/Manfrotto_496RC2_Compact_Ball_Head_with_200PL-14_QR_Plate_496RC2
         - title: 'Adorama: Manfrotto 496RC2'
           url: 'https://www.adorama.com/bg496RC2.html'
+    asin: B07DF71NXD
+    amazonTitle: 'Manfrotto Compact Ball Head 496, Fluid Ball Head for Camera Tripod'
+    matchName: Manfrotto Compact Ball Head 496
   - name: Leofoto LH-40
     brand: Leofoto
     query: Leofoto LH-40 ball head
@@ -139,6 +142,8 @@ products:
         - title: Leofoto LH-40 at Adorama
           url: >-
             https://www.adorama.com/leofoto-lh-40-low-profile-ball-head/p/leolh40
+    asin: B01IYJUO5Y
+    amazonTitle: 'Leofoto LH-40 Ball Head, 40mm Ball, Low Profile'
   - name: Sirui K-30X Ball Head
     brand: Sirui
     query: Sirui K-30X ball head
@@ -184,6 +189,11 @@ products:
           url: 'https://castlecameras.co.uk/sirui-k-30x-ball-head/p2327'
         - title: Adorama customer reviews
           url: 'https://www.adorama.com/sibsrk30.html'
+    asin: B004QC6VOW
+    amazonTitle: >-
+      Sirui KX-Series Aluminium Tripod Head incl. TY-Series Quick Release Plate
+      - Black (K-30X)
+    matchName: Sirui K-30X
   - name: Manfrotto XPRO 3-Way Head MHXPRO-3W
     brand: Manfrotto
     query: Manfrotto XPRO 3-way head MHXPRO-3W
@@ -226,6 +236,9 @@ products:
           url: 'https://www.wimarys.com/manfrotto-x-pro-3-way-head-review/'
         - title: 'Adorama: Manfrotto MHXPRO-3W'
           url: 'https://www.adorama.com/tpxbgmhxpro3.html'
+    asin: B00T8REXY0
+    amazonTitle: 'Manfrotto XPRO 3-Way Head, Camera Tripod Head, 3-Axis Movement'
+    matchName: Manfrotto XPRO 3-Way Head
   - name: Benro GD3WH 3-Way Geared Head
     brand: Benro
     query: Benro GD3WH geared head
@@ -272,6 +285,11 @@ products:
             https://www.digitalcameraworld.com/cameras/tripods/benro-gd3wh-geared-head-review
         - title: 'Adorama: Benro GD3WH'
           url: 'https://www.adorama.com/begd3wh.html'
+    asin: B07C326563
+    amazonTitle: >-
+      Benro Precision Geared Tripod Head, Ideal for Studio and Still Life,
+      Arca-Swiss Compatible Quick Release Plate
+    matchName: Benro Precision Geared Tripod Head
 sources:
   - title: Manfrotto 496RC2 (Greentoe)
     url: >-

@@ -108,6 +108,10 @@ products:
             https://mobilesyrup.com/2023/05/28/peak-design-carbon-fibre-travel-tripod-review/
         - title: 'Backcountry: Peak Design Travel Tripod'
           url: 'https://www.backcountry.com/peak-design-travel-tripod'
+    asin: B085BQTQMN
+    amazonTitle: >-
+      Peak Design Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and
+      Takedown
   - name: Peak Design Travel Tripod (Aluminum)
     brand: Peak Design
     query: Peak Design Travel Tripod aluminum
@@ -175,6 +179,10 @@ products:
         - title: Best Buy customer reviews
           url: 'https://www.bestbuy.com/site/6364717.p'
           reviews: 217
+    asin: B085BQS6K4
+    amazonTitle: >-
+      Peak Design Travel Tripod, Aluminum, Compact Design, Quick Setup and
+      Takedown
   - name: Manfrotto Befree Advanced Carbon Fiber Travel Tripod
     brand: Manfrotto
     query: Manfrotto Befree Advanced carbon fiber travel tripod
