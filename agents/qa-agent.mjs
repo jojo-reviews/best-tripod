@@ -170,7 +170,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!amznLinks.some((q) => linkMatches(q, p))) err(`${label} has no Amazon link in the body`);
     if (!h3s.some((h) => matches(h, p.name))) warn(`${label} has no "### ${p.name}: ..." section, so it gets a card instead`);
     if (!p.image?.url) warn(`${label} has no Amazon photo yet (the Amazon refresh adds it after push)`);
-    if (p.asin && p.amazonTitle) {
+    if (p.asin && p.amazonTitle && !p.asinVerified) {
       const m = productMatches(p.matchName ?? p.name, p.amazonTitle, p.brand);
       if (!m.ok) err(`${label} is linked to a different Amazon listing ("${p.amazonTitle.slice(0, 80)}"${m.accessory ? `, an accessory` : `, missing ${m.missing.join(', ')}`}); clear its asin so the refresh re-matches it`);
     }

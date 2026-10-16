@@ -28,6 +28,8 @@ const product = z.object({
   scoreNote: z.string().optional(),
   // Amazon's listing title for the ASIN (the QA agent checks it matches the product).
   amazonTitle: z.string().optional(),
+  // The ASIN was checked by hand against the exact model; the QA agent skips its title match.
+  asinVerified: z.boolean().optional(),
   // Shorter name as Amazon lists the same model, used only to match the listing.
   matchName: z.string().optional(),
   // Extra official product photos from the Amazon Creators API (images.variants).

@@ -247,8 +247,8 @@ products:
           Too light for long exposures in wind without added weight, per another
           reviewer
         - >-
-          Modest 150 cm maximum height and no monopod conversion, per a
-          Befree Advanced AS review
+          Modest 150 cm maximum height and no monopod conversion, per a Befree
+          Advanced AS review
       sources:
         - title: 'Adorama: Manfrotto Befree Advanced Lever aluminum kit reviews'
           url: 'https://www.adorama.com/bgbaattlbh.html'
@@ -406,6 +406,7 @@ products:
     amazonTitle: >-
       Benro Slim Travel Aluminum Tripod Kit – Lightweight 5-Section Tripod with
       N00 Ball Head
+    asinVerified: true
   - name: Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7C carbon fiber tripod E-10 ball head
@@ -575,7 +576,7 @@ products:
     owners:
       read: 1
       praise:
-        - Portable enough for travel, per a user review summary
+        - 'Portable enough for travel, per a user review summary'
         - Easy to set up and use
       complaints:
         - 'Some users note stability issues in wind, per a review summary'
@@ -660,8 +661,8 @@ products:
       for most adults.
     pros:
       - About 0.9 kg (1.98 lb) with head
-      - Leg angles of 23, 55 and 85 degrees for very low shots
-      - Removable ballast hook for hanging a bag, per retailer listings
+      - 'Leg angles of 23, 55 and 85 degrees for very low shots'
+      - 'Removable ballast hook for hanging a bag, per retailer listings'
     cons:
       - About 113.7 cm (44.8 in) max height means stooping or sitting
       - 6 kg load suits light kits only
@@ -682,8 +683,8 @@ products:
       build: 8
       value: 7
     scoreNote: >-
-      0.9 kg with head earns portability; a 6 kg rating and about 114 cm
-      maximum height pull stability and height down.
+      0.9 kg with head earns portability; a 6 kg rating and about 114 cm maximum
+      height pull stability and height down.
     owners:
       read: 1
       praise:
@@ -697,8 +698,7 @@ products:
             https://leofotousa.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set
           reviews: 1
     asin: B0DQKY998S
-    amazonTitle: >-
-      LEOFOTO 45" Carbon Fiber Compact Tripod 360° Ball Head LS-224CX+LH-25LR
+    amazonTitle: LEOFOTO 45" Carbon Fiber Compact Tripod 360° Ball Head LS-224CX+LH-25LR
     matchName: Leofoto LS-224CX LH-25LR
   - name: Vanguard VEO 3 GO 235CB
     brand: Vanguard
