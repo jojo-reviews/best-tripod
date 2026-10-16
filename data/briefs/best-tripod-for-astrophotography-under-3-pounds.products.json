@@ -1,0 +1,173 @@
+{
+"_note": "Page fetching was blocked in this session (proxy/DNS), so top-10 page contents were read only through search-result summaries. Cross-page counts in serpProducts are from those summaries; the caller should re-verify before publishing. Dolica GX600B200, Sirui AM-324 (about 3.1 lb), Sirui ET-2204 kit (3.0-3.6 lb by retailer), Manfrotto Befree Advanced aluminum (3.6 lb) and Gitzo/Feisol were left out: over 3 lb, conflicting weights, or no clear Amazon US listing.",
+"products": [
+{
+"name": "Peak Design Travel Tripod Carbon Fiber",
+"brand": "Peak Design",
+"query": "Peak Design Travel Tripod Carbon Fiber",
+"matchName": "Peak Design Travel Tripod",
+"badge": "Best for travel",
+"summary": "A 5-section carbon tripod that packs to 15.5 in and weighs 2.81 lb including its ball head. It suits wide-field Milky Way work with a mirrorless body and a wide lens, with a 20 lb rating and a 5.5 in low mode.",
+"renterNote": "Travelers shooting wide-field night skies with a mirrorless body and a fast wide lens or a light star tracker; keep the thinnest leg sections retracted for long exposures and wind, because it is a compact travel design rather than a rigid deep-sky base.",
+"pros": ["2.81 lb including the ball head, 15.5 in packed", "Low mode drops to 5.5 in for foreground-heavy Milky Way frames", "20 lb rating is well above a mirrorless body and wide lens"],
+"cons": ["Maximum height is 60 in only with the center column raised (51.25 in with it lowered)", "Five leg sections and thin lower tubes flex more than a thicker-leg tripod in wind or with a long lens", "Owner reports include one leg-detachment case and a slow warranty process"],
+"facts": [
+"Weight 2.81 lb (1.27 kg) for the carbon version, ball head included (whole kit, under 3 lb); the aluminum version is 3.44 lb.",
+"Max height 60 in (152.4 cm) with the center column raised; 51.25 in with it lowered; minimum 5.5 in in low mode.",
+"Packed length 15.5 in (39.4 cm) per the maker; packed diameter about 3.25 in.",
+"Rated max load 20 lb (9.1 kg).",
+"5 leg sections with aluminum cam-lever locks per most retailers; one listing shows 4, so treat as unverified.",
+"Carbon fiber legs; built-in Arca-compatible ball head with Peak Design's own plate system (Arca-Swiss compatible)."
+],
+"specs": {"Max height (center column up)": "60 in (152.4 cm)", "Max height (center column down)": "51.25 in", "Min height": "5.5 in (low mode)", "Folded length": "15.5 in (39.4 cm)", "Weight": "2.81 lb (1.27 kg) with ball head", "Max load": "20 lb (9.1 kg)", "Leg sections": "5", "Leg lock": "Flip (cam lever)", "Material": "Carbon fiber", "Head": "Built-in ball head", "Plate": "Arca-Swiss compatible"},
+"sources": ["https://www.space.com/best-travel-tripods", "https://www.space.com/peak-design-travel-tripod-review", "https://www.digitalcameraworld.com/reviews/peak-design-travel-tripod-review", "https://photographylife.com/reviews/peak-design-travel-tripod", "https://www.adorama.com/PDTTCF1.html", "https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb"],
+"scores": {"stability": 7, "portability": 9, "height": 7, "build": 8, "value": 6},
+"scoreNote": "Very short and light at 2.81 lb with a head and a 20 lb rating, but the thin lower sections and column-dependent 60 in height cost stability and height points; premium price for the carbon model.",
+"owners": {
+"read": 5,
+"praise": ["Very fast set-up and a compact, water-bottle-sized packed shape", "Feels sturdy for its weight, even with a 70-200mm in light wind", "Lifetime guarantee and serviceability"],
+"complaints": ["Stability drops with heavy setups, long lenses or wind unless the thinnest sections are retracted", "One forum owner had a leg come off and found the warranty paperwork slow", "Some reviewers question whether the carbon version justifies its price over the aluminum one"],
+"sources": [
+{"title": "Fred Miranda forum thread on the carbon travel tripod", "url": "https://www.fredmiranda.com/forum/topic/1926245/"},
+{"title": "MobileSyrup carbon fibre travel tripod review", "url": "https://mobilesyrup.com/2023/05/28/peak-design-carbon-fibre-travel-tripod-review/"},
+{"title": "Space.com Peak Design Travel Tripod review", "url": "https://www.space.com/peak-design-travel-tripod-review"},
+{"title": "Photography Life Peak Design Travel Tripod review", "url": "https://photographylife.com/reviews/peak-design-travel-tripod"},
+{"title": "Moment: Peak Design Travel Tripod review", "url": "https://www.shopmoment.com/reviews/peak-design-carbon-fiber-travel-tripod-review"}
+]}
+},
+{
+"name": "Manfrotto Befree Advanced Carbon Fiber Travel Tripod (twist lock)",
+"brand": "Manfrotto",
+"query": "Manfrotto Befree Advanced Carbon Fiber Travel Tripod twist lock MKBFRTC4-BH",
+"matchName": "Manfrotto Befree Advanced Carbon",
+"badge": "Best for mirrorless kits",
+"summary": "A 4-section carbon tripod around 2.8 lb including its 494 ball head, folding to about 16 in. It is a steady, quick-to-set-up base for a mirrorless body with a wide or standard lens.",
+"renterNote": "Mirrorless shooters with a 14-35mm or 24-70mm lens and a light tracker who want a compact carry-on tripod; maximum height is only about 59 in and sources disagree on its load rating, so confirm the exact twist-lock carbon SKU.",
+"pros": ["About 2.76-2.8 lb with the head, 41 cm folded", "Twist locks and 4 sections keep it compact and quick", "Includes a 494 ball head and RC2 plate (Arca-style needs an adapter)"],
+"cons": ["Max height about 150 cm (59 in), modest for tall shooters", "Load rating is quoted as 8 kg by some sources and 9 kg by others", "The head and plate are basic, and a reviewer noted the carbon kit lacks a lock on the quick-release plate"],
+"facts": [
+"Weight about 1.25 kg (2.76 lb) per Manfrotto's page and about 1.3 kg (2.8 lb) per a hands-on review, head included (whole kit, under 3 lb).",
+"Max height 150 cm (59 in); minimum 41 cm (per one retailer table); closed length 41 cm (16.1 in).",
+"Load rating listed as 8 kg (17.6 lb) by TechRadar and the hands-on review, and 9 kg (19.8 lb) by Adorama and Park Cameras; the lower figure is the safe one.",
+"4 leg sections, twist locks, carbon fiber legs.",
+"Includes a 494 ball head with an RC2 quick-release plate (Manfrotto's own system, not Arca-Swiss).",
+"The aluminum Befree Advanced lever kit is 1.6 kg (3.6 lb) and does not meet the under-3 lb limit."
+],
+"specs": {"Max height (center column up)": "150 cm (59 in)", "Max height (center column down)": "Not listed", "Min height": "41 cm (retailer table)", "Folded length": "41 cm (16.1 in)", "Weight": "About 1.25 kg (2.76 lb) with ball head", "Max load": "8-9 kg (17.6-19.8 lb), sources disagree", "Leg sections": "4", "Leg lock": "Twist", "Material": "Carbon fiber", "Head": "494 ball head", "Plate": "RC2 (Manfrotto)"},
+"sources": ["https://www.manfrotto.com/global-uk/befree-advanced-carbon-fibre-travel-tripod-twist-ball-head-mkbfrtc4-bh/", "https://havecamerawilltravel.com/photographer/manfrotto-befree-advanced-travel-tripod/", "https://www.techradar.com/news/manfrotto-adds-three-new-travel-tripods-to-its-range", "https://www.adorama.com/BGMKBFRTC4BH.html", "https://www.parkcameras.com/shop/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-fibre-twist-lock-tripod-kit_9370032s"],
+"scores": {"stability": 7, "portability": 9, "height": 6, "build": 7, "value": 7},
+"scoreNote": "Compact, light and well rated for a mirrorless kit, but height is only about 59 in, the load rating is quoted inconsistently, and the RC2 head is basic.",
+"owners": {
+"read": 3,
+"praise": ["Light and compact for carry-on and daypack use", "Twist locks need very little rotation", "Higher load rating than the standard Befree"],
+"complaints": ["Maximum height of 59 in feels limiting", "No monopod conversion", "Carbon kit's quick-release plate lacks a lock, per Amateur Photographer"],
+"sources": [
+{"title": "Have Camera Will Travel hands-on review", "url": "https://havecamerawilltravel.com/photographer/manfrotto-befree-advanced-travel-tripod/"},
+{"title": "Amateur Photographer verdict on the AS Twist carbon tripod", "url": "https://amateurphotographer.com/review/manfrotto-befree-advanced-as-twist-carbon-fibre-tripod-review"},
+{"title": "Digital Camera World Befree Advanced AS review", "url": "https://digitalcameraworld.com/reviews/manfrotto-befree-advanced-as-review"}
+]}
+},
+{
+"name": "K&F Concept 64-Inch Aluminum Travel Tripod KF09.101",
+"brand": "K&F Concept",
+"query": "K&F Concept 64 inch aluminum camera tripod with ball head KF09.101",
+"matchName": "K&F Concept 64 Tripod",
+"badge": "Best budget",
+"summary": "A 64-inch aluminum travel tripod at 2.73 lb with its 28 mm ball head, folding to 15.3 in with an 8 kg rating. It is the cheapest way to get a light tripod that reaches eye level for a mirrorless body and a lens up to a mid-size zoom.",
+"renterNote": "Beginners and budget Milky Way shooters with a mirrorless or DSLR body and a wide lens; the ball head and aluminum legs are less vibration-damping than carbon, so it is not ideal for a heavy star tracker or telephoto.",
+"pros": ["2.73 lb including the ball head, 15.3 in folded", "Reaches about 64 in", "8 kg (17.64 lb) rating with a carry bag included"],
+"cons": ["Aluminum transmits more vibration than carbon", "Owners mention a broken leg lock out of the box (replaced) and a head that can be hard to tighten under heavy loads", "Weight varies by listing (1.15-1.265 kg)"],
+"facts": [
+"Net weight 2.73 lb (1.24 kg) with the ball head per K&F (whole kit, under 3 lb); one retailer lists 2.53 lb (1.15 kg) and a customer reports 1,265 g.",
+"Height adjusts from 52 cm (20.4 in) to 163 cm (64.1 in); the comparison table lists 63 in maximum and 400 mm minimum, so the figures differ.",
+"Folded length about 39 cm (15.3 in).",
+"Rated load 8 kg (17.64 lb).",
+"28 mm metal ball head with 360-degree panning; Arca-Swiss compatible quick-release plate (1/4 in thread).",
+"Aluminum alloy legs; leg-section count and lock type are not confirmed in the sources I saw."
+],
+"specs": {"Max height (center column up)": "64.1 in (163 cm)", "Max height (center column down)": "Not listed", "Min height": "20.4 in (52 cm)", "Folded length": "15.3 in (39 cm)", "Weight": "2.73 lb (1.24 kg) with ball head", "Max load": "17.64 lb (8 kg)", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Aluminum alloy", "Head": "28 mm ball head", "Plate": "Arca-Swiss compatible"},
+"sources": ["https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head", "https://www.harveynorman.com.au/k-and-f-concept-63-8inch-aluminum-alloy-lightweight-tripod-with-bh-28l-ball-head.html", "https://skiesandscopes.com/?p=12801"],
+"scores": {"stability": 6, "portability": 8, "height": 8, "build": 6, "value": 9},
+"scoreNote": "Tall, light and well supplied with a head, bag and Arca plate for little money, but aluminum legs and a small ball head limit stability with long lenses.",
+"owners": {
+"read": 4,
+"praise": ["Light with a useful carry bag", "Held a Tamron 150-600mm for one owner", "Good customer service"],
+"complaints": ["One owner received a broken leg-lock piece (replaced)", "Ball head can be hard to tighten under heavy loads (reported by other reviewers, not by this one)", "Head is a weak point for video; thin manual"],
+"sources": [
+{"title": "K&F Concept product page reviews (manufacturer-hosted)", "url": "https://www.kfconcept.com/kfconcept/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head?page=7"},
+{"title": "K&F Concept customer review 154767", "url": "https://www.kfconcept.com/review_154767"},
+{"title": "K&F Concept customer review 168557", "url": "https://www.kfconcept.com/review_168557"},
+{"title": "K&F Concept customer review 134810", "url": "https://www.kfconcept.com/review_134810"}
+]}
+},
+{
+"name": "NEEWER LT32 62-Inch Carbon Fiber Travel Tripod",
+"brand": "Neewer",
+"query": "NEEWER LT32 62 inch carbon fiber travel tripod",
+"matchName": "NEEWER LT32",
+"badge": "Best low-cost carbon",
+"summary": "A carbon tripod listed at 2.6 lb that folds to about 17 in, with a 10 kg leg rating and a column-free low mode to 7.5 in. It gives carbon damping and low-angle sky shots at a budget price.",
+"renterNote": "Budget shooters who want carbon legs for wide-field night shots with a mirrorless body; the included low-profile head is rated only 10 lb and cannot pan in landscape orientation without an add-on.",
+"pros": ["Carbon fiber at 2.6 lb, 17 in folded", "Goes down to 7.5 in without the center column", "22 lb leg rating, spikes and bag included"],
+"cons": ["Included ball head is rated 10 lb (4.5 kg), below the legs", "1 in (25 mm) tubes are slimmer than larger astro tripods", "Little independent review coverage"],
+"facts": [
+"Weight 2.6 lb (1.18 kg) per Neewer; the listing does not say whether the head is included, so treat it as legs (verify before use as a whole kit).",
+"Height 16.1-61.8 in (41-157 cm) with the center column; 7.5-52 in (19-133 cm) without it.",
+"Folded size 17 x 2.6 in (43 x 6.5 cm).",
+"Load capacity 22 lb (10 kg) for the tripod, 10 lb (4.5 kg) for the head.",
+"Carbon fiber, 1 in (25 mm) tubes; leg angles at 22, 55 and 70 degrees; 30 mm head base; removable head with 1/4 in to 3/8 in screw adapter.",
+"Package includes carry bag, three spikes and a shoulder strap; section count and lock type were not confirmed in the sources I saw."
+],
+"specs": {"Max height (center column up)": "61.8 in (157 cm)", "Max height (center column down)": "52 in (133 cm)", "Min height": "7.5 in (19 cm)", "Folded length": "17 in (43 cm)", "Weight": "2.6 lb (1.18 kg)", "Max load": "22 lb (10 kg) legs; 10 lb (4.5 kg) head", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Carbon fiber", "Head": "Low-profile ball head with quick release", "Plate": "Not listed"},
+"sources": ["https://neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733", "https://nightskypix.com/?p=1608"],
+"scores": {"stability": 6, "portability": 9, "height": 8, "build": 6, "value": 9},
+"scoreNote": "Carbon, light and low-capable for little money, but 25 mm tubes, a 10 lb-rated head and thin review coverage hold stability and build back.",
+"owners": {
+"read": 2,
+"praise": ["Small and light, stable for its size", "A discount made it an easy purchase"],
+"complaints": ["Included head cannot pan up and down in landscape orientation; a small panning plate fixes it"],
+"sources": [
+{"title": "Neewer LT32 product page customer reviews", "url": "https://neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733"},
+{"title": "Neewer LT32 (UK) product page customer reviews", "url": "https://uk.neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733"}
+]}
+},
+{
+"name": "SIRUI AM-284 Carbon Fiber Tripod",
+"brand": "Sirui",
+"query": "SIRUI AM-284 carbon fiber tripod",
+"matchName": "SIRUI AM-284",
+"badge": "Best for star trackers",
+"summary": "A 4-section carbon tripod with no center column by default, 29.4 mm top legs and a 15 kg rating, at 2.69 lb for the legs alone. It is marketed by astro retailers for star trackers and is the sturdiest build in this under-3-lb group.",
+"renterNote": "Star-tracker or wide-field shooters who bring their own head; the 2.69 lb applies to the legs only, and the kit with Sirui's A-10R ball head is about 3.48 lb, over the limit.",
+"pros": ["2.69 lb legs with 29.4 mm top tubes and a 15 kg (33 lb) rating", "No center column by default; hook and spikes for wind", "Goes down to 80 mm (3.1 in)"],
+"cons": ["The 2.69 lb figure excludes the head; with the A-10R head the kit is 3.48 lb", "47.2 in without the optional SL-200 column is short for standing eye level", "Folded length is quoted inconsistently"],
+"facts": [
+"Weight 1.22 kg (2.69 lb) for the legs only, without a head (the A-10R ball head kit is listed at 3.48 lb, over 3 lb).",
+"Working height 80 mm (3.1 in) to 1200 mm (47.2 in); the optional SL-200 two-section column adds 320 mm (12.6 in).",
+"Folded length about 445 mm (17.5 in); another listing says 45 cm.",
+"Max load 15 kg (33.1 lb) per Sirui's store page.",
+"4 leg sections with 3 sealed twist locks; 29.4 mm top tube diameter; magnesium leg sockets; removable stabilizing hook.",
+"Carbon fiber, no center column unless the SL-200 is added; head not included in the legs-only kit; spikes swap for the rubber feet."
+],
+"specs": {"Max height (center column up)": "47.2 in + 12.6 in with optional SL-200", "Max height (center column down)": "47.2 in (1200 mm)", "Min height": "3.1 in (80 mm)", "Folded length": "17.5 in (445 mm)", "Weight": "2.69 lb (1.22 kg) legs only", "Max load": "33.1 lb (15 kg)", "Leg sections": "4", "Leg lock": "Twist", "Material": "Carbon fiber", "Head": "Not included (legs only)", "Plate": "Not listed"},
+"sources": ["https://store.sirui.com/products/carbon-fiber-tripod-with-two-section-center-column-am284-sl200", "https://milehighastro.com/products/sirui-am-284-carbon-fiber-tripod", "https://insider.kelbyone.com/review-sirui-am-284-tripod/", "https://www.bhphotovideo.com/c/product/1605317-REG/sirui_am284a10r_am284_4_section_carbon_fiber.html", "https://www.lynnbarsigianphotography.com/?p=13019"],
+"scores": {"stability": 8, "portability": 8, "height": 6, "build": 8, "value": 8},
+"scoreNote": "Thick tubes, a 33 lb rating, no center column and a hook make it the steadiest here, but 47 in without the optional column and the head-excluded weight hold it back.",
+"owners": {
+"read": 2,
+"praise": ["Compact folded size with four sections and twist locks", "Budget price for carbon, and no center column keeps it light"],
+"complaints": ["No center column by default, so it is shorter for standing eye level", "No independent night-sky owner reports found; star-tracker use is retailer marketing"],
+"sources": [
+{"title": "KelbyOne hands-on review of the Sirui AM-284", "url": "https://insider.kelbyone.com/review-sirui-am-284-tripod/"},
+{"title": "Two Pounds of Rock Solid mirrorless tripod guide (Sirui AM-284 notes)", "url": "https://thewearify.com/best-tripod-for-mirrorless-camera/"}
+]}
+}
+],
+"serpProducts": [
+{"name": "Peak Design Travel Tripod (carbon)", "pages": ["https://www.space.com/best-tripods", "https://www.space.com/best-travel-tripods", "https://www.findingdulcinea.com/best-tripods-for-astrophotography-january-2026/", "https://nextinphotography.com/the-best-tripod-for-astrophotography-in-2026/"]},
+{"name": "Manfrotto Befree Advanced", "pages": ["https://www.space.com/best-tripods", "https://nextinphotography.com/the-best-tripod-for-astrophotography-in-2026/", "https://www.findingdulcinea.com/best-tripods-for-astrophotography-january-2026/"]},
+{"name": "K&F Concept 64 inch aluminum tripod", "pages": ["https://skiesandscopes.com/?p=12801", "https://findingdulcinea.com/best-tripods-for-astrophotography-january-2026/", "https://nextinphotography.com/the-best-tripod-for-astrophotography-in-2026/"]},
+{"name": "Neewer carbon fiber tripod (LT32)", "pages": ["https://nightskypix.com/?p=1608", "https://skiesandscopes.com/?p=12801"]},
+{"name": "Sirui AM-284 / AM-324", "pages": ["https://www.lynnbarsigianphotography.com/?p=13019", "https://markus-hagner-photography.com/best-tripods-for-astrophotography/"]}
+]
+}
