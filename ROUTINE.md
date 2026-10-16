@@ -122,6 +122,17 @@ and on its first 2-3 words, keep suggestions with the SAME intent, and add the b
 different intent go to the queue as their own keywords instead, never into this post (no cannibalization).
 
 ## 3. Product research
+**Pick products from the top 10 (required).** Search the post's primary keyword on Google (WebSearch;
+also `best <product type>` if the keyword is a question). Take the top 10 organic pages, skipping Amazon,
+shopping and video results, and list the products each page recommends (read the page with WebFetch when it
+loads, otherwise search `"<site>" <keyword>` for its product list). Rank the products by how many of those
+pages recommend them and choose from the top of that list: each product must be recommended by at least 2 of
+the top-10 pages and be a popular, well-stocked Amazon US listing (searching its brand + model on Amazon
+shows it at once, not a lone obscure listing). Never add a product that no top-10 page recommends; if too
+few products qualify, lower `productCount` to the number that do (at least 3 for roundups). Record the
+evidence in the brief as `serpProducts`: `[{"name": "...", "pages": ["url", ...]}]`. Then verify every spec
+against the maker or retailer pages as usual.
+
 Feature exactly `productCount` products (from `next`; a random number per post: roundups 3-18,
 comparisons 2-6, guides 1-6), never the same count every day. Give every product its own
 `### Product name: role` section (about 120-180 words each), so long lists make long, useful posts; set the
