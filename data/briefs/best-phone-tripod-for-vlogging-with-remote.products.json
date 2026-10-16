@@ -1,0 +1,79 @@
+{
+  "notes": "Egress policy blocked every page fetch (403/ENOTFOUND), so top-10 pages and owner reviews could not be opened; evidence below comes from WebSearch snippets only. Owner review counts are 0 and must not be shown as researched. Re-run steps 3b and spec checks when fetch works. Amazon listings not checked (cannot call Amazon).",
+  "products": [
+    {
+      "name": "EUCOS 62-Inch Phone Tripod",
+      "brand": "EUCOS",
+      "query": "EUCOS 62 inch phone tripod with remote",
+      "matchName": "EUCOS 62 Phone Tripod",
+      "badge": "Best overall",
+      "summary": "A 62 inch selfie-stick-plus-tripod with a Bluetooth shutter remote and a cold shoe, aimed at solo phone vlogging. It is the pick several 2026 phone-tripod guides lead with.",
+      "renterNote": "Solo phone vloggers who want standing-height shots with a remote; check the model number on the listing because EUCOS sells several 62 inch versions with different load and remote claims.",
+      "pros": ["Reaches 62 in for standing-height framing", "Bluetooth remote included", "Cold shoe for a mic or light", "Maker lists lifetime warranty"],
+      "cons": ["Several 62 in variants with conflicting weight, load and remote-range figures", "Light tripod; not for heavy cameras"],
+      "facts": ["Height range 12 in to 62 in on one retailer listing", "Bluetooth wireless remote; range stated as 33 ft on most listings", "1/4 in thread; lifetime warranty claimed by the maker", "Weight and load vary by variant (about 13 oz on the tripod-only listing)"],
+      "specs": {"Max height (center column up)": "62 in", "Max height (no center column)": "Not listed", "Min height": "12 in", "Folded length": "Not listed", "Weight": "About 13 oz (varies by variant)", "Max load": "Not listed (variants differ)", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone clamp with ball-style tilt", "Plate": "1/4 in thread"},
+      "sources": ["https://www.newegg.com/eucos-eutp-012/p/0FY-07C8-00011", "https://slickdeals.net/f/19938738-62-eucos-magnetic-magsafe-phone-tripod-selfie-stick-w-wireless-remote-10-99-free-shipping-w-prime-or-on-35", "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"],
+      "scores": {"stability": 5, "portability": 8, "height": 8, "build": 5, "value": 8},
+      "scoreNote": "Tall and light with a remote, but spindly at full extension and the exact variant specs are unclear.",
+      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+    },
+    {
+      "name": "SENSYNE 62\" Phone Tripod & Selfie Stick with Wireless Remote",
+      "brand": "SENSYNE",
+      "query": "Sensyne 62 inch phone tripod selfie stick wireless remote",
+      "matchName": "SENSYNE 62 Phone Tripod",
+      "badge": "Best budget",
+      "summary": "A low-cost 62 inch extendable tripod that doubles as a selfie stick and ships with a wireless shutter remote and universal phone holder. Fits phones up to 5.7 in wide.",
+      "renterNote": "Casual vloggers and travellers with a regular phone who want a cheap tall stand; skip it for big phones in heavy cases or any camera over a couple of pounds.",
+      "pros": ["Extends to 62 in", "Remote and phone holder included", "Light at about 650 g on one listing"],
+      "cons": ["Retailer listings disagree on minimum height and load, so I could not confirm real capacity", "Budget plastic clamp and thin legs"],
+      "facts": ["Max height 62 in", "Min height 17 in per the user manual (one retailer listing says 50 in)", "Weight 650 g on a Newegg Business listing", "Phone holder fits 2.8 in to 5.7 in wide phones", "Wireless remote shutter (AB Shutter3 model name on listing)"],
+      "specs": {"Max height (center column up)": "62 in", "Max height (no center column)": "Not listed", "Min height": "17 in (manual)", "Folded length": "Not listed", "Weight": "650 g (retailer listing)", "Max load": "Not listed", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone holder with rotation", "Plate": "Not listed"},
+      "sources": ["https://www.neweggbusiness.com/sensyne-ab-shutter3/p/9B-0FY-07C8-00AK8", "https://manuals.plus/asin/B09TQY66NH.pdf", "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"],
+      "scores": {"stability": 4, "portability": 8, "height": 8, "build": 4, "value": 8},
+      "scoreNote": "Very tall for the weight with remote included; capacity and build are unverified and look budget-grade.",
+      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+    },
+    {
+      "name": "NEEWER PA992 57.9\" Quick Release Selfie Stick Tripod",
+      "brand": "NEEWER",
+      "query": "Neewer PA992 selfie stick tripod",
+      "matchName": "NEEWER PA992",
+      "badge": "Best quick setup",
+      "summary": "An aluminum-alloy selfie stick tripod whose one-button release opens the legs and spreader at once. It has a rechargeable remote, a cold shoe and a clamp for 2.4 to 4 in phones.",
+      "renterNote": "Vloggers who set up and break down often and use a standard-size phone; the clamp tops out at 4 in, so large phones in cases may not fit.",
+      "pros": ["One-button quick-release unfolds legs and spreader", "Remote rechargeable, works to 33 ft", "Folds to about 31 cm and weighs 420 g", "Cold shoe for mic or light"],
+      "cons": ["Clamp max 100 mm (4 in) limits big phones", "Max load not published"],
+      "facts": ["Height 31 cm to 147 cm (12.2 in to 57.9 in)", "Weight 420 g (14.8 oz)", "Clamp 60 mm to 100 mm (2.4 in to 4 in)", "Wireless remote up to 10 m (33 ft), rechargeable by cable", "Aluminum alloy frame; phone holder tilts 180 degrees", "Neewer states a two-year warranty"],
+      "specs": {"Max height (center column up)": "57.9 in", "Max height (no center column)": "Not listed", "Min height": "12.2 in", "Folded length": "About 31 cm (12.2 in)", "Weight": "420 g (14.8 oz)", "Max load": "Not listed", "Leg sections": "Not listed", "Leg lock": "Quick-release button", "Material": "Aluminum alloy", "Head": "Phone clamp, 180 degree tilt", "Plate": "Not listed"},
+      "sources": ["https://neewer.com/collections/under-100-products/products/neewer-pa992-57-9-quick-release-selfie-stick-tripod-66607371", "https://neewer.com/blogs/blog/best-phone-tripod"],
+      "scores": {"stability": 5, "portability": 8, "height": 7, "build": 6, "value": 8},
+      "scoreNote": "Fast setup and published specs; shorter than the 62 in options and the load is not stated.",
+      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+    },
+    {
+      "name": "UBeesize 67\" Phone Tripod with Remote",
+      "brand": "UBeesize",
+      "query": "UBeesize 67 inch phone tripod with remote",
+      "matchName": "UBeesize 67 Phone Tripod",
+      "badge": "Tallest reach",
+      "summary": "A 67 inch extendable phone tripod with a Bluetooth remote that works to about 30 ft. Retailer listings give a 4 lb load rating and a clamp for phones up to 5.7 in wide.",
+      "renterNote": "Vloggers who want the extra height for standing shots with a normal-size phone; listings disagree on folded size and weight, so confirm the exact model before buying.",
+      "pros": ["Reaches 67 in", "Bluetooth remote with about 30 ft range", "4 lb load rating on listings"],
+      "cons": ["Folded length and weight differ between retailer listings (17.3 in vs 20.1 in)", "Clamp max 5.7 in wide"],
+      "facts": ["Max height 67 in, min 20 in", "Remote range up to 30 ft", "Phone clamp up to 5.7 in wide", "Max load 4 lb on listings", "Folded size 17.3 in or 20.1 in depending on listing"],
+      "specs": {"Max height (center column up)": "67 in", "Max height (no center column)": "Not listed", "Min height": "20 in", "Folded length": "17.3 in to 20.1 in (listings differ)", "Weight": "Not listed (listings conflict)", "Max load": "4 lb (listing)", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone clamp", "Plate": "Not listed"},
+      "sources": ["https://www.newegg.com/ubeesize-ub-g67/p/0FY-07C8-00290", "https://www.newegg.com/avenger-tbc001/p/0FY-07C8-002U4"],
+      "scores": {"stability": 5, "portability": 7, "height": 9, "build": 5, "value": 7},
+      "scoreNote": "Tallest of the group with a stated 4 lb load, but specs are inconsistent across listings and build is unverified.",
+      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+    }
+  ],
+  "serpProducts": [
+    {"name": "EUCOS 62\" Phone Tripod", "pages": ["https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/", "https://markus-hagner-photography.com/best-phone-tripods-for-content-creators/"]},
+    {"name": "SENSYNE 62\" Phone Tripod", "pages": ["https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"]},
+    {"name": "NEEWER PA992", "pages": ["https://neewer.com/blogs/blog/best-phone-tripod"]},
+    {"name": "UBeesize phone tripod with remote", "pages": ["https://www.narcosis-the-game.com/best-vlogging-tripod-kits/"]}
+  ]
+}

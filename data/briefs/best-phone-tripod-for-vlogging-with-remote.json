@@ -1,0 +1,267 @@
+{
+  "centralEntity": "phone tripod for vlogging with remote",
+  "entityVariants": [
+    "smartphone tripod with Bluetooth remote",
+    "vlogging tripod for phones",
+    "selfie stick tripod",
+    "flexible phone tripod",
+    "creator tripod kit"
+  ],
+  "entities": [
+    {
+      "name": "Bluetooth shutter remote",
+      "type": "accessory",
+      "relation": "triggers recording or photo from a distance, typically 30 ft range"
+    },
+    {
+      "name": "Joby GorillaPod",
+      "type": "brand/product line",
+      "relation": "flexible-leg mini tripod that wraps around objects"
+    },
+    {
+      "name": "Ulanzi",
+      "type": "brand",
+      "relation": "creator-focused phone tripod maker"
+    },
+    {
+      "name": "UBeesize",
+      "type": "brand",
+      "relation": "budget tripod with bundled remote"
+    },
+    {
+      "name": "Neewer",
+      "type": "brand",
+      "relation": "budget extendable phone tripods"
+    },
+    {
+      "name": "Fugetek",
+      "type": "brand",
+      "relation": "selfie stick and tripod combo"
+    },
+    {
+      "name": "1/4\"-20 thread",
+      "type": "standard",
+      "relation": "mount thread for phone clamps and cold shoe accessories"
+    },
+    {
+      "name": "spring phone clamp",
+      "type": "component",
+      "relation": "holds phones of varying width, affects case compatibility"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "lets vloggers switch portrait and landscape"
+    },
+    {
+      "name": "MagSafe mount",
+      "type": "standard",
+      "relation": "magnetic attachment for iPhone"
+    },
+    {
+      "name": "iPhone and Android phones",
+      "type": "device",
+      "relation": "payload and clamp width constraint"
+    },
+    {
+      "name": "ring light and microphone",
+      "type": "accessory",
+      "relation": "cold-shoe add-ons that raise payload and top-heaviness"
+    },
+    {
+      "name": "selfie stick",
+      "type": "tripod type",
+      "relation": "handheld extension that doubles as a tripod"
+    },
+    {
+      "name": "portrait vs landscape orientation",
+      "type": "use case",
+      "relation": "TikTok/Reels/Shorts vs YouTube framing"
+    }
+  ],
+  "attributes": [
+    "max height",
+    "folded length",
+    "weight",
+    "max load",
+    "leg type (flexible vs rigid)",
+    "remote type and range",
+    "remote battery (CR2032 vs rechargeable)",
+    "clamp width",
+    "rotation (360 deg / 210 deg)",
+    "phone orientation switching",
+    "foot grip / stability",
+    "cold shoe or 1/4-20 accessory mounts",
+    "iOS and Android compatibility",
+    "price"
+  ],
+  "ngrams": [
+    "phone tripod",
+    "tripod with remote",
+    "bluetooth remote",
+    "vlogging tripod",
+    "extendable tripod",
+    "selfie stick tripod",
+    "flexible tripod",
+    "phone holder",
+    "360 degree rotation",
+    "cell phone tripod",
+    "remote control",
+    "for iPhone and Android",
+    "portable travel tripod",
+    "lightweight tripod"
+  ],
+  "skipgrams": [
+    "tripod…remote",
+    "phone…holder",
+    "remote…range",
+    "bluetooth…connect",
+    "tripod…height",
+    "legs…flexible",
+    "vlogging…portable",
+    "phone…clamp",
+    "remote…battery",
+    "tripod…stability"
+  ],
+  "nlpTerms": [
+    "vlogging",
+    "Bluetooth",
+    "shutter",
+    "pairing",
+    "clamp",
+    "extendable",
+    "selfie stick",
+    "creator",
+    "TikTok",
+    "Reels",
+    "YouTube Shorts",
+    "iPhone",
+    "Android",
+    "portrait",
+    "landscape",
+    "ring light",
+    "microphone",
+    "wireless",
+    "range",
+    "payload",
+    "aluminum alloy",
+    "non-slip feet",
+    "quick release",
+    "travel",
+    "livestream"
+  ],
+  "questions": [
+    "Do phone tripods with remotes work with both iPhone and Android?",
+    "How does a Bluetooth tripod remote pair with a phone?",
+    "What is the best phone tripod height for vlogging?",
+    "Can a phone tripod hold a phone with a ring light and microphone?",
+    "Is a flexible tripod or a rigid extendable tripod better for vlogging?",
+    "How far does a tripod remote work?",
+    "Do tripod remotes start video or only take photos?",
+    "Why does my tripod remote not connect?"
+  ],
+  "contentGaps": [
+    "Real working height at eye level vs the advertised max height, and how stability drops at full extension",
+    "Load capacity against actual phone plus ring light plus microphone rigs",
+    "Whether the remote starts video or only photos, and which camera apps (native vs Instagram/TikTok) respond to it",
+    "Remote battery type and replacement (CR2032 vs USB rechargeable)",
+    "Clamp width vs phones in thick cases and Pro Max sizes",
+    "Packed length for a daypack or carry-on",
+    "Wind and outdoor behavior of lightweight extendable legs",
+    "Standard 1/4-20 thread so the tripod can later hold a mirrorless camera"
+  ],
+  "outline": [
+    {
+      "h2": "Best Phone Tripods for Vlogging With Remote: Quick Picks",
+      "intent": "fast answer: top picks at a glance",
+      "h3": []
+    },
+    {
+      "h2": "Comparison Table: Height, Weight, Load, and Remote Type",
+      "intent": "scan and compare specs",
+      "h3": []
+    },
+    {
+      "h2": "How We Tested and Chose These Phone Tripods",
+      "intent": "E-E-A-T and methodology",
+      "h3": []
+    },
+    {
+      "h2": "The 6 Best Phone Tripods for Vlogging With Remote",
+      "intent": "product reviews",
+      "h3": [
+        "(one ### per product: exact name: role)"
+      ]
+    },
+    {
+      "h2": "How to Choose a Vlogging Phone Tripod With a Remote",
+      "intent": "buying guide",
+      "h3": [
+        "Rigid extendable vs flexible legs",
+        "Remote type, range, and battery",
+        "Clamp size and case compatibility",
+        "Height and load for lights and mics"
+      ]
+    },
+    {
+      "h2": "How to Pair the Remote and Set Up Your Vlogging Shot",
+      "intent": "how-to usage",
+      "h3": [
+        "Pairing steps",
+        "Framing at eye level",
+        "Portrait vs landscape"
+      ]
+    },
+    {
+      "h2": "Common Remote and Stability Problems",
+      "intent": "troubleshooting, info gain",
+      "h3": []
+    },
+    {
+      "h2": "Which Phone Tripod Should You Buy?",
+      "intent": "verdict by use case",
+      "h3": []
+    }
+  ],
+  "targetWords": 1600,
+  "internalLinkCandidates": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "score": 0.21
+    },
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "score": 0.17
+    },
+    {
+      "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+      "score": 0.1
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://realhomes.com/buying-guides/best-phone-tripod",
+      "https://neewer.com/blogs/blog/best-phone-tripod",
+      "https://www.bustle.com/life/best-tripods-for-vlogging",
+      "https://www.phonearena.com/news/best-phone-tripods_id130845",
+      "https://ca.news.yahoo.com/best-phone-tripods-2022-ideal-144547327.html",
+      "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/",
+      "https://joby.com/us-en/rigid-phone-tripods/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Consumer roundups (PhoneArena, Bustle, RealHomes style) give a short blurb plus pros/cons or key-feature bullets per product, and vlogging buyers scan for remote and height trade-offs.",
+    "avgWords": 1400,
+    "avgProducts": 6,
+    "commonSections": [
+      "quick picks",
+      "product reviews",
+      "buying guide",
+      "comparison table",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
+  }
+}

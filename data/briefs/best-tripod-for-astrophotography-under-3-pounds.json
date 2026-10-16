@@ -1,0 +1,275 @@
+{
+  "centralEntity": "lightweight astrophotography tripod under 3 pounds",
+  "entityVariants": [
+    "ultralight tripod for night sky photography",
+    "carbon fiber astro tripod",
+    "travel tripod for Milky Way photography",
+    "tripod under 1.4 kg"
+  ],
+  "entities": [
+    {
+      "name": "Milky Way and wide-field astrophotography",
+      "type": "use case",
+      "relation": "main use, needs 15-30 s exposures on a stable tripod"
+    },
+    {
+      "name": "star tracker (Sky-Watcher Star Adventurer, iOptron SkyGuider Pro)",
+      "type": "equipment",
+      "relation": "adds payload and needs a sturdy tripod"
+    },
+    {
+      "name": "Gitzo Systematic Series 3",
+      "type": "product",
+      "relation": "sub-3 lb premium carbon tripod with high capacity"
+    },
+    {
+      "name": "Feisol Tournament CT-3442",
+      "type": "product",
+      "relation": "lightweight carbon tripod favored by astro shooters"
+    },
+    {
+      "name": "K&F Concept",
+      "type": "brand",
+      "relation": "budget lightweight tripods"
+    },
+    {
+      "name": "Dolica",
+      "type": "brand",
+      "relation": "budget ball-head tripods"
+    },
+    {
+      "name": "INNOREL",
+      "type": "brand",
+      "relation": "lightweight carbon tripods"
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "travel tripod at about 2.76 lb"
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "compact carbon travel tripod"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "cuts weight and damps vibration"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "quick framing at night; geared heads for precise tilt"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "quick-release plate compatibility"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raising it reduces stability"
+    },
+    {
+      "name": "hook for ballast",
+      "type": "feature",
+      "relation": "hang a bag to add weight in wind"
+    },
+    {
+      "name": "500 rule / NPF rule",
+      "type": "concept",
+      "relation": "exposure length that depends on rock-steady support"
+    },
+    {
+      "name": "intervalometer",
+      "type": "accessory",
+      "relation": "avoids touching camera during long exposures"
+    }
+  ],
+  "attributes": [
+    "weight (under 3 lb / 1.36 kg)",
+    "max load",
+    "max height without center column",
+    "folded length",
+    "leg sections",
+    "leg lock type",
+    "head type",
+    "plate standard",
+    "material",
+    "spiked or rubber feet",
+    "ballast hook",
+    "minimum height",
+    "price"
+  ],
+  "ngrams": [
+    "astrophotography tripod",
+    "lightweight tripod",
+    "carbon fiber tripod",
+    "night sky photography",
+    "Milky Way",
+    "maximum load",
+    "ball head",
+    "travel tripod",
+    "under 3 pounds",
+    "long exposure",
+    "star trails",
+    "center column",
+    "stable tripod",
+    "payload capacity"
+  ],
+  "skipgrams": [
+    "tripod…astrophotography",
+    "weight…capacity",
+    "long…exposure",
+    "center column…stability",
+    "carbon…lightweight",
+    "wind…vibration",
+    "tripod…star tracker",
+    "load…camera",
+    "ballast…hook"
+  ],
+  "nlpTerms": [
+    "astrophotography",
+    "Milky Way",
+    "long exposure",
+    "star trails",
+    "vibration",
+    "payload",
+    "carbon fiber",
+    "magnesium alloy",
+    "ball head",
+    "star tracker",
+    "equatorial mount",
+    "wide-angle lens",
+    "full-frame",
+    "mirrorless",
+    "DSLR",
+    "intervalometer",
+    "wind",
+    "ballast",
+    "dew",
+    "cold weather",
+    "leg lock",
+    "sections",
+    "night sky"
+  ],
+  "questions": [
+    "How light can an astrophotography tripod be and still be stable?",
+    "Is a 3-pound tripod enough for a star tracker?",
+    "Is carbon fiber better than aluminum for astrophotography?",
+    "How do I stabilize a lightweight tripod in wind?",
+    "What load capacity do I need for a full-frame camera with a 14mm f/2.8?",
+    "Can I use a travel tripod for Milky Way photography?",
+    "Do I need a geared head for night sky photography?"
+  ],
+  "contentGaps": [
+    "Real sag and vibration test against exposure length for 15-30 s shots, not just rated capacity",
+    "Working height without center column and whether it allows kneeling or standing shooting",
+    "How rated load compares to a star tracker plus camera and lens (about 5-8 lb) and why to derate",
+    "Cold-weather handling of leg locks and metal parts",
+    "Ballast hook and how to add stability without weight",
+    "Foot types for soft ground, sand, or snow",
+    "Verified manufacturer weights, since sources disagree (head included vs legs only)",
+    "Packed length for a carry-on or hiking pack to dark sky sites"
+  ],
+  "outline": [
+    {
+      "h2": "Best Tripods for Astrophotography Under 3 Pounds: Quick Picks",
+      "intent": "fast answer",
+      "h3": []
+    },
+    {
+      "h2": "Comparison Table: Weight, Load, Height, and Folded Length",
+      "intent": "scan and compare",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose These Lightweight Astrophotography Tripods",
+      "intent": "methodology, E-E-A-T",
+      "h3": []
+    },
+    {
+      "h2": "The 8 Best Astrophotography Tripods Under 3 Pounds",
+      "intent": "product reviews",
+      "h3": [
+        "(one ### per product: exact name: role)"
+      ]
+    },
+    {
+      "h2": "How to Choose an Astrophotography Tripod Under 3 Pounds",
+      "intent": "buying guide",
+      "h3": [
+        "Weight vs stability",
+        "Carbon fiber vs aluminum",
+        "Load capacity vs your camera and lens",
+        "Height without the center column",
+        "Head type and Arca-Swiss plate"
+      ]
+    },
+    {
+      "h2": "How to Keep a Lightweight Tripod Steady at Night",
+      "intent": "technique and info gain",
+      "h3": [
+        "Ballast and low center of gravity",
+        "Wind and ground",
+        "Using a remote or intervalometer"
+      ]
+    },
+    {
+      "h2": "Can a Sub-3-Pound Tripod Carry a Star Tracker?",
+      "intent": "edge case",
+      "h3": []
+    },
+    {
+      "h2": "Which Lightweight Astro Tripod Should You Buy?",
+      "intent": "verdict",
+      "h3": []
+    }
+  ],
+  "targetWords": 1900,
+  "internalLinkCandidates": [
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "score": 0.35
+    },
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "score": 0.26
+    },
+    {
+      "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+      "score": 0.12
+    },
+    {
+      "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "score": 0.05
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://optcorp.com/blogs/astronomy-gear/best-tripod-for-astrophotography",
+      "https://markus-hagner-photography.com/best-tripods-for-astrophotography/",
+      "https://skiesandscopes.com/?p=12801",
+      "https://sentinelmission.org/buying-guides/best-astrophotography-tripods-for-stability/",
+      "https://digitechbytes.com/vetted/best-tripods-and-pier-mounts-for-astrophotography/",
+      "https://nightskypix.com/?p=1608"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "Astro tripod roundups lead with weight, capacity, height and folded length per product, and the query itself is a spec constraint (under 3 lb), so a spec table per product fits.",
+    "avgWords": 2000,
+    "avgProducts": 9,
+    "commonSections": [
+      "quick picks",
+      "product reviews",
+      "buying guide",
+      "comparison table",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Search-snippet based analysis; avgWords is an estimate. Few true sub-3 lb tripods exist, so verify manufacturer weights. targetWords set by 700 + 150 x 8."
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "centralEntity": "carbon fiber vs aluminum tripod for hiking",
+  "entityVariants": [
+    "carbon fiber tripod",
+    "aluminum tripod",
+    "aluminium tripod",
+    "backpacking tripod",
+    "hiking tripod"
+  ],
+  "entities": [
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter, damps vibration, costs more"
+    },
+    {
+      "name": "aluminum alloy",
+      "type": "material",
+      "relation": "cheaper, heavier, conducts temperature"
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "carbon and aluminum versions exist, good matched comparison"
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "aluminum and carbon versions"
+    },
+    {
+      "name": "Gitzo Traveler",
+      "type": "product",
+      "relation": "premium carbon travel tripod"
+    },
+    {
+      "name": "K&F Concept",
+      "type": "brand",
+      "relation": "budget carbon and aluminum pairs"
+    },
+    {
+      "name": "SmallRig",
+      "type": "brand",
+      "relation": "publishes carbon vs aluminum travel comparisons"
+    },
+    {
+      "name": "vibration damping",
+      "type": "attribute",
+      "relation": "debated advantage of carbon"
+    },
+    {
+      "name": "wind stability",
+      "type": "attribute",
+      "relation": "heavier aluminum resists wind, ballast hook helps carbon"
+    },
+    {
+      "name": "corrosion and saltwater",
+      "type": "attribute",
+      "relation": "aluminum corrodes, carbon does not"
+    },
+    {
+      "name": "cold weather grip",
+      "type": "attribute",
+      "relation": "aluminum gets cold to touch, carbon does not"
+    },
+    {
+      "name": "leg lock",
+      "type": "component",
+      "relation": "twist vs flip; affects hiking speed and grit"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "adds weight to either material"
+    },
+    {
+      "name": "ballast hook",
+      "type": "feature",
+      "relation": "adds weight to a light tripod in wind"
+    },
+    {
+      "name": "backpack straps and tripod carry loops",
+      "type": "accessory",
+      "relation": "how it travels on trail"
+    },
+    {
+      "name": "mirrorless vs DSLR load",
+      "type": "use case",
+      "relation": "payload drives needed leg diameter"
+    }
+  ],
+  "attributes": [
+    "weight",
+    "folded length",
+    "max height",
+    "max load",
+    "vibration damping",
+    "cold-touch comfort",
+    "corrosion resistance",
+    "impact durability",
+    "price",
+    "leg diameter",
+    "leg sections",
+    "wind stability",
+    "repairability"
+  ],
+  "ngrams": [
+    "carbon fiber tripod",
+    "aluminum tripod",
+    "carbon fiber vs aluminum",
+    "for hiking",
+    "lightweight tripod",
+    "travel tripod",
+    "vibration damping",
+    "weight savings",
+    "worth the extra cost",
+    "max load",
+    "backpacking",
+    "stability in wind"
+  ],
+  "skipgrams": [
+    "carbon…lighter",
+    "aluminum…cheaper",
+    "weight…hiking",
+    "vibration…damping",
+    "carbon…expensive",
+    "wind…stability",
+    "cold…touch",
+    "carbon…brittle",
+    "tripod…backpack"
+  ],
+  "nlpTerms": [
+    "carbon fiber",
+    "aluminum",
+    "alloy",
+    "weight",
+    "vibration",
+    "damping",
+    "corrosion",
+    "saltwater",
+    "durability",
+    "impact",
+    "brittle",
+    "stiffness",
+    "wind",
+    "payload",
+    "backpacking",
+    "trail",
+    "cold",
+    "thermal",
+    "ballast",
+    "price",
+    "resonance",
+    "rigidity",
+    "travel"
+  ],
+  "questions": [
+    "Is a carbon fiber tripod worth it for hiking?",
+    "How much lighter is carbon fiber than aluminum?",
+    "Is carbon fiber tripod less stable in wind?",
+    "Does carbon fiber really reduce vibration?",
+    "Is carbon fiber more fragile than aluminum?",
+    "Is aluminum good enough for short hikes?",
+    "Which tripod material is better in cold weather?",
+    "Does carbon fiber tripod hold up to saltwater?"
+  ],
+  "contentGaps": [
+    "Matched same-model comparison (Peak Design, Befree) with measured weight deltas in grams and dollars per gram saved",
+    "Break-even: how many miles or pounds on the trail make the premium worthwhile",
+    "Packed length and strap carry on a pack",
+    "Wind behavior and how a ballast hook closes the gap for carbon",
+    "Real vibration data vs claims, and which exposures it matters for",
+    "Salt, sand, and grit and leg-lock maintenance",
+    "Cold-weather handling with gloves",
+    "Load capacity against actual camera and lens weights"
+  ],
+  "outline": [
+    {
+      "h2": "Carbon Fiber vs Aluminum Tripod for Hiking: Quick Answer",
+      "intent": "fast answer",
+      "h3": []
+    },
+    {
+      "h2": "Side-by-Side Comparison Table",
+      "intent": "scan and compare",
+      "h3": []
+    },
+    {
+      "h2": "Weight and Packability on the Trail",
+      "intent": "main hiking criterion",
+      "h3": [
+        "Grams saved vs dollars",
+        "Folded length and carry"
+      ]
+    },
+    {
+      "h2": "Stability, Vibration, and Wind",
+      "intent": "performance",
+      "h3": [
+        "Does carbon damp vibration",
+        "Using ballast"
+      ]
+    },
+    {
+      "h2": "Durability, Cold, and Weather",
+      "intent": "durability",
+      "h3": [
+        "Impact and brittleness",
+        "Cold-touch and gloves",
+        "Salt, sand, and corrosion"
+      ]
+    },
+    {
+      "h2": "Cost: Is Carbon Worth the Premium?",
+      "intent": "price and value",
+      "h3": []
+    },
+    {
+      "h2": "Carbon Fiber Pick",
+      "intent": "product review",
+      "h3": [
+        "### product name: role"
+      ]
+    },
+    {
+      "h2": "Aluminum Pick",
+      "intent": "product review",
+      "h3": [
+        "### product name: role"
+      ]
+    },
+    {
+      "h2": "Which Should You Buy for Hiking?",
+      "intent": "verdict by hiker type",
+      "h3": []
+    }
+  ],
+  "targetWords": 1000,
+  "internalLinkCandidates": [
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "score": 0.36
+    },
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "score": 0.22
+    },
+    {
+      "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+      "score": 0.2
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.smallrig.com/blog/best-travel-tripods-2026-carbon-fiber-vs-aluminum.html",
+      "https://www.locationscout.net/blog/25-carbon-fiber-vs-aluminium-tripod-which-one-is-better-for-you",
+      "https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
+      "https://www.lapseoftheshutter.com/carbon-fiber-vs-aluminum-tripod/",
+      "https://www.ulanzi.com/blogs/news/carbon-fiber-vs-aluminum-travel-tripods",
+      "https://www.dvinfo.net/forum/archive/index.php/t-120774.html",
+      "https://www.dpreview.com/forums/thread/2509728?page=2"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Top results (K&F, Ulanzi, Location Scout) frame material trade-offs as pros and cons lists for each option, so each of the two products gets What we like / What we don't like.",
+    "avgWords": 1500,
+    "avgProducts": 2,
+    "commonSections": [
+      "quick comparison table",
+      "weight",
+      "stability and vibration",
+      "durability",
+      "price",
+      "which to choose"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false,
+    "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 2; this is a deliberately focused comparison. Pick two matched models (e.g. carbon and aluminum versions of one tripod) for product cards."
+  }
+}

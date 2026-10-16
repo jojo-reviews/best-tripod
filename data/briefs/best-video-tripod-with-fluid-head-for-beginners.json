@@ -1,0 +1,283 @@
+{
+  "centralEntity": "video tripod with fluid head for beginners",
+  "entityVariants": [
+    "beginner fluid head tripod",
+    "fluid head video tripod",
+    "entry-level video tripod",
+    "hydraulic head tripod"
+  ],
+  "entities": [
+    {
+      "name": "fluid head",
+      "type": "head type",
+      "relation": "hydraulic damping for smooth pans and tilts"
+    },
+    {
+      "name": "pan and tilt drag",
+      "type": "feature",
+      "relation": "adjustable resistance that smooths motion"
+    },
+    {
+      "name": "counterbalance",
+      "type": "feature",
+      "relation": "keeps camera from tipping at tilt"
+    },
+    {
+      "name": "Manfrotto 290 Xtra Kit",
+      "type": "product",
+      "relation": "known-brand aluminum kit with 128RC micro fluid head"
+    },
+    {
+      "name": "Manfrotto Nitrotech / 504X",
+      "type": "product",
+      "relation": "step-up fluid heads"
+    },
+    {
+      "name": "NEEWER video tripod",
+      "type": "product",
+      "relation": "budget fluid head tripod, 17.6 lb load"
+    },
+    {
+      "name": "SmallRig fluid head tripod",
+      "type": "product",
+      "relation": "entry-level video tripod for mirrorless"
+    },
+    {
+      "name": "K&F Concept 83 inch tripod",
+      "type": "product",
+      "relation": "light budget hydraulic head tripod at about 3.66 lb"
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "budget-to-mid fluid head kits"
+    },
+    {
+      "name": "Sirui",
+      "type": "brand",
+      "relation": "video tripod kits"
+    },
+    {
+      "name": "Pan handle",
+      "type": "component",
+      "relation": "controls panning"
+    },
+    {
+      "name": "Quick release plate",
+      "type": "component",
+      "relation": "mounts camera; Manfrotto 200PL vs Arca-Swiss"
+    },
+    {
+      "name": "Bubble level",
+      "type": "component",
+      "relation": "keeps horizon level"
+    },
+    {
+      "name": "spreader / mid-level spreader",
+      "type": "component",
+      "relation": "adds leg stability"
+    },
+    {
+      "name": "payload range",
+      "type": "attribute",
+      "relation": "matches camera, lens, and cage weight"
+    },
+    {
+      "name": "1/4-20 and 3/8-16 threads",
+      "type": "standard",
+      "relation": "camera and head mounting"
+    },
+    {
+      "name": "75mm bowl / 100mm bowl",
+      "type": "standard",
+      "relation": "head-to-tripod mount size"
+    }
+  ],
+  "attributes": [
+    "payload capacity",
+    "counterbalance steps",
+    "drag levels",
+    "tilt range",
+    "pan range (360 deg)",
+    "max height",
+    "min height",
+    "folded length",
+    "weight",
+    "leg type (single vs twin)",
+    "spreader",
+    "head mount (flat base vs bowl)",
+    "quick release plate",
+    "leg lock type",
+    "price"
+  ],
+  "ngrams": [
+    "fluid head",
+    "video tripod",
+    "fluid head tripod",
+    "for beginners",
+    "pan and tilt",
+    "smooth pans",
+    "pan handle",
+    "quick release plate",
+    "max load",
+    "bubble level",
+    "lightweight tripod",
+    "travel tripod",
+    "mirrorless camera",
+    "DSLR"
+  ],
+  "skipgrams": [
+    "fluid…head",
+    "pan…tilt",
+    "smooth…pans",
+    "video…tripod",
+    "payload…camera",
+    "drag…adjust",
+    "counterbalance…heavy",
+    "load…capacity",
+    "head…leveling"
+  ],
+  "nlpTerms": [
+    "fluid head",
+    "hydraulic",
+    "damping",
+    "drag",
+    "counterbalance",
+    "pan",
+    "tilt",
+    "payload",
+    "quick release plate",
+    "bubble level",
+    "filmmaking",
+    "videography",
+    "mirrorless",
+    "DSLR",
+    "gimbal",
+    "bowl",
+    "spreader",
+    "twin leg",
+    "smooth",
+    "beginner",
+    "entry-level",
+    "mid-level spreader",
+    "cinema"
+  ],
+  "questions": [
+    "What is a fluid head and why is it better for video?",
+    "How much payload does a beginner video tripod need?",
+    "Can a fluid head tripod be used for photography?",
+    "What is counterbalance on a fluid head?",
+    "Fluid head vs ball head for video?",
+    "Is a budget video tripod good enough for a beginner?",
+    "What height should a video tripod reach?",
+    "Do I need a spreader on a video tripod?"
+  ],
+  "contentGaps": [
+    "Real payload test with a mirrorless body plus cage, monitor, and 24-70mm, not just rated load",
+    "Working height without center column vs eye level",
+    "Whether the fluid head has true counterbalance or only drag",
+    "Plate type and Arca-Swiss compatibility",
+    "Weight and packed length for a daypack or carry-on",
+    "Leg-lock speed and number of sections",
+    "Smoothness of pan and tilt at minimum drag on budget heads",
+    "Using a fluid head for photos and ball head swap upgrades"
+  ],
+  "outline": [
+    {
+      "h2": "Best Video Tripods With Fluid Head for Beginners: Quick Picks",
+      "intent": "fast answer",
+      "h3": []
+    },
+    {
+      "h2": "Comparison Table: Payload, Height, Weight, and Head Features",
+      "intent": "scan and compare",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose Beginner Fluid Head Tripods",
+      "intent": "methodology, E-E-A-T",
+      "h3": []
+    },
+    {
+      "h2": "The 6 Best Beginner Video Tripods With Fluid Head",
+      "intent": "product reviews",
+      "h3": [
+        "(one ### per product: exact name: role)"
+      ]
+    },
+    {
+      "h2": "What Is a Fluid Head and Why Beginners Need One",
+      "intent": "definition and education",
+      "h3": [
+        "Fluid head vs ball head",
+        "Drag and counterbalance"
+      ]
+    },
+    {
+      "h2": "How to Choose a Video Tripod With Fluid Head",
+      "intent": "buying guide",
+      "h3": [
+        "Payload vs camera, cage, and lens",
+        "Height and folded length",
+        "Leg type and spreader",
+        "Quick release plate and compatibility"
+      ]
+    },
+    {
+      "h2": "How to Make Smooth Pans and Tilts",
+      "intent": "technique",
+      "h3": [
+        "Setting drag",
+        "Balancing the camera",
+        "Leveling the head"
+      ]
+    },
+    {
+      "h2": "Which Fluid Head Tripod Should You Buy?",
+      "intent": "verdict",
+      "h3": []
+    }
+  ],
+  "targetWords": 1600,
+  "internalLinkCandidates": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "score": 0.22
+    },
+    {
+      "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "score": 0.22
+    },
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "score": 0.14
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.bhphotovideo.com/explora/video/buying-guide/recommended-video-tripods",
+      "https://digitalcameraworld.com/buying-guides/best-video-tripod",
+      "https://www.mayfairfarms.com/best-fluid-head-tripods/",
+      "https://www.lynnbarsigianphotography.com/?p=47024",
+      "https://discovercameras.com/best-tripod-with-fluid-head/",
+      "https://procam.com/blogs/connect/the-beginner-s-guide-to-tripods",
+      "https://www.kentfaith.com/review_210816"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Beginner video tripod roundups (Digital Camera World, B&H, affiliate review sites) pair a verdict with pros and cons per kit, and beginners need the trade-offs (load limit, build) stated plainly.",
+    "avgWords": 1600,
+    "avgProducts": 7,
+    "commonSections": [
+      "quick picks",
+      "product reviews",
+      "what is a fluid head",
+      "buying guide",
+      "comparison table",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
+  }
+}
