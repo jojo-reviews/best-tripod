@@ -390,13 +390,13 @@ The Manfrotto PIXI Mini is the classic small tabletop tripod: fixed legs, a ball
 
 The two reviews disagree on video. [Digital Camera World](https://www.digitalcameraworld.com/reviews/manfrotto-pixi-mini-tripod-review) leads its mini tripod guide with the PIXI and says it suits video conferencing at home, while Trusted Reviews is less convinced that it works well for video. Owner reviews on Thomann and a summary of Amazon feedback both praise how solid it feels. They also both complain that the fixed 13.5 cm height keeps the lens low and that the stiff head tilts up only about 35 degrees.
 
-## Buying Guide: What Matters in a Desk Video Call Tripod
+## Buying Guide: Choosing a Mini Tripod for Desk Video Calls
 
-**For desk calls, height and load matter far more than packed size, and Arca-Swiss only matters if you move a camera between supports.** Here is what I check, in order.
+**A mini tripod for desk video calls should be judged on height and load first, stability second, and Arca-Swiss only if you move a camera between supports.** Packed size matters less than on a travel tripod, though all three are portable enough for a laptop bag. Here is what I check, in order.
 
 ### Reaching eye level without the center column
 
-None of these tripods has a true center column, and none reaches seated eye level from the desk surface. The fixed PIXI Mini and SmallRig both sit in the 13 to 23 cm range, and the Ulanzi tops out around 44 cm. Raise the whole tripod on books or a box rather than angling the camera upward, because a camera tilted up from below gives the unflattering under-chin view. If you're unsure of your eye height, our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the math.
+None of these tripods has a true center column, and none reaches seated eye level from the desk surface. The fixed PIXI Mini and SmallRig both sit in the 13 to 23 cm range, and the Ulanzi tops out around 44 cm. Raise the whole tripod on books or a box rather than angling the camera upward, because a camera tilted up from below gives the unflattering under-chin view. A camera angle near eye level also saves you from craning down at a low screen, the classic source of neck strain on long Zoom, Microsoft Teams or FaceTime calls. If you're unsure of your eye height, our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the math.
 
 ### Load capacity for a webcam, phone or mirrorless camera
 
@@ -404,24 +404,30 @@ Weigh your camera with its lens, cage and mic on a kitchen scale and compare it 
 
 ### Head type, thread and Arca-Swiss plates
 
-All three use the standard 1/4 in-20 thread found on most webcams and cameras. Only the SmallRig adds an Arca-type plate, which lets a camera slide from the desk tripod onto a full-size Arca-Swiss head without swapping plates. Since one reviewer calls its plate size non-standard, check the fit with your other clamps first.
+All three use the 1/4"-20 thread, the standard tripod screw on cameras and on many webcams. If you use a Logitech Brio or C920, check its clip for that socket before you buy. Only the SmallRig adds an Arca-type plate. An Arca-Swiss plate is the dovetail standard used by most ball-head clamps, and it lets a camera slide from the desk tripod onto a full-size Arca-Swiss head without swapping plates. Since one reviewer calls its plate size non-standard, check the fit with your other clamps first.
+
+### Stability and desk footprint
+
+Stability on a desk comes down to leg spread, weight and what is under the feet. The rigid, heavier SmallRig is the steadiest of the three on paper, while the Ulanzi gets less steady as its arm extends. Rubber feet or a mouse mat underneath help stop a tripod skating when you bump the desk, and flexible legs (like a GorillaPod-style tripod) trade some stability for the option of wrapping a monitor arm.
 
 ### Setup speed and leg locks
 
 Setup speed barely matters at a desk, but adjustment does. The PIXI Mini has no locks at all, the SmallRig sets its leg angle with a hex tool, and the Ulanzi adjusts by extending its arm. Our [tripod buying checklist](/tripod-buying-checklist/) covers locks in more depth.
 
-## Webcam vs Phone vs Mirrorless on a Desk Tripod
+## Webcam vs Phone vs Mirrorless on a Mini Tripod for Desk Video Calls
 
-**A webcam is the easiest camera to mount, a phone needs a clamp, and a mirrorless camera needs the strongest head and a careful cable run.** Here is how each pairs with these three:
+**The mini tripod for desk video calls you need depends on the camera: a webcam is the easiest to mount, a phone needs a clamp, and a mirrorless camera needs the strongest head and a careful cable run.** Here is how each pairs with these three:
 
 1. **Webcam:** any of the three works if the webcam has a 1/4 in-20 thread; the Ulanzi gives the most height.
-2. **Phone:** add a phone clamp (the PIXI Mini has none) and use the Ulanzi's height or a riser. Our [phone tripod for vlogging guide](/blog/best-phone-tripod-for-vlogging-with-remote/) covers clamps and remotes.
+2. **Phone:** add a phone holder or clamp (the PIXI Mini has none) and use the Ulanzi's height or a riser. Our [phone tripod for vlogging guide](/blog/best-phone-tripod-for-vlogging-with-remote/) covers clamps and a Bluetooth remote.
 3. **Mirrorless:** use the SmallRig, keep the USB or HDMI cable slack so it doesn't tug the head, and lift the tripod to eye level.
+
+Whatever the camera, lighting matters as much as the tripod: face a window or put a small light on the Ulanzi's cold shoe or beside the screen.
 
 ## Mini Tripod vs Monitor Mount vs Laptop Stand
 
-**A monitor-top mount is simplest for a webcam, a laptop stand fixes eye level for the built-in camera, and a mini tripod is the flexible choice for phones and real cameras.** I would only buy a mini tripod for calls if you plan to use a phone or mirrorless camera, or if you want to move your setup between rooms. If you later want smooth pans for recorded video, our [video tripod with fluid head guide](/blog/best-video-tripod-with-fluid-head-for-beginners/) is the next step.
+**A monitor-top webcam mount is simplest for a webcam alone, a laptop stand fixes eye level for the built-in camera, and a mini tripod is the flexible choice for phones and real cameras.** Call-focused phone stands such as the COOPER ChatStand are another route if you only ever use a phone. I would only buy a mini tripod for calls if you plan to use a phone or mirrorless camera, or if you want to move your setup between rooms. If you later want smooth pans for recorded video, our [video tripod with fluid head guide](/blog/best-video-tripod-with-fluid-head-for-beginners/) is the next step.
 
-## Verdict
+## Verdict: The Best Mini Tripod for Desk Video Calls
 
 **We would start with the Ulanzi MT-16 for a webcam or phone, choose the SmallRig BUT2664 for a mirrorless camera, and keep the Manfrotto PIXI Mini for the lightest, simplest setup.** Whichever you choose, put a riser under it so the lens meets your eyes.
