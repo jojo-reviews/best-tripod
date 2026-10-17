@@ -54,7 +54,9 @@ tldr:
     None of the four makers publishes a height with the center column down, so
     plan your eye-level math around that gap.
 products:
-  - name: Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)
+  - name: >-
+      Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column
+      (MT055XPRO3)
     brand: Manfrotto
     query: Manfrotto MT055XPRO3 tripod
     matchName: Manfrotto 055 Aluminum 3-Section Tripod MT055XPRO3
@@ -69,7 +71,9 @@ products:
       figure includes the raised center column, it is legs only (no head), and
       it is heavy and long when packed.
     pros:
-      - Three leg sections with flip locks keep set-up fast and the stack stiff
+      - >-
+        Three leg sections with lever-style flip locks keep set-up fast and the
+        stack stiff
       - Reviewers describe it as stable even with the center column raised
       - 90-degree column allows low and overhead angles
     cons:
@@ -77,13 +81,16 @@ products:
       - >-
         Full 66.9 in needs the center column up; one reviewer measured about
         55.5 in with legs only, which is short for eye level at 6 ft 3 in+
-      - Legs only, so you need to add a head
+      - 'Legs only, so you need to add a head'
     specs:
       Max height (center column up): 66.9 in (per Active Gear Reviews and Kentfaith)
       Max height (center column down): Not stated by the maker; one reviewer measured about 55.5 in
-      Max load: About 19.8 lb (per Active Gear Reviews)
+      Max load: >-
+        About 19.8 lb (9 kg) per Active Gear Reviews and retailers; B&H lists a
+        higher figure, so plan around the lower one
+      Folded length: About 24 in per a retailer listing
       Leg sections: '3'
-      Leg lock: Flip
+      Leg lock: Flip (Quick Power Lock levers)
       Material: Aluminum
       Head: Legs only; head sold separately (kit versions exist)
     scores:
@@ -99,10 +106,9 @@ products:
       read: 4
       praise:
         - 'Very sturdy, steady at every height even with the column raised'
-        - 'Durable; one owner reports it still working after about a year of travel'
+        - 'Built to last, per reviewers'
       complaints:
         - Too heavy and big for convenient travel
-        - Rubber feet are poor on powder snow
       sources:
         - title: The Center Column MT055XPRO3 review
           url: >-
@@ -120,15 +126,16 @@ products:
       Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column
       (MT055XPRO3),Black
     asinVerified: true
-  - name: K&F Concept 90 inch Tripod KF09.119
+  - name: K&F Concept 90 inch Tripod
     brand: K&F Concept
     query: K&F Concept 90 inch tripod overhead monopod
     matchName: K&F Concept 90 inch Tripod
     badge: Tallest option
     summary: >-
       An aluminum tripod listed at 90 in (2.3 m) maximum with a reversible
-      center column and a leg that detaches as a monopod. About 3.7 lb and
-      rated for roughly 22 lb (10 kg) per sellers and reviewers.
+      center column and a leg that detaches as a monopod. The listing title
+      gives a 10 kg (about 22 lb) load capacity and a metal ball head; weight
+      and lock type differ between sources.
     renterNote: >-
       Budget-minded shooters 6 ft 3 in+ who want eye level and overhead or
       flat-lay angles with a mirrorless or DSLR plus a mid-size lens. Key
@@ -141,15 +148,18 @@ products:
     cons:
       - Reviewers call it not very stable at full extension
       - >-
-        Twist locks and quick-release plate drew criticism in the Fstoppers
-        review
+        Weight and leg-lock type differ between the review and the maker page,
+        so check the exact variant
     specs:
       Max height: 90 in (2.3 m)
       Max height (center column down): Not stated by the sources I saw
-      Weight: About 3.7 lb (1.7 kg) per Photofocus
-      Max load: About 22 lb (10 kg) per seller and roundups
+      Weight: >-
+        About 3.7 lb (1.7 kg) per Photofocus; about 4.46 lb (2 kg) on the maker
+        page
+      Max load: 10 kg (about 22 lb) per listing title and maker page
       Leg sections: '4'
-      Leg lock: Twist
+      Leg lock: Twist per Photofocus; flip per the maker page (variant differs)
+      Head: Metal ball head per the listing title
       Material: Aluminum alloy (listed as magnesium aluminum alloy)
     scores:
       stability: 5
@@ -158,39 +168,35 @@ products:
       build: 5
       value: 8
     scoreNote: >-
-      Unmatched height for the money, but flex at full extension and basic
-      locks hold stability and build back.
+      Unmatched height for the money, but flex at full extension and basic locks
+      hold stability and build back.
     owners:
-      read: 2
+      read: 1
       praise:
-        - >-
-          Sturdy in normal use and steady in wind at moderate heights per the
-          independent reviews
+        - Stable at standard heights per the Photofocus review
         - Overhead column and monopod leg add versatility
       complaints:
-        - 'Flimsy feel at full extension; adding weight low on the column is advised'
-        - Twist locks feel cheap and the quick-release plate is awkward
+        - >-
+          Flimsy feel at full extension; adding weight low on the column is
+          advised
       sources:
         - title: Photofocus review
           url: >-
             https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/
-        - title: Fstoppers review of the K&F Concept aluminum tripod
-          url: >-
-            https://fstoppers.com/originals/fstoppers-reviews-kf-concept-aluminum-tripod-182884
     asin: B0C7BX47VW
     amazonTitle: >-
       K&F CONCEPT 90''/230cm Ultra High Horizontal Overhead Camera Tripod |
       Metal Ball Head, 10KG Load Capacity
     asinVerified: true
-  - name: VICTIV 74 inch Camera Tripod T70
+  - name: VICTIV 74 inch Camera Tripod
     brand: VICTIV
     query: VICTIV 74 inch camera tripod
     matchName: VICTIV 74 inch Camera Tripod
     badge: Best budget tall tripod
     summary: >-
-      A light aluminum tripod listed at 74 in maximum and about 19.5 in
-      minimum, around 3.1 lb with a 3-way pan head and carry bag. It gets tall
-      cheaply and suits light cameras.
+      A light aluminum tripod listed at 74 in maximum and about 19.5 in minimum,
+      around 3.1 lb with a 3-way pan head and carry bag. It gets tall cheaply
+      and suits light cameras.
     renterNote: >-
       Beginner and hobby shooters 6 ft 2 in+ with a lightweight mirrorless or
       DSLR and a short zoom. Key caveat: sellers disagree on the load rating
@@ -204,7 +210,7 @@ products:
       - >-
         Load rating is listed inconsistently across sellers; the lower 9.5 lb
         figure is the safe one
-      - 'Thin legs flex in wind at full extension; weight hook helps'
+      - Thin legs flex in wind at full extension; weight hook helps
     specs:
       Max height: 74 in
       Max height (center column down): Not stated by the sources I saw
@@ -219,8 +225,7 @@ products:
       height: 8
       build: 4
       value: 8
-    scoreNote: >-
-      Cheap and tall but light-duty; load rating is unclear and legs are thin.
+    scoreNote: Cheap and tall but light-duty; load rating is unclear and legs are thin.
     owners:
       read: 3
       praise:
@@ -267,7 +272,7 @@ products:
     specs:
       Max height: 74 in (188 cm)
       Max height (center column down): Not stated by the sources I saw
-      Min height: About 19.5 to 20 in
+      Min height: About 19 to 20 in
       Folded length: About 17 to 21 in depending on listing
       Weight: About 2.8 to 3.15 lb depending on listing
       Max load: 8.8 lb
@@ -291,8 +296,7 @@ products:
         - Buyers with larger lenses are warned off
       sources:
         - title: Discovercameras CAMBOFOTO 74 in review
-          url: >-
-            https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/
+          url: 'https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/'
         - title: Run Around Tech CAMBOFOTO review
           url: >-
             https://runaroundtech.com/2024/05/13/cambofoto-74-inch-professional-aluminum-tripod-stand/
@@ -321,9 +325,6 @@ sources:
   - title: 'Photofocus: K&F Concept 90 inch tripod with detachable monopod review'
     url: >-
       https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/
-  - title: 'Fstoppers: K&F Concept aluminum tripod review'
-    url: >-
-      https://fstoppers.com/originals/fstoppers-reviews-kf-concept-aluminum-tripod-182884
   - title: 'Discovercameras: CAMBOFOTO 74 inch camera tripod review'
     url: 'https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/'
 reviewedDate: '2026-10-17'
@@ -339,9 +340,9 @@ faqs:
   - q: How tall should a tripod be if I am over 6 feet?
     a: >-
       As a rule of thumb, look for legs-only height of about your height minus
-      10 to 12 inches, because eye level sits a few inches below the top of
-      your head and the tripod head and camera add more on top. At 6'2" that
-      means roughly 62 to 64 in of tripod height without the center column.
+      10 to 12 inches, because eye level sits a few inches below the top of your
+      head and the tripod head and camera add more on top. At 6'2" that means
+      roughly 62 to 64 in of tripod height without the center column.
   - q: Do I need to extend the center column on a tall tripod?
     a: >-
       Only if the legs alone stop short of eye level. A raised center column is
@@ -356,16 +357,18 @@ faqs:
       raised.
   - q: Is carbon fiber better for tall tripods?
     a: >-
-      Carbon fiber keeps a tall tripod lighter and damps vibration better than
-      aluminum, which matters more as legs get longer. All four picks here are
-      aluminum, so expect more weight or more flex than a carbon fiber tripod of
-      the same height.
+      Carbon fiber generally keeps a tall tripod lighter and damps vibration
+      better than aluminum, which matters more as legs get longer. All four
+      picks here are aluminum, so expect more weight or more flex than a carbon
+      fiber tripod of the same height.
   - q: What head height adds to tripod height?
     a: >-
-      A ball head typically adds about 3 to 5 inches, and the camera body puts
-      the viewfinder a few inches higher still. Check whether a listed maximum
+      A head typically adds a few inches, and the camera body puts the
+      viewfinder a few inches higher still. Check whether a listed maximum
       height includes the head, because spec sheets often measure only to the
       top plate.
+related:
+  - best-mini-tripod-for-desk-video-calls
 ---
 
 The best tripod for tall photographers over 6 feet is one that puts your viewfinder at eye level without a fully raised center column, and very few spec sheets tell you whether a tripod can do that. I compared four tall tripods on manufacturer listings, independent reviews and a small set of owner reports: the [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) for heavy lenses, the [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) for sheer height, and two light 74 inch budget models. I did not use these tripods myself, so every figure below is a maker's claim or a reviewer's number, and I say which.
@@ -377,9 +380,9 @@ The best tripod for tall photographers over 6 feet is one that puts your viewfin
 Here are my quick picks:
 
 - **Best sturdy all-rounder: Manfrotto MT055XPRO3.** 66.9 in with the column up, about 19.8 lb load, 3 sections with flip locks. Legs only.
-- **Tallest option: K&F Concept 90 inch Tripod.** 90 in maximum, about 3.7 lb, about 22 lb rated load, reversible column.
+- **Tallest option: K&F Concept 90 inch Tripod.** 90 in maximum, 10 kg (about 22 lb) rated load, reversible column, weight 3.7 to 4.46 lb by source.
 - **Best budget tall tripod: VICTIV 74 inch.** About 3.1 lb with a 3-way pan head; treat it as a 9.5 lb load tripod.
-- **Lightest tall pick: CAMBOFOTO 74 inch.** Roughly 2.8 to 3.15 lb, 8.8 lb load, the only one with a published folded length.
+- **Lightest tall pick: CAMBOFOTO 74 inch.** Roughly 2.8 to 3.15 lb, 8.8 lb load, the lowest rating of the four.
 
 ## Tripod for Tall Photographers Comparison: Height, Load, Weight
 
@@ -391,11 +394,11 @@ This table compares the four tall tripods on height, load, weight and legs:
 |---|---|---|---|---|
 | Max height | 66.9 in (column up) | 90 in | 74 in | 74 in |
 | Without center column | Not stated (one reviewer measured about 55.5 in) | Not stated | Not stated | Not stated |
-| Max load | About 19.8 lb | About 22 lb | 9.5 lb (listings differ) | 8.8 lb |
-| Weight | Not stated; reviewers call it heavy | About 3.7 lb | About 3.14 lb | About 2.8 to 3.15 lb |
-| Leg sections / lock | 3, flip | 4, twist | Not stated | Not stated |
+| Max load | About 19.8 lb (B&H lists higher) | 10 kg (about 22 lb) | 9.5 lb (listings differ) | 8.8 lb |
+| Weight | Not stated; reviewers call it heavy | About 3.7 lb (review) to 4.46 lb (maker page) | About 3.14 lb | About 2.8 to 3.15 lb |
+| Leg sections / lock | 3, flip | 4, twist or flip by source | Not stated | Not stated |
 | Head | None (legs only) | Ball head per listing title | 3-way pan head | Pan head |
-| Folded length | Not stated | Not stated | Not stated | About 17 to 21 in |
+| Folded length | About 24 in (retailer) | About 21 in (maker page) | Not stated | About 17 to 21 in |
 
 ## How We Chose Tripods for Tall Photographers
 
@@ -403,7 +406,7 @@ This table compares the four tall tripods on height, load, weight and legs:
 
 ### Height math for 6 ft and over
 
-Eye level sits roughly 4 to 5 inches below the top of your head, so a 6'2" shooter's eye level is around 70 in. A tripod head and camera usually add 5 to 8 inches above the top plate, which is why I use the rule from our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/): legs-only height of about your height minus 10 to 12 inches.
+These are rough rules of thumb, not measurements. Eye level sits roughly 4 to 5 inches below the top of your head, so a 6'2" shooter's eye level is around 70 in. I assume a tripod head and camera add roughly 5 to 8 inches above the top plate, which is why I use the rule from our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/): legs-only height of about your height minus 10 to 12 inches.
 
 ### Research criteria
 
@@ -424,52 +427,52 @@ These are the points I checked for each tripod:
 
 ### Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3): best sturdy all-rounder
 
-The Manfrotto MT055XPRO3 is the tripod for tall photographers who carry heavier lenses and mostly drive to locations. It has three aluminum leg sections with flip locks, a 90-degree center column that swings horizontal for low or overhead work, and a load figure of about 19.8 lb in the guides I read. That makes it the only pick here with real headroom for a full-frame body and a 70-200mm f/2.8 plus a solid ball head.
+The Manfrotto MT055XPRO3 is the tripod for tall photographers who carry heavier lenses and mostly drive to locations. It has three aluminum leg sections with flip locks, a 90-degree center column that swings horizontal for low or overhead work, and a load figure of about 19.8 lb in the guides I read. That gives it the most load headroom of the four, which likely suits a full-frame body with a 70-200mm f/2.8 plus a solid ball head, though I have not tested that.
 
-Height is the catch. The 66.9 in maximum needs the column raised, and one reviewer at [The Center Column](https://thecentercolumn.com/tripod-reviews/manfrotto/manfrotto-mt055xpro3-review/) measured about 55.5 in with legs only. Add 5 to 8 inches of head and camera and you reach about 61 to 64 in, so anyone over 6 feet will raise the column. The MT055XPRO3 is also legs only, so budget for a head, ideally one with an Arca-Swiss clamp.
+Height is the catch. The 66.9 in maximum needs the column raised, and one reviewer at [The Center Column](https://thecentercolumn.com/tripod-reviews/manfrotto/manfrotto-mt055xpro3-review/) measured about 55.5 in with legs only. Adding my rough 5 to 8 inch allowance for head and camera gives an estimate of about 61 to 64 in, which is short of eye level for most people over 6 feet, so expect to raise the column. The MT055XPRO3 is also legs only, so budget for a head, ideally one with an Arca-Swiss clamp.
 
-Owners in the four reviews and Reddit summaries I read praise how steady it stays at every height, even with the column up, and one says it still works after about a year of travel. The repeated complaint is weight and bulk; owners say it is not a travel tripod, and one notes the rubber feet do poorly on powder snow.
+Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up. The repeated complaint is weight and bulk; reviewers say it is not a travel tripod.
 
-### K&F Concept 90 inch Tripod KF09.119: tallest option
+### K&F Concept 90 inch Tripod: tallest option
 
-The K&F Concept 90 inch Tripod is the tallest option, listed at 90 in (2.3 m), which clears eye level for any adult with plenty to spare. It weighs about 3.7 lb, carries a rated load of about 22 lb, has four aluminum-alloy leg sections with twist locks, and adds a reversible column for flat-lay shots plus a leg that detaches as a monopod. The Amazon listing title mentions a metal ball head; [K&F Concept's product page](https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod) has the full spec.
+The K&F Concept 90 inch Tripod is the tallest option, listed at 90 in (2.3 m), which clears eye level for any adult with plenty to spare. The listing title gives a 10 kg (about 22 lb) load capacity and a metal ball head, and the design has four aluminum-alloy leg sections, a reversible column for flat-lay shots and a leg that detaches as a monopod. Sources disagree on weight (Photofocus lists about 3.7 lb; [K&F Concept's KF09.119 page](https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod) lists about 4.46 lb) and on lock type (twist in the review, flip on the maker page). I could not confirm which variant the Amazon listing is, so check the listing before you buy.
 
-Treat the 22 lb rating carefully at full height. The two independent reviews I read (Photofocus and Fstoppers) found it steady in normal use and in wind at moderate heights, but flimsy at full extension. They suggest hanging weight low on the column. Fstoppers also criticized the twist locks and the awkward quick-release plate. For a 6'4" shooter, I would use it with the lowest leg sections partly retracted and the column only slightly raised.
+Treat the 22 lb rating carefully at full height. The Photofocus review found it stable at standard heights but not overly stable and flimsy at full extension, and wished for a hook to hang a bag or counterweight. For a 6'4" shooter, I would use it with the lowest leg sections partly retracted and the column only slightly raised.
 
-### VICTIV 74 inch Camera Tripod T70: best budget tall tripod
+### VICTIV 74 inch Camera Tripod: best budget tall tripod
 
 The [VICTIV 74 inch Camera Tripod](amzn:VICTIV+74+inch+camera+tripod) is the cheapest way here to reach eye level at 6'2" or above. It is listed at 74 in maximum and about 19.5 in minimum, weighs about 3.14 lb, and comes with a 3-way pan head, quick-release plate and carry bag. Whether the 74 in includes the head is not stated in the sources I read.
 
-Load is where I would be strict. VICTIV's own page says 9.5 lb, while other listings give different figures, so I would plan around 9.5 lb and keep a mirrorless body with a short zoom on it. Owners in the three reviews I read like the value and say the pan head is smooth and precise. They also report wobble at full extension, flex in wind, thin legs and some plastic parts; hanging weight on the hook helps.
+Load is where I would be strict. VICTIV's own page says 9.5 lb, while other listings give different figures, so I would plan around 9.5 lb and keep a mirrorless body with a short zoom on it. Reviewers in the three sources I read like the value and say the pan head is smooth and precise. They also report wobble at full extension, flex in wind, thin legs and some plastic parts; hanging weight on the hook helps.
 
 ### CAMBOFOTO 74 inch Camera Tripod: lightest tall pick
 
-The [CAMBOFOTO 74 inch Camera Tripod](amzn:CAMBOFOTO+74+inch+camera+tripod) is the lightest way past 6 ft on this list at roughly 2.8 to 3.15 lb, depending on the listing. It reaches 74 in (188 cm), drops to about 19.5 to 20 in, and ships with a pan head, phone holder and bag. Its 8.8 lb load rating is the lowest of the four.
+The [CAMBOFOTO 74 inch Camera Tripod](amzn:CAMBOFOTO+74+inch+camera+tripod) is the lightest way past 6 ft on this list at roughly 2.8 to 3.15 lb, depending on the listing. It reaches 74 in (188 cm), drops to about 19 to 20 in, and ships with a pan head, phone holder and bag. Its 8.8 lb load rating is the lowest of the four.
 
-Listings disagree on folded length (about 17 to 21 in) and weight, and several CAMBOFOTO 74 in variants exist, so check the exact model. The two owner reviews I read praise how light and compact it is for its height and the included accessories. Both report sway under load and warn buyers with larger lenses away. I see it as a phone or small-mirrorless tripod for a tall traveler.
+Listings disagree on folded length (about 17 to 21 in) and weight, and several CAMBOFOTO 74 in variants exist, so check the exact model. The two reviews I read praise how light and compact it is for its height and the included accessories. Both report sway under load and warn buyers with larger lenses away. I see it as a phone or small-mirrorless tripod for a tall traveler.
 
 ## How Tall Should a Tripod for Tall Photographers Be Over 6 Feet?
 
 **A tripod for tall people should reach roughly your height minus 10 to 12 inches with the center column down.** That puts the viewfinder at eye level once the head and camera sit on top.
 
-At 6 feet, that is about 60 to 62 in of legs-only height; at 6'4", about 64 to 66 in; at 6'6", about 66 to 68 in. Not one of the four makers publishes this column-down figure, so tall tripod shopping means reading reviews for measured numbers. A ball head adds about 3 to 5 inches, and a camera with a top viewfinder adds a few more. If you shoot mostly on a tilting rear screen, chin level is fine and you can work a few inches lower without hunching.
+At 6 feet, that is about 60 to 62 in of legs-only height; at 6'4", about 64 to 66 in; at 6'6", about 66 to 68 in. Not one of the four makers publishes this column-down figure, so tall tripod shopping means reading reviews for measured numbers. A head typically adds a few inches (check your own head), and a camera with a top viewfinder adds a few more. If you shoot mostly on a tilting rear screen, chin level is fine and you can work a few inches lower without hunching.
 
 ## Stability, Load Capacity and Leg Locks on a Tripod for Tall Photographers
 
 **Tall tripods lose stability as you extend the thinnest leg sections and the center column, so a rated load is a ceiling, not a working target.** Weigh your actual kit and leave a wide margin.
 
-- **Load against real gear.** Add up the published weights of your body, lens and head from the camera and lens makers. A mirrorless body with a 24-70mm suits the VICTIV or CAMBOFOTO only if the total stays well under their ratings; a full-frame mirrorless with 70-200mm f/2.8 belongs on the Manfrotto.
+- **Load against real gear.** Add up the published weights of your body, lens and head from the camera and lens makers. A mirrorless body with a 24-70mm suits the VICTIV or CAMBOFOTO only if the total stays well under their ratings; a full-frame mirrorless with 70-200mm f/2.8 is better suited to the Manfrotto.
 - **Leg sections (3 vs 4).** Fewer sections are stiffer and faster to deploy; more sections pack shorter. The Manfrotto has 3, the K&F has 4.
-- **Twist lock vs flip lock.** Flip locks show at a glance whether they are closed. Twist locks can feel quicker, but the K&F's drew criticism and can pick up grit, so rinse them after sand.
-- **Carbon fiber vs aluminum.** All four picks are aluminum. Carbon fiber damps vibration better and saves weight, which matters more as tripod height climbs. Carbon tall tripods from Gitzo, Benro, Sirui and Induro come up in forum threads, but I could not confirm a clear Amazon listing and spec set for one, so none made this list.
+- **Twist lock vs flip lock.** Flip locks show at a glance whether they are closed. Twist locks can feel quicker but can pick up grit, so clean them after sand. Sources disagree on which type the K&F has, so check the listing.
+- **Carbon fiber vs aluminum.** All four picks are aluminum. Carbon fiber tends to damp vibration better and save weight, which matters more as tripod height climbs. I could not confirm a clear Amazon listing and spec set for a tall carbon tripod, so none made this list.
 
 I also look at the plate. None of the research I read confirms an Arca-Swiss plate or clamp on these heads, so if you already use Arca-Swiss plates, pair the Manfrotto legs with an Arca-Swiss head. A geared head is another option on those legs if you want slow, precise framing at full height. For more on head choice, see our [ball head vs pan-tilt head](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) guide.
 
 ## Packed Length, Weight and Low-Angle Limits
 
-**Only the CAMBOFOTO lists a folded length (about 17 to 21 in), so for the other three, measure or ask before you plan a carry-on.** Reviewers call the Manfrotto heavy and bulky.
+**Folded lengths I found: about 24 in for the Manfrotto (retailer listing), about 21 in for the K&F maker page, and about 17 to 21 in for the CAMBOFOTO; the VICTIV is not stated, so measure or ask before you plan a carry-on.** Reviewers call the Manfrotto heavy and bulky.
 
-For a tall tripod that travels, our [best travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup lists folded lengths. For low-angle shooting, the VICTIV and CAMBOFOTO bottom out around 19.5 in, while the Manfrotto's horizontal column and the K&F's reversible column reach lower or overhead.
+For a tall tripod that travels, our [best travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup lists folded lengths. For low-angle shooting, the VICTIV and CAMBOFOTO bottom out around 19 to 20 in, while the Manfrotto's horizontal column and the K&F's reversible column reach lower or overhead.
 
 ## Final Verdict
 

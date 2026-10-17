@@ -375,7 +375,7 @@
     "slug": "twist-lock-vs-flip-lock-tripod-legs"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -399,7 +399,8 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-mini-tripod-for-desk-video-calls",
-    "productCount": 5
+    "productCount": 5,
+    "publishedAt": "2026-10-17T13:27:17.375Z"
   },
   {
     "status": "pending",

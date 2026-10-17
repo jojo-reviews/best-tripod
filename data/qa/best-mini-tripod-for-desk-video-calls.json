@@ -1,0 +1,16 @@
+{
+  "slug": "best-mini-tripod-for-desk-video-calls",
+  "pass": true,
+  "checkedAt": "2026-10-17T13:27:01.545Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Checked via web search (page fetch blocked): Trusted Reviews PIXI (handheld grip use called highly unsuitable for video; reworded), DCW PIXI review (solid pocket-sized, 190 g, no height adjustment; removed unverified video-conferencing claim), Ulanzi maker page via search (170 g, 22-44 cm, 1.5 kg, ABS+aluminum, cold shoe; removed unsourced retailer video-conferencing claim). Removed ChatStand/Brio/C920 mentions; softened load advice. SmallRig/Thomann/B&H specs per research brief sources, not re-opened.",
+    "at": "2026-10-17T13:27:01.122Z"
+  }
+}

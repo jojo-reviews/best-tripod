@@ -317,6 +317,7 @@ heroAlt: >-
   Best Video Tripod With Fluid Head for Beginners: 3 Picks (2026): Best Tripod
   buying guide
 related:
+  - best-mini-tripod-for-desk-video-calls
   - best-phone-tripod-for-vlogging-with-remote
 ---
 

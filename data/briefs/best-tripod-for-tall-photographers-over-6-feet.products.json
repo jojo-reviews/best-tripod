@@ -76,7 +76,7 @@
    "asinVerified": true
   },
   {
-   "name": "K&F Concept 90 inch Tripod KF09.119",
+   "name": "K&F Concept 90 inch Tripod",
    "brand": "K&F Concept",
    "query": "K&F Concept 90 inch tripod overhead monopod",
    "matchName": "K&F Concept 90 inch Tripod",
@@ -95,10 +95,10 @@
    "specs": {
     "Max height": "90 in (2.3 m)",
     "Max height (center column down)": "Not stated by the sources I saw",
-    "Weight": "About 3.7 lb (1.7 kg) per Photofocus",
-    "Max load": "About 22 lb (10 kg) per seller and roundups",
+    "Weight": "About 3.7 lb (1.7 kg) per Photofocus; about 4.46 lb on the maker page",
+    "Max load": "10 kg (about 22 lb) per listing title and maker page",
     "Leg sections": "4",
-    "Leg lock": "Twist",
+    "Leg lock": "Twist per Photofocus; flip per the maker page (variant differs)",
     "Material": "Aluminum alloy (listed as magnesium aluminum alloy)"
    },
    "sources": [
@@ -143,7 +143,7 @@
    "asinVerified": true
   },
   {
-   "name": "VICTIV 74 inch Camera Tripod T70",
+   "name": "VICTIV 74 inch Camera Tripod",
    "brand": "VICTIV",
    "query": "VICTIV 74 inch camera tripod",
    "matchName": "VICTIV 74 inch Camera Tripod",
@@ -272,7 +272,7 @@
     ]
    },
    "asin": "B0CQP46NQG",
-   "amazonTitle": "CAMBOFOTO 74\" Camera Tripod, Phone Tripod for iPhone Lightweight Tripod | 360\u00b0 Pan Head Gunmetal Gray",
+   "amazonTitle": "CAMBOFOTO 74\" Camera Tripod, Phone Tripod for iPhone Lightweight Tripod | 360° Pan Head Gunmetal Gray",
    "asinVerified": true
   }
  ],
