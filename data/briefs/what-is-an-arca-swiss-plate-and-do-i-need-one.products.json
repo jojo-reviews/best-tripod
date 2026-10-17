@@ -1,0 +1,222 @@
+{
+ "products": [
+  {
+   "name": "SmallRig Quick Release Plate for Arca Swiss 2146B",
+   "brand": "SmallRig",
+   "query": "SmallRig Quick Release Plate Arca Swiss 2146B",
+   "matchName": "SmallRig Quick Release Plate Arca Swiss",
+   "badge": "Best budget all-rounder",
+   "summary": "A small aluminum Arca-type plate with rubber anti-twist pads and both 1/4\"-20 and 3/8\"-16 screws. It is the plate most roundups reach for when someone just wants to make a mirrorless body or cage Arca-Swiss ready.",
+   "renterNote": "Mirrorless and cage shooters who want a short, light plate for a ball head with an Arca-style clamp. At about 68 mm long with a single mounting screw, it is not the pick for heavy telephoto lenses.",
+   "pros": [
+    "Compact plate of about 48-50 g (sources differ slightly) that fits tight cage layouts",
+    "Includes both 1/4\"-20 and 3/8\"-16 screws",
+    "Rubber pads are meant to resist twisting"
+   ],
+   "cons": [
+    "Single-screw mounting, which is the usual source of twist complaints on short plates",
+    "Listings disagree on which SmallRig baseplates it fits, so check your cage first"
+   ],
+   "specs": {
+    "Length": "68 mm (68 x 40 x 17.5 mm)",
+    "Weight": "About 48 g",
+    "Material": "Aluminum alloy",
+    "Screws": "1/4\"-20 and 3/8\"-16",
+    "Plate": "Arca-type 38 mm dovetail",
+    "Anti-twist": "Rubber pads"
+   },
+   "sources": [
+    "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "https://modelrec.com/best-arca-swiss-compatible-accessories/",
+    "https://discovercameras.com/best-lightweight-camera-quick-release-plates/",
+    "https://cameragearworkflow.com/arca-swiss-quick-release-basics/",
+    "https://en.vocas.nl/smallrig-quick-release-plate-arca-type-2146b/",
+    "https://www.adorama.com/smallrig-quick-release-plate-arca-type-compatible/p/sr2146b"
+   ],
+   "scores": {
+    "stability": 6,
+    "portability": 9,
+    "build": 7,
+    "value": 9
+   },
+   "scoreNote": "Very light and cheap with the right screws, but short and held by one screw, so it grips less firmly than a body-specific plate or a longer lens plate.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Machining quality noted as good by a retailer reviewer",
+     "Slides into Arca-style clamps without modification, per roundup testers"
+    ],
+    "complaints": [
+     "One retailer reviewer called it only adequate (function as required)",
+     "An older Fred Miranda post about an earlier SmallRig plate reported play after tightening; it is not clearly about the 2146B"
+    ],
+    "sources": [
+     {
+      "title": "B&H reviews, SmallRig 2146B",
+      "url": "https://www.bhphotovideo.com/c/product/1570305-REG/smallrig_2146b_quick_release_plate.html/reviews"
+     },
+     {
+      "title": "Adorama listing reviews, SmallRig 2146B",
+      "url": "https://www.adorama.com/smallrig-quick-release-plate-arca-type-compatible/p/sr2146b"
+     },
+     {
+      "title": "Fred Miranda forum thread mentioning an earlier SmallRig plate",
+      "url": "https://www.fredmiranda.com/forum/topic/1565522/3/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Wimberley P-30 Quick Release Plate",
+   "brand": "Wimberley",
+   "query": "Wimberley P-30 Arca-Type Quick Release Plate",
+   "matchName": "Wimberley P30 Quick Release Plate",
+   "badge": "Best for telephoto lenses",
+   "summary": "A 4.4 in anodized aluminum double-dovetail plate for collared telephoto lenses, with anti-twist flanges and safety stops. It is the plate birding and wildlife shooters most often name.",
+   "renterNote": "Shooters with a lens that has a tripod foot (for example a 200-500mm or 150-600mm zoom) who want it balanced on an Arca-style ball head. The safety stops do not work fully with Arca-Swiss double-decker clamps, and it is more plate than a small mirrorless body needs.",
+   "pros": [
+    "Long 4.4 in plate lets you slide the lens to balance it",
+    "Anti-twist flanges line up with the lens foot",
+    "Anodized 6061 aluminum with stainless fasteners and dual safety stops"
+   ],
+   "cons": [
+    "Safety stops do not catch properly in Arca-Swiss double-decker clamps",
+    "Too long and heavy for compact mirrorless bodies"
+   ],
+   "specs": {
+    "Length": "4.4 in (118 mm)",
+    "Weight": "About 3 oz (3.04 oz on one listing)",
+    "Material": "Anodized 6061 aluminum, stainless fasteners",
+    "Plate": "Arca-type double dovetail with safety stops",
+    "Fits": "Collared telephoto lens feet"
+   },
+   "sources": [
+    "https://gadgetsfeed.com/best-arca-swiss-plate/",
+    "https://www.birdforum.net/threads/best-arca-swiss-plate.209367/",
+    "https://the-digital-picture.com/Reviews/Wimberley-Quick-Release-Lens-Plate.aspx",
+    "https://www.tripodhead.com/products/instructions-p-30.pdf",
+    "https://www.adorama.com/wip30.html",
+    "https://www.bestbuy.com/product/wimberley-p30-4-4-arca-type-quick-release-plate-for-telephoto-lenses/JXFP7FJY5Z"
+   ],
+   "scores": {
+    "stability": 9,
+    "portability": 6,
+    "build": 9,
+    "value": 7
+   },
+   "scoreNote": "Strong, well-machined and made for big lenses, but long and aimed at lens feet rather than camera bodies.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Fit and build quality on telephoto lens feet",
+     "Extra hole allowed a strap connector on one 200-500mm owner's lens",
+     "A Wimberley-published review says the plates have worked in every clamp tried"
+    ],
+    "complaints": [
+     "One 200-500mm owner wished the lens foot took two screws rather than one",
+     "Clamp tolerances vary, so some clamps fit tight or loose"
+    ],
+    "sources": [
+     {
+      "title": "The Digital Picture, Wimberley Quick Release Lens Plate review",
+      "url": "https://the-digital-picture.com/Reviews/Wimberley-Quick-Release-Lens-Plate.aspx"
+     },
+     {
+      "title": "Adorama listing, Wimberley P30",
+      "url": "https://www.adorama.com/wip30.html"
+     },
+     {
+      "title": "BirdForum thread, Best Arca Swiss Plate?",
+      "url": "https://www.birdforum.net/threads/best-arca-swiss-plate.209367/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "FALCAM F38 Anti Deflection Quick Release Plate V2 2401A",
+   "brand": "FALCAM",
+   "query": "FALCAM F38 Quick Release Plate V2 2401A Arca-Swiss",
+   "matchName": "FALCAM F38 Quick Release Plate V2",
+   "badge": "Best screwless quick-release",
+   "summary": "A tiny 38 mm square aluminum plate that is Arca-compatible and also works with the FALCAM F38 accessory system. It uses a no-screw quick release and an anti-slip pad.",
+   "renterNote": "Mirrorless and compact-video shooters who want a light, flat plate that also clips into F38 accessories. It is a small plate with no published load rating in the sources I saw, so keep it for lighter bodies and lenses.",
+   "pros": [
+    "About 15 g and 38 x 38 x 11 mm",
+    "Compatible with Arca-spec bases and FALCAM F38 accessories",
+    "Anti-slip pad and lanyard or strap holes"
+   ],
+   "cons": [
+    "No maximum load listed in the sources I found",
+    "Version and model numbers (V1 2268, V2 2401A) differ between sources, so confirm the V2 listing"
+   ],
+   "specs": {
+    "Size": "38 x 38 x 11 mm",
+    "Weight": "About 15 g",
+    "Material": "Aluminum alloy",
+    "Plate": "Arca-compatible, FALCAM F38 compatible",
+    "Max load": "Not listed"
+   },
+   "sources": [
+    "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "https://modelrec.com/best-arca-swiss-compatible-accessories/",
+    "https://www.ulanzi.com/zh-hans-sg/products/ulanzi-falcam-f38-quick-release-top-plate-v2-2401a",
+    "https://www.ulanzi.com/products/falcam-f38-camera-quick-release-plate-kit-2268"
+   ],
+   "scores": {
+    "stability": 5,
+    "portability": 10,
+    "build": 7,
+    "value": 8
+   },
+   "scoreNote": "Extremely light and clever, but a small footprint with no stated load rating, so less steady than a longer plate with a heavier rig.",
+   "owners": {
+    "read": 0,
+    "praise": [
+     "No owner reports found; praise here comes from roundup writers, not owners: no-screw quick release and anti-slip pad"
+    ],
+    "complaints": [
+     "No owner complaints found in the sources I could open; model numbering differs between sources"
+    ],
+    "sources": [
+     {
+      "title": "Markus Hagner Photography roundup (roundup, not an owner source)",
+      "url": "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "SmallRig Quick Release Plate 2146B",
+   "pages": [
+    "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "https://modelrec.com/best-arca-swiss-compatible-accessories/",
+    "https://discovercameras.com/best-lightweight-camera-quick-release-plates/",
+    "https://cameragearworkflow.com/arca-swiss-quick-release-basics/"
+   ]
+  },
+  {
+   "name": "Wimberley P-30",
+   "pages": [
+    "https://gadgetsfeed.com/best-arca-swiss-plate/",
+    "https://www.birdforum.net/threads/best-arca-swiss-plate.209367/",
+    "https://the-digital-picture.com/Reviews/Wimberley-Quick-Release-Lens-Plate.aspx"
+   ]
+  },
+  {
+   "name": "FALCAM F38 Quick Release Plate V2",
+   "pages": [
+    "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "https://modelrec.com/best-arca-swiss-compatible-accessories/"
+   ]
+  },
+  {
+   "name": "NEEWER QPR-5 / 50mm Universal Arca Type plate (not used)",
+   "pages": [
+    "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "https://www.lynnbarsigianphotography.com/?p=45024"
+   ]
+  }
+ ]
+}
