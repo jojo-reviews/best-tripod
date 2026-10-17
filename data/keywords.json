@@ -81,7 +81,7 @@
     "productCount": 2
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -105,7 +105,8 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-phone-tripod-for-vlogging-with-remote",
-    "productCount": 6
+    "productCount": 6,
+    "publishedAt": "2026-10-17T12:23:25.354Z"
   },
   {
     "status": "pending",

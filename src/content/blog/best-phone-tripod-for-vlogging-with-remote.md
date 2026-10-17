@@ -63,8 +63,8 @@ products:
     summary: >-
       A MagSafe-style selfie stick that turns into a full-height tripod when you
       tap its base on the ground, with a small rechargeable Bluetooth remote
-      that clips to the pole. Digital Camera World puts it first for MagSafe
-      phones.
+      that clips to the pole. Digital Camera World reviewed it as a tripod and
+      selfie stick for iPhone users.
     renterNote: >-
       iPhone (or MagSafe-case) vloggers who want one stick for handheld,
       standing-height and overhead shots. Key caveat: reviewers report wobble at
@@ -72,7 +72,9 @@ products:
     pros:
       - 'Legs open by tapping the base on a surface, so setup takes seconds'
       - Strong magnetic mount with 180 degree tilt and 360 degree rotation
-      - Bluetooth remote is USB-C rechargeable and docks magnetically on the pole
+      - >-
+        Bluetooth remote is USB-C rechargeable and docks magnetically on the
+        pole
     cons:
       - >-
         Wobbles noticeably at full 66 in extension (Macworld) and folding the
@@ -90,7 +92,9 @@ products:
       Leg sections: 10-section pole; three tap-to-open legs
       Material: Aluminum telescopic pole
       Head: 'Magnetic phone holder, 180 degree tilt, 360 degree rotation'
-      Plate: 'MagSafe-style magnet; adhesive ring for non-magnetic phones; no 1/4 in screw'
+      Plate: >-
+        MagSafe-style magnet; adhesive ring for non-magnetic phones; no 1/4 in
+        screw
     scores:
       stability: 6
       portability: 7
@@ -155,6 +159,7 @@ products:
     amazonTitle: >-
       Ubeesize Phone Tripod, Portable and Flexible Tripods with Wireless Remote
       and Clip, Cell Phone Tripode Stand for Video Recording
+    asinVerified: true
     badge: Best budget flexible pick
     summary: >-
       A small flexible-leg tripod with a spring-loaded phone clamp, 360 degree
@@ -174,8 +179,8 @@ products:
         Only about 10 to 11 in tall, so it is a table or wrap-around tripod, not
         a standing-height one
       - >-
-        ShopSavvy's summary reports vertical-orientation wobble, loosening
-        joints and remote drops at distance
+        Owner feedback reports vertical-orientation wobble, loosening joints and
+        remote drops at distance
     specs:
       Max height: About 10-11 in (sources differ)
       Leg sections: Flexible jointed legs
@@ -209,7 +214,8 @@ products:
         - title: 'iPhone Photography School: iPhone tripods'
           url: 'https://iphonephotographyschool.com/iphone-tripod/'
         - title: 'ShopSavvy TL;DR: UBeesize flexible phone tripod'
-          url: 'https://next.shopsavvy.com/reviews-tldr/ubeesize-flexible-phone-tripod'
+          url: >-
+            https://next.shopsavvy.com/reviews-tldr/ubeesize-flexible-phone-tripod
         - title: 'PopSci: The best iPhone tripods'
           url: 'https://www.popsci.com/gear/best-iphone-tripods/'
         - title: 'eBay buyer ratings: UBeesize portable phone tripod'
@@ -225,12 +231,13 @@ products:
     amazonTitle: >-
       SENSYNE 62" Phone Tripod, Extendable Selfie Stick with Wireless Remote |
       Adjustable phone holder for iPhone & Android
+    asinVerified: true
     badge: Best tall budget kit
     summary: >-
       A widely stocked 62 in aluminum phone tripod and selfie stick that ships
       with a wireless shutter remote, a universal phone holder and a 1/4 in
-      adapter. It shows up in several budget roundups and sales trackers,
-      though independent testing is thin.
+      adapter. It shows up in several budget roundups and sales trackers, though
+      independent testing is thin.
     renterNote: >-
       Solo vloggers who want standing-height framing and a remote for little
       money. Key caveat: a tall, light stick-tripod is wobbly at full extension
@@ -310,10 +317,13 @@ reviewedDate: '2026-10-17'
 faqs:
   - q: Do phone tripod remotes work with iPhone and Android?
     a: >-
-      The Bluetooth shutter remotes bundled with these phone tripods are sold
-      for both iPhone and Android phones. One SENSYNE reviewer reported quick
-      pairing on Android, and the KraftGeek JustTap is built around iPhone
-      MagSafe, though its remote pairs over standard Bluetooth.
+      The Bluetooth shutter remotes bundled with these phone tripods are
+      Bluetooth devices, but only the SENSYNE listing names both iPhone and
+      Android, and I did not confirm compatibility for the UBeesize remote. One
+      SENSYNE reviewer reported quick pairing on Android. The KraftGeek JustTap
+      is built around iPhone MagSafe, and a third-party review lists its remote
+      as working with iOS 10 and Android 8 or newer, so check the listing for
+      your phone before buying.
   - q: How far does a phone tripod remote work?
     a: >-
       Listed ranges sit around 30 ft. KraftGeek's JustTap remote is listed at 32
@@ -323,10 +333,9 @@ faqs:
   - q: What is the best phone tripod height for vlogging?
     a: >-
       For a standing vlog, the phone lens should sit near your eye level, which
-      for most adults means a stick tripod in the 60 in class, such as the
-      62 in SENSYNE or the 66 in KraftGeek JustTap. A 10 to 11 in flexible
-      tripod like the UBeesize only reaches eye level on a desk or wrapped
-      around a railing.
+      for most adults means a stick tripod in the 60 in class, such as the 62 in
+      SENSYNE or the 66 in KraftGeek JustTap. A 10 to 11 in flexible tripod like
+      the UBeesize only reaches eye level on a desk or wrapped around a railing.
   - q: Can a phone tripod hold a phone with a ring light and microphone?
     a: >-
       Only the KraftGeek has a published rating, and that 2.5 kg figure from
@@ -336,9 +345,13 @@ faqs:
   - q: Is a flexible tripod or a selfie stick tripod better for vlogging?
     a: >-
       A selfie stick tripod is better for standing-height talking shots and
-      handheld walk-and-talk clips. A flexible tripod is better for desk
-      setups, tables and wrapping around rails, and it packs smaller.
+      handheld walk-and-talk clips. A flexible tripod is better for desk setups,
+      tables and wrapping around rails, and it packs smaller.
 author: editorial-team
+heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
+heroAlt: >-
+  Best Phone Tripod for Vlogging With Remote: 3 Picks for 2026: Best Tripod
+  buying guide
 ---
 
 The best phone tripod for vlogging with remote is the one that puts your phone near eye level, holds it steady without a hand on it, and lets you start the shot from where you stand. I compared three popular options on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. To be clear up front: we did not test any of them. Everything below comes from published specs and from owner reviews and roundups we read online.
@@ -384,9 +397,9 @@ The owner evidence is uneven, and I want you to know how uneven. For the KraftGe
 
 ### KraftGeek JustTap Magnetic Phone Tripod (226M): best for iPhone vlogging
 
-The KraftGeek JustTap is the most complete vlogging tripod here for iPhone owners, and Digital Camera World ranks it first for MagSafe phones. It is a 10-section aluminum selfie stick that runs from 13 in collapsed to 66 in extended. Tap the base on the ground and three legs spring open, then the phone snaps onto a magnetic holder with 180 degree tilt and 360 degree rotation. The Bluetooth remote charges over USB-C and docks magnetically on the pole, so it is less likely to get lost in a bag.
+The KraftGeek JustTap is the most complete vlogging tripod here for iPhone owners, and Digital Camera World reviewed it as a tripod and selfie stick for iPhone users. It is a 10-section aluminum selfie stick that runs from 13 in collapsed to 66 in extended. Tap the base on the ground and three legs spring open, then the phone snaps onto a magnetic holder with 180 degree tilt and 360 degree rotation. The Bluetooth remote charges over USB-C and docks magnetically on the pole.
 
-Owners and reviewers, from Macworld to a 30-day write-up on Dapper and Groomed, praise the seconds-long setup and say the magnet holds firmly through cases and while walking. The main complaint is stability: Macworld reports noticeable wobble at the full 66 in, and the 455 g weight is felt with a phone on the end. One reviewer on KraftGeek's own site said the remote died after being washed twice, and several mention that folding the legs back is fiddly. [Macworld's JustTap test](https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html) covers the wobble in detail.
+Reviewers I read praise the seconds-long setup and say the magnet holds firmly through cases and while walking. The main complaint is stability: Macworld reports noticeable wobble at the full 66 in, and the 455 g weight is felt with a phone on the end. One reviewer on KraftGeek's own site said the remote died after being washed twice, and several mention that folding the legs back is fiddly. [Macworld's JustTap test](https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html) covers the wobble in detail.
 
 Two cautions before you buy. Amazon sells several KraftGeek JustTap variants, and the one we link is the MagSafe 66-inch version. And because the JustTap is built around MagSafe, non-MagSafe phones need the adhesive metal ring, and there is no 1/4 in screw for a small camera.
 
@@ -394,13 +407,13 @@ Two cautions before you buy. Amazon sells several KraftGeek JustTap variants, an
 
 The SENSYNE 62-Inch is the simplest way to get a phone up to standing height with a remote for little money. It is an aluminum stick tripod of about 650 g that reaches 62 in and ships with a wireless shutter remote, a universal holder for phones 2.8 to 5.7 in wide, and a 1/4 in adapter. That adapter means the tripod can also take other gear with a standard thread, though no load rating is published, so I would keep it to a phone or a very light camera. The seller states 12 months of support.
 
-The independent evidence here is thin, and I would rather say so than oversell it. A Strong Leadership NYC review and a Kimola review analysis describe smooth telescoping, aluminum that feels solid, and quick remote pairing on Android for one reviewer. The same sources report a bit of wobble at full height (though it takes a real push to tip), a remote magnet that can come loose, an unreliable double-tap selfie toggle, and a leg lock that some owners find tricky.
+The independent evidence here is thin, and I would rather say so than oversell it. The reviews I found describe smooth telescoping, aluminum that feels solid, and quick remote pairing on Android for one reviewer. They also report a bit of wobble at full height (though it takes a real push to tip), a remote magnet that can come loose, an unreliable double-tap selfie toggle, and a leg lock that some owners find tricky.
 
 ### UBeesize Portable Phone Tripod with Wireless Remote: best budget flexible pick
 
 The UBeesize Portable Phone Tripod is a flexible phone tripod, not a standing tripod. Bustle lists it at about 10 in tall, and other pages put it nearer 11 in. Its foam-coated, bendable legs wrap around rails, branches and chair backs, and a 360 degree ball head with a spring-loaded clamp switches the phone between portrait and landscape. The bundled Bluetooth remote is listed to about 30 ft in Bustle and a vlogging roundup.
 
-Owners in the sources I read, including a ShopSavvy summary and eBay buyer ratings, like the grippy clamp that holds an iPhone securely, the legs that sit well on uneven surfaces, and the low cost. The recurring complaints are wobble in vertical orientation, joints that loosen over time, and a remote that can drop its connection at longer distances. [Bustle's vlogging tripod list](https://www.bustle.com/life/best-tripods-for-vlogging) is where the height and range figures come from.
+Owner feedback in the sources I read likes the grippy clamp that holds an iPhone securely, the legs that sit well on uneven surfaces, and the low cost. The recurring complaints are wobble in vertical orientation, joints that loosen over time, and a remote that can drop its connection at longer distances. [Bustle's vlogging tripod list](https://www.bustle.com/life/best-tripods-for-vlogging) is where the height and range figures come from.
 
 ## How to Choose a Vlogging Phone Tripod With a Remote
 
@@ -408,15 +421,15 @@ Owners in the sources I read, including a ShopSavvy summary and eBay buyer ratin
 
 ### Rigid extendable vs flexible legs
 
-A phone tripod for vlogging with remote comes in two shapes. An extendable tripod or selfie stick tripod such as the KraftGeek or SENSYNE gets you to standing height and doubles as a handheld stick for walking shots. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but it never reaches eye level by itself. Brands like Ulanzi, Neewer and Fugetek sell similar extendable and selfie stick tripod kits; we did not research them for this roundup, so I cannot vouch for their specs.
+A phone tripod for vlogging with remote comes in two shapes. An extendable tripod or selfie stick tripod such as the KraftGeek or SENSYNE gets you to standing height and doubles as a handheld stick for walking shots. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but it never reaches eye level by itself.
 
 ### Remote type, range, and battery
 
-A cell phone tripod with remote control is only as useful as its remote. Every Bluetooth shutter remote here is listed around 30 ft, and the KraftGeek remote is the only one with a published battery type (USB-C rechargeable). Battery details for the other two remotes are not listed, so check the box for a coin cell (often a CR2032) and pack a spare. In practice, owner reports of dropped connections suggest you stay well inside the listed range.
+A cell phone tripod with remote control is only as useful as its remote. Every Bluetooth shutter remote here is listed around 30 ft, and the KraftGeek remote is the only one with a published battery type (USB-C rechargeable). Battery details for the other two remotes are not listed, so check the product page or the box for the battery type and pack a spare if it uses a replaceable one. In practice, owner reports of dropped connections suggest you stay well inside the listed range.
 
 ### Clamp size and case compatibility
 
-A spring phone clamp is the jaw that grips the sides of your phone, and its width limits which phones and cases fit. The SENSYNE holder is listed for phones 2.8 to 5.7 in wide. The UBeesize clamp width is unlisted, so measure a Pro Max size phone in its case before you rely on it. The KraftGeek skips the clamp entirely and uses a MagSafe mount, which owners say holds through cases.
+A spring phone clamp is the jaw that grips the sides of your phone, and its width limits which phones and cases fit. The SENSYNE holder is listed for phones 2.8 to 5.7 in wide. The UBeesize clamp width is unlisted, so measure a Pro Max size phone in its case before you rely on it. The KraftGeek skips the clamp entirely and uses a MagSafe mount, which reviewers say holds through cases.
 
 ### Height and load for lights and mics
 
@@ -424,7 +437,7 @@ A ring light and microphone on a cold shoe make a phone rig heavier and more top
 
 ## How to Pair the Remote and Set Up Your Vlogging Shot
 
-**Pair the Bluetooth remote in your phone's Bluetooth settings, open the camera, and test one clip before you walk away from the tripod.** These steps work for iPhone and Android phones alike.
+**Pair the Bluetooth remote in your phone's Bluetooth settings, open the camera, and test one clip before you walk away from the tripod.** Exact steps vary by remote, so follow the manual that comes with yours.
 
 ### Pairing steps
 
@@ -437,7 +450,7 @@ Follow these steps the first time you connect:
 
 ### Framing at eye level
 
-None of these tripods has a center column, so the advertised max height is your real working height, and that is good news. The catch is the slim top section: both tall picks wobble at full extension, so I would collapse the top section or two and stand back a little. Spread the legs fully, keep the tripod out of gusts, and hang nothing from the pole. If you later move up to a mirrorless camera, our [travel tripod for mirrorless camera guide](/blog/best-travel-tripod-for-mirrorless-camera/) covers proper load ratings and Arca-Swiss plates, which none of these phone tripods use.
+None of these tripods has a center column, so there is no extra height to add beyond the listed maximum. The catch is the slim top section: both tall picks wobble at full extension, so I would collapse the top section or two and stand back a little. Spread the legs fully, keep the tripod out of gusts, and hang nothing from the pole. If you later move up to a mirrorless camera, our [travel tripod for mirrorless camera guide](/blog/best-travel-tripod-for-mirrorless-camera/) covers proper load ratings and Arca-Swiss plates, which none of these phone tripods use.
 
 ### Portrait vs landscape
 

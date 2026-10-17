@@ -1,0 +1,16 @@
+{
+  "slug": "best-phone-tripod-for-vlogging-with-remote",
+  "pass": true,
+  "checkedAt": "2026-10-17T12:23:02.516Z",
+  "errors": [],
+  "warnings": [
+    "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Direct page fetch blocked; verified via search-result text of Macworld, Digital Camera World, B&H, KraftGeek, Gadgeteer, Lemur Music/Newegg/Walmart listings: KraftGeek 13 in/66 in, 455 g, 10-section aluminum, 2.5 kg is N52 magnet mount rating, remote 32 ft B&H vs 33 ft KraftGeek, USB-C remote magnetically docked, MagSafe ring for non-MagSafe, ASIN B0F1TN5SJC title matches the 66 in MagSafe variant. Removed/softened unconfirmed: Android/iPhone remote claims, per-source praise attributions (Dapper and Groomed, Strong Leadership, Kimola, ShopSavvy, eBay), DCW 'ranks first', remote-lost-in-bag inference, CR2032, Ulanzi/Neewer/Fugetek claim. UBeesize/SENSYNE specs rely on research file (Bustle, Jpost, manual) and were not re-fetched.",
+    "at": "2026-10-17T12:22:57.657Z"
+  }
+}

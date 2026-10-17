@@ -1037,6 +1037,7 @@ heroAlt: >-
   Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks): Best Tripod
   buying guide
 related:
+  - best-phone-tripod-for-vlogging-with-remote
   - best-video-tripod-with-fluid-head-for-beginners
   - peak-design-travel-tripod-vs-manfrotto-befree-advanced
 ---
