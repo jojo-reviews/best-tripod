@@ -1,0 +1,311 @@
+{
+ "_note": "WebFetch and page loading were blocked; page contents were read only via WebSearch summaries, so serpProducts counts and owner counts are from those summaries. The exact-keyword top 10 was mostly forums, so tall-tripod roundups surfaced by close-variant searches were used. Re-verify before publishing.",
+ "products": [
+  {
+   "name": "Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)",
+   "brand": "Manfrotto",
+   "query": "Manfrotto MT055XPRO3 tripod",
+   "matchName": "Manfrotto 055 Aluminum 3-Section Tripod MT055XPRO3",
+   "badge": "Best sturdy all-rounder",
+   "summary": "A 3-section aluminum tripod with a 90-degree center column, listed at a 66.9 in maximum height and about a 19.8 lb load by the guides I read. It is the stiffest option here for a tall shooter who drives to locations.",
+   "renterNote": "Landscape, studio and DSLR or mirrorless shooters with heavier lenses who are 6 ft or taller and rarely hike far with it. Key caveat: the 66.9 in figure includes the raised center column, and it is heavy and long when packed.",
+   "pros": [
+    "Three leg sections with flip locks keep set-up fast and the stack stiff",
+    "Reviewers describe it as stable even with the center column raised",
+    "90-degree column allows low and overhead angles"
+   ],
+   "cons": [
+    "Heavy and bulky; reviewers say it is not a travel tripod",
+    "Full 66.9 in needs the center column up; one reviewer measured about 55.5 in with legs only, which is short for eye level at 6 ft 3 in+"
+   ],
+   "specs": {
+    "Max height (center column up)": "66.9 in (per Active Gear Reviews and Kentfaith)",
+    "Max height (center column down)": "Not stated by the sources I saw; one reviewer measured about 55.5 in",
+    "Max load": "About 19.8 lb (per Active Gear Reviews)",
+    "Leg sections": "3",
+    "Material": "Aluminum",
+    "Head": "Legs only; head sold separately (kit versions exist)"
+   },
+   "sources": [
+    "https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420",
+    "https://activegearreviews.com/best-tall-tripods/",
+    "https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
+    "https://thecentercolumn.com/tripod-reviews/manfrotto/manfrotto-mt055xpro3-review/",
+    "https://fstoppers.com/originals/fstoppers-reviews-manfrotto-055xpro3-tripod-and-bhq2xpro-ball-head-kit-174251",
+    "https://www.space.com/manfrotto-mk055xpro3-bhq2-tripod-review"
+   ],
+   "scores": {
+    "stability": 8,
+    "portability": 3,
+    "height": 6,
+    "build": 8,
+    "value": 7
+   },
+   "scoreNote": "Rigid and long-proven, but the legs-only height is borderline for very tall shooters and it is heavy.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "Very sturdy, steady at every height even with the column raised",
+     "Durable; one owner reports it still working after about a year of travel"
+    ],
+    "complaints": [
+     "Too heavy and big for convenient travel",
+     "Rubber feet are poor on powder snow"
+    ],
+    "sources": [
+     {
+      "title": "The Center Column MT055XPRO3 review",
+      "url": "https://thecentercolumn.com/tripod-reviews/manfrotto/manfrotto-mt055xpro3-review/"
+     },
+     {
+      "title": "Fstoppers review of the 055XPRO3 kit",
+      "url": "https://fstoppers.com/originals/fstoppers-reviews-manfrotto-055xpro3-tripod-and-bhq2xpro-ball-head-kit-174251"
+     },
+     {
+      "title": "Space.com MK055XPRO3-BHQ2 review",
+      "url": "https://www.space.com/manfrotto-mk055xpro3-bhq2-tripod-review"
+     },
+     {
+      "title": "Reddit Favorites summary of Reddit opinions on the MT055XPRO3",
+      "url": "https://redditfavorites.com/products/manfrotto-055-aluminum-3-section-tripod-with-horizontal-column-mt055xpro3"
+     }
+    ]
+   }
+  },
+  {
+   "name": "K&F Concept 90 inch Tripod KF09.119",
+   "brand": "K&F Concept",
+   "query": "K&F Concept 90 inch tripod overhead monopod",
+   "matchName": "K&F Concept 90 inch Tripod",
+   "badge": "Tallest option",
+   "summary": "An aluminum tripod listed at 90 in (2.3 m) maximum with a reversible center column and a leg that detaches as a monopod. About 3.7 lb and rated for roughly 22 lb (10 kg) per sellers and reviewers.",
+   "renterNote": "Budget-minded shooters 6 ft 3 in+ who want eye level and overhead or flat-lay angles with a mirrorless or DSLR plus a mid-size lens. Key caveat: stability drops at full extension, so keep it lower or hang a bag from the column.",
+   "pros": [
+    "90 in maximum is far above eye level for any adult",
+    "Reversible column gives overhead and flat-lay angles",
+    "Leg detaches as a monopod"
+   ],
+   "cons": [
+    "Reviewers call it not very stable at full extension",
+    "Twist locks and quick-release plate drew criticism in the Fstoppers review"
+   ],
+   "specs": {
+    "Max height": "90 in (2.3 m)",
+    "Max height (center column down)": "Not stated by the sources I saw",
+    "Weight": "About 3.7 lb (1.7 kg) per Photofocus",
+    "Max load": "About 22 lb (10 kg) per seller and roundups",
+    "Leg sections": "4",
+    "Leg lock": "Twist",
+    "Material": "Aluminum alloy (listed as magnesium aluminum alloy)"
+   },
+   "sources": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/",
+    "https://lenstroop.com/best-tall-tripods-for-cameras/",
+    "https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/",
+    "https://fstoppers.com/originals/fstoppers-reviews-kf-concept-aluminum-tripod-182884",
+    "https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod"
+   ],
+   "scores": {
+    "stability": 5,
+    "portability": 6,
+    "height": 10,
+    "build": 5,
+    "value": 8
+   },
+   "scoreNote": "Unmatched height for the money, but flex at full extension and basic locks hold stability and build back.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Sturdy in normal use and steady in wind at moderate heights per the independent reviews",
+     "Overhead column and monopod leg add versatility"
+    ],
+    "complaints": [
+     "Flimsy feel at full extension; adding weight low on the column is advised",
+     "Twist locks feel cheap and the quick-release plate is awkward"
+    ],
+    "sources": [
+     {
+      "title": "Photofocus review",
+      "url": "https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/"
+     },
+     {
+      "title": "Fstoppers review of the K&F Concept aluminum tripod",
+      "url": "https://fstoppers.com/originals/fstoppers-reviews-kf-concept-aluminum-tripod-182884"
+     }
+    ]
+   }
+  },
+  {
+   "name": "VICTIV 74 inch Camera Tripod T70",
+   "brand": "VICTIV",
+   "query": "VICTIV 74 inch camera tripod",
+   "matchName": "VICTIV 74 inch Camera Tripod",
+   "badge": "Best budget tall tripod",
+   "summary": "A light aluminum tripod listed at 74 in maximum and about 19.5 in minimum, around 3.1 lb with a 3-way pan head and carry bag. It gets tall cheaply and suits light cameras.",
+   "renterNote": "Beginner and hobby shooters 6 ft 2 in+ with a lightweight mirrorless or DSLR and a short zoom. Key caveat: sellers disagree on the load rating (9.5 lb on the maker page, other figures elsewhere), and it flexes in wind near full height.",
+   "pros": [
+    "74 in maximum clears eye level for most tall shooters",
+    "About 3.1 lb with head and bag included",
+    "Low price for the height"
+   ],
+   "cons": [
+    "Load rating is listed inconsistently across sellers; the lower 9.5 lb figure is the safe one",
+    "Thin legs flex in wind at full extension; weight hook helps"
+   ],
+   "specs": {
+    "Max height": "74 in",
+    "Max height (center column down)": "Not stated by the sources I saw",
+    "Min height": "About 19.5 in",
+    "Weight": "About 3.14 lb (1.4 kg)",
+    "Max load": "9.5 lb on the maker page (other listings differ)",
+    "Material": "Aluminum",
+    "Head": "3-way pan head, quick-release plate"
+   },
+   "sources": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/",
+    "https://lenstroop.com/best-tall-tripods-for-cameras/",
+    "https://techyimpressions.com/2025/04/22/victiv-74-tripod-review-the-budget-friendly-powerhouse-for-creators/",
+    "https://victivtripod.com/"
+   ],
+   "scores": {
+    "stability": 4,
+    "portability": 7,
+    "height": 8,
+    "build": 4,
+    "value": 8
+   },
+   "scoreNote": "Cheap and tall but light-duty; load rating is unclear and legs are thin.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Strong value for height",
+     "Pan head is smooth and precise"
+    ],
+    "complaints": [
+     "Wobbly at full extension and flexes in wind",
+     "Some parts are plastic and legs feel thin"
+    ],
+    "sources": [
+     {
+      "title": "Techy Impressions Victiv 74 in review",
+      "url": "https://techyimpressions.com/2025/04/22/victiv-74-tripod-review-the-budget-friendly-powerhouse-for-creators/"
+     },
+     {
+      "title": "Hobby Hustler best tripods for binoculars",
+      "url": "https://hobbyhustler.com/best-tripods-for-binoculars/"
+     },
+     {
+      "title": "Top 10 Amazon camera tripods under $40, TechRig Review",
+      "url": "https://techrigreview.com/amazon-camera-tripods/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "CAMBOFOTO 74 inch Camera Tripod",
+   "brand": "CAMBOFOTO",
+   "query": "CAMBOFOTO 74 inch camera tripod",
+   "matchName": "CAMBOFOTO 74 Camera Tripod",
+   "badge": "Lightest tall pick",
+   "summary": "A 74 in aluminum tripod listed at roughly 2.8 to 3.15 lb with an 8.8 lb rated load, pan head and phone holder. It is the lightest way to get past 6 ft in this list.",
+   "renterNote": "Casual and travel shooters 6 ft 2 in+ with a small mirrorless body or a phone. Key caveat: 8.8 lb rating and noticeable sway, so it is not for long lenses, and folded-length figures vary by listing (about 17 to 21 in).",
+   "pros": [
+    "74 in maximum with a weight near 3 lb",
+    "Includes pan head, phone holder and bag"
+   ],
+   "cons": [
+    "Reviewers report sway under load; 8.8 lb rating is low",
+    "Folded length and weight differ across seller listings; several CAMBOFOTO 74 in variants exist"
+   ],
+   "specs": {
+    "Max height": "74 in (188 cm)",
+    "Max height (center column down)": "Not stated by the sources I saw",
+    "Min height": "About 19.5 to 20 in",
+    "Weight": "About 2.8 to 3.15 lb depending on listing",
+    "Max load": "8.8 lb",
+    "Material": "Aluminum"
+   },
+   "sources": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/",
+    "https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/",
+    "https://runaroundtech.com/2024/05/13/cambofoto-74-inch-professional-aluminum-tripod-stand/"
+   ],
+   "scores": {
+    "stability": 4,
+    "portability": 8,
+    "height": 8,
+    "build": 4,
+    "value": 7
+   },
+   "scoreNote": "Very light for 74 in, but low load rating and sway limit it to small cameras.",
+   "owners": {
+    "read": 2,
+    "praise": [
+     "Lightweight and compact for its height",
+     "Good value with accessories included"
+    ],
+    "complaints": [
+     "Sways or feels a little unsteady under load",
+     "Buyers with larger lenses are warned off"
+    ],
+    "sources": [
+     {
+      "title": "Discovercameras CAMBOFOTO 74 in review",
+      "url": "https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/"
+     },
+     {
+      "title": "Run Around Tech CAMBOFOTO review",
+      "url": "https://runaroundtech.com/2024/05/13/cambofoto-74-inch-professional-aluminum-tripod-stand/"
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "K&F Concept 90 inch Tripod",
+   "pages": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/",
+    "https://lenstroop.com/best-tall-tripods-for-cameras/"
+   ]
+  },
+  {
+   "name": "VICTIV 74 inch Camera Tripod",
+   "pages": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/",
+    "https://lenstroop.com/best-tall-tripods-for-cameras/"
+   ]
+  },
+  {
+   "name": "Manfrotto MT055XPRO3",
+   "pages": [
+    "https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420",
+    "https://activegearreviews.com/best-tall-tripods/"
+   ]
+  },
+  {
+   "name": "CAMBOFOTO 74 inch Camera Tripod",
+   "pages": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/",
+    "https://bestcameratips.com/best-extra-tall-camera-tripod/"
+   ]
+  },
+  {
+   "name": "SmallRig CT-10 (not used: second page not identified)",
+   "pages": [
+    "https://bestcameras.org/best-extra-tall-camera-tripod/"
+   ]
+  },
+  {
+   "name": "Benro TMA47AXL (not used: only forum threads, Amazon listing unconfirmed)",
+   "pages": [
+    "https://www.dpreview.com/forums/thread/4301945"
+   ]
+  }
+ ]
+}
