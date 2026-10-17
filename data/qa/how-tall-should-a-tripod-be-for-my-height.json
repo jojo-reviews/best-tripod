@@ -1,11 +1,12 @@
 {
   "slug": "how-tall-should-a-tripod-be-for-my-height",
   "pass": true,
-  "checkedAt": "2026-10-16T10:47:34.294Z",
+  "checkedAt": "2026-10-17T19:29:19.848Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "keyword overlaps /blog/best-tripod-for-tall-photographers-over-6-feet/ (\"how tall should a tripod be for my height\" overlaps \"tall tripod\" (100%))"
   ],
   "factCheck": {
     "verified": true,
