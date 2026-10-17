@@ -278,8 +278,6 @@ sources:
   - title: 'Glazer''s Camera: Peak Design Travel Tripod alu'
     url: >-
       https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-alu
-  - title: 'Videoguys: Peak Design Aluminum Travel Tripod'
-    url: 'https://videoguys.com.au/a/p/products/peak-design-aluminum-travel-tripod'
   - title: 'Manfrotto: Befree Advanced Aluminum Travel Tripod lever, ball head'
     url: >-
       https://www.manfrotto.com/global-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/

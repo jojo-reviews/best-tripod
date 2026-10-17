@@ -59,6 +59,7 @@ products:
     amazonTitle: >-
       KraftGeek Magnetic Phone Tripod for iPhone, JustTap Tripod for MagSafe |
       66" Auto-Open Selfie Stick Tripod, N52 Magnetic
+    asinVerified: true
     badge: Best for iPhone vlogging
     summary: >-
       A MagSafe-style selfie stick that turns into a full-height tripod when you
@@ -284,9 +285,6 @@ products:
         - title: 'Kimola: Sensyne 62 review analysis'
           url: >-
             https://kimola.com/reports/unlock-insights-sensyne-62-tripod-selfie-stick-report-amazon-en-us-142307
-        - title: 'Jerusalem Post Advisor: 8 best tripods for phones'
-          url: >-
-            https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220
         - title: 'Calcalist: shopping guide'
           url: 'https://calcalistech.com/ctechnews/article/hyh62k4oa'
 sources:
@@ -308,9 +306,6 @@ sources:
     url: 'https://iphonephotographyschool.com/iphone-tripod/'
   - title: 'PopSci: The best iPhone tripods'
     url: 'https://www.popsci.com/gear/best-iphone-tripods/'
-  - title: 'Jerusalem Post Advisor: 8 best tripods for phones'
-    url: >-
-      https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220
   - title: 'Manuals+: SENSYNE phone tripod manual'
     url: 'https://manuals.plus/asin/B09TQY66NH.pdf'
 reviewedDate: '2026-10-17'
