@@ -1,79 +1,249 @@
 {
-  "notes": "Egress policy blocked every page fetch (403/ENOTFOUND), so top-10 pages and owner reviews could not be opened; evidence below comes from WebSearch snippets only. Owner review counts are 0 and must not be shown as researched. Re-run steps 3b and spec checks when fetch works. Amazon listings not checked (cannot call Amazon).",
+  "notes": "Page fetching was blocked, so all evidence comes from WebSearch result text. Amazon US listings were not checked (caller attaches ASINs): confirm each matchName resolves to one clear listing, especially UBeesize (the brand sells many variants) and Fugetek (FT-568 vs 49 in vs 51 in vs 62 in versions). Sensyne has the thinnest owner evidence (4 posts, no retailer review page seen). Joby TelePod Mobile was researched and dropped because B&H lists it as discontinued.",
   "products": [
     {
-      "name": "EUCOS 62-Inch Phone Tripod",
-      "brand": "EUCOS",
-      "query": "EUCOS 62 inch phone tripod with remote",
-      "matchName": "EUCOS 62 Phone Tripod",
-      "badge": "Best overall",
-      "summary": "A 62 inch selfie-stick-plus-tripod with a Bluetooth shutter remote and a cold shoe, aimed at solo phone vlogging. It is the pick several 2026 phone-tripod guides lead with.",
-      "renterNote": "Solo phone vloggers who want standing-height shots with a remote; check the model number on the listing because EUCOS sells several 62 inch versions with different load and remote claims.",
-      "pros": ["Reaches 62 in for standing-height framing", "Bluetooth remote included", "Cold shoe for a mic or light", "Maker lists lifetime warranty"],
-      "cons": ["Several 62 in variants with conflicting weight, load and remote-range figures", "Light tripod; not for heavy cameras"],
-      "facts": ["Height range 12 in to 62 in on one retailer listing", "Bluetooth wireless remote; range stated as 33 ft on most listings", "1/4 in thread; lifetime warranty claimed by the maker", "Weight and load vary by variant (about 13 oz on the tripod-only listing)"],
-      "specs": {"Max height (center column up)": "62 in", "Max height (no center column)": "Not listed", "Min height": "12 in", "Folded length": "Not listed", "Weight": "About 13 oz (varies by variant)", "Max load": "Not listed (variants differ)", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone clamp with ball-style tilt", "Plate": "1/4 in thread"},
-      "sources": ["https://www.newegg.com/eucos-eutp-012/p/0FY-07C8-00011", "https://slickdeals.net/f/19938738-62-eucos-magnetic-magsafe-phone-tripod-selfie-stick-w-wireless-remote-10-99-free-shipping-w-prime-or-on-35", "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"],
-      "scores": {"stability": 5, "portability": 8, "height": 8, "build": 5, "value": 8},
-      "scoreNote": "Tall and light with a remote, but spindly at full extension and the exact variant specs are unclear.",
-      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+      "name": "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+      "brand": "KraftGeek",
+      "query": "KraftGeek JustTap magnetic phone tripod selfie stick with remote",
+      "matchName": "KraftGeek JustTap Magnetic Phone Tripod",
+      "badge": "Best for iPhone vlogging",
+      "summary": "A MagSafe-style selfie stick that turns into a full-height tripod when you tap its base on the ground, with a small rechargeable Bluetooth remote that clips to the pole. Digital Camera World puts it first for MagSafe phones.",
+      "renterNote": "iPhone (or MagSafe-case) vloggers who want one stick for handheld, standing-height and overhead shots. Key caveat: reviewers report wobble at full extension, and non-MagSafe phones need the adhesive ring.",
+      "pros": ["Legs open by tapping the base on a surface, so setup takes seconds", "Strong magnetic mount with 180 degree tilt and 360 degree rotation", "Bluetooth remote is USB-C rechargeable and docks magnetically on the pole"],
+      "cons": ["Wobbles noticeably at full 66 in extension (Macworld) and folding the legs back can be fiddly", "Built around MagSafe; other phones need the adhesive metal ring and there is no screw mount for small cameras"],
+      "facts": ["Pole runs 13 in collapsed to 66 in extended (B&H and KraftGeek listings)", "About 455 g (15.8 oz) per Macworld and the B&H listing", "Bluetooth remote range listed at 32 ft on B&H and 33 ft on KraftGeek's pages"],
+      "specs": {
+        "Max height (center column up)": "66 in",
+        "Max height (no center column)": "Not applicable (no center column)",
+        "Min height": "Not listed",
+        "Folded length": "13 in",
+        "Weight": "About 455 g (15.8 oz)",
+        "Max load": "Magnetic mount rated for 2.5 kg per Macworld and Digital Reviews; no tripod load rating listed",
+        "Leg sections": "10-section pole; three tap-to-open legs",
+        "Leg lock": "Not listed",
+        "Material": "Aluminum telescopic pole",
+        "Head": "Magnetic phone holder, 180 degree tilt, 360 degree rotation",
+        "Plate": "MagSafe-style magnet; adhesive ring for non-magnetic phones; no 1/4 in screw"
+      },
+      "sources": [
+        "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports",
+        "https://www.digitalcameraworld.com/cameras/tripods/kraftgeek-justtap-magnetic-phone-tripod-review",
+        "https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html",
+        "https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html",
+        "https://kraftgeek.com/en-gb/collections/justtap-series/products/justtap-magnetic-phone-tripod-226m",
+        "https://digital-photography-school.com/?p=283326"
+      ],
+      "scores": {"stability": 6, "portability": 7, "height": 9, "build": 7, "value": 8},
+      "scoreNote": "Tallest and quickest to set up of the group with a good remote, but stability drops at full height and it only suits MagSafe or ring-fitted phones.",
+      "owners": {
+        "read": 10,
+        "praise": ["Fast setup: tap the base and the legs spring open, then the phone snaps on magnetically", "Magnet holds firmly, including through cases and while walking with the stick", "Compact when collapsed for a stick this tall, and the remote is handy for solo shots"],
+        "complaints": ["Wobbles at full extension and the weight is noticeable with a phone on the end", "Remote is the weak part for some: one KraftGeek-site reviewer said theirs died after being washed twice", "Folding the legs back takes some fiddling"],
+        "sources": [
+          {"title": "Macworld: KraftGeek Just Tap test", "url": "https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html"},
+          {"title": "Digital Camera World: KraftGeek JustTap review", "url": "https://www.digitalcameraworld.com/cameras/tripods/kraftgeek-justtap-magnetic-phone-tripod-review"},
+          {"title": "Digital Photography School: JustTap review", "url": "https://digital-photography-school.com/?p=283326"},
+          {"title": "Digital Reviews: KraftGeek JustTap review", "url": "https://www.digitalreviews.net/reviews/camera/kraftgeek-justtap-magnetic-phone-tripod-review/"},
+          {"title": "eCommerce Fastlane: JustTap review", "url": "https://ecommercefastlane.com/kraftgeek-justtap-tripod-review/"},
+          {"title": "9to5Mac: JustTap hands-on", "url": "https://9to5mac.com/?p=1008678"},
+          {"title": "Muy Computer: JustTap analysis", "url": "https://www.muycomputer.com/2025/08/04/analizamos-tripode-magnetico-telefono-justtap/"},
+          {"title": "Dapper and Groomed: 30 days with the JustTap", "url": "https://www.dapperandgroomed.com/blog/kraftgeek-justtap-magnetic-tripod-review"},
+          {"title": "B&H customer reviews: KraftGeek JustTap", "url": "https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html", "reviews": 1}
+        ]
+      }
     },
     {
-      "name": "SENSYNE 62\" Phone Tripod & Selfie Stick with Wireless Remote",
+      "name": "Fugetek 51-Inch Professional Selfie Stick Tripod (FT-568)",
+      "brand": "Fugetek",
+      "query": "Fugetek 51 inch professional selfie stick tripod aluminum Bluetooth remote",
+      "matchName": "Fugetek Selfie Stick Tripod Aluminum Bluetooth Remote",
+      "badge": "Sturdiest selfie-stick tripod",
+      "summary": "An all-aluminum selfie stick that splits into a tripod, with a detachable Bluetooth remote and a carry case. Several selfie-stick guides rate it the sturdiest of their group, at the cost of weight and bulk.",
+      "renterNote": "Vloggers who want a solid, taller stick-and-tripod for a phone at standing height. Key caveat: it is heavier and less packable than rivals, and reviewers call the plastic remote the weak point.",
+      "pros": ["All-aluminum stick and legs; the sturdiest pick in the Your Best Digs test of seven selfie sticks", "Detachable Bluetooth remote with a long claimed range", "Carry case included"],
+      "cons": ["Heavier and bulkier than most competing sticks", "Remote feels cheap and is not rated highly by iGeeksBlog and Real Homes"],
+      "facts": ["Listed at 49 in (Your Best Digs) to 51 in (Improve Photography) extended", "Folds to about 18.5 to 19 in", "Weighs about 9 to 9.8 oz before the phone is added", "Several listings claim a 100 ft Bluetooth range"],
+      "specs": {
+        "Max height (center column up)": "49-51 in (sources differ)",
+        "Max height (no center column)": "Not applicable (no center column)",
+        "Min height": "Not listed",
+        "Folded length": "About 18.5-19 in",
+        "Weight": "About 9-9.8 oz (before phone)",
+        "Max load": "Not listed",
+        "Leg sections": "Not listed",
+        "Leg lock": "Not listed",
+        "Material": "Aluminum stick and legs",
+        "Head": "Phone holder with detachable Bluetooth remote",
+        "Plate": "Not listed"
+      },
+      "sources": [
+        "https://improvephotography.com/71192/best-selfie-stick/",
+        "https://www.yourbestdigs.com/reviews/the-best-selfie-stick/",
+        "https://www.igeeksblog.com/best-selfie-sticks-for-iphone/",
+        "https://realhomes.com/buying-guides/best-phone-tripod",
+        "https://products.ktla.com/articles/electronics/cell-phones-accessories/electronics-best-bluetooth-selfie-stick"
+      ],
+      "scores": {"stability": 7, "portability": 5, "height": 7, "build": 7, "value": 8},
+      "scoreNote": "Solid metal build and steady for its class, but heavy to carry, shorter than the 62 in kits, and the remote is plain.",
+      "owners": {
+        "read": 5,
+        "praise": ["Rigid aluminum pole that stays secure even fully extended", "Easy switch between selfie-stick and tripod modes", "Good value next to better-known stick brands"],
+        "complaints": ["Not compact: heavier and bulkier than most selfie sticks", "Plastic remote feels cheap, and one buyer found it fires photos but not video", "Model naming is confusing across 49, 51 and 62 in versions"],
+        "sources": [
+          {"title": "Improve Photography: Best Selfie Stick", "url": "https://improvephotography.com/71192/best-selfie-stick/"},
+          {"title": "Your Best Digs: The Best Selfie Sticks", "url": "https://www.yourbestdigs.com/reviews/the-best-selfie-stick/"},
+          {"title": "iGeeksBlog: Best selfie sticks for iPhone", "url": "https://www.igeeksblog.com/best-selfie-sticks-for-iphone/"},
+          {"title": "Real Homes: Best phone tripod", "url": "https://realhomes.com/buying-guides/best-phone-tripod"},
+          {"title": "BestReviews: Best Bluetooth selfie stick", "url": "https://products.ktla.com/articles/electronics/cell-phones-accessories/electronics-best-bluetooth-selfie-stick"}
+        ]
+      }
+    },
+    {
+      "name": "UBeesize Portable Phone Tripod with Wireless Remote",
+      "brand": "UBeesize",
+      "query": "UBeesize phone tripod portable flexible with wireless remote",
+      "matchName": "UBeesize Phone Tripod Portable and Flexible with Wireless Remote",
+      "badge": "Best budget flexible pick",
+      "summary": "A small flexible-leg tripod with a spring-loaded phone clamp, 360 degree ball head and a bundled Bluetooth shutter remote. Bustle, iPhone Photography School and ShopSavvy all point to it as the low-cost remote option.",
+      "renterNote": "Casual and travel vloggers who want a pocketable desk or wrap-around tripod with a remote. Key caveat: short height and reports of wobble in vertical orientation, so it will not give standing-height shots.",
+      "pros": ["Bendable legs wrap around rails and branches", "Bluetooth remote included, listed to about 30 ft", "360 degree ball head switches between horizontal and vertical"],
+      "cons": ["Only about 10 to 11 in tall, so it is a table or wrap-around tripod, not a standing-height one", "ShopSavvy's summary reports vertical-orientation wobble, loosening joints and remote drops at distance"],
+      "facts": ["Bustle lists it at about 10 in tall", "Remote range about 30 ft per Bustle and a vlogging roundup", "Foam-coated flexible legs"],
+      "specs": {
+        "Max height (center column up)": "About 10-11 in (sources differ)",
+        "Max height (no center column)": "Not applicable (no center column)",
+        "Min height": "Not listed",
+        "Folded length": "Not listed",
+        "Weight": "Not listed (sources differ)",
+        "Max load": "Not listed",
+        "Leg sections": "Flexible jointed legs",
+        "Leg lock": "Not applicable (bendable legs)",
+        "Material": "Foam-coated flexible legs",
+        "Head": "360 degree ball head with spring-loaded phone clamp",
+        "Plate": "Not listed"
+      },
+      "sources": [
+        "https://www.bustle.com/life/best-tripods-for-vlogging",
+        "https://iphonephotographyschool.com/iphone-tripod/",
+        "https://next.shopsavvy.com/reviews-tldr/ubeesize-flexible-phone-tripod",
+        "https://shopsavvy.com/best-picks/best-phone-tripod",
+        "https://www.popsci.com/gear/best-iphone-tripods/"
+      ],
+      "scores": {"stability": 5, "portability": 9, "height": 3, "build": 5, "value": 9},
+      "scoreNote": "Very portable and cheap with a useful remote, but short and light, with durability and wobble reports.",
+      "owners": {
+        "read": 6,
+        "praise": ["Grippy, spring-loaded clamp holds an iPhone securely", "Flexible legs make it easy to place on uneven surfaces", "Remote works well for most small buyers and the price is low"],
+        "complaints": ["Wobbles in vertical orientation and may feel flimsy with heavier phones", "Tightening joints can loosen over time", "Remote can lose connection at longer distances"],
+        "sources": [
+          {"title": "Bustle: Best tripods for vlogging", "url": "https://www.bustle.com/life/best-tripods-for-vlogging"},
+          {"title": "iPhone Photography School: iPhone tripods", "url": "https://iphonephotographyschool.com/iphone-tripod/"},
+          {"title": "ShopSavvy TL;DR: UBeesize flexible phone tripod", "url": "https://next.shopsavvy.com/reviews-tldr/ubeesize-flexible-phone-tripod"},
+          {"title": "PopSci: The best iPhone tripods", "url": "https://www.popsci.com/gear/best-iphone-tripods/"},
+          {"title": "eBay buyer ratings: UBeesize portable phone tripod", "url": "https://www.ebay.com/p/17044901017", "reviews": 8},
+          {"title": "Lynn Barsigian Photography: mini tripods for vloggers", "url": "https://www.lynnbarsigianphotography.com/?p=45692"}
+        ]
+      }
+    },
+    {
+      "name": "ATUMTEK 51-Inch Selfie Stick Tripod with Bluetooth Remote",
+      "brand": "ATUMTEK",
+      "query": "ATUMTEK 51 inch selfie stick tripod Bluetooth remote",
+      "matchName": "ATUMTEK 51 Selfie Stick Tripod",
+      "badge": "Best longer-reach stick",
+      "summary": "A 51 in extendable stick whose handle opens into three legs, with a detachable rechargeable Bluetooth remote and 360 degree rotating head. Expert Reviews names it its ultra-reach pick.",
+      "renterNote": "Solo vloggers and group-shot shooters who want extra reach and a remote in a stick-and-tripod. Key caveat: it is heavier than the ATUMTEK 3-in-1, and owners report fragile phone-holder parts and a few remote-charging failures.",
+      "pros": ["51 in reach with a tripod base for hands-free shots", "Detachable rechargeable Bluetooth remote, about 33 ft range", "360 degree rotation and 180 degree tilt on the head"],
+      "cons": ["Heavy for a selfie stick, about 330 to 350 g", "Some owners report a broken phone holder or leg and a remote that stopped charging; the head tilts one way only"],
+      "facts": ["About 12 in folded", "Gadgeteer lists 11.8 oz, retailer listings 330 to 350 g", "Remote range 33 ft per Gadgeteer and Newegg", "Newegg's listing says up to 55 in, others say 51 in"],
+      "specs": {
+        "Max height (center column up)": "51 in (one Newegg listing says 55 in)",
+        "Max height (no center column)": "Not applicable (no center column)",
+        "Min height": "Not listed",
+        "Folded length": "About 12 in",
+        "Weight": "About 330-350 g (11.8 oz)",
+        "Max load": "Not listed",
+        "Leg sections": "Not listed",
+        "Leg lock": "Not listed",
+        "Material": "Aluminum alloy and polycarbonate",
+        "Head": "360 degree rotation, 180 degree tilt phone holder",
+        "Plate": "Not listed"
+      },
+      "sources": [
+        "https://www.expertreviews.co.uk/technology/accessories/best-selfie-sticks",
+        "https://the-gadgeteer.com/2021/02/27/atumtek-51-selfie-stick-tripod-review-a-selfie-stick-for-giants",
+        "https://improvephotography.com/71192/best-selfie-stick/",
+        "https://www.igeeksblog.com/best-selfie-sticks-for-iphone/",
+        "https://www.newegg.com/atumtek-atss126/p/0FY-07C8-002Z6"
+      ],
+      "scores": {"stability": 6, "portability": 6, "height": 7, "build": 6, "value": 8},
+      "scoreNote": "Good reach and a useful remote for the money, held back by weight and mixed durability reports.",
+      "owners": {
+        "read": 8,
+        "praise": ["Useful stick-to-tripod conversion with a detachable remote", "Remote paired and worked reliably for several buyers", "ATUMTEK support replaced broken parts for some owners"],
+        "complaints": ["Phone-holder top and a tripod leg broke on one owner's unit, replaced under support", "Remote battery stopped charging for a Trustpilot reviewer", "Head tilts one way only, so it cannot be leveled on uneven ground, and the remote came loose on a hike for one buyer"],
+        "sources": [
+          {"title": "The Gadgeteer: ATUMTEK 51 selfie stick tripod review", "url": "https://the-gadgeteer.com/2021/02/27/atumtek-51-selfie-stick-tripod-review-a-selfie-stick-for-giants"},
+          {"title": "Expert Reviews: Best selfie sticks", "url": "https://www.expertreviews.co.uk/technology/accessories/best-selfie-sticks"},
+          {"title": "Improve Photography: Best Selfie Stick", "url": "https://improvephotography.com/71192/best-selfie-stick/"},
+          {"title": "Trustpilot: ATUMTEK (brand page, not model-specific)", "url": "https://au.trustpilot.com/review/atumtek.com"},
+          {"title": "eBay.de buyer review: ATUMTEK 1.3 m selfie stick tripod", "url": "https://www.ebay.de/itm/177019659479"},
+          {"title": "WEAR: ATUMTEK buyer post", "url": "https://wear.jp/item/55501941/"}
+        ]
+      }
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
       "brand": "SENSYNE",
       "query": "Sensyne 62 inch phone tripod selfie stick wireless remote",
-      "matchName": "SENSYNE 62 Phone Tripod",
-      "badge": "Best budget",
-      "summary": "A low-cost 62 inch extendable tripod that doubles as a selfie stick and ships with a wireless shutter remote and universal phone holder. Fits phones up to 5.7 in wide.",
-      "renterNote": "Casual vloggers and travellers with a regular phone who want a cheap tall stand; skip it for big phones in heavy cases or any camera over a couple of pounds.",
-      "pros": ["Extends to 62 in", "Remote and phone holder included", "Light at about 650 g on one listing"],
-      "cons": ["Retailer listings disagree on minimum height and load, so I could not confirm real capacity", "Budget plastic clamp and thin legs"],
-      "facts": ["Max height 62 in", "Min height 17 in per the user manual (one retailer listing says 50 in)", "Weight 650 g on a Newegg Business listing", "Phone holder fits 2.8 in to 5.7 in wide phones", "Wireless remote shutter (AB Shutter3 model name on listing)"],
-      "specs": {"Max height (center column up)": "62 in", "Max height (no center column)": "Not listed", "Min height": "17 in (manual)", "Folded length": "Not listed", "Weight": "650 g (retailer listing)", "Max load": "Not listed", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone holder with rotation", "Plate": "Not listed"},
-      "sources": ["https://www.neweggbusiness.com/sensyne-ab-shutter3/p/9B-0FY-07C8-00AK8", "https://manuals.plus/asin/B09TQY66NH.pdf", "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"],
-      "scores": {"stability": 4, "portability": 8, "height": 8, "build": 4, "value": 8},
-      "scoreNote": "Very tall for the weight with remote included; capacity and build are unverified and look budget-grade.",
-      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
-    },
-    {
-      "name": "NEEWER PA992 57.9\" Quick Release Selfie Stick Tripod",
-      "brand": "NEEWER",
-      "query": "Neewer PA992 selfie stick tripod",
-      "matchName": "NEEWER PA992",
-      "badge": "Best quick setup",
-      "summary": "An aluminum-alloy selfie stick tripod whose one-button release opens the legs and spreader at once. It has a rechargeable remote, a cold shoe and a clamp for 2.4 to 4 in phones.",
-      "renterNote": "Vloggers who set up and break down often and use a standard-size phone; the clamp tops out at 4 in, so large phones in cases may not fit.",
-      "pros": ["One-button quick-release unfolds legs and spreader", "Remote rechargeable, works to 33 ft", "Folds to about 31 cm and weighs 420 g", "Cold shoe for mic or light"],
-      "cons": ["Clamp max 100 mm (4 in) limits big phones", "Max load not published"],
-      "facts": ["Height 31 cm to 147 cm (12.2 in to 57.9 in)", "Weight 420 g (14.8 oz)", "Clamp 60 mm to 100 mm (2.4 in to 4 in)", "Wireless remote up to 10 m (33 ft), rechargeable by cable", "Aluminum alloy frame; phone holder tilts 180 degrees", "Neewer states a two-year warranty"],
-      "specs": {"Max height (center column up)": "57.9 in", "Max height (no center column)": "Not listed", "Min height": "12.2 in", "Folded length": "About 31 cm (12.2 in)", "Weight": "420 g (14.8 oz)", "Max load": "Not listed", "Leg sections": "Not listed", "Leg lock": "Quick-release button", "Material": "Aluminum alloy", "Head": "Phone clamp, 180 degree tilt", "Plate": "Not listed"},
-      "sources": ["https://neewer.com/collections/under-100-products/products/neewer-pa992-57-9-quick-release-selfie-stick-tripod-66607371", "https://neewer.com/blogs/blog/best-phone-tripod"],
-      "scores": {"stability": 5, "portability": 8, "height": 7, "build": 6, "value": 8},
-      "scoreNote": "Fast setup and published specs; shorter than the 62 in options and the load is not stated.",
-      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
-    },
-    {
-      "name": "UBeesize 67\" Phone Tripod with Remote",
-      "brand": "UBeesize",
-      "query": "UBeesize 67 inch phone tripod with remote",
-      "matchName": "UBeesize 67 Phone Tripod",
-      "badge": "Tallest reach",
-      "summary": "A 67 inch extendable phone tripod with a Bluetooth remote that works to about 30 ft. Retailer listings give a 4 lb load rating and a clamp for phones up to 5.7 in wide.",
-      "renterNote": "Vloggers who want the extra height for standing shots with a normal-size phone; listings disagree on folded size and weight, so confirm the exact model before buying.",
-      "pros": ["Reaches 67 in", "Bluetooth remote with about 30 ft range", "4 lb load rating on listings"],
-      "cons": ["Folded length and weight differ between retailer listings (17.3 in vs 20.1 in)", "Clamp max 5.7 in wide"],
-      "facts": ["Max height 67 in, min 20 in", "Remote range up to 30 ft", "Phone clamp up to 5.7 in wide", "Max load 4 lb on listings", "Folded size 17.3 in or 20.1 in depending on listing"],
-      "specs": {"Max height (center column up)": "67 in", "Max height (no center column)": "Not listed", "Min height": "20 in", "Folded length": "17.3 in to 20.1 in (listings differ)", "Weight": "Not listed (listings conflict)", "Max load": "4 lb (listing)", "Leg sections": "Not listed", "Leg lock": "Not listed", "Material": "Not listed", "Head": "Phone clamp", "Plate": "Not listed"},
-      "sources": ["https://www.newegg.com/ubeesize-ub-g67/p/0FY-07C8-00290", "https://www.newegg.com/avenger-tbc001/p/0FY-07C8-002U4"],
-      "scores": {"stability": 5, "portability": 7, "height": 9, "build": 5, "value": 7},
-      "scoreNote": "Tallest of the group with a stated 4 lb load, but specs are inconsistent across listings and build is unverified.",
-      "owners": {"read": 0, "praise": [], "complaints": [], "sources": []}
+      "matchName": "SENSYNE 62 Phone Tripod Selfie Stick",
+      "badge": "Best tall budget kit",
+      "summary": "A widely stocked 62 in aluminum phone tripod and selfie stick that ships with a wireless shutter remote, a universal phone holder and a 1/4 in adapter. It shows up in several budget roundups and sales trackers, though independent testing is thin.",
+      "renterNote": "Solo vloggers who want standing-height framing and a remote for little money. Key caveat: a tall, light stick-tripod is wobbly at full extension and owners find the remote and leg locks fiddly.",
+      "pros": ["Reaches 62 in for standing-height shots", "Remote shutter and 1/4 in adapter included", "Holder fits phones from 2.8 to 5.7 in wide"],
+      "cons": ["Remote magnet can dislodge and the double-tap selfie toggle is unreliable for some", "Leg lock is tricky for some owners and the tripod wobbles a bit when tall"],
+      "facts": ["Listed maximum height 62 in", "Aluminum build, about 650 g", "Seller states 12 months of support"],
+      "specs": {
+        "Max height (center column up)": "62 in",
+        "Max height (no center column)": "Not applicable (no center column)",
+        "Min height": "Not listed (manual and listing disagree)",
+        "Folded length": "Not listed",
+        "Weight": "About 650 g",
+        "Max load": "Not listed",
+        "Leg sections": "Not listed",
+        "Leg lock": "Not listed",
+        "Material": "Aluminum",
+        "Head": "360 degree rotating phone holder",
+        "Plate": "1/4 in screw adapter"
+      },
+      "sources": [
+        "https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220",
+        "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/",
+        "https://www.neweggbusiness.com/sensyne-ab-shutter3/p/9B-0FY-07C8-00AK8",
+        "https://manuals.plus/asin/B09TQY66NH.pdf"
+      ],
+      "scores": {"stability": 5, "portability": 7, "height": 9, "build": 5, "value": 9},
+      "scoreNote": "Tallest and cheapest of the five, but light construction and a fiddly remote limit stability.",
+      "owners": {
+        "read": 4,
+        "praise": ["Telescopes smoothly and the aluminum feels solid", "Works well for standing-height shots and group photos", "Remote paired quickly on Android for one reviewer"],
+        "complaints": ["Wobbles a bit at height though it takes a real push to tip", "Remote magnet can come loose and the selfie toggle is unreliable", "Leg lock mechanism is tricky for some"],
+        "sources": [
+          {"title": "Strong Leadership NYC: Sensyne 62 phone tripod review", "url": "https://strongleadershipnyc.com/?p=16892"},
+          {"title": "Kimola: Sensyne 62 review analysis", "url": "https://kimola.com/reports/unlock-insights-sensyne-62-tripod-selfie-stick-report-amazon-en-us-142307"},
+          {"title": "Jerusalem Post Advisor: 8 best tripods for phones", "url": "https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220"},
+          {"title": "Calcalist: shopping guide", "url": "https://calcalistech.com/ctechnews/article/hyh62k4oa"}
+        ]
+      }
     }
   ],
   "serpProducts": [
-    {"name": "EUCOS 62\" Phone Tripod", "pages": ["https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/", "https://markus-hagner-photography.com/best-phone-tripods-for-content-creators/"]},
-    {"name": "SENSYNE 62\" Phone Tripod", "pages": ["https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"]},
-    {"name": "NEEWER PA992", "pages": ["https://neewer.com/blogs/blog/best-phone-tripod"]},
-    {"name": "UBeesize phone tripod with remote", "pages": ["https://www.narcosis-the-game.com/best-vlogging-tripod-kits/"]}
+    {"name": "KraftGeek JustTap Magnetic Phone Tripod", "pages": ["https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports", "https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html", "https://digital-photography-school.com/?p=283326", "https://www.digitalreviews.net/reviews/camera/kraftgeek-justtap-magnetic-phone-tripod-review/"]},
+    {"name": "Fugetek 51-Inch Selfie Stick Tripod (FT-568)", "pages": ["https://improvephotography.com/71192/best-selfie-stick/", "https://www.yourbestdigs.com/reviews/the-best-selfie-stick/", "https://www.igeeksblog.com/best-selfie-sticks-for-iphone/", "https://realhomes.com/buying-guides/best-phone-tripod", "https://products.ktla.com/articles/electronics/cell-phones-accessories/electronics-best-bluetooth-selfie-stick"]},
+    {"name": "UBeesize Portable Phone Tripod with Wireless Remote", "pages": ["https://www.bustle.com/life/best-tripods-for-vlogging", "https://iphonephotographyschool.com/iphone-tripod/", "https://shopsavvy.com/best-picks/best-phone-tripod", "https://www.popsci.com/gear/best-iphone-tripods/"]},
+    {"name": "ATUMTEK 51-Inch Selfie Stick Tripod", "pages": ["https://www.expertreviews.co.uk/technology/accessories/best-selfie-sticks", "https://improvephotography.com/71192/best-selfie-stick/", "https://www.igeeksblog.com/best-selfie-sticks-for-iphone/"]},
+    {"name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick", "pages": ["https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220", "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/", "https://www.mayfairfarms.com/?p=69746"]},
+    {"name": "Joby TelePod Mobile (dropped: discontinued per B&H)", "pages": ["https://www.digitalcameraworld.com/cameras/tripods/joby-telepod-mobile-review", "https://www.digitalcamerawarehouse.com.au/top-5-tripods-for-creating-perfect-vlogs"]},
+    {"name": "Manfrotto PIXI Mini (no remote, not included)", "pages": ["https://www.techradar.com/best/best-phone-tripods", "https://realhomes.com/buying-guides/best-phone-tripod", "https://shotkit.com/best-tripods-for-iphone/"]}
   ]
 }
