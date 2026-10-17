@@ -118,14 +118,14 @@
     "timezone": "America/New_York",
     "weeklyPostsPerDay": [],
     "randomPhase": {
-      "min": 3,
-      "max": 4,
+      "min": 4,
+      "max": 5,
       "weights": [
         1,
         1
       ]
     },
-    "maxPostsPerRun": 4,
+    "maxPostsPerRun": 5,
     "publishHoursLocal": [
       7,
       9,

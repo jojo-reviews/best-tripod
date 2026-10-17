@@ -57,7 +57,7 @@ pass results between agents and write the final summary. If an agent fails, retr
 
 **Rules that always apply**
 - Keep it natural, with something genuinely new for crawlers every day: a new post on most days
-  (random times, quota 3-4), plus the daily QA backlog re-check of one older post. When the re-check
+  (random times, quota 4-5), plus the daily QA backlog re-check of one older post. When the re-check
   changes the post's content, set `updatedDate` to now and `reviewedDate` to today; if nothing changed,
   set only `reviewedDate`. Never bump dates, reorder text or make cosmetic edits just to look fresh.
 - Posts go live at random times of day: always use the `slots` times as pubDate, never the current time.
