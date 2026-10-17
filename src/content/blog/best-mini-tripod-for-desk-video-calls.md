@@ -344,7 +344,7 @@ Here is how I would match them to desk setups:
 
 ## Mini Tripod for Desk Video Calls Comparison Table
 
-**A mini tripod for desk video calls lives or dies on three numbers ** These are the makers' or retailers' figures, not measured values, and where sources disagree I show both.
+**A mini tripod for desk video calls lives or dies on working height, load against your actual camera, and how the camera attaches.** These are the makers' or retailers' figures, not measured values, and where sources disagree I show both.
 
 This table compares the three desk tripods on height, packed size, load and plate:
 
@@ -358,9 +358,11 @@ This table compares the three desk tripods on height, packed size, load and plat
 | Height adjustment | None | Arm with 4 height steps | None; leg angle via hex tool |
 | Mount | 1/4 in screw | 1/4 in-20 thread, cold shoe | Arca-type plate, 1/4 in-20 screw |
 
-## How We Chose These Desk Tripods
+## How We Chose Each Mini Tripod for Desk Video Calls
 
 **We started from the mini and tabletop tripods recommended across several roundups, kept only models with a clear Amazon US listing, and checked each against maker and retailer specs and owner reviews.** We did not buy or test them.
+
+We also looked at other popular tabletop options, including the Joby GorillaPod with its flexible legs, a Neewer desk tripod, UBeesize phone tripods and the K&F Concept mini desktop tripod. They dropped out because too few roundups recommended them, owner evidence was missing, or, for the GorillaPod kit we checked, there was no Amazon US listing.
 
 I want to be upfront about how thin the owner evidence is. I could count only 2 owner sources for the PIXI Mini, 2 for the Ulanzi MT-16 and 3 for the SmallRig, and no Reddit threads turned up for any of them. One SmallRig source is a single photographer's own write-up of months of desk use, which is self-reported, so treat it as one person's experience rather than a verdict.
 
