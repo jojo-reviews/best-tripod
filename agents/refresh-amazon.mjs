@@ -5,16 +5,44 @@
 // Runs from .github/workflows/amazon-refresh.yml.
 import { fileURLToPath } from 'node:url';
 import { log } from './lib/config.mjs';
-import { listPosts, writePost } from './lib/store.mjs';
+import { listPosts, writePost, listTranslations } from './lib/store.mjs';
 import { hasAmazonApi, getItems, matchProduct } from './lib/amazon.mjs';
 import { amazonCandidates } from './amazon-candidates.mjs';
 
 const AGENT = 'amazon-refresh';
 
+/** Copy the English post's Amazon fields into its translations; returns the number of files changed. */
+export function syncTranslations() {
+  let changed = 0;
+  // Translations carry the same products as their English post: copy the refreshed Amazon
+  // fields so they stay identical (translation QA requires it; otherwise the build hides them).
+  const english = new Map(listPosts().map((p) => [p.slug, p]));
+  for (const t of listTranslations()) {
+    const en = english.get(t.data.translationOf);
+    if (!en || !(t.data.products || []).length) continue;
+    let dirty = false;
+    for (const p of t.data.products) {
+      const ep = (en.data.products || []).find((x) => x.name === p.name) ?? (en.data.products || []).find((x) => x.asin && x.asin === p.asin);
+      if (!ep) continue;
+      for (const k of ['asin', 'amazonTitle', 'image', 'gallery']) {
+        if (JSON.stringify(p[k] ?? null) !== JSON.stringify(ep[k] ?? null)) {
+          if (ep[k] === undefined) delete p[k]; else p[k] = ep[k];
+          dirty = true;
+        }
+      }
+    }
+    if (dirty) {
+      writePost(t.id, t.data, t.content);
+      changed++;
+    }
+  }
+  return changed;
+}
+
 export async function refreshAmazon() {
   if (!hasAmazonApi()) {
     log(AGENT, 'Creators API credentials or Amazon tag missing; skipping');
-    return 0;
+    return syncTranslations();
   }
   const posts = listPosts().filter((p) => (p.data.products || []).length);
   const asins = [...new Set(posts.flatMap((p) => p.data.products.map((x) => x.asin).filter(Boolean)))];
@@ -58,6 +86,7 @@ export async function refreshAmazon() {
       changed++;
     }
   }
+  changed += syncTranslations();
   // Products still without an ASIN link to an Amazon search and have no photo: list the real
   // listings so the next session can pick the right ASIN or swap the product (ROUTINE.md step 3c).
   const left = await amazonCandidates();
