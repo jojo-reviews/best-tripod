@@ -347,6 +347,7 @@ heroAlt: >-
   Ball Head vs Pan Tilt Head for Landscape Photography: 5 Picks: Best Tripod
   comparison
 related:
+  - best-video-tripod-with-fluid-head-for-beginners
   - peak-design-travel-tripod-vs-manfrotto-befree-advanced
 ---
 

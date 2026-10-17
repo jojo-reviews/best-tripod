@@ -134,7 +134,7 @@
     "slug": "best-tripod-that-fits-in-carry-on-luggage"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -158,7 +158,8 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-video-tripod-with-fluid-head-for-beginners",
-    "productCount": 9
+    "productCount": 9,
+    "publishedAt": "2026-10-17T12:19:45.431Z"
   },
   {
     "status": "published",

@@ -1,0 +1,16 @@
+{
+  "slug": "best-video-tripod-with-fluid-head-for-beginners",
+  "pass": true,
+  "checkedAt": "2026-10-17T12:19:27.498Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified via search results (manufacturer/B&H/Neewer/retailer pages not directly fetchable, proxy blocked): Manfrotto 66.73 in, 57.48 in (146 cm) column down, 69.5 cm closed, 5.64 lb, 6 kg payload vs 4 kg elsewhere; Neewer TP74 17.6 lb, 36 in, 75mm bowl, -75/-70 tilt conflict, 8.8 lb; Cayer BV30L 72.5/33.4 in, 13.2 lb (17.6 one listing), 8.8 lb, K3 -70/+90, 75mm, two plates and bag. Cayer 35 in folded length unconfirmed (hedged). Softened Arca-Swiss, carry-on, YouTuber, upgrade-brand and weight claims.",
+    "at": "2026-10-17T12:19:27.051Z"
+  }
+}
