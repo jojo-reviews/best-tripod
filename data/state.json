@@ -57,5 +57,49 @@
       "category": "camera-tripods",
       "funnel": "bofu"
     }
+  ],
+  "translated": [
+    {
+      "date": "2026-10-17",
+      "id": "de/wie-hoch-sollte-ein-stativ-sein",
+      "lang": "de",
+      "translationOf": "how-tall-should-a-tripod-be-for-my-height",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/que-altura-debe-tener-un-tripode",
+      "lang": "es",
+      "translationOf": "how-tall-should-a-tripod-be-for-my-height",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/hoe-hoog-moet-een-statief-zijn",
+      "lang": "nl",
+      "translationOf": "how-tall-should-a-tripod-be-for-my-height",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "de/kugelkopf-oder-3-wege-neiger-landschaftsfotografie",
+      "lang": "de",
+      "translationOf": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "es/rotula-de-bola-o-de-3-vias-para-paisaje",
+      "lang": "es",
+      "translationOf": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "nl/balhoofd-of-3-weg-kop-voor-landschapsfotografie",
+      "lang": "nl",
+      "translationOf": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "pubDate": "2026-10-17T19:00:00.000Z"
+    }
   ]
 }
