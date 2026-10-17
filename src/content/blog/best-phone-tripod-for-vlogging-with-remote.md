@@ -5,7 +5,7 @@ description: >-
   The best phone tripod for vlogging with remote, compared on real height,
   remote range, mount type and what owners report, with 3 picks for solo
   creators.
-pubDate: '2026-10-17T20:12:00.000Z'
+pubDate: '2026-10-17T12:41:00.000Z'
 category: phone-tripods
 keyword: best phone tripod for vlogging with remote
 secondaryKeywords:

@@ -5,7 +5,7 @@ description: >-
   The best video tripod with fluid head for beginners, compared on payload,
   column-down height, folded length and plates, with 3 picks for mirrorless
   video.
-pubDate: '2026-10-17T15:26:00.000Z'
+pubDate: '2026-10-17T12:36:00.000Z'
 category: video-tripods
 keyword: best video tripod with fluid head for beginners
 secondaryKeywords:
