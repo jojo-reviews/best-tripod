@@ -465,7 +465,7 @@ Geh beim ersten Verbinden so vor:
 
 ### Bildausschnitt auf Augenhöhe
 
-Keines dieser Stative hat eine Mittelsäule, es gibt also keine zusätzliche Höhe über das angegebene Maximum hinaus. Der Haken ist das dünne oberste Segment: Beide hohen Modelle wackeln bei voller Auszugslänge, deshalb würde ich das oberste Segment oder zwei eingefahren lassen und etwas weiter zurücktreten. Spreize die Beine ganz, halte das Stativ aus Windböen heraus und häng nichts an den Stab. Wenn du später auf eine spiegellose Kamera umsteigst, behandelt unser Ratgeber zum [Reisestativ für spiegellose Kameras](/blog/best-travel-tripod-for-mirrorless-camera/) (auf Englisch) echte Tragkraftangaben und Arca-Swiss-Platten, die keines dieser Handy-Stative nutzt.
+Keines dieser Stative hat eine Mittelsäule, es gibt also keine zusätzliche Höhe über das angegebene Maximum hinaus. Der Haken ist das dünne oberste Segment: Beide hohen Modelle wackeln bei voller Auszugslänge, deshalb würde ich das oberste Segment oder zwei eingefahren lassen und etwas weiter zurücktreten. Spreize die Beine ganz, halte das Stativ aus Windböen heraus und häng nichts an den Stab. Wenn du später auf eine spiegellose Kamera umsteigst, behandelt unser Ratgeber zum [Reisestativ für spiegellose Kameras](/de/blog/bestes-reisestativ-fuer-spiegellose-kamera/) echte Tragkraftangaben und Arca-Swiss-Platten, die keines dieser Handy-Stative nutzt.
 
 ### Hochformat oder Querformat
 
@@ -489,4 +489,4 @@ TikTok, Reels und YouTube Shorts wollen Hochformat, lange YouTube-Videos Querfor
 - **Nimm das SENSYNE 62-Inch, wenn** du ein Handy-Stativ mit Bluetooth-Fernbedienung auf Stehhöhe und einen 1/4-Zoll-Adapter willst und mit dünnen unabhängigen Belegen leben kannst.
 - **Nimm das UBeesize, wenn** du ein leichtes Stativ mit Fernbedienung suchst, das als kompaktes Reisestativ für Tische und Geländer dient, nicht für Aufnahmen im Stehen auf Augenhöhe.
 
-Wenn du auch ein vollwertiges Kamerastativ für Reisen im Blick hast, ist unser [Vergleich Peak Design Travel Tripod vs. Manfrotto Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) (auf Englisch) eine gute nächste Lektüre.
+Wenn du auch ein vollwertiges Kamerastativ für Reisen im Blick hast, ist unser [Vergleich Peak Design Travel Tripod vs. Manfrotto Befree Advanced](/de/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced-vergleich/) eine gute nächste Lektüre.

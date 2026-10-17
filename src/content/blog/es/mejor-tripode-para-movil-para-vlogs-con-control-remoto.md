@@ -463,7 +463,7 @@ Sigue estos pasos la primera vez que lo conectes:
 
 ### Encuadre a la altura de los ojos
 
-Ninguno de estos trípodes tiene columna central, así que no hay altura extra más allá del máximo indicado. La pega es el tramo superior, que es fino: los dos modelos altos oscilan totalmente extendidos, así que yo recogería el tramo superior o los dos de arriba y me alejaría un poco. Abre las patas del todo, mantén el trípode lejos de las ráfagas de viento y no cuelgues nada del palo. Si más adelante pasas a una cámara sin espejo, nuestra guía de [trípode de viaje para cámara sin espejo](/blog/best-travel-tripod-for-mirrorless-camera/) (en inglés) trata las cargas reales y las zapatas Arca-Swiss, que ninguno de estos trípodes para móvil usa.
+Ninguno de estos trípodes tiene columna central, así que no hay altura extra más allá del máximo indicado. La pega es el tramo superior, que es fino: los dos modelos altos oscilan totalmente extendidos, así que yo recogería el tramo superior o los dos de arriba y me alejaría un poco. Abre las patas del todo, mantén el trípode lejos de las ráfagas de viento y no cuelgues nada del palo. Si más adelante pasas a una cámara sin espejo, nuestra guía de [trípode de viaje para cámara sin espejo](/es/blog/mejor-tripode-de-viaje-para-camara-mirrorless/) trata las cargas reales y las zapatas Arca-Swiss, que ninguno de estos trípodes para móvil usa.
 
 ### Vertical u horizontal
 
@@ -487,4 +487,4 @@ TikTok, Reels y YouTube Shorts piden vertical; los vídeos largos de YouTube, ho
 - **Elige el SENSYNE 62-Inch si** quieres un trípode para móvil con mando Bluetooth a la altura de una persona de pie y un adaptador de 1/4", y te basta con pocas pruebas independientes.
 - **Elige el UBeesize si** quieres un trípode ligero con mando que sirva como trípode de viaje portátil para mesas y barandillas, no para tomas de pie a la altura de los ojos.
 
-Si también estás mirando un trípode de cámara completo para viajar, nuestra [comparativa Peak Design Travel Tripod vs Manfrotto Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) (en inglés) es una buena lectura para seguir.
+Si también estás mirando un trípode de cámara completo para viajar, nuestra [comparativa Peak Design Travel Tripod vs Manfrotto Befree Advanced](/es/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced-comparativa/) es una buena lectura para seguir.

@@ -472,7 +472,7 @@ Volg deze stappen de eerste keer dat je verbinding maakt:
 
 ### Kadreren op ooghoogte
 
-Geen van deze statieven heeft een middenzuil, dus er is geen extra hoogte boven het opgegeven maximum. Het addertje is het dunne bovenste deel: beide hoge modellen wiebelen bij volledige uitschuiving, dus ik zou het bovenste deel of de bovenste twee ingeschoven laten en iets verder naar achteren gaan staan. Spreid de poten volledig, houd het statief uit windvlagen en hang niets aan de stok. Stap je later over op een systeemcamera, dan behandelt onze gids over een [reisstatief voor een systeemcamera](/blog/best-travel-tripod-for-mirrorless-camera/) (in het Engels) echte draagvermogens en Arca-Swiss-platen, die geen van deze telefoonstatieven gebruikt.
+Geen van deze statieven heeft een middenzuil, dus er is geen extra hoogte boven het opgegeven maximum. Het addertje is het dunne bovenste deel: beide hoge modellen wiebelen bij volledige uitschuiving, dus ik zou het bovenste deel of de bovenste twee ingeschoven laten en iets verder naar achteren gaan staan. Spreid de poten volledig, houd het statief uit windvlagen en hang niets aan de stok. Stap je later over op een systeemcamera, dan behandelt onze gids over een [reisstatief voor een systeemcamera](/nl/blog/beste-reisstatief-voor-systeemcamera/) echte draagvermogens en Arca-Swiss-platen, die geen van deze telefoonstatieven gebruikt.
 
 ### Staand of liggend
 
@@ -496,4 +496,4 @@ TikTok, Reels en YouTube Shorts willen staand beeld, lange YouTube-video's ligge
 - **Kies de SENSYNE 62-Inch als** je een telefoonstatief met Bluetooth-afstandsbediening op stahoogte en een 1/4"-adapter wilt, en het prima vindt dat onafhankelijk bewijs mager is.
 - **Kies de UBeesize als** je een licht statief met afstandsbediening wilt dat werkt als draagbaar reisstatief voor tafels en leuningen, niet voor shots staand op ooghoogte.
 
-Kijk je ook naar een volwaardig camerastatief voor op reis, dan is onze [vergelijking Peak Design Travel Tripod vs Manfrotto Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) (in het Engels) een goede volgende stap.
+Kijk je ook naar een volwaardig camerastatief voor op reis, dan is onze [vergelijking Peak Design Travel Tripod vs Manfrotto Befree Advanced](/nl/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced-vergelijking/) een goede volgende stap.
