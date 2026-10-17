@@ -150,6 +150,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (d.productCount && products.length !== d.productCount) warn(`features ${products.length} products; the plan for this post was ${d.productCount}`);
   const amznLinks = [...body.matchAll(/\]\(amzn:([^)]*)\)/g)].map((m) => decodeURIComponent(m[1].replace(/\+/g, ' ')));
   const h3s = [...body.matchAll(/^###\s+(.+)$/gm)].map((m) => m[1]);
+  for (const [i, p] of products.entries()) if (p.asin && products.findIndex((x) => x.asin === p.asin) !== i) err(`products "${products.find((x) => x.asin === p.asin).name}" and "${p.name}" share ASIN ${p.asin}: each product needs its own listing`);
   const ownersFrom = Date.parse(SITE.qa?.ownersRequiredFrom ?? '2100-01-01');
   for (const p of products) {
     if (p.owners) {
@@ -421,7 +422,7 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
   for (const p of products) {
     const label = `product "${p.name}"`;
     if (!p.asin) { err(`${label} has no asin (translations never link an Amazon search page)`); continue; }
-    const ep = enProducts.find((x) => x.asin === p.asin);
+    const ep = enProducts.find((x) => x.asin === p.asin && x.name === p.name) ?? enProducts.find((x) => x.asin === p.asin);
     if (en && !ep) { err(`${label} (${p.asin}) is not in the English post (no new products)`); continue; }
     if (ep) {
       for (const k of ['name', 'brand', 'query', 'amazonTitle', 'matchName']) if ((p[k] ?? null) !== (ep[k] ?? null)) err(`${label}: ${k} must stay as in the English post ("${ep[k] ?? ''}")`);
