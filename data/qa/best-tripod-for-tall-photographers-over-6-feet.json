@@ -11,7 +11,7 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Checked specs via web search against maker/retailer pages (K&F KF09.119 maker page, B&H/Diamonds/Procam for Manfrotto, Newegg/retailer listings for VICTIV NT70 and CAMBOFOTO SAB265), Photofocus review. Fixes: dropped K&F model number and unconfirmed Fstoppers/twist-lock claims (maker page says flip, 4.46 lb, so weight/lock shown as differing by source); Manfrotto load noted B&H higher, Quick Power Lock levers, folded ~24 in; removed VICTIV T70 model; removed unsourced owner anecdotes, ball head 3-5 in, carbon brand list; labeled height math and 61-64 in as rough estimates; folded lengths updated. Fstoppers/Space.com/Reddit Manfrotto pages and several review pages could not be opened (fetch blocked), so owner remarks are kept generic.",
-    "at": "2026-10-17T13:27:15.203Z"
+    "notes": "Removed 404 sources (Trusted Reviews / Photofocus; no new URL found via search); remaining claims checked against DCW, Thomann, K&F maker page and Kentfaith customer reviews search snippets",
+    "at": "2026-10-17T19:32:20.274Z"
   }
 }

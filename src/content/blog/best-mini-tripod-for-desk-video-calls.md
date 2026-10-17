@@ -278,8 +278,6 @@ sources:
   - title: 'Digital Camera World: Manfrotto PIXI Mini review'
     url: >-
       https://www.digitalcameraworld.com/reviews/manfrotto-pixi-mini-tripod-review
-  - title: 'Trusted Reviews: Manfrotto PIXI Mini review'
-    url: 'https://www.trustedreviews.com/manfrotto-pixi-mini-review'
   - title: 'Thomann: Manfrotto PIXI Mini (MTPIXI-B)'
     url: 'https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm'
   - title: 'Ulanzi: MT-16 Extendable Ballhead Tripod (2052)'
@@ -397,7 +395,7 @@ What owners praise is rigidity. That same self-reported owner write-up describes
 
 The Manfrotto PIXI Mini is the classic small tabletop tripod: fixed legs, a ball head released by a push button, and a 1 kg rating. Its legs fold into a grip, so it doubles as a handle and packs to about 18.5 cm. Weight sits somewhere between 170 g and 190 g depending on the listing. It mounts with a 1/4 in screw and has no phone clamp, so phone users need to buy one separately.
 
-The reviews differ on video. Digital Camera World leads its mini tripod guide with the PIXI and calls it a solid, pocket-sized support for cameras and phones, while Trusted Reviews judges the handheld grip use Manfrotto markets for filming as highly unsuitable for video. That criticism is about handheld use, not a fixed desk stand. Owner reviews on Thomann and a summary of Amazon feedback both praise how solid it feels. They also both complain that the fixed 13.5 cm height keeps the lens low and that the stiff head tilts up only about 35 degrees.
+The reviews differ on video. Digital Camera World leads its mini tripod guide with the PIXI and calls it a solid, pocket-sized support for cameras and phones, while its fixed legs and push-button ball head suit a desk stand better than handheld filming. Owner reviews on Thomann and a summary of Amazon feedback both praise how solid it feels. They also both complain that the fixed 13.5 cm height keeps the lens low and that the stiff head tilts up only about 35 degrees.
 
 ## Buying Guide: Choosing a Mini Tripod for Desk Video Calls
 

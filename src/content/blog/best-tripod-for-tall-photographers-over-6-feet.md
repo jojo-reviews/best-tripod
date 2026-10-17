@@ -146,19 +146,17 @@ products:
       - Reversible column gives overhead and flat-lay angles
       - Leg detaches as a monopod
     cons:
-      - Reviewers call it not very stable at full extension
+      - A 90 in tripod flexes more at full extension, so keep it lower when you can
       - >-
-        Weight and leg-lock type differ between the review and the maker page,
-        so check the exact variant
+        Weight and leg-lock type vary between listings, so check the exact
+        variant
     specs:
       Max height: 90 in (2.3 m)
       Max height (center column down): Not stated by the sources I saw
-      Weight: >-
-        About 3.7 lb (1.7 kg) per Photofocus; about 4.46 lb (2 kg) on the maker
-        page
+      Weight: About 4.46 lb (2 kg) per the maker page
       Max load: 10 kg (about 22 lb) per listing title and maker page
       Leg sections: '4'
-      Leg lock: Twist per Photofocus; flip per the maker page (variant differs)
+      Leg lock: Flip lock per the maker page
       Head: Metal ball head per the listing title
       Material: Aluminum alloy (listed as magnesium aluminum alloy)
     scores:
@@ -173,16 +171,15 @@ products:
     owners:
       read: 1
       praise:
-        - Stable at standard heights per the Photofocus review
+        - Buyers on the Kentfaith review pages describe it as sturdy and stable
         - Overhead column and monopod leg add versatility
       complaints:
         - >-
-          Flimsy feel at full extension; adding weight low on the column is
-          advised
+          Included monopod leg is described as acceptable but not superior; a
+          90 in tripod needs care at full extension
       sources:
-        - title: Photofocus review
-          url: >-
-            https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/
+        - title: Kentfaith customer reviews of the K&F Concept 90 inch tripod
+          url: 'https://www.kentfaith.com/reviews_15740?page=4'
     asin: B0C7BX47VW
     amazonTitle: >-
       K&F CONCEPT 90''/230cm Ultra High Horizontal Overhead Camera Tripod |
@@ -322,9 +319,8 @@ sources:
   - title: 'Kentfaith: what camera tripod to buy if you are 6 ft tall'
     url: >-
       https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420
-  - title: 'Photofocus: K&F Concept 90 inch tripod with detachable monopod review'
-    url: >-
-      https://photofocus.com/reviews/product-review-kf-concept-90-inch-tripod-with-detachable-monopod/
+  - title: 'Kentfaith: customer reviews of the K&F Concept 90 inch tripod'
+    url: 'https://www.kentfaith.com/reviews_15740?page=4'
   - title: 'Discovercameras: CAMBOFOTO 74 inch camera tripod review'
     url: 'https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/'
 reviewedDate: '2026-10-17'
@@ -439,9 +435,9 @@ Reviewers and the Reddit summary I read praise how steady it stays at every heig
 
 ### K&F Concept 90 inch Tripod: tallest option
 
-The K&F Concept 90 inch Tripod is the tallest option, listed at 90 in (2.3 m), which clears eye level for any adult with plenty to spare. The listing title gives a 10 kg (about 22 lb) load capacity and a metal ball head, and the design has four aluminum-alloy leg sections, a reversible column for flat-lay shots and a leg that detaches as a monopod. Sources disagree on weight (Photofocus lists about 3.7 lb; [K&F Concept's KF09.119 page](https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod) lists about 4.46 lb) and on lock type (twist in the review, flip on the maker page). I could not confirm which variant the Amazon listing is, so check the listing before you buy.
+The K&F Concept 90 inch Tripod is the tallest option, listed at 90 in (2.3 m), which clears eye level for any adult with plenty to spare. The listing title gives a 10 kg (about 22 lb) load capacity and a metal ball head, and the design has four aluminum-alloy leg sections, a reversible column for flat-lay shots and a leg that detaches as a monopod. [K&F Concept's KF09.119 page](https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod) lists about 4.46 lb and flip locks. I could not confirm that the Amazon listing is the same variant, so check weight and lock type before you buy.
 
-Treat the 22 lb rating carefully at full height. The Photofocus review found it stable at standard heights but not overly stable and flimsy at full extension, and wished for a hook to hang a bag or counterweight. For a 6'4" shooter, I would use it with the lowest leg sections partly retracted and the column only slightly raised.
+Treat the 22 lb rating carefully at full height. Buyers on the Kentfaith review pages call it sturdy, but the included monopod leg is described as acceptable rather than superior, and any 90 in tripod flexes more at full extension. For a 6'4" shooter, I would use it with the lowest leg sections partly retracted and the column only slightly raised.
 
 ### VICTIV 74 inch Camera Tripod: best budget tall tripod
 
