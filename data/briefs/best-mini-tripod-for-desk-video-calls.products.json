@@ -1,0 +1,164 @@
+{
+ "notes": "WebFetch was blocked, so all evidence comes from WebSearch result text; no top-10 page was opened in full and Google's live top 10 for the exact keyword could not be pulled (pages below are the roundups WebSearch returned for the keyword and close variants). Only 3 products reached the 2-page rule, so productCount drops from 5 to 3. Amazon US listings were NOT checked: confirm each matchName resolves to one clear listing. PIXI Mini and GorillaPod 3K Kit are shown as discontinued/no longer available at some non-US retailers or B&H, so check Amazon stock before shipping. No Reddit threads surfaced for any product; owner evidence is retailer and expert review text. Dropped for under 2 pages or no owner evidence: K&F Concept Mini Desktop Tripod, NEEWER TP29, SIRUI AM-TT50, Amazon Basics Mini Tripod, Freewell Vlogpod, Ulanzi MT-11, UBeesize, PIXI EVO, GorillaPod 3K Pro and 5K (different models), Joby GripTight (only one mention, phone-oriented). SmallRig did not appear in any result.",
+ "products": [
+  {
+   "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+   "brand": "Manfrotto",
+   "query": "Manfrotto PIXI mini tripod black MTPIXI-B",
+   "matchName": "Manfrotto PIXI Mini Tripod",
+   "badge": "Best simple desk stand",
+   "summary": "A fixed-height tabletop tripod with a push-button ball head and legs that fold into a grip. Digital Camera World leads its mini tripod guide with it and says it works for video conferencing at home.",
+   "renterNote": "Anyone putting a light webcam, phone (with a clamp) or compact camera on a desk for calls. Key caveat: height is fixed at about 13.5 cm and the head tilts up only about 35 degrees, so it sits low and you may need books or a riser for eye level.",
+   "pros": [
+     "Solid, simple build with a ball head reviewers say works well",
+     "Rated for about 1 kg, plenty for a webcam or phone",
+     "Legs fold into a grip, so it packs small and doubles as a handle"
+   ],
+   "cons": [
+     "No height adjustment, so the lens sits low on a desk",
+     "Ball head is stiff, tilts upward only about 35 degrees and shoots landscape only; phones need a separate clamp"
+   ],
+   "specs": {
+     "Max height (center column up)": "About 13.5 cm (5.3 in), fixed (Thomann listing)",
+     "Max height (no center column)": "Not applicable (no center column)",
+     "Min height": "Not listed",
+     "Folded length": "About 18.5 cm (Thomann); 18.8 cm (Masterfoto)",
+     "Weight": "About 170-190 g (listings disagree)",
+     "Max load": "1 kg",
+     "Leg sections": "Fixed legs, no extension",
+     "Leg lock": "None (fixed legs)",
+     "Material": "Not confirmed by sources seen",
+     "Head": "Ball head with push-button release, about 35 degrees upward tilt",
+     "Plate": "1/4 in screw mount; phone clamp sold separately"
+   },
+   "sources": [
+     "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+     "https://www.digitalcameraworld.com/reviews/manfrotto-pixi-mini-tripod-review",
+     "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+     "https://www.photoworkout.com/best-tabletop-tripods/",
+     "https://www.austingallery.org/blog/best-camera-tripods-2026",
+     "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone",
+     "https://www.trustedreviews.com/manfrotto-pixi-mini-review",
+     "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm",
+     "https://www.masterfoto.lv/en/mini-tripods/27561-tripod-pixi-mini-manfrotto-mtpixi-b-black.html"
+   ],
+   "scores": {"stability": 6, "portability": 9, "height": 3, "build": 7, "value": 7},
+   "scoreNote": "Compact, solid and trustworthy for light gear, but fixed at about 13.5 cm with limited tilt, so it scores low on working height.",
+   "owners": {
+     "read": 2,
+     "praise": ["Solid, sturdy support for its size", "Easy to adjust with a squeeze of the release, and usable as a hand grip with legs folded"],
+     "complaints": ["Fixed 13 cm height makes it hard to raise the lens", "Spring-loaded ball head release is stiff and tilt is limited to roughly 35 degrees"],
+     "sources": [
+       {"title": "Thomann: Manfrotto PIXI Mini customer reviews", "url": "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk_reviews.htm?rating=4", "reviews": 78},
+       {"title": "Kimola: summary of Amazon feedback on Manfrotto PIXI Mini (themes only)", "url": "https://kimola.com/reports/manfrotto-pixi-mini-tripod-review-142450"}
+     ]
+   }
+  },
+  {
+   "name": "Joby GorillaPod 3K Kit",
+   "brand": "Joby",
+   "query": "Joby GorillaPod 3K Kit flexible tripod with ball head",
+   "matchName": "Joby GorillaPod 3K Kit",
+   "badge": "Best for monitor and shelf mounting",
+   "summary": "A flexible-leg tripod with a ball head and bubble level, rated for 3 kg. Rosenberry Rooms recommends the 3K for versatility, and its legs wrap around objects, so it can clip a webcam to a monitor or sit on a shelf.",
+   "renterNote": "Desk workers with a webcam, mirrorless camera or small mic who want to grip a monitor, shelf or lamp arm rather than just sit on the desk. Key caveat: flexible legs take longer to level and it is a tall-ish stand, so it will not put the lens at eye level on its own.",
+   "pros": [
+     "Bendable legs wrap around monitor edges, shelves and rails",
+     "3 kg (6.6 lb) rating covers webcams, phones and light mirrorless cameras",
+     "Ball head with bubble level and panorama function"
+   ],
+   "cons": [
+     "Takes a little longer to level on flexible legs",
+     "Reviewers say it suits small cameras best, and Joby's 3K Kit has been reported discontinued at some retailers, so check the listing carefully"
+   ],
+   "specs": {
+     "Max height (center column up)": "12 in (B&H)",
+     "Max height (no center column)": "Not applicable (no center column)",
+     "Min height": "Not listed",
+     "Folded length": "9.4 in (24 cm) closed (B&H)",
+     "Weight": "8.7 oz (247 g) stand alone per B&H spec table",
+     "Max load": "3 kg (6.6 lb)",
+     "Leg sections": "Flexible segmented legs",
+     "Leg lock": "None (bendable legs)",
+     "Material": "Plastic (Galaxus lists it as a plastic tripod)",
+     "Head": "Ball head 3K with panorama function and bubble level",
+     "Plate": "1/4 in-20 quick-release style ball head mount"
+   },
+   "sources": [
+     "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+     "https://www.lynnbarsigianphotography.com/?p=45692",
+     "https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
+     "https://www.diyphotography.net/?p=124593",
+     "https://www.adorama.com/jogp3kkitc.html",
+     "https://bestbuy.com/product/joby-gorillapod-3k-kit-black-red-charcoal/JXTFYTVCG7"
+   ],
+   "scores": {"stability": 7, "portability": 7, "height": 4, "build": 6, "value": 6},
+   "scoreNote": "Most flexible mounting of the three and a 3 kg rating, but plastic legs, slow leveling and a roughly 12 in height keep build and height modest.",
+   "owners": {
+     "read": 4,
+     "praise": ["Great for a webcam you sometimes move off the monitor", "Surprisingly sturdy and lightweight for travel and desk use"],
+     "complaints": ["Takes longer to get level because of the flexible legs", "Only suited to small cameras; the listing can be confused with the 1K Kit"],
+     "sources": [
+       {"title": "Adorama: Joby GorillaPod 3K Kit customer reviews", "url": "https://www.adorama.com/jogp3kkitc.html"},
+       {"title": "Best Buy: Joby GorillaPod 3K Kit customer reviews", "url": "https://bestbuy.com/product/joby-gorillapod-3k-kit-black-red-charcoal/JXTFYTVCG7", "reviews": 51},
+       {"title": "ShopSavvy: how durable is the Joby GorillaPod 3K Kit (review summary)", "url": "https://next.shopsavvy.com/answers/how-durable-is-the-joby-gorillapod-3k-kit"}
+     ]
+   }
+  },
+  {
+   "name": "Ulanzi MT-16 Extendable Tripod with Ball Head",
+   "brand": "Ulanzi",
+   "query": "Ulanzi MT-16 extendable tripod with ball head 2052",
+   "matchName": "Ulanzi MT-16 Extendable Tripod",
+   "badge": "Best budget extendable desk stand",
+   "summary": "A 170 g telescopic stand with fold-out legs, a 360-degree metal ball head and a cold shoe. Retailers say that as a tripod it works for video conferencing at a desk, and it extends from about 22 to 44 cm.",
+   "renterNote": "Remote workers and streamers with a webcam, phone or action camera who want a bit more height than a fixed mini tripod plus a mic or light on the cold shoe. Key caveat: the vertical-mode load limit is reported as 500 g, so skip it for heavier mirrorless setups.",
+   "pros": [
+     "Extends from about 22 to 44 cm for a more usable desk height",
+     "Light at 170 g with a lockable 360-degree metal ball head",
+     "Cold shoe mount for a microphone or small light"
+   ],
+   "cons": [
+     "Vertical mode limited to 500 g by one review, against a 1.5 kg headline rating",
+     "Head is not removable and the stand is less stable on uneven ground or when fully extended"
+   ],
+   "specs": {
+     "Max height (center column up)": "About 44 cm (17.3 in)",
+     "Max height (no center column)": "Not applicable (telescopic arm, no center column)",
+     "Min height": "About 22 cm (8.7 in) as tripod",
+     "Folded length": "About 22 cm (22.5 cm on one listing)",
+     "Weight": "170 g",
+     "Max load": "1.5 kg (3.31 lb) listed; 500 g in vertical mode per a review",
+     "Leg sections": "Telescopic arm with 4 height steps, fold-out legs",
+     "Leg lock": "Twist/extension lock on the arm (type not confirmed by sources seen)",
+     "Material": "ABS and aluminum",
+     "Head": "360-degree lockable metal ball head, cold shoe",
+     "Plate": "1/4 in-20 thread"
+   },
+   "sources": [
+     "https://www.pavlovstudios.com/best-mini-tripod/",
+     "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+     "https://findingdulcinea.com/best-tabletop-tripods-january-2026/",
+     "https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html",
+     "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052",
+     "https://discovercameras.com/ulanzi-mt-16-review/",
+     "https://pctechkits.com/ulanzi-mt-16-mini-camera-tripod-review/"
+   ],
+   "scores": {"stability": 5, "portability": 9, "height": 6, "build": 6, "value": 8},
+   "scoreNote": "Lightest and tallest of the three for desk use, with a cheap-for-what-it-does feature set, but a 500 g vertical limit and an extending arm cap stability.",
+   "owners": {
+     "read": 2,
+     "praise": ["Very well made and not cheap feeling", "Extending pole is much stiffer than expected"],
+     "complaints": ["Vertical-mode load limit is low (reported 500 g)", "Head is fixed and not removable"],
+     "sources": [
+       {"title": "B&H: Ulanzi MT-16 Extendable Tripod with Ball Head customer reviews and questions", "url": "https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html"}
+     ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {"name": "Manfrotto PIXI Mini", "pages": ["https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag", "https://www.rosenberryrooms.com/best-tabletop-tripods/", "https://www.photoworkout.com/best-tabletop-tripods/", "https://www.austingallery.org/blog/best-camera-tripods-2026", "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"]},
+  {"name": "Joby GorillaPod 3K Kit", "pages": ["https://www.rosenberryrooms.com/best-tabletop-tripods/", "https://www.lynnbarsigianphotography.com/?p=45692"]},
+  {"name": "Ulanzi MT-16", "pages": ["https://www.pavlovstudios.com/best-mini-tripod/", "https://www.rosenberryrooms.com/best-tabletop-tripods/", "https://findingdulcinea.com/best-tabletop-tripods-january-2026/"]}
+ ]
+}

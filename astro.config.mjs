@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import siteConfig from './site.config.json' with { type: 'json' };
 import { remarkAffiliateLinks } from './src/lib/remark-affiliate.mjs';
 import { remarkProductFigures } from './src/lib/remark-product-figures.mjs';
+import { remarkPhotos } from './src/lib/remark-photos.mjs';
 import { rehypeSections } from './src/lib/rehype-sections.mjs';
 import fs from 'node:fs';
 import matter from 'gray-matter';
@@ -58,7 +59,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    remarkPlugins: [remarkProductFigures, remarkAffiliateLinks],
+    remarkPlugins: [remarkProductFigures, remarkPhotos, remarkAffiliateLinks],
     rehypePlugins: [rehypeSections],
     shikiConfig: { theme: 'github-light' },
   },

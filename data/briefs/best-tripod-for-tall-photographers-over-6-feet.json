@@ -1,0 +1,296 @@
+{
+  "centralEntity": "tripod for tall photographers",
+  "entityVariants": [
+    "best tripod for tall photographers over 6 feet",
+    "tall tripod",
+    "tripod for tall people",
+    "extra tall tripod",
+    "tripod for 6 foot photographers"
+  ],
+  "entities": [
+    {
+      "name": "Center column",
+      "type": "component",
+      "relation": "adds height but reduces stability; tall users should judge height without it"
+    },
+    {
+      "name": "Eye level",
+      "type": "concept",
+      "relation": "target working height for the viewfinder; for a 6'2\" shooter roughly 70 in"
+    },
+    {
+      "name": "Leg sections (3 vs 4)",
+      "type": "attribute",
+      "relation": "fewer sections are stiffer; more sections pack shorter"
+    },
+    {
+      "name": "Twist lock vs flip lock",
+      "type": "component",
+      "relation": "leg-lock speed and reliability"
+    },
+    {
+      "name": "Ball head",
+      "type": "component",
+      "relation": "adds 3-5 in to working height"
+    },
+    {
+      "name": "Geared head",
+      "type": "component",
+      "relation": "precise framing for tall setups"
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "standard",
+      "relation": "quick-release compatibility across heads"
+    },
+    {
+      "name": "Carbon fiber",
+      "type": "material",
+      "relation": "keeps tall tripods light and damps vibration"
+    },
+    {
+      "name": "Aluminum",
+      "type": "material",
+      "relation": "cheaper, heavier alternative"
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "premium tall carbon tripods"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "190 and 055 series, height-capable options"
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "value carbon tall tripods"
+    },
+    {
+      "name": "Sirui",
+      "type": "brand",
+      "relation": "value carbon tripods"
+    },
+    {
+      "name": "Induro",
+      "type": "brand",
+      "relation": "known for taller tripods"
+    },
+    {
+      "name": "Full-frame mirrorless with 70-200mm f/2.8",
+      "type": "use case",
+      "relation": "heavy telephoto load for load-rating checks"
+    },
+    {
+      "name": "Low-angle shooting",
+      "type": "use case",
+      "relation": "minimum height tradeoff of tall tripods"
+    }
+  ],
+  "attributes": [
+    "max height with center column",
+    "max height without center column",
+    "height with head",
+    "minimum height",
+    "folded length",
+    "weight",
+    "max load",
+    "leg sections",
+    "leg lock type",
+    "head type",
+    "Arca-Swiss plate",
+    "leg diameter",
+    "price"
+  ],
+  "ngrams": [
+    "tall tripod",
+    "tripod height",
+    "eye level",
+    "center column",
+    "maximum height",
+    "without center column",
+    "tall photographers",
+    "6 feet tall",
+    "carbon fiber tripod",
+    "max load capacity",
+    "folded length",
+    "ball head",
+    "tripod legs",
+    "leg sections"
+  ],
+  "skipgrams": [
+    "center column\u2026height",
+    "tripod\u2026eye level",
+    "tall\u2026tripod",
+    "extended\u2026height",
+    "without\u2026center column",
+    "tripod\u2026stability",
+    "carbon fiber\u2026weight",
+    "head\u2026adds height",
+    "6 feet\u2026tripod",
+    "leg sections\u2026stiffness"
+  ],
+  "nlpTerms": [
+    "tripod",
+    "height",
+    "eye level",
+    "center column",
+    "extended",
+    "viewfinder",
+    "stability",
+    "load capacity",
+    "carbon fiber",
+    "aluminum",
+    "leg lock",
+    "ball head",
+    "folded length",
+    "hunching",
+    "back strain",
+    "vibration",
+    "payload",
+    "Arca-Swiss",
+    "telephoto",
+    "working height"
+  ],
+  "questions": [
+    "Which tripod is tallest without a center column for a 6'4\" photographer?",
+    "How tall should a tripod be if I am over 6 feet?",
+    "Do I need to extend the center column on a tall tripod?",
+    "Are tall tripods less stable?",
+    "Is carbon fiber better for tall tripods?",
+    "What head height adds to tripod height?"
+  ],
+  "contentGaps": [
+    "Real working height without the center column versus advertised maximum height",
+    "Height with head and camera: how much a ball head and body add to eye-level math",
+    "Load capacity against actual gear (mirrorless + 24-70mm, full-frame + 70-200mm f/2.8) at full extension",
+    "Stability loss at full extension: wind and leg-section behavior",
+    "Packed length for a carry-on or daypack when the tripod is tall",
+    "Leg-lock speed (twist vs flip) with 3 vs 4 sections",
+    "Arca-Swiss plate compatibility",
+    "Minimum height trade-off for low-angle work"
+  ],
+  "outline": [
+    {
+      "h2": "Best Tripod for Tall Photographers: Quick Picks",
+      "intent": "Fast answer: best overall, budget, premium, travel, heavy-lens pick among 5",
+      "h3": []
+    },
+    {
+      "h2": "Comparison Table: Height Without Center Column, Load, Weight",
+      "intent": "Side-by-side specs for the 5 tripods",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose Tripods for Tall Photographers",
+      "intent": "Show methodology and trust",
+      "h3": [
+        "Height math for 6 ft and over",
+        "Testing criteria"
+      ]
+    },
+    {
+      "h2": "The 5 Best Tripods for Tall Photographers",
+      "intent": "Individual product reviews with specs, pros and cons",
+      "h3": [
+        "Best overall",
+        "Best budget",
+        "Best premium",
+        "Best travel",
+        "Best for telephoto"
+      ]
+    },
+    {
+      "h2": "How Tall Should a Tripod Be When You Are Over 6 Feet?",
+      "intent": "Buying guide on height",
+      "h3": [
+        "Height without the center column",
+        "Adding head and camera height",
+        "Eye level vs chin level"
+      ]
+    },
+    {
+      "h2": "Stability, Load Capacity and Leg Locks on Tall Tripods",
+      "intent": "Buying guide on stability",
+      "h3": [
+        "Load against real gear",
+        "3 vs 4 leg sections",
+        "Twist vs flip locks",
+        "Carbon fiber vs aluminum"
+      ]
+    },
+    {
+      "h2": "Packed Length, Weight and Low-Angle Limits",
+      "intent": "Gap: portability and minimum height",
+      "h3": []
+    },
+    {
+      "h2": "FAQ",
+      "intent": "People Also Ask",
+      "h3": [
+        "Which tripod is tallest without a center column for a 6'4\" photographer?",
+        "How tall should a tripod be if I am over 6 feet?",
+        "Do I need to extend the center column on a tall tripod?",
+        "Are tall tripods less stable?",
+        "Is carbon fiber better for tall tripods?",
+        "What head height adds to tripod height?"
+      ]
+    },
+    {
+      "h2": "Final Verdict",
+      "intent": "Recommend by user type",
+      "h3": []
+    }
+  ],
+  "targetWords": 1450,
+  "secondaryKeywords": [
+    "tall tripod",
+    "tripod for tall people",
+    "tripod for 6'4 photographer",
+    "extra tall camera tripod",
+    "tripod height without center column"
+  ],
+  "internalLinkCandidates": [
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "anchor": "how tall a tripod should be for your height"
+    },
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "anchor": "best travel tripods for mirrorless cameras"
+    },
+    {
+      "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "anchor": "ball head vs pan-tilt head"
+    },
+    {
+      "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+      "anchor": "Peak Design vs Manfrotto Befree Advanced"
+    }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.ulanzi.com/blogs/news/tripod-height-guide-perfect-photography",
+      "https://www.adorama.com/lists/tall-camera-tripods",
+      "https://www.trustedreviews.com/guide/best-tripods",
+      "https://www.talkphotography.co.uk/threads/tall-tripods.388070/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Roundup-style pages (Trusted Reviews, Adorama lists) give each product short pros and cons with key specs; thin SERP, inferred from snippets.",
+    "avgWords": 1800,
+    "avgProducts": 5,
+    "commonSections": [
+      "quick picks",
+      "comparison table",
+      "product reviews",
+      "buying guide (height, stability)",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "WebFetch was blocked and WebSearch returned thin results (mostly one Ulanzi height guide, a Trusted Reviews tripod roundup, forums); structure is inferred from snippets, and no specific 70 in spec was verified. Verify heights from manufacturer spec sheets."
+  }
+}

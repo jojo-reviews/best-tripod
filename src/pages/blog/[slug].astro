@@ -1,4 +1,5 @@
 ---
+import { unsplashCredit } from '../../lib/remark-photos.mjs';
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import ProductPicks from '../../components/ProductPicks.astro';
@@ -36,7 +37,8 @@ const researchNote = [
 const reviewed = d.reviewedDate ?? modified;
 const author = getAuthor(d.author);
 const authorUrl = `/authors/${author.slug}/`;
-const hero = d.heroImage;
+const heroPhoto = d.photos.find((p) => p.placement === 'hero');
+const hero = d.heroImage ?? heroPhoto?.url;
 const heroPick = d.products.find((p) => p.image?.url);
 const brands = brandsIn(d.products);
 // Version the header graphic by its content so browsers never show a stale copy.
@@ -156,16 +158,17 @@ if (d.products.length > 1) {
       {heroPick ? (
         <figure class="hero-composite">
           <div class="hc-frame">
-            <img class="hc-base" src={`/images/hero/${post.id}.png?v=${heroBaseVer}`} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+            <img class="hc-base" src={heroPhoto ? heroPhoto.url : `/images/hero/${post.id}.png?v=${heroBaseVer}`} alt={heroPhoto?.alt ?? d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
             <a class="hc-product" href={amazonUrl({ asin: heroPick.asin, query: heroPick.query })} rel={AFFILIATE_REL} target="_blank" tabindex="-1">
               <img src={heroPick.image!.url} alt={heroPick.name} width={heroPick.image!.width ?? 500} height={heroPick.image!.height ?? 500} decoding="async" />
             </a>
           </div>
-          <figcaption>{heroPick.name}. <span class="credit">Product photo: {imageCredit(heroPick).replace(/^Image: /, '')}</span></figcaption>
+          <figcaption>{heroPick.name}. <span class="credit">Product photo: {imageCredit(heroPick).replace(/^Image: /, '')}</span>{heroPhoto && <span class="credit"> Background: <Fragment set:html={unsplashCredit(heroPhoto)} /></span>}</figcaption>
         </figure>
       ) : hero && (
         <figure class="hero-fig">
-          <img class="hero-img" src={hero} alt={d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+          <img class="hero-img" src={hero} alt={heroPhoto?.alt ?? d.heroAlt ?? d.title} width="1200" height="630" fetchpriority="high" decoding="async" />
+          {heroPhoto && !d.heroImage && <figcaption class="credit"><Fragment set:html={unsplashCredit(heroPhoto)} /></figcaption>}
         </figure>
       )}
     </header>

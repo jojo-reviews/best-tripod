@@ -506,3 +506,9 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 
 .toppicks .tp-actions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; }
 .toppicks .tp-actions .btn { white-space: nowrap; }
+
+/* Unsplash photos inside a post */
+.post-photo { margin: 1.5rem 0; }
+.post-photo img { width: 100%; height: auto; border-radius: 10px; display: block; }
+.post-photo figcaption, .hero-fig figcaption.credit { font-size: 0.8rem; color: var(--muted, #666); margin-top: 0.35rem; }
+.post-photo figcaption a, .hero-composite .credit a, .hero-fig .credit a { color: inherit; text-decoration: underline; }

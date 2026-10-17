@@ -79,6 +79,24 @@ const blog = defineCollection({
     draft: z.boolean().default(false),
     heroImage: z.string().optional(),
     heroAlt: z.string().optional(),
+    photoQuery: z.string().optional(),
+    // Unsplash photos (agents/unsplash-images.mjs): one hero, up to two inline.
+    photos: z
+      .array(
+        z.object({
+          id: z.string(),
+          url: z.string().url(),
+          width: z.number().optional(),
+          height: z.number().optional(),
+          alt: z.string(),
+          credit: z.string(),
+          creditUrl: z.string().url(),
+          unsplashUrl: z.string().url(),
+          placement: z.enum(['hero', 'inline']),
+          afterHeading: z.number().optional(),
+        }),
+      )
+      .default([]),
   }),
 });
 
