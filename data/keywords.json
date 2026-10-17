@@ -217,7 +217,7 @@
     "publishedAt": "2026-10-15T19:56:21.376Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -241,7 +241,8 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-tripod-for-tall-photographers-over-6-feet",
-    "productCount": 5
+    "productCount": 5,
+    "publishedAt": "2026-10-17T13:27:39.468Z"
   },
   {
     "status": "pending",
