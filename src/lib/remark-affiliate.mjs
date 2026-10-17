@@ -12,7 +12,7 @@ const toks = (s) => norm(s).split(' ').filter((w) => w.length > 1);
 /** The post's product a `[text](amzn:Name)` link is about, so it can use that product's own ASIN
  *  instead of an Amazon search page. Exact name/query/matchName first, then the one product whose
  *  words contain every word of the link's name; ambiguous links stay on search. */
-function productFor(value, text, products) {
+export function productFor(value, text, products) {
   const asinned = products.filter((p) => p.asin);
   const key = norm(value);
   const exact = asinned.find((p) => [p.query, p.name, p.matchName].some((x) => x && norm(x) === key));

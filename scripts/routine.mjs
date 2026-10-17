@@ -12,10 +12,16 @@
 //   node scripts/routine.mjs qa <slug>              QA agent review (must PASS before the post can go live)
 //   node scripts/routine.mjs factcheck <slug> "notes"  record that every claim was verified against sources
 //   node scripts/routine.mjs finalize <slug>        featured image, backlinks, queue/state, report
+//
+// Translations (src/content/blog/<lang>/<slug>.md): audit, qa, factcheck and finalize also take
+// '<lang>/<slug>' (e.g. `qa de/bestes-reisestativ-fuer-spiegellose-kamera` writes data/qa/de/<slug>.json).
+//   node scripts/routine.mjs translate-queue [lang]  English posts (live + QA passed) without a translation, oldest first
+//   node scripts/routine.mjs translate-slots <lang> [--count N] [--after <english-slug>]
+//                                                   random pubDates a few hours from now, >= 2h apart, max 5/language/day
 import fs from 'node:fs';
 import path from 'node:path';
 import { DATA_DIR, SITE } from '../agents/lib/config.mjs';
-import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport } from '../agents/lib/store.mjs';
+import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport, listTranslations, parseRef, readPost } from '../agents/lib/store.mjs';
 import { localNow, quotaFor, releaseTimes } from '../agents/lib/schedule.mjs';
 import { slugify } from '../agents/lib/nlp.mjs';
 import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
@@ -23,12 +29,26 @@ import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
 import { ensureFeatured } from './featured-images.mjs';
 import { funnelOf } from '../agents/lib/funnel.mjs';
 import { findCannibal } from '../agents/lib/cannibal.mjs';
-import { qaPost, recordFactCheck } from '../agents/qa-agent.mjs';
+import { qaPost, qaTranslation, recordFactCheck, readQa } from '../agents/qa-agent.mjs';
 import { productCountFor } from '../agents/lib/product-count.mjs';
 
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const [cmd, arg] = process.argv.slice(2);
 const out = (o) => console.log(JSON.stringify(o, null, 2));
+const ref = parseRef(arg);
+const isTranslation = ref.lang !== 'en';
+const TRANSLATION_LANGS = Object.keys(SITE.locales ?? {}).filter((l) => l !== (SITE.defaultLocale ?? 'en'));
+/** The translation named by '<lang>/<slug>', or an error that says where it should be. */
+function translationFor(r) {
+  if (!TRANSLATION_LANGS.includes(r.lang)) throw new Error(`"${r.lang}" is not a translation locale (site.config.json locales: ${TRANSLATION_LANGS.join(', ')})`);
+  const post = readPost(r.lang, r.slug);
+  if (!post) throw new Error(`No translation src/content/blog/${r.lang}/${r.slug}.md`);
+  return post;
+}
+const flag = (name) => {
+  const i = process.argv.indexOf(`--${name}`);
+  return i > 0 ? process.argv[i + 1] : undefined;
+};
 
 function itemFor(slug) {
   const queue = loadQueue();
@@ -126,6 +146,17 @@ if (cmd === 'status') {
   }
   saveQueue(queue);
   out({ added, pending: queue.filter((q) => q.status === 'pending').length });
+} else if (cmd === 'audit' && isTranslation) {
+  // The SEO audit scores English entity/n-gram coverage from an English brief, so it only
+  // runs on a translation that has its own brief in data/briefs/<lang>/<slug>.json.
+  const post = translationFor(ref);
+  const briefFile = path.join(BRIEFS, ref.lang, `${ref.slug}.json`);
+  if (!fs.existsSync(briefFile)) out({ skipped: true, reason: `no brief for this language (${path.relative(process.cwd(), briefFile)}); the English brief doesn't apply to ${ref.lang} text. QA covers the translation rules.` });
+  else {
+    const brief = JSON.parse(fs.readFileSync(briefFile, 'utf8'));
+    const report = audit({ item: { keyword: post.data.keyword, secondaryKeywords: post.data.secondaryKeywords ?? [], articleType: post.data.articleType }, brief, meta: { title: post.data.title, seoTitle: post.data.seoTitle ?? post.data.title, description: post.data.description }, body: post.content, products: post.data.products ?? [] });
+    out({ score: report.score, pass: report.score >= 85, issues: report.issues, metrics: report.metrics });
+  }
 } else if (cmd === 'audit') {
   const { item, post } = itemFor(arg);
   if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
@@ -138,6 +169,8 @@ if (cmd === 'status') {
     products: post.data.products ?? [],
   });
   out({ score: report.score, pass: report.score >= 85, issues: report.issues, metrics: report.metrics });
+} else if (cmd === 'qa' && isTranslation) {
+  out(await qaTranslation(translationFor(ref)));
 } else if (cmd === 'qa') {
   const post = listPosts().find((p) => p.slug === arg);
   if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
@@ -145,7 +178,69 @@ if (cmd === 'status') {
 } else if (cmd === 'factcheck') {
   const notes = process.argv.slice(4).join(' ').trim();
   if (notes.length < 20) throw new Error('Describe what you verified (which specs, against which sources).');
-  out(recordFactCheck(arg, notes));
+  if (isTranslation) translationFor(ref);
+  else if (!listPosts().some((p) => p.slug === arg)) throw new Error(`No post src/content/blog/${arg}.md`);
+  out(recordFactCheck(ref.id, notes));
+} else if (cmd === 'finalize' && isTranslation) {
+  // Translations reuse the English header graphic and add no backlinks to English posts;
+  // finalize records them in data/state.json (translated) and writes data/reports/<lang>/<slug>.json.
+  const post = translationFor(ref);
+  const qa = readQa(ref.id);
+  if (!qa?.pass) throw new Error(`${ref.id} doesn't pass QA yet: run \`node scripts/routine.mjs qa ${ref.id}\``);
+  const state = loadState();
+  const now = localNow();
+  state.translated ??= [];
+  if (!state.translated.some((p) => p.id === ref.id)) state.translated.push({ date: now.date, id: ref.id, lang: ref.lang, translationOf: post.data.translationOf, pubDate: new Date(post.data.pubDate).toISOString() });
+  saveState(state);
+  saveReport(ref.id, { lang: ref.lang, translationOf: post.data.translationOf, keyword: post.data.keyword, createdAt: new Date().toISOString(), via: 'claude-routine', sources: (post.data.sources ?? []).map((x) => x.url) });
+  out({ finalized: ref.id, translationOf: post.data.translationOf, pubDate: post.data.pubDate });
+} else if (cmd === 'translate-queue') {
+  // English posts that are live and pass QA but have no version (any status) in a language yet.
+  const langs = arg ? [arg] : TRANSLATION_LANGS;
+  if (arg && !TRANSLATION_LANGS.includes(arg)) throw new Error(`"${arg}" is not a translation locale (${TRANSLATION_LANGS.join(', ')})`);
+  const now = Date.now();
+  const ready = listPosts()
+    .filter((p) => !p.data.draft && Date.parse(p.data.pubDate) <= now && readQa(p.slug)?.pass)
+    .sort((a, b) => Date.parse(a.data.pubDate) - Date.parse(b.data.pubDate));
+  const translations = listTranslations();
+  const queue = {};
+  for (const l of langs) {
+    const done = new Set(translations.filter((t) => t.lang === l).map((t) => t.data.translationOf));
+    queue[l] = ready.filter((p) => !done.has(p.slug)).map((p) => ({ slug: p.slug, pubDate: new Date(p.data.pubDate).toISOString(), title: p.data.title }));
+  }
+  out({ backlogPerDay: SITE.translations?.backlogPerDay ?? 2, pending: Object.fromEntries(langs.map((l) => [l, queue[l].length])), queue });
+} else if (cmd === 'translate-slots') {
+  // Random go-live times for translations of one language: the first a few hours from now
+  // (or after the English post's pubDate with --after), each at least 2h after the language's
+  // other translations, at most 5 per language per local day (site timezone).
+  const lang = arg;
+  if (!TRANSLATION_LANGS.includes(lang)) throw new Error(`usage: translate-slots <lang> [--count N] [--after <english-slug>] (lang: ${TRANSLATION_LANGS.join(', ')})`);
+  const MAX_PER_DAY = 5;
+  const GAP = 2 * 3600000;
+  const count = Math.max(1, Number(flag('count') ?? 1));
+  const after = flag('after');
+  let start = Date.now();
+  if (after) {
+    const en = listPosts().find((p) => p.slug === after);
+    if (!en) throw new Error(`No post src/content/blog/${after}.md`);
+    start = Math.max(start, Date.parse(en.data.pubDate));
+  }
+  const rand = (a, b) => a + Math.random() * (b - a);
+  const taken = listTranslations(lang).map((t) => Date.parse(t.data.pubDate)).filter((t) => !Number.isNaN(t));
+  const perDay = (t, list) => list.filter((x) => localNow(new Date(x)).date === localNow(new Date(t)).date).length;
+  const picked = [];
+  let c = start + rand(2, 4) * 3600000;
+  for (let guard = 0; picked.length < count && guard < 500; guard++) {
+    c = Math.round(c / 300000) * 300000; // whole 5 minutes
+    const all = [...taken, ...picked];
+    if (all.some((x) => Math.abs(x - c) < GAP) || perDay(c, all) >= MAX_PER_DAY) {
+      c += rand(0.5, 1.5) * 3600000;
+      continue;
+    }
+    picked.push(c);
+    c += GAP + rand(0, 1.5) * 3600000;
+  }
+  out({ lang, maxPerDay: MAX_PER_DAY, minGapHours: 2, scheduledToday: perDay(Date.now(), taken), pubDates: picked.map((t) => new Date(t).toISOString()) });
 } else if (cmd === 'finalize') {
   const { queue, post, item } = itemFor(arg);
   if (!post) throw new Error(`No post src/content/blog/${arg}.md`);
@@ -171,6 +266,6 @@ if (cmd === 'status') {
   saveReport(arg, { keyword: it.keyword, createdAt: new Date().toISOString(), via: 'claude-routine', brief, sources: collectSources(post.data.products ?? []), backlinks });
   out({ finalized: arg, backlinks });
 } else {
-  console.log('usage: node scripts/routine.mjs status|next|links <slug>|add-keywords <file>|audit <slug>|finalize <slug>');
+  console.log('usage: node scripts/routine.mjs status|slots|next|cannibal "<kw>"|links <slug>|add-keywords <file>|audit <ref>|qa <ref>|factcheck <ref> "<notes>"|finalize <ref>|translate-queue [lang]|translate-slots <lang> [--count N] [--after <slug>]   (<ref> = <slug> or <lang>/<slug>)');
   process.exitCode = 1;
 }

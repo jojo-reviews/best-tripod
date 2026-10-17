@@ -9,6 +9,42 @@
     "amazonTag": "93485748-20",
     "amazonDomain": "www.amazon.com"
   },
+  "locales": {
+    "en": {
+      "path": "",
+      "hreflang": "en-US",
+      "ogLocale": "en_US",
+      "flag": "🇺🇸",
+      "label": "English"
+    },
+    "de": {
+      "path": "de",
+      "hreflang": "de-DE",
+      "ogLocale": "de_DE",
+      "flag": "🇩🇪",
+      "label": "Deutsch"
+    },
+    "es": {
+      "path": "es",
+      "hreflang": "es-ES",
+      "ogLocale": "es_ES",
+      "flag": "🇪🇸",
+      "label": "Español"
+    },
+    "nl": {
+      "path": "nl",
+      "hreflang": "nl-NL",
+      "ogLocale": "nl_NL",
+      "flag": "🇳🇱",
+      "label": "Nederlands"
+    }
+  },
+  "defaultLocale": "en",
+  "oneLinkScript": "",
+  "translations": {
+    "backlogPerDay": 2,
+    "note": "Daily backlog: translate up to backlogPerDay older English posts per language (scripts/routine.mjs translate-queue). New English posts are translated right after they pass QA."
+  },
   "categories": [
     {
       "slug": "travel-tripods",

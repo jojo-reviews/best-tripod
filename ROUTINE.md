@@ -48,6 +48,7 @@ productCount and slot time it needs, and act on what it returns:
 | 6-7 write + audit | `writer-agent` | opus |
 | 7b fact check + QA, backlog re-check | `qa-agent` | sonnet |
 | 8-9 finalize, build, push | `publisher-agent` | haiku |
+| Translations (de, es, nl) | `translator-agent` | opus |
 **Live dashboard (optional):** if the owner has set up a runs dashboard artifact, use the ArtifactData tool to keep collection `runs` (doc id = slug: site, slug, title, url, pubDate, status
 running|scheduled|live|failed, updatedAt ms, steps.{keyword,product,brief,writer,qa,publisher} = {state
 running|done|failed, model, ms, note}) and `sites/<domain>` (quotaToday, publishedToday, pendingKeywords,
@@ -249,4 +250,43 @@ The push triggers **Deploy to Cloudflare Pages** (site + IndexNow) and
 **Amazon product refresh** (real ASINs + product photos, then redeploy).
 
 Finish with a short summary: posts published (title + URL
-`https://best-tripod.com/blog/<slug>/`), audit scores, anything skipped and why.
+`https://best-tripod.com/blog/<slug>/`), audit scores, translations published
+(`https://best-tripod.com/<lang>/blog/<slug>/`), anything skipped and why.
+
+## Translations (de, es, nl)
+Every English post also gets a localized version per locale in `site.config.json` (`locales`, minus `en`):
+`src/content/blog/<lang>/<localized-slug>.md` with `lang` and `translationOf: <english-slug>`, live at
+`/<lang>/blog/<localized-slug>/`. Translations go through the same gate: a translation only goes live with a
+passing report in `data/qa/<lang>/<slug>.json`. All routine commands take `<lang>/<slug>` for them.
+
+**Amazon (OneLink):** links stay `amazon.com/dp/<ASIN>?tag=...`; Amazon OneLink sends visitors to their
+local store. So translations keep the English products and ASINs (no new products, no search links) and
+never mention a local Amazon store, local prices, currencies or local availability.
+
+**After each English post passes QA and is pushed** (step 9), for each locale (`de`, `es`, `nl`):
+1. `node scripts/routine.mjs translate-slots <lang> --after <english-slug>` → use `pubDates[0]` as the
+   translation's pubDate (random, a few hours after now and after the English post, ≥ 2 h from the
+   language's other translations, max 5 per language per day). Never use the current time.
+2. `translator-agent` with the English slug, the language and that pubDate → returns `<lang>/<slug>`.
+3. `qa-agent` with `<lang>/<slug>`: it compares the translation with the English post, records
+   `node scripts/routine.mjs factcheck <lang>/<slug> "<notes>"` and runs
+   `node scripts/routine.mjs qa <lang>/<slug>` until `"pass": true`.
+4. `publisher-agent` with `<lang>/<slug>`: `finalize <lang>/<slug>`, `npm run check:content && npm run build`,
+   commit `content (<lang>): <title>`, push.
+If a translation can't pass QA after fixes, leave it out of the commit (the English post is unaffected).
+
+**Translation QA rules** (`qa <lang>/<slug>`, on top of the usual field/length/FAQ/voice checks):
+`lang` matches the folder; ASCII slug; `translationOf` names an English post that passes QA and doesn't go live
+later than the translation; same products in the same count with the same `asin`, `name`, `brand`, `query`,
+`scores` and spec keys; every `amzn:` link resolves to one of those products; `sources` and `owners.sources`
+are the English URLs; no `amazon.de/.es/.nl` links, prices or currency symbols; no testing/ownership claims
+(also in the language: getestet / probado / getest unless negated, gekauft / comprado / gekocht ...);
+the translated story block (`> **Aus unseren Notizen:**`, `> **De nuestras notas:**`, `> **Uit onze notities:**`);
+at least 10 first-person words; body at least 60% of the English word count. The SEO audit runs only when a
+language brief exists (`data/briefs/<lang>/<slug>.json`); otherwise `audit <lang>/<slug>` reports `skipped`.
+
+**Daily backlog (older posts):** `node scripts/routine.mjs translate-queue [lang]` lists English posts that are
+live and pass QA but have no version in a language yet, oldest first. Translate up to
+`translations.backlogPerDay` (site.config.json, default 2) per language per day, each through steps 1-4 above
+(`translate-slots <lang> --count <n>` gives n spaced pubDates). Stop when the queue is empty. New English
+posts come first; the 5-per-language-per-day cap of `translate-slots` covers both.

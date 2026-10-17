@@ -94,6 +94,23 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .menu-panel a { padding: 12px 0; color: var(--ink); text-decoration: none; font-weight: 600; border-bottom: 1px solid var(--rule); }
 .site-header { position: relative; }
 @media (max-width: 880px) { .nav { display: none; } .menu { display: block; } }
+/* Language switcher (flags + language names) */
+.lang-switch { position: relative; margin-left: -10px; }
+.lang-switch summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 6px; padding: 7px 10px; border: 1px solid var(--rule); border-radius: var(--r-btn); font-weight: 700; font-size: .88rem; color: var(--ink); background: var(--paper); }
+.lang-switch summary::-webkit-details-marker { display: none; }
+.lang-switch summary:hover, .lang-switch[open] summary { border-color: var(--ink); }
+.lang-switch .flag { font-size: 1.1rem; line-height: 1; }
+.lang-panel { display: none; position: absolute; right: 0; top: calc(100% + 8px); min-width: 180px; margin: 0; padding: 6px; list-style: none; background: var(--paper); border: 1px solid var(--rule); border-radius: var(--r-btn); box-shadow: 0 10px 24px rgba(31,28,26,.12); z-index: 50; }
+.lang-switch[open] .lang-panel { display: block; }
+.lang-panel li { margin: 0; }
+.lang-panel a { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 6px; color: var(--ink); text-decoration: none; font-weight: 600; font-size: .95rem; }
+.lang-panel a:hover { background: var(--tape-soft); }
+.lang-panel a[aria-current='true'] { background: var(--tape-soft); color: var(--tape-ink); }
+@media (max-width: 880px) {
+  .site-header .wrap:has(.lang-switch) { gap: 12px; }
+  .lang-switch { margin-left: auto; }
+  .lang-switch + .menu { margin-left: 0; }
+}
 
 /* ---------- Buttons ---------- */
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; font-family: var(--display); font-weight: 700; text-decoration: none; padding: 13px 22px; border-radius: var(--r-btn); border: 2px solid var(--ink); font-size: 1rem; line-height: 1.2; cursor: pointer; }

@@ -51,3 +51,51 @@ export function writePost(slug, data, content) {
   fs.writeFileSync(file, matter.stringify(`\n${content.trim()}\n`, clean));
   return file;
 }
+
+// --- Translations: src/content/blog/<lang>/<slug>.md (id '<lang>/<slug>').
+// The English helpers above (listPosts, postExists, writePost) only see the top folder.
+
+/** Language folders that exist next to the English posts (de, es, nl, ...). */
+export function translationLangs() {
+  if (!fs.existsSync(BLOG_DIR)) return [];
+  return fs.readdirSync(BLOG_DIR, { withFileTypes: true }).filter((e) => e.isDirectory()).map((e) => e.name);
+}
+
+/** Translated posts of one language, or of every language when `lang` is omitted. */
+export function listTranslations(lang) {
+  const langs = lang ? [lang] : translationLangs();
+  return langs.flatMap((l) => {
+    const dir = path.join(BLOG_DIR, l);
+    if (!fs.existsSync(dir)) return [];
+    return fs
+      .readdirSync(dir)
+      .filter((f) => f.endsWith('.md'))
+      .map((f) => {
+        const file = path.join(dir, f);
+        const { data, content } = matter(fs.readFileSync(file, 'utf8'));
+        const slug = f.replace(/\.md$/, '');
+        return { slug, lang: l, id: `${l}/${slug}`, file, data, content };
+      });
+  });
+}
+
+/** Split a post reference: 'de/<slug>' is a translation, a bare '<slug>' is English. */
+export function parseRef(ref) {
+  const s = String(ref ?? '').replace(/^\/+|\/+$/g, '').replace(/\.md$/, '');
+  const i = s.indexOf('/');
+  return i < 0 ? { lang: 'en', slug: s, id: s } : { lang: s.slice(0, i), slug: s.slice(i + 1), id: s };
+}
+
+/** One post by language and slug ('en' reads src/content/blog/<slug>.md), or null. */
+export function readPost(lang, slug) {
+  if (!lang || lang === 'en') {
+    const file = path.join(BLOG_DIR, `${slug}.md`);
+    if (!fs.existsSync(file)) return null;
+    const { data, content } = matter(fs.readFileSync(file, 'utf8'));
+    return { slug, file, data, content };
+  }
+  const file = path.join(BLOG_DIR, lang, `${slug}.md`);
+  if (!fs.existsSync(file)) return null;
+  const { data, content } = matter(fs.readFileSync(file, 'utf8'));
+  return { slug, lang, id: `${lang}/${slug}`, file, data, content };
+}

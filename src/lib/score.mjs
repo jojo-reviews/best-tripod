@@ -10,6 +10,18 @@ export const CRITERIA = [
   { key: 'value', label: 'Value', weight: 0.15 },
 ];
 
+// Criterion labels in the other site languages (English labels live in CRITERIA).
+export const CRITERIA_LABELS = {
+  de: { stability: 'Stabilität', portability: 'Mobilität (Gewicht und Packmaß)', height: 'Arbeitshöhe', build: 'Verarbeitung (Material, Beinverschlüsse, Kopf)', value: 'Preis-Leistung' },
+  es: { stability: 'Estabilidad', portability: 'Portabilidad (peso y longitud plegado)', height: 'Altura de trabajo', build: 'Construcción (materiales, cierres de patas, cabezal)', value: 'Relación calidad-precio' },
+  nl: { stability: 'Stabiliteit', portability: 'Draagbaarheid (gewicht en lengte ingeklapt)', height: 'Werkhoogte', build: 'Bouwkwaliteit (materiaal, pootsluitingen, kop)', value: 'Prijs-kwaliteit' },
+};
+
+/** Label of a criterion in a language, falling back to English. */
+export function criterionLabel(key, lang = 'en') {
+  return CRITERIA_LABELS[lang]?.[key] ?? CRITERIA.find((c) => c.key === key)?.label ?? key;
+}
+
 /** Score = sum(criterion x weight) / sum(weights used) / 2, rounded to 0.1 (out of 5). */
 export function productScore(scores) {
   if (!scores) return null;

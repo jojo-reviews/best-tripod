@@ -77,6 +77,10 @@ const blog = defineCollection({
     productStyle: z.enum(['pros-cons', 'paragraph', 'specs']).default('pros-cons'),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
     draft: z.boolean().default(false),
+    // Language versions: translated posts live in src/content/blog/<lang>/<localized-slug>.md
+    // (id '<lang>/<slug>') and name the English post they localize.
+    lang: z.enum(['en', 'de', 'es', 'nl']).default('en'),
+    translationOf: z.string().optional(),
     heroImage: z.string().optional(),
     heroAlt: z.string().optional(),
     photoQuery: z.string().optional(),
