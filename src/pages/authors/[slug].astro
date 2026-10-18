@@ -24,6 +24,7 @@ const jsonLd = [{
         <div><h1 style="margin:0;font-size:var(--s4)">{author.name}</h1><p class="muted" style="margin:4px 0 0">{author.role}</p></div>
       </div>
       <p class="dek">{author.bio}</p>
+      {(author as any).photo && <figure class="author-photo" style="margin:18px 0;max-width:420px"><img src={(author as any).photo.src} alt={(author as any).photo.alt} width={(author as any).photo.width} height={(author as any).photo.height} loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px" /></figure>}
       {author.expertise.length > 0 && <p><strong>Covers:</strong> {author.expertise.join(', ')}.</p>}
       {author.sameAs.length > 0 && <p>{author.type === 'Person' ? 'Elsewhere: ' : 'Find us on: '}{author.sameAs.map((u, i) => <>{i > 0 && ', '}<a href={u} rel="me noopener" target="_blank">{new URL(u).hostname.replace('www.', '')}</a></>)}</p>}
       <p>Every guide follows our <a href="/how-we-research/">research process</a> and <a href="/editorial-policy/">editorial policy</a>.</p>

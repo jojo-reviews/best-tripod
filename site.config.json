@@ -212,13 +212,19 @@
         "Automotive photography",
         "Camera support on location"
       ],
-      "image": null,
+      "image": "/images/authors/damian-barczak.jpg",
       "sameAs": [
         "https://www.instagram.com/barczak_fotografia/",
         "https://www.facebook.com/p/Barczak-Fotografia-100063439075595/",
         "https://unsplash.com/@barczakshoots",
         "https://www.pexels.com/@barczakshoots/"
-      ]
+      ],
+      "photo": {
+        "src": "/images/authors/damian-barczak-on-location.jpg",
+        "width": 844,
+        "height": 900,
+        "alt": "Damian Barczak framing a shot on a tripod on location"
+      }
     }
   ],
   "indexing": {
