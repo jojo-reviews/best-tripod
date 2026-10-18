@@ -249,7 +249,7 @@ sources:
       https://www.bhphotovideo.com/c/product/1826524-REG/sirui_qc_55_quick_release_clamp.html
   - title: 'DSLR Video Shooter: Arca Swiss Plates, Goodbye Manfrotto'
     url: 'https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/'
-reviewedDate: '2026-10-18'
+reviewedDate: 2026-10-18
 faqs:
   - q: Is Arca-Swiss a standard size?
     a: >-
@@ -287,6 +287,7 @@ heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: >-
   What Is an Arca Swiss Plate and Do I Need One? A Plain Guide – Best Tripod
   guide
+reviewedBy: damian-barczak
 ---
 
 An Arca-Swiss plate is the small metal bar under most photographers' cameras that lets them snap onto a tripod in seconds. "What is an Arca Swiss plate, and do you need one?" is a question many new tripod owners ask. In short, it is a quick release plate with angled dovetail sides that slide into a matching clamp, and you need one whenever your tripod head, monopod or strap clip uses that clamp. We wrote this guide because the search results for this question are mostly shop pages and 17-product lists. Below we explain what the standard is, what "compatible" really means, when you can skip it, and three example plates and clamps that the ranking pages recommend.
