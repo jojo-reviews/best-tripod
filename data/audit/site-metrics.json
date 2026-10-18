@@ -1,0 +1,21 @@
+{
+  "target": "best-tripod.com",
+  "collected": "2026-10-18",
+  "metrics": {
+    "domain_rating": {"value": 0.0, "ahrefs_rank": 180345178, "source": "Ahrefs API v3 site-explorer-domain-rating (target=best-tripod.com, date=2026-10-18)"},
+    "organic_mode_domain_us": {"org_keywords": 0, "org_keywords_1_3": 0, "org_traffic": 0, "org_cost": "unavailable (null)", "paid_keywords": 0, "source": "Ahrefs API v3 site-explorer-metrics (mode=domain, country=us, date=2026-10-18)"},
+    "organic_mode_subdomains_all_countries": {"org_keywords": 0, "org_keywords_1_3": 0, "org_traffic": 0, "org_cost": "unavailable (null)", "source": "Ahrefs API v3 site-explorer-metrics (mode=subdomains, no country, date=2026-10-18)"},
+    "backlinks_mode_domain": {"live_backlinks": 0, "all_time_backlinks": 1, "live_refdomains": 0, "all_time_refdomains": 1, "source": "Ahrefs API v3 site-explorer-backlinks-stats (mode=domain, date=2026-10-18)"}
+  },
+  "gsc": {
+    "status": "unavailable",
+    "detail": "gsc-keywords called without project_id returned error 'Either project_id or portfolio_id must be provided'. management-projects lists 50 projects visible to this API key; none is best-tripod.com, so there is no project_id to query. gsc-pages was not called for the same reason. GSC clicks/impressions/positions for the site could not be verified through Ahrefs.",
+    "source": "Ahrefs API v3 gsc-keywords, management-projects (2026-10-18)"
+  },
+  "context": {
+    "english_posts": 8,
+    "post_pub_dates": "2026-10-15 to 2026-10-18 (0-3 days old at collection)",
+    "note": "Zero organic keywords and DR 0 are consistent with a site whose posts are days old; Ahrefs crawl/index lag means this is not evidence that the pages are not indexed. Indexation was not verified (no GSC access)."
+  },
+  "api_units": {"domain_rating": 50, "metrics_domain_us": 50, "metrics_subdomains": 50, "backlinks_stats": 50, "management_projects": 0, "gsc_keywords": 0}
+}

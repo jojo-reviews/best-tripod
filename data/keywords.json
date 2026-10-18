@@ -24,7 +24,15 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-travel-tripod-for-mirrorless-camera",
-    "publishedAt": "2026-10-15T19:59:04.572Z"
+    "publishedAt": "2026-10-15T19:59:04.572Z",
+    "ahrefs": {
+      "volume": 50,
+      "kd": 3,
+      "trafficPotential": 3800,
+      "parentTopic": "best budget tripods",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -51,7 +59,18 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-tripod-for-astrophotography-under-3-pounds",
-    "productCount": 14
+    "productCount": 14,
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best tripod for astrophotography",
+        "volume": 90,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -78,7 +97,18 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
-    "productCount": 2
+    "productCount": 2,
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "carbon fiber vs aluminum tripod",
+        "volume": 60,
+        "kd": 1,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -106,7 +136,18 @@
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-phone-tripod-for-vlogging-with-remote",
     "productCount": 6,
-    "publishedAt": "2026-10-17T12:23:25.354Z"
+    "publishedAt": "2026-10-17T12:23:25.354Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "phone tripod with remote",
+        "volume": 100,
+        "kd": 1,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -132,7 +173,18 @@
     "cluster": "travel tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-tripod-that-fits-in-carry-on-luggage"
+    "slug": "best-tripod-that-fits-in-carry-on-luggage",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "carry on tripod",
+        "volume": 10,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -160,7 +212,18 @@
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-video-tripod-with-fluid-head-for-beginners",
     "productCount": 9,
-    "publishedAt": "2026-10-17T12:19:45.431Z"
+    "publishedAt": "2026-10-17T12:19:45.431Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best fluid head tripod",
+        "volume": 60,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -187,7 +250,18 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
-    "publishedAt": "2026-10-15T19:56:44.185Z"
+    "publishedAt": "2026-10-15T19:56:44.185Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best tripod head for landscape photography",
+        "volume": 200,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -214,7 +288,18 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "how-tall-should-a-tripod-be-for-my-height",
-    "publishedAt": "2026-10-15T19:56:21.376Z"
+    "publishedAt": "2026-10-15T19:56:21.376Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "how tall should a tripod be",
+        "volume": 10,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -242,7 +327,18 @@
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-tripod-for-tall-photographers-over-6-feet",
     "productCount": 5,
-    "publishedAt": "2026-10-17T13:27:39.468Z"
+    "publishedAt": "2026-10-17T13:27:39.468Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "tall camera tripod",
+        "volume": 150,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -268,7 +364,18 @@
     "cluster": "monopods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-monopod-with-feet-for-wildlife-photography"
+    "slug": "best-monopod-with-feet-for-wildlife-photography",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best monopod for wildlife photography",
+        "volume": 150,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -294,7 +401,18 @@
     "cluster": "monopods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "monopod-vs-tripod-for-sports-photography"
+    "slug": "monopod-vs-tripod-for-sports-photography",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "monopod vs tripod",
+        "volume": 350,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -321,7 +439,18 @@
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
-    "productCount": 3
+    "productCount": 3,
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "arca swiss plate",
+        "volume": 1300,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -347,7 +476,12 @@
     "cluster": "tripod plates",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-l-bracket-for-mirrorless-camera"
+    "slug": "best-l-bracket-for-mirrorless-camera",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -373,7 +507,12 @@
     "cluster": "tripod legs",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "twist-lock-vs-flip-lock-tripod-legs"
+    "slug": "twist-lock-vs-flip-lock-tripod-legs",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -401,7 +540,18 @@
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
     "slug": "best-mini-tripod-for-desk-video-calls",
     "productCount": 5,
-    "publishedAt": "2026-10-17T13:27:17.375Z"
+    "publishedAt": "2026-10-17T13:27:17.375Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "desk tripod",
+        "volume": 100,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -427,7 +577,12 @@
     "cluster": "mini tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+    "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -453,7 +608,12 @@
     "cluster": "tripod stability",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "how-to-stop-tripod-shake-in-wind"
+    "slug": "how-to-stop-tripod-shake-in-wind",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -479,7 +639,12 @@
     "cluster": "tripod load capacity",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+    "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -505,7 +670,18 @@
     "cluster": "tripod heads",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-gimbal-head-for-150-600mm-lens"
+    "slug": "best-gimbal-head-for-150-600mm-lens",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best gimbal head",
+        "volume": 50,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -531,7 +707,15 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-tripod-for-real-estate-photography"
+    "slug": "best-tripod-for-real-estate-photography",
+    "ahrefs": {
+      "volume": 150,
+      "kd": 0,
+      "trafficPotential": 100,
+      "parentTopic": "best tripod for real estate photography",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -557,7 +741,12 @@
     "cluster": "budget tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "are-cheap-tripods-worth-it-for-beginners"
+    "slug": "are-cheap-tripods-worth-it-for-beginners",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -583,7 +772,18 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "best-tripod-for-iphone-night-mode-photos"
+    "slug": "best-tripod-for-iphone-night-mode-photos",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "best tripod for iphone",
+        "volume": 1500,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -609,7 +809,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm"
+    "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -635,7 +840,18 @@
     "cluster": "tripod stability",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "tripod-center-column-up-or-down-for-landscapes"
+    "slug": "tripod-center-column-up-or-down-for-landscapes",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "tripod center column",
+        "volume": 60,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "pending",
@@ -661,7 +877,12 @@
     "cluster": "travel tripods",
     "source": "user",
     "rationale": "starter keyword list for the new site (2026-10-15): long-tail, low-competition phrasing chosen for the photographer/tripod-buyer angle; Ahrefs metrics not yet checked",
-    "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography"
+    "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
+    "ahrefs": {
+      "notInDatabase": true,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   },
   {
     "status": "published",
@@ -687,6 +908,17 @@
     "rationale": "owner request: brand comparison post",
     "source": "user",
     "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
-    "publishedAt": "2026-10-15T23:28:15.346Z"
+    "publishedAt": "2026-10-15T23:28:15.346Z",
+    "ahrefs": {
+      "notInDatabase": true,
+      "proxy": {
+        "keyword": "peak design travel tripod alternative",
+        "volume": 20,
+        "kd": 0,
+        "date": "2026-10-18"
+      },
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-18"
+    }
   }
 ]

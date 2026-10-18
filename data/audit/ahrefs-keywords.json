@@ -1,0 +1,2340 @@
+{
+  "collected": "2026-10-18",
+  "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+  "market": {
+    "country": "us",
+    "language": "en"
+  },
+  "method": "All 110 unique keywords (8 post primaries, their secondaryKeywords, all 26 keywords.json primaries and their secondaryKeywords) requested in one batch call. Ahrefs returned rows for only 26; the rest are marked 'unavailable'. Two further batch calls fetched broader head terms used as SERP proxies (reference_keywords).",
+  "summary": {
+    "inventory_keywords": 110,
+    "rows_returned": 26,
+    "with_volume_gt_0": 15,
+    "not_in_db": 84
+  },
+  "keywords": [
+    {
+      "keyword": "ball head vs pan tilt head for landscape photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "keywords.json(published):ball-head-vs-pan-tilt-head-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "ball head or pan tilt head",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "queue_secondary:ball-head-vs-pan-tilt-head-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "pan tilt vs ball head for landscapes",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "queue_secondary:ball-head-vs-pan-tilt-head-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best head type for landscape tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "queue_secondary:ball-head-vs-pan-tilt-head-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "geared head vs ball head",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [
+        "informational"
+      ],
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:ball-head-vs-pan-tilt-head-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best mini tripod for desk video calls",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:best-mini-tripod-for-desk-video-calls",
+        "keywords.json(published):best-mini-tripod-for-desk-video-calls"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "desk tripod for webcam",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 10,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:best-mini-tripod-for-desk-video-calls",
+        "queue_secondary:best-mini-tripod-for-desk-video-calls"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tabletop tripod for zoom calls",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-mini-tripod-for-desk-video-calls",
+        "queue_secondary:best-mini-tripod-for-desk-video-calls"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "mini tripod for streaming camera",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-mini-tripod-for-desk-video-calls",
+        "queue_secondary:best-mini-tripod-for-desk-video-calls"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best phone tripod for vlogging with remote",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:best-phone-tripod-for-vlogging-with-remote",
+        "keywords.json(published):best-phone-tripod-for-vlogging-with-remote"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "phone tripod with bluetooth remote",
+      "in_ahrefs_db": true,
+      "volume": 20,
+      "kd": 0,
+      "traffic_potential": 500,
+      "cpc_usd": 0.35,
+      "parent_topic": "phone tripod stand",
+      "parent_volume": 2100,
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 150,
+      "serp_features": [
+        "organic_shopping",
+        "image_th",
+        "sitelink",
+        "question",
+        "video_th"
+      ],
+      "serp_last_update": "2026-10-03T07:07:42Z",
+      "used_as": [
+        "secondary:best-phone-tripod-for-vlogging-with-remote",
+        "queue_secondary:best-phone-tripod-for-vlogging-with-remote"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "selfie stick tripod for vlogging",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:best-phone-tripod-for-vlogging-with-remote",
+        "queue_secondary:best-phone-tripod-for-vlogging-with-remote"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "iphone tripod with remote",
+      "in_ahrefs_db": true,
+      "volume": 200,
+      "kd": 98,
+      "traffic_potential": 2700,
+      "cpc_usd": 0.2,
+      "parent_topic": "selfie stick",
+      "parent_volume": 8600,
+      "intents_true": [
+        "commercial",
+        "transactional",
+        "branded"
+      ],
+      "global_volume": 250,
+      "serp_features": [
+        "organic_shopping",
+        "image_th",
+        "question",
+        "sitelink",
+        "video"
+      ],
+      "serp_last_update": "2026-08-27T18:53:56Z",
+      "used_as": [
+        "secondary:best-phone-tripod-for-vlogging-with-remote",
+        "queue_secondary:best-phone-tripod-for-vlogging-with-remote"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best travel tripod for mirrorless camera",
+      "in_ahrefs_db": true,
+      "volume": 50,
+      "kd": 3,
+      "traffic_potential": 3800,
+      "cpc_usd": 0.6,
+      "parent_topic": "best budget tripods",
+      "parent_volume": 6800,
+      "intents_true": [
+        "informational",
+        "commercial"
+      ],
+      "global_volume": 100,
+      "serp_features": [
+        "ai_overview",
+        "ai_overview_sitelink",
+        "image_th",
+        "sitelink",
+        "question",
+        "discussion",
+        "organic_shopping"
+      ],
+      "serp_last_update": "2026-09-20T17:59:59Z",
+      "used_as": [
+        "primary:best-travel-tripod-for-mirrorless-camera",
+        "keywords.json(published):best-travel-tripod-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "compact travel tripod for mirrorless",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-travel-tripod-for-mirrorless-camera",
+        "queue_secondary:best-travel-tripod-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "lightweight tripod for sony a7",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-travel-tripod-for-mirrorless-camera",
+        "queue_secondary:best-travel-tripod-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "travel tripod for fujifilm",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:best-travel-tripod-for-mirrorless-camera",
+        "queue_secondary:best-travel-tripod-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carry-on travel tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-travel-tripod-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for tall photographers over 6 feet",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:best-tripod-for-tall-photographers-over-6-feet",
+        "keywords.json(published):best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tall tripod",
+      "in_ahrefs_db": true,
+      "volume": 350,
+      "kd": 0,
+      "traffic_potential": 90,
+      "cpc_usd": 0.25,
+      "parent_topic": "tall camera tripod",
+      "parent_volume": 150,
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 700,
+      "serp_features": [
+        "organic_shopping",
+        "image_th",
+        "image",
+        "sitelink",
+        "question",
+        "news",
+        "video_th",
+        "discussion"
+      ],
+      "serp_last_update": "2026-08-24T07:17:05Z",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod for tall people",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 20,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod for 6'4 photographer",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "extra tall camera tripod",
+      "in_ahrefs_db": true,
+      "volume": 30,
+      "kd": 0,
+      "traffic_potential": 20,
+      "cpc_usd": 0.4,
+      "parent_topic": "extra tall camera tripod",
+      "parent_volume": 30,
+      "intents_true": [
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 50,
+      "serp_features": [
+        "sitelink",
+        "organic_shopping",
+        "image_th",
+        "question",
+        "discussion"
+      ],
+      "serp_last_update": "2026-09-16T18:34:37Z",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet",
+        "queue_secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod height without center column",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet",
+        "secondary:how-tall-should-a-tripod-be-for-my-height",
+        "queue_secondary:how-tall-should-a-tripod-be-for-my-height"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tall tripod for camera",
+      "in_ahrefs_db": true,
+      "volume": 70,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 100,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet",
+        "queue_secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod that reaches eye level",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-tripod-for-tall-photographers-over-6-feet",
+        "queue_secondary:best-tripod-for-tall-photographers-over-6-feet"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best video tripod with fluid head for beginners",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:best-video-tripod-with-fluid-head-for-beginners",
+        "keywords.json(published):best-video-tripod-with-fluid-head-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "beginner fluid head tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-video-tripod-with-fluid-head-for-beginners",
+        "queue_secondary:best-video-tripod-with-fluid-head-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "affordable video tripod with fluid head",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-video-tripod-with-fluid-head-for-beginners",
+        "queue_secondary:best-video-tripod-with-fluid-head-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "fluid head tripod for mirrorless video",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:best-video-tripod-with-fluid-head-for-beginners",
+        "queue_secondary:best-video-tripod-with-fluid-head-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "how tall should a tripod be for my height",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:how-tall-should-a-tripod-be-for-my-height",
+        "keywords.json(published):how-tall-should-a-tripod-be-for-my-height"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod height for tall person",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:how-tall-should-a-tripod-be-for-my-height",
+        "queue_secondary:how-tall-should-a-tripod-be-for-my-height"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "eye level tripod height chart",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:how-tall-should-a-tripod-be-for-my-height",
+        "queue_secondary:how-tall-should-a-tripod-be-for-my-height"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "what height tripod do i need",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 10,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "secondary:how-tall-should-a-tripod-be-for-my-height"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod vs manfrotto befree advanced",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume. Re-requested in a 2nd call, still no row.",
+      "used_as": [
+        "primary:peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+        "keywords.json(published):peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod vs befree",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+        "queue_secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "manfrotto befree advanced vs peak design",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+        "queue_secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design or manfrotto travel tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+        "queue_secondary:peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for astrophotography under 3 pounds",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-tripod-for-astrophotography-under-3-pounds"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "lightweight tripod for milky way photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-astrophotography-under-3-pounds"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "astrophotography tripod for hiking",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-astrophotography-under-3-pounds"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "light tripod for night sky photos",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-astrophotography-under-3-pounds"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carbon fiber vs aluminum tripod for hiking",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:carbon-fiber-vs-aluminum-tripod-for-hiking"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "is carbon fiber tripod worth it",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.0,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:carbon-fiber-vs-aluminum-tripod-for-hiking"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carbon fiber tripod vs aluminum weight",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:carbon-fiber-vs-aluminum-tripod-for-hiking"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "aluminum tripod for backpacking",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:carbon-fiber-vs-aluminum-tripod-for-hiking"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod that fits in carry on luggage",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-tripod-that-fits-in-carry-on-luggage"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carry on size tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-that-fits-in-carry-on-luggage"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod for airline carry on",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-that-fits-in-carry-on-luggage"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "short folding travel tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-that-fits-in-carry-on-luggage"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best monopod with feet for wildlife photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-monopod-with-feet-for-wildlife-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "video monopod with feet for telephoto lens",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-monopod-with-feet-for-wildlife-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "monopod for 150-600mm lens",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-monopod-with-feet-for-wildlife-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "self standing monopod for birding",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-monopod-with-feet-for-wildlife-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "monopod vs tripod for sports photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:monopod-vs-tripod-for-sports-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "when to use a monopod instead of a tripod",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.0,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:monopod-vs-tripod-for-sports-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "monopod for sideline photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:monopod-vs-tripod-for-sports-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "monopod or tripod for long lens",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:monopod-vs-tripod-for-sports-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "what is an arca swiss plate and do i need one",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:what-is-an-arca-swiss-plate-and-do-i-need-one"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "arca swiss compatible quick release plate",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.9,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 20,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:what-is-an-arca-swiss-plate-and-do-i-need-one"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "arca swiss vs manfrotto plate",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:what-is-an-arca-swiss-plate-and-do-i-need-one"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "universal quick release plate for tripod",
+      "in_ahrefs_db": true,
+      "volume": 70,
+      "kd": 0,
+      "traffic_potential": 60,
+      "cpc_usd": 0.35,
+      "parent_topic": "tripod quick release plate",
+      "parent_volume": 450,
+      "intents_true": [
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 90,
+      "serp_features": [
+        "organic_shopping",
+        "image_th",
+        "question",
+        "sitelink",
+        "video_th"
+      ],
+      "serp_last_update": "2026-10-13T07:07:34Z",
+      "used_as": [
+        "queue_secondary:what-is-an-arca-swiss-plate-and-do-i-need-one"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best l bracket for mirrorless camera",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-l-bracket-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "arca swiss l bracket for sony",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-l-bracket-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "universal l bracket for camera",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 20,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:best-l-bracket-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "l plate for vertical shooting",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-l-bracket-for-mirrorless-camera"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "twist lock vs flip lock tripod legs",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:twist-lock-vs-flip-lock-tripod-legs"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "twist lock tripod vs lever lock",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:twist-lock-vs-flip-lock-tripod-legs"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "flip lock tripod legs pros and cons",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:twist-lock-vs-flip-lock-tripod-legs"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod leg lock type",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.0,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:twist-lock-vs-flip-lock-tripod-legs"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "flexible tripod vs mini tripod for travel vlogging",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "gorillapod vs mini tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "bendable tripod for vlogging",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "pocket tripod for travel",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "how to stop tripod shake in wind",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:how-to-stop-tripod-shake-in-wind"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod stability in wind",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-stop-tripod-shake-in-wind"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod hook weight bag",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-stop-tripod-shake-in-wind"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "sharp photos on windy days tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-stop-tripod-shake-in-wind"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "how to choose a tripod for a heavy telephoto lens",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod load capacity for 100-400mm",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod for 70-200mm f2.8",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod collar lens mounting",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best gimbal head for 150-600mm lens",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-gimbal-head-for-150-600mm-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "gimbal head for bird photography",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [
+        "informational",
+        "commercial",
+        "transactional"
+      ],
+      "global_volume": 40,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:best-gimbal-head-for-150-600mm-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "wimberley style gimbal head",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-gimbal-head-for-150-600mm-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "gimbal head for heavy telephoto",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-gimbal-head-for-150-600mm-lens"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for real estate photography",
+      "in_ahrefs_db": true,
+      "volume": 150,
+      "kd": 0,
+      "traffic_potential": 100,
+      "cpc_usd": 0.45,
+      "parent_topic": "best tripod for real estate photography",
+      "parent_volume": 150,
+      "intents_true": [
+        "informational",
+        "commercial"
+      ],
+      "global_volume": 250,
+      "serp_features": [
+        "ai_overview",
+        "ai_overview_sitelink",
+        "image_th",
+        "sitelink",
+        "question",
+        "video_th",
+        "organic_shopping"
+      ],
+      "serp_last_update": "2026-09-20T20:48:30Z",
+      "used_as": [
+        "queue_primary:best-tripod-for-real-estate-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod for interior photography",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 10,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:best-tripod-for-real-estate-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod with leveling base for real estate",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-real-estate-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tall tripod for real estate photos",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-real-estate-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "are cheap tripods worth it for beginners",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:are-cheap-tripods-worth-it-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "budget tripod for beginners",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.0,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:are-cheap-tripods-worth-it-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "what to look for in a cheap tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:are-cheap-tripods-worth-it-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "inexpensive tripod for dslr",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:are-cheap-tripods-worth-it-for-beginners"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for iphone night mode photos",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:best-tripod-for-iphone-night-mode-photos"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "iphone tripod for long exposure",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-iphone-night-mode-photos"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "phone tripod for astrophotography",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.2,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": [],
+      "global_volume": 30,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:best-tripod-for-iphone-night-mode-photos"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "sturdy phone tripod for night photos",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:best-tripod-for-iphone-night-mode-photos"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "video tripod bowl size explained 75mm vs 100mm",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:video-tripod-bowl-size-explained-75mm-vs-100mm"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod bowl mount sizes",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:video-tripod-bowl-size-explained-75mm-vs-100mm"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "half ball adapter for tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:video-tripod-bowl-size-explained-75mm-vs-100mm"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "flat base vs bowl base tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:video-tripod-bowl-size-explained-75mm-vs-100mm"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod center column up or down for landscapes",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:tripod-center-column-up-or-down-for-landscapes"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "should i extend tripod center column",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:tripod-center-column-up-or-down-for-landscapes"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod without center column",
+      "in_ahrefs_db": true,
+      "volume": 10,
+      "kd": 0,
+      "traffic_potential": 0,
+      "cpc_usd": 0.3,
+      "parent_topic": "tripod without center column",
+      "parent_volume": 10,
+      "intents_true": [
+        "informational",
+        "commercial"
+      ],
+      "global_volume": 30,
+      "serp_features": [
+        "ai_overview",
+        "ai_overview_sitelink",
+        "video_th",
+        "sitelink",
+        "video",
+        "organic_shopping",
+        "image_th"
+      ],
+      "serp_last_update": "2026-09-22T15:41:40Z",
+      "used_as": [
+        "queue_secondary:tripod-center-column-up-or-down-for-landscapes"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "short center column tripod",
+      "in_ahrefs_db": true,
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 0.0,
+      "parent_topic": "unavailable",
+      "parent_volume": "unavailable",
+      "intents_true": "unavailable",
+      "global_volume": 0,
+      "serp_features": [],
+      "serp_last_update": "unavailable",
+      "used_as": [
+        "queue_secondary:tripod-center-column-up-or-down-for-landscapes"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "travel tripod vs full size tripod for landscape photography",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_primary:travel-tripod-vs-full-size-tripod-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "compact vs full size tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:travel-tripod-vs-full-size-tripod-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "is a travel tripod enough for landscapes",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:travel-tripod-vs-full-size-tripod-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "travel tripod stability vs standard tripod",
+      "in_ahrefs_db": false,
+      "volume": "unavailable",
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "note": "Requested in keywords-explorer-overview; Ahrefs returned no row (keyword not in Ahrefs US keyword database). Not the same as a confirmed 0 volume.",
+      "used_as": [
+        "queue_secondary:travel-tripod-vs-full-size-tripod-for-landscape-photography"
+      ],
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    }
+  ],
+  "reference_keywords": [
+    {
+      "keyword": "best tripod for astrophotography",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 90,
+      "kd": 0,
+      "traffic_potential": 150,
+      "cpc_usd": 0.45,
+      "parent_topic": "astrophotography tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carry on tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 10,
+      "kd": 0,
+      "traffic_potential": 70,
+      "cpc_usd": "unavailable",
+      "parent_topic": "carry on tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "arca swiss plate",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 1300,
+      "kd": 0,
+      "traffic_potential": 500,
+      "cpc_usd": 0.4,
+      "parent_topic": "arca swiss plate",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best monopod for wildlife photography",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 150,
+      "kd": 0,
+      "traffic_potential": 60,
+      "cpc_usd": 0.3,
+      "parent_topic": "best monopod for wildlife photography",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best l bracket",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best phone tripod for vlogging",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 10,
+      "kd": 0,
+      "traffic_potential": 90,
+      "cpc_usd": "unavailable",
+      "parent_topic": "best tripod for vlogging",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "how tall should a tripod be",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 10,
+      "kd": 0,
+      "traffic_potential": 10,
+      "cpc_usd": "unavailable",
+      "parent_topic": "tripod height",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod vs manfrotto befree",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod center column",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 60,
+      "kd": 0,
+      "traffic_potential": 20,
+      "cpc_usd": 0.25,
+      "parent_topic": "tripod center column",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "ball head vs pan tilt head",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "ball head vs pan tilt",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "twist lock vs flip lock tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for tall person",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": 1.2,
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best mini tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 150,
+      "kd": 1,
+      "traffic_potential": 150,
+      "cpc_usd": 0.45,
+      "parent_topic": "chipotle crispy tacos",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best gimbal head",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 50,
+      "kd": 0,
+      "traffic_potential": 70,
+      "cpc_usd": 0.35,
+      "parent_topic": "gimbal tripod head",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod for iphone",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 1500,
+      "kd": 0,
+      "traffic_potential": 2000,
+      "cpc_usd": 0.25,
+      "parent_topic": "best tripod for iphone",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "monopod vs tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 350,
+      "kd": 0,
+      "traffic_potential": 100,
+      "cpc_usd": 0.09,
+      "parent_topic": "monopod vs tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "carbon fiber vs aluminum tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 60,
+      "kd": 1,
+      "traffic_potential": 70,
+      "cpc_usd": 0.1,
+      "parent_topic": "aluminum vs carbon fiber tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best video tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 150,
+      "kd": 6,
+      "traffic_potential": 450,
+      "cpc_usd": 0.5,
+      "parent_topic": "video tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "desk tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 100,
+      "kd": 0,
+      "traffic_potential": 70,
+      "cpc_usd": 0.25,
+      "parent_topic": "table top tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best tripod head for landscape photography",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 200,
+      "kd": 0,
+      "traffic_potential": 10,
+      "cpc_usd": 0.45,
+      "parent_topic": "acratech ball head",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "webcam tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 250,
+      "kd": 0,
+      "traffic_potential": 50,
+      "cpc_usd": 0.15,
+      "parent_topic": "webcam tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best fluid head tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 60,
+      "kd": 0,
+      "traffic_potential": 100,
+      "cpc_usd": 0.35,
+      "parent_topic": "fluid head tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "vlogging tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 200,
+      "kd": 0,
+      "traffic_potential": 0,
+      "cpc_usd": 0.2,
+      "parent_topic": "best vlogging tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 3800,
+      "kd": 3,
+      "traffic_potential": 4300,
+      "cpc_usd": 0.5,
+      "parent_topic": "peak design tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tripod height",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 30,
+      "kd": 0,
+      "traffic_potential": 10,
+      "cpc_usd": "unavailable",
+      "parent_topic": "tripod height",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "best travel tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 1300,
+      "kd": 6,
+      "traffic_potential": 3900,
+      "cpc_usd": 0.45,
+      "parent_topic": "best travel tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "phone tripod for vlogging",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 40,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "ball head vs 3 way head",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod alternative",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 20,
+      "kd": 0,
+      "traffic_potential": 10,
+      "cpc_usd": 1.0,
+      "parent_topic": "peak design travel tripod alternative",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "peak design travel tripod vs",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "tall camera tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 150,
+      "kd": 0,
+      "traffic_potential": 100,
+      "cpc_usd": 0.25,
+      "parent_topic": "tall tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "phone tripod with remote",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 100,
+      "kd": 1,
+      "traffic_potential": 9000,
+      "cpc_usd": 0.2,
+      "parent_topic": "phone tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "pan tilt head vs ball head",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 0,
+      "kd": "unavailable",
+      "traffic_potential": "unavailable",
+      "cpc_usd": "unavailable",
+      "parent_topic": "unavailable",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "manfrotto befree advanced",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 450,
+      "kd": 1,
+      "traffic_potential": 300,
+      "cpc_usd": 0.4,
+      "parent_topic": "manfrotto befree advanced",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    },
+    {
+      "keyword": "fluid head tripod",
+      "purpose": "reference/proxy head term (not in site inventory)",
+      "volume": 900,
+      "kd": 0,
+      "traffic_potential": 150,
+      "cpc_usd": 0.25,
+      "parent_topic": "fluid head tripod",
+      "source": "Ahrefs API v3 keywords-explorer-overview (country=us)",
+      "collected": "2026-10-18"
+    }
+  ],
+  "reference_keywords_not_returned": [
+    "are cheap tripods worth it",
+    "ball head vs pan tilt head for landscape photography",
+    "best mini tripod for desk video calls",
+    "best phone tripod for vlogging with remote",
+    "best tripod for tall photographers over 6 feet",
+    "best video tripod for beginners",
+    "best video tripod with fluid head for beginners",
+    "flexible tripod vs mini tripod",
+    "how tall should a tripod be for my height",
+    "how to stop tripod shake",
+    "peak design travel tripod vs manfrotto befree advanced",
+    "travel tripod vs full size tripod",
+    "tripod for heavy telephoto lens",
+    "tripod for zoom calls",
+    "video tripod bowl size"
+  ],
+  "data_anomalies": [
+    {
+      "keyword": "best mini tripod",
+      "issue": "Ahrefs parent_topic returned as 'chipotle crispy tacos' - clearly a data error; parent topic ignored."
+    },
+    {
+      "keyword": "iphone tripod with remote",
+      "issue": "KD 98 with branded=true and parent topic 'selfie stick' (vol 8600) - inconsistent with sibling 'phone tripod with remote' (KD 1). Recorded as returned; treat as low-confidence."
+    },
+    {
+      "keyword": "best travel tripod for mirrorless camera",
+      "issue": "parent_topic 'best budget tripods' (vol 6800) while SERP #1 organic is packhacker 'best travel tripod' page; traffic_potential 3800 reflects that page's traffic, not this long-tail phrase."
+    }
+  ],
+  "api_units": {
+    "call1_inventory": 1690,
+    "call2_reference": 774,
+    "call3_reference": 774
+  }
+}

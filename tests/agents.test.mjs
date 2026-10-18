@@ -68,6 +68,11 @@ test('a keyword with data inside the caps and no overlap passes', () => {
   assert.equal(keywordGate({ keyword: 'quiet zebra keyword phrase', ahrefs: { volume: 40, kd: 0 } }, []), null);
 });
 
+test('a long-tail keyword Ahrefs does not have passes only with a measurable proxy', { skip: SITE.keywordRules?.requireAhrefs === false && 'requireAhrefs is off in site.config.json' }, () => {
+  assert.equal(keywordGate({ keyword: 'quiet zebra keyword phrase', ahrefs: { notInDatabase: true } }, [])?.status, 'parked');
+  assert.equal(keywordGate({ keyword: 'quiet zebra keyword phrase', ahrefs: { notInDatabase: true, proxy: { keyword: 'zebra keyword', volume: 90, kd: 4 } } }, []), null);
+});
+
 test('keywords the owner supplied skip the gate', () => {
   assert.equal(keywordGate({ keyword: 'anything', source: 'user' }, []), null);
 });

@@ -62,10 +62,16 @@ export function keywordGate(q, posts = listPosts()) {
   const rules = SITE.keywordRules ?? {};
   const cap = rules.maxVolume ?? 250;
   const a = q.ahrefs ?? {};
-  if (rules.requireAhrefs !== false && (typeof a.volume !== 'number' || typeof a.kd !== 'number'))
-    return { status: 'needs-data', lastError: 'no Ahrefs volume/KD recorded (run keywords-explorer-overview, US) — not selectable until it has data' };
-  if (a.volume > cap) return { status: 'parked', lastError: `volume ${a.volume} > ${cap} cap` };
-  if (typeof rules.maxKd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
+  const measured = typeof a.volume === 'number' && typeof a.kd === 'number';
+  // Many long-tail phrases are not in Ahrefs' database (not the same as zero searches). Those
+  // need a recorded proxy: the closest broader keyword with real Ahrefs volume, checked on its SERP.
+  const proxied = a.notInDatabase === true && typeof a.proxy?.volume === 'number' && a.proxy.volume > 0;
+  if (rules.requireAhrefs !== false && !measured && !proxied)
+    return a.notInDatabase === true
+      ? { status: 'parked', lastError: 'not in Ahrefs database and no proxy keyword with measurable demand' }
+      : { status: 'needs-data', lastError: 'no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked' };
+  if (measured && a.volume > cap) return { status: 'parked', lastError: `volume ${a.volume} > ${cap} cap` };
+  if (measured && typeof rules.maxKd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
   const clash = findCannibal(q, posts);
   if (clash) return { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` };
   return null;

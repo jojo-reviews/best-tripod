@@ -105,7 +105,8 @@ if (cmd === 'status') {
   picked.sort((a, b) => a - b);
   out({ quotaToday: q.quota, publishedToday: done, pubDates: picked.map((t) => new Date(t).toISOString()) });
 } else if (cmd === 'set-ahrefs') {
-  // Records real Ahrefs metrics on queued keywords: file = [{keyword, volume, kd, trafficPotential?, parentTopic?, date?}].
+  // Records real Ahrefs metrics on queued keywords: file = [{keyword, volume, kd, trafficPotential?, parentTopic?, date?}]
+  // or [{keyword, notInDatabase: true, proxy?: {keyword, volume, kd}}] for phrases Ahrefs doesn't have.
   // A keyword waiting as needs-data goes back to pending (routine.mjs next re-applies the gate).
   const rows = JSON.parse(fs.readFileSync(arg, 'utf8'));
   const queue = loadQueue();
@@ -113,8 +114,15 @@ if (cmd === 'status') {
   const updated = [];
   for (const r of rows) {
     const q = byKw.get(String(r.keyword).toLowerCase());
-    if (!q || typeof r.volume !== 'number' || typeof r.kd !== 'number') continue;
-    q.ahrefs = { ...(q.ahrefs ?? {}), volume: r.volume, kd: r.kd, trafficPotential: r.trafficPotential ?? q.ahrefs?.trafficPotential, parentTopic: r.parentTopic ?? q.ahrefs?.parentTopic, source: 'ahrefs keywords-explorer-overview us', date: r.date ?? new Date().toISOString().slice(0, 10) };
+    if (!q) continue;
+    const date = r.date ?? new Date().toISOString().slice(0, 10);
+    const source = 'ahrefs keywords-explorer-overview us';
+    if (typeof r.volume === 'number' && typeof r.kd === 'number') {
+      q.ahrefs = { volume: r.volume, kd: r.kd, trafficPotential: r.trafficPotential, parentTopic: r.parentTopic, source, date };
+    } else if (r.notInDatabase === true) {
+      // Not in Ahrefs' database: keep a proxy (closest broader keyword with real data) if there is one.
+      q.ahrefs = { notInDatabase: true, proxy: typeof r.proxy?.volume === 'number' ? r.proxy : undefined, source, date };
+    } else continue;
     if (q.status === 'needs-data') {
       q.status = 'pending';
       delete q.lastError;
