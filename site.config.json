@@ -199,6 +199,26 @@
       ],
       "image": null,
       "sameAs": []
+    },
+    {
+      "slug": "damian-barczak",
+      "type": "Person",
+      "name": "Damian Barczak",
+      "role": "Photographer and guide reviewer",
+      "bio": "Damian Barczak is a photographer based in Licheń Stary, Poland, and runs Fotografia Damian Barczak, shooting weddings, portraits and automotive work. Damian's photos are published on Unsplash and Pexels as barczakshoots. Damian reviews the Best Tripod guides that carry this name for how tripods, heads and plates behave on real shoots.",
+      "expertise": [
+        "Wedding and event photography",
+        "Portrait photography",
+        "Automotive photography",
+        "Camera support on location"
+      ],
+      "image": null,
+      "sameAs": [
+        "https://www.instagram.com/barczak_fotografia/",
+        "https://www.facebook.com/p/Barczak-Fotografia-100063439075595/",
+        "https://unsplash.com/@barczakshoots",
+        "https://www.pexels.com/@barczakshoots/"
+      ]
     }
   ],
   "indexing": {

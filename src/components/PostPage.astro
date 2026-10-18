@@ -58,6 +58,7 @@ const author = {
   bio: tOr(lang, `author.${baseAuthor.slug}.bio`, baseAuthor.bio),
 };
 const authorUrl = `/authors/${author.slug}/`;
+const reviewer = d.reviewedBy ? getAuthor(d.reviewedBy) : null;
 const heroPhoto = d.photos.find((p) => p.placement === 'hero');
 const hero = d.heroImage ?? heroPhoto?.url;
 const heroPick = d.products.find((p) => p.image?.url);
@@ -101,6 +102,16 @@ const jsonLd: object[] = [
     publisher: { '@id': absUrl('/#organization') },
     ...(ownerReads > 0 || reviewPool > 0 ? { backstory: researchNote } : {}),
   },
+  ...(reviewer
+    ? [{
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        '@id': `${url}#webpage`,
+        url,
+        reviewedBy: authorSchema(reviewer),
+        ...(d.reviewedDate ? { lastReviewed: d.reviewedDate.toISOString() } : {}),
+      }]
+    : []),
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -154,7 +165,7 @@ if (d.products.length) {
       <div class="byline">
         <div class="who">
           <span class="avatar">{(author.image || author.type !== 'Person') ? <img src={author.image ?? '/favicon.svg'} alt="" width="40" height="40" /> : initials(author.name)}</span>
-          <span>{t(lang, 'post.by')} <a href={authorUrl} rel="author">{author.name}</a></span>
+          <span>{t(lang, 'post.by')} <a href={authorUrl} rel="author">{author.name}</a>{reviewer && <Fragment> · {tOr(lang, 'post.reviewedBy', 'Reviewed by')} <a href={`/authors/${reviewer.slug}/`}>{reviewer.name}</a></Fragment>}</span>
         </div>
         <div class="facts">
           <span>{t(lang, 'post.updated')} <time datetime={modified.toISOString()}>{fmtDate(modified)}</time></span>

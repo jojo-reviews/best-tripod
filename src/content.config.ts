@@ -68,6 +68,8 @@ const blog = defineCollection({
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     related: z.array(z.string()).default([]),
     author: z.string().default('editorial-team'),
+    // Author slug of a named person who actually reviewed this guide (set only after they did).
+    reviewedBy: z.string().optional(),
     reviewedDate: z.coerce.date().optional(),
     // true when the post retells a real story from data/stories.json
     ownerStory: z.boolean().optional(),

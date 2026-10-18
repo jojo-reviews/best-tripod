@@ -301,3 +301,6 @@ content only) and run SERP-style searches with `mcp__Firecrawl__firecrawl_search
 JavaScript and passes most bot walls, so SERP pages, maker spec pages and retailer pages are read in full
 instead of guessed from snippets. WebFetch/WebSearch are the fallback. The connector needs no key in the
 repo or GitHub secrets; never write an API key into any file.
+
+## Named reviewer (Damian Barczak)
+`reviewedBy: damian-barczak` (with `reviewedDate`) goes on a post ONLY after the owner confirms Damian actually read and checked that post; agents never add it on their own. The post then shows "Reviewed by Damian Barczak" and a WebPage `reviewedBy` Person in JSON-LD, and it is listed on /authors/damian-barczak/. Damian's corrections are applied first; first-hand notes from Damian may go in the "From our notes" block, attributed to Damian. The author photo stays the initials avatar until Damian sends a photo of Damian (never a stock or client photo).
