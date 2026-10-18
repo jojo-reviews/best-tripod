@@ -103,8 +103,8 @@ export async function renderFeatured(post, { dir = OUT_DIR, urlBase = '/images/f
 /** Share images for the brand index and each brand page (/brands/, /brand/<slug>/). */
 export function brandPages() {
   return [
-    { slug: 'brands', title: 'Tripod brands: picks and buying guides by brand', kicker: 'Tripod brands', label: 'Brands', iconName: 'tripod' },
-    ...(SITE.brands ?? []).map((b) => ({ slug: `brand-${b.slug}`, title: `${b.name} tripods: picks and buying guides`, kicker: 'Tripod brands', label: 'Brand', iconName: 'tripod' })),
+    { slug: 'brands', title: 'Tripod brands – picks and buying guides by brand', kicker: 'Tripod brands', label: 'Brands', iconName: 'tripod' },
+    ...(SITE.brands ?? []).map((b) => ({ slug: `brand-${b.slug}`, title: `${b.name} tripods – picks and buying guides`, kicker: 'Tripod brands', label: 'Brand', iconName: 'tripod' })),
   ];
 }
 
@@ -113,9 +113,9 @@ export async function renderPageImages() {
   const dir = path.join(ROOT, 'public/images/og');
   const pages = [
     { slug: 'home', title: 'The right tripod for your camera, your bag and your shot', kicker: 'Honest tripod buying guides', label: 'Spec-checked', iconName: 'tripod' },
-    { slug: 'tripod-buying-checklist', title: `The ${SITE.name} Buying Checklist: 20 things to check`, kicker: "Free buyer's tool", label: 'Checklist', iconName: 'check' },
+    { slug: 'tripod-buying-checklist', title: `The ${SITE.name} Buying Checklist – 20 things to check`, kicker: "Free buyer's tool", label: 'Checklist', iconName: 'check' },
     { slug: 'blog', title: 'Every tripod, monopod and head buying guide', kicker: 'All guides', label: 'Guides', iconName: 'tripod' },
-    ...SITE.categories.map((c) => ({ slug: `category-${c.slug}`, title: `${c.name}: buying guides and picks`, kicker: c.name, category: c.slug, label: 'Category' })),
+    ...SITE.categories.map((c) => ({ slug: `category-${c.slug}`, title: `${c.name} – buying guides and picks`, kicker: c.name, category: c.slug, label: 'Category' })),
     ...brandPages(),
   ];
   for (const p of pages) await renderFeatured(p, { dir, urlBase: '/images/og' });
