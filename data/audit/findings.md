@@ -63,3 +63,6 @@ Cannibalization method: main keyword, parent topic and shared top-10 URLs per pa
 - "best mini tripod": parent topic "chipotle crispy tacos" (Ahrefs error; ignored).
 - "iphone tripod with remote": KD 98, brand-flagged, parent "selfie stick" (low confidence).
 - Travel keyword TP 3,800 is the #1 page's traffic (Pack Hacker, ranking mainly for "best travel tripod"), not demand for the exact phrase.
+
+## Correction (2026-10-18, after the audit)
+Confirmed issue 2 was wrong: the travel post's frontmatter already lists all 15 products with ASINs and Top Picks, and it already had 5 FAQs (issue 3 also wrong). The 7 products the audit named were re-checked against Amazon US (amazon-search run 39115464341) and marked asinVerified. Added: 3 People-also-ask FAQs, "best travel tripod" as a secondary keyword; "tripod height without center column" now belongs only to the how-tall post.

@@ -12,7 +12,6 @@ secondaryKeywords:
   - tripod for tall people
   - tripod for 6'4 photographer
   - extra tall camera tripod
-  - tripod height without center column
   - tall tripod for camera
   - tripod that reaches eye level
 entities:

@@ -22,7 +22,7 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Spot-checked via web search against retailer/maker pages (Glazer's, Park Cameras, Gitzo, Adorama, Wex, Selfridges, Have Camera Will Travel, Castle Cameras, Photospecialist, LDLC/Galaxus, 3 Legged Thing): Peak Design carbon (2.81 lb, 20 lb, 15.5 in, 51.25/60 in) and aluminum (3.44 lb) confirmed; Gitzo GT1555T (1.03 kg, 35.5 cm, 10 kg, 121 cm column down, 138 cm max) confirmed; Befree Advanced (1.27 kg, 41 cm, 9 kg vs 8 kg, 150 cm) confirmed with conflict noted; Sirui 5C (4 kg, 138 cm) confirmed, fold 31.5-33 cm and weight 850-895 g softened to check the listing; Sirui 7C (8 kg, 166.5-171 cm, 46.5-48 cm) confirmed with conflicts noted; Travis 2.0 load/height/fold confirmed, weight unverified so hedged. Removed non-picked product sentences, fixed unit conversions (53.5 in, 3.4 lb, seven column-down figures), softened carry-on, eye-level and 70-200 weight claims.",
-    "at": "2026-10-15T19:58:37.919Z"
+    "notes": "2026-10-18 audit fixes: post already had all 15 products (audit finding stale). Re-checked 7 ASINs via amazon-search workflow (Amazon US PA-API titles): Sirui 7A B07KD274QV, Gitzo GT1555T B016NSFU2U, Leofoto LS-224CX+LH-25LR B0DQKY998S, Vanguard VEO3GO235CB B0831RXR9P (original, not G2), 3LT Punks Travis 2.0 B09CDVH6R4, K&F 64in B0B1HYVVTV, Ulanzi F38 B0BXD5YJC5; set asinVerified. Added 3 PAA FAQs built only from figures already verified in this post (Peak Design 20 lb/15.5 in/51.25 in, Sirui 5C ~850 g/33 cm/4 kg, Travis 18 kg at 23 deg, VEO/5C/Benro Slim ~33 cm, Gitzo 14 in/22 lb legs only, Leofoto ~0.9 kg/~114 cm). Added secondary keyword 'best travel tripod'. No prices, no testing claims.",
+    "at": "2026-10-18T09:30:02.585Z"
   }
 }

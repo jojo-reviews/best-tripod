@@ -12,6 +12,7 @@ secondaryKeywords:
   - lightweight tripod for sony a7
   - travel tripod for fujifilm
   - carry-on travel tripod
+  - best travel tripod
 entities:
   - travel tripod
   - mirrorless camera
@@ -585,6 +586,7 @@ products:
           url: >-
             https://www.review-rating.com/en/product/sirui-traveler-7a-aluminum-camera-77746
     asin: B07KD274QV
+    asinVerified: true
     amazonTitle: >-
       SIRUI Traveler 7A 65.55'' Aluminum Camera Tripod, E-10 Panorama Ball Head
       and Arca Swiss Quick Release Plate
@@ -643,6 +645,7 @@ products:
         - title: 'Adorama: Gitzo GT1555T buyer reviews'
           url: 'https://www.adorama.com/gzgt1555t.html'
     asin: B016NSFU2U
+    asinVerified: true
     amazonTitle: >-
       Gitzo GT1555T Traveler Tripod - Compact, Foldable and Light with Short
       Column
@@ -698,6 +701,7 @@ products:
             https://leofotousa.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set
           reviews: 1
     asin: B0DQKY998S
+    asinVerified: true
     amazonTitle: LEOFOTO 45" Carbon Fiber Compact Tripod 360° Ball Head LS-224CX+LH-25LR
     matchName: Leofoto LS-224CX LH-25LR
   - name: Vanguard VEO 3 GO 235CB
@@ -742,6 +746,7 @@ products:
         - title: 'Digital Camera World: Vanguard VEO 3GO 235CB review'
           url: 'https://digitalcameraworld.com/reviews/vanguard-veo-3go-235cb-review'
     asin: B0831RXR9P
+    asinVerified: true
     amazonTitle: >-
       Vanguard VEO3GO235CB Compact Carbon Fiber Travel Tripod with Ball Head,
       Monopod Option
@@ -791,6 +796,7 @@ products:
           url: >-
             https://photobite.uk/the-measure/themeasure-3-legged-thing-travis-2-0-tripod-review-the-punk-got-an-upgrade/
     asin: B09CDVH6R4
+    asinVerified: true
     amazonTitle: 3 Legged Thing Punks Travis 2.0 Magnesium Alloy General Use Tripod
   - name: K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head
     brand: K&F Concept
@@ -850,6 +856,7 @@ products:
         - title: 'ShopSavvy review summary: K&F Concept 64" tripod'
           url: 'https://www.shopsavvy.com/reviews-tldr/kandf-concept-64"-tripod'
     asin: B0B1HYVVTV
+    asinVerified: true
     amazonTitle: >-
       K&F Concept 64 inch/163cm Lightweight Aluminum Travel Camera Tripod |
       Compact and Portable, 360° Ball Head
@@ -904,6 +911,7 @@ products:
           url: >-
             https://www.bhphotovideo.com/c/product/1835224-REG/ulanzi_3131_zero_f38_quick_release.html
     asin: B0BXD5YJC5
+    asinVerified: true
     amazonTitle: >-
       ULANZI F38 Carbon Fiber Video Travel Tripod, 61.4in | F38 Quick Release
       Plate
@@ -1031,6 +1039,27 @@ faqs:
       Yes for most landscape work, if you keep the center column down, stay
       within about half the rated load, hang a bag from the ballast hook where
       there is one, and use a timer or remote for long exposures.
+  - q: What is the best tripod for a mirrorless camera?
+    a: >-
+      For most full-frame mirrorless travel kits, our pick is the Peak Design
+      Travel Tripod (Carbon Fiber): a 20 lb (9.1 kg) rated load, a 15.5-inch
+      fold and 51.25 inches of height with the column down. For a light APS-C
+      kit, the Sirui Traveler 5C (about 850 g, 33 cm folded) saves weight, and
+      for heavy telephoto lenses the 3 Legged Thing Punks Travis 2.0 is rated to
+      18 kg at its narrowest leg angle.
+  - q: What is the best camera tripod for travel?
+    a: >-
+      The one that fits your bag and your heaviest lens. If pack size comes
+      first, the Vanguard VEO 3 GO 235CB, Sirui Traveler 5C and Benro Slim fold
+      to about 33 cm; the Gitzo GT1555T folds to 14 inches with a 22 lb rating
+      but is sold as legs only; and the Benro Slim is our budget pick with a
+      ball head and case included.
+  - q: What is the lightest travel tripod in this guide?
+    a: >-
+      The Sirui Traveler 5C, at about 850 g on Sirui's own store, and the
+      Leofoto LS-224CX Ranger, at about 0.9 kg with its ball head. Both suit
+      light kits only: the Sirui is rated 4 kg and the Leofoto tops out at about
+      114 cm, well below eye level for most adults.
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-

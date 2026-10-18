@@ -609,6 +609,7 @@ products:
           url: >-
             https://www.review-rating.com/en/product/sirui-traveler-7a-aluminum-camera-77746
     asin: B07KD274QV
+    asinVerified: true
     amazonTitle: >-
       SIRUI Traveler 7A 65.55'' Aluminum Camera Tripod, E-10 Panorama Ball Head
       and Arca Swiss Quick Release Plate
@@ -668,6 +669,7 @@ products:
         - title: 'Adorama: Gitzo GT1555T buyer reviews'
           url: 'https://www.adorama.com/gzgt1555t.html'
     asin: B016NSFU2U
+    asinVerified: true
     amazonTitle: >-
       Gitzo GT1555T Traveler Tripod - Compact, Foldable and Light with Short
       Column
@@ -725,6 +727,7 @@ products:
             https://leofotousa.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set
           reviews: 1
     asin: B0DQKY998S
+    asinVerified: true
     amazonTitle: LEOFOTO 45" Carbon Fiber Compact Tripod 360° Ball Head LS-224CX+LH-25LR
     matchName: Leofoto LS-224CX LH-25LR
   - name: Vanguard VEO 3 GO 235CB
@@ -770,6 +773,7 @@ products:
         - title: 'Digital Camera World: Vanguard VEO 3GO 235CB review'
           url: 'https://digitalcameraworld.com/reviews/vanguard-veo-3go-235cb-review'
     asin: B0831RXR9P
+    asinVerified: true
     amazonTitle: >-
       Vanguard VEO3GO235CB Compact Carbon Fiber Travel Tripod with Ball Head,
       Monopod Option
@@ -820,6 +824,7 @@ products:
           url: >-
             https://photobite.uk/the-measure/themeasure-3-legged-thing-travis-2-0-tripod-review-the-punk-got-an-upgrade/
     asin: B09CDVH6R4
+    asinVerified: true
     amazonTitle: 3 Legged Thing Punks Travis 2.0 Magnesium Alloy General Use Tripod
   - name: K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head
     brand: K&F Concept
@@ -880,6 +885,7 @@ products:
         - title: 'ShopSavvy review summary: K&F Concept 64" tripod'
           url: 'https://www.shopsavvy.com/reviews-tldr/kandf-concept-64"-tripod'
     asin: B0B1HYVVTV
+    asinVerified: true
     amazonTitle: >-
       K&F Concept 64 inch/163cm Lightweight Aluminum Travel Camera Tripod |
       Compact and Portable, 360° Ball Head
@@ -934,6 +940,7 @@ products:
           url: >-
             https://www.bhphotovideo.com/c/product/1835224-REG/ulanzi_3131_zero_f38_quick_release.html
     asin: B0BXD5YJC5
+    asinVerified: true
     amazonTitle: >-
       ULANZI F38 Carbon Fiber Video Travel Tripod, 61.4in | F38 Quick Release
       Plate
@@ -1065,6 +1072,30 @@ faqs:
       binnen ongeveer de helft van het draagvermogen blijft, een tas aan de haak
       hangt als die er is, en bij lange belichtingen een zelfontspanner of
       afstandsbediening gebruikt.
+  - q: Wat is het beste statief voor een systeemcamera?
+    a: >-
+      Voor de meeste full-frame systeemcamerasets op reis kiezen wij het Peak
+      Design Travel Tripod (Carbon Fiber): 9,1 kg (20 lb) draagvermogen,
+      39,4 cm (15.5 in) ingeklapt en 130,2 cm (51.25 in) hoogte met de
+      middenzuil omlaag. Voor een lichte APS-C-set bespaart de Sirui Traveler
+      5C (ongeveer 850 g, 33 cm ingeklapt) gewicht, en voor zware telelenzen is
+      de 3 Legged Thing Punks Travis 2.0 bij de smalste poothoek berekend op
+      18 kg (39.7 lb).
+  - q: Wat is het beste camerastatief voor op reis?
+    a: >-
+      Het statief dat in je tas past en je zwaarste lens draagt. Telt het
+      pakformaat het zwaarst, dan klappen de Vanguard VEO 3 GO 235CB, Sirui
+      Traveler 5C en Benro Slim in tot ongeveer 33 cm (13 in); de Gitzo
+      GT1555T komt op 35,5 cm (14 in) met 10 kg (22 lb) draagvermogen, maar
+      wordt alleen als poten verkocht; en de Benro Slim is onze budgetkeuze,
+      met balhoofd en tas.
+  - q: Wat is het lichtste reisstatief in deze gids?
+    a: >-
+      De Sirui Traveler 5C, ongeveer 850 g volgens de eigen winkel van Sirui,
+      en de Leofoto LS-224CX Ranger, ongeveer 0,9 kg met balhoofd. Beide zijn
+      alleen voor lichte sets: de Sirui draagt 4 kg (8.8 lb) en de Leofoto
+      reikt tot ongeveer 114 cm (45 in), ruim onder ooghoogte voor de meeste
+      volwassenen.
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
