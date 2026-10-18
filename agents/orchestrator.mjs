@@ -68,7 +68,7 @@ export function keywordGate(q, posts = listPosts()) {
   const proxied = a.notInDatabase === true && typeof a.proxy?.volume === 'number' && a.proxy.volume > 0;
   if (rules.requireAhrefs !== false && !measured && !proxied)
     return a.notInDatabase === true
-      ? { status: 'parked', lastError: 'not in Ahrefs database and no proxy keyword with measurable demand' }
+      ? { status: 'needs-data', lastError: 'not in Ahrefs database: record a proxy (closest broader keyword with real volume and a matching SERP) via set-ahrefs, or drop it' }
       : { status: 'needs-data', lastError: 'no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked' };
   if (measured && a.volume > cap) return { status: 'parked', lastError: `volume ${a.volume} > ${cap} cap` };
   if (measured && typeof rules.maxKd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
