@@ -5,7 +5,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import { findCannibal, overlap, serpShared } from '../agents/lib/cannibal.mjs';
-import { keywordGate } from '../agents/orchestrator.mjs';
+import { keywordGate, nextKeyword } from '../agents/orchestrator.mjs';
 import { SITE, ROOT } from '../agents/lib/config.mjs';
 
 const post = (slug, keyword, secondaryKeywords = []) => ({ slug, data: { keyword, secondaryKeywords } });
@@ -73,8 +73,18 @@ test('a long-tail keyword Ahrefs does not have passes only with a measurable pro
   assert.equal(keywordGate({ keyword: 'quiet zebra keyword phrase', ahrefs: { notInDatabase: true, proxy: { keyword: 'zebra keyword', volume: 90, kd: 4 } } }, []), null);
 });
 
-test('keywords the owner supplied skip the gate', () => {
+test('keywords the owner supplied skip the gate unless Ahrefs measured no demand', () => {
   assert.equal(keywordGate({ keyword: 'anything', source: 'user' }, []), null);
+  assert.equal(keywordGate({ keyword: 'anything', source: 'user', ahrefs: { volume: 2000, kd: 50 } }, []), null);
+  assert.equal(keywordGate({ keyword: 'anything', source: 'user', ahrefs: { volume: 0, kd: 0 } }, [])?.status, 'parked');
+});
+
+test('keywords with proven demand are picked before unmeasured ones', () => {
+  const queue = [
+    { keyword: 'zz unmeasured owner keyword', status: 'pending', source: 'user', priority: 9, category: 'a' },
+    { keyword: 'zz measured owner keyword', status: 'pending', source: 'user', priority: 1, category: 'b', ahrefs: { volume: 150, kd: 0 } },
+  ];
+  assert.equal(nextKeyword(queue, { published: [] }).keyword, 'zz measured owner keyword');
 });
 
 // Built pages: every published post has a self-referencing canonical and is indexable.

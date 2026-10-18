@@ -14,28 +14,28 @@
       "path": "",
       "hreflang": "en-US",
       "ogLocale": "en_US",
-      "flag": "🇺🇸",
+      "flag": "\ud83c\uddfa\ud83c\uddf8",
       "label": "English"
     },
     "de": {
       "path": "de",
       "hreflang": "de-DE",
       "ogLocale": "de_DE",
-      "flag": "🇩🇪",
+      "flag": "\ud83c\udde9\ud83c\uddea",
       "label": "Deutsch"
     },
     "es": {
       "path": "es",
       "hreflang": "es-ES",
       "ogLocale": "es_ES",
-      "flag": "🇪🇸",
-      "label": "Español"
+      "flag": "\ud83c\uddea\ud83c\uddf8",
+      "label": "Espa\u00f1ol"
     },
     "nl": {
       "path": "nl",
       "hreflang": "nl-NL",
       "ogLocale": "nl_NL",
-      "flag": "🇳🇱",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
       "label": "Nederlands"
     }
   },
@@ -215,9 +215,10 @@
     "window": 10
   },
   "keywordRules": {
-    "maxVolume": 250,
+    "maxVolume": 1000,
     "minWords": 3,
-    "maxKd": 10
+    "maxKd": 10,
+    "minOwnerVolume": 10
   },
   "qa": {
     "requiredFrom": "2026-10-15T00:00:00Z",

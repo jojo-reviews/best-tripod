@@ -58,11 +58,16 @@ export function collectSources(products) {
  * evidence anyone searches for it, so it waits for data instead of being guessed at.
  */
 export function keywordGate(q, posts = listPosts()) {
-  if (q.source === 'user') return null;
   const rules = SITE.keywordRules ?? {};
+  // Owner keywords skip the caps, but one Ahrefs measured at (almost) no searches is paused.
+  const minOwner = rules.minOwnerVolume ?? 10;
+  if (q.source === 'user')
+    return typeof q.ahrefs?.volume === 'number' && q.ahrefs.volume <= minOwner
+      ? { status: 'parked', lastError: `owner keyword paused: Ahrefs volume ${q.ahrefs.volume} (≤ ${minOwner}/mo, no measurable demand)` }
+      : null;
   const cap = rules.maxVolume ?? 250;
   const a = q.ahrefs ?? {};
-  const measured = typeof a.volume === 'number' && typeof a.kd === 'number';
+  const measured = typeof a.volume === 'number';
   // Many long-tail phrases are not in Ahrefs' database (not the same as zero searches). Those
   // need a recorded proxy: the closest broader keyword with real Ahrefs volume, checked on its SERP.
   const proxied = a.notInDatabase === true && typeof a.proxy?.volume === 'number' && a.proxy.volume > 0;
@@ -71,7 +76,7 @@ export function keywordGate(q, posts = listPosts()) {
       ? { status: 'needs-data', lastError: 'not in Ahrefs database: record a proxy (closest broader keyword with real volume and a matching SERP) via set-ahrefs, or drop it' }
       : { status: 'needs-data', lastError: 'no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked' };
   if (measured && a.volume > cap) return { status: 'parked', lastError: `volume ${a.volume} > ${cap} cap` };
-  if (measured && typeof rules.maxKd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
+  if (measured && typeof rules.maxKd === 'number' && typeof a.kd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
   const clash = findCannibal(q, posts);
   if (clash) return { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` };
   return null;
@@ -82,17 +87,23 @@ export function nextKeyword(queue, state) {
   const window = SITE.funnel?.window ?? 10;
   const recentStages = state.published.slice(-window).map((p) => p.funnel ?? 'bofu');
   const posts = listPosts();
-  // Keywords the site owner supplied (source: 'user') skip the volume cap and cannibalization guard.
-  for (const q of queue.filter((k) => k.status === 'pending' && k.source !== 'user')) {
+  for (const q of queue.filter((k) => k.status === 'pending')) {
     const blocked = keywordGate(q, posts);
     if (blocked) Object.assign(q, blocked);
   }
   const pending = queue.filter((q) => q.status === 'pending');
   const want = neededStage(recentStages);
+  // Proven demand first: measured Ahrefs volume, then a measured proxy, then unmeasured keywords.
+  const demand = (k) => {
+    const a = k.ahrefs ?? {};
+    if (typeof a.volume === 'number') return 300 + Math.log10(a.volume + 1) * 5 - (a.kd ?? 20) / 10;
+    if (typeof a.proxy?.volume === 'number') return 200 + Math.log10(a.proxy.volume + 1) * 2;
+    return 0;
+  };
   const score = (k) =>
+    demand(k) +
     k.priority -
     recent.filter((c) => c === k.category).length * 1.5 +
-    (k.ahrefs ? Math.log10((k.ahrefs.volume || 0) + 1) - (k.ahrefs.kd ?? 20) / 20 : 0) +
     (funnelOf(k) === want ? 4 : 0) +
     (k.source === 'user' ? 100 : 0);
   pending.sort((a, b) => score(b) - score(a));

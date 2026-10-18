@@ -117,8 +117,8 @@ if (cmd === 'status') {
     if (!q) continue;
     const date = r.date ?? new Date().toISOString().slice(0, 10);
     const source = 'ahrefs keywords-explorer-overview us';
-    if (typeof r.volume === 'number' && typeof r.kd === 'number') {
-      q.ahrefs = { volume: r.volume, kd: r.kd, trafficPotential: r.trafficPotential, parentTopic: r.parentTopic, source, date };
+    if (typeof r.volume === 'number') {
+      q.ahrefs = { volume: r.volume, kd: typeof r.kd === 'number' ? r.kd : undefined, trafficPotential: r.trafficPotential, parentTopic: r.parentTopic, source, date };
     } else if (r.notInDatabase === true) {
       // Not in Ahrefs' database: keep a proxy (closest broader keyword with real data) if there is one.
       q.ahrefs = { notInDatabase: true, proxy: typeof r.proxy?.volume === 'number' ? r.proxy : undefined, source, date };
