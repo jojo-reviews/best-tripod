@@ -297,7 +297,7 @@ sources:
   - title: 'Markus Hagner Photography: Best tabletop tripods for product photography'
     url: >-
       https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/
-reviewedDate: '2026-10-17'
+reviewedDate: 2026-10-18
 faqs:
   - q: How high should a webcam or camera be for video calls?
     a: >-
@@ -336,6 +336,7 @@ heroAlt: >-
 related:
   - what-is-an-arca-swiss-plate-and-do-i-need-one
   - best-tripod-for-tall-photographers-over-6-feet
+reviewedBy: damian-barczak
 ---
 
 The best mini tripod for desk video calls is the one that holds your webcam, phone or camera steady and lets you aim it at your face without the shot looking up your nose. We compared three tabletop tripods that keep coming up in mini tripod roundups: the [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) for most desks, the [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) for a mirrorless camera used as a webcam, and the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) as the simplest desk stand. To be clear: we did not test any of them. Everything below comes from maker and retailer specs, editorial reviews and the small number of owner reviews we could find.

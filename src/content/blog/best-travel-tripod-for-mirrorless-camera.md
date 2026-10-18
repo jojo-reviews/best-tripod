@@ -1006,7 +1006,7 @@ sources:
   - title: 'B&H: Ulanzi Zero F38'
     url: >-
       https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html
-reviewedDate: '2026-10-15'
+reviewedDate: 2026-10-18
 faqs:
   - q: What size tripod do you need for a mirrorless camera?
     a: >-
@@ -1070,6 +1070,7 @@ related:
   - monopod-vs-tripod-for-sports-photography
   - best-tripod-for-tall-photographers-over-6-feet
   - best-mini-tripod-for-desk-video-calls
+reviewedBy: damian-barczak
 ---
 
 The best travel tripod for mirrorless camera kits is the one that holds your actual body and lens without creep, reaches a usable height with the center column down, and still fits your carry-on bag. For most full-frame mirrorless shooters that points to the Peak Design Travel Tripod (Carbon Fiber), which folds to about 15.5 inches and carries a 20 lb rated load. If your kit is a small APS-C body with a light zoom, a compact travel tripod for mirrorless gear like the Sirui Traveler 5C saves real weight. We've organized the 15 picks below around three numbers we always check first: load capacity against your gear, folded length against your bag, and working height without the column.

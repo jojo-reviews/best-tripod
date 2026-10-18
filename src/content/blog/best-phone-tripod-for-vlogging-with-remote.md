@@ -308,7 +308,7 @@ sources:
     url: 'https://www.popsci.com/gear/best-iphone-tripods/'
   - title: 'Manuals+: SENSYNE phone tripod manual'
     url: 'https://manuals.plus/asin/B09TQY66NH.pdf'
-reviewedDate: '2026-10-17'
+reviewedDate: 2026-10-18
 faqs:
   - q: Do phone tripod remotes work with iPhone and Android?
     a: >-
@@ -349,6 +349,7 @@ heroAlt: >-
   Tripod buying guide
 related:
   - best-tripod-for-iphone-night-mode-photos
+reviewedBy: damian-barczak
 ---
 
 The best phone tripod for vlogging with remote is the one that puts your phone near eye level, holds it steady without a hand on it, and lets you start the shot from where you stand. We compared three popular options on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. To be clear up front: we did not test any of them. Everything below comes from published specs and from owner reviews and roundups we read online.
