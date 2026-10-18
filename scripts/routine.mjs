@@ -20,7 +20,7 @@
 //                                                   random pubDates a few hours from now, >= 2h apart, max 5/language/day
 import fs from 'node:fs';
 import path from 'node:path';
-import { DATA_DIR, SITE } from '../agents/lib/config.mjs';
+import { DATA_DIR, SITE, ROOT } from '../agents/lib/config.mjs';
 import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport, listTranslations, parseRef, readPost } from '../agents/lib/store.mjs';
 import { localNow, quotaFor, releaseTimes } from '../agents/lib/schedule.mjs';
 import { slugify } from '../agents/lib/nlp.mjs';
@@ -131,6 +131,31 @@ if (cmd === 'status') {
   }
   saveQueue(queue);
   out({ updated: updated.length, keywords: updated });
+} else if (cmd === 'review-queue') {
+  // Damian's daily review list: live English posts not yet reviewed, highest search demand first.
+  const perDay = Number(arg) || SITE.reviewer?.perDay || 4;
+  const queue = loadQueue();
+  const vol = (slug, kw) => {
+    const k = queue.find((q) => q.slug === slug || q.keyword === kw);
+    return k?.ahrefs?.volume ?? k?.ahrefs?.proxy?.volume ?? 0;
+  };
+  const todo = listPosts()
+    .filter((p) => Date.parse(p.data.pubDate) <= Date.now() && !p.data.reviewedBy)
+    .map((p) => ({ slug: p.slug, title: p.data.title, url: `${SITE.siteUrl ?? 'https://' + SITE.domain}/blog/${p.slug}/`, volume: vol(p.slug, p.data.keyword) }))
+    .sort((a, b) => b.volume - a.volume);
+  out({ reviewer: SITE.reviewer?.slug ?? 'damian-barczak', perDay, remaining: todo.length, today: todo.slice(0, perDay) });
+} else if (cmd === 'mark-reviewed') {
+  // `mark-reviewed <slug> [YYYY-MM-DD]`: only after the owner confirms the reviewer actually checked the post.
+  const reviewer = SITE.reviewer?.slug ?? 'damian-barczak';
+  const date = process.argv[4] ?? new Date().toISOString().slice(0, 10);
+  const file = path.join(ROOT, 'src/content/blog', `${arg}.md`);
+  let text = fs.readFileSync(file, 'utf8');
+  const end = text.indexOf('\n---', 3);
+  let fm = text.slice(0, end);
+  fm = /^reviewedBy:/m.test(fm) ? fm.replace(/^reviewedBy:.*$/m, `reviewedBy: ${reviewer}`) : fm + `\nreviewedBy: ${reviewer}`;
+  fm = /^reviewedDate:/m.test(fm) ? fm.replace(/^reviewedDate:.*$/m, `reviewedDate: ${date}`) : fm + `\nreviewedDate: ${date}`;
+  fs.writeFileSync(file, fm + text.slice(end));
+  out({ slug: arg, reviewedBy: reviewer, reviewedDate: date });
 } else if (cmd === 'save-serp') {
   // Saves a US top-10 to data/serps.json (used by the cannibalization guard to compare intent).
   // `save-serp "<keyword>" <urls.json>` (array of URLs) or `save-serp <bulk.json>` ({keyword: {urls, date}}).

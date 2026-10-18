@@ -253,5 +253,9 @@
     "ownersRequiredFrom": "2026-10-17T00:00:00Z",
     "styleRequiredFrom": "2026-10-18T12:00:00Z",
     "serpTitlesRequiredFrom": "2026-10-19T00:00:00Z"
+  },
+  "reviewer": {
+    "slug": "damian-barczak",
+    "perDay": 4
   }
 }

@@ -165,7 +165,7 @@ if (d.products.length) {
       <div class="byline">
         <div class="who">
           <span class="avatar">{(author.image || author.type !== 'Person') ? <img src={author.image ?? '/favicon.svg'} alt="" width="40" height="40" /> : initials(author.name)}</span>
-          <span>{t(lang, 'post.by')} <a href={authorUrl} rel="author">{author.name}</a>{reviewer && <Fragment> · {tOr(lang, 'post.reviewedBy', 'Reviewed by')} <a href={`/authors/${reviewer.slug}/`}>{reviewer.name}</a></Fragment>}</span>
+          <span>{t(lang, 'post.by')} <a href={authorUrl} rel="author">{author.name}</a>{reviewer && <Fragment> · {tOr(lang, 'post.reviewedBy', 'Reviewed by')}{' '}<a href={`/authors/${reviewer.slug}/`}>{reviewer.name}</a></Fragment>}</span>
         </div>
         <div class="facts">
           <span>{t(lang, 'post.updated')} <time datetime={modified.toISOString()}>{fmtDate(modified)}</time></span>
