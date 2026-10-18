@@ -279,5 +279,18 @@
     "usesFaq": true,
     "usesBuyingGuide": true,
     "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/cinematography/comments/1qw5k76/best_budget_filmmaking_tripod_with_a_smooth_fluid/","title":"Best budget filmmaking tripod with a smooth fluid head and a cheap ..."},
+    {"position":2,"url":"https://www.joelwsmith.com/best-fluid-heads-video/","title":"The Best Fluid Heads for Video (2025) - Joel W Smith"},
+    {"position":3,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-pan-and-tilt-tripod-heads","title":"The best pan and tilt tripod heads | Digital Camera World"},
+    {"position":4,"url":"https://www.bhphotovideo.com/c/buy/Video-Tripod-Heads/ci/3918","title":"Fluid Head Tripods | Professional Video Tripod Heads - B&H"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=0DFthywwFzU&vl=en","title":"Video Tripod Head Buying Guide // Best Fluid Head for the Money"},
+    {"position":6,"url":"https://www.westlakesimages.com/blog/fluid-head","title":"The Perfect Tripod - Video Heads for Stills Shooters | West Lakes Images"},
+    {"position":7,"url":"https://www.cined.com/gear-guides/best-travel-tripods-for-video-and-small-fluid-heads/","title":"Best Travel Tripods for Video and Small Fluid Heads | CineD"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=UMSljTF3mPk&vl=en","title":"I Tried a $100 and a $1000 Tripod Fluid Head... Here's the Difference"},
+    {"position":9,"url":"https://www.amazon.com/fluid-head-tripod/s?k=fluid+head+tripod","title":"Fluid Head Tripod - Amazon.com"},
+    {"position":10,"url":"https://www.mediahammock.com/2020/07/31/top-4-budget-fluid-heads/","title":"Top 4 Budget Fluid Heads for Video Tripods - Media Hammock"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":1,"commonModifiers":["fluid heads for video","budget","best fluid head for the money"],"gap":"How a beginner makes smooth pans and tilts on a fluid head"}
 }

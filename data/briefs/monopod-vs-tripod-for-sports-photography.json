@@ -292,5 +292,18 @@
         "https://shotkit.com/best-monopod-for-photographers/"
       ]
     }
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.youtube.com/watch?v=iY2mXFX-tNk","title":"Monopod, Tripod, or Handheld? What to use when shooting sports!"},
+    {"position":2,"url":"https://www.reddit.com/r/AskPhotography/comments/13p7jv3/i_recently_bought_a_super_telephoto_to_get_more/","title":"I recently bought a super telephoto to get more into sports photography ..."},
+    {"position":3,"url":"https://digital-photography-school.com/tripod-versus-monopod-comparison/","title":"Tripod vs Monopod: Which Should You Use?"},
+    {"position":4,"url":"https://www.smallrig.com/blog/best-monopod-for-sports-photography.html","title":"How to Choose the Best Monopod for Sports Photography - SmallRig"},
+    {"position":5,"url":"https://www.facebook.com/groups/324830637943242/posts/2401423596950592/","title":"Monopod or tripod for photography? - Facebook"},
+    {"position":6,"url":"https://www.gitzo.com/us-en/gitzo-inspires/monopod-photography-sport/","title":"Monopod Photography: How to use it for Sports Photos - Gitzo"},
+    {"position":7,"url":"https://www.dpreview.com/forums/threads/tripod-or-monopod-for-sports.887621/","title":"Tripod or monopod for sports | DPReview Forums"},
+    {"position":8,"url":"https://momanx.com/blogs/moman-ideas/monopod-vs-tripod-which-to-choose?srsltid=AU7gw4V2fG13mT6vIBwxGdBqOJ17gBRuACZ1DiK6NyaVWcZ71gOEdSuj","title":"Monopod vs tripod: Which one to choose? - Moman PhotoGears"},
+    {"position":9,"url":"https://bcgforums.com/threads/tripod-vs-monopod.21386/","title":"Tripod vs. Monopod | Backcountry Gallery Photography Forums"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=AHp52Q0dscY","title":"Gimbal VS Monopod VS Tripod - What's Best? - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["tripod vs monopod","which should you use / choose"],"gap":"Whether a monopod is steady enough for telephoto sports lenses, with two specific monopod picks"}
 }

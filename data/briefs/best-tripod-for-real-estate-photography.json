@@ -157,5 +157,18 @@
     { "name": "Manfrotto 055 series", "reason": "Aryeo recommends the aluminum 055 kit, PixelShouters the carbon MT055CXPRO3: different models" },
     { "name": "Benro Mach3 Series 2", "reason": "Aryeo names the aluminum TMA28A, Styldod a carbon Series 2: different models" },
     { "name": "Arca-Swiss D4", "reason": "recommended by APA Almanac and Show&Tour, but no clear, well-stocked Amazon US listing was confirmed" }
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/RealEstatePhotography/comments/19dtzbx/tripod_recommendations/","title":"Tripod Recommendations : r/RealEstatePhotography - Reddit"},
+    {"position":2,"url":"https://www.youtube.com/watch?v=KKpL-tW0MWA","title":"The Best Budget Gear for Real Estate Photography - YouTube"},
+    {"position":3,"url":"https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography","title":"Best Tripods For Architectural and Real Estate Photography"},
+    {"position":4,"url":"https://www.facebook.com/groups/nikonz9usersgroup/posts/1142701093818351/","title":"What is the best tripod for real estate photography with a budget of $1k ..."},
+    {"position":5,"url":"https://www.styldod.com/blog/best-tripod-for-real-estate-photography","title":"7 Best Tripod for Real Estate Photography - Styldod"},
+    {"position":6,"url":"https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209","title":"What Tripod Head Should You Buy for Real Estate and Architectural ..."},
+    {"position":7,"url":"https://www.youtube.com/shorts/pscrqclprd0","title":"Best Tripod for Real Estate Photography - YouTube"},
+    {"position":8,"url":"https://www.photoup.net/learn/best-camera-tripods-for-real-estate-photography","title":"Top 6 Camera Tripods for Real Estate Photography - PhotoUp"},
+    {"position":9,"url":"https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/","title":"10 Best Tripods for Real Estate Photography in 2026 - PixelShouters"},
+    {"position":10,"url":"https://www.techgearlab.com/topics/electronics/best-tripod","title":"The Best Tripods of 2026 | Tested & Ranked - TechGearLab"}
+  ],
+  "titlePattern": {"keywordAtStart":1,"withYear":2,"withNumber":3,"commonModifiers":["architectural and real estate","tripod head","N Best / Top N"],"gap":"Height and head choice for level interior shots"}
 }

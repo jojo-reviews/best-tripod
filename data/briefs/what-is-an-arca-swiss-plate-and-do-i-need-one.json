@@ -85,5 +85,18 @@
     "ahrefsSuggestions": "keywords-explorer-search-suggestions (us) on \"arca swiss plate\" and \"what is arca swiss\", 2026-10-18",
     "kept": ["what is arca swiss (60)", "what is an arca swiss plate (10)", "arca swiss plate dimensions (40)", "what does arca swiss compatible mean (0)", "is arca swiss compatible with manfrotto (0)"],
     "differentIntent": ["arca swiss plate for rifle", "m lok arca swiss plate", "best arca swiss plate", "smallrig arca swiss plate"]
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://photographylife.com/arca-swiss-quick-release-system","title":"Arca-Swiss Quick Release System Explained - Photography Life"},
+    {"position":2,"url":"https://www.youtube.com/watch?v=4ESNT3DTDMs","title":"Arca Swiss - What is it? Plus Quirks, Pros, and Cons - YouTube"},
+    {"position":3,"url":"https://www.reddit.com/r/photography/comments/1f2qzxw/whats_the_point_of_arca_swiss_standard_when/","title":"What's the point of arca swiss standard when brands don't make ..."},
+    {"position":4,"url":"https://arca-swiss-usa.com/pages/quick-release?srsltid=AU7gw4UDaDEm7ohf78MawvM5ClhheeBAMAbWimMBfbcQpwBs20p-VKLG","title":"Quick Release – ARCA-SWISS USA"},
+    {"position":5,"url":"https://www.mu-43.com/threads/can-someone-explain-arca-swiss-plates-to-me.106049/","title":"Can someone explain Arca-Swiss plates to me? | Mu-43"},
+    {"position":6,"url":"https://heipivision.com/blogs/blogs/what-is-arca-swiss-type?srsltid=AU7gw4UjjNc2mI6rSyC6fcMzxpxPl6UIdBlSWHJKYm2zA0-KODEFVKvy","title":"What is Arca Swiss Type? - heipi"},
+    {"position":7,"url":"https://bcgforums.com/threads/why-arca-swiss.7731/","title":"Why Arca Swiss? | Backcountry Gallery Photography Forums"},
+    {"position":8,"url":"https://www.youtube.com/watch?v=9G27wH-xhRg","title":"The Arca-Swiss quick release mounting system. - YouTube"},
+    {"position":9,"url":"https://photo.stackexchange.com/questions/79382/is-a-50mm-wide-arca-mount-a-standard","title":"Is a 50mm-wide arca-mount a standard?"},
+    {"position":10,"url":"https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/","title":"Arca Swiss Plates: Goodbye Manfrotto! - DSLR Video Shooter"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["Arca-Swiss quick release explained","what is it?","Arca-Swiss type"],"gap":"A plain yes/no on whether you need one and how to mount a plate so it doesn't twist"}
 }

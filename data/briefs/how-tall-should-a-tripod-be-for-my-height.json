@@ -74,5 +74,18 @@
     "usesComparisonTable": false,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/AskPhotography/comments/1as92po/suggestions_for_tripod_for_a_6ft_person/","title":"Suggestions for tripod for a 6ft+ person? : r/AskPhotography - Reddit"},
+    {"position":2,"url":"https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography?srsltid=AU7gw4VAF9YGxW4nwAk8GDzDvvGfQNHRKEeqbamWEb13sTg-dmSa72Q4","title":"Tripod Height Guide: Find Comfort & Quality in Photography! - Ulanzi"},
+    {"position":3,"url":"https://momanx.com/blogs/moman-ideas/how-tall-should-be-your-tripod?srsltid=AU7gw4VbKL4qJXB5dfrSIkATO6XGFMzsRCkkb0MmodODApALSTDrQW1-","title":"How tall should be your tripod? All to know about tripod height"},
+    {"position":4,"url":"https://www.youtube.com/watch?v=yCqAtUVA7GU","title":"How Tall Should Your Tripod Be (Simple Formula) - YouTube"},
+    {"position":5,"url":"https://promediagear.com/blogs/guides/what-is-the-ideal-tripod-height-for-you?srsltid=AU7gw4V9r2ZcXexWqA866Qz35AzCrt0GU7qnPydDJB_Uy3Xaejz24E9U","title":"What Is the Ideal Tripod Height for You? (2026 Guide) - ProMediaGear"},
+    {"position":6,"url":"https://www.dpreview.com/forums/threads/6-feet-tall-with-shoes-how-tall-should-my-tripod-legs-be.3730998/","title":"6 feet tall with shoes. How tall should my tripod legs be? - DPReview"},
+    {"position":7,"url":"https://www.facebook.com/groups/pivoequestriancommunity/posts/917445582638921/","title":"I'm looking at getting a tripod. What height is suggested? - Facebook"},
+    {"position":8,"url":"https://www.quora.com/What-is-a-good-height-for-a-tripod","title":"What is a good height for a tripod? - Quora"},
+    {"position":9,"url":"https://www.kfconcept.com/blog/how-tall-should-be-your-tripod","title":"How Tall Should Be Your Tripod？ - k&f concept"},
+    {"position":10,"url":"https://mariastrussphotography.com/2022/10/the-photographers-guide-to-buying-a-tripod-new/","title":"The Photographers Guide to Buying a Tripod-New"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":0,"commonModifiers":["tripod height guide","how tall should your tripod be","formula"],"gap":"A height chart by your own height plus how spec-sheet heights are measured"}
 }

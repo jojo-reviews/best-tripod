@@ -238,5 +238,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": false
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://fstoppers.com/gear/peak-design-travel-tripod-versus-manfrotto-befree-which-better-481489","title":"Peak Design Travel Tripod Versus Manfrotto Befree: Which Is Better?"},
+    {"position":2,"url":"https://www.reddit.com/r/SonyAlpha/comments/okvprk/manfrotto_befree_sony_edition_vs_peak_design/","title":"Manfrotto Befree Sony Edition vs Peak Design Travel Tripod - Reddit"},
+    {"position":3,"url":"https://www.youtube.com/watch?v=3KQLDk0UJj4","title":"Half the Price of Peak Design Travel Tripod, But Better? - YouTube"},
+    {"position":4,"url":"https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/","title":"Tested: Four travel tripods for every budget | DPReview"},
+    {"position":5,"url":"https://www.bhphotovideo.com/c/compare/Peak_Design_Carbon_Fiber_Travel_Tripod_vs_Manfrotto_Befree_Advanced_Carbon_Fiber_Travel_Tripod_with_494_Ball_Head_Twist_Locks%2C_Black_vs_Manfrotto_Befree_GT_Travel_Carbon_Fiber_Tripod_with_496_Ball_Head_Black_vs_Manfrotto_Befree_GT_Travel_Carbon_Fiber_Tripod_with_496_Ball_Head_for_Sony_a_Series_Cameras_Black/BHitems/1495136-REG_1408034-REG_1408033-REG_1432357-REG","title":"Compare Peak Design Carbon Fiber Travel Tripod vs Manfrotto ... - B&H"},
+    {"position":6,"url":"https://www.facebook.com/groups/wildlifephotogs/posts/2112064832647253/","title":"What are thoughts on Peak Design and Manfrotto carbon travel tripods?"},
+    {"position":7,"url":"https://fstoppers.com/gear/travel-tripod-throwdown-peak-designs-premium-price-tag-worth-it-632532","title":"Travel Tripod Throwdown: Is Peak Design's Premium Price Tag Worth It?"},
+    {"position":8,"url":"https://lenssignal.com/peak-design-vs-manfrotto-which-travel-tripod-rules/","title":"Peak Design vs. Manfrotto: Which Travel Tripod Rules? - lenssignal"},
+    {"position":9,"url":"https://www.youtube.com/watch?v=Hn1BRfp-mw8","title":"DPReview TV: Travel Tripod Shootout (Manfrotto, Peak Design, Gitzo and ..."},
+    {"position":10,"url":"https://lenscraft.co.uk/photography-blog/manfrotto-befree-tripod-review/","title":"Manfrotto Befree Advanced Travel Tripod Review"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["which is better?","worth it?","Peak Design vs Manfrotto"],"gap":"Packed size for a carry-on and height with and without the center column, side by side"}
 }

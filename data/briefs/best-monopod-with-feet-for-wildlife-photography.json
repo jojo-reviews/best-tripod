@@ -172,5 +172,18 @@
     "usesFaq": true,
     "usesBuyingGuide": true,
     "note": "Word counts are Firecrawl estimates (Adventure Junkies ~1,050, Shotkit ~1,260, Neewer ~775, Shutter Muse ~1,450, Lynn Barsigian ~3,100; Folium ~7,450 treated as an outlier). Reddit, Facebook and forum threads in the top 10 were used for product mentions and owner evidence, not structure. Only 3 footed monopods met the 2-page rule with a buyable Amazon US listing, so productCount was lowered from 8 to 3."
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/AskPhotography/comments/1in4v99/monopod_recommendation_for_bird_wildlife/","title":"Monopod recommendation for bird & wildlife photography? - Reddit"},
+    {"position":2,"url":"https://www.digitalcameraworld.com/buying-guides/best-monopods","title":"Best monopods in 2026: stable support that can take a load off"},
+    {"position":3,"url":"https://www.youtube.com/watch?v=Bg7rBY3AN-0","title":"The Best Monopod for Wildlife Photography (Alaska Tested)"},
+    {"position":4,"url":"https://betterwithbirds.com/blogs/bird-photography-and-sound-tips/best-tripod?srsltid=AU7gw4VgPLSo3aVbO4kcPb7dYI6Q2GSBdFOvWXgVN22WpVrWpGKAUR8D","title":"How to Choose the Best Tripod or Monopod for Bird Photography"},
+    {"position":5,"url":"https://www.facebook.com/groups/745208993762222/posts/1183844596565324/","title":"Best monopod for birding and wildlife photography? - Facebook"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=jiQPrGKBzTY","title":"The Best Monopod for Wildlife Photography/Filmmaking - YouTube"},
+    {"position":7,"url":"https://photographylife.com/tripod-vs-monopod-wildlife-photography","title":"Tripods vs Monopods for Wildlife Photography"},
+    {"position":8,"url":"https://www.talkphotography.co.uk/threads/ive-finally-found-the-best-monopod-for-wildlife-photography-updated-with-replacement-spike-foot-information.760602/","title":"I've finally found the best monopod for wildlife photography. Updated with ..."},
+    {"position":9,"url":"https://bcgforums.com/threads/monopod-head-recommendations.29154/","title":"Monopod & Head Recommendations"},
+    {"position":10,"url":"https://www.adorama.com/lists/monopods-with-feet?srsltid=AU7gw4Vnmf9TiA2mjfimJ3_6eTiPNhPBV_7qprpVMQXfBqIr5G3VZXpn","title":"Monopods With Feet (Updated Daily) | Adorama"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":0,"commonModifiers":["best monopod for wildlife photography","bird photography","monopod recommendations"],"gap":"Whether a footed monopod can stand on its own and which suits a long telephoto lens"}
 }

@@ -80,5 +80,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/photography/comments/1eg1dsi/do_you_have_a_pan_and_tilt_tripod_or_a_ball_head/","title":"Do you have a pan and tilt tripod or a ball head tripod and why? - Reddit"},
+    {"position":2,"url":"https://www.youtube.com/watch?v=NVmKqnek60A","title":"Pan and Tilt or Ball head tripods? - YouTube"},
+    {"position":3,"url":"https://www.slrlounge.com/best-tripod-head-face-off-ball-head-vs-pan-head/","title":"Best Tripod Head | A Face Off: Ball Head vs. Pan Head - SLR Lounge"},
+    {"position":4,"url":"https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison?srsltid=AU7gw4XFul52FBW4Pc-mvBodpEkSInQwlMOQGsAf9gU70falpv7UUnhE","title":"Ultimate Camera Ball Head Comparison | Exploring Exposure"},
+    {"position":5,"url":"https://shuttermuse.com/every-type-of-tripod-head-explained/","title":"Every Type of Tripod Head Explained by a Professional - Shutter Muse"},
+    {"position":6,"url":"https://www.talkphotography.co.uk/threads/pan-and-tilt-or-ball-head.766084/","title":"Pan and tilt or ball head? | Talk Photography"},
+    {"position":7,"url":"https://www.dpreview.com/forums/threads/tripod-heads-ball-head-vs-pan-tilt-head.2916172/","title":"Tripod heads - ball head vs. pan/tilt head? | DPReview Forums"},
+    {"position":8,"url":"https://www.facebook.com/groups/beginnersphotographygroup/posts/9379030912144757/","title":"What tripod head for wildlife and landscape photography? - Facebook"},
+    {"position":9,"url":"https://photonaturalist.com/panheads-vs-ballheads/","title":"Panheads Vs Ballheads - nature photography tips and tutorials"},
+    {"position":10,"url":"https://www.ulanzi.com/blogs/guides/how-to-choose-tripod-head-types?srsltid=AU7gw4VP7svRbfPo6dBWQgpyte5pfl43g-IE4bUdUI7ky4iNHs-tRKtp","title":"Tripod Heads Explained: Choose the Best One for You - Ulanzi"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["pan and tilt or ball head?","tripod head(s) explained","forum threads"],"gap":"Five specific head picks (3 ball, 2 pan-tilt) matched to landscape shooting style"}
 }

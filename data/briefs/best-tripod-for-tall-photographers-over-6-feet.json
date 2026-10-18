@@ -292,5 +292,18 @@
     "usesFaq": true,
     "usesBuyingGuide": true,
     "note": "WebFetch was blocked and WebSearch returned thin results (mostly one Ulanzi height guide, a Trusted Reviews tripod roundup, forums); structure is inferred from snippets, and no specific 70 in spec was verified. Verify heights from manufacturer spec sheets."
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.reddit.com/r/photography/comments/1dqz33c/tripods_for_tall_people/","title":"Tripods for tall people : r/photography - Reddit"},
+    {"position":2,"url":"https://www.facebook.com/groups/324830637943242/posts/2312594122500207/","title":"Tripod recommendations for tall photographers? - Facebook"},
+    {"position":3,"url":"https://www.adorama.com/lists/tall-camera-tripods?srsltid=AU7gw4WCOJm2rpDisxEkbFV11e4BTw-AWioEM4dOZWH6IvZtj2xExfTF","title":"Tall Camera Tripods (Updated Daily) - Adorama"},
+    {"position":4,"url":"https://www.youtube.com/watch?v=auVE8ODHbjA","title":"Very Tall Tripods - YouTube"},
+    {"position":5,"url":"https://improvephotography.com/44918/professional-tripods-landscape-photographers/","title":"6 Pro Tripods for Serious Landscape Photographers"},
+    {"position":6,"url":"https://www.dpreview.com/forums/threads/for-our-tall-members-6ft-what-height-tripod-do-you-use.4301945/","title":"For our tall members, (6ft+). what height tripod do you use? - DPReview"},
+    {"position":7,"url":"https://photo.stackexchange.com/questions/19438/what-can-tall-photographers-do-about-tripod-height","title":"What can tall photographers do about tripod height?"},
+    {"position":8,"url":"https://digital-photography-school.com/best-tripods-for-landscape-photography/","title":"9 Best Tripods for Landscape Photography in 2024"},
+    {"position":9,"url":"https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography?srsltid=AU7gw4VXVtCwWPMsmSpxYUKVNGlTpAFw2pBUX5sEEiI1e1-38ufjhi9i","title":"Tripod Height Guide: Find Comfort & Quality in Photography! - Ulanzi"},
+    {"position":10,"url":"https://www.amazon.com/extra-tall-tripod/s?k=extra+tall+tripod","title":"Extra Tall Tripod - Amazon.com"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":2,"commonModifiers":["tall people / tall photographers","tripod height"],"gap":"Eye-level height without raising the center column, with packed length trade-offs"}
 }

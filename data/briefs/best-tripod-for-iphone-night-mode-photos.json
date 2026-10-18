@@ -163,5 +163,18 @@
     "iphone tripod night photography",
     "tripod for iphone photography",
     "tripod for night photography"
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.facebook.com/groups/smartphoneastro/posts/641579381768121/","title":"What is a good iPhone tripod for night photography? - Facebook"},
+    {"position":2,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports","title":"The best iPhone tripods and supports in 2026 | Digital Camera World"},
+    {"position":3,"url":"https://www.reddit.com/r/iPhone15Pro/comments/19dy1f9/dear_astrophotographers_whats_the_best_tripod_you/","title":"Dear (Astro)Photographers, what's the best tripod you would suggest to ..."},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/","title":"The Best Tripod for iPhones and Other Smartphones - The New York Times"},
+    {"position":5,"url":"https://www.youtube.com/watch?v=Jl6Nyd8F3Io","title":"Master the Art of Sharp iPhone Night Photography - YouTube"},
+    {"position":6,"url":"https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone","title":"The Best Tripod for iPhones | Tested & Ranked - TechGearLab"},
+    {"position":7,"url":"https://skiesandscopes.com/best-phone-tripods-milky-way/?srsltid=AU7gw4XUWCxrKmbbWH3-FYOruB6nu_idgSl4Bb1sLGXu4h9IZtpYLHhY","title":"Best Tripods and Phone Mounts for Milky Way Photography"},
+    {"position":8,"url":"https://swarmify.com/blog/iphone-tripod/","title":"Best iPhone Tripods for Filming (2026 Guide) - Swarmify"},
+    {"position":9,"url":"https://www.pinterest.com/ideas/tripod-smartphone-night-mode-tips/895509084073/","title":"Tripod Smartphone Night Mode Tips - Pinterest"},
+    {"position":10,"url":"https://www.space.com/best-tripods","title":"Best tripods 2026: For astrophotography, landscapes and ..."}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":3,"withNumber":0,"commonModifiers":["iPhone tripod(s)","night photography","Milky Way","smartphones"],"gap":"How to shoot iPhone Night Mode on a tripod (long-exposure setup), not just which tripod to buy"}
 }

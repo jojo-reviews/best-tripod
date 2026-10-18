@@ -80,5 +80,18 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.digitalcameraworld.com/buying-guides/best-travel-tripod","title":"Best travel tripod in 2026: lightweight, stable supports for taking on the road"},
+    {"position":2,"url":"https://www.packhacker.com/blog/general/best-travel-tripod/","title":"The Best Travel Tripod for 2026 - Pack Hacker"},
+    {"position":3,"url":"https://www.reddit.com/r/photography/comments/1jc3d31/what_is_your_favorite_light_tripod_for_travel_or/","title":"What is your favorite light tripod for travel or just for spur of the moment ..."},
+    {"position":4,"url":"https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844","title":"4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"},
+    {"position":5,"url":"https://www.weseektravel.com/best-lightweight-backpacking-tripod/","title":"Best Lightweight Tripod for Hiking: Tested by a Pro Photographer"},
+    {"position":6,"url":"https://www.bestbuy.com/site/shop/travel-tripods-for-mirrorless-cameras","title":"Travel Tripods For Mirrorless Cameras - Best Buy"},
+    {"position":7,"url":"https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/","title":"Tested: Four travel tripods for every budget | DPReview"},
+    {"position":8,"url":"https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/","title":"My Favorite Portable and Lightweight Tripods in Different Situations"},
+    {"position":9,"url":"https://www.facebook.com/groups/landscapephotos/posts/9261351623975064/","title":"Travel tripod recommendations for mirrorless cameras - Facebook"},
+    {"position":10,"url":"https://www.youtube.com/watch?v=6yLbEIf9pJs&vl=en","title":"Which travel tripod is the BEST travel tripod? - YouTube"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":1,"commonModifiers":["lightweight","best travel tripod (for 2026)","every budget"],"gap":"Travel tripods matched to specific mirrorless bodies (Sony a7, Fujifilm and more)"}
 }

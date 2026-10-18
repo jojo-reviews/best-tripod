@@ -260,5 +260,18 @@
     "desk tripod for webcam",
     "tabletop tripod for zoom calls",
     "mini tripod for streaming camera"
-  ]
+  ],
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/clp/B0DGPRMNFR","title":"NEEWER Basic Mini Desk Tripod for iPhone & Camera with 3 Way Pan ..."},
+    {"position":2,"url":"https://www.youtube.com/watch?v=QUkJCldWpPY","title":"The Best Mini Tripod For Creators? (KraftGeek Variety Tripod Review)"},
+    {"position":3,"url":"https://www.bestbuy.com/site/shop/best-mini-tripods","title":"Best Mini Tripods - Best Buy"},
+    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/","title":"The Best Tripod for iPhones and Other Smartphones - The New York Times"},
+    {"position":5,"url":"https://www.reddit.com/r/bmpcc/comments/vurl3w/recommendations_for_short_tripodstand_to_put_on/","title":"r/bmpcc on Reddit: recommendations for short tripod/stand to put on desk ..."},
+    {"position":6,"url":"https://neewer.com/collections/mini-tripod","title":"Travel & Mini Tripods | Desktop Tabletop Stand - NEEWER"},
+    {"position":7,"url":"https://www.youtube.com/watch?v=xaAhR2Lb254","title":"I Tested 6 Tabletop Tripods So You Don't Have To - YouTube"},
+    {"position":8,"url":"https://www.walmart.com/c/kp/mini-tabletop-tripods","title":"Mini Tabletop Tripods for Phones and Cameras - Walmart"},
+    {"position":9,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag","title":"Best mini tripods in 2026: tabletop supports that slip into a pocket or bag"},
+    {"position":10,"url":"https://us.amazon.com/Best-Sellers-Tabletop-Travel-Tripods/zgbs/electronics/499308","title":"Amazon Best Sellers: Best Tabletop & Travel Tripods"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":1,"commonModifiers":["mini / tabletop tripods","desk / desktop","for iPhone & camera"],"gap":"Which setup to use on the tripod (webcam vs phone vs mirrorless) and how it compares with a monitor mount or laptop stand"}
 }

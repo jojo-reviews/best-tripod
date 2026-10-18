@@ -263,5 +263,18 @@
     "usesFaq": true,
     "usesBuyingGuide": true,
     "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
-  }
+  },
+  "serpTitles": [
+    {"position":1,"url":"https://www.amazon.com/Best-Sellers-Cell-Phone-Tripods/zgbs/wireless/11139610011","title":"Amazon Best Sellers: Best Cell Phone Tripods"},
+    {"position":2,"url":"https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/","title":"Phone Tripod for Vlogging Recommendations? : r/youtubers"},
+    {"position":3,"url":"https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/","title":"Best phone tripod for iPhones and smartphones | Amateur Photographer"},
+    {"position":4,"url":"https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=vlogging%20tripod","title":"vlogging tripod - Best Buy"},
+    {"position":5,"url":"https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/","title":"The Best Tripod for iPhones and Other Smartphones - The New York Times"},
+    {"position":6,"url":"https://www.youtube.com/watch?v=1n_-GZ7L9Vo","title":"Best Phone Tripod For Content Creators in 2025 - YouTube"},
+    {"position":7,"url":"https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos","title":"THE BEST PHONE CAMERA TRIPODS - A REVIEW FOR FOOD ..."},
+    {"position":8,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports","title":"The best iPhone tripods and supports in 2026 | Digital Camera World"},
+    {"position":9,"url":"https://www.bestbuy.com/site/cell-phone-photography-accessories/cell-phone-tripods-mounts/pcmcat373300050006.c?id=pcmcat373300050006","title":"Cell Phone Tripods & Photography Mounts - Best Buy"},
+    {"position":10,"url":"https://www.walmart.com/c/kp/vlogging-tripod","title":"Shop Vlogging Tripod for Cell Phones and Smartphones - Walmart"}
+  ],
+  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":0,"commonModifiers":["phone tripod(s)","iPhones and smartphones","vlogging","best sellers"],"gap":"How to pair the remote and fix common remote and stability problems"}
 }
