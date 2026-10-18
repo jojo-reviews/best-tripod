@@ -331,6 +331,7 @@ faqs:
       a tall setup catches more wind during a long Night mode exposure.
 author: editorial-team
 related:
+  - best-tripod-for-real-estate-photography
   - monopod-vs-tripod-for-sports-photography
 heroImage: /images/featured/best-tripod-for-iphone-night-mode-photos.png
 heroAlt: >-

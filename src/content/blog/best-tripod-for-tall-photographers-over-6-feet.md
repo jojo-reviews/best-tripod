@@ -365,10 +365,10 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - best-tripod-for-real-estate-photography
   - best-tripod-for-iphone-night-mode-photos
   - monopod-vs-tripod-for-sports-photography
   - what-is-an-arca-swiss-plate-and-do-i-need-one
-  - best-mini-tripod-for-desk-video-calls
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet: 4 Eye-Level Picks: Best Tripod

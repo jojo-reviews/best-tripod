@@ -686,7 +686,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -718,7 +718,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "productCount": 16
+    "productCount": 16,
+    "publishedAt": "2026-10-18T13:44:29.576Z"
   },
   {
     "status": "pending",
@@ -966,5 +967,26 @@
       "kd": 0
     },
     "slug": "what-is-a-monopod"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-18T13:44:47.103Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 5,
+    "keyword": "best tripod head for real estate photography",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod Head for Real Estate Photography",
+    "cluster": "real estate",
+    "rationale": "Found by the real-estate tripod research: Ahrefs 100/KD 0, head-only buying intent",
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0
+    },
+    "slug": "best-tripod-head-for-real-estate-photography"
   }
 ]
