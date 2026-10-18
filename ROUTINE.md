@@ -106,7 +106,7 @@ Follow the rules in the `SYSTEM` prompt of `agents/keyword-agent.mjs`.
 - Write them to a temp JSON file as an array of
   `{keyword, category, articleType, intent, funnel, secondaryKeywords, questions, workingTitle, cluster, priority, rationale, ahrefs:{volume, kd, trafficPotential}}`
   and run `node scripts/routine.mjs add-keywords <file>`.
-- If Ahrefs is unavailable, use web search for keyword ideas instead.
+- Ahrefs data is required: `routine.mjs next` holds any keyword without recorded Ahrefs volume + KD as `needs-data`, enforces `keywordRules.maxVolume` and `maxKd`, and treats ≥4 shared top-10 URLs (from `data/serps.json`, written by `routine.mjs save-serp`) as the same intent. If Ahrefs is unavailable, add no keywords and report it; never estimate volumes. Web search may only suggest ideas that then get Ahrefs data.
 
 ## 2. Pick the keyword
 `node scripts/routine.mjs next` → use this item (it automatically parks keywords over 250 searches/month

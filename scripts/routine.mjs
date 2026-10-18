@@ -104,25 +104,42 @@ if (cmd === 'status') {
   }
   picked.sort((a, b) => a - b);
   out({ quotaToday: q.quota, publishedToday: done, pubDates: picked.map((t) => new Date(t).toISOString()) });
-} else if (cmd === 'next') {
-  // Skip (and park) keywords over the volume cap or that would cannibalize a post.
+} else if (cmd === 'set-ahrefs') {
+  // Records real Ahrefs metrics on queued keywords: file = [{keyword, volume, kd, trafficPotential?, parentTopic?, date?}].
+  // A keyword waiting as needs-data goes back to pending (routine.mjs next re-applies the gate).
+  const rows = JSON.parse(fs.readFileSync(arg, 'utf8'));
   const queue = loadQueue();
-  const posts = listPosts();
-  const cap = SITE.keywordRules?.maxVolume ?? 250;
-  let item;
-  for (;;) {
-    item = nextKeyword(queue, loadState());
-    if (!item || item.source === 'user') break;
-    const clash = findCannibal(item, posts);
-    if (item.ahrefs?.volume > cap) {
-      item.status = 'parked';
-      item.lastError = `volume ${item.ahrefs.volume} > ${cap} cap`;
-    } else if (clash) {
-      item.status = 'merged';
-      item.mergedInto = clash.slug;
-      item.lastError = `cannibalization: ${clash.reason}`;
-    } else break;
+  const byKw = new Map(queue.map((q) => [q.keyword.toLowerCase(), q]));
+  const updated = [];
+  for (const r of rows) {
+    const q = byKw.get(String(r.keyword).toLowerCase());
+    if (!q || typeof r.volume !== 'number' || typeof r.kd !== 'number') continue;
+    q.ahrefs = { ...(q.ahrefs ?? {}), volume: r.volume, kd: r.kd, trafficPotential: r.trafficPotential ?? q.ahrefs?.trafficPotential, parentTopic: r.parentTopic ?? q.ahrefs?.parentTopic, source: 'ahrefs keywords-explorer-overview us', date: r.date ?? new Date().toISOString().slice(0, 10) };
+    if (q.status === 'needs-data') {
+      q.status = 'pending';
+      delete q.lastError;
+    }
+    updated.push(q.keyword);
   }
+  saveQueue(queue);
+  out({ updated: updated.length, keywords: updated });
+} else if (cmd === 'save-serp') {
+  // Saves a US top-10 to data/serps.json (used by the cannibalization guard to compare intent).
+  // `save-serp "<keyword>" <urls.json>` (array of URLs) or `save-serp <bulk.json>` ({keyword: {urls, date}}).
+  const file = path.join(DATA_DIR, 'serps.json');
+  const serps = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
+  const third = process.argv[4];
+  const entries = third ? { [arg]: { urls: JSON.parse(fs.readFileSync(third, 'utf8')) } } : JSON.parse(fs.readFileSync(arg, 'utf8'));
+  for (const [kw, v] of Object.entries(entries)) {
+    const urls = (Array.isArray(v) ? v : v.urls ?? []).slice(0, 10);
+    if (urls.length) serps[kw.toLowerCase()] = { date: v.date ?? new Date().toISOString().slice(0, 10), country: v.country ?? 'us', urls };
+  }
+  fs.writeFileSync(file, JSON.stringify(serps, null, 2) + '\n');
+  out({ saved: Object.keys(entries).length, total: Object.keys(serps).length });
+} else if (cmd === 'next') {
+  // nextKeyword applies keywordGate (Ahrefs data required, volume/KD caps, cannibalization) to the queue.
+  const queue = loadQueue();
+  const item = nextKeyword(queue, loadState());
   if (item) item.productCount ??= productCountFor(item);
   saveQueue(queue);
   out(item ?? { error: 'queue empty: research keywords first (see ROUTINE.md step 1)' });

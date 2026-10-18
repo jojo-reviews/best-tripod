@@ -52,17 +52,34 @@ export function collectSources(products) {
  * under its target share in recent posts, then highest priority with category
  * rotation; Ahrefs volume/KD nudge the order.
  */
+/**
+ * Why a queued keyword may not be written yet, or null when it may. Keywords the site owner
+ * supplied (source: 'user') skip these rules. Without recorded Ahrefs volume + KD there is no
+ * evidence anyone searches for it, so it waits for data instead of being guessed at.
+ */
+export function keywordGate(q, posts = listPosts()) {
+  if (q.source === 'user') return null;
+  const rules = SITE.keywordRules ?? {};
+  const cap = rules.maxVolume ?? 250;
+  const a = q.ahrefs ?? {};
+  if (rules.requireAhrefs !== false && (typeof a.volume !== 'number' || typeof a.kd !== 'number'))
+    return { status: 'needs-data', lastError: 'no Ahrefs volume/KD recorded (run keywords-explorer-overview, US) — not selectable until it has data' };
+  if (a.volume > cap) return { status: 'parked', lastError: `volume ${a.volume} > ${cap} cap` };
+  if (typeof rules.maxKd === 'number' && a.kd > rules.maxKd) return { status: 'parked', lastError: `KD ${a.kd} > ${rules.maxKd} cap` };
+  const clash = findCannibal(q, posts);
+  if (clash) return { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` };
+  return null;
+}
+
 export function nextKeyword(queue, state) {
   const recent = state.published.slice(-6).map((p) => p.category);
   const window = SITE.funnel?.window ?? 10;
   const recentStages = state.published.slice(-window).map((p) => p.funnel ?? 'bofu');
   const posts = listPosts();
-  const cap = SITE.keywordRules?.maxVolume ?? 250;
   // Keywords the site owner supplied (source: 'user') skip the volume cap and cannibalization guard.
   for (const q of queue.filter((k) => k.status === 'pending' && k.source !== 'user')) {
-    const clash = findCannibal(q, posts);
-    if (q.ahrefs?.volume > cap) Object.assign(q, { status: 'parked', lastError: `volume ${q.ahrefs.volume} > ${cap} cap` });
-    else if (clash) Object.assign(q, { status: 'merged', mergedInto: clash.slug, lastError: `cannibalization: ${clash.reason}` });
+    const blocked = keywordGate(q, posts);
+    if (blocked) Object.assign(q, blocked);
   }
   const pending = queue.filter((q) => q.status === 'pending');
   const want = neededStage(recentStages);

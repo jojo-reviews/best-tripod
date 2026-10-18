@@ -1,7 +1,7 @@
 ---
 name: brief-agent
 description: Semantic brief and SERP structure (ROUTINE.md step 4). Analyzes the top 5-10 results and writes data/briefs/<slug>.json. Use before writing a post.
-tools: Bash, Read, Write, Grep, Glob, WebSearch, WebFetch
+tools: Bash, Read, Write, Grep, Glob, WebSearch, WebFetch, mcp__Ahrefs__doc, mcp__Ahrefs__keywords-explorer-overview, mcp__Ahrefs__keywords-explorer-matching-terms, mcp__Ahrefs__keywords-explorer-related-terms, mcp__Ahrefs__keywords-explorer-search-suggestions, mcp__Ahrefs__serp-overview
 model: sonnet
 ---
 You are the brief agent. Follow ROUTINE.md step 4 and BRIEF_SYSTEM in agents/writer-agent.mjs.
