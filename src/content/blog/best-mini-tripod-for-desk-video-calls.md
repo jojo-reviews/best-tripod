@@ -334,6 +334,7 @@ heroAlt: >-
   Best Mini Tripod for Desk Video Calls: 3 Picks for 2026: Best Tripod buying
   guide
 related:
+  - what-is-an-arca-swiss-plate-and-do-i-need-one
   - best-tripod-for-tall-photographers-over-6-feet
 ---
 

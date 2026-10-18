@@ -203,7 +203,7 @@ products:
       travel kit with quick lever locks; the 40 cm minimum height limits
       low-angle work, and owners find it less steady with heavy telephotos.
     pros:
-      - 'Folds to 40 cm (15.75 in) and weighs 1.59 kg (3.51 lb) with the head'
+      - Folds to 40 cm (15.75 in) and weighs 1.59 kg (3.51 lb) with the head
       - Reaches 128 cm (50.39 in) with the column down and 151 cm raised
       - >-
         494 ball head has a separate pan knob and friction control, and the
@@ -247,7 +247,7 @@ products:
         - >-
           Lever locks and the head base plate can loosen over time and need
           tightening
-        - Levers can catch on straps, clothing and brush
+        - 'Levers can catch on straps, clothing and brush'
       sources:
         - title: 'DPReview forums: Befree Advanced lever vs twist lock'
           url: >-
@@ -314,18 +314,20 @@ faqs:
     a: >-
       Both Peak Design Travel Tripod models are rated for 20 lb (9.1 kg). The
       Befree Advanced Aluminum has a 9 kg (19.84 lb) safety payload under
-      Manfrotto's current UNI/PdR 105:2021 rating; some older listings say 8
-      kg. Keep your camera and lens at about half the rating for steady results.
+      Manfrotto's current UNI/PdR 105:2021 rating; some older listings say 8 kg.
+      Keep your camera and lens at about half the rating for steady results.
   - q: Do the Peak Design and Befree Advanced plates work with Arca-Swiss?
     a: >-
-      Yes for both, per retailer specs. The Peak Design head accepts Peak
-      Design Standard Plates and most Arca-type plates, and the Befree's
-      200PL-PRO plate fits Arca-type clamps as well as Manfrotto RC2.
+      Yes for both, per retailer specs. The Peak Design head accepts Peak Design
+      Standard Plates and most Arca-type plates, and the Befree's 200PL-PRO
+      plate fits Arca-type clamps as well as Manfrotto RC2.
 author: editorial-team
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced (2026): Best Tripod
   comparison
+related:
+  - what-is-an-arca-swiss-plate-and-do-i-need-one
 ---
 
 The Peak Design Travel Tripod vs Manfrotto Befree Advanced question looks different once you compare like with like. Amazon US sells the Befree Advanced as one aluminum kit with lever locks and a ball head, so its real rival is the aluminum version of Peak Design's tripod. On the spec sheets those two are close to a dead heat on weight, folded length and column-down height. The differences that matter are low-angle reach, packed width, the head and price. We've kept the carbon fiber model in the comparison as the lighter, pricier step up.

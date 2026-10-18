@@ -145,7 +145,9 @@ products:
       - Reversible column gives overhead and flat-lay angles
       - Leg detaches as a monopod
     cons:
-      - A 90 in tripod flexes more at full extension, so keep it lower when you can
+      - >-
+        A 90 in tripod flexes more at full extension, so keep it lower when you
+        can
       - >-
         Weight and leg-lock type vary between listings, so check the exact
         variant
@@ -174,8 +176,8 @@ products:
         - Overhead column and monopod leg add versatility
       complaints:
         - >-
-          Included monopod leg is described as acceptable but not superior; a
-          90 in tripod needs care at full extension
+          Included monopod leg is described as acceptable but not superior; a 90
+          in tripod needs care at full extension
       sources:
         - title: Kentfaith customer reviews of the K&F Concept 90 inch tripod
           url: 'https://www.kentfaith.com/reviews_15740?page=4'
@@ -363,6 +365,7 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - what-is-an-arca-swiss-plate-and-do-i-need-one
   - best-mini-tripod-for-desk-video-calls
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-

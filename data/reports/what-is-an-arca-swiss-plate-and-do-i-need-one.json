@@ -1,0 +1,348 @@
+{
+  "keyword": "what is an arca swiss plate and do i need one",
+  "createdAt": "2026-10-18T13:30:54.890Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Arca-Swiss plate",
+    "entityVariants": [
+      "Arca-Swiss quick release plate",
+      "Arca-type plate",
+      "Arca-Swiss compatible plate",
+      "Arca-style plate",
+      "Arca-Swiss dovetail",
+      "Arca-Swiss standard"
+    ],
+    "entities": [
+      {
+        "name": "Arca-Swiss",
+        "type": "brand/standard",
+        "relation": "the camera maker whose single-channel quick-release clamp and plate design became the de facto standard"
+      },
+      {
+        "name": "dovetail",
+        "type": "mechanism",
+        "relation": "the angled side profile of the plate that the clamp jaws grip"
+      },
+      {
+        "name": "clamp",
+        "type": "component",
+        "relation": "the receiver on the tripod head that the plate slides or drops into"
+      },
+      {
+        "name": "quick release plate",
+        "type": "component",
+        "relation": "the generic category; Arca-Swiss is one plate standard among proprietary systems"
+      },
+      {
+        "name": "Manfrotto RC2",
+        "type": "proprietary standard",
+        "relation": "a common non-Arca quick-release plate that does not fit Arca clamps"
+      },
+      {
+        "name": "Manfrotto 200PL",
+        "type": "proprietary standard",
+        "relation": "Manfrotto's hexagonal-to-rectangular plate system, not Arca compatible without an adapter"
+      },
+      {
+        "name": "L-bracket",
+        "type": "accessory",
+        "relation": "an L-shaped Arca plate for switching between horizontal and vertical orientation"
+      },
+      {
+        "name": "lens foot",
+        "type": "accessory",
+        "relation": "telephoto lens feet that can be Arca-profiled or fitted with an Arca plate"
+      },
+      {
+        "name": "1/4\"-20 screw",
+        "type": "thread standard",
+        "relation": "the camera tripod socket thread (ISO 1222) that holds the plate to the camera"
+      },
+      {
+        "name": "3/8\"-16 screw",
+        "type": "thread standard",
+        "relation": "the larger thread used on tripod heads and some lens feet"
+      },
+      {
+        "name": "screw-knob clamp",
+        "type": "clamp type",
+        "relation": "tightens with a knob, accepts plates with small width differences"
+      },
+      {
+        "name": "lever clamp",
+        "type": "clamp type",
+        "relation": "flips open and closed quickly but is sensitive to plate width tolerance"
+      },
+      {
+        "name": "safety stop",
+        "type": "feature",
+        "relation": "pins or screws at the plate ends that stop it sliding out of a loosened clamp"
+      },
+      {
+        "name": "ball head",
+        "type": "tripod head",
+        "relation": "the most common head to carry an Arca-Swiss clamp"
+      },
+      {
+        "name": "gimbal head",
+        "type": "tripod head",
+        "relation": "uses a long Arca lens plate to balance big telephotos"
+      },
+      {
+        "name": "Peak Design Capture clip",
+        "type": "accessory",
+        "relation": "a strap clip whose plate is Arca compatible"
+      },
+      {
+        "name": "Really Right Stuff",
+        "type": "brand",
+        "relation": "premium maker of camera-specific Arca plates and L-brackets"
+      },
+      {
+        "name": "Kirk",
+        "type": "brand",
+        "relation": "premium maker of Arca clamps, plates and lens feet"
+      },
+      {
+        "name": "SmallRig",
+        "type": "brand",
+        "relation": "maker of the 2146B Arca-type plate"
+      },
+      {
+        "name": "NEEWER",
+        "type": "brand",
+        "relation": "maker of the QPR-5C square Arca-type plates"
+      },
+      {
+        "name": "SIRUI",
+        "type": "brand",
+        "relation": "maker of the QC-55 Arca clamp and plate kit"
+      }
+    ],
+    "attributes": [
+      "plate width (about 38 mm)",
+      "dovetail angle",
+      "plate length",
+      "safety stops",
+      "anti-twist rubber pads",
+      "mounting screw thread (1/4\"-20, 3/8\"-16)",
+      "clamp type (screw knob vs lever)",
+      "load capacity",
+      "weight",
+      "camera-specific vs universal fit",
+      "L-bracket vs flat plate",
+      "compatibility with proprietary heads"
+    ],
+    "ngrams": [
+      "arca swiss plate",
+      "arca swiss compatible",
+      "quick release plate",
+      "quick release system",
+      "arca type",
+      "tripod head",
+      "ball head",
+      "l bracket",
+      "camera plate",
+      "lens foot",
+      "screw knob clamp",
+      "lever clamp",
+      "45 degree dovetail",
+      "38mm wide"
+    ],
+    "skipgrams": [
+      "plate…clamp",
+      "arca…compatible",
+      "lever…tolerance",
+      "dovetail…clamp",
+      "plate…twist",
+      "camera…plate",
+      "lens…foot",
+      "safety…stop"
+    ],
+    "nlpTerms": [
+      "dovetail",
+      "clamp",
+      "plate",
+      "standard",
+      "compatible",
+      "proprietary",
+      "quick release",
+      "tripod head",
+      "ball head",
+      "gimbal",
+      "L-bracket",
+      "telephoto",
+      "lens collar",
+      "1/4-20",
+      "3/8-16",
+      "tolerance",
+      "twist",
+      "safety pin",
+      "anti-twist",
+      "aluminum",
+      "CNC machined",
+      "Manfrotto",
+      "RC2",
+      "Peak Design",
+      "monopod"
+    ],
+    "questions": [
+      "What is an Arca-Swiss plate?",
+      "Do I need an Arca-Swiss plate?",
+      "Is Arca-Swiss a standard size?",
+      "Are all Arca-Swiss plates compatible?",
+      "What is the difference between Arca-Swiss and Manfrotto RC2?",
+      "What does Arca-Swiss compatible mean?",
+      "What are Arca-Swiss plate dimensions?",
+      "Do I need an L-bracket or just a plate?"
+    ],
+    "contentGaps": [
+      "A plain yes/no decision path: which tripods and heads already use Arca, which use proprietary plates, and when an adapter clamp is the answer",
+      "Why lever clamps are fussier than screw-knob clamps with off-brand plates (width tolerance)",
+      "Plate twist under a heavy lens and how anti-twist pads, a lip or a second screw prevent it",
+      "Matching plate length to gear: short square plates for small mirrorless bodies, longer plates for balancing a 70-200mm or a lens foot",
+      "Safety stops and why a stopless plate can slide out of a loosened clamp",
+      "How to fit a plate correctly in a few steps"
+    ],
+    "outline": [
+      {
+        "h2": "What Is an Arca-Swiss Plate?",
+        "intent": "definition",
+        "h3": [
+          "The plate and the clamp",
+          "Where the standard came from"
+        ]
+      },
+      {
+        "h2": "Do You Need an Arca-Swiss Plate?",
+        "intent": "decision",
+        "h3": [
+          "You need one if",
+          "You can skip it if"
+        ]
+      },
+      {
+        "h2": "Is Arca-Swiss a Standard Size? Dimensions and Compatibility",
+        "intent": "compatibility",
+        "h3": [
+          "Why lever clamps are pickier",
+          "Arca-Swiss vs Manfrotto RC2 and other proprietary plates"
+        ]
+      },
+      {
+        "h2": "Types of Arca-Swiss Plates",
+        "intent": "types",
+        "h3": [
+          "Universal plates",
+          "Camera-specific plates and L-brackets",
+          "Lens plates and lens feet"
+        ]
+      },
+      {
+        "h2": "Three Arca-Swiss Plates and Clamps Worth Knowing",
+        "intent": "examples",
+        "h3": [
+          "SmallRig Quick Release Plate for Arca Swiss 2146B",
+          "NEEWER QPR-5C 2 Pack Quick Release Plate",
+          "SIRUI QC-55 Quick Release Plate and Clamp"
+        ]
+      },
+      {
+        "h2": "How to Choose an Arca-Swiss Plate",
+        "intent": "buying guide",
+        "h3": []
+      },
+      {
+        "h2": "How to Mount an Arca-Swiss Plate So It Doesn't Twist",
+        "intent": "how-to",
+        "h3": []
+      },
+      {
+        "h2": "Next Steps",
+        "intent": "verdict and next step",
+        "h3": []
+      }
+    ],
+    "targetWords": 2100,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://photographylife.com/arca-swiss-quick-release-system",
+        "https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/",
+        "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+        "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+        "https://www.lynnbarsigianphotography.com/best-arca-swiss-plates-for-ball-heads/",
+        "https://arca-swiss-usa.com/pages/quick-release",
+        "https://www.reddit.com/r/photography/comments/1f2qzxw/whats_the_point_of_arca_swiss_standard_when/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The explainers that rank (Photography Life, DSLR Video Shooter) describe each plate or clamp in a short paragraph or a few lines inside the explanation, not as pros/cons lists; the affiliate roundups that list 13-17 products are a minority and the query is informational.",
+      "avgWords": 1800,
+      "avgProducts": 5,
+      "commonSections": [
+        "what the Arca-Swiss system is (plate + clamp)",
+        "plate types (base plate, L-bracket, lens foot)",
+        "clamps (screw vs lever)",
+        "compatibility caveats",
+        "example products or brands",
+        "buying advice"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpProducts": [
+      {
+        "name": "SmallRig Quick Release Plate for Arca Swiss 2146B",
+        "pages": [
+          "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+          "https://www.lynnbarsigianphotography.com/best-arca-swiss-plates-for-ball-heads/"
+        ]
+      },
+      {
+        "name": "NEEWER QPR-5C 2 Pack Quick Release Plate",
+        "pages": [
+          "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+          "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
+        ]
+      },
+      {
+        "name": "SIRUI QC-55 Quick Release Plate and Clamp",
+        "pages": [
+          "https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+          "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
+        ]
+      }
+    ],
+    "keywordResearch": {
+      "ahrefsSuggestions": "keywords-explorer-search-suggestions (us) on \"arca swiss plate\" and \"what is arca swiss\", 2026-10-18",
+      "kept": [
+        "what is arca swiss (60)",
+        "what is an arca swiss plate (10)",
+        "arca swiss plate dimensions (40)",
+        "what does arca swiss compatible mean (0)",
+        "is arca swiss compatible with manfrotto (0)"
+      ],
+      "differentIntent": [
+        "arca swiss plate for rifle",
+        "m lok arca swiss plate",
+        "best arca swiss plate",
+        "smallrig arca swiss plate"
+      ]
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-mini-tripod-for-desk-video-calls",
+      "mode": "related-box"
+    },
+    {
+      "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-tall-photographers-over-6-feet",
+      "mode": "related-box"
+    }
+  ]
+}

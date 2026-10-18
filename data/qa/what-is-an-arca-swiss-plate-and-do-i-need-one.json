@@ -1,0 +1,16 @@
+{
+  "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:30:25.106Z",
+  "errors": [],
+  "warnings": [
+    "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI QC-55 Quick Release Plate and Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-18: Arca-Swiss history (1950s single-channel clamp), 38 mm classic and 26 mm monoballFix dovetail widths, safety pins and the warning that copies may not fit flipLock against arca-swiss-usa.com/pages/quick-release; ISO 1222 1/4-20 thread, plate/clamp anatomy, RRS camera-specific plates, Kirk/Wimberley lens feet, Arca lens feet on Tamron 150-600 G2, L-bracket preference against photographylife.com. SmallRig 2146B: 68 mm, 48 g, aluminum alloy, 1/4-20 + 3/8-16 screws (smallrig.com), anti-twist rubber pads (B&H), Amazon B01B4LBN7W title names 2146B; owner praise/complaints from B&H (8 reviews read) and smallrig.com (5) plus Amazon themes. NEEWER QPR-5C: 38x38 mm, 19 g each, aluminum, 8 kg/17.6 lb, four-sided slots, 1/4in screw + hex key, not compatible with Falcam F38/DJI (neewer.com); Amazon B0FNCTGRFR title names QPR-5C; 13 owner reviews read. SIRUI QC-55: 15 kg/33.1 lb, 130 g/4.6 oz, aluminum, lever lock, bubble level, 3/8-16 and 1/4-20 female, 1/4-20 male plate, not compatible with Manfrotto-style plates (B&H specs and Q&A); 55 mm and model in Amazon B0DB5RWZTL title; 11 owner reviews read. Manfrotto 290 Xtra 200PL-14 and Element MII Arca/RC2 plate claims match existing site posts. serpProducts each recommended by markus-hagner-photography.com and lynnbarsigianphotography.com. No prices, ratings or testing claims.",
+    "at": "2026-10-18T13:30:14.581Z"
+  }
+}
