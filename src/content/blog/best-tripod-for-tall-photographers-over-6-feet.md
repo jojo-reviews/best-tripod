@@ -365,6 +365,7 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - best-tripod-for-iphone-night-mode-photos
   - monopod-vs-tripod-for-sports-photography
   - what-is-an-arca-swiss-plate-and-do-i-need-one
   - best-mini-tripod-for-desk-video-calls

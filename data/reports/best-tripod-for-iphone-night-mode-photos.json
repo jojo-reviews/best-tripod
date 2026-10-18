@@ -1,0 +1,293 @@
+{
+  "keyword": "best tripod for iphone night mode photos",
+  "createdAt": "2026-10-18T13:35:45.960Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for iPhone Night mode photos",
+    "entityVariants": [
+      "iPhone night mode tripod",
+      "iPhone tripod for night photography",
+      "phone tripod for long exposure",
+      "sturdy phone tripod for night photos",
+      "tripod for iPhone photography"
+    ],
+    "entities": [
+      {
+        "name": "Night mode",
+        "type": "camera feature",
+        "relation": "iPhone low-light mode that holds the shutter open for several seconds and benefits from a tripod"
+      },
+      {
+        "name": "iPhone 11 and later",
+        "type": "device",
+        "relation": "the iPhone models that support Night mode, per Apple"
+      },
+      {
+        "name": "Max capture time",
+        "type": "setting",
+        "relation": "Night mode slider setting that extends the exposure, longest when the phone is still"
+      },
+      {
+        "name": "self-timer",
+        "type": "camera feature",
+        "relation": "free way to start a Night mode exposure without touching the phone"
+      },
+      {
+        "name": "Bluetooth shutter remote",
+        "type": "accessory",
+        "relation": "triggers the shot without a finger on the screen"
+      },
+      {
+        "name": "phone clamp",
+        "type": "accessory",
+        "relation": "spring holder with a 1/4\"-20 socket that connects an iPhone to a tripod"
+      },
+      {
+        "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp",
+        "type": "product",
+        "relation": "rigid tabletop tripod plus clamp"
+      },
+      {
+        "name": "JOBY GorillaPod 1K Kit",
+        "type": "product",
+        "relation": "flexible tripod with ball head that wraps around rails and posts"
+      },
+      {
+        "name": "JOBY GripTight ONE GP Stand",
+        "type": "product",
+        "relation": "pocket flexible tripod with built-in phone clamp"
+      },
+      {
+        "name": "ball head",
+        "type": "tripod head",
+        "relation": "aims the phone; must lock without drift during a long exposure"
+      },
+      {
+        "name": "1/4\"-20 thread",
+        "type": "standard",
+        "relation": "screw standard shared by phone clamps, mini tripods and full tripods"
+      },
+      {
+        "name": "Arca-Swiss",
+        "type": "standard",
+        "relation": "quick-release plate standard; none of these mini tripods use it"
+      },
+      {
+        "name": "full-size travel tripod",
+        "type": "tripod type",
+        "relation": "alternative support when a clamp is added; taller but heavier"
+      }
+    ],
+    "attributes": [
+      "load capacity vs iPhone weight",
+      "maximum height",
+      "folded length",
+      "weight",
+      "leg type (rigid or flexible)",
+      "head lock (push button or knob)",
+      "phone clamp width range",
+      "remote or timer support",
+      "stability on uneven ground and in wind"
+    ],
+    "ngrams": [
+      "iphone night mode",
+      "night mode photos",
+      "tripod for iphone",
+      "long exposure",
+      "phone clamp",
+      "self-timer",
+      "bluetooth remote",
+      "mini tripod",
+      "flexible legs",
+      "30 seconds"
+    ],
+    "skipgrams": [
+      "night…mode…tripod",
+      "exposure…seconds",
+      "phone…clamp",
+      "legs…wrap",
+      "timer…shake",
+      "ball…head…lock"
+    ],
+    "nlpTerms": [
+      "exposure",
+      "low light",
+      "stars",
+      "Milky Way",
+      "blur",
+      "shake",
+      "stability",
+      "tabletop",
+      "railing",
+      "payload",
+      "capture time",
+      "self-timer",
+      "remote shutter",
+      "Apple Watch",
+      "case"
+    ],
+    "questions": [
+      "Does iPhone Night mode work better on a tripod?",
+      "How long can iPhone Night mode expose on a tripod?",
+      "What phone mount is best for night photos?",
+      "Do I need a remote for iPhone Night mode?",
+      "Can I use a regular camera tripod with an iPhone at night?",
+      "Is a flexible tripod steady enough for night photos?"
+    ],
+    "contentGaps": [
+      "Load rating against real iPhone weight, including a case and a Pro Max",
+      "Clamp width against a cased Pro Max",
+      "Why a low, short tripod is steadier than a tall selfie-stick tripod for multi-second exposures",
+      "Timer vs remote vs Apple Watch for starting a Night mode capture without touching the phone",
+      "What happens when the phone detects it is on a tripod (longer capture time)",
+      "Wind and ground vibration on a rooftop or ridge"
+    ],
+    "outline": [
+      {
+        "h2": "Best Tripods for iPhone Night Mode Photos: Quick Picks",
+        "intent": "deliver the picks in the first screen",
+        "h3": []
+      },
+      {
+        "h2": "How We Picked These iPhone Night Mode Tripods",
+        "intent": "trust: SERP evidence, owner reviews, specs",
+        "h3": []
+      },
+      {
+        "h2": "Night Mode Tripod Comparison Table",
+        "intent": "compare height, weight, load, clamp",
+        "h3": []
+      },
+      {
+        "h2": "The 3 Best Tripods for iPhone Night Mode Photos",
+        "intent": "product sections",
+        "h3": [
+          "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp",
+          "JOBY GorillaPod 1K Kit",
+          "JOBY GripTight ONE GP Stand"
+        ]
+      },
+      {
+        "h2": "How to Choose a Tripod for iPhone Night Mode",
+        "intent": "buying guide",
+        "h3": [
+          "Load rating vs your iPhone and case",
+          "Clamp width and grip",
+          "Rigid vs flexible legs",
+          "Head lock and aiming at the sky",
+          "Height: lower is steadier"
+        ]
+      },
+      {
+        "h2": "How to Shoot iPhone Night Mode on a Tripod",
+        "intent": "setup and technique, timer and remote",
+        "h3": [
+          "Step by step",
+          "Timer, remote or Apple Watch"
+        ]
+      },
+      {
+        "h2": "Mini Tripod vs Full-Size Tripod With a Phone Clamp",
+        "intent": "alternative path for owners of a camera tripod",
+        "h3": []
+      },
+      {
+        "h2": "Verdict: The Best Tripod for iPhone Night Mode Photos",
+        "intent": "decision",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "serpProducts": [
+      {
+        "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+        "pages": [
+          "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports",
+          "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone",
+          "https://www.cameraegg.org/camerareview/best-travel-tripod-for-iphone-night-photography/",
+          "https://shotkit.com/best-tripods-for-iphone/"
+        ],
+        "note": "DCW names the exact kit (PIXI with Smartphone Clamp); TechGearLab names the PIXI Mini Tripod Kit; Cameraegg and Shotkit name the PIXI Mini. The plain PIXI (MTPIXI-B) is already featured in best-mini-tripod-for-desk-video-calls, so this post uses the clamp kit SKU."
+      },
+      {
+        "name": "JOBY GorillaPod 1K Kit (JB01503)",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+          "https://skiesandscopes.com/best-phone-tripods-milky-way/",
+          "https://www.tripadvisor.com/ShowTopic-g1-i12530-k15482026-Tripod_for_iPhone-Travel_Gadgets_and_Gear.html",
+          "https://www.facebook.com/groups/smartphoneastro/posts/641579381768121/"
+        ],
+        "note": "Wirecutter names the GorillaPod 1K Kit as its pick (search snippet; page not readable). Skies & Scopes, the Tripadvisor thread and the Facebook group snippet recommend a GorillaPod-style bendy tripod without naming a size; TechGearLab and Cameraegg name the larger 3K Kit, which has no standalone Amazon US listing."
+      },
+      {
+        "name": "JOBY GripTight ONE GP Stand (JB01491)",
+        "pages": [
+          "https://shotkit.com/best-tripods-for-iphone/",
+          "https://www.tripadvisor.com/ShowTopic-g1-i12530-k15482026-Tripod_for_iPhone-Travel_Gadgets_and_Gear.html",
+          "https://www.digitaltrends.com/mobile/best-iphone-tripods/"
+        ],
+        "note": "Shotkit names it (Best flexible mini). A Tripadvisor poster recommends the iPhone GorillaPod at about 71 g, the GP Stand's listed weight. Digital Trends' iPhone tripod roundup (seen in search results) covers the GripTight One GorillaPod Stand."
+      }
+    ],
+    "droppedProducts": [
+      {
+        "name": "JOBY TelePod Mobile",
+        "reason": "Recommended by Digital Camera World and the Reddit thread, but discontinued at B&H and no Amazon US listing found."
+      },
+      {
+        "name": "JOBY GorillaPod 3K Kit",
+        "reason": "Named by TechGearLab and Cameraegg, but B&H lists it as no longer available and Amazon US shows only the 3K Video PRO and bundle kits."
+      },
+      {
+        "name": "KraftGeek JustTap / UBeesize",
+        "reason": "Already featured in best-phone-tripod-for-vlogging-with-remote; JustTap is a tall selfie-stick tripod, which Skies & Scopes advises against for long night exposures."
+      }
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone",
+        "https://skiesandscopes.com/best-phone-tripods-milky-way/",
+        "https://www.tripadvisor.com/ShowTopic-g1-i12530-k15482026-Tripod_for_iPhone-Travel_Gadgets_and_Gear.html",
+        "https://www.cameraegg.org/camerareview/best-travel-tripod-for-iphone-night-photography/",
+        "https://shotkit.com/best-tripods-for-iphone/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Digital Camera World, TechGearLab, Shotkit and Cameraegg all show reasons to buy / reasons to avoid lists per product next to a short spec block.",
+      "avgWords": 1650,
+      "avgProducts": 6,
+      "commonSections": [
+        "top picks",
+        "product reviews",
+        "how to choose / buying guide",
+        "how we test or chose",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true,
+      "note": "Word counts: DCW ~6,000 raw markdown incl. deal widgets, TechGearLab ~3,850, Shotkit ~3,280, Cameraegg ~2,130, Skies & Scopes ~1,020; forum pages excluded. avgWords is a rounded estimate of article text. targetWords follows the routine formula (700 + 150 x 3 = 1,150) raised toward the SERP norm."
+    },
+    "secondaryKeywordsFromAutocomplete": [
+      "iphone night mode tripod",
+      "iphone tripod night photography",
+      "tripod for iphone photography",
+      "tripod for night photography"
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-phone-tripod-for-vlogging-with-remote",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-tall-photographers-over-6-feet",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "mode": "related-box"
+    }
+  ]
+}

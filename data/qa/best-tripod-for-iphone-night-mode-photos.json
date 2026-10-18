@@ -1,0 +1,16 @@
+{
+  "slug": "best-tripod-for-iphone-night-mode-photos",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:35:17.553Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GripTight ONE GP Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-18: Manfrotto MKPIXICLAMP-BK on manfrotto.com (215 g, 24.7 cm max height, 26 cm closed, 1 kg total payload, stainless steel + Adapto, push-button lock, 1/4in clamp) and Digital Camera World guide (83 mm max phone width, one leg angle); JOBY GorillaPod 1K Kit on B&H (1 kg/2.2 lb, max height 10 in, ball head 360 pan 90 tilt, 1/4-20) plus Amazon spec table (model JB01503, GorillaPod 1K Kit) and retailer listings for weight/folded length ranges; JOBY GripTight ONE GP Stand on B&H specs (325 g load, 71 g, 2.2-3.6 in/56-91 mm phones, discontinued at B&H) and Vistek (16.5 cm dims). ASINs checked via Amazon US listing titles/model numbers: B0169SORBO = MKPIXICLAMP-BK, B074WFNNKY = JB01503 GorillaPod 1K Kit, B01NGTBA3E = JB01491 GripTight ONE GP Stand. Night mode steps (iPhone 11+, Max slider extends capture time, tripod/solid surface advice) against Apple Support 102519; Apple Watch Camera Remote against Apple guide; 30 s exposures, timer/remote and ground-vibration advice and warning on tall single-pole tripods against Skies & Scopes. SERP recommendations checked on DCW, TechGearLab, Shotkit, Cameraegg, Skies & Scopes, Tripadvisor; Wirecutter pick from its own published summary. Owner claims reworded so single reports are framed as one owner.",
+    "at": "2026-10-18T13:35:12.254Z"
+  }
+}
