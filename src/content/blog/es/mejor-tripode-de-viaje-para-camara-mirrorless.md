@@ -1118,7 +1118,7 @@ Así es como yo elegiría, en versión corta:
 - **Mejor para objetivos pesados:** 3 Legged Thing Punks Travis 2.0, para 18 kg (39.7 lb) con el ángulo de pata más cerrado.
 - **Mejor económico:** Benro Slim Aluminum Travel Tripod Kit, que se pliega a unos 33 cm (13 in) con rótula y funda.
 
-Cada puntuación de esta página sigue nuestro [método Best Tripod Score](/how-we-score/), publicado, que pondera estabilidad, portabilidad, altura de trabajo, construcción y relación calidad-precio.
+Cada puntuación de esta página sigue nuestro [método Best Tripod Spec Score](/how-we-score/), publicado, que pondera estabilidad, portabilidad, altura de trabajo, construcción y relación calidad-precio.
 
 ## Tabla comparativa: trípodes de viaje compactos para mirrorless cara a cara
 

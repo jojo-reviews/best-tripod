@@ -436,7 +436,7 @@ Die Beinverschlüsse bestimmen dein Aufbautempo. Das Peak Design hat fünf Beins
 
 ## Preis-Leistung: Lohnt sich das Peak Design gegenüber dem Befree?
 
-**Das Befree Advanced Aluminum ist die Preis-Leistungs-Empfehlung, weil es dem Alu-Peak-Design bei Gewicht, Packmaß, Höhe ohne Mittelsäule und Tragkraft entspricht und weniger kostet.** In unserem [Best Tripod Score](/how-we-score/) liegt das Carbon-Peak-Design bei Stabilität, Höhe und Mobilität vorn, doch die Preis-Leistung bremst es, während das Befree bei der Preis-Leistung am besten abschneidet.
+**Das Befree Advanced Aluminum ist die Preis-Leistungs-Empfehlung, weil es dem Alu-Peak-Design bei Gewicht, Packmaß, Höhe ohne Mittelsäule und Tragkraft entspricht und weniger kostet.** In unserem [Best Tripod Spec Score](/how-we-score/) liegt das Carbon-Peak-Design bei Stabilität, Höhe und Mobilität vorn, doch die Preis-Leistung bremst es, während das Befree bei der Preis-Leistung am besten abschneidet.
 
 Das Alu-Peak-Design verdient seinen höheren Preis mit dem schlankeren Packmaß, der tiefen Perspektive bis 14 cm und der abnehmbaren oder umkehrbaren Mittelsäule. Das Carbon-Peak-Design verdient seinen Aufpreis mit etwa 320 g (0.7 lb) weniger Gewicht und besserer Schwingungsdämpfung. Wenn du einen dieser Punkte vor dem Kauf mit deiner eigenen Ausrüstung abgleichen willst, geht unsere [Kauf-Checkliste für Stative (auf Englisch)](/tripod-buying-checklist/) Tragkraft, Höhe und Packmaß Schritt für Schritt durch. Für eine Außensicht behandelt [der Testbericht von ePHOTOzine zum Befree Advanced Aluminium](https://www.ephotozine.com/article/manfrotto-befree-advanced-aluminium-travel-tripod-review-31882) das Manfrotto-Set ausführlicher.
 

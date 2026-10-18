@@ -1121,7 +1121,7 @@ So würde ich in der Kurzfassung wählen:
 - **Bestes für schwere Objektive:** 3 Legged Thing Punks Travis 2.0, beim engsten Beinwinkel für 18 kg (39.7 lb) ausgelegt.
 - **Bestes günstiges Modell:** Benro Slim Aluminum Travel Tripod Kit, das mit Kugelkopf und Tasche auf etwa 33 cm (13 in) zusammenklappt.
 
-Jede Wertung auf dieser Seite folgt unserer veröffentlichten [Methode für den Best Tripod Score](/how-we-score/), die Stabilität, Mobilität, Arbeitshöhe, Verarbeitung und Preis-Leistung gewichtet.
+Jede Wertung auf dieser Seite folgt unserer veröffentlichten [Methode für den Best Tripod Spec Score](/how-we-score/), die Stabilität, Mobilität, Arbeitshöhe, Verarbeitung und Preis-Leistung gewichtet.
 
 ## Vergleichstabelle: kompakte Reisestative für spiegellose Kameras im Überblick
 

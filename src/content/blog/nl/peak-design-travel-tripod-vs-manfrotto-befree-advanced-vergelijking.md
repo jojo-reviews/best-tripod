@@ -436,7 +436,7 @@ De beensluitingen bepalen hoe snel je staat. Het Peak Design gebruikt vijf beens
 
 ## Prijs-kwaliteit: is het Peak Design de meerprijs waard tegenover het Befree?
 
-**Het Befree Advanced Aluminum is de prijs-kwaliteitkeuze, omdat het het aluminium Peak Design evenaart in gewicht, ingeklapte lengte, hoogte met de zuil omlaag en draagvermogen, voor minder geld.** In onze [Best Tripod Score](/how-we-score/) leidt het carbon Peak Design op stabiliteit, hoogte en draagbaarheid, maar houdt prijs-kwaliteit het tegen, terwijl het Befree het hoogst scoort op prijs-kwaliteit.
+**Het Befree Advanced Aluminum is de prijs-kwaliteitkeuze, omdat het het aluminium Peak Design evenaart in gewicht, ingeklapte lengte, hoogte met de zuil omlaag en draagvermogen, voor minder geld.** In onze [Best Tripod Spec Score](/how-we-score/) leidt het carbon Peak Design op stabiliteit, hoogte en draagbaarheid, maar houdt prijs-kwaliteit het tegen, terwijl het Befree het hoogst scoort op prijs-kwaliteit.
 
 Het aluminium Peak Design verdient zijn hogere prijs met een slankere vorm, een laag standpunt tot 14 cm en een zuil die eraf kan of omgekeerd kan worden. Het carbon Peak Design verdient zijn meerprijs met zo'n 320 g (0.7 lb) minder gewicht en betere trillingsdemping. Als je een van deze punten vóór aankoop aan je eigen uitrusting wilt toetsen, loopt onze [koopchecklist voor statieven (in het Engels)](/tripod-buying-checklist/) draagvermogen, hoogte en ingeklapte lengte stap voor stap door. Voor een blik van buitenaf behandelt [de review van ePHOTOzine van het Befree Advanced Aluminium](https://www.ephotozine.com/article/manfrotto-befree-advanced-aluminium-travel-tripod-review-31882) de Manfrotto-set uitgebreider.
 

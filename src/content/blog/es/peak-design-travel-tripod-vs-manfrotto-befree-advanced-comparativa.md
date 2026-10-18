@@ -435,7 +435,7 @@ Los cierres de las patas marcan tu velocidad de montaje. El Peak Design usa cinc
 
 ## Relación calidad-precio: ¿merece la pena el Peak Design frente al Befree?
 
-**El Befree Advanced Aluminum es la opción con mejor relación calidad-precio, porque iguala al Peak Design de aluminio en peso, longitud plegado, altura con la columna bajada y carga por menos dinero.** En nuestro [Best Tripod Score](/how-we-score/), el Peak Design de carbono lidera en estabilidad, altura y portabilidad, pero la relación calidad-precio lo frena, mientras que el Befree es el que mejor puntúa en ese apartado.
+**El Befree Advanced Aluminum es la opción con mejor relación calidad-precio, porque iguala al Peak Design de aluminio en peso, longitud plegado, altura con la columna bajada y carga por menos dinero.** En nuestro [Best Tripod Spec Score](/how-we-score/), el Peak Design de carbono lidera en estabilidad, altura y portabilidad, pero la relación calidad-precio lo frena, mientras que el Befree es el que mejor puntúa en ese apartado.
 
 El Peak Design de aluminio justifica su precio más alto con un plegado más estrecho, un ángulo bajo de 14 cm y una columna que se quita o se invierte. El Peak Design de carbono justifica su sobreprecio con unos 320 g (0.7 lb) menos de peso y una mejor amortiguación de vibraciones. Si quieres contrastar cualquiera de estos puntos con tu propio equipo antes de comprar, nuestra [lista de comprobación para comprar un trípode (en inglés)](/tripod-buying-checklist/) repasa carga, altura y longitud plegado paso a paso. Para una visión externa, [el análisis de ePHOTOzine del Befree Advanced Aluminium](https://www.ephotozine.com/article/manfrotto-befree-advanced-aluminium-travel-tripod-review-31882) trata el kit de Manfrotto con más detalle.
 

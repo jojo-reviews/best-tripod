@@ -1122,7 +1122,7 @@ Zo zou ik in het kort kiezen:
 - **Beste voor zware lenzen:** 3 Legged Thing Punks Travis 2.0, opgegeven voor 18 kg (39.7 lb) bij de smalste pootstand.
 - **Beste budgetkeuze:** Benro Slim Aluminum Travel Tripod Kit, dat met balhoofd en tas inklapt tot zo'n 33 cm (13 in).
 
-Elke score op deze pagina volgt onze gepubliceerde [Best Tripod Score-methode](/how-we-score/), die stabiliteit, draagbaarheid, werkhoogte, bouwkwaliteit en prijs-kwaliteit weegt.
+Elke score op deze pagina volgt onze gepubliceerde [Best Tripod Spec Score-methode](/how-we-score/), die stabiliteit, draagbaarheid, werkhoogte, bouwkwaliteit en prijs-kwaliteit weegt.
 
 ## Vergelijkingstabel: compacte reisstatieven voor systeemcamera's naast elkaar
 

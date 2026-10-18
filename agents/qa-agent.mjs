@@ -114,7 +114,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   {
     const strict = pub >= Date.parse(SITE.qa?.styleRequiredFrom ?? '2100-01-01');
     const flag = strict ? err : warn;
-    const singular = (body.match(/\b(I|I'd|I'm|I've|I'll|my|me)\b/g) ?? []).length;
+    // Link targets are URLs, not prose: a slug like /blog/...-for-my-height/ is not first-person voice.
+    const voiceText = body.replace(/\]\([^)]*\)/g, ']');
+    const singular = (voiceText.match(/\b(I|I'd|I'm|I've|I'll|my|me)\b/g) ?? []).length;
     if (singular) flag(`${singular} first-person singular words (I, my, me): the byline is the editorial team, write "we/our/us"`);
     const words = body.split(/\s+/).filter(Boolean).length;
     // Contextual internal links: in running text (not tables, headings or link-only lines), one per ~800 words.

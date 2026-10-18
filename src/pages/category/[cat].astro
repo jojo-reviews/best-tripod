@@ -4,6 +4,9 @@ import PostItem from '../../components/PostItem.astro';
 import { getPublishedPosts } from '../../lib/posts';
 import { SITE, absUrl } from '../../lib/site';
 
+// Optional buying guide per category (src/content/category-guides/<slug>.md), shown below the post list.
+const guides = import.meta.glob<{ Content: any; frontmatter: Record<string, any> }>('../../content/category-guides/*.md', { eager: true });
+
 export async function getStaticPaths() {
   const posts = await getPublishedPosts();
   return SITE.categories.map((c) => ({
@@ -12,6 +15,9 @@ export async function getStaticPaths() {
   }));
 }
 const { category, posts } = Astro.props;
+// Categories without posts stay noindex and get no guide.
+const guide = posts.length ? guides[`../../content/category-guides/${category.slug}.md`] : undefined;
+const Guide = guide?.Content;
 const jsonLd = [{
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
@@ -40,5 +46,9 @@ const jsonLd = [{
       <p class="dek">{category.blurb}</p>
     </header>
     {posts.length ? <div class="posts">{posts.map((p) => <PostItem post={p} />)}</div> : <p class="empty">Guides for this category are being researched right now.</p>}
+    {Guide && <section class="cat-guide prose" aria-label={`${category.name} buying guide`}><Guide /></section>}
   </div>
 </Base>
+<style>
+  .cat-guide { margin: 56px 0 24px; padding-top: 8px; border-top: 1px solid var(--rule); }
+</style>
