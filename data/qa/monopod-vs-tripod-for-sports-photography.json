@@ -1,0 +1,15 @@
+{
+  "slug": "monopod-vs-tripod-for-sports-photography",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:34:14.121Z",
+  "errors": [],
+  "warnings": [
+    "product \"iFootage Cobra 3 C180F-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 2S CM-264TR\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified iFootage Cobra 3 C180F-P against ifootagegear.com product page (carbon fiber, flip lock, pedal base, 40-degree max tilt, 1.27 kg, 8 kg payload, 69 cm folded, 181 cm max) and Amazon B0BR8T1KJK title (Cobra 3 C180F-P, 17.6 lb payload); B&H review count 35. Verified Vanguard VEO 2S CM-264TR against vanguardworld.co.uk (4 sections, 26 mm, half-turn twist locks, 800 g, 15 kg, 55 cm folded, 163 cm max, tri-feet with lockable ball joint, 1/4in thread, unattended warning) plus Adorama/Amazon B083T512BB US listings (6 kg / 13.2 lb load, 21.5 in folded, 1.75 lb) and the Digital Camera World review (little flex at full height, stiff panning on tri-feet, BP-120T kit); load conflict stated in post. Owner claims checked against bcgforums Cobra 3 thread, DPReview Cobra 3 thread, PetaPixel review and Shotkit. General claims checked: DPS (monopods set up in seconds, favored by sports shooters), Gitzo sports article (tripods not allowed at the Olympics, monopod carried throughout Tokyo), DPReview threads (low light needs tripod; 1/800 s handheld with 70-200/100-400; gimbals on monopods unstable), bcgforums (600mm f/4 to 800mm PF lets owner use monopod more). Both ASINs checked against listing titles as the same model. No prices, star ratings, review counts or testing claims.",
+    "at": "2026-10-18T13:34:13.745Z"
+  }
+}

@@ -378,7 +378,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -412,7 +412,8 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "publishedAt": "2026-10-18T13:34:45.562Z"
   },
   {
     "status": "published",
@@ -922,5 +923,47 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-18T13:34:45.954Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 5,
+    "keyword": "best monopod for sports photography",
+    "category": "monopods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Monopod for Sports Photography",
+    "cluster": "monopods",
+    "rationale": "Found by the monopod-vs-tripod research: Ahrefs 100/KD 0, buying intent separate from the comparison",
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0
+    },
+    "slug": "best-monopod-for-sports-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-18T13:34:45.954Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 4,
+    "keyword": "what is a monopod",
+    "category": "monopods",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "What Is a Monopod (and When to Use One)",
+    "cluster": "monopods",
+    "rationale": "Found by the monopod-vs-tripod research: Ahrefs 300/mo, definition intent",
+    "ahrefs": {
+      "volume": 300,
+      "kd": 0
+    },
+    "slug": "what-is-a-monopod"
   }
 ]
