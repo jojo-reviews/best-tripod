@@ -62,6 +62,7 @@ const WRITE_SYSTEM = `You are the senior writer for ${SITE.domain}. Voice: a kno
 
 SEMANTIC SEO RULES (follow all):
 - Entity salience: the central entity is the grammatical SUBJECT of the first sentence and of the topic sentence of each major section, and appears in the title, the first 100 words and about a third of H2s. Inside a section, after its first mention, rotate: a pronoun, a short form ("the 5C"), an attribute form ("this 850 g carbon option"). ENTITY CAP: no exact product or brand name more than 10 times per 3,000 words (QA counts this).
+- Internal links: at least one contextual link per ~800 words, inside running text, to existing posts, category hubs or brand pages of this site, anchored on entity + attribute ("carbon travel tripods under 1 kg"), never "click here" or "our guide". Related-post cards don't count. Every buying guide links its category hub and at least two sibling posts.
 - Frame variance: no two product sections open with the same first four words, and no sentence frame ("It folds to about…", "It suits a…") repeats within the article. Keep a running list while drafting and rewrite collisions.
 - Fit and function claims (fits in a carry-on, stable in wind, slides under a bed) carry their source inline ("per the manual", "one Fred Miranda owner reported", "the listing says") or are cut. A single owner report is reported as one report, never as a common complaint.
 - Define each important related entity by its attributes the first time it appears (what it is, how it relates to the central entity).

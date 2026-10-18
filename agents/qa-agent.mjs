@@ -117,6 +117,11 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     const singular = (body.match(/\b(I|I'd|I'm|I've|I'll|my|me)\b/g) ?? []).length;
     if (singular) flag(`${singular} first-person singular words (I, my, me): the byline is the editorial team, write "we/our/us"`);
     const words = body.split(/\s+/).filter(Boolean).length;
+    // Contextual internal links: in running text (not tables, headings or link-only lines), one per ~800 words.
+    const prose = body.split('\n').filter((l) => l.trim() && !/^\s*(\||#|>?\s*!\[)/.test(l));
+    const internal = prose.reduce((n, l) => n + (l.match(/\]\(\/(?!\/)[^)\s]*\)/g) ?? []).length, 0);
+    const needLinks = Math.max(2, Math.floor(words / 800));
+    if (internal < needLinks) flag(`${internal} contextual internal links for ${words} words; add at least ${needLinks} (entity + attribute anchors, in running text)`);
     const cap = Math.max(10, Math.round((words / 3000) * 10));
     for (const p of d.products ?? []) {
       const name = String(p.name ?? '').replace(/\s*\(.*?\)\s*/g, ' ').trim();
