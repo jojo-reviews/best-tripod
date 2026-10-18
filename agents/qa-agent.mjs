@@ -110,6 +110,22 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!/^>\s*\*\*From our notes:\*\*/m.test(body)) err('missing the "> **From our notes:**" personal story block');
   }
 
+  // --- Style: locked "we" voice and no entity stuffing (errors from styleRequiredFrom, warnings before)
+  {
+    const strict = pub >= Date.parse(SITE.qa?.styleRequiredFrom ?? '2100-01-01');
+    const flag = strict ? err : warn;
+    const singular = (body.match(/\b(I|I'd|I'm|I've|I'll|my|me)\b/g) ?? []).length;
+    if (singular) flag(`${singular} first-person singular words (I, my, me): the byline is the editorial team, write "we/our/us"`);
+    const words = body.split(/\s+/).filter(Boolean).length;
+    const cap = Math.max(10, Math.round((words / 3000) * 10));
+    for (const p of d.products ?? []) {
+      const name = String(p.name ?? '').replace(/\s*\(.*?\)\s*/g, ' ').trim();
+      if (name.split(/\s+/).length < 2) continue;
+      const n = body.split(name).length - 1;
+      if (n > cap) flag(`"${name}" appears ${n} times (cap ${cap} for ${words} words): rotate pronouns, short and attribute forms`);
+    }
+  }
+
   // --- Structure follows the top search results (posts written after the rule existed)
   if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01')) {
     let brief = null;

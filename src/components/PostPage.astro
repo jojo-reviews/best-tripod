@@ -99,7 +99,6 @@ const jsonLd: object[] = [
     image: { '@type': 'ImageObject', url: absUrl(hero ?? '/og-default.png'), width: 1200, height: 630 },
     author: authorSchema(author),
     publisher: { '@id': absUrl('/#organization') },
-    ...(d.sources.length || ownerSources.length ? { citation: [...d.sources, ...ownerSources].map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })) } : {}),
     ...(ownerReads > 0 || reviewPool > 0 ? { backstory: researchNote } : {}),
   },
   {
@@ -114,32 +113,6 @@ const jsonLd: object[] = [
     ],
   },
 ];
-// Editorial product reviews: our own Best Tripod Score for each product
-// (no third-party ratings, no offers; we don't sell the products).
-for (const p of d.products) {
-  const score = productScore(p.scores);
-  if (score == null) continue;
-  jsonLd.push({
-    '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: p.name,
-    ...(p.brand ? { brand: { '@type': 'Brand', name: p.brand } } : {}),
-    ...(p.image?.url ? { image: [p.image.url, ...(p.gallery ?? []).map((g) => g.url)] } : {}),
-    description: p.summary,
-    review: {
-      '@type': 'Review',
-      name: `${p.name}: ${p.badge}`,
-      author: authorSchema(author),
-      publisher: { '@id': absUrl('/#organization') },
-      datePublished: d.pubDate.toISOString().slice(0, 10),
-      reviewBody: [p.summary, p.scoreNote].filter(Boolean).join(' '),
-      reviewRating: { '@type': 'Rating', ratingValue: score, bestRating: 5, worstRating: 1 },
-      ...(p.pros?.length ? { positiveNotes: { '@type': 'ItemList', itemListElement: p.pros.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) } } : {}),
-      ...(p.cons?.length ? { negativeNotes: { '@type': 'ItemList', itemListElement: p.cons.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) } } : {}),
-      ...(p.owners ? { citation: p.owners.sources.map((s) => ({ '@type': 'CreativeWork', name: s.title, url: s.url })) } : {}),
-    },
-  });
-}
 if (d.faqs.length) {
   jsonLd.push({
     '@context': 'https://schema.org',
@@ -147,7 +120,7 @@ if (d.faqs.length) {
     mainEntity: d.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
   });
 }
-if (d.products.length > 1) {
+if (d.products.length) {
   jsonLd.push({
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -155,9 +128,15 @@ if (d.products.length > 1) {
     itemListElement: d.products.map((p, i) => ({
       '@type': 'ListItem',
       position: i + 1,
-      name: p.name,
       url: `${url}#pick-${p.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`,
-      ...(p.image?.url ? { image: p.image.url } : {}),
+      // Factual product facts only: no Review/Rating markup, because the picks are researched, not tested.
+      item: {
+        '@type': 'Product',
+        name: p.name,
+        ...(p.brand ? { brand: { '@type': 'Brand', name: p.brand } } : {}),
+        ...(p.image?.url ? { image: p.image.url } : {}),
+        description: p.summary,
+      },
     })),
   });
 }
