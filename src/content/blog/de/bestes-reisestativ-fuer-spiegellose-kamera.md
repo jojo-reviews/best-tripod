@@ -1,6 +1,6 @@
 ---
-title: 'Bestes Reisestativ für spiegellose Kamera (2026): 15 Empfehlungen'
-seoTitle: 'Bestes Reisestativ für spiegellose Kamera: 15 Modelle 2026'
+title: 'Bestes Reisestativ für spiegellose Kamera (2026) – 15 Empfehlungen'
+seoTitle: 'Bestes Reisestativ für spiegellose Kamera – 15 Modelle 2026'
 description: >-
   Das beste Reisestativ für spiegellose Kamera-Ausrüstung vereint Tragkraft,
   Packmaß und Höhe ohne Mittelsäule. 15 Modelle, Datentabelle und

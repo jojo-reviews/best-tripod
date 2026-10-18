@@ -1,6 +1,6 @@
 ---
-title: 'Videostativ mit Fluidkopf für Anfänger: Die 3 besten (2026)'
-seoTitle: 'Videostativ mit Fluidkopf für Anfänger: 3 Tipps (2026)'
+title: 'Videostativ mit Fluidkopf für Anfänger – die 3 besten (2026)'
+seoTitle: 'Videostativ mit Fluidkopf für Anfänger – 3 Tipps (2026)'
 description: >-
   Das beste Videostativ mit Fluidkopf für Anfänger: drei Sets im Vergleich nach
   Tragkraft, Höhe ohne Mittelsäule, Packmaß und Platten für spiegellose Kameras.

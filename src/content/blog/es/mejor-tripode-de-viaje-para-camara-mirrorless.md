@@ -1,6 +1,6 @@
 ---
-title: 'Mejor trípode de viaje para cámara mirrorless (2026): 15 opciones'
-seoTitle: 'Mejor trípode de viaje para mirrorless (2026): 15 modelos'
+title: 'Mejor trípode de viaje para cámara mirrorless (2026) – 15 opciones'
+seoTitle: 'Mejor trípode de viaje para cámara mirrorless (2026)'
 description: >-
   El mejor trípode de viaje para cámara mirrorless equilibra carga, longitud
   plegado y altura sin columna. Compara 15 modelos, una tabla y consejos para

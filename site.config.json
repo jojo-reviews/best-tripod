@@ -14,28 +14,28 @@
       "path": "",
       "hreflang": "en-US",
       "ogLocale": "en_US",
-      "flag": "\ud83c\uddfa\ud83c\uddf8",
+      "flag": "🇺🇸",
       "label": "English"
     },
     "de": {
       "path": "de",
       "hreflang": "de-DE",
       "ogLocale": "de_DE",
-      "flag": "\ud83c\udde9\ud83c\uddea",
+      "flag": "🇩🇪",
       "label": "Deutsch"
     },
     "es": {
       "path": "es",
       "hreflang": "es-ES",
       "ogLocale": "es_ES",
-      "flag": "\ud83c\uddea\ud83c\uddf8",
-      "label": "Espa\u00f1ol"
+      "flag": "🇪🇸",
+      "label": "Español"
     },
     "nl": {
       "path": "nl",
       "hreflang": "nl-NL",
       "ogLocale": "nl_NL",
-      "flag": "\ud83c\uddf3\ud83c\uddf1",
+      "flag": "🇳🇱",
       "label": "Nederlands"
     }
   },
@@ -225,6 +225,7 @@
     "note": "Every post on this site must pass full QA (structure, facts and voice) before it goes live.",
     "voiceRequiredFrom": "2026-10-15T00:00:00Z",
     "ownersRequiredFrom": "2026-10-17T00:00:00Z",
-    "styleRequiredFrom": "2026-10-18T12:00:00Z"
+    "styleRequiredFrom": "2026-10-18T12:00:00Z",
+    "serpTitlesRequiredFrom": "2026-10-19T00:00:00Z"
   }
 }

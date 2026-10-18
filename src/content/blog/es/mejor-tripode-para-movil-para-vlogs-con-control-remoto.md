@@ -1,6 +1,6 @@
 ---
 title: Mejor trípode para móvil para vlogs con control remoto (2026)
-seoTitle: 'Trípode para móvil para vlogs con control remoto: 3 de 2026'
+seoTitle: 'Trípode para móvil para vlogs con control remoto (2026)'
 description: >-
   El mejor trípode para móvil para vlogs con control remoto: tres modelos
   comparados por altura real, alcance del mando, sujeción y lo que dicen

@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for Tall Photographers Over 6 Feet: 4 Eye-Level Picks'
-seoTitle: 'Best Tripod for Tall Photographers Over 6 Feet: 4 Picks'
+title: Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks
+seoTitle: Best Tripod for Tall Photographers Over 6 Feet – 4 Picks
 description: >-
   The best tripod for tall photographers over 6 feet reaches eye level without
   stooping. Compare 4 picks on real height, load, leg locks and packed length.
@@ -365,10 +365,10 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - best-monopod-with-feet-for-wildlife-photography
   - best-tripod-for-real-estate-photography
   - best-tripod-for-iphone-night-mode-photos
   - monopod-vs-tripod-for-sports-photography
-  - what-is-an-arca-swiss-plate-and-do-i-need-one
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet: 4 Eye-Level Picks: Best Tripod

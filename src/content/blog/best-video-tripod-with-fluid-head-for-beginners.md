@@ -1,5 +1,5 @@
 ---
-title: 'Best Video Tripod With Fluid Head for Beginners: 3 Picks (2026)'
+title: 'Best Video Tripod With Fluid Head for Beginners – 3 Picks (2026)'
 seoTitle: Best Video Tripod With Fluid Head for Beginners (3 Picks)
 description: >-
   The best video tripod with fluid head for beginners, compared on payload,

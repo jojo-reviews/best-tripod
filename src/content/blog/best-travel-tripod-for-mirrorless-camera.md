@@ -1,6 +1,6 @@
 ---
 title: Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks)
-seoTitle: 'Best Travel Tripod for Mirrorless Camera (2026): 15 Picks'
+seoTitle: 'Best Travel Tripod for Mirrorless Camera (2026) – 15 Picks'
 description: >-
   The best travel tripod for mirrorless camera kits balances load, folded length
   and column-down height. Compare 15 picks, a spec table and a carry-on guide.

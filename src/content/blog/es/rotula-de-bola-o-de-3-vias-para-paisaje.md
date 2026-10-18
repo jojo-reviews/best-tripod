@@ -1,6 +1,6 @@
 ---
-title: 'Rótula de bola o de 3 vías para fotografía de paisaje: 5 opciones'
-seoTitle: 'Rótula de bola o de 3 vías para paisaje (2026): 5 opciones'
+title: 'Rótula de bola o de 3 vías para fotografía de paisaje – 5 opciones'
+seoTitle: 'Rótula de bola o de 3 vías para paisaje (2026) – 5 opciones'
 description: >-
   Rótula de bola o de 3 vías para paisaje: cuál es más rápida, cuál nivela mejor
   el horizonte y 5 rótulas comparadas para que elijas la adecuada.

@@ -1,6 +1,6 @@
 ---
-title: 'Beste videostatief met fluid head voor beginners: 3 tips (2026)'
-seoTitle: 'Videostatief met fluid head voor beginners: 3 tips (2026)'
+title: 'Beste videostatief met fluid head voor beginners – 3 tips (2026)'
+seoTitle: 'Videostatief met fluid head voor beginners – 3 tips (2026)'
 description: >-
   Het beste videostatief met fluid head voor beginners: drie sets vergeleken op
   draagvermogen, hoogte zonder middenzuil, pakmaat en platen voor

@@ -1,6 +1,6 @@
 ---
-title: 'Beste reisstatief voor systeemcamera (2026): 15 aanraders'
-seoTitle: 'Beste reisstatief voor systeemcamera: 15 modellen (2026)'
+title: 'Beste reisstatief voor systeemcamera (2026) – 15 aanraders'
+seoTitle: 'Beste reisstatief voor systeemcamera – 15 modellen (2026)'
 description: >-
   Het beste reisstatief voor systeemcamera's combineert draagvermogen,
   ingeklapte lengte en hoogte zonder middenzuil. 15 modellen, een tabel en

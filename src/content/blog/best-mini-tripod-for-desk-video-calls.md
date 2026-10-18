@@ -1,6 +1,6 @@
 ---
-title: 'Best Mini Tripod for Desk Video Calls: 3 Picks for 2026'
-seoTitle: 'Best Mini Tripod for Desk Video Calls (2026): 3 Under 1 lb'
+title: 'Best Mini Tripod for Desk Video Calls – 3 Picks for 2026'
+seoTitle: 'Best Mini Tripod for Desk Video Calls (2026) – 3 Under 1 lb'
 description: >-
   The best mini tripod for desk video calls, compared on real desk height, load
   for a webcam, phone or mirrorless camera, packed size and Arca-Swiss plates.

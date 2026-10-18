@@ -1,0 +1,176 @@
+{
+  "centralEntity": "monopod with feet",
+  "entityVariants": [
+    "monopod with feet",
+    "footed monopod",
+    "self-standing monopod",
+    "monopod with a tripod base",
+    "wildlife monopod",
+    "monopod with fold-out feet"
+  ],
+  "entities": [
+    { "name": "monopod with feet", "type": "product type", "relation": "central entity: a single-leg support with a small three-foot base" },
+    { "name": "tri-feet", "type": "feature", "relation": "fold-out feet at the bottom of the monopod leg" },
+    { "name": "pedal lock", "type": "feature", "relation": "iFootage foot pedal that locks or frees the leg's tilt over the feet" },
+    { "name": "telephoto lens", "type": "gear", "relation": "the long, heavy lens a wildlife monopod carries" },
+    { "name": "150-600mm", "type": "gear", "relation": "common wildlife zoom range named in owner threads" },
+    { "name": "tilt head", "type": "head type", "relation": "monopod head that angles the lens up and down while the leg stays vertical" },
+    { "name": "gimbal head", "type": "head type", "relation": "balances a long lens at its center of gravity for tracking birds" },
+    { "name": "Arca-Swiss", "type": "standard", "relation": "dovetail plate standard used by most heads and lens feet" },
+    { "name": "load capacity", "type": "attribute", "relation": "rated weight the monopod is built to hold" },
+    { "name": "carbon fiber", "type": "material", "relation": "lighter leg material that damps vibration" },
+    { "name": "aluminum", "type": "material", "relation": "cheaper, heavier leg material" },
+    { "name": "iFootage Cobra 3", "type": "product", "relation": "modular carbon monopod with pedal-lock feet" },
+    { "name": "Vanguard VEO 2S", "type": "product", "relation": "monopod line with fold-out tri-feet" },
+    { "name": "NEEWER T222", "type": "product", "relation": "budget aluminum monopod with detachable stand base" },
+    { "name": "birding", "type": "use case", "relation": "walking and shooting birds, where a self-standing monopod frees the hands" }
+  ],
+  "attributes": [
+    "max height",
+    "folded length",
+    "weight",
+    "load capacity",
+    "leg sections",
+    "leg lock type (flip or twist)",
+    "feet type (fixed tri-feet, pedal-lock base, detachable stand)",
+    "base tilt and rotation",
+    "mounting threads",
+    "material"
+  ],
+  "ngrams": [
+    "monopod with feet",
+    "wildlife photography",
+    "telephoto lens",
+    "load capacity",
+    "tilt head",
+    "folded length",
+    "carbon fiber",
+    "max height",
+    "bird photography",
+    "stand on its own"
+  ],
+  "skipgrams": [
+    "feet…stability",
+    "monopod…lens",
+    "load…capacity",
+    "tilt…head",
+    "height…eye level",
+    "base…rotation"
+  ],
+  "nlpTerms": [
+    "monopod",
+    "feet",
+    "base",
+    "wildlife",
+    "birds",
+    "telephoto",
+    "lens",
+    "pedal",
+    "tilt",
+    "panning",
+    "carbon",
+    "aluminum",
+    "load",
+    "height",
+    "weight",
+    "sections",
+    "spike",
+    "unattended",
+    "tripod",
+    "gimbal",
+    "Arca-Swiss",
+    "hide"
+  ],
+  "questions": [
+    "is a monopod better than a tripod for wildlife",
+    "can a monopod stand on its own",
+    "what head should i use on a monopod for wildlife",
+    "what monopod for a 150-600mm lens",
+    "are monopod feet worth it for birding",
+    "how much weight should a wildlife monopod hold"
+  ],
+  "contentGaps": [
+    "Load capacity checked against a real 150-600mm or 200-600mm lens weight, not just the headline rating",
+    "Working height versus eye level with a head on top",
+    "Whether the feet are fixed, detachable or pedal-locked, and what that means for panning",
+    "Warning that footed monopods should not be left standing unattended with a long lens",
+    "Which head type (tilt, ball, gimbal) suits a monopod with feet for birds",
+    "Folded length for a daypack or carry-on",
+    "Products that top-ranking guides recommend but that are hard to buy on Amazon US right now"
+  ],
+  "outline": [
+    { "h2": "Best Monopods With Feet for Wildlife: Quick Picks", "intent": "top picks for the buyer", "h3": [] },
+    { "h2": "Monopods With Feet Compared: Height, Load and Weight", "intent": "spec comparison", "h3": [] },
+    { "h2": "How We Picked These Footed Monopods", "intent": "methodology and trust", "h3": [] },
+    { "h2": "The Best Monopod With Feet for Wildlife Photography, Reviewed", "intent": "product reviews", "h3": [
+      "IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod: best overall for long lenses",
+      "Vanguard VEO 2S AM-264TR Monopod: best fold-out tri-feet",
+      "NEEWER T222 Extendable Camera Monopod with Stand Base: best budget"
+    ] },
+    { "h2": "Can a Monopod With Feet Stand on Its Own?", "intent": "feature explainer and safety", "h3": [] },
+    { "h2": "How to Choose a Monopod With Feet for a Telephoto Lens", "intent": "buying guide", "h3": ["Load capacity vs your lens", "Height and eye level", "Feet type and panning", "Head choice: tilt, ball or gimbal"] },
+    { "h2": "Monopod or Tripod for Wildlife?", "intent": "comparison", "h3": [] },
+    { "h2": "Our Verdict", "intent": "decision", "h3": [] }
+  ],
+  "targetWords": 1750,
+  "serpProducts": [
+    { "name": "IFOOTAGE Cobra 3 C180F-P (Cobra 3 with feet)", "pages": [
+      "https://shotkit.com/best-monopod-for-photographers/",
+      "https://foliumbiosciences.com/best-monopods-for-wildlife-photography/",
+      "https://www.lynnbarsigianphotography.com/best-cameras-monopods-tested-for-wildlife-sports-and-video/",
+      "https://findingdulcinea.com/best-camera-monopods/",
+      "https://findingdulcinea.com/best-monopods-january-2026/",
+      "https://www.reddit.com/r/AskPhotography/comments/1in4v99/monopod_recommendation_for_bird_wildlife/"
+    ] },
+    { "name": "NEEWER T222 Extendable Monopod with Detachable Foldable Stand Base", "pages": [
+      "https://foliumbiosciences.com/best-monopods-for-wildlife-photography/",
+      "https://www.mayfairfarms.com/best-monopods-for-photography/"
+    ] },
+    { "name": "Vanguard VEO 2S 264TR monopod with tri-feet (AM aluminum / CM carbon)", "pages": [
+      "https://shotkit.com/best-monopod-for-photographers/",
+      "https://www.digitalcameraworld.com/buying-guides/best-monopods",
+      "https://www.theadventurejunkies.com/best-monopod-for-wildlife-photography/"
+    ] },
+    { "name": "NEEWER GM76 Professional Camera Monopod with Feet (dropped: Amazon US listing unavailable)", "pages": [
+      "https://shotkit.com/best-monopod-for-photographers/",
+      "https://neewer.com/en-kr/blogs/blog/best-monopods-of-2025-for-videography-wildlife-photography",
+      "https://findingdulcinea.com/best-camera-monopods/"
+    ] },
+    { "name": "Benro SupaDupa MSD46C (no tri-feet; spinning foot)", "pages": [
+      "https://www.digitalcameraworld.com/buying-guides/best-monopods",
+      "https://www.reddit.com/r/AskPhotography/comments/1in4v99/monopod_recommendation_for_bird_wildlife/"
+    ] },
+    { "name": "Benro A48FD (1 page only)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-monopods"] },
+    { "name": "Sirui P-424S (1 page only)", "pages": ["https://foliumbiosciences.com/best-monopods-for-wildlife-photography/"] }
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.digitalcameraworld.com/buying-guides/best-monopods",
+      "https://shotkit.com/best-monopod-for-photographers/",
+      "https://www.theadventurejunkies.com/best-monopod-for-wildlife-photography/",
+      "https://neewer.com/en-kr/blogs/blog/best-monopods-of-2025-for-videography-wildlife-photography",
+      "https://foliumbiosciences.com/best-monopods-for-wildlife-photography/",
+      "https://www.lynnbarsigianphotography.com/best-cameras-monopods-tested-for-wildlife-sports-and-video/",
+      "https://findingdulcinea.com/best-camera-monopods/",
+      "https://www.mayfairfarms.com/best-monopods-for-photography/",
+      "https://betterwithbirds.com/blogs/bird-photography-and-sound-tips/best-tripod",
+      "https://shuttermuse.com/monopod-for-wildlife-photography/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Most of the product roundups we read (Digital Camera World, Folium, Lynn Barsigian, Neewer, Mayfair) give each monopod a reasons-to-buy / reasons-to-avoid or pros list; Shotkit and The Adventure Junkies use prose only.",
+    "avgWords": 1500,
+    "avgProducts": 8,
+    "commonSections": [
+      "quick picks",
+      "comparison table",
+      "product reviews",
+      "how to choose / buying guide",
+      "monopod vs tripod",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Word counts are Firecrawl estimates (Adventure Junkies ~1,050, Shotkit ~1,260, Neewer ~775, Shutter Muse ~1,450, Lynn Barsigian ~3,100; Folium ~7,450 treated as an outlier). Reddit, Facebook and forum threads in the top 10 were used for product mentions and owner evidence, not structure. Only 3 footed monopods met the 2-page rule with a buyable Amazon US listing, so productCount was lowered from 8 to 3."
+  }
+}

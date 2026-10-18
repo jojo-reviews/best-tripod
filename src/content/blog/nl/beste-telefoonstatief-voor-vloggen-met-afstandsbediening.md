@@ -1,6 +1,6 @@
 ---
 title: Beste telefoonstatief voor vloggen met afstandsbediening (2026)
-seoTitle: 'Telefoonstatief voor vloggen met afstandsbediening: 3 (2026)'
+seoTitle: 'Telefoonstatief voor vloggen met afstandsbediening (2026)'
 description: >-
   Het beste telefoonstatief voor vloggen met afstandsbediening: drie modellen
   vergeleken op echte hoogte, bereik, houder en ervaringen van eigenaren.

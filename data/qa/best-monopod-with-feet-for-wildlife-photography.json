@@ -1,0 +1,16 @@
+{
+  "slug": "best-monopod-with-feet-for-wildlife-photography",
+  "pass": true,
+  "checkedAt": "2026-10-18T13:45:56.611Z",
+  "errors": [],
+  "warnings": [
+    "product \"IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 2S AM-264TR Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified via Firecrawl on 2026-10-18: IFOOTAGE Cobra 3 C180F-P specs (carbon, 4 sections, flip lock, pedal base 40deg tilt/360deg rotation, 1.27 kg, 8 kg payload, 69 cm folded, 181 cm) against ifootagegear.com Cobra 3 Pedal Version page; Amazon B0BR8T1KJK title is the same model, in stock. Vanguard VEO 2S AM-264TR (1630 mm, 545 mm folded, 890 g, 4 sections, half-turn twist, 26 mm aluminium, tri-feet, ball joint, phone connector + BT-11 remote, unattended warning) against vanguardworld.co.uk; load conflict (Vanguard UK 15 kg vs Amazon/Adorama 6 kg) disclosed, lower figure used; Amazon B083T512FD title same model, temporarily out of stock (disclosed in text). DCW stiff-panning remark is about the CM-264TR sibling and is attributed as such. NEEWER T222 (168 cm, 52 cm min/folded, 0.6 kg, 5 kg, 5 sections, 15deg tilt base, 360deg rotation, 1/4 top 3/8 bottom) against neewer.com T222 page; Amazon B075163951 shows model name T222, in stock. Owner claims checked against BCG Forums Cobra 3 thread pages 1 and 3, Neewer T222 store reviews, Vanguard UK CM-264TBP120T reviews, Adorama AM-264TR reviews (via search summary). Sony FE 200-600mm 2,115 g against Sony spec page; Manfrotto 234RC tilt head claim against Better With Birds. Product selection against top-10 SERP pages listed in brief serpProducts.",
+    "at": "2026-10-18T13:45:56.234Z"
+  }
+}

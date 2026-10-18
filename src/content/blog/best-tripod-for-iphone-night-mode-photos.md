@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for iPhone Night Mode Photos: 3 Steady Picks for 2026'
-seoTitle: 'Best Tripod for iPhone Night Mode Photos: 3 Shake-Free Picks'
+title: 'Best Tripod for iPhone Night Mode Photos – 3 Steady Picks for 2026'
+seoTitle: 'Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks'
 description: >-
   The best tripod for iPhone night mode photos keeps the phone still for
   multi-second exposures. We compare 3 picks on load, clamp fit and owner

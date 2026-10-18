@@ -1,6 +1,6 @@
 ---
-title: 'Kugelkopf oder 3-Wege-Neiger für Landschaftsfotografie: 5 Köpfe'
-seoTitle: 'Kugelkopf oder 3-Wege-Neiger? Landschaft 2026: 5 Köpfe'
+title: 'Kugelkopf oder 3-Wege-Neiger für Landschaftsfotografie – 5 Köpfe'
+seoTitle: 'Kugelkopf oder 3-Wege-Neiger? Landschaft 2026 – 5 Köpfe'
 description: >-
   Kugelkopf oder 3-Wege-Neiger für die Landschaft: Was ist schneller, was
   richtet den Horizont besser aus? 5 Stativköpfe im Vergleich für deine Wahl.

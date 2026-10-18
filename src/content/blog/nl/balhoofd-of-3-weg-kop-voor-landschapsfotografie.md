@@ -1,6 +1,6 @@
 ---
-title: 'Balhoofd of 3-weg kop voor landschapsfotografie: 5 keuzes'
-seoTitle: 'Balhoofd of 3-weg kop voor landschappen (2026): 5 keuzes'
+title: 'Balhoofd of 3-weg kop voor landschapsfotografie – 5 keuzes'
+seoTitle: 'Balhoofd of 3-weg kop voor landschappen (2026) – 5 keuzes'
 description: >-
   Balhoofd of 3-weg kop voor landschapsfotografie: welke is sneller, welke zet
   de horizon beter recht, en 5 statiefkoppen vergeleken zodat je goed kiest.

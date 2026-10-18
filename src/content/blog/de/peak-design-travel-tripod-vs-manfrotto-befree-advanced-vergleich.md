@@ -1,6 +1,6 @@
 ---
-title: 'Peak Design Travel Tripod vs Manfrotto Befree Advanced: Vergleich'
-seoTitle: Peak Design Travel Tripod vs Befree Advanced (2026)
+title: 'Peak Design Travel Tripod vs Befree Advanced im Vergleich (2026)'
+seoTitle: 'Peak Design Travel Tripod vs Befree Advanced (2026)'
 description: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced im Vergleich: Gewicht,
   Packmaß, Höhe ohne Mittelsäule und Tragkraft, plus wem welches Stativ passt.
@@ -8,7 +8,7 @@ pubDate: '2026-10-17T19:00:00.000Z'
 lang: de
 translationOf: peak-design-travel-tripod-vs-manfrotto-befree-advanced
 category: travel-tripods
-keyword: peak design travel tripod vs manfrotto befree advanced im vergleich
+keyword: 'peak design travel tripod vs befree advanced'
 secondaryKeywords:
   - peak design travel tripod oder manfrotto befree
   - manfrotto befree advanced vs peak design

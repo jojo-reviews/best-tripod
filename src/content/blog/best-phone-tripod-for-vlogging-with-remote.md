@@ -1,6 +1,6 @@
 ---
-title: 'Best Phone Tripod for Vlogging With Remote: 3 Picks for 2026'
-seoTitle: 'Best Phone Tripod for Vlogging With Remote (2026): 3 Picks'
+title: 'Best Phone Tripod for Vlogging With Remote – 3 Picks for 2026'
+seoTitle: 'Best Phone Tripod for Vlogging With Remote (2026) – 3 Picks'
 description: >-
   The best phone tripod for vlogging with remote, compared on real height,
   remote range, mount type and what owners report, with 3 picks for solo

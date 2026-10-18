@@ -341,7 +341,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -375,7 +375,8 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "publishedAt": "2026-10-18T13:48:21.766Z"
   },
   {
     "status": "published",
