@@ -345,7 +345,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
-  Trípode de vídeo con cabezal fluido para principiantes: 3 opciones (2026),
+  Trípode de vídeo con cabezal fluido para principiantes – 3 opciones (2026),
   guía de compra de Best Tripod
 related:
   - es/mejor-tripode-para-movil-para-vlogs-con-control-remoto

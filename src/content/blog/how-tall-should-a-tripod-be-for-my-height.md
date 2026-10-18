@@ -211,7 +211,7 @@ faqs:
       hunching over every frame.
 author: editorial-team
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
-heroAlt: 'How Tall Should a Tripod Be for My Height? Chart and Math: Best Tripod guide'
+heroAlt: How Tall Should a Tripod Be for My Height? Chart and Math – Best Tripod guide
 related:
   - best-tripod-for-real-estate-photography
   - best-tripod-for-tall-photographers-over-6-feet

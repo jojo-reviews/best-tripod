@@ -1098,7 +1098,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
-  Bestes Reisestativ für spiegellose Kamera (2026): 15 Empfehlungen, Kaufratgeber
+  Bestes Reisestativ für spiegellose Kamera (2026) – 15 Empfehlungen, Kaufratgeber
   von Best Tripod
 related:
   - de/bestes-handy-stativ-fuer-vlogging-mit-fernbedienung

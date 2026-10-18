@@ -342,7 +342,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
-  Peak Design Travel Tripod vs Manfrotto Befree Advanced (2026): Vergleich von
+  Peak Design Travel Tripod vs Manfrotto Befree Advanced (2026) – Vergleich von
   Best Tripod
 ---
 

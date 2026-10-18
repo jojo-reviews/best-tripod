@@ -365,7 +365,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
-  Handy-Stativ mit Fernbedienung zum Vloggen: Die 3 besten (2026), Kaufberatung
+  Handy-Stativ mit Fernbedienung zum Vloggen – Die 3 besten (2026), Kaufberatung
   von Best Tripod
 ---
 

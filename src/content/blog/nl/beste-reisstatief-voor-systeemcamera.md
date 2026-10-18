@@ -1099,7 +1099,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
-  Beste reisstatief voor systeemcamera (2026): 15 aanraders, koopgids van Best
+  Beste reisstatief voor systeemcamera (2026) – 15 aanraders, koopgids van Best
   Tripod
 related:
   - nl/beste-telefoonstatief-voor-vloggen-met-afstandsbediening

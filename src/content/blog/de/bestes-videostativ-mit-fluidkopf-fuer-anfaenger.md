@@ -338,7 +338,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
-  Videostativ mit Fluidkopf für Anfänger: Die 3 besten (2026), Kaufberatung von
+  Videostativ mit Fluidkopf für Anfänger – Die 3 besten (2026), Kaufberatung von
   Best Tripod
 related:
   - de/bestes-handy-stativ-fuer-vlogging-mit-fernbedienung

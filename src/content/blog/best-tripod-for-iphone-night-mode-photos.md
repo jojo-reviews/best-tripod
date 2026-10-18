@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks + Setup Tips'
-seoTitle: 'Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks'
+title: Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks + Setup Tips
+seoTitle: Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks
 description: >-
   The best tripod for iPhone night mode photos keeps the phone still for
   multi-second exposures. We compare 3 picks on load, clamp fit and owner
@@ -335,8 +335,8 @@ related:
   - monopod-vs-tripod-for-sports-photography
 heroImage: /images/featured/best-tripod-for-iphone-night-mode-photos.png
 heroAlt: >-
-  Best Tripod for iPhone Night Mode Photos: 3 Steady Picks for 2026: Best Tripod
-  buying guide
+  Best Tripod for iPhone Night Mode Photos (2026) – 3 Picks + Setup Tips – Best
+  Tripod buying guide
 ---
 
 The best tripod for iPhone Night mode photos is the one that keeps the phone perfectly still for several seconds while it gathers light, and lets you start the shot without touching the screen. We compared three small tripods that the top-ranking iPhone tripod guides keep recommending, using maker specs, retailer listings and owner reviews: the [Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) for flat surfaces, the [JOBY GorillaPod 1K Kit](amzn:JOBY+GorillaPod+1K+Kit+compact+tripod+with+ballhead) for railings and rocks, and the [JOBY GripTight ONE GP Stand](amzn:JOBY+GripTight+ONE+GP+Stand+phone+tripod) for your pocket. We did not test them ourselves; everything here comes from published specs and the owner reports we read.

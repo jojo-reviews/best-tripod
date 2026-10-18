@@ -229,7 +229,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/monopod-vs-tripod-for-sports-photography.png
 heroAlt: >-
-  Monopod vs Tripod for Sports Photography: Which Wins in 2026?: Best Tripod
+  Monopod vs Tripod for Sports Photography – Which Wins in 2026? – Best Tripod
   comparison
 related:
   - best-monopod-with-feet-for-wildlife-photography

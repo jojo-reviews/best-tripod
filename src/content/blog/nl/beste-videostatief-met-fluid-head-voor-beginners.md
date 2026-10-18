@@ -338,7 +338,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
-  Beste videostatief met fluid head voor beginners: 3 tips (2026), koopgids van
+  Beste videostatief met fluid head voor beginners – 3 tips (2026), koopgids van
   Best Tripod
 related:
   - nl/beste-telefoonstatief-voor-vloggen-met-afstandsbediening

@@ -1,6 +1,6 @@
 ---
-title: 'Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks'
-seoTitle: 'Ball Head vs Pan Tilt Head for Landscape Photography (2026)'
+title: Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks
+seoTitle: Ball Head vs Pan Tilt Head for Landscape Photography (2026)
 description: >-
   Ball head vs pan tilt head for landscape photography: which is faster, which
   levels horizons better, and 5 heads compared so you can pick the right one.
@@ -344,7 +344,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
-  Ball Head vs Pan Tilt Head for Landscape Photography: 5 Picks: Best Tripod
+  Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks – Best Tripod
   comparison
 related:
   - best-video-tripod-with-fluid-head-for-beginners

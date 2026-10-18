@@ -305,7 +305,7 @@ related:
   - best-travel-tripod-for-mirrorless-camera
 heroImage: /images/featured/best-monopod-with-feet-for-wildlife-photography.png
 heroAlt: >-
-  Best Monopod With Feet for Wildlife Photography – 3 Picks (2026): Best Tripod
+  Best Monopod With Feet for Wildlife Photography – 3 Picks (2026) – Best Tripod
   buying guide
 ---
 

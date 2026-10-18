@@ -371,7 +371,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
-  Kugelkopf oder 3-Wege-Neiger für Landschaftsfotografie: 5 Köpfe im
+  Kugelkopf oder 3-Wege-Neiger für Landschaftsfotografie – 5 Köpfe im
   Best-Tripod-Vergleich
 ---
 

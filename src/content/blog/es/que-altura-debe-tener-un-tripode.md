@@ -220,7 +220,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: >-
-  ¿Qué altura debe tener un trípode según tu estatura? Tabla y cálculo: guía de
+  ¿Qué altura debe tener un trípode según tu estatura? Tabla y cálculo – guía de
   Best Tripod
 ---
 

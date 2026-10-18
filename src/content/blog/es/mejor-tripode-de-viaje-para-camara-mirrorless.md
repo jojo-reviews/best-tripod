@@ -1095,7 +1095,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
-  Mejor trípode de viaje para cámara mirrorless (2026): 15 opciones, guía de
+  Mejor trípode de viaje para cámara mirrorless (2026) – 15 opciones, guía de
   compra de Best Tripod
 related:
   - es/mejor-tripode-para-movil-para-vlogs-con-control-remoto

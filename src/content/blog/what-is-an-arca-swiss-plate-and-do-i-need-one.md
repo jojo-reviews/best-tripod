@@ -285,7 +285,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: >-
-  What Is an Arca Swiss Plate and Do I Need One? A Plain Guide: Best Tripod
+  What Is an Arca Swiss Plate and Do I Need One? A Plain Guide – Best Tripod
   guide
 ---
 

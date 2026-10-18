@@ -371,7 +371,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
-  Balhoofd of 3-weg kop voor landschapsfotografie: 5 keuzes, vergelijking van
+  Balhoofd of 3-weg kop voor landschapsfotografie – 5 keuzes, vergelijking van
   Best Tripod
 ---
 

@@ -373,7 +373,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
-  Rótula de bola o de 3 vías para fotografía de paisaje: 5 opciones, comparativa
+  Rótula de bola o de 3 vías para fotografía de paisaje – 5 opciones, comparativa
   de Best Tripod
 ---
 

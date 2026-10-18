@@ -217,7 +217,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: >-
-  Hoe hoog moet een statief zijn voor jouw lengte? Tabel en rekensom: Best
+  Hoe hoog moet een statief zijn voor jouw lengte? Tabel en rekensom – Best
   Tripod-gids
 ---
 

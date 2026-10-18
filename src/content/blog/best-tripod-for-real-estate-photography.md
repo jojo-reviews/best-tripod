@@ -546,7 +546,7 @@ faqs:
       screws, so check them before each shoot.
 heroImage: /images/featured/best-tripod-for-real-estate-photography.png
 heroAlt: >-
-  Best Tripod for Real Estate Photography: 7 Picks for Level Interiors: Best
+  Best Tripod for Real Estate Photography – 7 Picks for Level Interiors – Best
   Tripod buying guide
 related:
   - best-monopod-with-feet-for-wildlife-photography
