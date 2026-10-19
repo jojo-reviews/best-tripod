@@ -1,0 +1,346 @@
+{
+ "_note": "SERP pages read via Firecrawl on 2026-10-19: Pack Hacker, Golden Lens Traveler, Transcontinenta, plus maker/retailer pages. NOT readable: Digital Camera World (Firecrawl returns an empty body), Reddit (blocked; only search snippets seen). TSA, momanx (maker blog), colorexpertsbd are how-to-fly pages with no product ranking; bcgforums is a forum thread. Only 3 models are named by 2+ top-10 pages AND have a clear Amazon US listing, so productCount is 3. Dropped: Leofoto Ranger LS-225C (Golden Lens + Transcontinenta both name it, but Amazon US search on 2026-10-19 returned only other Leofoto models such as LS-224CX; no LS-225C listing seen), Vanguard VEO 3GO 235CB (Golden Lens only), Cullmann Carvao 816TC and Velbon UT-3AR (Transcontinenta only), K&F Concept 64in / SLIK Sprint 150 / Neewer LT32 (Pack Hacker only). independenttravelcats.com (SERP position 12, not top 10) also names PIXI EVO 2 and Peak Design Travel Tripod but is not counted. Spec notes: Golden Lens says the SIRUI 5C 'handles 15 lbs'; the SIRUI maker table says 4 kg / 8.8 lb, which is used here. Pack Hacker lists Peak Design at 3.432 lb (likely the aluminum model) while B&H and Golden Lens give 2.8 lb for carbon; the post must use 2.8 lb for the carbon model. Peak Design: Pack Hacker's text, Golden Lens (2.81 lb) both describe the carbon fiber model; the Amazon carbon listing is used. asinVerified true means the Amazon US search result title was read on 2026-10-19 and matches the model and variant (direct dp pages hit an Amazon interstitial, so titles come from the search result for that exact ASIN; Amazon search shows the SIRUI title without the brand word).",
+ "products": [
+  {
+   "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+   "brand": "SIRUI",
+   "query": "SIRUI Traveler 5C carbon fiber tripod",
+   "matchName": "Traveler 5C Tripod",
+   "badge": "Best overall for carry-on",
+   "summary": "The 5C folds to 13 in (33 cm) and weighs 1.87 lb with its ball head, the shortest full-height tripod in this group, so it lies flat in most roller-bag compartments and daypacks. It reaches 54.3 in with the column up, enough for chest height or a bit above.",
+   "renterNote": "Mirrorless shooters with a 24-70mm or small telephoto who want a full-height tripod inside a carry-on or daypack; the caveats are a basic single-knob ball head and a light build that moves in wind unless you hang a bag from the hook.",
+   "pros": [
+    "Folds to 13 in (33 cm) at 1.87 lb (0.85 kg), the most compact full-size tripod on this list",
+    "54.3 in (138 cm) max height, 6.3 in min height, 5 sections with twist locks",
+    "Ships with a carry bag and stays under 2 lb with the head"
+   ],
+   "cons": [
+    "Stock 3T-35K ball head has a single friction and lock knob and no separate pan, and some owners swap it",
+    "Light and thin-legged, so it shakes in wind and with telephoto lenses unless you hang weight from the center hook"
+   ],
+   "facts": [
+    "Folded length 330 mm / 13 in (maker table)",
+    "Weight 0.85 kg / 1.87 lb, carbon fiber (maker table)",
+    "Max height 1380 mm / 54.3 in; retracted (column down) height 615 mm / 24.2 in; min height 160 mm / 6.3 in",
+    "Max load 4 kg / 8.8 lb; 5 leg sections; tube diameter 10-22 mm",
+    "Reverse-fold legs, twist leg locks, 3 leg angles 23/52/84 degrees (First Quadcopter)",
+    "Ball head 3T-35K, 25 mm ball, 4 kg load (First Quadcopter); 6-year warranty (First Quadcopter)"
+   ],
+   "specs": {
+    "Folded length": "13 in (33 cm)",
+    "Weight": "1.87 lb (0.85 kg) with head",
+    "Max height": "54.3 in (138 cm)",
+    "Height with column down": "24.2 in (61.5 cm)",
+    "Min height": "6.3 in (16 cm)",
+    "Max load": "8.8 lb (4 kg)",
+    "Leg sections": "5",
+    "Leg lock": "Twist",
+    "Material": "Carbon fiber",
+    "Head": "3T-35K ball head with Arca-style quick-release plate"
+   },
+   "carryOnFit": "At 13 in / 33 cm folded it is shorter than most carry-on roller dimensions and fits a daypack or the long side of a cabin bag; airline carry-on size and what counts as a personal item vary, so check your airline.",
+   "sources": [
+    "https://store.sirui.com/products/sirui-traveler-5a-5c",
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/",
+    "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/"
+   ],
+   "scores": {
+    "stability": 6,
+    "portability": 9,
+    "height": 8,
+    "build": 7,
+    "value": 9
+   },
+   "scoreNote": "13 in fold and 1.87 lb are the best portability numbers here and 54.3 in is usable; a light 8.8 lb rating, a basic stock head and wind shake keep stability at 6.",
+   "asin": "B07KD181B3",
+   "asinVerified": true,
+   "amazonTitle": "Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber Travel Tripod for Camera with 360° Panorama Ball Head for Arca Swiss Quick Release Plate, Max Load 8.8lbs",
+   "owners": {
+    "read": 5,
+    "praise": [
+     "Light, compact and quick to fold and unfold, small enough for a backpack side pocket",
+     "Good value for a carbon fiber travel tripod, with commenters calling it sturdy for mirrorless cameras",
+     "Head is swappable and a weight hook is included"
+    ],
+    "complaints": [
+     "Stock ball head is basic (one knob for friction and lock) and one commenter replaced it within a week",
+     "Unstable in wind or with a telephoto lens unless weighed down; the reviewer's tripod overturned in a gust with a 7 in monitor on top"
+    ],
+    "sources": [
+     {
+      "title": "First Quadcopter SIRUI Traveler 5C review (1 hands-on review and 4 owner comments read)",
+      "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/"
+     },
+     {
+      "title": "SIRUI official store product page (shows its own review count)",
+      "url": "https://store.sirui.com/products/sirui-traveler-5a-5c",
+      "reviews": 85
+     }
+    ]
+   }
+  },
+  {
+   "name": "Peak Design Travel Tripod (Carbon Fiber)",
+   "brand": "Peak Design",
+   "query": "Peak Design Travel Tripod Carbon Fiber",
+   "matchName": "Peak Design Travel Tripod Carbon Fiber",
+   "badge": "Best premium carry-on",
+   "summary": "Peak Design packs the whole tripod, ball head included, to the diameter of a water bottle at 15.5 in (39 cm) and 2.8 lb, yet reaches 60 in and carries 20 lb. It is the one here that takes a full-frame body with a telephoto and still goes in a cabin bag.",
+   "renterNote": "Travelers flying carry-on with a full-frame body and a 70-200mm or longer zoom who want one compact tripod with its head built in; the caveats are the premium price, no separate pan on the ball head and cast leg-lock latches a few owners report breaking.",
+   "pros": [
+    "Folds to 15.5 in (39 cm) at 2.8 lb (1.3 kg) with the head built in, roughly as thick as a water bottle",
+    "60 in max height (about 53 in with the center column down per a B&H answer) and 20 lb rated load",
+    "Reversible center column, weight hook and a stowable phone mount in the column"
+   ],
+   "cons": [
+    "Ball head has one adjustment ring and no separate pan, so panoramas and video panning need an add-on",
+    "At least one owner reports a cast leg-lock latch snapping and others a plastic piece breaking",
+    "Costs several times what the SIRUI 5C does"
+   ],
+   "facts": [
+    "Folded length 15.5 in / 39 cm (B&H)",
+    "Weight 2.8 lb / 1.3 kg, carbon fiber (B&H; Golden Lens lists 2.81 lb)",
+    "Max height 60 in; min height 5.5 in; about 53 in without the center column extended (B&H Q&A)",
+    "Load capacity 20 lb / 9.1 kg, optimized for full-frame DSLRs with telephoto lenses (maker)",
+    "5 leg sections, aluminum leg cams, integrated ball head with Peak Design and Arca-type compatible plate, hex wrenches and soft case included (B&H)",
+    "Lifetime guarantee (maker)"
+   ],
+   "specs": {
+    "Folded length": "15.5 in (39 cm)",
+    "Weight": "2.8 lb (1.3 kg) with head",
+    "Max height": "60 in (152 cm)",
+    "Height with column down": "about 53 in (134.6 cm)",
+    "Min height": "5.5 in (14 cm)",
+    "Max load": "20 lb (9.1 kg)",
+    "Leg sections": "5",
+    "Leg lock": "Flip (cam levers)",
+    "Material": "Carbon fiber",
+    "Head": "Built-in ball head, single adjustment ring, Arca-type compatible plate"
+   },
+   "carryOnFit": "At 15.5 in / 39 cm folded it clears the long side of typical cabin bags and fits a backpack water-bottle pocket (Pack Hacker, Golden Lens); airline carry-on size varies, so check your airline.",
+   "sources": [
+    "https://www.peakdesign.com/products/travel-tripod",
+    "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"
+   ],
+   "scores": {
+    "stability": 8,
+    "portability": 8,
+    "height": 9,
+    "build": 8,
+    "value": 6
+   },
+   "scoreNote": "20 lb rating, 60 in height and a 15.5 in fold at 2.8 lb are class-leading together; the premium price, no independent pan and reports of snapped leg-lock latches limit build and value.",
+   "asin": "B085BQTQMN",
+   "asinVerified": true,
+   "amazonTitle": "Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable Travel Tripod for Camera and Phone, 20 lb Capacity",
+   "owners": {
+    "read": 10,
+    "praise": [
+     "So small and light that owners now bring a tripod on trips where they used to leave it at home",
+     "Fast to set up, with a ball head locking ring and plate that owners call well thought out",
+     "Stable with a 200-600mm or similar telephoto"
+    ],
+    "complaints": [
+     "No separate pan on the ball head, so owners add a pan clamp",
+     "A cast leg-lock latch snapped for at least one owner",
+     "The soft case is tight to close"
+    ],
+    "sources": [
+     {
+      "title": "Peak Design Travel Tripod product page (8 owner reviews read; page shows its own count)",
+      "url": "https://www.peakdesign.com/products/travel-tripod",
+      "reviews": 1233
+     },
+     {
+      "title": "B&H Peak Design Carbon Fiber Travel Tripod (2 owner reviews read; page shows its own count)",
+      "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
+      "reviews": 1315
+     }
+    ]
+   }
+  },
+  {
+   "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+   "brand": "Manfrotto",
+   "query": "Manfrotto PIXI EVO 2-Section Mini Tripod MTPIXIEVO-BK",
+   "matchName": "PIXI EVO 2-Section Mini Tripod",
+   "badge": "Best mini for a personal item",
+   "summary": "At 8.07 in (20.5 cm) closed and 0.57 lb, the PIXI EVO is small enough for a jacket pocket or camera-bag side pocket, so it never competes with your carry-on for space. It is a tabletop and low-angle support that stands 7.87 in tall, not an eye-level tripod.",
+   "renterNote": "Carry-on travelers with a compact mirrorless body and a small zoom who want a tabletop or low-angle tripod that fits in a pocket; it will not reach eye level, and owners report it is too springy for heavy kits.",
+   "pros": [
+    "8.07 in (20.5 cm) closed and 0.57 lb (0.26 kg), small enough for a jacket or bag side pocket",
+    "5.51 lb (2.5 kg) payload and two leg angles with a 90-degree portrait notch in the ball head",
+    "Pack Hacker used it with a Fuji X-T3 and 55-200mm lens without trouble"
+   ],
+   "cons": [
+    "Only 7.87 in (20 cm) tall at full extension, so it needs a table, railing or bench for most shots",
+    "Owners report flex at the ball-head post with heavier kits and image shake when the camera is touched without a remote or timer"
+   ],
+   "facts": [
+    "Closed length 20.5 cm / 8.07 in (maker)",
+    "Weight 0.26 kg / 0.57 lb (maker)",
+    "Maximum height 20 cm / 7.87 in (maker); 2.4 in min height (B&H)",
+    "2 leg sections, 5.51 lb (2.5 kg) safety payload (maker; Markertek)",
+    "Material aluminum and technopolymer; 1/4-20 screw mount; no quick-release plate included (B&H Q&A)"
+   ],
+   "specs": {
+    "Folded length": "8.07 in (20.5 cm)",
+    "Weight": "0.57 lb (0.26 kg)",
+    "Max height": "7.87 in (20 cm)",
+    "Min height": "2.4 in",
+    "Max load": "5.51 lb (2.5 kg)",
+    "Leg sections": "2",
+    "Material": "Aluminum and technopolymer",
+    "Head": "Integrated ball head with 90-degree notch",
+    "Mount": "1/4-20 screw, no quick-release plate"
+   },
+   "carryOnFit": "At 8.07 in / 20.5 cm closed it fits in a jacket pocket or any bag; it is far below any airline carry-on or personal-item limit, but check your airline for security-screening rules.",
+   "sources": [
+    "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+    "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"
+   ],
+   "scores": {
+    "stability": 5,
+    "portability": 10,
+    "height": 2,
+    "build": 6,
+    "value": 7
+   },
+   "scoreNote": "A pocket-size 8.07 in fold at 0.57 lb earns a 10 for portability, but 7.87 in of height and flex under heavy kits hold stability and height down.",
+   "asin": "B0149KBPB4",
+   "asinVerified": true,
+   "amazonTitle": "MTPIXIEVO-BK, PIXI EVO 2-Section Mini Tripod for Mirrorless Cameras, Compact System Cameras, DSLR, Video, Compact Size, Aluminum, Black",
+   "owners": {
+    "read": 8,
+    "praise": [
+     "Light and easy to pack, so owners forget it is in the bag until needed",
+     "Well-thought-out legs with multiple positions and a switch to flatten onto the ground",
+     "Solid build and a stable base for light mirrorless cameras"
+    ],
+    "complaints": [
+     "Too springy with a heavier body, grip and macro lens, with flex at the ball-head connection post",
+     "Camera shake when touched, so a remote or timer is needed",
+     "One owner found it could not hold a 290 g vlogging camera in vertical orientation"
+    ],
+    "sources": [
+     {
+      "title": "B&H Manfrotto PIXI EVO owner reviews (8 read; page shows its own count)",
+      "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+      "reviews": 107
+     }
+    ]
+   }
+  }
+ ],
+ "ownerQuotes": {
+  "SIRUI Traveler 5C Carbon Fiber Tripod": [
+   {
+    "who": "Reviewer, First Quadcopter (received the unit for review from SIRUI)",
+    "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+    "text": "In my opinion, this is the weak point of this tripod. The head has only one knob to control the ball’s friction and locking."
+   },
+   {
+    "who": "Reviewer, First Quadcopter",
+    "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+    "text": "Using the telephoto lens appeared a little unstable. Also, being very light, it is recommended to use a sandbag to make it more stable."
+   },
+   {
+    "who": "Reader comment, First Quadcopter",
+    "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+    "text": "I’ve had this tripod for about a year and I love it! It’s lightweight and study. It is comes with a basic ball head that I replaced next week after my purchase."
+   },
+   {
+    "who": "Reader comment, First Quadcopter",
+    "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+    "text": "It is a lightweight, sturdy, well-designed travel tripod that allows me to do what I need without struggling."
+   },
+   {
+    "who": "Reader comment, First Quadcopter",
+    "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+    "text": "this tripod is solid and perfect for mirrorless cameras!"
+   }
+  ],
+  "Peak Design Travel Tripod (Carbon Fiber)": [
+   {
+    "who": "markd, Peak Design site",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "I can carry it in the side pocket of my Lowepro bag."
+   },
+   {
+    "who": "JLJ0078, Peak Design site",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "The only real downside that I have experienced with the PD head is that its not great for panning."
+   },
+   {
+    "who": "Michael, B&H (review collected as part of a promotion)",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "My only minor complaint is the lack of a built-in panning function for the ball head."
+   },
+   {
+    "who": "George, B&H",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "Easy to tote around so I have a tripod available most of the time where I used to leave the tripod at home due to size."
+   }
+  ],
+  "Manfrotto PIXI EVO 2-Section Mini Tripod": [
+   {
+    "who": "Aaron, B&H",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "I got this mini tripod for a hiking trip in Arizona. It worked like a charm. Light and easy to pack, didn't even notice I had it until I needed it."
+   },
+   {
+    "who": "Bob, B&H verified buyer",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "it's not quite stable enough with my Nikon Z6ii, battery grip, 105mm macro lens, and ring light attached to it."
+   },
+   {
+    "who": "Paul, B&H verified buyer",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "this tripod can't handle a tiny sony Zev 10 wich is 290 grams."
+   },
+   {
+    "who": "Matthew, B&H",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "A wireless shutter controller is absolutely necessary to avoid tripod movement. If the camera is touched, the images shakes."
+   }
+  ]
+ },
+ "serpProducts": [
+  {
+   "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+   "pages": [
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"
+   ]
+  },
+  {
+   "name": "Peak Design Travel Tripod (Carbon Fiber)",
+   "pages": [
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"
+   ]
+  },
+  {
+   "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+   "pages": [
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"
+   ]
+  }
+ ],
+ "droppedCandidates": [
+  {
+   "name": "Leofoto Ranger LS-225C + LH-25",
+   "pages": [
+    "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/",
+    "https://www.transcontinenta.co.uk/en/blog/5-best-travel-tripod-holiday-plane.html"
+   ],
+   "reason": "2 top-10 pages but no LS-225C listing found in Amazon US search 2026-10-19; maker US store: folded 17.72 in / 450 mm, 2.05 lb, max 49.8 in, 4 kg load"
+  }
+ ]
+}
