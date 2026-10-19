@@ -1,0 +1,228 @@
+{
+  "_note": "Top-10 list from data/serps.json (Ahrefs US, 2026-10-19). Read: digitalcameraworld, techgearlab, mattpurciel, theschoolofphotography, packhacker, fstoppers, better-digital-photo-tips, improvephotography. Not readable: Reddit (Firecrawl unsupported), YouTube (video, skipped). productCount=3 from productCountFor. Peak Design and Sirui 5C also appear in best-travel-tripod-for-mirrorless-camera (overlap, see siblings). ownerQuotes is extra data for the writer (not a schema field); all quotes verbatim from the URL given.",
+  "productCount": 3,
+  "siblings": {
+    "link": [
+      "/blog/best-travel-tripod-for-mirrorless-camera/",
+      "/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/",
+      "/blog/best-tripod-for-tall-photographers-over-6-feet/",
+      "/blog/how-tall-should-a-tripod-be-for-my-height/",
+      "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
+      "/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/"
+    ],
+    "overlap": "Peak Design Travel Tripod and Sirui Traveler 5C are both products in best-travel-tripod-for-mirrorless-camera (15 picks) and Peak Design is in the Peak Design vs Befree post. Angle here: general-purpose photography choice by kit weight, not travel-only; Winston 2.0 is new to the site."
+  },
+  "serpProducts": [
+    {"name": "Peak Design Travel Tripod", "pages": ["https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html", "https://www.packhacker.com/blog/general/best-travel-tripod/"], "note": "Matt Purciel lists the Aluminum version, Pack Hacker the Carbon Fiber version. Digital Camera World recommends the different Peak Design Pro Tripod."},
+    {"name": "Sirui Traveler 5C", "pages": ["https://www.techgearlab.com/topics/electronics/best-tripod", "https://www.packhacker.com/blog/general/best-travel-tripod/"]},
+    {"name": "3 Legged Thing Winston 2.0", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-tripod", "https://www.techgearlab.com/topics/electronics/best-tripod"]},
+    {"name": "Manfrotto BeFree Advanced (family; not used: pages name different variants)", "pages": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"]},
+    {"name": "Manfrotto 055 family (not used: MT055CXPRO3 vs 055XPROB)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-tripod", "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html"]},
+    {"name": "Leofoto Poseidon (not used: LP-284C vs LP-324C)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-tripod", "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"]},
+    {"name": "Vanguard VEO 3+ (not used: 303CBS/263AB vs 263CB)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-tripod", "https://www.techgearlab.com/topics/electronics/best-tripod"]},
+    {"name": "K&F Concept (not used: X284C4 vs 64 inch)", "pages": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.packhacker.com/blog/general/best-travel-tripod/"]}
+  ],
+  "products": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "brand": "Peak Design",
+      "query": "Peak Design Travel Tripod carbon fiber",
+      "matchName": "Peak Design Travel Tripod Carbon Fiber",
+      "badge": "Best for carry-on",
+      "summary": "A five-section carbon tripod that folds to about 15.5 in, reaches 51.25 in with the column down and carries 20 lb. It is the pick when the tripod has to ride in a bag every day and still hold a full-frame body with a telephoto.",
+      "renterNote": "Full-frame and mirrorless shooters up to a 70-200mm class lens who fly or hike with the tripod. Key caveat: the built-in ball head is the weak point owners mention, and it costs premium money.",
+      "pros": [
+        "Folds to about 15.5 in and a water-bottle diameter, so it fits a bag pocket",
+        "20 lb rated load and 51.25 in column-down height are strong for the size",
+        "All five leg sections latch or release together with one hand"
+      ],
+      "cons": [
+        "Built-in ball head and column lock are hard to tighten firmly, per a PetaPixel owner",
+        "Premium-tier price, and a forum owner reported a leg coming off on the road"
+      ],
+      "specs": {
+        "Max height (center column up)": "60 in (152.4 cm)",
+        "Max height (center column down)": "51.25 in (130.2 cm)",
+        "Min height": "About 5.5 in (14 cm)",
+        "Folded length": "15.5 in (39.4 cm)",
+        "Weight": "2.81 lb (1.27 kg), carbon fiber version, per retailer listings of the maker spec",
+        "Max load": "20 lb (9.1 kg)",
+        "Leg sections": "5",
+        "Leg lock": "Aluminum cam locks, released together",
+        "Head": "Built-in compact ball head, single adjustment ring",
+        "Plate": "Peak Design standard plate; Arca-type plates work per retailer listings"
+      },
+      "sources": [
+        "https://www.peakdesign.com/products/travel-tripod",
+        "https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html"
+      ],
+      "scores": {"stability": 8, "portability": 9, "height": 9, "build": 8, "value": 6},
+      "scoreNote": "20 lb load and 51 in column-down height in a 15.5 in fold; thin lower legs and a fiddly built-in head hold back stability, and the price holds back value.",
+      "asin": "B085BQTQMN",
+      "asinVerified": true,
+      "amazonTitle": "Peak Design Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable Travel Tripod for Camera and Phone, 20 lb Capacity",
+      "owners": {
+        "read": 3,
+        "praise": [
+          "Collapses small without a huge circumference, so it goes in checked luggage or a backpack",
+          "Legs are quick to set up and extremely stable once everything is locked",
+          "Durable: Pack Hacker's team reports four-plus years of weekly use with only a small adjuster fragment breaking off"
+        ],
+        "complaints": [
+          "Ball head and center column lock are hard to tighten securely",
+          "Expensive for what it is; one forum owner had a leg come off while traveling",
+          "Not something to trust in strong wind on exposed ground"
+        ],
+        "sources": [
+          {"title": "PetaPixel: My Experience with the Peak Design Travel Tripod", "url": "https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/"},
+          {"title": "Fred Miranda forum: Peak Design issues", "url": "https://www.fredmiranda.com/forum/topic/1926245/0"},
+          {"title": "Pack Hacker: The Best Travel Tripod (long-term use)", "url": "https://www.packhacker.com/blog/general/best-travel-tripod/"}
+        ]
+      },
+      "ownerQuotes": [
+        {"quote": "The legs are nice. Like really, really, really, nice. My favorite part is that I can easily latch and unlatch all of the legs at once with one hand, which makes setting up the tripod a breeze.", "url": "https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/"},
+        {"quote": "I wouldn't want to depend on it in 20 MPH winds on top of a glacier, but I can't think of any other travel tripod I would either.", "url": "https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/"},
+        {"quote": "But when I spun the knob to lock the column I never felt super confident that it would be tight enough.", "url": "https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/"},
+        {"quote": "I am out of town and went to use it an one of the legs came off.", "url": "https://www.fredmiranda.com/forum/topic/1926245/0"},
+        {"quote": "we've been using the carbon fiber version of the Peak Design Travel Tripod for over four years and use it multiple times per week.", "url": "https://www.packhacker.com/blog/general/best-travel-tripod/"}
+      ],
+      "weak": "Pack Hacker lists 3.432 lb / 1.56 kg for the carbon version, which matches the aluminum spec elsewhere; I used 2.81 lb from retailer listings of the maker spec (could not open the collapsed Specs tab on peakdesign.com). Matt Purciel recommends the Aluminum version, so 2-page evidence is at family level."
+    },
+    {
+      "name": "Sirui Traveler 5C Carbon Fiber Tripod",
+      "brand": "Sirui",
+      "query": "Sirui Traveler 5C carbon fiber tripod",
+      "matchName": "Sirui Compact Traveler 5C Tripod",
+      "badge": "Best budget lightweight",
+      "summary": "A 0.85 kg carbon tripod with five sections and twist locks that folds to about 13 in and reaches 54.3 in with the column raised. It suits a small mirrorless kit and a daypack.",
+      "renterNote": "Mirrorless or crop-sensor shooters with a body and a standard zoom who want the lightest tripod in the bag. Key caveat: the 8.8 lb (4 kg) rating and a wobbly raised column limit it with a long telephoto or in wind.",
+      "pros": [
+        "About 1.9 lb and a 13 in fold, so it disappears into a backpack",
+        "Five-section twist locks and a removable column that allows low shots",
+        "Arca Swiss-style quick-release plate on the included ball head per the Amazon listing"
+      ],
+      "cons": [
+        "TechGearLab found it not confidence-inspiring in wind with the column fully raised",
+        "The single-knob ball head is the weak point, per owners and reviewers"
+      ],
+      "specs": {
+        "Max height (center column up)": "54.3 in (138 cm)",
+        "Max height (center column down)": "About 40 in (102.5 cm), per retailer listings (not on a maker page I could open)",
+        "Min height": "6.3 in (16 cm)",
+        "Folded length": "13 in (33 cm)",
+        "Weight": "0.85 kg (1.87 lb) per First Quadcopter; listings range 850 to 895 g",
+        "Max load": "8.8 lb (4 kg)",
+        "Leg sections": "5",
+        "Leg lock": "Twist locks",
+        "Head": "Included ball head, single knob for friction and lock (25 mm ball)",
+        "Plate": "Arca Swiss compatible per the Amazon listing title"
+      },
+      "sources": [
+        "https://www.techgearlab.com/reviews/electronics/tripod/sirui-lightweight-carbon-fiber-traveler-5c",
+        "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.digitalcamerawarehouse.com.au/sirui-traveller-5c-carbon-fibre-tripod-with-3t-35-ball-head"
+      ],
+      "scores": {"stability": 5, "portability": 10, "height": 6, "build": 7, "value": 9},
+      "scoreNote": "Lightest and smallest of the three with a very low entry cost for carbon; the 4 kg rating, wobbly raised column and basic head cap stability and height.",
+      "asin": "B07KD181B3",
+      "asinVerified": true,
+      "amazonTitle": "Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber Travel Tripod for Camera with 360° Panorama Ball Head for Arca Swiss Quick Release Plate, Max Load 8.8lbs",
+      "owners": {
+        "read": 6,
+        "praise": [
+          "Amazingly small and light; fits inside a backpack for a two-week trip",
+          "Lightweight, sturdy for mirrorless kits and fine for product and studio work",
+          "Handled mud and field conditions without damage"
+        ],
+        "complaints": [
+          "4 kg capacity is a huge limitation when fully extended; one owner returned it with an A7 III and 24-70mm",
+          "Center column shaky when fully extended; a sandbag or hanging bag helps",
+          "Ball head is the most limiting part; some owners swap it"
+        ],
+        "sources": [
+          {"title": "Fred Miranda forum: Anyone Using the Sirui 5C?", "url": "https://www.fredmiranda.com/forum/next/1826923"},
+          {"title": "First Quadcopter: SIRUI Traveler 5C review and reader comments", "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/"},
+          {"title": "TechGearLab: SIRUI Traveler 5C review", "url": "https://www.techgearlab.com/reviews/electronics/tripod/sirui-lightweight-carbon-fiber-traveler-5c"}
+        ]
+      },
+      "ownerQuotes": [
+        {"quote": "It is an amazingly small tripod that fits inside of my backpack which was ideal for a two week trip to the UK and France.", "url": "https://www.fredmiranda.com/forum/next/1826923"},
+        {"quote": "The ballhead works but is probably the most limiting aspect.", "url": "https://www.fredmiranda.com/forum/next/1826923"},
+        {"quote": "Recently bought it and had to return it. The weight capacity is 4kg which is a huge limitation when fully extended.", "url": "https://www.fredmiranda.com/forum/next/1826923"},
+        {"quote": "I've had this tripod for about a year and I love it!", "url": "https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/"},
+        {"quote": "when we fully extended the center column to its max height (54.3 inches), the SIRUI wasn't very confidence-inspiring in the wind.", "url": "https://www.techgearlab.com/reviews/electronics/tripod/sirui-lightweight-carbon-fiber-traveler-5c"}
+      ],
+      "weak": "No maker (sirui.com) page opened; specs from First Quadcopter, TechGearLab and AU/EU retailer listings, which disagree slightly (weight 850-895 g, one German retailer says 6 kg load). Column-down height (about 102.5 cm) is retailer-only. Owner count includes 2 commenter owners on First Quadcopter and 2 Fred Miranda posters. Already a pick in best-travel-tripod-for-mirrorless-camera."
+    },
+    {
+      "name": "3 Legged Thing Winston 2.0 Carbon Fibre Tripod Kit",
+      "brand": "3 Legged Thing",
+      "query": "3 Legged Thing Winston 2.0 carbon fibre tripod kit",
+      "matchName": "3 Legged Thing Winston 2.0 Kit Carbon Fibre Tripod",
+      "badge": "Best for heavy lenses",
+      "summary": "A big three-section carbon tripod rated to 88 lb at its narrowest leg angle, with 55.5 in of height without the column and 72.8 in with it. It is the stable pick for long lenses, landscapes and studio work when weight does not matter.",
+      "renterNote": "DSLR and mirrorless shooters with 70-200mm to 600mm lenses, or anyone who wants a rock-solid base at eye level. Key caveat: it folds to 24 in and weighs 3.8 lb without the head, so it is not a carry-on tripod.",
+      "pros": [
+        "40 kg (88 lb) rated load at the 23 degree leg angle, with 25 kg at 55 degrees",
+        "55.5 in without the center column and 72.8 in with it, so tall users reach eye level",
+        "Legs detach into a monopod, and the kit adds an AirHed Pro ball head with an Arca-Swiss compatible plate"
+      ],
+      "cons": [
+        "Folded length is 24 in, and The Phoblographer found it larger than they would want for travel",
+        "Owners report the section couplings can take on water when submerged; one reviewer had ball head locking close calls"
+      ],
+      "specs": {
+        "Max height (center column up)": "72.8 in (1.85 m)",
+        "Max height (center column down)": "55.5 in (1.41 m)",
+        "Min height": "5.7 in (14.6 cm)",
+        "Folded length": "24 in (61.2 cm)",
+        "Weight": "3.8 lb (1.73 kg) for the tripod system, per 3 Legged Thing",
+        "Max load": "88 lb (40 kg) at 23 degrees; 55 lb at 55 degrees; 33 lb at 80 degrees",
+        "Leg sections": "3 leg sections, 1 section column",
+        "Leg lock": "Twist locks with knurled caps (Parallel Locking)",
+        "Head": "AirHed Pro ball head with twist clamp (in the kit version)",
+        "Plate": "QR Octa Arca-Swiss compatible plate, 1/4-20 screw"
+      },
+      "sources": [
+        "https://3leggedthing.com/products/winston-2-carbon-fibre-tripod-system",
+        "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+        "https://www.mikestehlik.com/post/ultimate-review-best-tripods-3-legged-thing-jay-winston",
+        "https://www.thephoblographer.com/2021/09/08/reliable-and-strong-3-legged-thing-winston-2-0-tripod-review/"
+      ],
+      "scores": {"stability": 10, "portability": 3, "height": 9, "build": 9, "value": 7},
+      "scoreNote": "88 lb rating, 55.5 in column-down height and tough carbon legs make it the most stable here; 24 in fold and 3.8 lb without the head cost portability.",
+      "asin": "B082FB275T",
+      "asinVerified": true,
+      "amazonTitle": "3 Legged Thing Pro Range 2.0 Winston 2.0 Kit Carbon Fibre Tripod System - Adjustable Camera Tripod with 3 Counterfold Detachable Legs for Monopod Conversion (IE-RG44-9V3D) (Bronze)",
+      "owners": {
+        "read": 3,
+        "praise": [
+          "Tough carbon legs that resist scratches on sharp rock, with twist locks that are easy to grip in the cold",
+          "Holds a lot of weight steady; the monopod conversion and hook for ballast are handy",
+          "Held up through months of snow, cold, saltwater and sand in a long-term test"
+        ],
+        "complaints": [
+          "Heavy and large for travel; needs its carry case",
+          "Section couplings can fill with water when submerged",
+          "Ball head locking needed care, with close calls in one review"
+        ],
+        "sources": [
+          {"title": "DPReview forum: 3 legged thing winston 2.0", "url": "https://www.dpreview.com/forums/threads/3-legged-thing-winston-2-0.4584647/"},
+          {"title": "Mike Stehlik: Jay and Winston 2.0 long-term review", "url": "https://www.mikestehlik.com/post/ultimate-review-best-tripods-3-legged-thing-jay-winston"},
+          {"title": "The Phoblographer: Winston 2.0 review", "url": "https://www.thephoblographer.com/2021/09/08/reliable-and-strong-3-legged-thing-winston-2-0-tripod-review/"}
+        ]
+      },
+      "ownerQuotes": [
+        {"quote": "I bought the Winston 2.0 last summer and it's been a great tripod for me. It's built tough and seen some harsh country here in New Mexico and is holding up amazingly well.", "url": "https://www.dpreview.com/forums/threads/3-legged-thing-winston-2-0.4584647/"},
+        {"quote": "the section couplings will leak water into the tubes when submerged in the water.", "url": "https://www.dpreview.com/forums/threads/3-legged-thing-winston-2-0.4584647/"},
+        {"quote": "Damn it can hold a lot of weight steady! But it's still light enough to where I need to add some ballast for the wind around here.", "url": "https://www.dpreview.com/forums/threads/3-legged-thing-winston-2-0.4584647/"},
+        {"quote": "even with the center column extended to about 60-70% in \"field conditions,\" I did not notice any motion blur when reviewing the photos.", "url": "https://www.mikestehlik.com/post/ultimate-review-best-tripods-3-legged-thing-jay-winston"},
+        {"quote": "A little larger than I'd prefer for a travel tripod", "url": "https://www.thephoblographer.com/2021/09/08/reliable-and-strong-3-legged-thing-winston-2-0-tripod-review/"}
+      ],
+      "weak": "Maker search snippet showed the 3leggedthing.com page as 'Out of stock' for one search result; the Amazon listing (B082FB275T) is the Bronze colour of the Kit and I did not confirm stock or the current (not discontinued) colourway. A second Winston 2.0 ASIN (B0821K7H2W, legs only, Spanish-language title) was seen and not used. Weight is 3.8 lb per maker but DCW and others quote about 2.05 kg (4.5 lb); only maker figure used. Leg lock is described by the maker as knurled-cap locks (Parallel Locking); DPReview owner calls them twist-locks."
+    }
+  ]
+}
