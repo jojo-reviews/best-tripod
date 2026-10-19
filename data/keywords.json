@@ -35,8 +35,8 @@
     }
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
       "lightweight tripod for milky way photography",
@@ -74,7 +74,8 @@
     "painPoints": [
       "travel-tripods-too-heavy-for-hiking",
       "travel-tripods-wobbly-for-long-exposure"
-    ]
+    ],
+    "note": "2026-10-19 SERP gate: 1 model confirmed."
   },
   {
     "status": "pending",
@@ -467,8 +468,8 @@
     "publishedAt": "2026-10-18T13:30:54.889Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
       "arca swiss l bracket for sony",
@@ -495,7 +496,8 @@
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "note": "2026-10-19 SERP gate: no model on 2+ pages."
   },
   {
     "status": "pending",
@@ -1269,8 +1271,8 @@
     "note": "2026-10-19: SERP is mostly maker/shop pages; only 1-2 heads on 2+ editorial top-10 pages. Products file kept for a retry."
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [
       "portable camera tripod"
@@ -1301,7 +1303,8 @@
     "painPoints": [
       "travel-tripods-too-heavy-for-hiking"
     ],
-    "slug": "lightweight-camera-tripod"
+    "slug": "lightweight-camera-tripod",
+    "note": "2026-10-19 SERP gate: no model on 2+ pages."
   },
   {
     "status": "pending",
@@ -1334,8 +1337,8 @@
     "slug": "mini-ball-head"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1365,7 +1368,8 @@
     "painPoints": [
       "tripod-heads-ballhead-sag-after-locking",
       "tripod-heads-plate-loosens-or-twists"
-    ]
+    ],
+    "note": "2026-10-19 SERP gate: 1 model on 2+ pages."
   },
   {
     "status": "merged",
@@ -1510,8 +1514,8 @@
     "note": "2026-10-19: one editorial page in top 10 (SLR Lounge); only 2 products on 2+ editorial pages nearby."
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1534,7 +1538,8 @@
       "date": "2026-10-19"
     },
     "slug": "monopod-for-camera",
-    "productCount": 17
+    "productCount": 17,
+    "note": "2026-10-19 SERP gate: only 3 non-shop pages, brands not models."
   },
   {
     "status": "deferred",
@@ -1564,8 +1569,8 @@
     "note": "2026-10-19: top 10 is maker/shop collection pages; one editorial roundup (Digital Camera World)."
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1587,7 +1592,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "spotting-scope-tripod"
+    "slug": "spotting-scope-tripod",
+    "note": "2026-10-19 SERP gate: 1 model on 2+ pages."
   },
   {
     "status": "rejected",
@@ -1670,8 +1676,8 @@
     "slug": "binocular-tripod-adapter"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1693,11 +1699,12 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "broadcast-camera-tripod"
+    "slug": "broadcast-camera-tripod",
+    "note": "2026-10-19 SERP gate: maker/supplier pages only."
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1719,7 +1726,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "ring-light-tripod"
+    "slug": "ring-light-tripod",
+    "note": "2026-10-19 SERP gate: 2 non-shop pages."
   },
   {
     "status": "deferred",
@@ -1802,8 +1810,8 @@
     "slug": "ball-head-tripod"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:45.947Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1825,6 +1833,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "phone-tripod-stand"
+    "slug": "phone-tripod-stand",
+    "note": "2026-10-19 SERP gate: 1 editorial page."
   }
 ]
