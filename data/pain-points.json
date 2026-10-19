@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:00:00.000Z",
+  "updatedAt": "2026-10-19T13:29:17.116Z",
   "categories": {
     "camera-tripods": [
       {
@@ -386,6 +386,49 @@
           "self timer camera shake"
         ],
         "keywords": [],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "camera-tripods-cheap-false-economy",
+        "pain": "Bought a cheap tripod, regretted it, and had to buy a better one",
+        "details": "Photographers advise buying one sturdy tripod rather than upgrading repeatedly; budget brands are fine for an occasional shot but not as a main tripod.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/",
+            "platform": "reddit",
+            "title": "Has anyone used one of the higher end Amazon Basics tripods",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/19dxk6p/it_looks_like_neewer_reverse_engineered_the_peak/",
+            "platform": "reddit",
+            "title": "It looks like Neewer \"reverse engineered\" the Peak Design Tripod",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "buy once and keep forever, so make it a good one.",
+            "url": "https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "while it's great for that thing you need once for that one shot",
+            "url": "https://www.reddit.com/r/photography/comments/19dxk6p/it_looks_like_neewer_reverse_engineered_the_peak/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "are cheap tripods worth it",
+          "neewer vs peak design tripod",
+          "amazon basics tripod good enough"
+        ],
+        "keywords": [
+          "are cheap tripods worth it for beginners",
+          "best tripod for photography"
+        ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
       }
@@ -930,6 +973,375 @@
         ],
         "keywords": [],
         "coveredBy": [],
+        "foundAt": "2026-10-19"
+      }
+    ],
+    "tripod-heads": [
+      {
+        "id": "tripod-heads-ballhead-sag-after-locking",
+        "pain": "Ball head sags or creeps after I tighten it, so my framing drifts",
+        "details": "Landscape and telephoto shooters lock the head, let go, and the camera drops or slowly slides, ruining careful composition. Replies blame head size, a loose lens collar, flex in the legs, or suggest a geared head.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "platform": "forum",
+            "title": "Do Even Good Ball Heads Drop Slightly After Setting?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/410699/1",
+            "platform": "forum",
+            "title": "Do all ballheads sag",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/",
+            "platform": "reddit",
+            "title": "Stopping Ballhead Creep?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/of3hj/tripod_head_creep_or_the_slight_movement_after/",
+            "platform": "reddit",
+            "title": "Tripod head \"creep\" - or the slight movement after I've tightened",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.fredmiranda.com/forum/next/1010185",
+            "platform": "forum",
+            "title": "Shift upon tightening ballhead?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "There is a limited amount of sag even in a very good ball head.",
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "via": "page"
+          },
+          {
+            "text": "After I fix the position and tighten all the knobs, it sags a bit when the camera is facing downwards (45 degrees).",
+            "url": "https://www.fredmiranda.com/forum/topic/410699/1",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "But it has a weird issue where it \"creeps\" or slides for a while after I've tightened everything.",
+            "url": "https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "why does my ball head sag after tightening",
+          "ball head creep fix",
+          "tripod head drops after locking"
+        ],
+        "keywords": [
+          "tripod ball head",
+          "best tripod head"
+        ],
+        "coveredBy": [
+          "ball-head-vs-pan-tilt-head-for-landscape-photography"
+        ],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-fine-framing-shifts-on-tightening",
+        "pain": "Small framing tweaks on a ball head mean loosening it and the camera flops or shifts",
+        "details": "Photographers who want to nudge the angle slightly must unlock the whole head, so the camera goes free and moves again when re-locked. Geared heads are the usual suggestion.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/",
+            "platform": "reddit",
+            "title": "A tripod that should exist but doesn't seem to",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.fredmiranda.com/forum/next/1010185",
+            "platform": "forum",
+            "title": "Shift upon tightening ballhead?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "platform": "forum",
+            "title": "Do Even Good Ball Heads Drop Slightly After Setting?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head.",
+            "url": "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The only solution I can think of is to use a geared head which doesn't require touching the camera at all.",
+            "url": "https://www.fredmiranda.com/forum/next/1010185",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "It usually takes me two or three iterations to point my 300/4 exactly where I want it",
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "ball head vs geared head for precise framing",
+          "how to make fine adjustments on a ball head"
+        ],
+        "keywords": [
+          "tripod ball head"
+        ],
+        "coveredBy": [
+          "ball-head-vs-pan-tilt-head-for-landscape-photography"
+        ],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-heavy-telephoto-droop",
+        "pain": "Head droops or the lens tips forward when I mount a heavy telephoto on a ball head",
+        "details": "Owners of 70-300mm up to super-telephoto lenses see the head droop or feel the rig is too heavy for it. Fixes suggested: mount the lens by its tripod foot, use a gimbal or fluid head, and size head and legs well above the load.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/peakdesign/comments/v0v0gv/travel_tripod_drooping/",
+            "platform": "reddit",
+            "title": "Travel Tripod Drooping",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/",
+            "platform": "reddit",
+            "title": "My camera lens is too heavy for tripod, what do i do?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/190gqt0/best_way_to_keep_a_camera_with_a_heavy_lens/",
+            "platform": "reddit",
+            "title": "Best way to keep a camera with a heavy lens vertical on tripod?",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/canon/comments/ypj0h8/tripod_for_heavy_tele_lens/",
+            "platform": "reddit",
+            "title": "Tripod for heavy tele lens",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The ground was solid and there was no wind, but the tripod head drooped with the 70-300mm lens attached.",
+            "url": "https://www.reddit.com/r/peakdesign/comments/v0v0gv/travel_tripod_drooping/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Alternatively you can get an aftermarket slip-on tripod foot for your lens, which would move the center of gravity away from the ball head",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Make sure the weight capacity for both the head and legs is at least 3x the amount of weight you'll put on it.",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/190gqt0/best_way_to_keep_a_camera_with_a_heavy_lens/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "ball head too weak for telephoto lens",
+          "tripod head drooping with long lens",
+          "tripod foot for telephoto lens"
+        ],
+        "keywords": [
+          "best gimbal head for 150-600mm lens",
+          "how to choose a tripod for a heavy telephoto lens",
+          "tripod ball head",
+          "tripod for wildlife photography"
+        ],
+        "coveredBy": [
+          "ball-head-vs-pan-tilt-head-for-landscape-photography"
+        ],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-plate-loosens-or-twists",
+        "pain": "Quick-release plate keeps loosening or the camera twists on the plate",
+        "details": "Single-screw generic plates without an anti-twist lip work loose, and shooters on Arca-Swiss clamps report the plate rotating or loosening on bodies and lens collars. Advice: anti-twist plates, thread locker, and loosening the head before moving the camera.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/",
+            "platform": "forum",
+            "title": "Locking in lens with Arca-Swiss plate",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1sc1xr0/how_fix_arca_swiss_plate_loosening_from_camera/",
+            "platform": "reddit",
+            "title": "How fix arca swiss plate loosening from camera?",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time.",
+            "url": "https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "With any type of tripod you are supposed to loosen the head first, move the camera, then tighten it down again.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1sc1xr0/how_fix_arca_swiss_plate_loosening_from_camera/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "arca swiss plate keeps loosening",
+          "camera twisting on tripod plate"
+        ],
+        "keywords": [
+          "best tripod head",
+          "tripod ball head"
+        ],
+        "coveredBy": [
+          "what-is-an-arca-swiss-plate-and-do-i-need-one"
+        ],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-gimbal-cheap-vs-premium",
+        "pain": "Unsure whether a budget gimbal head is good enough or if I must pay for a Wimberley-class one",
+        "details": "Wildlife shooters with a 150-600mm or 180-600mm lens are split between a cheap gimbal to test the idea and a premium head with smooth bearings. Price is a big factor next to an already expensive lens.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "platform": "forum",
+            "title": "Gimbals for 180-600 and wildlife",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.fredmiranda.com/forum/next/1096696",
+            "platform": "forum",
+            "title": "Wimberley vs Benro Gimbal Head",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://www.uglyhedgehog.com/t-655764-2.html",
+            "platform": "forum",
+            "title": "gimbal head advice",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I would steer well clear of cheap gimbals. You are looking for solid construction and very smooth bearings.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          },
+          {
+            "text": "These inexpensive gimbals are perfectly adequate for determining whether or not he'll use one.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          },
+          {
+            "text": "Price is a big factor as the lens was so hugely expensive.",
+            "url": "https://www.fredmiranda.com/forum/next/1096696",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "are cheap gimbal heads any good",
+          "wimberley vs benro gimbal head",
+          "best budget gimbal head for 150-600"
+        ],
+        "keywords": [
+          "best gimbal head for 150-600mm lens"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-gimbal-heavy-and-bulky",
+        "pain": "Gimbal heads are heavy and bulky to carry and slow me down on the move",
+        "details": "Owners say gimbals are large and heavy even when they break down, and hinder mobility in dynamic situations, where a monopod can suit a lighter lens like a 180-600mm better.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "platform": "forum",
+            "title": "Gimbals for 180-600 and wildlife",
+            "seen": "2026-10-19"
+          },
+          {
+            "url": "https://shuttermuse.com/best-gimbal-tripod-heads/",
+            "platform": "review",
+            "title": "The Best Gimbal Tripod Heads in 2026",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "As already mentioned, they are relatively large and heavy to transport, even those that break down into three separate parts.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          },
+          {
+            "text": "They do, however hinder mobility in more dynamic situations",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          },
+          {
+            "text": "The downside to the Wimberley head is its 3.1lb weight.",
+            "url": "https://shuttermuse.com/best-gimbal-tripod-heads/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "lightweight gimbal head for hiking",
+          "gimbal head too heavy for travel"
+        ],
+        "keywords": [
+          "best gimbal head for 150-600mm lens"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-19"
+      },
+      {
+        "id": "tripod-heads-gimbal-used-less-than-expected",
+        "pain": "Worried a gimbal head will go unused because stabilized lenses and bodies can be handheld",
+        "details": "Buyers of 180-600mm and 200-500mm lenses say VR/IBIS let them handhold more than expected, or that a monopod suits them better, so the gimbal is used less than planned.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "platform": "forum",
+            "title": "Gimbals for 180-600 and wildlife",
+            "seen": "2026-10-19"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have used it less than I anticipated",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          },
+          {
+            "text": "reduce the need for a gimbal.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "do i need a gimbal head for 150-600",
+          "gimbal head or monopod for wildlife"
+        ],
+        "keywords": [
+          "best gimbal head for 150-600mm lens",
+          "tripod for wildlife photography"
+        ],
+        "coveredBy": [
+          "best-monopod-with-feet-for-wildlife-photography"
+        ],
         "foundAt": "2026-10-19"
       }
     ]
