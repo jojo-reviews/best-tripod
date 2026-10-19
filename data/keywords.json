@@ -159,7 +159,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -202,7 +202,8 @@
       "travel-tripods-wobbly-for-long-exposure",
       "travel-tripods-integrated-head-limits"
     ],
-    "productCount": 3
+    "productCount": 3,
+    "publishedAt": "2026-10-19T14:11:59.469Z"
   },
   {
     "status": "published",

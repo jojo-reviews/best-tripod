@@ -1,8 +1,8 @@
 ---
-title: 'Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold'
-seoTitle: Best Tripod That Fits in Carry On Luggage (3 Picks, 2026)
+title: Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold
+seoTitle: 'Best Tripod That Fits in Carry On Luggage (3 Picks, 2026)'
 description: >-
-  The best tripod that fits in carry on luggage: 3 picks from 8 to 15.5 in
+  The best tripod that fits in carry on luggage: 3 picks from 8 to 15.4 in
   folded, compared on height, load, head and packing for mirrorless kits.
 pubDate: '2026-10-20T01:13:00.000Z'
 category: travel-tripods
@@ -42,7 +42,7 @@ tldr:
     with its ball head, rated to 8.8 lb and 54.3 in tall with the column up.
   - >-
     Best for a full-frame body and a telephoto: the Peak Design Travel Tripod
-    (Carbon Fiber), 15.5 in folded, 2.8 lb, 20 lb rated load and 60 in max
+    (Carbon Fiber), 15.4 in folded, 2.8 lb, 20 lb rated load and 60 in max
     height.
   - >-
     Smallest: the Manfrotto PIXI EVO at 8.07 in and 0.57 lb, a tabletop tripod
@@ -64,13 +64,15 @@ products:
     renterNote: >-
       Mirrorless shooters with a 24-70mm or small telephoto who want a
       full-height tripod inside a carry-on or daypack; the caveats are a basic
-      single-knob ball head and a light build that moves in wind unless you
-      hang a bag from the hook.
+      single-knob ball head and a light build that moves in wind unless you hang
+      a bag from the hook.
     pros:
       - >-
         Folds to 13 in (33 cm) at 1.87 lb (0.85 kg), the most compact full-size
         tripod on this list
-      - '54.3 in (138 cm) max height, 6.3 in min height, 5 sections with twist locks'
+      - >-
+        54.3 in (138 cm) max height, 6.3 in min height, 5 sections with twist
+        locks
       - Ships with a carry bag and stays under 2 lb with the head
     cons:
       - >-
@@ -83,13 +85,14 @@ products:
       Folded length: 13 in (33 cm)
       Weight: 1.87 lb (0.85 kg) with head
       Max height: 54.3 in (138 cm)
-      Height with column down: 24.2 in (61.5 cm)
       Min height: 6.3 in (16 cm)
       Max load: 8.8 lb (4 kg)
       Leg sections: '5'
       Leg lock: Twist
       Material: Carbon fiber
-      Head: 3T-35K ball head with Arca-style quick-release plate
+      Head: >-
+        3T-35K ball head with quick-release plate (Amazon listing names Arca
+        Swiss)
     scores:
       stability: 6
       portability: 9
@@ -105,7 +108,7 @@ products:
       praise:
         - >-
           Light, compact and quick to fold and unfold, small enough for a
-          backpack side pocket
+          backpack side pocket (the reviewer's view)
         - >-
           Good value for a carbon fiber travel tripod, with commenters calling
           it sturdy for mirrorless cameras
@@ -139,7 +142,7 @@ products:
     badge: Best premium carry-on
     summary: >-
       Peak Design packs the whole tripod, ball head included, to the diameter of
-      a water bottle at 15.5 in (39 cm) and 2.8 lb, yet reaches 60 in and
+      a water bottle at 15.4 in (39.1 cm) and 2.8 lb, yet reaches 60 in and
       carries 20 lb. It is the one here that takes a full-frame body with a
       telephoto and still goes in a cabin bag.
     renterNote: >-
@@ -149,12 +152,14 @@ products:
       latches a few owners report breaking.
     pros:
       - >-
-        Folds to 15.5 in (39 cm) at 2.8 lb (1.3 kg) with the head built in,
+        Folds to 15.4 in (39.1 cm) at 2.8 lb (1.3 kg) with the head built in,
         roughly as thick as a water bottle
       - >-
-        60 in max height (about 53 in with the center column down per a B&H
-        answer) and 20 lb rated load
-      - 'Reversible center column, weight hook and a stowable phone mount in the column'
+        60 in max height (51.25 in with the center column down) and 20 lb rated
+        load
+      - >-
+        Reversible center column, weight hook and a stowable phone mount in the
+        column
     cons:
       - >-
         Ball head has one adjustment ring and no separate pan, so panoramas and
@@ -164,10 +169,10 @@ products:
         plastic piece breaking
       - Costs several times what the SIRUI 5C does
     specs:
-      Folded length: 15.5 in (39 cm)
+      Folded length: 15.4 in (39.1 cm)
       Weight: 2.8 lb (1.3 kg) with head
       Max height: 60 in (152 cm)
-      Height with column down: about 53 in (134.6 cm)
+      Height with column down: 51.25 in (130.2 cm)
       Min height: 5.5 in (14 cm)
       Max load: 20 lb (9.1 kg)
       Leg sections: '5'
@@ -181,7 +186,7 @@ products:
       build: 8
       value: 6
     scoreNote: >-
-      20 lb rating, 60 in height and a 15.5 in fold at 2.8 lb are class-leading
+      20 lb rating, 60 in height and a 15.4 in fold at 2.8 lb are class-leading
       together; the premium price, no independent pan and reports of snapped
       leg-lock latches limit build and value.
     owners:
@@ -258,15 +263,12 @@ products:
       build: 6
       value: 7
     scoreNote: >-
-      A pocket-size 8.07 in fold at 0.57 lb earns a 10 for portability, but
-      7.87 in of height and flex under heavy kits hold stability and height
-      down.
+      A pocket-size 8.07 in fold at 0.57 lb earns a 10 for portability, but 7.87
+      in of height and flex under heavy kits hold stability and height down.
     owners:
       read: 8
       praise:
-        - >-
-          Light and easy to pack, so owners forget it is in the bag until
-          needed
+        - 'Light and easy to pack, so owners forget it is in the bag until needed'
         - >-
           Well-thought-out legs with multiple positions and a switch to flatten
           onto the ground
@@ -296,6 +298,11 @@ sources:
     url: 'https://store.sirui.com/products/sirui-traveler-5a-5c'
   - title: 'Peak Design: Travel Tripod'
     url: 'https://www.peakdesign.com/products/travel-tripod'
+  - title: 'Shutter Muse: Peak Design Travel Tripod review (spec table)'
+    url: 'https://shuttermuse.com/the-ultimate-peak-design-travel-tripod-review/'
+  - title: 'Fstoppers: Peak Design Travel Tripod review (spec table)'
+    url: >-
+      https://fstoppers.com/gear/how-choose-tripod-depth-review-peak-design-travel-tripod-684654
   - title: 'B&H: Peak Design Carbon Fiber Travel Tripod'
     url: >-
       https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html
@@ -313,22 +320,24 @@ sources:
   - title: 'Golden Lens Traveler: best travel tripods that fit in a carry-on bag'
     url: 'https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/'
   - title: 'DPReview forum: travel tripod stability comparison'
-    url: 'https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/'
+    url: >-
+      https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/
   - title: 'DPReview forum: lightest tripod for hiking'
-    url: 'https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/'
+    url: >-
+      https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
 reviewedDate: '2026-10-19'
 author: editorial-team
 faqs:
   - q: Can I bring a tripod on a plane?
     a: >-
-      We don't state the rules, because they aren't ours to set and they
-      change. Check your airline's carry-on size and baggage rules for your
-      fare, and read the TSA's own tripods page on tsa.gov before you pack.
+      We don't state the rules, because they aren't ours to set and they change.
+      Check your airline's carry-on size and baggage rules for your fare, and
+      read the TSA's own tripods page on tsa.gov before you pack.
   - q: How long can a tripod be to fit in carry-on luggage?
     a: >-
       It depends on your bag and your airline, so measure the inside of the bag
       and check the airline's size limit. Folded, our picks run 8.07 in for the
-      Manfrotto PIXI EVO, 13 in for the SIRUI Traveler 5C and 15.5 in for the
+      Manfrotto PIXI EVO, 13 in for the SIRUI Traveler 5C and 15.4 in for the
       Peak Design Travel Tripod (Carbon Fiber).
   - q: What is the shortest folding full-height tripod?
     a: >-
@@ -344,25 +353,29 @@ faqs:
   - q: Should I take the head off to pack a tripod?
     a: >-
       Only if it shortens the fold for your bag. The Peak Design Travel Tripod
-      has its ball head built in and is already 15.5 in folded, while the
+      has its ball head built in and is already 15.4 in folded, while the
       Traveler 5C's 3T-35K head can be swapped, which owners do.
   - q: Is a mini tripod enough for travel?
     a: >-
       Only if you shoot from tables, railings and walls. The Manfrotto PIXI EVO
       stands 7.87 in tall and is rated to 5.51 lb, so it suits a compact
       mirrorless body with a timer, not standing-height landscapes.
+heroImage: /images/featured/best-tripod-that-fits-in-carry-on-luggage.png
+heroAlt: >-
+  Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold – Best
+  Tripod buying guide
 ---
 
 The roller bag is open on the hotel bed, the camera cube is packed, and the tripod you own is two inches longer than the bag. We've all done this repack. Legs diagonal, then out again, then a quiet decision to leave it home and handhold the blue hour. The best tripod that fits in carry on luggage solves that moment first, then still has to stand tall and steady enough to earn the space. We picked three, from a 13 in carbon travel tripod to a pocket mini. We compared them on folded length, column-down height, rated load and the head, using maker spec pages, retailer listings and owner reports. We have not used these tripods ourselves, and we say where each number comes from.
 
 ## Quick answer: the best tripod that fits in carry-on luggage
 
-**For most mirrorless travelers, the best tripod that fits in carry-on luggage is the 13 in, 1.87 lb SIRUI Traveler 5C; pick the 15.5 in Peak Design Travel Tripod (Carbon Fiber) if you fly with a full-frame body and a telephoto.** The third pick is a pocket tripod for the lightest bags.
+**For most mirrorless travelers, the best tripod that fits in carry-on luggage is the 13 in, 1.87 lb SIRUI Traveler 5C; pick the 15.4 in Peak Design Travel Tripod (Carbon Fiber) if you fly with a full-frame body and a telephoto.** The third pick is a pocket tripod for the lightest bags.
 
 Here are our three picks, shortest full-height fold first:
 
 - **Best overall for carry-on:** [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+tripod), 13 in (33 cm) folded, 1.87 lb with its ball head, 8.8 lb rated load.
-- **Best premium carry-on:** [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), 15.5 in (39 cm) folded, 2.8 lb, 20 lb rated load.
+- **Best premium carry-on:** [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), 15.4 in (39.1 cm) folded, 2.8 lb, 20 lb rated load.
 - **Best mini for a personal item:** [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK), 8.07 in (20.5 cm) closed, 0.57 lb, 7.87 in tall.
 
 ## Comparison table: folded length, weight, max height and load
@@ -371,8 +384,8 @@ Here are our three picks, shortest full-height fold first:
 
 | Tripod | Folded length | Weight with head | Max height | Height, column down | Rated load | Sections and lock | Head and plate |
 |---|---|---|---|---|---|---|---|
-| SIRUI Traveler 5C | 13 in (33 cm) | 1.87 lb | 54.3 in | 24.2 in (maker's retracted figure) | 8.8 lb | 5, twist | 3T-35K ball head, Arca-style plate |
-| Peak Design Travel (Carbon) | 15.5 in (39 cm) | 2.8 lb | 60 in | about 53 in | 20 lb | 5, flip (cam) | Built-in ball head, Arca-type compatible plate |
+| SIRUI Traveler 5C | 13 in (33 cm) | 1.87 lb | 54.3 in | not stated by the maker | 8.8 lb | 5, twist | 3T-35K ball head, quick-release plate |
+| Peak Design Travel (Carbon) | 15.4 in (39.1 cm) | 2.8 lb | 60 in | 51.25 in | 20 lb | 5, flip (cam) | Built-in ball head, Arca-type compatible plate |
 | Manfrotto PIXI EVO | 8.07 in (20.5 cm) | 0.57 lb | 7.87 in | n/a | 5.51 lb | 2, tabletop | Integrated ball head, 1/4-20 screw, no plate |
 
 ## Can you bring a tripod on a plane? Check your airline and TSA
@@ -402,7 +415,7 @@ Packing a carry-on tripod well takes about a minute:
 
 **We kept only tripods named by at least two of the top-ranking carry-on and travel tripod pages, then checked each one against maker spec pages, B&H and owner reviews.** Pack Hacker and Golden Lens Traveler both named all three; other models turned up on only one page or had no matching US Amazon listing. The Leofoto Ranger LS-225C was named by two pages, but we found no US Amazon listing for it, and the Vanguard VEO 3GO 235CB appeared on only one page, so neither is reviewed here.
 
-> **From our notes:** When we lined up the spec sheets, the load figure was where the pages disagreed. Golden Lens Traveler says the 5C handles 15 lb, but the maker's own table lists 4 kg, or 8.8 lb, so we use the maker's number throughout. Pack Hacker's 3.4 lb weight for our premium pick looks like the aluminum version; B&H gives 2.8 lb for carbon. And the First Quadcopter review of the 5C that we lean on was written by a reviewer who got the unit free from the maker, which we keep in mind when we weigh its praise.
+> **From our notes:** When we lined up the spec sheets, the load figure was where the pages disagreed. Golden Lens Traveler says the 5C handles 15 lb, but the maker's own table lists 4 kg, or 8.8 lb, so we use the maker's number throughout. Pack Hacker lists 3.4 lb for our premium pick while B&H gives 2.8 lb for the carbon model, so we use B&H's figure. And the First Quadcopter review of the 5C that we lean on was written by a reviewer who received the unit through a review collaboration with the maker, which we keep in mind when we weigh its praise.
 
 ## The 3 best tripods that fit in carry-on luggage
 
@@ -410,17 +423,17 @@ Packing a carry-on tripod well takes about a minute:
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: best overall for carry-on
 
-Thirteen inches folded is what earns this carbon tripod the top spot. At 1.87 lb (0.85 kg) with its 3T-35K ball head, the 5C is the shortest full-height option we found. It reaches 54.3 in with the column up and drops to 6.3 in for low shots, per [SIRUI's spec table](https://store.sirui.com/products/sirui-traveler-5a-5c). The legs reverse-fold, lock with twists across five sections and set at three angles. The quick-release plate is Arca-style, per the listing.
+Thirteen inches folded is what earns this carbon tripod the top spot. At 1.87 lb (0.85 kg) with its 3T-35K ball head, the 5C is the shortest full-height option we found. It reaches 54.3 in with the column up and drops to 6.3 in for low shots, per [SIRUI's spec table](https://store.sirui.com/products/sirui-traveler-5a-5c). The legs reverse-fold, lock with twists across five sections and set at three angles. The Amazon listing title names an Arca Swiss quick-release plate.
 
-The rated 8.8 lb is plenty for a mirrorless camera with a 24-70mm. It's thin for a full-frame camera and a 70-200mm f/2.8 once you count a grip or filter holder. Rated load is the ceiling, not a comfortable working load. The maker's table also lists 24.2 in (61.5 cm) as the retracted height. That suggests much of the 54.3 in comes from the center column, so plan on raising it for anything above waist level.
+The rated 8.8 lb is plenty for a mirrorless camera with a 24-70mm. It's thin for a full-frame camera and a 70-200mm f/2.8 once you count a grip or filter holder. Rated load is the ceiling, not a comfortable working load. SIRUI's table lists a 24.2 in "retracted height" but doesn't define it, so we don't use it as a column-down figure. We found no maker column-down height for the 5C, so plan on raising the column for anything above waist level and expect less stability when you do.
 
-Owners like how fast it folds and unfolds and how it slips into a backpack side pocket, according to commenters on the [First Quadcopter review](https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/); several call it sturdy for mirrorless cameras. That reviewer received the tripod free from the maker, so weigh the review itself with that in mind. Both the reviewer and owners agree the head is the weak point: one knob handles friction and lock together, and one commenter swapped the head a week after buying. The reviewer also found it a little unstable with a telephoto and recommends a sandbag, and reports that a gust tipped it over with a 7 in monitor on top. Hang your bag from the hook in wind.
+The [First Quadcopter reviewer](https://www.firstquadcopter.com/reviews/sirui-traveler-5c-carbon-fiber-field-tripod/) liked how fast it folds and unfolds and that it fits a backpack side pocket, and several commenters call it sturdy for mirrorless cameras. Disclosure: that reviewer says he received the tripod as part of a product review collaboration with SIRUI, so weigh the review itself with that in mind. Both the reviewer and owners agree the head is the weak point: one knob handles friction and lock together, and one commenter swapped the head a week after buying. The reviewer also found it a little unstable with a telephoto and recommends a sandbag, and reports that a gust tipped it over with a 7 in monitor on top. Hang your bag from the hook in wind.
 
 ### Peak Design Travel Tripod (Carbon Fiber): best premium carry-on
 
-Full-frame shooters get the most stability here per inch of bag. The [maker's spec page](https://www.peakdesign.com/products/travel-tripod) says the tripod packs to the diameter of a water bottle and is optimized for full-frame bodies with telephoto lenses; B&H lists 15.5 in (39 cm) folded, 2.8 lb (1.3 kg) and a 20 lb (9.1 kg) rated load. It reaches 60 in, about 53 in with the column down per a B&H answer, and 5.5 in at its lowest.
+Full-frame shooters get the most stability here per inch of bag. The [maker's spec page](https://www.peakdesign.com/products/travel-tripod) says the tripod packs to the diameter of a water bottle and is optimized for full-frame bodies with telephoto lenses; the published collapsed length is 15.4 in (39.1 cm), and B&H lists 2.8 lb (1.3 kg) and a 20 lb (9.1 kg) rated load. It reaches 60 in, 51.25 in (130.2 cm) with the column down per the published spec tables at [Shutter Muse](https://shuttermuse.com/the-ultimate-peak-design-travel-tripod-review/) and [Fstoppers](https://fstoppers.com/gear/how-choose-tripod-depth-review-peak-design-travel-tripod-684654), and 5.5 in at its lowest.
 
-That column-down figure is the one that matters for the reader who hates bending over: about 53 in without the column, so you raise it only when the air is still. The head is built in, so there's nothing to unscrew at packing time, and the plate is Arca-type compatible. Pack Hacker and Golden Lens both say it fits a backpack water-bottle pocket, and one owner on the maker's site wrote, "I can carry it in the side pocket of my Lowepro bag." For a deeper head-to-head, see our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/).
+That column-down figure is the one that matters for the reader who hates bending over: 51.25 in without the column, so you raise it only when the air is still. The head is built in, so there's nothing to unscrew at packing time, and the plate is Arca-type compatible. Pack Hacker and Golden Lens both say it fits a backpack water-bottle pocket, and one owner on the maker's site wrote, "I can carry it in the side pocket of my Lowepro bag." For a deeper head-to-head, see our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/).
 
 Owners on the maker's site and at B&H say it's so compact they now bring a tripod on trips where they used to leave one home, and some report it holding steady with a 200-600mm. The complaints are consistent too. The ball head has one adjustment ring and no separate pan, so owners add a pan clamp for panoramas. At least one B&H owner reports a cast leg-lock latch snapping. And the soft case is tight to close.
 
@@ -438,7 +451,7 @@ Heavier kits push it too far. One B&H owner found it not stable enough with a Ni
 
 ### Too short, so you bend over
 
-Height is a recurring complaint in DPReview hiking and travel threads. One poster put it plainly: "a travel pod will be shorter requiring you to bend over to look through the VF" ([DPReview](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). The fix is to compare column-down height, not the headline maximum. Our premium pick's roughly 53 in without the column is the tallest here; the 5C needs its column, so pair it with an articulating screen. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the math.
+Height is a recurring complaint in DPReview hiking and travel threads. One poster put it plainly: "a travel pod will be shorter requiring you to bend over to look through the VF" ([DPReview](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). The fix is to compare column-down height, not the headline maximum. Our premium pick's 51.25 in without the column is the tallest here; SIRUI lists no column-down height for the 5C, so pair it with an articulating screen if you shoot low. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the math.
 
 ### Center column and stability
 
@@ -454,7 +467,7 @@ Photographers who start with a travel tripod often outgrow it once they add ND f
 
 ### Basic integrated heads
 
-Compact heads save length by dropping controls. One DPReview poster noted of a light travel head, "there is no friction control of the ball (it is pretty much on or off with a leaver)". The 5C's single knob and the premium pick's single ring are versions of the same trade. If you shoot panoramas or video, budget for a pan clamp; on the 5C you can swap the head entirely, as owners do. Our explainer on [what an Arca-Swiss plate is and whether you need one](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers plate fit before you buy a new head.
+Compact heads save length by dropping controls. One DPReview poster noted of a light travel head, "there is no friction control of the ball (it is pretty much on or off with a leaver)" ([DPReview](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). The 5C's single knob and the premium pick's single ring are versions of the same trade. If you shoot panoramas or video, budget for a pan clamp; on the 5C you can swap the head entirely, as owners do. Our explainer on [what an Arca-Swiss plate is and whether you need one](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers plate fit before you buy a new head.
 
 ## How to choose a tripod that fits in carry-on luggage
 
@@ -462,7 +475,7 @@ Compact heads save length by dropping controls. One DPReview poster noted of a l
 
 ### Folded length against your bag
 
-Measure the inside length of your carry-on, roller bag or daypack and compare it with the folded length with the head on. The 5C at 13 in leaves room in most daypacks; the 2.8 lb carbon pick at 15.5 in rides in a water-bottle pocket per Pack Hacker. Every airline carry-on size limit is set by the airline and can vary by fare, so check yours.
+Measure the inside length of your carry-on, roller bag or daypack and compare it with the folded length with the head on. The 5C at 13 in leaves room in most daypacks; the 2.8 lb carbon pick at 15.4 in rides in a water-bottle pocket per Pack Hacker. Every airline carry-on size limit is set by the airline and can vary by fare, so check yours.
 
 ### Working height without the center column
 
@@ -485,4 +498,4 @@ Carbon fiber is lighter for the same stiffness and damps vibration faster, which
 
 ## Final verdict
 
-**For most travelers, the SIRUI Traveler 5C is the tripod that fits in carry-on luggage with the least fuss; the Peak Design Travel Tripod (Carbon Fiber) is the one to pack for a full-frame body and a telephoto.** So for that repack on the hotel bed, we'd lay the 13 in 5C along the long side and stop worrying about the extra two inches. If your kit includes a 70-200mm f/2.8 or ND filters on windy coasts, we'd make room for the 15.5 in carbon pick and its 20 lb rating. And if the bag is a personal item, we'd slip the PIXI EVO into a jacket pocket and use walls and railings. Whichever you choose, check your airline's rules and the TSA tripods page before you leave for the airport.
+**For most travelers, the SIRUI Traveler 5C is the tripod that fits in carry-on luggage with the least fuss; the Peak Design Travel Tripod (Carbon Fiber) is the one to pack for a full-frame body and a telephoto.** So for that repack on the hotel bed, we'd lay the 13 in 5C along the long side and stop worrying about the extra two inches. If your kit includes a 70-200mm f/2.8 or ND filters on windy coasts, we'd make room for the 15.4 in carbon pick and its 20 lb rating. And if the bag is a personal item, we'd slip the PIXI EVO into a jacket pocket and use walls and railings. Whichever you choose, check your airline's rules and the TSA tripods page before you leave for the airport.
