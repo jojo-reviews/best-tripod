@@ -70,7 +70,11 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "travel-tripods-too-heavy-for-hiking",
+      "travel-tripods-wobbly-for-long-exposure"
+    ]
   },
   {
     "status": "pending",
@@ -108,7 +112,11 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "monopods-cold-aluminum",
+      "travel-tripods-too-heavy-for-hiking"
+    ]
   },
   {
     "status": "published",
@@ -184,7 +192,10 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "travel-tripods-too-short-bend-over"
+    ]
   },
   {
     "status": "published",
@@ -515,7 +526,11 @@
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "camera-tripods-leg-joint-lock-failure",
+      "travel-tripods-leg-section-count"
+    ]
   },
   {
     "status": "published",
@@ -616,7 +631,14 @@
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "camera-tripods-center-column-vibration",
+      "camera-tripods-shutter-press-shake",
+      "camera-tripods-soft-ground-slipping",
+      "camera-tripods-weighing-down-for-stability",
+      "camera-tripods-wind-vibration"
+    ]
   },
   {
     "status": "pending",
@@ -647,7 +669,11 @@
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "camera-tripods-head-unbalanced-long-lens",
+      "camera-tripods-light-tripod-heavy-lens-shake"
+    ]
   },
   {
     "status": "pending",
@@ -684,7 +710,11 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "camera-tripods-head-unbalanced-long-lens",
+      "monopods-wobble-with-gimbal-weight"
+    ]
   },
   {
     "status": "published",
@@ -857,7 +887,11 @@
       },
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "camera-tripods-center-column-vibration",
+      "travel-tripods-center-column-tradeoff"
+    ]
   },
   {
     "status": "pending",
@@ -888,7 +922,11 @@
       "notInDatabase": true,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
-    }
+    },
+    "painPoints": [
+      "travel-tripods-center-column-tradeoff",
+      "travel-tripods-wobbly-for-long-exposure"
+    ]
   },
   {
     "status": "published",
@@ -970,7 +1008,12 @@
       "kd": 0
     },
     "slug": "what-is-a-monopod",
-    "productCount": 1
+    "productCount": 1,
+    "painPoints": [
+      "monopods-arm-fatigue-heavy-lens",
+      "monopods-height-rough-terrain",
+      "monopods-worth-it-vs-tripod"
+    ]
   },
   {
     "status": "merged",
@@ -1025,7 +1068,11 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "landscape-photography-tripod"
+    "slug": "landscape-photography-tripod",
+    "painPoints": [
+      "camera-tripods-soft-ground-slipping",
+      "camera-tripods-wind-vibration"
+    ]
   },
   {
     "status": "pending",
@@ -1055,7 +1102,11 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "best-hiking-tripod"
+    "slug": "best-hiking-tripod",
+    "painPoints": [
+      "travel-tripods-leg-section-count",
+      "travel-tripods-too-heavy-for-hiking"
+    ]
   },
   {
     "status": "pending",
@@ -1088,6 +1139,48 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "best-tripod-for-photography"
+    "slug": "best-tripod-for-photography",
+    "painPoints": [
+      "camera-tripods-center-column-vibration",
+      "camera-tripods-light-tripod-heavy-lens-shake"
+    ]
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:59:37.950Z",
+    "secondaryKeywords": [
+      "tripod for telephoto lens",
+      "tripod for 200-600mm lens",
+      "gimbal head for wildlife"
+    ],
+    "questions": [
+      "why does my tripod shake with a long lens",
+      "do I need a gimbal head for wildlife"
+    ],
+    "priority": 6,
+    "keyword": "tripod for wildlife photography",
+    "category": "camera-tripods",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Tripod for Wildlife Photography: What Holds a Long Lens Steady",
+    "cluster": "tripods for long lenses",
+    "source": "pain-point",
+    "painPoints": [
+      "camera-tripods-light-tripod-heavy-lens-shake",
+      "camera-tripods-head-unbalanced-long-lens",
+      "camera-tripods-wind-vibration"
+    ],
+    "rationale": "3 forum threads (photo.stackexchange, dpreview) report light tripods and ball heads shaking under 200-600mm lenses",
+    "ahrefs": {
+      "volume": 40,
+      "kd": 0,
+      "trafficPotential": 100,
+      "parentTopic": "tripod for wildlife photography",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-10-19"
+    },
+    "slug": "tripod-for-wildlife-photography"
   }
 ]
