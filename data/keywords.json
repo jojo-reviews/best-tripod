@@ -170,7 +170,8 @@
     "questions": [
       "can you bring a tripod in a carry on bag",
       "what is the shortest folding tripod",
-      "does tsa allow tripods in carry on"
+      "does tsa allow tripods in carry on",
+      "can I bring a tripod on a plane"
     ],
     "priority": 8,
     "keyword": "best tripod that fits in carry on luggage",
@@ -195,7 +196,11 @@
       "date": "2026-10-18"
     },
     "painPoints": [
-      "travel-tripods-too-short-bend-over"
+      "travel-tripods-too-short-bend-over",
+      "travel-tripods-center-column-tradeoff",
+      "travel-tripods-leg-section-count",
+      "travel-tripods-wobbly-for-long-exposure",
+      "travel-tripods-integrated-head-limits"
     ],
     "productCount": 3
   },

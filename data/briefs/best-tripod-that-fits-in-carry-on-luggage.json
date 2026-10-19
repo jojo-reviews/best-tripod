@@ -1,0 +1,467 @@
+{
+  "centralEntity": "tripod that fits in carry-on luggage",
+  "entityVariants": [
+    "best carry-on tripod",
+    "carry on size tripod",
+    "tripod for airline carry on",
+    "short folding travel tripod",
+    "compact travel tripod for flying",
+    "tripod that fits in a cabin bag"
+  ],
+  "entities": [
+    {
+      "name": "SIRUI Traveler 5C",
+      "type": "product",
+      "relation": "carbon fiber tripod, 13 in folded, 1.87 lb; best overall carry-on pick"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "type": "product",
+      "relation": "15.4 in folded, 2.8 lb, premium pick that fits a bag water-bottle pocket"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section",
+      "type": "product",
+      "relation": "8.1 in folded mini tripod for the lightest kits"
+    },
+    {
+      "name": "Vanguard VEO 3GO 235CB",
+      "type": "product",
+      "relation": "carbon travel tripod named by one top page, not featured"
+    },
+    {
+      "name": "Leofoto Ranger LS-225C",
+      "type": "product",
+      "relation": "compact carbon tripod named by two pages, not featured"
+    },
+    {
+      "name": "TSA",
+      "type": "organization",
+      "relation": "US screening agency whose tripod page says carry-on and checked bags are allowed and the officer decides"
+    },
+    {
+      "name": "airline carry-on size limit",
+      "type": "constraint",
+      "relation": "varies by airline and fare, so check your airline"
+    },
+    {
+      "name": "personal item",
+      "type": "constraint",
+      "relation": "smaller allowance whose size varies by airline"
+    },
+    {
+      "name": "roller bag",
+      "type": "product category",
+      "relation": "typical cabin bag a folded tripod must fit"
+    },
+    {
+      "name": "daypack",
+      "type": "product category",
+      "relation": "alternative way to carry a folded tripod"
+    },
+    {
+      "name": "folded length",
+      "type": "attribute",
+      "relation": "the number that decides carry-on fit"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raises height but costs stability"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "common compact head, sometimes removed to pack"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "quick-release plate standard"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "light, vibration-damping leg material"
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera type",
+      "relation": "kit these tripods are sized for"
+    }
+  ],
+  "attributes": [
+    "folded length",
+    "weight with head",
+    "max load capacity",
+    "max height with and without center column",
+    "minimum height",
+    "leg sections",
+    "leg lock type",
+    "head type",
+    "Arca-Swiss compatibility",
+    "material",
+    "carry bag included",
+    "ballast hook",
+    "detachable head for packing",
+    "airline carry-on size"
+  ],
+  "ngrams": [
+    "carry-on luggage",
+    "carry on tripod",
+    "travel tripod",
+    "folded length",
+    "carbon fiber",
+    "max height",
+    "center column",
+    "ball head",
+    "load capacity",
+    "tripod for travel",
+    "fits in carry-on",
+    "camera bag",
+    "overhead bin",
+    "personal item",
+    "leg sections"
+  ],
+  "skipgrams": [
+    "tripod…carry-on",
+    "folded…length",
+    "carry-on…bag",
+    "tripod…luggage",
+    "travel…tripod",
+    "center…column",
+    "carbon…fiber",
+    "ball…head",
+    "max…load",
+    "fits…backpack",
+    "tripod…airline",
+    "leg…sections",
+    "tripod…suitcase",
+    "compact…lightweight"
+  ],
+  "nlpTerms": [
+    "tripod",
+    "carry-on",
+    "luggage",
+    "folded length",
+    "airline",
+    "TSA",
+    "security screening",
+    "overhead bin",
+    "personal item",
+    "checked bag",
+    "carbon fiber",
+    "ball head",
+    "leg lock",
+    "twist lock",
+    "center column",
+    "load capacity",
+    "Arca-Swiss",
+    "mirrorless",
+    "compact",
+    "lightweight",
+    "daypack",
+    "roller bag",
+    "mini tripod",
+    "travel photography",
+    "stability",
+    "wind",
+    "max height"
+  ],
+  "questions": [
+    "Can I bring a tripod on a plane?",
+    "Does TSA allow tripods in carry-on?",
+    "Can you bring a tripod in a carry on bag?",
+    "What is the shortest folding full-height tripod?",
+    "How long can a tripod be to fit in carry-on luggage?",
+    "Will a tripod fit in a personal item or backpack?",
+    "Is a carry-on tripod stable enough for landscape or long exposure?",
+    "Should I take the head off to pack a tripod?",
+    "Is a mini tripod enough for travel?"
+  ],
+  "questionAnswerNotes": {
+    "canIBringATripodOnAPlane": "Do not give a rule. Answer only: check your airline's carry-on size and baggage rules and the TSA tripods page (https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods); the TSA page itself says the final decision rests with the officer at the checkpoint. Do not state what is or is not allowed beyond pointing to those pages."
+  },
+  "contentGaps": [
+    "Folded length with head against typical carry-on and daypack dimensions, with a caveat that airlines differ",
+    "Real working height with the center column down, since the shortest tripods leave you bending over",
+    "Honest stability limits of 13-15 in folding tripods, with ballast hook and low-angle tips",
+    "Leg-section count and lock type trade-offs for packed length",
+    "Integrated head limits (friction control, plate type) on compact travel tripods",
+    "Mini tripod versus full-height travel tripod for different trips",
+    "Top pages are mostly rule explainers (TSA, forums) or older lists; few give measured fit numbers and a clear 'check your airline' pointer"
+  ],
+  "painPoints": [
+    {
+      "id": "travel-tripods-wobbly-for-long-exposure",
+      "pain": "A small travel tripod is too wobbly for long exposures, ND filters, astro or a 100-400",
+      "details": "Photographers who already own a travel tripod outgrow it once they add ND filters, astrophotography or longer lenses.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
+        "https://www.dpreview.com/forums/threads/lightweight-video-travel-tripod.4786488/"
+      ],
+      "quotes": [
+        {
+          "text": "i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        },
+        {
+          "text": "The center column make the Travel Tripod less stable so you should not extend it.",
+          "url": "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-too-short-bend-over",
+      "pain": "Compact travel tripods are too short, forcing photographers to bend over",
+      "details": "Tall users find folded-small tripods stop well below eye level once the center column is left down.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/mirrorless-travel-tripod-flm-cp-26-sirui-025-24x-3-legged-things-or-other.4272174/"
+      ],
+      "quotes": [
+        {
+          "text": "a travel pod will be shorter requiring you to bend over to look through the VF",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        },
+        {
+          "text": "the CP30 S4 II is too short for general use",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-center-column-tradeoff",
+      "pain": "Reaching eye level on a travel tripod means using the center column and losing stability",
+      "details": "Hikers know the column hurts rigidity but need the height; they avoid it where possible or add a counterweight.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
+        "https://www.dpreview.com/forums/threads/lightweight-video-travel-tripod.4786488/"
+      ],
+      "quotes": [
+        {
+          "text": "You can try hanging a counter weight from the center column, ensuring not to exceed the weight limit.",
+          "url": "https://www.dpreview.com/forums/threads/lightweight-video-travel-tripod.4786488/"
+        },
+        {
+          "text": "I avoid using the center post when possible but in a travel pod thats even more important",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-leg-section-count",
+      "pain": "Too many leg sections and plastic locks make a travel tripod wobbly and fragile",
+      "details": "Experienced users say avoid five sections and more than three locks for long exposure, and prefer metal locks over plastic flip locks.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "For long time exposures and astro I would not buy a tripod with more than 3 leg locks",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        },
+        {
+          "text": "I would stay away from 5 section legs.",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-integrated-head-limits",
+      "pain": "Integrated ball heads on light travel tripods lack friction control or enough stiffness",
+      "details": "Buyers learn the head must be stiff enough for the legs; compact integrated heads are on-off lever only.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+      ],
+      "quotes": [
+        {
+          "text": "there is no friction control of the ball (it is pretty much on or off with a leaver)",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    }
+  ],
+  "internalLinks": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "anchor": "best travel tripod for mirrorless cameras",
+      "use": "link from the picks or buying guide for readers who want more models"
+    },
+    {
+      "slug": "best-hiking-tripod",
+      "anchor": "best hiking tripod",
+      "use": "link from the section on the travel-tripod weight trade-off and trail use"
+    }
+  ],
+  "outline": [
+    {
+      "h2": "Quick answer: the best tripods that fit in carry-on luggage",
+      "intent": "Fast answer and top three picks with folded length and weight",
+      "h3": []
+    },
+    {
+      "h2": "Comparison table: folded length, weight, max height and load",
+      "intent": "Scan the three picks side by side",
+      "h3": []
+    },
+    {
+      "h2": "Can I bring a tripod on a plane? Check your airline and TSA",
+      "intent": "Answer the top SERP intent without inventing rules: point to airline rules and the TSA tripods page, give packing tips",
+      "h3": [
+        "What to check with your airline",
+        "TSA's own tripods page",
+        "Packing tips: head off, legs in a padded sleeve"
+      ]
+    },
+    {
+      "h2": "How I picked these carry-on tripods",
+      "intent": "Research method from the top pages and maker specs; no testing claims",
+      "h3": []
+    },
+    {
+      "h2": "The 3 best tripods that fit in carry-on luggage",
+      "intent": "One section per product with specs and who it suits",
+      "h3": [
+        "SIRUI Traveler 5C: best overall for carry-on",
+        "Peak Design Travel Tripod: best premium",
+        "Manfrotto PIXI EVO 2: best ultralight mini"
+      ]
+    },
+    {
+      "h2": "Problems owners run into with carry-on tripods, and the fix",
+      "intent": "Answer the pain points with owner quotes: too short, center column, leg sections, wobble, head limits",
+      "h3": [
+        "Too short, so you bend over",
+        "Center column and stability",
+        "Five sections and plastic locks",
+        "Wobble in long exposure and wind",
+        "Basic integrated heads"
+      ]
+    },
+    {
+      "h2": "How to choose a tripod for carry-on luggage",
+      "intent": "Buying guide on folded length, weight, height, load, head and plate",
+      "h3": [
+        "Folded length against your bag",
+        "Working height without the center column",
+        "Mini tripod or full-height tripod",
+        "Carbon fiber or aluminum"
+      ]
+    },
+    {
+      "h2": "Need a different kind of travel tripod?",
+      "intent": "Internal links to related posts",
+      "h3": [
+        "More models: best travel tripod for mirrorless camera",
+        "Trail use: best hiking tripod"
+      ]
+    },
+    {
+      "h2": "Frequently asked questions",
+      "intent": "People Also Ask coverage",
+      "h3": []
+    },
+    {
+      "h2": "Final verdict",
+      "intent": "Which to buy by trip type",
+      "h3": []
+    }
+  ],
+  "targetWords": 1150,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/",
+      "https://www.transcontinenta.co.uk/en/blog/5-best-travel-tripod-holiday-plane.html",
+      "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
+      "https://momanx.com/blogs/moman-ideas/can-you-bring-a-tripod-on-a-plane",
+      "https://bcgforums.com/threads/travelling-with-tripod.32043/"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "Golden Lens opens with a comparison table of weight and folded length and then short blurbs, and Pack Hacker and Transcontinenta lead each pick with size and weight; carry-on buyers compare folded length and weight first. Digital Camera World could not be read and Reddit was blocked, so those are inferred from snippets. Many top results are how-to-fly pages (TSA, forum, maker blog) rather than rankings.",
+    "avgWords": 1500,
+    "avgProducts": 5,
+    "commonSections": [
+      "top picks summary",
+      "comparison table of weight and folded length",
+      "individual picks with specs",
+      "can I bring a tripod on a plane",
+      "buying guide",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1gzg07h/cando_you_bring_tripods_on_airplanes/",
+      "title": "Can/do you bring tripods on airplanes? : r/AskPhotography"
+    },
+    {
+      "position": 2,
+      "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "title": "The Best Travel Tripod for 2026 - Pack Hacker"
+    },
+    {
+      "position": 3,
+      "url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
+      "title": "Tripods | Transportation Security Administration - TSA"
+    },
+    {
+      "position": 4,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod",
+      "title": "Best travel tripod in 2026: lightweight, stable supports for taking on the road"
+    },
+    {
+      "position": 5,
+      "url": "https://www.transcontinenta.co.uk/en/blog/5-best-travel-tripod-holiday-plane.html",
+      "title": "The 5 best travel tripods to take with you on the plane"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/885845678796326/posts/1462656097781945/",
+      "title": "What compact tripods fit as carry-on for travel? - Facebook"
+    },
+    {
+      "position": 7,
+      "url": "https://bcgforums.com/threads/travelling-with-tripod.32043/",
+      "title": "Travelling with tripod | Backcountry Gallery Photography Forums"
+    },
+    {
+      "position": 8,
+      "url": "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/",
+      "title": "Best Travel Tripods That Fit in a Carry-On Bag"
+    },
+    {
+      "position": 9,
+      "url": "https://momanx.com/blogs/moman-ideas/can-you-bring-a-tripod-on-a-plane",
+      "title": "Can you bring a tripod on a plane? Travel rules and tips"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=OnxdBozdy0U",
+      "title": "The TRAVEL TRIPOD that Fits in Your CARRY-ON Luggage | Benro MiniBird"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "travel tripod",
+      "fits in a carry-on bag",
+      "on the plane",
+      "2026"
+    ],
+    "gap": "No title uses the exact phrase 'tripod that fits in carry on luggage'; an exact-keyword title with a number, year and folded-length benefit stands out. Suggested seoTitle: Best Tripod That Fits in Carry On Luggage (3 Picks, 2026)"
+  }
+}
