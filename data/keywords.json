@@ -1104,16 +1104,25 @@
     "attempts": 0,
     "addedAt": "2026-10-19T06:29:21.082Z",
     "secondaryKeywords": [
-      "best tripod for backpacking"
+      "best tripod for backpacking",
+      "lightweight tripod for hiking",
+      "backpacking tripod"
     ],
-    "questions": [],
+    "questions": [
+      "What is the best tripod for hiking?",
+      "How much should a hiking tripod weigh?",
+      "Is a carbon fiber tripod worth it for backpacking?",
+      "Can a mini tripod replace a full-size tripod on the trail?",
+      "How do I keep a lightweight tripod steady in wind?",
+      "Should I use the center column on a travel tripod?"
+    ],
     "priority": 6,
     "keyword": "best hiking tripod",
     "category": "travel-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
-    "workingTitle": "Best Hiking Tripods: Light Enough for the Trail",
+    "workingTitle": "Best Hiking Tripod 2026, 6 Picks From 0.6 lb",
     "cluster": "travel tripods",
     "source": "competitor-gap",
     "rationale": "mattpurciel.com (DR 1.8) ranks #1 with https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
