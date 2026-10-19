@@ -928,7 +928,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-18T13:34:45.954Z",
     "secondaryKeywords": [],
@@ -946,7 +946,9 @@
       "volume": 100,
       "kd": 0
     },
-    "slug": "best-monopod-for-sports-photography"
+    "slug": "best-monopod-for-sports-photography",
+    "mergedInto": "monopod-vs-tripod-for-sports-photography",
+    "lastError": "cannibalization: \"best monopod for sports photography\" overlaps \"monopod vs tripod for sports photography\" (100%)"
   },
   {
     "status": "pending",
@@ -967,10 +969,11 @@
       "volume": 300,
       "kd": 0
     },
-    "slug": "what-is-a-monopod"
+    "slug": "what-is-a-monopod",
+    "productCount": 1
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-18T13:44:47.103Z",
     "secondaryKeywords": [],
@@ -988,6 +991,8 @@
       "volume": 100,
       "kd": 0
     },
-    "slug": "best-tripod-head-for-real-estate-photography"
+    "slug": "best-tripod-head-for-real-estate-photography",
+    "mergedInto": "best-tripod-for-real-estate-photography",
+    "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)"
   }
 ]
