@@ -1,8 +1,8 @@
 ---
-title: Best Hiking Tripod (2026) – 6 Picks by Pack Weight, 0.6 to 3.4 lb
-seoTitle: Best Hiking Tripod (2026) – 6 Picks From 0.6 to 3.4 lb
+title: Best Hiking Tripod (2026) – 4 Picks by Pack Weight, 0.6 to 2.8 lb
+seoTitle: Best Hiking Tripod (2026) – 4 Picks From 0.6 to 2.8 lb
 description: >-
-  The best hiking tripod for your pack: 6 picks from a 0.6 lb mini to 3.4 lb
+  The best hiking tripod for your pack: 4 picks from a 0.6 lb mini to 2.8 lb
   carbon, compared on column-down height, load, fold, wind and leg locks.
 pubDate: '2026-10-19T18:39:00.000Z'
 category: travel-tripods
@@ -16,7 +16,6 @@ secondaryKeywords:
 entities:
   - hiking tripod
   - Peak Design Travel Tripod
-  - Manfrotto Befree GT Carbon
   - Gitzo Traveler GT1545T
   - JOBY GorillaPod 5K
   - Manfrotto PIXI EVO
@@ -35,18 +34,18 @@ tags:
 articleType: roundup
 funnel: bofu
 productStyle: pros-cons
-productCount: 6
+productCount: 4
 readingTime: 15
 tldr:
   - >-
     Best overall for most hikers: the Peak Design Travel Tripod (Carbon Fiber),
     2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down.
   - >-
-    Heavy lenses: the Manfrotto Befree GT Carbon, rated to 26.5 lb with 54.3 in
-    of column-down height and a head with pan and friction controls.
+    Lightest full-size legs: the Gitzo GT1545T at about 2.3 lb (add your own
+    head), rated to 22 lb with 51.2 in of column-down height.
   - >-
-    Gram-counters: the Gitzo GT1545T legs at about 2.3 lb (add your own head),
-    or the 0.57 lb Manfrotto PIXI EVO as a pocket backup.
+    Mini options: the 1.6 lb JOBY GorillaPod 5K for rocks and rails, or the
+    0.57 lb Manfrotto PIXI EVO as a pocket backup.
   - >-
     In wind, keep the center column down, spread the legs and hang your pack
     from the hook.
@@ -133,163 +132,6 @@ products:
       Peak Design Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and
       Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable
       Travel Tripod for Camera and Phone, 20 lb Capacity
-    asinVerified: true
-  - name: Peak Design Travel Tripod (Aluminum)
-    brand: Peak Design
-    query: Peak Design Travel Tripod Aluminum
-    matchName: Peak Design Travel Tripod Aluminum
-    badge: Best aluminum for hiking
-    summary: >-
-      The same frame, 5.5 to 60 in height range, 15.5 in fold and 20 lb rating
-      as the carbon model, in aluminum at 3.4 lb. It is the one recommended as a
-      versatile pick for hikes by a Patagonia landscape photographer and sits in
-      Best Buy's lightweight-tripod-for-hiking list.
-    renterNote: >-
-      Day hikers and camping photographers with mirrorless kit who accept 0.6 lb
-      more than the carbon version for a lower price; the caveat is a narrow
-      leg-angle choice that owners say lets the camera blow over in wind.
-    pros:
-      - >-
-        Same 15.5 in folded length and 60 in / 51.25 in height range as the
-        carbon model
-      - 20 lb (9.1 kg) rated load and a built-in ball head
-      - Aluminum tolerates knocks and costs less than carbon
-    cons:
-      - >-
-        3.4 lb is about 0.6 lb heavier than the carbon version, which adds up on
-        multi-day trips
-      - >-
-        Only two leg-angle positions: one narrow, one very wide that holds the
-        camera only about 8 in off the ground, so some owners report wind
-        trouble
-    specs:
-      Weight: 3.4 lb (1.5 kg) with head
-      Material: Aluminum
-      Max height (column raised): 60 in
-      Max height (column down): 51.25 in
-      Min height: 5.5 in
-      Folded length: 15.5 in
-      Load capacity: 20 lb (9.1 kg)
-      Leg sections: '5'
-      Leg lock: Flip (cam levers)
-      Head: Built-in ball head, single adjustment ring
-      Plate: Peak Design plate, Arca-type compatible
-    scores:
-      stability: 8
-      portability: 7
-      height: 9
-      build: 8
-      value: 7
-    scoreNote: >-
-      Identical geometry to the carbon model with the same 20 lb rating, but 3.4
-      lb and a leg-angle set that suits wind poorly; cheaper than carbon so
-      value edges up.
-    owners:
-      read: 7
-      praise:
-        - Light and compact enough to take on every hike and camping trip
-        - Sturdy with a heavy Canon 6D plus 70-200mm and with a spotting scope
-        - Quick release and ball head are easy to lock and unlock
-      complaints:
-        - >-
-          Not great in wind: two leg-angle notches only, the narrow one is too
-          narrow and the wide one leaves the camera about 8 in off the ground
-        - Spike feet stop the tripod fitting its case
-        - >-
-          Legs need tightening so they do not slip under heavy gear, which makes
-          them stiffer to open
-      sources:
-        - title: >-
-            Peak Design Travel Tripod product page (owner reviews on the maker
-            site)
-          url: https://www.peakdesign.com/products/travel-tripod
-          reviews: 1233
-        - title: B&H Peak Design Aluminum Travel Tripod owner reviews
-          url: >-
-            https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html/reviews
-          reviews: 1242
-    asin: B085BQS6K4
-    amazonTitle: >-
-      Peak Design Travel Tripod, Aluminum, Compact Design, Quick Setup and
-      Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable
-      Travel Tripod for Camera and Phone, 20 lb Capacity
-    asinVerified: true
-  - name: Manfrotto Befree GT Travel Carbon Fiber Tripod (MKBFRTC4GT-BH)
-    brand: Manfrotto
-    query: Manfrotto MKBFRTC4GT-BH Befree GT Carbon Fiber Tripod
-    matchName: Manfrotto MKBFRTC4GT-BH Befree
-    badge: Best for heavy lenses
-    summary: >-
-      A four-section twist-lock carbon tripod rated for 26.5 lb, the highest
-      load of the full-size picks, reaching 63.8 in with the column up and 54.3
-      in with it down. It weighs about 3.4 lb and folds to 16.9 in.
-    renterNote: >-
-      Hikers carrying a DSLR or mirrorless body with a 70-200mm f/2.8 who want a
-      taller, higher-rated tripod than the Peak Design and can take 16.9 in
-      folded and twist locks; the caveat is owner reports that over-extending a
-      leg can lose the internal shims.
-    pros:
-      - 26.5 lb (12 kg) rated load, the highest of the full-size picks
-      - 54.3 in with the column down, 63.8 in with it up
-      - >-
-        Three leg angles with a side selector, and the center column inverts for
-        low shots
-    cons:
-      - Folds to 16.9 in, longer than the Peak Design's 15.5 in
-      - >-
-        One owner reports leg shims going missing after over-pulling a leg, with
-        no replacement part sold for this model
-      - Some plastic in the center-column lock
-    specs:
-      Weight: 3.4 lb (1.5 kg) with head
-      Material: Carbon fiber
-      Max height (column raised): 63.8 in
-      Max height (column down): 54.3 in
-      Min height: Not published on the retailer page
-      Folded length: 16.9 in (43 cm)
-      Load capacity: 26.5 lb (12 kg)
-      Leg sections: '4'
-      Leg lock: Twist (M-Lock)
-      Head: 496 ball head, separate pan lock and friction knob
-      Plate: 200PL-PRO, RC2 and Arca-type compatible
-    scores:
-      stability: 9
-      portability: 7
-      height: 9
-      build: 7
-      value: 7
-    scoreNote: >-
-      26.5 lb rating and 54.3 in column-down height are the best of the
-      full-size picks; 16.9 in folded, 3.4 lb and a reported shim failure after
-      over-extending a leg keep portability and build at 7.
-    owners:
-      read: 8
-      praise:
-        - >-
-          Much lighter than the aluminum tripod it replaced, which made hiking
-          photo trips enjoyable again
-        - >-
-          Held a Nikon D850 with 24-70 and 70-200 f/2.8 and felt more stable
-          than expected in Utah canyons
-        - Sturdy in wind, and the inverting center post gets lower shots
-      complaints:
-        - Twist leg locks are slower than clamps for some owners
-        - >-
-          One owner lost the internal leg shims after over-extending a leg and
-          could not find a replacement for this model
-        - >-
-          Heavier than some travel tripods, and there is some plastic in the
-          center-column lock
-      sources:
-        - title: B&H Manfrotto Befree GT Travel Carbon Fiber Tripod owner reviews
-          url: >-
-            https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews
-          reviews: 39
-    asin: B07D7YWNDM
-    amazonTitle: >-
-      Manfrotto MKBFRTC4GT-BH Befree Advanced GT Camera Tripod Kit, Travel
-      Tripod with Ball Head, Portable & Compact, Professional Carbon Camera
-      Tripod for DSLR, Reflex, Mirrorless, Photography Accessories
     asinVerified: true
   - name: Gitzo Traveler Series 1 GT1545T
     brand: Gitzo
@@ -541,21 +383,21 @@ faqs:
     a: >-
       For most hikers it is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb
       with its ball head, 15.5 in folded, rated to 20 lb and 51.25 in tall with
-      the center column down. If you carry a 70-200mm f/2.8 or longer, the
-      Manfrotto Befree GT Carbon gives more load rating and a head with friction
-      control.
+      the center column down. If you want the lowest full-size weight and
+      already own a head, the Gitzo GT1545T legs are about 2.3 lb and rated to
+      22 lb.
   - q: How much should a hiking tripod weigh?
     a: >-
-      Full-size travel tripods for hiking run about 2.3 to 3.4 lb in our picks,
+      Full-size travel tripods for hiking run about 2.3 to 2.8 lb in our picks,
       and you should compare them with a head attached. The Gitzo GT1545T is
       about 2.3 lb for legs only, while the carbon Peak Design weighs 2.8 lb
       with its head built in.
   - q: Is a carbon fiber tripod worth it for backpacking?
     a: >-
       Usually, if you hike often. Carbon fiber is lighter for the same stiffness
-      and damps vibration faster; on the Peak Design Travel Tripod the carbon
-      version saves about 0.6 lb over aluminum with the same height, fold and 20
-      lb rating.
+      and damps vibration faster; both full-size picks here, the Peak Design
+      Travel Tripod (Carbon Fiber) and the Gitzo GT1545T, are carbon fiber and
+      weigh 2.8 lb with a head and 2.3 lb legs only.
   - q: Can a mini tripod replace a full-size tripod on the trail?
     a: >-
       Only if you shoot from rocks, rails and ledges. The Manfrotto PIXI EVO
@@ -569,8 +411,7 @@ faqs:
       hand adds no shake.
   - q: Is a 4-section or 5-section tripod better for hiking?
     a: >-
-      A 4-section tripod such as the Befree GT or Gitzo GT1545T has fewer
-      joints, so it is stiffer for long exposures. A 5-section design like the
+      A 4-section tripod such as the Gitzo GT1545T has fewer joints, so it is stiffer for long exposures. A 5-section design like the
       Peak Design folds shorter, to 15.5 in, which helps on a pack strap.
 ---
 
