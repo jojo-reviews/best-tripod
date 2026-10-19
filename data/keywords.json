@@ -1052,9 +1052,21 @@
     "attempts": 0,
     "addedAt": "2026-10-19T06:29:21.082Z",
     "secondaryKeywords": [
-      "best tripod for landscape photography"
+      "best tripod for landscape photography",
+      "tripod for landscape photography",
+      "best landscape photography tripod",
+      "best travel tripod for landscape photography",
+      "best lightweight tripod for landscape photography",
+      "best carbon fiber tripod for landscape photography"
     ],
-    "questions": [],
+    "questions": [
+      "What is the best tripod for landscape photography?",
+      "Do you need a tripod for landscape photography?",
+      "What height should a landscape tripod be?",
+      "Is carbon fiber worth it for a landscape tripod?",
+      "Should I use the center column for landscape photography?",
+      "How do I stop my tripod shaking in the wind?"
+    ],
     "priority": 6,
     "keyword": "landscape photography tripod",
     "category": "camera-tripods",
@@ -1079,8 +1091,11 @@
     },
     "slug": "landscape-photography-tripod",
     "painPoints": [
+      "camera-tripods-wind-vibration",
       "camera-tripods-soft-ground-slipping",
-      "camera-tripods-wind-vibration"
+      "camera-tripods-center-column-vibration",
+      "camera-tripods-weighing-down-for-stability",
+      "camera-tripods-shutter-press-shake"
     ],
     "productCount": 5
   },
@@ -1373,8 +1388,8 @@
     "slug": "best-tripod-for-backpacking"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.498Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1396,7 +1411,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "best-tripod-for-content-creators"
+    "slug": "best-tripod-for-content-creators",
+    "note": "2026-10-19: top 10 is social video, shop and maker pages; no product on 2+ editorial top-10 pages; heavy overlap with phone tripod posts."
   },
   {
     "status": "rejected",
