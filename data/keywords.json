@@ -1473,8 +1473,8 @@
     "note": "2026-10-19: off-niche (firearm shooting rest), not a camera support topic."
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1496,7 +1496,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "heavy-duty-tripod"
+    "slug": "heavy-duty-tripod",
+    "note": "2026-10-19: one editorial page in top 10 (SLR Lounge); only 2 products on 2+ editorial pages nearby."
   },
   {
     "status": "pending",
