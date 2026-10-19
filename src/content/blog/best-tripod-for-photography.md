@@ -74,8 +74,8 @@ products:
       - All five leg sections latch or release together with one hand
     cons:
       - >-
-        Built-in ball head and column lock are hard to tighten firmly, per a
-        PetaPixel owner
+        Built-in ball head and column lock were hard to tighten firmly, per a
+        PetaPixel reviewer
       - >-
         Premium-tier price, and a forum owner reported a leg coming off on the
         road
@@ -153,18 +153,18 @@ products:
         Amazon listing
     cons:
       - >-
-        TechGearLab found it not confidence-inspiring in wind with the column
-        fully raised
+        TechGearLab found the center column quite wobbly when fully extended,
+        and First Quadcopter lists it as shaky in windy conditions
       - 'The single-knob ball head is the weak point, per owners and reviewers'
       - >-
         One Fred Miranda owner returned it because the 4 kg rating felt too
         limiting when fully extended
     specs:
       Max height (center column up): 54.3 in (138 cm)
-      Max height (center column down): 'About 40 in (102.5 cm), per retailer listings'
+      Max height (center column down): 'Not published in the sources we checked'
       Min height: 6.3 in (16 cm)
       Folded length: 13 in (33 cm)
-      Weight: 0.85 kg (1.87 lb) per First Quadcopter; listings range 850 to 895 g
+      Weight: 0.85 kg (1.87 lb) per First Quadcopter and Life Pixel
       Max load: 8.8 lb (4 kg)
       Leg sections: '5'
       Leg lock: Twist locks
@@ -177,9 +177,9 @@ products:
       build: 7
       value: 9
     scoreNote: >-
-      Lightest and smallest of the three with a very low entry cost for carbon;
-      the 4 kg rating, wobbly raised column and basic head cap stability and
-      height.
+      Lightest and smallest of the three, and First Quadcopter calls it very
+      affordable; the 4 kg rating, wobbly raised column and basic head cap
+      stability and height.
     owners:
       read: 6
       praise:
@@ -222,7 +222,7 @@ products:
     renterNote: >-
       DSLR and mirrorless shooters with 70-200mm to 600mm lenses, or anyone who
       wants a rock-solid base at eye level. Key caveat: it folds to 24 in and the
-      maker lists 3.8 lb for the tripod, so it is not a carry-on tripod.
+      maker lists 3.8 lb for the kit, so it is not a carry-on tripod.
     pros:
       - '40 kg (88 lb) rated load at the 23 degree leg angle, with 25 kg at 55 degrees'
       - >-
@@ -244,8 +244,8 @@ products:
       Min height: 5.7 in (14.6 cm)
       Folded length: 24 in (61.2 cm)
       Weight: >-
-        3.8 lb (1.73 kg) for the tripod system, per 3 Legged Thing; some
-        reviews quote about 4.5 lb
+        3.8 lb (1.73 kg) kit weight, per 3 Legged Thing; Mike Stehlik lists
+        1.73 kg without the head
       Max load: 88 lb (40 kg) at 23 degrees; 55 lb at 55 degrees; 33 lb at 80 degrees
       Leg sections: '3 leg sections, 1 section column'
       Leg lock: Twist locks with knurled caps (Parallel Locking)
@@ -265,14 +265,14 @@ products:
       read: 3
       praise:
         - >-
-          Tough carbon legs that resist scratches on sharp rock, with twist locks
-          that are easy to grip in the cold
+          Built tough, and holding up amazingly well in harsh New Mexico country
+          per a DPReview owner
         - >-
           Holds a lot of weight steady; the monopod conversion and hook for
           ballast are handy
         - >-
-          Held up through months of snow, cold, saltwater and sand in a long-term
-          review
+          Held up through months of snow, freezing temperatures, saltwater and
+          fine sand in a long-term review
       complaints:
         - Heavy and large for travel; needs its carry case
         - Section couplings can fill with water when submerged
@@ -357,7 +357,7 @@ faqs:
       not add vibration.
 ---
 
-You set up for a long exposure at dusk, crank the center column up to reach eye level, press the shutter, and the frame comes back soft. The best tripod for photography would have prevented that, and it isn't the most expensive tripod. It's the one whose load rating and legs-only height match the camera and lens you carry, so you never need that column. We built this guide around kit and lens weight rather than travel or price, read the maker spec pages and owner reports for three tripods that the top-ranking guides recommend, and matched each to a kit size. We did not use these tripods ourselves; every figure below is a maker's claim, a retailer listing or a reviewer's number, and we say which.
+You set up for a long exposure at dusk, crank the center column up to reach eye level, press the shutter, and the frame comes back soft. The best tripod for photography would have prevented that, and it isn't the most expensive tripod. It's the one whose load rating and legs-only height match the camera and lens you carry, so you never need that column. We built this guide around kit and lens weight rather than travel or price, read the maker spec pages and owner reports for three tripods covered in tripod roundups, reviews and owner threads, and matched each to a kit size. We did not use these tripods ourselves; every figure below is a maker's claim, a retailer listing or a reviewer's number, and we say which.
 
 ## Best Tripod for Photography at a Glance
 
@@ -375,17 +375,17 @@ This table compares the three tripods on the numbers that decide stability, heig
 |---|---|---|---|
 | Kit it suits | Light mirrorless kit | Full-frame up to 70-200mm class | 70-200mm to 600mm lenses |
 | Max load | 8.8 lb (4 kg) | 20 lb (9.1 kg) | 88 lb (40 kg) at 23 degrees |
-| Height, column down | About 40 in (retailer listings) | 51.25 in | 55.5 in |
+| Height, column down | Not published in the sources we checked | 51.25 in | 55.5 in |
 | Height, column up | 54.3 in | 60 in | 72.8 in |
 | Min height | 6.3 in | About 5.5 in | 5.7 in |
 | Folded length | 13 in | 15.5 in | 24 in |
-| Weight | 0.85 to 0.895 kg by source | 2.81 lb (retailer listings) | 3.8 lb (maker); about 4.5 lb in some reviews |
+| Weight | 0.85 kg (1.87 lb) per First Quadcopter and Life Pixel | 2.81 lb (retailer listing of the maker spec); 3.432 lb per Pack Hacker | 3.8 lb kit weight (maker) |
 | Leg sections / lock | 5, twist | 5, cam locks released together | 3, twist |
 | Head and plate | Ball head, Arca-Swiss style plate | Built-in ball head, Peak Design plate | AirHed Pro ball head, Arca-Swiss compatible plate |
 
 ### How we picked each tripod for photographers
 
-**We kept only tripods that at least two of the top-ranking pages for this search recommend, then checked each against maker pages, retailer listings and owner reports.** We read Digital Camera World, TechGearLab, Matt Purciel, The School of Photography, Pack Hacker, Fstoppers and others. Several well-known names also show up on those pages, including the Gitzo Series 1 Traveler, the Really Right Stuff Ascend-14, the Benro Superslim, the Manfrotto 190, the Manfrotto BeFree, K&F Concept, Induro and Feisol. None of them cleared our bar of the same model on two pages plus one clear Amazon listing, so they are not reviewed here.
+**We built the shortlist around one pick per kit tier, then checked each against maker pages, retailer listings and owner reports.** We read Digital Camera World, TechGearLab, Matt Purciel, The School of Photography, Pack Hacker, Fstoppers and others for the field. Other well-known names show up across those pages, including the Gitzo Series 1 Traveler, the Really Right Stuff Ascend-14 and the Benro Superslim on Matt Purciel's list, the Manfrotto 190, Manfrotto BeFree and K&F Concept on The School of Photography's, and Induro and Feisol on Fstoppers'. We did not review them here because we kept the list to three picks that each map to a different kit weight, with a maker or retailer spec page and owner reports we could open.
 
 For each pick we then checked the points below:
 
@@ -395,7 +395,7 @@ For each pick we then checked the points below:
 4. Head type and whether the plate is Arca-Swiss compatible.
 5. What owners repeatedly praise and complain about on forums and in long-term reviews.
 
-> **From our notes:** When we lined up the spec sheets for these three tripods, the weight column was the messiest part. Pack Hacker lists 3.432 lb for the carbon Peak Design, which matches the aluminum version elsewhere, while retailer listings of the maker spec give 2.81 lb. The Winston 2.0 is 3.8 lb on the 3 Legged Thing page but about 4.5 lb in other write-ups, and the Sirui swings between 850 and 895 g by listing. The load ratings and column-down heights, by contrast, were consistent. That is why we sized these picks by load and legs-only height, and treat the gram figures as approximate.
+> **From our notes:** When we lined up the spec sheets for these three tripods, the weight column was the messiest part. Pack Hacker lists 3.432 lb for the carbon Peak Design, which is close to the aluminum version's 3.44 lb on the Glazer's listing, while that listing gives 2.81 lb for carbon. The Winston 2.0 is 3.8 lb as a kit on the 3 Legged Thing page, and the Sirui is 0.85 kg in the reviews we read but has no column-down height we could confirm. The load ratings and column-down heights, by contrast, were consistent. That is why we sized these picks by load and legs-only height, and treat the gram figures as approximate.
 
 ## Best Tripod for Photography Picks, Kit by Kit
 
@@ -405,17 +405,17 @@ For each pick we then checked the points below:
 
 For a full-frame or mirrorless body with lenses up to a 70-200mm class zoom, this carbon Peak Design is the best balance of load, height and packed size we found. [Peak Design's spec page](https://www.peakdesign.com/products/travel-tripod) gives 20 lb (9.1 kg) of rated load, 51.25 in with the column down and 60 in with it up, and a 15.5 in fold. Retailer listings of the maker spec put the carbon version at 2.81 lb. Five aluminum cam locks release together, which is the fastest leg setup of the three.
 
-That one-handed setup is what owners rave about. A PetaPixel owner wrote that the legs are "really, really, really, nice", and Pack Hacker's team reports using the carbon version several times a week for over four years, with only a small adjuster fragment breaking off.
+That one-handed setup is what owners rave about. A PetaPixel reviewer wrote that the legs are "really, really, really, nice", and Pack Hacker's team reports using the carbon version several times a week for over four years, with only a small adjuster fragment breaking off.
 
-The head is the catch. The same [PetaPixel owner](https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/) wrote: "But when I spun the knob to lock the column I never felt super confident that it would be tight enough." A Fred Miranda poster reported a leg coming off while traveling, and an r/peakdesign thread describes a broken angle lock (more on that below). The built-in ball head uses a Peak Design plate, and retailer listings say Arca-type plates also work, but check your L-bracket before you buy. For the head-to-head with Manfrotto, see our [Peak Design Travel Tripod vs Manfrotto BeFree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) comparison.
+The head is the catch. The same [PetaPixel reviewer](https://petapixel.com/2020/09/09/my-experience-with-the-peak-design-travel-tripod/) wrote: "But when I spun the knob to lock the column I never felt super confident that it would be tight enough." A Fred Miranda poster reported a leg coming off while traveling, and an r/peakdesign thread describes a broken angle lock (more on that below). The built-in ball head uses a Peak Design plate, and retailer listings say Arca-type plates also work, but check your L-bracket before you buy. For the head-to-head with Manfrotto, see our [Peak Design Travel Tripod vs Manfrotto BeFree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) comparison.
 
 ### Sirui Traveler 5C Carbon Fiber Tripod: best for a light mirrorless kit
 
-If your heaviest combination is a mirrorless or crop body with a standard zoom, the Traveler 5C carries it in the smallest package here. Sources put it at about 0.85 kg with a 13 in fold, five carbon sections and twist locks. It reaches 54.3 in with the column up and about 40 in with it down, a column-down figure we found only in retailer listings. The included ball head has a single knob for friction and lock, and the Amazon listing describes an Arca Swiss style quick-release plate.
+If your heaviest combination is a mirrorless or crop body with a standard zoom, the Traveler 5C carries it in the smallest package here. Sources put it at about 0.85 kg with a 13 in fold, five carbon sections and twist locks. It reaches 54.3 in with the column up; we could not find a column-down height from the maker or the reviews we read, so check that figure before you buy. The included ball head has a single knob for friction and lock, and the Amazon listing describes an Arca Swiss style quick-release plate.
 
-Owners love the size. A Fred Miranda poster called it "an amazingly small tripod that fits inside of my backpack" for a two-week trip to the UK and France, and a First Quadcopter commenter said they had owned it about a year and loved it, including in mud.
+Owners love the size. A Fred Miranda poster called it "an amazingly small tripod that fits inside of my backpack" for a two-week trip to the UK and France, and a First Quadcopter commenter said they had owned it about a year and loved it, and the reviewer's unit came through a muddy test day undamaged.
 
-The 4 kg (8.8 lb) rating is the limit owners keep running into. On the [Fred Miranda thread](https://www.fredmiranda.com/forum/next/1826923), one owner returned it with a full-frame body and a 24-70mm: "The weight capacity is 4kg which is a huge limitation when fully extended." TechGearLab found it not confidence-inspiring in wind with the column at its full 54.3 in, and owners call the ball head its most limiting part. Keep the column down and hang a bag from the hook. Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup covers more ultralight options.
+The 4 kg (8.8 lb) rating is the limit owners keep running into. On the [Fred Miranda thread](https://www.fredmiranda.com/forum/next/1826923), one owner returned it with a full-frame body and a 24-70mm: "The weight capacity is 4kg which is a huge limitation when fully extended." TechGearLab called the column quite wobbly when fully extended to its 54.3 in, First Quadcopter lists it as shaky in windy conditions, and owners call the ball head its most limiting part. Keep the column down and hang a bag from the hook. Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup covers more ultralight options.
 
 ### 3 Legged Thing Winston 2.0 Carbon Fibre Tripod Kit: best for heavy lenses
 
@@ -423,7 +423,7 @@ Built for long telephotos, landscapes and studio work, the Winston 2.0 is the st
 
 Owners describe it as tough. One DPReview poster said it has "seen some harsh country here in New Mexico and is holding up amazingly well", and the same thread notes it holds heavy gear steady but still needs ballast in wind. Mike Stehlik's long-term review reports no motion blur with the column extended to about 60-70%, after months of snow, saltwater and sand.
 
-Size is the trade-off. It folds to 24 in, the maker lists 3.8 lb for the tripod (some reviews quote about 4.5 lb), and The Phoblographer called it "A little larger than I'd prefer for a travel tripod". The same DPReview thread reports the section couplings can let water into the tubes when submerged, and one review had close calls with the ball head lock. Rinse it after salt water and check the clamp before trusting it with a 600mm lens. Tall shooters should also read our [tripods for photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) guide.
+Size is the trade-off. It folds to 24 in, the maker lists 3.8 lb for the kit, and The Phoblographer called it "A little larger than I'd prefer for a travel tripod". The same DPReview thread reports the section couplings can let water into the tubes when submerged, and one review had close calls with the ball head lock. Rinse it after salt water and check the clamp before trusting it with a 600mm lens. Tall shooters should also read our [tripods for photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) guide.
 
 ## How to Choose a Tripod for Photography by Lens Weight
 
@@ -435,7 +435,7 @@ A tripod's rated load is a ceiling, not a working target. Makers usually measure
 
 ### Working height, the center column and eye level
 
-A full-size tripod should put your viewfinder near eye level with the center column down. Column-down heights here run from about 40 in (Sirui, per retailer listings) to 51.25 in (Peak Design) and 55.5 in (Winston). A head and camera add a few inches on top, so for most adults all three still stop below eye level without the column. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) gives the simple math. If you shoot on a tilting rear screen, chin level is often fine.
+A full-size tripod should put your viewfinder near eye level with the center column down. Column-down heights run from 51.25 in (Peak Design) to 55.5 in (Winston); we could not confirm one for the Sirui, whose 54.3 in maximum includes the column. A head and camera add a few inches on top, so for most adults the Peak Design and Winston still stop around or below eye level without the column. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) gives the simple math. If you shoot on a tilting rear screen, chin level is often fine.
 
 ### Carbon fiber tripod vs aluminum
 
@@ -443,7 +443,7 @@ All three picks use carbon fiber legs, though the Peak Design locks are aluminum
 
 ### Twist lock vs flip lock and leg sections
 
-Fewer leg sections make a stiffer tripod; more sections pack shorter. The Winston's 3 sections are the stiffest layout here, while the 5-section Peak Design and Sirui fold to 15.5 in and 13 in. Twist locks, as on the Sirui and Winston, are slim and easy to grip in the cold, a point Winston owners praise, but they can pick up grit. Flip or cam locks show at a glance that they are closed. The Peak Design's cam locks open all five sections in one motion, which is the fastest setup of the three.
+Fewer leg sections make a stiffer tripod; more sections pack shorter. The Winston's 3 sections are the stiffest layout here, while the 5-section Peak Design and Sirui fold to 15.5 in and 13 in. Twist locks, as on the Sirui and Winston, are slim, and 3 Legged Thing says the knurled caps on the Winston give a grippier surface for leverage, but twist locks can pick up grit. Flip or cam locks show at a glance that they are closed. The Peak Design's cam locks open all five sections in one motion, which is the fastest setup of the three.
 
 ### Head type and the Arca-Swiss plate
 
@@ -451,7 +451,7 @@ A ball head locks the camera in any direction with one knob, so it's fast and co
 
 ## Tripod for Photography Problems Owners Report, and the Fix
 
-**Most blurry tripod shots come from six repeat problems, and most of them are fixed with technique before you spend money.** These come up again and again on Reddit and Photo Stack Exchange.
+**Most blurry tripod shots come from seven repeat problems, and most of them are fixed with technique before you spend money.** These come up again and again on Reddit and Photo Stack Exchange.
 
 ### Center column vibration
 
@@ -463,19 +463,23 @@ A tripod that feels steady with a kit zoom can shake with a 600mm lens, and the 
 
 ### Wind and long exposures
 
-Wind turns tripod legs into tuning forks. A Photo Stack Exchange answer on stabilizing a tripod notes that ["Wind will vibrate across the legs and transmit up to the camera."](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) We see stability in wind as a reason to stay low: collapse the thinnest leg sections first, spread the legs wide, hang a bag from the hook and stand upwind of the tripod. Even the stable Winston needed ballast in wind for one DPReview owner, and both TechGearLab and a PetaPixel owner flag wind as the limit for the two smaller picks.
+Wind turns tripod legs into tuning forks. A Photo Stack Exchange answer on stabilizing a tripod notes that ["Wind will vibrate across the legs and transmit up to the camera."](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) We see stability in wind as a reason to stay low: collapse the thinnest leg sections first, spread the legs wide, hang a bag from the hook and keep your body between the wind and the camera. Even the stable Winston needed ballast in wind for one DPReview owner, and First Quadcopter and a PetaPixel reviewer flag wind as the limit for the two smaller picks.
 
 ### Soft ground, sand and slipping feet
 
-A tripod is only as stable as what it stands on. On r/AskPhotography, a seascape shooter was told ["You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable."](https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/) A Unique Photo Q&A adds that ["Having cheap leg fasteners / too heavy a load … causing real slipping issues when used on hard surfaces."](https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots) Use spikes on sand, mud and grass, rubber feet on smooth rock and indoors, and push the feet in until they stop sinking.
+A tripod is only as stable as what it stands on. On r/AskPhotography, a seascape shooter was told ["You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable."](https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/) A Unique Photo Q&A adds that cheap feet are a cause, since ["really cheap feet may even expose a screw head or some metal - causing real slipping issues when used on hard surfaces."](https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots) Use spikes on sand, mud and grass, rubber feet on smooth rock and indoors, and push the feet in until they stop sinking.
 
 ### Stiff, floppy or broken leg locks
 
-Leg joints and locks wear out, and owners report it on budget and premium tripods alike. On r/RealEstatePhotography, a floppy Manfrotto leg came down to this: ["turns out the grease in the leg joint had hardened"](https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/). On r/peakdesign, one owner reported ["an angle leg lock broke in half, making it impossible to pull my tripod leg out"](https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/). Clean and re-grease joints once a year, rinse twist locks after sand or salt, and never force a frozen angle lock. On a trip, carry the hex key your tripod came with.
+Leg joints and locks wear out, and owners report it on budget and premium tripods alike. In an r/RealEstatePhotography thread about floppy Manfrotto legs, one reply said a Benro had the same fault and ["turns out the grease in the leg joint had hardened"](https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/). On r/peakdesign, one owner reported ["an angle leg lock broke in half, making it impossible to pull my tripod leg out"](https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/). Clean and re-grease joints once a year, rinse twist locks after sand or salt, and never force a frozen angle lock. On a trip, carry the hex key your tripod came with.
 
 ### Shutter-press shake
 
 Pressing the shutter on a long lens starts a small vibration that can blur the first seconds of an exposure. The same moon-shot thread on Photo Stack Exchange recommends a remote release cable, or the self-timer or exposure delay mode if you don't have one. A two-second timer is free and works on every camera, and electronic first-curtain shutter on mirrorless bodies helps too.
+
+### Buying a cheap tripod, then a better one
+
+Photographers who upgraded after a budget tripod keep giving the same advice. An r/photography reply to a question about an Amazon Basics tripod says ["buy once and keep forever, so make it a good one."](https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/) In a thread about a Peak Design look-alike, another r/photography user wrote that budget gear is ["great for that thing you need once for that one shot"](https://www.reddit.com/r/photography/comments/19dxk6p/it_looks_like_neewer_reverse_engineered_the_peak/) but prefers to pay once for the main tripod. The fix is to spend on the rated load and legs-only height first: pick the tier above that matches your heaviest lens, and keep a cheap tripod only as a backup. Among our three, the Sirui is the lowest-cost route to carbon fiber for a light kit, as First Quadcopter calls it very affordable, but its 4 kg rating is the limit if your kit grows.
 
 ## Which Tripod for Photography Fits Which Kind of Shooting
 
