@@ -1196,8 +1196,8 @@
     "slug": "tripod-for-wildlife-photography"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [
       "camera ball head",
@@ -1236,7 +1236,8 @@
       "tripod-heads-heavy-telephoto-droop",
       "tripod-heads-plate-loosens-or-twists"
     ],
-    "slug": "tripod-ball-head"
+    "slug": "tripod-ball-head",
+    "note": "2026-10-19: SERP is mostly maker/shop pages; only 1-2 heads on 2+ editorial top-10 pages. Products file kept for a retry."
   },
   {
     "status": "pending",
