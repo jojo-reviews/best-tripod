@@ -1103,7 +1103,9 @@
     "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-19T06:29:21.082Z",
-    "secondaryKeywords": [],
+    "secondaryKeywords": [
+      "best tripod for backpacking"
+    ],
     "questions": [],
     "priority": 6,
     "keyword": "best hiking tripod",
@@ -1131,7 +1133,8 @@
     "painPoints": [
       "travel-tripods-leg-section-count",
       "travel-tripods-too-heavy-for-hiking"
-    ]
+    ],
+    "productCount": 6
   },
   {
     "status": "pending",
@@ -1355,7 +1358,7 @@
     ]
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [],
@@ -1385,7 +1388,8 @@
     "painPoints": [
       "travel-tripods-too-heavy-for-hiking"
     ],
-    "slug": "best-tripod-for-backpacking"
+    "slug": "best-tripod-for-backpacking",
+    "mergedInto": "best-hiking-tripod"
   },
   {
     "status": "deferred",

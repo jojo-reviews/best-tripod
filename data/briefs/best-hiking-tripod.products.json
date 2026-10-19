@@ -1,0 +1,717 @@
+{
+ "_note": "SERP pages read via Firecrawl on 2026-10-19: Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier, Matt Purciel, Best Buy listing. NOT read: Digital Camera World (Firecrawl returns empty body), Reddit r/Nikon thread (Firecrawl blocks reddit; only search snippets seen, which name Sirui Traveler 7C and Peak Design), NYT Wirecutter (blocked), dancarrphotography.com (2017). Facebook and YouTube/Amazon results skipped per rule. Only 6 models are named by 2+ read pages, so productCount 16 cannot be met without adding unrecommended products; lower to 6. Dropped single-page models: Sirui Traveler 5C, Neewer LT32, K&F 64 in, Slik Sprint 150, Benro Superslim/GoPlus, 3 Legged Thing Leo 2.0, Heipi 3-in-1, RRS Ascend-14, Sirui T-005KX/T-024SK/T-025SK (different Sirui models on different pages), Leupold/MTN HNTR/Slik 6xx (hunting-optics tripods). Befree GT: maker page for the plain GT was not found (Manfrotto page found was the XPRO), so specs come from B&H (retailer) and We Seek Travel. Gitzo: the B&H page read was the 'Used' listing; Amazon listing B016NSFTIK is legs only. asinVerified true means the Amazon dp page title was opened on 2026-10-19 and matches the model and variant.",
+ "products": [
+  {
+   "name": "Peak Design Travel Tripod (Carbon Fiber)",
+   "brand": "Peak Design",
+   "query": "Peak Design Travel Tripod Carbon Fiber",
+   "matchName": "Peak Design Travel Tripod Carbon Fiber",
+   "badge": "Best overall for hiking",
+   "summary": "A 2.8 lb five-section tripod that folds to about 15.5 in, the diameter of a water bottle, and still reaches 51.25 in with the center column down. The integrated ball head and 20 lb rating handle a mirrorless body with a 70-200mm, and it is the model most often named in hiking and backpacking write-ups.",
+   "renterNote": "Landscape and travel shooters hiking with a mirrorless body and a 24-70mm or 70-200mm who want the smallest pack footprint; the caveats are the premium price, a ball head with no separate pan, and cast leg-lock cams that a few owners report snapping.",
+   "pros": [
+    "2.8 lb (1.3 kg) with the head built in, folded to 15.5 in",
+    "20 lb (9.1 kg) rated load and 51.25 in height with the center column down",
+    "Flip-lock legs set up fast and the mobile mount stores inside the column"
+   ],
+   "cons": [
+    "Ball head has one adjustment ring and no separate pan; owners add a pan clamp for panoramas",
+    "Some owners report a cast leg-lock latch snapping and a plastic piece breaking when swapping legs",
+    "Costs several times what budget carbon tripods do"
+   ],
+   "facts": [
+    "Weight 2.8 lb (1.3 kg) per B&H; Peak Design lists the carbon model at 2.81 lb",
+    "Max height 60 in with column raised; 51.25 in with column down",
+    "Min height 5.5 in",
+    "Folded length 15.5 in (B&H), packs to the diameter of a standard water bottle (maker)",
+    "Load capacity 20 lb (9.1 kg), optimized for full-frame DSLRs with telephoto lenses (maker)",
+    "5 leg sections, aluminum cam leg locks, Arca-type compatible plate, built-in ball head, lifetime guarantee"
+   ],
+   "specs": {
+    "Weight": "2.8 lb (1.3 kg) with head",
+    "Material": "Carbon fiber",
+    "Max height (column raised)": "60 in",
+    "Max height (column down)": "51.25 in",
+    "Min height": "5.5 in",
+    "Folded length": "15.5 in",
+    "Load capacity": "20 lb (9.1 kg)",
+    "Leg sections": "5",
+    "Leg lock": "Flip (cam levers)",
+    "Head": "Built-in ball head, single adjustment ring",
+    "Plate": "Peak Design plate, Arca-type compatible"
+   },
+   "sources": [
+    "https://www.peakdesign.com/products/travel-tripod",
+    "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
+    "https://www.findingtheuniverse.com/peak-design-travel-tripod-review/",
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"
+   ],
+   "scores": {
+    "stability": 8,
+    "portability": 9,
+    "height": 9,
+    "build": 8,
+    "value": 6
+   },
+   "scoreNote": "20 lb rating, 51-inch column-down height and a 15.5 in fold at 2.8 lb are class-leading; premium price, no independent pan and reports of snapped leg-lock latches hold build and value back.",
+   "asin": "B085BQTQMN",
+   "asinVerified": true,
+   "amazonTitle": "Peak Design Travel Tripod, Carbon Fiber, Compact Design, Quick Setup and Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable Travel Tripod for Camera and Phone, 20 lb Capacity",
+   "owners": {
+    "read": 7,
+    "praise": [
+     "So small and light that owners say they now bring a tripod on trips and hikes where they used to leave it at home",
+     "Fast to deploy; the locking ring on the plate and the ball head ring are called well thought out",
+     "Stable with a 200-600mm or 150-600mm telephoto on it"
+    ],
+    "complaints": [
+     "Ball head has no separate pan, and landscape orientation needs the column raised",
+     "A cast leg-lock latch snapped for at least one owner",
+     "The bag is tight and the hex tool is easy to lose"
+    ],
+    "sources": [
+     {
+      "title": "Peak Design Travel Tripod product page (owner reviews on the maker site)",
+      "url": "https://www.peakdesign.com/products/travel-tripod",
+      "reviews": 1233
+     },
+     {
+      "title": "B&H Peak Design Carbon Fiber Travel Tripod owner reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Peak Design Travel Tripod (Aluminum)",
+   "brand": "Peak Design",
+   "query": "Peak Design Travel Tripod Aluminum",
+   "matchName": "Peak Design Travel Tripod Aluminum",
+   "badge": "Best aluminum for hiking",
+   "summary": "The same frame, 5.5 to 60 in height range, 15.5 in fold and 20 lb rating as the carbon model, in aluminum at 3.4 lb. It is the one recommended as a versatile pick for hikes by a Patagonia landscape photographer and sits in Best Buy's lightweight-tripod-for-hiking list.",
+   "renterNote": "Day hikers and camping photographers with mirrorless kit who accept 0.6 lb more than the carbon version for a lower price; the caveat is a narrow leg-angle choice that owners say lets the camera blow over in wind.",
+   "pros": [
+    "Same 15.5 in folded length and 60 in / 51.25 in height range as the carbon model",
+    "20 lb (9.1 kg) rated load and a built-in ball head",
+    "Aluminum tolerates knocks and costs less than carbon"
+   ],
+   "cons": [
+    "3.4 lb is about 0.6 lb heavier than the carbon version, which adds up on multi-day trips",
+    "Only two leg-angle positions: one narrow, one very wide that holds the camera only about 8 in off the ground, so some owners report wind trouble"
+   ],
+   "facts": [
+    "Weight 3.4 lb (1.5 kg) per B&H",
+    "Max height 60 in; 51.25 in with column down (reviewers, same frame as carbon)",
+    "Min height 5.5 in",
+    "Folded length 15.5 in (39 cm)",
+    "Load capacity 20 lb (9.1 kg)",
+    "5 leg sections, aluminum cam leg locks, Arca-type compatible plate, built-in ball head"
+   ],
+   "specs": {
+    "Weight": "3.4 lb (1.5 kg) with head",
+    "Material": "Aluminum",
+    "Max height (column raised)": "60 in",
+    "Max height (column down)": "51.25 in",
+    "Min height": "5.5 in",
+    "Folded length": "15.5 in",
+    "Load capacity": "20 lb (9.1 kg)",
+    "Leg sections": "5",
+    "Leg lock": "Flip (cam levers)",
+    "Head": "Built-in ball head, single adjustment ring",
+    "Plate": "Peak Design plate, Arca-type compatible"
+   },
+   "sources": [
+    "https://www.peakdesign.com/products/travel-tripod",
+    "https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html",
+    "https://www.findingtheuniverse.com/peak-design-travel-tripod-review/",
+    "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+    "https://www.bestbuy.com/site/shop/lightweight-tripod-for-hiking"
+   ],
+   "scores": {
+    "stability": 8,
+    "portability": 7,
+    "height": 9,
+    "build": 8,
+    "value": 7
+   },
+   "scoreNote": "Identical geometry to the carbon model with the same 20 lb rating, but 3.4 lb and a leg-angle set that suits wind poorly; cheaper than carbon so value edges up.",
+   "asin": "B085BQS6K4",
+   "asinVerified": true,
+   "amazonTitle": "Peak Design Travel Tripod, Aluminum, Compact Design, Quick Setup and Takedown, Pro-Level Stability, Ergonomic Ball Head, Compact and Portable Travel Tripod for Camera and Phone, 20 lb Capacity",
+   "owners": {
+    "read": 7,
+    "praise": [
+     "Light and compact enough to take on every hike and camping trip",
+     "Sturdy with a heavy Canon 6D plus 70-200mm and with a spotting scope",
+     "Quick release and ball head are easy to lock and unlock"
+    ],
+    "complaints": [
+     "Not great in wind: two leg-angle notches only, the narrow one is too narrow and the wide one leaves the camera about 8 in off the ground",
+     "Spike feet stop the tripod fitting its case",
+     "Legs need tightening so they do not slip under heavy gear, which makes them stiffer to open"
+    ],
+    "sources": [
+     {
+      "title": "Peak Design Travel Tripod product page (owner reviews on the maker site)",
+      "url": "https://www.peakdesign.com/products/travel-tripod",
+      "reviews": 1233
+     },
+     {
+      "title": "B&H Peak Design Aluminum Travel Tripod owner reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html/reviews",
+      "reviews": 1242
+     }
+    ]
+   }
+  },
+  {
+   "name": "Manfrotto Befree GT Travel Carbon Fiber Tripod (MKBFRTC4GT-BH)",
+   "brand": "Manfrotto",
+   "query": "Manfrotto MKBFRTC4GT-BH Befree GT Carbon Fiber Tripod",
+   "matchName": "Manfrotto MKBFRTC4GT-BH Befree",
+   "badge": "Best for heavy lenses",
+   "summary": "A four-section twist-lock carbon tripod rated for 26.5 lb, the highest load of the full-size picks, reaching 63.8 in with the column up and 54.3 in with it down. It weighs about 3.4 lb and folds to 16.9 in.",
+   "renterNote": "Hikers carrying a DSLR or mirrorless body with a 70-200mm f/2.8 who want a taller, higher-rated tripod than the Peak Design and can take 16.9 in folded and twist locks; the caveat is owner reports that over-extending a leg can lose the internal shims.",
+   "pros": [
+    "26.5 lb (12 kg) rated load, the highest of the full-size picks",
+    "54.3 in with the column down, 63.8 in with it up",
+    "Three leg angles with a side selector, and the center column inverts for low shots"
+   ],
+   "cons": [
+    "Folds to 16.9 in, longer than the Peak Design's 15.5 in",
+    "One owner reports leg shims going missing after over-pulling a leg, with no replacement part sold for this model",
+    "Some plastic in the center-column lock"
+   ],
+   "facts": [
+    "Weight 3.4 lb in B&H feature list (3.5 lb / 1.6 kg in spec table)",
+    "Max height 63.8 in with column extended, 54.3 in with column retracted",
+    "Folded length 16.9 in (closed length 17 in / 43 cm)",
+    "Load capacity 26.5 lb (12 kg)",
+    "4 leg sections, M-Lock twist leg locks, three leg angles via side-pull selector",
+    "496 ball head with separate pan lock and friction control; plate compatible with RC2 and Arca-type systems"
+   ],
+   "specs": {
+    "Weight": "3.4 lb (1.5 kg) with head",
+    "Material": "Carbon fiber",
+    "Max height (column raised)": "63.8 in",
+    "Max height (column down)": "54.3 in",
+    "Min height": "Not published on the retailer page",
+    "Folded length": "16.9 in (43 cm)",
+    "Load capacity": "26.5 lb (12 kg)",
+    "Leg sections": "4",
+    "Leg lock": "Twist (M-Lock)",
+    "Head": "496 ball head, separate pan lock and friction knob",
+    "Plate": "200PL-PRO, RC2 and Arca-type compatible"
+   },
+   "sources": [
+    "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.bestbuy.com/site/shop/lightweight-tripod-for-hiking",
+    "https://www.manfrotto.com/global-en/befree-gt-xpro-carbon-tripod-mkbfrc4gtxp-bus/"
+   ],
+   "scores": {
+    "stability": 9,
+    "portability": 7,
+    "height": 9,
+    "build": 7,
+    "value": 7
+   },
+   "scoreNote": "26.5 lb rating and 54.3 in column-down height are the best of the full-size picks; 16.9 in folded, 3.4 lb and a reported shim failure after over-extending a leg keep portability and build at 7.",
+   "asin": "B07D7YWNDM",
+   "asinVerified": true,
+   "amazonTitle": "Manfrotto MKBFRTC4GT-BH Befree Advanced GT Camera Tripod Kit, Travel Tripod with Ball Head, Portable & Compact, Professional Carbon Camera Tripod for DSLR, Reflex, Mirrorless, Photography Accessories",
+   "owners": {
+    "read": 8,
+    "praise": [
+     "Much lighter than the aluminum tripod it replaced, which made hiking photo trips enjoyable again",
+     "Held a Nikon D850 with 24-70 and 70-200 f/2.8 and felt more stable than expected in Utah canyons",
+     "Sturdy in wind, and the inverting center post gets lower shots"
+    ],
+    "complaints": [
+     "Twist leg locks are slower than clamps for some owners",
+     "One owner lost the internal leg shims after over-extending a leg and could not find a replacement for this model",
+     "Heavier than some travel tripods, and there is some plastic in the center-column lock"
+    ],
+    "sources": [
+     {
+      "title": "B&H Manfrotto Befree GT Travel Carbon Fiber Tripod owner reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews",
+      "reviews": 39
+     }
+    ]
+   }
+  },
+  {
+   "name": "Gitzo Traveler Series 1 GT1545T",
+   "brand": "Gitzo",
+   "query": "Gitzo GT1545T Series 1 Carbon 4 Sections Traveler Tripod",
+   "matchName": "Gitzo GT1545T Series 1 Traveler",
+   "badge": "Lightest for multi-day hikes",
+   "summary": "A 4-section carbon-fiber Traveler that weighs about 2.3 lb (1.06 kg) and folds to 16.7 in, rated at 22 lb. It is legs only, so you add your own head, which backpackers do to keep the full kit near 1.1 kg.",
+   "renterNote": "Multi-day backpackers and birders with a mirrorless body and up to a 100-500mm who already own a light ball head and want the lowest tripod weight with premium build; the caveat is two leg-angle positions only, a plastic column key that can fall out, and no head included.",
+   "pros": [
+    "About 2.3 lb (1.06 kg) for legs and short column, 22 lb (10 kg) rated",
+    "Carries a Canon R5 with a 100-500mm for owners, with 5 or more years of use reported",
+    "Spare parts shared with Gitzo Mountaineer; threaded feet accept spikes"
+   ],
+   "cons": [
+    "Legs only on this listing, so you buy a head separately",
+    "Only two leg-angle positions (25 and 70 degrees), which limits very low shooting",
+    "Small plastic key that stops the center column rotating can fall out; Gitzo sells replacements"
+   ],
+   "facts": [
+    "Weight 2.3 lb (1.06 kg); Gitzo lists 1.055 kg",
+    "Max height 60.2 in (153 cm) with column; 51.2 in (130 cm) without column extended",
+    "Min height 8.6 in (22 cm) with the short column",
+    "Folded length 16.7 in (42.5 cm)",
+    "Load capacity 22 lb (10 kg); Gitzo recommends it for lenses up to 135-200mm",
+    "4 leg sections, Traveler G-Lock twist locks, reverse-folding legs, short column included"
+   ],
+   "specs": {
+    "Weight": "2.3 lb (1.06 kg) legs only",
+    "Material": "Carbon fiber",
+    "Max height (column raised)": "60.2 in (153 cm)",
+    "Max height (column down)": "51.2 in (130 cm)",
+    "Min height": "8.6 in (22 cm) with short column",
+    "Folded length": "16.7 in (42.5 cm)",
+    "Load capacity": "22 lb (10 kg)",
+    "Leg sections": "4",
+    "Leg lock": "Twist (G-Lock)",
+    "Head": "None on this listing (legs only)",
+    "Plate": "Depends on the head you add (1/4-20 and 3/8-16 reversible stud)"
+   },
+   "sources": [
+    "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
+    "https://www.bhphotovideo.com/c/product/802321600-USE/gitzo_gt1545t_series_1_traveler.html",
+    "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html"
+   ],
+   "scores": {
+    "stability": 7,
+    "portability": 9,
+    "height": 7,
+    "build": 8,
+    "value": 5
+   },
+   "scoreNote": "Premium carbon build at 2.3 lb with 51.2 in column-down height; two leg angles and no head, plus a premium price for legs alone, keep height at 7 and value at 5.",
+   "asin": "B016NSFTIK",
+   "asinVerified": true,
+   "amazonTitle": "Gitzo GT1545T Series 1 Carbon 4 Sections Traveler Tripod (Black)",
+   "owners": {
+    "read": 6,
+    "praise": [
+     "Great little tripod after 5+ years, two Japan birding trips and many U.S. trips, working with an EOS R5 and 100-500mm",
+     "A 250 g saving over the Mountaineer matters on 12-day backpacking trips",
+     "Easy to strip down to under 1 kg with the center column removed and a small head"
+    ],
+    "complaints": [
+     "Only two leg angles, so it cannot get as low as a 90-degree design",
+     "The plastic key that stops the center column rotating falls out easily",
+     "At full height it is only adequate in calm conditions or with smaller lenses"
+    ],
+    "sources": [
+     {
+      "title": "DPReview forum: Gitzo traveler GT1545T thoughts",
+      "url": "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/"
+     },
+     {
+      "title": "B&H Gitzo GT1545T Series 1 Traveler (specs)",
+      "url": "https://www.bhphotovideo.com/c/product/802321600-USE/gitzo_gt1545t_series_1_traveler.html",
+      "reviews": 89
+     }
+    ]
+   }
+  },
+  {
+   "name": "JOBY GorillaPod 5K Kit",
+   "brand": "JOBY",
+   "query": "Joby GorillaPod 5K Kit",
+   "matchName": "Joby GorillaPod 5K Kit",
+   "badge": "Best flexible mini",
+   "summary": "An 11 lb (5 kg) rated flexible-leg tripod with an Arca-type ball head that folds to 15 in and wraps around branches, rails and rocks. It is a support for a trail rest stop, not a standing-height tripod.",
+   "renterNote": "Hikers with a mirrorless body and a mid-size zoom who want a few ounces of support for self-timers and low shots and can live without standing height; the caveat is that B&H owners report legs popping off at the socket.",
+   "pros": [
+    "11 lb (5 kg) rated load with an Arca-type compatible ball head",
+    "Folds to about 15 in (38.5 cm) and 1.6 lb (739 g) as a kit",
+    "Legs wrap around poles, branches and rails for uneven ground"
+   ],
+   "cons": [
+    "Three of seven B&H reviewers report a leg popping off the socket in the first few uses",
+    "One owner reports the rubber rings on the leg spheres disintegrating after 7 years and no spare parts",
+    "No standing working height, so it does not replace a tripod for eye-level work"
+   ],
+   "facts": [
+    "Load capacity 11 lb (5 kg)",
+    "Closed length 15 in (38.5 cm)",
+    "Weight 1.6 lb (739 g) per B&H (kit)",
+    "Working height not specified by the manufacturer per B&H",
+    "Aluminum legs, Arca-type compatible ball head, made in Italy"
+   ],
+   "specs": {
+    "Weight": "1.6 lb (739 g) kit",
+    "Material": "Aluminum legs",
+    "Max height": "Not published by the manufacturer (flexible legs)",
+    "Folded length": "15 in (38.5 cm)",
+    "Load capacity": "11 lb (5 kg)",
+    "Leg sections": "Flexible ball-and-socket legs",
+    "Leg lock": "None (grippy, wrap-around legs)",
+    "Head": "Ball head with Arca-type compatible quick-release",
+    "Plate": "Arca-type compatible"
+   },
+   "sources": [
+    "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html",
+    "https://www.bhphotovideo.com/lit_files/396654.pdf",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.jmpeltier.com/best-backpacking-travel-tripods/"
+   ],
+   "scores": {
+    "stability": 5,
+    "portability": 8,
+    "build": 5,
+    "value": 5
+   },
+   "scoreNote": "11 lb rating and light weight suit a trail-side rest, but no standing height and three B&H reports of legs popping off at the socket cap build at 5.",
+   "asin": "B0BQN5NWG4",
+   "asinVerified": true,
+   "amazonTitle": "Joby GorillaPod 5K Kit, Flexible Professional Tripod with BallHead, for DSLR Camera and CSC/Mirrorless with Lens, Up to 5 kg Payload (11lbs), Black",
+   "owners": {
+    "read": 7,
+    "praise": [
+     "Well built aluminum version that holds a Canon R5 with battery grip",
+     "A hiker bought one as a replacement for a Joby lost on the trail",
+     "Works well apart from the leg issue"
+    ],
+    "complaints": [
+     "Legs popped off at the socket and could not be reattached for three reviewers, within three to four uses",
+     "Rubber rings on the leg spheres disintegrate and go sticky after about 7 years",
+     "Owner was told no spare parts exist because the product changed hands"
+    ],
+    "sources": [
+     {
+      "title": "B&H JOBY GorillaPod 5K Kit owner reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html/reviews",
+      "reviews": 7
+     }
+    ]
+   }
+  },
+  {
+   "name": "Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)",
+   "brand": "Manfrotto",
+   "query": "Manfrotto MTPIXIEVO-BK PIXI EVO 2-Section Mini Tripod",
+   "matchName": "Manfrotto MTPIXIEVO-BK PIXI EVO",
+   "badge": "Best pocket tripod",
+   "summary": "A 9.4 oz aluminum mini tripod that folds to 8.1 in and extends to 7.7 in, with an integrated ball head and 5.5 lb rated load. It is a rest-stop add-on to a trekking pole or a rock, not a primary hiking tripod.",
+   "renterNote": "Ultralight hikers with a compact or small mirrorless camera who want a 9 oz backup for low angles and self-timer shots; the caveat is a 7.7 in maximum height and owners who find it flexes under heavier mirrorless kit.",
+   "pros": [
+    "9.4 oz (0.26 kg) and 8.1 in folded, small enough for a coat pocket",
+    "5.5 lb (2.5 kg) rated load on an integrated ball head",
+    "Two leg angles plus a 90-degree notch for table edges"
+   ],
+   "cons": [
+    "7.7 in maximum height; you need a rock, bench or railing for height",
+    "Owners report flex and shake with a heavier camera, ring light or macro lens"
+   ],
+   "facts": [
+    "Weight 0.26 kg (0.57 lb) per Manfrotto",
+    "Max height 20 cm (7.87 in); B&H lists 7.7 in max, 2.4 in min",
+    "Closed length 20.5 cm (8.07 in)",
+    "Safety payload 2.5 kg (5.5 lb)",
+    "2 leg sections, aluminum, integrated ball head"
+   ],
+   "specs": {
+    "Weight": "0.26 kg (0.57 lb)",
+    "Material": "Aluminum",
+    "Max height": "7.7 in (B&H) / 7.87 in (Manfrotto)",
+    "Min height": "2.4 in",
+    "Folded length": "8.07 in (20.5 cm)",
+    "Load capacity": "5.5 lb (2.5 kg)",
+    "Leg sections": "2",
+    "Head": "Integrated ball head",
+    "Plate": "None listed"
+   },
+   "sources": [
+    "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+    "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"
+   ],
+   "scores": {
+    "stability": 5,
+    "portability": 10,
+    "height": 3,
+    "build": 7,
+    "value": 7
+   },
+   "scoreNote": "9 oz and 8 in folded make it nearly free to carry, but a 7.7 in maximum height and flex under heavier mirrorless gear limit it to a pocket add-on, so scores are judged as a mini tripod.",
+   "asin": "B0149KBPB4",
+   "asinVerified": true,
+   "amazonTitle": "Manfrotto MTPIXIEVO-BK, PIXI EVO 2-Section Mini Tripod for Mirrorless Cameras, Compact System Cameras, DSLR, Video, Compact Size, Aluminum, Black",
+   "owners": {
+    "read": 8,
+    "praise": [
+     "Light and easy to pack on an Arizona hiking trip; one owner did not notice it until needed",
+     "Solid build and a useful ball-head connection",
+     "Handled a Fuji X-T3 with a 55-200 lens for Pack Hacker, with the caveat that results vary with kit"
+    ],
+    "complaints": [
+     "Too wobbly for a Nikon Z6II with a battery grip, 105mm macro and ring light; the ball head post flexes",
+     "One owner could not use it with a 290 g Sony ZV-E10 for vertical video",
+     "Images shake if the camera is touched, so a wireless release is needed"
+    ],
+    "sources": [
+     {
+      "title": "B&H Manfrotto PIXI EVO owner reviews",
+      "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+      "reviews": 107
+     },
+     {
+      "title": "Pack Hacker Manfrotto PIXI EVO review",
+      "url": "https://www.packhacker.com/travel-gear/manfrotto/pixi-evo-2-section-mini-tripod/"
+     }
+    ]
+   }
+  }
+ ],
+ "ownerQuotes": {
+  "Peak Design Travel Tripod (Carbon Fiber)": [
+   {
+    "who": "Alaska Nick, Peak Design site",
+    "date": "a year ago (as of Oct 2026 scrape)",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "We photograph the Northern Lights in Fairbanks, Alaska — often in -40° to -50°F temperatures, for hours at a time, and completely in the dark."
+   },
+   {
+    "who": "JLJ0078, Peak Design site",
+    "date": "4 years ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "The small form factor and light weight design make it almost unnoticeable while I'm carrying it in my backpack."
+   },
+   {
+    "who": "JLJ0078, Peak Design site",
+    "date": "4 years ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "The only real downside that I have experienced with the PD head is that its not great for panning."
+   },
+   {
+    "who": "markd, Peak Design site",
+    "date": "a year ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "Suggestions for improvement: the soft case is a bit tight at the top and hard to close."
+   },
+   {
+    "who": "Pixster, B&H",
+    "date": "9/12/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "I sadly endured the issue that others have, and that's with the latch/leg lock. It snapped. It's cheap casted metal."
+   },
+   {
+    "who": "Michael, B&H (promotion-collected, not counted in owners.read)",
+    "date": "9/28/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "My only minor complaint is the lack of a built-in panning function for the ball head."
+   },
+   {
+    "who": "Randolph, B&H",
+    "date": "9/1/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "Great device. well engineered. Thoughtful design. Expensive but. worth it. Light. Better for the human back"
+   },
+   {
+    "who": "TikiBrian, B&H",
+    "date": "8/1/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html/reviews",
+    "text": "It's small and something I don't have to ask myself if I should bring it or not because of it's size and weight!"
+   }
+  ],
+  "Peak Design Travel Tripod (Aluminum)": [
+   {
+    "who": "Portability, B&H",
+    "date": "7/20/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html/reviews",
+    "text": "I absolutely love the portability as I take it with me on all my hikes and camping trips."
+   },
+   {
+    "who": "Portability, B&H",
+    "date": "7/20/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html/reviews",
+    "text": "this tripod is not great in the wind. There are only two notches for different leg widths and the first is very narrow, while the second is super wide and will only get the camera about 8\" off the ground. I have had my camera blow over in the wind."
+   },
+   {
+    "who": "Ajchavez81, B&H",
+    "date": "7/28/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1495135-REG/peak_design_tt_cb_5_150_al_1_aluminum_travel_tripod.html/reviews",
+    "text": "I have this stowed in its bag attached to my pack with carabiners and I couldn't be happier."
+   },
+   {
+    "who": "danny_thom, Peak Design site",
+    "date": "4 years ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "It is most often paired with a heavy and bulky Canon 6D SLR + 70-200mm and is rock-solid."
+   },
+   {
+    "who": "Max's View, Peak Design site",
+    "date": "5 years ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "The tripod legs would need to be tightened to not slip under the weight of the camera and/or if I put my camera bag on the hook."
+   },
+   {
+    "who": "Breth, Peak Design site",
+    "date": "5 years ago",
+    "url": "https://www.peakdesign.com/products/travel-tripod",
+    "text": "The bag is snug enough even without adding the spike feed, but after mounting them, it just doesn't fit anymore."
+   }
+  ],
+  "Manfrotto Befree GT Travel Carbon Fiber Tripod (MKBFRTC4GT-BH)": [
+   {
+    "who": "Dave, B&H verified buyer",
+    "date": "2/8/2024",
+    "url": "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews",
+    "text": "It was getting to be not enjoyable hiking with a heavy aluminum tripod. This one is much lighter and hiking photo adventures are now a pleasure again."
+   },
+   {
+    "who": "Robert, B&H verified buyer",
+    "date": "8/7/2022",
+    "url": "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews",
+    "text": "Reasonably light for the cost and easily holds my gear (Nikon D850 with 24-70 and 70-200 f2.8). ... Used it in the canyons in Utah. The tripod is more stable than I expected and though there is some plastic (the center column lock) the tripod feels robust."
+   },
+   {
+    "who": "Sheen, B&H",
+    "date": "9/28/2023",
+    "url": "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews",
+    "text": "if you over pullout the leg by accident, the shims inside of the tubes which are used to lock the legs could be missing, B & H does't provide this part replacement particularly for this model"
+   },
+   {
+    "who": "Andrew, B&H verified buyer",
+    "date": "4/24/2022",
+    "url": "https://www.bhphotovideo.com/c/product/1408033-REG/manfrotto_mkbfrtc4gt_bhus_befree_gt_travel_carbon.html/reviews",
+    "text": "Very sturdy and stable even in windy conditions. I like how you can invert the center post to get lower shots. It is a bit heavy though so keep that in mind."
+   }
+  ],
+  "Gitzo Traveler Series 1 GT1545T": [
+   {
+    "who": "DPReview forum owner",
+    "date": "Nov 11, 2024",
+    "url": "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/",
+    "text": "I've had my 1545T (actually, the 100 year Anniversary Edition version) for 5+ years. It's been on 2 Japan birding trips and numerous U.S. trips. Great little tripod. Works well with EOS R5 and 100-500L lens"
+   },
+   {
+    "who": "MVDH, DPReview forum",
+    "date": "Nov 12, 2024",
+    "url": "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/",
+    "text": "I will use the GT1545T for travel and multi day hiking when I want to travel light but don't want to compromise on height/stability"
+   },
+   {
+    "who": "john isaacs, DPReview forum",
+    "date": "Nov 12, 2024",
+    "url": "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/",
+    "text": "the 1545T has a small plastic key that prevents the column from rotating. The key can fall out too easily and can take a while to replace."
+   },
+   {
+    "who": "rsn, DPReview forum",
+    "date": "Nov 11, 2025",
+    "url": "https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/",
+    "text": "At full height its adequale in calm conditions or with smaller lenses."
+   }
+  ],
+  "JOBY GorillaPod 5K Kit": [
+   {
+    "who": "Andrew, B&H verified buyer",
+    "date": "1/6/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html/reviews",
+    "text": "On assignment in remote Kenya, a leg popped off this brand new product and couldn't be put back on. This was only the third use."
+   },
+   {
+    "who": "Brad, B&H",
+    "date": "2/6/2026",
+    "url": "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html/reviews",
+    "text": "Used lightly for 7 years but the rubber rings on the leg spheres are disintegrating and getting sticky"
+   },
+   {
+    "who": "Thomas, B&H verified buyer",
+    "date": "1/13/2024",
+    "url": "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html/reviews",
+    "text": "Purchased this as a replacement for a Joby I lost while hiking. Tripod is well made and holds my DSLR great."
+   },
+   {
+    "who": "Andy, B&H",
+    "date": "6/29/2023",
+    "url": "https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html/reviews",
+    "text": "Holds my Cannon R5 with the battery grip without issue"
+   }
+  ],
+  "Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)": [
+   {
+    "who": "Aaron, B&H",
+    "date": "4/21/2023",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "I got this mini tripod for a hiking trip in Arizona. It worked like a charm. Light and easy to pack, didn't even notice I had it until I needed it."
+   },
+   {
+    "who": "Bob, B&H verified buyer",
+    "date": "12/26/2022",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "it's not quite stable enough with my Nikon Z6ii, battery grip, 105mm macro lens, and ring light attached to it. ... The legs seem to be fine but the ball head connection post seems to be what is flexing under the weight of my setup."
+   },
+   {
+    "who": "Paul, B&H",
+    "date": "12/29/2024",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "this tripod can't handle a tiny sony Zev 10 wich is 290 grams."
+   },
+   {
+    "who": "Matthew, B&H",
+    "date": "4/28/2023",
+    "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews",
+    "text": "A wireless shutter controller is absolutely necessary to avoid tripod movement. If the camera is touched, the images shakes."
+   }
+  ]
+ },
+ "serpProducts": [
+  {
+   "name": "Peak Design Travel Tripod (Carbon Fiber)",
+   "pages": [
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.reddit.com/r/Nikon/comments/1fiji9w/favorite_tripods_for_backpacking_hiking/"
+   ]
+  },
+  {
+   "name": "Peak Design Travel Tripod (Aluminum)",
+   "pages": [
+    "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+    "https://www.bestbuy.com/site/shop/lightweight-tripod-for-hiking"
+   ]
+  },
+  {
+   "name": "Manfrotto Befree GT Travel Carbon Fiber Tripod (MKBFRTC4GT-BH)",
+   "pages": [
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.bestbuy.com/site/shop/lightweight-tripod-for-hiking"
+   ]
+  },
+  {
+   "name": "Gitzo Traveler Series 1 GT1545T",
+   "pages": [
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html"
+   ]
+  },
+  {
+   "name": "JOBY GorillaPod 5K Kit",
+   "pages": [
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+    "https://www.jmpeltier.com/best-backpacking-travel-tripods/"
+   ]
+  },
+  {
+   "name": "Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)",
+   "pages": [
+    "https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"
+   ]
+  }
+ ]
+}
