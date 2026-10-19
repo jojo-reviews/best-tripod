@@ -87,6 +87,15 @@ test('keywords with proven demand are picked before unmeasured ones', () => {
   assert.equal(nextKeyword(queue, { published: [] }).keyword, 'zz measured owner keyword');
 });
 
+test('low KD, long-tail, high-volume keywords come first (owner rule)', () => {
+  const queue = [
+    { keyword: 'zz short head', status: 'pending', priority: 9, category: 'a', ahrefs: { volume: 900, kd: 9 } },
+    { keyword: 'zz long tail easy keyword', status: 'pending', priority: 1, category: 'b', ahrefs: { volume: 400, kd: 1 } },
+    { keyword: 'zz no data owner keyword', status: 'pending', source: 'user', priority: 9, category: 'c' },
+  ];
+  assert.equal(nextKeyword(queue, { published: [] }).keyword, 'zz long tail easy keyword');
+});
+
 // Built pages: every published post has a self-referencing canonical and is indexable.
 const DIST = path.join(ROOT, 'dist');
 test('built blog pages have a self canonical and index,follow', { skip: !fs.existsSync(DIST) && 'dist/ not built' }, () => {
