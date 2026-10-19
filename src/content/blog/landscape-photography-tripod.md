@@ -2,8 +2,8 @@
 title: Landscape Photography Tripod (2026) – 5 Picks for Low Angles and Wind
 seoTitle: Landscape Photography Tripod (2026) – 5 Picks for Low Angles
 description: >-
-  Five landscape photography tripod picks compared on height without the
-  column, low-angle reach, load and wind fixes, plus which ones need a head.
+  Five landscape photography tripod picks compared on height without the column,
+  low-angle reach, load and wind fixes, plus which ones need a head.
 pubDate: '2026-10-19T16:35:00.000Z'
 category: camera-tripods
 keyword: landscape photography tripod
@@ -69,8 +69,7 @@ products:
       raised (51.25 in with it down), and the thin lower sections flex more than
       a thicker-legged tripod in wind.
     pros:
-      - >-
-        Packs to 15.5 in and weighs 3.44 lb (aluminum) with the head built in
+      - Packs to 15.5 in and weighs 3.44 lb (aluminum) with the head built in
       - >-
         Low mode puts the camera 5.5 in off the ground for foreground-heavy
         frames
@@ -82,23 +81,25 @@ products:
       - >-
         Owners on the maker page say the legs can slip under load until
         tightened, and the built-in head is not great for panning
-      - Spike feet make it too fat for the stock case, per one owner
+      - 'Spike feet make it too fat for the stock case, per one owner'
     specs:
-      Max height (center column up): 60 in (152.4 cm), per Peak Design
-      Max height (center column down): 51.25 in (130.2 cm), per ShutterMuse's spec table
-      Min height: 5.5 in (14 cm) in low mode, per ShutterMuse
-      Folded length: 15.5 in (39.4 cm), 3.25 in diameter, per ShutterMuse
+      Max height (center column up): '60 in (152.4 cm), per Peak Design'
+      Max height (center column down): '51.25 in (130.2 cm), per ShutterMuse''s spec table'
+      Min height: '5.5 in (14 cm) in low mode, per ShutterMuse'
+      Folded length: '15.5 in (39.4 cm), 3.25 in diameter, per ShutterMuse'
       Weight: >-
         3.44 lb (1.56 kg) aluminum, head included (maker page); carbon is 2.81
         lb (1.29 kg)
       Max load: 20 lb (maker page)
       Leg sections: '5'
-      Leg lock: Lever-style, per an owner review on the maker page; not named on the spec pages we read
+      Leg lock: >-
+        Lever-style, per an owner review on the maker page; not named on the
+        spec pages we read
       Feet: Rubber feet; optional Spike Feet Set sold by the maker
       Head: >-
         Built-in ball head with one adjustment ring; Universal Head Adapter sold
         separately for your own head
-      Plate: Arca-type plate included, per ShutterMuse
+      Plate: 'Arca-type plate included, per ShutterMuse'
     scores:
       stability: 7
       portability: 9
@@ -113,8 +114,7 @@ products:
       read: 5
       praise:
         - Very fast set-up and a compact packed shape
-        - >-
-          Stable enough for a full-frame body with a 70-200mm or a 150-600mm
+        - Stable enough for a full-frame body with a 70-200mm or a 150-600mm
       complaints:
         - >-
           Legs can slip under heavy loads until tightened, which makes them
@@ -132,7 +132,7 @@ products:
       Pro-Level Stability, Ergonomic Ball Head, Compact and Portable Travel
       Tripod for Camera and Phone, 20 lb Capacity
     asinVerified: true
-  - name: Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)
+  - name: 'Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)'
     brand: Manfrotto
     query: Manfrotto Befree Advanced lever aluminum travel tripod ball head
     matchName: Manfrotto Befree Advanced Camera Tripod Lever Closure Aluminum
@@ -151,9 +151,7 @@ products:
     pros:
       - 3.51 lb with the ball head and 15.75 in folded
       - 'Three leg angles (22, 54 and 89 degrees) for uneven ground'
-      - >-
-        Plate fits both Manfrotto RC2 and Arca-Swiss style clamps, per the
-        maker
+      - 'Plate fits both Manfrotto RC2 and Arca-Swiss style clamps, per the maker'
     cons:
       - >-
         Maker lists 50.39 in with the center column down, short for tall
@@ -176,7 +174,9 @@ products:
       Leg angles: '22, 54 and 89 degrees'
       Material: 'Aluminum, tube diameters 12 / 15.5 / 19 / 22.5 mm'
       Head: Advanced 494 center ball head with separate friction and pan knobs
-      Plate: '200PL PRO, compatible with Manfrotto RC2 and Arca-Swiss style (maker text)'
+      Plate: >-
+        200PL PRO, compatible with Manfrotto RC2 and Arca-Swiss style (maker
+        text)
     scores:
       stability: 6
       portability: 8
@@ -203,7 +203,8 @@ products:
         - title: >-
             Trevor Sherwin: Manfrotto Befree Advanced review (free carbon twist
             sample)
-          url: 'https://www.trevorsherwin.co.uk/blog/manfrotto-befree-advanced-review'
+          url: >-
+            https://www.trevorsherwin.co.uk/blog/manfrotto-befree-advanced-review
         - title: 'Reddit r/AskPhotography: Your opinion on Manfrotto Befree tripod?'
           url: >-
             https://www.reddit.com/r/AskPhotography/comments/a56mat/your_opinion_on_manfrotto_befree_tripod/
@@ -277,7 +278,9 @@ products:
         - title: 'DPReview forum: Vanguard Alta Pro 2+ 263AB100 tripod review'
           url: >-
             https://www.dpreview.com/forums/threads/vanguard-alta-pro-2-263ab100-tripod-review.4172985/
-        - title: 'Reddit r/AskPhotography: Is the Vanguard Alta Pro 263AB 100 a good tripod?'
+        - title: >-
+            Reddit r/AskPhotography: Is the Vanguard Alta Pro 263AB 100 a good
+            tripod?
           url: >-
             https://www.reddit.com/r/AskPhotography/comments/ckvt7u/is_the_vanguard_alta_pro_263ab_100_a_good_tripod/
         - title: 'Vanguard USA: 263AB Gen 2 customer review'
@@ -305,9 +308,9 @@ products:
       landscape photographer on photoscotland.net chose it to replace his
       055PROB.
     renterNote: >-
-      Drive-up landscape shooters with a DSLR or mirrorless kit who want a
-      stiff pair of legs and will add their own Arca-Swiss ball head. Key
-      caveat: 4.41 lb and 23.23 in folded, no leg spreader, no head included.
+      Drive-up landscape shooters with a DSLR or mirrorless kit who want a stiff
+      pair of legs and will add their own Arca-Swiss ball head. Key caveat: 4.41
+      lb and 23.23 in folded, no leg spreader, no head included.
     pros:
       - 62.99 in maximum and 53.15 in with the column down
       - >-
@@ -345,7 +348,7 @@ products:
     owners:
       read: 3
       praise:
-        - A sturdy, fast flip-lock tripod that works with gloves in the cold
+        - 'A sturdy, fast flip-lock tripod that works with gloves in the cold'
         - >-
           Improvements over older Manfrotto models were right where owners
           wanted them
@@ -417,8 +420,7 @@ products:
       read: 3
       praise:
         - Very well built and lighter than expected for landscape work
-        - >-
-          Held up through years of travel and river and sea use (CT-3442 owner)
+        - Held up through years of travel and river and sea use (CT-3442 owner)
       complaints:
         - Rubber feet came off on one owner's CT-3442
         - Owner feedback on the CT-3472LV at B&H is mixed
@@ -457,7 +459,8 @@ sources:
     url: >-
       https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html
   - title: 'Digital Photography School: best tripods for landscape photography'
-    url: 'https://digital-photography-school.com/best-tripods-for-landscape-photography/'
+    url: >-
+      https://digital-photography-school.com/best-tripods-for-landscape-photography/
   - title: 'Tim Shields: 5 features every good tripod needs to have'
     url: 'https://timshields.com/5-features-every-good-tripod-needs-to-have/'
   - title: 'Improve Photography: professional tripods for landscape photographers'
@@ -465,7 +468,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: 2026-10-19
+reviewedDate: '2026-10-19T00:00:00.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for landscape photography?
@@ -493,15 +496,19 @@ faqs:
   - q: How low can a landscape tripod go for foreground shots?
     a: >-
       Among these five, the Feisol CT-3472 goes down to 3.35 in and the
-      Manfrotto MT190XPRO3 to 3.54 in with its 90-degree column. The Peak
-      Design reaches 5.5 in in low mode and the Vanguard 8.4 in, while Manfrotto
-      lists 15.75 in for the Befree Advanced.
+      Manfrotto MT190XPRO3 to 3.54 in with its 90-degree column. The Peak Design
+      reaches 5.5 in in low mode and the Vanguard 8.4 in, while Manfrotto lists
+      15.75 in for the Befree Advanced.
   - q: Is carbon fiber worth it for a landscape tripod?
     a: >-
       It is if you hike far or carry heavy lenses: carbon is lighter for the
       same stiffness and damps vibration faster. If the tripod rides in the car
       and you walk a few hundred yards, aluminum like the MT190XPRO3 or Alta Pro
       saves money.
+heroImage: /images/featured/landscape-photography-tripod.png
+heroAlt: >-
+  Landscape Photography Tripod (2026) – 5 Picks for Low Angles and Wind – Best
+  Tripod buying guide
 ---
 
 Picture a windy ridge at sunrise. The ND filter is on and the column is cranked up to reach eye level. The foreground rocks sit just below the frame, and the 30-second exposure comes back soft. A landscape photography tripod is supposed to prevent exactly that. We think the right one does three things a general tripod often doesn't. It reaches a useful working height with the center column down. It gets low enough for foreground rocks and flowers. And it stays planted in wind and on uneven ground. Below are five picks the top guides to a tripod for landscape photography recommend. We checked the specs against maker pages and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
@@ -533,7 +540,7 @@ This table compares the five on the numbers that decide a landscape shot: height
 
 ### How we picked these landscape tripods
 
-**We kept only models that at least two of the top-ranking landscape tripod pages recommend, that have a clear Amazon US listing, and whose specs we could check on the maker's own page.** We read Matt Purciel, digital-photography-school, Improve Photography, Tim Shields, Alex Armitage, Alan Ranger, Chris Sidoruk and the B&H and Adorama landscape lists. Several premium names came up too: the Gitzo Series 1 Traveler, the FLM CP30-L4 II, the Benro Mammoth and the Really Right Stuff BH-30 ball head. They either appeared on only one page or had no clear Amazon US listing, so they are not reviewed here.
+**We kept only models (or, for the Alta Pro, MT190 and Feisol, the same model line) that at least two of the top-ranking landscape tripod pages recommend, that have a clear Amazon US listing, and whose specs we could check on the maker's own page.** We read Matt Purciel, digital-photography-school, Improve Photography, Tim Shields, Alex Armitage, Alan Ranger, Chris Sidoruk and the B&H and Adorama landscape lists. Several premium names came up too: the Gitzo Series 1 Traveler, the FLM CP30-L4 II, the Benro Mammoth and the Really Right Stuff BH-30 ball head. They either appeared on only one page or had no clear Amazon US listing, so they are not reviewed here.
 
 > **From our notes:** When we lined up the five spec sheets side by side, the minimum-height row surprised us more than the weight row. The two legs-only tripods go lowest, 3.35 in for the Feisol and 3.54 in for the MT190XPRO3, while Manfrotto lists the Befree Advanced at 15.75 in, the same figure as its folded length. The maker data also disagreed with itself: Vanguard's own pages give the Alta Pro 28.3 in and about 27.4 in folded. So we treat every figure as the maker's claim, name the source when two disagree, and sorted these picks by low-angle reach and column-down height, not by grams.
 
@@ -627,7 +634,7 @@ A raised column is the vibration cause we saw named most in forum threads. An r/
 
 ### Adding weight without sandbags
 
-Owners on hiking forums want ballast but not extra gear. One DPReview poster with a small travel tripod noted ["there is extremely little room to hang my camera backpack from the hook for stability"](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/). Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs. Taller, wider-spread tripods leave more room for a bag, and Peak Design owners note the legs must be tightened before they hold the extra weight.
+Owners on hiking forums want ballast but not extra gear. One DPReview poster with a small travel tripod said that with the center column raised ["there is extremely little room to hang my camera backpack from the hook for stability"](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/). Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs. Taller, wider-spread tripods leave more room for a bag, and Peak Design owners note the legs must be tightened before they hold the extra weight.
 
 ### Shutter-press shake in the first seconds
 
@@ -639,4 +646,4 @@ Pressing the shutter starts a small vibration that blurs the opening of an expos
 
 So back to that windy ridge at sunrise. If the hike was long, the Peak Design gets there in a 15.5 in fold and drops to 5.5 in for the foreground rocks. If the car is close, the Alta Pro or the MT190XPRO3 stands taller with the column down and goes lower still. If a long lens is on the camera, the column-free Feisol takes the column out of the equation. Whichever you choose, we would keep the column down, weight the hook and use the 2-second timer.
 
-For a broader look beyond landscapes, our [tripods for photography by lens weight](/blog/best-tripod-for-photography/) guide covers studio and telephoto kits, and our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup lists more carry-on options. Before you order, run your height and heaviest lens through our [tripod buying checklist](/tripod-buying-checklist/), or browse every full-size model in the [camera tripods hub](/category/camera-tripods/).
+For more carry-on options beyond landscapes, our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) roundup lists more. Before you order, run your height and heaviest lens through our [tripod buying checklist](/tripod-buying-checklist/), or browse every full-size model in the [camera tripods hub](/category/camera-tripods/).

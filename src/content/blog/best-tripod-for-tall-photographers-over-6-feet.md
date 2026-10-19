@@ -324,7 +324,7 @@ sources:
     url: 'https://www.kentfaith.com/reviews_15740?page=4'
   - title: 'Discovercameras: CAMBOFOTO 74 inch camera tripod review'
     url: 'https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/'
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 author: editorial-team
 faqs:
   - q: Which tripod is tallest without a center column for a 6'4" photographer?
@@ -365,10 +365,10 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - landscape-photography-tripod
   - best-monopod-with-feet-for-wildlife-photography
   - best-tripod-for-real-estate-photography
   - best-tripod-for-iphone-night-mode-photos
-  - monopod-vs-tripod-for-sports-photography
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best

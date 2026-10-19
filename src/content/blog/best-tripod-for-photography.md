@@ -41,9 +41,9 @@ tldr:
     Light kit (mirrorless or crop body with a standard zoom): the Sirui Traveler
     5C, a 13 in fold and a 4 kg (8.8 lb) rating, so keep the column down.
   - >-
-    Mid kit (full-frame body up to a 70-200mm class lens): the Peak Design Travel
-    Tripod (Carbon Fiber), rated to 20 lb with 51.25 in of height before the
-    column goes up.
+    Mid kit (full-frame body up to a 70-200mm class lens): the Peak Design
+    Travel Tripod (Carbon Fiber), rated to 20 lb with 51.25 in of height before
+    the column goes up.
   - >-
     Heavy kit (70-200mm to 600mm lenses, or anyone who wants eye level without
     the column): the 3 Legged Thing Winston 2.0 Kit, rated to 88 lb at its
@@ -70,8 +70,7 @@ products:
       - >-
         Folds to about 15.5 in and a water-bottle diameter, so it fits a bag
         pocket
-      - >-
-        20 lb rated load and 51.25 in column-down height are strong for the size
+      - 20 lb rated load and 51.25 in column-down height are strong for the size
       - All five leg sections latch or release together with one hand
     cons:
       - >-
@@ -90,8 +89,8 @@ products:
         maker spec
       Max load: 20 lb (9.1 kg)
       Leg sections: '5'
-      Leg lock: Aluminum cam locks, released together
-      Head: Built-in compact ball head, single adjustment ring
+      Leg lock: 'Aluminum cam locks, released together'
+      Head: 'Built-in compact ball head, single adjustment ring'
       Plate: Peak Design standard plate; Arca-type plates work per retailer listings
     scores:
       stability: 8
@@ -109,7 +108,9 @@ products:
         - >-
           Collapses small without a huge circumference, so it goes in checked
           luggage or a backpack
-        - Legs are quick to set up and extremely stable once everything is locked
+        - >-
+          Legs are quick to set up and extremely stable once everything is
+          locked
         - >-
           Durable: Pack Hacker's team reports four-plus years of weekly use with
           only a small adjuster fragment breaking off
@@ -162,7 +163,7 @@ products:
         limiting when fully extended
     specs:
       Max height (center column up): 54.3 in (138 cm)
-      Max height (center column down): 'Not published in the sources we checked'
+      Max height (center column down): Not published in the sources we checked
       Min height: 6.3 in (16 cm)
       Folded length: 13 in (33 cm)
       Weight: 0.85 kg (1.87 lb) per First Quadcopter and Life Pixel
@@ -184,8 +185,10 @@ products:
     owners:
       read: 6
       praise:
-        - 'Amazingly small and light; fits inside a backpack for a two-week trip'
-        - 'Lightweight, sturdy for mirrorless kits and fine for product and studio work'
+        - Amazingly small and light; fits inside a backpack for a two-week trip
+        - >-
+          Lightweight, sturdy for mirrorless kits and fine for product and
+          studio work
         - Handled mud and field conditions without damage
       complaints:
         - >-
@@ -222,16 +225,18 @@ products:
       does not matter.
     renterNote: >-
       DSLR and mirrorless shooters with 70-200mm to 600mm lenses, or anyone who
-      wants a rock-solid base at eye level. Key caveat: it folds to 24 in and the
-      maker lists 3.8 lb for the kit, so it is not a carry-on tripod.
+      wants a rock-solid base at eye level. Key caveat: it folds to 24 in and
+      the maker lists 3.8 lb for the kit, so it is not a carry-on tripod.
     pros:
-      - '40 kg (88 lb) rated load at the 23 degree leg angle, with 25 kg at 55 degrees'
+      - >-
+        40 kg (88 lb) rated load at the 23 degree leg angle, with 25 kg at 55
+        degrees
       - >-
         55.5 in without the center column and 72.8 in with it, so tall users
         reach eye level
       - >-
-        Legs detach into a monopod, and the kit adds an AirHed Pro ball head with
-        an Arca-Swiss compatible plate
+        Legs detach into a monopod, and the kit adds an AirHed Pro ball head
+        with an Arca-Swiss compatible plate
     cons:
       - >-
         Folded length is 24 in, and The Phoblographer found it larger than they
@@ -245,8 +250,8 @@ products:
       Min height: 5.7 in (14.6 cm)
       Folded length: 24 in (61.2 cm)
       Weight: >-
-        3.8 lb (1.73 kg) kit weight, per 3 Legged Thing; Mike Stehlik lists
-        1.73 kg without the head
+        3.8 lb (1.73 kg) kit weight, per 3 Legged Thing; Mike Stehlik lists 1.73
+        kg without the head
       Max load: 88 lb (40 kg) at 23 degrees; 55 lb at 55 degrees; 33 lb at 80 degrees
       Leg sections: '3 leg sections, 1 section column'
       Leg lock: Twist locks with knurled caps (Parallel Locking)
@@ -297,7 +302,7 @@ products:
 sources:
   - title: 'Peak Design: Travel Tripod'
     url: 'https://www.peakdesign.com/products/travel-tripod'
-  - title: "Glazer's Camera: Peak Design Travel Tripod Carbon listing"
+  - title: 'Glazer''s Camera: Peak Design Travel Tripod Carbon listing'
     url: >-
       https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb
   - title: '3 Legged Thing: Winston 2.0 carbon fibre tripod system'
@@ -318,16 +323,16 @@ sources:
   - title: 'The Phoblographer: 3 Legged Thing Winston 2.0 review'
     url: >-
       https://www.thephoblographer.com/2021/09/08/reliable-and-strong-3-legged-thing-winston-2-0-tripod-review/
-reviewedDate: 2026-10-19
+reviewedDate: '2026-10-19T00:00:00.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for photography?
     a: >-
-      The best tripod for photography is the one rated well above the camera
-      and lens you actually carry. For a light mirrorless kit we point to the
-      Sirui Traveler 5C, for a full-frame body up to a 70-200mm class lens the
-      Peak Design Travel Tripod (Carbon Fiber), and for long telephotos the 3
-      Legged Thing Winston 2.0 Kit.
+      The best tripod for photography is the one rated well above the camera and
+      lens you actually carry. For a light mirrorless kit we point to the Sirui
+      Traveler 5C, for a full-frame body up to a 70-200mm class lens the Peak
+      Design Travel Tripod (Carbon Fiber), and for long telephotos the 3 Legged
+      Thing Winston 2.0 Kit.
   - q: What tripod weight capacity do I need?
     a: >-
       Add up the maker-published weights of your body, heaviest lens and head,
@@ -356,6 +361,8 @@ faqs:
       bag from the hook as ballast, and shield the tripod with your body or a
       rock. Trigger with a remote release or the self-timer so your hand does
       not add vibration.
+related:
+  - landscape-photography-tripod
 ---
 
 You set up for a long exposure at dusk, crank the center column up to reach eye level, press the shutter, and the frame comes back soft. The best tripod for photography would have prevented that, and it isn't the most expensive tripod. It's the one whose load rating and legs-only height match the camera and lens you carry, so you never need that column. We built this guide around kit and lens weight rather than travel or price, read the maker spec pages and owner reports for three tripods covered in tripod roundups, reviews and owner threads, and matched each to a kit size. We did not use these tripods ourselves; every figure below is a maker's claim, a retailer listing or a reviewer's number, and we say which.

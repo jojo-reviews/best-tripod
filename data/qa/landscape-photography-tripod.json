@@ -1,10 +1,8 @@
 {
   "slug": "landscape-photography-tripod",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:47:15.472Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T13:52:28.694Z",
+  "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,6 +11,8 @@
     "product \"Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-opened top-10 pages: DPS names Peak Design Travel Tripod, MT190XPRO3, Feisol CT-3472LV M2, Vanguard Alta Pro 263AP; Chris Sidoruk names Peak Design Travel (carbon) and Befree Advanced; Matt Purciel lists Peak Design Travel Tripod (Aluminum); Tim Shields names Manfrotto BeFree Advanced (with a sturdiness caveat); Alex Armitage names Vanguard Alta Pro 2+; Improve Photography names Feisol CT3442 (same line, not CT-3472); Reddit r/photography 9uch4b recommends MT190X3 (older 190, same line). All 5 products have 2+ pages at model-line level (Feisol exact CT-3472 only on DPS; MT190XPRO3 exact only on DPS). Specs re-checked on maker pages: Manfrotto Befree Advanced, Manfrotto MT190XPRO3, Vanguard 263AB Gen 2, Feisol CT-3472, Peak Design (3.44 lb/60 in/20 lb via search excerpt of maker landing page; low mode and 51.25 in via ShutterMuse). Owner quotes verified verbatim: Peak Design maker reviews, DPReview (Vanguard and hiking thread), Photoscotland, B&H 190XPRO3 and Feisol, Stack Exchange 94720 and 125034; Reddit quotes via exact-phrase site:reddit.com search (110mxve, 15gbgj8, a56mat, j34059, ckvt7u). All 5 pain points answered. Removed the link to the draft best-tripod-for-photography post; clarified the selection sentence to say model line; added column-raised context to the DPReview quote. No reviewedBy.",
+    "at": "2026-10-19T13:52:28.068Z"
   }
 }

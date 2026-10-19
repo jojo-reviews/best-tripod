@@ -510,7 +510,7 @@ sources:
       https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx
   - title: 'Aryeo: best tripods for real estate photography'
     url: 'https://blog.aryeo.com/best-tripods-for-real-estate-photography/'
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 author: editorial-team
 faqs:
   - q: What height should a tripod be for real estate photos?
@@ -549,6 +549,7 @@ heroAlt: >-
   Best Tripod for Real Estate Photography – 7 Picks for Level Interiors – Best
   Tripod buying guide
 related:
+  - landscape-photography-tripod
   - best-monopod-with-feet-for-wildlife-photography
 ---
 
