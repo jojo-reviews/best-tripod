@@ -3,9 +3,19 @@
   "lang": "es",
   "translationOf": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-17T19:37:29.620Z",
+  "checkedAt": "2026-10-19T10:12:04.162Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
+    "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",
+    "source didn't respond normally (403): https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/",
+    "source didn't respond normally (403): https://www.adorama.com/3lttvidk20.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://www.kentfaith.com/KF09.101_lightweight-travel-tripod-compact-vlog-camera-tripod-flexible-portable-63-quot-1-6m-17-64lbs-8kg-load-with-portable-monopod-for-dslr-cameras-bi234m",
+    "source didn't respond normally (403): https://www.adorama.com/ul3131.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "2026-10-18: compared the 3 new FAQs against the English post's new FAQs: same products and figures, metric first with imperial in brackets matching existing conversions (9,1 kg (20 lb), 39,4 cm (15.5 in), 130,2 cm (51.25 in), 33 cm (13 in), 35,5 cm (14 in), 10 kg (22 lb), 18 kg (39.7 lb), 4 kg (8.8 lb), 114 cm (45 in)). asinVerified added to the same 7 products as English, ASINs unchanged (re-confirmed via Amazon US search workflow). No prices, testing claims or local-store claims.",

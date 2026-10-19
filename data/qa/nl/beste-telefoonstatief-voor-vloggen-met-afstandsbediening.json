@@ -3,9 +3,11 @@
   "lang": "nl",
   "translationOf": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-10-17T19:38:21.908Z",
+  "checkedAt": "2026-10-19T10:12:43.511Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post (QA pass, factcheck verified): same 3 products/ASINs/scores/spec keys, sources and owners.sources unchanged, figures converted metric-first (168/33/157 cm, 25-28 cm, 9/9.8/10 m remote range, 455 g, 650 g, 2.5 kg magnet rating, 7.1-14.5 cm phone width). Testing disclaimer translated from the EN post (negated). No new facts, no prices, no local-store claims. how-tall link points to the passing translation; travel-tripod and Peak Design links stay English, labelled.",

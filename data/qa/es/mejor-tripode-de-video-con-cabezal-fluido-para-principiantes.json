@@ -3,9 +3,15 @@
   "lang": "es",
   "translationOf": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-17T19:38:20.824Z",
+  "checkedAt": "2026-10-19T10:12:06.222Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175940-REG/manfrotto_mk290xta3_2wus_290_xtra_fluid_video.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1779104-REG/neewer_66602212_tp74_pro_video_tripod.html",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47255",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47024",
+    "source didn't respond normally (403): https://www.mayfairfarms.com/best-fluid-head-tripods/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared every claim with the English post (QA pass, factcheck verified): same 3 products/ASINs/scores/spec keys, sources unchanged, figures converted metric-first (maker metric 146 cm and 69.5 cm for the Manfrotto; 8 kg, 6 kg, 4 kg payloads as listed). No new facts. Cayer BV30L folded length (35, unit unstated, unconfirmed in the EN factcheck) is shown as 'not confirmed' instead of 35 in; carry-on comparison limited to Manfrotto and Neewer accordingly. Internal links point to passing translations of ball-head and how-tall posts; travel-tripod link stays English, labelled.",
