@@ -51,6 +51,15 @@ export function repeatedSentence(md) {
   return null;
 }
 
+/** Body length against the top results: limit = 115% of their average (or of targetWords without one). */
+export function lengthLimit(post) {
+  let brief = null;
+  try { brief = JSON.parse(fs.readFileSync(path.join(BRIEFS, `${post.slug}.json`), 'utf8')); } catch {}
+  const avg = brief?.serpStructure?.avgWords;
+  const limit = avg ? Math.round(avg * 1.15) : brief?.targetWords ? Math.round(brief.targetWords * 1.15) : post.data.articleType === 'roundup' ? 3000 : 2200;
+  return { brief, words: wordCount(post.content ?? post.body ?? ''), avg, limit };
+}
+
 const BANNED = [
   [/\$\s?\d/, 'mentions a price (prices change; never state them)'],
   [/\b\d(\.\d)?\s*(out of 5|\/\s?5|-star|stars?\b)/i, 'mentions a star rating'],
@@ -194,11 +203,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   {
     const strict = pub >= Date.parse(SITE.qa?.conciseRequiredFrom ?? '2100-01-01');
     const flag = strict ? err : warn;
-    let brief = null;
-    try { brief = JSON.parse(fs.readFileSync(path.join(BRIEFS, `${post.slug}.json`), 'utf8')); } catch {}
-    const n = wordCount(body);
-    const avg = brief?.serpStructure?.avgWords;
-    const limit = avg ? Math.round(avg * 1.15) : brief?.targetWords ? Math.round(brief.targetWords * 1.15) : d.articleType === 'roundup' ? 3000 : 2200;
+    const { brief, words: n, avg, limit } = lengthLimit(post);
     if (n > limit) flag(`body has ${n} words, over the ${limit} limit (${avg ? `top results average ${avg}` : 'no SERP average in the brief'}): cut repetition and filler`);
     if (strict && ((brief?.commonPoints ?? []).length < 3 || (brief?.ourGain ?? []).length < 3)) err('brief needs commonPoints (3+) and ourGain (3+): what the top results all say, and what this post adds (ROUTINE.md step 4)');
     const filler = body.match(FILLER);
