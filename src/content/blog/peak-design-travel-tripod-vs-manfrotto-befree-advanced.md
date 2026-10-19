@@ -328,7 +328,6 @@ heroAlt: >-
   comparison
 related:
   - what-is-an-arca-swiss-plate-and-do-i-need-one
-reviewedBy: damian-barczak
 ---
 
 The Peak Design Travel Tripod vs Manfrotto Befree Advanced question looks different once you compare like with like. Amazon US sells the Befree Advanced as one aluminum kit with lever locks and a ball head, so its real rival is the aluminum version of Peak Design's tripod. On the spec sheets those two are close to a dead heat on weight, folded length and column-down height. The differences that matter are low-angle reach, packed width, the head and price. We've kept the carbon fiber model in the comparison as the lighter, pricier step up.

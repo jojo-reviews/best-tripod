@@ -550,7 +550,6 @@ heroAlt: >-
   Tripod buying guide
 related:
   - best-monopod-with-feet-for-wildlife-photography
-reviewedBy: damian-barczak
 ---
 
 The best tripod for real estate photography is not the tallest or the lightest; it is the one that holds a level camera dead still through every HDR bracket and lets you nudge verticals straight in seconds. We went through the top-ranking pages for this search, kept only the tripods and heads that at least two of them recommend, then checked every spec against maker pages and read what owners report. That left five tripods and two geared heads, led by the [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:Manfrotto+290+Xtra+MK290XTA3-3WUS). We have not used these products ourselves, so every number below is a maker's claim or a reviewer's report, and we say which.

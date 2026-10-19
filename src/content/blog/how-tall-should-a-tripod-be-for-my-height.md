@@ -217,7 +217,6 @@ related:
   - best-tripod-for-tall-photographers-over-6-feet
   - best-phone-tripod-for-vlogging-with-remote
   - best-video-tripod-with-fluid-head-for-beginners
-reviewedBy: damian-barczak
 ---
 
 "How tall should a tripod be for your height?" is one of the most common questions new tripod buyers ask. Tripod height for your height comes down to one quick answer: the tripod's legs alone, with the center column down, should reach roughly your height minus 10 to 12 inches. We build every height recommendation from that rule of thumb, because it puts the camera viewfinder at eye level without leaning on the weakest part of the tripod. Below we show the math, a height chart from 5 feet to 6'6", why raising the center column costs stability, and two tall tripods that hit the mark.

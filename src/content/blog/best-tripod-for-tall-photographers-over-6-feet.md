@@ -373,7 +373,6 @@ heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best
   Tripod buying guide
-reviewedBy: damian-barczak
 ---
 
 The best tripod for tall photographers over 6 feet is one that puts your viewfinder at eye level without a fully raised center column, and very few spec sheets tell you whether a tripod can do that. We compared four tall tripods on manufacturer listings, independent reviews and a small set of owner reports: the [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) for heavy lenses, the [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) for sheer height, and two light 74 inch budget models. We did not use these tripods ourselves, so every figure below is a maker's claim or a reviewer's number, and we say which.

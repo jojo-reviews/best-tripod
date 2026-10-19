@@ -1,4 +1,10 @@
 {
   "_note": "Old-site URLs that Google indexed. 'to' is used until 'pendingSlug' is published (302); once that post is live the URL 301s to it. scripts/redirects.mjs writes public/_redirects at build time.",
-  "redirects": []
+  "redirects": [
+    {
+      "from": "/authors/damian-barczak/",
+      "to": "/authors/editorial-team/",
+      "note": "Named reviewer removed by the owner (2026-10-19)"
+    }
+  ]
 }

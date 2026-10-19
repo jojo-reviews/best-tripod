@@ -132,7 +132,8 @@ if (cmd === 'status') {
   saveQueue(queue);
   out({ updated: updated.length, keywords: updated });
 } else if (cmd === 'review-queue') {
-  // Damian's daily review list: live English posts not yet reviewed, highest search demand first.
+  // Named reviewer's daily review list: live English posts not yet reviewed, highest search demand first.
+  if (!SITE.reviewer?.slug) { console.error('No named reviewer is set in site.config.json (reviewer.slug).'); process.exit(1); }
   const perDay = Number(arg) || SITE.reviewer?.perDay || 4;
   const queue = loadQueue();
   const vol = (slug, kw) => {
@@ -143,10 +144,11 @@ if (cmd === 'status') {
     .filter((p) => Date.parse(p.data.pubDate) <= Date.now() && !p.data.reviewedBy)
     .map((p) => ({ slug: p.slug, title: p.data.title, url: `${SITE.siteUrl ?? 'https://' + SITE.domain}/blog/${p.slug}/`, volume: vol(p.slug, p.data.keyword) }))
     .sort((a, b) => b.volume - a.volume);
-  out({ reviewer: SITE.reviewer?.slug ?? 'damian-barczak', perDay, remaining: todo.length, today: todo.slice(0, perDay) });
+  out({ reviewer: SITE.reviewer.slug, perDay, remaining: todo.length, today: todo.slice(0, perDay) });
 } else if (cmd === 'mark-reviewed') {
   // `mark-reviewed <slug> [YYYY-MM-DD]`: only after the owner confirms the reviewer actually checked the post.
-  const reviewer = SITE.reviewer?.slug ?? 'damian-barczak';
+  if (!SITE.reviewer?.slug) { console.error('No named reviewer is set in site.config.json (reviewer.slug).'); process.exit(1); }
+  const reviewer = SITE.reviewer.slug;
   const date = process.argv[4] ?? new Date().toISOString().slice(0, 10);
   const file = path.join(ROOT, 'src/content/blog', `${arg}.md`);
   let text = fs.readFileSync(file, 'utf8');

@@ -319,7 +319,6 @@ heroAlt: >-
 related:
   - best-mini-tripod-for-desk-video-calls
   - best-phone-tripod-for-vlogging-with-remote
-reviewedBy: damian-barczak
 ---
 
 The best video tripod with fluid head for beginners is the one whose payload, plate and height match the camera you actually own, not the one with the biggest number on the box. We compared three popular beginner kits on manufacturer specs and owner reports: the [NEEWER TP74](amzn:NEEWER+74+inch+Video+Tripod+with+Fluid+Head+TP74) for most new filmmakers, the [Manfrotto 290 Xtra Kit](amzn:Manfrotto+290+Xtra+Aluminum+3-Section+Tripod+Kit+with+Fluid+Video+Head+MK290XTA3-2WUS) for light mirrorless rigs, and the [Cayer BV30L](amzn:Cayer+BV30L+Video+Tripod+with+Fluid+Head+72+Heavy+Duty+Twin+Tube) for the lowest-cost complete kit. We did not test these tripods ourselves; everything below comes from spec sheets, retailer listings and a small number of owner reviews.
