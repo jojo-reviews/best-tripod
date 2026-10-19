@@ -504,7 +504,7 @@ faqs:
       saves money.
 ---
 
-Picture the moment on a windy ridge at sunrise: the ND filter is on, the column is cranked up to reach eye level, the foreground rocks sit just below the frame, and the 30-second exposure comes back soft. A landscape photography tripod is supposed to prevent exactly that. We think the right one does three things a general tripod often doesn't: it reaches a useful working height with the center column down, it gets low enough for foreground rocks and flowers, and it stays planted in wind and on uneven ground. Below are five picks the top landscape guides recommend, with the specs we checked against maker pages and what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
+Picture a windy ridge at sunrise. The ND filter is on and the column is cranked up to reach eye level. The foreground rocks sit just below the frame, and the 30-second exposure comes back soft. A landscape photography tripod is supposed to prevent exactly that. We think the right one does three things a general tripod often doesn't. It reaches a useful working height with the center column down. It gets low enough for foreground rocks and flowers. And it stays planted in wind and on uneven ground. Below are five picks the top guides to a tripod for landscape photography recommend. We checked the specs against maker pages and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
 
 ## Landscape Photography Tripod Picks at a Glance
 
@@ -545,7 +545,7 @@ This table compares the five on the numbers that decide a landscape shot: height
 
 For the shooter who walks an hour to the view, this aluminum Peak Design is the smallest package of the five. [Peak Design's product page](https://www.peakdesign.com/products/travel-tripod) lists 3.44 lb with the head built in, a 20 lb load rating and 60 in at full height. ShutterMuse's spec table gives 51.25 in with the column down, 5.5 in in low mode and a 15.5 in fold. That low mode is the useful landscape detail: it puts the lens close to rocks and wildflowers without a separate short column.
 
-Owners on the maker page like how fast it sets up and how compact it packs. One wrote that it is "most often paired with a heavy and bulky Canon 6D SLR + 70-200mm and is rock-solid." The complaint we saw repeated is leg slip: owners there say the legs needed tightening before they stopped sliding under a camera or a bag on the hook, which then made them stiffer to open. Another found the built-in head poor for panning, which matters for panoramas. Because 51.25 in sits below eye level for many adults, plan to shoot from a tilting screen or accept the column on calm days. Our [Peak Design vs Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) goes deeper on the two travel picks.
+Owners on the maker page like how fast it sets up and how compact it packs. One wrote that it is "most often paired with a heavy and bulky Canon 6D SLR + 70-200mm and is rock-solid." The complaint we saw repeated is leg slip: owners there say the legs needed tightening before they stopped sliding under a camera or a bag on the hook, which then made them stiffer to open. Another found the built-in head poor for panning. That matters if you shoot a panorama. Because 51.25 in sits below eye level for many adults, plan to shoot from a tilting screen or accept the column on calm days. Our [Peak Design vs Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) goes deeper on the two travel picks.
 
 ### Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): best light kit for mirrorless
 
@@ -573,7 +573,9 @@ A B&H owner called it "Very well built tripod. Lighter than I thought it would b
 
 ## What a Landscape Photography Tripod Needs
 
-**A landscape photography tripod needs four things a general tripod can skip: column-down height near eye level, low-angle reach, stiffness in wind, and a load rating well above your heaviest lens and head.** Weight matters only after those, because the tripod that stays at home takes no pictures.
+**A landscape photography tripod needs four things a general tripod can skip: column-down height near eye level, low-angle reach, stiffness in wind, and a load rating well above your heaviest lens and head.** Weight matters only after those. The tripod that stays at home takes no pictures.
+
+That is also how we would judge the best tripod for landscape photography in any price tier. Max height on the box is the least useful number, because it assumes the column is up.
 
 ### Height without the center column
 
@@ -581,19 +583,19 @@ Working height is the legs-only figure plus your head and camera. Our picks run 
 
 ### Low-angle reach for foreground shots
 
-Strong landscape compositions often put rocks, ice or flowers a few inches from the lens. Minimum heights here range from 3.35 in (Feisol) and 3.54 in (MT190XPRO3) to 8.4 in (Alta Pro), 5.5 in (Peak Design low mode) and 15.75 in (Befree, per Manfrotto). Wide leg angles and a column that swings horizontal or comes out are what get a tripod low.
+Strong landscape compositions often put rocks, ice or flowers a few inches from the lens. Minimum heights here range from 3.35 in (Feisol) and 3.54 in (MT190XPRO3) to 8.4 in (Alta Pro), 5.5 in (Peak Design low mode) and 15.75 in (Befree, per Manfrotto). Wide leg angles and a column that swings horizontal or comes out are what get a tripod low. Some tripods use a reversible column instead; of these five, the Alta Pro and MT190XPRO3 swing theirs horizontal. Each extra leg angle stop also helps on uneven terrain, where one leg sits on a rock and another in a dip.
 
 ### Carbon fiber vs aluminum on the trail
 
-Carbon fiber is lighter for the same stiffness and damps vibration faster, which helps long exposures. Aluminum is cheaper and shrugs off knocks on rock. Four of our five picks are aluminum because they are the value end of the field; the Feisol is the carbon fiber tripod for anyone who hikes far with heavy glass.
+Carbon fiber is lighter for the same stiffness. It also damps vibration faster, and that dampening shows up as sharpness on long exposures. Aluminum is cheaper and shrugs off knocks on rock. Four of our five picks are aluminum because they are the value end of the field; the Feisol is the carbon fiber tripod for anyone who hikes far with heavy glass.
 
 ### Leg locks and sections
 
-Fewer leg sections mean thicker lower legs and more rigidity; more sections pack shorter. Flip locks (Befree, MT190XPRO3) show at a glance when they are closed and work with gloves, per one 190 owner. Twist locks (Alta Pro) are slimmer but pick up grit, so rinse them after sand or salt.
+Fewer leg sections mean thicker lower legs, more rigidity and less flex. More sections pack shorter. Flip locks (Befree, MT190XPRO3) show at a glance when they are closed and work with gloves, per one 190 owner. Twist locks (Alta Pro) are slimmer but pick up grit, so rinse them after sand or salt.
 
 ### Load rating against a real landscape kit
 
-A rated load is a ceiling, not a comfortable working load. Add the published weights of your body, heaviest lens and head, then choose well above that total. For a full-frame body with a 70-200mm, the roughly 20-22 lb ratings of the three kits are enough on paper; for a 150-600mm, the MT190XPRO3 (33.07 lb) or Feisol (66 lb) give real headroom.
+A tripod's load capacity is a ceiling, not a comfortable working load. Add the published weights of your body, heaviest lens and head, then choose well above that total. For a full-frame body with a 70-200mm, the roughly 20-22 lb ratings of the three kits are enough on paper; for a 150-600mm, the MT190XPRO3 (33.07 lb) or Feisol (66 lb) give real headroom.
 
 ## Legs Only or a Landscape Tripod With a Head?
 
@@ -601,11 +603,11 @@ A rated load is a ceiling, not a comfortable working load. Add the published wei
 
 These are the head types landscape shooters usually choose between:
 
-- **Ball head:** one knob frees all axes, so it is the fastest for changing compositions at sunrise. It can creep under a heavy lens if it is undersized.
-- **Geared head:** knobs move each axis by millimeters, ideal for leveling a horizon, focus stacking and panoramas.
+- **Ball head:** one knob frees all axes, so it is the fastest for changing compositions at sunrise and sunset. It can creep under a heavy lens if it is undersized.
+- **Geared head:** knobs move each axis by millimeters. That makes horizon leveling easy, and it suits focus stacking and panoramas.
 - **Pan-tilt head:** moves one axis at a time, slower but deliberate. Our [ball head vs pan-tilt head guide for landscapes](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) compares both.
 
-An Arca-Swiss plate and L-bracket let you flip from horizontal to vertical without the camera flopping over the side of the head. Arca-Swiss is a dovetail standard, so a plate from one brand usually fits another's clamp. The Befree's plate is Arca-Swiss style per Manfrotto; the Vanguard's clamp type is contested between its pages. Our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers what fits what.
+An Arca-Swiss plate and L-bracket let you flip from horizontal to vertical without the camera flopping over the side of the head. Leave the quick release plate on the camera between stops, so it can't be left behind on a rock. Arca-Swiss is a dovetail standard, so a plate from one brand usually fits another's clamp. The Befree's plate is Arca-Swiss style per Manfrotto; the Vanguard's clamp type is contested between its pages. Our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers what fits what.
 
 ## Landscape Tripod Problems in the Field, and the Fix
 
@@ -613,11 +615,11 @@ An Arca-Swiss plate and L-bracket let you flip from horizontal to vertical witho
 
 ### Wind makes the tripod vibrate
 
-Wind shake is a recurring complaint in Photo Stack Exchange threads on long exposures. One answer puts it plainly: ["Wind will vibrate across the legs and transmit up to the camera."](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) The fix, in order: collapse the thinnest leg sections first, spread the legs wide, keep nothing dangling loose, and stand upwind as a windbreak. Thicker 3-section legs like the Alta Pro and MT190XPRO3 resist gusts better than thin 5-section legs.
+Wind and vibration are a recurring complaint in Photo Stack Exchange threads on long exposures. One answer puts it plainly: ["Wind will vibrate across the legs and transmit up to the camera."](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) The fix, in order: collapse the thinnest leg sections first, spread the legs wide, keep nothing dangling loose, and stand upwind as a windbreak. Thicker 3-section legs like the Alta Pro and MT190XPRO3 resist gusts better than thin 5-section legs.
 
 ### Feet slip or sink on sand, mud, grass and rock
 
-Unstable footing comes up across Reddit and photography Q&A sites. On r/AskPhotography, a seascape shooter was told: ["You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable."](https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/) Work the feet down until they stop sinking, use spikes on sand and mud, and rubber feet on smooth rock. The Alta Pro's feet swap for spiked ones, Feisol and Peak Design sell spikes separately, and on the MT190XPRO3, with no leg spreader, check each foot before a long exposure.
+Unstable footing comes up across Reddit and photography Q&A sites. On r/AskPhotography, a seascape shooter was told: ["You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable."](https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/) Work the feet down until they stop sinking. Use spike feet on sand and mud, and rubber feet on smooth rock. The Alta Pro's feet swap for spiked ones, Feisol and Peak Design sell spikes separately, and on the MT190XPRO3, with no leg spreader, check each foot before a long exposure.
 
 ### Center column makes it ring
 

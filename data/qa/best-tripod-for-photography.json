@@ -1,16 +1,16 @@
 {
   "slug": "best-tripod-for-photography",
-  "pass": false,
-  "checkedAt": "2026-10-19T13:40:30.085Z",
-  "errors": [
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-19T13:47:38.396Z",
+  "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"3 Legged Thing Winston 2.0 Carbon Fibre Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-opened: Peak Design spec page (20 lb confirmed; dimensions not rendered) and Glazer's listing (60/51.25/5.5 in, 15.5 in, 2.81 lb carbon, 3.44 lb alu, 5 leg sections, aluminum cams, Arca-type plates); 3 Legged Thing Winston page (88/55/33 lb at 23/55/80 deg, 55.5 and 72.8 in, 5.7 in, 24 in, 3.8 lb kit weight, AirHed Pro, QR Octa, knurled caps); First Quadcopter and Life Pixel (Sirui 0.85 kg, 13 in, 6.3-54.3 in, 4 kg, twist locks, shaky in wind); TechGearLab (column wobbly fully extended); PetaPixel (quotes verbatim, ball head and column lock hard to tighten, 20 MPH wind); Fred Miranda Sirui thread (quotes, returned with A7iii 24-70) and PD thread (leg came off); DPReview Winston (quotes, hydro-lock, ballast); Phoblographer (quote, close calls); Stehlik (60-70 pct column, snow/saltwater/sand); Pack Hacker (4+ years, 3.432 lb); Stack Exchange x3, Unique Photo, and Reddit quotes (via site:reddit.com exact-phrase search) all verified at their URLs. Amazon ASINs B085BQTQMN, B07KD181B3, B082FB275T titles match the tripods. Removed unverifiable: Sirui ~40 in column-down and 895 g, Winston 4.5 lb, scratch-on-rock and cold-grip praise, 'two top pages' pick rule; fixed Unique Photo quote splice and Benro-in-Manfrotto-thread attribution. SERP brands checked on Matt Purciel (Gitzo, RRS, Benro, PD), School of Photography (Manfrotto 190/BeFree, K&F), Fstoppers (Induro, Feisol, RRS, Benro). Added cheap-false-economy answer with two verified r/photography quotes.",
+    "at": "2026-10-19T13:47:37.759Z"
   }
 }
