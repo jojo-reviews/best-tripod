@@ -1081,7 +1081,8 @@
     "painPoints": [
       "camera-tripods-soft-ground-slipping",
       "camera-tripods-wind-vibration"
-    ]
+    ],
+    "productCount": 5
   },
   {
     "status": "pending",
