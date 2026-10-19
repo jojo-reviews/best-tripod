@@ -1,0 +1,22 @@
+{
+  "seedsSearched": {
+    "tabletop tripod for webcam": "2026-10-19",
+    "phone tripod with remote": "2026-10-19",
+    "fluid head tripod": "2026-10-19",
+    "monopod for wildlife photography": "2026-10-19",
+    "gimbal head for telephoto lens": "2026-10-19",
+    "tripod for astrophotography": "2026-10-19",
+    "flexible tripod gorillapod alternative": "2026-10-19",
+    "tripod for camcorder": "2026-10-19",
+    "tripod for landscape photography": "2026-10-19",
+    "tripod for vlogging with phone": "2026-10-19",
+    "l bracket for camera": "2026-10-19"
+  },
+  "domains": {
+    "westlakesimages.com": {"dr": 0, "checkedAt": "2026-10-19", "foundVia": ["fluid head tripod"], "keywordsSeen": 9, "keywordsAdded": []},
+    "mattpurciel.com": {"dr": 1.8, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 24, "keywordsAdded": ["landscape photography tripod", "best hiking tripod"]},
+    "timshields.com": {"dr": 7, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 20, "keywordsAdded": []},
+    "andrealivieriphoto.com": {"dr": 29, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 1, "keywordsAdded": []},
+    "alexarmitage.com": {"dr": 14, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 1, "keywordsAdded": []}
+  }
+}

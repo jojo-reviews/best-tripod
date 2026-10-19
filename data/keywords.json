@@ -994,5 +994,67 @@
     "slug": "best-tripod-head-for-real-estate-photography",
     "mergedInto": "best-tripod-for-real-estate-photography",
     "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:29:21.082Z",
+    "secondaryKeywords": [
+      "best tripod for landscape photography"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "landscape photography tripod",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripods for Landscape Photography",
+    "cluster": "landscape tripods",
+    "source": "competitor-gap",
+    "rationale": "mattpurciel.com (DR 1.8) ranks #1 with https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+    "competitor": {
+      "domain": "mattpurciel.com",
+      "dr": 1.8,
+      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 80,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "landscape-photography-tripod"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:29:21.082Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 6,
+    "keyword": "best hiking tripod",
+    "category": "travel-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Hiking Tripods: Light Enough for the Trail",
+    "cluster": "travel tripods",
+    "source": "competitor-gap",
+    "rationale": "mattpurciel.com (DR 1.8) ranks #1 with https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+    "competitor": {
+      "domain": "mattpurciel.com",
+      "dr": 1.8,
+      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 60,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "best-hiking-tripod"
   }
 ]
