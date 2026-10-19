@@ -241,7 +241,7 @@
     "window": 10
   },
   "keywordRules": {
-    "maxVolume": 1000,
+    "maxVolume": 2500,
     "minWords": 3,
     "maxKd": 10,
     "minOwnerVolume": 10

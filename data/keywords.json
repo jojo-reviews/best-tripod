@@ -1056,5 +1056,38 @@
       "date": "2026-10-19"
     },
     "slug": "best-hiking-tripod"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T06:31:10.693Z",
+    "secondaryKeywords": [
+      "best photography tripod",
+      "best camera tripod for photography"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "best tripod for photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Photography",
+    "cluster": "camera tripods",
+    "source": "competitor-gap",
+    "rationale": "mattpurciel.com (DR 1.8) ranks #4 with https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html; SERP shares only 2 URLs with the queued landscape keyword and 0 with the iPhone night-mode post",
+    "competitor": {
+      "domain": "mattpurciel.com",
+      "dr": 1.8,
+      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "position": 4
+    },
+    "ahrefs": {
+      "volume": 1100,
+      "kd": 6,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "best-tripod-for-photography"
   }
 ]
