@@ -10,13 +10,142 @@
     "tripod for camcorder": "2026-10-19",
     "tripod for landscape photography": "2026-10-19",
     "tripod for vlogging with phone": "2026-10-19",
-    "l bracket for camera": "2026-10-19"
+    "l bracket for camera": "2026-10-19",
+    "lightweight travel tripod for mirrorless camera": "2026-10-19",
+    "monopod for camera": "2026-10-19",
+    "ball head for tripod": "2026-10-19",
+    "best tripod for beginners dslr": "2026-10-19",
+    "carbon fiber tripod vs aluminum": "2026-10-19",
+    "monopod vs tripod": "2026-10-19",
+    "video tripod with fluid head for beginners": "2026-10-19",
+    "best mini tripod for camera": "2026-10-19",
+    "best monopod for hiking and travel": "2026-10-19",
+    "lightweight tripod for backpacking under 3 pounds": "2026-10-19",
+    "tripod bag for camera tripod": "2026-10-19"
   },
   "domains": {
-    "westlakesimages.com": {"dr": 0, "checkedAt": "2026-10-19", "foundVia": ["fluid head tripod"], "keywordsSeen": 9, "keywordsAdded": []},
-    "mattpurciel.com": {"dr": 1.8, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 24, "keywordsAdded": ["landscape photography tripod", "best hiking tripod"]},
-    "timshields.com": {"dr": 7, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 20, "keywordsAdded": []},
-    "andrealivieriphoto.com": {"dr": 29, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 1, "keywordsAdded": []},
-    "alexarmitage.com": {"dr": 14, "checkedAt": "2026-10-19", "foundVia": ["tripod for landscape photography"], "keywordsSeen": 1, "keywordsAdded": []}
+    "westlakesimages.com": {
+      "dr": 0,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "fluid head tripod"
+      ],
+      "keywordsSeen": 9,
+      "keywordsAdded": []
+    },
+    "mattpurciel.com": {
+      "dr": 1.8,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "tripod for landscape photography"
+      ],
+      "keywordsSeen": 24,
+      "keywordsAdded": [
+        "landscape photography tripod",
+        "best hiking tripod"
+      ]
+    },
+    "timshields.com": {
+      "dr": 7,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "tripod for landscape photography"
+      ],
+      "keywordsSeen": 20,
+      "keywordsAdded": []
+    },
+    "andrealivieriphoto.com": {
+      "dr": 29,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "tripod for landscape photography"
+      ],
+      "keywordsSeen": 1,
+      "keywordsAdded": []
+    },
+    "alexarmitage.com": {
+      "dr": 14,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "tripod for landscape photography"
+      ],
+      "keywordsSeen": 1,
+      "keywordsAdded": []
+    },
+    "1kcreatives.com": {
+      "dr": 24,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "lightweight travel tripod for mirrorless camera",
+        "best mini tripod for camera"
+      ],
+      "keywordsSeen": 40,
+      "keywordsAdded": [],
+      "note": "mined; only 'portable camera tripod' (50) kept as secondary of lightweight camera tripod; 'compact travel tripod'/'best travel tripod for mirrorless camera' already covered"
+    },
+    "mediahammock.com": {
+      "dr": 7,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "video tripod with fluid head for beginners"
+      ],
+      "keywordsSeen": 0,
+      "keywordsAdded": []
+    },
+    "exploringexposure.com": {
+      "dr": 30,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "ball head for tripod"
+      ],
+      "keywordsSeen": 9,
+      "keywordsAdded": [
+        "tripod ball head",
+        "mini ball head",
+        "best tripod head"
+      ]
+    },
+    "jmpeltier.com": {
+      "dr": 30,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "lightweight tripod for backpacking under 3 pounds"
+      ],
+      "keywordsSeen": 21,
+      "keywordsAdded": [
+        "best tripod for backpacking"
+      ]
+    },
+    "norcalhiker.net": {
+      "dr": 2.1,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "lightweight tripod for backpacking under 3 pounds"
+      ],
+      "keywordsSeen": 15,
+      "keywordsAdded": [
+        "lightweight camera tripod"
+      ]
+    },
+    "final-rest.com": {
+      "dr": 18,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "ball head for tripod"
+      ],
+      "keywordsSeen": 0,
+      "keywordsAdded": [],
+      "note": "shooting/rifle rests, off-niche; not mined"
+    },
+    "fatboytripods.com": {
+      "dr": 27,
+      "checkedAt": "2026-10-19",
+      "foundVia": [
+        "ball head for tripod"
+      ],
+      "keywordsSeen": 0,
+      "keywordsAdded": [],
+      "note": "shooting/spotting scopes, off-niche; not mined"
+    }
   }
 }
