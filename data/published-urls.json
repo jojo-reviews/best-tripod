@@ -2,6 +2,7 @@
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
     "/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/",
+    "/blog/best-hiking-tripod/",
     "/blog/best-mini-tripod-for-desk-video-calls/",
     "/blog/best-monopod-with-feet-for-wildlife-photography/",
     "/blog/best-phone-tripod-for-vlogging-with-remote/",
@@ -11,6 +12,7 @@
     "/blog/best-tripod-for-tall-photographers-over-6-feet/",
     "/blog/best-video-tripod-with-fluid-head-for-beginners/",
     "/blog/how-tall-should-a-tripod-be-for-my-height/",
+    "/blog/landscape-photography-tripod/",
     "/blog/monopod-vs-tripod-for-sports-photography/",
     "/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/",
     "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
