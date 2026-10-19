@@ -989,8 +989,8 @@
     "lastError": "cannibalization: \"best monopod for sports photography\" overlaps \"monopod vs tripod for sports photography\" (100%)"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "deferred",
+    "attempts": 1,
     "addedAt": "2026-10-18T13:34:45.954Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -1013,7 +1013,8 @@
       "monopods-arm-fatigue-heavy-lens",
       "monopods-height-rough-terrain",
       "monopods-worth-it-vs-tripod"
-    ]
+    ],
+    "note": "2026-10-19: SERP is explainers and maker pages; no model on 2+ top-10 pages. Candidate for a no-product explainer if the owner allows."
   },
   {
     "status": "merged",
@@ -1182,5 +1183,172 @@
       "date": "2026-10-19"
     },
     "slug": "tripod-for-wildlife-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T13:28:04.437Z",
+    "secondaryKeywords": [
+      "camera ball head",
+      "ball head for tripod",
+      "best tripod ball head",
+      "tripod with ball head",
+      "best ball head for tripod"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "tripod ball head",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Best Tripod Ball Heads for Cameras",
+    "cluster": "ball heads",
+    "source": "competitor-gap",
+    "rationale": "exploringexposure.com (DR 30) ranks #5 with https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "competitor": {
+      "domain": "exploringexposure.com",
+      "dr": 30,
+      "url": "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "position": 5
+    },
+    "ahrefs": {
+      "volume": 350,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "camera-tripods-head-unbalanced-long-lens"
+    ],
+    "slug": "tripod-ball-head"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T13:28:04.437Z",
+    "secondaryKeywords": [
+      "portable camera tripod"
+    ],
+    "questions": [],
+    "priority": 6,
+    "keyword": "lightweight camera tripod",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Best Lightweight Camera Tripods",
+    "cluster": "lightweight tripods",
+    "source": "competitor-gap",
+    "rationale": "norcalhiker.net (DR 2.1) ranks #8 with https://www.norcalhiker.net/p/the-ideal-backpacker-tripod",
+    "competitor": {
+      "domain": "norcalhiker.net",
+      "dr": 2.1,
+      "url": "https://www.norcalhiker.net/p/the-ideal-backpacker-tripod",
+      "position": 8
+    },
+    "ahrefs": {
+      "volume": 200,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "travel-tripods-too-heavy-for-hiking"
+    ],
+    "slug": "lightweight-camera-tripod"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T13:28:04.437Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 6,
+    "keyword": "mini ball head",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Best Mini Ball Heads for Tripods and Tabletop Rigs",
+    "cluster": "ball heads",
+    "source": "competitor-gap",
+    "rationale": "exploringexposure.com (DR 30) ranks #9 with https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "competitor": {
+      "domain": "exploringexposure.com",
+      "dr": 30,
+      "url": "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "position": 9
+    },
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "mini-ball-head"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T13:28:04.437Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 6,
+    "keyword": "best tripod head",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Best Tripod Heads: Ball, Pan-Tilt and Fluid Compared",
+    "cluster": "tripod heads",
+    "source": "competitor-gap",
+    "rationale": "exploringexposure.com (DR 30) ranks #1 with https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "competitor": {
+      "domain": "exploringexposure.com",
+      "dr": 30,
+      "url": "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "position": 1
+    },
+    "ahrefs": {
+      "volume": 80,
+      "kd": 2,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "slug": "best-tripod-head"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-19T13:28:04.437Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 6,
+    "keyword": "best tripod for backpacking",
+    "category": "travel-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Best Tripods for Backpacking",
+    "cluster": "backpacking tripods",
+    "source": "competitor-gap",
+    "rationale": "jmpeltier.com (DR 30) ranks #2 with https://www.jmpeltier.com/best-backpacking-travel-tripods/",
+    "competitor": {
+      "domain": "jmpeltier.com",
+      "dr": 30,
+      "url": "https://www.jmpeltier.com/best-backpacking-travel-tripods/",
+      "position": 2
+    },
+    "ahrefs": {
+      "volume": 70,
+      "kd": 2,
+      "source": "ahrefs site-explorer-organic-keywords us",
+      "date": "2026-10-19"
+    },
+    "painPoints": [
+      "travel-tripods-too-heavy-for-hiking"
+    ],
+    "slug": "best-tripod-for-backpacking"
   }
 ]
