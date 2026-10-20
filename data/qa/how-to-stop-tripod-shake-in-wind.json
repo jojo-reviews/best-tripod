@@ -1,0 +1,13 @@
+{
+  "slug": "how-to-stop-tripod-shake-in-wind",
+  "pass": false,
+  "checkedAt": "2026-10-20T13:36:37.538Z",
+  "errors": [
+    "body has 866 words, over the 834 limit (top results average 725): cut repetition and filler",
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [],
+  "factCheck": {
+    "verified": false
+  }
+}

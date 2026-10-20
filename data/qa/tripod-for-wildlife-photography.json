@@ -1,0 +1,16 @@
+{
+  "slug": "tripod-for-wildlife-photography",
+  "pass": true,
+  "checkedAt": "2026-10-20T13:36:36.102Z",
+  "errors": [],
+  "warnings": [
+    "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "keyword overlaps /blog/best-tripod-for-photography/ (\"tripod for wildlife photography\" overlaps \"best tripod for photography\" (100%))"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-opened Leofoto kit page (1,270 mm working height without ball head and column, 128 cm max, 10 kg, LH-30 15 kg, 10-layer carbon, 6061-T6, 53 cm carry length, 1.43 kg kit), B&H LS-284CX (22 lb, 4 sections, 18.7 in folded, 64.6 in with column, 2.4 lb), Lonely Speck (50 in/127 cm with LH-30, 60.4 in with column, 3.14 lb with head, legs 2.46 lb, 23/55/85 deg, 2-3 s settle, unsealed twist locks, replaceable feet, spikes), Fred Miranda owner thread (47.2 in per older maker figure, 60 in with column, 2.75 in low, lower legs flex, column screws on), BCG Forums (LS-324CX with Z8 + 600PF), Stack Exchange 94720 and 125034 (quotes verbatim, tip list), DPReview (quote verbatim), Better With Birds (lower rating is ceiling, sit-and-wait tripod vs walking monopod; it says double, post does not claim a multiple), r/AskPhotography 1nyn786 (names LS-284C). Height figures rewritten to state the sources: about 47-50 in without column, about 60 in with. Removed unsupported 'just touches the ground' and 'mid-range price'. No prices, no named reviewers. r/SonyAlpha 3x line only paraphrased; excerpt not re-confirmable via search this session (thread exists; brief logged it earlier).",
+    "at": "2026-10-20T13:36:35.494Z",
+    "hash": "5c67dec270d44179"
+  }
+}

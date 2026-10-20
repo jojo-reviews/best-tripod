@@ -1,0 +1,17 @@
+{
+  "slug": "binocular-tripod-adapter",
+  "pass": false,
+  "checkedAt": "2026-10-20T13:36:41.927Z",
+  "errors": [
+    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
+  ],
+  "warnings": [
+    "product \"Outdoorsmans Binocular Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Really Right Stuff Cinch-LR Bino Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": false
+  }
+}

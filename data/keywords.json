@@ -1195,7 +1195,7 @@
     ]
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T06:59:37.950Z",
     "secondaryKeywords": [
@@ -1233,7 +1233,8 @@
       "date": "2026-10-19"
     },
     "slug": "tripod-for-wildlife-photography",
-    "note": "2026-10-20: SERP is guides; only Leofoto LS-284C qualifies, written as a guide with 1 product."
+    "note": "2026-10-20: SERP is guides; only Leofoto LS-284C qualifies, written as a guide with 1 product.",
+    "publishedAt": "2026-10-20T13:36:59.700Z"
   },
   {
     "status": "merged",

@@ -362,6 +362,7 @@ faqs:
       rock. Trigger with a remote release or the self-timer so your hand does
       not add vibration.
 related:
+  - tripod-for-wildlife-photography
   - best-tripod-that-fits-in-carry-on-luggage
   - best-hiking-tripod
   - landscape-photography-tripod
