@@ -57,7 +57,7 @@ products:
     brand: Peak Design
     query: Peak Design Travel Tripod aluminum
     matchName: Peak Design Travel Tripod Aluminum
-    badge: Best for hiking in
+    badge: Best for hiking
     summary: >-
       A 5-section tripod with a built-in ball head that packs to 15.5 in and
       carries a 20 lb rating. Matt Purciel names the aluminum version his pick

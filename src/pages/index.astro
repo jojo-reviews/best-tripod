@@ -1,9 +1,12 @@
 ---
+import { render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import PostItem from '../components/PostItem.astro';
 import Icon from '../components/Icon.astro';
 import { getPublishedPosts } from '../lib/posts';
 import { SITE, CATEGORY_ICON, absUrl } from '../lib/site';
+import { brandOf, pickId } from '../lib/brands.mjs';
+import painPoints from '../../data/pain-points.json';
 
 const posts = await getPublishedPosts();
 const [leadPost, ...rest] = posts;
@@ -14,19 +17,86 @@ const recentlyUpdated = posts
   .slice(0, 5);
 const counts = Object.fromEntries(SITE.categories.map((c) => [c.slug, posts.filter((p) => p.data.category === c.slug).length]));
 
-const jsonLd: object[] = [{
-  '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  name: 'Latest guides',
-  itemListElement: posts.slice(0, 10).map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: absUrl(`/blog/${p.id}/`), name: p.data.title })),
-}];
+// The home page answers "best tripod" (the domain's exact-match query): one researched pick per use case,
+// taken from the guide that covers it (its "Best overall" pick, else its first pick). Only live guides show.
+const USE_CASES: [string, string][] = [
+  ['Best tripod for landscape photography', 'landscape-photography-tripod'],
+  ['Best travel tripod for mirrorless cameras', 'best-travel-tripod-for-mirrorless-camera'],
+  ['Best tripod that fits in carry-on luggage', 'best-tripod-that-fits-in-carry-on-luggage'],
+  ['Best hiking tripod', 'best-hiking-tripod'],
+  ['Best video tripod with a fluid head', 'best-video-tripod-with-fluid-head-for-beginners'],
+  ['Best tripod for tall photographers', 'best-tripod-for-tall-photographers-over-6-feet'],
+  ['Best tripod for real estate photography', 'best-tripod-for-real-estate-photography'],
+  ['Best phone tripod for vlogging', 'best-phone-tripod-for-vlogging-with-remote'],
+  ['Best tripod for iPhone night mode', 'best-tripod-for-iphone-night-mode-photos'],
+  ['Best mini tripod for desk video calls', 'best-mini-tripod-for-desk-video-calls'],
+  ['Best monopod for wildlife photography', 'best-monopod-with-feet-for-wildlife-photography'],
+];
+const picks = [];
+for (const [label, slug] of USE_CASES) {
+  const post = posts.find((p) => p.id === slug);
+  const products = post?.data.products ?? [];
+  if (!post || !products.length) continue;
+  const product = products.find((x) => /^best overall/i.test(x.badge ?? '')) ?? products[0];
+  const { remarkPluginFrontmatter } = await render(post);
+  const inBody = (remarkPluginFrontmatter?.productsInBody ?? []).includes(product.name);
+  picks.push({ label, post, product, href: `/blog/${post.id}/#${inBody ? pickId(product.name) : 'top-picks'}` });
+}
+
+// Brands that appear most often among the picks of our live guides (a count, not a ranking claim).
+const brandCount = new Map<string, { name: string; slug: string; n: number }>();
+for (const post of posts) for (const p of post.data.products) {
+  const b = brandOf(p);
+  if (b) brandCount.set(b.slug, { name: b.name, slug: b.slug, n: (brandCount.get(b.slug)?.n ?? 0) + 1 });
+}
+const topBrands = [...brandCount.values()].sort((a, b) => b.n - a.n).slice(0, 8);
+
+// Real owner problems (data/pain-points.json, quotes copied verbatim with their source).
+const ownerProblems = Object.values(painPoints.categories as Record<string, any[]>)
+  .map((list) => list.find((x) => x.quotes?.length))
+  .filter(Boolean)
+  .slice(0, 4);
+const guide = (slug: string) => posts.find((p) => p.id === slug);
+
+const faqs = [
+  {
+    q: 'What is the best tripod brand?',
+    a: `There is no single best tripod brand: the right one depends on how heavy your camera and lens are and how you carry the tripod. ${topBrands.length ? `Across our live guides the brands that come up most often among the picks are ${topBrands.slice(0, 5).map((b) => b.name).join(', ')}.` : ''} Pick the model first, then the brand.`,
+  },
+  {
+    q: 'What makes a good quality tripod?',
+    a: 'A good tripod holds two to three times the weight of your camera and heaviest lens, reaches eye level with the center column down, locks its legs without slipping, and packs small enough for the way you travel. A head with an Arca-Swiss clamp makes swapping plates and gear easier.',
+  },
+  {
+    q: 'Which tripod is the strongest?',
+    a: 'The steadiest tripods have thick legs with few sections, a short or no center column and a high rated load. Treat the maker\'s max load as a ceiling, not a working load, and keep the center column down: raising it is the most common cause of shake.',
+  },
+  {
+    q: 'Carbon fiber or aluminum tripod?',
+    a: 'Carbon fiber legs weigh less for the same stiffness, which matters when you hike or fly with the tripod; aluminum legs cost less and suit a tripod that mostly stays at home or in the car.',
+  },
+];
+
+const jsonLd: object[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Best tripod picks by use case',
+    itemListElement: picks.map((x, i) => ({ '@type': 'ListItem', position: i + 1, url: absUrl(x.href), name: `${x.label}: ${x.product.name}` })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  },
+];
 ---
-<Base title={`${SITE.name} – Honest Tripod Buying Guides`} description={SITE.description} jsonLd={jsonLd} image="/images/og/home.png" imageAlt={`${SITE.name}: honest tripod buying guides`} keywords={['best tripod', 'tripod buying guide', 'travel tripod', 'tripod for camera', 'best-tripod.com']}>
+<Base title="Best Tripod for 2026 – Picks by Camera, Bag and Budget" description="The best tripod for your camera, bag and budget: researched picks for travel, landscape, video, phones and wildlife, chosen on load, height and packed size." jsonLd={jsonLd} image="/images/og/home.png" imageAlt="Best Tripod: the best tripod picks by camera, bag and budget" keywords={['best tripod', 'best tripods', 'best camera tripod', 'best travel tripod', 'best tripod for photography', 'best tripod brand', 'tripod buying guide']}>
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <h1>The right tripod for your camera, your bag and your shot.</h1>
-        <p class="lead">We research travel, camera, phone and video tripods, monopods and heads on the numbers that matter: real working height without the center column, load capacity against the gear you actually shoot, and how small it packs.</p>
+        <h1>Best Tripod for Your Camera, Bag and Budget</h1>
+        <p class="lead">The best tripod is the one that holds your heaviest camera and lens steady at eye level and still fits the way you carry it. We research camera, travel, video and phone tripods, monopods and tripod heads on the numbers that decide that: working height with the center column down, load capacity against your real gear, and packed length with the head on.</p>
         <div class="hero-actions">
           <a class="btn btn-primary" href="/blog/">Browse the guides</a>
           <a class="btn btn-quiet" href="/tripod-buying-checklist/">Get the buying checklist</a>
@@ -48,6 +118,81 @@ const jsonLd: object[] = [{
       </figure>
     </div>
   </section>
+
+  <section class="section" id="best-tripod-picks">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>Best tripod picks by use case</h2>
+          <p>The best tripod for a landscape shooter is the wrong tripod for a carry-on bag. Each pick below is the top choice of the guide that covers that job, researched against the top-ranking reviews and owner reports.</p>
+        </div>
+      </div>
+      <div class="clauses">
+        {picks.map((x) => (
+          <div class="clause">
+            <h3><a href={x.href}>{x.label}</a></h3>
+            <p><strong>{x.product.name}</strong>{x.product.badge ? ` – ${x.product.badge}.` : '.'} {x.product.summary}</p>
+            <p><a href={`/blog/${x.post.id}/`}>Read the full guide</a></p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="how-to-choose">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <h2>How to choose the best tripod for you</h2>
+          <p>Three questions narrow the best tripod down faster than any ranking.</p>
+        </div>
+      </div>
+      <div class="clauses">
+        <div class="clause"><h3>1. What goes on top?</h3><p>Add up your camera body and heaviest lens and choose a tripod rated for two to three times that. A phone needs a phone clamp, a mirrorless kit a light travel tripod, a full-frame body with a telephoto a heavier camera tripod or a monopod. {guide('what-is-an-arca-swiss-plate-and-do-i-need-one') && <a href="/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/">Check the plate standard</a>}</p></div>
+        <div class="clause"><h3>2. How will you carry it?</h3><p>For a backpack or a cabin bag, packed length with the head on and total weight matter most; for the car or studio, height and stiffness win. {guide('best-tripod-that-fits-in-carry-on-luggage') && <a href="/blog/best-tripod-that-fits-in-carry-on-luggage/">Tripods that fit in carry-on luggage</a>}</p></div>
+        <div class="clause"><h3>3. How tall are you?</h3><p>Aim for eye level with the center column down; raising the column adds shake. {guide('how-tall-should-a-tripod-be-for-my-height') && <a href="/blog/how-tall-should-a-tripod-be-for-my-height/">How tall your tripod should be</a>}</p></div>
+        <div class="clause"><h3>Ball head or pan-tilt?</h3><p>A ball head is quick for stills; a pan-tilt or fluid head is easier to level and to pan for video. {guide('ball-head-vs-pan-tilt-head-for-landscape-photography') && <a href="/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/">Ball head vs pan-tilt head</a>}</p></div>
+      </div>
+    </div>
+  </section>
+
+  {topBrands.length > 0 && (
+    <section class="section" id="tripod-brands">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Tripod brands in our picks</h2>
+            <p>There is no single best tripod brand. These are the brands whose models appear most often among the picks of our guides; each page lists every pick and the guide it comes from. <a href="/brands/">All brands</a></p>
+          </div>
+        </div>
+        <ul class="updated-list">
+          {topBrands.map((b) => <li><a href={`/brand/${b.slug}/`}>{b.name}</a><span class="muted">{b.n} pick{b.n === 1 ? '' : 's'}</span></li>)}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  {ownerProblems.length > 0 && (
+    <section class="section" id="owner-problems">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>What tripod owners complain about</h2>
+            <p>The problems owners describe most on Reddit and photography forums, in their words, and what to look for instead.</p>
+          </div>
+        </div>
+        <div class="clauses">
+          {ownerProblems.map((x) => (
+            <div class="clause">
+              <h3>{x.pain}</h3>
+              <p>“{x.quotes[0].text}” <a href={x.quotes[0].url} rel="nofollow noopener" target="_blank">source</a></p>
+              <p>{x.details}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   <section class="section">
     <div class="wrap">
@@ -114,6 +259,14 @@ const jsonLd: object[] = [{
         <div class="clause"><h3>Real numbers, not box numbers</h3><p>We report working height with the center column down, folded length with the head on, and load capacity next to the weight of real camera and lens combinations.</p></div>
         <div class="clause"><h3>Matched to how you shoot</h3><p>Travel, landscape, astro, video, vlogging or phone: we say who each pick is for, and who should skip it.</p></div>
         <div class="clause"><h3>Honest about trade-offs</h3><p>We say when a bundled head will need replacing, when a plate isn't Arca-Swiss, and where a cheaper tripod does the job.</p></div>
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap">
+      <div class="faq" id="faq">
+        <h2>Best tripod FAQ</h2>
+        {faqs.map((f) => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
       </div>
     </div>
   </section>

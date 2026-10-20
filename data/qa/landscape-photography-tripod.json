@@ -1,9 +1,10 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-19T13:52:28.694Z",
+  "checkedAt": "2026-10-20T10:51:31.543Z",
   "errors": [],
   "warnings": [
+    "body has 3081 words, over the 2300 limit (top results average 2000): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
