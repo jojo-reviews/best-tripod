@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T13:29:17.116Z",
+  "updatedAt": "2026-10-20T19:59:20.170Z",
   "categories": {
     "camera-tripods": [
       {
@@ -48,7 +48,8 @@
         ],
         "coveredBy": [
           "how-tall-should-a-tripod-be-for-my-height",
-          "best-tripod-for-tall-photographers-over-6-feet"
+          "best-tripod-for-tall-photographers-over-6-feet",
+          "tripod-shake-when-pressing-shutter"
         ],
         "foundAt": "2026-10-19"
       },
@@ -96,7 +97,9 @@
           "how to choose a tripod for a heavy telephoto lens",
           "how to stop tripod shake in wind"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "tripod-shake-when-pressing-shutter"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -348,7 +351,9 @@
           "floppy tripod legs fix"
         ],
         "keywords": [],
-        "coveredBy": [],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -385,8 +390,12 @@
           "remote release for tripod",
           "self timer camera shake"
         ],
-        "keywords": [],
-        "coveredBy": [],
+        "keywords": [
+          "tripod shake when pressing shutter"
+        ],
+        "coveredBy": [
+          "tripod-shake-when-pressing-shutter"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -431,6 +440,252 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "camera-tripods-leg-lock-grit-sand",
+        "pain": "Sand and grit foul tripod leg locks, and getting it out means taking the legs apart",
+        "details": "Beach and desert shooters report gritty, fouled twist-lock threads that have to be unscrewed and cleaned, while flip-lock owners say their legs are hard to strip down to clean sand out of the tubes. Owners disagree on which lock type copes better.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+            "platform": "forum",
+            "title": "Twist locks or flip locks? (DPReview)",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+            "platform": "reddit",
+            "title": "Invest in a good tripod! (r/photography)",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
+            "platform": "forum",
+            "title": "Pros and cons of flip lock vs. twist lock (Photography Stack Exchange)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain.",
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+          },
+          {
+            "text": "it makes it nearly impossible to disassemble the tripod to clean out the sand",
+            "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+          }
+        ],
+        "searches": [
+          "tripod twist lock sand",
+          "how to clean tripod legs after beach",
+          "tripod leg lock gritty"
+        ],
+        "keywords": [
+          "twist lock vs flip lock tripod legs"
+        ],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-flip-lock-pinch-noise",
+        "pain": "Flip locks pinch fingers and snap loudly enough to scare wildlife",
+        "details": "Owners describe flip-lock levers that snap shut hard enough to bruise a finger, and a loud snap that disturbs wildlife; twist locks are quiet and do not pinch.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
+            "platform": "forum",
+            "title": "Pros and cons of flip lock vs. twist lock (Photography Stack Exchange)",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+            "platform": "forum",
+            "title": "Twist locks or flip locks? (DPReview)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "it was loud enough to disturb wildlife.",
+            "url": "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods"
+          },
+          {
+            "text": "My fingers and hands have been pinched by flip-lever locks, but never by twist locks.",
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+          }
+        ],
+        "searches": [
+          "flip lock tripod pinch",
+          "quiet tripod for wildlife"
+        ],
+        "keywords": [
+          "twist lock vs flip lock tripod legs"
+        ],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-plastic-flip-lever-cracks",
+        "pain": "Plastic flip-lock levers crack or stop holding after a few years",
+        "details": "A DPReview owner whose flip locks stopped working traced repeat failures to plastic parts cracking under the constant tension of a closed lever, and now stores the levers open.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+            "platform": "forum",
+            "title": "Twist locks or flip locks? (DPReview)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Tensile stresses are inherent with flip lever lock designs.",
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+          },
+          {
+            "text": "Recently my tripod broke due to the flip locks no longer working and now I have to look for a new tripod.",
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+          }
+        ],
+        "searches": [
+          "tripod flip lock broken",
+          "flip lock tripod leg won't hold"
+        ],
+        "keywords": [
+          "twist lock vs flip lock tripod legs"
+        ],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-leg-locks-with-gloves",
+        "pain": "Leg locks are hard to work in winter gloves or with cold, wet hands",
+        "details": "Owners split: some find levers easier in gloves and when a tripod is wet, cold or worn; others find twist collars easier with mittens. Grip design decides it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/",
+            "platform": "reddit",
+            "title": "I strongly regret my decision to buy a tripod that came apart (r/photography)",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
+            "platform": "forum",
+            "title": "Pros and cons of flip lock vs. twist lock (Photography Stack Exchange)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I prefer twist because they are easier to deal with with gloves and mittens on, and they're smaller and lighter.",
+            "url": "https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/"
+          }
+        ],
+        "searches": [
+          "tripod locks with gloves",
+          "tripod in cold weather"
+        ],
+        "keywords": [
+          "twist lock vs flip lock tripod legs"
+        ],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-stabilization-left-on-tripod",
+        "pain": "Image stabilization left on blurs shots taken on a tripod",
+        "details": "Owners shoot long exposures on a tripod with lens IS or IBIS still on and get soft or smeared frames even with a timer delay; switching stabilization off fixes it for several owners, but a lens switch may not turn off IBIS on every body.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+            "platform": "forum",
+            "title": "Tripod shake or building shake?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+            "platform": "reddit",
+            "title": "Getting lots of camera shake on a tripod. What am I doing wrong?",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image.",
+            "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+          },
+          {
+            "text": "Turning off IS solved the problem.",
+            "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+          },
+          {
+            "text": "First, make sure image stabilization on your camera and lens are OFF.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "turn off image stabilization on tripod",
+          "IBIS on tripod blurry",
+          "should I turn off IS on a tripod"
+        ],
+        "keywords": [
+          "tripod shake when pressing shutter"
+        ],
+        "coveredBy": [
+          "tripod-shake-when-pressing-shutter"
+        ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-mirror-shutter-vibration",
+        "pain": "The camera's own mirror or shutter shakes the tripod even when nobody touches it",
+        "details": "DSLR and early mirrorless owners hear a loud slap and get soft frames at slow-ish shutter speeds on a light tripod; fixes are mirror lock-up, a timer mode that raises the mirror first, and electronic first-curtain shutter.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
+            "platform": "forum",
+            "title": "a900 Shutter Causing Shake Even on Tripod?",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
+            "platform": "article",
+            "title": "How to Reduce Camera Shake on a Tripod (Photography Life)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The shutter/mirror action is loud & causes camera vibration , any unsteadiness in the tripod will be affected by this vibration.",
+            "url": "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
+          }
+        ],
+        "searches": [
+          "mirror slap tripod",
+          "shutter shock tripod",
+          "shutter causing shake on tripod"
+        ],
+        "keywords": [
+          "tripod shake when pressing shutter"
+        ],
+        "coveredBy": [
+          "tripod-shake-when-pressing-shutter"
+        ],
+        "foundAt": "2026-10-20"
       }
     ],
     "monopods": [
@@ -517,7 +772,7 @@
             "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
           },
           {
-            "text": "a monopod is a compromise\u2014it trades some stability for huge gains in speed, weight, and ease of use.",
+            "text": "a monopod is a compromise—it trades some stability for huge gains in speed, weight, and ease of use.",
             "url": "https://www.reddit.com/r/AskPhotography/comments/1rx62rt/feedback_on_the_use_of_monopods/"
           }
         ],
@@ -939,7 +1194,9 @@
         "keywords": [
           "twist lock vs flip lock tripod legs"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ],
         "foundAt": "2026-10-19"
       },
       {

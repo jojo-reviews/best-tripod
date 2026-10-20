@@ -365,10 +365,10 @@ faqs:
       height includes the head, because spec sheets often measure only to the
       top plate.
 related:
+  - twist-lock-vs-flip-lock-tripod-legs
   - how-to-stop-tripod-shake-in-wind
   - best-hiking-tripod
   - landscape-photography-tripod
-  - best-monopod-with-feet-for-wildlife-photography
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best

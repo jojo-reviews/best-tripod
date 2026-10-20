@@ -98,10 +98,10 @@ faqs:
       where you can.
 author: editorial-team
 related:
+  - twist-lock-vs-flip-lock-tripod-legs
   - carbon-fiber-vs-aluminum-tripod-for-hiking
   - landscape-photography-tripod
   - best-hiking-tripod
-  - ball-head-vs-pan-tilt-head-for-landscape-photography
 heroImage: /images/featured/how-to-stop-tripod-shake-in-wind.png
 heroAlt: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First – Best Tripod guide'
 ---

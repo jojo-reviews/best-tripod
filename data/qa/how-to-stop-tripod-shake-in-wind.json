@@ -1,14 +1,9 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-10-20T19:03:11.516Z",
+  "checkedAt": "2026-10-20T20:02:13.823Z",
   "errors": [],
-  "warnings": [
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
-  ],
+  "warnings": [],
   "factCheck": {
     "verified": true,
     "notes": "Re-opened Photography Life (author: hung bag swings, rope/bungee to grounded bag; commenters: ground screw, stone bag, inertia counterargument, hood/strap removal, lee side), G Dan Mitchell (10 lb reader quote, redundant exposures, Point Reyes, hood/strap, lee), Unique Photo and Photography SE 48020 (weights on center pole, head twist, over-provisioned head, shield, remote, IS test, stacking), SE 94720 (wind quote verbatim, hook, spikes/rubber, thick sections first), SE 125034 (Grass is not stable, exposure delay quote verbatim, lens collar, mirror slap), dpreview 4678070 (hook quote verbatim), reddit 15gbgj8 (quote confirmed via search excerpt). Fixed: attributed inertia/sway disagreement correctly, removed unsupported 200-600mm dpreview claim and carbon-damping claim, removed only-first-second and less-leg-and-lens claims, removed field-rule experience wording, reframed From our notes as an explicit made-up case, not a trial. No prices, no named reviewer.",
