@@ -1,0 +1,294 @@
+{
+ "_note": "SERP for 'ball head tripod' checked 2026-10-20 via Firecrawl: it is standalone ball heads (RRS full-size ball heads, Fatboy/Sunwayfoto/Final Rest/Predator Hunter catalogs, Exploring Exposure comparison, Digital Camera World, Photography & Travel, Rokslide and r/longrange threads), not tripod kits. Shooting-rest heads (Anvil 30, Fatboy, Aziak) appear but the photo articles dominate. Pages read: Exploring Exposure, Photography & Travel, Digital Camera World (via query extraction), Rokslide thread. Reddit (r/longrange, r/AskPhotography) not readable by Firecrawl; only search snippets seen. Only 2 models are cleanly named by 2+ readable pages (RRS BH-40, Benro GX35); Acratech GXP is the 3rd to reach the 3-product minimum and is borderline: Exploring Exposure names it winner, the only second hit is the r/longrange snippet naming the smaller GXP SS (35 lb), a different model. Caller may drop it. Sibling brief data/briefs/tripod-ball-head.products.json overlaps (same 3 plus Vanguard BH-250): cannibalization risk, consider merging or differentiating. Specs for BH-40 re-verified on maker page 2026-10-20; GXP and GX35 verified on maker pages (cached 2026-10-19). ASINs carried over from sibling brief where Amazon dp titles were opened 2026-10-19; not re-verified today. Prices omitted.",
+ "products": [
+  {
+   "name": "Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp",
+   "brand": "Really Right Stuff",
+   "query": "Really Right Stuff BH-40 Ballhead Full-Size Lever-Release Clamp",
+   "matchName": "BH-40 Ballhead Full-Size Lever-Release Clamp",
+   "asin": "B06XB77FD9",
+   "asinVerified": true,
+   "badge": "Best all-round premium head",
+   "summary": "RRS's 40mm ball head for mirrorless and DSLR kits with lockable 360 degree pan and a lever-release Arca clamp. Exploring Exposure called it a close second to the Acratech GXP and found it barely affected by a -20 F freezer night, and Photography & Travel names it the top-of-the-line pick.",
+   "renterNote": "Photographers on a compact-to-mid tripod who want a proven premium Arca-style head and use RRS plates. It has an 18 lb rating, so very large telephotos are better on a bigger head; one DPReview owner dislikes the ball-lock handle getting in the way.",
+   "pros": [
+    "Lockable 360 degree pan with 2.5 degree markings, 40mm ball, 76 mm tall",
+    "Barely changed after a night at -20 F in Exploring Exposure's test",
+    "5-year guarantee from the maker"
+   ],
+   "cons": [
+    "Only 18 lb rated, which Exploring Exposure said shows some drift with very large lenses",
+    "DPReview owners report the ball-lock handle getting in the way and slight upward creep when tightening; one droop test found 8 mm at 4 kg"
+   ],
+   "specs": {
+    "Max load": "18 lb",
+    "Weight": "17.1 oz (486 g)",
+    "Ball diameter": "40 mm",
+    "Base diameter": "2.1 in (53 mm, Amazon listing)",
+    "Height": "3.0 in (76 mm)",
+    "Clamp": "Large Arca lever-release clamp (60mm), Arca-Swiss style",
+    "Independent pan": "Lockable 360° pan, 2.5° increments",
+    "Friction control": "Not stated on the maker page",
+    "Warranty": "5-year product guarantee"
+   },
+   "sources": [
+    "https://reallyrightstuff.com/BH-40-LR-II-Ball-Head-Large-Arca-Lever-Clamp/",
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://www.photographyandtravel.com/recommended-gear/recommended-tripods-and-ball-heads/",
+    "https://www.dpreview.com/forums/threads/i-do-not-love-the-rrs-bh-40.4552790/",
+    "https://mcaughtry.photo/is-the-really-really-right-rrs-bh-40-ball-head-worth-the-money/",
+    "https://reallyrightstuff.com/full-size-ball-heads/"
+   ],
+   "scores": {
+    "stability": 7,
+    "portability": 8,
+    "build": 9,
+    "value": 5
+   },
+   "scoreNote": "Premium build and a clean lockable pan, but the 18 lb rating is modest for the price and an owner flags the ball-lock handle.",
+   "owners": {
+    "read": 4,
+    "praise": [
+     "A DPReview owner reports years of use with no maintenance and says it still pans smoothly and keeps dirt and sand out",
+     "Another DPReview owner has used one for 8+ years without issues",
+     "Photography & Travel calls it reliable and strong while staying light"
+    ],
+    "complaints": [
+     "Ball-lock handle gets in the way and ends up in the wrong position (darinb, DPReview)",
+     "Tightening makes the camera tilt up slightly, though another poster says every ball head creeps when locked",
+     "A droop test on mcaughtry.photo measured 8 mm of droop at 4 kg and called that poor for the price (search excerpt)"
+    ],
+    "sources": [
+     {
+      "title": "DPReview: I do not love the RRS BH-40",
+      "url": "https://www.dpreview.com/forums/threads/i-do-not-love-the-rrs-bh-40.4552790/"
+     },
+     {
+      "title": "mcaughtry.photo: Is the RRS BH-40 worth the money? (search excerpt)",
+      "url": "https://mcaughtry.photo/is-the-really-really-right-rrs-bh-40-ball-head-worth-the-money/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate",
+   "brand": "Benro",
+   "query": "Benro GX35 Ballhead PU56",
+   "matchName": "Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead",
+   "asin": "B08JCL9F52",
+   "asinVerified": true,
+   "badge": "Best low-profile pick",
+   "summary": "A 14 oz, 3.3 in tall aluminum ball head with a 40mm ball, separate base and clamp pans and an Arca-style PU56 plate. Digital Camera World named it best lightweight; Exploring Exposure included it in its test set.",
+   "renterNote": "Travel and landscape shooters with a full-frame body who want a short, light head that fits a small tripod's folded size. Its friction adjustment is not independent from the lock, and the load figures differ between sellers.",
+   "pros": [
+    "400 g with a 3.34 in height keeps tripod kits short",
+    "Dual panning: base pan lock plus a pan at the clamp",
+    "Ewen Bell had it working through a month of sub-zero Norway conditions and found every Arca plate he tried fit"
+   ],
+   "cons": [
+    "Digital Camera World notes friction adjustment is not independent",
+    "Listings disagree on capacity (maker 77 lb, Amazon page also shows 66 lb and 30 kg); a B&H buyer reports a lock-up that would not release, and large telephotos drift per Exploring Exposure"
+   ],
+   "specs": {
+    "Max load": "77 lb (35 kg) per Benro",
+    "Weight": "0.88 lb (0.4 kg)",
+    "Ball diameter": "40 mm",
+    "Base diameter": "51 mm",
+    "Height": "3.34 in (8.5 cm)",
+    "Clamp": "Arca-Swiss style PU56 plate, slide-in",
+    "Independent pan": "Yes, two 360° pans (base and clamp)",
+    "Friction control": "Yes",
+    "Warranty": "3 years (5 with online extension)"
+   },
+   "sources": [
+    "https://benrousa.com/gx35-lowprofile-ballhead/",
+    "https://www.digitalcameraworld.com/buying-guides/best-ball-heads-for-tripods",
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://ewenbell.com/blog/Benro_GX35_Ball-Head_Review",
+    "https://www.bhphotovideo.com/c/product/1576685-REG/benro_gx35_three_series_arca_swiss.html"
+   ],
+   "scores": {
+    "stability": 7,
+    "portability": 9,
+    "build": 7,
+    "value": 8
+   },
+   "scoreNote": "Very short and light with two pans at a mid price; the friction control is tied to the lock and capacity claims are inconsistent across sellers.",
+   "owners": {
+    "read": 3,
+    "praise": [
+     "Worked without a hitch in a month of cold Norway conditions and the knob is usable with gloves (Ewen Bell)",
+     "Compact and sturdy, surprisingly good with heavy gear (Bob, B&H)",
+     "Great weight and holds well for macro work (Doug, B&H)"
+    ],
+    "complaints": [
+     "One B&H buyer (Doug) says it randomly locked up solid on night shoots and would not loosen, which cost him trust in it",
+     "Two pan controls seen as overkill by one reviewer",
+     "Main release knob lands in front of the camera when using the notch at high elevation"
+    ],
+    "sources": [
+     {
+      "title": "Ewen Bell: Benro GX35 Ball-Head Review",
+      "url": "https://ewenbell.com/blog/Benro_GX35_Ball-Head_Review"
+     },
+     {
+      "title": "B&H Benro GX35 page (reviews: 22, two read in full)",
+      "url": "https://www.bhphotovideo.com/c/product/1576685-REG/benro_gx35_three_series_arca_swiss.html",
+      "reviews": 22
+     }
+    ]
+   }
+  },
+  {
+   "name": "Acratech GXP Ball-Head with Lever Quick Release Clamp",
+   "brand": "Acratech",
+   "query": "Acratech GXP Ball-Head with Lever Quick Release Clamp",
+   "matchName": "Acratech GXP Ball-Head Lever Quick Release Clamp",
+   "asin": "B085CNHR7Q",
+   "asinVerified": true,
+   "badge": "Best for landscape shooters",
+   "summary": "A 1 lb ball head rated for 50 lb that doubles as a gimbal for collared lenses up to 400mm f/4 and as a leveling panoramic head when you move the clamp to the base. Exploring Exposure's David Kingham named it the winner of his eight-head comparison, including a -20 F freezer test.",
+   "renterNote": "Landscape and wildlife shooters on a mid-size tripod (60mm base) who want one light head for stills, panos and a long lens on a collar. It is the priciest head on this list, and the lever clamp is a point of debate on forums, so check the knob-clamp version if you hate lever snags.",
+   "pros": [
+    "50 lb rating at 1 lb, with a 60mm base and 4.2 in height",
+    "Works as ball head, gimbal and leveling pano head; fine tension adjustment",
+    "Exploring Exposure found it barely changed after a night at -20 F and liked its lever clamp in the cold"
+   ],
+   "cons": [
+    "Highest price here (maker lists about $510)",
+    "Owners on Fred Miranda report one buyer with two defective panoramic axes and others who dislike the lever clamp's weight and height; pano mode needs tools to set up"
+   ],
+   "specs": {
+    "Max load": "50 lb (22.6 kg)",
+    "Weight": "1 lb (0.45 kg)",
+    "Ball diameter": "1.5 in (38 mm)",
+    "Base diameter": "2.375 in (60 mm)",
+    "Height": "4.2 in (106 mm)",
+    "Clamp": "Knob or lever quick-release clamp, Arca-Swiss style",
+    "Independent pan": "360° pan (B&H lists independent pan lock)",
+    "Friction control": "Extra-fine tension adjustment",
+    "Warranty": "10 years (maker)"
+   },
+   "sources": [
+    "https://www.acratech.net/gxp-ball-head/",
+    "https://www.bhphotovideo.com/c/product/1510937-REG/acratech_1207_gxp_ballhead_with_lever.html",
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://shuttermuse.com/acratech-gxp-ball-head-review/",
+    "https://www.fredmiranda.com/forum/topic/1628679/2"
+   ],
+   "scores": {
+    "stability": 9,
+    "portability": 9,
+    "build": 8,
+    "value": 5
+   },
+   "scoreNote": "Maker 50 lb rating at 1 lb, a 60mm base and a 10-year guarantee earn the top marks; one Fred Miranda owner reported two defective panoramic axes, and the price is the highest here.",
+   "owners": {
+    "read": 7,
+    "praise": [
+     "Solid, durable build; a Fred Miranda owner called it superbly crafted and another had no issues in months of use",
+     "Light for its 50 lb rating, with ball, gimbal and leveling-pano modes; ShutterMuse found it stable with no creep at awkward angles and easy to rinse clean of sand",
+     "Lever clamp has an adjustable width to fit different Arca plates and locks so straps do not release it"
+    ],
+    "complaints": [
+     "Clamp is a little heavy and adds height (Fred Miranda)",
+     "One Fred Miranda owner reported two units with a wobbling panoramic axis; another maker-page reviewer found it less smooth than an RRS BH-40",
+     "Switching to pano mode needs tools in the field (ShutterMuse)"
+    ],
+    "sources": [
+     {
+      "title": "Fred Miranda: Loving the Acratech GXP Ballhead",
+      "url": "https://www.fredmiranda.com/forum/topic/1628679/2"
+     },
+     {
+      "title": "ShutterMuse: Acratech GXP Ball Head Review",
+      "url": "https://shuttermuse.com/acratech-gxp-ball-head-review/"
+     },
+     {
+      "title": "Acratech GXP page, buyer reviews (two read in search excerpt)",
+      "url": "https://www.acratech.net/gxp-ball-head/"
+     },
+     {
+      "title": "B&H Acratech GXP product page (reviews: 33, no text read)",
+      "url": "https://www.bhphotovideo.com/c/product/1510937-REG/acratech_1207_gxp_ballhead_with_lever.html",
+      "reviews": 33
+     }
+    ]
+   }
+  }
+ ],
+ "serpProducts": [
+  {
+   "name": "Really Right Stuff BH-40",
+   "pages": [
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://www.photographyandtravel.com/recommended-gear/recommended-tripods-and-ball-heads/"
+   ]
+  },
+  {
+   "name": "Benro GX35",
+   "pages": [
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://www.digitalcameraworld.com/buying-guides/best-ball-heads-for-tripods"
+   ]
+  },
+  {
+   "name": "Acratech GXP",
+   "pages": [
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+    "https://www.reddit.com/r/longrange/comments/1ea628w/which_tripod_ball_head/ (snippet names GXP SS, a smaller different model; borderline)"
+   ]
+  },
+  {
+   "name": "RRS Anvil-30 ARC",
+   "pages": [
+    "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+    "https://www.reddit.com/r/longrange/comments/1ea628w/which_tripod_ball_head/ (snippet)"
+   ]
+  },
+  {
+   "name": "Leofoto (LH-40 / LH-36LR / MA-30L / MA-40, each a different model)",
+   "pages": [
+    "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison (LH-40)",
+    "https://www.digitalcameraworld.com/buying-guides/best-ball-heads-for-tripods (LH-36LR)",
+    "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/ (MA-30L, MA-40)"
+   ]
+  },
+  {
+   "name": "Vanguard Alta BH-250",
+   "pages": [
+    "https://www.digitalcameraworld.com/buying-guides/best-ball-heads-for-tripods"
+   ]
+  }
+ ],
+ "dropped": [
+  {
+   "name": "RRS Anvil-30 ARC",
+   "reason": "Named by Rokslide and (snippet) r/longrange, but no standalone Amazon US listing found, only RRS tripod kits that include it; shooting-rest head."
+  },
+  {
+   "name": "Leofoto LH-40 / LH-36LR / MA-30L / MA-40",
+   "reason": "Each exact model named by only one page."
+  },
+  {
+   "name": "Vanguard Alta BH-250",
+   "reason": "Only Digital Camera World (the other hit is the maker catalog). In sibling brief."
+  },
+  {
+   "name": "Manfrotto XPRO, Manfrotto 494, ProMediaGear BH1, Gitzo GH4383LR, Vanguard Veo BH-160S, Benro FS20PRO, 3 Legged Thing AirHed Pro",
+   "reason": "Digital Camera World only."
+  },
+  {
+   "name": "Arca-Swiss Monoball p0, FLM CB-38FTR, UniqBall UBH 35XC, Colorado Tripod Highline",
+   "reason": "Exploring Exposure only."
+  },
+  {
+   "name": "Demon DB-44, Oben/Feisol/Platypod",
+   "reason": "Photography & Travel only (2018 page)."
+  },
+  {
+   "name": "FlexShooter Pro, Fatboy Invert, Aziak Ridgeline/Front Country, Sunwayfoto IB-30/IB-65, Tricer DZ",
+   "reason": "Shooting-rest heads, one forum/snippet each; Fatboy/Sunwayfoto/Final Rest catalog pages are maker shops, not recommendations."
+  }
+ ]
+}
