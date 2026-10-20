@@ -1158,7 +1158,7 @@
     "publishedAt": "2026-10-19T14:00:40.368Z"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-19T06:31:10.693Z",
     "secondaryKeywords": [
@@ -1193,7 +1193,9 @@
       "camera-tripods-center-column-vibration",
       "camera-tripods-light-tripod-heavy-lens-shake",
       "camera-tripods-cheap-false-economy"
-    ]
+    ],
+    "mergedInto": "/",
+    "note": "2026-10-20: merged into the home page (same intent as \"best tripod\"); draft removed, URL 301s to /."
   },
   {
     "status": "published",

@@ -1,11 +1,10 @@
 {
   "slug": "tripod-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-10-20T13:36:36.102Z",
+  "checkedAt": "2026-10-20T15:01:07.974Z",
   "errors": [],
   "warnings": [
-    "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "keyword overlaps /blog/best-tripod-for-photography/ (\"tripod for wildlife photography\" overlaps \"best tripod for photography\" (100%))"
+    "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,

@@ -5,6 +5,11 @@
       "from": "/authors/damian-barczak/",
       "to": "/authors/editorial-team/",
       "note": "Named reviewer removed by the owner (2026-10-19)"
+    },
+    {
+      "from": "/blog/best-tripod-for-photography/",
+      "to": "/",
+      "note": "2026-10-20: draft never published; same intent as the home page (best tripod), merged into it to avoid cannibalization"
     }
   ]
 }
