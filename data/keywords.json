@@ -508,7 +508,7 @@
     "note": "2026-10-19 SERP gate: no model on 2+ pages."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -540,7 +540,8 @@
     "painPoints": [
       "camera-tripods-leg-joint-lock-failure",
       "travel-tripods-leg-section-count"
-    ]
+    ],
+    "publishedAt": "2026-10-20T20:02:05.101Z"
   },
   {
     "status": "published",
@@ -701,7 +702,7 @@
       "gimbal head vs ball head for wildlife",
       "can a gimbal head go on a monopod"
     ],
-    "priority": 5,
+    "priority": 600,
     "keyword": "best gimbal head for 150-600mm lens",
     "category": "tripod-heads",
     "articleType": "roundup",
@@ -1858,7 +1859,7 @@
     "note": "2026-10-19 SERP gate: 1 editorial page."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -1884,10 +1885,11 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point camera-tripods-leg-joint-lock-failure (uncovered). Live SERP 2026-10-20: YouTube x3, Facebook, kfconcept.com guide, improvephotography.com, dpreview and fredmiranda forum threads, r/AskPhotography, a Pivo support page; no store catalog and no DR 90 publisher wall. Independent articles and forums rank, so winnable. Volume/KD unknown (Ahrefs paused until 2026-11-09).",
-    "slug": "tripod-leg-lock-wont-hold"
+    "slug": "tripod-leg-lock-wont-hold",
+    "publishedAt": "2026-10-20T20:06:16.640Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -1913,7 +1915,8 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point camera-tripods-shutter-press-shake (uncovered). Live SERP: r/AskPhotography, photo.stackexchange, photographylife.com, digital-photography-school.com, dpreview and rfshooters forums, Facebook; no stores. Forums and independent articles; winnable. Keep distinct from the wind-shake post (how-to-stop-tripod-shake-in-wind): this one is shutter, mirror and self-induced vibration. Volume/KD unknown.",
-    "slug": "tripod-shake-when-pressing-shutter"
+    "slug": "tripod-shake-when-pressing-shutter",
+    "publishedAt": "2026-10-20T20:02:40.489Z"
   },
   {
     "status": "pending",
@@ -1973,7 +1976,7 @@
     "slug": "what-height-monopod-do-i-need"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -1998,10 +2001,11 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point travel-tripods-leg-section-count (uncovered). Live SERP: dpreview x1, fredmiranda, photo.net, rokslide, Facebook, reddit/largeformat forums, plus manfrotto.com guide, pictureline and thedigitalprocess blogs. One maker guide, rest forums and independent blogs; winnable. Related to queued 'twist lock vs flip lock tripod legs' but a different question (section count vs lock type); link, do not merge.",
-    "slug": "4-section-vs-5-section-tripod"
+    "slug": "4-section-vs-5-section-tripod",
+    "publishedAt": "2026-10-20T20:01:49.651Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2026,7 +2030,8 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point tripod-heads-gimbal-cheap-vs-premium (uncovered). Live SERP: shuttermuse.com and digitalcameraworld.com roundups, backcountryjourneys.com, B&H explora guide, r/AskPhotography, dpreview, talkphotography, nikonites forums, YouTube, Facebook; no store catalog. Mix of publishers and forums with real product intent; winnable. Queued 'best gimbal head for 150-600mm lens' is the roundup; this is the budget-vs-premium angle, so check SERP overlap at write time.",
-    "slug": "are-cheap-gimbal-heads-any-good"
+    "slug": "are-cheap-gimbal-heads-any-good",
+    "publishedAt": "2026-10-20T20:09:18.075Z"
   },
   {
     "status": "pending",
@@ -2117,7 +2122,7 @@
     "slug": "monopod-for-heavy-telephoto-lens"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2142,7 +2147,9 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point tripod-heads-gimbal-cheap-vs-premium. Live SERP: fredmiranda, talkphotography, bcgforums, nikoncafe forums, shuttermuse.com, backcountryjourneys.com, YouTube, one B&H compare page. Forum and independent dominated; winnable. Model-vs-model comparison is allowed as a two-brand head-to-head, not a single-model navigational query. Adjacent to 'are cheap gimbal heads any good': keep both distinct (one guide, one head-to-head) and link them.",
-    "slug": "wimberley-vs-benro-gimbal-head"
+    "slug": "wimberley-vs-benro-gimbal-head",
+    "mergedInto": "are-cheap-gimbal-heads-any-good",
+    "lastError": "cannibalization: \"wimberley vs benro gimbal head\" overlaps \"cheap gimbal head vs wimberley\" (75%)"
   },
   {
     "status": "pending",
@@ -2225,5 +2232,717 @@
     "source": "no-ahrefs",
     "rationale": "Pain point monopods-wobble-with-gimbal-weight. Live SERP: bcgforums x2, fredmiranda, talkphotography, r/sportsphotography forums, backcountrygallery.com, the-digital-picture.com review, YouTube; the Wimberley maker page and one Amazon page rank (2 of 10). Mostly independent and forums; winnable. Close to 'monopod for heavy telephoto lens' but the question is the head and base wobble; link, do not merge.",
     "slug": "monopod-for-gimbal-head"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.386Z",
+    "secondaryKeywords": [
+      "spotting scope tripod for birding",
+      "tripod for spotting scope under $200",
+      "lightweight tripod for spotting scope hunting"
+    ],
+    "questions": [
+      "what tripod do I need for a spotting scope",
+      "can I use a camera tripod for a spotting scope"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for spotting scope",
+    "category": "tripod-accessories",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for a Spotting Scope: Height, Weight and Head",
+    "cluster": "optics tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): blogs scopesfield, backwoodspursuit, bestbinocularsreviews, transcontinenta plus r/birding, Rokslide forum and a Facebook group; 3 maker/retailer pages (Tricer, Vanguard, Optics4Birding). Weak and forum-heavy; winnable. Queue has deferred head term \"spotting scope tripod\" (same topic, now covered by this longer phrase); keep it off binocular adapters.",
+    "slug": "best-tripod-for-spotting-scope"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "telescope tripod upgrade",
+      "sturdy tripod for small telescope",
+      "best tripod for refractor telescope"
+    ],
+    "questions": [
+      "can I use a camera tripod for a telescope",
+      "how do I make a telescope tripod steadier"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for telescope",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for a Telescope: When a Camera Tripod Is Enough",
+    "cluster": "optics tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/telescopes #1, Cloudy Nights forum, bestbinocularsreviews, space.com, telescopicwatch, YouTube; 4 astronomy stores (OPT, Agena, Astronomics, High Point). Mixed: stores are collection pages, informational posts rank. Borderline; angle = camera tripod for small scopes and spotting-class optics, not mounts.",
+    "slug": "best-tripod-for-telescope"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "astrophotography tripod",
+      "tripod for milky way photography",
+      "tripod for star tracker"
+    ],
+    "questions": [
+      "do you need a special tripod for astrophotography",
+      "how much weight should an astro tripod hold"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for astrophotography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Astrophotography: Stability for Long Exposures",
+    "cluster": "astro and long-lens tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskAstrophotography #1, space.com, skiesandscopes, DPReview forum, Facebook, YouTube, Fstoppers; B&H, Best Buy, High Point are store pages (3). Winnable. Queue has \"best tripod for astrophotography under 3 pounds\" (deferred, weight angle); this is the general buyer guide, link between them.",
+    "slug": "best-tripod-for-astrophotography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "macro tripod low angle",
+      "tripod with reversible center column for macro",
+      "focus rail vs tripod for macro"
+    ],
+    "questions": [
+      "what tripod is best for macro photography",
+      "can you shoot macro handheld"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for macro photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Macro Photography: Low Angles and No Wobble",
+    "cluster": "specialty tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/photography #1, better-digital-photo-tips (old site), Vanguard blog, transcontinenta, iNaturalist forum, photo.stackexchange, Facebook; Adorama and Best Buy collection pages (2). Winnable, forum and old blog heavy.",
+    "slug": "best-tripod-for-macro-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "gopro tripod",
+      "gopro extension pole tripod",
+      "flexible tripod for gopro"
+    ],
+    "questions": [
+      "what tripod works with a gopro",
+      "do I need an adapter to put a gopro on a tripod"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for gopro",
+    "category": "tabletop-mini-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for GoPro: Mini, Flexible and Full-Height Options",
+    "cluster": "action camera tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): 4 store/maker pages (Amazon, Best Buy, Walmart, GoPro) but r/gopro, two Facebook groups, YouTube and improvephotography also rank. Borderline store share; kept because the articles ranking are thin and forum based. Queue has deferred \"gopro tripod mount\" (adapter intent): keep this on tripod choice.",
+    "slug": "best-tripod-for-gopro"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "best budget tripod under $100",
+      "cheap tripod that is actually sturdy",
+      "tripod under 100 for dslr"
+    ],
+    "questions": [
+      "is a $100 tripod good enough",
+      "what is the best tripod for a beginner"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for beginners under 100",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Beginners Under $100: What You Actually Get",
+    "cluster": "budget tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyAlpha #1, digitalcameraworld, YouTube, sidecarphoto, packhacker, Facebook, uniquephoto, momanx, Fstoppers; one Best Buy collection. Mixed-quality roundups; winnable. Queue has \"are cheap tripods worth it for beginners\" (question angle): this one is the roundup, link to it. Avoid prices in body per site rule; frame as under-budget class.",
+    "painPoints": [
+      "camera-tripods-cheap-false-economy"
+    ],
+    "slug": "best-tripod-for-beginners-under-100"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for canon r50 vlogging",
+      "lightweight tripod for canon r50",
+      "canon r50 travel tripod"
+    ],
+    "questions": [
+      "what tripod fits the canon r50",
+      "is the canon r50 too light for a cheap tripod"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for canon r50",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Canon R50: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, two Facebook groups, canonrumors forum x2, packapop, SmallRig and Filmtools product pages, Amazon, Best Buy. Forums and a thin blog dominate; winnable.",
+    "slug": "best-tripod-for-canon-r50"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for sony a7 iv",
+      "travel tripod for sony a7iv",
+      "sony a7iv video tripod"
+    ],
+    "questions": [
+      "what size tripod does a sony a7iv need",
+      "can a lightweight travel tripod hold an a7iv with a 70-200"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for sony a7iv",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony A7 IV: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyAlpha #1, keithknittel, packapop, cameraegg and sony-rumors forums, Facebook, YouTube Shorts; Amazon, B&H and Best Buy listings (3). Winnable; share nothing with the travel tripod post. Differentiate from a7c (compact body) and a7r v (not queued, same intent).",
+    "slug": "best-tripod-for-sony-a7iv"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for canon r6 mark ii",
+      "canon r6 travel tripod",
+      "tripod for canon r6 and 70-200"
+    ],
+    "questions": [
+      "what tripod is best for the canon r6 ii",
+      "does the canon r6 need a heavy tripod"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for canon r6",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Canon R6: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): Facebook, r/canon, packapop, Manfrotto story, B&H, canonrumors forum x2, Amazon, Target, YouTube. Forum/thin blog heavy; winnable. R6 is full-frame, so keep the angle on 24-105 and 70-200 loads, different from the R50/R7/R8 posts.",
+    "slug": "best-tripod-for-canon-r6"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for nikon z6 ii",
+      "tripod for nikon z6iii",
+      "nikon z6 travel tripod"
+    ],
+    "questions": [
+      "what tripod fits a nikon z6",
+      "is a travel tripod enough for the z6 with a 24-120"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for nikon z6",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Nikon Z6: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/nikon_Zseries, Facebook, packapop, YouTube x2, cameraegg forum, bcgforums, photographypanel forum; Adorama list and one Amazon page. Winnable. Z6/Z6II/Z6III full-frame class; keep apart from z50 (APS-C) and z8 (heavy).",
+    "slug": "best-tripod-for-nikon-z6"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for fuji xt5",
+      "travel tripod for fujifilm x-t5",
+      "fujifilm x-t5 tripod with arca swiss plate"
+    ],
+    "questions": [
+      "what tripod works with the fujifilm x-t5",
+      "do fujifilm cameras need a special tripod plate"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for fujifilm x-t5",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Fujifilm X-T5: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/fujifilm #1, packhacker (generic travel), cameraegg forum, Fujifilm own TG-BT1 grip page, Amazon, Best Buy, kentfaith brand page, Facebook, digitalcameraworld generic roundup. Thin and off-topic results; winnable.",
+    "slug": "best-tripod-for-fujifilm-x-t5"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for sony a6400",
+      "sony a6400 vlogging tripod",
+      "travel tripod for sony a6400"
+    ],
+    "questions": [
+      "what tripod is good for the sony a6400",
+      "can the a6400 use a mini tripod for vlogging"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for sony a6400",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony a6400: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): sony-rumors forum #1, Amazon, r/SonyAlpha, Best Buy x2, Facebook, DPReview forum, alphashooters forum, eBay, YouTube. Very weak (forums, stores listings, eBay); easy win.",
+    "slug": "best-tripod-for-sony-a6400"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for sony zv e10",
+      "sony zv-e10 vlogging tripod",
+      "mini tripod for zv-e10"
+    ],
+    "questions": [
+      "what tripod is best for sony zv-e10 vlogging",
+      "is the manfrotto pixi enough for the zv-e10"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for sony zv-e10",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony ZV-E10: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyZVE10 #1, Best Buy, B&H, YouTube x2, Amazon, sony-rumors and cameraegg forums, TikTok, Sony compatibility page. Forums and video; winnable. Vlogging angle: mini tripod versus full-size. Close to the phone vlogging post but different gear.",
+    "slug": "best-tripod-for-sony-zv-e10"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for canon r7",
+      "canon r7 tripod for 100-400",
+      "travel tripod for canon r7"
+    ],
+    "questions": [
+      "what tripod do I need for the canon r7 with the rf 100-400",
+      "does the rf 100-400 need a tripod collar"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for canon r7",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Canon R7: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, Amazon, Facebook, YouTube, canonrumors forum x2, promediagear, cameradecision, rfshooters forum, digitalcameraworld generic. Forums and thin accessory lists; winnable. APS-C with 100-400 and tripod collar question.",
+    "slug": "best-tripod-for-canon-r7"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for nikon z50 ii",
+      "lightweight tripod for nikon z50",
+      "nikon z50 travel tripod"
+    ],
+    "questions": [
+      "what tripod is best for the nikon z50",
+      "can a mini tripod hold a nikon z50 with a 24-200"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for nikon z50",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Nikon Z50: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/nikon_Zseries #1, Nikon fieldscope tripod page, Facebook, Amazon, Kentfaith, camera-rumors forum, TechGearLab generic, DPReview forum, packapop (Z6 page), Adorama. Weak/off-niche; winnable. APS-C; keep apart from z6.",
+    "slug": "best-tripod-for-nikon-z50"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for sony a7c ii",
+      "compact tripod for sony a7c",
+      "sony a7c travel tripod"
+    ],
+    "questions": [
+      "what tripod is best for the sony a7c ii",
+      "can the a7c use a pocket tripod"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for sony a7c",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony A7C: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskPhotography #1, sony-rumors forum, alphashooters accessory list, YouTube, Amazon grip, Facebook, talkphotography forum, digitalcameraworld generic, sonyalphaforum, photographypanel forum. Forums only; easy win. Compact full-frame body: keep angle on small tripods.",
+    "slug": "best-tripod-for-sony-a7c"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "aurora photography tripod",
+      "tripod for photographing northern lights in winter",
+      "best tripod for iceland northern lights"
+    ],
+    "questions": [
+      "what tripod do you need for northern lights",
+      "will a travel tripod work for aurora photography"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for northern lights photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Northern Lights Photography: Cold, Wind and Gloves",
+    "cluster": "astro and long-lens tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/photography #1, davemorrow, kevinpepper, theauroraguy, Facebook, nathab, YouTube, Tripadvisor forum, Cruise Critic forum, Photography Life. No store or listicle; very winnable. Tripod advice is buried in how-to guides. Cold-weather angle: gloves, leg locks, metal vs carbon.",
+    "slug": "best-tripod-for-northern-lights-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for canon r8",
+      "travel tripod for canon r8",
+      "canon r8 tripod for 200-800"
+    ],
+    "questions": [
+      "what tripod do you need for the canon r8",
+      "does the canon r8 need a sturdier tripod because it has no ibis"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for canon r8",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Canon R8: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, Facebook x2, canonrumors forum x2, Amazon, promediagear, cameradecision, YouTube, DPReview forum. Forums only; easy win. R8 has no IBIS so tripod stability angle.",
+    "slug": "best-tripod-for-canon-r8"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "time lapse tripod",
+      "tripod for timelapse video",
+      "best tripod for long time lapse"
+    ],
+    "questions": [
+      "what tripod do I need for time lapse",
+      "how stable does a time lapse tripod need to be"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for time lapse photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Time Lapse: Stability Over Hours",
+    "cluster": "specialty tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): learntimelapse, Best Buy, r/videography, Facebook, Amateur Photographer, Wirecutter (generic), matjoez store blog, YouTube, Medium, TechGearLab. Off-niche and generic roundups, one small niche site; winnable.",
+    "slug": "best-tripod-for-time-lapse-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "food photography tripod overhead",
+      "tripod with horizontal arm for flat lay",
+      "tripod for product photography"
+    ],
+    "questions": [
+      "what tripod do I need for overhead food photos",
+      "can a phone tripod do flat lay food photography"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for food photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Food Photography: Overhead Shots Without the Wobble",
+    "cluster": "specialty tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskPhotography #1, twolovesstudio, reganbaroni, YouTube, Manfrotto story, thelittleplantation, Best Buy, Facebook, foodphotographyblog, foodphotographycoach. Mostly small niche blogs; winnable. Product photography SERP shares ~3 URLs, so it is merged here as a secondary, not queued separately.",
+    "slug": "best-tripod-for-food-photography"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "trekking pole monopod",
+      "monopod walking stick for photography",
+      "lightweight monopod for backpacking"
+    ],
+    "questions": [
+      "can a trekking pole work as a monopod",
+      "what is the lightest monopod for hiking"
+    ],
+    "priority": 600,
+    "keyword": "best monopod for hiking",
+    "category": "monopods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Monopod for Hiking: Trekking Pole Hybrids and Light Carbon",
+    "cluster": "hiking monopods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/photography #1, cascademountaintech, improvephotography (old post), bcgforums, digitalcameraworld, Brunton product page, DPReview forum, betterwithbirds, YouTube, B&H. Mostly forums and old posts; winnable. Avoid overlap with best-monopod-with-feet-for-wildlife-photography: this is the carry weight and trekking-pole angle.",
+    "painPoints": [
+      "monopods-worth-it-vs-tripod"
+    ],
+    "slug": "best-monopod-for-hiking"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "ball head for 100-400mm lens",
+      "ball head for 70-200 f2.8",
+      "ball head vs gimbal for telephoto"
+    ],
+    "questions": [
+      "will a ball head hold a 100-400mm lens",
+      "when do I need a gimbal head instead of a ball head"
+    ],
+    "priority": 600,
+    "keyword": "best ball head for telephoto lens",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Ball Head for a Telephoto Lens: Load, Droop and Lock",
+    "cluster": "ball head and gimbal heads",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): exploringexposure, r/AskPhotography, digitalcameraworld, YouTube, shuttermuse, bcgforums, DPReview review, B&H collection, improvephotography, Facebook. Mix of blogs and forums, one store; winnable. Pain point: heavy telephoto droop. Queue has ball-head-sag how-to and gimbal posts: link, do not merge.",
+    "painPoints": [
+      "tripod-heads-heavy-telephoto-droop"
+    ],
+    "slug": "best-ball-head-for-telephoto-lens"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "gimbal head for 100-400 zoom",
+      "lightweight gimbal head for 100-400",
+      "gimbal head for rf 100-500"
+    ],
+    "questions": [
+      "do I need a gimbal head for a 100-400mm lens",
+      "is a ball head with a gimbal adapter enough for a 100-400"
+    ],
+    "priority": 600,
+    "keyword": "best gimbal head for 100-400mm lens",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Gimbal Head for a 100-400mm Lens: Light Enough to Carry",
+    "cluster": "ball head and gimbal heads",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): DPReview forum #1, Facebook, shuttermuse, r/canon, Zenelli blog, FredMiranda forum, B&H guide, Photography Forum, YouTube, bcgforums. Forums dominate; winnable. Queue has \"best gimbal head for 150-600mm lens\": different lens class and weight, link rather than merge.",
+    "painPoints": [
+      "tripod-heads-gimbal-used-less-than-expected"
+    ],
+    "slug": "best-gimbal-head-for-100-400mm-lens"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for sony a6700",
+      "lightweight tripod for sony a6700",
+      "sony a6700 vlogging tripod"
+    ],
+    "questions": [
+      "what tripod is best for the sony a6700",
+      "is a travel tripod stable enough for the a6700 with the 70-350"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for sony a6700",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony a6700: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyAlpha #1, packapop, sony-rumors forum, YouTube, promediagear, Kentfaith, Facebook, Amazon, alphashooters, Space.com. Forums and thin blogs; winnable. APS-C; keep apart from a6400 post (older body, budget angle) by focusing on the 70-350 and video load.",
+    "slug": "best-tripod-for-sony-a6700"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for nikon z8",
+      "nikon z8 tripod for 180-600",
+      "nikon z8 gimbal head"
+    ],
+    "questions": [
+      "what tripod do you need for a nikon z8 with a 180-600",
+      "is a carbon tripod worth it for the z8"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for nikon z8",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Nikon Z8: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/Nikon #1, Facebook, packapop, transcontinenta, bcgforums, promediagear, Adorama, YouTube, cameraegg forum, camdox. Forums and thin blogs; winnable. Pro body with 180-600/800 PF: keep angle on load capacity and head.",
+    "slug": "best-tripod-for-nikon-z8"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for lumix s5ii",
+      "tripod for panasonic s5 video",
+      "lumix s5 travel tripod"
+    ],
+    "questions": [
+      "what tripod is best for the lumix s5 ii",
+      "does the lumix s5 need a video head"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for panasonic lumix s5",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Panasonic Lumix S5: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/Lumix #1, Facebook, YouTube x2, eBay, cameraegg forum, Best Buy, camera-rumors forum, skiesandscopes, DPReview forum. Forums only; easy win. Covers S5/S5II/S5IIX; video and photo hybrid angle.",
+    "slug": "best-tripod-for-panasonic-lumix-s5"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "tripod for fuji x-s20",
+      "x-s20 vlogging tripod",
+      "fujifilm x-s20 travel tripod"
+    ],
+    "questions": [
+      "what tripod is best for the fujifilm x-s20 vlogging",
+      "is a gorillapod enough for the x-s20"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for fujifilm x-s20",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Fujifilm X-S20: What Holds It Steady",
+    "cluster": "camera-specific tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): Amazon #1, cameraegg forum, photographypanel forum, YouTube, r/fujifilm, cameradecision, Fujifilm grip page, Facebook, packhacker, Best Buy. Forums and accessory lists; winnable. Vlogging angle; X-T5 post covers photo travel angle.",
+    "slug": "best-tripod-for-fujifilm-x-s20"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-20T20:10:20.387Z",
+    "secondaryKeywords": [
+      "wedding videography tripod",
+      "tripod vs monopod for weddings",
+      "lightweight tripod for wedding photographers"
+    ],
+    "questions": [
+      "do wedding photographers use tripods",
+      "what tripod do wedding videographers use"
+    ],
+    "priority": 600,
+    "keyword": "best tripod for wedding photography",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Wedding Photography: When to Use a Monopod Instead",
+    "cluster": "specialty tripods",
+    "source": "no-ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/weddingvideography #1, YouTube x2, CNET generic, luxefilmography, Facebook, alinathomas, Best Buy, B&H explora guide, DPReview forum. Forums, small blogs and videos; winnable. Link to monopod vs tripod post.",
+    "slug": "best-tripod-for-wedding-photography"
   }
 ]
