@@ -1,11 +1,16 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-10-20T17:15:49.453Z",
+  "checkedAt": "2026-10-20T19:03:06.800Z",
   "errors": [],
   "warnings": [
     "product \"Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.birdforum.net/threads/3-tripod-adapters-for-the-nl-pure.403184/",
+    "source didn't respond normally (403): https://www.birdforum.net/threads/binocular-tripod-adapters.402580/",
+    "source didn't respond normally (403): https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/",
+    "source didn't respond normally (403): https://rokslide.com/forums/threads/best-backcountry-bino-mount.369491/",
+    "source didn't respond normally (403): https://rokslide.com/forums/threads/field-optics-research-rapid-release-binocular-tripod-adapter-gen-2.166695/"
   ],
   "factCheck": {
     "verified": true,

@@ -1,9 +1,15 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-20T19:00:12.949Z",
+  "checkedAt": "2026-10-20T19:03:08.581Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Re-opened K&F, Outdoorsmans, SmallRig, Ulanzi via Firecrawl: Outdoorsmans wind/top-heavy and 10-year-old carbon parts confirmed; SmallRig AP-10 'removing the center column entirely to shave weight' (1.18 vs 1.25 kg AP-20) confirmed; Ulanzi only says backpackers->carbon, rough terrain->aluminum, SmallRig says car-based->aluminum, so reworded the trip-split sentence; corrosion row sourced to K&F/Ulanzi (aluminum can corrode, esp. salt/harsh weather) and softened. Verified all 6 forum quotes verbatim at DPReview/Stack Exchange via Firecrawl; Reddit thread confirmed by title only, so removed the 'packers skip tripod' claim detail; removed unverified 'reply suggests carbon' claim. No prices, we voice, title shortened under 70 chars.",

@@ -1,7 +1,7 @@
 {
   "slug": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-10-20T10:52:28.018Z",
+  "checkedAt": "2026-10-20T19:02:14.385Z",
   "errors": [],
   "warnings": [
     "body has 2119 words, over the 1495 limit (top results average 1300): cut repetition and filler",
@@ -9,6 +9,7 @@
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html",
+    "source didn't respond normally (no response): https://discovercameras.com/ulanzi-mt-16-review/",
     "source didn't respond normally (403): https://www.fullcompass.com/prod/660129-smallrig-sr-but2664-smallrig-tabletop-mini-tripod-w-panoramic-ball-head",
     "source didn't respond normally (403): https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/"
   ],
