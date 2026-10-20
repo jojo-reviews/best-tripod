@@ -1,0 +1,13 @@
+{
+ "_note": "Searched 'mini ball head' via Firecrawl on 2026-10-20. The top organic results are: Leofoto collection page, Amazon search (skip), Really Right Stuff micro ball heads catalog, Novoflex MagicBall Mini maker page (appears twice, same page), Glide Gear shop page, YouTube video (skip), Ulanzi collection, Moman BH02 maker page (twice), Beastgrip BH-50 maker page, Neewer maker page, Sunwayfoto collection, SmallRig product page, Digital Camera World ball-head guide (general ball heads, no mini section read). Every result except Digital Camera World is a maker catalog, shop page, Amazon or video, all excluded by the owner rule, so no product is recommended by 2+ independent live top-10 organic pages. products is therefore empty (minimum for a roundup is 3). Related-query pages (forums, Wirecutter snippet, ShutterMuse) name candidates but are not top-10 pages for this keyword; they are listed in serpProducts as near-misses only. Specs, owner research and maker-page verification were NOT done for these because they do not qualify.",
+ "products": [],
+ "serpProducts": [],
+ "nearMisses": [
+  {"name": "Leofoto MBC-20", "pages": ["https://www.fredmiranda.com/forum/topic/1915681/0", "https://www.dpreview.com/forums/threads/good-compact-ball-head-for-travel-tripod.4615629/"], "why": "forum threads from related queries, not top-10 for 'mini ball head'"},
+  {"name": "Sunwayfoto PMB-18", "pages": ["https://www.fredmiranda.com/forum/topic/1915681/0", "https://www.dpreview.com/forums/threads/good-compact-ball-head-for-travel-tripod.4615629/"], "why": "same"},
+  {"name": "Really Right Stuff BPC-16", "pages": ["https://www.fredmiranda.com/forum/topic/1915681/0", "https://www.dpreview.com/forums/threads/good-compact-ball-head-for-travel-tripod.4615629/"], "why": "same; RRS listed out of stock in 2021 thread, check current status"},
+  {"name": "Colorado Tripod Company Highline Mini", "pages": ["https://shuttermuse.com/colorado-tripod-company-highline-mini-ball-head-review/", "https://www.fredmiranda.com/forum/topic/1915681/0"], "why": "ShutterMuse notes it may no longer be sold on Amazon; FM owner says the small head is no longer on the maker site"},
+  {"name": "Leofoto LH-25", "pages": ["https://www.fredmiranda.com/forum/topic/1915681/0"], "why": "one page only"},
+  {"name": "Leofoto F-19 Micro Mini Ball Head", "pages": ["https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/"], "why": "one page, search snippet only"}
+ ]
+}

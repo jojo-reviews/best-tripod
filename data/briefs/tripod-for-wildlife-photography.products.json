@@ -1,0 +1,80 @@
+{
+ "_note": "SERP for 'tripod for wildlife photography' read via Firecrawl on 2026-10-20. Top 10 organic: 1 Gitzo maker article (read; maker content, not counted), 2 Sirui store collection (maker catalog, skipped), 3 Reddit r/AskPhotography thread (blocked for full text; only the search snippet seen, which names Leofoto Ranger Pro LS-284C), 4 Better With Birds guide (read; names no tripod models), 5 YouTube (skipped), 6 B&H category page (shop, skipped), 7 schultzphoto.com (read; buying advice only, no models named except an unnamed Manfrotto), 8 Facebook group post (login wall; snippet only, names Mefoto, K&F Concept, Leofoto), 9 BCG Forums thread (read in full; names Gitzo Systematic 3-series/Mountaineer, RRS, Leofoto LS324CX, Leofoto Ranger-225CEX), 10 Shutter Muse head guide (read; heads only, RRS TVC-34L Mk2 mentioned in passing). Only the Leofoto Ranger carbon line is named by 2+ countable pages (Reddit, BCG; Facebook snippet as a third), so productCount is lowered from 6 to 1. The pages name different Ranger models (Reddit LS-284C Pro, BCG LS-324CX and Ranger-225CEX); LS-284C is the 4-section member Reddit named and the one with the most owner write-ups, but this is a family match, not an identical-model match across pages. Maker page read: leofoto.net LS-284C kit (includes LH-30 ball head); B&H LS-284CX page read for the variant with the improved latch. IMPORTANT FIT CAVEAT: this is a travel-class tripod, 47 in without column; an owner on Fred Miranda called it too short for telephoto use unless the photographer is short, so it suits 100-400/150-600 class zooms, not 500-600mm primes.",
+ "products": [
+  {
+   "name": "Leofoto LS-284C Ranger",
+   "brand": "Leofoto",
+   "query": "Leofoto LS-284C Ranger carbon fiber tripod",
+   "matchName": "Leofoto LS-284C",
+   "badge": "Best lightweight carbon pick for telephoto zooms",
+   "summary": "A 4-section, 28 mm carbon fiber tripod rated for 10 kg (22 lb) that weighs about 2.4 lb as bare legs and folds to roughly 18-19 in. It is the Leofoto Ranger model most often named in wildlife and landscape threads, and it holds 100-400mm class telephoto zooms well, but its 47 in height without the column is short for long-lens work.",
+   "renterNote": "Hikers and bird or wildlife shooters carrying a mirrorless or DSLR body with a 100-400mm or 150-600mm zoom who want a light carbon tripod; the key caveat is height (about 47 in without the screw-in column, so tall shooters raise the column) and that supertelephoto primes like a 600mm f/4 need a larger Leofoto series or a gimbal-capable tripod.",
+   "pros": [
+    "10 kg (22 lb) rated load on 10-layer carbon fiber legs with a bare-legs weight near 2.4 lb",
+    "Folds to about 18-19 in and the leg angles lock at 23, 55 and 85 degrees for low ground-level shots",
+    "Screw-in center column is optional, so you can leave it at home or add height when needed"
+   ],
+   "cons": [
+    "Height is about 47 in without the column (about 60 in with it), which owners find short for long telephoto lenses",
+    "Twist leg locks are not sealed against dust or water, and the lower leg sections can flex under hand pressure"
+   ],
+   "facts": [
+    "Maker (Leofoto kit page): LS-284C Ranger, load 10 kg, max working height 1,270 mm without ball head and center column, max height 128 cm, carrying length 53 cm, twist locks, rubber foot/spike combination, weight 1.43 kg with LH-30 ball head",
+    "B&H lists the LS-284CX variant at 22 lb / 10 kg, 3.1 to 65 in working height, 19 in closed, 2.4 lb, 4 sections, 23/55/85 degree leg angles, twist locks",
+    "Lonely Speck: 50 in with ball head and legs fully extended, 60.4 in with the center column, LH-30 ball head rated 33 lb by Leofoto"
+   ],
+   "specs": {
+    "Weight": "About 2.4 lb (1.1 kg) legs only; 1.43 kg (3.1 lb) with LH-30 ball head per maker and Lonely Speck",
+    "Material": "10-layer carbon fiber legs, CNC 6061-T6 aluminum parts",
+    "Max height (column raised)": "About 60 in (maker/owner figures; B&H lists the CX at 64.6 in)",
+    "Max height (column down)": "About 47 in (127 mm is the maker's 1,270 mm; about 50 in with ball head)",
+    "Min height": "About 2.75 in at the 85 degree leg angle (Fred Miranda owner)",
+    "Folded length": "About 18.7 in (B&H, CX); 53 cm carrying length with head (maker)",
+    "Load capacity": "10 kg (22 lb)",
+    "Leg sections": "4",
+    "Leg lock": "Twist (quarter-turn)",
+    "Head": "Kit version includes LH-30 ball head (15 kg per maker); legs-only versions exist",
+    "Plate": "Arca-Swiss compatible on the LH-30 head"
+   },
+   "scores": { "stability": 7, "portability": 9, "height": 5, "build": 8, "value": 9 },
+   "scoreNote": "Stability 7: owners found a 400mm zoom steady, but the legs flex when pressed and long primes want a bigger tripod. Portability 9: about 2.4 lb legs and under 20 in folded. Height 5: 47 in without the column is short for telephoto work. Build 8: 10-layer carbon, CNC aluminum, replaceable feet, but unsealed locks. Value 9: carbon at a mid-range price with spikes, case and column included.",
+   "owners": {
+    "read": 3,
+    "praise": [
+      "Stiff and steady with 100-400mm class zooms and a heavy 105mm prime, with vibration settling in a couple of seconds",
+      "Very small folded size and light enough to strap to a pack or carry-on",
+      "Smooth leg extension, secure twist locks and a quick-attach center column that owners found stable"
+    ],
+    "complaints": [
+      "Too short without the center column for taller shooters or long telephoto setups",
+      "Lower leg sections flex when pressed hard, and twist locks are not sealed against dust or water"
+    ],
+    "sources": [
+      { "title": "Fred Miranda forums: Review of Leofoto LS-284C Carbon Fiber Tripod (owner thread)", "url": "https://www.fredmiranda.com/forum/topic/1534140/" },
+      { "title": "Lonely Speck: Leofoto LS-284CX Carbon Fiber Travel Tripod Review (two owners)", "url": "https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/" },
+      { "title": "Backcountry Gallery Photography Forums: Tripods (owner of the larger Leofoto LS-324CX with Z8 and 600mm PF)", "url": "https://bcgforums.com/threads/tripods.42515/" }
+    ]
+   },
+   "sources": [
+    "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599",
+    "https://www.bhphotovideo.com/c/product/1842903-REG/leofoto_ls_284cx_carbon_fiber_tripod.html",
+    "https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
+    "https://www.fredmiranda.com/forum/topic/1534140/",
+    "https://bcgforums.com/threads/tripods.42515/",
+    "https://www.reddit.com/r/AskPhotography/comments/1ozi5va/best_tripod_for_landscape_wildlife_photography/"
+   ]
+  }
+ ],
+ "serpProducts": [
+  { "name": "Leofoto Ranger carbon series (LS-284C Pro on Reddit; LS-324CX / Ranger-225CEX on BCG)", "pages": [
+    "https://www.reddit.com/r/AskPhotography/comments/1ozi5va/best_tripod_for_landscape_wildlife_photography/",
+    "https://bcgforums.com/threads/tripods.42515/",
+    "https://www.facebook.com/groups/beginnersphotographygroup/posts/9603135716400941/" ] }
+ ],
+ "dropped": [
+  { "name": "Gitzo Systematic 3-series / Mountaineer", "reason": "Named by BCG forum and the Gitzo maker article only (maker pages do not count); Facebook only as a snippet; Gitzo owner thread also flags service/parts concerns." },
+  { "name": "Really Right Stuff TVC-34L / carbon series", "reason": "Passing mention on Shutter Muse (head article) and unspecified RRS carbon on BCG; no matching model across two tripod recommendations." },
+  { "name": "Mefoto, K&F Concept, Manfrotto", "reason": "Facebook snippet only, or unnamed model (schultzphoto); not verifiable on 2+ readable pages." },
+  { "name": "Gimbal/ball heads (RRS PG-02, FlexShooter, Acratech, Tomahawk)", "reason": "Heads, not tripods; single page." }
+ ]
+}

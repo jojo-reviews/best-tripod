@@ -1,0 +1,420 @@
+{
+  "centralEntity": "mini ball head",
+  "entityVariants": [
+    "micro ball head",
+    "small ball head",
+    "compact ball head",
+    "tiny ball head",
+    "mini ballhead",
+    "mini tripod ball head",
+    "tabletop ball head"
+  ],
+  "entities": [
+    {
+      "name": "Leofoto mini ball heads",
+      "type": "brand/product",
+      "relation": "budget mini heads with cold shoe adapter"
+    },
+    {
+      "name": "Novoflex mini tripod accessory ball head",
+      "type": "product",
+      "relation": "small head for cameras, phone holders, lights, mics"
+    },
+    {
+      "name": "Ulanzi ball heads",
+      "type": "brand",
+      "relation": "video-rig and vlogging mini heads"
+    },
+    {
+      "name": "Glide Gear mini ball head",
+      "type": "product",
+      "relation": "about $10 videographer mini head"
+    },
+    {
+      "name": "Really Right Stuff micro ball heads",
+      "type": "brand/product",
+      "relation": "premium Arca-compatible micro heads"
+    },
+    {
+      "name": "24 g ultralight BallHead",
+      "type": "product",
+      "relation": "lightest bare ball, 3.3 lb max load"
+    },
+    {
+      "name": "Acratech GXP",
+      "type": "product",
+      "relation": "full-size benchmark in the top ball head comparison"
+    },
+    {
+      "name": "1/4\"-20 thread",
+      "type": "standard",
+      "relation": "mount thread on nearly every mini head"
+    },
+    {
+      "name": "3/8\"-16 thread",
+      "type": "standard",
+      "relation": "larger tripod thread needing a bushing"
+    },
+    {
+      "name": "Arca-Swiss clamp",
+      "type": "standard",
+      "relation": "quick-release format on better mini heads"
+    },
+    {
+      "name": "cold shoe adapter",
+      "type": "component",
+      "relation": "mounts mics and lights"
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera body",
+      "relation": "realistic payload"
+    },
+    {
+      "name": "mini tripod",
+      "type": "companion",
+      "relation": "most common host for a mini head"
+    },
+    {
+      "name": "panoramic head",
+      "type": "use case",
+      "relation": "small pano heads paired with compact tripods"
+    }
+  ],
+  "attributes": [
+    "weight",
+    "max load (rated vs real)",
+    "base diameter",
+    "ball diameter",
+    "thread size",
+    "clamp type (screw, lever, Arca)",
+    "friction control",
+    "pan base",
+    "bubble level",
+    "cold shoe",
+    "material (aluminum, zinc)",
+    "price",
+    "bare ball vs clamp head"
+  ],
+  "ngrams": [
+    "mini ball head",
+    "ball head for mini tripod",
+    "max load",
+    "1/4-20 thread",
+    "quick release plate",
+    "tripod ball head",
+    "360 degree rotation",
+    "cold shoe",
+    "lightweight ball head",
+    "action camera",
+    "micro ball head",
+    "aluminum alloy",
+    "load capacity",
+    "tabletop tripod",
+    "arca swiss"
+  ],
+  "skipgrams": [
+    "ball\u2026head",
+    "mini\u2026tripod",
+    "max\u2026load",
+    "quick\u2026release",
+    "head\u2026sag",
+    "load\u2026capacity",
+    "plate\u2026twist",
+    "1/4\u2026thread",
+    "friction\u2026control",
+    "camera\u2026mount"
+  ],
+  "nlpTerms": [
+    "ball head",
+    "load capacity",
+    "sag",
+    "creep",
+    "friction knob",
+    "panning",
+    "clamp",
+    "quick release",
+    "Arca-Swiss",
+    "1/4-20",
+    "3/8-16",
+    "tabletop",
+    "mirrorless",
+    "action camera",
+    "microphone",
+    "LED light",
+    "phone holder",
+    "weight",
+    "aluminum",
+    "level",
+    "adapter",
+    "payload",
+    "travel",
+    "ultralight"
+  ],
+  "questions": [
+    "What is the best mini ball head?",
+    "How much weight can a mini ball head hold?",
+    "Will a mini ball head hold a mirrorless camera?",
+    "What thread does a mini ball head use?",
+    "Can I put a mini ball head on a mini tripod?",
+    "Mini ball head vs full-size ball head?",
+    "Why does my small ball head sag?",
+    "Do I need an Arca-Swiss mini ball head?"
+  ],
+  "contentGaps": [
+    "rated load vs what actually holds a mirrorless body plus lens without sag (top results dismiss load ratings as arbitrary or ignore them)",
+    "which mini heads suit which job: tabletop vlogging, ultralight hiking, mic or light mounting, pano",
+    "bare 24 g ball vs clamp head tradeoff",
+    "1/4-20 vs 3/8-16 and adapter issues",
+    "screw-knob vs lever or Arca clamp on small heads and plate twist",
+    "SERP is mostly shop collection pages, so no honest side-by-side of mini heads exists"
+  ],
+  "commonPoints": [
+    "Weight and size are why you buy a mini head",
+    "Max load ratings are the key spec",
+    "Nearly all use a 1/4-20 mount and a quick-release plate",
+    "Lever clamps beat screw knobs for holding the camera",
+    "Price runs from about $10 to several hundred dollars, and premium brands hold up better",
+    "Match the head to the camera weight"
+  ],
+  "ourGain": [
+    {
+      "point": "Rated-load reality check: size the head at roughly double your rig weight, with the sag test to run at home",
+      "source": "pain point tripod-heads-mini-head-rated-load-sag; r/AskPhotography owner: 'slightly exceeded my weight requirements but I get enough sag'"
+    },
+    {
+      "point": "Pick by job, not by brand: tabletop video, ultralight hiking, mic or light mount, compact pano, each with one best-fit pick",
+      "source": "nobody in the SERP splits mini heads by use; results are shop collection pages and one full-size comparison"
+    },
+    {
+      "point": "Bare 24 g ball vs clamp head: what you save in grams and give up in control and safety",
+      "source": "r/Ultralight thread praising the 24 g ball head; Amazon listing 3.3 lb max load"
+    },
+    {
+      "point": "Clamp and plate trap: screw knob drops cameras, generic plates twist, and what to do about it",
+      "source": "exploringexposure: 'I have had my camera fall off using a screw knob multiple times'; pain point tripod-heads-plate-loosens-or-twists"
+    },
+    {
+      "point": "Thread check: 1/4-20 vs 3/8-16 and which adapters you need before ordering",
+      "source": "gap across top results; product pages list thread only in specs"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tripod-heads-mini-head-rated-load-sag",
+      "pain": "A mini ball head's rated load looks fine on paper, but it sags once a real mirrorless body and lens is mounted",
+      "details": "Buyers pick a tiny head for weight or travel, then find that a head rated slightly above the rig still creeps. Ultralight hikers like the 24 g bare ball head but accept it only for light loads.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/",
+        "https://www.reddit.com/r/Ultralight/comments/1ms9l39/ultralight_camera_tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "I bought a ball head that slightly exceeded my weight requirements but I get enough sag that it frustrates me significantly.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/"
+        },
+        {
+          "text": "I really like the small 24g ball head",
+          "url": "https://www.reddit.com/r/Ultralight/comments/1ms9l39/ultralight_camera_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-ballhead-sag-after-locking",
+      "pain": "Ball head sags or creeps after I tighten it, so my framing drifts",
+      "details": "Landscape and telephoto shooters lock the head, let go, and the camera drops or slowly slides, ruining careful composition. Replies blame head size, a loose lens collar, flex in the legs, or suggest a geared head.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+        "https://www.fredmiranda.com/forum/topic/410699/1",
+        "https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/",
+        "https://www.reddit.com/r/photography/comments/of3hj/tripod_head_creep_or_the_slight_movement_after/"
+      ],
+      "quotes": [
+        {
+          "text": "There is a limited amount of sag even in a very good ball head.",
+          "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+        },
+        {
+          "text": "After I fix the position and tighten all the knobs, it sags a bit when the camera is facing downwards (45 degrees).",
+          "url": "https://www.fredmiranda.com/forum/topic/410699/1"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-plate-loosens-or-twists",
+      "pain": "Quick-release plate keeps loosening or the camera twists on the plate",
+      "details": "Single-screw generic plates without an anti-twist lip work loose, and shooters on Arca-Swiss clamps report the plate rotating or loosening on bodies and lens collars. Advice: anti-twist plates, thread locker, and loosening the head before moving the camera.",
+      "sources": [
+        "https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/",
+        "https://www.reddit.com/r/AskPhotography/comments/1sc1xr0/how_fix_arca_swiss_plate_loosening_from_camera/"
+      ],
+      "quotes": [
+        {
+          "text": "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time.",
+          "url": "https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/"
+        },
+        {
+          "text": "With any type of tripod you are supposed to loosen the head first, move the camera, then tighten it down again.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1sc1xr0/how_fix_arca_swiss_plate_loosening_from_camera/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-fine-framing-shifts-on-tightening",
+      "pain": "Small framing tweaks on a ball head mean loosening it and the camera flops or shifts",
+      "details": "Photographers who want to nudge the angle slightly must unlock the whole head, so the camera goes free and moves again when re-locked. Geared heads are the usual suggestion.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/",
+        "https://www.fredmiranda.com/forum/next/1010185",
+        "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+      ],
+      "quotes": [
+        {
+          "text": "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head.",
+          "url": "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/"
+        },
+        {
+          "text": "The only solution I can think of is to use a geared head which doesn't require touching the camera at all.",
+          "url": "https://www.fredmiranda.com/forum/next/1010185"
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "h2": "Best mini ball heads at a glance",
+      "intent": "quick pick table: weight, rated load, clamp, thread, price, best job",
+      "h3": []
+    },
+    {
+      "h2": "How we picked and what a mini head can really hold",
+      "intent": "rated load vs real sag, double-the-weight rule, short common-points recap",
+      "h3": [
+        "Rated load vs real load",
+        "Weight, size and thread"
+      ]
+    },
+    {
+      "h2": "Best mini ball head for tabletop and video rigs",
+      "intent": "specs-style entries",
+      "h3": []
+    },
+    {
+      "h2": "Best mini ball head for hiking and ultralight kits",
+      "intent": "specs-style entries incl. 24 g bare ball",
+      "h3": [
+        "Bare ball vs clamp head"
+      ]
+    },
+    {
+      "h2": "Best premium micro ball head",
+      "intent": "Arca-compatible, lever clamp, cold-weather reliability",
+      "h3": []
+    },
+    {
+      "h2": "Best cheap mini ball head for mics and lights",
+      "intent": "budget picks, cold shoe adapters",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "answer pain points: sag, creep, plate twist, fine framing",
+      "h3": [
+        "Sag with a mirrorless and lens",
+        "Plate keeps loosening or twisting",
+        "Fine framing without flopping"
+      ]
+    },
+    {
+      "h2": "Mini ball head FAQ",
+      "intent": "PAA questions",
+      "h3": []
+    }
+  ],
+  "targetWords": 950,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "https://novoflexus.com/mini-tripod-accessory-ball-head/",
+      "https://leofotousa.com/collections/mini-ball-heads",
+      "https://glidegear.net/products/glide-gear-mini-ball-head",
+      "https://reallyrightstuff.com/micro-ball-heads/"
+    ],
+    "productStyle": "specs",
+    "productStyleReason": "The SERP is shop pages and spec-led comparisons where weight, load, thread and price decide; the one editorial article (Exploring Exposure) ranks by spec categories with a winner each. Specs lines with a short verdict fit a short roundup.",
+    "avgWords": 900,
+    "avgProducts": 6,
+    "commonSections": [
+      "features",
+      "price",
+      "weight",
+      "load capacity",
+      "clamp",
+      "conclusion"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/mini-ball-head/s?k=mini+ball+head",
+      "title": "Mini Ball Head"
+    },
+    {
+      "position": 2,
+      "url": "https://novoflexus.com/mini-tripod-accessory-ball-head/",
+      "title": "Mini Tripod Accessory Ball Head"
+    },
+    {
+      "position": 3,
+      "url": "https://leofotousa.com/collections/mini-ball-heads",
+      "title": "Mini Ball Heads"
+    },
+    {
+      "position": 4,
+      "url": "https://www.ulanzi.com/collections/ballhead",
+      "title": "Camera Ball Heads | Achieve Steady Shots Effortlessly"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=2tvA4XU959Y",
+      "title": "Mighty Mini Ball Head -A Must For Every Kit"
+    },
+    {
+      "position": 6,
+      "url": "https://glidegear.net/products/glide-gear-mini-ball-head",
+      "title": "Glide Gear Mini Ball Head for Sale"
+    },
+    {
+      "position": 7,
+      "url": "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "title": "Ultimate Camera Ball Head Comparison"
+    },
+    {
+      "position": 8,
+      "url": "https://reallyrightstuff.com/micro-ball-heads/",
+      "title": "Micro Ball Heads"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=TP0Ohr3eh_U",
+      "title": "Top 5 Mini Ball Head Tripod Mounts in 2023"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": true,
+    "withYear": false,
+    "withNumber": false,
+    "commonModifiers": [
+      "Accessory",
+      "Tripod",
+      "Camera",
+      "Ultimate",
+      "Top 5",
+      "Best"
+    ],
+    "gap": "No ranking title says 'best', a year, or a use case; a plain 'Best Mini Ball Heads (2026): Tested by Load and Weight' style title stands out against shop-collection titles."
+  }
+}

@@ -1232,7 +1232,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-19"
     },
-    "slug": "tripod-for-wildlife-photography"
+    "slug": "tripod-for-wildlife-photography",
+    "note": "2026-10-20: SERP is guides; only Leofoto LS-284C qualifies, written as a guide with 1 product."
   },
   {
     "status": "deferred",
@@ -1315,7 +1316,7 @@
     "note": "2026-10-19 SERP gate: no model on 2+ pages."
   },
   {
-    "status": "pending",
+    "status": "deferred",
     "attempts": 0,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [],
@@ -1342,7 +1343,8 @@
       "source": "ahrefs site-explorer-organic-keywords us",
       "date": "2026-10-19"
     },
-    "slug": "mini-ball-head"
+    "slug": "mini-ball-head",
+    "note": "2026-10-20: SERP is maker catalogs/shops; no product recommended by 2+ independent top-10 pages. Retry as \"best small ball head for travel\" or after SERP changes."
   },
   {
     "status": "deferred",
