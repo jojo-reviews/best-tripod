@@ -612,7 +612,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -647,7 +647,8 @@
       "camera-tripods-soft-ground-slipping",
       "camera-tripods-weighing-down-for-stability",
       "camera-tripods-wind-vibration"
-    ]
+    ],
+    "publishedAt": "2026-10-20T13:40:52.048Z"
   },
   {
     "status": "pending",

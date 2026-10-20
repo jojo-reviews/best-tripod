@@ -1,13 +1,13 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
-  "pass": false,
-  "checkedAt": "2026-10-20T13:36:37.538Z",
-  "errors": [
-    "body has 866 words, over the 834 limit (top results average 725): cut repetition and filler",
-    "facts not verified yet: check every product spec and claim against the sources, then run `node scripts/routine.mjs factcheck <slug> \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-10-20T13:40:30.592Z",
+  "errors": [],
   "warnings": [],
   "factCheck": {
-    "verified": false
+    "verified": true,
+    "notes": "Re-opened Photography Life (author: hung bag swings, rope/bungee to grounded bag; commenters: ground screw, stone bag, inertia counterargument, hood/strap removal, lee side), G Dan Mitchell (10 lb reader quote, redundant exposures, Point Reyes, hood/strap, lee), Unique Photo and Photography SE 48020 (weights on center pole, head twist, over-provisioned head, shield, remote, IS test, stacking), SE 94720 (wind quote verbatim, hook, spikes/rubber, thick sections first), SE 125034 (Grass is not stable, exposure delay quote verbatim, lens collar, mirror slap), dpreview 4678070 (hook quote verbatim), reddit 15gbgj8 (quote confirmed via search excerpt). Fixed: attributed inertia/sway disagreement correctly, removed unsupported 200-600mm dpreview claim and carbon-damping claim, removed only-first-second and less-leg-and-lens claims, removed field-rule experience wording, reframed From our notes as an explicit made-up case, not a trial. No prices, no named reviewer.",
+    "at": "2026-10-20T13:40:29.976Z",
+    "hash": "4d7be2e7b4eca0c7"
   }
 }
