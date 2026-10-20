@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:02:16.032Z",
+  "updatedAt": "2026-10-20T20:05:21.436Z",
   "categories": {
     "camera-tripods": [
       {
@@ -1633,7 +1633,9 @@
         "keywords": [
           "best gimbal head for 150-600mm lens"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "are-cheap-gimbal-heads-any-good"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1679,7 +1681,9 @@
         "keywords": [
           "best gimbal head for 150-600mm lens"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "are-cheap-gimbal-heads-any-good"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1716,7 +1720,8 @@
           "tripod for wildlife photography"
         ],
         "coveredBy": [
-          "best-monopod-with-feet-for-wildlife-photography"
+          "best-monopod-with-feet-for-wildlife-photography",
+          "are-cheap-gimbal-heads-any-good"
         ],
         "foundAt": "2026-10-19"
       },
@@ -1758,6 +1763,62 @@
           "mini ball head"
         ],
         "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "tripod-heads-cheap-gimbal-stiff-bushings",
+        "pain": "Cheap gimbal heads feel stiff or have play because they use plastic bushings and sticky grease instead of bearings",
+        "details": "Owners of Beike-type and other low-cost gimbals report nylon or plastic bushings, a mix of play and stiffness, sticky grease and crude locks; some regrease them or fit ball races to smooth the motion.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/",
+            "platform": "forum",
+            "title": "Cheap Gimbal Heads",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/",
+            "platform": "forum",
+            "title": "Cheap Gimbal Head",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/",
+            "platform": "forum",
+            "title": "Inexpensive Gimbal Head",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+            "platform": "forum",
+            "title": "Gimbals for 180-600 and wildlife",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Pretty much as Joe says, they do the job but without any finesse.",
+            "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/",
+            "via": "page"
+          },
+          {
+            "text": "i think the main area of cheapness is nylon bushes instead of bearings.",
+            "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "are cheap gimbal heads any good",
+          "cheap gimbal head stiff",
+          "beike bk-45 review"
+        ],
+        "keywords": [
+          "are cheap gimbal heads any good"
+        ],
+        "coveredBy": [
+          "are-cheap-gimbal-heads-any-good"
+        ],
         "foundAt": "2026-10-20"
       }
     ],

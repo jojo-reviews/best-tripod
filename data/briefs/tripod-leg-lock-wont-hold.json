@@ -1,0 +1,439 @@
+{
+  "centralEntity": "tripod leg lock",
+  "entityVariants": [
+    "leg lock",
+    "twist lock",
+    "flip lock",
+    "tripod leg",
+    "leg locks"
+  ],
+  "entities": [
+    {
+      "name": "twist lock",
+      "type": "leg lock type",
+      "relation": "threaded collar that squeezes compression rings around the inner tube"
+    },
+    {
+      "name": "flip lock",
+      "type": "leg lock type",
+      "relation": "cam lever clamp whose tension is set by a nut or screw"
+    },
+    {
+      "name": "compression ring",
+      "type": "part",
+      "relation": "plastic shim inside a twist lock that grips the tube; worn, missing or misaligned rings cause slipping"
+    },
+    {
+      "name": "anti-twist sleeve",
+      "type": "part",
+      "relation": "sleeve that keeps leg sections from spinning; sized per section"
+    },
+    {
+      "name": "tension nut",
+      "type": "part",
+      "relation": "lock nut or screw that sets flip lock clamping force"
+    },
+    {
+      "name": "leg angle joint",
+      "type": "part",
+      "relation": "hinge where the leg meets the apex; loose axle screws make legs floppy"
+    },
+    {
+      "name": "hex key",
+      "type": "tool",
+      "relation": "adjusts angle-joint screws and some flip locks"
+    },
+    {
+      "name": "nut driver",
+      "type": "tool",
+      "relation": "turns the tension nut on many flip locks"
+    },
+    {
+      "name": "marine grade grease",
+      "type": "lubricant",
+      "relation": "maker-recommended grease for twist-lock threads and joints"
+    },
+    {
+      "name": "blue thread locker",
+      "type": "material",
+      "relation": "keeps angle-joint screws from backing out while staying removable"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg tube material; damaged by forcing a stuck section"
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "leg tube material"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "flip-lock tripods with adjustable nuts"
+    },
+    {
+      "name": "Feisol",
+      "type": "brand",
+      "relation": "publishes a twist-lock care manual"
+    },
+    {
+      "name": "Really Right Stuff",
+      "type": "brand",
+      "relation": "publishes tripod maintenance steps"
+    },
+    {
+      "name": "sand",
+      "type": "contaminant",
+      "relation": "grit in the lock reduces grip and jams sections"
+    },
+    {
+      "name": "salt water",
+      "type": "contaminant",
+      "relation": "residue that needs rinsing and drying"
+    }
+  ],
+  "attributes": [
+    "lock type (twist or flip)",
+    "number of leg sections",
+    "lock material (metal or plastic)",
+    "compression ring condition",
+    "flip lock tension",
+    "angle joint tension",
+    "tube material",
+    "user-serviceable parts"
+  ],
+  "ngrams": [
+    "tripod leg lock",
+    "twist lock",
+    "flip lock",
+    "leg section",
+    "compression rings",
+    "leg keeps slipping",
+    "tension nut",
+    "leg angle joint",
+    "marine grade grease",
+    "clean the threads",
+    "thread locker",
+    "tripod legs",
+    "won't hold"
+  ],
+  "skipgrams": [
+    "twist…lock…slipping",
+    "flip…lock…tension",
+    "grease…threads",
+    "compression…rings",
+    "tighten…nut",
+    "leg…section…stuck"
+  ],
+  "nlpTerms": [
+    "slip",
+    "slide",
+    "tighten",
+    "loosen",
+    "clean",
+    "grease",
+    "lubricant",
+    "threads",
+    "collar",
+    "lever",
+    "cam",
+    "nut",
+    "screw",
+    "hex",
+    "rings",
+    "sleeve",
+    "sand",
+    "grit",
+    "salt",
+    "rinse",
+    "dry",
+    "carbon",
+    "aluminum",
+    "replace",
+    "manufacturer",
+    "warranty",
+    "apex",
+    "tension"
+  ],
+  "questions": [
+    "why do my tripod legs keep slipping",
+    "how do you tighten a flip lock tripod leg",
+    "how to tighten tripod legs",
+    "why is my twist lock tripod slipping",
+    "how do I fix floppy tripod legs",
+    "should I lubricate tripod leg locks",
+    "how do I free a stuck tripod leg section"
+  ],
+  "contentGaps": [
+    "where grease goes and where it must not (threads yes, compression rings and tube insides no) per maker manuals",
+    "a half-closed twist lock as the first check before any repair",
+    "flip lock tension in small increments (1/6 turn) and the plastic nut cover",
+    "floppy legs at the apex vs a slipping section: different fixes",
+    "never twist a stuck carbon section free (it can widen the ring holes)",
+    "when the tripod is totaled vs repairable"
+  ],
+  "outline": [
+    {
+      "h2": "Why a tripod leg lock won't hold: find the slipping part",
+      "intent": "diagnosis",
+      "h3": []
+    },
+    {
+      "h2": "Twist lock slipping: close it fully, then clean the rings",
+      "intent": "fix twist locks",
+      "h3": []
+    },
+    {
+      "h2": "Flip lock won't hold: tighten the tension nut a little",
+      "intent": "fix flip locks",
+      "h3": []
+    },
+    {
+      "h2": "Floppy tripod legs at the top: the angle joint",
+      "intent": "fix leg angle joint",
+      "h3": []
+    },
+    {
+      "h2": "Grease the threads, never the grip",
+      "intent": "lubrication rules from maker manuals",
+      "h3": []
+    },
+    {
+      "h2": "Leg section stuck instead of slipping",
+      "intent": "pain point: stuck lock",
+      "h3": []
+    },
+    {
+      "h2": "Field fix, safety test and when to replace the tripod",
+      "intent": "next step",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Identify the lock type: twist and flip locks fail differently",
+    "Sand, dirt and salt in the lock reduce grip; clean and dry the leg sections",
+    "Flip locks have an adjustment nut or screw that can be tightened",
+    "Twist locks hold compression rings or sleeves that can be worn or out of place",
+    "Replace worn or broken lock parts, or contact the maker",
+    "Carry the tools your tripod needs (hex keys, nut driver)"
+  ],
+  "ourGain": [
+    {
+      "point": "Where grease goes and where it never goes: a pea-size dab of marine grease on twist-lock threads, none on the plastic compression rings or inside the tubes, and no liquid lubricant (resolves the conflicting advice in the top results)",
+      "source": "https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf ; https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod ; https://www.kfconcept.com/learning-center/tripod-leg-wont-lock"
+    },
+    {
+      "point": "Check the cheap cause first: a twist lock closed about 95% feels firm but will not hold; rings not pushed fully home stop the collar from closing",
+      "source": "https://www.fredmiranda.com/forum/topic/1282332/ ; https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf"
+    },
+    {
+      "point": "Flip-lock tension in 1/6-turn steps with a nut driver, prying off the plastic cover; a rental owner re-tightens every 3 or 4 rentals because these locks loosen over time",
+      "source": "https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod"
+    },
+    {
+      "point": "Floppy legs at the apex are a different fault from a slipping section: test by holding the tripod by one leg, tighten the angle-joint screws, regrease dried joints, blue thread locker for screws that back out",
+      "source": "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod ; https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf ; https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/"
+    },
+    {
+      "point": "Never force a stuck carbon section by twisting: rotational force can widen the ring holes and ruin the tube; heat and cold help aluminum more than carbon",
+      "source": "https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf ; https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/"
+    }
+  ],
+  "targetWords": 1100,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+      "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/",
+      "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+      "https://www.fredmiranda.com/forum/topic/1282332/",
+      "https://support.pivo.ai/hc/en-001/articles/360058729272-Tripod-legs-are-stuck-won-t-lock (snippet)",
+      "https://www.reddit.com/r/AskPhotography/comments/1snk7tu/how_to_fix_tripod_leg_attachment/ (snippet)"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result is a product roundup: three YouTube videos, a Facebook post, two forum threads, a Reddit thread, a support page and two repair articles. The post is a how-to with no product picks (productCount 0).",
+    "avgWords": 1075,
+    "avgProducts": 0,
+    "commonSections": [
+      "Why the leg slips (cause by lock type)",
+      "Clean sand and grit from the leg sections",
+      "Tighten a loose flip lock",
+      "Twist lock compression rings or sleeves",
+      "Stuck leg lock",
+      "Replace worn parts or contact the maker",
+      "Prevention and maintenance"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false,
+    "avgWordsNote": "Readable top-10 pages: K&F Concept guide about 1,300 words (without product promo), Improve Photography about 1,850, DPReview thread about 750, Fred Miranda thread about 400. YouTube, Facebook, Reddit and the Pivo stub excluded from the average."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=Y1WcTaXA9Fg",
+      "title": "How To Fix Tripod Leg Lock || Easy DETAILED DIY To ... - YouTube"
+    },
+    {
+      "position": 2,
+      "url": "https://www.facebook.com/groups/NewsandCAF/posts/24351819547784698/",
+      "title": "Hi fam I have a tripod with a broken leg locking mechanism (the plastic ..."
+    },
+    {
+      "position": 3,
+      "url": "https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+      "title": "Tripod Leg Won't Lock or Keeps Slipping? How to Fix It - k&f concept"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=sS1D5kj88A4",
+      "title": "Manfrotto Tripod Leg Always Loose - Here's How To Tighten The Flip Lock"
+    },
+    {
+      "position": 5,
+      "url": "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/",
+      "title": "How to Fix a Sticking Tripod Leg or Joint - Improve Photography"
+    },
+    {
+      "position": 6,
+      "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+      "title": "Tripod Leg Won't Budge | DPReview Forums"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=mJKULXAFCAs",
+      "title": "How to easily fix travel tripod. - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1snk7tu/how_to_fix_tripod_leg_attachment/",
+      "title": "How to fix tripod leg attachment? : r/AskPhotography - Reddit"
+    },
+    {
+      "position": 9,
+      "url": "https://support.pivo.ai/hc/en-001/articles/360058729272-Tripod-legs-are-stuck-won-t-lock",
+      "title": "Tripod legs are stuck/won't lock - Pivo Support Hub"
+    },
+    {
+      "position": 10,
+      "url": "https://www.fredmiranda.com/forum/next/1279826",
+      "title": "Tripod twist lock does not work - FM Forums - FredMiranda.com"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "How to Fix",
+      "Keeps Slipping",
+      "Won't Lock",
+      "Flip Lock",
+      "Twist Lock",
+      "Easy DIY"
+    ],
+    "gap": "Fixes sorted by lock type (twist, flip, angle joint) with what maker manuals say about grease: threads yes, compression rings never"
+  },
+  "painPoints": [
+    {
+      "id": "camera-tripods-leg-joint-lock-failure",
+      "pain": "Leg locks and joints stiffen, go floppy or break",
+      "details": "Owners report legs that will not hold (hardened grease in the leg joint) and plastic angle locks that snap, leaving a leg stuck.",
+      "sources": [
+        "https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/",
+        "https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/",
+        "https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots"
+      ],
+      "quotes": [
+        {
+          "text": "turns out the grease in the leg joint had hardened",
+          "url": "https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/"
+        },
+        {
+          "text": "an angle leg lock broke in half, making it impossible to pull my tripod leg out",
+          "url": "https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-twist-lock-tight-but-slips",
+      "pain": "A twist lock feels tight but the leg section still slides down",
+      "details": "Owners find a lower section falls in even with the collar turned; causes range from a lock not closed all the way to grit or a worn, misplaced compression ring inside the collar.",
+      "sources": [
+        "https://www.fredmiranda.com/forum/topic/1282332/",
+        "https://www.kfconcept.com/learning-center/tripod-leg-wont-lock"
+      ],
+      "quotes": [
+        {
+          "text": "I twisted the locks like 95% of the way, and it requires to be twisted more like 100%",
+          "url": "https://www.fredmiranda.com/forum/topic/1282332/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-flip-lock-loosens",
+      "pain": "Flip lock levers loosen over time and stop holding the leg",
+      "details": "Lever (flip) locks close normally but no longer clamp; owners tighten a nut or screw behind the lever, and some need to re-adjust regularly.",
+      "sources": [
+        "https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod",
+        "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+        "https://www.youtube.com/watch?v=sS1D5kj88A4"
+      ],
+      "quotes": [
+        {
+          "text": "These leg locks loosen over time.",
+          "url": "https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod"
+        },
+        {
+          "text": "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time.",
+          "url": "https://www.youtube.com/watch?v=sS1D5kj88A4"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-leg-section-stuck",
+      "pain": "A twist-lock leg section is stuck and will not slide even when unlocked",
+      "details": "Grit or a folded compression ring jams the tube; owners try hot water, lubricant spray and pliers, and some end up sending it to the maker.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+        "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/"
+      ],
+      "quotes": [
+        {
+          "text": "When the lock is fully unlocked I still can not get the leg to make any movement at all",
+          "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-leg-section-count",
+      "pain": "Too many leg sections and plastic locks make a travel tripod wobbly and fragile",
+      "details": "Experienced users say avoid five sections and more than three locks for long exposure, and prefer metal locks over plastic flip locks.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "For long time exposures and astro I would not buy a tripod with more than 3 leg locks",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        },
+        {
+          "text": "I would stay away from 5 section legs.",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    }
+  ],
+  "linkPlan": {
+    "how-to-stop-tripod-shake-in-wind": "closing next-question link: legs hold but the rig still shakes",
+    "peak-design-travel-tripod-vs-manfrotto-befree-advanced": "flip lock section: lever locks that loosen and their tension screw",
+    "best-hiking-tripod": "replace section: light tripods compared by leg lock and sections",
+    "landscape-photography-tripod": "replace section / care after sand and salt (optional)"
+  },
+  "linkRules": "Live posts only (pubDate before 2026-10-20T20:00Z). Never link best-tripod-for-photography. twist-lock-vs-flip-lock-tripod-legs and 4-section-vs-5-section-tripod are not live yet, so not linked.",
+  "postType": "how-to",
+  "productCount": 0
+}

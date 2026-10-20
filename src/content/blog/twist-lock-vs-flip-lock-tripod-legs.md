@@ -107,6 +107,8 @@ heroImage: /images/featured/twist-lock-vs-flip-lock-tripod-legs.png
 heroAlt: >-
   Twist Lock vs Flip Lock Tripod Legs – Speed, Sand, Gloves and Wear – Best
   Tripod comparison
+related:
+  - tripod-leg-lock-wont-hold
 ---
 
 Twist lock vs flip lock tripod legs comes down to conditions more than speed. Twist locks pack slimmer, stay quiet and release a whole leg in one grip; flip locks show at a glance that every leg is closed and are easier in thick gloves. On a well-made tripod neither is steadier, so we'd choose by where you shoot: sand, cold, or quiet wildlife hides.
