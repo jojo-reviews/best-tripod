@@ -364,6 +364,8 @@ heroImage: /images/featured/best-tripod-that-fits-in-carry-on-luggage.png
 heroAlt: >-
   Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold – Best
   Tripod buying guide
+related:
+  - binocular-tripod-adapter
 ---
 
 The roller bag is open on the hotel bed, the camera cube is packed, and the tripod you own is two inches longer than the bag. We've all done this repack. Legs diagonal, then out again, then a quiet decision to leave it home and handhold the blue hour. The best tripod that fits in carry on luggage solves that moment first, then still has to stand tall and steady enough to earn the space. We picked three, from a 13 in carbon travel tripod to a pocket mini. We compared them on folded length, column-down height, rated load and the head, using maker spec pages, retailer listings and owner reports. We have not used these tripods ourselves, and we say where each number comes from.

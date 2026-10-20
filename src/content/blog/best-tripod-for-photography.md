@@ -362,10 +362,10 @@ faqs:
       rock. Trigger with a remote release or the self-timer so your hand does
       not add vibration.
 related:
+  - binocular-tripod-adapter
   - tripod-for-wildlife-photography
   - best-tripod-that-fits-in-carry-on-luggage
   - best-hiking-tripod
-  - landscape-photography-tripod
 heroImage: /images/featured/best-tripod-for-photography.png
 heroAlt: >-
   Best Tripod for Photography (2026) – 3 Picks Matched to Lens Weight – Best
