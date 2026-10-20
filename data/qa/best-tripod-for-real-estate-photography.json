@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-10-19T10:11:04.089Z",
+  "checkedAt": "2026-10-20T10:52:52.637Z",
   "errors": [],
   "warnings": [
+    "body has 2618 words, over the 1782 limit (top results average 1550): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO4\" has no Amazon photo yet (the Amazon refresh adds it after push)",

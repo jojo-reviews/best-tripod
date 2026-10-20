@@ -1,9 +1,10 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-19T16:39:35.012Z",
+  "checkedAt": "2026-10-20T10:52:45.695Z",
   "errors": [],
   "warnings": [
+    "body has 5230 words, over the 3105 limit (top results average 2700): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -20,7 +21,6 @@
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (no response): https://www.digitalcamerawarehouse.com.au/manfrotto-mkbfrla4bk-bh-befree-advanced-travel-aluminium-tripod-with-494-ball-head-lever-locks-black",
     "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
     "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",
     "source didn't respond normally (403): https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/",

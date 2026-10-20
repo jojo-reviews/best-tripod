@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-photography",
   "pass": true,
-  "checkedAt": "2026-10-19T13:47:38.396Z",
+  "checkedAt": "2026-10-20T10:52:50.214Z",
   "errors": [],
   "warnings": [
+    "body has 3266 words, over the 2530 limit (top results average 2200): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"3 Legged Thing Winston 2.0 Carbon Fibre Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
