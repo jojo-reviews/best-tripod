@@ -1,0 +1,16 @@
+{
+  "slug": "are-cheap-gimbal-heads-any-good",
+  "pass": true,
+  "checkedAt": "2026-10-20T20:08:32.246Z",
+  "errors": [],
+  "warnings": [
+    "product \"Oben GH-30 Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sirui PH-20 Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-20. Oben GH-30: 44 lb (20 kg), 3.15 lb (1.4 kg), 9 in height, 360 deg pan, 3/8 in socket, Arca-type plate with two 1/4 in screws and 1/4-to-3/8 bushings, sliding plate platform, against the Oben GH-30/30C manual (B&H lit_files/590217.pdf) and the B&H spec page (aluminum, 3.1 lb, 44 lb). Sirui PH-20: 44.1 lb (20 kg), 2.4 lb listed, 230 mm height, +150/-60 tilt, 120 mm Arca plate with 1/4 and 3/8 screws, carbon arm and aluminum L-bracket, against B&H specs/Q&A; measured 1,163 g / 899 g side mount, smoothness, 2-3 deg scale misalignment and tilt-lock shift against the Shutter Muse PH-20 review. Wimberley WH-200 over 100 lb (B&H eXplora) and 3.15 lb (Backcountry Journeys). Product picks: GH-30 recommended by Shutter Muse, Backcountry Journeys, B&H eXplora; PH-20 by Shutter Muse and Backcountry Journeys; Amazon US listings B07BN5H2PR and B0086LMTYK seen in search. Shutter Muse GH-30 load caveat and lens list verified. Owner claims verified on their pages: Fred Miranda GH-30 leak/stiff/replacement; BCG KurtH rough movement and 600 TC balance, RecalcitrantRon 11.25 lb 600 f/4G VR; BCG Raymo PH-20 with 180-600 in Costa Rica; DPReview PH-20 thread (resident 200-500 zoom balance, Sacado pan-lock shift); Shutter Muse comment (two warranty returns). Generic gimbal claims verified on DPReview cheap gimbal thread (Beike bush play/stiffness, ball races, Neewer regrease), Talk Photography (BK-45 static/video vs flight, swelling bushings, returned for lock movement and crude clamp, 'without any finesse'), Nikonites (nylon bushes quote, 7 lb 200-500+D610). All quotes checked verbatim, including DPReview 180-600 thread quotes (steer clear, perfectly adequate, large and heavy, used it less than I anticipated) and tclune Sidekick on Sirui K-30x. DCW lock-and-door analogy and slack/wobble note verified. No prices, ratings or testing claims. Re-verified after adding first-person wording (no new facts).",
+    "at": "2026-10-20T20:08:31.701Z",
+    "hash": "b8ea83ea08a8d6e7"
+  }
+}

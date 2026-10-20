@@ -245,6 +245,8 @@ heroImage: /images/featured/ball-head-tripod.png
 heroAlt: >-
   Ball Head Tripod Guide (2026) – 2 Heads Worth Buying and Sag Fixes – Best
   Tripod guide
+related:
+  - are-cheap-gimbal-heads-any-good
 ---
 
 For most camera kits, the best ball head tripod setup is a mid-size 40mm Arca-Swiss ball head: the [Really Right Stuff BH-40](amzn:Really+Right+Stuff+BH-40+Ballhead+Full-Size+Lever-Release+Clamp) if you want the proven all-rounder, or the [Benro GX35](amzn:Benro+GX35+Ballhead+PU56) if you want a shorter, lighter tripod ball head for travel. Both turn up in more than one top review. Size either one by your heaviest lens and its balance, not the rated load.
