@@ -1,0 +1,13 @@
+{
+  "slug": "tripod-shake-when-pressing-shutter",
+  "pass": true,
+  "checkedAt": "2026-10-20T20:02:00.661Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "How-to, productCount 0, no product claims. Verified every technique claim against the scraped sources: Photography Life how-to-reduce-camera-shake-on-a-tripod (sources-of-shake list, 'Exposure Delay Mode is for the Mirror, whereas EFCS is for the shutter mechanism', remote caveats incl. flimsy tripods/cable in wind/bent pins/lost on trips/carries one mainly for >30 s, Nikon 2s/5s self-timer and Canon 'Self-timer: 2sec/remote', 3-second delay won't help if rig wobbles longer, 100% live view check at 200mm+, Sony A7R shutter shock at 1/10 s, EFCS menu names Nikon/Sony e-Front Curtain Shut./Canon Silent LV shoot. Mode 1, IS/VR off and IBIS/SteadyShot off, Nikon super-tele VR and boat exceptions, mirror-up not working with self-timer, exposure delay + timer ~90% of landscapes); DPS how-to-avoid-camera-shake (finger tap below ~1/60 s, remote quicker and for timing a wave, EFCS hybrid avoids rolling shutter, electronic shutter zero vibration); Canon KB ART110191 (STABILIZER OFF for Bulb, 'may introduce errors', may be better off on a tripod); Photography SE 125034 (exposure delay/self timer quote verbatim, legs short, collar foot, gimbal head, phone remote control, OSS if vibration persists, X-PRO 3-Way quote verbatim); RF Shooters 5671 (10-second delay, EFCS, 70-200 IS mode 1, 70mm 8 s ok vs 200mm 6 s blurred, geared head, occasional breeze, IS drift quote and 'Turning off IS solved the problem.' verbatim, R6 Mark II lens switch vs IBIS menu, 200mm accentuates movement); DPReview a900 thread ('a loud slapping noise', shutter/mirror quote verbatim, danger-zone speed ranges 1/4-1/30, 1/50-2 s, 2 s-1/500 at 200mm+, settle in 2 s depends on setup, a900 2-second timer raises mirror first, dedicated MLU mode, L-plate needs Arca-style clamp, central extension adds sway); Reddit 15gbgj8 center-column line confirmed via Firecrawl search excerpt. No prices, ratings or testing claims; wind case links to how-to-stop-tripod-shake-in-wind once.",
+    "at": "2026-10-20T20:01:59.977Z",
+    "hash": "befc4b3227270fc3"
+  }
+}

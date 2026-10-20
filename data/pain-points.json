@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:59:20.170Z",
+  "updatedAt": "2026-10-20T20:02:16.032Z",
   "categories": {
     "camera-tripods": [
       {
@@ -291,7 +291,7 @@
             "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
           },
           {
-            "text": "Having cheap leg fasteners / too heavy a load \u2026 causing real slipping issues when used on hard surfaces.",
+            "text": "Having cheap leg fasteners / too heavy a load … causing real slipping issues when used on hard surfaces.",
             "url": "https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots"
           },
           {
@@ -350,7 +350,9 @@
           "tripod leg lock won't hold",
           "floppy tripod legs fix"
         ],
-        "keywords": [],
+        "keywords": [
+          "tripod leg lock won't hold"
+        ],
         "coveredBy": [
           "twist-lock-vs-flip-lock-tripod-legs"
         ],
@@ -685,6 +687,123 @@
         "coveredBy": [
           "tripod-shake-when-pressing-shutter"
         ],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-twist-lock-tight-but-slips",
+        "pain": "A twist lock feels tight but the leg section still slides down",
+        "details": "Owners find a lower section falls in even with the collar turned; causes range from a lock not closed all the way to grit or a worn, misplaced compression ring inside the collar.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1282332/",
+            "platform": "forum",
+            "title": "Tripod twist lock does not work",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+            "platform": "article",
+            "title": "Tripod Leg Won't Lock or Keeps Slipping? How to Fix It (K&F Concept)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I twisted the locks like 95% of the way, and it requires to be twisted more like 100%",
+            "url": "https://www.fredmiranda.com/forum/topic/1282332/"
+          }
+        ],
+        "searches": [
+          "twist lock tripod slipping",
+          "tripod leg keeps sliding down",
+          "tripod leg lock won't hold"
+        ],
+        "keywords": [
+          "tripod leg lock won't hold"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-flip-lock-loosens",
+        "pain": "Flip lock levers loosen over time and stop holding the leg",
+        "details": "Lever (flip) locks close normally but no longer clamp; owners tighten a nut or screw behind the lever, and some need to re-adjust regularly.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod",
+            "platform": "forum",
+            "title": "Loose leg on my tripod",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+            "platform": "forum",
+            "title": "Tripod Leg Won't Budge",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=sS1D5kj88A4",
+            "platform": "youtube",
+            "title": "Manfrotto Tripod Leg Always Loose - Here's How To Tighten The Flip Lock",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "These leg locks loosen over time.",
+            "url": "https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod"
+          },
+          {
+            "text": "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time.",
+            "url": "https://www.youtube.com/watch?v=sS1D5kj88A4"
+          }
+        ],
+        "searches": [
+          "how to tighten flip lock tripod",
+          "tripod flip lock loose",
+          "how to tighten tripod legs"
+        ],
+        "keywords": [
+          "tripod leg lock won't hold"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-20"
+      },
+      {
+        "id": "camera-tripods-leg-section-stuck",
+        "pain": "A twist-lock leg section is stuck and will not slide even when unlocked",
+        "details": "Grit or a folded compression ring jams the tube; owners try hot water, lubricant spray and pliers, and some end up sending it to the maker.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+            "platform": "forum",
+            "title": "Tripod Leg Won't Budge",
+            "seen": "2026-10-20"
+          },
+          {
+            "url": "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/",
+            "platform": "article",
+            "title": "How to Fix a Sticking Tripod Leg or Joint (Improve Photography)",
+            "seen": "2026-10-20"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "When the lock is fully unlocked I still can not get the leg to make any movement at all",
+            "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/"
+          }
+        ],
+        "searches": [
+          "tripod leg stuck twist lock",
+          "how to unlock stuck tripod leg"
+        ],
+        "keywords": [
+          "tripod leg lock won't hold"
+        ],
+        "coveredBy": [],
         "foundAt": "2026-10-20"
       }
     ],

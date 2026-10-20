@@ -1,0 +1,435 @@
+{
+  "centralEntity": "shutter-press shake",
+  "entityVariants": [
+    "tripod shake when pressing shutter",
+    "shutter press shake",
+    "shutter shake",
+    "camera shake on a tripod",
+    "tripod vibration after pressing shutter",
+    "pressing the shutter",
+    "shutter vibration"
+  ],
+  "entities": [
+    {
+      "name": "self-timer",
+      "type": "camera feature",
+      "relation": "delays the exposure 2-10 seconds so the vibration from your finger dies down first"
+    },
+    {
+      "name": "remote release",
+      "type": "accessory",
+      "relation": "fires the camera without touching it (cable, wireless or phone app); fixes the finger, not a weak tripod"
+    },
+    {
+      "name": "exposure delay",
+      "type": "camera feature",
+      "relation": "raises the mirror, waits, then exposes (Nikon term); on mirrorless it is just a short delay"
+    },
+    {
+      "name": "electronic first-curtain shutter",
+      "type": "camera feature",
+      "relation": "starts the exposure electronically so the first shutter curtain cannot cause shutter shock; also called electronic front-curtain shutter or EFCS"
+    },
+    {
+      "name": "shutter shock",
+      "type": "cause",
+      "relation": "vibration from the mechanical shutter curtain at the start of the exposure"
+    },
+    {
+      "name": "mirror slap",
+      "type": "cause",
+      "relation": "DSLR mirror flipping up just before the exposure"
+    },
+    {
+      "name": "mirror lock-up",
+      "type": "camera feature",
+      "relation": "first press raises the mirror, second press (ideally from a remote) starts the exposure"
+    },
+    {
+      "name": "image stabilization",
+      "type": "camera feature",
+      "relation": "lens IS/VR/OSS or in-body IBIS can drift and add blur on a locked-down tripod; makers say turn it off for long exposures"
+    },
+    {
+      "name": "IBIS",
+      "type": "camera feature",
+      "relation": "in-body image stabilization; a separate menu setting from the lens switch on many bodies"
+    },
+    {
+      "name": "center column",
+      "type": "tripod component",
+      "relation": "a raised column amplifies and prolongs the vibration from the shutter press"
+    },
+    {
+      "name": "tripod head",
+      "type": "tripod component",
+      "relation": "a small or weak head lets a heavy lens keep ringing after the press"
+    },
+    {
+      "name": "lens collar",
+      "type": "accessory",
+      "relation": "mounting a long lens by its collar balances it over the tripod so it settles faster"
+    },
+    {
+      "name": "live view",
+      "type": "camera feature",
+      "relation": "magnified live view shows how long the rig keeps shaking after a touch"
+    }
+  ],
+  "attributes": [
+    "settle time after the press",
+    "self-timer delay length (2, 5, 10 seconds)",
+    "shutter speed range where shake shows",
+    "focal length",
+    "mechanical vs electronic first curtain",
+    "stabilization on or off",
+    "center column position",
+    "head size against lens weight"
+  ],
+  "ngrams": [
+    "pressing the shutter",
+    "shutter button",
+    "camera shake",
+    "self-timer",
+    "remote release",
+    "exposure delay",
+    "electronic first-curtain shutter",
+    "shutter shock",
+    "mirror slap",
+    "mirror lock-up",
+    "image stabilization",
+    "long lens",
+    "slow shutter speed",
+    "center column",
+    "live view"
+  ],
+  "skipgrams": [
+    "shutter…press",
+    "timer…seconds",
+    "remote…release",
+    "mirror…slap",
+    "shutter…shock",
+    "stabilization…off",
+    "center…column",
+    "settle…seconds"
+  ],
+  "nlpTerms": [
+    "vibration",
+    "blur",
+    "settle",
+    "delay",
+    "finger",
+    "mirrorless",
+    "DSLR",
+    "telephoto",
+    "IBIS",
+    "VR",
+    "OSS",
+    "EFCS",
+    "cable",
+    "wireless",
+    "app",
+    "menu",
+    "Bulb",
+    "magnified"
+  ],
+  "questions": [
+    "Why does my camera shake on a tripod when I press the shutter?",
+    "Do I need a remote release on a tripod?",
+    "Is the 2 second timer enough on a tripod?",
+    "Should I turn off image stabilization on a tripod?",
+    "What is electronic first-curtain shutter and does it stop shake?",
+    "Do I still need mirror lock-up on a mirrorless camera?",
+    "At what shutter speeds does shutter shake show up?"
+  ],
+  "contentGaps": [
+    "A cause-to-fix map: finger (timer or remote), DSLR mirror (exposure delay or mirror lock-up), shutter curtain (EFCS), stabilization (off), long lens and raised column (settle time and support)",
+    "How long a delay to set: a 2-second timer is not always enough with a long lens or raised column; measure settle time in magnified live view",
+    "Stabilization left on can blur shots even with a delay and EFCS, and turning off the lens switch does not always turn off IBIS",
+    "A remote does not fix a flimsy tripod and a dangling cable can add movement; phone apps are a cable-free option",
+    "The shutter-speed band where press and shutter shake show most (fractions of a second to a couple of seconds), so very long exposures and fast shutter speeds are less affected"
+  ],
+  "outline": [
+    {
+      "h2": "Tripod shake when pressing shutter – the short answer",
+      "intent": "direct answer: fire hands-free, delay, EFCS, stabilization off; the 6 fixes in a list",
+      "h3": []
+    },
+    {
+      "h2": "Find which part of the shutter press is shaking",
+      "intent": "information gain: cause-to-fix table (finger, mirror, shutter curtain, stabilization, long lens/column)",
+      "h3": []
+    },
+    {
+      "h2": "Use the self-timer, and set a delay long enough to settle",
+      "intent": "commonPoint (timer) plus ourGain (settle time test, 2 vs 5 vs 10 seconds)",
+      "h3": []
+    },
+    {
+      "h2": "Fire with a remote release (and when it won't help)",
+      "intent": "commonPoint plus ourGain (remote does not fix a weak tripod; cable in wind; phone app)",
+      "h3": []
+    },
+    {
+      "h2": "Stop shutter shock with exposure delay and electronic first-curtain shutter",
+      "intent": "mirror vs shutter curtain; EFCS menu names by brand",
+      "h3": []
+    },
+    {
+      "h2": "Turn image stabilization off on the tripod",
+      "intent": "ourGain: IS/IBIS left on blurs tripod shots; Canon guidance; lens switch vs body menu",
+      "h3": []
+    },
+    {
+      "h2": "Mirror lock-up for DSLRs",
+      "intent": "MLU with remote; timer-based MLU",
+      "h3": []
+    },
+    {
+      "h2": "When shutter-press shake is really the tripod",
+      "intent": "pain points: raised center column, light tripod + heavy lens, weak head; collar; wind case link",
+      "h3": []
+    }
+  ],
+  "targetWords": 1650,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
+      "https://digital-photography-school.com/how-to-avoid-camera-shake/",
+      "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+      "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+      "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
+      "https://www.learningwithexperts.com/blogs/articles/avoiding-the-shakes-keeping-your-camera-steady",
+      "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/ (snippet only; Reddit not readable)"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result is a product roundup: three are forum threads (Reddit, Photography SE, RF Shooters, DPReview), one Facebook post, one YouTube video and four articles written as numbered technique lists in prose. Gear (remotes, tripods) is mentioned in passing, never as pros-cons lists or spec tables, so the post is a technique guide with productCount 0.",
+    "avgWords": 1650,
+    "avgWordsNote": "Readable pages: Photography Life about 4,500 words (article without comments, the only long one), Digital Photography School about 2,000, Photography SE 125034 about 950, DPReview a900 thread about 1,300 (quoted repeats removed), RF Shooters thread about 600, Learning with Experts about 650. Reddit, Facebook and YouTube not readable as text; SLR Lounge is a one-paragraph glossary entry. Excluded from the average.",
+    "avgProducts": 0,
+    "commonSections": [
+      "Don't touch the camera: use a remote release or the self-timer",
+      "Exposure delay / mirror up for DSLR mirror slap",
+      "Electronic front-curtain or electronic shutter for shutter shock",
+      "Turn image stabilization off on a tripod",
+      "Use a steady tripod, keep legs short and the center column down",
+      "Long focal lengths magnify shake",
+      "Remove the camera strap and keep out of the wind"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+      "title": "Getting lots of camera shake on a tripod. What am I doing wrong?"
+    },
+    {
+      "position": 2,
+      "url": "https://www.facebook.com/groups/1289675308814997/posts/1604054720710386/",
+      "title": "Little bit of camera shake even with a tripod! - Facebook"
+    },
+    {
+      "position": 3,
+      "url": "https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
+      "title": "How to Reduce Camera Shake on a Tripod - Photography Life"
+    },
+    {
+      "position": 4,
+      "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+      "title": "How do I eliminate the shake I'm getting using a supertelephoto lens ..."
+    },
+    {
+      "position": 5,
+      "url": "https://digital-photography-school.com/how-to-avoid-camera-shake/",
+      "title": "How to Reduce Camera Shake (14 Powerful Techniques)"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=Gvfn6IHWEuU",
+      "title": "60 Second photo tip - Camera shake and how to avoid it - YouTube"
+    },
+    {
+      "position": 7,
+      "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+      "title": "Tripod shake or building shake? | Canon RF Shooters Forums"
+    },
+    {
+      "position": 8,
+      "url": "https://www.slrlounge.com/glossary/camera-shake/",
+      "title": "What is Camera Shake by SLR Lounge"
+    },
+    {
+      "position": 9,
+      "url": "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
+      "title": "a900 Shutter Causing Shake Even on Tripod? | DPReview Forums"
+    },
+    {
+      "position": 10,
+      "url": "https://www.learningwithexperts.com/blogs/articles/avoiding-the-shakes-keeping-your-camera-steady",
+      "title": "Avoiding the Shakes: Keeping Your Camera Steady"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": "0 of 10 start with the exact keyword; 4 are forum questions ('Getting lots of camera shake on a tripod', 'a900 Shutter Causing Shake Even on Tripod?'), 2 lead with 'How to Reduce Camera Shake'",
+    "withYear": "0 of 10",
+    "withNumber": "2 of 10 ('14 Powerful Techniques', '60 Second photo tip')",
+    "commonModifiers": [
+      "camera shake",
+      "on a tripod",
+      "even on/with a tripod",
+      "reduce",
+      "eliminate",
+      "avoid"
+    ],
+    "gap": "None matches each fix to its cause (finger, mirror, shutter curtain, stabilization) or says how long a delay to set. Title: exact keyword + '6 Fixes' + 'Matched to the Cause'."
+  },
+  "commonPoints": [
+    "Don't press the shutter button by hand: use a remote release or the self-timer",
+    "DSLRs: exposure delay or mirror up mode stops mirror slap",
+    "Electronic front-curtain (first-curtain) or full electronic shutter removes shutter shock",
+    "Turn lens or in-body image stabilization off on a tripod",
+    "A steady tripod with short legs and the center column down settles faster",
+    "Long focal lengths magnify every vibration"
+  ],
+  "ourGain": [
+    {
+      "point": "Cause-to-fix map: which fix cures which shake (finger, mirror, shutter curtain, stabilization, long lens and raised column), so the reader stops stacking random fixes",
+      "source": "Photography Life 'Other Sources of Camera Shake' list and its line 'Exposure Delay Mode is for the Mirror, whereas EFCS is for the shutter mechanism' (https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod)"
+    },
+    {
+      "point": "Set the delay to the rig's settle time, not a default 2 seconds: test in magnified live view; a heavy or side-mounted lens may need longer",
+      "source": "Photography Life ('if your camera wobbles for more than 3 seconds on a tripod, this won't do much'; tap test at 100% live view at 200mm+); DPReview a900 thread (depends whether the setup settles in 2 sec); RF Shooters owner who used a 10-second delay"
+    },
+    {
+      "point": "Stabilization left on can still blur shots taken with a long delay and EFCS; a lens switch may not turn off IBIS on every body, and Canon says to switch IS off for Bulb exposures",
+      "source": "RF Shooters thread https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/ and Canon Knowledge Base ART110191 https://support.usa.canon.com/kb/s/article/ART110191"
+    },
+    {
+      "point": "The shutter-speed band where press, mirror and shutter shake show most, reported by owners (roughly 1/500 s to 2 s depending on gear), so fast shutter speeds and very long exposures suffer less",
+      "source": "DPReview a900 thread (posters name 1/4-1/30, 1/50-2 s, and 2 s-1/500 s at 200mm+); Photography Life Sony A7R shutter-shock example at 1/10 s; DPS (finger tap below about 1/60 s)"
+    },
+    {
+      "point": "A remote is not a cure for a weak tripod: a dangling cable can add movement in wind, and modern cameras can be fired from a phone app",
+      "source": "Photography Life section 1 (remote releases on flimsy tripods make it worse, cable dangling in wind); Photography SE 125034 answer (cameras controlled remotely from your phone)"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-shutter-press-shake",
+      "pain": "Pressing the shutter sets off a shake that blurs the first seconds of the shot",
+      "details": "Users with long lenses see vibration they introduce themselves; fixes are a remote release, a self-timer or exposure delay mode.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`.",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        },
+        {
+          "text": "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-stabilization-left-on-tripod",
+      "pain": "Image stabilization left on blurs shots taken on a tripod",
+      "details": "Owners shoot long exposures on a tripod with lens IS or IBIS still on and get soft or smeared frames even with a timer delay; switching stabilization off fixes it, but a lens switch may not turn off IBIS on every body.",
+      "sources": [
+        "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+        "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/"
+      ],
+      "quotes": [
+        {
+          "text": "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image.",
+          "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+        },
+        {
+          "text": "Turning off IS solved the problem.",
+          "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-mirror-shutter-vibration",
+      "pain": "The camera's own mirror or shutter shakes the tripod even when nobody touches it",
+      "details": "DSLR and early mirrorless owners hear a loud slap and get soft frames at slow-ish shutter speeds; fixes are mirror lock-up, a timer that raises the mirror first, and electronic first-curtain shutter.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
+        "https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "The shutter/mirror action is loud & causes camera vibration , any unsteadiness in the tripod will be affected by this vibration.",
+          "url": "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-center-column-vibration",
+      "pain": "Raising the center column makes the tripod shake and ring after every shutter press",
+      "details": "Landscape and long-lens shooters find a tripod that is steady with the legs only becomes wobbly once the column is cranked up; owners are told to collapse the legs and never extend the center section.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-light-tripod-heavy-lens-shake",
+      "pain": "A lightweight tripod shakes under a heavy telephoto or long lens",
+      "details": "Owners pair a hiking-weight or mid-range tripod with a 200-600mm class lens and see blur; they ask what extra gear or technique helps without buying a big tripod.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        }
+      ]
+    }
+  ],
+  "serpProducts": [],
+  "serpProductsNote": "productCount 0 (how-to). No top result recommends specific products; remotes are mentioned generically only.",
+  "postType": "how-to",
+  "linkPlan": [
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "anchor": "tripod shake in wind",
+      "why": "the wind case, linked once; this post stays on the shutter press"
+    },
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "anchor": "eye-level height without the center column",
+      "why": "raised center column pain point"
+    },
+    {
+      "slug": "tripod-for-wildlife-photography",
+      "anchor": "tripods that hold a long lens steady",
+      "why": "light tripod + heavy lens pain point; next question"
+    },
+    {
+      "slug": "landscape-photography-tripod",
+      "anchor": "landscape tripods for low angles",
+      "why": "next question for long-exposure landscape shooters"
+    },
+    {
+      "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "anchor": "Arca-Swiss plate and L-bracket",
+      "why": "mounting a body centered over the tripod settles faster"
+    }
+  ],
+  "linkPlanNote": "Live posts only (all published before 2026-10-20T19:44Z). Never link best-tripod-for-photography."
+}
