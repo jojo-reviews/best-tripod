@@ -1,12 +1,11 @@
 {
   "slug": "ball-head-tripod",
   "pass": true,
-  "checkedAt": "2026-10-20T15:02:17.788Z",
+  "checkedAt": "2026-10-20T17:15:48.737Z",
   "errors": [],
   "warnings": [
     "product \"Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+    "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
