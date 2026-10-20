@@ -1,0 +1,13 @@
+{
+  "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
+  "pass": true,
+  "checkedAt": "2026-10-20T19:00:12.949Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-opened K&F, Outdoorsmans, SmallRig, Ulanzi via Firecrawl: Outdoorsmans wind/top-heavy and 10-year-old carbon parts confirmed; SmallRig AP-10 'removing the center column entirely to shave weight' (1.18 vs 1.25 kg AP-20) confirmed; Ulanzi only says backpackers->carbon, rough terrain->aluminum, SmallRig says car-based->aluminum, so reworded the trip-split sentence; corrosion row sourced to K&F/Ulanzi (aluminum can corrode, esp. salt/harsh weather) and softened. Verified all 6 forum quotes verbatim at DPReview/Stack Exchange via Firecrawl; Reddit thread confirmed by title only, so removed the 'packers skip tripod' claim detail; removed unverified 'reply suggests carbon' claim. No prices, we voice, title shortened under 70 chars.",
+    "at": "2026-10-20T19:00:12.294Z",
+    "hash": "e633119f1b1016a9"
+  }
+}

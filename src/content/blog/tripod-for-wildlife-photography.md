@@ -221,6 +221,7 @@ heroAlt: >-
   Tripod for Wildlife Photography – What Holds a Long Lens Steady (2026) – Best
   Tripod guide
 related:
+  - carbon-fiber-vs-aluminum-tripod-for-hiking
   - ball-head-tripod
   - how-to-stop-tripod-shake-in-wind
 ---

@@ -78,7 +78,7 @@
     "note": "2026-10-19 SERP gate: 1 model confirmed."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -117,7 +117,8 @@
     "painPoints": [
       "monopods-cold-aluminum",
       "travel-tripods-too-heavy-for-hiking"
-    ]
+    ],
+    "publishedAt": "2026-10-20T19:00:31.606Z"
   },
   {
     "status": "published",
