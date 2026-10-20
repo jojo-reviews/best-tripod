@@ -23,6 +23,11 @@ import { productMatches } from './lib/product-match.mjs';
 import { amazonTag } from '../src/lib/affiliate.mjs';
 import { productFor } from '../src/lib/remark-affiliate.mjs';
 
+let unmatchedCache;
+const unmatched = () => (unmatchedCache ??= (() => {
+  try { const u = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'amazon-unmatched.json'), 'utf8')); return Array.isArray(u) ? u : []; } catch { return []; }
+})());
+
 export const QA_DIR = path.join(DATA_DIR, 'qa');
 const BRIEFS = path.join(DATA_DIR, 'briefs');
 const words = (s) => new Set(String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' ').filter((w) => w.length > 1));
@@ -261,6 +266,11 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     if (!amznLinks.some((q) => linkMatches(q, p))) err(`${label} has no Amazon link in the body`);
     if (!h3s.some((h) => matches(h, p.name))) warn(`${label} has no "### ${p.name}: ..." section, so it gets a card instead`);
     if (!p.image?.url) warn(`${label} has no Amazon photo yet (the Amazon refresh adds it after push)`);
+    // Owner rule 2026-10-20: no post goes live with a product the Amazon refresh could not match (no photo, search link).
+    if (!p.asin && unmatched().some((u) => u.post === post.slug && u.name === p.name)) {
+      const msg = `${label} has no Amazon listing: the refresh could not match it, so it would show no photo and a search link. Set its asin by hand (asinVerified: true) or drop the product`;
+      if (pub > Date.now()) err(msg); else warn(msg);
+    }
     if (p.asin && p.amazonTitle && !p.asinVerified) {
       const m = productMatches(p.matchName ?? p.name, p.amazonTitle, p.brand);
       if (!m.ok) err(`${label} is linked to a different Amazon listing ("${p.amazonTitle.slice(0, 80)}"${m.accessory ? `, an accessory` : `, missing ${m.missing.join(', ')}`}); clear its asin so the refresh re-matches it`);
