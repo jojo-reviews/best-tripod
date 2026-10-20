@@ -281,6 +281,10 @@ Finish with a short summary: posts published (title + URL
 (`https://best-tripod.com/<lang>/blog/<slug>/`), anything skipped and why.
 
 ## Translations (de, es, nl)
+**PAUSED (owner rule 2026-10-20: localized, not translated).** No new de/es/nl versions on this site: neither for
+today's English posts nor from the backlog (`translations.backlogPerDay: 0`, `categories: []`). Live translations stay
+online unchanged. The rest of this section describes the pipeline for when it is turned back on.
+
 Every English post also gets a localized version per locale in `site.config.json` (`locales`, minus `en`):
 `src/content/blog/<lang>/<localized-slug>.md` with `lang` and `translationOf: <english-slug>`, live at
 `/<lang>/blog/<localized-slug>/`. Translations go through the same gate: a translation only goes live with a
