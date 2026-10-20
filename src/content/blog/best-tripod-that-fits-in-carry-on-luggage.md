@@ -365,6 +365,7 @@ heroAlt: >-
   Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold – Best
   Tripod buying guide
 related:
+  - 4-section-vs-5-section-tripod
   - binocular-tripod-adapter
 ---
 

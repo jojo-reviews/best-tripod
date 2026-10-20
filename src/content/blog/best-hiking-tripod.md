@@ -414,6 +414,7 @@ heroAlt: >-
   Best Hiking Tripod (2026) – 4 Picks by Pack Weight, 0.6 to 2.8 lb – Best
   Tripod buying guide
 related:
+  - 4-section-vs-5-section-tripod
   - carbon-fiber-vs-aluminum-tripod-for-hiking
   - binocular-tripod-adapter
   - best-tripod-that-fits-in-carry-on-luggage
