@@ -1798,7 +1798,7 @@
     "note": "2026-10-19: no independent editorial roundup in top 10 (GoPro shop, Amazon, Reddit, shops)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1822,7 +1822,8 @@
       "date": "2026-10-19"
     },
     "slug": "ball-head-tripod",
-    "note": "2026-10-20: only RRS BH-40 and Benro GX35 on 2+ independent top-10 pages (Acratech GXP on 1) -> guide with 2 picks."
+    "note": "2026-10-20: only RRS BH-40 and Benro GX35 on 2+ independent top-10 pages (Acratech GXP on 1) -> guide with 2 picks.",
+    "publishedAt": "2026-10-20T13:41:31.424Z"
   },
   {
     "status": "deferred",

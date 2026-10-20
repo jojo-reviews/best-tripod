@@ -304,7 +304,7 @@ sources:
   - title: Benro GD3WH (Park Cameras)
     url: >-
       https://parkcameras.com/p/6375994W/tripod-heads/benro/gd3wh-precision-geared-tripod-head
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: Is a ball head or pan tilt head better for landscapes?
     a: >-
@@ -347,6 +347,7 @@ heroAlt: >-
   Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks – Best Tripod
   comparison
 related:
+  - ball-head-tripod
   - best-video-tripod-with-fluid-head-for-beginners
   - peak-design-travel-tripod-vs-manfrotto-befree-advanced
 ---

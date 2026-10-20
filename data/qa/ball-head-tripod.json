@@ -1,0 +1,16 @@
+{
+  "slug": "ball-head-tripod",
+  "pass": true,
+  "checkedAt": "2026-10-20T13:41:05.008Z",
+  "errors": [],
+  "warnings": [
+    "product \"Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-opened RRS BH-40-LR II page (17.1 oz/486 g, 3.0 in/76 mm, 18 lb, 40mm ball, 2.5 deg pan, 5-yr guarantee, 60mm clamp), Benro USA GX35 page (0.88 lb/0.4 kg, 77 lb/35 kg, 3.34 in/8.5 cm, 51 mm base, 3/8 in base thread, 1/4 in plate thread, 3-yr warranty +2 online), B&H GX35 page (14.1 oz/400 g, 3/8-16 base, 1/4-20 plate screw, 22 reviews; the one-star review describes two night-time lock-ups a year apart that cleared next day, post now matches), Exploring Exposure (BH-40 close second to Acratech GXP, -20 F freezer, load numbers arbitrary, drift with 100-500mm, lever clamp, RRS clamps vs other plates), Digital Camera World (GX35 friction not independent, 400 g, 85 mm), Photography & Travel (BH-40 top-of-the-line, reliable/strong/light), Ewen Bell review (Norway month, gloves, plates, two pans overkill, knob in notch; name removed from body), mcaughtry.photo (8 mm droop at 4 kg is from a 2015 Traumflieger test, now labelled so), DPReview quote verified verbatim. GX35 weight now 0.88 lb (0.4 kg) everywhere. Removed unsourced lever-clamp plate-width claim and generic thread claim; softened GX35 drift and 'two top reviews recommend' wording.",
+    "at": "2026-10-20T13:41:04.401Z",
+    "hash": "a10387978c2b738b"
+  }
+}
