@@ -909,7 +909,8 @@
     "painPoints": [
       "camera-tripods-center-column-vibration",
       "travel-tripods-center-column-tradeoff"
-    ]
+    ],
+    "productCount": 1
   },
   {
     "status": "pending",
@@ -1853,5 +1854,387 @@
     },
     "slug": "phone-tripod-stand",
     "note": "2026-10-19 SERP gate: 1 editorial page."
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "how to tighten tripod legs",
+      "floppy tripod legs fix",
+      "tripod leg keeps collapsing",
+      "twist lock tripod slipping"
+    ],
+    "questions": [
+      "why do my tripod legs keep slipping",
+      "how do you tighten a flip lock tripod leg"
+    ],
+    "priority": 6,
+    "keyword": "tripod leg lock won't hold",
+    "category": "camera-tripods",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Tripod Leg Lock Won't Hold? How to Tighten and Fix It",
+    "cluster": "tripod leg locks",
+    "painPoints": [
+      "camera-tripods-leg-joint-lock-failure"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point camera-tripods-leg-joint-lock-failure (uncovered). Live SERP 2026-10-20: YouTube x3, Facebook, kfconcept.com guide, improvephotography.com, dpreview and fredmiranda forum threads, r/AskPhotography, a Pivo support page; no store catalog and no DR 90 publisher wall. Independent articles and forums rank, so winnable. Volume/KD unknown (Ahrefs paused until 2026-11-09).",
+    "slug": "tripod-leg-lock-wont-hold",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "tripod vibration after pressing shutter",
+      "camera shake on tripod",
+      "remote release for tripod",
+      "2 second timer tripod"
+    ],
+    "questions": [
+      "why does my camera shake on a tripod when I press the shutter",
+      "do I need a remote release on a tripod"
+    ],
+    "priority": 6,
+    "keyword": "tripod shake when pressing shutter",
+    "category": "camera-tripods",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Tripod Shake When Pressing the Shutter: Causes and Fixes",
+    "cluster": "tripod stability",
+    "painPoints": [
+      "camera-tripods-shutter-press-shake"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point camera-tripods-shutter-press-shake (uncovered). Live SERP: r/AskPhotography, photo.stackexchange, photographylife.com, digital-photography-school.com, dpreview and rfshooters forums, Facebook; no stores. Forums and independent articles; winnable. Keep distinct from the wind-shake post (how-to-stop-tripod-shake-in-wind): this one is shutter, mirror and self-induced vibration. Volume/KD unknown.",
+    "slug": "tripod-shake-when-pressing-shutter",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "tripod spikes or rubber feet",
+      "tripod for soft ground",
+      "how to use a tripod on the beach",
+      "sand proof tripod legs"
+    ],
+    "questions": [
+      "can you use a tripod on sand",
+      "how do you protect a tripod from sand and salt water"
+    ],
+    "priority": 6,
+    "keyword": "tripod for sand and beach photography",
+    "category": "camera-tripods",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "Tripod for Sand and Beach Photography: What to Look For",
+    "cluster": "tripod feet and terrain",
+    "painPoints": [
+      "camera-tripods-soft-ground-slipping"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point camera-tripods-soft-ground-slipping. Live SERP: reallyrightstuff blog, photo.stackexchange, r/photography, fstoppers review, fujix-forum, travelingphotographer.com; one Amazon search page and a SLIK page. Mostly independent and forums; winnable. 'tripod spikes or rubber feet' had a store-dominated SERP (Gitzo, Peak Design, B&H, Ace, Sunway, K&F), so it is folded in here as a secondary, not a standalone post.",
+    "slug": "tripod-for-sand-and-beach-photography",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "how tall should a monopod be",
+      "monopod height for tall photographer",
+      "monopod length for eye level"
+    ],
+    "questions": [
+      "how tall should a monopod be",
+      "should a monopod reach eye level"
+    ],
+    "priority": 6,
+    "keyword": "what height monopod do i need",
+    "category": "monopods",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "What Height Monopod Do I Need? Sizing by Your Height",
+    "cluster": "monopod sizing",
+    "painPoints": [
+      "monopods-height-rough-terrain"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point monopods-height-rough-terrain (uncovered). Live SERP: r/AskPhotography, dpreview, flickr group, bcgforums, fredmiranda, talkphotography forums, accu-shot.com, 3leggedthing blog, photographymad.com; no store listings. Forum-dominated, winnable. Sister topic to the live tripod-height post, but a different product (monopod), so no cannibal hit.",
+    "slug": "what-height-monopod-do-i-need",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "3 section vs 4 section tripod",
+      "how many leg sections does a tripod need",
+      "tripod leg sections stability"
+    ],
+    "questions": [
+      "are 5 section tripods less stable",
+      "how many leg sections should a travel tripod have"
+    ],
+    "priority": 7,
+    "keyword": "4 section vs 5 section tripod",
+    "category": "travel-tripods",
+    "articleType": "comparison",
+    "intent": "informational",
+    "funnel": "mofu",
+    "workingTitle": "4-Section vs 5-Section Tripod: Stability vs Packed Length",
+    "cluster": "travel tripod build",
+    "painPoints": [
+      "travel-tripods-leg-section-count"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point travel-tripods-leg-section-count (uncovered). Live SERP: dpreview x1, fredmiranda, photo.net, rokslide, Facebook, reddit/largeformat forums, plus manfrotto.com guide, pictureline and thedigitalprocess blogs. One maker guide, rest forums and independent blogs; winnable. Related to queued 'twist lock vs flip lock tripod legs' but a different question (section count vs lock type); link, do not merge.",
+    "slug": "4-section-vs-5-section-tripod",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "budget gimbal head for telephoto",
+      "cheap gimbal head vs wimberley",
+      "best budget gimbal head for 150-600"
+    ],
+    "questions": [
+      "is a cheap gimbal head good enough for a 600mm lens",
+      "what is the best affordable gimbal head"
+    ],
+    "priority": 7,
+    "keyword": "are cheap gimbal heads any good",
+    "category": "tripod-heads",
+    "articleType": "guide",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Are Cheap Gimbal Heads Any Good? What You Give Up",
+    "cluster": "gimbal heads",
+    "painPoints": [
+      "tripod-heads-gimbal-cheap-vs-premium"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point tripod-heads-gimbal-cheap-vs-premium (uncovered). Live SERP: shuttermuse.com and digitalcameraworld.com roundups, backcountryjourneys.com, B&H explora guide, r/AskPhotography, dpreview, talkphotography, nikonites forums, YouTube, Facebook; no store catalog. Mix of publishers and forums with real product intent; winnable. Queued 'best gimbal head for 150-600mm lens' is the roundup; this is the budget-vs-premium angle, so check SERP overlap at write time.",
+    "slug": "are-cheap-gimbal-heads-any-good",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "travel gimbal head",
+      "compact gimbal head for telephoto",
+      "gimbal head too heavy to carry",
+      "light gimbal head for 100-400"
+    ],
+    "questions": [
+      "what is the lightest gimbal head",
+      "can you hike with a gimbal head"
+    ],
+    "priority": 7,
+    "keyword": "lightweight gimbal head for hiking",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Lightweight Gimbal Heads for Hiking and Travel",
+    "cluster": "gimbal heads",
+    "painPoints": [
+      "tripod-heads-gimbal-heavy-and-bulky"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point tripod-heads-gimbal-heavy-and-bulky (uncovered). Live SERP: digitalcameraworld.com, shuttermuse.com, birdforum, dpreview, bcgforums, r/photography, weseektravel.com, YouTube; one Best Buy category page. Mostly independent publishers and forums; winnable with a roundup. Real product intent (BOFU).",
+    "slug": "lightweight-gimbal-head-for-hiking",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "tripod head creep after locking",
+      "ball head drops when locked",
+      "why does my tripod head droop",
+      "camera sags on ball head"
+    ],
+    "questions": [
+      "why does my ball head sag after I tighten it",
+      "how do I stop tripod head creep"
+    ],
+    "priority": 6,
+    "keyword": "ball head sags after tightening",
+    "category": "tripod-heads",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "Ball Head Sags After Tightening: Why and How to Fix It",
+    "cluster": "ball head problems",
+    "painPoints": [
+      "tripod-heads-ballhead-sag-after-locking",
+      "tripod-heads-fine-framing-shifts-on-tightening"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain points tripod-heads-ballhead-sag-after-locking and tripod-heads-fine-framing-shifts-on-tightening. Live SERP: fredmiranda x1, dpreview, reddit/r/photography, talkphotography, photo.net, photo.stackexchange forums, kfconcept.com guide, uniquephoto Q&A, Quora, YouTube; no stores ranking. Forum-dominated, winnable. Existing post ball-head-tripod covers the product roundup; cannibal clean for this fix intent.",
+    "slug": "ball-head-sags-after-tightening",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "monopod for 150-600mm lens",
+      "heavy duty monopod for long lens",
+      "best monopod for sports photography with 400mm",
+      "monopod load capacity for telephoto"
+    ],
+    "questions": [
+      "can a monopod hold a 600mm lens",
+      "what monopod head for a heavy lens"
+    ],
+    "priority": 7,
+    "keyword": "monopod for heavy telephoto lens",
+    "category": "monopods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Monopod for a Heavy Telephoto Lens",
+    "cluster": "monopods for long lenses",
+    "painPoints": [
+      "monopods-arm-fatigue-heavy-lens"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point monopods-arm-fatigue-heavy-lens. Live SERP: r/AskPhotography, dpreview, bcgforums, Facebook, digitalcameraworld.com, slrlounge.com, YouTube; Amazon, B&H and Walmart category pages take 3 slots. Majority independent, so winnable but write it as a load-and-height-led roundup. Note: old 'best monopod for sports photography' was merged into an existing post; this keyword is lens-weight led.",
+    "slug": "monopod-for-heavy-telephoto-lens",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "benro gh2 vs wimberley wh-200",
+      "wimberley wh-200 alternatives",
+      "is wimberley worth the money"
+    ],
+    "questions": [
+      "is a Wimberley gimbal head worth it over a Benro",
+      "what is the best Wimberley alternative"
+    ],
+    "priority": 6,
+    "keyword": "wimberley vs benro gimbal head",
+    "category": "tripod-heads",
+    "articleType": "comparison",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Wimberley vs Benro Gimbal Head: Is the Premium Worth It?",
+    "cluster": "gimbal heads",
+    "painPoints": [
+      "tripod-heads-gimbal-cheap-vs-premium"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point tripod-heads-gimbal-cheap-vs-premium. Live SERP: fredmiranda, talkphotography, bcgforums, nikoncafe forums, shuttermuse.com, backcountryjourneys.com, YouTube, one B&H compare page. Forum and independent dominated; winnable. Model-vs-model comparison is allowed as a two-brand head-to-head, not a single-model navigational query. Adjacent to 'are cheap gimbal heads any good': keep both distinct (one guide, one head-to-head) and link them.",
+    "slug": "wimberley-vs-benro-gimbal-head",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "leveling tripod on slope",
+      "tripod leveling base",
+      "how to level a tripod without a bubble level"
+    ],
+    "questions": [
+      "how do you level a tripod on a hill",
+      "do I need a leveling base for a tripod"
+    ],
+    "priority": 5,
+    "keyword": "how to level a tripod on uneven ground",
+    "category": "camera-tripods",
+    "articleType": "how-to",
+    "intent": "informational",
+    "funnel": "tofu",
+    "workingTitle": "How to Level a Tripod on Uneven Ground",
+    "cluster": "tripod setup",
+    "source": "no-ahrefs",
+    "rationale": "Idea from Google SERP and r/AskPhotography leveling threads ('Tripod Leveling - Please help, I'm losing my mind'). Live SERP: getdpi, dpreview, cloudynights, r/AskPhotography forums, kentfaith blog, apresvisuals blog, Facebook/Instagram/YouTube; one Leofoto Facebook video. No store pages; winnable. Mild risk: several results are social posts, which suggests thin competition.",
+    "slug": "how-to-level-a-tripod-on-uneven-ground",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.108Z",
+    "secondaryKeywords": [
+      "best tripod for moon photos",
+      "tripod head for photographing the moon",
+      "tripod for 600mm moon shots"
+    ],
+    "questions": [
+      "what tripod do I need for moon photography",
+      "do you need a tripod to photograph the moon"
+    ],
+    "priority": 6,
+    "keyword": "tripod for moon photography",
+    "category": "camera-tripods",
+    "articleType": "guide",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Tripod for Moon Photography: What Holds a Long Lens Steady",
+    "cluster": "astro and long-lens tripods",
+    "painPoints": [
+      "camera-tripods-light-tripod-heavy-lens-shake"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point camera-tripods-light-tripod-heavy-lens-shake (uncovered; threads cite 600mm plus teleconverter moon shots on photo.stackexchange q/125034). Live SERP: Facebook x2, dpreview, cloudynights forums, photopills.com, space.com, astrobackyard.com, reddit; no stores. Independent articles plus forums; winnable. Keep angle on the tripod and head, not moon technique.",
+    "slug": "tripod-for-moon-photography",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
+  },
+  {
+    "status": "needs-data",
+    "attempts": 0,
+    "addedAt": "2026-10-20T18:58:22.109Z",
+    "secondaryKeywords": [
+      "monogimbal on monopod",
+      "gimbal head on a monopod",
+      "monopod gimbal head for zoom lens",
+      "best monopod head for long lens"
+    ],
+    "questions": [
+      "can you use a gimbal head on a monopod",
+      "what monopod works with a gimbal head"
+    ],
+    "priority": 6,
+    "keyword": "monopod for gimbal head",
+    "category": "monopods",
+    "articleType": "guide",
+    "intent": "commercial",
+    "funnel": "mofu",
+    "workingTitle": "Monopod for a Gimbal Head: What Base Stability You Need",
+    "cluster": "monopods for long lenses",
+    "painPoints": [
+      "monopods-wobble-with-gimbal-weight"
+    ],
+    "source": "no-ahrefs",
+    "rationale": "Pain point monopods-wobble-with-gimbal-weight. Live SERP: bcgforums x2, fredmiranda, talkphotography, r/sportsphotography forums, backcountrygallery.com, the-digital-picture.com review, YouTube; the Wimberley maker page and one Amazon page rank (2 of 10). Mostly independent and forums; winnable. Close to 'monopod for heavy telephoto lens' but the question is the head and base wobble; link, do not merge.",
+    "slug": "monopod-for-gimbal-head",
+    "lastError": "no Ahrefs data recorded (run keywords-explorer-overview, US) — not selectable until checked"
   }
 ]
