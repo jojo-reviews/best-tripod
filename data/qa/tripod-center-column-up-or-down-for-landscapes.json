@@ -1,0 +1,18 @@
+{
+  "slug": "tripod-center-column-up-or-down-for-landscapes",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:25:35.270Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "keyword overlaps /blog/how-tall-should-a-tripod-be-for-my-height/ (\"tripod center column up or down for landscapes\" overlaps \"tripod height without center column\" (75%))"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after wording edits (voice and length only; no new facts). Guide with 0 products. thecentercolumn.com 'Why Center Columns Reduce Tripod Stability': roughly 15% stiffness loss from adding a column (RRS TVC-23), Ascend-14 loses about half at full extension, vibrations decay four times slower fully extended (Benro TMA27A), about five seconds to settle with GFX50S + 32-64, heavy camera or wind tolerable but not both. NYC Photo Safari #176: about six inches rule, 12 to 18 inches extra height. Tim Shields: 'the shortest center column possible'. bcgforums 43414: low-angle quote verbatim, half a stop faster tip, reversed-column screen access. Talk Photography 748868: short centre column quote verbatim, Manfrotto/Gitzo horizontal columns, systematic with accessory column. DPReview 3991946: 35-year career 'just in case', columnless RRS praised. Reddit 15gbgj8 and DPReview 4678070 quotes verified verbatim via search excerpts. Video jRYUT8aPd0o is Jeffrey Tadlock Photography 'Tripod Center Columns - Landscape Photography'. Illustration prompts: no brands, models, text or people.",
+    "at": "2026-10-21T10:25:34.885Z",
+    "hash": "1b2f80eca881595c"
+  }
+}

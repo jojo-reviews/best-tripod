@@ -874,7 +874,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -913,7 +913,8 @@
       "camera-tripods-center-column-vibration",
       "travel-tripods-center-column-tradeoff"
     ],
-    "productCount": 1
+    "productCount": 1,
+    "publishedAt": "2026-10-21T10:26:02.970Z"
   },
   {
     "status": "pending",

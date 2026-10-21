@@ -99,24 +99,39 @@ faqs:
       hard surfaces. Grass is a poor base either way, so find firmer ground
       where you can.
 illustrations:
-  - prompt: "A tripod spread wide and low on firm rock at a windy coastal bluff, center column fully down, camera close to the ground, sea spray and wind-bent grass around it, overcast sky, low side angle, muted natural colors, no people."
-    alt: "A tripod set low with its center column down on a windy coastal bluff"
+  - prompt: >-
+      A tripod spread wide and low on firm rock at a windy coastal bluff, center
+      column fully down, camera close to the ground, sea spray and wind-bent
+      grass around it, overcast sky, low side angle, muted natural colors, no
+      people.
+    alt: A tripod set low with its center column down on a windy coastal bluff
     afterHeading: 3
-  - prompt: "A canvas bag filled with stones resting on the sand beneath a tripod and tied taut to the center column with a short cord, wind blowing loose sand across the beach, low camera angle, soft evening light, no people in the frame."
-    alt: "A stone-filled bag on the ground tied taut to a tripod's center column on a windy beach"
+  - prompt: >-
+      A canvas bag filled with stones resting on the sand beneath a tripod and
+      tied taut to the center column with a short cord, wind blowing loose sand
+      across the beach, low camera angle, soft evening light, no people in the
+      frame.
+    alt: >-
+      A stone-filled bag on the ground tied taut to a tripod's center column on
+      a windy beach
     afterHeading: 4
-  - prompt: "A photographer seen from behind standing on the windward side of a tripod to block the gusts, jacket flapping, the camera pointed at a stormy lake, wide shot, heavy grey clouds, natural light, face not visible."
-    alt: "A photographer shielding a tripod from the wind with their body beside a stormy lake"
+  - prompt: >-
+      A photographer seen from behind standing on the windward side of a tripod
+      to block the gusts, jacket flapping, the camera pointed at a stormy lake,
+      wide shot, heavy grey clouds, natural light, face not visible.
+    alt: >-
+      A photographer shielding a tripod from the wind with their body beside a
+      stormy lake
     afterHeading: 5
 videos:
   - id: 1ekR6cBIQFg
     afterHeading: 1
 author: editorial-team
 related:
+  - tripod-center-column-up-or-down-for-landscapes
   - tripod-leg-lock-wont-hold
   - tripod-shake-when-pressing-shutter
   - twist-lock-vs-flip-lock-tripod-legs
-  - carbon-fiber-vs-aluminum-tripod-for-hiking
 heroImage: /images/featured/how-to-stop-tripod-shake-in-wind.png
 heroAlt: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First – Best Tripod guide'
 ---
