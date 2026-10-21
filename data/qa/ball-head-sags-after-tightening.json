@@ -1,12 +1,19 @@
 {
   "slug": "ball-head-sags-after-tightening",
   "pass": true,
-  "checkedAt": "2026-10-21T19:50:36.098Z",
+  "checkedAt": "2026-10-21T19:54:22.175Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/",
+    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-ball-head-loose",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/410699/1",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/"
   ],
   "factCheck": {
     "verified": true,

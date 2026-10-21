@@ -1,11 +1,13 @@
 {
   "slug": "best-tripod-for-spotting-scope",
   "pass": true,
-  "checkedAt": "2026-10-21T19:50:41.414Z",
+  "checkedAt": "2026-10-21T19:55:42.211Z",
   "errors": [],
   "warnings": [
     "product \"SLIK PRO CF-634 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1438837-REG/slik_611_895_pro_cf_634_tripod_black.html/reviews",
+    "source didn't respond normally (403): https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
   ],
   "factCheck": {
     "verified": true,

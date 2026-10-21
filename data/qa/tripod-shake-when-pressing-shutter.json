@@ -1,13 +1,16 @@
 {
   "slug": "tripod-shake-when-pressing-shutter",
   "pass": true,
-  "checkedAt": "2026-10-21T19:50:49.750Z",
+  "checkedAt": "2026-10-21T19:56:20.499Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
+    "source didn't respond normally (403): https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
   ],
   "factCheck": {
     "verified": true,
