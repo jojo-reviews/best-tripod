@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-10-19T10:12:43.511Z",
+  "checkedAt": "2026-10-21T07:03:16.226Z",
   "errors": [],
   "warnings": [
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
   ],
   "factCheck": {

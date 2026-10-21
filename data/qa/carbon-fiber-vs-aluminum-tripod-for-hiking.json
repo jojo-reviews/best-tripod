@@ -1,13 +1,18 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-21T06:59:23.305Z",
+  "checkedAt": "2026-10-21T07:01:45.148Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
+    "source didn't respond normally (403): https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
   ],
   "factCheck": {
     "verified": true,

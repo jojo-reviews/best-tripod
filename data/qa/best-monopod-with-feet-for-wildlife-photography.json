@@ -1,13 +1,14 @@
 {
   "slug": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-10-20T15:02:51.546Z",
+  "checkedAt": "2026-10-21T07:01:11.446Z",
   "errors": [],
   "warnings": [
     "body has 1726 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S AM-264TR Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.adorama.com/vgam264tr.html",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1778617-REG/neewer_66601445_extendable_camera_monopod_stand.html",
     "source didn't respond normally (403): https://www.sony.co.th/en/electronics/camera-lenses/sel200600g/specifications"

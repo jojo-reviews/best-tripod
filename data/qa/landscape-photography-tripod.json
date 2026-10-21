@@ -1,7 +1,7 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-20T10:51:31.543Z",
+  "checkedAt": "2026-10-21T07:01:52.044Z",
   "errors": [],
   "warnings": [
     "body has 3081 words, over the 2300 limit (top results average 2000): cut repetition and filler",
@@ -9,7 +9,8 @@
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,

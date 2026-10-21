@@ -1,13 +1,20 @@
 {
   "slug": "twist-lock-vs-flip-lock-tripod-legs",
   "pass": true,
-  "checkedAt": "2026-10-21T06:59:25.591Z",
+  "checkedAt": "2026-10-21T07:01:59.830Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/tripod-leg-lock-wont-hold/ (\"twist lock vs flip lock tripod legs\" overlaps \"tripod leg lock won't hold\" (75%))"
+    "keyword overlaps /blog/tripod-leg-lock-wont-hold/ (\"twist lock vs flip lock tripod legs\" overlaps \"tripod leg lock won't hold\" (75%))",
+    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/",
+    "source didn't respond normally (403): https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/",
+    "source didn't respond normally (403): https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/"
   ],
   "factCheck": {
     "verified": true,

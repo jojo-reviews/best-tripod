@@ -1,7 +1,7 @@
 {
   "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-20T10:52:20.632Z",
+  "checkedAt": "2026-10-21T07:01:01.496Z",
   "errors": [],
   "warnings": [
     "body has 2752 words, over the 1840 limit (top results average 1600): cut repetition and filler",
@@ -9,7 +9,8 @@
     "product \"Leofoto LH-40\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui K-30X Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto XPRO 3-Way Head MHXPRO-3W\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Benro GD3WH 3-Way Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Benro GD3WH 3-Way Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (no response): https://castlecameras.co.uk/sirui-k-30x-ball-head/p2327"
   ],
   "factCheck": {
     "verified": true,
