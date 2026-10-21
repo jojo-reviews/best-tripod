@@ -132,5 +132,8 @@
   "footer.safety": "Bleib immer innerhalb der angegebenen Tragkraft eines Stativs und beachte die Anleitung des Herstellers.",
   "post.brandsAria": "Marken in diesem Ratgeber",
   "post.brandsLabel": "Marken in diesem Ratgeber:",
-  "score.name": "{site} Spec-Score"
+  "score.name": "{site} Spec-Score",
+  "photo.ai": "KI-generierte Illustration",
+  "video.play": "Video abspielen",
+  "video.caption": "Video: {title} ({channel} auf YouTube)"
 }

@@ -121,5 +121,8 @@
   "footer.brands": "Tripod brands",
   "footer.safety": "Always stay within a tripod's rated load and follow the manufacturer's instructions.",
   "post.brandsAria": "Brands in this guide",
-  "post.brandsLabel": "Brands in this guide:"
+  "post.brandsLabel": "Brands in this guide:",
+  "photo.ai": "AI-generated illustration",
+  "video.play": "Play video",
+  "video.caption": "Video: {title} ({channel} on YouTube)"
 }

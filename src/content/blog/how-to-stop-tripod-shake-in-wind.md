@@ -66,6 +66,8 @@ sources:
       Exchange)
     url: >-
       https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod
+  - title: Beaufort Wind Scale (National Weather Service)
+    url: 'https://www.weather.gov/mfl/beaufort'
   - title: How can I reduce tripod vibration in strong wind? (Unique Photo)
     url: >-
       https://www.uniquephoto.com/community/qa/how-can-i-reduce-tripod-vibration-in-strong-wind
@@ -96,6 +98,19 @@ faqs:
       Spikes grip sand, mud and soft ground; rubber feet suit rock and smooth
       hard surfaces. Grass is a poor base either way, so find firmer ground
       where you can.
+illustrations:
+  - prompt: "A tripod spread wide and low on firm rock at a windy coastal bluff, center column fully down, camera close to the ground, sea spray and wind-bent grass around it, overcast sky, low side angle, muted natural colors, no people."
+    alt: "A tripod set low with its center column down on a windy coastal bluff"
+    afterHeading: 3
+  - prompt: "A canvas bag filled with stones resting on the sand beneath a tripod and tied taut to the center column with a short cord, wind blowing loose sand across the beach, low camera angle, soft evening light, no people in the frame."
+    alt: "A stone-filled bag on the ground tied taut to a tripod's center column on a windy beach"
+    afterHeading: 4
+  - prompt: "A photographer seen from behind standing on the windward side of a tripod to block the gusts, jacket flapping, the camera pointed at a stormy lake, wide shot, heavy grey clouds, natural light, face not visible."
+    alt: "A photographer shielding a tripod from the wind with their body beside a stormy lake"
+    afterHeading: 5
+videos:
+  - id: 1ekR6cBIQFg
+    afterHeading: 1
 author: editorial-team
 related:
   - tripod-leg-lock-wont-hold
@@ -120,37 +135,39 @@ Here is how to stop tripod shake in wind: find what is moving, lower the tripod 
 6. Raise shutter speed or stack frames.
 7. Upgrade only when 1-6 fail.
 
+The video below, from landscape photographer Todd Dominey, walks through most of these fixes.
+
 ## Diagnose tripod vibration in strong wind first
 
 **Watch live view at full magnification during a gust; the motion tells us the fix.**
 
 - **Legs buzzing (sail effect):** a recurring point on [Photography Stack Exchange](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) is "Wind will vibrate across the legs and transmit up to the camera." Fixes 2-4 cure it.
-- **Head or lens twisting:** the frame swings while legs stay put. A [Unique Photo thread](https://www.uniquephoto.com/community/qa/how-can-i-reduce-tripod-vibration-in-strong-wind) owner has weights on the center pole yet the head still twists, and a reader quoted by [G Dan Mitchell](https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/) found a 10 lb weight did not help. Weight cannot stop the tripod head (ball head or pan-tilt) turning under a long lens; we would pull the hood, mount by the lens tripod collar and pick a head rated far above the load, as a [strong-winds thread](https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds) advises. Our [ball head vs pan-tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) covers twist.
-- **Shake you add:** pressing the shutter can blur as much as a gust. Tripod discipline means hands off.
+- **Head or lens twisting:** the frame swings while legs stay put. A [Unique Photo thread](https://www.uniquephoto.com/community/qa/how-can-i-reduce-tripod-vibration-in-strong-wind) owner has weights on the center pole yet the head still twists, and a reader quoted by G Dan Mitchell found that [hanging a 10 lb weight](https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/) did not help. Weight cannot stop a head turning under a long lens; we would pull the hood, mount by the lens tripod collar and pick a head rated far above the load, as a [strong-winds thread](https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds) advises. Our [ball head vs pan-tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) covers twist.
+- **Shake you add:** pressing the shutter can blur as much as a gust.
 
 ## Lower the tripod and keep the column down
 
-**Keep a tripod in wind on its legs' thickest sections, with a low center of gravity.** A rig that rings once the tripod center column goes up is a recurring r/AskPhotography complaint: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" ([thread](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/)). Our [tripod height without the center column](/blog/how-tall-should-a-tripod-be-for-my-height/) guide gives the legs-only height to buy.
+**Keep a tripod in wind on its legs' thickest sections, with a low center of gravity.** A raised center column is a recurring r/AskPhotography complaint: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" ([thread](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/)). Our [tripod height without the center column](/blog/how-tall-should-a-tripod-be-for-my-height/) guide gives the legs-only height to buy.
 
-Tripod spikes, rock claws and big feet suit different ground: spikes for sand and mud, rubber for smooth rock. One [supertelephoto thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod) answer is blunt: "Grass is not stable." Move to firmer ground.
+Spikes suit sand and mud, rubber feet smooth rock. One [supertelephoto thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod) answer is blunt: "Grass is not stable." Move.
 
 ## Weigh down a tripod without making it swing
 
-**Weight on the ground, tethered, beats a bag dangling in gusts.** [Photography Life](https://photographylife.com/how-to-make-tripod-more-stable) says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a bag on the ground; a commenter adds a ground screw anchor, and another argues a hung bag adds inertia. Rule of thumb: if a hung bag moves, lower it until it touches the ground.
+**Weight on the ground, tethered, beats a bag dangling in gusts.** [Photography Life](https://photographylife.com/how-to-make-tripod-more-stable) says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a bag on the ground. If a hung bag moves, lower it to the ground.
 
-The tripod hook (center-column hook) is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" ([thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). With neither, we would fill a stone bag (weight bag) with rocks on site or cord the apex to a rock. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
+The center-column hook is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" ([thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). Without one, we fill a stone bag on site or cord the apex to a rock. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
 
 ## Block the wind and trim the sails
 
-**Wind shielding (body, umbrella, rock, tree) stops gusts before they reach the rig, so set up on the lee side.** A hood or loose strap is a sail.
+**Wind shielding (body, umbrella, rock, tree) stops gusts before they reach the rig, so set up on the lee side.** A hood or loose strap is a sail. Umbrellas stop helping at a [strong breeze of 25-31 mph](https://www.weather.gov/mfl/beaufort), when the National Weather Service says they are used with difficulty.
 
 ## Remove the shake you cause
 
-**Never touch the camera during the exposure.** For shutter-press shake, that supertelephoto thread advises: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." A shutter delay lets mirror slap settle; on mirrorless, electronic front-curtain / electronic shutter removes shutter shock. Test lens stabilization (IS/VR) per lens.
+**Never touch the camera during the exposure.** That supertelephoto thread advises: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." A shutter delay lets mirror slap settle; on mirrorless, electronic front-curtain / electronic shutter removes shutter shock. Test lens stabilization (IS/VR) per lens.
 
 ## When tripod stability in wind fails
 
-**Stop chasing one long exposure.**
+**Stop chasing one long exposure.** Even a rock-solid tripod lets the camera vibrate [in a 40 mph wind](https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/), G Dan Mitchell notes.
 
 1. Raise the shutter speed, then ISO.
 2. Use exposure stacking, as the strong-winds thread suggests.

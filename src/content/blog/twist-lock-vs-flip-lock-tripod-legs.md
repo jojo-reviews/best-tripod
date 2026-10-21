@@ -51,6 +51,8 @@ sources:
   - title: Twist Locks vs Lever Locks – Which Is Better? (Vanguard)
     url: >-
       https://www.vanguardworld.co.uk/blogs/co-uk/twist-locks-vs-lever-locks-which-is-better
+  - title: 'Gitzo Traveler Series 1, 4 sections (GT1545T)'
+    url: 'https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/'
   - title: Twist vs. Lever Locks for Travel Tripods (Ulanzi)
     url: >-
       https://www.ulanzi.com/blogs/knowledges/twist-vs-lever-locks-travel-tripod-guide
@@ -102,6 +104,19 @@ faqs:
       Open the lever, tighten its tension screw or nut a small amount, close it
       and press down on the leg. If it still slips with the lever tight, clean
       the tube or replace worn parts.
+illustrations:
+  - prompt: "Side by side close-up of two tripod legs, one with round threaded twist collars and one with external lever clamps, standing on a light wooden floor, soft studio light, shallow depth of field, clean neutral background, no logos or text."
+    alt: "A tripod leg with twist lock collars beside a leg with flip lock levers"
+    afterHeading: 2
+  - prompt: "A tripod standing on a windy beach with sand dusting its lower leg sections and locks, waves breaking in the background, low angle close to the sand, late afternoon sun, small grains visible on the leg tubes, no people."
+    alt: "Sand dusting the lower leg sections and locks of a tripod on a beach"
+    afterHeading: 4
+  - prompt: "Hands in thick winter gloves opening a lever lock on a tripod leg in falling snow, a mountain scene softly blurred behind, close-up from the side, cold blue light, face not visible, frost on the metal tubes."
+    alt: "Gloved hands opening a lever lock on a tripod leg in the snow"
+    afterHeading: 5
+videos:
+  - id: LXXjzoiDas4
+    afterHeading: 3
 author: editorial-team
 heroImage: /images/featured/twist-lock-vs-flip-lock-tripod-legs.png
 heroAlt: >-
@@ -137,7 +152,7 @@ This table compares the two on what most top results agree on:
 | Adjustment | Rarely needed | Tension screw, tool needed |
 | Stability | Excellent on good designs | Excellent on good designs |
 
-Section count is a separate choice from lock type, though every extra section adds one more lock per leg to open, clean and wear out.
+Section count is a separate choice: most modern tripods have [between 3 and 5 telescopic leg sections](https://www.vanguardworld.co.uk/blogs/co-uk/twist-locks-vs-lever-locks-which-is-better), Vanguard notes, and each extra section adds one more lock per leg.
 
 ## Speed – which tripod legs set up faster
 
@@ -148,11 +163,11 @@ Section count is a separate choice from lock type, though every extra section ad
 3. Set the height, then turn the collars back to lock them.
 4. Press down on the empty tripod before mounting the camera.
 
-Twist locks give no visual cue, hence step 4. Flip locks keep an edge for one-leg height tweaks on uneven ground.
+Twist locks give no visual cue, hence step 4. Flip locks keep an edge for one-leg height tweaks on uneven ground. The video below, from Vanguard, compares both lock types.
 
 ## Sand and grit – why both lock types foul
 
-**Sand fouls both locks, just in different places, so the routine after a beach shoot matters more than the lock type.** The sources contradict each other here. Ulanzi argues grit jams lever cams while twist locks stay sealed. One DPReview owner says flip locks "don't get fouled like twists, especially in sand, dust, etc." Another, in the [same DPReview thread](https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/), writes: "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain."
+**Sand fouls both locks, just in different places, so the routine after a beach shoot matters more than the lock type.** Ulanzi argues grit jams lever cams while twist locks stay sealed. One DPReview owner says flip locks "don't get fouled like twists, especially in sand, dust, etc." Another, in the [same DPReview thread](https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/), writes: "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain."
 
 In our reading, both are right. Twist-lock threads trap grit inside the collar, so cleaning means unscrewing it. Flip-lock levers sit outside and wipe clean easily, though Vanguard notes their pivots and screws collect dirt, and grit still rides into the tubes; and a [Reddit landscape shooter](https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/) says flip locks make "it nearly impossible to disassemble the tripod to clean out the sand". Our beach routine, from [K&F Concept's fix guide](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock):
 
@@ -162,7 +177,7 @@ In our reading, both are right. Twist-lock threads trap grit inside the collar, 
 
 ## Cold and gloves
 
-**In gloves, the bigger control wins: a large lever, or a large, textured twist collar.** Vanguard and Ulanzi both call levers the easier option in winter, yet a Reddit owner says the opposite: "I prefer twist because they are easier to deal with with gloves and mittens on". Vanguard's own table explains the split: for twist locks, winter use "depends on grip design". A Stack Exchange answer adds that old, wet or cold twist collars get harder to grip, and that levers "may be effective longer" with gloves, sand and salt water. Before buying, we'd work every lock in the gloves you actually wear. Bare aluminum legs also get painfully cold, which is part of our [carbon fiber vs aluminum comparison for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/).
+**In gloves, the bigger control wins: a large lever, or a large, textured twist collar.** Vanguard and Ulanzi both call levers the easier option in winter, yet a Reddit owner says the opposite: "I prefer twist because they are easier to deal with with gloves and mittens on". Vanguard's own table explains the split: for twist locks, winter use "depends on grip design". A Stack Exchange answer adds that old, wet or cold twist collars get harder to grip, and that levers "may be effective longer" with gloves, sand and salt water. Gitzo rates its twist-lock Traveler legs to a [minimum working temperature of -30 °C](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/). Before buying, we'd work every lock in the gloves you actually wear. Bare aluminum legs also get painfully cold, which is part of our [carbon fiber vs aluminum comparison for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/).
 
 > **From our notes:** When we lined up the two maker guides for this piece, one difference stood out. Really Right Stuff's cleaning steps finish with a thin layer of synthetic grease on the twist-lock grooves. K&F Concept says regular lubrication is generally unnecessary and that lubricant on gripping surfaces can reduce friction and attract dirt. Read side by side, they agree more than they seem to: grease belongs on threads only where your maker says so, never on the tube the lock grips.
 
@@ -189,4 +204,4 @@ This table sums up what each lock needs:
 
 ## Which leg lock to choose
 
-**Choose twist locks for packing, quiet and trail use; choose flip locks for glove-heavy winters, fast checks and easy tension fixes.** Either way, we'd pick a tripod with metal lock parts and a maker that sells spares over chasing a lock type. Our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) shows how cam and lever locks look on real models. Our [hiking tripods by pack weight](/blog/best-hiking-tripod/) list each model's lock type, and the [tripod buying checklist](/tripod-buying-checklist/) covers the rest.
+**Choose twist locks for packing, quiet and trail use; choose flip locks for glove-heavy winters, fast checks and easy tension fixes.** Vanguard expects a good tripod to last [5-10 years of use](https://www.vanguardworld.co.uk/blogs/co-uk/twist-locks-vs-lever-locks-which-is-better), so we'd pick a tripod with metal lock parts and a maker that sells spares over chasing a lock type. Our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) shows how cam and lever locks look on real models. Our [hiking tripods by pack weight](/blog/best-hiking-tripod/) list each model's lock type, and the [tripod buying checklist](/tripod-buying-checklist/) covers the rest.

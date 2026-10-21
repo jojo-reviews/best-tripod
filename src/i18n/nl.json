@@ -132,5 +132,8 @@
   "footer.safety": "Blijf altijd binnen het opgegeven draagvermogen van een statief en volg de instructies van de fabrikant.",
   "post.brandsAria": "Merken in deze gids",
   "post.brandsLabel": "Merken in deze gids:",
-  "score.name": "{site} Spec-score"
+  "score.name": "{site} Spec-score",
+  "photo.ai": "Door AI gegenereerde illustratie",
+  "video.play": "Video afspelen",
+  "video.caption": "Video: {title} ({channel} op YouTube)"
 }

@@ -1,13 +1,18 @@
 {
   "slug": "4-section-vs-5-section-tripod",
   "pass": true,
-  "checkedAt": "2026-10-20T20:00:55.249Z",
+  "checkedAt": "2026-10-21T06:59:22.777Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-recorded after removing an unsourced twist-lock claim from one FAQ. Verified as before: Gitzo GT1545T/GT1555T spec pages (all table rows, 10 kg payload, 135mm/200mm lens advice, twist locks), Manfrotto 055 3 vs 4 section fold, Pictureline section claim, TheDigitalProcess lock count and setup order, Rokslide tube diameters, Fred Miranda topic 1867219 owner reports, DPReview threads 3552792, 4575894 page 2 and 4678070 quotes (all verbatim), Reddit hardened-grease report via search excerpt. 0 products. No prices, ratings or testing claims.",
-    "at": "2026-10-20T20:01:04.019Z",
-    "hash": "2456000c10899984"
+    "notes": "Re-recorded after removing an unsourced twist-lock claim from one FAQ. Verified as before: Gitzo GT1545T/GT1555T spec pages (all table rows, 10 kg payload, 135mm/200mm lens advice, twist locks), Manfrotto 055 3 vs 4 section fold, Pictureline section claim, TheDigitalProcess lock count and setup order, Rokslide tube diameters, Fred Miranda topic 1867219 owner reports, DPReview threads 3552792, 4575894 page 2 and 4678070 quotes (all verbatim), Reddit hardened-grease report via search excerpt. 0 products. No prices, ratings or testing claims. Media and numbers backfill 2026-10-21, re-opened via Firecrawl: Manfrotto tripod-buying-guide states the 055 folds to 21.26 in (54 cm) with 4 sections against 24.8 in (63 cm) with 3 (link now on the number); Gitzo GT1545T page (gitzo.com/us-en/...gt1545tus/) lists Legs Tube Diameter 14.7, 18.3, 21.7, 25.3 mm and Maximum Height (with Center Column Down) 130 cm; Gitzo GT1555T page (gitzo.com/global/...gt1555t/) lists 11.2, 14.7, 18.3, 21.7, 25.3 mm and 121 cm column down. Links put on 54 cm/63 cm, 14.7 mm, 11.2 mm, 121 cm and 130 cm. Added 3 AI illustration prompts (no brands, models, text or people). No video: no maker or well-known channel video on 4 vs 5 sections found.",
+    "at": "2026-10-21T06:59:16.403Z",
+    "hash": "8b9ecdec42e183a0"
   }
 }

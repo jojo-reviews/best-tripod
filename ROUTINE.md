@@ -382,3 +382,12 @@ build when a recorded URL has no post file and no redirect.
   goes through a redirect, and set `updatedDate` on the kept post.
 - Merging queued keywords (no post yet) needs no redirect: mark the entry `merged` with `mergedInto`.
 - The script collapses redirect chains (A → B → C becomes A → C) and warns about redirects to a missing post.
+
+## Media and numbers (owner rule, permanent, every site and language)
+
+No text-only posts. Every post that has no product photos (how-tos, guides, comparisons without picks) carries 2-3 AI illustrations, and every post backs its key numbers with a link on the number itself.
+- **Brief (step 4):** `stats` (3-6 numbers with the source URL and a verbatim quote, e.g. maker weight specs, vibration or load tests, wind-speed scales) and `videos` (0-2 YouTube ids) from Firecrawl.
+- **Writer (step 6):** stats in the text as `[number and claim](source-url)` (2+ in a post without products, 1+ in roundups); `illustrations: [{prompt, alt, afterHeading}]` for posts without products (realistic scene, no brands, no text, no tripod or head models, no recognisable people); `videos: [{id, afterHeading}]` when the brief found a good one.
+- **AI images at deploy time:** this repo has no Cloudflare secret and no ai-images workflow. The RentersmartHome repo's `launch-site.yml` runs `node agents/ai-images.mjs` in this site's checkout on every deploy: it generates each illustration with Cloudflare Workers AI (FLUX.1 schnell) into `public/images/ai/` (file names carry a prompt hash, kept in that workflow's Actions cache, so each image is generated once; not committed here), fills `src` in the deployed build, and checks every video with YouTube oEmbed (fills title and channel, drops removed or non-embeddable videos). Illustrations are captioned "AI-generated illustration". Videos load as a thumbnail and play from youtube-nocookie.com only on click (no page-speed cost).
+- **QA (step 7b):** errors before go-live on a post without products with fewer than 2 illustrations or 2 sourced numbers (1 for roundups); warns on live posts so the backlog gets fixed. The "illustration not generated yet" warning is expected in this repo. The qa-agent opens every number link and checks the number is on that page.
+- **Translations:** same illustrations (alt translated), same videos, same number links.

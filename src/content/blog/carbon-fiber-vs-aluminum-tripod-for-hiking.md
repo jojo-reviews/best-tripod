@@ -51,6 +51,8 @@ tldr:
 sources:
   - title: Carbon Fiber Tripod vs Aluminum Tripod (K&F Concept)
     url: 'https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod'
+  - title: Tripod Buying Guide (Manfrotto)
+    url: 'https://www.manfrotto.com/global-en/stories/tripod-buying-guide/'
   - title: Carbon Fiber vs Aluminum Hunting Tripods (Outdoorsmans)
     url: >-
       https://outdoorsmans.com/blogs/tripods/carbon-fiber-hunting-tripods-vs-aluminum-hunting-tripods
@@ -97,6 +99,16 @@ faqs:
     a: >-
       Yes. Keep the column down, use the thickest leg sections, hang a bag from
       the hook or tether it to the ground, and keep the rig out of the wind.
+illustrations:
+  - prompt: "A matte black carbon fiber tripod leg and a brushed silver aluminum tripod leg lying next to each other on a granite boulder, frost on the rock, cold early morning light, close-up side view showing the different surface textures, no logos or text."
+    alt: "A carbon fiber tripod leg next to an aluminum tripod leg on a frosty boulder"
+    afterHeading: 2
+  - prompt: "A lightweight tripod set low on a windswept alpine ridge with a backpack hanging from its center column hook, grass bent flat by the wind, dramatic clouds overhead, wide angle from behind, late afternoon light, no people in the frame."
+    alt: "A light hiking tripod set low on a windy ridge with a backpack hanging from its hook"
+    afterHeading: 3
+  - prompt: "Gloved hands wrapping insulating tape around the upper legs of a metal tripod at a snowy trailhead, breath vapor in the cold air, overcast winter light, close-up from the side, face not shown, a backpack and snowshoes resting in the background."
+    alt: "Gloved hands wrapping tape around aluminum tripod legs at a snowy trailhead"
+    afterHeading: 5
 author: editorial-team
 heroImage: /images/featured/carbon-fiber-vs-aluminum-tripod-for-hiking.png
 heroAlt: >-
@@ -143,7 +155,7 @@ This table compares the two materials on what a hiker notices:
 
 ### Weight and price
 
-A carbon fiber tripod is lighter for the same stiffness, its fibers bonded in epoxy resin. The catch: carbon is expensive next to an aluminum tripod.
+A carbon fiber tripod is lighter for the same stiffness, its fibers bonded in epoxy resin. Manfrotto's own buying guide puts a number on it for its 055 legs: the [3-section carbon version weighs 2000 g against 2500 g in aluminum](https://www.manfrotto.com/global-en/stories/tripod-buying-guide/), tripod alone without a head. The catch: carbon is expensive next to an aluminum tripod.
 
 ### Vibration damping and touch temperature
 
@@ -191,7 +203,7 @@ A monopod or trekking pole conversion lets one item do two jobs; we think leavin
 
 ### Too heavy to carry
 
-This comes up in a [DPReview hiking thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/): one poster with about 7 lb of camera gear, hiking for waterfall shots, wrote that the "Lightest I have found is the Peak Design Carbon Fiber at around 2.8 pounds." The r/Ultralight thread ["Most ultralight full frame tripod (& not taking one)"](https://www.reddit.com/r/Ultralight/comments/1dy4psz/most_ultralight_full_frame_tripod_not_taking_one/) shows that some packers weigh leaving it behind. Our fix: weigh legs, column and head together, drop the column if you don't need it, and pick carbon with fewer, thicker sections.
+This comes up in a [DPReview hiking thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/): one poster with about 7 lb of camera gear, hiking for waterfall shots, wrote that the "Lightest I have found is the Peak Design Carbon Fiber at [around 2.8 pounds](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)." The r/Ultralight thread ["Most ultralight full frame tripod (& not taking one)"](https://www.reddit.com/r/Ultralight/comments/1dy4psz/most_ultralight_full_frame_tripod_not_taking_one/) shows that some packers weigh leaving it behind. Our fix: weigh legs, column and head together, drop the column if you don't need it, and pick carbon with fewer, thicker sections.
 
 ### Weighing it down without sandbags
 

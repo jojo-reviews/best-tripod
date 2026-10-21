@@ -2,6 +2,7 @@
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
     "/blog/4-section-vs-5-section-tripod/",
+    "/blog/are-cheap-gimbal-heads-any-good/",
     "/blog/ball-head-tripod/",
     "/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/",
     "/blog/best-hiking-tripod/",
@@ -22,6 +23,9 @@
     "/blog/monopod-vs-tripod-for-sports-photography/",
     "/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/",
     "/blog/tripod-for-wildlife-photography/",
+    "/blog/tripod-leg-lock-wont-hold/",
+    "/blog/tripod-shake-when-pressing-shutter/",
+    "/blog/twist-lock-vs-flip-lock-tripod-legs/",
     "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
     "/de/blog/bestes-handy-stativ-fuer-vlogging-mit-fernbedienung/",
     "/de/blog/bestes-reisestativ-fuer-spiegellose-kamera/",

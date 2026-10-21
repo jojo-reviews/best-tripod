@@ -132,5 +132,8 @@
   "footer.safety": "No superes nunca la carga máxima de un trípode y sigue las instrucciones del fabricante.",
   "post.brandsAria": "Marcas de esta guía",
   "post.brandsLabel": "Marcas de esta guía:",
-  "score.name": "Puntuación técnica {site}"
+  "score.name": "Puntuación técnica {site}",
+  "photo.ai": "Ilustración generada con IA",
+  "video.play": "Reproducir vídeo",
+  "video.caption": "Vídeo: {title} ({channel} en YouTube)"
 }

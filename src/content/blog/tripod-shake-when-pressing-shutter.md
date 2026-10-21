@@ -97,6 +97,16 @@ faqs:
       No, there is no mirror to lock. The jolt that remains comes from the
       mechanical shutter curtain, so switch on electronic first-curtain shutter
       (or the full electronic shutter for static scenes) instead.
+illustrations:
+  - prompt: "A mirrorless camera on a tripod aimed at a misty lake at dawn, the photographer's hand pulling back from the camera after starting the self-timer, a small lit lamp on the camera front, low side angle, soft cool light, face not visible."
+    alt: "A hand stepping back from a camera on a tripod after starting the self-timer at a misty lake"
+    afterHeading: 3
+  - prompt: "A wired remote shutter release hanging from a camera on a tripod, a hand holding the remote a step away, a waterfall blurred by a long exposure in the background, forest setting, overcast light, shallow depth of field, no visible branding."
+    alt: "A remote shutter release held a step away from a camera on a tripod by a waterfall"
+    afterHeading: 4
+  - prompt: "A long telephoto lens mounted by its collar foot on a sturdy tripod with the center column fully lowered, set up in a meadow at sunrise for wildlife watching, side view, golden light, no people, no visible brand markings."
+    alt: "A telephoto lens mounted by its collar on a tripod with the center column down"
+    afterHeading: 8
 author: editorial-team
 heroImage: /images/featured/tripod-shake-when-pressing-shutter.png
 heroAlt: >-
@@ -133,11 +143,11 @@ This table pairs each cause of camera shake on a tripod with what it looks like 
 | Stabilization left on | Smear or drift in long exposures | IS and IBIS off |
 | Long lens, raised column, small head | Image still moving seconds after a touch | Longer delay, better support |
 
-The band of shutter speeds matters too. In a [DPReview thread](https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/) owners name different danger zones for mirror and shutter shake: about 1/4 to 1/30 second for one, from a fiftieth of a second to 2 seconds for another, and from 2 seconds to a five-hundredth at 200mm and longer for a third. A Sony A7R example in the Photography Life piece blurs from shutter shock at 1/10 second. Very long exposures dilute a brief jolt, and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first.
+The band of shutter speeds matters too. In a [DPReview thread](https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/) owners name different danger zones for mirror and shutter shake: about 1/4 to 1/30 second for one, from a fiftieth of a second to 2 seconds for another, and from 2 seconds to a five-hundredth at 200mm and longer for a third. A Sony A7R example in the Photography Life piece blurs from shutter shock [at 1/10 second](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod). Very long exposures dilute a brief jolt, and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first.
 
 ## Fix 1 – Use the self-timer, timed to settle
 
-**The self-timer removes the finger: you press, step back, and the exposure starts after the vibration has faded.** Digital Photography School says the finger tap becomes a risk on a tripod once you drop below about 1/60 second ([DPS](https://digital-photography-school.com/how-to-avoid-camera-shake/)).
+**The self-timer removes the finger: you press, step back, and the exposure starts after the vibration has faded.** Digital Photography School says the finger tap becomes a risk on a tripod once you drop [below about 1/60 second](https://digital-photography-school.com/how-to-avoid-camera-shake/).
 
 The delay length is the part most guides skip. Many cameras offer 2 seconds plus a longer setting; Photography Life shows Nikon's 2 or 5 second options and Canon's "Self-timer: 2sec/remote" drive mode. We treat 2 seconds as a starting point, not a rule. Photography Life's warning on its 3-second exposure delay applies to any delay: if the camera wobbles for longer than the delay, it won't do much to help. In the DPReview thread, a poster adds that it depends on whether your setup settles in 2 seconds, especially with a heavy lens hanging off to the side.
 
@@ -158,7 +168,7 @@ Photography Life adds the caveats we agree with. Its author sees beginners buy a
 
 ## Fixes 3 and 4 – Exposure delay and EFCS stop shutter vibration
 
-**Even with no hands on it, the camera shakes itself: exposure delay settles the mirror, and electronic first-curtain shutter removes shutter shock.** On a DSLR, exposure delay raises the mirror, waits, then exposes. The Stack Exchange answer notes it also reduces mirror slap, and Photography Life's author says the exposure delay plus self-timer pairing covers about 90% of his landscape shooting.
+**Even with no hands on it, the camera shakes itself: exposure delay settles the mirror, and electronic first-curtain shutter removes shutter shock.** On a DSLR, exposure delay raises the mirror, waits, then exposes. The Stack Exchange answer notes it also reduces mirror slap, and Photography Life's author says the exposure delay plus self-timer pairing covers [about 90% of his landscape shooting](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod).
 
 Mirror slap is a recurring DSLR complaint. In that DPReview thread, an a900 owner on a light carbon tripod heard "a loud slapping noise", and a reply explains: "The shutter/mirror action is loud & causes camera vibration , any unsteadiness in the tripod will be affected by this vibration."
 

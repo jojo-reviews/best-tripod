@@ -102,6 +102,19 @@ faqs:
       Not with a camera on it. Fix the lock, then press down hard on the empty
       tripod several times; if any section still creeps, keep the camera off and
       repair or replace the part.
+illustrations:
+  - prompt: "A disassembled twist-lock tripod leg on a workbench, the collar, plastic compression rings and inner tube laid out in order on a cloth beside a toothbrush and a small bowl of soapy water, overhead view, bright even light, no logos."
+    alt: "Parts of a twist-lock tripod leg laid out in order for cleaning on a workbench"
+    afterHeading: 2
+  - prompt: "Close-up of hands using a small nut driver to tighten the nut behind an open flip lock lever on an aluminum tripod leg, workbench setting with a few hand tools, warm lamp light, shallow depth of field, face not shown."
+    alt: "Hands tightening the tension nut behind an open flip lock lever on a tripod leg"
+    afterHeading: 3
+  - prompt: "An empty tripod standing on a stone garden patio while one hand presses firmly down on its top plate to test whether any leg section creeps, legs fully extended, daylight, low three-quarter angle, no camera mounted."
+    alt: "A hand pressing down on an empty tripod to test that the leg locks hold"
+    afterHeading: 7
+videos:
+  - id: Eo1yQIZLVH4
+    afterHeading: 2
 author: editorial-team
 related:
   - how-to-stop-tripod-shake-in-wind
@@ -130,9 +143,11 @@ On a twist-lock tripod, swapping lower sections between legs isolates the culpri
 
 **We check a slipping twist lock in three steps, cheapest first.**
 
-1. **Close it all the way.** That owner's fix was turning harder: "I twisted the locks like 95% of the way, and it requires to be twisted more like 100%". If the collar is already firm, [K&F Concept](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock) notes that cranking it harder rarely helps.
+1. **Close it all the way.** That owner's fix was turning harder: he had twisted the locks only [about 95% of the way when they needed 100%](https://www.fredmiranda.com/forum/topic/1282332/), "until you can't twist it even a tiny bit more". If the collar is already firm, [K&F Concept](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock) notes that cranking it harder rarely helps.
 2. **Clean the tube and collar.** Wipe off sand, mud and dried salt water residue. Really Right Stuff's [maintenance steps](https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod) use warm water, mild dish soap and a toothbrush in the twist-lock grooves.
 3. **Reseat the compression rings.** Each compression ring (a plastic shim) and, on some models, the anti-twist sleeve sized to that leg section goes back in its original order and orientation. Replace any ring that is scratched, cracked or deformed.
+
+The video below shows Really Right Stuff taking a twist-lock assembly apart, cleaning it and putting it back together in order.
 
 The [Feisol care manual](https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf) may explain a collar that won't tighten: if the rings are not pushed fully into the upper tube, the collar will not screw on all the way.
 
@@ -141,10 +156,10 @@ The [Feisol care manual](https://www.feisol.net/manuals/FEISOL_Manual_Care_And_M
 **A flip lock that snaps shut but lets the leg creep has lost clamping tension, set by a nut or screw behind the lever.** As one [repair video](https://www.youtube.com/watch?v=sS1D5kj88A4) puts it, "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time."
 
 1. Open the lever and pry off any plastic cover over the nut.
-2. Tighten the nut about 1/6 of a turn with a nut driver, close the lever and press down on the leg.
+2. Tighten the nut [about 1/6 of a turn](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod) with a nut driver, close the lever and press down on the leg.
 3. Repeat until the lever closes firmly without force; if it gets hard to close, back off.
 
-The 1/6-turn method comes from an [Ugly Hedgehog thread](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod) where a rental owner says "These leg locks loosen over time" and finds the Manfrotto 190XB needs adjusting about every 3 or 4 rentals. In our [Peak Design vs Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/), owners report the same loosening on lever locks.
+The 1/6-turn method comes from an [Ugly Hedgehog thread](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod) where a rental owner says "These leg locks loosen over time" and finds the Manfrotto 190XB needs adjusting [about every 3 or 4 rentals](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod). In our [Peak Design vs Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/), owners report the same loosening on lever locks.
 
 ## Floppy tripod legs at the top: the angle joint
 

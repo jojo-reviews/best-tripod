@@ -102,6 +102,16 @@ faqs:
     a: >-
       Yes, a little. Each leg has four locks instead of three, so a full setup
       means 12 locks instead of 9, plus one more tube to extend on every leg.
+illustrations:
+  - prompt: "Two collapsed carbon fiber travel tripods lying side by side on a wooden table, one clearly shorter than the other, a cloth tape measure stretched beside them, soft window light from the left, top-down view, plain neutral background, no logos or markings on the gear."
+    alt: "Two folded travel tripods side by side with a tape measure, one with an extra leg section folding shorter"
+    afterHeading: 2
+  - prompt: "Close-up of the thin lowest leg section of a black travel tripod fully extended on a rocky coastal ledge at dusk during a long exposure, blurred water behind, low angle, cool blue evening light, shallow depth of field, no people in the frame."
+    alt: "Thin bottom leg section of a travel tripod extended on a coastal rock during a long exposure"
+    afterHeading: 3
+  - prompt: "Hands in a light hiking jacket loosening the twist locks on one leg of a compact travel tripod, the leg showing five telescoping sections, a mountain trail at sunrise behind, warm side light, close three-quarter angle, face not visible."
+    alt: "Hands loosening the twist locks on a five-section tripod leg on a mountain trail"
+    afterHeading: 5
 author: editorial-team
 heroImage: /images/featured/4-section-vs-5-section-tripod.png
 heroAlt: >-
@@ -113,7 +123,7 @@ A 4-section tripod is the better choice for most photographers: fewer joints, a 
 
 ## 4 section vs 5 section tripod – the short answer
 
-**The 4 section vs 5 section tripod choice trades packed length against stiffness and height.** Every top result we read agrees on the basics. More leg sections fold shorter, fewer sections are steadier, and each extra section adds locks. The [Manfrotto buying guide](https://www.manfrotto.com/global-en/stories/tripod-buying-guide/) makes the same point one step down: its 055 folds to 54 cm with 4 sections against 63 cm with 3, while the 3-section is "usually said to be more stable."
+**The 4 section vs 5 section tripod choice trades packed length against stiffness and height.** Every top result we read agrees on the basics. More leg sections fold shorter, fewer sections are steadier, and each extra section adds locks. The Manfrotto buying guide makes the same point one step down: its 055 folds to [54 cm with 4 sections against 63 cm with 3](https://www.manfrotto.com/global-en/stories/tripod-buying-guide/), while the 3-section is "usually said to be more stable."
 
 What those pages don't give you is the size of each cost. The rest of this guide measures it.
 
@@ -140,7 +150,7 @@ Sources: [GT1545T spec page](https://www.gitzo.com/us-en/tripod-traveler-series-
 
 ## Why a fifth section costs stiffness
 
-**The fifth section adds the thinnest telescoping tube and one more joint, and a leg is only as stiff as its weakest part.** In the Gitzo pair, the 4-section's bottom tube is 14.7 mm across. The 5-section adds one at 11.2 mm. A [Rokslide poster](https://rokslide.com/forums/threads/tripods-3-section-vs-4-section-packability-and-stability.104347/) comparing two Manfrotto 190 versions saw the same pattern one step down: the 4-section's last tube measured about 0.46 in against roughly 0.68 in.
+**The fifth section adds the thinnest telescoping tube and one more joint, and a leg is only as stiff as its weakest part.** In the Gitzo pair, the 4-section's bottom tube is [14.7 mm across](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/). The 5-section adds one at [11.2 mm](https://www.gitzo.com/global/tripod-traveler-series-1-5-sections-gt1555t/). A [Rokslide poster](https://rokslide.com/forums/threads/tripods-3-section-vs-4-section-packability-and-stability.104347/) comparing two Manfrotto 190 versions saw the same pattern one step down: the 4-section's last tube measured about 0.46 in against roughly 0.68 in.
 
 Owners describe the result consistently. In a [Fred Miranda thread](https://www.fredmiranda.com/forum/topic/1867219/), one shooter ranks his 5-section Peak Design as the least stable of his three tripods. He keeps it for when "compact size is THE criterion," and calls a good 4-section "very nearly as good" as a 3-section. A DPReview owner of FLM's CP30 range wrote that the five-section model "is least stiffest" of the series.
 
@@ -150,7 +160,7 @@ Both Gitzo versions carry the same 10 kg rating, so the load capacity hides the 
 
 ## Height – the fifth section makes it shorter, not taller
 
-**Extra leg sections usually buy a shorter fold, not a taller tripod.** The [Pictureline guide](https://www.pictureline.com/blogs/tutorials/choosing-the-right-tripod) says "the more sections, the taller the tripod at maximum height." The maker data says otherwise: the 5-section Gitzo stops 9 cm lower with the column down. A DPReview owner of a 5-section Sirui put it plainly: section count doesn't set the height. "But it does affect how long/short when folded."
+**Extra leg sections usually buy a shorter fold, not a taller tripod.** The [Pictureline guide](https://www.pictureline.com/blogs/tutorials/choosing-the-right-tripod) says "the more sections, the taller the tripod at maximum height." The maker data says otherwise: the 5-section Gitzo stops at [121 cm with the column down](https://www.gitzo.com/global/tripod-traveler-series-1-5-sections-gt1555t/), 9 cm lower than the 4-section's [130 cm](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/). A DPReview owner of a 5-section Sirui put it plainly: section count doesn't set the height. "But it does affect how long/short when folded."
 
 Column-down height is your real working height. At 121 cm plus a head, the viewfinder sits well below standing eye level for most adults. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) works it out step by step.
 
