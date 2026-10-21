@@ -1,0 +1,472 @@
+{
+  "centralEntity": "tripod for astrophotography",
+  "entityVariants": [
+    "astrophotography tripod",
+    "tripod for milky way photography",
+    "tripod for star tracker",
+    "tripod for night photography",
+    "star photography tripod"
+  ],
+  "entities": [
+    {
+      "name": "star tracker",
+      "type": "accessory",
+      "relation": "adds 1-2 kg on top of the camera; changes the load the tripod must hold (Star Adventurer 1.7 kg per Skies & Scopes)"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "the least stable part; columnless designs (Benro Tortoise) or column down for long exposures"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "all tripods used by Milky Way Photographer of the Year winners in 2025-2026 per Skies & Scopes; not cold to touch"
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "the head for camera-only astro; gimbals and pan-tilt are not"
+    },
+    {
+      "name": "equatorial mount",
+      "type": "astronomy gear",
+      "relation": "deep-sky rigs need a heavy-duty tripod class (out of scope)"
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "top pick at Skies & Scopes; best for portability at Space.com"
+    },
+    {
+      "name": "Benro Tortoise 24C",
+      "type": "product",
+      "relation": "columnless carbon tripod picked by Skies & Scopes and Space.com"
+    },
+    {
+      "name": "Benro Mach3 9X CF (TMA37C)",
+      "type": "product",
+      "relation": "Space.com best overall; Skies & Scopes premium pick"
+    },
+    {
+      "name": "wind",
+      "type": "condition",
+      "relation": "the main enemy of 15-30 s exposures at dark sites"
+    }
+  ],
+  "attributes": [
+    "load rating vs camera+lens+tracker weight",
+    "height with center column down",
+    "leg sections and tube diameter",
+    "weight carried to a dark site",
+    "folded length",
+    "leg locks usable with gloves",
+    "low minimum height for foregrounds",
+    "spiked feet"
+  ],
+  "ngrams": [
+    "astrophotography tripod",
+    "star tracker",
+    "milky way",
+    "center column",
+    "long exposure",
+    "load capacity",
+    "carbon fiber",
+    "ball head",
+    "dark site"
+  ],
+  "skipgrams": [
+    "tripod…star tracker",
+    "center column…down",
+    "carbon…cold",
+    "load…tracker",
+    "wind…exposure"
+  ],
+  "nlpTerms": [
+    "night sky",
+    "stars",
+    "exposure",
+    "stability",
+    "vibration",
+    "wind",
+    "carbon",
+    "aluminum",
+    "twist lock",
+    "ball head",
+    "tracker",
+    "nightscape",
+    "star trails",
+    "dew"
+  ],
+  "questions": [
+    "do you need a special tripod for astrophotography",
+    "how much weight should an astro tripod hold",
+    "is a travel tripod good enough for astrophotography",
+    "carbon fiber or aluminum for night photography",
+    "should an astrophotography tripod have a center column",
+    "what tripod do I need for a star tracker"
+  ],
+  "contentGaps": [
+    "Space.com is a general tripod list; only Skies & Scopes does the load math (camera + lens + tracker about 3.6 kg)",
+    "Working height with the center column down is buried; it is the number that matters at night",
+    "Using locks and knobs in the dark and in gloves (pain point) is not covered",
+    "Wind at dark sites: spread legs, avoid thinnest sections, hang weight to the ground (Fstoppers)",
+    "Where a camera tripod stops and a telescope/mount tripod starts"
+  ],
+  "outline": [
+    {
+      "h2": "Best Tripod for Astrophotography – The Short Answer",
+      "intent": "Direct answer: picks by role and the one rule (load for camera+tracker, column down)",
+      "h3": []
+    },
+    {
+      "h2": "The Best Tripods for Astrophotography",
+      "intent": "Product reviews, pros-cons style",
+      "h3": [
+        "Peak Design Travel Tripod (Carbon): Best for travel",
+        "Benro Tortoise 24C: Best columnless",
+        "Benro Mach3 9X CF TMA37C: Best for heavy tracker rigs",
+        "Manfrotto Befree Advanced (aluminum): Best value"
+      ]
+    },
+    {
+      "h2": "Astrophotography Tripods Compared",
+      "intent": "Table: load, weight, height column down, folded length, head",
+      "h3": []
+    },
+    {
+      "h2": "How Much Tripod Does Your Night Rig Need",
+      "intent": "Load math with tracker; 3x margin rule; working height without column",
+      "h3": []
+    },
+    {
+      "h2": "Setting Up for Sharp Stars",
+      "intent": "Wind, legs, column, weight, cold and gloves; video",
+      "h3": []
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "Pain points",
+      "h3": []
+    },
+    {
+      "h2": "Our Verdict",
+      "intent": "Close opening scene; link under-3-pounds and moon posts",
+      "h3": []
+    }
+  ],
+  "targetWords": 2600,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.space.com/best-tripods",
+      "https://skiesandscopes.com/camera-tripod/",
+      "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Space.com (11 products) gives each tripod a spec block plus Reasons to buy / Reasons to avoid lists; Skies & Scopes and Fstoppers use spec bullets with prose. Pros/cons with specs is the dominant pattern among the roundups.",
+    "avgWords": 2600,
+    "avgProducts": 8,
+    "commonSections": [
+      "product picks with load/weight/height specs",
+      "do you need a special tripod",
+      "carbon vs aluminum",
+      "center column warning",
+      "which head (ball head)",
+      "FAQ",
+      "comparison table"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "Space.com body about 9,500 words incl. ads/blocks (general tripods, 11 picks); Skies & Scopes about 2,400 (8 picks); Fstoppers about 1,500 (4 picks). avgWords set to about 2,600 (Space.com counted at a realistic article length ~4,000). Reddit and DPReview forum not scrapable/not counted. B&H, Best Buy, High Point are store pages (3/10)."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/AskAstrophotography/comments/1ieqs0f/difficulty_finding_the_right_tripod_for/",
+      "title": "Difficulty finding the right tripod for astrophotography and landscapes"
+    },
+    {
+      "position": 2,
+      "url": "https://www.space.com/best-tripods",
+      "title": "Best tripods 2026: For astrophotography, landscapes and ..."
+    },
+    {
+      "position": 3,
+      "url": "https://www.bhphotovideo.com/c/buy/tripods-for-astrophotography/ci/64856",
+      "title": "Tripods for Astrophotography | B&H Photo Video"
+    },
+    {
+      "position": 4,
+      "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/10044785365569305/",
+      "title": "What's a good tripod for astro and nature photography? - Facebook"
+    },
+    {
+      "position": 5,
+      "url": "https://skiesandscopes.com/camera-tripod/",
+      "title": "Best Astrophotography Tripod (2026): Use the Comparison Tool"
+    },
+    {
+      "position": 6,
+      "url": "https://www.dpreview.com/forums/threads/best-inexpensive-tripod-for-astrophotography.4355331/",
+      "title": "Best (inexpensive) tripod for astrophotography | DPReview Forums"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=54is-M5SWFg",
+      "title": "Ultimate Astrophotography Travel Tripod Review - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.bestbuy.com/site/shop/tripods-for-astrophotography",
+      "title": "Tripods For Astrophotography - Best Buy"
+    },
+    {
+      "position": 9,
+      "url": "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+      "title": "Telescope Tripods - High Point Scientific"
+    },
+    {
+      "position": 10,
+      "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "title": "4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "best",
+      "(2026)",
+      "astrophotography",
+      "budget/inexpensive",
+      "travel",
+      "comparison"
+    ],
+    "gap": "No title promises a pick sized for a star tracker or the height with the column down; angle: exact keyword first, (2026), pick count, 'for a star tracker' / 'column down'."
+  },
+  "commonPoints": [
+    "Stability matters more than features; long exposures expose any shake",
+    "Carbon fiber is preferred (lighter, not cold)",
+    "Keep the center column down or avoid one",
+    "A ball head is the head for camera-only astro",
+    "Load rating should leave a margin over your rig",
+    "Any steady tripod works for a camera and wide lens"
+  ],
+  "ourGain": [
+    {
+      "point": "Load math with a star tracker: camera 0.7 + 14mm lens 1.2 + Star Adventurer 1.7 kg = 3.6 kg, then the 3x margin night photographers use",
+      "source": "https://skiesandscopes.com/camera-tripod/ ; https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+    },
+    {
+      "point": "Pick by working height with the column down (Peak Design 130 cm vs 152 cm with column), not headline height",
+      "source": "https://skiesandscopes.com/camera-tripod/ ; https://www.space.com/best-tripods"
+    },
+    {
+      "point": "Gear actually used by Milky Way Photographer of the Year winners: 100% carbon in 2025-2026, no dominant model",
+      "source": "https://skiesandscopes.com/camera-tripod/"
+    },
+    {
+      "point": "Gloves and dark: leg locks and knobs you can work by feel in winter (pain point), and reflective tape tip from Fstoppers",
+      "source": "data/pain-points.json camera-tripods-leg-locks-with-gloves ; https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+    },
+    {
+      "point": "Where to stop: telescope + EQ mount (24 kg example) needs a heavy-duty tripod class, out of scope",
+      "source": "https://skiesandscopes.com/camera-tripod/"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/"
+      ],
+      "asinCandidate": "B085BQTQMN",
+      "asinNote": "ASIN already used and verified in live posts (best-hiking-tripod)"
+    },
+    {
+      "name": "Benro Tortoise 24C with GX30 (TTOR24CGX30)",
+      "pages": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/"
+      ],
+      "asinCandidate": "B08F2RP5QM"
+    },
+    {
+      "name": "Benro Mach3 9X CF Series 3 (TMA37C)",
+      "pages": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/"
+      ],
+      "asinCandidate": "B00YEU9GE8",
+      "asinNote": "Space.com calls it 'Mach3 9X CF' with the same 15.9 kg / 161.5 cm / 62.5 cm specs Skies & Scopes gives for TMA37C"
+    },
+    {
+      "name": "Manfrotto Befree Advanced (aluminum)",
+      "pages": [
+        "https://www.space.com/best-tripods",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      ],
+      "asinCandidate": "B0772WLSHZ",
+      "asinNote": "Space.com reviews the Befree Advanced aluminum; Fstoppers the Befree Advanced GT XPro aluminum (different variant). Family-level match only; ASIN is the lever aluminum kit used in landscape-photography-tripod"
+    },
+    {
+      "name": "K&F Concept B210, INNOREL RT90C/LT324C, Leofoto LS-284CEXX, Gitzo GT5543LS",
+      "pages": [
+        "https://skiesandscopes.com/camera-tripod/"
+      ],
+      "note": "single page each; not qualifying"
+    },
+    {
+      "name": "Feisol CT-3342 / CT-3372, Leofoto LP-324C",
+      "pages": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      ],
+      "note": "single page; not qualifying"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "travel-tripods-wobbly-for-long-exposure",
+      "pain": "A small travel tripod is too wobbly for long exposures, ND filters, astro or a 100-400",
+      "details": "Photographers who already own a travel tripod outgrow it once they add ND filters, astrophotography or longer lenses.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
+        "https://www.dpreview.com/forums/threads/lightweight-video-travel-tripod.4786488/"
+      ],
+      "quotes": [
+        {
+          "text": "i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        },
+        {
+          "text": "The center column make the Travel Tripod less stable so you should not extend it.",
+          "url": "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-center-column-vibration",
+      "pain": "Raising the center column makes the tripod shake and ring after every shutter press",
+      "details": "Landscape and long-lens shooters find a tripod that is steady with the legs only becomes wobbly once the column is cranked up; owners are told to collapse the legs and never extend the center section.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+        "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+          "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+        },
+        {
+          "text": "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-wind-vibration",
+      "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+      "details": "Outdoor shooters see legs act like a sail or vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "Wind will vibrate across the legs and transmit up to the camera.",
+          "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        },
+        {
+          "text": "Keep out of the wind as that will cause movement of your setup.",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-leg-locks-with-gloves",
+      "pain": "Leg locks are hard to work in winter gloves or with cold, wet hands",
+      "details": "Owners split: some find levers easier in gloves and when a tripod is wet, cold or worn; others find twist collars easier with mittens. Grip design decides it.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/",
+        "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods"
+      ],
+      "quotes": [
+        {
+          "text": "I prefer twist because they are easier to deal with with gloves and mittens on, and they're smaller and lighter.",
+          "url": "https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-weighing-down-for-stability",
+      "pain": "Owners are unsure how to add weight for stability without carrying sandbags",
+      "details": "A light tripod dances on moss or scrub; photographers hang a camera backpack from the hook or center-column hole, but a bag is awkward and not every tripod has room or a hook.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.reddit.com/r/photography/comments/3olh1s/common_landscape_photography_mistakes_and_how_to/"
+      ],
+      "quotes": [
+        {
+          "text": "Some tripods come with a hook that you can hang your bag on to use for your extra mass, which helps a bit.",
+          "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        },
+        {
+          "text": "there is extremely little room to hang my camera backpack from the hook for stability",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "20lb",
+      "claim": "Peak Design Travel Tripod weight capacity",
+      "url": "https://www.peakdesign.com/products/travel-tripod",
+      "quote": "With a 20lb weight capacity, it's optimized to support full-frame DSLRs paired with telephoto lenses",
+      "via": "Firecrawl search excerpt of the maker page"
+    },
+    {
+      "number": "14kg",
+      "claim": "Benro Tortoise 24C max load (Space.com spec block)",
+      "url": "https://www.space.com/best-tripods",
+      "quote": "Max load: 30.9 lbs / 14kg"
+    },
+    {
+      "number": "3.6 kg",
+      "claim": "Example landscape astro rig weight (camera + 14mm lens + Star Adventurer)",
+      "url": "https://skiesandscopes.com/camera-tripod/",
+      "quote": "That comes to about 7.9 lbs (3.6 kg)"
+    },
+    {
+      "number": "100%",
+      "claim": "Share of carbon-fiber tripods among Milky Way Photographer of the Year 2026 winners",
+      "url": "https://skiesandscopes.com/camera-tripod/",
+      "quote": "In 2026 it was 100% carbon fibre again, with Benro the most represented brand on three winners"
+    },
+    {
+      "number": "three times",
+      "claim": "Load margin most pros use for tripod and head",
+      "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "quote": "Most professional photographers I speak to prefer to exceed the load capacity of a tripod and ball head by about three times."
+    }
+  ],
+  "videos": [
+    {
+      "id": "fGbhjXqIB18",
+      "title": "Tripods and Heads: How to choose the best one for you?",
+      "channel": "likely Simon d'Entremont (affiliate code 'sdentrem' in description); not verified",
+      "url": "https://www.youtube.com/watch?v=fGbhjXqIB18",
+      "section": "How Much Tripod Does Your Night Rig Need",
+      "note": "general tripod/head choice, not astro-specific; writer may drop it"
+    }
+  ],
+  "note": "Pre-researched 2026-10-21. Sister queue item best-tripod-for-astrophotography-under-3-pounds (deferred) is the weight-limited angle; link between them. Also link tripod-for-moon-photography (queued), how-to-stop-tripod-shake-in-wind, tripod-center-column-up-or-down-for-landscapes, carbon-fiber-vs-aluminum-tripod-for-hiking."
+}

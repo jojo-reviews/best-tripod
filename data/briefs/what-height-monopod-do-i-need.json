@@ -1,0 +1,366 @@
+{
+  "centralEntity": "monopod height",
+  "entityVariants": [
+    "what height monopod do I need",
+    "how tall should a monopod be",
+    "monopod length for eye level",
+    "monopod height for tall photographer",
+    "monopod max height"
+  ],
+  "entities": [
+    {
+      "name": "maximum height",
+      "type": "spec",
+      "relation": "the monopod's extended length without head; what listings advertise"
+    },
+    {
+      "name": "eye height",
+      "type": "measurement",
+      "relation": "the target: viewfinder at eye level, a few inches below total stature"
+    },
+    {
+      "name": "monopod head",
+      "type": "component",
+      "relation": "tilt head, MonoGimbal or ball head adds or subtracts inches; a side-mount drops the camera"
+    },
+    {
+      "name": "lean angle",
+      "type": "technique",
+      "relation": "a monopod used at an angle in front of you needs to be longer than vertical height"
+    },
+    {
+      "name": "terrain",
+      "type": "context",
+      "relation": "slopes, banks, snow and shooting up into trees demand extra length"
+    },
+    {
+      "name": "collapsed length",
+      "type": "spec",
+      "relation": "the trade-off: more sections or longer tubes to reach more height"
+    },
+    {
+      "name": "extension column",
+      "type": "accessory",
+      "relation": "screw-on add-on that adds height to a short monopod (Leofoto DC-252C cited at BCG)"
+    },
+    {
+      "name": "Gitzo GM3551",
+      "type": "product",
+      "relation": "tall monopod named by owners at DPReview and BCG"
+    }
+  ],
+  "attributes": [
+    "max height without head",
+    "head height",
+    "your eye height",
+    "lean angle",
+    "terrain allowance",
+    "collapsed length",
+    "section count",
+    "load rating"
+  ],
+  "ngrams": [
+    "monopod height",
+    "eye level",
+    "max height",
+    "tall photographer",
+    "monopod head",
+    "collapsed length",
+    "above head height",
+    "rough terrain"
+  ],
+  "skipgrams": [
+    "monopod…eye level",
+    "height…head",
+    "lean…angle",
+    "tall…monopod",
+    "bend…over"
+  ],
+  "nlpTerms": [
+    "viewfinder",
+    "stance",
+    "lean",
+    "tilt head",
+    "slope",
+    "snow",
+    "birds",
+    "wildlife",
+    "sports",
+    "sections",
+    "carbon fiber",
+    "extension"
+  ],
+  "questions": [
+    "how tall should a monopod be",
+    "should a monopod reach eye level",
+    "what height monopod for a 6 foot person",
+    "does the head add height to a monopod",
+    "is a longer monopod less stable"
+  ],
+  "contentGaps": [
+    "No ranking page gives a formula: eye height minus camera/head offset plus lean and terrain allowance",
+    "Head offset: a tilt head adds inches while a side-mount MonoGimbal drops the camera (one 6'8\" BCG owner found the MH-100 too low)",
+    "The lean technique (Photography Mad, DPReview) means the monopod must be 'too long' for vertical use",
+    "Slopes and shooting up into trees: a 6'6\" BCG owner needed a foot more than a 64\" monopod",
+    "A table by photographer height (CDC average men 68.9 in, women 63.5 in)"
+  ],
+  "outline": [
+    {
+      "h2": "What Height Monopod Do I Need – The Short Answer",
+      "intent": "Direct answer: max height (with head) at or a little above your eye height, plus 6-12 in if you lean it or shoot on slopes",
+      "h3": []
+    },
+    {
+      "h2": "How to Work Out Your Monopod Height",
+      "intent": "Step list: measure eye height, subtract camera/head offset, add lean and terrain allowance",
+      "h3": [
+        "Measure your eye height",
+        "Account for the head",
+        "Add for lean and terrain"
+      ]
+    },
+    {
+      "h2": "Monopod Height by Your Height",
+      "intent": "Table: 5'2\" to 6'6\" photographers vs suggested max height",
+      "h3": []
+    },
+    {
+      "h2": "Does Lean Angle or Terrain Change the Answer",
+      "intent": "Human-tripod stance, slopes, birds in trees, snow settling",
+      "h3": []
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "Pain points: too short on slopes, bending over, too long to pack, arm fatigue",
+      "h3": []
+    },
+    {
+      "h2": "Our Verdict",
+      "intent": "Close opening scene; link tripod height post and monopod posts",
+      "h3": []
+    }
+  ],
+  "targetWords": 950,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.dpreview.com/forums/threads/monopod-for-tall-person.3718717/",
+      "https://www.photographymad.com/pages/view/how-to-hold-a-monopod",
+      "https://bcgforums.com/threads/help-many-of-us-need-a-taller-monopod.14765/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Informational guide; forum answers and Photography Mad's how-to are prose. Products are only named in passing, no lists or spec tables.",
+    "avgWords": 900,
+    "avgProducts": 0,
+    "commonSections": [
+      "monopod should reach eye level or above",
+      "the head adds height",
+      "lean the monopod in front of you",
+      "tall photographers need 70-80+ inch monopods",
+      "tall monopod model suggestions"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false,
+    "note": "Reddit #1 could not be scraped (Firecrawl does not support reddit). DPReview thread about 700 words, Photography Mad about 900, BCG thread about 1,100. accu-shot.com is a rifle-monopod maker page, not counted."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1eo5zop/how_tall_should_a_monopod_be_do_you_ever_use_one/",
+      "title": "How tall should a monopod be? Do you ever use one without a head?"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=v99rlx2GlAQ",
+      "title": "How to Choose a Monopod - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://accu-shot.com/monopod-sizing-and-application/",
+      "title": "Monopod Sizing and Application - B&T Industries"
+    },
+    {
+      "position": 4,
+      "url": "https://www.dpreview.com/forums/threads/monopod-for-tall-person.3718717/",
+      "title": "Monopod for tall person | DPReview Forums"
+    },
+    {
+      "position": 5,
+      "url": "https://www.flickr.com/groups/98126394@N00/discuss/72157615748565364/",
+      "title": "Discussing Advice on monopod height in Manfrotto - Flickr"
+    },
+    {
+      "position": 6,
+      "url": "https://bcgforums.com/threads/help-many-of-us-need-a-taller-monopod.14765/",
+      "title": "HELP - Many of us need a taller Monopod"
+    },
+    {
+      "position": 7,
+      "url": "https://3leggedthing.com/en-us/blogs/news/ask-neil-monopod-blog",
+      "title": "Ask Neil: Monopods - 3 Legged Thing"
+    },
+    {
+      "position": 8,
+      "url": "https://www.fredmiranda.com/forum/next/1493995",
+      "title": "Ideal tripod /monopod height and also weight for bird photography?"
+    },
+    {
+      "position": 9,
+      "url": "https://www.photographymad.com/pages/view/how-to-hold-a-monopod",
+      "title": "How to Hold a Monopod | Photography Mad"
+    },
+    {
+      "position": 10,
+      "url": "https://www.talkphotography.co.uk/threads/monopod-recommendation-tall-person.154131/",
+      "title": "Monopod recommendation? Tall person! - Talk Photography"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "how tall",
+      "tall person",
+      "monopod height",
+      "sizing"
+    ],
+    "gap": "No title gives a sizing chart or formula by the reader's height; angle: exact keyword first plus 'a height chart' / 'by your height'."
+  },
+  "commonPoints": [
+    "The monopod plus head should bring the viewfinder to eye level",
+    "Tall photographers need longer monopods than standard 60-64 in models",
+    "The head adds a few inches",
+    "Leaning the monopod forward is a stable stance and needs extra length",
+    "You should not have to bend over"
+  ],
+  "ourGain": [
+    {
+      "point": "A simple formula: eye height minus camera and head offset, plus 6-12 in for lean and slopes",
+      "source": "https://www.photographymad.com/pages/view/how-to-hold-a-monopod ; https://www.dpreview.com/forums/threads/monopod-for-tall-person.3718717/"
+    },
+    {
+      "point": "Height chart built on CDC average heights (men 68.9 in, women 63.5 in) rather than vague 'tall person' advice",
+      "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm"
+    },
+    {
+      "point": "Head choice changes the number: a side-mount MonoGimbal hangs the camera lower; one 6'8\" owner went back to a tilt head",
+      "source": "https://bcgforums.com/threads/help-many-of-us-need-a-taller-monopod.14765/"
+    },
+    {
+      "point": "Terrain allowance: a 6'6\" owner needed about a foot more than a 64 in monopod on a riverbank and shooting into trees; screw-on extension columns fix a short monopod",
+      "source": "https://bcgforums.com/threads/help-many-of-us-need-a-taller-monopod.14765/ ; data/pain-points.json monopods-height-rough-terrain"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "monopods-height-rough-terrain",
+      "pain": "Picking a monopod height that still reaches the eye on slopes, banks and snow",
+      "details": "Wildlife shooters tilting up with long lenses lose eye-level; the monopod sinks into snow or debris and bending over defeats the purpose.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+      ],
+      "quotes": [
+        {
+          "text": "The monopod needs to be taller to account for the rough terrain and it will settle through snow or debris.",
+          "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+        },
+        {
+          "text": "You don't want to bend over with a monopod.",
+          "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+        }
+      ]
+    },
+    {
+      "id": "monopods-arm-fatigue-heavy-lens",
+      "pain": "Holding a big lens steady for minutes or hours tires the arms",
+      "details": "Wildlife and sports shooters waiting for action cannot keep a heavy tele on target and consider a monopod to take the weight.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/",
+        "https://www.reddit.com/r/canon/comments/1b8r3v0/handholding_a_heavy_lens_for_hours/",
+        "https://www.facebook.com/groups/SportsPhotographers/posts/24104985052500038/",
+        "https://www.birdsasart-blog.com/2022/09/07/youtube-video-tips-and-thoughts-on-using-a-monopod-with-big-glass-and-a-compendium-everything-you-wanted-to-know-about-using-a-monopod-but-were-afraid-to-ask/"
+      ],
+      "quotes": [
+        {
+          "text": "when waiting for action, I cannot hold the lens steady for minutes",
+          "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+        },
+        {
+          "text": "Better to use a monopod than to fight arm fatigue late in the second half of a game.",
+          "url": "https://www.facebook.com/groups/SportsPhotographers/posts/24104985052500038/"
+        }
+      ]
+    },
+    {
+      "id": "monopods-collapsed-length-travel",
+      "pain": "Long collapsed length makes a hiking pole or monopod awkward in a pack or on a flight",
+      "details": "Poles that collapse to around 27 in stick out of bags and complicate air travel.",
+      "sources": [
+        "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single",
+        "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/"
+      ],
+      "quotes": [
+        {
+          "text": "Shorter collapsed length will greatly simplify travel with your poles.",
+          "url": "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single"
+        },
+        {
+          "text": "it might be too long for carry-on, or easy carry in a pack/bag.",
+          "url": "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-too-short-bend-over",
+      "pain": "Compact travel tripods are too short, forcing photographers to bend over",
+      "details": "Tall users find folded-small tripods stop well below eye level once the center column is left down.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/mirrorless-travel-tripod-flm-cp-26-sirui-025-24x-3-legged-things-or-other.4272174/"
+      ],
+      "quotes": [
+        {
+          "text": "a travel pod will be shorter requiring you to bend over to look through the VF",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        },
+        {
+          "text": "the CP30 S4 II is too short for general use",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "68.9",
+      "claim": "Average measured height of US men 20 and older, in inches",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Height in inches: 68.9"
+    },
+    {
+      "number": "63.5",
+      "claim": "Average measured height of US women 20 and older, in inches",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Women: Height in inches: 63.5"
+    },
+    {
+      "number": "3.4\"",
+      "claim": "Height of the Wimberley MH-100 MonoGimbal Head (4.4 x 2.5 x 3.4 in)",
+      "url": "https://www.tripodhead.com/products/monopodhead-main.cfm",
+      "quote": "Dimensions: (L x W x H): 4.4\" x 2.5\" x 3.4\""
+    }
+  ],
+  "videos": [
+    {
+      "id": "v99rlx2GlAQ",
+      "title": "How to Choose a Monopod",
+      "channel": "not verified (Firecrawl summary returned no channel; YouTube oEmbed blocked)",
+      "url": "https://www.youtube.com/watch?v=v99rlx2GlAQ",
+      "section": "How to Work Out Your Monopod Height",
+      "note": "ranks #2 for the keyword; has a 'Height and Ergonomics' chapter at 2:11. Writer: confirm channel before embedding or drop it"
+    }
+  ],
+  "note": "Pre-researched 2026-10-21. Sister post how-tall-should-a-tripod-be-for-my-height (live): link, different product. Also link best-monopod-for-hiking, best-monopod-with-feet-for-wildlife-photography, best-tripod-for-tall-photographers-over-6-feet."
+}

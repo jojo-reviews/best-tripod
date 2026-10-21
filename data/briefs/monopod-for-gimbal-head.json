@@ -1,0 +1,437 @@
+{
+  "centralEntity": "monopod for a gimbal head",
+  "entityVariants": [
+    "gimbal head on a monopod",
+    "monopod gimbal head",
+    "MonoGimbal on a monopod",
+    "monopod head for a long lens",
+    "side-mount monopod head"
+  ],
+  "entities": [
+    {
+      "name": "monopod",
+      "type": "support",
+      "relation": "the base the head sits on; its stiffness and load rating decide wobble"
+    },
+    {
+      "name": "Wimberley MH-100 MonoGimbal Head",
+      "type": "product",
+      "relation": "side-mount monopod gimbal head recommended in the BCG, FredMiranda and The-Digital-Picture pages; 0.77 lb per Wimberley"
+    },
+    {
+      "name": "full gimbal head",
+      "type": "product type",
+      "relation": "tripod gimbal (Wimberley WH-200, Jobu Jr 3) that some owners put on a monopod despite the bulk"
+    },
+    {
+      "name": "Jobu Jr 3",
+      "type": "product",
+      "relation": "small full gimbal two BCG members use on a monopod and tripod"
+    },
+    {
+      "name": "tilt head",
+      "type": "product type",
+      "relation": "one-way monopod head (RRS MH-01, Sirui L-10, Desmond DMH-2) that keeps the lens over the column"
+    },
+    {
+      "name": "Wimberley Sidekick",
+      "type": "product",
+      "relation": "ball-head gimbal adapter some owners pair with a right-angle clamp on a monopod"
+    },
+    {
+      "name": "lens tripod foot / collar",
+      "type": "component",
+      "relation": "side-mount heads need a rotating collar and an Arca-Swiss foot"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail clamp standard on every head discussed"
+    },
+    {
+      "name": "3/8\"-16 thread",
+      "type": "standard",
+      "relation": "monopod top thread; 1/4\"-20-only monopods are likely underrated per The-Digital-Picture"
+    },
+    {
+      "name": "spiked foot",
+      "type": "component",
+      "relation": "one BCG owner swapped to a spiked foot to stop the base moving"
+    }
+  ],
+  "attributes": [
+    "monopod load rating vs rig weight",
+    "leg diameter and section count",
+    "top thread 3/8\"-16",
+    "head weight",
+    "side-mount vs centered tilt head",
+    "balance and lens flop",
+    "foot type (rubber, spike, mini feet)",
+    "carry position with head folded"
+  ],
+  "ngrams": [
+    "gimbal head on a monopod",
+    "monopod head",
+    "side mount",
+    "lens foot",
+    "tilt head",
+    "wimberley mh-100",
+    "full gimbal",
+    "arca swiss plate",
+    "center of gravity",
+    "tripod collar"
+  ],
+  "skipgrams": [
+    "monopod…wobble",
+    "gimbal…balance",
+    "lens…flop",
+    "side…mount",
+    "monopod…load capacity",
+    "head…bulk"
+  ],
+  "nlpTerms": [
+    "telephoto",
+    "wildlife",
+    "birds in flight",
+    "sports",
+    "balance",
+    "offset",
+    "pan",
+    "tilt",
+    "collar",
+    "clamp",
+    "carbon fiber",
+    "load capacity",
+    "lever clamp",
+    "safety lanyard"
+  ],
+  "questions": [
+    "can you use a gimbal head on a monopod",
+    "what monopod works with a gimbal head",
+    "is a full gimbal too heavy for a monopod",
+    "monopod gimbal vs tilt head",
+    "why does my monopod wobble under a gimbal",
+    "how strong should a monopod be for a big lens"
+  ],
+  "contentGaps": [
+    "No ranking page says how to choose the monopod itself for a gimbal: the threads all argue about the head",
+    "Load math: Wimberley says the MonoGimbal handles any collared lens, 'the limiting factor being the strength of the monopod'; The-Digital-Picture relays Wimberley's 3x-capacity rule",
+    "The side-mount pull: owners split on whether the MH-100 off-center load is a problem with big primes",
+    "Safe mounting: lay the rig down to attach; screw clamps let one FredMiranda/BCG owner's lens fall",
+    "Base wobble: spiked foot and leaning the monopod into the body"
+  ],
+  "outline": [
+    {
+      "h2": "Monopod for a Gimbal Head – The Short Answer",
+      "intent": "Direct answer: a stiff 3/8\" monopod rated about 3x the rig, plus a side-mount monopod gimbal or small full gimbal",
+      "h3": []
+    },
+    {
+      "h2": "Full Gimbal, MonoGimbal or Tilt Head on a Monopod",
+      "intent": "Compare the three head styles owners use; commonPoints briefly",
+      "h3": [
+        "Full gimbal head (Wimberley WH-200, Jobu Jr 3)",
+        "Side-mount MonoGimbal (Wimberley MH-100, Leofoto MPG-01)",
+        "Tilt head (RRS MH-01, Sirui L-10)"
+      ]
+    },
+    {
+      "h2": "What Makes a Monopod Steady Under a Gimbal Head",
+      "intent": "Load rating, leg diameter, sections, 3/8 thread, foot; the gap no page covers",
+      "h3": [
+        "Load rating against your rig",
+        "Thread, top plate and clamp",
+        "Feet and spikes"
+      ]
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "Pain points: base wobble, side pull, arm fatigue, bulk, mounting drops",
+      "h3": []
+    },
+    {
+      "h2": "How to Set Up and Carry the Rig",
+      "intent": "Mount lying down, balance on the foot, lean the monopod, carry folded in line; video",
+      "h3": []
+    },
+    {
+      "h2": "Our Verdict",
+      "intent": "Close the opening scene; link to monopod and gimbal posts",
+      "h3": []
+    }
+  ],
+  "targetWords": 1300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/",
+      "https://www.fredmiranda.com/forum/topic/1809698/",
+      "https://www.the-digital-picture.com/Reviews/Wimberley-MH-100-MonoGimbal-Gimbal-Monopod-Head.aspx",
+      "https://backcountrygallery.com/using-a-gimbal-head-on-a-monopod/",
+      "https://www.tripodhead.com/products/monopodhead-main.cfm"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Every readable result discusses heads in prose: forum replies, a single-product review written as narrative (The-Digital-Picture), a short post around a video (Backcountry Gallery); no pros/cons lists or spec tables per product.",
+    "avgWords": 1300,
+    "avgProducts": 4,
+    "commonSections": [
+      "why put a gimbal on a monopod at all",
+      "side-mount MonoGimbal vs full gimbal vs tilt head",
+      "balance and lens flop",
+      "Arca-Swiss foot or long plate",
+      "carrying the rig",
+      "mounting safely"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false,
+    "note": "Word counts: The-Digital-Picture about 2,000; BCG thread about 1,300; FredMiranda page 1 about 1,500; Backcountry Gallery post about 250 words plus video and comments. Wimberley maker page is a spec page, not counted. Guide, not roundup."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.tripodhead.com/products/monopodhead-main.cfm",
+      "title": "The Wimberley MonoGimbal Head"
+    },
+    {
+      "position": 2,
+      "url": "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/",
+      "title": "What is the best gimbal head for a monopod?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.amazon.com/clp/B0D6QLKJPR",
+      "title": "MonoGimbal Head for Monopod Tripod, Side Tilt Gimbal Head"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=6wbQgQKqglc",
+      "title": "Using A Gimbal Head On A Monopod - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://backcountrygallery.com/using-a-gimbal-head-on-a-monopod/",
+      "title": "Using A Gimbal Head On A Monopod - Backcountry Gallery"
+    },
+    {
+      "position": 6,
+      "url": "https://www.reddit.com/r/sportsphotography/comments/1fmcxyr/monopods_and_gimbals_for_stills_not_video/",
+      "title": "Monopods and gimbals for stills (not video) : r/sportsphotography - Reddit"
+    },
+    {
+      "position": 7,
+      "url": "https://www.the-digital-picture.com/Reviews/Wimberley-MH-100-MonoGimbal-Gimbal-Monopod-Head.aspx",
+      "title": "Wimberley MH-100 MonoGimbal Gimbal Monopod Head Review"
+    },
+    {
+      "position": 8,
+      "url": "https://www.fredmiranda.com/forum/next/1829931",
+      "title": "Recommendations for monopod gimbal heads - FM Forums"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=H3-Ib7VrSCM",
+      "title": "Why Filming with a MONOPOD + GIMBAL is a Game Changer"
+    },
+    {
+      "position": 10,
+      "url": "https://www.talkphotography.co.uk/threads/monopod-and-monopod-head.766043/",
+      "title": "Monopod and monopod head? | Talk Photography"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "gimbal head on a monopod",
+      "MonoGimbal",
+      "Wimberley",
+      "best",
+      "monopod head"
+    ],
+    "gap": "Every title is about the head; none tells you which monopod (load, thread, foot) keeps a gimbal steady. Angle: exact keyword first, the monopod spec that stops base wobble."
+  },
+  "commonPoints": [
+    "A gimbal or MonoGimbal balances the lens so it does not flop when the head is loose",
+    "The Wimberley MH-100 is the most recommended monopod gimbal head",
+    "Full gimbals work on a monopod but add bulk and weight",
+    "Tilt heads keep the lens over the monopod but can tip when loose",
+    "The lens needs an Arca-Swiss foot or long plate to balance",
+    "A monopod is for moving and changing height fast; a tripod when you can"
+  ],
+  "ourGain": [
+    {
+      "point": "Pick the monopod first: Wimberley names the monopod's strength as the limiting factor and suggests a rating 3x the load; give the load math for common rigs",
+      "source": "https://www.tripodhead.com/products/monopodhead-main.cfm ; https://www.the-digital-picture.com/Reviews/Wimberley-MH-100-MonoGimbal-Gimbal-Monopod-Head.aspx"
+    },
+    {
+      "point": "Owners split on the side-mount pull: some say it is natural after a minute, others sold the MH-100 for big primes and use a Jobu Jr 3 or a tilt head",
+      "source": "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/"
+    },
+    {
+      "point": "Base wobble fix: a spiked foot and leaning the monopod; one owner reports a light monopod wobbling at the bottom under gimbal weight",
+      "source": "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/ ; https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/"
+    },
+    {
+      "point": "Mount the lens with the rig lying down and prefer lever clamps; one BCG owner's lens fell when a screw clamp let go",
+      "source": "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/"
+    },
+    {
+      "point": "1/4\"-20-only monopods are likely underrated for this job; look for a 3/8\"-16 top",
+      "source": "https://www.the-digital-picture.com/Reviews/Wimberley-MH-100-MonoGimbal-Gimbal-Monopod-Head.aspx"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Wimberley MH-100 MonoGimbal Head",
+      "pages": [
+        "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/",
+        "https://www.fredmiranda.com/forum/topic/1809698/",
+        "https://www.the-digital-picture.com/Reviews/Wimberley-MH-100-MonoGimbal-Gimbal-Monopod-Head.aspx"
+      ],
+      "asinCandidate": "B07W68TWBB",
+      "asinNote": "from The-Digital-Picture's Amazon link; verify live"
+    },
+    {
+      "name": "Jobu Jr 3 gimbal head",
+      "pages": [
+        "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/",
+        "https://backcountrygallery.com/using-a-gimbal-head-on-a-monopod/"
+      ],
+      "note": "BCG (two members) and a Backcountry Gallery commenter (Jobu Jr); sold direct by Jobu, Amazon listing not checked"
+    },
+    {
+      "name": "Really Right Stuff MH-01 monopod tilt head",
+      "pages": [
+        "https://www.fredmiranda.com/forum/topic/1809698/",
+        "https://bcgforums.com/threads/what-is-the-best-gimbal-head-for-a-monopod.38898/"
+      ],
+      "note": "RRS sells direct; usually not on Amazon"
+    },
+    {
+      "name": "Wimberley Sidekick SK-100 (with right-angle clamp)",
+      "pages": [
+        "https://www.fredmiranda.com/forum/topic/1809698/",
+        "https://backcountrygallery.com/using-a-gimbal-head-on-a-monopod/"
+      ],
+      "note": "Steve Perry says it doesn't always balance properly"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "monopods-wobble-with-gimbal-weight",
+      "pain": "A light monopod wobbles at the base under a gimbal or gimbal head",
+      "details": "Video and bird shooters find a lightweight monopod unstable outdoors under gimbal weight, and side-mount monopod gimbal heads sit off balance.",
+      "sources": [
+        "https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/",
+        "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+      ],
+      "quotes": [
+        {
+          "text": "the monopod is too lightweight to trust for stability (it has a slight wobble at the bottom from the gimbal's weight)",
+          "url": "https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/"
+        },
+        {
+          "text": "the side mount results in an off-balance mount that has to be leaned to balance",
+          "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+        }
+      ]
+    },
+    {
+      "id": "monopods-arm-fatigue-heavy-lens",
+      "pain": "Holding a big lens steady for minutes or hours tires the arms",
+      "details": "Wildlife and sports shooters waiting for action cannot keep a heavy tele on target and consider a monopod to take the weight.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/",
+        "https://www.reddit.com/r/canon/comments/1b8r3v0/handholding_a_heavy_lens_for_hours/",
+        "https://www.facebook.com/groups/SportsPhotographers/posts/24104985052500038/",
+        "https://www.birdsasart-blog.com/2022/09/07/youtube-video-tips-and-thoughts-on-using-a-monopod-with-big-glass-and-a-compendium-everything-you-wanted-to-know-about-using-a-monopod-but-were-afraid-to-ask/"
+      ],
+      "quotes": [
+        {
+          "text": "when waiting for action, I cannot hold the lens steady for minutes",
+          "url": "https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+        },
+        {
+          "text": "Better to use a monopod than to fight arm fatigue late in the second half of a game.",
+          "url": "https://www.facebook.com/groups/SportsPhotographers/posts/24104985052500038/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-gimbal-heavy-and-bulky",
+      "pain": "Gimbal heads are heavy and bulky to carry and slow me down on the move",
+      "details": "Owners say gimbals are large and heavy even when they break down, and hinder mobility in dynamic situations, where a monopod can suit a lighter lens like a 180-600mm better.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+        "https://shuttermuse.com/best-gimbal-tripod-heads/"
+      ],
+      "quotes": [
+        {
+          "text": "As already mentioned, they are relatively large and heavy to transport, even those that break down into three separate parts.",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        },
+        {
+          "text": "They do, however hinder mobility in more dynamic situations",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        },
+        {
+          "text": "The downside to the Wimberley head is its 3.1lb weight.",
+          "url": "https://shuttermuse.com/best-gimbal-tripod-heads/"
+        }
+      ]
+    },
+    {
+      "id": "monopods-loose-cheap-build",
+      "pain": "Monopods and convertible tripod-monopods feel loose or cheap",
+      "details": "Owners report a loose Manfrotto monopod and a K&F Concept tripod that converts to a monopod called a poor build.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/37c32e/problem_with_loose_manfrotto_monopod/",
+        "https://www.reddit.com/r/photography/comments/1gxr4z5/singletwistlegged_tripod_that_converts_to_a/"
+      ],
+      "quotes": [
+        {
+          "text": "I have a K&F Concept tripod that converts to a monopod ... but to be frank it's a terrible",
+          "url": "https://www.reddit.com/r/photography/comments/1gxr4z5/singletwistlegged_tripod_that_converts_to_a/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "0.77 lbs",
+      "claim": "Weight of the Wimberley MH-100 MonoGimbal Head",
+      "url": "https://www.tripodhead.com/products/monopodhead-main.cfm",
+      "quote": "Weight: 0.77 lbs (350 grams)"
+    },
+    {
+      "number": ">100lbs",
+      "claim": "Wimberley's stated weight capacity for the MH-100 (The-Digital-Picture lists 50 lb; use the maker figure)",
+      "url": "https://www.tripodhead.com/products/monopodhead-main.cfm",
+      "quote": "Weight Capacity: >100lbs (45kg) (Compatible with the largest lenses in the industry)"
+    },
+    {
+      "number": "3.15 lbs",
+      "claim": "Weight of a full Wimberley WH-200 gimbal, the bulk penalty on a monopod",
+      "url": "https://www.tripodhead.com/products/WH-Specs.cfm",
+      "quote": "Weight: 3.15 lbs (1430 grams)"
+    },
+    {
+      "number": "1.3 lbs",
+      "claim": "Weight of the Wimberley Sidekick SK-100",
+      "url": "https://tripodhead.com/products/sidekick-specs.cfm",
+      "quote": "Weight: 1.3 lbs (590 grams)"
+    }
+  ],
+  "videos": [
+    {
+      "id": "6wbQgQKqglc",
+      "title": "Using A Gimbal Head On A Monopod",
+      "channel": "Steve Perry (Backcountry Gallery)",
+      "url": "https://www.youtube.com/watch?v=6wbQgQKqglc",
+      "section": "How to Set Up and Carry the Rig",
+      "note": "2018, older than 5 years but the best-known video on this exact task and ranks #4"
+    }
+  ],
+  "note": "Pre-researched 2026-10-21. WH-200 and Sidekick stats reuse quotes verified for best-gimbal-head-for-150-600mm-lens. Link to best-monopod-with-feet-for-wildlife-photography, best-gimbal-head-for-150-600mm-lens, best-monopod-for-hiking, monopod-vs-tripod-for-sports-photography."
+}

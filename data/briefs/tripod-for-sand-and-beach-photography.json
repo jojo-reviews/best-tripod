@@ -1,0 +1,439 @@
+{
+  "centralEntity": "tripod for sand and beach photography",
+  "entityVariants": [
+    "beach tripod",
+    "tripod for the beach",
+    "tripod in sand",
+    "sand proof tripod",
+    "tripod for seascapes",
+    "tripod spikes or rubber feet"
+  ],
+  "entities": [
+    {
+      "name": "spiked feet",
+      "type": "accessory",
+      "relation": "burrow into sand and mud so the tide doesn't shift the legs (RRS blog)"
+    },
+    {
+      "name": "twist and flip leg locks",
+      "type": "component",
+      "relation": "sand jams levers and threads; sealed locks resist it"
+    },
+    {
+      "name": "sealed leg locks",
+      "type": "feature",
+      "relation": "Leofoto Poseidon titanium tube plugs, Gitzo Ocean-Lock seals keep water and grit out"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "does not corrode in salt water (Stack Exchange answer)"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "columnless designs go low for seascape foregrounds"
+    },
+    {
+      "name": "salt water",
+      "type": "hazard",
+      "relation": "corrodes aluminum and steel parts; rinse and dry extended"
+    },
+    {
+      "name": "Leofoto Poseidon LP-324C",
+      "type": "product",
+      "relation": "tripod built for water, dust and sand (Fstoppers review)"
+    },
+    {
+      "name": "Gitzo Ocean Traveler",
+      "type": "product",
+      "relation": "sealed Ocean-Lock tripod named on Stack Exchange"
+    },
+    {
+      "name": "sand shoes / leg covers",
+      "type": "accessory",
+      "relation": "broad feet or plastic bags/PVC pipe keep legs from sinking and joints clean"
+    }
+  ],
+  "attributes": [
+    "sealed vs open leg locks",
+    "feet type (spikes, rubber, sand shoes)",
+    "leg material corrosion",
+    "number of sections and thickest-section-down use",
+    "minimum height without column",
+    "ease of disassembly for cleaning",
+    "weight to resist wind"
+  ],
+  "ngrams": [
+    "tripod on the beach",
+    "spike feet",
+    "leg locks",
+    "salt water",
+    "long exposure",
+    "sand in the legs",
+    "carbon fiber",
+    "lowest section"
+  ],
+  "skipgrams": [
+    "sand…leg locks",
+    "spike…feet",
+    "salt…corrosion",
+    "tide…legs",
+    "rinse…tripod"
+  ],
+  "nlpTerms": [
+    "seascape",
+    "waves",
+    "tide",
+    "surf",
+    "grit",
+    "corrosion",
+    "rinse",
+    "disassemble",
+    "ND filter",
+    "wind",
+    "sink",
+    "stable",
+    "sealed"
+  ],
+  "questions": [
+    "can you use a tripod on sand",
+    "how do you protect a tripod from sand and salt water",
+    "spikes or rubber feet on sand",
+    "how do you clean sand out of a tripod",
+    "is carbon fiber better for the beach",
+    "how to keep a tripod still in the surf"
+  ],
+  "contentGaps": [
+    "No page ties tripod choice to beach conditions: dry sand vs wet sand vs surf",
+    "Feet comparison: spikes vs rubber vs broad sand shoes, with when to use each",
+    "Which locks survive sand (sealed twist vs flip levers) and how to tell before buying",
+    "Cleaning sequence: rinse extended, dry, disassemble; never collapse wet and sandy (Stack Exchange owner)",
+    "Waves move the sand under the feet: sink legs until firm (RRS)"
+  ],
+  "outline": [
+    {
+      "h2": "Tripod for Sand and Beach Photography – The Short Answer",
+      "intent": "Direct answer: carbon legs, sealed or easy-to-clean locks, spike feet, no column; and how to use any tripod on sand",
+      "h3": []
+    },
+    {
+      "h2": "What to Look For in a Beach Tripod",
+      "intent": "Locks, material, feet, sections, column, weight; mention Poseidon/Ocean Traveler as examples",
+      "h3": [
+        "Leg locks that keep sand out",
+        "Carbon vs aluminum near salt water",
+        "Feet: spikes, rubber or sand shoes"
+      ]
+    },
+    {
+      "h2": "How to Set Up a Tripod on Sand and in the Surf",
+      "intent": "Numbered steps: lowest section first, sink legs, spikes, timing waves; video",
+      "h3": []
+    },
+    {
+      "h2": "Protecting a Tripod You Already Own",
+      "intent": "DIY bags/PVC sleeves, keep joints out of sand",
+      "h3": []
+    },
+    {
+      "h2": "Cleaning After a Beach Shoot",
+      "intent": "Rinse extended, dry, disassemble, toothbrush threads",
+      "h3": []
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "Pain points",
+      "h3": []
+    },
+    {
+      "h2": "Our Verdict",
+      "intent": "Close opening scene; link wind and leg-lock posts",
+      "h3": []
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach",
+      "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+      "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "How-to guide: RRS blog and Stack Exchange answers are prose tips; Fstoppers is a single-product prose review. No pros/cons lists or spec tables for multiple products.",
+    "avgWords": 1500,
+    "avgProducts": 1,
+    "commonSections": [
+      "use spike feet / sink legs",
+      "keep sand out of the leg locks",
+      "extend the lowest section first",
+      "carbon fiber resists corrosion",
+      "rinse and disassemble after",
+      "sealed tripods exist but are expensive"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false,
+    "note": "RRS blog about 1,100 words, Stack Exchange thread about 1,700, Fstoppers review about 1,200. Amazon search page, Instagram and Facebook not counted; travelingphotographer.com and fujix-forum not scraped."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach",
+      "title": "Tripods and the Beach - Really Right Stuff Light & Shadow"
+    },
+    {
+      "position": 2,
+      "url": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+      "title": "How to use a tripod on the beach without damaging it?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.amazon.com/beach-tripod/s?k=beach+tripod",
+      "title": "Beach Tripod - Amazon.com"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=yAAd5RZHDp8",
+      "title": "Beach Photography Made Easy with DELTA - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.reddit.com/r/photography/comments/wnfb4/need_some_tips_for_using_a_tripod_in_the_sand/",
+      "title": "Need some tips for using a tripod in the sand. : r/photography - Reddit"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/24063245739963365/",
+      "title": "Would you put your camera on a tripod on the beach for some family ..."
+    },
+    {
+      "position": 7,
+      "url": "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985",
+      "title": "We Review the 'Waterproof and Sand-proof' Leofoto Poseidon Tripod"
+    },
+    {
+      "position": 8,
+      "url": "https://www.travelingphotographer.com/beach-photography.html",
+      "title": "Master Beach Photography Today How To - The Traveling Photographer"
+    },
+    {
+      "position": 9,
+      "url": "https://www.fujix-forum.com/threads/tripod-use-on-a-beach.110724/",
+      "title": "Tripod use on a beach | FujiX-Forum"
+    },
+    {
+      "position": 10,
+      "url": "https://www.instagram.com/popular/tripod-for-beach-photography/",
+      "title": "Tripod For Beach Photography - Instagram"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "tripod",
+      "beach",
+      "sand",
+      "without damaging it",
+      "sand-proof",
+      "tips"
+    ],
+    "gap": "No title combines what to buy with how to use it in sand and surf; angle: exact keyword first + 'what to look for and how to keep sand out'."
+  },
+  "commonPoints": [
+    "Sand gets into leg locks and threads",
+    "Use spike feet and push legs in",
+    "Extend the lowest (thinnest) section first to keep joints out of sand",
+    "Carbon fiber won't corrode",
+    "Rinse and clean the tripod after"
+  ],
+  "ourGain": [
+    {
+      "point": "Match the setup to the surface: dry sand, wet sand, surf, each with feet and leg choices",
+      "source": "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach ; https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+    },
+    {
+      "point": "Sealed locks explained with real examples (Leofoto Poseidon tube plugs; Gitzo Ocean-Lock seals) and what they cost you in height and weight",
+      "source": "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985 ; https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+    },
+    {
+      "point": "Don't collapse it dirty: one owner jammed his legs by folding them sandy; clean extended",
+      "source": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+    },
+    {
+      "point": "Waves shift sand under the feet enough to ruin a 1/2 s exposure: sink until firm",
+      "source": "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach"
+    },
+    {
+      "point": "Cheap DIY protection for a tripod you already own: taped plastic bags or PVC sleeves",
+      "source": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Leofoto Poseidon LP-324C",
+      "pages": [
+        "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985"
+      ],
+      "note": "1 independent page in this SERP (Fstoppers also lists it in a separate budget roundup, same publisher); not qualifying. Guide article, products optional"
+    },
+    {
+      "name": "Gitzo Ocean Traveler",
+      "pages": [
+        "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+      ],
+      "note": "1 page; likely discontinued"
+    },
+    {
+      "name": "Really Right Stuff TVC-34L with spike feet",
+      "pages": [
+        "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach"
+      ],
+      "note": "maker blog; not independent"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-soft-ground-slipping",
+      "pain": "The tripod slips or sinks on grass, sand, mud and smooth rock",
+      "details": "Field shooters struggle with feet that slide on hard surfaces or sink in soft ground; advice is spikes for sand and mud, rubber feet for smooth surfaces and firm ground over grass.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots",
+        "https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/",
+        "https://www.reddit.com/r/photography/comments/4p4wkx/landscape_photography_go_to_gear/"
+      ],
+      "quotes": [
+        {
+          "text": "Grass is not stable.",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        },
+        {
+          "text": "Having cheap leg fasteners / too heavy a load … causing real slipping issues when used on hard surfaces.",
+          "url": "https://www.uniquephoto.com/community/qa/why-can-a-tripod-still-be-unstable-or-unsteady-for-long-exposure-landscape-shots"
+        },
+        {
+          "text": "You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-leg-lock-grit-sand",
+      "pain": "Sand and grit foul tripod leg locks, and getting it out means taking the legs apart",
+      "details": "Beach and desert shooters report gritty, fouled twist-lock threads that have to be unscrewed and cleaned, while flip-lock owners say their legs are hard to strip down to clean sand out of the tubes. Owners disagree on which lock type copes better.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+        "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+        "https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods"
+      ],
+      "quotes": [
+        {
+          "text": "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain.",
+          "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+        },
+        {
+          "text": "it makes it nearly impossible to disassemble the tripod to clean out the sand",
+          "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-leg-section-stuck",
+      "pain": "A twist-lock leg section is stuck and will not slide even when unlocked",
+      "details": "Grit or a folded compression ring jams the tube; owners try hot water, lubricant spray and pliers, and some end up sending it to the maker.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
+        "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/"
+      ],
+      "quotes": [
+        {
+          "text": "When the lock is fully unlocked I still can not get the leg to make any movement at all",
+          "url": "https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-wind-vibration",
+      "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+      "details": "Outdoor shooters see legs act like a sail or vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "Wind will vibrate across the legs and transmit up to the camera.",
+          "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        },
+        {
+          "text": "Keep out of the wind as that will cause movement of your setup.",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-weighing-down-for-stability",
+      "pain": "Owners are unsure how to add weight for stability without carrying sandbags",
+      "details": "A light tripod dances on moss or scrub; photographers hang a camera backpack from the hook or center-column hole, but a bag is awkward and not every tripod has room or a hook.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.reddit.com/r/photography/comments/3olh1s/common_landscape_photography_mistakes_and_how_to/"
+      ],
+      "quotes": [
+        {
+          "text": "Some tripods come with a hook that you can hang your bag on to use for your extra mass, which helps a bit.",
+          "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        },
+        {
+          "text": "there is extremely little room to hang my camera backpack from the hook for stability",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "15 kilograms",
+      "claim": "Leofoto LP-324C load capacity at 1.95 kg weight (distributor page)",
+      "url": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-lp-324c/p,79346",
+      "quote": "Despite its low weight of only 1.95 kilograms, it has a load capacity of 15 kilograms.",
+      "via": "Firecrawl search excerpt; leofoto.net is the Leofoto EU distributor site"
+    },
+    {
+      "number": "1/2 second",
+      "claim": "Shutter speed RRS's author uses to show wave motion on a tripod",
+      "url": "https://blog.reallyrightstuff.com/light-and-shadow/tripods-and-the-beach",
+      "quote": "getting my shutter speed to approximately 1/2 second (by adjusting the Aperture and ISO accordingly) gives me the best results"
+    },
+    {
+      "number": "165 mm",
+      "claim": "Minimum working height of the columnless LP-324C",
+      "url": "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985",
+      "quote": "the minimum working height becomes a mere 165 mm (6.5 inches) from the ground to the base of the camera"
+    },
+    {
+      "number": "three days",
+      "claim": "Fstoppers left the sealed Poseidon in sandy salt water without rinsing and the legs still slid smoothly",
+      "url": "https://fstoppers.com/reviews/tripod-tricky-situations-review-waterproof-and-sand-proof-leofoto-poseidon-671985",
+      "quote": "this was maintained even after exposing the legs to sandy saltwater for three days without rinsing"
+    }
+  ],
+  "videos": [
+    {
+      "id": "8aTEP7oDPLw",
+      "title": "Seascapes at Bangui with the Leofoto Poseidon LP-324C | Review and Demo",
+      "channel": "Nicco Valenzuela",
+      "url": "https://www.youtube.com/watch?v=8aTEP7oDPLw",
+      "section": "How to Set Up a Tripod on Sand and in the Surf",
+      "note": "channel confirmed by the Fstoppers embed; 2024"
+    }
+  ],
+  "note": "Pre-researched 2026-10-21. Secondary 'tripod spikes or rubber feet' folded in. Link how-to-stop-tripod-shake-in-wind, tripod-leg-lock-wont-hold, twist-lock-vs-flip-lock-tripod-legs, carbon-fiber-vs-aluminum-tripod-for-hiking."
+}

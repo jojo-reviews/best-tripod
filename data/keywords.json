@@ -2290,7 +2290,8 @@
     "cluster": "optics tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/telescopes #1, Cloudy Nights forum, bestbinocularsreviews, space.com, telescopicwatch, YouTube; 4 astronomy stores (OPT, Agena, Astronomics, High Point). Mixed: stores are collection pages, informational posts rank. Borderline; angle = camera tripod for small scopes and spotting-class optics, not mounts.",
-    "slug": "best-tripod-for-telescope"
+    "slug": "best-tripod-for-telescope",
+    "preResearch": "skipped: SERP 2026-10-21 is 4 astronomy stores (OPT, Astronomics, Agena, High Point) plus telescope-mount/astro-tripod pages (Cloudy Nights Berlebach/Avalon, Sky at Night mounts, r/telescopes EQ tripod); the only camera-tripod angle (small scopes, spotting-class optics) overlaps the live best-tripod-for-spotting-scope post"
   },
   {
     "status": "pending",
