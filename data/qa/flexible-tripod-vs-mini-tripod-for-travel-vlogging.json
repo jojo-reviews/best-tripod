@@ -1,0 +1,16 @@
+{
+  "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:38:21.886Z",
+  "errors": [],
+  "warnings": [
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against sources opened via Firecrawl on 2026-10-21: JOBY GorillaPod 3K Kit (JB01507) load 6.6 lb/3 kg, max height 12 in, 360 pan/90 tilt, QR plate, bubble level, stand closed 9 in/24 cm, and 'No Longer Available' status on the B&H specs page; kit weight 393 g and ABS/TPE legs on Shotkit; wrap/vlog-grip use and ~2 lb Canon on Nina Ragusa's page. Manfrotto PIXI Mini MTPIXI-B: 0.19 kg, 13.5 cm max/min height, 18.5 cm closed, 1 kg payload, -35/+35 front and lateral tilt, 360 pan, 45 deg legs, fixed 1/4-20 plate on manfrotto.com. PIXI EVO 20 cm / 2.5 kg on manfrotto.com. Sony ZV-E10 343 g with battery and card on sony.com specs. GorillaPod 3.5-15 in range quote on B&H eXplora. Owner quotes: DPReview thread (level horizon, topple forward, 'not as stable'), Quora answer (needs a pole or tree), Pack Hacker PIXI EVO height quote, Thomann PIXIMII-B review (a7III + 24-105, fixed height, stiff button, rotate to attach), Mojogear (hard to set flexible tripod vertical); Reddit quotes r/AnalogCommunity t18oer and r/videography 6wh2mc confirmed via Firecrawl search excerpts at those thread URLs; Facebook group reply via search excerpt. Amazon US listings: B074WC9YKL 'Joby GorillaPod 3K Flexible Mini-Tripod with Ball Head Kit...' and B00D76RNLS 'Manfrotto MTPIXI-B PIXI Mini Tripod, Black' (same models). Fixed PIXI tilt wording (no portrait from head) after reading the full Manfrotto spec list. No prices, ratings, or testing claims.",
+    "at": "2026-10-21T10:38:21.518Z",
+    "hash": "c3e2d5000d7dc14f"
+  }
+}

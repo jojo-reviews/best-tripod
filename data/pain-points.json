@@ -2121,6 +2121,53 @@
           "are-cheap-gimbal-heads-any-good"
         ],
         "foundAt": "2026-10-20"
+      },
+      {
+        "id": "tripod-heads-sag-is-camera-or-plate-flex",
+        "pain": "The \"sagging ball head\" turns out to be the plate, the camera body or the legs moving, not the ball",
+        "details": "Owners find the drop comes from a single-screw plate rotating, a battery grip or plastic tripod socket flexing, a thread adapter collar stopping the head seating flat, or tripod feet settling in soft ground.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/410699/1",
+            "platform": "forum",
+            "title": "Do all ballheads sag",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "platform": "forum",
+            "title": "Do Even Good Ball Heads Drop Slightly After Setting?",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://forum.luminous-landscape.com/index.php?topic=120554.0",
+            "platform": "forum",
+            "title": "Ballhead Drift",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have found several times when I thought my head assembly was sagging that it was actually the tripod feet setling into the ground in loose sand or soil.",
+            "url": "https://www.fredmiranda.com/forum/topic/410699/1",
+            "via": "page"
+          },
+          {
+            "text": "I thought my Slik ball head was slipping, but in fact it was the lack of body rigidity of my Pentax k20d.",
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "ball head sags after tightening",
+          "ball head drift after locking"
+        ],
+        "keywords": [
+          "ball head sags after tightening"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
       }
     ],
     "tripod-accessories": [
