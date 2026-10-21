@@ -232,6 +232,7 @@ heroAlt: >-
   Monopod vs Tripod for Sports Photography – Which Wins in 2026? – Best Tripod
   comparison
 related:
+  - best-monopod-for-hiking
   - video-tripod-bowl-size-explained-75mm-vs-100mm
   - best-monopod-with-feet-for-wildlife-photography
 ---

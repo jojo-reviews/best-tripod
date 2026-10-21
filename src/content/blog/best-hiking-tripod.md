@@ -414,10 +414,10 @@ heroAlt: >-
   Best Hiking Tripod (2026) – 4 Picks by Pack Weight, 0.6 to 2.8 lb – Best
   Tripod buying guide
 related:
+  - best-monopod-for-hiking
   - 4-section-vs-5-section-tripod
   - carbon-fiber-vs-aluminum-tripod-for-hiking
   - binocular-tripod-adapter
-  - best-tripod-that-fits-in-carry-on-luggage
 ---
 
 You reach the overlook twenty minutes before sunrise with seven pounds of camera gear already on your back, and the tripod strapped to the pack suddenly feels like the heaviest thing you own. Then the wind picks up on the ridge, you raise the center column to clear the rocks, and the long exposure comes back soft. The best hiking tripod is the one that solves both halves of that morning: light enough that you actually carry it, and stiff enough at the height you shoot. We built this guide around pack weight, wind and trail ground rather than airports and city breaks, and we matched four tripods to the hikers they suit. We did not use these tripods ourselves; every figure below comes from maker spec pages, retailer listings or owner reports, and we say which.

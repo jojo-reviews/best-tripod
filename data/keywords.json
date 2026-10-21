@@ -2739,7 +2739,7 @@
     "slug": "best-tripod-for-food-photography"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2764,7 +2764,8 @@
     "painPoints": [
       "monopods-worth-it-vs-tripod"
     ],
-    "slug": "best-monopod-for-hiking"
+    "slug": "best-monopod-for-hiking",
+    "publishedAt": "2026-10-21T10:31:46.473Z"
   },
   {
     "status": "pending",

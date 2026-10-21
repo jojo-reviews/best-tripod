@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:05:21.436Z",
+  "updatedAt": "2026-10-21T10:30:25.322Z",
   "categories": {
     "camera-tripods": [
       {
@@ -853,6 +853,124 @@
           "tripod-center-column-up-or-down-for-landscapes"
         ],
         "foundAt": "2026-10-21"
+      },
+      {
+        "id": "camera-tripods-scope-height-straight-vs-angled",
+        "pain": "The tripod is too short to glass standing, especially with a straight spotting scope",
+        "details": "Buyers do not know whether a compact tripod reaches eye level with a spotting scope; owners explain that angled scopes work with shorter legs while straight scopes need taller tripods, and some still bend their knees at full height.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/",
+            "platform": "forum",
+            "title": "School me on Spotting Scope Tripods",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+            "platform": "blog",
+            "title": "My Best Tripod for Binoculars & Spotting Scopes",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "For an angled scope, the shorter tripod will work well. Straight scopes need taller tripods.",
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/"
+          },
+          {
+            "text": "it is not as comfortable as the others like the Bresser as I do have to bend my knees slightly",
+            "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+          }
+        ],
+        "searches": [
+          "how tall should a spotting scope tripod be",
+          "tripod for straight spotting scope"
+        ],
+        "keywords": [
+          "best tripod for spotting scope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-spotting-scope"
+        ],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "camera-tripods-scope-full-height-wobble",
+        "pain": "A light backpacking tripod wobbles at full height with a big spotting scope",
+        "details": "Owners comparing ultralight carbon tripods with an 85mm scope report legs that spread, bend or wiggle at full extension; others say the same light legs are solid with 65mm scopes or when sitting.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/",
+            "platform": "forum",
+            "title": "Tripod Comparison: Slik 634 vs Sirui T-024 vs Sirui 7C",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://rokslide.com/forums/threads/ultralight-tripod-options.277003/",
+            "platform": "forum",
+            "title": "Ultralight Tripod Options",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The slik is very wobbly and at full extension with any decent weight, the legs wants to start to spread and bend.",
+            "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+          },
+          {
+            "text": "Using an 85mm scope on light duty tripods, with legs fully extended, is an unrealistic expectation and muddies the water.",
+            "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+          }
+        ],
+        "searches": [
+          "lightweight tripod for 85mm spotting scope",
+          "backpacking tripod spotting scope wobble"
+        ],
+        "keywords": [
+          "best tripod for spotting scope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-spotting-scope"
+        ],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "camera-tripods-ball-head-flops-with-scope",
+        "pain": "A ball head lets the spotting scope flop over when unlocked",
+        "details": "Ball heads release every axis at once, so a heavy scope or big binocular swings when loosened; glassers and birders prefer pan or fluid heads with separate pan and tilt control.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/",
+            "platform": "forum",
+            "title": "School me on Spotting Scope Tripods",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+            "platform": "blog",
+            "title": "My Best Tripod for Binoculars & Spotting Scopes",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Ball heads work to only they are sensitive when you unlock the optic as they can move wherever.",
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/"
+          }
+        ],
+        "searches": [
+          "ball head or pan head for spotting scope"
+        ],
+        "keywords": [
+          "best tripod for spotting scope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-spotting-scope"
+        ],
+        "foundAt": "2026-10-21"
       }
     ],
     "monopods": [
@@ -950,7 +1068,8 @@
         ],
         "keywords": [],
         "coveredBy": [
-          "monopod-vs-tripod-for-sports-photography"
+          "monopod-vs-tripod-for-sports-photography",
+          "best-monopod-for-hiking"
         ],
         "foundAt": "2026-10-19"
       },
@@ -983,7 +1102,9 @@
           "monopod for tall photographer"
         ],
         "keywords": [],
-        "coveredBy": [],
+        "coveredBy": [
+          "best-monopod-for-hiking"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1126,6 +1247,131 @@
         "keywords": [],
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "monopods-hiking-stick-weak-as-monopod",
+        "pain": "Walking sticks with a camera screw make poor monopods",
+        "details": "Hybrid hiking sticks are too light, too short or too loose at the joints to hold a camera steady.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/",
+            "platform": "forum",
+            "title": "Recommend a monopod suitable for hiking",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single",
+            "platform": "retailer",
+            "title": "REI: Mountainsmith Trekker FX Lite V2 owner reviews",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I guess it's OK as a hike stick - but it's rubbish as a monopod!",
+            "url": "https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/"
+          },
+          {
+            "text": "I think generally it’s too light and does not fit together tightly enough to be very useful in that role.",
+            "url": "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single"
+          }
+        ],
+        "searches": [
+          "trekking pole monopod",
+          "walking stick monopod",
+          "hiking stick camera mount"
+        ],
+        "keywords": [
+          "best monopod for hiking"
+        ],
+        "coveredBy": [
+          "best-monopod-for-hiking"
+        ],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "monopods-hiking-safety-load",
+        "pain": "A camera monopod is not built to carry a hiker's weight",
+        "details": "Hikers want one pole for balance and camera support, but camera monopods are not rated as walking aids.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/",
+            "platform": "forum",
+            "title": "Recommend a monopod suitable for hiking",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/",
+            "platform": "forum",
+            "title": "Recommendation for combined walking stick and monopod",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "don't buy a monopod that doubles as a hiking stick, but buy a hiking stick that can be used as a monopod",
+            "url": "https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/"
+          },
+          {
+            "text": "Compare the weight ratings of the monopod and compare these to trekking poles. This is a safety issue.",
+            "url": "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/"
+          }
+        ],
+        "searches": [
+          "can I use a monopod as a walking stick",
+          "monopod walking stick for photography"
+        ],
+        "keywords": [
+          "best monopod for hiking"
+        ],
+        "coveredBy": [
+          "best-monopod-for-hiking"
+        ],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "monopods-collapsed-length-travel",
+        "pain": "Long collapsed length makes a hiking pole or monopod awkward in a pack or on a flight",
+        "details": "Poles that collapse to around 27 in stick out of bags and complicate air travel.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single",
+            "platform": "retailer",
+            "title": "REI: Mountainsmith Trekker FX Lite V2 owner reviews",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/",
+            "platform": "forum",
+            "title": "Recommendation for combined walking stick and monopod",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Shorter collapsed length will greatly simplify travel with your poles.",
+            "url": "https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single"
+          },
+          {
+            "text": "it might be too long for carry-on, or easy carry in a pack/bag.",
+            "url": "https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/"
+          }
+        ],
+        "searches": [
+          "monopod carry on",
+          "shortest folding monopod",
+          "lightweight monopod for backpacking"
+        ],
+        "keywords": [
+          "best monopod for hiking"
+        ],
+        "coveredBy": [
+          "best-monopod-for-hiking"
+        ],
+        "foundAt": "2026-10-21"
       }
     ],
     "travel-tripods": [
@@ -2156,6 +2402,196 @@
         "coveredBy": [
           "video-tripod-bowl-size-explained-75mm-vs-100mm"
         ],
+        "foundAt": "2026-10-21"
+      }
+    ],
+    "tabletop-mini-tripods": [
+      {
+        "id": "tabletop-mini-tripods-gopro-mount-droops",
+        "pain": "The GoPro won't stay where you aimed it and droops or swings after a bump",
+        "details": "Owners on mini tripods, grips and 3-Way style mounts find the thumb screw or swivel won't hold the camera angle; after a knock the GoPro points at the sky or the ground. Suggested fixes are tightening or greasing the thumb screw and mounting the camera so it isn't fighting gravity.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/w7xizp/my_gopro_wont_stay_in_position_and_after_a_bump/",
+            "platform": "reddit",
+            "title": "My gopro won't stay in position and after a bump or two it's filming up in ...",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/3849ld/gopro_screw_on_mounts_is_loose/",
+            "platform": "reddit",
+            "title": "Gopro screw on mounts is loose",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.facebook.com/groups/gopro.hero.group/posts/3518055891754218/",
+            "platform": "forum",
+            "title": "Has anyone had problems with the gopro 3way 2.0 swivel tightener not ...",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Upside down mounting can help so your no fighting gravity.",
+            "url": "https://www.reddit.com/r/gopro/comments/w7xizp/my_gopro_wont_stay_in_position_and_after_a_bump/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Put a small dab of grease on the threads and you should be able to get them much tighter by hand.",
+            "url": "https://www.reddit.com/r/gopro/comments/3849ld/gopro_screw_on_mounts_is_loose/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "gopro won't stay in position on tripod",
+          "gopro thumb screw loose",
+          "gopro 3 way swivel won't tighten"
+        ],
+        "keywords": [
+          "best tripod for gopro"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "tabletop-mini-tripods-gopro-tripod-tips-over",
+        "pain": "A light GoPro tripod tips over in a breeze, on uneven ground or when the camera is angled down",
+        "details": "Owners of small grip-tripods report the legs tip unless the load is balanced, and pole-style tripods can fall over in wind on hard ground. People filming straight down ask which tripod won't topple.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1eplrr3/tripod_for_downward_pointing_gopro/",
+            "platform": "reddit",
+            "title": "Tripod for downward pointing Gopro",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.walmart.com/ip/GoPro-3-Way-Grip-2-0-Camera-Grip-Extension-Arm-Tripod-20/5300974196",
+            "platform": "review",
+            "title": "Walmart: GoPro 3-Way Grip 2.0 customer reviews",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1quuk91/the_new_tripod_ballhead_with_the_new_1m_carbon/",
+            "platform": "reddit",
+            "title": "The new Tripod + Ballhead with the new 1m Carbon fiber pole",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "With the GoPro Shorty you can angle the camera down vertically and the tripod won't tip over.",
+            "url": "https://www.reddit.com/r/gopro/comments/1eplrr3/tripod_for_downward_pointing_gopro/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate.",
+            "url": "https://www.walmart.com/ip/GoPro-3-Way-Grip-2-0-Camera-Grip-Extension-Arm-Tripod-20/5300974196",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "gopro tripod tips over",
+          "gopro tripod wind",
+          "tripod for downward pointing gopro"
+        ],
+        "keywords": [
+          "best tripod for gopro"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "tabletop-mini-tripods-gopro-adapter-to-tripod",
+        "pain": "Connecting a GoPro to a regular tripod needs an adapter, and cheap adapters break or jam",
+        "details": "Owners ask how to put a GoPro on the tripod they already own; cheap fingers-to-1/4-20 adapters fall apart or get stuck on the camera. Newer GoPros with a built-in 1/4-20 thread skip the adapter.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1edmlq5/how_can_i_connect_this_to_my_tripod_that_i/",
+            "platform": "reddit",
+            "title": "How can I connect this to my tripod that I already have",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1fz6wi6/stucked_tripod/",
+            "platform": "reddit",
+            "title": "Stucked tripod",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/ubfc8o/attaching_the_gopro_to_a_tripod/",
+            "platform": "reddit",
+            "title": "Attaching the GoPro to a tripod",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Literally just gently attached it on the tripod and then when attaching the gopro to the mount it just fell apart.",
+            "url": "https://www.reddit.com/r/gopro/comments/1edmlq5/how_can_i_connect_this_to_my_tripod_that_i/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "how to put gopro on a tripod",
+          "gopro tripod adapter broke",
+          "gopro stuck in tripod mount"
+        ],
+        "keywords": [
+          "best tripod for gopro",
+          "gopro tripod mount"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-21"
+      },
+      {
+        "id": "tabletop-mini-tripods-gopro-mini-tripod-legs-break",
+        "pain": "Pocket GoPro tripods loosen or crack at the leg hinges within a year",
+        "details": "GoPro Shorty owners report tripod legs snapping, hairline cracks at the hinges after about a year, and a telescoping pole that stays loose once worn because it has no lock.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1si59k7/gopro_shorty_vs_longer_3rd_party_sticks_for/",
+            "platform": "reddit",
+            "title": "GoPro Shorty vs longer 3rd party sticks for travel",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/ldov2l/ulanzi_mt09_mini_tripod_vs_gopro_shorty/",
+            "platform": "reddit",
+            "title": "Ulanzi MT-09 Mini tripod vs GoPro Shorty",
+            "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/13lerai/shorty_loose/",
+            "platform": "reddit",
+            "title": "Shorty loose...",
+            "seen": "2026-10-21"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "My shorty just broke after a year of use. It has little hairline cracks at the tripod hinges",
+            "url": "https://www.reddit.com/r/gopro/comments/ldov2l/ulanzi_mt09_mini_tripod_vs_gopro_shorty/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "There is no \"locking\" mechanism on the shorty unlike other telescoping mounts, so once it's loose, it stays loose.",
+            "url": "https://www.reddit.com/r/gopro/comments/13lerai/shorty_loose/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "gopro shorty broke",
+          "gopro shorty loose",
+          "gopro mini tripod durability"
+        ],
+        "keywords": [
+          "best tripod for gopro"
+        ],
+        "coveredBy": [],
         "foundAt": "2026-10-21"
       }
     ]
