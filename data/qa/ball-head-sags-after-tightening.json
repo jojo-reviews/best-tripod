@@ -1,0 +1,17 @@
+{
+  "slug": "ball-head-sags-after-tightening",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:41:03.388Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "No products (how-to). Verified against sources opened via Firecrawl: DPReview 'Battle of the titans' ball head test (3.1 kg 500mm lens at 45 degrees; sag under friction 0.12-0.33% over 30 s; lock-down shift 0.18% min to 7.3% max of frame; elliptical ball adds friction but needs firmer setting); RRS BH-30 manual (15 lb/6.8 kg load, 30mm ball, 'Use more drag for heavy cameras and lenses', over-cranking pan lock adds drag on ball, DO NOT LUBRICATE THE BALL quote); RRS ball head maintenance page (compressed air best, water sparingly, gentle dish soap, unopenable head); K&F Concept loose ball head guide (camera-off diagnosis, 28mm head 22 lb/10 kg, no WD-40, spinning knob = stop forcing, check warranty); Unique Photo Q&A (494RC2 owner, framing drops slightly and points lower; lens collar); DPReview forum thread (Pentax k20d body rigidity quote, friction knob 'helps tremendously' quote); Fred Miranda thread (feet settling quote, clamp/plate fix, battery grip flex when holding the camera vs the head stem); Luminous Landscape thread (4 lb kit on 26 lb-rated head, ratings refer to vertical load, IBIS/lens IS, thread adapter collar). Reddit: r/photography creep quote and loosen-the-head quote confirmed verbatim via Firecrawl search excerpts at the same thread URLs; r/AskPhotography sag report paraphrased (head slightly above requirement, friend's higher-capacity model solid) from its search excerpt. Videos GAEUiKWWYNU (Dean Cooper, How to Tension a Ball Head) and eR_a8I3Zd_I (Really Right Stuff ballhead cleaning) titles confirmed.",
+    "at": "2026-10-21T10:41:03.025Z",
+    "hash": "a756229a42b6914f"
+  }
+}

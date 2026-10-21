@@ -347,10 +347,10 @@ heroAlt: >-
   Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks – Best Tripod
   comparison
 related:
+  - ball-head-sags-after-tightening
   - best-gimbal-head-for-150-600mm-lens
   - are-cheap-gimbal-heads-any-good
   - ball-head-tripod
-  - best-video-tripod-with-fluid-head-for-beginners
 ---
 
 Ball head vs pan tilt head for landscape photography is a choice that comes down to one trade: speed and weight against precision. A ball head lets you swing the camera anywhere with a single knob. A pan tilt head (also called a 3-way head) moves one axis at a time, so the horizon stays put. We've seen photographers argue both sides for years, and in our view neither answer is wrong. It depends on how far you walk, how fast the light moves and how fussy you are about a level horizon. Below we give you a short answer, five heads worth considering, and a clear way to decide.
