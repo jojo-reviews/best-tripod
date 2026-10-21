@@ -1066,10 +1066,10 @@ heroAlt: >-
   Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
   buying guide
 related:
+  - travel-tripod-vs-full-size-tripod-for-landscape-photography
   - 4-section-vs-5-section-tripod
   - best-tripod-that-fits-in-carry-on-luggage
   - best-hiking-tripod
-  - best-tripod-for-iphone-night-mode-photos
 ---
 
 The best travel tripod for mirrorless camera kits is the one that holds your actual body and lens without creep, reaches a usable height with the center column down, and still fits your carry-on bag. For most full-frame mirrorless shooters that points to the Peak Design Travel Tripod (Carbon Fiber), which folds to about 15.5 inches and carries a 20 lb rated load. If your kit is a small APS-C body with a light zoom, a compact travel tripod for mirrorless gear like the Sirui Traveler 5C saves real weight. We've organized the 15 picks below around three numbers we always check first: load capacity against your gear, folded length against your bag, and working height without the column.

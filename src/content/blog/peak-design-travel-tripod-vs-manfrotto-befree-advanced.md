@@ -287,7 +287,7 @@ sources:
   - title: 'Glazer''s Camera: Befree Advanced lever with ball head'
     url: >-
       https://www.glazerscamera.com/collections/tripods/products/befree-advanced-lever-w-bh
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: >-
       Is the Peak Design Travel Tripod better than the Manfrotto Befree
@@ -327,6 +327,7 @@ heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced (2026) – Best Tripod
   comparison
 related:
+  - travel-tripod-vs-full-size-tripod-for-landscape-photography
   - what-is-an-arca-swiss-plate-and-do-i-need-one
 ---
 

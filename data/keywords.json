@@ -919,7 +919,7 @@
     "publishedAt": "2026-10-21T10:26:02.970Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -951,7 +951,8 @@
     "painPoints": [
       "travel-tripods-center-column-tradeoff",
       "travel-tripods-wobbly-for-long-exposure"
-    ]
+    ],
+    "publishedAt": "2026-10-21T10:35:57.724Z"
   },
   {
     "status": "published",
