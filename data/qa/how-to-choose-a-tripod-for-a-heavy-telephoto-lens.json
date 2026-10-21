@@ -1,0 +1,17 @@
+{
+  "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+  "pass": true,
+  "checkedAt": "2026-10-21T10:40:48.575Z",
+  "errors": [],
+  "warnings": [
+    "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after a wording fix (video placement). Same sources as before: Gitzo US GT3543LSUS spec page, DPReview six-tripod roundup, Canon/Sony/Nikon maker weight pages, SLR Lounge, Ulanzi head guide, photo.stackexchange 125034 quotes verbatim, bcgforums 50813 and 44486, Daniel Wretham owner review, Fred Miranda 1848727, Tom Mason video XYyDGRvhz4c transcript, Amazon B01LYF8GDN listing (model GT3543LS).",
+    "at": "2026-10-21T10:40:48.206Z",
+    "hash": "78e4031c8c2b0ce8"
+  }
+}

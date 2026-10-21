@@ -1,0 +1,424 @@
+{
+  "centralEntity": "tripod for a heavy telephoto lens",
+  "entityVariants": [
+    "tripod for heavy lens",
+    "heavy duty tripod for telephoto lens",
+    "tripod for long lenses",
+    "tripod for 600mm lens",
+    "tripod for supertelephoto lens",
+    "tripod for a long lens",
+    "long-lens tripod",
+    "telephoto tripod"
+  ],
+  "entities": [
+    {
+      "name": "load capacity",
+      "type": "spec",
+      "relation": "maker rating for legs and head, not a standardized measurement"
+    },
+    {
+      "name": "top leg tube diameter",
+      "type": "spec",
+      "relation": "best size signal for stiffness (2-, 3-, 4-series)"
+    },
+    {
+      "name": "systematic tripod",
+      "type": "design",
+      "relation": "flat top plate, no center column, accepts leveling base or video bowl"
+    },
+    {
+      "name": "center column",
+      "type": "part",
+      "relation": "reduces stiffness under a long lens"
+    },
+    {
+      "name": "lens collar",
+      "type": "part",
+      "relation": "mounting point that balances a heavy telephoto"
+    },
+    {
+      "name": "gimbal head",
+      "type": "product type",
+      "relation": "head that holds the lens at its center of gravity"
+    },
+    {
+      "name": "ball head",
+      "type": "product type",
+      "relation": "fine to about 300mm; droops and creeps with heavy lenses"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail on lens feet and plates, lets you slide to balance"
+    },
+    {
+      "name": "Gitzo GT3543LS",
+      "type": "product",
+      "relation": "3-series systematic tripod in the DPReview heavy-duty roundup"
+    },
+    {
+      "name": "Sony FE 200-600mm G OSS",
+      "type": "lens",
+      "relation": "2,115 g example of a heavy zoom"
+    },
+    {
+      "name": "NIKKOR Z 600mm f/4 TC VR S",
+      "type": "lens",
+      "relation": "3,260 g example of a supertelephoto prime"
+    },
+    {
+      "name": "Canon RF100-500mm",
+      "type": "lens",
+      "relation": "1,365 g example of a mid-weight telephoto zoom"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter and damps vibration better than aluminum"
+    }
+  ],
+  "attributes": [
+    "rig weight (body + lens + head)",
+    "rated load of legs and head",
+    "top tube diameter",
+    "height without center column",
+    "flat platform vs center column",
+    "leg sections and lock type",
+    "material",
+    "tripod weight and folded length",
+    "head type for the lens class"
+  ],
+  "ngrams": [
+    "heavy telephoto lens",
+    "load capacity",
+    "center column",
+    "tripod collar",
+    "gimbal head",
+    "ball head",
+    "leg diameter",
+    "3-series tripod"
+  ],
+  "skipgrams": [
+    "tripod…telephoto",
+    "load…capacity",
+    "lens…collar",
+    "center…column",
+    "gimbal…head"
+  ],
+  "nlpTerms": [
+    "stiffness",
+    "vibration",
+    "rated load",
+    "apex",
+    "platform",
+    "leveling base",
+    "video bowl",
+    "twist lock",
+    "eye level",
+    "supertelephoto",
+    "teleconverter",
+    "center of gravity"
+  ],
+  "questions": [
+    "how much weight should a tripod hold for a telephoto lens",
+    "should you mount a telephoto lens by the camera or the collar",
+    "do you need a gimbal head for a telephoto lens",
+    "what leg diameter do I need for a 600mm lens",
+    "is a center column bad for a long lens",
+    "why does my tripod shake at 600mm"
+  ],
+  "contentGaps": [
+    "No top result sizes the tripod by lens class with real maker weights",
+    "No top result explains that load ratings are maker numbers, not a standard, and that stiffness tracks tube diameter",
+    "Few give a buying order (weigh, legs, height, head, carry) a shopper can follow",
+    "Light-tripod shake at 600mm and moon shots is answered only in forum threads"
+  ],
+  "outline": [
+    {
+      "h2": "How to choose a tripod for a heavy telephoto lens: the short answer",
+      "intent": "direct answer and the 5 checks",
+      "h3": []
+    },
+    {
+      "h2": "Check 1 – Weigh the rig, then read load ratings with suspicion",
+      "intent": "rig weight by lens class, 2-3x margin, ratings not standardized",
+      "h3": [
+        "What common telephoto lenses weigh",
+        "Why a higher rating is not a stiffer tripod"
+      ]
+    },
+    {
+      "h2": "Check 2 – Size the legs by top tube diameter",
+      "intent": "2/3/4-series, sections, carbon vs aluminum",
+      "h3": []
+    },
+    {
+      "h2": "Check 3 – Height without a center column",
+      "intent": "flat platform, eye level, slopes",
+      "h3": []
+    },
+    {
+      "h2": "Check 4 – Match the head and mount the lens by its foot",
+      "intent": "ball vs gimbal by lens class, collar mounting",
+      "h3": []
+    },
+    {
+      "h2": "Check 5 – Decide how far you will carry it",
+      "intent": "cheap/light/stable trade-off",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into, and the fix",
+      "intent": "pain points: shake at 600mm, droop, creep",
+      "h3": []
+    },
+    {
+      "h2": "One tripod that passes all five checks",
+      "intent": "Gitzo GT3543LS as the reference example",
+      "h3": [
+        "Gitzo GT3543LS: Best 3-series legs for lenses up to a 600mm prime"
+      ]
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "close the opening scene, next reads",
+      "h3": []
+    }
+  ],
+  "targetWords": 1550,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.slrlounge.com/best-heavy-duty-tripod/",
+      "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+      "https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/",
+      "https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide",
+      "https://photo.stackexchange.com/questions/30640/what-tripod-heads-are-ideal-to-mount-a-large-telephoto-or-supertelephoto-lens-on"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "SLR Lounge and DPReview present each tripod as a prose paragraph (DPReview adds one 'Our take' line); the forum and Q&A pages have no product format; no top result uses pros/cons lists.",
+    "avgWords": 1460,
+    "avgProducts": 3,
+    "commonSections": [
+      "why a heavy lens needs a bigger tripod",
+      "load capacity margin over the gear weight",
+      "avoid the center column / platform top",
+      "head type: ball vs gimbal for long lenses",
+      "mount by the lens collar and balance",
+      "carbon vs aluminum and budget"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.slrlounge.com/best-heavy-duty-tripod/",
+      "title": "Best Heavy Duty Tripod For Photography With Large Cameras ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+      "title": "Roundup: Six Large Tripods For Heavy Duty Use - DPReview"
+    },
+    {
+      "position": 3,
+      "url": "https://www.facebook.com/groups/324830637943242/posts/2204836353275985/",
+      "title": "I want to buy a Good Tripod that can hold the weight of my Telephoto ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.manfrotto.com/global-en/stories/tripod-buying-guide/",
+      "title": "Tripod Buying Guide - Manfrotto"
+    },
+    {
+      "position": 5,
+      "url": "https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/",
+      "title": "Best tripod to support the camera and 600 mm lens?"
+    },
+    {
+      "position": 6,
+      "url": "https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide",
+      "title": "Choosing the Right Tripod Head for Heavy Telephoto Lenses - Ulanzi"
+    },
+    {
+      "position": 7,
+      "url": "https://photo.stackexchange.com/questions/30640/what-tripod-heads-are-ideal-to-mount-a-large-telephoto-or-supertelephoto-lens-on",
+      "title": "What tripod heads are ideal to mount a large telephoto or supertelephoto ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=fGbhjXqIB18",
+      "title": "Tripods and Heads: How to choose the best one for you? - YouTube"
+    },
+    {
+      "position": 9,
+      "url": "https://www.reddit.com/r/Nikon/comments/1gq8otb/telephoto_lens_tripod_suggestion/",
+      "title": "Telephoto lens tripod suggestion : r/Nikon - Reddit"
+    },
+    {
+      "position": 10,
+      "url": "https://www.adorama.com/lists/tripods-for-telephoto-lenses",
+      "title": "Tripods For Telephoto Lenses (Updated Daily) | Adorama"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "heavy duty",
+      "large",
+      "telephoto",
+      "600mm",
+      "how to choose",
+      "tripod head"
+    ],
+    "gap": "No title gives a step-by-step check or sizes the tripod to the lens; page one is heavy-duty roundups, a head guide and forum threads. Our angle: exact keyword first plus '5 Checks', a numbered method sized by lens weight."
+  },
+  "commonPoints": [
+    "Pick legs and head rated well above the camera-and-lens weight (Ulanzi: two to three times; Facebook group answer: at least 30% more)",
+    "Mount a heavy lens by its collar foot, not the camera body",
+    "Skip or remove the center column; it lowers stiffness",
+    "A gimbal head suits 400mm-plus lenses and moving subjects; ball heads struggle",
+    "Carbon fiber is lighter and damps vibration; aluminum is cheaper and heavier",
+    "Spread the legs, use firm ground and keep out of the wind"
+  ],
+  "ourGain": [
+    {
+      "point": "Rig weight by lens class from maker specs (RF100-500 1,365 g, Sony 200-600 2,115 g, Nikon Z 600mm f/4 TC 3,260 g) so readers can do the math before they shop",
+      "source": "usa.canon.com, sony.com, imaging.nikon.com spec pages"
+    },
+    {
+      "point": "Load ratings are maker numbers, not a standardized test; in DPReview's six-tripod roundup ratings ran from 25 kg to 39 kg on tripods of near-identical size, so top tube diameter is the better stiffness signal",
+      "source": "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/"
+    },
+    {
+      "point": "3-series = 33-36 mm top tubes; Gitzo's own advice (quoted by a Fred Miranda owner) caps its 2-series Mountaineer at 200-300mm lenses",
+      "source": "DPReview roundup terminology; https://www.fredmiranda.com/forum/topic/1848727/"
+    },
+    {
+      "point": "Buy height without a column and a bit more than you think, for slopes",
+      "source": "SLR Lounge (platform tops); bcgforums 600mm thread"
+    },
+    {
+      "point": "A head-by-lens-class map: ball head for 70-200mm, bigger ball or pan-tilt around 300mm, gimbal for 400mm-plus",
+      "source": "https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-light-tripod-heavy-lens-shake",
+      "pain": "A lightweight tripod shakes under a heavy telephoto or long lens",
+      "details": "Owners pair a hiking-weight or mid-range tripod with a 200-600mm class lens (or a moon shot at 600mm plus teleconverter) and see blur.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-head-unbalanced-long-lens",
+      "pain": "The ball head creeps or shakes when a long lens is mounted body-first",
+      "details": "The lens center of gravity sits above a ball head's axes; answers point to gimbal heads or mounting the collar foot and balancing on an Arca rail.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "the center of gravity of the lens is above the rotation axes so the whole thing is unstable",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-heavy-telephoto-droop",
+      "pain": "Head droops or the lens tips forward when I mount a heavy telephoto on a ball head",
+      "details": "Fixes suggested: mount the lens by its tripod foot, use a gimbal or fluid head, and size head and legs well above the load.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/",
+        "https://www.reddit.com/r/peakdesign/comments/v0v0gv/travel_tripod_drooping/"
+      ],
+      "quotes": []
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Gitzo GT3543LS Systematic Series 3",
+      "pages": [
+        "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+        "https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/"
+      ],
+      "note": "DPReview names the GT3543LS; bcgforums replies recommend Gitzo (one uses a Gitzo Series 3 systematic) for a 600mm lens."
+    },
+    {
+      "name": "Really Right Stuff TVC-34",
+      "pages": [
+        "https://www.slrlounge.com/best-heavy-duty-tripod/",
+        "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/"
+      ],
+      "note": "Not featured: the only Amazon US listing is the TVC-34L long version, a different model."
+    },
+    {
+      "name": "Manfrotto 058B Triaut",
+      "pages": [
+        "https://www.facebook.com/groups/324830637943242/posts/2204836353275985/",
+        "https://www.reddit.com/r/Nikon/comments/1gq8otb/telephoto_lens_tripod_suggestion/"
+      ],
+      "note": "Not featured: Amazon US listing B001A1TMQQ shows Currently unavailable."
+    }
+  ],
+  "stats": [
+    {
+      "number": "1,365 g",
+      "claim": "Canon RF100-500mm F4.5-7.1 L IS USM weight without tripod mount",
+      "url": "https://www.usa.canon.com/support/p/rf100-500mm-f4-5-7-1-l-is-usm",
+      "quote": "Approx. 3.0 lbs. / 1365g (No tripod mount)"
+    },
+    {
+      "number": "2,115 g",
+      "claim": "Sony FE 200-600mm F5.6-6.3 G OSS weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
+      "quote": "Weight 74.7 oz (2,115 g)"
+    },
+    {
+      "number": "3,260 g",
+      "claim": "NIKKOR Z 600mm f/4 TC VR S weight",
+      "url": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_600mmf4_tc_vr_s/",
+      "quote": "Approximately 3,260 g/7 lb 3 oz"
+    },
+    {
+      "number": "36.7mm",
+      "claim": "RRS TVC-34 top tube, the largest of the six 3-series tripods DPReview compared (their load limits ran from 25 kg to 39 kg, which DPReview marks as maker figures, not a standardized measurement)",
+      "url": "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+      "quote": "the 36.7mm top tube diameter of the TVC-34 is the largest of any ‘3-series’ tripod in this roundup"
+    },
+    {
+      "number": "33-36mm",
+      "claim": "Top leg tube diameter that defines a 3-series tripod",
+      "url": "https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+      "quote": "Generally, it means the top leg tube diameters of the tripod legs are between 33-36mm, although some exceed this."
+    },
+    {
+      "number": "28 kg",
+      "claim": "Gitzo GT3543LS safety payload (UNI/PdR 105:2021)",
+      "url": "https://www.gitzo.com/us-en/tripod-systematic-series-3-long-4-sections-gt3543lsus/",
+      "quote": "The GT3543LS weighs 2.03 Kg and secures an impressive payload of 28 Kg."
+    }
+  ],
+  "videos": [
+    {
+      "id": "XYyDGRvhz4c",
+      "title": "Camera gear - Choosing a tripod for wildlife photography",
+      "channel": "Tom Mason",
+      "url": "https://www.youtube.com/watch?v=XYyDGRvhz4c",
+      "section": "Check 4 – Match the head and mount the lens by its foot",
+      "note": "2017, older than 5 years, but no newer video on page one shows the same task: a wildlife photographer explains his Gitzo Systematic plus gimbal setup for supertelephotos versus a lighter ball-head kit."
+    }
+  ]
+}

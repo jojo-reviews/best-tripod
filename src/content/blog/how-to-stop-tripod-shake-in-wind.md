@@ -128,10 +128,10 @@ videos:
     afterHeading: 1
 author: editorial-team
 related:
+  - how-to-choose-a-tripod-for-a-heavy-telephoto-lens
   - tripod-center-column-up-or-down-for-landscapes
   - tripod-leg-lock-wont-hold
   - tripod-shake-when-pressing-shutter
-  - twist-lock-vs-flip-lock-tripod-legs
 heroImage: /images/featured/how-to-stop-tripod-shake-in-wind.png
 heroAlt: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First – Best Tripod guide'
 ---
