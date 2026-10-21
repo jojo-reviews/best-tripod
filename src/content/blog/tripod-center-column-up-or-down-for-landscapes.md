@@ -148,7 +148,7 @@ Most top results agree: legs first, column last. NYC Photo Safari, which defends
 
 Tester The Center Column measured this. Fitting a column at all cost the RRS TVC-23 [roughly 15% of its stiffness](https://thecentercolumn.com/2021/02/01/why-center-columns-reduce-tripod-stability/), and a light RRS Ascend-14 lost about half at full extension. On a Benro with a medium-format body, damping suffered: vibrations decayed [four times slower](https://thecentercolumn.com/2021/02/01/why-center-columns-reduce-tripod-stability/) with the column fully up, taking about five seconds to settle.
 
-A recurring r/AskPhotography complaint reads: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" ([thread](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/)).
+A recurring r/AskPhotography complaint reads: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" (thread).
 
 ## When to raise the center column and when to keep it down
 
@@ -174,7 +174,7 @@ Either way, we fire with a self-timer or remote release. Our post on [tripod sha
 
 Landscape educator Tim Shields recommends "the shortest center column possible" because the column sets minimum height. A Backcountry Gallery member agrees: "a center column definitely gets in the way when you want to get the camera as low as possible" ([thread](https://bcgforums.com/threads/tripod-center-column.43414/)). Here are four fixes we see:
 
-1. **Short center column.** "Many tripods come with an additional short centre column for those low down shots" ([Talk Photography](https://www.talkphotography.co.uk/threads/tripod-center-column.748868/)).
+1. **Short center column.** "Many tripods come with an additional short centre column for those low down shots" (Talk Photography).
 2. **Horizontal column.** Some Manfrotto and Gitzo columns swing 90 degrees so the legs can open to their widest leg angle.
 3. **Reversible column.** The camera hangs under the apex; one owner notes the screen is awkward to reach between the legs.
 4. **No column.** A systematic tripod takes a column only as an accessory.
@@ -183,7 +183,7 @@ Landscape educator Tim Shields recommends "the shortest center column possible" 
 
 **When the legs are maxed out, the column is the only way to eye level, so use it and compensate rather than stooping.**
 
-One hiker on DPReview writes, "I avoid using the center post when possible but in a travel pod thats even more important" ([thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)), and the same thread warns that short travel tripods mean bending over. The column adds [12 to 18 inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html), so we compensate:
+One hiker on DPReview writes, "I avoid using the center post when possible but in a travel pod thats even more important" (thread), and the same thread warns that short travel tripods mean bending over. The column adds [12 to 18 inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html), so we compensate:
 
 - Shoot about half a stop faster (a Backcountry Gallery tip).
 - Use a self-timer and wait for lulls in the wind.

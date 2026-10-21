@@ -340,7 +340,7 @@ Picture the moment most of us know: the GoPro is on a picnic table for a sunset 
 
 ## How We Chose These GoPro Tripods
 
-**We kept only tripods that at least two independent GoPro tripod guides recommend and that have their own in-stock Amazon US listing.** We read [Improve Photography](https://improvephotography.com/72078/best-gopro-tripod/), [FixThePhoto](https://fixthephoto.com/best-gopro-tripod.html), [TheSweetCamera](https://thesweetcamera.com/best-gopro-tripod/) and [Suzi Pratt's travel mount guide](https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/), then the makers' spec pages and owner threads.
+**We kept only tripods that at least two independent GoPro tripod guides recommend and that have their own in-stock Amazon US listing.** We read Improve Photography, FixThePhoto, TheSweetCamera and Suzi Pratt's travel mount guide, then the makers' spec pages and owner threads.
 
 > **From our notes:** The product all three of those roundups agree on besides the Shorty is the JOBY GorillaPod Action Tripod, the flexible tripod one r/gopro thread calls the only answer. When we went to its Amazon US listing, it was listed as currently unavailable, with no date for a restock. We did not want to send you to a dead end, so the flexible slot went to the Xenvo SquidGrip, which FixThePhoto and TheSweetCamera both rank and which is in stock. If the GorillaPod Action returns, it is a fine alternative.
 
@@ -354,13 +354,13 @@ We also dropped the GoPro Volta and MAX Grip + Tripod (only one independent guid
 
 The Shorty is the one tripod every guide we read recommends. GoPro lists it at [4.6 in folded and up to 8.9 in extended](https://gopro.com/en/us/shop/mounts-accessories/shorty/AFTTM-001.html), with a kick-out tripod for stable shots on level ground. It uses the GoPro mounting fingers, so it needs no adapter, and GoPro's own guide calls it waterproof.
 
-Owners like how little it asks of you: one r/gopro owner says the camera can point straight down without the tripod tipping, which makes it good for overhead and POV shots. The complaints are about wear. One owner says their Shorty broke after a year, with hairline cracks at the tripod hinges, another says the legs snapped, and a third notes there is no lock on the pole, "so once it's loose, it stays loose" ([r/gopro](https://www.reddit.com/r/gopro/comments/13lerai/shorty_loose/)). Treat it as a light-duty pocket stand.
+Owners like how little it asks of you: one r/gopro owner says the camera can point straight down without the tripod tipping, which makes it good for overhead and POV shots. The complaints are about wear. One owner says their Shorty broke after a year, with hairline cracks at the tripod hinges, another says the legs snapped, and a third notes there is no lock on the pole, "so once it's loose, it stays loose" (r/gopro). Treat it as a light-duty pocket stand.
 
 ### GoPro 3-Way 2.0: best grip and extension arm
 
 The 3-Way 2.0 is a grip, a folding extension arm and a tripod in one. It [collapses to 8 in and reaches 19.5 in](https://gopro.com/en/us/shop/mounts-accessories/3-way-2.0/AFAEM-002.html), and an integrated ball joint lets you tilt or swivel the camera without moving the mount. Captive hardware means no loose parts to lose in the sand.
 
-On r/gopro, owners of the first version say the 2.0's tripod is far more stable. The trade-off is balance: a Walmart reviewer writes: "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate." Meanwhile a [4-T Tech video review](https://www.youtube.com/watch?v=QW-DCmRaYXk) says the slightest breeze or uneven ground knocks it over, with legs stiff to pull out. In a GoPro Facebook group, owners also report a swivel tightener that barely holds the camera. Buy it for handheld reach first; use the tripod on flat, sheltered ground.
+On r/gopro, owners of the first version say the 2.0's tripod is far more stable. The trade-off is balance: a Walmart reviewer writes: "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate." Meanwhile a 4-T Tech video review says the slightest breeze or uneven ground knocks it over, with legs stiff to pull out. In a GoPro Facebook group, owners also report a swivel tightener that barely holds the camera. Buy it for handheld reach first; use the tripod on flat, sheltered ground.
 
 ### Xenvo SquidGrip Flexible Tripod: best flexible tripod for GoPro
 
@@ -370,7 +370,7 @@ Owners we found use it far beyond GoPro: one bowler uses it for self-recording, 
 
 ## Do You Need an Adapter to Put a GoPro on a Tripod?
 
-**It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO13 Black screws straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro says the magnetic latch joins the built-in fingers and 1/4-20 threads, giving HERO13 Black [three ways to mount](https://www.prnewswire.com/news-releases/gopro-announces-two-new-cameras-the-399-hero13-black-and-the-199-hero-302237823.html).
+**It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO13 Black screws straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro says the magnetic latch joins the built-in fingers and 1/4-20 threads, giving HERO13 Black three ways to mount.
 
 This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns. If your action camera has no 1/4"-20 thread, buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on. The Shorty and 3-Way 2.0 skip the problem by using the fingers, and the SquidGrip includes an adapter.
 
@@ -380,11 +380,11 @@ This matters because the most common question on r/gopro is how to put a GoPro o
 
 ### The camera droops or swings after a bump
 
-A recurring r/gopro complaint is a GoPro that won't hold its angle and, after a bump or two, ends up filming the sky. The usual cause is a thumb screw that isn't tight enough. One owner's fix: "Put a small dab of grease on the threads and you should be able to get them much tighter by hand" ([r/gopro](https://www.reddit.com/r/gopro/comments/3849ld/gopro_screw_on_mounts_is_loose/)). Mounting the camera upside down (and flipping the footage in camera) also stops it fighting gravity.
+A recurring r/gopro complaint is a GoPro that won't hold its angle and, after a bump or two, ends up filming the sky. The usual cause is a thumb screw that isn't tight enough. One owner's fix: "Put a small dab of grease on the threads and you should be able to get them much tighter by hand" (r/gopro). Mounting the camera upside down (and flipping the footage in camera) also stops it fighting gravity.
 
 ### The tripod tips over
 
-A GoPro is light (the entry HERO weighs [only 86g](https://www.prnewswire.com/news-releases/gopro-announces-two-new-cameras-the-399-hero13-black-and-the-199-hero-302237823.html)), so a small tripod has little weight holding it down. Keep extension arms short and centered over the legs, set up out of the wind, and on rough ground wrap flexible legs around something solid. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers more fixes.
+A GoPro is light (the entry HERO weighs only 86g), so a small tripod has little weight holding it down. Keep extension arms short and centered over the legs, set up out of the wind, and on rough ground wrap flexible legs around something solid. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers more fixes.
 
 ### Pocket tripod hinges crack or loosen
 

@@ -1,20 +1,16 @@
 {
   "slug": "best-tripod-for-spotting-scope",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:00.393Z",
+  "checkedAt": "2026-10-21T19:50:41.414Z",
   "errors": [],
   "warnings": [
     "product \"SLIK PRO CF-634 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1438837-REG/slik_611_895_pro_cf_634_tripod_black.html/reviews",
-    "source didn't respond normally (503): https://www.manfrotto.com/global-en/502-fluid-video-head-with-flat-base-mvh502ah/",
-    "source didn't respond normally (403): https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
-    "source didn't respond normally (503): https://www.transcontinenta.co.uk/en/blog/good-tripod-spotting-scope.html"
+    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-21. SLIK PRO CF-634 against slik.com/products/pro-cf-634 (930 g, 3 kg load, 475 mm folded, 1,590 mm max, 105 mm min, 280 mm column, 4 twist-lock sections with A.R.S., 3 leg angles, 1/4 and 3/8 screws, 8-layer carbon) and B&H listing (6.6 lb, 62.6 in max, 51.6 in column down, 4.1 in min, 18.7 in folded). Manfrotto MVH502AH against manfrotto.com spec page (1.691 kg/3.73 lb, fixed 4 kg counterbalance, continuously adjustable pan/tilt drag, 504PLONG plate, -80/+90 tilt, -20 C min, pan bar, 1/4 and 3/8 top screws); Amazon B006TZE0UQ specs show Model Number MVH502AH; B07JN5P7VP title SLIK PRO CF-634 Carbon Fiber Tripod. Scope weights against vortexoptics.com (Razor HD 27-60x85 angled 65.6 oz; 13-39x56 28.6 oz; Arca-Swiss direct mount). SERP recommendations: CF-634 on Backwoods Pursuit + Rokslide school-me thread; MVH502AH on ScopesField + r/birding thread (search excerpt). Owner claims checked in Rokslide threads 276864, 277003, 194684, Talk Photography 732355, BirdForum 316465, DPReview 4554511; Transcontinenta plate quote and Best Binocular Reviews height quote verbatim. Weight math 1.86+1.691=3.55 kg > 3 kg is our arithmetic. No prices, ratings or testing claims.",
-    "at": "2026-10-21T10:33:32.149Z",
-    "hash": "9cc1e15e7cbe1c28"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:41.001Z",
+    "hash": "4f6238b37d16f2f6"
   }
 }

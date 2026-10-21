@@ -232,7 +232,7 @@ heroAlt: >-
   guide
 ---
 
-How to choose a tripod for a heavy telephoto lens comes down to five checks: weigh the whole rig, buy legs with thick top tubes (a 3-series, about 33-36 mm), reach your height without a center column, match the head to the lens and mount it by its foot, and be honest about how far you will carry it. We see the cost of skipping them in threads like one on Photography Stack Exchange, where a moon shooter with a 200-600mm zoom and a 2x teleconverter wrote, "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm" ([the thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod)).
+How to choose a tripod for a heavy telephoto lens comes down to five checks: weigh the whole rig, buy legs with thick top tubes (a 3-series, about 33-36 mm), reach your height without a center column, match the head to the lens and mount it by its foot, and be honest about how far you will carry it. We see the cost of skipping them in threads like one on Photography Stack Exchange, where a moon shooter with a 200-600mm zoom and a 2x teleconverter wrote, "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm" (the thread).
 
 ## How to choose a tripod for a heavy telephoto lens: the short answer
 
@@ -251,16 +251,16 @@ How to choose a tripod for a heavy telephoto lens comes down to five checks: wei
 | Lens class | Example and maker weight | Head we'd pair | Legs we'd start from |
 |---|---|---|---|
 | 100-500mm zoom | Canon RF100-500mm F4.5-7.1 L IS USM, [1,365 g without its tripod ring](https://www.usa.canon.com/support/p/rf100-500mm-f4-5-7-1-l-is-usm) | Large ball head; gimbal for tracking | Strong 2-series, 3-series for long waits |
-| 600mm zoom | Sony FE 200-600mm G OSS, [2,115 g](https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications) | Gimbal | 3-series |
+| 600mm zoom | Sony FE 200-600mm G OSS, 2,115 g | Gimbal | 3-series |
 | 600mm f/4 prime | NIKKOR Z 600mm f/4 TC VR S, [about 3,260 g](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_600mmf4_tc_vr_s/) | Full-size gimbal | 3-series or larger |
 
-The top results agree on a margin: [Ulanzi](https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide) says two to three times the gear weight, and one Facebook group answer settles for 30% more. The catch is the number itself. In [DPReview's heavy-duty roundup](https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/), six tripods of near-identical size listed load limits from 25 kg to 39 kg, footnoted "Manufacturer provided amount. Not a standardized measurement." A rating says the legs will not collapse, not that they will stop shaking.
+The top results agree on a margin: Ulanzi says two to three times the gear weight, and one Facebook group answer settles for 30% more. The catch is the number itself. In DPReview's heavy-duty roundup, six tripods of near-identical size listed load limits from 25 kg to 39 kg, footnoted "Manufacturer provided amount. Not a standardized measurement." A rating says the legs will not collapse, not that they will stop shaking.
 
 > **From our notes:** When we lined up the spec table in DPReview's six-tripod roundup, the load ratings were the first thing that looked wrong. The Gitzo GT3543LS carried one of the lowest figures in the group, 25 kg as printed there, yet the reviewer rated it a close second for vibration resistance. The tripod with the highest figure, the RRS TVC-34, also had the thickest top tubes. That pattern changed how we read spec sheets for long-lens legs: tube diameter and the missing column first, the load number last.
 
 ## Check 2 – Size the legs by top leg tube diameter
 
-**A long-lens tripod is only as stiff as its legs, and top leg tube diameter is the best single spec for that.** DPReview defines "3-series" as top tubes of [33-36mm](https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/), and the thickest in its roundup, [36.7mm](https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/) on the RRS TVC-34, went with what DPReview called "maximum stability". Smaller legs have limits: a Fred Miranda owner of Series 3, 4 and 5 Systematics notes Gitzo recommends its 2-series Mountaineer for 200mm, up to 300mm lenses ([the thread](https://www.fredmiranda.com/forum/topic/1848727/)).
+**A long-lens tripod is only as stiff as its legs, and top leg tube diameter is the best single spec for that.** DPReview defines "3-series" as top tubes of 33-36mm, and the thickest in its roundup, 36.7mm on the RRS TVC-34, went with what DPReview called "maximum stability". Smaller legs have limits: a Fred Miranda owner of Series 3, 4 and 5 Systematics notes Gitzo recommends its 2-series Mountaineer for 200mm, up to 300mm lenses (the thread).
 
 With the diameter settled, the rest is preference:
 
@@ -270,13 +270,13 @@ With the diameter settled, the rest is preference:
 
 ## Check 3 – Height without a center column
 
-**A tripod for a long lens should reach your working height with no column raised, because a raised center column is the weakest link under a heavy telephoto.** SLR Lounge notes that every heavy-duty tripod it recommends has a platform base, since a column "will usually significantly reduce the stiffness" of the tripod ([SLR Lounge](https://www.slrlounge.com/best-heavy-duty-tripod/)).
+**A tripod for a long lens should reach your working height with no column raised, because a raised center column is the weakest link under a heavy telephoto.** SLR Lounge notes that every heavy-duty tripod it recommends has a platform base, since a column "will usually significantly reduce the stiffness" of the tripod (SLR Lounge).
 
-Work out the number first: eye level minus the head and the camera above the lens foot. Our [tripod height chart](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math by body height. Then add margin; one bcgforums member advises buying taller than you think for hillsides ([bcgforums](https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/)). A systematic tripod, with the open apex DPReview describes, also takes a leveling base or video bowl later, which speeds up leveling a gimbal on uneven ground.
+Work out the number first: eye level minus the head and the camera above the lens foot. Our [tripod height chart](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math by body height. Then add margin; one bcgforums member advises buying taller than you think for hillsides (bcgforums). A systematic tripod, with the open apex DPReview describes, also takes a leveling base or video bowl later, which speeds up leveling a gimbal on uneven ground.
 
 ## Check 4 – Match the head and mount the lens by its foot
 
-**A tripod for a heavy telephoto lens needs a head matched to the lens: a ball head for a 70-200mm, a bigger ball or pan-tilt around 300mm, and a gimbal from about 400mm or whenever you track moving subjects.** That map comes from the [Ulanzi head guide](https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide), and the physics explains it. On a ball head, as one Stack Exchange answer puts it, "the center of gravity of the lens is above the rotation axes so the whole thing is unstable" ([photo.stackexchange.com](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod)). A gimbal holds the lens on its balance point, so it stays where you leave it.
+**A tripod for a heavy telephoto lens needs a head matched to the lens: a ball head for a 70-200mm, a bigger ball or pan-tilt around 300mm, and a gimbal from about 400mm or whenever you track moving subjects.** That map comes from the Ulanzi head guide, and the physics explains it. On a ball head, as one Stack Exchange answer puts it, "the center of gravity of the lens is above the rotation axes so the whole thing is unstable" (photo.stackexchange.com). A gimbal holds the lens on its balance point, so it stays where you leave it.
 
 The lens collar matters as much as the head. An Arca-Swiss foot or long plate lets you slide the lens until it balances; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the dovetail. For a 150-600mm zoom, see our [gimbal head picks for 150-600mm lenses](/blog/best-gimbal-head-for-150-600mm-lens/) and the trade-offs of [budget gimbal heads](/blog/are-cheap-gimbal-heads-any-good/). The video above shows a wildlife photographer's Gitzo Systematic with a full gimbal for supertelephotos, next to the lighter ball-head kit he carries when the big lens stays home.
 
@@ -291,7 +291,7 @@ Members of the bcgforums 600mm thread ask the same questions before naming a mod
 **Much of the long-lens shake owners describe comes from the setup, so try these fixes before you replace the tripod.**
 
 - **Shake at 600mm on a mid-range tripod.** Stack Exchange answers to the moon shooter suggest short legs, firm ground ("Grass is not stable"), a wind block, a remote or self-timer, and mounting the collar foot. Our guides to [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) and [shake when pressing the shutter](/blog/tripod-shake-when-pressing-shutter/) go step by step.
-- **The lens droops or tips forward on a ball head.** Posters in [r/AskPhotography](https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/) point to a head that handles the torque (fluid or gimbal) or an aftermarket tripod foot that moves the weight away from the ball.
+- **The lens droops or tips forward on a ball head.** Posters in r/AskPhotography point to a head that handles the torque (fluid or gimbal) or an aftermarket tripod foot that moves the weight away from the ball.
 - **The ball head creeps after locking.** Same cause: balance the lens over the head on a longer plate, or move to a gimbal.
 - **Twist when panning video.** A Series 3 owner on bcgforums sees a little flex panning with the legs extended and lowers the tripod by a section.
 

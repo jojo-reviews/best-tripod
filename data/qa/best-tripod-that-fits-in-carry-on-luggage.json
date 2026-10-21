@@ -1,23 +1,19 @@
 {
   "slug": "best-tripod-that-fits-in-carry-on-luggage",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:07.451Z",
+  "checkedAt": "2026-10-21T19:50:42.243Z",
   "errors": [],
   "warnings": [
     "body has 2661 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
-    "source didn't respond normally (503): https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Opened packhacker.com best-travel-tripod and goldenlenstraveler.com best-travel-tripods-fit-in-carry-on-bag: Sirui 5C, Peak Design Travel Tripod and Manfrotto PIXI EVO each named on both (3 of 3 kept). Verified specs against store.sirui.com spec table (13 in, 1.87 lb, 54.3 in, 6.3 in, 8.8 lb, 5 sections), First Quadcopter review (twist locks, 3T-35K head, 3 leg angles, bag, wind overturn, free unit disclosed as review collaboration with SIRUI; side-pocket praise is the reviewer's not commenters, fixed), Manfrotto spec page (8.07 in, 0.57 lb, 7.87 in, 5.51 lb, 1/4in screw), B&H Peak Design page (15.5 in, 2.8 lb, 20 lb, 60 in, 5.5 in), Peak Design page (water bottle diameter, 20 lb, single ring). Sirui 24.2 in 'retracted height' is undefined by the maker and review, removed as a column-down claim. Peak Design column-down 51.25 in (130.2 cm) and collapsed 15.4 in (39.1 cm) from Shutter Muse and Fstoppers spec tables (maker specs tab not renderable); replaced B&H Q&A ~53 in; best-hiking-tripod's 51.25 is correct. TSA tripods page opened, link correct, no rule stated. DPReview quotes (lightest-tripod-for-hiking x2 incl. friction quote, travel-tripod-stability-comparison, long-exposure page-2 leg locks, lightweight-video counterweight) verified verbatim. Sirui Arca claim now cites Amazon listing title only.",
-    "at": "2026-10-19T14:11:34.421Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:41.799Z",
+    "hash": "b41c3bcc957d7000"
   }
 }

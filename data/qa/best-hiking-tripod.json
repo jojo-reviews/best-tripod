@@ -1,21 +1,18 @@
 {
   "slug": "best-hiking-tripod",
   "pass": true,
-  "checkedAt": "2026-10-21T14:41:40.214Z",
+  "checkedAt": "2026-10-21T19:50:38.098Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Traveler Series 1 GT1545T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (503): https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
-    "source didn't respond normally (503): https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/396654.pdf",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Product evidence re-checked 2026-10-19 via Firecrawl: Pack Hacker, We Seek Travel, Matt Purciel, J.M. Peltier and Backwoods Pursuit pages opened. Confirmed non-shop recommendations: Peak Design Carbon (Pack Hacker, We Seek Travel), Gitzo GT1545T (We Seek Travel, Matt Purciel GK1545T kit), JOBY GorillaPod 5K (We Seek Travel, J.M. Peltier), PIXI EVO (Pack Hacker, We Seek Travel). Removed Peak Design Aluminum (only Matt Purciel recommends; We Seek Travel says skip it, Pack Hacker no; Best Buy is a shop) and Befree GT Carbon (only We Seek Travel; Best Buy is a shop). productCount 4. Specs checked vs Gitzo maker page, Manfrotto PIXI maker page (min height 4.13 in fixed), B&H PD/PIXI/JOBY pages, PD 51.25 in column-down via spec listings; JOBY weight/fold from B&H PDF not re-opened (rate limit). Quotes verified verbatim: 4 DPReview threads for pain-point quotes, counterweight, Gitzo thread, B&H PD, PIXI, JOBY reviews, PD site reviews. Removed unverified owner claims and the unreached Reddit links. Removed internal link to draft best-tripod-for-photography.",
-    "at": "2026-10-19T14:00:15.106Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:37.688Z",
+    "hash": "da2b70f7fb739d30"
   }
 }

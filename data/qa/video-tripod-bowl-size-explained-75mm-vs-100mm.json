@@ -1,26 +1,17 @@
 {
   "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:53.045Z",
+  "checkedAt": "2026-10-21T19:50:51.071Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod",
-    "source didn't respond normally (403): https://blog.expresswaycine.com/tripod-heads-an-overview/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-bowl-adapter-whats-the-purpose.4492018/",
-    "source didn't respond normally (503): https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/",
-    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/",
-    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/",
-    "source didn't respond normally (403): https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/",
-    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1hxzfan/sachtler_ace_l_75mm_bowl_tripod_on_a_flat_tripod/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide, no products. Verified against pages opened via Firecrawl on 2026-10-21: Sachtler flowtech 75 aktiv MS page (75mm bowl, payload 0-20 kg, 3.5 kg with / 3 kg without spreader, 68 cm transport length, quote 'only weighs 3.5 kg, but is capable of supporting up to 20 kg'); Sachtler flowtech 100 MS page (100mm bowl, 0-30 kg, 4.1 / 3.2 kg, 68 cm, Adapter 75/100 accessory listed); B&H eXplora video tripod guide (ten pounds vs more than seven, leveling base a half-measure, half ball real solution, most videographers use 75mm when possible, flat-base heads paired with ball adapter); DVinfo 100mm vs 75mm thread (add another 50%, 75mm for travel doco, 75mm legs groan with big long lenses, twin-tube 75mm 'will trounce' single-tube 100mm build quality being equal); Expressway Cinema (bowl sizes measured at top diameter, tie-down leveling, Mitchell on dollies); Cinematography.com (diameter of top of bowl quote, 150mm bowl ID=145mm, 85mm ID Vinten = 100mm); Gitzo GS3321V75 page (Series 2-4 Systematic except Series 4 aluminum, 75mm half ball, 81 grams); DPReview bowl adapter thread (leveler handle can interfere with splayed legs). Reddit quotes checked verbatim in Firecrawl search excerpts at the same thread URLs (1pk7t6o, 1sb65b0, 1b763ry, 15g70kv, 1hxzfan). Video 89nPifVW9RY confirmed: CVP, '100mm vs 75mm Tripod Systems | Flowtech 100'. Illustration prompts contain no brands, text or people's faces.",
-    "at": "2026-10-21T10:27:49.754Z",
-    "hash": "cfe12739dd29363b"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:50.761Z",
+    "hash": "d8a655c7873bca76"
   }
 }

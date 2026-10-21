@@ -156,7 +156,7 @@ Section count is a separate choice: most modern tripods have [between 3 and 5 te
 
 ## Speed – which tripod legs set up faster
 
-**Flip locks feel faster at first; twist locks match them once you learn to release all the collars on a leg at once.** Vanguard notes that without that technique, lever locks will likely feel quicker, and even experienced users twist one collar at a time. [Ulanzi](https://www.ulanzi.com/blogs/knowledges/twist-vs-lever-locks-travel-tripod-guide) describes the same one-twist grip. The routine we'd use on twist locks:
+**Flip locks feel faster at first; twist locks match them once you learn to release all the collars on a leg at once.** Vanguard notes that without that technique, lever locks will likely feel quicker, and even experienced users twist one collar at a time. Ulanzi describes the same one-twist grip. The routine we'd use on twist locks:
 
 1. Hold the collapsed leg so your palm covers every collar.
 2. Turn about a quarter turn and let the inner tubes drop.
@@ -167,9 +167,9 @@ Twist locks give no visual cue, hence step 4. Flip locks keep an edge for one-le
 
 ## Sand and grit – why both lock types foul
 
-**Sand fouls both locks, just in different places, so the routine after a beach shoot matters more than the lock type.** Ulanzi argues grit jams lever cams while twist locks stay sealed. One DPReview owner says flip locks "don't get fouled like twists, especially in sand, dust, etc." Another, in the [same DPReview thread](https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/), writes: "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain."
+**Sand fouls both locks, just in different places, so the routine after a beach shoot matters more than the lock type.** Ulanzi argues grit jams lever cams while twist locks stay sealed. One DPReview owner says flip locks "don't get fouled like twists, especially in sand, dust, etc." Another, in the same DPReview thread, writes: "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain."
 
-In our reading, both are right. Twist-lock threads trap grit inside the collar, so cleaning means unscrewing it. Flip-lock levers sit outside and wipe clean easily, though Vanguard notes their pivots and screws collect dirt, and grit still rides into the tubes; and a [Reddit landscape shooter](https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/) says flip locks make "it nearly impossible to disassemble the tripod to clean out the sand". Our beach routine, from [K&F Concept's fix guide](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock):
+In our reading, both are right. Twist-lock threads trap grit inside the collar, so cleaning means unscrewing it. Flip-lock levers sit outside and wipe clean easily, though Vanguard notes their pivots and screws collect dirt, and grit still rides into the tubes; and a Reddit landscape shooter says flip locks make "it nearly impossible to disassemble the tripod to clean out the sand". Our beach routine, from [K&F Concept's fix guide](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock):
 
 - Wipe the exposed tubes before you collapse the legs, not after.
 - Check the lowest tubes first; they sit in the sand and salt.
@@ -187,11 +187,11 @@ In our reading, both are right. Twist-lock threads trap grit inside the collar, 
 
 ### Flip locks
 
-A loose lever can still snap shut while barely gripping the tube. K&F's fix is to open it, give the tension screw or nut a small turn, and press down on the leg. Plastic is the weak point: one DPReview owner traced repeat failures to cracks where "Tensile stresses are inherent with flip lever lock designs", and now leaves the levers open in storage. Plastic angle locks fail too; a [Peak Design owner on Reddit](https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/) reports one broke in half. Flip locks also pinch and snap: a Stack Exchange owner's [Manfrotto levers](https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods) could "leave me with a bruise!" and were loud enough to disturb wildlife.
+A loose lever can still snap shut while barely gripping the tube. K&F's fix is to open it, give the tension screw or nut a small turn, and press down on the leg. Plastic is the weak point: one DPReview owner traced repeat failures to cracks where "Tensile stresses are inherent with flip lever lock designs", and now leaves the levers open in storage. Plastic angle locks fail too; a Peak Design owner on Reddit reports one broke in half. Flip locks also pinch and snap: a Stack Exchange owner's Manfrotto levers could "leave me with a bruise!" and were loud enough to disturb wildlife.
 
 ### Twist locks
 
-A twist lock that feels tight but slips usually has dirt on the tube or a collet out of place. K&F warns that cranking the collar harder won't fix it. [Really Right Stuff's guide](https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod) shows the full job: unscrew the collars, wash the tubes with warm soapy water, scrub the grooves with a toothbrush and reassemble. Old grease can also harden; one [r/RealEstatePhotography owner](https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/) found "the grease in the leg joint had hardened". Only open a lock the maker designed to be user-serviceable.
+A twist lock that feels tight but slips usually has dirt on the tube or a collet out of place. K&F warns that cranking the collar harder won't fix it. Really Right Stuff's guide shows the full job: unscrew the collars, wash the tubes with warm soapy water, scrub the grooves with a toothbrush and reassemble. Old grease can also harden; one r/RealEstatePhotography owner found "the grease in the leg joint had hardened". Only open a lock the maker designed to be user-serviceable.
 
 This table sums up what each lock needs:
 

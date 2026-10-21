@@ -144,16 +144,16 @@ On a twist-lock tripod, swapping lower sections between legs isolates the culpri
 **We check a slipping twist lock in three steps, cheapest first.**
 
 1. **Close it all the way.** That owner's fix was turning harder: he had twisted the locks only [about 95% of the way when they needed 100%](https://www.fredmiranda.com/forum/topic/1282332/), "until you can't twist it even a tiny bit more". If the collar is already firm, [K&F Concept](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock) notes that cranking it harder rarely helps.
-2. **Clean the tube and collar.** Wipe off sand, mud and dried salt water residue. Really Right Stuff's [maintenance steps](https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod) use warm water, mild dish soap and a toothbrush in the twist-lock grooves.
+2. **Clean the tube and collar.** Wipe off sand, mud and dried salt water residue. Really Right Stuff's maintenance steps use warm water, mild dish soap and a toothbrush in the twist-lock grooves.
 3. **Reseat the compression rings.** Each compression ring (a plastic shim) and, on some models, the anti-twist sleeve sized to that leg section goes back in its original order and orientation. Replace any ring that is scratched, cracked or deformed.
 
 The video below shows Really Right Stuff taking a twist-lock assembly apart, cleaning it and putting it back together in order.
 
-The [Feisol care manual](https://www.feisol.net/manuals/FEISOL_Manual_Care_And_Maintenance_For_Tripods.pdf) may explain a collar that won't tighten: if the rings are not pushed fully into the upper tube, the collar will not screw on all the way.
+The Feisol care manual may explain a collar that won't tighten: if the rings are not pushed fully into the upper tube, the collar will not screw on all the way.
 
 ## Flip lock won't hold: tighten the tension nut a little
 
-**A flip lock that snaps shut but lets the leg creep has lost clamping tension, set by a nut or screw behind the lever.** As one [repair video](https://www.youtube.com/watch?v=sS1D5kj88A4) puts it, "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time."
+**A flip lock that snaps shut but lets the leg creep has lost clamping tension, set by a nut or screw behind the lever.** As one repair video puts it, "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time."
 
 1. Open the lever and pry off any plastic cover over the nut.
 2. Tighten the nut [about 1/6 of a turn](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod) with a nut driver, close the lever and press down on the leg.
@@ -166,10 +166,10 @@ The 1/6-turn method comes from an [Ugly Hedgehog thread](https://www.uglyhedgeho
 **Floppy legs at the apex mean the leg angle joint is loose, not that the tripod leg lock has failed.** Really Right Stuff's test: hold the tripod by one leg; the joint should carry the tripod's weight.
 
 - **Tighten the joint screws** with the two hex keys at once, as Feisol describes. Really Right Stuff warns that overtightening can damage the joint and stop the legs opening smoothly.
-- **Regrease a dry joint.** Feisol says to clean the mating surfaces with isopropyl alcohol and add a little marine grease. An owner on [r/RealEstatePhotography](https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/) traced floppy Benro legs to this: "turns out the grease in the leg joint had hardened".
+- **Regrease a dry joint.** Feisol says to clean the mating surfaces with isopropyl alcohol and add a little marine grease. An owner on r/RealEstatePhotography traced floppy Benro legs to this: "turns out the grease in the leg joint had hardened".
 - **Lock screws that back out** with a drop of blue thread locker, as Feisol suggests.
 
-The angle-stop latches can also break: one [r/peakdesign owner](https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/) reports "an angle leg lock broke in half, making it impossible to pull my tripod leg out". That needs a part from the maker.
+The angle-stop latches can also break: one r/peakdesign owner reports "an angle leg lock broke in half, making it impossible to pull my tripod leg out". That needs a part from the maker.
 
 ## Grease the threads, never the grip
 
@@ -184,11 +184,11 @@ The angle-stop latches can also break: one [r/peakdesign owner](https://www.redd
 
 K&F Concept explains why: oil can reduce friction on surfaces meant to grip and attracts more dirt.
 
-> **From our notes:** This is research, not a repair log. When we laid the Feisol manual beside the K&F Concept guide and the [Improve Photography article](https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/), the grease advice looked contradictory: one warns that lubricant on gripping surfaces cuts friction, another says to grease the cleaned threads. The Feisol manual settled it in a few lines: a pea-size dab on the metal threads, nothing on the plastic compression rings or inside the tubes, and no liquid lubricant. Really Right Stuff agrees on the threads. That split became the spine of this guide.
+> **From our notes:** This is research, not a repair log. When we laid the Feisol manual beside the K&F Concept guide and the Improve Photography article, the grease advice looked contradictory: one warns that lubricant on gripping surfaces cuts friction, another says to grease the cleaned threads. The Feisol manual settled it in a few lines: a pea-size dab on the metal threads, nothing on the plastic compression rings or inside the tubes, and no liquid lubricant. Really Right Stuff agrees on the threads. That split became the spine of this guide.
 
 ## Leg section stuck instead of slipping
 
-**A stuck leg section is the same lock failing the other way: grit or a folded ring jams the tube.** A [DPReview owner](https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/) with a carbon Benro wrote "When the lock is fully unlocked I still can not get the leg to make any movement at all" after trying hot water, spray lubricant and pliers.
+**A stuck leg section is the same lock failing the other way: grit or a folded ring jams the tube.** A DPReview owner with a carbon Benro wrote "When the lock is fully unlocked I still can not get the leg to make any movement at all" after trying hot water, spray lubricant and pliers.
 
 - **Check that it is really loosening;** a reply warns that a rubber grip can slip on the lock.
 - **Grip gently.** Improve Photography suggests slip-joint pliers and a little water poured over the lock to flush grit.

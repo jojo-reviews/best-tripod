@@ -293,7 +293,7 @@ Wrap all three legs fully around a fence post or railing rather than hooking one
 
 ### Use the head, not the legs, to level
 
-Leveling is the real day-to-day difference between the two types. One DPReview owner explains that on a GorillaPod the camera ends up where the legs are happy, not where you are, and that "[Getting a level horizon is like guessing the weather outside in a windowless insulated room](https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/)". Mojogear's tripod guide makes the same point: a flexible tripod is harder to set completely vertical. The fix is a separate ball head with a bubble level, which is why we'd pick a kit version over a bare flexible stand. Set the legs roughly, then level and aim with the head.
+Leveling is the real day-to-day difference between the two types. One DPReview owner explains that on a GorillaPod the camera ends up where the legs are happy, not where you are, and that "Getting a level horizon is like guessing the weather outside in a windowless insulated room". Mojogear's tripod guide makes the same point: a flexible tripod is harder to set completely vertical. The fix is a separate ball head with a bubble level, which is why we'd pick a kit version over a bare flexible stand. Set the legs roughly, then level and aim with the head.
 
 ## When a Rigid Mini Tripod Wins
 
@@ -305,7 +305,7 @@ For a sit-down clip at a cafe table or a wall above a viewpoint, you splay the l
 
 ### Load against a real vlogging camera
 
-Load capacity only means something next to your own mirrorless camera or phone. Sony lists the [ZV-E10 at about 343 g with battery and memory card](https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications), while Manfrotto gives the [PIXI Mini a 1 kg payload at 13.5 cm tall](https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/). That leaves room for a kit zoom and a small mic, but a front-heavy lens eats the margin fast and tips the camera forward. The GorillaPod 3K Kit's [6.6 lb load rating](https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs) gives far more headroom on paper, which matters once its joints start to loosen.
+Load capacity only means something next to your own mirrorless camera or phone. Sony lists the ZV-E10 at about 343 g with battery and memory card, while Manfrotto gives the [PIXI Mini a 1 kg payload at 13.5 cm tall](https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/). That leaves room for a kit zoom and a small mic, but a front-heavy lens eats the margin fast and tips the camera forward. The GorillaPod 3K Kit's 6.6 lb load rating gives far more headroom on paper, which matters once its joints start to loosen.
 
 > **From our notes:** When we lined up the spec sheets, the numbers pointed one way and the owner threads another. On paper the GorillaPod 3K Kit wins easily: three times the PIXI Mini's 1 kg rating and more than twice its height. Then we read the DPReview thread where an owner called the GorillaPods he'd tried the least stable of his small tripods with heavier kit, and a Reddit reply warning that the joints sag with age. That's why we treat the GorillaPod's high rating as headroom against wear, not permission to load it up.
 
@@ -325,9 +325,9 @@ The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXI-B) weigh
 
 **Most complaints about both types come from asking a tiny tripod to do a full tripod's job, and each has a simple fix.** These are the ones that come up again and again in forum threads.
 
-- **Bendable legs sag with age.** An r/AnalogCommunity owner says GorillaPods "[get loose and sag as they get used/older](https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/)", and an r/videography reply agrees. Fix: buy a model rated well above your camera, and test the joints with your camera before a trip.
+- **Bendable legs sag with age.** An r/AnalogCommunity owner says GorillaPods "get loose and sag as they get used/older", and an r/videography reply agrees. Fix: buy a model rated well above your camera, and test the joints with your camera before a trip.
 - **No level horizon.** Fix: let the ball head and its bubble level do the leveling, as above.
-- **Nothing to wrap it around.** The [Quora answer](https://www.quora.com/Which-is-best-for-traveling-tripod-or-Gorillapod) notes a GorillaPod needs a pole or tree. Fix: if your stops are mostly cafes and plazas, a rigid mini tripod suits you better.
+- **Nothing to wrap it around.** The Quora answer notes a GorillaPod needs a pole or tree. Fix: if your stops are mostly cafes and plazas, a rigid mini tripod suits you better.
 - **Tipping forward with a zoom.** A DPReview owner found many small tripods hold a body and 24-120mm but topple forward easily. Fix: before you trust a wall, push the camera with its longest lens forward on the tripod and see where it tips, then point one leg under the lens.
 - **Too low to film yourself.** A Facebook vlogging group reply suggests carrying a normal tripod unless you always have flat surfaces. Fix: find a table or wall, or add a [compact travel tripod for mirrorless kits](/blog/best-travel-tripod-for-mirrorless-camera/).
 

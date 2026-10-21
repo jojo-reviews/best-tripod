@@ -157,20 +157,20 @@ The video below, from landscape photographer Todd Dominey, walks through most of
 **Watch live view at full magnification during a gust; the motion tells us the fix.**
 
 - **Legs buzzing (sail effect):** a recurring point on [Photography Stack Exchange](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) is "Wind will vibrate across the legs and transmit up to the camera." Fixes 2-4 cure it.
-- **Head or lens twisting:** the frame swings while legs stay put. A [Unique Photo thread](https://www.uniquephoto.com/community/qa/how-can-i-reduce-tripod-vibration-in-strong-wind) owner has weights on the center pole yet the head still twists, and a reader quoted by G Dan Mitchell found that [hanging a 10 lb weight](https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/) did not help. Weight cannot stop a head turning under a long lens; we would pull the hood, mount by the lens tripod collar and pick a head rated far above the load, as a [strong-winds thread](https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds) advises. Our [ball head vs pan-tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) covers twist.
+- **Head or lens twisting:** the frame swings while legs stay put. A Unique Photo thread owner has weights on the center pole yet the head still twists, and a reader quoted by G Dan Mitchell found that [hanging a 10 lb weight](https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/) did not help. Weight cannot stop a head turning under a long lens; we would pull the hood, mount by the lens tripod collar and pick a head rated far above the load, as a strong-winds thread advises. Our [ball head vs pan-tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) covers twist.
 - **Shake you add:** pressing the shutter can blur as much as a gust.
 
 ## Lower the tripod and keep the column down
 
-**Keep a tripod in wind on its legs' thickest sections, with a low center of gravity.** A raised center column is a recurring r/AskPhotography complaint: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" ([thread](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/)). Our [tripod height without the center column](/blog/how-tall-should-a-tripod-be-for-my-height/) guide gives the legs-only height to buy.
+**Keep a tripod in wind on its legs' thickest sections, with a low center of gravity.** A raised center column is a recurring r/AskPhotography complaint: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" (thread). Our [tripod height without the center column](/blog/how-tall-should-a-tripod-be-for-my-height/) guide gives the legs-only height to buy.
 
-Spikes suit sand and mud, rubber feet smooth rock. One [supertelephoto thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod) answer is blunt: "Grass is not stable." Move.
+Spikes suit sand and mud, rubber feet smooth rock. One supertelephoto thread answer is blunt: "Grass is not stable." Move.
 
 ## Weigh down a tripod without making it swing
 
-**Weight on the ground, tethered, beats a bag dangling in gusts.** [Photography Life](https://photographylife.com/how-to-make-tripod-more-stable) says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a bag on the ground. If a hung bag moves, lower it to the ground.
+**Weight on the ground, tethered, beats a bag dangling in gusts.** Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a bag on the ground. If a hung bag moves, lower it to the ground.
 
-The center-column hook is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" ([thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)). Without one, we fill a stone bag on site or cord the apex to a rock. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
+The center-column hook is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" (thread). Without one, we fill a stone bag on site or cord the apex to a rock. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
 
 ## Block the wind and trim the sails
 
@@ -192,4 +192,4 @@ The center-column hook is the usual anchor, though not every light tripod has ro
 
 ## Light tripod, heavy lens: when a better tripod is the fix
 
-**Buy new gear only after fixes 1-6 fail.** A lightweight tripod under heavy gear is a [recurring question](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod), and a 600mm lens can expose a weak head ([example](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod)). Then we would look for thicker legs, height without the column and load-rating headroom. For that bluff shooter, our [landscape tripods for low angles and wind](/blog/landscape-photography-tripod/) are the next read, and our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) cover lighter kits.
+**Buy new gear only after fixes 1-6 fail.** A lightweight tripod under heavy gear is a [recurring question](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod), and a 600mm lens can expose a weak head (example). Then we would look for thicker legs, height without the column and load-rating headroom. For that bluff shooter, our [landscape tripods for low angles and wind](/blog/landscape-photography-tripod/) are the next read, and our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) cover lighter kits.

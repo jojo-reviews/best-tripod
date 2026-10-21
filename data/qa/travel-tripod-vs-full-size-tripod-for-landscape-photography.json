@@ -1,25 +1,18 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:37.726Z",
+  "checkedAt": "2026-10-21T19:50:46.812Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/landscape-photography-tripod/ (\"travel tripod vs full size tripod for landscape photography\" overlaps \"best lightweight tripod for landscape photography\" (75%))",
-    "source didn't respond normally (503): https://www.gitzo.com/us-en/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqdus/",
-    "source didn't respond normally (503): https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
-    "source didn't respond normally (503): https://www.gitzo.com/us-en/tripod-mountaineer-series-2-4-sections-gt2542/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1611148/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified against maker pages via Firecrawl: Gitzo GK1545T-82TQDUS kit (1.45 kg, 163.5 cm max, 140.5 cm column down, 32.4 cm min, 42.5 cm closed, 10 kg UNI/PdR 105:2021 payload, 4 sections, twist locks, 25/70 deg leg angles, GH1382TQD head with no friction control knob, independent pan lock, Arca-Swiss compatible GS5370SD plate, recommended for 135mm lenses (200mm max)); Gitzo GT1545T legs (1.055 kg, 153/130 cm, 22 cm min, 42.5 cm, 10 kg, tubes 14.7-25.3 mm, 2 leg angles, 135mm (200mm max)); Gitzo GT2542 Mountaineer (1.68 kg, 165.5/137.5 cm, 15 cm min, 56 cm closed, 22 kg, tubes 18.3-29 mm, 3 leg angles 23/55/83, 200mm lenses up to 300mm). Derived differences 625 g, 13.5 cm, 7.5 cm checked. NWS Beaufort force 5 = 19-24 mph fresh breeze, small trees in leaf sway (weather.gov/mfl/beaufort). The Center Column hanging-weight test 2.5 lb steps to 20 lb, no stiffness effect, little damping, lowers center of gravity. Owner claims checked in DPReview 4789800 (5 ft 7 in owner, head lacks friction control, not stable for 200-800, no hook), Fred Miranda 1611148 (Series 2 shines in moving water/heavy wind/tele; Series 1 fine in wind with wides; Series 1 won't withstand much wind), Fred Miranda 1841073 (5 ft 11 in owner), FujiX-Forum (owner swapped to compact head). Schultz quote, Talk Photography Iceland owner, Livieri slope/navel height and spikes, Matt Purciel top pick GK1545T verified on page. Pain-point quotes verbatim from data/pain-points.json. ASIN B071F31XLR listing title = Gitzo Lightweight Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQDUS). No prices, ratings or testing claims.",
-    "at": "2026-10-21T10:34:33.826Z",
-    "hash": "f81aa61df59225fc"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:46.238Z",
+    "hash": "44c4b25a5dc46cf9"
   }
 }

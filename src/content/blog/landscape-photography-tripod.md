@@ -564,7 +564,7 @@ Tim Shields recommends it for travel but notes it is not as sturdy as heavier tr
 
 ### Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head: best full-size value
 
-If you shoot near the car, the Alta Pro gives you the most height for the least money of the five. [Vanguard's page](https://www.vanguardworld.com/products/alta-pro-2-263ab-gen-2-professional-aluminum-full-size-camera-video-tripod-w-ball-head-26mm-legs) lists 68.2 in at full height, 55.6 in with the column down, a 22 lb load and a 5-year warranty. Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low and macro foregrounds. Three thick twist-lock sections, 26 mm at the widest, keep it stiff.
+If you shoot near the car, the Alta Pro gives you the most height for the least money of the five. Vanguard's page lists 68.2 in at full height, 55.6 in with the column down, a 22 lb load and a 5-year warranty. Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low and macro foregrounds. Three thick twist-lock sections, 26 mm at the widest, keep it stiff.
 
 Owners agree it is solid. On the DPReview forum one owner called it "very solid and stable, yet not terribly heavy," and a Vanguard store reviewer liked the easy twist locks and clear markings on the horizontal arm. The repeat complaint, from Reddit and DPReview alike, is weight and length: 4.8 lb and 28.3 in folded (another Vanguard page says about 27.4 in). The head data is contested too. Vanguard names a BH-60 head while the Amazon title says Arca ball head, so check the clamp before you buy an Arca-Swiss L-bracket for it.
 
@@ -624,23 +624,23 @@ An Arca-Swiss plate and L-bracket let you flip from horizontal to vertical witho
 
 ### Wind makes the tripod vibrate
 
-Wind and vibration are a recurring complaint in Photo Stack Exchange threads on long exposures. One answer puts it plainly: ["Wind will vibrate across the legs and transmit up to the camera."](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod) The fix, in order: collapse the thinnest leg sections first, spread the legs wide, keep nothing dangling loose, and stand upwind as a windbreak. Thicker 3-section legs like the Alta Pro and MT190XPRO3 resist gusts better than thin 5-section legs.
+Wind and vibration are a recurring complaint in Photo Stack Exchange threads on long exposures. One answer puts it plainly: "Wind will vibrate across the legs and transmit up to the camera." The fix, in order: collapse the thinnest leg sections first, spread the legs wide, keep nothing dangling loose, and stand upwind as a windbreak. Thicker 3-section legs like the Alta Pro and MT190XPRO3 resist gusts better than thin 5-section legs.
 
 ### Feet slip or sink on sand, mud, grass and rock
 
-Unstable footing comes up across Reddit and photography Q&A sites. On r/AskPhotography, a seascape shooter was told: ["You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable."](https://www.reddit.com/r/AskPhotography/comments/110mxve/fellow_photographers_how_do_you_use_a_tripod/) Work the feet down until they stop sinking. Use spike feet on sand and mud, and rubber feet on smooth rock. The Alta Pro's feet swap for spiked ones, Feisol and Peak Design sell spikes separately, and on the MT190XPRO3, with no leg spreader, check each foot before a long exposure.
+Unstable footing comes up across Reddit and photography Q&A sites. On r/AskPhotography, a seascape shooter was told: "You're not putting the tripod deep enough into the sand. It's got to be pretty deep to be stable." Work the feet down until they stop sinking. Use spike feet on sand and mud, and rubber feet on smooth rock. The Alta Pro's feet swap for spiked ones, Feisol and Peak Design sell spikes separately, and on the MT190XPRO3, with no leg spreader, check each foot before a long exposure.
 
 ### Center column makes it ring
 
-A raised column is the vibration cause we saw named most in forum threads. An r/AskPhotography reply sums it up: ["The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter."](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/) The fix is to extend the legs first and leave the column down. The Feisol avoids the problem entirely, and the Alta Pro's 55.6 in column-down height means you rarely need to raise it.
+A raised column is the vibration cause we saw named most in forum threads. An r/AskPhotography reply sums it up: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter." The fix is to extend the legs first and leave the column down. The Feisol avoids the problem entirely, and the Alta Pro's 55.6 in column-down height means you rarely need to raise it.
 
 ### Adding weight without sandbags
 
-Owners on hiking forums want ballast but not extra gear. One DPReview poster with a small travel tripod said that with the center column raised ["there is extremely little room to hang my camera backpack from the hook for stability"](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/). Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs. Taller, wider-spread tripods leave more room for a bag, and Peak Design owners note the legs must be tightened before they hold the extra weight.
+Owners on hiking forums want ballast but not extra gear. One DPReview poster with a small travel tripod said that with the center column raised "there is extremely little room to hang my camera backpack from the hook for stability". Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs. Taller, wider-spread tripods leave more room for a bag, and Peak Design owners note the legs must be tightened before they hold the extra weight.
 
 ### Shutter-press shake in the first seconds
 
-Pressing the shutter starts a small vibration that blurs the opening of an exposure, a recurring point in Photo Stack Exchange threads on long lenses. One answer says: ["If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`."](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod) A 2-second timer is free on every camera, and an electronic first-curtain shutter helps on mirrorless bodies.
+Pressing the shutter starts a small vibration that blurs the opening of an exposure, a recurring point in Photo Stack Exchange threads on long lenses. One answer says: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." A 2-second timer is free on every camera, and an electronic first-curtain shutter helps on mirrorless bodies.
 
 ## Which Landscape Photography Tripod Should You Buy?
 

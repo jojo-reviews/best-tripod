@@ -319,11 +319,11 @@ The ball head trade-off shows up again and again on r/photography: "The issue wi
 
 ### Heavy telephoto droops
 
-Heavy-lens droop is a balance problem first, reported from r/peakdesign to r/canon: "The ground was solid and there was no wind, but the tripod head drooped with the 70-300mm lens attached." ([r/peakdesign](https://www.reddit.com/r/peakdesign/comments/v0v0gv/travel_tripod_drooping/)) Mount the lens by its lens collar / tripod foot. If it has none, r/AskPhotography replies suggest a slip-on foot to move the center of gravity.
+Heavy-lens droop is a balance problem first, reported from r/peakdesign to r/canon: "The ground was solid and there was no wind, but the tripod head drooped with the 70-300mm lens attached." (r/peakdesign) Mount the lens by its lens collar / tripod foot. If it has none, r/AskPhotography replies suggest a slip-on foot to move the center of gravity.
 
 ### Plate twists or loosens
 
-Plate loosening comes up in BCG forum and r/AskPhotography threads: "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." ([BCG forums](https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/)) Use an anti-twist plate or an L-bracket, and loosen the head before you rotate the camera.
+Plate loosening comes up in BCG forum and r/AskPhotography threads: "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." (BCG forums) Use an anti-twist plate or an L-bracket, and loosen the head before you rotate the camera.
 
 ## Tripod ball head features that matter
 

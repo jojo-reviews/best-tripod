@@ -463,7 +463,7 @@ For each tripod we then checked the trail numbers that matter:
 
 ### Peak Design Travel Tripod (Carbon Fiber): best overall for hiking
 
-Pack Hacker and We Seek Travel both recommend this carbon model, and the numbers explain why. [The maker's spec page](https://www.peakdesign.com/products/travel-tripod) says it packs to the diameter of a standard water bottle; B&H lists 15.5 in folded and 2.8 lb, with a 20 lb (9.1 kg) load rating. It stands 51.25 in with the column down and 60 in with it up, and drops to 5.5 in for low foreground shots. Five carbon sections release with aluminum cam levers, and the plate is Arca-type compatible.
+Pack Hacker and We Seek Travel both recommend this carbon model, and the numbers explain why. The maker's spec page says it packs to the diameter of a standard water bottle; B&H lists 15.5 in folded and 2.8 lb, with a 20 lb (9.1 kg) load rating. It stands 51.25 in with the column down and 60 in with it up, and drops to 5.5 in for low foreground shots. Five carbon sections release with aluminum cam levers, and the plate is Arca-type compatible.
 
 Owners on the maker's site and at B&H keep saying the same thing: it's small enough that they now bring a tripod on hikes where they used to leave one at home. One B&H owner put it as "something I don't have to ask myself if I should bring it or not because of it's size and weight!"
 
@@ -525,7 +525,7 @@ Photographers who add ND filters, astro or longer lenses outgrow small travel tr
 
 ### Center column height vs stability
 
-Reaching eye level often means raising the column, and owners know what that costs. One DPReview poster was blunt: ["The center column make the Travel Tripod less stable so you should not extend it."](https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/) Choose the most column-down height you can carry; the Peak Design (51.25 in) and the Gitzo (51.2 in) are level here. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) shows the simple math, and a tilting screen makes chin height workable.
+Reaching eye level often means raising the column, and owners know what that costs. One DPReview poster was blunt: "The center column make the Travel Tripod less stable so you should not extend it." Choose the most column-down height you can carry; the Peak Design (51.25 in) and the Gitzo (51.2 in) are level here. Our guide to [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) shows the simple math, and a tilting screen makes chin height workable.
 
 ### Five leg sections and plastic locks
 
@@ -533,7 +533,7 @@ Experienced users warn that more sections and plastic flip locks mean more wobbl
 
 ### Integrated ball head with no friction control
 
-Compact built-in heads are often on-off only. One DPReview hiker, writing about the Ulanzi head on a travel tripod, noted ["there is no friction control of the ball (it is pretty much on or off with a leaver)"](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/). That makes fine framing with a heavy lens fiddly. The legs-only GT1545T lets you choose your own head with proper friction and pan controls, and the Peak Design owes its speed to a single ring, so budget for a pan clamp if you shoot panoramas.
+Compact built-in heads are often on-off only. One DPReview hiker, writing about the Ulanzi head on a travel tripod, noted "there is no friction control of the ball (it is pretty much on or off with a leaver)". That makes fine framing with a heavy lens fiddly. The legs-only GT1545T lets you choose your own head with proper friction and pan controls, and the Peak Design owes its speed to a single ring, so budget for a pan clamp if you shoot panoramas.
 
 ## How to choose a hiking tripod
 

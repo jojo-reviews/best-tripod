@@ -154,7 +154,7 @@ A used fluid head arrives, you go to mount it, and its half ball is too big for 
 
 ## Video tripod bowl size explained: 75mm vs 100mm in one minute
 
-**A 75mm bowl carries light to mid rigs with less weight; a 100mm bowl carries heavier rigs and bigger heads.** [B&H notes](https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod) most videographers use 75mm when they can, keeping 100mm and 150mm for heavy builds.
+**A 75mm bowl carries light to mid rigs with less weight; a 100mm bowl carries heavier rigs and bigger heads.** B&H notes most videographers use 75mm when they can, keeping 100mm and 150mm for heavy builds.
 
 This table compares Sachtler's spec sheets for one leg family:
 
@@ -167,13 +167,13 @@ This table compares Sachtler's spec sheets for one leg family:
 
 ## What the bowl number measures, and how to check yours
 
-**The size is the diameter across the top of the bowl; the head's half ball (a hemisphere) must match it.** A tie-down knob underneath clamps the ball, so we level by loosening it, rocking the head until the bubble centers and tightening again, as [Expressway Cinema](https://blog.expresswaycine.com/tripod-heads-an-overview/) describes. Pros on dollies often use a flat Mitchell mount instead.
+**The size is the diameter across the top of the bowl; the head's half ball (a hemisphere) must match it.** A tie-down knob underneath clamps the ball, so we level by loosening it, rocking the head until the bubble centers and tightening again, as Expressway Cinema describes. Pros on dollies often use a flat Mitchell mount instead.
 
-Older sticks confuse people. A [Cinematography.com thread](https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/) answers: "It's the diameter of the top of the bowl that is important." The machined inner ring reads smaller: one member measured a 150mm bowl at [ID=145mm](https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/) and judged an 85mm reading on Vinten legs a 100mm bowl.
+Older sticks confuse people. A Cinematography.com thread answers: "It's the diameter of the top of the bowl that is important." The machined inner ring reads smaller: one member measured a 150mm bowl at ID=145mm and judged an 85mm reading on Vinten legs a 100mm bowl.
 
 ## 75mm vs 100mm bowl by rig weight
 
-**Weigh the loaded rig (body, lens, battery, monitor), add headroom, then pick the bowl.** B&H warns a tripod [rated for ten pounds pans jerkier above seven](https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod), as counterbalance and drag strain. A broadcast shooter on DVinfo adds [another 50%](https://www.dvinfo.net/forum/tripod-sticks-heads/506379-100mm-vs-75mm-bowls.html) to the rig weight; he travels with 75mm and saves 100mm for big lenses.
+**Weigh the loaded rig (body, lens, battery, monitor), add headroom, then pick the bowl.** B&H warns a tripod rated for ten pounds pans jerkier above seven, as counterbalance and drag strain. A broadcast shooter on DVinfo adds another 50% to the rig weight; he travels with 75mm and saves 100mm for big lenses.
 
 The maker specs hold our surprise: the [flowtech 75 weighs 3.5 kg and holds 20 kg](https://www.sachtler.com/en/product/tripod-flowtech-75-aktiv-ms/), the [flowtech 100 weighs 4.1 kg and holds 30 kg](https://www.sachtler.com/en/product/tripod-flowtech-100-ms/). Without spreaders the legs differ by 0.2 kg and pack to the same 68 cm, so the extra weight sits mostly in the larger head.
 
@@ -181,21 +181,21 @@ Leg design matters as much. In the same thread, a tester says twin-tube 75mm leg
 
 ## Bowl adapters only work one way
 
-**A 75mm head drops into a 100mm bowl with a bowl reducer; nothing puts a 100mm head on 75mm legs.** Sachtler sells an Adapter 75/100 for its 100mm legs. Going down is the dead end: one r/cinematography owner wrote, "I can only find adapters to go the other way around" ([thread](https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/)).
+**A 75mm head drops into a 100mm bowl with a bowl reducer; nothing puts a 100mm head on 75mm legs.** Sachtler sells an Adapter 75/100 for its 100mm legs. Going down is the dead end: one r/cinematography owner wrote, "I can only find adapters to go the other way around" (thread).
 
 Owners keep raising three costs:
 
-- **Play.** "Adapters add room for play, not good on a paid shoot," warns a [Flowtech 100 thread](https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/).
-- **Tie-down length.** In [a 150mm-to-100mm thread](https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/), the stock bolt may not reach through an adapter; buy one sized for the stack.
-- **Snagging.** "75mm sized bowls tend to have longer tie downs which can be annoying," notes an [r/Filmmakers reply](https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/), especially on a slider.
+- **Play.** "Adapters add room for play, not good on a paid shoot," warns a Flowtech 100 thread.
+- **Tie-down length.** In a 150mm-to-100mm thread, the stock bolt may not reach through an adapter; buy one sized for the stack.
+- **Snagging.** "75mm sized bowls tend to have longer tie downs which can be annoying," notes an r/Filmmakers reply, especially on a slider.
 
 ## Flat base vs bowl base: do you need a bowl at all?
 
-**A flat base is fine for light rigs on level ground; a bowl saves time on slopes.** [B&H](https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod) calls a leveling base a half-measure and a half ball the real fix; flat-base heads pair with a ball adapter for video legs.
+**A flat base is fine for light rigs on level ground; a bowl saves time on slopes.** B&H calls a leveling base a half-measure and a half ball the real fix; flat-base heads pair with a ball adapter for video legs.
 
-Photo tripods can join in: Gitzo Systematic Series 2-4 legs (not Series 4 aluminum) take a 75mm half-bowl adapter weighing [81 grams](https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/), aimed at video and long lenses. A [DPReview poster](https://www.dpreview.com/forums/threads/tripod-bowl-adapter-whats-the-purpose.4492018/) warns a long leveler handle can block legs splayed for ground level.
+Photo tripods can join in: Gitzo Systematic Series 2-4 legs (not Series 4 aluminum) take a 75mm half-bowl adapter weighing [81 grams](https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/), aimed at video and long lenses. A DPReview poster warns a long leveler handle can block legs splayed for ground level.
 
-Conversely, an [r/videography owner](https://www.reddit.com/r/videography/comments/1hxzfan/sachtler_ace_l_75mm_bowl_tripod_on_a_flat_tripod/) notes "The bottom of the ball on L and newer Ace heads should be flattened off for mounting on posts, sliders, and other flat mounts" so check your head before buying a bowl-to-flat adapter.
+Conversely, an r/videography owner notes "The bottom of the ball on L and newer Ace heads should be flattened off for mounting on posts, sliders, and other flat mounts" so check your head before buying a bowl-to-flat adapter.
 
 > **From our notes:** When we lined up the Sachtler spec sheets for this guide, we expected the 100mm legs to be the heavy, bulky choice. They were not: 0.2 kg more without spreaders and the same 68 cm packed length. The weight climbs in the 100mm head; the headaches come from mixing sizes: reducers that add play, tie-downs that don't reach, and a head with nowhere to go once it outgrows the bowl.
 

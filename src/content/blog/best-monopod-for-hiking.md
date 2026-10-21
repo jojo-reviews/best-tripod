@@ -286,7 +286,7 @@ The limits are real. Mountainsmith caps the camera at 3 lb, and REI lists the co
 These are the problems that come up again and again in hiking threads, with the fix for each:
 
 1. **The hybrid wobbles.** In a DPReview thread on hiking monopods, one member who bought a stick with a camera screw summed it up: "I guess it's OK as a hike stick - but it's rubbish as a monopod!" ([thread](https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/)). The fix is to keep the camera under the stated limit and add a small head so the pole can stay planted while the camera angles.
-2. **Leaning your weight on a camera pod.** "Compare the weight ratings of the monopod and compare these to trekking poles. This is a safety issue," another member warned ([thread](https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/)). If you rely on a pole on descents, carry a trekking pole and treat the camera mount as a bonus; the P-326's thin lower sections are not built for your body weight.
+2. **Leaning your weight on a camera pod.** "Compare the weight ratings of the monopod and compare these to trekking poles. This is a safety issue," another member warned (thread). If you rely on a pole on descents, carry a trekking pole and treat the camera mount as a bonus; the P-326's thin lower sections are not built for your body weight.
 3. **Packed length.** An REI owner flying with 27 in poles put it plainly: "Shorter collapsed length will greatly simplify travel with your poles." The P-326 folds to 15.6 in, a little over half the Trekker's packed length.
 
 The video below shows how a walking pole with a camera thread converts into a monopod on the trail.
@@ -301,7 +301,7 @@ At 61.4 in, the P-326 plus a tilt head and camera reaches roughly eye level for 
 
 ## Is a Monopod Worth It on a Hike, or Bring a Tripod?
 
-**A monopod is worth carrying when you shoot telephoto, video or dim forest light and want to keep walking; bring a tripod for long exposures, stars and self-timer shots.** As an r/AskPhotography poster put it, "a monopod is a compromise—it trades some stability for huge gains in speed, weight, and ease of use." ([thread](https://www.reddit.com/r/AskPhotography/comments/1rx62rt/feedback_on_the_use_of_monopods/))
+**A monopod is worth carrying when you shoot telephoto, video or dim forest light and want to keep walking; bring a tripod for long exposures, stars and self-timer shots.** As an r/AskPhotography poster put it, "a monopod is a compromise—it trades some stability for huge gains in speed, weight, and ease of use." (thread)
 
 We see the choice as carry weight against shot type. Improve Photography's author found a monopod buys at least a couple of stops of slower shutter speed and a rest for heavy lenses, at less than a pound for the P-326. A light tripod buys hands-free, multi-second exposures for extra weight on your back. If your trips lean that way, compare our picks for the [best hiking tripod](/blog/best-hiking-tripod/) and read [carbon fiber vs aluminum tripods for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) before you buy. For long lenses on wildlife walks, a [monopod with feet for wildlife photography](/blog/best-monopod-with-feet-for-wildlife-photography/) can stand on its own for a moment between shots.
 

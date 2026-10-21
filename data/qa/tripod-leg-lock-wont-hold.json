@@ -1,23 +1,18 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-10-21T07:01:57.594Z",
+  "checkedAt": "2026-10-21T19:50:49.078Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/twist-lock-vs-flip-lock-tripod-legs/ (\"tripod leg lock won't hold\" overlaps \"twist lock vs flip lock tripod legs\" (75%))",
-    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1282332/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
-    "source didn't respond normally (403): https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/",
-    "source didn't respond normally (403): https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+    "keyword overlaps /blog/twist-lock-vs-flip-lock-tripod-legs/ (\"tripod leg lock won't hold\" overlaps \"twist lock vs flip lock tripod legs\" (75%))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "How-to, no products. Verified via Firecrawl 2026-10-20: Feisol care manual PDF (pea-size marine grease on twist-lock threads; no grease on plastic compression rings or inside tubes; no liquid lubricant; rings not fully inserted stop the cover screwing on; scratched/cracked/deformed rings replaced; rotational force on a stuck tube widens ring holes and destroys the tube; more than one damaged tube = totaled; angle joint: two hex tools, isopropyl/degreaser, small amount marine grease, blue thread locker). Really Right Stuff KB (warm water, mild dish soap, toothbrush in twist-lock grooves; anti-twist sleeves sized per section; don't overtighten axle screws; hold-by-one-leg tension test; thin synthetic grease on twist-lock grooves). K&F Concept guide (firm collar: tightening harder unlikely to help; clean sand/salt; flip-lock nut small adjustments, lever firm without excess force; no general-purpose oil; reinstall sleeves in same order/orientation; replace when tube bent/cracked; downward-pressure test on empty tripod). Improve Photography (pliers gently, water to flush grit, duct tape field fix, T25 Torx for Manfrotto 190XPro snap locks, lube clean threads). Ugly Hedgehog 126829 (5/16 nut driver, 1/6 turn, plastic cover, 'These leg locks loosen over time', 190XB adjusting every 3-4 rentals). Fred Miranda 1282332 (swap test, 95%/100% quote verbatim). DPReview 4341189 (quote verbatim, hot water/WD40/pliers, rubber grip slip, carbon vs aluminum heat/cold, contact company). Reddit quotes (RealEstatePhotography 1kovujc, peakdesign 1ee58bg) and YouTube sS1D5kj88A4 quote verified verbatim in Firecrawl search excerpts at those URLs. Internal-link claims checked against live posts best-hiking-tripod (leg lock + sections specs) and peak-design-vs-befree (lever locks loosen). No prices, no testing claims, no named reviewer. Media and numbers backfill 2026-10-21, re-opened via Firecrawl: Fred Miranda 1282332 \"I twisted the locks like 95% of the way, and it requires to be twisted more like 100% ... until you can't twist it even a tiny bit more\" (link on 95%/100%); Ugly Hedgehog 126829 MT Shooter: \"tighten the nut 1/6 th of a turn\", \"the XB needs adjusting about every 3 or 4 rentals\" (links on both numbers). Video Eo1yQIZLVH4 (Really Right Stuff, \"Tripod Maintenance Part 3: Twist Locks\", 4:29) checked: disassemble, clean, reassemble a twist lock assembly; embedded in the twist-lock section. Rejected sS1D5kj88A4 for embedding (29-second clip, small channel), still cited as before. Added 3 AI illustration prompts.",
-    "at": "2026-10-21T06:59:18.049Z",
-    "hash": "d9ad06c3a7707736"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:48.722Z",
+    "hash": "07efbdc4021d11ce"
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-21T14:42:41.937Z",
+  "checkedAt": "2026-10-21T19:50:39.971Z",
   "errors": [],
   "warnings": [
     "body has 5230 words, over the 3105 limit (top results average 2700): cut repetition and filler",
@@ -19,21 +19,12 @@
     "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (503): https://www.manfrotto.com/us-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
-    "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",
-    "source didn't respond normally (403): https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/",
-    "source didn't respond normally (403): https://www.adorama.com/3lttvidk20.html",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
-    "source didn't respond normally (403): https://www.kentfaith.com/KF09.101_lightweight-travel-tripod-compact-vlog-camera-tripod-flexible-portable-63-quot-1-6m-17-64lbs-8kg-load-with-portable-monopod-for-dslr-cameras-bi234m",
-    "source didn't respond normally (403): https://www.adorama.com/ul3131.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html"
+    "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-18 audit fixes: post already had all 15 products (audit finding stale). Re-checked 7 ASINs via amazon-search workflow (Amazon US PA-API titles): Sirui 7A B07KD274QV, Gitzo GT1555T B016NSFU2U, Leofoto LS-224CX+LH-25LR B0DQKY998S, Vanguard VEO3GO235CB B0831RXR9P (original, not G2), 3LT Punks Travis 2.0 B09CDVH6R4, K&F 64in B0B1HYVVTV, Ulanzi F38 B0BXD5YJC5; set asinVerified. Added 3 PAA FAQs built only from figures already verified in this post (Peak Design 20 lb/15.5 in/51.25 in, Sirui 5C ~850 g/33 cm/4 kg, Travis 18 kg at 23 deg, VEO/5C/Benro Slim ~33 cm, Gitzo 14 in/22 lb legs only, Leofoto ~0.9 kg/~114 cm). Added secondary keyword 'best travel tripod'. No prices, no testing claims.",
-    "at": "2026-10-18T09:30:02.585Z"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:39.121Z",
+    "hash": "6823ff878118dbbf"
   }
 }

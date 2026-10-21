@@ -1,24 +1,18 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-21T14:43:14.222Z",
+  "checkedAt": "2026-10-21T19:50:42.911Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
-    "source didn't respond normally (403): https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
-    "source didn't respond normally (503): https://www.manfrotto.com/global-en/stories/tripod-buying-guide/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened K&F, Outdoorsmans, SmallRig, Ulanzi via Firecrawl: Outdoorsmans wind/top-heavy and 10-year-old carbon parts confirmed; SmallRig AP-10 'removing the center column entirely to shave weight' (1.18 vs 1.25 kg AP-20) confirmed; Ulanzi only says backpackers->carbon, rough terrain->aluminum, SmallRig says car-based->aluminum, so reworded the trip-split sentence; corrosion row sourced to K&F/Ulanzi (aluminum can corrode, esp. salt/harsh weather) and softened. Verified all 6 forum quotes verbatim at DPReview/Stack Exchange via Firecrawl; Reddit thread confirmed by title only, so removed the 'packers skip tripod' claim detail; removed unverified 'reply suggests carbon' claim. No prices, we voice, title shortened under 70 chars. Media and numbers backfill 2026-10-21, re-opened via Firecrawl: Manfrotto tripod-buying-guide states the carbon version of the 3-section 055 weighs 70.54 oz (2000 g) while the aluminum version goes up to 88.18 oz (2500 g), tripod alone without the head (added as linked number, Manfrotto URL added to sources); DPReview 4678070 quote \"Lightest I have found is the Peak Design Carbon Fiber at around 2.8 pounds\" verified earlier, link now on the number. Added 3 AI illustration prompts. No video: candidates were affiliate-led single-product comparisons, not a reputable hiking material comparison.",
-    "at": "2026-10-21T06:59:16.976Z",
-    "hash": "ad9365673d3e3add"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:42.598Z",
+    "hash": "a1f376ba4b287e4b"
   }
 }

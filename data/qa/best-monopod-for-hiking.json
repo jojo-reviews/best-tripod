@@ -1,21 +1,16 @@
 {
   "slug": "best-monopod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-21T14:42:01.707Z",
+  "checkedAt": "2026-10-21T19:50:38.781Z",
   "errors": [],
   "warnings": [
     "product \"SIRUI P-326 Carbon Fiber Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Mountainsmith Trekker FX Lite Trekking Pole\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/822252-REG/Sirui_BSRP326_P_326_6_Section_Carbon_Fiber.html/specs",
-    "source didn't respond normally (no response): https://www.rei.com/product/236894/mountainsmith-trekker-fx-lite-v2-hiking-staff-single",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/recommend-a-monopod-suitable-for-hiking.4134007/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/recommendation-for-combined-walking-stick-and-monopod.4760693/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/best-trekking-pole-monopod-hybrid.41910/"
+    "product \"Mountainsmith Trekker FX Lite Trekking Pole\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "SIRUI P-326: 22 lb/10 kg load, 15.6-61.4 in working height, 15.6 in/39.5 cm folded, 0.9 lb/0.4 kg, 6 twist-lock sections, retractable spiked foot, reversible 1/4-20 and 3/8-16 screw verified on B&H specs page and Shotkit review; owner notes (12 months beach use, squeaky strap collar, no head included; BCG owners 'very lightweight but stable', 9 years of use) checked against Shotkit and BCG thread. Amazon ASIN B004QC6VAG listing title 'SIRUI Camera Monopod P-326 6 Section Carbon Fiber Compact Lightweight Travel Monopod'. Mountainsmith Trekker FX Lite: 28-59 in range, 1/4-20 bolt, carbide and rubber tips, baskets, carbon construction and 3 lb camera limit on mountainsmith.com; 9.6 oz, 27.25 in collapsed, external lever lock, carbon upper/7075 aluminum and owner complaints (long top screw, loose as monopod, strap/buckle failures, Camino use) on REI page. ASIN B0GVKXKHHF listing 'Mountainsmith Trekker FX Lite Trekking Pole - Single'. Quotes verified verbatim: DPReview hiking thread (petrochemist, 3-4 inches lost), DPReview walking-stick thread (weight ratings safety), REI (shorter collapsed length), Improve Photography ('much sturdier', couple of stops), Reddit r/AskPhotography quote confirmed via search excerpt at the same thread URL. Stat links: 22 lb/0.9 lb on B&H specs, 3 lbs and 27.25 inches on REI.",
-    "at": "2026-10-21T10:31:11.357Z",
-    "hash": "de10ef3f1aca209d"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:38.450Z",
+    "hash": "4854e12608adfd73"
   }
 }

@@ -159,7 +159,7 @@ We start every diagnosis with the camera removed, as K&F Concept suggests:
 - **Ball is solid empty but drops with the camera on:** friction, balance or capacity.
 - **Ball is solid but the camera twists:** the plate or clamp.
 
-An [r/photography owner](https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/) describes the classic case: “it "creeps" or slides for a while after I've tightened everything.”
+An r/photography owner describes the classic case: “it "creeps" or slides for a while after I've tightened everything.”
 
 ## Set the friction control first, then lock
 
@@ -177,7 +177,7 @@ Really Right Stuff's BH-30 manual says to "Use more drag for heavy cameras and l
 
 - **Overshoot:** after one test lock, aim that much higher on the next try.
 - **Lock by the head, not the grip:** a Fred Miranda owner saw far more creep when he held the camera body while locking than when he held the head's stem, and traced it to his battery grip flexing.
-- **Separate axes for fine work:** as one r/photography poster says, ["The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head."](https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/) A geared head avoids that; our [ball head vs pan tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) weighs the trade-offs for landscapes.
+- **Separate axes for fine work:** as one r/photography poster says, "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head." A geared head avoids that; our [ball head vs pan tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) weighs the trade-offs for landscapes.
 
 ## Plate, clamp or camera: ball head sag that isn't the ball
 
@@ -195,7 +195,7 @@ Our guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-sw
 
 - **Collar first:** a lens collar (tripod foot) puts the center of gravity over the ball (K&F Concept, Unique Photo).
 - **Size to the real load:** Really Right Stuff rates its 30mm-ball BH-30 at [15 pounds (6.8kg)](https://kb.reallyrightstuff.com/knowledge/bh-30-user-manual), K&F its 28mm head at [22 lb / 10 kg](https://www.kfconcept.com/learning-center/tripod-ball-head-loose); the number alone doesn't predict droop. Some heads use an elliptical ball that adds friction as it tilts; DPReview found it helps but still needs firm friction.
-- **Margin matters:** one [r/AskPhotography owner](https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/) chose a head rated slightly above the rig and still got sag that frustrated them; a friend's next model up, with a much higher capacity, held solid.
+- **Margin matters:** one r/AskPhotography owner chose a head rated slightly above the rig and still got sag that frustrated them; a friend's next model up, with a much higher capacity, held solid.
 
 > **From our notes:** This is research, not a bench test. When we lined up DPReview's ball head results, we expected the cheap heads to creep and the expensive ones to hold. The numbers told a different story. With friction set, every head held the 3.1 kg lens to well under half a percent of the frame over 30 seconds. The difference came the moment the knob closed: one large head moved the frame 7.3%, another barely 0.18%. That changed how we think about this complaint. Most sag isn't a weak ball letting go; it's the lock pushing the ball as it clamps. That is why friction and aim fix more than force.
 

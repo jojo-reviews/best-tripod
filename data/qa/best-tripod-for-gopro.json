@@ -1,18 +1,17 @@
 {
   "slug": "best-tripod-for-gopro",
   "pass": true,
-  "checkedAt": "2026-10-21T14:42:48.497Z",
+  "checkedAt": "2026-10-21T19:50:40.665Z",
   "errors": [],
   "warnings": [
     "product \"GoPro Shorty Mini Extension Pole + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"GoPro 3-Way 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://gopro.com/en/us/news/best-camera-tripods"
+    "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified against GoPro Shorty page (4.6 in folded, 8.9 in extended, fingers mount), GoPro 3-Way 2.0 page (8 in folded, 19.5 in extended, ball joint, waterproof, captive hardware), GoPro tripod guide (Shorty waterproof, MAX Grip 9-22 in), PR Newswire HERO13/HERO release (1/4-20 threads + fingers + magnetic latch, HERO 86g), Xenvo SquidGrip page (1.01 lb, metal Ball Head 360, extra ball joint on plate) and Amazon US listings (Shorty B0755G21GJ, 3-Way 2.0 B092RK7H4C, SquidGrip B06XKX4DPJ in stock with GoPro adapter; GorillaPod Action B00GTZJA7Y currently unavailable). Product selection checked against Improve Photography, FixThePhoto, TheSweetCamera and Suzi Pratt roundups. Owner claims checked against r/gopro thread excerpts (Shorty hinges, loose pole, downward angle; 3-Way stability; thumb-screw grease), Walmart 3-Way review, GoPro Facebook group, GoPro community and the 4-T Tech video transcript. Removed unsourced Xenvo height and railing claims; quotes match brief.",
-    "at": "2026-10-21T10:32:52.104Z",
-    "hash": "bf587f8284605bcd"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:40.314Z",
+    "hash": "b5c8bf262790fcd9"
   }
 }

@@ -120,7 +120,7 @@ Carbon fiber is the better hiking tripod material for most trips: it is lighter,
 
 ## Carbon fiber vs aluminum tripod for hiking – the short answer by trip
 
-**The carbon fiber vs aluminum tripod for hiking choice comes down to how far you carry it.** We sort it by trip, because the maker articles we read give it one line each: [Ulanzi](https://www.ulanzi.com/blogs/guides/carbon-fiber-vs-aluminum-travel-tripods) points "hardcore backpackers" to carbon and rough-terrain shooters to aluminum, and [SmallRig](https://www.smallrig.com/blog/best-travel-tripods-2026-carbon-fiber-vs-aluminum.html) says aluminum fits car-based photography. For model picks at each weight, see our [best hiking tripod picks by pack weight](/blog/best-hiking-tripod/).
+**The carbon fiber vs aluminum tripod for hiking choice comes down to how far you carry it.** We sort it by trip, because the maker articles we read give it one line each: Ulanzi points "hardcore backpackers" to carbon and rough-terrain shooters to aluminum, and SmallRig says aluminum fits car-based photography. For model picks at each weight, see our [best hiking tripod picks by pack weight](/blog/best-hiking-tripod/).
 
 ### Day hike under 5 miles
 
@@ -167,7 +167,7 @@ Aluminum dents and usually keeps working. Carbon can crack when a leg hits rock 
 
 ## Wind and hiking tripod material: does lighter mean shakier?
 
-**Hiking tripod material affects wind behavior in two opposite ways, which is why sources contradict each other.** [Outdoorsmans](https://outdoorsmans.com/blogs/tripods/carbon-fiber-hunting-tripods-vs-aluminum-hunting-tripods) finds aluminum steadier in gusts and calls carbon top-heavy, while [SmallRig](https://www.smallrig.com/blog/best-travel-tripods-2026-carbon-fiber-vs-aluminum.html) and [K&F Concept](https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod) say carbon is steadier.
+**Hiking tripod material affects wind behavior in two opposite ways, which is why sources contradict each other.** Outdoorsmans finds aluminum steadier in gusts and calls carbon top-heavy, while SmallRig and [K&F Concept](https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod) say carbon is steadier.
 
 ### Mass vs damping
 
@@ -177,7 +177,7 @@ Both claims are true for different problems. Mass resists the push of a gust, so
 
 ### Ballast hook and low center column
 
-A ballast hook under the center column turns your pack into mass on demand. Owners on Photography Stack Exchange put it plainly: "Some tripods come with a hook that you can hang your bag on to use for your extra mass, which helps a bit." ([thread](https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod)). That same thread reports "Wind will vibrate across the legs and transmit up to the camera," a recurring complaint there. The fix, in order:
+A ballast hook under the center column turns your pack into mass on demand. Owners on Photography Stack Exchange put it plainly: "Some tripods come with a hook that you can hang your bag on to use for your extra mass, which helps a bit." (thread). That same thread reports "Wind will vibrate across the legs and transmit up to the camera," a recurring complaint there. The fix, in order:
 
 1. Keep the center column down and spread the legs on their thickest sections.
 2. Hang the pack from the hook, or rest it on the ground and tie it taut so it can't swing.
@@ -203,7 +203,7 @@ A monopod or trekking pole conversion lets one item do two jobs; we think leavin
 
 ### Too heavy to carry
 
-This comes up in a [DPReview hiking thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/): one poster with about 7 lb of camera gear, hiking for waterfall shots, wrote that the "Lightest I have found is the Peak Design Carbon Fiber at [around 2.8 pounds](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)." The r/Ultralight thread ["Most ultralight full frame tripod (& not taking one)"](https://www.reddit.com/r/Ultralight/comments/1dy4psz/most_ultralight_full_frame_tripod_not_taking_one/) shows that some packers weigh leaving it behind. Our fix: weigh legs, column and head together, drop the column if you don't need it, and pick carbon with fewer, thicker sections.
+This comes up in a [DPReview hiking thread](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/): one poster with about 7 lb of camera gear, hiking for waterfall shots, wrote that the "Lightest I have found is the Peak Design Carbon Fiber at [around 2.8 pounds](https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/)." The r/Ultralight thread "Most ultralight full frame tripod (& not taking one)" shows that some packers weigh leaving it behind. Our fix: weigh legs, column and head together, drop the column if you don't need it, and pick carbon with fewer, thicker sections.
 
 ### Weighing it down without sandbags
 
@@ -211,11 +211,11 @@ A light tripod dances on moss or scrub, and not every model has room for a pack.
 
 ### Wobbly with a long lens
 
-A lightweight tripod under a 200-600mm class lens comes up on Stack Exchange, and the culprit is often the head. One owner wrote: "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm" ([thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod)). Stay well under the load capacity, mount by the lens collar, keep the column down and, as that thread advises, "Keep out of the wind as that will cause movement of your setup."
+A lightweight tripod under a 200-600mm class lens comes up on Stack Exchange, and the culprit is often the head. One owner wrote: "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm" (thread). Stay well under the load capacity, mount by the lens collar, keep the column down and, as that thread advises, "Keep out of the wind as that will cause movement of your setup."
 
 ### Cold aluminum in winter
 
-A DPReview monopod reply warns: "If you spend a lot of time in sub-freezing temperatures, you need to be careful or your hands or gloves can freeze to the aluminum." ([thread](https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/)). The same reply wrapped the legs in hockey stick or electrician's tape, and two layers fixed the cold-aluminum problem. We think tape adds little weight, so taped aluminum is a fair winter compromise; carbon avoids the problem outright.
+A DPReview monopod reply warns: "If you spend a lot of time in sub-freezing temperatures, you need to be careful or your hands or gloves can freeze to the aluminum." (thread). The same reply wrapped the legs in hockey stick or electrician's tape, and two layers fixed the cold-aluminum problem. We think tape adds little weight, so taped aluminum is a fair winter compromise; carbon avoids the problem outright.
 
 ### Repairs on the trail
 

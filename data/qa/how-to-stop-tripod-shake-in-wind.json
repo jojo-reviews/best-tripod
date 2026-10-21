@@ -1,21 +1,17 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-10-21T07:01:48.309Z",
+  "checkedAt": "2026-10-21T19:50:45.034Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-opened Photography Life (author: hung bag swings, rope/bungee to grounded bag; commenters: ground screw, stone bag, inertia counterargument, hood/strap removal, lee side), G Dan Mitchell (10 lb reader quote, redundant exposures, Point Reyes, hood/strap, lee), Unique Photo and Photography SE 48020 (weights on center pole, head twist, over-provisioned head, shield, remote, IS test, stacking), SE 94720 (wind quote verbatim, hook, spikes/rubber, thick sections first), SE 125034 (Grass is not stable, exposure delay quote verbatim, lens collar, mirror slap), dpreview 4678070 (hook quote verbatim), reddit 15gbgj8 (quote confirmed via search excerpt). Fixed: attributed inertia/sway disagreement correctly, removed unsupported 200-600mm dpreview claim and carbon-damping claim, removed only-first-second and less-leg-and-lens claims, removed field-rule experience wording, reframed From our notes as an explicit made-up case, not a trial. No prices, no named reviewer. Media and numbers backfill 2026-10-21, re-opened via Firecrawl: NWS Miami Beaufort Wind Scale (weather.gov/mfl/beaufort) Force 6 Strong Breeze 25-31 mph, land: \"Large branches in motion; whistling heard in telegraph wires; umbrellas used with difficulty\" (URL added to sources); G Dan Mitchell article: reader quote \"Even hanging 10lb weight did not help\" and \"Even if you had an absolutely rock-solid tripod, in a 40 mph wind your camera and lens will vibrate enough to create a slightly less sharp image\". Cut the Photography Life commenter details (ground screw, inertia) for length. Video 1ekR6cBIQFg (Todd Dominey, \"Wind is the enemy of sharp photos\", 2026, 8:28) checked via Firecrawl: covers column down, hook/stone bag, spikes, lower height, self-timer, shielding, faster shutter. Added 3 AI illustration prompts.",
-    "at": "2026-10-21T06:59:17.487Z",
-    "hash": "cbb8b25297580b10"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:44.669Z",
+    "hash": "654ba563570a3c0a"
   }
 }

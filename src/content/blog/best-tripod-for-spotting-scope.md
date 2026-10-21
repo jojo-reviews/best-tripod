@@ -309,7 +309,7 @@ That drag is what a scope user notices at 60x: the view glides instead of jumpin
 Use maker weights, not guesses:
 
 - **85mm class:** Vortex lists the Vortex Razor HD 27-60x85 angled at [65.6 oz](https://vortexoptics.com/vortex-razor-hd-27-60x85-angled.html). Add a fluid head and you need legs rated far above 3 kg.
-- **56-65mm class:** Vortex lists the Razor HD 13-39x56 at [28.6 oz](https://vortexoptics.com/vortex-razor-hd-13-39x56-spotting-scope.html). With a light pan head that sits comfortably inside the CF-634's rating.
+- **56-65mm class:** Vortex lists the Razor HD 13-39x56 at 28.6 oz. With a light pan head that sits comfortably inside the CF-634's rating.
 - **Digiscoping:** a phone or camera on the eyepiece moves the balance point back, which is where the MVH502AH's sliding plate and counterbalance earn their weight.
 
 The same arithmetic applies to a camera and long lens; our guide to a [tripod for wildlife photography](/blog/tripod-for-wildlife-photography/) runs it for 600mm lenses.
@@ -318,7 +318,7 @@ The same arithmetic applies to a camera and long lens; our guide to a [tripod fo
 
 **A tripod for spotting scope viewing with an angled spotting scope needs less height than you think; a straight spotting scope needs legs that reach close to eye level without the column.** One Rokslide owner put it in one line: "For an angled scope, the shorter tripod will work well. Straight scopes need taller tripods." The angled eyepiece lets you look down into it, so the scope can sit below your eye.
 
-That is a recurring problem in forum threads: buyers pick a compact tripod and then bend over it. The Best Binocular Reviews author, at 5 ft 8 in, says that with his tripod listed at 155 cm and a binocular on top, "I do have to bend my knees slightly". The CF-634 gives [51.6 in with the center column down](https://www.bhphotovideo.com/c/product/1438837-REG/slik_611_895_pro_cf_634_tripod_black.html/reviews), plus the head and the scope's own height, which suits seated glassing and many standing viewers with an angled scope. For seated use on a hillside, one Rokslide hunter notes you need 24-36 in, versus about 9 in on a shooting bench.
+That is a recurring problem in forum threads: buyers pick a compact tripod and then bend over it. The Best Binocular Reviews author, at 5 ft 8 in, says that with his tripod listed at 155 cm and a binocular on top, "I do have to bend my knees slightly". The CF-634 gives 51.6 in with the center column down, plus the head and the scope's own height, which suits seated glassing and many standing viewers with an angled scope. For seated use on a hillside, one Rokslide hunter notes you need 24-36 in, versus about 9 in on a shooting bench.
 
 Raising the column is the tempting fix, but the same thread carries a warning: "Using the center column to get height isn't nearly as stable as 3 legs are." That owner found his column usable only about halfway before it got shaky. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) shows the eye-level arithmetic. The Kowa video below compares straight and angled scopes in real-world use.
 

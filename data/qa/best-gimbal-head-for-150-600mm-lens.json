@@ -1,28 +1,19 @@
 {
   "slug": "best-gimbal-head-for-150-600mm-lens",
   "pass": true,
-  "checkedAt": "2026-10-21T14:41:36.687Z",
+  "checkedAt": "2026-10-21T19:50:37.335Z",
   "errors": [],
   "warnings": [
     "product \"ProMediaGear GKJr. Katana Junior Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley WH-200 Gimbal Head II\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Fotopro E-6H Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley SK-100 Sidekick\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "keyword overlaps /blog/are-cheap-gimbal-heads-any-good/ (\"best gimbal head for 150-600mm lens\" overlaps \"is a cheap gimbal head good enough for a 600mm lens\" (80%))",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1784270/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/full-gimbal-head-vs-wimberley-sidekick.31129/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/z8-nikon-600-f-4e-fl-on-fotopro-e-6h-gimbal.38079/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.reddit.com/r/SonyAlpha/comments/190gqt0/best_way_to_keep_a_camera_with_a_heavy_lens/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
-    "source didn't respond normally (403): https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/"
+    "keyword overlaps /blog/are-cheap-gimbal-heads-any-good/ (\"best gimbal head for 150-600mm lens\" overlaps \"is a cheap gimbal head good enough for a 600mm lens\" (80%))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-21 via Firecrawl: Katana Junior 2.4 lb, 50 lb, 9.75 in, 8.48 in, sealed bearings, PX6 plate, 3/8-16, below-freezing rating and the 60 mm clamp owner review on promediagear.com product page; side mount 1.8 lb and first-choice status on shuttermuse.com best-gimbal-tripod-heads. WH-200 3.15 lb (1430 g), >100 lb (45 kg), 9.25 in height, built-in Arca clamp on tripodhead.com WH-Specs. Sidekick 1.3 lb (590 g), >100 lb limited to ball head panning capacity, 9.5x5x2.5 in on tripodhead.com sidekick-specs; separate pan lock + Arca clamp requirement on Shutter Muse. Fotopro E-6H 22.05 lb/10 kg, 7.5 in, 3/8-16, bubble level on B&H; 1.03 kg and magnesium aluminum alloy on fotoprogear.com; 911 g/700 g measured, 180-degree arm, click stops, toolless cradle/side mount and 100-400mm suitability on Shutter Muse. Sigma 150-600 C 1,930 g / 68.1 oz on sigmaphoto.com. Owner claims checked in FredMiranda topic 1784270 (Katana sub-zero, galenapass quote verbatim, E-6H arm too short vs Kirk foot fine, Sidekick with 200-600), BCG Sidekick thread (leverage, loading, spacer plate, 500/4 and 400/2.8 use), BCG E-6H thread (WH-200 owner, clearance relay), Talk Photography gimbal thread (WH-200 vs 393/Lensmaster, long plate), DPReview Sigma 150-600 thread (balance at mid zoom). Amazon dp titles opened for B07C2C17DJ and B07MC21WHH; B005JXEZEK and B006NS93GK titles from Amazon search results. Pain-point thread claims (Photo Stack Exchange, r/SonyAlpha 3x, r/weddingvideography wobble, DPReview 180-600 bulk) carried from data/pain-points.json, paraphrased, not quoted.",
-    "at": "2026-10-21T10:33:19.076Z",
-    "hash": "d6e367fac085571c"
+    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
+    "at": "2026-10-21T19:50:36.987Z",
+    "hash": "ec69a30ba0af0baa"
   }
 }

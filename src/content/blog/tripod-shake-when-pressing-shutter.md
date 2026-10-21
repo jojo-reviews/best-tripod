@@ -127,7 +127,7 @@ Tripod shake when pressing shutter has two sources: your finger, and the camera'
 5. Image stabilization off on the tripod.
 6. Mirror lock-up on a DSLR.
 
-It is a recurring question on Photography Stack Exchange, and one answer sums up the cheap route: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." ([thread](https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod)). If your frames blur in gusts rather than at the press, that is a different problem, covered in our guide to [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).
+It is a recurring question on Photography Stack Exchange, and one answer sums up the cheap route: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." (thread). If your frames blur in gusts rather than at the press, that is a different problem, covered in our guide to [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).
 
 ## Match the shutter shake to its cause
 
@@ -143,7 +143,7 @@ This table pairs each cause of camera shake on a tripod with what it looks like 
 | Stabilization left on | Smear or drift in long exposures | IS and IBIS off |
 | Long lens, raised column, small head | Image still moving seconds after a touch | Longer delay, better support |
 
-The band of shutter speeds matters too. In a [DPReview thread](https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/) owners name different danger zones for mirror and shutter shake: about 1/4 to 1/30 second for one, from a fiftieth of a second to 2 seconds for another, and from 2 seconds to a five-hundredth at 200mm and longer for a third. A Sony A7R example in the Photography Life piece blurs from shutter shock [at 1/10 second](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod). Very long exposures dilute a brief jolt, and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first.
+The band of shutter speeds matters too. In a DPReview thread owners name different danger zones for mirror and shutter shake: about 1/4 to 1/30 second for one, from a fiftieth of a second to 2 seconds for another, and from 2 seconds to a five-hundredth at 200mm and longer for a third. A Sony A7R example in the Photography Life piece blurs from shutter shock [at 1/10 second](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod). Very long exposures dilute a brief jolt, and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first.
 
 ## Fix 1 – Use the self-timer, timed to settle
 
@@ -184,7 +184,7 @@ The full electronic shutter removes curtain movement entirely, which suits stati
 
 **Image stabilization is built to correct a moving camera, and on a locked-down tripod it can add the movement you were trying to remove.** Canon's knowledge base says to set the lens STABILIZER switch to OFF for Bulb exposures because it "may introduce errors", and adds that on a tripod it may sometimes be better off ([Canon](https://support.usa.canon.com/kb/s/article/ART110191)). Photography Life tells readers to switch lens IS or VR off and turn IBIS off in the body menu (Sony calls it SteadyShot).
 
-This is the fix owners forget. In an [RF Shooters thread](https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/), a shooter used a 10-second delay and electronic first curtain, yet 200mm frames smeared while 70mm frames were fine; his 70-200 had its stabilizer on. Replies pointed straight at it: "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image." Another owner with blurry long exposures on two bodies wrote: "Turning off IS solved the problem."
+This is the fix owners forget. In an RF Shooters thread, a shooter used a 10-second delay and electronic first curtain, yet 200mm frames smeared while 70mm frames were fine; his 70-200 had its stabilizer on. Replies pointed straight at it: "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image." Another owner with blurry long exposures on two bodies wrote: "Turning off IS solved the problem."
 
 Check both switches. One R6 Mark II owner in that thread found the lens IS switch also turns off IBIS with his stabilized lenses, but with a lens that has no IS switch he must turn IBIS off in the menu. The exceptions are real: some Nikon super-telephoto VR is designed for tripod use, a boat is not a stable platform, and one Stack Exchange answer suggests trying OSS if vibration persists. Follow your lens manual.
 
@@ -196,7 +196,7 @@ Check both switches. One R6 Mark II owner in that thread found the lens IS switc
 
 ## When camera shake on a tripod is really the support
 
-**If the image keeps moving for seconds after a tap, the shutter press is only the trigger and the support is the problem.** The raised center column is a recurring complaint in [r/AskPhotography](https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/): the column prolongs the vibration from tripping the shutter, and a DPReview reply says it contributes significantly to tripod sway. We keep the center column down and choose legs that reach eye-level height without the center column, as our [tripod height guide](/blog/how-tall-should-a-tripod-be-for-my-height/) explains.
+**If the image keeps moving for seconds after a tap, the shutter press is only the trigger and the support is the problem.** The raised center column is a recurring complaint in r/AskPhotography: the column prolongs the vibration from tripping the shutter, and a DPReview reply says it contributes significantly to tripod sway. We keep the center column down and choose legs that reach eye-level height without the center column, as our [tripod height guide](/blog/how-tall-should-a-tripod-be-for-my-height/) explains.
 
 A light tripod under a heavy telephoto is the other trap. One Stack Exchange owner with a 200-600mm and a 2x converter wrote: "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm". The answers: keep the legs short, mount the lens collar foot on the tripod head rather than the camera body, and consider a gimbal head that balances the lens. For a body in portrait orientation, the DPReview thread recommends an L-plate that keeps the camera centered, which needs an [Arca-Swiss plate and clamp](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/).
 
