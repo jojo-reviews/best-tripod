@@ -1,13 +1,14 @@
 {
   "slug": "twist-lock-vs-flip-lock-tripod-legs",
   "pass": true,
-  "checkedAt": "2026-10-21T07:01:59.830Z",
+  "checkedAt": "2026-10-21T14:43:49.221Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "keyword overlaps /blog/tripod-leg-lock-wont-hold/ (\"twist lock vs flip lock tripod legs\" overlaps \"tripod leg lock won't hold\" (75%))",
+    "source didn't respond normally (503): https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
     "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
     "source didn't respond normally (403): https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",

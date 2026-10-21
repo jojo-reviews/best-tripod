@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-20T15:05:39.057Z",
+  "checkedAt": "2026-10-21T14:45:29.390Z",
   "errors": [],
   "warnings": [
+    "source didn't respond normally (503): https://www.manfrotto.com/ca-en/290-xtra-alu-3-section-tripod-kit-with-128rc-fluid-head-mk290xta3-2w/",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175940-REG/manfrotto_mk290xta3_2wus_290_xtra_fluid_video.html",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1779104-REG/neewer_66602212_tp74_pro_video_tripod.html",
     "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47255",

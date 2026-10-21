@@ -1,11 +1,16 @@
 {
   "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
   "pass": true,
-  "checkedAt": "2026-10-21T10:38:21.886Z",
+  "checkedAt": "2026-10-21T14:43:16.642Z",
   "errors": [],
   "warnings": [
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/explora/photography/buying-guide/which-joby-gorillapod-is-best-for-you",
+    "source didn't respond normally (503): https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/",
+    "source didn't respond normally (503): https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications"
   ],
   "factCheck": {
     "verified": true,
