@@ -297,7 +297,7 @@ sources:
   - title: 'Markus Hagner Photography: Best tabletop tripods for product photography'
     url: >-
       https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: How high should a webcam or camera be for video calls?
     a: >-
@@ -334,6 +334,7 @@ heroAlt: >-
   Best Mini Tripod for Desk Video Calls – 3 Picks for 2026 – Best Tripod buying
   guide
 related:
+  - best-tripod-for-gopro
   - what-is-an-arca-swiss-plate-and-do-i-need-one
   - best-tripod-for-tall-photographers-over-6-feet
 ---

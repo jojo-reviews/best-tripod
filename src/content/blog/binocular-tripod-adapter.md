@@ -258,6 +258,7 @@ faqs:
       post on a different adapter made binoculars harder to pull out.
 author: editorial-team
 related:
+  - best-tripod-for-spotting-scope
   - video-tripod-bowl-size-explained-75mm-vs-100mm
   - what-is-an-arca-swiss-plate-and-do-i-need-one
   - ball-head-vs-pan-tilt-head-for-landscape-photography

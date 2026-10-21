@@ -1591,7 +1591,7 @@
     "note": "2026-10-19: top 10 is maker/shop collection pages; one editorial roundup (Digital Camera World)."
   },
   {
-    "status": "deferred",
+    "status": "merged",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1615,7 +1615,8 @@
       "date": "2026-10-19"
     },
     "slug": "spotting-scope-tripod",
-    "note": "2026-10-19 SERP gate: 1 model on 2+ pages."
+    "note": "2026-10-19 SERP gate: 1 model on 2+ pages.",
+    "mergedInto": "best-tripod-for-spotting-scope"
   },
   {
     "status": "rejected",
@@ -2237,7 +2238,7 @@
     "slug": "monopod-for-gimbal-head"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.386Z",
     "secondaryKeywords": [
@@ -2259,7 +2260,8 @@
     "cluster": "optics tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): blogs scopesfield, backwoodspursuit, bestbinocularsreviews, transcontinenta plus r/birding, Rokslide forum and a Facebook group; 3 maker/retailer pages (Tricer, Vanguard, Optics4Birding). Weak and forum-heavy; winnable. Queue has deferred head term \"spotting scope tripod\" (same topic, now covered by this longer phrase); keep it off binocular adapters.",
-    "slug": "best-tripod-for-spotting-scope"
+    "slug": "best-tripod-for-spotting-scope",
+    "publishedAt": "2026-10-21T10:34:24.041Z"
   },
   {
     "status": "pending",
@@ -2337,7 +2339,7 @@
     "slug": "best-tripod-for-macro-photography"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2359,7 +2361,8 @@
     "cluster": "action camera tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): 4 store/maker pages (Amazon, Best Buy, Walmart, GoPro) but r/gopro, two Facebook groups, YouTube and improvephotography also rank. Borderline store share; kept because the articles ranking are thin and forum based. Queue has deferred \"gopro tripod mount\" (adapter intent): keep this on tripod choice.",
-    "slug": "best-tripod-for-gopro"
+    "slug": "best-tripod-for-gopro",
+    "publishedAt": "2026-10-21T10:34:23.061Z"
   },
   {
     "status": "pending",

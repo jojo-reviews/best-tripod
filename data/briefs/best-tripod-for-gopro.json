@@ -1,0 +1,476 @@
+{
+  "centralEntity": "tripod for GoPro",
+  "entityVariants": [
+    "GoPro tripod",
+    "mini tripod for GoPro",
+    "flexible tripod for GoPro",
+    "GoPro extension pole tripod",
+    "action camera tripod",
+    "GoPro grip tripod"
+  ],
+  "entities": [
+    {
+      "name": "GoPro Shorty",
+      "type": "product",
+      "relation": "pocket mini extension pole and tripod"
+    },
+    {
+      "name": "GoPro 3-Way 2.0",
+      "type": "product",
+      "relation": "grip, extension arm and fold-out tripod"
+    },
+    {
+      "name": "Xenvo SquidGrip",
+      "type": "product",
+      "relation": "flexible-leg tripod with metal ball head and GoPro adapter"
+    },
+    {
+      "name": "JOBY GorillaPod Action Tripod",
+      "type": "product",
+      "relation": "most-cited flexible GoPro tripod, currently unavailable on Amazon US"
+    },
+    {
+      "name": "GoPro Volta",
+      "type": "product",
+      "relation": "battery grip with tripod legs and remote"
+    },
+    {
+      "name": "GoPro MAX Grip + Tripod",
+      "type": "product",
+      "relation": "9 to 22 in grip and tripod for 360 cameras"
+    },
+    {
+      "name": "GoPro HERO13 Black",
+      "type": "camera",
+      "relation": "mounting fingers, 1/4-20 thread and magnetic latch"
+    },
+    {
+      "name": "mounting fingers",
+      "type": "standard",
+      "relation": "GoPro's two-prong mount secured by a thumb screw"
+    },
+    {
+      "name": "1/4\"-20 thread",
+      "type": "standard",
+      "relation": "standard tripod screw; needs an adapter on older GoPros"
+    },
+    {
+      "name": "GoPro tripod mount adapter",
+      "type": "accessory",
+      "relation": "converts fingers to 1/4-20 for any tripod"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "angle control on mini tripods"
+    },
+    {
+      "name": "extension pole",
+      "type": "accessory type",
+      "relation": "selfie and follow shots"
+    }
+  ],
+  "attributes": [
+    "folded length",
+    "extended height",
+    "weight",
+    "mount type (fingers vs 1/4-20)",
+    "ball joint or ball head",
+    "waterproof",
+    "flexible legs",
+    "leg lock",
+    "stability on uneven ground",
+    "wind resistance"
+  ],
+  "ngrams": [
+    "tripod for gopro",
+    "gopro tripod",
+    "mini tripod",
+    "extension pole",
+    "flexible legs",
+    "ball head",
+    "tripod mount",
+    "mounting fingers",
+    "1/4-20 thread",
+    "thumb screw",
+    "time lapse",
+    "selfie stick",
+    "waterproof",
+    "group shots"
+  ],
+  "skipgrams": [
+    "gopro…tripod mount",
+    "tripod…tip over",
+    "legs…wrap",
+    "pole…extends",
+    "thumb screw…tighten",
+    "ball…head",
+    "shorty…pocket",
+    "folded…inches"
+  ],
+  "nlpTerms": [
+    "action camera",
+    "HERO13 Black",
+    "HyperSmooth",
+    "time-lapse",
+    "vlogging",
+    "selfie",
+    "railing",
+    "branch",
+    "uneven ground",
+    "wind",
+    "snorkeling",
+    "hiking",
+    "backpack",
+    "adapter",
+    "quick release",
+    "buckle",
+    "magnetic latch",
+    "grip"
+  ],
+  "questions": [
+    "What tripod works with a GoPro?",
+    "Do I need an adapter to put a GoPro on a tripod?",
+    "Is the GoPro Shorty worth it?",
+    "Are flexible tripods good for GoPro?",
+    "How tall should a GoPro tripod be?",
+    "Can a GoPro go on a regular camera tripod?"
+  ],
+  "contentGaps": [
+    "HERO13 Black has a built-in 1/4-20 thread, so newer cameras need no adapter",
+    "real working height of pocket tripods (4.6 to 19.5 in) versus a full-size tripod",
+    "why light GoPro tripods tip over and how to steady them",
+    "durability complaints about pocket tripod hinges",
+    "matching the tripod type to the shot: pocket, grip-arm, wrap-around, full height"
+  ],
+  "outline": [
+    {
+      "h2": "Best Tripod for GoPro – Quick Picks",
+      "intent": "fast answer",
+      "h3": []
+    },
+    {
+      "h2": "GoPro Tripod Comparison Table",
+      "intent": "scan specs",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose These GoPro Tripods",
+      "intent": "trust and method",
+      "h3": []
+    },
+    {
+      "h2": "The 3 Best Tripods for GoPro",
+      "intent": "product reviews",
+      "h3": [
+        "GoPro Shorty",
+        "GoPro 3-Way 2.0",
+        "Xenvo SquidGrip"
+      ]
+    },
+    {
+      "h2": "Do You Need an Adapter to Put a GoPro on a Tripod?",
+      "intent": "mount types",
+      "h3": []
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "pain points",
+      "h3": [
+        "The camera droops after a bump",
+        "The tripod tips over",
+        "Pocket tripod hinges crack"
+      ]
+    },
+    {
+      "h2": "Pocket, Grip, Flexible or Full-Size – Which GoPro Tripod Type?",
+      "intent": "buying guide",
+      "h3": []
+    },
+    {
+      "h2": "Verdict",
+      "intent": "close",
+      "h3": []
+    }
+  ],
+  "targetWords": 1650,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://improvephotography.com/72078/best-gopro-tripod/",
+      "https://fixthephoto.com/best-gopro-tripod.html",
+      "https://thesweetcamera.com/best-gopro-tripod/",
+      "https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/",
+      "https://gopro.com/en/us/news/best-camera-tripods"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Improve Photography and FixThePhoto show pros and cons lists per product; TheSweetCamera uses spec bullets plus a verdict.",
+    "avgWords": 1650,
+    "avgProducts": 6,
+    "commonSections": [
+      "product list",
+      "buying guide (size, weight, flexibility, extension)",
+      "FAQ on mounting a GoPro to a tripod"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/gopro-tripod/s?k=gopro+tripod",
+      "title": "Gopro Tripod - Amazon.com"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/gopro/comments/w45p0r/tripod_recommendations/",
+      "title": "Tripod recommendations : r/gopro - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.bestbuy.com/site/shop/gopro-tripod",
+      "title": "GoPro Tripod - Best Buy"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=71WXM9AZCUQ&vl=en",
+      "title": "10 BEST GoPro Accessories You Actually Need in 2025 - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/gopro.hero.group/posts/4530516203841510/",
+      "title": "Any good tripods for GoPro with 1.2m height? - Facebook"
+    },
+    {
+      "position": 6,
+      "url": "https://gopro.com/en/us/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html",
+      "title": "Max Grip + Tripod - 360 Camera Pole + Extended Tripod - GoPro"
+    },
+    {
+      "position": 7,
+      "url": "https://improvephotography.com/72078/best-gopro-tripod/",
+      "title": "Best GoPro Tripod - Improve Photography"
+    },
+    {
+      "position": 8,
+      "url": "https://www.walmart.com/c/kp/gopro-flexible-tripod",
+      "title": "Gopro Flexible Tripod - Walmart"
+    },
+    {
+      "position": 9,
+      "url": "https://gopro.com/en/us/news/best-camera-tripods",
+      "title": "Best GoPro Action Camera Tripods in 2024"
+    },
+    {
+      "position": 10,
+      "url": "https://www.facebook.com/groups/goprofilmmakers/posts/2384389892064840/",
+      "title": "What are the best tripods with flexible legs for GoPro 10 Black? - Facebook"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "best",
+      "GoPro tripod",
+      "flexible",
+      "mini"
+    ],
+    "gap": "No top title uses the exact phrase or sorts picks by shot type (pocket, grip-arm, wrap-around) or mentions that new GoPros take a tripod screw directly."
+  },
+  "commonPoints": [
+    "GoPros are light and need a stable base for time-lapse and stationary shots",
+    "The GoPro Shorty is the pocket pick",
+    "Flexible-leg tripods wrap around railings and branches",
+    "Older GoPros need a tripod mount adapter for a standard tripod",
+    "Choose by size, weight and how far it extends"
+  ],
+  "ourGain": [
+    {
+      "point": "HERO13 Black has 1/4-20 threads built in, so the adapter question depends on the camera model",
+      "source": "GoPro HERO13 Black press release (PR Newswire)"
+    },
+    {
+      "point": "Real heights side by side: Shorty 4.6 to 8.9 in, 3-Way 2.0 8 to 19.5 in, so none replaces a full tripod for eye-level shots",
+      "source": "GoPro product pages"
+    },
+    {
+      "point": "Owner durability reports: Shorty hinge cracks and loose pole, 3-Way swivel that won't tighten",
+      "source": "r/gopro threads, GoPro Hero Facebook group"
+    },
+    {
+      "point": "Why light GoPro tripods tip over, and fixes: balance the load, keep the arm short, wrap flexible legs",
+      "source": "Walmart 3-Way 2.0 reviews, r/gopro, 4-T Tech video"
+    },
+    {
+      "point": "The most-cited flexible pick (JOBY GorillaPod Action) is currently unavailable on Amazon US, so we name an in-stock alternative",
+      "source": "Improve Photography, FixThePhoto, TheSweetCamera, Amazon listing status"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tabletop-mini-tripods-gopro-mount-droops",
+      "pain": "The GoPro won't stay where you aimed it and droops or swings after a bump",
+      "details": "Thumb screws and swivels that won't hold the angle on grips and mini tripods.",
+      "sources": [
+        "https://www.reddit.com/r/gopro/comments/w7xizp/my_gopro_wont_stay_in_position_and_after_a_bump/",
+        "https://www.reddit.com/r/gopro/comments/3849ld/gopro_screw_on_mounts_is_loose/",
+        "https://www.facebook.com/groups/gopro.hero.group/posts/3518055891754218/"
+      ],
+      "quotes": [
+        {
+          "text": "Put a small dab of grease on the threads and you should be able to get them much tighter by hand.",
+          "url": "https://www.reddit.com/r/gopro/comments/3849ld/gopro_screw_on_mounts_is_loose/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-gopro-tripod-tips-over",
+      "pain": "A light GoPro tripod tips over in a breeze, on uneven ground or when the camera is angled down",
+      "details": "Small grip-tripods tip unless the load is balanced; pole tripods fall in wind.",
+      "sources": [
+        "https://www.reddit.com/r/gopro/comments/1eplrr3/tripod_for_downward_pointing_gopro/",
+        "https://www.walmart.com/ip/GoPro-3-Way-Grip-2-0-Camera-Grip-Extension-Arm-Tripod-20/5300974196"
+      ],
+      "quotes": [
+        {
+          "text": "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate.",
+          "url": "https://www.walmart.com/ip/GoPro-3-Way-Grip-2-0-Camera-Grip-Extension-Arm-Tripod-20/5300974196"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-gopro-adapter-to-tripod",
+      "pain": "Connecting a GoPro to a regular tripod needs an adapter, and cheap adapters break or jam",
+      "details": "Older GoPros need a fingers-to-1/4-20 adapter; cheap ones fall apart or get stuck.",
+      "sources": [
+        "https://www.reddit.com/r/gopro/comments/1edmlq5/how_can_i_connect_this_to_my_tripod_that_i/",
+        "https://www.reddit.com/r/gopro/comments/1fz6wi6/stucked_tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "Literally just gently attached it on the tripod and then when attaching the gopro to the mount it just fell apart.",
+          "url": "https://www.reddit.com/r/gopro/comments/1edmlq5/how_can_i_connect_this_to_my_tripod_that_i/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-gopro-mini-tripod-legs-break",
+      "pain": "Pocket GoPro tripods loosen or crack at the leg hinges within a year",
+      "details": "Shorty owners report snapped legs, hinge cracks and a pole that stays loose.",
+      "sources": [
+        "https://www.reddit.com/r/gopro/comments/ldov2l/ulanzi_mt09_mini_tripod_vs_gopro_shorty/",
+        "https://www.reddit.com/r/gopro/comments/13lerai/shorty_loose/",
+        "https://www.reddit.com/r/gopro/comments/1si59k7/gopro_shorty_vs_longer_3rd_party_sticks_for/"
+      ],
+      "quotes": [
+        {
+          "text": "There is no \"locking\" mechanism on the shorty unlike other telescoping mounts, so once it's loose, it stays loose.",
+          "url": "https://www.reddit.com/r/gopro/comments/13lerai/shorty_loose/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "4.6 in to 8.9 in",
+      "claim": "GoPro Shorty folded length and extended length",
+      "url": "https://gopro.com/en/us/shop/mounts-accessories/shorty/AFTTM-001.html",
+      "quote": "Extend Shorty up to 8.9in (22.7cm) for group shots, selfies and other hard-to-reach angles"
+    },
+    {
+      "number": "19.5 in",
+      "claim": "GoPro 3-Way 2.0 fully extended; collapses to 8 in",
+      "url": "https://gopro.com/en/us/shop/mounts-accessories/3-way-2.0/AFAEM-002.html",
+      "quote": "Measures 19.5in (49.53cm) when fully extended and collapses to 8in (20.32cm)"
+    },
+    {
+      "number": "1.01 pounds",
+      "claim": "Xenvo SquidGrip item weight",
+      "url": "https://www.xenvopro.com/pdp/squidgrip/",
+      "quote": "1.01 pounds Item Weight"
+    },
+    {
+      "number": "86g",
+      "claim": "GoPro HERO camera weight",
+      "url": "https://www.prnewswire.com/news-releases/gopro-announces-two-new-cameras-the-399-hero13-black-and-the-199-hero-302237823.html",
+      "quote": "Ultra Compact Design, Weighing Only 86g"
+    },
+    {
+      "number": "three ways",
+      "claim": "HERO13 Black mounts by fingers, 1/4-20 threads or magnetic latch",
+      "url": "https://www.prnewswire.com/news-releases/gopro-announces-two-new-cameras-the-399-hero13-black-and-the-199-hero-302237823.html",
+      "quote": "Joins built-in mounting fingers and 1/4-20 mounting threads for three ways to mount HERO13 Black."
+    },
+    {
+      "number": "9 and 22in",
+      "claim": "GoPro MAX Extended Grip + Tripod height range",
+      "url": "https://gopro.com/en/us/news/best-camera-tripods",
+      "quote": "the MAX Extended Grip + Tripod reaches between 9 and 22in with an extension pole that locks into place with a quick twist"
+    }
+  ],
+  "videos": [
+    {
+      "id": "QW-DCmRaYXk",
+      "title": "Is the GoPro 3 Way 2.0 any good? A Unbiased Review",
+      "channel": "4-T Tech",
+      "url": "https://www.youtube.com/watch?v=QW-DCmRaYXk",
+      "section": "Problems Owners Run Into, and the Fix"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "GoPro Shorty",
+      "pages": [
+        "https://improvephotography.com/72078/best-gopro-tripod/",
+        "https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/",
+        "https://fixthephoto.com/best-gopro-tripod.html",
+        "https://thesweetcamera.com/best-gopro-tripod/"
+      ]
+    },
+    {
+      "name": "JOBY GorillaPod Action Tripod (unavailable on Amazon US, not featured)",
+      "pages": [
+        "https://improvephotography.com/72078/best-gopro-tripod/",
+        "https://fixthephoto.com/best-gopro-tripod.html",
+        "https://thesweetcamera.com/best-gopro-tripod/"
+      ]
+    },
+    {
+      "name": "GoPro 3-Way 2.0 (named by TheSweetCamera and Digital Trends; Suzi Pratt reviews the original 3-Way)",
+      "pages": [
+        "https://thesweetcamera.com/best-gopro-tripod/",
+        "https://www.digitaltrends.com/photography/best-gopro-accessories/",
+        "https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/"
+      ]
+    },
+    {
+      "name": "Xenvo SquidGrip",
+      "pages": [
+        "https://fixthephoto.com/best-gopro-tripod.html",
+        "https://thesweetcamera.com/best-gopro-tripod/",
+        "https://happygoabi.com/best-tripods-for-gopro/"
+      ]
+    },
+    {
+      "name": "UBeesize Tripod S (dropped: the two pages point to different listings)",
+      "pages": [
+        "https://fixthephoto.com/best-gopro-tripod.html",
+        "https://thesweetcamera.com/best-gopro-tripod/"
+      ]
+    },
+    {
+      "name": "GoPro MAX Grip + Tripod (one independent page)",
+      "pages": [
+        "https://improvephotography.com/72078/best-gopro-tripod/"
+      ]
+    },
+    {
+      "name": "GoPro Volta (one independent page)",
+      "pages": [
+        "https://fixthephoto.com/best-gopro-tripod.html"
+      ]
+    }
+  ]
+}
