@@ -317,6 +317,7 @@ heroAlt: >-
   Best Video Tripod With Fluid Head for Beginners – 3 Picks (2026) – Best Tripod
   buying guide
 related:
+  - video-tripod-bowl-size-explained-75mm-vs-100mm
   - ball-head-tripod
   - best-mini-tripod-for-desk-video-calls
   - best-phone-tripod-for-vlogging-with-remote

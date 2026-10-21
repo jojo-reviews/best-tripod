@@ -1,0 +1,447 @@
+{
+  "centralEntity": "video tripod bowl size",
+  "entityVariants": [
+    "video tripod bowl size explained 75mm vs 100mm",
+    "75mm vs 100mm bowl",
+    "100mm or 75mm bowl",
+    "tripod bowl mount sizes",
+    "half ball size",
+    "bowl diameter",
+    "75mm bowl tripod",
+    "100mm bowl tripod"
+  ],
+  "entities": [
+    {
+      "name": "75mm bowl",
+      "type": "standard",
+      "relation": "smaller half-ball mount for light and mid-size video rigs; most common on prosumer legs"
+    },
+    {
+      "name": "100mm bowl",
+      "type": "standard",
+      "relation": "larger half-ball mount for heavier rigs; more contact area, heavier heads"
+    },
+    {
+      "name": "150mm bowl",
+      "type": "standard",
+      "relation": "broadcast and cinema size above 100mm"
+    },
+    {
+      "name": "half ball",
+      "type": "component",
+      "relation": "the rounded base of a fluid head or adapter that sits in the bowl"
+    },
+    {
+      "name": "tie-down",
+      "type": "component",
+      "relation": "threaded handle under the bowl that locks the half ball; length must suit the bowl and any adapter"
+    },
+    {
+      "name": "flat base",
+      "type": "mount",
+      "relation": "head with a 3/8\"-16 thread on a flat platform; leveled by legs or a leveling base"
+    },
+    {
+      "name": "bowl reducer",
+      "type": "accessory",
+      "relation": "lets a 75mm head sit in a 100mm bowl; no adapter makes a 100mm head fit 75mm legs"
+    },
+    {
+      "name": "leveling base",
+      "type": "accessory",
+      "relation": "turns a flat-base tripod or head into a bowl setup"
+    },
+    {
+      "name": "Mitchell mount",
+      "type": "mount",
+      "relation": "flat keyed cine mount; adapters exist to and from bowls"
+    },
+    {
+      "name": "fluid head",
+      "type": "head type",
+      "relation": "video head whose base is either a half ball or flat"
+    },
+    {
+      "name": "counterbalance",
+      "type": "feature",
+      "relation": "sized to payload, which also sets bowl size"
+    },
+    {
+      "name": "payload",
+      "type": "attribute",
+      "relation": "drives the bowl choice more than the bowl itself"
+    },
+    {
+      "name": "twin-tube legs",
+      "type": "attribute",
+      "relation": "rigidity often matters more than bowl diameter"
+    },
+    {
+      "name": "Gitzo Systematic",
+      "type": "accessory",
+      "relation": "photo tripods that take a 75mm (Series 2-4) or 75/100mm (Series 5) bowl"
+    }
+  ],
+  "attributes": [
+    "bowl diameter",
+    "payload range",
+    "legs-only weight",
+    "transport length",
+    "head weight",
+    "tie-down length",
+    "leveling speed",
+    "minimum height with spreader",
+    "adapter play",
+    "leg rigidity"
+  ],
+  "ngrams": [
+    "75mm bowl",
+    "100mm bowl",
+    "bowl size",
+    "half ball",
+    "tie down",
+    "fluid head",
+    "flat base",
+    "bowl adapter",
+    "level the head",
+    "payload range",
+    "video tripod legs",
+    "150mm bowl"
+  ],
+  "skipgrams": [
+    "bowl…diameter",
+    "75mm…head",
+    "100mm…legs",
+    "half ball…level",
+    "tie…down",
+    "adapter…play",
+    "payload…headroom",
+    "flat…base",
+    "bowl…adapter",
+    "rig…weight"
+  ],
+  "nlpTerms": [
+    "hemisphere",
+    "leveling",
+    "bubble",
+    "payload",
+    "counterbalance",
+    "drag",
+    "twin-tube",
+    "spreader",
+    "slider",
+    "Mitchell",
+    "reducer",
+    "headroom",
+    "sticks",
+    "torsional"
+  ],
+  "questions": [
+    "What does 75mm bowl mean on a tripod?",
+    "Is 75mm or 100mm bowl better?",
+    "Can I put a 100mm head on 75mm legs?",
+    "Can I put a 75mm head on a 100mm bowl?",
+    "How do I measure my tripod bowl size?",
+    "Do I need a bowl base for video?",
+    "Can you put a fluid head on a flat base tripod?",
+    "How much payload headroom do I need?"
+  ],
+  "contentGaps": [
+    "Adapters only work one way: 75mm heads into 100mm bowls, never 100mm heads onto 75mm legs",
+    "How to measure a bowl when the inner ring reads smaller than the nominal size",
+    "Same-family spec comparison: the 100mm legs add little weight and no packed length; the head and payload are the real difference",
+    "Leg design (twin-tube vs single-tube) can matter more than bowl diameter",
+    "Tie-down length and adapter play problems owners hit",
+    "Photo tripods that take a 75mm or 100mm bowl (Gitzo Systematic) for long-lens shooters"
+  ],
+  "outline": [
+    {
+      "h2": "Video tripod bowl size explained: 75mm vs 100mm in one minute",
+      "intent": "direct answer with comparison table",
+      "h3": []
+    },
+    {
+      "h2": "What the bowl number measures, and how to check yours",
+      "intent": "definition + measuring",
+      "h3": []
+    },
+    {
+      "h2": "75mm vs 100mm bowl by rig weight",
+      "intent": "decision by payload, leg design, ourGain specs",
+      "h3": []
+    },
+    {
+      "h2": "Bowl adapters only work one way",
+      "intent": "pain points: 100mm head on 75mm legs, adapter play, tie-down length",
+      "h3": []
+    },
+    {
+      "h2": "Flat base vs bowl base: do you need a bowl at all?",
+      "intent": "flat vs half ball, half ball adapters, bowl heads on sliders, photo tripods with bowls",
+      "h3": []
+    },
+    {
+      "h2": "Which bowl size should you buy?",
+      "intent": "verdict closing the opening scene, next links",
+      "h3": []
+    }
+  ],
+  "targetWords": 800,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.dvinfo.net/forum/tripod-sticks-heads/506379-100mm-vs-75mm-bowls.html",
+      "https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod",
+      "https://blog.expresswaycine.com/tripod-heads-an-overview/",
+      "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/",
+      "https://www.dpreview.com/forums/threads/tripod-bowl-adapter-whats-the-purpose.4492018/",
+      "https://www.globalmediapro.com/content/ChooseTripodHead",
+      "https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/ (snippet)"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result is a product roundup: four are forum threads, two YouTube, three explainers (B&H, Expressway, Globalmediapro) and one wolfcrow list. The post is a guide without picks.",
+    "avgWords": 740,
+    "avgProducts": 0,
+    "commonSections": [
+      "Standard sizes 75/100/150mm",
+      "Bigger rig, bigger bowl",
+      "Bowl levels faster than legs",
+      "Match head ball to leg bowl",
+      "Adapters exist"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/",
+      "title": "100mm or 75mm bowls for 10kg rig? : r/Filmmakers - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=89nPifVW9RY",
+      "title": "100mm vs 75mm Tripod Systems | Flowtech 100 - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.dvinfo.net/forum/tripod-sticks-heads/506379-100mm-vs-75mm-bowls.html",
+      "title": "100mm vs. 75mm bowls? at DVinfo.net"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod",
+      "title": "What to Consider When Buying a Video Tripod | B&H eXplora"
+    },
+    {
+      "position": 5,
+      "url": "https://blog.expresswaycine.com/tripod-heads-an-overview/",
+      "title": "Tripod Heads: An Overview | Expressway Cinema Rentals"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=bDz1wUlT6uY",
+      "title": "Standard VS 75mm Bowl Tripods: Differences - YouTube"
+    },
+    {
+      "position": 7,
+      "url": "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/",
+      "title": "Tripods 101: how do you measure the bowl? - Cinematography.com"
+    },
+    {
+      "position": 8,
+      "url": "https://www.dpreview.com/forums/threads/tripod-bowl-adapter-whats-the-purpose.4492018/",
+      "title": "Tripod bowl adapter - what's the purpose? | DPReview Forums"
+    },
+    {
+      "position": 9,
+      "url": "https://www.globalmediapro.com/content/ChooseTripodHead",
+      "title": "How do I choose the right fluid head? - Globalmediapro eShop"
+    },
+    {
+      "position": 10,
+      "url": "https://wolfcrow.com/the-6-best-single-tube-lightweight-carbon-fiber-camera-tripods-for-fluid-heads/",
+      "title": "The 6 Best Single-Tube Lightweight Carbon Fiber Camera Tripods for ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": "0 of 10; three lead with \"100mm vs 75mm\" or \"100mm or 75mm\" (forum questions and a CVP video)",
+    "withYear": "0 of 10",
+    "withNumber": "Sizes only (75mm/100mm); one list title has \"6 Best\"",
+    "commonModifiers": [
+      "100mm vs 75mm",
+      "bowls",
+      "tripod systems",
+      "measure the bowl",
+      "bowl adapter"
+    ],
+    "gap": "Nobody explains which adapters work in which direction; title adds \"(Plus Adapters)\" as the differentiator."
+  },
+  "commonPoints": [
+    "Standard bowl sizes are 75mm, 100mm and 150mm, measured across the top of the bowl",
+    "Heavier rigs call for a bigger bowl",
+    "A bowl lets you level the head with the tie-down instead of adjusting each leg",
+    "The head's half ball must match the leg bowl, or use an adapter",
+    "Flat-base heads suit small budget rigs"
+  ],
+  "ourGain": [
+    {
+      "point": "Same-family maker specs: Sachtler flowtech 75 vs 100 legs differ by 0.2 kg without spreader and share a 68 cm transport length, while payload rises from 20 kg to 30 kg; the head is where 100mm costs weight",
+      "source": "https://www.sachtler.com/en/product/tripod-flowtech-75-aktiv-ms/ and https://www.sachtler.com/en/product/tripod-flowtech-100-ms/"
+    },
+    {
+      "point": "Adapters only work one way: a 75mm head drops into a 100mm bowl with a reducer, but no adapter fits a 100mm head onto 75mm legs; adapters can add play and need the right tie-down length",
+      "source": "https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/ ; https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/ ; https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/ ; https://www.sachtler.com/en/product/tripod-flowtech-100-ms/ (Adapter 75/100 accessory)"
+    },
+    {
+      "point": "Measuring a bowl: the inner ring reads smaller than the nominal size (a 150mm bowl measured ID 145mm; an 85mm ID Vinten bowl is likely 100mm)",
+      "source": "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/"
+    },
+    {
+      "point": "Leg design and headroom can matter more than bowl size: a twin-tube 75mm can out-rigid a single-tube 100mm; budget 50% headroom over rig weight; rated 10 lb heads get jerky above about 7 lb",
+      "source": "https://www.dvinfo.net/forum/tripod-sticks-heads/506379-100mm-vs-75mm-bowls.html ; https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod"
+    },
+    {
+      "point": "Photo tripods can take a bowl: Gitzo Systematic Series 2-4 accept a 75mm half-bowl adapter (81 g), Series 5 a 75mm or 100mm one, popular with long-lens shooters",
+      "source": "https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "video-tripods-100mm-head-on-75mm-legs",
+      "pain": "Bought a 100mm head but the legs have a 75mm bowl, and no adapter goes that way",
+      "details": "Owners find reducers for 75mm heads in 100mm bowls but nothing that fits a bigger head on smaller legs.",
+      "sources": [
+        "https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/"
+      ],
+      "quotes": [
+        {
+          "text": "I can only find adapters to go the other way around",
+          "url": "https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/"
+        }
+      ]
+    },
+    {
+      "id": "video-tripods-bowl-adapter-play",
+      "pain": "A bowl adapter adds play and wobble compared with a matched head and bowl",
+      "details": "Shooters mixing a 75mm head with 100mm legs are told adapters add movement that shows on paid work.",
+      "sources": [
+        "https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/"
+      ],
+      "quotes": [
+        {
+          "text": "Adapters add room for play, not good on a paid shoot.",
+          "url": "https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/"
+        }
+      ]
+    },
+    {
+      "id": "video-tripods-tie-down-length",
+      "pain": "The tie-down is too long or too short once you change bowl size or add an adapter",
+      "details": "75mm tie-downs hang low and catch on sliders; with a reducer the stock bolt may not reach.",
+      "sources": [
+        "https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/",
+        "https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/"
+      ],
+      "quotes": [
+        {
+          "text": "75mm sized bowls tend to have longer tie downs which can be annoying",
+          "url": "https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/"
+        },
+        {
+          "text": "the tie down bolt is probably not long enough",
+          "url": "https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/"
+        }
+      ]
+    },
+    {
+      "id": "video-tripods-bowl-head-on-flat-mount",
+      "pain": "Putting a bowl-base fluid head on a flat tripod, slider or post",
+      "details": "Owners ask how to mount a half-ball head on flat mounts; some newer heads have a flattened ball with a thread.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1hxzfan/sachtler_ace_l_75mm_bowl_tripod_on_a_flat_tripod/",
+        "https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "The bottom of the ball on L and newer Ace heads should be flattened off for mounting on posts, sliders, and other flat mounts",
+          "url": "https://www.reddit.com/r/videography/comments/1hxzfan/sachtler_ace_l_75mm_bowl_tripod_on_a_flat_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "video-tripods-measure-bowl-size",
+      "pain": "Not sure which bowl size a set of legs has",
+      "details": "Owners of older legs measure the inside of the bowl and get an in-between number.",
+      "sources": [
+        "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/"
+      ],
+      "quotes": [
+        {
+          "text": "It's the diameter of the top of the bowl that is important.",
+          "url": "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "3.5 kg / 20 kg",
+      "claim": "flowtech 75 aktiv MS weight and payload",
+      "url": "https://www.sachtler.com/en/product/tripod-flowtech-75-aktiv-ms/",
+      "quote": "only weighs 3.5 kg, but is capable of supporting up to 20 kg"
+    },
+    {
+      "number": "4.1 kg / 30 kg",
+      "claim": "flowtech 100 MS weight and payload",
+      "url": "https://www.sachtler.com/en/product/tripod-flowtech-100-ms/",
+      "quote": "Weighing only 4.1 kg, the Sachtler flowtech100 MS can support a payload of up to 30 kg"
+    },
+    {
+      "number": "ten pounds / seven",
+      "claim": "fluid head rated 10 lb gets jerky above about 7 lb",
+      "url": "https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod",
+      "quote": "a tripod might be marketed as able to handle ten pounds, but if you put more than seven on it"
+    },
+    {
+      "number": "81 grams",
+      "claim": "Gitzo GS3321V75 75mm half-bowl adapter weight",
+      "url": "https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/",
+      "quote": "This model is made of aluminum and weighs 81 grams."
+    },
+    {
+      "number": "ID=145mm",
+      "claim": "inner ring of a 150mm bowl measures smaller",
+      "url": "https://cinematography.com/index.php?/forums/topic/81797-tripods-101-how-do-you-measure-the-bowl/",
+      "quote": "Just measured a 150mm (Satchler?) 150mm bowl and it was ID=145mm."
+    },
+    {
+      "number": "50%",
+      "claim": "add 50% headroom over rig weight",
+      "url": "https://www.dvinfo.net/forum/tripod-sticks-heads/506379-100mm-vs-75mm-bowls.html",
+      "quote": "add another 50% into your calculations to give yourself plenty of stability and rigidity headroom"
+    }
+  ],
+  "videos": [
+    {
+      "id": "89nPifVW9RY",
+      "title": "100mm vs 75mm Tripod Systems | Flowtech 100",
+      "channel": "CVP",
+      "url": "https://www.youtube.com/watch?v=89nPifVW9RY",
+      "section": "75mm vs 100mm bowl by rig weight"
+    }
+  ],
+  "secondaryKeywords": [
+    "75mm vs 100mm bowl",
+    "100mm or 75mm bowl",
+    "tripod bowl mount sizes",
+    "half ball adapter for tripod",
+    "flat base vs bowl base tripod",
+    "how to measure tripod bowl size"
+  ],
+  "serpProducts": [],
+  "serpProductsNote": "SERP is forums, explainers and videos; no product is recommended by 2+ independent top-10 pages, so the guide has no picks.",
+  "postType": "guide",
+  "suggestedSeoTitle": "Video Tripod Bowl Size Explained 75mm vs 100mm (2026)",
+  "angle": "Choose by rig weight and leg design, then know which adapters work in which direction."
+}
