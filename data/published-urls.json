@@ -1,6 +1,8 @@
 {
   "_note": "Every blog URL that has gone live. scripts/redirects.mjs adds new ones on each build; a URL whose post is gone needs a redirect in data/redirects.json.",
   "urls": [
+    "/blog/4-section-vs-5-section-tripod/",
+    "/blog/ball-head-tripod/",
     "/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/",
     "/blog/best-hiking-tripod/",
     "/blog/best-mini-tripod-for-desk-video-calls/",
@@ -12,6 +14,7 @@
     "/blog/best-tripod-for-tall-photographers-over-6-feet/",
     "/blog/best-tripod-that-fits-in-carry-on-luggage/",
     "/blog/best-video-tripod-with-fluid-head-for-beginners/",
+    "/blog/binocular-tripod-adapter/",
     "/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/",
     "/blog/how-tall-should-a-tripod-be-for-my-height/",
     "/blog/how-to-stop-tripod-shake-in-wind/",
