@@ -246,6 +246,7 @@ heroAlt: >-
   Ball Head Tripod Guide (2026) – 2 Heads Worth Buying and Sag Fixes – Best
   Tripod guide
 related:
+  - best-gimbal-head-for-150-600mm-lens
   - are-cheap-gimbal-heads-any-good
 ---
 

@@ -1,0 +1,539 @@
+{
+  "keyword": "best gimbal head for 150-600mm lens",
+  "createdAt": "2026-10-21T10:33:54.427Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "gimbal head for a 150-600mm lens",
+    "entityVariants": [
+      "gimbal head for 150-600mm",
+      "gimbal head for Sigma 150-600",
+      "gimbal head for Tamron 150-600",
+      "gimbal head for 200-600mm",
+      "tripod head for 150-600mm lens",
+      "wimberley style gimbal head"
+    ],
+    "entities": [
+      {
+        "name": "gimbal head",
+        "type": "product type",
+        "relation": "tripod head that pivots a long lens around its center of gravity"
+      },
+      {
+        "name": "150-600mm zoom",
+        "type": "lens class",
+        "relation": "the lens the searcher owns: Sigma and Tamron 150-600mm, Sony 200-600mm, Nikon 180-600mm"
+      },
+      {
+        "name": "Sigma 150-600mm F5-6.3 DG OS HSM Contemporary",
+        "type": "lens",
+        "relation": "the most-discussed 150-600mm in the ranking threads; 1,930 g per Sigma"
+      },
+      {
+        "name": "ProMediaGear GKJr. Katana Junior",
+        "type": "product",
+        "relation": "light full gimbal recommended by Shutter Muse, FredMiranda and Talk Photography"
+      },
+      {
+        "name": "Wimberley WH-200",
+        "type": "product",
+        "relation": "benchmark full gimbal recommended by Shutter Muse, r/Nikon and Talk Photography"
+      },
+      {
+        "name": "Fotopro E-6H",
+        "type": "product",
+        "relation": "compact multi-mode gimbal recommended by Shutter Muse and FredMiranda"
+      },
+      {
+        "name": "Wimberley Sidekick SK-100",
+        "type": "product",
+        "relation": "ball-head gimbal adapter recommended by Shutter Muse and FredMiranda"
+      },
+      {
+        "name": "Arca-Swiss",
+        "type": "standard",
+        "relation": "the dovetail clamp standard all four heads use"
+      },
+      {
+        "name": "lens foot",
+        "type": "component",
+        "relation": "where the gimbal clamps the lens; its height decides whether the lens can balance"
+      },
+      {
+        "name": "cradle mount",
+        "type": "design",
+        "relation": "lens sits on a swing arm below the pivot; easier to load"
+      },
+      {
+        "name": "side mount",
+        "type": "design",
+        "relation": "lens clamps beside the pivot; lighter and smaller"
+      },
+      {
+        "name": "ball head",
+        "type": "product type",
+        "relation": "what the Sidekick converts; what droops under a long lens"
+      },
+      {
+        "name": "monopod",
+        "type": "support",
+        "relation": "the lighter alternative many 150-600mm owners use"
+      }
+    ],
+    "attributes": [
+      "rated load vs real rig weight",
+      "head weight",
+      "cradle vs side mount",
+      "vertical arm length and lens clearance",
+      "sealed bearings vs bushings",
+      "Arca-Swiss clamp",
+      "3/8\"-16 base thread",
+      "click stops and bubble level",
+      "cold-weather smoothness"
+    ],
+    "ngrams": [
+      "gimbal head",
+      "150-600mm lens",
+      "lens foot",
+      "center of gravity",
+      "load capacity",
+      "side mount",
+      "cradle mount",
+      "ball head",
+      "birds in flight",
+      "arca-swiss plate"
+    ],
+    "skipgrams": [
+      "gimbal…balance",
+      "lens…foot",
+      "load…capacity",
+      "zoom…balance",
+      "ball…head",
+      "side…mount"
+    ],
+    "nlpTerms": [
+      "telephoto",
+      "wildlife",
+      "birding",
+      "balance",
+      "weightless",
+      "pan",
+      "tilt",
+      "bearings",
+      "cradle",
+      "clamp",
+      "lens plate",
+      "replacement foot",
+      "tripod legs",
+      "monopod",
+      "carbon fiber",
+      "aluminum"
+    ],
+    "questions": [
+      "what is the best gimbal head for a 150-600mm lens",
+      "do i need a gimbal head for a 150-600mm lens",
+      "gimbal head vs ball head for wildlife",
+      "can a gimbal head go on a monopod",
+      "how do you balance a zoom lens on a gimbal head",
+      "how much weight does a gimbal head need to hold for a 150-600mm"
+    ],
+    "contentGaps": [
+      "No ranking page does the weight math for a 150-600mm zoom: about 2 kg of lens against 22 to 100+ lb ratings, so the choice is about carry weight and balance, not capacity",
+      "Zoom lenses extend, so balance shifts with focal length; owners balance at mid zoom",
+      "A small gimbal's vertical arm can be too short for a 200-600mm on its stock foot in cradle mode",
+      "The Sidekick is only as smooth as the ball head's panning base",
+      "Several owners bought a gimbal for a 150-600 or 200-600 and rarely use it"
+    ],
+    "outline": [
+      {
+        "h2": "Best Gimbal Head for 150-600mm Lens – The Short Answer",
+        "intent": "Direct answer and the four picks by role",
+        "h3": []
+      },
+      {
+        "h2": "What a 150-600mm Zoom Asks of a Gimbal Head",
+        "intent": "Weight math vs ratings, cradle vs side mount, arm length; commonPoints briefly",
+        "h3": []
+      },
+      {
+        "h2": "The 4 Best Gimbal Heads for a 150-600mm Lens",
+        "intent": "Product reviews, paragraph style",
+        "h3": [
+          "ProMediaGear GKJr. Katana Junior Gimbal Head: Best overall",
+          "Wimberley WH-200 Gimbal Head II: Best if a big prime comes later",
+          "Fotopro E-6H Gimbal Head: Best compact gimbal",
+          "Wimberley SK-100 Sidekick: Best if you already own a strong ball head"
+        ]
+      },
+      {
+        "h2": "Gimbal Heads for 150-600mm Lenses Compared",
+        "intent": "Comparison table with lead-in",
+        "h3": []
+      },
+      {
+        "h2": "How to Balance a 150-600mm Zoom on a Gimbal Head",
+        "intent": "Balance at mid zoom, long plate, low foot; video",
+        "h3": []
+      },
+      {
+        "h2": "Problems Owners Run Into, and the Fix",
+        "intent": "Pain points: droop, monopod wobble, bulk, unused gimbal, cheap vs premium",
+        "h3": []
+      },
+      {
+        "h2": "Our Verdict",
+        "intent": "Close the opening scene, link next question",
+        "h3": []
+      }
+    ],
+    "targetWords": 1950,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
+        "https://www.fredmiranda.com/forum/topic/1784270/",
+        "https://www.talkphotography.co.uk/threads/gimbal-head.663241/",
+        "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "Shutter Muse, the one full roundup Firecrawl could read, reviews each gimbal in prose paragraphs with no pros/cons lists; the forum threads (DPReview, FredMiranda, Talk Photography) recommend heads in prose. Digital Camera World returned only its page shell (no body), so its format could not be checked.",
+      "avgWords": 2200,
+      "avgProducts": 8,
+      "commonSections": [
+        "what a photo gimbal does (balance, weightless tracking) and that it is not a video gimbal",
+        "cradle mount vs side mount",
+        "product picks by role, from budget to premium",
+        "zoom lenses shifting balance",
+        "Arca-Swiss plate or replacement foot on the lens",
+        "whether a 150-600mm needs a gimbal at all (forums)"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true,
+      "note": "avgWords is an estimate from the readable pages: Shutter Muse main article about 4,900 words (before 100 comments), FredMiranda thread page 1 about 2,300, Talk Photography about 1,900, DPReview thread about 600; average about 2,400, rounded down to 2,200 because the forum threads count signatures and quotes. Digital Camera World (no body returned), Facebook, Reddit and Zenelli (maker blog) were not readable or not counted."
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.facebook.com/groups/678213462282331/posts/5337640303006267/",
+        "title": "Gimbal recommendations for 150-600mm lens - Facebook"
+      },
+      {
+        "position": 2,
+        "url": "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods",
+        "title": "The best gimbal heads for tripods | Digital Camera World"
+      },
+      {
+        "position": 3,
+        "url": "https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
+        "title": "Video fluid head or gimbal for Sigma 150-600mm ? | DPReview Forums"
+      },
+      {
+        "position": 4,
+        "url": "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "title": "The Best Gimbal Tripod Heads in 2026 - My Top Picks - Shutter Muse"
+      },
+      {
+        "position": 5,
+        "url": "https://www.reddit.com/r/Nikon/comments/1lhiy29/which_gimbal_head_for_my_600mm_f4_tc/",
+        "title": "Which gimbal head for my 600mm f4 TC : r/Nikon - Reddit"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=V-4aQH22bgQ",
+        "title": "Best Gimbal Head for Action and Wildlife Telephoto ... - YouTube"
+      },
+      {
+        "position": 7,
+        "url": "https://www.bhphotovideo.com/c/buy/-/labelId/48207/is/REG/showAllAcc/Y/sku/1353685",
+        "title": "Tripods & Supports for 150-600mm f/5-6.3 DG OS HSM Contemporary"
+      },
+      {
+        "position": 8,
+        "url": "https://www.talkphotography.co.uk/threads/gimbal-head.663241/",
+        "title": "Gimbal Head | Talk Photography"
+      },
+      {
+        "position": 9,
+        "url": "https://www.fredmiranda.com/forum/next/1760120",
+        "title": "best tripod head for 200-600mm? - FM Forums - FredMiranda.com"
+      },
+      {
+        "position": 10,
+        "url": "https://zenelli.com/blogs/news/control-at-600mm",
+        "title": "Best Gimbal Head for a 600mm Lens | Wildlife Photography Guide - Zenelli"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 6,
+      "commonModifiers": [
+        "best",
+        "gimbal head(s)",
+        "for tripods",
+        "600mm / 150-600mm / 200-600mm",
+        "wildlife",
+        "top picks"
+      ],
+      "gap": "Six titles carry a focal length but none states a pick count or answers for the 150-600mm weight class; page one is forum questions and general roundups for 600mm primes. Our angle: exact keyword first, the year, and 4 picks chosen by weight for a 2 kg zoom."
+    },
+    "commonPoints": [
+      "A photo gimbal balances the lens at its center of gravity so it feels weightless and tracks birds in flight; it is not a motorized video gimbal.",
+      "Cradle mounts are easier to load; side mounts are lighter and smaller.",
+      "The lens needs an Arca-Swiss plate or replacement foot, long enough to slide for balance.",
+      "Premium heads (Wimberley WH-200, ProMediaGear Katana) are smoother than budget heads.",
+      "Zoom lenses that extend move the balance point.",
+      "A gimbal needs sturdy legs under it."
+    ],
+    "ourGain": [
+      {
+        "point": "Weight math: a Sigma 150-600mm Contemporary weighs 1,930 g, while the four heads are rated from 22 lb to over 100 lb, so any of them holds the zoom; choose on carry weight, arm fit and smoothness instead",
+        "source": "https://www.sigmaphoto.com/150-600mm-f5-6-3-dg-os-hsm-c ; https://www.tripodhead.com/products/WH-Specs.cfm ; https://promediagear.com/products/gkjr-katana-pro-gimbal-tripod-head ; https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html"
+      },
+      {
+        "point": "Arm length and clearance: one FredMiranda owner found the Fotopro E-6H arm too short to balance a 200-600 in cradle mode, and a BCG moderator relays a B&H review where a big 600mm rubbed the side arm",
+        "source": "https://www.fredmiranda.com/forum/topic/1784270/ ; https://bcgforums.com/threads/z8-nikon-600-f-4e-fl-on-fotopro-e-6h-gimbal.38079/"
+      },
+      {
+        "point": "The Sidekick is only as good as the ball head under it: it needs a separate panning lock and an Arca clamp, and puts a leveraged load on the ball",
+        "source": "https://shuttermuse.com/best-gimbal-tripod-heads/ ; https://bcgforums.com/threads/full-gimbal-head-vs-wimberley-sidekick.31129/"
+      },
+      {
+        "point": "Balance an extending 150-600mm at mid zoom; it is light enough to stay close to balance across the range",
+        "source": "https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/ ; https://www.talkphotography.co.uk/threads/gimbal-head.663241/"
+      },
+      {
+        "point": "Some owners buy a gimbal for a 200-600 and never use it; buy it for hides and long waits",
+        "source": "https://www.fredmiranda.com/forum/topic/1784270/ (data/pain-points.json tripod-heads-gimbal-used-less-than-expected)"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "ProMediaGear GKJr. Katana Junior Gimbal Head",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/",
+          "https://www.fredmiranda.com/forum/topic/1784270/",
+          "https://www.talkphotography.co.uk/threads/gimbal-head.663241/"
+        ]
+      },
+      {
+        "name": "Wimberley WH-200 Gimbal Head II",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/",
+          "https://www.reddit.com/r/Nikon/comments/1lhiy29/which_gimbal_head_for_my_600mm_f4_tc/",
+          "https://www.talkphotography.co.uk/threads/gimbal-head.663241/",
+          "https://www.fredmiranda.com/forum/topic/1784270/"
+        ]
+      },
+      {
+        "name": "Fotopro E-6H Gimbal Head",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/",
+          "https://www.fredmiranda.com/forum/topic/1784270/"
+        ]
+      },
+      {
+        "name": "Wimberley SK-100 Sidekick",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/",
+          "https://www.fredmiranda.com/forum/topic/1784270/"
+        ]
+      },
+      {
+        "name": "Wimberley MH-100 MonoGimbal (2 pages, but a monopod head; mentioned, not featured)",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/",
+          "https://www.facebook.com/groups/678213462282331/posts/5337640303006267/"
+        ]
+      },
+      {
+        "name": "Benro GH2 (2 pages, but discontinued; Amazon sells the newer GH2N, a different generation; not featured)",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
+          "https://www.talkphotography.co.uk/threads/gimbal-head.663241/"
+        ]
+      },
+      {
+        "name": "Jobu Jr. 3 (2 forum pages; no clear current Amazon US listing for the same model; not featured)",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
+          "https://www.fredmiranda.com/forum/topic/1784270/"
+        ]
+      },
+      {
+        "name": "Oben GH-30, Sirui PH-20 (Shutter Muse; budget picks covered in /blog/are-cheap-gimbal-heads-any-good/, linked not repeated)",
+        "pages": [
+          "https://shuttermuse.com/best-gimbal-tripod-heads/"
+        ]
+      },
+      {
+        "name": "Single-page mentions: Lensmaster RH-2, Manfrotto 393 (Talk Photography), Movo GH700 (Facebook), Leofoto PG-1 (FredMiranda), RRS PG-02, Gitzo GHFG1, Induro GHB1, Benro GH5C, Magnus GH-M1, PMG GT2 Tomahawk (Shutter Muse)",
+        "pages": []
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "camera-tripods-head-unbalanced-long-lens",
+        "pain": "The ball head creeps or shakes when a long lens is mounted body-first",
+        "details": "With a heavy telephoto the lens center of gravity sits above a ball head's axes; answers point to gimbal heads or mounting the lens collar foot and balancing on an Arca rail.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "the center of gravity of the lens is above the rotation axes so the whole thing is unstable",
+            "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-heavy-telephoto-droop",
+        "pain": "Head droops or the lens tips forward when I mount a heavy telephoto on a ball head",
+        "details": "Fixes suggested: mount the lens by its tripod foot, use a gimbal or fluid head, and size head and legs well above the load.",
+        "sources": [
+          "https://www.reddit.com/r/SonyAlpha/comments/190gqt0/best_way_to_keep_a_camera_with_a_heavy_lens/",
+          "https://www.reddit.com/r/peakdesign/comments/v0v0gv/travel_tripod_drooping/"
+        ],
+        "quotes": [
+          {
+            "text": "Make sure the weight capacity for both the head and legs is at least 3x the amount of weight you'll put on it.",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/190gqt0/best_way_to_keep_a_camera_with_a_heavy_lens/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-gimbal-heavy-and-bulky",
+        "pain": "Gimbal heads are heavy and bulky to carry and slow me down on the move",
+        "details": "Owners say gimbals are large and heavy even when they break down, and hinder mobility in dynamic situations.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+          "https://shuttermuse.com/best-gimbal-tripod-heads/"
+        ],
+        "quotes": [
+          {
+            "text": "As already mentioned, they are relatively large and heavy to transport, even those that break down into three separate parts.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-gimbal-used-less-than-expected",
+        "pain": "Worried a gimbal head will go unused because stabilized lenses and bodies can be handheld",
+        "details": "Buyers of 180-600mm and 200-600mm lenses say they handhold more than expected; one FredMiranda owner of a Katana Junior never uses it.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+          "https://www.fredmiranda.com/forum/topic/1784270/"
+        ],
+        "quotes": [
+          {
+            "text": "I have used it less than I anticipated",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+          },
+          {
+            "text": "I have a ProMedia Katana Junior but I never use it - even with the 600GM.",
+            "url": "https://www.fredmiranda.com/forum/topic/1784270/"
+          }
+        ]
+      },
+      {
+        "id": "monopods-wobble-with-gimbal-weight",
+        "pain": "A light monopod wobbles at the base under a gimbal or gimbal head",
+        "details": "A full tripod gimbal on a monopod is top-heavy; side-mount monopod gimbals sit off balance.",
+        "sources": [
+          "https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/",
+          "https://shuttermuse.com/best-gimbal-tripod-heads/"
+        ],
+        "quotes": [
+          {
+            "text": "the monopod is too lightweight to trust for stability (it has a slight wobble at the bottom from the gimbal's weight)",
+            "url": "https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-gimbal-cheap-vs-premium",
+        "pain": "Unsure whether a budget gimbal head is good enough or if I must pay for a Wimberley-class one",
+        "details": "Covered in depth by /blog/are-cheap-gimbal-heads-any-good/; this post answers it in one paragraph and links there.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        ],
+        "quotes": [
+          {
+            "text": "These inexpensive gimbals are perfectly adequate for determining whether or not he'll use one.",
+            "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "1,930 g",
+        "claim": "Weight of the Sigma 150-600mm F5-6.3 DG OS HSM Contemporary",
+        "url": "https://www.sigmaphoto.com/150-600mm-f5-6-3-dg-os-hsm-c",
+        "quote": "1,930g (Protective cover: 1,830g) / 68.1 oz. (Protective cover: 64.5 oz.)"
+      },
+      {
+        "number": "2.4 lbs",
+        "claim": "ProMediaGear GKJr. Katana Pro load capacity and weight",
+        "url": "https://promediagear.com/products/gkjr-katana-pro-gimbal-tripod-head",
+        "quote": "It only weighs 2.4 lbs which is perfect for any travel."
+      },
+      {
+        "number": ">100 lbs",
+        "claim": "Wimberley WH-200 weight capacity and weight",
+        "url": "https://www.tripodhead.com/products/WH-Specs.cfm",
+        "quote": "Weight Capacity: >100lbs (45kg) (Compatible with the largest lenses in the industry)"
+      },
+      {
+        "number": "3.15 lbs",
+        "claim": "Wimberley WH-200 weight",
+        "url": "https://www.tripodhead.com/products/WH-Specs.cfm",
+        "quote": "Weight: 3.15 lbs (1430 grams)"
+      },
+      {
+        "number": "1.3 lbs",
+        "claim": "Wimberley Sidekick SK-100 weight; capacity limited to the ball head's panning capacity",
+        "url": "https://tripodhead.com/products/sidekick-specs.cfm",
+        "quote": "Weight: 1.3 lbs (590 grams)"
+      },
+      {
+        "number": "22.05 lb / 10 kg",
+        "claim": "Fotopro E-6H load capacity",
+        "url": "https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html",
+        "quote": "Load Capacity | 22.05 lb / 10 kg"
+      }
+    ],
+    "videos": [
+      {
+        "id": "XHgGlbLl_kg",
+        "title": "Gimbal Heads: A Wildlife Photography MUST-HAVE (And How to Use It)",
+        "channel": "B&H Photo Video Pro Audio",
+        "url": "https://www.youtube.com/watch?v=XHgGlbLl_kg",
+        "section": "How to Balance a 150-600mm Zoom on a Gimbal Head"
+      }
+    ],
+    "linkPlan": [
+      "/blog/are-cheap-gimbal-heads-any-good/ (budget vs premium; do not repeat Oben/Sirui)",
+      "/blog/tripod-for-wildlife-photography/ (legs under the gimbal)",
+      "/blog/best-monopod-with-feet-for-wildlife-photography/ (monopod alternative)",
+      "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/ (lens plates)",
+      "/blog/ball-head-tripod/ (ball head for the Sidekick)"
+    ],
+    "note": "Queue item is source:user (owner keyword), so the cannibal check is skipped per ROUTINE.md; routine.mjs cannibal flags are-cheap-gimbal-heads-any-good (80%) via its secondary 'is a cheap gimbal head good enough for a 600mm lens'. Distinct angle: this is the roundup of heads sized for a 150-600mm zoom (premium, compact and adapter picks); the cheap-gimbal post owns budget vs premium and the Oben GH-30 / Sirui PH-20, which are linked, not repeated. FredMiranda /forum/next/1760120 (the SERP URL) redirects to /forum/topic/1784270/, the 'best tripod head for 200-600mm?' thread; cited by its topic URL."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "are-cheap-gimbal-heads-any-good",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ball-head-tripod",
+      "mode": "related-box"
+    }
+  ]
+}

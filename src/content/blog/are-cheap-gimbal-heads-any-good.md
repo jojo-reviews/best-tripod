@@ -227,6 +227,8 @@ heroImage: /images/featured/are-cheap-gimbal-heads-any-good.png
 heroAlt: >-
   Are Cheap Gimbal Heads Any Good? The Trade-Offs and 2 Picks – Best Tripod
   guide
+related:
+  - best-gimbal-head-for-150-600mm-lens
 ---
 
 Picture the moment: a new 150-600mm zoom on the desk, a heron that stands still for forty minutes, and premium gimbal heads priced like another lens. So, are cheap gimbal heads any good? Yes, for a 150-600mm or 200-500mm zoom and occasional use, as long as you accept stiffer, less refined motion. A cheap gimbal head is also the lowest-risk way to learn whether you will use a gimbal at all. We would step up to a premium head only for a 500mm or 600mm f/4 prime used for long sessions, or for daily tracking of birds in flight.
