@@ -1,7 +1,7 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-20T10:52:45.695Z",
+  "checkedAt": "2026-10-21T14:42:41.937Z",
   "errors": [],
   "warnings": [
     "body has 5230 words, over the 3105 limit (top results average 2700): cut repetition and filler",
@@ -20,6 +20,7 @@
     "product \"3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (503): https://www.manfrotto.com/us-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
     "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
     "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",

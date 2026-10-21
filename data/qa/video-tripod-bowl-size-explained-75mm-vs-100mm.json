@@ -1,12 +1,21 @@
 {
   "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
   "pass": true,
-  "checkedAt": "2026-10-21T10:27:50.140Z",
+  "checkedAt": "2026-10-21T14:43:53.045Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/explora/video/buying-guide/what-to-consider-when-buying-a-video-tripod",
+    "source didn't respond normally (403): https://blog.expresswaycine.com/tripod-heads-an-overview/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-bowl-adapter-whats-the-purpose.4492018/",
+    "source didn't respond normally (503): https://www.gitzo.com/us-en/75mm-half-bowl-video-adapter-systematic-series-2-4-gs3321v75/",
+    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/1pk7t6o/adapt_a_100mm_head_onto_legs_with_75mm_bowl/",
+    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/1sb65b0/flowtech_100_75mm_bowl_head_with_adapter_vs_going/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Filmmakers/comments/1b763ry/100mm_or_75mm_bowls_for_10kg_rig/",
+    "source didn't respond normally (403): https://www.reddit.com/r/cinematography/comments/15g70kv/tripod_disaster_help_with_150mm_to_100mm_bowl/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1hxzfan/sachtler_ace_l_75mm_bowl_tripod_on_a_flat_tripod/"
   ],
   "factCheck": {
     "verified": true,
