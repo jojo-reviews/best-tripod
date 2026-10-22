@@ -1,21 +1,18 @@
 {
   "slug": "how-tall-should-a-tripod-be-for-my-height",
   "pass": true,
-  "checkedAt": "2026-10-21T07:01:47.039Z",
+  "checkedAt": "2026-10-22T12:20:45.866Z",
   "errors": [],
   "warnings": [
-    "body has 2186 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "body has 2284 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "keyword overlaps /blog/best-tripod-for-tall-photographers-over-6-feet/ (\"how tall should a tripod be for my height\" overlaps \"tall tripod\" (100%))",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
-    "source didn't respond normally (403): https://www.adorama.com/vanguard-alta-pro-263ab-gen-2-aluminum-tripod-bh-60-ball-head/p/vgaltapro263",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1934044-REG/vanguard_alta_pro_263ab_g2.html"
+    "keyword overlaps /blog/best-tripod-for-tall-photographers-over-6-feet/ (\"how tall should a tripod be for my height\" overlaps \"tall tripod\" (100%))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Manfrotto MT055XPRO3 re-confirmed via search of Procam, Foto-Erhardt, Adorama, Markertek listings: 140 cm no column, 169.9 cm raised, min 8.9-9 cm, 24 in closed, 2.5 kg/5.5 lb. Vanguard Alta Pro 263AB Gen 2 confirmed against Vanguard US page and B&H: 55.3 in standard height, 27.4 in folded, 5.1 lb, 22 lb load; removed unconfirmed 9.6 in min height (other listings say 8.4 in). Peak Design aluminum Travel Tripod: 51.25 in column down, 60 in raised confirmed on retailer listings (Glazers, Cathay). Chart arithmetic recomputed for all rows (in and cm), consistent; labelled rule of thumb. No ownership claims, prices or ratings.",
-    "at": "2026-10-15T19:56:01.964Z"
+    "notes": "GSC refresh 2026-10-22: new 'How Tall Is a Tripod' section and FAQ verified live (maxAge 0): Peak Design Travel Tripod 51.25 in column down / 60 in raised per ShutterMuse spec table; ProMediaGear guide says its 42-series reaches 66-70+ in at full leg height; Manfrotto 055 55/67 in unchanged from existing sources. Ulanzi guide (URL moved to /blogs/guides/) quick answer re-read: about 60 in without center column for ~6 ft shooter, now linked as sourced number. 6-foot H2 reworded to match query; no products, safety notes, notes block or numbers removed. No prices, no testing claims.",
+    "at": "2026-10-22T12:20:45.253Z",
+    "hash": "3ab9649e7fd83404"
   }
 }

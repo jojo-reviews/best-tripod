@@ -25,6 +25,7 @@
   "skipgrams": ["tripod…eye level", "center column…height", "maximum height…column", "tripod…taller", "extend…legs first", "camera…eye level", "height…without…column", "head…adds…inches", "column…stability", "tall…hunch"],
   "nlpTerms": ["eye level", "center column", "viewfinder", "ergonomics", "hunch", "stability", "vibration", "leg extension", "leg lock", "ball head", "inverted column", "low angle", "landscape", "portrait", "rule of thumb", "inches", "centimeters", "spec sheet", "working height", "fully extended", "load rating"],
   "questions": [
+    "How tall is a tripod?",
     "What height tripod do I need if I am 6 feet tall?",
     "Should you extend the center column on a tripod?",
     "How is tripod maximum height measured?",

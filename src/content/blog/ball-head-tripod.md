@@ -257,7 +257,7 @@ You frame a sunset, lock the knob, let go, and the horizon slides down. That mom
 
 ## Which tripod ball head to buy (the short answer)
 
-**A tripod ball head with a 40mm ball and an Arca clamp suits a mirrorless camera or DSLR with lenses up to a 70-200mm.** Past that, look at a gimbal head. Both picks share the 40mm ball, so choose by clamp, height and panning. Exploring Exposure named the Leofoto LH-40 its value pick, but no second top page backed that model, so we left it out.
+**A tripod ball head with a 40mm ball and an Arca clamp suits a mirrorless camera or DSLR with lenses up to a 70-200mm.** Past that, look at a gimbal head. Both picks share the 40mm ball, so choose by clamp, height and panning; the head's height adds to your [tripod height](/blog/how-tall-should-a-tripod-be-for-my-height/) at the viewfinder. Exploring Exposure named the Leofoto LH-40 its value pick, but no second top page backed that model, so we left it out.
 
 This table compares the two heads on maker specs.
 

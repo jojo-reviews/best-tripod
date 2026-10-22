@@ -160,7 +160,7 @@ Section count is a separate choice: most modern tripods have [between 3 and 5 te
 
 1. Hold the collapsed leg so your palm covers every collar.
 2. Turn about a quarter turn and let the inner tubes drop.
-3. Set the height, then turn the collars back to lock them.
+3. Set the [tripod height](/blog/how-tall-should-a-tripod-be-for-my-height/), then turn the collars back to lock them.
 4. Press down on the empty tripod before mounting the camera.
 
 Twist locks give no visual cue, hence step 4. Flip locks keep an edge for one-leg height tweaks on uneven ground. The video below, from Vanguard, compares both lock types.
