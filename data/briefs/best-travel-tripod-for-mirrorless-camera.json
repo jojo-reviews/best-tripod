@@ -62,6 +62,14 @@
     {"h2": "Frequently Asked Questions", "intent": "Capture People Also Ask queries", "h3": []},
     {"h2": "Final Verdict: Which Travel Tripod Should You Buy?", "intent": "Decisive choose-X-if recap", "h3": []}
   ],
+  "commonPoints": ["Pick list by use: best overall, budget, lightweight, premium, heavy-duty", "Per-product specs: weight, folded length, max height, load capacity", "Carbon fiber is lighter and pricier than aluminum", "Ball head is the default travel head; fluid head for video", "Twist vs flip/lever leg locks and number of leg sections", "A how-we-chose or how-we-test section and a short FAQ", "Peak Design Travel Tripod, Manfrotto Befree and Gitzo Traveler appear on most lists"],
+  "ourGain": [
+    {"point": "Load rating depends on leg angle: the 3 Legged Thing Punks Travis 2.0 is rated 18 kg at 23 degrees but 12 kg at 55 and 8 kg at 80, so low-angle setups cut capacity", "source": "https://www.3leggedthing.com/us/travis-2-tripod-system.html"},
+    {"point": "Column-down height vs advertised max: the Vanguard VEO 3 GO 235CB lists 136 cm raised but 106 cm with the column down, a 30 cm gap most roundups skip", "source": "https://www.cliftoncameras.co.uk/uploads/specifications/Vanguard%20VEO%203GO%20235CB%20Travel%20Tripod%20%20Specifications%20.pdf"},
+    {"point": "Peak Design publishes 51.25 in column-down vs 60 in raised (20 lb load, 15.5 in fold), the benchmark for usable height in a carry-on-length tripod", "source": "https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb"},
+    {"point": "TSA allows tripods in both carry-on and checked bags, but the final call rests with the officer at the checkpoint; airline size limits still apply", "source": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods"},
+    {"point": "Turn off in-body stabilization on a tripod: Sony's help guide says to turn SteadyShot off when using a tripod because it can cause a malfunction when shooting", "source": "https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html"}
+  ],
   "targetWords": 3300,
   "serpStructure": {
     "analyzedUrls": [

@@ -1,10 +1,16 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:28.065Z",
+  "checkedAt": "2026-10-22T10:29:09.994Z",
   "errors": [],
   "warnings": [
-    "body has 5230 words, over the 3105 limit (top results average 2700): cut repetition and filler",
+    "LIVE POST, FIX: 0 FAQs (need 3-8)",
+    "LIVE POST, FIX: 0 sources (need at least 2)",
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
+    "1 first-person singular words (I, my, me): the byline is the editorial team, write \"we/our/us\"",
+    "body has 6303 words, over the 3105 limit (top results average 2700): cut repetition and filler",
+    "a sentence repeats an earlier one almost word for word: \"For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb\"",
+    "features 8 products; the plan for this post was 15",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,27 +19,14 @@
     "product \"Benro Slim Aluminum Travel Tripod Kit (FSL09AN00)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Gitzo Traveler Series 1 GT1555T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
-    "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",
-    "source didn't respond normally (403): https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/",
-    "source didn't respond normally (403): https://www.adorama.com/3lttvidk20.html",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
-    "source didn't respond normally (403): https://www.kentfaith.com/KF09.101_lightweight-travel-tripod-compact-vlog-camera-tripod-flexible-portable-63-quot-1-6m-17-64lbs-8kg-load-with-portable-monopod-for-dslr-cameras-bi234m",
-    "source didn't respond normally (403): https://www.adorama.com/ul3131.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html"
+    "Amazon link \"Gitzo GT1555T Traveler Series 1 tripod\" doesn't match any listed product",
+    "Amazon link \"Vanguard VEO 3 GO 235CB\" doesn't match any listed product",
+    "Amazon link \"3 Legged Thing Punks Travis 2.0 AirHed Neo 2.0\" doesn't match any listed product"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:39.121Z",
-    "hash": "6823ff878118dbbf"
+    "notes": "Trim (tighten mode) re-verified with Firecrawl maxAge 0: Peak Design carbon (Glazer's: 20 lb, 15.5 in fold, 60/51.25 in, 5.5 in min); Befree Advanced lever (Manfrotto/Syntex: 9 kg safety payload per UNI/PdR 105:2021, 128 cm column down, 151 cm max, 1.59 kg, 40 cm) - fixed 8 kg to 9 kg and 150 to 151 cm; Travis 2.0 (3LT: 18/12/8 kg at 23/55/80 deg, 1.66 m, 1.36 m / 53.7 in no column, 45.7 cm) - fixed 53.5 to 53.7 in; Vanguard VEO 3 GO 235CB (Clifton spec PDF: 1.1 kg, 33 cm, 136/106 cm, 4 kg, ballast hook); Sirui 7C/7A store (48 cm, 8 kg, 7A 4.16 lb); Gitzo GT1555T (Wex: 1030 g, 35.5 cm, 138 cm, 10 kg); K&F KF09.101 (K&F spec table: 1.6 m/63 in, 39 cm, 1.24 kg, 8 kg, flip lock) - fixed 163 cm/64 in to about 160 cm/63 in; new: TSA tripods page (carry-on and checked yes, officer final say), Sony help guide (turn SteadyShot off on a tripod). Other product facts unchanged from prior check, only shortened.",
+    "at": "2026-10-22T10:28:37.078Z",
+    "hash": "4f02e71fea2d1980"
   }
 }
