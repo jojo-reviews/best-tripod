@@ -197,8 +197,9 @@ products:
     badge: Best all-rounder
     summary: >-
       A 4-section aluminum Befree Advanced kit with lever leg locks, a 494 ball
-      head and a 9 kg rated safety payload, folding to about 40 cm. A mainstream,
-      ready-to-go kit for mirrorless shooters who like flip-style locks.
+      head and a 9 kg rated safety payload, folding to about 40 cm. A
+      mainstream, ready-to-go kit for mirrorless shooters who like flip-style
+      locks.
     renterNote: >-
       Mirrorless shooters with a body and standard zoom who want a familiar
       brand, quick lever locks and a head included, and can carry about 1.6 kg;
@@ -531,7 +532,13 @@ products:
             https://masterfoto.lv/en/photo-tripods/40826-sirui-traveler-5c-carbon-tripod
 updatedDate: '2026-10-22T10:29:00.000Z'
 reviewedDate: '2026-10-22'
----895g-31cm-138cm.html
+heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
+heroAlt: >-
+  Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
+  buying guide
+---
+
+895g-31cm-138cm.html
           reviews: 1
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
