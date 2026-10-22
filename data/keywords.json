@@ -35,7 +35,7 @@
     }
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -75,7 +75,8 @@
       "travel-tripods-too-heavy-for-hiking",
       "travel-tripods-wobbly-for-long-exposure"
     ],
-    "note": "2026-10-19 SERP gate: 1 model confirmed."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "published",
@@ -476,7 +477,7 @@
     "publishedAt": "2026-10-18T13:30:54.889Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -505,7 +506,8 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-10-18"
     },
-    "note": "2026-10-19 SERP gate: no model on 2+ pages."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "published",
@@ -774,7 +776,7 @@
     "publishedAt": "2026-10-18T13:44:29.576Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-15T00:00:00.000Z",
     "secondaryKeywords": [
@@ -805,7 +807,9 @@
     },
     "painPoints": [
       "camera-tripods-cheap-false-economy"
-    ]
+    ],
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -1017,7 +1021,7 @@
     "lastError": "cannibalization: \"best monopod for sports photography\" overlaps \"monopod vs tripod for sports photography\" (100%)"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-18T13:34:45.954Z",
     "secondaryKeywords": [],
@@ -1042,7 +1046,8 @@
       "monopods-height-rough-terrain",
       "monopods-worth-it-vs-tripod"
     ],
-    "note": "2026-10-19: SERP is explainers and maker pages; no model on 2+ top-10 pages. Candidate for a no-product explainer if the owner allows."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "merged",
@@ -1295,7 +1300,7 @@
     "mergedInto": "ball-head-tripod"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [
@@ -1328,10 +1333,11 @@
       "travel-tripods-too-heavy-for-hiking"
     ],
     "slug": "lightweight-camera-tripod",
-    "note": "2026-10-19 SERP gate: no model on 2+ pages."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [],
@@ -1359,10 +1365,11 @@
       "date": "2026-10-19"
     },
     "slug": "mini-ball-head",
-    "note": "2026-10-20: SERP is maker catalogs/shops; no product recommended by 2+ independent top-10 pages. Retry as \"best small ball head for travel\" or after SERP changes."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:28:04.437Z",
     "secondaryKeywords": [],
@@ -1394,7 +1401,8 @@
       "tripod-heads-ballhead-sag-after-locking",
       "tripod-heads-plate-loosens-or-twists"
     ],
-    "note": "2026-10-19 SERP gate: 1 model on 2+ pages."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "merged",
@@ -1431,21 +1439,37 @@
     "mergedInto": "best-hiking-tripod"
   },
   {
-    "status": "deferred",
-    "attempts": 1,
-    "addedAt": "2026-10-19T13:30:20.498Z",
-    "secondaryKeywords": [],
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "secondaryKeywords": [
+      "best tripod for content creators iphone",
+      "best tripod for estheticians",
+      "best tripod for educational videos",
+      "best tripod for iphone content creation",
+      "best tripod for influencers",
+      "best tripod for phone content creation",
+      "best tripod for reels",
+      "best tripod for ugc creators",
+      "best tripod for ugc",
+      "best tripod for unboxing videos",
+      "best tripod for unboxing",
+      "best tripod for ugc content",
+      "best phone tripod for content creators",
+      "best iphone tripod for content creators",
+      "the best tripod for content creators"
+    ],
     "questions": [],
-    "priority": 5,
+    "priority": 900,
     "keyword": "best tripod for content creators",
     "category": "phone-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripods for Content Creators: Stable, Fast to Set Up",
-    "cluster": "phone tripods",
-    "source": "keyword-agent",
-    "rationale": "Ahrefs matching-terms us: volume 600, KD 0; queue held fewer than 25 measured pending keywords.",
+    "cluster": "content",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 17 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "ahrefs": {
       "volume": 600,
       "kd": 0,
@@ -1455,24 +1479,42 @@
       "date": "2026-10-19"
     },
     "slug": "best-tripod-for-content-creators",
-    "note": "2026-10-19: top 10 is social video, shop and maker pages; no product on 2+ editorial top-10 pages; heavy overlap with phone tripod posts."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "productCount": 18
   },
   {
-    "status": "rejected",
+    "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-19T13:30:20.499Z",
-    "secondaryKeywords": [],
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "secondaryKeywords": [
+      "best tripod for shooting",
+      "best tripod for ar 15",
+      "best tripod for deer hunting",
+      "best tripod for hunting rifle",
+      "best tripod for long range shooting",
+      "best tripod for nrl hunter",
+      "best tripod for prs shooting",
+      "best tripod for prs",
+      "best tripod for rifle",
+      "best tripod for rifle hunting",
+      "best tripod for rifle shooting",
+      "best tripod for shooting rifle",
+      "best carbon fiber tripod for hunting",
+      "best gun clamp for tripod",
+      "best hunting tripod for rifle"
+    ],
     "questions": [],
-    "priority": 5,
+    "priority": 900,
     "keyword": "best tripod for hunting",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripods for Hunting: Light, Quiet and Steady",
-    "cluster": "camera tripods",
-    "source": "keyword-agent",
-    "rationale": "Ahrefs matching-terms us: volume 500, KD 1; queue held fewer than 25 measured pending keywords.",
+    "cluster": "hunting",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 29 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "ahrefs": {
       "volume": 500,
       "kd": 1,
@@ -1512,7 +1554,7 @@
     "note": "2026-10-19: off-niche (firearm shooting rest), not a camera support topic."
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1536,10 +1578,11 @@
       "date": "2026-10-19"
     },
     "slug": "heavy-duty-tripod",
-    "note": "2026-10-19: one editorial page in top 10 (SLR Lounge); only 2 products on 2+ editorial pages nearby."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1564,10 +1607,11 @@
     },
     "slug": "monopod-for-camera",
     "productCount": 17,
-    "note": "2026-10-19 SERP gate: only 3 non-shop pages, brands not models."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1591,7 +1635,8 @@
       "date": "2026-10-19"
     },
     "slug": "carbon-fiber-tripod",
-    "note": "2026-10-19: top 10 is maker/shop collection pages; one editorial roundup (Digital Camera World)."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "merged",
@@ -1703,7 +1748,7 @@
     "publishedAt": "2026-10-20T13:40:23.285Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1727,10 +1772,11 @@
       "date": "2026-10-19"
     },
     "slug": "broadcast-camera-tripod",
-    "note": "2026-10-19 SERP gate: maker/supplier pages only."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1754,10 +1800,11 @@
       "date": "2026-10-19"
     },
     "slug": "ring-light-tripod",
-    "note": "2026-10-19 SERP gate: 2 non-shop pages."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1781,10 +1828,11 @@
       "date": "2026-10-19"
     },
     "slug": "tripod-for-ipad",
-    "note": "2026-10-19: 2 editorial roundups in top 10 share no products."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:20.499Z",
     "secondaryKeywords": [],
@@ -1808,7 +1856,8 @@
       "date": "2026-10-19"
     },
     "slug": "gopro-tripod-mount",
-    "note": "2026-10-19: no independent editorial roundup in top 10 (GoPro shop, Amazon, Reddit, shops)."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "published",
@@ -1839,7 +1888,7 @@
     "publishedAt": "2026-10-20T13:41:31.424Z"
   },
   {
-    "status": "deferred",
+    "status": "replaced",
     "attempts": 1,
     "addedAt": "2026-10-19T13:30:45.947Z",
     "secondaryKeywords": [],
@@ -1863,7 +1912,8 @@
       "date": "2026-10-19"
     },
     "slug": "phone-tripod-stand",
-    "note": "2026-10-19 SERP gate: 1 editorial page."
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
     "status": "published",
@@ -1926,7 +1976,7 @@
     "publishedAt": "2026-10-20T20:02:40.489Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -1952,10 +2002,12 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point camera-tripods-soft-ground-slipping. Live SERP: reallyrightstuff blog, photo.stackexchange, r/photography, fstoppers review, fujix-forum, travelingphotographer.com; one Amazon search page and a SLIK page. Mostly independent and forums; winnable. 'tripod spikes or rubber feet' had a store-dominated SERP (Gitzo, Peak Design, B&H, Ace, Sunway, K&F), so it is folded in here as a secondary, not a standalone post.",
-    "slug": "tripod-for-sand-and-beach-photography"
+    "slug": "tripod-for-sand-and-beach-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -1980,7 +2032,9 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point monopods-height-rough-terrain (uncovered). Live SERP: r/AskPhotography, dpreview, flickr group, bcgforums, fredmiranda, talkphotography forums, accu-shot.com, 3leggedthing blog, photographymad.com; no store listings. Forum-dominated, winnable. Sister topic to the live tripod-height post, but a different product (monopod), so no cannibal hit.",
-    "slug": "what-height-monopod-do-i-need"
+    "slug": "what-height-monopod-do-i-need",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -2041,7 +2095,7 @@
     "publishedAt": "2026-10-20T20:09:18.075Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2067,7 +2121,9 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point tripod-heads-gimbal-heavy-and-bulky (uncovered). Live SERP: digitalcameraworld.com, shuttermuse.com, birdforum, dpreview, bcgforums, r/photography, weseektravel.com, YouTube; one Best Buy category page. Mostly independent publishers and forums; winnable with a roundup. Real product intent (BOFU).",
-    "slug": "lightweight-gimbal-head-for-hiking"
+    "slug": "lightweight-gimbal-head-for-hiking",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -2101,7 +2157,7 @@
     "publishedAt": "2026-10-21T10:41:37.536Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2127,7 +2183,9 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point monopods-arm-fatigue-heavy-lens. Live SERP: r/AskPhotography, dpreview, bcgforums, Facebook, digitalcameraworld.com, slrlounge.com, YouTube; Amazon, B&H and Walmart category pages take 3 slots. Majority independent, so winnable but write it as a load-and-height-led roundup. Note: old 'best monopod for sports photography' was merged into an existing post; this keyword is lens-weight led.",
-    "slug": "monopod-for-heavy-telephoto-lens"
+    "slug": "monopod-for-heavy-telephoto-lens",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "merged",
@@ -2160,7 +2218,7 @@
     "lastError": "cannibalization: \"wimberley vs benro gimbal head\" overlaps \"cheap gimbal head vs wimberley\" (75%)"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2182,10 +2240,12 @@
     "cluster": "tripod setup",
     "source": "no-ahrefs",
     "rationale": "Idea from Google SERP and r/AskPhotography leveling threads ('Tripod Leveling - Please help, I'm losing my mind'). Live SERP: getdpi, dpreview, cloudynights, r/AskPhotography forums, kentfaith blog, apresvisuals blog, Facebook/Instagram/YouTube; one Leofoto Facebook video. No store pages; winnable. Mild risk: several results are social posts, which suggests thin competition.",
-    "slug": "how-to-level-a-tripod-on-uneven-ground"
+    "slug": "how-to-level-a-tripod-on-uneven-ground",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.108Z",
     "secondaryKeywords": [
@@ -2210,10 +2270,12 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point camera-tripods-light-tripod-heavy-lens-shake (uncovered; threads cite 600mm plus teleconverter moon shots on photo.stackexchange q/125034). Live SERP: Facebook x2, dpreview, cloudynights forums, photopills.com, space.com, astrobackyard.com, reddit; no stores. Independent articles plus forums; winnable. Keep angle on the tripod and head, not moon technique.",
-    "slug": "tripod-for-moon-photography"
+    "slug": "tripod-for-moon-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T18:58:22.109Z",
     "secondaryKeywords": [
@@ -2239,7 +2301,9 @@
     ],
     "source": "no-ahrefs",
     "rationale": "Pain point monopods-wobble-with-gimbal-weight. Live SERP: bcgforums x2, fredmiranda, talkphotography, r/sportsphotography forums, backcountrygallery.com, the-digital-picture.com review, YouTube; the Wimberley maker page and one Amazon page rank (2 of 10). Mostly independent and forums; winnable. Close to 'monopod for heavy telephoto lens' but the question is the head and base wobble; link, do not merge.",
-    "slug": "monopod-for-gimbal-head"
+    "slug": "monopod-for-gimbal-head",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -2270,79 +2334,69 @@
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
-    "secondaryKeywords": [
-      "telescope tripod upgrade",
-      "sturdy tripod for small telescope",
-      "best tripod for refractor telescope"
-    ],
-    "questions": [
-      "can I use a camera tripod for a telescope",
-      "how do I make a telescope tripod steadier"
-    ],
-    "priority": 600,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for telescope",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for a Telescope: When a Camera Tripod Is Enough",
-    "cluster": "optics tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/telescopes #1, Cloudy Nights forum, bestbinocularsreviews, space.com, telescopicwatch, YouTube; 4 astronomy stores (OPT, Agena, Astronomics, High Point). Mixed: stores are collection pages, informational posts rank. Borderline; angle = camera tripod for small scopes and spotting-class optics, not mounts.",
+    "cluster": "telescope",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-telescope",
-    "preResearch": "skipped: SERP 2026-10-21 is 4 astronomy stores (OPT, Astronomics, Agena, High Point) plus telescope-mount/astro-tripod pages (Cloudy Nights Berlebach/Avalon, Sky at Night mounts, r/telescopes EQ tripod); the only camera-tripod angle (small scopes, spotting-class optics) overlaps the live best-tripod-for-spotting-scope post"
+    "preResearch": "skipped: SERP 2026-10-21 is 4 astronomy stores (OPT, Astronomics, Agena, High Point) plus telescope-mount/astro-tripod pages (Cloudy Nights Berlebach/Avalon, Sky at Night mounts, r/telescopes EQ tripod); the only camera-tripod angle (small scopes, spotting-class optics) overlaps the live best-tripod-for-spotting-scope post",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "astrophotography tripod",
-      "tripod for milky way photography",
-      "tripod for star tracker"
+      "best tripod for milky way photography",
+      "best tripod for night photography"
     ],
-    "questions": [
-      "do you need a special tripod for astrophotography",
-      "how much weight should an astro tripod hold"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for astrophotography",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Astrophotography: Stability for Long Exposures",
-    "cluster": "astro and long-lens tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskAstrophotography #1, space.com, skiesandscopes, DPReview forum, Facebook, YouTube, Fstoppers; B&H, Best Buy, High Point are store pages (3). Winnable. Queue has \"best tripod for astrophotography under 3 pounds\" (deferred, weight angle); this is the general buyer guide, link between them.",
-    "slug": "best-tripod-for-astrophotography"
+    "cluster": "astro",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-astrophotography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "macro tripod low angle",
-      "tripod with reversible center column for macro",
-      "focus rail vs tripod for macro",
-      "best table top tripod for macro photography"
+      "best tripod for macro",
+      "the best tripod for macro photography"
     ],
-    "questions": [
-      "what tripod is best for macro photography",
-      "can you shoot macro handheld"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for macro photography",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Macro Photography: Low Angles and No Wobble",
-    "cluster": "specialty tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/photography #1, better-digital-photo-tips (old site), Vanguard blog, transcontinenta, iNaturalist forum, photo.stackexchange, Facebook; Adorama and Best Buy collection pages (2). Winnable, forum and old blog heavy.",
-    "slug": "best-tripod-for-macro-photography"
+    "cluster": "macro",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-macro-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -2371,7 +2425,7 @@
     "publishedAt": "2026-10-21T10:34:23.061Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2407,10 +2461,12 @@
     "painPoints": [
       "camera-tripods-cheap-false-economy"
     ],
-    "slug": "best-tripod-for-beginners-under-100"
+    "slug": "best-tripod-for-beginners-under-100",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2433,35 +2489,34 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, two Facebook groups, canonrumors forum x2, packapop, SmallRig and Filmtools product pages, Amazon, Best Buy. Forums and a thin blog dominate; winnable.",
-    "slug": "best-tripod-for-canon-r50"
+    "slug": "best-tripod-for-canon-r50",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "tripod for sony a7 iv",
-      "travel tripod for sony a7iv",
-      "sony a7iv video tripod"
+      "best tripod for sony a7iii"
     ],
-    "questions": [
-      "what size tripod does a sony a7iv need",
-      "can a lightweight travel tripod hold an a7iv with a 70-200"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for sony a7iv",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Sony A7 IV: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyAlpha #1, keithknittel, packapop, cameraegg and sony-rumors forums, Facebook, YouTube Shorts; Amazon, B&H and Best Buy listings (3). Winnable; share nothing with the travel tripod post. Differentiate from a7c (compact body) and a7r v (not queued, same intent).",
-    "slug": "best-tripod-for-sony-a7iv"
+    "cluster": "sony_a7",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-sony-a7iv",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2483,10 +2538,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): Facebook, r/canon, packapop, Manfrotto story, B&H, canonrumors forum x2, Amazon, Target, YouTube. Forum/thin blog heavy; winnable. R6 is full-frame, so keep the angle on 24-105 and 70-200 loads, different from the R50/R7/R8 posts.",
-    "slug": "best-tripod-for-canon-r6"
+    "slug": "best-tripod-for-canon-r6",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2509,35 +2566,39 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/nikon_Zseries, Facebook, packapop, YouTube x2, cameraegg forum, bcgforums, photographypanel forum; Adorama list and one Amazon page. Winnable. Z6/Z6II/Z6III full-frame class; keep apart from z50 (APS-C) and z8 (heavy).",
-    "slug": "best-tripod-for-nikon-z6"
+    "slug": "best-tripod-for-nikon-z6",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "tripod for fuji xt5",
-      "travel tripod for fujifilm x-t5",
-      "fujifilm x-t5 tripod with arca swiss plate"
+      "best tripod for fujifilm xt5",
+      "best tripod for fuji",
+      "best tripod for xm5",
+      "best tripod for xt5",
+      "best tripod for fujifilm xm5",
+      "best tripod for fujifilm xt30"
     ],
-    "questions": [
-      "what tripod works with the fujifilm x-t5",
-      "do fujifilm cameras need a special tripod plate"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for fujifilm x-t5",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Fujifilm X-T5: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/fujifilm #1, packhacker (generic travel), cameraegg forum, Fujifilm own TG-BT1 grip page, Amazon, Best Buy, kentfaith brand page, Facebook, digitalcameraworld generic roundup. Thin and off-topic results; winnable.",
-    "slug": "best-tripod-for-fujifilm-x-t5"
+    "cluster": "fuji",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-fujifilm-x-t5",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2559,37 +2620,38 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): sony-rumors forum #1, Amazon, r/SonyAlpha, Best Buy x2, Facebook, DPReview forum, alphashooters forum, eBay, YouTube. Very weak (forums, stores listings, eBay); easy win.",
-    "slug": "best-tripod-for-sony-a6400"
+    "slug": "best-tripod-for-sony-a6400",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "tripod for sony zv e10",
-      "sony zv-e10 vlogging tripod",
-      "mini tripod for zv-e10",
+      "best tripod for zve10",
       "best tripod for sony zv e10",
-      "best vlogging tripod for sony zv e10"
+      "best tripod for sony zv e10 ii",
+      "best tripod for sony zv1",
+      "best tripod for sony zv 1f"
     ],
-    "questions": [
-      "what tripod is best for sony zv-e10 vlogging",
-      "is the manfrotto pixi enough for the zv-e10"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for sony zv-e10",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Sony ZV-E10: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyZVE10 #1, Best Buy, B&H, YouTube x2, Amazon, sony-rumors and cameraegg forums, TikTok, Sony compatibility page. Forums and video; winnable. Vlogging angle: mini tripod versus full-size. Close to the phone vlogging post but different gear.",
-    "slug": "best-tripod-for-sony-zv-e10"
+    "cluster": "zve10",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-sony-zv-e10",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2611,10 +2673,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, Amazon, Facebook, YouTube, canonrumors forum x2, promediagear, cameradecision, rfshooters forum, digitalcameraworld generic. Forums and thin accessory lists; winnable. APS-C with 100-400 and tripod collar question.",
-    "slug": "best-tripod-for-canon-r7"
+    "slug": "best-tripod-for-canon-r7",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2636,10 +2700,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/nikon_Zseries #1, Nikon fieldscope tripod page, Facebook, Amazon, Kentfaith, camera-rumors forum, TechGearLab generic, DPReview forum, packapop (Z6 page), Adorama. Weak/off-niche; winnable. APS-C; keep apart from z6.",
-    "slug": "best-tripod-for-nikon-z50"
+    "slug": "best-tripod-for-nikon-z50",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2661,10 +2727,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskPhotography #1, sony-rumors forum, alphashooters accessory list, YouTube, Amazon grip, Facebook, talkphotography forum, digitalcameraworld generic, sonyalphaforum, photographypanel forum. Forums only; easy win. Compact full-frame body: keep angle on small tripods.",
-    "slug": "best-tripod-for-sony-a7c"
+    "slug": "best-tripod-for-sony-a7c",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2686,10 +2754,12 @@
     "cluster": "astro and long-lens tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/photography #1, davemorrow, kevinpepper, theauroraguy, Facebook, nathab, YouTube, Tripadvisor forum, Cruise Critic forum, Photography Life. No store or listicle; very winnable. Tripod advice is buried in how-to guides. Cold-weather angle: gloves, leg locks, metal vs carbon.",
-    "slug": "best-tripod-for-northern-lights-photography"
+    "slug": "best-tripod-for-northern-lights-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2711,10 +2781,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, Facebook x2, canonrumors forum x2, Amazon, promediagear, cameradecision, YouTube, DPReview forum. Forums only; easy win. R8 has no IBIS so tripod stability angle.",
-    "slug": "best-tripod-for-canon-r8"
+    "slug": "best-tripod-for-canon-r8",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2736,10 +2808,12 @@
     "cluster": "specialty tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): learntimelapse, Best Buy, r/videography, Facebook, Amateur Photographer, Wirecutter (generic), matjoez store blog, YouTube, Medium, TechGearLab. Off-niche and generic roundups, one small niche site; winnable.",
-    "slug": "best-tripod-for-time-lapse-photography"
+    "slug": "best-tripod-for-time-lapse-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2769,7 +2843,9 @@
     "cluster": "specialty tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskPhotography #1, twolovesstudio, reganbaroni, YouTube, Manfrotto story, thelittleplantation, Best Buy, Facebook, foodphotographyblog, foodphotographycoach. Mostly small niche blogs; winnable. Product photography SERP shares ~3 URLs, so it is merged here as a secondary, not queued separately.",
-    "slug": "best-tripod-for-food-photography"
+    "slug": "best-tripod-for-food-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "published",
@@ -2801,7 +2877,7 @@
     "publishedAt": "2026-10-21T10:31:46.473Z"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2826,10 +2902,12 @@
     "painPoints": [
       "tripod-heads-heavy-telephoto-droop"
     ],
-    "slug": "best-ball-head-for-telephoto-lens"
+    "slug": "best-ball-head-for-telephoto-lens",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2854,61 +2932,63 @@
     "painPoints": [
       "tripod-heads-gimbal-used-less-than-expected"
     ],
-    "slug": "best-gimbal-head-for-100-400mm-lens"
+    "slug": "best-gimbal-head-for-100-400mm-lens",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "tripod for sony a6700",
-      "lightweight tripod for sony a6700",
-      "sony a6700 vlogging tripod"
+      "best tripod for a6700",
+      "best tripod for sony a6400"
     ],
-    "questions": [
-      "what tripod is best for the sony a6700",
-      "is a travel tripod stable enough for the a6700 with the 70-350"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for sony a6700",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Sony a6700: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/SonyAlpha #1, packapop, sony-rumors forum, YouTube, promediagear, Kentfaith, Facebook, Amazon, alphashooters, Space.com. Forums and thin blogs; winnable. APS-C; keep apart from a6400 post (older body, budget angle) by focusing on the 70-350 and video load.",
-    "slug": "best-tripod-for-sony-a6700"
+    "cluster": "sony_a6",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-sony-a6700",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-20T20:10:20.387Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "tripod for nikon z8",
-      "nikon z8 tripod for 180-600",
-      "nikon z8 gimbal head",
-      "best tripod for nikon z8"
+      "best tripod for nikon z6iii",
+      "best tripod for nikon z50ii",
+      "best tripod for nikon d850",
+      "best tripod for z8",
+      "best tripod for z6iii",
+      "best tripod for z9",
+      "best tripod for nikon z9"
     ],
-    "questions": [
-      "what tripod do you need for a nikon z8 with a 180-600",
-      "is a carbon tripod worth it for the z8"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 900,
     "keyword": "best tripod for nikon z8",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Nikon Z8: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/Nikon #1, Facebook, packapop, transcontinenta, bcgforums, promediagear, Adorama, YouTube, cameraegg forum, camdox. Forums and thin blogs; winnable. Pro body with 180-600/800 PF: keep angle on load capacity and head.",
-    "slug": "best-tripod-for-nikon-z8"
+    "cluster": "nikon",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-nikon-z8",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2930,10 +3010,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/Lumix #1, Facebook, YouTube x2, eBay, cameraegg forum, Best Buy, camera-rumors forum, skiesandscopes, DPReview forum. Forums only; easy win. Covers S5/S5II/S5IIX; video and photo hybrid angle.",
-    "slug": "best-tripod-for-panasonic-lumix-s5"
+    "slug": "best-tripod-for-panasonic-lumix-s5",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2955,10 +3037,12 @@
     "cluster": "camera-specific tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): Amazon #1, cameraegg forum, photographypanel forum, YouTube, r/fujifilm, cameradecision, Fujifilm grip page, Facebook, packhacker, Best Buy. Forums and accessory lists; winnable. Vlogging angle; X-T5 post covers photo travel angle.",
-    "slug": "best-tripod-for-fujifilm-x-s20"
+    "slug": "best-tripod-for-fujifilm-x-s20",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2980,7 +3064,9 @@
     "cluster": "specialty tripods",
     "source": "no-ahrefs",
     "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/weddingvideography #1, YouTube x2, CNET generic, luxefilmography, Facebook, alinathomas, Best Buy, B&H explora guide, DPReview forum. Forums, small blogs and videos; winnable. Link to monopod vs tripod post.",
-    "slug": "best-tripod-for-wedding-photography"
+    "slug": "best-tripod-for-wedding-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "merged",
@@ -3919,7 +4005,7 @@
     "rationale": "3 shared top-10 results with post \"best phone tripod for vlogging with remote\" and the same topic; owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.966Z",
     "secondaryKeywords": [
@@ -3938,10 +4024,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-kids"
+    "slug": "best-tripod-for-kids",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -3958,10 +4046,12 @@
     "cluster": "travel tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-japan"
+    "slug": "best-tripod-for-japan",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -3976,36 +4066,48 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "types-of-tripod-stand"
+    "slug": "types-of-tripod-stand",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-21T15:40:51.969Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
-      "which is the best tripod",
-      "best heavy duty tripod for camera",
-      "best tripod for jewellery photography",
-      "best dslr camera tripod for canon",
+      "best tripod for dslr",
+      "best tripod for everything",
+      "best tripod for photography",
+      "best tripod quality",
+      "tripod best quality with light",
+      "best lightweight tripod for camera",
       "best quality tripod for camera",
+      "reddit best tripod for camera",
+      "the best tripod for camera",
+      "the best tripod for photography",
       "what is the best tripod for camera",
+      "what is the best tripod for photography",
+      "which is the best tripod",
+      "what is the best tripod to use for photography",
       "which tripod stand is best"
     ],
     "questions": [],
-    "priority": 600,
+    "priority": 900,
     "keyword": "best tripod for camera",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod For Camera",
-    "cluster": "camera tripods",
+    "cluster": "camera",
     "source": "user",
-    "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-camera"
+    "rationale": "Owner keyword list 2026-10-22; groups 43 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-camera",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4025,30 +4127,35 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-youtube"
+    "slug": "best-tripod-for-youtube",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-21T15:40:51.969Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
+      "best tripod for leica q2",
       "best travel tripod for leica q3"
     ],
     "questions": [],
-    "priority": 600,
+    "priority": 900,
     "keyword": "best tripod for leica q3",
     "category": "travel-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod For Leica Q3",
-    "cluster": "travel tripods",
+    "cluster": "leica",
     "source": "user",
-    "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-leica-q3"
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-leica-q3",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4066,10 +4173,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-phone-tripod-for-gym"
+    "slug": "best-phone-tripod-for-gym",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -4084,10 +4193,12 @@
     "cluster": "tripod accessories",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "how-to-use-a-tripod-level"
+    "slug": "how-to-use-a-tripod-level",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4107,10 +4218,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-golf-tripod-for-phone"
+    "slug": "best-golf-tripod-for-phone",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -4125,10 +4238,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-nikon-d850"
+    "slug": "best-tripod-for-nikon-d850",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4152,10 +4267,12 @@
     "cluster": "tabletop mini tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-mini-tripod-for-camera"
+    "slug": "best-mini-tripod-for-camera",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4181,10 +4298,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-gun-tripod-for-hunting"
+    "slug": "best-gun-tripod-for-hunting",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4202,10 +4321,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-leofoto-tripod-for-prs"
+    "slug": "best-leofoto-tripod-for-prs",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4222,31 +4343,35 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-rrs-tripod-for-hunting"
+    "slug": "best-rrs-tripod-for-hunting",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
     "status": "pending",
     "attempts": 0,
-    "addedAt": "2026-10-21T15:40:51.969Z",
+    "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
       "best tripod for nikon p1100",
       "best tripod for nikon coolpix p1100"
     ],
     "questions": [],
-    "priority": 600,
+    "priority": 900,
     "keyword": "best tripod for nikon p1000",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
     "workingTitle": "Best Tripod For Nikon P1000",
-    "cluster": "camera tripods",
+    "cluster": "nikon_p",
     "source": "user",
-    "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-nikon-p1000"
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "slug": "best-tripod-for-nikon-p1000",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -4261,10 +4386,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-yoga-videos"
+    "slug": "best-tripod-for-yoga-videos",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -4279,10 +4406,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "tripod-for-phone-how-to-use"
+    "slug": "tripod-for-phone-how-to-use",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4300,10 +4429,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-budget-tripod-for-video"
+    "slug": "best-budget-tripod-for-video",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4321,10 +4452,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-gimbal-tripod-for-phone"
+    "slug": "best-gimbal-tripod-for-phone",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4343,10 +4476,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-ulanzi-tripod-for-phone"
+    "slug": "best-ulanzi-tripod-for-phone",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4364,10 +4499,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-iphone-tripod-for-hiking"
+    "slug": "best-iphone-tripod-for-hiking",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4382,10 +4519,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-iphone-tripod-for-sports"
+    "slug": "best-iphone-tripod-for-sports",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4408,10 +4547,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-selfie-tripod-for-iphone"
+    "slug": "best-selfie-tripod-for-iphone",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4429,10 +4570,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-top-down-shot"
+    "slug": "best-tripod-for-top-down-shot",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4449,10 +4592,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-online-classes"
+    "slug": "best-tripod-for-online-classes",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4467,10 +4612,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-vortex-tripod-for-hunting"
+    "slug": "best-vortex-tripod-for-hunting",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4485,10 +4632,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-arca-rail-tripod-for-rifle"
+    "slug": "best-arca-rail-tripod-for-rifle",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4503,10 +4652,12 @@
     "cluster": "tabletop mini tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-flexible-tripod-for-camera"
+    "slug": "best-flexible-tripod-for-camera",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4521,10 +4672,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-manfrotto-tripod-for-video"
+    "slug": "best-manfrotto-tripod-for-video",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4539,10 +4692,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-toy-photography"
+    "slug": "best-tripod-for-toy-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4557,10 +4712,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-vlogging-tripod-for-camera"
+    "slug": "best-vlogging-tripod-for-camera",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4575,10 +4732,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-overhead-tripod-for-artists"
+    "slug": "best-overhead-tripod-for-artists",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4593,10 +4752,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-360-virtual-tours"
+    "slug": "best-tripod-for-360-virtual-tours",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4611,10 +4772,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-night-photography"
+    "slug": "best-tripod-for-night-photography",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4634,10 +4797,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-vlogging-under-500"
+    "slug": "best-tripod-for-vlogging-under-500",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4657,10 +4822,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-ultralight-tripod-for-hunting"
+    "slug": "best-ultralight-tripod-for-hunting",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4677,10 +4844,12 @@
     "cluster": "travel tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-carbon-fiber-tripod-for-travel"
+    "slug": "best-carbon-fiber-tripod-for-travel",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4695,10 +4864,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-ipad-tripod-for-filming-sports"
+    "slug": "best-ipad-tripod-for-filming-sports",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4713,10 +4884,12 @@
     "cluster": "tripod accessories",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-quick-release-plate-for-tripod"
+    "slug": "best-quick-release-plate-for-tripod",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4731,10 +4904,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-for-kowa-spotting-scope"
+    "slug": "best-tripod-for-kowa-spotting-scope",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4749,10 +4924,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-auto-tracking-tripod-for-sports"
+    "slug": "best-auto-tracking-tripod-for-sports",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4767,10 +4944,12 @@
     "cluster": "video tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "joby-best-tripod-for-mobile-vlogging"
+    "slug": "joby-best-tripod-for-mobile-vlogging",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4785,10 +4964,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-ring-light-tripod-for-self-tapes"
+    "slug": "best-ring-light-tripod-for-self-tapes",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4803,10 +4984,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-extendable-tripod-for-osmo-pocket-3"
+    "slug": "best-extendable-tripod-for-osmo-pocket-3",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4821,10 +5004,12 @@
     "cluster": "camera tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-table-top-tripod-for-spotting-scope"
+    "slug": "best-table-top-tripod-for-spotting-scope",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4841,10 +5026,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-overhead-tripod-for-phone-with-light"
+    "slug": "best-overhead-tripod-for-phone-with-light",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4863,10 +5050,12 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-tripod-with-light-for-youtube-videos"
+    "slug": "best-tripod-with-light-for-youtube-videos",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "replaced",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [],
@@ -4881,6 +5070,2242 @@
     "cluster": "phone tripods",
     "source": "user",
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
-    "slug": "best-ring-light-with-tripod-for-makeup-artist"
+    "slug": "best-ring-light-with-tripod-for-makeup-artist",
+    "replacedAt": "2026-10-22T00:00:00.000Z",
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for youtube videos",
+    "slug": "best-tripod-for-youtube-videos",
+    "secondaryKeywords": [
+      "best tripod for vlogging",
+      "best tripod for youtube",
+      "best tripod for youtube videos in india",
+      "best tripod for youtube vlogging",
+      "best tripod for youtube shorts",
+      "best tripod for youtube video shooting",
+      "the best tripod for vlogging",
+      "which tripod is best for making youtube videos",
+      "best mobile tripod for youtube videos",
+      "best camera and tripod for youtube",
+      "best tripod stand for youtube videos"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "youtube",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 12 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for binoculars",
+    "slug": "best-tripod-for-binoculars",
+    "secondaryKeywords": [
+      "best tripod for astronomy binoculars",
+      "best tripod for binoculars hunting",
+      "best tripod for glassing and shooting",
+      "best tripod for glassing",
+      "best tripod for shooting and glassing",
+      "best hunting tripod for glassing"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "binoculars",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for dji osmo pocket 3",
+    "slug": "best-tripod-for-dji-osmo-pocket-3",
+    "secondaryKeywords": [
+      "best tripod for dji osmo pocket 4",
+      "best tripod for dji pocket 3",
+      "best tripod for dji",
+      "best tripod for osmo pocket 3",
+      "best tripod for osmo pocket 4",
+      "best tripod for osmo pocket 4p",
+      "best tripod for osmo pocket"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tabletop-mini-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "pocket",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for filming sports",
+    "slug": "best-tripod-for-filming-sports",
+    "secondaryKeywords": [
+      "best tripod for bleachers",
+      "best tripod for pocket radar",
+      "best tripod for tennis",
+      "best tripod for tennis recording",
+      "best tripod for volleyball",
+      "best tripod for veo camera"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "sports",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best shooting tripod for kids",
+    "slug": "best-shooting-tripod-for-kids",
+    "secondaryKeywords": [
+      "best tripod for kids hunting",
+      "best tripod for kids shooting",
+      "best gun tripod for kids",
+      "best rifle tripod for kids",
+      "best tripod for youth hunting",
+      "best tripod for youth turkey hunting"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "youth",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "can you use any tripod for a camera",
+    "slug": "can-you-use-any-tripod-for-a-camera",
+    "secondaryKeywords": [
+      "can tripods fit all cameras",
+      "can tripods work with any camera",
+      "do tripods work for any camera",
+      "do tripods fit every camera"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "info_any",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for laser level",
+    "slug": "best-tripod-for-laser-level",
+    "secondaryKeywords": [
+      "best tripod for bosch laser level",
+      "best tripod for dewalt laser level",
+      "best tripod for milwaukee laser level",
+      "best tripod for milwaukee laser",
+      "best laser level with tripod for home use"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tripod-accessories",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "laser",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for golf swing",
+    "slug": "best-tripod-for-golf-swing",
+    "secondaryKeywords": [
+      "best tripod for filming golf swing",
+      "best tripod for golf",
+      "best tripod for golf videos",
+      "best tripod for recording golf swing",
+      "best golf tripod for iphone"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "golf",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for gym videos",
+    "slug": "best-tripod-for-gym-videos",
+    "secondaryKeywords": [
+      "best tripod for gym content",
+      "best tripod for gym",
+      "best tripod for the gym",
+      "best tripod for yoga videos"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "gym",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for backcountry hunting",
+    "slug": "best-tripod-for-backcountry-hunting",
+    "secondaryKeywords": [
+      "best tripod for backpack hunting",
+      "best tripod for elk hunting",
+      "best tripod for mountain hunting",
+      "best tripod for western hunting"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "western",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for fujifilm x100vi",
+    "slug": "best-tripod-for-fujifilm-x100vi",
+    "secondaryKeywords": [
+      "best tripod for x100vi",
+      "best tripod for x100v",
+      "best tripod for x100vi reddit",
+      "best travel tripod for fujifilm x100vi"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "travel-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "x100",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for dji osmo action 5 pro",
+    "slug": "best-tripod-for-dji-osmo-action-5-pro",
+    "secondaryKeywords": [
+      "best tripod for ace pro 2",
+      "best tripod for dji action 5 pro",
+      "best tripod for dji action 6",
+      "best tripod for osmo action 5"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tabletop-mini-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "action",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for medium format camera",
+    "slug": "best-tripod-for-medium-format-camera",
+    "secondaryKeywords": [
+      "best tripod for large format camera",
+      "best tripod for mamiya rb67",
+      "best tripod for rb67"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "medium",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod quick release plate",
+    "slug": "best-tripod-quick-release-plate",
+    "secondaryKeywords": [
+      "best tripod quick release system",
+      "best tripod quick release",
+      "best quick release plate for tripod"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tripod-accessories",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "qr",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod under 100",
+    "slug": "best-tripod-under-100",
+    "secondaryKeywords": [
+      "best tripod quality price",
+      "best tripod for the money",
+      "best tripod for under 100",
+      "best tripod for under 200"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "budget",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tabletop camera tripod",
+    "slug": "best-tabletop-camera-tripod",
+    "secondaryKeywords": [
+      "best table top tripod for macro photography",
+      "best table top tripod for iphone",
+      "best table top tripod for dslr"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tabletop-mini-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "tabletop",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for crossbow",
+    "slug": "best-tripod-for-crossbow",
+    "secondaryKeywords": [
+      "best tripod for a crossbow",
+      "best tripod for ravin crossbow"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "crossbow",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for coyote hunting",
+    "slug": "best-tripod-for-coyote-hunting",
+    "secondaryKeywords": [
+      "best tripod for thermal hunting",
+      "best tripod for coyote hunting at night"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "coyote",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for elgato prompter",
+    "slug": "best-tripod-for-elgato-prompter",
+    "secondaryKeywords": [
+      "best tripod for elgato prompter xl",
+      "best tripod for elgato teleprompter"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "prompter",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for product photography",
+    "slug": "best-tripod-for-product-photography",
+    "secondaryKeywords": [
+      "best tripod for jewellery photography",
+      "best tripod for jewelry photography"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "product",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for live streaming",
+    "slug": "best-tripod-for-live-streaming",
+    "secondaryKeywords": [
+      "best tripod for whatnot",
+      "best tripod for whatnot streaming"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "streaming",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for xbotgo",
+    "slug": "best-tripod-for-xbotgo",
+    "secondaryKeywords": [
+      "best tripod for xbotgo chameleon",
+      "best tripod for xbotgo falcon"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "xbotgo",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for zwo am5",
+    "slug": "best-tripod-for-zwo-am5",
+    "secondaryKeywords": [
+      "best tripod for zwo am5n",
+      "best tripod for zwo am7"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "zwo",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod with ring light for iphone",
+    "slug": "best-tripod-with-ring-light-for-iphone",
+    "secondaryKeywords": [
+      "best ring light and tripod for iphone",
+      "best tripod stand for mobile with ring light"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "ring_light",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for plein air painting",
+    "slug": "best-tripod-for-plein-air-painting",
+    "secondaryKeywords": [
+      "best tripod for artists"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "plein",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for dwarf 3",
+    "slug": "best-tripod-for-dwarf-3",
+    "secondaryKeywords": [
+      "best tripod for dwarf mini"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "dwarf",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for sony fx3",
+    "slug": "best-tripod-for-sony-fx3",
+    "secondaryKeywords": [
+      "best tripod for fx3",
+      "best tripod for fx30"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "fx3",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for long exposure",
+    "slug": "best-tripod-for-long-exposure",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "long_exposure",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for projector",
+    "slug": "best-tripod-for-projector",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "tripod-accessories",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "projector",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for seestar s50",
+    "slug": "best-tripod-for-seestar-s50",
+    "secondaryKeywords": [
+      "best tripod for seestar s30 pro",
+      "best tripod for seestar s50 eq mode"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "seestar",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for uneven ground",
+    "slug": "best-tripod-for-uneven-ground",
+    "secondaryKeywords": [
+      "best tripod for uneven surfaces"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "uneven",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for insta360 x5",
+    "slug": "best-tripod-for-insta360-x5",
+    "secondaryKeywords": [
+      "best tripod for x5"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tabletop-mini-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "insta360",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for zoom recorder",
+    "slug": "best-tripod-for-zoom-recorder",
+    "secondaryKeywords": [
+      "best tripod for zoom h5"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "tripod-accessories",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "audio",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "how to choose a tripod for camera",
+    "slug": "how-to-choose-a-tripod-for-camera",
+    "secondaryKeywords": [
+      "how to choose a tripod reddit"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "info_how",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for starlink mini",
+    "slug": "best-tripod-for-starlink-mini",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "tripod-accessories",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "starlink",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for canon g7x mark iii",
+    "slug": "best-tripod-for-canon-g7x-mark-iii",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "tabletop-mini-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "g7x",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for edelkrone slider",
+    "slug": "best-tripod-for-edelkrone-slider",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "slider",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for ipad",
+    "slug": "best-tripod-for-ipad",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "ipad",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for red komodo",
+    "slug": "best-tripod-for-red-komodo",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "video-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "komodo",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for lumix s5ii",
+    "slug": "best-tripod-for-lumix-s5ii",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "lumix",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best tripod for vertical shooting",
+    "slug": "best-tripod-for-vertical-shooting",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "vertical",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "best iphone tripod that follows you",
+    "slug": "best-iphone-tripod-that-follows-you",
+    "secondaryKeywords": [
+      "best tripod for iphone that follows you"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "phone-tripods",
+    "intent": "commercial",
+    "articleType": "roundup",
+    "funnel": "bofu",
+    "cluster": "follow",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "how tripods work",
+    "slug": "how-tripods-work",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "info_work",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "how heavy should a tripod be",
+    "slug": "how-heavy-should-a-tripod-be",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "info_heavy",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "keyword": "is a tripod good for photography",
+    "slug": "is-a-tripod-good-for-photography",
+    "secondaryKeywords": [
+      "is tripod good for photography"
+    ],
+    "questions": [],
+    "priority": 900,
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "info_good",
+    "source": "user",
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for android phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for filming with iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone 17 pro max",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone 17 pro",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone video recording",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone 16 pro max",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best quality tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for samsung s26 ultra",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile under 1000",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for xiaomi 15 ultra",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for your phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for an iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "cheap and best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "digitek best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "digitek best tripod for camera",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "digitek best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "digitek best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best extendable tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best iphone tripod for filming",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "what is the best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "which is the best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "mini best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "mobile phone tripod best tripod for",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "mini best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "mini best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod stand for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile video recording",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best phone tripod for outdoors",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod stand for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "tripod stand for mobile best quality",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "tripod for phone best quality",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "tripod stand for mobile 7 feet best quality",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best quality tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "reddit best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "reddit best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "selfie sticks best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "sony best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "the best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "the best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile under 500",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for samsung s25 ultra",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for samsung s24 ultra",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best ulanzi tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for s24 ultra",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod stand for mobile under 500",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "wirecutter best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "what's the best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "which is best tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "where best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "where best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "where best tripod for mobile phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "when best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "when best tripod for mobile phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "tripod for phone best",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for mobile phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for a phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for mobile phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for phones",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "what is best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "should best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "should best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "will best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "does best tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "does best tripod for mobile phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "does best tripod for phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "top 10 tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "top 5 tripod for mobile",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "top 10 tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for baking videos",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for cooking videos",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for food content creators",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for filming food content",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for overhead shots",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for overhead filming with iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for recording drawing",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "which tripod is best for cooking videos",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best overhead tripod for iphone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best overhead tripod for cooking videos",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "the best tripod for cooking videos",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for phone and camera",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile and camera",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for architectural photography",
+    "mergedInto": "best-tripod-for-real-estate-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: same Google intent as a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for a spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for hunting spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for heavy spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for leupold spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for rifle and spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for vortex spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for vortex diamondback spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for vortex viper spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for spotting scope uk",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "what is the best tripod for spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "when best tripod for spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "will best tripod for a spotting scope",
+    "mergedInto": "best-tripod-for-spotting-scope",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for real estate",
+    "mergedInto": "best-tripod-for-real-estate-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for hiking",
+    "mergedInto": "best-hiking-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for hiking photography",
+    "mergedInto": "best-hiking-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for hiking iphone",
+    "mergedInto": "best-hiking-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best lightweight tripod for backpacking",
+    "mergedInto": "best-hiking-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for birding",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for bird photography",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for telephoto lens",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for wildlife videography",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for wildlife photography in india",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for wildlife photography uk",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for wildlife",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for zoom lens",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "what is the best tripod for wildlife photography",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "will best tripod for wildlife photography",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for telephoto lens",
+    "mergedInto": "tripod-for-wildlife-photography",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for filming",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for filmmaking",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for outdoor filming",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for videography",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for wedding videography",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for video shooting",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "when best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "should best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "does best tripod for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "is tripod good for video",
+    "mergedInto": "best-video-tripod-with-fluid-head-for-beginners",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for gopro hero 13",
+    "mergedInto": "best-tripod-for-gopro",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "where best tripod for gopro",
+    "mergedInto": "best-tripod-for-gopro",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for gopro",
+    "mergedInto": "best-tripod-for-gopro",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for heavy camera",
+    "mergedInto": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for heavy camera and lens",
+    "mergedInto": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for heavy lenses",
+    "mergedInto": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for japan",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for travel photography",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for travel iphone",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for camera",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for dslr",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for phone",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "reddit best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "the best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "where best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "when best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "who best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "should best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "will best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "does best tripod for travel",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for beginners",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for camera and phone",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for videography",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for iphone vlogging",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mobile vlogging",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for vlogging with phone",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "digitek best tripod for mobile vlogging",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "which tripod is best for mobile vlogging",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "mini best tripod for mobile vlogging",
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for landscape photography",
+    "mergedInto": "landscape-photography-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for outdoor photography",
+    "mergedInto": "landscape-photography-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "why best tripod for landscape photography",
+    "mergedInto": "landscape-photography-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for mirrorless camera",
+    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best tripod for webcam",
+    "mergedInto": "best-mini-tripod-for-desk-video-calls",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best ball head for tripod",
+    "mergedInto": "ball-head-tripod",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
+  },
+  {
+    "status": "merged",
+    "keyword": "best travel tripod for tall person",
+    "mergedInto": "best-tripod-for-tall-photographers-over-6-feet",
+    "addedAt": "2026-10-22T00:00:00.000Z",
+    "source": "user",
+    "note": "owner list 2026-10-22: covered by a live post"
   }
 ]
