@@ -1,6 +1,6 @@
 ---
-title: 'Beste reisstatief voor systeemcamera (2026) – 15 aanraders'
-seoTitle: 'Beste reisstatief voor systeemcamera – 15 modellen (2026)'
+title: Beste reisstatief voor systeemcamera (2026) – 15 aanraders
+seoTitle: Beste reisstatief voor systeemcamera – 15 modellen (2026)
 description: >-
   Het beste reisstatief voor systeemcamera's combineert draagvermogen,
   ingeklapte lengte en hoogte zonder middenzuil. 15 modellen, een tabel en
@@ -44,9 +44,9 @@ productCount: 15
 readingTime: 17
 tldr:
   - >-
-    Het Peak Design Travel Tripod (Carbon Fiber) is onze beste totaalkeuze:
-    9,1 kg (20 lb) draagvermogen, 39,4 cm (15.5 in) ingeklapt en 130,2 cm
-    (51.25 in) hoogte met de middenzuil omlaag.
+    Het Peak Design Travel Tripod (Carbon Fiber) is onze beste totaalkeuze: 9,1
+    kg (20 lb) draagvermogen, 39,4 cm (15.5 in) ingeklapt en 130,2 cm (51.25 in)
+    hoogte met de middenzuil omlaag.
   - >-
     Houd camera en lens op ongeveer de helft van het draagvermogen van het
     statief en kijk ook naar dat van het balhoofd; de laagste van de twee is je
@@ -69,11 +69,11 @@ products:
       telelens. Een goede keuze voor reizigers die pro-draagvermogen in een
       kleine tas willen.
     renterNote: >-
-      Fotografen met een systeemcamera die alleen met handbagage vliegen,
-      soms een lens in de 70-200mm-klasse gebruiken en een statief in het
-      topsegment accepteren.
+      Fotografen met een systeemcamera die alleen met handbagage vliegen, soms
+      een lens in de 70-200mm-klasse gebruiken en een statief in het topsegment
+      accepteren.
     pros:
-      - Klapt in tot zo'n 39,4 cm (15.5 in) lang en 8 cm (3.25 in) breed
+      - 'Klapt in tot zo''n 39,4 cm (15.5 in) lang en 8 cm (3.25 in) breed'
       - '9,1 kg (20 lb) draagvermogen, ruim boven een typische systeemcamera-set'
       - >-
         Haalt 130,2 cm (51.25 in) met de middenzuil omlaag en 152,4 cm (60 in)
@@ -82,13 +82,13 @@ products:
       - Prijs in het topsegment vergeleken met de meeste reisstatieven hier
       - Vijf beensegmenten betekenen meer sluitingen om te openen en te sluiten
     specs:
-      Weight: 1,27 kg (2.81 lb)
+      Weight: '1,27 kg (2.81 lb)'
       Material: Carbon
-      Max height (column raised): 152,4 cm (60 in)
-      Max height (column down): 130,2 cm (51.25 in)
+      Max height (column raised): '152,4 cm (60 in)'
+      Max height (column down): '130,2 cm (51.25 in)'
       Min height: 14 cm (5.5 in)
-      Folded length: 39,4 cm (15.5 in)
-      Load capacity: 9,1 kg (20 lb)
+      Folded length: '39,4 cm (15.5 in)'
+      Load capacity: '9,1 kg (20 lb)'
       Head: Balhoofd inbegrepen
     scores:
       stability: 9
@@ -110,7 +110,7 @@ products:
         - Handig op stedentrips omdat het aan een tas niet opvalt
       complaints:
         - Voor veel eigenaren is de prijs moeilijk te verantwoorden
-        - 'Een forumgebruiker meldt dat er onderweg een poot losraakte'
+        - Een forumgebruiker meldt dat er onderweg een poot losraakte
         - Dunne onderste segmenten kunnen trillen bij wind
       sources:
         - title: Fred Miranda forum thread
@@ -139,13 +139,14 @@ products:
       in aluminium, goedkoper en wat zwaarder. Een goede instap in het Peak
       Design-systeem.
     renterNote: >-
-      Fotografen met een systeemcamera die het formaat en de hoogte van het
-      Peak Design willen en zo'n 1,56 kg (3.4 lb) kunnen dragen.
+      Fotografen met een systeemcamera die het formaat en de hoogte van het Peak
+      Design willen en zo'n 1,56 kg (3.4 lb) kunnen dragen.
     pros:
       - >-
         Dezelfde ingeklapte lengte van 39,4 cm (15.5 in) en hetzelfde
-        hoogtebereik van 130,2 tot 152,4 cm (51.25 tot 60 in) als het carbonmodel
-      - 9,1 kg (20 lb) draagvermogen
+        hoogtebereik van 130,2 tot 152,4 cm (51.25 tot 60 in) als het
+        carbonmodel
+      - '9,1 kg (20 lb) draagvermogen'
       - >-
         De middenzuil kan eraf of omgekeerd voor lage opnames tot zo'n 14 cm
         (5.5 in)
@@ -153,13 +154,13 @@ products:
       - Zo'n 290 g (0.6 lb) zwaarder dan de carbonversie
       - Vijf beensegmenten om te ontgrendelen
     specs:
-      Weight: 1,56 kg (3.44 lb)
+      Weight: '1,56 kg (3.44 lb)'
       Material: Aluminium
-      Max height (column raised): 152,4 cm (60 in)
-      Max height (column down): 130,2 cm (51.25 in)
+      Max height (column raised): '152,4 cm (60 in)'
+      Max height (column down): '130,2 cm (51.25 in)'
       Min height: 14 cm (5.5 in)
-      Folded length: 39,4 cm (15.5 in)
-      Load capacity: 9,1 kg (20 lb)
+      Folded length: '39,4 cm (15.5 in)'
+      Load capacity: '9,1 kg (20 lb)'
     scores:
       stability: 9
       portability: 7
@@ -172,12 +173,13 @@ products:
     owners:
       read: 4
       praise:
-        - 'Hoge bouwkwaliteit en duurzaamheid, volgens de samenvatting van Backcountry-kopers'
+        - >-
+          Hoge bouwkwaliteit en duurzaamheid, volgens de samenvatting van
+          Backcountry-kopers
         - Compact ingeklapt formaat en slim ontwerp
         - Eigenaren zijn te spreken over het balhoofd en het totale formaat
       complaints:
-        - >-
-          Vrij zwaar; een REI-koper twijfelde aan stabiliteit en gewicht
+        - Vrij zwaar; een REI-koper twijfelde aan stabiliteit en gewicht
         - >-
           Lastig om de camera recht naar beneden te richten; het kleine
           inbussleuteltje valt er makkelijk uit
@@ -215,8 +217,8 @@ products:
       systeemcamera die van klapsluitingen houden.
     renterNote: >-
       Fotografen met een systeemcamera en standaardzoom die een bekend merk,
-      snelle klemhendels en een meegeleverd balhoofd willen en zo'n 1,6 kg
-      (3.5 lb) kunnen dragen; wie lange telelenzen gebruikt, kan beter naar de
+      snelle klemhendels en een meegeleverd balhoofd willen en zo'n 1,6 kg (3.5
+      lb) kunnen dragen; wie lange telelenzen gebruikt, kan beter naar de
       modellen met meer draagvermogen kijken.
     pros:
       - Klemhendels laten in één oogopslag zien of elk segment dicht zit
@@ -225,13 +227,13 @@ products:
         Zo'n 128 cm (50.4 in) met de middenzuil omlaag en zo'n 150 cm (59.1 in)
         met de zuil omhoog
     cons:
-      - Zo'n 1,6 kg (3.5 lb) is zwaar naast de carbonmodellen
+      - 'Zo''n 1,6 kg (3.5 lb) is zwaar naast de carbonmodellen'
       - >-
         Sommige eigenaren vinden het niet stabiel genoeg voor zwaardere
         telelenzen of lange belichtingen bij wind
       - Niet om te bouwen tot monopod
     specs:
-      Weight: zo'n 1,6 kg (3.5 lb)
+      Weight: 'zo''n 1,6 kg (3.5 lb)'
       Material: Aluminium
       Max height (column raised): zo'n 150 cm (59.1 in)
       Max height (column down): zo'n 128 cm (50.4 in)
@@ -255,7 +257,7 @@ products:
       read: 4
       praise:
         - 'Goed gebouwd en zijn geld waard, volgens een Adorama-koper'
-        - Stevig maar licht, en klapt klein in
+        - 'Stevig maar licht, en klapt klein in'
         - Het meegeleverde balhoofd kan typische systeemcamera-sets goed aan
       complaints:
         - >-
@@ -296,12 +298,12 @@ products:
       - Draaisluitingen op vier beensegmenten
       - Meegeleverde plaat is Arca- en RC2-compatibel
     cons:
-      - Zo'n 1,55 kg (3.4 lb) is zwaarder dan carbon concurrenten
-      - Zo'n 42,5 cm (16.7 in) ingeklapt is langer dan de compacte modellen
+      - 'Zo''n 1,55 kg (3.4 lb) is zwaarder dan carbon concurrenten'
+      - 'Zo''n 42,5 cm (16.7 in) ingeklapt is langer dan de compacte modellen'
     specs:
-      Weight: zo'n 1,55 kg (3.4 lb)
+      Weight: 'zo''n 1,55 kg (3.4 lb)'
       Material: Aluminium
-      Folded length: zo'n 42,5 cm (16.7 in)
+      Folded length: 'zo''n 42,5 cm (16.7 in)'
       Load capacity: zo'n 8 kg (17.6 lb)
       Leg sections: '4'
       Leg locks: Draaisluiting
@@ -348,7 +350,7 @@ products:
       Fotografen met een systeemcamera die laag gewicht en 10 kg draagvermogen
       belangrijker vinden dan maximale hoogte.
     pros:
-      - 10 kg (22 lb) draagvermogen bij 1,24 kg (2.73 lb)
+      - '10 kg (22 lb) draagvermogen bij 1,24 kg (2.73 lb)'
       - Gevlochten carbon buizen
       - VX20-balhoofd inbegrepen
     cons:
@@ -356,9 +358,9 @@ products:
         Een maximale hoogte van zo'n 140 cm (55 in) blijft voor lange mensen
         onder ooghoogte zonder uitgeschoven zuil
     specs:
-      Weight: 1,24 kg (2.73 lb)
+      Weight: '1,24 kg (2.73 lb)'
       Material: Carbon
-      Max height: 139,5 cm (54.9 in)
+      Max height: '139,5 cm (54.9 in)'
       Min height: 35 cm (13.8 in)
       Load capacity: 10 kg (22.05 lb)
       Leg sections: '5'
@@ -369,7 +371,9 @@ products:
       height: 6
       build: 8
       value: 8
-    scoreNote: Hoog draagvermogen voor het gewicht; 139,5 cm maximaal houdt de hoogtescore bescheiden.
+    scoreNote: >-
+      Hoog draagvermogen voor het gewicht; 139,5 cm maximaal houdt de
+      hoogtescore bescheiden.
     matchName: Benro Rhino Carbon Fiber Zero Series Tripod VX20
     asin: B08F2RYZLK
     amazonTitle: >-
@@ -383,16 +387,20 @@ products:
       Een aluminium statief met 5 segmenten dat inklapt tot zo'n 33 cm, met
       N00-balhoofd en draagtas. Een voordelige keuze voor lichte
       systeemcamera-sets.
-    renterNote: Fotografen met een klein budget, een compacte systeemcamera en een kleine lens.
+    renterNote: >-
+      Fotografen met een klein budget, een compacte systeemcamera en een kleine
+      lens.
     pros:
       - Klapt in tot zo'n 33 cm (12.9 in)
       - Met N00-balhoofd en tas
       - Drie pootstanden
     cons:
       - Zo'n 4 kg (8.8 lb) draagvermogen beperkt zware lenzen
-      - 'Opgaven voor de maximale hoogte spreken elkaar tegen, dus check vóór aankoop'
+      - >-
+        Opgaven voor de maximale hoogte spreken elkaar tegen, dus check vóór
+        aankoop
     specs:
-      Weight: 1,18 kg (2.6 lb)
+      Weight: '1,18 kg (2.6 lb)'
       Material: Aluminium
       Folded length: 33 cm (12.9 in)
       Load capacity: zo'n 4 kg (8.8 lb)
@@ -404,7 +412,9 @@ products:
       height: 7
       build: 6
       value: 8
-    scoreNote: 'Compact en goedkoop, maar 4 kg draagvermogen beperkt het tot lichtere sets.'
+    scoreNote: >-
+      Compact en goedkoop, maar 4 kg draagvermogen beperkt het tot lichtere
+      sets.
     matchName: Benro Slim Travel Aluminum Tripod Kit
     owners:
       read: 4
@@ -439,14 +449,18 @@ products:
       Langere fotografen met een systeemcamera die ooghoogte willen halen met
       iets wat nog in een tas past.
     pros:
-      - 'Hoog: aanbiedingen noemen een maximale hoogte van zo''n 166 tot 171 cm (65.4 tot 67.3 in)'
-      - Ingeklapt (omgekeerd) zo'n 46,5 tot 48 cm (18.3 tot 18.9 in)
+      - >-
+        Hoog: aanbiedingen noemen een maximale hoogte van zo'n 166 tot 171 cm
+        (65.4 tot 67.3 in)
+      - 'Ingeklapt (omgekeerd) zo''n 46,5 tot 48 cm (18.3 tot 18.9 in)'
       - Een poot wordt een monopod
     cons:
-      - 'Opgaven voor draagvermogen spreken elkaar tegen (officieel 8 kg), dus houd 8 kg als limiet aan'
+      - >-
+        Opgaven voor draagvermogen spreken elkaar tegen (officieel 8 kg), dus
+        houd 8 kg als limiet aan
       - Volle hoogte alleen met uitgeschoven middenzuil
     specs:
-      Weight: zo'n 1,59 kg (3.5 lb) met balhoofd
+      Weight: 'zo''n 1,59 kg (3.5 lb) met balhoofd'
       Material: Carbon
       Folded length: zo'n 48 cm (18.9 in) (Sirui-winkel)
       Load capacity: 8 kg (17.6 lb) (Sirui-winkel)
@@ -465,11 +479,15 @@ products:
       read: 5
       praise:
         - Draagbaar en reisvriendelijk
-        - Klanten van winkels zijn in kleine steekproeven over het algemeen positief
+        - >-
+          Klanten van winkels zijn in kleine steekproeven over het algemeen
+          positief
         - Winkels noemen de lange garantie
       complaints:
         - Een eigenaar had een vastzittende draaisluiting
-        - Zwaarder en ingeklapt langer (zo'n 46 cm, 18 in) dan de marketing doet vermoeden
+        - >-
+          Zwaarder en ingeklapt langer (zo'n 46 cm, 18 in) dan de marketing doet
+          vermoeden
         - >-
           Voelt minder stabiel dan sommige concurrenten; een reviewer hangt een
           tas aan de haak voor meer rust
@@ -508,7 +526,7 @@ products:
       - 4 kg (8.8 lb) draagvermogen is voor lichte sets
       - Maximale hoogte 138 cm (54.3 in)
     specs:
-      Weight: 0,85 kg (1.87 lb)
+      Weight: '0,85 kg (1.87 lb)'
       Material: Carbon
       Max height: 138 cm (54.3 in)
       Min height: 16 cm (6.3 in)
@@ -522,7 +540,9 @@ products:
       height: 6
       build: 8
       value: 8
-    scoreNote: Heel licht en compact; 4 kg draagvermogen en 138 cm hoogte begrenzen het voor zware uitrusting.
+    scoreNote: >-
+      Heel licht en compact; 4 kg draagvermogen en 138 cm hoogte begrenzen het
+      voor zware uitrusting.
     matchName: Sirui Traveler 5C Carbon Fiber Tripod
     owners:
       read: 5
@@ -553,35 +573,33 @@ products:
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
             https://shopsavvy.com/reviews-tldr/"sirui-compact-traveler-5c-tripod".md
-    asin: B07KD181B3
-    amazonTitle: >-
-      Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber
-      Travel Tripod for Camera with 360° Panorama Ball Head
   - name: Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7A aluminum tripod E-10 ball head
     badge: Beste budgetkeuze voor hoogte
     summary: >-
-      De aluminium tweeling van de Traveler 7C: vier segmenten, 166,5 cm
-      (65.6 in) met de zuil omhoog, 8 kg (17.6 lb) draagvermogen en een
-      E-10-balhoofd met Arca-plaat, ingeklapt zo'n 48 cm. Veel hoogte voor
-      minder geld dan carbon.
+      De aluminium tweeling van de Traveler 7C: vier segmenten, 166,5 cm (65.6
+      in) met de zuil omhoog, 8 kg (17.6 lb) draagvermogen en een E-10-balhoofd
+      met Arca-plaat, ingeklapt zo'n 48 cm. Veel hoogte voor minder geld dan
+      carbon.
     renterNote: >-
       Langere fotografen met een systeemcamera en een klein budget die bijna
       ooghoogte en een monopodpoot willen, en zo'n 1,89 kg (4.16 lb) en 48 cm
       ingeklapt kunnen meenemen.
     pros:
-      - 166,5 cm (65.6 in) maximale hoogte met de zuil omhoog
+      - '166,5 cm (65.6 in) maximale hoogte met de zuil omhoog'
       - 8 kg (17.6 lb) draagvermogen volgens Sirui
       - Een poot wordt een monopod; omkeerbare middenzuil
     cons:
-      - Zo'n 1,89 kg met balhoofd hoort bij de zwaarste modellen hier
+      - 'Zo''n 1,89 kg met balhoofd hoort bij de zwaarste modellen hier'
       - Zo'n 48 cm (18.9 in) ingeklapt is lang voor het zijvak van een dagrugzak
-      - 'Sommige gebruikers merken trillingen bij wind, volgens een samenvatting van beoordelingen'
+      - >-
+        Sommige gebruikers merken trillingen bij wind, volgens een samenvatting
+        van beoordelingen
     specs:
-      Weight: zo'n 1,89 kg (4.16 lb) met balhoofd
+      Weight: 'zo''n 1,89 kg (4.16 lb) met balhoofd'
       Material: Aluminium
-      Max height (column raised): 166,5 cm (65.6 in)
+      Max height (column raised): '166,5 cm (65.6 in)'
       Folded length: zo'n 48 cm (18.9 in)
       Load capacity: 8 kg (17.6 lb)
       Leg sections: '4'
@@ -600,10 +618,14 @@ products:
     owners:
       read: 1
       praise:
-        - 'Draagbaar genoeg om mee te reizen, volgens een samenvatting van gebruikersbeoordelingen'
+        - >-
+          Draagbaar genoeg om mee te reizen, volgens een samenvatting van
+          gebruikersbeoordelingen
         - Makkelijk op te zetten en te gebruiken
       complaints:
-        - 'Sommige gebruikers merken stabiliteitsproblemen bij wind, volgens een samenvatting van beoordelingen'
+        - >-
+          Sommige gebruikers merken stabiliteitsproblemen bij wind, volgens een
+          samenvatting van beoordelingen
       sources:
         - title: 'Review-Rating: Sirui Traveler 7A summary'
           url: >-
@@ -626,19 +648,19 @@ products:
       Fotografen met een systeemcamera die een hoogwaardig, heel compact statief
       willen en er een los balhoofd bij nemen.
     pros:
-      - Klapt in tot zo'n 35,5 cm (14 in)
-      - 10 kg (22 lb) draagvermogen bij zo'n 1,03 kg (2.3 lb)
+      - 'Klapt in tot zo''n 35,5 cm (14 in)'
+      - '10 kg (22 lb) draagvermogen bij zo''n 1,03 kg (2.3 lb)'
       - Minimumhoogte zo'n 20 cm (7.9 in)
     cons:
       - Alleen als poten verkocht; balhoofd los
       - Aanbevolen voor lenzen tot 135mm (maximaal 200mm)
     specs:
-      Weight: 1,03 kg (2.27 lb)
+      Weight: '1,03 kg (2.27 lb)'
       Material: Carbon
       Max height (column raised): 138 cm (54.3 in)
       Max height (column down): 121 cm (47.6 in)
       Min height: 20 cm (7.9 in)
-      Folded length: 35,5 cm (14 in)
+      Folded length: '35,5 cm (14 in)'
       Load capacity: 10 kg (22 lb)
     scores:
       stability: 8
@@ -658,7 +680,9 @@ products:
       complaints:
         - Duur voor de klasse
         - 'Meer dan 0,9 kg (2 lb) is zwaar voor bergtochten, volgens een koper'
-        - 'De schroefgleuf van de plaatbeveiliging is te klein voor een munt, volgens een koper'
+        - >-
+          De schroefgleuf van de plaatbeveiliging is te klein voor een munt,
+          volgens een koper
       sources:
         - title: 'The Digital Picture: Gitzo GT1555T review'
           url: >-
@@ -684,24 +708,24 @@ products:
       en opgegeven voor 6 kg (13.2 lb). Het komt tot zo'n 114 cm (45 in), dus
       een laag, licht statief voor wandelaars en zittend fotograferen.
     renterNote: >-
-      Lichte systeemcamera-sets op lange wandelingen, of iedereen die vanuit
-      een lage houding, vanaf een tafel of een muur fotografeert; met zo'n
-      114 cm (45 in) maximaal blijft het voor de meeste volwassenen ruim onder
+      Lichte systeemcamera-sets op lange wandelingen, of iedereen die vanuit een
+      lage houding, vanaf een tafel of een muur fotografeert; met zo'n 114 cm
+      (45 in) maximaal blijft het voor de meeste volwassenen ruim onder
       ooghoogte.
     pros:
-      - Zo'n 0,9 kg (1.98 lb) met balhoofd
+      - 'Zo''n 0,9 kg (1.98 lb) met balhoofd'
       - 'Pootstanden van 23, 55 en 85 graden voor heel lage opnames'
       - 'Afneembare haak om een tas aan te hangen, volgens winkelspecificaties'
     cons:
-      - Zo'n 113,7 cm (44.8 in) maximale hoogte betekent bukken of zitten
+      - 'Zo''n 113,7 cm (44.8 in) maximale hoogte betekent bukken of zitten'
       - 6 kg (13.2 lb) draagvermogen past alleen bij lichte sets
       - Winkelspecificaties verschillen in ingeklapte lengte en hoogte
     specs:
-      Weight: zo'n 0,9 kg (1.98 lb) met balhoofd
+      Weight: 'zo''n 0,9 kg (1.98 lb) met balhoofd'
       Material: Carbon
-      Max height: zo'n 113,7 cm (44.8 in)
+      Max height: 'zo''n 113,7 cm (44.8 in)'
       Min height: zo'n 8 cm (3.2 in)
-      Folded length: zo'n 47,3 cm (18.6 in) met balhoofd
+      Folded length: 'zo''n 47,3 cm (18.6 in) met balhoofd'
       Load capacity: 6 kg (13.2 lb)
       Leg sections: '4'
       Head: LH-25LR-balhoofd (kogel van 25 mm)
@@ -720,7 +744,9 @@ products:
         - Een eigenaar zegt dat het licht te dragen is
         - Voelde stevig met zowel een spiegelreflex als een systeemcamera
       complaints:
-        - 'Maar één beoordeling van een eigenaar gevonden, dus er is geen terugkerende klacht te melden'
+        - >-
+          Maar één beoordeling van een eigenaar gevonden, dus er is geen
+          terugkerende klacht te melden
       sources:
         - title: 'Leofoto USA: LS-224CX Ranger kit customer review'
           url: >-
@@ -735,10 +761,12 @@ products:
     query: Vanguard VEO 3 GO 235CB
     badge: Beste voor handbagage
     summary: >-
-      Een carbon statief met 5 segmenten waarvan de poten inklappen tot zo'n
-      33 cm (13 in), bij ongeveer 1,05 tot 1,1 kg (2.3 tot 2.4 lb) en 4 kg
-      (8.8 lb) draagvermogen.
-    renterNote: Fotografen met een lichte systeemcamera die het kortste ingeklapte formaat nodig hebben.
+      Een carbon statief met 5 segmenten waarvan de poten inklappen tot zo'n 33
+      cm (13 in), bij ongeveer 1,05 tot 1,1 kg (2.3 tot 2.4 lb) en 4 kg (8.8 lb)
+      draagvermogen.
+    renterNote: >-
+      Fotografen met een lichte systeemcamera die het kortste ingeklapte formaat
+      nodig hebben.
     pros:
       - Klapt in tot zo'n 33 cm (13 in)
       - Drie pootstanden
@@ -747,7 +775,7 @@ products:
       - 4 kg (8.8 lb) draagvermogen
       - 106 cm (41.7 in) hoogte met de zuil omlaag
     specs:
-      Weight: zo'n 1,06 kg (2.3 lb)
+      Weight: 'zo''n 1,06 kg (2.3 lb)'
       Material: Carbon
       Max height: 136 cm (53.5 in)
       Max height (column down): 106 cm (41.7 in)
@@ -761,14 +789,18 @@ products:
       height: 5
       build: 7
       value: 8
-    scoreNote: Heel compact; hoogte met de zuil omlaag en het limiet van 4 kg beperken stabiliteit en hoogte.
+    scoreNote: >-
+      Heel compact; hoogte met de zuil omlaag en het limiet van 4 kg beperken
+      stabiliteit en hoogte.
     owners:
       read: 1
       praise:
         - Klein genoeg voor een tas of rugzak en licht in carbon
         - Afneembare poot doet dienst als monopod of selfiestick
       complaints:
-        - '136 cm (53.5 in) maximale hoogte is niet hoog, maar genoeg voor de meeste toepassingen'
+        - >-
+          136 cm (53.5 in) maximale hoogte is niet hoog, maar genoeg voor de
+          meeste toepassingen
       sources:
         - title: 'Digital Camera World: Vanguard VEO 3GO 235CB review'
           url: 'https://digitalcameraworld.com/reviews/vanguard-veo-3go-235cb-review'
@@ -786,22 +818,26 @@ products:
       Een statief van magnesiumlegering met 18 kg (39.7 lb) draagvermogen bij
       een pootstand van 23 graden en tot 166 cm (65.3 in) hoogte, met 45,7 cm
       (18 in) ingeklapt.
-    renterNote: Fotografen met een systeemcamera en grote lenzen; met zo'n 1,8 kg (4 lb) zwaarder.
+    renterNote: >-
+      Fotografen met een systeemcamera en grote lenzen; met zo'n 1,8 kg (4 lb)
+      zwaarder.
     pros:
       - 18 kg (39.7 lb) bij de smalste pootstand
       - 166 cm (65.3 in) maximale hoogte
       - Afneembare poot als monopod
     cons:
-      - Zo'n 1,82 kg (4.01 lb)
+      - 'Zo''n 1,82 kg (4.01 lb)'
       - Draagvermogen zakt naar 8 kg (17.6 lb) bij 80 graden
     specs:
-      Weight: 1,82 kg (4.01 lb)
+      Weight: '1,82 kg (4.01 lb)'
       Material: Magnesiumlegering
       Max height: 166 cm (65.3 in)
       Max height (no column): 136 cm (53.5 in)
-      Min height (no column): 19,5 cm (7.7 in)
-      Folded length: 45,7 cm (18 in)
-      Load capacity: 18 kg (39.7 lb) bij 23 graden; 12 kg (26.5 lb) bij 55; 8 kg (17.6 lb) bij 80
+      Min height (no column): '19,5 cm (7.7 in)'
+      Folded length: '45,7 cm (18 in)'
+      Load capacity: >-
+        18 kg (39.7 lb) bij 23 graden; 12 kg (26.5 lb) bij 55; 8 kg (17.6 lb)
+        bij 80
       Leg sections: '4'
     scores:
       stability: 9
@@ -809,7 +845,9 @@ products:
       height: 9
       build: 8
       value: 7
-    scoreNote: Sterk draagvermogen en hoogte; gewicht en ingeklapte lengte remmen de draagbaarheid.
+    scoreNote: >-
+      Sterk draagvermogen en hoogte; gewicht en ingeklapte lengte remmen de
+      draagbaarheid.
     matchName: 3 Legged Thing Punks Travis 2.0
     owners:
       read: 1
@@ -833,15 +871,15 @@ products:
     summary: >-
       Een voordelig aluminium reisstatief met 4 segmenten (K&F-model KF09.101)
       dat zo'n 163 cm (64 in) haalt, inklapt tot zo'n 39 cm (15.35 in) en met
-      zijn metalen balhoofd van 28 mm zo'n 1,24 kg (2.73 lb) weegt; K&F geeft
-      8 kg (17.64 lb) draagvermogen op.
+      zijn metalen balhoofd van 28 mm zo'n 1,24 kg (2.73 lb) weegt; K&F geeft 8
+      kg (17.64 lb) draagvermogen op.
     renterNote: >-
       Prijsbewuste fotografen met een systeemcamera en standaardzoom die voor
       weinig geld hoogte en een meegeleverd balhoofd willen; wie zware
       telelenzen gebruikt, moet rekenen op het bijdraaien van het balhoofd.
     pros:
       - Zo'n 163 cm (64 in) maximale hoogte voor een budgetprijs
-      - Klapt in tot zo'n 39 cm (15.35 in) bij zo'n 1,24 kg (2.73 lb)
+      - 'Klapt in tot zo''n 39 cm (15.35 in) bij zo''n 1,24 kg (2.73 lb)'
       - Omkeerbare middenzuil voor lage standpunten
     cons:
       - >-
@@ -850,7 +888,7 @@ products:
       - De opgave van 8 kg lijkt optimistisch voor een balhoofd van 28 mm
       - K&F publiceert geen hoogte met de zuil omlaag
     specs:
-      Weight: zo'n 1,24 kg (2.73 lb) met balhoofd
+      Weight: 'zo''n 1,24 kg (2.73 lb) met balhoofd'
       Material: Aluminium
       Max height (column raised): zo'n 163 cm (64 in)
       Folded length: zo'n 39 cm (15.35 in)
@@ -871,7 +909,9 @@ products:
     owners:
       read: 3
       praise:
-        - Degelijk met veel instelmogelijkheden; knoppen zitten strak, niets rammelt
+        - >-
+          Degelijk met veel instelmogelijkheden; knoppen zitten strak, niets
+          rammelt
         - Heel goede prijs-kwaliteit
         - Licht en draagbaar voor lichte tot middelzware camerasets
       complaints:
@@ -895,9 +935,11 @@ products:
     query: Ulanzi Zero F38 carbon fiber travel tripod
     badge: Beste carbon met klapsluitingen
     summary: >-
-      Een carbon statief met 5 segmenten en klapsluitingen, zo'n 1,1 kg
-      (2.4 lb), 42 cm (16.7 in) ingeklapt, met balhoofd.
-    renterNote: Fotografen met een systeemcamera die klapsluitingen verkiezen; balhoofd opgegeven voor 6 kg (13.2 lb).
+      Een carbon statief met 5 segmenten en klapsluitingen, zo'n 1,1 kg (2.4
+      lb), 42 cm (16.7 in) ingeklapt, met balhoofd.
+    renterNote: >-
+      Fotografen met een systeemcamera die klapsluitingen verkiezen; balhoofd
+      opgegeven voor 6 kg (13.2 lb).
     pros:
       - Klapsluitingen
       - Klapt in tot zo'n 42 cm (16.7 in)
@@ -906,7 +948,7 @@ products:
       - Balhoofd opgegeven voor 6 kg (13.2 lb)
       - Soms in nabestelling
     specs:
-      Weight: zo'n 1,1 kg (2.4 lb)
+      Weight: 'zo''n 1,1 kg (2.4 lb)'
       Material: Carbon
       Max height: 159 cm (62.6 in)
       Max height (no column): 134 cm (52.76 in)
@@ -929,7 +971,7 @@ products:
         - De poten worden geprezen
       complaints:
         - De snelwisselplaat is onhandig en kan loskomen
-        - De plaat is niet Arca-Swiss, wat standaardaccessoires beperkt
+        - 'De plaat is niet Arca-Swiss, wat standaardaccessoires beperkt'
         - Wat gewiebel van de middenzuil als die helemaal uitgeschoven is
       sources:
         - title: 'ShotKit: Ulanzi F38 travel tripod review'
@@ -1042,8 +1084,8 @@ faqs:
       Kies het statief op basis van je lens en je lengte, niet van de body. Een
       lichte APS-C-set werkt op een statief voor 4 kg (8.8 lb) dat inklapt tot
       zo'n 33 cm (13 in), terwijl een full-frame body met een 24-70mm f/2.8 of
-      een telelens een statief nodig heeft voor zo'n 8 tot 10 kg (17.6 tot
-      22 lb) of meer, zoals het Peak Design Travel Tripod of de Benro Rhino Zero
+      een telelens een statief nodig heeft voor zo'n 8 tot 10 kg (17.6 tot 22
+      lb) of meer, zoals het Peak Design Travel Tripod of de Benro Rhino Zero
       Series.
   - q: Hoeveel gewicht kan een reisstatief dragen?
     a: >-
@@ -1056,10 +1098,9 @@ faqs:
     a: >-
       Meestal wel, als je het statief te voet draagt. Carbon is lichter en dempt
       trillingen sneller dan aluminium. De Sirui Traveler 7C en 7A hebben
-      hetzelfde ontwerp met vier segmenten, maar wegen met balhoofd zo'n
-      1,59 kg (3.5 lb) en 1,89 kg (4.16 lb), zo'n 300 g (0.7 lb) verschil, en de
-      carbon- en aluminiumversie van het Peak Design verschillen zo'n 290 g
-      (0.6 lb).
+      hetzelfde ontwerp met vier segmenten, maar wegen met balhoofd zo'n 1,59 kg
+      (3.5 lb) en 1,89 kg (4.16 lb), zo'n 300 g (0.7 lb) verschil, en de carbon-
+      en aluminiumversie van het Peak Design verschillen zo'n 290 g (0.6 lb).
   - q: Mag ik een reisstatief in mijn handbagage meenemen in het vliegtuig?
     a: >-
       De meeste reisstatieven in deze gids klappen in tot 33 à 48 cm (13 tot
@@ -1075,26 +1116,26 @@ faqs:
   - q: Wat is het beste statief voor een systeemcamera?
     a: >-
       Voor de meeste full-frame systeemcamerasets op reis kiezen wij het Peak
-      Design Travel Tripod (Carbon Fiber): 9,1 kg (20 lb) draagvermogen,
-      39,4 cm (15.5 in) ingeklapt en 130,2 cm (51.25 in) hoogte met de
-      middenzuil omlaag. Voor een lichte APS-C-set bespaart de Sirui Traveler
-      5C (ongeveer 850 g, 33 cm ingeklapt) gewicht, en voor zware telelenzen is
-      de 3 Legged Thing Punks Travis 2.0 bij de smalste poothoek berekend op
-      18 kg (39.7 lb).
+      Design Travel Tripod (Carbon Fiber): 9,1 kg (20 lb) draagvermogen, 39,4 cm
+      (15.5 in) ingeklapt en 130,2 cm (51.25 in) hoogte met de middenzuil
+      omlaag. Voor een lichte APS-C-set bespaart de Sirui Traveler 5C (ongeveer
+      850 g, 33 cm ingeklapt) gewicht, en voor zware telelenzen is de 3 Legged
+      Thing Punks Travis 2.0 bij de smalste poothoek berekend op 18 kg (39.7
+      lb).
   - q: Wat is het beste camerastatief voor op reis?
     a: >-
       Het statief dat in je tas past en je zwaarste lens draagt. Telt het
       pakformaat het zwaarst, dan klappen de Vanguard VEO 3 GO 235CB, Sirui
-      Traveler 5C en Benro Slim in tot ongeveer 33 cm (13 in); de Gitzo
-      GT1555T komt op 35,5 cm (14 in) met 10 kg (22 lb) draagvermogen, maar
-      wordt alleen als poten verkocht; en de Benro Slim is onze budgetkeuze,
-      met balhoofd en tas.
+      Traveler 5C en Benro Slim in tot ongeveer 33 cm (13 in); de Gitzo GT1555T
+      komt op 35,5 cm (14 in) met 10 kg (22 lb) draagvermogen, maar wordt alleen
+      als poten verkocht; en de Benro Slim is onze budgetkeuze, met balhoofd en
+      tas.
   - q: Wat is het lichtste reisstatief in deze gids?
     a: >-
-      De Sirui Traveler 5C, ongeveer 850 g volgens de eigen winkel van Sirui,
-      en de Leofoto LS-224CX Ranger, ongeveer 0,9 kg met balhoofd. Beide zijn
-      alleen voor lichte sets: de Sirui draagt 4 kg (8.8 lb) en de Leofoto
-      reikt tot ongeveer 114 cm (45 in), ruim onder ooghoogte voor de meeste
+      De Sirui Traveler 5C, ongeveer 850 g volgens de eigen winkel van Sirui, en
+      de Leofoto LS-224CX Ranger, ongeveer 0,9 kg met balhoofd. Beide zijn
+      alleen voor lichte sets: de Sirui draagt 4 kg (8.8 lb) en de Leofoto reikt
+      tot ongeveer 114 cm (45 in), ruim onder ooghoogte voor de meeste
       volwassenen.
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png

@@ -1,7 +1,7 @@
 {
   "slug": "best-hiking-tripod",
   "pass": true,
-  "checkedAt": "2026-10-21T19:54:49.407Z",
+  "checkedAt": "2026-10-22T10:30:29.361Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,7 @@
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/396654.pdf",
+    "source didn't respond normally (no response): https://www.packhacker.com/blog/general/best-travel-tripod/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/"
   ],
   "factCheck": {

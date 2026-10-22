@@ -1,6 +1,6 @@
 ---
-title: 'Mejor trípode de viaje para cámara mirrorless (2026) – 15 opciones'
-seoTitle: 'Mejor trípode de viaje para cámara mirrorless (2026)'
+title: Mejor trípode de viaje para cámara mirrorless (2026) – 15 opciones
+seoTitle: Mejor trípode de viaje para cámara mirrorless (2026)
 description: >-
   El mejor trípode de viaje para cámara mirrorless equilibra carga, longitud
   plegado y altura sin columna. Compara 15 modelos, una tabla y consejos para
@@ -48,13 +48,12 @@ tldr:
     general: 9,1 kg (20 lb) de carga, 39,4 cm (15.5 in) plegado y 130,2 cm
     (51.25 in) de altura con la columna bajada.
   - >-
-    Deja cámara y objetivo en torno a la mitad de la carga del trípode y
-    revisa también la de la rótula; la más baja de las dos es tu límite real.
+    Deja cámara y objetivo en torno a la mitad de la carga del trípode y revisa
+    también la de la rótula; la más baja de las dos es tu límite real.
   - >-
-    Para equipos APS-C ligeros, el Sirui Traveler 5C (unos 850 g, 33 cm
-    plegado) está entre los más ligeros; para teleobjetivos pesados, el
-    3 Legged Thing Punks Travis 2.0 soporta 18 kg (39.7 lb) con el ángulo de
-    pata más cerrado.
+    Para equipos APS-C ligeros, el Sirui Traveler 5C (unos 850 g, 33 cm plegado)
+    está entre los más ligeros; para teleobjetivos pesados, el 3 Legged Thing
+    Punks Travis 2.0 soporta 18 kg (39.7 lb) con el ángulo de pata más cerrado.
   - >-
     La altura con la columna bajada importa más que el máximo anunciado: una
     columna central subida añade vibraciones con viento.
@@ -72,22 +71,24 @@ products:
       Fotógrafos con mirrorless que vuelan solo con equipaje de mano, a veces
       usan un objetivo tipo 70-200 mm y aceptan un trípode de gama alta.
     pros:
-      - Se pliega a unos 39,4 cm (15.5 in) de largo y 8 cm (3.25 in) de ancho
+      - 'Se pliega a unos 39,4 cm (15.5 in) de largo y 8 cm (3.25 in) de ancho'
       - '9,1 kg (20 lb) de carga, muy por encima de un equipo mirrorless típico'
       - >-
         Llega a 130,2 cm (51.25 in) con la columna bajada y a 152,4 cm (60 in)
         con ella subida
     cons:
-      - Precio de gama alta frente a la mayoría de trípodes de viaje de esta lista
+      - >-
+        Precio de gama alta frente a la mayoría de trípodes de viaje de esta
+        lista
       - Cinco tramos de pata suponen más cierres que abrir y cerrar
     specs:
-      Weight: 1,27 kg (2.81 lb)
+      Weight: '1,27 kg (2.81 lb)'
       Material: Fibra de carbono
-      Max height (column raised): 152,4 cm (60 in)
-      Max height (column down): 130,2 cm (51.25 in)
+      Max height (column raised): '152,4 cm (60 in)'
+      Max height (column down): '130,2 cm (51.25 in)'
       Min height: 14 cm (5.5 in)
-      Folded length: 39,4 cm (15.5 in)
-      Load capacity: 9,1 kg (20 lb)
+      Folded length: '39,4 cm (15.5 in)'
+      Load capacity: '9,1 kg (20 lb)'
       Head: Rótula de bola incluida
     scores:
       stability: 9
@@ -109,8 +110,8 @@ products:
         - Práctico en viajes urbanos porque no llama la atención en la mochila
       complaints:
         - A muchos propietarios les cuesta justificar el precio
-        - 'Un usuario de un foro cuenta que se le soltó una pata durante un viaje'
-        - Los tramos inferiores, finos, pueden vibrar con viento
+        - Un usuario de un foro cuenta que se le soltó una pata durante un viaje
+        - 'Los tramos inferiores, finos, pueden vibrar con viento'
       sources:
         - title: Fred Miranda forum thread
           url: 'https://www.fredmiranda.com/forum/topic/1926245/0'
@@ -144,7 +145,7 @@ products:
       - >-
         Misma longitud plegado de 39,4 cm (15.5 in) y mismo rango de altura de
         130,2 a 152,4 cm (51.25 a 60 in) que el modelo de carbono
-      - 9,1 kg (20 lb) de carga
+      - '9,1 kg (20 lb) de carga'
       - >-
         La columna se puede quitar o invertir para tomas bajas hasta unos 14 cm
         (5.5 in)
@@ -152,13 +153,13 @@ products:
       - Unos 290 g (0.6 lb) más pesado que la versión de carbono
       - Cinco tramos de pata que desbloquear
     specs:
-      Weight: 1,56 kg (3.44 lb)
+      Weight: '1,56 kg (3.44 lb)'
       Material: Aluminio
-      Max height (column raised): 152,4 cm (60 in)
-      Max height (column down): 130,2 cm (51.25 in)
+      Max height (column raised): '152,4 cm (60 in)'
+      Max height (column down): '130,2 cm (51.25 in)'
       Min height: 14 cm (5.5 in)
-      Folded length: 39,4 cm (15.5 in)
-      Load capacity: 9,1 kg (20 lb)
+      Folded length: '39,4 cm (15.5 in)'
+      Load capacity: '9,1 kg (20 lb)'
     scores:
       stability: 9
       portability: 7
@@ -171,16 +172,19 @@ products:
     owners:
       read: 4
       praise:
-        - 'Gran calidad de construcción y durabilidad, según el resumen de opiniones de Backcountry'
+        - >-
+          Gran calidad de construcción y durabilidad, según el resumen de
+          opiniones de Backcountry
         - Tamaño plegado compacto y diseño ingenioso
         - A los propietarios les gustan la rótula y el tamaño general
       complaints:
-        - >-
-          Algo pesado; un comprador de REI puso en duda su estabilidad y su peso
+        - Algo pesado; un comprador de REI puso en duda su estabilidad y su peso
         - >-
           Cuesta apuntar la cámara en vertical hacia abajo; la pequeña llave
           hexagonal se cae con facilidad
-        - 'Las patas inferiores, finas, vibran con viento, según un usuario de un foro'
+        - >-
+          Las patas inferiores, finas, vibran con viento, según un usuario de un
+          foro
       sources:
         - title: 'REI: Peak Design Travel Tripod - Aluminum'
           url: 'https://www.rei.com/product/180076'
@@ -214,9 +218,9 @@ products:
       gustan los cierres de pestaña.
     renterNote: >-
       Fotógrafos con mirrorless y zoom estándar que quieren una marca conocida,
-      cierres de palanca rápidos y rótula incluida, y pueden cargar con unos
-      1,6 kg (3.5 lb); quien use teleobjetivos largos debería mirar los modelos
-      con más carga.
+      cierres de palanca rápidos y rótula incluida, y pueden cargar con unos 1,6
+      kg (3.5 lb); quien use teleobjetivos largos debería mirar los modelos con
+      más carga.
     pros:
       - Los cierres de palanca muestran de un vistazo si cada tramo está cerrado
       - Se pliega a unos 40 cm (15.7 in) y soporta 8 kg (17.6 lb)
@@ -224,13 +228,13 @@ products:
         Unos 128 cm (50.4 in) con la columna bajada y unos 150 cm (59.1 in)
         subida
     cons:
-      - Unos 1,6 kg (3.5 lb) pesan junto a los modelos de carbono
+      - 'Unos 1,6 kg (3.5 lb) pesan junto a los modelos de carbono'
       - >-
         Algunos propietarios lo ven poco firme para teleobjetivos pesados o
         largas exposiciones con viento
       - No se convierte en monopié
     specs:
-      Weight: unos 1,6 kg (3.5 lb)
+      Weight: 'unos 1,6 kg (3.5 lb)'
       Material: Aluminio
       Max height (column raised): unos 150 cm (59.1 in)
       Max height (column down): unos 128 cm (50.4 in)
@@ -239,7 +243,9 @@ products:
       Load capacity: 8 kg (17.6 lb)
       Leg sections: '4'
       Leg locks: Palanca
-      Head: Rótula 494 con bloqueo de panorámica y control de fricción independientes
+      Head: >-
+        Rótula 494 con bloqueo de panorámica y control de fricción
+        independientes
     scores:
       stability: 7
       portability: 7
@@ -249,12 +255,13 @@ products:
     scoreNote: >-
       8 kg de carga y 128 cm con la columna bajada son cifras sólidas para su
       categoría; 1,6 kg le restan portabilidad, y los comentarios de
-      propietarios sobre vibraciones con teleobjetivos dejan la estabilidad en 7.
+      propietarios sobre vibraciones con teleobjetivos dejan la estabilidad en
+      7.
     owners:
       read: 4
       praise:
         - 'Bien construido y vale lo que cuesta, según un comprador de Adorama'
-        - Firme pero ligero, y se pliega pequeño
+        - 'Firme pero ligero, y se pliega pequeño'
         - La rótula incluida maneja bien equipos mirrorless típicos
       complaints:
         - >-
@@ -295,12 +302,12 @@ products:
       - Cierres de rosca en cuatro tramos de pata
       - La placa incluida es compatible con Arca y RC2
     cons:
-      - Unos 1,55 kg (3.4 lb) es más que sus rivales de carbono
-      - Unos 42,5 cm (16.7 in) plegado es más largo que los modelos compactos
+      - 'Unos 1,55 kg (3.4 lb) es más que sus rivales de carbono'
+      - 'Unos 42,5 cm (16.7 in) plegado es más largo que los modelos compactos'
     specs:
-      Weight: unos 1,55 kg (3.4 lb)
+      Weight: 'unos 1,55 kg (3.4 lb)'
       Material: Aluminio
-      Folded length: unos 42,5 cm (16.7 in)
+      Folded length: 'unos 42,5 cm (16.7 in)'
       Load capacity: unos 8 kg (17.6 lb)
       Leg sections: '4'
       Leg locks: Rosca
@@ -340,14 +347,14 @@ products:
     query: Benro Rhino Carbon Fiber Zero Series travel tripod VX20
     badge: Mejor para ir ligero
     summary: >-
-      Un Rhino de carbono de 5 tramos para 10 kg (22 lb) con unos 1,24 kg
-      (2.7 lb). Encaja con viajeros que quieren un trípode de carbono ligero con
+      Un Rhino de carbono de 5 tramos para 10 kg (22 lb) con unos 1,24 kg (2.7
+      lb). Encaja con viajeros que quieren un trípode de carbono ligero con
       rótula incluida.
     renterNote: >-
       Fotógrafos con mirrorless que priorizan el poco peso y los 10 kg de carga
       sobre la altura máxima.
     pros:
-      - 10 kg (22 lb) de carga con 1,24 kg (2.73 lb)
+      - '10 kg (22 lb) de carga con 1,24 kg (2.73 lb)'
       - Tubos de fibra de carbono trenzada
       - Rótula VX20 incluida
     cons:
@@ -355,9 +362,9 @@ products:
         Una altura máxima de unos 140 cm (55 in) queda por debajo de los ojos de
         los usuarios altos sin subir la columna
     specs:
-      Weight: 1,24 kg (2.73 lb)
+      Weight: '1,24 kg (2.73 lb)'
       Material: Fibra de carbono
-      Max height: 139,5 cm (54.9 in)
+      Max height: '139,5 cm (54.9 in)'
       Min height: 35 cm (13.8 in)
       Load capacity: 10 kg (22.05 lb)
       Leg sections: '5'
@@ -368,7 +375,9 @@ products:
       height: 6
       build: 8
       value: 8
-    scoreNote: Mucha carga para su peso; los 139,5 cm de altura máxima mantienen modesta la nota de altura.
+    scoreNote: >-
+      Mucha carga para su peso; los 139,5 cm de altura máxima mantienen modesta
+      la nota de altura.
     matchName: Benro Rhino Carbon Fiber Zero Series Tripod VX20
     asin: B08F2RYZLK
     amazonTitle: >-
@@ -381,16 +390,20 @@ products:
     summary: >-
       Un trípode de aluminio de 5 tramos que se pliega a unos 33 cm, con rótula
       N00 y funda. Una opción barata para equipos mirrorless ligeros.
-    renterNote: Fotógrafos con mirrorless y poco presupuesto, con un cuerpo compacto y un objetivo pequeño.
+    renterNote: >-
+      Fotógrafos con mirrorless y poco presupuesto, con un cuerpo compacto y un
+      objetivo pequeño.
     pros:
       - Se pliega a unos 33 cm (12.9 in)
       - Incluye rótula N00 y funda
       - Tres posiciones de apertura de patas
     cons:
       - Unos 4 kg (8.8 lb) de carga limitan los objetivos pesados
-      - 'Las cifras de altura máxima no coinciden, así que compruébala antes de comprar'
+      - >-
+        Las cifras de altura máxima no coinciden, así que compruébala antes de
+        comprar
     specs:
-      Weight: 1,18 kg (2.6 lb)
+      Weight: '1,18 kg (2.6 lb)'
       Material: Aluminio
       Folded length: 33 cm (12.9 in)
       Load capacity: unos 4 kg (8.8 lb)
@@ -437,14 +450,18 @@ products:
       Fotógrafos altos con mirrorless que quieren llegar a la altura de los ojos
       con algo que siga cabiendo en una bolsa.
     pros:
-      - 'Alto: los anuncios sitúan su altura máxima en unos 166 a 171 cm (65.4 a 67.3 in)'
-      - Plegado (invertido) mide unos 46,5 a 48 cm (18.3 a 18.9 in)
+      - >-
+        Alto: los anuncios sitúan su altura máxima en unos 166 a 171 cm (65.4 a
+        67.3 in)
+      - 'Plegado (invertido) mide unos 46,5 a 48 cm (18.3 a 18.9 in)'
       - Una pata se convierte en monopié
     cons:
-      - 'Las cifras de carga no coinciden (8 kg oficiales), así que toma 8 kg como límite'
+      - >-
+        Las cifras de carga no coinciden (8 kg oficiales), así que toma 8 kg
+        como límite
       - La altura máxima se alcanza con la columna subida
     specs:
-      Weight: unos 1,59 kg (3.5 lb) con rótula
+      Weight: 'unos 1,59 kg (3.5 lb) con rótula'
       Material: Fibra de carbono
       Folded length: unos 48 cm (18.9 in) (tienda Sirui)
       Load capacity: 8 kg (17.6 lb) (tienda Sirui)
@@ -463,11 +480,15 @@ products:
       read: 5
       praise:
         - Manejable y apto para viajar
-        - Los clientes de tiendas lo valoran bien en general en muestras pequeñas
+        - >-
+          Los clientes de tiendas lo valoran bien en general en muestras
+          pequeñas
         - Las tiendas destacan su larga garantía
       complaints:
         - Un propietario tuvo un cierre de rosca atascado
-        - Más pesado y más largo plegado (unos 46 cm, 18 in) de lo que sugiere la publicidad
+        - >-
+          Más pesado y más largo plegado (unos 46 cm, 18 in) de lo que sugiere
+          la publicidad
         - >-
           Se nota menos firme que algunos rivales; un analista cuelga una bolsa
           del gancho para estabilizarlo
@@ -497,7 +518,8 @@ products:
       ligeros.
     renterNote: >-
       Fotógrafos con mirrorless de cuerpo y objetivo compactos que quieren el
-      trípode de carbono más ligero y un plegado que quepa en una mochila de día.
+      trípode de carbono más ligero y un plegado que quepa en una mochila de
+      día.
     pros:
       - Unos 850 g (1.87 lb) según la tienda de Sirui
       - Se pliega a unos 33 cm (13 in)
@@ -506,7 +528,7 @@ products:
       - 4 kg (8.8 lb) de carga solo para equipos ligeros
       - Altura máxima de 138 cm (54.3 in)
     specs:
-      Weight: 0,85 kg (1.87 lb)
+      Weight: '0,85 kg (1.87 lb)'
       Material: Fibra de carbono
       Max height: 138 cm (54.3 in)
       Min height: 16 cm (6.3 in)
@@ -520,7 +542,9 @@ products:
       height: 6
       build: 8
       value: 8
-    scoreNote: Muy ligero y compacto; los 4 kg de carga y 138 cm de altura lo limitan con equipo pesado.
+    scoreNote: >-
+      Muy ligero y compacto; los 4 kg de carga y 138 cm de altura lo limitan con
+      equipo pesado.
     matchName: Sirui Traveler 5C Carbon Fiber Tripod
     owners:
       read: 5
@@ -551,10 +575,6 @@ products:
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
             https://shopsavvy.com/reviews-tldr/"sirui-compact-traveler-5c-tripod".md
-    asin: B07KD181B3
-    amazonTitle: >-
-      Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber
-      Travel Tripod for Camera with 360° Panorama Ball Head
   - name: Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7A aluminum tripod E-10 ball head
@@ -569,17 +589,21 @@ products:
       altura de los ojos y una pata monopié, y pueden cargar con unos 1,89 kg
       (4.16 lb) y un plegado de 48 cm.
     pros:
-      - 166,5 cm (65.6 in) de altura máxima con la columna subida
+      - '166,5 cm (65.6 in) de altura máxima con la columna subida'
       - 8 kg (17.6 lb) de carga según Sirui
       - Una pata se convierte en monopié; columna central reversible
     cons:
-      - Unos 1,89 kg con rótula, de los más pesados de la lista
-      - Unos 48 cm (18.9 in) plegado es largo para el bolsillo lateral de una mochila de día
-      - 'Algunos usuarios notan vibraciones con viento, según un resumen de opiniones'
+      - 'Unos 1,89 kg con rótula, de los más pesados de la lista'
+      - >-
+        Unos 48 cm (18.9 in) plegado es largo para el bolsillo lateral de una
+        mochila de día
+      - >-
+        Algunos usuarios notan vibraciones con viento, según un resumen de
+        opiniones
     specs:
-      Weight: unos 1,89 kg (4.16 lb) con rótula
+      Weight: 'unos 1,89 kg (4.16 lb) con rótula'
       Material: Aluminio
-      Max height (column raised): 166,5 cm (65.6 in)
+      Max height (column raised): '166,5 cm (65.6 in)'
       Folded length: unos 48 cm (18.9 in)
       Load capacity: 8 kg (17.6 lb)
       Leg sections: '4'
@@ -598,10 +622,14 @@ products:
     owners:
       read: 1
       praise:
-        - 'Lo bastante manejable para viajar, según un resumen de opiniones de usuarios'
+        - >-
+          Lo bastante manejable para viajar, según un resumen de opiniones de
+          usuarios
         - Fácil de montar y de usar
       complaints:
-        - 'Algunos usuarios notan problemas de estabilidad con viento, según un resumen de opiniones'
+        - >-
+          Algunos usuarios notan problemas de estabilidad con viento, según un
+          resumen de opiniones
       sources:
         - title: 'Review-Rating: Sirui Traveler 7A summary'
           url: >-
@@ -624,19 +652,19 @@ products:
       Fotógrafos con mirrorless que quieren un trípode muy compacto de gama alta
       y añadirán una rótula aparte.
     pros:
-      - Se pliega a unos 35,5 cm (14 in)
-      - 10 kg (22 lb) de carga con unos 1,03 kg (2.3 lb)
+      - 'Se pliega a unos 35,5 cm (14 in)'
+      - '10 kg (22 lb) de carga con unos 1,03 kg (2.3 lb)'
       - Altura mínima de unos 20 cm (7.9 in)
     cons:
       - Se vende solo con patas; rótula aparte
       - Recomendado para objetivos de hasta 135 mm (200 mm como máximo)
     specs:
-      Weight: 1,03 kg (2.27 lb)
+      Weight: '1,03 kg (2.27 lb)'
       Material: Fibra de carbono
       Max height (column raised): 138 cm (54.3 in)
       Max height (column down): 121 cm (47.6 in)
       Min height: 20 cm (7.9 in)
-      Folded length: 35,5 cm (14 in)
+      Folded length: '35,5 cm (14 in)'
       Load capacity: 10 kg (22 lb)
     scores:
       stability: 8
@@ -650,13 +678,17 @@ products:
     owners:
       read: 4
       praise:
-        - Se pliega muy pequeño y ligero y aun así se siente sólido como una roca extendido
+        - >-
+          Se pliega muy pequeño y ligero y aun así se siente sólido como una
+          roca extendido
         - 'Muy bien hecho, con una solidez que sorprendió a los compradores'
         - Lo bastante compacto para viajar sin renunciar a una buena altura
       complaints:
         - Caro para su categoría
         - 'Más de 0,9 kg (2 lb) es pesado para la montaña, según un comprador'
-        - 'La ranura del tornillo de seguridad de la placa es demasiado pequeña para una moneda, según un comprador'
+        - >-
+          La ranura del tornillo de seguridad de la placa es demasiado pequeña
+          para una moneda, según un comprador
       sources:
         - title: 'The Digital Picture: Gitzo GT1555T review'
           url: >-
@@ -678,27 +710,29 @@ products:
     badge: Mejor ultraligero
     summary: >-
       Un Ranger de carbono de 4 tramos con tubos de 22 mm y sin columna central
-      estándar, de unos 0,9 kg (1.98 lb) con su pequeña rótula LH-25LR y para
-      6 kg (13.2 lb). Llega a unos 114 cm (45 in), así que es un trípode bajo y
+      estándar, de unos 0,9 kg (1.98 lb) con su pequeña rótula LH-25LR y para 6
+      kg (13.2 lb). Llega a unos 114 cm (45 in), así que es un trípode bajo y
       ligero para senderistas y para disparar sentado.
     renterNote: >-
       Equipos mirrorless ligeros en rutas largas, o cualquiera que dispare desde
       una postura baja, una mesa o un muro; con unos 114 cm (45 in) de máximo
       queda muy por debajo de los ojos de la mayoría de adultos.
     pros:
-      - Unos 0,9 kg (1.98 lb) con rótula
+      - 'Unos 0,9 kg (1.98 lb) con rótula'
       - 'Ángulos de pata de 23, 55 y 85 grados para tomas muy bajas'
-      - 'Gancho desmontable para colgar una bolsa, según las fichas de las tiendas'
+      - >-
+        Gancho desmontable para colgar una bolsa, según las fichas de las
+        tiendas
     cons:
-      - Unos 113,7 cm (44.8 in) de altura máxima obligan a agacharse o sentarse
+      - 'Unos 113,7 cm (44.8 in) de altura máxima obligan a agacharse o sentarse'
       - 6 kg (13.2 lb) de carga solo para equipos ligeros
       - Las fichas de las tiendas no coinciden en longitud plegado ni altura
     specs:
-      Weight: unos 0,9 kg (1.98 lb) con rótula
+      Weight: 'unos 0,9 kg (1.98 lb) con rótula'
       Material: Fibra de carbono
-      Max height: unos 113,7 cm (44.8 in)
+      Max height: 'unos 113,7 cm (44.8 in)'
       Min height: unos 8 cm (3.2 in)
-      Folded length: unos 47,3 cm (18.6 in) con rótula
+      Folded length: 'unos 47,3 cm (18.6 in) con rótula'
       Load capacity: 6 kg (13.2 lb)
       Leg sections: '4'
       Head: Rótula LH-25LR (bola de 25 mm)
@@ -709,15 +743,17 @@ products:
       build: 8
       value: 7
     scoreNote: >-
-      0,9 kg con rótula le dan nota en portabilidad; 6 kg de carga y unos
-      114 cm de altura máxima bajan la estabilidad y la altura.
+      0,9 kg con rótula le dan nota en portabilidad; 6 kg de carga y unos 114 cm
+      de altura máxima bajan la estabilidad y la altura.
     owners:
       read: 1
       praise:
         - Un propietario dice que es ligero de llevar
         - Se sintió firme tanto con una réflex como con una mirrorless
       complaints:
-        - 'Solo encontramos la opinión de un propietario, así que no hay quejas recurrentes que contar'
+        - >-
+          Solo encontramos la opinión de un propietario, así que no hay quejas
+          recurrentes que contar
       sources:
         - title: 'Leofoto USA: LS-224CX Ranger kit customer review'
           url: >-
@@ -732,8 +768,8 @@ products:
     query: Vanguard VEO 3 GO 235CB
     badge: Mejor para equipaje de mano
     summary: >-
-      Un trípode de carbono de 5 tramos cuyas patas se pliegan a unos 33 cm
-      (13 in), con unos 1,05 a 1,1 kg (2.3 a 2.4 lb) y 4 kg (8.8 lb) de carga.
+      Un trípode de carbono de 5 tramos cuyas patas se pliegan a unos 33 cm (13
+      in), con unos 1,05 a 1,1 kg (2.3 a 2.4 lb) y 4 kg (8.8 lb) de carga.
     renterNote: Fotógrafos con mirrorless ligera que necesitan el plegado más corto.
     pros:
       - Se pliega a unos 33 cm (13 in)
@@ -743,7 +779,7 @@ products:
       - 4 kg (8.8 lb) de carga
       - 106 cm (41.7 in) con la columna bajada
     specs:
-      Weight: unos 1,06 kg (2.3 lb)
+      Weight: 'unos 1,06 kg (2.3 lb)'
       Material: Fibra de carbono
       Max height: 136 cm (53.5 in)
       Max height (column down): 106 cm (41.7 in)
@@ -757,14 +793,18 @@ products:
       height: 5
       build: 7
       value: 8
-    scoreNote: Muy compacto; la altura con la columna bajada y el límite de 4 kg frenan estabilidad y altura.
+    scoreNote: >-
+      Muy compacto; la altura con la columna bajada y el límite de 4 kg frenan
+      estabilidad y altura.
     owners:
       read: 1
       praise:
         - Cabe en una bolsa o mochila y es ligero en carbono
         - La pata desmontable sirve de monopié o de palo selfi
       complaints:
-        - '136 cm (53.5 in) de altura máxima no es mucho, aunque basta para casi todo'
+        - >-
+          136 cm (53.5 in) de altura máxima no es mucho, aunque basta para casi
+          todo
       sources:
         - title: 'Digital Camera World: Vanguard VEO 3GO 235CB review'
           url: 'https://digitalcameraworld.com/reviews/vanguard-veo-3go-235cb-review'
@@ -782,21 +822,23 @@ products:
       Un trípode de aleación de magnesio para 18 kg (39.7 lb) con el ángulo de
       pata de 23 grados y hasta 166 cm (65.3 in) de altura, con 45,7 cm (18 in)
       plegado.
-    renterNote: Fotógrafos con mirrorless y objetivos grandes; con unos 1,8 kg (4 lb) pesa más.
+    renterNote: >-
+      Fotógrafos con mirrorless y objetivos grandes; con unos 1,8 kg (4 lb) pesa
+      más.
     pros:
       - 18 kg (39.7 lb) con el ángulo de pata más cerrado
       - 166 cm (65.3 in) de altura máxima
       - Pata desmontable como monopié
     cons:
-      - Unos 1,82 kg (4.01 lb)
+      - 'Unos 1,82 kg (4.01 lb)'
       - La carga baja a 8 kg (17.6 lb) a 80 grados
     specs:
-      Weight: 1,82 kg (4.01 lb)
+      Weight: '1,82 kg (4.01 lb)'
       Material: Aleación de magnesio
       Max height: 166 cm (65.3 in)
       Max height (no column): 136 cm (53.5 in)
-      Min height (no column): 19,5 cm (7.7 in)
-      Folded length: 45,7 cm (18 in)
+      Min height (no column): '19,5 cm (7.7 in)'
+      Folded length: '45,7 cm (18 in)'
       Load capacity: 18 kg (39.7 lb) a 23 grados; 12 kg (26.5 lb) a 55; 8 kg (17.6 lb) a 80
       Leg sections: '4'
     scores:
@@ -814,7 +856,9 @@ products:
         - Las patas desmontables se convierten en monopiés
         - Gran altura máxima
       complaints:
-        - Ninguna queja recurrente en la única publicación de propietario que leímos
+        - >-
+          Ninguna queja recurrente en la única publicación de propietario que
+          leímos
       sources:
         - title: 'PhotoBite: 3 Legged Thing Travis 2.0 review'
           url: >-
@@ -829,15 +873,15 @@ products:
     summary: >-
       Un trípode de viaje de aluminio barato de 4 tramos (modelo K&F KF09.101)
       que llega a unos 163 cm (64 in), se pliega a unos 39 cm (15.35 in) y pesa
-      unos 1,24 kg (2.73 lb) con su rótula metálica de 28 mm; K&F le asigna
-      8 kg (17.64 lb) de carga.
+      unos 1,24 kg (2.73 lb) con su rótula metálica de 28 mm; K&F le asigna 8 kg
+      (17.64 lb) de carga.
     renterNote: >-
       Fotógrafos con mirrorless y zoom estándar que miran el presupuesto y
       quieren altura y rótula incluida por poco dinero; quien use teleobjetivos
       pesados debe contar con tener que reapretar la rótula.
     pros:
       - Unos 163 cm (64 in) de altura máxima a precio económico
-      - Se pliega a unos 39 cm (15.35 in) con unos 1,24 kg (2.73 lb)
+      - 'Se pliega a unos 39 cm (15.35 in) con unos 1,24 kg (2.73 lb)'
       - Columna central reversible para ángulos bajos
     cons:
       - >-
@@ -846,7 +890,7 @@ products:
       - Los 8 kg anunciados parecen optimistas para una rótula de 28 mm
       - K&F no publica la altura con la columna bajada
     specs:
-      Weight: unos 1,24 kg (2.73 lb) con rótula
+      Weight: 'unos 1,24 kg (2.73 lb) con rótula'
       Material: Aluminio
       Max height (column raised): unos 163 cm (64 in)
       Folded length: unos 39 cm (15.35 in)
@@ -891,9 +935,11 @@ products:
     query: Ulanzi Zero F38 carbon fiber travel tripod
     badge: Mejor carbono con cierres de pestaña
     summary: >-
-      Un trípode de carbono de 5 tramos con cierres de pestaña, unos 1,1 kg
-      (2.4 lb), 42 cm (16.7 in) plegado y con rótula.
-    renterNote: Fotógrafos con mirrorless que prefieren cierres de pestaña; rótula para 6 kg (13.2 lb).
+      Un trípode de carbono de 5 tramos con cierres de pestaña, unos 1,1 kg (2.4
+      lb), 42 cm (16.7 in) plegado y con rótula.
+    renterNote: >-
+      Fotógrafos con mirrorless que prefieren cierres de pestaña; rótula para 6
+      kg (13.2 lb).
     pros:
       - Cierres de pestaña
       - Se pliega a unos 42 cm (16.7 in)
@@ -902,7 +948,7 @@ products:
       - Rótula para 6 kg (13.2 lb)
       - A veces agotado y con pedidos pendientes
     specs:
-      Weight: unos 1,1 kg (2.4 lb)
+      Weight: 'unos 1,1 kg (2.4 lb)'
       Material: Fibra de carbono
       Max height: 159 cm (62.6 in)
       Max height (no column): 134 cm (52.76 in)
@@ -925,7 +971,7 @@ products:
         - Las patas reciben grandes elogios
       complaints:
         - La placa de liberación rápida es incómoda y puede aflojarse
-        - La placa no es Arca-Swiss, lo que limita los accesorios estándar
+        - 'La placa no es Arca-Swiss, lo que limita los accesorios estándar'
         - Algo de bamboleo de la columna central totalmente extendida
       sources:
         - title: 'ShotKit: Ulanzi F38 travel tripod review'
@@ -1046,8 +1092,8 @@ faqs:
       Los trípodes de esta guía soportan desde 4 kg (8.8 lb) (Sirui Traveler 5C,
       Vanguard VEO 3 GO 235CB) hasta 18 kg (39.7 lb) con el ángulo de pata más
       cerrado (3 Legged Thing Punks Travis 2.0). Toma la cifra como un máximo y
-      deja cámara, objetivo y accesorios en torno a la mitad, usando la más
-      baja entre la de las patas y la de la rótula.
+      deja cámara, objetivo y accesorios en torno a la mitad, usando la más baja
+      entre la de las patas y la de la rótula.
   - q: ¿Merece la pena la fibra de carbono en un trípode de viaje?
     a: >-
       Normalmente sí, si llevas el trípode a pie. La fibra de carbono es más
@@ -1071,27 +1117,26 @@ faqs:
   - q: ¿Cuál es el mejor trípode para una cámara mirrorless?
     a: >-
       Para la mayoría de equipos mirrorless de formato completo en viaje,
-      nuestra elección es el Peak Design Travel Tripod (Carbon Fiber): carga
-      de 9,1 kg (20 lb), 39,4 cm (15.5 in) plegado y 130,2 cm (51.25 in) de
-      altura con la columna bajada. Para un equipo APS-C ligero, el Sirui
-      Traveler 5C (unos 850 g, 33 cm plegado) ahorra peso, y para
-      teleobjetivos pesados el 3 Legged Thing Punks Travis 2.0 admite 18 kg
-      (39.7 lb) con el ángulo de patas más cerrado.
+      nuestra elección es el Peak Design Travel Tripod (Carbon Fiber): carga de
+      9,1 kg (20 lb), 39,4 cm (15.5 in) plegado y 130,2 cm (51.25 in) de altura
+      con la columna bajada. Para un equipo APS-C ligero, el Sirui Traveler 5C
+      (unos 850 g, 33 cm plegado) ahorra peso, y para teleobjetivos pesados el 3
+      Legged Thing Punks Travis 2.0 admite 18 kg (39.7 lb) con el ángulo de
+      patas más cerrado.
   - q: ¿Cuál es el mejor trípode de cámara para viajar?
     a: >-
-      El que cabe en tu bolsa y aguanta tu objetivo más pesado. Si lo primero
-      es el tamaño plegado, el Vanguard VEO 3 GO 235CB, el Sirui Traveler 5C y
-      el Benro Slim se pliegan a unos 33 cm (13 in); el Gitzo GT1555T se queda
-      en 35,5 cm (14 in) con 10 kg (22 lb) de carga, pero se vende solo como
-      patas; y el Benro Slim es nuestra opción económica, con rótula de bola
-      y funda.
+      El que cabe en tu bolsa y aguanta tu objetivo más pesado. Si lo primero es
+      el tamaño plegado, el Vanguard VEO 3 GO 235CB, el Sirui Traveler 5C y el
+      Benro Slim se pliegan a unos 33 cm (13 in); el Gitzo GT1555T se queda en
+      35,5 cm (14 in) con 10 kg (22 lb) de carga, pero se vende solo como patas;
+      y el Benro Slim es nuestra opción económica, con rótula de bola y funda.
   - q: ¿Cuál es el trípode de viaje más ligero de esta guía?
     a: >-
       El Sirui Traveler 5C, con unos 850 g según la tienda de Sirui, y el
       Leofoto LS-224CX Ranger, con unos 0,9 kg con su rótula. Los dos son solo
       para equipos ligeros: el Sirui admite 4 kg (8.8 lb) y el Leofoto llega a
-      unos 114 cm (45 in), muy por debajo de la altura de los ojos de la
-      mayoría de adultos.
+      unos 114 cm (45 in), muy por debajo de la altura de los ojos de la mayoría
+      de adultos.
 author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
