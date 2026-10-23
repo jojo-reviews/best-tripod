@@ -3,9 +3,10 @@
   "lang": "es",
   "translationOf": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
   "pass": true,
-  "checkedAt": "2026-10-21T19:57:21.621Z",
+  "checkedAt": "2026-10-23T12:40:34.242Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.peakdesign.com/products/travel-tripod, https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html"
   ],
