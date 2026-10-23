@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T10:35:31.159Z",
+  "updatedAt": "2026-10-23T10:30:00.000Z",
   "categories": {
     "camera-tripods": [
       {
@@ -2836,6 +2836,216 @@
           "flexible-tripod-vs-mini-tripod-for-travel-vlogging"
         ],
         "foundAt": "2026-10-21"
+      }
+    ],
+    "phone-tripods": [
+      {
+        "id": "phone-tripods-selfie-stick-wobble",
+        "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones",
+        "details": "Creators who buy a single-pole phone tripod find the top shakes when extended, in wind or with a Pro Max phone; replies blame the thin pole and center-column design.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/",
+            "platform": "reddit",
+            "title": "eucos tripod supposed to be this wobbly atumtek",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1hmqijt/tripods_is_center_stem_really_something_i_should/",
+            "platform": "reddit",
+            "title": "tripods is center stem really something i should",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-taller-sirui-ms-01k-premium-ulanzi-mt-44-alternative.4827498/",
+            "platform": "forum",
+            "title": "tripod taller sirui ms 01k premium ulanzi mt 44 alternative.4827498",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.sarahrichardssocial.co.uk/general/best-tripod-for-content-creation/",
+            "platform": "review",
+            "title": "best tripod for content creation",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The design is the problem here. You could make this from any conceivable material and it would still wobble.",
+            "url": "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "why does my selfie stick tripod wobble",
+          "phone tripod wobbly at full height"
+        ],
+        "keywords": [
+          "best tripod for content creators"
+        ],
+        "coveredBy": [
+          "best-tripod-for-content-creators"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "phone-tripods-overhead-unboxing",
+        "pain": "Overhead shots for unboxing, recipes and study vlogs tip or break cheap tripods",
+        "details": "Creators filming top-down product or food clips report tripods breaking or tipping when angled over a desk, and ask r/videography for overhead rigs.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/",
+            "platform": "reddit",
+            "title": "what is a good overhead tripod for iphone the",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1pk1ie6/need_advice_tripod_for_overhead_unboxings_coffee/",
+            "platform": "reddit",
+            "title": "need advice tripod for overhead unboxings coffee",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/foodphotography/comments/1hzpmya/overhead_phone_mounttripod_suggestions/",
+            "platform": "reddit",
+            "title": "overhead phone mounttripod suggestions",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "What is a good overhead tripod for iPhone? The recent one I bought from amazon broke, budget will be under $100.",
+            "url": "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best overhead tripod for iphone",
+          "tripod for overhead unboxing videos"
+        ],
+        "keywords": [
+          "best tripod for content creators"
+        ],
+        "coveredBy": [
+          "best-tripod-for-content-creators"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "phone-tripods-flexible-legs-sag",
+        "pain": "Bendy flexible tripod legs sag or let go under a heavier rig",
+        "details": "GorillaPod owners on r/canon and r/videography report slow sagging when loaded and, in one case, a camera that fell while under the rated load.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/",
+            "platform": "reddit",
+            "title": "joby 3k tripod any good",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/jj61q2/camera_destroyed_due_to_joby_gorillapod/",
+            "platform": "reddit",
+            "title": "camera destroyed due to joby gorillapod",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It's also not really that stable and tends to slowly sag when loaded.",
+            "url": "https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "gorillapod legs sagging",
+          "flexible tripod not holding phone"
+        ],
+        "keywords": [
+          "best tripod for content creators"
+        ],
+        "coveredBy": [
+          "best-tripod-for-content-creators"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "phone-tripods-reuse-camera-tripod",
+        "pain": "Not sure whether a regular camera tripod can hold a phone",
+        "details": "Quora askers starting YouTube channels want to know if they need a phone tripod; answers point to a phone clamp on the standard 1/4-20 screw.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.quora.com/Is-there-any-tripod-stand-or-any-such-arrangement-through-which-a-smartphone-can-be-used-to-make-videos-for-YouTube",
+            "platform": "quora",
+            "title": "Is there any tripod stand or any such arrangement through which a smartphone can be used t",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel",
+            "platform": "quora",
+            "title": "Whats the tripod mobile phone holder I can use to create or shoot professional videos for ",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If you already have a bigger tripod, you can also get a mobile tripod mount",
+            "url": "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "can i use a camera tripod for my phone",
+          "phone mount for regular tripod"
+        ],
+        "keywords": [
+          "best tripod for content creators"
+        ],
+        "coveredBy": [
+          "best-tripod-for-content-creators"
+        ],
+        "foundAt": "2026-10-23"
+      },
+      {
+        "id": "phone-tripods-solo-remote",
+        "pain": "Filming yourself alone means walking back to the phone for every take",
+        "details": "Beginners on r/photography and r/ContentCreatorWorld who film themselves get the same advice: a tall tripod plus a remote, often sold as a bundle.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/",
+            "platform": "reddit",
+            "title": "looking to get more photos of myself i only have",
+            "seen": "2026-10-23"
+          },
+          {
+            "url": "https://www.reddit.com/r/ContentCreatorWorld/comments/1l57uak/best_tripod_for_a_newbie_content_creator/",
+            "platform": "reddit",
+            "title": "best tripod for a newbie content creator",
+            "seen": "2026-10-23"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Get a phone tripod and remote, often in a bundle.",
+            "url": "https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "tripod with remote for filming yourself",
+          "how to film yourself with phone tripod"
+        ],
+        "keywords": [
+          "best tripod for content creators"
+        ],
+        "coveredBy": [
+          "best-tripod-for-content-creators"
+        ],
+        "foundAt": "2026-10-23"
       }
     ]
   }

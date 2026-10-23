@@ -1,0 +1,18 @@
+{
+  "slug": "best-tripod-for-content-creators",
+  "pass": true,
+  "checkedAt": "2026-10-23T10:28:23.379Z",
+  "errors": [],
+  "warnings": [
+    "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-23 via Firecrawl. Manfrotto MKPIXICLAMP-BK page: 0.215 kg/0.47 lb, max 24.7 cm/9.72 in, 26 cm/10.2 in closed, 1 kg/2.2 lb total payload, stainless steel + Adapto, push-button lock, clamp with 1/4 threads, handgrip. Neewer RL-18 kit page (neewer.com 66600024): 18 in 55W ring, stand 19-61 in/155 cm, storage 30 in/75 cm, phone holder 2.6-3.7 in, 1/4 in screw, ball head adapter; remote listed by B&H but not in Neewer package list -> table says varies by version. B&H JB01507 excerpt: 6.6 lb load, 12 in max; Hunt's/Backscatter 393 g. EUCOS EUTP-010 via Newegg listing: 62 in, 13 oz tripod + 2.3 oz holder, 2.2-3.6 in holder, cold shoe, 33 ft remote, 2.2 lb weight limit, aluminum + nylon PA6/6; Ecommerce Paradise 12 in folded; Voltage Castle 45-degree click holder, ring lock, 1/4 in platform. Owner claims checked against TechGearLab, Swarmify, StreamTechReviews, Voltage Castle and Reddit/Quora search excerpts; quotes verbatim from excerpts (r/videography 1blcm3i, r/canon k2nz49, Quora tripod-mobile-phone-holder, r/photography 1kkir34). Wyzowl 2026 page: 89% say video quality impacts trust in a brand. Creator anecdotes (Henderson 5 tripods, Richards Hama/wind, Little Plantation 4) checked on their pages. ASINs from Firecrawl site:amazon.com search titles: B09XHZ8F7F EUCOS 62, B0169SORBO PIXI clamp kit, B0C81TNMP4 GorillaPod 3K Kit, B01LXDNNBW NEEWER RL-18; UBeesize Tripod S dropped (ASIN now a different Pro S). Video z7yo-oNr9I0 title fits the framing section.",
+    "at": "2026-10-23T10:28:22.874Z",
+    "hash": "5f22639a299e19a3"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "centralEntity": "tripod for content creators",
+  "entityVariants": [
+    "content creator tripod",
+    "phone tripod for content creation",
+    "tripod for content creation",
+    "creator tripod",
+    "tripod for UGC creators",
+    "tripod for reels"
+  ],
+  "entities": [
+    { "name": "phone tripod", "type": "product type", "relation": "main support for iPhone and Android content creation" },
+    { "name": "selfie stick tripod", "type": "product type", "relation": "single-pole tripod that reaches standing height but wobbles at full extension" },
+    { "name": "flexible tripod", "type": "product type", "relation": "bendy legs that wrap rails and props for odd angles" },
+    { "name": "tabletop tripod", "type": "product type", "relation": "desk and countertop filming for unboxing and tutorials" },
+    { "name": "ring light", "type": "accessory", "relation": "light stand with phone holder for talking-head and beauty content" },
+    { "name": "light stand", "type": "product type", "relation": "tall support that doubles as a phone stand in ring light kits" },
+    { "name": "Bluetooth remote", "type": "accessory", "relation": "starts recording when the creator films alone" },
+    { "name": "cold shoe", "type": "standard", "relation": "mount for a microphone or small LED light" },
+    { "name": "1/4\"-20 thread", "type": "standard", "relation": "universal screw that lets phone clamps fit any camera tripod" },
+    { "name": "phone clamp", "type": "component", "relation": "holds the phone; its width limits phone and case size" },
+    { "name": "ball head", "type": "head type", "relation": "switches between portrait and landscape" },
+    { "name": "Manfrotto PIXI", "type": "product", "relation": "tabletop tripod with smartphone clamp" },
+    { "name": "JOBY GorillaPod 3K Kit", "type": "product", "relation": "flexible tripod with ball head" },
+    { "name": "EUCOS 62\" Phone Tripod", "type": "product", "relation": "selfie stick tripod with remote and cold shoe" },
+    { "name": "Neewer RL-18", "type": "product", "relation": "18-inch ring light kit on a 61-inch stand" },
+    { "name": "Instagram Reels and TikTok", "type": "platform", "relation": "vertical 9:16 video that needs portrait mounting" },
+    { "name": "UGC creators", "type": "audience", "relation": "film product clips, unboxing and testimonials at home" }
+  ],
+  "attributes": [
+    "max height",
+    "working height on the floor vs on a desk",
+    "folded length",
+    "weight",
+    "max load",
+    "phone clamp width",
+    "portrait and landscape switching",
+    "remote range",
+    "cold shoe for mic or light",
+    "stability at full extension",
+    "overhead filming"
+  ],
+  "ngrams": [
+    "phone tripod",
+    "selfie stick tripod",
+    "flexible tripod",
+    "tabletop tripod",
+    "ring light",
+    "cold shoe",
+    "phone clamp",
+    "eye level",
+    "full extension",
+    "overhead shots",
+    "content creation",
+    "vertical video",
+    "wireless remote",
+    "talking head"
+  ],
+  "skipgrams": [
+    "tripod…creators",
+    "phone…clamp",
+    "ring…light",
+    "selfie…tripod",
+    "overhead…shots",
+    "eye…level"
+  ],
+  "nlpTerms": [
+    "reels",
+    "TikTok",
+    "unboxing",
+    "UGC",
+    "influencers",
+    "iPhone",
+    "Android",
+    "vertical",
+    "portrait",
+    "landscape",
+    "microphone",
+    "wobble",
+    "stability",
+    "payload",
+    "remote",
+    "desk",
+    "countertop",
+    "educational videos"
+  ],
+  "questions": [
+    "What tripod do content creators use?",
+    "What is the best tripod for UGC creators?",
+    "What height tripod do I need for talking-head videos?",
+    "Why does my selfie stick tripod wobble?",
+    "Can I use a camera tripod with my phone?",
+    "What tripod is best for overhead unboxing videos?"
+  ],
+  "contentGaps": [
+    "Matching the tripod type to the shot (desk, floor, wrap-around, lit talking head) instead of one generic pick",
+    "Why single-pole selfie stick tripods wobble and how to reduce it",
+    "Overhead unboxing and recipe shots need a different support than a phone tripod",
+    "Clamp width vs a cased Pro Max phone",
+    "Reusing a camera tripod with a phone clamp on the 1/4-20 thread"
+  ],
+  "outline": [
+    { "h2": "Best Tripods for Content Creators at a Glance", "intent": "short answer and picks by shot type", "h3": [] },
+    { "h2": "Content Creator Tripod Comparison Table", "intent": "compare height, weight, load, clamp and extras", "h3": [] },
+    { "h2": "How We Picked These Creator Tripods", "intent": "method: SERP overlap, maker specs, owner reports, no testing", "h3": [] },
+    { "h2": "The 4 Best Tripods for Content Creators", "intent": "product reviews", "h3": ["EUCOS 62\" Phone Tripod", "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp", "JOBY GorillaPod 3K Kit", "Neewer RL-18 Ring Light 18inch Kit"] },
+    { "h2": "Problems Creators Run Into, and the Fix", "intent": "pain points from Reddit, Quora and dpreview", "h3": ["Selfie stick tripods wobble at full height", "Overhead unboxing shots tip or break the tripod", "Bendy legs sag under a heavier rig", "You already own a camera tripod", "Filming alone without a remote"] },
+    { "h2": "How to Choose a Tripod for Content Creation", "intent": "buying guide: height, clamp, extras, portability", "h3": [] },
+    { "h2": "Which Content Creator Tripod Should You Buy?", "intent": "verdict closing the opening scene", "h3": [] }
+  ],
+  "targetWords": 1900,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/",
+      "https://momanx.com/blogs/moman-ideas/choose-best-tripods-for-content-creators",
+      "https://www.sarahrichardssocial.co.uk/general/best-tripod-for-content-creation/",
+      "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+      "https://swarmify.com/blog/iphone-tripod/",
+      "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The longest product roundups in the SERP (Ecommerce Paradise, TechGearLab, Swarmify) give each pick explicit Pros/Cons or Reasons to buy/avoid lists; the creator blogs (Sarah Richards, The Little Plantation, Moman) are short prose notes.",
+    "avgWords": 1875,
+    "avgProducts": 4.5,
+    "commonSections": ["product picks", "how to choose (height, legs, head, clamp)", "FAQ", "accessories (mic, light, remote)"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.amazon.com/best-tripod-content-creators/s?k=best+tripod+for+content+creators", "title": "Best Tripod For Content Creators - Amazon.com" },
+    { "position": 2, "url": "https://www.tiktok.com/@lebaneseangel22/video/7626536520190561549", "title": "The Perfect Tripod for Content Creators: My Top Amazon Find" },
+    { "position": 3, "url": "https://www.reddit.com/r/ContentCreatorWorld/comments/1l57uak/best_tripod_for_a_newbie_content_creator/", "title": "Best tripod for a newbie content creator : r/ContentCreatorWorld" },
+    { "position": 4, "url": "https://momanx.com/blogs/moman-ideas/choose-best-tripods-for-content-creators", "title": "How to choose the best tripods for content creators?" },
+    { "position": 5, "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives", "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |" },
+    { "position": 6, "url": "https://www.instagram.com/popular/tripod-for-content-creators/", "title": "Tripod For Content Creators • 350+ reels on Instagram" },
+    { "position": 7, "url": "https://www.instagram.com/reel/DZ-foYzuVfs/", "title": "Which tripod should you use to create content with your phone? It honestly ..." },
+    { "position": 8, "url": "https://www.bestbuy.com/site/promo/influencer-and-vlogger-tripods", "title": "influencer-and-vlogger-tripods - Best Buy" },
+    { "position": 9, "url": "https://www.sarahrichardssocial.co.uk/general/best-tripod-for-content-creation/", "title": "Best tripod for content creation - Sarah Richards Social" },
+    { "position": 10, "url": "https://www.youtube.com/watch?v=IhWZK6ydWqo", "title": "The Best Phone Tripod for Content Creators? KraftGeek JustTap Review" },
+    { "position": 11, "url": "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos", "title": "THE BEST PHONE CAMERA TRIPODS - A REVIEW FOR FOOD ..." },
+    { "position": 12, "url": "https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/", "title": "Best Tripod for Content Creators in 2026: Top Picks for Video and ..." }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": ["best tripod for content creators", "phone", "my top Amazon find", "for video and photography"],
+    "gap": "No title sorts picks by the shot a creator films (desk, floor, wrap-around, lit talking head); angle: exact keyword + year + '4 Picks by Shot Type'."
+  },
+  "commonPoints": [
+    "A tripod stops shaky footage and frees your hands",
+    "Check height, weight and how small it folds",
+    "A phone clamp or MagSafe mount that switches portrait and landscape",
+    "A Bluetooth remote helps when you film alone",
+    "Room for a mic or light (cold shoe, 1/4-20 thread)",
+    "Flexible GorillaPod-style legs for odd surfaces"
+  ],
+  "ourGain": [
+    { "point": "Picks sorted by shot type (floor, desk, wrap-around, lit talking head) instead of one generic 'best'", "source": "Gap across SERP: Sarah Richards and Michelle Henderson each own several tripods for different shots (https://lifewithmichelle.com/blog/best-content-creator-tripod)" },
+    { "point": "Why single-pole selfie stick tripods wobble, with the fix", "source": "r/videography EUCOS wobble thread (https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/); DPReview MT-44 thread" },
+    { "point": "Overhead unboxing and recipe shots need an arm or a light stand, not a phone tripod", "source": "r/videography overhead threads; Swarmify (https://swarmify.com/blog/iphone-tripod/)" },
+    { "point": "Load limits stated per product (PIXI 1 kg total payload, GorillaPod 3K 6.6 lb, EUCOS 2.2 lb) and what that means for a phone plus mic and light", "source": "https://www.manfrotto.com/us-en/mini-tripod-black-with-universal-smartphone-clamp-mkpixiclamp-bk/ ; https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html" },
+    { "point": "Reuse a camera tripod with a phone clamp on the 1/4-20 thread", "source": "Quora answers (https://www.quora.com/Is-there-any-tripod-stand-or-any-such-arrangement-through-which-a-smartphone-can-be-used-to-make-videos-for-YouTube)" }
+  ],
+  "serpProducts": [
+    { "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)", "pages": ["https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/", "https://swarmify.com/blog/iphone-tripod/", "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone", "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports"], "note": "Ecommerce Paradise names the PIXI Smart (this kit's name on Manfrotto's page); Swarmify names the PIXI + clamp; TechGearLab the PIXI Mini Tripod Kit; DCW's tabletop pick per our earlier brief. Swarmify and TechGearLab rank top 10 for the iPhone/reels variants." },
+    { "name": "JOBY GorillaPod 3K Kit", "pages": ["https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/", "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone", "https://www.instagram.com/popular/tripod-for-content-creators/"], "note": "TechGearLab ranks #9 for 'best tripod for reels'; Instagram page excerpt in the main SERP calls the 3K Kit best overall for most creators." },
+    { "name": "EUCOS 62\" Phone Tripod", "pages": ["https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/", "https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/"], "note": "Ecommerce Paradise top choice; r/youtubers thread ranks top 3 for the parent topic and a poster recommends it." },
+    { "name": "Neewer RL-18 18-inch Ring Light Kit", "pages": ["https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone", "https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/"], "note": "TechGearLab 'Best for Home Studio'; Ecommerce Paradise FAQ names the Neewer Ring Light Kit for indoor creators (its 78 in stand figure does not match the RL-18; we use Neewer's 61 in)." },
+    { "name": "UBeesize Tripod S", "pages": ["https://ecommerceparadise.com/best-tripod-for-content-creators-in-2026-top-picks-for-video-and-photography/", "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"], "note": "Dropped: its Amazon ASIN B07837W5NX now lists a different 'Phone Tripod Pro S', so no confirmed listing of the same model." },
+    { "name": "KraftGeek JustTap", "pages": ["https://www.youtube.com/watch?v=IhWZK6ydWqo"], "note": "Dropped: only a video result and an unnamed KraftGeek model on lifeidesign; no second independent page." },
+    { "name": "Ulanzi MT-44 / MT-85", "pages": ["https://swarmify.com/blog/iphone-tripod/"], "note": "Dropped: one page." }
+  ],
+  "painPoints": [
+    {
+      "id": "phone-tripods-selfie-stick-wobble",
+      "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones",
+      "details": "Creators who buy a single-pole phone tripod find the top shakes when extended, in wind or with a Pro Max phone; replies blame the thin pole and center-column design.",
+      "sources": ["https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/", "https://www.reddit.com/r/AskPhotography/comments/1hmqijt/tripods_is_center_stem_really_something_i_should/", "https://www.dpreview.com/forums/threads/tripod-taller-sirui-ms-01k-premium-ulanzi-mt-44-alternative.4827498/", "https://www.sarahrichardssocial.co.uk/general/best-tripod-for-content-creation/"],
+      "quotes": [
+        { "text": "The design is the problem here. You could make this from any conceivable material and it would still wobble.", "url": "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/" }
+      ]
+    },
+    {
+      "id": "phone-tripods-overhead-unboxing",
+      "pain": "Overhead shots for unboxing, recipes and study vlogs tip or break cheap tripods",
+      "details": "Creators filming top-down product or food clips report tripods breaking or tipping when angled over a desk, and ask r/videography for overhead rigs.",
+      "sources": ["https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/", "https://www.reddit.com/r/videography/comments/1pk1ie6/need_advice_tripod_for_overhead_unboxings_coffee/", "https://www.reddit.com/r/foodphotography/comments/1hzpmya/overhead_phone_mounttripod_suggestions/"],
+      "quotes": [
+        { "text": "What is a good overhead tripod for iPhone? The recent one I bought from amazon broke, budget will be under $100.", "url": "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/" }
+      ]
+    },
+    {
+      "id": "phone-tripods-flexible-legs-sag",
+      "pain": "Bendy flexible tripod legs sag or let go under a heavier rig",
+      "details": "GorillaPod owners on r/canon and r/videography report slow sagging when loaded and, in one case, a camera that fell while under the rated load.",
+      "sources": ["https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/", "https://www.reddit.com/r/videography/comments/jj61q2/camera_destroyed_due_to_joby_gorillapod/"],
+      "quotes": [
+        { "text": "It's also not really that stable and tends to slowly sag when loaded.", "url": "https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/" }
+      ]
+    },
+    {
+      "id": "phone-tripods-reuse-camera-tripod",
+      "pain": "Not sure whether a regular camera tripod can hold a phone",
+      "details": "Quora askers starting YouTube channels want to know if they need a phone tripod; answers point to a phone clamp on the standard 1/4-20 screw.",
+      "sources": ["https://www.quora.com/Is-there-any-tripod-stand-or-any-such-arrangement-through-which-a-smartphone-can-be-used-to-make-videos-for-YouTube", "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel"],
+      "quotes": [
+        { "text": "If you already have a bigger tripod, you can also get a mobile tripod mount", "url": "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel" }
+      ]
+    },
+    {
+      "id": "phone-tripods-solo-remote",
+      "pain": "Filming yourself alone means walking back to the phone for every take",
+      "details": "Beginners on r/photography and r/ContentCreatorWorld who film themselves get the same advice: a tall tripod plus a remote, often sold as a bundle.",
+      "sources": ["https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/", "https://www.reddit.com/r/ContentCreatorWorld/comments/1l57uak/best_tripod_for_a_newbie_content_creator/"],
+      "quotes": [
+        { "text": "Get a phone tripod and remote, often in a bundle.", "url": "https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/" }
+      ]
+    }
+  ],
+  "stats": [
+    { "number": "89%", "claim": "consumers who say video quality impacts their trust in a brand (Wyzowl 2026 survey)", "url": "https://wyzowl.com/video-marketing-statistics/", "quote": "89% say video quality impacts their trust in a brand" },
+    { "number": "91%", "claim": "businesses that use video as a marketing tool (Wyzowl 2026)", "url": "https://wyzowl.com/video-marketing-statistics/", "quote": "91% of businesses use video as a marketing tool" },
+    { "number": "61\"/155cm", "claim": "Neewer RL-18 light stand height", "url": "https://neewer.com/products/led-ring-lights-66600024", "quote": "Light Stand Height: 19\"-61\"/48-155cm" },
+    { "number": "1kg/2.2lbs", "claim": "Manfrotto PIXI clamp kit total payload", "url": "https://www.manfrotto.com/us-en/mini-tripod-black-with-universal-smartphone-clamp-mkpixiclamp-bk/", "quote": "Total equipment payload: maximum 1kg/2.2lbs" },
+    { "number": "6.6 lb", "claim": "JOBY GorillaPod 3K Kit load capacity", "url": "https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html", "quote": "Load Capacity: 6.6 lb · Maximum Height: 12\"", "via": "Firecrawl search excerpt of the B&H page" }
+  ],
+  "videos": [
+    { "id": "z7yo-oNr9I0", "title": "The Ultimate Guide to Filming Yourself for YouTube", "channel": "Katie Steckly", "url": "https://www.youtube.com/watch?v=z7yo-oNr9I0", "section": "How to Choose a Tripod for Content Creation" }
+  ]
+}

@@ -1439,7 +1439,7 @@
     "mergedInto": "best-hiking-tripod"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -1481,7 +1481,8 @@
     "slug": "best-tripod-for-content-creators",
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "productCount": 18
+    "productCount": 18,
+    "publishedAt": "2026-10-23T10:28:50.579Z"
   },
   {
     "status": "pending",

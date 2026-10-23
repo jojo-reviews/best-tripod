@@ -308,7 +308,7 @@ sources:
     url: 'https://www.popsci.com/gear/best-iphone-tripods/'
   - title: 'Manuals+: SENSYNE phone tripod manual'
     url: 'https://manuals.plus/asin/B09TQY66NH.pdf'
-reviewedDate: 2026-10-18
+reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: Do phone tripod remotes work with iPhone and Android?
     a: >-
@@ -348,6 +348,7 @@ heroAlt: >-
   Best Phone Tripod for Vlogging With Remote – 3 Picks + Pairing Tips – Best
   Tripod buying guide
 related:
+  - best-tripod-for-content-creators
   - best-tripod-for-iphone-night-mode-photos
 ---
 
