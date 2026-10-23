@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-tall-photographers-over-6-feet",
   "pass": true,
-  "checkedAt": "2026-10-21T07:01:35.058Z",
+  "checkedAt": "2026-10-23T10:31:17.754Z",
   "errors": [],
   "warnings": [
     "body has 2119 words, over the 2070 limit (top results average 1800): cut repetition and filler",
@@ -10,9 +10,11 @@
     "product \"VICTIV 74 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"CAMBOFOTO 74 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod",
+    "source didn't respond normally (no response): https://victivtripod.com/",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
     "source didn't respond normally (403): https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420",
-    "source didn't respond normally (403): https://www.kentfaith.com/reviews_15740?page=4"
+    "source didn't respond normally (403): https://www.kentfaith.com/reviews_15740?page=4",
+    "source didn't respond normally (403): https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/"
   ],
   "factCheck": {
     "verified": true,
