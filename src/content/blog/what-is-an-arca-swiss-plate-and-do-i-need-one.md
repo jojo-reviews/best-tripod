@@ -348,7 +348,7 @@ The table below compares an Arca-Swiss plate with the two Manfrotto systems we s
 | Manfrotto RC2 | Clicks into a matching receiver | No | No |
 | Manfrotto 200PL | Clicks into a matching receiver | No | No |
 
-So, is Arca-Swiss compatible with Manfrotto? Not directly. Some plates are cut to fit both; the Manfrotto Element MII travel kit, for example, ships with a plate listed as Arca-type and RC2 compatible. A plain RC2 receiver still will not take a standard Arca plate. B&H's Q&A for the QC-55, for example, confirms it does not accept Manfrotto-style plates.
+So, is Arca-Swiss compatible with Manfrotto? Not directly. Some plates are cut to fit both; the Manfrotto Element MII travel kit, for example, ships with a plate listed as Arca-type and RC2 compatible, as does the Befree Advanced kit in our [Peak Design Travel Tripod vs Befree comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/). A plain RC2 receiver still will not take a standard Arca plate. B&H's Q&A for the QC-55, for example, confirms it does not accept Manfrotto-style plates.
 
 ## Types of Arca-Swiss Plates
 

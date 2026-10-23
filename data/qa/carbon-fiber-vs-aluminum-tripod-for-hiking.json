@@ -1,23 +1,18 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:53.865Z",
+  "checkedAt": "2026-10-23T12:36:14.029Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
-    "source didn't respond normally (403): https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:42.598Z",
-    "hash": "a1f376ba4b287e4b"
+    "notes": "added one internal link to peak-design-travel-tripod-vs-manfrotto-befree-advanced, no claim changed",
+    "at": "2026-10-23T12:36:13.475Z",
+    "hash": "8802e9658992b6b8"
   }
 }

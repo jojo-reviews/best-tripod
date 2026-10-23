@@ -420,7 +420,7 @@ The classic ball head complaint is camera droop: you set the frame, lock the kno
 Here are the three tools that close most of the gap:
 
 1. **Friction control knob:** set enough tension that the camera stays where you leave it before you lock, which reduces droop.
-2. **Panning clamp or panning base:** a separate pan lock lets you level once and pan for panoramas without touching the ball.
+2. **Panning clamp or panning base:** a separate pan lock lets you level once and pan for panoramas without touching the ball, the main head difference in our [Peak Design vs Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/).
 3. **Leveling base:** a bowl or base under the head levels the pan axis so stitched frames stay straight.
 
 A practical trick: if your head still droops, aim slightly above the mark and let it settle as you lock.

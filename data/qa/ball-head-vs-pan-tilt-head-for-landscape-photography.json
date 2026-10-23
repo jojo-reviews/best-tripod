@@ -1,10 +1,10 @@
 {
   "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-21T19:54:42.250Z",
+  "checkedAt": "2026-10-23T12:36:15.338Z",
   "errors": [],
   "warnings": [
-    "body has 2752 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "body has 2764 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 496RC2 Compact Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LH-40\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui K-30X Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,7 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-confirmed via web search against retailer/maker listings (Adorama, Galaxus, Camera Warehouse, Sirui K-X page, Castle Cameras, Manfrotto, Glazers, Benro retailers). 496RC2 load conflicts (6 kg older vs higher newer) - stated as conflicting; LH-40 20 kg ok, weight 491-540 g by listing; K-30X 30 kg/44 mm/Arca-style/360 pan ok, 0.5-0.55 kg; MHXPRO-3W 1 kg, 200PL-14, safety payload 8 kg most listings vs 12 kg Manfrotto - stated as conflict; Benro GD3WH 6 kg, magnesium, Arca-type plate, 0.74-0.87 kg. Removed Acratech mention and unsourced camera/lens weight claims.",
-    "at": "2026-10-15T19:56:15.989Z"
+    "notes": "added one internal link to peak-design-travel-tripod-vs-manfrotto-befree-advanced, no claim changed",
+    "at": "2026-10-23T12:36:14.864Z",
+    "hash": "d9ece2e73c0b75ce"
   }
 }

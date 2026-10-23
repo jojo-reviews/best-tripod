@@ -159,7 +159,7 @@ A carbon fiber tripod is lighter for the same stiffness, its fibers bonded in ep
 
 ### Vibration damping and touch temperature
 
-Carbon fiber dissipates vibration faster after a shutter press, which helps a long exposure. It also feels neutral in heat and cold, where aluminum gets cold enough to hurt.
+Carbon fiber dissipates vibration faster after a shutter press, which helps a long exposure; our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) weighs that trade on one travel tripod sold in both materials. It also feels neutral in heat and cold, where aluminum gets cold enough to hurt.
 
 ### Impact: crack vs dent
 
