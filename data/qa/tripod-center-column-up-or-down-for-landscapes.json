@@ -1,7 +1,7 @@
 {
   "slug": "tripod-center-column-up-or-down-for-landscapes",
   "pass": true,
-  "checkedAt": "2026-10-23T12:39:43.034Z",
+  "checkedAt": "2026-10-23T14:29:31.533Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
@@ -9,7 +9,6 @@
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripods-center-column-vs-no-center-column.3991946/",
     "source didn't respond normally (403): https://bcgforums.com/threads/tripod-center-column.43414/",
-    "source didn't respond normally (403): https://www.talkphotography.co.uk/threads/tripod-center-column.748868/",
     "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
   ],
