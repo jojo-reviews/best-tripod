@@ -1,7 +1,7 @@
 {
   "slug": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-24T12:37:53.605Z",
+  "checkedAt": "2026-10-24T12:41:12.794Z",
   "errors": [],
   "warnings": [
     "only 20 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -9,7 +9,13 @@
     "body has 2239 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175940-REG/manfrotto_mk290xta3_2wus_290_xtra_fluid_video.html",
+    "source didn't respond normally (no response): https://www.markertek.com/product/man-mk290xta32wu/manfrotto-mk290xta3-2wus-290-xtra-aluminum-3-section-tripod-kit-tripod-with-fluid-head",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1779104-REG/neewer_66602212_tp74_pro_video_tripod.html",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47255",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47024",
+    "source didn't respond normally (403): https://www.mayfairfarms.com/best-fluid-head-tripods/"
   ],
   "factCheck": {
     "verified": true,
