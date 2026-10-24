@@ -1,9 +1,11 @@
 {
   "slug": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:49.984Z",
+  "checkedAt": "2026-10-24T10:32:14.446Z",
   "errors": [],
   "warnings": [
+    "only 19 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS); Cayer BV30L 72 inch Video Tripod with K3 Fluid Head",
     "body has 2220 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",

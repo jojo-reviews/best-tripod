@@ -1,9 +1,11 @@
 {
   "slug": "ball-head-tripod",
   "pass": true,
-  "checkedAt": "2026-10-22T12:22:46.593Z",
+  "checkedAt": "2026-10-24T10:30:59.814Z",
   "errors": [],
   "warnings": [
+    "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp; Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate",
     "product \"Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",

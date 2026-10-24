@@ -1,13 +1,14 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-22T10:29:09.994Z",
+  "checkedAt": "2026-10-24T10:31:51.057Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: 0 FAQs (need 3-8)",
     "LIVE POST, FIX: 0 sources (need at least 2)",
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
-    "1 first-person singular words (I, my, me): the byline is the editorial team, write \"we/our/us\"",
+    "only 32 first-person words; owner rule wants at least 62 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Carbon Fiber); Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH); Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH); Benro Rhino Carbon Fiber Zero Series Travel Tripod with VX20 Head (FRHN05CVX20); Benro Slim Aluminum Travel Tripod Kit (FSL09AN00); Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head; Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
     "body has 6303 words, over the 3105 limit (top results average 2700): cut repetition and filler",
     "a sentence repeats an earlier one almost word for word: \"For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb\"",
     "features 8 products; the plan for this post was 15",

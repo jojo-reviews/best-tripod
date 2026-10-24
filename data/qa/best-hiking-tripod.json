@@ -1,9 +1,11 @@
 {
   "slug": "best-hiking-tripod",
   "pass": true,
-  "checkedAt": "2026-10-22T14:41:24.138Z",
+  "checkedAt": "2026-10-24T10:31:24.162Z",
   "errors": [],
   "warnings": [
+    "only 27 first-person words; owner rule wants at least 30 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo Traveler Series 1 GT1545T; JOBY GorillaPod 5K Kit; Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Traveler Series 1 GT1545T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",

@@ -1,9 +1,11 @@
 {
   "slug": "tripod-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-10-21T19:56:18.487Z",
+  "checkedAt": "2026-10-24T10:32:44.083Z",
   "errors": [],
   "warnings": [
+    "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Leofoto LS-284C Ranger",
     "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1842903-REG/leofoto_ls_284cx_carbon_fiber_tripod.html",
     "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",

@@ -1,9 +1,11 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-21T19:50:45.820Z",
+  "checkedAt": "2026-10-24T10:32:30.602Z",
   "errors": [],
   "warnings": [
+    "only 23 first-person words; owner rule wants at least 31 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head); Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head; Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3); Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod",
     "body has 3081 words, over the 2300 limit (top results average 2000): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",

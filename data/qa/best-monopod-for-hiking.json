@@ -1,9 +1,11 @@
 {
   "slug": "best-monopod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:10.072Z",
+  "checkedAt": "2026-10-24T10:31:44.803Z",
   "errors": [],
   "warnings": [
+    "only 10 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SIRUI P-326 Carbon Fiber Monopod; Mountainsmith Trekker FX Lite Trekking Pole",
     "product \"SIRUI P-326 Carbon Fiber Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Mountainsmith Trekker FX Lite Trekking Pole\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/822252-REG/Sirui_BSRP326_P_326_6_Section_Carbon_Fiber.html/specs",

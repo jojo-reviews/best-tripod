@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-that-fits-in-carry-on-luggage",
   "pass": true,
-  "checkedAt": "2026-10-23T12:39:11.808Z",
+  "checkedAt": "2026-10-24T10:32:12.244Z",
   "errors": [],
   "warnings": [
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SIRUI Traveler 5C Carbon Fiber Tripod; Peak Design Travel Tripod (Carbon Fiber); Manfrotto PIXI EVO 2-Section Mini Tripod",
     "body has 2661 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",

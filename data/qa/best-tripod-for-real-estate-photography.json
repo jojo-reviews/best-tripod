@@ -1,9 +1,11 @@
 {
   "slug": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-10-21T19:55:38.497Z",
+  "checkedAt": "2026-10-24T10:32:04.446Z",
   "errors": [],
   "warnings": [
+    "only 24 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Tripod Kit with 3-Way Head; Benro Mach3 TMA38CL; Manfrotto MT190XPRO4; GEEKOTO 75 inch Camera Tripod; Manfrotto 410 Junior Geared Head; Manfrotto 405 Geared Head; JOBY GorillaPod 5K Kit",
     "body has 2618 words, over the 1782 limit (top results average 1550): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",

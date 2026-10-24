@@ -1,9 +1,11 @@
 {
   "slug": "monopod-vs-tripod-for-sports-photography",
   "pass": true,
-  "checkedAt": "2026-10-21T19:56:07.306Z",
+  "checkedAt": "2026-10-24T10:32:31.821Z",
   "errors": [],
   "warnings": [
+    "only 18 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): iFootage Cobra 3 C180F-P; Vanguard VEO 2S CM-264TR",
     "body has 1838 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"iFootage Cobra 3 C180F-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S CM-264TR\" has no Amazon photo yet (the Amazon refresh adds it after push)",

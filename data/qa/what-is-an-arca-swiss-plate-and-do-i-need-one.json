@@ -1,9 +1,11 @@
 {
   "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-10-23T12:39:51.963Z",
+  "checkedAt": "2026-10-24T10:32:51.817Z",
   "errors": [],
   "warnings": [
+    "only 17 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SmallRig Quick Release Plate for Arca Swiss 2146B; NEEWER QPR-5C 2 Pack Quick Release Plate; SIRUI QC-55 Quick Release Plate and Clamp",
     "body has 2389 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
