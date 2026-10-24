@@ -1,24 +1,17 @@
 {
   "slug": "tripod-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:44.083Z",
+  "checkedAt": "2026-10-24T12:37:56.356Z",
   "errors": [],
   "warnings": [
-    "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 15 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Leofoto LS-284C Ranger",
-    "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1842903-REG/leofoto_ls_284cx_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1534140/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/tripods.42515/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+    "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:47.898Z",
-    "hash": "3d16f712c6967764"
+    "notes": "2026-10-24: added one internal link to best-tripod-for-tall-photographers-over-6-feet, no claim changed",
+    "at": "2026-10-24T12:37:55.603Z",
+    "hash": "568af8bfb9472e28"
   }
 }

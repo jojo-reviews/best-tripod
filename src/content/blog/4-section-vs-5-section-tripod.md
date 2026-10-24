@@ -162,7 +162,7 @@ Both Gitzo versions carry the same 10 kg rating, so the load capacity hides the 
 
 **Extra leg sections usually buy a shorter fold, not a taller tripod.** The Pictureline guide says "the more sections, the taller the tripod at maximum height." The maker data says otherwise: the 5-section Gitzo stops at [121 cm with the column down](https://www.gitzo.com/global/tripod-traveler-series-1-5-sections-gt1555t/), 9 cm lower than the 4-section's [130 cm](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/). A DPReview owner of a 5-section Sirui put it plainly: section count doesn't set the height. "But it does affect how long/short when folded."
 
-Column-down height is your real working height. At 121 cm plus a head, the viewfinder sits well below standing eye level for most adults. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) works it out step by step.
+Column-down height is your real working height. At 121 cm plus a head, the viewfinder sits well below standing eye level for most adults. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) works it out step by step, and our [tall tripod comparison](/blog/best-tripod-for-tall-photographers-over-6-feet/) lists column-down heights for shooters over 6 feet.
 
 ### Extra section vs center column
 

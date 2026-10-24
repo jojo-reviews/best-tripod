@@ -267,7 +267,7 @@ On a tripod for long lenses, carbon fiber is lighter and damps vibration faster,
 
 ### Working height without the center column
 
-The center column is a single thin post, so raising it trades rigidity for height that a long lens magnifies. Measure legs-only height plus head and camera against your eye level. The sources disagree by a few inches: Leofoto's kit page lists 1,270 mm (about 50 in) without head and column, Lonely Speck measured 50 in (127 cm) with the LH-30 on, and a Fred Miranda owner quoted 47.2 in from an older maker figure. Call it 47-50 in, 60 in with the column. Our [tripod height chart for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) shows how far below eye level that leaves you.
+The center column is a single thin post, so raising it trades rigidity for height that a long lens magnifies. Measure legs-only height plus head and camera against your eye level. The sources disagree by a few inches: Leofoto's kit page lists 1,270 mm (about 50 in) without head and column, Lonely Speck measured 50 in (127 cm) with the LH-30 on, and a Fred Miranda owner quoted 47.2 in from an older maker figure. Call it 47-50 in, 60 in with the column. Our [tripod height chart for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) shows how far below eye level that leaves you, and if you are over 6 feet, see our [tall tripods for photographers](/blog/best-tripod-for-tall-photographers-over-6-feet/).
 
 ### Going low for ground-level subjects
 

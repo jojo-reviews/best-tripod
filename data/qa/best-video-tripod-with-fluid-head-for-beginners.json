@@ -1,24 +1,20 @@
 {
   "slug": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:14.446Z",
+  "checkedAt": "2026-10-24T12:37:53.605Z",
   "errors": [],
   "warnings": [
-    "only 19 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 20 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS); Cayer BV30L 72 inch Video Tripod with K3 Fluid Head",
-    "body has 2220 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "body has 2239 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175940-REG/manfrotto_mk290xta3_2wus_290_xtra_fluid_video.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1779104-REG/neewer_66602212_tp74_pro_video_tripod.html",
-    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47255",
-    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47024",
-    "source didn't respond normally (403): https://www.mayfairfarms.com/best-fluid-head-tripods/"
+    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified via search results (manufacturer/B&H/Neewer/retailer pages not directly fetchable, proxy blocked): Manfrotto 66.73 in, 57.48 in (146 cm) column down, 69.5 cm closed, 5.64 lb, 6 kg payload vs 4 kg elsewhere; Neewer TP74 17.6 lb, 36 in, 75mm bowl, -75/-70 tilt conflict, 8.8 lb; Cayer BV30L 72.5/33.4 in, 13.2 lb (17.6 one listing), 8.8 lb, K3 -70/+90, 75mm, two plates and bag. Cayer 35 in folded length unconfirmed (hedged). Softened Arca-Swiss, carry-on, YouTuber, upgrade-brand and weight claims.",
-    "at": "2026-10-17T12:19:27.051Z"
+    "notes": "2026-10-24: added one internal link to best-tripod-for-tall-photographers-over-6-feet, no claim changed",
+    "at": "2026-10-24T12:37:52.486Z",
+    "hash": "0d03a59b6bd9199c"
   }
 }
