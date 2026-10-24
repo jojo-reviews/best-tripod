@@ -1,0 +1,20 @@
+{
+  "slug": "best-tripod-for-hunting",
+  "pass": true,
+  "checkedAt": "2026-10-24T10:29:10.425Z",
+  "errors": [],
+  "warnings": [
+    "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Radian Carbon Tripod Ball Head Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Ridgeview Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Quest T62U Shooting Stick\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-24 against maker pages: Primos Gen3 Tall Tripod 24-62 in, approx 3.5 lb, QD yoke with integrated lock, leg angle lock (primos.com); Vortex Summit Carbon II 2.5 lb, 22 lb, 6.3-53.3 in, 18.1 in folded, 4 sections, quarter-turn, Arca, counterweight hook, uses lightweight hunting/seated glassing (vortexoptics.com product page + blog); BOG DeathGrip aluminum 7-59 in, 8.5 lb, lever locks, foam grips, 360 pan, 25 deg cant, owner review 53 1/8 in to the shelf (boghunt.com); Vortex Radian Carbon ball head kit 7.3 lb, 55 lb, 8.3-67.3 in, 28.0 in folded, 4 twist sections, spiked feet, Arca, pan/tension, 90 deg notches (vortexoptics.com); Ridgeview Carbon 3.2 lb, 22 lb, 8.3-73.8 in, 29.0 in folded, 3 sections (vortexoptics.com); Vanguard Quest T62U 27-62 in, 27.5 in folded, 2.2 lb, aluminum, flip locks, 360 U yoke, 1/4-20 (vanguardworld.com). Ratios recomputed from these specs. Five MOA wobble from Recoil Rifle Ready guide (Gen2). ASINs B08FF4R4M2, B08SC6FGTF, B0H72BFRPV, B08SBWFJRR, B08SBVMS8W, B006LZNOKG matched to exact model listing titles via Firecrawl search. Reddit quotes verified verbatim with exact-phrase site:reddit.com searches at the cited threads; flip-lock quote from existing verified pain point. Owner praise/complaints from the cited Reddit, Rokslide, Sniper's Hide, Hunt Talk, BOG and Vortex review pages. No prices, ratings or testing claims.",
+    "at": "2026-10-24T10:29:09.752Z",
+    "hash": "3e881687270a4668"
+  }
+}

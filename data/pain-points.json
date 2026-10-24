@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T10:30:00.000Z",
+  "updatedAt": "2026-10-24T10:30:00.000Z",
   "categories": {
     "camera-tripods": [
       {
@@ -529,10 +529,12 @@
           "quiet tripod for wildlife"
         ],
         "keywords": [
-          "twist lock vs flip lock tripod legs"
+          "twist lock vs flip lock tripod legs",
+          "best tripod for hunting"
         ],
         "coveredBy": [
-          "twist-lock-vs-flip-lock-tripod-legs"
+          "twist-lock-vs-flip-lock-tripod-legs",
+          "best-tripod-for-hunting"
         ],
         "foundAt": "2026-10-20"
       },
@@ -974,6 +976,160 @@
           "best-tripod-for-spotting-scope"
         ],
         "foundAt": "2026-10-21"
+      },
+      {
+        "id": "camera-tripods-hunting-tripod-wobble-standing",
+        "pain": "A shooting tripod or shooting sticks wobble at full height for a standing shot",
+        "details": "Hunters who extend sticks or a light tripod to standing height see the crosshair move and try to time the wobble.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/longrange/comments/1sj3b5p/tripod_shooting_is_hard/",
+            "platform": "reddit",
+            "title": "Tripod shooting is hard (r/longrange)",
+            "seen": "2026-10-24"
+          },
+          {
+            "url": "https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/",
+            "platform": "reddit",
+            "title": "What's the furthest distance you would attempt a shot with a rifle? (r/Hunting)",
+            "seen": "2026-10-24"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Gotta embrace the wobble and just pull through your shot as the tripod isn't as stable as other positions.",
+            "url": "https://www.reddit.com/r/longrange/comments/1sj3b5p/tripod_shooting_is_hard/"
+          },
+          {
+            "text": "Trying to time the wobble doesn't pan out more often than it does",
+            "url": "https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/"
+          }
+        ],
+        "searches": [
+          "shooting tripod wobble standing",
+          "trigger stick wobble"
+        ],
+        "keywords": [
+          "best tripod for hunting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-hunting"
+        ],
+        "foundAt": "2026-10-24"
+      },
+      {
+        "id": "camera-tripods-rifle-wiggles-in-saddle",
+        "pain": "The rifle wiggles in the clamp, cradle or saddle on top of the tripod",
+        "details": "New tripod owners find play between stock and cradle; long-range shooters say a saddle bolted straight to the tripod cannot pan or tilt and is less stable than a ball head with an Arca clamp.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/",
+            "platform": "reddit",
+            "title": "Just got a Bog Deathgrip tripod (r/Hunting)",
+            "seen": "2026-10-24"
+          },
+          {
+            "url": "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/",
+            "platform": "reddit",
+            "title": "Tripod Setup - Need Help (r/longrange)",
+            "seen": "2026-10-24"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I've got a good bit of wiggle on the rifle in the cradle",
+            "url": "https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/"
+          },
+          {
+            "text": "A saddle directly to the tripod doesn't have the ability to pan and tilt, not as stable.",
+            "url": "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/"
+          }
+        ],
+        "searches": [
+          "rifle loose in tripod clamp",
+          "saddle vs arca tripod"
+        ],
+        "keywords": [
+          "best tripod for hunting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-hunting"
+        ],
+        "foundAt": "2026-10-24"
+      },
+      {
+        "id": "camera-tripods-hunting-tripod-height-short",
+        "pain": "The tripod does not reach the advertised height at the rifle rest",
+        "details": "Tall hunters buy by the listed max height and find the rest sits several inches lower.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.boghunt.com/deathgrip/deathgrip-tripod/1099442.html",
+            "platform": "retailer-reviews",
+            "title": "BOG DeathGrip Tripod owner reviews",
+            "seen": "2026-10-24"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I cant get mine any taller than 53 1/8\" to the shelf.",
+            "url": "https://www.boghunt.com/deathgrip/deathgrip-tripod/1099442.html"
+          }
+        ],
+        "searches": [
+          "hunting tripod too short standing",
+          "bog deathgrip height"
+        ],
+        "keywords": [
+          "best tripod for hunting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-hunting"
+        ],
+        "foundAt": "2026-10-24"
+      },
+      {
+        "id": "camera-tripods-glassing-tripod-not-rated-for-rifle",
+        "pain": "A glassing tripod is not built to shoot a rifle off",
+        "details": "Western hunters want one tripod for optics and rifle; others warn optics tripods are not rated for the weight and recoil and that shooting tripods are heavier.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/",
+            "platform": "reddit",
+            "title": "Tripod general question for Western big game (r/Hunting)",
+            "seen": "2026-10-24"
+          },
+          {
+            "url": "https://www.reddit.com/r/BackcountryHunting/comments/14g5tk9/glassing_tripod_vs_shooting/",
+            "platform": "reddit",
+            "title": "Glassing tripod vs shooting (r/BackcountryHunting)",
+            "seen": "2026-10-24"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Most optics tripods arent rated for the weight & recoil",
+            "url": "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+          },
+          {
+            "text": "A shooting tripod tends to be noticeably heavier and more stable as you're putting your weight into it during usage.",
+            "url": "https://www.reddit.com/r/BackcountryHunting/comments/14g5tk9/glassing_tripod_vs_shooting/"
+          }
+        ],
+        "searches": [
+          "can you shoot off a glassing tripod",
+          "one tripod for glassing and shooting"
+        ],
+        "keywords": [
+          "best tripod for hunting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-hunting"
+        ],
+        "foundAt": "2026-10-24"
       }
     ],
     "monopods": [

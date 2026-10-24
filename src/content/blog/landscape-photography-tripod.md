@@ -510,6 +510,7 @@ heroAlt: >-
   Landscape Photography Tripod (2026) – 5 Picks for Low Angles and Wind – Best
   Tripod buying guide
 related:
+  - best-tripod-for-hunting
   - tripod-for-wildlife-photography
 ---
 
