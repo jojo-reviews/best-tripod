@@ -1,0 +1,17 @@
+{
+  "slug": "best-tripod-for-youtube-videos",
+  "pass": true,
+  "checkedAt": "2026-10-25T10:29:17.292Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker/retailer pages opened 2026-10-25: Befree 3-Way Live Advanced MKBFRLA4BK-3WUS (Manfrotto spec table: 59.45 in max, 51.97 in column down, 16.54 in min, 15.75 in closed, 4.41 lb, 13.23 lb safety payload, 4 sections flip lock, fixed fluid drag pan/tilt, 200PL PRO Arca/501PL); Befree GT XPRO MKBFRA4GTXP-BUS (Manfrotto: 64.57/55.91/3.54 in, 16.93 in closed, 4.41 lb, 26.46 lb, twist lock, 4 sections, 22/54/89 deg, 496 head, pan/tilt drag NONE, 90-deg column, Arca-type plate); VEO 3GO 235CB (Vanguard catalog PDF + Henry's: 53.5 in, 41.7 in column down, 12.9 in folded, 2.3 lb, 5 sections; ePHOTOzine/TechGearLab: 4 kg / 8.8 lb, twist locks, T-50 Arca head, Bluetooth remote, phone holder 87 mm). Amazon listing titles checked for exact model: B08F9JRDSY, B07SYBYQWK, B0831RXR9P. Seated eye height 42.6-52.6 in from BIFMA table in Allsteel guide (OSU PDF). Owner praise/complaints from World of Waterfalls, I Hit The Button, Zoner, CNET (archive), ePHOTOzine, TechGearLab review. Reddit quotes matched verbatim in firecrawl_search excerpts at the same thread URLs. Number links opened: Manfrotto 13.23 lb, Manfrotto 12 kg/26.46 lb, OSU 42.6-52.6 in. Videos j5mEyleZWns (Dave Taylor, Befree 3-Way Live demo) and zbZHbnwmQBI (Doug Jensen, tripod drag and balance) checked on YouTube.",
+    "at": "2026-10-25T10:29:16.772Z",
+    "hash": "ccf54cd196d81c72"
+  }
+}

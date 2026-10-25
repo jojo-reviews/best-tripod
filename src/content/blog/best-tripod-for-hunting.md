@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-youtube-videos
   - best-tripod-for-spotting-scope
   - how-tall-should-a-tripod-be-for-my-height
   - twist-lock-vs-flip-lock-tripod-legs
-  - what-is-an-arca-swiss-plate-and-do-i-need-one
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

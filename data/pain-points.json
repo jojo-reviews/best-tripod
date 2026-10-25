@@ -2615,6 +2615,148 @@
           "video-tripod-bowl-size-explained-75mm-vs-100mm"
         ],
         "foundAt": "2026-10-21"
+      },
+      {
+        "id": "video-tripods-youtube-jittery-pans",
+        "pain": "Pans look jittery even on a fluid head",
+        "details": "Creators panning on small fluid heads see micro-jitters; owners suggest a rubber band on the pan handle and leveling the pan axis first.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/16xb4ms/when_using_a_fluid_head_tripod_how_do_you/",
+            "platform": "reddit",
+            "title": "when using a fluid head tripod how do you",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/",
+            "platform": "reddit",
+            "title": "good fluid head tripod that wont break the bank",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1lhw6ou/1_tripod_trick_for_smooth_pan_and_tilt_the_pros/",
+            "platform": "reddit",
+            "title": "1 tripod trick for smooth pan and tilt the pros",
+            "seen": "2026-10-25"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Put a large rubber band between your hand and the pan handle. It will function as a shock absorber and smooth out the motion.",
+            "url": "https://www.reddit.com/r/videography/comments/16xb4ms/when_using_a_fluid_head_tripod_how_do_you/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "For video, you really want the pan axis of your head be level with the ground.",
+            "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "fluid head micro jitters pan",
+          "smooth pan tripod youtube"
+        ],
+        "keywords": [
+          "best tripod for youtube videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-youtube-videos"
+        ],
+        "foundAt": "2026-10-25"
+      },
+      {
+        "id": "video-tripods-youtube-overhead-tipping",
+        "pain": "Overhead desk shots need height, and a tripod perched on a table tips",
+        "details": "YouTubers filming unboxing, art or cooking from above stand a fully extended tripod on the table to get height and end up with legs at the edge; owners put the weight over one leg.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/",
+            "platform": "reddit",
+            "title": "what would you use to mount a camera for overhead",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/",
+            "platform": "reddit",
+            "title": "what do you use to record your top down videos",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/youtubers/comments/11z6mgd/best_setup_for_overhead_shots/",
+            "platform": "reddit",
+            "title": "best setup for overhead shots",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/17fe9wj/help_with_overhead_camera_mount_rig/",
+            "platform": "reddit",
+            "title": "help with overhead camera mount rig",
+            "seen": "2026-10-25"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I recently had my camera on a fully extended tripod on top of a table (to get extra height) and the legs were right at the edge of the table.",
+            "url": "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "Align the boom arm over a tripod leg, and put the weight on that leg.",
+            "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "overhead shot tripod on table",
+          "top down video tripod youtube"
+        ],
+        "keywords": [
+          "best tripod for youtube videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-youtube-videos"
+        ],
+        "foundAt": "2026-10-25"
+      },
+      {
+        "id": "video-tripods-youtube-talking-head-overspend",
+        "pain": "New YouTubers overspend on the tripod for a static talking head",
+        "details": "For a locked-off talking head, owners say a modest tripod is enough and audio matters more.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Cameras/comments/1rinf5z/i_ordered_this_kit_to_start_making_talking_head/",
+            "platform": "reddit",
+            "title": "i ordered this kit to start making talking head",
+            "seen": "2026-10-25"
+          },
+          {
+            "url": "https://www.reddit.com/r/NewTubers/comments/1r8p4r8/easy_to_use_camera_for_talking_head_videos/",
+            "platform": "reddit",
+            "title": "easy to use camera for talking head videos",
+            "seen": "2026-10-25"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Audio is 100% most important thing in talking head.",
+            "url": "https://www.reddit.com/r/Cameras/comments/1rinf5z/i_ordered_this_kit_to_start_making_talking_head/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "tripod for talking head youtube",
+          "cheap tripod talking head"
+        ],
+        "keywords": [
+          "best tripod for youtube videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-youtube-videos"
+        ],
+        "foundAt": "2026-10-25"
       }
     ],
     "tabletop-mini-tripods": [
