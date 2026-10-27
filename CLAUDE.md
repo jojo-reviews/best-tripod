@@ -17,6 +17,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 ## Owner rules not covered by an agent file (kept here)
 
 - Talk to the owner in Roman Urdu. Agent prompts and files stay in English.
+- Owner rule 2026-10-27: keep answers to the owner short and to the point (a few lines, bullets, no long explanations).
 - LIGHT MODE (2026-10-22, Claude usage limit): exactly 1 new English post per day per site, one agent per post;
   translations, trim backlog, pre-research and backfills are paused until the owner says otherwise.
 - Deploy a post only after its pubDate. Go-live: first `node scripts/apply-inlinks.mjs <slug>` (patent rule 2026-10-24: 2 in-body links
