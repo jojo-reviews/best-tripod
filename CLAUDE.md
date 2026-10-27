@@ -43,7 +43,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
   and Site Agent Flow https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ.
 - best-tripod.com: keyword queue was replaced by the owner's list on 2026-10-22 (no cannibalization with live posts); never add reviewedBy.
 
-- Repos (2026-10-27, old rankandrent account suspended): jojo-reviews/rentersmarthome (branch main), jojo-reviews/best-tripod (main), best-safe repo to come. This site is deployed by launch-site.yml in jojo-reviews/rentersmarthome.
+- Repos (2026-10-27, old rankandrent account suspended): jojo-reviews/rentersmarthome (branch main), jojo-reviews/best-tripod (main), jojo-reviews/Best-Safe (main). This site is deployed by launch-site.yml in jojo-reviews/rentersmarthome.
 
 ## GitHub safety (owner rule 2026-10-27, after the old GitHub account was suspended)
 
