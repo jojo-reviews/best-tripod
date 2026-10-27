@@ -14,7 +14,7 @@ on:
     paths:
       - 'src/content/blog/**'
   schedule:
-    - cron: '23 10 * * *'
+    - cron: '23 10 * * 1'  # owner rule 2026-10-27: weekly, not daily
 
 permissions:
   contents: write

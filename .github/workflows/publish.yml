@@ -4,8 +4,7 @@ name: Agentic publisher
 # the ramp schedule in site.config.json (1 → 2 → 3 → 5 → 6 → 7 posts/day, then
 # random 0–6). Most runs exit in seconds without calling any API.
 on:
-  schedule:
-    - cron: '23 * * * *'
+  # Owner rule 2026-10-27 (low GitHub activity): no hourly schedule; posts are written by the Claude session, run by hand only.
   workflow_dispatch:
     inputs:
       force:

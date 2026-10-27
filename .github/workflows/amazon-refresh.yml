@@ -3,8 +3,7 @@ name: Amazon product refresh
 # Daily: refresh product images/ASINs from the Amazon Creators API.
 # Amazon requires product content shown on the site to be refreshed every 24 hours.
 on:
-  schedule:
-    - cron: '41 9 * * *'
+  # Owner rule 2026-10-27: no schedule here (no Amazon secrets in this repo, it only failed); launch-site.yml in rentersmarthome.us refreshes this site.
   workflow_dispatch:
   # New posts get their ASINs and product photos right after they are pushed.
   push:

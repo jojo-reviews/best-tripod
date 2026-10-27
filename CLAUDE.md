@@ -42,3 +42,17 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 - Dashboards are light-themed: Search Performance https://claude.ai/artifact/LgNhY4KAh6FfnSxKs7AfpF (daily refresh)
   and Site Agent Flow https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ.
 - best-tripod.com: keyword queue was replaced by the owner's list on 2026-10-22 (no cannibalization with live posts); never add reviewedBy.
+
+## GitHub safety (owner rule 2026-10-27, after the old GitHub account was suspended)
+
+Keep GitHub activity low and human-like so the account is never flagged again:
+- Scheduled workflows: at most ~6 runs per day across all three repos (rentersmarthome.us: gsc-snapshot,
+  amazon-refresh, ai-images daily; scheduled-release once a day in each repo; unsplash weekly). Never add an
+  hourly or every-few-hours cron. publish.yml runs by hand only.
+- Commits: batch the day's work. One commit per post (post + its data files) and one per improvement; no
+  separate commits for small data files; at most ~10 commits per repo per day. Bot data commits use [skip ci].
+- Manual workflow runs (deploy, launch-site, google-indexing): only when needed, at most ~6 per day in total;
+  never re-run a failing workflow in a loop. If a workflow fails twice in a row, stop and fix or disable it.
+- A workflow that keeps failing (e.g. a missing secret) gets its schedule removed until it is fixed.
+- No new repos, gists, forks, mass issues/PRs or automated comments. Never push to repos that aren't ours.
+- Keep a fresh `git bundle` backup of each repo in rentersmarthome.us/backups/ (not committed) after big changes.
