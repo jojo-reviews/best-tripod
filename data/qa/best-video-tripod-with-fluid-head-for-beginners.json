@@ -1,25 +1,21 @@
 {
   "slug": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-10-24T13:37:31.987Z",
+  "checkedAt": "2026-10-27T13:40:17.846Z",
   "errors": [],
   "warnings": [
-    "only 20 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 21 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS); Cayer BV30L 72 inch Video Tripod with K3 Fluid Head",
-    "body has 2239 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
+    "body has 2248 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175940-REG/manfrotto_mk290xta3_2wus_290_xtra_fluid_video.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1779104-REG/neewer_66602212_tp74_pro_video_tripod.html",
-    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47255",
-    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/?p=47024",
-    "source didn't respond normally (403): https://www.mayfairfarms.com/best-fluid-head-tripods/"
+    "product \"Cayer BV30L 72 inch Video Tripod with K3 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-24: added one internal link to best-tripod-for-tall-photographers-over-6-feet, no claim changed",
-    "at": "2026-10-24T12:37:52.486Z",
-    "hash": "0d03a59b6bd9199c"
+    "notes": "added one internal link to best-tripod-for-youtube-videos, no claim changed",
+    "at": "2026-10-27T13:40:17.287Z",
+    "hash": "ef8e9f55eea1e530"
   }
 }

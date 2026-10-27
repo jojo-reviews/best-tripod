@@ -8,22 +8,86 @@
     "video tripod for creators"
   ],
   "entities": [
-    { "name": "Manfrotto Befree 3-Way Live Advanced", "type": "product", "relation": "travel tripod kit with a 3-way fluid head for smooth pans" },
-    { "name": "Manfrotto Befree GT XPRO", "type": "product", "relation": "travel tripod with a 90-degree center column for overhead desk shots" },
-    { "name": "Vanguard VEO 3 GO 235CB", "type": "product", "relation": "compact carbon tripod with Bluetooth remote for talking-head and vlog setups" },
-    { "name": "fluid head", "type": "tripod head", "relation": "damped pan and tilt for smooth video moves" },
-    { "name": "ball head", "type": "tripod head", "relation": "fast framing for locked-off shots, no pan drag" },
-    { "name": "90-degree center column", "type": "feature", "relation": "turns the column horizontal for overhead and flat-lay video" },
-    { "name": "center column", "type": "tripod part", "relation": "adds height but adds shake when raised" },
-    { "name": "Arca-Swiss plate", "type": "standard", "relation": "quick-release plate shared by all three picks" },
-    { "name": "talking-head video", "type": "use case", "relation": "static seated or standing shot at eye level" },
-    { "name": "overhead shot", "type": "use case", "relation": "top-down desk, cooking, unboxing or art video" },
-    { "name": "mirrorless camera", "type": "camera", "relation": "the camera most YouTube creators put on these tripods" },
-    { "name": "DSLR", "type": "camera", "relation": "heavier camera that needs more payload headroom" },
-    { "name": "payload", "type": "spec", "relation": "rated load the tripod and head can hold" },
-    { "name": "Bluetooth remote", "type": "accessory", "relation": "starts recording when you film yourself" },
-    { "name": "counterweight", "type": "technique", "relation": "keeps an overhead tripod from tipping" },
-    { "name": "seated eye height", "type": "measurement", "relation": "where the lens should sit for a seated talking head" }
+    {
+      "name": "Manfrotto Befree 3-Way Live Advanced",
+      "type": "product",
+      "relation": "travel tripod kit with a 3-way fluid head for smooth pans"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO",
+      "type": "product",
+      "relation": "travel tripod with a 90-degree center column for overhead desk shots"
+    },
+    {
+      "name": "Vanguard VEO 3 GO 235CB",
+      "type": "product",
+      "relation": "compact carbon tripod with Bluetooth remote for talking-head and vlog setups"
+    },
+    {
+      "name": "fluid head",
+      "type": "tripod head",
+      "relation": "damped pan and tilt for smooth video moves"
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "fast framing for locked-off shots, no pan drag"
+    },
+    {
+      "name": "90-degree center column",
+      "type": "feature",
+      "relation": "turns the column horizontal for overhead and flat-lay video"
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "adds height but adds shake when raised"
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "standard",
+      "relation": "quick-release plate shared by all three picks"
+    },
+    {
+      "name": "talking-head video",
+      "type": "use case",
+      "relation": "static seated or standing shot at eye level"
+    },
+    {
+      "name": "overhead shot",
+      "type": "use case",
+      "relation": "top-down desk, cooking, unboxing or art video"
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera",
+      "relation": "the camera most YouTube creators put on these tripods"
+    },
+    {
+      "name": "DSLR",
+      "type": "camera",
+      "relation": "heavier camera that needs more payload headroom"
+    },
+    {
+      "name": "payload",
+      "type": "spec",
+      "relation": "rated load the tripod and head can hold"
+    },
+    {
+      "name": "Bluetooth remote",
+      "type": "accessory",
+      "relation": "starts recording when you film yourself"
+    },
+    {
+      "name": "counterweight",
+      "type": "technique",
+      "relation": "keeps an overhead tripod from tipping"
+    },
+    {
+      "name": "seated eye height",
+      "type": "measurement",
+      "relation": "where the lens should sit for a seated talking head"
+    }
   ],
   "attributes": [
     "max height with and without center column",
@@ -63,10 +127,33 @@
     "payload…camera"
   ],
   "nlpTerms": [
-    "tripod", "YouTube", "camera", "mirrorless", "DSLR", "fluid head", "ball head", "pan", "tilt", "drag",
-    "overhead", "talking head", "vlogging", "center column", "payload", "height", "folded length",
-    "leg locks", "twist lock", "flip lock", "Arca-Swiss", "quick release plate", "remote", "stability",
-    "counterweight", "eye level", "creator"
+    "tripod",
+    "YouTube",
+    "camera",
+    "mirrorless",
+    "DSLR",
+    "fluid head",
+    "ball head",
+    "pan",
+    "tilt",
+    "drag",
+    "overhead",
+    "talking head",
+    "vlogging",
+    "center column",
+    "payload",
+    "height",
+    "folded length",
+    "leg locks",
+    "twist lock",
+    "flip lock",
+    "Arca-Swiss",
+    "quick release plate",
+    "remote",
+    "stability",
+    "counterweight",
+    "eye level",
+    "creator"
   ],
   "questions": [
     "Which tripod is best for making YouTube videos?",
@@ -84,13 +171,49 @@
     "One Arca-Swiss plate across all three picks"
   ],
   "outline": [
-    { "h2": "Best Tripod for YouTube Videos – Quick Picks", "intent": "short answer and top picks", "h3": [] },
-    { "h2": "YouTube Tripod Comparison – Height, Payload and Head", "intent": "spec comparison and seated/standing eye-height math", "h3": [] },
-    { "h2": "How I Picked These Camera Tripods for YouTube", "intent": "method and From our notes", "h3": [] },
-    { "h2": "The 3 Best Tripods for YouTube Videos, Reviewed", "intent": "product reviews", "h3": ["Manfrotto Befree 3-Way Live Advanced", "Manfrotto Befree GT XPRO", "Vanguard VEO 3 GO 235CB"] },
-    { "h2": "Which YouTube Tripod Should You Get?", "intent": "decision rule by shot type", "h3": [] },
-    { "h2": "Problems YouTubers Run Into, and the Fix", "intent": "pain points: jittery pans, overhead tipping, overspending on the tripod", "h3": ["Jittery pans", "Overhead tripod tipping", "Spending on the wrong part of the kit"] },
-    { "h2": "Final Verdict", "intent": "close and next-question links", "h3": [] }
+    {
+      "h2": "Best Tripod for YouTube Videos – Quick Picks",
+      "intent": "short answer and top picks",
+      "h3": []
+    },
+    {
+      "h2": "YouTube Tripod Comparison – Height, Payload and Head",
+      "intent": "spec comparison and seated/standing eye-height math",
+      "h3": []
+    },
+    {
+      "h2": "How I Picked These Camera Tripods for YouTube",
+      "intent": "method and From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 3 Best Tripods for YouTube Videos, Reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "Manfrotto Befree 3-Way Live Advanced",
+        "Manfrotto Befree GT XPRO",
+        "Vanguard VEO 3 GO 235CB"
+      ]
+    },
+    {
+      "h2": "Which YouTube Tripod Should You Get?",
+      "intent": "decision rule by shot type",
+      "h3": []
+    },
+    {
+      "h2": "Problems YouTubers Run Into, and the Fix",
+      "intent": "pain points: jittery pans, overhead tipping, overspending on the tripod",
+      "h3": [
+        "Jittery pans",
+        "Overhead tripod tipping",
+        "Spending on the wrong part of the kit"
+      ]
+    },
+    {
+      "h2": "Final Verdict",
+      "intent": "close and next-question links",
+      "h3": []
+    }
   ],
   "targetWords": 1800,
   "secondaryKeywords": [
@@ -120,29 +243,80 @@
     "productStyleReason": "Digital Camera World (reasons to buy/avoid) and TubeBuddy (pros/cons per product) list pros and cons; CNET writes a paragraph per product.",
     "avgWords": 1960,
     "avgProducts": 7,
-    "commonSections": ["quick picks", "product reviews", "how to choose (load, height, head type)", "how we picked/tested"],
+    "commonSections": [
+      "quick picks",
+      "product reviews",
+      "how to choose (load, height, head type)",
+      "how we picked/tested"
+    ],
     "usesComparisonTable": false,
     "usesFaq": false,
     "usesBuyingGuide": true,
     "note": "avgWords = mean of the four article pages (Digital Camera World about 5,000 article words, CNET about 1,300, TubeBuddy about 1,150, life i design about 400); TechGearLab's 11,000-word test page and the Quora thread are excluded as outliers. CNET was read via a web.archive.org copy because Firecrawl does not support cnet.com."
   },
   "serpTitles": [
-    { "position": 1, "url": "https://www.digitalcameraworld.com/buying-guides/best-video-tripod", "title": "Best video tripods: camera supports for shooting movies smoothly" },
-    { "position": 2, "url": "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/", "title": "Recommendations for a Video Tripod? : r/videography - Reddit" },
-    { "position": 3, "url": "https://www.youtube.com/watch?v=4xQznj8WZ4U&vl=en-US", "title": "The Best Tripods for Video in 2026! - YouTube" },
-    { "position": 4, "url": "https://www.bhphotovideo.com/c/buy/Tripod-Systems/ci/3909", "title": "Professional Video Tripod Systems - B&H" },
-    { "position": 5, "url": "https://www.quora.com/Which-tripod-is-best-for-vlogging-as-a-beginner", "title": "Which tripod is best for vlogging as a beginner? - Quora" },
-    { "position": 6, "url": "https://www.youtube.com/watch?v=tMe-SZ_dPCU", "title": "Best Tripods in 2025 Compared For Filmmakers - YouTube" },
-    { "position": 7, "url": "https://www.amazon.com/Vlogging-Tripod/s?k=Vlogging+Tripod", "title": "Vlogging Tripod - Amazon.com" },
-    { "position": 8, "url": "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/", "title": "Best Tripod for Photography and Video in 2026 - CNET" },
-    { "position": 9, "url": "https://www.techgearlab.com/topics/electronics/best-tripod", "title": "The Best Tripods of 2026 | Tested & Ranked - TechGearLab" },
-    { "position": 10, "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives", "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |" }
+    {
+      "position": 1,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+      "title": "Best video tripods: camera supports for shooting movies smoothly"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
+      "title": "Recommendations for a Video Tripod? : r/videography - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=4xQznj8WZ4U&vl=en-US",
+      "title": "The Best Tripods for Video in 2026! - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bhphotovideo.com/c/buy/Tripod-Systems/ci/3909",
+      "title": "Professional Video Tripod Systems - B&H"
+    },
+    {
+      "position": 5,
+      "url": "https://www.quora.com/Which-tripod-is-best-for-vlogging-as-a-beginner",
+      "title": "Which tripod is best for vlogging as a beginner? - Quora"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=tMe-SZ_dPCU",
+      "title": "Best Tripods in 2025 Compared For Filmmakers - YouTube"
+    },
+    {
+      "position": 7,
+      "url": "https://www.amazon.com/Vlogging-Tripod/s?k=Vlogging+Tripod",
+      "title": "Vlogging Tripod - Amazon.com"
+    },
+    {
+      "position": 8,
+      "url": "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/",
+      "title": "Best Tripod for Photography and Video in 2026 - CNET"
+    },
+    {
+      "position": 9,
+      "url": "https://www.techgearlab.com/topics/electronics/best-tripod",
+      "title": "The Best Tripods of 2026 | Tested & Ranked - TechGearLab"
+    },
+    {
+      "position": 10,
+      "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives",
+      "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 0,
     "withYear": 4,
     "withNumber": 0,
-    "commonModifiers": ["video", "2026", "for filmmakers", "for creators", "tested"],
+    "commonModifiers": [
+      "video",
+      "2026",
+      "for filmmakers",
+      "for creators",
+      "tested"
+    ],
     "gap": "No top-10 title says which tripod fits which YouTube shot (talking head, overhead desk, smooth pans) for a camera rather than a phone."
   },
   "commonPoints": [
@@ -218,9 +392,29 @@
       ],
       "note": "TechGearLab names the 235CB; TubeBuddy recommends the VEO 3 GO series (links the 204AB sibling)."
     },
-    { "name": "Manfrotto Element MII", "pages": ["https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"] },
-    { "name": "3 Legged Thing (Ridley, Bucky, Jay, Wes, Ethan, Winston)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-video-tripod", "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/", "https://www.techgearlab.com/topics/electronics/best-tripod"], "note": "different models on each page; no single model on 2 pages" },
-    { "name": "Manfrotto 502 fluid head", "pages": ["https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/", "https://forums.tomshardware.com/threads/best-type-of-tripod-for-youtube-video-and-photography.2558661/"], "note": "head only, not a complete tripod; mentioned in text" }
+    {
+      "name": "Manfrotto Element MII",
+      "pages": [
+        "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"
+      ]
+    },
+    {
+      "name": "3 Legged Thing (Ridley, Bucky, Jay, Wes, Ethan, Winston)",
+      "pages": [
+        "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+        "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ],
+      "note": "different models on each page; no single model on 2 pages"
+    },
+    {
+      "name": "Manfrotto 502 fluid head",
+      "pages": [
+        "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
+        "https://forums.tomshardware.com/threads/best-type-of-tripod-for-youtube-video-and-photography.2558661/"
+      ],
+      "note": "head only, not a complete tripod; mentioned in text"
+    }
   ],
   "painPoints": [
     {
@@ -233,8 +427,14 @@
         "https://www.reddit.com/r/videography/comments/1lhw6ou/1_tripod_trick_for_smooth_pan_and_tilt_the_pros/"
       ],
       "quotes": [
-        { "text": "Put a large rubber band between your hand and the pan handle. It will function as a shock absorber and smooth out the motion.", "url": "https://www.reddit.com/r/videography/comments/16xb4ms/when_using_a_fluid_head_tripod_how_do_you/" },
-        { "text": "For video, you really want the pan axis of your head be level with the ground.", "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/" }
+        {
+          "text": "Put a large rubber band between your hand and the pan handle. It will function as a shock absorber and smooth out the motion.",
+          "url": "https://www.reddit.com/r/videography/comments/16xb4ms/when_using_a_fluid_head_tripod_how_do_you/"
+        },
+        {
+          "text": "For video, you really want the pan axis of your head be level with the ground.",
+          "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/"
+        }
       ]
     },
     {
@@ -248,8 +448,14 @@
         "https://www.reddit.com/r/videography/comments/17fe9wj/help_with_overhead_camera_mount_rig/"
       ],
       "quotes": [
-        { "text": "I recently had my camera on a fully extended tripod on top of a table (to get extra height) and the legs were right at the edge of the table.", "url": "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/" },
-        { "text": "Align the boom arm over a tripod leg, and put the weight on that leg.", "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/" }
+        {
+          "text": "I recently had my camera on a fully extended tripod on top of a table (to get extra height) and the legs were right at the edge of the table.",
+          "url": "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/"
+        },
+        {
+          "text": "Align the boom arm over a tripod leg, and put the weight on that leg.",
+          "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/"
+        }
       ]
     },
     {
@@ -261,7 +467,10 @@
         "https://www.reddit.com/r/NewTubers/comments/1r8p4r8/easy_to_use_camera_for_talking_head_videos/"
       ],
       "quotes": [
-        { "text": "Audio is 100% most important thing in talking head.", "url": "https://www.reddit.com/r/Cameras/comments/1rinf5z/i_ordered_this_kit_to_start_making_talking_head/" }
+        {
+          "text": "Audio is 100% most important thing in talking head.",
+          "url": "https://www.reddit.com/r/Cameras/comments/1rinf5z/i_ordered_this_kit_to_start_making_talking_head/"
+        }
       ]
     }
   ],
@@ -318,12 +527,14 @@
     {
       "slug": "best-tripod-for-content-creators",
       "find": "One tripod rarely does all three, which is why creators like Michelle Henderson end up owning several.",
-      "replace": "One tripod rarely does all three, which is why creators like Michelle Henderson end up owning several (camera shooters have their own [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/))."
+      "replace": "One tripod rarely does all three, which is why creators like Michelle Henderson end up owning several (camera shooters have their own [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/)).",
+      "appliedAt": "2026-10-27T13:40:16.873Z"
     },
     {
       "slug": "best-video-tripod-with-fluid-head-for-beginners",
       "find": "Each fluid head video tripod here suits a different kind of first rig.",
-      "replace": "Each fluid head video tripod here suits a different kind of first rig; for compact creator kits, see our [YouTube tripod picks](/blog/best-tripod-for-youtube-videos/)."
+      "replace": "Each fluid head video tripod here suits a different kind of first rig; for compact creator kits, see our [YouTube tripod picks](/blog/best-tripod-for-youtube-videos/).",
+      "appliedAt": "2026-10-27T13:40:17.876Z"
     }
   ]
 }

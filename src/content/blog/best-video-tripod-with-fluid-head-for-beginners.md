@@ -327,7 +327,7 @@ The best video tripod with fluid head for beginners is the one whose payload, pl
 
 ## Best Video Tripods With Fluid Head for Beginners: Quick Picks
 
-**For most beginners, the NEEWER TP74 is the safest buy, the Manfrotto 290 Xtra is the light one, and the Cayer BV30L is the value kit.** Each fluid head video tripod here suits a different kind of first rig.
+**For most beginners, the NEEWER TP74 is the safest buy, the Manfrotto 290 Xtra is the light one, and the Cayer BV30L is the value kit.** Each fluid head video tripod here suits a different kind of first rig; for compact creator kits, see our [YouTube tripod picks](/blog/best-tripod-for-youtube-videos/).
 
 Our quick picks:
 
