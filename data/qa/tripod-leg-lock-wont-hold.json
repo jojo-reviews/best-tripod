@@ -1,10 +1,11 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:44.859Z",
+  "checkedAt": "2026-10-27T13:43:50.625Z",
   "errors": [],
   "warnings": [
     "only 11 first-person words; owner rule wants at least 12 (about 1 per 100 words: I, my, me, we, our, us)",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

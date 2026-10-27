@@ -1,16 +1,19 @@
 {
   "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-24T10:31:16.621Z",
+  "checkedAt": "2026-10-27T13:41:40.388Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 496RC2 Compact Ball Head; Leofoto LH-40; Sirui K-30X Ball Head; Manfrotto XPRO 3-Way Head MHXPRO-3W; Benro GD3WH 3-Way Geared Head",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "body has 2764 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 496RC2 Compact Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LH-40\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui K-30X Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto XPRO 3-Way Head MHXPRO-3W\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Benro GD3WH 3-Way Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Benro GD3WH 3-Way Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (no response): https://www.diamondscamera.com.au/leofoto-lh-40-ball-head"
   ],
   "factCheck": {
     "verified": true,

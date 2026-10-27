@@ -1,12 +1,15 @@
 {
   "slug": "tripod-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-10-24T12:41:39.279Z",
+  "checkedAt": "2026-10-27T13:43:49.006Z",
   "errors": [],
   "warnings": [
     "only 15 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Leofoto LS-284C Ranger",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1842903-REG/leofoto_ls_284cx_carbon_fiber_tripod.html",
     "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1534140/",

@@ -1,11 +1,13 @@
 {
   "slug": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-10-24T10:31:28.290Z",
+  "checkedAt": "2026-10-27T13:41:54.348Z",
   "errors": [],
   "warnings": [
     "only 20 first-person words; owner rule wants at least 21 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto PIXI Mini Tripod (MTPIXI-B); Ulanzi MT-16 Extendable Tripod with Ball Head; SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "body has 2119 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",

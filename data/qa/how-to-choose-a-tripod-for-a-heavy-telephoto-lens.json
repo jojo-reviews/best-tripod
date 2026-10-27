@@ -1,11 +1,13 @@
 {
   "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:25.531Z",
+  "checkedAt": "2026-10-27T13:43:25.581Z",
   "errors": [],
   "warnings": [
     "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo GT3543LS Systematic Series 3",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",

@@ -1,10 +1,12 @@
 {
   "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:20.418Z",
+  "checkedAt": "2026-10-27T13:43:20.366Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): JOBY GorillaPod 3K Kit; Manfrotto PIXI Mini Tripod",
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",

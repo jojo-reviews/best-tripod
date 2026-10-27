@@ -1,9 +1,11 @@
 {
   "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
   "pass": true,
-  "checkedAt": "2026-10-21T19:56:24.631Z",
+  "checkedAt": "2026-10-27T13:43:57.686Z",
   "errors": [],
   "warnings": [
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

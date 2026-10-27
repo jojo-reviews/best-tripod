@@ -1,9 +1,10 @@
 {
   "slug": "ball-head-sags-after-tightening",
   "pass": true,
-  "checkedAt": "2026-10-21T19:54:22.175Z",
+  "checkedAt": "2026-10-27T13:41:00.594Z",
   "errors": [],
   "warnings": [
+    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

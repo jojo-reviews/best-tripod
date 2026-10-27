@@ -1,10 +1,11 @@
 {
   "slug": "tripod-shake-when-pressing-shutter",
   "pass": true,
-  "checkedAt": "2026-10-24T10:32:45.750Z",
+  "checkedAt": "2026-10-27T13:43:52.392Z",
   "errors": [],
   "warnings": [
     "only 16 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
+    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
