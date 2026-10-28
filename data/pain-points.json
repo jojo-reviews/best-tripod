@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:30:00.000Z",
+  "updatedAt": "2026-10-28T10:30:09.192Z",
   "categories": {
     "camera-tripods": [
       {
@@ -1130,6 +1130,158 @@
           "best-tripod-for-hunting"
         ],
         "foundAt": "2026-10-24"
+      },
+      {
+        "id": "camera-tripods-telescope-focus-shake",
+        "pain": "Touching the focuser makes the telescope view shake for seconds",
+        "details": "Owners of tripod-mounted scopes wait for the view to settle after every focus touch; replies say spread the legs fully, don't extend them, and add weight.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/telescopes/comments/1rc7zto/which_is_more_important_the_telescope_or_the_stand/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.reddit.com/r/telescopes/comments/cm1ink/how_can_i_focus_my_telescope_without_shaking/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "merely touching the focuser means the view wobbles and vibrates for several seconds",
+            "url": "https://www.reddit.com/r/telescopes/comments/1rc7zto/which_is_more_important_the_telescope_or_the_stand/"
+          },
+          {
+            "text": "Make sure the tripod is spread fully and the legs are firmly planted.",
+            "url": "https://www.reddit.com/r/telescopes/comments/cm1ink/how_can_i_focus_my_telescope_without_shaking/"
+          }
+        ],
+        "searches": [
+          "telescope shakes when focusing",
+          "how to stop telescope vibration"
+        ],
+        "keywords": [
+          "best tripod for telescope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-telescope"
+        ],
+        "foundAt": "2026-10-28"
+      },
+      {
+        "id": "camera-tripods-telescope-camera-tripod-head",
+        "pain": "A camera tripod's head is not fit to carry a telescope",
+        "details": "Beginners ask whether a photo tripod can hold a scope; replies say short tubes on the legs may work, but the camera head is the weak part.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/telescopes/comments/17syawj/can_i_use_this_camera_tripod_for_a_telescope/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.reddit.com/r/telescopes/comments/1shpxxg/beginner_question_on_tripod_mounts_not_an_azimuth/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You can probably use the tripod for short / medium focal length (depending on OTA's weight) but not with this tripod head",
+            "url": "https://www.reddit.com/r/telescopes/comments/17syawj/can_i_use_this_camera_tripod_for_a_telescope/"
+          }
+        ],
+        "searches": [
+          "can i use a camera tripod for a telescope",
+          "camera tripod for telescope"
+        ],
+        "keywords": [
+          "best tripod for telescope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-telescope"
+        ],
+        "foundAt": "2026-10-28"
+      },
+      {
+        "id": "camera-tripods-telescope-zenith-leg-clearance",
+        "pain": "The scope cannot point straight up or hits the tripod legs",
+        "details": "Alt-az tripod heads stop short of the zenith and long tubes bump the legs; owners point between two legs or add a pier extension.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Also, with the mount you cannot reach the Zenith.",
+            "url": "https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/"
+          }
+        ],
+        "searches": [
+          "telescope hits tripod legs",
+          "alt az tripod can't reach zenith"
+        ],
+        "keywords": [
+          "best tripod for telescope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-telescope"
+        ],
+        "foundAt": "2026-10-28"
+      },
+      {
+        "id": "camera-tripods-telescope-tabletop-dob-height",
+        "pain": "A tabletop Dobsonian needs a table or kneeling",
+        "details": "Owners of tabletop Dobs want a tripod so they no longer carry a table outside or kneel; replies suggest Celestron's dedicated tripod, a folding table or a separate mount.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/1005438-newbie-looking-for-advice-retripods-for-celestron-130-tabletop/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have to carry a very sturdy table out into the yard/field to use it or kneel down all the time",
+            "url": "https://www.cloudynights.com/forums/topic/1005438-newbie-looking-for-advice-retripods-for-celestron-130-tabletop/"
+          }
+        ],
+        "searches": [
+          "tripod for tabletop dobsonian",
+          "tabletop telescope tripod"
+        ],
+        "keywords": [
+          "best tripod for telescope"
+        ],
+        "coveredBy": [
+          "best-tripod-for-telescope"
+        ],
+        "foundAt": "2026-10-28"
       }
     ],
     "monopods": [
@@ -1805,6 +1957,78 @@
         "keywords": [],
         "coveredBy": [],
         "foundAt": "2026-10-19"
+      },
+      {
+        "id": "leica-q-tripod-restricted-at-sites",
+        "pain": "Tripods are often not allowed in museums, churches and busy sights, so a travel tripod stays in the bag",
+        "details": "Leica Q travelers point out that many indoor sights need advance permission for a tripod; they carry a small tabletop tripod or brace the camera instead.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+            "platform": "forum",
+            "title": "Travel Tripod Recommendation - Leica Forum",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "platform": "forum",
+            "title": "Which Portable Tripod for Leica Q3? - Leica Forum",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You may not be able to use a tripod in museums, churches and other popular sites without advance permission.",
+            "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "can you use a tripod in a museum",
+          "tripod for leica q3 travel"
+        ],
+        "keywords": [
+          "best tripod for leica q3"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-28"
+      },
+      {
+        "id": "leica-q-full-size-tripod-too-much-for-compact",
+        "pain": "Carrying a full-size tripod for a small fixed-lens camera feels like overkill on vacation",
+        "details": "Q2/Q3 owners on holiday would rather carry a tabletop tripod and only take full-size legs when traveling by car or shooting landscapes.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+            "platform": "forum",
+            "title": "Travel Tripod Recommendation - Leica Forum",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "platform": "forum",
+            "title": "Which Portable Tripod for Leica Q3? - Leica Forum",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Personally, I would hate to lug around a full-size tripod on vacation unless traveling by car.",
+            "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "travel tripod for leica q3",
+          "leica q3 mini tripod"
+        ],
+        "keywords": [
+          "best tripod for leica q3"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-28"
       }
     ],
     "tripod-heads": [
@@ -2952,7 +3176,7 @@
         "id": "tabletop-mini-tripods-flexible-legs-sag",
         "pain": "Bendable GorillaPod-style legs loosen and sag as they age, so the camera droops",
         "details": "Owners say flexible tripods work at first but the ball-and-socket joints lose tightness with use, which matters more with a heavier camera.",
-        "mentions": 2,
+        "mentions": 3,
         "sources": [
           {
             "url": "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/",
@@ -2965,6 +3189,12 @@
             "platform": "reddit",
             "title": "Best Portable Form of Stabilization (monopod/tripod)",
             "seen": "2026-10-21"
+          },
+          {
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "platform": "forum",
+            "title": "Which Portable Tripod for Leica Q3? - Leica Forum",
+            "seen": "2026-10-28"
           }
         ],
         "quotes": [
@@ -2977,6 +3207,11 @@
             "text": "Note: The legs almost always lose tightness over time.",
             "url": "https://www.reddit.com/r/videography/comments/6wh2mc/best_portable_form_of_stabilization_monopodtripod/",
             "via": "search-excerpt"
+          },
+          {
+            "text": "All my gorilla pods broke after a couple of uses.",
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "via": "page"
           }
         ],
         "searches": [
@@ -3134,6 +3369,47 @@
           "flexible-tripod-vs-mini-tripod-for-travel-vlogging"
         ],
         "foundAt": "2026-10-21"
+      },
+      {
+        "id": "tabletop-mini-tripods-head-slips-at-tilt",
+        "pain": "A mini tripod ball head will not hold the camera at a tilt and creeps out of position",
+        "details": "Owners report small integrated ball heads that fail to lock a Leica Q2 or a mirrorless body when angled, or creep after you aim them.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "platform": "forum",
+            "title": "Which Portable Tripod for Leica Q3? - Leica Forum",
+            "seen": "2026-10-28"
+          },
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/",
+            "platform": "reddit",
+            "title": "Manfrotto Pixi Evo - fit X-t5? : r/fujifilm",
+            "seen": "2026-10-28"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I tried two of those and on each the head would not lock properly using my Q2 at a tilt and so were returned.",
+            "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+            "via": "page"
+          },
+          {
+            "text": "And the ball head might creep from where you initially point it anyway.",
+            "url": "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "mini tripod ball head slipping",
+          "leica q3 mini tripod"
+        ],
+        "keywords": [
+          "best tripod for leica q3"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-28"
       }
     ],
     "phone-tripods": [

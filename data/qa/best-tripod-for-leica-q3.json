@@ -1,0 +1,20 @@
+{
+  "slug": "best-tripod-for-leica-q3",
+  "pass": true,
+  "checkedAt": "2026-10-28T10:34:35.994Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Gitzo Mini Traveler Tabletop Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro TablePod Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-28 via Firecrawl: Leica Q3 743 g with battery and 1/4 in DIN 4503 thread (Leica Q3 technical data PDF and instructions), Q3 43 772 g (Leica spec page), Q2 734 g (Leica Q2 press info), Q3 tilting touchscreen (Leica press release), remote shooting via Leica FOTOS (Q3 instructions). Peak Design carbon: 2.8 lb, 15.5 in folded, 60 in max, 5.5 in min, 20 lb, 5 sections, aluminum cam locks, single adjustment/locking ring, Arca-type plate (B&H page meta); 51.25 in / 130.2 cm column down (dealer spec tables 152.4-130.2-14 cm). SIRUI Traveler 5C: 0.85 kg/1.87 lb, 138 cm/54.3 in, 16 cm min, 33 cm/13 in folded, 4 kg/8.8 lb, 5 sections (SIRUI store); Arca plate per Amazon listing B07KD181B3; twist locks and weight hook (First Quadcopter). Gitzo GK1545T-82TQD: 1.45 kg, 163.5 cm max, 140.5 cm column down, 32.4 cm min, 42.5 cm closed, 10 kg safety payload, 4 sections twist lock, GS5370SD Arca plate, independent pan lock, no friction control (gitzo.com ca-en kit page); 135mm (200mm max) recommendation (leica-camera.com Gitzo page). Gitzo Mini Traveler: 265 g, 17.5 cm max, 12.5 cm min, 22 cm closed, 3 kg safety payload fully splayed, leg angles 50/75 deg, carbon legs + aluminium head, 1/4 in top, no QR (gitzo.com GKTBB1 page). Benro TablePod Kit: 6.6 lb, 8.8 in max, 3.5 in min, 8.7 in folded, carbon legs, three leg settings, FS20 Arca-type head, 8.8 oz (B&H); ASIN B093LW82KS. Manfrotto PIXI EVO: 7.7 in max/2.4 in min/5.5 lb/9.4 oz (B&H), 7.87 in and 8.07 in folded, 0.57 lb (Pack Hacker/Manfrotto). Owner quotes checked verbatim on the Leica Forum threads 386731 and 399441, FujiX-Forum, Pack Hacker; r/Leica and r/fujifilm lines via search excerpts. ASINs checked on Amazon US product data: B085BQTQMN, B07KD181B3, B071F31XLR, B07L2WSYB3 (third-party offers only), B093LW82KS, B0149KBPB4. Leica Table Tripod left out: no in-stock US Amazon listing (B0000AGAWB unavailable).",
+    "at": "2026-10-28T10:34:35.519Z",
+    "hash": "05f15cfdf199125c"
+  }
+}

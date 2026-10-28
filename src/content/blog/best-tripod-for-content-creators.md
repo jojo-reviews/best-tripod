@@ -379,6 +379,7 @@ heroAlt: >-
   Best Tripod for Content Creators (2026) – 4 Picks by Shot Type – Best Tripod
   buying guide
 related:
+  - best-tripod-for-telescope
   - best-tripod-for-youtube-videos
   - best-tripod-for-hunting
 ---

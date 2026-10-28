@@ -536,6 +536,8 @@ heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
   buying guide
+related:
+  - best-tripod-for-leica-q3
 ---
 
 895g-31cm-138cm.html

@@ -1,0 +1,577 @@
+{
+  "centralEntity": "tripod for telescope",
+  "entityVariants": [
+    "telescope tripod",
+    "best telescope tripod",
+    "tripod for a telescope",
+    "tripod for small telescope",
+    "camera tripod for telescope"
+  ],
+  "secondaryKeywords": [
+    "tripod for telescope",
+    "best telescope tripod",
+    "telescope tripod",
+    "best tripod for small telescope",
+    "can i use a camera tripod for a telescope",
+    "heavy duty tripod for telescope"
+  ],
+  "entities": [
+    {
+      "name": "alt-azimuth tripod",
+      "type": "tripod type",
+      "relation": "tripod with an up-down/left-right head, for small to medium telescopes, spotting scopes and binoculars"
+    },
+    {
+      "name": "slow-motion controls",
+      "type": "feature",
+      "relation": "handles for fine altitude and azimuth moves when following objects"
+    },
+    {
+      "name": "telescope mount",
+      "type": "equipment",
+      "relation": "the head (alt-az, equatorial, strain-wave) that sits on the tripod"
+    },
+    {
+      "name": "AZ-GTi",
+      "type": "mount",
+      "relation": "small Sky-Watcher GoTo head that fits the Star Adventurer tripod"
+    },
+    {
+      "name": "Star Adventurer GTi",
+      "type": "mount",
+      "relation": "Sky-Watcher tracker designed for the Star Adventurer tripod"
+    },
+    {
+      "name": "Wave 150i",
+      "type": "mount",
+      "relation": "Sky-Watcher strain-wave mounts the Wave carbon tripod is built for"
+    },
+    {
+      "name": "3/8-16 thread",
+      "type": "standard",
+      "relation": "stud size astronomy mounts use; Star Adventurer and Wave tripods use it"
+    },
+    {
+      "name": "1/4-20 thread",
+      "type": "standard",
+      "relation": "camera thread on the Celestron alt-az and TrailSeeker tripods"
+    },
+    {
+      "name": "Maksutov",
+      "type": "telescope",
+      "relation": "short, light scope such as the Celestron C90 that suits a camera-style tripod"
+    },
+    {
+      "name": "refractor",
+      "type": "telescope",
+      "relation": "long tube; length adds sway and leg clearance problems"
+    },
+    {
+      "name": "tabletop Dobsonian",
+      "type": "telescope",
+      "relation": "needs a table or a dedicated tripod to reach eye level"
+    },
+    {
+      "name": "pier extension",
+      "type": "accessory",
+      "relation": "raises the mount so a long tube clears the legs"
+    },
+    {
+      "name": "accessory tray",
+      "type": "accessory",
+      "relation": "doubles as a leg spreader and stiffens the tripod"
+    },
+    {
+      "name": "damping time",
+      "type": "metric",
+      "relation": "how long the view shakes after touching focus"
+    },
+    {
+      "name": "Celestron Heavy-Duty Alt-Azimuth Tripod",
+      "type": "product",
+      "relation": "93607, alt-az tripod for small telescopes"
+    },
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod",
+      "type": "product",
+      "relation": "S20555, tripod for small Sky-Watcher heads"
+    },
+    {
+      "name": "Celestron TrailSeeker Tripod",
+      "type": "product",
+      "relation": "82050, fluid-pan tripod for spotting scopes and small telescopes"
+    },
+    {
+      "name": "Sky-Watcher Wave Carbon Fiber Tripod",
+      "type": "product",
+      "relation": "S30910, carbon tripod for Wave mounts"
+    }
+  ],
+  "attributes": [
+    "mounting thread (1/4-20 vs 3/8-16)",
+    "rated load vs working load",
+    "height range",
+    "weight",
+    "leg material and diameter",
+    "leg sections and locks",
+    "head type (alt-az with slow motion, fluid pan, none)",
+    "accessory tray / spreader",
+    "zenith clearance",
+    "compatible mounts"
+  ],
+  "ngrams": [
+    "telescope tripod",
+    "tripod for telescope",
+    "alt-azimuth tripod",
+    "slow motion controls",
+    "weight capacity",
+    "accessory tray",
+    "pier extension",
+    "camera tripod",
+    "carbon fiber tripod",
+    "heavy duty tripod",
+    "3/8-16 thread",
+    "small telescopes"
+  ],
+  "skipgrams": [
+    "tripod…vibration",
+    "legs…extended",
+    "mount…tripod head",
+    "load…capacity",
+    "tube…legs",
+    "focuser…shake"
+  ],
+  "nlpTerms": [
+    "stability",
+    "vibration",
+    "damping",
+    "altitude",
+    "azimuth",
+    "zenith",
+    "refractor",
+    "Maksutov",
+    "Dobsonian",
+    "equatorial",
+    "strain wave",
+    "GoTo",
+    "eyepiece",
+    "counterweight",
+    "aluminum",
+    "carbon fiber",
+    "stainless steel",
+    "spreader",
+    "payload",
+    "observing"
+  ],
+  "questions": [
+    "Can I use a camera tripod for a telescope?",
+    "What tripod do I need for an AZ-GTi?",
+    "Is a heavier tripod better for a telescope?",
+    "How much weight should a telescope tripod hold?",
+    "Why does my telescope shake when I focus?",
+    "What tripod fits a Sky-Watcher Wave mount?"
+  ],
+  "contentGaps": [
+    "Which thread your mount uses (1/4-20 vs 3/8-16) decides which tripod even fits",
+    "Rated load vs a working load for imaging (owners derate to about 60%)",
+    "Tube length matters as much as weight on a light alt-az tripod",
+    "Zenith and leg clearance with long tubes",
+    "Tabletop Dobsonian height problem"
+  ],
+  "outline": [
+    {
+      "h2": "Best Tripod for Telescope – Quick Comparison",
+      "intent": "short answer, the four picks and their specs",
+      "h3": []
+    },
+    {
+      "h2": "How I Picked These Telescope Tripods",
+      "intent": "selection method from the store and forum SERP",
+      "h3": []
+    },
+    {
+      "h2": "The 4 Best Tripods for Telescopes, Reviewed",
+      "intent": "product sections",
+      "h3": [
+        "Celestron Heavy-Duty Alt-Azimuth Tripod",
+        "Sky-Watcher Star Adventurer Tripod",
+        "Celestron TrailSeeker Tripod",
+        "Sky-Watcher Wave Carbon Fiber Tripod"
+      ]
+    },
+    {
+      "h2": "Can You Use a Camera Tripod for a Telescope?",
+      "intent": "PAA question, camera tripod limits",
+      "h3": []
+    },
+    {
+      "h2": "Which Telescope Tripod Should You Get?",
+      "intent": "chooser by mount and thread",
+      "h3": []
+    },
+    {
+      "h2": "Problems Owners Run Into, and the Fix",
+      "intent": "pain points: focus shake, zenith, tabletop Dob height, wobble",
+      "h3": []
+    },
+    {
+      "h2": "Final Verdict",
+      "intent": "close the opening scene, next links",
+      "h3": []
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://optcorp.com/collections/telescope-tripods-and-piers",
+      "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+      "https://astronomics.com/collections/tripods",
+      "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+      "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+      "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/",
+      "https://www.space.com/best-tripods"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Agena's guide gives each tripod type a Pros/Cons pair and the store pages list spec bullets per product; Telescopic Watch writes short paragraphs. Pros/cons is the closest shared format.",
+    "avgWords": 1400,
+    "avgProducts": 4,
+    "commonSections": [
+      "product list with height, material and load",
+      "tripod types (telescope, alt-az, tri-pier, pan-tilt)",
+      "FAQ (can I use any tripod, is heavier better, how tall)",
+      "how to reduce vibration"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "The SERP is store category pages (OPT, Agena, Astronomics, High Point), forum threads (Cloudy Nights, Stargazers Lounge, r/telescopes) and two articles. avgWords = rough mean of the readable text on Agena (~1,450), Telescopic Watch (~2,300), the Cloudy Nights thread (~2,600 of post text), OPT (~350) and High Point (~300). Space.com's page did not render its article text in Firecrawl. Reddit cannot be opened with Firecrawl; Reddit results were read from search excerpts only."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://optcorp.com/collections/telescope-tripods-and-piers",
+      "title": "Telescope Tripods & Piers"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/telescopes/comments/102qlhx/what_is_the_best_tripod_or_way_to_improve_my/",
+      "title": "What is the best tripod or way to improve my tripod? : r/telescopes"
+    },
+    {
+      "position": 3,
+      "url": "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+      "title": "Telescope Tripods, Tri-Piers & Counterweights - Agena Astro"
+    },
+    {
+      "position": 4,
+      "url": "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/",
+      "title": "Ranking The Best from 40+ Reflector Telescopes on Tripod"
+    },
+    {
+      "position": 5,
+      "url": "https://astronomics.com/collections/tripods",
+      "title": "Tripods - Astronomics"
+    },
+    {
+      "position": 6,
+      "url": "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+      "title": "Considering a New Heavy Duty Tripod - Mounts - Cloudy Nights"
+    },
+    {
+      "position": 7,
+      "url": "https://stargazerslounge.com/topic/422309-what-tripod-and-mount-do-you-use-for-visual-viewing-and-why/",
+      "title": "What tripod and mount do you use for visual viewing and why?"
+    },
+    {
+      "position": 8,
+      "url": "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+      "title": "Telescope Tripods - High Point Scientific"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=cU3xcicU9Jc",
+      "title": "Choosing the Best Tripod for Binocular Stargazing - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://www.space.com/best-tripods",
+      "title": "Best tripods 2026: For astrophotography, landscapes and ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "telescope tripods",
+      "heavy duty",
+      "piers",
+      "best",
+      "astrophotography"
+    ],
+    "gap": "No top-10 title matches the tripod to the mount or scope you already own (1/4-20 scope foot, AZ-GTi or Star Adventurer head, Wave strain-wave head)."
+  },
+  "commonPoints": [
+    "A sturdier, heavier tripod damps vibration better; lightweight tripods trade stability for portability",
+    "Match the tripod's capacity to the combined weight of telescope, mount and accessories",
+    "Telescope tripods attach to a mount, not a ball head; alt-az tripods suit small to medium scopes, binoculars and spotting scopes",
+    "Adjustable legs set a comfortable eyepiece height",
+    "Accessory trays and spreaders add rigidity"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Rated load vs working load: Cloudy Nights imagers derate a mount to about 60% for imaging; applied to published ratings that is about 6.6 lb on the Celestron alt-az (11 lb), about 5.3 lb on the TrailSeeker (8.8 lb) and about 26 lb on the Wave carbon tripod (44 lb). One owner ran an 8 lb C5 on the 93607 fine, but longer tubes at similar weight swayed, so tube length matters as much as weight.",
+      "source": "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/; https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/; https://www.celestron.com/products/heavy-duty-alt-azimuth-tripod; https://www.celestron.com/products/trailseeker-tripod; https://www.skywatcherusa.com/products/wave-carbon-fiber-tripod",
+      "absentFrom": [
+        "https://optcorp.com/collections/telescope-tripods-and-piers",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+        "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by thread and mount: a scope or alt-az adapter with a 1/4-20 socket -> Celestron alt-az (slow motion) or TrailSeeker (height, travel); AZ-GTi, Star Adventurer 2i/GTi or AZ5 heads with 3/8-16 -> Star Adventurer tripod; Wave 100i/150i -> Wave carbon tripod; 120mm+ refractors and heavy mounts -> none of these, a heavy-duty or wooden tripod.",
+      "source": "maker pages (Celestron 93607 and 82050, Sky-Watcher S20555 and S30910), High Point S20555 page",
+      "absentFrom": [
+        "https://optcorp.com/collections/telescope-tripods-and-piers",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+        "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Zenith and leg clearance: the 93607 head cannot reach the zenith (owner); pointing between two legs gets close, and a pier extension (8.5 in for the Star Adventurer tripod, 7 in for the Wave) lifts a long tube clear of the legs.",
+      "source": "https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/; https://www.highpointscientific.com/sky-watcher-star-adventurer-tripod-s20555; https://astronomics.com/products/sky-watcher-wave-carbon-fiber-tripod",
+      "absentFrom": [
+        "https://optcorp.com/collections/telescope-tripods-and-piers",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/",
+        "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Focus shake: spread the legs fully, keep the leg extensions collapsed, hang weight from the spreader and use vibration pads; light carbon tripods under heavy heads can be nudged by hand, so weight them.",
+      "source": "https://www.reddit.com/r/telescopes/comments/cm1ink/how_can_i_focus_my_telescope_without_shaking/; https://www.cloudynights.com/forums/topic/934904-sky-watcher-wave-100i-and-150i-discussion/page/39/; https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+      "absentFrom": [
+        "https://optcorp.com/collections/telescope-tripods-and-piers",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod (S20555)",
+      "pages": [
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods"
+      ]
+    },
+    {
+      "name": "Sky-Watcher Wave Carbon Fiber Tripod (S30910)",
+      "pages": [
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods/shopby/sky_watcher.html"
+      ],
+      "note": "Agena lists it in its telescope-tripod category (Sky-Watcher filter of the ranking page)."
+    },
+    {
+      "name": "Celestron Heavy-Duty Alt-Azimuth Tripod (93607)",
+      "pages": [
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods/shopby/celestron.html"
+      ],
+      "note": "Agena lists it in its telescope-tripod category (Celestron filter of the ranking page); also named in Cloudy Nights threads."
+    },
+    {
+      "name": "Celestron TrailSeeker Tripod (82050)",
+      "pages": [
+        "https://optcorp.com/collections/telescope-tripods-and-piers",
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods/shopby/celestron.html"
+      ],
+      "note": "OPT's FAQ names it among highly recommended tripods for telescopes."
+    },
+    {
+      "name": "ZWO TC40 Carbon Fiber Tripod",
+      "pages": [
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods"
+      ],
+      "note": "left out: no clear ZWO-branded Amazon US listing found (only a third-party 'AM5 - TC40' listing by WANGZC)."
+    },
+    {
+      "name": "iOptron Carbon Fiber Tripod 8061A",
+      "pages": [
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods",
+        "https://optcorp.com/collections/telescope-tripods-and-piers"
+      ],
+      "note": "left out: no Amazon US listing found."
+    },
+    {
+      "name": "Celestron Tripod for StarSense Explorer Tabletop Dobsonians (93480)",
+      "pages": [
+        "https://astronomics.com/collections/tripods",
+        "https://www.highpointscientific.com/telescope-accessories/mounts/telescope-mounts/tripods"
+      ],
+      "note": "left out as a pick: Amazon listing exists (B0CBQXZ3H7) but no owner reviews could be read; mentioned in the pain-point section with maker specs."
+    },
+    {
+      "name": "Sky-Watcher EQ6 to Wave Steel Tripod",
+      "pages": [
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://astronomics.com/collections/tripods"
+      ],
+      "note": "left out: no Amazon US listing checked/found; heavy-duty niche."
+    },
+    {
+      "name": "Berlebach Planet",
+      "pages": [
+        "https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
+      ],
+      "note": "left out: no Amazon US listing."
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-telescope-focus-shake",
+      "pain": "Touching the focuser makes the telescope view shake for seconds",
+      "details": "Owners of tripod-mounted scopes wait for the view to settle after every focus touch; replies say spread the legs fully, don't extend them, and add weight.",
+      "sources": [
+        "https://www.reddit.com/r/telescopes/comments/1rc7zto/which_is_more_important_the_telescope_or_the_stand/",
+        "https://www.reddit.com/r/telescopes/comments/cm1ink/how_can_i_focus_my_telescope_without_shaking/",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "merely touching the focuser means the view wobbles and vibrates for several seconds",
+          "url": "https://www.reddit.com/r/telescopes/comments/1rc7zto/which_is_more_important_the_telescope_or_the_stand/"
+        },
+        {
+          "text": "Make sure the tripod is spread fully and the legs are firmly planted.",
+          "url": "https://www.reddit.com/r/telescopes/comments/cm1ink/how_can_i_focus_my_telescope_without_shaking/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-telescope-camera-tripod-head",
+      "pain": "A camera tripod's head is not fit to carry a telescope",
+      "details": "Beginners ask whether a photo tripod can hold a scope; replies say short tubes on the legs may work, but the camera head is the weak part.",
+      "sources": [
+        "https://www.reddit.com/r/telescopes/comments/17syawj/can_i_use_this_camera_tripod_for_a_telescope/",
+        "https://www.reddit.com/r/telescopes/comments/1shpxxg/beginner_question_on_tripod_mounts_not_an_azimuth/"
+      ],
+      "quotes": [
+        {
+          "text": "You can probably use the tripod for short / medium focal length (depending on OTA's weight) but not with this tripod head",
+          "url": "https://www.reddit.com/r/telescopes/comments/17syawj/can_i_use_this_camera_tripod_for_a_telescope/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-telescope-zenith-leg-clearance",
+      "pain": "The scope cannot point straight up or hits the tripod legs",
+      "details": "Alt-az tripod heads stop short of the zenith and long tubes bump the legs; owners point between two legs or add a pier extension.",
+      "sources": [
+        "https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/",
+        "https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "Also, with the mount you cannot reach the Zenith.",
+          "url": "https://www.cloudynights.com/forums/topic/582578-celestron-heavy-duty-altazimuth-mount-no-93607/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-telescope-tabletop-dob-height",
+      "pain": "A tabletop Dobsonian needs a table or kneeling",
+      "details": "Owners of tabletop Dobs want a tripod so they no longer carry a table outside or kneel; replies suggest Celestron's dedicated tripod, a folding table or a separate mount.",
+      "sources": [
+        "https://www.cloudynights.com/forums/topic/1005438-newbie-looking-for-advice-retripods-for-celestron-130-tabletop/"
+      ],
+      "quotes": [
+        {
+          "text": "I have to carry a very sturdy table out into the yard/field to use it or kneel down all the time",
+          "url": "https://www.cloudynights.com/forums/topic/1005438-newbie-looking-for-advice-retripods-for-celestron-130-tabletop/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "11 lbs",
+      "claim": "Weight capacity of the Celestron Heavy-Duty Alt-Azimuth Tripod",
+      "url": "https://www.celestron.com/products/heavy-duty-alt-azimuth-tripod",
+      "quote": "Weight capacity of approximately 11 lbs"
+    },
+    {
+      "number": "44-pound (20kg)",
+      "claim": "Payload of the Sky-Watcher Wave Carbon Fiber Tripod",
+      "url": "https://www.skywatcherusa.com/products/wave-carbon-fiber-tripod",
+      "quote": "44-pound (20kg) payload"
+    },
+    {
+      "number": "70.5 inches (58 inches with the column down)",
+      "claim": "TrailSeeker maximum height",
+      "url": "https://www.celestron.com/products/trailseeker-tripod",
+      "quote": "With the center column fully extended, the maximum height achieved is 70.5 inches (58 inches with the column down)."
+    },
+    {
+      "number": "8.5-inches",
+      "claim": "Height the Star Adventurer tripod extension adds",
+      "url": "https://www.highpointscientific.com/sky-watcher-star-adventurer-tripod-s20555",
+      "quote": "This pier extension is will provide an additional 8.5-inches to the total height"
+    }
+  ],
+  "videos": [
+    {
+      "id": "wY8FsIOplh8",
+      "title": "Celestron Heavy Duty Alt-Azimuth 93607 Tripod Review.",
+      "channel": "Simon John",
+      "url": "https://www.youtube.com/watch?v=wY8FsIOplh8",
+      "section": "The 4 Best Tripods for Telescopes, Reviewed"
+    },
+    {
+      "id": "mUvJqVzWuuQ",
+      "title": "How to Improve the stability of a Telescope Tripod",
+      "channel": "Willie Koorts",
+      "url": "https://www.youtube.com/watch?v=mUvJqVzWuuQ",
+      "section": "Problems Owners Run Into, and the Fix"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-tripod-for-spotting-scope",
+    "binocular-tripod-adapter",
+    "how-to-stop-tripod-shake-in-wind",
+    "tripod-shake-when-pressing-shutter"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-spotting-scope",
+      "find": "Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor.",
+      "replace": "Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor; the same holds when you choose a [tripod for a telescope](/blog/best-tripod-for-telescope/)."
+    },
+    {
+      "slug": "binocular-tripod-adapter",
+      "find": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope.",
+      "replace": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/))."
+    }
+  ]
+}

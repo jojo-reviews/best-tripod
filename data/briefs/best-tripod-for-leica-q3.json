@@ -1,0 +1,570 @@
+{
+  "centralEntity": "tripod for Leica Q3",
+  "entityVariants": [
+    "best tripod for leica q3",
+    "tripod for leica q3",
+    "leica q3 tripod",
+    "best travel tripod for leica q3",
+    "best tripod for leica q2",
+    "leica q3 43 tripod",
+    "leica q3 mini tripod"
+  ],
+  "entities": [
+    {
+      "name": "Leica Q3",
+      "type": "camera",
+      "relation": "fixed-lens full-frame compact, approx. 743 g with battery, 1/4 in tripod thread"
+    },
+    {
+      "name": "Leica Q3 43",
+      "type": "camera",
+      "relation": "sibling with a 43mm lens, approx. 772 g with battery"
+    },
+    {
+      "name": "Leica Q2",
+      "type": "camera",
+      "relation": "predecessor, approx. 734 g with battery; same tripod needs"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "type": "product",
+      "relation": "most-recommended full-size pick in Leica threads"
+    },
+    {
+      "name": "SIRUI Traveler 5C",
+      "type": "product",
+      "relation": "lightest full-size pick, recommended in r/Leica threads"
+    },
+    {
+      "name": "Gitzo Traveler GK1545T-82TQD",
+      "type": "product",
+      "relation": "Traveler kit Leica itself lists for its cameras"
+    },
+    {
+      "name": "Gitzo Mini Traveler",
+      "type": "product",
+      "relation": "tabletop tripod Leica Forum Q2/Q3 owners name most"
+    },
+    {
+      "name": "Benro TablePod",
+      "type": "product",
+      "relation": "carbon tabletop tripod with adjustable leg angles, used by a Q2 owner"
+    },
+    {
+      "name": "Manfrotto PIXI EVO",
+      "type": "product",
+      "relation": "budget pocket tripod"
+    },
+    {
+      "name": "Leica Table Tripod",
+      "type": "product",
+      "relation": "classic Leica tabletop tripod; no clear US Amazon listing"
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "standard",
+      "relation": "quick-release dovetail used by PD, Sirui, Gitzo kit and Benro heads"
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "head type on every pick"
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "adds height but reduces stiffness"
+    },
+    {
+      "name": "tilting touchscreen",
+      "type": "camera feature",
+      "relation": "lets a Q3 owner compose below eye level without raising the column"
+    },
+    {
+      "name": "Leica FOTOS app",
+      "type": "software",
+      "relation": "remote shutter and live view from a phone"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "legs on five of six picks"
+    }
+  ],
+  "attributes": [
+    "rated load vs the 743 g Q3",
+    "height with the center column down",
+    "folded length",
+    "weight with head",
+    "leg sections and lock type",
+    "ball head lock and pan control",
+    "Arca-Swiss compatibility",
+    "tabletop vs full-size",
+    "minimum height"
+  ],
+  "ngrams": [
+    "tripod for leica q3",
+    "travel tripod",
+    "tabletop tripod",
+    "mini tripod",
+    "ball head",
+    "center column",
+    "carbon fiber",
+    "Gitzo Traveler",
+    "Peak Design Travel Tripod",
+    "Gitzo Mini Traveler",
+    "quick release plate",
+    "leica q2"
+  ],
+  "skipgrams": [
+    "tripod…Q3",
+    "center column…height",
+    "ball head…tilt",
+    "tabletop…museum",
+    "carbon…light",
+    "load…743 g"
+  ],
+  "nlpTerms": [
+    "Leica",
+    "Q3",
+    "Q2",
+    "compact",
+    "fixed lens",
+    "full-frame",
+    "travel",
+    "tabletop",
+    "mini tripod",
+    "carbon fiber",
+    "ball head",
+    "Arca-Swiss",
+    "center column",
+    "folded length",
+    "load capacity",
+    "blue hour",
+    "long exposure",
+    "ND filter",
+    "museum",
+    "self-timer",
+    "Leica FOTOS",
+    "tilting screen"
+  ],
+  "questions": [
+    "What tripod should I use with a Leica Q3?",
+    "Do I need a heavy tripod for a Leica Q3?",
+    "Is the Peak Design Travel Tripod good for a Leica Q3?",
+    "Is a mini tripod enough for a Leica Q3?",
+    "Does a Leica Q3 tripod also fit the Q2 and Q3 43?",
+    "Can I use a tripod in museums and churches?"
+  ],
+  "contentGaps": [
+    "Load headroom against the Q3 and Q3 43 weights",
+    "Column-down height combined with the Q3 tilting screen",
+    "Full-size vs tabletop decision for city travel",
+    "Tripod restrictions at museums and churches",
+    "Mini tripod heads that slip at a tilt"
+  ],
+  "outline": [
+    {
+      "h2": "Best tripod for Leica Q3 picks at a glance",
+      "intent": "short answer, picks, comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Leica Q3 tripods",
+      "intent": "method, how we picked, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripods for the Leica Q3, reviewed",
+      "intent": "one section per product",
+      "h3": [
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "SIRUI Traveler 5C Carbon Fiber Tripod",
+        "Gitzo Series 1 Traveler kit",
+        "Gitzo Mini Traveler Tabletop Tripod",
+        "Benro TablePod Tripod Kit",
+        "Manfrotto PIXI EVO 2-Section Mini Tripod"
+      ]
+    },
+    {
+      "h2": "What a 743 g Leica Q3 actually needs from a tripod",
+      "intent": "load headroom math, column-down height, tilting screen",
+      "h3": []
+    },
+    {
+      "h2": "Problems Q3 owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    },
+    {
+      "h2": "Which tripod should you get for your Q3?",
+      "intent": "decision rule and next links",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Gitzo and Peak Design come up most for Leica owners",
+    "Carbon fiber keeps a travel tripod light and stiff",
+    "A small camera does not need a heavy tripod; portability matters",
+    "Tabletop tripods are a valid option for a compact like the Q",
+    "A quick-release plate speeds up mounting"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom vs the Q3: at approx. 743 g (Q3 43: 772 g), every pick carries it with 3.4x (PIXI EVO 2.5 kg) to 13.5x (Gitzo kit 10 kg) headroom, so choose on height, fold and head, not load.",
+      "source": "https://leica-camera.com/sites/default/files/pm-19567-EN_technical_data_Leica_Q3_1.pdf; https://leica-camera.com/en-int/technical-specifications-leica-q3-43-black; maker spec pages",
+      "absentFrom": [
+        "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height plus the Q3 tilting touchscreen: 51.25 in (PD) and 55.31 in (Gitzo kit) column-down are enough to compose by tilting the screen without raising the column.",
+      "source": "https://leica-camera.com/en-US/press/new-leica-q3; https://www.gitzo.com/ca-en/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/",
+      "absentFrom": [
+        "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by where you shoot: city, museums and cafes = tabletop (Gitzo Mini / Benro / PIXI EVO); one-bag travel with blue hour = Sirui 5C; landscapes and long exposures = PD carbon or Gitzo kit.",
+      "source": "our rule from the specs above and the Leica Forum threads",
+      "absentFrom": [
+        "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Tripods often need permission in museums, churches and popular sites; a tabletop tripod set on a wall or ledge plus the Leica FOTOS app or self-timer covers most of those shots.",
+      "source": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+      "absentFrom": [
+        "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Cheap mini heads can fail to lock a Q2/Q3 at a tilt; pick a head with a firm ball lock and test it at the angle you shoot.",
+      "source": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+      "absentFrom": [
+        "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    }
+  ],
+  "targetWords": 1450,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+      "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+      "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+      "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "ErickPHOTO and Oberwerth describe each tripod in a written paragraph; only Pack Hacker uses short pros/cons lists, and the forum threads are prose.",
+    "avgWords": 1360,
+    "avgProducts": 5,
+    "commonSections": [
+      "short intro",
+      "product descriptions",
+      "what to look for (stability, materials, portability)",
+      "conclusion"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+      "title": "Best Travel Tripods for Leica (minimalistic view) by ErickPHOTO"
+    },
+    {
+      "position": 2,
+      "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+      "title": "Which Portable Tripod for Leica Q3?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/Leica/comments/18xba87/tripod_recommendation_for_q3/",
+      "title": "tripod recommendation for q3 : r/Leica - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://leicacamerausa.com/photography/accessories/bags-and-tripods/",
+      "title": "Leica Tripods and Heads - Best Camera Tripods Online"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/leicagroup/posts/10163069086854151/",
+      "title": "Can anyone recommend a good tripod for my Q3? Thanks - Facebook"
+    },
+    {
+      "position": 6,
+      "url": "https://leica-camera.com/en-int/gitzo-tripods",
+      "title": "Gitzo Tripods | Leica Camera AG"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=JDlqojnhros",
+      "title": "Peak Design Travel Tripod for Leica - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.ebay.com/b/Leica-Camera-Tripod/30093/bn_156666",
+      "title": "Leica Camera Tripod for sale - eBay"
+    },
+    {
+      "position": 9,
+      "url": "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+      "title": "The best Leica-compatible tripods for safe photography - Oberwerth Bags"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=O4FvGnHj8n8",
+      "title": "My must have LEICA Q3 accessories & a silly one - YouTube"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "Leica",
+      "Q3",
+      "travel",
+      "portable",
+      "tripods and heads"
+    ],
+    "gap": "No top-10 title states a year, a number of picks or that it covers both full-size and tabletop tripods; none is a Q3-specific buying guide."
+  },
+  "serpProducts": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.facebook.com/groups/leicagroup/posts/10163069086854151/",
+        "https://www.reddit.com/r/Leica/comments/n94tm7/tripod_for_leica_q/"
+      ],
+      "note": "Leica Forum member liggy uses the PD carbon; Facebook Leica group snippet: \"the peak design carbon fiber is really good\"; Pack Hacker ranks for the secondary keyword best travel tripod for leica q3; one r/Leica Q3 reply is negative."
+    },
+    {
+      "name": "SIRUI Traveler 5C",
+      "pages": [
+        "https://www.reddit.com/r/Leica/comments/18xba87/tripod_recommendation_for_q3/",
+        "https://www.reddit.com/r/Leica/comments/13zhp7h/tripod_recommendation/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ],
+      "note": "r/Leica Q3 thread: \"I use the sirui traveler 5c, with the column taken out and a better ball head\"; Q2 thread: \"I've been using the Sirui 5c\"."
+    },
+    {
+      "name": "Gitzo Traveler GK1545T-82TQD kit",
+      "pages": [
+        "https://leica-camera.com/en-int/gitzo-tripods",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://www.facebook.com/groups/leicagroup/posts/10163069086854151/"
+      ],
+      "note": "Leica lists this exact kit; Leica Forum recommends the Gitzo Traveler range; Facebook snippet says Gitzos are great tripods."
+    },
+    {
+      "name": "Gitzo Mini Traveler",
+      "pages": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+      ],
+      "note": "Named by several Q2/Q3 owners in both Leica Forum threads."
+    },
+    {
+      "name": "Benro TablePod",
+      "pages": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+      ],
+      "note": "liggy (Q3 thread) and oldsalt (Q2 owner) use it."
+    },
+    {
+      "name": "Manfrotto PIXI EVO",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+      ],
+      "note": "Pack Hacker names the PIXI EVO; the Leica Forum Q3 thread recommends the PIXI line (original PIXI), with one owner reporting head slippage on two samples."
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "leica-q-tripod-restricted-at-sites",
+      "pain": "Tripods are often not allowed in museums, churches and busy sights, so a travel tripod stays in the bag",
+      "details": "Leica Q travelers point out that many indoor sights need advance permission for a tripod; they carry a small tabletop tripod or brace the camera instead.",
+      "sources": [
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+      ],
+      "quotes": [
+        {
+          "text": "You may not be able to use a tripod in museums, churches and other popular sites without advance permission.",
+          "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+        }
+      ]
+    },
+    {
+      "id": "leica-q-full-size-tripod-too-much-for-compact",
+      "pain": "Carrying a full-size tripod for a small fixed-lens camera feels like overkill on vacation",
+      "details": "Q2/Q3 owners on holiday would rather carry a tabletop tripod and only take full-size legs when traveling by car or shooting landscapes.",
+      "sources": [
+        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+      ],
+      "quotes": [
+        {
+          "text": "Personally, I would hate to lug around a full-size tripod on vacation unless traveling by car.",
+          "url": "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-head-slips-at-tilt",
+      "pain": "A mini tripod ball head will not hold the camera at a tilt and creeps out of position",
+      "details": "Owners report small integrated ball heads that fail to lock a Leica Q2 or a mirrorless body when angled, or creep after you aim them.",
+      "sources": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+      ],
+      "quotes": [
+        {
+          "text": "I tried two of those and on each the head would not lock properly using my Q2 at a tilt and so were returned.",
+          "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+        },
+        {
+          "text": "And the ball head might creep from where you initially point it anyway.",
+          "url": "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-flexible-legs-sag",
+      "pain": "Bendable GorillaPod-style legs loosen and sag as they age, so the camera droops",
+      "details": "Owners say flexible tripods work at first but the ball-and-socket joints lose tightness with use, which matters more with a heavier camera.",
+      "sources": [
+        "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/",
+        "https://www.reddit.com/r/videography/comments/6wh2mc/best_portable_form_of_stabilization_monopodtripod/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+      ],
+      "quotes": [
+        {
+          "text": "They get loose and sag as they get used/older (don't we all).",
+          "url": "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/"
+        },
+        {
+          "text": "Note: The legs almost always lose tightness over time.",
+          "url": "https://www.reddit.com/r/videography/comments/6wh2mc/best_portable_form_of_stabilization_monopodtripod/"
+        },
+        {
+          "text": "All my gorilla pods broke after a couple of uses.",
+          "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-integrated-head-limits",
+      "pain": "Integrated ball heads on light travel tripods lack friction control or enough stiffness",
+      "details": "Buyers learn the head must be stiff enough for the legs; compact integrated heads are on-off lever only.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+      ],
+      "quotes": [
+        {
+          "text": "there is no friction control of the ball (it is pretty much on or off with a leaver)",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "743 g",
+      "claim": "Leica Q3 weight with battery",
+      "url": "https://leica-camera.com/sites/default/files/pm-19567-EN_technical_data_Leica_Q3_1.pdf",
+      "quote": "Weight Approx. 743 g/658 g (with/without battery)"
+    },
+    {
+      "number": "772 g",
+      "claim": "Leica Q3 43 weight with battery",
+      "url": "https://leica-camera.com/en-int/technical-specifications-leica-q3-43-black",
+      "quote": "Approx. 772g/688 g (with/without battery)"
+    },
+    {
+      "number": "3 kg",
+      "claim": "Gitzo Mini Traveler head and spider load",
+      "url": "https://www.gitzo.com/us-en/gitzo-mini-traveler-tripod-kit-black1-gktbb1/",
+      "quote": "The machined aluminium spider and head are strong and dependable, supporting up to 3 kg in fully splayed configuration."
+    },
+    {
+      "number": "135mm",
+      "claim": "Gitzo GT1545T recommended lens length",
+      "url": "https://leica-camera.com/en-int/gitzo-tripods",
+      "quote": "Recommended for use with 135mm lenses (200mm maximum)."
+    }
+  ],
+  "videos": [
+    {
+      "id": "JDlqojnhros",
+      "title": "Peak Design Travel Tripod for Leica",
+      "channel": "Leica Camera Australia",
+      "url": "https://www.youtube.com/watch?v=JDlqojnhros",
+      "section": "The 6 best tripods for the Leica Q3, reviewed"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-travel-tripod-for-mirrorless-camera",
+    "best-tripod-that-fits-in-carry-on-luggage",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "tripod-center-column-up-or-down-for-landscapes",
+    "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "ball-head-sags-after-tightening",
+    "how-to-stop-tripod-shake-in-wind"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "find": "For a small APS-C kit the Sirui Traveler 5C saves weight, and for heavy telephotos we'd pick the 3 Legged Thing Punks Travis 2.0.",
+      "replace": "For a small APS-C kit the Sirui Traveler 5C saves weight, and for heavy telephotos we'd pick the 3 Legged Thing Punks Travis 2.0 (fixed-lens shooters can see our [tripods for the Leica Q3](/blog/best-tripod-for-leica-q3/))."
+    },
+    {
+      "slug": "best-tripod-that-fits-in-carry-on-luggage",
+      "find": "The third pick is a pocket tripod for the lightest bags.",
+      "replace": "The third pick is a pocket tripod for the lightest bags, a type we also compare in our [Leica Q3 tripod picks](/blog/best-tripod-for-leica-q3/)."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for leica q2",
+    "best travel tripod for leica q3",
+    "tripod for leica q3",
+    "leica q3 tripod",
+    "leica q3 43 tripod",
+    "leica q3 mini tripod"
+  ],
+  "angle": "Q3-specific: load headroom against a 743 g fixed-lens compact, full-size vs tabletop by where you shoot, Leica Forum and r/Leica owner reports."
+}

@@ -2335,7 +2335,7 @@
     "publishedAt": "2026-10-21T10:34:24.041Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [],
@@ -2353,7 +2353,9 @@
     "slug": "best-tripod-for-telescope",
     "preResearch": "skipped: SERP 2026-10-21 is 4 astronomy stores (OPT, Astronomics, Agena, High Point) plus telescope-mount/astro-tripod pages (Cloudy Nights Berlebach/Avalon, Sky at Night mounts, r/telescopes EQ tripod); the only camera-tripod angle (small scopes, spotting-class optics) overlaps the live best-tripod-for-spotting-scope post",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "productCount": 4,
+    "publishedAt": "2026-10-28T10:35:05.961Z"
   },
   {
     "status": "pending",
@@ -4135,7 +4137,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -4155,7 +4157,9 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-leica-q3",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "productCount": 13,
+    "publishedAt": "2026-10-28T10:35:04.896Z"
   },
   {
     "status": "replaced",

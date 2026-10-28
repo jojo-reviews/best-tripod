@@ -67,7 +67,8 @@ products:
     summary: >-
       I picked this 3-section aluminum tripod with a 90-degree center column as
       my sturdy all-rounder: 66.9 in with the column up, 55 in with it down per
-      B&H, and the stiffest legs here for a tall shooter who drives to locations.
+      B&H, and the stiffest legs here for a tall shooter who drives to
+      locations.
     renterNote: >-
       Landscape, studio and DSLR or mirrorless shooters with heavier lenses who
       are 6 ft or taller and rarely hike far with it. Key caveat: the 66.9 in
@@ -137,8 +138,8 @@ products:
     badge: Tallest option
     summary: >-
       My tallest pick: K&F lists 90 in (2.3 m) maximum and 63.8 in without the
-      center column, the best column-down figure I found, plus a 10 kg (about
-      22 lb) load, a ball head and a leg that detaches as a monopod.
+      center column, the best column-down figure I found, plus a 10 kg (about 22
+      lb) load, a ball head and a leg that detaches as a monopod.
     renterNote: >-
       Budget-minded shooters 6 ft 3 in+ who want eye level and overhead or
       flat-lay angles with a mirrorless or DSLR plus a mid-size lens. Key
@@ -173,8 +174,8 @@ products:
       build: 5
       value: 8
     scoreNote: >-
-      I give it top marks for height, but flex at full extension and basic
-      locks hold my stability and build scores back.
+      I give it top marks for height, but flex at full extension and basic locks
+      hold my stability and build scores back.
     owners:
       read: 1
       praise:
@@ -230,8 +231,8 @@ products:
       build: 4
       value: 8
     scoreNote: >-
-      I score it well on height and value, but it is light-duty; the load
-      rating is unclear and the legs are thin.
+      I score it well on height and value, but it is light-duty; the load rating
+      is unclear and the legs are thin.
     owners:
       read: 3
       praise:
@@ -283,7 +284,7 @@ products:
       Weight: About 2.8 to 3.15 lb depending on listing
       Max load: 8.8 lb
       Material: Aluminum
-      Head: 360-degree pan head, quick-release plate, phone mount
+      Head: '360-degree pan head, quick-release plate, phone mount'
     scores:
       stability: 4
       portability: 8
@@ -376,10 +377,10 @@ faqs:
       74 inch tripods ship with pan heads that handle slow pans with light
       cameras.
 related:
+  - best-tripod-for-telescope
   - best-tripod-for-hunting
   - how-to-choose-a-tripod-for-a-heavy-telephoto-lens
   - tripod-leg-lock-wont-hold
-  - tripod-shake-when-pressing-shutter
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best
