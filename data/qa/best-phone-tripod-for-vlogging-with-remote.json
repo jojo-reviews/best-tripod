@@ -1,7 +1,7 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-10-28T14:48:48.683Z",
+  "checkedAt": "2026-10-28T15:07:54.397Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): KraftGeek JustTap Magnetic Phone Tripod (226M); UBeesize Portable Phone Tripod with Wireless Remote; SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
@@ -12,8 +12,7 @@
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html",
-    "source didn't respond normally (403): https://manuals.plus/asin/B09TQY66NH.pdf"
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
   ],
   "factCheck": {
     "verified": true,
