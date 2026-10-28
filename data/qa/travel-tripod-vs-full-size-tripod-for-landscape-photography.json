@@ -1,7 +1,7 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-28T15:09:24.182Z",
+  "checkedAt": "2026-10-28T15:23:45.514Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)",
@@ -11,7 +11,6 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))",
-    "source didn't respond normally (403): https://www.talkphotography.co.uk/threads/travel-tripod-v-regular-tripod.613452/",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1611148/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
