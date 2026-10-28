@@ -18,6 +18,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 
 - Talk to the owner in Roman Urdu. Agent prompts and files stay in English.
 - Owner rule 2026-10-27: keep answers to the owner short and to the point (a few lines, bullets, no long explanations).
+- Owner rule 2026-10-28: links inside articles (internal and external) are dark blue (#0b3a8c) and bold (src/styles/global.css `.prose a`).
 - Owner rule 2026-10-27 ("Sab sites pa 2 2 blog publish ho y chye"): 2 new English posts per day per site
   (site.config.json schedule: randomPhase 2, maxPostsPerRun 2). Both posts of a site go live in ONE deploy
   (pubDates close together, one go-live check after the later one) to keep GitHub runs low.

@@ -231,6 +231,9 @@ h3 { font-size: var(--s1); letter-spacing: -.01em; }
 .prose th, .prose td { border-bottom: 1px solid var(--rule); padding: 11px 12px 11px 0; text-align: left; vertical-align: top; }
 .prose th { border-bottom: 2px solid var(--ink); font-weight: 700; }
 .prose a.aff-link { font-weight: 600; }
+/* Owner rule 2026-10-28: in-article links (internal and external) dark blue and bold so they stand out. */
+.prose a:not(.btn) { color: #0b3a8c; font-weight: 600; text-decoration-thickness: 1.5px; }
+.prose a:not(.btn):hover { color: #072659; text-decoration-thickness: 2px; }
 .prose code { font-size: .88em; background: var(--paper); border: 1px solid var(--rule); padding: 1px 5px; border-radius: 3px; }
 
 /* Picks */
