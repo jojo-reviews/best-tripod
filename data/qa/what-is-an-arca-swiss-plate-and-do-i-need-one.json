@@ -1,25 +1,17 @@
 {
   "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-10-28T15:24:05.539Z",
+  "checkedAt": "2026-10-28T18:44:58.730Z",
   "errors": [],
   "warnings": [
-    "only 18 first-person words; owner rule wants at least 24 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SmallRig Quick Release Plate for Arca Swiss 2146B; NEEWER QPR-5C 2 Pack Quick Release Plate",
-    "body has 2431 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://photographylife.com/arca-swiss-quick-release-system",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1570305-REG/smallrig_2146b_quick_release_plate.html",
-    "source didn't respond normally (403): https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
-    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
+    "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Replaced SIRUI QC-55 (B0DB5RWZTL: Amazon page shows in stock, sold by SIRUI USA/FBA, but the Creators API does not return it, so no photo; the only other QC-55 listing B0HHDCLWWR is currently unavailable) with Harwerrel Aluminium 50mm Quick Release Clamp QR-50S (B071LDM42V, in stock, ships from Amazon, sold by Hawell-US), recommended with the same ASIN by markus-hagner-photography.com and lynnbarsigianphotography.com roundups. Specs (50 mm clamp, 38-42 mm plates, 3 bubble levels, anodized aluminum, 78x50x20 mm, clamp only, no load rating) checked against the Amazon listing and both roundups; owner notes from 23 owner reviews read; text, product block, sources and brief serpProducts/outline/entities updated. URL, slug, keyword, pubDate unchanged.",
-    "at": "2026-10-28T15:20:02.028Z",
-    "hash": "7ad9e68e1ee88c41"
+    "notes": "GSC improvement 2026-10-28 (ctr + striking for arca swiss plate, what is arca swiss, are all arca swiss plates the same, how to use arca swiss plate, what is an arca plate): seoTitle/description rewritten to state the 38 mm answer; 38 mm width now linked to arca-swiss-usa.com/pages/quick-release (re-opened 2026-10-28: classic plates 38 mm, monoballFix 26 mm, 1950s, flipLock warning, safety pins); H2s renamed (Are All Arca-Swiss Plates the Same, How to Use an Arca-Swiss Plate, Do You Need an Arca-Swiss Plate The Short Answer); FAQ q renamed; SmallRig/Neewer summary, scoreNote and sections rewritten in first person, no new claims; body trimmed 2431 to under 2070 words, no product, pain point, safety note or sourced number removed. URL, slug, keyword, pubDate unchanged.",
+    "at": "2026-10-28T18:44:58.222Z",
+    "hash": "9b72741a231f7e86"
   }
 }

@@ -1,14 +1,14 @@
 {
   "slug": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-10-27T13:42:40.193Z",
+  "checkedAt": "2026-10-28T18:44:45.862Z",
   "errors": [],
   "warnings": [
     "only 24 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Tripod Kit with 3-Way Head; Benro Mach3 TMA38CL; Manfrotto MT190XPRO4; GEEKOTO 75 inch Camera Tripod; Manfrotto 410 Junior Geared Head; Manfrotto 405 Geared Head; JOBY GorillaPod 5K Kit",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2618 words, over the 1782 limit (top results average 1550): cut repetition and filler",
+    "body has 2620 words, over the 1782 limit (top results average 1550): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,15 +16,12 @@
     "product \"Manfrotto 410 Junior Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 405 Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1486816-REG/geekoto_x25_defender_75_4_section.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/124665-REG/Manfrotto_410_410_Junior_Geared_Head.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html",
-    "source didn't respond normally (403): https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-18: Verified product selection against 7 top-10 pages read via Firecrawl (Styldod, PhotoUp, PixelShouters, Aryeo, Mark Jacobs, APA Almanac, Show&Tour); each product named by >=2. ASINs checked on Amazon US listing titles (B013JS87KO 290 Xtra MK290XTA3-3WUS, B00YEU96GQ Benro TMA38CL, B00G36G9Q4 MT190XPRO4, B07GZJ2XRL GEEKOTO X25 75-inch, B000JLI4Q2 Manfrotto Junior Geared Head 410, B000RTW9S0 Manfrotto Geared Head 405, B074WG19MP GorillaPod 5K Kit). Specs: 290 Xtra (67.52/58.07/16.54 in, 27.83 in, 5.56 lb, 10 kg UNI payload, flip, 25/46/66/88 deg, 200LT-PL) and MT190XPRO4 (62.99/53.15/3.15 in, 19.29 in, 4.52 lb, 15 kg UNI payload, flip) from manfrotto.com; 410 (1.22 kg, 5 kg, 410PL) and 405 (1.6 kg, 7.5 kg, 3 levels, 6.55 deg/turn, 410PL) from manfrotto.com plus B&H 3/8-16 mount; TMA38CL (69.68 in, 13.97 in, 23.2 in, 4.52 lb, 16 kg, 4-section twist, 3/8-16, spikes) from benrousa.com; GEEKOTO X25 (75/24 in, 18.9 in, 4.4 lb, 22.04 lb, twist, Arca-type) from B&H; GorillaPod 5K (11 lb, 739 g, 15 in, Arca-type, 1/4-20) from B&H and listing. MT190XPRO4 15.4 lb older figure and review claims from The-Digital-Picture; 290 Xtra claims from ePHOTOzine and Mark Jacobs; Benro owner claims from Alan Lait; head claims from APA Almanac and Show&Tour; 4-5 ft camera height from Aryeo. Removed unsupported claims (load multiple, head swap habit, 'ten pages read').",
-    "at": "2026-10-18T13:43:39.772Z"
+    "notes": "added one internal link to what-is-an-arca-swiss-plate-and-do-i-need-one, no claim changed",
+    "at": "2026-10-28T18:44:45.276Z",
+    "hash": "e00e878bdd05584f"
   }
 }
