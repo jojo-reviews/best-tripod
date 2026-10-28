@@ -312,7 +312,8 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (d.articleType === 'roundup' && products.length < 2) err('roundup with fewer than 2 products');
   // Owner rule 2026-10-28: commercial roundups need at least 5 products (error for posts going live from 2026-10-29,
   // warning for older posts until they are fixed).
-  if (d.articleType === 'roundup' && products.length < 5) (Date.parse(d.pubDate) >= Date.parse('2026-10-29T00:00:00Z') ? err : warn)(`roundup has ${products.length} products; commercial posts need at least 5 (owner rule 2026-10-28)`);
+  // Translations keep only the English post's products that fit their market (owner rule 2026-10-20), so they are exempt.
+  if (d.articleType === 'roundup' && !(d.lang && d.lang !== 'en') && products.length < 5) (Date.parse(d.pubDate) >= Date.parse('2026-10-29T00:00:00Z') ? err : warn)(`roundup has ${products.length} products; commercial posts need at least 5 (owner rule 2026-10-28)`);
   if (d.productCount && products.length !== d.productCount) warn(`features ${products.length} products; the plan for this post was ${d.productCount}`);
   const amznLinks = [...body.matchAll(/\]\(amzn:([^)]*)\)/g)].map((m) => decodeURIComponent(m[1].replace(/\+/g, ' ')));
   const h3s = [...body.matchAll(/^###\s+(.+)$/gm)].map((m) => m[1]);
