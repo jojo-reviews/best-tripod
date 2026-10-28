@@ -1,12 +1,13 @@
 {
   "slug": "best-tripod-for-content-creators",
   "pass": true,
-  "checkedAt": "2026-10-27T13:42:23.194Z",
+  "checkedAt": "2026-10-28T18:47:45.466Z",
   "errors": [],
   "warnings": [
     "only 16 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): EUCOS 62\" Phone Tripod; Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 3K Kit; Neewer RL-18 Ring Light 18inch Kit",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
+    "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",

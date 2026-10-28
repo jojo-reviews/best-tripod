@@ -1,11 +1,12 @@
 {
   "slug": "best-gimbal-head-for-150-600mm-lens",
   "pass": true,
-  "checkedAt": "2026-10-28T15:21:39.370Z",
+  "checkedAt": "2026-10-28T18:47:09.158Z",
   "errors": [],
   "warnings": [
     "only 14 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): ProMediaGear GKJr. Katana Junior Gimbal Head; Wimberley WH-200 Gimbal Head II; Fotopro E-6H Gimbal Head; Wimberley SK-100 Sidekick",
+    "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"ProMediaGear GKJr. Katana Junior Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley WH-200 Gimbal Head II\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Fotopro E-6H Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,6 +15,7 @@
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1784270/",
+    "source didn't respond normally (403): https://www.talkphotography.co.uk/threads/gimbal-head.663241/",
     "source didn't respond normally (403): https://bcgforums.com/threads/full-gimbal-head-vs-wimberley-sidekick.31129/",
     "source didn't respond normally (403): https://bcgforums.com/threads/z8-nikon-600-f-4e-fl-on-fotopro-e-6h-gimbal.38079/",
     "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",

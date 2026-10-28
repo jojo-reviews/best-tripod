@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-10-28T10:38:19.453Z",
+  "checkedAt": "2026-10-28T18:48:19.056Z",
   "errors": [],
   "warnings": [
+    "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron TrailSeeker Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",

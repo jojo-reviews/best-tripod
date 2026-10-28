@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-10-28T18:44:45.862Z",
+  "checkedAt": "2026-10-28T18:48:08.157Z",
   "errors": [],
   "warnings": [
     "only 24 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -16,7 +16,11 @@
     "product \"Manfrotto 410 Junior Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 405 Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1486816-REG/geekoto_x25_defender_75_4_section.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/124665-REG/Manfrotto_410_410_Junior_Geared_Head.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html",
+    "source didn't respond normally (403): https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx"
   ],
   "factCheck": {
     "verified": true,

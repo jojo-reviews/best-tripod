@@ -1,7 +1,7 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-28T15:23:34.947Z",
+  "checkedAt": "2026-10-28T18:48:52.147Z",
   "errors": [],
   "warnings": [
     "only 23 first-person words; owner rule wants at least 31 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -14,8 +14,7 @@
     "product \"Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "keyword overlaps /blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/ (4 of the top-10 Google results are shared with \"travel tripod vs full size tripod for landscape photography\" (same intent))",
-    "source didn't respond normally (no response): https://improvephotography.com/44918/professional-tripods-landscape-photographers/"
+    "keyword overlaps /blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/ (4 of the top-10 Google results are shared with \"travel tripod vs full size tripod for landscape photography\" (same intent))"
   ],
   "factCheck": {
     "verified": true,
