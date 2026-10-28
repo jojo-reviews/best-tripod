@@ -175,7 +175,7 @@ loads, otherwise search `"<site>" <keyword>` for its product list). Rank the pro
 pages recommend them and choose from the top of that list: each product must be recommended by at least 2 of
 the top-10 pages and be a popular, well-stocked Amazon US listing (searching its brand + model on Amazon
 shows it at once, not a lone obscure listing). Never add a product that no top-10 page recommends; if too
-few products qualify, lower `productCount` to the number that do (at least 3 for roundups). Record the
+few products qualify, also read the top 10 for `best <product type>` and close variants of the keyword. **Owner rule 2026-10-28: a commercial roundup features at least 5 products**; if fewer than 5 qualify even then, skip the keyword (mark it `parked`, reason "fewer than 5 qualifying products") and take the next one. Record the
 evidence in the brief as `serpProducts`: `[{"name": "...", "pages": ["url", ...]}]`. Then verify every spec
 against the maker or retailer pages as usual.
 

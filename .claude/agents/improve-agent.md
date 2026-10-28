@@ -25,3 +25,5 @@ Report briefly: what you changed and why (which queries), title/description befo
 - Patent rules 2026-10-24 (US7716225B1, US9767157B2): make sure the post has an internal /blog/ link in running text in its first third, and that its "From our notes" first sentence is specific to the post (not "When we lined up…"); the incoming links you add go in body paragraphs, preferably in the first half of the other post.
 
 - Patent rule 2026-10-28 (US9959315B1, US8615514B1): when improving a post, rename stand-alone generic H2s ("Our verdict", "Next steps", "Problems owners run into, and the fix") so they name the topic (never change the URL, slug, keyword or pubDate). The "ctr" reason now also fires for a query at position 1-10 with 5+ impressions and 0 clicks: rewrite seoTitle and description so they state the post's specific answer or number for that query, within the title rules.
+
+- Owner rule 2026-10-28: when the picked post is a roundup with fewer than 5 products, bring it up to at least 5 qualifying products (step 3/3b/3c rules, real in-stock Amazon listings, owner reviews), updating table, tldr, FAQs and title count; never change the URL, slug, keyword or pubDate.

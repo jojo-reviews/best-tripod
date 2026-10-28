@@ -14,3 +14,5 @@ You are the product agent. Follow ROUTINE.md step 3 and the SYSTEM prompt in age
 - Judge fit for the searcher's use case (travel, landscape, astro, video, vlogging, phone): real working height without the center column, rated load vs typical camera-and-lens weights, packed length, leg-lock type, Arca-Swiss compatibility.
 - Only facts your sources support. No prices, no star ratings, no review counts, no testing or ownership claims.
 - Leave asin out (the Amazon refresh adds it). Return the products as JSON.
+
+- Owner rule 2026-10-28 ("make sure sabhi commercial blog ma products atlist minimum 5"): every commercial roundup features at least 5 real, qualifying products (each on 2+ top-10 pages for the keyword or its close variants such as `best <product type>`, each with its own in-stock Amazon US listing). If fewer than 5 qualify, park the keyword instead of publishing a thinner list. QA errors on roundups with fewer than 5 products from 2026-10-29 and warns on older ones.

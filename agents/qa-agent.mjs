@@ -310,6 +310,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   if (/REPLACE/.test(amazonTag())) err('Amazon affiliate tag is not configured');
   const products = d.products ?? [];
   if (d.articleType === 'roundup' && products.length < 2) err('roundup with fewer than 2 products');
+  // Owner rule 2026-10-28: commercial roundups need at least 5 products (error for posts going live from 2026-10-29,
+  // warning for older posts until they are fixed).
+  if (d.articleType === 'roundup' && products.length < 5) (Date.parse(d.pubDate) >= Date.parse('2026-10-29T00:00:00Z') ? err : warn)(`roundup has ${products.length} products; commercial posts need at least 5 (owner rule 2026-10-28)`);
   if (d.productCount && products.length !== d.productCount) warn(`features ${products.length} products; the plan for this post was ${d.productCount}`);
   const amznLinks = [...body.matchAll(/\]\(amzn:([^)]*)\)/g)].map((m) => decodeURIComponent(m[1].replace(/\+/g, ' ')));
   const h3s = [...body.matchAll(/^###\s+(.+)$/gm)].map((m) => m[1]);
