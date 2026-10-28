@@ -25,7 +25,7 @@ entities:
   - pan head
   - bino harness
   - Swarovski NL Pure
-  - Field Optics Research Gen 2
+  - FANAUE S1
   - Aziak Bino Clamp
 tags:
   - tripod accessories
@@ -44,8 +44,9 @@ tldr:
     binoculars take a stud adapter, unthreaded ones (NL Pure, Noctivid, Genesis)
     need a clamp.
   - >-
-    The Field Optics Research Gen 2 locks on and has an Arca-Swiss, Manfrotto
-    and 1/4-20 base built in, but the release is fiddly with cold hands.
+    The FANAUE S1 locks the stud in until you press its safety button and has
+    an Arca-type base and 1/4-20 socket built in, but owners say the base is
+    short and the pin can work loose.
   - >-
     The 0.3 oz Aziak Bino Clamp needs no thread, stays on the binocular and
     rides in a harness, but fit is size-specific.
@@ -53,77 +54,91 @@ tldr:
     A drop-in adapter that does not lock is the main fall risk; pick a locking
     stud or a correctly sized clamp.
 products:
-  - name: Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2
-    brand: Field Optics Research
-    query: Field Optics Research Rapid Release Binocular Tripod Adapter
-    matchName: Field Optics Research Rapid-Release Binocular Tripod Adapter
-    badge: Best value stud adapter
+  - name: FANAUE S1 Quick Release Binocular Tripod Adapter
+    brand: FANAUE
+    query: FANAUE binocular tripod adapter quick release S1
+    matchName: Binocular Tripod Adapter Binocular Mount Aluminium
+    badge: Best value locking stud
     summary: >-
-      A quick-release stud-style adapter whose base takes Arca-Swiss, Manfrotto
-      200PL and 1/4-20 mounts with no separate plate. The Gen 2 is CNC-machined
-      6063-T6 hard-anodized aluminum and, per Backwoods Pursuit, fixed the play
-      of the first version. The binocular locks in until you press a small metal
-      release.
+      I picked this quick-release stud adapter for threaded binoculars: 6061-T6
+      aluminum with an Arca-type base and a 1/4-20 socket, so it drops into an
+      Arca clamp with no separate plate. The stud only releases when you press
+      the safety button, and it is the low-cost adapter Rokslide and Cloudy
+      Nights owners try before a premium stud system.
     renterNote: >-
-      Budget-minded hunters and birders with a tripod-threaded binocular and an
-      Arca-Swiss or Manfrotto head who want a lock that will not drop the glass;
-      the caveat is a small release that is fiddly with cold hands or gloves.
+      Hunters, birders and stargazers with a tripod-threaded binocular and an
+      Arca-Swiss or 1/4-20 head who want a locking stud without paying for a
+      premium system; the caveat is a short Arca base and a stud pin that some
+      owners re-tighten now and then.
     pros:
       - >-
-        Three-way base fits Arca-Swiss, Manfrotto 200PL and 1/4-20 heads without
-        an extra plate
+        Arca-type base and 1/4-20 socket built in, so no extra plate is needed
+        on an Arca-Swiss head
       - >-
-        Locks the binocular on until released, so it cannot fall off, and leaves
-        no protruding parts when hanging on the chest
+        Safety button must be pressed before the stud releases, which a
+        Rokslide owner singles out as the feature he likes
       - >-
-        Light at 1.7 oz in the Backwoods Pursuit field test (not a maker
-        figure), with a lifetime guarantee from the maker
+        CNC-machined 6061-T6 aluminum body (maker), at a fraction of what
+        premium stud systems cost
     cons:
       - >-
-        The small release button is hard to press with cold hands or gloves, per
-        Backwoods Pursuit and a Rokslide owner who used Gen 1
+        The Arca base is short, and one Rokslide owner calls it a bit finicky
+        next to premium stud systems
       - >-
-        Gen 1 had noticeable play, which Backwoods Pursuit says Gen 2 corrected;
-        the maker gives no weight figure
+        A Cloudy Nights owner has to tighten the pin occasionally because it
+        works loose from slight rotation
     specs:
-      Weight: '1.7 oz (Backwoods Pursuit field test, not a maker figure)'
-      Material: 'Hard-anodized 6063-T6 aluminum, CNC'
-      Lock: Rapid-release stud with push release; cannot fall off while locked
-      Tripod interface: 'Arca-Swiss, Manfrotto 200PL (RC2), 1/4-20'
+      Weight: Not published
+      Material: 'CNC-machined 6061-T6 aluminum (maker)'
+      Lock: Quick-release stud; press the safety button to release
+      Tripod interface: 'Arca-type base, 1/4-20 socket'
       Binocular fit: Any binocular with a 1/4-20 socket
-      Warranty: Lifetime guarantee (maker)
+      Model: S1
     scores:
-      stability: 7
+      stability: 6
       portability: 8
-      build: 7
+      build: 6
       value: 9
     scoreNote: >-
-      Arca-Swiss, Manfrotto and 1/4-20 base with a lock-on release is strong for
-      the weight, but Backwoods Pursuit and a Rokslide owner report a fiddly
-      cold-weather release.
+      I scored it high on value for a locking stud with a built-in Arca base;
+      the short base, a pin that can work loose and owner reports of some
+      fiddliness keep stability and build below premium systems.
     owners:
-      read: 6
+      read: 8
       praise:
-        - Owners say it works as advertised and is a strong choice for the money
         - >-
-          Direct Arca-Swiss base removes the need for a separate plate, cutting
-          bulk and the risk of losing it
-        - 'Locks onto a Sirui VA5 pan head solidly, per a Rokslide owner'
+          Works as intended with no complaints for owners on Rokslide and
+          BirdForum, several of whom run two of them
+        - >-
+          No separate plate needed thanks to the built-in Arca base, per a
+          Rokslide owner and a Walmart reviewer
+        - The push-button lock that stops the stud coming out by accident
       complaints:
-        - 'Hard to disconnect with cold hands or gloves, per a Gen 1 owner'
-        - >-
-          Gen 1 showed small but noticeable play; Backwoods Pursuit says Gen 2
-          corrected it
+        - The Arca base is short and the release can feel finicky
+        - 'The pin can work loose from slight rotation and need re-tightening'
       sources:
-        - title: 'Rokslide: Field Optics Research Rapid Release Gen 2 thread'
+        - title: 'Rokslide: Binocular Tripod Adaptor - Which One? (page 1)'
           url: >-
-            https://rokslide.com/forums/threads/field-optics-research-rapid-release-binocular-tripod-adapter-gen-2.166695/
-        - title: Backwoods Pursuit field test of binocular tripod adapters
-          url: 'https://backwoodspursuit.com/best-binocular-tripod-adapters/'
+            https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/
+        - title: 'Rokslide: Binocular Tripod Adaptor - Which One? (page 2)'
+          url: >-
+            https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/page-2
+        - title: 'Cloudy Nights: Binocular adapters'
+          url: 'https://www.cloudynights.com/forums/topic/984961-binocular-adapters/'
+        - title: 'BirdForum: Amazon FANAUE Tripod Adapter'
+          url: 'https://www.birdforum.net/threads/amazon-fanaue-tripod-adapter.460979/'
+        - title: Walmart FANAUE Binocular Tripod Adapter (S1) owner reviews
+          url: 'https://www.walmart.com/reviews/product/16142911319'
+          reviews: 5
+    asin: B0C24CJCKP
+    amazonTitle: >-
+      Binocular Tripod Adapter, Binocular Mount 1/4 Inch Threading Mount
+      Aluminium (s1)
+    asinVerified: true
   - name: Aziak Equipment Bino Clamp
     brand: Aziak Equipment
     query: Aziak Bino Clamp binocular tripod adapter
-    matchName: Aziak Bino Clamp
+    matchName: Aziak Binocular Clamp Adapter
     badge: Lightest option
     summary: >-
       A 0.3 oz injection-molded nylon clamp with brass threaded inserts, an
@@ -198,6 +213,9 @@ products:
         - title: 'Aziak Bino Clamp product page (maker-site buyer reviews, 5 read)'
           url: 'https://aziak.com/products/bino-clamp'
           reviews: 572
+    asin: B0CGMYNZHT
+    amazonTitle: Aziak Binocular Clamp Adapter Compatible with (Size 1)
+    asinVerified: true
 sources:
   - title: 'Backwoods Pursuit: best binocular tripod adapters'
     url: 'https://backwoodspursuit.com/best-binocular-tripod-adapters/'
@@ -211,12 +229,10 @@ sources:
       https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/
   - title: 'Rokslide: Best backcountry bino mount'
     url: 'https://rokslide.com/forums/threads/best-backcountry-bino-mount.369491/'
-  - title: 'Rokslide: Field Optics Research Rapid Release Gen 2'
-    url: >-
-      https://rokslide.com/forums/threads/field-optics-research-rapid-release-binocular-tripod-adapter-gen-2.166695/
-  - title: 'Field Optics Research: Rapid-Release Binocular Tripod Adapter Gen 2'
-    url: >-
-      https://www.fieldopticsresearch.com/shop/Binocular-Supports/p/Rapid-Release-Binocular-Tripod-Adapter-GEN-2.htm
+  - title: 'Cloudy Nights: Binocular adapters'
+    url: 'https://www.cloudynights.com/forums/topic/984961-binocular-adapters/'
+  - title: 'FANAUE: S1 Quick Release Binocular Tripod Adapter'
+    url: 'https://fanaue.com/en/product/s1-Binocular-Adapter/'
   - title: 'Aziak Equipment: Bino Clamp'
     url: 'https://aziak.com/products/bino-clamp'
 reviewedDate: '2026-10-20'
@@ -236,20 +252,20 @@ faqs:
   - q: 'Stud or clamp adapter, which is better?'
     a: >-
       A stud adapter centers the binocular on the head and, in locking designs
-      like the Field Optics Research Gen 2, cannot fall off while locked. A
+      like the FANAUE S1, cannot slide out until you press the release. A
       clamp works on binoculars with no thread and can stay on in the harness,
       but owners report offset, bulk and slip on poorly sized clamps.
   - q: Is the binocular tripod thread 1/4-20?
     a: >-
       Yes. The socket under the hinge cap is the standard 1/4-20 camera thread,
-      which is why a stud adapter like the Field Optics Research Gen 2 fits any
-      binocular that has one. The adapter base then mounts to an Arca-Swiss
-      clamp, a Manfrotto 200PL plate or a 1/4-20 stud.
+      which is why a stud adapter like the FANAUE S1 fits any binocular that
+      has one. The adapter base then mounts to an Arca-Swiss clamp or a 1/4-20
+      stud.
   - q: Do I need an Arca-Swiss binocular adapter?
     a: >-
-      Only if your tripod head has an Arca-Swiss clamp. The Field Optics
-      Research Gen 2 and Aziak Bino Clamp both have an Arca dovetail built in,
-      so no separate plate is needed.
+      Only if your tripod head has an Arca-Swiss clamp. The FANAUE S1 and Aziak
+      Bino Clamp both have an Arca dovetail built in, so no separate plate is
+      needed.
   - q: Will a binocular tripod adapter fit in my harness?
     a: >-
       Low studs and slim clamps usually do. A Rokslide owner with NL Pure
@@ -268,7 +284,7 @@ heroAlt: >-
   Best Tripod guide
 ---
 
-A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)). **Check for a threaded socket under the front hinge cap first, because that decides between a stud adapter and a clamp.** For a threaded binocular, the [Field Optics Research Gen 2](amzn:Field+Optics+Research+Rapid+Release+Binocular+Tripod+Adapter) is the locking stud pick; for a binocular with no thread, the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter) is the pick.
+A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)). **Check for a threaded socket under the front hinge cap first, because that decides between a stud adapter and a clamp.** For a threaded binocular, the [FANAUE S1](amzn:FANAUE+binocular+tripod+adapter+quick+release+S1) is the locking stud pick; for a binocular with no thread, the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter) is the pick.
 
 ## Check your binocular first – socket or no socket
 
@@ -289,16 +305,16 @@ The table below sets the two adapters side by side on type, weight, lock, Arca-S
 
 | Adapter | Type | Weight | Lock | Arca-Swiss | No-thread binos |
 |---|---|---|---|---|---|
-| Field Optics Research Gen 2 | Stud, rapid release | 1.7 oz (Backwoods Pursuit field test) | Push release | Built in | No |
+| FANAUE S1 | Stud, quick release | Not published | Push-button safety lock | Built in | No |
 | Aziak Bino Clamp | Clamp, stays on | 0.3 oz | Clamp | Built in | Yes, sizes #0-#4 and EL-Range |
 
-### Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2: locking stud for threaded binoculars
+### FANAUE S1 Quick Release Binocular Tripod Adapter: locking stud for threaded binoculars
 
-**Choose the [Field Optics Research Gen 2](amzn:Field+Optics+Research+Rapid+Release+Binocular+Tripod+Adapter) for a threaded binocular on an Arca-Swiss or Manfrotto 200PL head with no extra plate.** Per the maker, its base takes Arca-Swiss, Manfrotto 200PL and 1/4-20 mounts, the body is CNC 6063-T6 hard-anodized aluminum, and it leaves no protruding parts on the chest. Backwoods Pursuit says the binocular locks in "until you detach them" and that Gen 2 fixed the play of Gen 1. The 1.7 oz weight comes from that test, not the maker. The release is the catch: a Gen 1 owner on Rokslide writes, "A little hard to disconnect it with cold hands or gloves on, but for the price It works really well." ([Rokslide](https://rokslide.com/forums/threads/field-optics-research-rapid-release-binocular-tripod-adapter-gen-2.166695/)).
+**Choose the [FANAUE S1](amzn:FANAUE+binocular+tripod+adapter+quick+release+S1) for a threaded binocular on an Arca-Swiss or 1/4-20 head when you want a lock without paying for a premium stud system.** Per the maker, the body is CNC-machined 6061-T6 aluminum with an Arca-type base and a 1/4-20 socket, and the stud only releases when you press the safety button. A Rokslide owner trying the style before a premium adapter likes "the lock feature where you have to push the button down before you can remove the stud", and another runs two with "no complaints". The catch: a third owner says the Arca base is "just not that long" and "a bit finicky". On [Cloudy Nights](https://www.cloudynights.com/forums/topic/984961-binocular-adapters/), an owner uses it "without issue other than having to occasionally tighten the pin as it works loose from slight rotation", so check that pin before each sit.
 
 ### Aziak Equipment Bino Clamp: lightest, no thread needed
 
-**Backcountry hunters counting ounces get the most from the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter), a 0.3 oz nylon clamp with brass inserts and its own Arca-Swiss foot.** It stays on the binocular and slides in and out of a harness, so there is no stud or loose part to lose; Backwoods Pursuit used it from single digits to the mid 80s F. Sizing is the risk: a maker-site buyer reports the recommended size 1 slides off a Swarovski NL Pure 14x52, so check Aziak's chart. Backwoods Pursuit notes slight flex and suggests pairing it with a pan head so you move it by the handle. One Rokslide owner says the Arca foot gets in the way of his hand on the barrel, and another prefers a clamp that lets you level the binocular on an unlevel head. Because the dovetail is molded into the clamp, it goes straight into an Arca-Swiss head with no plate and no extra part to leave behind, and the maker says it mounts in under 30 seconds.
+**Backcountry hunters counting ounces get the most from the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter), a 0.3 oz nylon clamp with brass inserts and its own Arca-Swiss foot.** It stays on the binocular and slides in and out of a harness, so there is no stud or loose part to lose; Backwoods Pursuit used it from single digits to the mid 80s F. Sizing is the risk: a maker-site buyer reports the recommended size 1 slides off a Swarovski NL Pure 14x52, so check Aziak's chart; Amazon lists each size separately. Backwoods Pursuit notes slight flex and suggests pairing it with a pan head so you move it by the handle. One Rokslide owner says the Arca foot gets in the way of his hand on the barrel, and another prefers a clamp that lets you level the binocular on an unlevel head. Because the dovetail is molded into the clamp, it goes straight into an Arca-Swiss head with no plate and no extra part to leave behind, and the maker says it mounts in under 30 seconds.
 
 ## Problems owners run into, and the fix
 
@@ -306,14 +322,14 @@ The table below sets the two adapters side by side on type, weight, lock, Arca-S
 
 - **No thread on the binocular.** This drives the whole BirdForum NL Pure thread. Fix: a correctly sized Aziak.
 - **Clamps that slip.** One BirdForum poster dropped a generic clamp because "it is not easy to fix, the screw is easy to loose, it tends to slip". Fix: a binocular-specific clamp sized to your housing, with the screw rechecked before each sit.
-- **Play and fall risk.** The Backwoods Pursuit tester found one drop-in design "fairly stable, but did have noticeable play when glassing", and wrote "I just wasn't comfortable with my expensive optics sitting atop a tripod adapter that didn't lock them into place." Fix: a locking design such as the FOR Gen 2.
+- **Play and fall risk.** The Backwoods Pursuit tester found one drop-in design "fairly stable, but did have noticeable play when glassing", and wrote "I just wasn't comfortable with my expensive optics sitting atop a tripod adapter that didn't lock them into place." Fix: a locking design such as the FANAUE S1.
 - **Bulk in the harness.** Backwoods Pursuit says a protruding post made binoculars harder to pull from the harness. Fix: a low stud or the slim Aziak.
 - **"Universal" that doesn't fit.** One BirdForum owner reports "Swarovski's own 15x won't fit on the UTA 'U as in Universal'." Fix: measure your housing against Aziak's chart first.
 
 ## Pair it with the right tripod head
 
-**For long glassing sessions a fluid pan head moves on two smooth axes; a ball head works if you lock it and pan with the base.** One FOR owner on Rokslide reports a solid lock-up on a Sirui VA5 pan head. Both adapters drop straight into an Arca-Swiss clamp, so read the explainer on [what an Arca-Swiss plate is and when you need one](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) before buying a separate plate, and see [hiking tripods ranked by pack weight](/blog/best-hiking-tripod/) for a light glassing base.
+**For long glassing sessions a fluid pan head moves on two smooth axes; a ball head works if you lock it and pan with the base.** A Rokslide owner runs his FANAUE on a fluid head. Both adapters drop straight into an Arca-Swiss clamp, so read the explainer on [what an Arca-Swiss plate is and when you need one](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) before buying a separate plate, and see [hiking tripods ranked by pack weight](/blog/best-hiking-tripod/) for a light glassing base.
 
 ## Verdict
 
-**Back on the ridge, the steady view starts with the socket check.** A threaded binocular gets the locking FOR Gen 2; an unthreaded one gets the Aziak. The [pan-tilt vs ball head comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) answers the next question, and the [tripod accessories hub](/category/tripod-accessories/) has the rest.
+**Back on the ridge, the steady view starts with the socket check.** A threaded binocular gets the locking FANAUE S1; an unthreaded one gets the Aziak. The [pan-tilt vs ball head comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) answers the next question, and the [tripod accessories hub](/category/tripod-accessories/) has the rest.

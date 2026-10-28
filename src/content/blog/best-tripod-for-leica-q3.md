@@ -1,8 +1,8 @@
 ---
-title: 'Best Tripod for Leica Q3 (2026) – 6 Picks, Full-Size to Pocket Mini'
-seoTitle: 'Best Tripod for Leica Q3 (2026) – 6 Picks, Full-Size to Mini'
+title: 'Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Pocket Mini'
+seoTitle: 'Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Mini'
 description: >-
-  The best tripod for Leica Q3 owners: 6 picks from a 0.57 lb pocket mini to
+  The best tripod for Leica Q3 owners: 5 picks from a 0.57 lb pocket mini to
   carbon travel legs, matched to the Q3's 743 g and to where you shoot.
 pubDate: '2026-10-28T14:09:00.000Z'
 category: travel-tripods
@@ -22,7 +22,6 @@ entities:
   - Peak Design Travel Tripod
   - SIRUI Traveler 5C
   - Gitzo Traveler GK1545T
-  - Gitzo Mini Traveler
   - Benro TablePod
   - Manfrotto PIXI EVO
   - Arca-Swiss plate
@@ -36,7 +35,7 @@ tags:
 articleType: roundup
 funnel: bofu
 productStyle: paragraph
-productCount: 6
+productCount: 5
 readingTime: 7
 tldr:
   - >-
@@ -46,8 +45,8 @@ tldr:
     Lightest full-size legs: the SIRUI Traveler 5C at 1.87 lb with its head and
     13 in folded; most rigid: the Gitzo GK1545T-82TQD kit.
   - >-
-    For city trips and museums, a tabletop tripod is enough: the Gitzo Mini
-    Traveler, Benro TablePod or Manfrotto PIXI EVO.
+    For city trips and museums, a tabletop tripod is enough: the Benro TablePod
+    or the Manfrotto PIXI EVO.
   - >-
     At about 743 g, a Q3 sits well inside every pick's load rating, so choose on
     height, folded length and the head.
@@ -256,73 +255,6 @@ products:
       Gitzo Lightweight Series 1 Traveler Carbon Fiber Tripod with Center Ball
       Head, Silver & Black (GK1545T-82TQDUS)
     asinVerified: true
-  - name: Gitzo Mini Traveler Tabletop Tripod
-    brand: Gitzo
-    query: Gitzo Mini Traveler Tabletop Tripod Black
-    matchName: Gitzo Mini Traveler Tabletop Tripod
-    badge: Best tabletop tripod
-    summary: >-
-      The tabletop tripod Leica Forum Q2 and Q3 owners name most: 265 g with its
-      ball head, 8.66 in closed and rated to 3 kg, about four times a Q3's
-      weight. I'd carry it for city days and museums.
-    renterNote: >-
-      Q3 owners who travel light and shoot from tables, walls and ledges; the
-      caveat is a 6.89 in maximum height, two leg angles only and a premium
-      price.
-    pros:
-      - '265 g with the head, 8.66 in closed'
-      - Solid ball lock that owners say does not creep
-      - Two leg angles and rubber feet
-    cons:
-      - Premium price for a mini tripod
-      - Head can be hard to remove and its plate can work loose
-    specs:
-      Weight: 0.58 lb (265 g) with head
-      Max height: 6.89 in (17.5 cm)
-      Min height: 4.92 in (12.5 cm)
-      Folded length: 8.66 in (22 cm)
-      Load capacity: 6.61 lb (3 kg) safety payload
-      Leg sections: '1'
-      Leg angles: 50° and 75°
-      Material: 'Carbon legs, aluminum spider and head'
-      Head: 'Aluminum ball head, no friction control'
-      Plate: '1/4 in screw, no quick release'
-    scores:
-      stability: 7
-      portability: 10
-      height: 2
-      build: 9
-      value: 5
-    scoreNote: >-
-      I scored build and portability near the top for a 265 g carbon mini with a
-      firm head; tabletop height and price keep height and value low.
-    owners:
-      read: 6
-      praise:
-        - >-
-          Better stability and build than the GorillaPod and Manfrotto minis a
-          Q2 owner tried
-        - Ball head locks solidly with no creep
-        - No side lever to catch on a pocket
-      complaints:
-        - Expensive for a mini tripod
-        - The head is hard to remove and its mounting plate can come loose
-      sources:
-        - title: 'Leica Forum: Which Portable Tripod for Leica Q3?'
-          url: >-
-            https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/
-        - title: 'Leica Forum: Travel Tripod Recommendation'
-          url: >-
-            https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/
-        - title: 'DPReview forums: Thoughts on Gitzo Mini Traveler Tabletop Tripod'
-          url: >-
-            https://www.dpreview.com/forums/threads/thoughts-on-gitzo-mini-traveler-tabletop-tripod.4566154/
-        - title: 'The Phoblographer: Gitzo Mini Traveler review'
-          url: >-
-            https://www.thephoblographer.com/2020/07/16/review-gitzo-mini-traveler-tripod-for-when-you-have-to-get-real-low/
-    asin: B07L2WSYB3
-    amazonTitle: Gitzo Mini Traveler Tabletop Tripod (Black)
-    asinVerified: true
   - name: Benro TablePod Tripod Kit
     brand: Benro
     query: Benro TablePod Tripod Kit carbon fiber
@@ -442,11 +374,8 @@ products:
         - title: 'r/fujifilm: Manfrotto Pixi Evo, fit X-T5?'
           url: >-
             https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/
-    asin: B0149KBPB4
-    amazonTitle: >-
-      Manfrotto MTPIXIEVO-BK, PIXI EVO 2-Section Mini Tripod for Mirrorless
-      Cameras, Compact System Cameras, DSLR, Video, Compact Size, Aluminum,
-      Black
+    asin: B0152X16XO
+    amazonTitle: 'Manfrotto PIXI EVO 2-Section Mini Tripod, Black'
     asinVerified: true
 sources:
   - title: Leica Q3 technical data (PDF)
@@ -463,8 +392,6 @@ sources:
   - title: 'Gitzo: Traveler kit series 1 GK1545T-82TQD'
     url: >-
       https://www.gitzo.com/ca-en/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/
-  - title: 'Gitzo: Mini Traveler Tripod Kit Black'
-    url: 'https://www.gitzo.com/us-en/gitzo-mini-traveler-tripod-kit-black1-gktbb1/'
   - title: 'B&H: Peak Design Carbon Fiber Travel Tripod'
     url: >-
       https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html
@@ -493,8 +420,8 @@ faqs:
     a: >-
       For most owners it is the Peak Design Travel Tripod (Carbon Fiber): 2.8
       lb, 15.5 in folded, 51.25 in tall with the center column down and rated to
-      20 lb. For city trips where a full-size tripod stays in the bag, the Gitzo
-      Mini Traveler tabletop tripod is the better fit.
+      20 lb. For city trips where a full-size tripod stays in the bag, the Benro
+      TablePod tabletop tripod is the better fit.
   - q: Do I need a heavy tripod for a Leica Q3?
     a: >-
       No. Leica lists the Q3 at about 743 g with its battery, and even the
@@ -521,34 +448,33 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-leica-q3.png
 heroAlt: >-
-  Best Tripod for Leica Q3 (2026) – 6 Picks, Full-Size to Pocket Mini – Best
+  Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Pocket Mini – Best
   Tripod buying guide
 ---
 
-Blue hour in a cobbled square, a Q3 around your neck, and the shot needs a second of exposure you can't hold by hand. The best tripod for Leica Q3 owners is the one you will actually carry: for most people the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for city days a tabletop tripod such as the Gitzo Mini Traveler. I matched six tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica. We have not used these tripods ourselves.
+Blue hour in a cobbled square, a Q3 around your neck, and the shot needs a second of exposure you can't hold by hand. The best tripod for Leica Q3 owners is the one you will actually carry: for most people the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for city days a tabletop tripod such as the [Benro TablePod](amzn:Benro+TablePod+Tripod+Kit+carbon+fiber). I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica. We have not used these tripods ourselves.
 
 ## Best tripod for Leica Q3 picks at a glance
 
 **A Q3 needs a light tripod with a firm head: carbon travel legs for landscapes and long exposures, a tabletop tripod for city travel.** Shooting a bigger mirrorless kit too? See our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/).
 
-This table compares the six on the numbers that matter for a Q3:
+This table compares the five on the numbers that matter for a Q3:
 
 | Tripod | Weight | Folded | Height, column down | Max height | Rated load |
 |---|---|---|---|---|---|
 | Peak Design Travel (Carbon) | 2.8 lb | 15.5 in | 51.25 in | 60 in | 20 lb |
 | SIRUI Traveler 5C | 1.87 lb | 13 in | Not published | 54.3 in | 8.8 lb |
 | Gitzo GK1545T-82TQD kit | 3.2 lb | 16.73 in | 55.31 in | 64.37 in | 22 lb |
-| Gitzo Mini Traveler | 0.58 lb | 8.66 in | n/a | 6.89 in | 6.61 lb |
 | Benro TablePod Kit | 8.8 oz | 8.7 in | n/a | 8.8 in | 6.6 lb |
 | Manfrotto PIXI EVO | 0.57 lb | 8.07 in | n/a | 7.87 in | 5.5 lb |
 
 ## How I picked these Leica Q3 tripods
 
-**I kept only tripods that at least two top-ranking pages for this search recommend, with a clear Amazon US listing.** Most were Leica owners: two Leica Forum threads, r/Leica, a Leica Facebook group and Leica's own Gitzo page, plus ErickPHOTO, Oberwerth and Pack Hacker. The often-named Leica Table Tripod had no in-stock US Amazon listing.
+**I kept only tripods that at least two top-ranking pages for this search recommend, with a clear Amazon US listing.** Most were Leica owners: two Leica Forum threads, r/Leica, a Leica Facebook group and Leica's own Gitzo page, plus ErickPHOTO, Oberwerth and Pack Hacker. The often-named Leica Table Tripod and the Gitzo Mini Traveler, which several Leica Forum owners also like, had no in-stock US Amazon listing when I checked.
 
-> **From our notes:** The 743 g weight on Leica's Q3 spec sheet changed how I ranked these six. I expected load ratings to sort the list, but the smallest rating here, the PIXI EVO's 2.5 kg, is still more than three times the camera. So I stopped comparing loads and compared what owners actually complained about: heads that would not hold a tilt, tripods banned at the sights they came to shoot, and full-size legs left in the hotel. That's why three of the six picks are tabletop tripods.
+> **From our notes:** The 743 g weight on Leica's Q3 spec sheet changed how I ranked these five. I expected load ratings to sort the list, but the smallest rating here, the PIXI EVO's 2.5 kg, is still more than three times the camera. So I stopped comparing loads and compared what owners actually complained about: heads that would not hold a tilt, tripods banned at the sights they came to shoot, and full-size legs left in the hotel. That's why two of the five picks are tabletop tripods.
 
-## The 6 best tripods for the Leica Q3, reviewed
+## The 5 best tripods for the Leica Q3, reviewed
 
 **Each pick suits a different way of traveling with a Q3, so start from where you shoot most.** The video below from Leica Camera Australia shows the Peak Design.
 
@@ -563,10 +489,6 @@ My pick for one-bag travel is the [SIRUI Traveler 5C](amzn:Sirui+Traveler+5C+car
 ### Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD): most rigid travel kit
 
 Leica lists the [Gitzo GK1545T-82TQD kit](amzn:Gitzo+GK1545T-82TQD+Series+1+Traveler+carbon+fiber+tripod+kit) on its own Gitzo page, where the legs are [recommended for 135mm lenses](https://leica-camera.com/en-int/gitzo-tripods), so a 28mm Q3 is easy work. Gitzo lists 3.2 lb with the head, 16.73 in folded and 55.31 in with the column down. Four carbon sections mean fewer joints than the five-section picks, which helps ND-filter exposures. The head has an independent pan lock and an Arca-Swiss compatible plate but no friction knob. FujiX-Forum owners praise its weight, size and stability ratio; a Leica Forum member sums up the price trade-off as "Light, rigid, cheap - pick any two".
-
-### Gitzo Mini Traveler Tabletop Tripod: best tabletop tripod
-
-This is the mini Q2 and Q3 owners name most on the Leica Forum. Gitzo rates its spider and head to [3 kg fully splayed](https://www.gitzo.com/us-en/gitzo-mini-traveler-tripod-kit-black1-gktbb1/), about four times a Q3, at 265 g and 8.66 in closed. A Q2 owner who tried GorillaPod and Manfrotto minis says the [Gitzo Mini Traveler](amzn:Gitzo+Mini+Traveler+Tabletop+Tripod+Black) is "by far the best for stability and build quality", and a DPReview owner says its ball head locks with no creep. Another member likes that the head has no side lever to catch on a pocket. It tops out at 6.89 in with two leg angles, and a Phoblographer review found the head plate can work loose, so check that screw.
 
 ### Benro TablePod Tripod Kit: best adjustable tabletop
 
@@ -585,7 +507,7 @@ Headroom each rating gives a Q3:
 - Gitzo kit (10 kg): about 13 times.
 - Peak Design (9.1 kg): about 12 times.
 - SIRUI Traveler 5C (4 kg): about 5 times.
-- Gitzo Mini and Benro TablePod (3 kg): about 4 times.
+- Benro TablePod (3 kg): about 4 times.
 - PIXI EVO (2.5 kg): about 3.4 times.
 
 Height matters more. The Q3's tilting touchscreen lets you compose from chest height, so 51.25 in (Peak Design) or 55.31 in (Gitzo) with the column down covers most scenes. Keeping the column down, as our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains, is the easiest stability gain.
@@ -596,7 +518,7 @@ Height matters more. The Q3's tilting touchscreen lets you compose from chest he
 
 - **Tripods aren't welcome everywhere.** One Leica Forum traveler warns: "You may not be able to use a tripod in museums, churches and other popular sites without advance permission." Use a tabletop tripod on a ledge with the self-timer or the Leica FOTOS app, which fires the Q3 remotely.
 - **Full-size legs feel like overkill on holiday.** The same member "would hate to lug around a full-size tripod on vacation unless traveling by car." Carry a tabletop daily and bring the SIRUI for planned blue-hour shots.
-- **Mini heads slip at a tilt.** Choose a firm ball lock like the Gitzo Mini's, and see our fix for a [ball head that sags after tightening](/blog/ball-head-sags-after-tightening/).
+- **Mini heads slip at a tilt.** Lock the head at your usual angle while you can still return it, and see our fix for a [ball head that sags after tightening](/blog/ball-head-sags-after-tightening/).
 - **Bendy legs wear out.** One Leica Forum member says "All my gorilla pods broke after a couple of uses"; our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the trade.
 - **Travel heads lack friction control.** The Gitzo kit's head has no friction knob and the Peak Design's single ring both adjusts and locks, so lock the ball fully before you let go.
 
@@ -604,7 +526,7 @@ Height matters more. The Q3's tilting touchscreen lets you compose from chest he
 
 **Choose by where you shoot, because the Q3 never strains any of these tripods.**
 
-1. City trips, cafes and museums: Gitzo Mini Traveler, or the Benro TablePod for uneven surfaces.
+1. City trips, cafes and museums: Benro TablePod, whose legs also level on uneven walls.
 2. One-bag travel with occasional blue hour: SIRUI Traveler 5C.
 3. Landscapes and long exposures: Peak Design carbon, or the Gitzo kit if stiffness matters most.
 4. A cheap backup in the bag: Manfrotto PIXI EVO.

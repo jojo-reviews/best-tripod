@@ -388,14 +388,6 @@
       "note": "Leica lists this exact kit; Leica Forum recommends the Gitzo Traveler range; Facebook snippet says Gitzos are great tripods."
     },
     {
-      "name": "Gitzo Mini Traveler",
-      "pages": [
-        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
-        "https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
-      ],
-      "note": "Named by several Q2/Q3 owners in both Leica Forum threads."
-    },
-    {
       "name": "Benro TablePod",
       "pages": [
         "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
@@ -409,7 +401,7 @@
         "https://www.packhacker.com/blog/general/best-travel-tripod/",
         "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
       ],
-      "note": "Pack Hacker names the PIXI EVO; the Leica Forum Q3 thread recommends the PIXI line (original PIXI), with one owner reporting head slippage on two samples."
+      "note": "Pack Hacker names the PIXI EVO; the Leica Forum Q3 thread recommends the PIXI line (original PIXI), with one owner reporting head slippage on two samples. 2026-10-28: ASIN switched to B0152X16XO (same model, sold by Amazon, in stock) because the Creators API did not return B0149KBPB4."
     }
   ],
   "painPoints": [
@@ -568,5 +560,12 @@
     "leica q3 43 tripod",
     "leica q3 mini tripod"
   ],
-  "angle": "Q3-specific: load headroom against a 743 g fixed-lens compact, full-size vs tabletop by where you shoot, Leica Forum and r/Leica owner reports."
+  "angle": "Q3-specific: load headroom against a 743 g fixed-lens compact, full-size vs tabletop by where you shoot, Leica Forum and r/Leica owner reports.",
+  "productChanges": [
+    {
+      "date": "2026-10-28",
+      "removed": "Gitzo Mini Traveler Tabletop Tripod (B07L2WSYB3)",
+      "reason": "No buy box on Amazon US (Gitzo US out of stock); the only in-stock Amazon listing is the Noir Decor variant, a different finish. No other tabletop tripod is recommended by 2+ top-10 pages with an in-stock Amazon US listing (checked Leica Table Tripod, Manfrotto PIXI Mini, Platypod, Joby, Pedco), so productCount went from 6 to 5."
+    }
+  ]
 }

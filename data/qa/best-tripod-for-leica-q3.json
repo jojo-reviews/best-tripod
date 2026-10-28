@@ -1,25 +1,19 @@
 {
   "slug": "best-tripod-for-leica-q3",
   "pass": true,
-  "checkedAt": "2026-10-28T10:37:47.779Z",
+  "checkedAt": "2026-10-28T15:04:39.067Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Gitzo Mini Traveler Tabletop Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro TablePod Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1642288-REG/benro_tablepodkit_tablepod_kit_with_camera.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
-    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-28 via Firecrawl: Leica Q3 743 g with battery and 1/4 in DIN 4503 thread (Leica Q3 technical data PDF and instructions), Q3 43 772 g (Leica spec page), Q2 734 g (Leica Q2 press info), Q3 tilting touchscreen (Leica press release), remote shooting via Leica FOTOS (Q3 instructions). Peak Design carbon: 2.8 lb, 15.5 in folded, 60 in max, 5.5 in min, 20 lb, 5 sections, aluminum cam locks, single adjustment/locking ring, Arca-type plate (B&H page meta); 51.25 in / 130.2 cm column down (dealer spec tables 152.4-130.2-14 cm). SIRUI Traveler 5C: 0.85 kg/1.87 lb, 138 cm/54.3 in, 16 cm min, 33 cm/13 in folded, 4 kg/8.8 lb, 5 sections (SIRUI store); Arca plate per Amazon listing B07KD181B3; twist locks and weight hook (First Quadcopter). Gitzo GK1545T-82TQD: 1.45 kg, 163.5 cm max, 140.5 cm column down, 32.4 cm min, 42.5 cm closed, 10 kg safety payload, 4 sections twist lock, GS5370SD Arca plate, independent pan lock, no friction control (gitzo.com ca-en kit page); 135mm (200mm max) recommendation (leica-camera.com Gitzo page). Gitzo Mini Traveler: 265 g, 17.5 cm max, 12.5 cm min, 22 cm closed, 3 kg safety payload fully splayed, leg angles 50/75 deg, carbon legs + aluminium head, 1/4 in top, no QR (gitzo.com GKTBB1 page). Benro TablePod Kit: 6.6 lb, 8.8 in max, 3.5 in min, 8.7 in folded, carbon legs, three leg settings, FS20 Arca-type head, 8.8 oz (B&H); ASIN B093LW82KS. Manfrotto PIXI EVO: 7.7 in max/2.4 in min/5.5 lb/9.4 oz (B&H), 7.87 in and 8.07 in folded, 0.57 lb (Pack Hacker/Manfrotto). Owner quotes checked verbatim on the Leica Forum threads 386731 and 399441, FujiX-Forum, Pack Hacker; r/Leica and r/fujifilm lines via search excerpts. ASINs checked on Amazon US product data: B085BQTQMN, B07KD181B3, B071F31XLR, B07L2WSYB3 (third-party offers only), B093LW82KS, B0149KBPB4. Leica Table Tripod left out: no in-stock US Amazon listing (B0000AGAWB unavailable).",
-    "at": "2026-10-28T10:34:35.519Z",
-    "hash": "05f15cfdf199125c"
+    "notes": "Re-verified 2026-10-28 15:00 UTC via Firecrawl Amazon data: Gitzo Mini Traveler B07L2WSYB3 has no buy box (see all buying options only); the only in-stock Amazon Mini Traveler listing is the Noir Decor variant B07VXKRW16 (different finish), so the product was removed and productCount set 6->5 (title, seoTitle, description, tldr, FAQ, table, headroom list, decision list and hero image updated). No replacement tabletop qualified: Leica Table Tripod, Manfrotto PIXI Mini, Platypod, Joby and Pedco are each named by only one top-10 page or have no in-stock Amazon US listing. Manfrotto PIXI EVO: ASIN B0149KBPB4 (third-party offer) swapped to B0152X16XO 'Manfrotto PIXI EVO 2-Section Mini Tripod, Black', same model, In Stock, featured offer sold by Amazon. Remaining ASINs unchanged: B085BQTQMN, B07KD181B3, B071F31XLR, B093LW82KS. All earlier spec checks stand: Leica Q3 743 g, Q3 43 772 g, Q2 734 g; Peak Design 2.8 lb/15.5 in/51.25 in/60 in/20 lb; SIRUI 5C 1.87 lb/13 in/54.3 in/8.8 lb; Gitzo GK1545T-82TQD 3.2 lb/16.73 in/55.31 in/64.37 in/22 lb; Benro TablePod 8.8 oz/8.7 in/3.5-8.8 in/6.6 lb/FS20 Arca head (B&H); PIXI EVO 0.57 lb/8.07 in/7.87 in/2.5 kg.",
+    "at": "2026-10-28T15:04:38.678Z",
+    "hash": "02d40e7e1050316b"
   }
 }

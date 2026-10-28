@@ -48,6 +48,9 @@ export async function refreshAmazon() {
   const asins = [...new Set(posts.flatMap((p) => p.data.products.map((x) => x.asin).filter(Boolean)))];
   const live = new Map((asins.length ? await getItems(asins) : []).map((i) => [i.asin, i]));
   log(AGENT, `refreshed ${live.size}/${asins.length} ASINs`);
+  // Name the ASINs Amazon did not return (unavailable / no buy box): their products show no photo.
+  const missing = asins.filter((a) => !live.has(a));
+  if (missing.length) log(AGENT, `not returned by Amazon: ${missing.join(', ')}`);
 
   let changed = 0;
   for (const post of posts) {
