@@ -1,13 +1,15 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-10-28T10:33:17.149Z",
+  "checkedAt": "2026-10-28T10:38:19.453Z",
   "errors": [],
   "warnings": [
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron TrailSeeker Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
   ],
   "factCheck": {
     "verified": true,

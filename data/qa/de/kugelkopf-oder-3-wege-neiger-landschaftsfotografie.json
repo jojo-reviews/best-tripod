@@ -3,10 +3,10 @@
   "lang": "de",
   "translationOf": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-27T13:45:00.660Z",
+  "checkedAt": "2026-10-28T10:40:39.413Z",
   "errors": [],
   "warnings": [
-    "source didn't respond normally (no response): https://castlecameras.co.uk/sirui-k-30x-ball-head/p2327"
+    "source didn't respond normally (403): https://parkcameras.com/p/6375994W/tripod-heads/benro/gd3wh-precision-geared-tripod-head"
   ],
   "factCheck": {
     "verified": true,
