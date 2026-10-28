@@ -112,7 +112,8 @@ function writeQa(slug, report) {
 async function urlOk(url) {
   try {
     let res = await fetch(url, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(15000) });
-    if (res.status === 405 || res.status === 403) res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(15000) });
+    // Some sites answer HEAD with 403/404/405 but serve the page to a GET (e.g. What to Expect, 2026-10-28).
+    if ([403, 404, 405].includes(res.status)) res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(15000) });
     return res.status;
   } catch {
     return 0;
