@@ -1,17 +1,16 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-27T13:42:18.892Z",
+  "checkedAt": "2026-10-28T14:46:57.421Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: 0 FAQs (need 3-8)",
     "LIVE POST, FIX: 0 sources (need at least 2)",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
-    "only 32 first-person words; owner rule wants at least 62 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 33 first-person words; owner rule wants at least 62 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Carbon Fiber); Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH); Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH); Benro Rhino Carbon Fiber Zero Series Travel Tripod with VX20 Head (FRHN05CVX20); Benro Slim Aluminum Travel Tripod Kit (FSL09AN00); Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head; Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 6303 words, over the 3105 limit (top results average 2700): cut repetition and filler",
+    "body has 6314 words, over the 3105 limit (top results average 2700): cut repetition and filler",
     "a sentence repeats an earlier one almost word for word: \"For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb\"",
     "features 8 products; the plan for this post was 15",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -28,8 +27,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Trim (tighten mode) re-verified with Firecrawl maxAge 0: Peak Design carbon (Glazer's: 20 lb, 15.5 in fold, 60/51.25 in, 5.5 in min); Befree Advanced lever (Manfrotto/Syntex: 9 kg safety payload per UNI/PdR 105:2021, 128 cm column down, 151 cm max, 1.59 kg, 40 cm) - fixed 8 kg to 9 kg and 150 to 151 cm; Travis 2.0 (3LT: 18/12/8 kg at 23/55/80 deg, 1.66 m, 1.36 m / 53.7 in no column, 45.7 cm) - fixed 53.5 to 53.7 in; Vanguard VEO 3 GO 235CB (Clifton spec PDF: 1.1 kg, 33 cm, 136/106 cm, 4 kg, ballast hook); Sirui 7C/7A store (48 cm, 8 kg, 7A 4.16 lb); Gitzo GT1555T (Wex: 1030 g, 35.5 cm, 138 cm, 10 kg); K&F KF09.101 (K&F spec table: 1.6 m/63 in, 39 cm, 1.24 kg, 8 kg, flip lock) - fixed 163 cm/64 in to about 160 cm/63 in; new: TSA tripods page (carry-on and checked yes, officer final say), Sony help guide (turn SteadyShot off on a tripod). Other product facts unchanged from prior check, only shortened.",
-    "at": "2026-10-22T10:28:37.078Z",
-    "hash": "4f02e71fea2d1980"
+    "notes": "added one internal link to best-tripod-for-leica-q3, no claim changed",
+    "at": "2026-10-28T14:46:56.657Z",
+    "hash": "8b26d416ef332c3c"
   }
 }

@@ -302,7 +302,7 @@ That drag is what a scope user notices at 60x: the view glides instead of jumpin
 
 ## Load capacity: do the weight math before you buy
 
-**A tripod for spotting scope work needs a load rating well above the scope, head and anything on the eyepiece combined.** Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor.
+**A tripod for spotting scope work needs a load rating well above the scope, head and anything on the eyepiece combined.** Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor; the same holds when you choose a [tripod for a telescope](/blog/best-tripod-for-telescope/).
 
 > **From our notes:** When we lined up the spec sheets, the two most recommended items looked like an obvious kit for a spotting scope. Then we added the numbers. Vortex lists the Razor HD 27-60x85 at 65.6 oz, about 1.86 kg. The MVH502AH weighs 1.691 kg. Together that is roughly 3.55 kg before a phone adapter, already past the CF-634's 3 kg rating. That is why this guide splits them into two setups: light legs and a light head for a mid-size scope you carry, and the heavy fluid head on stronger legs for an 85mm.
 

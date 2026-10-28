@@ -375,7 +375,7 @@ The roller bag is open on the hotel bed, the camera cube is packed, and the trip
 
 ## Quick answer: the best tripod that fits in carry-on luggage
 
-**For most mirrorless travelers, the best tripod that fits in carry-on luggage is the 13 in, 1.87 lb SIRUI Traveler 5C; pick the 15.4 in Peak Design Travel Tripod (Carbon Fiber) if you fly with a full-frame body and a telephoto.** The third pick is a pocket tripod for the lightest bags.
+**For most mirrorless travelers, the best tripod that fits in carry-on luggage is the 13 in, 1.87 lb SIRUI Traveler 5C; pick the 15.4 in Peak Design Travel Tripod (Carbon Fiber) if you fly with a full-frame body and a telephoto.** The third pick is a pocket tripod for the lightest bags, a type we also compare in our [Leica Q3 tripod picks](/blog/best-tripod-for-leica-q3/).
 
 Here are our three picks, shortest full-height fold first:
 

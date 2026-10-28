@@ -566,12 +566,14 @@
     {
       "slug": "best-tripod-for-spotting-scope",
       "find": "Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor.",
-      "replace": "Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor; the same holds when you choose a [tripod for a telescope](/blog/best-tripod-for-telescope/)."
+      "replace": "Ratings are the maker's maximum, not a comfortable working load, and a scope at 60x shows every tremor; the same holds when you choose a [tripod for a telescope](/blog/best-tripod-for-telescope/).",
+      "appliedAt": "2026-10-28T14:46:59.338Z"
     },
     {
       "slug": "binocular-tripod-adapter",
       "find": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope.",
-      "replace": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/))."
+      "replace": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)).",
+      "appliedAt": "2026-10-28T14:47:00.120Z"
     }
   ]
 }

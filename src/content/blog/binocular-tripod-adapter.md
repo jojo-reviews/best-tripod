@@ -268,7 +268,7 @@ heroAlt: >-
   Best Tripod guide
 ---
 
-A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope. **Check for a threaded socket under the front hinge cap first, because that decides between a stud adapter and a clamp.** For a threaded binocular, the [Field Optics Research Gen 2](amzn:Field+Optics+Research+Rapid+Release+Binocular+Tripod+Adapter) is the locking stud pick; for a binocular with no thread, the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter) is the pick.
+A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)). **Check for a threaded socket under the front hinge cap first, because that decides between a stud adapter and a clamp.** For a threaded binocular, the [Field Optics Research Gen 2](amzn:Field+Optics+Research+Rapid+Release+Binocular+Tripod+Adapter) is the locking stud pick; for a binocular with no thread, the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter) is the pick.
 
 ## Check your binocular first – socket or no socket
 

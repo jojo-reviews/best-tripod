@@ -1089,7 +1089,7 @@ related:
   - best-hiking-tripod
 ---
 
-The best travel tripod for mirrorless camera kits holds your body and lens with headroom, reaches a usable height with the center column down, and fits your bag. For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb rated load, a 15.5-inch fold and 51.25 inches with the column down. For a small APS-C kit the Sirui Traveler 5C saves weight, and for heavy telephotos we'd pick the 3 Legged Thing Punks Travis 2.0.
+The best travel tripod for mirrorless camera kits holds your body and lens with headroom, reaches a usable height with the center column down, and fits your bag. For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb rated load, a 15.5-inch fold and 51.25 inches with the column down. For a small APS-C kit the Sirui Traveler 5C saves weight, and for heavy telephotos we'd pick the 3 Legged Thing Punks Travis 2.0 (fixed-lens shooters can see our [tripods for the Leica Q3](/blog/best-tripod-for-leica-q3/)).
 
 ## Our Top Picks: The Best Travel Tripod for Mirrorless Camera Kits
 

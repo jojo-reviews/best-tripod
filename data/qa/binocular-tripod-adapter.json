@@ -1,26 +1,19 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-10-27T13:43:15.129Z",
+  "checkedAt": "2026-10-28T14:47:00.096Z",
   "errors": [],
   "warnings": [
-    "only 11 first-person words; owner rule wants at least 12 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2; Aziak Equipment Bino Clamp",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Field Optics Research Rapid-Release Binocular Tripod Adapter Gen 2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/3-tripod-adapters-for-the-nl-pure.403184/",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/binocular-tripod-adapters.402580/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/best-backcountry-bino-mount.369491/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/field-optics-research-rapid-release-binocular-tripod-adapter-gen-2.166695/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified: wording-only edit to research disclaimer; all claims checked against Backwoods Pursuit, FOR Gen 2 and Aziak maker pages, three Rokslide threads, BirdForum NL Pure thread. Amazon US: FOR Gen 2 and Aziak listings exist; Outdoorsmans and RRS Cinch-LR have none and were removed; guide, productCount 2.",
-    "at": "2026-10-20T13:40:04.394Z",
-    "hash": "378ff4bfe29f2f65"
+    "notes": "added one internal link to best-tripod-for-telescope, no claim changed",
+    "at": "2026-10-28T14:46:59.639Z",
+    "hash": "b9323ce61ef22f55"
   }
 }
