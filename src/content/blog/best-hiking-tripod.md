@@ -343,7 +343,7 @@ products:
         - title: Pack Hacker Manfrotto PIXI EVO review
           url: >-
             https://www.packhacker.com/travel-gear/manfrotto/pixi-evo-2-section-mini-tripod/
-    asin: B0149KBPB4
+    asin: B0152X16XO
     amazonTitle: >-
       Manfrotto MTPIXIEVO-BK, PIXI EVO 2-Section Mini Tripod for Mirrorless
       Cameras, Compact System Cameras, DSLR, Video, Compact Size, Aluminum,

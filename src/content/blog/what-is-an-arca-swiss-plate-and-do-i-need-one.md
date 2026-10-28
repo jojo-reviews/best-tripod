@@ -28,7 +28,7 @@ entities:
   - Manfrotto RC2
   - ball head
   - SmallRig 2146B
-  - SIRUI QC-55
+  - Harwerrel QR-50S
 tags:
   - arca-swiss
   - quick release plates
@@ -171,65 +171,66 @@ products:
           url: >-
             https://neewer.com/products/neewer-qpr-5c-2-pack-38mm-anti-off-arca-type-quick-release-plate-66608627
           reviews: 17
-  - name: SIRUI QC-55 Quick Release Plate and Clamp
-    brand: SIRUI
-    query: SIRUI QC-55 Quick Release Plate and Clamp
-    matchName: SIRUI QC-55 Quick Release Plate and Clamp
-    asin: B0DB5RWZTL
+  - name: Harwerrel Aluminium 50mm Quick Release Clamp QR-50S
+    brand: Harwerrel
+    query: Harwerrel Aluminium 50mm Quick Release Plate QR Clamp Arca-Swiss
+    matchName: Harwerrel Aluminium 50mm Quick Release Clamp
+    asin: B071LDM42V
     asinVerified: true
     amazonTitle: >-
-      SIRUI QC-55 Quick Release Plate and Clamp, 55mm Camera Mount Adapter |
-      1/4" & 3/8" Threads, Tripod, Monopod, DSLR, Stabilizer, Quick Release
-      Mount, Camera Rig Compatible
+      Harwerrel Aluminium 50mm Quick Release Plate QR Clamp Fits Arca-Swiss
+      Standard for Tripod Ballhead
     badge: Best clamp to add Arca to any support
     summary: >-
-      A lever-lock Arca-type clamp with a matching plate that screws onto any
-      tripod, monopod or slider with a 1/4"-20 or 3/8"-16 stud, turning it into
-      an Arca system.
+      I picked this 50 mm screw-knob Arca clamp because it turns a bare tripod
+      stud or a non-Arca head into an Arca mount for very little money, and its
+      jaws open wide enough for plates from 38 to 42 mm.
     renterNote: >-
-      Anyone whose tripod, monopod or video support has a bare screw or a
-      proprietary plate and who wants Arca on top; it won't take Manfrotto-style
-      plates, and the lever takes some initial adjustment.
+      Anyone whose tripod, monopod or slider has a bare screw or a proprietary
+      plate and who wants Arca on top; it is a clamp only, so pair it with an
+      Arca plate such as the two above, and some odd-sized plates need filing
+      to fit.
     pros:
-      - Rated for 15 kg (33.1 lb) per B&H
-      - Lever lock with adjustable tension and a bubble level
-      - 1/4"-20 and 3/8"-16 threads underneath
+      - Screw-knob jaws take plates from 38 to 42 mm wide
+      - Three built-in bubble levels
+      - Anodized aluminum with a secondary anti-slip lock
     cons:
-      - Not compatible with Manfrotto-style plates (B&H Q&A)
-      - 'Lever tension takes some fiddling to set at first, one owner reports'
-      - Adds about 130 g and some height on top of your head
+      - 'Clamp only, no plate in the box'
+      - >-
+        Some owners had to file oversized plates down before they fit, and the
+        base screw is fixed and needs an Allen key
+      - No published load rating
     specs:
-      Type: Lever-lock Arca-type clamp plus plate
-      Clamp size: 55 mm
-      Weight: 130 g (4.6 oz)
-      Load capacity: 15 kg (33.1 lb)
-      Material: Aluminum
-      Mounting threads: '3/8"-16 and 1/4"-20 female (clamp), 1/4"-20 male (plate)'
+      Type: Screw-knob Arca-type clamp
+      Clamp length: 50 mm (1.97 in)
+      Accepts plates: 38-42 mm wide
+      Size: 78 x 50 x 20 mm (3.1 x 2.0 x 0.8 in)
+      Bubble levels: '3'
+      Material: Anodized aluminum
     scores:
-      stability: 8
-      portability: 8
+      stability: 7
+      portability: 9
       build: 8
-      value: 8
+      value: 10
     scoreNote: >-
-      A high load rating and a lever lock make it a solid Arca conversion; lever
-      clamps are fussier about plate width than knob clamps.
+      I rate it highly for value and fit: a knob clamp forgives small plate
+      differences, but there is no load rating and no plate included.
     owners:
-      read: 11
+      read: 23
       praise:
-        - Solid metal build and firm clamping force
-        - Adjustable jaw tension with a built-in wrench
-        - Good value next to proprietary quick-release systems
+        - Clean machining and solid all-metal build for the price
+        - Large knob that turns smoothly and locks firmly
+        - The bubble levels and a quick way to add Arca to a plain tripod
       complaints:
-        - Takes some adjustment to get the lever tension right at first
+        - Some wider or square plates had to be filed down to fit
+        - The base screw cannot be removed and needs an Allen key
       sources:
-        - title: 'B&H: Sirui QC-55 Quick Release Clamp (specs and Q&A)'
+        - title: 'Markus Hagner Photography: Harwerrel 50mm clamp (owner feedback summary)'
           url: >-
-            https://www.bhphotovideo.com/c/product/1826524-REG/sirui_qc_55_quick_release_clamp.html
-          reviews: 1
-        - title: 'SIRUI Official Store: QC-55 Arca Quick Release Plate Kit'
+            https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
+        - title: 'Lynn Barsigian Photography: Harwerrel QR-50S clamp (owner feedback summary)'
           url: >-
-            https://store.sirui.com/products/sirui-arca-quick-release-plate-kit-for-tripod-monopod-qc-55
-          reviews: 86
+            https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
 sources:
   - title: 'ARCA-SWISS USA: Quick Release (history, 38 mm dovetail, safety pins)'
     url: 'https://arca-swiss-usa.com/pages/quick-release'
@@ -244,9 +245,12 @@ sources:
   - title: 'NEEWER: QPR-5C 2 Pack 38mm Arca Type Quick Release Plate'
     url: >-
       https://neewer.com/products/neewer-qpr-5c-2-pack-38mm-anti-off-arca-type-quick-release-plate-66608627
-  - title: 'B&H: Sirui QC-55 Quick Release Clamp'
+  - title: 'Markus Hagner Photography: Best Arca-Swiss Compatible Quick Release Plates and Clamps'
     url: >-
-      https://www.bhphotovideo.com/c/product/1826524-REG/sirui_qc_55_quick_release_clamp.html
+      https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
+  - title: 'Lynn Barsigian Photography: Best Arca Swiss Quick Release Plates and Clamps'
+    url: >-
+      https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
   - title: 'DSLR Video Shooter: Arca Swiss Plates, Goodbye Manfrotto'
     url: 'https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/'
 reviewedDate: 2026-10-18
@@ -326,7 +330,7 @@ Check the head first. Many ball heads for stills photography ship with an Arca-t
 - You shoot mostly handheld and use a tripod a few times a year.
 - Your head came with a plate that already fits and you are happy with it.
 
-If you want Arca on a tripod that doesn't have it, an adapter clamp like the SIRUI QC-55 below screws on top of the existing head or a bare stud. Our comparison of [ball heads vs pan-tilt heads for landscape photography](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) notes which heads use Arca and which use proprietary plates.
+If you want Arca on a tripod that doesn't have it, an adapter clamp like the Harwerrel QR-50S below mounts on top of the existing head or a bare stud. Our comparison of [ball heads vs pan-tilt heads for landscape photography](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) notes which heads use Arca and which use proprietary plates.
 
 ## Is Arca-Swiss a Standard Size? Dimensions and Compatibility
 
@@ -336,7 +340,7 @@ Arca-Swiss lists 38 mm for its classic camera plates, and it also uses a narrowe
 
 ### Why lever clamps are pickier
 
-A screw-knob clamp closes until it meets the plate, so a plate that is a fraction of a millimeter narrow or wide still locks. A lever clamp snaps to one preset width. If the plate is slightly narrow, it can rattle; if it is slightly wide, the lever won't close. That is why good lever clamps, the QC-55 included, have a tension screw you can adjust. When readers ask us which clamp to buy for mixed plates, we usually say a screw knob.
+A screw-knob clamp closes until it meets the plate, so a plate that is a fraction of a millimeter narrow or wide still locks. A lever clamp snaps to one preset width. If the plate is slightly narrow, it can rattle; if it is slightly wide, the lever won't close. That is why good lever clamps have a tension screw you can adjust. When readers ask us which clamp to buy for mixed plates, we usually say a screw knob, like the Harwerrel below.
 
 ### Arca-Swiss vs Manfrotto RC2 and other proprietary plates
 
@@ -348,7 +352,7 @@ The table below compares an Arca-Swiss plate with the two Manfrotto systems we s
 | Manfrotto RC2 | Clicks into a matching receiver | No | No |
 | Manfrotto 200PL | Clicks into a matching receiver | No | No |
 
-So, is Arca-Swiss compatible with Manfrotto? Not directly. Some plates are cut to fit both; the Manfrotto Element MII travel kit, for example, ships with a plate listed as Arca-type and RC2 compatible, as does the Befree Advanced kit in our [Peak Design Travel Tripod vs Befree comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/). A plain RC2 receiver still will not take a standard Arca plate. B&H's Q&A for the QC-55, for example, confirms it does not accept Manfrotto-style plates.
+So, is Arca-Swiss compatible with Manfrotto? Not directly. Some plates are cut to fit both; the Manfrotto Element MII travel kit, for example, ships with a plate listed as Arca-type and RC2 compatible, as does the Befree Advanced kit in our [Peak Design Travel Tripod vs Befree comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/). A plain RC2 receiver still will not take a standard Arca plate, and an Arca clamp will not take a plain RC2 plate.
 
 ## Types of Arca-Swiss Plates
 
@@ -380,11 +384,11 @@ The [SmallRig Quick Release Plate for Arca Swiss 2146B](amzn:SmallRig+Quick+Rele
 
 For small, light setups, the [NEEWER QPR-5C 2 Pack Quick Release Plate](amzn:NEEWER+QPR-5C+2+Pack+Quick+Release+Plate+Arca) is the clever option. Each square plate measures 38 x 38 mm, weighs 19 g and has Arca-type slots on all four sides, per Neewer. That means you can clamp a compact camera, an action cam or a flash in landscape or portrait without moving the plate. Neewer rates it for 8 kg (17.6 lb) and says it fits Arca 38 mm clamps and strap clips. It also says it is not compatible with Ulanzi Falcam F38 or DJI gimbal mounts. Owners like the machining and the value of a two-pack. One owner mentions having to tighten the single screw hard to stop wobble, and another found the screw soft enough to strip with frequent removal. With no room to slide, this plate is for small kits, not long lenses.
 
-### SIRUI QC-55 Quick Release Plate and Clamp: Best clamp to add Arca to any support
+### Harwerrel Aluminium 50mm Quick Release Clamp QR-50S: Best clamp to add Arca to any support
 
-If your support has no Arca clamp at all, the [SIRUI QC-55 Quick Release Plate and Clamp](amzn:SIRUI+QC-55+Quick+Release+Plate+and+Clamp) solves it in one box. This 55 mm lever clamp threads onto a 3/8"-16 or 1/4"-20 stud, and a matching Arca plate goes on the camera. B&H lists a 15 kg (33.1 lb) rating, 130 g weight, aluminum construction, a bubble level and a lever lock. That rating leaves margin for a full-frame body with a 70-200mm f/2.8; we still keep working loads well under any maker's figure. Owners on Amazon describe solid clamping force and a built-in wrench for adjusting jaw tension. One owner found the lever tricky to set at first. B&H's Q&A says it won't accept Manfrotto-style plates. Sirui's Amazon copy also mentions a panoramic base, which belongs to the separate QC-55P, so check the variant.
+If your support has no Arca clamp at all, the [Harwerrel Aluminium 50mm Quick Release Clamp QR-50S](amzn:Harwerrel+Aluminium+50mm+Quick+Release+Plate+QR+Clamp+Arca-Swiss) is the cheap, simple fix I'd point you to. It is a 50 mm screw-knob clamp in anodized aluminum that mounts on a bare stud or on top of a non-Arca head, and its jaws open for plates from 38 to 42 mm wide. That range is why it takes most generic plates, including the SmallRig and Neewer plates above. It also has three bubble levels, and both ranking roundups that list it praise those for leveling horizons. Note that the box holds the clamp only, so budget for a plate. Owners like the clean machining, the large, smooth knob and how fast it turns a plain tripod into an Arca setup. The complaints are about fit and mounting. A few owners had to file wider or square plates down before they slid in, and the base screw is fixed and needs an Allen key. Harwerrel doesn't publish a load rating, so I'd keep it to mirrorless bodies and mid-size zooms and put a long lens on its own foot plate.
 
-> **From our notes:** When we lined up the spec sheets for these three, the detail that stood out was how differently each one handles twist. The SmallRig plate leans on rubber pads and a choice of two screw sizes. The Neewer squares rely on a single 1/4" screw and washers, which is why owners talk about cranking them down hard. The Sirui sidesteps the plate question by bringing its own clamp, but its lever needs tuning to the plate it holds. Arca-Swiss's own warning about copies and its flipLock clamps made the pattern clear: the plate and the clamp are a pair, so we choose them together.
+> **From our notes:** The 38-42 mm jaw range on the Harwerrel clamp is what tied these three together for me. The SmallRig plate leans on rubber pads and a choice of two screw sizes. The Neewer squares rely on a single 1/4" screw and washers, which is why owners talk about cranking them down hard. The Harwerrel takes both, because a screw knob closes on whatever width it meets, while a lever clamp would need tuning to each plate. Arca-Swiss's own warning about copies and its flipLock clamps made the pattern clear: the plate and the clamp are a pair, so I choose them together.
 
 ## How to Choose an Arca-Swiss Plate
 
@@ -421,4 +425,4 @@ Video heads are different, because many fluid heads use their own sliding plates
 
 **Most photographers with a modern ball head already need an Arca-Swiss plate; the only real decision is which plate fits your clamp and your lens.**
 
-If we had to sum it up: check your clamp, buy a plate that matches it, and use a lens-foot plate for anything heavy. If your tripod uses a proprietary plate, add an Arca clamp like the SIRUI QC-55 rather than replacing the whole head. When you are ready to compare complete setups, our [ball head vs pan-tilt head comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) is the natural next read.
+If we had to sum it up: check your clamp, buy a plate that matches it, and use a lens-foot plate for anything heavy. If your tripod uses a proprietary plate, add an Arca clamp like the Harwerrel QR-50S rather than replacing the whole head. When you are ready to compare complete setups, our [ball head vs pan-tilt head comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) is the natural next read.

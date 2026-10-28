@@ -1,25 +1,21 @@
 {
   "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-10-27T13:44:00.864Z",
+  "checkedAt": "2026-10-28T15:20:05.982Z",
   "errors": [],
   "warnings": [
-    "only 17 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SmallRig Quick Release Plate for Arca Swiss 2146B; NEEWER QPR-5C 2 Pack Quick Release Plate; SIRUI QC-55 Quick Release Plate and Clamp",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2389 words, over the 2070 limit (top results average 1800): cut repetition and filler",
+    "only 18 first-person words; owner rule wants at least 24 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SmallRig Quick Release Plate for Arca Swiss 2146B; NEEWER QPR-5C 2 Pack Quick Release Plate",
+    "body has 2431 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SIRUI QC-55 Quick Release Plate and Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://photographylife.com/arca-swiss-quick-release-system",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1570305-REG/smallrig_2146b_quick_release_plate.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1826524-REG/sirui_qc_55_quick_release_clamp.html"
+    "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to peak-design-travel-tripod-vs-manfrotto-befree-advanced, no claim changed",
-    "at": "2026-10-23T12:36:16.211Z",
-    "hash": "a976b81dbe0dfb1b"
+    "notes": "Replaced SIRUI QC-55 (B0DB5RWZTL: Amazon page shows in stock, sold by SIRUI USA/FBA, but the Creators API does not return it, so no photo; the only other QC-55 listing B0HHDCLWWR is currently unavailable) with Harwerrel Aluminium 50mm Quick Release Clamp QR-50S (B071LDM42V, in stock, ships from Amazon, sold by Hawell-US), recommended with the same ASIN by markus-hagner-photography.com and lynnbarsigianphotography.com roundups. Specs (50 mm clamp, 38-42 mm plates, 3 bubble levels, anodized aluminum, 78x50x20 mm, clamp only, no load rating) checked against the Amazon listing and both roundups; owner notes from 23 owner reviews read; text, product block, sources and brief serpProducts/outline/entities updated. URL, slug, keyword, pubDate unchanged.",
+    "at": "2026-10-28T15:20:02.028Z",
+    "hash": "7ad9e68e1ee88c41"
   }
 }

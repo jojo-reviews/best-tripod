@@ -286,7 +286,7 @@ products:
           url: >-
             https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews
           reviews: 107
-    asin: B0149KBPB4
+    asin: B0152X16XO
     amazonTitle: >-
       MTPIXIEVO-BK, PIXI EVO 2-Section Mini Tripod for Mirrorless Cameras,
       Compact System Cameras, DSLR, Video, Compact Size, Aluminum, Black

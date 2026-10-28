@@ -22,7 +22,7 @@
     {"name": "Kirk", "type": "brand", "relation": "premium maker of Arca clamps, plates and lens feet"},
     {"name": "SmallRig", "type": "brand", "relation": "maker of the 2146B Arca-type plate"},
     {"name": "NEEWER", "type": "brand", "relation": "maker of the QPR-5C square Arca-type plates"},
-    {"name": "SIRUI", "type": "brand", "relation": "maker of the QC-55 Arca clamp and plate kit"}
+    {"name": "Harwerrel", "type": "brand", "relation": "maker of the QR-50S 50mm Arca screw-knob clamp"}
   ],
   "attributes": ["plate width (about 38 mm)", "dovetail angle", "plate length", "safety stops", "anti-twist rubber pads", "mounting screw thread (1/4\"-20, 3/8\"-16)", "clamp type (screw knob vs lever)", "load capacity", "weight", "camera-specific vs universal fit", "L-bracket vs flat plate", "compatibility with proprietary heads"],
   "ngrams": ["arca swiss plate", "arca swiss compatible", "quick release plate", "quick release system", "arca type", "tripod head", "ball head", "l bracket", "camera plate", "lens foot", "screw knob clamp", "lever clamp", "45 degree dovetail", "38mm wide"],
@@ -51,7 +51,7 @@
     {"h2": "Do You Need an Arca-Swiss Plate?", "intent": "decision", "h3": ["You need one if", "You can skip it if"]},
     {"h2": "Is Arca-Swiss a Standard Size? Dimensions and Compatibility", "intent": "compatibility", "h3": ["Why lever clamps are pickier", "Arca-Swiss vs Manfrotto RC2 and other proprietary plates"]},
     {"h2": "Types of Arca-Swiss Plates", "intent": "types", "h3": ["Universal plates", "Camera-specific plates and L-brackets", "Lens plates and lens feet"]},
-    {"h2": "Three Arca-Swiss Plates and Clamps Worth Knowing", "intent": "examples", "h3": ["SmallRig Quick Release Plate for Arca Swiss 2146B", "NEEWER QPR-5C 2 Pack Quick Release Plate", "SIRUI QC-55 Quick Release Plate and Clamp"]},
+    {"h2": "Three Arca-Swiss Plates and Clamps Worth Knowing", "intent": "examples", "h3": ["SmallRig Quick Release Plate for Arca Swiss 2146B", "NEEWER QPR-5C 2 Pack Quick Release Plate", "Harwerrel Aluminium 50mm Quick Release Clamp QR-50S"]},
     {"h2": "How to Choose an Arca-Swiss Plate", "intent": "buying guide", "h3": []},
     {"h2": "How to Mount an Arca-Swiss Plate So It Doesn't Twist", "intent": "how-to", "h3": []},
     {"h2": "Next Steps", "intent": "verdict and next step", "h3": []}
@@ -79,7 +79,7 @@
   "serpProducts": [
     {"name": "SmallRig Quick Release Plate for Arca Swiss 2146B", "pages": ["https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/", "https://www.lynnbarsigianphotography.com/best-arca-swiss-plates-for-ball-heads/"]},
     {"name": "NEEWER QPR-5C 2 Pack Quick Release Plate", "pages": ["https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/", "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"]},
-    {"name": "SIRUI QC-55 Quick Release Plate and Clamp", "pages": ["https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/", "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"]}
+    {"name": "Harwerrel Aluminium 50mm Quick Release Clamp QR-50S", "pages": ["https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/", "https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"]}
   ],
   "keywordResearch": {
     "ahrefsSuggestions": "keywords-explorer-search-suggestions (us) on \"arca swiss plate\" and \"what is arca swiss\", 2026-10-18",
