@@ -55,8 +55,9 @@ jobs:
           git config user.name "best-tripod-agents"
           git config user.email "agents@users.noreply.github.com"
           git add src/content data/qa && { [ ! -f data/amazon-unmatched.json ] || git add data/amazon-unmatched.json; }
-          git commit -m "content: daily Amazon product refresh"
-          git push
+          git commit -m "content: daily Amazon product refresh [skip ci]"
+          # Other pushes can land while this runs (2026-10-29 failure): rebase onto them first.
+          git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
   deploy:

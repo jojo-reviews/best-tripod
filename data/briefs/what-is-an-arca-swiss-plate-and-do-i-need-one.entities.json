@@ -1,0 +1,90 @@
+{
+  "keyword": "what is an arca swiss plate and do i need one",
+  "pagesAnalyzed": 5,
+  "pages": [
+    "https://photographylife.com/arca-swiss-quick-release-system",
+    "https://arca-swiss-usa.com/collections/classic-camera-plates/classic-camera-plate",
+    "https://www.mu-43.com/threads/can-someone-explain-arca-swiss-plates-to-me.106049/",
+    "https://promediagear.com/collections/arca-plates",
+    "https://arca-swiss-usa.com/collections/camera-plates"
+  ],
+  "sharedEntities": [
+    {
+      "entity": "Arca-Swiss",
+      "type": "Company",
+      "pages": 3,
+      "relevance": 0.73,
+      "wiki": ""
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Nikon",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.82,
+      "wiki": "http://en.wikipedia.org/wiki/Nikon"
+    },
+    {
+      "entity": "Dovetail joint",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Dovetail_joint"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "entity": "Nikon D850",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Nikon_D850"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Sony",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "entity": "Bracket",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Bracket"
+    },
+    {
+      "entity": "View camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/View_camera"
+    }
+  ],
+  "missingFromPost": [
+    "Nikon",
+    "Canon Inc.",
+    "Nikon D850",
+    "Sony",
+    "View camera"
+  ]
+}
