@@ -46,6 +46,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 - Backlinks: white-hat only (no paid links, PBNs, exchanges); the off-page agent prompt is
   rentersmarthome.us/docs/offpage-agent-prompt.md.
 - Owner rule 2026-10-29: TextRazor entity extraction is used in every new post (rentersmarthome.us/scripts/textrazor-entities.mjs; key only in the TEXTRAZOR_API_KEY environment variable).
+- Owner rule 2026-10-29 ("old content b optimize karo jaldi"): every live English post gets one TextRazor semantic pass (rentersmarthome.us/scripts/semantic-queue.mjs), 10 posts per site per day until done.
 - Dashboards are light-themed: Search Performance https://claude.ai/artifact/LgNhY4KAh6FfnSxKs7AfpF (daily refresh)
   and Site Agent Flow https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ.
 - best-tripod.com: keyword queue was replaced by the owner's list on 2026-10-22 (no cannibalization with live posts); never add reviewedBy.
