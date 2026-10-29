@@ -54,6 +54,13 @@ export function audit({ item, brief, meta, body, products }) {
   if (skipRatio < 0.5) penalize(4, `Skip-gram coverage ${(skipRatio * 100) | 0}%. Bring these word pairs close together naturally: ${brief.skipgrams.filter((s) => !skipPresent.includes(s)).join(', ')}`);
   if (salience.score < 0.6) penalize(Math.round((0.6 - salience.score) * 30), `Central entity "${brief.centralEntity}" salience proxy is ${salience.score} (<0.6). Make it the grammatical subject of more topic sentences (${salience.subjectPosition} now), and include it in more H2s (${salience.headingsWithEntity}/${h2s.length}).`);
 
+  // Owner rule 2026-10-29 (semantic SEO): high-salience entities (TextRazor relevance >= 0.5 in the brief) must all
+  // appear and the central entity should reach a salience proxy of 0.7.
+  const highSal = (brief.entities ?? []).filter((e) => (e.salience ?? 0) >= 0.5).map((e) => e.name);
+  const highCov = coverage(plain, highSal);
+  if (highCov.missing.length) penalize(Math.min(12, highCov.missing.length * 3), `High-salience entities missing: ${highCov.missing.join(', ')}. Work each into a true, useful sentence.`);
+  if (salience.score >= 0.6 && salience.score < 0.7) penalize(3, `Central entity "${brief.centralEntity}" salience proxy is ${salience.score}; aim for 0.7+ (subject of topic sentences, in H2s).`);
+
   // Layout-aware block checks.
   const lines = body.split('\n');
   const tableStarts = lines.map((l, i) => (/^\s*\|.*\|\s*$/.test(l) && !/^\s*\|.*\|\s*$/.test(lines[i - 1] ?? '') ? i : -1)).filter((i) => i >= 0);
