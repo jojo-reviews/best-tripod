@@ -1169,7 +1169,7 @@ The [Sirui Traveler 7C](amzn:Sirui+Traveler+7C+carbon+fiber+tripod+E-10+ball+hea
 
 ### Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head: Best lightweight
 
-The [Sirui Traveler 5C](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) weighs about 850 g on Sirui's store and folds to about 33 cm (some listings say 895 g). Each sealed twist leg lock keeps beach grit out, and the removable column drops it to 16 cm. It suits a Fujifilm X series or other APS-C kit; the 4 kg load and 138 cm maximum height rule out long telephotos and eye-level framing for most adults.
+The [Sirui Traveler 5C](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) weighs about 850 g on Sirui's store and folds to about 33 cm (some listings say 895 g). Each sealed twist leg lock keeps beach grit out, and the removable column drops it to 16 cm. It suits a Fujifilm X series or other APS-C kit (see our [tripods for the Fujifilm X-T5](/blog/best-tripod-for-fujifilm-x-t5/)); the 4 kg load and 138 cm maximum height rule out long telephotos and eye-level framing for most adults.
 
 ### Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head: Best budget for height
 

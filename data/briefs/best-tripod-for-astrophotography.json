@@ -567,12 +567,14 @@
     {
       "slug": "best-hiking-tripod",
       "find": "Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads.",
-      "replace": "Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/))."
+      "replace": "Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/)).",
+      "appliedAt": "2026-10-29T15:40:33.339Z"
     },
     {
       "slug": "tripod-center-column-up-or-down-for-landscapes",
       "find": "Keep it fully down for any long exposure, wind or heavy lens, and get it out of the way when you want the camera low to the ground.",
-      "replace": "Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground."
+      "replace": "Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.",
+      "appliedAt": "2026-10-29T15:40:34.203Z"
     }
   ]
 }

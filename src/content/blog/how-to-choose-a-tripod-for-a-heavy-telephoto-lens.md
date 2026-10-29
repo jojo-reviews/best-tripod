@@ -282,7 +282,7 @@ The lens collar matters as much as the head. An Arca-Swiss foot or long plate le
 
 ## Check 5 – Decide how far you will carry it
 
-**The right telephoto tripod is the heaviest one you will actually carry, because stable, light and cheap rarely come together.** DPReview opens its roundup with the saying "Cheap, light, stable – you can pick only two." Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack.
+**The right telephoto tripod is the heaviest one you will actually carry, because stable, light and cheap rarely come together.** DPReview opens its roundup with the saying "Cheap, light, stable – you can pick only two." Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack (our [Sony A7 IV tripod picks](/blog/best-tripod-for-sony-a7iv/) cover both).
 
 Members of the bcgforums 600mm thread ask the same questions before naming a model: budget, the weight you will tolerate, whether it flies with you, and whether you need a head, since many better tripods are legs only. Tom Mason's advice in the video above fits here: if you can buy one tripod, buy the bigger one first.
 

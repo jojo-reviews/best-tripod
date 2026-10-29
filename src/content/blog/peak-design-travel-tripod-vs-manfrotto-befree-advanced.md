@@ -391,7 +391,7 @@ Full-frame mirrorless shooters are the audience for the [Peak Design Travel Trip
 
 ### Peak Design Travel Tripod (Aluminum): Same design for less outlay
 
-Swapping carbon for aluminum, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) keeps the 15.5-inch fold, 51.25 to 60 inch height range and 20 lb load. It weighs 3.44 lb (1.56 kg), about 290 g more than the carbon version and 30 g less than the Befree. Its center column can be removed or reversed for low shots down to about 5.5 inches, which is the clearest thing it does that the Befree can't. We'd pick it over the Befree if you shoot low foregrounds or want the slimmest packed shape.
+Swapping carbon for aluminum, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) keeps the 15.5-inch fold, 51.25 to 60 inch height range and 20 lb load. It weighs 3.44 lb (1.56 kg), about 290 g more than the carbon version and 30 g less than the Befree. Its center column can be removed or reversed for low shots down to about 5.5 inches, which is the clearest thing it does that the Befree can't. We'd pick it over the Befree if you shoot low foregrounds or want the slimmest packed shape; Sony shooters can see both in our [tripods for the Sony A7 IV](/blog/best-tripod-for-sony-a7iv/).
 
 ### Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH): Best value
 

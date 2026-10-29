@@ -1,24 +1,19 @@
 {
   "slug": "best-tripod-for-leica-q3",
   "pass": true,
-  "checkedAt": "2026-10-28T15:08:11.404Z",
+  "checkedAt": "2026-10-29T15:40:38.836Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro TablePod Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1642288-REG/benro_tablepodkit_tablepod_kit_with_camera.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
-    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified 2026-10-28 15:00 UTC via Firecrawl Amazon data: Gitzo Mini Traveler B07L2WSYB3 has no buy box (see all buying options only); the only in-stock Amazon Mini Traveler listing is the Noir Decor variant B07VXKRW16 (different finish), so the product was removed and productCount set 6->5 (title, seoTitle, description, tldr, FAQ, table, headroom list, decision list and hero image updated). No replacement tabletop qualified: Leica Table Tripod, Manfrotto PIXI Mini, Platypod, Joby and Pedco are each named by only one top-10 page or have no in-stock Amazon US listing. Manfrotto PIXI EVO: ASIN B0149KBPB4 (third-party offer) swapped to B0152X16XO 'Manfrotto PIXI EVO 2-Section Mini Tripod, Black', same model, In Stock, featured offer sold by Amazon. Remaining ASINs unchanged: B085BQTQMN, B07KD181B3, B071F31XLR, B093LW82KS. All earlier spec checks stand: Leica Q3 743 g, Q3 43 772 g, Q2 734 g; Peak Design 2.8 lb/15.5 in/51.25 in/60 in/20 lb; SIRUI 5C 1.87 lb/13 in/54.3 in/8.8 lb; Gitzo GK1545T-82TQD 3.2 lb/16.73 in/55.31 in/64.37 in/22 lb; Benro TablePod 8.8 oz/8.7 in/3.5-8.8 in/6.6 lb/FS20 Arca head (B&H); PIXI EVO 0.57 lb/8.07 in/7.87 in/2.5 kg.",
-    "at": "2026-10-28T15:04:38.678Z",
-    "hash": "02d40e7e1050316b"
+    "notes": "added one internal link to best-tripod-for-fujifilm-x-t5, no claim changed",
+    "at": "2026-10-29T15:40:38.458Z",
+    "hash": "c3749bc901522ac2"
   }
 }

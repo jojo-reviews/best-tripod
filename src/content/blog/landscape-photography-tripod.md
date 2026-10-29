@@ -565,7 +565,7 @@ Tim Shields recommends it for travel but notes it is not as sturdy as heavier tr
 
 ### Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head: best full-size value
 
-If you shoot near the car, the Alta Pro gives you the most height for the least money of the five. Vanguard's page lists 68.2 in at full height, 55.6 in with the column down, a 22 lb load and a 5-year warranty. Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low and macro foregrounds. Three thick twist-lock sections, 26 mm at the widest, keep it stiff.
+If you shoot near the car, the Alta Pro gives you the most height for the least money of the five. Vanguard's page lists 68.2 in at full height, 55.6 in with the column down, a 22 lb load and a 5-year warranty. Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low foregrounds and [macro tripod work](/blog/best-tripod-for-macro-photography/). Three thick twist-lock sections, 26 mm at the widest, keep it stiff.
 
 Owners agree it is solid. On the DPReview forum one owner called it "very solid and stable, yet not terribly heavy," and a Vanguard store reviewer liked the easy twist locks and clear markings on the horizontal arm. The repeat complaint, from Reddit and DPReview alike, is weight and length: 4.8 lb and 28.3 in folded (another Vanguard page says about 27.4 in). The head data is contested too. Vanguard names a BH-60 head while the Amazon title says Arca ball head, so check the clamp before you buy an Arca-Swiss L-bracket for it.
 

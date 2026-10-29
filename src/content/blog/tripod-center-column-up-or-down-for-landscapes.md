@@ -134,7 +134,7 @@ heroAlt: >-
   Tripod guide
 ---
 
-You frame a sunrise on a ridge, the viewfinder sits two inches too low, and the quickest fix is the knob on the center column. For landscapes, keep the tripod center column down by default: extend the tripod legs first, then raise the center column only a few inches to fine-tune the composition. Keep it fully down for any long exposure, wind or heavy lens, and get it out of the way when you want the camera low to the ground.
+You frame a sunrise on a ridge, the viewfinder sits two inches too low, and the quickest fix is the knob on the center column. For landscapes, keep the tripod center column down by default: extend the tripod legs first, then raise the center column only a few inches to fine-tune the composition. Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.
 
 ## Tripod center column up or down for landscapes – the short answer
 

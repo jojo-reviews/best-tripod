@@ -373,7 +373,7 @@ Owners we found use it far beyond GoPro: one bowler uses it for self-recording, 
 
 **It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO13 Black screws straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro says the magnetic latch joins the built-in fingers and 1/4-20 threads, giving HERO13 Black three ways to mount.
 
-This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns. If your action camera has no 1/4"-20 thread, buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on. The Shorty and 3-Way 2.0 skip the problem by using the fingers, and the SquidGrip includes an adapter.
+This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns (Pocket owners face the same issue, covered in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/)). If your action camera has no 1/4"-20 thread, buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on. The Shorty and 3-Way 2.0 skip the problem by using the fingers, and the SquidGrip includes an adapter.
 
 ## Problems Owners Run Into, and the Fix
 

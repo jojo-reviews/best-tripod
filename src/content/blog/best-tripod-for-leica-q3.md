@@ -496,7 +496,7 @@ What I like about the [Benro TablePod Kit](amzn:Benro+TablePod+Tripod+Kit+carbon
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: budget pocket pick
 
-I'd keep the [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) as a cheap backup: 0.57 lb, 8.07 in folded, 7.87 in tall and rated to 2.5 kg. Pack Hacker found it held a Fuji X-T3 with a 55-200mm, but its leg-angle button can stick, and an r/fujifilm reply warns the head "might creep". On the Leica Forum, one Q2 owner returned two samples of the smaller PIXI because the head would not lock at a tilt, while another found his rock steady. Test the head at your usual angle while you can still return it.
+I'd keep the [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) as a cheap backup: 0.57 lb, 8.07 in folded, 7.87 in tall and rated to 2.5 kg. Pack Hacker found it held a Fuji X-T3 with a 55-200mm, but its leg-angle button can stick, and an r/fujifilm reply warns the head "might creep" (more in our [Fujifilm X-T5 tripod picks](/blog/best-tripod-for-fujifilm-x-t5/)). On the Leica Forum, one Q2 owner returned two samples of the smaller PIXI because the head would not lock at a tilt, while another found his rock steady. Test the head at your usual angle while you can still return it.
 
 ## What a 743 g Leica Q3 actually needs from a tripod
 

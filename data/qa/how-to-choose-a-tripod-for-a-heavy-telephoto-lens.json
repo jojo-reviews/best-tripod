@@ -1,28 +1,21 @@
 {
   "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
   "pass": true,
-  "checkedAt": "2026-10-27T13:43:25.581Z",
+  "checkedAt": "2026-10-29T15:40:37.038Z",
   "errors": [],
   "warnings": [
-    "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 15 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo GT3543LS Systematic Series 3",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
-    "source didn't respond normally (403): https://www.usa.canon.com/support/p/rf100-500mm-f4-5-7-1-l-is-usm",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/30640/what-tripod-heads-are-ideal-to-mount-a-large-telephoto-or-supertelephoto-lens-on",
-    "source didn't respond normally (403): https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:43.929Z",
-    "hash": "b0c084c27545d8ca"
+    "notes": "added one internal link to best-tripod-for-sony-a7iv, no claim changed",
+    "at": "2026-10-29T15:40:36.359Z",
+    "hash": "91998291b1b4e9c3"
   }
 }

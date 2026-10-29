@@ -1,22 +1,21 @@
 {
   "slug": "best-tripod-for-gopro",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:47.716Z",
+  "checkedAt": "2026-10-29T15:40:31.717Z",
   "errors": [],
   "warnings": [
-    "only 12 first-person words; owner rule wants at least 15 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 13 first-person words; owner rule wants at least 15 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): GoPro 3-Way 2.0; Xenvo SquidGrip Flexible Tripod",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"GoPro Shorty Mini Extension Pole + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"GoPro 3-Way 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://gopro.com/en/us/news/best-camera-tripods"
+    "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:40.314Z",
-    "hash": "b5c8bf262790fcd9"
+    "notes": "added one internal link to best-tripod-for-dji-osmo-pocket-3, no claim changed",
+    "at": "2026-10-29T15:40:31.302Z",
+    "hash": "7b0d0188f59fb431"
   }
 }

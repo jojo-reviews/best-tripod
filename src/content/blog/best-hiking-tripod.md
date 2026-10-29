@@ -646,7 +646,7 @@ Weight is a recurring complaint in DPReview hiking threads. Hikers already carry
 
 ### "Too small and wobbly for long exposures or a 100-400"
 
-Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads. One poster wrote: ["i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400"](https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2). My fix is load headroom and fewer joints: the Befree GT Carbon's 26.5 lb rating or the Gitzo GT1545T's 22 lb rating, both on four-section legs, or the Peak Design's 20 lb rating, with the column down and the pack on the hook. If your lens is longer than about 200mm, none of these five is a dedicated heavy-lens tripod.
+Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/)). One poster wrote: ["i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400"](https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2). My fix is load headroom and fewer joints: the Befree GT Carbon's 26.5 lb rating or the Gitzo GT1545T's 22 lb rating, both on four-section legs, or the Peak Design's 20 lb rating, with the column down and the pack on the hook. If your lens is longer than about 200mm, none of these five is a dedicated heavy-lens tripod.
 
 ### Center column height vs stability
 

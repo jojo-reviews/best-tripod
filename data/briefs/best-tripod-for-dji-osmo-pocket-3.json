@@ -546,12 +546,14 @@
     {
       "slug": "best-tripod-for-gopro",
       "find": "This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns.",
-      "replace": "This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns (Pocket owners face the same issue, covered in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/))."
+      "replace": "This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns (Pocket owners face the same issue, covered in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/)).",
+      "appliedAt": "2026-10-29T15:40:31.735Z"
     },
     {
       "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
       "find": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick, so the choice comes down to where you'll set the camera.",
-      "replace": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/)), so the choice comes down to where you'll set the camera."
+      "replace": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/)), so the choice comes down to where you'll set the camera.",
+      "appliedAt": "2026-10-29T15:40:32.479Z"
     }
   ]
 }

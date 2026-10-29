@@ -1,22 +1,17 @@
 {
   "slug": "tripod-center-column-up-or-down-for-landscapes",
   "pass": true,
-  "checkedAt": "2026-10-29T12:54:13.609Z",
+  "checkedAt": "2026-10-29T15:40:34.183Z",
   "errors": [],
   "warnings": [
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripods-center-column-vs-no-center-column.3991946/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/tripod-center-column.43414/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-hiking-tripod, no claim changed",
-    "at": "2026-10-29T12:49:12.331Z",
-    "hash": "6dc82684e0d948a7"
+    "notes": "added one internal link to best-tripod-for-astrophotography, no claim changed",
+    "at": "2026-10-29T15:40:33.729Z",
+    "hash": "8aab3c2acb705709"
   }
 }
