@@ -1,7 +1,7 @@
 {
   "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
   "pass": true,
-  "checkedAt": "2026-10-29T15:40:36.004Z",
+  "checkedAt": "2026-10-29T15:44:14.806Z",
   "errors": [],
   "warnings": [
     "only 18 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -10,7 +10,9 @@
     "body has 2282 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/"
   ],
   "factCheck": {
     "verified": true,
