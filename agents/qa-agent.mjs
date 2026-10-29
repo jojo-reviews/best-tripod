@@ -114,6 +114,8 @@ async function urlOk(url) {
     let res = await fetch(url, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(15000) });
     // Some sites answer HEAD with 403/404/405 but serve the page to a GET (e.g. What to Expect, 2026-10-28).
     if ([403, 404, 405].includes(res.status)) res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(15000) });
+    // Some sites (e.g. consumer.ftc.gov, 2026-10-29) answer CI runners without a browser User-Agent with 404.
+    if ([403, 404, 405].includes(res.status)) res = await fetch(url, { redirect: 'follow', headers: { 'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36', accept: 'text/html,*/*' }, signal: AbortSignal.timeout(15000) });
     return res.status;
   } catch {
     return 0;
