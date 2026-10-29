@@ -1,7 +1,7 @@
 {
   "slug": "best-gimbal-head-for-150-600mm-lens",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:09.158Z",
+  "checkedAt": "2026-10-29T10:42:21.661Z",
   "errors": [],
   "warnings": [
     "only 14 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -11,7 +11,6 @@
     "product \"Wimberley WH-200 Gimbal Head II\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Fotopro E-6H Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley SK-100 Sidekick\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "keyword overlaps /blog/are-cheap-gimbal-heads-any-good/ (\"best gimbal head for 150-600mm lens\" overlaps \"is a cheap gimbal head good enough for a 600mm lens\" (80%))",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1784270/",

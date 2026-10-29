@@ -1,14 +1,16 @@
 {
   "slug": "best-tripod-for-astrophotography",
   "pass": true,
-  "checkedAt": "2026-10-29T10:28:58.796Z",
+  "checkedAt": "2026-10-29T10:42:55.143Z",
   "errors": [],
   "warnings": [
     "product \"Benro Tortoise 24C with GX30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA37C\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto Befree Advanced Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://skiesandscopes.com/camera-tripod/",
+    "source didn't respond normally (403): https://www.photopills.com/articles/best-milky-way-photography-gear"
   ],
   "factCheck": {
     "verified": true,

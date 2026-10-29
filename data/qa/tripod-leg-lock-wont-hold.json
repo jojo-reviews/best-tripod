@@ -1,7 +1,7 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-10-27T13:43:50.625Z",
+  "checkedAt": "2026-10-29T10:44:40.605Z",
   "errors": [],
   "warnings": [
     "only 11 first-person words; owner rule wants at least 12 (about 1 per 100 words: I, my, me, we, our, us)",
@@ -9,7 +9,6 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/twist-lock-vs-flip-lock-tripod-legs/ (\"tripod leg lock won't hold\" overlaps \"twist lock vs flip lock tripod legs\" (75%))",
     "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1282332/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
