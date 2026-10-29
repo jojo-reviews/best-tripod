@@ -1,14 +1,17 @@
 {
   "slug": "best-tripod-for-filming-sports",
   "pass": true,
-  "checkedAt": "2026-10-29T19:42:44.569Z",
+  "checkedAt": "2026-10-29T19:52:55.885Z",
   "errors": [],
   "warnings": [
     "product \"Glide Gear TST 20 Sky High Tall Video Camera Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP75 Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.kenrockwell.com/tech/smallrig/ad-01.htm",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/"
   ],
   "factCheck": {
     "verified": true,

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-a6700",
   "pass": true,
-  "checkedAt": "2026-10-29T19:29:52.768Z",
+  "checkedAt": "2026-10-29T19:53:35.621Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,7 +9,12 @@
     "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig CT-10 Aluminum Tripod and Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Neewer N55C 66-Inch Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70350g/specifications",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1790294-REG/smallrig_3935_ct_10_aluminum_camera_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/803550631-USE/benro_bmrtprocblu_mefoto_roadtrip_pro_carbon.html",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
   ],
   "factCheck": {
     "verified": true,

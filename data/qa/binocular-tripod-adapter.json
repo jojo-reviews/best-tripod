@@ -1,9 +1,10 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-10-28T15:08:50.017Z",
+  "checkedAt": "2026-10-29T19:54:15.460Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: SEO audit score 84 (< 85): Entity coverage 33%. Missing entities: Vortex Uni-Dapter, Field Optics Research Rapid-Release (Gen 2), Outdoorsmans Binocular Adapter, Swarovski TAs-SLC / TAs NL, Bushnell Quick Release Adapter, Leupold Field Clamp and Quick-Stem, Really Right Stuff Cinch, MUTNT Gear Gen 2, BOG Bogpod binocular mount, threaded center hinge cap | Central entity \"binocular tripod adapter\" salience proxy is 0.62; aim for 0.7+ (subject of topic sentences, in H2s).",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Aziak Equipment Bino Clamp",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"FANAUE S1 Quick Release Binocular Tripod Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",

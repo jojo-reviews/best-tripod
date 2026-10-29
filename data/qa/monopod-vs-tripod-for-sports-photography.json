@@ -1,17 +1,17 @@
 {
   "slug": "monopod-vs-tripod-for-sports-photography",
   "pass": true,
-  "checkedAt": "2026-10-29T19:43:33.021Z",
+  "checkedAt": "2026-10-29T19:54:31.263Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: internal link to /blog/best-tripod-for-filming-sports/, which isn't live until 2026-10-29T19:44:00.000Z",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): iFootage Cobra 3 C180F-P; Vanguard VEO 2S CM-264TR",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "body has 1847 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"iFootage Cobra 3 C180F-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S CM-264TR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
+    "source didn't respond normally (403): https://petapixel.com/2023/06/10/ifootage-cobra-3-monopod-review-a-videographers-best-friend/"
   ],
   "factCheck": {
     "verified": true,

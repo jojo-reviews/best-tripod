@@ -1,14 +1,18 @@
 {
   "slug": "best-tripod-for-binoculars",
   "pass": true,
-  "checkedAt": "2026-10-29T19:43:43.029Z",
+  "checkedAt": "2026-10-29T19:52:45.070Z",
   "errors": [],
   "warnings": [
     "product \"SLIK Pro CF-733 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vortex Ridgeview Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI ST-124 Carbon Fiber Tripod with VA-5 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1824766-REG/sirui_st124_va5x_st124_standard_series_4_section.html",
+    "source didn't respond normally (403): https://skiesandscopes.com/best-tripod-for-binoculars/",
+    "source didn't respond normally (403): https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
   ],
   "factCheck": {
     "verified": true,

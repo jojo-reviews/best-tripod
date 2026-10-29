@@ -1,13 +1,15 @@
 {
   "slug": "best-tripod-for-youtube-videos",
   "pass": true,
-  "checkedAt": "2026-10-29T19:43:24.703Z",
+  "checkedAt": "2026-10-29T19:54:03.033Z",
   "errors": [],
   "warnings": [
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.ephotozine.com/article/veo-3go-235cb-carbon-fibre-travel-tripod-review-34938/handling--amp--performance",
+    "source didn't respond normally (403): https://www.world-of-waterfalls.com/manfrotto-befree-3-way-live-advanced-review/"
   ],
   "factCheck": {
     "verified": true,
