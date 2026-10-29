@@ -295,7 +295,7 @@ For long video clips, a tripod with a fluid head gives the smoothest pans. A mon
 
 ### Fixed positions and remote cameras
 
-A tripod suits an end-zone spot you won't leave, or a remote camera behind a goal. If you stand all game, check how tall the legs reach using our [tripod height for your eye level chart](/blog/how-tall-should-a-tripod-be-for-my-height/).
+A tripod suits an end-zone spot you won't leave, or a remote camera behind a goal, and our [tripods for filming sports](/blog/best-tripod-for-filming-sports/) cover that job. If you stand all game, check how tall the legs reach using our [tripod height for your eye level chart](/blog/how-tall-should-a-tripod-be-for-my-height/).
 
 ## Two Monopods Worth Considering for Sports
 

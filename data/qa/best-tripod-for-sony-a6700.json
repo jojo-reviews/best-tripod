@@ -1,0 +1,20 @@
+{
+  "slug": "best-tripod-for-sony-a6700",
+  "pass": true,
+  "checkedAt": "2026-10-29T19:29:52.768Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig CT-10 Aluminum Tripod and Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Neewer N55C 66-Inch Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-29: Sony a6700 493 g (sony.com ILCE-6700 specs), 70-350mm 625 g (sony.com SEL70350G), Sigma 18-50mm 290 g E-mount (sigma-global.com); load ratios computed from these. Peak Design Travel Tripod Carbon: 2.81 lb, 15.5 in fold, 51.25/60 in, 5.5 in min, 20 lb, Arca-type plate (peakdesign.com, as in earlier verified posts). Befree Advanced lever aluminum: 50.39/59.45 in, 15.75 in fold and min, 3.51 lb, 9 kg, 494 head, 200PL PRO RC2+Arca (Manfrotto page, as verified for the X-T5 post). Leofoto LS-224CX+LH-25: 1140 mm max, 147 mm min, 473 mm fold, 0.90 kg, 6 kg, 4 sections, twist locks, DC-222C add-on column 7.8-12.5 in, PU-25 Arca plate (leofotooutdoors.com). SmallRig CT-10: 59.3-180 cm, 43 cm fold, 1.53 kg, 15 kg tripod / 5 kg head, 36 mm head, Arca (smallrig.com); flip locks, 3.37 lb, monopod leg (B&H). Neewer N55C: 172 cm max, 60.5 cm min, 12 kg, 4 sections (neewer.com); 22.6 in fold and 1.6 kg from Neewer's Amazon listing. Benro RoadTrip Pro carbon: 61.8/45.47 in, 15.6 in min, 15.16 in fold, 3.0 lb, 17.6 lb, 5 sections, twist locks, 62.2 in monopod (B&H). Owner claims and all quotes checked verbatim against the Sony Rumors threads 35716, 13342, 64534, a6400 thread and the DPReview a6400 thread; CT-10 complaints from B&H review and r/analog search excerpts; Neewer damage thread from r/AskAstrophotography excerpt. ASINs B085BQTQMN, B0772WLSHZ, B0DR8V9WSP, B0B63VTW46, B00NSEKEMO, B097Z1TNBP checked in stock on Amazon US (Firecrawl, 2026-10-29).",
+    "at": "2026-10-29T19:29:52.310Z",
+    "hash": "ee8d6fdde9e7a54a"
+  }
+}

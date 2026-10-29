@@ -2634,8 +2634,8 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
       "best tripod for zve10",
@@ -2657,7 +2657,10 @@
     "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-sony-zv-e10",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "startedAt": "2026-10-29T19:14:33.070Z",
+    "productCount": 6,
+    "publishedAt": "2026-10-29T19:30:31.573Z"
   },
   {
     "status": "replaced",
@@ -2946,7 +2949,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -2966,11 +2969,14 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-sony-a6700",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "productCount": 7,
+    "startedAt": "2026-10-29T19:14:36.476Z",
+    "publishedAt": "2026-10-29T19:30:03.747Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
       "best tripod for nikon z6iii",
@@ -2994,7 +3000,9 @@
     "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-nikon-z8",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "startedAt": "2026-10-29T19:14:35.818Z",
+    "publishedAt": "2026-10-29T19:28:32.088Z"
   },
   {
     "status": "replaced",
@@ -5117,7 +5125,7 @@
     "publishedAt": "2026-10-25T10:29:47.669Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for binoculars",
@@ -5138,7 +5146,10 @@
     "funnel": "bofu",
     "cluster": "binoculars",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-10-29T19:14:28.009Z",
+    "publishedAt": "2026-10-29T19:26:03.223Z"
   },
   {
     "status": "published",
@@ -5168,7 +5179,7 @@
     "publishedAt": "2026-10-29T10:40:54.311Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for filming sports",
@@ -5189,7 +5200,11 @@
     "funnel": "bofu",
     "cluster": "sports",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-10-29T19:14:26.355Z",
+    "publishedAt": "2026-10-29T19:42:47.228Z",
+    "productCountNote": "planned 11; only 5 qualified (2+ pages, in-stock Amazon US)"
   },
   {
     "status": "pending",

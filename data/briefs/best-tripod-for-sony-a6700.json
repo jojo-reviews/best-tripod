@@ -1,0 +1,510 @@
+{
+  "centralEntity": "tripod for Sony a6700",
+  "entityVariants": [
+    "best tripod for sony a6700",
+    "best tripod for a6700",
+    "best tripod for sony a6400",
+    "best tripod for sony a6600",
+    "sony a6700 tripod",
+    "best travel tripod for sony a6700"
+  ],
+  "entities": [
+    {
+      "name": "Sony a6700",
+      "type": "camera",
+      "relation": "APS-C body, approx. 493 g with battery and card, flip-out screen, battery door on the base"
+    },
+    {
+      "name": "Sigma 18-50mm F2.8 DC DN",
+      "type": "lens",
+      "relation": "the everyday zoom a6700 owners pair it with, 290 g for E-mount"
+    },
+    {
+      "name": "Sony E 70-350mm F4.5-6.3 G OSS",
+      "type": "lens",
+      "relation": "telephoto zoom a6700 owners worry about on travel legs, 625 g"
+    },
+    {
+      "name": "Sony a6400",
+      "type": "camera",
+      "relation": "older sibling with the same tripod needs"
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "most-recommended travel pick"
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "all-round travel kit with a 494 head"
+    },
+    {
+      "name": "Leofoto LS-224CX Ranger",
+      "type": "product",
+      "relation": "column-free carbon legs"
+    },
+    {
+      "name": "SmallRig CT-10",
+      "type": "product",
+      "relation": "budget aluminum tripod with monopod leg"
+    },
+    {
+      "name": "Neewer N55C",
+      "type": "product",
+      "relation": "budget carbon full-height tripod"
+    },
+    {
+      "name": "Benro MeFOTO RoadTrip Pro",
+      "type": "product",
+      "relation": "carbon travel tripod with monopod conversion"
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "standard",
+      "relation": "plate standard shared by most picks; cage baseplates use it"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raising it costs stiffness"
+    }
+  ],
+  "attributes": [
+    "rated load vs a6700 plus lens weight",
+    "height with the center column down",
+    "folded length",
+    "weight",
+    "leg lock type",
+    "Arca-Swiss compatibility",
+    "plate clearance for the flip screen and battery door",
+    "monopod conversion"
+  ],
+  "ngrams": [
+    "tripod for a6700",
+    "travel tripod",
+    "70-350mm",
+    "18-50mm",
+    "ball head",
+    "center column",
+    "carbon fiber",
+    "arca swiss",
+    "peak design travel tripod",
+    "befree advanced",
+    "leofoto ranger",
+    "smallrig ct-10"
+  ],
+  "skipgrams": [
+    "tripod…a6700",
+    "center column…wind",
+    "70-350mm…torque",
+    "plate…battery door",
+    "Arca…cage"
+  ],
+  "nlpTerms": [
+    "Sony",
+    "a6700",
+    "a6400",
+    "APS-C",
+    "travel",
+    "18-50mm",
+    "70-350mm",
+    "carbon fiber",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "center column",
+    "folded length",
+    "load capacity",
+    "long exposure",
+    "wind",
+    "monopod",
+    "weight hook",
+    "flip screen",
+    "battery door"
+  ],
+  "questions": [
+    "What is the best tripod for a Sony a6700?",
+    "How much weight does a tripod need to hold for an a6700 with the 70-350mm?",
+    "Will a tripod plate block the a6700 battery door or flip screen?",
+    "Should I raise the center column with the a6700 on a travel tripod?",
+    "Do these tripods work with the Sony a6400 and a6600?"
+  ],
+  "contentGaps": [
+    "Load headroom against the a6700 plus 18-50mm and 70-350mm weights",
+    "Height with the column down compared across picks",
+    "Plate and cage clearance for the a6700 battery door and flip screen",
+    "70-350mm torque on light legs in wind"
+  ],
+  "outline": [
+    {
+      "h2": "Best tripod for Sony a6700 picks at a glance",
+      "intent": "short answer and comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Sony a6700 tripods",
+      "intent": "method, who else recommends, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripods for the Sony a6700, reviewed",
+      "intent": "one section per product",
+      "h3": [
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+        "Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head",
+        "SmallRig CT-10 Aluminum Tripod and Monopod",
+        "Neewer N55C 66-Inch Carbon Fiber Tripod",
+        "Benro MeFOTO RoadTrip Pro Carbon Fiber Tripod"
+      ]
+    },
+    {
+      "h2": "How much tripod an a6700 and its lenses need",
+      "intent": "load headroom calculation and column-down height",
+      "h3": []
+    },
+    {
+      "h2": "Sony a6700 tripod problems owners run into, and the fix",
+      "intent": "pain points with fixes",
+      "h3": []
+    },
+    {
+      "h2": "Which tripod should you get for your a6700?",
+      "intent": "chooser by lens and trip",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Peak Design Travel Tripod is the most-named travel pick, but pricey",
+    "Light and stable pull against each other",
+    "Carbon fiber saves weight",
+    "Hang a bag from the center hook in wind",
+    "The 70-350mm needs stiffer legs than the 18-50mm"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom vs the real kit: a6700 (493 g) + Sigma 18-50mm (290 g) = 783 g; with the Sony 70-350mm (625 g) it is 1,118 g. Ratings give 4.5x (CT-10 head, 5 kg) to 10.7x (N55C, 12 kg) for the 70-350 kit, so load is never the limit; leg stiffness, column use and the head are.",
+      "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications; https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70350g/specifications; https://www.sigma-global.com/en/lenses/c021_18_50_28/; maker spec pages",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Height with the column down: Peak Design 51.25 in, Befree Advanced 50.39 in, Benro RoadTrip Pro 45.47 in, Leofoto LS-224CX 44.88 in (no column fitted). The a6700's flip screen lets you frame from chest height, so the Peak Design and Befree rarely need the column.",
+      "source": "https://www.peakdesign.com/products/travel-tripod; https://www.manfrotto.com/global-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/; https://www.bhphotovideo.com/c/product/803550631-USE/benro_bmrtprocblu_mefoto_roadtrip_pro_carbon.html; https://leofotooutdoors.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by lens: 18-50mm on carry-on trips -> Peak Design; 70-350mm in wind -> Leofoto LS-224CX (no column); one tripod for travel and home with a pan knob -> Befree Advanced; tight budget and eye level -> SmallRig CT-10; budget carbon at full height -> Neewer N55C; tripod plus monopod for crowded sights -> Benro RoadTrip Pro.",
+      "source": "maker spec pages and owner threads listed in the post",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The a6700's cramped base: a wide plate can block the battery door or the flip-out screen. Fix: a slim Arca plate offset from the battery door, or a cage baseplate with an Arca dovetail, which every pick except the Benro clamps directly.",
+      "source": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+      "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Packapop, the only editorial roundup in the top 10, gives each tripod 'Why you might choose it' and 'Things to consider' lists; the forum threads list picks with short pros and cons.",
+    "avgWords": 1400,
+    "avgProducts": 4,
+    "commonSections": [
+      "short intro",
+      "comparison table or list of picks",
+      "one section per tripod",
+      "decision guide by use",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/SonyAlpha/comments/1ets3v1/need_advice_on_a_tripod_for_sony_a6700/",
+      "title": "Need Advice on a Tripod for Sony A6700"
+    },
+    {
+      "position": 2,
+      "url": "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+      "title": "5 Best Tripods for Sony A6700: Stop Shaky Shots Fast"
+    },
+    {
+      "position": 3,
+      "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+      "title": "Recommended compact travel tripods for the Sony a6700 ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=9a4QnEgVjFw",
+      "title": "Sony A6700 Travel Kit: My ULTIMATE Minimal Setup"
+    },
+    {
+      "position": 5,
+      "url": "https://www.kentfaith.com.au/feature_best-tripod-for-a6700",
+      "title": "Best Tripod For A6700"
+    },
+    {
+      "position": 6,
+      "url": "https://promediagear.com/blogs/guides/best-sony-a6700-accessories-you-should-have",
+      "title": "Best Sony A6700 Accessories (2026 Guide)"
+    },
+    {
+      "position": 7,
+      "url": "https://www.facebook.com/groups/462474645931985/posts/1333558572156917/",
+      "title": "What's the best lightweight tripod setup for Sony A7IV and ..."
+    },
+    {
+      "position": 8,
+      "url": "https://cameradecision.com/accessories/Sony-Alpha-a6700",
+      "title": "Sony A6700 Recommended Accessories"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=23N_9iv5Vms",
+      "title": "Best Sony A6700 Travel Accessories and Gear #sonya6700"
+    },
+    {
+      "position": 10,
+      "url": "https://www.amazon.com/clp/B0D88C4SP8",
+      "title": "Amazon.com: Navitech Lightweight Aluminium Tripod ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "travel",
+      "compact",
+      "accessories",
+      "lightweight"
+    ],
+    "gap": "No top-10 title matches tripods to the a6700 with the lens actually mounted (18-50mm vs 70-350mm); most results are forum threads, accessory lists, store pages or videos."
+  },
+  "serpProducts": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree Advanced (lever, aluminum)",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/"
+      ],
+      "note": "Packapop's travel pick; two a6400 forum posters name the Befree Advanced lever aluminum kit."
+    },
+    {
+      "name": "Leofoto LS-224C(X) Ranger with LH-25",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ],
+      "note": "Both name the LS-224C with the LH-25 ball head; we feature the current X version set with an Amazon listing. Packapop names another Leofoto Ranger (LS-284CEXX)."
+    },
+    {
+      "name": "SmallRig CT-10",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.reddit.com/r/a6700/comments/1wn2r0a/tripod_recommendation_for_a6700_for_shooting/"
+      ]
+    },
+    {
+      "name": "Neewer 66 inch carbon fiber tripod (N55C)",
+      "pages": [
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.reddit.com/r/SonyAlpha/comments/1ets3v1/need_advice_on_a_tripod_for_sony_a6700/"
+      ],
+      "note": "Two DPReview a6400/a6600 owners chose the Neewer 66 inch carbon tripod; the r/SonyAlpha a6700 thread snippet recommends Neewer carbon fiber tripods."
+    },
+    {
+      "name": "Benro MeFOTO RoadTrip Pro Carbon Fiber",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ]
+    },
+    {
+      "name": "Sirui T-025SK",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ],
+      "note": "Not featured: discontinued per a DPReview owner, no clear Amazon US listing."
+    },
+    {
+      "name": "Ulanzi / COMAN Zero Y and Zero F38",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://www.reddit.com/r/a6700/comments/1suxpo9/tripod_recommendations/",
+        "https://www.reddit.com/r/SonyAlpha/comments/1ai9ty4/travel_tripod_recommendations/"
+      ],
+      "note": "Not featured: the Zero Y Amazon listing (B09JN2LRCD) is currently unavailable, and the only F38 listing is the video-head version, not the ball-head model owners name."
+    }
+  ],
+  "stats": [
+    {
+      "number": "493 g",
+      "claim": "Sony a6700 weight with battery and memory card",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6700/specifications",
+      "quote": "Approx. 1 lb 1.4 oz / Approx. 493 g"
+    },
+    {
+      "number": "625 g",
+      "claim": "Sony E 70-350mm F4.5-6.3 G OSS weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70350g/specifications",
+      "quote": "22.1 oz (625 g)"
+    },
+    {
+      "number": "290 g",
+      "claim": "Sigma 18-50mm F2.8 DC DN weight, Sony E-mount",
+      "url": "https://www.sigma-global.com/en/lenses/c021_18_50_28/",
+      "quote": "Sony E-mount：290g / 10.2oz."
+    }
+  ],
+  "videos": [],
+  "internalLinkCandidates": [
+    "best-tripod-for-sony-a7iv",
+    "best-travel-tripod-for-mirrorless-camera",
+    "tripod-center-column-up-or-down-for-landscapes",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "best-tripod-for-tall-photographers-over-6-feet",
+    "peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "find": "It suits a hiker with an APS-C kit counting grams over height.",
+      "replace": "It suits a hiker with an APS-C kit counting grams over height (see our [Sony a6700 tripod picks](/blog/best-tripod-for-sony-a6700/)).",
+      "appliedAt": "2026-10-29T19:43:26.368Z"
+    },
+    {
+      "slug": "best-tripod-for-sony-a7iv",
+      "find": "Keep the column down and it suits a 24-70mm on most travel days.",
+      "replace": "Keep the column down and it suits a 24-70mm on most travel days, and it is also our top pick among [tripods for the Sony a6700](/blog/best-tripod-for-sony-a6700/).",
+      "appliedAt": "2026-10-29T19:43:27.302Z"
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for a6700",
+    "best tripod for sony a6400",
+    "best tripod for sony a6600",
+    "sony a6700 tripod",
+    "best travel tripod for sony a6700"
+  ],
+  "angle": "Match the tripod to the a6700 plus the lens actually mounted (Sigma 18-50mm or Sony 70-350mm), with column-down height, plate clearance for the battery door and screen, and owner reports from Sony forums.",
+  "painPoints": [
+    {
+      "id": "sony-a6700-70-350-travel-tripod-torque",
+      "pain": "Travel tripods feel like they will tip or flex once the 70-350mm goes on the a6700",
+      "details": "a6700 owners planning trips with the Sony 70-350mm find ultralight travel legs shaky in wind and look for stiffer, column-free legs or a weight hook.",
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+      ],
+      "quotes": [
+        {
+          "text": "suddenly every 'travel' tripod feels like it is gonna snap or just tip over",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/"
+        },
+        {
+          "text": "a lightweight setup is basically a sail in the wind",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6700-plate-blocks-battery-screen",
+      "pain": "A tripod plate on the a6700 blocks the battery door or the flip-out screen",
+      "details": "The a6700 base is small, so wide plates and some head knobs get in the way of the battery door and the side-flipping screen; owners use slim offset Arca plates or a cage baseplate.",
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+      ],
+      "quotes": [
+        {
+          "text": "My biggest gripe with the a6700 is how cramped the bottom plate area is",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-center-column-tradeoff",
+      "pain": "Reaching eye level on a travel tripod means using the center column and losing stability",
+      "details": "a6000-series owners are warned that a raised column wobbles in long exposures, so they keep it retracted.",
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ],
+      "quotes": [
+        {
+          "text": "If you're doing long exposures, that center column can get a bit wobbly.",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-too-short-bend-over",
+      "pain": "Compact travel tripods are too short, forcing photographers to bend over",
+      "details": "A 6 ft 1 in a6400 owner asked for a travel tripod tall enough to use comfortably; a 5 ft 9 in owner said his Sirui only just reached eye level.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "camera-tripods-cheap-false-economy",
+      "pain": "Bought a cheap tripod, regretted it, and had to buy a better one",
+      "details": "The DPReview a6400 thread opens with an owner whose cheap tripod broke; a Sony Rumors poster had a budget leg lock snap.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ],
+      "quotes": [
+        {
+          "text": "I originally bought a cheap one but it broke and would rather invest in something long term.",
+          "url": "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,21 +1,19 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-10-28T18:48:19.056Z",
+  "checkedAt": "2026-10-29T19:43:31.621Z",
   "errors": [],
   "warnings": [
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron TrailSeeker Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
-    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
+    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-28 via Firecrawl: Celestron 93607 (celestron.com: ~11 lb capacity, 32-45 in in description vs 49.2 in spec table, 32.3 in folded, 7.8 lb, 2 sections, sliding 1/4-20 bolt, slow-motion handles, friction clutch, tray, C90/C5 match; Amazon B0007UQNY0 title + model 93607); Celestron TrailSeeker 82050 (celestron.com: 70.5 in, 58 in column down, 18.9 in min, 24 in folded, 3.94 lb, 8.8 lb/4 kg, 4 flip-lock sections, 3 leg angles, 2-way fluid pan head, 1/4-20 QR plate, hook, case; Amazon B00K8U2EBK model 82050-CGL); Sky-Watcher Star Adventurer Tripod S20555 (skywatcherusa.com compatibility SA 2i/GTi, AZ-GT, AZ5; High Point: 25-44.75 in, 5.185 lb, 1.25 in aluminum legs, twist locks, 3/8-16 spring-loaded stud, 36 in footprint, tray-spreader, 8.5 in extension; no maker load rating; Amazon B081T81PXQ); Sky-Watcher Wave Carbon Fiber Tripod S30910 (skywatcherusa.com: 29 in max, 19.7 in min, 44 lb/20 kg, 5.3 lb; Astronomics: 2 sections, 3/8-16 center bolt, Wave 100i/150i, 7 in extension S30912; Amazon B0DM6L5M4W). Celestron 93480 specs (24-41 in, 25 lb, stainless legs, 3 captured screws, StarSense tabletop only) from Astronomics/Amazon. Owner reports re-read on Cloudy Nights 582578, 532063, 872038, 934904 p39, 889687 (60% derating), High Point TrailSeeker reviews and S20555 Q&A; Reddit quotes matched to search excerpts at their thread URLs. Number links checked: 11 lbs (Celestron), 44-pound (Sky-Watcher), 8.5 inches (High Point). ZWO TC40/iOptron 8061A Amazon US listings not found.",
-    "at": "2026-10-28T10:33:16.748Z",
-    "hash": "0642743e852c15b4"
+    "notes": "added one internal link to best-tripod-for-binoculars, no claim changed",
+    "at": "2026-10-29T19:43:31.206Z",
+    "hash": "0f4f8a724edda432"
   }
 }

@@ -1,0 +1,503 @@
+{
+  "centralEntity": "tripod for binoculars",
+  "entityVariants": [
+    "binocular tripod",
+    "glassing tripod",
+    "tripod for astronomy binoculars",
+    "hunting tripod for glassing",
+    "tripod for glassing and shooting"
+  ],
+  "entities": [
+    {
+      "name": "binocular tripod adapter",
+      "type": "accessory",
+      "relation": "L-bracket or stud that threads into the binocular's center hinge and fits the tripod head"
+    },
+    {
+      "name": "pan head",
+      "type": "tripod head",
+      "relation": "2-way head with a handle; separate pan and tilt, preferred for glassing"
+    },
+    {
+      "name": "fluid head",
+      "type": "tripod head",
+      "relation": "damped pan and tilt (e.g. SIRUI VA-5) for smooth scanning"
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "frees every axis at once; heavy binoculars can flop when loosened"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "quick-release plate standard on the Vortex and SIRUI heads"
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "adds height but adds shake; detachable on both Vortex picks"
+    },
+    {
+      "name": "Celestron SkyMaster 20x80",
+      "type": "binoculars",
+      "relation": "75 oz astronomy binocular used as the heavy reference load"
+    },
+    {
+      "name": "spotting scope",
+      "type": "optic",
+      "relation": "the second optic most glassers put on the same tripod"
+    },
+    {
+      "name": "Vortex Optics",
+      "type": "brand",
+      "relation": "maker of the Summit Carbon II and Ridgeview Carbon"
+    },
+    {
+      "name": "SLIK",
+      "type": "brand",
+      "relation": "maker of the Pro CF-733 legs"
+    },
+    {
+      "name": "SIRUI",
+      "type": "brand",
+      "relation": "maker of the ST-124 legs and VA-5 fluid head"
+    },
+    {
+      "name": "BOG",
+      "type": "brand",
+      "relation": "maker of the DeathGrip clamp tripod"
+    },
+    {
+      "name": "parallelogram mount",
+      "type": "mount",
+      "relation": "astronomy alternative that lets binoculars hang beside the tripod for zenith viewing"
+    }
+  ],
+  "entitiesNote": "TextRazor (owner rule 2026-10-29) printed skipped: TEXTRAZOR_API_KEY is not set in this environment; entities picked by hand from the top pages.",
+  "attributes": [
+    "max height",
+    "height without center column",
+    "folded length",
+    "weight",
+    "max load",
+    "leg sections",
+    "leg locks",
+    "head type",
+    "Arca-Swiss plate",
+    "binocular adapter"
+  ],
+  "ngrams": [
+    "tripod for binoculars",
+    "binocular tripod",
+    "pan head",
+    "fluid head",
+    "spotting scope",
+    "glassing",
+    "stand-up glassing",
+    "tripod adapter",
+    "max height",
+    "carbon fiber"
+  ],
+  "skipgrams": [
+    "tripod…binoculars",
+    "glassing…standing",
+    "pan…head",
+    "binoculars…adapter",
+    "height…stoop"
+  ],
+  "nlpTerms": [
+    "glass",
+    "steady",
+    "shake",
+    "eyepiece height",
+    "zenith",
+    "seated glassing",
+    "backcountry",
+    "astronomy binoculars",
+    "load rating",
+    "quarter-turn leg locks",
+    "twist locks"
+  ],
+  "questions": [
+    "What is the best tripod for binoculars?",
+    "Do I need an adapter to put binoculars on a tripod?",
+    "How tall should a tripod for binoculars be?",
+    "Is a pan head or a ball head better for binoculars?",
+    "Can a camera tripod hold binoculars?",
+    "What tripod works for glassing and shooting?"
+  ],
+  "contentGaps": [
+    "No top page compares max height against seated and standing glassing in one table",
+    "No top page shows load headroom for a heavy 20x80 binocular against each head's rating",
+    "Head choice for binoculars (pan vs fluid vs clamp) is scattered across forum posts",
+    "Few pages note the SLIK CF-733 is sold as legs only"
+  ],
+  "outline": [
+    {
+      "h2": "Best tripod for binoculars picks at a glance",
+      "intent": "direct answer, comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these binocular tripods",
+      "intent": "method, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for binoculars, reviewed",
+      "intent": "one section per product",
+      "h3": [
+        "SLIK Pro CF-733",
+        "Vortex Summit Carbon II Tripod Kit",
+        "Vortex Ridgeview Carbon Tripod Kit",
+        "SIRUI ST-124+VA-5",
+        "BOG DeathGrip Hunting Tripod"
+      ]
+    },
+    {
+      "h2": "Which binocular tripod should you get",
+      "intent": "chooser by situation",
+      "h3": []
+    },
+    {
+      "h2": "Binocular tripod height, head and load, worked out",
+      "intent": "analysis: standing vs seated height, load headroom vs a 75 oz 20x80",
+      "h3": []
+    },
+    {
+      "h2": "Binocular tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "A tripod steadies binoculars so you see more detail than hand-held",
+    "Binoculars need a tripod adapter that threads into the center hinge",
+    "Stability and weight trade against each other; carbon saves weight",
+    "Pan or fluid heads beat ball heads for scanning",
+    "Height matters most for standing use and for looking up at the sky"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Height ladder from maker specs: Summit Carbon II 53.3 in, SLIK CF-733 52 in column down / 65.5 in up, SIRUI ST-124 62.2 in, BOG 59 in, Ridgeview 73.8 in; the 20.5 in gap between Summit and Ridgeview decides seated vs standing glassing.",
+      "source": "https://vortexoptics.com/summit-carbon-2-tripod.html; https://vortexoptics.com/ridgeview-carbon-tripod.html; https://slikusa.com/products/carbon-fiber-pro-cf-733-twist-locks; https://www.bhphotovideo.com/c/product/1824766-REG/sirui_st124_va5x_st124_standard_series_4_section.html",
+      "absentFrom": [
+        "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+        "https://skiesandscopes.com/best-tripod-for-binoculars/",
+        "https://www.skyatnightmagazine.com/top-astronomy-kit/best-binocular-mounts-tripods",
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Load headroom against a 75 oz (about 4.7 lb) Celestron SkyMaster 20x80: the SIRUI VA-5 kit's 6.6 lb rating leaves under 2 lb spare, while the Vortex kits (22 lb) and SLIK legs (33.1 lb) leave plenty; the head, not the legs, sets the limit.",
+      "source": "https://www.celestron.com/products/skymaster-20x80mm-porro-binoculars; maker spec pages",
+      "absentFrom": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/",
+        "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by situation: backcountry seated glassing, standing glassing, budget smooth fluid head, buy-the-legs-and-head-separately, glass and shoot from one clamp.",
+      "source": "our decision rule from the specs above",
+      "absentFrom": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://skiesandscopes.com/best-tripod-for-binoculars/",
+        "https://www.skyatnightmagazine.com/top-astronomy-kit/best-binocular-mounts-tripods"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Sticky pan heads that jump while scanning: owners fix it with a fluid head (SIRUI VA-5) or a damped 2-way head rather than new legs.",
+      "source": "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/",
+      "absentFrom": [
+        "https://skiesandscopes.com/best-tripod-for-binoculars/",
+        "https://www.skyatnightmagazine.com/top-astronomy-kit/best-binocular-mounts-tripods"
+      ]
+    }
+  ],
+  "targetWords": 1550,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+      "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/",
+      "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+      "https://www.skyatnightmagazine.com/top-astronomy-kit/best-binocular-mounts-tripods",
+      "https://skiesandscopes.com/best-tripod-for-binoculars/",
+      "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "MeatEater, Sky at Night and Best Binocular Reviews describe each tripod in written paragraphs with a few specs; only Skies & Scopes adds short pros/cons lists, and the forum threads are prose.",
+    "avgWords": 1500,
+    "avgProducts": 5,
+    "commonSections": [
+      "what to look for (weight, stability, height, head)",
+      "product write-ups",
+      "binocular adapter",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+      "title": "My Best Tripod for Binoculars & Spotting Scopes"
+    },
+    {
+      "position": 3,
+      "url": "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/",
+      "title": "Binocular tripod recommendations"
+    },
+    {
+      "position": 4,
+      "url": "https://optcorp.com/collections/binocular-tripods",
+      "title": "Binocular Tripods"
+    },
+    {
+      "position": 5,
+      "url": "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+      "title": "The Best Hunting Tripods for Glassing and Shooting"
+    },
+    {
+      "position": 6,
+      "url": "https://www.reddit.com/r/Astronomy/comments/uubp6q/any_suggestions_for_a_tripod_for_my_celestron/",
+      "title": "Any suggestions for a tripod for my Celestron binoculars?"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=cU3xcicU9Jc",
+      "title": "Choosing the Best Tripod for Binocular Stargazing"
+    },
+    {
+      "position": 9,
+      "url": "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/",
+      "title": "I can't find a stable tripod - Binoculars"
+    },
+    {
+      "position": 10,
+      "url": "https://www.skyatnightmagazine.com/top-astronomy-kit/best-binocular-mounts-tripods",
+      "title": "Best mounts and tripods for binoculars"
+    },
+    {
+      "position": 12,
+      "url": "https://stargazerslounge.com/topic/397057-tripod-for-binoculars/",
+      "title": "Tripod for binoculars - Discussions"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "binoculars",
+      "spotting scopes",
+      "glassing",
+      "astronomy",
+      "mounts"
+    ],
+    "gap": "No top-10 title carries a year or a number of picks, and none covers both glassing (hunting) and stargazing in one list."
+  },
+  "serpProducts": [
+    {
+      "name": "SLIK Pro CF-733 (and 634 sibling)",
+      "pages": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/",
+        "https://outdoorsmans.com/blogs/binoculars/how-to-build-the-best-glassing-set-up-for-your-binoculars"
+      ]
+    },
+    {
+      "name": "Vortex Summit Carbon II Tripod Kit",
+      "pages": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/"
+      ]
+    },
+    {
+      "name": "Vortex Ridgeview Carbon Tripod Kit",
+      "pages": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/"
+      ]
+    },
+    {
+      "name": "SIRUI ST-124 with VA-5 fluid head",
+      "pages": [
+        "https://rokslide.com/forums/threads/binocular-tripod-recommendations.301472/",
+        "https://www.youtube.com/watch?v=vqLimpZXE_c",
+        "https://www.longrangehunting.com/threads/preferred-glassing-tripod-for-backpack-hunting.339101/",
+        "https://outdoorsmans.com/blogs/binoculars/how-to-build-the-best-glassing-set-up-for-your-binoculars"
+      ],
+      "note": "Outdoorsmans and longrangehunting name the VA-5 head; the YouTube result names the ST-124 VA-5 kit."
+    },
+    {
+      "name": "BOG DeathGrip Hunting Tripod",
+      "pages": [
+        "https://www.hunttalk.com/threads/tripod-for-binocular.324965/",
+        "https://www.facebook.com/groups/1794288334126669/posts/4465896056965870/"
+      ]
+    },
+    {
+      "name": "Vanguard Alta Pro 263 (skipped: Amazon listings currently unavailable)",
+      "pages": [
+        "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+        "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+      ]
+    },
+    {
+      "name": "Outdoorsmans tripod (skipped: no Amazon listing)",
+      "pages": [
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://www.hunttalk.com/threads/tripod-for-binocular.324965/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-ball-head-flops-with-scope",
+      "pain": "A ball head lets the spotting scope or big binocular flop over when unlocked",
+      "details": "Ball heads release every axis at once; glassers prefer pan or fluid heads with separate pan and tilt.",
+      "sources": [
+        "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/",
+        "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+      ],
+      "quotes": [
+        {
+          "text": "Ball heads work to only they are sensitive when you unlock the optic as they can move wherever.",
+          "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-scope-full-height-wobble",
+      "pain": "A light backpacking tripod wobbles at full height with heavy glass",
+      "details": "Owners report light carbon legs spreading or wiggling at full extension with big optics, but solid when sitting.",
+      "sources": [
+        "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+      ],
+      "quotes": [
+        {
+          "text": "Using an 85mm scope on light duty tripods, with legs fully extended, is an unrealistic expectation and muddies the water.",
+          "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-binocular-stoop-looking-up",
+      "pain": "With binoculars on a tripod you have to stoop to look up at the sky",
+      "details": "When binoculars point upward the eyepieces drop below the tripod's top, so even a 69 in tripod leaves many observers bending; a taller tripod shakes more, and sitting puts the chair in the legs.",
+      "sources": [
+        "https://skiesandscopes.com/best-tripod-for-binoculars/",
+        "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+      ],
+      "quotes": [
+        {
+          "text": "It will likely require you to stoop when viewing.",
+          "url": "https://skiesandscopes.com/best-tripod-for-binoculars/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-binocular-camera-tripod-too-shaky",
+      "pain": "A standard camera tripod is too shaky for big astronomy binoculars",
+      "details": "Beginners with 25x70 or 20x80 binoculars find a light camera tripod shakes; replies point to heavier legs and fluid heads.",
+      "sources": [
+        "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "I tried a standard camera tripod. Too shaky.",
+          "url": "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-glassing-pan-head-sticky",
+      "pain": "A cheap pan head sticks and jumps while scanning with binoculars",
+      "details": "Glassers find the head matters more than the legs; a sticky head makes slow, precise panning impossible.",
+      "sources": [
+        "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+      ],
+      "quotes": [
+        {
+          "text": "the head is sticky and jumps around. Very hard to pan smoothly and with precision.",
+          "url": "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "73.8 in",
+      "claim": "Vortex Ridgeview Carbon max height",
+      "url": "https://vortexoptics.com/ridgeview-carbon-tripod.html",
+      "quote": "Max Height | 73.8\""
+    },
+    {
+      "number": "52 in",
+      "claim": "SLIK Pro CF-733 max height with the center column down",
+      "url": "https://slikusa.com/products/carbon-fiber-pro-cf-733-twist-locks",
+      "quote": "Max Height (Column Down) | 52 in / 1320mm"
+    },
+    {
+      "number": "75 oz",
+      "claim": "Celestron SkyMaster 20x80 binocular weight",
+      "url": "https://www.celestron.com/products/skymaster-20x80mm-porro-binoculars",
+      "quote": "Weight: | 75 oz (2126 g)"
+    },
+    {
+      "number": "2.5 lbs",
+      "claim": "Vortex Summit Carbon II weight",
+      "url": "https://vortexoptics.com/summit-carbon-2-tripod.html",
+      "quote": "Weight | 2.5 lbs."
+    }
+  ],
+  "videos": [
+    {
+      "id": "5WM-QzNZN6k",
+      "title": "Vortex Summit Carbon II Tripod - Product Overview",
+      "channel": "Vortex Optics",
+      "url": "https://www.youtube.com/watch?v=5WM-QzNZN6k",
+      "section": "The 5 best tripods for binoculars, reviewed"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-tripod-for-hunting",
+    "binocular-tripod-adapter",
+    "best-tripod-for-spotting-scope",
+    "best-tripod-for-telescope",
+    "tripod-center-column-up-or-down-for-landscapes"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "find": "Pull the yoke and an optic or camera mount goes on, so the same sticks steady binoculars.",
+      "replace": "Pull the yoke and an optic or camera mount goes on, so the same sticks steady binoculars (our [tripods for binoculars](/blog/best-tripod-for-binoculars/) guide covers dedicated glassing legs).",
+      "appliedAt": "2026-10-29T19:43:30.844Z"
+    },
+    {
+      "slug": "best-tripod-for-telescope",
+      "find": "I would keep it to small scopes.",
+      "replace": "I would keep it to small scopes; for heavy binoculars, see our [best tripods for binoculars](/blog/best-tripod-for-binoculars/).",
+      "appliedAt": "2026-10-29T19:43:31.646Z"
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for astronomy binoculars",
+    "best tripod for binoculars hunting",
+    "best tripod for glassing and shooting",
+    "best tripod for glassing",
+    "best tripod for shooting and glassing",
+    "best hunting tripod for glassing",
+    "binocular tripod"
+  ],
+  "angle": "One list for glassers and stargazers, picked by eye height and head type, with load math against a heavy 20x80.",
+  "productChanges": "Vanguard Alta Pro 263 (2 top pages) dropped: both Amazon US listings unavailable on 2026-10-29. Outdoorsmans dropped: not sold on Amazon."
+}

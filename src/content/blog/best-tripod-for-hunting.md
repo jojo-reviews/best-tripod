@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
-  - best-tripod-for-fujifilm-x-t5
-  - best-tripod-for-sony-a7iv
-  - best-tripod-for-macro-photography
-  - best-tripod-for-astrophotography
+  - best-tripod-for-filming-sports
+  - best-tripod-for-sony-zv-e10
+  - best-tripod-for-sony-a6700
+  - best-tripod-for-nikon-z8
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying
@@ -527,7 +527,7 @@ Here is how the six picks compare on the numbers I weighed most:
 
 ### Primos Trigger Stick Gen3 Tall Tripod: fastest for spot-and-stalk
 
-I picked these sticks because height changes take one hand: squeeze the trigger, set the yoke on the target line, let go. Primos lists 24 to 62 in, about 3.5 lb, a Quick Detach Yoke System with an integrated lock, and a leg angle lock. Pull the yoke and an optic or camera mount goes on, so the same sticks steady binoculars.
+I picked these sticks because height changes take one hand: squeeze the trigger, set the yoke on the target line, let go. Primos lists 24 to 62 in, about 3.5 lb, a Quick Detach Yoke System with an integrated lock, and a leg angle lock. Pull the yoke and an optic or camera mount goes on, so the same sticks steady binoculars (our [tripods for binoculars](/blog/best-tripod-for-binoculars/) guide covers dedicated glassing legs).
 
 What owners report is mixed, and I would weigh it. One r/Hunting owner says standing is a breeze to set up while sitting takes both hands. Others describe legs that kept extending under the rifle with the lock on, a set that stuck extended after one range trip, and a Gen 3 that broke after three uses; a stalking forum member cleared jammed legs with WD-40. For still-hunting whitetails or calling turkeys, I still think the speed is worth it. It is listed on Amazon as the [Primos Trigger Stick Gen3 Tall Tripod](amzn:Primos+Trigger+Stick+Gen3+Tall+Tripod+24-62).
 

@@ -1,0 +1,19 @@
+{
+  "slug": "best-tripod-for-binoculars",
+  "pass": true,
+  "checkedAt": "2026-10-29T19:43:43.029Z",
+  "errors": [],
+  "warnings": [
+    "product \"SLIK Pro CF-733 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Ridgeview Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI ST-124 Carbon Fiber Tripod with VA-5 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-29 via Firecrawl: Vortex Summit Carbon II (2.5 lb, 6.3-53.3 in, 18.1 in folded, 22 lb, 4 sections, quarter-turn, Arca) and Ridgeview Carbon (3.2 lb, 8.3-73.8 in, 29.0 in, 22 lb, 3 sections, 2-way pan head) on vortexoptics.com; SLIK Pro CF-733 (65.5/52 in, 8.2 in min, 22.6 in folded, 2.9 lb, 33.1 lb, twist lock, legs only) on slikusa.com; SIRUI ST-124 kit (14.8-62.2 in, 18.9 in folded, 6.6 lb load, 4 sections, twist lock, Arca-type plate) on B&H and the Amazon spec table (1.8 kg, under 4 lb); BOG DeathGrip (7-59 in, 8.5 lb, lever locks, aluminum) on boghunt.com; Celestron SkyMaster 20x80 75 oz on celestron.com. Amazon US listings in stock via Firecrawl amazon-com prices: B07JP2GQWY, B08SC6FGTF, B08SBVMS8W, B07KCZGT6B, B07KMPCVMH (BOG sold by Amazon.com). Owner claims checked on MeatEater, Rokslide (binocular tripod thread, Sirui ST-124 VA-5 thread), goHUNT, Hunt Talk (quote verified verbatim), Cloudy Nights (OP quote), Skies & Scopes (stoop quote). Top-10 recommendation evidence in brief serpProducts. Re-checked expanded Ridgeview (Rokslide owner: sturdy, pricey, dislikes head for binos; 29.0 in folded; 22 lb vs 75 oz 20x80), SIRUI (Rokslide: best tripod and head for the money; a little large) and BOG sections against the same sources.",
+    "at": "2026-10-29T19:25:51.276Z",
+    "hash": "e329a9a67594930e"
+  }
+}

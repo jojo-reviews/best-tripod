@@ -1,0 +1,19 @@
+{
+  "slug": "best-tripod-for-filming-sports",
+  "pass": true,
+  "checkedAt": "2026-10-29T19:42:44.569Z",
+  "errors": [],
+  "warnings": [
+    "product \"Glide Gear TST 20 Sky High Tall Video Camera Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER TP75 Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-29 via Firecrawl: Glide Gear TST 20 (glidegear.net: 20 ft, five air-cushioned 4 ft sections, 8 lb, 1/4-20 + 3/8 adapter, stabilization kit; Amazon B07S9VNR73 in stock); NEEWER TP75 (neewer.com spec list: 74/35 in, 36.6 in folded, 10.1 lb, 22 lb, 75mm bowl, flip lock, 3 sections, -75/+90 tilt; Amazon B0BPXRVD79 in stock, ships from Amazon); SmallRig AD-01 (smallrig.com: 85-186 cm, 8 kg tripod / 6 kg head, 4 kg; Amazon bullets: 75mm bowl, +90/-60 tilt, DJI RS plate; Ken Rockwell: 35 in folded; Amazon B09X2X2BKC in stock, ships from Amazon); Manfrotto Befree 3-Way Live Advanced (specs reused from fact-checked best-tripod-for-youtube-videos, B08F9JRDSY); Sachtler System Ace M MS Mk II 1001M (sachtler.com: 0-4 kg, 5-step counterbalance, 3+0 drag, 75mm, 78-169 cm, 86 cm, 4.4 kg, -75/+90 tilt; Amazon B0CZHKT5J5 in stock, ships from Amazon). Stats: Trace 16 ft (traceup.com excerpt), Ulanzi 50-60 / 65-75 in (scraped). Owner quotes checked against search excerpts at their thread URLs (r/videography 14xns9h, qu0961, 14cdeol, 1qeii2m, 1ud2dzg, 1dg9pdp, 1t2upd3; B&H TST 20 reviews; Veo FB group; Photography Life; Newsshooter; r/cinematography 14jelgm, 1fc06cv; r/SonyFX6). Ulanzi VideoFast dropped (both Amazon US listings unavailable). No prices, ratings or testing claims.",
+    "at": "2026-10-29T19:42:44.131Z",
+    "hash": "c6736f53092c8385"
+  }
+}

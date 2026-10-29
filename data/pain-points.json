@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:40:14.944Z",
+  "updatedAt": "2026-10-29T19:45:00.000Z",
   "categories": {
     "camera-tripods": [
       {
@@ -447,7 +447,9 @@
           "are cheap tripods worth it for beginners",
           "best tripod for photography"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "best-tripod-for-sony-a6700"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -1549,6 +1551,382 @@
           "best-tripod-for-macro-photography"
         ],
         "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-zve10-front-heavy-lens-mini-tripod-tilts",
+        "pain": "A ZV-E10 with a fast prime like the Sigma 16mm is front-heavy, and mini tripods and small ball heads tilt or sag mid-shot",
+        "details": "ZV-E10 vloggers who move from the kit lens to the Sigma 16mm f/1.4 find that budget minis and flexible tripods slowly tip forward; forum replies point to payload specs and firmer heads.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/",
+            "platform": "forum",
+            "title": "Best compact tripods for the Sony ZV-E10 vlogging camera?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "In my experience, the ZV-E10 with that Sigma 16mm is lowkey front-heavy.",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "\"GorillaPod 3K\" \"ZV-E10\" tripod"
+        ],
+        "keywords": [
+          "best tripod for sony zv-e10"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-zve10-flexible-legs-loosen",
+        "pain": "Flexible GorillaPod-style legs loosen or pop out after months of daily vlogging, so the ZV-E10 sags or falls",
+        "details": "ZV-E10 street vloggers report going through several flexible tripods because the plastic joints lose tension; others choose rigid minis instead.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+            "platform": "forum",
+            "title": "Which compact tripod works best for Sony vlogging setups?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Over the years I have gone through three of those units because the plastic sockets simply dont hold up to the constant tension of daily vlogging.",
+            "url": "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "zv-e10 compact tripod vlogging forum"
+        ],
+        "keywords": [
+          "best tripod for sony zv-e10"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-zve10-need-tall-cheap-durable",
+        "pain": "ZV-E10 owners want a tripod that is tall and durable but not expensive, and most vlogging minis stop at table height",
+        "details": "The top Reddit thread for this search asks for a tall, durable, affordable tripod; most ZV-E10 accessory lists only offer table-height minis.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/",
+            "platform": "reddit",
+            "title": "What's the best tripod for this camera? : r/SonyZVE10",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I need something tall durable but not super expensive",
+            "url": "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "site:reddit.com zv-e10 tripod recommendation"
+        ],
+        "keywords": [
+          "best tripod for sony zv-e10"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-binocular-stoop-looking-up",
+        "pain": "With binoculars on a tripod you have to stoop to look up at the sky",
+        "details": "When binoculars point upward the eyepieces drop below the tripod's top, so even a 69 in tripod leaves many observers bending; a taller tripod shakes more, and sitting puts the chair in the legs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://skiesandscopes.com/best-tripod-for-binoculars/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It will likely require you to stoop when viewing.",
+            "url": "https://skiesandscopes.com/best-tripod-for-binoculars/"
+          }
+        ],
+        "coveredBy": [
+          "best-tripod-for-binoculars"
+        ]
+      },
+      {
+        "id": "camera-tripods-binocular-camera-tripod-too-shaky",
+        "pain": "A standard camera tripod is too shaky for big astronomy binoculars",
+        "details": "Beginners with 25x70 or 20x80 binoculars find a light camera tripod shakes; replies point to heavier legs and fluid heads.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I tried a standard camera tripod. Too shaky.",
+            "url": "https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
+          }
+        ],
+        "coveredBy": [
+          "best-tripod-for-binoculars"
+        ]
+      },
+      {
+        "id": "camera-tripods-glassing-pan-head-sticky",
+        "pain": "A cheap pan head sticks and jumps while scanning with binoculars",
+        "details": "Glassers find the head matters more than the legs; a sticky head makes slow, precise panning impossible.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the head is sticky and jumps around. Very hard to pan smoothly and with precision.",
+            "url": "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+          }
+        ],
+        "coveredBy": [
+          "best-tripod-for-binoculars"
+        ]
+      },
+      {
+        "id": "nikon-z8-peak-design-vibrates-long-lens",
+        "pain": "A slim travel tripod like the Peak Design shakes under a Z8 with a 100-400mm once the wind picks up",
+        "details": "Z8 owners heading to Iceland and Olympic NP report thin lower legs flexing with long lenses and 30-second exposures.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://forum.cameraegg.org/nikon-forum/most-recommended-tripods-for-nikon-z-series-mirrorless-cameras-81943/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "it really vibrates with the Nikon NIKKOR Z 100-400mm f/4.5-5.6 VR S when things get wild",
+            "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
+          }
+        ],
+        "searches": [
+          "best tripod for nikon z8"
+        ],
+        "answeredBy": [
+          "best-tripod-for-nikon-z8"
+        ]
+      },
+      {
+        "id": "nikon-z8-center-column-weak-in-wind",
+        "pain": "The center column is the weak link in wind",
+        "details": "Owners moved to columnless legs with thicker top tubes after losing shots to vibration on windy ridges.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.camera-rumors.com/community/nikon-forum/what-is-the-best-tripod-for-nikon-z8-76602/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Center columns are usually the weakest link in high wind",
+            "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
+          }
+        ],
+        "searches": [
+          "best tripod for nikon z8"
+        ],
+        "answeredBy": [
+          "best-tripod-for-nikon-z8"
+        ]
+      },
+      {
+        "id": "nikon-z8-leg-clips-with-gloves",
+        "pain": "Flip-style leg clips are fiddly with gloves in rain",
+        "details": "A Z8 owner worried the Peak Design leg clips would be hard to work in gloves; a reply says twist locks are easier with wet hands.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/nikon-forum/most-recommended-tripods-for-nikon-z-series-mirrorless-cameras-81943/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "a bit too \"fiddly\" with those leg clips when I'm wearing gloves in the rain",
+            "url": "https://forum.cameraegg.org/nikon-forum/most-recommended-tripods-for-nikon-z-series-mirrorless-cameras-81943/"
+          }
+        ],
+        "searches": [
+          "best tripod for nikon z8"
+        ],
+        "answeredBy": [
+          "best-tripod-for-nikon-z8"
+        ]
+      },
+      {
+        "id": "nikon-z8-l-bracket-peak-design-head",
+        "pain": "A Z8 L-bracket does not sit right in the Peak Design head clamp",
+        "details": "Owners fitting Arca-type L-brackets to the Peak Design head remove the clamp safety screws so the bracket slides in.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Take the two screws out of the tripod head - you can use the Allen key that comes with it to do that.",
+            "url": "https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
+          }
+        ],
+        "searches": [
+          "best tripod for nikon z8"
+        ],
+        "answeredBy": [
+          "best-tripod-for-nikon-z8"
+        ]
+      },
+      {
+        "id": "nikon-z8-wildlife-long-lens-needs-gimbal",
+        "pain": "A ball head flops with a long wildlife lens on the Z8",
+        "details": "Z8 wildlife beginners are told that a long, front-heavy lens needs a gimbal head and thick legs, not a travel set.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.camera-rumors.com/community/nikon-forum/what-is-the-best-tripod-for-nikon-z8-76602/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "A gimbal head is essential for wildlife.",
+            "url": "https://www.camera-rumors.com/community/nikon-forum/what-is-the-best-tripod-for-nikon-z8-76602/"
+          }
+        ],
+        "searches": [
+          "best tripod for nikon z8"
+        ],
+        "answeredBy": [
+          "best-tripod-for-nikon-z8"
+        ]
+      },
+      {
+        "id": "sony-a6700-70-350-travel-tripod-torque",
+        "pain": "Travel tripods feel like they will tip or flex once the 70-350mm goes on the a6700",
+        "details": "a6700 owners planning trips with the Sony 70-350mm find ultralight travel legs shaky in wind and look for stiffer, column-free legs or a weight hook.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/",
+            "platform": "forum",
+            "title": "Recommended compact travel tripods for the Sony a6700 camera body?",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+            "platform": "forum",
+            "title": "Essential travel tripod recommendations for Sony a6700 owners?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "suddenly every travel tripod feels like it is gonna snap or just tip over",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/"
+          },
+          {
+            "text": "a lightweight setup is basically a sail in the wind",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+          }
+        ],
+        "searches": [
+          "tripod for a6700 70-350mm",
+          "travel tripod sony 70-350 wind"
+        ],
+        "keywords": [
+          "best tripod for sony a6700"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6700"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-a6700-plate-blocks-battery-screen",
+        "pain": "A tripod plate on the a6700 blocks the battery door or the flip-out screen",
+        "details": "The a6700 base is small, so wide plates and some head knobs get in the way of the battery door and the flip-out screen; owners use slim offset Arca plates or a cage baseplate.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/",
+            "platform": "forum",
+            "title": "Essential travel tripod recommendations for Sony a6700 owners?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "My biggest gripe with the a6700 is how cramped the bottom plate area is",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-recommendations-for-sony-a6700-owners-13342/"
+          }
+        ],
+        "searches": [
+          "a6700 tripod plate battery door",
+          "a6700 arca plate screen"
+        ],
+        "keywords": [
+          "best tripod for sony a6700"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6700"
+        ],
+        "foundAt": "2026-10-29"
       }
     ],
     "monopods": [
@@ -2094,7 +2472,8 @@
         "coveredBy": [
           "best-tripod-for-tall-photographers-over-6-feet",
           "how-tall-should-a-tripod-be-for-my-height",
-          "best-tripod-for-sony-a7iv"
+          "best-tripod-for-sony-a7iv",
+          "best-tripod-for-sony-a6700"
         ],
         "foundAt": "2026-10-19"
       },
@@ -2142,7 +2521,8 @@
         ],
         "coveredBy": [
           "best-travel-tripod-for-mirrorless-camera",
-          "tripod-center-column-up-or-down-for-landscapes"
+          "tripod-center-column-up-or-down-for-landscapes",
+          "best-tripod-for-sony-a6700"
         ],
         "foundAt": "2026-10-19"
       },
@@ -3291,6 +3671,167 @@
           "best-tripod-for-youtube-videos"
         ],
         "foundAt": "2026-10-25"
+      },
+      {
+        "id": "sports-ball-head-panning",
+        "pain": "Bought a ball head for panning, but it only moves freely when unlocked",
+        "details": "Parents filming youth soccer find a ball head does not give smooth pans; a fluid or pan-and-tilt head does.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
+            "platform": "reddit",
+            "title": "Bought a ball head for panning, but it only moves freely when unlocked",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I just ordered a ball head thinking that would give me better panning",
+            "url": "https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for filming sports"
+        ],
+        "keywords": [
+          "best tripod for filming sports"
+        ],
+        "coveredBy": [
+          "best-tripod-for-filming-sports"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sports-tall-stand-wind",
+        "pain": "Tall sports stands tip over in wind with the camera on top",
+        "details": "TST 20 owners report the stand falling in wind, once breaking a Veo camera.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.bhphotovideo.com/c/product/1607038-REG/glide_gear_tst_20_tall_tripod_20.html/reviews",
+            "platform": "retailer",
+            "title": "Tall sports stands tip over in wind with the camera on top",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.facebook.com/groups/522303685518817/posts/810017350080781/",
+            "platform": "facebook",
+            "title": "Tall sports stands tip over in wind with the camera on top",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "This is a good value tripod but is not very stable in higher winds.",
+            "url": "https://www.bhphotovideo.com/c/product/1607038-REG/glide_gear_tst_20_tall_tripod_20.html/reviews",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for filming sports"
+        ],
+        "keywords": [
+          "best tripod for filming sports"
+        ],
+        "coveredBy": [
+          "best-tripod-for-filming-sports"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sports-phone-fluid-head-counterbalance",
+        "pain": "A phone is too light for many fluid heads, so the tilt springs back",
+        "details": "Advice for phone filmers is to pick a fluid head whose counterbalance goes down to zero.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/",
+            "platform": "reddit",
+            "title": "A phone is too light for many fluid heads, so the tilt springs back",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Just make sure the fluid head is adjustable down to a 0kg",
+            "url": "https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for filming sports"
+        ],
+        "keywords": [
+          "best tripod for filming sports"
+        ],
+        "coveredBy": [
+          "best-tripod-for-filming-sports"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sports-telephoto-shake-livestream",
+        "pain": "Camera shake at long focal lengths when filming or streaming a whole match",
+        "details": "A cricket streamer with a long zoom reports visible shake from a light setup.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/14cdeol/what_will_be_my_best_bang_for_buck_for/",
+            "platform": "reddit",
+            "title": "Camera shake at long focal lengths when filming or streaming a whole match",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "getting considerable camera shake with my setup",
+            "url": "https://www.reddit.com/r/videography/comments/14cdeol/what_will_be_my_best_bang_for_buck_for/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for filming sports"
+        ],
+        "keywords": [
+          "best tripod for filming sports"
+        ],
+        "coveredBy": [
+          "best-tripod-for-filming-sports"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sports-monopod-for-video",
+        "pain": "A monopod is not steady enough for long locked-off sports video",
+        "details": "Videographers steer people from monopods to a tripod for full-game recording.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1qeii2m/monopod_good_for_sports_videography/",
+            "platform": "reddit",
+            "title": "A monopod is not steady enough for long locked-off sports video",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Monopod is not good solution for video.",
+            "url": "https://www.reddit.com/r/videography/comments/1qeii2m/monopod_good_for_sports_videography/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for filming sports"
+        ],
+        "keywords": [
+          "best tripod for filming sports"
+        ],
+        "coveredBy": [
+          "best-tripod-for-filming-sports"
+        ],
+        "foundAt": "2026-10-29"
       }
     ],
     "tabletop-mini-tripods": [

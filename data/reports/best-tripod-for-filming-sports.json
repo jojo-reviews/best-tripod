@@ -1,0 +1,531 @@
+{
+  "keyword": "best tripod for filming sports",
+  "createdAt": "2026-10-29T19:42:47.231Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for filming sports",
+    "entityVariants": [
+      "best tripod for filming sports",
+      "tripod for recording sports games",
+      "tall tripod for filming sports",
+      "best tripod for bleachers",
+      "best tripod for veo camera",
+      "best tripod for volleyball",
+      "best tripod for tennis recording"
+    ],
+    "entities": [
+      {
+        "name": "fluid head",
+        "type": "component",
+        "relation": "oil-damped pan and tilt head that keeps game pans smooth"
+      },
+      {
+        "name": "counterbalance",
+        "type": "feature",
+        "relation": "spring that holds a tilted camera in place; must match the payload"
+      },
+      {
+        "name": "75mm bowl",
+        "type": "standard",
+        "relation": "half-ball mount used by the video tripods here for quick leveling"
+      },
+      {
+        "name": "tall tripod stand",
+        "type": "product type",
+        "relation": "mast-style stand that lifts an AI or PTZ camera above players"
+      },
+      {
+        "name": "Veo camera",
+        "type": "camera",
+        "relation": "AI sports camera that is mounted high on a tall stand"
+      },
+      {
+        "name": "Glide Gear TST 20",
+        "type": "product",
+        "relation": "20 ft aluminum tall tripod stand rated to 8 lb"
+      },
+      {
+        "name": "NEEWER TP75",
+        "type": "product",
+        "relation": "74 in aluminum video tripod with fluid head, 22 lb load"
+      },
+      {
+        "name": "SmallRig AD-01",
+        "type": "product",
+        "relation": "73 in twin-tube video tripod with fluid head, 8 kg tripod load"
+      },
+      {
+        "name": "Manfrotto Befree 3-Way Live Advanced",
+        "type": "product",
+        "relation": "travel tripod kit with a 3-way fluid head"
+      },
+      {
+        "name": "Sachtler System Ace M MS Mk II",
+        "type": "product",
+        "relation": "2-stage aluminum video system with 5-step counterbalance"
+      },
+      {
+        "name": "monopod",
+        "type": "alternative",
+        "relation": "mobile support for photographers; weak for locked-off video"
+      }
+    ],
+    "attributes": [
+      "working height vs crowd and bleachers",
+      "fluid drag and counterbalance",
+      "payload vs camera and lens weight",
+      "tilt range",
+      "wind stability and sandbag hook",
+      "folded length and weight",
+      "leg locks",
+      "75mm bowl leveling",
+      "quick release plate type"
+    ],
+    "ngrams": [
+      "tripod for filming sports",
+      "fluid head",
+      "video tripod",
+      "tall tripod",
+      "20 ft tripod",
+      "soccer games",
+      "sideline",
+      "bleachers",
+      "counterbalance",
+      "pan and tilt",
+      "sandbag"
+    ],
+    "skipgrams": [
+      "tripod…sports",
+      "fluid…pan",
+      "tall…wind",
+      "height…bleachers",
+      "ball head…panning",
+      "payload…counterbalance"
+    ],
+    "nlpTerms": [
+      "sideline",
+      "bleachers",
+      "end zone",
+      "fluid head",
+      "drag",
+      "counterbalance",
+      "pan bar",
+      "75mm bowl",
+      "mid-level spreader",
+      "twin-tube legs",
+      "AI camera",
+      "Veo",
+      "PTZ camera",
+      "sandbag",
+      "wind",
+      "telephoto",
+      "camcorder",
+      "phone mount",
+      "monopod"
+    ],
+    "questions": [
+      "What kind of tripod is best for filming sports?",
+      "Is a ball head or a fluid head better for filming sports?",
+      "How tall should a tripod be for filming soccer?",
+      "Can I film sports with a phone on a video tripod?",
+      "Is a monopod good for sports video?",
+      "How do I keep a tall tripod from blowing over?"
+    ],
+    "contentGaps": [
+      "Two different jobs: panning fluid-head tripods vs tall fixed stands for AI cameras",
+      "Payload math: camera plus lens vs head rating and counterbalance range",
+      "Height needed to clear standing parents and bleachers, with numbers",
+      "Wind safety on tall stands with a sandbag and wide leg spread",
+      "Phones and light cameras on fluid heads that do not go down to 0 kg counterbalance"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for filming sports picks at a glance",
+        "intent": "short answer, top picks, comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these sports filming tripods",
+        "intent": "method, owner sources, story block",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for filming sports, reviewed",
+        "intent": "one paragraph review per product",
+        "h3": [
+          "Glide Gear TST 20 Sky High: best tall tripod for filming sports from above",
+          "NEEWER TP75 74 inch Video Tripod: best budget tripod for panning games",
+          "SmallRig AD-01 Heavy Duty Video Tripod: best tripod for bleachers on a budget",
+          "Manfrotto Befree 3-Way Live Advanced: most portable sports tripod",
+          "Sachtler System Ace M MS Mk II: best pro tripod for filming sports"
+        ]
+      },
+      {
+        "h2": "Sports tripod height for sidelines, bleachers and AI cameras",
+        "intent": "height numbers, Trace 16 ft, Ulanzi height ranges",
+        "h3": []
+      },
+      {
+        "h2": "Sports tripod payload and fluid head math",
+        "intent": "payload vs counterbalance, phone on fluid head",
+        "h3": []
+      },
+      {
+        "h2": "Sports tripod problems owners run into, and the fix",
+        "intent": "pain points with fixes",
+        "h3": []
+      },
+      {
+        "h2": "Which sports tripod should you get?",
+        "intent": "chooser block",
+        "h3": []
+      }
+    ],
+    "targetWords": 1800,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+        "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+        "https://glidegear.net/products/glide-gear-tst-20-sky-high-video-camera-20-tripod-stand",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.reddit.com/r/osmopocket/comments/1koqy7m/tripod_recommendations_for_outdoor_sports_capture/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The sports-specific top results (Ulanzi guide, StreamGeeks chapter, Glide Gear page) describe gear in running paragraphs by use case, not pros-cons lists or spec tables.",
+      "avgWords": 1800,
+      "avgProducts": 3,
+      "commonSections": [
+        "why a tripod for sports",
+        "height for sideline and bleachers",
+        "fluid head vs ball head",
+        "stability and wind",
+        "type by sport",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/sports-camera-tripod/s?k=sports+camera+tripod",
+        "title": "Sports Camera Tripod"
+      },
+      {
+        "position": 2,
+        "url": "https://glidegear.net/products/glide-gear-tst-20-sky-high-video-camera-20-tripod-stand",
+        "title": "Glide Gear Sky High 20' Video Camera Sports Tripod Stand"
+      },
+      {
+        "position": 3,
+        "url": "https://www.reddit.com/r/osmopocket/comments/1koqy7m/tripod_recommendations_for_outdoor_sports_capture/",
+        "title": "Tripod recommendations for outdoor sports capture"
+      },
+      {
+        "position": 4,
+        "url": "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "title": "The Best Tripods of 2026 | Tested & Ranked"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=iY2mXFX-tNk",
+        "title": "Monopod, Tripod, or Handheld? What to use when ..."
+      },
+      {
+        "position": 6,
+        "url": "https://www.bhphotovideo.com/c/buy/Tripod-Systems/ci/3909",
+        "title": "Professional Video Tripod Systems"
+      },
+      {
+        "position": 7,
+        "url": "https://www.facebook.com/groups/1591512881268034/posts/2257094804709835/",
+        "title": "What is a good tripod for filming basketball?"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=LlaZYxhTMaY",
+        "title": "Underrated Camera Gear you NEED as a Sports ..."
+      },
+      {
+        "position": 9,
+        "url": "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+        "title": "Which Phone Tripod Is Best for Live Sports Photography?"
+      },
+      {
+        "position": 10,
+        "url": "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+        "title": "The Best Mobile Tripod Systems for Sports Video - Chapter 8"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 2,
+      "commonModifiers": [
+        "sports",
+        "video",
+        "tall",
+        "tripod stand",
+        "systems"
+      ],
+      "gap": "No top-10 title is a buying guide that covers both jobs: a fluid-head tripod you pan with and a tall stand for an AI camera."
+    },
+    "serpProducts": [
+      {
+        "name": "Glide Gear TST 20 Sky High 20' Tall Video Camera Tripod Stand",
+        "pages": [
+          "https://glidegear.net/products/glide-gear-tst-20-sky-high-video-camera-20-tripod-stand",
+          "https://www.facebook.com/groups/522303685518817/posts/810017350080781/",
+          "https://www.youtube.com/watch?v=auVE8ODHbjA"
+        ]
+      },
+      {
+        "name": "NEEWER TP75 video tripod with fluid head",
+        "pages": [
+          "https://www.reddit.com/r/videography/comments/1dg9pdp/can_anyone_recommend_a_tripod_that_can_be_used_to/",
+          "https://www.facebook.com/groups/1591512881268034/posts/2257094804709835/",
+          "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+          "https://neewer.com/blogs/blog/best-video-tripods-with-fluid-heads-in-2026"
+        ]
+      },
+      {
+        "name": "SmallRig AD-01 Heavy-Duty Fluid Head Tripod",
+        "pages": [
+          "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+          "https://photographylife.com/reviews/smallrig-ad-01-tripod-fluid-head"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree 3-Way Live Advanced",
+        "pages": [
+          "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/",
+          "https://www.reddit.com/r/osmopocket/comments/1koqy7m/tripod_recommendations_for_outdoor_sports_capture/",
+          "https://www.reddit.com/r/videography/comments/5lrooo/looking_for_the_best_tripod_legsfluidhead_combo/"
+        ]
+      },
+      {
+        "name": "Sachtler System Ace M MS Mk II",
+        "pages": [
+          "https://www.reddit.com/r/cinematography/comments/1fc06cv/fluid_head_recommendations_for_ncaa_and_nfl/",
+          "https://www.reddit.com/r/cinematography/comments/14jelgm/favourite_best_fluid_head/",
+          "https://www.facebook.com/groups/457738168714821/posts/1242264403595523/"
+        ]
+      },
+      {
+        "name": "Ulanzi VideoFast Heavy Duty Tripod (not used: Amazon US listings currently unavailable)",
+        "pages": [
+          "https://www.youtube.com/watch?v=sOW1EwGODfc",
+          "https://lensvid.com/lensvid-exclusive-reviews-and-previews/ulanzi-videofast-heavy-duty-tripod/"
+        ]
+      }
+    ],
+    "commonPoints": [
+      "A tripod stops arm fatigue and shake over a long game",
+      "Fluid heads pan more smoothly than ball heads",
+      "Height matters for seeing over players, parents and bleachers",
+      "Stability and a wide stance matter more than maximum height outdoors",
+      "AI cameras like Veo and Trace sit on tall stands above the field"
+    ],
+    "ourGain": [
+      {
+        "type": "decision",
+        "point": "Two jobs, two tools: if you pan the camera yourself, buy a fluid-head video tripod (5-6 ft); if an AI or PTZ camera does the tracking, buy a tall stand (12-20 ft). No top result separates the two with picks for each.",
+        "source": "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+        "absentFrom": [
+          "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+          "https://glidegear.net/products/glide-gear-tst-20-sky-high-video-camera-20-tripod-stand",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Payload headroom: the Sachtler Ace M counterbalance covers 0-4 kg, the SmallRig AD-01 head is rated 6 kg on 8 kg legs, the NEEWER TP75 is rated 10 kg; the head rating, not the legs, is the real limit, and a phone needs a head that balances down to 0 kg.",
+        "source": "https://www.sachtler.com/en/product/system-ace-m-ms-mk-ii/",
+        "absentFrom": [
+          "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+          "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Tall stands blow over: owners report a TST 20 tipping in wind and breaking a Veo; the fix is full leg spread, a sandbag on every leg and lowering the mast between halves.",
+        "source": "https://www.bhphotovideo.com/c/product/1607038-REG/glide_gear_tst_20_tall_tripod_20.html/reviews",
+        "absentFrom": [
+          "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+          "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Ball head bought for panning: the ball only helps while locked; for game pans a fluid head with drag is the fix.",
+        "source": "https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
+        "absentFrom": [
+          "https://streamgeeks.us/tripod-warriors-the-best-mobile-tripod-systems-for-sports-video-chapter-8/",
+          "https://glidegear.net/products/glide-gear-tst-20-sky-high-video-camera-20-tripod-stand",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "sports-ball-head-panning",
+        "pain": "Bought a ball head for panning, but it only moves freely when unlocked",
+        "details": "Parents filming youth soccer find a ball head does not give smooth pans; a fluid or pan-and-tilt head does.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/"
+        ],
+        "quotes": [
+          {
+            "text": "I just ordered a ball head thinking that would give me better panning",
+            "url": "https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/"
+          }
+        ]
+      },
+      {
+        "id": "sports-tall-stand-wind",
+        "pain": "Tall sports stands tip over in wind with the camera on top",
+        "details": "TST 20 owners report the stand falling in wind, once breaking a Veo camera.",
+        "sources": [
+          "https://www.bhphotovideo.com/c/product/1607038-REG/glide_gear_tst_20_tall_tripod_20.html/reviews",
+          "https://www.facebook.com/groups/522303685518817/posts/810017350080781/"
+        ],
+        "quotes": [
+          {
+            "text": "This is a good value tripod but is not very stable in higher winds.",
+            "url": "https://www.bhphotovideo.com/c/product/1607038-REG/glide_gear_tst_20_tall_tripod_20.html/reviews"
+          }
+        ]
+      },
+      {
+        "id": "sports-phone-fluid-head-counterbalance",
+        "pain": "A phone is too light for many fluid heads, so the tilt springs back",
+        "details": "Advice for phone filmers is to pick a fluid head whose counterbalance goes down to zero.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/"
+        ],
+        "quotes": [
+          {
+            "text": "Just make sure the fluid head is adjustable down to a 0kg",
+            "url": "https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/"
+          }
+        ]
+      },
+      {
+        "id": "sports-telephoto-shake-livestream",
+        "pain": "Camera shake at long focal lengths when filming or streaming a whole match",
+        "details": "A cricket streamer with a long zoom reports visible shake from a light setup.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/14cdeol/what_will_be_my_best_bang_for_buck_for/"
+        ],
+        "quotes": [
+          {
+            "text": "getting considerable camera shake with my setup",
+            "url": "https://www.reddit.com/r/videography/comments/14cdeol/what_will_be_my_best_bang_for_buck_for/"
+          }
+        ]
+      },
+      {
+        "id": "sports-monopod-for-video",
+        "pain": "A monopod is not steady enough for long locked-off sports video",
+        "details": "Videographers steer people from monopods to a tripod for full-game recording.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/1qeii2m/monopod_good_for_sports_videography/"
+        ],
+        "quotes": [
+          {
+            "text": "Monopod is not good solution for video.",
+            "url": "https://www.reddit.com/r/videography/comments/1qeii2m/monopod_good_for_sports_videography/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "16 feet",
+        "claim": "Optimal camera height for recording soccer games",
+        "url": "https://traceup.com/academy/what-is-the-optimal-height-for-recording-soccer-games",
+        "quote": "the optimal height is 16 feet. Tripods that are higher than 16 feet do not deliver significantly better results or better angles"
+      },
+      {
+        "number": "65 and 75 inches",
+        "claim": "Tripod height to clear people in stadium seating or standing sidelines",
+        "url": "https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports",
+        "quote": "look for a tall option that extends between 65 and 75 inches"
+      },
+      {
+        "number": "0 kg to 4 kg",
+        "claim": "Sachtler Ace M payload range",
+        "url": "https://www.sachtler.com/en/product/system-ace-m-ms-mk-ii/",
+        "quote": "Payload 0 kg to 4 kg"
+      }
+    ],
+    "videos": [
+      {
+        "id": "sOW1EwGODfc",
+        "title": "Top 3 reasons why you need a tripod to film sports videos",
+        "channel": "Beyond the Game",
+        "url": "https://www.youtube.com/watch?v=sOW1EwGODfc",
+        "section": "Sports tripod payload and fluid head math"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-video-tripod-with-fluid-head-for-beginners",
+      "monopod-vs-tripod-for-sports-photography",
+      "how-to-stop-tripod-shake-in-wind",
+      "video-tripod-bowl-size-explained-75mm-vs-100mm",
+      "best-tripod-for-youtube-videos"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "monopod-vs-tripod-for-sports-photography",
+        "find": "A tripod suits an end-zone spot you won't leave, or a remote camera behind a goal.",
+        "replace": "A tripod suits an end-zone spot you won't leave, or a remote camera behind a goal, and our [tripods for filming sports](/blog/best-tripod-for-filming-sports/) cover that job."
+      },
+      {
+        "slug": "best-video-tripod-with-fluid-head-for-beginners",
+        "find": "Owners do say pans smooth out for slow shots once the head is broken in.",
+        "replace": "Owners do say pans smooth out for slow shots once the head is broken in; for faster action, see our [tripods for filming sports](/blog/best-tripod-for-filming-sports/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for bleachers",
+      "best tripod for pocket radar",
+      "best tripod for tennis",
+      "best tripod for tennis recording",
+      "best tripod for volleyball",
+      "best tripod for veo camera",
+      "tripod for recording sports games",
+      "tall tripod for filming sports"
+    ],
+    "angle": "Two jobs in one guide: fluid-head tripods you pan yourself and tall stands for AI cameras, with height, payload and wind numbers.",
+    "productChanges": [
+      {
+        "date": "2026-10-29",
+        "removed": "Ulanzi VideoFast Heavy Duty Tripod Kit (B0D5B2W7ZJ aluminum, B0D5B3ZFPW carbon)",
+        "reason": "Both Amazon US listings show 'Currently unavailable'."
+      },
+      {
+        "date": "2026-10-29",
+        "note": "Queue productCount was 11; only 5 products met the 2+ pages + in-stock Amazon US rule, so the post features 5 (owner minimum)."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-youtube-videos",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}

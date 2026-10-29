@@ -1181,7 +1181,7 @@ The [Gitzo Traveler Series 1 GT1555T](amzn:Gitzo+GT1555T+Traveler+Series+1+tripo
 
 ### Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head: Best ultralight
 
-The [Leofoto LS-224CX Ranger](amzn:Leofoto+LS-224CX+LH-25LR+carbon+fiber+compact+tripod) weighs about 0.9 kg with its LH-25LR ball head, per Adorama's listing. With no standard center column it tops out at about 113.7 cm, so plan to sit, kneel or use a wall; leg angles of 23, 55 and 85 degrees take it down to about 8 cm. It is rated 6 kg, and retailers quote different folded lengths. It suits a hiker with an APS-C kit counting grams over height.
+The [Leofoto LS-224CX Ranger](amzn:Leofoto+LS-224CX+LH-25LR+carbon+fiber+compact+tripod) weighs about 0.9 kg with its LH-25LR ball head, per Adorama's listing. With no standard center column it tops out at about 113.7 cm, so plan to sit, kneel or use a wall; leg angles of 23, 55 and 85 degrees take it down to about 8 cm. It is rated 6 kg, and retailers quote different folded lengths. It suits a hiker with an APS-C kit counting grams over height (see our [Sony a6700 tripod picks](/blog/best-tripod-for-sony-a6700/)).
 
 ### Vanguard VEO 3 GO 235CB: Best for carry-on travel
 

@@ -423,7 +423,7 @@ Sky-Watcher publishes no load rating, and owners are split. A High Point reviewe
 
 If one tripod has to carry a travel telescope at night and a camera by day, the TrailSeeker is the one I'd take. Its fluid pan head takes a 1/4-20 quick-release plate. At 58 in with the column down, it is the only pick tall enough for standing observing without the column. It weighs 3.94 lb.
 
-The 8.8 lb rating is the catch. A High Point reviewer overloaded it with 100x25 binoculars and snapped the top leg joint. Another uses it happily with a 70mm travel scope and a camera. Binoculars mount with a [binocular tripod adapter](/blog/binocular-tripod-adapter/). I would keep it to small scopes.
+The 8.8 lb rating is the catch. A High Point reviewer overloaded it with 100x25 binoculars and snapped the top leg joint. Another uses it happily with a 70mm travel scope and a camera. Binoculars mount with a [binocular tripod adapter](/blog/binocular-tripod-adapter/). I would keep it to small scopes; for heavy binoculars, see our [best tripods for binoculars](/blog/best-tripod-for-binoculars/).
 
 ### Sky-Watcher Wave Carbon Fiber Tripod: best for Wave strain-wave mounts
 

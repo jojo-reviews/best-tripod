@@ -381,7 +381,7 @@ Payload is where we would be careful. The US listing gives a 13.23 lb (6 kg) saf
 
 Everything ships in one box with the Cayer BV30L, a budget hydraulic head tripod sold as a complete kit: twin-tube legs with a mid-level spreader, a 75mm flat base, the K3 fluid head, two quick release plates and a carry bag. It reaches 72.5 inches and weighs about 8.8 lb, and one listing gives a folded size of 35 (unit not stated, so treat that as unconfirmed). The plates carry both 1/4-20 and 3/8-16 threads, so they fit most cameras and cages.
 
-Its weak spot is the head. Roundups that summarize owner feedback, such as Lynn Barsigian and Mayfair Farms, report that the pan feels stiffer or notchier than the tilt and that drag is fixed, with no adjustment. Owners do say pans smooth out for slow shots once the head is broken in. Other complaints include a bubble level that is not always calibrated and wobble at full height with a heavy rig. Most listings rate it at 13.2 lb, though one says 17.6 lb, so we would treat 13.2 lb as the ceiling.
+Its weak spot is the head. Roundups that summarize owner feedback, such as Lynn Barsigian and Mayfair Farms, report that the pan feels stiffer or notchier than the tilt and that drag is fixed, with no adjustment. Owners do say pans smooth out for slow shots once the head is broken in; for faster action, see our [tripods for filming sports](/blog/best-tripod-for-filming-sports/). Other complaints include a bubble level that is not always calibrated and wobble at full height with a heavy rig. Most listings rate it at 13.2 lb, though one says 17.6 lb, so we would treat 13.2 lb as the ceiling.
 
 ## What Is a Fluid Head Video Tripod and Why Beginners Need One
 

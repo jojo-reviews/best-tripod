@@ -1,0 +1,20 @@
+{
+  "slug": "best-tripod-for-sony-zv-e10",
+  "pass": true,
+  "checkedAt": "2026-10-29T19:30:27.753Z",
+  "errors": [],
+  "warnings": [
+    "product \"Sony GP-VPT2BT Wireless Shooting Grip\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ulanzi MT-11 Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified via Firecrawl 2026-10-29: ZV-E10 343 g (Sony spec page), ZV-E10 II 377 g (B&H), SELP1650 116 g (Sony), Sigma 16mm F1.4 DC DN E-mount 405 g (sigmaphoto.com); GP-VPT2BT 215 g, 1.5 kg max load, tripod dims 146.5x133.5x163 mm, grip 173 mm, tilt up 40/down 90 (Sony GB spec page) and Sony ZV-E10 compatibility note 'may become unstable depending on the lens variation or the camera position'; Peak Design Travel Tripod Aluminum 1.56 kg, 9.1 kg, 152.4/130.2/14 cm (AlphaShooters, Peak Design page, 8 owner reviews read), 15.5 in fold (prior site data/ShutterMuse); JOBY GorillaPod 3K Kit 6.6 lb, 12 in, 360 pan/90 tilt, bubble level, QR plate (B&H specs); PIXI EVO 0.26 kg, 20 cm, 20.5 cm closed, 2.5 kg, 50/75 deg, 2 sections (Manfrotto); Ulanzi MT-11 290-310 mm, 2 kg, 420 g (Ulanzi) vs 450 g weight limit on Amazon listing; MT-16 22-44 cm, 170 g, 1.5 kg (B&H) and 500 g vertical (Discover Cameras). Product picks: each on 2+ top-10 pages (serpProducts in brief). ASINs hand-checked with Amazon offer data: B083W4X2VT, B085BQS6K4 (ships from Amazon), B074WC9YKL (3rd-party seller, in stock), B0149KBPB4 (ships from Amazon), B083QYHX3K (ships from Amazon), B08LGGXH1J (ships from Amazon). Forum quotes copied verbatim from the scraped threads. Re-checked after rewording the chooser list (no new facts).",
+    "at": "2026-10-29T19:30:27.310Z",
+    "hash": "e1617cddacaa6c93"
+  }
+}

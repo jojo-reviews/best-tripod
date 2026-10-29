@@ -289,7 +289,7 @@ The video below from filmmaker Mark Wiemels puts a GorillaPod, a Manfrotto PIXI 
 
 ### Wrap it where there is no table
 
-Wrap all three legs fully around a fence post or railing rather than hooking one leg over it, and keep the camera's weight over the grip. On rocks and roots, bend each leg to a different length until the base sits flat. This is the one job a rigid mini tripod simply cannot do.
+Wrap all three legs fully around a fence post or railing rather than hooking one leg over it, and keep the camera's weight over the grip (the same rule holds for our [Sony ZV-E10 tripod picks](/blog/best-tripod-for-sony-zv-e10/)). On rocks and roots, bend each leg to a different length until the base sits flat. This is the one job a rigid mini tripod simply cannot do.
 
 ### Use the head, not the legs, to level
 

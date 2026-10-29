@@ -1,0 +1,516 @@
+{
+  "keyword": "best tripod for sony zv-e10",
+  "createdAt": "2026-10-29T19:30:31.575Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Sony ZV-E10",
+    "entityVariants": [
+      "Sony ZV-E10 tripod",
+      "ZV-E10 tripod",
+      "tripod for ZV-E10 II",
+      "vlogging tripod for ZV-E10",
+      "mini tripod for Sony ZV-E10",
+      "ZV-E10 shooting grip"
+    ],
+    "entities": [
+      {
+        "name": "Sony ZV-E10",
+        "type": "camera",
+        "relation": "APS-C vlogging camera, approx. 343 g with battery and card",
+        "salience": 0.95
+      },
+      {
+        "name": "Sony ZV-E10 II",
+        "type": "camera",
+        "relation": "successor body, 377 g with battery and card per B&H",
+        "salience": 0.8
+      },
+      {
+        "name": "Sony E PZ 16-50mm",
+        "type": "lens",
+        "relation": "kit lens, 116 g",
+        "salience": 0.4
+      },
+      {
+        "name": "Sigma 16mm F1.4 DC DN",
+        "type": "lens",
+        "relation": "popular ZV-E10 vlogging prime, 405 g in E-mount, makes the rig front-heavy",
+        "salience": 0.5
+      },
+      {
+        "name": "Sony GP-VPT2BT",
+        "type": "product",
+        "relation": "Bluetooth shooting grip and tabletop tripod, 1.5 kg max load",
+        "salience": 0.8
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "type": "product",
+        "relation": "full-size travel tripod, 60 in max, 9.1 kg load",
+        "salience": 0.8
+      },
+      {
+        "name": "JOBY GorillaPod 3K Kit",
+        "type": "product",
+        "relation": "flexible tripod, 3 kg load",
+        "salience": 0.6
+      },
+      {
+        "name": "Manfrotto PIXI EVO",
+        "type": "product",
+        "relation": "rigid tabletop tripod, 2.5 kg payload",
+        "salience": 0.55
+      },
+      {
+        "name": "Ulanzi MT-11",
+        "type": "product",
+        "relation": "flexible octopus tripod with cold shoe",
+        "salience": 0.4
+      },
+      {
+        "name": "Ulanzi MT-16",
+        "type": "product",
+        "relation": "extendable mini tripod and selfie handle with cold shoe",
+        "salience": 0.35
+      },
+      {
+        "name": "cold shoe",
+        "type": "attribute",
+        "relation": "mount for a mic or light on the tripod",
+        "salience": 0.4
+      },
+      {
+        "name": "Bluetooth remote",
+        "type": "attribute",
+        "relation": "record and zoom from the grip",
+        "salience": 0.5
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "standard",
+        "relation": "quick-release plate standard on the Peak Design head",
+        "salience": 0.35
+      }
+    ],
+    "attributes": [
+      "maximum load vs camera and lens weight",
+      "working height (table, chest, eye level)",
+      "height with center column down",
+      "folded length",
+      "weight",
+      "cold shoe for a mic",
+      "Bluetooth record and zoom controls",
+      "leg type (flexible, rigid mini, full-size)",
+      "vertical video mode"
+    ],
+    "ngrams": [
+      "tripod for sony zv-e10",
+      "zv-e10 ii",
+      "vlogging tripod",
+      "mini tripod",
+      "shooting grip",
+      "flexible tripod",
+      "sigma 16mm",
+      "kit lens",
+      "eye level",
+      "cold shoe"
+    ],
+    "skipgrams": [
+      "e10…tripod",
+      "sigma…heavy",
+      "grip…bluetooth",
+      "legs…sag",
+      "tripod…eye"
+    ],
+    "nlpTerms": [
+      "payload",
+      "ball head",
+      "tabletop",
+      "talking head",
+      "vertical video",
+      "walk and talk",
+      "wireless remote",
+      "travel tripod",
+      "column down"
+    ],
+    "questions": [
+      "What is the best tripod for the Sony ZV-E10?",
+      "Does the Sony GP-VPT2BT work with the ZV-E10 and ZV-E10 II?",
+      "Will a GorillaPod hold a ZV-E10 with the Sigma 16mm?",
+      "Do I need a full-size tripod for a ZV-E10?",
+      "Do these tripods fit the ZV-E10 II?"
+    ],
+    "contentGaps": [
+      "Load headroom with the kit lens vs the Sigma 16mm f/1.4",
+      "Working height by shot type: desk, chest-height walk and talk, standing eye level",
+      "Which ZV-E10 tripods hold vertical video, and at what weight",
+      "Fixes for a front-heavy ZV-E10 tipping on a mini tripod"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for Sony ZV-E10 picks at a glance",
+        "intent": "short answer, pick list, comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Sony ZV-E10 tripods",
+        "intent": "method, who recommends them, story block",
+        "h3": []
+      },
+      {
+        "h2": "The 6 best tripods for the Sony ZV-E10, reviewed",
+        "intent": "one section per product",
+        "h3": [
+          "Sony GP-VPT2BT Wireless Shooting Grip",
+          "Peak Design Travel Tripod (Aluminum)",
+          "JOBY GorillaPod 3K Kit",
+          "Manfrotto PIXI EVO 2-Section Mini Tripod",
+          "Ulanzi MT-11 Flexible Tripod",
+          "Ulanzi MT-16 Extendable Tripod with Ball Head"
+        ]
+      },
+      {
+        "h2": "How much load a ZV-E10 and its lenses put on a tripod",
+        "intent": "load math with kit lens and Sigma 16mm, vertical mode",
+        "h3": []
+      },
+      {
+        "h2": "Sony ZV-E10 tripod problems owners run into, and the fix",
+        "intent": "pain points with fixes",
+        "h3": []
+      },
+      {
+        "h2": "Which tripod should you get for your ZV-E10?",
+        "intent": "chooser by shot",
+        "h3": []
+      }
+    ],
+    "targetWords": 1700,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-zv-e10-or-zv-e10-ii",
+        "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+        "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/",
+        "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Sony Rumors gives each tripod a spec table plus pros and cons lists, and Packapop adds a 'drawbacks you should consider' block per pick; the forum threads are short prose replies.",
+      "avgWords": 1600,
+      "avgProducts": 5,
+      "commonSections": [
+        "short intro with the top pick",
+        "one section per tripod or grip",
+        "buying guide (payload, ball vs fluid head, folded length, Arca plate)",
+        "comparison table",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/",
+        "title": "What's the best tripod for this camera? : r/SonyZVE10"
+      },
+      {
+        "position": 2,
+        "url": "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-the-Ulanzi-2783/1684293-REG-96597",
+        "title": "Video Tripods for Camera Cage for Sony ZV-E10"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=xKVFMXS8TIE",
+        "title": "ZV-E10 II: Accessories That Unlock Its Full Power"
+      },
+      {
+        "position": 4,
+        "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+        "title": "Recommend a compact tripod for the Sony ZV-E10 II vlogging ..."
+      },
+      {
+        "position": 5,
+        "url": "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+        "title": "Which compact tripod works best for Sony vlogging setups?"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=JQQXFbZsAkQ",
+        "title": "I Bought a Budget Tripod for My Sony ZV E10"
+      },
+      {
+        "position": 7,
+        "url": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/compatibility.php?area=gb&lang=en&mdl=ZV-E10&cat=32",
+        "title": "ZV-E10 : Tripod / Monopod Compatibility Information"
+      },
+      {
+        "position": 8,
+        "url": "https://www.amazon.com/sony-zve10-tripod/s?k=sony+zve10+tripod",
+        "title": "Sony Zve10 Tripod"
+      },
+      {
+        "position": 9,
+        "url": "https://www.kentfaith.com/feature_best-tripod-for-sony-zv-e10",
+        "title": "Best Tripod For Sony Zv E10"
+      },
+      {
+        "position": 10,
+        "url": "https://www.facebook.com/groups/zve10/posts/865324803069393/",
+        "title": "What are good tripods for Sony ZV-E1 wedding sessions?"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Sony ZV-E10",
+        "ZV-E10 II",
+        "compact",
+        "vlogging",
+        "accessories"
+      ],
+      "gap": "Only a store page starts with the keyword; no top-10 title carries a year or a pick count, and none sorts the options by how you film (grip, desk, eye level)."
+    },
+    "serpProducts": [
+      {
+        "name": "Sony GP-VPT2BT Wireless Shooting Grip",
+        "pages": [
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/",
+          "https://www.reddit.com/r/SonyAlpha/comments/168yj5p/best_handgrip_and_mini_tripod_for_sony_zv_e10/"
+        ]
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-zv-e10-or-zv-e10-ii",
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/"
+        ]
+      },
+      {
+        "name": "JOBY GorillaPod 3K Kit",
+        "pages": [
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+        ],
+        "note": "Think Media's ZV-E10 II accessories video (0pYIvry__hw) also lists the GorillaPod 3K; Sony Rumors' article picks the 3K PRO variant."
+      },
+      {
+        "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+        "pages": [
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+        ]
+      },
+      {
+        "name": "Ulanzi MT-11 Flexible Tripod",
+        "pages": [
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/"
+        ]
+      },
+      {
+        "name": "Ulanzi MT-16 Extendable Tripod with Ball Head",
+        "pages": [
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+        ]
+      },
+      {
+        "name": "Ulanzi & COMAN Zero Y (not picked: one page only)",
+        "pages": [
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Live (not picked: one article page only)",
+        "pages": [
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "sony-zve10-front-heavy-lens-mini-tripod-tilts",
+        "pain": "A ZV-E10 with a fast prime like the Sigma 16mm is front-heavy, and mini tripods and small ball heads tilt or sag mid-shot",
+        "details": "Forum replies on ZV-E10 tripods point to the Sigma 16mm making the rig front-heavy and to checking payload specs.",
+        "sources": [
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+        ],
+        "quotes": [
+          {
+            "text": "In my experience, the ZV-E10 with that Sigma 16mm is lowkey front-heavy.",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+          }
+        ]
+      },
+      {
+        "id": "sony-zve10-flexible-legs-loosen",
+        "pain": "Flexible GorillaPod-style legs loosen after months of daily vlogging, so the camera sags",
+        "details": "A CameraEgg poster went through three flexible tripods; another recommends rigid minis for street-food vlogs.",
+        "sources": [
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/"
+        ],
+        "quotes": [
+          {
+            "text": "Over the years I have gone through three of those units because the plastic sockets simply dont hold up to the constant tension of daily vlogging.",
+            "url": "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/"
+          }
+        ]
+      },
+      {
+        "id": "sony-zve10-need-tall-cheap-durable",
+        "pain": "ZV-E10 owners want a tall, durable tripod that is not expensive, but most vlogging picks stop at table height",
+        "details": "The top Reddit result for this search asks exactly this.",
+        "sources": [
+          "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/"
+        ],
+        "quotes": [
+          {
+            "text": "I need something tall durable but not super expensive",
+            "url": "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-mini-head-rated-load-sag",
+        "pain": "A mini ball head's rated load looks fine on paper, but it sags once a real mirrorless body and lens is mounted",
+        "details": "Rated loads on minis are best-case numbers; a ZV-E10 with a heavier prime sits closer to the limit than the spec suggests.",
+        "sources": [
+          "https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/"
+        ],
+        "quotes": []
+      }
+    ],
+    "commonPoints": [
+      "The ZV-E10 is light, so you do not need a heavy studio tripod",
+      "Portability decides whether you take the tripod at all",
+      "Sony's GP-VPT2BT grip adds Bluetooth record and zoom controls",
+      "Flexible GorillaPod-style legs wrap around poles and railings",
+      "Check payload against camera plus lens, and look for an Arca-type plate"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom with real ZV-E10 kits: 343 g body + 116 g kit lens = 459 g; with the 405 g Sigma 16mm = 748 g. The GP-VPT2BT (1.5 kg) gives about 2x with the Sigma, the PIXI EVO (2.5 kg) 3.3x, the GorillaPod 3K (3 kg) 4x, the Peak Design (9.1 kg) about 12x; the MT-16's 500 g vertical-mode limit only covers the kit-lens rig.",
+        "source": "https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications; https://www.sony.com/et/electronics/camera-lenses/selp1650/specifications; https://www.sigmaphoto.com/16mm-f1-4-dc-dn-c; maker spec pages",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-zv-e10-or-zv-e10-ii",
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Working height by pick: GP-VPT2BT about 5.3 in in tripod mode, PIXI EVO 7.87 in, MT-11 11.4-12.2 in, GorillaPod 3K about 12 in, MT-16 up to 17.3 in, Peak Design 51.25 in column down and 60 in raised; only the Peak Design reaches standing eye level, which is what the top Reddit thread asks for.",
+        "source": "Sony GP-VPT2BT spec page; Manfrotto, Ulanzi, B&H and Peak Design spec pages",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-zv-e10-or-zv-e10-ii",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Front-heavy ZV-E10 tipping on the Sony grip or a mini: Sony itself flags the GP-VPT2BT as compatible with restrictions on the ZV-E10 because it may become unstable depending on the lens; a DPReview owner fixes it by turning the third leg forward under the lens.",
+        "source": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/detail.php?value1=ZV-E10&value2=GP-VPT2BT&area=gb&lang=en; https://www.dpreview.com/forums/threads/sony-gp-vpt2bt-tripod-shooting-grip-wireless-bluetooth.4470477/",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-zv-e10-or-zv-e10-ii",
+          "https://www.sony-rumors.com/best-camera-tripod-for-sony-zv-e10-ii/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by shot: walk-and-talk with remote control = GP-VPT2BT; desk and tabletop = PIXI EVO; railings and odd angles = GorillaPod 3K (Sigma rig) or MT-11 (kit lens, budget); mic on a selfie handle = MT-16; standing eye level and travel = Peak Design Travel Tripod (Aluminum).",
+        "source": "Our decision rule from the specs above",
+        "absentFrom": [
+          "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommend-a-compact-tripod-for-the-sony-zv-e10-ii-vlogging-kit-63377/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+          "https://www.alphashooters.com/cameras/sony-zv-e10-ii/accessories/"
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "343 g",
+        "claim": "Sony ZV-E10 weight with battery and memory card",
+        "url": "https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications",
+        "quote": "Weight (with battery and memory card included) Approx. 12.1 oz (Approx. 343 g)"
+      },
+      {
+        "number": "116 g",
+        "claim": "Sony E PZ 16-50mm kit lens weight",
+        "url": "https://www.sony.com/et/electronics/camera-lenses/selp1650/specifications",
+        "quote": "Weight: 116g (4.1oz.)"
+      },
+      {
+        "number": "405 g",
+        "claim": "Sigma 16mm F1.4 DC DN weight in Sony E-mount",
+        "url": "https://www.sigmaphoto.com/16mm-f1-4-dc-dn-c",
+        "quote": "Sony E-mount: 405g / 14.3 oz."
+      },
+      {
+        "number": "1.5 kg",
+        "claim": "Sony GP-VPT2BT maximum load",
+        "url": "https://www.sony.com/permalink/product/GP-VPT2BT?locale=en_GB",
+        "quote": "Maximum load: 1.5 kg (53.0 oz)"
+      },
+      {
+        "number": "2.5 kg",
+        "claim": "Manfrotto PIXI EVO safety payload",
+        "url": "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+        "quote": "Safety Payload Weight:2.5 kg5.51 lbs"
+      }
+    ],
+    "videos": [
+      {
+        "id": "0pYIvry__hw",
+        "title": "The Best CAMERA Accessories for Sony ZV-E10 II",
+        "channel": "Think Media",
+        "url": "https://www.youtube.com/watch?v=0pYIvry__hw",
+        "section": "Which tripod should you get for your ZV-E10?"
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+        "find": "Wrap all three legs fully around a fence post or railing rather than hooking one leg over it, and keep the camera's weight over the grip.",
+        "replace": "Wrap all three legs fully around a fence post or railing rather than hooking one leg over it, and keep the camera's weight over the grip (the same rule holds for our [Sony ZV-E10 tripod picks](/blog/best-tripod-for-sony-zv-e10/))."
+      },
+      {
+        "slug": "best-tripod-for-youtube-videos",
+        "find": "These are camera tripods for a mirrorless camera or DSLR.",
+        "replace": "These are camera tripods for a mirrorless camera or DSLR; if you vlog on Sony's small body, see our [tripods for the Sony ZV-E10](/blog/best-tripod-for-sony-zv-e10/)."
+      }
+    ],
+    "textrazor": "skipped: TEXTRAZOR_API_KEY is not set in this environment; salience estimated from how many top pages give the entity a heading or definition"
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-sony-a6700",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-sony-a7iv",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    }
+  ]
+}

@@ -262,7 +262,7 @@ The top results agree on a margin: Ulanzi says two to three times the gear weigh
 
 **A long-lens tripod is only as stiff as its legs, and top leg tube diameter is the best single spec for that.** DPReview defines "3-series" as top tubes of 33-36mm, and the thickest in its roundup, 36.7mm on the RRS TVC-34, went with what DPReview called "maximum stability". Smaller legs have limits: a Fred Miranda owner of Series 3, 4 and 5 Systematics notes Gitzo recommends its 2-series Mountaineer for 200mm, up to 300mm lenses (the thread).
 
-With the diameter settled, the rest is preference:
+With the diameter settled, the rest is preference, as our [Nikon Z8 tripod picks](/blog/best-tripod-for-nikon-z8/) show:
 
 - **Sections:** fewer, thicker sections are stiffer; four sections pack shorter.
 - **Material:** carbon fiber is lighter and damps vibration better; aluminum costs less and weighs more (see our [carbon fiber vs aluminum tripod comparison](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/)).

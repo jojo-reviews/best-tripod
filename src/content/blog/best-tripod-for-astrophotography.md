@@ -459,6 +459,7 @@ heroAlt: >-
   Best Tripod for Astrophotography (2026) – 5 Picks for a Star Tracker – Best
   Tripod buying guide
 related:
+  - best-tripod-for-binoculars
   - best-tripod-for-fujifilm-x-t5
   - best-tripod-for-sony-a7iv
   - best-tripod-for-macro-photography
