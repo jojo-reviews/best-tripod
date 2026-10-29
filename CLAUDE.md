@@ -64,5 +64,6 @@ Keep GitHub activity low and human-like so the account is never flagged again:
 - Manual workflow runs (deploy, launch-site, google-indexing): only when needed, at most ~6 per day in total;
   never re-run a failing workflow in a loop. If a workflow fails twice in a row, stop and fix or disable it.
 - A workflow that keeps failing (e.g. a missing secret) gets its schedule removed until it is fixed.
+- Owner rule 2026-10-29 ("mujay ya mail nhi ani chye"): every bot workflow that commits rebases, retries the push 3 times and ends with a warning instead of failing, so a push race never sends a "Run failed" email. Keep this pattern in any new workflow.
 - No new repos, gists, forks, mass issues/PRs or automated comments. Never push to repos that aren't ours.
 - Keep a fresh `git bundle` backup of each repo in rentersmarthome.us/backups/ (not committed) after big changes.
