@@ -1,0 +1,298 @@
+{
+  "centralEntity": "tripod for macro photography",
+  "entityVariants": [
+    "best tripod for macro photography",
+    "macro tripod",
+    "macro photography tripod",
+    "tripod for macro",
+    "best tripod for macro"
+  ],
+  "entities": [
+    { "name": "horizontal column", "type": "component", "relation": "Manfrotto's 90-degree column that swings sideways so the camera can reach the ground or shoot straight down" },
+    { "name": "multi-angle column", "type": "component", "relation": "Vanguard's MACC column that tilts and rotates to almost any angle" },
+    { "name": "minimum height", "type": "attribute", "relation": "how close to the ground the camera can sit, the key macro spec" },
+    { "name": "leg angles", "type": "attribute", "relation": "wide leg angle stops let the legs splay low" },
+    { "name": "ball head", "type": "component", "relation": "standard head; friction control helps fine framing at 1:1" },
+    { "name": "geared head", "type": "component", "relation": "precise upgrade for macro framing" },
+    { "name": "focusing rail", "type": "accessory", "relation": "moves the camera in small steps for focus and focus stacking" },
+    { "name": "focus stacking", "type": "technique", "relation": "many frames at different focus points that must align" },
+    { "name": "counterweight", "type": "technique", "relation": "a bag or weight that balances an off-center column" },
+    { "name": "GorillaPod", "type": "product line", "relation": "flexible-leg mini tripod for low, awkward positions" },
+    { "name": "Manfrotto", "type": "brand", "relation": "055 and 190 series with the 90-degree column" },
+    { "name": "Vanguard", "type": "brand", "relation": "VEO 3+ and Alta Pro 2+ with the multi-angle column" },
+    { "name": "Arca-Swiss", "type": "standard", "relation": "dovetail clamp standard for plates and rails" },
+    { "name": "remote release", "type": "accessory", "relation": "fires the shutter without touching the camera" },
+    { "name": "load capacity", "type": "attribute", "relation": "rated payload against camera, lens, rail and flash" }
+  ],
+  "attributes": [
+    "minimum height",
+    "height with the center column down",
+    "maximum height",
+    "folded length",
+    "weight",
+    "load capacity",
+    "leg angles",
+    "column type",
+    "leg lock type",
+    "head and plate"
+  ],
+  "ngrams": [
+    "macro photography",
+    "tripod for macro",
+    "minimum height",
+    "center column",
+    "horizontal column",
+    "ball head",
+    "focusing rail",
+    "focus stack",
+    "leg angles",
+    "load capacity",
+    "ground level",
+    "folded length"
+  ],
+  "skipgrams": [
+    "center column…ground",
+    "ball head…friction",
+    "focusing…rail",
+    "leg…angles",
+    "load…capacity",
+    "macro…lens"
+  ],
+  "nlpTerms": [
+    "macro",
+    "magnification",
+    "close-up",
+    "low",
+    "ground",
+    "insects",
+    "flowers",
+    "fungi",
+    "stack",
+    "stability",
+    "vibration",
+    "aluminum",
+    "column",
+    "legs",
+    "remote",
+    "self-timer",
+    "rail",
+    "payload",
+    "weight",
+    "angle"
+  ],
+  "questions": [
+    "what is the best tripod for macro photography",
+    "how low should a macro tripod go",
+    "is a horizontal or multi-angle center column better for macro",
+    "do I need a geared head for macro photography",
+    "can I use a GorillaPod for macro photography",
+    "do you need a tripod for macro photography"
+  ],
+  "contentGaps": [
+    "Lowest working height of each pick side by side, from maker spec sheets",
+    "Rated load per pound carried, a calculation no top result makes",
+    "Height with the center column down, not just fully extended",
+    "Which column design suits ground subjects versus obstacles and overhead work",
+    "Owner-reported problems: column tipping, ball head drift at lock-down, flexible legs too weak for macro rigs",
+    "A numbered ground-level setup routine"
+  ],
+  "outline": [
+    { "h2": "Best tripod for macro photography – the short answer", "intent": "first-screen answer and comparison table", "h3": [] },
+    { "h2": "The 5 best tripods for macro photography, reviewed", "intent": "product reviews", "h3": ["Manfrotto 055 Aluminum Tripod Kit with Ball Head", "Vanguard VEO 3+ 263AB 160S", "Vanguard Alta Pro 2+ 263AB G2", "Manfrotto MT190XPRO3 Aluminum Tripod", "JOBY GorillaPod 3K Kit"] },
+    { "h2": "How we picked these macro tripods", "intent": "method and trust", "h3": [] },
+    { "h2": "Macro tripod height, payload and weight math", "intent": "analysis (ourGain)", "h3": [] },
+    { "h2": "Horizontal, multi-angle or no column – which macro tripod design fits", "intent": "explain column types", "h3": [] },
+    { "h2": "How to set up a tripod for ground-level macro", "intent": "numbered how-to", "h3": [] },
+    { "h2": "Macro tripod problems owners run into, and the fix", "intent": "pain points", "h3": [] },
+    { "h2": "Which macro tripod should you get?", "intent": "decision table and next links", "h3": [] }
+  ],
+  "targetWords": 1600,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+      "https://www.vanguardworld.co.uk/blogs/co-uk/best-tripods-for-macro-photography",
+      "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/",
+      "https://www.adorama.com/lists/tripods-for-macro-photography",
+      "https://momanx.com/blogs/moman-ideas/do-you-need-tripod-for-macro-photography",
+      "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
+      "https://www.mostcraft.com/best-tripods-macro-photography/",
+      "https://petapixel.com/best-tripods/",
+      "https://www.transcontinenta.co.uk/en/blog/best-compact-tripods-macro-photography.html"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "MostCraft, Encountering Fungi, PetaPixel and Vanguard describe each tripod in review paragraphs; Moman and Transcontinenta add short spec tables and Better Digital Photo Tips uses short pros/cons lists. Paragraphs are the most common format.",
+    "avgWords": 1500,
+    "avgProducts": 4,
+    "commonSections": [
+      "why macro needs a tripod",
+      "what to look for (low minimum height, reversible or horizontal column, stability, weight)",
+      "product recommendations",
+      "tips: remote release or self-timer, spread legs, focusing rail"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.reddit.com/r/photography/comments/1f0d66l/what_is_your_go_to_tripod_for_macro/", "title": "What is your go to tripod for macro? : r/photography" },
+    { "position": 2, "url": "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html", "title": "tripod for outdoor macro photography" },
+    { "position": 3, "url": "https://www.vanguardworld.co.uk/blogs/co-uk/best-tripods-for-macro-photography", "title": "Best tripods for Macro Photography" },
+    { "position": 4, "url": "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/", "title": "Tripods For Mushroom and Macro Photography" },
+    { "position": 5, "url": "https://www.youtube.com/watch?v=_dHBPfjwLZQ", "title": "Macro: The best tripods I use and the tricks for getting low shots" },
+    { "position": 6, "url": "https://www.adorama.com/lists/tripods-for-macro-photography", "title": "Tripods For Macro Photography (Updated Daily)" },
+    { "position": 7, "url": "https://momanx.com/blogs/moman-ideas/do-you-need-tripod-for-macro-photography", "title": "Do you need a tripod for macro photography?" },
+    { "position": 8, "url": "https://www.amazon.com/Macro-Tripod/s?k=Macro+Tripod", "title": "Macro Tripod" },
+    { "position": 9, "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography", "title": "Which tripod should I get for macro photography?" },
+    { "position": 10, "url": "https://www.facebook.com/groups/1235599658116085/posts/1399172105092172/", "title": "What tripods do macro photographers recommend for ..." }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": ["macro photography", "best tripods", "mushroom", "outdoor", "low shots"],
+    "gap": "No top-10 title starts with the exact keyword, carries the year or a pick count, or promises low-angle picks; forums and a maker blog dominate."
+  },
+  "commonPoints": [
+    "Macro magnifies every movement, so a tripod is needed for sharp frames, small apertures and focus stacks",
+    "Minimum height matters more than maximum height because many subjects sit near the ground",
+    "A reversible, horizontal or multi-angle center column, or no column, gets the camera low",
+    "Wide, independently spread legs add stability on uneven ground",
+    "Fire with a remote release or self-timer and avoid extending the column far",
+    "A focusing rail helps with precise focus and stacking"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Side-by-side lowest working height and rated load per pound carried from maker specs: 055 kit and MT190XPRO3 reach 3.54 in, VEO 3+ 5 in, Alta Pro 2+ G2 8.4 in; load per pound 190XPRO3 legs 7.5 (33.07/4.41), VEO 3+ 6.0 (33/5.5), 055 kit 5.0 (33.07/6.61), Alta Pro G2 4.6 (22/4.8)",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/ ; https://www.manfrotto.com/global-en/190xpro-aluminium-3-section-camera-tripod-mt190xpro3/ ; https://www.vanguardworld.com/products/veo-3-263ab-160s ; https://www.vanguardworld.com/products/alta-pro-2-263ab-gen-2-professional-aluminum-full-size-camera-video-tripod-w-ball-head-26mm-legs",
+      "absentFrom": [
+        "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+        "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/",
+        "https://www.mostcraft.com/best-tripods-macro-photography/",
+        "https://petapixel.com/best-tripods/",
+        "https://momanx.com/blogs/moman-ideas/do-you-need-tripod-for-macro-photography"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by where the subject is: ground subjects = 90-degree column at 3.54 in (055 kit, or 190XPRO3 legs if you own a head); fences, logs and overhead work = multi-angle column (VEO 3+, Alta Pro 2+ G2 for less); pocket backup under 6.6 lb = GorillaPod 3K",
+      "source": "https://www.vanguardworld.co.uk/blogs/co-uk/best-tripods-for-macro-photography ; https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/ ; https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
+      "absentFrom": [
+        "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+        "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/",
+        "https://www.mostcraft.com/best-tripods-macro-photography/",
+        "https://www.transcontinenta.co.uk/en/blog/best-compact-tripods-macro-photography.html"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Ball heads shift as they lock at macro magnification; fix with set friction, a focusing rail and, as the upgrade, a geared head",
+      "source": "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/ ; https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/",
+      "absentFrom": [
+        "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+        "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/",
+        "https://momanx.com/blogs/moman-ideas/do-you-need-tripod-for-macro-photography",
+        "https://www.mostcraft.com/best-tripods-macro-photography/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "An off-center horizontal column tips and Manfrotto columns lack a hook at the non-camera end; fix by putting a leg under the camera end and resting a hung bag on the ground",
+      "source": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
+      "absentFrom": [
+        "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+        "https://www.mostcraft.com/best-tripods-macro-photography/",
+        "https://petapixel.com/best-tripods/",
+        "https://momanx.com/blogs/moman-ideas/do-you-need-tripod-for-macro-photography"
+      ]
+    }
+  ],
+  "serpProducts": [
+    { "name": "Manfrotto 055 series with 90-degree column (MT055XPRO3 / MT055CXPRO4 / 055XPROB)", "pages": ["https://www.mostcraft.com/best-tripods-macro-photography/", "https://petapixel.com/best-tripods/", "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/"] },
+    { "name": "Vanguard Alta Pro 263AB / Alta Pro 2+", "pages": ["https://www.mostcraft.com/best-tripods-macro-photography/", "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html", "https://shotkit.com/best-dslr-tripods/"] },
+    { "name": "Vanguard VEO 3+ series", "pages": ["https://www.vanguardworld.co.uk/blogs/co-uk/best-tripods-for-macro-photography", "https://amateurphotographer.com/buying-advice/best-tripod/", "https://bcgforums.com/threads/recommended-macro-tripod.4757/"] },
+    { "name": "Manfrotto 190 series with 90-degree column (190 Go!, 190X, 190 Pro B)", "pages": ["https://amateurphotographer.com/buying-advice/best-tripod/", "https://www.adorama.com/lists/tripods-for-macro-photography", "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/"] },
+    { "name": "JOBY GorillaPod (3K / 5K)", "pages": ["https://petapixel.com/best-tripods/", "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/", "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography", "https://shotkit.com/best-dslr-tripods/", "https://amateurphotographer.com/buying-advice/best-tripod/"] },
+    { "name": "Gitzo GT2531EX Explorer (dropped: unavailable on Amazon US)", "pages": ["https://www.mostcraft.com/best-tripods-macro-photography/", "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography", "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/"] },
+    { "name": "K&F Concept tripods (dropped: each page names a different model)", "pages": ["https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/", "https://shotkit.com/best-dslr-tripods/", "https://www.adorama.com/lists/tripods-for-macro-photography"] }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-center-column-blocks-low-angle",
+      "pain": "The center column stops the tripod from getting low",
+      "details": "The column hits the ground before the legs can spread flat, so the camera cannot reach a ground-level subject.",
+      "sources": ["https://bcgforums.com/threads/tripod-center-column.43414/", "https://forum.inaturalist.org/t/tripods-for-low-to-the-ground-photography/54374"],
+      "quotes": [
+        { "text": "a center column definitely gets in the way when you want to get the camera as low as possible.", "url": "https://bcgforums.com/threads/tripod-center-column.43414/" }
+      ]
+    },
+    {
+      "id": "camera-tripods-macro-legs-in-the-way",
+      "pain": "Tripod legs are hard to place close to a macro subject",
+      "details": "In tight spots the legs land on plants, in the frame or in front of the subject, so the camera cannot get close.",
+      "sources": ["https://www.reddit.com/r/photography/comments/1eg89ls/tripod_suggestion_for_wildlife_and_macro/"],
+      "quotes": [
+        { "text": "No tripod is a 100% perfect for macro work, it's difficult sometimes to position the legs correctly", "url": "https://www.reddit.com/r/photography/comments/1eg89ls/tripod_suggestion_for_wildlife_and_macro/", "via": "search-excerpt" }
+      ]
+    },
+    {
+      "id": "tripod-heads-macro-ball-head-imprecise",
+      "pain": "A ball head shifts when you lock it, which ruins framing at macro magnification",
+      "details": "Macro shooters report slack-return movement as the ball clamps and find fine adjustments hard; they recommend a geared head and a focusing rail.",
+      "sources": ["https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/", "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/"],
+      "quotes": [
+        { "text": "experience 'slack-return' movement when clamping down", "url": "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/" },
+        { "text": "too hard to make precise adjustments", "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/" }
+      ]
+    },
+    {
+      "id": "camera-tripods-horizontal-column-counterweight",
+      "pain": "A horizontal column is hard to balance because there is nowhere to hang a counterweight on the far end",
+      "details": "With the camera swung out to the side, the tripod gets top-heavy; owners note Manfrotto columns have no hook at the non-camera end.",
+      "sources": ["https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"],
+      "quotes": [
+        { "text": "the serious defect of not putting hooks at the non-camera end of the center column", "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography" }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-flexible-unstable-for-macro",
+      "pain": "A flexible GorillaPod-style tripod is not steady enough for a macro rig",
+      "details": "Owners find bendable tripods handy for low angles but too wobbly once a DSLR, macro lens, rail or flash goes on, and fussy to position.",
+      "sources": ["https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/", "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"],
+      "quotes": [
+        { "text": "not stable enough for anything bigger", "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/" },
+        { "text": "They can be fussy to get stable and in the right position", "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography" }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-flexible-legs-sag",
+      "pain": "Bendable GorillaPod-style legs loosen and sag as they age",
+      "details": "Owners say the ball-and-socket joints lose tightness with use, which matters more with a heavier camera.",
+      "sources": ["https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/"],
+      "quotes": [
+        { "text": "They get loose and sag as they get used/older (don't we all).", "url": "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/", "via": "search-excerpt" }
+      ]
+    }
+  ],
+  "stats": [
+    { "number": "9 cm (3.54 in)", "claim": "Manfrotto 055 kit (MK055XPRO3-BHQ2) minimum height", "url": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/", "quote": "Min Height 9 cm 3.54 in" },
+    { "number": "5\" / 127 mm", "claim": "Vanguard VEO 3+ 263AB 160S macro height", "url": "https://www.vanguardworld.com/products/veo-3-263ab-160s", "quote": "Macro Height: 5\" / 127 mm" },
+    { "number": "8.4\"", "claim": "Vanguard Alta Pro 2+ 263AB G2 minimum (low-angle) height", "url": "https://www.vanguardworld.com/products/alta-pro-2-263ab-gen-2-professional-aluminum-full-size-camera-video-tripod-w-ball-head-26mm-legs", "quote": "Minimum (Low-Angle) Height | 8.4\"" },
+    { "number": "33.07 lbs", "claim": "Manfrotto MT190XPRO3 safety payload", "url": "https://www.manfrotto.com/global-en/190xpro-aluminium-3-section-camera-tripod-mt190xpro3/", "quote": "Safety Payload UNI/PdR 105:2021 15 kg 33.07 lbs" }
+  ],
+  "videos": [
+    { "id": "ILPAEVRDvsM", "title": "VEO 3+ as a Macro Photography Tripod", "channel": "VanguardPhotoUK", "url": "https://www.youtube.com/watch?v=ILPAEVRDvsM", "section": "Horizontal, multi-angle or no column – which macro tripod design fits" }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "tripod-center-column-up-or-down-for-landscapes",
+      "find": "Keep it fully down for any long exposure, wind or heavy lens, and get it out of the way when you want the camera low to the ground.",
+      "replace": "Keep it fully down for any long exposure, wind or heavy lens, and get it out of the way when you want the camera [low to the ground for macro](/blog/best-tripod-for-macro-photography/)."
+    },
+    {
+      "slug": "landscape-photography-tripod",
+      "find": "Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low and macro foregrounds.",
+      "replace": "Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low foregrounds and [macro tripod work](/blog/best-tripod-for-macro-photography/)."
+    }
+  ]
+}

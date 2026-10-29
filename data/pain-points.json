@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:30:09.192Z",
+  "updatedAt": "2026-10-29T10:40:14.944Z",
   "categories": {
     "camera-tripods": [
       {
@@ -50,7 +50,8 @@
           "how-tall-should-a-tripod-be-for-my-height",
           "best-tripod-for-tall-photographers-over-6-feet",
           "tripod-shake-when-pressing-shutter",
-          "tripod-center-column-up-or-down-for-landscapes"
+          "tripod-center-column-up-or-down-for-landscapes",
+          "best-tripod-for-fujifilm-x-t5"
         ],
         "foundAt": "2026-10-19"
       },
@@ -147,7 +148,9 @@
         "keywords": [
           "how to stop tripod shake in wind"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "best-tripod-for-sony-a7iv"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -852,10 +855,12 @@
           "tripod without center column low"
         ],
         "keywords": [
-          "tripod center column up or down for landscapes"
+          "tripod center column up or down for landscapes",
+          "best tripod for macro photography"
         ],
         "coveredBy": [
-          "tripod-center-column-up-or-down-for-landscapes"
+          "tripod-center-column-up-or-down-for-landscapes",
+          "best-tripod-for-macro-photography"
         ],
         "foundAt": "2026-10-21"
       },
@@ -1282,6 +1287,268 @@
           "best-tripod-for-telescope"
         ],
         "foundAt": "2026-10-28"
+      },
+      {
+        "id": "camera-tripods-fuji-thin-legs-heavy-zoom",
+        "pain": "Travel tripod legs look too thin for an X-T5 with the 16-55mm zoom",
+        "details": "X-T5 owners shopping for travel legs worry the slim lower sections of compact tripods will shake or tip with the 16-55mm f/2.8 mounted, especially for long exposures in wind.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/",
+            "platform": "forum",
+            "title": "Recommendations for the best travel tripod for Fujifilm X-series cameras?",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/1pxtvju/need_advice_on_a_tripod/",
+            "platform": "reddit",
+            "title": "Need advice on a Tripod (XT-5 with 16-55 MKII)",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.fujix-forum.com/threads/needing-a-general-travel-tripod-for-me-who-doesnt-often-use-one.154649/",
+            "platform": "forum",
+            "title": "Needing a General/Travel Tripod for me who doesn't often use one",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "honestly those skinny legs make me so anxious",
+            "url": "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+          },
+          {
+            "text": "Unfortunately, those Peak Design legs feel too thin for heavy Fuji glass.",
+            "url": "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+          }
+        ],
+        "searches": [
+          "travel tripod for x-t5",
+          "tripod for xt5 16-55"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x-t5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-fujifilm-x-t5"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-fuji-ibis-on-tripod",
+        "pain": "Unsure whether to leave IBIS on when the X-T5 is on a tripod",
+        "details": "X-T5 owners shooting the moon and long exposures ask if in-body stabilization helps or hurts on a tripod; replies say turn IBIS off and use a timed release.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/",
+            "platform": "reddit",
+            "title": "Moon photography, X-T5, tripod and IBIS?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If it's on a tripod, you should turn off the IBIS.",
+            "url": "https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/"
+          }
+        ],
+        "searches": [
+          "x-t5 ibis tripod"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x-t5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-fujifilm-x-t5"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-fuji-plate-movement",
+        "pain": "The X-T5 feels loose on the tripod plate or bracket",
+        "details": "An X-T5 owner reports the camera moving on the tripod mount; replies say movement with the camera firmly attached to a bracket or plate points to a problem, so tighten the plate screw or use a fitted L-bracket.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/",
+            "platform": "reddit",
+            "title": "X-T5 tripod mount is loose",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If you're getting movement when the camera is firmly attached to a bracket or plate, then you might have issues.",
+            "url": "https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/"
+          }
+        ],
+        "searches": [
+          "x-t5 tripod mount loose"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x-t5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-fujifilm-x-t5"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-fuji-travel-tripod-wind-confidence",
+        "pain": "Small travel tripods feel fine on calm days but lose confidence in wind and rough ground",
+        "details": "FujiX-Forum members say every easy-to-carry tripod is a compromise: stable on a calm day, shaky once the wind picks up; they advise choosing which compromise to live with.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.fujix-forum.com/threads/needing-a-general-travel-tripod-for-me-who-doesnt-often-use-one.154649/",
+            "platform": "forum",
+            "title": "Needing a General/Travel Tripod for me who doesn't often use one",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "as soon as you get into rough terrain or go somewhere with more than a breeze, they don’t give you any confidence",
+            "url": "https://www.fujix-forum.com/threads/needing-a-general-travel-tripod-for-me-who-doesnt-often-use-one.154649/"
+          }
+        ],
+        "searches": [
+          "travel tripod wind stability"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x-t5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-fujifilm-x-t5"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-a7iv-light-tripod-70-200-droop",
+        "pain": "A compact tripod that held an A7 IV with a kit zoom cannot hold it in place once a 70-200 goes on",
+        "details": "Sony A7 IV owners who start on a small Manfrotto compact-class tripod find it too weak once they add a 70-200mm zoom, and look for sturdier travel legs.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/",
+            "platform": "reddit",
+            "title": "Travel tripod within $300 for the A7 IV? : r/SonyAlpha",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "only to realize that it is too \"weak\" to keep the A7 IV + 70-200 in place",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/"
+          }
+        ],
+        "searches": [
+          "travel tripod for a7 iv and 70-200",
+          "tripod too weak for 70-200"
+        ],
+        "keywords": [
+          "best tripod for sony a7iv"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7iv"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "sony-a7iv-cheap-tripod-locks-slip-head-jerky",
+        "pain": "A budget tripod under an A7 IV has leg locks that slip and a jerky ball head, so horizons and long exposures fail",
+        "details": "A Sony A7 IV owner on a cheap Manfrotto Element-class tripod reports slipping leg locks, a ball head too jerky to level, and wind blurring sunrise long exposures.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+            "platform": "forum",
+            "title": "Recommended travel tripods for Sony Alpha camera users?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the leg locks keep slipping and the ball head is so jerky",
+            "url": "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+          }
+        ],
+        "searches": [
+          "tripod leg locks slipping a7iv",
+          "ball head jerky hard to level horizon"
+        ],
+        "keywords": [
+          "best tripod for sony a7iv"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7iv"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-macro-legs-in-the-way",
+        "pain": "Tripod legs are hard to place close to a macro subject",
+        "details": "In tight spots the legs land on plants, in the frame or in front of the subject, so the camera cannot get close; owners reach in with a horizontal or multi-angle column instead.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1eg89ls/tripod_suggestion_for_wildlife_and_macro/",
+            "platform": "reddit",
+            "title": "Tripod Suggestion for Wildlife and Macro Photography",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "No tripod is a 100% perfect for macro work, it's difficult sometimes to position the legs correctly",
+            "url": "https://www.reddit.com/r/photography/comments/1eg89ls/tripod_suggestion_for_wildlife_and_macro/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "tripod for macro legs in the way",
+          "macro tripod confined spaces"
+        ],
+        "keywords": [
+          "best tripod for macro photography"
+        ],
+        "coveredBy": [
+          "best-tripod-for-macro-photography"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-horizontal-column-counterweight",
+        "pain": "A horizontal column is hard to balance because there is nowhere to hang a counterweight on the far end",
+        "details": "With the camera swung out to the side the tripod gets top-heavy; owners note Manfrotto columns have no hook at the non-camera end, so a leg goes under the camera instead.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
+            "platform": "forum",
+            "title": "Which tripod should I get for macro photography?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the serious defect of not putting hooks at the non-camera end of the center column",
+            "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+          }
+        ],
+        "searches": [
+          "horizontal center column tips over",
+          "manfrotto 90 degree column counterweight"
+        ],
+        "keywords": [
+          "best tripod for macro photography"
+        ],
+        "coveredBy": [
+          "best-tripod-for-macro-photography"
+        ],
+        "foundAt": "2026-10-29"
       }
     ],
     "monopods": [
@@ -1733,7 +2000,8 @@
         ],
         "coveredBy": [
           "best-travel-tripod-for-mirrorless-camera",
-          "peak-design-travel-tripod-vs-manfrotto-befree-advanced"
+          "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+          "best-tripod-for-sony-a7iv"
         ],
         "foundAt": "2026-10-19"
       },
@@ -1825,7 +2093,8 @@
         ],
         "coveredBy": [
           "best-tripod-for-tall-photographers-over-6-feet",
-          "how-tall-should-a-tripod-be-for-my-height"
+          "how-tall-should-a-tripod-be-for-my-height",
+          "best-tripod-for-sony-a7iv"
         ],
         "foundAt": "2026-10-19"
       },
@@ -2551,6 +2820,47 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-21"
+      },
+      {
+        "id": "tripod-heads-macro-ball-head-imprecise",
+        "pain": "A ball head shifts when you lock it, which ruins framing at macro magnification",
+        "details": "Macro shooters report slack-return movement as a ball head clamps and find fine adjustments hard; they recommend a geared head and a focusing rail.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/",
+            "platform": "forum",
+            "title": "Best tripods for macro photography & is it practical to shoot without center column?",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/",
+            "platform": "forum",
+            "title": "JOBY GorillaPod SLR Zoom for Macro?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "experience 'slack-return' movement when clamping down",
+            "url": "https://www.dpreview.com/forums/threads/best-tripods-for-macro-photography-is-it-practical-to-shoot-without-center-column.2812699/"
+          },
+          {
+            "text": "too hard to make precise adjustments",
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/"
+          }
+        ],
+        "searches": [
+          "ball head or geared head for macro",
+          "ball head moves when locking macro"
+        ],
+        "keywords": [
+          "best tripod for macro photography"
+        ],
+        "coveredBy": [
+          "best-tripod-for-macro-photography"
+        ],
+        "foundAt": "2026-10-29"
       }
     ],
     "tripod-accessories": [
@@ -3219,10 +3529,12 @@
           "gorillapod vs mini tripod"
         ],
         "keywords": [
-          "flexible tripod vs mini tripod for travel vlogging"
+          "flexible tripod vs mini tripod for travel vlogging",
+          "best tripod for macro photography"
         ],
         "coveredBy": [
-          "flexible-tripod-vs-mini-tripod-for-travel-vlogging"
+          "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+          "best-tripod-for-macro-photography"
         ],
         "foundAt": "2026-10-21"
       },
@@ -3410,6 +3722,220 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-28"
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-no-thread",
+        "pain": "The Pocket 3 body has no tripod thread, so a new owner can't screw it onto a tripod",
+        "details": "Owners explain that the bare camera has no 1/4\"-20 hole; the threaded handle (Standard box) or the Battery Handle (Creator Combo) adds it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/osmopocket/comments/17jdta4/can_i_attack_the_tripod_to_the_pocket_3_without/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.reddit.com/r/dji/comments/17jx2rr/how_do_you_attach_the_osmo_pocket_3_to_a_tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The stock P3 has no 1/4\"-20 on the bottom to attach a tripod.",
+            "url": "https://www.reddit.com/r/osmopocket/comments/17jdta4/can_i_attack_the_tripod_to_the_pocket_3_without/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "osmo pocket 3 tripod"
+        ],
+        "keywords": [
+          "best tripod for dji osmo pocket 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dji-osmo-pocket-3"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-gimbal-moves-on-tripod",
+        "pain": "On a tripod the gimbal keeps moving instead of holding a still frame",
+        "details": "An r/osmopocket owner asks why a static tripod shot still moves; replies say to recenter the gimbal and use a locked mode.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/osmopocket/comments/1jk4oxp/so_this_thing_really_cant_take_a_tripod_video/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Put it in place, double tap the joystick so it straightens the lens",
+            "url": "https://www.reddit.com/r/osmopocket/comments/1jk4oxp/so_this_thing_really_cant_take_a_tripod_video/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "osmo pocket 3 tripod"
+        ],
+        "keywords": [
+          "best tripod for dji osmo pocket 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dji-osmo-pocket-3"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-tripod-too-low",
+        "pain": "Mini tripods leave the Pocket 3 far below eye level, but full tripods are too big to carry",
+        "details": "Pocket 3 owners ask for a tripod that reaches about 5 ft yet packs small.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1439551327474877/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.reddit.com/r/osmopocket/comments/1g0nifv/op3_tripod_recommendations/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I’m talking about one that can stand about 5 ft tall and not take up 4 ft of space.",
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1439551327474877/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "osmo pocket 3 tripod"
+        ],
+        "keywords": [
+          "best tripod for dji osmo pocket 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dji-osmo-pocket-3"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-screw-feels-loose",
+        "pain": "The tripod screw keeps turning and the camera feels loose on the mount",
+        "details": "A first-time owner found the tripod kept screwing into the handle without feeling tight.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1598094671620541/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I attached it to the bottom of my OP3 and it just kept screwing and screwing and screwing.",
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1598094671620541/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "osmo pocket 3 tripod"
+        ],
+        "keywords": [
+          "best tripod for dji osmo pocket 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dji-osmo-pocket-3"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-charge-on-tripod",
+        "pain": "Long timelapses and streams drain the battery while the camera sits on a tripod",
+        "details": "Owners use the Battery Handle or a pass-through tripod mount to charge while mounted.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/osmopocket/comments/1t9v0sd/pocket_3_what_is_this_thing/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://www.reddit.com/r/osmopocket/comments/185gixm/osmo_pocket_3_handle_or_battery_handle_creator/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "This is useful for having the osmo pocket on a tripod mount and charge it too.",
+            "url": "https://www.reddit.com/r/osmopocket/comments/1t9v0sd/pocket_3_what_is_this_thing/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "osmo pocket 3 tripod"
+        ],
+        "keywords": [
+          "best tripod for dji osmo pocket 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dji-osmo-pocket-3"
+        ],
+        "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-tripods-flexible-unstable-for-macro",
+        "pain": "A flexible GorillaPod-style tripod is not steady enough for a macro rig",
+        "details": "Owners find bendable tripods handy for low angles but too wobbly once a DSLR, macro lens, rail or flash goes on, and fussy to position.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/",
+            "platform": "forum",
+            "title": "JOBY GorillaPod SLR Zoom for Macro?",
+            "seen": "2026-10-29"
+          },
+          {
+            "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
+            "platform": "forum",
+            "title": "Which tripod should I get for macro photography?",
+            "seen": "2026-10-29"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "not stable enough for anything bigger",
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-slr-zoom-for-macro.4489721/"
+          },
+          {
+            "text": "They can be fussy to get stable and in the right position",
+            "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+          }
+        ],
+        "searches": [
+          "gorillapod for macro",
+          "flexible tripod macro photography"
+        ],
+        "keywords": [
+          "best tripod for macro photography"
+        ],
+        "coveredBy": [
+          "best-tripod-for-macro-photography"
+        ],
+        "foundAt": "2026-10-29"
       }
     ],
     "phone-tripods": [

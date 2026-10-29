@@ -39,7 +39,12 @@ export function loadSerps(file = path.join(DATA_DIR, 'serps.json')) {
   }
 }
 
-const norm = (u) => String(u).replace(/^https?:\/\/(www\.)?/, '').replace(/[?#].*$/, '').replace(/\/$/, '');
+// Keep the query string for pages that are identified by it (YouTube watch?v=, search pages): stripping it made every
+// YouTube video count as the same URL and flagged unrelated keywords as cannibalizing (2026-10-29).
+const norm = (u) => {
+  const s = String(u).replace(/^https?:\/\/(www\.)?/, '').replace(/#.*$/, '');
+  return (/^(m\.)?youtube\.com\/watch|\/(search|s)\b|[?&](q|k|v|query)=/.test(s) ? s : s.replace(/\?.*$/, '')).replace(/\/$/, '');
+};
 /** Shared top-10 URLs between two keywords, or null when either SERP is not recorded. */
 export function serpShared(a, b, serps) {
   const A = serps[String(a).toLowerCase()]?.urls;

@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
-  - best-tripod-for-telescope
-  - best-tripod-for-youtube-videos
-  - best-tripod-for-spotting-scope
-  - how-tall-should-a-tripod-be-for-my-height
+  - best-tripod-for-fujifilm-x-t5
+  - best-tripod-for-sony-a7iv
+  - best-tripod-for-macro-photography
+  - best-tripod-for-astrophotography
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

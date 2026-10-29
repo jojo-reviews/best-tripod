@@ -1,0 +1,19 @@
+{
+  "slug": "best-tripod-for-astrophotography",
+  "pass": true,
+  "checkedAt": "2026-10-29T10:28:58.796Z",
+  "errors": [],
+  "warnings": [
+    "product \"Benro Tortoise 24C with GX30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro Mach3 TMA37C\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-29: Tortoise 24C+GX30 specs (129.5 cm, 19 cm min, 54 cm folded, 1.51 kg, 14 kg, 4-section twist, Arca plate, spikes/bag included) on benrousa.com; Mach3 TMA37C (161.5 cm, 38.5 cm min, 62.5 cm folded, 1.85 kg, 16 kg, 3 sections, 32.4 mm top tube, spikes + short column, 3/8 thread) on benrousa.com; MK055XPRO3-BHQ2 (181.5/151.5 cm, 9 cm min, 72.5 cm, 3 kg, 15 kg, XPRO ball head, 200PL-14) on manfrotto.com; Peak Design carbon and Befree Advanced specs as verified in live posts (peakdesign.com, manfrotto.com, B&H). Stats: 3.6 kg rig, 8 kg floor and 100% carbon 2026 on skiesandscopes.com; three-times margin quote on fstoppers.com. Product evidence: Space.com headings + Skies & Scopes + PhotoPills + Kristine Rose + Fstoppers. ASINs B08F2RP5QM, B085BQTQMN, B00YEU9GE8, B010R4BO12, B0772WLSHZ checked on Amazon US 2026-10-29: right model, in stock, featured buy-box offer. Owner claims from DPReview, Cloudy Nights, Devon Landscape, Kristine Rose, Facebook Milky Way Chasers, Adorama/B&H. Pain-point quotes copied verbatim from the brief.",
+    "at": "2026-10-29T10:28:58.347Z",
+    "hash": "4346c3952f750e9a"
+  }
+}

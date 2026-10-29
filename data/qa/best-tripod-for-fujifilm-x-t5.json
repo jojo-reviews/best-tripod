@@ -1,0 +1,19 @@
+{
+  "slug": "best-tripod-for-fujifilm-x-t5",
+  "pass": true,
+  "checkedAt": "2026-10-29T10:31:39.793Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig AP-10 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-recorded after adding sourced detail to three product paragraphs (PD 5.5 in low mode and 15.5 in fold per ShutterMuse; Befree leg angles 22/54/89 and 15.75 in min per manfrotto.com; K&F 4 flip-lock sections, 28 mm head, 2.73 lb per kfconcept.com). Earlier checks: X-T5 557 g, XF16-55mm II 410 g, XF70-300mm 580 g (fujifilm-x.com); all product specs against maker/B&H/ShutterMuse pages; all 5 ASINs in stock with a buy box on Amazon US 2026-10-29; quotes verbatim.",
+    "at": "2026-10-29T10:31:39.376Z",
+    "hash": "0ea067a4a5cbbe13"
+  }
+}

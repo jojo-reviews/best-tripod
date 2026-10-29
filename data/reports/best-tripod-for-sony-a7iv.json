@@ -1,0 +1,550 @@
+{
+  "keyword": "best tripod for sony a7iv",
+  "createdAt": "2026-10-29T10:40:57.673Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Sony A7 IV",
+    "entityVariants": [
+      "best tripod for sony a7iv",
+      "best tripod for sony a7 iv",
+      "tripod for sony a7iv",
+      "sony a7iv tripod",
+      "best travel tripod for sony a7iv",
+      "best tripod for sony a7iii",
+      "tripod for sony a74",
+      "a7 iv tripod",
+      "a7 iv tripods",
+      "tripods for the sony a7 iv"
+    ],
+    "entities": [
+      {
+        "name": "Sony A7 IV",
+        "type": "camera",
+        "relation": "full-frame mirrorless body, approx. 658 g with battery and card"
+      },
+      {
+        "name": "A7 III",
+        "type": "camera",
+        "relation": "predecessor with the same tripod needs (secondary keyword)"
+      },
+      {
+        "name": "24-70mm GM II",
+        "type": "lens",
+        "relation": "common A7 IV standard zoom, 695 g"
+      },
+      {
+        "name": "70-200mm GM II",
+        "type": "lens",
+        "relation": "common A7 IV telephoto, 1,045 g without tripod mount"
+      },
+      {
+        "name": "200-600mm G",
+        "type": "lens",
+        "relation": "wildlife lens, 2,115 g; the heaviest load an A7 IV owner is likely to mount"
+      },
+      {
+        "name": "Peak Design Travel Tripod (Carbon Fiber)",
+        "type": "product",
+        "relation": "most-recommended A7 IV travel tripod across top results"
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "type": "product",
+        "relation": "budget travel kit recommended for Sony Alpha bodies; Manfrotto made a Sony Alpha edition"
+      },
+      {
+        "name": "SIRUI AM-284",
+        "type": "product",
+        "relation": "columnless carbon legs recommended in Sony forums"
+      },
+      {
+        "name": "Leofoto LS-284CX",
+        "type": "product",
+        "relation": "columnless carbon travel kit; current version of the LS-284C forum owners name"
+      },
+      {
+        "name": "Manfrotto 055",
+        "type": "product",
+        "relation": "full-size tripod named for A7-series bodies in several threads"
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "standard",
+        "relation": "dovetail used by L-brackets that many A7 IV owners fit"
+      },
+      {
+        "name": "L-bracket",
+        "type": "accessory",
+        "relation": "Arca-type bracket for portrait orientation on the A7 IV"
+      },
+      {
+        "name": "center column",
+        "type": "tripod part",
+        "relation": "adds height, costs stiffness"
+      },
+      {
+        "name": "ball head",
+        "type": "tripod head",
+        "relation": "head type on every kit here"
+      },
+      {
+        "name": "twist lock",
+        "type": "leg lock",
+        "relation": "on the Leofoto and Sirui"
+      },
+      {
+        "name": "flip lock",
+        "type": "leg lock",
+        "relation": "on the Peak Design, Befree and 055"
+      }
+    ],
+    "attributes": [
+      "rated load vs A7 IV plus lens weight",
+      "height with the center column down",
+      "folded length for a carry-on",
+      "weight with head",
+      "columnless vs center column",
+      "leg sections and lock type",
+      "Arca-Swiss compatibility for an L-bracket",
+      "head friction and pan control"
+    ],
+    "ngrams": [
+      "tripod for sony a7iv",
+      "travel tripod",
+      "carbon fiber",
+      "ball head",
+      "center column",
+      "arca swiss",
+      "l bracket",
+      "24-70 gm",
+      "70-200",
+      "leg locks",
+      "peak design travel tripod",
+      "befree advanced"
+    ],
+    "skipgrams": [
+      "tripod…A7",
+      "column…stability",
+      "carbon…wind",
+      "arca…bracket",
+      "lens…weight",
+      "load…rating"
+    ],
+    "nlpTerms": [
+      "Sony",
+      "A7 IV",
+      "A7 III",
+      "full-frame",
+      "mirrorless",
+      "24-70mm",
+      "70-200mm",
+      "200-600mm",
+      "carbon fiber",
+      "aluminum",
+      "ball head",
+      "Arca-Swiss",
+      "L-bracket",
+      "center column",
+      "columnless",
+      "folded length",
+      "load capacity",
+      "long exposure",
+      "wind",
+      "landscape",
+      "carry-on",
+      "twist lock",
+      "flip lock"
+    ],
+    "questions": [
+      "What is the best tripod for a Sony A7 IV?",
+      "How much weight does an A7 IV and a 70-200 put on a tripod?",
+      "Is the Peak Design Travel Tripod good enough for an A7 IV?",
+      "Do I need a tripod without a center column?",
+      "Will these tripods fit a Sony A7 III too?",
+      "Do I need an Arca-Swiss plate for my A7 IV?"
+    ],
+    "contentGaps": [
+      "Load headroom per tripod with real Sony lens weights (24-70 GM II, 70-200 GM II, 200-600 G)",
+      "Column-down height compared across picks",
+      "Columnless legs vs travel tripods with a center column for wind",
+      "Arca-Swiss vs Manfrotto 200PL plates for owners with an L-bracket",
+      "A chooser by lens and use, not by budget"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for Sony A7IV picks at a glance",
+        "intent": "short answer, picks, comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Sony A7 IV tripods",
+        "intent": "method, who recommends them, story block",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Sony A7 IV, reviewed",
+        "intent": "one section per product",
+        "h3": [
+          "Peak Design Travel Tripod (Carbon Fiber)",
+          "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+          "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+          "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+          "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)"
+        ]
+      },
+      {
+        "h2": "How much load an A7 IV and its lenses put on a tripod",
+        "intent": "load headroom math with Sony lens weights, column-down height, plates",
+        "h3": []
+      },
+      {
+        "h2": "Sony A7 IV tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "Which tripod should you get for your A7 IV?",
+        "intent": "decision rule by lens and use, next links",
+        "h3": []
+      }
+    ],
+    "targetWords": 1600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+        "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+        "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+        "https://www.alphashooters.com/cameras/a7iii/accessories/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "Packapop and AlphaShooters describe each tripod in prose paragraphs (Packapop adds short why/consider lists); the three forum threads are prose replies.",
+      "avgWords": 1480,
+      "avgProducts": 6,
+      "commonSections": [
+        "short intro",
+        "one section per tripod",
+        "how to choose (stability, carbon vs aluminum, portability, ball vs fluid head)",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/SonyAlpha/comments/145efwa/tripod_recommendations/",
+        "title": "Tripod recommendations. : r/SonyAlpha"
+      },
+      {
+        "position": 2,
+        "url": "https://www.keithknittel.com/articles/top-10-best-sony-a7iv-accessories-for-better-video-amp-photos",
+        "title": "Top 10 Best Sony A7IV Accessories for Better Video & Photos"
+      },
+      {
+        "position": 3,
+        "url": "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+        "title": "Recommended travel tripods for Sony Alpha camera users?"
+      },
+      {
+        "position": 4,
+        "url": "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+        "title": "5 Best Tripods For Sony A7 IV Before You Spend $400+"
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/28508025115485383/",
+        "title": "What tripods do photographers recommend for Sony a7iv ..."
+      },
+      {
+        "position": 6,
+        "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+        "title": "Looking for a Tripod for Sony a7 IV - Sony Rumors Forum"
+      },
+      {
+        "position": 7,
+        "url": "https://www.amazon.com/tripod-sony-a7iv/s?k=tripod+for+sony+a7iv",
+        "title": "Tripod For Sony A7iv"
+      },
+      {
+        "position": 8,
+        "url": "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-sony_alpha_a7r_iv_mirrorless/1527384-REG-96597",
+        "title": "Video Tripods for Sony Alpha A7R IV"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=4tZwPyiO9sU",
+        "title": "You NEED This Tripod For Vlogging with Your NEW Sony A7iv!"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=6yLbEIf9pJs&vl=en",
+        "title": "Which travel tripod is the BEST travel tripod?"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 2,
+      "commonModifiers": [
+        "Sony A7 IV",
+        "travel",
+        "recommendations",
+        "best"
+      ],
+      "gap": "No top-10 title starts with the exact keyword or carries a year, and none matches the tripod to the lens on the camera (24-70 vs 70-200 vs 200-600)."
+    },
+    "serpProducts": [
+      {
+        "name": "Peak Design Travel Tripod (Carbon Fiber)",
+        "pages": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iii",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/",
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+        ],
+        "note": "Two Sony Rumors replies recommend the carbon PD; Packapop lists it as the travel pick; a CameraEgg reply found the legs thin at full extension."
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "pages": [
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ],
+        "note": "Sony Rumors owner uses it on the a7 IV; DPReview A7III thread (owner: perfect for air travel, not stable in wind); AlphaShooters lists the Sony Alpha edition."
+      },
+      {
+        "name": "Leofoto LS-284C(X) with LH-30",
+        "pages": [
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+        ],
+        "note": "Both threads name the LS-284C + LH-30; Amazon US sells the current LS-284CX + LH-30 kit (B&H lists it as the LS-284C X)."
+      },
+      {
+        "name": "SIRUI AM-284",
+        "pages": [
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+        ],
+        "note": "CameraEgg: two replies (one owner, 24-70 GM, carry-on); Sony Rumors: solid alternative with an A-10R head."
+      },
+      {
+        "name": "Manfrotto 055 (MT055XPRO3 / MK055XPRO3 kit / 055 carbon)",
+        "pages": [
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ],
+        "note": "Sony Rumors: 055 Carbon most versatile; DPReview: owner uses 055 legs with basic A7 bodies, another calls the 055 far more stable than a Befree; AlphaShooters lists the MT055XPRO3."
+      },
+      {
+        "name": "Benro Mach3 (various series)",
+        "pages": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+        ],
+        "note": "Not featured: the two pages name different Mach3 models (5X Series 4 vs Long Series 3), so no single listing has 2 recommendations."
+      },
+      {
+        "name": "Gitzo GT1545T Traveler",
+        "pages": [
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+        ],
+        "note": "Only one page; not featured."
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "sony-a7iv-light-tripod-70-200-droop",
+        "pain": "A compact tripod that held an A7 IV with a kit zoom cannot hold it in place once a 70-200 goes on",
+        "details": "Sony A7 IV owners who start on a small compact-class tripod find it too weak once they add a 70-200mm zoom.",
+        "sources": [
+          "https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/"
+        ],
+        "quotes": [
+          {
+            "text": "only to realize that it is too \"weak\" to keep the A7 IV + 70-200 in place",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/"
+          }
+        ]
+      },
+      {
+        "id": "sony-a7iv-cheap-tripod-locks-slip-head-jerky",
+        "pain": "A budget tripod under an A7 IV has leg locks that slip and a jerky ball head, so horizons and long exposures fail",
+        "details": "An A7 IV owner on a cheap Manfrotto Element-class tripod reports slipping leg locks, a jerky head and wind blurring long exposures.",
+        "sources": [
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+        ],
+        "quotes": [
+          {
+            "text": "the leg locks keep slipping and the ball head is so jerky",
+            "url": "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+          }
+        ]
+      },
+      {
+        "id": "travel-tripods-wobbly-for-long-exposure",
+        "pain": "A small travel tripod is too wobbly for long exposures, ND filters, astro or a 100-400",
+        "details": "Photographers who already own a travel tripod outgrow it once they add ND filters, astrophotography or longer lenses.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+        ],
+        "quotes": [
+          {
+            "text": "The center column make the Travel Tripod less stable so you should not extend it.",
+            "url": "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-wind-vibration",
+        "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+        "details": "Outdoor shooters see legs vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "Wind will vibrate across the legs and transmit up to the camera.",
+            "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "travel-tripods-too-short-bend-over",
+        "pain": "Compact travel tripods are too short, forcing photographers to bend over",
+        "details": "Folded-small tripods stop well below eye level once the center column is left down.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        ],
+        "quotes": [
+          {
+            "text": "a travel pod will be shorter requiring you to bend over to look through the VF",
+            "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+          }
+        ]
+      }
+    ],
+    "commonPoints": [
+      "Carbon fiber is lighter and nicer in the cold than aluminum",
+      "Stability matters most for landscapes and long exposures",
+      "Portability decides whether the tripod comes along at all",
+      "A quick-release plate (preferably Arca-type) speeds up mounting",
+      "Raising the center column or using a columnless tripod changes stability",
+      "Light, sturdy, cheap: you can only have two"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom with real Sony kits: A7 IV (658 g) + 24-70 GM II (695 g) = 1,353 g; + 70-200 GM II (1,045 g) = 1,703 g; + 200-600 G (2,115 g) = 2,773 g. The 9 kg Befree and 9.1 kg Peak Design give about 5.3x headroom with the 70-200 kit and about 3.3x with the 200-600; the 15 kg AM-284 and 055 kit give 8.8x and 5.4x.",
+        "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications; https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications; https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications; https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications; maker spec pages",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Column-down working height side by side: 055 kit 59.65 in, Peak Design 51.25 in, Befree about 50.4 in, Leofoto about 50 in with its head, AM-284 47.2 in before a head; only the 055 reaches standing eye level without a raised column.",
+        "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/; https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/; https://store.sirui.com/products/carbon-fiber-tripod-with-two-section-center-column-am284-sl200",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by lens and use: 24-70 travel = Peak Design or Befree; wind, ND and astro with an L-bracket = Leofoto LS-284CX or AM-284 with an Arca head; 200-600 or home and car shooting = 055 kit (swap the 200PL plate if you use an L-bracket).",
+        "source": "our rule from the specs above and the owner threads",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/",
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Arca-Swiss L-bracket owners: the 055 kit's 200PL-14 plate is not Arca-type, while the Befree's 200PL-PRO and the PD, Leofoto heads take Arca plates; the AM-284 ships with no head at all.",
+        "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/; https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+        "absentFrom": [
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+          "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+          "https://www.dpreview.com/forums/threads/the-a7iii-of-tripods-for-sony-a7-series.4279325/",
+          "https://www.alphashooters.com/cameras/a7iii/accessories/"
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "658 g",
+        "claim": "Sony A7 IV weight with battery and memory card",
+        "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+        "quote": "Weight (with battery and memory card included) Approx. 1 lb 7.3 oz (approx. 658 g)"
+      },
+      {
+        "number": "695 g",
+        "claim": "Sony FE 24-70mm F2.8 GM II weight",
+        "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+        "quote": "Weight 24.6 oz (695 g)"
+      },
+      {
+        "number": "1,045 g",
+        "claim": "Sony FE 70-200mm F2.8 GM OSS II weight",
+        "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications",
+        "quote": "Weight 36.9 oz (1,045 g) (Without tripod mount)"
+      },
+      {
+        "number": "2,115 g",
+        "claim": "Sony FE 200-600mm G weight",
+        "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
+        "quote": "Weight 74.7 oz (2,115 g)"
+      },
+      {
+        "number": "33.07 lbs",
+        "claim": "Manfrotto 055 aluminum kit safety payload",
+        "url": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/",
+        "quote": "Safety Payload UNI/PdR 105:2021:15 kg33.07 lbs"
+      }
+    ],
+    "videos": [],
+    "pendingInlinks": [
+      {
+        "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+        "find": "We'd pick it over the Befree if you shoot low foregrounds or want the slimmest packed shape.",
+        "replace": "We'd pick it over the Befree if you shoot low foregrounds or want the slimmest packed shape; Sony shooters can see both in our [tripods for the Sony A7 IV](/blog/best-tripod-for-sony-a7iv/)."
+      },
+      {
+        "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+        "find": "Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack.",
+        "replace": "Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack (our [Sony A7 IV tripod picks](/blog/best-tripod-for-sony-a7iv/) cover both)."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-astrophotography",
+      "mode": "related-box"
+    }
+  ]
+}

@@ -44,14 +44,24 @@
       "relation": "columnless carbon tripod picked by Skies & Scopes and Space.com"
     },
     {
-      "name": "Benro Mach3 9X CF (TMA37C)",
-      "type": "product",
-      "relation": "Space.com best overall; Skies & Scopes premium pick"
-    },
-    {
       "name": "wind",
       "type": "condition",
       "relation": "the main enemy of 15-30 s exposures at dark sites"
+    },
+    {
+      "name": "Benro Mach3 TMA37C",
+      "type": "product",
+      "relation": "Space.com best overall (as Mach3 9X CF); Skies & Scopes premium pick for heavier rigs"
+    },
+    {
+      "name": "Manfrotto 055",
+      "type": "product",
+      "relation": "MK055XPRO3-BHQ2 kit on Space.com; 055XPRO3 at PhotoPills; 055 with a tracker at Kristine Rose Photography"
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "Space.com best lightweight (aluminum); Fstoppers picks the Befree Advanced GT XPro aluminum"
     }
   ],
   "attributes": [
@@ -116,42 +126,58 @@
   "outline": [
     {
       "h2": "Best Tripod for Astrophotography – The Short Answer",
-      "intent": "Direct answer: picks by role and the one rule (load for camera+tracker, column down)",
+      "intent": "picks by role + the load rule",
       "h3": []
     },
     {
-      "h2": "The Best Tripods for Astrophotography",
-      "intent": "Product reviews, pros-cons style",
+      "h2": "How I Picked These Astrophotography Tripods",
+      "intent": "evidence, who else recommends, owners read",
+      "h3": []
+    },
+    {
+      "h2": "The 5 Best Tripods for Astrophotography",
+      "intent": "product reviews, pros-cons",
       "h3": [
-        "Peak Design Travel Tripod (Carbon): Best for travel",
-        "Benro Tortoise 24C: Best columnless",
-        "Benro Mach3 9X CF TMA37C: Best for heavy tracker rigs",
-        "Manfrotto Befree Advanced (aluminum): Best value"
+        "Benro Tortoise 24C with GX30 Ball Head: Best overall for astro",
+        "Peak Design Travel Tripod (Carbon Fiber): Best for flying to dark skies",
+        "Benro Mach3 TMA37C: Best for heavy tracker rigs",
+        "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head: Best for backyard and car-side sessions",
+        "Manfrotto Befree Advanced Aluminum: Best budget pick for camera-only nightscapes"
       ]
     },
     {
       "h2": "Astrophotography Tripods Compared",
-      "intent": "Table: load, weight, height column down, folded length, head",
+      "intent": "table",
       "h3": []
     },
     {
-      "h2": "How Much Tripod Does Your Night Rig Need",
-      "intent": "Load math with tracker; 3x margin rule; working height without column",
+      "h2": "How Much Load an Astrophotography Tripod Needs With a Star Tracker",
+      "intent": "load math",
       "h3": []
     },
     {
-      "h2": "Setting Up for Sharp Stars",
-      "intent": "Wind, legs, column, weight, cold and gloves; video",
+      "h2": "Astrophotography Tripod Height With the Column Down",
+      "intent": "working height",
       "h3": []
     },
     {
-      "h2": "Problems Owners Run Into, and the Fix",
-      "intent": "Pain points",
+      "h2": "How to Set Up a Tripod for Sharp Stars",
+      "intent": "numbered steps",
       "h3": []
     },
     {
-      "h2": "Our Verdict",
-      "intent": "Close opening scene; link under-3-pounds and moon posts",
+      "h2": "Astrophotography Tripod Problems Owners Run Into, and the Fix",
+      "intent": "pain points",
+      "h3": []
+    },
+    {
+      "h2": "Which Astrophotography Tripod Should You Get?",
+      "intent": "chooser",
+      "h3": []
+    },
+    {
+      "h2": "Our Verdict on the Best Tripod for Astrophotography",
+      "intent": "close the opening scene, next links",
       "h3": []
     }
   ],
@@ -160,7 +186,9 @@
     "analyzedUrls": [
       "https://www.space.com/best-tripods",
       "https://skiesandscopes.com/camera-tripod/",
-      "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "https://www.photopills.com/articles/best-milky-way-photography-gear",
+      "https://www.kristinerosephotography.com/tripods"
     ],
     "productStyle": "pros-cons",
     "productStyleReason": "Space.com (11 products) gives each tripod a spec block plus Reasons to buy / Reasons to avoid lists; Skies & Scopes and Fstoppers use spec bullets with prose. Pros/cons with specs is the dominant pattern among the roundups.",
@@ -178,7 +206,7 @@
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true,
-    "note": "Space.com body about 9,500 words incl. ads/blocks (general tripods, 11 picks); Skies & Scopes about 2,400 (8 picks); Fstoppers about 1,500 (4 picks). avgWords set to about 2,600 (Space.com counted at a realistic article length ~4,000). Reddit and DPReview forum not scrapable/not counted. B&H, Best Buy, High Point are store pages (3/10)."
+    "note": "Space.com body about 9,500 words incl. ads/blocks (general tripods, 11 picks); Skies & Scopes about 2,400 (8 picks); Fstoppers about 1,500 (4 picks). avgWords set to about 2,600 (Space.com counted at a realistic article length ~4,000). Reddit and DPReview forum not scrapable/not counted. B&H, Best Buy, High Point are store pages (3/10). 2026-10-29: added PhotoPills Milky Way gear guide (~2,740 words) and Kristine Rose tripods page (night-variant SERPs) for product evidence; avgWords kept at 2,600."
   },
   "serpTitles": [
     {
@@ -256,24 +284,63 @@
   ],
   "ourGain": [
     {
-      "point": "Load math with a star tracker: camera 0.7 + 14mm lens 1.2 + Star Adventurer 1.7 kg = 3.6 kg, then the 3x margin night photographers use",
-      "source": "https://skiesandscopes.com/camera-tripod/ ; https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      "type": "analysis",
+      "point": "Load math with a star tracker: camera 0.7 + 14mm lens 1.2 + Star Adventurer 1.7 kg = 3.6 kg; at the 3x margin night photographers use that is about 10.8 kg, which the Tortoise (14 kg), Mach3 (16 kg) and 055 kit (15 kg) clear and the Peak Design (9.1 kg) and Befree (9 kg) do not",
+      "source": "https://skiesandscopes.com/camera-tripod/ ; https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844 ; maker spec pages",
+      "absentFrom": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ]
     },
     {
-      "point": "Pick by working height with the column down (Peak Design 130 cm vs 152 cm with column), not headline height",
-      "source": "https://skiesandscopes.com/camera-tripod/ ; https://www.space.com/best-tripods"
+      "type": "analysis",
+      "point": "Rated load per kilogram carried: Tortoise 9.3, Mach3 8.6, Peak Design 7.2, Befree 5.7, 055 kit 5.0, from maker load and weight specs",
+      "source": "maker spec pages (benrousa.com, manfrotto.com, peakdesign.com)",
+      "absentFrom": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ]
     },
     {
-      "point": "Gear actually used by Milky Way Photographer of the Year winners: 100% carbon in 2025-2026, no dominant model",
-      "source": "https://skiesandscopes.com/camera-tripod/"
+      "type": "decision",
+      "point": "Chooser: camera-only on a plane = Peak Design; tracker on foot = Tortoise; tracker plus long lens or tall shooter = Mach3; car-side backyard sessions = 055 kit; tight budget, camera-only = Befree",
+      "source": "own decision rule from the specs above",
+      "absentFrom": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ]
     },
     {
-      "point": "Gloves and dark: leg locks and knobs you can work by feel in winter (pain point), and reflective tape tip from Fstoppers",
-      "source": "data/pain-points.json camera-tripods-leg-locks-with-gloves ; https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      "type": "situation",
+      "point": "Gloves and dark: leg locks and knobs you can work by feel in winter (pain point): twist collars vs flip/lever locks per model",
+      "source": "data/pain-points.json camera-tripods-leg-locks-with-gloves",
+      "absentFrom": [
+        "https://www.space.com/best-tripods",
+        "https://skiesandscopes.com/camera-tripod/",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ]
     },
     {
-      "point": "Where to stop: telescope + EQ mount (24 kg example) needs a heavy-duty tripod class, out of scope",
-      "source": "https://skiesandscopes.com/camera-tripod/"
+      "type": "analysis",
+      "point": "Pick by working height with the column down (Peak Design 130.2 cm, Befree 128 cm, Tortoise 129.5 cm columnless, 055 kit 151.5 cm), not headline height",
+      "source": "maker spec pages",
+      "absentFrom": [
+        "https://skiesandscopes.com/camera-tripod/",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ]
     }
   ],
   "serpProducts": [
@@ -283,8 +350,8 @@
         "https://www.space.com/best-tripods",
         "https://skiesandscopes.com/camera-tripod/"
       ],
-      "asinCandidate": "B085BQTQMN",
-      "asinNote": "ASIN already used and verified in live posts (best-hiking-tripod)"
+      "asin": "B085BQTQMN",
+      "amazon": "in stock, buy box (sold by Peak Design, ships from Amazon), checked 2026-10-29"
     },
     {
       "name": "Benro Tortoise 24C with GX30 (TTOR24CGX30)",
@@ -292,7 +359,8 @@
         "https://www.space.com/best-tripods",
         "https://skiesandscopes.com/camera-tripod/"
       ],
-      "asinCandidate": "B08F2RP5QM"
+      "asin": "B08F2RP5QM",
+      "amazon": "in stock, buy box (Adorama), checked 2026-10-29"
     },
     {
       "name": "Benro Mach3 9X CF Series 3 (TMA37C)",
@@ -300,17 +368,29 @@
         "https://www.space.com/best-tripods",
         "https://skiesandscopes.com/camera-tripod/"
       ],
-      "asinCandidate": "B00YEU9GE8",
-      "asinNote": "Space.com calls it 'Mach3 9X CF' with the same 15.9 kg / 161.5 cm / 62.5 cm specs Skies & Scopes gives for TMA37C"
+      "asin": "B00YEU9GE8",
+      "amazon": "in stock, buy box (ships from Amazon), checked 2026-10-29"
     },
     {
-      "name": "Manfrotto Befree Advanced (aluminum)",
+      "name": "Manfrotto 055 Aluminum 3-Section Kit with Ball Head (MK055XPRO3-BHQ2)",
+      "pages": [
+        "https://www.space.com/best-tripods",
+        "https://www.photopills.com/articles/best-milky-way-photography-gear",
+        "https://www.kristinerosephotography.com/tripods"
+      ],
+      "asin": "B010R4BO12",
+      "amazon": "in stock, sold by Amazon, checked 2026-10-29",
+      "note": "Space.com reviews this exact kit; PhotoPills names the 055XPRO3; Kristine Rose uses an aluminum 055 3-section with an XPRO ball head on her tracker. The legs-only MT055XPRO3 listing (B00IQ7PT50) had no buy box on 2026-10-29, so the kit is featured."
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum, lever locks, ball head (MKBFRLA4BK-BH)",
       "pages": [
         "https://www.space.com/best-tripods",
         "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
       ],
-      "asinCandidate": "B0772WLSHZ",
-      "asinNote": "Space.com reviews the Befree Advanced aluminum; Fstoppers the Befree Advanced GT XPro aluminum (different variant). Family-level match only; ASIN is the lever aluminum kit used in landscape-photography-tripod"
+      "asin": "B0772WLSHZ",
+      "amazon": "in stock, sold by Amazon, checked 2026-10-29",
+      "note": "Space.com reviews the Befree Advanced aluminum; Fstoppers picks the Befree Advanced GT XPro aluminum (same family, bigger variant). Family-level match on the second page."
     },
     {
       "name": "K&F Concept B210, INNOREL RT90C/LT324C, Leofoto LS-284CEXX, Gitzo GT5543LS",
@@ -323,6 +403,20 @@
       "name": "Feisol CT-3342 / CT-3372, Leofoto LP-324C",
       "pages": [
         "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      ],
+      "note": "single page; not qualifying"
+    },
+    {
+      "name": "Gitzo GT2545T Traveler",
+      "pages": [
+        "https://www.nationalparksatnight.com/gear-blog-posts/category/Tripods"
+      ],
+      "note": "one page by model (PhotoPills names Gitzo only as a brand); not qualifying"
+    },
+    {
+      "name": "3 Legged Thing Punks Brian, Manfrotto Element MII, Manfrotto 190 Go!, Vanguard Alta Pro 263AB, Joby GorillaPod 5K, Benro Slim",
+      "pages": [
+        "https://www.space.com/best-tripods"
       ],
       "note": "single page; not qualifying"
     }
@@ -434,12 +528,6 @@
       "via": "Firecrawl search excerpt of the maker page"
     },
     {
-      "number": "14kg",
-      "claim": "Benro Tortoise 24C max load (Space.com spec block)",
-      "url": "https://www.space.com/best-tripods",
-      "quote": "Max load: 30.9 lbs / 14kg"
-    },
-    {
       "number": "3.6 kg",
       "claim": "Example landscape astro rig weight (camera + 14mm lens + Star Adventurer)",
       "url": "https://skiesandscopes.com/camera-tripod/",
@@ -456,17 +544,35 @@
       "claim": "Load margin most pros use for tripod and head",
       "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
       "quote": "Most professional photographers I speak to prefer to exceed the load capacity of a tripod and ball head by about three times."
-    }
-  ],
-  "videos": [
+    },
     {
-      "id": "fGbhjXqIB18",
-      "title": "Tripods and Heads: How to choose the best one for you?",
-      "channel": "likely Simon d'Entremont (affiliate code 'sdentrem' in description); not verified",
-      "url": "https://www.youtube.com/watch?v=fGbhjXqIB18",
-      "section": "How Much Tripod Does Your Night Rig Need",
-      "note": "general tripod/head choice, not astro-specific; writer may drop it"
+      "number": "14 kg",
+      "claim": "Benro Tortoise 24C maximum payload",
+      "url": "https://benrousa.com/tortoise-columnless-tripod-2-carbon-fiber-ttor24c-gx30-head-4-sections/",
+      "quote": "Maximum Payload Capacity (kg):14"
     }
   ],
-  "note": "Pre-researched 2026-10-21. Sister queue item best-tripod-for-astrophotography-under-3-pounds (deferred) is the weight-limited angle; link between them. Also link tripod-for-moon-photography (queued), how-to-stop-tripod-shake-in-wind, tripod-center-column-up-or-down-for-landscapes, carbon-fiber-vs-aluminum-tripod-for-hiking."
+  "videos": [],
+  "note": "Pre-researched 2026-10-21. Sister queue item best-tripod-for-astrophotography-under-3-pounds (deferred) is the weight-limited angle; link between them. Also link tripod-for-moon-photography (queued), how-to-stop-tripod-shake-in-wind, tripod-center-column-up-or-down-for-landscapes, carbon-fiber-vs-aluminum-tripod-for-hiking. Updated 2026-10-29 for the post: 5 qualifying products (owner rule 2026-10-28), ourGain typed, pendingInlinks added.",
+  "secondaryKeywords": [
+    "best tripod for milky way photography",
+    "best tripod for night photography",
+    "astrophotography tripod",
+    "tripod for star tracker",
+    "best tripod for night sky photography",
+    "carbon fiber tripod for astrophotography"
+  ],
+  "videosNote": "2026-10-29: no astro-specific tripod-choice video found worth embedding (fGbhjXqIB18 is a general tripod video with an unverified channel; 54is-M5SWFg reviews a tripod not in this list), so none embedded.",
+  "pendingInlinks": [
+    {
+      "slug": "best-hiking-tripod",
+      "find": "Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads.",
+      "replace": "Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/))."
+    },
+    {
+      "slug": "tripod-center-column-up-or-down-for-landscapes",
+      "find": "Keep it fully down for any long exposure, wind or heavy lens, and get it out of the way when you want the camera low to the ground.",
+      "replace": "Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground."
+    }
+  ]
 }

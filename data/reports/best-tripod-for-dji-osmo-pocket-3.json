@@ -1,0 +1,577 @@
+{
+  "keyword": "best tripod for dji osmo pocket 3",
+  "createdAt": "2026-10-29T10:40:54.313Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for DJI Osmo Pocket 3",
+    "entityVariants": [
+      "Osmo Pocket 3 tripod",
+      "DJI Pocket 3 tripod",
+      "tripod for Osmo Pocket 3",
+      "Pocket 3 mini tripod",
+      "tripod for Osmo Pocket 4"
+    ],
+    "entities": [
+      {
+        "name": "DJI Osmo Pocket 3",
+        "type": "camera",
+        "relation": "the 179 g gimbal camera the tripod has to hold"
+      },
+      {
+        "name": "Osmo Pocket 3 Handle With 1/4\" Thread",
+        "type": "accessory",
+        "relation": "adds the 1/4\"-20 screw hole the camera body lacks"
+      },
+      {
+        "name": "Osmo Pocket 3 Battery Handle",
+        "type": "accessory",
+        "relation": "Creator Combo grip with a 1/4\" screw hole that also charges the camera"
+      },
+      {
+        "name": "Creator Combo",
+        "type": "product bundle",
+        "relation": "includes the Battery Handle and the Osmo Mini Tripod"
+      },
+      {
+        "name": "DJI Osmo Mini Tripod",
+        "type": "product",
+        "relation": "DJI's own tabletop tripod for the Pocket 3"
+      },
+      {
+        "name": "Ulanzi MT-44",
+        "type": "product",
+        "relation": "extendable selfie-stick tripod to 146.5 cm"
+      },
+      {
+        "name": "Ulanzi MT-79",
+        "type": "product",
+        "relation": "8-section light-stand tripod to 207 cm"
+      },
+      {
+        "name": "Manfrotto PIXI Mini",
+        "type": "product",
+        "relation": "rigid tabletop tripod with push-button ball head"
+      },
+      {
+        "name": "PGYTECH CapLock MantisPod Z",
+        "type": "product",
+        "relation": "hook-and-grip mini tripod with CapLock quick release"
+      },
+      {
+        "name": "1/4\"-20 thread",
+        "type": "standard",
+        "relation": "the screw every pick uses"
+      },
+      {
+        "name": "ball head",
+        "type": "tripod head",
+        "relation": "levels the camera on uneven surfaces"
+      },
+      {
+        "name": "Tilt Locked mode",
+        "type": "gimbal mode",
+        "relation": "keeps the gimbal from following small movements on a tripod"
+      },
+      {
+        "name": "DJI Mimo",
+        "type": "app",
+        "relation": "remote control and framing from a phone"
+      },
+      {
+        "name": "cold shoe",
+        "type": "mount",
+        "relation": "holds a mic receiver or light next to the camera"
+      },
+      {
+        "name": "selfie stick tripod",
+        "type": "tripod type",
+        "relation": "handheld pole that opens into a stand"
+      },
+      {
+        "name": "light stand",
+        "type": "tripod type",
+        "relation": "tall, narrow-footprint stand used for eye-level shots"
+      }
+    ],
+    "attributes": [
+      "max height",
+      "minimum height",
+      "folded length",
+      "weight",
+      "load capacity",
+      "leg sections",
+      "head type",
+      "1/4\"-20 mount",
+      "cold shoe",
+      "handheld grip mode",
+      "leg spread"
+    ],
+    "ngrams": [
+      "tripod for dji osmo pocket 3",
+      "osmo pocket 3 tripod",
+      "mini tripod",
+      "battery handle",
+      "1/4 inch thread",
+      "eye level",
+      "selfie stick tripod",
+      "ball head",
+      "osmo mini tripod",
+      "creator combo",
+      "tabletop tripod",
+      "light stand"
+    ],
+    "skipgrams": [
+      "pocket 3…tripod",
+      "battery…handle",
+      "eye…level",
+      "ball…head",
+      "tripod…tips",
+      "handle…thread"
+    ],
+    "nlpTerms": [
+      "gimbal",
+      "vlogging",
+      "timelapse",
+      "talking head",
+      "tabletop",
+      "extendable",
+      "quick release",
+      "CapLock",
+      "cold shoe",
+      "leg spread",
+      "stability",
+      "folded",
+      "sections",
+      "aluminum",
+      "technopolymer",
+      "ActiveTrack",
+      "Mimo",
+      "handheld",
+      "grip",
+      "wind"
+    ],
+    "questions": [
+      "What tripod works with the DJI Osmo Pocket 3?",
+      "Does the Osmo Pocket 3 have a tripod mount?",
+      "Is the DJI Osmo Mini Tripod worth it?",
+      "Can I use a full-size tripod with the Pocket 3?",
+      "How tall should a tripod for the Pocket 3 be?",
+      "Do Pocket 3 tripods fit the Osmo Pocket 4?"
+    ],
+    "contentGaps": [
+      "The camera body has no thread: you need the 1/4\" handle or the Battery Handle",
+      "Real lens height on each tripod (Pocket 3 is 139.7 mm tall)",
+      "Load headroom against the 179 g camera",
+      "Gimbal drift on a tripod and the Tilt Locked fix",
+      "Charging while mounted (Battery Handle vs handle)"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for DJI Osmo Pocket 3 picks at a glance",
+        "intent": "quick answer and comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Osmo Pocket 3 tripods",
+        "intent": "method and evidence",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Osmo Pocket 3, reviewed",
+        "intent": "product reviews",
+        "h3": [
+          "DJI Osmo Mini Tripod",
+          "ULANZI MT-44 Extendable Tripod",
+          "ULANZI MT-79 Extendable Tripod",
+          "Manfrotto PIXI Mini Tripod",
+          "PGYTECH CapLock MantisPod Z"
+        ]
+      },
+      {
+        "h2": "How to mount the Osmo Pocket 3 on a tripod",
+        "intent": "numbered steps; body has no thread",
+        "h3": []
+      },
+      {
+        "h2": "What height and load a 179 g Pocket 3 needs from a tripod",
+        "intent": "analysis of lens height and headroom",
+        "h3": []
+      },
+      {
+        "h2": "Osmo Pocket 3 tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "Which Osmo Pocket 3 tripod should you get?",
+        "intent": "decision rule",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+        "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+        "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+        "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+        "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+        "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026",
+        "https://www.telesinstore.com/blogs/news/best-tripod-for-dji-osmo-pocket-3-4-4p",
+        "https://www.microfournerds.com/blog/osmo-pocket-accessories"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "CameraEgg, Canon Rumors CO, Kayak Cambria and Gear Probe all show a pros and cons list per product.",
+      "avgWords": 1860,
+      "avgProducts": 5,
+      "commonSections": [
+        "top picks at a glance",
+        "how we tested or chose",
+        "product reviews",
+        "buying guide",
+        "comparison table",
+        "FAQ",
+        "final verdict"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/osmopocket/comments/1g0nifv/op3_tripod_recommendations/",
+        "title": "OP3 tripod recommendations? : r/osmopocket"
+      },
+      {
+        "position": 2,
+        "url": "https://www.amazon.com/Pocket-Extendable-Tripods-Portable-Lightweight/dp/B0F7VRY31M",
+        "title": "Osmo Pocket 3 Tripod, Extendable Mini Tripod Stand Desk ..."
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=bkhAcsVt4mU&vl=en",
+        "title": "The one accessory you need for the DJI Pocket 3 (or small ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1449151113181565/",
+        "title": "Hey! Any recommendations for a good tripod for the Pocket ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=Fh7l8u2IibI",
+        "title": "Best Table Top Tripod for DJI Osmo Pocket 3 | Ulanzi MT-16"
+      },
+      {
+        "position": 6,
+        "url": "https://www.microfournerds.com/blog/osmo-pocket-accessories",
+        "title": "9 Best DJI Osmo Pocket Accessories to make it better"
+      },
+      {
+        "position": 7,
+        "url": "https://www.youtube.com/watch?v=bxgh4EUWvNw",
+        "title": "Best Vlogging Tripod for DJI OSMO Pocket 3 - You NEED This!"
+      },
+      {
+        "position": 8,
+        "url": "https://store.dji.com/product/osmo-mini-tripod",
+        "title": "Buy Osmo Mini Tripod"
+      },
+      {
+        "position": 9,
+        "url": "https://www.telesinstore.com/blogs/news/best-tripod-for-dji-osmo-pocket-3-4-4p",
+        "title": "Best Tripod for DJI Osmo Pocket 3, 4 & 4P"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=eTgLbfpmajM",
+        "title": "Best Tripod Stand For Dji Osmo Pocket 3 Under Rs 1500"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "Pocket 3",
+        "mini",
+        "extendable",
+        "table top",
+        "vlogging",
+        "stand"
+      ],
+      "gap": "No top title promises a range from a desk mini to a stand that reaches eye level, or says the camera needs a threaded handle first."
+    },
+    "commonPoints": [
+      "The Pocket 3 is light, so most mini and selfie-stick tripods hold it",
+      "Tabletop minis sit too low for talking-head shots",
+      "Extendable tripods double as a selfie stick",
+      "A ball head helps level the camera",
+      "The DJI Osmo Mini Tripod is the official, smallest option"
+    ],
+    "ourGain": [
+      {
+        "type": "situation",
+        "point": "The camera body has no tripod thread: every tripod screws into the 1/4\" handle or the Battery Handle, and only the Battery Handle charges while mounted",
+        "source": "https://support.dji.com/help/content?customId=en-us03400009024&spaceId=34&re=AU&lang=en; https://www.reddit.com/r/osmopocket/comments/17jdta4/can_i_attack_the_tripod_to_the_pocket_3_without/",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Lens height by pick: the 139.7 mm Pocket 3 on the MT-79 (39-207 cm) or MT-44 (146.5 cm) reaches standing eye level; the DJI Mini, PIXI (13.5 cm) and MantisPod Z stay at table height",
+        "source": "https://www.dji.com/osmo-pocket-3/specs; Ulanzi MT-79 and MT-44 spec pages; Manfrotto PIXI spec page",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Load headroom vs the 179 g camera: 8x on the MT-44 (1.5 kg), 5.6x on the MT-79 and PIXI (1 kg), 2.8x on the MantisPod Z extended (500 g), so add-ons, not the camera, decide stability",
+        "source": "https://www.dji.com/osmo-pocket-3/specs; maker spec pages; B&H MantisPod Z page",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Gimbal drift on a tripod: switch to Tilt Locked and double-tap the joystick to recenter before recording",
+        "source": "https://www.reddit.com/r/osmopocket/comments/1jk4oxp/so_this_thing_really_cant_take_a_tripod_video/; DJI beginner's guide",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by where you film: desk and cafe (DJI Mini or PIXI), walk-and-talk with a grip (MT-44), standing eye-level or crane-style shots (MT-79), railings and odd angles (MantisPod Z)",
+        "source": "maker specs and owner reports in this brief",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://kayakcambria.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://gearprobe.com/best-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "tabletop-mini-tripods-pocket3-no-thread",
+        "pain": "The Pocket 3 body has no tripod thread, so a new owner can't screw it onto a tripod",
+        "details": "Owners explain that the bare camera has no 1/4\"-20 hole; the threaded handle (Standard box) or the Battery Handle (Creator Combo) adds it.",
+        "sources": [
+          "https://www.reddit.com/r/osmopocket/comments/17jdta4/can_i_attack_the_tripod_to_the_pocket_3_without/",
+          "https://www.reddit.com/r/dji/comments/17jx2rr/how_do_you_attach_the_osmo_pocket_3_to_a_tripod/"
+        ],
+        "quotes": [
+          {
+            "text": "The stock P3 has no 1/4\"-20 on the bottom to attach a tripod.",
+            "url": "https://www.reddit.com/r/osmopocket/comments/17jdta4/can_i_attack_the_tripod_to_the_pocket_3_without/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-gimbal-moves-on-tripod",
+        "pain": "On a tripod the gimbal keeps moving instead of holding a still frame",
+        "details": "An r/osmopocket owner asks why a static tripod shot still moves; replies say to recenter the gimbal and use a locked mode.",
+        "sources": [
+          "https://www.reddit.com/r/osmopocket/comments/1jk4oxp/so_this_thing_really_cant_take_a_tripod_video/"
+        ],
+        "quotes": [
+          {
+            "text": "Put it in place, double tap the joystick so it straightens the lens",
+            "url": "https://www.reddit.com/r/osmopocket/comments/1jk4oxp/so_this_thing_really_cant_take_a_tripod_video/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-tripod-too-low",
+        "pain": "Mini tripods leave the Pocket 3 far below eye level, but full tripods are too big to carry",
+        "details": "Pocket 3 owners ask for a tripod that reaches about 5 ft yet packs small.",
+        "sources": [
+          "https://www.facebook.com/groups/djiosmopocket3/posts/1439551327474877/",
+          "https://www.reddit.com/r/osmopocket/comments/1g0nifv/op3_tripod_recommendations/"
+        ],
+        "quotes": [
+          {
+            "text": "I’m talking about one that can stand about 5 ft tall and not take up 4 ft of space.",
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1439551327474877/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-screw-feels-loose",
+        "pain": "The tripod screw keeps turning and the camera feels loose on the mount",
+        "details": "A first-time owner found the tripod kept screwing into the handle without feeling tight.",
+        "sources": [
+          "https://www.facebook.com/groups/djiosmopocket3/posts/1598094671620541/"
+        ],
+        "quotes": [
+          {
+            "text": "I attached it to the bottom of my OP3 and it just kept screwing and screwing and screwing.",
+            "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1598094671620541/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-pocket3-charge-on-tripod",
+        "pain": "Long timelapses and streams drain the battery while the camera sits on a tripod",
+        "details": "Owners use the Battery Handle or a pass-through tripod mount to charge while mounted.",
+        "sources": [
+          "https://www.reddit.com/r/osmopocket/comments/1t9v0sd/pocket_3_what_is_this_thing/",
+          "https://www.reddit.com/r/osmopocket/comments/185gixm/osmo_pocket_3_handle_or_battery_handle_creator/"
+        ],
+        "quotes": [
+          {
+            "text": "This is useful for having the osmo pocket on a tripod mount and charge it too.",
+            "url": "https://www.reddit.com/r/osmopocket/comments/1t9v0sd/pocket_3_what_is_this_thing/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "179 g",
+        "claim": "DJI Osmo Pocket 3 weight",
+        "url": "https://www.dji.com/osmo-pocket-3/specs",
+        "quote": "Weight 179 g"
+      },
+      {
+        "number": "1/4''",
+        "claim": "Threaded handle and Battery Handle both have a 1/4\" screw hole",
+        "url": "https://support.dji.com/help/content?customId=en-us03400009024&spaceId=34&re=AU&lang=en",
+        "quote": "Both the threaded handle and the battery grip have a 1/4'' screw hole at the bottom"
+      },
+      {
+        "number": "207cm",
+        "claim": "Ulanzi MT-79 height range with the tripod open",
+        "url": "https://www.ulanzi.com/products/ulanzi-mt-79-aluminum-alloy-light-stand-6-5-t075gbb1",
+        "quote": "Height (with tripod open): about39 - 207cm"
+      },
+      {
+        "number": "44.8 g",
+        "claim": "DJI Osmo Mini Tripod weight",
+        "url": "https://store.dji.com/product/osmo-mini-tripod",
+        "quote": "Weight: 44.8 g"
+      },
+      {
+        "number": "1.1 lb",
+        "claim": "MantisPod Z load extended (2.2 lb as tripod)",
+        "url": "https://www.bhphotovideo.com/c/product/1786759-REG/pgytech_p_gm_158_mantispod_z.html",
+        "quote": "Holds 2.2 lb as Tripod & 1.1 lb Extended"
+      }
+    ],
+    "videos": [
+      {
+        "id": "E9QMORgPLLY",
+        "title": "Best COMPACT Tripod for Travel Photography? ULANZI MT-79 with the DJI Pocket 3 is a killer combo",
+        "channel": "Ron Lemelin Photography",
+        "url": "https://www.youtube.com/watch?v=E9QMORgPLLY",
+        "section": "The 5 best tripods for the Osmo Pocket 3, reviewed"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "DJI Osmo Mini Tripod",
+        "pages": [
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://droneandcam.com/en/post/best-compact-tripods-for-dji-osmo-pocket-3/",
+          "https://electronics.alibaba.com/buyingguides/dji-osmo-pocket-3-tripod-guide-what-to-buy-in-2026",
+          "https://store.dji.com/selection/essential-accessories-for-osmo-pocket-3"
+        ]
+      },
+      {
+        "name": "ULANZI MT-44 Extendable Tripod",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/"
+        ]
+      },
+      {
+        "name": "ULANZI MT-79 Extendable Tripod",
+        "pages": [
+          "https://www.reddit.com/r/osmopocket/comments/1kv81bx/tripod_recommendations/",
+          "https://www.reddit.com/r/osmopocket/comments/1elgf6a/tripod_for_travelling_light/",
+          "https://findingginamarie.com/gear-affiliates/ulanzi-mt-79-extendable-tripod"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI Mini Tripod",
+        "pages": [
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.reddit.com/r/osmopocket/comments/chpggh/which_tripod/"
+        ]
+      },
+      {
+        "name": "PGYTECH MantisPod (Z named by CameraEgg, 2.0 by Canon Rumors CO)",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.canonrumorsco.com/best-tripod-for-dji-osmo-pocket-3/"
+        ]
+      },
+      {
+        "name": "Joby GorillaPod 1K Kit (no Amazon US buy box, not featured)",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/",
+          "https://www.microfournerds.com/blog/osmo-pocket-accessories"
+        ]
+      },
+      {
+        "name": "Ulanzi MT-08 (one text page only, not featured)",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-dji-osmo-pocket-3/"
+        ]
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-gopro",
+        "find": "This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns.",
+        "replace": "This matters because the most common question on r/gopro is how to put a GoPro on a tripod someone already owns (Pocket owners face the same issue, covered in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/))."
+      },
+      {
+        "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+        "find": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick, so the choice comes down to where you'll set the camera.",
+        "replace": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/)), so the choice comes down to where you'll set the camera."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-gopro",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    }
+  ]
+}

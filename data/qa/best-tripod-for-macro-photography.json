@@ -1,0 +1,19 @@
+{
+  "slug": "best-tripod-for-macro-photography",
+  "pass": true,
+  "checkedAt": "2026-10-29T10:39:36.643Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 055 Aluminum Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 3+ 263AB 160S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto MT190XPRO3 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker pages: Manfrotto MK055XPRO3-BHQ2 page (3 kg/6.61 lb, max 181.5 cm/71.46 in, column down 151.5 cm/59.65 in, min 9 cm/3.54 in, closed 72.5 cm/28.54 in, 15 kg/33.07 lb UNI/PdR payload, leg angles 25/46/66/88, flip lock, friction control, 200PL-14 plate); Manfrotto MT190XPRO3 page (2 kg/4.41 lb, 160 cm/62.99 in, 135 cm/53.15 in column down, 9 cm/3.54 in, 59 cm/23.23 in, 33.07 lb, 3/8 in top, Easy Link); Vanguard USA VEO 3+ 263AB 160S page (68.4 in, 58.4 in column down, 5 in macro height, 30.5 in folded, 5.5 lb, 33 lb, twist, 23/50/80 deg, BH-160S, MACC 0-180 deg, spiked feet, VEO+MA1); Vanguard USA Alta Pro 2+ 263AB G2 page (68.2/55.6/8.4 in, 28.3 in, 4.8 lb, 22 lb, twist, 26 mm, BH-60, QS-45H, MACC 360 rotation + tilt); B&H GorillaPod 3K Kit (6.6 lb load, 12 in max, ball head 360 pan, bubble level, QR plate). Amazon US buy box + in stock checked 2026-10-29 for B010R4BO12 (Amazon.com), B096L7XFXG (Amazon.com), B0FXN2JLPM (Adorama), B00G36G7WU (Amazon.com), B074WC9YKL (third-party seller); Gitzo GT2531EX dropped (unavailable). Owner claims checked against eBay MT055XPRO3 reviews, DPReview macro and Alta Pro threads, PHOTONews and Finding the Universe VEO 3+ reviews, photoscotland 190XPRO3 review and Reddit excerpts, DPReview GorillaPod-for-macro thread, Encountering Fungi. Quotes verified verbatim: bcgforums (pain-points.json), Reddit 1eg89ls and r/AnalogCommunity via search excerpts, DPReview threads and Stack Exchange comment read in full. Load-per-pound math recomputed (7.5, 6.0, 5.0, 4.6).",
+    "at": "2026-10-29T10:39:36.149Z",
+    "hash": "a9196854c4e93a87"
+  }
+}

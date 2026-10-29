@@ -2358,7 +2358,7 @@
     "publishedAt": "2026-10-28T10:35:05.961Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -2378,10 +2378,11 @@
     "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-astrophotography",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "publishedAt": "2026-10-29T10:40:55.353Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -2401,7 +2402,8 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-macro-photography",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "publishedAt": "2026-10-29T10:40:56.593Z"
   },
   {
     "status": "published",
@@ -2499,7 +2501,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -2518,7 +2520,8 @@
     "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-sony-a7iv",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "publishedAt": "2026-10-29T10:40:57.671Z"
   },
   {
     "status": "replaced",
@@ -2576,7 +2579,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
@@ -2600,7 +2603,8 @@
     "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-fujifilm-x-t5",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "publishedAt": "2026-10-29T10:40:58.848Z"
   },
   {
     "status": "replaced",
@@ -5137,7 +5141,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for dji osmo pocket 3",
@@ -5159,7 +5163,9 @@
     "funnel": "bofu",
     "cluster": "pocket",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 8 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 6,
+    "publishedAt": "2026-10-29T10:40:54.311Z"
   },
   {
     "status": "pending",

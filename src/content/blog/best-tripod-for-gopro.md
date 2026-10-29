@@ -301,6 +301,7 @@ faqs:
       need a full-size tripod; none of the mini tripods here comes close.
 author: editorial-team
 related:
+  - best-tripod-for-dji-osmo-pocket-3
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
   - best-mini-tripod-for-desk-video-calls
   - best-hiking-tripod
