@@ -9,6 +9,114 @@
   ],
   "entities": [
     {
+      "name": "Tripod",
+      "type": "product type",
+      "relation": "the central product; tall photographers need one that reaches eye level",
+      "salience": 0.97
+    },
+    {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "maximum height and height without the center column decide eye-level fit",
+      "salience": 0.73
+    },
+    {
+      "name": "Tripod head",
+      "type": "component",
+      "relation": "adds roughly 3-8 in on top of the legs; ball, pan or fluid head",
+      "salience": 0.63
+    },
+    {
+      "name": "Landscape photography",
+      "type": "use case",
+      "relation": "main use for steady tall tripods with heavier lenses",
+      "salience": 0.56
+    },
+    {
+      "name": "Photography",
+      "type": "genre",
+      "relation": "photo and video use of tall tripods",
+      "salience": 0.55
+    },
+    {
+      "name": "Viewfinder",
+      "type": "component",
+      "relation": "eye-level target the tripod must reach",
+      "salience": 0.55
+    },
+    {
+      "name": "Feisol",
+      "type": "brand",
+      "relation": "carbon fiber tripods with published column-down heights (CT3472 59 in)",
+      "salience": 0.54
+    },
+    {
+      "name": "Camera",
+      "type": "product type",
+      "relation": "payload the tripod carries; sets load needs",
+      "salience": 0.53
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the MT055XPRO3 pick",
+      "salience": 0.48
+    },
+    {
+      "name": "Photographer",
+      "type": "person role",
+      "relation": "tall photographers over 6 feet are the audience",
+      "salience": 0.43
+    },
+    {
+      "name": "Macro photography",
+      "type": "use case",
+      "relation": "low-angle use; minimum height matters",
+      "salience": 0.38
+    },
+    {
+      "name": "Monopod",
+      "type": "product type",
+      "relation": "K&F leg detaches as a monopod",
+      "salience": 0.34
+    },
+    {
+      "name": "Eye",
+      "type": "anatomy",
+      "relation": "eye level sits about 4-5 in below head height",
+      "salience": 0.31
+    },
+    {
+      "name": "Hand-held camera",
+      "type": "concept",
+      "relation": "tripod replaces hand-holding for sharp shots",
+      "salience": 0.29
+    },
+    {
+      "name": "High dynamic range",
+      "type": "technique",
+      "relation": "bracketed shots need a steady tall tripod",
+      "salience": 0.28
+    },
+    {
+      "name": "Mirrorless camera",
+      "type": "product type",
+      "relation": "common payload for budget tall tripods",
+      "salience": 0.26
+    },
+    {
+      "name": "Long-exposure photography",
+      "type": "technique",
+      "relation": "shake from a raised center column shows in long exposures",
+      "salience": 0.26
+    },
+    {
+      "name": "Full-frame DSLR",
+      "type": "product type",
+      "relation": "heavier payload that needs the Manfrotto's load rating",
+      "salience": 0.24
+    },
+    {
       "name": "Center column",
       "type": "component",
       "relation": "adds height but reduces stability; tall users should judge height without it"
@@ -59,11 +167,6 @@
       "relation": "premium tall carbon tripods"
     },
     {
-      "name": "Manfrotto",
-      "type": "brand",
-      "relation": "190 and 055 series, height-capable options"
-    },
-    {
       "name": "Benro",
       "type": "brand",
       "relation": "value carbon tall tripods"
@@ -102,7 +205,9 @@
     "head type",
     "Arca-Swiss plate",
     "leg diameter",
-    "price"
+    "price",
+    "tripod head type",
+    "height with head and camera"
   ],
   "ngrams": [
     "tall tripod",
@@ -118,19 +223,24 @@
     "folded length",
     "ball head",
     "tripod legs",
-    "leg sections"
+    "leg sections",
+    "tripod head",
+    "landscape photography",
+    "column down"
   ],
   "skipgrams": [
-    "center column\u2026height",
-    "tripod\u2026eye level",
-    "tall\u2026tripod",
-    "extended\u2026height",
-    "without\u2026center column",
-    "tripod\u2026stability",
-    "carbon fiber\u2026weight",
-    "head\u2026adds height",
-    "6 feet\u2026tripod",
-    "leg sections\u2026stiffness"
+    "center column…height",
+    "tripod…eye level",
+    "tall…tripod",
+    "extended…height",
+    "without…center column",
+    "tripod…stability",
+    "carbon fiber…weight",
+    "head…adds height",
+    "6 feet…tripod",
+    "leg sections…stiffness",
+    "tripod head…height",
+    "landscape…tripod"
   ],
   "nlpTerms": [
     "tripod",
@@ -152,7 +262,15 @@
     "payload",
     "Arca-Swiss",
     "telephoto",
-    "working height"
+    "working height",
+    "landscape photography",
+    "long exposure",
+    "monopod",
+    "mirrorless",
+    "full-frame",
+    "macro",
+    "Feisol",
+    "tripod head"
   ],
   "questions": [
     "Which tripod is tallest without a center column for a 6'4\" photographer?",
@@ -416,5 +534,16 @@
       ],
       "changes": "tall tripod comparison table by column-down height, video/photo/DSLR section, verified column-down heights (K&F 63.8 in, Manfrotto 55 in), first-person product write-ups"
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-10-29",
+    "pages": [
+      "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+      "https://momanx.com/blogs/moman-ideas/how-tall-should-be-your-tripod",
+      "https://www.techgearlab.com/topics/electronics/best-tripod",
+      "https://timshields.com/5-features-every-good-tripod-needs-to-have/",
+      "https://improvephotography.com/44918/professional-tripods-landscape-photographers/"
+    ],
+    "note": "reddit, adorama, photo.stackexchange blocked TextRazor's fetch; noise skipped: Image, Photograph, Exposure (generic)"
+  }
 }

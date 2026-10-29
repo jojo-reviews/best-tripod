@@ -1,24 +1,19 @@
 {
   "slug": "best-tripod-for-tall-photographers-over-6-feet",
   "pass": true,
-  "checkedAt": "2026-10-28T18:48:15.246Z",
+  "checkedAt": "2026-10-29T19:45:42.796Z",
   "errors": [],
   "warnings": [
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 90 inch Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"VICTIV 74 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"CAMBOFOTO 74 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
-    "source didn't respond normally (403): https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420",
-    "source didn't respond normally (403): https://www.kentfaith.com/reviews_15740?page=4"
+    "product \"CAMBOFOTO 74 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-24 improve (GSC tall tripod queries): verified with Firecrawl maxAge 0 - K&F KF09.119 maker page spec table: 90.6 in max, 63.8 in (1620 mm) without center column, 26.2 in min, 21.3 in folded, 4.46 lb, 10 kg/22 lb, flip lock, 4 sections, ball head; B&H MT055XPRO3 specs: 67 in column up, up to 55 in (140 cm) column down, 24 in closed, 5.5 lb, 44 lb table load vs 19.8 lb staff answer, 3/8 in top screw; VICTIV maker page: 74 in, 9.5 lb, DSLR/phone, photography and video recording; Discovercameras CAMBOFOTO review: 20-74 in, 2.8 lb, 8.8 lb, 360-degree pan head for slow pans, larger lenses warned off. Eye-level/viewfinder figures are labeled estimates. Product write-ups converted to first person, no testing claims.",
-    "at": "2026-10-24T12:38:04.940Z",
-    "hash": "a6781176785ed52a"
+    "notes": "2026-10-29 TextRazor semantic pass: top 5 US (digitalcameraworld, momanx, techgearlab, timshields, improvephotography). Added Feisol CT3472 59 in / Induro CLT404L 64 in column-down heights from Improve Photography's table (source added); landscape, long-exposure/HDR, macro, tripod head sentences are general guidance. Product first sentences name product, type, maker. Height-guide link moved to quick picks. No prices, ratings, tests, ASINs, URL, keyword or pubDate changed.",
+    "at": "2026-10-29T19:45:42.239Z",
+    "hash": "d25139f3b114cf9c"
   }
 }

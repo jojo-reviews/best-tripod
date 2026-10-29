@@ -1,0 +1,176 @@
+{
+  "keyword": "best tripod for tall photographers over 6 feet",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.92,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 5,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 4,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 4,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.97,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 3,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Landscape photography",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+    },
+    {
+      "entity": "Viewfinder",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Viewfinder"
+    },
+    {
+      "entity": "Feisol",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": ""
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Macro photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+    },
+    {
+      "entity": "Image",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Image"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Eye",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Eye"
+    },
+    {
+      "entity": "Hand-held camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera"
+    },
+    {
+      "entity": "Photograph",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+    },
+    {
+      "entity": "High dynamic range",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/High_dynamic_range"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Long-exposure photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+    },
+    {
+      "entity": "Full-frame DSLR",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.24,
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+    },
+    {
+      "entity": "Screw",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.21,
+      "wiki": "http://en.wikipedia.org/wiki/Screw"
+    }
+  ],
+  "missingFromPost": [
+    "Landscape photography",
+    "Feisol",
+    "Macro photography",
+    "Hand-held camera",
+    "High dynamic range",
+    "Long-exposure photography",
+    "Exposure (photography)"
+  ]
+}
