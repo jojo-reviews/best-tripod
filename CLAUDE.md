@@ -19,10 +19,11 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 - Talk to the owner in Roman Urdu. Agent prompts and files stay in English.
 - Owner rule 2026-10-27: keep answers to the owner short and to the point (a few lines, bullets, no long explanations).
 - Owner rule 2026-10-28: links inside articles (internal and external) are dark blue (#0b3a8c) and bold (src/styles/global.css `.prose a`).
-- Owner rule 2026-10-27 ("Sab sites pa 2 2 blog publish ho y chye"): 2 new English posts per day per site
-  (site.config.json schedule: randomPhase 2, maxPostsPerRun 2). Both posts of a site go live in ONE deploy
-  (pubDates close together, one go-live check after the later one) to keep GitHub runs low.
-- LIGHT MODE (2026-10-22, Claude usage limit; posts per day raised to 2 on 2026-10-27): one agent per post;
+- Owner rule 2026-10-29 ("Ajj sa 5 blog daily post karna start kar do with indexing"): 5 new English posts per day per site
+  (site.config.json schedule: randomPhase 5, maxPostsPerRun 5; replaces the 2/day rule of 2026-10-27). All posts of a
+  site go live in ONE deploy (pubDates close together, one go-live check after the last one) to keep GitHub runs low,
+  and every go-live deploy sends the new URLs to Google (google-indexing.mjs --notify-recent, needs the gsc-reader JSON key).
+- LIGHT MODE (2026-10-22, Claude usage limit; posts per day raised to 2 on 2026-10-27 and to 5 on 2026-10-29): one agent per post;
   translations, trim backlog, pre-research and backfills are paused until the owner says otherwise.
 - Deploy a post only after its pubDate. Go-live: first `node scripts/apply-inlinks.mjs <slug>` (patent rule 2026-10-24: 2 in-body links
   from related live posts), commit + push, then deploy; check = 200 + product photos, then a phone notification "Live: <title> – <url>".
