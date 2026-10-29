@@ -234,7 +234,7 @@ related:
 
 In the travel tripod vs full size tripod for landscape photography debate, the travel tripod is enough for most shoots: with a wide or standard zoom, the center column down and a calm-to-breezy day, a good carbon travel tripod gives the same sharp frame as a big one. The full-size tripod earns its extra weight in four places: strong wind, moving water, steep slopes and lenses of 200mm and longer. If those describe your usual shoots, carry the big one; if you fly or hike long miles, the travel tripod is the one that actually comes along.
 
-Picture the moment most readers describe. You're on a ridge before sunrise, the ND filter is on, and the 30-second exposure comes back soft because the little tripod hummed in the wind. We built this guide around that shot.
+Picture the moment most readers describe. You're on a ridge before sunrise, the ND filter is on, and the 30-second exposure comes back soft because the little tripod hummed in the wind. We built this guide around that shot; if the lightest tripod for the trail is your real question, see our [best hiking tripod](/blog/best-hiking-tripod/) picks.
 
 ## Travel tripod vs full size tripod for landscape photography – the short answer
 

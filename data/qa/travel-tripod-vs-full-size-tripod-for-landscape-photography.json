@@ -1,26 +1,20 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-28T18:49:03.940Z",
+  "checkedAt": "2026-10-29T12:49:11.750Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))",
-    "source didn't respond normally (403): https://www.talkphotography.co.uk/threads/travel-tripod-v-regular-tripod.613452/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1611148/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to what-is-an-arca-swiss-plate-and-do-i-need-one, no claim changed",
-    "at": "2026-10-28T18:44:46.359Z",
-    "hash": "ebd1219073f23a1e"
+    "notes": "added one internal link to best-hiking-tripod, no claim changed",
+    "at": "2026-10-29T12:49:11.045Z",
+    "hash": "df17c023765d128d"
   }
 }

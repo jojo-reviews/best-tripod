@@ -1,24 +1,19 @@
 {
   "slug": "best-hiking-tripod",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:12.286Z",
+  "checkedAt": "2026-10-29T12:49:20.239Z",
   "errors": [],
   "warnings": [
-    "only 27 first-person words; owner rule wants at least 30 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo Traveler Series 1 GT1545T; JOBY GorillaPod 5K Kit; Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Traveler Series 1 GT1545T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree GT Carbon Travel Tripod (MKBFRTC4GT-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/396654.pdf",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:37.688Z",
-    "hash": "da2b70f7fb739d30"
+    "notes": "2026-10-29 GSC improvement: added 5th product Manfrotto Befree GT Carbon (B&H spec page + 8 B&H owner reviews read, We Seek Travel and Pixel Hiker recommend it; Amazon B07D7YWNDM in stock, sold by Amazon.com, opened 2026-10-29); Patagonia wind H2 + FAQ verified against Matt Purciel's Patagonia field notes; first-person product write-ups; renamed problems H2; seoTitle/description/title updated for 5 picks and 0.6-3.4 lb range; carbon vs aluminum internal link added. Opened with Firecrawl maxAge 0.",
+    "at": "2026-10-29T12:49:19.559Z",
+    "hash": "8e8cacb7421297b3"
   }
 }

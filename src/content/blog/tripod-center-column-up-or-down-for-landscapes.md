@@ -164,7 +164,7 @@ The tester's summary: a heavy camera or wind can each be tolerated on a raised c
 | Telephoto landscape (70-200mm and up) | Down | Heavier load magnifies sway |
 | Eye level needs more than about six inches | Extend legs instead | Legs keep the camera near the apex |
 
-Either way, we fire with a self-timer or remote release. Our post on [tripod shake when pressing the shutter](/blog/tripod-shake-when-pressing-shutter/) covers delay settings, and the [wind fixes guide](/blog/how-to-stop-tripod-shake-in-wind/) covers gusts.
+Either way, we fire with a self-timer or remote release. Our post on [tripod shake when pressing the shutter](/blog/tripod-shake-when-pressing-shutter/) covers delay settings, and the [wind fixes guide](/blog/how-to-stop-tripod-shake-in-wind/) covers gusts. If you're buying for the trail, our [best hiking tripod](/blog/best-hiking-tripod/) guide compares column-down heights.
 
 > **From our notes:** Picture a landscape shooter on a coastal headland with a full-frame body and a 24-70mm, planning a 2-second exposure of waves at dusk. The legs are at full height and the horizon still sits low in the frame, so the column goes up a hand's width. In calm air that works. Then the evening breeze picks up. When we read through the forum threads for this guide, the advice that cost nothing kept coming back: lower the column, accept a lower viewpoint, and keep the tripod tight to the ground.
 
