@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T19:45:00.000Z",
+  "updatedAt": "2026-10-30T02:14:33.124Z",
   "categories": {
     "camera-tripods": [
       {
@@ -202,7 +202,9 @@
         "keywords": [
           "how to stop tripod shake in wind"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "how-to-weigh-down-a-tripod-without-a-sandbag"
+        ],
         "foundAt": "2026-10-19"
       },
       {
@@ -313,7 +315,8 @@
         ],
         "keywords": [],
         "coveredBy": [
-          "best-tripod-for-real-estate-photography"
+          "best-tripod-for-real-estate-photography",
+          "best-tripod-feet-for-sand-snow-and-rock"
         ],
         "foundAt": "2026-10-19"
       },
@@ -493,7 +496,8 @@
           "tripod leg lock gritty"
         ],
         "keywords": [
-          "twist lock vs flip lock tripod legs"
+          "twist lock vs flip lock tripod legs",
+          "how to clean tripod legs after the beach"
         ],
         "coveredBy": [
           "twist-lock-vs-flip-lock-tripod-legs"
@@ -1927,6 +1931,564 @@
           "best-tripod-for-sony-a6700"
         ],
         "foundAt": "2026-10-29"
+      },
+      {
+        "id": "camera-tripods-hanging-weight-swings",
+        "pain": "A bag hung from the hook swings in the wind and adds shake",
+        "details": "Owners read that a hanging camera bag sways in gusts and look for a weight that stays put.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+            "platform": "forum",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+            "platform": "forum",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I've read that a hanging camera bag on a hook can also sway in the wind.",
+            "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "how to weigh down a tripod without a sandbag"
+        ],
+        "coveredBy": [
+          "how-to-weigh-down-a-tripod-without-a-sandbag"
+        ],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-sandbag-dead-weight",
+        "pain": "Carrying a sandbag or metal weight on a hike is dead weight",
+        "details": "Hikers and landscape shooters don't want to carry a kilo or more of weight that only helps a few shots; a sandbag can cancel a carbon tripod's weight saving.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+            "platform": "forum",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+            "platform": "reddit",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The point is that carrying an extra kilo or so of dead weight (OP's photo) isn't the best solution.",
+            "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+          },
+          {
+            "text": "the combined carbon fiber tripod and added weight of carrying a sandbag may actually weigh more than an aluminum tripod.",
+            "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "how to weigh down a tripod without a sandbag"
+        ],
+        "coveredBy": [
+          "how-to-weigh-down-a-tripod-without-a-sandbag"
+        ],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-no-weight-hook",
+        "pain": "The tripod has no hook to hang weight from",
+        "details": "Travel and budget tripods often lack a center column hook, so the usual hang-the-bag advice doesn't work.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.quora.com/Apart-from-hanging-a-camera-bag-from-the-non-existent-hook-at-the-bottom-of-my-tripod-what-are-the-best-ways-to-stabilise-a-tripod-in-the-wind",
+            "platform": "quora",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+            "platform": "forum",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [],
+        "searches": [],
+        "keywords": [
+          "how to weigh down a tripod without a sandbag"
+        ],
+        "coveredBy": [
+          "how-to-weigh-down-a-tripod-without-a-sandbag"
+        ],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-salt-caked-inside-legs",
+        "pain": "A quick rinse leaves salt caked inside the lower leg tubes",
+        "details": "Owners who flush the tripod with cold water after salt water find salt still caked on the inside walls of the lower legs; warm water under pressure removed it.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1500935/",
+            "platform": "forum",
+            "title": "Tripod maintenance: Saltwater (FM Forums)",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the interior walls of the lower legs had lot of salt caked to the sides",
+            "url": "https://www.fredmiranda.com/forum/topic/1500935/"
+          }
+        ],
+        "searches": [
+          "how to clean tripod legs after the beach",
+          "tripod salt water clean"
+        ],
+        "keywords": [
+          "how to clean tripod legs after the beach"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-grease-holds-sand",
+        "pain": "Grease on the leg threads holds sand, so the legs keep grinding",
+        "details": "A dune shooter found thread grease became a dust and sand magnet and switched to graphite powder; others regrease with synthetic or lithium grease sparingly.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1500935/",
+            "platform": "forum",
+            "title": "Tripod maintenance: Saltwater (FM Forums)",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The grease was a dust and sand magnet, and almost impossible to rid of sand once it was in there.",
+            "url": "https://www.fredmiranda.com/forum/topic/1500935/"
+          }
+        ],
+        "searches": [
+          "how to clean tripod legs after the beach",
+          "tripod salt water clean"
+        ],
+        "keywords": [
+          "how to clean tripod legs after the beach"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-white-crust-flip-lock-clamps",
+        "pain": "White crust builds up on flip-lock nuts and leg clamps after beach shoots",
+        "details": "A Manfrotto owner who rinsed and air-dried after every beach trip saw white deposits on the nuts and clamps; it turned out to be a salt coating rather than corrosion.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1027725/",
+            "platform": "forum",
+            "title": "How to clean saltwater off tripod clamps (FM Forums)",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I thought it was salt corrosion, but it was just coated with salt.",
+            "url": "https://www.fredmiranda.com/forum/topic/1027725/"
+          }
+        ],
+        "searches": [
+          "how to clean tripod legs after the beach",
+          "tripod salt water clean"
+        ],
+        "keywords": [
+          "how to clean tripod legs after the beach"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-collapsed-while-sandy",
+        "pain": "Collapsing the legs while sandy drives grit into the locks",
+        "details": "Owners who collapse the tripod before rinsing find salt and grit worked into the lower joints a week later and have to strip the legs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+            "platform": "forum",
+            "title": "How to use a tripod on the beach without damaging it? (Photography Stack Exchange)",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
+            "platform": "forum",
+            "title": "Ocean Water + Tripod (DPReview)",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I think my mistake was collapsing the tripod while still dirty, bad idea.",
+            "url": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+          }
+        ],
+        "searches": [
+          "how to clean tripod legs after the beach",
+          "tripod salt water clean"
+        ],
+        "keywords": [
+          "how to clean tripod legs after the beach"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-fragile-shims-reassembly",
+        "pain": "Plastic shims and grommets break or distort when the legs are reassembled",
+        "details": "Twist-lock owners report the plastic grommets between leg sections are fragile and hard to replace, so each strip-down risks a broken part.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
+            "platform": "forum",
+            "title": "Ocean Water + Tripod (DPReview)",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The grommets between legs are pretty fragile and it's hard to get replacements",
+            "url": "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/"
+          }
+        ],
+        "searches": [
+          "how to clean tripod legs after the beach",
+          "tripod salt water clean"
+        ],
+        "keywords": [
+          "how to clean tripod legs after the beach"
+        ],
+        "coveredBy": [],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "camera-tripods-leveling-by-legs-uneven-ground",
+        "pain": "Leveling a tripod by adjusting the legs on uneven ground takes forever and is never quite level for panoramas",
+        "details": "Hikers and pano shooters say leg-by-leg leveling is slow on slopes and woods, and the camera weight can pull a level tripod out of true; a leveling device is the usual answer.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1df80ug/how_important_is_a_levelling_bowl_on_a_tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://chriswright.photography/levelling-base-for-panoramic-photography/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Leveling the load by adjusting legs is an exercise in pain and frustration",
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+          }
+        ],
+        "keywords": [
+          "leveling base vs leveling column"
+        ]
+      },
+      {
+        "id": "camera-tripods-leveling-lock-flops",
+        "pain": "The leveling lock feels tight but lets the camera and lens flop or shift",
+        "details": "Owners describe locks that go from loose to a hard stop, and a heavy lens that shifted on a leveling base when the tripod was carried on a shoulder.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the lock on the leveling base could not hold the weight and the weight shifted",
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+          }
+        ],
+        "keywords": [
+          "leveling base vs leveling column"
+        ]
+      },
+      {
+        "id": "camera-tripods-leveling-base-top-heavy",
+        "pain": "A leveling base adds height and weight and makes the rig top heavy",
+        "details": "Owners report the setup feels top heavy to carry, and a tall base plus a panoramic head raises the center of gravity.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://chriswright.photography/levelling-base-for-panoramic-photography/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The added weight and height tends to make the entire setup more awkward to carry, since it feels more top heavy.",
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+          }
+        ],
+        "keywords": [
+          "leveling base vs leveling column"
+        ]
+      },
+      {
+        "id": "camera-tripods-leveling-handle-under-apex",
+        "pain": "A leveling handle under the apex is awkward to reach and stops the tripod going low",
+        "details": "Bowl-style and column leveling locks sit under the apex; owners find them fiddly to reach and in the way for low shots, and prefer a base they adjust above the apex.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1690976/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://panoramic-photo-guide.com/leveling-bases-panoramic-photography.html",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "leveling base vs leveling column"
+        ]
+      },
+      {
+        "id": "camera-tripods-half-ball-too-little-angle",
+        "pain": "A mixed half-ball and bowl adapter gave far less tilt than expected",
+        "details": "One owner who fitted a 75mm half bowl to an older tripod found the range nowhere near the expected 15 degrees and switched to a leveling base.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1690976/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the degree of angulation was simply too small",
+            "url": "https://www.fredmiranda.com/forum/topic/1690976/"
+          }
+        ],
+        "keywords": [
+          "leveling base vs leveling column"
+        ]
+      },
+      {
+        "id": "tripod-feet-sinking-with-waves",
+        "pain": "The tripod sinks a little more with every wave during beach long exposures",
+        "details": "Spiked legs keep settling as water pulls sand away, so the composition shifts between frames; owners drive feet several inches down, wrap the legs, or put CDs or discs under the feet.",
+        "sources": [
+          {
+            "url": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+            "platform": "blog",
+            "title": "Tripod Rock Claws",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/",
+            "platform": "reddit",
+            "title": "what tripod/gear could stand in a shallow river with sand/rocks",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/wnfb4/need_some_tips_for_using_a_tripod_in_the_sand/",
+            "platform": "reddit",
+            "title": "Need some tips for using a tripod in the sand",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+            "platform": "youtube",
+            "title": "What Are the Best Tripod Feet for Landscape Photography?",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "with the spiked feet the tripod sinks further down as the water goes back out, requiring me to reset the composition after each wave",
+            "url": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet"
+          }
+        ],
+        "searches": [
+          "tripod sinking in sand",
+          "tripod feet for beach",
+          "tripod sand shoes"
+        ],
+        "keywords": [
+          "best tripod feet for sand snow and rock"
+        ],
+        "coveredBy": [
+          "best-tripod-feet-for-sand-snow-and-rock"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 4
+      },
+      {
+        "id": "tripod-spikes-skid-on-rock",
+        "pain": "Spiked feet skid on smooth granite and wet rock",
+        "details": "Owners report spikes sliding on slick rock and switch to rubber feet or claws, which bite with several teeth.",
+        "sources": [
+          {
+            "url": "https://bcgforums.com/threads/to-spike-or-not.8525/",
+            "platform": "forum",
+            "title": "To Spike or Not?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+            "platform": "youtube",
+            "title": "What Are the Best Tripod Feet for Landscape Photography?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://lensnotes.com/photography/tripod-spikes/",
+            "platform": "blog",
+            "title": "What are Tripod Spikes?",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I had several cases where the spiked feet just skidded",
+            "url": "https://bcgforums.com/threads/to-spike-or-not.8525/"
+          }
+        ],
+        "searches": [
+          "tripod rock claws",
+          "tripod spikes on rock",
+          "tripod slipping on rocks"
+        ],
+        "keywords": [
+          "best tripod feet for sand snow and rock"
+        ],
+        "coveredBy": [
+          "best-tripod-feet-for-sand-snow-and-rock"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3
+      },
+      {
+        "id": "tripod-spikes-sink-in-snow",
+        "pain": "Spikes and small feet keep sinking in snow and dry sand",
+        "details": "Without a wide base, legs punch through snow and soft sand; snow shoes or spike baskets fix it.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=5vRwSwh4xTw",
+            "platform": "youtube",
+            "title": "Approaching the Scene 141: Tripod Snowshoes",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=IL4bL--NUk8",
+            "platform": "youtube",
+            "title": "6 Essential Tripod Accessories for Landscape Photography!",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/",
+            "platform": "forum",
+            "title": "Tripod mud/sand shoes",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "tripod snow shoes",
+          "tripod in deep snow",
+          "tripod snow feet"
+        ],
+        "keywords": [
+          "best tripod feet for sand snow and rock"
+        ],
+        "coveredBy": [
+          "best-tripod-feet-for-sand-snow-and-rock"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3
+      },
+      {
+        "id": "tripod-feet-swap-hassle",
+        "pain": "Swapping feet in the field is fiddly, parts get lost and bare spikes are a hazard",
+        "details": "Sand in threads makes feet hard to remove, caps and feet get lost, and bare spikes catch on bags, car seats and legs.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+            "platform": "youtube",
+            "title": "What Are the Best Tripod Feet for Landscape Photography?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://lensnotes.com/photography/tripod-spikes/",
+            "platform": "blog",
+            "title": "What are Tripod Spikes?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://bcgforums.com/threads/to-spike-or-not.8525/",
+            "platform": "forum",
+            "title": "To Spike or Not?",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "how to change tripod feet",
+          "tripod feet stuck",
+          "tripod spikes cover"
+        ],
+        "keywords": [
+          "best tripod feet for sand snow and rock"
+        ],
+        "coveredBy": [
+          "best-tripod-feet-for-sand-snow-and-rock"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3
       }
     ],
     "monopods": [

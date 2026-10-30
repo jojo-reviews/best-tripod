@@ -1,0 +1,125 @@
+{
+  "keyword": "how to clean tripod legs after the beach",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.98,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 3,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Grease (lubricant)",
+      "type": "/business/product_ingredient",
+      "pages": 3,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Grease_(lubricant)"
+    },
+    {
+      "entity": "Sand",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Sand"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Screw",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Screw"
+    },
+    {
+      "entity": "Water",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Water"
+    },
+    {
+      "entity": "Toothbrush",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Toothbrush"
+    },
+    {
+      "entity": "Brush",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Brush"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.79,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Seawater",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Seawater"
+    },
+    {
+      "entity": "Corrosion",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Corrosion"
+    },
+    {
+      "entity": "Salt",
+      "type": "/business/product_ingredient",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Salt"
+    },
+    {
+      "entity": "Soap",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Soap"
+    },
+    {
+      "entity": "Microfiber",
+      "type": "/business/product_line",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Microfiber"
+    },
+    {
+      "entity": "Fresh water",
+      "type": "/geography/lake_type",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Fresh_water"
+    },
+    {
+      "entity": "Lubricant",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Lubricant"
+    }
+  ]
+}

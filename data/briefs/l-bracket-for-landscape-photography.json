@@ -1,0 +1,478 @@
+{
+  "centralEntity": "L bracket",
+  "entityVariants": [
+    "L-bracket",
+    "L-plate",
+    "L plate",
+    "camera L bracket",
+    "Arca-Swiss L bracket",
+    "dedicated L bracket",
+    "universal L bracket"
+  ],
+  "entities": [
+    {
+      "name": "L bracket",
+      "type": "camera accessory",
+      "relation": "central entity: right-angle Arca-Swiss plate that lets the camera clamp horizontally or vertically",
+      "salience": 0.9
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the body the bracket screws to; TextRazor top shared entity (3 pages, relevance 0.72)",
+      "salience": 0.72
+    },
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "the bracket keeps the camera's weight over the tripod apex; TextRazor shared entity (3 pages, relevance 0.64)",
+      "salience": 0.64
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "its drop notch is the alternative to an L bracket for vertical shots",
+      "salience": 0.6
+    },
+    {
+      "name": "drop notch",
+      "type": "head feature",
+      "relation": "slot in a ball head that tips the camera to the side for portrait orientation",
+      "salience": 0.55
+    },
+    {
+      "name": "Arca-Swiss clamp",
+      "type": "quick-release standard",
+      "relation": "both rails of the L bracket are Arca-type dovetails that need an Arca clamp",
+      "salience": 0.55
+    },
+    {
+      "name": "portrait orientation",
+      "type": "framing",
+      "relation": "vertical framing the L bracket makes quick and centered",
+      "salience": 0.5
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "carries the clamp; TextRazor shared entity (2 pages, relevance 0.38)",
+      "salience": 0.38
+    },
+    {
+      "name": "hex key",
+      "type": "tool",
+      "relation": "tightens the mounting screw and the sliding L component; TextRazor shared entity (2 pages, relevance 0.40)",
+      "salience": 0.4
+    },
+    {
+      "name": "anti-twist flange",
+      "type": "bracket feature",
+      "relation": "lip that stops the camera rotating on the plate",
+      "salience": 0.35
+    },
+    {
+      "name": "safety stop screw",
+      "type": "bracket feature",
+      "relation": "stops the bracket sliding out of a half-open clamp",
+      "salience": 0.3
+    },
+    {
+      "name": "panorama",
+      "type": "technique",
+      "relation": "centered rotation matters for stitched panoramas",
+      "salience": 0.3
+    },
+    {
+      "name": "Really Right Stuff",
+      "type": "manufacturer",
+      "relation": "publishes L bracket specs and an install guide used as sources",
+      "salience": 0.25
+    }
+  ],
+  "attributes": [
+    "L bracket weight (oz/g) vs a base plate",
+    "dedicated (camera-specific) vs universal fit",
+    "anti-twist flange or lip",
+    "sliding L component for port and screen clearance",
+    "battery door and side port access",
+    "Arca-Swiss dovetail standard",
+    "safety stop screw",
+    "centering index mark",
+    "material (6061-T6 aluminum, hard anodized)",
+    "QD strap socket and 1/4\"-20 accessory threads"
+  ],
+  "ngrams": [
+    "l bracket",
+    "landscape and portrait",
+    "portrait orientation",
+    "drop notch",
+    "center of gravity",
+    "ball head",
+    "arca swiss",
+    "camera specific",
+    "universal l bracket",
+    "battery door"
+  ],
+  "skipgrams": [
+    "camera…centered",
+    "weight…tripod",
+    "notch…side",
+    "bracket…clamp",
+    "portrait…composition",
+    "ports…bracket"
+  ],
+  "nlpTerms": [
+    "vertical composition",
+    "horizontal composition",
+    "quick release",
+    "dovetail",
+    "optical axis",
+    "re-level",
+    "parallax",
+    "panorama",
+    "hex key",
+    "tripod apex",
+    "remote shutter release",
+    "articulating screen"
+  ],
+  "questions": [
+    "Do I need an L bracket for landscape photography?",
+    "Why use an L bracket instead of the drop notch?",
+    "Universal or camera-specific L bracket?",
+    "Does an L bracket block the battery door or ports?",
+    "Will an L bracket fit my tripod head?",
+    "How much weight does an L bracket add?"
+  ],
+  "contentGaps": [
+    "Step-by-step fitting of an L bracket (no top result gives numbered steps)",
+    "Step-by-step landscape-to-portrait switch on the clamp, including centering",
+    "Weight cost of an L bracket vs a base plate with real maker numbers",
+    "Clamp compatibility check (Manfrotto RC2, Peak Design safety screws)",
+    "A who-needs-which chooser that includes 'no L bracket'"
+  ],
+  "commonPoints": [
+    "An L bracket lets you switch between landscape and portrait orientation without tipping the head",
+    "It keeps the camera's weight centered over the tripod instead of hanging off the side in the drop notch",
+    "Composition and camera height stay nearly the same after the switch",
+    "Camera-specific brackets fit better and leave doors and ports open; universal ones fit many bodies",
+    "Downsides are added weight, bulk and sometimes blocked side ports",
+    "Brackets are Arca-Swiss compatible, so the head needs an Arca-type clamp"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Weight cost: Really Right Stuff lists its MC-LS Mk2 universal L bracket at 4.16 oz (118 g) and its BP-CS universal base plate at 1.6 oz (46 g), so the L bracket adds about 2.6 oz (72 g) over a plain plate.",
+      "source": "https://reallyrightstuff.com/mc-ls-mk2-universal-camera-l-bracket/ ; https://reallyrightstuff.com/bpcs/",
+      "absentFrom": [
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+        "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+        "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Numbered fitting steps (clean, align, seat the anti-twist flange, snug without over-tightening, check doors and ports, mount both ways) and a numbered landscape-to-portrait switch on the clamp, using the centering index mark.",
+      "source": "https://kb.reallyrightstuff.com/knowledge/camera-plate-manuals",
+      "absentFrom": [
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+        "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+        "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Clamp check before buying: an RC2-style Manfrotto head takes no Arca bracket, and Peak Design head owners remove the clamp safety screws so an Arca L bracket slides in.",
+      "source": "https://community.naturephotographers.network/t/l-bracket-for-canon/19260 ; https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/",
+      "absentFrom": [
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+        "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+        "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser that maps shooting habits to a dedicated bracket, a universal bracket or no bracket at all (base plate + drop notch for rare verticals on ultralight hikes).",
+      "source": "own decision rule from the owner threads (DPReview 'Why an L bracket') and maker specs",
+      "absentFrom": [
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+        "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+        "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "h2": "What an L bracket does on a landscape tripod",
+      "intent": "define briefly (commonPoints) and answer whether you need one",
+      "h3": []
+    },
+    {
+      "h2": "L bracket vs drop notch for vertical landscapes",
+      "intent": "pain point: off-center camera, recompose, tipping",
+      "h3": []
+    },
+    {
+      "h2": "How to fit an L bracket to your camera",
+      "intent": "numbered steps (ourGain situation)",
+      "h3": []
+    },
+    {
+      "h2": "How to switch an L bracket from landscape to portrait",
+      "intent": "numbered steps with centering; video",
+      "h3": []
+    },
+    {
+      "h2": "L bracket problems landscape shooters run into, and the fix",
+      "intent": "pain points: blocked ports/screen, twisting, clamp compatibility",
+      "h3": []
+    },
+    {
+      "h2": "Keep the L bracket tight and clean in the field",
+      "intent": "maintenance fix steps from the maker guide",
+      "h3": []
+    },
+    {
+      "h2": "L bracket weight on a hiking kit",
+      "intent": "analysis: bracket vs base plate weight",
+      "h3": []
+    },
+    {
+      "h2": "Universal vs dedicated L bracket for landscape work",
+      "intent": "decision chooser",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict on an L bracket for landscape photography",
+      "intent": "close the opening scene, next-question links",
+      "h3": []
+    }
+  ],
+  "targetWords": 1000,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+      "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+      "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/",
+      "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/",
+      "https://www.youtube.com/watch?v=XRZ22cDJTWw"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The ranking pages are explainers and opinion pieces, not roundups; at most one bracket is described in running paragraphs. Digital Camera World's roundup (position 4) is a different intent ('best L bracket') and was not scraped in full.",
+    "avgWords": 950,
+    "avgProducts": 0,
+    "commonSections": [
+      "what an L bracket is",
+      "why landscape photographers use one (orientation switch, centered weight, protection)",
+      "universal vs camera-specific",
+      "disadvantages (weight, blocked ports)",
+      "personal field story"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+      "title": "Small Things Make a Big Difference: Why Smallrig's L-Bracket Is My ..."
+    },
+    {
+      "position": 2,
+      "url": "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/",
+      "title": "Landscape Photography: L Bracket - Views Infinitum"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=XRZ22cDJTWw",
+      "title": "Why an L-bracket is ESSENTIAL for Landscape Photography - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-l-bracket",
+      "title": "Best L-bracket for your camera | Digital Camera World"
+    },
+    {
+      "position": 5,
+      "url": "https://www.impulsecameras.com/collections/l-brackets",
+      "title": "L-Brackets | Arca-Swiss L-Plates for Cameras"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/landscapephotos/posts/7377877318989180/",
+      "title": "What tripod heads and L brackets are recommended for frequent ..."
+    },
+    {
+      "position": 7,
+      "url": "https://community.naturephotographers.network/t/l-bracket-for-canon/19260",
+      "title": "L Bracket for Canon - Discussions - Nature Photographers Network"
+    },
+    {
+      "position": 8,
+      "url": "https://3leggedthing.com/en-us/collections/l-brackets",
+      "title": "Camera L-Brackets for Easy Portrait & Landscape Switching"
+    },
+    {
+      "position": 9,
+      "url": "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+      "title": "Why You Need an L-Bracket for Landscape Photography"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/shorts/hcbGYazDnAU",
+      "title": "L-Brackets ARE A GAME CHANGER As A Landscape Photographer"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "why",
+      "essential",
+      "you need",
+      "portrait & landscape switching"
+    ],
+    "gap": "No title starts with the exact phrase and none promises setup steps or a weight number. Angle: exact keyword first plus 'why it beats the drop notch' / setup steps; no colon, no testing claim."
+  },
+  "painPoints": [
+    {
+      "id": "l-bracket-drop-notch-off-center",
+      "pain": "Flopping the camera into the ball head's drop notch moves it off center and lower, so the composition changes and the tripod can tip",
+      "details": "Owners say the notch shifts the lens axis sideways and changes weight distribution; they have to re-level, recompose or move the tripod after every switch.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/",
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/"
+      ],
+      "quotes": [
+        {
+          "text": "Using the notch changes the weight distribution. If you have a heavy camera/lens combination, it can tip the tripod over sideways if you don't align the legs correctly.",
+          "url": "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/"
+        }
+      ]
+    },
+    {
+      "id": "l-bracket-portrait-camera-slip",
+      "pain": "The camera twists or slips on a single-screw plate in portrait orientation",
+      "details": "A heavy body and lens rotate around a plain plate when turned vertical; a bracket with a lip or anti-twist flange holds it.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/6ooi9m/avoiding_tripod_camera_slip_in_portrait/",
+        "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/"
+      ],
+      "quotes": [
+        {
+          "text": "without the lip, on some plates, if not really tightly screwed down, the lens weight can pull down and perhaps loosen on the plate.",
+          "url": "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/"
+        }
+      ]
+    },
+    {
+      "id": "l-bracket-blocks-ports",
+      "pain": "The L bracket blocks the battery door, side ports or the flip screen",
+      "details": "Universal brackets often block doors; even camera-specific ones can make the left-side remote port hard to reach in portrait orientation. Sliding L components fix it.",
+      "sources": [
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+        "https://kb.reallyrightstuff.com/knowledge/camera-plate-manuals"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "l-bracket-weight-bulk-hiking",
+      "pain": "An L bracket adds weight and bulk on long hikes and in tight camera bags",
+      "details": "Hikers trimming grams notice the extra few hundred grams and bulk of larger brackets.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/",
+        "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/"
+      ],
+      "quotes": [
+        {
+          "text": "it looks like a lot of bracket when hiking around in landscape photography, I'm thinking weight and bulk.",
+          "url": "https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/"
+        }
+      ]
+    },
+    {
+      "id": "nikon-z8-l-bracket-peak-design-head",
+      "pain": "An Arca L bracket does not sit right in a non-Arca or Peak Design clamp",
+      "details": "Manfrotto RC2 heads take no Arca bracket; Peak Design head owners remove the clamp safety screws so the bracket slides in.",
+      "sources": [
+        "https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/",
+        "https://community.naturephotographers.network/t/l-bracket-for-canon/19260"
+      ],
+      "quotes": [
+        {
+          "text": "Take the two screws out of the tripod head - you can use the Allen key that comes with it to do that.",
+          "url": "https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "4.16 oz (118 g)",
+      "claim": "Weight of the Really Right Stuff MC-LS Mk2 universal L bracket",
+      "url": "https://reallyrightstuff.com/mc-ls-mk2-universal-camera-l-bracket/",
+      "quote": "Weight 4.16 oz (118 g)"
+    },
+    {
+      "number": "1.6 oz (46 g)",
+      "claim": "Weight of the Really Right Stuff BP-CS universal base plate",
+      "url": "https://reallyrightstuff.com/bpcs/",
+      "quote": "Weight 1.6 oz (46 g)"
+    },
+    {
+      "number": "under 0.3 lb",
+      "claim": "RRS says the MC-LS Mk2 stays under 0.3 lb",
+      "url": "https://reallyrightstuff.com/mc-ls-mk2-universal-camera-l-bracket/",
+      "quote": "offers a strong, weather-resistant bracket that stays under 0.3 lb for easy carry"
+    }
+  ],
+  "videos": [
+    {
+      "id": "XRZ22cDJTWw",
+      "title": "Why an L-bracket is ESSENTIAL for Landscape Photography",
+      "channel": "Kyle Goetsch",
+      "url": "https://www.youtube.com/watch?v=XRZ22cDJTWw",
+      "section": "How to switch an L bracket from landscape to portrait"
+    }
+  ],
+  "secondaryKeywords": [
+    "l bracket vs drop notch",
+    "do i need an l bracket for landscape photography",
+    "universal vs dedicated l bracket",
+    "how to use an l bracket on a tripod",
+    "l plate for landscape photography"
+  ],
+  "internalLinks": [
+    "landscape-photography-tripod",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "ball-head-vs-pan-tilt-head-for-landscape-photography",
+    "ball-head-sags-after-tightening",
+    "tripod-center-column-up-or-down-for-landscapes"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "find": "In portrait mode, a 3-way head tips the camera off center over the tripod; an Arca-Swiss L-bracket on a head with an Arca clamp keeps the weight centered instead.",
+      "replace": "In portrait mode, a 3-way head tips the camera off center over the tripod; [an Arca-Swiss L-bracket](/blog/l-bracket-for-landscape-photography/) on a head with an Arca clamp keeps the weight centered instead.",
+      "appliedAt": "2026-10-30T02:20:11.698Z"
+    },
+    {
+      "slug": "ball-head-tripod",
+      "find": "Use an anti-twist plate or an L-bracket, and loosen the head before you rotate the camera.",
+      "replace": "Use an anti-twist plate or [an L-bracket for landscapes](/blog/l-bracket-for-landscape-photography/), and loosen the head before you rotate the camera.",
+      "appliedAt": "2026-10-30T02:20:12.471Z"
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/l-bracket-for-landscape-photography.entities.json",
+    "pagesAnalyzed": "3 of 5 (capturelandscapes and dpreview blocked TextRazor's fetch with a Cloudflare challenge; both were read with Firecrawl)",
+    "sharedEntities": [
+      "Camera (0.72)",
+      "Tripod (photography) (0.64)",
+      "Hex key (0.40)",
+      "Tripod head (0.38)",
+      "Screw (0.22)"
+    ]
+  }
+}

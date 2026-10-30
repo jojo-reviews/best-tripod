@@ -1,0 +1,19 @@
+{
+  "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
+  "pass": true,
+  "checkedAt": "2026-10-30T02:07:57.101Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Guide, no products. Verified 2026-10-30 via Firecrawl: DPReview tripod-hook thread (OP quote on hanging bag swaying, FrancoD dead-weight quote, fishing net/laundry bag, draping bag over the legs, ankle weights, tent cord and anchors in rock cracks, bungee/shock cord to ground); The Center Column test (seven tripods, 2.5 lb steps up to 20 lbs, no axial/yaw stiffness effect, small damping gain, resting hand damps more, lower center of gravity, bungee to ground is the correct field method); Ulanzi guide (weight must hang freely/no stability if touching ground, roughly 2-5 kg start, straps at leg braces may interfere with adjustments, counterweight counts toward max load); USGS Facts About Water (8.33 lb/gal, 1 kg/L); r/photography and r/AskPhotography quotes checked against search excerpts at the same thread URLs; lightest-tripod DPReview quote from data/pain-points.json; Quora title 'non-existent hook'; YouTube 9Cb0rVXWcRw (Marcus Hutsell) shows weight on the ground tied with a taut-line hitch. From-our-notes is a framed scenario; 3 x 1 L = 3 kg calculation from USGS figure.",
+    "at": "2026-10-30T02:07:56.679Z",
+    "hash": "e9b91394bb37d304"
+  }
+}

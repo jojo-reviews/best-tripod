@@ -103,24 +103,38 @@ faqs:
       tripod several times; if any section still creeps, keep the camera off and
       repair or replace the part.
 illustrations:
-  - prompt: "A disassembled twist-lock tripod leg on a workbench, the collar, plastic compression rings and inner tube laid out in order on a cloth beside a toothbrush and a small bowl of soapy water, overhead view, bright even light, no logos."
-    alt: "Parts of a twist-lock tripod leg laid out in order for cleaning on a workbench"
+  - prompt: >-
+      A disassembled twist-lock tripod leg on a workbench, the collar, plastic
+      compression rings and inner tube laid out in order on a cloth beside a
+      toothbrush and a small bowl of soapy water, overhead view, bright even
+      light, no logos.
+    alt: >-
+      Parts of a twist-lock tripod leg laid out in order for cleaning on a
+      workbench
     afterHeading: 2
-  - prompt: "Close-up of hands using a small nut driver to tighten the nut behind an open flip lock lever on an aluminum tripod leg, workbench setting with a few hand tools, warm lamp light, shallow depth of field, face not shown."
-    alt: "Hands tightening the tension nut behind an open flip lock lever on a tripod leg"
+  - prompt: >-
+      Close-up of hands using a small nut driver to tighten the nut behind an
+      open flip lock lever on an aluminum tripod leg, workbench setting with a
+      few hand tools, warm lamp light, shallow depth of field, face not shown.
+    alt: >-
+      Hands tightening the tension nut behind an open flip lock lever on a
+      tripod leg
     afterHeading: 3
-  - prompt: "An empty tripod standing on a stone garden patio while one hand presses firmly down on its top plate to test whether any leg section creeps, legs fully extended, daylight, low three-quarter angle, no camera mounted."
-    alt: "A hand pressing down on an empty tripod to test that the leg locks hold"
+  - prompt: >-
+      An empty tripod standing on a stone garden patio while one hand presses
+      firmly down on its top plate to test whether any leg section creeps, legs
+      fully extended, daylight, low three-quarter angle, no camera mounted.
+    alt: A hand pressing down on an empty tripod to test that the leg locks hold
     afterHeading: 7
 videos:
   - id: Eo1yQIZLVH4
     afterHeading: 2
 author: editorial-team
 related:
+  - how-to-clean-tripod-legs-after-the-beach
   - how-to-stop-tripod-shake-in-wind
   - best-hiking-tripod
   - peak-design-travel-tripod-vs-manfrotto-befree-advanced
-  - landscape-photography-tripod
 heroImage: /images/featured/tripod-leg-lock-wont-hold.png
 heroAlt: >-
   Tripod Leg Lock Won't Hold – Fixes for Twist, Flip and Angle Locks – Best

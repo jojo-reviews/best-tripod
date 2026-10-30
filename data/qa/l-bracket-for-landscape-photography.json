@@ -1,0 +1,18 @@
+{
+  "slug": "l-bracket-for-landscape-photography",
+  "pass": true,
+  "checkedAt": "2026-10-30T02:08:27.721Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Guide, no products. Verified against sources opened with Firecrawl 2026-10-30: RRS MC-LS Mk2 page (Weight 4.16 oz (118 g), center of mass over tripod apex, under 0.3 lb), RRS BP-CS page (Weight 1.6 oz (46 g)); 2.6 oz/72 g difference calculated. Fitting, switching and maintenance steps match the RRS L-Brackets and Base Plates install guide (clean surfaces, align 1/4-20 screw, seat anti-twist flange, snug without over-tightening, check doors/ports and screen articulation, mount both ways, screw-knob clamp half turn, centering index mark, safety stop screw, check fasteners after travel, light rinse no harsh solvents, no lubrication). DPReview 'Why an L bracket' quotes copied verbatim (notch weight distribution/tip over; lip/loosen; 'a lot of bracket when hiking around in landscape photography' about the Digital Pro-SV; tclune on camera-specific brackets for leaving on). CaptureLandscapes: universal brackets block battery door, dedicated can crowd left-side remote port. Views Infinitum: switch took less than 10 seconds. NPN thread: starter with Manfrotto RC2 asked about L brackets. Peak Design safety-screw fix from the r/nikon_Zseries quote in data/pain-points.json. r/photography 6ooi9m excerpt recommends an L-bracket. Video XRZ22cDJTWw is Kyle Goetsch's 'Why an L-bracket is ESSENTIAL for Landscape Photography'. No prices, ratings or testing claims.",
+    "at": "2026-10-30T02:08:27.333Z",
+    "hash": "526656cd2713a6d6"
+  }
+}

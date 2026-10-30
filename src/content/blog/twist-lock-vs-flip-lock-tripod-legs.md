@@ -105,14 +105,25 @@ faqs:
       and press down on the leg. If it still slips with the lever tight, clean
       the tube or replace worn parts.
 illustrations:
-  - prompt: "Side by side close-up of two tripod legs, one with round threaded twist collars and one with external lever clamps, standing on a light wooden floor, soft studio light, shallow depth of field, clean neutral background, no logos or text."
-    alt: "A tripod leg with twist lock collars beside a leg with flip lock levers"
+  - prompt: >-
+      Side by side close-up of two tripod legs, one with round threaded twist
+      collars and one with external lever clamps, standing on a light wooden
+      floor, soft studio light, shallow depth of field, clean neutral
+      background, no logos or text.
+    alt: A tripod leg with twist lock collars beside a leg with flip lock levers
     afterHeading: 2
-  - prompt: "A tripod standing on a windy beach with sand dusting its lower leg sections and locks, waves breaking in the background, low angle close to the sand, late afternoon sun, small grains visible on the leg tubes, no people."
-    alt: "Sand dusting the lower leg sections and locks of a tripod on a beach"
+  - prompt: >-
+      A tripod standing on a windy beach with sand dusting its lower leg
+      sections and locks, waves breaking in the background, low angle close to
+      the sand, late afternoon sun, small grains visible on the leg tubes, no
+      people.
+    alt: Sand dusting the lower leg sections and locks of a tripod on a beach
     afterHeading: 4
-  - prompt: "Hands in thick winter gloves opening a lever lock on a tripod leg in falling snow, a mountain scene softly blurred behind, close-up from the side, cold blue light, face not visible, frost on the metal tubes."
-    alt: "Gloved hands opening a lever lock on a tripod leg in the snow"
+  - prompt: >-
+      Hands in thick winter gloves opening a lever lock on a tripod leg in
+      falling snow, a mountain scene softly blurred behind, close-up from the
+      side, cold blue light, face not visible, frost on the metal tubes.
+    alt: Gloved hands opening a lever lock on a tripod leg in the snow
     afterHeading: 5
 videos:
   - id: LXXjzoiDas4
@@ -123,6 +134,7 @@ heroAlt: >-
   Twist Lock vs Flip Lock Tripod Legs – Speed, Sand, Gloves and Wear – Best
   Tripod comparison
 related:
+  - how-to-clean-tripod-legs-after-the-beach
   - tripod-leg-lock-wont-hold
 ---
 
@@ -169,7 +181,7 @@ Twist locks give no visual cue, hence step 4. Flip locks keep an edge for one-le
 
 **Sand fouls both locks, just in different places, so the routine after a beach shoot matters more than the lock type.** Ulanzi argues grit jams lever cams while twist locks stay sealed. One DPReview owner says flip locks "don't get fouled like twists, especially in sand, dust, etc." Another, in the same DPReview thread, writes: "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain."
 
-In our reading, both are right. Twist-lock threads trap grit inside the collar, so cleaning means unscrewing it. Flip-lock levers sit outside and wipe clean easily, though Vanguard notes their pivots and screws collect dirt, and grit still rides into the tubes; and a Reddit landscape shooter says flip locks make "it nearly impossible to disassemble the tripod to clean out the sand". Our beach routine, from [K&F Concept's fix guide](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock):
+In our reading, both are right. Twist-lock threads trap grit inside the collar, so [cleaning the legs after a beach shoot](/blog/how-to-clean-tripod-legs-after-the-beach/) means unscrewing it. Flip-lock levers sit outside and wipe clean easily, though Vanguard notes their pivots and screws collect dirt, and grit still rides into the tubes; and a Reddit landscape shooter says flip locks make "it nearly impossible to disassemble the tripod to clean out the sand". Our beach routine, from [K&F Concept's fix guide](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock):
 
 - Wipe the exposed tubes before you collapse the legs, not after.
 - Check the lowest tubes first; they sit in the sand and salt.

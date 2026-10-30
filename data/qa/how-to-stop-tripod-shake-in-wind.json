@@ -1,21 +1,19 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-10-21T19:56:02.492Z",
+  "checkedAt": "2026-10-30T02:20:05.221Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: body has 850 words, over the 834 limit (top results average 725): cut repetition and filler",
+    "LIVE POST, FIX: internal link to /blog/best-tripod-feet-for-sand-snow-and-rock/, which isn't live until 2026-10-30T02:25:00.000Z",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:44.669Z",
-    "hash": "654ba563570a3c0a"
+    "notes": "added one internal link to best-tripod-feet-for-sand-snow-and-rock, no claim changed",
+    "at": "2026-10-30T02:20:04.803Z",
+    "hash": "0fd1c3775daba167"
   }
 }

@@ -128,10 +128,10 @@ videos:
     afterHeading: 1
 author: editorial-team
 related:
+  - how-to-weigh-down-a-tripod-without-a-sandbag
   - how-to-choose-a-tripod-for-a-heavy-telephoto-lens
   - tripod-center-column-up-or-down-for-landscapes
   - tripod-leg-lock-wont-hold
-  - tripod-shake-when-pressing-shutter
 heroImage: /images/featured/how-to-stop-tripod-shake-in-wind.png
 heroAlt: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First – Best Tripod guide'
 ---
@@ -164,13 +164,13 @@ The video below, from landscape photographer Todd Dominey, walks through most of
 
 **Keep a tripod in wind on its legs' thickest sections, with a low center of gravity.** A raised center column is a recurring r/AskPhotography complaint: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" (thread). Our [tripod height without the center column](/blog/how-tall-should-a-tripod-be-for-my-height/) guide gives the legs-only height to buy.
 
-Spikes suit sand and mud, rubber feet smooth rock. One supertelephoto thread answer is blunt: "Grass is not stable." Move.
+Spikes suit sand and mud, rubber feet smooth rock, and our [tripod feet for sand and rock](/blog/best-tripod-feet-for-sand-snow-and-rock/) match a foot to each surface. One supertelephoto thread answer is blunt: "Grass is not stable." Move.
 
 ## Weigh down a tripod without making it swing
 
 **Weight on the ground, tethered, beats a bag dangling in gusts.** Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a bag on the ground. If a hung bag moves, lower it to the ground.
 
-The center-column hook is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" (thread). Without one, we fill a stone bag on site or cord the apex to a rock. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
+The center-column hook is the usual anchor, though not every light tripod has room; one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability" (thread). Without one, we fill a stone bag on site or cord the apex to a rock, as our [no-sandbag tripod weights](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/) guide shows. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
 
 ## Block the wind and trim the sails
 

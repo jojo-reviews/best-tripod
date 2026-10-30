@@ -549,6 +549,7 @@ heroAlt: >-
   Best Tripod for Real Estate Photography – 7 Picks for Level Interiors – Best
   Tripod buying guide
 related:
+  - l-bracket-for-landscape-photography
   - tripod-for-wildlife-photography
   - landscape-photography-tripod
   - best-monopod-with-feet-for-wildlife-photography

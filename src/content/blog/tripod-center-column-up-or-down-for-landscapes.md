@@ -132,6 +132,8 @@ heroImage: /images/featured/tripod-center-column-up-or-down-for-landscapes.png
 heroAlt: >-
   Tripod Center Column Up or Down for Landscapes – When to Raise It – Best
   Tripod guide
+related:
+  - leveling-base-vs-leveling-column
 ---
 
 You frame a sunrise on a ridge, the viewfinder sits two inches too low, and the quickest fix is the knob on the center column. For landscapes, keep the tripod center column down by default: extend the tripod legs first, then raise the center column only a few inches to fine-tune the composition. Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.

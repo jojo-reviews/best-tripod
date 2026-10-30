@@ -323,7 +323,7 @@ Heavy-lens droop is a balance problem first, reported from r/peakdesign to r/can
 
 ### Plate twists or loosens
 
-Plate loosening comes up in BCG forum and r/AskPhotography threads: "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." (BCG forums) Use an anti-twist plate or an L-bracket, and loosen the head before you rotate the camera.
+Plate loosening comes up in BCG forum and r/AskPhotography threads: "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." (BCG forums) Use an anti-twist plate or [an L-bracket for landscapes](/blog/l-bracket-for-landscape-photography/), and loosen the head before you rotate the camera.
 
 ## Tripod ball head features that matter
 

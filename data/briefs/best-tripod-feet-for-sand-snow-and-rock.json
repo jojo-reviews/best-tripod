@@ -1,0 +1,548 @@
+{
+  "centralEntity": "tripod feet",
+  "entityVariants": [
+    "tripod feet for sand snow and rock",
+    "tripod spikes",
+    "tripod spiked feet",
+    "tripod rock claws",
+    "tripod snow shoes",
+    "tripod sand shoes",
+    "all-terrain tripod feet"
+  ],
+  "entities": [
+    {
+      "name": "tripod feet",
+      "type": "product type",
+      "relation": "central entity: interchangeable feet that screw into or strap onto tripod legs (TextRazor top entity: Tripod (photography), relevance 0.96, 2 of 2 readable pages)",
+      "salience": 0.96
+    },
+    {
+      "name": "tripod spikes",
+      "type": "product type",
+      "relation": "pointed steel feet for sand, mud, soft ground and ice; covered by all 5 analyzed pages",
+      "salience": 0.85
+    },
+    {
+      "name": "rock claws",
+      "type": "product type",
+      "relation": "scalloped stainless claws that bite into wet or smooth rock; Lincoln Harrison, DPReview and Photography Life commenters",
+      "salience": 0.6
+    },
+    {
+      "name": "snow shoes",
+      "type": "product type",
+      "relation": "wide plastic discs that spread load on snow and dry sand; DPReview mud/sand thread, BCG forum",
+      "salience": 0.55
+    },
+    {
+      "name": "rubber feet",
+      "type": "component",
+      "relation": "stock feet; best indoors and on smooth hard ground, chewed up by rock",
+      "salience": 0.6
+    },
+    {
+      "name": "3/8\"-16 thread",
+      "type": "standard",
+      "relation": "the leg-end thread most removable feet use (Lens Notes, RRS spec)",
+      "salience": 0.5
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "TextRazor shared entity (relevance 0.67); sells spikes, big feet and snow shoes",
+      "salience": 0.67
+    },
+    {
+      "name": "Leofoto",
+      "type": "brand",
+      "relation": "maker of TFS-US spikes, TFC claws and TFW/TFW-2 snow shoes",
+      "salience": 0.45
+    },
+    {
+      "name": "Really Right Stuff",
+      "type": "brand",
+      "relation": "maker of TA-3-FRC rock claws and long spikes",
+      "salience": 0.4
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 230 snow shoes and 204SPK3 retractable spikes",
+      "salience": 0.4
+    },
+    {
+      "name": "long exposure",
+      "type": "technique",
+      "relation": "why a foot that keeps sinking ruins the shot at the beach",
+      "salience": 0.45
+    },
+    {
+      "name": "ice",
+      "type": "surface",
+      "relation": "spikes grip ice, rubber slides",
+      "salience": 0.4
+    },
+    {
+      "name": "O-rings",
+      "type": "component",
+      "relation": "keeps feet from backing out and keeps sand out of threads (RRS ABP, ScottymanPhoto)",
+      "salience": 0.3
+    }
+  ],
+  "attributes": [
+    "foot type (spike, claw, disc, rubber)",
+    "surface it suits (sand, snow, wet rock, ice, mud)",
+    "thread size (3/8\"-16 or proprietary)",
+    "footprint diameter",
+    "spike length",
+    "weight per set",
+    "material (stainless steel, aluminum, plastic)",
+    "removable rubber cap",
+    "tool needed to swap",
+    "fit (universal strap vs specific leg tube)"
+  ],
+  "ngrams": [
+    "tripod feet",
+    "tripod spikes",
+    "rubber feet",
+    "spiked feet",
+    "rock claws",
+    "snow shoes",
+    "sand shoes",
+    "wet rock",
+    "soft ground",
+    "long exposure",
+    "set of 3",
+    "3/8 thread",
+    "claw feet",
+    "tripod legs"
+  ],
+  "skipgrams": [
+    "spikes…sand",
+    "claws…rock",
+    "shoes…snow",
+    "feet…sink",
+    "rubber…floor",
+    "legs…sand",
+    "spike…ice",
+    "swap…feet"
+  ],
+  "nlpTerms": [
+    "traction",
+    "grip",
+    "sink",
+    "slip",
+    "skid",
+    "footprint",
+    "surface area",
+    "waves",
+    "tide",
+    "granite",
+    "moss",
+    "mud",
+    "gravel",
+    "ice",
+    "deep snow",
+    "dry sand",
+    "wet sand",
+    "thread locker",
+    "hex key",
+    "stainless steel",
+    "corrosion",
+    "saltwater"
+  ],
+  "questions": [
+    "What are the best tripod feet for sand?",
+    "Do tripod spikes work on rock?",
+    "What tripod feet work in snow?",
+    "Are rock claws better than spikes?",
+    "Do tripod feet fit any tripod?",
+    "Can I leave spikes on all the time?"
+  ],
+  "contentGaps": [
+    "No top result matches one foot type to each surface (sand, snow, wet rock) in a chooser.",
+    "Nobody compares footprint area or load per square centimeter between a claw and a snow disc.",
+    "Fit is glossed over: strap-on discs suit most legs, screw-in feet need a 3/8\"-16 socket, and some Manfrotto feet only fit one tube size.",
+    "Few pages say what to do when a spike keeps sinking with each wave."
+  ],
+  "commonPoints": [
+    "Rubber feet are fine indoors and on firm ground but slide on ice and wear on rock.",
+    "Spikes dig into sand, mud and soft ground and anchor the tripod in wind.",
+    "Spikes can skid on smooth rock; claws grip rock better.",
+    "Plain spikes keep sinking in snow and dry sand; wide discs (snow shoes or even CDs) stop that.",
+    "Swapping feet in the field is a hassle and small parts get lost."
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Footprint math from maker specs: a 144 mm TFW-2 disc covers about 163 cm2, a 140 mm Manfrotto 230 shoe about 154 cm2 and a 31 mm RRS claw about 7.5 cm2, so the discs spread a 4 kg rig over about 21 times the area (roughly 8 g/cm2 vs 177 g/cm2 per foot set).",
+      "source": "https://reallyrightstuff.com/footclaws/ ; https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html ; https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html",
+      "absentFrom": [
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+        "https://lensnotes.com/photography/tripod-spikes/",
+        "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://photographylife.com/how-to-make-tripod-more-stable"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Surface chooser: wet or smooth rock = claws; wet sand and surf = long spikes driven 3-4 in down; dry sand and deep snow = discs; mixed trail = spikes with rubber caps; Manfrotto 055 carbon = 204SPK3.",
+      "source": "https://www.youtube.com/watch?v=htDj1Y5YVsA ; https://www.youtube.com/watch?v=5vRwSwh4xTw ; https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+      "absentFrom": [
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+        "https://lensnotes.com/photography/tripod-spikes/",
+        "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://photographylife.com/how-to-make-tripod-more-stable"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Tripod sinks a little with every wave: drive the feet about 4 in into the sand at set-up and angle the legs in first, or slide a disc over the spike (Lincoln Harrison after about 15 beach shoots; Mark Denney).",
+      "source": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet ; https://www.youtube.com/watch?v=IL4bL--NUk8",
+      "absentFrom": [
+        "https://lensnotes.com/photography/tripod-spikes/",
+        "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://photographylife.com/how-to-make-tripod-more-stable"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Fit check before buying: screw-in feet need a 3/8\"-16 socket flush with the leg end; Manfrotto 230 straps fit most legs but sit loose on thin Gitzo Series 1 legs; 204SPK3 only fits 20.4 mm Manfrotto tubes.",
+      "source": "https://reallyrightstuff.com/footclaws/ ; https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html ; https://www.bhphotovideo.com/c/product/631092-REG/Manfrotto_204SPK3_Retractable_Spiked_Feet_Set.html",
+      "absentFrom": [
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+        "https://lensnotes.com/photography/tripod-spikes/",
+        "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://photographylife.com/how-to-make-tripod-more-stable"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "1.2\" (31 mm)",
+      "claim": "RRS TA-3-FRC rock claw diameter",
+      "url": "https://reallyrightstuff.com/footclaws/",
+      "quote": "Diameter | 1.2\" (31 mm)"
+    },
+    {
+      "number": "1.6 oz (44 g)",
+      "claim": "RRS rock claw weight per foot",
+      "url": "https://reallyrightstuff.com/footclaws/",
+      "quote": "Weight | 1.6 oz (44 g)"
+    },
+    {
+      "number": "5.7\" diameter",
+      "claim": "Leofoto TFW-2 snow shoe diameter",
+      "url": "https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html",
+      "quote": "Featuring a 5.7\" diameter, these Leofoto TFW-2 Snow Shoes keep your tripod safe and stable"
+    },
+    {
+      "number": "5.5\" diameter (14cm)",
+      "claim": "Manfrotto 230 shoe diameter",
+      "url": "https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html",
+      "quote": "The Manfrotto 230 (3255) is a set of 3 5.5\" diameter (14cm) All Weather Tripod Shoes."
+    },
+    {
+      "number": "113 mm / 4.44 in",
+      "claim": "Leofoto TFS-US spike length",
+      "url": "https://leofotooutdoors.com/collections/tripod-feet/products/leofoto-tfs-us-set-of-3-long-spike-rubber-foot-set",
+      "quote": "Length: 113 mm / 4.44 in"
+    }
+  ],
+  "videos": [
+    {
+      "id": "htDj1Y5YVsA",
+      "title": "What Are the Best Tripod Feet for Landscape Photography? Spikes vs. Claws vs. Rubber Feet.",
+      "channel": "ScottymanPhoto",
+      "url": "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+      "section": "How to keep tripod feet from slipping on wet rock"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-soft-ground-slipping",
+      "pain": "The tripod slips or sinks on grass, sand, mud and smooth rock",
+      "details": "Field shooters struggle with feet that slide on hard surfaces or sink in soft ground.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/wnfb4/need_some_tips_for_using_a_tripod_in_the_sand/",
+        "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/",
+        "https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "tripod-feet-sinking-with-waves",
+      "pain": "The tripod sinks a little more with every wave during beach long exposures",
+      "details": "Spiked legs keep settling as water pulls sand away, so the composition shifts between frames; owners drive feet several inches down, wrap legs, or put CDs or discs under the feet.",
+      "sources": [
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+        "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/",
+        "https://www.reddit.com/r/photography/comments/wnfb4/need_some_tips_for_using_a_tripod_in_the_sand/",
+        "https://www.youtube.com/watch?v=htDj1Y5YVsA"
+      ],
+      "quotes": [
+        {
+          "text": "with the spiked feet the tripod sinks further down as the water goes back out, requiring me to reset the composition after each wave",
+          "url": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet"
+        }
+      ]
+    },
+    {
+      "id": "tripod-spikes-skid-on-rock",
+      "pain": "Spiked feet skid on smooth granite and wet rock",
+      "details": "Owners report spikes sliding on slick rock and switch to rubber feet or claws, which bite with several teeth.",
+      "sources": [
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+        "https://lensnotes.com/photography/tripod-spikes/"
+      ],
+      "quotes": [
+        {
+          "text": "I had several cases where the spiked feet just skidded",
+          "url": "https://bcgforums.com/threads/to-spike-or-not.8525/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-spikes-sink-in-snow",
+      "pain": "Spikes and small feet keep sinking in snow and dry sand",
+      "details": "Without a wide base, legs punch through snow and soft sand; snow shoes or spike baskets fix it.",
+      "sources": [
+        "https://www.youtube.com/watch?v=5vRwSwh4xTw",
+        "https://www.youtube.com/watch?v=IL4bL--NUk8",
+        "https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "tripod-feet-swap-hassle",
+      "pain": "Swapping feet in the field is fiddly, parts get lost and spikes are a hazard",
+      "details": "Sand in threads makes feet hard to remove, caps get lost, and bare spikes catch on bags, car seats and legs.",
+      "sources": [
+        "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+        "https://lensnotes.com/photography/tripod-spikes/",
+        "https://bcgforums.com/threads/to-spike-or-not.8525/",
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet"
+      ],
+      "quotes": []
+    }
+  ],
+  "outline": [
+    {
+      "h2": "Best tripod feet for sand, snow and rock at a glance",
+      "intent": "direct answer + comparison table by surface",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripod feet, pick by pick",
+      "intent": "product reviews in paragraph style",
+      "h3": [
+        "Leofoto TFS-US Long Spike Set: Best tripod feet for sand and soft ground",
+        "Really Right Stuff Rock Claw Tripod Foot Set: Best tripod feet for wet rock",
+        "Manfrotto 230 Tripod Snow Shoes: Best tripod snow shoes for deep snow",
+        "Leofoto TFW-2 Snow Shoes: Best tripod feet for dry sand and snow on any leg",
+        "Manfrotto 204SPK3 Spiked Feet: Best tripod feet for Manfrotto 055 carbon legs",
+        "Which tripod feet should you get"
+      ]
+    },
+    {
+      "h2": "How to set tripod feet in sand and surf",
+      "intent": "numbered steps; fix for sinking with each wave",
+      "h3": []
+    },
+    {
+      "h2": "How to keep tripod feet from slipping on wet rock",
+      "intent": "numbered steps; claws vs spikes; video",
+      "h3": []
+    },
+    {
+      "h2": "How to fit tripod snow shoes in deep snow",
+      "intent": "numbered steps; footprint math",
+      "h3": []
+    },
+    {
+      "h2": "How to swap tripod feet without losing one",
+      "intent": "numbered steps; thread fit, O-rings, caps, safety",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these tripod feet",
+      "intent": "method, who else recommends, no hands-on claims",
+      "h3": []
+    }
+  ],
+  "targetWords": 1290,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+      "https://lensnotes.com/photography/tripod-spikes/",
+      "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+      "https://bcgforums.com/threads/to-spike-or-not.8525/",
+      "https://photographylife.com/how-to-make-tripod-more-stable"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The ranking pages are blog posts and forum threads that describe each foot type in running paragraphs (Lincoln Harrison, Lens Notes, Photography Life); none uses pros/cons boxes or spec tables.",
+    "avgWords": 1180,
+    "avgProducts": 2,
+    "commonSections": [
+      "types of tripod feet (rubber, spikes, claws, shoes)",
+      "when to use spikes (ice, sand, mud)",
+      "rock surfaces",
+      "sand and water",
+      "swapping and storing feet"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/",
+      "title": "what tripod/gear could stand in a shallow river with sand/rocks ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=IL4bL--NUk8",
+      "title": "6 Essential Tripod Accessories for Landscape Photography! - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.xc-m.promaster.com/3510",
+      "title": "ALL TERRAIN FEET - xc-m tripods"
+    },
+    {
+      "position": 4,
+      "url": "https://bcgforums.com/threads/to-spike-or-not.8525/",
+      "title": "To Spike or Not? | Backcountry Gallery Photography Forums"
+    },
+    {
+      "position": 5,
+      "url": "https://leofotooutdoors.com/collections/tripod-feet",
+      "title": "Tripod Feet - Leofoto Outdoors"
+    },
+    {
+      "position": 6,
+      "url": "https://www.altipod.live/blog/tripod-basics-how-to-guides/budget-tripod-feet-sand-snow-rough/",
+      "title": "Budget Tripod Feet for Sand, Snow & Rough Terrain | AltiPod"
+    },
+    {
+      "position": 7,
+      "url": "https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/",
+      "title": "Tripod mud/sand shoes | DPReview Forums"
+    },
+    {
+      "position": 8,
+      "url": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+      "title": "Tripod Rock Claws — LINCOLN HARRISON PHOTOGRAPHY"
+    },
+    {
+      "position": 9,
+      "url": "https://dyacon.com/product/sand-and-snow-tripod-plates/",
+      "title": "Sand and Snow Tripod Plates - Dyacon"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=5vRwSwh4xTw",
+      "title": "Tripod Snowshoes + The Best Headlamp Ever - YouTube"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "tripod feet",
+      "sand",
+      "snow",
+      "rock claws",
+      "spikes",
+      "shoes",
+      "terrain"
+    ],
+    "gap": "No top result is a buyer roundup that names one foot per surface, and none uses the exact keyword; our title adds the year, a pick count and \"by surface\"."
+  },
+  "serpProducts": [
+    {
+      "name": "Leofoto TFS-US Long Spike Set",
+      "pages": [
+        "https://www.youtube.com/watch?v=5vRwSwh4xTw",
+        "https://scottdavenportphoto.com/blog/a-great-set-of-tripod-spikes",
+        "https://www.andrealivieriphoto.com/andrea-livieri-photography-gear"
+      ],
+      "asin": "B0B4TVSL3T",
+      "amazon": "in stock, buy box (sold by Leofoto Global, ships from Amazon), checked 2026-10-30"
+    },
+    {
+      "name": "Really Right Stuff Rock Claw Tripod Foot Set (TA-3-FRC)",
+      "pages": [
+        "https://www.youtube.com/watch?v=htDj1Y5YVsA",
+        "https://photographylife.com/how-to-make-tripod-more-stable"
+      ],
+      "asin": "B0FCB6NGB9",
+      "amazon": "listing live, no featured offer (\"see all buying options\"), checked 2026-10-30",
+      "note": "ScottymanPhoto links the RRS claws as his pick; a Photography Life reader recommends rock claws over spikes and names RRS as the maker. Rock claws as a type are also recommended by Lincoln Harrison, Mark Denney, Hudson Henry and DPReview members; the Leofoto TFC-US is unavailable on Amazon US."
+    },
+    {
+      "name": "Manfrotto 230 Tripod Snow Shoes",
+      "pages": [
+        "https://www.dpreview.com/forums/threads/great-accessory-manfrotto-tripod-shoes.4429679/",
+        "https://photographylife.com/how-to-make-tripod-more-stable",
+        "https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/"
+      ],
+      "asin": "B000ER51YY",
+      "amazon": "in stock, sold and shipped by Amazon.com, checked 2026-10-30"
+    },
+    {
+      "name": "Leofoto TFW-2 Snow Shoes",
+      "pages": [
+        "https://www.youtube.com/watch?v=5vRwSwh4xTw",
+        "https://www.youtube.com/watch?v=WH_Sq7ptkeQ",
+        "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/"
+      ],
+      "asin": "B08TLVDM35",
+      "amazon": "in stock, buy box (sold and shipped by EuroOptic), checked 2026-10-30"
+    },
+    {
+      "name": "Manfrotto 204SPK3 Spiked Feet",
+      "pages": [
+        "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+        "https://www.youtube.com/watch?v=ISAcr9RYh1s",
+        "https://manfrottotripodparts.wordpress.com/tag/spike-feet/"
+      ],
+      "asin": "B002BSH2KA",
+      "amazon": "in stock, sold and shipped by Amazon.com, checked 2026-10-30"
+    }
+  ],
+  "textrazor": {
+    "date": "2026-10-30",
+    "pagesAnalyzed": 2,
+    "urls": [
+      "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+      "https://lensnotes.com/photography/tripod-spikes/",
+      "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
+      "https://bcgforums.com/threads/to-spike-or-not.8525/",
+      "https://photographylife.com/how-to-make-tripod-more-stable"
+    ],
+    "note": "DPReview, BCG and Photography Life blocked the TextRazor fetch; shared entities came from the 2 readable pages (Tripod (photography) 0.96, Gitzo 0.67). Other saliences estimated from headings across the 5 pages."
+  },
+  "pendingInlinks": [
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "find": "Spikes suit sand and mud, rubber feet smooth rock.",
+      "replace": "Spikes suit sand and mud, rubber feet smooth rock, and our [tripod feet for sand and rock](/blog/best-tripod-feet-for-sand-snow-and-rock/) match a foot to each surface.",
+      "appliedAt": "2026-10-30T02:20:05.244Z"
+    },
+    {
+      "slug": "best-hiking-tripod",
+      "find": "Feet matter on trail. Spiked feet grip soft ground, snow and ice; rubber feet are better on bare rock.",
+      "replace": "Feet matter on trail. Spiked feet grip soft ground, snow and ice; rubber feet are better on bare rock, and our [tripod feet picks by surface](/blog/best-tripod-feet-for-sand-snow-and-rock/) add claws and snow shoes.",
+      "appliedAt": "2026-10-30T02:20:06.138Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "how-to-clean-tripod-legs-after-the-beach",
+  "pass": true,
+  "checkedAt": "2026-10-30T02:09:01.047Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Guide, no products. Re-opened every source via Firecrawl: Ulanzi beach guide (salt crystallizes as it dries; full clean every three to five beach sessions; at least 24 hours drying, legs extended, sections separated, open ends down; never WD-40 on threads; 10 to 15 minute warm soak for seized sections; replace scored shims), ProMaster saltwater guide (blower, rinse before collapsing, photos while disassembling, every 3 to 6 months), Visual Wilderness (slide legs under soapy water if they don't come apart, lithium grease, about an hour for two carbon tripods, carbon splinters), Really Right Stuff help center (thin layer of synthetic grease on twist-lock grooves, sleeves sized per section), SLIK carbon guide (lay out largest to smallest), Lincoln Harrison (Gitzo upper legs in shower 5 minutes, grease threads only, not tubes). All five quotes checked verbatim: Stack Exchange 20202 (collapsing while dirty), FM 1500935 (salt caked inside Induro lower legs; warm water under pressure; grease a sand magnet), FM 1027725 (Manfrotto clamps just coated with salt), DPReview 4290653 (fragile grommets; Feisol owner rinses before retracting), DPReview 4581258 ('definitely a pain', confirmed by exact-quote search). Video P8oavNYcuOQ is Todd Dominey's 'How to clean a tripod' (strip-down, degreaser, lithium grease). Three outside links, each number checked on its page.",
+    "at": "2026-10-30T02:09:00.695Z",
+    "hash": "b84da813a8710be5"
+  }
+}

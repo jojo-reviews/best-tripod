@@ -1,0 +1,73 @@
+{
+  "keyword": "leveling base vs leveling column",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Panoramic photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Panoramic_photography"
+    },
+    {
+      "entity": "Spirit level",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.75,
+      "wiki": "http://en.wikipedia.org/wiki/Spirit_level"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Panorama",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Panorama"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.5,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Nodal Ninja",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": ""
+    },
+    {
+      "entity": "Rotation",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Rotation"
+    }
+  ],
+  "errors": [
+    "https://www.fredmiranda.com/forum/topic/1690976/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-6cwflM25pEug94bLMy8aKj&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"6cwflM25pEug94bLMy8aKj\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'Tp26Kw.uPOMhQxDc43NO.MEYAanvVZDN.LLaUmmuTiA-1793325871-1.2.1.1-mSwm040Oy3KBfCuoJNIQeFbbIhohyqJWWNn59hBNjBIa1yCW6TOXsiKP9soFqtTZ',cITimeS: '1793325871',cN: '6cwflM25pEug94bLMy8aKj',cRay: 'a526d9877c01e621',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forum/topic/1690976/?__cf_chl_tk=dl5IikTG7mylWrZPMjACyBHC4zZfLaXnKg4bHfsvLxQ-1793325871-1.0.1.1-lsZj9mkSdgXnKxnQdUI7eAuSx24DxY6MTpfM0x31jzs\",cvId: '3',cZone: 'www.fredmiranda.com',fa:\"/forum/topic/1690976/?__cf_chl_f_tk=dl5IikTG7mylWrZPMjACyBHC4zZfLaXnKg4bHfsvLxQ-1793325871-1.0.1.1-lsZj9mkSdgXnKxnQdUI7eAuSx24DxY6MTpfM0x31jzs\",md: 'ICMJDiUlPjEwAzw31EsrcETemNKv3Wm7qAbK0vMyycw-1793325871-1.2.1.1-f4UToHfZBT7MBGMARSrHA3RZfDmQaLjMSmK5zXy5Ix6Pscwq9O7xMLPfBcuLnyA.hCCaLrC4q3JLU1V_MrCsjm7gqv6fpZSx22NiWryMyoARHZ4H2OuiPWZ_B4W4p68fmjCMo4wxTLEoU_djP7K4PtTiLLj4WuXzW3itatpp8hj8woOTq2GV94jBQQdNBbMydZe3sUvP7ExwEbw9jbjVHBubrce1sleaoKtxNJKWzUZZNcMVGYFEfuff8NAzobOxGDjyLSPswL5YMWv9MzSoR_mZOhnNfNwloN60LSxgyto4cFKEflSoddDknnzwxPolE3dzMRY.0SQM9hWBjQCzw5C4y4Pwnuasi6tZJksKETkJMFY9.Fw1HqmgyqM4VTCtKtwVaridPfVCJuJ28MeCJZhY0HJ4jp9ZN5m7BEpWH.._UeYg5akT09zJkRWX52KHuU_yJ2z3E.DbH9ZIiweDpmh2MyOBSUOB4TTorg2_3DOFogB_CKH6RNtrO6.SpiiQCb8WrCo2vH3tCzKU4xPjTsXOvVwCT3HRjkOm7BiCsD7gWofHUXvXLrOkP.5p_8Jm7CFPI0LZ7WoIoi6YVtIDGjkI0WnoSZHk2Hl74D1B9mJzPm.0Tfn1q8S4tJ.isi1.M2ehGGYcZrKNjq6YxQ7E4p8gCEHJR.R6gzuGU2LhYWtbCrk1kIx1.BOHcsZMrfEhV4oXoNRnqZ4f5AMjlx8rxddG4.qpgD_gHtZmAP9cwN5x9_rPQe64ObAJgqsuRga205coUGYBK9eKAmY9OJ08m_vUj1D5TkwqqnIugyL.AIlEsDz7V4jxC7CxjvRBxUL0g0aO3NuYM6L9xwozf3C_rkHMjnwO57IdQvLM06y2g1A2KCFMp1w4IKIXHedXIjhtmnsPUMEOOJK6Hs19ukb5msBDk.oLvDzUeIKvSxtkgWwi.MrhxL93trRkv6O6Mm6.hbAA.crWHxpCpk.msdxyZ4xIco9kJnBb6qynI.AFzkSCPm3Isq_QRmIGZEkw7vdirTnLgdPEYL4rPC0MtyF_CCSABUvDu91C7tXriIPzLNlE98Z8LQmhkmIZMiEUQ1Q9I0ivwOzxQI6WVmaPQ1_3VH_Phi4xKnLUALqQRpmxdJ4',mdrd: 'ILKM6x4xjMFxfEtBk8z_BRzX8DZmrf52H6AO0TqHOUY-1793325871-1.2.1.1-72tvX9THq0rNNhceb9s3iNGRdTvzsIV8vFmus_DHRxViILIUhTfQVEXn6d2pANdIHzeu_hFoa481m.XdIKCNYP7qE540NLRy0Cu7c2OGHQsIT3Mv7pvx5Ii4ch0nktCBdknnvOGp_ojvYa2M5frGQPCi7Qu0baroXFjzrXjo2O9duD7Po46q8PnvuhshXHO9heu0zoiKYjMTRu65X_t2QXfxpKNJSLfN7XWAG9O2rYGjaPbpZG32Yt.DCbVAku4LF5fsgp8FnPTI9tvVi4O7kA',};var a = document.createElement('script');a.nonce = '6cwflM25pEug94bLMy8aKj';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a526d9877c01e621';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forum/topic/1690976/?__cf_chl_rt_tk=dl5IikTG7mylWrZPMjACyBHC4zZfLaXnKg4bHfsvLxQ-1793325871-1.0.1.1-lsZj9mkSdgXnKxnQdUI7eAuSx24DxY6MTpfM0x31jzs\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-OJq9CDVVI5pYPYPgOiWldk&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"OJq9CDVVI5pYPYPgOiWldk\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '3I6OWLMyco8QtG2jUHycx8f9ymQR1uS0qcmOo.4rLcs-1793325872-1.2.1.1-hz1v6vwGbgSqPENUc1.D3le73XdmrUJa_I9L_qSxgRQowQwWBD..SM6wNtt6ofdK',cITimeS: '1793325872',cN: 'OJq9CDVVI5pYPYPgOiWldk',cRay: 'a526d98e9d285f1a',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/threads/leveling-bases-for-tripods.3794/?__cf_chl_tk=srxmM4ZHGUq9haOutAhCXRQgd38Y_BDQ7CX9gwvcFC0-1793325872-1.0.1.1-U8yXL_CMAmAdUqtw4Dy93IXStgUOtYYZmaMFsUhOtWY\",cvId: '3',cZone: 'bcgforums.com',fa:\"/threads/leveling-bases-for-tripods.3794/?__cf_chl_f_tk=srxmM4ZHGUq9haOutAhCXRQgd38Y_BDQ7CX9gwvcFC0-1793325872-1.0.1.1-U8yXL_CMAmAdUqtw4Dy93IXStgUOtYYZmaMFsUhOtWY\",md: 'GNvl8ajKPXXJkEGFqACzSgFaollD4JH_wbrS_PYVc3M-1793325872-1.2.1.1-vzveLa3ZXVegsDizzgqlrRNM0k0HHO.WYhD_uB.YQ6sfdbC5NLHwsjm0r8XSVRA7Wy6SWyeWJ1YvAzcOWxdb61wMDT7IvBSVwAAV79uIu1Hr.VBvvbXw.8_jTFJFON7NvZFdncYCD2KmYb_8RhC.B3plUaX8spu.k6X8iAx3Kf7WEy1zoembTt4jUAajnG61cqAntI2WAsHfvPW8GXFvj18FyHaW29uMz1aBL6.EVjJThECiil0M2IVNuZRCv8J8BKqGNnu..UJ_90.PXfIH_4tF5pPoGjzxwqBurpnIwh4zDc7AAk9sc5OVerFQp3iszcdOnEwISJS4IeyEhgBnZnDohgndygCShdJqHnvZVIgIzZpAWJn_3nuJjBQ4zaAg7NNaGw2KApGOVypaJM6H0ltxwpTZIicl8bVshVZuucJhGuqbM0q4mgIBmVrDO3SlQZUEk8A1KBIOf_mrLYcr6iOqQ_2FA1ENbdKpb_ApvaCOz2E5xvNPqIlFS8aCp1EHBc2h7XtQzeTyrDdZKLNkQcvtNYlmW55Xu0Que.7ChcFyTTjXM7fIcSrUz.drHxz2zeUT.TmOQV5aWqEWUnIPe5JvoPEXYt_cKKETONSzXzZcM0WfbTellG22Iuqh8N2v6yii2Z5kME6JtlFW842LsDl0AihmbebvhdytGV_Okxw0ETnnMaOVihBnjaG05igPUJYwB7e7fX6vsa92AoO.6ej1_xeXvmIKQN1vazz8lrvcWQfHB08N69Ij5q1h19kgkL9EfNng2QjJTlg7zs5P4jYJaj9YobJ7f.TjWgGCnWgIilGpkaY344WwlBz25L.Lm6mo6k8YWwQQMzgj8zsA2voZftx6mvcy.CIeyj.1ZrKypfWr7LNOJUulx73FsFQhUQBgBGhSfro1I5uq..4edW2xHuYVIaVrlst6HPBNRo5k6b2Kz.vbkS6v1DN8Ai7oLoXxHk1GIdTaEfNLnCXocR_9Vyb8T.7KElol4lUIDC2b9XIcsCu2Yhl9yVIMSfdw0Jb8v6YtjRGrsg9yoZzYUoMaMoS0HG1vZc8YF4DjDvupgH9OCvh9D1y26OONKCOSQRe54hge9xdMgPfGIOVO31vyIPKNw9rWWsFjyHzvko3Z0maRemXhnXjOf.PXXGtZ',mdrd: 'hMDVhKnYAsO6E_9xgCr94kACPZa4WYWl0ii3OTl1rNs-1793325872-1.2.1.1-CO1gaGO9ourfABnHFlt6uQM3aNcnjFLd.u8Muv97ME3kmDcDFAvkBQSOjqvMow5EV2KRLbEm7Y6Ylk9fZZZXZtKRFR3PVRCSzdgpjZqa6hbDwcYSbs5xFSY4ny9CkbNOSy7Ya8MH0sJYvfi8RpV2yKu2b_x6IldMzbKhCKaHXZjsysuVXj6EZzxihR1W3zJk3gNlPU0BNx8YRpoGMxK27hOTcG7UL_NUiJp8LJ.SdIlxG61ypcEBFF1UpGcGs2TjFFzEDWmkJymemTWKT.otaw',};var a = document.createElement('script');a.nonce = 'OJq9CDVVI5pYPYPgOiWldk';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a526d98e9d285f1a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/threads/leveling-bases-for-tripods.3794/?__cf_chl_rt_tk=srxmM4ZHGUq9haOutAhCXRQgd38Y_BDQ7CX9gwvcFC0-1793325872-1.0.1.1-U8yXL_CMAmAdUqtw4Dy93IXStgUOtYYZmaMFsUhOtWY\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

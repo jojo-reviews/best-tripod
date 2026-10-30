@@ -357,7 +357,7 @@ Ball head vs pan tilt head for landscape photography is a choice that comes down
 
 ## Ball Head vs Pan Tilt Head for Landscape Photography: The Short Answer
 
-**Choose a ball head if you hike, travel light and need to reframe fast; choose a pan tilt or geared head if you shoot slow, deliberate compositions where a perfectly level horizon matters.** Most landscape photographers we hear from end up on a ball head because it is lighter and quicker, then add a panning clamp or leveling base when they start shooting panoramas.
+**Choose a ball head if you hike, travel light and need to reframe fast; choose a pan tilt or geared head if you shoot slow, deliberate compositions where a perfectly level horizon matters.** Most landscape photographers we hear from end up on a ball head because it is lighter and quicker, then add a panning clamp or [leveling base](/blog/leveling-base-vs-leveling-column/) when they start shooting panoramas.
 
 Here is the decision in one place:
 
@@ -441,7 +441,7 @@ A geared head turns each axis with a knob, so movements are slow, small and repe
 
 ### Bulk, weight and portrait mode
 
-Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps. In portrait mode, a 3-way head tips the camera off center over the tripod; an Arca-Swiss L-bracket on a head with an Arca clamp keeps the weight centered instead.
+Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps. In portrait mode, a 3-way head tips the camera off center over the tripod; [an Arca-Swiss L-bracket](/blog/l-bracket-for-landscape-photography/) on a head with an Arca clamp keeps the weight centered instead.
 
 ## Ball Head vs Pan Tilt Head for Landscape Photography, Side by Side
 

@@ -1,0 +1,575 @@
+{
+  "centralEntity": "tripod legs",
+  "entityVariants": [
+    "tripod",
+    "tripod leg",
+    "leg sections",
+    "leg locks",
+    "beach tripod"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "the gear being cleaned",
+      "salience": 0.98,
+      "pages": 4
+    },
+    {
+      "name": "tripod legs",
+      "type": "part",
+      "relation": "telescoping tubes that sit in sand and salt water",
+      "salience": 0.79,
+      "pages": 3
+    },
+    {
+      "name": "grease",
+      "type": "lubricant",
+      "relation": "thin layer on twist-lock threads after cleaning; too much traps sand",
+      "salience": 0.63,
+      "pages": 3
+    },
+    {
+      "name": "sand",
+      "type": "contaminant",
+      "relation": "grit that grinds threads and scores shims",
+      "salience": 0.58,
+      "pages": 3
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg tube material that does not rust, though metal fittings can corrode",
+      "salience": 0.57,
+      "pages": 3
+    },
+    {
+      "name": "seawater",
+      "type": "contaminant",
+      "relation": "leaves salt crystals when it dries",
+      "salience": 0.49,
+      "pages": 2
+    },
+    {
+      "name": "corrosion",
+      "type": "damage",
+      "relation": "salt attacks aluminum and magnesium fittings, nuts and spikes",
+      "salience": 0.49,
+      "pages": 2
+    },
+    {
+      "name": "salt",
+      "type": "contaminant",
+      "relation": "dries into crystals that seize threads and coat clamps",
+      "salience": 0.47,
+      "pages": 2
+    },
+    {
+      "name": "dish soap",
+      "type": "cleaner",
+      "relation": "mild soap in warm water removes salt, grime and old grease",
+      "salience": 0.46,
+      "pages": 2
+    },
+    {
+      "name": "fresh water",
+      "type": "cleaner",
+      "relation": "rinse dissolves salt before it dries",
+      "salience": 0.44,
+      "pages": 3
+    },
+    {
+      "name": "screw",
+      "type": "part",
+      "relation": "angle-joint axle screws and flip-lock nuts that trap salt",
+      "salience": 0.44,
+      "pages": 3
+    },
+    {
+      "name": "toothbrush",
+      "type": "tool",
+      "relation": "scrubs grit out of thread grooves",
+      "salience": 0.38,
+      "pages": 3
+    },
+    {
+      "name": "microfiber cloth",
+      "type": "tool",
+      "relation": "wipes the legs dry",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "lubricant",
+      "type": "lubricant",
+      "relation": "silicone, synthetic, lithium or marine grease on threads; never WD-40 on threads",
+      "salience": 0.33,
+      "pages": 2
+    },
+    {
+      "name": "twist lock",
+      "type": "leg lock type",
+      "relation": "threaded collar that collects grit and has to come apart to clean",
+      "salience": 0.5,
+      "pages": 5
+    },
+    {
+      "name": "flip lock",
+      "type": "leg lock type",
+      "relation": "lever clamp that wipes clean but whose nuts and pivots hold salt",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "shim",
+      "type": "part",
+      "relation": "plastic bushing or guide sleeve inside the lock; fragile and easy to lose",
+      "salience": 0.42,
+      "pages": 4
+    },
+    {
+      "name": "rubber feet",
+      "type": "part",
+      "relation": "trap salt water; pull them off to rinse underneath",
+      "salience": 0.3,
+      "pages": 2
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/how-to-clean-tripod-legs-after-the-beach.entities.json",
+    "pagesAnalyzed": 5
+  },
+  "attributes": [
+    "lock type (twist or flip) decides how far you take the leg apart",
+    "leg tube material (carbon fiber does not rust; aluminum and magnesium fittings corrode)",
+    "removable feet and spikes",
+    "number of leg sections (more joints to clean)",
+    "shim and bushing design (one-piece or two-piece)",
+    "grease type (synthetic, silicone, lithium, marine)",
+    "drying time before storage"
+  ],
+  "ngrams": [
+    "clean tripod legs",
+    "after the beach",
+    "fresh water",
+    "salt water",
+    "leg sections",
+    "twist locks",
+    "flip locks",
+    "warm soapy water",
+    "dish soap",
+    "thin layer of grease",
+    "fully extend the legs",
+    "rubber feet",
+    "carbon fiber tripod"
+  ],
+  "skipgrams": [
+    "rinse…fresh water",
+    "sand…threads",
+    "salt…dries",
+    "extend…legs",
+    "grease…threads",
+    "unscrew…twist lock",
+    "dry…24 hours"
+  ],
+  "nlpTerms": [
+    "rinse",
+    "salt",
+    "sand",
+    "grit",
+    "crystals",
+    "corrosion",
+    "threads",
+    "collar",
+    "shims",
+    "bushings",
+    "guide sleeve",
+    "lever",
+    "nut",
+    "spikes",
+    "feet",
+    "toothbrush",
+    "dish soap",
+    "warm water",
+    "microfiber",
+    "grease",
+    "silicone",
+    "synthetic",
+    "lithium",
+    "WD-40",
+    "dry",
+    "reassemble",
+    "disassemble",
+    "carbon fiber",
+    "aluminum",
+    "seized",
+    "gritty",
+    "grinding"
+  ],
+  "questions": [
+    "how do you clean a tripod after the beach",
+    "how do you get sand out of tripod legs",
+    "do you need to rinse a tripod after salt water",
+    "should I take my tripod apart after every beach shoot",
+    "what grease should I use on tripod leg threads",
+    "can I use WD-40 on tripod legs",
+    "how long should a tripod dry before storing it"
+  ],
+  "contentGaps": [
+    "Cold-water rinse leaves salt caked inside the lower tubes; warm water flushes it (owner report)",
+    "Never collapse sandy legs before rinsing; it drives grit into the locks",
+    "Pull off rubber feet to rinse the salt trapped under them",
+    "White crust on flip-lock nuts is usually dried salt, not corrosion yet; warm soak first",
+    "How much grease, and the trade-off that grease holds sand",
+    "A decision rule: rinse-only vs full strip-down, by what the legs feel and sound like",
+    "Twist lock vs flip lock cleaning differences in one table"
+  ],
+  "outline": [
+    {
+      "h2": "How to clean tripod legs after the beach: the short answer",
+      "intent": "direct answer",
+      "h3": []
+    },
+    {
+      "h2": "Rinse tripod legs at the beach before you collapse them",
+      "intent": "on-site step",
+      "h3": []
+    },
+    {
+      "h2": "Flush salt out of the tripod legs with warm water at home",
+      "intent": "rinse step, pain point salt caked inside",
+      "h3": []
+    },
+    {
+      "h2": "Take the tripod legs apart when they feel gritty",
+      "intent": "decision rule + strip-down steps by lock type",
+      "h3": []
+    },
+    {
+      "h2": "Dry the tripod legs fully, then grease the threads lightly",
+      "intent": "drying + lubrication, pain point grease holds sand",
+      "h3": []
+    },
+    {
+      "h2": "Tripod leg problems after the beach, and the fix",
+      "intent": "pain points: white crust on clamps, seized lock, broken shim",
+      "h3": []
+    },
+    {
+      "h2": "Keep tripod legs cleaner on the next beach shoot",
+      "intent": "prevention + next-question links",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "Rinse the tripod with fresh water as soon as possible after salt water",
+    "Extend the legs so water reaches every joint",
+    "Take twist-lock legs apart, keeping the shims and sleeves in order (photos help)",
+    "Wash parts in warm water with mild dish soap and a toothbrush on the threads",
+    "Dry every part completely before reassembly",
+    "Apply a small amount of grease to the threads and wipe off the excess",
+    "Extend the lowest section first at the beach to keep the locks out of sand"
+  ],
+  "ourGain": [
+    {
+      "type": "decision",
+      "point": "Rinse-only vs full strip-down rule: rinse after every beach shoot; strip the legs only when they grind, feel gritty or went into the surf (decision table by what you hear and feel, plus lock type)",
+      "source": "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach ; https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+      "absentFrom": [
+        "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+        "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+        "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+        "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Cold-water flush can leave salt caked inside the lower tubes; an Induro owner found it the next day and warm water under pressure removed it",
+      "source": "https://www.fredmiranda.com/forum/topic/1500935/",
+      "absentFrom": [
+        "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+        "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+        "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+        "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod",
+        "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Grease is a sand magnet: a dune shooter swapped thread grease for graphite powder; resolve by using a thin layer only and wiping excess, and cleaning sooner",
+      "source": "https://www.fredmiranda.com/forum/topic/1500935/",
+      "absentFrom": [
+        "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+        "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+        "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+        "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Twist lock vs flip lock beach cleaning compared part by part (where sand and salt hide, what comes apart, what gets grease)",
+      "source": "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod ; https://www.fredmiranda.com/forum/topic/1027725/ ; https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
+      "absentFrom": [
+        "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+        "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+        "https://slikusa.com/blogs/news/how-to-clean-a-carbon-fiber-tripod",
+        "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "White crust on flip-lock nuts and clamps is often dried salt rather than corrosion; a Manfrotto owner found it was just coated with salt",
+      "source": "https://www.fredmiranda.com/forum/topic/1027725/",
+      "absentFrom": [
+        "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+        "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+        "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+        "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod",
+        "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-leg-lock-grit-sand",
+      "pain": "Sand and grit foul tripod leg locks, and getting it out means taking the legs apart",
+      "details": "Beach and desert shooters report gritty, fouled twist-lock threads that have to be unscrewed and cleaned, while flip-lock owners say their legs are hard to strip down to clean sand out of the tubes.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+        "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+      ],
+      "quotes": [
+        {
+          "text": "I often work in sandy or dusty conditions and I have had to disassemble and clean threaded twist connections -- definitely a pain.",
+          "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-salt-caked-inside-legs",
+      "pain": "A quick rinse leaves salt caked inside the lower leg tubes",
+      "details": "Owners who flush the tripod with cold water after salt water find salt still caked on the inside walls of the lower legs; warm water under pressure removed it.",
+      "sources": [
+        "https://www.fredmiranda.com/forum/topic/1500935/"
+      ],
+      "quotes": [
+        {
+          "text": "the interior walls of the lower legs had lot of salt caked to the sides",
+          "url": "https://www.fredmiranda.com/forum/topic/1500935/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-grease-holds-sand",
+      "pain": "Grease on the leg threads holds sand, so the legs keep grinding",
+      "details": "A dune shooter found thread grease became a dust and sand magnet and switched to graphite powder; others regrease with synthetic or lithium grease sparingly.",
+      "sources": [
+        "https://www.fredmiranda.com/forum/topic/1500935/"
+      ],
+      "quotes": [
+        {
+          "text": "The grease was a dust and sand magnet, and almost impossible to rid of sand once it was in there.",
+          "url": "https://www.fredmiranda.com/forum/topic/1500935/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-white-crust-flip-lock-clamps",
+      "pain": "White crust builds up on flip-lock nuts and leg clamps after beach shoots",
+      "details": "A Manfrotto owner who rinsed and air-dried after every beach trip saw white deposits on the nuts and clamps; it turned out to be a salt coating rather than corrosion.",
+      "sources": [
+        "https://www.fredmiranda.com/forum/topic/1027725/"
+      ],
+      "quotes": [
+        {
+          "text": "I thought it was salt corrosion, but it was just coated with salt.",
+          "url": "https://www.fredmiranda.com/forum/topic/1027725/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-collapsed-while-sandy",
+      "pain": "Collapsing the legs while sandy drives grit into the locks",
+      "details": "Owners who collapse the tripod before rinsing find salt and grit worked into the lower joints a week later and have to strip the legs.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+        "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/"
+      ],
+      "quotes": [
+        {
+          "text": "I think my mistake was collapsing the tripod while still dirty, bad idea.",
+          "url": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-fragile-shims-reassembly",
+      "pain": "Plastic shims and grommets break or distort when the legs are reassembled",
+      "details": "Twist-lock owners report the plastic grommets between leg sections are fragile and hard to replace, so each strip-down risks a broken part.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/"
+      ],
+      "quotes": [
+        {
+          "text": "The grommets between legs are pretty fragile and it's hard to get replacements",
+          "url": "https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "at least 24 hours",
+      "claim": "drying time with legs extended and sections separated before storage",
+      "url": "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach",
+      "quote": "Leave the legs fully extended and the sections separated in a well-ventilated, dry area for at least 24 hours."
+    },
+    {
+      "number": "10 to 15 minutes",
+      "claim": "warm fresh-water soak to free a salt-seized section",
+      "url": "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach",
+      "quote": "Soak the affected section in a bucket of warm fresh water for 10 to 15 minutes before you try to twist it apart."
+    },
+    {
+      "number": "every 3 to 6 months",
+      "claim": "thorough cleaning interval for frequent outdoor shooters",
+      "url": "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+      "quote": "If you frequently shoot outdoors, you may need to thoroughly clean your tripod every 3 to 6 months."
+    },
+    {
+      "number": "about an hour",
+      "claim": "time to fully clean two carbon fiber tripods",
+      "url": "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+      "quote": "It takes about an hour to completely clean both of our carbon fiber tripods."
+    },
+    {
+      "number": "two 3/16\" hex keys",
+      "claim": "tools Really Right Stuff lists for removing angle-joint axle screws",
+      "url": "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod",
+      "quote": "The two 3/16\" hex keys provided with your tripod"
+    }
+  ],
+  "videos": [
+    {
+      "id": "P8oavNYcuOQ",
+      "title": "How to clean a tripod",
+      "channel": "Todd Dominey",
+      "url": "https://www.youtube.com/watch?v=P8oavNYcuOQ",
+      "section": "Take the tripod legs apart when they feel gritty"
+    }
+  ],
+  "targetWords": 980,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+      "https://www.reddit.com/r/photography/comments/43dhkx/how_do_you_clean_a_tripod/ (snippet)",
+      "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+      "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+      "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod",
+      "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+      "https://www.lincolnharrison.com/blog/tripod-maintenance",
+      "https://slikusa.com/blogs/news/how-to-clean-a-carbon-fiber-tripod",
+      "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result is a product roundup: maker and photographer how-tos, a forum thread, a Reddit thread and a YouTube video. The post is a how-to with no product picks (productCount 0).",
+    "avgWords": 900,
+    "avgWordsNote": "Readable articles: Ulanzi about 1,450 words of main text, Visual Wilderness about 1,000, ProMediaGear about 850, Slik about 700, Lincoln Harrison about 700, ProMaster about 650. Reddit, YouTube, the RRS step list and the Stack Exchange thread excluded.",
+    "avgProducts": 0,
+    "commonSections": [
+      "Why sand and salt damage a tripod",
+      "Protect the legs at the beach (extend lowest section, bags)",
+      "What you need",
+      "Rinse with fresh water",
+      "Disassemble the legs",
+      "Wash with warm soapy water and a toothbrush",
+      "Dry",
+      "Grease the threads and reassemble",
+      "How often to clean"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+      "title": "How to Clean Your Photography Tripod - Visual Wilderness"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/photography/comments/43dhkx/how_do_you_clean_a_tripod/",
+      "title": "How do you clean a tripod? : r/photography - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+      "title": "How To Clean Tripod After Saltwater Exposure - PROMASTER BLOG"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=P8oavNYcuOQ",
+      "title": "How to clean a tripod - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://promediagear.com/blogs/guides/how-to-clean-a-tripod",
+      "title": "How to clean a tripod: 3 tips you need to remember - ProMediaGear"
+    },
+    {
+      "position": 6,
+      "url": "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod",
+      "title": "How do you clean and maintain a tripod? - Help Center"
+    },
+    {
+      "position": 7,
+      "url": "https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+      "title": "How to use a tripod on the beach without damaging it?"
+    },
+    {
+      "position": 8,
+      "url": "https://www.lincolnharrison.com/blog/tripod-maintenance",
+      "title": "Tripod Maintenance — LINCOLN HARRISON PHOTOGRAPHY"
+    },
+    {
+      "position": 9,
+      "url": "https://slikusa.com/blogs/news/how-to-clean-a-carbon-fiber-tripod",
+      "title": "How to Clean a Carbon Fiber Tripod"
+    },
+    {
+      "position": 10,
+      "url": "https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach",
+      "title": "How to Clean a Tripod After Beach Photography - Ulanzi"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "how to clean",
+      "tripod",
+      "saltwater",
+      "beach",
+      "maintenance"
+    ],
+    "gap": "No title uses the exact phrase or names the legs; most are generic 'how to clean a tripod'. None promises a rinse-vs-strip-down rule or covers both lock types. Angle: exact keyword first, a step count, and 'sand and salt' plus a lock-type benefit. No colon, no 'Tested'."
+  },
+  "pendingInlinks": [
+    {
+      "slug": "landscape-photography-tripod",
+      "find": "Twist locks (Alta Pro) are slimmer but pick up grit, so rinse them after sand or salt.",
+      "replace": "Twist locks (Alta Pro) are slimmer but pick up grit, so [rinse them after sand or salt](/blog/how-to-clean-tripod-legs-after-the-beach/).",
+      "appliedAt": "2026-10-30T02:20:07.399Z"
+    },
+    {
+      "slug": "twist-lock-vs-flip-lock-tripod-legs",
+      "find": "Twist-lock threads trap grit inside the collar, so cleaning means unscrewing it.",
+      "replace": "Twist-lock threads trap grit inside the collar, so [cleaning the legs after a beach shoot](/blog/how-to-clean-tripod-legs-after-the-beach/) means unscrewing it.",
+      "appliedAt": "2026-10-30T02:20:08.144Z"
+    }
+  ],
+  "postType": "how-to",
+  "productCount": 0
+}

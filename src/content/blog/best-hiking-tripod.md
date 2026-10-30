@@ -634,7 +634,7 @@ A raised column is a single thin post, so it amplifies every gust and every shut
 
 Use what you're already carrying for ballast. Hanging your pack from the ballast hook adds weight low in the frame, and a DPReview poster suggested "hanging a counter weight from the center column, ensuring not to exceed the weight limit." Keep the bag from swinging by letting it touch the ground lightly.
 
-Feet matter on trail. Spiked feet grip soft ground, snow and ice; rubber feet are better on bare rock. The GT1545T's threaded feet accept spikes, and spikes are available for the Peak Design, though one owner notes they stop it fitting its case.
+Feet matter on trail. Spiked feet grip soft ground, snow and ice; rubber feet are better on bare rock, and our [tripod feet picks by surface](/blog/best-tripod-feet-for-sand-snow-and-rock/) add claws and snow shoes. The GT1545T's threaded feet accept spikes, and spikes are available for the Peak Design, though one owner notes they stop it fitting its case.
 
 ## Hiking tripod problems and the fix for each
 

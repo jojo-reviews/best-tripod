@@ -1,0 +1,18 @@
+{
+  "slug": "leveling-base-vs-leveling-column",
+  "pass": true,
+  "checkedAt": "2026-10-30T02:09:34.827Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker pages: Manfrotto 338 (three dials, +/-5 degrees, 0.6 kg, 5 cm tall, 15 kg / 33.07 lb safety payload, 3/8 in fittings) at manfrotto.com/uk-en/levelling-base-338; Manfrotto 555B (50mm half ball, 15 degrees, 0.67 kg, grip at bottom of column, 7 kg / 15.43 lb payload, 055 Pro compatibility) at manfrotto.com 555B page; Acratech leveling base (15 degrees any direction, 0.24 kg, over 25 lb, 1.77 in tall, 3/8-16 and 1/4-20 versions, QR clamp version) at acratech.net. Chris Wright page for 338 stiff dials and hidden bubble, Nodal Ninja EZ-Leveler II use, kit weights 5DS 2 lb, 70-200 3.5 lb, 303SPH 5.3 lb (sum 10.8 lb, headroom math). Arnaud Frich guide for Gitzo/Feisol tilting columns and the 555B lock quote. FM Forums thread for LB-60 above-apex preference, base-moves-between-tripods and 'degree of angulation' quote. Backcountry Gallery thread for flop, shoulder-carry shift quote, top-heavy quote, RRS gradual lock, 'pain and frustration' quote. Matt Spaugh video summary for column losing vertical adjustment and horizontal position. Reddit excerpt for uneven-terrain point. No prices, ratings or testing claims.",
+    "at": "2026-10-30T02:09:34.371Z",
+    "hash": "edce0e02014cdf8c"
+  }
+}

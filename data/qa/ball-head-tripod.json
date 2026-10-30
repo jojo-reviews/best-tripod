@@ -1,21 +1,21 @@
 {
   "slug": "ball-head-tripod",
   "pass": true,
-  "checkedAt": "2026-10-27T13:41:03.989Z",
+  "checkedAt": "2026-10-30T02:20:12.453Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: internal link to /blog/l-bracket-for-landscape-photography/, which isn't live until 2026-10-30T02:40:00.000Z",
     "only 14 first-person words; owner rule wants at least 16 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp; Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to how-tall-should-a-tripod-be-for-my-height, no claim changed",
-    "at": "2026-10-22T12:20:53.118Z",
-    "hash": "02399b58ba7d2e7f"
+    "notes": "added one internal link to l-bracket-for-landscape-photography, no claim changed",
+    "at": "2026-10-30T02:20:12.049Z",
+    "hash": "d8449f147b75a9c0"
   }
 }

@@ -1,10 +1,12 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-30T01:59:42.690Z",
+  "checkedAt": "2026-10-30T02:20:10.320Z",
   "errors": [],
   "warnings": [
-    "body has 3012 words, over the 2300 limit (top results average 2000): cut repetition and filler",
+    "LIVE POST, FIX: internal link to /blog/leveling-base-vs-leveling-column/, which isn't live until 2026-10-30T02:35:00.000Z",
+    "LIVE POST, FIX: internal link to /blog/how-to-clean-tripod-legs-after-the-beach/, which isn't live until 2026-10-30T02:30:00.000Z",
+    "body has 3024 words, over the 2300 limit (top results average 2000): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,8 +17,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-30 TextRazor semantic pass (top 5: mattpurciel, andrealivieri, schultzphoto, timshields, digital-photography-school). No new prices, ratings or tests; specs unchanged (maker pages + ShutterMuse). New sentences: 10-30 s exposures (Tim Shields), low ISO / narrow aperture / longer shutter speeds on a tripod (digital-photography-school), monopod has one leg (definition). Product first sentences name product, type and maker per maker pages. Summaries/scoreNotes and some advice moved to first person, no experience claims. Long sentences split. Internal links added: travel-tripod-vs-full-size, tripod-center-column-up-or-down.",
-    "at": "2026-10-30T01:59:41.730Z",
-    "hash": "a8e55bc07a7a6e63"
+    "notes": "added one internal link to leveling-base-vs-leveling-column, no claim changed",
+    "at": "2026-10-30T02:20:09.862Z",
+    "hash": "dd3992b38bffbd6b"
   }
 }

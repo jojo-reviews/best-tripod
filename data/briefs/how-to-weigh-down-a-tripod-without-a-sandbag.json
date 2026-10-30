@@ -1,0 +1,453 @@
+{
+  "centralEntity": "tripod",
+  "entityVariants": [
+    "tripod weight",
+    "weigh down a tripod",
+    "tripod counterweight",
+    "weight a tripod",
+    "camera tripod"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "Product",
+      "relation": "central entity",
+      "salience": 0.87
+    },
+    {
+      "name": "weight",
+      "type": "Concept",
+      "relation": "what is added",
+      "salience": 0.74
+    },
+    {
+      "name": "center of gravity",
+      "type": "Concept",
+      "relation": "what added weight lowers",
+      "salience": 0.67
+    },
+    {
+      "name": "sandbag",
+      "type": "Product",
+      "relation": "the item being replaced",
+      "salience": 0.66
+    },
+    {
+      "name": "camera",
+      "type": "Product",
+      "relation": "payload on the tripod",
+      "salience": 0.56
+    },
+    {
+      "name": "gravity",
+      "type": "Concept",
+      "relation": "pulls the weight down",
+      "salience": 0.51
+    },
+    {
+      "name": "lens",
+      "type": "Product",
+      "relation": "payload, shifts balance",
+      "salience": 0.47
+    },
+    {
+      "name": "vibration",
+      "type": "Concept",
+      "relation": "what weight is meant to reduce",
+      "salience": 0.41
+    },
+    {
+      "name": "center column hook",
+      "type": "Part",
+      "relation": "main attachment point",
+      "salience": 0.45
+    },
+    {
+      "name": "bungee cord",
+      "type": "Product",
+      "relation": "tensioned tether to a ground weight",
+      "salience": 0.4
+    },
+    {
+      "name": "tent stake",
+      "type": "Product",
+      "relation": "anchors the tripod without weight",
+      "salience": 0.35
+    },
+    {
+      "name": "water bottle",
+      "type": "Product",
+      "relation": "weight carried empty, filled on site",
+      "salience": 0.35
+    },
+    {
+      "name": "damping",
+      "type": "Concept",
+      "relation": "measured effect of hanging weight",
+      "salience": 0.3
+    },
+    {
+      "name": "load capacity",
+      "type": "Attribute",
+      "relation": "limit that includes the counterweight",
+      "salience": 0.3
+    }
+  ],
+  "attributes": [
+    "weight in kg/lb",
+    "carry weight when empty",
+    "sway in wind",
+    "tension of the tether",
+    "attachment point (hook, apex, legs)",
+    "load capacity",
+    "ground type (rock, sand, grass)"
+  ],
+  "ngrams": [
+    "center of gravity",
+    "camera bag",
+    "water bottle",
+    "tent stakes",
+    "hang freely",
+    "on the ground",
+    "bungee cord",
+    "weigh down a tripod",
+    "center column hook",
+    "load capacity"
+  ],
+  "skipgrams": [
+    "weight…ground",
+    "bag…hook",
+    "cord…taut",
+    "tripod…wind",
+    "bottle…liter"
+  ],
+  "nlpTerms": [
+    "counterweight",
+    "tether",
+    "paracord",
+    "stuff sack",
+    "ankle weights",
+    "stiffness",
+    "damping",
+    "tipping",
+    "gust",
+    "apex",
+    "guy line",
+    "mesh bag"
+  ],
+  "questions": [
+    "What can I use instead of a sandbag on a tripod?",
+    "Should the weight touch the ground?",
+    "How much weight should I hang from a tripod?",
+    "How do I weigh down a tripod with no hook?",
+    "Does hanging weight really stop vibration?"
+  ],
+  "contentGaps": [
+    "Resolve the hang-freely vs rest-on-ground disagreement between the top results",
+    "Measured data: hanging weight barely changes stiffness or damping",
+    "Carry weight of each option (empty vs full)",
+    "Tripods without a hook",
+    "Picking a method by terrain and trip"
+  ],
+  "outline": [
+    {
+      "h2": "How to weigh down a tripod without a sandbag (short answer)",
+      "intent": "direct answer + steps",
+      "h3": []
+    },
+    {
+      "h2": "Tether the tripod to a weight on the ground",
+      "intent": "best method, resolve hang vs ground",
+      "h3": []
+    },
+    {
+      "h2": "Water bottles as a tripod weight",
+      "intent": "sized with 1 kg per liter",
+      "h3": []
+    },
+    {
+      "h2": "A rock bag filled on site",
+      "intent": "zero carry weight",
+      "h3": []
+    },
+    {
+      "h2": "Stake the tripod down with cord, no weight at all",
+      "intent": "tent stakes / guy lines",
+      "h3": []
+    },
+    {
+      "h2": "Tripod with no hook: drape, strap or hold",
+      "intent": "no-hook pain point",
+      "h3": []
+    },
+    {
+      "h2": "What tripod weight does and does not fix",
+      "intent": "thecentercolumn data, load capacity",
+      "h3": []
+    },
+    {
+      "h2": "Which tripod weight to use where",
+      "intent": "decision table",
+      "h3": []
+    }
+  ],
+  "targetWords": 950,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+      "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+      "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b",
+      "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+      "https://theslantedlens.com/studio-equipment-sandbags-quick-tip/ (snippet)",
+      "https://www.facebook.com/groups/885845678796326/posts/1726160811431471/ (snippet, login wall)",
+      "https://www.quora.com/Apart-from-hanging-a-camera-bag-from-the-non-existent-hook-at-the-bottom-of-my-tripod-what-are-the-best-ways-to-stabilise-a-tripod-in-the-wind (snippet, blocked)",
+      "https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/ (snippet)"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "No top result is a product roundup: forum threads (dpreview, Reddit, Facebook, Quora), two YouTube videos, one maker guide (Ulanzi) and one Medium how-to list. They present methods as numbered tips or short paragraphs; the post is a guide with no products.",
+    "avgWords": 900,
+    "avgProducts": 0,
+    "commonSections": [
+      "Hang a camera bag or other weight from the center column hook",
+      "Water bottles as weight",
+      "Bag filled with rocks or sand found on site",
+      "Tie down with cord and tent stakes",
+      "Keep the weight from swinging",
+      "Don't exceed the tripod's load capacity"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": false,
+    "avgWordsNote": "Readable pages: Ulanzi about 1,300 words of body, dpreview thread about 1,100 words of posts, Medium about 950, The Slanted Lens about 300. Average about 900."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.facebook.com/groups/885845678796326/posts/1726160811431471/",
+      "title": "Alternatives to sandbags for tripod stability? - Facebook"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=YRbPpe0dI3k",
+      "title": "How to Use Sandbags on Light Stands the Right Way - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+      "title": "What kind of weight do you use on your tripod hook? | DPReview Forums"
+    },
+    {
+      "position": 4,
+      "url": "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+      "title": "Tripod Counterweighting: Ultimate Stability Hacks & Gear! - Ulanzi"
+    },
+    {
+      "position": 5,
+      "url": "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b",
+      "title": "How to Stabilize a Tripod Without Sandbags - Medium"
+    },
+    {
+      "position": 6,
+      "url": "https://www.instagram.com/reel/DP2a2eqjiSw/?hl=en",
+      "title": "Make this DIY phone tripod weight for under $5 We get quite a bit of wind ..."
+    },
+    {
+      "position": 7,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/",
+      "title": "What is the silliest thing you've had to use as a sandbag or weight? - Reddit"
+    },
+    {
+      "position": 8,
+      "url": "https://www.quora.com/Apart-from-hanging-a-camera-bag-from-the-non-existent-hook-at-the-bottom-of-my-tripod-what-are-the-best-ways-to-stabilise-a-tripod-in-the-wind",
+      "title": "Apart from hanging a camera bag from the non-existent hook at the bottom ..."
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=9Cb0rVXWcRw",
+      "title": "A different way to use the hook on your tripod - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://theslantedlens.com/studio-equipment-sandbags-quick-tip/",
+      "title": "Studio Equipment Sandbags Quick Tip - The Slanted Lens"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": "0 of 10 start with the exact keyword; 1 (Medium) uses the close 'How to Stabilize a Tripod Without Sandbags'",
+    "withYear": "0 of 10",
+    "withNumber": "0 of 10 in the title (Medium has 9 in its subtitle)",
+    "commonModifiers": [
+      "without sandbags",
+      "alternatives to sandbags",
+      "tripod hook",
+      "weight",
+      "stability",
+      "DIY"
+    ],
+    "gap": "No result leads with the exact phrase, gives a count of methods or says which one carries the least weight; ours: exact keyword + 6 methods + 'what to carry' angle."
+  },
+  "commonPoints": [
+    "Hang a camera bag or other weight from the center column hook",
+    "Water bottles work as weight",
+    "Fill a bag with rocks or sand on location",
+    "Tie the tripod down with cord and tent stakes",
+    "Stop the weight swinging in wind",
+    "Stay under the tripod's load capacity"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Resolve the conflict: Ulanzi says the weight must hang freely off the ground, while dpreview posters and The Center Column author say rest it on the ground on a taut cord or bungee; we explain that a grounded weight helps only when the cord is under tension, and a slack one does nothing.",
+      "source": "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability ; https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/ ; https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+      "absentFrom": [
+        "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Measured data: The Center Column hung 2.5 to 20 lb from seven tripods and saw no change in yaw stiffness and only a small damping gain; a resting hand damps more. Weight's real benefit is a lower center of gravity against tipping.",
+      "source": "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+      "absentFrom": [
+        "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+        "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b",
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Sizing water bottles with USGS 1 kg per liter: Ulanzi's 2-5 kg starting range equals 2-5 one-liter bottles, carried empty and filled at a stream or tap.",
+      "source": "https://www.usgs.gov/water-science-school/science/facts-about-water ; https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+      "absentFrom": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+        "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b",
+        "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser table by situation (long hike, car-side, rock slab, sand or soil, no hook, phone tripod) mapping each to the lightest method that works.",
+      "source": "our synthesis of https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/, https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b, https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+      "absentFrom": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+        "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+        "https://medium.com/@aidenmatchette/how-to-stabilize-a-tripod-without-sandbags-354f6b74966b",
+        "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Tripod with no hook (the Quora title's 'non-existent hook'): drape the bag over the leg apex, strap ankle weights to a leg, or loop cord around the leg-to-apex joint.",
+      "source": "https://www.quora.com/Apart-from-hanging-a-camera-bag-from-the-non-existent-hook-at-the-bottom-of-my-tripod-what-are-the-best-ways-to-stabilise-a-tripod-in-the-wind ; https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+      "absentFrom": [
+        "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-weighing-down-for-stability",
+      "pain": "Owners are unsure how to add weight for stability without carrying sandbags",
+      "details": "A light tripod dances on moss or scrub; photographers hang a camera backpack from the hook or center-column hole, but a bag is awkward and not every tripod has room or a hook.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+      ],
+      "quotes": [
+        {
+          "text": "there is extremely little room to hang my camera backpack from the hook for stability",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-hanging-weight-swings",
+      "pain": "A bag hung from the hook swings in the wind and adds shake",
+      "details": "Owners read that a hanging camera bag sways in gusts and look for a weight that stays put.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+        "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/"
+      ],
+      "quotes": [
+        {
+          "text": "I've read that a hanging camera bag on a hook can also sway in the wind.",
+          "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-sandbag-dead-weight",
+      "pain": "Carrying a sandbag or metal weight on a hike is dead weight",
+      "details": "Hikers and landscape shooters don't want to carry a kilo or more of weight that only helps a few shots; a sandbag can cancel a carbon tripod's weight saving.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+        "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+      ],
+      "quotes": [
+        {
+          "text": "The point is that carrying an extra kilo or so of dead weight (OP's photo) isn't the best solution.",
+          "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+        },
+        {
+          "text": "the combined carbon fiber tripod and added weight of carrying a sandbag may actually weigh more than an aluminum tripod.",
+          "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-no-weight-hook",
+      "pain": "The tripod has no hook to hang weight from",
+      "details": "Travel and budget tripods often lack a center column hook, so the usual hang-the-bag advice doesn't work.",
+      "sources": [
+        "https://www.quora.com/Apart-from-hanging-a-camera-bag-from-the-non-existent-hook-at-the-bottom-of-my-tripod-what-are-the-best-ways-to-stabilise-a-tripod-in-the-wind",
+        "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "1 kilogram/liter",
+      "claim": "Water weighs 8.33 pounds per gallon, 1 kilogram per liter",
+      "url": "https://www.usgs.gov/water-science-school/science/facts-about-water",
+      "quote": "Weight: 8.33 pounds/gallon; 1 kilogram/liter"
+    },
+    {
+      "number": "20 lbs",
+      "claim": "The Center Column added 2.5 lb at a time up to 20 lb on seven tripods and found no effect on axial rotation stiffness",
+      "url": "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+      "quote": "For each, I would start with zero weight and add 2.5 lbs at a time up to 20 lbs."
+    },
+    {
+      "number": "2–5 kg",
+      "claim": "Ulanzi suggests starting with roughly 2-5 kg (4-11 lb) of counterweight",
+      "url": "https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability",
+      "quote": "Begin with a modest quantity, roughly 2–5 kg (about 4–11 lbs) normally."
+    }
+  ],
+  "videos": [
+    {
+      "id": "9Cb0rVXWcRw",
+      "title": "Tripod Weight Hack - A different way to use the hook on your tripod",
+      "channel": "Marcus Hutsell",
+      "url": "https://www.youtube.com/watch?v=9Cb0rVXWcRw",
+      "section": "Tether the tripod to a weight on the ground",
+      "note": "2021 (just over 5 years); no newer video shows the grounded taut-line method this clearly"
+    }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "landscape-photography-tripod",
+      "find": "Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs.",
+      "replace": "Hang your pack from the hook so it just touches the ground and cannot swing, or wedge a stone bag between the legs; our guide to [weighting a tripod without sandbags](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/) covers more options.",
+      "appliedAt": "2026-10-30T02:20:03.170Z"
+    },
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "find": "Without one, we fill a stone bag on site or cord the apex to a rock.",
+      "replace": "Without one, we fill a stone bag on site or cord the apex to a rock, as our [no-sandbag tripod weights](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/) guide shows.",
+      "appliedAt": "2026-10-30T02:20:03.980Z"
+    }
+  ],
+  "textrazor": "ran on Ulanzi, The Slanted Lens and The Center Column (dpreview and Medium blocked the fetcher); sharedEntities in data/briefs/how-to-weigh-down-a-tripod-without-a-sandbag.entities.json",
+  "postType": "guide"
+}
