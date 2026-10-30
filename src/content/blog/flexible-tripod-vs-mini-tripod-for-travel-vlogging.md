@@ -257,7 +257,7 @@ You've found the shot: the harbor at sunset, the camera needs to be about a mete
 
 ## Flexible Tripod vs Mini Tripod for Travel Vlogging – The Short Answer
 
-**The flexible tripod vs mini tripod choice comes down to legs: a flexible tripod has bendable ball-and-socket legs that wrap around objects, while a rigid mini tripod has fixed legs that stand on flat ground.** Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/)), so the choice comes down to where you'll set the camera.
+**The flexible tripod vs mini tripod choice comes down to legs: a flexible tripod has bendable ball-and-socket legs that wrap around objects, while a rigid mini tripod has fixed legs that stand on flat ground.** Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/) and our [GoPro tripod picks](/blog/best-tripod-for-gopro/)), so the choice comes down to where you'll set the camera.
 
 Here is the quick decision:
 

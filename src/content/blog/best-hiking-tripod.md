@@ -614,7 +614,7 @@ Heavier kits push it too far. One B&H owner found the ball head post flexing wit
 
 ## Mini tripod for hiking or a full-size tripod?
 
-**A mini tripod for hiking is enough only if you shoot from rocks, rails and ledges and never need standing height; for sunrise and sunset shots over a foreground, a full-size tripod earns its weight.** The PIXI EVO tops out at 7.7 in and the GorillaPod 5K has no published height, so both need something to stand on.
+**A mini tripod for hiking is enough only if you shoot from rocks, rails and ledges and never need standing height; for sunrise and sunset shots over a foreground, a full-size tripod earns its weight.** The PIXI EVO tops out at 7.7 in and the GorillaPod 5K has no published height, so both need something to stand on, like every [best GoPro tripod](/blog/best-tripod-for-gopro/) pick.
 
 A full-size carbon fiber tripod pays for itself the moment you want a waterfall long exposure with an ND filter, a level horizon above trailside brush, or a 70-200mm at dusk. If your hikes are mostly about landscapes, our [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) go further on low-angle reach. Carrying a mini as well as a full-size tripod is a reasonable compromise for long trips, because 9.4 oz rarely changes a decision.
 

@@ -1,0 +1,75 @@
+{
+  "keyword": "best tripod for gopro",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "GoPro",
+      "type": "Agent",
+      "pages": 4,
+      "relevance": 0.99,
+      "wiki": "http://en.wikipedia.org/wiki/GoPro"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "GoPro camera",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": ""
+    },
+    {
+      "entity": "GoPro accessories",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": ""
+    },
+    {
+      "entity": "Xenvo",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": ""
+    },
+    {
+      "entity": "JOBY",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": ""
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Selfie",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+    }
+  ],
+  "missingFromPost": [
+    "Mirrorless camera"
+  ],
+  "errors": [
+    "https://gopro.com/en/us/news/best-camera-tripods: <html lang=\"en\"><head><title>gopro.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAFhpl9nDVF_0AotUlZQ==','hsh':'FF4DF6C07B17193B657C6578ECCF2D','t':'bv','qp':'','s':45613,'e':'1f0c096c8f54dbc83b1c99df3b33c6c7e047a73e7916501f6b0955e2a8ef4172b5d38f91564e4288631d47e07ad2b178','host':'geo.captcha-delivery.com','cookie':'UbYMhIl8YOzLOUdneYss9EjrBxRb90eAnHIllX~JBBuEompNrsdoCKgFh87Iqwl0znZVPHE_WN8aXThJU63i~OR0Zua5ySVRNBaoWsjP_sQGlANyq7zYjOnwAsgfEgzB'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>"
+  ]
+}

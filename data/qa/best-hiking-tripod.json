@@ -1,11 +1,10 @@
 {
   "slug": "best-hiking-tripod",
   "pass": true,
-  "checkedAt": "2026-10-30T02:20:06.120Z",
+  "checkedAt": "2026-10-30T12:44:22.305Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: internal link to /blog/best-tripod-feet-for-sand-snow-and-rock/, which isn't live until 2026-10-30T02:25:00.000Z",
-    "body has 3458 words, over the 3450 limit (top results average 3000): cut repetition and filler",
+    "body has 3464 words, over the 3450 limit (top results average 3000): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Traveler Series 1 GT1545T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree GT Carbon Travel Tripod (MKBFRTC4GT-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-feet-for-sand-snow-and-rock, no claim changed",
-    "at": "2026-10-30T02:20:05.581Z",
-    "hash": "d06231360d7d2bbf"
+    "notes": "added one internal link to best-tripod-for-gopro, no claim changed",
+    "at": "2026-10-30T12:44:21.613Z",
+    "hash": "0411fd5a08fe6da0"
   }
 }

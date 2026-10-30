@@ -193,7 +193,7 @@
       "h3": []
     }
   ],
-  "targetWords": 1650,
+  "targetWords": 1815,
   "serpStructure": {
     "analyzedUrls": [
       "https://improvephotography.com/72078/best-gopro-tripod/",
@@ -461,16 +461,104 @@
       ]
     },
     {
-      "name": "GoPro MAX Grip + Tripod (one independent page)",
+      "name": "GoPro Volta (added 2026-10-30)",
       "pages": [
-        "https://improvephotography.com/72078/best-gopro-tripod/"
+        "https://fixthephoto.com/best-gopro-tripod.html",
+        "https://gopro.com/en/us/news/best-camera-tripods",
+        "https://www.reddit.com/r/gopro/comments/1h1t3v9/gopro_mount_comparison_volta_vs_max_grip_tripod/"
       ]
     },
     {
-      "name": "GoPro Volta (one independent page)",
+      "name": "GoPro MAX Grip + Tripod (added 2026-10-30)",
       "pages": [
-        "https://fixthephoto.com/best-gopro-tripod.html"
+        "https://improvephotography.com/72078/best-gopro-tripod/",
+        "https://gopro.com/en/us/news/best-camera-tripods",
+        "https://www.reddit.com/r/gopro/comments/1h1t3v9/gopro_mount_comparison_volta_vs_max_grip_tripod/"
       ]
+    }
+  ],
+  "textrazor": {
+    "date": "2026-10-30",
+    "urls": [
+      "https://improvephotography.com/72078/best-gopro-tripod/",
+      "https://gopro.com/en/us/news/best-camera-tripods",
+      "https://fixthephoto.com/best-gopro-tripod.html",
+      "https://thesweetcamera.com/best-gopro-tripod/",
+      "https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/"
+    ],
+    "file": "data/briefs/best-tripod-for-gopro.entities.json",
+    "sharedEntities": [
+      {
+        "entity": "GoPro",
+        "pages": 4,
+        "relevance": 0.99
+      },
+      {
+        "entity": "Tripod (photography)",
+        "pages": 4,
+        "relevance": 0.96
+      },
+      {
+        "entity": "Camera",
+        "pages": 4,
+        "relevance": 0.55
+      },
+      {
+        "entity": "GoPro camera",
+        "pages": 2,
+        "relevance": 0.63
+      },
+      {
+        "entity": "GoPro accessories",
+        "pages": 2,
+        "relevance": 0.51
+      },
+      {
+        "entity": "Xenvo",
+        "pages": 2,
+        "relevance": 0.33
+      },
+      {
+        "entity": "JOBY",
+        "pages": 2,
+        "relevance": 0.32
+      },
+      {
+        "entity": "Mirrorless camera",
+        "pages": 2,
+        "relevance": 0.28
+      },
+      {
+        "entity": "Selfie",
+        "pages": 2,
+        "relevance": 0.28
+      }
+    ],
+    "missingFromPost": [
+      "Mirrorless camera"
+    ],
+    "worked": "Mirrorless camera added in the full-size tripod advice; central entity 'GoPro tripod' leads H2s and topic sentences (audit salience 0.94)"
+  },
+  "improvements": [
+    {
+      "date": "2026-10-30",
+      "source": "GSC last 24h (snapshot to 2026-10-24)",
+      "queries": [
+        "gopro tripod (pos 20, 2 impr)",
+        "gopro tripod mount alternatives review (pos 27.5, 2 impr)",
+        "best gopro tripod (pos 8, 1 impr)",
+        "gopro tripod review (pos 25, 1 impr)"
+      ],
+      "reasons": [
+        "climb",
+        "gaps: alternatives"
+      ],
+      "oldSeoTitle": "Best Tripod for GoPro (2026) – 3 Picks From 4.6 to 19.5 in",
+      "newSeoTitle": "Best Tripod for GoPro (2026) – 5 Picks From 4.6 to 22 in",
+      "oldTitle": "Best Tripod for GoPro (2026) – Pocket, Grip and Flexible Picks",
+      "newTitle": "Best Tripod for GoPro (2026) – 5 Pocket, Grip and Flexible Picks",
+      "ctrBefore": "0 clicks / 6 impressions (7d), page avg position 21.3; ctr reason did not fire, title changed for the product count",
+      "changes": "3 -> 5 products (added GoPro Volta B0DPNQFWHH and GoPro MAX Grip + Tripod B07WRMQD69, both on 2+ top-10 pages, owner reviews), 5-column comparison table, H3 'GoPro tripod mount alternatives', HERO12 Black 1/4-20 thread (GoPro support), Volta battery FAQ, generic H2s renamed (Problems, Verdict), first-person product write-ups, intro internal link in first third, TextRazor pass, body 1541 -> ~1817 words (SERP avg 1650, +10% cap)"
     }
   ]
 }

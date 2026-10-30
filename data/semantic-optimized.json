@@ -14,5 +14,9 @@
   "landscape-photography-tripod": {
     "at": "2026-10-30T02:02:42.142Z",
     "note": "TextRazor entities, salience 0.61->0.87, chooser, internal links both ways (owner request)"
+  },
+  "best-tripod-for-gopro": {
+    "at": "2026-10-30T12:45:32.590Z",
+    "note": "improve-agent with TextRazor pass 2026-10-30"
   }
 }
