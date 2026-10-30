@@ -530,17 +530,6 @@ products:
         - title: Masterfoto customer reviews
           url: >-
             https://masterfoto.lv/en/photo-tripods/40826-sirui-traveler-5c-carbon-tripod
-updatedDate: '2026-10-22T10:29:00.000Z'
-reviewedDate: '2026-10-22'
-heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
-heroAlt: >-
-  Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
-  buying guide
-related:
-  - best-tripod-for-leica-q3
----
-
-895g-31cm-138cm.html
           reviews: 1
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
@@ -1022,7 +1011,6 @@ sources:
     url: 'https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods'
   - title: 'Sony Help Guide: SteadyShot Settings (turn off on a tripod)'
     url: 'https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html'
-reviewedDate: '2026-10-18T00:00:00.000Z'
 faqs:
   - q: What size tripod do you need for a mirrorless camera?
     a: >-
@@ -1078,15 +1066,14 @@ faqs:
       light kits only: the Sirui is rated 4 kg and the Leofoto tops out at about
       114 cm, well below eye level for most adults.
 author: editorial-team
+updatedDate: '2026-10-22T10:29:00.000Z'
+reviewedDate: '2026-10-22'
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
   buying guide
 related:
-  - travel-tripod-vs-full-size-tripod-for-landscape-photography
-  - 4-section-vs-5-section-tripod
-  - best-tripod-that-fits-in-carry-on-luggage
-  - best-hiking-tripod
+  - best-tripod-for-leica-q3
 ---
 
 The best travel tripod for mirrorless camera kits holds your body and lens with headroom, reaches a usable height with the center column down, and fits your bag. For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb rated load, a 15.5-inch fold and 51.25 inches with the column down. For a small APS-C kit the Sirui Traveler 5C saves weight, and for heavy telephotos we'd pick the 3 Legged Thing Punks Travis 2.0 (fixed-lens shooters can see our [tripods for the Leica Q3](/blog/best-tripod-for-leica-q3/)).
@@ -1250,7 +1237,7 @@ An Arca-Swiss compatible clamp lets you swap plates and L-brackets between tripo
 - Spread the legs and shoot lower in wind, checking the load rating at that wider angle.
 - Rinse legs and locks with fresh water after sand or salt spray, then dry them before packing.
 
-For long exposure work, use a 2-second timer or a remote. Wait out gusts. Turn off in-body stabilization too: Sony's help guide says to turn SteadyShot off when using a tripod because it can cause a malfunction when shooting.
+For long exposure work, use a 2-second timer or a remote. Wait out gusts. If landscapes are your main use, our [landscape photography tripod picks](/blog/landscape-photography-tripod/) compare column-down height and low-angle reach. Turn off in-body stabilization too: Sony's help guide says to turn SteadyShot off when using a tripod because it can cause a malfunction when shooting.
 
 ## Final Verdict: Which Travel Tripod for Mirrorless Camera Kits Should You Buy?
 

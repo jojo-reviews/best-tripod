@@ -1,18 +1,13 @@
 {
   "slug": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-29T19:43:26.346Z",
+  "checkedAt": "2026-10-30T02:02:42.015Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: 0 FAQs (need 3-8)",
-    "LIVE POST, FIX: 0 sources (need at least 2)",
-    "only 35 first-person words; owner rule wants at least 62 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Carbon Fiber); Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH); Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH); Benro Rhino Carbon Fiber Zero Series Travel Tripod with VX20 Head (FRHN05CVX20); Benro Slim Aluminum Travel Tripod Kit (FSL09AN00); Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head; Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "only 30 first-person words; owner rule wants at least 32 (about 1 per 100 words: I, my, me, we, our, us)",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Carbon Fiber); Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH); Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH); Benro Rhino Carbon Fiber Zero Series Travel Tripod with VX20 Head (FRHN05CVX20); Benro Slim Aluminum Travel Tripod Kit (FSL09AN00); Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head; Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head; Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head; Gitzo Traveler Series 1 GT1555T; Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head; Vanguard VEO 3 GO 235CB; 3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0; K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head; Ulanzi Zero F38 Carbon Fiber Travel Tripod",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 6328 words, over the 3105 limit (top results average 2700): cut repetition and filler",
-    "a sentence repeats an earlier one almost word for word: \"For most full-frame shooters that is the Peak Design Travel Tripod (Carbon Fiber): a 20 lb\"",
-    "features 8 products; the plan for this post was 15",
+    "body has 3177 words, over the 3105 limit (top results average 2700): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -21,14 +16,18 @@
     "product \"Benro Slim Aluminum Travel Tripod Kit (FSL09AN00)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "Amazon link \"Gitzo GT1555T Traveler Series 1 tripod\" doesn't match any listed product",
-    "Amazon link \"Vanguard VEO 3 GO 235CB\" doesn't match any listed product",
-    "Amazon link \"3 Legged Thing Punks Travis 2.0 AirHed Neo 2.0\" doesn't match any listed product"
+    "product \"Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Gitzo Traveler Series 1 GT1555T\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25LR Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"3 Legged Thing Punks Travis 2.0 with AirHed Neo 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-sony-a6700, no claim changed",
-    "at": "2026-10-29T19:43:25.661Z",
-    "hash": "7bd71af78d39ef8e"
+    "notes": "2026-10-30: repaired front matter broken since 2026-10-16 (a stray --- had pushed products 9-15, sources and FAQs into the body); restored them from the file's own tail, no facts changed; plus one internal link to landscape-photography-tripod",
+    "at": "2026-10-30T02:02:41.486Z",
+    "hash": "f9004c08a87f94cd"
   }
 }

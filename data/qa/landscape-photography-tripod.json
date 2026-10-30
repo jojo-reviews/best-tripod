@@ -1,13 +1,10 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-10-29T15:40:35.069Z",
+  "checkedAt": "2026-10-30T01:59:42.690Z",
   "errors": [],
   "warnings": [
-    "only 24 first-person words; owner rule wants at least 31 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head); Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head; Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3); Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 3102 words, over the 2300 limit (top results average 2000): cut repetition and filler",
+    "body has 3012 words, over the 2300 limit (top results average 2000): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -18,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-macro-photography, no claim changed",
-    "at": "2026-10-29T15:40:34.579Z",
-    "hash": "657bb20540b87ef1"
+    "notes": "2026-10-30 TextRazor semantic pass (top 5: mattpurciel, andrealivieri, schultzphoto, timshields, digital-photography-school). No new prices, ratings or tests; specs unchanged (maker pages + ShutterMuse). New sentences: 10-30 s exposures (Tim Shields), low ISO / narrow aperture / longer shutter speeds on a tripod (digital-photography-school), monopod has one leg (definition). Product first sentences name product, type and maker per maker pages. Summaries/scoreNotes and some advice moved to first person, no experience claims. Long sentences split. Internal links added: travel-tripod-vs-full-size, tripod-center-column-up-or-down.",
+    "at": "2026-10-30T01:59:41.730Z",
+    "hash": "a8e55bc07a7a6e63"
   }
 }

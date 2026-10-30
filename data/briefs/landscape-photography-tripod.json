@@ -10,14 +10,135 @@
   ],
   "entities": [
     {
-      "name": "Peak Design Travel Tripod (Aluminum)",
-      "type": "product",
-      "relation": "5-section tripod with built-in ball head, 15.5 in folded, #1 pick at digital-photography-school"
+      "name": "camera tripod",
+      "type": "product type",
+      "relation": "central entity: three-legged camera support; TextRazor top entity on all 5 top pages (TextRazor: tripod (photography))",
+      "salience": 0.93
+    },
+    {
+      "name": "tripod legs",
+      "type": "component",
+      "relation": "leg sections, leg angles and leg locks decide stiffness and low reach",
+      "salience": 0.69
+    },
+    {
+      "name": "landscape photography",
+      "type": "genre",
+      "relation": "the use case: long exposures, low light, sunrise and sunset",
+      "salience": 0.64
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raises height but adds vibration; removable or reversible on some models",
+      "salience": 0.62
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "working height with the column down vs eye level",
+      "salience": 0.62
     },
     {
       "name": "Manfrotto Befree Advanced",
       "type": "product",
-      "relation": "lever-lock aluminum travel tripod with ball head, 50.39 in max"
+      "relation": "lever-lock aluminum travel tripod with ball head, 50.39 in max",
+      "salience": 0.58
+    },
+    {
+      "name": "Manfrotto MT190XPRO3",
+      "type": "product",
+      "relation": "3-section aluminum, 3.54 in minimum height with horizontal column, semi-pro landscape pick",
+      "salience": 0.58
+    },
+    {
+      "name": "Gitzo Series 1 Traveler",
+      "type": "product",
+      "relation": "premium carbon tripod, Matt Purciel's top pick",
+      "salience": 0.58
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the Befree Advanced and MT190XPRO3",
+      "salience": 0.58
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "premium carbon tripods (Series 1 Traveler) named by top pages",
+      "salience": 0.58
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "fast framing; most common landscape head",
+      "salience": 0.53
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "ball, geared or pan-tilt head that holds the camera on the legs",
+      "salience": 0.53
+    },
+    {
+      "name": "Benro Mammoth",
+      "type": "product",
+      "relation": "heavy-duty carbon tripod reviewed by Alan Ranger",
+      "salience": 0.51
+    },
+    {
+      "name": "camera",
+      "type": "gear",
+      "relation": "body plus lens weight sets the load the tripod must carry",
+      "salience": 0.51
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "carbon tripods (Mammoth) named by top pages",
+      "salience": 0.51
+    },
+    {
+      "name": "monopod",
+      "type": "product type",
+      "relation": "one-leg support; faster but not steady enough for 10-30 s landscape exposures",
+      "salience": 0.48
+    },
+    {
+      "name": "focus stacking and panoramas",
+      "type": "concept",
+      "relation": "techniques that need a level, locked-off tripod",
+      "salience": 0.38
+    },
+    {
+      "name": "shutter speed",
+      "type": "concept",
+      "relation": "slow shutter speeds, low ISO and narrow apertures a tripod allows (TextRazor: exposure (photography))",
+      "salience": 0.3
+    },
+    {
+      "name": "backpack",
+      "type": "gear",
+      "relation": "folded length decides whether the tripod fits on the pack",
+      "salience": 0.28
+    },
+    {
+      "name": "handheld",
+      "type": "concept",
+      "relation": "the alternative a tripod replaces for low ISO and slow shutter speeds (TextRazor: hand-held camera)",
+      "salience": 0.27
+    },
+    {
+      "name": "long exposure",
+      "type": "concept",
+      "relation": "the main reason landscape shooters need a tripod",
+      "salience": 0.21
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "type": "product",
+      "relation": "5-section tripod with built-in ball head, 15.5 in folded, #1 pick at digital-photography-school"
     },
     {
       "name": "Vanguard Alta Pro 2+ 263AB",
@@ -25,19 +146,9 @@
       "relation": "3-section aluminum tripod, 8.4 in low angle, 22 lb load"
     },
     {
-      "name": "Manfrotto MT190XPRO3",
-      "type": "product",
-      "relation": "3-section aluminum, 3.54 in minimum height with horizontal column, semi-pro landscape pick"
-    },
-    {
       "name": "Feisol CT-3472",
       "type": "product",
       "relation": "4-section carbon legs-only tripod, 57.87 in, 66 lb load"
-    },
-    {
-      "name": "Gitzo Series 1 Traveler",
-      "type": "product",
-      "relation": "premium carbon tripod, Matt Purciel's top pick"
     },
     {
       "name": "FLM CP30-L4 II",
@@ -45,19 +156,9 @@
       "relation": "center-column-free carbon tripod reviewed by Andrea Livieri"
     },
     {
-      "name": "Benro Mammoth",
-      "type": "product",
-      "relation": "heavy-duty carbon tripod reviewed by Alan Ranger"
-    },
-    {
       "name": "Really Right Stuff BH-30",
       "type": "product",
       "relation": "ball head recommended by Matt Purciel"
-    },
-    {
-      "name": "ball head",
-      "type": "component",
-      "relation": "fast framing; most common landscape head"
     },
     {
       "name": "geared head",
@@ -68,11 +169,6 @@
       "name": "pan-tilt head",
       "type": "component",
       "relation": "three-way head, deliberate framing"
-    },
-    {
-      "name": "center column",
-      "type": "component",
-      "relation": "raises height but adds vibration; removable or reversible on some models"
     },
     {
       "name": "Arca-Swiss plate and L-bracket",
@@ -88,16 +184,6 @@
       "name": "neutral density filter",
       "type": "concept",
       "relation": "long exposures that make tripod stability matter"
-    },
-    {
-      "name": "long exposure",
-      "type": "concept",
-      "relation": "the main reason landscape shooters need a tripod"
-    },
-    {
-      "name": "focus stacking and panoramas",
-      "type": "concept",
-      "relation": "techniques that need a level, locked-off tripod"
     }
   ],
   "attributes": [
@@ -115,7 +201,8 @@
     "Arca-Swiss compatibility",
     "stability in wind",
     "hook for hanging a bag",
-    "price tier"
+    "price tier",
+    "head included vs legs only"
   ],
   "ngrams": [
     "landscape photography tripod",
@@ -135,7 +222,12 @@
     "travel tripod",
     "spike feet",
     "sunrise and sunset",
-    "wind and vibration"
+    "wind and vibration",
+    "tripod head",
+    "tripod legs",
+    "long exposure photography",
+    "slow shutter speeds",
+    "L-bracket"
   ],
   "skipgrams": [
     "tripod…landscape",
@@ -149,7 +241,9 @@
     "folded…length",
     "max…load",
     "uneven…ground",
-    "hang…bag"
+    "hang…bag",
+    "tripod…head",
+    "shutter…speed"
   ],
   "nlpTerms": [
     "stability",
@@ -180,7 +274,15 @@
     "rubber feet",
     "leg angle",
     "rigidity",
-    "flex"
+    "flex",
+    "monopod",
+    "handheld",
+    "shutter speed",
+    "ISO",
+    "aperture",
+    "backpack",
+    "Gitzo",
+    "Benro"
   ],
   "questions": [
     "What is the best tripod for landscape photography?",
@@ -477,5 +579,29 @@
         }
       ]
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-10-30",
+    "pagesAnalyzed": 5,
+    "urls": [
+      "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "https://www.andrealivieriphoto.com/blog/flm-cp30-l4-ii-tripod-review",
+      "https://www.schultzphoto.com/2020/08/27/how-to-choose-a-tripod-for-landscape-wildlife-photographer/",
+      "https://timshields.com/5-features-every-good-tripod-needs-to-have/",
+      "https://digital-photography-school.com/best-tripods-for-landscape-photography/"
+    ],
+    "missingFromPostBefore": [
+      "Tripod head",
+      "Long-exposure photography",
+      "Monopod",
+      "Exposure (photography)",
+      "Hand-held camera"
+    ],
+    "ignoredNoise": [
+      "Screw",
+      "Image",
+      "Gear",
+      "Photograph"
+    ]
+  }
 }

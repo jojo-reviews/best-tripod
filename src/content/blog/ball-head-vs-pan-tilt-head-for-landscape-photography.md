@@ -467,7 +467,7 @@ Check your camera and lens makers' published weights, add them up with any L-bra
 
 **The best head type for a landscape tripod is a mid-size Arca-Swiss ball head with a panning base for most hikers, and a geared head for slow, precise shooters who rarely walk far.** If you can't decide, a ball head plus a leveling base is the hybrid that covers both.
 
-If we were packing for a week of hiking, we'd take a light Arca-Swiss ball head like the LH-40 or the K-30X. If we mostly shot sunsets near the car and stitched panoramas, we'd pick the geared Benro. Every head type we cover sits together on our [tripod heads category page](/category/tripod-heads/). The geared head vs ball head choice is really about how much time you spend per frame.
+If we were packing for a week of hiking, we'd take a light Arca-Swiss ball head like the LH-40 or the K-30X. If we mostly shot sunsets near the car and stitched panoramas, we'd pick the geared Benro. If you still need the legs, our [landscape photography tripod picks](/blog/landscape-photography-tripod/) show which ones ship with a ball head and which are legs only. Every head type we cover sits together on our [tripod heads category page](/category/tripod-heads/). The geared head vs ball head choice is really about how much time you spend per frame.
 
 ## Buying Guide: What to Check Before You Buy a Landscape Head
 

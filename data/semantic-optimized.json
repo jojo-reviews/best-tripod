@@ -10,5 +10,9 @@
   "best-tripod-for-tall-photographers-over-6-feet": {
     "at": "2026-10-29T19:46:20.889Z",
     "note": "TextRazor entities (Feisol, landscape photography, tripod head...), topic headings, n-gram coverage 57->100%"
+  },
+  "landscape-photography-tripod": {
+    "at": "2026-10-30T02:02:42.142Z",
+    "note": "TextRazor entities, salience 0.61->0.87, chooser, internal links both ways (owner request)"
   }
 }
