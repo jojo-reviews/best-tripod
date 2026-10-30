@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-laser-level",
+  "pass": true,
+  "checkedAt": "2026-10-30T10:37:55.209Z",
+  "errors": [],
+  "warnings": [
+    "product \"Bosch BT150 Compact Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DeWalt DW0881T Laser Level Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Bosch BT160 Aluminum Contractor's Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DeWalt DW0737 Construction Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Bosch BT300HD Elevator Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker pages: Bosch BT150 (boschtools.com: 22-61 in, 1/4-20 detachable base, 2 lb, aluminum, fine adjustment crank, works with Bosch line/point lasers), BT160 (boschtools.com: 38-63 in icon, 65 in bullet noted, 5/8-11 flat head, 9 lb, plumb bob hook), BT300 HD (boschtools.com: 47-110 in, 5/8-11, 16 lb, gear and rack, quick clamp, collet locks, rubber feet, two-section column), DeWalt DW0737 (dewalt.com + Acme: 38-60 in, 5/8-11 flat head, quick-release legs, pointed steel feet, built-in strap; 8.3 lb from Amazon listing), DW0881T (dewalt.com: 72 in open, 38 in closed, 1/4-20, tilting head with integrated level, aluminum; 3 lb from Amazon listing). Amazon US listings B00SIL5O36, B004EIL4R2, B004K1W332, B000RFRM0O, B07RX1Z2S1 checked by hand via Firecrawl: in stock, ships from and sold by Amazon.com. Stats: Quinn Equipment page states rotary lasers self-level within +/-5 deg and tripods 40-65 in; Bosch pages state 22-61 in and 110/47 in. Owner quotes checked verbatim on boschtools.com BT150 and dewalt.com DW0737 review pages and the Garage Journal thread; Reddit quotes from Firecrawl search excerpts of the same thread URLs (r/Tile, r/HomeImprovement, r/Dewalt). Owner counts are the reviews actually read (24 total). No prices, star ratings or testing claims. Re-checked after edits: removed a price mention, moved one internal link.",
+    "at": "2026-10-30T10:37:54.747Z",
+    "hash": "9e3f8e83c07d61eb"
+  }
+}

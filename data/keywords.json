@@ -4367,8 +4367,8 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "secondaryKeywords": [
       "best tripod for nikon p1100",
@@ -4387,7 +4387,9 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
     "slug": "best-tripod-for-nikon-p1000",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Owner replaced the queue with a new keyword list on 2026-10-22",
+    "startedAt": "2026-10-30T10:18:23.277Z",
+    "publishedAt": "2026-10-30T10:38:13.056Z"
   },
   {
     "status": "replaced",
@@ -5231,7 +5233,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "can you use any tripod for a camera",
@@ -5250,10 +5252,12 @@
     "funnel": "tofu",
     "cluster": "info_any",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 7 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-30T10:18:23.956Z",
+    "publishedAt": "2026-10-30T10:26:32.894Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for laser level",
@@ -5273,10 +5277,13 @@
     "funnel": "bofu",
     "cluster": "laser",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-10-30T10:18:28.078Z",
+    "publishedAt": "2026-10-30T10:38:01.787Z"
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for golf swing",
@@ -5296,11 +5303,74 @@
     "funnel": "bofu",
     "cluster": "golf",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "parkedAt": "2026-10-30T10:27:31.820Z",
+    "lastError": "fewer than 5 qualifying products (owner rule 2026-10-28): only 4 products are recommended by 2+ independent top-10 pages AND have an in-stock Amazon US listing",
+    "serpProducts": [
+      {
+        "name": "iRangeSports Stick EXT",
+        "asin": "B0C41V9YN8",
+        "pages": [
+          "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+          "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+          "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+        ]
+      },
+      {
+        "name": "SelfieGolf Record Golf Swing Cell Phone Holder",
+        "asin": "B07BRFQ96N",
+        "pages": [
+          "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+          "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+          "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+        ]
+      },
+      {
+        "name": "GreatYYT Monopod and Tripod Selfie Stick",
+        "asin": "B0CZJGXZVF",
+        "pages": [
+          "https://golferspeak.net/best-golf-tripods/",
+          "https://golfworldtrips.com/best-golf-tripods/"
+        ]
+      },
+      {
+        "name": "EUG-PRODUCTS 62\" Phone Tripod & Selfie Stick for Golf",
+        "asin": "B0CR3QM6RN",
+        "pages": [
+          "https://golferspeak.net/best-golf-tripods/",
+          "https://golfworldtrips.com/best-golf-tripods/"
+        ]
+      },
+      {
+        "name": "STRIVON POD (Golfpod 2.0)",
+        "pages": [
+          "https://v1sports.com/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers/",
+          "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+          "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/"
+        ],
+        "note": "no Amazon US listing (sold only on strivongolf.com)"
+      },
+      {
+        "name": "GOLFTEC Cell Phone Tripod",
+        "asin": "B0CK8FXGVX",
+        "pages": [
+          "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+        ],
+        "note": "Amazon US listing currently unavailable; only 1 independent page"
+      },
+      {
+        "name": "GPOD",
+        "asin": "B09W68CY87",
+        "pages": [
+          "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+        ],
+        "note": "Amazon US listing currently unavailable"
+      }
+    ]
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for gym videos",
     "slug": "best-tripod-for-gym-videos",
@@ -5318,7 +5388,9 @@
     "funnel": "bofu",
     "cluster": "gym",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 6 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-30T10:28:36.662Z",
+    "publishedAt": "2026-10-30T10:44:56.071Z"
   },
   {
     "status": "pending",
@@ -5343,7 +5415,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for fujifilm x100vi",
@@ -5362,7 +5434,10 @@
     "funnel": "bofu",
     "cluster": "x100",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 5 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-30T10:18:28.503Z",
+    "productCount": 5,
+    "publishedAt": "2026-10-30T10:35:30.659Z"
   },
   {
     "status": "pending",

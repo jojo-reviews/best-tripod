@@ -370,6 +370,8 @@ heroImage: /images/featured/best-tripod-for-telescope.png
 heroAlt: >-
   Best Tripod for Telescope (2026) – 4 Picks Matched to Your Mount – Best Tripod
   buying guide
+related:
+  - can-you-use-any-tripod-for-a-camera
 ---
 
 The best tripod for telescope use is the one built for the mount or scope you already own, so check its thread first. For a small Maksutov, short refractor or spotting scope with a 1/4-20 socket, I pick the [Celestron Heavy-Duty Alt-Azimuth Tripod](amzn:Celestron+Heavy-Duty+Alt-Azimuth+Tripod+93607). For an AZ-GTi, Star Adventurer GTi or small smart telescope, I pick the [Sky-Watcher Star Adventurer Tripod](amzn:Sky+Watcher+Star+Adventurer+Tripod+S20555). A travel scope that also goes out by day gets the [Celestron TrailSeeker Tripod](amzn:Celestron+TrailSeeker+Tripod+82050), and a Wave 150i or 100i gets the [Sky-Watcher Wave Carbon Fiber Tripod](amzn:Sky-Watcher+Wave+Carbon+Fiber+Tripod+S30910).

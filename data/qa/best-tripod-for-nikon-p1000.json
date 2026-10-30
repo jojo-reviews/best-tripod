@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-nikon-p1000",
+  "pass": true,
+  "checkedAt": "2026-10-30T10:38:06.211Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept T255A4+BH-28L Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Final re-verification 2026-10-30 after a one-sentence trim in the Sirui section (owner praise for portability, one stuck twist lock: Verkkokauppa/Digital Photo Mentor owner notes). All specs, owner statements, load multiples and Amazon listings as verified in the previous notes: Nikon spec page and P1000 manual, manfrotto.com 290 Xtra, kfconcept.com T255A4, store.sirui.com spec page, B&H Befree Advanced lever and Falcam TreeRoot pages, DPReview/NikonForums/Reddit threads, KentFaith and B&H reviews.",
+    "at": "2026-10-30T10:38:05.706Z",
+    "hash": "c16ad845951a2a88"
+  }
+}

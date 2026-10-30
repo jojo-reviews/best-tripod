@@ -1,0 +1,618 @@
+{
+  "keyword": "best tripod for fujifilm x100vi",
+  "createdAt": "2026-10-30T10:35:30.661Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Fujifilm X100VI",
+    "entityVariants": [
+      "X100VI tripod",
+      "tripod for the X100VI",
+      "travel tripod for X100VI",
+      "tripod for X100V",
+      "mini tripod for X100VI"
+    ],
+    "entities": [
+      {
+        "name": "Tripod",
+        "type": "product category",
+        "relation": "the central product; travel, tabletop and flexible types",
+        "salience": 0.95,
+        "pages": 2
+      },
+      {
+        "name": "Tripod (photography)",
+        "type": "concept",
+        "relation": "camera support with three legs, head and plate",
+        "salience": 0.84,
+        "pages": 4
+      },
+      {
+        "name": "Fujifilm X100VI",
+        "type": "camera",
+        "relation": "fixed-lens 23mm compact, 521 g with battery and card, 6-stop IBIS, tripod socket moved vs X100V",
+        "salience": 0.8
+      },
+      {
+        "name": "Camera",
+        "type": "device",
+        "relation": "the load the tripod carries",
+        "salience": 0.62,
+        "pages": 3
+      },
+      {
+        "name": "Carbon fiber",
+        "type": "material",
+        "relation": "leg material of the SIRUI Traveler 5CX; lighter than aluminum",
+        "salience": 0.58,
+        "pages": 4
+      },
+      {
+        "name": "Vanguard",
+        "type": "brand",
+        "relation": "tripod maker named in top pages (VEO 3T, Vesta GO); not picked",
+        "salience": 0.57,
+        "pages": 2
+      },
+      {
+        "name": "Leg",
+        "type": "part",
+        "relation": "leg sections, leg locks and leg angle decide stability",
+        "salience": 0.51,
+        "pages": 2
+      },
+      {
+        "name": "Gear",
+        "type": "concept",
+        "relation": "camera gear weight vs rated load",
+        "salience": 0.5,
+        "pages": 2
+      },
+      {
+        "name": "Mirrorless camera",
+        "type": "camera format",
+        "relation": "what most travel tripods are sized for; the X100VI is lighter",
+        "salience": 0.3,
+        "pages": 2
+      },
+      {
+        "name": "Camera lens",
+        "type": "part",
+        "relation": "fixed 23mm lens on the X100VI, so no lens-weight variable",
+        "salience": 0.26,
+        "pages": 2
+      },
+      {
+        "name": "Peak Design Travel Tripod",
+        "type": "product",
+        "relation": "most named full-size pick for X100VI owners",
+        "salience": 0.6
+      },
+      {
+        "name": "Manfrotto PIXI EVO",
+        "type": "product",
+        "relation": "tabletop mini named by X100 owners and Pack Hacker",
+        "salience": 0.5
+      },
+      {
+        "name": "JOBY GorillaPod",
+        "type": "product",
+        "relation": "flexible tripod named by X100V owners",
+        "salience": 0.45
+      },
+      {
+        "name": "SIRUI Traveler 5CX",
+        "type": "product",
+        "relation": "carbon travel tripod an X100VI owner chose",
+        "salience": 0.45
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "type": "product",
+        "relation": "full-size travel tripod named for X100VI hiking",
+        "salience": 0.4
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "standard",
+        "relation": "plate standard used by four of the five picks",
+        "salience": 0.4
+      },
+      {
+        "name": "L-bracket",
+        "type": "accessory",
+        "relation": "lets the X100VI go portrait without tipping the head",
+        "salience": 0.35
+      },
+      {
+        "name": "IBIS",
+        "type": "feature",
+        "relation": "X100VI in-body stabilization, 6 stops",
+        "salience": 0.3
+      },
+      {
+        "name": "center column",
+        "type": "part",
+        "relation": "raising it costs stiffness; keep it down",
+        "salience": 0.35
+      }
+    ],
+    "textrazor": "data/briefs/best-tripod-for-fujifilm-x100vi.entities.json (5 pages analyzed; dpreview blocked TextRazor's fetch)",
+    "attributes": [
+      "camera weight (X100VI 521 g) vs rated load",
+      "height with the center column down",
+      "folded length for a sling or daypack",
+      "tripod weight compared with the camera",
+      "leg lock type (twist vs flip)",
+      "Arca-type plate compatibility",
+      "tripod socket position on the X100VI base",
+      "minimum height for tabletop shots"
+    ],
+    "ngrams": [
+      "travel tripod",
+      "x100vi tripod",
+      "mini tripod",
+      "carbon fiber",
+      "ball head",
+      "center column",
+      "folded length",
+      "peak design travel tripod",
+      "tabletop tripod",
+      "quick release plate",
+      "load capacity"
+    ],
+    "skipgrams": [
+      "tripod…x100vi",
+      "legs…column",
+      "plate…arca",
+      "light…compact",
+      "wind…tripod",
+      "fold…bag"
+    ],
+    "nlpTerms": [
+      "fixed-lens camera",
+      "long exposure",
+      "self-timer",
+      "low-angle",
+      "street photography",
+      "blue hour",
+      "carry-on",
+      "twist locks",
+      "flip locks",
+      "bubble level",
+      "panning",
+      "stability",
+      "portability"
+    ],
+    "questions": [
+      "What is the best tripod for the Fujifilm X100VI?",
+      "Do X100V tripod plates fit the X100VI?",
+      "Is a mini tripod enough for an X100VI?",
+      "Is a GorillaPod strong enough for an X100VI?",
+      "Should I turn off IBIS on the X100VI on a tripod?",
+      "How do I shoot portrait with an X100VI on a small tripod?"
+    ],
+    "contentGaps": [
+      "None of the top pages works out load headroom for a 521 g camera; every full-size pick is 7 to 17 times over",
+      "No top page warns that the X100VI tripod socket moved, so X100V plates and grips may not fit",
+      "No top page compares tripod weight to camera weight for a pocket camera",
+      "No page gives a two-tripod plan (mini daily, full-size for planned shots)"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for Fujifilm X100VI picks at a glance",
+        "intent": "direct answer + comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Fujifilm X100VI tripods",
+        "intent": "method, sources, what was dropped",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Fujifilm X100VI, reviewed",
+        "intent": "product reviews",
+        "h3": [
+          "Peak Design Travel Tripod (Aluminum): best overall X100VI tripod",
+          "SIRUI Traveler 5CX Carbon Fiber Tripod: lightest full-size pick",
+          "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): steadiest full-size tripod",
+          "Manfrotto PIXI EVO 2-Section Mini Tripod: best tabletop tripod",
+          "JOBY GorillaPod 3K Kit: best flexible tripod for railings"
+        ]
+      },
+      {
+        "h2": "What a 521 g X100VI asks of a tripod",
+        "intent": "analysis: load headroom, weight ratio, height",
+        "h3": []
+      },
+      {
+        "h2": "How to set up an X100VI on a tripod",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "X100VI tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "Which tripod should you get for your X100VI?",
+        "intent": "chooser",
+        "h3": []
+      }
+    ],
+    "commonPoints": [
+      "A small, light travel tripod suits a compact camera like the X100 series",
+      "The Peak Design Travel Tripod is the most named full-size option",
+      "A tabletop or mini tripod covers most travel and self-timer shots",
+      "Raising the center column costs stability",
+      "Carbon fiber saves weight over aluminum but costs more"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom for a 521 g X100VI: Peak Design 9.1 kg about 17x, Befree Advanced 9 kg about 17x, SIRUI 5CX legs 4 kg about 7.7x, GorillaPod 3K 3 kg about 5.8x, PIXI EVO 2.5 kg about 4.8x, GorillaPod 1K 1 kg only about 1.9x. Load never limits the full-size picks; leg stiffness, wind and the head do.",
+        "source": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/; maker spec pages",
+        "absentFrom": [
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Tripod-to-camera weight: the SIRUI 5CX (about 2 lb, 0.92 kg) weighs under twice the X100VI, the Peak Design aluminum (1.56 kg) about three times, the Befree Advanced (1.59 kg) about three times. For a pocket camera the lightest legs that reach chest height win.",
+        "source": "https://store.sirui.com/products/sirui-traveler-5cx-carbon-fiber-travel-tripod; Peak Design and Manfrotto specs",
+        "absentFrom": [
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "The X100VI tripod socket moved forward vs the X100V, so X100V grips, plates and clutches may not fit; buy an X100VI-specific plate or L-grip before relying on Arca clamps.",
+        "source": "https://davidroessli.com/logs/fujifilm-x100vi-minor-drawbacks/; https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
+        "absentFrom": [
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Two-tripod plan: carry a tabletop or flexible mini every day and add a full-size tripod only for planned blue-hour or long-exposure shots; chooser maps situation to one pick.",
+        "source": "dpreview X100 thread owners (PIXI daily, wish for taller), r/x100vi threads",
+        "absentFrom": [
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.findingtheuniverse.com/best-travel-tripods/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "A light travel tripod blows over with a tiny camera when fully extended: keep the column down, spread the legs, hang the bag from the hook.",
+        "source": "https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/",
+        "absentFrom": [
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+        ]
+      }
+    ],
+    "targetWords": 1600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+        "https://www.findingtheuniverse.com/best-travel-tripods/",
+        "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "Pack Hacker, Finding the Universe and Fstoppers describe each tripod in prose paragraphs with spec lines; the forum threads are prose recommendations.",
+      "avgWords": 2000,
+      "avgProducts": 6,
+      "commonSections": [
+        "short intro",
+        "product descriptions",
+        "what to look for (weight, folded length, height, load)",
+        "FAQ or conclusion"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/fujifilm/comments/1haz8ru/lightweight_and_compact_travel_tripod_for_x100vi/",
+        "title": "Lightweight and compact travel tripod for X100VI : r/fujifilm - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/groups/413044211070264/posts/930218872686126/",
+        "title": "Tripod recommendations for Fujifilm x100vi? - Facebook"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=F-giGHNS6PM",
+        "title": "Fujifilm X100VI accessories that are actually worth it - YouTube"
+      },
+      {
+        "position": 4,
+        "url": "https://www.tiktok.com/@ppaigeallyson/video/7645383131498859807",
+        "title": "Fujifilm X100VI Accessories I Love — Tripod Adapter Hack - TikTok"
+      },
+      {
+        "position": 5,
+        "url": "https://www.amazon.com/clp/B08FG3XPD8",
+        "title": "KIWIFOTOS Universal Mini Camera Tripod with 360° Ball Head"
+      },
+      {
+        "position": 6,
+        "url": "https://www.tiktok.com/@mykah.creative/video/7586535282153884983",
+        "title": "Leekai Tripod for Fujifilm X100V: Travel Setup & Stability - TikTok"
+      },
+      {
+        "position": 7,
+        "url": "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/",
+        "title": "Recommendations for the best travel tripod for Fujifilm X-series cameras?"
+      },
+      {
+        "position": 8,
+        "url": "https://www.fujifilm-x.com/en-us/products/accessories/tg-bt1/",
+        "title": "Tripod Grip TG-BT1 | Accessories | FUJIFILM X Series & GFX - USA"
+      },
+      {
+        "position": 9,
+        "url": "https://fujifilm-houseofphotography.com.au/collections/grips-tripods",
+        "title": "Grips & Tripods | Fujifilm AU House of Photography"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=rDzSdoIzyIc",
+        "title": "11 Fujifilm X100VI Accessories You (Almost) Can't Live Without - YouTube"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "travel",
+        "compact",
+        "lightweight",
+        "recommendations",
+        "accessories"
+      ],
+      "gap": "No result is an editorial roundup sized to the X100VI's 521 g weight; forums, social and video dominate. Our angle: 5 picks from pocket mini to full-size, sized to 521 g."
+    },
+    "serpProducts": [
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://www.facebook.com/groups/413044211070264/posts/930218872686126/",
+          "https://www.facebook.com/groups/413044211070264/posts/1090978899943455/",
+          "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.findingtheuniverse.com/best-travel-tripods/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5CX Carbon Fiber Tripod",
+        "pages": [
+          "https://www.reddit.com/r/fujifilm/comments/1haz8ru/lightweight_and_compact_travel_tripod_for_x100vi/",
+          "https://www.reddit.com/r/AskPhotography/comments/1fgrw7l/sirui_traveller_5cx_tripod/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/ (Traveler 5C sibling)"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "pages": [
+          "https://www.facebook.com/groups/413044211070264/posts/1090978899943455/",
+          "https://www.findingtheuniverse.com/best-travel-tripods/ (Befree)",
+          "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+        "pages": [
+          "https://www.reddit.com/r/x100vi/comments/1in1rwh/small_tripod_recommendations_for_travel/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/ (PIXI family)"
+        ]
+      },
+      {
+        "name": "JOBY GorillaPod 3K Kit",
+        "pages": [
+          "https://www.reddit.com/r/x100v/comments/1gp136h/tripod_recommendations/ (GorillaPod)",
+          "https://www.findingtheuniverse.com/best-travel-tripods/ (GorillaPod 5K)",
+          "https://www.dpreview.com/forums/threads/what-mini-tripod-are-you-using-with-your-x100.3153385/ (GorillaPod)"
+        ]
+      },
+      {
+        "name": "Ulanzi Zero Y / Zero F38 (dropped: no in-stock Amazon US listing of the ball-head versions on 2026-10-30)",
+        "pages": [
+          "https://www.reddit.com/r/Fujifilm_X100VI/comments/1i4nmpx/best_travel_tripod_for_x100vi_pls/",
+          "https://www.facebook.com/groups/347451376634285/posts/1172321360813945/",
+          "https://www.facebook.com/groups/347451376634285/posts/989719685740781/"
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "521g",
+        "claim": "X100VI weight with battery and memory card (471 g without)",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+        "quote": "Weight 521g Excluding Battery And Memory Card Approx. 471g"
+      },
+      {
+        "number": "6.0 stops",
+        "claim": "X100VI IBIS compensation",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+        "quote": "Compensation Effect 6.0 stops"
+      },
+      {
+        "number": "31.5/12.4",
+        "claim": "SIRUI Traveler 5CX folded height 31.5 cm / 12.4 in",
+        "url": "https://store.sirui.com/products/sirui-traveler-5cx-carbon-fiber-travel-tripod",
+        "quote": "Folded Height(cmm/inch) 31.5/12.4"
+      },
+      {
+        "number": "Bulb up to 60 min",
+        "claim": "X100VI bulb exposures with the mechanical shutter",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+        "quote": "Bulb up to 60 min."
+      }
+    ],
+    "videos": [
+      {
+        "id": "YCUYSPvZNGg",
+        "title": "Fujifilm X100VI + SmallRig L-Shape Grip",
+        "channel": "",
+        "url": "https://www.youtube.com/watch?v=YCUYSPvZNGg",
+        "section": "How to set up an X100VI on a tripod"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-tripod-for-leica-q3",
+      "best-tripod-for-fujifilm-x-t5",
+      "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "how-to-stop-tripod-shake-in-wind",
+      "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "l-bracket-for-landscape-photography",
+      "best-tripod-that-fits-in-carry-on-luggage"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-leica-q3",
+        "find": "A Fstoppers writer who used it with his Q2 and the Q3 says it felt like it made more sense on these compact cameras.",
+        "replace": "A Fstoppers writer who used it with his Q2 and the Q3 says it felt like it made more sense on these compact cameras, which is also why it leads our [Fujifilm X100VI tripod picks](/blog/best-tripod-for-fujifilm-x100vi/)."
+      },
+      {
+        "slug": "best-tripod-for-fujifilm-x-t5",
+        "find": "I'd pair it with a small prime for self-timer shots on tables and walls; the 16-55mm makes it front-heavy.",
+        "replace": "I'd pair it with a small prime for self-timer shots on tables and walls, as with our [tripods for the Fujifilm X100VI](/blog/best-tripod-for-fujifilm-x100vi/); the 16-55mm makes it front-heavy."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for x100vi",
+      "best tripod for x100v",
+      "best tripod for x100vi reddit",
+      "best travel tripod for fujifilm x100vi",
+      "x100vi mini tripod",
+      "x100vi travel tripod"
+    ],
+    "angle": "Sized to a 521 g fixed-lens camera: two full-size travel tripods, one lightweight carbon, one tabletop and one flexible, plus the X100VI's moved tripod socket.",
+    "painPoints": [
+      {
+        "id": "travel-tripods-x100vi-socket-moved",
+        "pain": "X100V plates, grips and clutches don't fit the X100VI because its tripod socket moved",
+        "details": "X100VI owners find accessories made for the X100V sit off-center or overlap the lens side, because the tripod thread moved toward the front.",
+        "sources": [
+          "https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
+          "https://davidroessli.com/logs/fujifilm-x100vi-minor-drawbacks/"
+        ],
+        "quotes": [
+          {
+            "text": "not all existing X100 accessories are compatible with the X100VI",
+            "url": "https://davidroessli.com/logs/fujifilm-x100vi-minor-drawbacks/"
+          }
+        ]
+      },
+      {
+        "id": "travel-tripods-x100vi-blows-over-in-wind",
+        "pain": "A light travel tripod blows over with a tiny X100VI when fully extended",
+        "details": "Owners of small, light travel tripods find a bit of wind tips the setup once the legs and column are all the way out.",
+        "sources": [
+          "https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/"
+        ],
+        "quotes": [
+          {
+            "text": "when fully extended it doesn't need much wind to blow over my x100vi",
+            "url": "https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-x100vi-head-sags",
+        "pain": "Cheap mini tripod heads sag under an X100VI even below their rated load",
+        "details": "X100VI owners report budget mini heads that would not hold the camera even well under the stated rating.",
+        "sources": [
+          "https://www.reddit.com/r/x100vi/comments/1in1rwh/small_tripod_recommendations_for_travel/"
+        ],
+        "quotes": [
+          {
+            "text": "Tried to use it once and the tripod head couldn't take the weight even though the load was 50% below its rating.",
+            "url": "https://www.reddit.com/r/x100vi/comments/1in1rwh/small_tripod_recommendations_for_travel/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-x100vi-gorillapod-1k-flimsy",
+        "pain": "A GorillaPod 1K feels flimsy under an X100VI",
+        "details": "Owners who used the 1-kg GorillaPod with smaller compacts find it less confidence-inspiring with the larger X100VI.",
+        "sources": [
+          "https://www.reddit.com/r/Fujifilm_X100VI/comments/1i6ur2e/anyone_here_using_the_joby_gorilla_pod_seeking/"
+        ],
+        "quotes": [
+          {
+            "text": "1kg feels kinda flimsy imo.",
+            "url": "https://www.reddit.com/r/Fujifilm_X100VI/comments/1i6ur2e/anyone_here_using_the_joby_gorilla_pod_seeking/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-x100vi-portrait-on-table-tripod",
+        "pain": "Shooting portrait orientation with an X100VI on a small table tripod",
+        "details": "Owners want vertical shots on a tabletop tripod without tipping the head over.",
+        "sources": [
+          "https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/"
+        ],
+        "quotes": [
+          {
+            "text": "What you need is an L bracket so you can mount the camera portrait or landscape without moving the tripod head.",
+            "url": "https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/"
+          }
+        ]
+      },
+      {
+        "id": "leica-q-full-size-tripod-too-much-for-compact",
+        "pain": "A full-size tripod feels like too much for a compact camera on holiday",
+        "details": "Compact-camera owners want a mini daily and a taller tripod only sometimes.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/"
+        ],
+        "quotes": [
+          {
+            "text": "I do sometimes wish I had a slightly taller tripod with me, but most of the time a little creative thinking makes things work out.",
+            "url": "https://www.dpreview.com/forums/threads/portable-tripod-for-x100.4622387/"
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-filming-sports",
+      "mode": "related-box"
+    }
+  ]
+}

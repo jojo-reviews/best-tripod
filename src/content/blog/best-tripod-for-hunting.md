@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
-  - best-tripod-feet-for-sand-snow-and-rock
-  - best-tripod-for-filming-sports
-  - best-tripod-for-sony-zv-e10
-  - best-tripod-for-sony-a6700
+  - best-tripod-for-gym-videos
+  - best-tripod-for-nikon-p1000
+  - best-tripod-for-laser-level
+  - best-tripod-for-fujifilm-x100vi
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

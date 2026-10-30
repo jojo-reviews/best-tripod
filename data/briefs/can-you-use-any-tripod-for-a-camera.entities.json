@@ -1,0 +1,87 @@
+{
+  "keyword": "can you use any tripod for a camera",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.95,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.5,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Screw",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Screw"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Screw thread",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Screw_thread"
+    }
+  ],
+  "errors": [
+    "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-iUvYFCnWzPJKlYwrfRQLFF&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"iUvYFCnWzPJKlYwrfRQLFF\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'Cm_8m6L2ljJZZuENTSy1MPamCk3d_uccMQicPay3.E8-1793355728-1.2.1.1-mwkSRfeNMYG7_TrEI68f6aUYOoHSD2ATTh1n8nn.iIYv2IxW26iHbEwUczY9DWCF',cITimeS: '1793355728',cN: 'iUvYFCnWzPJKlYwrfRQLFF',cRay: 'a529b2794a8c9cc0',cTplC:0,cTplO:0,cTplV:5,cType: 'precursor_interstitial',cUPMDTk:\"/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w?__cf_chl_tk=jjgMTaNdA3_6jeOz5vqEhbfWgsUnuUkVxw2x_c5dblE-1793355728-1.0.1.1-DwA5t0WrxRA9HCjCbCLN4agakQX95Iza82_3WPlF6iI\",cvId: '3',cZone: 'photo.stackexchange.com',fa:\"/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w?__cf_chl_f_tk=jjgMTaNdA3_6jeOz5vqEhbfWgsUnuUkVxw2x_c5dblE-1793355728-1.0.1.1-DwA5t0WrxRA9HCjCbCLN4agakQX95Iza82_3WPlF6iI\",md: 'fk3ofZ4rT_8Y3M3.e5yA6tpUgv1xFvkdxcS.9RM8lIk-1793355728-1.2.1.1-WPl482nUmxWhDgjcoziCH.klG01GcuZndgecgxjcN9s4n3snY9dGdzCzvej0zJptAh8HjYf9fYKfCOwIGPF6NxG64LRAERJz9EuoOLiGmsMjNJcli4So7TyGy0EmmhWpF2AJpUW86uTHBZruEYZNH0vAoSeX0H1GEwn7rfTXypL4uu.ULyfg9G6d0c_4GCbI7t9dq0p5ZI4F3SDSIALEMTfVpYWyZIEQDjmetTgaEanZVM6MZ.uhJQBlZS9kkk4MfLIvdHteMmFklFsOjluHLjwK0fuOZ3ICP1DHU4GmIfBCoxLps3OFNjwK2VQTFkHMI85SNCyYILAGxvu6jXfy7kf1g0zh0EBhZvGQUybJJDyYcCZ62TdiYdoTJy6lX5xKNy_q_KjOWOgL9NM1MmN3YF4CfN17r37yTs0GG0cj2T68NhbFCOyoUSzTE4ThTwSluNdJdC3EnZ40eF7DU6z_pYA9_.u8HXzBmCnNaZVo8bw4oJf8fl4uWjVHl8KRGykwfAvDtBxtiS_G8YujhtDiU8bABeitO88xc3NEvWpzvnMThHPRR.TL3U2dO6wmfpAKQ8a3bPddE0BHMpvvxrkoivXwgKX18aUtFglsqMnbKIuyrAJ0ldz3MllIz9m3rJoB2dOC6h5vWrLD_dWJtcblH6ljbui3rPXDE3tFxp4H525YU2p0WXzPrQRWlX82NkAuhlcbK1HzYEC7ZBx3fNJB2Wnxkj.izU7a.on1PFZqlcG7.xM4Ax0kW.5Zxbgb71HRVgw3urbRsx2dwwxsrmuny1781IbXE5x5vfOFVwuC7cX_aKsnAltngeV.DlASSpBttFNHenNTSlBHd.Mu8mKUPANva.leZY2_HZliHK_MBy.Gg90GqFdlbVhs0Q6KbZBaqU6wP9yP5xncznF7os.59ebbDbA8AOS2iFcJJ1x.alyZbEmn7UjFWjy_WTD5q3n.9toqp3602YLWl2KydxfcvxESuijE0yQ.kNPoz7VR7kxPA2d4WUdgJQKYiXlRULax83.csUn_VIa_jfbiC7A89ZGbDHMQpR2ShUP.nNJZWTzDC2cUGWldntPpDlhCj_cyIYvijna9olIDkLMqvZGjVtIYLL76w7AkAEREg3TjNhIOVlOjHK3iyTILX..X5s.EpnDV1zVFzwVvfBfXCI1ThQ6tGb4e3rUDRXHR7Mor.hDrX9IX9mulqZj435AZr_Hz.jez5_XZjeDw6taoBlJoreQZ25zI29_DWckOSoMzFW8',mdrd: '6_YU3IUYo4fBg_66meHfZ_5T3esq.ZK_g0I71Vkw5SQ-1793355728-1.2.1.1-kUlkmorg7k5LX1exQ_44KyFfNVxPZc2SOg.XFX7Xvp77vTM3Pz_7UPh03nDgNBGAkrSj2342GzdZQtISFDoQp1SitCPXB37z.Wjkbg.IlZJrKgbT_AKneciA66GHEFS.qM53mRnAd3R_46EYz.wgXKAvx7sweAKOjNIVm7H_m3e0dt0niqE7xgqqXuV9k9fZDL8afwZ2TmdPDA_iZFYsj2sXePoNMu2yTjq2pQx7IFqRBPv1bGvKWPx1VVpaPHiuVhW6FGS.wXDGDU3u2jS4iQ',pi: true,pp: {r: 'a529b2794a8c9cc0',t: btoa(String(1793355728))},};var a = document.createElement('script');a.nonce = 'iUvYFCnWzPJKlYwrfRQLFF';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/precursor_interstitial/v1?ray=a529b2794a8c9cc0';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w?__cf_chl_rt_tk=jjgMTaNdA3_6jeOz5vqEhbfWgsUnuUkVxw2x_c5dblE-1793355728-1.0.1.1-DwA5t0WrxRA9HCjCbCLN4agakQX95Iza82_3WPlF6iI\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://www.usa.canon.com/learning/training-articles/training-articles-list/supporting-your-camera-with-a-tripod: <HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;usa&#46;canon&#46;com&#47;learning&#47;training&#45;articles&#47;training&#45;articles&#45;list&#47;supporting&#45;your&#45;camera&#45;with&#45;a&#45;tripod\" on this server.<P>\nReference&#32;&#35;18&#46;8a721102&#46;1793355731&#46;5cb98fdc\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;8a721102&#46;1793355731&#46;5cb98fdc</P>\n</BODY>\n</HTML>\n"
+  ]
+}

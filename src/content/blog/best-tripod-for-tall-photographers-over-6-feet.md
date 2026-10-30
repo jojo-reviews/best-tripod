@@ -334,7 +334,9 @@ sources:
     url: 'https://www.kentfaith.com/reviews_15740?page=4'
   - title: 'Discovercameras: CAMBOFOTO 74 inch camera tripod review'
     url: 'https://discovercameras.com/cambofoto-74-inch-camera-tripod-review/'
-  - title: 'Improve Photography: pro tripods for landscape photographers (column-down heights)'
+  - title: >-
+      Improve Photography: pro tripods for landscape photographers (column-down
+      heights)
     url: >-
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
 updatedDate: '2026-10-29T19:45:22.000Z'
@@ -380,10 +382,10 @@ faqs:
       74 inch tripods ship with pan heads that handle slow pans with light
       cameras.
 related:
+  - can-you-use-any-tripod-for-a-camera
   - best-tripod-for-telescope
   - best-tripod-for-hunting
   - how-to-choose-a-tripod-for-a-heavy-telephoto-lens
-  - tripod-leg-lock-wont-hold
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best

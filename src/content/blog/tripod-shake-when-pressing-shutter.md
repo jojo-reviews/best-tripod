@@ -98,20 +98,40 @@ faqs:
       mechanical shutter curtain, so switch on electronic first-curtain shutter
       (or the full electronic shutter for static scenes) instead.
 illustrations:
-  - prompt: "A mirrorless camera on a tripod aimed at a misty lake at dawn, the photographer's hand pulling back from the camera after starting the self-timer, a small lit lamp on the camera front, low side angle, soft cool light, face not visible."
-    alt: "A hand stepping back from a camera on a tripod after starting the self-timer at a misty lake"
+  - prompt: >-
+      A mirrorless camera on a tripod aimed at a misty lake at dawn, the
+      photographer's hand pulling back from the camera after starting the
+      self-timer, a small lit lamp on the camera front, low side angle, soft
+      cool light, face not visible.
+    alt: >-
+      A hand stepping back from a camera on a tripod after starting the
+      self-timer at a misty lake
     afterHeading: 3
-  - prompt: "A wired remote shutter release hanging from a camera on a tripod, a hand holding the remote a step away, a waterfall blurred by a long exposure in the background, forest setting, overcast light, shallow depth of field, no visible branding."
-    alt: "A remote shutter release held a step away from a camera on a tripod by a waterfall"
+  - prompt: >-
+      A wired remote shutter release hanging from a camera on a tripod, a hand
+      holding the remote a step away, a waterfall blurred by a long exposure in
+      the background, forest setting, overcast light, shallow depth of field, no
+      visible branding.
+    alt: >-
+      A remote shutter release held a step away from a camera on a tripod by a
+      waterfall
     afterHeading: 4
-  - prompt: "A long telephoto lens mounted by its collar foot on a sturdy tripod with the center column fully lowered, set up in a meadow at sunrise for wildlife watching, side view, golden light, no people, no visible brand markings."
-    alt: "A telephoto lens mounted by its collar on a tripod with the center column down"
+  - prompt: >-
+      A long telephoto lens mounted by its collar foot on a sturdy tripod with
+      the center column fully lowered, set up in a meadow at sunrise for
+      wildlife watching, side view, golden light, no people, no visible brand
+      markings.
+    alt: >-
+      A telephoto lens mounted by its collar on a tripod with the center column
+      down
     afterHeading: 8
 author: editorial-team
 heroImage: /images/featured/tripod-shake-when-pressing-shutter.png
 heroAlt: >-
   Tripod Shake When Pressing Shutter – 6 Fixes Matched to the Cause – Best
   Tripod how-to
+related:
+  - can-you-use-any-tripod-for-a-camera
 ---
 
 Tripod shake when pressing shutter has two sources: your finger, and the camera's own mirror and shutter. We fix it by firing hands-free with the self-timer or a remote release, setting a delay long enough for the rig to settle, switching on exposure delay or electronic first-curtain shutter, and turning image stabilization off on the tripod.

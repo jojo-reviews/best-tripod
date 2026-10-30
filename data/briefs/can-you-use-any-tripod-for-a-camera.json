@@ -1,0 +1,270 @@
+{
+  "centralEntity": "tripod",
+  "entityVariants": [
+    "camera tripod",
+    "tripod for a camera",
+    "tripod mount",
+    "tripod screw",
+    "any tripod"
+  ],
+  "entities": [
+    { "name": "tripod", "type": "Product", "relation": "central entity", "salience": 0.95, "pages": 3 },
+    { "name": "tripod head", "type": "Part", "relation": "connects the legs to the camera; decides the plate system", "salience": 0.72, "pages": 3 },
+    { "name": "camera", "type": "Product", "relation": "payload that screws onto the tripod", "salience": 0.69, "pages": 3 },
+    { "name": "screw thread", "type": "Standard", "relation": "1/4-20 UNC on the camera, 3/8-16 UNC on heads and pro gear", "salience": 0.6, "pages": 2 },
+    { "name": "quick release plate", "type": "Part", "relation": "the part that is not universal across brands", "salience": 0.58, "pages": 3 },
+    { "name": "load capacity", "type": "Attribute", "relation": "must exceed body plus lens weight", "salience": 0.55, "pages": 3 },
+    { "name": "Arca-Swiss", "type": "Standard", "relation": "cross-brand plate and clamp profile", "salience": 0.5, "pages": 2 },
+    { "name": "Manfrotto", "type": "Organization", "relation": "maker with proprietary RC2/200PL plates", "salience": 0.5, "pages": 2 },
+    { "name": "ISO 1222", "type": "Standard", "relation": "international standard for tripod screw connections", "salience": 0.4, "pages": 1 },
+    { "name": "mirrorless camera", "type": "Product", "relation": "typical payload", "salience": 0.29, "pages": 2 },
+    { "name": "ball head", "type": "Part", "relation": "common head type", "salience": 0.35, "pages": 3 },
+    { "name": "carbon fiber", "type": "Material", "relation": "leg material, lighter not stronger", "salience": 0.3, "pages": 2 },
+    { "name": "smartphone", "type": "Product", "relation": "needs a phone clamp adapter", "salience": 0.3, "pages": 2 },
+    { "name": "GoPro", "type": "Product", "relation": "action camera that needs a mount adapter", "salience": 0.25, "pages": 1 }
+  ],
+  "attributes": [
+    "screw thread size (1/4-20 or 3/8-16)",
+    "load capacity / safety payload",
+    "camera and lens weight",
+    "quick release plate system (Arca-Swiss, Manfrotto RC2/200PL, Peak Design)",
+    "tripod head type",
+    "height without the center column",
+    "adapter needed (phone clamp, action cam mount, 3/8 bushing)"
+  ],
+  "ngrams": [
+    "tripod mount",
+    "screw thread",
+    "1/4-20 thread",
+    "quick release plate",
+    "tripod head",
+    "weight capacity",
+    "arca swiss",
+    "any camera",
+    "load capacity",
+    "center column"
+  ],
+  "skipgrams": [
+    "tripod…camera",
+    "plate…clamp",
+    "camera…lens weight",
+    "screw…thread",
+    "head…plate"
+  ],
+  "nlpTerms": [
+    "UNC",
+    "universal",
+    "standard",
+    "adapter",
+    "bushing",
+    "safety payload",
+    "proprietary",
+    "dovetail",
+    "phone clamp",
+    "lens collar",
+    "mirrorless",
+    "DSLR"
+  ],
+  "questions": [
+    "Do all tripods fit all cameras?",
+    "Will a Canon tripod work with a Nikon or Sony camera?",
+    "What screw size is a camera tripod mount?",
+    "Can a cheap tripod hold my camera and lens?",
+    "Will my old tripod plate fit a new tripod?",
+    "Can I put a phone or GoPro on a camera tripod?"
+  ],
+  "contentGaps": [
+    "Separate the three fit levels: screw (universal), plate (not universal), load (camera-specific)",
+    "A worked load calculation: a full-frame body plus a standard f/2.8 zoom against a mini tripod's rating",
+    "A step-by-step pre-purchase fit check",
+    "Which adapter each non-camera device needs",
+    "A setup-to-tripod chooser table"
+  ],
+  "outline": [
+    { "h2": "Every tripod screw fits every camera (ISO 1222)", "intent": "the universal part: 1/4-20 and 3/8-16", "h3": [] },
+    { "h2": "Tripod load capacity vs your camera and lens weight", "intent": "worked calculation, the part that is camera-specific", "h3": [] },
+    { "h2": "Tripod quick release plates are not universal", "intent": "Arca-Swiss vs proprietary plates; owner confusion", "h3": [] },
+    { "h2": "How to check a tripod fits your camera", "intent": "numbered steps", "h3": [] },
+    { "h2": "Tripod adapters for phones, action cameras and old gear", "intent": "phones, GoPro, 3/8 sockets, plate blocking the battery door", "h3": [] },
+    { "h2": "Which tripod fits which camera setup", "intent": "decision table", "h3": [] }
+  ],
+  "targetWords": 950,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
+      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w",
+      "https://www.usa.canon.com/learning/training-articles/training-articles-list/supporting-your-camera-with-a-tripod",
+      "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Informational question; the top results answer in prose (Q&A threads, explainer articles) and the two buyer guides mention products only in passing.",
+    "avgWords": 1000,
+    "avgProducts": 1,
+    "commonSections": ["screw thread standard", "weight capacity", "quick release plates", "tripod heads", "adapters for phones and action cameras", "FAQ"],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/", "title": "Do all tripods work with all cameras? : r/AskPhotography - Reddit" },
+    { "position": 2, "url": "https://www.youtube.com/watch?v=LJl7cmIcIBk", "title": "Which tripod should I buy? - Everything you need to know" },
+    { "position": 3, "url": "https://www.facebook.com/groups/pivoequestriancommunity/posts/1691870081863130/", "title": "I need to buy a new tripod can you just use a camera one ? Thanks" },
+    { "position": 4, "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "title": "Best Camera Tripod Guide 2026 - The School of Photography" },
+    { "position": 5, "url": "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w", "title": "Are tripods same for all cameras. I am buying my first good camera Nikon ..." },
+    { "position": 6, "url": "https://www.quora.com/Will-a-tripod-fit-any-camera", "title": "Will a tripod fit any camera? - Quora" },
+    { "position": 7, "url": "https://www.usa.canon.com/learning/training-articles/training-articles-list/supporting-your-camera-with-a-tripod", "title": "Supporting your Camera with a Tripod | Canon U.S.A., Inc." },
+    { "position": 8, "url": "https://www.techgearlab.com/topics/electronics/best-tripod", "title": "The Best Tripods of 2026 | Tested & Ranked - TechGearLab" },
+    { "position": 9, "url": "https://www.youtube.com/watch?v=6iNRbT6Nsgg", "title": "How To Put A Camera on a Tripod For Beginners - YouTube" },
+    { "position": 10, "url": "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443", "title": "Are All Camera Tripods Universal? - K&F Concept Australia" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": "0 of 10 start with the exact keyword; close variants lead 3 titles (Do all tripods work with all cameras, Will a tripod fit any camera, Are All Camera Tripods Universal)",
+    "withYear": "2 of 10 (both buyer guides, 2026)",
+    "withNumber": "0 of 10",
+    "commonModifiers": ["all cameras", "any camera", "universal", "tripod fit"],
+    "gap": "No title gives the yes-with-conditions answer or a count of checks; we lead with the exact question and '3 fit checks'."
+  },
+  "commonPoints": [
+    "Cameras share a standard 1/4-20 tripod screw, so the screw fits almost any tripod",
+    "Larger cameras, lenses and heads may use 3/8-16 and an adapter",
+    "The tripod must be rated for the camera and lens weight",
+    "Quick release plates differ between brands; Arca-Swiss is the cross-brand system",
+    "Phones and action cameras need an adapter"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Worked load check: a Sony a7 IV (658 g with battery and card) plus a Sony FE 24-70mm F2.8 GM II (695 g) totals about 1.35 kg, over the Manfrotto PIXI's 1 kg safety payload, even though the PIXI's universal 1/4-inch screw fits the camera. Fit is not the same as support.",
+      "source": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/ ; https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications ; https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+      "absentFrom": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443", "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w"]
+    },
+    {
+      "type": "analysis",
+      "point": "The thread is an ISO standard, not a convention: ISO 1222 specifies 1/4-20 (6.350 mm major diameter) and 3/8-16 (9.525 mm) UNC threads, so a 3/8 socket never takes a 1/4 screw without a bushing.",
+      "source": "https://cdn.standards.iteh.ai/samples/55918/c73a7958dcef45ada49bf2fdcc959786/ISO-1222-2010.pdf",
+      "absentFrom": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443", "https://www.usa.canon.com/learning/training-articles/training-articles-list/supporting-your-camera-with-a-tripod"]
+    },
+    {
+      "type": "decision",
+      "point": "A chooser table mapping each setup (phone, action cam, mirrorless with kit lens, full-frame with f/2.8 zoom, telephoto with lens foot, several cameras) to the tripod feature that decides fit.",
+      "source": "our own decision rule from the specs above and the owner threads below",
+      "absentFrom": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443", "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w"]
+    },
+    {
+      "type": "situation",
+      "point": "Buyers confused by 1/4 and 3/8 numbers on listings: the 3/8 screw is usually the legs-to-head stud, the 1/4 is the plate-to-camera screw, so a 3/8 figure on a listing does not mean the camera won't fit.",
+      "source": "https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
+      "absentFrom": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.usa.canon.com/learning/training-articles/training-articles-list/supporting-your-camera-with-a-tripod", "https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w"]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-which-tripod-fits-my-camera",
+      "pain": "New buyers don't know whether a tripod will fit their camera and get confused by 1/4 and 3/8 screw sizes on listings",
+      "details": "Beginners ask whether tripods are brand-specific; listings mention both 1/4 and 3/8 screws, which reads like two incompatible standards.",
+      "sources": [
+        "https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
+        "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
+        "https://www.reddit.com/r/AskPhotography/comments/17g7bxt/38_in_tripod_heads/"
+      ],
+      "quotes": [
+        { "text": "Your tripod has a 3/8\" screw for the tripod head, most tripod heads, especially ballheads, have 3/8\" bottom screw hole.", "url": "https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/" },
+        { "text": "In general yes they do. There are a few very rare exceptions.", "url": "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/" }
+      ]
+    },
+    {
+      "id": "camera-tripods-proprietary-plate-mismatch",
+      "pain": "A quick release plate from one tripod does not fit another brand's head",
+      "details": "Plates are proprietary per maker; Arca-Swiss and Manfrotto RC2 are the common systems, and owners end up buying a second plate or clamp.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
+        "https://www.dpreview.com/forums/threads/quick-release-tripod-plate.2555037/",
+        "https://www.reddit.com/r/photography/comments/1gcwrhz/tripod_adapter_for_peak_design_quick_release/"
+      ],
+      "quotes": [
+        { "text": "The closest system behind Arca-Swiss is Manfrotto's RC2 system. A large part of else is quite proprietary.", "url": "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/" }
+      ]
+    },
+    {
+      "id": "camera-tripods-light-tripod-heavy-lens-shake",
+      "pain": "A lightweight tripod shakes under a heavy telephoto or long lens",
+      "details": "The screw fits, but a tripod rated or built for a small kit wobbles or tips with a heavier body and lens.",
+      "sources": ["https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w"],
+      "quotes": []
+    },
+    {
+      "id": "camera-tripods-phone-and-camera-one-tripod",
+      "pain": "Owners want one tripod for a phone and a camera, or to film golf swings with a phone",
+      "details": "Phones have no tripod socket; any tripod works once a phone clamp with a 1/4-20 socket is added. Golfers in r/golf say marketed golf tripods are unnecessary.",
+      "sources": [
+        "https://www.reddit.com/r/Cameras/comments/1kgwsht/is_there_a_tripod_were_it_can_hold_a_iphone_and_a/",
+        "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
+        "https://www.reddit.com/r/golf/comments/1irc4h4/tripod/"
+      ],
+      "quotes": [
+        { "text": "Any tripod with a phone holder will do.", "url": "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/" }
+      ]
+    },
+    {
+      "id": "camera-tripods-plate-blocks-camera-parts",
+      "pain": "The tripod plate or mount blocks the battery door, screen or rig on the camera",
+      "details": "A plate that sticks out or sits off-center blocks the battery door or a flip screen; video shooters move the plate onto rails or a cage.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/"
+      ],
+      "quotes": [
+        { "text": "Problem solved-just going to mount the whole thing on rails and stick the release plate on the bottom.", "url": "https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/" }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "6.350 mm",
+      "claim": "ISO 1222 tripod connection threads: 1/4-20 UNC has a 6.350 mm major diameter and 3/8-16 UNC 9.525 mm",
+      "url": "https://cdn.standards.iteh.ai/samples/55918/c73a7958dcef45ada49bf2fdcc959786/ISO-1222-2010.pdf",
+      "quote": "This International Standard specifies the screw connections used between a camera and a tripod or other accessories. (Table 1: 1/4 20 ... 6,350; 3/8 16 ... 9,525)"
+    },
+    {
+      "number": "1 kg",
+      "claim": "Manfrotto PIXI mini tripod: universal 1/4-inch screw, safety payload 1 kg (2.2 lb)",
+      "url": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/",
+      "quote": "Thanks to the universal ¼” screw thread and excellent stability, you can use PIXI with a many different digital devices, weighing up to 1 kg."
+    },
+    {
+      "number": "658 g",
+      "claim": "Sony a7 IV weighs approx. 658 g with battery and memory card",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+      "quote": "Weight (with battery and memory card included) Approx. 1 lb 7.3 oz (approx. 658 g)"
+    },
+    {
+      "number": "695 g",
+      "claim": "Sony FE 24-70mm F2.8 GM II weighs 695 g",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+      "quote": "Weight 24.6 oz (695 g)"
+    }
+  ],
+  "videos": [
+    {
+      "id": "6iNRbT6Nsgg",
+      "title": "How To Put A Camera on a Tripod For Beginners",
+      "channel": "Photographer's Freedom",
+      "url": "https://www.youtube.com/watch?v=6iNRbT6Nsgg",
+      "section": "How to check a tripod fits your camera"
+    }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "find": "It ships with both a 1/4\"-20 and a 3/8\"-16 screw, so it fits a camera body, a cage or a larger lens-foot thread.",
+      "replace": "It ships with both a 1/4\"-20 and a 3/8\"-16 screw, so it fits a camera body, a cage or a larger lens-foot thread (the same two sizes that decide [whether any tripod fits a camera](/blog/can-you-use-any-tripod-for-a-camera/))."
+    },
+    {
+      "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+      "find": "A rating says the legs will not collapse, not that they will stop shaking.",
+      "replace": "A rating says the legs will not collapse, not that they will stop shaking, which is also why [not every tripod suits every camera](/blog/can-you-use-any-tripod-for-a-camera/)."
+    }
+  ],
+  "textrazor": "ran on The School of Photography, K&F Concept and Canon/TechGearLab pages (Photo Stack Exchange blocked the fetcher); sharedEntities in data/briefs/can-you-use-any-tripod-for-a-camera.entities.json",
+  "postType": "guide"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-fujifilm-x100vi",
+  "pass": true,
+  "checkedAt": "2026-10-30T10:35:23.058Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI Traveler 5CX Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "X100VI 521 g / 471 g, 6-stop IBIS, 2 s self-timer, bulb 60 min verified on fujifilm-x.com specs; socket moved vs X100V per davidroessli.com and r/fujifilm PSA. SIRUI 5CX specs (5-section carbon, twist locks, 51.97 in max, 3.54 in min, 12.4 in folded, legs 0.72 kg / 4 kg, B-00K head 10 kg, Arca, about 2 lb) on store.sirui.com and Amazon B07KD3R47X (in stock, sold by Amazon). Peak Design Aluminum (3.44 lb, 60/51.25 in, 5.5 in min, 15.5 in, 9.1 kg) per Peak Design/ShutterMuse/Pack Hacker/Fstoppers; Befree Advanced lever (50.39/59.45 in, 15.75 in, 9 kg, 494 head, 200PL PRO) per Manfrotto; PIXI EVO (0.26 kg, 20 cm, 20.5 cm folded, 2.5 kg) per B&H/Pack Hacker; GorillaPod 3K Kit (6.6 lb, 12 in, ball head, QR plate) per B&H. Amazon US stock checked 2026-10-30 via Firecrawl: B085BQS6K4, B07KD3R47X, B0772WLSHZ, B0152X16XO, B074WC9YKL in stock; Ulanzi Zero Y unavailable (dropped). Owner quotes copied from search excerpts / scraped pages (dpreview, davidroessli, reddit excerpts).",
+    "at": "2026-10-30T10:35:09.612Z",
+    "hash": "73ef6c41d8784e8a"
+  }
+}

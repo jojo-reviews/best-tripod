@@ -442,6 +442,8 @@ heroImage: /images/featured/best-tripod-for-nikon-z8.png
 heroAlt: >-
   Best Tripod for Nikon Z8 (2026) – 5 Picks From 24-120 to 180-600 – Best Tripod
   buying guide
+related:
+  - best-tripod-for-nikon-p1000
 ---
 
 A Z8 with a 70-200mm on a windy headland, a 30-second exposure, and a soft frame because the slim legs hummed. The best tripod for Nikon Z8 owners depends on the lens you mount: for travel with a 24-120mm it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for a 70-200mm or 180-600mm it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads. We have not used these tripods ourselves.

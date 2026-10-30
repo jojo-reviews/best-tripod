@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-gym-videos",
+  "pass": true,
+  "checkedAt": "2026-10-30T10:44:38.428Z",
+  "errors": [],
+  "warnings": [
+    "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Element MII Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-30 via Firecrawl: ULANZI MT-44 max 146.5 cm/57.6 in and min 32.3 cm (ulanzi.com), 1 kg load, 32.5 cm/13 in closed, 422 g, clamp 60-80 mm, folding legs form a grip (B&H MKT 2503A page); Manfrotto Element MII MKELMII4BK-BH 160 cm max, 132 cm column down, 43 cm min, 42.5 cm closed, 1.55 kg, 8 kg, 4 twist-lock sections, 200PL-PRO Light plate Arca/RC2, hook under column, no phone holder listed (manfrotto.com); Peak Design Travel Tripod aluminum 60 in, 51.25 in column down, 3.44 lb, 20 lb, integrated phone mount stored in the center column (peakdesign.com landing page, Finding the Universe, Fstoppers); SIRUI Traveler 5C 138 cm/54.3 in, 33 cm/13 in folded (store.sirui.com spec chart), 8.8 lb load and Arca plate (Amazon listing title); Manfrotto PIXI Mini MTPIXIMII-B 13.5 cm, 18.5 cm closed, 0.17 kg, 1 kg safety payload, 1/4 in screw (manfrotto.com); iPhone 17 Pro Max 78.0 mm wide and 233 g (support.apple.com/en-us/125091); Metric gym tripod guide wobble and bar-path stability claims; Swarmify clamp vs magnet safety; Reddit quotes matched to search excerpts at their thread URLs; video 8nb2Ljf3aho title/channel/topic confirmed. Amazon ASINs B09T92NK4J (ships from Amazon), B08JZCQ9WQ, B085BQS6K4, B07KD181B3 (sold by Amazon), B09GKLCP95 (sold by Amazon) checked in stock via Firecrawl Amazon offer data.",
+    "at": "2026-10-30T10:44:37.903Z",
+    "hash": "55ae211a686c2240"
+  }
+}

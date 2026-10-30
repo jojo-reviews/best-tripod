@@ -1,0 +1,104 @@
+{
+  "keyword": "best tripod for gym videos",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.85,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.67,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "IPhone",
+      "type": "Device",
+      "pages": 4,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/IPhone"
+    },
+    {
+      "entity": "Gym",
+      "type": "/architecture/building_function",
+      "pages": 4,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Gym"
+    },
+    {
+      "entity": "Exercise",
+      "type": "/medicine/condition_prevention_factors",
+      "pages": 4,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Exercise"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 4,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "entity": "Video",
+      "type": "/internet/website_category",
+      "pages": 3,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Video"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "MagSafe (wireless charger)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)"
+    },
+    {
+      "entity": "Selfie",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+    },
+    {
+      "entity": "Angle",
+      "type": "/measurement_unit/common_dimension",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Angle"
+    },
+    {
+      "entity": "Android (operating system)",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Android_(operating_system)"
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Budget"
+    },
+    {
+      "entity": "Gimbal",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal"
+    }
+  ]
+}

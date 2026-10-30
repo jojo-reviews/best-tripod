@@ -1,0 +1,19 @@
+{
+  "slug": "can-you-use-any-tripod-for-a-camera",
+  "pass": true,
+  "checkedAt": "2026-10-30T10:26:11.862Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-confirmed after voice edits (no fact changed): ISO 1222 thread sizes 1/4-20 (6.350 mm) and 3/8-16 (9.525 mm) against the ISO 1222:2010 preview PDF; Manfrotto PIXI 1 kg safety payload and universal 1/4in screw against manfrotto.com; Sony a7 IV 658 g and FE 24-70 F2.8 GM II 695 g against sony.com spec pages (sum 1,353 g); GoPro HERO12 Black 1/4-20 mounting fingers against GoPro community article; proprietary vs Arca plates against r/photography and DPReview threads; all Reddit quotes verbatim from Firecrawl search excerpts at their thread URLs; video 6iNRbT6Nsgg fits its section. No products, prices or testing claims.",
+    "at": "2026-10-30T10:26:11.379Z",
+    "hash": "61ea5c21fba825f8"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "pagesAnalyzed": 5,
+  "sources": [
+    "nikonforums.txt",
+    "cameradecision.txt",
+    "https://www.kentfaith.com.au/feature_nikon-p1000-tripod",
+    "https://imaging.nikon.com/imaging/lineup/coolpix/p/p1000/",
+    "https://www.techgearlab.com/topics/electronics/best-tripod"
+  ],
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.87,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Camera",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": ""
+    },
+    {
+      "entity": "Nikon",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Nikon"
+    },
+    {
+      "entity": "Nikon F-mount",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Nikon_F-mount"
+    },
+    {
+      "entity": "Remote control",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Remote_control"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Lens",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Single-lens reflex camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Single-lens_reflex_camera"
+    },
+    {
+      "entity": "Sirui",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": ""
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "entity": "Nikkor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Nikkor"
+    },
+    {
+      "entity": "Ball",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Digital camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_camera"
+    },
+    {
+      "entity": "Shutter (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)"
+    },
+    {
+      "entity": "Photographer",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Image",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Image"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.27,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Screw",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.21,
+      "wiki": "http://en.wikipedia.org/wiki/Screw"
+    },
+    {
+      "entity": "Privacy",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.21,
+      "wiki": "http://en.wikipedia.org/wiki/Privacy"
+    }
+  ],
+  "errors": []
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:14:33.124Z",
+  "updatedAt": "2026-10-30T10:44:45.353Z",
   "categories": {
     "camera-tripods": [
       {
@@ -101,7 +101,8 @@
         ],
         "coveredBy": [
           "tripod-shake-when-pressing-shutter",
-          "how-to-choose-a-tripod-for-a-heavy-telephoto-lens"
+          "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+          "can-you-use-any-tripod-for-a-camera"
         ],
         "foundAt": "2026-10-19"
       },
@@ -662,7 +663,8 @@
           "tripod shake when pressing shutter"
         ],
         "coveredBy": [
-          "tripod-shake-when-pressing-shutter"
+          "tripod-shake-when-pressing-shutter",
+          "best-tripod-for-nikon-p1000"
         ],
         "foundAt": "2026-10-20"
       },
@@ -1743,10 +1745,8 @@
             "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
           }
         ],
-        "searches": [
-          "best tripod for nikon z8"
-        ],
-        "answeredBy": [
+        "searches": [],
+        "coveredBy": [
           "best-tripod-for-nikon-z8"
         ]
       },
@@ -1775,10 +1775,8 @@
             "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
           }
         ],
-        "searches": [
-          "best tripod for nikon z8"
-        ],
-        "answeredBy": [
+        "searches": [],
+        "coveredBy": [
           "best-tripod-for-nikon-z8"
         ]
       },
@@ -1801,10 +1799,8 @@
             "url": "https://forum.cameraegg.org/nikon-forum/most-recommended-tripods-for-nikon-z-series-mirrorless-cameras-81943/"
           }
         ],
-        "searches": [
-          "best tripod for nikon z8"
-        ],
-        "answeredBy": [
+        "searches": [],
+        "coveredBy": [
           "best-tripod-for-nikon-z8"
         ]
       },
@@ -1827,10 +1823,8 @@
             "url": "https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
           }
         ],
-        "searches": [
-          "best tripod for nikon z8"
-        ],
-        "answeredBy": [
+        "searches": [],
+        "coveredBy": [
           "best-tripod-for-nikon-z8"
         ]
       },
@@ -1853,10 +1847,8 @@
             "url": "https://www.camera-rumors.com/community/nikon-forum/what-is-the-best-tripod-for-nikon-z8-76602/"
           }
         ],
-        "searches": [
-          "best tripod for nikon z8"
-        ],
-        "answeredBy": [
+        "searches": [],
+        "coveredBy": [
           "best-tripod-for-nikon-z8"
         ]
       },
@@ -2489,6 +2481,295 @@
         ],
         "foundAt": "2026-10-30",
         "mentions": 3
+      },
+      {
+        "id": "camera-tripods-which-tripod-fits-my-camera",
+        "pain": "New buyers don't know whether a tripod will fit their camera and get confused by 1/4 and 3/8 screw sizes on listings",
+        "details": "Beginners ask whether tripods are brand-specific; listings mention both 1/4 and 3/8 screws, which reads like two incompatible standards.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/17g7bxt/38_in_tripod_heads/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Your tripod has a 3/8\" screw for the tripod head, most tripod heads, especially ballheads, have 3/8\" bottom screw hole.",
+            "url": "https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/"
+          },
+          {
+            "text": "In general yes they do. There are a few very rare exceptions.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/"
+          }
+        ],
+        "keywords": [
+          "can you use any tripod for a camera"
+        ],
+        "coveredBy": [
+          "can-you-use-any-tripod-for-a-camera"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3,
+        "searches": []
+      },
+      {
+        "id": "camera-tripods-proprietary-plate-mismatch",
+        "pain": "A quick release plate from one tripod does not fit another brand's head",
+        "details": "Plates are proprietary per maker; Arca-Swiss and Manfrotto RC2 are the common systems, and owners end up buying a second plate or clamp.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/quick-release-tripod-plate.2555037/",
+            "platform": "dpreview",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1gcwrhz/tripod_adapter_for_peak_design_quick_release/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The closest system behind Arca-Swiss is Manfrotto's RC2 system. A large part of else is quite proprietary.",
+            "url": "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/"
+          }
+        ],
+        "keywords": [
+          "can you use any tripod for a camera"
+        ],
+        "coveredBy": [
+          "can-you-use-any-tripod-for-a-camera"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3,
+        "searches": []
+      },
+      {
+        "id": "camera-tripods-phone-and-camera-one-tripod",
+        "pain": "Owners want one tripod for a phone and a camera, or to film golf swings with a phone",
+        "details": "Phones have no tripod socket; any tripod works once a phone clamp with a 1/4-20 socket is added. Golfers in r/golf say marketed golf tripods are unnecessary.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Cameras/comments/1kgwsht/is_there_a_tripod_were_it_can_hold_a_iphone_and_a/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/golf/comments/1irc4h4/tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Any tripod with a phone holder will do.",
+            "url": "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/"
+          }
+        ],
+        "keywords": [
+          "can you use any tripod for a camera"
+        ],
+        "coveredBy": [
+          "can-you-use-any-tripod-for-a-camera"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 3,
+        "searches": []
+      },
+      {
+        "id": "camera-tripods-plate-blocks-camera-parts",
+        "pain": "The tripod plate or mount blocks the battery door, screen or rig on the camera",
+        "details": "A plate that sticks out or sits off-center blocks the battery door or a flip screen; video shooters move the plate onto rails or a cage.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Problem solved-just going to mount the whole thing on rails and stick the release plate on the bottom.",
+            "url": "https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/"
+          }
+        ],
+        "keywords": [
+          "can you use any tripod for a camera"
+        ],
+        "coveredBy": [
+          "can-you-use-any-tripod-for-a-camera"
+        ],
+        "foundAt": "2026-10-30",
+        "mentions": 1,
+        "searches": []
+      },
+      {
+        "id": "nikon-p1000-forward-dip-full-zoom",
+        "pain": "The P1000 dips or creeps downward on the tripod head when the lens zooms out to 3000 mm",
+        "details": "The extending lens moves the center of gravity forward of the tripod socket, so the aim drops after you lock the head; owners fix it with a long plate slid back to the balance point.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskAstrophotography/comments/1hxqg6i/tripod_for_p1000/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the camera tends to overbalance when screwed directly to the head",
+            "url": "https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/"
+          },
+          {
+            "text": "the shift of weight forward caused the aiming point to dip down perceptibly",
+            "url": "https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/"
+          },
+          {
+            "text": "I got a neewer $130 one but it still has a slight dip at max zoom.",
+            "url": "https://www.reddit.com/r/AskAstrophotography/comments/1hxqg6i/tripod_for_p1000/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "nikon p1000 tripod",
+          "p1000 tripod droop",
+          "p1000 tripod plate"
+        ],
+        "keywords": [
+          "best tripod for nikon p1000"
+        ],
+        "coveredBy": [
+          "best-tripod-for-nikon-p1000"
+        ],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "nikon-p1000-blur-at-3000mm",
+        "pain": "Shots at full zoom come out soft or blurred even on a cheap tripod",
+        "details": "Handheld or on light, flexible tripods the 3000 mm view magnifies every tremor; owners report cheap tripods drooping and screws working loose, and recommend a sturdier tripod rated about 3x the camera.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/nikon-p1000-tripod-advice.4790192/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/Nikon/comments/18h015z/searching_for_a_good_tripod_for_my_p1000/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "always getting out of focus shots, shots with blur",
+            "url": "https://www.dpreview.com/forums/threads/nikon-p1000-tripod-advice.4790192/"
+          },
+          {
+            "text": "they drove me nuts with the camera shifting around and drooping and screws working themselves loose",
+            "url": "https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/"
+          },
+          {
+            "text": "Check the weight of your camera. Multiply by 3 and any tripod rated at that weight or above should be OK.",
+            "url": "https://www.reddit.com/r/Nikon/comments/18h015z/searching_for_a_good_tripod_for_my_p1000/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "makes all the difference in the world",
+            "url": "https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/"
+          }
+        ],
+        "searches": [
+          "nikon p1000 tripod",
+          "p1000 tripod droop",
+          "p1000 tripod plate"
+        ],
+        "keywords": [
+          "best tripod for nikon p1000"
+        ],
+        "coveredBy": [
+          "best-tripod-for-nikon-p1000"
+        ],
+        "foundAt": "2026-10-30"
+      },
+      {
+        "id": "nikon-p1000-plate-wobble-shallow-socket",
+        "pain": "The quick release plate wobbles or the camera rotates on the plate",
+        "details": "Coolpix tripod sockets are shallow, so a plate screw can bottom out before it clamps; in portrait the plate screw may not hold the weight. Owners add a pad or use a P1000-specific plate.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/page-2",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "nikon p1000 tripod",
+          "p1000 tripod droop",
+          "p1000 tripod plate"
+        ],
+        "keywords": [
+          "best tripod for nikon p1000"
+        ],
+        "coveredBy": [
+          "best-tripod-for-nikon-p1000"
+        ],
+        "foundAt": "2026-10-30"
       }
     ],
     "monopods": [
@@ -3240,6 +3521,70 @@
         ],
         "coveredBy": [],
         "foundAt": "2026-10-28"
+      },
+      {
+        "id": "travel-tripods-x100vi-socket-moved",
+        "pain": "X100V plates, grips and clutches don't fit the X100VI because its tripod socket moved",
+        "details": "X100VI owners find accessories made for the X100V sit off-center or overlap the lens side, because the tripod thread moved toward the front.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://davidroessli.com/logs/fujifilm-x100vi-minor-drawbacks/",
+            "platform": "blog",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "not all existing X100 accessories are compatible with the X100VI",
+            "url": "https://davidroessli.com/logs/fujifilm-x100vi-minor-drawbacks/"
+          }
+        ],
+        "searches": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "answeredBy": [
+          "best-tripod-for-fujifilm-x100vi"
+        ]
+      },
+      {
+        "id": "travel-tripods-x100vi-blows-over-in-wind",
+        "pain": "A light travel tripod blows over with a tiny X100VI when fully extended",
+        "details": "Owners of small, light travel tripods find a bit of wind tips the setup once the legs and column are all the way out.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "when fully extended it doesn't need much wind to blow over my x100vi",
+            "url": "https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/"
+          }
+        ],
+        "searches": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "answeredBy": [
+          "best-tripod-for-fujifilm-x100vi"
+        ]
       }
     ],
     "tripod-heads": [
@@ -3911,6 +4256,183 @@
             "text": "Swarovski's own 15x won't fit on the UTA 'U as in Universal'.",
             "url": "https://www.birdforum.net/threads/3-tripod-adapters-for-the-nl-pure.403184/"
           }
+        ]
+      },
+      {
+        "id": "laser-tripod-thread-mismatch",
+        "pain": "The laser level's thread does not fit the tripod (5/8-11 vs 1/4-20)",
+        "details": "Rotary and construction lasers mount on a 5/8-11 stud, while most line lasers, point lasers and camera tripods use 1/4-20; buyers end up with a tripod the laser cannot screw onto, or an adapter that becomes the weak link.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://quinnequipment.com/the-ultimate-guide-to-laser-level-tripods/",
+            "platform": "dealer",
+            "title": "The Ultimate Guide to Laser Level Tripods",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.ofzenandcomputing.com/best-tripods-for-laser-levels-and-transits/",
+            "platform": "blog",
+            "title": "10 Best Tripods for Laser Levels and Transits",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.dewalt.com/en-us/product/dw0737/construction-tripod",
+            "platform": "maker reviews",
+            "title": "DEWALT DW0737 owner reviews",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Camera tripods typically use 1/4-20 threads and need an adapter.",
+            "url": "https://www.ofzenandcomputing.com/best-tripods-for-laser-levels-and-transits/"
+          },
+          {
+            "text": "The small brass threaded part easily rips out of the plastic.",
+            "url": "https://www.dewalt.com/en-us/product/dw0737/construction-tripod"
+          }
+        ],
+        "keywords": [
+          "best tripod for laser level",
+          "laser level tripod thread"
+        ],
+        "answeredBy": [
+          "best-tripod-for-laser-level"
+        ]
+      },
+      {
+        "id": "laser-tripod-not-tall-enough",
+        "pain": "The tripod will not lift the laser high enough for ceilings and upper cabinets, or will not go low enough for base cabinets",
+        "details": "Tile setters and DIYers say laser tripods top out around 54-72 in, so they thrift tall camera tripods or switch to poles; others find a compact tripod still too tall for base-cabinet lines with the legs collapsed.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Tile/comments/1dm48im/what_tripod_do_you_guys_use_for_your_laser_level/",
+            "platform": "reddit",
+            "title": "What tripod do you guys use for your laser level?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/dgkyo8/sturdy_tall_80_tripod_suggestions_for_laser_level/",
+            "platform": "reddit",
+            "title": "Sturdy tall (80\") tripod suggestions for laser level?",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.reddit.com/r/Dewalt/comments/1jatebs/looking_for_a_good_tripod_for_my_laser/",
+            "platform": "reddit",
+            "title": "Looking for a good tripod for my laser",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Tri pods max at 54 or some at 72.",
+            "url": "https://www.reddit.com/r/Tile/comments/1dm48im/what_tripod_do_you_guys_use_for_your_laser_level/"
+          },
+          {
+            "text": "Been looking for an extra tall tripod for my laser level, thrifted this old heavy duty camera one for $7.99.",
+            "url": "https://www.reddit.com/r/HomeImprovement/comments/dgkyo8/sturdy_tall_80_tripod_suggestions_for_laser_level/"
+          }
+        ],
+        "keywords": [
+          "best tripod for laser level",
+          "tall laser level tripod"
+        ],
+        "answeredBy": [
+          "best-tripod-for-laser-level"
+        ]
+      },
+      {
+        "id": "laser-tripod-plastic-clip-breaks",
+        "pain": "The plastic quick-release clip or lever breaks and the laser falls",
+        "details": "Owners of compact line-laser tripods report the spring-loaded plastic clip holding the mounting plate snapping within months, sometimes dropping the laser; replacement parts are hard to get.",
+        "mentions": 5,
+        "sources": [
+          {
+            "url": "https://www.boschtools.com/us/en/products/bt-150-0601096B10",
+            "platform": "maker reviews",
+            "title": "Bosch BT 150 owner reviews",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.garagejournal.com/forum/threads/looking-for-a-elevator-tripod-for-my-laser.510842/",
+            "platform": "forum",
+            "title": "Looking for a elevator tripod for my laser.",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the plastic clip that holds the mounting plate broke and my level fell and broke.",
+            "url": "https://www.boschtools.com/us/en/products/bt-150-0601096B10"
+          }
+        ],
+        "keywords": [
+          "best tripod for bosch laser level"
+        ],
+        "answeredBy": [
+          "best-tripod-for-laser-level"
+        ]
+      },
+      {
+        "id": "laser-tripod-legs-slide-on-tile",
+        "pain": "Tripod legs slide outward on tile and smooth floors until the laser tips over",
+        "details": "Construction tripods with no leg brace splay on tile or polished concrete, especially with rubber boots on the spikes.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.dewalt.com/en-us/product/dw0737/construction-tripod",
+            "platform": "maker reviews",
+            "title": "DEWALT DW0737 owner reviews",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "On tile floor with the rubber protective boots, it slowly slides outward till it falls over",
+            "url": "https://www.dewalt.com/en-us/product/dw0737/construction-tripod"
+          }
+        ],
+        "keywords": [
+          "best tripod for dewalt laser level"
+        ],
+        "answeredBy": [
+          "best-tripod-for-laser-level"
+        ]
+      },
+      {
+        "id": "laser-tripod-elevator-wobble",
+        "pain": "A raised elevator column wobbles and the laser keeps re-leveling or shuts off",
+        "details": "Owners say cranking the elevator up costs stability, and one BT300HD owner reports the laser switching off in wind when the column lock did not hold.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.garagejournal.com/forum/threads/looking-for-a-elevator-tripod-for-my-laser.510842/",
+            "platform": "forum",
+            "title": "Looking for a elevator tripod for my laser.",
+            "seen": "2026-10-30"
+          },
+          {
+            "url": "https://www.boschtools.com/us/en/products/bt300-hd-0601091410",
+            "platform": "maker reviews",
+            "title": "Bosch BT300 HD owner reviews",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Using the elevator greatly reduces the stability, so get as tall on the legs as you can.",
+            "url": "https://www.garagejournal.com/forum/threads/looking-for-a-elevator-tripod-for-my-laser.510842/"
+          }
+        ],
+        "keywords": [
+          "best tripod for laser level",
+          "elevator tripod laser"
+        ],
+        "answeredBy": [
+          "best-tripod-for-laser-level"
         ]
       }
     ],
@@ -5039,6 +5561,93 @@
           "best-tripod-for-macro-photography"
         ],
         "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tabletop-mini-x100vi-head-sags",
+        "pain": "Cheap mini tripod heads sag under an X100VI even below their rated load",
+        "details": "X100VI owners report budget mini heads that would not hold the camera even well under the stated rating.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/x100vi/comments/1in1rwh/small_tripod_recommendations_for_travel/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Tried to use it once and the tripod head couldn't take the weight even though the load was 50% below its rating.",
+            "url": "https://www.reddit.com/r/x100vi/comments/1in1rwh/small_tripod_recommendations_for_travel/"
+          }
+        ],
+        "searches": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "answeredBy": [
+          "best-tripod-for-fujifilm-x100vi"
+        ]
+      },
+      {
+        "id": "tabletop-mini-x100vi-gorillapod-1k-flimsy",
+        "pain": "A GorillaPod 1K feels flimsy under an X100VI",
+        "details": "Owners who used the 1-kg GorillaPod with smaller compacts find it less confidence-inspiring with the larger X100VI.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Fujifilm_X100VI/comments/1i6ur2e/anyone_here_using_the_joby_gorilla_pod_seeking/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "1kg feels kinda flimsy imo.",
+            "url": "https://www.reddit.com/r/Fujifilm_X100VI/comments/1i6ur2e/anyone_here_using_the_joby_gorilla_pod_seeking/"
+          }
+        ],
+        "searches": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "answeredBy": [
+          "best-tripod-for-fujifilm-x100vi"
+        ]
+      },
+      {
+        "id": "tabletop-mini-x100vi-portrait-on-table-tripod",
+        "pain": "Shooting portrait orientation with an X100VI on a small table tripod",
+        "details": "Owners want vertical shots on a tabletop tripod without tipping the head over.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-10-30"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "What you need is an L bracket so you can mount the camera portrait or landscape without moving the tripod head.",
+            "url": "https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/"
+          }
+        ],
+        "searches": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "keywords": [
+          "best tripod for fujifilm x100vi"
+        ],
+        "answeredBy": [
+          "best-tripod-for-fujifilm-x100vi"
+        ]
       }
     ],
     "phone-tripods": [
@@ -5249,6 +5858,142 @@
           "best-tripod-for-content-creators"
         ],
         "foundAt": "2026-10-23"
+      },
+      {
+        "id": "phone-tripods-gym-tripod-in-the-way",
+        "pain": "A tripod on a busy gym floor gets in other members' way and annoys them",
+        "details": "Threads in r/powerlifting and r/workout split on filming; a small, discreet setup filming one lift is accepted, big setups that take up floor space are not.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
+          },
+          {
+            "url": "https://www.reddit.com/r/workout/comments/1wv52na/hot_take_should_gyms_ban_tripods/"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Discreet camera filming just your squats from a side angle = perfectly acceptable.",
+            "url": "https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
+          },
+          {
+            "text": "Tripods get in the way at best",
+            "url": "https://www.reddit.com/r/workout/comments/1wv52na/hot_take_should_gyms_ban_tripods/"
+          }
+        ],
+        "keywords": [
+          "best tripod for gym videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-gym-videos"
+        ],
+        "foundAt": "2026-10-30",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-gym-tripod-knocked-over",
+        "pain": "Small phone tripods get bumped or knocked over on the gym floor",
+        "details": "Members in r/PlanetFitnessMembers and r/goodlifefitness admit to backing into tiny tripods; a low, wide stance away from walkways is the fix.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/PlanetFitnessMembers/comments/1ic1b8e/how_do_we_feel_about_filming_in_the_gym/"
+          },
+          {
+            "url": "https://www.reddit.com/r/goodlifefitness/comments/1q4cm6e/can_we_talk_about_the_tripod_situation_at_the_gym/"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "back into it and knock it over",
+            "url": "https://www.reddit.com/r/PlanetFitnessMembers/comments/1ic1b8e/how_do_we_feel_about_filming_in_the_gym/"
+          }
+        ],
+        "keywords": [
+          "best tripod for gym videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-gym-videos"
+        ],
+        "foundAt": "2026-10-30",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-gym-tripod-gets-trashed",
+        "pain": "Gym tripods get beaten up, so buyers want cheap or tough ones",
+        "details": "An r/crossfit poster wants the cheapest workable tripod because it will be abused around the gym.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/crossfit/comments/1hzj9z7/best_tripod_for_workouts/"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Cheaper the better because they'll probably get trashed in/around gyms.",
+            "url": "https://www.reddit.com/r/crossfit/comments/1hzj9z7/best_tripod_for_workouts/"
+          }
+        ],
+        "keywords": [
+          "best tripod for gym videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-gym-videos"
+        ],
+        "foundAt": "2026-10-30",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-gym-wrong-height-angle",
+        "pain": "Lifters don't know what height and angle to film each lift from",
+        "details": "r/beginnerfitness and r/weightlifting replies point to knee height and a 45 degree angle for squats; improvised setups (phone in a shoe) only work low.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/"
+          },
+          {
+            "url": "https://www.reddit.com/r/weightlifting/comments/qer94y/how_would_you_recommend_recording_lifts_by/"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Film your squats from about knee height (use a tripod) from 45 degrees behind and to the side.",
+            "url": "https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/"
+          }
+        ],
+        "keywords": [
+          "best tripod for gym videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-gym-videos"
+        ],
+        "foundAt": "2026-10-30",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-gym-wobble-full-extension",
+        "pain": "All-in-one phone tripods wobble at full height and when you tap record",
+        "details": "Metric's gym tripod guide notes wobble when setting up and tapping record, especially fully extended; owners of the MT-44 report the same.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://metric.coach/articles/best-gym-tripod-for-phones"
+          },
+          {
+            "url": "https://jameswoo.net/ulanzi-mt-44-mini-tripod-selfie-stick-review/"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for gym videos"
+        ],
+        "coveredBy": [
+          "best-tripod-for-gym-videos"
+        ],
+        "foundAt": "2026-10-30",
+        "searches": []
       }
     ]
   }

@@ -1,0 +1,566 @@
+{
+  "keyword": "best tripod for gym videos",
+  "createdAt": "2026-10-30T10:44:56.075Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for gym videos",
+    "entityVariants": [
+      "best tripod for gym videos",
+      "best tripod for gym content",
+      "gym tripod",
+      "phone tripod for the gym",
+      "tripod for filming workouts",
+      "tripod for filming lifts"
+    ],
+    "entities": [
+      {
+        "name": "Tripod",
+        "type": "product type",
+        "relation": "three-legged stand that holds the phone or camera still for a set",
+        "salience": 0.85,
+        "pages": 5
+      },
+      {
+        "name": "Smartphone",
+        "type": "device",
+        "relation": "the camera most gym videos are filmed on; its width decides whether a clamp fits",
+        "salience": 0.44,
+        "pages": 4
+      },
+      {
+        "name": "iPhone",
+        "type": "device",
+        "relation": "most common filming phone in the top results; Pro Max width tests clamp ranges",
+        "salience": 0.68,
+        "pages": 4
+      },
+      {
+        "name": "Gym",
+        "type": "place",
+        "relation": "crowded floor where footprint, setup speed and etiquette matter",
+        "salience": 0.6,
+        "pages": 4
+      },
+      {
+        "name": "Exercise",
+        "type": "activity",
+        "relation": "squats, deadlifts, presses and classes filmed for form checks and content",
+        "salience": 0.55,
+        "pages": 4
+      },
+      {
+        "name": "Video",
+        "type": "media",
+        "relation": "form-check clips, reels and coaching videos",
+        "salience": 0.74,
+        "pages": 3
+      },
+      {
+        "name": "Camera",
+        "type": "device",
+        "relation": "phone camera or small mirrorless body on the tripod",
+        "salience": 0.58,
+        "pages": 3
+      },
+      {
+        "name": "MagSafe",
+        "type": "standard",
+        "relation": "magnetic phone mount used by pocket gym stands; less secure than a clamp",
+        "salience": 0.66,
+        "pages": 2
+      },
+      {
+        "name": "Selfie stick",
+        "type": "product type",
+        "relation": "pole tripods like the Ulanzi MT-44 that fold into a grip",
+        "salience": 0.48,
+        "pages": 2
+      },
+      {
+        "name": "Angle",
+        "type": "attribute",
+        "relation": "45 degree and side angles used to check form",
+        "salience": 0.46,
+        "pages": 2
+      },
+      {
+        "name": "Android",
+        "type": "operating system",
+        "relation": "phones other than iPhone that fit universal clamps",
+        "salience": 0.39,
+        "pages": 2
+      },
+      {
+        "name": "phone clamp",
+        "type": "accessory",
+        "relation": "spring holder that screws onto a 1/4-20 thread; its width range must cover the phone and case",
+        "salience": 0.5
+      },
+      {
+        "name": "ball head",
+        "type": "component",
+        "relation": "lets you tilt the phone for low deadlift or high overhead framing",
+        "salience": 0.3
+      },
+      {
+        "name": "center column",
+        "type": "component",
+        "relation": "raises the phone for overhead lifts but adds wobble when extended",
+        "salience": 0.3
+      },
+      {
+        "name": "Velocity-based training app",
+        "type": "software",
+        "relation": "apps such as Metric Lift that need a steady phone to track bar path",
+        "salience": 0.25
+      }
+    ],
+    "attributes": [
+      "footprint on a crowded gym floor",
+      "setup and teardown speed between sets",
+      "working height for deadlift, squat and overhead framing",
+      "phone clamp width vs phone and case",
+      "stability at full extension",
+      "folded length for a gym bag",
+      "weight",
+      "rated load vs phone weight",
+      "durability against knocks"
+    ],
+    "ngrams": [
+      "tripod for gym videos",
+      "phone tripod",
+      "gym bag",
+      "phone holder",
+      "phone clamp",
+      "filming lifts",
+      "form check",
+      "selfie stick tripod",
+      "full extension",
+      "squat rack"
+    ],
+    "skipgrams": [
+      "tripod…gym",
+      "phone…clamp",
+      "film…lifts",
+      "height…deadlift",
+      "wobble…extension",
+      "gym…bag"
+    ],
+    "nlpTerms": [
+      "form check",
+      "bar path",
+      "deadlift",
+      "squat",
+      "overhead press",
+      "45 degree angle",
+      "portrait",
+      "landscape",
+      "1/4-20 screw",
+      "remote",
+      "footprint",
+      "gym etiquette",
+      "reels",
+      "TikTok"
+    ],
+    "questions": [
+      "What is the best tripod for filming at the gym?",
+      "How high should my phone be to film squats and deadlifts?",
+      "Will my phone with a case fit the tripod clamp?",
+      "Is it okay to bring a tripod to the gym?",
+      "Do I need a full-size tripod or a mini tripod for the gym?",
+      "How do I stop my phone tripod from wobbling or getting knocked over?"
+    ],
+    "contentGaps": [
+      "Clamp width checked against a large phone's published width",
+      "Camera height and angle by lift, tied to each tripod's height range",
+      "Footprint and etiquette fixes for a crowded floor",
+      "Which tripod for commercial gym vs home gym vs coach filming several athletes"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for gym videos picks at a glance",
+        "intent": "direct answer + comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these gym video tripods",
+        "intent": "method, who else recommends them, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for gym videos, reviewed",
+        "intent": "one section per product + Which one should you get",
+        "h3": [
+          "ULANZI MT-44 Extendable Tripod: best tripod for gym videos in a gym bag",
+          "Manfrotto Element MII Aluminum Tripod with Ball Head: best tripod for filming lifts on the platform",
+          "Peak Design Travel Tripod (Aluminum): fastest-setup gym tripod with a built-in phone mount",
+          "SIRUI Traveler 5C Carbon Fiber Tripod: lightest full-height tripod for gym content",
+          "Manfrotto PIXI Mini Tripod: best bench-top tripod for gym videos"
+        ]
+      },
+      {
+        "h2": "Gym tripod height and angle for each lift",
+        "intent": "how-to: camera height and angle by lift",
+        "h3": []
+      },
+      {
+        "h2": "Will your phone fit the gym tripod clamp?",
+        "intent": "analysis: clamp width vs phone width",
+        "h3": []
+      },
+      {
+        "h2": "Gym tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "Which gym video tripod should you get?",
+        "intent": "verdict and next step",
+        "h3": []
+      }
+    ],
+    "targetWords": 1800,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://metric.coach/articles/best-gym-tripod-for-phones",
+        "https://momanx.com/blogs/moman-ideas/fitness-vlog-equipment-for-beginners",
+        "https://mojogear.eu/en-int/blogs/blog/what-s-the-best-way-to-film-yourself-in-the-gym-with-your-smartphone",
+        "https://lumipia.com/blogs/news/best-tripod-for-fitness-creators",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The gym-specific results (Metric, Moman, Lumipia) and the iPhone tripod roundup from Swarmify describe each tripod in running paragraphs by use, not as spec tables; Swarmify adds a one-line pros/cons after each paragraph.",
+      "avgWords": 1990,
+      "avgWordsNote": "Approximate body word counts: Metric 1,100, Moman 1,150, Mojogear 350, Lumipia 160, Swarmify 3,200, Amateur Photographer about 5,000 (page text incl. navigation 5,884).",
+      "avgProducts": 4,
+      "commonSections": [
+        "why use a tripod in the gym",
+        "what makes a good gym tripod (stability, adjustability, portability)",
+        "product picks",
+        "etiquette or being considerate of others",
+        "phone holder / bracket",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/iphone-tripod-gym-workout/s?k=iphone+tripod+for+gym+workout",
+        "title": "Iphone Tripod For Gym Workout - Amazon.com"
+      },
+      {
+        "position": 2,
+        "url": "https://metric.coach/articles/best-gym-tripod-for-phones",
+        "title": "Best gym tripod for your phone (under $25) - Metric coach"
+      },
+      {
+        "position": 3,
+        "url": "https://www.instagram.com/reel/DIeQ2gkxqY4/?hl=en",
+        "title": "This is by far one of the best tripods I've ever used for my gym content ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/crossfit/comments/1hzj9z7/best_tripod_for_workouts/",
+        "title": "Best tripod for workouts : r/crossfit - Reddit"
+      },
+      {
+        "position": 5,
+        "url": "https://www.tiktok.com/@itsgaberocha/video/7334821049860754718",
+        "title": "Best Tripod for Gym and Coaching Content | TikTok"
+      },
+      {
+        "position": 6,
+        "url": "https://geometrical-inc.com/pages/the-best-phone-holder-for-gym",
+        "title": "The best phone holder for gym | GEOMETRICAL - Pocket Tripod"
+      },
+      {
+        "position": 7,
+        "url": "https://www.instagram.com/reel/DUWAqjuj3Jx/?hl=en",
+        "title": "Yall, I'm all for filming yourself in the gym. GET THAT WORK IN! But let's ..."
+      },
+      {
+        "position": 8,
+        "url": "https://lumipia.com/blogs/news/best-tripod-for-fitness-creators",
+        "title": "The Must-Have MagSafe Tripod for Fitness Creators: Shoot Better iPhone"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=_VXnGHyyeAA",
+        "title": "Best Selfistick Tripod For Fitness Content Creators (Tiktok Tripod)"
+      },
+      {
+        "position": 10,
+        "url": "https://www.instagram.com/popular/best-tripod-for-gym-content/",
+        "title": "Best Tripod For Gym Content - Instagram"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 2,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "gym",
+        "phone",
+        "content",
+        "workout",
+        "fitness creators"
+      ],
+      "gap": "No top-10 title is a roundup that covers both a pocket tripod for a crowded gym and a full-height tripod for filming lifts, with a year and a pick count."
+    },
+    "serpProducts": [
+      {
+        "name": "ULANZI MT-44 Extendable Tripod",
+        "pages": [
+          "https://swarmify.com/blog/iphone-tripod/",
+          "https://mojogear.eu/en-int/blogs/blog/what-s-the-best-way-to-film-yourself-in-the-gym-with-your-smartphone",
+          "https://mojogear.eu/en-int/blogs/blog/best-selfie-sticks-in-2026-choice-guide"
+        ]
+      },
+      {
+        "name": "Manfrotto Element MII Aluminum Tripod with Ball Head (MKELMII4BK-BH)",
+        "pages": [
+          "https://swarmify.com/blog/iphone-tripod/",
+          "https://www.reneeroaming.com/best-travel-tripods/"
+        ]
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://www.reneeroaming.com/best-travel-tripods/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+        "pages": [
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI Mini Tripod",
+        "pages": [
+          "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://swarmify.com/blog/iphone-tripod/"
+        ]
+      },
+      {
+        "name": "JOBY GorillaPod 1K Kit (dropped: no featured Amazon offer)",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+          "https://www.reddit.com/r/weightlifting/comments/bglqse/phone_mount_recs_for_filming_lifts/"
+        ]
+      }
+    ],
+    "commonPoints": [
+      "A tripod makes form checks and content more consistent than propping the phone on a bottle or shoe",
+      "Stability, adjustable height/angle and portability are the three things to weigh",
+      "Full-size tripods need a separate phone holder; all-in-one phone tripods include one",
+      "Be considerate: keep the tripod out of walkways and other people out of the shot",
+      "Cheap all-in-one tripods wobble when fully extended"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Clamp width check: the ULANZI MT-44 clamp takes phones 60 to 80 mm wide (B&H), and an iPhone 17 Pro Max is 78.0 mm wide bare (Apple), leaving about 2 mm for a case.",
+        "source": "https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
+        "absentFrom": [
+          "https://metric.coach/articles/best-gym-tripod-for-phones",
+          "https://momanx.com/blogs/moman-ideas/fitness-vlog-equipment-for-beginners",
+          "https://lumipia.com/blogs/news/best-tripod-for-fitness-creators",
+          "https://mojogear.eu/en-int/blogs/blog/what-s-the-best-way-to-film-yourself-in-the-gym-with-your-smartphone"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by gym situation: busy commercial floor (MT-44 or PIXI on a bench), lifting platform or home gym (Element MII), coach filming several athletes (Peak Design with its stowed phone mount), lightest full-height bag carry (Sirui 5C).",
+        "source": "maker specs (Ulanzi, Manfrotto, Peak Design, Sirui)",
+        "absentFrom": [
+          "https://metric.coach/articles/best-gym-tripod-for-phones",
+          "https://swarmify.com/blog/iphone-tripod/",
+          "https://momanx.com/blogs/moman-ideas/fitness-vlog-equipment-for-beginners"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Height and angle by lift: knee height at about 45 degrees behind and to the side for squats (r/beginnerfitness advice), low for deadlifts, taller for overhead lifts, matched to each tripod's height range without the column raised.",
+        "source": "https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/",
+        "absentFrom": [
+          "https://momanx.com/blogs/moman-ideas/fitness-vlog-equipment-for-beginners",
+          "https://lumipia.com/blogs/news/best-tripod-for-fitness-creators",
+          "https://swarmify.com/blog/iphone-tripod/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Load headroom: a 233 g iPhone 17 Pro Max uses about a quarter of the MT-44's 1 kg rating and a fraction of the Element MII's 8 kg, so stability, not load, is the real limit.",
+        "source": "https://support.apple.com/en-us/125091",
+        "absentFrom": [
+          "https://metric.coach/articles/best-gym-tripod-for-phones",
+          "https://momanx.com/blogs/moman-ideas/fitness-vlog-equipment-for-beginners",
+          "https://lumipia.com/blogs/news/best-tripod-for-fitness-creators"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "phone-tripods-gym-tripod-in-the-way",
+        "pain": "A tripod on a busy gym floor gets in other members' way and annoys them",
+        "details": "Threads in r/powerlifting and r/workout split on filming; a small, discreet setup filming one lift is accepted, big setups that take up floor space are not.",
+        "sources": [
+          "https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/",
+          "https://www.reddit.com/r/workout/comments/1wv52na/hot_take_should_gyms_ban_tripods/"
+        ],
+        "quotes": [
+          {
+            "text": "Discreet camera filming just your squats from a side angle = perfectly acceptable.",
+            "url": "https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
+          },
+          {
+            "text": "Tripods get in the way at best",
+            "url": "https://www.reddit.com/r/workout/comments/1wv52na/hot_take_should_gyms_ban_tripods/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-gym-tripod-knocked-over",
+        "pain": "Small phone tripods get bumped or knocked over on the gym floor",
+        "details": "Members in r/PlanetFitnessMembers and r/goodlifefitness admit to backing into tiny tripods; a low, wide stance away from walkways is the fix.",
+        "sources": [
+          "https://www.reddit.com/r/PlanetFitnessMembers/comments/1ic1b8e/how_do_we_feel_about_filming_in_the_gym/",
+          "https://www.reddit.com/r/goodlifefitness/comments/1q4cm6e/can_we_talk_about_the_tripod_situation_at_the_gym/"
+        ],
+        "quotes": [
+          {
+            "text": "back into it and knock it over",
+            "url": "https://www.reddit.com/r/PlanetFitnessMembers/comments/1ic1b8e/how_do_we_feel_about_filming_in_the_gym/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-gym-tripod-gets-trashed",
+        "pain": "Gym tripods get beaten up, so buyers want cheap or tough ones",
+        "details": "An r/crossfit poster wants the cheapest workable tripod because it will be abused around the gym.",
+        "sources": [
+          "https://www.reddit.com/r/crossfit/comments/1hzj9z7/best_tripod_for_workouts/"
+        ],
+        "quotes": [
+          {
+            "text": "Cheaper the better because they'll probably get trashed in/around gyms.",
+            "url": "https://www.reddit.com/r/crossfit/comments/1hzj9z7/best_tripod_for_workouts/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-gym-wrong-height-angle",
+        "pain": "Lifters don't know what height and angle to film each lift from",
+        "details": "r/beginnerfitness and r/weightlifting replies point to knee height and a 45 degree angle for squats; improvised setups (phone in a shoe) only work low.",
+        "sources": [
+          "https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/",
+          "https://www.reddit.com/r/weightlifting/comments/qer94y/how_would_you_recommend_recording_lifts_by/"
+        ],
+        "quotes": [
+          {
+            "text": "Film your squats from about knee height (use a tripod) from 45 degrees behind and to the side.",
+            "url": "https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-gym-wobble-full-extension",
+        "pain": "All-in-one phone tripods wobble at full height and when you tap record",
+        "details": "Metric's gym tripod guide notes wobble when setting up and tapping record, especially fully extended; owners of the MT-44 report the same.",
+        "sources": [
+          "https://metric.coach/articles/best-gym-tripod-for-phones",
+          "https://jameswoo.net/ulanzi-mt-44-mini-tripod-selfie-stick-review/"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "60 to 80 mm",
+        "claim": "Ulanzi MT-44 phone clamp width range",
+        "url": "https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
+        "quote": "Compatible Device Width: 2.4 to 3.1\" / 60 to 80 mm"
+      },
+      {
+        "number": "78.0 mm",
+        "claim": "iPhone 17 Pro Max width",
+        "url": "https://support.apple.com/en-us/125091",
+        "quote": "Width: 3.07 inches (78.0 mm)"
+      },
+      {
+        "number": "132 cm",
+        "claim": "Manfrotto Element MII max height with the center column down",
+        "url": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/",
+        "quote": "Maximum Height (with Center Column Down)132 cm51.97 in"
+      },
+      {
+        "number": "233 grams",
+        "claim": "iPhone 17 Pro Max weight",
+        "url": "https://support.apple.com/en-us/125091",
+        "quote": "Weight: 8.22 ounces (233 grams)"
+      }
+    ],
+    "videos": [
+      {
+        "id": "8nb2Ljf3aho",
+        "title": "How to Film Cinematic Gym Videos With Just Your Phone",
+        "channel": "Jason Dom",
+        "url": "https://www.youtube.com/watch?v=8nb2Ljf3aho",
+        "section": "Gym tripod height and angle for each lift"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-tripod-for-content-creators",
+      "best-phone-tripod-for-vlogging-with-remote",
+      "best-tripod-for-youtube-videos",
+      "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "best-tripod-for-filming-sports"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-content-creators",
+        "find": "The GorillaPod 3K Kit is the flexible tripod we would choose when the shot is on a railing, a stroller handle or a cluttered set.",
+        "replace": "The GorillaPod 3K Kit is the flexible tripod we would choose when the shot is on a railing, a stroller handle or a cluttered set; for a squat rack or bench, see our [tripods for gym videos](/blog/best-tripod-for-gym-videos/)."
+      },
+      {
+        "slug": "best-phone-tripod-for-vlogging-with-remote",
+        "find": "The SENSYNE 62-Inch is the simplest way to get a phone up to standing height with a remote for little money.",
+        "replace": "The SENSYNE 62-Inch is the simplest way to get a phone up to standing height with a remote for little money, and our [tripods for gym videos](/blog/best-tripod-for-gym-videos/) cover filming lifts."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for gym content",
+      "best tripod for gym",
+      "best tripod for the gym",
+      "best tripod for yoga videos",
+      "best gym tripod",
+      "phone tripod for gym",
+      "tripod for filming workouts"
+    ],
+    "angle": "Gym-floor fit first: footprint, setup speed, height per lift and whether a cased phone fits the clamp, from a pocket selfie-stick tripod to a full-height platform tripod.",
+    "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-gym-videos.entities.json); shared entities copied with relevance as salience."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-content-creators",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-filming-sports",
+      "mode": "related-box"
+    }
+  ]
+}
