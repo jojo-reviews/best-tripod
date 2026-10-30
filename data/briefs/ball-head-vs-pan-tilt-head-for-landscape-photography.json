@@ -1,30 +1,263 @@
 {
   "centralEntity": "ball head vs pan tilt head for landscape photography",
-  "entityVariants": ["ball head or pan tilt head", "pan tilt vs ball head for landscapes", "best head type for landscape tripod", "ball head vs pan head", "ball head vs 3-way head", "ball head vs geared head"],
-  "entities": [
-    {"name": "ball head", "type": "tripod head type", "relation": "single-knob head that moves the camera freely in every direction on a ball-and-socket joint"},
-    {"name": "pan tilt head", "type": "tripod head type", "relation": "head with separate controls per axis (also called 3-way head or pan head), the main alternative to a ball head"},
-    {"name": "geared head", "type": "tripod head type", "relation": "pan-tilt head with gear knobs for very fine, repeatable movements"},
-    {"name": "fluid head", "type": "tripod head type", "relation": "video head with damped pans, the answer to using a ball head for video"},
-    {"name": "gimbal head", "type": "tripod head type", "relation": "balanced head for long telephoto lenses, not typical for landscapes"},
-    {"name": "leveling base", "type": "accessory", "relation": "bowl or base that levels the head so panoramas stay straight"},
-    {"name": "Arca-Swiss", "type": "standard", "relation": "dovetail clamp and plate standard used by most landscape heads"},
-    {"name": "panning clamp", "type": "feature", "relation": "separate pan lock on a ball head for stitched panoramas"},
-    {"name": "friction control knob", "type": "feature", "relation": "adjusts ball tension to prevent camera droop"},
-    {"name": "Acratech", "type": "brand", "relation": "reference maker of landscape ball heads and pan-tilt heads"},
-    {"name": "Benro GD3WH", "type": "product", "relation": "3-way geared head"},
-    {"name": "Manfrotto 410 Junior Geared Head", "type": "product", "relation": "heavy, accurate geared head"},
-    {"name": "Manfrotto 322RC2", "type": "product", "relation": "joystick pistol-grip head often named for landscapes"},
-    {"name": "Leofoto", "type": "brand", "relation": "maker of ball heads and pan-tilt heads"},
-    {"name": "Sirui", "type": "brand", "relation": "maker of ball heads and pan-tilt heads"},
-    {"name": "graduated ND filter", "type": "gear", "relation": "needs precise horizon alignment, favoring controlled heads"},
-    {"name": "panorama stitching", "type": "technique", "relation": "requires a level pan axis"},
-    {"name": "mirrorless camera with 24-70mm", "type": "gear", "relation": "typical landscape load a head must hold"}
+  "entityVariants": [
+    "ball head vs pan tilt head",
+    "ball head or pan tilt head",
+    "pan tilt vs ball head for landscapes",
+    "best head type for landscape tripod",
+    "ball head vs pan head",
+    "ball head vs 3-way head",
+    "ball head vs geared head"
   ],
-  "attributes": ["adjustment speed", "precision", "horizon leveling", "weight", "height", "load capacity", "friction control", "panning clamp", "Arca-Swiss compatibility", "price", "camera droop", "portrait orientation", "panorama", "video pan smoothness", "learning curve", "lock-off creep"],
-  "ngrams": ["ball head", "pan tilt head", "landscape photography", "three way head", "geared head", "tripod head", "fine adjustments", "load capacity", "panning base", "Arca-Swiss plate", "level the horizon", "camera droop", "quick release", "precise composition"],
-  "skipgrams": ["ball…knob", "pan…tilt", "head…landscape", "separate…axis", "level…horizon", "ball…droop", "head…load", "panning…panorama", "geared…precise", "ball…fast", "head…weight", "head…video"],
-  "nlpTerms": ["ball-and-socket", "friction", "tension", "drag", "axis", "levelling", "bubble level", "panorama", "composition", "tilt", "pan", "vertical orientation", "L-bracket", "lock", "tripod", "payload", "geared", "fluid", "backpacking", "foreground", "horizon", "stitching", "macro", "telephoto", "mirrorless", "DSLR", "stability", "creep"],
+  "entities": [
+    {
+      "name": "ball head",
+      "type": "tripod head type",
+      "relation": "single-knob head that moves the camera freely in every direction on a ball-and-socket joint"
+    },
+    {
+      "name": "pan tilt head",
+      "type": "tripod head type",
+      "relation": "head with separate controls per axis (also called 3-way head or pan head), the main alternative to a ball head"
+    },
+    {
+      "name": "geared head",
+      "type": "tripod head type",
+      "relation": "pan-tilt head with gear knobs for very fine, repeatable movements"
+    },
+    {
+      "name": "fluid head",
+      "type": "tripod head type",
+      "relation": "video head with damped pans, the answer to using a ball head for video"
+    },
+    {
+      "name": "gimbal head",
+      "type": "tripod head type",
+      "relation": "balanced head for long telephoto lenses, not typical for landscapes"
+    },
+    {
+      "name": "leveling base",
+      "type": "accessory",
+      "relation": "bowl or base that levels the head so panoramas stay straight"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail clamp and plate standard used by most landscape heads"
+    },
+    {
+      "name": "panning clamp",
+      "type": "feature",
+      "relation": "separate pan lock on a ball head for stitched panoramas"
+    },
+    {
+      "name": "friction control knob",
+      "type": "feature",
+      "relation": "adjusts ball tension to prevent camera droop"
+    },
+    {
+      "name": "Acratech",
+      "type": "brand",
+      "relation": "reference maker of landscape ball heads and pan-tilt heads",
+      "salience": 0.6
+    },
+    {
+      "name": "Benro GD3WH",
+      "type": "product",
+      "relation": "3-way geared head"
+    },
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "type": "product",
+      "relation": "heavy, accurate geared head"
+    },
+    {
+      "name": "Manfrotto 322RC2",
+      "type": "product",
+      "relation": "joystick pistol-grip head often named for landscapes"
+    },
+    {
+      "name": "Leofoto",
+      "type": "brand",
+      "relation": "maker of ball heads and pan-tilt heads",
+      "salience": 0.56
+    },
+    {
+      "name": "Sirui",
+      "type": "brand",
+      "relation": "maker of ball heads and pan-tilt heads"
+    },
+    {
+      "name": "graduated ND filter",
+      "type": "gear",
+      "relation": "needs precise horizon alignment, favoring controlled heads"
+    },
+    {
+      "name": "panorama stitching",
+      "type": "technique",
+      "relation": "requires a level pan axis"
+    },
+    {
+      "name": "mirrorless camera with 24-70mm",
+      "type": "gear",
+      "relation": "typical landscape load a head must hold"
+    },
+    {
+      "name": "Ball",
+      "type": "component",
+      "relation": "the ball in a ball-and-socket head; ball size sets holding margin",
+      "salience": 0.52
+    },
+    {
+      "name": "tripod",
+      "type": "product category",
+      "relation": "the support the head mounts on (TextRazor: Tripod (photography))",
+      "salience": 0.8
+    },
+    {
+      "name": "Tripod head",
+      "type": "product category",
+      "relation": "the parent category being compared",
+      "salience": 0.96
+    },
+    {
+      "name": "Lens",
+      "type": "gear",
+      "relation": "load the head must hold",
+      "salience": 0.45
+    },
+    {
+      "name": "Camera lens",
+      "type": "gear",
+      "relation": "load the head must hold",
+      "salience": 0.36
+    },
+    {
+      "name": "Telephoto lens",
+      "type": "gear",
+      "relation": "long lens that causes ball head creep",
+      "salience": 0.61
+    },
+    {
+      "name": "Photography",
+      "type": "genre",
+      "relation": "context",
+      "salience": 0.41
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "maker of the GD3WH geared pick",
+      "salience": 0.38
+    },
+    {
+      "name": "Landscape photography",
+      "type": "genre",
+      "relation": "the use case",
+      "salience": 0.37
+    },
+    {
+      "name": "Gear",
+      "type": "mechanism",
+      "relation": "geared head mechanism",
+      "salience": 0.25
+    }
+  ],
+  "attributes": [
+    "adjustment speed",
+    "precision",
+    "horizon leveling",
+    "weight",
+    "height",
+    "load capacity",
+    "friction control",
+    "panning clamp",
+    "Arca-Swiss compatibility",
+    "price",
+    "camera droop",
+    "portrait orientation",
+    "panorama",
+    "video pan smoothness",
+    "learning curve",
+    "lock-off creep",
+    "ball diameter",
+    "independent panning base",
+    "inverted mounting",
+    "lens collar balance"
+  ],
+  "ngrams": [
+    "ball head",
+    "pan tilt head",
+    "landscape photography",
+    "three way head",
+    "geared head",
+    "tripod head",
+    "fine adjustments",
+    "load capacity",
+    "panning base",
+    "Arca-Swiss plate",
+    "level the horizon",
+    "camera droop",
+    "quick release",
+    "precise composition",
+    "telephoto lens",
+    "ball head sags",
+    "friction control knob",
+    "best ball head for landscape photography"
+  ],
+  "skipgrams": [
+    "ball…knob",
+    "pan…tilt",
+    "head…landscape",
+    "separate…axis",
+    "level…horizon",
+    "ball…droop",
+    "head…load",
+    "panning…panorama",
+    "geared…precise",
+    "ball…fast",
+    "head…weight",
+    "head…video",
+    "ball…sag",
+    "friction…lock",
+    "telephoto…creep",
+    "Arca…clamp"
+  ],
+  "nlpTerms": [
+    "ball-and-socket",
+    "friction",
+    "tension",
+    "drag",
+    "axis",
+    "levelling",
+    "bubble level",
+    "panorama",
+    "composition",
+    "tilt",
+    "pan",
+    "vertical orientation",
+    "L-bracket",
+    "lock",
+    "tripod",
+    "payload",
+    "geared",
+    "fluid",
+    "backpacking",
+    "foreground",
+    "horizon",
+    "stitching",
+    "macro",
+    "telephoto",
+    "mirrorless",
+    "DSLR",
+    "stability",
+    "creep",
+    "overshoot",
+    "lens collar",
+    "inverted",
+    "rated load",
+    "ballhead"
+  ],
   "questions": [
     "Is a ball head or pan tilt head better for landscapes?",
     "What are the disadvantages of a ball head?",
@@ -49,17 +282,74 @@
     "Few give a clear choose X if / choose Y if verdict with a hybrid option"
   ],
   "outline": [
-    {"h2": "Ball Head vs Pan Tilt Head for Landscape Photography: The Short Answer", "intent": "Direct verdict: ball head for speed and weight, pan-tilt or geared for precision; who should pick which", "h3": []},
-    {"h2": "Quick Comparison of Our 5 Picks", "intent": "Comparison table of 3 ball heads and 2 pan-tilt/geared heads: type, weight, load, plate, best for", "h3": []},
-    {"h2": "The 3 Ball Heads and 2 Pan-Tilt Heads We Recommend", "intent": "Product-by-product guidance, with who each suits", "h3": []},
-    {"h2": "How a Ball Head Works and Its Disadvantages", "intent": "Define ball head, strengths, and drawbacks (droop, all-axes-at-once, tilted horizon), answering what are the disadvantages of a ball head", "h3": ["Speed and weight advantages", "Camera droop and horizon drift", "Fixes: friction control, panning clamp, leveling base"]},
-    {"h2": "How a Pan Tilt Head Works and Where It Falls Short", "intent": "Define pan-tilt/3-way and geared heads, strengths, bulk, slower operation, portrait orientation", "h3": ["Independent axis control", "Geared heads for exact composition", "Bulk, weight and portrait mode"]},
-    {"h2": "Ball Head vs Pan Tilt Head: Side-by-Side on What Landscape Shooters Need", "intent": "Criteria comparison: precision, speed, panoramas, weight, load, price, wind, gloves", "h3": ["Precision and horizon leveling", "Speed and hiking weight", "Panoramas and filters", "Load capacity and stability"]},
-    {"h2": "Which Head Type Is Best for Your Landscape Tripod?", "intent": "Choose X if / choose Y if decision guide, including best head type for landscape tripod and hybrid option", "h3": []},
-    {"h2": "Buying Guide: What to Check Before You Buy a Landscape Head", "intent": "Load rating vs real gear, Arca-Swiss clamp, friction control, panning base, weight, height", "h3": []},
-    {"h2": "Can You Use a Ball Head for Video?", "intent": "Answer the video question: acceptable for stills-first hybrid use, limited pans, fluid head better", "h3": []},
-    {"h2": "Frequently Asked Questions", "intent": "PAA-style FAQ answers", "h3": []},
-    {"h2": "Final Verdict", "intent": "Final recommendation and links to related guides", "h3": []}
+    {
+      "h2": "Ball Head vs Pan Tilt Head for Landscape Photography: The Short Answer",
+      "intent": "Direct verdict: ball head for speed and weight, pan-tilt or geared for precision; who should pick which",
+      "h3": []
+    },
+    {
+      "h2": "Quick Comparison of Our 5 Picks",
+      "intent": "Comparison table of 3 ball heads and 2 pan-tilt/geared heads: type, weight, load, plate, best for",
+      "h3": []
+    },
+    {
+      "h2": "The 3 Ball Heads and 2 Pan-Tilt Heads We Recommend",
+      "intent": "Product-by-product guidance, with who each suits",
+      "h3": []
+    },
+    {
+      "h2": "How a Ball Head Works and Its Disadvantages",
+      "intent": "Define ball head, strengths, and drawbacks (droop, all-axes-at-once, tilted horizon), answering what are the disadvantages of a ball head",
+      "h3": [
+        "Speed and weight advantages",
+        "Camera droop and horizon drift",
+        "Fixes: friction control, panning clamp, leveling base"
+      ]
+    },
+    {
+      "h2": "How a Pan Tilt Head Works and Where It Falls Short",
+      "intent": "Define pan-tilt/3-way and geared heads, strengths, bulk, slower operation, portrait orientation",
+      "h3": [
+        "Independent axis control",
+        "Geared heads for exact composition",
+        "Bulk, weight and portrait mode"
+      ]
+    },
+    {
+      "h2": "Ball Head vs Pan Tilt Head: Side-by-Side on What Landscape Shooters Need",
+      "intent": "Criteria comparison: precision, speed, panoramas, weight, load, price, wind, gloves",
+      "h3": [
+        "Precision and horizon leveling",
+        "Speed and hiking weight",
+        "Panoramas and filters",
+        "Load capacity and stability"
+      ]
+    },
+    {
+      "h2": "Which Head Type Is Best for Your Landscape Tripod?",
+      "intent": "Choose X if / choose Y if decision guide, including best head type for landscape tripod and hybrid option",
+      "h3": []
+    },
+    {
+      "h2": "Buying Guide: What to Check Before You Buy a Landscape Head",
+      "intent": "Load rating vs real gear, Arca-Swiss clamp, friction control, panning base, weight, height",
+      "h3": []
+    },
+    {
+      "h2": "Can You Use a Ball Head for Video?",
+      "intent": "Answer the video question: acceptable for stills-first hybrid use, limited pans, fluid head better",
+      "h3": []
+    },
+    {
+      "h2": "Frequently Asked Questions",
+      "intent": "PAA-style FAQ answers",
+      "h3": []
+    },
+    {
+      "h2": "Final Verdict",
+      "intent": "Final recommendation and links to related guides",
+      "h3": []
+    }
   ],
   "targetWords": 1900,
   "serpStructure": {
@@ -76,22 +366,94 @@
     "productStyleReason": "Comparison pages and head roundups (Digital Camera World, Adorama, Nature TTL) write a short review paragraph per head covering strengths and drawbacks; few use spec tables or pros/cons lists.",
     "avgWords": 1600,
     "avgProducts": 4,
-    "commonSections": ["short answer", "what is a ball head", "what is a pan tilt head", "pros and cons of each", "side-by-side comparison", "which to choose for landscapes", "recommended heads", "buying guide", "FAQ"],
+    "commonSections": [
+      "short answer",
+      "what is a ball head",
+      "what is a pan tilt head",
+      "pros and cons of each",
+      "side-by-side comparison",
+      "which to choose for landscapes",
+      "recommended heads",
+      "buying guide",
+      "FAQ"
+    ],
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    {"position":1,"url":"https://www.reddit.com/r/photography/comments/1eg1dsi/do_you_have_a_pan_and_tilt_tripod_or_a_ball_head/","title":"Do you have a pan and tilt tripod or a ball head tripod and why? - Reddit"},
-    {"position":2,"url":"https://www.youtube.com/watch?v=NVmKqnek60A","title":"Pan and Tilt or Ball head tripods? - YouTube"},
-    {"position":3,"url":"https://www.slrlounge.com/best-tripod-head-face-off-ball-head-vs-pan-head/","title":"Best Tripod Head | A Face Off: Ball Head vs. Pan Head - SLR Lounge"},
-    {"position":4,"url":"https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison?srsltid=AU7gw4XFul52FBW4Pc-mvBodpEkSInQwlMOQGsAf9gU70falpv7UUnhE","title":"Ultimate Camera Ball Head Comparison | Exploring Exposure"},
-    {"position":5,"url":"https://shuttermuse.com/every-type-of-tripod-head-explained/","title":"Every Type of Tripod Head Explained by a Professional - Shutter Muse"},
-    {"position":6,"url":"https://www.talkphotography.co.uk/threads/pan-and-tilt-or-ball-head.766084/","title":"Pan and tilt or ball head? | Talk Photography"},
-    {"position":7,"url":"https://www.dpreview.com/forums/threads/tripod-heads-ball-head-vs-pan-tilt-head.2916172/","title":"Tripod heads - ball head vs. pan/tilt head? | DPReview Forums"},
-    {"position":8,"url":"https://www.facebook.com/groups/beginnersphotographygroup/posts/9379030912144757/","title":"What tripod head for wildlife and landscape photography? - Facebook"},
-    {"position":9,"url":"https://photonaturalist.com/panheads-vs-ballheads/","title":"Panheads Vs Ballheads - nature photography tips and tutorials"},
-    {"position":10,"url":"https://www.ulanzi.com/blogs/guides/how-to-choose-tripod-head-types?srsltid=AU7gw4VP7svRbfPo6dBWQgpyte5pfl43g-IE4bUdUI7ky4iNHs-tRKtp","title":"Tripod Heads Explained: Choose the Best One for You - Ulanzi"}
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/photography/comments/1eg1dsi/do_you_have_a_pan_and_tilt_tripod_or_a_ball_head/",
+      "title": "Do you have a pan and tilt tripod or a ball head tripod and why? - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=NVmKqnek60A",
+      "title": "Pan and Tilt or Ball head tripods? - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.slrlounge.com/best-tripod-head-face-off-ball-head-vs-pan-head/",
+      "title": "Best Tripod Head | A Face Off: Ball Head vs. Pan Head - SLR Lounge"
+    },
+    {
+      "position": 4,
+      "url": "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison?srsltid=AU7gw4XFul52FBW4Pc-mvBodpEkSInQwlMOQGsAf9gU70falpv7UUnhE",
+      "title": "Ultimate Camera Ball Head Comparison | Exploring Exposure"
+    },
+    {
+      "position": 5,
+      "url": "https://shuttermuse.com/every-type-of-tripod-head-explained/",
+      "title": "Every Type of Tripod Head Explained by a Professional - Shutter Muse"
+    },
+    {
+      "position": 6,
+      "url": "https://www.talkphotography.co.uk/threads/pan-and-tilt-or-ball-head.766084/",
+      "title": "Pan and tilt or ball head? | Talk Photography"
+    },
+    {
+      "position": 7,
+      "url": "https://www.dpreview.com/forums/threads/tripod-heads-ball-head-vs-pan-tilt-head.2916172/",
+      "title": "Tripod heads - ball head vs. pan/tilt head? | DPReview Forums"
+    },
+    {
+      "position": 8,
+      "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/9379030912144757/",
+      "title": "What tripod head for wildlife and landscape photography? - Facebook"
+    },
+    {
+      "position": 9,
+      "url": "https://photonaturalist.com/panheads-vs-ballheads/",
+      "title": "Panheads Vs Ballheads - nature photography tips and tutorials"
+    },
+    {
+      "position": 10,
+      "url": "https://www.ulanzi.com/blogs/guides/how-to-choose-tripod-head-types?srsltid=AU7gw4VP7svRbfPo6dBWQgpyte5pfl43g-IE4bUdUI7ky4iNHs-tRKtp",
+      "title": "Tripod Heads Explained: Choose the Best One for You - Ulanzi"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["pan and tilt or ball head?","tripod head(s) explained","forum threads"],"gap":"Five specific head picks (3 ball, 2 pan-tilt) matched to landscape shooting style"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "pan and tilt or ball head?",
+      "tripod head(s) explained",
+      "forum threads"
+    ],
+    "gap": "Five specific head picks (3 ball, 2 pan-tilt) matched to landscape shooting style"
+  },
+  "semanticPass": {
+    "date": "2026-10-30",
+    "tool": "TextRazor",
+    "pages": [
+      "https://www.slrlounge.com/best-tripod-head-face-off-ball-head-vs-pan-head/",
+      "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "https://rokslide.com/forums/threads/pan-head-or-ball-head.161033/",
+      "https://shuttermuse.com/every-type-of-tripod-head-explained/",
+      "https://www.talkphotography.co.uk/threads/pan-and-tilt-or-ball-head.766084/"
+    ],
+    "note": "Reddit #1 blocked; noise skipped: IOS, Web application"
+  }
 }

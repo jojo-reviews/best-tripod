@@ -1,0 +1,124 @@
+{
+  "keyword": "ball head vs pan tilt head for landscape photography",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 5,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 5,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Acratech",
+      "type": "Company",
+      "pages": 3,
+      "relevance": 0.6,
+      "wiki": ""
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+    },
+    {
+      "entity": "Telephoto lens",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+    },
+    {
+      "entity": "Leofoto",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": ""
+    },
+    {
+      "entity": "IOS",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/IOS"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Web application",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Web_application"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": ""
+    },
+    {
+      "entity": "Landscape photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Gear"
+    }
+  ],
+  "missingFromPost": [
+    "Acratech",
+    "Camera lens",
+    "IOS",
+    "Web application"
+  ]
+}

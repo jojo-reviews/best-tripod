@@ -1,26 +1,23 @@
 {
   "slug": "best-tripod-that-fits-in-carry-on-luggage",
   "pass": true,
-  "checkedAt": "2026-10-28T18:48:28.848Z",
+  "checkedAt": "2026-10-30T17:59:59.082Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SIRUI Traveler 5C Carbon Fiber Tripod; Peak Design Travel Tripod (Carbon Fiber); Manfrotto PIXI EVO 2-Section Mini Tripod",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2672 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "body has 2678 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-leica-q3, no claim changed",
-    "at": "2026-10-28T14:46:57.760Z",
-    "hash": "a86074c280747fda"
+    "notes": "TextRazor semantic pass 2026-10-30 (significant: intro rewritten, 'Which one should you get' block added). Product first sentences name maker/type from spec pages already cited (SIRUI 5-section carbon, Peak Design 5-section carbon built-in ball head, Manfrotto PIXI EVO 2-section aluminum). No new prices, ratings or tests; ASINs unchanged.",
+    "at": "2026-10-30T17:59:43.867Z",
+    "hash": "7eea6c3f19430ee2"
   }
 }

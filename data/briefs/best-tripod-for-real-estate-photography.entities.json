@@ -1,0 +1,93 @@
+{
+  "keyword": "best tripod for real estate photography",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.88,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 4,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.86,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Real estate",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Real_estate"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.89,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Architectural photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Architectural_photography"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": ""
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    }
+  ],
+  "missingFromPost": [
+    "Image stabilization"
+  ]
+}

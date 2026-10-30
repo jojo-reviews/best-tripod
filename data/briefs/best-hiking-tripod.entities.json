@@ -1,0 +1,173 @@
+{
+  "keyword": "best hiking tripod",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Backpacking (hiking)",
+      "type": "/interests/hobby",
+      "pages": 4,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Backpacking_(hiking)"
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 4,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 4,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Hiking",
+      "type": "/film/film_subject",
+      "pages": 3,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Hiking"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+      "entity": "Sirui",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": ""
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Nikon",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": ""
+    },
+    {
+      "entity": "Peak Design",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": ""
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.5,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Joby",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": ""
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": ""
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Bag",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.24,
+      "wiki": "http://en.wikipedia.org/wiki/Bag"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+    }
+  ],
+  "missingFromPost": [
+    "Sirui",
+    "Canon Inc.",
+    "Digital single-lens reflex camera",
+    "Camera lens"
+  ]
+}

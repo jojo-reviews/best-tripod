@@ -18,5 +18,45 @@
   "best-tripod-for-gopro": {
     "at": "2026-10-30T12:45:32.590Z",
     "note": "improve-agent with TextRazor pass 2026-10-30"
+  },
+  "monopod-vs-tripod-for-sports-photography": {
+    "at": "2026-10-30T17:58:15.186Z",
+    "note": "review only: TextRazor entities (tripod head, landscape photography), chooser, topic H2, 1871->1813 words"
+  },
+  "best-hiking-tripod": {
+    "at": "2026-10-30T17:58:28.626Z",
+    "note": "review only: TextRazor entities (Sirui, CFRP, backpacking, Canon/Nikon lens weight), topic headings"
+  },
+  "best-mini-tripod-for-desk-video-calls": {
+    "at": "2026-10-30T17:58:37.054Z",
+    "note": "significant: chooser section added; TextRazor smartphone entity, 2134->1970 words"
+  },
+  "how-tall-should-a-tripod-be-for-my-height": {
+    "at": "2026-10-30T17:59:04.278Z",
+    "note": "review only: TextRazor entities (camera tripod, macro/portrait/sports/landscape photography), chooser, 2341->2152 words"
+  },
+  "ball-head-tripod": {
+    "at": "2026-10-30T17:59:13.864Z",
+    "note": "significant: chooser section added; TextRazor entities, topic H2s"
+  },
+  "best-tripod-for-real-estate-photography": {
+    "at": "2026-10-30T17:59:45.004Z",
+    "note": "review only: TextRazor (image stabilization, architectural photography), topic headings, salience 0.67->0.94"
+  },
+  "best-tripod-that-fits-in-carry-on-luggage": {
+    "at": "2026-10-30T18:01:55.153Z",
+    "note": "significant: intro rewritten + chooser; TextRazor entities"
+  },
+  "best-tripod-for-spotting-scope": {
+    "at": "2026-10-30T18:01:55.185Z",
+    "note": "significant: chooser section; TextRazor entities (rifle, riflescope), topic H2s"
+  },
+  "best-travel-tripod-for-mirrorless-camera": {
+    "at": "2026-10-30T18:02:43.380Z",
+    "note": "significant: Ulanzi F38 corrected to video-head listing; TextRazor entities, chooser"
+  },
+  "ball-head-vs-pan-tilt-head-for-landscape-photography": {
+    "at": "2026-10-30T18:03:38.063Z",
+    "note": "significant: ball head sag fix + best ball head section; TextRazor entities (Acratech...)"
   }
 }

@@ -1,22 +1,19 @@
 {
   "slug": "best-tripod-for-spotting-scope",
   "pass": true,
-  "checkedAt": "2026-10-28T14:49:20.999Z",
+  "checkedAt": "2026-10-30T18:00:03.010Z",
   "errors": [],
   "warnings": [
-    "only 19 first-person words; owner rule wants at least 21 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 18 first-person words; owner rule wants at least 21 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): SLIK PRO CF-634 Carbon Fiber Tripod; Manfrotto MVH502AH Video Head",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"SLIK PRO CF-634 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1438837-REG/slik_611_895_pro_cf_634_tripod_black.html/reviews",
-    "source didn't respond normally (403): https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+    "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-telescope, no claim changed",
-    "at": "2026-10-28T14:46:58.638Z",
-    "hash": "3ce6d2a915ce5a62"
+    "notes": "Semantic pass 2026-10-30 (TextRazor, 5 top pages): significant: added 'Which spotting scope tripod setup should you get' section, so updatedDate set. Added maker/type first sentences (SLIK = Japanese maker, Manfrotto = Italian maker), camera tripod and riflescope/rifle bench use (general, no new claims). No new prices, ratings or tests; specs unchanged.",
+    "at": "2026-10-30T18:00:13.118Z",
+    "hash": "a93eda938c66fbb4"
   }
 }

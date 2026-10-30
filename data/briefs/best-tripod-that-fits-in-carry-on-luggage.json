@@ -82,12 +82,85 @@
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "light, vibration-damping leg material"
+      "relation": "light, vibration-damping leg material",
+      "salience": 0.41
     },
     {
       "name": "mirrorless camera",
       "type": "camera type",
       "relation": "kit these tripods are sized for"
+    },
+    {
+      "name": "Tripod (photography)",
+      "type": "product category",
+      "relation": "central entity: a three-legged camera support; here one that folds short enough for carry-on luggage",
+      "salience": 0.94
+    },
+    {
+      "name": "Peak Design",
+      "type": "company",
+      "relation": "maker of the Peak Design Travel Tripod (Carbon Fiber), premium pick",
+      "salience": 0.62
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "mirrorless or full-frame body the tripod must hold",
+      "salience": 0.57
+    },
+    {
+      "name": "Bag",
+      "type": "product category",
+      "relation": "carry-on bag, roller bag or daypack the folded tripod must fit",
+      "salience": 0.55
+    },
+    {
+      "name": "Baggage",
+      "type": "constraint",
+      "relation": "airline carry-on and personal-item allowance",
+      "salience": 0.47
+    },
+    {
+      "name": "Weight",
+      "type": "attribute",
+      "relation": "tripod weight with head, 0.57-2.8 lb across picks",
+      "salience": 0.46
+    },
+    {
+      "name": "Photography",
+      "type": "activity",
+      "relation": "travel photography the tripod supports",
+      "salience": 0.43
+    },
+    {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "max and column-down working height",
+      "salience": 0.4
+    },
+    {
+      "name": "Suitcase",
+      "type": "product category",
+      "relation": "carry-on suitcase the tripod is measured against",
+      "salience": 0.44
+    },
+    {
+      "name": "Aluminium",
+      "type": "material",
+      "relation": "heavier, cheaper leg material; PIXI EVO uses aluminum",
+      "salience": 0.37
+    },
+    {
+      "name": "Camera lens",
+      "type": "component",
+      "relation": "heaviest lens sets the required rated load",
+      "salience": 0.26
+    },
+    {
+      "name": "Leg",
+      "type": "component",
+      "relation": "leg sections and locks set packed length and stiffness",
+      "salience": 0.29
     }
   ],
   "attributes": [
@@ -104,7 +177,9 @@
     "carry bag included",
     "ballast hook",
     "detachable head for packing",
-    "airline carry-on size"
+    "airline carry-on size",
+    "weight",
+    "height"
   ],
   "ngrams": [
     "carry-on luggage",
@@ -121,7 +196,12 @@
     "camera bag",
     "overhead bin",
     "personal item",
-    "leg sections"
+    "leg sections",
+    "carry-on suitcase",
+    "travel photography",
+    "camera lens",
+    "column-down height",
+    "rated load"
   ],
   "skipgrams": [
     "tripod…carry-on",
@@ -137,7 +217,9 @@
     "tripod…airline",
     "leg…sections",
     "tripod…suitcase",
-    "compact…lightweight"
+    "compact…lightweight",
+    "camera…lens",
+    "rated…load"
   ],
   "nlpTerms": [
     "tripod",
@@ -166,7 +248,12 @@
     "travel photography",
     "stability",
     "wind",
-    "max height"
+    "max height",
+    "suitcase",
+    "photography",
+    "aluminum",
+    "camera lens",
+    "baggage"
   ],
   "questions": [
     "Can I bring a tripod on a plane?",
@@ -463,5 +550,20 @@
       "2026"
     ],
     "gap": "No title uses the exact phrase 'tripod that fits in carry on luggage'; an exact-keyword title with a number, year and folded-length benefit stands out. Suggested seoTitle: Best Tripod That Fits in Carry On Luggage (3 Picks, 2026)"
+  },
+  "semanticPass": {
+    "date": "2026-10-30",
+    "source": "data/briefs/best-tripod-that-fits-in-carry-on-luggage.entities.json",
+    "urls": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.transcontinenta.co.uk/en/blog/5-best-travel-tripod-holiday-plane.html",
+      "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod",
+      "https://www.findingtheuniverse.com/best-travel-tripods/",
+      "https://momanx.com/blogs/moman-ideas/can-you-bring-a-tripod-on-a-plane"
+    ],
+    "ignored": [
+      "Email",
+      "5 (Temperature)"
+    ]
   }
 }

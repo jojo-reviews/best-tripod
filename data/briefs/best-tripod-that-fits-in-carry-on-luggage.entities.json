@@ -1,0 +1,125 @@
+{
+  "keyword": "best tripod that fits in carry on luggage",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.94,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 4,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.86,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Baggage",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Baggage"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 3,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Peak Design",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": ""
+    },
+    {
+      "entity": "Bag",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Bag"
+    },
+    {
+      "entity": "Suitcase",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Suitcase"
+    },
+    {
+      "entity": "Email",
+      "type": "/organization/organization_sector",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Email"
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.27,
+      "wiki": ""
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+    }
+  ],
+  "missingFromPost": [
+    "Photography",
+    "Aluminium",
+    "Suitcase",
+    "Email",
+    "Camera lens"
+  ]
+}

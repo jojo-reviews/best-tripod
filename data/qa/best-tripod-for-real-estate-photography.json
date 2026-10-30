@@ -1,14 +1,13 @@
 {
   "slug": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-10-28T18:48:08.157Z",
+  "checkedAt": "2026-10-30T17:59:31.748Z",
   "errors": [],
   "warnings": [
-    "only 24 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 17 first-person words; owner rule wants at least 27 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 290 Xtra Tripod Kit with 3-Way Head; Benro Mach3 TMA38CL; Manfrotto MT190XPRO4; GEEKOTO 75 inch Camera Tripod; Manfrotto 410 Junior Geared Head; Manfrotto 405 Geared Head; JOBY GorillaPod 5K Kit",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2620 words, over the 1782 limit (top results average 1550): cut repetition and filler",
+    "body has 2654 words, over the 1782 limit (top results average 1550): cut repetition and filler",
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO4\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,16 +15,12 @@
     "product \"Manfrotto 410 Junior Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 405 Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 5K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1486816-REG/geekoto_x25_defender_75_4_section.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/124665-REG/Manfrotto_410_410_Junior_Geared_Head.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html",
-    "source didn't respond normally (403): https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to what-is-an-arca-swiss-plate-and-do-i-need-one, no claim changed",
-    "at": "2026-10-28T18:44:45.276Z",
-    "hash": "e00e878bdd05584f"
+    "notes": "2026-10-30 semantic pass: TextRazor on 5 ranking pages (Mark Jacobs, Oscar Mikols, APA Almanac, Aryeo, PhotoUp; Reddit/Manfrotto blocked). Added image stabilization tip (Nikon lens manuals advise VR off on a tripod), architectural photography mention, product type+maker first sentences (290 Xtra, MT190XPRO4 and 405 aluminum per Manfrotto; Benro carbon per Benro), topic-named H3/H2s. No prices, ratings, ASINs or tests changed.",
+    "at": "2026-10-30T17:59:31.281Z",
+    "hash": "6b9ef2bce0b9b6eb"
   }
 }

@@ -1,35 +1,357 @@
 {
   "centralEntity": "travel tripod for mirrorless camera",
-  "entityVariants": ["best travel tripod for mirrorless camera", "travel tripods for mirrorless cameras", "compact travel tripod for mirrorless", "lightweight tripod for Sony a7", "travel tripod for Fujifilm", "lightweight carbon fiber travel tripod"],
-  "entities": [
-    {"name": "Peak Design Travel Tripod (Carbon Fiber)", "type": "product", "relation": "compact travel tripod, 15.4 in folded, most frequently recommended pick"},
-    {"name": "SIRUI Traveler X", "type": "product", "relation": "carbon fiber travel tripod, light and affordable, with fluid head option"},
-    {"name": "SIRUI AM-284", "type": "product", "relation": "carbon fiber tripod with high load rating, named best overall by some guides"},
-    {"name": "Falcam TreeRoot F38 Pro", "type": "product", "relation": "premium compact travel tripod with quick-release system"},
-    {"name": "Manfrotto BeFree Advanced", "type": "product", "relation": "mid-range lever-lock travel tripod with ball head"},
-    {"name": "K&F Concept carbon fiber tripod", "type": "product", "relation": "budget carbon fiber travel tripod"},
-    {"name": "Pedco UltraPod II", "type": "product", "relation": "ultralight mini tripod for small mirrorless kits"},
-    {"name": "Gitzo Traveler", "type": "brand line", "relation": "premium carbon fiber travel tripod series"},
-    {"name": "Benro", "type": "brand", "relation": "maker of Tripster and Slim travel tripods"},
-    {"name": "Joby GorillaPod", "type": "product category", "relation": "flexible mini tripod alternative for light mirrorless setups"},
-    {"name": "Sony a7 series", "type": "camera body", "relation": "full-frame mirrorless line, about 1.5 lb body, common tripod pairing"},
-    {"name": "Fujifilm X series", "type": "camera body", "relation": "APS-C mirrorless line with lightweight bodies and lenses"},
-    {"name": "Canon EOS R and Nikon Z", "type": "camera body", "relation": "full-frame mirrorless systems with heavier telephoto lenses"},
-    {"name": "ball head", "type": "head type", "relation": "most common travel tripod head, fast framing"},
-    {"name": "fluid head", "type": "head type", "relation": "smooth pan and tilt for video"},
-    {"name": "Arca-Swiss", "type": "standard", "relation": "dovetail quick-release plate standard"},
-    {"name": "1/4-20 thread", "type": "standard", "relation": "camera mounting screw standard"},
-    {"name": "carbon fiber", "type": "material", "relation": "light, vibration-damping leg material"},
-    {"name": "aluminum", "type": "material", "relation": "cheaper, heavier leg material"},
-    {"name": "center column", "type": "component", "relation": "raises height but reduces stability"},
-    {"name": "twist lock and lever lock", "type": "component", "relation": "leg lock types affecting setup speed"},
-    {"name": "landscape photography", "type": "use case", "relation": "demands stability, working height and wind resistance"},
-    {"name": "long exposure", "type": "use case", "relation": "needs vibration damping and a solid base"}
+  "entityVariants": [
+    "best travel tripod for mirrorless camera",
+    "travel tripods for mirrorless cameras",
+    "compact travel tripod for mirrorless",
+    "lightweight tripod for Sony a7",
+    "travel tripod for Fujifilm",
+    "lightweight carbon fiber travel tripod"
   ],
-  "attributes": ["folded length", "weight", "max load capacity", "max height with and without center column", "minimum height", "leg sections", "leg lock type", "head type", "Arca-Swiss compatibility", "material", "stability", "price", "hook for ballast", "reversible legs", "packed size for carry-on", "weather resistance"],
-  "ngrams": ["travel tripod", "mirrorless camera", "carbon fiber", "folded length", "load capacity", "ball head", "center column", "max height", "lightweight tripod", "compact travel tripod", "quick release plate", "full frame mirrorless", "Arca-Swiss compatible", "leg locks", "carry-on bag", "landscape photography", "best travel tripod"],
-  "skipgrams": ["travel…tripod", "mirrorless…lightweight", "folded…length", "load…capacity", "carbon…fiber", "center…column", "ball…head", "tripod…stability", "weight…capacity", "tripod…backpack", "Sony…tripod", "Fujifilm…lightweight", "legs…sections", "quick…release"],
-  "nlpTerms": ["tripod", "mirrorless", "stability", "portable", "foldable", "ball head", "carbon fiber", "aluminum", "load capacity", "folded length", "maximum height", "payload", "quick release", "Arca-Swiss", "leg lock", "twist lock", "lever lock", "center column", "vibration", "long exposure", "landscape", "telephoto lens", "full-frame", "APS-C", "backpack", "carry-on", "monopod conversion", "ballast hook", "panning", "video", "wind", "travel photography"],
+  "entities": [
+    {
+      "name": "Tripod",
+      "type": "concept",
+      "relation": "central entity: three-legged camera support for a mirrorless camera",
+      "salience": 0.92,
+      "source": "textrazor",
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the Befree Advanced and Element MII travel tripods",
+      "salience": 0.68,
+      "source": "textrazor"
+    },
+    {
+      "name": "Befree",
+      "type": "product line",
+      "relation": "Manfrotto's travel tripod line, a top-result staple",
+      "salience": 0.66,
+      "source": "textrazor"
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "the mirrorless body the tripod must hold with headroom",
+      "salience": 0.62,
+      "source": "textrazor"
+    },
+    {
+      "name": "Weight",
+      "type": "attribute",
+      "relation": "tripod weight vs load rating decides portability and stability",
+      "salience": 0.58,
+      "source": "textrazor"
+    },
+    {
+      "name": "Peak Design",
+      "type": "brand",
+      "relation": "maker of the Travel Tripod, the most-recommended pick",
+      "salience": 0.55,
+      "source": "textrazor"
+    },
+    {
+      "name": "Lightweight",
+      "type": "attribute",
+      "relation": "top results frame travel tripods by low carry weight",
+      "salience": 0.48,
+      "source": "textrazor"
+    },
+    {
+      "name": "Photographer",
+      "type": "person role",
+      "relation": "the traveler choosing height, load and packed size",
+      "salience": 0.44,
+      "source": "textrazor"
+    },
+    {
+      "name": "Photography",
+      "type": "activity",
+      "relation": "travel and landscape photography use cases",
+      "salience": 0.43,
+      "source": "textrazor"
+    },
+    {
+      "name": "Tripod head",
+      "type": "component",
+      "relation": "ball head or video head; its rating can be the real load limit",
+      "salience": 0.41,
+      "source": "textrazor"
+    },
+    {
+      "name": "carbon fiber tripod",
+      "type": "material",
+      "relation": "carbon fiber legs: lighter, damp vibration faster",
+      "salience": 0.41,
+      "source": "textrazor",
+      "textrazorName": "Carbon-fiber reinforced polymer"
+    },
+    {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "max height and column-down working height vs eye level",
+      "salience": 0.39,
+      "source": "textrazor"
+    },
+    {
+      "name": "Backpack",
+      "type": "accessory",
+      "relation": "packed size and ballast-hook weight in wind",
+      "salience": 0.38,
+      "source": "textrazor"
+    },
+    {
+      "name": "Leg",
+      "type": "component",
+      "relation": "leg sections, locks and leg angles set fold and stability",
+      "salience": 0.33,
+      "source": "textrazor"
+    },
+    {
+      "name": "Vlog",
+      "type": "use case",
+      "relation": "video use favours a video/fluid head",
+      "salience": 0.25,
+      "source": "textrazor"
+    },
+    {
+      "name": "Camera lens",
+      "type": "component",
+      "relation": "lens weight sets the needed load rating",
+      "salience": 0.23,
+      "source": "textrazor"
+    },
+    {
+      "name": "Mirrorless camera",
+      "type": "camera type",
+      "relation": "the camera class the keyword targets",
+      "salience": 0.22,
+      "source": "textrazor"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "type": "product",
+      "relation": "compact travel tripod, 15.4 in folded, most frequently recommended pick"
+    },
+    {
+      "name": "SIRUI Traveler X",
+      "type": "product",
+      "relation": "carbon fiber travel tripod, light and affordable, with fluid head option"
+    },
+    {
+      "name": "SIRUI AM-284",
+      "type": "product",
+      "relation": "carbon fiber tripod with high load rating, named best overall by some guides"
+    },
+    {
+      "name": "Falcam TreeRoot F38 Pro",
+      "type": "product",
+      "relation": "premium compact travel tripod with quick-release system"
+    },
+    {
+      "name": "Manfrotto BeFree Advanced",
+      "type": "product",
+      "relation": "mid-range lever-lock travel tripod with ball head"
+    },
+    {
+      "name": "K&F Concept carbon fiber tripod",
+      "type": "product",
+      "relation": "budget carbon fiber travel tripod"
+    },
+    {
+      "name": "Pedco UltraPod II",
+      "type": "product",
+      "relation": "ultralight mini tripod for small mirrorless kits"
+    },
+    {
+      "name": "Gitzo Traveler",
+      "type": "brand line",
+      "relation": "premium carbon fiber travel tripod series"
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "maker of Tripster and Slim travel tripods"
+    },
+    {
+      "name": "Joby GorillaPod",
+      "type": "product category",
+      "relation": "flexible mini tripod alternative for light mirrorless setups"
+    },
+    {
+      "name": "Sony a7 series",
+      "type": "camera body",
+      "relation": "full-frame mirrorless line, about 1.5 lb body, common tripod pairing"
+    },
+    {
+      "name": "Fujifilm X series",
+      "type": "camera body",
+      "relation": "APS-C mirrorless line with lightweight bodies and lenses"
+    },
+    {
+      "name": "Canon EOS R and Nikon Z",
+      "type": "camera body",
+      "relation": "full-frame mirrorless systems with heavier telephoto lenses"
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "most common travel tripod head, fast framing"
+    },
+    {
+      "name": "fluid head",
+      "type": "head type",
+      "relation": "smooth pan and tilt for video"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail quick-release plate standard"
+    },
+    {
+      "name": "1/4-20 thread",
+      "type": "standard",
+      "relation": "camera mounting screw standard"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "light, vibration-damping leg material"
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "cheaper, heavier leg material"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raises height but reduces stability"
+    },
+    {
+      "name": "twist lock and lever lock",
+      "type": "component",
+      "relation": "leg lock types affecting setup speed"
+    },
+    {
+      "name": "landscape photography",
+      "type": "use case",
+      "relation": "demands stability, working height and wind resistance"
+    },
+    {
+      "name": "long exposure",
+      "type": "use case",
+      "relation": "needs vibration damping and a solid base"
+    }
+  ],
+  "attributes": [
+    "folded length",
+    "weight",
+    "max load capacity",
+    "max height with and without center column",
+    "minimum height",
+    "leg sections",
+    "leg lock type",
+    "head type",
+    "Arca-Swiss compatibility",
+    "material",
+    "stability",
+    "price",
+    "hook for ballast",
+    "reversible legs",
+    "packed size for carry-on",
+    "weather resistance",
+    "video head pan and tilt range",
+    "leveling bowl",
+    "leg angle load rating"
+  ],
+  "ngrams": [
+    "travel tripod",
+    "mirrorless camera",
+    "carbon fiber",
+    "folded length",
+    "load capacity",
+    "ball head",
+    "center column",
+    "max height",
+    "lightweight tripod",
+    "compact travel tripod",
+    "quick release plate",
+    "full frame mirrorless",
+    "Arca-Swiss compatible",
+    "leg locks",
+    "carry-on bag",
+    "landscape photography",
+    "best travel tripod",
+    "tripod head",
+    "camera lens",
+    "video head",
+    "column-down height",
+    "travel photography"
+  ],
+  "skipgrams": [
+    "travel…tripod",
+    "mirrorless…lightweight",
+    "folded…length",
+    "load…capacity",
+    "carbon…fiber",
+    "center…column",
+    "ball…head",
+    "tripod…stability",
+    "weight…capacity",
+    "tripod…backpack",
+    "Sony…tripod",
+    "Fujifilm…lightweight",
+    "legs…sections",
+    "quick…release",
+    "tripod…head",
+    "camera…lens",
+    "video…panning",
+    "column…height"
+  ],
+  "nlpTerms": [
+    "tripod",
+    "mirrorless",
+    "stability",
+    "portable",
+    "foldable",
+    "ball head",
+    "carbon fiber",
+    "aluminum",
+    "load capacity",
+    "folded length",
+    "maximum height",
+    "payload",
+    "quick release",
+    "Arca-Swiss",
+    "leg lock",
+    "twist lock",
+    "lever lock",
+    "center column",
+    "vibration",
+    "long exposure",
+    "landscape",
+    "telephoto lens",
+    "full-frame",
+    "APS-C",
+    "backpack",
+    "carry-on",
+    "monopod conversion",
+    "ballast hook",
+    "panning",
+    "video",
+    "wind",
+    "travel photography",
+    "tripod head",
+    "camera lens",
+    "video head",
+    "leveling bowl",
+    "vlog",
+    "photographer",
+    "lightweight"
+  ],
   "questions": [
     "What size tripod do I need for a mirrorless camera?",
     "Is a travel tripod stable enough for landscape photography?",
@@ -52,23 +374,98 @@
     "Many top pages are dated (2018 to 2020) and lack current model coverage and prices"
   ],
   "outline": [
-    {"h2": "Our Top Picks for the Best Travel Tripod for Mirrorless Cameras", "intent": "Give the buyer a fast answer: best overall, best budget, best lightweight, best for video, best premium", "h3": []},
-    {"h2": "Comparison Table: Folded Length, Weight, Load and Height", "intent": "Let readers scan all 15 travel tripods side by side on the specs that matter", "h3": []},
-    {"h2": "How We Chose and Tested These Travel Tripods", "intent": "Establish E-E-A-T: criteria, how stability, height and packed size were judged", "h3": []},
-    {"h2": "The 15 Best Travel Tripods for Mirrorless Cameras", "intent": "Product-by-product guidance with a spec table per product", "h3": []},
-    {"h2": "How to Choose a Travel Tripod for a Mirrorless Camera", "intent": "Buying guide covering the decision factors", "h3": ["What size tripod do you need for a mirrorless camera?", "How much weight can a travel tripod hold?", "Carbon fiber vs aluminum", "Ball head vs fluid head", "Leg locks: twist vs lever", "Folded length, weight and carry-on fit", "Working height without the center column", "Arca-Swiss plates and camera compatibility"]},
-    {"h2": "Best Travel Tripod by Camera: Sony a7, Fujifilm and More", "intent": "Match secondary keywords for Sony a7 and Fujifilm shooters to the right picks and load ratings", "h3": ["Lightweight tripod for Sony a7", "Travel tripod for Fujifilm", "Canon R and Nikon Z with telephoto lenses"]},
-    {"h2": "Is a Travel Tripod Stable Enough for Landscape Photography?", "intent": "Address the stability objection honestly with limits and tips", "h3": ["Wind, ballast and low-angle setups", "Long exposure technique"]},
-    {"h2": "Frequently Asked Questions", "intent": "Capture People Also Ask queries", "h3": []},
-    {"h2": "Final Verdict: Which Travel Tripod Should You Buy?", "intent": "Decisive choose-X-if recap", "h3": []}
+    {
+      "h2": "Our Top Picks for the Best Travel Tripod for Mirrorless Cameras",
+      "intent": "Give the buyer a fast answer: best overall, best budget, best lightweight, best for video, best premium",
+      "h3": []
+    },
+    {
+      "h2": "Comparison Table: Folded Length, Weight, Load and Height",
+      "intent": "Let readers scan all 15 travel tripods side by side on the specs that matter",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose and Tested These Travel Tripods",
+      "intent": "Establish E-E-A-T: criteria, how stability, height and packed size were judged",
+      "h3": []
+    },
+    {
+      "h2": "The 15 Best Travel Tripods for Mirrorless Cameras",
+      "intent": "Product-by-product guidance with a spec table per product",
+      "h3": []
+    },
+    {
+      "h2": "How to Choose a Travel Tripod for a Mirrorless Camera",
+      "intent": "Buying guide covering the decision factors",
+      "h3": [
+        "What size tripod do you need for a mirrorless camera?",
+        "How much weight can a travel tripod hold?",
+        "Carbon fiber vs aluminum",
+        "Ball head vs fluid head",
+        "Leg locks: twist vs lever",
+        "Folded length, weight and carry-on fit",
+        "Working height without the center column",
+        "Arca-Swiss plates and camera compatibility"
+      ]
+    },
+    {
+      "h2": "Best Travel Tripod by Camera: Sony a7, Fujifilm and More",
+      "intent": "Match secondary keywords for Sony a7 and Fujifilm shooters to the right picks and load ratings",
+      "h3": [
+        "Lightweight tripod for Sony a7",
+        "Travel tripod for Fujifilm",
+        "Canon R and Nikon Z with telephoto lenses"
+      ]
+    },
+    {
+      "h2": "Is a Travel Tripod Stable Enough for Landscape Photography?",
+      "intent": "Address the stability objection honestly with limits and tips",
+      "h3": [
+        "Wind, ballast and low-angle setups",
+        "Long exposure technique"
+      ]
+    },
+    {
+      "h2": "Frequently Asked Questions",
+      "intent": "Capture People Also Ask queries",
+      "h3": []
+    },
+    {
+      "h2": "Final Verdict: Which Travel Tripod Should You Buy?",
+      "intent": "Decisive choose-X-if recap",
+      "h3": []
+    }
   ],
-  "commonPoints": ["Pick list by use: best overall, budget, lightweight, premium, heavy-duty", "Per-product specs: weight, folded length, max height, load capacity", "Carbon fiber is lighter and pricier than aluminum", "Ball head is the default travel head; fluid head for video", "Twist vs flip/lever leg locks and number of leg sections", "A how-we-chose or how-we-test section and a short FAQ", "Peak Design Travel Tripod, Manfrotto Befree and Gitzo Traveler appear on most lists"],
+  "commonPoints": [
+    "Pick list by use: best overall, budget, lightweight, premium, heavy-duty",
+    "Per-product specs: weight, folded length, max height, load capacity",
+    "Carbon fiber is lighter and pricier than aluminum",
+    "Ball head is the default travel head; fluid head for video",
+    "Twist vs flip/lever leg locks and number of leg sections",
+    "A how-we-chose or how-we-test section and a short FAQ",
+    "Peak Design Travel Tripod, Manfrotto Befree and Gitzo Traveler appear on most lists"
+  ],
   "ourGain": [
-    {"point": "Load rating depends on leg angle: the 3 Legged Thing Punks Travis 2.0 is rated 18 kg at 23 degrees but 12 kg at 55 and 8 kg at 80, so low-angle setups cut capacity", "source": "https://www.3leggedthing.com/us/travis-2-tripod-system.html"},
-    {"point": "Column-down height vs advertised max: the Vanguard VEO 3 GO 235CB lists 136 cm raised but 106 cm with the column down, a 30 cm gap most roundups skip", "source": "https://www.cliftoncameras.co.uk/uploads/specifications/Vanguard%20VEO%203GO%20235CB%20Travel%20Tripod%20%20Specifications%20.pdf"},
-    {"point": "Peak Design publishes 51.25 in column-down vs 60 in raised (20 lb load, 15.5 in fold), the benchmark for usable height in a carry-on-length tripod", "source": "https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb"},
-    {"point": "TSA allows tripods in both carry-on and checked bags, but the final call rests with the officer at the checkpoint; airline size limits still apply", "source": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods"},
-    {"point": "Turn off in-body stabilization on a tripod: Sony's help guide says to turn SteadyShot off when using a tripod because it can cause a malfunction when shooting", "source": "https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html"}
+    {
+      "point": "Load rating depends on leg angle: the 3 Legged Thing Punks Travis 2.0 is rated 18 kg at 23 degrees but 12 kg at 55 and 8 kg at 80, so low-angle setups cut capacity",
+      "source": "https://www.3leggedthing.com/us/travis-2-tripod-system.html"
+    },
+    {
+      "point": "Column-down height vs advertised max: the Vanguard VEO 3 GO 235CB lists 136 cm raised but 106 cm with the column down, a 30 cm gap most roundups skip",
+      "source": "https://www.cliftoncameras.co.uk/uploads/specifications/Vanguard%20VEO%203GO%20235CB%20Travel%20Tripod%20%20Specifications%20.pdf"
+    },
+    {
+      "point": "Peak Design publishes 51.25 in column-down vs 60 in raised (20 lb load, 15.5 in fold), the benchmark for usable height in a carry-on-length tripod",
+      "source": "https://www.glazerscamera.com/collections/all/products/peak-design-travel-tripod-carb"
+    },
+    {
+      "point": "TSA allows tripods in both carry-on and checked bags, but the final call rests with the officer at the checkpoint; airline size limits still apply",
+      "source": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods"
+    },
+    {
+      "point": "Turn off in-body stabilization on a tripod: Sony's help guide says to turn SteadyShot off when using a tripod because it can cause a malfunction when shooting",
+      "source": "https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html"
+    }
   ],
   "targetWords": 3300,
   "serpStructure": {
@@ -84,22 +481,94 @@
     "productStyleReason": "Top roundups present each tripod with a spec block (folded length, weight, max load, max height) and a short blurb, and lead with a comparison table; readers compare numbers first. Inferred from titles and snippets because pages could not be fetched.",
     "avgWords": 2700,
     "avgProducts": 7,
-    "commonSections": ["top picks summary", "comparison table", "individual product reviews with specs", "buying guide", "how we chose", "FAQ", "final verdict"],
+    "commonSections": [
+      "top picks summary",
+      "comparison table",
+      "individual product reviews with specs",
+      "buying guide",
+      "how we chose",
+      "FAQ",
+      "final verdict"
+    ],
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    {"position":1,"url":"https://www.digitalcameraworld.com/buying-guides/best-travel-tripod","title":"Best travel tripod in 2026: lightweight, stable supports for taking on the road"},
-    {"position":2,"url":"https://www.packhacker.com/blog/general/best-travel-tripod/","title":"The Best Travel Tripod for 2026 - Pack Hacker"},
-    {"position":3,"url":"https://www.reddit.com/r/photography/comments/1jc3d31/what_is_your_favorite_light_tripod_for_travel_or/","title":"What is your favorite light tripod for travel or just for spur of the moment ..."},
-    {"position":4,"url":"https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844","title":"4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"},
-    {"position":5,"url":"https://www.weseektravel.com/best-lightweight-backpacking-tripod/","title":"Best Lightweight Tripod for Hiking: Tested by a Pro Photographer"},
-    {"position":6,"url":"https://www.bestbuy.com/site/shop/travel-tripods-for-mirrorless-cameras","title":"Travel Tripods For Mirrorless Cameras - Best Buy"},
-    {"position":7,"url":"https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/","title":"Tested: Four travel tripods for every budget | DPReview"},
-    {"position":8,"url":"https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/","title":"My Favorite Portable and Lightweight Tripods in Different Situations"},
-    {"position":9,"url":"https://www.facebook.com/groups/landscapephotos/posts/9261351623975064/","title":"Travel tripod recommendations for mirrorless cameras - Facebook"},
-    {"position":10,"url":"https://www.youtube.com/watch?v=6yLbEIf9pJs&vl=en","title":"Which travel tripod is the BEST travel tripod? - YouTube"}
+    {
+      "position": 1,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod",
+      "title": "Best travel tripod in 2026: lightweight, stable supports for taking on the road"
+    },
+    {
+      "position": 2,
+      "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "title": "The Best Travel Tripod for 2026 - Pack Hacker"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/photography/comments/1jc3d31/what_is_your_favorite_light_tripod_for_travel_or/",
+      "title": "What is your favorite light tripod for travel or just for spur of the moment ..."
+    },
+    {
+      "position": 4,
+      "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "title": "4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"
+    },
+    {
+      "position": 5,
+      "url": "https://www.weseektravel.com/best-lightweight-backpacking-tripod/",
+      "title": "Best Lightweight Tripod for Hiking: Tested by a Pro Photographer"
+    },
+    {
+      "position": 6,
+      "url": "https://www.bestbuy.com/site/shop/travel-tripods-for-mirrorless-cameras",
+      "title": "Travel Tripods For Mirrorless Cameras - Best Buy"
+    },
+    {
+      "position": 7,
+      "url": "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/",
+      "title": "Tested: Four travel tripods for every budget | DPReview"
+    },
+    {
+      "position": 8,
+      "url": "https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/",
+      "title": "My Favorite Portable and Lightweight Tripods in Different Situations"
+    },
+    {
+      "position": 9,
+      "url": "https://www.facebook.com/groups/landscapephotos/posts/9261351623975064/",
+      "title": "Travel tripod recommendations for mirrorless cameras - Facebook"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=6yLbEIf9pJs&vl=en",
+      "title": "Which travel tripod is the BEST travel tripod? - YouTube"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":1,"commonModifiers":["lightweight","best travel tripod (for 2026)","every budget"],"gap":"Travel tripods matched to specific mirrorless bodies (Sony a7, Fujifilm and more)"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "lightweight",
+      "best travel tripod (for 2026)",
+      "every budget"
+    ],
+    "gap": "Travel tripods matched to specific mirrorless bodies (Sony a7, Fujifilm and more)"
+  },
+  "textrazor": {
+    "date": "2026-10-30",
+    "pages": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod",
+      "https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/",
+      "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"
+    ],
+    "missingFromPostBefore": [
+      "Tripod head",
+      "Camera lens"
+    ],
+    "note": "dpreview blocked (Cloudflare); reddit/YouTube skipped"
+  }
 }

@@ -8,22 +8,142 @@
     "best real estate photography tripod"
   ],
   "entities": [
-    { "name": "geared head", "type": "component", "relation": "precise, separate tilt and level adjustments for straight verticals in interiors" },
-    { "name": "ball head", "type": "component", "relation": "faster but less precise head; harder to level in small steps" },
-    { "name": "3-way head", "type": "component", "relation": "pan/tilt head with separate axes, common in kits such as the 290 Xtra" },
-    { "name": "center column", "type": "component", "relation": "adds height but adds vibration; a 90-degree column helps in tight rooms" },
-    { "name": "HDR bracketing", "type": "technique", "relation": "multiple exposures that must align, so the tripod must not move" },
-    { "name": "flambient", "type": "technique", "relation": "flash plus ambient blend that also needs identical frames" },
-    { "name": "Arca-Swiss", "type": "standard", "relation": "dovetail plate standard; proprietary plates such as 410PL and RC2 are not compatible" },
-    { "name": "bubble level", "type": "component", "relation": "levels the camera so vertical lines stay straight" },
-    { "name": "wide-angle lens", "type": "equipment", "relation": "ultra-wide lenses exaggerate any tilt, so leveling matters" },
-    { "name": "leg angles", "type": "attribute", "relation": "independent leg angles let a leg sit on a stair or counter" },
-    { "name": "flip lock", "type": "component", "relation": "lever leg locks that show at a glance whether they are closed" },
-    { "name": "twist lock", "type": "component", "relation": "leg locks that can pick up grit outdoors" },
-    { "name": "Manfrotto", "type": "brand", "relation": "290, 190 and geared head lines recommended by most ranking pages" },
-    { "name": "Benro", "type": "brand", "relation": "Mach3 carbon legs recommended for tall, heavy-duty work" },
-    { "name": "carbon fiber", "type": "material", "relation": "lighter legs that damp vibration better than aluminum" },
-    { "name": "aluminum", "type": "material", "relation": "cheaper, heavier leg material" }
+    {
+      "name": "geared head",
+      "type": "component",
+      "relation": "precise, separate tilt and level adjustments for straight verticals in interiors"
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "faster but less precise head; harder to level in small steps"
+    },
+    {
+      "name": "3-way head",
+      "type": "component",
+      "relation": "pan/tilt head with separate axes, common in kits such as the 290 Xtra"
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "adds height but adds vibration; a 90-degree column helps in tight rooms"
+    },
+    {
+      "name": "HDR bracketing",
+      "type": "technique",
+      "relation": "multiple exposures that must align, so the tripod must not move"
+    },
+    {
+      "name": "flambient",
+      "type": "technique",
+      "relation": "flash plus ambient blend that also needs identical frames"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "dovetail plate standard; proprietary plates such as 410PL and RC2 are not compatible"
+    },
+    {
+      "name": "bubble level",
+      "type": "component",
+      "relation": "levels the camera so vertical lines stay straight"
+    },
+    {
+      "name": "wide-angle lens",
+      "type": "equipment",
+      "relation": "ultra-wide lenses exaggerate any tilt, so leveling matters"
+    },
+    {
+      "name": "leg angles",
+      "type": "attribute",
+      "relation": "independent leg angles let a leg sit on a stair or counter"
+    },
+    {
+      "name": "flip lock",
+      "type": "component",
+      "relation": "lever leg locks that show at a glance whether they are closed"
+    },
+    {
+      "name": "twist lock",
+      "type": "component",
+      "relation": "leg locks that can pick up grit outdoors"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "290, 190 and geared head lines recommended by most ranking pages",
+      "salience": 0.86
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "Mach3 carbon legs recommended for tall, heavy-duty work",
+      "salience": 0.46
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter legs that damp vibration better than aluminum"
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "cheaper, heavier leg material"
+    },
+    {
+      "name": "tripod",
+      "type": "equipment",
+      "relation": "the central product: three-legged camera support that holds the frame still for brackets (TextRazor: Tripod (photography))",
+      "salience": 0.88
+    },
+    {
+      "name": "real estate",
+      "type": "topic",
+      "relation": "listing interiors and exteriors are the use case the tripod is chosen for",
+      "salience": 0.58
+    },
+    {
+      "name": "camera",
+      "type": "equipment",
+      "relation": "the body plus wide zoom whose weight sets the load capacity you need",
+      "salience": 0.55
+    },
+    {
+      "name": "photography",
+      "type": "topic",
+      "relation": "real estate and interior photography genre",
+      "salience": 0.51
+    },
+    {
+      "name": "architectural photography",
+      "type": "topic",
+      "relation": "sister genre with the same need for straight verticals; Mark Jacobs and APA Almanac cover both",
+      "salience": 0.47
+    },
+    {
+      "name": "image stabilization",
+      "type": "technique",
+      "relation": "lens or body stabilization that lens makers such as Nikon advise switching off on a tripod",
+      "salience": 0.46
+    },
+    {
+      "name": "photographer",
+      "type": "role",
+      "relation": "working real estate photographers whose picks the ranking guides report",
+      "salience": 0.42
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "tripod and head weight matter when moving through several listings a day",
+      "salience": 0.36
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "max and column-down height; 4 to 5 ft camera height covers most interiors",
+      "salience": 0.28
+    }
   ],
   "attributes": [
     "max height with and without center column",
@@ -35,7 +155,10 @@
     "leg lock type",
     "head type",
     "plate standard",
-    "leg angle positions"
+    "leg angle positions",
+    "head included or legs only",
+    "feet (rubber or spikes)",
+    "column angle (vertical or 90-degree)"
   ],
   "ngrams": [
     "real estate photography",
@@ -49,7 +172,11 @@
     "leg angles",
     "quick release plate",
     "interior photography",
-    "camera height"
+    "camera height",
+    "real estate tripod",
+    "bubble level",
+    "wide-angle lens",
+    "image stabilization"
   ],
   "skipgrams": [
     "center column…height",
@@ -79,7 +206,14 @@
     "wide-angle",
     "panorama",
     "wind",
-    "spikes"
+    "spikes",
+    "architectural",
+    "photographer",
+    "camera",
+    "Manfrotto",
+    "Benro",
+    "rigid",
+    "sturdy"
   ],
   "questions": [
     "what height should a tripod be for real estate photos",
@@ -98,15 +232,61 @@
     "Camera height for interiors (chest to roughly 4-5 ft) versus eye level"
   ],
   "outline": [
-    { "h2": "Best Tripod for Real Estate Photography: Quick Picks", "intent": "first-screen answer", "h3": [] },
-    { "h2": "Real Estate Photography Tripod Comparison Table", "intent": "compare specs", "h3": [] },
-    { "h2": "How We Chose These Real Estate Tripods", "intent": "trust and method", "h3": [] },
-    { "h2": "The 7 Best Tripods and Heads for Real Estate Photography, Reviewed", "intent": "product reviews", "h3": ["Manfrotto 290 Xtra Tripod Kit with 3-Way Head", "Benro Mach3 TMA38CL", "Manfrotto MT190XPRO4", "GEEKOTO 75 inch Camera Tripod", "Manfrotto 410 Junior Geared Head", "Manfrotto 405 Geared Head", "JOBY GorillaPod 5K Kit"] },
-    { "h2": "What Height Should a Tripod Be for Real Estate Photos?", "intent": "height question", "h3": [] },
-    { "h2": "Which Head Is Best for Interior Photography?", "intent": "head question", "h3": ["Do you need a leveling base?"] },
-    { "h2": "Buying Checklist for a Real Estate Tripod", "intent": "how to choose", "h3": [] },
-    { "h2": "Setting Up a Tripod for Interior Shots", "intent": "technique", "h3": [] },
-    { "h2": "Final Verdict", "intent": "decision", "h3": [] }
+    {
+      "h2": "Best Tripod for Real Estate Photography: Quick Picks",
+      "intent": "first-screen answer",
+      "h3": []
+    },
+    {
+      "h2": "Real Estate Photography Tripod Comparison Table",
+      "intent": "compare specs",
+      "h3": []
+    },
+    {
+      "h2": "How We Chose These Real Estate Tripods",
+      "intent": "trust and method",
+      "h3": []
+    },
+    {
+      "h2": "The 7 Best Tripods and Heads for Real Estate Photography, Reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "Manfrotto 290 Xtra Tripod Kit with 3-Way Head",
+        "Benro Mach3 TMA38CL",
+        "Manfrotto MT190XPRO4",
+        "GEEKOTO 75 inch Camera Tripod",
+        "Manfrotto 410 Junior Geared Head",
+        "Manfrotto 405 Geared Head",
+        "JOBY GorillaPod 5K Kit"
+      ]
+    },
+    {
+      "h2": "What Height Should a Tripod Be for Real Estate Photos?",
+      "intent": "height question",
+      "h3": []
+    },
+    {
+      "h2": "Which Head Is Best for Interior Photography?",
+      "intent": "head question",
+      "h3": [
+        "Do you need a leveling base?"
+      ]
+    },
+    {
+      "h2": "Buying Checklist for a Real Estate Tripod",
+      "intent": "how to choose",
+      "h3": []
+    },
+    {
+      "h2": "Setting Up a Tripod for Interior Shots",
+      "intent": "technique",
+      "h3": []
+    },
+    {
+      "h2": "Final Verdict",
+      "intent": "decision",
+      "h3": []
+    }
   ],
   "targetWords": 1800,
   "secondaryKeywords": [
@@ -143,32 +323,151 @@
     "usesBuyingGuide": true
   },
   "serpProducts": [
-    { "name": "Manfrotto 290 Xtra kit (MK290XTA3-3WUS)", "pages": ["https://www.styldod.com/blog/best-tripod-for-real-estate-photography", "https://blog.aryeo.com/best-tripods-for-real-estate-photography/", "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography"] },
-    { "name": "Manfrotto MT190XPRO4", "pages": ["https://www.styldod.com/blog/best-tripod-for-real-estate-photography", "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"] },
-    { "name": "Benro TMA38CL Long Series 3 Mach3", "pages": ["https://blog.aryeo.com/best-tripods-for-real-estate-photography/", "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"] },
-    { "name": "GEEKOTO 75 inch tripod (X25)", "pages": ["https://www.photoup.net/learn/best-camera-tripods-for-real-estate-photography", "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"] },
-    { "name": "Manfrotto 410 Junior Geared Head", "pages": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography"] },
-    { "name": "Manfrotto 405 Geared Head", "pages": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"] },
-    { "name": "JOBY GorillaPod 5K Kit", "pages": ["https://www.styldod.com/blog/best-tripod-for-real-estate-photography", "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"] }
+    {
+      "name": "Manfrotto 290 Xtra kit (MK290XTA3-3WUS)",
+      "pages": [
+        "https://www.styldod.com/blog/best-tripod-for-real-estate-photography",
+        "https://blog.aryeo.com/best-tripods-for-real-estate-photography/",
+        "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography"
+      ]
+    },
+    {
+      "name": "Manfrotto MT190XPRO4",
+      "pages": [
+        "https://www.styldod.com/blog/best-tripod-for-real-estate-photography",
+        "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"
+      ]
+    },
+    {
+      "name": "Benro TMA38CL Long Series 3 Mach3",
+      "pages": [
+        "https://blog.aryeo.com/best-tripods-for-real-estate-photography/",
+        "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"
+      ]
+    },
+    {
+      "name": "GEEKOTO 75 inch tripod (X25)",
+      "pages": [
+        "https://www.photoup.net/learn/best-camera-tripods-for-real-estate-photography",
+        "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"
+      ]
+    },
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "pages": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography"
+      ]
+    },
+    {
+      "name": "Manfrotto 405 Geared Head",
+      "pages": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"
+      ]
+    },
+    {
+      "name": "JOBY GorillaPod 5K Kit",
+      "pages": [
+        "https://www.styldod.com/blog/best-tripod-for-real-estate-photography",
+        "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/"
+      ]
+    }
   ],
   "droppedCandidates": [
-    { "name": "Vanguard Alta Pro 263 family", "reason": "the four pages name four different variants (263AB, 263AP, 263AV, 2+ 263AB 100); the 2+ 263AB 100 listing did not appear in an Amazon search for its own name and showed only 'See All Buying Options'" },
-    { "name": "Manfrotto 504X fluid head with twin-leg tripod", "reason": "Styldod and Aryeo do not name the same leg variant (Aryeo's is the carbon twin-leg kit), so no single model is recommended by 2 pages" },
-    { "name": "Manfrotto 055 series", "reason": "Aryeo recommends the aluminum 055 kit, PixelShouters the carbon MT055CXPRO3: different models" },
-    { "name": "Benro Mach3 Series 2", "reason": "Aryeo names the aluminum TMA28A, Styldod a carbon Series 2: different models" },
-    { "name": "Arca-Swiss D4", "reason": "recommended by APA Almanac and Show&Tour, but no clear, well-stocked Amazon US listing was confirmed" }
+    {
+      "name": "Vanguard Alta Pro 263 family",
+      "reason": "the four pages name four different variants (263AB, 263AP, 263AV, 2+ 263AB 100); the 2+ 263AB 100 listing did not appear in an Amazon search for its own name and showed only 'See All Buying Options'"
+    },
+    {
+      "name": "Manfrotto 504X fluid head with twin-leg tripod",
+      "reason": "Styldod and Aryeo do not name the same leg variant (Aryeo's is the carbon twin-leg kit), so no single model is recommended by 2 pages"
+    },
+    {
+      "name": "Manfrotto 055 series",
+      "reason": "Aryeo recommends the aluminum 055 kit, PixelShouters the carbon MT055CXPRO3: different models"
+    },
+    {
+      "name": "Benro Mach3 Series 2",
+      "reason": "Aryeo names the aluminum TMA28A, Styldod a carbon Series 2: different models"
+    },
+    {
+      "name": "Arca-Swiss D4",
+      "reason": "recommended by APA Almanac and Show&Tour, but no clear, well-stocked Amazon US listing was confirmed"
+    }
   ],
   "serpTitles": [
-    {"position":1,"url":"https://www.reddit.com/r/RealEstatePhotography/comments/19dtzbx/tripod_recommendations/","title":"Tripod Recommendations : r/RealEstatePhotography - Reddit"},
-    {"position":2,"url":"https://www.youtube.com/watch?v=KKpL-tW0MWA","title":"The Best Budget Gear for Real Estate Photography - YouTube"},
-    {"position":3,"url":"https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography","title":"Best Tripods For Architectural and Real Estate Photography"},
-    {"position":4,"url":"https://www.facebook.com/groups/nikonz9usersgroup/posts/1142701093818351/","title":"What is the best tripod for real estate photography with a budget of $1k ..."},
-    {"position":5,"url":"https://www.styldod.com/blog/best-tripod-for-real-estate-photography","title":"7 Best Tripod for Real Estate Photography - Styldod"},
-    {"position":6,"url":"https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209","title":"What Tripod Head Should You Buy for Real Estate and Architectural ..."},
-    {"position":7,"url":"https://www.youtube.com/shorts/pscrqclprd0","title":"Best Tripod for Real Estate Photography - YouTube"},
-    {"position":8,"url":"https://www.photoup.net/learn/best-camera-tripods-for-real-estate-photography","title":"Top 6 Camera Tripods for Real Estate Photography - PhotoUp"},
-    {"position":9,"url":"https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/","title":"10 Best Tripods for Real Estate Photography in 2026 - PixelShouters"},
-    {"position":10,"url":"https://www.techgearlab.com/topics/electronics/best-tripod","title":"The Best Tripods of 2026 | Tested & Ranked - TechGearLab"}
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/RealEstatePhotography/comments/19dtzbx/tripod_recommendations/",
+      "title": "Tripod Recommendations : r/RealEstatePhotography - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=KKpL-tW0MWA",
+      "title": "The Best Budget Gear for Real Estate Photography - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography",
+      "title": "Best Tripods For Architectural and Real Estate Photography"
+    },
+    {
+      "position": 4,
+      "url": "https://www.facebook.com/groups/nikonz9usersgroup/posts/1142701093818351/",
+      "title": "What is the best tripod for real estate photography with a budget of $1k ..."
+    },
+    {
+      "position": 5,
+      "url": "https://www.styldod.com/blog/best-tripod-for-real-estate-photography",
+      "title": "7 Best Tripod for Real Estate Photography - Styldod"
+    },
+    {
+      "position": 6,
+      "url": "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+      "title": "What Tripod Head Should You Buy for Real Estate and Architectural ..."
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/shorts/pscrqclprd0",
+      "title": "Best Tripod for Real Estate Photography - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.photoup.net/learn/best-camera-tripods-for-real-estate-photography",
+      "title": "Top 6 Camera Tripods for Real Estate Photography - PhotoUp"
+    },
+    {
+      "position": 9,
+      "url": "https://www.pixelshouters.com/10-best-tripods-for-real-estate-photography/",
+      "title": "10 Best Tripods for Real Estate Photography in 2026 - PixelShouters"
+    },
+    {
+      "position": 10,
+      "url": "https://www.techgearlab.com/topics/electronics/best-tripod",
+      "title": "The Best Tripods of 2026 | Tested & Ranked - TechGearLab"
+    }
   ],
-  "titlePattern": {"keywordAtStart":1,"withYear":2,"withNumber":3,"commonModifiers":["architectural and real estate","tripod head","N Best / Top N"],"gap":"Height and head choice for level interior shots"}
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 2,
+    "withNumber": 3,
+    "commonModifiers": [
+      "architectural and real estate",
+      "tripod head",
+      "N Best / Top N"
+    ],
+    "gap": "Height and head choice for level interior shots"
+  },
+  "textrazor": {
+    "date": "2026-10-30",
+    "pages": [
+      "https://www.markjacobsproductions.com/blog-post/best-tripods-for-architectural-and-real-estate-photography",
+      "https://www.oscarmikols.com/blog/top-3-tripods-under-300",
+      "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+      "https://blog.aryeo.com/best-tripods-for-real-estate-photography/",
+      "https://www.photoup.net/learn/best-tripods-for-real-estate-photography"
+    ],
+    "note": "Reddit and Manfrotto story pages in the live top 5 could not be fetched; replaced with the next ranking article pages."
+  }
 }

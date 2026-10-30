@@ -1,26 +1,21 @@
 {
   "slug": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:16.599Z",
+  "checkedAt": "2026-10-30T17:58:18.688Z",
   "errors": [],
   "warnings": [
-    "only 20 first-person words; owner rule wants at least 21 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto PIXI Mini Tripod (MTPIXI-B); Ulanzi MT-16 Extendable Tripod with Ball Head; SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2119 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "only 15 first-person words; owner rule wants at least 20 (about 1 per 100 words: I, my, me, we, our, us)",
+    "body has 1970 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html",
-    "source didn't respond normally (403): https://www.fullcompass.com/prod/660129-smallrig-sr-but2664-smallrig-tabletop-mini-tripod-w-panoramic-ball-head",
-    "source didn't respond normally (403): https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed 404 sources (Trusted Reviews / Photofocus; no new URL found via search); remaining claims checked against DCW, Thomann, K&F maker page and Kentfaith customer reviews search snippets",
-    "at": "2026-10-17T19:32:19.268Z"
+    "notes": "Semantic pass 2026-10-30: TextRazor on 3 top pages (Neewer, Carryology, DCW; Wirecutter/Reddit blocked); added Smartphone and tripod entities in true sentences, maker+type first sentences per product, new 'Which one should you get' block, one internal link, first-person scoreNotes; no specs, prices, ratings or ASINs changed; cut filler.",
+    "at": "2026-10-30T17:58:17.839Z",
+    "hash": "d11345cc4a605ad9"
   }
 }

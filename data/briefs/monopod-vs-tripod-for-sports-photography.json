@@ -12,12 +12,14 @@
     {
       "name": "monopod",
       "type": "camera support",
-      "relation": "single-leg support that carries lens weight while leaving the shooter free to move"
+      "relation": "single-leg support that carries lens weight while leaving the shooter free to move",
+      "salience": 0.98
     },
     {
       "name": "tripod",
       "type": "camera support",
-      "relation": "three-leg support that stands on its own and holds framing for slow shutter speeds and video"
+      "relation": "three-leg support that stands on its own and holds framing for slow shutter speeds and video",
+      "salience": 0.9
     },
     {
       "name": "monopod with feet",
@@ -62,12 +64,14 @@
     {
       "name": "shutter speed",
       "type": "exposure setting",
-      "relation": "fast speeds freeze action; slow speeds for panning blur favor more support"
+      "relation": "fast speeds freeze action; slow speeds for panning blur favor more support",
+      "salience": 0.32
     },
     {
       "name": "image stabilization",
       "type": "camera feature",
-      "relation": "in-lens or in-body stabilization that reduces the need for support"
+      "relation": "in-lens or in-body stabilization that reduces the need for support",
+      "salience": 0.4
     },
     {
       "name": "sideline",
@@ -98,6 +102,42 @@
       "name": "Vanguard VEO 2S CM-264TR",
       "type": "product",
       "relation": "carbon monopod with fold-out tri-feet"
+    },
+    {
+      "name": "sports photography",
+      "type": "photography genre",
+      "relation": "the use case: fast action, long lenses, crowded sidelines",
+      "salience": 0.48
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the body the support carries; mount long lenses by the collar, not the body",
+      "salience": 0.48
+    },
+    {
+      "name": "photographer",
+      "type": "role",
+      "relation": "sideline shooter who trades stability against mobility",
+      "salience": 0.32
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "light, stiff leg material used by both picked monopods",
+      "salience": 0.42
+    },
+    {
+      "name": "landscape photography",
+      "type": "photography genre",
+      "relation": "long-exposure work where a tripod beats a monopod",
+      "salience": 0.41
+    },
+    {
+      "name": "tripod head",
+      "type": "camera support part",
+      "relation": "mount between legs and camera; tripods need one, monopods often use a tilt head or none",
+      "salience": 0.37
     }
   ],
   "attributes": [
@@ -116,7 +156,8 @@
     "low light",
     "video",
     "fatigue",
-    "cost"
+    "cost",
+    "head type"
   ],
   "ngrams": [
     "monopod vs tripod",
@@ -134,7 +175,12 @@
     "lens collar",
     "image stabilization",
     "low light",
-    "sideline"
+    "sideline",
+    "human tripod",
+    "sports photographers",
+    "tripod head",
+    "landscape photography",
+    "carbon fiber"
   ],
   "skipgrams": [
     "monopod…mobility",
@@ -144,7 +190,10 @@
     "monopod…sideline",
     "tripod…video",
     "tilt…head",
-    "rated…load"
+    "rated…load",
+    "monopod…carbon",
+    "tripod…landscape",
+    "tripod…head"
   ],
   "nlpTerms": [
     "monopod",
@@ -170,7 +219,11 @@
     "crowd",
     "low light",
     "handheld",
-    "gimbal"
+    "gimbal",
+    "Olympics",
+    "stadium seating",
+    "long exposure",
+    "weight"
   ],
   "questions": [
     "Is a monopod or tripod better for sports photography?",
@@ -294,16 +347,75 @@
     }
   ],
   "serpTitles": [
-    {"position":1,"url":"https://www.youtube.com/watch?v=iY2mXFX-tNk","title":"Monopod, Tripod, or Handheld? What to use when shooting sports!"},
-    {"position":2,"url":"https://www.reddit.com/r/AskPhotography/comments/13p7jv3/i_recently_bought_a_super_telephoto_to_get_more/","title":"I recently bought a super telephoto to get more into sports photography ..."},
-    {"position":3,"url":"https://digital-photography-school.com/tripod-versus-monopod-comparison/","title":"Tripod vs Monopod: Which Should You Use?"},
-    {"position":4,"url":"https://www.smallrig.com/blog/best-monopod-for-sports-photography.html","title":"How to Choose the Best Monopod for Sports Photography - SmallRig"},
-    {"position":5,"url":"https://www.facebook.com/groups/324830637943242/posts/2401423596950592/","title":"Monopod or tripod for photography? - Facebook"},
-    {"position":6,"url":"https://www.gitzo.com/us-en/gitzo-inspires/monopod-photography-sport/","title":"Monopod Photography: How to use it for Sports Photos - Gitzo"},
-    {"position":7,"url":"https://www.dpreview.com/forums/threads/tripod-or-monopod-for-sports.887621/","title":"Tripod or monopod for sports | DPReview Forums"},
-    {"position":8,"url":"https://momanx.com/blogs/moman-ideas/monopod-vs-tripod-which-to-choose?srsltid=AU7gw4V2fG13mT6vIBwxGdBqOJ17gBRuACZ1DiK6NyaVWcZ71gOEdSuj","title":"Monopod vs tripod: Which one to choose? - Moman PhotoGears"},
-    {"position":9,"url":"https://bcgforums.com/threads/tripod-vs-monopod.21386/","title":"Tripod vs. Monopod | Backcountry Gallery Photography Forums"},
-    {"position":10,"url":"https://www.youtube.com/watch?v=AHp52Q0dscY","title":"Gimbal VS Monopod VS Tripod - What's Best? - YouTube"}
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=iY2mXFX-tNk",
+      "title": "Monopod, Tripod, or Handheld? What to use when shooting sports!"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/13p7jv3/i_recently_bought_a_super_telephoto_to_get_more/",
+      "title": "I recently bought a super telephoto to get more into sports photography ..."
+    },
+    {
+      "position": 3,
+      "url": "https://digital-photography-school.com/tripod-versus-monopod-comparison/",
+      "title": "Tripod vs Monopod: Which Should You Use?"
+    },
+    {
+      "position": 4,
+      "url": "https://www.smallrig.com/blog/best-monopod-for-sports-photography.html",
+      "title": "How to Choose the Best Monopod for Sports Photography - SmallRig"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/324830637943242/posts/2401423596950592/",
+      "title": "Monopod or tripod for photography? - Facebook"
+    },
+    {
+      "position": 6,
+      "url": "https://www.gitzo.com/us-en/gitzo-inspires/monopod-photography-sport/",
+      "title": "Monopod Photography: How to use it for Sports Photos - Gitzo"
+    },
+    {
+      "position": 7,
+      "url": "https://www.dpreview.com/forums/threads/tripod-or-monopod-for-sports.887621/",
+      "title": "Tripod or monopod for sports | DPReview Forums"
+    },
+    {
+      "position": 8,
+      "url": "https://momanx.com/blogs/moman-ideas/monopod-vs-tripod-which-to-choose?srsltid=AU7gw4V2fG13mT6vIBwxGdBqOJ17gBRuACZ1DiK6NyaVWcZ71gOEdSuj",
+      "title": "Monopod vs tripod: Which one to choose? - Moman PhotoGears"
+    },
+    {
+      "position": 9,
+      "url": "https://bcgforums.com/threads/tripod-vs-monopod.21386/",
+      "title": "Tripod vs. Monopod | Backcountry Gallery Photography Forums"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=AHp52Q0dscY",
+      "title": "Gimbal VS Monopod VS Tripod - What's Best? - YouTube"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":0,"withNumber":0,"commonModifiers":["tripod vs monopod","which should you use / choose"],"gap":"Whether a monopod is steady enough for telephoto sports lenses, with two specific monopod picks"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "tripod vs monopod",
+      "which should you use / choose"
+    ],
+    "gap": "Whether a monopod is steady enough for telephoto sports lenses, with two specific monopod picks"
+  },
+  "semanticPass": {
+    "date": "2026-10-30",
+    "source": "TextRazor",
+    "pages": [
+      "https://digital-photography-school.com/tripod-versus-monopod-comparison/",
+      "https://www.smallrig.com/blog/best-monopod-for-sports-photography.html",
+      "https://momanx.com/blogs/moman-ideas/monopod-vs-tripod-which-to-choose"
+    ],
+    "entitiesFile": "data/briefs/monopod-vs-tripod-for-sports-photography.entities.json"
+  }
 }

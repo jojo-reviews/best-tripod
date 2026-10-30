@@ -1,0 +1,129 @@
+{
+  "keyword": "best tripod for spotting scope",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Spotting scope",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Telescopic sight",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Telescopic_sight"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 4,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.98,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Carbon",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon"
+    },
+    {
+      "entity": "Rifle",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Rifle"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Binoculars",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars"
+    },
+    {
+      "entity": "Optics",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Optics"
+    },
+    {
+      "entity": "Shooting",
+      "type": "/event/disaster_type",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+    },
+    {
+      "entity": "Sniper",
+      "type": "/fictional_universe/character_occupation",
+      "pages": 2,
+      "relevance": 0.24,
+      "wiki": "http://en.wikipedia.org/wiki/Sniper"
+    }
+  ],
+  "missingFromPost": [
+    "Rifle",
+    "Sniper"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "keyword": "monopod vs tripod for sports photography",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.98,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.89,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Sports photography",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Sports_photography"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Landscape photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Shutter speed",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    }
+  ],
+  "missingFromPost": [
+    "Landscape photography",
+    "Tripod head"
+  ],
+  "errors": [
+    "https://www.reddit.com/r/photography/comments/f3rfzy/is_monopod_worth_it_vs_tripod/: Your current TextRazor plan allows a maximum of 2 concurrent requests. Please contact support@textrazor.com for more information.",
+    "https://www.dpreview.com/forums/threads/monopod-vs-tripod.4395708/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-QK9K40HauKT4Gq3HeTUCJu&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"QK9K40HauKT4Gq3HeTUCJu\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '0WEMQ5VuooefEYJPGjdstes3E6MUw6Ps7hIk_LAlS4M-1793383007-1.2.1.1-UkCFvXoZ72muMnSheHiTHC4Uepdk2i9jaKv6y65o2NkMUlFxvVWbk5cgjWmY6AJU',cITimeS: '1793383007',cN: 'QK9K40HauKT4Gq3HeTUCJu',cRay: 'a52c4c732d0fbd30',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/monopod-vs-tripod.4395708/?__cf_chl_tk=W3AAxCM6mzO5TEtr0YsrK0BCF3clYQ4KfoHeEDXy2uk-1793383007-1.0.1.1-bB1VORxUKG7oXaPoM2ZN9p5ZgvUmKdx8CphjhbQpm90\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/monopod-vs-tripod.4395708/?__cf_chl_f_tk=W3AAxCM6mzO5TEtr0YsrK0BCF3clYQ4KfoHeEDXy2uk-1793383007-1.0.1.1-bB1VORxUKG7oXaPoM2ZN9p5ZgvUmKdx8CphjhbQpm90\",md: 'TS0Ls46nNFmIsgW_wcxY.ObXs89NcRyHm9x3eDFsriY-1793383007-1.2.1.1-sD1PTs9iWOE_3z9km3oKFjegkDkK5kqVmIwrrqricgGPKbYsWE7COgUWSo0AjJjhC9_dx_XHv8aw8ROsFitRIwYdpM0U.uVfQmuLFE7zPwOdvi.d5TptUTVN0qTJ_I9loVUWGD2ECtdJmQF3CoScW5IXoKxGa7fnBO0s0T4RhbSefZ7Q3aQYIFYD1PNML8Bp8l_K7yVThov_3rTvkXaKgo1WXNs1NjRmRMOHzOCZy657ES0pOQHaP2jl9TSRaNRELwYSpGrd6OQROT9sD8ybcIX.crSTFvHy1ED8XggLpxRUMHQV.Xm9U4wwaa_YBvDrZ19Wva4dZD6.cn_nQKKgAXLBPQ_QToM2WoTKxDkvr86PlN5_7bsBCxbR1h9GvbLXPcyIpHgZo8FiaCfnqalSQkawbqgjm5zwdX.rixN9YMeYpFQbSnHBUs6w6_orYDyo4R1LyE0MOAznGfpxXjfY4CQr3YJtZL_8gZa4NGsCSdfME9hdi46PcXE9PqM73XUg0oVb1aHHTkpNNBbw8_eHdipEgBrNZrHKNe2ytdyU19kb6kCTUqrpUcGa3APmMsgM8yWIk3oQrcN6lKnK8wegV84pPsSYKMpShUTPHbbD7Qfc8HkWJRXe4U5hi5.qRCjCEoGZ1h_3w59NHpTVjJl..08JQX1wiNhctVfP7TQirxIY5KDuDil6k9LgLciZg_xNOhB.YspEQuuhB6xZBsFF2TgvAAeoR8CiFQBm5PBjWGXwvL06UFifNdONiow3k8x_hyYGgiVnPPpBEJlO.1SaNaVPQ.m8fPB3MhIFQmE1CZRNHEUbW_N9ovrhocF0jpWyqivaZnngMs.5salCcV3.cCT9OzCOuPNckX18CVvpu6S.qzrR6cTRIqZ7vG.P41Je_LD1yGiB_vJ5kTBxuAvrYKDNWNMMV_RWjyPxcK0REVySIcq0D90cieKtxzyYVwf0_lQ_T2NaFK7Sjhz_JwFHcpx.JV4dla26w7iQkINcn0wK.22AyvYmn99CQra3RPTpBqWXwuhQyp3tyYAbdYrSSEwA_tIU0kT_ZEi0HsZPp0Y69ORftePshGpiZ715J3qNiMJhgyqG3QOQnWjvNQYn6byE1__NN8U66ymFJgU_8QI_ijZfm0jOOEcBFcAg8kzK',mdrd: 'YTyeeL7vLoq0mlAqRxfh74bXovVVkSmA9GUpCwNTkfs-1793383007-1.2.1.1-8n3OV4IWgJhX1Y4myCkxyaHuBlkMzqGHjDUmtZQSyZnqklrQ9I2SAH8g9eanyXHR0JEmgXqidGGeuPv1qd9k3z5lo05T51gby2sb1VMCqk95cmxxsowm_n0Iv7pbjebC8t4.2owZSdg2IfkCyDhM8tiNN841XVX43Na54jtQMs1zsej4oa9CRyBZEucMnsvHndduSPOdbM4S1BOp_CZOLMY03bBiDITG9JasjDwaS.fA1AYseq3K7ylp.xOWNKVmtWPDnllu76D_w3zqVNTgZw',};var a = document.createElement('script');a.nonce = 'QK9K40HauKT4Gq3HeTUCJu';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a52c4c732d0fbd30';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/monopod-vs-tripod.4395708/?__cf_chl_rt_tk=W3AAxCM6mzO5TEtr0YsrK0BCF3clYQ4KfoHeEDXy2uk-1793383007-1.0.1.1-bB1VORxUKG7oXaPoM2ZN9p5ZgvUmKdx8CphjhbQpm90\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

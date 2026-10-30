@@ -13,12 +13,14 @@
     {
       "name": "Peak Design Travel Tripod (Carbon Fiber)",
       "type": "product",
-      "relation": "2.8 lb, 15.5 in folded; most-named hiking pick"
+      "relation": "2.8 lb, 15.5 in folded; most-named hiking pick",
+      "salience": 0.53
     },
     {
       "name": "Peak Design Travel Tripod (Aluminum)",
       "type": "product",
-      "relation": "3.4 lb lower-cost sibling with the same fold"
+      "relation": "3.4 lb lower-cost sibling with the same fold",
+      "salience": 0.53
     },
     {
       "name": "Manfrotto Befree GT Carbon",
@@ -33,7 +35,8 @@
     {
       "name": "JOBY GorillaPod 5K",
       "type": "product",
-      "relation": "flexible-leg mini tripod, wraps on rocks and branches"
+      "relation": "flexible-leg mini tripod, wraps on rocks and branches",
+      "salience": 0.47
     },
     {
       "name": "Manfrotto PIXI EVO",
@@ -84,6 +87,102 @@
       "name": "mirrorless camera with 70-200mm",
       "type": "use case",
       "relation": "typical trail load a hiking tripod must hold"
+    },
+    {
+      "name": "camera tripod",
+      "type": "concept",
+      "relation": "central entity: hiking tripod is a camera tripod built for pack carry",
+      "salience": 0.9,
+      "textrazor": "Tripod (photography)"
+    },
+    {
+      "name": "backpacking",
+      "type": "activity",
+      "relation": "day hikes and multi-day backpacking set the weight budget",
+      "salience": 0.63,
+      "textrazor": "Backpacking (hiking)"
+    },
+    {
+      "name": "lightweight",
+      "type": "attribute",
+      "relation": "weight with head is the first filter",
+      "salience": 0.6,
+      "textrazor": "Lightweight"
+    },
+    {
+      "name": "hiking",
+      "type": "activity",
+      "relation": "trail use: wind, uneven ground, pack strap carry",
+      "salience": 0.59,
+      "textrazor": "Hiking"
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "rated load is checked against the camera body plus lens",
+      "salience": 0.52,
+      "textrazor": "Camera"
+    },
+    {
+      "name": "carbon-fiber reinforced polymer",
+      "type": "material",
+      "relation": "carbon fiber legs: lighter for the same stiffness, damp vibration",
+      "salience": 0.45,
+      "textrazor": "Carbon-fiber reinforced polymer"
+    },
+    {
+      "name": "Sirui",
+      "type": "brand",
+      "relation": "budget carbon brand on Pack Hacker and J.M. Peltier lists; no model on two lists",
+      "salience": 0.66
+    },
+    {
+      "name": "photographer",
+      "type": "role",
+      "relation": "landscape photographers carry tripods for long exposures",
+      "salience": 0.64,
+      "textrazor": "Photographer"
+    },
+    {
+      "name": "Nikon",
+      "type": "brand",
+      "relation": "Nikon D850 with 70-200mm owner report; DSLR load example",
+      "salience": 0.53
+    },
+    {
+      "name": "photography",
+      "type": "concept",
+      "relation": "landscape and long-exposure photography on the trail",
+      "salience": 0.5,
+      "textrazor": "Photography"
+    },
+    {
+      "name": "Canon",
+      "type": "brand",
+      "relation": "Canon R5 owner reports; full-frame DSLR load example",
+      "salience": 0.33,
+      "textrazor": "Canon Inc."
+    },
+    {
+      "name": "DSLR",
+      "type": "product",
+      "relation": "a full-frame DSLR with 70-200mm f/2.8 is about 5 lb",
+      "salience": 0.31,
+      "textrazor": "Digital single-lens reflex camera"
+    },
+    {
+      "name": "camera lens",
+      "type": "product",
+      "relation": "heaviest lens decides the tripod",
+      "salience": 0.23,
+      "textrazor": "Camera lens"
+    },
+    {
+      "name": "monopod",
+      "type": "product",
+      "relation": "trekking pole as monopod is not a tripod substitute",
+      "salience": 0.29,
+      "textrazor": "Monopod"
     }
   ],
   "attributes": [
@@ -98,7 +197,9 @@
     "head type and friction control",
     "wind behavior and ballast hook",
     "feet and terrain grip",
-    "Arca-Swiss compatibility"
+    "Arca-Swiss compatibility",
+    "weight with head vs legs only",
+    "column-down working height"
   ],
   "ngrams": [
     "lightweight tripod for hiking",
@@ -114,7 +215,11 @@
     "mini tripod",
     "strap to backpack",
     "sunrise and sunset shots",
-    "windy conditions"
+    "windy conditions",
+    "backpacking tripod",
+    "lightweight carbon fiber tripod",
+    "multi-day backpacking",
+    "camera gear"
   ],
   "skipgrams": [
     "tripod…weight",
@@ -126,7 +231,10 @@
     "leg sections…wobble",
     "ball head…friction",
     "hike…tripod",
-    "mini…tabletop"
+    "mini…tabletop",
+    "Sirui…carbon",
+    "DSLR…lens…weight",
+    "camera…load"
   ],
   "nlpTerms": [
     "backpacking",
@@ -156,7 +264,14 @@
     "GorillaPod",
     "mini tripod",
     "trekking pole",
-    "packed length"
+    "packed length",
+    "DSLR",
+    "full-frame",
+    "camera lens",
+    "Sirui",
+    "carbon-fiber reinforced polymer",
+    "photographer",
+    "monopod"
   ],
   "questions": [
     "What is the best tripod for hiking?",
@@ -522,5 +637,11 @@
       "gsc": "climb pos ~7 for best hiking tripod; gaps patagonia/salomon/puma tripod 2026",
       "changes": "added 5th product Manfrotto Befree GT Carbon (owner rule 2026-10-28), Patagonia wind H2 + FAQ, first-person product write-ups, topic-named problems H2, new seoTitle/description"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-10-30",
+    "source": "TextRazor, top 5 US (packhacker, jmpeltier, norcalhiker, weseektravel, beckythetraveller)",
+    "entitiesFile": "data/briefs/best-hiking-tripod.entities.json",
+    "type": "reviewedDate only (entity wording, product first sentences, heading rename, trims)"
+  }
 }

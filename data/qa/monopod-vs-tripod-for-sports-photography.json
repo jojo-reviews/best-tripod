@@ -1,22 +1,20 @@
 {
   "slug": "monopod-vs-tripod-for-sports-photography",
   "pass": true,
-  "checkedAt": "2026-10-29T19:54:31.263Z",
+  "checkedAt": "2026-10-30T17:58:01.985Z",
   "errors": [],
   "warnings": [
+    "only 17 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): iFootage Cobra 3 C180F-P; Vanguard VEO 2S CM-264TR",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 1847 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "body has 1780 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"iFootage Cobra 3 C180F-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S CM-264TR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://petapixel.com/2023/06/10/ifootage-cobra-3-monopod-review-a-videographers-best-friend/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-filming-sports, no claim changed",
-    "at": "2026-10-29T19:43:32.560Z",
-    "hash": "4396b9b0fc735673"
+    "notes": "Semantic pass 2026-10-30 (review only): TextRazor on 3 top pages (DPS, SmallRig, Moman); added Tripod head (table row + head section) and Landscape photography (low-light section: tripod for long exposures); product first sentences name type + maker; added Which one should you get block; intro internal link; trimmed intro, notes block, verdict and filler. No product, price, rating or spec changes.",
+    "at": "2026-10-30T17:58:01.159Z",
+    "hash": "a3750ccf6413a5cf"
   }
 }

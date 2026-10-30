@@ -471,7 +471,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/
 updatedDate: '2026-10-29T12:48:31.000Z'
-reviewedDate: '2026-10-29'
+reviewedDate: '2026-10-30'
 author: editorial-team
 faqs:
   - q: What is the best hiking tripod?
@@ -529,7 +529,7 @@ related:
   - travel-tripod-vs-full-size-tripod-for-landscape-photography
 ---
 
-You reach the overlook twenty minutes before sunrise with seven pounds of camera gear already on your back, and the tripod strapped to the pack suddenly feels like the heaviest thing you own. Then the wind picks up on the ridge, you raise the center column to clear the rocks, and the long exposure comes back soft. The best hiking tripod is the one that solves both halves of that morning: light enough that you actually carry it, and stiff enough at the height you shoot. I built this guide around pack weight, wind and trail ground rather than airports and city breaks, and I matched five tripods to the hikers they suit. We did not use these tripods ourselves; every figure below comes from maker spec pages, retailer listings or owner reports, and we say which.
+The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
 
 ## Best hiking tripod picks by pack weight
 
@@ -555,7 +555,7 @@ This table compares the five on the numbers that decide pack weight, height and 
 
 ## How we chose these hiking tripods
 
-**We kept only tripods that at least two of the top-ranking hiking and backpacking guides recommend, then checked each one against maker pages, retailer spec tables and owner reviews.** We read Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier and Matt Purciel; retailer list pages such as Best Buy's did not count as a recommendation. In this update I added the Befree GT Carbon, which We Seek Travel and Pixel Hiker both recommend for hiking. If you're still deciding on material, our [carbon fiber vs aluminum tripod for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) guide covers the trade-off.
+**We kept only tripods that at least two of the top-ranking hiking and backpacking guides recommend, then checked each one against maker pages, retailer spec tables and owner reviews.** We read Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier and Matt Purciel; retailer list pages such as Best Buy's did not count. Sirui shows up as the budget carbon brand (the Traveler 5C on Pack Hacker's list, the T-005KX on J.M. Peltier's), but no single Sirui model made two lists, so it's not a pick here. If you're still deciding on material, our [carbon fiber vs aluminum tripod for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) guide covers the trade-off.
 
 For each tripod we then checked the trail numbers that matter:
 
@@ -574,7 +574,7 @@ For each tripod we then checked the trail numbers that matter:
 
 ### Peak Design Travel Tripod (Carbon Fiber): best overall for hiking
 
-I picked this carbon model as my best overall because Pack Hacker and We Seek Travel both recommend it, and the numbers explain why. The maker's spec page says it packs to the diameter of a standard water bottle; B&H lists 15.5 in folded and 2.8 lb, with a 20 lb (9.1 kg) load rating. It stands 51.25 in with the column down and 60 in with it up, and drops to 5.5 in for low foreground shots. Five carbon sections release with aluminum cam levers, and the plate is Arca-type compatible.
+The Peak Design Travel Tripod (Carbon Fiber) is a five-section carbon fiber travel tripod from Peak Design, and it's my best overall because Pack Hacker and We Seek Travel both recommend it. The maker's spec page says it packs to the diameter of a standard water bottle; B&H lists 15.5 in folded and 2.8 lb, with a 20 lb (9.1 kg) load rating. It stands 51.25 in with the column down and 60 in with it up, and drops to 5.5 in for low foreground shots. Five carbon sections release with aluminum cam levers, and the plate is Arca-type compatible.
 
 Owners on the maker's site and at B&H keep saying the same thing: it's small enough that they now bring a tripod on hikes where they used to leave one at home. One B&H owner put it as "something I don't have to ask myself if I should bring it or not because of it's size and weight!"
 
@@ -582,7 +582,7 @@ The weak points are the head and the latches. The built-in ball head has one adj
 
 ### Gitzo Traveler Series 1 GT1545T: lightest full-size legs
 
-Legs only is the first thing to know about this listing: you get about 2.3 lb (1.06 kg) of carbon legs and a short column, rated to 22 lb (10 kg), and no head. [Gitzo's product page](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/) lists 60.24 in maximum height, 8.66 in minimum and a 16.73 in fold; the 51.2 in column-down height comes from retailer listings. Four sections use G-Lock twist locks, the legs fold back over the column, and threaded feet accept spikes.
+The Gitzo Traveler Series 1 GT1545T is a four-section carbon fiber travel tripod from Gitzo, sold as legs only: you get about 2.3 lb (1.06 kg) of carbon legs and a short column, rated to 22 lb (10 kg), and no head. [Gitzo's product page](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/) lists 60.24 in maximum height, 8.66 in minimum and a 16.73 in fold; the 51.2 in column-down height comes from retailer listings. Four sections use G-Lock twist locks, the legs fold back over the column, and threaded feet accept spikes.
 
 It's my pick for gram-counters, and backpackers choose it to keep the whole kit near 1.1 kg with a small head. On a DPReview thread, one owner wrote that after five-plus years and two Japan birding trips it "Works well with EOS R5 and 100-500L lens". The maker itself recommends lenses up to 135-200mm, so I treat that 100-500mm use as one owner's experience, not the maker's rating.
 
@@ -590,15 +590,15 @@ The trade-offs are real. There are only two leg angles (25 and 70 degrees), so i
 
 ### Manfrotto Befree GT Carbon Travel Tripod (MKBFRTC4GT-BH): most load for wind and longer lenses
 
-I added the Befree GT Carbon for the hiker who shoots in wind or carries a 70-200mm. We Seek Travel calls it the best overall lightweight tripod for hiking, and Pixel Hiker puts it in its top three carbon tripods for travel and hiking. B&H lists a 26.5 lb (12 kg) load rating, 54.3 in with the column down, 63.8 in fully up and a 16.9 in fold, at 3.4 lb with the 496 ball head. That head has a separate pan lock and friction knob, which my other full-size picks lack, and B&H says the 200PL PRO plate fits RC2 and Arca-type clamps. Four sections use twist locks, and a side-pull selector sets three leg angles.
+The Manfrotto Befree GT Carbon (MKBFRTC4GT-BH) is a four-section carbon fiber travel tripod kit from Manfrotto, my pick for the hiker who shoots in wind or carries a 70-200mm. We Seek Travel calls it the best overall lightweight tripod for hiking, and Pixel Hiker puts it in its top three carbon tripods for travel and hiking. B&H lists a 26.5 lb (12 kg) load rating, 54.3 in with the column down, 63.8 in fully up and a 16.9 in fold, at 3.4 lb with the 496 ball head. That head has a separate pan lock and friction knob, which my other full-size picks lack, and B&H says the 200PL PRO plate fits RC2 and Arca-type clamps. Four sections use twist locks, and a side-pull selector sets three leg angles.
 
 One B&H owner says hiking photo trips became a pleasure again after swapping a heavy aluminum tripod for it; another used it in Utah's canyons with a Nikon D850 and 70-200mm f/2.8 and found it more stable than expected. A third calls it sturdy in wind.
 
 The costs are weight and parts. At 3.4 lb it's the heaviest full-size pick here, and one owner calls it "a bit heavy." Another lost the leg-lock shims after pulling a leg too far and could find no replacements, so I'd never over-extend a section.
 
-### JOBY GorillaPod 5K Kit: wrap it around rocks and branches
+### JOBY GorillaPod 5K Kit: flexible mini tripod for rocks and branches
 
-I included this flexible kit because its aluminum legs wrap around branches, rails and boulders instead of standing straight. The kit weighs 1.6 lb (739 g) with an 11 lb (5 kg) rating and an Arca-type ball head. It folds to about 15 in. JOBY does not publish a working height, so think of it as a support for a rest stop, not eye level.
+The JOBY GorillaPod 5K Kit is a flexible mini tripod with a ball head from JOBY, and its aluminum legs wrap around branches, rails and boulders instead of standing straight. The kit weighs 1.6 lb (739 g) with an 11 lb (5 kg) rating and an Arca-type ball head. It folds to about 15 in. JOBY does not publish a working height, so think of it as a support for a rest stop, not eye level.
 
 The praise is specific. One B&H owner bought it to replace a JOBY lost on a hike, and another says it holds a Canon R5 with a battery grip.
 
@@ -606,7 +606,7 @@ Durability is the catch, and it's not one isolated report. Three B&H reviewers s
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod (MTPIXIEVO-BK): the 0.57 lb tabletop option
 
-At 9.4 oz (0.26 kg) and 8.07 in folded, the PIXI EVO is my pocket backup, the one tripod here you will never leave behind. [Manfrotto's spec page](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) gives a 2.5 kg (5.5 lb) safety payload; B&H lists 7.7 in maximum height. Two aluminum leg sections, two leg angles and an integrated ball head keep it simple.
+The Manfrotto PIXI EVO 2-Section Mini Tripod is a tabletop mini tripod from Manfrotto; at 9.4 oz (0.26 kg) and 8.07 in folded, it's my pocket backup. [Manfrotto's spec page](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) gives a 2.5 kg (5.5 lb) safety payload; B&H lists 7.7 in maximum height. Two aluminum leg sections, two leg angles and an integrated ball head keep it simple.
 
 A B&H owner took it on a hiking trip in Arizona and "didn't even notice I had it until I needed it." That's the job I picked it for: a self-timer shot from a rock or a low waterfall frame from a ledge.
 
@@ -626,11 +626,9 @@ What about a trekking pole? Some hikers press one into service as a monopod, but
 
 Of my picks, I'd take the Befree GT Carbon for Patagonia-style wind, for its 26.5 lb rating and three leg angles, or the Gitzo legs if every ounce counts on a multi-day trek. Purciel rates the Peak Design Travel Tripod (aluminum) as slightly less stable than larger Gitzo models in high wind, so with it, I'd shorten the legs on exposed ground.
 
-## Wind, leg angles and uneven ground
+## Hiking tripod stability in wind and on uneven ground
 
-**In wind, a backpacking tripod is steadiest with the center column down, the legs short and spread wide, and weight hanging from the ballast hook.** Every pick here loses stiffness as you go higher, so trade height for stability on exposed ground.
-
-A raised column is a single thin post, so it amplifies every gust and every shutter press. Extend the thickest leg sections first and leave the thinnest ones for last. A wider leg angle lowers the camera and widens the base on slopes, but the Gitzo offers only two angles (25 and 70 degrees), so pick the wider one on exposed ground and accept a lower camera.
+**In wind, a backpacking tripod is steadiest with the center column down, the legs short and spread wide, and weight hanging from the ballast hook.** A raised column is a single thin post, so it amplifies every gust and every shutter press. Extend the thickest leg sections first and leave the thinnest ones for last. A wider leg angle lowers the camera and widens the base on slopes, but the Gitzo offers only two angles (25 and 70 degrees), so pick the wider one on exposed ground and accept a lower camera.
 
 Use what you're already carrying for ballast. Hanging your pack from the ballast hook adds weight low in the frame, and a DPReview poster suggested "hanging a counter weight from the center column, ensuring not to exceed the weight limit." Keep the bag from swinging by letting it touch the ground lightly.
 
@@ -646,7 +644,7 @@ Weight is a recurring complaint in DPReview hiking threads. Hikers already carry
 
 ### "Too small and wobbly for long exposures or a 100-400"
 
-Photographers who add ND filters, astro or longer lenses outgrow small travel tripods, a recurring theme in DPReview forum threads (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/)). One poster wrote: ["i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400"](https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2). My fix is load headroom and fewer joints: the Befree GT Carbon's 26.5 lb rating or the Gitzo GT1545T's 22 lb rating, both on four-section legs, or the Peak Design's 20 lb rating, with the column down and the pack on the hook. If your lens is longer than about 200mm, none of these five is a dedicated heavy-lens tripod.
+Photographers who add ND filters, astro or longer lenses outgrow small travel tripods (for night work, see our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/)). One poster wrote: ["i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400"](https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2). My fix is load headroom and fewer joints: the Befree GT Carbon's 26.5 lb rating or the Gitzo GT1545T's 22 lb rating, both on four-section legs, or the Peak Design's 20 lb rating, with the column down and the pack on the hook. If your lens is longer than about 200mm, none of these five is a dedicated heavy-lens tripod.
 
 ### Center column height vs stability
 
@@ -654,7 +652,7 @@ Reaching eye level often means raising the column, and owners know what that cos
 
 ### Five leg sections and plastic locks
 
-Experienced users warn that more sections and plastic flip locks mean more wobble and more parts to break, advice that turns up in DPReview threads. Leg sections and wobble go together: each joint adds a little play. If you shoot long exposures, the four-section GT1545T trades a slightly longer fold (16.7 in against 15.5 in) for fewer joints. With the five-section Peak Design, collapse the thinnest sections first.
+DPReview users warn that more leg sections and plastic flip locks mean more wobble and more parts to break, because each joint adds a little play. If you shoot long exposures, the four-section GT1545T trades a slightly longer fold (16.7 in against 15.5 in) for fewer joints. With the five-section Peak Design, collapse the thinnest sections first.
 
 ### Integrated ball head with no friction control
 
@@ -666,9 +664,9 @@ Compact built-in heads are often on-off only. One DPReview hiker, writing about 
 
 The checks we would run before buying:
 
-- **Weight and material.** Carbon fiber is lighter for the same stiffness and damps vibration faster; aluminum costs less and survives knocks. All three full-size picks here are carbon fiber.
+- **Weight and material.** Carbon fiber (carbon-fiber reinforced polymer) is lighter for the same stiffness and damps vibration faster; aluminum costs less and survives knocks. All three full-size picks here are carbon fiber.
 - **Folded length and carry.** 15 to 17 in fits most side pockets and pack straps; the PIXI EVO fits a coat pocket.
-- **Max load capacity vs your camera.** A rated load is a ceiling, not a comfortable working load. Add your body, heaviest lens and head, and leave a wide margin for wind and a raised column.
+- **Max load capacity vs your camera.** A rated load is a ceiling, not a comfortable working load. Add your body, heaviest camera lens and head: a full-frame Canon or Nikon DSLR with a 70-200mm f/2.8 lens weighs about 5 lb before the head, so leave a wide margin for wind and a raised column.
 - **Leg locks and sections.** A twist lock is slim and easy to grip with gloves but picks up grit; a flip lock shows at a glance that it's closed. Fewer sections are stiffer.
 - **Packed length with the head.** Measure it against your pack before you buy; a travel tripod for hiking should strap to a backpack side without poking past the top.
 - **Arca-Swiss compatibility.** An Arca-Swiss plate is the dovetail standard most heads and L-brackets share. The Peak Design, Befree GT and JOBY kits, which ship with a head, use Arca-type compatible plates; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the details.
@@ -688,4 +686,4 @@ If you mostly fly rather than hike, our roundup of [travel tripods for mirrorles
 
 **For most hikers, the best hiking tripod is the carbon Peak Design Travel Tripod; windy-trail shooters should take the Befree GT Carbon, gram-counters the GT1545T legs, and minimalists a PIXI EVO or GorillaPod.**
 
-So for the hiker on the ridge with seven pounds of camera gear: if the kit is a mirrorless body and a 24-70mm, the carbon Travel Tripod adds 2.8 lb and stays near eye level with the column down. If it's a 70-200mm f/2.8, the Peak Design's 20 lb rating covers it, but keep the column down and the pack on the hook; on a ridge known for wind, I'd carry the extra 0.6 lb of the Befree GT. Whatever you carry, drop the column, spread the legs, hang the pack and use the self-timer. That's the sharp frame we wanted from the start.
+For the hiker on the ridge with seven pounds of camera gear: with a mirrorless body and a 24-70mm, the carbon Travel Tripod adds 2.8 lb and stays near eye level with the column down. With a 70-200mm f/2.8 on a windy ridge, I'd carry the extra 0.6 lb of the Befree GT. Whatever you carry, drop the column, spread the legs, hang the pack and use the self-timer.

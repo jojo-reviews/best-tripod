@@ -1,23 +1,18 @@
 {
   "slug": "how-tall-should-a-tripod-be-for-my-height",
   "pass": true,
-  "checkedAt": "2026-10-29T10:44:12.871Z",
+  "checkedAt": "2026-10-30T17:58:52.290Z",
   "errors": [],
   "warnings": [
-    "only 20 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3); Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2284 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "only 17 first-person words; owner rule wants at least 22 (about 1 per 100 words: I, my, me, we, our, us)",
+    "body has 2093 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
-    "source didn't respond normally (403): https://www.adorama.com/vanguard-alta-pro-263ab-gen-2-aluminum-tripod-bh-60-ball-head/p/vgaltapro263",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1934044-REG/vanguard_alta_pro_263ab_g2.html"
+    "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "GSC refresh 2026-10-22: new 'How Tall Is a Tripod' section and FAQ verified live (maxAge 0): Peak Design Travel Tripod 51.25 in column down / 60 in raised per ShutterMuse spec table; ProMediaGear guide says its 42-series reaches 66-70+ in at full leg height; Manfrotto 055 55/67 in unchanged from existing sources. Ulanzi guide (URL moved to /blogs/guides/) quick answer re-read: about 60 in without center column for ~6 ft shooter, now linked as sourced number. 6-foot H2 reworded to match query; no products, safety notes, notes block or numbers removed. No prices, no testing claims.",
-    "at": "2026-10-22T12:20:45.253Z",
-    "hash": "3ab9649e7fd83404"
+    "notes": "Semantic pass 2026-10-30 (TextRazor; top pages Ulanzi, ProMediaGear, Momanx; Reddit/DPReview not fetchable): added camera tripod, macro/portrait/sports/landscape photography in true sentences; product first sentences name product, type and maker; From-our-notes first sentence made specific; Next Steps H2 topic-named; Which-one block added; scoreNotes first person; filler cut 2341->2152 words. No prices, ratings, tests, ASINs, slug, keyword or pubDate changed. Review only (reviewedDate 2026-10-30, updatedDate unchanged).",
+    "at": "2026-10-30T17:58:51.306Z",
+    "hash": "f2352ce93835d615"
   }
 }

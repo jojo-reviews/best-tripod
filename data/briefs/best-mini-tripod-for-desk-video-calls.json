@@ -10,6 +10,31 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "/product/tripod",
+      "relation": "central entity: three-legged camera support; the mini/tabletop class sits on a desk",
+      "salience": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "name": "Camera",
+      "type": "/product/camera",
+      "relation": "what the tripod holds: webcam, mirrorless or compact camera",
+      "salience": 0.68
+    },
+    {
+      "name": "Smartphone",
+      "type": "/product/smartphone",
+      "relation": "common call camera; needs a phone clamp on a 1/4-20 tripod",
+      "salience": 0.39
+    },
+    {
+      "name": "Photography",
+      "type": "/broadcast/genre",
+      "relation": "broader topic of the tripod roundups",
+      "salience": 0.27
+    },
+    {
       "name": "Manfrotto PIXI",
       "type": "product",
       "relation": "low-profile mini tripod; cannot reach seated eye level"
@@ -94,7 +119,9 @@
     "non-slip feet",
     "stability on a desk",
     "eye-level reach",
-    "price"
+    "price",
+    "grip/handle mode",
+    "pan and tilt range"
   ],
   "ngrams": [
     "mini tripod for desk",
@@ -111,19 +138,24 @@
     "folded length",
     "quick release plate",
     "360 degree rotation",
-    "mirrorless camera"
+    "mirrorless camera",
+    "smartphone clamp",
+    "tabletop tripod for phone and camera",
+    "mini tripod for camera"
   ],
   "skipgrams": [
-    "tripod\u2026eye level",
-    "center column\u2026height",
-    "desk\u2026video calls",
-    "ball head\u2026tilt",
-    "webcam\u20261/4-20",
-    "max load\u2026mirrorless",
-    "phone\u2026clamp",
-    "legs\u2026non-slip",
-    "folded\u2026backpack",
-    "mini\u2026tabletop"
+    "tripod…eye level",
+    "center column…height",
+    "desk…video calls",
+    "ball head…tilt",
+    "webcam…1/4-20",
+    "max load…mirrorless",
+    "phone…clamp",
+    "legs…non-slip",
+    "folded…backpack",
+    "mini…tabletop",
+    "smartphone…clamp",
+    "camera…tripod head"
   ],
   "nlpTerms": [
     "webcam",
@@ -149,7 +181,11 @@
     "remote",
     "USB",
     "mirrorless",
-    "phone holder"
+    "phone holder",
+    "smartphone",
+    "selfie stick",
+    "vlogging",
+    "live streaming"
   ],
   "questions": [
     "What is the best mini tripod for desk video calls?",
@@ -262,16 +298,83 @@
     "mini tripod for streaming camera"
   ],
   "serpTitles": [
-    {"position":1,"url":"https://www.amazon.com/clp/B0DGPRMNFR","title":"NEEWER Basic Mini Desk Tripod for iPhone & Camera with 3 Way Pan ..."},
-    {"position":2,"url":"https://www.youtube.com/watch?v=QUkJCldWpPY","title":"The Best Mini Tripod For Creators? (KraftGeek Variety Tripod Review)"},
-    {"position":3,"url":"https://www.bestbuy.com/site/shop/best-mini-tripods","title":"Best Mini Tripods - Best Buy"},
-    {"position":4,"url":"https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/","title":"The Best Tripod for iPhones and Other Smartphones - The New York Times"},
-    {"position":5,"url":"https://www.reddit.com/r/bmpcc/comments/vurl3w/recommendations_for_short_tripodstand_to_put_on/","title":"r/bmpcc on Reddit: recommendations for short tripod/stand to put on desk ..."},
-    {"position":6,"url":"https://neewer.com/collections/mini-tripod","title":"Travel & Mini Tripods | Desktop Tabletop Stand - NEEWER"},
-    {"position":7,"url":"https://www.youtube.com/watch?v=xaAhR2Lb254","title":"I Tested 6 Tabletop Tripods So You Don't Have To - YouTube"},
-    {"position":8,"url":"https://www.walmart.com/c/kp/mini-tabletop-tripods","title":"Mini Tabletop Tripods for Phones and Cameras - Walmart"},
-    {"position":9,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag","title":"Best mini tripods in 2026: tabletop supports that slip into a pocket or bag"},
-    {"position":10,"url":"https://us.amazon.com/Best-Sellers-Tabletop-Travel-Tripods/zgbs/electronics/499308","title":"Amazon Best Sellers: Best Tabletop & Travel Tripods"}
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/clp/B0DGPRMNFR",
+      "title": "NEEWER Basic Mini Desk Tripod for iPhone & Camera with 3 Way Pan ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=QUkJCldWpPY",
+      "title": "The Best Mini Tripod For Creators? (KraftGeek Variety Tripod Review)"
+    },
+    {
+      "position": 3,
+      "url": "https://www.bestbuy.com/site/shop/best-mini-tripods",
+      "title": "Best Mini Tripods - Best Buy"
+    },
+    {
+      "position": 4,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+      "title": "The Best Tripod for iPhones and Other Smartphones - The New York Times"
+    },
+    {
+      "position": 5,
+      "url": "https://www.reddit.com/r/bmpcc/comments/vurl3w/recommendations_for_short_tripodstand_to_put_on/",
+      "title": "r/bmpcc on Reddit: recommendations for short tripod/stand to put on desk ..."
+    },
+    {
+      "position": 6,
+      "url": "https://neewer.com/collections/mini-tripod",
+      "title": "Travel & Mini Tripods | Desktop Tabletop Stand - NEEWER"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=xaAhR2Lb254",
+      "title": "I Tested 6 Tabletop Tripods So You Don't Have To - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.walmart.com/c/kp/mini-tabletop-tripods",
+      "title": "Mini Tabletop Tripods for Phones and Cameras - Walmart"
+    },
+    {
+      "position": 9,
+      "url": "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+      "title": "Best mini tripods in 2026: tabletop supports that slip into a pocket or bag"
+    },
+    {
+      "position": 10,
+      "url": "https://us.amazon.com/Best-Sellers-Tabletop-Travel-Tripods/zgbs/electronics/499308",
+      "title": "Amazon Best Sellers: Best Tabletop & Travel Tripods"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":1,"commonModifiers":["mini / tabletop tripods","desk / desktop","for iPhone & camera"],"gap":"Which setup to use on the tripod (webcam vs phone vs mirrorless) and how it compares with a monitor mount or laptop stand"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "mini / tabletop tripods",
+      "desk / desktop",
+      "for iPhone & camera"
+    ],
+    "gap": "Which setup to use on the tripod (webcam vs phone vs mirrorless) and how it compares with a monitor mount or laptop stand"
+  },
+  "semanticPass": {
+    "date": "2026-10-30",
+    "tool": "TextRazor",
+    "pagesAnalyzed": 3,
+    "urls": [
+      "https://neewer.com/collections/mini-tripod",
+      "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+      "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag"
+    ],
+    "blocked": [
+      "wirecutter (captcha)",
+      "reddit (blocked)"
+    ],
+    "missingFromPost": [
+      "Smartphone"
+    ]
+  }
 }

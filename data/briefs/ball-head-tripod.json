@@ -9,6 +9,18 @@
   ],
   "entities": [
     {
+      "name": "camera tripod",
+      "type": "concept",
+      "relation": "parent entity (TextRazor \"Tripod (photography)\"): the three-legged camera support the ball head sits on, 2 of 4 top pages",
+      "salience": 0.42
+    },
+    {
+      "name": "Camera",
+      "type": "product",
+      "relation": "the payload the ball head holds and aims (TextRazor, 2 of 4 top pages)",
+      "salience": 0.3
+    },
+    {
       "name": "Really Right Stuff BH-40",
       "type": "product",
       "relation": "benchmark mid-size ball head, 1.07 lb per Exploring Exposure"
@@ -116,7 +128,9 @@
     "low profile height",
     "cold-weather behavior",
     "price",
-    "material (magnesium, aluminum, titanium)"
+    "material (magnesium, aluminum, titanium)",
+    "clamp options (lever, screw-knob, quick-release, panning clamp)",
+    "low center of gravity / low profile"
   ],
   "ngrams": [
     "ball head",
@@ -131,19 +145,26 @@
     "low profile ball head",
     "mirrorless camera",
     "heavy telephoto lens",
-    "landscape photography"
+    "landscape photography",
+    "Arca Swiss clamp",
+    "screw-knob clamp",
+    "lever-release clamp",
+    "low center of gravity",
+    "quick-release clamp"
   ],
   "skipgrams": [
-    "ball head\u2026sag",
-    "ball head\u2026load capacity",
-    "clamp\u2026lever",
-    "plate\u2026Arca-Swiss",
-    "friction\u2026knob",
-    "head\u2026base diameter",
-    "lens\u2026tripod foot",
-    "ball\u2026creep",
-    "head\u2026heavy lens",
-    "panning\u2026base"
+    "ball head…sag",
+    "ball head…load capacity",
+    "clamp…lever",
+    "plate…Arca-Swiss",
+    "friction…knob",
+    "head…base diameter",
+    "lens…tripod foot",
+    "ball…creep",
+    "head…heavy lens",
+    "panning…base",
+    "clamp…screw knob",
+    "ball head…Arca-Swiss"
   ],
   "nlpTerms": [
     "ball and socket",
@@ -166,7 +187,10 @@
     "pan lock",
     "mirrorless",
     "DSLR",
-    "center of gravity"
+    "center of gravity",
+    "screw knob",
+    "inverted ball head",
+    "panning clamp"
   ],
   "questions": [
     "What does a ball head do on a tripod?",
@@ -462,5 +486,16 @@
     "/blog/landscape-photography-tripod/",
     "category tripod-heads hub"
   ],
-  "note": "Rate limits and scrape blocks (Reddit) limited page reads; avgWords of 1500 is estimated from the editorial pages (Exploring Exposure about 5-min read; DCW roundup longer) since page one is mostly shop pages. Keyword KD 0, volume 500."
+  "note": "Rate limits and scrape blocks (Reddit) limited page reads; avgWords of 1500 is estimated from the editorial pages (Exploring Exposure about 5-min read; DCW roundup longer) since page one is mostly shop pages. Keyword KD 0, volume 500.",
+  "semanticPass": {
+    "date": "2026-10-30",
+    "topUrls": [
+      "https://reallyrightstuff.com/full-size-ball-heads/",
+      "https://sunwayfoto.com/collections/ballheads",
+      "https://www.amazon.com/ball-head-tripod/s?k=ball+head+tripod",
+      "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+      "https://www.reddit.com/r/longrange/comments/1ea628w/which_tripod_ball_head/"
+    ],
+    "note": "TextRazor read 4 of 5 pages (Reddit blocked); shared entities Tripod (photography) 0.42, Camera 0.30, Gear 0.27 (noise: mechanical gear). missingFromPost empty. Page one is mostly shop pages; Picatinny/QD terms (rifle market) ignored."
+  }
 }
