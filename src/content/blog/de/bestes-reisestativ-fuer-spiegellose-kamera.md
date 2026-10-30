@@ -575,6 +575,10 @@ products:
         - title: 'ShopSavvy review summary: Sirui Traveler 5C'
           url: >-
             https://shopsavvy.com/reviews-tldr/"sirui-compact-traveler-5c-tripod".md
+    asin: B07KD181B3
+    amazonTitle: >-
+      Sirui Compact Traveler 5C Tripod 54.3 inches Lightweight Carbon Fiber
+      Travel Tripod for Camera with 360° Panorama Ball Head
   - name: Sirui Traveler 7A Aluminum Tripod with E-10 Ball Head
     brand: Sirui
     query: Sirui Traveler 7A aluminum tripod E-10 ball head
