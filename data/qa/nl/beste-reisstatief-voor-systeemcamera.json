@@ -3,11 +3,12 @@
   "lang": "nl",
   "translationOf": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-30T02:08:48.761Z",
+  "checkedAt": "2026-10-30T18:10:26.649Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods, https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html)",
     "LIVE POST, FIX: product \"Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head\": owners.sources must be the English post's URLs",
+    "LIVE POST, FIX: product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\": specs keys must match the English post",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
     "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
     "source didn't respond normally (403): https://www.wexphotovideo.com/gitzo-gt1555t-series-1-traveler-carbon-exact-tripod-1578614/",
