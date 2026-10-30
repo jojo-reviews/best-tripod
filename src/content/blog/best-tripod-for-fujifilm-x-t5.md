@@ -500,7 +500,7 @@ The [K&F Concept 64 inch](amzn:K%26F+Concept+64+inch+lightweight+aluminum+travel
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: pocket backup
 
-The [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) weighs 0.57 lb, folds to 8.07 in and is rated to 2.5 kg, about 4.5 times an X-T5 body. Pack Hacker found the metal and plastic durable and the rubber feet grippy, but notes it doesn’t go very high and the leg-angle button can stick between modes. There's no quick-release plate, so it screws straight into the camera. I'd pair it with a small prime for self-timer shots on tables and walls; the 16-55mm makes it front-heavy.
+The [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) weighs 0.57 lb, folds to 8.07 in and is rated to 2.5 kg, about 4.5 times an X-T5 body. Pack Hacker found the metal and plastic durable and the rubber feet grippy, but notes it doesn’t go very high and the leg-angle button can stick between modes. There's no quick-release plate, so it screws straight into the camera. I'd pair it with a small prime for self-timer shots on tables and walls, as with our [tripods for the Fujifilm X100VI](/blog/best-tripod-for-fujifilm-x100vi/); the 16-55mm makes it front-heavy.
 
 ## What an X-T5 and its zooms ask of a tripod
 

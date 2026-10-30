@@ -1,25 +1,18 @@
 {
   "slug": "ball-head-sags-after-tightening",
   "pass": true,
-  "checkedAt": "2026-10-27T13:41:00.594Z",
+  "checkedAt": "2026-10-30T17:44:04.184Z",
   "errors": [],
   "warnings": [
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/",
-    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-ball-head-loose",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/410699/1",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:35.714Z",
-    "hash": "b2775c898d244f59"
+    "notes": "added one internal link to best-tripod-for-nikon-p1000, no claim changed",
+    "at": "2026-10-30T17:44:03.726Z",
+    "hash": "d1d7c696ce719ba7"
   }
 }

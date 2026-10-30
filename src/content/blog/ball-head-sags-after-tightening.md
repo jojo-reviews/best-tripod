@@ -191,7 +191,7 @@ Our guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-sw
 
 ## Heavy lens or small head: ball head sag from leverage
 
-**Ball head sag with a long lens is leverage: a front-heavy lens levers the ball far beyond its static weight, so we mount it by its lens collar before buying a bigger head.** Load capacity ratings assume a centered load. One Luminous Landscape owner had drift with a kit of about 4 lb on a head rated 26 lb, and a reply noted ratings refer to vertical load.
+**Ball head sag with a long lens is leverage: a front-heavy lens levers the ball far beyond its static weight, so we mount it by its lens collar before buying a bigger head.** Load capacity ratings assume a centered load. One Luminous Landscape owner had drift with a kit of about 4 lb on a head rated 26 lb, and a reply noted ratings refer to vertical load; the same leverage tips a [Nikon P1000 on a tripod](/blog/best-tripod-for-nikon-p1000/) at full zoom.
 
 - **Collar first:** a lens collar (tripod foot) puts the center of gravity over the ball (K&F Concept, Unique Photo).
 - **Size to the real load:** Really Right Stuff rates its 30mm-ball BH-30 at [15 pounds (6.8kg)](https://kb.reallyrightstuff.com/knowledge/bh-30-user-manual), K&F its 28mm head at [22 lb / 10 kg](https://www.kfconcept.com/learning-center/tripod-ball-head-loose); the number alone doesn't predict droop. Some heads use an elliptical ball that adds friction as it tilts; DPReview found it helps but still needs firm friction.

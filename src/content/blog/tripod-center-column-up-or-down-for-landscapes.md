@@ -142,7 +142,7 @@ You frame a sunrise on a ridge, the viewfinder sits two inches too low, and the 
 
 **Down, with one exception: a few inches of column for framing is fine in calm air with a fast shutter or a hands-free release.**
 
-Most top results agree: legs first, column last. NYC Photo Safari, which defends the column, draws the line at [about six inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html); past that, extend the legs. We use that six-inch rule as our ceiling for landscape work and drop to zero when any "keep it down" condition below applies.
+Most top results agree: legs first, column last, and the same rule holds on a [tripod for a laser level](/blog/best-tripod-for-laser-level/). NYC Photo Safari, which defends the column, draws the line at [about six inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html); past that, extend the legs. We use that six-inch rule as our ceiling for landscape work and drop to zero when any "keep it down" condition below applies.
 
 ## Why a raised center column costs sharpness
 

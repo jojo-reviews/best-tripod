@@ -439,7 +439,7 @@ TechGearLab calls the PIXI rock-solid on a level surface and Swarmify says desk 
 
 ### JOBY GorillaPod 3K Kit: best wrap-around rig
 
-The GorillaPod 3K Kit is the flexible tripod we would choose when the shot is on a railing, a stroller handle or a cluttered set. Its jointed legs bend around objects, the ball head has a level, and JOBY rates the kit for 6.6 lb. That headroom matters if you later add a compact camera.
+The GorillaPod 3K Kit is the flexible tripod we would choose when the shot is on a railing, a stroller handle or a cluttered set; for a squat rack or bench, see our [tripods for gym videos](/blog/best-tripod-for-gym-videos/). Its jointed legs bend around objects, the ball head has a level, and JOBY rates the kit for 6.6 lb. That headroom matters if you later add a compact camera.
 
 TechGearLab found it solid but notes the legs take practice to set stable and that the tripod is too short for eye level on its own. Owners on r/canon report it "tends to slowly sag when loaded", and one r/videography poster lost a camera while under the rating. You also need a phone clamp; the kit ships with a ball head only.
 

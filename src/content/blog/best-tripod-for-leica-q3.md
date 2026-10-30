@@ -480,7 +480,7 @@ This table compares the five on the numbers that matter for a Q3:
 
 ### Peak Design Travel Tripod (Carbon Fiber): best overall for the Q3
 
-I'd start here: the carbon Peak Design packs to 15.5 in and 2.8 lb yet stands 51.25 in with the column down, and its plate is Arca-type compatible. A Fstoppers writer who used it with his Q2 and the Q3 says it felt like it made more sense on these compact cameras. The weak spot is the head, with no separate pan axis and limited tilt, and the same writer says it was not made for very windy spots. One r/Leica reply dismisses it outright, while a Fuji owner says it gives you "the incentive to bring along" a tripod.
+I'd start here: the carbon Peak Design packs to 15.5 in and 2.8 lb yet stands 51.25 in with the column down, and its plate is Arca-type compatible. A Fstoppers writer who used it with his Q2 and the Q3 says it felt like it made more sense on these compact cameras, which is also why it leads our [Fujifilm X100VI tripod picks](/blog/best-tripod-for-fujifilm-x100vi/). The weak spot is the head, with no separate pan axis and limited tilt, and the same writer says it was not made for very windy spots. One r/Leica reply dismisses it outright, while a Fuji owner says it gives you "the incentive to bring along" a tripod.
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: lightest full-size pick
 

@@ -523,12 +523,14 @@
     {
       "slug": "tripod-center-column-up-or-down-for-landscapes",
       "find": "Most top results agree: legs first, column last.",
-      "replace": "Most top results agree: legs first, column last, and the same rule holds on a [tripod for a laser level](/blog/best-tripod-for-laser-level/)."
+      "replace": "Most top results agree: legs first, column last, and the same rule holds on a [tripod for a laser level](/blog/best-tripod-for-laser-level/).",
+      "appliedAt": "2026-10-30T17:44:11.580Z"
     },
     {
       "slug": "leveling-base-vs-leveling-column",
       "find": "Single frames rarely need either, because the head alone can level the horizon.",
-      "replace": "Single frames rarely need either, because the head alone can level the horizon, and a [tripod for a laser level](/blog/best-tripod-for-laser-level/) leaves fine leveling to the laser itself."
+      "replace": "Single frames rarely need either, because the head alone can level the horizon, and a [tripod for a laser level](/blog/best-tripod-for-laser-level/) leaves fine leveling to the laser itself.",
+      "appliedAt": "2026-10-30T17:44:12.617Z"
     }
   ]
 }

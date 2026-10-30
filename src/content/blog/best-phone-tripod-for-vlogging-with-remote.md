@@ -403,7 +403,7 @@ Two cautions before you buy. Amazon sells several KraftGeek JustTap variants, an
 
 ### SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote: best tall budget kit
 
-The SENSYNE 62-Inch is the simplest way to get a phone up to standing height with a remote for little money. It is an aluminum stick tripod of about 650 g that reaches 62 in and ships with a wireless shutter remote, a universal holder for phones 2.8 to 5.7 in wide, and a 1/4 in adapter. That adapter means the tripod can also take other gear with a standard thread, though no load rating is published, so we would keep it to a phone or a very light camera. The seller states 12 months of support.
+The SENSYNE 62-Inch is the simplest way to get a phone up to standing height with a remote for little money, and our [tripods for gym videos](/blog/best-tripod-for-gym-videos/) cover filming lifts. It is an aluminum stick tripod of about 650 g that reaches 62 in and ships with a wireless shutter remote, a universal holder for phones 2.8 to 5.7 in wide, and a 1/4 in adapter. That adapter means the tripod can also take other gear with a standard thread, though no load rating is published, so we would keep it to a phone or a very light camera. The seller states 12 months of support.
 
 The independent evidence here is thin, and we would rather say so than oversell it. The reviews we found describe smooth telescoping, aluminum that feels solid, and quick remote pairing on Android for one reviewer. They also report a bit of wobble at full height (though it takes a real push to tip), a remote magnet that can come loose, an unreliable double-tap selfie toggle, and a leg lock that some owners find tricky.
 

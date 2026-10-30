@@ -154,7 +154,7 @@ Leveling base vs leveling column comes down to fit. Both let you level the head 
 
 **Choose a leveling base unless you already own a tripod with a matching leveling column; the base moves between tripods, usually carries more weight, and keeps the lock above the apex where you can reach it.**
 
-The reason to level at all is panoramic photography. If the pan axis tilts during rotation, the stitching steps up or down and you crop away sky and foreground. That matters most for the stitched wide views in our [landscape photography tripod guide](/blog/landscape-photography-tripod/), and for panning with a video head or fluid head. Single frames rarely need either, because the head alone can level the horizon.
+The reason to level at all is panoramic photography. If the pan axis tilts during rotation, the stitching steps up or down and you crop away sky and foreground. That matters most for the stitched wide views in our [landscape photography tripod guide](/blog/landscape-photography-tripod/), and for panning with a video head or fluid head. Single frames rarely need either, because the head alone can level the horizon, and a [tripod for a laser level](/blog/best-tripod-for-laser-level/) leaves fine leveling to the laser itself.
 
 ## How a leveling base works
 

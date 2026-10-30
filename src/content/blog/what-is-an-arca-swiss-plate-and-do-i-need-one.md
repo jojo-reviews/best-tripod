@@ -375,7 +375,7 @@ At least two ranking roundups recommend each. Specs come from the makers and ret
 
 ### SmallRig Quick Release Plate for Arca Swiss 2146B, the best universal camera plate
 
-The [SmallRig Quick Release Plate for Arca Swiss 2146B](amzn:SmallRig+Quick+Release+Plate+for+Arca+Swiss+2146B) is a 68 mm, 48 g aluminum Arca-type camera plate from SmallRig, and the plain plate I'd start most people on. It ships with both a 1/4"-20 and a 3/8"-16 screw, so it fits a camera body, a cage or a larger lens-foot thread. B&H describes rubber anti-twist pads on top, and owners praise the clean machining and quick swaps between tripods. The complaints: the loose screw can drop out when the plate is off the camera, and there is no built-in key, so you tighten it with a coin. It suits a mirrorless body with a 24-70mm; for a 70-200mm I'd use a lens-foot plate.
+The [SmallRig Quick Release Plate for Arca Swiss 2146B](amzn:SmallRig+Quick+Release+Plate+for+Arca+Swiss+2146B) is a 68 mm, 48 g aluminum Arca-type camera plate from SmallRig, and the plain plate I'd start most people on. It ships with both a 1/4"-20 and a 3/8"-16 screw, so it fits a camera body, a cage or a larger lens-foot thread (the same two sizes that decide [whether any tripod fits a camera](/blog/can-you-use-any-tripod-for-a-camera/)). B&H describes rubber anti-twist pads on top, and owners praise the clean machining and quick swaps between tripods. The complaints: the loose screw can drop out when the plate is off the camera, and there is no built-in key, so you tighten it with a coin. It suits a mirrorless body with a 24-70mm; for a 70-200mm I'd use a lens-foot plate.
 
 ### NEEWER QPR-5C 2 Pack Quick Release Plate, the best budget plates for small kits
 

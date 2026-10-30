@@ -1,23 +1,23 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:41.729Z",
+  "checkedAt": "2026-10-30T17:44:08.806Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): KraftGeek JustTap Magnetic Phone Tripod (226M); UBeesize Portable Phone Tripod with Wireless Remote; SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2237 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "body has 2246 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Direct page fetch blocked; verified via search-result text of Macworld, Digital Camera World, B&H, KraftGeek, Gadgeteer, Lemur Music/Newegg/Walmart listings: KraftGeek 13 in/66 in, 455 g, 10-section aluminum, 2.5 kg is N52 magnet mount rating, remote 32 ft B&H vs 33 ft KraftGeek, USB-C remote magnetically docked, MagSafe ring for non-MagSafe, ASIN B0F1TN5SJC title matches the 66 in MagSafe variant. Removed/softened unconfirmed: Android/iPhone remote claims, per-source praise attributions (Dapper and Groomed, Strong Leadership, Kimola, ShopSavvy, eBay), DCW 'ranks first', remote-lost-in-bag inference, CR2032, Ulanzi/Neewer/Fugetek claim. UBeesize/SENSYNE specs rely on research file (Bustle, Jpost, manual) and were not re-fetched.",
-    "at": "2026-10-17T12:22:57.657Z"
+    "notes": "added one internal link to best-tripod-for-gym-videos, no claim changed",
+    "at": "2026-10-30T17:44:08.295Z",
+    "hash": "f805302344471b06"
   }
 }
