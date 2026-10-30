@@ -1,13 +1,17 @@
 {
   "slug": "l-bracket-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-30T02:08:27.721Z",
+  "checkedAt": "2026-10-30T17:49:20.359Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/",
+    "source didn't respond normally (403): https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/6ooi9m/avoiding_tripod_camera_slip_in_portrait/",
+    "source didn't respond normally (403): https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
   ],
   "factCheck": {
     "verified": true,

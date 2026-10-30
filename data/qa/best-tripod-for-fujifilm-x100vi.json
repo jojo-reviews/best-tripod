@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-fujifilm-x100vi",
   "pass": true,
-  "checkedAt": "2026-10-30T10:35:23.058Z",
+  "checkedAt": "2026-10-30T17:47:25.558Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,14 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
+    "source didn't respond normally (403): https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/",
+    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/",
+    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/"
   ],
   "factCheck": {
     "verified": true,

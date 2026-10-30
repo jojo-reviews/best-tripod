@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-nikon-p1000",
   "pass": true,
-  "checkedAt": "2026-10-30T10:38:06.211Z",
+  "checkedAt": "2026-10-30T17:47:56.983Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,21 @@
     "product \"Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.085V7_67-overhead-aluminum-camera-tripod-monopod",
+    "source didn't respond normally (403): https://www.kentfaith.com/KF09.085_kf-concept-tm2515t-professional-60-inch-camera-tripod-horizontal-aluminium-tripods-portable-monopod-with-360-degree-ball-head-quick-release-plate-for-canon-nikon-sony-dslr-cameras",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Nikon-P1000/1450407-REG-48207",
+    "source didn't respond normally (403): https://cameradecision.com/accessories/Nikon-Coolpix-P1000",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/nikon-p1000-tripod-advice.4790192/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/compatible-tripod-with-p1000-quick-release-plate.4766770/",
+    "source didn't respond normally (403): https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/",
+    "source didn't respond normally (403): https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/page-2",
+    "source didn't respond normally (403): https://www.reddit.com/r/Nikon/comments/xplqcc/p1000_tripod_for_still_images/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Nikon/comments/18h015z/searching_for_a_good_tripod_for_my_p1000/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskAstrophotography/comments/1hxqg6i/tripod_for_p1000/"
   ],
   "factCheck": {
     "verified": true,

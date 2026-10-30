@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-feet-for-sand-snow-and-rock",
   "pass": true,
-  "checkedAt": "2026-10-30T02:19:27.757Z",
+  "checkedAt": "2026-10-30T17:46:57.299Z",
   "errors": [],
   "warnings": [
     "product \"Leofoto TFS-US Long Spike Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,7 +12,13 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/631092-REG/Manfrotto_204SPK3_Retractable_Spiked_Feet_Set.html",
+    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
+    "source didn't respond normally (403): https://bcgforums.com/threads/to-spike-or-not.8525/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/"
   ],
   "factCheck": {
     "verified": true,

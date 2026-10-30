@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-gym-videos",
   "pass": true,
-  "checkedAt": "2026-10-30T10:44:38.428Z",
+  "checkedAt": "2026-10-30T17:47:33.334Z",
   "errors": [],
   "warnings": [
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,12 @@
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/peak-design-travel-tripod-review/",
+    "source didn't respond normally (403): https://metric.coach/articles/best-gym-tripod-for-phones",
+    "source didn't respond normally (403): https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/",
+    "source didn't respond normally (403): https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
   ],
   "factCheck": {
     "verified": true,

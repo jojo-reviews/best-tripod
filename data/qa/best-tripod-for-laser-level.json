@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-laser-level",
   "pass": true,
-  "checkedAt": "2026-10-30T10:37:55.209Z",
+  "checkedAt": "2026-10-30T17:47:43.953Z",
   "errors": [],
   "warnings": [
     "product \"Bosch BT150 Compact Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,10 @@
     "product \"Bosch BT300HD Elevator Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.ofzenandcomputing.com/best-tripods-for-laser-levels-and-transits/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Tile/comments/1dm48im/what_tripod_do_you_guys_use_for_your_laser_level/",
+    "source didn't respond normally (403): https://www.reddit.com/r/HomeImprovement/comments/dgkyo8/sturdy_tall_80_tripod_suggestions_for_laser_level/"
   ],
   "factCheck": {
     "verified": true,

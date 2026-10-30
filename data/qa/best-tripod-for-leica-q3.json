@@ -1,14 +1,19 @@
 {
   "slug": "best-tripod-for-leica-q3",
   "pass": true,
-  "checkedAt": "2026-10-30T17:44:09.782Z",
+  "checkedAt": "2026-10-30T17:47:49.311Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro TablePod Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1642288-REG/benro_tablepodkit_tablepod_kit_with_camera.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+    "source didn't respond normally (403): https://www.l-camera-forum.com/topic/399441-travel-tripod-recommendation/"
   ],
   "factCheck": {
     "verified": true,

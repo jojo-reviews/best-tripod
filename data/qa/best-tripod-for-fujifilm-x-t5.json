@@ -1,14 +1,20 @@
 {
   "slug": "best-tripod-for-fujifilm-x-t5",
   "pass": true,
-  "checkedAt": "2026-10-30T17:44:10.699Z",
+  "checkedAt": "2026-10-30T17:47:22.350Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AP-10 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
+    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/",
+    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/"
   ],
   "factCheck": {
     "verified": true,

@@ -1,13 +1,19 @@
 {
   "slug": "how-to-clean-tripod-legs-after-the-beach",
   "pass": true,
-  "checkedAt": "2026-10-30T02:09:01.047Z",
+  "checkedAt": "2026-10-30T17:49:11.657Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1500935/",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1027725/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
   ],
   "factCheck": {
     "verified": true,

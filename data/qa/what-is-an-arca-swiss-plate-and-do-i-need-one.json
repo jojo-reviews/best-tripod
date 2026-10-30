@@ -1,13 +1,17 @@
 {
   "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-10-30T17:44:05.968Z",
+  "checkedAt": "2026-10-30T17:49:53.614Z",
   "errors": [],
   "warnings": [
     "body has 2091 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://photographylife.com/arca-swiss-quick-release-system",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1570305-REG/smallrig_2146b_quick_release_plate.html",
+    "source didn't respond normally (403): https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
   ],
   "factCheck": {
     "verified": true,

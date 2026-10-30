@@ -1,14 +1,18 @@
 {
   "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
   "pass": true,
-  "checkedAt": "2026-10-30T02:07:57.101Z",
+  "checkedAt": "2026-10-30T17:49:17.824Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/"
   ],
   "factCheck": {
     "verified": true,
