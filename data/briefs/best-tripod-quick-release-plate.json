@@ -498,12 +498,14 @@
     {
       "slug": "can-you-use-any-tripod-for-a-camera",
       "find": "Every plate screws into your camera; the question is whether it fits the clamp on the tripod head.",
-      "replace": "Every plate screws into your camera; the question is whether it fits the clamp on the tripod head, which is why we sorted the [best tripod quick release plates](/blog/best-tripod-quick-release-plate/) by clamp type."
+      "replace": "Every plate screws into your camera; the question is whether it fits the clamp on the tripod head, which is why we sorted the [best tripod quick release plates](/blog/best-tripod-quick-release-plate/) by clamp type.",
+      "appliedAt": "2026-10-31T17:44:00.512Z"
     },
     {
       "slug": "ball-head-tripod",
       "find": "The same review warns that RRS clamps and plates are made to work together and do not always suit other makers' plates, so test yours in the dovetail.",
-      "replace": "The same review warns that RRS clamps and plates are made to work together and do not always suit [other makers' quick release plates](/blog/best-tripod-quick-release-plate/), so test yours in the dovetail."
+      "replace": "The same review warns that RRS clamps and plates are made to work together and do not always suit [other makers' quick release plates](/blog/best-tripod-quick-release-plate/), so test yours in the dovetail.",
+      "appliedAt": "2026-10-31T17:44:02.330Z"
     }
   ],
   "textrazor": {

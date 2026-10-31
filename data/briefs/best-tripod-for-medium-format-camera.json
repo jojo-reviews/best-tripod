@@ -570,12 +570,14 @@
     {
       "slug": "landscape-photography-tripod",
       "find": "Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft.",
-      "replace": "Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show."
+      "replace": "Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show.",
+      "appliedAt": "2026-10-31T17:43:57.711Z"
     },
     {
       "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
       "find": "A geared head turns each axis with a knob, so movements are slow, small and repeatable.",
-      "replace": "A geared head turns each axis with a knob, so movements are slow, small and repeatable, which is why many owners in our [medium format tripod guide](/blog/best-tripod-for-medium-format-camera/) pair one with a heavy body."
+      "replace": "A geared head turns each axis with a knob, so movements are slow, small and repeatable, which is why many owners in our [medium format tripod guide](/blog/best-tripod-for-medium-format-camera/) pair one with a heavy body.",
+      "appliedAt": "2026-10-31T17:43:58.972Z"
     }
   ],
   "textrazor": {

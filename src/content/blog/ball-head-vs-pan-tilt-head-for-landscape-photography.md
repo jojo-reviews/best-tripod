@@ -449,7 +449,7 @@ With independent axes, you level the horizon once and it stays done. You set the
 
 ### Geared heads for exact composition
 
-A geared head turns each axis with a knob, so movements are slow, small and repeatable. That suits precise composition for focus stacking, panorama stitching and graduated ND filter alignment, but it is slow when a cloud gap opens and closes in seconds.
+A geared head turns each axis with a knob, so movements are slow, small and repeatable, which is why many owners in our [medium format tripod guide](/blog/best-tripod-for-medium-format-camera/) pair one with a heavy body. That suits precise composition for focus stacking, panorama stitching and graduated ND filter alignment, but it is slow when a cloud gap opens and closes in seconds.
 
 ### Bulk, weight and portrait mode
 

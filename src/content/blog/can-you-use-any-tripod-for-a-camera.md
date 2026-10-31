@@ -189,7 +189,7 @@ The camera screws on fine and the kit is still about a third over the rating. My
 
 ## Tripod quick release plates are not universal
 
-**The quick release plate is the one part of a tripod that changes between brands.** Every plate screws into your camera; the question is whether it fits the clamp on the tripod head. On r/photography one owner summed up the market: "The closest system behind Arca-Swiss is Manfrotto's RC2 system. A large part of else is quite proprietary."
+**The quick release plate is the one part of a tripod that changes between brands.** Every plate screws into your camera; the question is whether it fits the clamp on the tripod head, which is why we sorted the [best tripod quick release plates](/blog/best-tripod-quick-release-plate/) by clamp type. On r/photography one owner summed up the market: "The closest system behind Arca-Swiss is Manfrotto's RC2 system. A large part of else is quite proprietary."
 
 - **Arca-Swiss type:** a dovetail profile many makers share, so one plate moves between heads, clamps and L-brackets.
 - **Proprietary plates** (Manfrotto RC2 or 200PL, and others): fit only the maker's own heads, so buy spares from the same system.

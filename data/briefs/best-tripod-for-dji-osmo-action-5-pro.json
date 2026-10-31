@@ -585,12 +585,14 @@
     {
       "slug": "best-tripod-for-gopro",
       "find": "GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount.",
-      "replace": "GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/))."
+      "replace": "GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/)).",
+      "appliedAt": "2026-10-31T17:43:54.567Z"
     },
     {
       "slug": "best-tripod-for-dji-osmo-pocket-3",
       "find": "A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods.",
-      "replace": "A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods (the same holds for our [tripods for the Osmo Action 5 Pro](/blog/best-tripod-for-dji-osmo-action-5-pro/))."
+      "replace": "A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods (the same holds for our [tripods for the Osmo Action 5 Pro](/blog/best-tripod-for-dji-osmo-action-5-pro/)).",
+      "appliedAt": "2026-10-31T17:43:55.903Z"
     }
   ]
 }

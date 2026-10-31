@@ -1,28 +1,19 @@
 {
   "slug": "can-you-use-any-tripod-for-a-camera",
   "pass": true,
-  "checkedAt": "2026-10-30T17:48:56.464Z",
+  "checkedAt": "2026-10-31T17:44:00.483Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
-    "source didn't respond normally (403): https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
-    "source didn't respond normally (403): https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w",
-    "source didn't respond normally (403): https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-confirmed after voice edits (no fact changed): ISO 1222 thread sizes 1/4-20 (6.350 mm) and 3/8-16 (9.525 mm) against the ISO 1222:2010 preview PDF; Manfrotto PIXI 1 kg safety payload and universal 1/4in screw against manfrotto.com; Sony a7 IV 658 g and FE 24-70 F2.8 GM II 695 g against sony.com spec pages (sum 1,353 g); GoPro HERO12 Black 1/4-20 mounting fingers against GoPro community article; proprietary vs Arca plates against r/photography and DPReview threads; all Reddit quotes verbatim from Firecrawl search excerpts at their thread URLs; video 6iNRbT6Nsgg fits its section. No products, prices or testing claims.",
-    "at": "2026-10-30T10:26:11.379Z",
-    "hash": "61ea5c21fba825f8"
+    "notes": "added one internal link to best-tripod-quick-release-plate, no claim changed",
+    "at": "2026-10-31T17:43:59.551Z",
+    "hash": "fde9341f620dc854"
   }
 }

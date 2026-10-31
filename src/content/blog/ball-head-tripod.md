@@ -342,7 +342,7 @@ Plate loosening comes up in BCG forum and r/AskPhotography threads: "Generic pla
 
 ### Lever clamp vs screw-knob clamp
 
-Exploring Exposure favors a lever clamp and reports a camera falling off a screw-knob clamp several times. The same review warns that RRS clamps and plates are made to work together and do not always suit other makers' plates, so test yours in the dovetail.
+Exploring Exposure favors a lever clamp and reports a camera falling off a screw-knob clamp several times. The same review warns that RRS clamps and plates are made to work together and do not always suit [other makers' quick release plates](/blog/best-tripod-quick-release-plate/), so test yours in the dovetail.
 
 ### Friction control and panning base
 

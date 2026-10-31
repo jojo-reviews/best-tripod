@@ -1,20 +1,19 @@
 {
   "slug": "best-tripod-for-gopro",
   "pass": true,
-  "checkedAt": "2026-10-30T17:47:28.967Z",
+  "checkedAt": "2026-10-31T17:43:54.452Z",
   "errors": [],
   "warnings": [
     "product \"GoPro Shorty Mini Extension Pole + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"GoPro 3-Way 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"GoPro Volta\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"GoPro MAX Grip + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://gopro.com/en/us/news/best-camera-tripods"
+    "product \"GoPro MAX Grip + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-30 GSC improvement: added GoPro Volta (GoPro spec page: 4900 mAh, 5.5+ h 4K30, 98 ft remote, weather-resistant not waterproof; DC Rainmaker 248 g, steadier in wind than Shorty; Amazon B0DPNQFWHH in stock) and GoPro MAX Grip + Tripod (GoPro: 9-22 in, twist lock, magnetic legs; Amazon B07WRMQD69 in stock, 7.84 oz, Delrin; Brad's Backpack owner review); HERO12 Black 1/4-20 thread per GoPro support article; first-person rewrite; H2 renames; no other claim changed",
-    "at": "2026-10-30T12:44:28.328Z",
-    "hash": "22e5043607b4f0eb"
+    "notes": "added one internal link to best-tripod-for-dji-osmo-action-5-pro, no claim changed",
+    "at": "2026-10-31T17:43:53.307Z",
+    "hash": "778dfad4edfa59ce"
   }
 }

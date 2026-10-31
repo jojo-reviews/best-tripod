@@ -578,12 +578,14 @@
     {
       "slug": "best-tripod-for-macro-photography",
       "find": "Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload.",
-      "replace": "Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload, which is why it also leads my [tripods for product photography](/blog/best-tripod-for-product-photography/)."
+      "replace": "Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload, which is why it also leads my [tripods for product photography](/blog/best-tripod-for-product-photography/).",
+      "appliedAt": "2026-10-31T17:44:06.725Z"
     },
     {
       "slug": "best-tripod-for-content-creators",
       "find": "For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base.",
-      "replace": "For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base; with a camera, our [tripods for product photography](/blog/best-tripod-for-product-photography/) swing the column sideways instead."
+      "replace": "For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base; with a camera, our [tripods for product photography](/blog/best-tripod-for-product-photography/) swing the column sideways instead.",
+      "appliedAt": "2026-10-31T17:44:08.216Z"
     }
   ],
   "textrazor": {

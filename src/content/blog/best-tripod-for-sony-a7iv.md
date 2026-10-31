@@ -534,7 +534,7 @@ Height is the bigger gap. Only the 055 reaches about 60 in without raising the c
 
 ## Sony A7 IV tripod problems owners run into, and the fix
 
-**Most A7 IV tripod complaints come from a tripod too light for the lens, cheap locks and wind, not from the camera.**
+**Most A7 IV tripod complaints come from a tripod too light for the lens, cheap locks and wind, not from the camera; budget buyers can start with our [tripods under 100 dollars](/blog/best-tripod-under-100/).**
 
 - **A 70-200 overpowers a small tripod.** One r/SonyAlpha owner spent two years on a Manfrotto compact tripod "only to realize that it is too "weak" to keep the A7 IV + 70-200 in place". Move to the Leofoto, SIRUI or 055 and mount the lens by its tripod foot.
 - **Cheap locks slip and the head jerks.** A CameraEgg A7 IV owner says "the leg locks keep slipping and the ball head is so jerky". A head with friction control, like the Befree's 494 or the 055's XPRO, lets you level the horizon without the camera flopping.

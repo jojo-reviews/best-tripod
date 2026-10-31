@@ -1,25 +1,22 @@
 {
   "slug": "best-tripod-for-content-creators",
   "pass": true,
-  "checkedAt": "2026-10-30T17:47:08.055Z",
+  "checkedAt": "2026-10-31T17:44:08.187Z",
   "errors": [],
   "warnings": [
-    "only 17 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
+    "only 18 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): EUCOS 62\" Phone Tripod; Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 3K Kit; Neewer RL-18 Ring Light 18inch Kit",
     "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.newegg.com/p/0SB-0444-001C2",
-    "source didn't respond normally (403): https://wyzowl.com/video-marketing-statistics/"
+    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-gym-videos, no claim changed",
-    "at": "2026-10-30T17:44:07.294Z",
-    "hash": "e7087f3e7c8f474e"
+    "notes": "added one internal link to best-tripod-for-product-photography, no claim changed",
+    "at": "2026-10-31T17:44:07.180Z",
+    "hash": "9ad8ebe8306db1be"
   }
 }

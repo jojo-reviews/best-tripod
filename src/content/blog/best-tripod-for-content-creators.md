@@ -459,7 +459,7 @@ This is the most common complaint. One r/videography reply put it plainly: "The 
 
 ### Overhead unboxing shots tip or break the tripod
 
-Several r/videography threads ask for an overhead iPhone rig after a cheap tripod broke, and others ask the same for unboxing and study vlogs. Angling a phone tripod over a desk puts the weight outside its feet. For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base.
+Several r/videography threads ask for an overhead iPhone rig after a cheap tripod broke, and others ask the same for unboxing and study vlogs. Angling a phone tripod over a desk puts the weight outside its feet. For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base; with a camera, our [tripods for product photography](/blog/best-tripod-for-product-photography/) swing the column sideways instead.
 
 ### Bendy legs sag under a heavier rig
 

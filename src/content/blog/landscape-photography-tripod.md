@@ -519,7 +519,7 @@ related:
   - how-to-weigh-down-a-tripod-without-a-sandbag
 ---
 
-A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft. Below are five picks the top landscape guides recommend. We checked each spec against the maker's page and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
+A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. We checked each spec against the maker's page and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
 
 ## Landscape Photography Tripod Picks at a Glance
 

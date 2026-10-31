@@ -527,7 +527,7 @@ A hunting-forum owner calls the legs strong but flexible, and a bowler and a hik
 
 ## Do You Need an Adapter to Put a GoPro on a Tripod?
 
-**It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO12 Black and HERO13 Black screw straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount.
+**It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO12 Black and HERO13 Black screw straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/)).
 
 The most common r/gopro question is how to fit a GoPro to a tripod you already own (Pocket owners face the same issue in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/)). If your action camera has no 1/4"-20 thread, buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on.
 

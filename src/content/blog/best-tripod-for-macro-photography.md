@@ -496,7 +496,7 @@ The five on the numbers I weighed most:
 
 ### Manfrotto 055 Aluminum Tripod Kit with Ball Head: best all-round macro tripod
 
-I picked the 055 kit (MK055XPRO3-BHQ2) because it reaches the ground without taking anything apart. Swing the column horizontal, set the legs to the widest of four angles (25 to 88 degrees), and Manfrotto lists a 3.54 in minimum. Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload. The XPRO ball head has friction control for nudging a 1:1 frame; its 200PL-14 plate is not Arca-Swiss.
+I picked the 055 kit (MK055XPRO3-BHQ2) because it reaches the ground without taking anything apart. Swing the column horizontal, set the legs to the widest of four angles (25 to 88 degrees), and Manfrotto lists a 3.54 in minimum. Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload, which is why it also leads my [tripods for product photography](/blog/best-tripod-for-product-photography/). The XPRO ball head has friction control for nudging a 1:1 frame; its 200PL-14 plate is not Arca-Swiss.
 
 Owners on eBay call it sturdy and stable, and one likes shooting straight down with the column. The repeated complaints are the 6.61 lb weight and a column that takes practice. A DPReview member shoots flowers on the older 055 for that sideways column. It is listed as the [Manfrotto 055 kit](amzn:Manfrotto+MK055XPRO3-BHQ2).
 

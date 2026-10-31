@@ -1,23 +1,19 @@
 {
   "slug": "best-tripod-for-dji-osmo-pocket-3",
   "pass": true,
-  "checkedAt": "2026-10-29T12:52:38.758Z",
+  "checkedAt": "2026-10-31T17:43:55.875Z",
   "errors": [],
   "warnings": [
     "product \"DJI Osmo Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-79 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.videomaker.com/reviews/cameras/dji-osmo-pocket-3-review-a-major-step-forward/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html",
-    "source didn't respond normally (403): https://www.pgytech.com/products/mantispod-z",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1786759-REG/pgytech_p_gm_158_mantispod_z.html"
+    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified on 2026-10-29: Pocket 3 weight 179 g and 139.7 mm length (dji.com/osmo-pocket-3/specs); 1/4in screw hole on threaded handle and Battery Handle, USB-C attachment and gimbal modes incl. Tilt Locked (DJI support beginner's guide); Creator Combo includes Battery Handle + Osmo Mini Tripod (Videomaker review); DJI Osmo Mini Tripod 44.8 g, 31.1x31.1x76.7 mm, Pocket 3/4/4P (store.dji.com); Ulanzi MT-44 6 sections, 32.5 cm folded, 146.5 cm max, 32 cm min, 397 g, 1.5 kg, ball head/cold shoe/phone clamp (ulanzi.com); Ulanzi MT-79 8 sections, 1 kg, 550 g, 36.5 cm folded, 39-207 cm, 180 deg joint, aluminum+plastic (ulanzi.com); Manfrotto PIXI MTPIXIMII-B 0.17 kg, 13.5 cm, 18.5 cm closed, 1 kg payload (manfrotto.com, B&H), +/-35 deg tilt (manfrotto.com MTPIXI-B spec); PGYTECH MantisPod Z 250 g, 460 mm extension, 205x70x60 mm, CapLock with 1/4 and action adapters, nylon+fiberglass+aluminum (pgytech.com); 2.2 lb tripod / 1.1 lb extended, clings to surfaces up to 3.5 in, 360 deg / 86 deg ball head (B&H). Amazon US listings checked in stock with featured buy-box offer via Amazon offer data: B0CHJ2PR1K, B09T92NK4J, B0CKP1K97P, B09GKLCP95, B0DP8MFKDX. Owner quotes checked against search excerpts at their thread URLs (r/osmopocket 17jdta4, 1jk4oxp; Facebook djiosmopocket3 1439551327474877, 1598094671620541; jameswoo.net). No prices, ratings or testing claims.",
-    "at": "2026-10-29T10:35:28.779Z",
-    "hash": "1bbd8056fbd4c3a0"
+    "notes": "added one internal link to best-tripod-for-dji-osmo-action-5-pro, no claim changed",
+    "at": "2026-10-31T17:43:55.060Z",
+    "hash": "90a3e948e7898f68"
   }
 }

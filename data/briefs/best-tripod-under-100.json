@@ -564,12 +564,14 @@
     {
       "slug": "how-tall-should-a-tripod-be-for-my-height",
       "find": "The tallest tripod is not always the right one.",
-      "replace": "The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/)."
+      "replace": "The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/).",
+      "appliedAt": "2026-10-31T17:44:04.035Z"
     },
     {
       "slug": "best-tripod-for-sony-a7iv",
       "find": "Most A7 IV tripod complaints come from a tripod too light for the lens, cheap locks and wind, not from the camera.",
-      "replace": "Most A7 IV tripod complaints come from a tripod too light for the lens, cheap locks and wind, not from the camera; budget buyers can start with our [tripods under 100 dollars](/blog/best-tripod-under-100/)."
+      "replace": "Most A7 IV tripod complaints come from a tripod too light for the lens, cheap locks and wind, not from the camera; budget buyers can start with our [tripods under 100 dollars](/blog/best-tripod-under-100/).",
+      "appliedAt": "2026-10-31T17:44:05.351Z"
     }
   ],
   "secondaryKeywords": [

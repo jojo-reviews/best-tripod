@@ -508,7 +508,7 @@ I'd take the [PGYTECH MantisPod Z](amzn:PGYTECH+CapLock+MantisPod+Z) when there 
 - Ulanzi MT-79 and Manfrotto PIXI (1 kg): about 5.6 times.
 - MantisPod Z (1 kg as a tripod, 500 g extended): about 5.6 and 2.8 times.
 
-Height is what separates them. The Pocket 3 is 139.7 mm long, so on the MT-44 the lens sits at about 160 cm (5 ft 3 in) or a little higher with the handle, and the MT-79 adds another 60 cm for crowd or overhead shots. The DJI Mini and PIXI keep the lens at table height, which suits seated talking heads only if the table is high. A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods.
+Height is what separates them. The Pocket 3 is 139.7 mm long, so on the MT-44 the lens sits at about 160 cm (5 ft 3 in) or a little higher with the handle, and the MT-79 adds another 60 cm for crowd or overhead shots. The DJI Mini and PIXI keep the lens at table height, which suits seated talking heads only if the table is high. A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods (the same holds for our [tripods for the Osmo Action 5 Pro](/blog/best-tripod-for-dji-osmo-action-5-pro/)).
 
 ## Osmo Pocket 3 tripod problems owners run into, and the fix
 
