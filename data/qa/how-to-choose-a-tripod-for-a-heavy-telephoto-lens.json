@@ -1,13 +1,20 @@
 {
   "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
   "pass": true,
-  "checkedAt": "2026-10-31T17:53:31.581Z",
+  "checkedAt": "2026-10-31T18:00:55.351Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo GT3543LS Systematic Series 3",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",
+    "source didn't respond normally (403): https://www.usa.canon.com/support/p/rf100-500mm-f4-5-7-1-l-is-usm",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/30640/what-tripod-heads-are-ideal-to-mount-a-large-telephoto-or-supertelephoto-lens-on",
+    "source didn't respond normally (403): https://bcgforums.com/threads/best-tripod-to-support-the-camera-and-600-mm-lens.50813/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/"
   ],
   "factCheck": {
     "verified": true,

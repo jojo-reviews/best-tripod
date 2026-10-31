@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-travel-tripod-for-mirrorless-camera",
   "pass": true,
-  "checkedAt": "2026-10-30T18:09:18.939Z",
+  "checkedAt": "2026-10-31T18:02:04.351Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods, https://helpguide.sony.net/ilc/1530/v1/en/contents/TP0001096998.html)",
@@ -11,6 +11,7 @@
     "LIVE POST, FIX: product \"Ulanzi Zero F38 Carbon Fiber Travel Tripod\": specs keys must match the English post",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
     "source didn't respond normally (403): https://www.zzounds.com/item--BROFSL09AN00",
+    "source didn't respond normally (no response): https://www.castlecameras.co.uk/sirui-traveller-5c-carbon-fibre-tripod-with-ball-head/p13320",
     "source didn't respond normally (403): https://www.wexphotovideo.com/gitzo-gt1555t-series-1-traveler-carbon-exact-tripod-1578614/",
     "source didn't respond normally (403): https://www.adorama.com/leofoto-ls-224cx-lh-25-carbon-fiber-tripod/p/leols224cxlh",
     "source didn't respond normally (403): https://connscameras.ie/tripods-monopods-supports/leofoto-ls-224c-carbon-tripod-lh-25-ball-head/6940828398313/49344/",
