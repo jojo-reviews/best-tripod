@@ -7,19 +7,88 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "product category",
+      "relation": "central entity: three-legged camera support carried on hikes",
+      "salience": 0.94
+    },
+    {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "lighter, damps vibration, neutral to touch"
+      "relation": "carbon-fiber reinforced polymer: lighter for the same stiffness, damps vibration, neutral to touch, can crack",
+      "salience": 0.86
     },
     {
       "name": "aluminum",
       "type": "material",
-      "relation": "heavier, cheaper, dents instead of cracking"
+      "relation": "heavier, cheaper, dents instead of cracking, cold in winter",
+      "salience": 0.8
     },
     {
-      "name": "vibration damping",
+      "name": "carbon",
+      "type": "material",
+      "relation": "fibers bonded in epoxy resin",
+      "salience": 0.58
+    },
+    {
+      "name": "vibration",
       "type": "property",
-      "relation": "how fast legs stop ringing after a gust or shutter press"
+      "relation": "wind and shutter vibration; carbon settles faster",
+      "salience": 0.56
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "main reason to pick carbon; compare whole-kit pack weight",
+      "salience": 0.5
+    },
+    {
+      "name": "photography",
+      "type": "activity",
+      "relation": "hiking landscape and waterfall shots",
+      "salience": 0.46
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "load the tripod holds; stay under load capacity",
+      "salience": 0.45
+    },
+    {
+      "name": "long-exposure photography",
+      "type": "technique",
+      "relation": "benefits from faster vibration damping",
+      "salience": 0.44
+    },
+    {
+      "name": "damping",
+      "type": "property",
+      "relation": "how fast legs stop ringing after a gust or shutter press",
+      "salience": 0.36
+    },
+    {
+      "name": "macro photography",
+      "type": "technique",
+      "relation": "reversible center column gets the camera low",
+      "salience": 0.34
+    },
+    {
+      "name": "temperature",
+      "type": "attribute",
+      "relation": "aluminum gets cold enough to hurt; carbon stays neutral",
+      "salience": 0.31
+    },
+    {
+      "name": "telephoto lens",
+      "type": "product",
+      "relation": "200-600mm lenses expose a weak head or light legs",
+      "salience": 0.3
+    },
+    {
+      "name": "weather",
+      "type": "condition",
+      "relation": "wind, cold and salt air affect material choice",
+      "salience": 0.28
     },
     {
       "name": "leg locks",
@@ -29,7 +98,7 @@
     {
       "name": "center column",
       "type": "component",
-      "relation": "weight and stability tradeoff"
+      "relation": "weight and stability tradeoff; removable or reversible"
     },
     {
       "name": "ballast hook",
@@ -51,7 +120,10 @@
     "durability and impact failure",
     "repairability",
     "price",
-    "load rating"
+    "load rating",
+    "corrosion resistance",
+    "stiffness",
+    "replacement parts support"
   ],
   "ngrams": [
     "carbon fiber tripod",
@@ -63,7 +135,12 @@
     "strength-to-weight ratio",
     "hiking and travel",
     "leg sections",
-    "center column"
+    "center column",
+    "carbon-fiber reinforced polymer",
+    "long-exposure photography",
+    "macro photography",
+    "telephoto lens",
+    "travel tripod"
   ],
   "skipgrams": [
     "carbon…lighter",
@@ -73,7 +150,10 @@
     "carbon…expensive",
     "tripod…hike",
     "weight…wind",
-    "carbon…crack"
+    "carbon…crack",
+    "carbon…stiffness",
+    "aluminum…dents",
+    "column…macro"
   ],
   "nlpTerms": [
     "carbon fiber",
@@ -85,7 +165,12 @@
     "ballast",
     "pack weight",
     "corrosion",
-    "load capacity"
+    "load capacity",
+    "reinforced polymer",
+    "telephoto",
+    "macro",
+    "temperature",
+    "weather"
   ],
   "questions": [
     "Is a carbon fiber tripod worth it for hiking?",
@@ -456,5 +541,16 @@
   "doNotLink": [
     "best-tripod-for-photography"
   ],
-  "angle": "Material comparison with a decision rule by hike type; 0 product picks."
+  "angle": "Material comparison with a decision rule by hike type; 0 product picks.",
+  "semanticPass": {
+    "date": "2026-10-31",
+    "tool": "TextRazor",
+    "pages": [
+      "https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
+      "https://outdoorsmans.com/blogs/tripods/carbon-fiber-hunting-tripods-vs-aluminum-hunting-tripods",
+      "https://www.smallrig.com/blog/best-travel-tripods-2026-carbon-fiber-vs-aluminum.html",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/"
+    ],
+    "note": "review only"
+  }
 }

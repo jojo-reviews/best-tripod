@@ -11,6 +11,42 @@
   ],
   "entities": [
     {
+      "name": "Warranty",
+      "type": "attribute",
+      "relation": "maker warranty terms vary; neither product page we read states one",
+      "salience": 0.46
+    },
+    {
+      "name": "Aluminum",
+      "type": "material",
+      "relation": "6061-T6 aluminum is the common stud adapter body (FANAUE S1)",
+      "salience": 0.51
+    },
+    {
+      "name": "Tripod head",
+      "type": "component",
+      "relation": "fluid pan head or ball head the adapter's Arca-Swiss base clamps into",
+      "salience": 0.52
+    },
+    {
+      "name": "Tripod",
+      "type": "product category",
+      "relation": "the stand the adapter mounts on for hands-free glassing",
+      "salience": 0.67
+    },
+    {
+      "name": "Adapter",
+      "type": "component",
+      "relation": "stud or clamp that links the binocular to the tripod head",
+      "salience": 0.77
+    },
+    {
+      "name": "Binoculars",
+      "type": "product category",
+      "relation": "the optic the adapter mounts; needs a 1/4-20 hinge socket for a stud",
+      "salience": 0.9
+    },
+    {
       "name": "Vortex Uni-Dapter",
       "type": "product",
       "relation": "stud adapter, $21-34, 1.6 oz, drop-in with no lock"
@@ -63,7 +99,8 @@
     {
       "name": "Arca-Swiss",
       "type": "standard",
-      "relation": "dovetail base that clamps straight into most ball heads"
+      "relation": "dovetail base that clamps straight into most ball heads",
+      "salience": 0.4
     },
     {
       "name": "1/4-20 thread",
@@ -96,7 +133,9 @@
     "play/stability",
     "harness fit",
     "one-handed release",
-    "cold-weather use"
+    "cold-weather use",
+    "material (6061-T6 aluminum, nylon)",
+    "warranty"
   ],
   "ngrams": [
     "binocular tripod adapter",
@@ -108,18 +147,25 @@
     "1/4-20 thread",
     "long glassing sessions",
     "adapter stud",
-    "rapid release"
+    "rapid release",
+    "tripod head",
+    "stud adapter",
+    "clamp adapter",
+    "center hinge"
   ],
   "skipgrams": [
-    "binocular\u2026adapter",
-    "tripod\u2026stud",
-    "quick\u2026release",
-    "Arca\u2026Swiss",
-    "adapter\u2026binoculars",
-    "clamp\u2026style",
-    "lock\u2026place",
-    "hinge\u2026cap",
-    "threaded\u2026socket"
+    "binocular…adapter",
+    "tripod…stud",
+    "quick…release",
+    "Arca…Swiss",
+    "adapter…binoculars",
+    "clamp…style",
+    "lock…place",
+    "hinge…cap",
+    "threaded…socket",
+    "tripod…head",
+    "clamp…binocular",
+    "safety…button"
   ],
   "nlpTerms": [
     "glassing",
@@ -136,7 +182,11 @@
     "IPD",
     "harness",
     "spotting scope",
-    "rubber pads"
+    "rubber pads",
+    "aluminum",
+    "warranty",
+    "binoculars",
+    "tripod"
   ],
   "questions": [
     "Do binocular tripod adapters make a difference?",
@@ -414,5 +464,19 @@
         }
       ]
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-10-31",
+    "source": "TextRazor",
+    "topUrls": [
+      "https://www.bushnell.com/products/binocular-tripod-adapter",
+      "https://outdoorsmans.com/products/outdoorsmans-binocular-adapter",
+      "https://backwoodspursuit.com/best-binocular-tripod-adapters/",
+      "https://www.nocsprovisions.com/products/binocular-tripod-adapter",
+      "https://muleyfreak.com/products/new-gen-2-binocular-tripod-adapter-kit"
+    ],
+    "missingFromPost": [
+      "Warranty"
+    ]
+  }
 }

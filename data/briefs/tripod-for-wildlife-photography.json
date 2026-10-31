@@ -9,84 +9,142 @@
   ],
   "entities": [
     {
+      "name": "tripod for wildlife photography",
+      "type": "central entity (Tripod (photography))",
+      "relation": "the support the post is about; rated ~3x the rig, stiff with the column down",
+      "salience": 0.9
+    },
+    {
+      "name": "monopod",
+      "type": "alternative support",
+      "relation": "the walk-and-shoot choice for birds in flight; tripod for sit-and-wait",
+      "salience": 0.67
+    },
+    {
+      "name": "leg sections",
+      "type": "component",
+      "relation": "stiffness comes from thick legs and few sections",
+      "salience": 0.67
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "balances a front-heavy telephoto lens; matters as much as the legs",
+      "salience": 0.61
+    },
+    {
       "name": "gimbal head",
       "type": "head type",
-      "relation": "balances a long lens at its center of gravity; the part that makes a wildlife tripod usable"
+      "relation": "holds a long lens at its center of gravity for tracking",
+      "salience": 0.47
     },
     {
-      "name": "ball head",
-      "type": "head type",
-      "relation": "fine for lenses under about 400mm; droops under heavy telephotos"
+      "name": "telephoto lens",
+      "type": "lens",
+      "relation": "the load that sets the rating, height and head needs",
+      "salience": 0.47
     },
     {
-      "name": "fluid head",
-      "type": "head type",
-      "relation": "smooth pans for wildlife video"
-    },
-    {
-      "name": "lens collar / tripod foot",
+      "name": "camera body",
       "type": "gear",
-      "relation": "point where a long lens mounts so the lens, not the body, carries the weight"
-    },
-    {
-      "name": "150-600mm / 200-600mm",
-      "type": "lens",
-      "relation": "common wildlife zooms named in owner threads"
-    },
-    {
-      "name": "500mm / 600mm prime",
-      "type": "lens",
-      "relation": "supertelephoto primes needing the sturdiest support"
-    },
-    {
-      "name": "Arca-Swiss",
-      "type": "standard",
-      "relation": "plate and clamp standard for lens feet and heads"
+      "relation": "part of the total load with lens and head",
+      "salience": 0.46
     },
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "lighter and damps vibration better than aluminum"
-    },
-    {
-      "name": "aluminum",
-      "type": "material",
-      "relation": "cheaper, heavier, passes on more vibration"
-    },
-    {
-      "name": "center column",
-      "type": "feature",
-      "relation": "adds height but costs rigidity and blocks low angles"
-    },
-    {
-      "name": "leg sections",
-      "type": "attribute",
-      "relation": "three thick sections are stiffer than four or five thin ones"
-    },
-    {
-      "name": "flip lock / twist lock",
-      "type": "feature",
-      "relation": "speed versus maintenance"
+      "relation": "lighter than aluminum and damps vibration faster",
+      "salience": 0.42
     },
     {
       "name": "load capacity",
       "type": "attribute",
-      "relation": "head and legs each have a rating; lower one is the ceiling"
+      "relation": "lens + body + head vs the lower of leg and head ratings",
+      "salience": 0.3
     },
     {
-      "name": "monopod",
-      "type": "alternative",
-      "relation": "covered in a separate post; the choice for walking and bird-in-flight work"
+      "name": "bird photography",
+      "type": "activity",
+      "relation": "sit-and-wait in a blind or at a nest; birds in flight",
+      "salience": 0.28
     },
     {
-      "name": "photography blind / hide",
+      "name": "shutter speed",
+      "type": "setting",
+      "relation": "slow shutter speeds show tripod shake most with a long lens",
+      "salience": 0.21
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "fine for lenses under about 400mm; droops under heavy telephotos",
+      "salience": null
+    },
+    {
+      "name": "fluid head",
+      "type": "head type",
+      "relation": "smooth pans for wildlife video",
+      "salience": null
+    },
+    {
+      "name": "lens collar",
+      "type": "gear",
+      "relation": "point where a long lens mounts so the lens, not the body, carries the weight",
+      "salience": null
+    },
+    {
+      "name": "150-600mm",
+      "type": "lens",
+      "relation": "common wildlife zooms named in owner threads",
+      "salience": null
+    },
+    {
+      "name": "600mm prime",
+      "type": "lens",
+      "relation": "supertelephoto primes needing the sturdiest support",
+      "salience": null
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "plate and clamp standard for lens feet and heads",
+      "salience": null
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "cheaper, heavier, passes on more vibration",
+      "salience": null
+    },
+    {
+      "name": "center column",
+      "type": "feature",
+      "relation": "adds height but costs rigidity and blocks low angles",
+      "salience": null
+    },
+    {
+      "name": "twist lock",
+      "type": "feature",
+      "relation": "speed versus maintenance",
+      "salience": null
+    },
+    {
+      "name": "photography blind",
       "type": "situation",
-      "relation": "long sit-and-wait sessions where a tripod earns its weight"
+      "relation": "long sit-and-wait sessions where a tripod earns its weight",
+      "salience": null
     },
     {
-      "name": "Gitzo, Really Right Stuff, Leofoto, Benro, Sirui, Wimberley",
+      "name": "Leofoto",
       "type": "brand",
-      "relation": "makers named in top results and forums"
+      "relation": "makers named in top results and forums",
+      "salience": null
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "top-ranking wildlife tripod guide; LS versions add height",
+      "salience": null
     }
   ],
   "attributes": [
@@ -100,7 +158,10 @@
     "Arca-Swiss compatibility",
     "vibration damping",
     "wind behavior",
-    "foot type (rubber, spikes)"
+    "foot type (rubber, spikes)",
+    "3-section vs 4-section legs (packed size vs locks)",
+    "LS (long) versions for extra height",
+    "rubber feet vs spikes"
   ],
   "ngrams": [
     "tripod for wildlife photography",
@@ -116,19 +177,27 @@
     "bird photography",
     "best tripod head",
     "tripod legs",
-    "go low"
+    "go low",
+    "long stakeouts",
+    "birds in flight",
+    "leg sections",
+    "slow shutter speeds",
+    "tripod head",
+    "3x load rule"
   ],
   "skipgrams": [
     "tripod…long lens",
     "gimbal…telephoto",
     "center column…rigidity",
-    "head…matters more",
     "leg…sections",
     "load…capacity",
     "carbon…vibration",
     "lens…balance",
     "tripod…wind",
-    "legs…head"
+    "legs…head",
+    "sections…locks",
+    "shutter speed…shake",
+    "head…matters"
   ],
   "nlpTerms": [
     "gimbal head",
@@ -137,11 +206,8 @@
     "Arca-Swiss",
     "carbon fiber",
     "vibration damping",
-    "leg angle lock",
-    "load rating",
     "super-telephoto",
     "birds in flight",
-    "stakeout",
     "blind",
     "friction control",
     "sag",
@@ -150,7 +216,11 @@
     "spikes",
     "hook",
     "counterweight",
-    "image stabilization"
+    "image stabilization",
+    "fingertip control",
+    "IBIS",
+    "telephoto zoom",
+    "stakeouts"
   ],
   "questions": [
     "Do I need a tripod for wildlife photography?",
@@ -463,5 +533,18 @@
     "best-tripod-for-photography",
     "how-tall-should-a-tripod-be-for-my-height"
   ],
-  "distinctIntentNote": "Intent: how to choose and set up a tripod for a long lens. The monopod post covers footed monopods; the sports post covers monopod vs tripod for sports. Keep monopod talk to one short bridge section with links."
+  "distinctIntentNote": "Intent: how to choose and set up a tripod for a long lens. The monopod post covers footed monopods; the sports post covers monopod vs tripod for sports. Keep monopod talk to one short bridge section with links.",
+  "semanticPass": {
+    "date": "2026-10-31",
+    "tool": "TextRazor",
+    "topUrls": [
+      "https://www.gitzo.com/us-en/gitzo-inspires/tripods-wildlife-photography/",
+      "https://store.sirui.com/collections/wildlife",
+      "https://www.reddit.com/r/AskPhotography/comments/1ozi5va/best_tripod_for_landscape_wildlife_photography/",
+      "https://www.bhphotovideo.com/c/buy/tripod-legs-for-wildlife-photography/ci/57372",
+      "https://betterwithbirds.com/blogs/bird-photography-and-sound-tips/best-tripod"
+    ],
+    "pagesAnalyzed": 3,
+    "note": "reddit and B&H blocked fetch; noise ignored (Camera species type, Leg anatomy type)"
+  }
 }

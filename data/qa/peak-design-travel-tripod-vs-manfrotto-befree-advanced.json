@@ -1,23 +1,17 @@
 {
   "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
   "pass": true,
-  "checkedAt": "2026-10-29T15:44:14.806Z",
+  "checkedAt": "2026-10-31T17:54:27.334Z",
   "errors": [],
   "warnings": [
-    "only 18 first-person words; owner rule wants at least 23 (about 1 per 100 words: I, my, me, we, our, us)",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Peak Design Travel Tripod (Carbon Fiber); Peak Design Travel Tripod (Aluminum); Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "body has 2282 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/"
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-sony-a7iv, no claim changed",
-    "at": "2026-10-29T15:40:35.493Z",
-    "hash": "c7e9f4c82018cdad"
+    "notes": "Semantic pass 2026-10-31 (TextRazor, 4 top pages): added monopod (Befree 2-in-1 has the detachable leg, neither compared model converts), short center column (included with PD, optional for Befree Advanced per DPReview), pan lock; specs unchanged vs Peak Design, Manfrotto, B&H listings; removed Short answer H2 that re-listed picks; first-person opinion lines and intro internal link added. significant: sections rewritten shorter, short-answer section removed.",
+    "at": "2026-10-31T17:54:26.518Z",
+    "hash": "d4e96bc99e6298f7"
   }
 }

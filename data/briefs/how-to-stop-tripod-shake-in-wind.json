@@ -7,56 +7,114 @@
     "windy day tripod tips",
     "how to make a tripod more stable",
     "weigh down a tripod",
-    "tripod blowing over in wind"
+    "tripod blowing over in wind",
+    "tripod shake in wind",
+    "tripod in wind",
+    "tripod stability",
+    "tripod vibration"
   ],
   "entities": [
     {
-      "name": "tripod center column",
+      "name": "tripod",
+      "type": "concept",
+      "relation": "central entity; stability depends on leg sections, column and feet",
+      "salience": 0.78
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "what vibrates on the tripod",
+      "salience": 0.8
+    },
+    {
+      "name": "wind",
+      "type": "concept",
+      "relation": "cause of the sail effect and head twist",
+      "salience": 0.72
+    },
+    {
+      "name": "exposure",
+      "type": "concept",
+      "relation": "long exposures show wind shake; stacking short ones avoids it",
+      "salience": 0.72
+    },
+    {
+      "name": "vibration",
+      "type": "concept",
+      "relation": "leg buzz and shutter shock; damped by going low and grounded weight",
+      "salience": 0.56
+    },
+    {
+      "name": "lens",
+      "type": "product",
+      "relation": "long lens and hood catch wind and twist the head",
+      "salience": 0.55
+    },
+    {
+      "name": "weight",
+      "type": "concept",
+      "relation": "grounded, tethered weight beats a swinging bag",
+      "salience": 0.49
+    },
+    {
+      "name": "long exposure",
+      "type": "concept",
+      "relation": "most affected by wind; fallback is stacking",
+      "salience": 0.37
+    },
+    {
+      "name": "image stabilization",
+      "type": "feature",
+      "relation": "test on and off per lens on a tripod",
+      "salience": 0.36
+    },
+    {
+      "name": "center column",
       "type": "component",
       "relation": "raised column acts like a monopod on top and amplifies vibration; keep it down"
     },
     {
-      "name": "tripod hook / center-column hook",
+      "name": "hook",
       "type": "component",
       "relation": "anchor point for hanging weight; not every tripod has one"
     },
     {
-      "name": "tripod spikes, rock claws and big feet",
+      "name": "spikes",
       "type": "accessory",
       "relation": "grip ground; choice depends on surface (mud and sand vs rock vs indoor floors)"
     },
     {
-      "name": "stone bag / weight bag",
+      "name": "stone bag",
       "type": "accessory",
       "relation": "attaches to the legs and is filled with rocks or sand; named in one top result's comments only"
     },
     {
-      "name": "bungee cord or rope tether to ground",
+      "name": "bungee cord",
       "type": "technique",
       "relation": "pulls the tripod down against a bag on the ground, a 'fourth leg'"
     },
     {
-      "name": "tripod head (ball head)",
+      "name": "ball head",
       "type": "component",
       "relation": "can twist under wind load on the lens even when the legs are planted"
     },
     {
-      "name": "lens hood and camera strap",
+      "name": "lens hood",
       "type": "accessory",
       "relation": "act as sails or flap in gusts; remove or tie off"
     },
     {
-      "name": "remote release / self-timer / exposure delay",
+      "name": "remote release",
       "type": "feature",
       "relation": "removes the shutter-press shake"
     },
     {
-      "name": "electronic front-curtain / electronic shutter",
+      "name": "electronic shutter",
       "type": "feature",
       "relation": "removes shutter shock on mirrorless"
     },
     {
-      "name": "lens image stabilization (IS/VR)",
+      "name": "lens image stabilization",
       "type": "feature",
       "relation": "debated on a tripod; test per lens, some have a tripod mode"
     },
@@ -66,7 +124,7 @@
       "relation": "balances long lenses over the tripod; not always stiffer than the camera plate"
     },
     {
-      "name": "wind shielding (body, umbrella, rock, tree)",
+      "name": "wind shielding",
       "type": "technique",
       "relation": "blocks wind before it reaches the rig"
     },
@@ -86,7 +144,9 @@
     "head twist under side load",
     "weight placement (hanging vs grounded)",
     "shutter speed needed",
-    "wind exposure of lens and hood"
+    "wind exposure of lens and hood",
+    "wind speed (25-31 mph umbrella limit, 40 mph rigs vibrate)",
+    "foot type (spikes, rock claws, rubber)"
   ],
   "ngrams": [
     "tripod in wind",
@@ -104,7 +164,11 @@
     "image stabilization",
     "extend thinnest sections last",
     "weight bag",
-    "wind shield"
+    "wind shield",
+    "rock claws",
+    "exposure delay",
+    "electronic shutter",
+    "no tripod is immune"
   ],
   "skipgrams": [
     "tripod…wind",
@@ -116,7 +180,9 @@
     "head…twist",
     "lens…hood",
     "wind…blur",
-    "exposure…stack"
+    "exposure…stack",
+    "lower…damps",
+    "rope…bag"
   ],
   "nlpTerms": [
     "vibration",
@@ -136,7 +202,9 @@
     "over-provisioned head",
     "stacking exposures",
     "redundant exposures",
-    "tripod discipline"
+    "tripod discipline",
+    "electronic shutter",
+    "lull between gusts"
   ],
   "questions": [
     "How do I stop my tripod shaking in the wind?",
@@ -494,5 +562,16 @@
     "best-travel-tripod-for-mirrorless-camera": "optional, travel tripods in wind"
   },
   "suggestedSeoTitle": "How to Stop Tripod Shake in Wind (2026): 7 Fixes",
-  "angle": "Diagnose first, then fix in cost order; the grounded-tether and no-hook answers and the fallback ladder are what the forum-heavy SERP lacks."
+  "angle": "Diagnose first, then fix in cost order; the grounded-tether and no-hook answers and the fallback ladder are what the forum-heavy SERP lacks.",
+  "textrazor": {
+    "date": "2026-10-31",
+    "pages": [
+      "https://gdanmitchell.com/2010/12/03/tripods-and-shooting-in-high-winds-2/",
+      "https://www.uniquephoto.com/community/qa/how-can-i-stop-a-tripod-from-blowing-over-in-strong-wind",
+      "https://www.facebook.com/groups/seestar/posts/688185100660442/",
+      "https://www.uniquephoto.com/community/qa/how-can-i-reduce-tripod-vibration-in-strong-wind"
+    ],
+    "note": "Reddit, Photography Life and Stack Exchange blocked TextRazor's fetcher; missingFromPost empty",
+    "file": "data/briefs/how-to-stop-tripod-shake-in-wind.entities.json"
+  }
 }

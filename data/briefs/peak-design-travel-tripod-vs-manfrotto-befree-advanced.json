@@ -28,12 +28,14 @@
     {
       "name": "Peak Design",
       "type": "brand",
-      "relation": "maker of the Travel Tripod"
+      "relation": "maker of the Travel Tripod",
+      "salience": 0.7
     },
     {
       "name": "Manfrotto",
       "type": "brand",
-      "relation": "maker of the Befree line"
+      "relation": "maker of the Befree line",
+      "salience": 0.72
     },
     {
       "name": "ball head",
@@ -79,6 +81,33 @@
       "name": "24-70mm",
       "type": "lens",
       "relation": "standard zoom for typical load math"
+    },
+    {
+      "name": "tripod",
+      "type": "product type (TextRazor: Tripod (photography))",
+      "relation": "the central product type both models belong to; 3-leg camera support",
+      "salience": 0.96
+    },
+    {
+      "name": "monopod",
+      "type": "product type",
+      "relation": "single-leg support; neither the Befree Advanced nor the Peak Design Travel Tripod converts to one (Manfrotto's Befree 2-in-1 models do)",
+      "salience": 0.32
+    },
+    {
+      "name": "Easy Link",
+      "type": "feature",
+      "relation": "Manfrotto accessory port on the Befree for a light, monitor or arm"
+    },
+    {
+      "name": "pan lock",
+      "type": "feature",
+      "relation": "independent panning axis on the 494 head; missing on the Peak Design head"
+    },
+    {
+      "name": "short center column",
+      "type": "component",
+      "relation": "included with the Peak Design for low angles; optional extra for the Befree Advanced (DPReview)"
     }
   ],
   "attributes": [
@@ -93,7 +122,11 @@
     "head included",
     "plate system",
     "material",
-    "value"
+    "value",
+    "leg angles",
+    "pan control",
+    "folded width",
+    "vibration damping"
   ],
   "ngrams": [
     "travel tripod",
@@ -109,7 +142,13 @@
     "leg sections",
     "carry-on bag",
     "mirrorless camera",
-    "rated load"
+    "rated load",
+    "independent pan lock",
+    "short center column",
+    "minimum height",
+    "leg angles",
+    "long exposures",
+    "full-frame body"
   ],
   "skipgrams": [
     "peak…design",
@@ -120,7 +159,10 @@
     "ball…head",
     "carbon…fiber",
     "leg…sections",
-    "travel…tripod"
+    "travel…tripod",
+    "pan…lock",
+    "minimum…height",
+    "leg…angles"
   ],
   "nlpTerms": [
     "tripod",
@@ -145,7 +187,16 @@
     "carry-on",
     "backpack",
     "long exposure",
-    "landscape"
+    "landscape",
+    "monopod",
+    "panorama",
+    "pan lock",
+    "friction control",
+    "Easy Link",
+    "lever lock",
+    "smartphone mount",
+    "short center column",
+    "fluid head"
   ],
   "questions": [
     "Is the Peak Design Travel Tripod better than the Manfrotto Befree Advanced?",
@@ -311,5 +362,22 @@
     "clicks": 2,
     "position": 19.1,
     "action": "striking: added panning/video/extras H2, table rows and FAQ; linked load figures to maker pages; tightened filler"
+  },
+  "textrazor": {
+    "date": "2026-10-31",
+    "pagesAnalyzed": 4,
+    "sources": [
+      "https://fstoppers.com/gear/peak-design-travel-tripod-versus-manfrotto-befree-which-better-481489",
+      "https://lensvid.com/gear/travel-tripod-roundup-manfrotto-vs-sirui-vs-gitzo-vs-peak-design/",
+      "https://fstoppers.com/gear/travel-tripod-throwdown-peak-designs-premium-price-tag-worth-it-632532",
+      "https://lenssignal.com/peak-design-vs-manfrotto-which-travel-tripod-rules/"
+    ],
+    "ignored": [
+      "Fstoppers (site name)"
+    ],
+    "missingFromPostBefore": [
+      "Monopod",
+      "Fstoppers"
+    ]
   }
 }

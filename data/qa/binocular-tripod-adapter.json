@@ -1,26 +1,17 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-10-29T19:54:15.460Z",
+  "checkedAt": "2026-10-31T17:51:11.274Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: SEO audit score 84 (< 85): Entity coverage 33%. Missing entities: Vortex Uni-Dapter, Field Optics Research Rapid-Release (Gen 2), Outdoorsmans Binocular Adapter, Swarovski TAs-SLC / TAs NL, Bushnell Quick Release Adapter, Leupold Field Clamp and Quick-Stem, Really Right Stuff Cinch, MUTNT Gear Gen 2, BOG Bogpod binocular mount, threaded center hinge cap | Central entity \"binocular tripod adapter\" salience proxy is 0.62; aim for 0.7+ (subject of topic sentences, in H2s).",
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Aziak Equipment Bino Clamp",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "product \"FANAUE S1 Quick Release Binocular Tripod Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/3-tripod-adapters-for-the-nl-pure.403184/",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/binocular-tripod-adapters.402580/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/best-backcountry-bino-mount.369491/",
-    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/984961-binocular-adapters/",
-    "source didn't respond normally (no response): https://fanaue.com/en/product/s1-Binocular-Adapter/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified 2026-10-28 after trimming wording only (no new claims). Field Optics Research Gen 2 has no Amazon US listing (B00A45DQV6 redirects; no FOR adapter in Amazon search), replaced by FANAUE S1, ASIN B0C24CJCKP, In Stock, featured offer FANAUE DIRECT. FANAUE S1 recommended/used on Rokslide 364425 (SloppyJ quote on the push-button lock, guitarpreston two adapters no complaints and no plate needed, Benjblt 'just not that long', 'a bit finicky') and Cloudy Nights 984961 (pin works loose quote); BirdForum 460979 owner; Walmart S1 page 5 reviews. Specs from fanaue.com S1: CNC T6061 aluminum, Arca and 1/4 in thread, safety unlock button, no weight published. Aziak Bino Clamp: Amazon lists one ASIN per size; Size 1 listing B0CGMYNZHT, In Stock, featured offer. Body outside links: Backwoods Pursuit, BirdForum, Cloudy Nights.",
-    "at": "2026-10-28T15:05:05.398Z",
-    "hash": "625a787214641771"
+    "notes": "Semantic pass 2026-10-31: TextRazor on top 5 US results; added Warranty (FANAUE S1 and Aziak maker pages state no warranty term, checked 2026-10-31); product first sentences name product, type, maker; topic-named H2s; Verdict replaced by Which one block; first-person lines added; no new prices, ratings or tests",
+    "at": "2026-10-31T17:51:10.112Z",
+    "hash": "a26ad6c74a3dc7fc"
   }
 }

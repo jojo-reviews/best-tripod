@@ -58,5 +58,45 @@
   "ball-head-vs-pan-tilt-head-for-landscape-photography": {
     "at": "2026-10-30T18:03:38.063Z",
     "note": "significant: ball head sag fix + best ball head section; TextRazor entities (Acratech...)"
+  },
+  "best-video-tripod-with-fluid-head-for-beginners": {
+    "at": "2026-10-31T17:55:38.773Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "tripod-for-wildlife-photography": {
+    "at": "2026-10-31T17:55:39.568Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "binocular-tripod-adapter": {
+    "at": "2026-10-31T17:55:40.182Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "how-to-choose-a-tripod-for-a-heavy-telephoto-lens": {
+    "at": "2026-10-31T17:55:40.988Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "peak-design-travel-tripod-vs-manfrotto-befree-advanced": {
+    "at": "2026-10-31T17:55:41.691Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "best-phone-tripod-for-vlogging-with-remote": {
+    "at": "2026-10-31T17:55:42.405Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "best-tripod-for-iphone-night-mode-photos": {
+    "at": "2026-10-31T17:55:43.187Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "how-to-stop-tripod-shake-in-wind": {
+    "at": "2026-10-31T17:55:43.873Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "carbon-fiber-vs-aluminum-tripod-for-hiking": {
+    "at": "2026-10-31T17:55:44.585Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
+  },
+  "4-section-vs-5-section-tripod": {
+    "at": "2026-10-31T17:55:45.253Z",
+    "note": "TextRazor semantic pass 2026-10-31: entities, topic H2s, filler cut"
   }
 }

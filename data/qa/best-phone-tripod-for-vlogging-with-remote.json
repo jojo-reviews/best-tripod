@@ -1,24 +1,19 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-10-30T17:46:20.331Z",
+  "checkedAt": "2026-10-31T17:52:54.295Z",
   "errors": [],
   "warnings": [
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): KraftGeek JustTap Magnetic Phone Tripod (226M); UBeesize Portable Phone Tripod with Wireless Remote; SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2246 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "body has 1830 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
+    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-gym-videos, no claim changed",
-    "at": "2026-10-30T17:44:08.295Z",
-    "hash": "f805302344471b06"
+    "notes": "semantic pass 2026-10-31 (TextRazor): review only; no new facts/prices/ratings, specs and sources unchanged; Quick Picks re-list removed; product first sentences name product/type/maker; scoreNotes first person",
+    "at": "2026-10-31T17:52:52.900Z",
+    "hash": "162e92632dc1f155"
   }
 }

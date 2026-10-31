@@ -1,0 +1,51 @@
+{
+  "keyword": "binocular tripod adapter",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Binoculars",
+      "type": "/award/ranked_item",
+      "pages": 4,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars"
+    },
+    {
+      "entity": "Adapter",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Adapter"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.67,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Warranty",
+      "type": "/organization/organization_sector",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Warranty"
+    }
+  ],
+  "missingFromPost": [
+    "Warranty"
+  ]
+}

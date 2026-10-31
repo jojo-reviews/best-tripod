@@ -1,26 +1,19 @@
 {
   "slug": "best-tripod-for-iphone-night-mode-photos",
   "pass": true,
-  "checkedAt": "2026-10-28T18:47:58.350Z",
+  "checkedAt": "2026-10-31T17:55:00.532Z",
   "errors": [],
   "warnings": [
-    "only 15 first-person words; owner rule wants at least 22 (about 1 per 100 words: I, my, me, we, our, us)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 1K Kit; JOBY GripTight ONE GP Stand",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
-    "body has 2140 words, over the 1897 limit (top results average 1650): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"JOBY GripTight ONE GP Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html",
-    "source didn't respond normally (403): https://www.vistek.ca/store/424822/joby-griptight-one-gorillapod-stand",
-    "source didn't respond normally (403): https://skiesandscopes.com/best-phone-tripods-milky-way/"
+    "product \"JOBY GripTight ONE GP Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-18: Manfrotto MKPIXICLAMP-BK on manfrotto.com (215 g, 24.7 cm max height, 26 cm closed, 1 kg total payload, stainless steel + Adapto, push-button lock, 1/4in clamp) and Digital Camera World guide (83 mm max phone width, one leg angle); JOBY GorillaPod 1K Kit on B&H (1 kg/2.2 lb, max height 10 in, ball head 360 pan 90 tilt, 1/4-20) plus Amazon spec table (model JB01503, GorillaPod 1K Kit) and retailer listings for weight/folded length ranges; JOBY GripTight ONE GP Stand on B&H specs (325 g load, 71 g, 2.2-3.6 in/56-91 mm phones, discontinued at B&H) and Vistek (16.5 cm dims). ASINs checked via Amazon US listing titles/model numbers: B0169SORBO = MKPIXICLAMP-BK, B074WFNNKY = JB01503 GorillaPod 1K Kit, B01NGTBA3E = JB01491 GripTight ONE GP Stand. Night mode steps (iPhone 11+, Max slider extends capture time, tripod/solid surface advice) against Apple Support 102519; Apple Watch Camera Remote against Apple guide; 30 s exposures, timer/remote and ground-vibration advice and warning on tall single-pole tripods against Skies & Scopes. SERP recommendations checked on DCW, TechGearLab, Shotkit, Cameraegg, Skies & Scopes, Tripadvisor; Wirecutter pick from its own published summary. Owner claims reworded so single reports are framed as one owner.",
-    "at": "2026-10-18T13:35:12.254Z"
+    "notes": "Semantic pass 2026-10-31 (TextRazor, 4 top pages). significant: removed Quick Picks H2, comparison table is first body H2, added Which one should you get block and Night mode Time-lapse section, rewrote verdict. Time-lapse (iPhone 12+, tripod, longer interval frames) and iPhone 11+ Night mode verified on support.apple.com/en-us/102519 today. No new prices, ratings, tests or products; ASINs unchanged.",
+    "at": "2026-10-31T17:54:59.018Z",
+    "hash": "4aa60a37dd95e12d"
   }
 }

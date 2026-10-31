@@ -1,0 +1,107 @@
+{
+  "keyword": "4 section vs 5 section tripod",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 3,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Landscape photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+    },
+    {
+      "entity": "Gitzo",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+    },
+    {
+      "entity": "Viewfinder",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Viewfinder"
+    }
+  ],
+  "missingFromPost": [
+    "Tripod head",
+    "Camera",
+    "Monopod",
+    "Landscape photography"
+  ],
+  "errors": [
+    "https://www.dpreview.com/forums/threads/travel-tripod-5-section-leg-or-4-section-leg-center-column.3552792/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-6aFQSGKTLEBIPm4wc9O9Cw&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"6aFQSGKTLEBIPm4wc9O9Cw\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'DJb7uz3oP2ViISlRFJ.OpFks6gRqOvip3UYt4zhcsQM-1793468978-1.2.1.1-2dqQxRqP6XbWJ..AnFw7xXohTqgWiJOmzhGXooU0aEgqIM5FbRd9uXFiOe6WHgYG',cITimeS: '1793468978',cN: '6aFQSGKTLEBIPm4wc9O9Cw',cRay: 'a5347f5c2e2553f9',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/travel-tripod-5-section-leg-or-4-section-leg-center-column.3552792/?__cf_chl_tk=z6YgDI16tOOZose0ejva4vOXFi0D2KpfVAdSnOiQnHc-1793468978-1.0.1.1-8Ge1X5h5a8A7ND0sE6u4mAdWceCe_NbFpWODZf.JMLo\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/travel-tripod-5-section-leg-or-4-section-leg-center-column.3552792/?__cf_chl_f_tk=z6YgDI16tOOZose0ejva4vOXFi0D2KpfVAdSnOiQnHc-1793468978-1.0.1.1-8Ge1X5h5a8A7ND0sE6u4mAdWceCe_NbFpWODZf.JMLo\",md: '_n0ue80cZ1me9u6Z4EVdubZ.C30m0ut3Z0CciK8WW.8-1793468978-1.2.1.1-nmI987CheGNi7PpUvHPOxxBg.m4eLSo.JZpQaDX3vcybpOKXryFDFPuPDFUwzGftyCVjRMYD7v9C1DmIGRsQLTrpUBSgdtlNbTU0fe8wX5QfjtD0iKNXDsI8uU2gzfuUVC4SIfyJb05ok2Vq14kCgtzqdvOaJ3jxahY8TaXDXEZII42xYvKx8Hqm8Vket1JMqd5mc2KXQvcaNW4y_NO6rEVlXgwR5F0.EtRuMlAGuJ6BzRacXEzLvWayZbyur0tUSYQtP3rnbwmEZV7D.KTHdkg8FC6H0z8tFjalUOlVIPhUpQWdueriTVOMP2Lo5mA4uysUyBpWQsmCqG_3V1OiTH6tpDufPNHVbzQPeYx6KFStQHMXx5hSmeiQkqI_QkNyBfupAfRDH2YVBXo8I.dslXDvL0EWWOA6x8uuUz5SPdDJdsulls.GZhv4vroM79jSr_bNxarVCBLDkudkTq08MYNcdZsMdret4AtgJrv.j_MBqKZktqDNT3MHtv7nsgaTWjHaUieDzWRrUF2A2QHK.ovgf9ol5X7U1hoBPwbcabRjut1Mub20iJm2Gtqkd6kWy3668pED9.1xE_CCQoWJRmEuaHQJ5Jm3Ha_WjZKVOM7Ew806QAtvxuROG6pgahjwkzNqKc4D0NzWEPxxgDFdPO3QVWFplN9k3Qfod7D0GyJeMjaQPmG4FBKCv2E7_kSTg5P3VTI.yYWucdRSYccLGpUDcS8eGVZt3QbXyUEr3Pm6G_Lt7FPIJD6pBilxp73IqNmqVsHzH9OzolyCrGBu9OBZpsuZ6_PCYqgfRl9szbpavfOsdhUKXBPBNSSEFQufnW8mbMmcx2utA7r4APT0Hcm9i8PzbzPxbuSgTh4V3FU8ZZ8GeStKdC0pou8SLgbRG8vUmiqk7zN.NiPZ.QHocmuPhV1h_gCJjaw8S9hRqbz5BYuSQW744gwhL4ANm_xqQGcpJsihPIW2oAFbDHUVWloqjK_RhOl2uZfw1xHkPg61PHBIVVWGt3h7K0u1uo2ys8Y81clwdpC0RX8mOxoW8WE_OMfqdGujy1pwiM.s68dEP9e7nYpXaUai0Gysmp4Iwo14xHWozlgW3GZZXpDzkp4tEbIhO4Uk6JeJF4AYXTFG6xJJlUlF1J1ZZs59xEPXT3SxctlzaDzKOhPTYQttbaWF.yk9PtxEgPCWLIyL2wXFUBMGDL8THG_exbuwqxmq',mdrd: 'y7tRqVootIMR4EWZVjgdKqoYquq5sJ9JI6Gba43Qlgg-1793468978-1.2.1.1-1W4rVoo3PyCgHFEQYUtSB5efqsT6V2H4F_JYSTkdkki.5a1Obqtv16EYg1EQtQxWCWUWLtX7dND8Rnx2oIG6U_gbLvxgupaH2d9.ykWfB0ZeEynbAZLNJJSUGEr8DgSkQAsJ5iU6Q6DryLSFawNtHmKwEAtqt1o9wNH.PcpJitNis2RcMtZP9C.RY07Pk9OseDbLq7ZB2eRfzfu4w3cgkU3Axa.RdAN2BPpy5H097D99bre54oWpwuKOuIAe7RuqUkSehY.JZxjKqf0456fOIg',};var a = document.createElement('script');a.nonce = '6aFQSGKTLEBIPm4wc9O9Cw';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5347f5c2e2553f9';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/travel-tripod-5-section-leg-or-4-section-leg-center-column.3552792/?__cf_chl_rt_tk=z6YgDI16tOOZose0ejva4vOXFi0D2KpfVAdSnOiQnHc-1793468978-1.0.1.1-8Ge1X5h5a8A7ND0sE6u4mAdWceCe_NbFpWODZf.JMLo\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://www.fredmiranda.com/forum/topic/1867219/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-cBYSeCTJ9Kx7TCW4LCJPzA&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"cBYSeCTJ9Kx7TCW4LCJPzA\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'EstD626w2cO6bPFc_DQghTiea7_AFQ0vqViwM6q9kYk-1793468979-1.2.1.1-iOJcHlPHDg6WFciavhqAUAdKnxlCQj45err8dJGrhWE5S8H7zMG6OHvNFJ1kOSvS',cITimeS: '1793468979',cN: 'cBYSeCTJ9Kx7TCW4LCJPzA',cRay: 'a5347f631e399c54',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forum/topic/1867219/?__cf_chl_tk=PWyTu7x_tlq4SjpB5SJv.2_u5X5xfh2cPTLSFgNWrhA-1793468979-1.0.1.1-1Ym_.TmZupZiHiHjTf1lhheCl.AZDMvcKNXKobrSyo8\",cvId: '3',cZone: 'www.fredmiranda.com',fa:\"/forum/topic/1867219/?__cf_chl_f_tk=PWyTu7x_tlq4SjpB5SJv.2_u5X5xfh2cPTLSFgNWrhA-1793468979-1.0.1.1-1Ym_.TmZupZiHiHjTf1lhheCl.AZDMvcKNXKobrSyo8\",md: 'DP2Du1ZGSrlR9JymZQOicL9DAL65oopSOKcIx2gF.ko-1793468979-1.2.1.1-aS7aOw3jmlG6Z3BXRnwXbgfYMyTJfXYSNDKttRYg5U.dZ1wiZKvDLb7LM2NSTLrbEPf3sTzO442CPJ6MA1fO4KMCDlkWLDfasPwe3IYCNEWrrjHz9KIU.0plcUu4k_0zQdjE1BkCn4bgHpqkXEq8sqE67sw8ro.yuP5NXp_f0rtcicHQHc21RoKeJKI9L4f1MI1dL9ZPyJpyyf98QymqZ.9F0_qlp5bjIIsV4FecD2ooURZmZcXvzBv2TkZJvFgIqHTgStwE_V9bHrl2IJNjF2W5J92HRWCPtMSa7L2eNAoxCmZXcLnPAM_Rg2maqKG2icmNR_xC5ioX3BXGsoOhs3bPOBeyW3i0qBTEPsLnp09mjgQoaWhH27jbIO6HuergEHrVcgf3K1kskN89w.5sUNOHxULPlcBEncnSy6BGwgngnJ9ShUQmWBjLgEMZ6oVAwa7nXhU_pCMGPyAfGUDe0E3BeKA8H6btV076IkFDoKVvFlaDmR.lyp5Bp8jfSsEbWOJaPbp5JusS5wu3RVaQy.7U2y1pZoudWSDoY7GIan9ikC0gh459zwrrFmDU7Ea7HlI5GZzWPbJ7PhKIluPCL4GP5Gq4MthUBew_092rkTci9XjV_EDIYsrtklOOtod5SPb1mldPySbSlvdTFsmXt3a.FR8mg1qP4gkmNEwiCe9_ZhOK5c8gmv7jj7pd2nblQU85NTWeh.gwOyL9GYkllIZXMn28IjKmuIR2yX6EjYSqSB6VmOuL5yzUXuoORT9BuejOhdiHnCtyQmH4bRyJxivDwRNFPAaJqO7UDMI5pedxpBjnY0rXiSPw0ydMWv14rf4IDJR2Mm8GuPsyF01i2YqHepdqHSmv7W9u9Y7TgWTVZ9UDc65kgqI9q2uuY9QA1MGk1YFv12eEhirU9QvU94aMGW3u8jk_pSerSge2rbxvRqT27U9BC0K.YojW1Q35vFF0PbcX02uG6t9u1ywMJD9_7NiQkYNLW2OlIF_FLX6G1.2ILbO8.DHFx0j2aGg6bZyVj_0t207erOti.dNUBznxTZF0iNbZxJdv7E3iLCjawfakxcgkVuRuezukALgrH0mqblGdXoyZ9IiaUzaGgG2MoBVLfcv4TFUeLX7uqN0',mdrd: 'bEiTtQ9rc3zRDEPxmY3lcm1ZKjRnW4uxgd573OHhmkg-1793468979-1.2.1.1-XWTady.P_yVTDJU0wPY2tE9PD2yXodmw_dfoV9w98nyIo.ppoX_Sa8cytjfiVJ7FbVd6IGce1bMnxkJeITnaYXsUNsAzzOxIVYvOfqIaO7erLMyJv8Hvo.O.bceeoWcdpaaij7C_9bTI2gFsC8YAM8LYDIrLQjp4KKF5E3PkJQ.ThAWoYrOrWGvQfA7Ro5OAhGLb1lrq4X7oNSZPVO4umGsUOyrX1qLHqb6od4DGZ5Ff1NqohUN38QgnwalcK7qYTURbqZt.HKVgaQ9GYBrodw',};var a = document.createElement('script');a.nonce = 'cBYSeCTJ9Kx7TCW4LCJPzA';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5347f631e399c54';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forum/topic/1867219/?__cf_chl_rt_tk=PWyTu7x_tlq4SjpB5SJv.2_u5X5xfh2cPTLSFgNWrhA-1793468979-1.0.1.1-1Ym_.TmZupZiHiHjTf1lhheCl.AZDMvcKNXKobrSyo8\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

@@ -1,22 +1,17 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-10-30T17:49:13.677Z",
+  "checkedAt": "2026-10-31T17:55:19.951Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 850 words, over the 834 limit (top results average 725): cut repetition and filler",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/48020/how-do-i-keep-my-tripod-mounted-camera-steady-in-strong-winds",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-feet-for-sand-snow-and-rock, no claim changed",
-    "at": "2026-10-30T02:20:04.803Z",
-    "hash": "0fd1c3775daba167"
+    "notes": "semantic pass 2026-10-31 (TextRazor, 4 pages: gdanmitchell, 2x uniquephoto, facebook seestar; reddit/PL/SE blocked the fetcher; missingFromPost empty). significant: first H2 '7 fixes' list replaced by symptom-to-fix table, resting-hand FAQ answer corrected (G Dan Mitchell: gentle hand can damp vibration on shorter exposures; Photography Life: hand adds tremor). Added sourced: wind weaker near ground (SE 48020), lower = better damping and rock claws on wet rock (Photography Life + comments), no tripod immune (G Dan Mitchell), NWS umbrellas hard to use at 25-31 mph (reworded). H2s/topic sentences now name the tripod; filler cut; one internal link (hiking, travel) removed from body. No new outside links, prices or tests.",
+    "at": "2026-10-31T17:55:18.660Z",
+    "hash": "f377425034c5d2fd"
   }
 }

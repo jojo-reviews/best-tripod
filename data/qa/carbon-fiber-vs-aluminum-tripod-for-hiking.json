@@ -1,24 +1,18 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-10-27T13:43:17.530Z",
+  "checkedAt": "2026-10-31T17:51:03.726Z",
   "errors": [],
   "warnings": [
-    "\"From our notes\" opens with the repeated \"When we lined up…\": start with this post’s own product, number or situation",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
-    "source didn't respond normally (403): https://www.kfconcept.com/blog/carbon-fiber-tripod-vs-aluminum-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/monopod-for-a-heavy-ish-tele-lens-a-few-questions.4760691/"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to peak-design-travel-tripod-vs-manfrotto-befree-advanced, no claim changed",
-    "at": "2026-10-23T12:36:13.475Z",
-    "hash": "8802e9658992b6b8"
+    "notes": "Semantic pass 2026-10-31 (review only): added CFRP/epoxy definition, long-exposure and macro photography (SmallRig reversible column), telephoto camera lens; From-our-notes first sentence made specific (Outdoorsmans vs K&F); trimmed filler. No new prices, ratings or tests; Manfrotto 055 2000 g vs 2500 g unchanged and sourced.",
+    "at": "2026-10-31T17:51:02.354Z",
+    "hash": "71262ebb81e5da8e"
   }
 }

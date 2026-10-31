@@ -14,7 +14,8 @@
     {
       "name": "leg section",
       "type": "component",
-      "relation": "each telescoping tube; more sections fold shorter but end in a thinner bottom tube"
+      "relation": "each telescoping tube; more sections fold shorter but end in a thinner bottom tube",
+      "salience": 0.47
     },
     {
       "name": "leg locks",
@@ -39,7 +40,8 @@
     {
       "name": "Gitzo Traveler Series 1",
       "type": "product family",
-      "relation": "sold as a 4-section (GT1545T) and a 5-section (GT1555T) version with otherwise matching design"
+      "relation": "sold as a 4-section (GT1545T) and a 5-section (GT1555T) version with otherwise matching design",
+      "salience": 0.33
     },
     {
       "name": "twist locks",
@@ -54,7 +56,8 @@
     {
       "name": "travel tripod",
       "type": "tripod type",
-      "relation": "where 5-section legs are most common"
+      "relation": "where 5-section legs are most common",
+      "salience": 0.93
     },
     {
       "name": "long exposure",
@@ -65,6 +68,66 @@
       "name": "safety payload",
       "type": "standard",
       "relation": "Gitzo rates both 4- and 5-section Traveler at 10 kg, so the rating does not show the thinner leg"
+    },
+    {
+      "name": "tripod",
+      "type": "Tripod (photography)",
+      "relation": "central entity; three-legged camera support whose leg section count sets folded length, height and stiffness",
+      "salience": 1.0
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "adds to column-down height; working height = legs + head",
+      "salience": 0.56
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the load; a mirrorless camera and standard zoom sit far below either Gitzo rating",
+      "salience": 0.53
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "buying guide: 055 folds 54 cm with 4 sections vs 63 cm with 3; 190 versions show thinner last tube",
+      "salience": 0.65
+    },
+    {
+      "name": "monopod",
+      "type": "support type",
+      "relation": "packs smaller than any tripod but cannot hold a long exposure",
+      "salience": 0.64
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "only 25 g between the Gitzo 4- and 5-section versions",
+      "salience": 0.53
+    },
+    {
+      "name": "lens",
+      "type": "device",
+      "relation": "Gitzo recommends both Traveler versions for lenses up to 135mm (200mm max)",
+      "salience": 0.37
+    },
+    {
+      "name": "landscape photography",
+      "type": "use case",
+      "relation": "long exposures favor 4 sections, column down",
+      "salience": 0.36
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "maker of the Traveler Series 1 pair used for the spec comparison",
+      "salience": 0.33
+    },
+    {
+      "name": "viewfinder",
+      "type": "component",
+      "relation": "sits below eye level on a short 5-section travel tripod",
+      "salience": 0.22
     }
   ],
   "attributes": [
@@ -76,7 +139,9 @@
     "bottom tube diameter",
     "locks per leg",
     "rated load",
-    "setup time"
+    "setup time",
+    "working height = column-down height + tripod head",
+    "lens focal length recommendation (135mm, 200mm max)"
   ],
   "ngrams": [
     "leg sections",
@@ -88,7 +153,11 @@
     "more sections",
     "less stable",
     "leg locks",
-    "long exposure"
+    "long exposure",
+    "tripod head",
+    "bottom tube",
+    "leg section",
+    "landscape photography"
   ],
   "skipgrams": [
     "more…sections…shorter",
@@ -96,7 +165,10 @@
     "thinner…legs",
     "center…column…shake",
     "folded…length…carry-on",
-    "locks…per…leg"
+    "locks…per…leg",
+    "tripod…head…height",
+    "monopod…long…exposure",
+    "camera…lens…load"
   ],
   "nlpTerms": [
     "telescoping",
@@ -110,7 +182,11 @@
     "eye level",
     "load capacity",
     "backpack",
-    "overhead bin"
+    "overhead bin",
+    "viewfinder",
+    "monopod",
+    "mirrorless camera",
+    "maintenance"
   ],
   "questions": [
     "Are 5 section tripods less stable?",
@@ -399,5 +475,19 @@
   "doNotLink": [
     "best-tripod-for-photography"
   ],
-  "angle": "Mofu comparison of leg section counts with no product picks; the turn is a same-family maker spec pair that shows exactly what a fifth section buys and costs."
+  "angle": "Mofu comparison of leg section counts with no product picks; the turn is a same-family maker spec pair that shows exactly what a fifth section buys and costs.",
+  "semanticPass": {
+    "date": "2026-10-31",
+    "tool": "TextRazor",
+    "pagesAnalyzed": [
+      "joshmillerphotography.com/blog/choosing-the-right-tripod-the-first-time",
+      "pictureline.com/blogs/tutorials/choosing-the-right-tripod",
+      "manfrotto.com/global-en/stories/tripod-buying-guide/"
+    ],
+    "blocked": [
+      "dpreview.com thread 3552792",
+      "fredmiranda.com topic 1867219 (Cloudflare)"
+    ],
+    "note": "review only"
+  }
 }

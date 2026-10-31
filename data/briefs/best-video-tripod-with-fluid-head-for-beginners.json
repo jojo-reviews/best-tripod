@@ -4,111 +4,114 @@
     "beginner fluid head tripod",
     "fluid head video tripod",
     "entry-level video tripod",
-    "hydraulic head tripod"
+    "hydraulic head tripod",
+    "video tripod with fluid head"
   ],
   "entities": [
     {
-      "name": "fluid head",
-      "type": "head type",
-      "relation": "hydraulic damping for smooth pans and tilts"
+      "name": "tripod",
+      "type": "product category",
+      "relation": "central object of the post",
+      "salience": 0.99
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 290 Xtra kit and 128RC head",
+      "salience": 0.75
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "fluid head is the tripod head type compared",
+      "salience": 0.68
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the load the tripod and head carry",
+      "salience": 0.62
+    },
+    {
+      "name": "fluid",
+      "type": "concept",
+      "relation": "hydraulic fluid damping in the head",
+      "salience": 0.54
+    },
+    {
+      "name": "payload",
+      "type": "attribute",
+      "relation": "rated load capacity, deciding spec",
+      "salience": 0.53
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter, costlier leg material than the aluminum kits here",
+      "salience": 0.42
+    },
+    {
+      "name": "gimbal",
+      "type": "device",
+      "relation": "TP74 dual-mode QR mounts a DJI RS gimbal",
+      "salience": 0.37
+    },
+    {
+      "name": "monopod",
+      "type": "product category",
+      "relation": "lighter alternative that cannot hold a locked-off shot alone",
+      "salience": 0.25
+    },
+    {
+      "name": "macro",
+      "type": "use case",
+      "relation": "fluid head locks for stills work",
+      "salience": 0.39
     },
     {
       "name": "pan and tilt drag",
       "type": "feature",
-      "relation": "adjustable resistance that smooths motion"
+      "relation": "adjustable resistance that smooths motion",
+      "salience": 0.5
     },
     {
       "name": "counterbalance",
       "type": "feature",
-      "relation": "keeps camera from tipping at tilt"
+      "relation": "spring that keeps camera from tipping at tilt",
+      "salience": 0.4
     },
     {
-      "name": "Manfrotto 290 Xtra Kit",
+      "name": "NEEWER TP74",
       "type": "product",
-      "relation": "known-brand aluminum kit with 128RC micro fluid head"
+      "relation": "best budget all-rounder pick",
+      "salience": 0.4
     },
     {
-      "name": "Manfrotto Nitrotech / 504X",
+      "name": "Cayer BV30L",
       "type": "product",
-      "relation": "step-up fluid heads"
-    },
-    {
-      "name": "NEEWER video tripod",
-      "type": "product",
-      "relation": "budget fluid head tripod, 17.6 lb load"
-    },
-    {
-      "name": "SmallRig fluid head tripod",
-      "type": "product",
-      "relation": "entry-level video tripod for mirrorless"
-    },
-    {
-      "name": "K&F Concept 83 inch tripod",
-      "type": "product",
-      "relation": "light budget hydraulic head tripod at about 3.66 lb"
-    },
-    {
-      "name": "Benro",
-      "type": "brand",
-      "relation": "budget-to-mid fluid head kits"
-    },
-    {
-      "name": "Sirui",
-      "type": "brand",
-      "relation": "video tripod kits"
-    },
-    {
-      "name": "Pan handle",
-      "type": "component",
-      "relation": "controls panning"
-    },
-    {
-      "name": "Quick release plate",
-      "type": "component",
-      "relation": "mounts camera; Manfrotto 200PL vs Arca-Swiss"
-    },
-    {
-      "name": "Bubble level",
-      "type": "component",
-      "relation": "keeps horizon level"
-    },
-    {
-      "name": "spreader / mid-level spreader",
-      "type": "component",
-      "relation": "adds leg stability"
-    },
-    {
-      "name": "payload range",
-      "type": "attribute",
-      "relation": "matches camera, lens, and cage weight"
-    },
-    {
-      "name": "1/4-20 and 3/8-16 threads",
-      "type": "standard",
-      "relation": "camera and head mounting"
-    },
-    {
-      "name": "75mm bowl / 100mm bowl",
-      "type": "standard",
-      "relation": "head-to-tripod mount size"
+      "relation": "value kit pick",
+      "salience": 0.35
     }
   ],
   "attributes": [
-    "payload capacity",
+    "bowl size (75mm vs 100mm)",
     "counterbalance steps",
     "drag levels",
-    "tilt range",
-    "pan range (360 deg)",
+    "folded length",
+    "gimbal compatibility",
+    "head mount (flat base vs bowl)",
+    "leg lock type",
+    "leg material (aluminum vs carbon fiber)",
+    "leg type (single vs twin)",
     "max height",
     "min height",
-    "folded length",
-    "weight",
-    "leg type (single vs twin)",
-    "spreader",
-    "head mount (flat base vs bowl)",
+    "pan range (360 deg)",
+    "payload capacity",
+    "price",
     "quick release plate",
-    "leg lock type",
-    "price"
+    "spreader",
+    "tilt range",
+    "weight"
   ],
   "ngrams": [
     "fluid head",
@@ -124,7 +127,12 @@
     "lightweight tripod",
     "travel tripod",
     "mirrorless camera",
-    "DSLR"
+    "DSLR",
+    "tripod head",
+    "video tripod with fluid head",
+    "carbon fiber",
+    "fluid video head",
+    "payload capacity"
   ],
   "skipgrams": [
     "fluid…head",
@@ -135,7 +143,10 @@
     "drag…adjust",
     "counterbalance…heavy",
     "load…capacity",
-    "head…leveling"
+    "head…leveling",
+    "tripod…head",
+    "fluid…damping",
+    "carbon…legs"
   ],
   "nlpTerms": [
     "fluid head",
@@ -160,7 +171,13 @@
     "beginner",
     "entry-level",
     "mid-level spreader",
-    "cinema"
+    "cinema",
+    "tripod head",
+    "carbon fiber",
+    "monopod",
+    "aluminum",
+    "shooting",
+    "macro"
   ],
   "questions": [
     "What is a fluid head and why is it better for video?",
@@ -281,16 +298,83 @@
     "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
   },
   "serpTitles": [
-    {"position":1,"url":"https://www.reddit.com/r/cinematography/comments/1qw5k76/best_budget_filmmaking_tripod_with_a_smooth_fluid/","title":"Best budget filmmaking tripod with a smooth fluid head and a cheap ..."},
-    {"position":2,"url":"https://www.joelwsmith.com/best-fluid-heads-video/","title":"The Best Fluid Heads for Video (2025) - Joel W Smith"},
-    {"position":3,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-pan-and-tilt-tripod-heads","title":"The best pan and tilt tripod heads | Digital Camera World"},
-    {"position":4,"url":"https://www.bhphotovideo.com/c/buy/Video-Tripod-Heads/ci/3918","title":"Fluid Head Tripods | Professional Video Tripod Heads - B&H"},
-    {"position":5,"url":"https://www.youtube.com/watch?v=0DFthywwFzU&vl=en","title":"Video Tripod Head Buying Guide // Best Fluid Head for the Money"},
-    {"position":6,"url":"https://www.westlakesimages.com/blog/fluid-head","title":"The Perfect Tripod - Video Heads for Stills Shooters | West Lakes Images"},
-    {"position":7,"url":"https://www.cined.com/gear-guides/best-travel-tripods-for-video-and-small-fluid-heads/","title":"Best Travel Tripods for Video and Small Fluid Heads | CineD"},
-    {"position":8,"url":"https://www.youtube.com/watch?v=UMSljTF3mPk&vl=en","title":"I Tried a $100 and a $1000 Tripod Fluid Head... Here's the Difference"},
-    {"position":9,"url":"https://www.amazon.com/fluid-head-tripod/s?k=fluid+head+tripod","title":"Fluid Head Tripod - Amazon.com"},
-    {"position":10,"url":"https://www.mediahammock.com/2020/07/31/top-4-budget-fluid-heads/","title":"Top 4 Budget Fluid Heads for Video Tripods - Media Hammock"}
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/cinematography/comments/1qw5k76/best_budget_filmmaking_tripod_with_a_smooth_fluid/",
+      "title": "Best budget filmmaking tripod with a smooth fluid head and a cheap ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.joelwsmith.com/best-fluid-heads-video/",
+      "title": "The Best Fluid Heads for Video (2025) - Joel W Smith"
+    },
+    {
+      "position": 3,
+      "url": "https://www.digitalcameraworld.com/buying-guides/the-best-pan-and-tilt-tripod-heads",
+      "title": "The best pan and tilt tripod heads | Digital Camera World"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bhphotovideo.com/c/buy/Video-Tripod-Heads/ci/3918",
+      "title": "Fluid Head Tripods | Professional Video Tripod Heads - B&H"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=0DFthywwFzU&vl=en",
+      "title": "Video Tripod Head Buying Guide // Best Fluid Head for the Money"
+    },
+    {
+      "position": 6,
+      "url": "https://www.westlakesimages.com/blog/fluid-head",
+      "title": "The Perfect Tripod - Video Heads for Stills Shooters | West Lakes Images"
+    },
+    {
+      "position": 7,
+      "url": "https://www.cined.com/gear-guides/best-travel-tripods-for-video-and-small-fluid-heads/",
+      "title": "Best Travel Tripods for Video and Small Fluid Heads | CineD"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=UMSljTF3mPk&vl=en",
+      "title": "I Tried a $100 and a $1000 Tripod Fluid Head... Here's the Difference"
+    },
+    {
+      "position": 9,
+      "url": "https://www.amazon.com/fluid-head-tripod/s?k=fluid+head+tripod",
+      "title": "Fluid Head Tripod - Amazon.com"
+    },
+    {
+      "position": 10,
+      "url": "https://www.mediahammock.com/2020/07/31/top-4-budget-fluid-heads/",
+      "title": "Top 4 Budget Fluid Heads for Video Tripods - Media Hammock"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":1,"withNumber":1,"commonModifiers":["fluid heads for video","budget","best fluid head for the money"],"gap":"How a beginner makes smooth pans and tilts on a fluid head"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "fluid heads for video",
+      "budget",
+      "best fluid head for the money"
+    ],
+    "gap": "How a beginner makes smooth pans and tilts on a fluid head"
+  },
+  "semanticPass": {
+    "date": "2026-10-31",
+    "source": "TextRazor",
+    "pages": [
+      "https://www.joelwsmith.com/best-fluid-heads-video/",
+      "https://www.westlakesimages.com/blog/fluid-head",
+      "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+      "https://www.cined.com/gear-guides/best-travel-tripods-for-video-and-small-fluid-heads/",
+      "https://neewer.com/blogs/blog/best-video-tripods-with-fluid-heads-in-2026"
+    ],
+    "ignoredNoise": [
+      "Leofoto (unrelated brand)",
+      "Gear",
+      "Shooting (generic)"
+    ],
+    "note": "review only"
+  }
 }

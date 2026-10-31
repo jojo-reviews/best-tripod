@@ -1,0 +1,69 @@
+{
+  "keyword": "best tripod for iphone night mode photos",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.87,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "IPhone",
+      "type": "Device",
+      "pages": 3,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/IPhone"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.94,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Digital photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_photography"
+    },
+    {
+      "entity": "Time-lapse photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Time-lapse_photography"
+    }
+  ],
+  "missingFromPost": [
+    "Digital photography",
+    "Time-lapse photography"
+  ],
+  "errors": [
+    "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/: <html lang=\"en\"><head><title>nyt.net</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMA3MdQMAQoiFoAaCQSlw==','hsh':'499AE34129FA4E4FABC31582C3075D','t':'bv','qp':'','s':62356,'e':'a52ccbb6735cac30c1dbd4ea935605ab0afecae5d233a2d5494bf1cfb8efe10d07b467cb835e638617ee02e541a92a54','host':'geo.captcha-delivery.com','cookie':'jMbWFcBi9qZFxFvv3mkGUgGoFLuyz8~7ItB1pezVebWAxTsvHKwP8J2OKcqnxbfwKccp8nCp~LVaQepAXaEwrF8vCsbi6Du~vNMa1Ad0sgPZGKo5u46ko_EnVjo24c4Z'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>"
+  ]
+}

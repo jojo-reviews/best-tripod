@@ -28,6 +28,8 @@ entities:
   - JOBY GorillaPod
   - JOBY GripTight ONE
   - flexible tripod
+  - Night mode Time-lapse
+  - time-lapse photography
 tags:
   - phone tripods
   - iphone
@@ -38,7 +40,7 @@ articleType: roundup
 funnel: bofu
 productStyle: pros-cons
 productCount: 3
-readingTime: 10
+readingTime: 9
 tldr:
   - >-
     For most iPhone Night mode shots, our pick is the Manfrotto PIXI Mini Tripod
@@ -298,7 +300,8 @@ sources:
     url: 'https://shotkit.com/best-tripods-for-iphone/'
   - title: 'Apple Support: Use Camera Remote on Apple Watch'
     url: 'https://support.apple.com/guide/watch/apda6e61c287'
-reviewedDate: '2026-10-18'
+reviewedDate: '2026-10-31'
+updatedDate: '2026-10-31T17:54:00.000Z'
 faqs:
   - q: Does iPhone Night mode work better on a tripod?
     a: >-
@@ -340,29 +343,11 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for iPhone Night mode photos is the one that keeps the phone perfectly still for several seconds while it gathers light, and lets you start the shot without touching the screen. We compared three small tripods that the top-ranking iPhone tripod guides keep recommending, using maker specs, retailer listings and owner reviews: the [Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) for flat surfaces, the [JOBY GorillaPod 1K Kit](amzn:JOBY+GorillaPod+1K+Kit+compact+tripod+with+ballhead) for railings and rocks, and the [JOBY GripTight ONE GP Stand](amzn:JOBY+GripTight+ONE+GP+Stand+phone+tripod) for your pocket. We did not test them ourselves; everything here comes from published specs and the owner reports we read.
-
-## Best Tripods for iPhone Night Mode Photos: Quick Picks
-
-**The best tripod for iPhone Night mode photos, for most people, is the Manfrotto PIXI kit. The JOBY GorillaPod 1K Kit suits railings and uneven ground, and the GripTight ONE GP Stand is the one you will carry every day.** All three are low, short tripods, which is exactly what a multi-second exposure wants.
-
-Here is how we would match them to the way you shoot at night:
-
-- **Best overall for Night mode: Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp.** Rigid legs, a push-button ball head and a clamp in the box, rated for 1 kg (2.2 lb).
-- **Best for railings and uneven ground: JOBY GorillaPod 1K Kit.** Bendable legs that wrap around posts and rails, a ball head with 360 degree pan, rated for 1 kg. Add a phone clamp.
-- **Best pocket option: JOBY GripTight ONE GP Stand.** About 71 g with a built-in clamp, but rated for only 325 g.
-
-## How We Picked Each Tripod for iPhone Night Mode Photos
-
-**We only considered tripods that at least two of the pages ranking for this search recommend, that are still sold as their own Amazon US listing, and that hold a phone low and steady.** That ruled out a few popular picks.
-
-Digital Camera World, TechGearLab, Shotkit, Wirecutter, Skies & Scopes, Cameraegg and a Tripadvisor travel forum thread gave us the shortlist. We dropped the JOBY TelePod Mobile, which B&H now lists as discontinued, and the larger GorillaPod 3K Kit, which we could not find as a standalone Amazon US listing. We also left out tall selfie-stick tripods: Skies & Scopes warns that single-pole designs are unsteady and often can't tilt the phone up to the sky. Then we read 37 owner reviews and posts across the three picks and scored each one on our [Best Tripod Score rubric](/how-we-score/).
-
-> **From our notes:** When we lined up the night-photography pages for this guide, the advice that came up again and again was not about the tripod at all. It was about the finger. Skies & Scopes, a Tripadvisor traveler heading to Iceland for the Northern Lights and Apple's own Night mode page all circle the same point: the phone has to stay still for the whole capture, and a tap on the shutter is enough to blur it. That is why every pick below is paired with a timer or remote tip, and why we favored low, short tripods over tall ones.
+The best tripod for iPhone Night mode photos keeps the phone perfectly still for the several seconds it gathers light, and lets you start the shot without touching the screen. Apple suggests a tripod for better stability and says Night mode works on [iPhone 11 and later](https://support.apple.com/en-us/102519). I compared three small tripods the top iPhone guides recommend, using maker specs and owner reviews; I did not test them myself. A long exposure lasting seconds blurs at the slightest touch, so every pick holds the phone low and firm, like the clamp-ready PIXI I also chose in my [mini desk tripod roundup](/blog/best-mini-tripod-for-desk-video-calls/).
 
 ## Tripod for iPhone Night Mode Photos: Comparison Table
 
-**The PIXI kit and GorillaPod 1K share a 1 kg rating, while the GripTight ONE GP Stand trades load capacity for size.** This table compares the specs that matter for a long iPhone exposure.
+**A tripod for iPhone Night mode photos is chosen first on load rating against your phone and case: the PIXI kit and GorillaPod 1K claim 1 kg, while the GripTight ONE GP Stand claims only 325 g.**
 
 | Tripod | Max height | Weight | Max load | Legs | Phone clamp |
 |---|---|---|---|---|---|
@@ -370,78 +355,91 @@ Digital Camera World, TechGearLab, Shotkit, Wirecutter, Skies & Scopes, Cameraeg
 | JOBY GorillaPod 1K Kit | About 10 in | About 5-7 oz | 1 kg (2.2 lb) | Flexible, wrappable | Not included |
 | JOBY GripTight ONE GP Stand | About 6.5 in | About 71 g | 325 g (11.5 oz) | Flexible, short | Built in, 56-91 mm |
 
+## How I Picked Each Tripod for iPhone Night Mode Photos
+
+**Every tripod for iPhone Night mode photos here is recommended by at least two pages ranking for this search, is sold as its own Amazon US listing, and holds a phone low and steady.**
+
+Digital Camera World, TechGearLab, Shotkit, Wirecutter, Skies & Scopes and a Tripadvisor thread gave me the shortlist. I dropped the JOBY TelePod Mobile, which B&H lists as discontinued, and the GorillaPod 3K Kit, which has no standalone Amazon US listing. I also skipped tall selfie-stick tripods: Skies & Scopes warns that single-pole designs are unsteady and often can't tilt the phone up to the sky. I then read 37 owner reviews and scored each pick on our [Best Tripod Score rubric](/how-we-score/).
+
+> **From our notes:** The advice I saw again and again was not about the tripod at all. It was about the finger. Skies & Scopes, a Tripadvisor traveler heading to Iceland for the Northern Lights and Apple's Night mode page all make the same point: the phone has to stay still for the whole capture, and a tap on the shutter is enough to blur it.
+
 ## The 3 Best Tripods for iPhone Night Mode Photos
 
-**Each pick below solves a different night-shooting problem, so choose by where you will set the phone down.** Every section covers who it suits, what owners report and the catch.
+**Each tripod for iPhone Night mode photos below solves a different problem, so choose by where you will set the phone down.** An iPhone Night mode tripod only has to carry a few hundred grams, so stability, clamp fit and size decide the order.
 
 ### Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK): best overall for Night mode
 
-On a wall, a car roof or a picnic table, this Manfrotto kit is the steadiest way to hold an iPhone for a long capture. The legs open to one fixed angle with rubber feet, so there are no joints to creep, and the ball head locks with a single push button against a grooved ball. Owners describe it as sturdy for its size and say the head stays put once released. Manfrotto rates the kit for 1 kg (2.2 lb) of total payload, many times what an iPhone weighs, and lists 215 g and a 26 cm (10.2 in) folded length.
+The [Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) is a rigid tabletop mini tripod from Manfrotto, sold with the brand's universal phone clamp. On a wall, a car roof or a picnic table, it is the steadiest way to hold an iPhone for a long capture. The legs open to one fixed angle on rubber feet, so there are no joints to creep, and the ball head locks with a push button against a grooved ball. Manfrotto rates it for 1 kg (2.2 lb) of payload and lists 215 g and a 26 cm (10.2 in) folded length.
 
-The catches are the ones a rigid design brings. There is no height adjustment and only one leg angle, so you need a level surface, and the ball range is limited when you aim high at the sky. The clamp grips hard: one owner said it marked an Apple silicone case, and Digital Camera World lists a maximum phone width of 83 mm, so measure a Pro Max in its case before buying. If you already own the plain PIXI from our [mini desk tripod roundup for video calls](/blog/best-mini-tripod-for-desk-video-calls/), the universal clamp alone turns it into the same night setup.
+The catches come with the rigid design: no height adjustment and one leg angle, so you need a level surface, and the ball range is limited when you aim high at the stars. The clamp grips hard: one owner said it marked an Apple silicone case, and Digital Camera World lists a maximum phone width of 83 mm, so measure a Pro Max in its case first. If you own the plain PIXI, the clamp alone gives you the same night setup.
 
-### JOBY GorillaPod 1K Kit: best for railings and uneven ground
+### JOBY GorillaPod 1K Kit: best tripod for railings and uneven ground
 
-When there is nowhere flat to set the phone, this GorillaPod is the pick. Its jointed legs wrap around a railing, a fence post or a branch, or splay out over rough rock, and owners say they hold their shape once bent. The removable ball head pans 360 degrees and tilts 90 degrees, and the 1 kg (2.2 lb) rating leaves plenty of headroom for an iPhone plus a clamp. Wirecutter pairs it with a separate phone mount, and one owner we read used Ulanzi's ST-27 clamp with it.
+The [JOBY GorillaPod 1K Kit](amzn:JOBY+GorillaPod+1K+Kit+compact+tripod+with+ballhead) is a flexible-leg mini tripod from JOBY with a removable ball head, rated for 1 kg (2.2 lb). When there is nowhere flat to set the phone, it is the pick: the jointed legs wrap around a railing, a fence post or a branch, or splay over rough rock, and owners say they hold their shape. The head pans 360 degrees and tilts 90 degrees. Wirecutter names it its smartphone tripod pick.
 
-That missing clamp is the first thing to know: the head ends in a standard 1/4"-20 thread, so budget for a phone holder. The second is durability. Owners on retailer sites report legs sliding out of their sockets, and for a few, joints that loosened or a leg that broke within months. One owner also found the head swivel unscrews from the legs unless it is tightened first. For Night mode, wrap the legs tightly and check that the head is locked before you start the timer.
+That missing clamp is the first catch: the head ends in a standard 1/4"-20 thread, so budget for a phone holder. The second is durability. Owners on retailer sites report legs sliding out of their sockets, and a few had a joint loosen or a leg break within months. One owner found the head swivel unscrews unless it is tightened first, so wrap the legs firmly and check the ball head lock before you start the timer.
 
-### JOBY GripTight ONE GP Stand: best pocket option
+### JOBY GripTight ONE GP Stand: best pocket tripod
 
-This little GorillaPod is the night tripod you will have with you when the sky turns clear. At about 71 g with the GripTight ONE clamp built in, it slips into a jacket pocket, and its bendy legs grip thin railings and uneven surfaces. B&H lists the clamp for phones 56 to 91 mm wide, and one owner reported it holding an iPhone 13 Pro in a thick rugged case without trouble.
+The [JOBY GripTight ONE GP Stand](amzn:JOBY+GripTight+ONE+GP+Stand+phone+tripod) is a pocket-size flexible tripod from JOBY with its GripTight ONE phone clamp built in. At about 71 g it slips into a jacket pocket, so it is the night tripod I would actually carry. B&H lists the clamp for phones 56 to 91 mm wide, and one owner reported it holding an iPhone 13 Pro in a thick rugged case.
 
-Its limits are real for long exposures, though. The rating is only 325 g (11.5 oz), so weigh your phone and case together before trusting it on a railing. One owner says it tips over when the phone is turned vertical because the short legs get in the way, and several report joints that loosen or pop apart over time. Keep it low, keep the phone horizontal, and treat it as a backup to a sturdier tripod rather than the main event.
+Its limits are real for long exposures. The rating is only 325 g (11.5 oz), so weigh your phone and case together before trusting it on a railing. One owner says it tips over when the phone is turned vertical, and several report joints that loosen or pop apart over time. I would keep it low and horizontal, as a backup rather than the main tripod.
+
+### Which one should you get
+
+- **You shoot from walls, tables and car roofs:** the Manfrotto PIXI kit.
+- **You shoot from railings, posts and rocks:** the JOBY GorillaPod 1K Kit plus a phone clamp.
+- **You want a tripod that lives in your pocket:** the JOBY GripTight ONE GP Stand.
+- **You already own a camera tripod:** just add a phone clamp (see below).
 
 ## How to Choose a Tripod for iPhone Night Mode Photos
 
-**A tripod for iPhone Night mode photos should have a load rating that comfortably exceeds your phone and case, a clamp that fits your phone, and legs that suit the surfaces you will actually shoot from.** Our [tripod buying checklist](/tripod-buying-checklist/) covers the same ground for camera tripods; here is what changes for a phone at night.
+**A tripod for iPhone Night mode photos needs a load rating well above your phone and case, a clamp that fits, and legs that suit the surfaces you shoot from.** My [tripod buying checklist](/tripod-buying-checklist/) covers camera tripods; here is what changes for a phone.
 
 ### Load rating vs your iPhone and case
 
-A rated load is the most the maker says the support will hold, not a comfortable working load. The PIXI kit and GorillaPod 1K both claim 1 kg, which leaves a wide margin for any iPhone. The GripTight ONE GP Stand claims 325 g, so a large phone in a heavy case plus a clip-on lens eats most of that margin.
+An iPhone tripod for long exposure should be rated well above the phone, because a rated load is the most the maker says it will hold, not a comfortable working load. The PIXI kit and GorillaPod 1K claim 1 kg, a wide margin. The GripTight ONE GP Stand claims 325 g, so I would weigh a large phone, its case and any clip-on lens first.
 
-### Clamp width and grip
+### Phone clamp width and grip
 
 Measure your phone across its case, then compare it with the clamp's range: up to 83 mm for the Manfrotto clamp per Digital Camera World, and 56 to 91 mm for the GripTight ONE per B&H. A clamp that is too tight can mark a soft case, and one that is too loose lets the phone droop during a 10-second exposure.
 
 ### Rigid vs flexible legs
 
-Rigid legs like the PIXI's are steadier on flat ground because nothing can slowly bend. Flexible legs win when there is no flat ground, but each joint is a spring, so wrap them firmly and give the phone a few seconds to settle.
+A sturdy phone tripod for night photos with rigid legs, like the PIXI, is steadier on flat ground because nothing can slowly bend. Flexible legs win when there is no flat ground, but each joint is a spring, so wrap the legs firmly and give the phone a few seconds to settle.
 
-### Head lock and aiming at the sky
+### Ball head lock and aiming at the sky
 
-For stars or a moonlit skyline you need to tilt the phone up and have it stay there. A head that locks positively, like the PIXI's push button, is easier to trust than a friction joint, and owners note that the smaller JOBY ball joints are stiff until broken in.
+Aiming up is where heads differ. An iPhone tripod for night photography has to tilt the phone toward stars or a moonlit skyline and stay there. A head that locks positively, like the PIXI's push button, is easier to trust than a friction joint, and owners say the small JOBY ball joints are stiff at first.
 
 ### Height: lower is steadier
 
-A short tripod close to the ground passes less wind and vibration into the exposure. That is the quiet advantage of a mini tripod over a tall selfie stick, and why a [phone tripod for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) is a different tool from a night tripod.
+A short tripod for iPhone photography passes less wind and vibration into the exposure than a tall one. That is why I see a [phone tripod for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) as a different tool.
 
-## How to Shoot iPhone Night Mode on a Tripod
+## How to Shoot iPhone Night Mode Photos on a Tripod
 
-**Mount the phone, lock everything, set the self-timer or connect a remote, choose Max in Night mode, then step back and stand still until the capture ends.** Apple says Night mode turns on automatically in low light on iPhone 11 and later, and the capture can take several seconds depending on how dark it is.
-
-### Step by step
-
-These steps work with any of the three picks:
+**On a tripod for iPhone Night mode photos, mount the phone, lock everything, set the self-timer or a remote, choose Max in Night mode, then step back until the capture ends.** Night mode turns on automatically in low light, and a capture can take several seconds.
 
 1. Set the tripod low on the steadiest surface you can find, or wrap the legs tightly around a rail.
-2. Clamp the phone horizontally, check the clamp grip, and lock the ball head.
+2. Clamp the phone horizontally, check the grip, and lock the ball head.
 3. Open the Camera app and wait for the yellow Night mode icon.
-4. Tap the arrow above the viewfinder, open the Night mode control and drag the slider to Max, which Apple says extends the capture time (the Max capture time setting).
-5. Set the self-timer or pair a remote, start the shot, and keep your hands and feet away from the tripod until the countdown finishes.
+4. Tap the arrow above the viewfinder, open the Night mode control and drag the slider to Max, which Apple says extends the capture time.
+5. Set the self-timer or pair a remote, start the shot, and keep your hands and feet off the tripod until the countdown ends.
 
 ### Timer, remote or Apple Watch
 
-The self-timer is free and works with every tripod here. A Bluetooth shutter remote lets you fire repeatedly without touching the phone, and if you wear an Apple Watch, its Camera Remote app can trigger the iPhone too. Skies & Scopes notes that even small vibrations through the ground, such as shifting your weight next to the tripod, can show up in a long exposure, so we always step back once the timer starts.
+The self-timer is free, works with every tripod here and removes the shake of a finger tap. A Bluetooth shutter remote, the classic remote shutter, fires repeatedly without touching the phone, and an Apple Watch can trigger the iPhone through its Camera Remote app. Skies & Scopes notes that even shifting your weight next to the tripod can show up in a long exposure, so I always step back once the timer starts.
 
-## Mini Tripod vs Full-Size Tripod With a Phone Clamp
+### Night mode Time-lapse on a tripod
 
-**If you already own a camera tripod, a phone clamp is all you need; if you don't, a mini tripod is the lighter and often steadier choice for an iPhone.** Skies & Scopes suggests both routes for phone night-sky shooting.
+An iPhone Night mode tripod also unlocks time-lapse photography after dark. Apple says Night mode Time-lapse, on iPhone 12 and later, uses a tripod to capture video with longer interval frames: swipe to Time-lapse in the Camera app and tap the shutter. The phone sits still for many minutes, so a steady base matters even more.
 
-A full-size travel tripod puts the phone at eye level, which helps for skylines over a wall, but extended legs and a raised center column catch more wind. If you go that way, keep the legs short and the column down. A phone clamp's 1/4"-20 socket fits the screw on any tripod head. If your head uses an Arca-Swiss clamp, screw an Arca-Swiss plate under the phone clamp. Pick something solid from our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/), which also covers carry-on packing. Browse the rest of our [phone tripod guides](/category/phone-tripods/) for other phone setups.
+## Mini Tripod vs Full-Size Tripod for iPhone Night Mode Photos
 
-## Verdict: The Best Tripod for iPhone Night Mode Photos
+**If you already own a camera tripod, a phone clamp is all you need; if you don't, a mini tripod is lighter and often steadier for an iPhone.**
 
-**Buy the Manfrotto PIXI kit if you mostly shoot from flat surfaces, the JOBY GorillaPod 1K Kit plus a clamp if you shoot from railings and rocks, and the GripTight ONE GP Stand only if pocket size matters more than stability.** We would put most iPhone owners on the PIXI kit: the clamp is in the box, the head locks firmly and the rigid legs give long exposures the best chance.
+A full-size travel tripod puts the phone at eye level, which helps for skylines over a wall, but extended legs and a raised center column catch more wind. Keep the legs short and the column down. A phone clamp's 1/4"-20 socket fits the screw on any tripod head, the same standard digital photography gear has long used; on an Arca-Swiss head, screw an Arca-Swiss plate under the clamp. Pick something solid from our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/), or browse our [phone tripod guides](/category/phone-tripods/).
 
-Whichever you choose, the habits matter as much as the hardware. Keep it low, lock the head, start with the timer or a remote, and stand still. Do that, and Night mode on any recent iPhone can turn a dark street or a starry sky into a sharp photo.
+## Our Verdict on the Best Tripod for iPhone Night Mode Photos
+
+**For most iPhone owners, the best tripod for iPhone Night mode photos is the Manfrotto PIXI kit: the clamp is in the box, the head locks firmly and the rigid legs give long exposures the best chance.** The habits matter as much as the hardware: keep it low, lock the head, start with the timer or a remote, and stand still.

@@ -9,74 +9,112 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "Tripod (photography)",
+      "relation": "three-legged support that holds the phone steady hands-free; TextRazor top entity shared by the top pages",
+      "salience": 0.83
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "phone camera or small camera on the 1/4 in thread; recording is started by the remote",
+      "salience": 0.69
+    },
+    {
+      "name": "smartphone",
+      "type": "device",
+      "relation": "the payload; clamp width or MagSafe decides fit",
+      "salience": 0.49
+    },
+    {
+      "name": "magnetic phone tripod",
+      "type": "product type",
+      "relation": "MagSafe-style magnetic holder instead of a clamp (KraftGeek JustTap, Ulanzi MT44M, many Amazon bestsellers)",
+      "salience": null
+    },
+    {
       "name": "Bluetooth shutter remote",
       "type": "accessory",
-      "relation": "triggers recording or photo from a distance, typically 30 ft range"
+      "relation": "triggers recording or photo from a distance, typically 30 ft range",
+      "salience": null
     },
     {
       "name": "Joby GorillaPod",
       "type": "brand/product line",
-      "relation": "flexible-leg mini tripod that wraps around objects"
+      "relation": "flexible-leg mini tripod that wraps around objects",
+      "salience": null
     },
     {
       "name": "Ulanzi",
       "type": "brand",
-      "relation": "creator-focused phone tripod maker"
+      "relation": "creator-focused phone tripod maker",
+      "salience": null
     },
     {
       "name": "UBeesize",
       "type": "brand",
-      "relation": "budget tripod with bundled remote"
+      "relation": "budget tripod with bundled remote",
+      "salience": null
     },
     {
       "name": "Neewer",
       "type": "brand",
-      "relation": "budget extendable phone tripods"
+      "relation": "budget extendable phone tripods",
+      "salience": null
     },
     {
       "name": "Fugetek",
       "type": "brand",
-      "relation": "selfie stick and tripod combo"
+      "relation": "selfie stick and tripod combo",
+      "salience": null
     },
     {
       "name": "1/4\"-20 thread",
       "type": "standard",
-      "relation": "mount thread for phone clamps and cold shoe accessories"
+      "relation": "mount thread for phone clamps and cold shoe accessories",
+      "salience": null
     },
     {
       "name": "spring phone clamp",
       "type": "component",
-      "relation": "holds phones of varying width, affects case compatibility"
+      "relation": "holds phones of varying width, affects case compatibility",
+      "salience": null
     },
     {
       "name": "ball head",
       "type": "head type",
-      "relation": "lets vloggers switch portrait and landscape"
+      "relation": "lets vloggers switch portrait and landscape",
+      "salience": null
     },
     {
       "name": "MagSafe mount",
       "type": "standard",
-      "relation": "magnetic attachment for iPhone"
+      "relation": "magnetic attachment for iPhone",
+      "salience": null
     },
     {
       "name": "iPhone and Android phones",
       "type": "device",
-      "relation": "payload and clamp width constraint"
+      "relation": "payload and clamp width constraint",
+      "salience": null
     },
     {
       "name": "ring light and microphone",
       "type": "accessory",
-      "relation": "cold-shoe add-ons that raise payload and top-heaviness"
+      "relation": "cold-shoe add-ons that raise payload and top-heaviness",
+      "salience": null
     },
     {
       "name": "selfie stick",
       "type": "tripod type",
-      "relation": "handheld extension that doubles as a tripod"
+      "relation": "handheld extension that doubles as a tripod",
+      "salience": null
     },
     {
       "name": "portrait vs landscape orientation",
       "type": "use case",
-      "relation": "TikTok/Reels/Shorts vs YouTube framing"
+      "relation": "TikTok/Reels/Shorts vs YouTube framing",
+      "salience": null
     }
   ],
   "attributes": [
@@ -93,7 +131,9 @@
     "foot grip / stability",
     "cold shoe or 1/4-20 accessory mounts",
     "iOS and Android compatibility",
-    "price"
+    "price",
+    "magnetic mount strength",
+    "auto-open legs"
   ],
   "ngrams": [
     "phone tripod",
@@ -109,7 +149,10 @@
     "remote control",
     "for iPhone and Android",
     "portable travel tripod",
-    "lightweight tripod"
+    "lightweight tripod",
+    "magnetic phone tripod",
+    "rechargeable remote",
+    "extendable phone tripod"
   ],
   "skipgrams": [
     "tripod…remote",
@@ -121,7 +164,9 @@
     "vlogging…portable",
     "phone…clamp",
     "remote…battery",
-    "tripod…stability"
+    "tripod…stability",
+    "magnetic…mount",
+    "remote…rechargeable"
   ],
   "nlpTerms": [
     "vlogging",
@@ -148,7 +193,13 @@
     "non-slip feet",
     "quick release",
     "travel",
-    "livestream"
+    "livestream",
+    "MagSafe",
+    "magnetic",
+    "gooseneck",
+    "cold shoe",
+    "smartphone",
+    "camera"
   ],
   "questions": [
     "Do phone tripods with remotes work with both iPhone and Android?",
@@ -265,16 +316,73 @@
     "note": "Search-snippet based analysis; avgWords is an estimate. targetWords set by routine formula 700 + 150 x 6."
   },
   "serpTitles": [
-    {"position":1,"url":"https://www.amazon.com/Best-Sellers-Cell-Phone-Tripods/zgbs/wireless/11139610011","title":"Amazon Best Sellers: Best Cell Phone Tripods"},
-    {"position":2,"url":"https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/","title":"Phone Tripod for Vlogging Recommendations? : r/youtubers"},
-    {"position":3,"url":"https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/","title":"Best phone tripod for iPhones and smartphones | Amateur Photographer"},
-    {"position":4,"url":"https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=vlogging%20tripod","title":"vlogging tripod - Best Buy"},
-    {"position":5,"url":"https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/","title":"The Best Tripod for iPhones and Other Smartphones - The New York Times"},
-    {"position":6,"url":"https://www.youtube.com/watch?v=1n_-GZ7L9Vo","title":"Best Phone Tripod For Content Creators in 2025 - YouTube"},
-    {"position":7,"url":"https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos","title":"THE BEST PHONE CAMERA TRIPODS - A REVIEW FOR FOOD ..."},
-    {"position":8,"url":"https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports","title":"The best iPhone tripods and supports in 2026 | Digital Camera World"},
-    {"position":9,"url":"https://www.bestbuy.com/site/cell-phone-photography-accessories/cell-phone-tripods-mounts/pcmcat373300050006.c?id=pcmcat373300050006","title":"Cell Phone Tripods & Photography Mounts - Best Buy"},
-    {"position":10,"url":"https://www.walmart.com/c/kp/vlogging-tripod","title":"Shop Vlogging Tripod for Cell Phones and Smartphones - Walmart"}
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/Best-Sellers-Cell-Phone-Tripods/zgbs/wireless/11139610011",
+      "title": "Amazon Best Sellers: Best Cell Phone Tripods"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/",
+      "title": "Phone Tripod for Vlogging Recommendations? : r/youtubers"
+    },
+    {
+      "position": 3,
+      "url": "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+      "title": "Best phone tripod for iPhones and smartphones | Amateur Photographer"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=vlogging%20tripod",
+      "title": "vlogging tripod - Best Buy"
+    },
+    {
+      "position": 5,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+      "title": "The Best Tripod for iPhones and Other Smartphones - The New York Times"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=1n_-GZ7L9Vo",
+      "title": "Best Phone Tripod For Content Creators in 2025 - YouTube"
+    },
+    {
+      "position": 7,
+      "url": "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+      "title": "THE BEST PHONE CAMERA TRIPODS - A REVIEW FOR FOOD ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports",
+      "title": "The best iPhone tripods and supports in 2026 | Digital Camera World"
+    },
+    {
+      "position": 9,
+      "url": "https://www.bestbuy.com/site/cell-phone-photography-accessories/cell-phone-tripods-mounts/pcmcat373300050006.c?id=pcmcat373300050006",
+      "title": "Cell Phone Tripods & Photography Mounts - Best Buy"
+    },
+    {
+      "position": 10,
+      "url": "https://www.walmart.com/c/kp/vlogging-tripod",
+      "title": "Shop Vlogging Tripod for Cell Phones and Smartphones - Walmart"
+    }
   ],
-  "titlePattern": {"keywordAtStart":0,"withYear":2,"withNumber":0,"commonModifiers":["phone tripod(s)","iPhones and smartphones","vlogging","best sellers"],"gap":"How to pair the remote and fix common remote and stability problems"}
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 0,
+    "commonModifiers": [
+      "phone tripod(s)",
+      "iPhones and smartphones",
+      "vlogging",
+      "best sellers"
+    ],
+    "gap": "How to pair the remote and fix common remote and stability problems"
+  },
+  "entitySource": {
+    "tool": "textrazor",
+    "date": "2026-10-31",
+    "file": "data/briefs/best-phone-tripod-for-vlogging-with-remote.entities.json",
+    "note": "salience = TextRazor relevance; noise (Email) ignored"
+  }
 }

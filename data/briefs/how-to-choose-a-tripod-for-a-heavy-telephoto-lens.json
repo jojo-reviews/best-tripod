@@ -12,6 +12,30 @@
   ],
   "entities": [
     {
+      "name": "Camera",
+      "type": "component",
+      "relation": "part of the rig weight (body + lens + head) the legs carry",
+      "salience": 0.63
+    },
+    {
+      "name": "Lens",
+      "type": "component",
+      "relation": "mounted by its tripod collar near the balance point, not by the camera",
+      "salience": 0.83
+    },
+    {
+      "name": "Telephoto lens",
+      "type": "lens type",
+      "relation": "the load the tripod must hold still; weight sets leg size and head type",
+      "salience": 0.86
+    },
+    {
+      "name": "tripod",
+      "type": "concept",
+      "relation": "the central entity's parent: three-legged camera support sized here for long lenses (TextRazor: Tripod (photography))",
+      "salience": 0.96
+    },
+    {
       "name": "load capacity",
       "type": "spec",
       "relation": "maker rating for legs and head, not a standardized measurement"
@@ -34,7 +58,7 @@
     {
       "name": "lens collar",
       "type": "part",
-      "relation": "mounting point that balances a heavy telephoto"
+      "relation": "mounting point that balances a heavy telephoto (tripod collar)"
     },
     {
       "name": "gimbal head",
@@ -420,5 +444,22 @@
       "section": "Check 4 – Match the head and mount the lens by its foot",
       "note": "2017, older than 5 years, but no newer video on page one shows the same task: a wildlife photographer explains his Gitzo Systematic plus gimbal setup for supertelephotos versus a lighter ball-head kit."
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-10-31",
+    "pagesAnalyzed": [
+      "https://www.slrlounge.com/best-heavy-duty-tripod/",
+      "https://www.ulanzi.com/blogs/news/tripod-head-telephoto-lenses-guide"
+    ],
+    "blocked": [
+      "dpreview.com",
+      "bcgforums.com",
+      "photo.stackexchange.com",
+      "adorama.com",
+      "manfrotto.com",
+      "reddit.com"
+    ],
+    "missingFromPost": [],
+    "file": "data/briefs/how-to-choose-a-tripod-for-a-heavy-telephoto-lens.entities.json"
+  }
 }
