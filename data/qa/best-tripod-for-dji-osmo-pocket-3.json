@@ -1,14 +1,18 @@
 {
   "slug": "best-tripod-for-dji-osmo-pocket-3",
   "pass": true,
-  "checkedAt": "2026-10-31T17:43:55.875Z",
+  "checkedAt": "2026-10-31T17:46:39.749Z",
   "errors": [],
   "warnings": [
     "product \"DJI Osmo Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-79 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "source didn't respond normally (403): https://www.videomaker.com/reviews/cameras/dji-osmo-pocket-3-review-a-major-step-forward/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html",
+    "source didn't respond normally (403): https://www.pgytech.com/products/mantispod-z",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1786759-REG/pgytech_p_gm_158_mantispod_z.html"
   ],
   "factCheck": {
     "verified": true,

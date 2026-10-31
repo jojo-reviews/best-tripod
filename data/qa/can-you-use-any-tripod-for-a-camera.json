@@ -1,14 +1,23 @@
 {
   "slug": "can-you-use-any-tripod-for-a-camera",
   "pass": true,
-  "checkedAt": "2026-10-31T17:44:00.483Z",
+  "checkedAt": "2026-10-31T17:48:35.692Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
+    "source didn't respond normally (403): https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w",
+    "source didn't respond normally (403): https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443"
   ],
   "factCheck": {
     "verified": true,

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-quick-release-plate",
   "pass": true,
-  "checkedAt": "2026-10-31T10:29:34.458Z",
+  "checkedAt": "2026-10-31T17:48:18.045Z",
   "errors": [],
   "warnings": [
     "product \"FALCAM F38 Quick Release Kit V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,11 @@
     "product \"NEEWER QPR-5 Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.pgytech.com/products/arca-type-quick-release-clamp-plate-v2",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/quick-release-plate.4823610/",
+    "source didn't respond normally (403): https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/"
   ],
   "factCheck": {
     "verified": true,

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-under-100",
   "pass": true,
-  "checkedAt": "2026-10-31T10:33:51.419Z",
+  "checkedAt": "2026-10-31T17:48:28.501Z",
   "errors": [],
   "warnings": [
     "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,15 @@
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+    "source didn't respond normally (403): https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24105g-2",
+    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
   ],
   "factCheck": {
     "verified": true,

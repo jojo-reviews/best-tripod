@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-medium-format-camera",
   "pass": true,
-  "checkedAt": "2026-10-31T10:32:22.104Z",
+  "checkedAt": "2026-10-31T17:47:24.255Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,15 @@
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1183070-REG/manfrotto_mt055cxpro3_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034143-REG/manfrotto_mk055xpro3_3w_mt055xpro3_3w_aluminum_tripod_with.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1013304-REG/manfrotto_190xpro3_compact_3_section.html/reviews",
+    "source didn't respond normally (403): https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+    "source didn't respond normally (403): https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
   ],
   "factCheck": {
     "verified": true,

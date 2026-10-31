@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-product-photography",
   "pass": true,
-  "checkedAt": "2026-10-31T10:31:32.518Z",
+  "checkedAt": "2026-10-31T17:47:38.147Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,9 @@
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kentfaith.com/KF09.086_k-f-sa254t1-lightweight-compact-tripod-for-canon-nikon-camera-professional-dslr-photography-93inch-aluminium",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/"
   ],
   "factCheck": {
     "verified": true,
