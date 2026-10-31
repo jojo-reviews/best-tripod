@@ -440,6 +440,8 @@ heroImage: /images/featured/best-tripod-for-laser-level.png
 heroAlt: >-
   Best Tripod for Laser Level (2026) – 5 Picks by Thread and Height – Best
   Tripod buying guide
+related:
+  - best-tripod-quick-release-plate
 ---
 
 The best tripod for laser level work is the one that matches your laser's thread and the heights you mark. For a line laser on a 1/4-20 socket, I'd pick the Bosch BT150: it works from [22 in to 61 in](https://www.boschtools.com/us/en/products/bt-150-0601096B10) and has a crank for fine moves. For a rotary laser on a 5/8-11 base, the Bosch BT160 is my outdoor pick. Our [tripod buying checklist](/tripod-buying-checklist/) covers the basics both share.

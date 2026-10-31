@@ -5440,7 +5440,7 @@
     "publishedAt": "2026-10-30T10:35:30.659Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for dji osmo action 5 pro",
@@ -5459,10 +5459,13 @@
     "funnel": "bofu",
     "cluster": "action",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-31T10:19:26.159Z",
+    "productCount": 5,
+    "publishedAt": "2026-10-31T10:33:54.282Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for medium format camera",
@@ -5480,10 +5483,12 @@
     "funnel": "bofu",
     "cluster": "medium",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 6,
+    "publishedAt": "2026-10-31T10:32:29.152Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod quick release plate",
@@ -5501,10 +5506,12 @@
     "funnel": "bofu",
     "cluster": "qr",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-31T10:19:27.455Z",
+    "publishedAt": "2026-10-31T10:29:42.610Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod under 100",
@@ -5523,7 +5530,10 @@
     "funnel": "bofu",
     "cluster": "budget",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 4 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-10-31T10:19:36.773Z",
+    "publishedAt": "2026-10-31T10:33:57.490Z"
   },
   {
     "status": "pending",
@@ -5607,7 +5617,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for product photography",
@@ -5624,7 +5634,9 @@
     "funnel": "bofu",
     "cluster": "product",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-10-31T10:19:29.866Z",
+    "publishedAt": "2026-10-31T10:31:43.610Z"
   },
   {
     "status": "pending",

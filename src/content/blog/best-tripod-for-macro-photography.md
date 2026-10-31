@@ -465,6 +465,7 @@ videos:
   - id: ILPAEVRDvsM
     afterHeading: 5
 related:
+  - best-tripod-for-product-photography
   - l-bracket-for-landscape-photography
   - best-tripod-for-astrophotography
 heroImage: /images/featured/best-tripod-for-macro-photography.png

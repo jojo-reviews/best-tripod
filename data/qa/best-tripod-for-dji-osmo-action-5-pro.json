@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-dji-osmo-action-5-pro",
+  "pass": true,
+  "checkedAt": "2026-10-31T10:33:48.622Z",
+  "errors": [],
+  "warnings": [
+    "product \"DJI Osmo Action Mini Extension Rod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig Action Cam Selfie Stick Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DJI Osmo Action 1.5m Extension Rod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Insta360 2-in-1 Invisible Selfie Stick Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Ulanzi MT-16 Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified via Firecrawl on 2026-10-31: Action 5 Pro 146 g, 70.5x44.2x32.8 mm, 240 min (1080p/24fps) on dji.com/osmo-action-5-pro/specs. DJI Mini Extension Rod 110.3 g, 139.5 mm stowed, 429 mm extended, 30.4 mm, built-in tripod, ball joint, compat Action 5 Pro/4/3 (store.dji.com product page; Amazon B0C6F5CJM8 in stock, ships from Amazon, 4 sections). SmallRig 5435: 20-55 cm, 195 g, 500 g load, 4 sections, 360 ball head, cold shoe, removable quick-release over 1/4-20, aluminum/nylon/silicone, not for Action 6/Nano (smallrig.com + Amazon B0FHDBJK5Z sold by SmallRig, ships from Amazon). DJI 1.5m Extension Rod Kit: 0.3-1.5 m, 227 mm collapsed, 26.6 mm, 160 g, 1/4 hole, kit = rod + quick-release adapter mount + locking screw, compat Action 6/Nano(adapter)/5 Pro/4/3 (store.dji.com + Amazon B0B8ZR2JKD). Insta360 2-in-1: 9.6-42.9 in (B&H), 24.5 cm folded and 216 g (Amazon B08R5K1YST, Insta360 Direct, ships from Amazon), 1/4 screw, built-in tripod (Insta360 blog). Ulanzi MT-16: 22-44 cm, 170 g, ball head, cold shoe (ulanzi.com; Amazon B08NWYFTV6 Ulanzi Official US Store, ships from Amazon), 500 g vertical-mode note on Ulanzi Amazon listing B08LGGXH1J. Dual-Direction Mini Extension Rod compat Osmo 360 II/Nano/Action 6 (store.dji.com). Neewer AC011 1/4 thread (neewer blog). Quotes checked verbatim against search excerpts of the Reddit threads (r/djiosmo 1gfiwnu, 1rrgu5j; r/dji 1rzklnr, 1l6xh44; r/djiosmo360 1mpo5d8), SmallRig verified buyer review and DPReview MT-16 thread. Removed an unverifiable claim tying an r/djiosmo360 stability comment to the 1.5m rod.",
+    "at": "2026-10-31T10:33:47.983Z",
+    "hash": "c66bdfb5052f4744"
+  }
+}

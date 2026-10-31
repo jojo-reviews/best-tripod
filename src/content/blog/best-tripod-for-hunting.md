@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
-  - best-tripod-for-gym-videos
-  - best-tripod-for-nikon-p1000
-  - best-tripod-for-laser-level
-  - best-tripod-for-fujifilm-x100vi
+  - best-tripod-under-100
+  - best-tripod-for-dji-osmo-action-5-pro
+  - best-tripod-for-medium-format-camera
+  - best-tripod-for-product-photography
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

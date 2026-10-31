@@ -1,0 +1,596 @@
+{
+  "centralEntity": "tripod for DJI Osmo Action 5 Pro",
+  "entityVariants": [
+    "Osmo Action 5 Pro tripod",
+    "DJI Action 5 Pro tripod",
+    "tripod for Osmo Action 5",
+    "Action 5 Pro selfie stick tripod",
+    "Osmo Action tripod"
+  ],
+  "entities": [
+    {
+      "name": "DJI Osmo Action 5 Pro",
+      "type": "camera",
+      "relation": "the 146 g action camera the tripod holds",
+      "salience": 0.82
+    },
+    {
+      "name": "DJI",
+      "type": "company",
+      "relation": "camera maker; makes the Mini Extension Rod and 1.5m Extension Rod Kit",
+      "salience": 0.63
+    },
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "the product type compared",
+      "salience": 0.52
+    },
+    {
+      "name": "selfie stick",
+      "type": "camera support",
+      "relation": "most picks are selfie-stick tripods that open into a stand",
+      "salience": 0.43
+    },
+    {
+      "name": "magnetic quick-release",
+      "type": "mount",
+      "relation": "DJI's camera mount; the Action 5 Pro has no tripod thread of its own",
+      "salience": 0.5
+    },
+    {
+      "name": "Osmo Action Mini Extension Rod",
+      "type": "product",
+      "relation": "DJI's palm-size rod with a built-in tripod",
+      "salience": 0.45
+    },
+    {
+      "name": "Osmo Action 1.5m Extension Rod Kit",
+      "type": "product",
+      "relation": "DJI's 0.3 to 1.5 m rod with a 1/4\" hole for a base",
+      "salience": 0.4
+    },
+    {
+      "name": "SmallRig 5435",
+      "type": "product",
+      "relation": "grip tripod with removable DJI quick-release adapter and cold shoe",
+      "salience": 0.4
+    },
+    {
+      "name": "Insta360 2-in-1 Invisible Selfie Stick + Tripod",
+      "type": "product",
+      "relation": "1/4\" stick tripod to 42.9 in",
+      "salience": 0.35
+    },
+    {
+      "name": "Ulanzi MT-16",
+      "type": "product",
+      "relation": "22 to 44 cm tabletop tripod with ball head and cold shoe",
+      "salience": 0.35
+    },
+    {
+      "name": "1/4\"-20 thread",
+      "type": "standard",
+      "relation": "screw used by the Insta360 and Ulanzi picks; needs a DJI-to-1/4\" adapter",
+      "salience": 0.3
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "levels the camera and allows vertical framing",
+      "salience": 0.3
+    },
+    {
+      "name": "cold shoe",
+      "type": "mount",
+      "relation": "holds a DJI Mic receiver or a light",
+      "salience": 0.25
+    },
+    {
+      "name": "Osmo Action 6",
+      "type": "camera",
+      "relation": "newer model whose Dual-Direction accessories do not list the Action 5 Pro",
+      "salience": 0.25
+    },
+    {
+      "name": "timelapse",
+      "type": "shooting mode",
+      "relation": "main reason to set an action camera on a tripod",
+      "salience": 0.25
+    }
+  ],
+  "attributes": [
+    "max height",
+    "folded length",
+    "weight",
+    "payload",
+    "mount type (DJI quick-release or 1/4\")",
+    "ball head",
+    "cold shoe",
+    "sections",
+    "built-in tripod legs",
+    "compatibility by Osmo Action generation"
+  ],
+  "ngrams": [
+    "tripod for dji osmo action 5 pro",
+    "osmo action 5 pro",
+    "selfie stick tripod",
+    "mini extension rod",
+    "quick release adapter",
+    "magnetic quick release",
+    "built-in tripod",
+    "ball head",
+    "cold shoe",
+    "1.5m extension rod"
+  ],
+  "skipgrams": [
+    "action 5 pro…tripod",
+    "quick…release",
+    "selfie…stick",
+    "ball…head",
+    "extension…rod",
+    "tripod…legs"
+  ],
+  "nlpTerms": [
+    "vlogging",
+    "timelapse",
+    "hyperlapse",
+    "extendable",
+    "telescopic",
+    "payload",
+    "aluminum alloy",
+    "nylon",
+    "silicone feet",
+    "handheld",
+    "grip",
+    "adapter",
+    "magnet",
+    "tether",
+    "wind",
+    "POV",
+    "DJI Mic"
+  ],
+  "questions": [
+    "What tripod works with the DJI Osmo Action 5 Pro?",
+    "Does the Osmo Action 5 Pro have a tripod mount?",
+    "Is the DJI Osmo Action Mini Extension Rod worth it?",
+    "Do Osmo Action 6 tripods fit the Action 5 Pro?",
+    "Can I use a GoPro or regular tripod with the Action 5 Pro?"
+  ],
+  "contentGaps": [
+    "The Action 5 Pro body has no 1/4\" thread: tripods either take the DJI quick-release directly or need a quick-release adapter with a 1/4\" socket",
+    "Action 6 / Nano accessories (Dual-Direction rods) do not list the Action 5 Pro, and SmallRig 5435 does not fit the Action 6",
+    "Payload headroom against the 146 g camera (SmallRig 500 g)",
+    "Real reach per pick: 42.9 cm, 44 cm, 55 cm, 109 cm and 1.5 m",
+    "Tethering the magnetic mount on tall or windy setups"
+  ],
+  "outline": [
+    {
+      "h2": "Best tripod for DJI Osmo Action 5 Pro picks at a glance",
+      "intent": "direct answer and comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Osmo Action 5 Pro tripods",
+      "intent": "method, evidence, From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Osmo Action 5 Pro, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "DJI Osmo Action Mini Extension Rod",
+        "SmallRig 5435 Action Cam Selfie Stick Tripod",
+        "DJI Osmo Action 1.5m Extension Rod Kit",
+        "Insta360 2-in-1 Invisible Selfie Stick Tripod",
+        "Ulanzi MT-16 Extendable Tripod"
+      ]
+    },
+    {
+      "h2": "Which Osmo Action 5 Pro tripod should you get",
+      "intent": "decision rule",
+      "h3": []
+    },
+    {
+      "h2": "How to mount the Osmo Action 5 Pro on a tripod",
+      "intent": "numbered steps; quick-release vs 1/4\" adapter",
+      "h3": []
+    },
+    {
+      "h2": "What payload and height an Osmo Action 5 Pro tripod needs",
+      "intent": "analysis of headroom and reach",
+      "h3": []
+    },
+    {
+      "h2": "Osmo Action 5 Pro tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1300,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+      "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+      "https://www.youtube.com/watch?v=PFb-GN7CEe4",
+      "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+      "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations",
+      "https://www.snapsbyfox.com/blog/the-best-dji-action-accessories-for-travel-youtube-action-4-5-6-nano",
+      "https://improvephotography.com/72078/best-gopro-tripod/",
+      "https://fixthephoto.com/best-gopro-tripod.html",
+      "https://thesweetcamera.com/best-gopro-tripod/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The exact-keyword top 10 is mostly store, forum and video pages; the article-style results (Best Budget Info, Gear for Greatness) give a short paragraph per product, and the closest full action-camera tripod roundups (best tripod for GoPro top results) use pros and cons lists, which fit a 5-product roundup best.",
+    "avgWords": 1290,
+    "avgWordsNote": "Exact-keyword articles are short (Best Budget Info about 600, Gear for Greatness about 950, Roman Fox about 500 words of accessory text); averaged with the five full roundups behind the sibling query best tripod for GoPro (1650 average in data/briefs/best-tripod-for-gopro.json) because no exact-keyword page is a full 5-product roundup.",
+    "avgProducts": 3,
+    "commonSections": [
+      "product list",
+      "short product paragraphs",
+      "mount/quick-release notes",
+      "buy links"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+      "title": "Best Osmo Action Accessories for Vlog - DJI Store"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/djiosmo/comments/1lbq65v/new_action_5_pro_need_accessory_recommendations/",
+      "title": "New Action 5 Pro - Need Accessory Recommendations : r/djiosmo"
+    },
+    {
+      "position": 3,
+      "url": "https://www.amazon.com/Quick-Release-Extendable-Extension-Accessories-Recording/dp/B0F7KJCJF1",
+      "title": "21.4\" Osmo Action Selfie Stick Tripod, for DJI Action 5 Pro/4/3, Osmo 360"
+    },
+    {
+      "position": 4,
+      "url": "https://www.facebook.com/groups/1191098443064833/posts/1402446458596696/",
+      "title": "What are the best magnetic tripods for DJI Osmo Action? - Facebook"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=JhRDPPoem3E",
+      "title": "The Ultimate All-in-One Mount for DJI Osmo Action! Flymile Mini tripod ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+      "title": "Action Cam Tripod & Selfie Stick | Quick Release - SmallRig"
+    },
+    {
+      "position": 7,
+      "url": "https://www.facebook.com/groups/3834444750157246/posts/3991641177770935/",
+      "title": "What dji osmo action 4 or 5 pro extendable tripod stands are ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=dji%20osmo%20tripod",
+      "title": "dji osmo tripod - Best Buy"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=PFb-GN7CEe4",
+      "title": "Tripods for DJI Osmo Action Cameras - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://www.telesinstore.com/collections/for-dji",
+      "title": "DJI Osmo Accessories | Tripods, Mounts & Filters - telesinstore"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "Osmo Action",
+      "selfie stick",
+      "mini",
+      "magnetic",
+      "quick release",
+      "extendable"
+    ],
+    "gap": "No top result is an Action 5 Pro tripod roundup; none gives the reach range from a 43 cm grip to a 1.5 m rod or warns that Action 6 accessories may not fit."
+  },
+  "commonPoints": [
+    "Selfie-stick tripods double as a handheld grip",
+    "DJI's quick-release mounting is faster than a screw",
+    "A ball head helps with vertical framing",
+    "A cold shoe lets you add a mic or light",
+    "DJI's own Mini Extension Rod is the compact official option"
+  ],
+  "ourGain": [
+    {
+      "type": "situation",
+      "point": "The Action 5 Pro has no tripod thread: three picks take the DJI quick-release directly (or ship the adapter), two need a quick-release adapter with a 1/4\" socket",
+      "source": "https://www.dji.com/osmo-action-5-pro/specs; https://store.dji.com/product/osmo-action-3-extension-rod-kit; https://neewer.com/blogs/blog/best-dji-osmo-action-accessories",
+      "absentFrom": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Generation trap: DJI lists the Dual-Direction Mini Extension Rod for Osmo 360 II, Nano and Action 6 only, and SmallRig marks the 5435 adapter not compatible with Action 6 / Nano",
+      "source": "https://store.dji.com/product/osmo-action-dual-direction-mini-extension-rod; SmallRig 5435 Amazon listing",
+      "absentFrom": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Payload headroom: the 146 g camera is under a third of the SmallRig 500 g rating (about 3.4x), leaving room for a mic on the cold shoe",
+      "source": "https://www.dji.com/osmo-action-5-pro/specs; https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+      "absentFrom": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Reach ladder: DJI Mini Rod 42.9 cm, Ulanzi MT-16 44 cm, SmallRig 55 cm, Insta360 42.9 in (109 cm), DJI 1.5m rod 1.5 m; only the last two get a standing subject in frame from chest height",
+      "source": "maker spec pages (DJI Store, SmallRig, Ulanzi, B&H)",
+      "absentFrom": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by shot: pocket and tabletop (DJI Mini Rod), tabletop vlog with mic (SmallRig 5435), group shots and drone-style reach (DJI 1.5m rod plus a base), one stick for several cameras (Insta360 2-in-1), cheapest desk stand you may already own (Ulanzi MT-16)",
+      "source": "own decision rule from verified specs",
+      "absentFrom": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/",
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tabletop-mini-tripods-osmo-action-mini-rod-too-short",
+      "pain": "DJI's Osmo Action Mini Extension Rod has to be extended before it stands steady, and feels plasticky",
+      "details": "An r/djiosmo owner of an Action 5 says the mini rod is not usable as a tripod without extending it and that it feels cheap; owners asking for a small tripod are pointed to sturdier third-party grips.",
+      "sources": [
+        "https://www.reddit.com/r/djiosmo/comments/1gfiwnu/anyone_has_any_feedback_related_to_the_dji_mini/"
+      ],
+      "quotes": [
+        {
+          "text": "I wouldn't recommend the DJI mini tripod. Two issues: can't use it as a tripod without extending it out",
+          "url": "https://www.reddit.com/r/djiosmo/comments/1gfiwnu/anyone_has_any_feedback_related_to_the_dji_mini/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-osmo-action-magnetic-mount-pops-off",
+      "pain": "The magnetic quick-release can let go under vibration, so owners worry about the camera falling off a pole or tripod",
+      "details": "r/dji owners report the Action 5 Pro magnetic mount holding fine for skiing but popping off on mountain-bike handlebars; one owner who lost a camera now ties a safety line to the quick-release fingers.",
+      "sources": [
+        "https://www.reddit.com/r/dji/comments/1rzklnr/how_safe_is_the_magnetic_mount_on_the_osmo_action/",
+        "https://www.reddit.com/r/dji/comments/1l6xh44/lost_my_dji_osmo_action_5_while_wingfoiling/"
+      ],
+      "quotes": [
+        {
+          "text": "put on the handlebars of a mountain bike and it came off in a few seconds",
+          "url": "https://www.reddit.com/r/dji/comments/1rzklnr/how_safe_is_the_magnetic_mount_on_the_osmo_action/"
+        },
+        {
+          "text": "I used a Dynacord safety line and tied it to the fingers of the magnetic quick release",
+          "url": "https://www.reddit.com/r/dji/comments/1l6xh44/lost_my_dji_osmo_action_5_while_wingfoiling/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-osmo-action-tall-stick-flimsy",
+      "pain": "Long selfie-stick tripods feel flimsy or heavy, and it is hard to find one that is both light and steady",
+      "details": "An r/djiosmo360 owner comparing stick tripods found the DJI option the most stable but heavy, the Insta360 one flimsy without a rubber grip; a DPReview member says the Ulanzi MT-16 suits small cameras better than still cameras.",
+      "sources": [
+        "https://www.reddit.com/r/djiosmo360/comments/1mpo5d8/best_lightweight_tripod_selfie_stick/",
+        "https://www.dpreview.com/forums/threads/ulanzi-mt-16-tripod.4619468/"
+      ],
+      "quotes": [
+        {
+          "text": "DJI has one, appears most stable but quite heavy, the Insta360 seems flimsy and has no rubber grip",
+          "url": "https://www.reddit.com/r/djiosmo360/comments/1mpo5d8/best_lightweight_tripod_selfie_stick/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-osmo-action-wrong-generation-mount",
+      "pain": "Accessories made for the Action 6 and Osmo Nano look the same but do not fit the Action 5 Pro, and the reverse",
+      "details": "DJI lists its Dual-Direction Mini Extension Rod for the Osmo 360 II, Nano and Action 6 only, while SmallRig's 5435 adapter is marked not compatible with the Action 6 and Nano, so buyers searching 'Osmo Action tripod' can pick the wrong generation.",
+      "sources": [
+        "https://store.dji.com/product/osmo-action-dual-direction-mini-extension-rod",
+        "https://store.dji.com/product/osmo-action-mini-extension-rod"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "146 g",
+      "claim": "DJI Osmo Action 5 Pro weight",
+      "url": "https://www.dji.com/osmo-action-5-pro/specs",
+      "quote": "Weight 146 g"
+    },
+    {
+      "number": "240 mins",
+      "claim": "Action 5 Pro operating time (1080p/24fps, DJI test)",
+      "url": "https://www.dji.com/osmo-action-5-pro/specs",
+      "quote": "Operating Time 240 mins"
+    },
+    {
+      "number": "500g",
+      "claim": "SmallRig 5435 tripod load capacity",
+      "url": "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+      "quote": "Tripod Load Capacity: 500g"
+    },
+    {
+      "number": "0.3 to 1.5 meters",
+      "claim": "DJI 1.5m Extension Rod adjustable length",
+      "url": "https://store.dji.com/product/osmo-action-3-extension-rod-kit",
+      "quote": "Compact, easy to hold, and adjustable from 0.3 to 1.5 meters"
+    }
+  ],
+  "videos": [
+    {
+      "id": "4y7aNzhlDRM",
+      "title": "DJI Osmo Action 1.5m Extension Rod Kit Review",
+      "channel": "Adam Talks Tech",
+      "url": "https://www.youtube.com/watch?v=4y7aNzhlDRM",
+      "section": "The 5 best tripods for the Osmo Action 5 Pro, reviewed"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "DJI Osmo Action Mini Extension Rod",
+      "pages": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.youtube.com/watch?v=PFb-GN7CEe4",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/"
+      ]
+    },
+    {
+      "name": "SmallRig 5435 Grip-Tripod (Action Cam Selfie Stick Tripod)",
+      "pages": [
+        "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html",
+        "https://www.youtube.com/watch?v=PFb-GN7CEe4",
+        "https://bestbudgetinfo.com/essential-tripod-solutions-for-the-dji-osmo-action-series-in-2025/"
+      ]
+    },
+    {
+      "name": "DJI Osmo Action 1.5m Extension Rod Kit",
+      "pages": [
+        "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+        "https://www.facebook.com/groups/osmoactionph/posts/1180991784005574/",
+        "https://www.youtube.com/watch?v=4y7aNzhlDRM"
+      ]
+    },
+    {
+      "name": "Insta360 2-in-1 Invisible Selfie Stick + Tripod",
+      "pages": [
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations",
+        "https://www.reddit.com/r/djiosmo360/comments/1mpo5d8/best_lightweight_tripod_selfie_stick/"
+      ]
+    },
+    {
+      "name": "Ulanzi MT-16",
+      "pages": [
+        "https://www.reddit.com/r/djiosmo/comments/1rrgu5j/whats_your_favorite_tripodselfie_stick_for_your/",
+        "https://www.ulanzi.com/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052",
+        "https://www.dpreview.com/forums/threads/ulanzi-mt-16-tripod.4619468/"
+      ]
+    },
+    {
+      "name": "TELESIN extendable tripod (not featured: no page names one exact model)",
+      "pages": [
+        "https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations",
+        "https://www.telesinstore.com/collections/for-dji"
+      ]
+    },
+    {
+      "name": "Flymile mini tripod & selfie stick (not featured: only one sponsored video)",
+      "pages": [
+        "https://www.youtube.com/watch?v=JhRDPPoem3E"
+      ]
+    },
+    {
+      "name": "Ulanzi MT-79 (not featured for this camera: one Facebook mention)",
+      "pages": [
+        "https://www.facebook.com/groups/1191098443064833/posts/1402446458596696/"
+      ]
+    }
+  ],
+  "textrazor": {
+    "pagesAnalyzed": 5,
+    "sharedEntities": [
+      {
+        "entity": "DJI",
+        "type": "Agent",
+        "pages": 4,
+        "relevance": 0.63,
+        "wiki": "http://en.wikipedia.org/wiki/DJI"
+      },
+      {
+        "entity": "Tripod",
+        "type": "",
+        "pages": 3,
+        "relevance": 0.52,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      },
+      {
+        "entity": "Selfie stick",
+        "type": "/business/product_category",
+        "pages": 3,
+        "relevance": 0.43,
+        "wiki": "http://en.wikipedia.org/wiki/Selfie_stick"
+      },
+      {
+        "entity": "Osmo Action",
+        "type": "Company",
+        "pages": 2,
+        "relevance": 0.82,
+        "wiki": ""
+      },
+      {
+        "entity": "DJI Osmo",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.68,
+        "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo"
+      },
+      {
+        "entity": "Camera",
+        "type": "/fictional_universe/character_species",
+        "pages": 2,
+        "relevance": 0.43,
+        "wiki": "http://en.wikipedia.org/wiki/Camera"
+      },
+      {
+        "entity": "Warranty",
+        "type": "/organization/organization_sector",
+        "pages": 2,
+        "relevance": 0.25,
+        "wiki": "http://en.wikipedia.org/wiki/Warranty"
+      },
+      {
+        "entity": "Selfie",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.2,
+        "wiki": "http://en.wikipedia.org/wiki/Selfie"
+      }
+    ]
+  },
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-gopro",
+      "find": "GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount.",
+      "replace": "GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/))."
+    },
+    {
+      "slug": "best-tripod-for-dji-osmo-pocket-3",
+      "find": "A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods.",
+      "replace": "A mic and light add weight above the legs, which is why add-ons, not the camera, tip small tripods (the same holds for our [tripods for the Osmo Action 5 Pro](/blog/best-tripod-for-dji-osmo-action-5-pro/))."
+    }
+  ]
+}

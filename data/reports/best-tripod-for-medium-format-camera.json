@@ -1,0 +1,684 @@
+{
+  "keyword": "best tripod for medium format camera",
+  "createdAt": "2026-10-31T10:32:29.156Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for medium format camera",
+    "entityVariants": [
+      "medium format tripod",
+      "tripod for medium format",
+      "tripod for large format camera",
+      "tripod for Mamiya RB67",
+      "tripod for RB67",
+      "tripod for Fujifilm GFX",
+      "tripod for Hasselblad"
+    ],
+    "entities": [
+      {
+        "name": "tripod for medium format camera",
+        "type": "central entity",
+        "relation": "what the searcher wants to buy",
+        "salience": 1
+      },
+      {
+        "name": "tripod",
+        "type": "product",
+        "relation": "TextRazor relevance 0.78 on 4 of 4 analyzed top pages (TextRazor: Tripod (photography))",
+        "salience": 0.78
+      },
+      {
+        "name": "medium format",
+        "type": "camera format",
+        "relation": "film (645, 6x7) and digital (44x33 mm) bodies; TextRazor 0.38 on 3 pages (TextRazor: Medium format)",
+        "salience": 0.6
+      },
+      {
+        "name": "Gitzo",
+        "type": "brand",
+        "relation": "Systematic Series 3 named on 6 top pages; TextRazor 0.63 on 3 pages",
+        "salience": 0.63
+      },
+      {
+        "name": "Manfrotto",
+        "type": "brand",
+        "relation": "055 and 190 legs named on forum threads and Film Photography Project",
+        "salience": 0.6
+      },
+      {
+        "name": "carbon fiber",
+        "type": "material",
+        "relation": "carbon legs damp vibration and save weight; TextRazor 0.45 on 3 pages (TextRazor: Carbon-fiber reinforced polymer)",
+        "salience": 0.5
+      },
+      {
+        "name": "Mamiya RB67",
+        "type": "camera",
+        "relation": "heavy 6x7 film SLR, 2,645 g with 127 mm lens and 120 back per the Pro-SD brochure",
+        "salience": 0.6
+      },
+      {
+        "name": "Fujifilm GFX100S II",
+        "type": "camera",
+        "relation": "digital medium format body, approx. 883 g with battery and card",
+        "salience": 0.5
+      },
+      {
+        "name": "Hasselblad X2D",
+        "type": "camera",
+        "relation": "digital medium format body owners ask about on Camera Rumors",
+        "salience": 0.35
+      },
+      {
+        "name": "Really Right Stuff",
+        "type": "brand",
+        "relation": "TVC tripods and BH-55 heads named on 2 pages (TextRazor 0.56); not sold on Amazon (TextRazor: Really Right Stuff (RRS))",
+        "salience": 0.45
+      },
+      {
+        "name": "tripod head",
+        "type": "part",
+        "relation": "ball vs 3-way vs geared head for a heavy body (TextRazor: Tripod head)",
+        "salience": 0.55
+      },
+      {
+        "name": "geared head",
+        "type": "part",
+        "relation": "Arca-Swiss Cube, Manfrotto 405/410 recommended for fine framing with heavy cameras (TextRazor: Geared head)",
+        "salience": 0.45
+      },
+      {
+        "name": "center column",
+        "type": "part",
+        "relation": "systematic tripods drop it for stability; raising it adds shake (TextRazor: Center column)",
+        "salience": 0.45
+      },
+      {
+        "name": "landscape photography",
+        "type": "use",
+        "relation": "main use case on Ben Horne, Unique Photo and Camera Rumors; TextRazor 0.41 (TextRazor: Landscape photography)",
+        "salience": 0.41
+      },
+      {
+        "name": "long exposure",
+        "type": "use",
+        "relation": "why stability matters; TextRazor 0.32 (TextRazor: Long-exposure photography)",
+        "salience": 0.32
+      },
+      {
+        "name": "load capacity",
+        "type": "attribute",
+        "relation": "safety payload vs camera weight (TextRazor: Load capacity)",
+        "salience": 0.55
+      },
+      {
+        "name": "mirror lock-up",
+        "type": "technique",
+        "relation": "cuts mirror slap on film SLRs (TextRazor: Mirror lock-up)",
+        "salience": 0.3
+      },
+      {
+        "name": "Arca-Swiss",
+        "type": "standard",
+        "relation": "plate and clamp standard; C1 Cube and Quick-Link on Ben Horne",
+        "salience": 0.4
+      }
+    ],
+    "attributes": [
+      "safety payload vs camera-and-lens weight",
+      "height without a center column",
+      "top leg tube diameter",
+      "weight and folded length",
+      "leg lock type (twist vs flip)",
+      "head type: ball, 3-way or geared",
+      "flat platform vs center column",
+      "leg sections"
+    ],
+    "ngrams": [
+      "medium format camera",
+      "medium format tripod",
+      "center column",
+      "ball head",
+      "geared head",
+      "carbon fiber",
+      "load capacity",
+      "long exposure",
+      "waist level finder",
+      "systematic tripod",
+      "mirror lock up",
+      "3-way head"
+    ],
+    "skipgrams": [
+      "tripod…medium format",
+      "column…down",
+      "load…rating",
+      "head…heavy",
+      "legs…carbon",
+      "mirror…vibration"
+    ],
+    "nlpTerms": [
+      "RB67",
+      "RZ67",
+      "Pentax 67",
+      "Hasselblad",
+      "GFX",
+      "645",
+      "6x7",
+      "4x5",
+      "large format",
+      "view camera",
+      "safety payload",
+      "UNI/PdR 105:2021",
+      "Gitzo Systematic",
+      "Manfrotto 055",
+      "Manfrotto 190",
+      "Peak Design",
+      "twist lock",
+      "flip lock",
+      "Quick Power Lock",
+      "leveling base",
+      "Arca-Swiss",
+      "cable release",
+      "mirror slap",
+      "waist-level finder",
+      "spiked feet",
+      "wind"
+    ],
+    "questions": [
+      "What is the best tripod for a medium format camera?",
+      "How much load capacity does a medium format camera need?",
+      "Is a ball head OK for a Mamiya RB67 or Pentax 67?",
+      "Is carbon fiber stable enough for medium format?",
+      "Can a travel tripod hold a Fujifilm GFX or Hasselblad X2D?",
+      "Do I need a center column for medium format?"
+    ],
+    "contentGaps": [
+      "Load headroom of each pick against a real RB67 (2,645 g) and a GFX100S II (883 g)",
+      "How much working height you need with a waist-level finder versus an eye-level EVF",
+      "Which head type works for a heavy body, with a fix for ball-head droop",
+      "A chooser by camera type and how far you carry it",
+      "Mirror slap and wind fixes for film medium format"
+    ],
+    "outline": [
+      {
+        "h2": "Best tripod for medium format camera picks at a glance",
+        "intent": "short answer, comparison table",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these medium format tripods",
+        "intent": "method, which pages recommend them, From our notes block",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for medium format cameras, reviewed",
+        "intent": "one section per product",
+        "h3": [
+          "Gitzo GT3543LS Systematic Series 3",
+          "Manfrotto 055 Aluminum 3-Section Tripod Kit with 3-Way Head (MK055XPRO3-3W)",
+          "Manfrotto MT055CXPRO3 Carbon Fiber 3-Section Tripod",
+          "Manfrotto MT190XPRO3 Aluminum 3-Section Tripod",
+          "Peak Design Travel Tripod (Carbon Fiber)"
+        ]
+      },
+      {
+        "h2": "Which medium format tripod should you get?",
+        "intent": "chooser by camera and carrying distance",
+        "h3": []
+      },
+      {
+        "h2": "How much load a medium format camera puts on a tripod",
+        "intent": "weigh your kit, headroom calculation",
+        "h3": []
+      },
+      {
+        "h2": "Medium format tripod height with a waist-level finder",
+        "intent": "working height by finder type",
+        "h3": []
+      },
+      {
+        "h2": "Medium format tripod problems owners run into, and the fix",
+        "intent": "pain points: flimsy legs, ball-head droop, mirror slap, column and wind shake",
+        "h3": []
+      }
+    ],
+    "targetWords": 1600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.benhorne.com/tripods-heads",
+        "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+        "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+        "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+        "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+        "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography",
+        "https://filmphotographyproject.com/which-tripod/",
+        "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The top results are forum threads and photographer gear pages that discuss each tripod in running prose (Ben Horne, Pentax Forums, Photrio, DPReview, Camera Rumors); none uses pros/cons boxes or spec tables per product.",
+      "avgWords": 1600,
+      "avgProducts": 6,
+      "commonSections": [
+        "tripod recommendations by brand",
+        "head choice (ball vs pan/tilt vs geared)",
+        "weight vs stability trade-off",
+        "carbon vs aluminum"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false,
+      "wordCounts": {
+        "benhorne.com": 2400,
+        "pentaxforums.com": 1320,
+        "photrio.com": 2750,
+        "dpreview.com": 4500,
+        "majestic-nature.com": 235,
+        "uniquephoto.com": 440,
+        "filmphotographyproject.com": 195,
+        "camera-rumors.com": 955
+      }
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/mediumformat/comments/15bqtqa/good_tripod_for_heavy_medium_format_cameras/",
+        "title": "Good tripod for heavy medium format cameras? : r/mediumformat - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "title": "The Best Travel Tripod for 2026 | Pack Hacker"
+      },
+      {
+        "position": 3,
+        "url": "https://www.benhorne.com/tripods-heads",
+        "title": "Tripods & Heads - Ben Horne"
+      },
+      {
+        "position": 4,
+        "url": "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+        "title": "Tripod Options Medium Format? - PentaxForums.com"
+      },
+      {
+        "position": 5,
+        "url": "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography",
+        "title": "Tripod and head recommendations for medium format landscape ..."
+      },
+      {
+        "position": 6,
+        "url": "https://filmphotographyproject.com/which-tripod/",
+        "title": "Which Tripod? - The Film Photography Project"
+      },
+      {
+        "position": 7,
+        "url": "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+        "title": "What tripod do you use? | DPReview Forums"
+      },
+      {
+        "position": 8,
+        "url": "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+        "title": "Tripod recommendation for medium format"
+      },
+      {
+        "position": 9,
+        "url": "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+        "title": "The Best Accessories for MF Technical Cameras"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=K9YEyPkEinY",
+        "title": "Smooth Camera Gear T6 Sleek - Ultimate Tripod for Large ... - YouTube"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 0,
+      "commonModifiers": [
+        "medium format",
+        "tripod",
+        "heavy",
+        "recommendations",
+        "landscape"
+      ],
+      "gap": "No top-10 title starts with the exact keyword, names a number of picks or ties picks to a real camera weight such as the RB67; most are forum questions."
+    },
+    "serpProducts": [
+      {
+        "name": "Gitzo GT3543LS Systematic Series 3",
+        "pages": [
+          "https://www.benhorne.com/tripods-heads",
+          "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/"
+        ],
+        "note": "Ben Horne uses the GT3532LS (successor GT3533LS) Series 3 Systematic; Majestic Nature the Gitzo 3541 Systematic; Camera Rumors names the GT3543LS; Pentax Forums the Gitzo Systematic line; DPReview Medium Format Talk posters a Gitzo 3-series."
+      },
+      {
+        "name": "Manfrotto 055 Aluminum (MT055XPRO3 / MK055XPRO3-3W)",
+        "pages": [
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.thephotoforum.com/threads/mamiya-rb67-owners-tripod.173595/",
+          "https://www.reddit.com/r/AnalogCommunity/comments/1mgb8n4/what_are_your_favorite_tripods_for_medium_format/",
+          "https://filmphotographyproject.com/which-tripod/"
+        ],
+        "note": "Four Photrio posters name the 055 family (055XPROB, 055XDB) for an RB67; Pentax Forums names the 055XPROB; The Photo Forum says the 055 series is up to an RB67; Film Photography Project says any Manfrotto or Gitzo is enough."
+      },
+      {
+        "name": "Manfrotto MT055CXPRO3 (055 carbon)",
+        "pages": [
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.reddit.com/r/AnalogCommunity/comments/19cfvex/tripod_recommends_for_500cm/"
+        ],
+        "note": "Pentax Forums names the Manfrotto 055C; Photrio posters recommend the 055 family; an r/AnalogCommunity reply notes the newer 055s are lighter while still solid. Same 055 line, carbon version; Richard Pickup bought one for large format."
+      },
+      {
+        "name": "Manfrotto MT190XPRO3",
+        "pages": [
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+          "https://www.reddit.com/r/AskPhotography/comments/1glrjte/what_tripod_brands_to_get_and_which_to_stay_away/"
+        ],
+        "note": "Pentax Forums posters use the Manfrotto 190 and 190CF; DPReview Medium Format Talk posters list a 190XB and a 190; r/AskPhotography names the 055 and 190 as standard choices."
+      },
+      {
+        "name": "Peak Design Travel Tripod (Carbon Fiber)",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+          "https://www.fredmiranda.com/forum/topic/1783147/",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ],
+        "note": "Two DPReview Medium Format Talk posters, four Fred Miranda GFX owners and the Camera Rumors Hasselblad thread name it as the light option."
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "medium-format-light-tripod-flexes",
+        "pain": "A light travel tripod flexes or shakes under a heavy medium format body like the RB67 or a 645 with big glass",
+        "details": "Film medium format owners coming from 35mm find their compact tripod bends or shakes; forum advice is heavier legs or a stout 055/Gitzo class tripod.",
+        "sources": [
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html"
+        ],
+        "quotes": [
+          {
+            "text": "A flimsy tripod is worse than no tripod at all.",
+            "url": "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/"
+          },
+          {
+            "text": "I'm worried my tripod is going to be a bit light weight and shaky for a 645 camera and its hefty glass.",
+            "url": "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-head-unbalanced-long-lens",
+        "pain": "The ball head creeps or droops when a heavy, front-loaded camera is mounted",
+        "details": "Heavy medium and large format bodies sit off-center on a ball head; owners move to 3-way or geared heads (Ben Horne, DPReview Medium Format Talk).",
+        "sources": [
+          "https://www.benhorne.com/tripods-heads",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/"
+        ],
+        "quotes": [
+          {
+            "text": "heavy large format cameras can often times be very awkward atop a ballhead.",
+            "url": "https://www.benhorne.com/tripods-heads"
+          },
+          {
+            "text": "Ball heads infuriate me.",
+            "url": "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-mirror-shutter-vibration",
+        "pain": "The camera's own mirror or shutter shakes the tripod even when nobody touches it",
+        "details": "Film SLRs like the RB67 and Pentax 67 have big mirrors; Camera Rumors posters worry about micro-shake on high-res digital sensors. Fixes: mirror lock-up, cable release or timer, electronic shutter.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ],
+        "quotes": [
+          {
+            "text": "The shutter/mirror action is loud & causes camera vibration , any unsteadiness in the tripod will be affected by this vibration.",
+            "url": "https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-center-column-vibration",
+        "pain": "Raising the center column makes the tripod shake and ring after every shutter press",
+        "details": "Owners keep the column down; systematic tripods drop the column for a flat platform.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
+          "https://www.talkphotography.co.uk/threads/manfrotto-mt055cxpro3.656066/"
+        ],
+        "quotes": [
+          {
+            "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+            "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-wind-vibration",
+        "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+        "details": "Camera Rumors posters name coastal wind; advice is low legs, thick sections, weight from the ground.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ],
+        "quotes": [
+          {
+            "text": "Wind will vibrate across the legs and transmit up to the camera.",
+            "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+          }
+        ]
+      }
+    ],
+    "commonPoints": [
+      "Buy a sturdy tripod; a flimsy one ruins medium format sharpness",
+      "Gitzo and Manfrotto are the safe brands for heavy cameras",
+      "Carbon is lighter, aluminum is cheaper; both work if the legs are thick",
+      "Stability and light weight pull against each other",
+      "Head choice matters as much as the legs for a heavy body"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom against real camera weights: an RB67 Pro-SD with 127 mm lens and 120 back is 2,645 g; the Gitzo GT3543LS (25 kg) carries it about 9.5 times, the 055 carbon (20 kg) 7.6 times, the 190XPRO3 (15 kg) 5.7 times, the 055 kit (12 kg, head-limited) 4.5 times and the Peak Design (9.1 kg) 3.4 times; a GFX100S II at 883 g has 10x headroom even on the Peak Design.",
+        "source": "https://rb67.helluin.org/wp-content/uploads/2011/01/RB67-Pro-SD-Brochure.pdf",
+        "absentFrom": [
+          "https://www.benhorne.com/tripods-heads",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+          "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+          "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography",
+          "https://filmphotographyproject.com/which-tripod/",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "A waist-level finder (RB67, Hasselblad V, Pentax 67 with WLF) puts the viewing point at chest height, so 135-146 cm without a column is plenty; eye-level digital bodies need more, which favors the 055 kit (153 cm column down).",
+        "source": "own analysis of maker column-down heights (manfrotto.com, gitzo.com, peakdesign.com) against finder position",
+        "absentFrom": [
+          "https://www.benhorne.com/tripods-heads",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+          "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+          "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography",
+          "https://filmphotographyproject.com/which-tripod/",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by camera and carry distance: film 6x7 near the car = 055 kit with 3-way head; 6x7 on the trail = 055 carbon; digital MF hiking = Gitzo GT3543LS; GFX with light lens on flights = Peak Design; tight budget = 190XPRO3.",
+        "source": "own decision rule from maker specs",
+        "absentFrom": [
+          "https://www.benhorne.com/tripods-heads",
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
+          "https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
+          "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+          "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography",
+          "https://filmphotographyproject.com/which-tripod/",
+          "https://www.camera-rumors.com/community/hasselblad-forum/best-tripod-for-hasselblad-medium-format-cameras-33461/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Ball-head droop with a heavy body: use a 3-way or geared head, or a large ball head well above the camera weight, and put the camera on a long plate at its balance point.",
+        "source": "https://www.benhorne.com/tripods-heads",
+        "absentFrom": [
+          "https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
+          "https://filmphotographyproject.com/which-tripod/",
+          "https://www.majestic-nature.com/MediumFormat/MediumFormat-Other.php",
+          "https://www.uniquephoto.com/community/qa/tripod-and-head-recommendations-for-medium-format-landscape-photography"
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "2,645 g",
+        "claim": "Mamiya RB67 Pro-SD with KL 127 mm lens and 120 roll film holder",
+        "url": "https://rb67.helluin.org/wp-content/uploads/2011/01/RB67-Pro-SD-Brochure.pdf",
+        "quote": "Total weight 2,645g"
+      },
+      {
+        "number": "883 g",
+        "claim": "Fujifilm GFX100S II weight with battery and memory card",
+        "url": "https://www.fujifilm-x.com/en-us/products/cameras/gfx100s-ii/specifications/",
+        "quote": "Including Battery And Memory Card Approx. 883g"
+      },
+      {
+        "number": "25 kg",
+        "claim": "Gitzo GT3543LS payload",
+        "url": "https://www.gitzo.com/global/tripod-systematic-series-3-long-4-sections-gt3543ls/",
+        "quote": "The GT3543LS weighs 2.03 Kg and secures an impressive payload of 25 Kg."
+      },
+      {
+        "number": "20 kg",
+        "claim": "Manfrotto MT055CXPRO3 safety payload",
+        "url": "https://www.manfrotto.com/global-en/055-carbon-fiber-3-section-tripod-with-horizontal-column-mt055cxpro3/",
+        "quote": "Safety Payload UNI/PdR 105:2021: 20 kg"
+      }
+    ],
+    "videos": [],
+    "pendingInlinks": [
+      {
+        "slug": "landscape-photography-tripod",
+        "find": "Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft.",
+        "replace": "Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show."
+      },
+      {
+        "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "find": "A geared head turns each axis with a knob, so movements are slow, small and repeatable.",
+        "replace": "A geared head turns each axis with a knob, so movements are slow, small and repeatable, which is why many owners in our [medium format tripod guide](/blog/best-tripod-for-medium-format-camera/) pair one with a heavy body."
+      }
+    ],
+    "textrazor": {
+      "run": "2026-10-31",
+      "note": "URL mode analyzed Ben Horne, Camera Rumors, Unique Photo and Majestic Nature; Pentax Forums, Photrio, DPReview and Fred Miranda were blocked by Cloudflare for the script, so their entities come from the Firecrawl reads.",
+      "sharedEntities": [
+        {
+          "entity": "Tripod (photography)",
+          "type": "",
+          "pages": 4,
+          "relevance": 0.78,
+          "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+        },
+        {
+          "entity": "Camera",
+          "type": "/fictional_universe/character_species",
+          "pages": 4,
+          "relevance": 0.58,
+          "wiki": "http://en.wikipedia.org/wiki/Camera"
+        },
+        {
+          "entity": "Gitzo",
+          "type": "Agent",
+          "pages": 3,
+          "relevance": 0.63,
+          "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+        },
+        {
+          "entity": "Carbon-fiber reinforced polymer",
+          "type": "/projects/project_focus",
+          "pages": 3,
+          "relevance": 0.45,
+          "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+        },
+        {
+          "entity": "Medium format",
+          "type": "/digicams/camera_format",
+          "pages": 3,
+          "relevance": 0.38,
+          "wiki": "http://en.wikipedia.org/wiki/Medium_format"
+        },
+        {
+          "entity": "1",
+          "type": "Money",
+          "pages": 2,
+          "relevance": 0.57,
+          "wiki": ""
+        },
+        {
+          "entity": "RRS",
+          "type": "Company",
+          "pages": 2,
+          "relevance": 0.56,
+          "wiki": ""
+        },
+        {
+          "entity": "Weight",
+          "type": "",
+          "pages": 2,
+          "relevance": 0.51,
+          "wiki": "http://en.wikipedia.org/wiki/Weight"
+        },
+        {
+          "entity": "Landscape photography",
+          "type": "/book/book_subject",
+          "pages": 2,
+          "relevance": 0.41,
+          "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+        },
+        {
+          "entity": "Long-exposure photography",
+          "type": "",
+          "pages": 2,
+          "relevance": 0.32,
+          "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+        },
+        {
+          "entity": "Photography",
+          "type": "/broadcast/genre",
+          "pages": 2,
+          "relevance": 0.3,
+          "wiki": "http://en.wikipedia.org/wiki/Photography"
+        }
+      ]
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-under-100",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}

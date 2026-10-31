@@ -1,0 +1,62 @@
+{
+  "keyword": "best tripod for dji osmo action 5 pro",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "DJI",
+      "type": "Agent",
+      "pages": 4,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/DJI"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Selfie stick",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie_stick"
+    },
+    {
+      "entity": "Osmo Action",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.82,
+      "wiki": ""
+    },
+    {
+      "entity": "DJI Osmo",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Warranty",
+      "type": "/organization/organization_sector",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Warranty"
+    },
+    {
+      "entity": "Selfie",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.2,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+    }
+  ]
+}

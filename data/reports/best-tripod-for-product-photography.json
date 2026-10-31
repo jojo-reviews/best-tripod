@@ -1,0 +1,621 @@
+{
+  "keyword": "best tripod for product photography",
+  "createdAt": "2026-10-31T10:31:43.614Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "product photography tripod",
+    "entityVariants": [
+      "tripod for product photography",
+      "product photography tripods",
+      "tripod",
+      "tripods",
+      "overhead tripod",
+      "studio tripod"
+    ],
+    "entities": [
+      {
+        "name": "tripod",
+        "type": "product",
+        "relation": "the central product; judged on stability, column-down height and overhead reach",
+        "salience": 0.96,
+        "pages": 3
+      },
+      {
+        "name": "tripod head",
+        "type": "component",
+        "relation": "ball, 3-way or geared; decides how precisely the frame can be nudged",
+        "salience": 0.83,
+        "pages": 2
+      },
+      {
+        "name": "monopod",
+        "type": "product",
+        "relation": "the K&F SA254T1 leg converts to one; useful on location, not on the set",
+        "salience": 0.66,
+        "pages": 2
+      },
+      {
+        "name": "Manfrotto",
+        "type": "brand",
+        "relation": "maker of the 055 kit and PIXI Mini; most recommended brand across the top pages",
+        "salience": 0.56,
+        "pages": 2
+      },
+      {
+        "name": "photography",
+        "type": "genre",
+        "relation": "product, still-life, food and jewelry photography share the same tabletop needs",
+        "salience": 0.66,
+        "pages": 5
+      },
+      {
+        "name": "camera",
+        "type": "device",
+        "relation": "camera plus lens weight sets the load rating the tripod and head need",
+        "salience": 0.56,
+        "pages": 4
+      },
+      {
+        "name": "photographer",
+        "type": "role",
+        "relation": "ecommerce sellers and studio shooters who shoot the same angle many times",
+        "salience": 0.43,
+        "pages": 4
+      },
+      {
+        "name": "mirrorless camera",
+        "type": "device",
+        "relation": "the usual body on a home product set; light enough for most heads here",
+        "salience": 0.4,
+        "pages": 2
+      },
+      {
+        "name": "horizontal center column",
+        "type": "component",
+        "relation": "swings the camera out over the table for flat lays without a separate arm",
+        "salience": 0.45
+      },
+      {
+        "name": "geared head",
+        "type": "component",
+        "relation": "moves each axis by knob for exact framing; the usual upgrade for packshots",
+        "salience": 0.4
+      },
+      {
+        "name": "ball head",
+        "type": "component",
+        "relation": "fast to aim, harder to nudge by a degree; all five picks ship with one",
+        "salience": 0.35
+      },
+      {
+        "name": "flat lay",
+        "type": "technique",
+        "relation": "top-down product shot; needs a horizontal column or overhead arm",
+        "salience": 0.4
+      },
+      {
+        "name": "counterweight",
+        "type": "accessory",
+        "relation": "balances a swung-out column; hang it on the far end or over a leg",
+        "salience": 0.3
+      },
+      {
+        "name": "Arca-Swiss",
+        "type": "standard",
+        "relation": "plate standard shared by Vanguard, Peak Design and most third-party heads; Manfrotto 200PL is RC2",
+        "salience": 0.3
+      },
+      {
+        "name": "macro lens",
+        "type": "device",
+        "relation": "jewelry and detail shots; magnifies any shake and framing drift",
+        "salience": 0.3
+      }
+    ],
+    "attributes": [
+      "height with the center column down",
+      "horizontal or multi-angle center column",
+      "overhead reach beyond the legs",
+      "load rating vs camera and lens",
+      "head type (ball, 3-way, geared)",
+      "quick release plate standard",
+      "folded length and weight",
+      "leg lock type"
+    ],
+    "ngrams": [
+      "product photography",
+      "horizontal center column",
+      "center column",
+      "flat lay",
+      "ball head",
+      "geared head",
+      "load capacity",
+      "quick release plate",
+      "overhead shots",
+      "column down"
+    ],
+    "skipgrams": [
+      "horizontal…column",
+      "camera…overhead",
+      "load…capacity",
+      "quick…plate",
+      "column…down",
+      "geared…head"
+    ],
+    "nlpTerms": [
+      "tabletop",
+      "flat lay",
+      "still life",
+      "jewelry",
+      "ecommerce",
+      "packshot",
+      "counterweight",
+      "leveling",
+      "aluminum",
+      "bubble level",
+      "overhead",
+      "macro"
+    ],
+    "questions": [
+      "What tripod is best for product photography?",
+      "Do I need a tripod with a horizontal center column for flat lays?",
+      "Is a geared head better than a ball head for product photos?",
+      "How heavy should a product photography tripod be?",
+      "Can I use a mini tripod for jewelry photography?",
+      "How do I stop an overhead tripod from tipping?"
+    ],
+    "contentGaps": [
+      "no top page compares column-down working height across picks for tabletop sets",
+      "no top page explains which picks share a quick release plate standard",
+      "only one top page explains counterweighting a swung-out column",
+      "no top page answers jewelry photography on a tabletop mini tripod with its load limit"
+    ],
+    "outline": [
+      {
+        "h2": "Best Tripod for Product Photography – The Short Answer",
+        "intent": "direct answer and five picks by role",
+        "h3": []
+      },
+      {
+        "h2": "Product Photography Tripod Comparison",
+        "intent": "spec table: column-down height, max height, overhead option, load, head, plate",
+        "h3": []
+      },
+      {
+        "h2": "How I Picked These Product Photography Tripods",
+        "intent": "top-10 evidence, owner reports, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 Best Tripods for Product Photography, Reviewed",
+        "intent": "one section per product",
+        "h3": [
+          "Manfrotto 055 kit: best overall product photography tripod",
+          "K&F Concept 94 Inch Camera Tripod (SA254T1): best budget tripod for flat lays",
+          "Vanguard Alta Pro 2+ 263AB G2: best tripod for angled tabletop shots",
+          "Peak Design Travel Tripod (Aluminum): best tripod for location product shoots",
+          "Manfrotto PIXI Mini: best tabletop tripod for jewelry and phone shots"
+        ]
+      },
+      {
+        "h2": "Which Product Photography Tripod Should You Get?",
+        "intent": "chooser by shot type",
+        "h3": []
+      },
+      {
+        "h2": "How to Set Up a Product Photography Tripod for Overhead Shots",
+        "intent": "numbered steps; counterweight; tipping fix",
+        "h3": []
+      },
+      {
+        "h2": "Product Photography Tripod Problems Owners Run Into, and the Fix",
+        "intent": "pain points: cheap tripod unreliable, ball head nudging, plate mismatch",
+        "h3": []
+      },
+      {
+        "h2": "Product Photography Tripod Buying Checklist",
+        "intent": "short checklist; video",
+        "h3": []
+      }
+    ],
+    "targetWords": 1450,
+    "secondaryKeywords": [
+      "best tripod for jewellery photography",
+      "best tripod for jewelry photography",
+      "product photography tripod",
+      "tripod for flat lay photography",
+      "overhead tripod for product photography",
+      "tripod for tabletop product photography"
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+        "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+        "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+        "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+        "https://aitinsider.com/best-tripod-for-product-photography/",
+        "https://www.manfrotto.com/global-en/stories/tripod-buying-guide/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "The SERP is mixed: Alan Ranger reviews one setup with features and a comparison table, Practical Ecommerce and aitinsider write a paragraph per tripod, Two Loves Studio lists gear. Our site's roundups use pros/cons beside each paragraph review, which keeps the paragraph style readers see in the top results and adds the quick lists.",
+      "avgWords": 1360,
+      "avgProducts": 4,
+      "commonSections": [
+        "why a tripod matters for product photos (sharpness, consistent framing)",
+        "horizontal center column or overhead arm for flat lays",
+        "head types: geared, 3-way, ball",
+        "load capacity vs camera and lens",
+        "picks by budget or use (studio, location, pocket)"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+        "title": "Best Food Photography Tripod: Quick Guide - Two Loves Studio"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/AskPhotography/comments/iim37c/tripod_for_professional_macro_product_photography/",
+        "title": "Tripod for professional macro product photography : r/AskPhotography"
+      },
+      {
+        "position": 3,
+        "url": "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+        "title": "The Best All-In-One Tripod for Beginner and Professional ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/",
+        "title": "Tripod for (mainly) Product Photography | DPReview Forums"
+      },
+      {
+        "position": 5,
+        "url": "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+        "title": "The Best Product Photography Tripod: Review and Features"
+      },
+      {
+        "position": 6,
+        "url": "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+        "title": "Product Photography, Part 2: Selecting Tripods"
+      },
+      {
+        "position": 7,
+        "url": "https://www.thephotoforum.com/threads/best-style-of-tripod-head-for-product-photography.423547/",
+        "title": "Best style of tripod head for product photography"
+      },
+      {
+        "position": 8,
+        "url": "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "title": "The Best Tripods of 2026 | Tested & Ranked - TechGearLab"
+      },
+      {
+        "position": 9,
+        "url": "https://www.manfrotto.com/global-en/stories/tripod-buying-guide/",
+        "title": "Tripod Buying Guide - Manfrotto"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "best",
+        "product photography",
+        "quick guide",
+        "review",
+        "buying guide",
+        "tested"
+      ],
+      "gap": "No ranking title starts with the exact keyword or promises a pick count for flat lays and tabletop sets; forums and single-product reviews dominate. Angle: exact keyword first, (2026), '5 Picks', and 'for Flat Lays and Tabletop'. Never claim 'Tested'."
+    },
+    "commonPoints": [
+      "A tripod keeps framing identical across a product set and allows low ISO and slow shutter speeds",
+      "A horizontal center column or overhead arm is needed for flat lays",
+      "Geared or 3-way heads give finer framing control than ball heads",
+      "Load capacity should exceed the camera and lens weight with margin",
+      "Heavier studio tripods are steadier; travel tripods trade stability for packability"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Column-down working height and overhead option compared across all five picks from maker specs: K&F 67.72 in, 055 kit 59.65 in, Alta Pro 55.6 in, Peak Design 51.25 in, PIXI fixed at 5.31 in; only the 055, K&F and Alta Pro swing the column sideways",
+        "source": "Manfrotto, Vanguard, K&F Concept, Peak Design spec pages; ShutterMuse for the Peak Design column-down figure",
+        "absentFrom": [
+          "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+          "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+          "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+          "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+          "https://aitinsider.com/best-tripod-for-product-photography/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Plate rule: the Vanguard QS-45H and Peak Design plates fit Arca-Swiss clamps, the 055 kit uses Manfrotto's 200PL-14 (RC2 system) and the PIXI has a fixed 1/4 in screw, so pick one plate system before adding a geared head",
+        "source": "Manfrotto 055 and PIXI spec pages; Vanguard Amazon listing (Arca-compatible ball head); r/photography plate thread",
+        "absentFrom": [
+          "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+          "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+          "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+          "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+          "https://aitinsider.com/best-tripod-for-product-photography/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Overhead tipping fix: put a leg under the swung-out camera, hang the counterweight on the far end or over that leg, and keep the tripod on the floor rather than on the table",
+        "source": "pain points camera-tripods-horizontal-column-counterweight (Photo StackExchange) and video-tripods-youtube-overhead-tipping (r/videography, r/synthesizers)",
+        "absentFrom": [
+          "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+          "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+          "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+          "https://aitinsider.com/best-tripod-for-product-photography/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Jewelry on a tabletop: the PIXI Mini is rated for 1 kg, so it suits phones and compact cameras on the table; a mirrorless body with a macro lens belongs on full-size legs",
+        "source": "Manfrotto PIXI Mini spec page; Lensational jewelry guide",
+        "absentFrom": [
+          "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+          "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+          "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+          "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+          "https://aitinsider.com/best-tripod-for-product-photography/"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)",
+        "pages": [
+          "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+          "https://aitinsider.com/best-tripod-for-product-photography/",
+          "https://expertphotography.com/product-photography-equipment",
+          "https://www.manfrotto.com/global-en/stories/tripod-buying-guide/"
+        ],
+        "asin": "B010R4BO12",
+        "amazon": "in stock, ships from and sold by Amazon.com, checked 2026-10-31"
+      },
+      {
+        "name": "K&F Concept 94 Inch Camera Tripod (SA254T1)",
+        "pages": [
+          "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+          "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+          "https://aitinsider.com/best-tripod-for-product-photography/"
+        ],
+        "asin": "B088FPBXHH",
+        "amazon": "in stock, sold by HappyXingqier and ships from Amazon Fulfillment, checked 2026-10-31"
+      },
+      {
+        "name": "Vanguard Alta Pro 2+ 263AB G2",
+        "pages": [
+          "https://expertphotography.com/product-photography-equipment",
+          "https://aitinsider.com/best-tripod-for-product-photography/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ],
+        "asin": "B0FXN2JLPM",
+        "amazon": "in stock, shipper/seller Amazon.com, checked 2026-10-31"
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://aitinsider.com/best-tripod-for-product-photography/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ],
+        "asin": "B085BQS6K4",
+        "amazon": "in stock (low stock), sold by Peak Design and ships from Amazon Fulfillment, checked 2026-10-31"
+      },
+      {
+        "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.lensationalmagazine.com/the-ultimate-guide-how-to-photograph-jewelry/"
+        ],
+        "asin": "B00D76RNLS",
+        "amazon": "in stock, checked 2026-10-31"
+      }
+    ],
+    "droppedCandidates": [
+      {
+        "name": "Manfrotto 410 Junior Geared Head",
+        "reason": "recommended only by Two Loves Studio among the top pages (a DPReview asker mentions it); covered as a head-upgrade note instead"
+      },
+      {
+        "name": "Neewer carbon fiber tripod",
+        "reason": "aitinsider names a model; Alan Ranger only mentions 'Neewer's tripod' generically"
+      },
+      {
+        "name": "Benro Mach3",
+        "reason": "only aitinsider recommends it for product work"
+      },
+      {
+        "name": "Manfrotto 190 series",
+        "reason": "pages name different variants (MT190XPRO4, MK190X3-2W, MK190XPRO3-BHQ2)"
+      },
+      {
+        "name": "Manfrotto 058B Triaut / 475B studio tripods",
+        "reason": "each named by one page only"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "product-photography-compact-tripod-unreliable-full-frame",
+        "pain": "A cheap compact tripod that was fine for a small camera becomes unreliable for product shots once a full-frame body goes on it",
+        "details": "Home product and still-life shooters ask for a heavy, stable tripod for a table setup rather than another light travel tripod; replies point to geared heads, boom arms and camera stands.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/",
+          "https://www.reddit.com/r/AskPhotography/comments/iim37c/tripod_for_professional_macro_product_photography/"
+        ],
+        "quotes": [
+          {
+            "text": "I use a somewhat very compact, short and \"cheap\" tripod that was OK with my APS-C NEX but on FF is very annoyingly unreliable...",
+            "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/"
+          },
+          {
+            "text": "Agree with going to a geared head as it can save time in post with tilted images.",
+            "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-horizontal-column-counterweight",
+        "pain": "A horizontal column is hard to balance because there is nowhere to hang a counterweight on the far end",
+        "details": "With the camera swung out to the side the tripod gets top-heavy; owners note Manfrotto columns have no hook at the non-camera end, so a leg goes under the camera instead.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+        ],
+        "quotes": [
+          {
+            "text": "the serious defect of not putting hooks at the non-camera end of the center column",
+            "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+          }
+        ]
+      },
+      {
+        "id": "video-tripods-youtube-overhead-tipping",
+        "pain": "Overhead desk shots need height, and a tripod perched on a table tips",
+        "details": "YouTubers filming unboxing, art or cooking from above stand a fully extended tripod on the table to get height and end up with legs at the edge; owners put the weight over one leg.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/",
+          "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/",
+          "https://www.reddit.com/r/youtubers/comments/11z6mgd/best_setup_for_overhead_shots/",
+          "https://www.reddit.com/r/videography/comments/17fe9wj/help_with_overhead_camera_mount_rig/"
+        ],
+        "quotes": [
+          {
+            "text": "I recently had my camera on a fully extended tripod on top of a table (to get extra height) and the legs were right at the edge of the table.",
+            "url": "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/"
+          },
+          {
+            "text": "Align the boom arm over a tripod leg, and put the weight on that leg.",
+            "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-fine-framing-shifts-on-tightening",
+        "pain": "Small framing tweaks on a ball head mean loosening it and the camera flops or shifts",
+        "details": "Photographers who want to nudge the angle slightly must unlock the whole head, so the camera goes free and moves again when re-locked. Geared heads are the usual suggestion.",
+        "sources": [
+          "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/",
+          "https://www.fredmiranda.com/forum/next/1010185",
+          "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+        ],
+        "quotes": [
+          {
+            "text": "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head.",
+            "url": "https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/"
+          },
+          {
+            "text": "The only solution I can think of is to use a geared head which doesn't require touching the camera at all.",
+            "url": "https://www.fredmiranda.com/forum/next/1010185"
+          },
+          {
+            "text": "It usually takes me two or three iterations to point my 300/4 exactly where I want it",
+            "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-proprietary-plate-mismatch",
+        "pain": "A quick release plate from one tripod does not fit another brand's head",
+        "details": "Plates are proprietary per maker; Arca-Swiss and Manfrotto RC2 are the common systems, and owners end up buying a second plate or clamp.",
+        "sources": [
+          "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
+          "https://www.dpreview.com/forums/threads/quick-release-tripod-plate.2555037/",
+          "https://www.reddit.com/r/photography/comments/1gcwrhz/tripod_adapter_for_peak_design_quick_release/"
+        ],
+        "quotes": [
+          {
+            "text": "The closest system behind Arca-Swiss is Manfrotto's RC2 system. A large part of else is quite proprietary.",
+            "url": "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "59.65 in",
+        "claim": "Manfrotto 055 kit height with the center column down",
+        "url": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/",
+        "quote": "Maximum Height (with Center Column Down) 151.5 cm 59.65 in"
+      },
+      {
+        "number": "93.9 in",
+        "claim": "K&F SA254T1 maximum height with the two-section column (67.7 in without it)",
+        "url": "https://www.kentfaith.com/KF09.086_k-f-sa254t1-lightweight-compact-tripod-for-canon-nikon-camera-professional-dslr-photography-93inch-aluminium",
+        "quote": "The height without column reaches 67.7'' and the height with 2 sections center column is 93.9''"
+      },
+      {
+        "number": "20lb",
+        "claim": "Peak Design Travel Tripod weight capacity",
+        "url": "https://www.peakdesign.com/products/travel-tripod",
+        "quote": "With a 20lb weight capacity, it’s optimized to support full-frame DSLRs paired with telephoto lenses"
+      },
+      {
+        "number": "1 kg",
+        "claim": "Manfrotto PIXI Mini payload",
+        "url": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/",
+        "quote": "you can use PIXI with a many different digital devices, weighing up to 1 kg"
+      },
+      {
+        "number": "55.6\"",
+        "claim": "Vanguard Alta Pro 2+ 263AB G2 standard height with the center column down",
+        "url": "https://www.vanguardworld.com/products/alta-pro-2-263ab-gen-2-professional-aluminum-full-size-camera-video-tripod-w-ball-head-26mm-legs",
+        "quote": "Standard Height (w/ Center Column Down) | 55.6\""
+      }
+    ],
+    "videos": [
+      {
+        "id": "RCWN2UtXtQ4",
+        "title": "3 Things to Consider Before Buying a Tripod for Product Photography",
+        "channel": "Kristina Nicole",
+        "url": "https://www.youtube.com/watch?v=RCWN2UtXtQ4",
+        "section": "Product Photography Tripod Buying Checklist"
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-macro-photography",
+        "find": "Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload.",
+        "replace": "Standing, it gives 59.65 in with the column down and 71.46 in raised, with a 33.07 lb safety payload, which is why it also leads my [tripods for product photography](/blog/best-tripod-for-product-photography/)."
+      },
+      {
+        "slug": "best-tripod-for-content-creators",
+        "find": "For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base.",
+        "replace": "For top-down unboxing and recipe shots, use an overhead arm or a light stand with a boom, and weight the base; with a camera, our [tripods for product photography](/blog/best-tripod-for-product-photography/) swing the column sideways instead."
+      }
+    ],
+    "textrazor": {
+      "ran": "2026-10-31",
+      "pages": [
+        "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
+        "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+        "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
+        "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
+        "https://aitinsider.com/best-tripod-for-product-photography/"
+      ],
+      "file": "data/briefs/best-tripod-for-product-photography.entities.json",
+      "note": "sharedEntities copied into entities with salience = relevanceScore; site names and authors dropped"
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-macro-photography",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-astrophotography",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    }
+  ]
+}

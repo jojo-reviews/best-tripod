@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-product-photography",
+  "pass": true,
+  "checkedAt": "2026-10-31T10:31:32.518Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 94 Inch Camera Tripod (SA254T1)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-31 against maker pages: Manfrotto MK055XPRO3-BHQ2 page (71.46 in max, 59.65 in column down, 3.54 in min, 28.54 in closed, 6.61 lb, 33.07 lb UNI/PdR 105:2021 safety payload, leg angles 25/46/66/88, flip locks, XPRO ball head with friction control, 200PL-14 plate, 90-degree column usable with camera attached); K&F Concept SA254T1 page (93.90 in max, 67.72 in without column, 27.17 in min, 22.44 in folded, 4.41 lb, 22.05 lb, 4 sections, twist locks, transverse 2-section column, detachable monopod) plus Amazon B088FPBXHH listing (BH-28L, SA254T1, ships from Amazon); Vanguard Alta Pro 2+ 263AB Gen 2 page (68.2 in, 55.6 in column down, 8.4 in low, 28.3 in folded, 4.8 lb, 22 lb, twist, BH-60, QS-45H, multi-angle column 360 rotation + tilt) and Amazon B0FXN2JLPM (Arca-compatible head, sold by Amazon); Peak Design page (20 lb) and ShutterMuse table (60 in, 51.25 in column down, 5.5 in low, 15.5 in folded, 5 sections) plus Amazon B085BQS6K4 (aluminum, sold by Peak Design, ships from Amazon); Manfrotto PIXI MTPIXI-B page (13.5 cm/5.31 in fixed, 18.5 cm/7.28 in closed, 0.19 kg/0.42 lb, 1 kg payload, -35/+35 tilt, push-button lock, fixed 1/4 in screw) and Amazon B00D76RNLS; Amazon B010R4BO12 = MK055XPRO3-BHQ2 sold by Amazon. Owner claims checked against 1EuroPhoto review, K&F site reviews, Peak Design site reviews (rostrum shots, legs slipping), Vanguard review, DPReview/Thomann notes. Top-page recommendations checked on Alan Ranger, Laura BC, aitinsider, ExpertPhotography, TechGearLab, Lensational, Manfrotto buying guide. Pain-point quotes copied from data/pain-points.json entries (DPReview product thread quote checked on the page). Number links: 59.65 in on Manfrotto page, 93.9 in on K&F page, 20lb on Peak Design page.",
+    "at": "2026-10-31T10:31:31.866Z",
+    "hash": "b3a181fedd8d332a"
+  }
+}

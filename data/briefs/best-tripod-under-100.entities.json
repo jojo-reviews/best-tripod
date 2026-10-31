@@ -1,0 +1,209 @@
+{
+  "keyword": "best tripod under 100",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 4,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 3,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "View camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/View_camera"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Budget"
+    },
+    {
+      "entity": "100",
+      "type": "Money",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": ""
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS"
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Gear"
+    },
+    {
+      "entity": "Full-frame DSLR",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": ""
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+      "entity": "Hand-held camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera"
+    },
+    {
+      "entity": "Price",
+      "type": "/media_common/quotation_subject",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Price"
+    }
+  ]
+}

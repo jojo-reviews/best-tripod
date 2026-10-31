@@ -449,10 +449,10 @@ heroAlt: >-
   Best Tripod for Fujifilm X-T5 (2026) – 5 Picks Matched to Your Lens – Best
   Tripod buying guide
 related:
+  - best-tripod-under-100
   - best-tripod-for-fujifilm-x100vi
   - best-tripod-feet-for-sand-snow-and-rock
   - best-tripod-for-nikon-z8
-  - best-tripod-for-binoculars
 heroImage: /images/featured/best-tripod-for-fujifilm-x-t5.png
 ---
 

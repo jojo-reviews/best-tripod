@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-under-100",
+  "pass": true,
+  "checkedAt": "2026-10-31T10:33:51.419Z",
+  "errors": [],
+  "warnings": [
+    "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Amazon Basics 60-Inch Lightweight Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOILCAN 81 inch Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Checked 2026-10-31 via Firecrawl. K&F Concept 64 inch (B0B1HYVVTV, ships from Amazon, in stock): 163 cm/64 in max, 20.4 in min, 15.5 in folded, 1.15 kg, 17.6 lb/8 kg load, 4 sections, flip locks, 36 mm ball head, Arca-compatible plate (Amazon listing, kfconcept.com tripods page; owner themes from kfconcept.com reviews_14167 and Pack Hacker review; TechGearLab 'best tripod under 100' quote). Amazon Basics 60-inch WT3540 (B005KP473Q, sold by Amazon): 152 cm, 60.5 cm min, 23.2 in folded, 2.7 lb, 6.6 lb/3 kg, 3-way head (Amazon listing, Lens Rumors, FixThePhoto); crank column, two bubble levels and 3-year use from Discovering Nearby Tech owner video. JOILCAN 81 inch H80 (B08QGRP6CB, ships from Amazon): 23-81 in, 16.5 in folded, 5 sections, 38 mm ball head, monopod 31-80 in (joilcan.com), 35 lb rating from listing title; owner feet complaint from Meandering Yogi video. Manfrotto PIXI MTPIXIMII-B (B09GKLCP95, sold by Amazon): 13.5 cm, 18.5 cm closed, 0.17 kg, 1 kg payload (manfrotto.com). JOBY GorillaPod 3K Kit JB91507 (B0C81TNMP4, sold by Amazon): 9.4 in stand, 2.8 in head, 8.7 oz + 5.1 oz, 6.6 lb/3 kg, 360 pan/90 tilt, bubble level, QR plate, 1/4-20 + 3/8 adapter (B&H 1677248). Sony a7 IV 658 g (sony.com specs), FE 24-105 G 663 g (electronics.sony.com); load percentages recalculated (1.32 kg vs 8/3/1 kg). Rejected picks confirmed on Amazon: Element Traveller Small above 100, GorillaPod 5K (2 listings), SLIK Sprint Pro II, Dolica AX620B100, Manfrotto Compact Action unavailable. DPReview quotes verified on the thread page; r/AskPhotography and r/photography quotes from data/pain-points.json; r/Cameras PIXI quote from search excerpt at the thread URL. No prices beyond the under-100 budget framing.",
+    "at": "2026-10-31T10:33:50.642Z",
+    "hash": "ac1b5c56d27db2ca"
+  }
+}

@@ -425,9 +425,10 @@ heroAlt: >-
   Best Tripod for Filming Sports in 2026 – 5 Picks, Sideline to 20 ft – Best
   Tripod buying guide
 related:
+  - best-tripod-for-dji-osmo-action-5-pro
+  - best-tripod-quick-release-plate
   - best-tripod-for-gym-videos
   - best-tripod-for-laser-level
-  - best-tripod-for-fujifilm-x100vi
 ---
 
 The best tripod for filming sports depends on who moves the camera. If you pan with the play yourself, get a fluid-head video tripod such as the [NEEWER TP75](amzn:NEEWER+Video+Tripod+Fluid+Head+TP75); if an AI camera like a Veo tracks the game, get a tall stand such as the [Glide Gear TST 20](amzn:Glide+Gear+TST+20+Sky+High+Tall+Video+Camera+Tripod+Stand). I matched five tripods to those two jobs using maker specs and owner reports from Reddit, B&H and a Veo users group. We have not used these tripods ourselves.

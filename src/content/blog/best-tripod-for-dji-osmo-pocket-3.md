@@ -431,6 +431,7 @@ faqs:
       steady the legs, so keep the center column down.
 author: editorial-team
 related:
+  - best-tripod-for-dji-osmo-action-5-pro
   - best-tripod-for-gopro
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
   - best-tripod-for-youtube-videos

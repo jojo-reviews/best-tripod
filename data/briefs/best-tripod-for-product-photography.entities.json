@@ -1,0 +1,69 @@
+{
+  "keyword": "best tripod for product photography",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 5,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 4,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.83,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    }
+  ]
+}

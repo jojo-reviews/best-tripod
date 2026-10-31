@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:44:45.353Z",
+  "updatedAt": "2026-10-31T10:30:12.206Z",
   "categories": {
     "camera-tripods": [
       {
@@ -51,7 +51,8 @@
           "best-tripod-for-tall-photographers-over-6-feet",
           "tripod-shake-when-pressing-shutter",
           "tripod-center-column-up-or-down-for-landscapes",
-          "best-tripod-for-fujifilm-x-t5"
+          "best-tripod-for-fujifilm-x-t5",
+          "best-tripod-under-100"
         ],
         "foundAt": "2026-10-19"
       },
@@ -452,7 +453,8 @@
           "best tripod for photography"
         ],
         "coveredBy": [
-          "best-tripod-for-sony-a6700"
+          "best-tripod-for-sony-a6700",
+          "best-tripod-under-100"
         ],
         "foundAt": "2026-10-19"
       },
@@ -579,7 +581,8 @@
           "twist lock vs flip lock tripod legs"
         ],
         "coveredBy": [
-          "twist-lock-vs-flip-lock-tripod-legs"
+          "twist-lock-vs-flip-lock-tripod-legs",
+          "best-tripod-under-100"
         ],
         "foundAt": "2026-10-20"
       },
@@ -1554,7 +1557,8 @@
           "best tripod for macro photography"
         ],
         "coveredBy": [
-          "best-tripod-for-macro-photography"
+          "best-tripod-for-macro-photography",
+          "best-tripod-for-product-photography"
         ],
         "foundAt": "2026-10-29"
       },
@@ -1613,7 +1617,9 @@
         "keywords": [
           "best tripod for sony zv-e10"
         ],
-        "coveredBy": [],
+        "coveredBy": [
+          "best-tripod-under-100"
+        ],
         "foundAt": "2026-10-29"
       },
       {
@@ -2560,7 +2566,8 @@
           "can you use any tripod for a camera"
         ],
         "coveredBy": [
-          "can-you-use-any-tripod-for-a-camera"
+          "can-you-use-any-tripod-for-a-camera",
+          "best-tripod-for-product-photography"
         ],
         "foundAt": "2026-10-30",
         "mentions": 3,
@@ -2770,6 +2777,83 @@
           "best-tripod-for-nikon-p1000"
         ],
         "foundAt": "2026-10-30"
+      },
+      {
+        "id": "product-photography-compact-tripod-unreliable-full-frame",
+        "pain": "A cheap compact tripod that was fine for a small camera becomes unreliable for product shots once a full-frame body goes on it",
+        "details": "Home product and still-life shooters ask for a heavy, stable tripod for a table setup rather than another light travel tripod; replies point to geared heads, boom arms and camera stands.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/",
+            "platform": "dpreview",
+            "title": "Tripod for (mainly) Product Photography",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/iim37c/tripod_for_professional_macro_product_photography/",
+            "platform": "reddit",
+            "title": "Tripod for professional macro product photography",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I use a somewhat very compact, short and \"cheap\" tripod that was OK with my APS-C NEX but on FF is very annoyingly unreliable...",
+            "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/"
+          },
+          {
+            "text": "Agree with going to a geared head as it can save time in post with tilted images.",
+            "url": "https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/"
+          }
+        ],
+        "searches": [
+          "tripod for product photography at home",
+          "heavy tripod for product photography"
+        ],
+        "keywords": [
+          "best tripod for product photography"
+        ],
+        "coveredBy": [
+          "best-tripod-for-product-photography"
+        ],
+        "foundAt": "2026-10-31"
+      },
+      {
+        "id": "camera-tripods-budget-ball-head-drops",
+        "pain": "A budget ball head drops a little after you tighten it, so the framing shifts",
+        "details": "In a DPReview thread on travel tripods under $100, an owner reports a 1 cm drop after tightening; others warn cheap tripods fail within a couple of years or have spindly last leg sections.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
+            "platform": "forum",
+            "title": "Best travel tripod under $100? (DPReview)",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The ball head drops about a centimeter after you tighten it but after that it doesn't move at all.",
+            "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
+            "via": "page"
+          },
+          {
+            "text": "There's nothing new I would recommend with that budget, unless you want to replace it in a couple years when it fails you.",
+            "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best travel tripod under 100"
+        ],
+        "keywords": [
+          "best tripod under 100"
+        ],
+        "coveredBy": [
+          "best-tripod-under-100"
+        ],
+        "foundAt": "2026-10-31"
       }
     ],
     "monopods": [
@@ -3706,7 +3790,8 @@
           "tripod ball head"
         ],
         "coveredBy": [
-          "ball-head-vs-pan-tilt-head-for-landscape-photography"
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "best-tripod-for-product-photography"
         ],
         "foundAt": "2026-10-19"
       },
@@ -4434,6 +4519,90 @@
         "answeredBy": [
           "best-tripod-for-laser-level"
         ]
+      },
+      {
+        "id": "tripod-accessories-arca-plate-loose-in-lever-clamp",
+        "pain": "An 'Arca-Swiss compatible' plate is loose or won't seat in another brand's clamp, especially a lever clamp",
+        "details": "Arca-type widths and dovetail angles differ between makers (about 38.1 mm in the US, 35 mm in Europe), so screw-knob clamps adapt but lever clamps can end up too loose or too tight; PD, Falcam F38 and other 'Arca' parts are not always cross-compatible.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/peak-design-dual-plate-vs-manfrotto-200pl-pro-aluminium-plate.4463932/",
+            "platform": "dpreview",
+            "title": "Peak Design Dual Plate vs Manfrotto 200PL-Pro Aluminium Plate",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems",
+            "platform": "forum",
+            "title": "Which are the most common quick release plate systems?",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.reddit.com/r/peakdesign/comments/1634d6a/quick_release_compatible_with_peak_design_plates/",
+            "platform": "reddit",
+            "title": "Quick release compatible with Peak Design plates",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The Manfrotto didn't match my other plates and was too loose.",
+            "url": "https://www.dpreview.com/forums/threads/peak-design-dual-plate-vs-manfrotto-200pl-pro-aluminium-plate.4463932/"
+          }
+        ],
+        "keywords": [
+          "best tripod quick release plate"
+        ],
+        "coveredBy": [
+          "best-tripod-quick-release-plate"
+        ],
+        "foundAt": "2026-10-31",
+        "searches": [
+          "arca swiss plate loose lever clamp"
+        ]
+      },
+      {
+        "id": "tripod-accessories-plate-no-safety-stop",
+        "pain": "The plate has no safety stop, so it slides out of the clamp as soon as the knob is loosened; lever clamps can snag open",
+        "details": "Peak Design Standard Plate owners note it has no stop in Arca ball heads and does not click in; DPReview owners worry about lever clamps snagging and opening.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/peakdesign/comments/16sri1b/peak_design_plate_ecosystem/",
+            "platform": "reddit",
+            "title": "Peak Design Plate Ecosystem",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1pvi4ah/peak_design_plate_what_tripod/",
+            "platform": "reddit",
+            "title": "Peak design plate what tripod?",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/quick-release-plate.4823610/",
+            "platform": "dpreview",
+            "title": "Quick release plate",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "As with all lever clamps I worry about the lever snagging and then opening.",
+            "url": "https://www.dpreview.com/forums/threads/quick-release-plate.4823610/"
+          }
+        ],
+        "keywords": [
+          "best tripod quick release plate"
+        ],
+        "coveredBy": [
+          "best-tripod-quick-release-plate"
+        ],
+        "foundAt": "2026-10-31",
+        "searches": [
+          "peak design plate slides out arca"
+        ]
       }
     ],
     "video-tripods": [
@@ -4714,7 +4883,8 @@
           "best tripod for youtube videos"
         ],
         "coveredBy": [
-          "best-tripod-for-youtube-videos"
+          "best-tripod-for-youtube-videos",
+          "best-tripod-for-product-photography"
         ],
         "foundAt": "2026-10-25"
       },
@@ -5647,6 +5817,127 @@
         ],
         "answeredBy": [
           "best-tripod-for-fujifilm-x100vi"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-osmo-action-mini-rod-too-short",
+        "pain": "DJI's Osmo Action Mini Extension Rod has to be extended before it stands steady, and feels plasticky",
+        "details": "An r/djiosmo owner of an Action 5 says the mini rod is not usable as a tripod without extending it and that it feels cheap; owners asking for a small tripod are pointed to sturdier third-party grips.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/djiosmo/comments/1gfiwnu/anyone_has_any_feedback_related_to_the_dji_mini/",
+            "platform": "reddit",
+            "title": "DJI's Osmo Action Mini Extension Rod has to be extended before it stands steady,",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I wouldn't recommend the DJI mini tripod. Two issues: can't use it as a tripod without extending it out",
+            "url": "https://www.reddit.com/r/djiosmo/comments/1gfiwnu/anyone_has_any_feedback_related_to_the_dji_mini/"
+          }
+        ],
+        "keywords": [
+          "best tripod for dji osmo action 5 pro"
+        ],
+        "answeredBy": [
+          "best-tripod-for-dji-osmo-action-5-pro"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-osmo-action-magnetic-mount-pops-off",
+        "pain": "The magnetic quick-release can let go under vibration, so owners worry about the camera falling off a pole or tripod",
+        "details": "r/dji owners report the Action 5 Pro magnetic mount holding fine for skiing but popping off on mountain-bike handlebars; one owner who lost a camera now ties a safety line to the quick-release fingers.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/dji/comments/1rzklnr/how_safe_is_the_magnetic_mount_on_the_osmo_action/",
+            "platform": "reddit",
+            "title": "The magnetic quick-release can let go under vibration, so owners worry about the",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.reddit.com/r/dji/comments/1l6xh44/lost_my_dji_osmo_action_5_while_wingfoiling/",
+            "platform": "reddit",
+            "title": "The magnetic quick-release can let go under vibration, so owners worry about the",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "put on the handlebars of a mountain bike and it came off in a few seconds",
+            "url": "https://www.reddit.com/r/dji/comments/1rzklnr/how_safe_is_the_magnetic_mount_on_the_osmo_action/"
+          },
+          {
+            "text": "I used a Dynacord safety line and tied it to the fingers of the magnetic quick release",
+            "url": "https://www.reddit.com/r/dji/comments/1l6xh44/lost_my_dji_osmo_action_5_while_wingfoiling/"
+          }
+        ],
+        "keywords": [
+          "best tripod for dji osmo action 5 pro"
+        ],
+        "answeredBy": [
+          "best-tripod-for-dji-osmo-action-5-pro"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-osmo-action-tall-stick-flimsy",
+        "pain": "Long selfie-stick tripods feel flimsy or heavy, and it is hard to find one that is both light and steady",
+        "details": "An r/djiosmo360 owner comparing stick tripods found the DJI option the most stable but heavy, the Insta360 one flimsy without a rubber grip; a DPReview member says the Ulanzi MT-16 suits small cameras better than still cameras.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/djiosmo360/comments/1mpo5d8/best_lightweight_tripod_selfie_stick/",
+            "platform": "reddit",
+            "title": "Long selfie-stick tripods feel flimsy or heavy, and it is hard to find one that ",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/ulanzi-mt-16-tripod.4619468/",
+            "platform": "forum",
+            "title": "Long selfie-stick tripods feel flimsy or heavy, and it is hard to find one that ",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "DJI has one, appears most stable but quite heavy, the Insta360 seems flimsy and has no rubber grip",
+            "url": "https://www.reddit.com/r/djiosmo360/comments/1mpo5d8/best_lightweight_tripod_selfie_stick/"
+          }
+        ],
+        "keywords": [
+          "best tripod for dji osmo action 5 pro"
+        ],
+        "answeredBy": [
+          "best-tripod-for-dji-osmo-action-5-pro"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-osmo-action-wrong-generation-mount",
+        "pain": "Accessories made for the Action 6 and Osmo Nano look the same but do not fit the Action 5 Pro, and the reverse",
+        "details": "DJI lists its Dual-Direction Mini Extension Rod for the Osmo 360 II, Nano and Action 6 only, while SmallRig's 5435 adapter is marked not compatible with the Action 6 and Nano, so buyers searching 'Osmo Action tripod' can pick the wrong generation.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://store.dji.com/product/osmo-action-dual-direction-mini-extension-rod",
+            "platform": "maker",
+            "title": "Accessories made for the Action 6 and Osmo Nano look the same but do not fit the",
+            "seen": "2026-10-31"
+          },
+          {
+            "url": "https://store.dji.com/product/osmo-action-mini-extension-rod",
+            "platform": "maker",
+            "title": "Accessories made for the Action 6 and Osmo Nano look the same but do not fit the",
+            "seen": "2026-10-31"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for dji osmo action 5 pro"
+        ],
+        "answeredBy": [
+          "best-tripod-for-dji-osmo-action-5-pro"
         ]
       }
     ],

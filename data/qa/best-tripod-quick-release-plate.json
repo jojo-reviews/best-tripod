@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-quick-release-plate",
+  "pass": true,
+  "checkedAt": "2026-10-31T10:29:34.458Z",
+  "errors": [],
+  "warnings": [
+    "product \"FALCAM F38 Quick Release Kit V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Standard Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"PGYTECH Quick Release Plate & Clamp V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Quick Release Plate 200PL-PRO\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER QPR-5 Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-31 with Firecrawl: Manfrotto 200PL-PRO 38 g, 10 kg, RC2 + Arca, 1/4in screw + 3/8in adapter, flip screw by hand/coin/Allen key, not for 804RC2/MH804-3W (manfrotto.com product page); Peak Design Standard Plate PL-S-3 machined/anodized, fits most Arca-type tripods, Capture in 4 directions, 4 anchor loops, 50% lower profile, screw slot avoids battery doors (peakdesign.com); PGYTECH Clamp & Plate V2 P-CG-188 66x38x18.5 mm aluminum (pgytech.com, Adorama), SnapLock one-step, dual locking, dual stop pins, anti-loosening screws, 1/4 and 3/8 threads (Amazon listing B0DSKCRQ7J); FALCAM F38 Kit V2 F38B3404 plate+base Arca compatible, redundant security lock, aluminum, 15 kg vertical, 81 g (Amazon listing B0CPPHWW9D, sold by FALCAM, ships from Amazon); NEEWER QPR-5 38x38x9 mm 19 g aluminum (neewer.com), 4 safety pins, 5 kg/11 lb, 4-sided (Amazon B0CP26Y91B). Arca widths 38.1 mm US / 35 mm Europe (photo.stackexchange answer). Owner reports checked against DPReview threads 4823610 and 4463932 (verbatim quotes), Brendan Wiltse, Peak Design reviews, Ulanzi reviews and Reddit search excerpts; BCG quote taken verbatim from data/pain-points.json search excerpt. All 5 ASINs hand-checked in stock on Amazon US (Manfrotto sold by Amazon; others ships from Amazon). Jim Doty grooves-parallel advice from jimdoty.com.",
+    "at": "2026-10-31T10:29:22.886Z",
+    "hash": "06f438bb2c3d0172"
+  }
+}

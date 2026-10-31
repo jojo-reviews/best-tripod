@@ -459,10 +459,10 @@ heroAlt: >-
   Best Tripod for Astrophotography (2026) – 5 Picks for a Star Tracker – Best
   Tripod buying guide
 related:
+  - best-tripod-for-product-photography
   - best-tripod-for-binoculars
   - best-tripod-for-fujifilm-x-t5
   - best-tripod-for-sony-a7iv
-  - best-tripod-for-macro-photography
 ---
 
 The best tripod for astrophotography is one rated for about three times the weight of your camera, lens and star tracker, used with the center column down. My best overall pick is the [Benro Tortoise 24C with GX30 Ball Head](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Tripod+GX30+TTOR24CGX30), a columnless carbon tripod rated for 14 kg at 1.51 kg. If you only shoot a camera and a wide lens, a lighter travel tripod works too, as long as you follow the [center column down rule for long exposures](/blog/tripod-center-column-up-or-down-for-landscapes/).

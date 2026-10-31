@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-medium-format-camera",
+  "pass": true,
+  "checkedAt": "2026-10-31T10:32:22.104Z",
+  "errors": [],
+  "warnings": [
+    "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with 3-Way Head (MK055XPRO3-3W)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto MT055CXPRO3 Carbon Fiber 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto MT190XPRO3 Aluminum 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-10-31 via Firecrawl: Gitzo GT3543LS (gitzo.com: 2.03 kg, 25 kg payload, 9-146 cm, 57 cm folded, 32.9 mm top tube, G-Lock Ultra, no column; Amazon B01LYF8GDN in stock, sold by Amazon). Manfrotto MK055XPRO3-3W (manfrotto.com: 3.5 kg, 183/153 cm, 9 cm min, 74 cm closed, 12 kg UNI/PdR 105:2021, flip lock, 200PL-14, MHXPRO-3W; Amazon B00ICFIV74 sold by Amazon). Manfrotto MT055CXPRO3 (manfrotto.com + B&H: 2.1 kg, 170/140 cm, 63 cm, 20 kg UNI payload, 29.2/24.8/20.4 mm tubes; Amazon B00IQ7PSY2 sold by Amazon). Manfrotto MT190XPRO3 (manfrotto.com: 2 kg, 160/135 cm, 59 cm, 15 kg UNI, 26/22.5/19 mm tubes; Amazon B00G36G7WU sold by Amazon). Peak Design Travel Tripod carbon (1.27 kg, 152.4/130.2 cm, 14 cm min, 39.4 cm, 9.1 kg per SheClicks/Peak spec; Amazon B085BQTQMN). Stats: RB67 Pro-SD total 2,645 g (Mamiya brochure PDF), GFX100S II approx. 883 g (fujifilm-x.com). Headroom ratios recalculated. Quotes: Photrio 'A flimsy tripod is worse than no tripod at all.' confirmed via search excerpt at thread URL; Ben Horne ballhead quote confirmed on benhorne.com. Owner claims checked against Richard Pickup, Talk Photography, Fred Miranda, Photrio, Reddit excerpts. Removed unverified Peak Arca-plate claim.",
+    "at": "2026-10-31T10:32:21.095Z",
+    "hash": "f4941481727be185"
+  }
+}
