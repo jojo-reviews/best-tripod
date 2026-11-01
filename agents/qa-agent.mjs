@@ -110,6 +110,10 @@ function writeQa(slug, report) {
   return report;
 }
 
+// Hosts that answer GitHub runners with 404 even to a browser User-Agent but serve readers fine (consumer.ftc.gov,
+// 2026-11-01: a pre-pubDate CI run marked a scheduled post failed, so it went live hidden). Warning only.
+const CI_BLOCKED = /(^|\.)ftc\.gov$/;
+
 async function urlOk(url) {
   try {
     let res = await fetch(url, { method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(15000) });
@@ -398,7 +402,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
       const status = await urlOk(s.url);
       // A dead source on a post that is already live is flagged for the daily fact-check instead of
       // hiding the post; before it goes live it still blocks publishing.
-      if (status === 404 || status === 410) (pub <= now ? warn : err)(`${pub <= now ? 'LIVE POST, FIX: ' : ''}source returns ${status}: ${s.url}`);
+      if (status === 404 || status === 410) (pub <= now || CI_BLOCKED.test(new URL(s.url).hostname) ? warn : err)(`${pub <= now ? 'LIVE POST, FIX: ' : ''}source returns ${status}: ${s.url}`);
       else if (status === 0 || status >= 400) warn(`source didn't respond normally (${status || 'no response'}): ${s.url}`);
     }
     if (live) {
@@ -660,7 +664,7 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
   if (online) {
     for (const s of sources) {
       const status = await urlOk(s.url);
-      if (status === 404 || status === 410) (pub <= now ? warn : err)(`${pub <= now ? 'LIVE POST, FIX: ' : ''}source returns ${status}: ${s.url}`);
+      if (status === 404 || status === 410) (pub <= now || CI_BLOCKED.test(new URL(s.url).hostname) ? warn : err)(`${pub <= now ? 'LIVE POST, FIX: ' : ''}source returns ${status}: ${s.url}`);
       else if (status === 0 || status >= 400) warn(`source didn't respond normally (${status || 'no response'}): ${s.url}`);
     }
     if (live) for (const p of products) if (p.asin && !live.has(p.asin)) warn(`product "${p.name}" (${p.asin}) is no longer returned by Amazon`);
