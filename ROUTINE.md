@@ -154,6 +154,7 @@ Follow the rules in the `SYSTEM` prompt of `agents/keyword-agent.mjs`.
 - Ahrefs data is required: `routine.mjs next` holds any keyword without recorded Ahrefs volume + KD as `needs-data`, enforces `keywordRules.maxVolume` and `maxKd`, and treats ≥4 shared top-10 URLs (from `data/serps.json`, written by `routine.mjs save-serp`) as the same intent. If Ahrefs is unavailable, add no keywords and report it; never estimate volumes. Web search may only suggest ideas that then get Ahrefs data.
 
 ## 2. Pick the keyword
+**Owner request 2026-11-01 ("new low kd jo jaldi rank ho"):** queue entries with `research`/`researchSource` "low-kd-research 2026-11-01" (weak-SERP evidence in `rationale`) are written first, lowest competition first, before older pending keywords.
 `node scripts/routine.mjs next` → use this item (it automatically parks keywords over 250 searches/month
 and merges any keyword that would cannibalize an existing post). Its `slug` is the post slug. It already balances the
 funnel (≈30% TOFU, 30% MOFU, 40% BOFU); follow the FUNNEL RULES in `WRITE_SYSTEM` for its `funnel` stage
