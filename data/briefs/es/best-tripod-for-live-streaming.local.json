@@ -1,0 +1,133 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-live-streaming",
+  "checkedAt": "2026-11-01T17:50:27.333Z",
+  "productFit": [
+    {
+      "name": "UBeesize 67 inch Camera Tripod with Travel Bag",
+      "asin": "B08CHFY4R5",
+      "status": "unknown",
+      "metricSpecs": "Spanish-language listings call it \"67 pulgadas (170 cm)\"; no EU maker page with metric specs found",
+      "reason": "No EU (DE/ES/NL) retailer or maker page for this exact model (travel bag + Bluetooth remote, B08CHFY4R5) found; listings found are amazon.com, amazon.com.mx and Latin American resellers. UBeesize has an amazon.de brand page with other models. Translator: one neutral sentence in \"Who it's for\" that it is mainly sold in the Americas and EU listings for this exact kit were not found.",
+      "source": "https://www.amazon.com.mx/UBeesize-distancia-inal%C3%A1mbrico-compatible-proyectores/dp/B08CHFY4R5"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)",
+      "asin": "B0BQN7CMDJ",
+      "status": "fits",
+      "metricSpecs": "13,5 cm max height, 1 kg max load (Foto Koch NL listing); 0,17 kg, 18,5 cm folded (Manfrotto)",
+      "reason": "Italian maker; sold in the EU under the same code MKPIXICLMII-BK (Foto Koch NL, amazon.nl same ASIN).",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "JOBY GorillaPod Mobile Rig",
+      "asin": "B07BVP8K1W",
+      "status": "fits",
+      "metricSpecs": "0,36 kg (B&H, as in the English post); no EU metric load figure found",
+      "reason": "Sold in the EU under the same name (EU code JB01533-BWW) at Amac, Foto Verweij and bol.com.",
+      "source": "https://www.amac.nl/joby-gorillapod-mobile-rig-black-charcoal"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "localVariant",
+      "variant": "Sold in the EU as \"ALTA PRO 263AB G2\" with the VEO BH-60 ball head and Switch QS-45 plate (amazon.de lists it as \"Alta Pro 2+ 263AB G2\" under another ASIN, B0FY3T8GHW). Vanguard Deutschland gives slightly different metric figures than the US page (171 cm vs 68.2 in / 173 cm) and describes flip locks where the US listing says twist locks.",
+      "metricSpecs": "Vanguard Deutschland: max height 171 cm, min working height 24,5 cm, folded 69,5 cm, weight 2,29 kg, load 10 kg, 26 mm legs, 3 sections",
+      "reason": "Vanguard sells the G2 kit through its German site and Calumet DE; same tripod generation, EU naming and EU spec sheet.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same legs, 494 head and plate.",
+      "metricSpecs": "Manfrotto: 151 cm max height, 40 cm closed length, 1,59 kg, 9 kg safety payload (UNI/PdR 105:2021); English post uses 150 cm / 128 cm column down / 40 cm min height / 1,6 kg",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH in stock.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm, 8 kg load (maker naming \"163cm\"); amazon.es listing says 1,24 kg, the English post 1,15 kg (2.5 lb): keep the English figure",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Real Decreto 444/2024 (BOE): creators count as \"usuarios de especial relevancia\" and must register in the state registry only if they meet an income threshold AND have at least 1.000.000 followers on one video platform (or 2.000.000 across platforms) AND published at least 24 videos in the previous year. Most small streamers are outside it. General information, not legal advice; no currency amounts in the post.",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8716"
+    },
+    {
+      "fact": "Iberia allows one cabin bag up to 10 kg with max. 56 x 40 x 25 cm; the Befree Advanced folds to 40 cm.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "The K&F Concept is sold in Spain under the same code O234A1+BH-36 as \"Trípode Cámara 163CM\".",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "fact": "Vanguard (vanguardworld.es / .de) sells the EU ALTA PRO 263AB G2: 171 cm max, 69,5 cm folded, 2,29 kg, 10 kg load, column 0-180 degrees.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    },
+    {
+      "fact": "Local terms: rótula de bola, rótula fluida, columna central, zapata/placa de liberación rápida; Arca-Swiss keeps its name.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Ring light and phone on the same stand make the shot shaky and badly lit (common advice in Spanish creator content).",
+      "fix": "Put the ring light behind the tripod, not beside the lens; keep the phone on its own tripod (English setup section).",
+      "quotes": [],
+      "sources": [
+        "https://www.tiktok.com/@albanivoice/video/7582630842900532487"
+      ]
+    },
+    {
+      "pain": "Solo hosts struggle to frame themselves before going live.",
+      "fix": "Frame from where you will stand or sit and run a private test stream for a minute (English steps 3 and 6).",
+      "quotes": [],
+      "sources": [
+        "https://store.dji.com/es/content/grabar-tiktok-reels-shorts-con-gimbal"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Whether a Spanish streamer must register under Real Decreto 444/2024 (1M followers on one platform / 24 videos a year, plus income).",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-8716"
+    },
+    {
+      "point": "Befree Advanced folded (40 cm) vs Iberia cabin bag 56 x 40 x 25 cm.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Vanguard's EU metric figures for the ALTA PRO 263AB G2 and the EU Befree code MKBFRLA4BK-BH.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC: average US man 68.9 in, woman 63.5 in",
+      "action": "replace",
+      "with": "No official Spanish adult height source found: keep the CDC figures but label them clearly as US averages (EE. UU.) and link CDC."
+    },
+    {
+      "english": "\"each with an in-stock Amazon US listing\" (selection method)",
+      "action": "replace",
+      "with": "Keep as a statement about how the picks were chosen (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "Manfrotto \"1 kg payload\" body link",
+      "action": "replace",
+      "with": "Keep the 1 kg figure as plain text (the local fact link takes the third outside-link slot; max 3 outside links)."
+    },
+    {
+      "english": "Whatnot (US-centred live selling app) references",
+      "action": "replace",
+      "with": "Keep, but present Whatnot as one live-selling app next to TikTok Live; no local claim about its availability."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "lang": "nl",
+  "translationOf": "best-mini-tripod-for-desk-video-calls",
+  "checkedAt": "2026-11-01T17:48:57.513Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "localVariant",
+      "variant": "EU retailers list the PIXI Mini mostly under the code MTPIXIMII-B (Thomann, Amazon.es search); Amazon.es also carries the MTPIXI-B listing under the same ASIN B00D76RNLS. No spec difference is stated in the sources seen.",
+      "metricSpecs": "About 13.5 cm fixed height, about 18.5 cm folded, 1 kg load (Thomann listing, already metric in the English post)",
+      "reason": "Sold in the EU through Thomann and Amazon.es; model code on EU listings is often MTPIXIMII-B.",
+      "source": "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod with Ball Head",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "22-44 cm length range, 170 g, max load 1.5 kg, ABS and aluminum (Ulanzi product page)",
+      "reason": "Listed on Amazon .nl as \"ULANZI MT-16\" (22-44 cm) and on Ulanzi's EU store page.",
+      "source": "https://www.amazon.nl/-/en/ULANZI-Camera-Vlogging-Extendable-Smartphone/dp/B0CPSFF72R"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "410 g, ball head 2 kg (Foto Koch); Foto Koch also lists a 113 mm working height that conflicts with the 23 cm in the English post, so it is not used",
+      "reason": "Kamera Express sells the SmallRig 2664 Tabletop Mini Tripod with Panoramic Ball Head.",
+      "source": "https://www.kamera-express.nl/smallrig-2664-tabletop-mini-tripod-with-pan"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Arboportaal: ook bij thuiswerken moet de werkgever zorgen voor een gezonde en veilige werkplek die is aangepast aan de werknemer; het Arbobesluit vraagt dat de thuiswerkplek volgens ergonomische beginselen is ingericht.",
+      "source": "https://www.arboportaal.nl/onderwerpen/inrichting-werkvloer/fit-en-vitaal-thuiswerken/wat-staat-er-in-de-wet-over-thuiswerken"
+    },
+    {
+      "fact": "Rijksoverheid: de werkgever bekijkt per werknemer welke middelen nodig zijn om goed en veilig thuis te werken, en de werknemer gebruikt de middelen die de werkgever aanbiedt.",
+      "source": "https://www.rijksoverheid.nl/themas/werk/arbeidsomstandigheden/arbeidsomstandigheden-thuiswerken"
+    },
+    {
+      "fact": "Arboportaal noemt een goede positie van het beeldscherm als belangrijk punt bij het inrichten van de thuiswerkplek.",
+      "source": "https://www.arboportaal.nl/onderwerpen/inrichting-werkvloer/fit-en-vitaal-thuiswerken/wat-staat-er-in-de-wet-over-thuiswerken"
+    },
+    {
+      "fact": "Termen: tafelstatief / ministatief, balhoofd, 1/4\"-schroefdraad, flitsschoen (cold shoe), Arca-Swiss-snelwisselplaat.",
+      "source": "https://www.kamera-express.nl/smallrig-2664-tabletop-mini-tripod-with-pan"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Geen webcam, maar wel videobellen: de telefoon wordt de webcam.",
+      "fix": "Ministatief met telefoonklem (de PIXI Mini heeft er geen); de Ulanzi MT-16 geeft de meeste hoogte.",
+      "quotes": [
+        {
+          "text": "Gebruik dan zoiets als Iriun of droidcam om je telefoon te kunnen gebruiken als webcam",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1978964"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1978964"
+      ]
+    },
+    {
+      "pain": "Scherm of camera staat te laag en is niet in hoogte verstelbaar.",
+      "fix": "Een verhoging (boeken, doos) onder het statief, zoals de Engelse post adviseert.",
+      "quotes": [
+        {
+          "text": "Het scherm kan je niet in hoogte instellen dus maar enkele zwarte boeken onder gezet zodat het scherm hoog staat.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2101506/5"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2101506/5"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Werk je in loondienst thuis, dan ligt de zorgplicht voor een goede thuiswerkplek bij de werkgever: overleg eerst wat je nodig hebt.",
+      "source": "https://www.arboportaal.nl/onderwerpen/inrichting-werkvloer/fit-en-vitaal-thuiswerken/wat-staat-er-in-de-wet-over-thuiswerken"
+    },
+    {
+      "point": "Telefoon-als-webcam (Tweakers) koppelen aan klem + Ulanzi-hoogte.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1978964"
+    },
+    {
+      "point": "Metrische fabrikantgegevens: Ulanzi 22-44 cm, 170 g, 1,5 kg.",
+      "source": "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "kept only models with a clear Amazon US listing ... for the GorillaPod kit, no Amazon US listing",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific selection rule (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "About 9 in tall / folded about 9 in (SmallRig)",
+      "action": "replace",
+      "with": "Metric first: about 23 cm (9 in); 2 kg (4.4 lb)."
+    },
+    {
+      "english": "Lighting matters as much as the tripod: face a window",
+      "action": "replace",
+      "with": "Window advice adjusted with the local screen-placement fact (screen parallel to the window / no glare), keeping the small light on the cold shoe."
+    }
+  ]
+}

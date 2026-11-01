@@ -2,11 +2,9 @@
   "slug": "nl/statief-voor-buiten-schilderen",
   "lang": "nl",
   "translationOf": "best-tripod-for-plein-air-painting",
-  "pass": false,
-  "checkedAt": "2026-11-01T17:56:02.100Z",
-  "errors": [
-    "facts not verified yet: compare every claim with the English post and its sources, then run `node scripts/routine.mjs factcheck nl/statief-voor-buiten-schilderen \"<notes>\"`"
-  ],
+  "pass": true,
+  "checkedAt": "2026-11-01T17:56:10.104Z",
+  "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
     "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the nl version once it exists",

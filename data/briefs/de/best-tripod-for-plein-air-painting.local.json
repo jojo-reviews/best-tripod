@@ -1,0 +1,125 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-plein-air-painting",
+  "checkedAt": "2026-11-01T17:50:00Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Twist Carbon Tripod Kit",
+      "asin": "B07DV2MH29",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRTC4-BH (US page: MKBFRTC4-BHUS). EU retailer listings give 8 kg max. load instead of the 9 kg safety payload on the US page; same 494 ball head, 4 carbon sections, twist locks.",
+      "metricSpecs": "150 cm max. height, 127 cm without center column, 41 cm folded, 1,25 kg, 8 kg max. load (EU listing)",
+      "reason": "Sold in the EU as MKBFRTC4-BH; EU listings state 8 kg, the US Manfrotto page 9 kg safety payload. Plan around 8 kg in the EU.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "name": "SIRUI Traveler 5CX Carbon Fiber Travel Tripod",
+      "asin": "B07KD3R47X",
+      "status": "fits",
+      "metricSpecs": "0,925 kg with ball head (amazon.es listing); 6 kg max. load",
+      "reason": "Listed by German retailers (Calumet, Fotokoch) on idealo.de and on amazon.es/amazon.nl under the same name.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/201082155_-traveler-5cx-sirui.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod Aluminum",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max., 130,2 cm column down, 39,4 cm folded, 1,56 kg, 9,1 kg load (from the English post figures)",
+      "reason": "Sold through Peak Design's EU web store under the same name.",
+      "source": "https://www.peakdesign.com/eu/products/travel-tripod"
+    },
+    {
+      "name": "ZOMEI Q666 Aluminum Tripod",
+      "asin": "B01KLLW046",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing: 35 cm folded, 152 cm total height; amazon.de listing title: 155 cm",
+      "reason": "Q666 listings exist on amazon.de, amazon.es and amazon.nl (other ASINs, same model).",
+      "source": "https://www.amazon.de/Aluminiumlegierung-Reisestativ-Fotostativ-Einbeinstativ-Reisebegleiter/dp/B07F3TKNM9"
+    },
+    {
+      "name": "Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod",
+      "asin": "B097Z1TNBP",
+      "status": "fits",
+      "metricSpecs": "38,5 cm folded (Benro EU page)",
+      "reason": "Same ASIN listed on amazon.de and amazon.es; Benro sells it through its EU stores (uk/de.benroeu.com).",
+      "source": "https://uk.benroeu.com/mefoto-roadtrip-pro/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h (DWD-Schwellenwerte) und schreibt: \"Regenschirme sind nur schwer zu halten\".",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Lufthansa erlaubt in Economy Light/Comfort/Flex ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg; in Economy Basic nur einen persönlichen Gegenstand bis 40 x 30 x 15 cm. Ein Stativ mit 41 cm Packmaß passt in die 55-cm-Länge.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "In der EU wird das Befree-Advanced-Carbon-Set als MKBFRTC4-BH mit 8 kg Tragkraft, 150 cm, 127 cm ohne Mittelsäule, 41 cm Packmaß und 1,25 kg gelistet.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "fact": "Fachbegriffe: Kugelkopf (ball head), Schnellwechselplatte (quick release plate), Mittelsäule, Feldstaffelei, Pochade-Box/Malkasten; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.daskreativeuniversum.de/plein-air-malerei-ausruestung/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Wind macht das Malen im Freien ungemütlich, wenn die Staffelei nicht stabil steht.",
+      "fix": "Säule unten, Beine weit, Rucksack an den Haken; bei Windstärke 6 (DWD: Regenschirme schwer zu halten) Schirm schließen.",
+      "quotes": [
+        {
+          "text": "Malst du ohne Utensilien einfach drauf los, kann es bei Wind und Wetter sehr ungemütlich werden.",
+          "url": "https://www.daskreativeuniversum.de/plein-air-malerei-ausruestung/"
+        }
+      ],
+      "sources": [
+        "https://www.daskreativeuniversum.de/plein-air-malerei-ausruestung/"
+      ]
+    },
+    {
+      "pain": "Ein Stativ soll leicht sein, aber stabil und schnell aufgebaut.",
+      "fix": "Carbon-Picks (Befree, Sirui) für Wege und Flug, Peak Design für den schnellsten Aufbau.",
+      "quotes": [
+        {
+          "text": "Mein Stativ ist leicht, aber stabil und verfügt über eine Schnellwechselplatte sowie Beine mit Schnappverschluss",
+          "url": "https://danielsmith.com/de/tutorials/tips-plein-air-painting-georgia-mansur/"
+        }
+      ],
+      "sources": [
+        "https://danielsmith.com/de/tutorials/tips-plein-air-painting-georgia-mansur/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "EU-Tragkraft des Befree-Sets: 8 kg (MKBFRTC4-BH) statt 9 kg auf der US-Seite; eine 2,7-kg-Box nutzt etwa 34 %.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "point": "Windgrenze in km/h nach DWD (Windstärke 6, 40 bis 45 km/h, Schirme schwer zu halten) statt US-Angabe in mph.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "point": "Handgepäckmaß Lufthansa 55 x 40 x 23 cm, 8 kg: alle fünf Stative (31,5 bis 41 cm) passen von der Länge her.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Close the umbrella in a strong breeze of 25-31 mph, when the National Weather Service says umbrellas are hard to use.",
+      "action": "replace",
+      "with": "DWD Windwarnskala: Windstärke 6, 40 bis 45 km/h, Regenschirme nur schwer zu halten (link wettergefahren.de instead of weather.gov)."
+    },
+    {
+      "english": "small enough for a carry-on (no airline named)",
+      "action": "replace",
+      "with": "Lufthansa-Handgepäck 55 x 40 x 23 cm, 8 kg (plain text, no extra outside link)."
+    },
+    {
+      "english": "Amazon stock was thin when I checked",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}

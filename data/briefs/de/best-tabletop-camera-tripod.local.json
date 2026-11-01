@@ -1,0 +1,141 @@
+{
+  "lang": "de",
+  "translationOf": "best-tabletop-camera-tripod",
+  "checkedAt": "2026-11-01T17:50:23.369Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto (metric on its own page): 10.5-20 cm height, 20.5 cm closed, 0.26 kg, 2.5 kg safety payload; Manfrotto ES/FR pages: \"hasta 2,5 kg\" / \"jusqu'à 2,5 kg\"",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK: Calumet.de (in stock), Amazon.es (MTPIXIEVO-BK listing), fotok.es, Manfrotto global-es page.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13.5 cm height, 18.5 cm closed, 1 kg load (already metric in the English post)",
+      "reason": "Amazon.de and Amazon.es list the MTPIXI-B under the same ASIN B00D76RNLS (Tischstativ / Minitrípode Pixi). B&H lists MTPIXIMII-B as the replacement code; EU shops may show either code.",
+      "source": "https://www.amazon.de/Manfrotto-MTPIXI-B-Tischstativ-Compact-Standard/dp/B00D76RNLS"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod BUT2664",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "SmallRig/Amazon.de listing: \"Maximale Tragfähigkeit 2 kg\" (head); other figures already metric in the English post (113 mm, 230 mm, 410 g)",
+      "reason": "Amazon.de sells \"SMALLRIG Kamerastativ Leichtes Mini-Reisestativ aus Aluminium - BUT2664\" (EU ASIN B0833PTRH7).",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Kamerastativ-Leichtes-Mini-Reisestativ-Aluminium/dp/B0833PTRH7"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "No EU maker page read; English post figures: 3 kg load, about 30 cm height, about 393 g",
+      "reason": "Amazon.es sells \"JOBY JB01507 GorillaPod Kit 3K\" under the same ASIN B074WC9YKL; Dutch review site avondfotografie.nl reviewed it in Amsterdam; fotocinecolor.com (ES) lists it.",
+      "source": "https://www.amazon.es/Joby-GorillaPod-Digitales-C%C3%A1maras-Pel%C3%ADcula/dp/B074WC9YKL"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 22-44 cm, 170 g, 1.5 kg; Amazon.nl listing: 171 g, item number Ulanzi 2052 (its 20 cm package size is not the folded length, so not used)",
+      "reason": "Amazon.nl sells \"ULANZI MT-16 Tripod & Selfie Stick\" (item number 2052); Ulanzi ships the same 2052 model worldwide.",
+      "source": "https://www.amazon.nl/-/en/ULANZI-MT-16-Tripod-Selfie-Smartphone/dp/B08N6ZG9F2"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Die Staatlichen Museen zu Berlin verlangen in ihrer Benutzungsordnung, dass Stative (ebenso Fotokoffer und Taschen über 30 x 20 x 10 cm) abgegeben oder ins Schließfach gelegt werden; auch ein Tischstativ gehört also in die Garderobe.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "fact": "Das Humboldt Forum in Berlin erlaubt private Fotos, aber die Nutzung von Stativen ist im Innenbereich nicht gestattet.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "Das Altonaer Museum (Historische Museen Hamburg) bittet, in den Ausstellungsräumen nur ohne Blitz und ohne Stativ zu fotografieren; ähnlich das Museum Wiesbaden (ohne Blitz, Stativ, Selfiestab).",
+      "source": "https://www.shmh.de/altonaer-museum/hausordnung-des-altonaer-museums/"
+    },
+    {
+      "fact": "Ryanair erlaubt in jedem Tarif eine kleine persönliche Tasche von 40 x 30 x 20 cm unter dem Sitz; PIXI Mini, PIXI EVO, SmallRig und Ulanzi messen zusammengeklappt 18,5 bis 23 cm und passen hinein.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Der Kugelkopf eines Mini-Stativs hält eine Kamera mit Makroobjektiv nicht in der festgestellten Position und kippt langsam nach unten.",
+      "fix": "Kopf-Tragkraft mit 50 % Reserve wählen (Kamera + Objektiv wiegen, verdoppeln); bei schwererem Setup PIXI EVO (2,5 kg) oder SmallRig-Panoramakopf statt PIXI Mini; nach 10 Sekunden auf Kriechen prüfen.",
+      "quotes": [
+        {
+          "text": "Ich suche eine Alternative zum Manfrotto Pixi, bei dem die Kamera zuverlässig in der Position bleibt, in der man den Gelenkkopf fixiert hat.",
+          "url": "https://www.fuji-x-forum.de/topic/61038-alternative-zu-manfrotto-pixi/"
+        },
+        {
+          "text": "Ich habe mich aber für einen Kugelkopf mit Panorama-Funktion von Smallrig entschieden.",
+          "url": "https://www.fuji-x-forum.de/topic/61038-alternative-zu-manfrotto-pixi/"
+        }
+      ],
+      "sources": [
+        "https://www.fuji-x-forum.de/topic/61038-alternative-zu-manfrotto-pixi/"
+      ]
+    },
+    {
+      "pain": "Ein kleines Tischstativ kippt mit schwerem Objektiv nach vorne.",
+      "fix": "Ein Bein nach vorne unter das Objektiv drehen, den weiteren Beinwinkel nutzen und den Kopf nahe der Waagerechten halten (Abschnitt gegen Kippen im englischen Beitrag).",
+      "quotes": [
+        {
+          "text": "Wenn es ein kleines 15cm so in dem Dreh Tischstativ ist wird das nichts werden, es sei denn man bringt ein Gegengewicht hinten an",
+          "url": "https://www.gutefrage.net/frage/warum-kippt-meine-kamera-auf-dem-stativ-immer-nach-vorne"
+        },
+        {
+          "text": "drehe das Stativ mal so, dass ein Bein von den drei Beinen vorne steht, also unter dem Objetiv",
+          "url": "https://www.gutefrage.net/frage/warum-kippt-meine-kamera-auf-dem-stativ-immer-nach-vorne"
+        }
+      ],
+      "sources": [
+        "https://www.gutefrage.net/frage/warum-kippt-meine-kamera-auf-dem-stativ-immer-nach-vorne"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Vor dem Museumsbesuch prüfen: Berliner Staatliche Museen und Humboldt Forum lassen auch kleine Stative nicht in die Ausstellung; ein Tischstativ hilft dort nicht.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "point": "Die starren Modelle und das Ulanzi passen zusammengeklappt in die kleine Gratis-Tasche von Ryanair (40 x 30 x 20 cm).",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Antwort auf das im Fuji-X-Forum beschriebene Kriechen des PIXI-Kopfes mit Makroobjektiv: Kopf-Tragkraft statt Bein-Tragkraft vergleichen und 50 % Reserve lassen.",
+      "source": "https://www.fuji-x-forum.de/topic/61038-alternative-zu-manfrotto-pixi/"
+    },
+    {
+      "point": "Alle Maße metrisch zuerst, wie die Hersteller sie angeben (Manfrotto: 10,5-20 cm, 2,5 kg).",
+      "source": "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific statement (checked on Amazon US); never mention a local Amazon store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "keep, phrased as US-specific (the Amazon US listing); no local-store claim"
+    },
+    {
+      "english": "Ulanzi and B&H list 1.5 kg, but the Amazon listing gives 0.5 kg",
+      "action": "replace",
+      "with": "keep the conflict, name it the Amazon US listing"
+    },
+    {
+      "english": "about 12 in of height (GorillaPod 3K Kit)",
+      "action": "replace",
+      "with": "metric first: etwa/unos/ongeveer 30 cm (12 in), per B&H"
+    }
+  ]
+}

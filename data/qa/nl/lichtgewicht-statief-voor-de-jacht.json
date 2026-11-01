@@ -1,0 +1,24 @@
+{
+  "slug": "nl/lichtgewicht-statief-voor-de-jacht",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-backcountry-hunting",
+  "pass": true,
+  "checkedAt": "2026-11-01T17:58:57.617Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-binoculars/; link the nl version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the nl version once it exists",
+    "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with the English post (same 5 products/ASINs, scores, specs keys, FAQ answers, sources). Unit conversions checked (1 in = 2,54 cm, 1 lb = 0,4536 kg); maker/distributor metric figures re-opened: Seven Oaks DE (Summit 1133 g, Ridgeview 187 cm), Kamera Express NL (Summit 46 cm, 9,98 kg), Vanguard UK (970 g, 34 cm), Leupold/cazaydefensa (907 g, 12,7-147,3 cm), Primos retailers (61-157 cm). No testing/ownership claims, no prices, no local Amazon store. Local facts: KLM 55x35x25 cm (klm.com), CBS men 20+ 1,81 m in 2018 (cbs.nl), Primos 'schietstok 3-poot' with removable V rest (metsjachthuis.nl), Kamera Express Summit figures; quotes verified verbatim at vogelinformatiecentrum.nl/statieven-3. US CDC height replaced by CBS; yards converted to m.",
+    "at": "2026-11-01T17:58:56.124Z",
+    "hash": "5b2b1dea34c078eb"
+  }
+}

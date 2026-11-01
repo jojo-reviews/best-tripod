@@ -1,0 +1,109 @@
+{
+  "lang": "de",
+  "translationOf": "best-mini-tripod-for-desk-video-calls",
+  "checkedAt": "2026-11-01T17:48:57.513Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "localVariant",
+      "variant": "EU retailers list the PIXI Mini mostly under the code MTPIXIMII-B (Thomann, Amazon.es search); Amazon.es also carries the MTPIXI-B listing under the same ASIN B00D76RNLS. No spec difference is stated in the sources seen.",
+      "metricSpecs": "About 13.5 cm fixed height, about 18.5 cm folded, 1 kg load (Thomann listing, already metric in the English post)",
+      "reason": "Sold in the EU through Thomann and Amazon.es; model code on EU listings is often MTPIXIMII-B.",
+      "source": "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod with Ball Head",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "22-44 cm length range, 170 g, max load 1.5 kg, ABS and aluminum (Ulanzi product page)",
+      "reason": "Listed on Amazon .de as \"ULANZI MT-16\" (22-44 cm) and on Ulanzi's EU store page.",
+      "source": "https://www.amazon.de/-/en/MT-16-Extendable-ULANZI-Smartphone-Smartphones/dp/B08N6ZG9F2"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "410 g, ball head 2 kg (Foto Koch); Foto Koch also lists a 113 mm working height that conflicts with the 23 cm in the English post, so it is not used",
+      "reason": "Foto Koch and Amazon.de sell the SmallRig 2664 / BUT2664.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Die BGHM (Berufsgenossenschaft Holz und Metall) empfiehlt, den Bildschirm so aufzustellen, dass die oberste Zeile unterhalb der Augenhöhe liegt; ein Kameraobjektiv auf Augenhöhe gehört deshalb über den oberen Bildschirmrand, nicht vor den Bildschirm.",
+      "source": "https://www.bghm.de/arbeitsschuetzer/praxishilfen/arbeitsschutz-kompakt/065-bildschirmarbeit"
+    },
+    {
+      "fact": "BGHM: Sehabstand zum Bildschirm mindestens 500 mm (bei 24-Zoll-Breitbild 1000 mm empfohlen); das bestimmt, wie weit das Stativ mit Kamera von dir entfernt steht.",
+      "source": "https://www.bghm.de/arbeitsschuetzer/praxishilfen/arbeitsschutz-kompakt/065-bildschirmarbeit"
+    },
+    {
+      "fact": "BGHM: Blickrichtung parallel zur Fensterfront, damit Blendung und Reflexionen vermieden werden; das Tageslicht kommt dann von der Seite.",
+      "source": "https://www.bghm.de/arbeitsschuetzer/praxishilfen/arbeitsschutz-kompakt/065-bildschirmarbeit"
+    },
+    {
+      "fact": "Fachbegriffe: Tischstativ / Ministativ, Kugelkopf, Stativgewinde 1/4 Zoll, Blitzschuh (Cold Shoe), Arca-Swiss-Schnellwechselplatte.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Kein großes Stativ neben dem Schreibtisch, die Kamera soll trotzdem beweglich am Tisch stehen.",
+      "fix": "Ein Tischstativ wie das Ulanzi MT-16 (22 bis 44 cm) oder das SmallRig auf einer Erhöhung statt eines Bodenstativs.",
+      "quotes": [
+        {
+          "text": "Möchte ungern ein Stativ neben dem Schreibtisch aufstellen.",
+          "url": "https://www.dslr-forum.de/threads/nex-3n-als-webcam.2043145/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/nex-3n-als-webcam.2043145/"
+      ]
+    },
+    {
+      "pain": "Licht, Mikrofon und Kamera sollen gemeinsam neben dem Monitor stehen.",
+      "fix": "Der Blitzschuh des Ulanzi MT-16 trägt ein kleines Mikrofon oder Licht direkt am Stativ.",
+      "quotes": [
+        {
+          "text": "Kann hier jemand eine Empfehlung ausprechen für eine Tischhalterung mit der ich Licht, Mikrofon und Kamera seitlich von meinem Monitor auf dem Schreibtisch",
+          "url": "https://www.dslr-forum.de/threads/trainer-sucht-webcam-videokamera.2054568/page-2"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/trainer-sucht-webcam-videokamera.2054568/page-2"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Kamera-Höhe mit der BGHM-Bildschirmregel abstimmen: Bildschirm-Oberkante unter Augenhöhe, Objektiv knapp darüber auf Augenhöhe.",
+      "source": "https://www.bghm.de/arbeitsschuetzer/praxishilfen/arbeitsschutz-kompakt/065-bildschirmarbeit"
+    },
+    {
+      "point": "Fenster seitlich statt frontal (BGHM, gegen Blendung) plus kleines Licht am Blitzschuh.",
+      "source": "https://www.bghm.de/arbeitsschuetzer/praxishilfen/arbeitsschutz-kompakt/065-bildschirmarbeit"
+    },
+    {
+      "point": "Herstellerangaben metrisch: Ulanzi 22-44 cm, 170 g, 1,5 kg.",
+      "source": "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "kept only models with a clear Amazon US listing ... for the GorillaPod kit, no Amazon US listing",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific selection rule (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "About 9 in tall / folded about 9 in (SmallRig)",
+      "action": "replace",
+      "with": "Metric first: about 23 cm (9 in); 2 kg (4.4 lb)."
+    },
+    {
+      "english": "Lighting matters as much as the tripod: face a window",
+      "action": "replace",
+      "with": "Window advice adjusted with the local screen-placement fact (screen parallel to the window / no glare), keeping the small light on the cold shoe."
+    }
+  ]
+}

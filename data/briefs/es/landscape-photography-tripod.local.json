@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "translationOf": "landscape-photography-tripod",
+  "checkedAt": "2026-11-01T17:49:12.447Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "14 cm minimum working height, 152,4 cm maximum working height, 39,1 cm packed length, 9,1 kg load (Foto Koch listing, maker article 59202040)",
+      "reason": "Sold in Germany under the same name by Foto Koch; Peak Design sells it worldwide from its own shop.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "MKBFRLA4BK-BH (EU/CA code) instead of the US MKBFRLA4BK-BHUS; same Befree Advanced lever aluminium kit with ball head",
+      "metricSpecs": "1,59 kg with head, 128 cm with the column down, 151 cm column up, 40 cm folded (Manfrotto); the German retailer Foto Erhardt lists an 8 kg max load for the -BH kit versus 9 kg safety payload on the Manfrotto US page",
+      "reason": "The English post links the -BHUS page; in Europe the same kit is sold as MKBFRLA4BK-BH (Foto Erhardt, Manfrotto CA page uses the same code).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "reason": "The Gen 2 kit appears on Vanguard USA, B&H and Adorama only. Vanguard Spain lists the earlier Alta Pro 2 263AB 100 (BH-100 head, 140,5 cm without column, 173,7 cm max, 70 cm folded, 2,207 kg, 7 kg load) as discontinued; no EU page for the Gen 2 was found. Not swapped: one neutral sentence in its Who it is for text.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)",
+      "asin": "B00G36G7WU",
+      "status": "fits",
+      "metricSpecs": "160 cm column up, 135 cm column down, 9 cm minimum, 59 cm folded, 2 kg, 15 kg safety payload (Manfrotto global page, already in the post)",
+      "reason": "Manfrotto sells the MT190XPRO3 under the same code on its global site; a long-running EU model.",
+      "source": "https://www.manfrotto.com/global-en/190xpro-aluminium-3-section-camera-tripod-mt190xpro3/"
+    },
+    {
+      "name": "Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NCDW",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe lists the CT-3472 M2 Rapid at 1,81 kg and a load of over 30 kg (the post uses 1,78 kg / 30 kg from feisol.net)",
+      "reason": "Feisol Europe (feisol.eu) sells the CT-3472 M2 Rapid directly; the maker sells the Mark 2 version, as the English post notes.",
+      "source": "https://www.feisol.eu/shop/shop/tripods/rapid-carbon-tripods/elite-tripods/feisol-elite-tripod-ct-3472-m2-rapid/?lang=en"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "The Alhambra (Patronato de la Alhambra y Generalife) only allows photos without flash and without a tripod, monopod or any other camera stabiliser.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Parque Nacional del Teide: professional photography, filming, video and advertising activities inside the park need an authorisation.",
+      "source": "https://www.gobiernodecanarias.org/parquesnacionales/teide/tramites/autorizaciones/"
+    },
+    {
+      "fact": "Iberia Express allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm including handle, pockets and wheels. The Peak Design (39,4 cm) and the Befree Advanced (40 cm) fold well under 56 cm; the MT190XPRO3 (59 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.iberiaexpress.com/informacion-general/informacion-pasajero/antes-de-volar/equipaje/mano"
+    },
+    {
+      "fact": "Vanguard Spain lists the earlier Alta Pro 2 263AB 100 kit as discontinued; the Gen 2 in this post was found on Vanguard US pages.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Monument visits where tripods are banned.",
+      "fix": "Check the venue rules before you pack the tripod; the Alhambra bans tripods and monopods, so plan long exposures from outside the monument.",
+      "quotes": [
+        {
+          "text": "Leyendo las normas veo que está prohibido el uso de tripode y flash",
+          "url": "https://www.nikonistas.com/digital/foro/topic/285147-consejos-visita-a-la-alhambra/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/285147-consejos-visita-a-la-alhambra/"
+      ]
+    },
+    {
+      "pain": "A flimsy tripod ruins long exposures.",
+      "fix": "Pick thicker 3-section legs (Alta Pro, MT190XPRO3) or the column-free Feisol and keep the column down.",
+      "quotes": [
+        {
+          "text": "la verdad es que el trípode que tengo es bastante flojo",
+          "url": "https://www.nikonistas.com/digital/foro/topic/141941-fotos-con-la-d5100/page/343/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/141941-fotos-con-la-d5100/page/343/"
+      ]
+    },
+    {
+      "pain": "Blur that could come from the tripod or the wind.",
+      "fix": "Column down, weight on the hook, 2-second timer or remote (English post fixes).",
+      "quotes": [
+        {
+          "text": "¿Seguro que no hay trepidación por el trípode usado, el viento, etc.?",
+          "url": "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Alhambra tripod and monopod ban, so the reader plans the shot outside.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Teide National Park authorisation for professional photography.",
+      "source": "https://www.gobiernodecanarias.org/parquesnacionales/teide/tramites/autorizaciones/"
+    },
+    {
+      "point": "Which picks fit an Iberia Express cabin bag (56 cm) by folded length.",
+      "source": "https://www.iberiaexpress.com/informacion-general/informacion-pasajero/antes-de-volar/equipaje/mano"
+    },
+    {
+      "point": "Metric figures first and the local term rótula for head.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "walk a few hundred yards",
+      "action": "replace",
+      "with": "a few hundred metres (metric)"
+    },
+    {
+      "english": "shooters over six feet",
+      "action": "replace",
+      "with": "photographers over about 1,83 m"
+    },
+    {
+      "english": "the Amazon listing is thinly stocked",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Manfrotto MKBFRLA4BK-BHUS page (US code)",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product name in the text"
+    },
+    {
+      "english": "a clear Amazon US listing (selection method)",
+      "action": "replace",
+      "with": "keep as a statement about how we selected (an Amazon listing), no local-store claim"
+    }
+  ]
+}

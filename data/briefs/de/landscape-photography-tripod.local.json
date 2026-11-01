@@ -1,0 +1,151 @@
+{
+  "lang": "de",
+  "translationOf": "landscape-photography-tripod",
+  "checkedAt": "2026-11-01T17:49:12.447Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "14 cm minimum working height, 152,4 cm maximum working height, 39,1 cm packed length, 9,1 kg load (Foto Koch listing, maker article 59202040)",
+      "reason": "Sold in Germany under the same name by Foto Koch; Peak Design sells it worldwide from its own shop.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "MKBFRLA4BK-BH (EU/CA code) instead of the US MKBFRLA4BK-BHUS; same Befree Advanced lever aluminium kit with ball head",
+      "metricSpecs": "1,59 kg with head, 128 cm with the column down, 151 cm column up, 40 cm folded (Manfrotto); the German retailer Foto Erhardt lists an 8 kg max load for the -BH kit versus 9 kg safety payload on the Manfrotto US page",
+      "reason": "The English post links the -BHUS page; in Europe the same kit is sold as MKBFRLA4BK-BH (Foto Erhardt, Manfrotto CA page uses the same code).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "reason": "The Gen 2 kit appears on Vanguard USA, B&H and Adorama only. Vanguard Spain lists the earlier Alta Pro 2 263AB 100 (BH-100 head, 140,5 cm without column, 173,7 cm max, 70 cm folded, 2,207 kg, 7 kg load) as discontinued; no EU page for the Gen 2 was found. Not swapped: one neutral sentence in its Who it is for text.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)",
+      "asin": "B00G36G7WU",
+      "status": "fits",
+      "metricSpecs": "160 cm column up, 135 cm column down, 9 cm minimum, 59 cm folded, 2 kg, 15 kg safety payload (Manfrotto global page, already in the post)",
+      "reason": "Manfrotto sells the MT190XPRO3 under the same code on its global site; a long-running EU model.",
+      "source": "https://www.manfrotto.com/global-en/190xpro-aluminium-3-section-camera-tripod-mt190xpro3/"
+    },
+    {
+      "name": "Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NCDW",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe lists the CT-3472 M2 Rapid at 1,81 kg and a load of over 30 kg (the post uses 1,78 kg / 30 kg from feisol.net)",
+      "reason": "Feisol Europe (feisol.eu) sells the CT-3472 M2 Rapid directly; the maker sells the Mark 2 version, as the English post notes.",
+      "source": "https://www.feisol.eu/shop/shop/tripods/rapid-carbon-tripods/elite-tripods/feisol-elite-tripod-ct-3472-m2-rapid/?lang=en"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows carry-on bags of max. 55 x 40 x 23 cm. The Peak Design (39,4 cm) and the Befree Advanced (40 cm) fold shorter than 55 cm; the MT190XPRO3 (59 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Nationalpark Saechsische Schweiz: in the core zone (Kernzone) only marked or signposted paths may be used, so a tripod spot off the trail is not allowed there.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "fact": "German retailers sell the Befree Advanced lever aluminium kit as MKBFRLA4BK-BH and list 128 cm height and 40 cm pack size.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "fact": "Feisol sells the CT-3472 M2 Rapid in Europe through feisol.eu, listed at 1,81 kg.",
+      "source": "https://www.feisol.eu/shop/shop/tripods/rapid-carbon-tripods/elite-tripods/feisol-elite-tripod-ct-3472-m2-rapid/?lang=en"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A light tripod shakes on night/long exposures even in a light wind.",
+      "fix": "Keep the column down, collapse the thinnest sections first, hang a bag from the hook; thicker 3-section legs (Alta Pro, MT190XPRO3) resist gusts better.",
+      "quotes": [
+        {
+          "text": "Nach einigen Nachtaufnahmen habe ich nämlich festgestellt, das dieses Stativ mehr wackelt als mir lieb ist und das schon bei sehr wenig Wind.",
+          "url": "https://www.dslr-forum.de/threads/stativ-fuer-350d-cullmann-3335-bzw-3000-was-haltet-ihr-von-diesem.103760/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/stativ-fuer-350d-cullmann-3335-bzw-3000-was-haltet-ihr-von-diesem.103760/"
+      ]
+    },
+    {
+      "pain": "Legs set narrow in wind wobble more.",
+      "fix": "Spread the legs wide (English post wind fix); extra leg-angle stops help on uneven ground.",
+      "quotes": [
+        {
+          "text": "Wenn man bei Wind die Beine nicht breit stellt, sondern schmal, wackelt das Stativ eher.",
+          "url": "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+      ]
+    },
+    {
+      "pain": "Landscape trips to windy, wet coasts such as the North Sea with salt water.",
+      "fix": "Twist locks pick up grit; rinse the legs after sand or salt (English post link to the beach cleaning guide); flip locks show when they are closed.",
+      "quotes": [
+        {
+          "text": "vor allem in windigen und feuchten Einsatzgebieten (Nordsee (Salzwasser!)",
+          "url": "https://www.dslr-forum.de/threads/stativ-bis-350eur.1793150/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/stativ-bis-350eur.1793150/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which picks fit Lufthansa carry-on length (55 cm) by folded length in cm.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Path rule in the Saechsische Schweiz core zone for tripod spots.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "point": "Metric maker figures first (cm/kg) and the EU kit code MKBFRLA4BK-BH for the Befree.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "point": "North Sea salt-water care for twist locks, answering a German forum pain point.",
+      "source": "https://www.dslr-forum.de/threads/stativ-bis-350eur.1793150/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "walk a few hundred yards",
+      "action": "replace",
+      "with": "a few hundred metres (metric)"
+    },
+    {
+      "english": "shooters over six feet",
+      "action": "replace",
+      "with": "photographers over about 1,83 m"
+    },
+    {
+      "english": "the Amazon listing is thinly stocked",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Manfrotto MKBFRLA4BK-BHUS page (US code)",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product name in the text"
+    },
+    {
+      "english": "a clear Amazon US listing (selection method)",
+      "action": "replace",
+      "with": "keep as a statement about how we selected (an Amazon listing), no local-store claim"
+    }
+  ]
+}

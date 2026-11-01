@@ -1,0 +1,143 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-live-streaming",
+  "checkedAt": "2026-11-01T17:50:27.333Z",
+  "productFit": [
+    {
+      "name": "UBeesize 67 inch Camera Tripod with Travel Bag",
+      "asin": "B08CHFY4R5",
+      "status": "unknown",
+      "metricSpecs": "Spanish-language listings call it \"67 pulgadas (170 cm)\"; no EU maker page with metric specs found",
+      "reason": "No EU (DE/ES/NL) retailer or maker page for this exact model (travel bag + Bluetooth remote, B08CHFY4R5) found; listings found are amazon.com, amazon.com.mx and Latin American resellers. UBeesize has an amazon.de brand page with other models. Translator: one neutral sentence in \"Who it's for\" that it is mainly sold in the Americas and EU listings for this exact kit were not found.",
+      "source": "https://www.amazon.com.mx/UBeesize-distancia-inal%C3%A1mbrico-compatible-proyectores/dp/B08CHFY4R5"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)",
+      "asin": "B0BQN7CMDJ",
+      "status": "fits",
+      "metricSpecs": "13,5 cm max height, 1 kg max load (Foto Koch NL listing); 0,17 kg, 18,5 cm folded (Manfrotto)",
+      "reason": "Italian maker; sold in the EU under the same code MKPIXICLMII-BK (Foto Koch NL, amazon.nl same ASIN).",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "JOBY GorillaPod Mobile Rig",
+      "asin": "B07BVP8K1W",
+      "status": "fits",
+      "metricSpecs": "0,36 kg (B&H, as in the English post); no EU metric load figure found",
+      "reason": "Sold in the EU under the same name (EU code JB01533-BWW) at Amac, Foto Verweij and bol.com.",
+      "source": "https://www.amac.nl/joby-gorillapod-mobile-rig-black-charcoal"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "localVariant",
+      "variant": "Sold in the EU as \"ALTA PRO 263AB G2\" with the VEO BH-60 ball head and Switch QS-45 plate (amazon.de lists it as \"Alta Pro 2+ 263AB G2\" under another ASIN, B0FY3T8GHW). Vanguard Deutschland gives slightly different metric figures than the US page (171 cm vs 68.2 in / 173 cm) and describes flip locks where the US listing says twist locks.",
+      "metricSpecs": "Vanguard Deutschland: max height 171 cm, min working height 24,5 cm, folded 69,5 cm, weight 2,29 kg, load 10 kg, 26 mm legs, 3 sections",
+      "reason": "Vanguard sells the G2 kit through its German site and Calumet DE; same tripod generation, EU naming and EU spec sheet.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same legs, 494 head and plate.",
+      "metricSpecs": "Manfrotto: 151 cm max height, 40 cm closed length, 1,59 kg, 9 kg safety payload (UNI/PdR 105:2021); English post uses 150 cm / 128 cm column down / 40 cm min height / 1,6 kg",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH in stock.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm, 8 kg load (maker naming \"163cm\"); amazon.es listing says 1,24 kg, the English post 1,15 kg (2.5 lb): keep the English figure",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: men aged 20 or older in the Netherlands were on average 1,81 m tall in 2018, women 1,67 m. Replaces the CDC US average for the eye-level check.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "fact": "Commissariaat voor de Media: the Mediawet rules for video-uploaders (e.g. recognisable advertising) apply regardless of follower count; uploaders under active supervision only have to register with the Commissariaat once they have 100.000 or more followers. Supervision covers Instagram, TikTok and YouTube. General information, not legal advice.",
+      "source": "https://www.cvdm.nl/sector/video-uploaders/doe-de-registratiecheck/"
+    },
+    {
+      "fact": "KLM allows one cabin bag of max. 55 x 35 x 25 cm including handles and wheels; the Befree Advanced folds to 40 cm.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Vanguard (vanguardworld.nl / .de) sells the EU ALTA PRO 263AB G2: 171 cm max, 69,5 cm folded, 2,29 kg, 10 kg load.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    },
+    {
+      "fact": "Local terms: statiefkop, balhoofd, fluid head/videokop, middenkolom, snelkoppelplaat; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Streamers want a camera looking down at the desk where they work.",
+      "fix": "Overhead shot with the Vanguard multi-angle column and a counterweight (English overhead section).",
+      "quotes": [
+        {
+          "text": "Voor mijn stream setup zoek ik een camera die mijn bureau filmt waar ik zaken loop te knutselen",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2213018"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2213018"
+      ]
+    },
+    {
+      "pain": "Live streams of talks and music need good sound, not only a steady picture.",
+      "fix": "The JOBY Mobile Rig has two cold-shoe arms for a small mic and a light (English JOBY section).",
+      "quotes": [
+        {
+          "text": "Ik zoek eigenlijk een camera met goede microfoon (want preek en muziek)",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1980158"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1980158"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level check against Dutch average heights (1,81 m / 1,67 m, CBS), the tallest in Europe, so standing hosts need more height.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "point": "When a Dutch streamer must register with the Commissariaat voor de Media (100.000 followers).",
+      "source": "https://www.cvdm.nl/sector/video-uploaders/doe-de-registratiecheck/"
+    },
+    {
+      "point": "Befree Advanced folded (40 cm) vs KLM cabin bag 55 x 35 x 25 cm; Vanguard EU metric figures.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC: average US man 68.9 in, woman 63.5 in (body link + tldr + table note)",
+      "action": "replace",
+      "with": "CBS: mannen 1,81 m, vrouwen 1,67 m (linked)"
+    },
+    {
+      "english": "\"each with an in-stock Amazon US listing\" (selection method)",
+      "action": "replace",
+      "with": "Keep as a statement about how the picks were chosen (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "Manfrotto \"1 kg payload\" body link",
+      "action": "replace",
+      "with": "Keep the 1 kg figure as plain text (the local fact link takes the third outside-link slot; max 3 outside links)."
+    },
+    {
+      "english": "Whatnot (US-centred live selling app) references",
+      "action": "replace",
+      "with": "Keep, but present Whatnot as one live-selling app next to TikTok Live; no local claim about its availability."
+    }
+  ]
+}

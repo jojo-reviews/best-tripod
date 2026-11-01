@@ -1,0 +1,155 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-real-estate-photography",
+  "checkedAt": "2026-11-01T17:50:53Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 290 Xtra Tripod Kit with 3-Way Head",
+      "asin": "B013JS87KO",
+      "status": "localVariant",
+      "variant": "MK290XTA3-3W (EU/international kit code; the US kit is MK290XTA3-3WUS). Same 290 Xtra legs and 804 3-way head.",
+      "metricSpecs": "Manfrotto: 171,5 cm max, 147,5 cm column down, 42 cm min, 70,7 cm folded, 2,52 kg with head, 10 kg safety payload (same metric figures already in the English specs).",
+      "reason": "European dealers list the kit as MK290XTA3-3W; Manfrotto's own site lists both codes. Do not mention store availability in the post.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk290xta3-3w-xtra-aluminum-tripod-incl-mh804-3w-panhead.html"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm max with column retracted (not published on the US page), 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top.",
+      "reason": "Sold by Benro Europe (de.benroeu.com) under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Manfrotto MT190XPRO4",
+      "asin": "B00G36G9Q4",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 160 cm max, 135 cm column down, 8 cm min, 49 cm folded, 2,05 kg (same metric figures as the English specs).",
+      "reason": "Manfrotto's European (global-uk) product page lists the MT190XPRO4 under the same code.",
+      "source": "https://www.manfrotto.com/global-uk/190xpro-aluminium-4-section-camera-tripod-mt190xpro4/"
+    },
+    {
+      "name": "GEEKOTO 75 inch Camera Tripod",
+      "asin": "B07GZJ2XRL",
+      "status": "unknown",
+      "variant": "",
+      "metricSpecs": "",
+      "reason": "The same ASIN (X25) has an amazon.de listing, but it shows 'Currently unavailable' and only US reviews; no EU dealer or maker EU page found. The amazon.de listing gives 12 kg load and 1905 mm, which conflicts with B&H's 22.04 lb, so keep the English figures. Add one neutral sentence to its Who it's for text that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B07GZJ2XRL"
+    },
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "asin": "B000JLI4Q2",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 5 kg load, 1,22 kg (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto 410 Getriebeneiger Junior'.",
+      "source": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+    },
+    {
+      "name": "Manfrotto 405 Geared Head",
+      "asin": "B000RTW9S0",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 7,5 kg load, 1,6 kg (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto Pro Digital Getriebe-Neiger 405'.",
+      "source": "https://www.fotokoch.de/Manfrotto-Pro-Digital-Getriebe-Neiger_38072.html"
+    },
+    {
+      "name": "JOBY GorillaPod 5K Kit",
+      "asin": "B074WG19MP",
+      "status": "fits",
+      "variant": "JB01508-BWW (same kit code worldwide)",
+      "metricSpecs": "JOBY/retailers: 5 kg load (as in the English post).",
+      "reason": "Listed by European retailers (Kamera Express DE/NL/BE, Fnac) as the GorillaPod 5K Kit.",
+      "source": "https://www.kamera-express.de/joby-gorillapod-5k-kit-black-charcoal"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "ImmoScout24 tells sellers to shoot listing photos in landscape format (its exposé view is optimised for Querformat), to shoot from a corner of the room, and to level the camera on a tripod at hip height (Hüfthöhe).",
+      "source": "https://www.immobilienscout24.de/wissen/vermieten/sieben-foto-tipps-fuer-ihr-immobilieninserat.html"
+    },
+    {
+      "fact": "Panoramafreiheit (§ 59 UrhG) covers what passers-by see from public roads; the BGH (Hundertwasser-Haus, I ZR 192/00, 2003) said it no longer covers a view fixed from a place the public cannot access (there: a flat across the street). General information, not legal advice: for exteriors of architecturally protected buildings, shoot from the public pavement.",
+      "source": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2003/2003070.html"
+    },
+    {
+      "fact": "Benro Europe publishes 153 cm maximum height with the centre column retracted for the TMA38CL, a figure the US page leaves out.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "fact": "German terms: Getriebeneiger (geared head), 3-Wege-Neiger, Kugelkopf, Mittelsäule, Nivellierbasis, Schnellwechselplatte; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/Manfrotto-Pro-Digital-Getriebe-Neiger_38072.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Geared heads are slow to set and the Manfrotto 410 plate is hard to remove one-handed.",
+      "fix": "Use a geared head for interiors where precision beats speed; decide on a plate system first (410PL is proprietary) and plan an Arca adapter if the rest of the kit is Arca-Swiss.",
+      "quotes": [
+        {
+          "text": "Die Kameraplatte ist aufgrund ihrer Arretierung, einhändig nur schwer vom Getriebeneiger zu entfernen, was mit unter zeitaufwendig sein kann.",
+          "url": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+        },
+        {
+          "text": "kein Stativkopf für eine schnelle, situationsbedingte Anpassung, da das Einstellen und Ausrichten mitunter zeitaufwendig sein kann",
+          "url": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+        }
+      ],
+      "sources": [
+        "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+      ]
+    },
+    {
+      "pain": "Only the Manfrotto plate fits the 410, which breaks an Arca-Swiss kit.",
+      "fix": "The English post's plate advice: pick the plate system before the head; the GEEKOTO and GorillaPod use Arca-type plates.",
+      "quotes": [
+        {
+          "text": "Leider kann nur die Manfrotto Kameraplatte genutzt werden, aber diese hält bombenfest in der Kopfaufnahme.",
+          "url": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+        }
+      ],
+      "sources": [
+        "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Benro's European column-down figure (153 cm) for the TMA38CL, which the English post marks as unpublished.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "ImmoScout24's own photo advice (Querformat, corner position, level camera on a tripod at hip height) tied to column-down height.",
+      "source": "https://www.immobilienscout24.de/wissen/vermieten/sieben-foto-tipps-fuer-ihr-immobilieninserat.html"
+    },
+    {
+      "point": "Panoramafreiheit and the BGH Hundertwasser ruling for exterior shots: shoot from the public pavement, not from a neighbour's window.",
+      "source": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2003/2003070.html"
+    },
+    {
+      "point": "German buyers' complaints about the 410 plate and setup speed answered with the plate-system advice.",
+      "source": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Benro does not publish the column-down height / Only Manfrotto publishes the column-down height for its two tripods here",
+      "action": "replace",
+      "with": "Benro Europe lists 153 cm with the column retracted for the TMA38CL (US page does not); keep 'Not published' only for the GEEKOTO."
+    },
+    {
+      "english": "roughly 4 to 5 feet off the floor (Aryeo)",
+      "action": "replace",
+      "with": "metric: about 1,2 to 1,5 m (Aryeo), plus the local portal/photographer height advice listed in localFacts."
+    },
+    {
+      "english": "it has its own Amazon US listing (selection rule)",
+      "action": "replace",
+      "with": "keep it as a clearly US-specific selection rule (the products were chosen against Amazon US listings); never claim local store availability."
+    }
+  ]
+}

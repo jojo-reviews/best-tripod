@@ -1,0 +1,133 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tabletop-camera-tripod",
+  "checkedAt": "2026-11-01T17:50:23.369Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto (metric on its own page): 10.5-20 cm height, 20.5 cm closed, 0.26 kg, 2.5 kg safety payload; Manfrotto ES/FR pages: \"hasta 2,5 kg\" / \"jusqu'à 2,5 kg\"",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK: Calumet.de (in stock), Amazon.es (MTPIXIEVO-BK listing), fotok.es, Manfrotto global-es page.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13.5 cm height, 18.5 cm closed, 1 kg load (already metric in the English post)",
+      "reason": "Amazon.de and Amazon.es list the MTPIXI-B under the same ASIN B00D76RNLS (Tischstativ / Minitrípode Pixi). B&H lists MTPIXIMII-B as the replacement code; EU shops may show either code.",
+      "source": "https://www.amazon.de/Manfrotto-MTPIXI-B-Tischstativ-Compact-Standard/dp/B00D76RNLS"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod BUT2664",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "SmallRig/Amazon.de listing: \"Maximale Tragfähigkeit 2 kg\" (head); other figures already metric in the English post (113 mm, 230 mm, 410 g)",
+      "reason": "Amazon.de sells \"SMALLRIG Kamerastativ Leichtes Mini-Reisestativ aus Aluminium - BUT2664\" (EU ASIN B0833PTRH7).",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Kamerastativ-Leichtes-Mini-Reisestativ-Aluminium/dp/B0833PTRH7"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "No EU maker page read; English post figures: 3 kg load, about 30 cm height, about 393 g",
+      "reason": "Amazon.es sells \"JOBY JB01507 GorillaPod Kit 3K\" under the same ASIN B074WC9YKL; Dutch review site avondfotografie.nl reviewed it in Amsterdam; fotocinecolor.com (ES) lists it.",
+      "source": "https://www.amazon.es/Joby-GorillaPod-Digitales-C%C3%A1maras-Pel%C3%ADcula/dp/B074WC9YKL"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 22-44 cm, 170 g, 1.5 kg; Amazon.nl listing: 171 g, item number Ulanzi 2052 (its 20 cm package size is not the folded length, so not used)",
+      "reason": "Amazon.nl sells \"ULANZI MT-16 Tripod & Selfie Stick\" (item number 2052); Ulanzi ships the same 2052 model worldwide.",
+      "source": "https://www.amazon.nl/-/en/ULANZI-MT-16-Tripod-Selfie-Smartphone/dp/B08N6ZG9F2"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Het Rijksmuseum verwijst voor fotograferen naar zijn Algemene Voorwaarden, met als voorbeeld: geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "In het Anne Frank Huis is fotograferen en filmen helemaal niet toegestaan, om de originelen te beschermen.",
+      "source": "https://www.annefrank.org/nl/museum/praktische-informatie/"
+    },
+    {
+      "fact": "KLM staat naast de handbagage (55 x 35 x 25 cm) een kleine tas onder de stoel toe; Ryanair geeft in elk tarief een kleine tas van 40 x 30 x 20 cm. PIXI Mini, PIXI EVO, SmallRig en Ulanzi zijn ingeklapt 18,5 tot 23 cm.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Een gorillapod aan een brugleuning beweegt heel langzaam als het hele gewicht van de camera eraan hangt, zichtbaar bij lange sluitertijden.",
+      "fix": "Wikkel alle drie de poten volledig om de leuning en controleer na 10 seconden op kruipen; voor vlakke ondergrond rigide poten.",
+      "quotes": [
+        {
+          "text": "Het statief komt niet los, maar beweegt heel langzaam. Vaak gebeurt dit als al het gewicht van je camera aan het statief hangt.",
+          "url": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+        }
+      ],
+      "sources": [
+        "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+      ]
+    },
+    {
+      "pain": "Met een Nikon Z6 en 24-70 mm f/2.8 zakte de GorillaPod 3K-kop weg, ook al blijft het onder de 3 kg.",
+      "fix": "Kies de kopbelasting met 50% marge (gewicht camera + lens verdubbelen); de 3K Kit past tot ongeveer 1,5 kg.",
+      "quotes": [
+        {
+          "text": "Probeer een ruime marge aan te houden qua gewicht om te voorkomen dat de camera langzaam naar beneden kantelt.",
+          "url": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+        }
+      ],
+      "sources": [
+        "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Museumcheck: Rijksmuseum, Rijksmuseum Boerhaave en Anne Frank Huis laten geen statief toe (Anne Frank Huis zelfs geen foto's); een tafelstatief helpt daar niet.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Bevestiging uit een Nederlandse praktijkreview (Amsterdam, nachtfotografie) van de 50%-margeregel voor de GorillaPod 3K.",
+      "source": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+    },
+    {
+      "point": "Past ingeklapt in de kleine tas onder de stoel bij KLM en Ryanair.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Maten metrisch eerst, zoals Manfrotto ze opgeeft (10,5-20 cm, 2,5 kg).",
+      "source": "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific statement (checked on Amazon US); never mention a local Amazon store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "keep, phrased as US-specific (the Amazon US listing); no local-store claim"
+    },
+    {
+      "english": "Ulanzi and B&H list 1.5 kg, but the Amazon listing gives 0.5 kg",
+      "action": "replace",
+      "with": "keep the conflict, name it the Amazon US listing"
+    },
+    {
+      "english": "about 12 in of height (GorillaPod 3K Kit)",
+      "action": "replace",
+      "with": "metric first: etwa/unos/ongeveer 30 cm (12 in), per B&H"
+    }
+  ]
+}

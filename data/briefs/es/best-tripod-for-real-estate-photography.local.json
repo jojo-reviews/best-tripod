@@ -1,0 +1,155 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-real-estate-photography",
+  "checkedAt": "2026-11-01T17:50:53Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 290 Xtra Tripod Kit with 3-Way Head",
+      "asin": "B013JS87KO",
+      "status": "localVariant",
+      "variant": "MK290XTA3-3W (EU/international kit code; the US kit is MK290XTA3-3WUS). Same 290 Xtra legs and 804 3-way head.",
+      "metricSpecs": "Manfrotto: 171,5 cm max, 147,5 cm column down, 42 cm min, 70,7 cm folded, 2,52 kg with head, 10 kg safety payload (same metric figures already in the English specs).",
+      "reason": "European dealers list the kit as MK290XTA3-3W; Manfrotto's own site lists both codes. Do not mention store availability in the post.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk290xta3-3w-xtra-aluminum-tripod-incl-mh804-3w-panhead.html"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm max with column retracted (not published on the US page), 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top.",
+      "reason": "Sold by Benro Europe (de.benroeu.com) under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Manfrotto MT190XPRO4",
+      "asin": "B00G36G9Q4",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 160 cm max, 135 cm column down, 8 cm min, 49 cm folded, 2,05 kg (same metric figures as the English specs).",
+      "reason": "Manfrotto's European (global-uk) product page lists the MT190XPRO4 under the same code.",
+      "source": "https://www.manfrotto.com/global-uk/190xpro-aluminium-4-section-camera-tripod-mt190xpro4/"
+    },
+    {
+      "name": "GEEKOTO 75 inch Camera Tripod",
+      "asin": "B07GZJ2XRL",
+      "status": "unknown",
+      "variant": "",
+      "metricSpecs": "",
+      "reason": "The same ASIN (X25) has an amazon.de listing, but it shows 'Currently unavailable' and only US reviews; no EU dealer or maker EU page found. The amazon.de listing gives 12 kg load and 1905 mm, which conflicts with B&H's 22.04 lb, so keep the English figures. Add one neutral sentence to its Who it's for text that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B07GZJ2XRL"
+    },
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "asin": "B000JLI4Q2",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 5 kg load, 1,22 kg (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto 410 Getriebeneiger Junior'.",
+      "source": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+    },
+    {
+      "name": "Manfrotto 405 Geared Head",
+      "asin": "B000RTW9S0",
+      "status": "fits",
+      "variant": "",
+      "metricSpecs": "Manfrotto: 7,5 kg load, 1,6 kg (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto Pro Digital Getriebe-Neiger 405'.",
+      "source": "https://www.fotokoch.de/Manfrotto-Pro-Digital-Getriebe-Neiger_38072.html"
+    },
+    {
+      "name": "JOBY GorillaPod 5K Kit",
+      "asin": "B074WG19MP",
+      "status": "fits",
+      "variant": "JB01508-BWW (same kit code worldwide)",
+      "metricSpecs": "JOBY/retailers: 5 kg load (as in the English post).",
+      "reason": "Listed by European retailers (Kamera Express DE/NL/BE, Fnac) as the GorillaPod 5K Kit.",
+      "source": "https://www.fnac.com/Joby-GorillaPod-5K-Kit-Trepied-avec-BallHead-5K/mp34664328/avis"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "idealista's help centre advises shooting rooms in horizontal format and keeping the camera straight (ángulo recto) for vertical lines; shooting from a chair or crouching is only for special effects, and the tripod is the ally when light is low.",
+      "source": "https://www.idealista.com/tools/centrodeayuda/articulos/tecnicas-para-hacer-buenas-fotos-de-la-vivienda-fotografia-inmobiliaria/"
+    },
+    {
+      "fact": "IACrea's real estate photo guide puts the camera between 1 m and 1,30 m from the floor; eye height gives a high angle that makes the room look smaller, knee height distorts proportions. It also says a tripod keeps the same shooting height from room to room.",
+      "source": "https://www.iacrea.com/es/blog/fotografia-inmobiliaria/como-fotografiar-una-propiedad-15-consejos-de-profesionales"
+    },
+    {
+      "fact": "Spain's Ley de Propiedad Intelectual, art. 35.2: works permanently located in parks, streets, squares or other public ways may be reproduced freely by photography. General information, not legal advice: shoot exteriors from the public street.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a35"
+    },
+    {
+      "fact": "Benro Europe publishes 153 cm maximum height with the centre column retracted for the TMA38CL, a figure the US page leaves out.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "fact": "Spanish terms: rótula de cremallera / rótula de engranajes (geared head), rótula de 3 vías, rótula de bola, columna central, base niveladora, zapata; Arca-Swiss keeps its name.",
+      "source": "https://www.sebastiatorrens.com/lang/es/blog/sobre-tripodes-i-rotulas"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Raising the centre column costs stability, so photographers want enough height with the column down.",
+      "fix": "Choose by column-down height (Manfrotto 290 Xtra 147,5 cm, MT190XPRO4 135 cm, Benro 153 cm per Benro Europe) and keep the column down.",
+      "quotes": [
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+      ]
+    },
+    {
+      "pain": "Working out real camera height: the head and camera add height on top of the legs.",
+      "fix": "For interiors you only need 1 to 1,30 m (IACrea) or 1,2 to 1,5 m (Aryeo), so every tripod here reaches it with the column down; the head adds a little more.",
+      "quotes": [
+        {
+          "text": "cuenta la altura de la rótula unos 10cm y otros 8-10 de la cámara",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Spanish professional height range (1 to 1,30 m, IACrea) next to Aryeo's 1,2 to 1,5 m, showing column-down height is plenty.",
+      "source": "https://www.iacrea.com/es/blog/fotografia-inmobiliaria/como-fotografiar-una-propiedad-15-consejos-de-profesionales"
+    },
+    {
+      "point": "Benro's European column-down figure (153 cm) for the TMA38CL.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "idealista's own advice: horizontal format and a straight camera.",
+      "source": "https://www.idealista.com/tools/centrodeayuda/articulos/tecnicas-para-hacer-buenas-fotos-de-la-vivienda-fotografia-inmobiliaria/"
+    },
+    {
+      "point": "Art. 35.2 LPI for exteriors from the public street.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a35"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Benro does not publish the column-down height / Only Manfrotto publishes the column-down height for its two tripods here",
+      "action": "replace",
+      "with": "Benro Europe lists 153 cm with the column retracted for the TMA38CL (US page does not); keep 'Not published' only for the GEEKOTO."
+    },
+    {
+      "english": "roughly 4 to 5 feet off the floor (Aryeo)",
+      "action": "replace",
+      "with": "metric: about 1,2 to 1,5 m (Aryeo), plus the local portal/photographer height advice listed in localFacts."
+    },
+    {
+      "english": "it has its own Amazon US listing (selection rule)",
+      "action": "replace",
+      "with": "keep it as a clearly US-specific selection rule (the products were chosen against Amazon US listings); never claim local store availability."
+    }
+  ]
+}

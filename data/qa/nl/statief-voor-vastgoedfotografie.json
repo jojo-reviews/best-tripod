@@ -1,0 +1,18 @@
+{
+  "slug": "nl/statief-voor-vastgoedfotografie",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-real-estate-photography",
+  "pass": true,
+  "checkedAt": "2026-11-01T18:01:37.791Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/what-is-an-arca-swiss-plate-and-do-i-need-one/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-tall-photographers-over-6-feet/; link the nl version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-real-estate-photography: same 7 products/ASINs/scores/spec keys, specs metric-first with Manfrotto's metric figures and 1 in=2.54 cm / 1 lb=0.4536 kg conversions, FAQ answers match. Local brief facts re-opened: Benro Europe page (153 cm column retracted), funda 360-photo article (always use a tripod against distortion), Photofacts statief article (half-the-load rule of thumb; reader quotes on sagging ball head, raised column, geared head copied verbatim), Auteurswet art. 18 mentioned as general information without link. GEEKOTO marked as mainly sold in the US. No testing/ownership claims, no prices/currencies, no local Amazon store; 3 outside links.",
+    "at": "2026-11-01T18:01:37.310Z",
+    "hash": "45ba53eb2e6c8c5e"
+  }
+}

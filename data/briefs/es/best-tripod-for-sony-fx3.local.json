@@ -1,0 +1,122 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-sony-fx3",
+  "checkedAt": "2026-11-01T17:51:46Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Live Aluminum Travel Video Tripod Kit",
+      "asin": "B07HQWGQTF",
+      "status": "localVariant",
+      "variant": "MVKBFRL-LIVE (EU code; the US kit is MVKBFRL-LIVEUS). Same aluminium lever-lock legs and Befree Live fluid head; only the market code differs.",
+      "metricSpecs": "Manfrotto: 151 cm max (130 cm column down), 40 cm min height, 40 cm folded, 1.75 kg, 4 kg safety payload (same figures for the EU code MVKBFRL-LIVE)",
+      "reason": "Sold in Spain as MVKBFRL-LIVE (amazon.es listing; Fotocasion lists the lever-lock Befree Live with video head).",
+      "source": "https://www.fotocasion.es/catalogo/tripode-manfrotto-mvkbfrl-live-bloqueo-palanca/49455/"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head; 4 kg tripod weight per the English post's maker figures",
+      "reason": "Foto Koch Spain and Foto K list the SmallRig 3751 AD-01 under the same model code.",
+      "source": "https://www.fotokoch.es/SmallRig-3751-Tr-pode-de-cabeza-fluida-AD-01-de-alta-resistencia_50550.html"
+    },
+    {
+      "name": "NEEWER TP74 74 inch Video Tripod with Fluid Head",
+      "asin": "B0BS5VQDYG",
+      "status": "fits",
+      "metricSpecs": "Neewer EU store: 86-187 cm height range, 91 cm folded, 4 kg net weight, 8 kg load capacity",
+      "reason": "Neewer's EU store sells the TP74 with a Spanish product page.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    },
+    {
+      "name": "Sachtler System Ace M MS Mk II Tripod System",
+      "asin": "B0CZHKT5J5",
+      "status": "fits",
+      "metricSpecs": "Sachtler/VideoExpert.eu: 78-169 cm, 86 cm folded, 4.4 kg, payload 0-4 kg, 75 mm bowl, 104 mm (4.1 in) plate slide",
+      "reason": "CVP has a Spanish-language listing for the Sachtler 1001M; Sachtler sells through EU dealers.",
+      "source": "https://cvp.com/es/product/sachtler-ace-m-ms-mk-ii-system-sac-1001m"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "El Corte Ingles lists the Peak Design Travel Carbon (PK0201).",
+      "source": "https://www.elcorteingles.es/electronica/A35395313-0818373021269-pr-tripode-de-carbono-peak-design-travel-carbon-pk0201-negro/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm: the Befree Live (40 cm folded) and Peak Design (about 39 cm) fit; the AD-01 (89 cm), TP74 (91 cm) and Sachtler (86 cm) need to be checked.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Barcelona City Council's basic permit for filming or photographing in public space covers one tripod at most and a maximum of 10 people, with no vehicles or drones during the shoot.",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "fact": "Sagrada Familia rules say tripods may not be used for video inside the basilica.",
+      "source": "https://sagradafamilia.org/en/rules-and-regulations"
+    },
+    {
+      "fact": "Spanish terms: rotula fluida / cabezal fluido, media bola de 75 mm, contrapeso, arana intermedia; Arca-Swiss keeps its name.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Rated loads are optimistic once the camera moves; a rig with cage, mic and cables needs far more headroom.",
+      "fix": "Keep the rig under half the head's rating (English post rule): caged FX3 to the 6 kg AD-01 head or 8 kg TP74.",
+      "quotes": [
+        {
+          "text": "soportan hasta 7kg nominales, lo que en términos reales no pasará de 3,5kg estáticos, cuando movés la cámara eso se reduce aún más",
+          "url": "https://www.sonycam.es/foro/threads/recomendaci%C3%B3n-de-tr%C3%ADpode.12175/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Unsure whether a tripod can travel in cabin baggage.",
+      "fix": "A kit that folds to about 40 cm fits Iberia's 56 x 40 x 25 cm limit; the large video tripods go in the hold.",
+      "quotes": [
+        {
+          "text": "En teoria, el trípode no lo puedes llevar en cabina, con las cámaras y objetivos, no hay problema, están permitidos.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/132041-avi%C3%B3n-llevar-tr%C3%ADpode-en-el-equipage-de-mano/"
+        },
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which kits fit Iberia's 56 x 40 x 25 cm cabin limit.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Barcelona basic filming permit (1 tripod, max. 10 people) and the Sagrada Familia no-tripod-for-video rule.",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "point": "Maker metric figures (Neewer EU 86-187 cm, 91 cm folded) and EU code MVKBFRL-LIVE.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'Folds to 15.75 in, carry-on size' (US carry-on wording)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin bag fact"
+    },
+    {
+      "english": "'each with its own Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    }
+  ]
+}

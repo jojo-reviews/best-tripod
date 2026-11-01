@@ -1,0 +1,147 @@
+{
+  "lang": "nl",
+  "translationOf": "landscape-photography-tripod",
+  "checkedAt": "2026-11-01T17:49:12.447Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "14 cm minimum working height, 152,4 cm maximum working height, 39,1 cm packed length, 9,1 kg load (Foto Koch listing, maker article 59202040)",
+      "reason": "Sold in Germany under the same name by Foto Koch; Peak Design sells it worldwide from its own shop.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "MKBFRLA4BK-BH (EU/CA code) instead of the US MKBFRLA4BK-BHUS; same Befree Advanced lever aluminium kit with ball head",
+      "metricSpecs": "1,59 kg with head, 128 cm with the column down, 151 cm column up, 40 cm folded (Manfrotto); the German retailer Foto Erhardt lists an 8 kg max load for the -BH kit versus 9 kg safety payload on the Manfrotto US page",
+      "reason": "The English post links the -BHUS page; in Europe the same kit is sold as MKBFRLA4BK-BH (Foto Erhardt, Manfrotto CA page uses the same code).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "reason": "The Gen 2 kit appears on Vanguard USA, B&H and Adorama only. Vanguard Spain lists the earlier Alta Pro 2 263AB 100 (BH-100 head, 140,5 cm without column, 173,7 cm max, 70 cm folded, 2,207 kg, 7 kg load) as discontinued; no EU page for the Gen 2 was found. Not swapped: one neutral sentence in its Who it is for text.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)",
+      "asin": "B00G36G7WU",
+      "status": "fits",
+      "metricSpecs": "160 cm column up, 135 cm column down, 9 cm minimum, 59 cm folded, 2 kg, 15 kg safety payload (Manfrotto global page, already in the post)",
+      "reason": "Manfrotto sells the MT190XPRO3 under the same code on its global site; a long-running EU model.",
+      "source": "https://www.manfrotto.com/global-en/190xpro-aluminium-3-section-camera-tripod-mt190xpro3/"
+    },
+    {
+      "name": "Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NCDW",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe lists the CT-3472 M2 Rapid at 1,81 kg and a load of over 30 kg (the post uses 1,78 kg / 30 kg from feisol.net)",
+      "reason": "Feisol Europe (feisol.eu) sells the CT-3472 M2 Rapid directly; the maker sells the Mark 2 version, as the English post notes.",
+      "source": "https://www.feisol.eu/shop/shop/tripods/rapid-carbon-tripods/elite-tripods/feisol-elite-tripod-ct-3472-m2-rapid/?lang=en"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM allows 1 piece of hand baggage of max. 55 x 35 x 25 cm including handles and wheels; small bag and hand baggage together up to 12 kg. The Peak Design (39,4 cm) and the Befree Advanced (40 cm) fold shorter than 55 cm; the MT190XPRO3 (59 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Nationaal Park Zuid-Kennemerland: walking is only allowed on the marked roads and paths (except play areas), so a dune tripod spot has to be on or beside the path.",
+      "source": "https://www.np-zuidkennemerland.nl/gebiedsinformatie/gebiedsregels/"
+    },
+    {
+      "fact": "Natuurmonumenten: walking off roads and paths in Zuid-Kennemerland is not allowed because it disturbs animals and damages fragile soil and plants.",
+      "source": "https://www.natuurmonumenten.nl/natuurgebieden/nationaal-park-zuid-kennemerland"
+    },
+    {
+      "fact": "Staatsbosbeheer asks visitors to check the access signs and stay on the paths meant for them.",
+      "source": "https://www.staatsbosbeheer.nl/contact/toegangsregels"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "With the centre column fully up the tripod may not stay still outside in wind.",
+      "fix": "Extend the legs first and leave the column down; the Alta Pro reaches 141 cm column down, the Feisol has no column.",
+      "quotes": [
+        {
+          "text": "Alles staat op zich wel stabiel, het wiebelt niet, maar of het buiten in de wind helemaal stil blijft staan betwijfel ik.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+      ]
+    },
+    {
+      "pain": "A tripod that is too short means bending to the viewfinder.",
+      "fix": "Compare column-down heights (128-147 cm) and add the head and camera; use a tilting screen on the Peak Design.",
+      "quotes": [
+        {
+          "text": "165 cm is gewoon bukken als je door de zoeker wilt kijken, zelfs al ben je niet heel lang.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+      ]
+    },
+    {
+      "pain": "Long lenses vibrate in strong wind even on a sturdy tripod.",
+      "fix": "For a 100-400 mm or longer pick the MT190XPRO3 or Feisol, lower the tripod and shield it with your body.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which picks fit KLM hand baggage (55 cm) by folded length.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Dune path rules in Zuid-Kennemerland for tripod spots on the coast.",
+      "source": "https://www.np-zuidkennemerland.nl/gebiedsinformatie/gebiedsregels/"
+    },
+    {
+      "point": "Metric column-down heights first, answering the Dutch \"bukken\" complaint.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "walk a few hundred yards",
+      "action": "replace",
+      "with": "a few hundred metres (metric)"
+    },
+    {
+      "english": "shooters over six feet",
+      "action": "replace",
+      "with": "photographers over about 1,83 m"
+    },
+    {
+      "english": "the Amazon listing is thinly stocked",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "Manfrotto MKBFRLA4BK-BHUS page (US code)",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product name in the text"
+    },
+    {
+      "english": "a clear Amazon US listing (selection method)",
+      "action": "replace",
+      "with": "keep as a statement about how we selected (an Amazon listing), no local-store claim"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-backcountry-hunting",
+  "checkedAt": "2026-11-01T17:50:15.359Z",
+  "productFit": [
+    {
+      "name": "Vortex Summit Carbon II Tripod Kit",
+      "asin": "B08SC6FGTF",
+      "status": "fits",
+      "metricSpecs": "1,13 kg, max. load 9,98 kg (about 10 kg), folded 46 cm, max. height 135 cm, min. 16 cm",
+      "reason": "Sold in Germany by the distributor Seven Oaks, Kamera-Express.de and amazon.de under the same name.",
+      "source": "https://www.shop.sevenoaks-gmbh.de/vortex-summit-carbon-ii-stativ"
+    },
+    {
+      "name": "Vortex Ridgeview Carbon Tripod Kit",
+      "asin": "B08SBVMS8W",
+      "status": "fits",
+      "metricSpecs": "max. height 187 cm, max. load 9,9 kg",
+      "reason": "Sold in the EU under the same name (German distributor Seven Oaks, amazon.de with the same ASIN).",
+      "source": "https://www.shop.sevenoaks-gmbh.de/vortex-ridgeview-carbon-stativ"
+    },
+    {
+      "name": "Leupold Alpine CF-425 Tripod Kit",
+      "asin": "B08RMY29S3",
+      "status": "fits",
+      "metricSpecs": "907 g, 12,7 cm to 147,3 cm",
+      "reason": "Sold in Europe under the same name (Carbin store DE, Navara CH, Spanish gun shops).",
+      "source": "https://carbinstore.com/de/products/kit-tripode-leupold-alpine-cf-425"
+    },
+    {
+      "name": "Vanguard VEO 3GO 204AB G2 Aluminum Travel Tripod",
+      "asin": "B0FXN9H89F",
+      "status": "fits",
+      "metricSpecs": "970 g, folded 34 cm",
+      "reason": "Vanguard sells the G2 in Europe (Vanguard UK, amazon.de listing \"Vanguard VEO 3GO 204AB G2 Ultraportables Aluminium Reisestativ\").",
+      "source": "https://www.vanguardworld.co.uk/products/veo-3go-204ab-g2"
+    },
+    {
+      "name": "Primos Trigger Stick Gen3 Tall Tripod",
+      "asin": "B0728HC759",
+      "status": "fits",
+      "metricSpecs": "61 to 157 cm",
+      "reason": "Sold in Germany as \"Primos Zielstock Trigger Stick Gen. 3\" Dreibein (Waffen Schrum, Jagdluxx, amazon.de).",
+      "source": "https://www.waffen-schrum.de/primos/zielstock-trigger-stick-dreibein"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows a cabin bag of max. 55 x 40 x 23 cm; the Summit Carbon II (46 cm), Alpine CF-425 (47 cm) and VEO 3GO (34 cm) fit by length, the Ridgeview (74 cm folded) does not and goes in checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Destatis (Mikrozensus 2025): men in Germany are on average 1,79 m (179,1 cm) tall; of the five tripods only the Ridgeview at 187 cm is taller.",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_23_p002.html"
+    },
+    {
+      "fact": "In German shops the Primos Trigger Stick Gen. 3 Tall is sold as a \"Zielstock\" (Dreibein) with a 61 to 157 cm range.",
+      "source": "https://www.waffen-schrum.de/primos/zielstock-trigger-stick-dreibein"
+    },
+    {
+      "fact": "The German Vortex distributor lists the Summit Carbon II at 1133 g and 9,9 kg max. load, the Ridgeview Carbon at 187 cm.",
+      "source": "https://www.shop.sevenoaks-gmbh.de/vortex-summit-carbon-ii-stativ"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Mountain hunters question carrying a tripod at all because every gram counts.",
+      "fix": "Pick by optic: the Alpine CF-425 (907 g) or Summit Carbon II (1,13 kg) for seated glassing; for a quick look, rest the scope on the pack, and hang the pack from the hook in wind.",
+      "quotes": [
+        {
+          "text": "wozu willst du bei der Bergjagd noch ein zusätzliches Teil mitschleppen, da zählt doch das Gewicht?",
+          "url": "https://forum.wildundhund.de/threads/welches-stativ-fuer-die-bergjagd.72148/"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/welches-stativ-fuer-die-bergjagd.72148/"
+      ]
+    },
+    {
+      "pain": "A Bergstock (alpine staff) is tall enough but too wobbly as a rifle rest; hunters want a combined glassing tripod and rifle rest.",
+      "fix": "The Primos Trigger Stick Gen3 is a rifle rest first (61 to 157 cm, one hand) and its yoke swaps for an optics mount; glassing tripods like the Alpine are not made for a rifle.",
+      "quotes": [
+        {
+          "text": "Bergstock ist hoch genug, doch als Zielstock mir persönlich zu wackelig.",
+          "url": "https://forum.wildundhund.de/threads/welches-stativ-fuer-die-bergjagd.72148/"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/welches-stativ-fuer-die-bergjagd.72148/"
+      ]
+    },
+    {
+      "pain": "A wobbly tripod ruins glassing with a spotting scope; an angled scope needs a lower, steadier tripod.",
+      "fix": "Pan head (Videoneiger) instead of a ball head, legs wide and low, thickest sections first; with an angled scope the shorter tripod is enough.",
+      "quotes": [
+        {
+          "text": "So ein Wackelstativ ist eine Pest und verleidet einem das ganze Beobachten.",
+          "url": "https://www.osj-forum.de/read.php?9,451767,451789"
+        }
+      ],
+      "sources": [
+        "https://www.osj-forum.de/read.php?9,451767,451789"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Glassing height measured against the German average man (179 cm, Destatis) instead of the US figure.",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_23_p002.html"
+    },
+    {
+      "point": "Which tripods fit a Lufthansa cabin bag (55 cm) for a hunting trip by plane.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Answers the German Bergjagd objections (weight, Bergstock as Zielstock) with the matching pick.",
+      "source": "https://forum.wildundhund.de/threads/welches-stativ-fuer-die-bergjagd.72148/"
+    },
+    {
+      "point": "Maker/distributor metric figures (1133 g, 187 cm, 907 g, 970 g) instead of conversions.",
+      "source": "https://www.shop.sevenoaks-gmbh.de/vortex-summit-carbon-ii-stativ"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The average US man is 68.9 inches tall (CDC)",
+      "action": "replace",
+      "with": "Destatis: men in Germany average 1,79 m"
+    },
+    {
+      "english": "Elk and mule deer hunters / sheep and goat hunters / western hunting framing",
+      "action": "replace",
+      "with": "Keep the species as in the English post where it describes the source (US hunters), but phrase reader advice for Bergjagd (Gams, Steinbock) without adding new facts"
+    },
+    {
+      "english": "own in-stock Amazon US listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "yards (505 and 550 yards)",
+      "action": "replace",
+      "with": "metres first: 462 and 503 m (505 and 550 yd)"
+    }
+  ]
+}

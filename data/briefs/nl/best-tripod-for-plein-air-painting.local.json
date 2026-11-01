@@ -1,0 +1,125 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-plein-air-painting",
+  "checkedAt": "2026-11-01T17:50:00Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Twist Carbon Tripod Kit",
+      "asin": "B07DV2MH29",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRTC4-BH (US page: MKBFRTC4-BHUS). EU retailer listings give 8 kg max. load instead of the 9 kg safety payload on the US page; same 494 ball head, 4 carbon sections, twist locks.",
+      "metricSpecs": "150 cm max. height, 127 cm without center column, 41 cm folded, 1,25 kg, 8 kg max. load (EU listing)",
+      "reason": "Sold in the EU as MKBFRTC4-BH; EU listings state 8 kg, the US Manfrotto page 9 kg safety payload. Plan around 8 kg in the EU.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "name": "SIRUI Traveler 5CX Carbon Fiber Travel Tripod",
+      "asin": "B07KD3R47X",
+      "status": "fits",
+      "metricSpecs": "0,925 kg with ball head (amazon.es listing); 6 kg max. load",
+      "reason": "Listed on amazon.nl as SIRUI Traveler 5CX Reisstatief.",
+      "source": "https://www.amazon.nl/Traveler-5CX-Reisstatief-koolstofvezel-Middenkolom/dp/B0GT7X12QB"
+    },
+    {
+      "name": "Peak Design Travel Tripod Aluminum",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max., 130,2 cm column down, 39,4 cm folded, 1,56 kg, 9,1 kg load (from the English post figures)",
+      "reason": "Sold through Peak Design's EU web store under the same name.",
+      "source": "https://www.peakdesign.com/eu/products/travel-tripod"
+    },
+    {
+      "name": "ZOMEI Q666 Aluminum Tripod",
+      "asin": "B01KLLW046",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing: 35 cm folded, 152 cm total height; amazon.de listing title: 155 cm",
+      "reason": "Q666 listings exist on amazon.de, amazon.es and amazon.nl (other ASINs, same model).",
+      "source": "https://www.amazon.nl/-/en/ZoMei-Compact-Lightweight-Aluminum-Carrying/dp/B07F3TKNM9"
+    },
+    {
+      "name": "Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod",
+      "asin": "B097Z1TNBP",
+      "status": "fits",
+      "metricSpecs": "38,5 cm folded (Benro EU page)",
+      "reason": "Kamera Express lists the Benro Roadtrip Pro Carbon (BMRTPROCBLK); Benro sells it through its EU stores.",
+      "source": "https://www.kamera-express.nl/benro-roadtrip-pro-bmrtprocblk-statief-zwar"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u, met als uitwerking: \"paraplu's met moeite vast te houden\".",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "KLM staat in Economy 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe; kleine tas en handbagage samen maximaal 12 kg.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "In de EU wordt de Befree Advanced carbon-kit verkocht als MKBFRTC4-BH: 8 kg draagvermogen, 150 cm, 127 cm zonder middenkolom, 41 cm ingeklapt, 1,25 kg.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "fact": "Termen: kogelkop, snelkoppelplaat, middenkolom, veldezel, schilderskist/pochade box; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://alexandersmith.nl/pleinnl.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Staan of zitten: lang staan bij de ezel vermoeit, zitten vraagt een lagere werkhoogte.",
+      "fix": "Zittend: SIRUI Traveler 5CX (132 cm max.); staand: let op de hoogte zonder middenkolom (Peak Design 130,2 cm, Befree 127 cm).",
+      "quotes": [
+        {
+          "text": "Ik word snel moe in mijn benen wat het schilderproces niet ten goede komt.",
+          "url": "https://alexandersmith.nl/pleinnl.html"
+        }
+      ],
+      "sources": [
+        "https://alexandersmith.nl/pleinnl.html"
+      ]
+    },
+    {
+      "pain": "Wind, zon en regen hebben buiten veel invloed op hoe je schildert.",
+      "fix": "Statief laag en breed, rugzak aan de haak, paraplu dicht vanaf windkracht 6 (KNMI).",
+      "quotes": [
+        {
+          "text": "de wind, de zon, de geluiden en natuurlijk de regen, een grote invloed hebben op hoe je zit te schilderen",
+          "url": "https://alexandersmith.nl/pleinnl.html"
+        }
+      ],
+      "sources": [
+        "https://alexandersmith.nl/pleinnl.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "EU-draagvermogen van de Befree-kit: 8 kg (MKBFRTC4-BH) in plaats van 9 kg op de Amerikaanse pagina; een kist van 2,7 kg gebruikt zo'n 34 %.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrtc4-bh-befree-advanced-carbon-travel-tripod-kit-twist.html"
+    },
+    {
+      "point": "Windgrens in km/u volgens het KNMI (windkracht 6, 39-49 km/u, paraplu's met moeite vast te houden) in plaats van mph.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "point": "KLM-handbagage 55 x 35 x 25 cm, max. 12 kg samen met de kleine tas: alle vijf statieven passen in de lengte.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Close the umbrella in a strong breeze of 25-31 mph, when the National Weather Service says umbrellas are hard to use.",
+      "action": "replace",
+      "with": "KNMI windkracht 6 (krachtig), 39-49 km/u; link KNMI instead of weather.gov."
+    },
+    {
+      "english": "small enough for a carry-on (no airline named)",
+      "action": "replace",
+      "with": "KLM handbagage 55 x 35 x 25 cm (plain text)."
+    },
+    {
+      "english": "Amazon stock was thin when I checked",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}

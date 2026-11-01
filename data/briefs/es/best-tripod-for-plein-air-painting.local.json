@@ -1,0 +1,125 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-plein-air-painting",
+  "checkedAt": "2026-11-01T17:50:00Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Twist Carbon Tripod Kit",
+      "asin": "B07DV2MH29",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRTC4-BH (US page: MKBFRTC4-BHUS). EU retailer listings give 8 kg max. load instead of the 9 kg safety payload on the US page; same 494 ball head, 4 carbon sections, twist locks.",
+      "metricSpecs": "150 cm max. height, 127 cm without center column, 41 cm folded, 1,25 kg, 8 kg max. load (EU listing)",
+      "reason": "Sold in the EU as MKBFRTC4-BH; EU listings state 8 kg, the US Manfrotto page 9 kg safety payload. Plan around 8 kg in the EU.",
+      "source": "https://avacab-audiovisuales.com/en/tripod-kits/1650-manfrotto-mkbfrtc4-bh-befree-advanced-twist-carbon-tripod"
+    },
+    {
+      "name": "SIRUI Traveler 5CX Carbon Fiber Travel Tripod",
+      "asin": "B07KD3R47X",
+      "status": "fits",
+      "metricSpecs": "0,925 kg with ball head (amazon.es listing); 6 kg max. load",
+      "reason": "Listed on amazon.es under the same ASIN and name.",
+      "source": "https://www.amazon.es/SIRUI-Traveler-5CX-Tr%C3%ADpode-Carbono/dp/B07KD3R47X"
+    },
+    {
+      "name": "Peak Design Travel Tripod Aluminum",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max., 130,2 cm column down, 39,4 cm folded, 1,56 kg, 9,1 kg load (from the English post figures)",
+      "reason": "Sold through Peak Design's EU web store under the same name.",
+      "source": "https://www.peakdesign.com/eu/products/travel-tripod"
+    },
+    {
+      "name": "ZOMEI Q666 Aluminum Tripod",
+      "asin": "B01KLLW046",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing: 35 cm folded, 152 cm total height; amazon.de listing title: 155 cm",
+      "reason": "Q666 listings exist on amazon.de, amazon.es and amazon.nl (other ASINs, same model).",
+      "source": "https://www.amazon.es/Profesional-aleaci%C3%B3n-liberaci%C3%B3n-compa%C3%B1ero-Digitales/dp/B07F3TKNM9"
+    },
+    {
+      "name": "Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod",
+      "asin": "B097Z1TNBP",
+      "status": "fits",
+      "metricSpecs": "38,5 cm folded (Benro EU page)",
+      "reason": "Same ASIN listed on amazon.de and amazon.es; Benro sells it through its EU stores (uk/de.benroeu.com).",
+      "source": "https://www.amazon.es/Benro-Roadtrip-Tr%C3%ADpode-esf%C3%A9rica-monopi%C3%A9/dp/B097Z1TNBP"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "AEMET clasifica la fuerza 6 de Beaufort como \"fresco\", de 39 a 49 km/h (22-27 nudos).",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg con medidas máximas de 56 x 40 x 25 cm; un trípode de 41 cm plegado cabe a lo largo.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "En la UE el kit Befree Advanced carbono se vende como MKBFRTC4-BH: carga 8 kg, altura máxima 150 cm, 1,25 kg.",
+      "source": "https://avacab-audiovisuales.com/en/tripod-kits/1650-manfrotto-mkbfrtc4-bh-befree-advanced-twist-carbon-tripod"
+    },
+    {
+      "fact": "Terminología: rótula (ball head), placa de liberación rápida, columna central, caja pochade, caballete de campo; Arca-Swiss igual en todas partes.",
+      "source": "https://migueldemontoro.wordpress.com/2011/08/30/pintando-cuando-se-puede/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "La rótula, no el trípode, es el eslabón débil con una pochade grande.",
+      "fix": "Mirar la carga de la rótula además de la del trípode; las rótulas de los kits aquí (494, Arca de Sirui y Benro) y la regla de no pasar de la mitad de la carga.",
+      "quotes": [
+        {
+          "text": "lo peor no es el trípode sino la rótula para acoplar la caja",
+          "url": "https://migueldemontoro.wordpress.com/2011/08/30/pintando-cuando-se-puede/"
+        }
+      ],
+      "sources": [
+        "https://migueldemontoro.wordpress.com/2011/08/30/pintando-cuando-se-puede/"
+      ]
+    },
+    {
+      "pain": "El conjunto pochade + trípode + pinturas pesa mucho para caminar.",
+      "fix": "Trípodes de carbono (Sirui 2,03 lb / 0,93 kg, Befree 1,25 kg) para caminatas; aluminio si se pinta junto al coche.",
+      "quotes": [
+        {
+          "text": "todos estos conjuntos tiene bastante peso como para andar demasiado con ellos",
+          "url": "https://migueldemontoro.wordpress.com/2011/08/30/pintando-cuando-se-puede/"
+        }
+      ],
+      "sources": [
+        "https://migueldemontoro.wordpress.com/2011/08/30/pintando-cuando-se-puede/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Carga UE del kit Befree: 8 kg (MKBFRTC4-BH) frente a 9 kg en la página de EE. UU.; una caja de 2,7 kg usa un 34 %.",
+      "source": "https://avacab-audiovisuales.com/en/tripod-kits/1650-manfrotto-mkbfrtc4-bh-befree-advanced-twist-carbon-tripod"
+    },
+    {
+      "point": "Umbral de viento en km/h según AEMET (fuerza 6, 39-49 km/h) en lugar del dato en mph del servicio meteorológico de EE. UU.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "point": "Equipaje de mano de Iberia 56 x 40 x 25 cm y 10 kg: los cinco trípodes caben a lo largo.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Close the umbrella in a strong breeze of 25-31 mph, when the National Weather Service says umbrellas are hard to use.",
+      "action": "replace",
+      "with": "AEMET: fuerza 6 (fresco), 39-49 km/h; enlazar AEMET en lugar de weather.gov."
+    },
+    {
+      "english": "small enough for a carry-on (no airline named)",
+      "action": "replace",
+      "with": "Iberia: equipaje de mano 56 x 40 x 25 cm, 10 kg (texto plano)."
+    },
+    {
+      "english": "Amazon stock was thin when I checked",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}

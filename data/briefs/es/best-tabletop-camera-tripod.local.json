@@ -1,0 +1,146 @@
+{
+  "lang": "es",
+  "translationOf": "best-tabletop-camera-tripod",
+  "checkedAt": "2026-11-01T17:50:23.369Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto (metric on its own page): 10.5-20 cm height, 20.5 cm closed, 0.26 kg, 2.5 kg safety payload; Manfrotto ES/FR pages: \"hasta 2,5 kg\" / \"jusqu'à 2,5 kg\"",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK: Calumet.de (in stock), Amazon.es (MTPIXIEVO-BK listing), fotok.es, Manfrotto global-es page.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13.5 cm height, 18.5 cm closed, 1 kg load (already metric in the English post)",
+      "reason": "Amazon.de and Amazon.es list the MTPIXI-B under the same ASIN B00D76RNLS (Tischstativ / Minitrípode Pixi). B&H lists MTPIXIMII-B as the replacement code; EU shops may show either code.",
+      "source": "https://www.amazon.de/Manfrotto-MTPIXI-B-Tischstativ-Compact-Standard/dp/B00D76RNLS"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod BUT2664",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "SmallRig/Amazon.de listing: \"Maximale Tragfähigkeit 2 kg\" (head); other figures already metric in the English post (113 mm, 230 mm, 410 g)",
+      "reason": "Amazon.de sells \"SMALLRIG Kamerastativ Leichtes Mini-Reisestativ aus Aluminium - BUT2664\" (EU ASIN B0833PTRH7).",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Kamerastativ-Leichtes-Mini-Reisestativ-Aluminium/dp/B0833PTRH7"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "No EU maker page read; English post figures: 3 kg load, about 30 cm height, about 393 g",
+      "reason": "Amazon.es sells \"JOBY JB01507 GorillaPod Kit 3K\" under the same ASIN B074WC9YKL; Dutch review site avondfotografie.nl reviewed it in Amsterdam; fotocinecolor.com (ES) lists it.",
+      "source": "https://www.amazon.es/Joby-GorillaPod-Digitales-C%C3%A1maras-Pel%C3%ADcula/dp/B074WC9YKL"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 22-44 cm, 170 g, 1.5 kg; Amazon.nl listing: 171 g, item number Ulanzi 2052 (its 20 cm package size is not the folded length, so not used)",
+      "reason": "Amazon.nl sells \"ULANZI MT-16 Tripod & Selfie Stick\" (item number 2052); Ulanzi ships the same 2052 model worldwide.",
+      "source": "https://www.amazon.nl/-/en/ULANZI-MT-16-Tripod-Selfie-Smartphone/dp/B08N6ZG9F2"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "La Sagrada Família no permite hacer fotografías o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "El Museo del Prado indica en su normativa que no está permitido realizar fotografías o filmaciones en las salas.",
+      "source": "https://www.museodelprado.es/visita/normativa"
+    },
+    {
+      "fact": "Ryanair incluye en todas las tarifas un bolso pequeño de 40 x 30 x 20 cm bajo el asiento; el PIXI Mini, el PIXI EVO, el SmallRig y el Ulanzi miden de 18,5 a 23 cm plegados.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Con un objetivo largo el centro de gravedad se va hacia delante y el minitrípode no aguanta.",
+      "fix": "Elegir por la carga de la rótula con un 50 % de margen; para zooms, GorillaPod 3K Kit (3 kg) o PIXI EVO (2,5 kg), y una pata delante bajo el objetivo.",
+      "quotes": [
+        {
+          "text": "El problema está en lo que sale de la rosca, es decir, donde se va el centro de gravedad con un objetivo largo.",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+      ]
+    },
+    {
+      "pain": "Buscar un trípode que quepa en una mochila pequeña.",
+      "fix": "PIXI Mini (18,5 cm cerrado, 190 g) o PIXI EVO (20,5 cm cerrado); el PIXI Mini, el PIXI EVO, el SmallRig y el Ulanzi caben en el bolso pequeño de Ryanair.",
+      "quotes": [
+        {
+          "text": "estoy en busqueda de un tripode que sea bastante plegable, lo que no consigo encontrar ninguno, que pueda llevar en una mochilita pequeña.",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+      ]
+    },
+    {
+      "pain": "Apoyar la cámara en barandillas, bancos o el suelo para una foto de grupo en viaje.",
+      "fix": "GorillaPod 3K Kit para barandillas y postes; patas rígidas para mesas y muros.",
+      "quotes": [
+        {
+          "text": "Soy mucho de apoyar la cámara en sitios (barandillas, coches, maleta, suelo, bancos...) por lo que busco algo sencillo pero que aguante la cámara.",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Antes de llevar el trípode de mesa a la Sagrada Família o la Alhambra: ambas prohíben fotografiar con trípode (la Alhambra, cualquier estabilizador).",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Los rígidos y el Ulanzi caben plegados en el bolso pequeño gratuito de Ryanair (40 x 30 x 20 cm).",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Respuesta al problema del centro de gravedad con objetivos largos que se comenta en el foro Fujistas.",
+      "source": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+    },
+    {
+      "point": "Medidas métricas primero, como las da el fabricante (Manfrotto: hasta 2,5 kg).",
+      "source": "https://www.manfrotto.com/global-es/mini-tripode-de-2-secciones-pixi-evo-negro-mtpixievo-bk/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific statement (checked on Amazon US); never mention a local Amazon store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "keep, phrased as US-specific (the Amazon US listing); no local-store claim"
+    },
+    {
+      "english": "Ulanzi and B&H list 1.5 kg, but the Amazon listing gives 0.5 kg",
+      "action": "replace",
+      "with": "keep the conflict, name it the Amazon US listing"
+    },
+    {
+      "english": "about 12 in of height (GorillaPod 3K Kit)",
+      "action": "replace",
+      "with": "metric first: etwa/unos/ongeveer 30 cm (12 in), per B&H"
+    }
+  ]
+}

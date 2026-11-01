@@ -1,0 +1,122 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-sony-fx3",
+  "checkedAt": "2026-11-01T17:51:46Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Live Aluminum Travel Video Tripod Kit",
+      "asin": "B07HQWGQTF",
+      "status": "localVariant",
+      "variant": "MVKBFRL-LIVE (EU code; the US kit is MVKBFRL-LIVEUS). Same aluminium lever-lock legs and Befree Live fluid head; only the market code differs.",
+      "metricSpecs": "Manfrotto: 151 cm max (130 cm column down), 40 cm min height, 40 cm folded, 1.75 kg, 4 kg safety payload (same figures for the EU code MVKBFRL-LIVE)",
+      "reason": "Kamera Express (NL/BE) sells it as MVKBFRL-LIVE Befree aluminium statiefkit (4 kg payload, 40 cm folded).",
+      "source": "https://www.kamera-express.nl/products/manfrotto-mvkbfrl-live-befree-aluminium-statiefkit"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head; 4 kg tripod weight per the English post's maker figures",
+      "reason": "Kamera Express lists the SmallRig 3751B AD-01 (75 mm bowl, built-in level).",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    },
+    {
+      "name": "NEEWER TP74 74 inch Video Tripod with Fluid Head",
+      "asin": "B0BS5VQDYG",
+      "status": "fits",
+      "metricSpecs": "Neewer EU store: 86-187 cm height range, 91 cm folded, 4 kg net weight, 8 kg load capacity",
+      "reason": "Neewer sells the TP74 through its EU store.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    },
+    {
+      "name": "Sachtler System Ace M MS Mk II Tripod System",
+      "asin": "B0CZHKT5J5",
+      "status": "fits",
+      "metricSpecs": "Sachtler/VideoExpert.eu: 78-169 cm, 86 cm folded, 4.4 kg, payload 0-4 kg, 75 mm bowl, 104 mm (4.1 in) plate slide",
+      "reason": "Sold by EU dealers such as VideoExpert.eu (1001M, 78-169 cm, 4.4 kg); no NL-specific shop page found, but EU dealers ship to NL/BE.",
+      "source": "https://www.videoexpert.eu/en/up-to-4-kg/sachtler-1001m-ace-m-ms-mk-ii-tripod-system/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Kamera Express lists the Peak Design Travel carbon statief.",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM hand baggage may not exceed 55 x 35 x 25 cm including wheels and handles: the Befree Live (40 cm folded) and Peak Design (about 39 cm) fit; the AD-01 (89 cm), TP74 (91 cm) and Sachtler (86 cm) go in the hold.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Gemeente Amsterdam: filming in the city requires a filmmelding at least 4 weeks in advance; the melding is free and the full rules are in the city's Filmprotocol.",
+      "source": "https://www.amsterdam.nl/vergunningen-ontheffingen/werkzaamheden-straat/filmen-stad/"
+    },
+    {
+      "fact": "Rijksmuseum: visitors may film and photograph as long as it does not disturb others; for bridal photography the museum's terms mean no tripods and no extra lighting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Dutch terms: fluid head / vloeistofkop, kombasis of halve bol van 75 mm, tegengewicht (counterbalance), middenspreider; Arca-Swiss keeps its name.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dutch photographers are unsure whether a tripod counts as a blunt weapon in hand baggage.",
+      "fix": "A kit that folds to about 40 cm fits KLM's 55 x 35 x 25 cm limit; pack the 86-91 cm video tripods in checked baggage; security staff make the final call.",
+      "quotes": [
+        {
+          "text": "Wordt dit niet gezien als slagwapen oid?",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=37726"
+        },
+        {
+          "text": "Een statief wordt zeker weten bestempeld als slagwapen als je dat als handbagage wilt gaan gebruiken",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1380950"
+        }
+      ],
+      "sources": [
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    },
+    {
+      "pain": "Others report no trouble at all, so advice conflicts.",
+      "fix": "Choose a compact kit if cabin travel matters (Befree Live or Peak Design) and accept that the security check decides.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which kits fit KLM's 55 x 35 x 25 cm hand baggage limit.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Amsterdam filmmelding (free, 4 weeks ahead) before street shoots with an FX3 on a tripod.",
+      "source": "https://www.amsterdam.nl/vergunningen-ontheffingen/werkzaamheden-straat/filmen-stad/"
+    },
+    {
+      "point": "Maker metric figures (Neewer EU 86-187 cm, 91 cm folded) and EU code MVKBFRL-LIVE.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'Folds to 15.75 in, carry-on size' (US carry-on wording)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm hand baggage fact"
+    },
+    {
+      "english": "'each with its own Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    }
+  ]
+}

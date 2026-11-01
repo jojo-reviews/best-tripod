@@ -1,0 +1,21 @@
+{
+  "slug": "nl/statief-voor-livestream",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-live-streaming",
+  "pass": true,
+  "checkedAt": "2026-11-01T17:57:23.298Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-mini-tripod-for-desk-video-calls/; link the nl version once it exists",
+    "internal link to the English post /blog/what-is-an-arca-swiss-plate-and-do-i-need-one/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-content-creators/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-live-streaming: same 6 products, ASINs, scores, spec keys, FAQ answers, owner praise/complaints; conversions metric first (67.3 in=171 cm, 68.2 in=173 cm, 55.6 in=141 cm, 28.3 in=72 cm, 4.8 lb=2.2 kg, 22 lb=10 kg, 20.1 in=51 cm, 3.1 lb=1.4 kg, 2.2 lb=1 kg; Befree/PIXI/K&F use the post's metric figures). Local facts re-opened: CBS (men 20+ 1,81 m, women 1,67 m, 2018) replaces CDC; cvdm.nl registratiecheck (rules apply regardless of followers, registration from 100.000 followers under active supervision); klm.nl 55 x 35 x 25 cm; vanguardworld.de ALTA PRO 263AB G2 (171 cm, 69,5 cm, 2,29 kg, 10 kg); foto-erhardt MKBFRLA4BK-BH; Tweakers stream-setup and preek/muziek threads from the local brief. Manfrotto 1 kg link kept as plain text (max 3 outside links). No testing/ownership claim, no prices/currency, no local Amazon store.",
+    "at": "2026-11-01T17:57:22.686Z",
+    "hash": "581779d892bc3e31"
+  }
+}

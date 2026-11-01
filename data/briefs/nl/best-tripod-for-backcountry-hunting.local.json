@@ -1,0 +1,136 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-backcountry-hunting",
+  "checkedAt": "2026-11-01T17:50:15.359Z",
+  "productFit": [
+    {
+      "name": "Vortex Summit Carbon II Tripod Kit",
+      "asin": "B08SC6FGTF",
+      "status": "fits",
+      "metricSpecs": "1,13 kg, max. load 9,98 kg (about 10 kg), folded 46 cm, max. height 135 cm, min. 16 cm",
+      "reason": "Sold in the Netherlands by Kamera Express and VerrekijkerShop under the same name.",
+      "source": "https://www.kamera-express.nl/vortex-summit-carbon-ii-fiber-statief-panor"
+    },
+    {
+      "name": "Vortex Ridgeview Carbon Tripod Kit",
+      "asin": "B08SBVMS8W",
+      "status": "fits",
+      "metricSpecs": "max. height 187 cm, max. load 9,9 kg",
+      "reason": "Sold in the EU under the same name (German distributor Seven Oaks, amazon.de with the same ASIN).",
+      "source": "https://www.shop.sevenoaks-gmbh.de/vortex-ridgeview-carbon-stativ"
+    },
+    {
+      "name": "Leupold Alpine CF-425 Tripod Kit",
+      "asin": "B08RMY29S3",
+      "status": "fits",
+      "metricSpecs": "907 g, 12,7 cm to 147,3 cm",
+      "reason": "Sold in Europe under the same name (Carbin store DE, Navara CH, Spanish gun shops).",
+      "source": "https://carbinstore.com/de/products/kit-tripode-leupold-alpine-cf-425"
+    },
+    {
+      "name": "Vanguard VEO 3GO 204AB G2 Aluminum Travel Tripod",
+      "asin": "B0FXN9H89F",
+      "status": "fits",
+      "metricSpecs": "970 g, folded 34 cm",
+      "reason": "Vanguard sells the G2 in Europe (Vanguard UK, amazon.de listing \"Vanguard VEO 3GO 204AB G2 Ultraportables Aluminium Reisestativ\").",
+      "source": "https://www.vanguardworld.co.uk/products/veo-3go-204ab-g2"
+    },
+    {
+      "name": "Primos Trigger Stick Gen3 Tall Tripod",
+      "asin": "B0728HC759",
+      "status": "fits",
+      "metricSpecs": "61 to 157 cm",
+      "reason": "Sold in the Netherlands as \"Primos trigger stick gen 3 schietstok 3-poot\" (Mets Jachthuis, Jachtloods).",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM allows hand baggage of max. 55 x 35 x 25 cm; the Summit Carbon II (46 cm), Alpine CF-425 (47 cm) and VEO 3GO (34 cm) fit by length, the Ridgeview (74 cm folded) does not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "CBS: men aged 20 or older in the Netherlands were on average 1,81 m tall in 2018; only the Ridgeview at 187 cm is taller.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "fact": "Dutch hunting shops sell the Primos Trigger Stick Gen 3 as a \"schietstok 3-poot\" with a removable 360-degree V rest, so it can also take a camera.",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    },
+    {
+      "fact": "Kamera Express NL lists the Summit Carbon II at 46 x 7,6 cm folded, 1,13 kg and up to 9,98 kg.",
+      "source": "https://www.kamera-express.nl/vortex-summit-carbon-ii-fiber-statief-panor"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Heavier tripods are steadier in strong wind, but carbon is easier to carry on long walks.",
+      "fix": "Carry the light carbon tripod and hang the pack from the hook in wind instead of buying a heavier tripod.",
+      "quotes": [
+        {
+          "text": "Een hoger gewicht komt de stabiliteit (zeker bij veel wind) altijd iets ten goede.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    },
+    {
+      "pain": "A quick-release that is accidentally open can drop the scope.",
+      "fix": "Lock the tilt and check the Arca-Swiss clamp before you let go of the optic (setup step 6).",
+      "quotes": [
+        {
+          "text": "Het belangrijkste bij een snelkoppeling is dat de telescoop er niet vanaf kan vallen als de koppeling toevallig open staat.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    },
+    {
+      "pain": "With twist locks you cannot see whether a lock is open or closed.",
+      "fix": "Extend the thickest sections first and check each twist lock before you load the tripod; the Primos uses a trigger instead of leg locks.",
+      "quotes": [
+        {
+          "text": "Nadeel is dat je niet goed ziet of de sluiting los of vast is.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Glassing height against the Dutch average man (1,81 m, CBS), the tallest in Europe, instead of the US figure.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "point": "Which tripods fit KLM hand baggage (55 cm) for a hunting trip abroad.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Dutch terms (schietstok, statiefkop, snelkoppeling) and Dutch wind/lock concerns answered.",
+      "source": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The average US man is 68.9 inches tall (CDC)",
+      "action": "replace",
+      "with": "CBS: Dutch men 20+ average 1,81 m"
+    },
+    {
+      "english": "own in-stock Amazon US listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "yards (505 and 550 yards)",
+      "action": "replace",
+      "with": "metres first: 462 and 503 m"
+    }
+  ]
+}

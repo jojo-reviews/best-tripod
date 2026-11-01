@@ -1,0 +1,109 @@
+{
+  "lang": "es",
+  "translationOf": "best-mini-tripod-for-desk-video-calls",
+  "checkedAt": "2026-11-01T17:48:57.513Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "localVariant",
+      "variant": "EU retailers list the PIXI Mini mostly under the code MTPIXIMII-B (Thomann, Amazon.es search); Amazon.es also carries the MTPIXI-B listing under the same ASIN B00D76RNLS. No spec difference is stated in the sources seen.",
+      "metricSpecs": "About 13.5 cm fixed height, about 18.5 cm folded, 1 kg load (Thomann listing, already metric in the English post)",
+      "reason": "Sold in the EU through Thomann and Amazon.es; model code on EU listings is often MTPIXIMII-B.",
+      "source": "https://www.amazon.es/Manfrotto-MTPIXI-B-Minitr%C3%ADpode-C%C3%A1maras-Material/dp/B00D76RNLS"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod with Ball Head",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "22-44 cm length range, 170 g, max load 1.5 kg, ABS and aluminum (Ulanzi product page)",
+      "reason": "Ulanzi sells the MT-16 (2052) through its EU store page; EU Amazon listings exist on amazon.de and amazon.nl (no amazon.es listing confirmed in our search).",
+      "source": "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052"
+    },
+    {
+      "name": "SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)",
+      "asin": "B0833XSMM4",
+      "status": "fits",
+      "metricSpecs": "410 g, ball head 2 kg (Foto Koch); Foto Koch also lists a 113 mm working height that conflicts with the 23 cm in the English post, so it is not used",
+      "reason": "Sold on Amazon.de and EU photo retailers (Foto Koch, Kamera Express); same model code BUT2664.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El INSST pregunta en su guía para usuarios de pantallas si se puede ajustar la altura de la pantalla para que el borde superior quede bajo la línea de visión horizontal; por eso el objetivo a la altura de los ojos va justo encima del borde superior de la pantalla.",
+      "source": "https://www.insst.es/documents/94886/96076/InstruccionBasicaParaTrabajadorUsuarioPantallas.pdf"
+    },
+    {
+      "fact": "INSST: si la distancia no se puede regular, la pantalla debería estar al menos a 40 cm de los ojos.",
+      "source": "https://www.insst.es/documents/94886/96076/InstruccionBasicaParaTrabajadorUsuarioPantallas.pdf"
+    },
+    {
+      "fact": "La Ley 10/2021 de trabajo a distancia (art. 11) dice que quienes trabajan a distancia tienen derecho a la dotación y mantenimiento por parte de la empresa de los medios, equipos y herramientas necesarios, según el inventario del acuerdo de trabajo a distancia.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11472"
+    },
+    {
+      "fact": "Términos locales: trípode de mesa / minitrípode, rótula de bola, rosca de 1/4\", zapata fría, placa Arca-Swiss.",
+      "source": "https://www.amazon.es/Manfrotto-MTPIXI-B-Minitr%C3%ADpode-C%C3%A1maras-Material/dp/B00D76RNLS"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Usar el móvil como webcam para las videollamadas.",
+      "fix": "Mini trípode + pinza para móvil (el PIXI Mini no la trae); el Ulanzi MT-16 da más altura.",
+      "quotes": [
+        {
+          "text": "Teléfono movil + Trípode + Una de las múltiples apps que te permite usar las cámaras del movil como webcam.",
+          "url": "https://forocoches.com/foro/showthread.php?t=8502281"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=8502281"
+      ]
+    },
+    {
+      "pain": "La cámara del portátil queda baja y hay que elevarla.",
+      "fix": "Elevador o soporte bajo el trípode o el portátil para llevar el objetivo a la altura de los ojos.",
+      "quotes": [
+        {
+          "text": "Si ya tienes un portátil, lo más barato es algo para elevarlo y una webcam con gran angular.",
+          "url": "https://forocoches.com/foro/showthread.php?t=8502281"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=8502281"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Altura del objetivo coordinada con la regla del INSST (borde superior de la pantalla bajo la línea de visión).",
+      "source": "https://www.insst.es/documents/94886/96076/InstruccionBasicaParaTrabajadorUsuarioPantallas.pdf"
+    },
+    {
+      "point": "Si teletrabajas por cuenta ajena, la Ley 10/2021 recoge el derecho a que la empresa dote los equipos necesarios: pregunta antes de comprar.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11472"
+    },
+    {
+      "point": "Datos métricos del fabricante: Ulanzi 22-44 cm, 170 g, 1,5 kg.",
+      "source": "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "kept only models with a clear Amazon US listing ... for the GorillaPod kit, no Amazon US listing",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific selection rule (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "About 9 in tall / folded about 9 in (SmallRig)",
+      "action": "replace",
+      "with": "Metric first: about 23 cm (9 in); 2 kg (4.4 lb)."
+    },
+    {
+      "english": "Lighting matters as much as the tripod: face a window",
+      "action": "replace",
+      "with": "Window advice adjusted with the local screen-placement fact (screen parallel to the window / no glare), keeping the small light on the cold shoe."
+    }
+  ]
+}

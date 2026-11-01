@@ -1,0 +1,131 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-sony-fx3",
+  "checkedAt": "2026-11-01T17:51:46Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Live Aluminum Travel Video Tripod Kit",
+      "asin": "B07HQWGQTF",
+      "status": "localVariant",
+      "variant": "MVKBFRL-LIVE (EU code; the US kit is MVKBFRL-LIVEUS). Same aluminium lever-lock legs and Befree Live fluid head; only the market code differs.",
+      "metricSpecs": "Manfrotto: 151 cm max (130 cm column down), 40 cm min height, 40 cm folded, 1.75 kg, 4 kg safety payload (same figures for the EU code MVKBFRL-LIVE)",
+      "reason": "Sold in Germany/Austria as MVKBFRL-LIVE (amazon.de listing, Calumet/Geizhals price comparisons list 151 cm and 4 kg).",
+      "source": "https://www.amazon.de/-/en/Manfrotto-MVKBFRL-LIVE/dp/B07HHBWV3V"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head; 4 kg tripod weight per the English post's maker figures",
+      "reason": "SmallRig 3751B AD-01 is listed on amazon.de under the same model code.",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Performance-release-camcorders-capacity/dp/B09WVBXZF9"
+    },
+    {
+      "name": "NEEWER TP74 74 inch Video Tripod with Fluid Head",
+      "asin": "B0BS5VQDYG",
+      "status": "fits",
+      "metricSpecs": "Neewer EU store: 86-187 cm height range, 91 cm folded, 4 kg net weight, 8 kg load capacity",
+      "reason": "Neewer sells the TP74 in its EU store (same model code and specs).",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    },
+    {
+      "name": "Sachtler System Ace M MS Mk II Tripod System",
+      "asin": "B0CZHKT5J5",
+      "status": "fits",
+      "metricSpecs": "Sachtler/VideoExpert.eu: 78-169 cm, 86 cm folded, 4.4 kg, payload 0-4 kg, 75 mm bowl, 104 mm (4.1 in) plate slide",
+      "reason": "Sachtler (Videndum) sells the 1001M through EU dealers; Foto Koch lists it as SA-1001M.",
+      "source": "https://www.fotokoch.mt/Sachtler-System-Ace-M-MS-MK-II-tripod_17058.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Peak Design Travel Tripod Carbon is sold through EU retailers under the same name (Kamera Express, El Corte Ingles list it).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows one cabin trolley of max. 55 x 40 x 23 cm and 8 kg: the Befree Live (40 cm folded) and Peak Design (about 39 cm) fit inside, the AD-01 (89 cm), TP74 (91 cm) and Sachtler (86 cm) go in checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Berlin Brandenburg Film Commission: filming on public streets in Berlin as a 'Miniteam' (max. 5 people, max. 1 camera tripod, no lighting set-ups) needs only a Sondernutzung permit from the district; shoots that go beyond common use otherwise need a permit (news reporting excepted).",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "fact": "Koelner Dom: private photos and videos are allowed, but tripods and similar technical aids are not used unless you first obtain an access permit for private recordings with technical aids from the cathedral press office.",
+      "source": "https://www.koelner-dom.de/besuchen/fotografieren-und-filmen"
+    },
+    {
+      "fact": "German term for the plate check: Sony's Help Guide limit of a tripod screw shorter than 5.5 mm applies to the Stativgewinde; the standard terms are Fluidkopf / Videoneiger, Halbschale (75 mm), Mittelspinne and Gegengewicht.",
+      "source": "https://helpguide.sony.net/ilc/2210/v1/en/contents/TP1000886849.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsure whether a tripod is allowed in cabin baggage on European flights.",
+      "fix": "Compact kits that fold to about 40 cm (Befree Live, Peak Design) fit the Lufthansa 55 x 40 x 23 cm trolley; the 86-91 cm video tripods go in the hold.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    },
+    {
+      "pain": "Photo tripods move in jerks when filming; German forum users point new filmers to a fluid head.",
+      "fix": "Use one of the four fluid-head kits for pans; keep the Peak Design ball head for locked-off shots.",
+      "quotes": [
+        {
+          "text": "Wenn Du ordentlich filmen willst, brauchst Du ein Videostativ mit Fluidkopf.",
+          "url": "https://www.dslr-forum.de/threads/stativ-zum-filmen-vertikale-feststellung.383165/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Confusion about whether image stabilisation should stay on when filming from a video tripod.",
+      "fix": "Sony's FX3 Help Guide says to turn SteadyShot off on a tripod (already in the English post).",
+      "quotes": [
+        {
+          "text": "Wie essentiell ist es ein bildstabilisiertes Objektiv zu haben wenn man mit einem Videostativ filmt?",
+          "url": "https://www.dslr-forum.de/threads/bildstabilisator-beim-filmen-mit-stativ.1276382/"
+        }
+      ],
+      "sources": [
+        "https://helpguide.sony.net/ilc/2210/v1/en/contents/TP1000854799.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which of the five kits fit a Lufthansa 55 x 40 x 23 cm cabin trolley and which must be checked in.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Berlin Miniteam rule (max. 5 people, 1 tripod, no lights) for FX3 street shoots.",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "point": "Maker metric figures, incl. Neewer's own 86-187 cm and 91 cm folded for the TP74 and the EU code MVKBFRL-LIVE for the Befree Live.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'Folds to 15.75 in, carry-on size' (US carry-on wording)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin trolley fact"
+    },
+    {
+      "english": "'each with its own Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    }
+  ]
+}

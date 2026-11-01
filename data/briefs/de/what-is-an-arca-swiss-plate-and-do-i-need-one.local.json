@@ -1,0 +1,107 @@
+{
+  "lang": "de",
+  "translationOf": "what-is-an-arca-swiss-plate-and-do-i-need-one",
+  "checkedAt": "2026-11-01T17:47:52.687Z",
+  "productFit": [
+    {
+      "name": "SmallRig Quick Release Plate for Arca Swiss 2146B",
+      "asin": "B01B4LBN7W",
+      "status": "fits",
+      "metricSpecs": "68 mm long, 48 g net weight (SmallRig EU page lists the 2146 at 48 g)",
+      "reason": "SmallRig sells the 2146 Arca-type plate on its EU store (smallrig.com/eu), which ships to Germany, Spain and the Netherlands.",
+      "source": "https://www.smallrig.com/eu/smallrig-quick-release-plate-arca-type-compatible-2146.html"
+    },
+    {
+      "name": "NEEWER QPR-5C 2 Pack Quick Release Plate",
+      "asin": "B0FNCTGRFR",
+      "status": "fits",
+      "metricSpecs": "38 x 38 mm, 8 kg load (Neewer)",
+      "reason": "Neewer lists the same QPR-5C 2-pack on its EU store (eu.neewer.com); stock varies, which the post does not mention.",
+      "source": "https://eu.neewer.com/products/neewer-qpr-5c-2-pack-38mm-anti-off-arca-type-quick-release-plate-66608627"
+    },
+    {
+      "name": "Harwerrel Aluminium 50mm Quick Release Clamp QR-50S",
+      "asin": "B071LDM42V",
+      "status": "fits",
+      "metricSpecs": "50 mm clamp; listing gives 7.9 x 5.1 x 2 cm",
+      "reason": "The same ASIN is listed on amazon.de as Harwerrel Schnellwechselplatte aus Aluminium, 50 mm, QR-Klemme, passend fuer Arca-Swiss.",
+      "source": "https://www.amazon.de/harwerrel-Universal-Schnellwechselplatte-Arca-Swiss-Kugelkopf/dp/B071LDM42V"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "ARCA-SWISS products are made and assembled by hand at the main factory in Ecole-Valentin near Besancon, France, so the original Arca-Swiss plate is a European product.",
+      "source": "https://arca-swiss-usa.com/pages/about-arca-swiss"
+    },
+    {
+      "fact": "Koelner Dom: photos (no flash) and video without additional equipment are allowed for private purposes outside services, so a tripod stays at home there.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "German retailers call the plate Schnellwechselplatte and the clamp Schnellwechselklemme or QR-Klemme (amazon.de listing of the Harwerrel clamp).",
+      "source": "https://www.amazon.de/harwerrel-Universal-Schnellwechselplatte-Arca-Swiss-Kugelkopf/dp/B071LDM42V"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Arca plates twist under long lenses because of leverage on the single screw.",
+      "fix": "Use a lens-foot plate, a camera-specific plate with a lip, or anti-twist pads (English post: types and how-to sections).",
+      "quotes": [
+        {
+          "text": "Gibt es irgend eine Möglichkeit eine Arca Platte anzubringen die sich nicht verdreht aufgrund Hebelwirkung?",
+          "url": "https://www.dslr-forum.de/threads/arca-swiss-platten-fuer-lange-objektive.1915098/"
+        },
+        {
+          "text": "Es gibt für andere Schnellwechselsysteme (Typ ARCA), als deines kameraspezifische Platten, die verdrehsicher sind.",
+          "url": "https://www.dslr-forum.de/threads/kamera-dreht-auf-stativ-wechselplatte.608472/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/arca-swiss-platten-fuer-lange-objektive.1915098/"
+      ]
+    },
+    {
+      "pain": "Small cheap plates keep loosening.",
+      "fix": "Clean pads, tighten firmly with a coin or hex key, re-check before each outing; pick a plate with pads (SmallRig) for heavier kit.",
+      "quotes": [
+        {
+          "text": "Das liegt häufig an den kleinen (billigen) Plättchen, die lassen sich entweder nicht richtig festziehen",
+          "url": "https://www.dslr-forum.de/threads/schnellwechselplatte-lockert-sich-staendig.2164157/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/schnellwechselplatte-lockert-sich-staendig.2164157/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Arca-Swiss itself is a French maker (Besancon), so the standard is European.",
+      "source": "https://arca-swiss-usa.com/pages/about-arca-swiss"
+    },
+    {
+      "point": "Local search terms Schnellwechselplatte / Schnellwechselklemme used throughout.",
+      "source": "https://www.amazon.de/harwerrel-Universal-Schnellwechselplatte-Arca-Swiss-Kugelkopf/dp/B071LDM42V"
+    },
+    {
+      "point": "Venue rule: Koelner Dom allows private photos without additional equipment, so plan a handheld or no-tripod shot there.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Answers the dslr-forum.de twisting and loosening complaints with concrete fixes.",
+      "source": "https://www.dslr-forum.de/threads/arca-swiss-platten-fuer-lange-objektive.1915098/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "B&H describes rubber anti-twist pads on top",
+      "action": "replace",
+      "with": "name B&H as a US photo retailer when citing it; keep the fact"
+    },
+    {
+      "english": "Source title ARCA-SWISS USA",
+      "action": "replace",
+      "with": "keep the source; in the text say Arca-Swiss (the French maker) states the 38 mm width"
+    }
+  ]
+}
