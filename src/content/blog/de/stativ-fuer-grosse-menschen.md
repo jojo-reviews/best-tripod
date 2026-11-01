@@ -4,7 +4,7 @@ seoTitle: Stativ für große Menschen – 4 hohe Stative im Vergleich
 description: >-
   Ein Stativ für große Menschen bringt den Sucher ohne Bücken auf Augenhöhe. 4
   hohe Stative im Vergleich: Höhe ohne Mittelsäule, Tragkraft und Packmaß in cm.
-pubDate: '2026-11-01T21:30:00.000Z'
+pubDate: '2026-11-01T19:15:00.000Z'
 lang: de
 translationOf: best-tripod-for-tall-photographers-over-6-feet
 category: camera-tripods

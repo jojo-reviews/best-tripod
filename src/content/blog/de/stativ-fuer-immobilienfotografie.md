@@ -4,7 +4,7 @@ seoTitle: Stativ für Immobilienfotografie (2026) – 7 Empfehlungen
 description: >-
   Das beste Stativ für Immobilienfotografie hält Vertikalen über jede
   Belichtungsreihe gerade. 7 Stative und Getriebeneiger nach Höhe, Last, Platte.
-pubDate: '2026-11-01T19:30:00.000Z'
+pubDate: '2026-11-01T18:45:00.000Z'
 lang: de
 translationOf: best-tripod-for-real-estate-photography
 category: camera-tripods

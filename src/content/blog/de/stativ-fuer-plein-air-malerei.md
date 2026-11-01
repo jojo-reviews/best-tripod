@@ -5,7 +5,7 @@ description: >-
   Das beste Stativ für Plein Air Malerei, passend zur Pochade-Box nach
   Tragkraft, Höhe ohne Mittelsäule und Packmaß: 5 Modelle und ein Aufbau gegen
   Wind.
-pubDate: '2026-11-01T20:30:00.000Z'
+pubDate: '2026-11-01T19:00:00.000Z'
 lang: de
 translationOf: best-tripod-for-plein-air-painting
 category: camera-tripods

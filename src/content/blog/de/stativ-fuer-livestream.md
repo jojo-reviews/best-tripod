@@ -5,7 +5,7 @@ description: >-
   Das beste Stativ für Livestream, passend zu deinem Setup: Handy oder Kamera,
   am Schreibtisch oder im Stehen, plus Draufsicht für Live-Shopping. Höhen
   geprüft.
-pubDate: '2026-11-01T22:30:00.000Z'
+pubDate: '2026-11-01T19:25:00.000Z'
 lang: de
 translationOf: best-tripod-for-live-streaming
 category: phone-tripods
