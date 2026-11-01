@@ -433,7 +433,7 @@ Voltage Castle praises the grippy handle and smooth ring lock, and notes the hol
 
 ### Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK): best for desk and countertop
 
-The PIXI clamp kit is our pick for desk tutorials, countertop product shots and unboxing videos filmed from the front. Manfrotto lists it at 0.47 lb and 9.7 in tall with the clamp, folding to 10.2 in. The legs are fixed stainless steel, and a push-button ball head locks the phone in portrait or landscape.
+The PIXI clamp kit is our pick for desk tutorials, countertop product shots and unboxing videos filmed from the front, and it also shows up in our [tripods for live streaming](/blog/best-tripod-for-live-streaming/). Manfrotto lists it at 0.47 lb and 9.7 in tall with the clamp, folding to 10.2 in. The legs are fixed stainless steel, and a push-button ball head locks the phone in portrait or landscape.
 
 TechGearLab calls the PIXI rock-solid on a level surface and Swarmify says desk creators tend to overbuy when this is all they need. Manfrotto rates the kit for [1 kg (2.2 lb) of total payload](https://www.manfrotto.com/us-en/mini-tripod-black-with-universal-smartphone-clamp-mkpixiclamp-bk/), which covers a phone and a small mic. Its limit is height: for eye level you need a table or a stack of books.
 

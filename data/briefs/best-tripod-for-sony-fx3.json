@@ -8,22 +8,118 @@
     "fluid head tripod for FX3"
   ],
   "entities": [
-    { "name": "tripod for Sony FX3", "type": "central entity (Tripod (photography))", "relation": "the support the post is about; rated against the full FX3 rig", "salience": 0.89, "pages": 4 },
-    { "name": "Sony FX3", "type": "camera (Sony Cinema Line)", "relation": "715 g body with battery and card, 1.015 kg with the XLR handle", "salience": 0.83, "pages": 4 },
-    { "name": "Manfrotto", "type": "brand", "relation": "maker of the Befree Live travel video kit", "salience": 0.73, "pages": 4 },
-    { "name": "Sony", "type": "brand", "relation": "camera maker; Help Guide sets the 5.5 mm screw limit", "salience": 0.63, "pages": 3 },
-    { "name": "SmallRig", "type": "brand", "relation": "maker of the AD-01 fluid head tripod and FX3 cages", "salience": 0.6, "pages": 3 },
-    { "name": "Benro", "type": "brand", "relation": "video tripod maker named on several FX3 pages", "salience": 0.58, "pages": 3 },
-    { "name": "payload", "type": "attribute", "relation": "rated load of head and legs, held against the rig weight", "salience": 0.53, "pages": 3 },
-    { "name": "fluid head", "type": "component", "relation": "damped pan and tilt head needed for moving shots", "salience": 0.55, "pages": 4 },
-    { "name": "carbon fiber", "type": "material", "relation": "lighter leg material (Peak Design) vs aluminum", "salience": 0.47, "pages": 3 },
-    { "name": "Sony FX30", "type": "camera", "relation": "Super 35 sibling with the same body and screw rules", "salience": 0.5, "pages": 2 },
-    { "name": "monopod", "type": "product category", "relation": "lighter support that cannot hold a locked-off frame alone", "salience": 0.49, "pages": 2 },
-    { "name": "image stabilization", "type": "feature", "relation": "SteadyShot, which Sony says to turn off on a tripod", "salience": 0.35, "pages": 2 },
-    { "name": "counterbalance", "type": "feature", "relation": "spring that holds a tilted rig; only the Sachtler Ace M has steps here", "salience": 0.45, "pages": 3 },
-    { "name": "75mm bowl", "type": "component", "relation": "half-ball leveling mount on AD-01, TP74 and Ace M", "salience": 0.4, "pages": 3 },
-    { "name": "XLR handle", "type": "accessory", "relation": "supplied FX3 handle that adds about 300 g", "salience": 0.42, "pages": 2 },
-    { "name": "camera cage", "type": "accessory", "relation": "adds weight and mounting points to the FX3 rig", "salience": 0.4, "pages": 3 }
+    {
+      "name": "tripod for Sony FX3",
+      "type": "central entity (Tripod (photography))",
+      "relation": "the support the post is about; rated against the full FX3 rig",
+      "salience": 0.89,
+      "pages": 4
+    },
+    {
+      "name": "Sony FX3",
+      "type": "camera (Sony Cinema Line)",
+      "relation": "715 g body with battery and card, 1.015 kg with the XLR handle",
+      "salience": 0.83,
+      "pages": 4
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the Befree Live travel video kit",
+      "salience": 0.73,
+      "pages": 4
+    },
+    {
+      "name": "Sony",
+      "type": "brand",
+      "relation": "camera maker; Help Guide sets the 5.5 mm screw limit",
+      "salience": 0.63,
+      "pages": 3
+    },
+    {
+      "name": "SmallRig",
+      "type": "brand",
+      "relation": "maker of the AD-01 fluid head tripod and FX3 cages",
+      "salience": 0.6,
+      "pages": 3
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "video tripod maker named on several FX3 pages",
+      "salience": 0.58,
+      "pages": 3
+    },
+    {
+      "name": "payload",
+      "type": "attribute",
+      "relation": "rated load of head and legs, held against the rig weight",
+      "salience": 0.53,
+      "pages": 3
+    },
+    {
+      "name": "fluid head",
+      "type": "component",
+      "relation": "damped pan and tilt head needed for moving shots",
+      "salience": 0.55,
+      "pages": 4
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter leg material (Peak Design) vs aluminum",
+      "salience": 0.47,
+      "pages": 3
+    },
+    {
+      "name": "Sony FX30",
+      "type": "camera",
+      "relation": "Super 35 sibling with the same body and screw rules",
+      "salience": 0.5,
+      "pages": 2
+    },
+    {
+      "name": "monopod",
+      "type": "product category",
+      "relation": "lighter support that cannot hold a locked-off frame alone",
+      "salience": 0.49,
+      "pages": 2
+    },
+    {
+      "name": "image stabilization",
+      "type": "feature",
+      "relation": "SteadyShot, which Sony says to turn off on a tripod",
+      "salience": 0.35,
+      "pages": 2
+    },
+    {
+      "name": "counterbalance",
+      "type": "feature",
+      "relation": "spring that holds a tilted rig; only the Sachtler Ace M has steps here",
+      "salience": 0.45,
+      "pages": 3
+    },
+    {
+      "name": "75mm bowl",
+      "type": "component",
+      "relation": "half-ball leveling mount on AD-01, TP74 and Ace M",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "XLR handle",
+      "type": "accessory",
+      "relation": "supplied FX3 handle that adds about 300 g",
+      "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "camera cage",
+      "type": "accessory",
+      "relation": "adds weight and mounting points to the FX3 rig",
+      "salience": 0.4,
+      "pages": 3
+    }
   ],
   "attributes": [
     "head payload vs full FX3 rig weight",
@@ -117,25 +213,38 @@
       "type": "analysis",
       "point": "Load share calculation: FX3 with XLR handle (1.015 kg) plus a 24-70mm GM II (695 g) is about 1.71 kg, which is 43% of the Befree Live and Ace M 4 kg ratings, 29% of the AD-01 head, 21% of the TP74 and 19% of the Peak Design",
       "source": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
-      "absentFrom": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "https://thepostflow.com/production/accessories/best-tripod-for-video/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"]
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+      ]
     },
     {
       "type": "decision",
       "point": "Chooser by rig: bare FX3 or handle kit on the road = Befree Live; caged rig with monitor = AD-01 or TP74; pans for paid work = Ace M; stills plus locked-off video = Peak Design",
       "source": "own rule from maker payload specs",
-      "absentFrom": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"]
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+      ]
     },
     {
       "type": "situation",
       "point": "Nose dives when the tilt lock is released: only the Ace M lists counterbalance steps; on the others balance the rig on a sliding plate and lock tilt between moves",
       "source": "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/",
-      "absentFrom": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"]
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+      ]
     },
     {
       "type": "situation",
       "point": "Sony's Help Guide limits tripod and accessory screws to under 5.5 mm on the FX3; check plate and cage screws before mounting",
       "source": "https://helpguide.sony.net/ilc/2210/v1/en/contents/TP1000886849.html",
-      "absentFrom": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "https://thepostflow.com/production/accessories/best-tripod-for-video/"]
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+      ]
     }
   ],
   "painPoints": [
@@ -143,48 +252,137 @@
       "id": "fx3-ball-head-tilts-down",
       "pain": "An FX3 on a photo ball head tilts down when you reframe",
       "details": "Owners using ball heads for video find the camera drops unless the tension knob is wrenched down.",
-      "sources": ["https://www.reddit.com/r/FX3/comments/1pj90sq/does_this_vertical_setup_feel_weird/"],
-      "quotes": [{ "text": "if you don't wrench down on that tension knob the camera will tilt down", "url": "https://www.reddit.com/r/FX3/comments/1pj90sq/does_this_vertical_setup_feel_weird/" }]
+      "sources": [
+        "https://www.reddit.com/r/FX3/comments/1pj90sq/does_this_vertical_setup_feel_weird/"
+      ],
+      "quotes": [
+        {
+          "text": "if you don't wrench down on that tension knob the camera will tilt down",
+          "url": "https://www.reddit.com/r/FX3/comments/1pj90sq/does_this_vertical_setup_feel_weird/"
+        }
+      ]
     },
     {
       "id": "fx3-head-no-counterbalance",
       "pain": "A heavy rigged FX3 needs a head that counterbalances it, or tilts feel unsafe and jerky",
       "details": "r/FX3 replies warn that a fluid head only feels fluid when it counterbalances the rig weight.",
-      "sources": ["https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/"],
-      "quotes": [{ "text": "for it to be truly fluid and actually enjoyable to operate it needs to properly counterbalance your rig", "url": "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/" }]
+      "sources": [
+        "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/"
+      ],
+      "quotes": [
+        {
+          "text": "for it to be truly fluid and actually enjoyable to operate it needs to properly counterbalance your rig",
+          "url": "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/"
+        }
+      ]
     },
     {
       "id": "video-tripods-youtube-jittery-pans",
       "pain": "Pans look jittery even on a fluid head",
       "details": "Fixes from r/videography: level the pan axis and soften the hand on the pan bar.",
-      "sources": ["https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/"],
-      "quotes": [{ "text": "For video, you really want the pan axis of your head be level with the ground.", "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/" }]
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/"
+      ],
+      "quotes": [
+        {
+          "text": "For video, you really want the pan axis of your head be level with the ground.",
+          "url": "https://www.reddit.com/r/videography/comments/16uk71f/good_fluid_head_tripod_that_wont_break_the_bank/"
+        }
+      ]
     },
     {
       "id": "fx3-sachtler-ace-legs-separate",
       "pain": "Sachtler Ace leg segments can separate in the field",
       "details": "A Sony Rumors forum owner praises the Ace head but reports the press-fit leg segments coming apart.",
-      "sources": ["https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"],
-      "quotes": [{ "text": "the leg segments' press-fit design is problematic", "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/" }]
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+      ],
+      "quotes": [
+        {
+          "text": "the leg segments' press-fit design is problematic",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+        }
+      ]
     }
   ],
   "stats": [
-    { "number": "1.015 kg", "claim": "FX3 weight with XLR handle, battery pack and SD card", "url": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications", "quote": "2 lb 3.8 oz (1.015 kg) (with XLR Handle, battery pack, SD card)" },
-    { "number": "715 g", "claim": "FX3 main unit with battery and memory card", "url": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications", "quote": "1 lb 9.3 oz (715 g) (with battery and memory card included)" },
-    { "number": "695 g", "claim": "Sony FE 24-70mm F2.8 GM II weight", "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications", "quote": "Weight 24.6 oz (695 g)" },
-    { "number": "5.5 mm", "claim": "maximum tripod screw length for the FX3", "url": "https://helpguide.sony.net/ilc/2210/v1/en/contents/TP1000886849.html", "quote": "Use a tripod with a screw less than 5.5 mm (7/32 inches) long." },
-    { "number": "4 kg", "claim": "Sachtler Ace M payload with five counterbalance steps", "url": "https://www.sachtler.com/en/product/system-ace-m-ms-mk-ii/", "quote": "Ace M supports camera rigs weighing up to 4kg (8.8lbs), with five steps of balance" }
+    {
+      "number": "1.015 kg",
+      "claim": "FX3 weight with XLR handle, battery pack and SD card",
+      "url": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
+      "quote": "2 lb 3.8 oz (1.015 kg) (with XLR Handle, battery pack, SD card)"
+    },
+    {
+      "number": "715 g",
+      "claim": "FX3 main unit with battery and memory card",
+      "url": "https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
+      "quote": "1 lb 9.3 oz (715 g) (with battery and memory card included)"
+    },
+    {
+      "number": "695 g",
+      "claim": "Sony FE 24-70mm F2.8 GM II weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+      "quote": "Weight 24.6 oz (695 g)"
+    },
+    {
+      "number": "5.5 mm",
+      "claim": "maximum tripod screw length for the FX3",
+      "url": "https://helpguide.sony.net/ilc/2210/v1/en/contents/TP1000886849.html",
+      "quote": "Use a tripod with a screw less than 5.5 mm (7/32 inches) long."
+    },
+    {
+      "number": "4 kg",
+      "claim": "Sachtler Ace M payload with five counterbalance steps",
+      "url": "https://www.sachtler.com/en/product/system-ace-m-ms-mk-ii/",
+      "quote": "Ace M supports camera rigs weighing up to 4kg (8.8lbs), with five steps of balance"
+    }
   ],
   "videos": [
-    { "id": "x4jVWrz0K7M", "title": "How to counterbalance your Sachtler fluid head", "channel": "Sachtler", "url": "https://www.youtube.com/watch?v=x4jVWrz0K7M", "section": "How to balance a Sony FX3 on a fluid head tripod" }
+    {
+      "id": "x4jVWrz0K7M",
+      "title": "How to counterbalance your Sachtler fluid head",
+      "channel": "Sachtler",
+      "url": "https://www.youtube.com/watch?v=x4jVWrz0K7M",
+      "section": "How to balance a Sony FX3 on a fluid head tripod"
+    }
   ],
   "outline": [
-    { "h2": "Sony FX3 tripod payload math: your rig vs each rating", "intent": "comparison table and load-share calculation", "h3": [] },
-    { "h2": "How I picked these Sony FX3 tripods", "intent": "selection rule and evidence", "h3": [] },
-    { "h2": "The 5 best tripods for the Sony FX3, reviewed", "intent": "product reviews", "h3": ["Manfrotto Befree Live", "SmallRig AD-01", "NEEWER TP74", "Sachtler System Ace M MS Mk II", "Peak Design Travel Tripod (Carbon Fiber)"] },
-    { "h2": "Which tripod should you get for your Sony FX3?", "intent": "chooser", "h3": [] },
-    { "h2": "How to balance a Sony FX3 on a fluid head tripod", "intent": "how-to steps", "h3": [] },
-    { "h2": "Sony FX3 tripod problems owners run into, and the fix", "intent": "pain points", "h3": [] }
+    {
+      "h2": "Sony FX3 tripod payload math: your rig vs each rating",
+      "intent": "comparison table and load-share calculation",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Sony FX3 tripods",
+      "intent": "selection rule and evidence",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Sony FX3, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "Manfrotto Befree Live",
+        "SmallRig AD-01",
+        "NEEWER TP74",
+        "Sachtler System Ace M MS Mk II",
+        "Peak Design Travel Tripod (Carbon Fiber)"
+      ]
+    },
+    {
+      "h2": "Which tripod should you get for your Sony FX3?",
+      "intent": "chooser",
+      "h3": []
+    },
+    {
+      "h2": "How to balance a Sony FX3 on a fluid head tripod",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "Sony FX3 tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
   ],
   "targetWords": 1650,
   "serpStructure": {
@@ -199,37 +397,127 @@
     "productStyleReason": "The FX3 pages describe each tripod in a paragraph with key specs; pros/cons lists on cameraegg are generic boilerplate.",
     "avgWords": 1500,
     "avgProducts": 5,
-    "commonSections": ["picks", "comparison table", "buying guide (payload, fluid head, material, height)", "FAQ", "verdict"],
+    "commonSections": [
+      "picks",
+      "comparison table",
+      "buying guide (payload, fluid head, material, height)",
+      "FAQ",
+      "verdict"
+    ],
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    { "position": 1, "url": "https://www.reddit.com/r/FX3/comments/17wk7c8/which_tripods_are_you_all_using/", "title": "Which tripods are you all using? : r/FX3 - Reddit" },
-    { "position": 2, "url": "https://www.facebook.com/groups/fx3andfx30owners/posts/1584153512995165/", "title": "Tripod recommendations for Sony FX3 camera? - Facebook" },
-    { "position": 3, "url": "https://www.youtube.com/watch?v=3cc0yzDX2lo", "title": "Best Tripod For The Sony FX3/FX30/A7iv? - YouTube" },
-    { "position": 4, "url": "https://www.youtube.com/watch?v=opIQNwZGL2M", "title": "An Actual Travel Tripod For Cinema Cameras? - YouTube" },
-    { "position": 5, "url": "https://www.instagram.com/reel/DO6KnQwjVsM/?hl=en", "title": "Unleash the full potential of your Sony FX3 & FX30 with the perfect pairing" },
-    { "position": 6, "url": "https://www.digitalcameraworld.com/buying-guides/best-video-tripod", "title": "Best video tripods: camera supports for shooting movies smoothly" },
-    { "position": 7, "url": "https://www.amazon.com/Navitech-Lightweight-Aluminium-Compatible-Full-Frame/dp/B0D88FSDBP", "title": "Navitech Lightweight Aluminium Tripod Compatible with Sony Alpha ..." },
-    { "position": 8, "url": "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "title": "Best Tripods for Sony FX3 – Camera Review" },
-    { "position": 9, "url": "https://www.youtube.com/watch?v=MD2owJWqTQc", "title": "My Favorite Sony FX3/FX30 Accessories (Essential ... - YouTube" },
-    { "position": 10, "url": "https://shop.tiktok.com/us/k/best-tripod-for-sony-fx3", "title": "Results for \"best tripod for sony fx3\" - TikTok Shop" }
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/FX3/comments/17wk7c8/which_tripods_are_you_all_using/",
+      "title": "Which tripods are you all using? : r/FX3 - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://www.facebook.com/groups/fx3andfx30owners/posts/1584153512995165/",
+      "title": "Tripod recommendations for Sony FX3 camera? - Facebook"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=3cc0yzDX2lo",
+      "title": "Best Tripod For The Sony FX3/FX30/A7iv? - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=opIQNwZGL2M",
+      "title": "An Actual Travel Tripod For Cinema Cameras? - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.instagram.com/reel/DO6KnQwjVsM/?hl=en",
+      "title": "Unleash the full potential of your Sony FX3 & FX30 with the perfect pairing"
+    },
+    {
+      "position": 6,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+      "title": "Best video tripods: camera supports for shooting movies smoothly"
+    },
+    {
+      "position": 7,
+      "url": "https://www.amazon.com/Navitech-Lightweight-Aluminium-Compatible-Full-Frame/dp/B0D88FSDBP",
+      "title": "Navitech Lightweight Aluminium Tripod Compatible with Sony Alpha ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+      "title": "Best Tripods for Sony FX3 – Camera Review"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=MD2owJWqTQc",
+      "title": "My Favorite Sony FX3/FX30 Accessories (Essential ... - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://shop.tiktok.com/us/k/best-tripod-for-sony-fx3",
+      "title": "Results for \"best tripod for sony fx3\" - TikTok Shop"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 1,
     "withYear": 0,
     "withNumber": 0,
-    "commonModifiers": ["FX3/FX30", "travel tripod", "cinema cameras", "recommendations"],
+    "commonModifiers": [
+      "FX3/FX30",
+      "travel tripod",
+      "cinema cameras",
+      "recommendations"
+    ],
     "gap": "No result matches picks to the weight of the FX3 rig (handle kit vs caged rig with monitor)"
   },
   "serpProducts": [
-    { "name": "Manfrotto Befree Live", "pages": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/", "https://thepostflow.com/production/accessories/best-tripod-for-video/"] },
-    { "name": "SmallRig AD-01", "pages": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/", "https://www.reddit.com/r/FX3/comments/1lvx6ky/entry_level_tripod_recommendation/", "https://www.facebook.com/groups/fx3andfx30owners/posts/1678606606883188/"] },
-    { "name": "Peak Design Travel Tripod (Carbon Fiber)", "pages": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"] },
-    { "name": "Sachtler System Ace M MS Mk II", "pages": ["https://thepostflow.com/production/accessories/best-tripod-for-video/", "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/", "https://www.reddit.com/r/FX3/comments/17wk7c8/which_tripods_are_you_all_using/"] },
-    { "name": "NEEWER TP74", "pages": ["https://thepostflow.com/production/accessories/best-tripod-for-video/", "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/"] },
-    { "name": "Benro KH25P", "pages": ["https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/"] }
+    {
+      "name": "Manfrotto Befree Live",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/",
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+      ]
+    },
+    {
+      "name": "SmallRig AD-01",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/",
+        "https://www.reddit.com/r/FX3/comments/1lvx6ky/entry_level_tripod_recommendation/",
+        "https://www.facebook.com/groups/fx3andfx30owners/posts/1678606606883188/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx3/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/"
+      ]
+    },
+    {
+      "name": "Sachtler System Ace M MS Mk II",
+      "pages": [
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-tripod-for-sony-fx30/",
+        "https://www.reddit.com/r/FX3/comments/17wk7c8/which_tripods_are_you_all_using/"
+      ]
+    },
+    {
+      "name": "NEEWER TP74",
+      "pages": [
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+        "https://www.reddit.com/r/FX3/comments/1tfbgdd/tripod_recs/"
+      ]
+    },
+    {
+      "name": "Benro KH25P",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-sony-fx30/"
+      ]
+    }
   ],
   "internalLinks": [
     "video-tripod-bowl-size-explained-75mm-vs-100mm",
@@ -242,13 +530,18 @@
     {
       "slug": "best-tripod-for-filming-sports",
       "find": "Sachtler lists five counterbalance steps, 3 drag steps, a 75mm bowl and a mid-level spreader, with a height of 30.71 to 66.54 in and 9.7 lb in all.",
-      "replace": "Sachtler lists five counterbalance steps, 3 drag steps, a 75mm bowl and a mid-level spreader, with a height of 30.71 to 66.54 in and 9.7 lb in all; it is also my pan pick among [tripods for the Sony FX3](/blog/best-tripod-for-sony-fx3/)."
+      "replace": "Sachtler lists five counterbalance steps, 3 drag steps, a 75mm bowl and a mid-level spreader, with a height of 30.71 to 66.54 in and 9.7 lb in all; it is also my pan pick among [tripods for the Sony FX3](/blog/best-tripod-for-sony-fx3/).",
+      "appliedAt": "2026-11-01T17:45:40.676Z"
     },
     {
       "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
       "find": "In the same thread, a tester says twin-tube 75mm legs \"will trounce\" single-tube 100mm ones, build quality being equal.",
-      "replace": "In the same thread, a tester says twin-tube 75mm legs \"will trounce\" single-tube 100mm ones, build quality being equal (three of our [Sony FX3 tripod picks](/blog/best-tripod-for-sony-fx3/) use a 75mm bowl)."
+      "replace": "In the same thread, a tester says twin-tube 75mm legs \"will trounce\" single-tube 100mm ones, build quality being equal (three of our [Sony FX3 tripod picks](/blog/best-tripod-for-sony-fx3/) use a 75mm bowl).",
+      "appliedAt": "2026-11-01T17:45:41.645Z"
     }
   ],
-  "textrazor": { "file": "data/briefs/best-tripod-for-sony-fx3.entities.json", "note": "4 of 5 pages analyzed; thepostflow.com returned 403 to the TextRazor fetch" }
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-sony-fx3.entities.json",
+    "note": "4 of 5 pages analyzed; thepostflow.com returned 403 to the TextRazor fetch"
+  }
 }

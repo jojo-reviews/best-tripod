@@ -297,7 +297,7 @@ Leveling is the real day-to-day difference between the two types. One DPReview o
 
 ## When a Rigid Mini Tripod Wins
 
-**A rigid mini tripod wins when you film from flat surfaces and want a level shot in two seconds.** The legs open to one fixed angle, so there is nothing to bend and nothing to sag.
+**A rigid mini tripod wins when you film from flat surfaces and want a level shot in two seconds.** The legs of a [rigid tabletop camera tripod](/blog/best-tabletop-camera-tripod/) open to one fixed angle, so there is nothing to bend and nothing to sag.
 
 ### Flat surfaces and quick talking shots
 

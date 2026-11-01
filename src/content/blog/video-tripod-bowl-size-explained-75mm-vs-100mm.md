@@ -177,7 +177,7 @@ Older sticks confuse people. A Cinematography.com thread answers: "It's the diam
 
 The maker specs hold our surprise: the [flowtech 75 weighs 3.5 kg and holds 20 kg](https://www.sachtler.com/en/product/tripod-flowtech-75-aktiv-ms/), the [flowtech 100 weighs 4.1 kg and holds 30 kg](https://www.sachtler.com/en/product/tripod-flowtech-100-ms/). Without spreaders the legs differ by 0.2 kg and pack to the same 68 cm, so the extra weight sits mostly in the larger head.
 
-Leg design matters as much. In the same thread, a tester says twin-tube 75mm legs "will trounce" single-tube 100mm ones, build quality being equal. CVP's video below shows why you might move to 100mm.
+Leg design matters as much. In the same thread, a tester says twin-tube 75mm legs "will trounce" single-tube 100mm ones, build quality being equal (three of our [Sony FX3 tripod picks](/blog/best-tripod-for-sony-fx3/) use a 75mm bowl). CVP's video below shows why you might move to 100mm.
 
 ## Bowl adapters only work one way
 

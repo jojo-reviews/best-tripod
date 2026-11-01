@@ -383,7 +383,7 @@ The owner evidence is thin: 2 owner sources for the PIXI Mini, 2 for the Ulanzi 
 
 The Ulanzi MT-16 Extendable Tripod is a telescopic mini tripod from Ulanzi, and it is the most practical of the three for a home office because it is the only one that changes height. A telescopic arm with four height steps takes it from about 22 cm to about 44 cm, and it weighs just 170 g. On top sits a lockable 360-degree metal ball head with a cold shoe, so a small microphone or light can ride along. It packs to about 22 cm.
 
-The B&H owners I read say it feels well made rather than cheap and that the extending pole is stiffer than they expected. The complaints are about load and flexibility: one review limits vertical mode to 500 g against the 1.5 kg listing figure, and the head cannot be removed. It is also less steady on uneven surfaces or fully extended, so we would run a webcam or phone near the top and keep heavier cameras off it.
+The B&H owners I read say it feels well made rather than cheap and that the extending pole is stiffer than they expected. The complaints are about load and flexibility: one review limits vertical mode to 500 g against the 1.5 kg listing figure, and the head cannot be removed. It is also less steady on uneven surfaces or fully extended, so we would run a webcam or phone near the top and keep heavier cameras off it; our [live streaming tripod picks](/blog/best-tripod-for-live-streaming/) cover taller stands.
 
 ### SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664): best for a mirrorless camera on the desk
 
@@ -393,7 +393,7 @@ What owners praise is rigidity. That same self-reported owner write-up describes
 
 ### Manfrotto PIXI Mini Tripod (MTPIXI-B): best simple desk stand
 
-The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height mini tripod from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating. Its legs fold into a grip, so it doubles as a handle and packs to about 18.5 cm. Weight sits somewhere between 170 g and 190 g depending on the listing. It mounts with a 1/4 in screw and has no phone clamp, so smartphone users need to buy one separately.
+The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height [tabletop camera tripod](/blog/best-tabletop-camera-tripod/) from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating. Its legs fold into a grip, so it doubles as a handle and packs to about 18.5 cm. Weight sits somewhere between 170 g and 190 g depending on the listing. It mounts with a 1/4 in screw and has no phone clamp, so smartphone users need to buy one separately.
 
 The reviews differ on video. Digital Camera World leads its mini tripod guide with the PIXI and calls it a solid, pocket-sized support for cameras and phones, while its fixed legs and push-button ball head suit a desk stand better than handheld filming. Owner reviews on Thomann and a summary of Amazon feedback both praise how solid it feels. They also both complain that the fixed 13.5 cm height keeps the lens low and that the stiff head tilts up only about 35 degrees.
 

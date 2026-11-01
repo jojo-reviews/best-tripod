@@ -535,7 +535,7 @@ What owners report is mixed, and I would weigh it. One r/Hunting owner says stan
 
 My pick for the long walk in: Vortex rates the Summit Carbon II for 22 lb at just [2.5 pounds](https://vortexoptics.com/blog/how-to-choose-a-tripod-for-hunting-and-shooting.html), folded to 18.1 in. Four carbon sections, quarter-turn locks, three leg angles, a detachable center column, a counterweight hook and an Arca-Swiss 2-way pan head make it a glassing tripod first; Vortex lists its uses as lightweight hunting and seated glassing.
 
-Owners agree on the weight, which is what matters on a backcountry hunt, and on the steadiness. One elk hunter says it held a full-size spotting scope fully extended; another found the lowest leg section loosened easily, and a third noted it is shorter than the Ridgeview but has a smaller footprint. At 53.3 in it suits sitting on a hillside, not standing over sage. For a light rifle with an Arca rail, I would shoot off it seated only.
+Owners agree on the weight, which is what matters on a [backcountry hunt](/blog/best-tripod-for-backcountry-hunting/), and on the steadiness. One elk hunter says it held a full-size spotting scope fully extended; another found the lowest leg section loosened easily, and a third noted it is shorter than the Ridgeview but has a smaller footprint. At 53.3 in it suits sitting on a hillside, not standing over sage. For a light rifle with an Arca rail, I would shoot off it seated only.
 
 ### BOG DeathGrip Hunting Tripod: hands-free clamp for blinds and stands
 

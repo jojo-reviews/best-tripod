@@ -583,12 +583,14 @@
     {
       "slug": "best-mini-tripod-for-desk-video-calls",
       "find": "The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height mini tripod from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating.",
-      "replace": "The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height [tabletop camera tripod](/blog/best-tabletop-camera-tripod/) from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating."
+      "replace": "The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height [tabletop camera tripod](/blog/best-tabletop-camera-tripod/) from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating.",
+      "appliedAt": "2026-11-01T17:45:42.637Z"
     },
     {
       "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
       "find": "The legs open to one fixed angle, so there is nothing to bend and nothing to sag.",
-      "replace": "The legs of a [rigid tabletop camera tripod](/blog/best-tabletop-camera-tripod/) open to one fixed angle, so there is nothing to bend and nothing to sag."
+      "replace": "The legs of a [rigid tabletop camera tripod](/blog/best-tabletop-camera-tripod/) open to one fixed angle, so there is nothing to bend and nothing to sag.",
+      "appliedAt": "2026-11-01T17:45:43.564Z"
     }
   ],
   "secondaryKeywords": [

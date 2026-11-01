@@ -169,7 +169,7 @@ Aluminum dents and usually keeps working. Carbon can crack when a leg hits rock 
 
 ### Mass vs damping
 
-Both claims are true for different problems. Mass resists the push of a gust, so a heavier aluminum tripod moves less in windy conditions. Damping decides how fast the legs stop ringing afterward, and carbon wins there. A light carbon tripod lacks only the weight, which is easy to add.
+Both claims are true for different problems. Mass resists the push of a gust, so a heavier aluminum tripod moves less in windy conditions. Damping decides how fast the legs stop ringing afterward, and carbon wins there. A light carbon tripod lacks only the weight, which is easy to add, a trick every [tripod for plein air painting](/blog/best-tripod-for-plein-air-painting/) relies on too.
 
 > **From our notes:** Outdoorsmans calls aluminum steadier in wind and K&F Concept calls carbon steadier, and neither says why. The Stack Exchange threads settled it for us: they describe legs pushed and buzzing in gusts, a mass problem, while the pro-carbon articles describe how fast vibration dies, a damping problem. A light carbon tripod with weight hung low solves both.
 

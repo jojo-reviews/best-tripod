@@ -458,7 +458,7 @@ The [SLIK Pro CF-733](amzn:SLIK+Pro+CF-733+Carbon+Fiber+Tripod) is a three-secti
 
 ### Vortex Summit Carbon II Tripod Kit: lightest for seated glassing
 
-The Vortex Summit Carbon II is a four-section carbon glassing tripod kit from Vortex Optics, and my pick when the tripod lives in your pack. It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits the backcountry. A goHUNT writer barely noticed it on his pack. The limit is height: at 53.3 in a Rokslide owner says it is not tall enough to use while standing, and he swapped the 2-way head. I'd use it sitting on a hillside, where glassing beats standing for steady views anyway.
+The Vortex Summit Carbon II is a four-section carbon glassing tripod kit from Vortex Optics, and my pick when the tripod lives in your pack. It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits [backcountry hunting](/blog/best-tripod-for-backcountry-hunting/). A goHUNT writer barely noticed it on his pack. The limit is height: at 53.3 in a Rokslide owner says it is not tall enough to use while standing, and he swapped the 2-way head. I'd use it sitting on a hillside, where glassing beats standing for steady views anyway.
 
 ### Vortex Ridgeview Carbon Tripod Kit: best for standing glassing
 

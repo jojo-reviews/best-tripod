@@ -1,24 +1,21 @@
 {
   "slug": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-10-30T18:05:16.347Z",
+  "checkedAt": "2026-11-01T17:45:42.615Z",
   "errors": [],
   "warnings": [
-    "only 15 first-person words; owner rule wants at least 20 (about 1 per 100 words: I, my, me, we, our, us)",
-    "body has 1970 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "only 16 first-person words; owner rule wants at least 20 (about 1 per 100 words: I, my, me, we, our, us)",
+    "body has 1979 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html",
-    "source didn't respond normally (403): https://www.fullcompass.com/prod/660129-smallrig-sr-but2664-smallrig-tabletop-mini-tripod-w-panoramic-ball-head",
-    "source didn't respond normally (403): https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-10-30: TextRazor on 3 top pages (Neewer, Carryology, DCW; Wirecutter/Reddit blocked); added Smartphone and tripod entities in true sentences, maker+type first sentences per product, new 'Which one should you get' block, one internal link, first-person scoreNotes; no specs, prices, ratings or ASINs changed; cut filler.",
-    "at": "2026-10-30T17:58:17.839Z",
-    "hash": "d11345cc4a605ad9"
+    "notes": "added one internal link to best-tabletop-camera-tripod, no claim changed",
+    "at": "2026-11-01T17:45:42.088Z",
+    "hash": "141132cfd786b2f3"
   }
 }

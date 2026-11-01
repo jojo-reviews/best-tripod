@@ -658,12 +658,14 @@
     {
       "slug": "best-tripod-for-hunting",
       "find": "Owners agree on the weight, which is what matters on a backcountry hunt, and on the steadiness.",
-      "replace": "Owners agree on the weight, which is what matters on a [backcountry hunt](/blog/best-tripod-for-backcountry-hunting/), and on the steadiness."
+      "replace": "Owners agree on the weight, which is what matters on a [backcountry hunt](/blog/best-tripod-for-backcountry-hunting/), and on the steadiness.",
+      "appliedAt": "2026-11-01T17:45:46.904Z"
     },
     {
       "slug": "best-tripod-for-binoculars",
       "find": "It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits the backcountry.",
-      "replace": "It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits [backcountry hunting](/blog/best-tripod-for-backcountry-hunting/)."
+      "replace": "It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits [backcountry hunting](/blog/best-tripod-for-backcountry-hunting/).",
+      "appliedAt": "2026-11-01T17:45:47.778Z"
     }
   ],
   "textrazor": {

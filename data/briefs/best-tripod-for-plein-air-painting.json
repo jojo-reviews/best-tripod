@@ -529,12 +529,14 @@
     {
       "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
       "find": "A light carbon tripod lacks only the weight, which is easy to add.",
-      "replace": "A light carbon tripod lacks only the weight, which is easy to add, a trick every [tripod for plein air painting](/blog/best-tripod-for-plein-air-painting/) relies on too."
+      "replace": "A light carbon tripod lacks only the weight, which is easy to add, a trick every [tripod for plein air painting](/blog/best-tripod-for-plein-air-painting/) relies on too.",
+      "appliedAt": "2026-11-01T17:45:44.464Z"
     },
     {
       "slug": "how-to-stop-tripod-shake-in-wind",
       "find": "Use your body, an umbrella or a rock.",
-      "replace": "Use your body, an umbrella or a rock, the same shields painters use around a [plein air painting tripod](/blog/best-tripod-for-plein-air-painting/)."
+      "replace": "Use your body, an umbrella or a rock, the same shields painters use around a [plein air painting tripod](/blog/best-tripod-for-plein-air-painting/).",
+      "appliedAt": "2026-11-01T17:45:45.416Z"
     }
   ],
   "secondaryKeywords": [

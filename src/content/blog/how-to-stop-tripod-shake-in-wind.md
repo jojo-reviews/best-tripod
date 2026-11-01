@@ -173,7 +173,7 @@ The center-column hook is the usual anchor, but light tripods may lack room; one
 
 ## Shield the tripod from wind and trim the sails
 
-**Tripod vibration drops when wind shielding stops gusts before they arrive.** Use your body, an umbrella or a rock. A lens hood or loose camera strap is a sail; remove it. The National Weather Service says umbrellas are hard to use in a [strong breeze of 25-31 mph](https://www.weather.gov/mfl/beaufort).
+**Tripod vibration drops when wind shielding stops gusts before they arrive.** Use your body, an umbrella or a rock, the same shields painters use around a [plein air painting tripod](/blog/best-tripod-for-plein-air-painting/). A lens hood or loose camera strap is a sail; remove it. The National Weather Service says umbrellas are hard to use in a [strong breeze of 25-31 mph](https://www.weather.gov/mfl/beaufort).
 
 ## Remove the camera shake you cause on a tripod
 
