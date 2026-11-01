@@ -2473,32 +2473,38 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
-      "tripod for canon r50 vlogging",
-      "lightweight tripod for canon r50",
-      "canon r50 travel tripod",
-      "best tripod for canon eos r50"
+      "tripod for canon eos r50",
+      "canon r50 tripod",
+      "best travel tripod for canon r50"
     ],
-    "questions": [
-      "what tripod fits the canon r50",
-      "is the canon r50 too light for a cheap tripod"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 1020,
     "keyword": "best tripod for canon r50",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
-    "workingTitle": "Best Tripod for Canon R50: What Holds It Steady",
-    "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, two Facebook groups, canonrumors forum x2, packapop, SmallRig and Filmtools product pages, Amazon, Best Buy. Forums and a thin blog dominate; winnable.",
+    "workingTitle": "Best Tripod For Canon R50",
+    "cluster": "camera models",
+    "source": "low-kd-research 2026-11-01",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): reddit r/canon, 2x canonrumors forum threads, Facebook group, Amazon search page, Filmtools/SmallRig product kits, 2x YouTube, Best Buy search; 0 big review sites.",
     "slug": "best-tripod-for-canon-r50",
-    "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Revived 2026-11-01 by low-kd research (was replaced in the 2026-10-22 owner queue swap, never cannibalizing).",
+    "ahrefs": {
+      "volume": 10,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": null,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-01",
+      "note": "Ahrefs returned no KD for this phrase"
+    },
+    "revivedAt": "2026-11-01T11:53:16.231Z",
+    "researchSource": "low-kd-research 2026-11-01"
   },
   {
     "status": "published",
@@ -2771,31 +2777,34 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
-      "tripod for canon r8",
-      "travel tripod for canon r8",
-      "canon r8 tripod for 200-800"
+      "tripod for canon eos r8",
+      "canon r8 tripod",
+      "best travel tripod for canon r8"
     ],
-    "questions": [
-      "what tripod do you need for the canon r8",
-      "does the canon r8 need a sturdier tripod because it has no ibis"
-    ],
-    "priority": 600,
+    "questions": [],
+    "priority": 1014,
     "keyword": "best tripod for canon r8",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
-    "workingTitle": "Best Tripod for Canon R8: What Holds It Steady",
-    "cluster": "camera-specific tripods",
+    "workingTitle": "Best Tripod For Canon R8",
+    "cluster": "camera models",
     "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/canon #1, Facebook x2, canonrumors forum x2, Amazon, promediagear, cameradecision, YouTube, DPReview forum. Forums only; easy win. R8 has no IBIS so tripod stability angle.",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/canon, Facebook group, 2x canonrumors forum, Best Buy search, Amazon page, ProMediaGear brand blog, Camera Decision, DPReview forum, YouTube; 0 big review sites.",
     "slug": "best-tripod-for-canon-r8",
-    "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Revived 2026-11-01 by low-kd research (was replaced in the 2026-10-22 owner queue swap, never cannibalizing).",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "revivedAt": "2026-11-01T11:53:16.231Z"
   },
   {
     "status": "replaced",
@@ -7534,5 +7543,375 @@
     "slug": "l-bracket-for-landscape-photography",
     "startedAt": "2026-10-30T02:01:26.577Z",
     "publishedAt": "2026-10-30T02:08:31.718Z"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.929Z",
+    "secondaryKeywords": [
+      "best tripod for aurora photography",
+      "tripod for northern lights photography",
+      "best iphone tripod for northern lights",
+      "tripod for photographing aurora in cold weather"
+    ],
+    "questions": [],
+    "priority": 1019,
+    "keyword": "best tripod for northern lights",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "night sky",
+    "workingTitle": "Best Tripod For Northern Lights",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/photography, Facebook (Visit Lapland group), Bogleheads forum, YouTube, Instagram, 4 small photographer blogs (kevinpepper, davemorrow, theauroraguy, adventuresoflilnicki), 1 tour operator; 0 big review sites. Seasonal: aurora season Nov-Mar.",
+    "source": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "volume": 0,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": null,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-01",
+      "note": "Ahrefs volume 0 (phrase in database, no KD); SERP full of forum questions = real but unmeasured demand"
+    },
+    "slug": "best-tripod-for-northern-lights"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best phone tripod for golf swing",
+      "golf tripod for phone",
+      "tripod to record golf swing",
+      "best golf swing camera stand"
+    ],
+    "questions": [],
+    "priority": 1017,
+    "keyword": "best tripod for golf swing recording",
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "golf",
+    "workingTitle": "Best Tripod For Golf Swing Recording",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/golf, GPOD brand shop, Amazon page, MyGolfSpy forum, GOLFTEC shop, Hackers Paradise forum, GolfWRX forum, Carl's Place shop, V1 Sports blog, YouTube; 0 big review sites. Ahrefs: notInDatabase in the 2026-11-01 overview call.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-golf-swing-recording"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "tripod for canon r6 mark ii",
+      "canon r6 ii tripod",
+      "best travel tripod for canon r6 mark ii"
+    ],
+    "questions": [],
+    "priority": 1015,
+    "keyword": "best tripod for canon r6 mark ii",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "camera models",
+    "workingTitle": "Best Tripod For Canon R6 Mark Ii",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Facebook group, canonrumors forum, Reddit r/canon, Packapop thin blog, Manfrotto brand story, YouTube x2, K&F brand page, DPReview forum, lens-rumors thin page; 0 big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-canon-r6-mark-ii"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "tripod for nikon zf",
+      "nikon zf travel tripod",
+      "nikon zf mini tripod"
+    ],
+    "questions": [],
+    "priority": 1013,
+    "keyword": "best tripod for nikon zf",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "camera models",
+    "workingTitle": "Best Tripod For Nikon Zf",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/NikonZf, 3 small photographer blogs, DPReview forum, Facebook group, Nikon shop, FredMiranda forum, Cameraegg forum, YouTube; 0 big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-nikon-zf"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "tripod for sony a7r v",
+      "sony a7rv tripod",
+      "best travel tripod for sony a7r v"
+    ],
+    "questions": [],
+    "priority": 1012,
+    "keyword": "best tripod for sony a7r v",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "camera models",
+    "workingTitle": "Best Tripod For Sony A7r V",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/SonyAlpha, Cameraegg forum, Sony Alpha forum, ProMediaGear brand blog, Packapop thin blog, sony-rumors forum, Facebook, B&H category, Photography Panel forum; only Wirecutter (generic, off-intent) as a big review site.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-sony-a7r-v"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best tripod for ricoh gr iiix",
+      "best tripod for ricoh gr iv",
+      "mini tripod for ricoh gr iii"
+    ],
+    "questions": [],
+    "priority": 1010,
+    "keyword": "best tripod for ricoh gr iii",
+    "category": "tabletop-mini-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "camera models",
+    "workingTitle": "Best Tripod For Ricoh Gr Iii",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/ricohGR, FredMiranda forum, Facebook group, B&H accessory page, DPReview forum, accio.com thin page, Ricoh EU shop blog, PentaxForums, Amazon AU listing, YouTube; 0 big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-ricoh-gr-iii"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "tripod for canon powershot v1",
+      "canon v1 vlogging tripod",
+      "canon powershot v1 mini tripod"
+    ],
+    "questions": [],
+    "priority": 1009,
+    "keyword": "best tripod for canon powershot v1",
+    "category": "tabletop-mini-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "camera models",
+    "workingTitle": "Best Tripod For Canon Powershot V1",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Reddit r/canon, 3x YouTube, Amazon search, Cameraegg thin page, Canon shop, Best Buy search, Tristate Camera listing, canoncamerageek thin page; 0 big review sites. Camera launched 2025.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-canon-powershot-v1"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best tripod for family photos with timer",
+      "tripod for taking family pictures",
+      "best tripod with remote for family photos"
+    ],
+    "questions": [],
+    "priority": 1007,
+    "keyword": "best tripod for family photos",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "family",
+    "workingTitle": "Best Tripod For Family Photos",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): 2x Facebook groups, Reddit r/photography, RealHomes article, Instagram, Suzy Collins blog, K&F brand page, YouTube; TechGearLab and Wirecutter only as generic off-intent pages. Seasonal: holiday family photos.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-family-photos"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best tripod for portrait photography",
+      "tripod for headshot photography",
+      "best tripod head for headshots"
+    ],
+    "questions": [],
+    "priority": 1005,
+    "keyword": "best tripod for headshots",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "portrait",
+    "workingTitle": "Best Tripod For Headshots",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): YouTube, Reddit r/AskPhotography, Matt Purciel blog, Improve Photography, 1kcreatives, B&H category, School of Photography, Headshot Crew article, Facebook group; Digital Camera World only as a generic page.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-headshots"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "tripod dolly with wheels",
+      "best tripod wheels",
+      "camera tripod dolly for video"
+    ],
+    "questions": [],
+    "priority": 1003,
+    "keyword": "best tripod dolly",
+    "category": "tripod-accessories",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "accessories",
+    "workingTitle": "Best Tripod Dolly",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Amazon search, ProAm shop, YouTube x2, Reddit r/Filmmakers, B&H category, Proaim shop, Cloudy Nights forum, Chicago Tribune (2021, stale), Ezvid Wiki; 0 current big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-dolly"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best phone tripod for recording guitar",
+      "tripod for recording guitar playing",
+      "best tripod for music videos"
+    ],
+    "questions": [],
+    "priority": 1002,
+    "keyword": "best tripod for guitar videos",
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "music",
+    "workingTitle": "Best Tripod For Guitar Videos",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): 2x YouTube, Reddit r/recording, 3x Facebook posts, Virtual Guitar Orchestra page, guitarmasterclass forum, Richter Guitar shop, Instagram; 0 big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-guitar-videos"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:52:28.930Z",
+    "secondaryKeywords": [
+      "best tripod for recording concerts",
+      "tripod for filming stage performances",
+      "best tripod for recording dance recitals"
+    ],
+    "questions": [],
+    "priority": 1001,
+    "keyword": "best tripod for recording school plays",
+    "category": "video-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "events",
+    "workingTitle": "Best Tripod For Recording School Plays",
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): Instructables, Facebook group, Reddit r/videography, YouTube x2, Quora, comedymemphis thin list, pixls forum, Creative Cow forum, edthena blog; 0 big review sites.",
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "slug": "best-tripod-for-recording-school-plays"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-01T11:53:16.231Z",
+    "keyword": "best tripod for timelapse",
+    "slug": "best-tripod-for-timelapse",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "cluster": "timelapse",
+    "priority": 1000,
+    "workingTitle": "Best Tripod For Timelapse",
+    "secondaryKeywords": [
+      "best tripod for time lapse photography",
+      "best phone tripod for timelapse",
+      "sturdy tripod for long timelapse",
+      "best gopro tripod for timelapse"
+    ],
+    "questions": [],
+    "source": "no-ahrefs",
+    "researchSource": "low-kd-research 2026-11-01",
+    "ahrefs": {
+      "notInDatabase": true,
+      "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
+      "date": "2026-11-01"
+    },
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): learntimelapse niche blog, Reddit r/videography, Best Buy search, YouTube, Medium, Facebook group, B&H category, Amazon search; Wirecutter and TechGearLab only as generic best-tripod pages (2 big sites, off-intent)."
   }
 ]
