@@ -11,17 +11,20 @@
     {
       "name": "twist lock",
       "type": "component",
-      "relation": "threaded collar that squeezes a collet against the inner leg tube; slim, quiet, can trap grit in the threads"
+      "relation": "threaded collar that squeezes a collet against the inner leg tube; slim, quiet, can trap grit in the threads",
+      "salience": 0.71
     },
     {
       "name": "flip lock",
       "type": "component",
-      "relation": "external cam lever (also lever lock, clip lock); fast to read at a glance, adjustable tension, can pinch and snap loudly"
+      "relation": "external cam lever (also lever lock, clip lock); fast to read at a glance, adjustable tension, can pinch and snap loudly",
+      "salience": 0.71
     },
     {
       "name": "lever lock",
       "type": "synonym",
-      "relation": "another name for the flip lock"
+      "relation": "another name for the flip lock",
+      "salience": 0.93
     },
     {
       "name": "collet",
@@ -41,7 +44,8 @@
     {
       "name": "leg tube",
       "type": "part",
-      "relation": "gripping surface both locks press on; must stay clean and free of oil"
+      "relation": "gripping surface both locks press on; must stay clean and free of oil",
+      "salience": 0.82
     },
     {
       "name": "sand",
@@ -61,7 +65,38 @@
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "leg material, separate choice from the lock type"
+      "relation": "leg material, separate choice from the lock type",
+      "salience": 0.22
+    },
+    {
+      "name": "tripod leg",
+      "type": "part",
+      "relation": "what both locks clamp; TextRazor 'Leg' on 4/4 top pages",
+      "salience": 0.82
+    },
+    {
+      "name": "tripod",
+      "type": "product",
+      "relation": "central product; 'Tripod (photography)' on 4/4 top pages",
+      "salience": 0.91
+    },
+    {
+      "name": "leg lock",
+      "type": "component",
+      "relation": "umbrella term for twist and flip locks",
+      "salience": 0.71
+    },
+    {
+      "name": "lever",
+      "type": "part",
+      "relation": "the flip lock's external clamp",
+      "salience": 0.93
+    },
+    {
+      "name": "friction",
+      "type": "concept",
+      "relation": "both locks hold the tube by friction; oil or grit lowers it",
+      "salience": 0.49
     }
   ],
   "attributes": [
@@ -88,7 +123,9 @@
     "all at once",
     "leg tube",
     "tension screw",
-    "synthetic grease"
+    "synthetic grease",
+    "fine-tune heights",
+    "by friction"
   ],
   "skipgrams": [
     "twist…grit",
@@ -117,7 +154,9 @@
     "grease",
     "hex key",
     "wear",
-    "clean"
+    "clean",
+    "friction",
+    "leg"
   ],
   "questions": [
     "Are twist locks or flip locks more reliable?",
@@ -436,5 +475,19 @@
       "where": "maintenance (a slipping leg shows up as shake)"
     }
   ],
-  "linkPlanNote": "All targets are live before this post's pubDate (2026-10-21T05:21Z) and pass QA. best-tripod-for-photography is never linked."
+  "linkPlanNote": "All targets are live before this post's pubDate (2026-10-21T05:21Z) and pass QA. best-tripod-for-photography is never linked.",
+  "textrazor": {
+    "date": "2026-11-01",
+    "file": "data/briefs/twist-lock-vs-flip-lock-tripod-legs.entities.json",
+    "pages": [
+      "ulanzi.com",
+      "rokslide.com",
+      "vanguardworld.co.uk",
+      "kfconcept.com"
+    ],
+    "noise": [
+      "Lever tumbler lock",
+      "Lock and key (door-lock disambiguations of 'lever lock')"
+    ]
+  }
 }

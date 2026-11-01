@@ -65,7 +65,10 @@ sources:
   - title: a900 Shutter Causing Shake Even on Tripod? (DPReview Forums)
     url: >-
       https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/
-reviewedDate: '2026-10-20T00:00:00.000Z'
+  - title: Reducing camera shake on a tripod? (DPReview Forums, D750 thread)
+    url: >-
+      https://www.dpreview.com/forums/threads/reducing-camera-shake-on-a-tripod.4298254/
+reviewedDate: '2026-11-01T00:00:00.000Z'
 faqs:
   - q: Why does my camera shake on a tripod when I press the shutter?
     a: >-
@@ -106,7 +109,7 @@ illustrations:
     alt: >-
       A hand stepping back from a camera on a tripod after starting the
       self-timer at a misty lake
-    afterHeading: 3
+    afterHeading: 2
   - prompt: >-
       A wired remote shutter release hanging from a camera on a tripod, a hand
       holding the remote a step away, a waterfall blurred by a long exposure in
@@ -115,7 +118,7 @@ illustrations:
     alt: >-
       A remote shutter release held a step away from a camera on a tripod by a
       waterfall
-    afterHeading: 4
+    afterHeading: 3
   - prompt: >-
       A long telephoto lens mounted by its collar foot on a sturdy tripod with
       the center column fully lowered, set up in a meadow at sunrise for
@@ -124,7 +127,7 @@ illustrations:
     alt: >-
       A telephoto lens mounted by its collar on a tripod with the center column
       down
-    afterHeading: 8
+    afterHeading: 7
 author: editorial-team
 heroImage: /images/featured/tripod-shake-when-pressing-shutter.png
 heroAlt: >-
@@ -134,20 +137,9 @@ related:
   - can-you-use-any-tripod-for-a-camera
 ---
 
-Tripod shake when pressing shutter has two sources: your finger, and the camera's own mirror and shutter. We fix it by firing hands-free with the self-timer or a remote release, setting a delay long enough for the rig to settle, switching on exposure delay or electronic first-curtain shutter, and turning image stabilization off on the tripod.
+Tripod shake when pressing shutter comes from two places: your finger on the shutter button, and the camera's own mirror and shutter curtain. Shutter-press shake is a short burst of vibration that blurs the start of the exposure, so every fix lets it die before the shutter opens: fire hands-free with the self-timer or a remote release, set a delay longer than the settle time, switch on exposure delay or electronic first-curtain shutter, and turn image stabilization off on the tripod.
 
-## Tripod shake when pressing shutter – the short answer
-
-**Shutter-press shake is a short burst of vibration that blurs the start of the exposure, so the cure is to let it die before the shutter opens.** Here are the six fixes we use, in the order we reach for them:
-
-1. Self-timer, with a delay matched to settle time.
-2. Remote release (cable, wireless or phone app).
-3. Exposure delay, so a DSLR mirror settles first.
-4. Electronic first-curtain shutter (EFCS) against shutter shock.
-5. Image stabilization off on the tripod.
-6. Mirror lock-up on a DSLR.
-
-It is a recurring question on Photography Stack Exchange, and one answer sums up the cheap route: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." (thread). If your frames blur in gusts rather than at the press, that is a different problem, covered in our guide to [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).
+A Photography Stack Exchange answer sums up the cheap route: "If you don't have a remote release cable, then use the `exposure delay mode` (Nikon term) or the `self timer mode`." If your frames blur in gusts rather than at the press, that is a different problem, covered in our guide to [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).
 
 ## Match the shutter shake to its cause
 
@@ -163,9 +155,9 @@ This table pairs each cause of camera shake on a tripod with what it looks like 
 | Stabilization left on | Smear or drift in long exposures | IS and IBIS off |
 | Long lens, raised column, small head | Image still moving seconds after a touch | Longer delay, better support |
 
-The band of shutter speeds matters too. In a DPReview thread owners name different danger zones for mirror and shutter shake: about 1/4 to 1/30 second for one, from a fiftieth of a second to 2 seconds for another, and from 2 seconds to a five-hundredth at 200mm and longer for a third. A Sony A7R example in the Photography Life piece blurs from shutter shock [at 1/10 second](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod). Very long exposures dilute a brief jolt, and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first.
+Shutter speed decides whether the jolt shows. In an a900 DPReview thread, owners name danger zones from about 1/4 to 1/30 second, from a fiftieth of a second to 2 seconds, and from 2 seconds to a five-hundredth at 200mm and longer. A Sony A7R example in the Photography Life piece blurs from shutter shock [at 1/10 second](https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod). Very long exposures dilute a brief jolt and fast shutter speeds freeze it, so a slow shutter speed in that middle band is where we look first. In a DPReview D750 thread, a reply adds that once the vibration sources are controlled, shutter speed is not a significant factor for still subjects; until then, raising the ISO a stop buys a faster shutter speed out of the band.
 
-## Fix 1 – Use the self-timer, timed to settle
+## Fix 1 – A self-timer delay that outlasts the shutter shake
 
 **The self-timer removes the finger: you press, step back, and the exposure starts after the vibration has faded.** Digital Photography School says the finger tap becomes a risk on a tripod once you drop [below about 1/60 second](https://digital-photography-school.com/how-to-avoid-camera-shake/).
 
@@ -184,7 +176,7 @@ Photography Life recommends the same magnified view as a tripod check at 200mm a
 
 **A remote release fires the camera without touching it, so the finger shake never starts; it does nothing for a tripod that is too weak to settle.** DPS prefers a remote over the timer because it is quicker and lets you time the moment, such as a wave hitting the beach.
 
-Photography Life adds the caveats we agree with. Its author sees beginners buy a remote to fix blur that really comes from a flimsy tripod, head or plate. A cable is another thing dangling off the camera in wind, its connector pins can bend, and remotes get lost on trips. He now carries one mainly for exposures longer than 30 seconds in Bulb. In the Stack Exchange thread, one answer notes that modern cameras can often be controlled remotely from a phone, so check your camera's app before buying a cable or wireless trigger.
+Photography Life adds the caveats we agree with. Its author sees beginners buy a remote to fix blur that really comes from a flimsy tripod, head or plate. A cable is another thing dangling off the camera in wind, its connector pins can bend, and remotes get lost on trips. He now carries one mainly for exposures longer than 30 seconds in Bulb. In the Stack Exchange thread, one answer notes that modern cameras can often be controlled remotely from a phone, so we check the camera's app before buying a cable or wireless trigger.
 
 ## Fixes 3 and 4 – Exposure delay and EFCS stop shutter vibration
 
@@ -198,26 +190,26 @@ Shutter shock comes from the mechanical first curtain moving right before the ex
 - Sony: e-Front Curtain Shut.
 - Older Canon DSLRs: Silent LV shoot., Mode 1, in Live View.
 
-The full electronic shutter removes curtain movement entirely, which suits static scenes.
+We use the full electronic shutter, which removes curtain movement entirely, for static scenes.
 
 ## Fix 5 – Turn image stabilization off on the tripod
 
 **Image stabilization is built to correct a moving camera, and on a locked-down tripod it can add the movement you were trying to remove.** Canon's knowledge base says to set the lens STABILIZER switch to OFF for Bulb exposures because it "may introduce errors", and adds that on a tripod it may sometimes be better off ([Canon](https://support.usa.canon.com/kb/s/article/ART110191)). Photography Life tells readers to switch lens IS or VR off and turn IBIS off in the body menu (Sony calls it SteadyShot).
 
-This is the fix owners forget. In an RF Shooters thread, a shooter used a 10-second delay and electronic first curtain, yet 200mm frames smeared while 70mm frames were fine; his 70-200 had its stabilizer on. Replies pointed straight at it: "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image." Another owner with blurry long exposures on two bodies wrote: "Turning off IS solved the problem."
+This is the fix we see owners forget most. In an RF Shooters thread, a shooter used a 10-second delay and electronic first curtain, yet 200mm frames smeared while 70mm frames were fine; his 70-200 had its stabilizer on. Replies pointed straight at it: "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image." Another owner with blurry long exposures on two bodies wrote: "Turning off IS solved the problem."
 
-Check both switches. One R6 Mark II owner in that thread found the lens IS switch also turns off IBIS with his stabilized lenses, but with a lens that has no IS switch he must turn IBIS off in the menu. The exceptions are real: some Nikon super-telephoto VR is designed for tripod use, a boat is not a stable platform, and one Stack Exchange answer suggests trying OSS if vibration persists. Follow your lens manual.
+We check both switches. One R6 Mark II owner in that thread found the lens IS switch also turns off IBIS with his stabilized lenses, but with a lens that has no IS switch he must turn IBIS off in the menu. The exceptions are real: some Nikon super-telephoto VR is designed for tripod use, a boat is not a stable platform, and one Stack Exchange answer suggests trying OSS if vibration persists. We follow the lens manual on this.
 
-## Fix 6 – Mirror lock-up on a DSLR
+## Fix 6 – Mirror lock-up ends DSLR mirror shake
 
-**Mirror lock-up raises the mirror on the first press and starts the exposure on the second, so mirror slap has finished before the shutter opens.** Photography Life notes that most mirror-up modes don't work with the self-timer, which makes a remote release almost essential here. Some bodies bundle it: the DPReview thread describes the a900's 2-second timer raising the mirror, pausing, then exposing, alongside a dedicated mirror lock-up drive mode. Mirrorless cameras have no mirror, so for them Fix 4 replaces this one.
+**Mirror lock-up raises the mirror on the first press and starts the exposure on the second, so mirror slap has finished before the shutter opens.** Photography Life notes that most mirror-up modes don't work with the self-timer, which makes a remote release almost essential here. Some bodies bundle it: the DPReview thread describes the a900's 2-second timer raising the mirror, pausing, then exposing, alongside a dedicated mirror lock-up drive mode. On a mirrorless camera there is no mirror, so we use Fix 4 instead.
 
-> **From our notes:** When we lined up the threads for this guide, the RF Shooters case stood out. The shooter had done most things right: a 10-second shutter delay, electronic first curtain, a geared head, only an occasional breeze. The 70mm frame at 8 seconds was clean; the 200mm frame at 6 seconds was not. Replies pointed at the stabilizer, which was still on, and at the longer focal length magnifying any movement. That is why we put the cause table first: a longer delay cannot fix shake the camera keeps making during the exposure.
+> **From our notes:** The RF Shooters case of a 70-200 smearing at 200mm stood out. The shooter had done most things right: a 10-second shutter delay, electronic first curtain, a geared head, only an occasional breeze. The 70mm frame at 8 seconds was clean; the 200mm frame at 6 seconds was not. Replies pointed at the stabilizer, which was still on, and at the longer focal length magnifying any movement. That is why we put the cause table first: a longer delay cannot fix shake the camera keeps making during the exposure.
 
 ## When camera shake on a tripod is really the support
 
 **If the image keeps moving for seconds after a tap, the shutter press is only the trigger and the support is the problem.** The raised center column is a recurring complaint in r/AskPhotography: the column prolongs the vibration from tripping the shutter, and a DPReview reply says it contributes significantly to tripod sway. We keep the center column down and choose legs that reach eye-level height without the center column, as our [tripod height guide](/blog/how-tall-should-a-tripod-be-for-my-height/) explains.
 
-A light tripod under a heavy telephoto is the other trap. One Stack Exchange owner with a 200-600mm and a 2x converter wrote: "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm". The answers: keep the legs short, mount the lens collar foot on the tripod head rather than the camera body, and consider a gimbal head that balances the lens. For a body in portrait orientation, the DPReview thread recommends an L-plate that keeps the camera centered, which needs an [Arca-Swiss plate and clamp](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/).
+A light tripod under a heavy telephoto is the other trap. One Stack Exchange owner with a Sony 200-600mm telephoto lens and a 2x teleconverter wrote: "I think my tripod head (Manfrotto X-PRO 3-Way) is introducing a lot of shaking at 600mm". The answers, which we follow too: keep the legs short, mount the lens collar foot on the tripod head rather than the camera body, and consider a gimbal head that balances the lens. For a body in portrait orientation, the DPReview thread recommends an L-plate that keeps the camera centered, which needs an [Arca-Swiss plate and clamp](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/).
 
 If those tests still show a rig that will not settle, the next read is our guide to [tripods that hold a long lens steady](/blog/tripod-for-wildlife-photography/), or our [landscape tripods for low angles](/blog/landscape-photography-tripod/) if long exposures are your main use.

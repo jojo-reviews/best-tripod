@@ -1,0 +1,44 @@
+{
+  "keyword": "tripod leg lock won't hold",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.81,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Leglock",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Leglock"
+    },
+    {
+      "entity": "Sand",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Sand"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Gear"
+    }
+  ],
+  "missingFromPost": [
+    "Gear"
+  ]
+}

@@ -14,12 +14,14 @@
     {
       "name": "75mm bowl",
       "type": "standard",
-      "relation": "smaller half-ball mount for light and mid-size video rigs; most common on prosumer legs"
+      "relation": "smaller half-ball mount for light and mid-size video rigs; most common on prosumer legs",
+      "salience": 0.75
     },
     {
       "name": "100mm bowl",
       "type": "standard",
-      "relation": "larger half-ball mount for heavier rigs; more contact area, heavier heads"
+      "relation": "larger half-ball mount for heavier rigs; more contact area, heavier heads",
+      "salience": 0.81
     },
     {
       "name": "150mm bowl",
@@ -69,7 +71,8 @@
     {
       "name": "payload",
       "type": "attribute",
-      "relation": "drives the bowl choice more than the bowl itself"
+      "relation": "drives the bowl choice more than the bowl itself",
+      "salience": 0.59
     },
     {
       "name": "twin-tube legs",
@@ -80,6 +83,36 @@
       "name": "Gitzo Systematic",
       "type": "accessory",
       "relation": "photo tripods that take a 75mm (Series 2-4) or 75/100mm (Series 5) bowl"
+    },
+    {
+      "name": "tripod",
+      "type": "device",
+      "relation": "core object whose leg bowl size is explained",
+      "salience": 0.82
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "the rig the bowl and head carry",
+      "salience": 0.6
+    },
+    {
+      "name": "Sachtler",
+      "type": "brand",
+      "relation": "flowtech 75/100 spec sheets compare bowl sizes",
+      "salience": 0.6
+    },
+    {
+      "name": "Cartoni",
+      "type": "brand",
+      "relation": "Cartoni Focus head on 100mm legs vs a 75mm system at equal payload (DVinfo)",
+      "salience": 0.5
+    },
+    {
+      "name": "Weight",
+      "type": "attribute",
+      "relation": "carry weight of legs and head; trade-off of 100mm",
+      "salience": 0.36
     }
   ],
   "attributes": [
@@ -92,7 +125,12 @@
     "leveling speed",
     "minimum height with spreader",
     "adapter play",
-    "leg rigidity"
+    "leg rigidity",
+    "bowl diameter (75/100/150mm)",
+    "payload range (kg)",
+    "leg weight with/without spreader",
+    "leg configuration (single vs twin tube)",
+    "inner ring diameter vs nominal size"
   ],
   "ngrams": [
     "75mm bowl",
@@ -106,19 +144,26 @@
     "level the head",
     "payload range",
     "video tripod legs",
-    "150mm bowl"
+    "150mm bowl",
+    "tie-down",
+    "twin tube legs"
   ],
   "skipgrams": [
-    "bowl…diameter",
-    "75mm…head",
-    "100mm…legs",
-    "half ball…level",
-    "tie…down",
-    "adapter…play",
-    "payload…headroom",
-    "flat…base",
-    "bowl…adapter",
-    "rig…weight"
+    "bowl\u2026diameter",
+    "75mm\u2026head",
+    "100mm\u2026legs",
+    "half ball\u2026level",
+    "tie\u2026down",
+    "adapter\u2026play",
+    "payload\u2026headroom",
+    "flat\u2026base",
+    "bowl\u2026adapter",
+    "rig\u2026weight",
+    "bowl ... diameter",
+    "75mm head ... 100mm bowl",
+    "payload ... headroom",
+    "half ball ... match",
+    "tie-down ... adapter"
   ],
   "nlpTerms": [
     "hemisphere",
@@ -134,7 +179,10 @@
     "reducer",
     "headroom",
     "sticks",
-    "torsional"
+    "torsional",
+    "rigidity",
+    "Mitchell mount",
+    "hi-hat"
   ],
   "questions": [
     "What does 75mm bowl mean on a tripod?",
@@ -443,5 +491,15 @@
   "serpProductsNote": "SERP is forums, explainers and videos; no product is recommended by 2+ independent top-10 pages, so the guide has no picks.",
   "postType": "guide",
   "suggestedSeoTitle": "Video Tripod Bowl Size Explained 75mm vs 100mm (2026)",
-  "angle": "Choose by rig weight and leg design, then know which adapters work in which direction."
+  "angle": "Choose by rig weight and leg design, then know which adapters work in which direction.",
+  "textrazor": {
+    "date": "2026-11-01",
+    "pages": [
+      "dvinfo.net",
+      "dvxuser.com",
+      "blog.expresswaycine.com",
+      "sachtler.com flowtech 100"
+    ],
+    "note": "reddit, B&H, cinematography.com blocked the fetcher"
+  }
 }

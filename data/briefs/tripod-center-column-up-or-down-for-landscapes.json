@@ -13,7 +13,8 @@
   {
    "name": "tripod legs",
    "type": "component",
-   "relation": "carry most of the height and stiffness; extend these before the column"
+   "relation": "carry most of the height and stiffness; extend these before the column",
+   "salience": 0.59
   },
   {
    "name": "apex",
@@ -48,7 +49,8 @@
   {
    "name": "long exposure",
    "type": "technique",
-   "relation": "the landscape situation where a raised column costs the most"
+   "relation": "the landscape situation where a raised column costs the most",
+   "salience": 0.22
   },
   {
    "name": "wind",
@@ -64,6 +66,48 @@
    "name": "self-timer",
    "type": "accessory",
    "relation": "removes shutter-press shake that a raised column magnifies"
+  },
+  {
+   "name": "tripod center column",
+   "type": "component",
+   "relation": "central entity; raised only a few inches for framing, down for long exposures and wind",
+   "salience": 0.9
+  },
+  {
+   "name": "tripod",
+   "type": "equipment",
+   "relation": "the support whose stiffness the column reduces",
+   "salience": 0.85
+  },
+  {
+   "name": "landscape photography",
+   "type": "genre",
+   "relation": "the use case: long exposures, wind, low foregrounds",
+   "salience": 0.63
+  },
+  {
+   "name": "height",
+   "type": "attribute",
+   "relation": "legs-only height vs height with the column decides whether you need to raise it",
+   "salience": 0.6
+  },
+  {
+   "name": "tripod head",
+   "type": "component",
+   "relation": "sits on top of the column; each inch of column lifts head and camera further from the apex",
+   "salience": 0.53
+  },
+  {
+   "name": "camera",
+   "type": "equipment",
+   "relation": "the load on the lever; heavier bodies magnify sway",
+   "salience": 0.48
+  },
+  {
+   "name": "carbon-fiber reinforced polymer",
+   "type": "material",
+   "relation": "leg material of the tested RRS TVC-23; a raised column still costs stiffness",
+   "salience": 0.39
   }
  ],
  "attributes": [
@@ -76,7 +120,9 @@
   "reversible or horizontal column",
   "hook at the base of the column",
   "leg sections",
-  "leg angle stops"
+  "leg angle stops",
+  "height to the tripod head",
+  "leg material (carbon fiber vs aluminum)"
  ],
  "ngrams": [
   "center column up",
@@ -88,14 +134,19 @@
   "height without center column",
   "long exposure",
   "low to the ground",
-  "fine tune the composition"
+  "fine tune the composition",
+  "tripod head",
+  "legs-only height",
+  "carbon-fiber legs"
  ],
  "skipgrams": [
   "center column…stability",
   "raise…column…wind",
   "legs…before…column",
   "column…low…ground",
-  "column…few inches"
+  "column…few inches",
+  "column…tripod head…apex",
+  "height…without…column"
  ],
  "nlpTerms": [
   "stiffness",
@@ -116,7 +167,11 @@
   "systematic",
   "remote release",
   "self-timer",
-  "ND filter"
+  "ND filter",
+  "tripod head",
+  "carbon fiber",
+  "landscape photography",
+  "height"
  ],
  "questions": [
   "Should the tripod center column be up or down for landscapes?",
@@ -134,7 +189,7 @@
  ],
  "outline": [
   {
-   "h2": "Tripod center column up or down for landscapes – the short answer",
+   "h2": "The six-inch center column rule for landscapes",
    "intent": "direct answer",
    "h3": []
   },
@@ -450,5 +505,20 @@
   "short center column tripod"
  ],
  "postType": "guide",
- "angle": "Decision guide by landscape situation, with measured numbers and the low-angle side; links the height and wind posts instead of repeating them."
+ "angle": "Decision guide by landscape situation, with measured numbers and the low-angle side; links the height and wind posts instead of repeating them.",
+ "textrazor": {
+  "date": "2026-11-01",
+  "pages": [
+   "https://www.schultzphoto.com/2020/08/27/how-to-choose-a-tripod-for-landscape-wildlife-photographer/",
+   "https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html",
+   "https://thecentercolumn.com/2021/02/01/why-center-columns-reduce-tripod-stability/",
+   "https://timshields.com/5-features-every-good-tripod-needs-to-have/",
+   "https://www.talkphotography.co.uk/threads/tripod-center-column.748868/"
+  ],
+  "note": "reddit, dpreview and bcgforums blocked the fetch (Cloudflare), replaced by other top-10/source pages",
+  "missingFromPost": [
+   "Tripod head",
+   "Carbon-fiber reinforced polymer"
+  ]
+ }
 }

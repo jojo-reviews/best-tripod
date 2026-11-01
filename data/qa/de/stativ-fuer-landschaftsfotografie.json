@@ -1,0 +1,26 @@
+{
+  "slug": "de/stativ-fuer-landschaftsfotografie",
+  "lang": "de",
+  "translationOf": "landscape-photography-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-01T17:53:15.845Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-medium-format-camera/; link the de version once it exists",
+    "internal link to the English post /blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/; link the de version once it exists",
+    "internal link to the English post /blog/best-hiking-tripod/; link the de version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-macro-photography/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-tall-photographers-over-6-feet/; link the de version once it exists",
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-clean-tripod-legs-after-the-beach/; link the de version once it exists",
+    "internal link to the English post /blog/what-is-an-arca-swiss-plate-and-do-i-need-one/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-weigh-down-a-tripod-without-a-sandbag/; link the de version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with landscape-photography-tripod: all 5 products, ASINs, scores, specs keys, owners and FAQ answers match the English post; unit conversions checked (in->cm x2.54, lb->kg x0.4536; maker metric used: Peak 130,2/152,4/39,4 cm, Befree 128/151/40 cm 9 kg, MT190 135/160/59 cm 2 kg 15 kg, Feisol 147/190/52 cm 1,78 kg 30 kg). Local facts re-opened: Lufthansa carry-on 55x40x23 cm (lufthansa.com/fi/de/handgepaeck), Nationalpark Saechsische Schweiz core zone marked paths only (nationalpark-saechsische-schweiz.de/verhalten), Befree EU code MKBFRLA4BK-BH (foto-erhardt), Feisol Europe CT-3472 M2 1,81 kg (feisol.eu), dslr-forum quotes verbatim. Vanguard Gen 2 noted as listed mainly on US pages. No testing/ownership claims, no prices/currencies, no local Amazon store, research-not-testing sentence present.",
+    "at": "2026-11-01T17:53:15.212Z",
+    "hash": "855f9c9a9ade5dbd"
+  }
+}

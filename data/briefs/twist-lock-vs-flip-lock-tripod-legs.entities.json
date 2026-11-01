@@ -1,0 +1,76 @@
+{
+  "keyword": "twist lock vs flip lock tripod legs",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 4,
+      "relevance": 0.82,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Lever",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Lever"
+    },
+    {
+      "entity": "Leglock",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/Leglock"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Lever tumbler lock",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.86,
+      "wiki": "http://en.wikipedia.org/wiki/Lever_tumbler_lock"
+    },
+    {
+      "entity": "Lock and key",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.86,
+      "wiki": "http://en.wikipedia.org/wiki/Lock_and_key"
+    },
+    {
+      "entity": "Friction",
+      "type": "/medicine/disease_cause",
+      "pages": 2,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Friction"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    }
+  ],
+  "missingFromPost": [
+    "Lever tumbler lock",
+    "Lock and key"
+  ],
+  "errors": [
+    "https://www.photo.net/forums/topic/513202-proscons-of-lever-lock-vs-twist-lock-on-tripod-legs/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-rnddHH4pfxxJ25Nzq2nPXY&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"rnddHH4pfxxJ25Nzq2nPXY\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '8jgCXISriNrMlp12Q22daXYMs6k71ud1Tlhn9msEEN8-1793555512-1.2.1.1-Vi4pHfE147ksu8qOIM983cZHI6gTicwPEdJIotRCjibbgf22K0cln5xVGHKjmoUD',cITimeS: '1793555512',cN: 'rnddHH4pfxxJ25Nzq2nPXY',cRay: 'a53cbffeed5cb227',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/topic/513202-proscons-of-lever-lock-vs-twist-lock-on-tripod-legs/?__cf_chl_tk=.WJOlvIiD14CkdNES04ASDlFvlYxUPneYg4CNsX6HAs-1793555512-1.0.1.1-ZR4uLNA5s6SmIXIbVwTXozWuHJWvyYI2eB7s_VTPvGg\",cvId: '3',cZone: 'www.photo.net',fa:\"/forums/topic/513202-proscons-of-lever-lock-vs-twist-lock-on-tripod-legs/?__cf_chl_f_tk=.WJOlvIiD14CkdNES04ASDlFvlYxUPneYg4CNsX6HAs-1793555512-1.0.1.1-ZR4uLNA5s6SmIXIbVwTXozWuHJWvyYI2eB7s_VTPvGg\",md: 'puI4e3HFeEzc3Qf4MD1SP1SgbiBjIvK4EcJC.9CiKvA-1793555512-1.2.1.1-A8nU5saA_6Y.gUBRNdxitJFmhtcF4v6KPPtSWADOvymqWsD1hN1p4p33g_g2UYRdNxEoTBfA8X_s5nuwXYHuGMqKq27WnC3wWLhp2sLbO3aXSv45j278dbOELK6A52enzEbAoW3dNslYEs6lJ7ME6nncoDhVj3aisGQ0bYXmQhh5bQS3K1Yq1i6_YTOJ3vwqnV4jPRLekj0h5U.YpLv6X1qafPdwzMhBdzKxoz9lIomfMBMtAVgirTJ160fDho9Ky60vA.BiYlWPRBbKEPhAc1FJk4IaE7oPK02l63Xfw2etU2SBnbCyKpVTXx0PpWiwxPKUAMitW1Uonnkz84EwE7tbqtVpecIkLVEEBTCrTIxaWl7kK7amp5MBbxDREPKJmiRq64g5TZQNqsNq6.ykRSh6ENlJEobS.otH7VS8QhKHpQ8fCRYzqNriD3pXDCCjUky8bGC0wobwAR6uY5Pj.S4ZEwzaH2PqZ40LuDDV5_nGSsvVJF2oWmHPE_sThlLkNBS4NBmJ_n6J2IxfiapInw4uLkJ5u1KP4JMLlpzqhrJeCq7DgjiclakiWxd22.RMiNq8zn.n7g4DdrpPVrAgaAQekaMq5er_VjW62NwE9GcRhpI0FfCZic5iX3cinHN211LnHHMQZUzf3TSzXRZYsgId6FznCOxcfHIRHfhgNNAkakgUiw88oFJ9r9AX2ne.KC0oAhBH9ZfCKBdJZ88PZDIciCXisRYhdTLDXjsHBM39zmMr.i.d1_y.stMxckhFqLEiQCtoHhTAmo.T4VuRdWst9887PSTtrAO8aejgKp3Mo9BwmYwfhNxJCh4KUxLu1k6aoja48H0vuNtgmP56valILy3mdHs7pbQ5RtbhIHt90Z6FpmR4VtEz.75klBCKJGEBKwC.46tKepHi.ljV13zrn.kYrUnHOwJmfM67sxUoWAg94oZmjD0js_OkYir8_qd408zmlHoK4C6KSqv7r4_rXXjX7MN3HCJz1tzeg3mUYa5MaAg7MU2I.6UgtPxiOBYcMjm.6tsLMdPYjTpCCHIv6D_AqQKUcjXZS5gNxsDQiQubhvt8roEUz6hTzoyVUzyukQ3TgIvbJeFiJuoFwBWMwVF5mNV5oAyq17nz5cuK2jqOdYeJFyybmIyuzHDtVu8mnzBBcDrSp31id61Cle06NziO1gqu95woLj4DkAc',mdrd: 'Gq4y_.qVJqdW2PI5R_uvdVZq0jYZDTnzXOfoTCh4PSQ-1793555512-1.2.1.1-WDhYMA53xNGznKSv_x4SIRtwhn6MUHqCagTx.b0GlnmaCvSXFA_dJOkVTauXUhuJJJF.KAI792XRUfIzBZu9AVSKzU_NaqaeX3p8VxzeAkmcwl.HG9B_.P5ONvYpqzKbrmBFbsWkY0DRZU2RSvi6etwYysAvOeNj7KqonedcE9HxwTwVFq4ki6lpobABi.kbEbAFnh4M_QocpZL_d7e_587AWAk_qro4bLdsYCeqeNJcRQsL4BUR1d3NDZu1FTXfXF1eg5.BL2rYSNVYUrgIWg',};var a = document.createElement('script');a.nonce = 'rnddHH4pfxxJ25Nzq2nPXY';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a53cbffeed5cb227';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/topic/513202-proscons-of-lever-lock-vs-twist-lock-on-tripod-legs/?__cf_chl_rt_tk=.WJOlvIiD14CkdNES04ASDlFvlYxUPneYg4CNsX6HAs-1793555512-1.0.1.1-ZR4uLNA5s6SmIXIbVwTXozWuHJWvyYI2eB7s_VTPvGg\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

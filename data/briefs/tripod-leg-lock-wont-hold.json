@@ -9,89 +9,136 @@
   ],
   "entities": [
     {
+      "name": "leg",
+      "type": "anatomical part / tripod part",
+      "relation": "the tripod leg and its telescoping leg sections that the lock holds",
+      "salience": 0.81
+    },
+    {
+      "name": "camera tripod",
+      "type": "product category",
+      "relation": "central topic: a three-legged camera support whose leg locks fail",
+      "salience": 0.72
+    },
+    {
       "name": "twist lock",
       "type": "leg lock type",
-      "relation": "threaded collar that squeezes compression rings around the inner tube"
+      "relation": "threaded collar that squeezes compression rings around the inner tube",
+      "salience": 0.62
     },
     {
       "name": "flip lock",
       "type": "leg lock type",
-      "relation": "cam lever clamp whose tension is set by a nut or screw"
+      "relation": "cam lever clamp whose tension is set by a nut or screw",
+      "salience": 0.62
     },
     {
-      "name": "compression ring",
+      "name": "leg lock",
+      "type": "mechanism",
+      "relation": "TextRazor Leglock entity; the twist or flip clamp on each leg section",
+      "salience": 0.62
+    },
+    {
+      "name": "leg tube",
       "type": "part",
-      "relation": "plastic shim inside a twist lock that grips the tube; worn, missing or misaligned rings cause slipping"
-    },
-    {
-      "name": "anti-twist sleeve",
-      "type": "part",
-      "relation": "sleeve that keeps leg sections from spinning; sized per section"
-    },
-    {
-      "name": "tension nut",
-      "type": "part",
-      "relation": "lock nut or screw that sets flip lock clamping force"
-    },
-    {
-      "name": "leg angle joint",
-      "type": "part",
-      "relation": "hinge where the leg meets the apex; loose axle screws make legs floppy"
-    },
-    {
-      "name": "hex key",
-      "type": "tool",
-      "relation": "adjusts angle-joint screws and some flip locks"
-    },
-    {
-      "name": "nut driver",
-      "type": "tool",
-      "relation": "turns the tension nut on many flip locks"
-    },
-    {
-      "name": "marine grade grease",
-      "type": "lubricant",
-      "relation": "maker-recommended grease for twist-lock threads and joints"
-    },
-    {
-      "name": "blue thread locker",
-      "type": "material",
-      "relation": "keeps angle-joint screws from backing out while staying removable"
-    },
-    {
-      "name": "carbon fiber",
-      "type": "material",
-      "relation": "leg tube material; damaged by forcing a stuck section"
-    },
-    {
-      "name": "aluminum",
-      "type": "material",
-      "relation": "leg tube material"
-    },
-    {
-      "name": "Manfrotto",
-      "type": "brand",
-      "relation": "flip-lock tripods with adjustable nuts"
-    },
-    {
-      "name": "Feisol",
-      "type": "brand",
-      "relation": "publishes a twist-lock care manual"
-    },
-    {
-      "name": "Really Right Stuff",
-      "type": "brand",
-      "relation": "publishes tripod maintenance steps"
+      "relation": "the tube surface the lock must grip; bent or cracked tubes mean replacement",
+      "salience": 0.4
     },
     {
       "name": "sand",
       "type": "contaminant",
-      "relation": "grit in the lock reduces grip and jams sections"
+      "relation": "grit in the lock reduces grip and jams sections",
+      "salience": 0.29
+    },
+    {
+      "name": "camera gear",
+      "type": "product category",
+      "relation": "never mounted until the repaired tripod passes the empty press test",
+      "salience": 0.22
+    },
+    {
+      "name": "compression ring",
+      "type": "part",
+      "relation": "plastic shim inside a twist lock that grips the tube; worn, missing or misaligned rings cause slipping",
+      "salience": 0.2
+    },
+    {
+      "name": "anti-twist sleeve",
+      "type": "part",
+      "relation": "sleeve that keeps leg sections from spinning; sized per section",
+      "salience": 0.2
+    },
+    {
+      "name": "tension nut",
+      "type": "part",
+      "relation": "lock nut or screw that sets flip lock clamping force",
+      "salience": 0.2
+    },
+    {
+      "name": "leg angle joint",
+      "type": "part",
+      "relation": "hinge where the leg meets the apex; loose axle screws make legs floppy",
+      "salience": 0.2
+    },
+    {
+      "name": "hex key",
+      "type": "tool",
+      "relation": "adjusts angle-joint screws and some flip locks",
+      "salience": 0.2
+    },
+    {
+      "name": "nut driver",
+      "type": "tool",
+      "relation": "turns the tension nut on many flip locks",
+      "salience": 0.2
+    },
+    {
+      "name": "marine grade grease",
+      "type": "lubricant",
+      "relation": "maker-recommended grease for twist-lock threads and joints",
+      "salience": 0.2
+    },
+    {
+      "name": "blue thread locker",
+      "type": "material",
+      "relation": "keeps angle-joint screws from backing out while staying removable",
+      "salience": 0.2
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg tube material; damaged by forcing a stuck section",
+      "salience": 0.2
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "leg tube material",
+      "salience": 0.2
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "flip-lock tripods with adjustable nuts",
+      "salience": 0.2
+    },
+    {
+      "name": "Feisol",
+      "type": "brand",
+      "relation": "publishes a twist-lock care manual",
+      "salience": 0.2
+    },
+    {
+      "name": "Really Right Stuff",
+      "type": "brand",
+      "relation": "publishes tripod maintenance steps",
+      "salience": 0.2
     },
     {
       "name": "salt water",
       "type": "contaminant",
-      "relation": "residue that needs rinsing and drying"
+      "relation": "residue that needs rinsing and drying",
+      "salience": 0.2
     }
   ],
   "attributes": [
@@ -102,7 +149,10 @@
     "flip lock tension",
     "angle joint tension",
     "tube material",
-    "user-serviceable parts"
+    "user-serviceable parts",
+    "exposure to sand and salt (lower leg sections first)",
+    "rated load",
+    "replacement parts availability"
   ],
   "ngrams": [
     "tripod leg lock",
@@ -117,7 +167,14 @@
     "clean the threads",
     "thread locker",
     "tripod legs",
-    "won't hold"
+    "won't hold",
+    "leg tube",
+    "leg sections",
+    "locking surfaces",
+    "lower leg sections",
+    "downward pressure",
+    "camera gear",
+    "user-serviceable"
   ],
   "skipgrams": [
     "twist…lock…slipping",
@@ -125,7 +182,10 @@
     "grease…threads",
     "compression…rings",
     "tighten…nut",
-    "leg…section…stuck"
+    "leg…section…stuck",
+    "lower…leg sections…sand",
+    "press…down…empty tripod",
+    "tighten…harder…collar"
   ],
   "nlpTerms": [
     "slip",
@@ -155,7 +215,12 @@
     "manufacturer",
     "warranty",
     "apex",
-    "tension"
+    "tension",
+    "friction",
+    "debris",
+    "orientation",
+    "spacer",
+    "retract"
   ],
   "questions": [
     "why do my tripod legs keep slipping",
@@ -435,5 +500,17 @@
   },
   "linkRules": "Live posts only (pubDate before 2026-10-20T20:00Z). Never link best-tripod-for-photography. twist-lock-vs-flip-lock-tripod-legs and 4-section-vs-5-section-tripod are not live yet, so not linked.",
   "postType": "how-to",
-  "productCount": 0
+  "productCount": 0,
+  "textrazor": {
+    "date": "2026-11-01",
+    "pages": [
+      "https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+      "https://improvephotography.com/51236/fix-sticking-tripod-leg-joint/",
+      "https://www.youtube.com/watch?v=Y1WcTaXA9Fg",
+      "https://www.youtube.com/watch?v=sS1D5kj88A4",
+      "https://www.facebook.com/groups/NewsandCAF/posts/24351819547784698/"
+    ],
+    "file": "data/briefs/tripod-leg-lock-wont-hold.entities.json",
+    "note": "reddit, dpreview, pivo blocked TextRazor fetch (Cloudflare); replaced by next accessible results"
+  }
 }

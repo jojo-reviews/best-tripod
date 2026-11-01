@@ -9,9 +9,70 @@
   ],
   "entities": [
     {
+      "name": "monopod",
+      "type": "product type",
+      "relation": "central entity: one-leg camera support carried on the trail",
+      "salience": 0.95
+    },
+    {
+      "name": "tripod",
+      "type": "product type",
+      "relation": "three-leg alternative for long exposures, stars and self-timer shots",
+      "salience": 0.83
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "mirrorless, DSLR or compact body the pole must carry (camera load)",
+      "salience": 0.78
+    },
+    {
       "name": "trekking pole",
       "type": "product type",
-      "relation": "hybrid alternative: a hiking staff with a 1/4\"-20 camera bolt under the handle"
+      "relation": "hybrid alternative: a hiking staff with a 1/4 in-20 camera bolt",
+      "salience": 0.61
+    },
+    {
+      "name": "camera gear",
+      "type": "concept",
+      "relation": "total kit weight the pole must support",
+      "salience": 0.54
+    },
+    {
+      "name": "photography",
+      "type": "activity",
+      "relation": "hiking, wildlife and landscape photography use",
+      "salience": 0.53
+    },
+    {
+      "name": "telephoto lens",
+      "type": "product type",
+      "relation": "heavy lens a monopod rests; rules out the 3 lb hybrid",
+      "salience": 0.49
+    },
+    {
+      "name": "exposure",
+      "type": "concept",
+      "relation": "monopod buys slower shutter speed; tripod needed for long exposures",
+      "salience": 0.46
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "weight rating vs body weight, pack weight",
+      "salience": 0.38
+    },
+    {
+      "name": "wildlife photography",
+      "type": "activity",
+      "relation": "long-lens use case for monopods with feet",
+      "salience": 0.3
+    },
+    {
+      "name": "DSLR",
+      "type": "product type",
+      "relation": "heavier camera class that needs the carbon monopod",
+      "salience": 0.25
     },
     {
       "name": "carbon fiber monopod",
@@ -90,7 +151,12 @@
     "weight capacity",
     "collapsed length",
     "tilt head",
-    "ball head"
+    "ball head",
+    "hiking monopod",
+    "camera load",
+    "packed length",
+    "shutter speed",
+    "long exposures"
   ],
   "skipgrams": [
     "trekking…monopod",
@@ -99,7 +165,10 @@
     "camera…bolt",
     "weight…rating",
     "collapsed…length",
-    "carbon…fiber"
+    "carbon…fiber",
+    "camera…load",
+    "packed…length",
+    "monopod…hiking"
   ],
   "nlpTerms": [
     "monopod",
@@ -121,7 +190,12 @@
     "carry-on",
     "eye level",
     "sections",
-    "twist lock"
+    "twist lock",
+    "exposure",
+    "shutter speed",
+    "ISO",
+    "wildlife photography",
+    "camera gear"
   ],
   "questions": [
     "can a trekking pole work as a monopod",
@@ -460,5 +534,9 @@
       "url": "https://www.youtube.com/watch?v=UH8xWAvsOGQ",
       "section": "Trekking Pole or Real Monopod? What Owners Run Into"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-01",
+    "source": "TextRazor, top results: cascademountaintech, bcgforums, improvephotography, digitalcameraworld (reddit blocked)"
+  }
 }

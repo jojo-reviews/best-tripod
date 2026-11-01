@@ -1,24 +1,17 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-10-29T10:44:40.605Z",
+  "checkedAt": "2026-11-01T17:54:51.437Z",
   "errors": [],
   "warnings": [
-    "only 11 first-person words; owner rule wants at least 12 (about 1 per 100 words: I, my, me, we, our, us)",
-    "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1282332/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
-    "source didn't respond normally (403): https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/",
-    "source didn't respond normally (403): https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Removed surplus outside links only (owner rule: max 3 external links); no claim, number or source in the text changed.",
-    "at": "2026-10-21T19:50:48.722Z",
-    "hash": "07efbdc4021d11ce"
+    "notes": "Semantic pass 2026-11-01 (review only): verified added K&F Concept claims (lower leg sections take most grit on beach shoots; empty tripod can still fail under camera and lens; cranking a firm collar harder rarely helps) on kfconcept.com/learning-center/tripod-leg-wont-lock; Feisol ring/collar and grease facts unchanged, reworded; r/peakdesign quote shortened verbatim; Ugly Hedgehog 190XB quote unchanged; Improve Photography field fix unchanged; new internal link to twist-lock-vs-flip-lock-tripod-legs (live); headings renamed to topic; no new prices, ratings or tests.",
+    "at": "2026-11-01T17:54:50.934Z",
+    "hash": "bbe421059d8c18dd"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "slug": "nl/wat-is-een-arca-swiss-plaat",
+  "lang": "nl",
+  "translationOf": "what-is-an-arca-swiss-plate-and-do-i-need-one",
+  "pass": true,
+  "checkedAt": "2026-11-01T17:54:04.556Z",
+  "errors": [],
+  "warnings": [],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with the English post: all specs, products, ASINs, scores, owner praise/complaints and FAQ answers match; metric first, imperial in brackets. Local facts re-checked: Arca-Swiss factory near Besancon (arca-swiss-usa.com about page), Rijksmuseum filmen-en-fotograferen page (photography allowed without nuisance; wedding photography: geen statieven en geen extra belichting, scraped), Photofacts and Tweakers quotes verbatim from excerpts at their URLs. No testing/ownership claims, no prices, no local Amazon store.",
+    "at": "2026-11-01T17:54:03.039Z",
+    "hash": "8460246ee8395a6d"
+  }
+}

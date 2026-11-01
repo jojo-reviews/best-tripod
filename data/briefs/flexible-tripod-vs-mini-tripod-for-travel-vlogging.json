@@ -14,12 +14,14 @@
     {
       "name": "flexible tripod",
       "type": "camera support",
-      "relation": "mini tripod with bendable ball-and-socket legs that wrap around poles, railings and branches"
+      "relation": "mini tripod with bendable ball-and-socket legs that wrap around poles, railings and branches",
+      "salience": 0.93
     },
     {
       "name": "mini tripod",
       "type": "camera support",
-      "relation": "rigid tabletop tripod with fixed or short telescoping legs that stands on flat surfaces"
+      "relation": "rigid tabletop tripod with fixed or short telescoping legs that stands on flat surfaces",
+      "salience": 0.93
     },
     {
       "name": "JOBY GorillaPod 3K Kit",
@@ -59,7 +61,8 @@
     {
       "name": "mirrorless camera",
       "type": "camera",
-      "relation": "typical travel vlogging body, e.g. Sony ZV-E10 at about 343 g with battery"
+      "relation": "typical travel vlogging body, e.g. Sony ZV-E10 at about 343 g with battery",
+      "salience": 0.22
     },
     {
       "name": "smartphone clamp",
@@ -70,6 +73,60 @@
       "name": "carry-on bag",
       "type": "travel",
       "relation": "both types fit a daypack or carry-on easily"
+    },
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "the central entity; three-legged camera stand in flexible and rigid mini forms",
+      "salience": 1.0
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "what the tripod holds; its weight with lens and mic sets the load needed",
+      "salience": 0.63
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "tripod weight (0.19 kg PIXI Mini, about 393 g GorillaPod 3K Kit) and camera weight vs rated load",
+      "salience": 0.49
+    },
+    {
+      "name": "vlog",
+      "type": "use",
+      "relation": "travel vlogging: talking-to-camera clips, handheld grip use",
+      "salience": 0.43
+    },
+    {
+      "name": "photography",
+      "type": "use",
+      "relation": "stills use, where a GorillaPod needs a pole or tree to attach to",
+      "salience": 0.42
+    },
+    {
+      "name": "smartphone",
+      "type": "camera",
+      "relation": "phone vlogging needs a separate clamp on either tripod",
+      "salience": 0.39
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "max height: about 12 in GorillaPod 3K Kit, fixed 13.5 cm PIXI Mini, neither reaches eye level",
+      "salience": 0.33
+    },
+    {
+      "name": "backpack",
+      "type": "travel gear",
+      "relation": "both mini tripods fit a backpack side pocket or daypack",
+      "salience": 0.31
+    },
+    {
+      "name": "plastic",
+      "type": "material",
+      "relation": "GorillaPod ABS plastic leg joints loosen with age",
+      "salience": 0.26
     }
   ],
   "attributes": [
@@ -82,7 +139,11 @@
     "ability to level the horizon",
     "use as a handheld vlog grip",
     "wrap-around mounting",
-    "long-term leg stiffness"
+    "long-term leg stiffness",
+    "rated load capacity",
+    "max height",
+    "tripod weight",
+    "1/4\"-20 mount"
   ],
   "ngrams": [
     "flexible tripod",
@@ -94,7 +155,9 @@
     "tabletop tripod",
     "level horizon",
     "vlog grip",
-    "wrap around a pole"
+    "wrap around a pole",
+    "full-size tripod",
+    "selfie stick"
   ],
   "skipgrams": [
     "flexible…legs",
@@ -102,7 +165,9 @@
     "wrap…pole",
     "legs…sag",
     "camera…tip",
-    "travel…vlog"
+    "travel…vlog",
+    "mini…tabletop",
+    "rated…load"
   ],
   "nlpTerms": [
     "GorillaPod",
@@ -116,7 +181,13 @@
     "payload",
     "quick release plate",
     "bubble level",
-    "portrait orientation"
+    "portrait orientation",
+    "portability",
+    "stability",
+    "lightweight",
+    "hands-free",
+    "low-angle",
+    "backpack"
   ],
   "questions": [
     "are flexible tripods stable",
@@ -445,5 +516,15 @@
       ],
       "note": "Shotkit ranks it #2 (top rated). Digital Camera World's guide (position 9 for the keyword) uses the PIXI Mini as its lead image; its body sits behind a consent wall for Firecrawl, and the site's earlier brief recorded that the guide leads with it."
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-11-01",
+    "pages": [
+      "https://neewer.com/blogs/blog/mini-tripods",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://mojogear.eu/en/blogs/blog/4-tips-for-choosing-a-tripod",
+      "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag"
+    ],
+    "missingFromPost": []
+  }
 }

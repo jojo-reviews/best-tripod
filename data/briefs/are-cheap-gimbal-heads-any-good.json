@@ -9,20 +9,122 @@
     "gimbal head"
   ],
   "entities": [
-    { "name": "gimbal head", "type": "product type", "relation": "the tripod head that balances a long lens at its center of gravity; the topic of the query" },
-    { "name": "Wimberley WH-200", "type": "product", "relation": "the premium benchmark cheap heads are compared to (over 100 lb load per B&H)" },
-    { "name": "Oben GH-30", "type": "product", "relation": "budget full gimbal recommended by Shutter Muse, Backcountry Journeys and B&H eXplora" },
-    { "name": "Sirui PH-20", "type": "product", "relation": "mid-priced carbon gimbal recommended by Shutter Muse and Backcountry Journeys" },
-    { "name": "Beike BK-45", "type": "product", "relation": "the generic low-cost gimbal owners discuss on Talk Photography and DPReview" },
-    { "name": "Arca-Swiss", "type": "standard", "relation": "the dovetail plate standard nearly every gimbal clamp uses" },
-    { "name": "lens foot", "type": "component", "relation": "where the gimbal clamp holds a telephoto lens" },
-    { "name": "bearings", "type": "component", "relation": "what separates smooth premium heads from cheap heads with nylon bushings" },
-    { "name": "nylon bushings", "type": "component", "relation": "the plastic sleeves owners report inside generic cheap gimbals" },
-    { "name": "150-600mm", "type": "lens class", "relation": "the typical lens a cheap gimbal buyer owns" },
-    { "name": "180-600mm", "type": "lens class", "relation": "current zoom class from the DPReview gimbal thread" },
-    { "name": "side mount", "type": "design", "relation": "lighter gimbal style; the Sirui PH-20 converts to it" },
-    { "name": "cradle", "type": "design", "relation": "the swing arm that lets the lens hang below the clamp" },
-    { "name": "monopod", "type": "support", "relation": "the alternative many 180-600mm owners pick instead of a gimbal" }
+    {
+      "name": "gimbal head",
+      "type": "product type",
+      "relation": "the tripod head that balances a long lens at its center of gravity; the topic of the query",
+      "salience": 0.92
+    },
+    {
+      "name": "Wimberley WH-200",
+      "type": "product",
+      "relation": "the premium benchmark cheap heads are compared to (over 100 lb load per B&H)",
+      "salience": 0.51
+    },
+    {
+      "name": "Oben GH-30",
+      "type": "product",
+      "relation": "budget full gimbal recommended by Shutter Muse, Backcountry Journeys and B&H eXplora"
+    },
+    {
+      "name": "Sirui PH-20",
+      "type": "product",
+      "relation": "mid-priced carbon gimbal recommended by Shutter Muse and Backcountry Journeys"
+    },
+    {
+      "name": "Beike BK-45",
+      "type": "product",
+      "relation": "the generic low-cost gimbal owners discuss on Talk Photography and DPReview"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "the dovetail plate standard nearly every gimbal clamp uses"
+    },
+    {
+      "name": "lens foot",
+      "type": "component",
+      "relation": "where the gimbal clamp holds a telephoto lens"
+    },
+    {
+      "name": "bearings",
+      "type": "component",
+      "relation": "what separates smooth premium heads from cheap heads with nylon bushings"
+    },
+    {
+      "name": "nylon bushings",
+      "type": "component",
+      "relation": "the plastic sleeves owners report inside generic cheap gimbals"
+    },
+    {
+      "name": "150-600mm",
+      "type": "lens class",
+      "relation": "the typical lens a cheap gimbal buyer owns",
+      "salience": 0.3
+    },
+    {
+      "name": "180-600mm",
+      "type": "lens class",
+      "relation": "current zoom class from the DPReview gimbal thread"
+    },
+    {
+      "name": "side mount",
+      "type": "design",
+      "relation": "lighter gimbal style; the Sirui PH-20 converts to it"
+    },
+    {
+      "name": "cradle",
+      "type": "design",
+      "relation": "the swing arm that lets the lens hang below the clamp"
+    },
+    {
+      "name": "monopod",
+      "type": "support",
+      "relation": "the alternative many 180-600mm owners pick instead of a gimbal",
+      "salience": 0.33
+    },
+    {
+      "name": "tripod",
+      "type": "support",
+      "relation": "the legs a gimbal head sits on; sturdy legs matter as much as the head",
+      "salience": 0.65
+    },
+    {
+      "name": "tripod head",
+      "type": "product category",
+      "relation": "the category a gimbal head belongs to, next to ball and fluid heads",
+      "salience": 0.65
+    },
+    {
+      "name": "telephoto lens",
+      "type": "product category",
+      "relation": "the long lens a gimbal head balances",
+      "salience": 0.46
+    },
+    {
+      "name": "zoom lens",
+      "type": "product category",
+      "relation": "extending zooms shift the balance point on any gimbal",
+      "salience": 0.3
+    },
+    {
+      "name": "Benro GH2",
+      "type": "product",
+      "relation": "mid-priced aluminum gimbal, 50 lb load and 3 lb per Backcountry Journeys",
+      "salience": 0.56
+    },
+    {
+      "name": "Gitzo Gimbal Fluid Head",
+      "type": "product",
+      "relation": "premium fluid gimbal rated 17.6 lb per Backcountry Journeys; shows premium is not always more load",
+      "salience": 0.26
+    },
+    {
+      "name": "Nikon",
+      "type": "brand",
+      "relation": "owners cite Nikon 200-500mm and 600mm f/4 rig weights",
+      "salience": 0.25
+    }
   ],
   "attributes": [
     "max load (rated vs usable)",
@@ -32,7 +134,8 @@
     "lock shift when tightening",
     "Arca-Swiss clamp and plate length",
     "3/8\"-16 base mount",
-    "side mount option"
+    "side mount option",
+    "fluid (damped) motion"
   ],
   "ngrams": [
     "cheap gimbal heads",
@@ -44,7 +147,11 @@
     "quick release plate",
     "tripod legs",
     "side mount",
-    "balance point"
+    "balance point",
+    "telephoto lens",
+    "zoom lens",
+    "tripod head",
+    "load capacity"
   ],
   "skipgrams": [
     "cheap…gimbal",
@@ -52,7 +159,9 @@
     "lens…foot",
     "pan…lock",
     "tripod…legs",
-    "smooth…bearings"
+    "smooth…bearings",
+    "gimbal…head",
+    "telephoto…lens"
   ],
   "nlpTerms": [
     "telephoto",
@@ -70,7 +179,13 @@
     "aluminum",
     "monopod",
     "birds in flight",
-    "weightless"
+    "weightless",
+    "Benro",
+    "Gitzo",
+    "Wimberley",
+    "Nikon",
+    "fluid",
+    "load capacity"
   ],
   "questions": [
     "are cheap gimbal heads any good",
@@ -88,13 +203,48 @@
     "Zoom lenses that extend shift the balance point on any gimbal"
   ],
   "outline": [
-    { "h2": "Are cheap gimbal heads any good? The short answer", "intent": "Direct yes-with-limits answer, who a cheap gimbal suits", "h3": [] },
-    { "h2": "What a cheap gimbal head gives up", "intent": "Information gain: bushings vs bearings, sticky grease, lock shift, clamp quality, weight", "h3": ["Bushings, grease and stiffness", "Lock shift and clamp quality", "Weight and bulk"] },
-    { "h2": "Rated load vs your real lens", "intent": "Compare rated load with 150-600mm and 600mm f/4 rigs", "h3": [] },
-    { "h2": "Two budget gimbal heads the ranking guides agree on", "intent": "Picks recommended by 2+ top-10 pages", "h3": ["Oben GH-30 Gimbal Head: Best budget full gimbal", "Sirui PH-20 Gimbal Head: Best step-up carbon gimbal"] },
-    { "h2": "Cheap gimbal head vs Wimberley: when to pay more", "intent": "Comparison table and choose-if verdict", "h3": [] },
-    { "h2": "Problems owners run into with budget gimbals, and the fix", "intent": "Pain points: unused gimbal, bulk, shaky light legs", "h3": [] },
-    { "h2": "Our verdict", "intent": "Close the opening scene and link the next question", "h3": [] }
+    {
+      "h2": "Are cheap gimbal heads any good? The short answer",
+      "intent": "Direct yes-with-limits answer, who a cheap gimbal suits",
+      "h3": []
+    },
+    {
+      "h2": "What a cheap gimbal head gives up",
+      "intent": "Information gain: bushings vs bearings, sticky grease, lock shift, clamp quality, weight",
+      "h3": [
+        "Bushings, grease and stiffness",
+        "Lock shift and clamp quality",
+        "Weight and bulk"
+      ]
+    },
+    {
+      "h2": "Rated load vs your real lens",
+      "intent": "Compare rated load with 150-600mm and 600mm f/4 rigs",
+      "h3": []
+    },
+    {
+      "h2": "Two budget gimbal heads the ranking guides agree on",
+      "intent": "Picks recommended by 2+ top-10 pages",
+      "h3": [
+        "Oben GH-30 Gimbal Head: Best budget full gimbal",
+        "Sirui PH-20 Gimbal Head: Best step-up carbon gimbal"
+      ]
+    },
+    {
+      "h2": "Cheap gimbal head vs Wimberley: when to pay more",
+      "intent": "Comparison table and choose-if verdict",
+      "h3": []
+    },
+    {
+      "h2": "Problems owners run into with budget gimbals, and the fix",
+      "intent": "Pain points: unused gimbal, bulk, shaky light legs",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict",
+      "intent": "Close the opening scene and link the next question",
+      "h3": []
+    }
   ],
   "targetWords": 1900,
   "serpStructure": {
@@ -123,22 +273,68 @@
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    { "position": 1, "url": "https://shuttermuse.com/best-gimbal-tripod-heads/", "title": "The Best Gimbal Tripod Heads in 2026 - My Top Picks - Shutter Muse" },
-    { "position": 2, "url": "https://www.youtube.com/watch?v=XbtiR-Yc8HY", "title": "Tripod Gimbals for $300 (or less!) - YouTube" },
-    { "position": 3, "url": "https://www.reddit.com/r/AskPhotography/comments/1illvg7/tripod_gimbal_setup_which_one_to_buy/", "title": "Tripod + Gimbal Setup - Which one to buy? : r/AskPhotography - Reddit" },
-    { "position": 4, "url": "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head", "title": "Gimbal Heads, and How to Choose One | B&H eXplora" },
-    { "position": 5, "url": "https://www.facebook.com/groups/269756666197256/posts/750828744756710/", "title": "Anyone use a gimbal head ? Worth buying - Facebook" },
-    { "position": 6, "url": "https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/", "title": "Cheap Gimbal Heads | DPReview Forums" },
-    { "position": 7, "url": "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods", "title": "The best gimbal heads for tripods | Digital Camera World" },
-    { "position": 8, "url": "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography", "title": "10 Best Gimbal Heads for Wildlife Photography - Backcountry Journeys" },
-    { "position": 9, "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/", "title": "Cheap Gimbal Head | Talk Photography" },
-    { "position": 10, "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/", "title": "Inexpensive Gimbal Head | Nikonites - Nikon User Community" }
+    {
+      "position": 1,
+      "url": "https://shuttermuse.com/best-gimbal-tripod-heads/",
+      "title": "The Best Gimbal Tripod Heads in 2026 - My Top Picks - Shutter Muse"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=XbtiR-Yc8HY",
+      "title": "Tripod Gimbals for $300 (or less!) - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1illvg7/tripod_gimbal_setup_which_one_to_buy/",
+      "title": "Tripod + Gimbal Setup - Which one to buy? : r/AskPhotography - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head",
+      "title": "Gimbal Heads, and How to Choose One | B&H eXplora"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/269756666197256/posts/750828744756710/",
+      "title": "Anyone use a gimbal head ? Worth buying - Facebook"
+    },
+    {
+      "position": 6,
+      "url": "https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/",
+      "title": "Cheap Gimbal Heads | DPReview Forums"
+    },
+    {
+      "position": 7,
+      "url": "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods",
+      "title": "The best gimbal heads for tripods | Digital Camera World"
+    },
+    {
+      "position": 8,
+      "url": "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography",
+      "title": "10 Best Gimbal Heads for Wildlife Photography - Backcountry Journeys"
+    },
+    {
+      "position": 9,
+      "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/",
+      "title": "Cheap Gimbal Head | Talk Photography"
+    },
+    {
+      "position": 10,
+      "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/",
+      "title": "Inexpensive Gimbal Head | Nikonites - Nikon User Community"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 0,
     "withYear": 1,
     "withNumber": 2,
-    "commonModifiers": ["best", "gimbal heads", "cheap / inexpensive", "for wildlife", "worth buying"],
+    "commonModifiers": [
+      "best",
+      "gimbal heads",
+      "cheap / inexpensive",
+      "for wildlife",
+      "worth buying"
+    ],
     "gap": "No title answers the yes/no question directly or says what a cheap head gives up; page one is roundups of premium heads and old forum threads. Our angle: the direct answer, what you give up, and the budget heads the guides agree on."
   },
   "commonPoints": [
@@ -150,11 +346,26 @@
     "A tripod gimbal head is not a motorized video gimbal."
   ],
   "ourGain": [
-    { "point": "What is physically cheaper in a cheap gimbal: nylon or plastic bushings instead of bearings, sticky grease, a mix of play and stiffness, and a crude clamp; owners fix it by regreasing", "source": "https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/ ; https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/ ; https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/ ; https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/" },
-    { "point": "Lock shift: tightening the pan or tilt knob moves the framing on budget and mid-priced heads, which matters for static shots more than tracking", "source": "https://shuttermuse.com/sirui-ph-20-gimbal-head-review/ ; https://www.dpreview.com/forums/threads/any-experience-with-the-sirui-ph-20-carbon-fiber-gimbal-head.4056572/ ; https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/" },
-    { "point": "Rated load vs usable load: a 44 lb rating does not mean smooth motion at that weight; Shutter Muse limits the Oben GH-30 to 200-600mm-class lenses", "source": "https://shuttermuse.com/best-gimbal-tripod-heads/" },
-    { "point": "A cheap gimbal is a low-risk way to find out whether you will use one at all, since many 180-600mm and 200-500mm owners handhold more than they expected", "source": "data/pain-points.json tripod-heads-gimbal-cheap-vs-premium, tripod-heads-gimbal-used-less-than-expected (https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/)" },
-    { "point": "Extending zooms shift the balance point as you zoom, on any gimbal, cheap or not", "source": "https://www.dpreview.com/forums/threads/any-experience-with-the-sirui-ph-20-carbon-fiber-gimbal-head.4056572/" }
+    {
+      "point": "What is physically cheaper in a cheap gimbal: nylon or plastic bushings instead of bearings, sticky grease, a mix of play and stiffness, and a crude clamp; owners fix it by regreasing",
+      "source": "https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/ ; https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/ ; https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/ ; https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+    },
+    {
+      "point": "Lock shift: tightening the pan or tilt knob moves the framing on budget and mid-priced heads, which matters for static shots more than tracking",
+      "source": "https://shuttermuse.com/sirui-ph-20-gimbal-head-review/ ; https://www.dpreview.com/forums/threads/any-experience-with-the-sirui-ph-20-carbon-fiber-gimbal-head.4056572/ ; https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/"
+    },
+    {
+      "point": "Rated load vs usable load: a 44 lb rating does not mean smooth motion at that weight; Shutter Muse limits the Oben GH-30 to 200-600mm-class lenses",
+      "source": "https://shuttermuse.com/best-gimbal-tripod-heads/"
+    },
+    {
+      "point": "A cheap gimbal is a low-risk way to find out whether you will use one at all, since many 180-600mm and 200-500mm owners handhold more than they expected",
+      "source": "data/pain-points.json tripod-heads-gimbal-cheap-vs-premium, tripod-heads-gimbal-used-less-than-expected (https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/)"
+    },
+    {
+      "point": "Extending zooms shift the balance point as you zoom, on any gimbal, cheap or not",
+      "source": "https://www.dpreview.com/forums/threads/any-experience-with-the-sirui-ph-20-carbon-fiber-gimbal-head.4056572/"
+    }
   ],
   "painPoints": [
     {
@@ -167,8 +378,14 @@
         "https://www.uglyhedgehog.com/t-655764-2.html"
       ],
       "quotes": [
-        { "text": "I would steer well clear of cheap gimbals. You are looking for solid construction and very smooth bearings.", "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/" },
-        { "text": "These inexpensive gimbals are perfectly adequate for determining whether or not he'll use one.", "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/" }
+        {
+          "text": "I would steer well clear of cheap gimbals. You are looking for solid construction and very smooth bearings.",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        },
+        {
+          "text": "These inexpensive gimbals are perfectly adequate for determining whether or not he'll use one.",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        }
       ]
     },
     {
@@ -182,8 +399,14 @@
         "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
       ],
       "quotes": [
-        { "text": "Pretty much as Joe says, they do the job but without any finesse.", "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/" },
-        { "text": "i think the main area of cheapness is nylon bushes instead of bearings.", "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/" }
+        {
+          "text": "Pretty much as Joe says, they do the job but without any finesse.",
+          "url": "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/"
+        },
+        {
+          "text": "i think the main area of cheapness is nylon bushes instead of bearings.",
+          "url": "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/"
+        }
       ]
     },
     {
@@ -195,7 +418,10 @@
         "https://shuttermuse.com/best-gimbal-tripod-heads/"
       ],
       "quotes": [
-        { "text": "As already mentioned, they are relatively large and heavy to transport, even those that break down into three separate parts.", "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/" }
+        {
+          "text": "As already mentioned, they are relatively large and heavy to transport, even those that break down into three separate parts.",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        }
       ]
     },
     {
@@ -206,7 +432,10 @@
         "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
       ],
       "quotes": [
-        { "text": "I have used it less than I anticipated", "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/" }
+        {
+          "text": "I have used it less than I anticipated",
+          "url": "https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/"
+        }
       ]
     },
     {
@@ -221,12 +450,49 @@
     }
   ],
   "serpProducts": [
-    { "name": "Oben GH-30 Gimbal Head", "pages": ["https://shuttermuse.com/best-gimbal-tripod-heads/", "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography", "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head"] },
-    { "name": "Sirui PH-20 Gimbal Head", "pages": ["https://shuttermuse.com/best-gimbal-tripod-heads/", "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"] },
-    { "name": "Wimberley WH-200 (premium benchmark, not a budget pick)", "pages": ["https://shuttermuse.com/best-gimbal-tripod-heads/", "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography", "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head"] },
-    { "name": "Magnus GH-M1 (2 pages, but B&H house brand with no Amazon US listing; not featured)", "pages": ["https://shuttermuse.com/best-gimbal-tripod-heads/", "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"] },
-    { "name": "Benro GH2 / GH2N (different model generations on each page; not featured)", "pages": ["https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods", "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"] },
-    { "name": "K&F Concept Professional Gimbal Head (1 top-10 page; not featured)", "pages": ["https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods"] }
+    {
+      "name": "Oben GH-30 Gimbal Head",
+      "pages": [
+        "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography",
+        "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head"
+      ]
+    },
+    {
+      "name": "Sirui PH-20 Gimbal Head",
+      "pages": [
+        "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"
+      ]
+    },
+    {
+      "name": "Wimberley WH-200 (premium benchmark, not a budget pick)",
+      "pages": [
+        "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography",
+        "https://www.bhphotovideo.com/explora/photography/buying-guide/gimbal-head"
+      ]
+    },
+    {
+      "name": "Magnus GH-M1 (2 pages, but B&H house brand with no Amazon US listing; not featured)",
+      "pages": [
+        "https://shuttermuse.com/best-gimbal-tripod-heads/",
+        "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"
+      ]
+    },
+    {
+      "name": "Benro GH2 / GH2N (different model generations on each page; not featured)",
+      "pages": [
+        "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods",
+        "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography"
+      ]
+    },
+    {
+      "name": "K&F Concept Professional Gimbal Head (1 top-10 page; not featured)",
+      "pages": [
+        "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods"
+      ]
+    }
   ],
   "linkPlan": [
     "/blog/tripod-for-wildlife-photography/ (legs that hold a long lens; next question)",
@@ -236,5 +502,17 @@
     "/category/tripod-heads/ (category hub)",
     "Never link /blog/best-tripod-for-photography/ (removed)"
   ],
-  "note": "Firecrawl rate limits shared with other agents. avgWords is estimated from the main text of the seven pages read (Shutter Muse about 4,500 without comments, DCW about 2,600, BCJ about 1,500, B&H eXplora about 1,000, the three forum threads about 1,100-1,800). Reddit and Facebook results could not be read. No Ahrefs used."
+  "note": "Firecrawl rate limits shared with other agents. avgWords is estimated from the main text of the seven pages read (Shutter Muse about 4,500 without comments, DCW about 2,600, BCJ about 1,500, B&H eXplora about 1,000, the three forum threads about 1,100-1,800). Reddit and Facebook results could not be read. No Ahrefs used.",
+  "textrazor": {
+    "date": "2026-11-01",
+    "file": "data/briefs/are-cheap-gimbal-heads-any-good.entities.json",
+    "pages": [
+      "https://shuttermuse.com/best-gimbal-tripod-heads/",
+      "https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/",
+      "https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography",
+      "https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/",
+      "https://www.digitalcameraworld.com/news/best-gimbal-heads-for-tripods"
+    ],
+    "note": "B&H eXplora, DPReview and Reddit blocked the fetch; replaced by the next ranking pages. Ignored noise: Email, Gear."
+  }
 }

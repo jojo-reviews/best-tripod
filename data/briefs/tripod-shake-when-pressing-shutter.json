@@ -13,12 +13,14 @@
     {
       "name": "self-timer",
       "type": "camera feature",
-      "relation": "delays the exposure 2-10 seconds so the vibration from your finger dies down first"
+      "relation": "delays the exposure 2-10 seconds so the vibration from your finger dies down first",
+      "salience": 0.4
     },
     {
       "name": "remote release",
       "type": "accessory",
-      "relation": "fires the camera without touching it (cable, wireless or phone app); fixes the finger, not a weak tripod"
+      "relation": "fires the camera without touching it (cable, wireless or phone app); fixes the finger, not a weak tripod",
+      "salience": 0.29
     },
     {
       "name": "exposure delay",
@@ -48,7 +50,8 @@
     {
       "name": "image stabilization",
       "type": "camera feature",
-      "relation": "lens IS/VR/OSS or in-body IBIS can drift and add blur on a locked-down tripod; makers say turn it off for long exposures"
+      "relation": "lens IS/VR/OSS or in-body IBIS can drift and add blur on a locked-down tripod; makers say turn it off for long exposures",
+      "salience": 0.74
     },
     {
       "name": "IBIS",
@@ -63,7 +66,8 @@
     {
       "name": "tripod head",
       "type": "tripod component",
-      "relation": "a small or weak head lets a heavy lens keep ringing after the press"
+      "relation": "a small or weak head lets a heavy lens keep ringing after the press",
+      "salience": 0.64
     },
     {
       "name": "lens collar",
@@ -73,7 +77,80 @@
     {
       "name": "live view",
       "type": "camera feature",
-      "relation": "magnified live view shows how long the rig keeps shaking after a touch"
+      "relation": "magnified live view shows how long the rig keeps shaking after a touch",
+      "salience": 0.48
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the body whose mirror and shutter curtain shake it from inside",
+      "salience": 0.81
+    },
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "keeps ringing after the press; legs, column and head decide how fast it settles",
+      "salience": 0.8
+    },
+    {
+      "name": "shutter",
+      "type": "camera component",
+      "relation": "the mechanical curtain's movement causes shutter shock at the start of the exposure",
+      "salience": 0.73
+    },
+    {
+      "name": "shutter speed",
+      "type": "exposure setting",
+      "relation": "shake shows most from about 1/500 to 2 seconds; very long or fast exposures hide a short jolt",
+      "salience": 0.68
+    },
+    {
+      "name": "telephoto lens",
+      "type": "lens",
+      "relation": "magnifies any vibration and takes longer to settle; mount it by its collar",
+      "salience": 0.54
+    },
+    {
+      "name": "vibration",
+      "type": "physical phenomenon",
+      "relation": "the movement from the press, mirror or curtain that blurs the exposure",
+      "salience": 0.47
+    },
+    {
+      "name": "gimbal head",
+      "type": "tripod component",
+      "relation": "balances a heavy telephoto on its axes so it settles without tight brakes",
+      "salience": 0.4
+    },
+    {
+      "name": "exposure",
+      "type": "photography concept",
+      "relation": "the shake must die before it starts",
+      "salience": 0.4
+    },
+    {
+      "name": "ISO",
+      "type": "exposure setting",
+      "relation": "raising it a stop buys a faster shutter speed out of the danger band (TextRazor: Film speed)",
+      "salience": 0.36
+    },
+    {
+      "name": "teleconverter",
+      "type": "accessory",
+      "relation": "multiplies focal length and with it the visible shake",
+      "salience": 0.35
+    },
+    {
+      "name": "Bulb",
+      "type": "exposure mode",
+      "relation": "exposures beyond 30 seconds; Canon says switch the stabilizer off; a remote is needed",
+      "salience": 0.31
+    },
+    {
+      "name": "shutter button",
+      "type": "camera control",
+      "relation": "pressing it by hand is the finger source of shake",
+      "salience": 0.29
     }
   ],
   "attributes": [
@@ -101,7 +178,11 @@
     "long lens",
     "slow shutter speed",
     "center column",
-    "live view"
+    "live view",
+    "shutter speed",
+    "telephoto lens",
+    "tripod head",
+    "gimbal head"
   ],
   "skipgrams": [
     "shutter…press",
@@ -111,7 +192,10 @@
     "shutter…shock",
     "stabilization…off",
     "center…column",
-    "settle…seconds"
+    "settle…seconds",
+    "tripod…head",
+    "telephoto…collar",
+    "shutter speed…band"
   ],
   "nlpTerms": [
     "vibration",
@@ -131,7 +215,11 @@
     "app",
     "menu",
     "Bulb",
-    "magnified"
+    "magnified",
+    "teleconverter",
+    "ISO",
+    "gimbal",
+    "vibration sources"
   ],
   "questions": [
     "Why does my camera shake on a tripod when I press the shutter?",
@@ -431,5 +519,18 @@
       "why": "mounting a body centered over the tripod settles faster"
     }
   ],
-  "linkPlanNote": "Live posts only (all published before 2026-10-20T19:44Z). Never link best-tripod-for-photography."
+  "linkPlanNote": "Live posts only (all published before 2026-10-20T19:44Z). Never link best-tripod-for-photography.",
+  "semanticPass": {
+    "date": "2026-11-01",
+    "tool": "TextRazor",
+    "entitiesFile": "data/briefs/tripod-shake-when-pressing-shutter.entities.json",
+    "topPages": [
+      "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/ (not fetchable)",
+      "https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
+      "https://photo.stackexchange.com/questions/125034/",
+      "https://www.ephotozine.com/article/5-easy-ways-to-prevent-camera-shake-28053",
+      "https://www.dpreview.com/forums/threads/reducing-camera-shake-on-a-tripod.4298254/",
+      "https://www.slrlounge.com/glossary/camera-shake/"
+    ]
+  }
 }

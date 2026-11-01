@@ -12,67 +12,116 @@
     {
       "name": "gimbal head",
       "type": "product type",
-      "relation": "tripod head that pivots a long lens around its center of gravity"
+      "relation": "tripod head that pivots a long lens around its center of gravity",
+      "salience": 0.96
     },
     {
       "name": "150-600mm zoom",
       "type": "lens class",
-      "relation": "the lens the searcher owns: Sigma and Tamron 150-600mm, Sony 200-600mm, Nikon 180-600mm"
+      "relation": "the lens the searcher owns: Sigma and Tamron 150-600mm, Sony 200-600mm, Nikon 180-600mm",
+      "salience": 0.29
     },
     {
       "name": "Sigma 150-600mm F5-6.3 DG OS HSM Contemporary",
       "type": "lens",
-      "relation": "the most-discussed 150-600mm in the ranking threads; 1,930 g per Sigma"
+      "relation": "the most-discussed 150-600mm in the ranking threads; 1,930 g per Sigma",
+      "salience": 0.29
     },
     {
       "name": "ProMediaGear GKJr. Katana Junior",
       "type": "product",
-      "relation": "light full gimbal recommended by Shutter Muse, FredMiranda and Talk Photography"
+      "relation": "light full gimbal recommended by Shutter Muse, FredMiranda and Talk Photography",
+      "salience": 0.3
     },
     {
       "name": "Wimberley WH-200",
       "type": "product",
-      "relation": "benchmark full gimbal recommended by Shutter Muse, r/Nikon and Talk Photography"
+      "relation": "benchmark full gimbal recommended by Shutter Muse, r/Nikon and Talk Photography",
+      "salience": 0.3
     },
     {
       "name": "Fotopro E-6H",
       "type": "product",
-      "relation": "compact multi-mode gimbal recommended by Shutter Muse and FredMiranda"
+      "relation": "compact multi-mode gimbal recommended by Shutter Muse and FredMiranda",
+      "salience": 0.3
     },
     {
       "name": "Wimberley Sidekick SK-100",
       "type": "product",
-      "relation": "ball-head gimbal adapter recommended by Shutter Muse and FredMiranda"
+      "relation": "ball-head gimbal adapter recommended by Shutter Muse and FredMiranda",
+      "salience": 0.3
     },
     {
       "name": "Arca-Swiss",
       "type": "standard",
-      "relation": "the dovetail clamp standard all four heads use"
+      "relation": "the dovetail clamp standard all four heads use",
+      "salience": 0.3
     },
     {
       "name": "lens foot",
       "type": "component",
-      "relation": "where the gimbal clamps the lens; its height decides whether the lens can balance"
+      "relation": "where the gimbal clamps the lens; its height decides whether the lens can balance",
+      "salience": 0.64
     },
     {
       "name": "cradle mount",
       "type": "design",
-      "relation": "lens sits on a swing arm below the pivot; easier to load"
+      "relation": "lens sits on a swing arm below the pivot; easier to load",
+      "salience": 0.3
     },
     {
       "name": "side mount",
       "type": "design",
-      "relation": "lens clamps beside the pivot; lighter and smaller"
+      "relation": "lens clamps beside the pivot; lighter and smaller",
+      "salience": 0.3
     },
     {
       "name": "ball head",
       "type": "product type",
-      "relation": "what the Sidekick converts; what droops under a long lens"
+      "relation": "what the Sidekick converts; what droops under a long lens",
+      "salience": 0.72
     },
     {
       "name": "monopod",
       "type": "support",
-      "relation": "the lighter alternative many 150-600mm owners use"
+      "relation": "the lighter alternative many 150-600mm owners use",
+      "salience": 0.49
+    },
+    {
+      "name": "tripod head",
+      "type": "product type",
+      "relation": "the category a gimbal head belongs to (TextRazor: Tripod head)",
+      "salience": 0.72
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the body on the lens; mount by the lens foot, never the camera",
+      "salience": 0.68
+    },
+    {
+      "name": "telephoto lens",
+      "type": "lens class",
+      "relation": "a 150-600mm is a long-focus telephoto zoom (TextRazor: Telephoto lens, Long-focus lens)",
+      "salience": 0.62
+    },
+    {
+      "name": "tripod",
+      "type": "support",
+      "relation": "legs under the gimbal; must hold a long lens steady",
+      "salience": 0.49
+    },
+    {
+      "name": "camera lens",
+      "type": "object",
+      "relation": "Sigma lists the 150-600mm Contemporary lens at 1,930 g",
+      "salience": 0.48
+    },
+    {
+      "name": "zoom lens",
+      "type": "lens class",
+      "relation": "extending zoom shifts the balance point",
+      "salience": 0.29
     }
   ],
   "attributes": [
@@ -84,7 +133,9 @@
     "Arca-Swiss clamp",
     "3/8\"-16 base thread",
     "click stops and bubble level",
-    "cold-weather smoothness"
+    "cold-weather smoothness",
+    "head weight vs lens weight (1,930 g Sigma 150-600 C)",
+    "balance at mid zoom"
   ],
   "ngrams": [
     "gimbal head",
@@ -96,7 +147,10 @@
     "cradle mount",
     "ball head",
     "birds in flight",
-    "arca-swiss plate"
+    "arca-swiss plate",
+    "telephoto lens",
+    "tripod head",
+    "long-focus lens"
   ],
   "skipgrams": [
     "gimbal…balance",
@@ -122,7 +176,12 @@
     "tripod legs",
     "monopod",
     "carbon fiber",
-    "aluminum"
+    "aluminum",
+    "camera",
+    "long-focus",
+    "photography",
+    "weight",
+    "Nikon"
   ],
   "questions": [
     "what is the best gimbal head for a 150-600mm lens",
@@ -515,5 +574,10 @@
     "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/ (lens plates)",
     "/blog/ball-head-tripod/ (ball head for the Sidekick)"
   ],
-  "note": "Queue item is source:user (owner keyword), so the cannibal check is skipped per ROUTINE.md; routine.mjs cannibal flags are-cheap-gimbal-heads-any-good (80%) via its secondary 'is a cheap gimbal head good enough for a 600mm lens'. Distinct angle: this is the roundup of heads sized for a 150-600mm zoom (premium, compact and adapter picks); the cheap-gimbal post owns budget vs premium and the Oben GH-30 / Sirui PH-20, which are linked, not repeated. FredMiranda /forum/next/1760120 (the SERP URL) redirects to /forum/topic/1784270/, the 'best tripod head for 200-600mm?' thread; cited by its topic URL."
+  "note": "Queue item is source:user (owner keyword), so the cannibal check is skipped per ROUTINE.md; routine.mjs cannibal flags are-cheap-gimbal-heads-any-good (80%) via its secondary 'is a cheap gimbal head good enough for a 600mm lens'. Distinct angle: this is the roundup of heads sized for a 150-600mm zoom (premium, compact and adapter picks); the cheap-gimbal post owns budget vs premium and the Oben GH-30 / Sirui PH-20, which are linked, not repeated. FredMiranda /forum/next/1760120 (the SERP URL) redirects to /forum/topic/1784270/, the 'best tripod head for 200-600mm?' thread; cited by its topic URL.",
+  "semanticPass": {
+    "date": "2026-11-01",
+    "source": "TextRazor on digitalcameraworld.com, shuttermuse.com, zenelli.com (dpreview, reddit blocked)",
+    "file": "data/briefs/best-gimbal-head-for-150-600mm-lens.entities.json"
+  }
 }
