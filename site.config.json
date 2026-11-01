@@ -42,10 +42,19 @@
   "defaultLocale": "en",
   "oneLinkScript": "",
   "translations": {
-    "backlogPerDay": 0,
-    "categories": [],
-    "paused": "Owner rule 2026-10-20: localized, not translated. Tripods are the same product everywhere, so a plain translation adds nothing Google Translate cannot; no new de/es/nl versions until a localization step exists for this site. Live translations stay (URLs never 404).",
-    "note": "Daily backlog: translate up to backlogPerDay older English posts per language (scripts/routine.mjs translate-queue). New English posts are translated right after they pass QA."
+    "backlogPerDay": 1,
+    "categories": [
+      "travel-tripods",
+      "camera-tripods",
+      "phone-tripods",
+      "video-tripods",
+      "tabletop-mini-tripods",
+      "monopods",
+      "tripod-heads",
+      "tripod-accessories"
+    ],
+    "note": "Daily backlog: translate up to backlogPerDay older English posts per language (scripts/routine.mjs translate-queue). New English posts are translated right after they pass QA.",
+    "resumed": "Owner rule 2026-11-01 ('tripod site pa difrent laguages pa blog post karny'): de/es/nl back on, localized (localizer-agent local brief first, as the 2026-10-20 rule asked). Every new English post gets 3 versions; backlog 1 English post x 3 languages per day."
   },
   "categories": [
     {

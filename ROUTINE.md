@@ -303,9 +303,11 @@ Finish with a short summary: posts published (title + URL
 (`https://best-tripod.com/<lang>/blog/<slug>/`), anything skipped and why.
 
 ## Translations (de, es, nl)
-**PAUSED (owner rule 2026-10-20: localized, not translated).** No new de/es/nl versions on this site: neither for
-today's English posts nor from the backlog (`translations.backlogPerDay: 0`, `categories: []`). Live translations stay
-online unchanged. The rest of this section describes the pipeline for when it is turned back on.
+**Owner rule 2026-11-01 (resumed, localized):** de/es/nl are back on for every category, as the owner rule of
+2026-10-20 asked: localized, not translated. Every version starts with `localizer-agent <english-slug>` (once per
+English post, it writes `data/briefs/<lang>/<english-slug>.local.json` for de, es and nl), then translator-agent uses
+that local brief. Backlog: `translations.backlogPerDay` 1 (one English post x 3 languages a day). Max 5 per language
+per day (translate-slots). Live translations from before 2026-11-01 have no local brief yet; re-localize them later.
 
 Every English post also gets a localized version per locale in `site.config.json` (`locales`, minus `en`):
 `src/content/blog/<lang>/<localized-slug>.md` with `lang` and `translationOf: <english-slug>`, live at
@@ -316,7 +318,7 @@ passing report in `data/qa/<lang>/<slug>.json`. All routine commands take `<lang
 local store. So translations keep the English products and ASINs (no new products, no search links) and
 never mention a local Amazon store, local prices, currencies or local availability.
 
-**After each English post passes QA and is pushed** (step 9), for each locale (`de`, `es`, `nl`):
+**After each English post passes QA and is pushed** (step 9), run `localizer-agent <english-slug>` once, then for each locale (`de`, `es`, `nl`):
 1. `node scripts/routine.mjs translate-slots <lang> --after <english-slug>` → use `pubDates[0]` as the
    translation's pubDate (random, a few hours after now and after the English post, ≥ 2 h from the
    language's other translations, max 5 per language per day). Never use the current time.

@@ -25,6 +25,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
   and every go-live deploy sends the new URLs to Google (google-indexing.mjs --notify-recent, needs the gsc-reader JSON key).
 - LIGHT MODE (2026-10-22, Claude usage limit; posts per day raised to 2 on 2026-10-27 and to 5 on 2026-10-29): one agent per post;
   translations, trim backlog, pre-research and backfills are paused until the owner says otherwise.
+- Owner rule 2026-11-01 ("tripod site pa difrent laguages pa blog post karny"): best-tripod.com de/es/nl localized pages are back on: every new English post gets localizer-agent (local brief) + 3 versions (de/es/nl), plus the backlog at backlogPerDay 1. This meets the 2026-10-20 rule (localized, not translated) via the new localizer-agent; it lifts the LIGHT MODE translation pause for this site.
 - Deploy a post only after its pubDate. Go-live: first `node scripts/apply-inlinks.mjs <slug>` (patent rule 2026-10-24: 2 in-body links
   from related live posts), commit + push, then deploy; check = 200 + product photos, then a phone notification "Live: <title> – <url>".
 - Never change a live post's URL, slug, keyword or pubDate (rankings drop). Old URLs get 301s, never 404s.
