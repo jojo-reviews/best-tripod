@@ -1,0 +1,202 @@
+{
+  "centralEntity": "tripod for live streaming",
+  "entityVariants": [
+    "best tripod for live streaming",
+    "live streaming tripod",
+    "tripod for streaming",
+    "streaming tripod",
+    "phone tripod for live streaming",
+    "best tripod for whatnot",
+    "best tripod for whatnot streaming"
+  ],
+  "entities": [
+    { "name": "Tripod", "type": "product type", "relation": "three-legged stand that keeps the phone or camera fixed for the whole stream", "salience": 0.99, "pages": 5 },
+    { "name": "Tripod head", "type": "component", "relation": "ball, pan-tilt or fluid head that aims the camera; fluid heads suit streams with pans", "salience": 0.7, "pages": 5 },
+    { "name": "Live streaming", "type": "activity", "relation": "the use case: long, unattended, real-time broadcasts on Twitch, YouTube, TikTok Live, Whatnot", "salience": 0.67, "pages": 5 },
+    { "name": "Camera", "type": "device", "relation": "mirrorless, DSLR or webcam that rides on the head; its weight sets the load needed", "salience": 0.57, "pages": 5 },
+    { "name": "Streaming media", "type": "concept", "relation": "platforms the stream goes to", "salience": 0.72, "pages": 3 },
+    { "name": "Vlog", "type": "content type", "relation": "overlapping creator use; most streaming tripod lists double as vlogging lists", "salience": 0.61, "pages": 2 },
+    { "name": "Counterweight", "type": "feature", "relation": "counterbalance in fluid heads, or a bag on the hook for stability", "salience": 0.55, "pages": 2 },
+    { "name": "Monopod", "type": "product type", "relation": "one-leg alternative some tripods convert into", "salience": 0.35, "pages": 3 },
+    { "name": "Weight", "type": "attribute", "relation": "tripod weight vs rig weight and load capacity", "salience": 0.34, "pages": 3 },
+    { "name": "Height", "type": "attribute", "relation": "max height with and without the center column vs the host's eye level", "salience": 0.43, "pages": 2 },
+    { "name": "Leg", "type": "component", "relation": "leg material, sections and locks", "salience": 0.48, "pages": 2 },
+    { "name": "Mirrorless camera", "type": "device", "relation": "common streaming camera on a full-size tripod", "salience": 0.33, "pages": 2 },
+    { "name": "Digital single-lens reflex camera", "type": "device", "relation": "heavier streaming camera needing a floor tripod", "salience": 0.28, "pages": 2 },
+    { "name": "Gimbal", "type": "product type", "relation": "motorized stabilizer some pages list; not needed for a fixed stream", "salience": 0.28, "pages": 2 },
+    { "name": "Smartphone", "type": "device", "relation": "the most common live-selling and TikTok Live camera; needs a clamp", "salience": 0.6, "pages": 4 },
+    { "name": "Whatnot", "type": "platform", "relation": "live-selling app whose sellers stream from a phone, often overhead", "salience": 0.4, "pages": 1 }
+  ],
+  "attributes": [
+    "max height vs the host's standing eye level",
+    "height with the center column down",
+    "load capacity vs phone, camera, mic and light",
+    "phone clamp and 1/4-20 mount",
+    "cold shoe or accessory arms for a mic and light",
+    "head type: ball head vs fluid head",
+    "multi-angle center column for overhead shots",
+    "footprint on a desk or floor",
+    "folded length and weight for moving the setup"
+  ],
+  "ngrams": [
+    "tripod for live streaming",
+    "live streaming",
+    "phone tripod",
+    "fluid head",
+    "ball head",
+    "eye level",
+    "load capacity",
+    "center column",
+    "tabletop tripod",
+    "phone clamp"
+  ],
+  "skipgrams": [
+    "tripod…streaming",
+    "camera…eye level",
+    "phone…clamp",
+    "fluid…head",
+    "load…capacity",
+    "overhead…shot"
+  ],
+  "nlpTerms": [
+    "Twitch",
+    "YouTube Live",
+    "TikTok Live",
+    "Whatnot",
+    "OBS",
+    "webcam",
+    "cold shoe",
+    "1/4-20 screw",
+    "Arca-Swiss",
+    "pan and tilt",
+    "counterbalance",
+    "ring light",
+    "overhead shot",
+    "portrait mode"
+  ],
+  "questions": [
+    "What is the best tripod for live streaming?",
+    "How high should the camera be for a live stream?",
+    "Do I need a fluid head for live streaming?",
+    "What tripod do Whatnot sellers use?",
+    "Can a regular camera tripod hold my phone for streaming?",
+    "How do I get an overhead shot for live selling?"
+  ],
+  "contentGaps": [
+    "Max height checked against average standing eye level (CDC height data), so readers know which tripods reach a standing host",
+    "A chooser by stream type: phone standing, phone at a desk, phone with mic and light, camera seated, camera standing with overhead product shots",
+    "Overhead product shots for live selling with a multi-angle column, with the tipping fix",
+    "Keeping a phone charged through a long live stream on a tripod"
+  ],
+  "outline": [
+    { "h2": "Live streaming tripod height: does it reach your eyes?", "intent": "key number first: max height vs standing eye level table (CDC heights, SmallRig eye-level range)", "h3": [] },
+    { "h2": "How I picked these live streaming tripods", "intent": "method, who else recommends them, From our notes", "h3": [] },
+    { "h2": "The 6 best tripods for live streaming, reviewed", "intent": "one section per product, first sentence names product type and maker", "h3": ["UBeesize 67 inch Camera Tripod with Travel Bag", "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp", "JOBY GorillaPod Mobile Rig", "Vanguard Alta Pro 2+ 263AB G2", "Manfrotto Befree Advanced Lever Travel Tripod Kit", "K&F Concept 64 inch Aluminum Travel Tripod"] },
+    { "h2": "Which live streaming tripod should you get", "intent": "decision block mapping stream type to pick", "h3": [] },
+    { "h2": "How to set up a tripod for live streaming at eye level", "intent": "numbered steps", "h3": [] },
+    { "h2": "Overhead live streaming shots for Whatnot sellers", "intent": "situation: overhead product cam with a multi-angle column, counterweight", "h3": [] },
+    { "h2": "Live streaming tripod problems owners run into, and the fix", "intent": "pain points: wobble, flexible legs sag, phone on a camera tripod, battery through a long live", "h3": [] }
+  ],
+  "targetWords": 1800,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://streamyard.com/blog/best-tripods-for-live-streaming",
+      "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html",
+      "https://www.corporatestreams.com/blog/live-streaming-tripod",
+      "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming",
+      "https://streamscharts.com/news/top-tripods-streaming-and-vlogging",
+      "https://www.rokform.com/blogs/rokform-blog/phone-tripods-tiktok-creators"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "StreamYard and Streams Charts, the two roundups that rank, describe each product in short paragraphs without pros/cons lists; only Rokform uses pros/cons blocks.",
+    "avgWords": 1650,
+    "avgProducts": 10,
+    "commonSections": ["what to consider (type, weight, legs, head, height)", "tripod head types", "product list", "conclusion"],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.bestbuy.com/site/shop/streaming-tripod", "title": "Streaming Tripod - Best Buy" },
+    { "position": 2, "url": "https://www.amazon.com/tripod-live-streaming-phone/s?k=tripod+for+live+streaming+for+phone", "title": "Tripod For Live Streaming For Phone - Amazon.com" },
+    { "position": 3, "url": "https://www.facebook.com/groups/1698314167078491/posts/3886082578301628/", "title": "Which tripod stand is best for live streaming on iPhone? - Facebook" },
+    { "position": 4, "url": "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "title": "How To Choose The Perfect Tripod For Flawless Live Streaming" },
+    { "position": 5, "url": "https://www.reddit.com/r/Weddingsunder10k/comments/1dbaffh/tripod_for_cellphone_for_wedding_livestream/", "title": "Tripod for cellphone for wedding livestream : r/Weddingsunder10k" },
+    { "position": 6, "url": "https://www.youtube.com/watch?v=3ZvrpoU-U4Y", "title": "Best Phone Tripod Options For Live Streaming and Video - YouTube" },
+    { "position": 7, "url": "https://www.bhphotovideo.com/c/buy/tripods-for-streaming/ci/46800", "title": "Tripods for Streaming | B&H Photo Video" },
+    { "position": 8, "url": "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming", "title": "How to Pick the Best Tripod for Teaching & Streaming? - Ulanzi" },
+    { "position": 9, "url": "https://streamyard.com/blog/best-tripods-for-live-streaming", "title": "Best Tripods for Live Streaming - StreamYard" },
+    { "position": 10, "url": "https://www.telesinstore.com/blogs/news/the-best-phone-tripods-for-vlogging-and-streaming-a-comprehensive-guide", "title": "The Best Phone Tripods for Vlogging and Streaming: A Comprehensive Gui" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": ["phone", "streaming", "live streaming", "for teaching", "flawless"],
+    "gap": "No top title is a current-year roundup that covers both phone and camera streams or sorts picks by setup."
+  },
+  "serpProducts": [
+    { "name": "Manfrotto PIXI Mini Tripod with Smartphone Clamp", "pages": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "https://www.rokform.com/blogs/rokform-blog/phone-tripods-tiktok-creators", "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/"] },
+    { "name": "JOBY GorillaPod Mobile Rig", "pages": ["https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "https://www.rokform.com/blogs/rokform-blog/phone-tripods-tiktok-creators"] },
+    { "name": "Vanguard Alta Pro 2+ 263AB (G2 is the current version of the 263AB 100 named)", "pages": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "https://www.techgearlab.com/topics/electronics/best-tripod"] },
+    { "name": "UBeesize 67 inch tripod", "pages": ["https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "https://www.techgearlab.com/topics/electronics/best-tripod"] },
+    { "name": "Manfrotto Befree Advanced", "pages": ["https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "https://www.techgearlab.com/topics/electronics/best-tripod"] },
+    { "name": "K&F Concept 64 inch tripod", "pages": ["https://www.techgearlab.com/topics/electronics/best-tripod", "https://www.packhacker.com/blog/general/best-travel-tripod/"] },
+    { "name": "JOBY GorillaPod 5K Kit (dropped: Amazon US listings currently unavailable)", "pages": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging"] }
+  ],
+  "commonPoints": [
+    "A tripod keeps the frame fixed so the host can talk and use their hands",
+    "Pick floor or tabletop by setup: floor for standing or heavier cameras, tabletop for desks",
+    "Check load capacity against the camera plus mic and light",
+    "A fluid head gives smoother pans than a ball head for video",
+    "The camera should sit at or just above eye level"
+  ],
+  "ourGain": [
+    { "type": "analysis", "point": "Max height of each pick set against CDC average adult heights (68.9 in men, 63.5 in women) and SmallRig's 5.5-6.5 ft eye-level range for standing talent: only the UBeesize and the Vanguard (column up) reach a standing host's eyes; the Befree suits seated streams.", "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm", "absentFrom": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "https://www.corporatestreams.com/blog/live-streaming-tripod", "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging"] },
+    { "type": "decision", "point": "Chooser by stream type: phone standing (UBeesize), phone at a desk (PIXI clamp kit), phone with mic and light (Mobile Rig), camera with an overhead product angle (Vanguard), camera seated (Befree), budget camera (K&F).", "source": "https://streamscharts.com/news/top-tripods-streaming-and-vlogging", "absentFrom": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "https://www.corporatestreams.com/blog/live-streaming-tripod", "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging"] },
+    { "type": "situation", "point": "Overhead product shots for live selling tip cheap tripods; the Vanguard's multi-angle column swings horizontal, and a bag on the hook plus a leg under the arm keeps it balanced.", "source": "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/", "absentFrom": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "https://www.corporatestreams.com/blog/live-streaming-tripod", "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging"] },
+    { "type": "situation", "point": "Long phone lives drain the battery; a Whatnot seller on Reddit keeps the phone charging with a MagSafe stand, and on a tripod the fix is a clamp that leaves the port free plus a right-angle cable.", "source": "https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/", "absentFrom": ["https://streamyard.com/blog/best-tripods-for-live-streaming", "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "https://www.corporatestreams.com/blog/live-streaming-tripod", "https://www.ulanzi.com/blogs/news/choose-tripod-online-teaching-streaming", "https://streamscharts.com/news/top-tripods-streaming-and-vlogging"] }
+  ],
+  "painPoints": [
+    { "id": "phone-tripods-selfie-stick-wobble", "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones", "details": "Creators who buy a single-pole phone tripod find the top shakes when extended; replies blame the thin pole and center-column design.", "sources": ["https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/", "https://www.reddit.com/r/AskPhotography/comments/1hmqijt/tripods_is_center_stem_really_something_i_should/"], "quotes": [{ "text": "The design is the problem here. You could make this from any conceivable material and it would still wobble.", "url": "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/" }] },
+    { "id": "phone-tripods-overhead-unboxing", "pain": "Overhead shots for unboxing, recipes and study vlogs tip or break cheap tripods", "details": "Creators filming top-down product clips report tripods breaking or tipping when angled over a desk.", "sources": ["https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/", "https://www.reddit.com/r/videography/comments/1pk1ie6/need_advice_tripod_for_overhead_unboxings_coffee/"], "quotes": [{ "text": "What is a good overhead tripod for iPhone? The recent one I bought from amazon broke, budget will be under $100.", "url": "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/" }] },
+    { "id": "phone-tripods-flexible-legs-sag", "pain": "Bendy flexible tripod legs sag or let go under a heavier rig", "details": "GorillaPod owners report slow sagging when loaded.", "sources": ["https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/", "https://www.reddit.com/r/videography/comments/jj61q2/camera_destroyed_due_to_joby_gorillapod/"], "quotes": [{ "text": "It's also not really that stable and tends to slowly sag when loaded.", "url": "https://www.reddit.com/r/canon/comments/k2nz49/joby_3k_tripod_any_good/" }] },
+    { "id": "phone-tripods-reuse-camera-tripod", "pain": "Not sure whether a regular camera tripod can hold a phone", "details": "Quora answers point to a phone clamp on the standard 1/4-20 screw.", "sources": ["https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel"], "quotes": [{ "text": "If you already have a bigger tripod, you can also get a mobile tripod mount", "url": "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel" }] },
+    { "id": "phone-tripods-live-stream-charging", "pain": "The phone battery runs down during a long live stream on a stand or tripod", "details": "Whatnot sellers ask r/whatnotapp what stand to use; one answer picks a MagSafe charging stand so the phone stays charged through the live.", "sources": ["https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/"], "quotes": [{ "text": "The MagSafe stand makes it so my phone stays charged through the live and it has some tilting abilities.", "url": "https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/" }] }
+  ],
+  "stats": [
+    { "number": "68.9 in", "claim": "Measured average height of US men aged 20+ (women 63.5 in)", "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm", "quote": "Men: Height in inches: 68.9" },
+    { "number": "5.5–6.5 ft", "claim": "Eye-level framing range for standing talent", "url": "https://www.smallrig.com/blog/best-video-tripod-guide-live-streaming.html", "quote": "Eye-level framing for standing talent is usually near 5.5–6.5 ft, depending on talent height and lens." },
+    { "number": "1 kg", "claim": "Manfrotto safety payload for the PIXI clamp kit", "url": "https://www.manfrotto.com/global-en/pixi-mini-tripod-with-smartphone-clamp-black-made-in-italy-mkpixiclmii-bk/", "quote": "Safety Payload Weight: 1 kg 2.2 lbs" }
+  ],
+  "videos": [],
+  "internalLinkCandidates": [
+    "how-tall-should-a-tripod-be-for-my-height",
+    "best-tripod-for-content-creators",
+    "best-video-tripod-with-fluid-head-for-beginners",
+    "best-mini-tripod-for-desk-video-calls",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-content-creators",
+      "find": "The PIXI clamp kit is our pick for desk tutorials, countertop product shots and unboxing videos filmed from the front.",
+      "replace": "The PIXI clamp kit is our pick for desk tutorials, countertop product shots and unboxing videos filmed from the front, and it also shows up in our [tripods for live streaming](/blog/best-tripod-for-live-streaming/)."
+    },
+    {
+      "slug": "best-mini-tripod-for-desk-video-calls",
+      "find": "It is also less steady on uneven surfaces or fully extended, so we would run a webcam or phone near the top and keep heavier cameras off it.",
+      "replace": "It is also less steady on uneven surfaces or fully extended, so we would run a webcam or phone near the top and keep heavier cameras off it; our [live streaming tripod picks](/blog/best-tripod-for-live-streaming/) cover taller stands."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for whatnot",
+    "best tripod for whatnot streaming",
+    "best tripod for streaming",
+    "tripod for live streaming",
+    "best phone tripod for live streaming",
+    "streaming tripod"
+  ],
+  "angle": "Matched to the stream: which tripods actually reach a standing host's eye level (CDC heights), which suit a desk, and how to get an overhead product angle for live selling.",
+  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-live-streaming.entities.json); shared entities copied with relevance as salience. Smartphone and Whatnot added from the SERP (salience estimated)."
+}

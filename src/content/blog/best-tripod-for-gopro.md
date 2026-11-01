@@ -3,7 +3,8 @@ title: 'Best Tripod for GoPro (2026) – 5 Pocket, Grip and Flexible Picks'
 seoTitle: Best Tripod for GoPro (2026) – 5 Picks From 4.6 to 22 in
 description: >-
   The best tripod for GoPro is the Shorty for most people; the 3-Way 2.0, Volta,
-  MAX Grip + Tripod and SquidGrip cover reach, battery and grip. Mounts compared.
+  MAX Grip + Tripod and SquidGrip cover reach, battery and grip. Mounts
+  compared.
 pubDate: '2026-10-21T18:40:00.000Z'
 category: tabletop-mini-tripods
 keyword: best tripod for gopro
@@ -232,8 +233,9 @@ products:
       build: 8
       value: 7
     scoreNote: >-
-      I rate it the steadiest on uneven ground thanks to wrapped legs and a metal
-      ball head, but it weighs about 1 lb and its legs are only about a foot long.
+      I rate it the steadiest on uneven ground thanks to wrapped legs and a
+      metal ball head, but it weighs about 1 lb and its legs are only about a
+      foot long.
     owners:
       read: 4
       praise:
@@ -275,7 +277,9 @@ products:
       GoPro says it is weather-resistant, not waterproof, and an r/gopro owner
       says its fixed-length legs don't suit uneven ground.
     pros:
-      - Built-in 4900 mAh battery, over 5.5 hours of 4K30 with the camera battery
+      - >-
+        Built-in 4900 mAh battery, over 5.5 hours of 4K30 with the camera
+        battery
       - Works as a wireless remote from up to 98 ft (30 m)
       - DC Rainmaker found it steadier in wind than the Shorty
     cons:
@@ -286,7 +290,7 @@ products:
       Recording time: Over 5.5 hours of 4K30 with the camera battery (GoPro)
       Remote range: Up to 98 ft (30 m)
       Weight: 248 g (DC Rainmaker)
-      Max height (no center column): 'Not applicable (grip with flip-out legs)'
+      Max height (no center column): Not applicable (grip with flip-out legs)
       Mount: Mounting fingers that rotate and tilt the camera
       Water use: 'Weather-resistant, not waterproof (GoPro)'
     scores:
@@ -352,8 +356,8 @@ products:
       build: 6
       value: 6
     scoreNote: >-
-      I give it the top height score here at 22 in, but fixed legs on a long pole
-      mean I'd only extend it fully on level ground.
+      I give it the top height score here at 22 in, but fixed legs on a long
+      pole mean I'd only extend it fully on level ground.
     owners:
       read: 4
       praise:
@@ -364,7 +368,7 @@ products:
         - Sand or grit can jam the extension pole
         - Some HERO13 owners still see the grip in their shots
       sources:
-        - title: "Brad's Backpack: Max Grip + Tripod review"
+        - title: 'Brad''s Backpack: Max Grip + Tripod review'
           url: 'https://bradsbackpack.com/max-grip-tripod-review/'
         - title: 'r/gopro: Volta vs Max Grip + Tripod'
           url: >-
@@ -386,11 +390,14 @@ sources:
     url: >-
       https://www.prnewswire.com/news-releases/gopro-announces-two-new-cameras-the-399-hero13-black-and-the-199-hero-302237823.html
   - title: 'GoPro: Volta camera battery grip, tripod and remote'
-    url: 'https://gopro.com/en/us/shop/mounts-accessories/volta/APHGM-001-master.html'
+    url: >-
+      https://gopro.com/en/us/shop/mounts-accessories/volta/APHGM-001-master.html
   - title: 'GoPro: Max Grip + Tripod'
-    url: 'https://gopro.com/en/us/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html'
+    url: >-
+      https://gopro.com/en/us/shop/mounts-accessories/max-grip-plus-tripod/ASBHM-002.html
   - title: 'GoPro Community: HERO12 Black mounting fingers with 1/4-20 threaded mount'
-    url: 'https://community.gopro.com/s/article/HERO12-Black-Mounting-Fingers-With-1-4-20-Threaded-Mount'
+    url: >-
+      https://community.gopro.com/s/article/HERO12-Black-Mounting-Fingers-With-1-4-20-Threaded-Mount
   - title: 'Xenvo: SquidGrip tripod'
     url: 'https://www.xenvopro.com/pdp/squidgrip/'
   - title: 'Improve Photography: Best GoPro tripod'
@@ -415,9 +422,9 @@ faqs:
     a: >-
       Not for GoPro-made tripods, which use the mounting fingers. For a regular
       camera tripod, HERO12 Black and HERO13 Black screw on directly through
-      their 1/4-20 threads;
-      cameras without that thread need a tripod mount adapter, and a sturdy
-      branded one is worth it because cheap adapters can crack or jam.
+      their 1/4-20 threads; cameras without that thread need a tripod mount
+      adapter, and a sturdy branded one is worth it because cheap adapters can
+      crack or jam.
   - q: Is the GoPro Shorty worth it?
     a: >-
       For a pocket tripod, yes: it folds to 4.6 in and extends to 8.9 in, and
@@ -440,13 +447,14 @@ faqs:
     a: >-
       For tabletop time-lapses and selfies, 5 to 22 in is enough, the range of
       the Shorty, 3-Way 2.0 and MAX Grip + Tripod. For eye-level shots standing
-      up, you need a full-size tripod; none of the GoPro tripods here comes close.
+      up, you need a full-size tripod; none of the GoPro tripods here comes
+      close.
 author: editorial-team
 related:
+  - best-tabletop-camera-tripod
   - best-tripod-for-dji-osmo-pocket-3
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
   - best-mini-tripod-for-desk-video-calls
-  - best-hiking-tripod
 videos:
   - id: QW-DCmRaYXk
     afterHeading: 6

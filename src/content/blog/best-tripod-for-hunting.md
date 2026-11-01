@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
-  - best-tripod-under-100
-  - best-tripod-for-dji-osmo-action-5-pro
-  - best-tripod-for-medium-format-camera
-  - best-tripod-for-product-photography
+  - best-tripod-for-plein-air-painting
+  - best-tripod-for-live-streaming
+  - best-tripod-for-backcountry-hunting
+  - best-tripod-for-sony-fx3
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

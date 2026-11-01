@@ -1,0 +1,569 @@
+{
+  "keyword": "best tripod for plein air painting",
+  "createdAt": "2026-11-01T11:33:49.930Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for plein air painting",
+    "entityVariants": [
+      "best tripod for plein air painting",
+      "plein air tripod",
+      "best tripod for artists",
+      "tripod for pochade box",
+      "painting tripod",
+      "travel tripod for plein air easel"
+    ],
+    "entities": [
+      {
+        "name": "Tripod",
+        "type": "product type",
+        "relation": "camera tripod used as the base of a plein air easel; the central entity",
+        "salience": 0.78,
+        "pages": 4
+      },
+      {
+        "name": "En plein air",
+        "type": "concept",
+        "relation": "painting outdoors on location, the use case",
+        "salience": 0.67,
+        "pages": 4
+      },
+      {
+        "name": "Palette",
+        "type": "object",
+        "relation": "mixing surface held by the pochade box or a palette shelf on the tripod legs",
+        "salience": 0.6,
+        "pages": 3
+      },
+      {
+        "name": "Easel",
+        "type": "object",
+        "relation": "the tripod plus pochade box or panel holder forms a plein air easel",
+        "salience": 0.58,
+        "pages": 3
+      },
+      {
+        "name": "Carbon fiber",
+        "type": "material",
+        "relation": "carbon fiber legs cut carry weight",
+        "salience": 0.55,
+        "pages": 2
+      },
+      {
+        "name": "Painting",
+        "type": "activity",
+        "relation": "oil, acrylic, watercolor or pastel painting outdoors",
+        "salience": 0.54,
+        "pages": 4
+      },
+      {
+        "name": "Paint",
+        "type": "material",
+        "relation": "tubes and medium carried in the pochade box",
+        "salience": 0.55,
+        "pages": 2
+      },
+      {
+        "name": "Canvas",
+        "type": "object",
+        "relation": "panel or canvas held upright by the box lid or panel holder",
+        "salience": 0.44,
+        "pages": 2
+      },
+      {
+        "name": "Backpack",
+        "type": "object",
+        "relation": "hung from the center-column hook as ballast in wind",
+        "salience": 0.43,
+        "pages": 2
+      },
+      {
+        "name": "Pochade box",
+        "type": "object",
+        "relation": "paint box that mounts on the tripod's 1/4-20 screw or quick release plate",
+        "salience": 0.6,
+        "pages": 5
+      },
+      {
+        "name": "Ball head",
+        "type": "component",
+        "relation": "tilts the pochade box to the painting angle",
+        "salience": 0.5,
+        "pages": 4
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "standard",
+        "relation": "lets the box click on and off the head",
+        "salience": 0.45,
+        "pages": 2
+      }
+    ],
+    "attributes": [
+      "rated payload vs pochade box weight (tripod)",
+      "height with the center column down (tripod, standing painter)",
+      "folded length for a carry-on or backpack (tripod)",
+      "tripod weight (tripod)",
+      "leg lock type, twist or flip (tripod)",
+      "ballast hook under the center column (tripod)",
+      "ball head and quick release plate type (ball head)",
+      "monopod conversion (tripod)"
+    ],
+    "ngrams": [
+      "plein air painting",
+      "pochade box",
+      "travel tripod",
+      "ball head",
+      "quick release plate",
+      "center column",
+      "load capacity",
+      "carbon fiber",
+      "panel holder",
+      "lightweight travel tripod"
+    ],
+    "skipgrams": [
+      "pochade…tripod",
+      "ball…head",
+      "quick…plate",
+      "center…column",
+      "load…capacity",
+      "carbon…tripod",
+      "panel…holder",
+      "wind…hook"
+    ],
+    "nlpTerms": [
+      "easel",
+      "palette",
+      "panel",
+      "canvas",
+      "watercolor",
+      "oil painting",
+      "pastel",
+      "backpack",
+      "wind",
+      "twist locks",
+      "Arca-Swiss",
+      "1/4-20 screw",
+      "monopod",
+      "carry-on",
+      "chest height",
+      "hook"
+    ],
+    "questions": [
+      "What is the best tripod for plein air painting?",
+      "Can I use a camera tripod for plein air painting?",
+      "How much weight should a plein air tripod hold?",
+      "How tall should a tripod be for plein air painting?",
+      "Is carbon fiber worth it for a plein air tripod?",
+      "How do I keep a plein air tripod steady in wind?"
+    ],
+    "contentGaps": [
+      "Payload math: pochade box weight as a share of each tripod's rating, including Sirui's half-load advice at full height",
+      "Column-down height for standing painters, not only maximum height",
+      "A chooser by painting style (hiking, flying, standing at big panels, budget)",
+      "Step-by-step setup for wind with a ballast hook"
+    ],
+    "outline": [
+      {
+        "h2": "Plein air tripod comparison – payload, height and packed length",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How I picked tripods for plein air painting",
+        "intent": "method, who else recommends them, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for plein air painting, reviewed",
+        "intent": "product reviews",
+        "h3": [
+          "Manfrotto Befree Advanced Twist Carbon Tripod Kit: best overall plein air tripod",
+          "SIRUI Traveler 5CX Carbon Fiber Travel Tripod: lightest for hiking and flying",
+          "Peak Design Travel Tripod Aluminum: fastest setup",
+          "ZOMEI Q666 Aluminum Tripod: budget pochade tripod",
+          "Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod: for standing painters"
+        ]
+      },
+      {
+        "h2": "Which plein air painting tripod should you get",
+        "intent": "chooser by painter situation",
+        "h3": []
+      },
+      {
+        "h2": "Pochade box weight vs tripod payload",
+        "intent": "analysis with the pochade maker's load rule",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a plein air tripod so it stays steady in wind",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "Plein air tripod problems painters run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 1375,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+        "https://marcdalessio.com/carbon-fiber-painting-gear/",
+        "https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear",
+        "https://www.royconnelly.com/archives/2189",
+        "https://martletpochades.com/tripod-guide/",
+        "https://www.outdoorpainter.com/best-plein-air-easels-for-artists/"
+      ],
+      "productStyle": "specs",
+      "productStyleReason": "The only multi-product roundup in the top 10 (Lori McNee) presents each tripod as a spec list (build, load capacity, height, weight, features); the artist blogs (Marc Dalessio, Dianna Anderson, Roy Connelly) and the Martlet guide also lead with height, weight and load figures rather than pros/cons boxes.",
+      "avgWords": 1250,
+      "avgProducts": 3,
+      "commonSections": [
+        "what to look for in a tripod",
+        "load capacity",
+        "height",
+        "weight and portability",
+        "ball head and quick release",
+        "wind stability / hanging a bag"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/pleinair/comments/1kiyq5k/tripod_recommendations_for_pochade_boxes/",
+        "title": "Tripod recommendations for pochade boxes? : r/pleinair - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/groups/1753325714935278/posts/4401957960072027/",
+        "title": "I need to buy a new tripod for plein air painting. Any recommendations ..."
+      },
+      {
+        "position": 3,
+        "url": "https://marcdalessio.com/carbon-fiber-painting-gear/",
+        "title": "Carbon Fiber Painting Gear - Marc Dalessio"
+      },
+      {
+        "position": 4,
+        "url": "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+        "title": "Top 7 Lightweight Travel Tripods for Plein Air Painting - Lori McNee"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=GTFtbW16Blk",
+        "title": "Best Tripod for Plein Air Painting - Sirui 5CX - YouTube"
+      },
+      {
+        "position": 6,
+        "url": "https://www.stradaeasel.com/collections/all/best-plein-air-tripod",
+        "title": "Products Tagged \"best plein air tripod\" - STRADA Easel"
+      },
+      {
+        "position": 7,
+        "url": "https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear",
+        "title": "My Plein air Painting Gear | Dianna Anderson - Blog"
+      },
+      {
+        "position": 8,
+        "url": "https://stephenberryart.com/blog/2015/12/21/my-current-plein-air-setup-pt-3",
+        "title": "Plein Air Setups, pt. 1- Manufactured Options - Stephen Berry Art"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/shorts/IU-ANunrcmI",
+        "title": "My Favorite Lightweight Tripod for Plein Air Painting - YouTube"
+      },
+      {
+        "position": 10,
+        "url": "https://www.judsonsart.com/collections/tripods-accessories-1",
+        "title": "Tripods & Accessories - Judsons Art Outfitters"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "lightweight",
+        "travel",
+        "pochade box",
+        "carbon fiber",
+        "recommendations"
+      ],
+      "gap": "No top-10 title checks tripod payload against pochade box weight or names a pick for standing painters; most results are forum threads, one-tripod blog posts and store pages."
+    },
+    "serpProducts": [
+      {
+        "name": "Manfrotto Befree Advanced (carbon)",
+        "pages": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://www.reddit.com/r/pleinair/comments/1kiyq5k/tripod_recommendations_for_pochade_boxes/",
+          "https://www.outdoorpainter.com/best-plein-air-easels-for-artists/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5CX / Sirui travel tripods",
+        "pages": [
+          "https://www.youtube.com/watch?v=GTFtbW16Blk",
+          "https://marcdalessio.com/carbon-fiber-painting-gear/",
+          "https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear",
+          "https://www.reddit.com/r/pleinair/comments/1oir8ut/new_to_plein_air_need_help_selecting_a_tripod/",
+          "https://www.facebook.com/groups/403006076777641/posts/1488237721587799/"
+        ]
+      },
+      {
+        "name": "Peak Design Travel Tripod",
+        "pages": [
+          "https://www.outdoorpainter.com/best-plein-air-easels-for-artists/",
+          "https://www.virtualartacademy.com/plein-air-easel/",
+          "https://cristianmoraartblog.com/index.php/2023/10/10/backpack-essentials-for-a-successful-plein-air-painting-session/",
+          "https://www.facebook.com/groups/403006076777641/posts/1956696024741964/"
+        ]
+      },
+      {
+        "name": "ZOMEI Q666",
+        "pages": [
+          "https://martletpochades.com/tripod-guide/",
+          "https://www.facebook.com/AlionaPriceFineArt/videos/tested-out-today-my-new-pleinair-set-up-and-i-love-it-so-far-thank-you-to-sadiev/5575147009210603/",
+          "https://www.facebook.com/groups/403006076777641/posts/1956696024741964/"
+        ]
+      },
+      {
+        "name": "Benro MeFOTO RoadTrip",
+        "pages": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://www.reddit.com/r/pleinair/comments/1kt17to/tripods_for_tall_people/",
+          "https://www.picardstudio.com/travel-supplies"
+        ]
+      }
+    ],
+    "serpProductsRejected": [
+      {
+        "name": "Fujing/Obo N255CL",
+        "reason": "recommended in several r/pleinair threads and by Daybreak Easel, but no Amazon US listing found on 2026-11-01"
+      },
+      {
+        "name": "Slik Sprint Pro III",
+        "reason": "recommended by Lori McNee; rated about 4.4-4.5 lb, too low for most pochade boxes, and its Amazon listing is thin third-party stock"
+      },
+      {
+        "name": "STRADA CF305",
+        "reason": "sold by Strada, not as its own Amazon US listing"
+      },
+      {
+        "name": "Gitzo Traveler Series 0",
+        "reason": "only one top-10 page recommends it"
+      },
+      {
+        "name": "Zomei Q555",
+        "reason": "only one r/pleinair comment recommends it"
+      }
+    ],
+    "commonPoints": [
+      "A lightweight camera tripod with a ball head is the usual base for a pochade box",
+      "Load capacity must exceed the box plus wet panel",
+      "Carbon fiber saves weight but costs more than aluminum",
+      "A hook to hang a bag helps in wind",
+      "A quick release plate (Arca-type preferred) speeds setup"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Payload math: a 6 lb (2.7 kg) pochade box is about 30% of the Befree Advanced's 9 kg and the Peak Design's 20 lb rating, but about 91% of the 3 kg Sirui recommends for the 5CX at full height outdoors.",
+        "source": "Manfrotto spec page, Peak Design support page, Sirui 5CX listing text, Facebook plein air group thread on a 6 lb pochade box",
+        "absentFrom": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear",
+          "https://martletpochades.com/tripod-guide/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Column-down height for standing painters: Befree Advanced about 50 in (127 cm), Peak Design 51.25 in, RoadTrip Pro 45.47 in; the pochade maker's rule is box at chest level.",
+        "source": "Trevor Sherwin review quoting Manfrotto, Shutter Muse Peak Design table, B&H RoadTrip Pro specs, Martlet tripod guide",
+        "absentFrom": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://www.royconnelly.com/archives/2189",
+          "https://www.outdoorpainter.com/best-plein-air-easels-for-artists/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by painter situation: flying or hiking light, standing at large panels, heavy box in wind, tight budget.",
+        "source": "our decision rule from the specs above",
+        "absentFrom": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://martletpochades.com/tripod-guide/",
+          "https://marcdalessio.com/carbon-fiber-painting-gear/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Pochade box turning on the plate: use a wider plate and spare Arca-type plates; wind: column down, legs wide, bag on the hook, umbrella down above a strong breeze.",
+        "source": "Martlet tripod guide, Dianna Anderson, NWS Beaufort scale",
+        "absentFrom": [
+          "https://lorimcnee.com/top-7-lightweight-travel-tripods-for-plein-air-painting/",
+          "https://marcdalessio.com/carbon-fiber-painting-gear/",
+          "https://www.royconnelly.com/archives/2189"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "camera-tripods-wind-vibration",
+        "pain": "Wind makes the whole tripod vibrate",
+        "details": "Outdoor users see legs act like a sail; advice is to stay low and block the wind.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "Wind will vibrate across the legs and transmit up to the camera.",
+            "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-weighing-down-for-stability",
+        "pain": "Owners are unsure how to add weight for stability",
+        "details": "Hanging a backpack from the hook helps; plein air painters on r/pleinair say to make sure the tripod has a counterweight hook.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+          "https://www.reddit.com/r/pleinair/comments/1kiyq5k/tripod_recommendations_for_pochade_boxes/"
+        ],
+        "quotes": [
+          {
+            "text": "Some tripods come with a hook that you can hang your bag on to use for your extra mass, which helps a bit.",
+            "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-center-column-vibration",
+        "pain": "Raising the center column makes the tripod shake",
+        "details": "A tripod steady on its legs gets wobbly with the column up, which matters when a standing painter needs height.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+            "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "plein-air-pochade-turns-on-plate",
+        "pain": "A big pochade box twists on the tripod plate while painting",
+        "details": "Pochade maker Martlet advises a wider quick release plate for big boxes; Dianna Anderson advises spare Arca-type plates.",
+        "sources": [
+          "https://martletpochades.com/tripod-guide/",
+          "https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear"
+        ],
+        "quotes": [
+          {
+            "text": "If you have a big pochade, also look for a wider quick release plate.",
+            "url": "https://martletpochades.com/tripod-guide/"
+          }
+        ]
+      },
+      {
+        "id": "plein-air-tripod-too-short-standing",
+        "pain": "Travel tripods are too short for painters who stand",
+        "details": "r/pleinair has a thread on tripods for tall people; the pochade maker's rule is a box at chest level.",
+        "sources": [
+          "https://www.reddit.com/r/pleinair/comments/1kt17to/tripods_for_tall_people/",
+          "https://martletpochades.com/tripod-guide/"
+        ],
+        "quotes": [
+          {
+            "text": "The maximum height of the tripod should be enough to place a pochade box at the level of your chest.",
+            "url": "https://martletpochades.com/tripod-guide/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "12 kg or more",
+        "claim": "Weight limit a pochade maker recommends for larger pochade boxes",
+        "url": "https://martletpochades.com/tripod-guide/",
+        "quote": "for the larger pochade boxes the weight limit should be 12 kg or more."
+      },
+      {
+        "number": "25-31 mph",
+        "claim": "Strong breeze, Beaufort force 6, when umbrellas are used with difficulty",
+        "url": "https://www.weather.gov/mfl/beaufort",
+        "quote": "6 | 25-31 | 22-27 | Strong Breeze ... Large branches in motion; whistling heard in telegraph wires; umbrellas used with difficulty."
+      },
+      {
+        "number": "9 kg (19.84 lbs)",
+        "claim": "Manfrotto Befree Advanced carbon twist safety payload",
+        "url": "https://www.manfrotto.com/global-en/befree-advanced-carbon-fiber-travel-tripod-twist-ball-head-mkbfrtc4-bhus/",
+        "quote": "Safety Payload UNI/PdR 105:2021 9 kg 19.84 lbs"
+      },
+      {
+        "number": "60 inches, 20 pound",
+        "claim": "Peak Design Travel Tripod height and capacity",
+        "url": "https://support.peakdesign.com/pages/travel-tripod",
+        "quote": "Deploys to 60 inches and has a 20 pound weight capacity."
+      }
+    ],
+    "videos": [
+      {
+        "id": "GeoQ7dt5ZWA",
+        "title": "Tripod 101 for Artists, painting plein air",
+        "channel": "Raven Art",
+        "url": "https://www.youtube.com/watch?v=GeoQ7dt5ZWA",
+        "section": "Pochade box weight vs tripod payload"
+      }
+    ],
+    "internalLinkCandidates": [
+      "how-to-stop-tripod-shake-in-wind",
+      "carbon-fiber-vs-aluminum-tripod-for-hiking",
+      "how-tall-should-a-tripod-be-for-my-height",
+      "best-tripod-quick-release-plate",
+      "best-tripod-feet-for-sand-snow-and-rock"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
+        "find": "A light carbon tripod lacks only the weight, which is easy to add.",
+        "replace": "A light carbon tripod lacks only the weight, which is easy to add, a trick every [tripod for plein air painting](/blog/best-tripod-for-plein-air-painting/) relies on too."
+      },
+      {
+        "slug": "how-to-stop-tripod-shake-in-wind",
+        "find": "Use your body, an umbrella or a rock.",
+        "replace": "Use your body, an umbrella or a rock, the same shields painters use around a [plein air painting tripod](/blog/best-tripod-for-plein-air-painting/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for artists",
+      "best tripod for pochade box",
+      "plein air tripod",
+      "lightweight tripod for plein air painting",
+      "tripod for plein air easel"
+    ],
+    "angle": "Camera tripods for pochade boxes matched by payload share, column-down height and packed length, with a wind setup routine.",
+    "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (4 analyzed; Dianna Anderson blocked the fetch); shared entities in data/briefs/best-tripod-for-plein-air-painting.entities.json, relevance copied as salience. Pochade box, Ball head and Arca-Swiss plate added with estimated salience from headings across top pages. Entity names shortened to the plain phrases readers use (Tripod, Palette, Carbon fiber, Arca-Swiss plate); Gitzo dropped as off-topic (not featured)."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    }
+  ]
+}

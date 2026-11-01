@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:30:12.206Z",
+  "updatedAt": "2026-11-01T11:31:30.658Z",
   "categories": {
     "camera-tripods": [
       {
@@ -6285,6 +6285,37 @@
         ],
         "foundAt": "2026-10-30",
         "searches": []
+      },
+      {
+        "id": "phone-tripods-live-stream-charging",
+        "pain": "The phone battery runs down during a long live stream on a stand or tripod",
+        "details": "Whatnot sellers ask r/whatnotapp what stand to use; one answer picks a MagSafe charging stand so the phone stays charged through the live.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/",
+            "platform": "reddit",
+            "title": "What do you use for phone stand/lighting? Iphone14 Pro",
+            "seen": "2026-11-01"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The MagSafe stand makes it so my phone stays charged through the live and it has some tilting abilities.",
+            "url": "https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for whatnot streaming"
+        ],
+        "keywords": [
+          "best tripod for live streaming"
+        ],
+        "coveredBy": [
+          "best-tripod-for-live-streaming"
+        ],
+        "foundAt": "2026-11-01"
       }
     ]
   }

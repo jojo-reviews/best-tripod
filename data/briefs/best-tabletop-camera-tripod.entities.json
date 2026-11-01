@@ -1,0 +1,181 @@
+{
+  "keyword": "best tabletop camera tripod",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.99,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 5,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 4,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 4,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Point-and-shoot camera",
+      "type": "/digicams/camera_format",
+      "pages": 4,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Point-and-shoot_camera"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 4,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+    },
+    {
+      "entity": "Pedco",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.8,
+      "wiki": ""
+    },
+    {
+      "entity": "2026-01-01T00:00:00.000+00:00",
+      "type": "Time",
+      "pages": 2,
+      "relevance": 0.76,
+      "wiki": ""
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "SmallRig",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": ""
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Joby",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": ""
+    },
+    {
+      "entity": "Screw",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Screw"
+    },
+    {
+      "entity": "Spider",
+      "type": "Species",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Spider"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Telephoto lens",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+    },
+    {
+      "entity": "Full-frame DSLR",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Gear"
+    },
+    {
+      "entity": "Macro photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+    }
+  ]
+}

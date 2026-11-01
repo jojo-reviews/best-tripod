@@ -1,0 +1,602 @@
+{
+  "centralEntity": "tabletop camera tripod",
+  "entityVariants": [
+    "tabletop tripod",
+    "table top tripod",
+    "mini tripod",
+    "desktop tripod",
+    "tabletop mini tripod",
+    "pocket tripod"
+  ],
+  "entities": [
+    {
+      "name": "Tripod (photography)",
+      "type": "concept",
+      "relation": "central entity",
+      "salience": 0.99,
+      "pages": 5
+    },
+    {
+      "name": "Camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "device the tripod supports",
+      "salience": 0.54,
+      "pages": 5
+    },
+    {
+      "name": "Leg",
+      "type": "AnatomicalStructure",
+      "relation": "tripod part; fixed, folding or flexible",
+      "salience": 0.74,
+      "pages": 4
+    },
+    {
+      "name": "Lens",
+      "type": "/law/invention",
+      "relation": "adds front weight that can tip a small tripod",
+      "salience": 0.45,
+      "pages": 4
+    },
+    {
+      "name": "Point-and-shoot camera",
+      "type": "/digicams/camera_format",
+      "relation": "lightest load class for tabletop tripods",
+      "salience": 0.4,
+      "pages": 4
+    },
+    {
+      "name": "Photography",
+      "type": "/broadcast/genre",
+      "relation": "field",
+      "salience": 0.35,
+      "pages": 4
+    },
+    {
+      "name": "Manfrotto",
+      "type": "Agent",
+      "relation": "maker of PIXI and PIXI EVO",
+      "salience": 0.64,
+      "pages": 3
+    },
+    {
+      "name": "Photographer",
+      "type": "/organization/role",
+      "relation": "user",
+      "salience": 0.43,
+      "pages": 3
+    },
+    {
+      "name": "Weight",
+      "type": "concept",
+      "relation": "attribute: tripod weight and payload",
+      "salience": 0.43,
+      "pages": 3
+    },
+    {
+      "name": "Smartphone",
+      "type": "/book/book_subject",
+      "relation": "common load with a clamp",
+      "salience": 0.32,
+      "pages": 3
+    },
+    {
+      "name": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "relation": "heavy load class",
+      "salience": 0.29,
+      "pages": 3
+    },
+    {
+      "name": "Pedco",
+      "type": "Company",
+      "relation": "maker of UltraPod (alternative)",
+      "salience": 0.8,
+      "pages": 2
+    },
+    {
+      "name": "Ball",
+      "type": "/interests/collection_category",
+      "relation": "ball head mechanism",
+      "salience": 0.68,
+      "pages": 2
+    },
+    {
+      "name": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "relation": "main load class for tabletop tripods",
+      "salience": 0.54,
+      "pages": 2
+    },
+    {
+      "name": "SmallRig",
+      "type": "Company",
+      "relation": "maker of BUT2664",
+      "salience": 0.46,
+      "pages": 2
+    },
+    {
+      "name": "Aluminium",
+      "type": "ChemicalSubstance",
+      "relation": "leg material",
+      "salience": 0.46,
+      "pages": 2
+    },
+    {
+      "name": "Joby",
+      "type": "Company",
+      "relation": "maker of GorillaPod 3K",
+      "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "Screw",
+      "type": "/law/invention",
+      "relation": "1/4\"-20 mounting screw",
+      "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "Height",
+      "type": "/people/measured_body_part",
+      "relation": "attribute: working height",
+      "salience": 0.34,
+      "pages": 2
+    },
+    {
+      "name": "Telephoto lens",
+      "type": "/business/product_category",
+      "relation": "front-heavy lens that needs a stronger head",
+      "salience": 0.33,
+      "pages": 2
+    },
+    {
+      "name": "Full-frame DSLR",
+      "type": "concept",
+      "relation": "heaviest load class",
+      "salience": 0.31,
+      "pages": 2
+    },
+    {
+      "name": "Macro photography",
+      "type": "/visual_art/visual_art_genre",
+      "relation": "use case: low, steady close-ups",
+      "salience": 0.29,
+      "pages": 2
+    }
+  ],
+  "attributes": [
+    "max working height (tabletop tripod)",
+    "minimum height (tabletop tripod)",
+    "safety payload of the ball head (ball head)",
+    "leg load rating vs head load rating (tripod legs)",
+    "folded length (tabletop tripod)",
+    "weight (tabletop tripod)",
+    "leg angles and leg sections (legs)",
+    "Arca-Swiss quick-release plate (ball head)",
+    "1/4\"-20 screw mount (camera)",
+    "flexible vs rigid legs (legs)"
+  ],
+  "ngrams": [
+    "tabletop tripod",
+    "mini tripod",
+    "ball head",
+    "load capacity",
+    "rubber feet",
+    "push button",
+    "quick release plate",
+    "leg angles",
+    "mirrorless camera",
+    "1/4 inch screw",
+    "bubble level",
+    "camera and lens"
+  ],
+  "skipgrams": [
+    "ball…lock",
+    "legs…angle",
+    "camera…tip",
+    "load…head",
+    "height…legs",
+    "lens…forward"
+  ],
+  "nlpTerms": [
+    "payload",
+    "creep",
+    "sag",
+    "center of gravity",
+    "footprint",
+    "low angle",
+    "macro",
+    "vlogging",
+    "panorama",
+    "Arca-type",
+    "technopolymer",
+    "aluminum alloy",
+    "folded length",
+    "working height"
+  ],
+  "questions": [
+    "What is the best tabletop camera tripod?",
+    "Can a tabletop tripod hold a DSLR?",
+    "Are tabletop tripods good for macro photography?",
+    "How tall is a tabletop tripod?",
+    "Is a GorillaPod better than a rigid mini tripod?",
+    "Can I use a tabletop tripod with an iPhone?"
+  ],
+  "contentGaps": [
+    "Head rating vs leg rating: the head is the weak link (SmallRig legs 20 kg, head 2 kg)",
+    "Camera + lens weight against each pick's payload with a margin rule",
+    "Leg pointing under the lens to stop front-heavy tipping",
+    "Which pick for macro, DSLR, phone and travel in one chooser"
+  ],
+  "outline": [
+    {
+      "h2": "Tabletop camera tripod comparison table",
+      "intent": "compare the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked each tabletop camera tripod",
+      "intent": "selection method and sources",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tabletop camera tripods",
+      "intent": "product reviews",
+      "h3": [
+        "Manfrotto PIXI Mini (MTPIXI-B): best simple tabletop camera tripod",
+        "Manfrotto PIXI EVO 2-Section Mini Tripod: best for mirrorless cameras",
+        "SmallRig Mini Tabletop Tripod BUT2664: best tabletop tripod with an Arca-type head",
+        "JOBY GorillaPod 3K Kit: best flexible tabletop tripod",
+        "Ulanzi MT-16 Extendable Tripod: best budget tabletop tripod with height",
+        "Which one should you get"
+      ]
+    },
+    {
+      "h2": "Tabletop camera tripod load: match it to your camera and lens",
+      "intent": "analysis: head vs leg rating and margin",
+      "h3": []
+    },
+    {
+      "h2": "How to stop a tabletop tripod tipping or sagging",
+      "intent": "situation: pain points with steps",
+      "h3": []
+    },
+    {
+      "h2": "Tabletop camera tripod for macro, DSLR and iPhone",
+      "intent": "secondary keywords",
+      "h3": []
+    }
+  ],
+  "targetWords": 2000,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+      "https://fstoppers.com/reviews/leofotos-mt-04-mini-tripod-best-tabletop-tripods-686973",
+      "https://shotkit.com/best-mini-tripod/",
+      "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+      "https://www.photoworkout.com/best-tabletop-tripods/",
+      "https://nightskypix.com/best-mini-and-tabletop-tripods/",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Shotkit, Rosenberry Rooms and Photoworkout list strengths and drawbacks per product with a spec line; Fstoppers uses liked/didn't-like lists.",
+    "avgWords": 2000,
+    "avgProducts": 6,
+    "commonSections": [
+      "comparison table",
+      "product reviews",
+      "buying guide (load, height, head, material)",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/Tabletop-Travel-Tripods/b?ie=UTF8&node=499308",
+      "title": "Amazon.com: Tabletop & Travel Tripods"
+    },
+    {
+      "position": 2,
+      "url": "https://leofotousa.com/collections/table-ground-tripods",
+      "title": "Table Tripods - Leofoto USA"
+    },
+    {
+      "position": 3,
+      "url": "https://fstoppers.com/reviews/leofotos-mt-04-mini-tripod-best-tabletop-tripods-686973",
+      "title": "Leofoto's MT-04 Mini Tripod: The Best of the Tabletop Tripods? | Fstoppers"
+    },
+    {
+      "position": 4,
+      "url": "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+      "title": "Best mini tripods in 2026: tabletop supports that slip into a pocket or bag"
+    },
+    {
+      "position": 5,
+      "url": "https://www.reddit.com/r/bmpcc/comments/vurl3w/recommendations_for_short_tripodstand_to_put_on/",
+      "title": "r/bmpcc on Reddit: recommendations for short tripod/stand to put on desk ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.magnustripods.com/products/Tripods/Tabletop-%26-Mini-Tripods",
+      "title": "Tabletop & Mini Tripods | Magnus"
+    },
+    {
+      "position": 7,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1qxcr02/which_tabletop_tripod_to_buy_for_landscape_and/",
+      "title": "Which tabletop tripod to buy for landscape and astro during hiking?"
+    },
+    {
+      "position": 8,
+      "url": "https://www.bhphotovideo.com/c/buy/Tabletop-Mini-Tripods/ci/391/N/4075788740",
+      "title": "Tabletop & Mini Tripods - B&H Photo"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=rA5G1zGCe_E",
+      "title": "The SmallRig Tabletop Mini Tripod Is Almost Perfect - YouTube"
+    },
+    {
+      "position": 10,
+      "url": "https://www.bestbuy.com/site/shop/tabletop-tripods",
+      "title": "Tabletop Tripods - Best Buy"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 0,
+    "commonModifiers": [
+      "tabletop",
+      "mini tripods",
+      "best",
+      "pocket or bag"
+    ],
+    "gap": "No top-10 title uses the exact keyword, gives a pick count or matches picks to camera weight; the SERP is mostly stores, forums and a single-product review."
+  },
+  "commonPoints": [
+    "A tabletop tripod is a small, light support that fits a bag or pocket and works on tables, walls, rocks and the ground",
+    "The Manfrotto PIXI is the classic simple pick; the GorillaPod is the classic flexible pick",
+    "Check load capacity against your camera",
+    "Rubber feet and a ball head with a 1/4\" screw are standard",
+    "They are low, so they rely on a surface at the right height",
+    "Leg design trades flexibility for stability"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Head rating, not leg rating, limits a tabletop tripod: SmallRig rates the BUT2664 legs for 20 kg but its head for 2 kg; Leofoto-style kits and PIXI models put the limit at the head. Payload table for all 5 picks with a 50% margin rule against camera + lens weight.",
+      "source": "https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html ; https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/ ; https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/",
+      "absentFrom": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://www.photoworkout.com/best-tabletop-tripods/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Front-heavy tipping fix: point one leg straight under the lens, use the lower leg angle, keep the lens axis over the tripod center (owner advice on r/M43 and r/fujifilm, DPReview).",
+      "source": "https://www.reddit.com/r/M43/comments/77iwq3/mini_tripod_recommendations/ ; https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/",
+      "absentFrom": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://fstoppers.com/reviews/leofotos-mt-04-mini-tripod-best-tabletop-tripods-686973"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by camera class and surface: compact/phone -> PIXI Mini; mirrorless up to 2.5 kg on flat surfaces -> PIXI EVO; Arca plate and panoramas -> SmallRig; railings and rocks -> GorillaPod 3K; desk height -> Ulanzi MT-16.",
+      "source": "maker specs (manfrotto.com, smallrig.com, B&H JOBY 3K, ulanzi.com)",
+      "absentFrom": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://www.photoworkout.com/best-tabletop-tripods/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Ball head creep at a tilt and vertical shooting: PIXI EVO slips more in portrait (Pack Hacker 6-month review); use the head's 90-degree notch with the lens over a leg, or an Arca head with a drop notch.",
+      "source": "https://www.packhacker.com/travel-gear/manfrotto/pixi-evo-2-section-mini-tripod/",
+      "absentFrom": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://www.photoworkout.com/best-tabletop-tripods/"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Manfrotto PIXI Mini",
+      "pages": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://www.photoworkout.com/best-tabletop-tripods/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://nightskypix.com/best-mini-and-tabletop-tripods/"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/",
+        "https://independenttravelcats.com/best-travel-tripods/"
+      ]
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "pages": [
+        "https://shotkit.com/best-mini-tripod/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/"
+      ]
+    },
+    {
+      "name": "SmallRig Tabletop Mini Tripod BUT2664",
+      "pages": [
+        "https://www.lynnbarsigianphotography.com/?p=18102",
+        "https://www.requiemforadream.com/best-tabletop-tripods-for-vloggers/",
+        "https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/"
+      ]
+    },
+    {
+      "name": "Ulanzi MT-16",
+      "pages": [
+        "https://www.pavlovstudios.com/best-mini-tripod/",
+        "https://findingdulcinea.com/best-tabletop-tripods-january-2026/",
+        "https://www.rosenberryrooms.com/best-tabletop-tripods/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tripod-heads-mini-head-rated-load-sag",
+      "pain": "A mini ball head's rated load looks fine on paper, but it sags once a real mirrorless body and lens is mounted",
+      "details": "Buyers pick a tiny head for weight or travel, then find that a head rated slightly above the rig still creeps. Ultralight hikers like the 24 g bare ball head but accept it only for light loads.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/",
+        "https://www.reddit.com/r/Ultralight/comments/1ms9l39/ultralight_camera_tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "I bought a ball head that slightly exceeded my weight requirements but I get enough sag that it frustrates me significantly.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1qqwb0h/which_type_of_tripod_head_do_you_prefer/"
+        },
+        {
+          "text": "I really like the small 24g ball head",
+          "url": "https://www.reddit.com/r/Ultralight/comments/1ms9l39/ultralight_camera_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-flexible-legs-sag",
+      "pain": "Bendable GorillaPod-style legs loosen and sag as they age, so the camera droops",
+      "details": "Owners say flexible tripods work at first but the ball-and-socket joints lose tightness with use, which matters more with a heavier camera.",
+      "sources": [
+        "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/",
+        "https://www.reddit.com/r/videography/comments/6wh2mc/best_portable_form_of_stabilization_monopodtripod/",
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+      ],
+      "quotes": [
+        {
+          "text": "They get loose and sag as they get used/older (don't we all).",
+          "url": "https://www.reddit.com/r/AnalogCommunity/comments/t18oer/are_those_flexible_minitripod_worth_my_time/"
+        },
+        {
+          "text": "Note: The legs almost always lose tightness over time.",
+          "url": "https://www.reddit.com/r/videography/comments/6wh2mc/best_portable_form_of_stabilization_monopodtripod/"
+        },
+        {
+          "text": "All my gorilla pods broke after a couple of uses.",
+          "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-front-heavy-tipping",
+      "pain": "Small tripods tip forward with a front-heavy camera and zoom lens",
+      "details": "Owners find many mini tripods hold the weight on paper but topple forward with a mirrorless body and standard zoom, and flexible ones are less stable with heavier kit.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+      ],
+      "quotes": [
+        {
+          "text": "Quite a few tripods would support that combination, but would topple forward very easily.",
+          "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+        },
+        {
+          "text": "Not as stable as other mini tripods with heavier kit.",
+          "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-too-low-off-a-table",
+      "pain": "A mini tripod sits too low to film yourself unless there is a table, wall or ledge",
+      "details": "Travel vloggers and reviewers note a mini tripod barely lifts the camera off the ground, so it depends on flat surfaces at the right height.",
+      "sources": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.facebook.com/groups/djiosmopocket3/posts/1082160609880619/"
+      ],
+      "quotes": [
+        {
+          "text": "You’ll get off the ground, but not much more height than that",
+          "url": "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        },
+        {
+          "text": "Unless you're always going to be using flat surfaces, I'd recommend having a 'normal' camera tripod in your kit.",
+          "url": "https://www.facebook.com/groups/djiosmopocket3/posts/1082160609880619/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-head-slips-at-tilt",
+      "pain": "A mini tripod ball head will not hold the camera at a tilt and creeps out of position",
+      "details": "Owners report small integrated ball heads that fail to lock a Leica Q2 or a mirrorless body when angled, or creep after you aim them.",
+      "sources": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+      ],
+      "quotes": [
+        {
+          "text": "I tried two of those and on each the head would not lock properly using my Q2 at a tilt and so were returned.",
+          "url": "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/"
+        },
+        {
+          "text": "And the ball head might creep from where you initially point it anyway.",
+          "url": "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "20kg",
+      "claim": "SmallRig BUT2664 tripod legs (without ball head) payload, against a 2 kg ball head",
+      "url": "https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html",
+      "quote": "The tripod without ball head holds up to 20kg while the ball head itself holds up to 2kg."
+    },
+    {
+      "number": "2.5 kg",
+      "claim": "Manfrotto PIXI EVO safety payload",
+      "url": "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+      "quote": "Safety Payload Weight 2.5 kg 5.51 lbs"
+    },
+    {
+      "number": "1 kg",
+      "claim": "Manfrotto PIXI Mini safety payload",
+      "url": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/",
+      "quote": "Safety Payload Weight 1 kg 2.2 lbs"
+    }
+  ],
+  "videos": [
+    {
+      "id": "xaAhR2Lb254",
+      "title": "I Tested 6 Tabletop Tripods So You Don't Have To",
+      "channel": "Kri Edholm",
+      "url": "https://www.youtube.com/watch?v=xaAhR2Lb254",
+      "section": "How I picked each tabletop camera tripod"
+    }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-mini-tripod-for-desk-video-calls",
+      "find": "The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height mini tripod from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating.",
+      "replace": "The Manfrotto PIXI Mini (MTPIXI-B) is a fixed-height [tabletop camera tripod](/blog/best-tabletop-camera-tripod/) from Manfrotto: fixed legs, a ball head released by a push button, and a 1 kg rating."
+    },
+    {
+      "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "find": "The legs open to one fixed angle, so there is nothing to bend and nothing to sag.",
+      "replace": "The legs of a [rigid tabletop camera tripod](/blog/best-tabletop-camera-tripod/) open to one fixed angle, so there is nothing to bend and nothing to sag."
+    }
+  ],
+  "secondaryKeywords": [
+    "best table top tripod for dslr",
+    "best table top tripod for iphone",
+    "tabletop tripod for mirrorless camera",
+    "best tabletop tripod",
+    "table top camera tripod"
+  ],
+  "secondaryKeywordsNote": "Dropped \"best table top tripod for macro photography\" from the queue entry: it is already a secondary keyword of the live post best-tripod-for-macro-photography (linked instead)."
+}

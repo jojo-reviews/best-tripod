@@ -1,0 +1,693 @@
+{
+  "keyword": "best tripod for backcountry hunting",
+  "createdAt": "2026-11-01T11:31:08.914Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "backcountry hunting tripod",
+    "entityVariants": [
+      "tripod for backcountry hunting",
+      "backpack hunting tripod",
+      "ultralight hunting tripod",
+      "glassing tripod",
+      "mountain hunting tripod",
+      "elk hunting tripod",
+      "western hunting tripod"
+    ],
+    "entities": [
+      {
+        "name": "tripod",
+        "type": "concept",
+        "relation": "the product category the post ranks",
+        "salience": 0.97,
+        "pages": 5,
+        "textrazorName": "Tripod"
+      },
+      {
+        "name": "spotting scope",
+        "type": "concept",
+        "relation": "main optic carried on a backcountry glassing tripod",
+        "salience": 0.35,
+        "pages": 5,
+        "textrazorName": "Spotting scope"
+      },
+      {
+        "name": "binoculars",
+        "type": "/award/ranked_item",
+        "relation": "10x and 15x glass mounted with an adapter",
+        "salience": 0.3,
+        "pages": 5,
+        "textrazorName": "Binoculars"
+      },
+      {
+        "name": "leg",
+        "type": "AnatomicalStructure",
+        "relation": "leg sections, angles and locks decide packed length and stiffness",
+        "salience": 0.65,
+        "pages": 4,
+        "textrazorName": "Leg"
+      },
+      {
+        "name": "rifle",
+        "type": "/book/book_subject",
+        "relation": "some hunters shoot off the tripod; load rating matters",
+        "salience": 0.63,
+        "pages": 4,
+        "textrazorName": "Rifle"
+      },
+      {
+        "name": "hunting",
+        "type": "/interests/hobby",
+        "relation": "use case",
+        "salience": 0.63,
+        "pages": 4,
+        "textrazorName": "Hunting"
+      },
+      {
+        "name": "camera tripod",
+        "type": "concept",
+        "relation": "camera tripods double as glassing tripods",
+        "salience": 0.57,
+        "pages": 4,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "tripod head",
+        "type": "concept",
+        "relation": "pan head vs ball head for glassing",
+        "salience": 0.48,
+        "pages": 4,
+        "textrazorName": "Tripod head"
+      },
+      {
+        "name": "shooting",
+        "type": "/event/disaster_type",
+        "relation": "tripod as a rifle rest",
+        "salience": 0.56,
+        "pages": 3,
+        "textrazorName": "Shooting"
+      },
+      {
+        "name": "weight",
+        "type": "concept",
+        "relation": "carried weight is the deciding attribute in the backcountry",
+        "salience": 0.55,
+        "pages": 3,
+        "textrazorName": "Weight"
+      },
+      {
+        "name": "optics",
+        "type": "/business/industry",
+        "relation": "binoculars and spotting scopes",
+        "salience": 0.42,
+        "pages": 3,
+        "textrazorName": "Optics"
+      },
+      {
+        "name": "rifle scope",
+        "type": "concept",
+        "relation": "rifle scope on a tripod-mounted rifle",
+        "salience": 0.32,
+        "pages": 3,
+        "textrazorName": "Telescopic sight"
+      },
+      {
+        "name": "bipod",
+        "type": "concept",
+        "relation": "alternative rifle support the tripod replaces",
+        "salience": 0.64,
+        "pages": 2,
+        "textrazorName": "Bipod"
+      },
+      {
+        "name": "carbon fiber",
+        "type": "/projects/project_focus",
+        "relation": "leg material of the lightest picks",
+        "salience": 0.52,
+        "pages": 2,
+        "textrazorName": "Carbon-fiber reinforced polymer"
+      },
+      {
+        "name": "Arca rail",
+        "type": "concept",
+        "relation": "Arca-Swiss rail or saddle that joins rifle and tripod",
+        "salience": 0.46,
+        "pages": 2,
+        "textrazorName": "Weapon mount"
+      },
+      {
+        "name": "height",
+        "type": "/people/measured_body_part",
+        "relation": "seated vs standing glassing height",
+        "salience": 0.39,
+        "pages": 2,
+        "textrazorName": "Height"
+      },
+      {
+        "name": "backpack",
+        "type": "/business/product_category",
+        "relation": "where the tripod rides",
+        "salience": 0.3,
+        "pages": 2,
+        "textrazorName": "Backpack"
+      },
+      {
+        "name": "aluminum",
+        "type": "ChemicalSubstance",
+        "relation": "cheaper, heavier leg material",
+        "salience": 0.25,
+        "pages": 2,
+        "textrazorName": "Aluminium"
+      },
+      {
+        "name": "backcountry",
+        "type": "Place",
+        "relation": "remote country reached on foot",
+        "salience": 0.21,
+        "pages": 2,
+        "textrazorName": "Backcountry"
+      }
+    ],
+    "attributes": [
+      "carried weight (tripod plus head)",
+      "folded length vs pack side pocket",
+      "max height vs standing eye height",
+      "min height for prone and seated glassing",
+      "rated load vs spotting scope or rifle weight",
+      "leg sections and leg angles",
+      "leg lock type (twist or flip)",
+      "head type (pan head vs ball head) and Arca-Swiss plate",
+      "center column (detachable or fixed)",
+      "counterweight hook",
+      "stance width in wind"
+    ],
+    "ngrams": [
+      "backcountry hunting",
+      "glassing tripod",
+      "spotting scope",
+      "pan head",
+      "ball head",
+      "carbon fiber",
+      "center column",
+      "leg sections",
+      "twist lock",
+      "max height",
+      "folded length",
+      "Arca-Swiss",
+      "counterweight hook",
+      "seated glassing",
+      "shooting tripod",
+      "ultralight tripod"
+    ],
+    "skipgrams": [
+      "tripod…backpack",
+      "glassing…seated",
+      "spotting scope…wind",
+      "center column…stability",
+      "legs…fully extended",
+      "head…pan",
+      "weight…ounces",
+      "rifle…shoot off"
+    ],
+    "nlpTerms": [
+      "elk",
+      "mule deer",
+      "sheep",
+      "glassing",
+      "binoculars",
+      "15x",
+      "65mm",
+      "85mm",
+      "spotting scope",
+      "rifle",
+      "recoil",
+      "wind",
+      "ridge",
+      "pack",
+      "ounces",
+      "carbon fiber",
+      "aluminum",
+      "quarter-turn locks",
+      "prone",
+      "seated",
+      "standing",
+      "Arca rail",
+      "pan head",
+      "fluid head",
+      "ball head",
+      "bushing",
+      "3/8-16",
+      "1/4-20"
+    ],
+    "questions": [
+      "What is the best tripod for backcountry hunting?",
+      "How much should a backpack hunting tripod weigh?",
+      "How tall should a glassing tripod be?",
+      "Can you shoot a rifle off an ultralight tripod?",
+      "Pan head or ball head for glassing?",
+      "Is a carbon fiber tripod worth it for elk hunting?"
+    ],
+    "contentGaps": [
+      "Standing-height check against an average adult man (68.9 in, CDC) instead of a vague 'tall enough'",
+      "Folded length vs pack carry: which picks ride inside a pack and which must be strapped outside",
+      "Chooser by optic size (10x binoculars, 15x or 65mm spotter, 85mm spotter, rifle) from owner reports and load ratings",
+      "Head swap thread mismatch on Vortex legs (1/4-20 stud vs 3/8-16 heads needs a bushing)",
+      "Glassing tripods vs shooting: the maker itself steers rifle use to a sturdier model"
+    ],
+    "outline": [
+      {
+        "h2": "Backcountry hunting tripod comparison by weight, height and packed length",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these backcountry hunting tripods",
+        "intent": "selection rule, who else recommends them",
+        "h3": []
+      },
+      {
+        "h2": "The best backcountry hunting tripods, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Vortex Summit Carbon II Tripod Kit: best ultralight glassing tripod",
+          "Vortex Ridgeview Carbon Tripod Kit: best tripod for standing glassing",
+          "Leupold Alpine CF-425 Tripod Kit: lightest tripod that still stands 58 in",
+          "Vanguard VEO 3 GO 204AB G2: lightest budget backcountry tripod",
+          "Primos Trigger Stick Gen3 Tall Tripod: best backcountry shooting tripod"
+        ]
+      },
+      {
+        "h2": "Which backcountry hunting tripod should you get?",
+        "intent": "chooser",
+        "h3": []
+      },
+      {
+        "h2": "Backcountry tripod height for seated and standing glassing",
+        "intent": "height math with CDC average",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a backcountry hunting tripod on a windy slope",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "Backcountry hunting tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 2500,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+        "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+        "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+        "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+        "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods",
+        "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Outdoor Life, Field & Stream and Backwoods Pursuit present each tripod with pros/cons or liked/didn't-like lists plus a spec block.",
+      "avgWords": 2600,
+      "avgProducts": 7,
+      "commonSections": [
+        "selection factors (weight, stability, height, adjustability)",
+        "product reviews with specs",
+        "pan head vs ball head",
+        "shooting off the tripod",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+        "title": "12 Best Ultralight Tripods of 2026 | 2lb Weight Class - Backwoods Pursuit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+        "title": "Ultralight Tripods, Tested and Reviewed - Rokslide"
+      },
+      {
+        "position": 3,
+        "url": "https://sandsarchery.com/collections/lightweight-tripods",
+        "title": "Lightweight Hunting Tripods - S&S Archery"
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/Hunting/comments/1q3a94n/anyone_else_using_a_tripod_any_suggestions_for_a/",
+        "title": "Anyone else using a tripod? Any suggestions for a light weight one?"
+      },
+      {
+        "position": 5,
+        "url": "https://shop.gohunt.com/collections/tripods",
+        "title": "Tripods | Shop at GOHUNT"
+      },
+      {
+        "position": 6,
+        "url": "https://mtnhntr.com/pages/best-lightweight-tripod-for-hunting",
+        "title": "The Lightest Tripod for Hunting - Only 21 ounces - MTN HNTR"
+      },
+      {
+        "position": 7,
+        "url": "https://www.youtube.com/watch?v=15h9jeKRyJg",
+        "title": "MTN Hunter Tripod Honest Field Test Results | Best Hunting Tripods?"
+      },
+      {
+        "position": 8,
+        "url": "https://rokslide.com/forums/threads/favorite-backcountry-tripod.392113/",
+        "title": "Favorite backcountry tripod | Rokslide Forum"
+      },
+      {
+        "position": 9,
+        "url": "https://tricer.com/products/tricer-bc-carbon-backcountry-glassing-tripod-for-hunting",
+        "title": "Tricer BC Carbon Tripod"
+      },
+      {
+        "position": 10,
+        "url": "https://canatitripods.com/blogs/articles/how-to-choose-a-hunting-tripod-for-glassing-and-shooting",
+        "title": "How to Choose a Hunting Tripod for Glassing & Shooting – Muley Maniacs"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 3,
+      "commonModifiers": [
+        "ultralight",
+        "lightweight",
+        "2lb",
+        "tested",
+        "glassing",
+        "shooting"
+      ],
+      "gap": "No top title starts with the exact keyword or sorts picks by the weight you carry; none gives the weight range of the picks."
+    },
+    "commonPoints": [
+      "Carbon fiber saves weight over aluminum but costs more",
+      "Lighter tripods give up stability, especially with the center column raised or in wind",
+      "Pan heads glass more smoothly than ball heads",
+      "Max height decides whether you can glass standing",
+      "Glassing tripods are not ideal shooting rests"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Standing-height check: only the Ridgeview (73.8 in) is taller than the average US man (68.9 in, CDC); the Alpine (58 in), Summit Carbon II (53.3 in) and VEO 3 GO (51.4 in) are seated glassing tripods.",
+        "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+        "absentFrom": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Packed length vs carry: 13.4 in (VEO), 18.1 in (Summit) and 18.5 in (Alpine) ride inside or beside a pack; the Ridgeview's 29.0 in has to be strapped outside.",
+        "source": "https://vortexoptics.com/ridgeview-carbon-tripod.html",
+        "absentFrom": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by optic: 10x binoculars on the VEO (6.6 lb rating), 15x or 65mm on the Summit or Alpine, 85mm or standing glassing on the Ridgeview, rifle-first on the Primos.",
+        "source": "https://rokslide.com/forums/threads/vortex-summit-2-tripod.261389/",
+        "absentFrom": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Swapping the stock head on Vortex legs: the legs use a 1/4-20 stud and most fluid pan heads have a 3/8 insert, so carry a bushing; an owner adds a rubber washer as a lock.",
+        "source": "https://rokslide.com/forums/threads/vortex-summit-2-tripod.261389/",
+        "absentFrom": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Shooting off a glassing tripod: Leupold itself recommends its Pro Guide for rifle use over the 13 lb Alpine.",
+        "source": "https://www.leupold.com/alpine-cf-425-tripod-kit",
+        "absentFrom": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Vortex Ridgeview Carbon Tripod Kit",
+        "pages": [
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "name": "Vortex Summit Carbon II Tripod Kit",
+        "pages": [
+          "https://www.themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html"
+        ]
+      },
+      {
+        "name": "Leupold Alpine CF-425 Tripod Kit",
+        "pages": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/"
+        ]
+      },
+      {
+        "name": "Vanguard VEO 3 GO 204AB",
+        "pages": [
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/"
+        ]
+      },
+      {
+        "name": "Primos Trigger Stick Gen3 Tall Tripod",
+        "pages": [
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://rokslide.com/forums/threads/rifle-tripod-setup-for-elk-hunt.218377/"
+        ]
+      },
+      {
+        "name": "MTN HNTR SS (not on Amazon, skipped)",
+        "pages": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/"
+        ]
+      },
+      {
+        "name": "Aziak Backcountry Lite (not on Amazon, skipped)",
+        "pages": [
+          "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "camera-tripods-scope-height-straight-vs-angled",
+        "pain": "The tripod is too short to glass standing, especially with a straight spotting scope",
+        "details": "Buyers do not know whether a compact tripod reaches eye level with a spotting scope; owners explain that angled scopes work with shorter legs while straight scopes need taller tripods, and some still bend their knees at full height.",
+        "sources": [
+          "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/",
+          "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+        ],
+        "quotes": [
+          {
+            "text": "For an angled scope, the shorter tripod will work well. Straight scopes need taller tripods.",
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/"
+          },
+          {
+            "text": "it is not as comfortable as the others like the Bresser as I do have to bend my knees slightly",
+            "url": "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-scope-full-height-wobble",
+        "pain": "A light backpacking tripod wobbles at full height with a big spotting scope",
+        "details": "Owners comparing ultralight carbon tripods with an 85mm scope report legs that spread, bend or wiggle at full extension; others say the same light legs are solid with 65mm scopes or when sitting.",
+        "sources": [
+          "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/",
+          "https://rokslide.com/forums/threads/ultralight-tripod-options.277003/"
+        ],
+        "quotes": [
+          {
+            "text": "The slik is very wobbly and at full extension with any decent weight, the legs wants to start to spread and bend.",
+            "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+          },
+          {
+            "text": "Using an 85mm scope on light duty tripods, with legs fully extended, is an unrealistic expectation and muddies the water.",
+            "url": "https://rokslide.com/forums/threads/tripod-comparison-slik-634-vs-sirui-t-024-vs-sirui-7c.276864/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-ball-head-flops-with-scope",
+        "pain": "A ball head lets the spotting scope flop over when unlocked",
+        "details": "Ball heads release every axis at once, so a heavy scope or big binocular swings when loosened; glassers and birders prefer pan or fluid heads with separate pan and tilt control.",
+        "sources": [
+          "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/",
+          "https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/"
+        ],
+        "quotes": [
+          {
+            "text": "Ball heads work to only they are sensitive when you unlock the optic as they can move wherever.",
+            "url": "https://rokslide.com/forums/threads/school-me-on-spotting-scope-tripods.194684/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-glassing-tripod-not-rated-for-rifle",
+        "pain": "A glassing tripod is not built to shoot a rifle off",
+        "details": "Western hunters want one tripod for optics and rifle; others warn optics tripods are not rated for the weight and recoil and that shooting tripods are heavier.",
+        "sources": [
+          "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/",
+          "https://www.reddit.com/r/BackcountryHunting/comments/14g5tk9/glassing_tripod_vs_shooting/"
+        ],
+        "quotes": [
+          {
+            "text": "Most optics tripods arent rated for the weight & recoil",
+            "url": "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+          },
+          {
+            "text": "A shooting tripod tends to be noticeably heavier and more stable as you're putting your weight into it during usage.",
+            "url": "https://www.reddit.com/r/BackcountryHunting/comments/14g5tk9/glassing_tripod_vs_shooting/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-glassing-pan-head-sticky",
+        "pain": "A cheap pan head sticks and jumps while scanning with binoculars",
+        "details": "Glassers find the head matters more than the legs; a sticky head makes slow, precise panning impossible.",
+        "sources": [
+          "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+        ],
+        "quotes": [
+          {
+            "text": "the head is sticky and jumps around. Very hard to pan smoothly and with precision.",
+            "url": "https://www.hunttalk.com/threads/best-glassing-tripod-for-less-than-150.288444/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-sandbag-dead-weight",
+        "pain": "Carrying a sandbag or metal weight on a hike is dead weight",
+        "details": "Hikers and landscape shooters don't want to carry a kilo or more of weight that only helps a few shots; a sandbag can cancel a carbon tripod's weight saving.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+          "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+        ],
+        "quotes": [
+          {
+            "text": "The point is that carrying an extra kilo or so of dead weight (OP's photo) isn't the best solution.",
+            "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+          },
+          {
+            "text": "the combined carbon fiber tripod and added weight of carrying a sandbag may actually weigh more than an aluminum tripod.",
+            "url": "https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "68.9",
+        "claim": "average height of US men 20 and over, in inches",
+        "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+        "quote": "Men: Height in inches: 68.9"
+      },
+      {
+        "number": "73.8\"",
+        "claim": "Vortex Ridgeview Carbon max height",
+        "url": "https://vortexoptics.com/ridgeview-carbon-tripod.html",
+        "quote": "Max Height | 73.8\""
+      },
+      {
+        "number": "32 ounces",
+        "claim": "Leupold Alpine CF-425 weight",
+        "url": "https://www.leupold.com/alpine-cf-425-tripod-kit",
+        "quote": "Its compact design weighs in at a mere 32 ounces"
+      },
+      {
+        "number": "2.5 lbs.",
+        "claim": "Vortex Summit Carbon II weight",
+        "url": "https://vortexoptics.com/summit-carbon-2-tripod.html",
+        "quote": "Weight | 2.5 lbs."
+      },
+      {
+        "number": "13.4 inches",
+        "claim": "Vanguard VEO 3 GO 204AB G2 folded length",
+        "url": "https://www.vanguardworld.com/products/veo-3-go-204ab-gen-2-aluminum-travel-size-camera-video-tripod-w-ball-head",
+        "quote": "Compact travel tripod folds to 13.4 inches and weighs only 2.1 pounds"
+      }
+    ],
+    "videos": [
+      {
+        "id": "BCPS00u9Pdc",
+        "title": "Vortex Tripod Comparison: Mountain Pass vs High Country II vs Summit Carbon II",
+        "channel": "Vortex Optics",
+        "url": "https://www.youtube.com/watch?v=BCPS00u9Pdc",
+        "section": "The best backcountry hunting tripods, reviewed"
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-hunting",
+        "find": "Owners agree on the weight, which is what matters on a backcountry hunt, and on the steadiness.",
+        "replace": "Owners agree on the weight, which is what matters on a [backcountry hunt](/blog/best-tripod-for-backcountry-hunting/), and on the steadiness."
+      },
+      {
+        "slug": "best-tripod-for-binoculars",
+        "find": "It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits the backcountry.",
+        "replace": "It weighs 2.5 lb with its Arca-Swiss pan head, folds to 18.1 in, uses quarter-turn leg locks and has a 22 lb load rating, so it suits [backcountry hunting](/blog/best-tripod-for-backcountry-hunting/)."
+      }
+    ],
+    "textrazor": {
+      "pagesAnalyzed": 5,
+      "file": "data/briefs/best-tripod-for-backcountry-hunting.entities.json"
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    }
+  ]
+}

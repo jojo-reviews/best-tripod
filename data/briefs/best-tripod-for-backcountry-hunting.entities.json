@@ -1,0 +1,146 @@
+{
+  "keyword": "best tripod for backcountry hunting",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.97,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Spotting scope",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope"
+    },
+    {
+      "entity": "Binoculars",
+      "type": "/award/ranked_item",
+      "pages": 5,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 4,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Rifle",
+      "type": "/book/book_subject",
+      "pages": 4,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Rifle"
+    },
+    {
+      "entity": "Hunting",
+      "type": "/interests/hobby",
+      "pages": 4,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Hunting"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Shooting",
+      "type": "/event/disaster_type",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Optics",
+      "type": "/business/industry",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Optics"
+    },
+    {
+      "entity": "Telescopic sight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Telescopic_sight"
+    },
+    {
+      "entity": "Bipod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Bipod"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Weapon mount",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Weapon_mount"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Height"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Pound (mass)",
+      "type": "/type/unit",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Pound_(mass)"
+    },
+    {
+      "entity": "Backcountry",
+      "type": "Place",
+      "pages": 2,
+      "relevance": 0.21,
+      "wiki": "http://en.wikipedia.org/wiki/Backcountry"
+    }
+  ]
+}

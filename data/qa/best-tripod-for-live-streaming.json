@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-live-streaming",
+  "pass": true,
+  "checkedAt": "2026-11-01T11:31:23.237Z",
+  "errors": [],
+  "warnings": [
+    "product \"UBeesize 67 inch Camera Tripod with Travel Bag\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod Mobile Rig\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-01 via Firecrawl: Amazon US listings hand-checked (B08CHFY4R5 UBeesize 67 sold/shipped by Amazon.com, in stock; B0BQN7CMDJ PIXI MKPIXICLMII-BK ships from Amazon, in stock; B07BVP8K1W JOBY Mobile Rig sold by Amazon, in stock; B0FXN2JLPM Vanguard Alta Pro 263AB G2 sold by Amazon.com; B0772WLSHZ Befree Advanced Lever sold by Amazon.com; B0B1HYVVTV K&F 64 ships from Amazon). Specs: UBeesize 20.1-67.3 in, 3.1 lb, 5.5 kg (Newegg listing); PIXI clamp kit 0.17 kg, 1 kg payload, 13.5 cm, 18.5 cm closed, aluminum/technopolymer (Manfrotto MKPIXICLMII-BK page); Mobile Rig 0.36 kg, mounts and packed size (B&H page), 2.2 lb load (B&H Q&A answer); Vanguard G2 68.2/55.6/8.4 in, 28.3 in, 4.8 lb, 22 lb, BH-60, QS-45H (Vanguard page, Amazon listing 22 lb); Befree Advanced 9 kg, 59.1/50.4 in, 15.7 in, 3.5 lb, 494 head, 200PL-PRO (Manfrotto/B&H); K&F 64 in, 52 cm min, 39.5 cm folded, 1.15 kg, 8 kg (Pack Hacker, K&F, Amazon listing cross-check). Stats: CDC FastStats 68.9 in men / 63.5 in women; SmallRig guide quote 'near 5.5–6.5 ft'; Manfrotto 1 kg safety payload. SERP recommendations: StreamYard (PIXI clamp, Alta Pro 2+, GorillaPod 5K), Streams Charts (PIXI, Alta Pro 2+, UBeesize, Befree Advanced, Mobile Rig, GorillaPod 5K), Rokform (PIXI clamp, Mobile Rig), TechGearLab (UBeesize 67, K&F 64, Befree Advanced, PIXI), Pack Hacker (K&F 64). Owner sources opened: thethingsibought UBeesize review (top part snapped), Don't Forget To Move and Phoblographer Mobile Rig reviews, B&H Mobile Rig reviews (15). Reddit quotes confirmed via Firecrawl search excerpts (r/whatnotapp charging quote; others from data/pain-points.json). GorillaPod 5K dropped (Amazon listings unavailable). Re-recorded after adding Amazon links and expanding the Befree section (Sony Rumors forum and B&H 197 reviews, as in the owners sources).",
+    "at": "2026-11-01T11:31:22.805Z",
+    "hash": "8cf8c6e7f96ee1af"
+  }
+}

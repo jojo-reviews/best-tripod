@@ -465,6 +465,7 @@ videos:
   - id: ILPAEVRDvsM
     afterHeading: 5
 related:
+  - best-tabletop-camera-tripod
   - best-tripod-for-product-photography
   - l-bracket-for-landscape-photography
   - best-tripod-for-astrophotography
