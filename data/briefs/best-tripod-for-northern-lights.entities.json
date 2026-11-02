@@ -1,0 +1,237 @@
+{
+  "keyword": "best tripod for northern lights",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 5,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 5,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Aurora",
+      "type": "Place",
+      "pages": 4,
+      "relevance": 0.84,
+      "wiki": "http://en.wikipedia.org/wiki/Aurora"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Light",
+      "type": "/visual_art/art_subject",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Light"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.89,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery"
+    },
+    {
+      "entity": "Iceland",
+      "type": "Place",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Iceland"
+    },
+    {
+      "entity": "F-number",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/F-number"
+    },
+    {
+      "entity": "Image sensor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Image_sensor"
+    },
+    {
+      "entity": "Wide-angle lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Wide-angle_lens"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Zoom lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens"
+    },
+    {
+      "entity": "Crop factor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Crop_factor"
+    },
+    {
+      "entity": "Live preview",
+      "type": "/digicams/camera_viewfinder_type",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Live_preview"
+    },
+    {
+      "entity": "Pixel",
+      "type": "/type/unit",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Pixel"
+    },
+    {
+      "entity": "Weather",
+      "type": "/broadcast/content",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Weather"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Gear"
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+    },
+    {
+      "entity": "Focal length",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Focal_length"
+    },
+    {
+      "entity": "Intervalometer",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Intervalometer"
+    },
+    {
+      "entity": "Photograph",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+    },
+    {
+      "entity": "Flashlight",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Flashlight"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Star trail",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Star_trail"
+    },
+    {
+      "entity": "Night photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Night_photography"
+    },
+    {
+      "entity": "Long-exposure photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+    }
+  ]
+}

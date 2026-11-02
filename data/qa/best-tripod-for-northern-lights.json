@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-northern-lights",
+  "pass": true,
+  "checkedAt": "2026-11-02T11:31:59.666Z",
+  "errors": [],
+  "warnings": [
+    "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-02 via Firecrawl: Gitzo GK1545T-82TQDUS spec table (1.45 kg, 163.5/140.5 cm, 32.4 cm min, 42.5 cm closed, 10 kg payload, twist lock, -30 C min working temp, GS5370SD Arca plate, no friction control); Manfrotto MK055XPRO3-BHQ2 page (3 kg, 181.5/151.5 cm, 9 cm, 72.5 cm, 15 kg, flip lock, 30/26/22.5 mm tubes, -30 C, 200PL-14, friction control); Benro USA TSL08CN00 page (146.3 cm, 40 cm min, 51 cm closed, 1.01 kg, 4 kg, twist lock, N00 head, PU30) plus Shutter Muse review (122.9 cm column down, 24 h freezer test quote, sticky ball head, collapse last section in wind); Peak Design product page (20 lb capacity, built-in stowable phone mount, owner reviews: Fairbanks -40 to -50F, spike-feet case, legs need tightening, plastic part snapped) and support page (1.29 kg/2.81 lb), heights/fold from prior verified posts; K&F O234A1+BH-36 specs from Amazon title (64 in, 17.6 lb) and prior verified post. Amazon US listings opened: B071F31XLR (sold by Amazon), B085BQTQMN (Peak Design, ships from Amazon), B010R4BO12 (Amazon), B071JYLS7K (ships from Amazon), B0B1HYVVTV (ships from Amazon), all in stock. Stats: PhotoPills 1-10 s and f/2.8-f/4 and 5 s timer in wind; Nat Hab below -30F, 055XPROB easy with gloves, plastic quote, 900 vs 100 shots, liner advice; Skies & Scopes 3.6 kg rig (prior brief, 1.7 kg tracker); Kevin Pepper spikes; Aurora Guy ball head in gloves; DPReview Iceland thread quotes verbatim; Photo Stack Exchange and r/photography quotes from data/pain-points.json; Iceland Photo Map carbon temperature note.",
+    "at": "2026-11-02T11:31:59.059Z",
+    "hash": "571a38eefb12b00e"
+  }
+}
