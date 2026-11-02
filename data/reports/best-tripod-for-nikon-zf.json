@@ -1,0 +1,586 @@
+{
+  "keyword": "best tripod for nikon zf",
+  "createdAt": "2026-11-02T11:29:57.812Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Nikon Zf",
+    "entityVariants": [
+      "Nikon Zf tripod",
+      "tripod for the Zf",
+      "Zf travel tripod",
+      "Zf mini tripod",
+      "tripod for Nikon Z f"
+    ],
+    "entities": [
+      {
+        "name": "Nikon Zf",
+        "type": "Product",
+        "relation": "the camera the tripod must carry (710 g with battery and card)",
+        "salience": 0.91,
+        "pages": 2
+      },
+      {
+        "name": "tripod",
+        "type": "Product",
+        "relation": "central product type",
+        "salience": 0.62,
+        "pages": 2
+      },
+      {
+        "name": "Nikon Z mount",
+        "type": "Standard",
+        "relation": "lens system; Z lenses set the load",
+        "salience": 0.55,
+        "pages": 2
+      },
+      {
+        "name": "SmallRig",
+        "type": "Company",
+        "relation": "maker of the AP-10 tripod and the Zf grip with an Arca base",
+        "salience": 0.73,
+        "pages": 2
+      },
+      {
+        "name": "Leofoto",
+        "type": "Company",
+        "relation": "maker of the LS-284CX and LS-224CX Ranger tripods",
+        "salience": 0.58,
+        "pages": 2
+      },
+      {
+        "name": "camera",
+        "type": "Concept",
+        "relation": "generic",
+        "salience": 0.81,
+        "pages": 2
+      },
+      {
+        "name": "Nikon",
+        "type": "Company",
+        "relation": "camera maker",
+        "salience": 0.6,
+        "pages": 3
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "Standard",
+        "relation": "clamp standard every full-size pick uses; Zf grips have Arca bases",
+        "salience": 0.5
+      },
+      {
+        "name": "pixel-shift shooting",
+        "type": "Feature",
+        "relation": "Zf feature that needs a tripod (up to 96 MP)",
+        "salience": 0.5
+      },
+      {
+        "name": "NIKKOR Z 40mm f/2 SE",
+        "type": "Product",
+        "relation": "Zf kit prime, about 170 g",
+        "salience": 0.4
+      },
+      {
+        "name": "NIKKOR Z 24-70mm f/4 S",
+        "type": "Product",
+        "relation": "Zf kit zoom, about 500 g",
+        "salience": 0.4
+      },
+      {
+        "name": "grip extension",
+        "type": "Accessory",
+        "relation": "Zf grips with Arca dovetail double as a tripod plate",
+        "salience": 0.45
+      },
+      {
+        "name": "center column",
+        "type": "Component",
+        "relation": "raising it costs stiffness; columnless picks avoid it",
+        "salience": 0.4
+      },
+      {
+        "name": "Peak Design Travel Tripod",
+        "type": "Product",
+        "relation": "most-recommended travel pick",
+        "salience": 0.5
+      },
+      {
+        "name": "JOBY GorillaPod 3K",
+        "type": "Product",
+        "relation": "flexible mini tripod Zf owners ask about",
+        "salience": 0.45
+      }
+    ],
+    "attributes": [
+      "load capacity vs Zf + lens weight",
+      "height without center column",
+      "folded length",
+      "weight",
+      "leg lock type (twist vs flip)",
+      "Arca-type plate",
+      "leg sections",
+      "minimum height for macro",
+      "head type (ball head with pan lock)"
+    ],
+    "ngrams": [
+      "travel tripod",
+      "nikon zf",
+      "ball head",
+      "center column",
+      "carbon fiber",
+      "arca swiss",
+      "mini tripod",
+      "load capacity",
+      "pixel shift",
+      "folded length",
+      "table top tripod"
+    ],
+    "skipgrams": [
+      "zf…tripod",
+      "tripod…ball head",
+      "legs…center column",
+      "grip…arca",
+      "pixel shift…tripod",
+      "mini tripod…macro"
+    ],
+    "nlpTerms": [
+      "vibration",
+      "wind",
+      "long exposure",
+      "focus stacking",
+      "macro",
+      "IBIS",
+      "self-timer",
+      "quick release plate",
+      "twist lock",
+      "flip lock",
+      "carry-on",
+      "low angle",
+      "tabletop",
+      "tipping forward"
+    ],
+    "questions": [
+      "What is the best tripod for a Nikon Zf?",
+      "Do I need a heavy tripod for a Zf?",
+      "Does the SmallRig Zf grip work as a tripod plate?",
+      "Can you change the battery on a Zf mounted on a tripod?",
+      "Is a GorillaPod strong enough for a Zf?",
+      "Do I need a tripod for Zf pixel shift?",
+      "Should I turn off VR on a tripod?"
+    ],
+    "contentGaps": [
+      "Load headroom calculated against real Zf kits (40mm SE, 24-70 f/4, macro lens)",
+      "Battery and card door blocked by a plate or grip on the Zf",
+      "Pixel shift needs a locked-down tripod",
+      "Height without the center column for each pick",
+      "Mini tripods tipping forward with a front-heavy zoom"
+    ],
+    "outline": [
+      {
+        "h2": "Nikon Zf tripod picks compared on height, fold and load",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Nikon Zf tripods",
+        "intent": "selection rule + who recommends them",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Nikon Zf, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Peak Design Travel Tripod (Aluminum): best travel tripod for the Zf",
+          "SmallRig AP-10 Carbon Fiber Tripod: best columnless tripod under a 24-70",
+          "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head: best Zf tripod for wind and long exposures",
+          "Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head: lightest full tripod for the Zf",
+          "JOBY GorillaPod 3K Kit: best mini tripod for the Zf"
+        ]
+      },
+      {
+        "h2": "Which tripod should you get for your Nikon Zf?",
+        "intent": "decision rule",
+        "h3": []
+      },
+      {
+        "h2": "How much tripod a Nikon Zf and its lenses need",
+        "intent": "load math + height",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a Zf on a tripod for pixel shift and long exposures",
+        "intent": "how-to steps",
+        "h3": []
+      },
+      {
+        "h2": "Nikon Zf tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "commonPoints": [
+      "The Zf is light enough that load capacity is rarely the limit",
+      "A grip extension with an Arca-Swiss base doubles as a quick-release plate",
+      "Good, light and cheap: pick two",
+      "Leofoto and Peak Design come up as travel favourites",
+      "A table-top or mini tripod is handy for trips and low macro work"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom vs real Zf kits: Zf 710 g + 40mm SE 170 g = 880 g; + 24-70 f/4 S 500 g = 1,210 g; ratings give 2.5x (GorillaPod 3K, 3 kg) to 9.9x (AP-10, 12 kg) on the 24-70 kit.",
+        "source": "https://onlinemanual.nikonimglib.com/zf/en/specifications_350.html; https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-70mmf4s/; https://www.nikon-asia.com/nikkor-z-40mm-f-2-se; maker spec pages",
+        "absentFrom": [
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Height without the center column per pick: AP-10 52.4 in, Peak Design 51.25 in, LS-284CX about 50 in, LS-224CX 44.88 in; GorillaPod about 12 in.",
+        "source": "B&H, Peak Design, Lonely Speck, Leofoto pages",
+        "absentFrom": [
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Zf battery and card door sits in the base, so a plate or grip blocks it on the tripod; fix = Arca grip with a battery-door cutout, or swap cards before mounting.",
+        "source": "https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/; https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+        "absentFrom": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/",
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Pixel shift (4 to 32 RAW frames, up to 96 MP) only works with the camera locked on a tripod: steps to set it up.",
+        "source": "https://www.nikonusa.com/p/z-f/1761/overview; r/NikonZf pixel shift thread",
+        "absentFrom": [
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by use: carry-on travel = Peak Design; columnless stiffness under 24-70 = AP-10; wind/ND = LS-284CX; lightest = LS-224CX; tables/railings = GorillaPod 3K.",
+        "source": "own decision rule from verified specs",
+        "absentFrom": [
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+        ]
+      }
+    ],
+    "targetWords": 1550,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+        "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+        "https://www.fredmiranda.com/forum/next/1850345",
+        "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+        "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+        "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are forum threads and accessory blogs that describe each tripod or accessory in prose paragraphs; none uses pros/cons boxes.",
+      "avgWords": 1450,
+      "avgProducts": 4,
+      "commonSections": [
+        "short intro on the Zf",
+        "accessory or tripod recommendations in prose",
+        "grip with Arca base",
+        "budget vs quality advice"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/NikonZf/comments/1p8s593/nikon_zf_tripod_recommendations/",
+        "title": "Nikon Zf tripod recommendations : r/NikonZf - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+        "title": "Best Accessories for the Nikon Zf: What I Actually Use"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/groups/249684172560325/posts/2104661180395939/",
+        "title": "Carbon fiber tripods for Nikon ZF under $300? - Facebook"
+      },
+      {
+        "position": 4,
+        "url": "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+        "title": "Travel tripod for Nikon Zf and small zoom lens | DPReview Forums"
+      },
+      {
+        "position": 5,
+        "url": "https://www.nikonusa.com/p/compact-outdoor-tripod/16749/overview",
+        "title": "Nikon Compact Outdoor Tripod | Fieldscope Accessories"
+      },
+      {
+        "position": 6,
+        "url": "https://www.fredmiranda.com/forum/next/1850345",
+        "title": "Joby GorillaPod 3K for Nikon Zf (or maybe SMALLRIG Mini Tripod?)"
+      },
+      {
+        "position": 7,
+        "url": "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+        "title": "My must have accessories for the Nikon ZF - Scott Tucker Photography"
+      },
+      {
+        "position": 8,
+        "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+        "title": "What are the must-have tripods for Nikon Z series photographers?"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=Qezkr1bSo1s",
+        "title": "Nikon ZF - My must have accessories - YouTube"
+      },
+      {
+        "position": 10,
+        "url": "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/",
+        "title": "The 7 Best Nikon ZF accessories for 2026 - Kieran Hayes Photography"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "tripod recommendations",
+        "accessories",
+        "travel",
+        "carbon fiber",
+        "must-have"
+      ],
+      "gap": "No top-10 title is a tripod roundup for the Zf: they are forum threads, accessory lists and a spotting-scope tripod. None matches picks to the Zf kit lenses or pixel shift."
+    },
+    "serpProducts": [
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.reddit.com/r/NikonZf/comments/1cn7smi/zf_grip_pd_tripod_compatibility/",
+          "https://www.reddit.com/r/nikon_Zseries/comments/1r1asod/nikon_z6iii_tripod/",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://packapop.com/blogs/youtube-success-blog/tripod-for-nikon-z8"
+        ],
+        "note": "DPReview Zf thread owner: small, light, column inverts for macro, not the most stable; r/NikonZf owners mount Zf grips on its head."
+      },
+      {
+        "name": "SmallRig AP-10 Carbon Fiber Tripod",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.reddit.com/r/Nikon/comments/1sh08p0/smallrig_ap10_carbon_fiber_tripod/"
+        ],
+        "note": "Zf owner shortlisted it (no column, carbon, detachable head); r/Nikon thread on it."
+      },
+      {
+        "name": "Leofoto LS-284CX Ranger with LH-30",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
+        ],
+        "note": "Both name the LS-284C; the LS-284CX is Leofoto USA current version."
+      },
+      {
+        "name": "Leofoto LS-224CX Ranger with LH-25",
+        "pages": [
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/",
+          "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+        ],
+        "note": "Zf owner shortlisted LS-224C + LH-25; in the GorillaPod thread two members recommend the Ranger mini (LS-223C) with LH-25 for the Zf."
+      },
+      {
+        "name": "JOBY GorillaPod 3K Kit",
+        "pages": [
+          "https://www.fredmiranda.com/forum/next/1850345",
+          "https://cameradecision.com/accessories/Nikon-Zf",
+          "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+        ],
+        "note": "FredMiranda: should work for a Zf with light lenses, marginal with a macro lens; Camera Decision lists the 3K kit for the Zf; DPReview members find it less stable with heavier kit."
+      }
+    ],
+    "stats": [
+      {
+        "number": "710 g",
+        "claim": "Nikon Zf weight with battery and memory card",
+        "url": "https://onlinemanual.nikonimglib.com/zf/en/specifications_350.html",
+        "quote": "Approx. 710 g (1 lb. 9.1 oz.) with battery and memory card but without body cap and accessory shoe cover"
+      },
+      {
+        "number": "500 g",
+        "claim": "NIKKOR Z 24-70mm f/4 S weight",
+        "url": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-70mmf4s/",
+        "quote": "Weight | Approximately 500 g/1 lb 1.7 oz"
+      },
+      {
+        "number": "96 megapixels",
+        "claim": "Zf pixel-shift output from 4, 8, 16 or 32 RAW files",
+        "url": "https://www.nikonusa.com/p/z-f/1761/overview",
+        "quote": "the Z f is the first Nikon camera capable of pixel-shift shooting7 to create images up to 96 megapixels"
+      },
+      {
+        "number": "50″ (127 cm)",
+        "claim": "LS-284CX maximum height with ball head, legs fully extended, no column",
+        "url": "https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
+        "quote": "The maximum height of the LS-284CX is 50″ (127 cm) with the ballhead installed and the legs fully extended"
+      }
+    ],
+    "videos": [
+      {
+        "id": "_Vd9y_Nzoqw",
+        "title": "Pixel Shift Shooting Explained for Nikon Z",
+        "channel": "",
+        "url": "https://www.youtube.com/watch?v=_Vd9y_Nzoqw",
+        "section": "How to set up a Zf on a tripod for pixel shift and long exposures"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-tripod-for-nikon-z8",
+      "best-travel-tripod-for-mirrorless-camera",
+      "best-tabletop-camera-tripod",
+      "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "tripod-center-column-up-or-down-for-landscapes",
+      "best-tripod-for-fujifilm-x-t5"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-nikon-z8",
+        "find": "Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm.",
+        "replace": "Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/))."
+      },
+      {
+        "slug": "best-travel-tripod-for-mirrorless-camera",
+        "find": "It suits a full-frame shooter who flies carry-on with a 70-200mm class lens.",
+        "replace": "It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "tripod for nikon zf",
+      "nikon zf travel tripod",
+      "nikon zf mini tripod",
+      "best travel tripod for nikon zf",
+      "nikon zf tripod recommendations"
+    ],
+    "angle": "Match the tripod to the Zf kit you carry (40mm SE, 24-70 f/4, macro), plus the Zf-specific quirks: pixel shift, the battery door in the base and Arca grips.",
+    "textrazor": {
+      "pagesAnalyzed": 3,
+      "note": "DPReview and FredMiranda blocked TextRazor fetch (Cloudflare); entities from the other pages."
+    },
+    "painPoints": [
+      {
+        "id": "camera-tripods-zf-travel-legs-wind",
+        "pain": "Light travel tripod legs vibrate in wind under a Nikon Z body",
+        "details": "Nikon Z owners report slim travel legs and raised columns shaking in gusts; a Zf DPReview owner calls the Peak Design small and light but not the most stable.",
+        "sources": [
+          "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+          "https://www.dpreview.com/forums/threads/travel-tripod-for-nikon-zf-and-small-zoom-lens.4810018/"
+        ],
+        "quotes": [
+          {
+            "text": "Center columns are usually the weakest link in high wind",
+            "url": "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-zf-battery-door-blocked",
+        "pain": "The Zf battery and card door is blocked when the camera sits on a tripod plate",
+        "details": "The Zf keeps both card slots in the battery compartment in its base, so a plate or grip covers them on a tripod.",
+        "sources": [
+          "https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
+          "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf"
+        ],
+        "quotes": [
+          {
+            "text": "Cards in battery compartment are inaccessible when on a tripod",
+            "url": "https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-zf-mini-tipping-forward",
+        "pain": "Mini tripods tip forward with a front-heavy Nikon zoom",
+        "details": "Owners shopping for a table-top tripod for the Zf warn that many minis topple forward with a zoom fitted; test by pushing the camera forward before you buy.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+        ],
+        "quotes": [
+          {
+            "text": "Quite a few tripods would support that combination, but would topple forward very easily.",
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-gorillapod-leveling",
+        "pain": "A flexible GorillaPod makes a level horizon hard to get",
+        "details": "Owners say a GorillaPod puts the camera where the legs allow, not where you want it, unless you use a ball head; less stable with heavier kit.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/",
+          "https://www.fredmiranda.com/forum/next/1850345"
+        ],
+        "quotes": [
+          {
+            "text": "Not as stable as other mini tripods with heavier kit.",
+            "url": "https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+          },
+          {
+            "text": "The Gorillapod is marginal if you use the Zf with a macro lens.",
+            "url": "https://www.fredmiranda.com/forum/next/1850345"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-zf-grip-plate-fit",
+        "pain": "Will a Zf grip with an Arca base sit securely in the tripod head?",
+        "details": "Zf owners ask whether SmallRig and Neewer grips with Arca dovetails fit tripod clamps; owners report both fit snugly in a Peak Design head when the lock is closed.",
+        "sources": [
+          "https://www.reddit.com/r/NikonZf/comments/1cn7smi/zf_grip_pd_tripod_compatibility/",
+          "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/"
+        ],
+        "quotes": []
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-nikon-z8",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-nikon-p1000",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    }
+  ]
+}
