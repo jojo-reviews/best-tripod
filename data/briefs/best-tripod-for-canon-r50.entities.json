@@ -1,0 +1,111 @@
+{
+  "keyword": "best tripod for canon r50",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Canon EOS R50",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.85,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R50"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.75,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "SmallRig",
+      "type": "Company",
+      "pages": 4,
+      "relevance": 0.62,
+      "wiki": ""
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 4,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 4,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.84,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Vlog",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Vlog"
+    },
+    {
+      "entity": "Vanguard",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": ""
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Budget"
+    },
+    {
+      "entity": "Mii",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Mii"
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+    }
+  ]
+}

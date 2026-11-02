@@ -1,0 +1,600 @@
+{
+  "centralEntity": "tripod for Canon R50",
+  "entityVariants": [
+    "best tripod for canon r50",
+    "tripod for canon eos r50",
+    "canon r50 tripod",
+    "best travel tripod for canon r50",
+    "best tripod for canon eos r50",
+    "canon r50 tripod for vlogging",
+    "r50 tripod",
+    "tripod for the r50",
+    "tripod for an r50",
+    "tripods for the r50",
+    "tripods for the canon r50"
+  ],
+  "entities": [
+    {
+      "name": "Canon EOS R50",
+      "type": "",
+      "relation": "the camera: 375 g with battery and card, no in-body IS",
+      "salience": 0.85,
+      "pages": 4
+    },
+    {
+      "name": "tripod",
+      "type": "",
+      "relation": "central entity",
+      "salience": 0.75,
+      "pages": 4,
+      "textrazorName": "Tripod"
+    },
+    {
+      "name": "SmallRig",
+      "type": "Company",
+      "relation": "brand recommended in the forum threads (CT-10, Selection tripods)",
+      "salience": 0.62,
+      "pages": 4
+    },
+    {
+      "name": "Canon",
+      "type": "Agent",
+      "relation": "camera maker",
+      "salience": 0.51,
+      "pages": 4,
+      "textrazorName": "Canon Inc."
+    },
+    {
+      "name": "camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "what the tripod holds",
+      "salience": 0.6,
+      "pages": 3,
+      "textrazorName": "Camera"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "Agent",
+      "relation": "maker of the Element MII and Befree Advanced",
+      "salience": 0.54,
+      "pages": 3
+    },
+    {
+      "name": "aluminum",
+      "type": "ChemicalSubstance",
+      "relation": "leg material of all four full-size picks",
+      "salience": 0.35,
+      "pages": 3,
+      "textrazorName": "Aluminium"
+    },
+    {
+      "name": "monopod",
+      "type": "",
+      "relation": "leg conversion some travel tripods offer",
+      "salience": 0.66,
+      "pages": 2,
+      "textrazorName": "Monopod"
+    },
+    {
+      "name": "vlogging",
+      "type": "/business/industry",
+      "relation": "main R50 use case for tabletop and flexible tripods",
+      "salience": 0.51,
+      "pages": 2,
+      "textrazorName": "Vlog"
+    },
+    {
+      "name": "Vanguard",
+      "type": "Company",
+      "relation": "brand named in the forum threads",
+      "salience": 0.48,
+      "pages": 2
+    },
+    {
+      "name": "RF-S18-45mm F4.5-6.3 IS STM",
+      "type": "lens",
+      "relation": "the R50 kit lens, 4.6 oz (130 g)",
+      "salience": 0.5
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "pick",
+      "salience": 0.5
+    },
+    {
+      "name": "Manfrotto Element MII",
+      "type": "product",
+      "relation": "pick",
+      "salience": 0.5
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "pick",
+      "salience": 0.5
+    },
+    {
+      "name": "K&F Concept",
+      "type": "company",
+      "relation": "budget pick maker",
+      "salience": 0.4
+    },
+    {
+      "name": "JOBY GorillaPod 3K",
+      "type": "product",
+      "relation": "vlogging pick",
+      "salience": 0.5
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "plate standard all full-size picks accept",
+      "salience": 0.45
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "head type on every pick",
+      "salience": 0.5
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "raising it costs stiffness",
+      "salience": 0.5
+    },
+    {
+      "name": "image stabilization",
+      "type": "feature",
+      "relation": "R50 has none in body, so a tripod matters in low light",
+      "salience": 0.5
+    }
+  ],
+  "attributes": [
+    "rated load vs R50 plus 18-45mm weight (505 g)",
+    "height with the center column down",
+    "folded length",
+    "weight with head",
+    "leg lock type (twist, lever, flip)",
+    "Arca-Swiss / RC2 plate compatibility",
+    "ball head pan and friction control",
+    "center column hook",
+    "minimum height",
+    "phone mount"
+  ],
+  "ngrams": [
+    "tripod for canon r50",
+    "travel tripod",
+    "ball head",
+    "center column",
+    "quick release plate",
+    "arca swiss",
+    "peak design travel tripod",
+    "manfrotto element mii",
+    "befree advanced",
+    "gorillapod 3k",
+    "self-timer",
+    "kit lens"
+  ],
+  "skipgrams": [
+    "tripod…R50",
+    "center column…down",
+    "light…camera",
+    "quick release…plate",
+    "IBIS…tripod",
+    "505 g…rating"
+  ],
+  "nlpTerms": [
+    "Canon",
+    "EOS R50",
+    "APS-C",
+    "mirrorless",
+    "RF-S18-45mm",
+    "vlogging",
+    "landscape",
+    "long exposure",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "RC2",
+    "center column",
+    "folded length",
+    "load capacity",
+    "twist lock",
+    "lever lock",
+    "flip lock",
+    "self-timer",
+    "Bluetooth remote",
+    "hook",
+    "phone mount"
+  ],
+  "questions": [
+    "What is the best tripod for a Canon R50?",
+    "Does the Canon R50 need a special tripod mount?",
+    "Is a cheap tripod OK for the R50?",
+    "Why does my R50 turn off when I attach a quick release plate?",
+    "Do I need a tripod since the R50 has no IBIS?",
+    "Is a GorillaPod enough for R50 vlogging?"
+  ],
+  "contentGaps": [
+    "Load headroom against the real R50 kit weight (375 g + 130 g)",
+    "Column-down height compared across picks",
+    "No in-body IS: when the tripod and self-timer replace stabilization",
+    "A plate that presses the battery door",
+    "Tipping fear on cheap light legs, and the hook fix"
+  ],
+  "outline": [
+    {
+      "h2": "Canon R50 tripod comparison by height and weight",
+      "intent": "comparison table on the deciding specs (first body H2, no repeat of top picks)",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Canon R50 tripods",
+      "intent": "method, who else recommends, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Canon R50, reviewed",
+      "intent": "one paragraph per product",
+      "h3": [
+        "Manfrotto Element MII Aluminum Tripod with Ball Head: best overall tripod for the R50",
+        "Peak Design Travel Tripod (Aluminum): best R50 tripod for hiking and carry-on",
+        "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): best compact all-rounder tripod",
+        "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head: best budget tripod for the R50",
+        "JOBY GorillaPod 3K Kit: best R50 tripod for vlogging and tables"
+      ]
+    },
+    {
+      "h2": "What a Canon R50 needs from a tripod",
+      "intent": "load math, no IBIS, column-down height, plate fit",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for the Canon R50 without shake",
+      "intent": "numbered steps with illustrations",
+      "h3": []
+    },
+    {
+      "h2": "Canon R50 tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    },
+    {
+      "h2": "Which tripod should you get for your Canon R50?",
+      "intent": "chooser",
+      "h3": []
+    }
+  ],
+  "targetWords": 1350,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+      "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+      "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+      "https://www.youtube.com/watch?v=2OYIUfykOec"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Cameraegg reviews each tripod in one prose paragraph; the Canon Rumors forum answers and the YouTube description are prose recommendations without pros/cons lists.",
+    "avgWords": 1250,
+    "avgProducts": 5,
+    "commonSections": [
+      "short intro",
+      "product recommendations",
+      "what to look for (weight, folded length, head, load)",
+      "FAQ (cameraegg)"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/canon/comments/1gsssa6/tripod_for_r50/",
+      "title": "Tripod for R50 : r/canon"
+    },
+    {
+      "position": 2,
+      "url": "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+      "title": "Any budget-friendly tripod suggestions for the Canon EOS R50?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/26937155359239041/",
+      "title": "what tripod fits well with the canon r50? one that is super ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.amazon.com/canon-r50-tripod/s?k=canon+r50+tripod",
+      "title": "Canon R50 Tripod"
+    },
+    {
+      "position": 5,
+      "url": "https://www.filmtools.com/small-rig-vlogging-tripod-kit-for-canon-eos-r50.html",
+      "title": "SmallRig Vlogging Tripod Kit for Canon EOS R50"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=XMPX6mpgfvg",
+      "title": "Canon R50 - BEST accessories for CREATORS"
+    },
+    {
+      "position": 7,
+      "url": "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+      "title": "[Solved] Best tripod for Canon EOS R50?"
+    },
+    {
+      "position": 8,
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=canon%20tripod",
+      "title": "canon tripod (208)"
+    },
+    {
+      "position": 9,
+      "url": "https://www.smallrig.com/SmallRig-Vlogging-Tripod-Kit-for-Canon-EOS-R50-4213.html",
+      "title": "Canon R50 Vlogging Tripod Kit | LED Light"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=2OYIUfykOec",
+      "title": "Canon R50 V Accessories You Actually Need!"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "budget-friendly",
+      "vlogging",
+      "sturdy",
+      "accessories",
+      "kit"
+    ],
+    "gap": "No top-10 title gives a number of tripod picks or sizes them to the R50 kit weight; results are forum threads, store pages, accessory videos and a vlogging kit."
+  },
+  "commonPoints": [
+    "Any tripod fits: the R50 uses a standard 1/4-20 thread",
+    "The R50 is light, so you do not need a heavy or expensive tripod",
+    "Peak Design Travel Tripod and Manfrotto models come up most",
+    "A GorillaPod or mini tripod suits vlogging",
+    "Avoid very cheap, thin-legged tripods"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom vs the real kit: R50 (375 g with battery and card) + RF-S18-45mm (130 g) = 505 g; ratings give about 5.9x (GorillaPod 3K, 3 kg) to 18x (Peak Design, 9.1 kg). Load never limits; column-down height, leg stiffness and the head do.",
+      "source": "https://www.usa.canon.com/shop/p/eos-r50; https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm; maker spec pages",
+      "absentFrom": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+        "https://www.youtube.com/watch?v=2OYIUfykOec",
+        "https://www.youtube.com/watch?v=XMPX6mpgfvg"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height compared: Element MII 51.97 in, Peak Design 51.25 in, Befree Advanced 50.39 in, K&F 45.67 in; the R50 vari-angle screen lets you frame from chest height, so the first three rarely need the column.",
+      "source": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/; https://shuttermuse.com/peak-design-travel-tripod-vs-pro-tripod/; https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+      "absentFrom": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+        "https://www.youtube.com/watch?v=2OYIUfykOec",
+        "https://www.youtube.com/watch?v=XMPX6mpgfvg"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The R50 has no in-body IS, so dim scenes need a tripod plus the 2-second self-timer or a remote; the tripod replaces the stabilization other bodies have.",
+      "source": "https://www.usa.canon.com/shop/p/eos-r50 (\"In-body IS not provided\"); https://www.reddit.com/r/canon/comments/1ksm48s/advice_for_low_light_sunset_photography_without/",
+      "absentFrom": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+        "https://www.youtube.com/watch?v=2OYIUfykOec",
+        "https://www.youtube.com/watch?v=XMPX6mpgfvg"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "An R50 owner reports the camera powers off when a quick-release plate is attached; check the plate is not pressing the battery door and use a slimmer or offset plate.",
+      "source": "https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/",
+      "absentFrom": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+        "https://www.youtube.com/watch?v=2OYIUfykOec",
+        "https://www.youtube.com/watch?v=XMPX6mpgfvg"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by use: home landscape and eye-level framing (Element MII), hiking and carry-on (Peak Design), photo plus video with lever locks (Befree Advanced), recipe videos on a budget (K&F), vlogging and tables (GorillaPod 3K).",
+      "source": "own decision rule from the verified specs",
+      "absentFrom": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/",
+        "https://www.youtube.com/watch?v=2OYIUfykOec",
+        "https://www.youtube.com/watch?v=XMPX6mpgfvg"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    },
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://www.reddit.com/r/canonR50/comments/14u7xkc/tripod_recs/"
+      ]
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
+      ]
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r50/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    },
+    {
+      "name": "SmallRig CT-10 / Selection tripods (different models per page, not used)",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI mini tripod (one page, not used)",
+      "pages": [
+        "https://www.youtube.com/watch?v=2OYIUfykOec"
+      ]
+    },
+    {
+      "name": "Vanguard VEO 3GO 235AB (one page, not used)",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "375 g",
+      "claim": "Canon EOS R50 body weight including battery and card (black)",
+      "url": "https://www.usa.canon.com/shop/p/eos-r50",
+      "quote": "Body (including battery and card)*1 | Black | Approx. 0.83 lbs. | Approx. 375 g"
+    },
+    {
+      "number": "4.6 oz",
+      "claim": "RF-S18-45mm F4.5-6.3 IS STM weight",
+      "url": "https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm",
+      "quote": "4.6 oz."
+    },
+    {
+      "number": "8 kg",
+      "claim": "Manfrotto Element MII safety payload",
+      "url": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/",
+      "quote": "Safety Payload UNI/PdR 105:2021: 8 kg (17.64 lbs)"
+    },
+    {
+      "number": "45.67 in",
+      "claim": "K&F Concept 64 inch height without center column",
+      "url": "https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+      "quote": "Height without center column: 1160mm/45.67\""
+    }
+  ],
+  "videos": [],
+  "videosNote": "Top YouTube results are accessory roundups pushing products we do not cover (Rode, Zomei, cages); none shows this tripod choice, so no video.",
+  "painPoints": [
+    {
+      "id": "camera-tripods-r50-cheap-legs-tip-over",
+      "pain": "A cheap tripod will vibrate or tip over and smash a new R50",
+      "details": "New R50 owners on a tight budget fear thin aluminum legs that shake indoors or tip; replies suggest hanging a bag from the center-column hook and not raising the column fully.",
+      "sources": [
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/",
+        "https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
+      ],
+      "quotes": [
+        {
+          "text": "A lot of those cheap ones use really thin aluminum legs that vibrate if someone even walks past them in a small apartment.",
+          "url": "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/"
+        },
+        {
+          "text": "a wobbly tripod is worse than no tripod at all.",
+          "url": "https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-r50-plate-powers-off",
+      "pain": "The R50 powers off when a tripod quick-release plate is attached",
+      "details": "An r/canon owner reports the R50 works until the quick release bracket goes on, then powers down until it is removed.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/"
+      ],
+      "quotes": [
+        {
+          "text": "I have an R50 that works perfectly except when I attach the quick release bracket for my tripod.",
+          "url": "https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-r50-center-column-wobble",
+      "pain": "Budget tripods get wobbly once the center column goes up",
+      "details": "An r/canon reply about an R50 tripod warns the budget model is not the most stable and the column should be used only when needed.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/"
+      ],
+      "quotes": [
+        {
+          "text": "It's not the most stable, you should use the center column only when you really need it",
+          "url": "https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-r50-no-ibis-low-light",
+      "pain": "Low-light and sunset shots blur because the R50 has no in-body stabilization",
+      "details": "R50 owners ask how to shoot sunsets without a tripod because the body has no image stabilization; Canon confirms in-body IS is not provided.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1ksm48s/advice_for_low_light_sunset_photography_without/",
+        "https://www.usa.canon.com/shop/p/eos-r50"
+      ],
+      "quotes": []
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-travel-tripod-for-mirrorless-camera",
+    "tripod-center-column-up-or-down-for-landscapes",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "tripod-shake-when-pressing-shutter",
+    "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "best-tripod-for-sony-zv-e10",
+    "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+    "best-tripod-under-100"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-travel-tripod-for-mirrorless-camera",
+      "find": "Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom, while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating.",
+      "replace": "Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom (see our [tripods for the Canon R50](/blog/best-tripod-for-canon-r50/)), while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating."
+    },
+    {
+      "slug": "best-tripod-under-100",
+      "find": "For a light camera and occasional use, the picks above are enough.",
+      "replace": "For a light camera and occasional use, such as a [Canon R50 on a tripod](/blog/best-tripod-for-canon-r50/), the picks above are enough."
+    }
+  ],
+  "secondaryKeywords": [
+    "tripod for canon eos r50",
+    "canon r50 tripod",
+    "best travel tripod for canon r50",
+    "best tripod for canon eos r50",
+    "canon r50 tripod for vlogging"
+  ],
+  "angle": "Size the tripod to the 505 g R50 kit: load never limits, so choose on column-down height, the head and the use (hiking, home video, vlogging); answer no-IBIS, tipping and the plate power-off issue.",
+  "entitiesNote": "TextRazor sharedEntities copied; duplicates Tripod (photography) and Canon EOS merged into tripod and Canon EOS R50; Canon Inc./Aluminium/Vlog renamed to the words used on the page."
+}
