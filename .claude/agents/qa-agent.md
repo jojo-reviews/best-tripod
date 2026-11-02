@@ -29,3 +29,5 @@ Never weaken a check to make it pass. Report pass/fail, the fixes made, and any 
 - Owner rule 2026-10-28 ("make sure sabhi commercial blog ma products atlist minimum 5"): every commercial roundup features at least 5 real, qualifying products (each on 2+ top-10 pages for the keyword or its close variants such as `best <product type>`, each with its own in-stock Amazon US listing). If fewer than 5 qualify, park the keyword instead of publishing a thinner list. QA errors on roundups with fewer than 5 products from 2026-10-29 and warns on older ones.
 
 - Patent rule 2026-11-02 (US8442984B1): QA warns (not fails) when a post with `videos` says "video below/above"; reword to "the video in this section". Live posts are fixed only when improve-agent picks them, never in bulk.
+
+- Patent rule 2026-11-02 (US12393768B2): QA warns when an illustration has no `caption`; the qa-agent also checks the block order (answer, table, picks, which-one, how-to/problems, FAQ) and that no buy button/CTA sits in the intro.

@@ -25,7 +25,7 @@ export function photoFigureHtml(p, lang = 'en') {
 export function illustrationFigureHtml(p, lang = 'en') {
   return (
     `<figure class="post-photo post-ai"><img src="${esc(p.src)}" alt="${esc(p.alt)}" width="${p.width ?? 1200}" height="${p.height ?? 800}" loading="lazy" decoding="async" />` +
-    `<figcaption class="credit">${esc(t(lang, 'photo.ai'))}</figcaption></figure>`
+    `<figcaption>${p.caption ? `${esc(p.caption)} ` : ''}<span class="credit">${esc(t(lang, 'photo.ai'))}</span></figcaption></figure>`
   );
 }
 
