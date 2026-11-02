@@ -1,0 +1,22 @@
+{
+  "slug": "de/bestes-stativ-fuer-nikon-zf",
+  "lang": "de",
+  "translationOf": "best-tripod-for-nikon-zf",
+  "pass": true,
+  "checkedAt": "2026-11-02T18:01:08.436Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-nikon-z8/; link the de version once it exists",
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the de version once it exists",
+    "illustration \"Hände arretieren die Griffplatte einer s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Eine Hand prüft, ob eine Kamera auf eine\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-nikon-zf: all products/ASINs/scores/specs keys identical; unit conversions checked (39,4 cm=15.5 in, 130 cm=51.25 in, 133 cm=52.4 in, 127 cm=50 in, 114 cm=44.88 in, 56 cm=22 in, 47 cm=18.62 in, 1,56 kg=3.44 lb, 9,1 kg=20 lb, 12 kg, 10 kg=22 lb, 6 kg); FAQ answers match. Local facts from data/briefs/de/best-tripod-for-nikon-zf.local.json: Lufthansa 55x40x23 cm (lufthansa.com), Ryanair 40x30x20 cm, Koelner Dom Domordnung, SMB Benutzungsordnung, DWD Windstaerke 6; re-opened leofoto.net LS-284C/LS-224C (53 cm/47 cm, 0,91 kg, 6 kg/10 kg) and smallrig.com AP-10 (54-133 cm, 1,2 kg, 12 kg). Dropped 'Amazon US listing' wording; nikonusa pixel-shift link kept as plain attribution (3-link cap). No testing claims, prices or local store claims.",
+    "at": "2026-11-02T17:57:00.209Z",
+    "hash": "62efdc9d6c121c62"
+  }
+}

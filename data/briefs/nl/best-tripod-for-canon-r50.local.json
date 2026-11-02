@@ -1,0 +1,144 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-canon-r50",
+  "checkedAt": "2026-11-02T17:54:32Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "asin": "B08JZCQ9WQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max, 132 cm column down, 42,5 cm folded, 1,55 kg, 8 kg payload",
+      "reason": "Manfrotto sells the same MKELMII4BK-BH code worldwide (global EU site) and EU retailers such as amazon.de list it under the same name.",
+      "source": "https://www.manfrotto.com/global-en/element-mii-aluminium-black-mkelmii4bk-bh/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,1 kg",
+      "reason": "Kamera Express (NL/BE) sells the Peak Design Travel Tripod Aluminum under the same name.",
+      "source": "https://www.kamera-express.nl/peak-design-travel-aluminium-statief"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "MKBFRLA4BK-BH (EU code; the US kit is MKBFRLA4BK-BHUS). Same lever-lock aluminium legs and 494 ball head; only the market code differs.",
+      "metricSpecs": "Manfrotto/Foto Erhardt: 151 cm max, 128 cm column down, 40 cm min, 40 cm folded, 1,59 kg, 9 kg",
+      "reason": "German retailers sell the Befree Advanced lever aluminium kit as MKBFRLA4BK-BH and list 128 cm height and 40 cm pack size.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "K&F: 1,6 m max, 400 mm min (K&F also prints 19.68 in), 390 mm folded, 1,24 kg, 8 kg",
+      "reason": "Sold in Spain under the same code O234A1+BH-36 and the same ASIN as 'Tripode Camara 163CM'.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "JOBY: 3 kg load",
+      "reason": "Sold in Germany/EU as JB01507-BWW (Pro Lighting, Martcom, idealo).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/foto-tischstativ/joby-gorillapod-r-3k-stativ-kit.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon Nederland lists the EOS R50 (black) at approx. 375 g with card and battery.",
+      "source": "https://www.canon.nl/cameras/eos-r50/specifications/"
+    },
+    {
+      "fact": "KLM allows 1 piece of hand baggage of max. 55 x 35 x 25 cm including handles and wheels; all four full-size picks (42,5 / 39,4 / 40 / 39 cm folded) are shorter than 55 cm.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: photographing and filming is allowed, but without flash and without a tripod.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Rijksmuseum: visitors may photograph and film without disturbing others; for bridal photography its terms say no tripods and no extra lighting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Dutch terms: statiefkop, balhoofd, middenkolom, snelkoppelplaat; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A tripod that folds small has more, thinner sections and is less stable.",
+      "fix": "Check height with the column down and keep the thickest sections first (English setup steps).",
+      "quotes": [
+        {
+          "text": "Klein opvouwen betekent meer segmenten en dat betekent minder stabiel (dunste segmenten worden nog dunner).",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        },
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "City trips: carrying a big tripod all day is not appealing.",
+      "fix": "Peak Design (39,4 cm folded) or the GorillaPod for city trips.",
+      "quotes": [
+        {
+          "text": "Vakanties zijn vooral stedentrips, dus een hele dag sjouwen en shoppen met een groot statief bij me, lijkt me geen goed idee.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Doubts whether a GorillaPod is a real tripod.",
+      "fix": "English post: treat the GorillaPod as a second support for vlogging, tables and railings, not a landscape tripod.",
+      "quotes": [
+        {
+          "text": "Zo'n gorillapod beschouw ik alleen als handig voor situaties waar je een statief wilt, maar niet mag/kunt opzetten.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM 55 x 35 x 25 cm hand-baggage check for all four full-size picks.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Museum rules (Rijksmuseum Boerhaave no tripod; Rijksmuseum no tripods for bridal shoots).",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Maker metric figures and the R50 weight from Canon Nederland; EU code MKBFRLA4BK-BH for the Befree Advanced.",
+      "source": "https://www.canon.nl/cameras/eos-r50/specifications/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with its own in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing'"
+    },
+    {
+      "english": "Canon USA spec link for 375 g",
+      "action": "replace",
+      "with": "Canon Nederland spec page (same 375 g)"
+    },
+    {
+      "english": "'carry-on' (US airline wording)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm hand-baggage fact"
+    },
+    {
+      "english": "'for the price of a lens filter kit' (price comparison)",
+      "action": "drop"
+    }
+  ]
+}

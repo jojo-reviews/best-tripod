@@ -1,0 +1,22 @@
+{
+  "slug": "nl/beste-statief-voor-nikon-zf",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-nikon-zf",
+  "pass": true,
+  "checkedAt": "2026-11-02T18:01:07.941Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-nikon-z8/; link the nl version once it exists",
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the nl version once it exists",
+    "illustration \"Handen klemmen de gripplaat van een syst\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Een hand controleert of een camera op ee\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-nikon-zf: same 5 products/ASINs/scores/spec keys, FAQ answers match, conversions checked (39,4 cm=15.5 in, 130 cm=51.25 in, 133 cm=52.4 in, 127 cm=50 in, 114 cm=44.88 in, 56 cm=22 in, 47 cm=18.62 in, 1,56 kg=3.44 lb, 9,1 kg=20 lb, 10 kg=22 lb, 6 kg, 1.210 g). Local facts from data/briefs/nl/best-tripod-for-nikon-zf.local.json: KLM 55x35x25 cm (klm.nl), Rijksmuseum and Rijksmuseum Boerhaave tripod rules, KNMI windkracht 6; quotes from Nikon Club Nederland forum, Tweakers and avondfotografie.nl (GorillaPod 3K with Nikon Z6); re-opened leofoto.net LS-284C/LS-224C and smallrig.com AP-10 for EU codes/metric figures. Dropped 'Amazon US listing' wording; nikonusa link kept as plain attribution (3-link cap). No testing claims, prices or local store claims.",
+    "at": "2026-11-02T18:01:01.164Z",
+    "hash": "76ba079a8d97d305"
+  }
+}

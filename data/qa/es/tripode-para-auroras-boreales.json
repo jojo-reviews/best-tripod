@@ -1,0 +1,28 @@
+{
+  "slug": "es/tripode-para-auroras-boreales",
+  "lang": "es",
+  "translationOf": "best-tripod-for-northern-lights",
+  "pass": true,
+  "checkedAt": "2026-11-02T18:00:38.087Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-astrophotography/; link the es version once it exists",
+    "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the es version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-feet-for-sand-snow-and-rock/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the es version once it exists",
+    "illustration \"Girando el cierre de rosca de un trípode\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Trípode bajo con las patas abiertas y un\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Colocando una raqueta de nieve en el pie\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-northern-lights: same 5 products/ASINs/scores/spec keys and owner research, specs metric first with decimal comma (Gitzo 163,5/140,5/32,4/42,5 cm, 1,45 kg, 10 kg, -30 C; Peak 39,4 cm/1,29 kg/9,1 kg/130,2 cm; Manfrotto 181,5/151,5 cm, 72,5 cm, 3 kg, 15 kg; Benro 146,3/122,9 cm, 51 cm, 1,01 kg, 4 kg; K&F 163 cm, 39,5 cm, 1,15 kg, 8 kg), F to C (-30F=-34C, -40/-50F=-40/-46C), load math 1,9 kg x3 = 5,7 kg, same FAQ answers. Local facts from the es local brief: Iberia cabin 56x40x25 cm/10 kg, Finnair 55x40x23 cm (finnair.com), AEMET Beaufort 6 'fresco' 39-49 km/h, El Mundo 11 May 2024 aurora seen from Andalucia to Cataluna/Aragon/Galicia; re-opened nikonistas.com Tromso thread and fujistas.com aurora thread, quotes verbatim; Gitzo global EU code GK1545T-82TQD and Benro Europe TSL08CN00 (EU delivery, weight hook). No testing/ownership claims, no prices/currency, no local Amazon claims; 3 outside links (PhotoPills, Iberia, Nat Hab).",
+    "at": "2026-11-02T18:00:37.505Z",
+    "hash": "e2d593204f638c58"
+  }
+}

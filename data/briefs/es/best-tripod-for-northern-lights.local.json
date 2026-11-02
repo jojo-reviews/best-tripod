@@ -1,0 +1,128 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-northern-lights",
+  "checkedAt": "2026-11-02T17:54:10Z",
+  "productFit": [
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)",
+      "asin": "B071F31XLR",
+      "status": "localVariant",
+      "variant": "Sold in Europe as GK1545T-82TQD (the English post's US kit code is GK1545T-82TQDUS); same GT1545T legs and GH1382TQD head, same specs.",
+      "metricSpecs": "Gitzo global: 1,45 kg, 163,5 cm max, 140,5 cm column down, 32,4 cm min, 42,5 cm closed, 10 kg safety payload (UNI/PdR 105:2021), -30 °C min working temperature, legs 25,3/21,7/18,2/14,7 mm, leg angles 25° and 70°",
+      "reason": "Gitzo's global site lists the EU code with the same figures as the US page; no friction control on the head, as in the English post.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post: 39,4 cm folded, 1,29 kg, 9,1 kg load, 130,2 cm column down, 152,4 cm max",
+      "reason": "Sold in the EU under the same name (Kamera Express NL, El Corte Inglés ES).",
+      "source": "https://www.elcorteingles.es/electronica/A35395313-0818373021269-pr-tripode-de-carbono-peak-design-travel-carbon-pk0201-negro/"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head",
+      "asin": "B010R4BO12",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global: 3 kg, 181,5 cm max, 151,5 cm column down, 72,5 cm folded, 15 kg safety payload, -30 °C",
+      "reason": "Manfrotto (Italian maker) sells the kit worldwide under the same code MK055XPRO3-BHQ2 on its global site.",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/"
+    },
+    {
+      "name": "Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)",
+      "asin": "B071JYLS7K",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 1,01 kg, 146,3 cm max, 122,9 cm column down, 40 cm min, 51 cm packed, 4 kg max payload, twist locks, PU30 plate, weight hook under the column",
+      "reason": "Benro Europe sells TSL08CN00 to EU countries (de.benroeu.com, in stock for EU delivery); amazon.de lists the same ASIN.",
+      "source": "https://de.benroeu.com/benro-slim-stativkit-carbon-faser/"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm, 8 kg load (maker naming \"163cm\"); keep the English 1,15 kg (amazon.es says 1,24 kg)",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and ASIN on amazon.es.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm; Gitzo (42,5 cm), Peak Design (39,4 cm), K&F (39,5 cm) y Benro (51 cm) caben a lo largo, el Manfrotto 055 (72,5 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Finnair, the usual carrier to Lapland via Helsinki, allows a carry-on bag of max. 55 x 40 x 23 cm.",
+      "source": "https://www.finnair.com/us-en/baggage-on-finnair-flights/carry-on-baggage"
+    },
+    {
+      "fact": "AEMET clasifica la fuerza 6 de Beaufort como \"fresco\", de 39 a 49 km/h.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "El Mundo (11 May 2024): an aurora was visible in the skies of a large part of Spain, at least from Andalucía to Cataluña, Aragón and Galicia.",
+      "source": "https://www.elmundo.es/ciencia/2024/05/11/663ec8cae4d4d8677a8b457a.html"
+    },
+    {
+      "fact": "Términos: rótula de bola, zapata / placa de liberación rápida, columna central, bloqueo de rosca, cierre de palanca; Arca-Swiss igual en todas partes.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A worn or plastic tripod part snaps in the Arctic cold on arrival.",
+      "fix": "Carbon with metal locks for deep cold (Gitzo, Benro), check the tripod before the trip, and the Nat Hab plastic warning from the English post.",
+      "quotes": [
+        {
+          "text": "intentar alargar las patas del trípode y se me partió una de las sujeciones debido seguramente a su desgaste y al frío que hacía.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/447725-persiguiendo-auroras-viaje-a-tromso/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/447725-persiguiendo-auroras-viaje-a-tromso/"
+      ]
+    },
+    {
+      "pain": "Gusts on the coast shake light tripods.",
+      "fix": "Column down, thin sections collapsed, legs wide, bag on the hook; Manfrotto 055 for windy self-drive trips.",
+      "quotes": [
+        {
+          "text": "el trípode que sea decente, estable y que aguante rachas de viento, que a veces las hay bastante intensas en algunos sitios.",
+          "url": "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+        },
+        {
+          "text": "Además insisto en lo del viento, ese trípode aguantaría mejor las inclemencias del tiempo.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/447725-persiguiendo-auroras-viaje-a-tromso/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Iberia and Finnair cabin sizes checked against each tripod's folded length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Spanish forum report of a tripod clamp snapping in Tromsø cold, answered with metal locks and a pre-trip check.",
+      "source": "https://www.nikonistas.com/digital/foro/topic/447725-persiguiendo-auroras-viaje-a-tromso/"
+    },
+    {
+      "point": "Maker metric figures from Gitzo global and Benro Europe instead of conversions.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Fahrenheit-only figures (-30°F Churchill nights, -40 °F to -50 °F Fairbanks report, 5 ft 7 in to 5 ft 11 in owners)",
+      "action": "replace",
+      "with": "Metric first: about -34 °C, -40 °C to -46 °C, about 170 to 180 cm, imperial in brackets"
+    },
+    {
+      "english": "Opening scene flight to Tromsø with a carry-on (US reader)",
+      "action": "replace",
+      "with": "Keep Tromsø; add the local airline cabin-bag size from localFacts (the Gitzo's 42,5 cm and the Peak Design's 39,4 cm fit; the Manfrotto's 72,5 cm does not)"
+    }
+  ]
+}

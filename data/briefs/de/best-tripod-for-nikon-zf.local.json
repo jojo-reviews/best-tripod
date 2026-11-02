@@ -1,0 +1,145 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-nikon-zf",
+  "checkedAt": "2026-11-02T16:30:00Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, 1,56 kg, 9,1 kg load (maker/retailer figures, same as the English post)",
+      "reason": "Sold in Germany under the same name by Foto Koch (maker article 59202040); Peak Design also sells it from its EU web store.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "SmallRig AP-10 Carbon Fiber Tripod",
+      "asin": "B09Q6CPTLF",
+      "status": "fits",
+      "metricSpecs": "SmallRig: working height 54,0-133,0 cm, net weight 1,2 kg, tripod load 12 kg, head load 8 kg (SKU 4060); Kamera Express lists 53,7 cm packed length",
+      "reason": "Sold in the EU under the same model code 4060 (Kamera Express AT 'SmallRig 4060 Carbonfaser-Stativ AP-10'; amazon.de lists 'SmallRig AP-10 Kohlefaser-Stativ' under its own EU ASIN B08BRVBGLC).",
+      "source": "https://www.kamera-express.at/products/smallrig-4060-carbonfaser-stativ-ap-10"
+    },
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net, NIMAX) lists the set as 'LS-284C Ranger + Ballhead LH-30 + 2-segment centre column DC-282C' (code without the X suffix of the US kit); same 4-section columnless carbon legs, LH-30 head and add-on column. No EU listing of the X-coded kit was found.",
+      "metricSpecs": "leofoto.net: 1.270 mm max. working height without ball head and centre column, 53 cm pack size, 1,43 kg legs, 10 kg load; LH-30 head 310 g, rated 15 kg",
+      "reason": "Sold EU-wide by the German Leofoto dealer with free EU shipping, under the LS-284C code.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599"
+    },
+    {
+      "name": "Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head",
+      "asin": "B0DR8V9WSP",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net) lists 'LS-224C Ranger + Ballhead LH-25 + short centre column DC-222C' (code without the X suffix); same legs, LH-25 head and DC-222C column as the US kit.",
+      "metricSpecs": "leofoto.net: 47 cm folded, 0,91 kg including ball head, 6 kg load, 13 cm min. working height, 148 cm max. with the centre column",
+      "reason": "Sold EU-wide by the German Leofoto dealer under the LS-224C code; the 47 cm and 0,9 kg figures match the English post's 18.62 in and 1.98 lb.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-224c-ranger-ballhead-lh-25-short-centre-column-dc-222c/p,70597"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B0C81TNMP4",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Sold in the Benelux under the same name (Cameranu lists 'Joby GorillaPod 3K Kit Zwart'); Dutch site avondfotografie.nl reviewed the 3K Kit.",
+      "source": "https://www.cameranu.nl/advies/video/vlog/wat-heb-ik-nodig-voor-vlog"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows one cabin trolley of max. 55 x 40 x 23 cm and 8 kg: by length the Peak Design (39 cm), LS-224CX (47 cm) and AP-10 (54 cm) fit; the LS-284CX at about 56 cm with the head on does not, unless the head comes off (Leofoto EU: 53 cm pack size).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Ryanair allows a small personal bag of 40 x 30 x 20 cm under the seat in every fare; the GorillaPod 3K Kit (about 23 cm folded) fits, the full-size tripods do not.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung §2): photos without flash for private purposes are allowed, but 'Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst'; bags only up to 40 x 35 x 15 cm.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Staatliche Museen zu Berlin (Benutzungsordnung): tripods (and bags over 30 x 20 x 10 cm) must be checked in at the cloakroom or put in a locker.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "fact": "Deutscher Wetterdienst: Windstärke 6 ('starker Wind') is 40 to 45 km/h on the DWD scale, 'Regenschirme sind nur schwer zu halten' - the point where light travel legs with a raised column start to shake.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "German terms: Kugelkopf, Schnellwechselplatte, Mittelsäule, Handgriff/Griffverlängerung, Pixel-Shift; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsure whether a travel tripod is allowed in cabin baggage on European flights.",
+      "fix": "Peak Design (39 cm), LS-224CX (47 cm) and AP-10 (54 cm) fit the Lufthansa 55 x 40 x 23 cm trolley by length; take the head off the LS-284CX or check it in.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    },
+    {
+      "pain": "Light tripods shake on night and long exposures even in light wind.",
+      "fix": "Keep the column down, or pick a columnless AP-10 or LS-284CX for pixel shift and ND work (English post).",
+      "quotes": [
+        {
+          "text": "Nach einigen Nachtaufnahmen habe ich nämlich festgestellt, das dieses Stativ mehr wackelt als mir lieb ist und das schon bei sehr wenig Wind.",
+          "url": "https://www.dslr-forum.de/threads/stativ-fuer-350d-cullmann-3335-bzw-3000-was-haltet-ihr-von-diesem.103760/"
+        }
+      ],
+      "sources": [
+        "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+      ]
+    },
+    {
+      "pain": "German forum users warn against long centre columns as the way to gain height.",
+      "fix": "Two of the five picks have no column at all; on the Peak Design, use the 130 cm column-down height and tilt the Zf's vari-angle screen.",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which of the five fit a Lufthansa 55 x 40 x 23 cm cabin trolley by folded length (and that the LS-284CX needs its head off).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Tripod rules at Kölner Dom (permit from the Dompropst) and the Berlin state museums (cloakroom) before planning a Zf night shot there.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "EU codes and maker metric figures for the Leofoto kits (LS-224C: 47 cm, 0,91 kg, 6 kg) and the SmallRig AP-10 (54-133 cm, 1,2 kg, 12 kg).",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-224c-ranger-ballhead-lh-25-short-centre-column-dc-222c/p,70597"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with an in-stock Amazon US listing' (How I picked)",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "'Carry-on trips with primes or the 24-70mm' / 'the one I'd fly with' (US carry-on wording, no size given)",
+      "action": "replace",
+      "with": "the local airline cabin-bag size fact, with folded lengths in cm"
+    },
+    {
+      "english": "'Push the camera forward in the store before you buy'",
+      "action": "replace",
+      "with": "keep the advice, phrased as checking it at a local photo shop or at home (no store claims)"
+    }
+  ]
+}

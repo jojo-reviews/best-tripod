@@ -1,0 +1,140 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-canon-r6-mark-ii",
+  "checkedAt": "2026-11-02T17:53:46.138Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "1,3 kg with head, 39 cm folded, 130 cm column down, 152 cm column up, 9,1 kg load (English post metric figures; EU listings use the same model PK0201)",
+      "reason": "Sold under the same name by EU retailers (Kamera Express NL, El Corte Ingles ES list the Travel Tripod Carbon).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same lever legs, 494 head and plate.",
+      "metricSpecs": "Manfrotto: 151 cm max height, 40 cm closed length, 1,59 kg, 9 kg safety payload",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "EU dealers (Calumet DE, Kamera Express NL, amazon.de) list the earlier LS-284C Ranger + LH-30 (non-X version, same columnless four-section carbon concept and LH-30 head, with a screw-on column); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: Kamera Express gives figures for the earlier LS-284C (44,4 cm folded, 1,10 kg, 12 kg), which differ from the X version, so the translator converts the English figures.",
+      "reason": "The X version appears on Leofoto USA, B&H and US shops only; Europe mainly sells the earlier LS-284C Ranger kit.",
+      "source": "https://www.calumet.de/product/leofoto-carbon-dreibeinstativ-ls-284c-lh-30"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "localVariant",
+      "variant": "Sold in the EU as \"ALTA PRO 263AB G2\" with the BH-60 ball head; Vanguard Deutschland gives slightly different metric figures than the US page.",
+      "metricSpecs": "Vanguard Deutschland: max height 171 cm, folded 69,5 cm, weight 2,29 kg, load 10 kg, 26 mm legs, 3 sections",
+      "reason": "Vanguard sells the G2 kit through its German site.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    },
+    {
+      "name": "Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)",
+      "asin": "B071JYLS7K",
+      "status": "fits",
+      "metricSpecs": "146 cm max working height, 40 cm min working height (idealo.de listing); 1010 g, 4 kg load (megapixel.cz)",
+      "reason": "Listed under the same code TSL08CN00 by German and Swiss retailers (idealo.de price comparison, digitec.ch).",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/5623387_-slim-carbon-tsl08cn00-benro.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm: el Peak Design (39 cm), el Befree Advanced (40 cm), el Benro Slim (51 cm) y, justo, el Leofoto (56 cm) caben a lo largo; el Vanguard (72 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite fotos ni vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "AEMET clasifica la fuerza 6 de Beaufort como \"fresco\", de 39 a 49 km/h; con ese viento conviene bajar la columna central.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "Términos: rótula de bola, columna central, zapata / placa de liberación rápida, escuadra en L; Arca-Swiss se llama igual.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dudas sobre si el trípode puede ir en cabina.",
+      "fix": "Los trípodes de viaje de unos 40 cm caben en la maleta de Iberia de 56 x 40 x 25 cm; el Vanguard va facturado.",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    },
+    {
+      "pain": "La columna central subida resta estabilidad.",
+      "fix": "Comparar la altura sin columna (tabla) y dejarla abajo, o elegir el Leofoto sin columna.",
+      "quotes": [
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Fotos movidas por viento o trepidación del trípode.",
+      "fix": "Patas abiertas, columna abajo, objetivo largo montado por su collarín.",
+      "quotes": [
+        {
+          "text": "¿Seguro que no hay trepidación por el trípode usado, el viento, etc.?",
+          "url": "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Qué trípodes caben en la maleta de cabina de Iberia (56 x 40 x 25 cm).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Prohibición de trípodes en la Alhambra y la Sagrada Família.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Códigos UE y cifras del fabricante (Befree Advanced MKBFRLA4BK-BH, Vanguard 171 cm / 69,5 cm), y el Leofoto en Europa sobre todo como LS-284C anterior.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'Amazon US has it in stock' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'At 28.3 in folded, it rides in the car, not a carry-on' and 'fit a carry-on' for the Leofoto (US carry-on wording)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin bag fact"
+    },
+    {
+      "english": "Inch/lb-first figures throughout",
+      "action": "replace",
+      "with": "metric first, imperial in brackets"
+    }
+  ]
+}

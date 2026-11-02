@@ -1,0 +1,147 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-family-photos",
+  "checkedAt": "2026-11-02T17:54:50Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Maker: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (Manfrotto global page, same figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 in stock; Foto Koch (Malta shop) lists the MK190XPRO3 incl. BHQ2 set.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "metricSpecs": "No EU maker page for the Gen 2 found; English figures convert to about 141 cm column down, 173 cm max., 72 cm folded, 2,2 kg, 10 kg load.",
+      "reason": "Vanguard Spain lists the earlier Alta Pro 2 263AB 100 kit as discontinued; the Gen 2 in this post was only found on Vanguard US pages.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post: 130,2 cm column down, 1,56 kg.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from Sirui figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Destatis: Frauen in Deutschland sind im Schnitt 1,66 m groß, Männer 1,79 m. Replaces the CDC US averages (63.5 in / 68.9 in) in the eye-level section.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "Lufthansa allows carry-on bags of max. 55 x 40 x 23 cm. The Sirui (33 cm), Peak Design (39,4 cm) and Befree Advanced (40 cm) fold shorter than 55 cm; the Manfrotto 190XPRO kit (70,5 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private photos without flash are allowed, but \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\". A family photo with tripod inside the cathedral needs permission.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "German terms: Kugelkopf (ball head), Mittelsäule (centre column), Selbstauslöser (self-timer), Fernauslöser (remote shutter release), Intervallaufnahme (interval shooting), Schnellwechselplatte; Arca-Swiss keeps its name.",
+      "source": "https://www.richtig-fotografiert.de/blog/gruppenbilder-mit-selbst-und-fernausloeser/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Running back to the camera for every frame with the self-timer.",
+      "fix": "Use interval shooting or a remote shutter release (post: how-to step 4-5 and the 'running back' pain point).",
+      "quotes": [
+        {
+          "text": "Die ersten 2-3 Bilder beim Intervall sind natürlich nichts, dafür muss man nicht für jedes Bild wieder zur Kamera rennen.",
+          "url": "https://www.fuji-x-forum.de/topic/32729-af-bei-selbstportrait-mit-selbstausl%C3%B6ser/"
+        }
+      ],
+      "sources": [
+        "https://www.fuji-x-forum.de/topic/32729-af-bei-selbstportrait-mit-selbstausl%C3%B6ser/"
+      ]
+    },
+    {
+      "pain": "With the self-timer the camera focuses on the background (the wall) before the parent is in the picture, so the family is blurred.",
+      "fix": "Have one person stand in place, focus on their eyes, then switch the lens to manual focus to lock it (post how-to step 3); or fire from the phone app.",
+      "quotes": [
+        {
+          "text": "Jetzt habe ich versucht mittels Selbstauslöser mit 3 Fotos Aufnahmen von uns zu machen und wir sind komplett unscharf, aber die Wand ist scharf.",
+          "url": "https://lumix-forum.de/viewtopic.php?t=53065"
+        }
+      ],
+      "sources": [
+        "https://lumix-forum.de/viewtopic.php?t=53065"
+      ]
+    },
+    {
+      "pain": "Forum users warn against gaining height with a long, wobbly centre column.",
+      "fix": "Compare column-down heights and raise the column only for the last centimetres, indoors or on calm days (post: height section and 'shake with the column up').",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets recomputed for German averages (Destatis): women 1,66 m -> about 136 to 141 cm on the legs; men 1,79 m -> about 149 to 154 cm. Column down, Manfrotto (146,5 cm) and Vanguard (about 141 cm) clear the women's target, Peak Design (130,2 cm) and Befree (128 cm) fall about 6 to 13 cm short; for the average German man none reaches it, the Manfrotto comes closest at about 2,5 cm short.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "Lufthansa cabin bag 55 x 40 x 23 cm: only the three travel tripods (33 to 40 cm folded) fit lengthwise, the two full-size kits (70,5 and about 72 cm) do not.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Holiday family photo at a church or cathedral: Kölner Dom requires permission from the Dompropst for tripod shots.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Maker metric figures (146,5 cm, 128 cm, 130,2 cm, 138 cm) instead of conversions.",
+      "source": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and the derived 51.5-53.5 in / 57-59 in targets)",
+      "action": "replace",
+      "with": "Destatis: Männer 1,79 m, Frauen 1,66 m, targets about 136-141 cm and 149-154 cm (linked)"
+    },
+    {
+      "english": "each with an in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a description of how the picks were chosen (Amazon US listing) without any local store claim"
+    },
+    {
+      "english": "our tripods under 100 dollars",
+      "action": "replace",
+      "with": "neutral 'günstige Stative' link text, no currency"
+    },
+    {
+      "english": "FAQ 'For the average US woman (63.5 in) ... average man (68.9 in)'",
+      "action": "replace",
+      "with": "German averages 1,66 m / 1,79 m and the cm targets"
+    }
+  ]
+}

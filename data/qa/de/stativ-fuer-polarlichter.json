@@ -1,0 +1,28 @@
+{
+  "slug": "de/stativ-fuer-polarlichter",
+  "lang": "de",
+  "translationOf": "best-tripod-for-northern-lights",
+  "pass": true,
+  "checkedAt": "2026-11-02T17:57:49.932Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-astrophotography/; link the de version once it exists",
+    "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the de version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-feet-for-sand-snow-and-rock/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the de version once it exists",
+    "illustration \"Drehverschluss eines Stativs mit Unterzi\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Niedrig aufgestelltes Stativ mit gesprei\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Schneeteller am Stativfuß, damit das Bei\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-northern-lights: same 5 products/ASINs/scores/spec keys, every spec converted metric first (Gitzo 163,5/140,5/32,4/42,5 cm, 1,45 kg, 10 kg, -30 C; Peak 39,4 cm/1,29 kg/9,1 kg/130,2 cm; Manfrotto 181,5/151,5 cm, 72,5 cm, 3 kg, 15 kg; Benro 146,3/122,9 cm, 51 cm, 1,01 kg, 4 kg; K&F 163 cm, 39,5 cm, 1,15 kg, 8 kg), F to C conversions (-30F=-34C, -40/-50F=-40/-46C), load math 1,9 kg x3 = 5,7 kg, FAQs same answers. Re-opened Gitzo global GK1545T-82TQD page (EU code, same metric specs, no friction control), Benro Europe TSL08CN00 page (1,01 kg, 122,9 cm, 4 kg, weight hook), DWD Thema des Tages 12.10.2024 (Polarlichter twice in 2024), Finnair carry-on 55x40x23, Lufthansa 55x40x23 (local brief), zielfoto.com and norwegen-freunde forum quotes verbatim. No testing/ownership claims, no prices/currency, no local Amazon store claims; max 3 outside links (PhotoPills, Lufthansa, Nat Hab).",
+    "at": "2026-11-02T17:57:49.293Z",
+    "hash": "c134b28df524ddc9"
+  }
+}

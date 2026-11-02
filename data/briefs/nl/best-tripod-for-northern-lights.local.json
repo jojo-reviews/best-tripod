@@ -1,0 +1,123 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-northern-lights",
+  "checkedAt": "2026-11-02T17:54:10Z",
+  "productFit": [
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)",
+      "asin": "B071F31XLR",
+      "status": "localVariant",
+      "variant": "Sold in Europe as GK1545T-82TQD (the English post's US kit code is GK1545T-82TQDUS); same GT1545T legs and GH1382TQD head, same specs.",
+      "metricSpecs": "Gitzo global: 1,45 kg, 163,5 cm max, 140,5 cm column down, 32,4 cm min, 42,5 cm closed, 10 kg safety payload (UNI/PdR 105:2021), -30 °C min working temperature, legs 25,3/21,7/18,2/14,7 mm, leg angles 25° and 70°",
+      "reason": "Gitzo's global site lists the EU code with the same figures as the US page; no friction control on the head, as in the English post.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post: 39,4 cm folded, 1,29 kg, 9,1 kg load, 130,2 cm column down, 152,4 cm max",
+      "reason": "Sold in the EU under the same name (Kamera Express NL, El Corte Inglés ES).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head",
+      "asin": "B010R4BO12",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global: 3 kg, 181,5 cm max, 151,5 cm column down, 72,5 cm folded, 15 kg safety payload, -30 °C",
+      "reason": "Manfrotto (Italian maker) sells the kit worldwide under the same code MK055XPRO3-BHQ2 on its global site.",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/"
+    },
+    {
+      "name": "Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)",
+      "asin": "B071JYLS7K",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 1,01 kg, 146,3 cm max, 122,9 cm column down, 40 cm min, 51 cm packed, 4 kg max payload, twist locks, PU30 plate, weight hook under the column",
+      "reason": "Benro Europe sells TSL08CN00 to EU countries (de.benroeu.com, in stock for EU delivery); amazon.de lists the same ASIN.",
+      "source": "https://de.benroeu.com/benro-slim-stativkit-carbon-faser/"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm, 8 kg load (maker naming \"163cm\"); keep the English 1,15 kg (amazon.es says 1,24 kg)",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and ASIN on amazon.es.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat handbagage toe van max. 55 x 35 x 25 cm inclusief handvatten en wielen; Gitzo (42,5 cm), Peak Design (39,4 cm), K&F (39,5 cm) en Benro (51 cm) passen in de lengte, de Manfrotto 055 (72,5 cm) niet.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Finnair, the usual carrier to Lapland via Helsinki, allows a carry-on bag of max. 55 x 40 x 23 cm.",
+      "source": "https://www.finnair.com/us-en/baggage-on-finnair-flights/carry-on-baggage"
+    },
+    {
+      "fact": "KNMI: het noorderlicht is in Nederland alleen te zien tijdens een periode van maximale zonneactiviteit (piek rond 2024/2025); eind maart en eind september is de kans iets groter, en het moet donker en grotendeels onbewolkt zijn.",
+      "source": "https://www.knmi.nl/over-het-knmi/nieuws/noorderlicht-in-nederland"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u, met als uitwerking: \"paraplu's met moeite vast te houden\".",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Termen: balhoofd / kogelkop, middenkolom, draaisluiting, klemsluiting (flip lock), snelkoppelplaat, spikes, sneeuwvoetjes; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Holding a light tripod down by hand in polar wind, with hands freezing through the gloves.",
+      "fix": "Hang the bag from the hook, legs wide, column down, thin sections collapsed; liners under mittens; Manfrotto 055 for windy self-drive trips.",
+      "quotes": [
+        {
+          "text": "13sec mijn statief tegen de grond gedrukt gehouden en na een paar pogingen met, door de handschoenen heen, bevroren handen snel weer naar binnen gegaan.",
+          "url": "https://zoom.nl/foto/landschap/3288786/noorderlicht-boven-hverfjall-vulkaan-ijsland"
+        }
+      ],
+      "sources": [
+        "https://zoom.nl/foto/landschap/3288786/noorderlicht-boven-hverfjall-vulkaan-ijsland"
+      ]
+    },
+    {
+      "pain": "Pressing on the tripod during the exposure transmits shake.",
+      "fix": "Fire with the 2- or 5-second timer and stand upwind instead of touching the tripod (English post setup steps).",
+      "quotes": [],
+      "sources": [
+        "https://zoom.nl/foto/landschap/3288786/noorderlicht-boven-hverfjall-vulkaan-ijsland"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM and Finnair cabin sizes checked against each tripod's folded length.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "KNMI: aurora is occasionally visible in the Netherlands during the solar maximum, so the tripod is useful at home too.",
+      "source": "https://www.knmi.nl/over-het-knmi/nieuws/noorderlicht-in-nederland"
+    },
+    {
+      "point": "Zoom.nl photographer report from Iceland (holding the tripod down for 13 seconds), answered with the hook-and-wide-legs fix.",
+      "source": "https://zoom.nl/foto/landschap/3288786/noorderlicht-boven-hverfjall-vulkaan-ijsland"
+    },
+    {
+      "point": "Maker metric figures from Gitzo global and Benro Europe instead of conversions.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Fahrenheit-only figures (-30°F Churchill nights, -40 °F to -50 °F Fairbanks report, 5 ft 7 in to 5 ft 11 in owners)",
+      "action": "replace",
+      "with": "Metric first: about -34 °C, -40 °C to -46 °C, about 170 to 180 cm, imperial in brackets"
+    },
+    {
+      "english": "Opening scene flight to Tromsø with a carry-on (US reader)",
+      "action": "replace",
+      "with": "Keep Tromsø; add the local airline cabin-bag size from localFacts (the Gitzo's 42,5 cm and the Peak Design's 39,4 cm fit; the Manfrotto's 72,5 cm does not)"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "de/bestes-stativ-fuer-canon-r50",
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-r50",
+  "pass": true,
+  "checkedAt": "2026-11-02T18:01:46.728Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the de version once it exists",
+    "internal link to the English post /blog/tripod-shake-when-pressing-shutter/; link the de version once it exists",
+    "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the de version once it exists",
+    "illustration \"Eine Schnellwechselplatte unter eine Kam\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Eine Tasche an den Stativhaken hängen, M\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-canon-r50 (QA pass): same 5 products/ASINs/scores/spec keys/owners, same headroom maths (505 g; 18x/17.8x/15.8x/5.9x), FAQs same answers. Units metric first from the maker figures (Element MII 160/132/43/42,5 cm, 1,55 kg, 8 kg per Manfrotto global page; Peak 152,4/130,2/14/39,4 cm, 1,56 kg, 9,1 kg; Befree 151/128/40/40 cm, 1,59 kg, 9 kg, EU code MKBFRLA4BK-BH per Foto Erhardt; K&F 160/116/40/39 cm, 1,24 kg, 8 kg per kfconcept.com table re-opened; GorillaPod ~30 cm (12 in), 3 kg). Local facts from the local brief re-opened: R50 375 g with battery and card on the local Canon spec page; Lufthansa cabin bag 55 x 40 x 23 cm (lufthansa.com); Koelner Dom Domordnung par. 2 (3) Aufnahmen mit Stativen beduerfen einer Genehmigung durch den Dompropst (scraped today); canon-eos-r-forum.de quotes (scraped today). Forum quotes verbatim from the scraped thread pages. No testing/ownership claims (we have not used these tripods), no prices or currency (lens-filter-kit price comparison dropped), no local Amazon store; Amazon US listing wording made neutral. 3 outside links (Canon local spec page, airline, venue); Manfrotto 8 kg and K&F 45.67 in number links kept as plain text to stay at 3.",
+    "at": "2026-11-02T18:01:45.222Z",
+    "hash": "9afdbeb6485c2033"
+  }
+}

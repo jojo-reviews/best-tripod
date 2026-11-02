@@ -1,0 +1,146 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-family-photos",
+  "checkedAt": "2026-11-02T17:54:50Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Maker: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (Manfrotto global page, same figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 in stock; Foto Koch (Malta shop) lists the MK190XPRO3 incl. BHQ2 set.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "metricSpecs": "No EU maker page for the Gen 2 found; English figures convert to about 141 cm column down, 173 cm max., 72 cm folded, 2,2 kg, 10 kg load.",
+      "reason": "Vanguard Spain lists the earlier Alta Pro 2 263AB 100 kit as discontinued; the Gen 2 in this post was only found on Vanguard US pages.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post: 130,2 cm column down, 1,56 kg.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from Sirui figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Muy Interesante, with NCD Risk Factor Collaboration (The Lancet) data: in 2019 men in Spain averaged 1,76 m and women 1,62 m. Replaces the CDC US averages in the eye-level section.",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm. The Sirui (33 cm), Peak Design (39,4 cm) and Befree Advanced (40 cm) fit lengthwise; the Manfrotto 190XPRO kit (70,5 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Alhambra (Patronato de la Alhambra y Generalife): photos only without flash and without tripod, monopod or any other camera stabilising element.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Sagrada Família normativa: photos or videos with a tripod are not allowed inside the grounds, except for people or companies accredited in advance.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Spanish terms: rótula de bola (ball head), columna central, temporizador / autodisparador (self-timer), disparador remoto (remote shutter release), intervalómetro, zapata; Arca-Swiss keeps its name.",
+      "source": "https://foro.portalpez.com/threads/disparadores-remotos-para-camaras-digitales.119329/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Running into the frame when the self-timer beeps.",
+      "fix": "Use a remote shutter release or the camera's interval timer (post how-to steps 4-5).",
+      "quotes": [
+        {
+          "text": "Podemos usar el disparador para accionar la cámara en el momento justo sin tener que correr al oir el autodisparador de la cámara.",
+          "url": "https://foro.portalpez.com/threads/disparadores-remotos-para-camaras-digitales.119329/"
+        }
+      ],
+      "sources": [
+        "https://foro.portalpez.com/threads/disparadores-remotos-para-camaras-digitales.119329/"
+      ]
+    },
+    {
+      "pain": "Buyers don't know how tall the tripod must be; forum advice is that it should reach face height with the camera.",
+      "fix": "Height rule: your height minus about 25 to 30 cm on the legs alone, computed for Spanish averages (local gain).",
+      "quotes": [
+        {
+          "text": "la altura debería quedarte, una vez desplegado por completo, a la altura de la cara (incluyendo la cámara).",
+          "url": "https://forocoches.com/foro/showthread.php?t=9549655"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=9549655"
+      ]
+    },
+    {
+      "pain": "For trips, users want a tripod with 4-5 sections, under 2 kg and about 40-45 cm folded.",
+      "fix": "The Befree Advanced (40 cm, 1,59 kg), Peak Design (39,4 cm, 1,56 kg) and Sirui (33 cm, 0,85 kg) meet that; the two full-size kits don't.",
+      "quotes": [
+        {
+          "text": "tiraría por uno de 4 o 5 secciones, no mas de 2KG y que plegado no se vaya a mas de 40-45cm",
+          "url": "https://forocoches.com/foro/showthread.php?t=9549655"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=9549655"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets recomputed for Spanish averages (1,76 m / 1,62 m): women about 132 to 137 cm on the legs, men about 146 to 151 cm. Column down, Manfrotto (146,5 cm) and Vanguard (about 141 cm) clear the women's target, Peak Design (130,2 cm) and Befree (128 cm) fall about 2 to 9 cm short; for men only the Manfrotto reaches the low end (146,5 cm).",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "point": "Iberia cabin bag 56 x 40 x 25 cm: only the three travel tripods fit lengthwise.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Family holiday photos at the Alhambra or the Sagrada Família: tripods are not allowed there, so plan the tripod family photo outside the grounds.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Maker metric figures instead of conversions.",
+      "source": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and derived targets)",
+      "action": "replace",
+      "with": "Spain 1,76 m / 1,62 m (Muy Interesante, NCD-RisC data), targets about 146-151 cm and 132-137 cm"
+    },
+    {
+      "english": "our tripods under 100 dollars",
+      "action": "replace",
+      "with": "neutral 'trípodes económicos' link text, no currency"
+    },
+    {
+      "english": "FAQ 'For the average US woman (63.5 in) ... average man (68.9 in)'",
+      "action": "replace",
+      "with": "Spanish averages and cm targets"
+    }
+  ]
+}

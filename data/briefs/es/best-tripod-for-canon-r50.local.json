@@ -1,0 +1,140 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-canon-r50",
+  "checkedAt": "2026-11-02T17:54:32Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "asin": "B08JZCQ9WQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max, 132 cm column down, 42,5 cm folded, 1,55 kg, 8 kg payload",
+      "reason": "Manfrotto sells the same MKELMII4BK-BH code worldwide (global EU site) and EU retailers such as amazon.de list it under the same name.",
+      "source": "https://www.manfrotto.com/global-en/element-mii-aluminium-black-mkelmii4bk-bh/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,1 kg",
+      "reason": "Kamera Express (NL/BE) sells the Peak Design Travel Tripod Aluminum under the same name.",
+      "source": "https://www.kamera-express.nl/peak-design-travel-aluminium-statief"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "MKBFRLA4BK-BH (EU code; the US kit is MKBFRLA4BK-BHUS). Same lever-lock aluminium legs and 494 ball head; only the market code differs.",
+      "metricSpecs": "Manfrotto/Foto Erhardt: 151 cm max, 128 cm column down, 40 cm min, 40 cm folded, 1,59 kg, 9 kg",
+      "reason": "German retailers sell the Befree Advanced lever aluminium kit as MKBFRLA4BK-BH and list 128 cm height and 40 cm pack size.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "K&F: 1,6 m max, 400 mm min (K&F also prints 19.68 in), 390 mm folded, 1,24 kg, 8 kg",
+      "reason": "Sold in Spain under the same code O234A1+BH-36 and the same ASIN as 'Tripode Camara 163CM'.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "JOBY: 3 kg load",
+      "reason": "Sold in Germany/EU as JB01507-BWW (Pro Lighting, Martcom, idealo).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/foto-tischstativ/joby-gorillapod-r-3k-stativ-kit.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon España lists the EOS R50 (black) at approx. 328 g body only and 375 g with card and battery (CIPA).",
+      "source": "https://www.canon.es/cameras/eos-r50/specifications/"
+    },
+    {
+      "fact": "Iberia allows one cabin bag up to 10 kg with max. 56 x 40 x 25 cm; all four full-size picks (42,5 / 39,4 / 40 / 39 cm folded) fit by length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Sagrada Família normativa: photos or videos with a tripod are not allowed inside the site, except for people or companies accredited beforehand.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Alhambra (Patronato): photos only without flash and without tripod, monopod or any other camera stabilising element.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Spanish terms: rótula de bola, columna central, zapata / placa de liberación rápida; Arca-Swiss keeps its name.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A tripod is light and stable only while the centre column stays down.",
+      "fix": "Rank on column-down height (English post); Element MII 132 cm, Peak Design 130 cm.",
+      "quotes": [
+        {
+          "text": "Es un trípode ligero pero muy estable si no despliegas la columna central, para transportarlo es una gozada.",
+          "url": "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "A cheap light aluminium tripod soon feels unstable.",
+      "fix": "Pick legs, not load rating: the K&F is the budget pick but keep its column low; the Element MII adds a bag hook.",
+      "quotes": [
+        {
+          "text": "Empecé con un trípode de aluminio (cullman), que, la verdad, se me quedó corto en seguida: barato, ligero, pero nada estable",
+          "url": "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Hiking and stability pull in opposite directions.",
+      "fix": "Peak Design for hiking/cabin bag, Element MII for home and local landscapes (English decision list).",
+      "quotes": [
+        {
+          "text": "para senderismo uno ligero y que pliegue mucho, para astrofotografía mejor uno muy estable y robusto.",
+          "url": "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Iberia 56 x 40 x 25 cm cabin-bag check for all four full-size picks.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Sagrada Família and Alhambra tripod bans: where a tripod stays at the hotel.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "point": "Maker metric figures and the R50 weight from Canon España; EU code MKBFRLA4BK-BH for the Befree Advanced.",
+      "source": "https://www.canon.es/cameras/eos-r50/specifications/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with its own in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing'"
+    },
+    {
+      "english": "Canon USA spec link for 375 g",
+      "action": "replace",
+      "with": "Canon España spec page (same 375 g)"
+    },
+    {
+      "english": "'carry-on' (US airline wording)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin-bag fact"
+    },
+    {
+      "english": "'for the price of a lens filter kit' (price comparison)",
+      "action": "drop"
+    }
+  ]
+}

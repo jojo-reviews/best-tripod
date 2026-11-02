@@ -1,0 +1,145 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-nikon-zf",
+  "checkedAt": "2026-11-02T16:30:00Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, 1,56 kg, 9,1 kg load (maker/retailer figures, same as the English post)",
+      "reason": "Sold through Peak Design's EU web store under the same name; Kamera Express and Foto Koch list it.",
+      "source": "https://www.peakdesign.com/eu/products/travel-tripod"
+    },
+    {
+      "name": "SmallRig AP-10 Carbon Fiber Tripod",
+      "asin": "B09Q6CPTLF",
+      "status": "fits",
+      "metricSpecs": "SmallRig: working height 54,0-133,0 cm, net weight 1,2 kg, tripod load 12 kg, head load 8 kg (SKU 4060); Kamera Express lists 53,7 cm packed length",
+      "reason": "Sold in the EU under the same model code 4060 (Kamera Express AT 'SmallRig 4060 Carbonfaser-Stativ AP-10'; amazon.de lists 'SmallRig AP-10 Kohlefaser-Stativ' under its own EU ASIN B08BRVBGLC).",
+      "source": "https://www.kamera-express.at/products/smallrig-4060-carbonfaser-stativ-ap-10"
+    },
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net, NIMAX) lists the set as 'LS-284C Ranger + Ballhead LH-30 + 2-segment centre column DC-282C' (code without the X suffix of the US kit); same 4-section columnless carbon legs, LH-30 head and add-on column. No EU listing of the X-coded kit was found.",
+      "metricSpecs": "leofoto.net: 1.270 mm max. working height without ball head and centre column, 53 cm pack size, 1,43 kg legs, 10 kg load; LH-30 head 310 g, rated 15 kg",
+      "reason": "Sold EU-wide by the German Leofoto dealer with free EU shipping, under the LS-284C code.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599"
+    },
+    {
+      "name": "Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head",
+      "asin": "B0DR8V9WSP",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net) lists 'LS-224C Ranger + Ballhead LH-25 + short centre column DC-222C' (code without the X suffix); same legs, LH-25 head and DC-222C column as the US kit.",
+      "metricSpecs": "leofoto.net: 47 cm folded, 0,91 kg including ball head, 6 kg load, 13 cm min. working height, 148 cm max. with the centre column",
+      "reason": "Sold EU-wide by the German Leofoto dealer under the LS-224C code; the 47 cm and 0,9 kg figures match the English post's 18.62 in and 1.98 lb.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-224c-ranger-ballhead-lh-25-short-centre-column-dc-222c/p,70597"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B0C81TNMP4",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Sold in the Benelux under the same name (Cameranu lists 'Joby GorillaPod 3K Kit Zwart'); Dutch site avondfotografie.nl reviewed the 3K Kit.",
+      "source": "https://www.cameranu.nl/advies/video/vlog/wat-heb-ik-nodig-voor-vlog"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM allows one cabin bag of max. 55 x 35 x 25 cm including handles and wheels: by length the Peak Design (39 cm), LS-224CX (47 cm) and AP-10 (54 cm) fit; the LS-284CX with the head on (about 56 cm) does not.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Het Rijksmuseum verwijst voor fotograferen naar zijn Algemene Voorwaarden, met als voorbeeld: geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 'krachtig', 39-49 km/u, met als uitwerking: 'paraplu's met moeite vast te houden'.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Dutch terms: statiefkop, balhoofd, snelkoppelplaat, middenkolom; Arca-Swiss keeps its name.",
+      "source": "https://www.amazon.nl/Harwerrel-Aluminium-Arca-Swiss-Standaard-Ballhead/dp/B071FBXHNN"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dutch photographers are unsure whether a tripod is allowed in hand baggage.",
+      "fix": "Check the airline's size rule: the Peak Design, LS-224CX and AP-10 fit KLM's 55 cm by length; advice in forums conflicts, so check with the airline before you fly.",
+      "quotes": [
+        {
+          "text": "Wordt dit niet gezien als slagwapen oid?",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=37726"
+        },
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+      ]
+    },
+    {
+      "pain": "A GorillaPod 3K head sagged with a Nikon Z body and a heavy 24-70.",
+      "fix": "Keep the GorillaPod for the Zf with the 40mm SE (880 g); put the 24-70mm on a full tripod (English post).",
+      "quotes": [
+        {
+          "text": "Probeer een ruime marge aan te houden qua gewicht om te voorkomen dat de camera langzaam naar beneden kantelt.",
+          "url": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "With the centre column fully up the tripod may not stay still in wind.",
+      "fix": "Keep the column down or pick the columnless AP-10 or LS-284CX.",
+      "quotes": [
+        {
+          "text": "Alles staat op zich wel stabiel, het wiebelt niet, maar of het buiten in de wind helemaal stil blijft staan betwijfel ik.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+        }
+      ],
+      "sources": [
+        "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which of the five fit KLM's 55 x 35 x 25 cm cabin bag by folded length.",
+      "source": "https://www.klm.nl/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "No tripods in the Rijksmuseum and Rijksmuseum Boerhaave.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "point": "Dutch reviewer's GorillaPod 3K sag warning with a Nikon Z and 24-70, plus EU codes and metric figures for the Leofoto kits.",
+      "source": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with an in-stock Amazon US listing' (How I picked)",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "'Carry-on trips with primes or the 24-70mm' / 'the one I'd fly with' (US carry-on wording, no size given)",
+      "action": "replace",
+      "with": "the local airline cabin-bag size fact, with folded lengths in cm"
+    },
+    {
+      "english": "'Push the camera forward in the store before you buy'",
+      "action": "replace",
+      "with": "keep the advice, phrased as checking it at a local photo shop or at home (no store claims)"
+    }
+  ]
+}

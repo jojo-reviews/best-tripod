@@ -1,0 +1,134 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-family-photos",
+  "checkedAt": "2026-11-02T17:54:50Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Maker: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (Manfrotto global page, same figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 in stock; Foto Koch (Malta shop) lists the MK190XPRO3 incl. BHQ2 set.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB G2",
+      "asin": "B0FXN2JLPM",
+      "status": "unknown",
+      "metricSpecs": "No EU maker page for the Gen 2 found; English figures convert to about 141 cm column down, 173 cm max., 72 cm folded, 2,2 kg, 10 kg load.",
+      "reason": "Vanguard Spain lists the earlier Alta Pro 2 263AB 100 kit as discontinued; the Gen 2 in this post was only found on Vanguard US pages.",
+      "source": "https://www.vanguardworld.es/products/alta-pro-2-263ab-100"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post: 130,2 cm column down, 1,56 kg.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from Sirui figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: Dutch men aged 19 were on average 182,9 cm tall in 2020, women 169,3 cm. Replaces the CDC US averages in the eye-level section.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "KLM: hand baggage, including handles and wheels, max. 55 x 35 x 25 cm. The Sirui (33 cm), Peak Design (39,4 cm) and Befree Advanced (40 cm) fit inside lengthwise; the Manfrotto 190XPRO kit (70,5 cm) and the Vanguard (about 72 cm) do not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum: visitors may photograph and film without disturbing others; for bridal photography the museum explicitly states \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Zoom Academy (Zoom.nl) on group portraits: put the camera on a tripod, choose an aperture that keeps front and back row sharp, focus manually at a point about a third into the group and check the first frame zoomed in on the display.",
+      "source": "https://zoom.nl/artikel/cursussen/24627-expertcursus-groepsportretten.html"
+    },
+    {
+      "fact": "Dutch terms: balhoofd/kogelkop (ball head), middenkolom, zelfontspanner (self-timer), afstandsbediening (remote), intervalopnames, snelkoppelingsplaat; Arca-Swiss keeps its name.",
+      "source": "https://fotografieploeg.nl/fotografie-kennisbank/zelfontspanner-of-afstandsbediening/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsure whether a tripod strapped to the backpack is allowed as hand baggage when flying with the family.",
+      "fix": "Pick a tripod that folds to 33-40 cm so it fits inside a KLM cabin bag (55 x 35 x 25 cm); a full-size kit (70,5 cm) goes in the hold. Check with the airline before flying.",
+      "quotes": [
+        {
+          "text": "Weet iemand toevallig of ik dat ding gewoon aan m'n rugzak gebonden als handbagage mee kan nemen?",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1380950"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1380950",
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    },
+    {
+      "pain": "Security or airline staff can refuse a tripod in the cabin on one leg of the trip.",
+      "fix": "Keep the tripod inside the bag, not strapped outside, or check it in; the travel picks fit in a suitcase easily.",
+      "quotes": [
+        {
+          "text": "Heb met Ryanair gevlogen, de heenweg was geen probleem, de terugweg absoluut wel! Moest het ruim in dus.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1380950"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1380950"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets recomputed for Dutch heights (CBS, 19-year-olds: men 182,9 cm, women 169,3 cm): women about 139 to 144 cm on the legs, men about 153 to 158 cm. Column down, only the Manfrotto (146,5 cm) clears the women's target and the Vanguard (about 141 cm) lands inside it; Peak Design (130,2 cm) and Befree (128 cm) fall about 9 to 16 cm short; no pick reaches the men's target, so tall Dutch fathers raise the column a little or use the screen.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "KLM hand baggage 55 x 35 x 25 cm: only the three travel tripods fit inside.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Zoom Academy's manual focus tip for group photos backs the focus-lock step.",
+      "source": "https://zoom.nl/artikel/cursussen/24627-expertcursus-groepsportretten.html"
+    },
+    {
+      "point": "Maker metric figures instead of conversions.",
+      "source": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and derived targets)",
+      "action": "replace",
+      "with": "CBS 182,9 cm / 169,3 cm, targets about 153-158 cm and 139-144 cm"
+    },
+    {
+      "english": "our tripods under 100 dollars",
+      "action": "replace",
+      "with": "neutral 'goedkope statieven' link text, no currency"
+    },
+    {
+      "english": "FAQ 'For the average US woman (63.5 in) ... average man (68.9 in)'",
+      "action": "replace",
+      "with": "Dutch averages and cm targets"
+    }
+  ]
+}
