@@ -1,0 +1,598 @@
+{
+  "centralEntity": "tripod for Canon R6 Mark II",
+  "entityVariants": [
+    "best tripod for canon r6 mark ii",
+    "tripod for canon r6 mark ii",
+    "canon r6 ii tripod",
+    "best travel tripod for canon r6 mark ii",
+    "canon r6 mark ii tripod",
+    "r6 mark ii tripod",
+    "best tripod for canon r6"
+  ],
+  "entities": [
+    {
+      "name": "tripod for Canon R6 Mark II",
+      "type": "central entity",
+      "relation": "what the searcher wants to buy",
+      "salience": 1
+    },
+    {
+      "name": "Canon EOS R6 Mark II",
+      "type": "camera",
+      "relation": "full-frame mirrorless body, approx. 670 g with card and battery (Canon)",
+      "salience": 0.9
+    },
+    {
+      "name": "Canon EOS R6",
+      "type": "camera",
+      "relation": "earlier body most top pages are written for; same tripod advice",
+      "salience": 0.8,
+      "pages": 3
+    },
+    {
+      "name": "camera tripod",
+      "type": "product category",
+      "relation": "TextRazor top shared entity",
+      "salience": 0.94,
+      "pages": 3
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter legs; Peak Design, Leofoto and Benro picks",
+      "salience": 0.72,
+      "pages": 3
+    },
+    {
+      "name": "Canon",
+      "type": "brand",
+      "relation": "camera and RF lens maker",
+      "salience": 0.63,
+      "pages": 3
+    },
+    {
+      "name": "RF 24-105mm F4L IS USM",
+      "type": "lens",
+      "relation": "about 700 g standard zoom",
+      "salience": 0.6
+    },
+    {
+      "name": "RF 70-200mm F2.8L IS USM",
+      "type": "lens",
+      "relation": "about 1,070 g telephoto zoom",
+      "salience": 0.55
+    },
+    {
+      "name": "RF 100-500mm F4.5-7.1L IS USM",
+      "type": "lens",
+      "relation": "1,530 g with tripod mount ring",
+      "salience": 0.55
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "Befree Advanced maker",
+      "salience": 0.45,
+      "pages": 3
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "most-named travel pick",
+      "salience": 0.6
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "type": "product",
+      "relation": "value travel kit",
+      "salience": 0.5
+    },
+    {
+      "name": "Leofoto LS-284CX",
+      "type": "product",
+      "relation": "columnless landscape pick",
+      "salience": 0.45
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB",
+      "type": "product",
+      "relation": "full-size multi-angle column kit",
+      "salience": 0.45
+    },
+    {
+      "name": "Benro Slim",
+      "type": "product",
+      "relation": "budget carbon travel tripod",
+      "salience": 0.45
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "premium alternative named in threads",
+      "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "lens",
+      "type": "concept",
+      "relation": "the lens decides the load",
+      "salience": 0.44,
+      "pages": 2
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "every pick ships with or takes one",
+      "salience": 0.5
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "plate and L-bracket standard",
+      "salience": 0.5
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "weak point in wind",
+      "salience": 0.5
+    }
+  ],
+  "attributes": [
+    "rated load vs R6 Mark II plus RF lens weight",
+    "load headroom (50% rule from DPReview thread)",
+    "height with the center column down",
+    "folded length for a carry-on",
+    "weight with head",
+    "leg sections and thinnest tube",
+    "leg lock type (flip, lever, twist)",
+    "Arca-Swiss compatibility",
+    "columnless vs center column",
+    "head friction control"
+  ],
+  "ngrams": [
+    "tripod for canon r6 mark ii",
+    "travel tripod",
+    "carbon fiber",
+    "ball head",
+    "center column",
+    "arca swiss",
+    "load capacity",
+    "24-105",
+    "70-200",
+    "100-500",
+    "peak design travel tripod",
+    "befree advanced",
+    "leg locks",
+    "folded length"
+  ],
+  "skipgrams": [
+    "tripod…R6",
+    "column…wind",
+    "carbon…weight",
+    "arca…plate",
+    "lens…weight",
+    "load…rating",
+    "legs…sections"
+  ],
+  "nlpTerms": [
+    "Canon",
+    "R6 Mark II",
+    "full-frame",
+    "mirrorless",
+    "24-105mm",
+    "70-200mm",
+    "100-500mm",
+    "carbon fiber",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "L-bracket",
+    "center column",
+    "columnless",
+    "folded length",
+    "load capacity",
+    "twist lock",
+    "long exposure",
+    "wind",
+    "landscape",
+    "hiking",
+    "carry-on",
+    "tripod mount ring",
+    "multi-angle column"
+  ],
+  "questions": [
+    "What is the best tripod for a Canon R6 Mark II?",
+    "How much weight does an R6 Mark II with a 70-200 or 100-500 put on a tripod?",
+    "Is the Peak Design Travel Tripod good enough for an R6 Mark II?",
+    "Is a budget tripod OK for the R6 Mark II?",
+    "Do I need an L-bracket for the R6 Mark II?",
+    "Will these tripods work with the original R6?"
+  ],
+  "contentGaps": [
+    "Load headroom per tripod with Canon kit weights (24-105, 70-200, 100-500 with ring)",
+    "The 50% load rule from a DPReview thread applied to each pick",
+    "Column-down height compared across picks",
+    "Leg-section count and thinnest tube vs wind",
+    "Chooser by lens and trip"
+  ],
+  "outline": [
+    {
+      "h2": "Canon R6 Mark II tripod comparison by lens weight",
+      "intent": "first block: comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked each Canon R6 Mark II tripod",
+      "intent": "method, who recommends them, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Canon R6 Mark II, reviewed",
+      "intent": "one paragraph section per product",
+      "h3": [
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+        "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+        "Vanguard Alta Pro 2+ 263AB G2",
+        "Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)"
+      ]
+    },
+    {
+      "h2": "Which Canon R6 Mark II tripod should you get?",
+      "intent": "decision rule by lens and trip",
+      "h3": []
+    },
+    {
+      "h2": "How much load a Canon R6 Mark II and RF lenses put on a tripod",
+      "intent": "ourGain analysis: kit weights and headroom",
+      "h3": []
+    },
+    {
+      "h2": "Canon R6 Mark II tripod problems owners run into, and the fix",
+      "intent": "pain points with fixes",
+      "h3": []
+    }
+  ],
+  "targetWords": 1600,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+      "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+      "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+      "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+      "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Lens-rumors writes one review paragraph per tripod; Packapop writes prose sections with short why/consider lists; the Canon Rumors and DPReview threads are prose replies; Manfrotto is prose.",
+    "avgWords": 1500,
+    "avgProducts": 5,
+    "commonSections": [
+      "short intro",
+      "one section per tripod",
+      "what matters (load, carbon vs aluminum, portability, Arca-Swiss)",
+      "comparison table",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.facebook.com/groups/1591512881268034/posts/2371141829971798/",
+      "title": "Tripod recommendations for Canon R6 Mark II? - Facebook"
+    },
+    {
+      "position": 2,
+      "url": "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+      "title": "[Solved] Best tripod and bag combo for a Canon R6 Mark II?"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/canon/comments/1f0hm2v/a_decent_travel_tripod_for_canon_r6_ii_rf_2470_28/",
+      "title": "A decent travel tripod for Canon R6 ii + RF 24-70 2.8? - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+      "title": "5 Best Tripod for Canon EOS R6: Worth Buying (2026) - Packapop"
+    },
+    {
+      "position": 5,
+      "url": "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/",
+      "title": "New Canon R5 and R6: find the best tripod head match! - Manfrotto"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=o-r_liKENMo",
+      "title": "BEST TRIPOD for CANON, NIKON & SONY MIRRORLESS CAMERAS"
+    },
+    {
+      "position": 7,
+      "url": "https://www.kentfaith.com/feature_tripod-for-canon-r6-mark-ii",
+      "title": "Tripod For Canon R6 Mark Ii - K&F Concept"
+    },
+    {
+      "position": 8,
+      "url": "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+      "title": "Recommend tripod for Astro & Landscape for R6 - DPReview"
+    },
+    {
+      "position": 9,
+      "url": "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+      "title": "Best Tripod for Canon EOS R6 Under $200 – Top Tech Suggestion"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=VJQF2k5BEFI",
+      "title": "Canon R6 Mark II Tripod Mount Replacement, This Is Way Harder ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "Canon R6",
+      "R6 Mark II",
+      "recommendations",
+      "best",
+      "tripod"
+    ],
+    "gap": "No top-10 title starts with the exact keyword or carries a year for the Mark II, and none matches the tripod to the RF lens (24-105 vs 70-200 vs 100-500)."
+  },
+  "serpProducts": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "note": "Packapop top pick; Canon Rumors replies name the carbon and aluminum versions; the DPReview R6 thread debates it."
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "note": "Packapop best value, lens-rumors \"worth the stretch\"; a Canon Rumors reply found the carbon version flimsy in wind."
+    },
+    {
+      "name": "Leofoto LS-284C Ranger with LH-30",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+      ],
+      "note": "Canon Rumors reply recommends it for stability; a DPReview R6 owner uses a Leofoto Ranger with LH-30 outdoors. The LS-284CX is the current version."
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263AB 100",
+      "pages": [
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "note": "Lens-rumors best overall value; Canon Rumors reply lists it. The 263AB G2 (BH-60 head) is the current generation on Amazon US, sold by Amazon."
+    },
+    {
+      "name": "Benro Slim Carbon Fiber",
+      "pages": [
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "note": "Lens-rumors best bang for buck; Canon Rumors reply recommends it for hikes. TSL08CN00 is the carbon, twist-lock version both describe."
+    },
+    {
+      "name": "K&F Concept (94 in aluminum / 64 in carbon)",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/"
+      ],
+      "note": "Different models on each page, so not one qualifying product."
+    },
+    {
+      "name": "SIRUI AM-254 / Sirui (mid-size)",
+      "pages": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+      ],
+      "note": "No single model named twice."
+    },
+    {
+      "name": "Gitzo Traveler GT1545T",
+      "pages": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "note": "One page only."
+    }
+  ],
+  "commonPoints": [
+    "The R6 and R6 Mark II use the standard 1/4-20 socket, so any camera tripod fits",
+    "Carbon fiber saves weight and damps vibration better than aluminum; aluminum is cheaper",
+    "Pick a load rating comfortably above camera plus lens",
+    "Arca-Swiss compatible plates let you share plates and use an L-bracket",
+    "Travel tripods trade stiffness for packed size; heavy telephotos want bigger legs"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Kit weights from Canon: R6 Mark II 670 g with card and battery; + RF 24-105 F4L (700 g) = 1,370 g; + RF 70-200 F2.8L (1,070 g) = 1,740 g; + RF 100-500 with ring (1,530 g) = 2,200 g. Headroom with the 100-500 kit: Benro Slim 4 kg = 1.8x; Peak Design 9.1 kg and Befree 9 kg = about 4.1x; Leofoto and Vanguard 10 kg = about 4.5x.",
+      "source": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/; https://global.canon/en/c-museum/product/rf471.html; https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/; https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+        "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height compared: Vanguard 55.6 in, Leofoto legs 51.97 in with no column, Peak Design 51.25 in, Befree 50.4 in, Benro 48.4 in; only the Vanguard stays above 55 in without raising a column.",
+      "source": "Maker and B&H spec pages listed in sources",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+        "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by lens and trip: 24-105 and flights = Peak Design (or Befree to save money); landscapes and wind with an L-bracket = Leofoto LS-284CX; 100-500 or macro at home = Vanguard Alta Pro G2; lightest budget hiking kit with a 24-105 or primes = Benro Slim.",
+      "source": "Specs above plus owner threads",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+        "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "DPReview advice to buy 50% more load than your heaviest kit and avoid 5-section legs with sub-16mm tubes, applied to each pick: all clear 1.5x with the 100-500 kit; the Peak Design is the only 5-section pick.",
+      "source": "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/",
+      "absentFrom": [
+        "https://packapop.com/blogs/youtube-success-blog/best-tripods-for-canon-eos-r6",
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/",
+        "https://www.lens-rumors.com/toptechsuggestion/best-tripod-for-canon-eos-r6-under-200/",
+        "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "canon-r6ii-slim-column-slips",
+      "pain": "The slim center column of a travel tripod slips or shakes with more than an R6 and a standard zoom",
+      "details": "DPReview R6 owners keep a Peak Design-type travel tripod to the body and a standard zoom, little wind, and the column down.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+      ],
+      "quotes": [
+        {
+          "text": "The extending skinny center column can slip a bit under very heavy load.",
+          "url": "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+        }
+      ]
+    },
+    {
+      "id": "canon-r6ii-light-travel-tripod-flimsy-in-wind",
+      "pain": "A light travel tripod feels flimsy for long exposures on a windy coast",
+      "details": "An R6 Mark II owner found the Befree Advanced carbon flimsy in coastal wind and moved to a stiffer Gitzo for 30-second exposures.",
+      "sources": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "quotes": [
+        {
+          "text": "it just felt kinda flimsy for long exposures when the wind picked up on the coast",
+          "url": "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+        }
+      ]
+    },
+    {
+      "id": "canon-r6ii-leg-locks-gritty",
+      "pain": "Leg locks pick up grit on dirt trails",
+      "details": "The same Canon Rumors owner found the Peak Design leg locks get gritty in the dirt on hikes.",
+      "sources": [
+        "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+      ],
+      "quotes": [
+        {
+          "text": "I found the leg locks get gritty in the dirt",
+          "url": "https://forum.canonrumors.co/rf-forum/best-tripod-and-bag-combo-for-a-canon-r6-mark-ii-30275/"
+        }
+      ]
+    },
+    {
+      "id": "canon-r6ii-thin-five-section-legs",
+      "pain": "Thin five-section legs flex for night and landscape work",
+      "details": "DPReview R6 astro and landscape replies advise against 5-section legs or thin bottom tubes.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+      ],
+      "quotes": [
+        {
+          "text": "Try to avoid 5 section legs, or 4 section legs where the smallest tube is less than 16mm diameter.",
+          "url": "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+        }
+      ]
+    },
+    {
+      "id": "canon-r6ii-how-much-load",
+      "pain": "Not knowing how much load rating the R6 and its lenses need",
+      "details": "A DPReview reply sets the rule: take your heaviest kit and add 50% to the load rating.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+      ],
+      "quotes": [
+        {
+          "text": "choose the tripod with 50 % bigger max possible load",
+          "url": "https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "670 g",
+      "claim": "Canon EOS R6 Mark II weight with card and battery",
+      "url": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+      "quote": "Approx. 588 g (670 g with card and battery)"
+    },
+    {
+      "number": "1530g",
+      "claim": "RF 100-500mm weight with tripod mount",
+      "url": "https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
+      "quote": "At 1530g with tripod mount, and 207mm when retracted, the RF 100-500mm F4.5-7.1 L IS USM is a go-anywhere telephoto zoom."
+    },
+    {
+      "number": "1,070g",
+      "claim": "RF 70-200mm F2.8L IS USM weight",
+      "url": "https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/",
+      "quote": "Canon RF 70-200mm F2.8L IS USM lens is just 146mm in length at its shortest and weighs approximately 1,070g"
+    },
+    {
+      "number": "700",
+      "claim": "RF 24-105mm F4L IS USM weight in grams",
+      "url": "https://global.canon/en/c-museum/product/rf471.html",
+      "quote": "Weight (g) | Approx. 700"
+    },
+    {
+      "number": "8.8 lb",
+      "claim": "Benro Slim TSL08CN00 load capacity",
+      "url": "https://www.bhphotovideo.com/c/product/1337901-REG/benro_tsl08cn00_slim_tripod_kit.html",
+      "quote": "Load Capacity: 8.8 lb"
+    }
+  ],
+  "videos": [
+    {
+      "id": "IJBDT5GANJQ",
+      "title": "Best L-Bracket for Canon R5 / R6?",
+      "channel": "Todd Dominey",
+      "url": "https://www.youtube.com/watch?v=IJBDT5GANJQ",
+      "section": "Canon R6 Mark II tripod problems owners run into, and the fix"
+    }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-nikon-z8",
+      "find": "I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads.",
+      "replace": "I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/))."
+    },
+    {
+      "slug": "best-tripod-for-sony-a7iv",
+      "find": "I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads.",
+      "replace": "I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/))."
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-canon-r6-mark-ii.entities.json",
+    "pagesAnalyzed": 3,
+    "note": "DPReview and K&F pages were blocked for TextRazor; entities from Packapop, lens-rumors and Canon Rumors"
+  }
+}
