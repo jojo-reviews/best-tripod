@@ -580,12 +580,14 @@
     {
       "slug": "best-travel-tripod-for-mirrorless-camera",
       "find": "Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom, while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating.",
-      "replace": "Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom (see our [tripods for the Canon R50](/blog/best-tripod-for-canon-r50/)), while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating."
+      "replace": "Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom (see our [tripods for the Canon R50](/blog/best-tripod-for-canon-r50/)), while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating.",
+      "appliedAt": "2026-11-02T17:50:07.044Z"
     },
     {
       "slug": "best-tripod-under-100",
       "find": "For a light camera and occasional use, the picks above are enough.",
-      "replace": "For a light camera and occasional use, such as a [Canon R50 on a tripod](/blog/best-tripod-for-canon-r50/), the picks above are enough."
+      "replace": "For a light camera and occasional use, such as a [Canon R50 on a tripod](/blog/best-tripod-for-canon-r50/), the picks above are enough.",
+      "appliedAt": "2026-11-02T17:50:08.162Z"
     }
   ],
   "secondaryKeywords": [

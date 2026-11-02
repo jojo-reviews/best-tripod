@@ -468,12 +468,14 @@
     {
       "slug": "best-tripod-for-nikon-z8",
       "find": "Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm.",
-      "replace": "Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/))."
+      "replace": "Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/)).",
+      "appliedAt": "2026-11-02T17:50:15.412Z"
     },
     {
       "slug": "best-travel-tripod-for-mirrorless-camera",
       "find": "It suits a full-frame shooter who flies carry-on with a 70-200mm class lens.",
-      "replace": "It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/)."
+      "replace": "It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/).",
+      "appliedAt": "2026-11-02T17:50:16.598Z"
     }
   ],
   "secondaryKeywords": [

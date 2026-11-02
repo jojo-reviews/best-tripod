@@ -692,12 +692,14 @@
     {
       "slug": "best-tripod-for-astrophotography",
       "find": "Aluminum gets cold on winter nights, so wear gloves.",
-      "replace": "Aluminum gets cold on winter nights, so wear gloves; our [tripods for northern lights](/blog/best-tripod-for-northern-lights/) guide covers Arctic cold in detail."
+      "replace": "Aluminum gets cold on winter nights, so wear gloves; our [tripods for northern lights](/blog/best-tripod-for-northern-lights/) guide covers Arctic cold in detail.",
+      "appliedAt": "2026-11-02T17:50:09.131Z"
     },
     {
       "slug": "twist-lock-vs-flip-lock-tripod-legs",
       "find": "Before buying, I'd work every lock in the gloves you actually wear.",
-      "replace": "Before buying, I'd work every lock in the gloves you actually wear, the same advice we give for [tripods for northern lights](/blog/best-tripod-for-northern-lights/)."
+      "replace": "Before buying, I'd work every lock in the gloves you actually wear, the same advice we give for [tripods for northern lights](/blog/best-tripod-for-northern-lights/).",
+      "appliedAt": "2026-11-02T17:50:10.069Z"
     }
   ]
 }

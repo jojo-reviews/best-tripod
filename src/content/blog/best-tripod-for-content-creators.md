@@ -483,7 +483,7 @@ An r/photography reply to a solo creator says: "Get a phone tripod and remote, o
 4. **Remote and orientation.** Vertical 9:16 for reels and TikTok, landscape for YouTube; check how fast the holder switches.
 5. **Portability.** If you also film on the move, see our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) and our [phone tripods for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/).
 
-The video below walks through framing shots of yourself, which is where tripod height matters most.
+The video below walks through framing shots of yourself, which is where tripod height matters most, as it does with [tripods for family photos](/blog/best-tripod-for-family-photos/).
 
 ## Which Content Creator Tripod Should You Buy?
 

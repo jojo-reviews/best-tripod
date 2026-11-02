@@ -509,7 +509,7 @@ The K&F Concept 64 inch is a 4-section aluminum travel tripod from K&F Concept, 
 
 ### Amazon Basics 60-Inch Lightweight Tripod: best for occasional use with a light camera
 
-The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset. It reaches 60 in, weighs about 2.7 lb and is rated for 6.6 lb (3 kg), with a crank center column and two bubble levels. A long-term owner on YouTube praises how light and easy it is after three years. The weak point is the plastic head, the complaint I saw most often, and the same owner says panning for video is not very smooth. At 23.2 in folded it is also the longest pick, so it rides in the car rather than a daypack.
+The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset; for sturdier options see our [best tripods for family photos](/blog/best-tripod-for-family-photos/). It reaches 60 in, weighs about 2.7 lb and is rated for 6.6 lb (3 kg), with a crank center column and two bubble levels. A long-term owner on YouTube praises how light and easy it is after three years. The weak point is the plastic head, the complaint I saw most often, and the same owner says panning for video is not very smooth. At 23.2 in folded it is also the longest pick, so it rides in the car rather than a daypack.
 
 ### JOILCAN 81 inch Camera Tripod: tallest budget tripod
 
@@ -565,4 +565,4 @@ Our guide on [how tall a tripod should be for your height](/blog/how-tall-should
 
 ## When a tripod under 200 dollars is worth the extra money
 
-**Spend up to 200 dollars when you carry a telephoto, hike often or shoot long exposures in wind.** That budget buys carbon fiber, twist locks and heads with friction control, which is where a tripod under 100 dollars cuts corners. For a light camera and occasional use, the picks above are enough. If you travel with a mirrorless kit and want lighter legs, our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) compare the next step up.
+**Spend up to 200 dollars when you carry a telephoto, hike often or shoot long exposures in wind.** That budget buys carbon fiber, twist locks and heads with friction control, which is where a tripod under 100 dollars cuts corners. For a light camera and occasional use, such as a [Canon R50 on a tripod](/blog/best-tripod-for-canon-r50/), the picks above are enough. If you travel with a mirrorless kit and want lighter legs, our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) compare the next step up.

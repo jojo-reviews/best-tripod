@@ -1128,7 +1128,7 @@ Only seven of the 15 publish a column-down height (counting the column-less Leof
 
 ### Peak Design Travel Tripod (Carbon Fiber): Best travel tripod for mirrorless camera kits overall
 
-The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+carbon+fiber) is a five-section carbon fiber travel tripod from Peak Design. It suits a full-frame shooter who flies carry-on with a 70-200mm class lens. Its 20 lb rating leaves generous headroom, the 15.5-inch fold is only about 3.25 inches wide, and its 51.25-inch column-down height is among the best here. The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity.
+The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+carbon+fiber) is a five-section carbon fiber travel tripod from Peak Design. It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/). Its 20 lb rating leaves generous headroom, the 15.5-inch fold is only about 3.25 inches wide, and its 51.25-inch column-down height is among the best here. The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity.
 
 ### Peak Design Travel Tripod (Aluminum): Same design for less outlay
 
@@ -1200,7 +1200,7 @@ The [Ulanzi Zero F38 Carbon Fiber Travel Tripod](amzn:Ulanzi+Zero+F38+carbon+fib
 
 ### What size tripod do you need for a mirrorless camera?
 
-Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom, while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the eye-level math.
+Size it to the lens and your height, not the body: a light tripod suits an APS-C kit zoom (see our [tripods for the Canon R50](/blog/best-tripod-for-canon-r50/)), while a full-frame body with a 24-70mm f/2.8 or a telephoto wants 8 to 10 kg of rating. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) walks through the eye-level math.
 
 ### How much weight can a travel tripod hold?
 

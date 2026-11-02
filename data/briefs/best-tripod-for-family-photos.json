@@ -472,12 +472,14 @@
     {
       "slug": "best-tripod-under-100",
       "find": "The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset.",
-      "replace": "The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset; for sturdier options see our [best tripods for family photos](/blog/best-tripod-for-family-photos/)."
+      "replace": "The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset; for sturdier options see our [best tripods for family photos](/blog/best-tripod-for-family-photos/).",
+      "appliedAt": "2026-11-02T17:50:13.094Z"
     },
     {
       "slug": "best-tripod-for-content-creators",
       "find": "The video below walks through framing shots of yourself, which is where tripod height matters most.",
-      "replace": "The video below walks through framing shots of yourself, which is where tripod height matters most, as it does with [tripods for family photos](/blog/best-tripod-for-family-photos/)."
+      "replace": "The video below walks through framing shots of yourself, which is where tripod height matters most, as it does with [tripods for family photos](/blog/best-tripod-for-family-photos/).",
+      "appliedAt": "2026-11-02T17:50:14.365Z"
     }
   ],
   "secondaryKeywords": [

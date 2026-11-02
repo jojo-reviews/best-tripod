@@ -447,7 +447,7 @@ related:
   - best-tripod-for-nikon-p1000
 ---
 
-A Z8 with a 70-200mm on a windy headland, a 30-second exposure, and a soft frame because the slim legs hummed. The best tripod for Nikon Z8 owners depends on the lens you mount: for travel with a 24-120mm it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for a 70-200mm or 180-600mm it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads. We have not used these tripods ourselves.
+A Z8 with a 70-200mm on a windy headland, a 30-second exposure, and a soft frame because the slim legs hummed. The best tripod for Nikon Z8 owners depends on the lens you mount: for travel with a 24-120mm it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for a 70-200mm or 180-600mm it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)). We have not used these tripods ourselves.
 
 ## Best tripod for Nikon Z8 picks at a glance
 
@@ -475,7 +475,7 @@ This table compares the five on the numbers that matter for a Z8:
 
 ### Peak Design Travel Tripod (Carbon Fiber): best travel pick for the Z8
 
-The Peak Design Travel Tripod (Carbon Fiber) is a five-section carbon travel tripod from Peak Design: 2.8 lb, 15.5 in folded, 51.25 in with the column down and rated to 20 lb with an Arca-type compatible plate. I'd start here if the tripod has to fly. Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm. The catch is long lenses in wind: CameraEgg owners report it "really vibrates" with the 100-400mm when gusts hit, and that its thin lower legs flex under a Z8. Keep the column down and it suits a 24-120mm on most travel days.
+The Peak Design Travel Tripod (Carbon Fiber) is a five-section carbon travel tripod from Peak Design: 2.8 lb, 15.5 in folded, 51.25 in with the column down and rated to 20 lb with an Arca-type compatible plate. I'd start here if the tripod has to fly. Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/)). The catch is long lenses in wind: CameraEgg owners report it "really vibrates" with the 100-400mm when gusts hit, and that its thin lower legs flex under a Z8. Keep the column down and it suits a 24-120mm on most travel days.
 
 ### Manfrotto Befree Advanced Lever Travel Tripod Kit: best value travel kit
 

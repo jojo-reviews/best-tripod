@@ -582,12 +582,14 @@
     {
       "slug": "best-tripod-for-nikon-z8",
       "find": "I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads.",
-      "replace": "I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/))."
+      "replace": "I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).",
+      "appliedAt": "2026-11-02T17:50:11.115Z"
     },
     {
       "slug": "best-tripod-for-sony-a7iv",
       "find": "I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads.",
-      "replace": "I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/))."
+      "replace": "I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).",
+      "appliedAt": "2026-11-02T17:50:12.062Z"
     }
   ],
   "textrazor": {

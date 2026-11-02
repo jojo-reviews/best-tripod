@@ -521,7 +521,7 @@ I picked the [Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head](amzn:M
 
 The 90-degree column swings horizontal, which helps with low foregrounds. One night photographer, Kristine Rose, uses an aluminum 055 as her heavier tripod with a tracker to keep it stable.
 
-Owners at B&H and Adorama describe the legs as very sturdy and steady in wind. They also find it heavy to carry, and some rate the bundled heads below the legs. At 3 kg and 72.5 cm folded, this is not a hiking tripod. Aluminum gets cold on winter nights, so wear gloves. The 200PL-14 plate uses Manfrotto's RC2 clamp, not Arca-Swiss.
+Owners at B&H and Adorama describe the legs as very sturdy and steady in wind. They also find it heavy to carry, and some rate the bundled heads below the legs. At 3 kg and 72.5 cm folded, this is not a hiking tripod. Aluminum gets cold on winter nights, so wear gloves; our [tripods for northern lights](/blog/best-tripod-for-northern-lights/) guide covers Arctic cold in detail. The 200PL-14 plate uses Manfrotto's RC2 clamp, not Arca-Swiss.
 
 ### Manfrotto Befree Advanced Aluminum: Best budget pick for camera-only nightscapes
 
