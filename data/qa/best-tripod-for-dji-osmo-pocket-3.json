@@ -1,23 +1,19 @@
 {
   "slug": "best-tripod-for-dji-osmo-pocket-3",
   "pass": true,
-  "checkedAt": "2026-10-31T17:46:39.749Z",
+  "checkedAt": "2026-11-02T17:55:50.904Z",
   "errors": [],
   "warnings": [
     "product \"DJI Osmo Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ULANZI MT-79 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.videomaker.com/reviews/cameras/dji-osmo-pocket-3-review-a-major-step-forward/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html",
-    "source didn't respond normally (403): https://www.pgytech.com/products/mantispod-z",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1786759-REG/pgytech_p_gm_158_mantispod_z.html"
+    "product \"PGYTECH CapLock MantisPod Z\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-dji-osmo-action-5-pro, no claim changed",
-    "at": "2026-10-31T17:43:55.060Z",
-    "hash": "90a3e948e7898f68"
+    "notes": "2026-11-02 TextRazor semantic pass (DJI Store, Amazon, Micro Four Nerds, CameraEgg): entity sentences added (camera tripod, gimbal, adapter, cost via Creator Combo), product first sentences name product+type+maker, generic picks H2 renamed to spec comparison, 'video below' fixed, title shortened to 65 chars; no new prices, ratings, tests or products; all specs unchanged from maker pages.",
+    "at": "2026-11-02T17:55:50.363Z",
+    "hash": "4d094ffbe01b4599"
   }
 }

@@ -1,20 +1,18 @@
 {
   "slug": "best-tripod-for-youtube-videos",
   "pass": true,
-  "checkedAt": "2026-10-29T19:54:03.033Z",
+  "checkedAt": "2026-11-02T17:53:48.991Z",
   "errors": [],
   "warnings": [
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.ephotozine.com/article/veo-3go-235cb-carbon-fibre-travel-tripod-review-34938/handling--amp--performance",
-    "source didn't respond normally (403): https://www.world-of-waterfalls.com/manfrotto-befree-3-way-live-advanced-review/"
+    "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-sony-zv-e10, no claim changed",
-    "at": "2026-10-29T19:43:24.210Z",
-    "hash": "f141a7fb4c03d0e9"
+    "notes": "Semantic pass 2026-11-02 (review only, no updatedDate): TextRazor top-5 entities tripod head, camera lens, carbon-fiber reinforced polymer worked in; product intros name maker and type with one amzn link each; Quick Picks H2 removed (videos re-indexed 3/5); 'video below' phrasing fixed; generic headings renamed; problems section as list; sentences tightened. No specs, prices, ratings or ASINs changed.",
+    "at": "2026-11-02T17:53:48.361Z",
+    "hash": "bfce39cc77b2aa52"
   }
 }

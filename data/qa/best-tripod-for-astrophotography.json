@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-astrophotography",
   "pass": true,
-  "checkedAt": "2026-11-02T17:50:09.115Z",
+  "checkedAt": "2026-11-02T17:56:01.623Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Benro Tortoise 24C with GX30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA37C\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-northern-lights, no claim changed",
-    "at": "2026-11-02T17:50:08.603Z",
-    "hash": "4b93521e269ee96f"
+    "notes": "2026-11-02 semantic pass: no new specs/prices/claims; added tripod head, mirrorless camera/DSLR entity sentences (load math from Skies & Scopes unchanged); removed Short Answer H2 that re-listed template picks (patent rule 2026-10-31), comparison table moved up as first H2; reviewedDate only",
+    "at": "2026-11-02T17:55:49.858Z",
+    "hash": "2ad00e740cce433a"
   }
 }

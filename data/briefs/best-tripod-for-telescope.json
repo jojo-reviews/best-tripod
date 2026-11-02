@@ -29,7 +29,8 @@
     {
       "name": "telescope mount",
       "type": "equipment",
-      "relation": "the head (alt-az, equatorial, strain-wave) that sits on the tripod"
+      "relation": "the head (alt-az, equatorial, strain-wave) that sits on the tripod",
+      "salience": 0.65
     },
     {
       "name": "AZ-GTi",
@@ -105,6 +106,54 @@
       "name": "Sky-Watcher Wave Carbon Fiber Tripod",
       "type": "product",
       "relation": "S30910, carbon tripod for Wave mounts"
+    },
+    {
+      "name": "Telescope",
+      "type": "object",
+      "relation": "the optical tube the tripod and mount carry",
+      "salience": 0.75
+    },
+    {
+      "name": "Tripod",
+      "type": "equipment",
+      "relation": "three-legged stand under the telescope mount",
+      "salience": 0.74
+    },
+    {
+      "name": "GoTo (telescopes)",
+      "type": "mount type",
+      "relation": "computerized heads such as the AZ-GTi that sit on light tripods",
+      "salience": 0.82
+    },
+    {
+      "name": "Tripod (photography)",
+      "type": "equipment",
+      "relation": "camera tripod; works for short, light scopes with a 1/4-20 socket",
+      "salience": 0.73
+    },
+    {
+      "name": "Equatorial mount",
+      "type": "mount type",
+      "relation": "counterweighted mount that needs a heavier tripod than these picks",
+      "salience": 0.72
+    },
+    {
+      "name": "Celestron",
+      "type": "brand",
+      "relation": "maker of the Heavy-Duty Alt-Azimuth and TrailSeeker tripods",
+      "salience": 0.58
+    },
+    {
+      "name": "Astrophotography",
+      "type": "activity",
+      "relation": "imaging use; owners derate load to about 60%",
+      "salience": 0.49
+    },
+    {
+      "name": "Astronomer",
+      "type": "person",
+      "relation": "forum astronomers whose owner reports shape the picks",
+      "salience": 0.42
     }
   ],
   "attributes": [
@@ -131,7 +180,11 @@
     "carbon fiber tripod",
     "heavy duty tripod",
     "3/8-16 thread",
-    "small telescopes"
+    "small telescopes",
+    "equatorial mount",
+    "GoTo mount",
+    "astrophotography",
+    "vibration dampening"
   ],
   "skipgrams": [
     "tripod…vibration",
@@ -139,7 +192,9 @@
     "mount…tripod head",
     "load…capacity",
     "tube…legs",
-    "focuser…shake"
+    "focuser…shake",
+    "telescope…mount",
+    "tripod…stability"
   ],
   "nlpTerms": [
     "stability",
@@ -161,7 +216,9 @@
     "stainless steel",
     "spreader",
     "payload",
-    "observing"
+    "observing",
+    "astronomer",
+    "adjustability"
   ],
   "questions": [
     "Can I use a camera tripod for a telescope?",
@@ -575,5 +632,15 @@
       "replace": "A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)).",
       "appliedAt": "2026-10-28T14:47:00.120Z"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-02",
+    "tool": "TextRazor",
+    "pages": [
+      "https://optcorp.com/collections/telescope-tripods-and-piers",
+      "https://telescopicwatch.com/best-telescopes/newtonian-reflectors-on-tripod/",
+      "https://astronomics.com/collections/tripods",
+      "https://www.highpointscientific.com/telescope-accessories/mounts"
+    ]
+  }
 }

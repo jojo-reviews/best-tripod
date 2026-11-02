@@ -9,59 +9,148 @@
   ],
   "entities": [
     {
+      "name": "Tripod (photography)",
+      "type": "concept",
+      "relation": "central entity: the three-legged camera support the page is about",
+      "salience": 0.81
+    },
+    {
+      "name": "Tripod",
+      "type": "product",
+      "relation": "head noun of the keyword; rated load and column-down height decide it",
+      "salience": 0.94
+    },
+    {
+      "name": "Astrophotography",
+      "type": "activity",
+      "relation": "the use case: long night exposures where any vibration smears stars",
+      "salience": 0.76
+    },
+    {
+      "name": "Camera",
+      "type": "product",
+      "relation": "full-frame mirrorless camera or DSLR is the main weight on top",
+      "salience": 0.66
+    },
+    {
+      "name": "Tripod head",
+      "type": "component",
+      "relation": "ball head or tracker base on the legs; must clear the same 3x load target",
+      "salience": 0.64
+    },
+    {
+      "name": "Photography",
+      "type": "field",
+      "relation": "parent topic",
+      "salience": 0.56
+    },
+    {
+      "name": "Carbon-fiber reinforced polymer",
+      "type": "material",
+      "relation": "stiffer per gram, less cold to touch than aluminum; Milky Way POTY winners used carbon",
+      "salience": 0.58
+    },
+    {
+      "name": "Digital single-lens reflex camera",
+      "type": "product",
+      "relation": "camera type in the load math (camera + lens + tracker ~3.6 kg)",
+      "salience": 0.48
+    },
+    {
+      "name": "Aluminium",
+      "type": "material",
+      "relation": "cheaper, heavier leg material (Manfrotto 055, Befree Advanced)",
+      "salience": 0.47
+    },
+    {
+      "name": "Leg",
+      "type": "component",
+      "relation": "leg sections and tube diameter set stiffness; extend thick sections first",
+      "salience": 0.39
+    },
+    {
+      "name": "Night sky",
+      "type": "concept",
+      "relation": "the subject; dark site, Milky Way core",
+      "salience": 0.38
+    },
+    {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "judge with the center column down",
+      "salience": 0.35
+    },
+    {
+      "name": "Mirrorless camera",
+      "type": "product",
+      "relation": "typical body for Milky Way kits",
+      "salience": 0.32
+    },
+    {
       "name": "star tracker",
       "type": "accessory",
-      "relation": "adds 1-2 kg on top of the camera; changes the load the tripod must hold (Star Adventurer 1.7 kg per Skies & Scopes)"
+      "relation": "adds 1-2 kg on top of the camera; changes the load the tripod must hold (Star Adventurer 1.7 kg per Skies & Scopes)",
+      "salience": null
     },
     {
       "name": "center column",
       "type": "component",
-      "relation": "the least stable part; columnless designs (Benro Tortoise) or column down for long exposures"
+      "relation": "the least stable part; columnless designs (Benro Tortoise) or column down for long exposures",
+      "salience": null
     },
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "all tripods used by Milky Way Photographer of the Year winners in 2025-2026 per Skies & Scopes; not cold to touch"
+      "relation": "all tripods used by Milky Way Photographer of the Year winners in 2025-2026 per Skies & Scopes; not cold to touch",
+      "salience": null
     },
     {
       "name": "ball head",
       "type": "component",
-      "relation": "the head for camera-only astro; gimbals and pan-tilt are not"
+      "relation": "the head for camera-only astro; gimbals and pan-tilt are not",
+      "salience": null
     },
     {
       "name": "equatorial mount",
       "type": "astronomy gear",
-      "relation": "deep-sky rigs need a heavy-duty tripod class (out of scope)"
+      "relation": "deep-sky rigs need a heavy-duty tripod class (out of scope)",
+      "salience": null
     },
     {
       "name": "Peak Design Travel Tripod",
       "type": "product",
-      "relation": "top pick at Skies & Scopes; best for portability at Space.com"
+      "relation": "top pick at Skies & Scopes; best for portability at Space.com",
+      "salience": null
     },
     {
       "name": "Benro Tortoise 24C",
       "type": "product",
-      "relation": "columnless carbon tripod picked by Skies & Scopes and Space.com"
+      "relation": "columnless carbon tripod picked by Skies & Scopes and Space.com",
+      "salience": null
     },
     {
       "name": "wind",
       "type": "condition",
-      "relation": "the main enemy of 15-30 s exposures at dark sites"
+      "relation": "the main enemy of 15-30 s exposures at dark sites",
+      "salience": null
     },
     {
       "name": "Benro Mach3 TMA37C",
       "type": "product",
-      "relation": "Space.com best overall (as Mach3 9X CF); Skies & Scopes premium pick for heavier rigs"
+      "relation": "Space.com best overall (as Mach3 9X CF); Skies & Scopes premium pick for heavier rigs",
+      "salience": null
     },
     {
       "name": "Manfrotto 055",
       "type": "product",
-      "relation": "MK055XPRO3-BHQ2 kit on Space.com; 055XPRO3 at PhotoPills; 055 with a tracker at Kristine Rose Photography"
+      "relation": "MK055XPRO3-BHQ2 kit on Space.com; 055XPRO3 at PhotoPills; 055 with a tracker at Kristine Rose Photography",
+      "salience": null
     },
     {
       "name": "Manfrotto Befree Advanced",
       "type": "product",
-      "relation": "Space.com best lightweight (aluminum); Fstoppers picks the Befree Advanced GT XPro aluminum"
+      "relation": "Space.com best lightweight (aluminum); Fstoppers picks the Befree Advanced GT XPro aluminum",
+      "salience": null
     }
   ],
   "attributes": [
@@ -72,7 +161,9 @@
     "folded length",
     "leg locks usable with gloves",
     "low minimum height for foregrounds",
-    "spiked feet"
+    "spiked feet",
+    "tripod head load rating",
+    "carbon fiber vs aluminum legs"
   ],
   "ngrams": [
     "astrophotography tripod",
@@ -83,14 +174,22 @@
     "load capacity",
     "carbon fiber",
     "ball head",
-    "dark site"
+    "dark site",
+    "tripod head",
+    "night sky",
+    "mirrorless camera",
+    "column down",
+    "rated load"
   ],
   "skipgrams": [
     "tripod…star tracker",
     "center column…down",
     "carbon…cold",
     "load…tracker",
-    "wind…exposure"
+    "wind…exposure",
+    "tripod head…load",
+    "height…column down",
+    "camera…tracker"
   ],
   "nlpTerms": [
     "night sky",
@@ -106,7 +205,12 @@
     "tracker",
     "nightscape",
     "star trails",
-    "dew"
+    "dew",
+    "DSLR",
+    "mirrorless",
+    "leg sections",
+    "payload",
+    "Milky Way"
   ],
   "questions": [
     "do you need a special tripod for astrophotography",
@@ -576,5 +680,18 @@
       "replace": "Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.",
       "appliedAt": "2026-10-29T15:40:34.203Z"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-02",
+    "source": "TextRazor on space.com, touptekastro.com, rmg.co.uk, theschoolofphotography.com (skiesandscopes, B&H, reddit, dpreview, photopills blocked)",
+    "entitiesFile": "data/briefs/best-tripod-for-astrophotography.entities.json",
+    "added": [
+      "Tripod head",
+      "Mirrorless camera",
+      "Digital single-lens reflex camera"
+    ],
+    "skipped": [
+      "Smartphone (not relevant to a tracker tripod)"
+    ]
+  }
 }

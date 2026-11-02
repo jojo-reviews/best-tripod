@@ -13,7 +13,8 @@
     {
       "name": "Leica Q3",
       "type": "camera",
-      "relation": "fixed-lens full-frame compact, approx. 743 g with battery, 1/4 in tripod thread"
+      "relation": "fixed-lens full-frame compact, approx. 743 g with battery, 1/4 in tripod thread",
+      "salience": 0.86
     },
     {
       "name": "Leica Q3 43",
@@ -36,9 +37,10 @@
       "relation": "lightest full-size pick, recommended in r/Leica threads"
     },
     {
-      "name": "Gitzo Traveler GK1545T-82TQD",
+      "name": "Gitzo GK1545T-82TQD",
       "type": "product",
-      "relation": "Traveler kit Leica itself lists for its cameras"
+      "relation": "Traveler kit Leica itself lists for its cameras",
+      "salience": 0.7
     },
     {
       "name": "Gitzo Mini Traveler",
@@ -61,7 +63,7 @@
       "relation": "classic Leica tabletop tripod; no clear US Amazon listing"
     },
     {
-      "name": "Arca-Swiss plate",
+      "name": "Arca-Swiss",
       "type": "standard",
       "relation": "quick-release dovetail used by PD, Sirui, Gitzo kit and Benro heads"
     },
@@ -88,7 +90,39 @@
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "legs on five of six picks"
+      "relation": "legs on five of six picks",
+      "salience": 0.26
+    },
+    {
+      "name": "camera tripod",
+      "type": "concept",
+      "relation": "central entity on 3 of 5 top pages",
+      "salience": 0.86,
+      "textrazor": "Tripod (photography)"
+    },
+    {
+      "name": "Leica Camera",
+      "type": "organization",
+      "relation": "camera maker; lists Gitzo tripods for its cameras",
+      "salience": 0.75
+    },
+    {
+      "name": "Gitzo",
+      "type": "organization",
+      "relation": "tripod maker Leica Camera recommends (Traveler and Mountaineer series)",
+      "salience": 0.7
+    },
+    {
+      "name": "Gitzo Mountaineer series",
+      "type": "product line",
+      "relation": "all-purpose Gitzo line; heavier than Traveler, not needed for a 28mm Q3",
+      "salience": 0.36
+    },
+    {
+      "name": "camera bag",
+      "type": "accessory",
+      "relation": "hang from the tripod hook for wind stability",
+      "salience": 0.34
     }
   ],
   "attributes": [
@@ -100,7 +134,9 @@
     "ball head lock and pan control",
     "Arca-Swiss compatibility",
     "tabletop vs full-size",
-    "minimum height"
+    "minimum height",
+    "180-degree leg folding (Traveler)",
+    "lens recommendation (Gitzo: 135mm, 200mm max)"
   ],
   "ngrams": [
     "tripod for leica q3",
@@ -114,7 +150,11 @@
     "Peak Design Travel Tripod",
     "Gitzo Mini Traveler",
     "quick release plate",
-    "leica q2"
+    "leica q2",
+    "Leica Camera",
+    "Gitzo Mountaineer",
+    "Traveler tripod",
+    "carbon fiber tripod"
   ],
   "skipgrams": [
     "tripod…Q3",
@@ -122,7 +162,9 @@
     "ball head…tilt",
     "tabletop…museum",
     "carbon…light",
-    "load…743 g"
+    "load…743 g",
+    "Traveler…fold",
+    "Gitzo…Leica"
   ],
   "nlpTerms": [
     "Leica",
@@ -146,7 +188,11 @@
     "museum",
     "self-timer",
     "Leica FOTOS",
-    "tilting screen"
+    "tilting screen",
+    "Mountaineer",
+    "Traveler",
+    "180-degree fold",
+    "camera bag"
   ],
   "questions": [
     "What tripod should I use with a Leica Q3?",
@@ -165,8 +211,8 @@
   ],
   "outline": [
     {
-      "h2": "Best tripod for Leica Q3 picks at a glance",
-      "intent": "short answer, picks, comparison table",
+      "h2": "Leica Q3 tripod comparison: height, fold and load",
+      "intent": "comparison table on the deciding specs",
       "h3": []
     },
     {
@@ -187,12 +233,12 @@
       ]
     },
     {
-      "h2": "What a 743 g Leica Q3 actually needs from a tripod",
+      "h2": "What a 743 g Leica Q3 needs from a tripod",
       "intent": "load headroom math, column-down height, tilting screen",
       "h3": []
     },
     {
-      "h2": "Problems Q3 owners run into, and the fix",
+      "h2": "Leica Q3 tripod problems and fixes",
       "intent": "pain points",
       "h3": []
     },
@@ -567,5 +613,17 @@
       "removed": "Gitzo Mini Traveler Tabletop Tripod (B07L2WSYB3)",
       "reason": "No buy box on Amazon US (Gitzo US out of stock); the only in-stock Amazon listing is the Noir Decor variant, a different finish. No other tabletop tripod is recommended by 2+ top-10 pages with an in-stock Amazon US listing (checked Leica Table Tripod, Manfrotto PIXI Mini, Platypod, Joby, Pedco), so productCount went from 6 to 5."
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-02",
+    "tool": "TextRazor",
+    "pages": [
+      "https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/",
+      "https://leicacamerausa.com/photography/accessories/bags-and-tripods/",
+      "https://leica-camera.com/en-int/gitzo-tripods",
+      "https://www.leicastoreamsterdam.nl/camera/accessories/tripods/",
+      "https://oberwerth.com/en-us/blogs/fotowissen/the-best-leica-compatible-tripods-for-safe-photography"
+    ],
+    "note": "l-camera-forum and reddit blocked (Cloudflare), replaced by next results"
+  }
 }

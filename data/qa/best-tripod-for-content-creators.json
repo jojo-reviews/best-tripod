@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-content-creators",
   "pass": true,
-  "checkedAt": "2026-11-02T17:50:14.343Z",
+  "checkedAt": "2026-11-02T17:52:57.577Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): EUCOS 62\" Phone Tripod; Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 3K Kit; Neewer RL-18 Ring Light 18inch Kit",
@@ -10,13 +10,12 @@
     "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\""
+    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-family-photos, no claim changed",
-    "at": "2026-11-02T17:50:13.463Z",
-    "hash": "81013039abf1e24d"
+    "notes": "2026-11-02 TextRazor semantic pass: removed at-a-glance H2 (patent rule 2026-10-31), product first sentences name product+type+maker, spirit level (GorillaPod 3K ball head bubble level per JOBY/B&H), carbon fiber general statement (picks are aluminum/steel/plastic per listings), video wording fixed (patent rule 2026-11-02). No new prices, ratings or tests; specs unchanged.",
+    "at": "2026-11-02T17:52:52.769Z",
+    "hash": "d2999fa12c93be0a"
   }
 }

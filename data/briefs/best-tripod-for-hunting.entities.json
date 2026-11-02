@@ -1,0 +1,80 @@
+{
+  "keyword": "best tripod for hunting",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.82,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Hunting",
+      "type": "/interests/hobby",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Hunting"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.97,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Rifle",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.85,
+      "wiki": "http://en.wikipedia.org/wiki/Rifle"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Shooting",
+      "type": "/event/disaster_type",
+      "pages": 2,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+    },
+    {
+      "entity": "Foot",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Foot"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Spirit level",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.27,
+      "wiki": "http://en.wikipedia.org/wiki/Spirit_level"
+    }
+  ],
+  "missingFromPost": [
+    "Aluminium",
+    "Spirit level"
+  ]
+}

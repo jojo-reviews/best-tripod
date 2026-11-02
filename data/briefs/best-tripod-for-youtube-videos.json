@@ -9,14 +9,82 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "Thing",
+      "relation": "central entity: three-legged camera support for YouTube video",
+      "salience": 0.97
+    },
+    {
+      "name": "Camera",
+      "type": "Device",
+      "relation": "mirrorless or DSLR body mounted on the tripod",
+      "salience": 0.55
+    },
+    {
+      "name": "Manfrotto",
+      "type": "Organisation",
+      "relation": "maker of two of the three picks",
+      "salience": 0.74
+    },
+    {
+      "name": "Tripod head",
+      "type": "Thing",
+      "relation": "fluid or ball head that decides pan/tilt behaviour",
+      "salience": 0.68
+    },
+    {
+      "name": "Carbon-fiber reinforced polymer",
+      "type": "Material",
+      "relation": "leg material of the VEO 3 GO 235CB, lighter than aluminum",
+      "salience": 0.48
+    },
+    {
+      "name": "Height",
+      "type": "Attribute",
+      "relation": "column-down height sets seated eye-level framing",
+      "salience": 0.37
+    },
+    {
+      "name": "Gear",
+      "type": "Thing",
+      "relation": "creator kit the tripod carries (camera, mic, light)",
+      "salience": 0.36
+    },
+    {
+      "name": "Videography",
+      "type": "Field",
+      "relation": "moving-shot use that needs a fluid head",
+      "salience": 0.32
+    },
+    {
+      "name": "Vlog",
+      "type": "Thing",
+      "relation": "travel and talking-head format",
+      "salience": 0.28
+    },
+    {
+      "name": "Camera lens",
+      "type": "Device",
+      "relation": "adds weight to the payload budget",
+      "salience": 0.27
+    },
+    {
+      "name": "Monopod",
+      "type": "Device",
+      "relation": "VEO 3 GO leg converts to a monopod or vlogging arm",
+      "salience": 0.26
+    },
+    {
       "name": "Manfrotto Befree 3-Way Live Advanced",
       "type": "product",
-      "relation": "travel tripod kit with a 3-way fluid head for smooth pans"
+      "relation": "travel tripod kit with a 3-way fluid head for smooth pans",
+      "salience": 0.74
     },
     {
       "name": "Manfrotto Befree GT XPRO",
       "type": "product",
-      "relation": "travel tripod with a 90-degree center column for overhead desk shots"
+      "relation": "travel tripod with a 90-degree center column for overhead desk shots",
+      "salience": 0.74
     },
     {
       "name": "Vanguard VEO 3 GO 235CB",
@@ -26,12 +94,14 @@
     {
       "name": "fluid head",
       "type": "tripod head",
-      "relation": "damped pan and tilt for smooth video moves"
+      "relation": "damped pan and tilt for smooth video moves",
+      "salience": 0.68
     },
     {
       "name": "ball head",
       "type": "tripod head",
-      "relation": "fast framing for locked-off shots, no pan drag"
+      "relation": "fast framing for locked-off shots, no pan drag",
+      "salience": 0.68
     },
     {
       "name": "90-degree center column",
@@ -102,7 +172,9 @@
     "leg angles",
     "plate standard",
     "horizontal column",
-    "included remote"
+    "included remote",
+    "tripod head type (fluid, ball)",
+    "leg material (aluminum, carbon fiber)"
   ],
   "ngrams": [
     "best tripod for youtube",
@@ -116,7 +188,12 @@
     "ball head",
     "load capacity",
     "mirrorless camera",
-    "travel tripod"
+    "travel tripod",
+    "tripod head",
+    "camera lens",
+    "carbon fiber",
+    "monopod",
+    "manfrotto"
   ],
   "skipgrams": [
     "fluid…head…pans",
@@ -124,7 +201,10 @@
     "overhead…shot",
     "tripod…eye level",
     "camera…tripod…youtube",
-    "payload…camera"
+    "payload…camera",
+    "tripod head…shot",
+    "carbon fiber…weight",
+    "camera lens…payload"
   ],
   "nlpTerms": [
     "tripod",
@@ -153,7 +233,14 @@
     "stability",
     "counterweight",
     "eye level",
-    "creator"
+    "creator",
+    "tripod head",
+    "camera lens",
+    "carbon fiber",
+    "monopod",
+    "videography",
+    "vlog",
+    "gear"
   ],
   "questions": [
     "Which tripod is best for making YouTube videos?",
@@ -536,5 +623,15 @@
       "replace": "Each fluid head video tripod here suits a different kind of first rig; for compact creator kits, see our [YouTube tripod picks](/blog/best-tripod-for-youtube-videos/).",
       "appliedAt": "2026-10-27T13:40:17.876Z"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-02",
+    "topPages": [
+      "https://www.digitalcameraworld.com/buying-guides/best-video-tripod",
+      "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "https://www.tubebuddy.com/blog/best-tripods-for-creators/"
+    ]
+  }
 }

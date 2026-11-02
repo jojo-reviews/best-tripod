@@ -11,52 +11,110 @@
     {
       "name": "ball head",
       "type": "tripod head",
-      "relation": "the part that sags"
+      "relation": "the part that sags",
+      "salience": 0.65
     },
     {
       "name": "main lock knob",
       "type": "control",
-      "relation": "locking action causes the shift at lock-down"
+      "relation": "locking action causes the shift at lock-down",
+      "salience": 0.3
     },
     {
       "name": "friction control",
       "type": "control",
-      "relation": "pre-set drag that stops droop before locking"
+      "relation": "pre-set drag that stops droop before locking",
+      "salience": 0.3
     },
     {
       "name": "panning base",
       "type": "component",
-      "relation": "separate rotation lock, can add drag on the ball if over-tightened"
+      "relation": "separate rotation lock, can add drag on the ball if over-tightened",
+      "salience": 0.3
     },
     {
       "name": "Arca-Swiss plate",
       "type": "standard",
-      "relation": "plate twist reads as sag"
+      "relation": "plate twist reads as sag",
+      "salience": 0.3
     },
     {
       "name": "L-bracket",
       "type": "accessory",
-      "relation": "keeps the load over the ball in portrait orientation"
+      "relation": "keeps the load over the ball in portrait orientation",
+      "salience": 0.3
     },
     {
       "name": "lens collar",
       "type": "accessory",
-      "relation": "moves the center of gravity over the ball"
+      "relation": "moves the center of gravity over the ball",
+      "salience": 0.73
     },
     {
       "name": "geared head",
       "type": "tripod head",
-      "relation": "alternative with no lock-down shift"
+      "relation": "alternative with no lock-down shift",
+      "salience": 0.3
     },
     {
       "name": "elliptical ball",
       "type": "design",
-      "relation": "adds friction as the ball tilts"
+      "relation": "adds friction as the ball tilts",
+      "salience": 0.3
     },
     {
       "name": "image stabilization",
       "type": "camera feature",
-      "relation": "can look like drift on a tripod"
+      "relation": "can look like drift on a tripod",
+      "salience": 0.3
+    },
+    {
+      "name": "tripod",
+      "type": "photography equipment",
+      "relation": "the support the ball head sits on; legs and feet can read as head sag",
+      "salience": 0.81
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "the load whose weight and grip flex cause droop",
+      "salience": 0.72
+    },
+    {
+      "name": "ball",
+      "type": "component",
+      "relation": "the clamped sphere that shifts at lock-down",
+      "salience": 0.65
+    },
+    {
+      "name": "lens",
+      "type": "optic",
+      "relation": "front-heavy lenses create leverage on the ball",
+      "salience": 0.73
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 494RC2 ball head cited by an owner with lock-down drop",
+      "salience": 0.61
+    },
+    {
+      "name": "friction",
+      "type": "physical force",
+      "relation": "pre-set drag stops creep before locking",
+      "salience": 0.41
+    },
+    {
+      "name": "water",
+      "type": "cleaning agent",
+      "relation": "use sparingly; can be trapped inside a sealed head",
+      "salience": 0.32
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "lens and camera weight vs rated load",
+      "salience": 0.28
     }
   ],
   "attributes": [
@@ -67,7 +125,9 @@
     "plate anti-twist lip",
     "off-axis load",
     "lens weight",
-    "center of gravity"
+    "center of gravity",
+    "panning base drag",
+    "plate screw torque"
   ],
   "ngrams": [
     "ball head sags",
@@ -79,7 +139,11 @@
     "load capacity",
     "geared head",
     "tripod collar",
-    "center of gravity"
+    "center of gravity",
+    "ball head loose",
+    "tripod head",
+    "lock-up capacity",
+    "camera sag"
   ],
   "skipgrams": [
     "ball…sag",
@@ -88,7 +152,9 @@
     "plate…twist",
     "lens…collar",
     "load…rating",
-    "center…gravity"
+    "center…gravity",
+    "camera…sag",
+    "ball…lock-up"
   ],
   "nlpTerms": [
     "droop",
@@ -108,7 +174,10 @@
     "clamp",
     "dovetail",
     "45 degrees",
-    "portrait orientation"
+    "portrait orientation",
+    "dish soap",
+    "battery grip",
+    "Manfrotto"
   ],
   "questions": [
     "Why does my ball head sag after I tighten it?",
@@ -488,5 +557,19 @@
   "linkRules": "Live posts only (pubDate before 2026-10-21T20:00Z).",
   "postType": "how-to",
   "productCount": 0,
-  "serpProducts": []
+  "serpProducts": [],
+  "textrazor": {
+    "date": "2026-11-02",
+    "pages": [
+      "kfconcept.com/learning-center/tripod-ball-head-loose",
+      "uniquephoto.com Q&A",
+      "forum.luminous-landscape.com topic 120554",
+      "kb.reallyrightstuff.com maintain ballhead",
+      "kb.reallyrightstuff.com BH-30 manual"
+    ],
+    "missingFromPost": [
+      "Manfrotto"
+    ],
+    "note": "dpreview, fredmiranda and reddit top results blocked by Cloudflare; replaced with next accessible sources"
+  }
 }

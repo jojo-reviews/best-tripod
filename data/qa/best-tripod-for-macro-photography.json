@@ -1,25 +1,20 @@
 {
   "slug": "best-tripod-for-macro-photography",
   "pass": true,
-  "checkedAt": "2026-10-31T17:47:18.544Z",
+  "checkedAt": "2026-11-02T17:56:54.834Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1729 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "LIVE POST, FIX: body has 1827 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"Manfrotto 055 Aluminum Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 3+ 263AB 160S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO3 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (403): https://petapixel.com/best-tripods/",
-    "source didn't respond normally (403): https://amateurphotographer.com/buying-advice/best-tripod/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
-    "source didn't respond normally (403): https://www.adorama.com/lists/tripods-for-macro-photography"
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-product-photography, no claim changed",
-    "at": "2026-10-31T17:44:06.002Z",
-    "hash": "5f93dccffe6de18d"
+    "notes": "Semantic pass 2026-11-02 (review only): TextRazor entities tripod head, bean bag, flash, aperture, depth of field added with sources (Better Digital Photo Tips, Encountering Fungi); first H2 renamed to 'by minimum height'; 'video below' fixed; no product, price or spec changes.",
+    "at": "2026-11-02T17:56:50.450Z",
+    "hash": "882fe901df0ff566"
   }
 }

@@ -11,12 +11,14 @@
     {
       "name": "DJI Osmo Pocket 3",
       "type": "camera",
-      "relation": "the 179 g gimbal camera the tripod has to hold"
+      "relation": "the 179 g gimbal camera the tripod has to hold",
+      "salience": 0.79
     },
     {
       "name": "Osmo Pocket 3 Handle With 1/4\" Thread",
       "type": "accessory",
-      "relation": "adds the 1/4\"-20 screw hole the camera body lacks"
+      "relation": "adds the 1/4\"-20 screw hole the camera body lacks",
+      "salience": 0.44
     },
     {
       "name": "Osmo Pocket 3 Battery Handle",
@@ -61,7 +63,8 @@
     {
       "name": "ball head",
       "type": "tripod head",
-      "relation": "levels the camera on uneven surfaces"
+      "relation": "levels the camera on uneven surfaces",
+      "salience": 0.3
     },
     {
       "name": "Tilt Locked mode",
@@ -87,6 +90,54 @@
       "name": "light stand",
       "type": "tripod type",
       "relation": "tall, narrow-footprint stand used for eye-level shots"
+    },
+    {
+      "name": "Tripod",
+      "type": "product category",
+      "relation": "the support the post ranks; shared by all 4 analyzed top pages",
+      "salience": 0.77
+    },
+    {
+      "name": "DJI Osmo",
+      "type": "product line",
+      "relation": "DJI gimbal camera line the Pocket 3 belongs to",
+      "salience": 0.79
+    },
+    {
+      "name": "DJI",
+      "type": "company",
+      "relation": "maker of the Pocket 3, its handles and the Osmo Mini Tripod",
+      "salience": 0.69
+    },
+    {
+      "name": "camera tripod",
+      "type": "equipment",
+      "relation": "three-legged camera support with a 1/4\"-20 screw",
+      "salience": 0.63
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "the 179 g Pocket 3 body, which has no tripod thread",
+      "salience": 0.6
+    },
+    {
+      "name": "Gimbal",
+      "type": "stabilizer",
+      "relation": "3-axis stabilizer built into the Pocket 3; set to Tilt Locked on a tripod",
+      "salience": 0.48
+    },
+    {
+      "name": "Adapter",
+      "type": "accessory",
+      "relation": "1/4\" adapter on the threaded handle or CapLock base that joins camera and tripod",
+      "salience": 0.44
+    },
+    {
+      "name": "Cost",
+      "type": "concept",
+      "relation": "the Creator Combo already includes the mini tripod, so buying one again is a wasted cost",
+      "salience": 0.29
     }
   ],
   "attributes": [
@@ -114,7 +165,10 @@
     "osmo mini tripod",
     "creator combo",
     "tabletop tripod",
-    "light stand"
+    "light stand",
+    "pocket 3 handle",
+    "tilt locked",
+    "dji osmo pocket 3 tripod"
   ],
   "skipgrams": [
     "pocket 3…tripod",
@@ -122,7 +176,9 @@
     "eye…level",
     "ball…head",
     "tripod…tips",
-    "handle…thread"
+    "handle…thread",
+    "gimbal…tilt locked",
+    "1/4…adapter"
   ],
   "nlpTerms": [
     "gimbal",
@@ -144,7 +200,10 @@
     "Mimo",
     "handheld",
     "grip",
-    "wind"
+    "wind",
+    "adapter",
+    "camera",
+    "DJI Osmo"
   ],
   "questions": [
     "What tripod works with the DJI Osmo Pocket 3?",
@@ -555,5 +614,13 @@
       "replace": "Both weigh well under half a kilo and double as a handheld grip or short selfie stick (the same split runs through our [tripods for the Osmo Pocket 3](/blog/best-tripod-for-dji-osmo-pocket-3/)), so the choice comes down to where you'll set the camera.",
       "appliedAt": "2026-10-29T15:40:32.479Z"
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-11-02",
+    "pagesAnalyzed": 4,
+    "source": "data/briefs/best-tripod-for-dji-osmo-pocket-3.entities.json",
+    "ignored": [
+      "Amazon Prime (retailer noise)"
+    ]
+  }
 }

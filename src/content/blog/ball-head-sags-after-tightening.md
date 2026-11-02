@@ -77,7 +77,7 @@ sources:
   - title: A tripod that should exist but doesn't seem to (r/photography)
     url: >-
       https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/
-reviewedDate: '2026-10-21T00:00:00.000Z'
+reviewedDate: '2026-11-02T00:00:00.000Z'
 faqs:
   - q: Why does my ball head sag after I tighten it?
     a: >-
@@ -147,7 +147,7 @@ heroAlt: >-
   how-to
 ---
 
-You frame the shot, crank the knob, let go, and the horizon slides a few millimetres down the viewfinder. Ball head sag like this mostly happens during the locking action itself; when a ball head sags after tightening, the rest usually comes from the plate, the camera or the legs, not a worn ball. We sorted the fixes from cheapest to most drastic, using maker manuals, a measured head test and owner threads.
+You frame the shot, crank the knob, let go, and the horizon slides down the viewfinder. Ball head sag like this mostly happens during the locking action itself. When a [ball head](/blog/ball-head-tripod/) sags after tightening, the rest usually comes from the plate, the camera or the tripod legs, not a worn ball. We sorted the fixes from cheapest to most drastic.
 
 ## Ball head sag after tightening: find what moves first
 
@@ -169,11 +169,11 @@ An r/photography owner describes the classic case: “it "creeps" or slides for 
 2. Frame the shot by pushing the camera against that drag.
 3. Tighten the main lock with light to medium torque.
 
-Really Right Stuff's BH-30 manual says to "Use more drag for heavy cameras and lenses" and warns that over-cranking the panning base lock can add unwanted drag on the ball. The video below shows how to set ball head tension.
+Really Right Stuff's BH-30 manual says to "Use more drag for heavy cameras and lenses" and warns that over-cranking the panning base lock can add unwanted drag on the ball. Dean Cooper's video in this section shows how to set ball head tension.
 
 ## Aim slightly high and lock gently
 
-**Because the drop at lock-down repeats in the same direction, we aim a touch above the target and let the lock settle the frame onto it.** On the Unique Photo Q&A, a 494RC2 owner saw the framing drop "slightly and points lower" each time he locked.
+**Because the drop at lock-down repeats in the same direction, we aim a touch above the target and let the lock settle the frame onto it.** On the Unique Photo Q&A, an owner of the Manfrotto 494RC2 ball head saw the framing drop "slightly and points lower" each time he locked.
 
 - **Overshoot:** after one test lock, aim that much higher on the next try.
 - **Lock by the head, not the grip:** a Fred Miranda owner saw far more creep when he held the camera body while locking than when he held the head's stem, and traced it to his battery grip flexing.
@@ -194,7 +194,7 @@ Our guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-sw
 **Ball head sag with a long lens is leverage: a front-heavy lens levers the ball far beyond its static weight, so we mount it by its lens collar before buying a bigger head.** Load capacity ratings assume a centered load. One Luminous Landscape owner had drift with a kit of about 4 lb on a head rated 26 lb, and a reply noted ratings refer to vertical load; the same leverage tips a [Nikon P1000 on a tripod](/blog/best-tripod-for-nikon-p1000/) at full zoom.
 
 - **Collar first:** a lens collar (tripod foot) puts the center of gravity over the ball (K&F Concept, Unique Photo).
-- **Size to the real load:** Really Right Stuff rates its 30mm-ball BH-30 at [15 pounds (6.8kg)](https://kb.reallyrightstuff.com/knowledge/bh-30-user-manual), K&F its 28mm head at [22 lb / 10 kg](https://www.kfconcept.com/learning-center/tripod-ball-head-loose); the number alone doesn't predict droop. Some heads use an elliptical ball that adds friction as it tilts; DPReview found it helps but still needs firm friction.
+- **Size to the real load:** ball diameter and load capacity set the ceiling. Really Right Stuff rates its 30mm-ball BH-30 at [15 pounds (6.8kg)](https://kb.reallyrightstuff.com/knowledge/bh-30-user-manual), K&F its 28mm head at [22 lb / 10 kg](https://www.kfconcept.com/learning-center/tripod-ball-head-loose); the number alone doesn't predict droop. Some heads use an elliptical ball that adds friction as it tilts; DPReview found it helps but still needs firm friction.
 - **Margin matters:** one r/AskPhotography owner chose a head rated slightly above the rig and still got sag that frustrated them; a friend's next model up, with a much higher capacity, held solid.
 
 > **From our notes:** This is research, not a bench test. When we lined up DPReview's ball head results, we expected the cheap heads to creep and the expensive ones to hold. The numbers told a different story. With friction set, every head held the 3.1 kg lens to well under half a percent of the frame over 30 seconds. The difference came the moment the knob closed: one large head moved the frame 7.3%, another barely 0.18%. That changed how we think about this complaint. Most sag isn't a weak ball letting go; it's the lock pushing the ball as it clamps. That is why friction and aim fix more than force.
@@ -203,7 +203,7 @@ Our guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-sw
 
 **Ball head sag from a dirty ball is fixed with cleaning, not oil: grit spoils lock-up, and lubricant makes slipping worse.** Really Right Stuff is blunt: "DO NOT LUBRICATE THE BALL as this will decrease the lock-up capacity and tend to attract dirt/dust." K&F Concept adds that WD-40 is not a fix.
 
-Really Right Stuff recommends compressed air as the best tool, water only sparingly with gentle dish soap, because water can be trapped inside a sealed head. The maker video below walks through it.
+Really Right Stuff recommends compressed air as the best tool, and water only sparingly with gentle dish soap, because water can be trapped inside a sealed head. The maker video in this section walks through it.
 
 ## Legs, ground and stabilization
 

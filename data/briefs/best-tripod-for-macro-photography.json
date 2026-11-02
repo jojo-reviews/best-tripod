@@ -9,79 +9,154 @@
   ],
   "entities": [
     {
-      "name": "horizontal column",
+      "name": "tripod",
+      "type": "product type",
+      "relation": "central entity: three-legged camera support",
+      "salience": 0.95
+    },
+    {
+      "name": "macro photography",
+      "type": "genre",
+      "relation": "close-up photography at high magnification that the tripod serves",
+      "salience": 0.83
+    },
+    {
+      "name": "tripod head",
       "type": "component",
-      "relation": "Manfrotto's 90-degree column that swings sideways so the camera can reach the ground or shoot straight down"
+      "relation": "ball or geared head that frames the shot; a tilting column needs a versatile one",
+      "salience": 0.78
     },
     {
-      "name": "multi-angle column",
-      "type": "component",
-      "relation": "Vanguard's MACC column that tilts and rotates to almost any angle"
-    },
-    {
-      "name": "minimum height",
-      "type": "attribute",
-      "relation": "how close to the ground the camera can sit, the key macro spec"
-    },
-    {
-      "name": "leg angles",
-      "type": "attribute",
-      "relation": "wide leg angle stops let the legs splay low"
-    },
-    {
-      "name": "ball head",
-      "type": "component",
-      "relation": "standard head; friction control helps fine framing at 1:1"
-    },
-    {
-      "name": "geared head",
-      "type": "component",
-      "relation": "precise upgrade for macro framing"
-    },
-    {
-      "name": "focusing rail",
+      "name": "bean bag",
       "type": "accessory",
-      "relation": "moves the camera in small steps for focus and focus stacking"
+      "relation": "free ground-level support for flat surfaces, lower than any tripod",
+      "salience": 0.74
     },
     {
-      "name": "focus stacking",
-      "type": "technique",
-      "relation": "many frames at different focus points that must align"
+      "name": "camera",
+      "type": "device",
+      "relation": "what the tripod holds still",
+      "salience": 0.67
     },
     {
-      "name": "counterweight",
-      "type": "technique",
-      "relation": "a bag or weight that balances an off-center column"
-    },
-    {
-      "name": "GorillaPod",
-      "type": "product line",
-      "relation": "flexible-leg mini tripod for low, awkward positions"
-    },
-    {
-      "name": "Manfrotto",
-      "type": "brand",
-      "relation": "055 and 190 series with the 90-degree column"
+      "name": "flash",
+      "type": "accessory",
+      "relation": "extra light a tripod or leg socket can hold beside the subject",
+      "salience": 0.53
     },
     {
       "name": "Vanguard",
       "type": "brand",
-      "relation": "VEO 3+ and Alta Pro 2+ with the multi-angle column"
+      "relation": "VEO 3+ and Alta Pro 2+ with the multi-angle column",
+      "salience": 0.49
+    },
+    {
+      "name": "aperture",
+      "type": "setting",
+      "relation": "a tripod allows a smaller aperture at slower shutter speeds; stacking uses wider apertures",
+      "salience": 0.39
+    },
+    {
+      "name": "depth of field",
+      "type": "concept",
+      "relation": "thin at macro distances; more with a smaller aperture on a tripod",
+      "salience": 0.3
+    },
+    {
+      "name": "shutter speed",
+      "type": "setting",
+      "relation": "slower speeds are usable on a still tripod",
+      "salience": 0.23
+    },
+    {
+      "name": "magnification",
+      "type": "concept",
+      "relation": "at 1:1 small movements show, so stability matters",
+      "salience": 0.21
+    },
+    {
+      "name": "horizontal column",
+      "type": "component",
+      "relation": "Manfrotto's 90-degree column that swings sideways so the camera can reach the ground or shoot straight down",
+      "salience": null
+    },
+    {
+      "name": "multi-angle column",
+      "type": "component",
+      "relation": "Vanguard's MACC column that tilts and rotates to almost any angle",
+      "salience": null
+    },
+    {
+      "name": "minimum height",
+      "type": "attribute",
+      "relation": "how close to the ground the camera can sit, the key macro spec",
+      "salience": null
+    },
+    {
+      "name": "leg angles",
+      "type": "attribute",
+      "relation": "wide leg angle stops let the legs splay low",
+      "salience": null
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "standard head; friction control helps fine framing at 1:1",
+      "salience": null
+    },
+    {
+      "name": "geared head",
+      "type": "component",
+      "relation": "precise upgrade for macro framing",
+      "salience": null
+    },
+    {
+      "name": "focusing rail",
+      "type": "accessory",
+      "relation": "moves the camera in small steps for focus and focus stacking",
+      "salience": null
+    },
+    {
+      "name": "focus stacking",
+      "type": "technique",
+      "relation": "many frames at different focus points that must align",
+      "salience": null
+    },
+    {
+      "name": "counterweight",
+      "type": "technique",
+      "relation": "a bag or weight that balances an off-center column",
+      "salience": null
+    },
+    {
+      "name": "GorillaPod",
+      "type": "product line",
+      "relation": "flexible-leg mini tripod for low, awkward positions",
+      "salience": null
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "055 and 190 series with the 90-degree column",
+      "salience": null
     },
     {
       "name": "Arca-Swiss",
       "type": "standard",
-      "relation": "dovetail clamp standard for plates and rails"
+      "relation": "dovetail clamp standard for plates and rails",
+      "salience": null
     },
     {
       "name": "remote release",
       "type": "accessory",
-      "relation": "fires the shutter without touching the camera"
+      "relation": "fires the shutter without touching the camera",
+      "salience": null
     },
     {
       "name": "load capacity",
       "type": "attribute",
-      "relation": "rated payload against camera, lens, rail and flash"
+      "relation": "rated payload against camera, lens, rail and flash",
+      "salience": null
     }
   ],
   "attributes": [
@@ -108,7 +183,11 @@
     "leg angles",
     "load capacity",
     "ground level",
-    "folded length"
+    "folded length",
+    "depth of field",
+    "tripod head",
+    "bean bag",
+    "remote shutter release"
   ],
   "skipgrams": [
     "center column…ground",
@@ -116,7 +195,10 @@
     "focusing…rail",
     "leg…angles",
     "load…capacity",
-    "macro…lens"
+    "macro…lens",
+    "aperture…depth of field",
+    "bean bag…ground",
+    "tripod head…tilting column"
   ],
   "nlpTerms": [
     "macro",
@@ -138,7 +220,14 @@
     "rail",
     "payload",
     "weight",
-    "angle"
+    "angle",
+    "aperture",
+    "depth of field",
+    "diffraction",
+    "shutter speed",
+    "flash",
+    "reflector",
+    "bean bag"
   ],
   "questions": [
     "what is the best tripod for macro photography",
@@ -557,5 +646,20 @@
       "replace": "Its multi-angle column swings horizontal, which drops the camera to 8.4 in for low foregrounds and [macro tripod work](/blog/best-tripod-for-macro-photography/).",
       "appliedAt": "2026-10-29T15:40:35.100Z"
     }
-  ]
+  ],
+  "textrazor": {
+    "date": "2026-11-02",
+    "pages": [
+      "https://www.better-digital-photo-tips.com/tripod-for-outdoor-macro-photography.html",
+      "https://www.vanguardworld.co.uk/blogs/co-uk/best-tripods-for-macro-photography",
+      "https://encounteringfungi.com/2026/04/12/tripods-for-mushroom-and-macro-photography/",
+      "https://forum.inaturalist.org/t/tripods-for-low-to-the-ground-photography/54374"
+    ],
+    "noiseIgnored": [
+      "Plastic bag",
+      "Bean",
+      "Bag",
+      "Image"
+    ]
+  }
 }
