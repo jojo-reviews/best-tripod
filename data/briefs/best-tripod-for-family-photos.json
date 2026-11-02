@@ -1,0 +1,561 @@
+{
+  "centralEntity": "tripod for family photos",
+  "entityVariants": [
+    "best tripod for family photos",
+    "tripod for taking family pictures",
+    "family photo tripod",
+    "tripod for family portraits",
+    "best tripod with remote for family photos",
+    "best tripod for family photos with timer"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "product",
+      "relation": "holds the camera still so the photographer can step into the family photo",
+      "salience": 0.93
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "DSLR, mirrorless or phone that sits on the tripod; its weight sets the load needed",
+      "salience": 0.58
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "ball head or pan/tilt head that frames and levels the group shot",
+      "salience": 0.85
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 190XPRO kit and Befree Advanced recommended by most ranking pages",
+      "salience": 0.76
+    },
+    {
+      "name": "Vanguard",
+      "type": "brand",
+      "relation": "maker of the Alta Pro 2+ line recommended by RealHomes and TechGearLab",
+      "salience": 0.71
+    },
+    {
+      "name": "photography",
+      "type": "topic",
+      "relation": "family portrait photography done by the family itself",
+      "salience": 0.46
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter leg material on travel tripods; aluminum is cheaper and heavier",
+      "salience": 0.46
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "leg material of four of the five picks; heavier but cheaper than carbon",
+      "salience": 0.43
+    },
+    {
+      "name": "camera lens",
+      "type": "product",
+      "relation": "50mm to 85mm focal length suggested for family portraits from a tripod",
+      "salience": 0.3
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "column-down height decides whether the lens reaches adult eye level",
+      "salience": 0.37
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "tripod weight decides whether it comes to the park or on the trip",
+      "salience": 0.37
+    },
+    {
+      "name": "self-timer",
+      "type": "feature",
+      "relation": "2 or 10 second camera timer used to get into the shot",
+      "salience": 0.6
+    },
+    {
+      "name": "remote shutter release",
+      "type": "accessory",
+      "relation": "fires the camera from inside the group without running back",
+      "salience": 0.6
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "adds height but adds shake; keep it down when possible",
+      "salience": 0.5
+    },
+    {
+      "name": "phone mount",
+      "type": "accessory",
+      "relation": "lets a smartphone sit on the tripod; built into the Peak Design Travel Tripod",
+      "salience": 0.45
+    },
+    {
+      "name": "Peak Design",
+      "type": "brand",
+      "relation": "maker of the Travel Tripod with a built-in mobile mount",
+      "salience": 0.5
+    },
+    {
+      "name": "SIRUI",
+      "type": "brand",
+      "relation": "maker of the Traveler 5C carbon travel tripod",
+      "salience": 0.4
+    },
+    {
+      "name": "interval timer",
+      "type": "feature",
+      "relation": "camera mode that takes a run of frames so nobody runs back between shots",
+      "salience": 0.35
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-family-photos.entities.json",
+    "pagesAnalyzed": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "https://www.realhomes.com/news/secret-to-family-photos",
+      "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html",
+      "https://www.findingtheuniverse.com/best-travel-tripods/"
+    ],
+    "note": "Dropped off-topic shared entities: Email, Instagram, Gear (newsletter and site chrome)."
+  },
+  "attributes": [
+    "height with the center column down (tripod)",
+    "maximum height (tripod)",
+    "folded length (tripod)",
+    "weight (tripod)",
+    "load capacity (tripod)",
+    "leg lock type: flip lock or twist lock (tripod legs)",
+    "head type: ball head or pan/tilt (tripod head)",
+    "quick release plate standard (tripod head)",
+    "phone mount included (tripod)",
+    "remote or timer support (camera)"
+  ],
+  "ngrams": [
+    "family photos",
+    "family portraits",
+    "self timer",
+    "remote shutter release",
+    "ball head",
+    "center column",
+    "carbon fiber",
+    "travel tripod",
+    "take your own family photos",
+    "quick release plate",
+    "eye level"
+  ],
+  "skipgrams": [
+    "tripod…remote",
+    "family…timer",
+    "column…down",
+    "camera…eye level",
+    "legs…spread",
+    "focus…lock"
+  ],
+  "nlpTerms": [
+    "group photo",
+    "holiday card",
+    "focal length",
+    "aperture",
+    "autofocus",
+    "Bluetooth remote",
+    "interval shooting",
+    "leg angle",
+    "bubble level",
+    "load capacity",
+    "folded length",
+    "smartphone"
+  ],
+  "questions": [
+    "What is the best tripod for family photos?",
+    "How tall should a tripod be for family photos?",
+    "Do I need a remote to take family photos on a tripod?",
+    "Can I use my phone on a camera tripod for family photos?",
+    "How do I get kids to look at the camera on a tripod?",
+    "Is a cheap phone tripod good enough for family photos?"
+  ],
+  "contentGaps": [
+    "No top result checks tripod height against real adult heights for group framing",
+    "No result maps the place of the family photo (living room, park, trip) to one tripod",
+    "Phone owners are not told which full-size tripod has a phone mount built in",
+    "Few results explain interval shooting to avoid running back after every frame"
+  ],
+  "outline": [
+    {
+      "h2": "Family photo tripod heights compared with the column down",
+      "intent": "comparison table on the deciding spec",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these family photo tripods",
+      "intent": "selection rule, evidence, from our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for family photos, reviewed",
+      "intent": "product sections",
+      "h3": [
+        "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2): best tripod for family portraits at home",
+        "Vanguard Alta Pro 263AB G2: best family photo tripod for uneven ground",
+        "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): best all-round family tripod",
+        "Peak Design Travel Tripod (Aluminum): best tripod for phone and camera family photos",
+        "Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head: lightest tripod for family trips"
+      ]
+    },
+    {
+      "h2": "Which tripod for family photos should you get?",
+      "intent": "chooser",
+      "h3": []
+    },
+    {
+      "h2": "How tall a tripod for family photos should be, worked out",
+      "intent": "analysis with CDC heights",
+      "h3": []
+    },
+    {
+      "h2": "How to take family photos with a tripod and remote",
+      "intent": "numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "Family photo tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "A tripod plus a remote or self-timer lets the photographer be in the family photo",
+    "Stability matters more than the lightest weight",
+    "Carbon fiber is lighter, aluminum is cheaper",
+    "Ball heads are quick; pan/tilt heads are more precise",
+    "Lock focus on a face before stepping into the frame",
+    "Set the tripod up and frame the shot before calling the kids"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Column-down height vs CDC average adult heights (men 68.9 in, women 63.5 in) and the height-minus-10-to-12-in rule: the Manfrotto 190 kit (57.68 in) clears both, the Vanguard (55.6 in) clears the average woman's target, the Peak Design (51.25 in) and Befree (50.39 in) sit just under it, the SIRUI needs its column (54.3 in max).",
+      "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm; maker spec pages; /blog/how-tall-should-a-tripod-be-for-my-height/",
+      "absentFrom": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.realhomes.com/news/secret-to-family-photos",
+        "https://www.findingtheuniverse.com/best-travel-tripods/",
+        "https://rebeccaleighphotograph.com/family-sessions/taking-your-own-family-photos/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by where the family photo happens: living room or holiday table, backyard or park on uneven ground, a trip, phone-only families.",
+      "source": "spec comparison of the five picks; Rebecca Leigh uses a heavy Manfrotto at home and a Peak Design on trips",
+      "absentFrom": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.realhomes.com/news/secret-to-family-photos",
+        "https://www.findingtheuniverse.com/best-travel-tripods/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Phone-only families: the Peak Design Travel Tripod has a built-in, stowable mobile mount; the others need a clamp with a 1/4-20 socket.",
+      "source": "https://www.peakdesign.com/products/travel-tripod; https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
+      "absentFrom": [
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.realhomes.com/news/secret-to-family-photos",
+        "https://rebeccaleighphotograph.com/family-sessions/taking-your-own-family-photos/",
+        "https://www.suzycollinsphotography.com/blog/self-timer-tips"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Running back after every frame: use interval shooting or burst-on-timer so one trip into the frame gives many poses.",
+      "source": "https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/",
+      "absentFrom": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.realhomes.com/news/secret-to-family-photos",
+        "https://www.findingtheuniverse.com/best-travel-tripods/"
+      ]
+    }
+  ],
+  "targetWords": 1800,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "https://www.realhomes.com/news/secret-to-family-photos",
+      "https://www.findingtheuniverse.com/best-travel-tripods/",
+      "https://rebeccaleighphotograph.com/family-sessions/taking-your-own-family-photos/",
+      "https://www.suzycollinsphotography.com/blog/self-timer-tips",
+      "https://www.techgearlab.com/topics/electronics/best-tripod"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "RealHomes, The School of Photography and Rebecca Leigh describe each tripod in a paragraph; Pack Hacker adds short like/know lists. Paragraphs suit owner-story context.",
+    "avgWords": 2050,
+    "avgProducts": 5,
+    "commonSections": [
+      "product list",
+      "how to choose (height, material, head, legs)",
+      "self-timer and remote tips",
+      "FAQ"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/photography/comments/1jc3d31/what_is_your_favorite_light_tripod_for_travel_or/",
+      "title": "What is your favorite light tripod for travel or just for spur of the moment ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "title": "The Best Travel Tripod for 2026 - Pack Hacker"
+    },
+    {
+      "position": 3,
+      "url": "https://www.facebook.com/groups/115806303681513/posts/945497520712383/",
+      "title": "What's a good affordable tripod for family portraits and landscape ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "title": "Best Camera Tripod Guide 2026 - The School of Photography"
+    },
+    {
+      "position": 5,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+      "title": "Best tripod for photographers: full-size tripods for rock-steady support"
+    },
+    {
+      "position": 6,
+      "url": "https://www.realhomes.com/news/secret-to-family-photos",
+      "title": "How I got better family photos with a tripod - Real Homes"
+    },
+    {
+      "position": 7,
+      "url": "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html",
+      "title": "Camera Tripod Reviews. Simple Advice on How To Choose the Best ..."
+    },
+    {
+      "position": 8,
+      "url": "https://www.findingtheuniverse.com/best-travel-tripods/",
+      "title": "Best Travel Tripods 2026: A Photographer's Buying Guide"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=6yLbEIf9pJs&vl=en",
+      "title": "Which travel tripod is the BEST travel tripod? - YouTube"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 3,
+    "withNumber": 0,
+    "commonModifiers": [
+      "best",
+      "2026",
+      "travel",
+      "guide"
+    ],
+    "gap": "No title targets family photos with a pick count or a height promise; ours leads with the exact keyword, the year, the count and an eye-level benefit."
+  },
+  "serpProducts": [
+    {
+      "name": "Manfrotto 190XPRO (MK190XPRO3-BHQ2 kit / 190 family)",
+      "pages": [
+        "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+        "https://rebeccaleighphotograph.com/family-sessions/taking-your-own-family-photos/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.facebook.com/groups/115806303681513/posts/945497520712383/"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "pages": [
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.findingtheuniverse.com/best-travel-tripods/",
+        "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+        "https://wherewonderwaits.com/self-portrait-photography-equipment/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.findingtheuniverse.com/best-travel-tripods/",
+        "https://rebeccaleighphotograph.com/family-sessions/taking-your-own-family-photos/"
+      ]
+    },
+    {
+      "name": "SIRUI Traveler 5C",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "name": "Vanguard Alta Pro 2+ 263 (263AP on RealHomes, 263CB on TechGearLab; aluminum 263AB G2 is the current Amazon listing)",
+      "pages": [
+        "https://www.realhomes.com/news/secret-to-family-photos",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "name": "K&F Concept 64 in aluminum (only one page; not used)",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "name": "TECELKS 55 in phone tripod (only one page; not used)",
+      "pages": [
+        "https://www.realhomes.com/news/secret-to-family-photos"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "68.9 in / 63.5 in",
+      "claim": "measured average height of US men and women aged 20 and older",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Men: Height in inches: 68.9 ... Women: Height in inches: 63.5"
+    },
+    {
+      "number": "57.68 in",
+      "claim": "Manfrotto 190XPRO kit height with the centre column down",
+      "url": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+      "quote": "maximum height with centre column down: 146.5 cm 57.68 in"
+    },
+    {
+      "number": "55.6 in",
+      "claim": "Vanguard Alta Pro 2+ 263AB G2 height with the center column down",
+      "url": "https://www.vanguardworld.com/products/alta-pro-2-263ab-gen-2-professional-aluminum-full-size-camera-video-tripod-w-ball-head-26mm-legs",
+      "quote": "Max height with center column down: 55.6\""
+    },
+    {
+      "number": "20 lb",
+      "claim": "Peak Design Travel Tripod load capacity, with a built-in mobile mount",
+      "url": "https://www.peakdesign.com/products/travel-tripod",
+      "quote": "features a built-in, stowable mobile mount that securely holds any phone or case"
+    }
+  ],
+  "videos": [
+    {
+      "id": "RsY2pKMLPQ0",
+      "title": "Taking my own family photos using a remote and tripod!",
+      "channel": "unknown (filled by oEmbed at deploy)",
+      "url": "https://www.youtube.com/watch?v=RsY2pKMLPQ0",
+      "section": "How to take family photos with a tripod and remote"
+    }
+  ],
+  "internalLinkCandidates": [
+    "how-tall-should-a-tripod-be-for-my-height",
+    "best-tripod-under-100",
+    "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+    "tripod-center-column-up-or-down-for-landscapes",
+    "best-phone-tripod-for-vlogging-with-remote"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-under-100",
+      "find": "The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset.",
+      "replace": "The Amazon Basics 60-Inch is a full-height aluminum tripod with a 3-way pan head from Amazon Basics, and my pick for family photos and the odd sunset; for sturdier options see our [best tripods for family photos](/blog/best-tripod-for-family-photos/)."
+    },
+    {
+      "slug": "best-tripod-for-content-creators",
+      "find": "The video below walks through framing shots of yourself, which is where tripod height matters most.",
+      "replace": "The video below walks through framing shots of yourself, which is where tripod height matters most, as it does with [tripods for family photos](/blog/best-tripod-for-family-photos/)."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for family photos with timer",
+    "tripod for taking family pictures",
+    "best tripod with remote for family photos",
+    "best tripod for family portraits",
+    "tripod for family pictures with phone"
+  ],
+  "angle": "Height-first: which tripod puts the lens at adult eye level with the column down, matched to where the family photo is taken.",
+  "painPoints": [
+    {
+      "id": "family-photos-running-back-to-timer",
+      "pain": "Running back and forth to the camera for every self-timer frame",
+      "details": "Families shooting their own portraits on a timer get one frame per sprint; r/AskPhotography and r/photography replies suggest a remote or interval shooting.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/",
+        "https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/"
+      ],
+      "quotes": [
+        {
+          "text": "Interval timer shooting is best when you want to take a lot of pictures in a variety of poses.",
+          "url": "https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/"
+        }
+      ]
+    },
+    {
+      "id": "family-photos-kids-not-looking",
+      "pain": "Small kids won't look at a camera with nobody behind it",
+      "details": "Parents shooting their own family portraits with a timer or remote say toddlers look away; the fix is something to look at right behind the lens.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/7oi2sx/shooting_my_own_family_portrait_on_a_tripod_with/",
+        "https://snaphappymom.com/quick-tip-for-tripod-family-photos/",
+        "https://www.suzycollinsphotography.com/blog/self-timer-tips"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "travel-tripods-too-short-bend-over",
+      "pain": "Compact travel tripods are too short, forcing photographers to bend over",
+      "details": "Tall users find folded-small tripods stop well below eye level once the center column is left down.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+      ],
+      "quotes": [
+        {
+          "text": "a travel pod will be shorter requiring you to bend over to look through the VF",
+          "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-center-column-vibration",
+      "pain": "Raising the center column makes the tripod shake and ring after every shutter press",
+      "details": "A tripod that is steady on its legs gets wobbly once the column is cranked up.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+          "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-phone-and-camera-one-tripod",
+      "pain": "Owners want one tripod for a phone and a camera",
+      "details": "Phones have no tripod socket; any tripod works once a phone clamp with a 1/4-20 socket is added.",
+      "sources": [
+        "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/"
+      ],
+      "quotes": [
+        {
+          "text": "Any tripod with a phone holder will do.",
+          "url": "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/"
+        }
+      ]
+    }
+  ]
+}

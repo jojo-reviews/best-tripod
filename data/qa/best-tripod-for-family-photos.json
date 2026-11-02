@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-family-photos",
+  "pass": true,
+  "checkedAt": "2026-11-02T11:32:13.599Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-02 via Firecrawl: Manfrotto MK190XPRO3-BHQ2 specs on manfrotto.com (57.68 in column down, 67.52 in max, 3.54 in min, 27.76 in closed, 5.51 lb, 15 kg payload, 3 sections, flip locks, leg angles 25/46/66/88, 200PL-14 plate) and B&H (90-degree column, 31 reviews; praise/complaints read). Vanguard Alta Pro 2+ 263AB G2 on vanguardworld.com (55.6/68.2/8.4/28.3 in, 4.8 lb, 22 lb, twist locks, BH-60, QS-45H, multi-angle column) and B&H (4 leg angles). Befree Advanced lever kit specs as verified in earlier posts against manfrotto.com (50.39/59.45 in, 15.75 in, 3.51 lb, 9 kg, 494 head, 200PL PRO). Peak Design Travel Tripod aluminum (51.25/60 in, 15.5 in, 3.44 lb, 20 lb) and built-in stowable mobile mount on peakdesign.com. Sirui Traveler 5C (54.3 in, 13 in, 1.87 lb, 4 kg) against TechGearLab and Amazon title. CDC FastStats adult heights 68.9/63.5 in. Owner claims checked against Rebecca Leigh Photography (Manfrotto 190 at home, Peak Design carbon on hikes, backpack as counterweight, mount flex), Where Wonder Waits (Befree Advanced carbon), B&H reviews. All 5 ASINs in stock on Amazon US (Firecrawl amazon-com prices/offer 2026-11-02): 4 sold by Amazon.com, Peak Design ships from Amazon. Product picks each on 2+ top-10 pages (serpProducts in brief). Quotes taken verbatim from brief/pain-points data (search excerpts for Reddit). Re-checked after first-person wording edits (no new facts).",
+    "at": "2026-11-02T11:32:13.064Z",
+    "hash": "fc3d7a79a9aa0f9e"
+  }
+}

@@ -443,6 +443,7 @@ heroAlt: >-
   Best Tripod for Nikon Z8 (2026) – 5 Picks From 24-120 to 180-600 – Best Tripod
   buying guide
 related:
+  - best-tripod-for-nikon-zf
   - best-tripod-for-nikon-p1000
 ---
 

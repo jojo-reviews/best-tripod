@@ -2473,7 +2473,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2504,7 +2504,9 @@
       "note": "Ahrefs returned no KD for this phrase"
     },
     "revivedAt": "2026-11-01T11:53:16.231Z",
-    "researchSource": "low-kd-research 2026-11-01"
+    "researchSource": "low-kd-research 2026-11-01",
+    "startedAt": "2026-11-02T11:19:41.350Z",
+    "publishedAt": "2026-11-02T11:31:00.674Z"
   },
   {
     "status": "published",
@@ -7545,7 +7547,7 @@
     "publishedAt": "2026-10-30T02:08:31.718Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.929Z",
     "secondaryKeywords": [
@@ -7574,7 +7576,9 @@
       "date": "2026-11-01",
       "note": "Ahrefs volume 0 (phrase in database, no KD); SERP full of forum questions = real but unmeasured demand"
     },
-    "slug": "best-tripod-for-northern-lights"
+    "slug": "best-tripod-for-northern-lights",
+    "startedAt": "2026-11-02T11:19:38.135Z",
+    "publishedAt": "2026-11-02T11:32:06.048Z"
   },
   {
     "status": "pending",
@@ -7606,7 +7610,7 @@
     "slug": "best-tripod-for-golf-swing-recording"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7631,10 +7635,12 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-canon-r6-mark-ii"
+    "slug": "best-tripod-for-canon-r6-mark-ii",
+    "startedAt": "2026-11-02T11:19:39.939Z",
+    "publishedAt": "2026-11-02T11:30:55.791Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7659,7 +7665,9 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-nikon-zf"
+    "slug": "best-tripod-for-nikon-zf",
+    "startedAt": "2026-11-02T11:19:49.822Z",
+    "publishedAt": "2026-11-02T11:29:57.809Z"
   },
   {
     "status": "pending",
@@ -7746,13 +7754,15 @@
     "slug": "best-tripod-for-canon-powershot-v1"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
       "best tripod for family photos with timer",
       "tripod for taking family pictures",
-      "best tripod with remote for family photos"
+      "best tripod with remote for family photos",
+      "best tripod for family portraits",
+      "tripod for family pictures with phone"
     ],
     "questions": [],
     "priority": 1007,
@@ -7771,7 +7781,10 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-family-photos"
+    "slug": "best-tripod-for-family-photos",
+    "startedAt": "2026-11-02T11:19:43.654Z",
+    "productCount": 5,
+    "publishedAt": "2026-11-02T11:32:19.071Z"
   },
   {
     "status": "pending",
