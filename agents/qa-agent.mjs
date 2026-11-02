@@ -137,6 +137,8 @@ async function urlOk(url) {
 export function mediaRules(d, body, { pub, err, warn, info = !(d.products ?? []).length }) {
   const strict = !(pub <= Date.now());
   const must = (m) => (strict ? err(m) : warn(m));
+  // Patent rule 2026-11-02 (US8442984B1): videos sit right after their section heading, so 'video below/above' points the wrong way.
+  if ((d.videos ?? []).length && /\bvideo (below|above)\b/i.test(body)) warn('video is placed after the section heading; reword "the video below/above" to "the video in this section"');
   const h2 = (body.match(/^## /gm) ?? []).length;
   const ill = d.illustrations ?? [];
   if (info && ill.length < 2) must(`${ill.length} AI illustrations; a post without product photos needs at least 2 (frontmatter illustrations: prompt, alt, afterHeading)`);
