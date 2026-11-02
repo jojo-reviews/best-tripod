@@ -111,6 +111,8 @@ const blog = defineCollection({
         z.object({
           prompt: z.string(),
           alt: z.string(),
+          // Patent rule 2026-11-02 (US12393768B2): short caption shown in the figcaption.
+          caption: z.string().max(140).optional(),
           afterHeading: z.number(),
           src: z.string().optional(),
           width: z.number().optional(),
