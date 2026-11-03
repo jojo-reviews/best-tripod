@@ -406,6 +406,7 @@ faqs:
       light enough for any of them.
 author: editorial-team
 related:
+  - best-tripod-for-ricoh-gr-iii
   - best-tripod-for-gopro
   - best-tripod-for-dji-osmo-pocket-3
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging

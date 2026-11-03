@@ -7705,7 +7705,7 @@
     "publishedAt": "2026-11-03T11:28:44.099Z"
   },
   {
-    "status": "in-progress",
+    "status": "published",
     "attempts": 1,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7732,7 +7732,8 @@
     },
     "slug": "best-tripod-for-ricoh-gr-iii",
     "productCount": 5,
-    "startedAt": "2026-11-03T11:19:12.432Z"
+    "startedAt": "2026-11-03T11:19:12.432Z",
+    "publishedAt": "2026-11-03T11:31:17.221Z"
   },
   {
     "status": "published",

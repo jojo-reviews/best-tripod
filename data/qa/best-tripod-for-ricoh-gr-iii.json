@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-ricoh-gr-iii",
+  "pass": true,
+  "checkedAt": "2026-11-03T11:31:10.333Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto PIXI Mini Tripod (MTPIXIMII-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"ULANZI MT-08 Extendable Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-03 via Firecrawl: GR III 257 g / GR IIIx 262 g (ricoh-imaging gr-3 spec page), GR IV 262 g (gr-4 spec page); manual PDF p.90 self-timer sets Shake Reduction Off, p.82 Interval Composite fixes SR off, p.74/83 10s/2s timer, p.51 CA-3 cable switch via USB cable, p.116 Image Sync Remote Capture, p.15 tripod screw hole and battery/card cover on base. PIXI Mini MTPIXIMII-B 6.7 oz, 7 in closed, 5.3 in max, 1 kg (B&H specs). PIXI EVO 2.5 kg, 10.5-20 cm, 20.5 cm folded, 0.26 kg (Manfrotto via live tabletop post, B&H 5.5 lb/7.7 in). GorillaPod 1K Kit 1 kg, 10 in, 8 in closed, 5.1 oz (B&H specs). Ulanzi MT-08 3.2 oz, 5.1-9.27 in, 5.9 in folded (B&H), 0.5 kg extended / 2 kg folded (Ulanzi manual on manuals.plus). SIRUI Traveler 5C 1.87 lb, 54.3 in, 6.3 in min, 13 in folded, 4 kg, 5 sections (SIRUI store), Arca plate per Amazon listing. Ratios computed from these. ASINs hand-checked on Amazon US: B09GKLCP95 in stock sold/shipped by Amazon; B0149KBPB4 in stock ships from Amazon; B07ZPS47VC in stock ships from Amazon (sold by Ulanzi); B07KD181B3 in stock sold by Amazon; B074WFNNKY available only via other sellers. Every quote checked verbatim on DPReview, FM Forums, PentaxForums, Pack Hacker, B&H reviews and the r/ricohGR search excerpt. Pedco UltraPod II dropped (Amazon US unavailable).",
+    "at": "2026-11-03T11:31:09.755Z",
+    "hash": "fb7a6b089f8e0270"
+  }
+}

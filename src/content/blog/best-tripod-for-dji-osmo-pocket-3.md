@@ -1,5 +1,5 @@
 ---
-title: Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in
+title: 'Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in'
 seoTitle: Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks to 81 in
 description: >-
   The best tripod for DJI Osmo Pocket 3: 5 picks from DJI's 44.8 g mini to an 81
@@ -431,16 +431,17 @@ faqs:
       steady the legs, so keep the center column down.
 author: editorial-team
 related:
+  - best-tripod-for-ricoh-gr-iii
   - best-tabletop-camera-tripod
   - best-tripod-for-dji-osmo-action-5-pro
   - best-tripod-for-gopro
-  - flexible-tripod-vs-mini-tripod-for-travel-vlogging
 videos:
   - id: E9QMORgPLLY
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-dji-osmo-pocket-3.png
 heroAlt: >-
-  Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in – Best Tripod buying guide
+  Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in – Best
+  Tripod buying guide
 ---
 
 You set the Pocket 3 on a cafe table for a sunset timelapse, and the clip comes back crooked, too low, or knocked over. The best tripod for DJI Osmo Pocket 3 owners depends on where you film: DJI's [Osmo Mini Tripod](amzn:DJI+Osmo+Mini+Tripod+Pocket+3) for tables, the [Ulanzi MT-44](amzn:ULANZI+MT-44+extendable+tripod) for walk-and-talk vlogs, and the Ulanzi MT-79 when you need the lens at eye level. I matched five tripods to the Pocket 3 using maker specs and owner reports from r/osmopocket and Pocket 3 Facebook groups; we have not used these tripods ourselves.

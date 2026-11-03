@@ -1,0 +1,121 @@
+{
+  "keyword": "best tripod for ricoh gr iii",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.27,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Ricoh GR (large sensor compact camera)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Ricoh_GR_(large_sensor_compact_camera)"
+    },
+    {
+      "entity": "Vanguard",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.75,
+      "wiki": ""
+    },
+    {
+      "entity": "Ricoh",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Ricoh"
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 2,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": ""
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+    },
+    {
+      "entity": "Photograph",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.24,
+      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+    }
+  ],
+  "errors": [
+    "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Cj0eMOc3yQFKY6kFMnzsHx&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Cj0eMOc3yQFKY6kFMnzsHx\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'etWv8LuZdEqmsdRxi9xvKCDPD5FwafXAi8s9yF40tUc-1793705126-1.2.1.1-3yP_4HZ_JA4wEbzYOr7YSpiHeyGzU9jMITKg8iPlo0H3kxCfQUrGGDrbcuqCJXFA',cITimeS: '1793705126',cN: 'Cj0eMOc3yQFKY6kFMnzsHx',cRay: 'a54b04b04ad1e61d',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_f_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\",md: 'WzjO.MD01odTh3W0HFfMwyN8r.R0F7xwLrTcMLFLU1Y-1793705126-1.2.1.1-bUZs7dckT.01kGYMkVxoPP6JAN4fqY85OajlaOV2jjUoadScYIgMq2P1ilF5oW5VEjEG4DK5AiuzOBvz9In2FR5O5hxSYdMygjMqxmxdR9eUOxc0JAKpcKU_rl4sIdf9M7Jrml3LYkPFMIEK.2.NusAXAjqnYfGqHRg89qX_MksOlT_JpyjRjLztaZurMG.a1GME1aQ9eCquHf9TpgGgd79hJ7aJaQVTUVzBMmcYQQ4.3fM0SP3cqwKpGWZfbYIIZAsZcVOiNyVZx4c4D7Cj_jPg9AoHacJlfXFyTE9c9cGInM1iSrROXV_ENamHE061SUBBJyahttKtnC3dJ8QiShOPQN.f7NyrLlmH3KLgKfvEe6BNDtwUc3XNQ8tZDs1zSI8fWmhEkQJtEHrKax.AmdNM93v4Hh4EEobXJdiz_YNjQCPGa9W3p0hKMHUmY1sb2s0uEq6hufmdMC7dmOYPvgpxJGHOcmoTwtGE5J_0OaY80GvGyOM9ewpLeig5wDI2vHUHeeDQ3oJoVs2O.sEkdmarHLPNC0E1R8KqELdOMzDjL0hUamQ8qbnDDs3J8.EYGIpNODpCfuV6V7LkFzV_F1msoxHoVGjLxdKuuS7UAOc0ihI5JrvJUAxZpn7tBPkYMKTbtbnPM78JOcblPdx2dC9_htBM7JbsTMbf5P2BAm1kQSfMyGK_Xw1VIOLXi4tOcXJASgKCEZ84ih4Kv2iRsmcC9VNJcsgck9IrIzzLNi.e63kFhnKqZLLuGgvOHgx5yM2bGX7mbh_DR7Ks1hKaaC113tvrm52utV5uYyuv72ssi1duwMxK3Cq.zEaLoRkbjjpEUMInUfmkJlf4J6HbgRD669IvXrch2gUXz0OmtzM3WIv_qr4lciro9IMrNVWR7lPD1hl9orLQtpEnvf.0ZRZBcWwbI5w8RrEahSAEEaS9ZIcXRBLlK80lzuYGG86V7tWO1Iu_GS9zFF0hFDorztIcq93n9ULzQoamkUreMrmoM4F.eB87qCen6lNc723HMBUd97qXl3mDx0s4MTmv5Q5WGT3fuZH0AJq6QfhBS_jo.SAZf5tndSyQ9Qfx80Yh2AMkSIykn_o488626aCW7P9iV5pGpZ_9aZLOeH2K..kPS8sJiSwJL.69Z4phlORmNsuAKPgkSBxO6h2bWID8Ss2JW1_3gSAFJnt_ZNJIV_0m32Gw19tNEPhw1zCgVcJH',mdrd: 'mAUOwFJjvmWWnc8vZgF21SslTR8A0K4YyaH2jTm593o-1793705126-1.2.1.1-fmaPHDG6wG8BWAkacSbfwoHwtD2R8OvrKNboPtnt6HCZKi8T5GopJwyf4IjYecue0B3Dbgc4meMclyztuOulhChHzmXTgfe.WivfzRSMOwtnqs.3n5IznhNd0ObGGwD73PuLsTrBK7.Hv1WBjh2S2IF_Y1HSwmt6Lt_Y6nROnRSbmVUF4s_Wk4fgFx8vZo70DNHWJN.U_M08rXVlo6UEY0BTbyvFSsKcn86P58yuJzr537Fk.baSQgWHTHOh.2G8cakXmyEkavPYuS4WD2_cvA',};var a = document.createElement('script');a.nonce = 'Cj0eMOc3yQFKY6kFMnzsHx';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a54b04b04ad1e61d';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_rt_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

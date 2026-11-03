@@ -1,0 +1,691 @@
+{
+  "keyword": "best tripod for ricoh gr iii",
+  "createdAt": "2026-11-03T11:31:17.224Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "Ricoh GR III tripod",
+    "entityVariants": [
+      "tripod for the Ricoh GR III",
+      "tripod for Ricoh GR III",
+      "Ricoh GR III tripods",
+      "tripods for the Ricoh GR III",
+      "GR III tripod",
+      "tripod for a GR III",
+      "Ricoh GR III on a tripod",
+      "tripod for Ricoh GR IIIx",
+      "mini tripod for Ricoh GR III",
+      "tripod for Ricoh GR IV"
+    ],
+    "entities": [
+      {
+        "name": "Ricoh GR III",
+        "type": "camera",
+        "relation": "28mm-equivalent fixed-lens APS-C compact, approx. 257 g with battery and card, fixed 3.0 in LCD, no viewfinder",
+        "salience": 0.9,
+        "pages": 2
+      },
+      {
+        "name": "camera tripod",
+        "type": "concept",
+        "relation": "three-legged camera support with head and mount",
+        "salience": 0.9,
+        "pages": 3
+      },
+      {
+        "name": "Tripod",
+        "type": "product category",
+        "relation": "tabletop, flexible, extendable mini and travel types",
+        "salience": 1,
+        "pages": 2
+      },
+      {
+        "name": "Ricoh GR IIIx",
+        "type": "camera",
+        "relation": "40mm-equivalent sibling, approx. 262 g",
+        "salience": 0.6
+      },
+      {
+        "name": "Ricoh GR IV",
+        "type": "camera",
+        "relation": "2025 successor, approx. 262 g",
+        "salience": 0.4
+      },
+      {
+        "name": "Manfrotto",
+        "type": "brand",
+        "relation": "maker of the PIXI Mini and PIXI EVO tabletop tripods",
+        "salience": 0.47,
+        "pages": 2
+      },
+      {
+        "name": "Manfrotto PIXI",
+        "type": "product",
+        "relation": "push-button ball head mini tripod most often recommended for the GR",
+        "salience": 0.7
+      },
+      {
+        "name": "JOBY GorillaPod",
+        "type": "product",
+        "relation": "flexible-leg mini tripod that wraps railings and posts",
+        "salience": 0.6
+      },
+      {
+        "name": "SIRUI Traveler 5C",
+        "type": "product",
+        "relation": "five-section carbon travel tripod, 0.85 kg",
+        "salience": 0.55
+      },
+      {
+        "name": "Ulanzi MT-08",
+        "type": "product",
+        "relation": "extendable mini tripod and handle",
+        "salience": 0.45
+      },
+      {
+        "name": "carbon fiber",
+        "type": "material",
+        "relation": "leg material on light travel tripods",
+        "salience": 0.66,
+        "pages": 3
+      },
+      {
+        "name": "Ball head",
+        "type": "component",
+        "relation": "single-knob head on every pick",
+        "salience": 0.5
+      },
+      {
+        "name": "Shake Reduction",
+        "type": "camera feature",
+        "relation": "GR III sensor-shift stabilization, switched off automatically with the self-timer",
+        "salience": 0.5
+      },
+      {
+        "name": "Self-timer",
+        "type": "camera feature",
+        "relation": "2 s or 10 s on the GR III for hands-off release",
+        "salience": 0.45
+      },
+      {
+        "name": "Image Sync",
+        "type": "app",
+        "relation": "Ricoh smartphone app with Remote Capture",
+        "salience": 0.35
+      },
+      {
+        "name": "mirrorless camera",
+        "type": "product category",
+        "relation": "what most tripod ratings are sized for",
+        "salience": 0.27,
+        "pages": 3
+      },
+      {
+        "name": "long exposure",
+        "type": "technique",
+        "relation": "main reason GR owners want a tripod",
+        "salience": 0.5
+      },
+      {
+        "name": "Interval composite",
+        "type": "camera feature",
+        "relation": "GR III drive mode for star and light trails, needs a tripod",
+        "salience": 0.4
+      }
+    ],
+    "attributes": [
+      "load capacity vs 257 g camera",
+      "tripod weight vs camera weight",
+      "maximum working height",
+      "folded length",
+      "head type and lock",
+      "leg type (fixed, two-angle, flexible, telescoping)",
+      "quick-release plate or direct screw",
+      "leg sections and leg lock"
+    ],
+    "ngrams": [
+      "ricoh gr iii",
+      "mini tripod",
+      "tabletop tripod",
+      "travel tripod",
+      "ball head",
+      "self timer",
+      "long exposure",
+      "carbon fiber",
+      "gorillapod",
+      "quick release plate",
+      "pocket camera"
+    ],
+    "skipgrams": [
+      "tripod…pocket",
+      "mini…tripod",
+      "ball…head",
+      "self…timer",
+      "long…exposure",
+      "gr…tripod",
+      "plate…bulk"
+    ],
+    "nlpTerms": [
+      "shake reduction",
+      "interval composite",
+      "remote capture",
+      "image sync",
+      "1/4-20 screw",
+      "ND filter",
+      "street photography",
+      "group photo",
+      "railing",
+      "ledge",
+      "wind",
+      "blue hour"
+    ],
+    "questions": [
+      "What is the best tripod for the Ricoh GR III?",
+      "Is a mini tripod enough for a Ricoh GR III?",
+      "Do I need a quick-release plate on a GR III?",
+      "Should I turn off Shake Reduction on a tripod?",
+      "Will these tripods fit the GR IIIx and GR IV?",
+      "Can I trigger the GR III remotely on a tripod?"
+    ],
+    "contentGaps": [
+      "Load and weight ratios against the 257 g camera",
+      "The fixed screen and no viewfinder make low tripods awkward; phone Remote Capture fixes it",
+      "Self-timer switches Shake Reduction off automatically",
+      "Plates add bulk; screw-in minis avoid them",
+      "Chooser by where you shoot"
+    ],
+    "outline": [
+      {
+        "h2": "Ricoh GR III tripod specs compared against a 257 g camera",
+        "intent": "comparison table + load/weight ratios",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Ricoh GR III tripods",
+        "intent": "method, sources, what was dropped, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Ricoh GR III, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Manfrotto PIXI Mini Tripod: best pocket tripod for the GR III",
+          "Manfrotto PIXI EVO 2-Section Mini Tripod: steadiest tabletop tripod",
+          "JOBY GorillaPod 1K Kit: best flexible tripod for railings",
+          "ULANZI MT-08 Extendable Mini Tripod: lightest tripod and grip",
+          "SIRUI Traveler 5C Carbon Fiber Tripod: best full-height travel tripod"
+        ]
+      },
+      {
+        "h2": "Which tripod should you get for your Ricoh GR III?",
+        "intent": "decision rule by where you shoot",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a Ricoh GR III on a tripod",
+        "intent": "numbered steps + video",
+        "h3": []
+      },
+      {
+        "h2": "Ricoh GR III tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "commonPoints": [
+      "A pocket camera this light does not need a heavy tripod",
+      "Tabletop minis like the Manfrotto PIXI are the default pick",
+      "Flexible GorillaPod-style legs wrap posts and railings",
+      "Mini tripods need a wall, table or rock at the right height",
+      "A light travel tripod is the step up for long exposures"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom and weight ratios against the 257 g GR III: PIXI Mini and GorillaPod 1K about 3.9x, MT-08 about 1.9x extended, PIXI EVO about 9.7x, Sirui 5C about 15.6x; only the Sirui outweighs the camera by more than 1.1x (3.3x).",
+        "source": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/ ; maker and B&H spec pages",
+        "absentFrom": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "The GR III has a fixed 3.0 in LCD and no viewfinder, so composing on a low tripod means crouching; Image Sync Remote Capture shows the frame on a phone.",
+        "source": "https://www.ricoh-imaging.co.jp/english/support/man-pdf/gr-3.pdf (p.116) and spec page",
+        "absentFrom": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Setting the self-timer switches Shake Reduction off automatically, so the 2-second timer is the simplest hands-off release on a tripod.",
+        "source": "https://www.ricoh-imaging.co.jp/english/support/man-pdf/gr-3.pdf (p.90)",
+        "absentFrom": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by where you shoot: pocket every day = PIXI Mini; walls and tables with portrait = PIXI EVO; railings and posts = GorillaPod 1K; lightest grip and selfie handle = MT-08; standing-height long exposures = Sirui 5C.",
+        "source": "our rule from the specs and owner threads",
+        "absentFrom": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Quick-release plates add bulk and the base also holds the battery/card cover; screw-in minis avoid a plate.",
+        "source": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html ; manual p.15",
+        "absentFrom": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      }
+    ],
+    "targetWords": 1550,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.fredmiranda.com/forum/topic/1904664/0",
+        "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+        "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+        "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+        "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking forum threads and the Accio report describe each tripod in prose; none use pros/cons lists or spec tables per product.",
+      "avgWords": 1500,
+      "avgProducts": 5,
+      "commonSections": [
+        "short intro or question",
+        "tripod suggestions with reasons",
+        "mini vs travel tripod trade-off",
+        "height and stability caveats"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/ricohGR/comments/16gz5fo/mini_tripod_suggestion/",
+        "title": "Mini tripod suggestion?? : r/ricohGR - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.fredmiranda.com/forum/topic/1904664/0",
+        "title": "Best tripod and head for my very light and small Ricoh GRiiix - FM Forums"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/groups/363978064347683/posts/1915002299245244/",
+        "title": "Ricoh GRIII mini Joby tripod recommendations - Facebook"
+      },
+      {
+        "position": 4,
+        "url": "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+        "title": "Tripods & Supports for Ricoh GR III - B&H"
+      },
+      {
+        "position": 5,
+        "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+        "title": "Mini Tripods for the GR | DPReview Forums"
+      },
+      {
+        "position": 6,
+        "url": "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+        "title": "Best Tripod for Ricoh GR III 2026"
+      },
+      {
+        "position": 7,
+        "url": "https://ricohgr.eu/blogs/news/the-must-have-accessories-for-every-gr-iiix-owner",
+        "title": "Essential Accessories for Ricoh GR IIIx: Enhance Your Photography"
+      },
+      {
+        "position": 8,
+        "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+        "title": "Good light tripod to pair with GRIII - PentaxForums.com"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=8K2VFhNh7yw",
+        "title": "My Favorite Ricoh GRiii and GRiiiX Camera Accessories of 2023"
+      },
+      {
+        "position": 10,
+        "url": "https://www.mpb.com/en-us/content/kit-guides/review-ricoh-gr-iii-for-travel-photography",
+        "title": "Review: Ricoh GR III for travel photography - MPB"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 1,
+      "withNumber": 0,
+      "commonModifiers": [
+        "mini",
+        "light",
+        "small",
+        "portable",
+        "accessories"
+      ],
+      "gap": "Forums and a thin AI page rank; no editorial roundup sizes picks to the 257 g GR III or notes that every pick weighs under 2 lb. Angle: 5 picks, all under 2 lb, pocket to 54.3 in."
+    },
+    "serpProducts": [
+      {
+        "name": "Manfrotto PIXI Mini",
+        "pages": [
+          "https://www.reddit.com/r/ricohGR/comments/16gz5fo/mini_tripod_suggestion/",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207"
+        ]
+      },
+      {
+        "name": "JOBY GorillaPod 1K Kit (GorillaPod family)",
+        "pages": [
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.facebook.com/groups/363978064347683/posts/1915002299245244/"
+        ]
+      },
+      {
+        "name": "Ulanzi MT-08 (Ulanzi mini tripods)",
+        "pages": [
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+          "https://www.fredmiranda.com/forum/topic/1904664/0",
+          "https://www.reddit.com/r/ricohGR/comments/174to90/tripod_recommendation/"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI EVO",
+        "pages": [
+          "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5C (Sirui travel tripods)",
+        "pages": [
+          "https://www.accio.com/business/tripod-for-ricoh-gr-iii",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+        ]
+      },
+      {
+        "name": "Pedco UltraPod II (dropped: Amazon US listing unavailable)",
+        "pages": [
+          "https://www.reddit.com/r/ricohGR/comments/16gz5fo/mini_tripod_suggestion/",
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "ricoh-gr-big-tripod-counterintuitive",
+        "pain": "A full-size tripod feels absurd next to a pocket camera, so it stays home",
+        "details": "GR owners who own a travel tripod find it counterintuitive to carry it with a camera that fits in a pocket, and many say they rarely bring any tripod.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+          "https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/"
+        ],
+        "quotes": [
+          {
+            "text": "I find having such a small camera and such a big tripod to be quite counterintuitive",
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+          },
+          {
+            "text": "I can't imagine carrying around a tripod when using my Ricoh.",
+            "url": "https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/"
+          }
+        ]
+      },
+      {
+        "id": "ricoh-gr-mini-needs-surface",
+        "pain": "A mini tripod needs a table, wall or rock at the height you want to shoot from",
+        "details": "Tabletop minis only work where there is a raised surface; in open ground they leave the camera at ankle height.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+        ],
+        "quotes": [
+          {
+            "text": "The shortcoming of all these compact tripods is that the table you need to carry around to support one is not at all pocketable",
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+          }
+        ]
+      },
+      {
+        "id": "ricoh-gr-plate-bulk",
+        "pain": "Quick-release plates add bulk to the slim GR III",
+        "details": "Owners who tried lighter tripods found the plates spoil the pocketable shape; a screw-in tabletop needs no plate.",
+        "sources": [
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+        ],
+        "quotes": [
+          {
+            "text": "the quick release plates that without exception add too much bulk to the GR III",
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+          }
+        ]
+      },
+      {
+        "id": "ricoh-gr-light-travel-tripod-vibration",
+        "pain": "Ultralight travel tripods are short and ring with vibration",
+        "details": "Small travel tripods that fit a day pack are short and resonant, so owners still lean on the self-timer.",
+        "sources": [
+          "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+        ],
+        "quotes": [
+          {
+            "text": "its short and its quite resonant and vibration prone, so you still end up having to use self-timer a lot",
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+          }
+        ]
+      },
+      {
+        "id": "ricoh-gr-cheap-clamp-loosens",
+        "pain": "Cheap mini heads and clamps go from loose to tight with no margin",
+        "details": "A GR owner on a budget travel tripod found its clamp needs checking every time because it loosens with a slight turn.",
+        "sources": [
+          "https://www.fredmiranda.com/forum/topic/1904664/0"
+        ],
+        "quotes": [
+          {
+            "text": "On the Ulanzi, the clamp seems to go from loose to all the way tight very quickly.",
+            "url": "https://www.fredmiranda.com/forum/topic/1904664/0"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "257g",
+        "claim": "Ricoh GR III weight with battery and SD card",
+        "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+        "quote": "Approx. 257g (Included dedicated battery and SD memory card), Approx. 227g (Body only)"
+      },
+      {
+        "number": "262g",
+        "claim": "GR IIIx weight with battery and card",
+        "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+        "quote": "Approx. 262g (Included dedicated battery and SD memory card), Approx. 232g (Body only)"
+      },
+      {
+        "number": "2sec.",
+        "claim": "GR III self-timer options; self-timer switches SR off",
+        "url": "https://www.ricoh-imaging.co.jp/english/support/man-pdf/gr-3.pdf",
+        "quote": "When [Self-timer] is set in [Drive Mode], [Shake Reduction] is automatically set to [Off]."
+      },
+      {
+        "number": "99",
+        "claim": "Interval shooting up to 99 shots, interval up to 60 minutes",
+        "url": "https://www.ricoh-imaging.co.jp/english/support/man-pdf/gr-3.pdf",
+        "quote": "Specifies the number of shots to [∞] or from [2] to [99]."
+      },
+      {
+        "number": "262g",
+        "claim": "GR IV weight with battery and card",
+        "url": "https://www.ricoh-imaging.co.jp/english/products/gr-4/spec/",
+        "quote": "Approx. 262g (Included dedicated battery and SD memory card), Approx. 228g (Body only)"
+      }
+    ],
+    "videos": [
+      {
+        "id": "NbccD_ESnLY",
+        "title": "How to enjoy long exposures using the built in ND Filter | RICOH GR III",
+        "channel": "RICOH GR Photography",
+        "url": "https://www.youtube.com/watch?v=NbccD_ESnLY",
+        "section": "How to set up a Ricoh GR III on a tripod"
+      }
+    ],
+    "textrazor": {
+      "pagesAnalyzed": 4,
+      "note": "dpreview, fredmiranda, pentaxforums and MPB blocked TextRazor; entities from accio, ricohgr.eu, Pack Hacker, TechGearLab",
+      "sharedEntities": [
+        {
+          "name": "Camera",
+          "pages": 4,
+          "relevance": 0.64
+        },
+        {
+          "name": "Tripod (photography)",
+          "pages": 3,
+          "relevance": 0.9
+        },
+        {
+          "name": "Carbon-fiber reinforced polymer",
+          "pages": 3,
+          "relevance": 0.66
+        },
+        {
+          "name": "Mirrorless camera",
+          "pages": 3,
+          "relevance": 0.27
+        },
+        {
+          "name": "Tripod",
+          "pages": 2,
+          "relevance": 1
+        },
+        {
+          "name": "Ricoh GR (large sensor compact camera)",
+          "pages": 2,
+          "relevance": 0.9
+        },
+        {
+          "name": "Vanguard",
+          "pages": 2,
+          "relevance": 0.75
+        },
+        {
+          "name": "Ricoh",
+          "pages": 2,
+          "relevance": 0.68
+        },
+        {
+          "name": "Lightweight",
+          "pages": 2,
+          "relevance": 0.49
+        },
+        {
+          "name": "Photography",
+          "pages": 2,
+          "relevance": 0.47
+        },
+        {
+          "name": "Manfrotto",
+          "pages": 2,
+          "relevance": 0.47
+        },
+        {
+          "name": "Photographer",
+          "pages": 2,
+          "relevance": 0.43
+        },
+        {
+          "name": "Amazon (company)",
+          "pages": 2,
+          "relevance": 0.36
+        },
+        {
+          "name": "5",
+          "pages": 2,
+          "relevance": 0.35
+        },
+        {
+          "name": "Monopod",
+          "pages": 2,
+          "relevance": 0.3
+        },
+        {
+          "name": "Photograph",
+          "pages": 2,
+          "relevance": 0.24
+        }
+      ]
+    },
+    "internalLinkCandidates": [
+      "best-tabletop-camera-tripod",
+      "best-tripod-for-fujifilm-x100vi",
+      "best-tripod-for-leica-q3",
+      "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "how-to-stop-tripod-shake-in-wind",
+      "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "best-tripod-that-fits-in-carry-on-luggage"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-leica-q3",
+        "find": "I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica.",
+        "replace": "I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica (for a lighter pocket camera, see our [Ricoh GR III tripod picks](/blog/best-tripod-for-ricoh-gr-iii/))."
+      },
+      {
+        "slug": "best-tabletop-camera-tripod",
+        "find": "The table uses maker figures; where a listing disagrees, I say so in the product section.",
+        "replace": "The table uses maker figures; where a listing disagrees, I say so in the product section, and our [tripods for the Ricoh GR III](/blog/best-tripod-for-ricoh-gr-iii/) apply the same specs to one pocket camera."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for ricoh gr iiix",
+      "best tripod for ricoh gr iv",
+      "mini tripod for ricoh gr iii",
+      "ricoh gr iii tripod",
+      "tripod for ricoh gr iiix",
+      "ricoh gr 3 tripod"
+    ],
+    "angle": "Every pick under 2 lb, sized to the 257 g GR III, pocket to 54.3 in."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-dji-osmo-pocket-3",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-dji-osmo-action-5-pro",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-gopro",
+      "mode": "related-box"
+    }
+  ]
+}

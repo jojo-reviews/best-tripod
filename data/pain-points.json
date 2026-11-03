@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:28:28.960Z",
+  "updatedAt": "2026-11-03T11:31:16.379Z",
   "categories": {
     "camera-tripods": [
       {
@@ -6807,6 +6807,151 @@
         ],
         "keywords": [
           "best tripod for canon powershot v1"
+        ]
+      },
+      {
+        "id": "ricoh-gr-big-tripod-counterintuitive",
+        "pain": "A full-size tripod feels absurd next to a pocket camera, so it stays home",
+        "details": "GR owners who own a travel tripod find it counterintuitive to carry it with a camera that fits in a pocket, and many say they rarely bring any tripod.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I find having such a small camera and such a big tripod to be quite counterintuitive",
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+          },
+          {
+            "text": "I can't imagine carrying around a tripod when using my Ricoh.",
+            "url": "https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/"
+          }
+        ],
+        "searches": [
+          "best tripod for ricoh gr iii",
+          "mini tripod for ricoh gr iii"
+        ],
+        "keywords": [
+          "best tripod for ricoh gr iii"
+        ]
+      },
+      {
+        "id": "ricoh-gr-mini-needs-surface",
+        "pain": "A mini tripod needs a table, wall or rock at the height you want to shoot from",
+        "details": "Tabletop minis only work where there is a raised surface; in open ground they leave the camera at ankle height.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The shortcoming of all these compact tripods is that the table you need to carry around to support one is not at all pocketable",
+            "url": "https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/"
+          }
+        ],
+        "searches": [
+          "best tripod for ricoh gr iii",
+          "mini tripod for ricoh gr iii"
+        ],
+        "keywords": [
+          "best tripod for ricoh gr iii"
+        ]
+      },
+      {
+        "id": "ricoh-gr-plate-bulk",
+        "pain": "Quick-release plates add bulk to the slim GR III",
+        "details": "Owners who tried lighter tripods found the plates spoil the pocketable shape; a screw-in tabletop needs no plate.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the quick release plates that without exception add too much bulk to the GR III",
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+          }
+        ],
+        "searches": [
+          "best tripod for ricoh gr iii",
+          "mini tripod for ricoh gr iii"
+        ],
+        "keywords": [
+          "best tripod for ricoh gr iii"
+        ]
+      },
+      {
+        "id": "ricoh-gr-light-travel-tripod-vibration",
+        "pain": "Ultralight travel tripods are short and ring with vibration",
+        "details": "Small travel tripods that fit a day pack are short and resonant, so owners still lean on the self-timer.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "its short and its quite resonant and vibration prone, so you still end up having to use self-timer a lot",
+            "url": "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html"
+          }
+        ],
+        "searches": [
+          "best tripod for ricoh gr iii",
+          "mini tripod for ricoh gr iii"
+        ],
+        "keywords": [
+          "best tripod for ricoh gr iii"
+        ]
+      },
+      {
+        "id": "ricoh-gr-cheap-clamp-loosens",
+        "pain": "Cheap mini heads and clamps go from loose to tight with no margin",
+        "details": "A GR owner on a budget travel tripod found its clamp needs checking every time because it loosens with a slight turn.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1904664/0",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "On the Ulanzi, the clamp seems to go from loose to all the way tight very quickly.",
+            "url": "https://www.fredmiranda.com/forum/topic/1904664/0"
+          }
+        ],
+        "searches": [
+          "best tripod for ricoh gr iii",
+          "mini tripod for ricoh gr iii"
+        ],
+        "keywords": [
+          "best tripod for ricoh gr iii"
         ]
       }
     ],

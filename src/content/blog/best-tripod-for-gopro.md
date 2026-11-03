@@ -451,10 +451,10 @@ faqs:
       close.
 author: editorial-team
 related:
+  - best-tripod-for-ricoh-gr-iii
   - best-tripod-for-canon-powershot-v1
   - best-tabletop-camera-tripod
   - best-tripod-for-dji-osmo-pocket-3
-  - flexible-tripod-vs-mini-tripod-for-travel-vlogging
 videos:
   - id: QW-DCmRaYXk
     afterHeading: 6
