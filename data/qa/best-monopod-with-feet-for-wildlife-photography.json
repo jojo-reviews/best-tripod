@@ -1,7 +1,7 @@
 {
   "slug": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-03T16:26:57.993Z",
+  "checkedAt": "2026-11-03T17:57:39.531Z",
   "errors": [],
   "warnings": [
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
@@ -10,7 +10,6 @@
     "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "source didn't respond normally (403): https://www.adorama.com/vgam264tr.html",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1778617-REG/neewer_66601445_extendable_camera_monopod_stand.html",
-    "source didn't respond normally (403): https://shotkit.com/best-monopod-for-photographers/",
     "source didn't respond normally (403): https://www.sony.co.th/en/electronics/camera-lenses/sel200600g/specifications"
   ],
   "factCheck": {

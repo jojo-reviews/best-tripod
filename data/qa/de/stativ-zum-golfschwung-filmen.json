@@ -3,13 +3,14 @@
   "lang": "de",
   "translationOf": "best-tripod-for-golf-swing-recording",
   "pass": true,
-  "checkedAt": "2026-11-03T16:33:27.057Z",
+  "checkedAt": "2026-11-03T18:06:09.607Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-gym-videos/; link the de version once it exists",
     "internal link to the English post /blog/best-tripod-for-filming-sports/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1321823-REG/joby_jb01491_griptight_one_gp_stand.html"
   ],
   "factCheck": {
     "verified": true,
