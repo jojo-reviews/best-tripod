@@ -1,9 +1,12 @@
 {
   "slug": "tripod-center-column-up-or-down-for-landscapes",
   "pass": true,
-  "checkedAt": "2026-11-01T18:00:51.529Z",
+  "checkedAt": "2026-11-03T16:33:16.647Z",
   "errors": [],
   "warnings": [
+    "illustration \"A tripod on a mountain ridge with its le\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A tripod spread low on a pebble beach so\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A compact tripod with a slightly raised \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

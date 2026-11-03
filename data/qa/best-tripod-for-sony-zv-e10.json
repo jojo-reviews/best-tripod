@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-zv-e10",
   "pass": true,
-  "checkedAt": "2026-10-29T19:53:46.130Z",
+  "checkedAt": "2026-11-03T16:31:29.456Z",
   "errors": [],
   "warnings": [
     "product \"Sony GP-VPT2BT Wireless Shooting Grip\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,6 +10,7 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-11 Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1838825-REG/sony_zv_e10_ii_mirrorless_camera.html",
     "source didn't respond normally (403): https://www.sony.com/et/electronics/camera-lenses/selp1650/specifications",

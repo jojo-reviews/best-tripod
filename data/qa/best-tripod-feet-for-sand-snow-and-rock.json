@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-feet-for-sand-snow-and-rock",
   "pass": true,
-  "checkedAt": "2026-10-30T17:46:57.299Z",
+  "checkedAt": "2026-11-03T16:28:04.944Z",
   "errors": [],
   "warnings": [
     "product \"Leofoto TFS-US Long Spike Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,11 @@
     "product \"Manfrotto 230 Tripod Snow Shoes\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto TFW-2 Snow Shoes\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 204SPK3 Spiked Feet\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands pushing a spiked tripod foot sever\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A claw tripod foot gripping wet granite \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Gloved hands strapping a snow shoe disc \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands unscrewing a tripod spike foot wit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

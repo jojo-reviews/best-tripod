@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-golf-swing-recording",
   "pass": true,
-  "checkedAt": "2026-11-03T11:33:31.761Z",
+  "checkedAt": "2026-11-03T16:29:17.774Z",
   "errors": [],
   "warnings": [
     "product \"iRange Sports Stick EXT Golf Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,8 @@
     "product \"JOBY GripTight ONE GorillaPod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SelfieGolf Golf Swing Cell Phone Holder Clip\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1321823-REG/joby_jb01491_griptight_one_gp_stand.html"
   ],
   "factCheck": {
     "verified": true,

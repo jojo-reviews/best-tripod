@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-nikon-p1000",
   "pass": true,
-  "checkedAt": "2026-10-30T17:47:56.983Z",
+  "checkedAt": "2026-11-03T16:30:02.007Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,10 @@
     "product \"Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hand weighing a superzoom camera on a ki\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands sliding a long camera plate in the\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hand tightening a quick release plate wi\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

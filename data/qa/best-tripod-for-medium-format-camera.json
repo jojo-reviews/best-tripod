@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-medium-format-camera",
   "pass": true,
-  "checkedAt": "2026-10-31T17:47:24.255Z",
+  "checkedAt": "2026-11-03T16:29:56.923Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,9 @@
     "product \"Manfrotto MT055CXPRO3 Carbon Fiber 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO3 Aluminum 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hand weighing a medium format film camer\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Photographer looking down into a waist-l\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hand firing a medium format camera on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

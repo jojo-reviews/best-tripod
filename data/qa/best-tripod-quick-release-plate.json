@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-quick-release-plate",
   "pass": true,
-  "checkedAt": "2026-10-31T17:48:18.045Z",
+  "checkedAt": "2026-11-03T16:32:02.945Z",
   "errors": [],
   "warnings": [
     "product \"FALCAM F38 Quick Release Kit V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,10 @@
     "product \"PGYTECH Quick Release Plate & Clamp V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Quick Release Plate 200PL-PRO\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5 Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Sliding a camera with a tripod quick rel\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Tightening a tripod quick release plate \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Tug-testing a camera in the tripod clamp\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

@@ -3,9 +3,14 @@
   "lang": "de",
   "translationOf": "best-tripod-for-tall-photographers-over-6-feet",
   "pass": true,
-  "checkedAt": "2026-11-01T17:53:05.202Z",
+  "checkedAt": "2026-11-03T16:35:05.896Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
+    "source didn't respond normally (403): https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420",
+    "source didn't respond normally (403): https://www.kentfaith.com/reviews_15740?page=4"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with the English post best-tripod-for-tall-photographers-over-6-feet: same 4 products/ASINs, scores, spec keys, FAQ answers, sources. Unit conversions checked (1 in = 2.54 cm, 1 lb = 0.4536 kg); Manfrotto metric figures 170/140 cm, 61 cm, 2.5 kg, 20 kg safety payload re-opened on manfrotto.com global-de; K&F 230 cm / 1620 mm / 10 kg / 66.5 cm / 54 cm on kfconcept.com and the amazon.de listing of B0C7BX47VW. Local facts from the local brief re-opened: Destatis Durchschnittsmann 1,79 m, Lufthansa Handgepaeck 55x40x23 cm, Koelner Dom Domordnung par.2(3) Stativ needs Dompropst permission and bags 40x35x15 cm, fotocommunity.de thread quotes verbatim. No testing/ownership claims, no prices/currency, no local Amazon store; VICTIV/CAMBOFOTO marked unknown get one neutral sentence in renterNote.",

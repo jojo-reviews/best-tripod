@@ -1,9 +1,13 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-11-01T18:00:53.738Z",
+  "checkedAt": "2026-11-03T16:33:21.117Z",
   "errors": [],
   "warnings": [
+    "illustration \"Parts of a twist-lock tripod leg laid ou\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands tightening the tension nut behind \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A hand pressing down on an empty tripod \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-plein-air-painting",
   "pass": true,
-  "checkedAt": "2026-11-01T17:49:52.579Z",
+  "checkedAt": "2026-11-03T16:30:41.048Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Befree Advanced Twist Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,10 @@
     "product \"Peak Design Travel Tripod Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ZOMEI Q666 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands clipping a pochade box onto a trip\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Backpack hung from the center-column hoo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Painter standing at a tripod with the po\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

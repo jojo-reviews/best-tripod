@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-canon-r6-mark-ii",
   "pass": true,
-  "checkedAt": "2026-11-02T17:59:35.896Z",
+  "checkedAt": "2026-11-03T16:34:10.012Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/; link the de version once it exists",
@@ -13,7 +13,17 @@
     "illustration \"Hände setzen ein Teleobjektiv mit seiner\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Fotograf fährt an einer windigen Küste d\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+    "source didn't respond normally (403): https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/",
+    "source didn't respond normally (403): https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://hi.manuals.plus/asin/B079CRJC8C",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1934043-REG/vanguard_alta_pro_2_263ab.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1337901-REG/benro_tsl08cn00_slim_tripod_kit.html",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
   ],
   "factCheck": {
     "verified": true,

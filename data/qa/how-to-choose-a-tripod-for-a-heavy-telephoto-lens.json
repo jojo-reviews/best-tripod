@@ -1,11 +1,14 @@
 {
   "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
   "pass": true,
-  "checkedAt": "2026-10-31T18:00:55.351Z",
+  "checkedAt": "2026-11-03T16:32:42.322Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Gitzo GT3543LS Systematic Series 3",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Heavy telephoto lens balanced on a gimba\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Thick upper tripod leg tubes meeting at \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://www.dpreview.com/reviews/7997531825/tested-six-large-tripods-for-heavy-duty-use/",

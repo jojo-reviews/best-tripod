@@ -1,9 +1,12 @@
 {
   "slug": "4-section-vs-5-section-tripod",
   "pass": true,
-  "checkedAt": "2026-10-31T17:57:04.666Z",
+  "checkedAt": "2026-11-03T16:25:37.916Z",
   "errors": [],
   "warnings": [
+    "illustration \"Two folded travel tripods side by side w\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Thin bottom leg section of a travel trip\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands loosening the twist locks on a fiv\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

@@ -2,9 +2,11 @@
   "slug": "nl/beste-statief-voor-canon-r50",
   "lang": "nl",
   "translationOf": "best-tripod-for-canon-r50",
-  "pass": true,
-  "checkedAt": "2026-11-02T18:01:48.045Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-11-03T16:37:59.525Z",
+  "errors": [
+    "English post \"best-tripod-for-canon-r50\" doesn't pass QA, so it can't be translated yet"
+  ],
   "warnings": [
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the nl version once it exists",
     "internal link to the English post /blog/tripod-shake-when-pressing-shutter/; link the nl version once it exists",
@@ -12,7 +14,14 @@
     "illustration \"Een snelkoppelplaat onder een camera in \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Een tas aan de statiefhaak hangen met de\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/eos-r50",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
   ],
   "factCheck": {
     "verified": true,

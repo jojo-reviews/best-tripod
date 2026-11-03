@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-laser-level",
   "pass": true,
-  "checkedAt": "2026-10-30T17:47:43.953Z",
+  "checkedAt": "2026-11-03T16:29:35.693Z",
   "errors": [],
   "warnings": [
     "product \"Bosch BT150 Compact Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,10 @@
     "product \"Bosch BT160 Aluminum Contractor's Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"DeWalt DW0737 Construction Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Bosch BT300HD Elevator Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands checking the threaded socket under\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Setting a laser level tripod on a rubber\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Using a laser level tripod crank to brin\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

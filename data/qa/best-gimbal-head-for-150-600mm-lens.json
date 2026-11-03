@@ -1,7 +1,7 @@
 {
   "slug": "best-gimbal-head-for-150-600mm-lens",
   "pass": true,
-  "checkedAt": "2026-11-01T17:57:10.929Z",
+  "checkedAt": "2026-11-03T16:26:24.720Z",
   "errors": [],
   "warnings": [
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
@@ -9,6 +9,7 @@
     "product \"Wimberley WH-200 Gimbal Head II\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Fotopro E-6H Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley SK-100 Sidekick\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1452509-REG/fotopro_e_6h_gimbal_head_black.html",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/video-fluid-head-or-gimbal-for-sigma-150-600mm.4043145/",
     "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1784270/",

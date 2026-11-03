@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-fujifilm-x100vi",
   "pass": true,
-  "checkedAt": "2026-10-30T17:47:25.558Z",
+  "checkedAt": "2026-11-03T16:29:11.679Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,10 @@
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands attaching a quick-release plate un\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Travel tripod with legs spread wide, col\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "section \"The 5 best tripods for the Fujifilm X100VI, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-northern-lights",
   "pass": true,
-  "checkedAt": "2026-11-02T11:31:59.666Z",
+  "checkedAt": "2026-11-03T16:30:35.723Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,9 +9,16 @@
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Working a tripod twist lock in liner glo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Tripod set low with legs spread and a ba\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Fitting a wide snow disc to a tripod foo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
+    "source didn't respond normally (403): https://www.photopills.com/articles/northern-lights-photography-guide",
+    "source didn't respond normally (403): https://skiesandscopes.com/camera-tripod/"
   ],
   "factCheck": {
     "verified": true,

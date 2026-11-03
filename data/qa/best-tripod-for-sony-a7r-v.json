@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-a7r-v",
   "pass": true,
-  "checkedAt": "2026-11-03T11:28:38.266Z",
+  "checkedAt": "2026-11-03T16:31:16.727Z",
   "errors": [],
   "warnings": [
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,14 @@
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
+    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
+    "source didn't respond normally (403): https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/"
   ],
   "factCheck": {
     "verified": true,

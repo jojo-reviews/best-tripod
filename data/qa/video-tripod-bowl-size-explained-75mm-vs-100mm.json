@@ -1,9 +1,13 @@
 {
   "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
   "pass": true,
-  "checkedAt": "2026-11-01T18:00:58.964Z",
+  "checkedAt": "2026-11-03T16:33:29.655Z",
   "errors": [],
   "warnings": [
+    "illustration \"A tape measure across the rim of a video\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A bowl reducer ring inside a larger trip\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A videographer leveling a fluid head in \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

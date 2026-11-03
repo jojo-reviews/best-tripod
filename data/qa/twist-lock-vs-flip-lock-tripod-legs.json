@@ -1,13 +1,23 @@
 {
   "slug": "twist-lock-vs-flip-lock-tripod-legs",
   "pass": true,
-  "checkedAt": "2026-11-02T17:50:10.051Z",
+  "checkedAt": "2026-11-03T16:33:25.771Z",
   "errors": [],
   "warnings": [
+    "illustration \"A tripod leg with twist lock collars bes\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Sand dusting the lower leg sections and \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Gloved hands opening a lever lock on a t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/72882/what-are-the-pros-and-cons-of-flip-lock-vs-twist-lock-on-tripods",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/6dd5o6/i_strongly_regret_my_decision_to_buy_a_550_tripod/",
+    "source didn't respond normally (403): https://rokslide.com/forums/threads/twist-locks-vs-flip-locks.159428/",
+    "source didn't respond normally (403): https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/"
   ],
   "factCheck": {
     "verified": true,

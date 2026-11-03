@@ -1,9 +1,14 @@
 {
   "slug": "l-bracket-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-10-30T17:49:20.359Z",
+  "checkedAt": "2026-11-03T16:32:52.278Z",
   "errors": [],
   "warnings": [
+    "illustration \"Hands tightening an L bracket's mounting\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Switching a camera on an L bracket from \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Sliding the L bracket's side arm out to \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Brushing sand out of an L bracket's dove\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

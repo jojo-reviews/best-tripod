@@ -1,9 +1,15 @@
 {
   "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
   "pass": true,
-  "checkedAt": "2026-10-30T17:49:17.824Z",
+  "checkedAt": "2026-11-03T16:32:49.769Z",
   "errors": [],
   "warnings": [
+    "illustration \"Hands tightening a cord that ties a back\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands clipping a mesh sack of filled wat\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands filling a mesh net bag with stones\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hands pushing a tent stake into soil wit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A camera backpack draped over the top of\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

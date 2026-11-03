@@ -3,9 +3,14 @@
   "lang": "es",
   "translationOf": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-11-01T17:54:04.011Z",
+  "checkedAt": "2026-11-03T16:36:53.086Z",
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "source didn't respond normally (403): https://photographylife.com/arca-swiss-quick-release-system",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1570305-REG/smallrig_2146b_quick_release_plate.html",
+    "source didn't respond normally (403): https://markus-hagner-photography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/",
+    "source didn't respond normally (403): https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/"
+  ],
   "factCheck": {
     "verified": true,
     "notes": "Compared section by section with the English post: all specs, products, ASINs, scores, owner praise/complaints and FAQ answers match; metric first, imperial in brackets. Local facts re-checked: Arca-Swiss factory near Besancon (arca-swiss-usa.com about page), Sagrada Familia normativa (no tripod photos/videos inside except accredited), Fujistas and SonyCam.es quotes verbatim from excerpts at the thread URLs. Harwerrel marked unknown for Spain in the local brief: one neutral sentence added to its renterNote. No testing/ownership claims, no prices, no local Amazon store.",

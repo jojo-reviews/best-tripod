@@ -1,9 +1,12 @@
 {
   "slug": "tripod-shake-when-pressing-shutter",
   "pass": true,
-  "checkedAt": "2026-11-01T18:00:54.796Z",
+  "checkedAt": "2026-11-03T16:33:23.098Z",
   "errors": [],
   "warnings": [
+    "illustration \"A hand stepping back from a camera on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A remote shutter release held a step awa\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A telephoto lens mounted by its collar o\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

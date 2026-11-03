@@ -1,9 +1,14 @@
 {
   "slug": "how-to-clean-tripod-legs-after-the-beach",
   "pass": true,
-  "checkedAt": "2026-10-30T17:49:11.657Z",
+  "checkedAt": "2026-11-03T16:32:45.923Z",
   "errors": [],
   "warnings": [
+    "illustration \"Hands pouring fresh water over extended \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Warm shower water flushing salt out of a\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A hand scrubbing sand out of a tripod tw\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A fingertip spreading a thin layer of gr\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

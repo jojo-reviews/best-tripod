@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-dji-osmo-action-5-pro",
   "pass": true,
-  "checkedAt": "2026-10-31T17:46:35.057Z",
+  "checkedAt": "2026-11-03T16:28:47.923Z",
   "errors": [],
   "warnings": [
     "product \"DJI Osmo Action Mini Extension Rod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,6 +9,9 @@
     "product \"DJI Osmo Action 1.5m Extension Rod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Insta360 2-in-1 Invisible Selfie Stick Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Camera Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands clicking an action camera onto the\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"A hand tethering an action camera to an \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1630611-REG/insta360_cinx2cb_g_2_in_1_invisible_selfie_stick.html",
