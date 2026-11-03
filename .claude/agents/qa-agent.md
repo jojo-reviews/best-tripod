@@ -31,3 +31,4 @@ Never weaken a check to make it pass. Report pass/fail, the fixes made, and any 
 - Patent rule 2026-11-02 (US8442984B1): QA warns (not fails) when a post with `videos` says "video below/above"; reword to "the video in this section". Live posts are fixed only when improve-agent picks them, never in bulk.
 
 - Patent rule 2026-11-02 (US12393768B2): QA warns when an illustration has no `caption`; the qa-agent also checks the block order (answer, table, picks, which-one, how-to/problems, FAQ) and that no buy button/CTA sits in the intro.
+- Patent rule 2026-11-03 (US11769017B1): warn (not fail) when an H2 section opens with narration ('Each pick', 'I ranked', 'We saw', 'These are the', 'Here are', 'Below') instead of a self-contained answer; automatic in agents/qa-agent.mjs.

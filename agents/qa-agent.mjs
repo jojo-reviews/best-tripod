@@ -139,6 +139,8 @@ export function mediaRules(d, body, { pub, err, warn, info = !(d.products ?? [])
   const must = (m) => (strict ? err(m) : warn(m));
   // Patent rule 2026-11-02 (US12393768B2, layout-aware document understanding): an image explains its own block, so every illustration carries a short caption.
   for (const il of d.illustrations ?? []) if (!il.caption) warn(`illustration "${(il.alt ?? '').slice(0, 40)}" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)`);
+  // Patent rule 2026-11-03 (US11769017B1): a section lead that narrates the list/process has no fact an AI summary can cite.
+  { const re = /^##\s+(.+)\n+\s*\*\*(Each pick|Every pick|I ranked|I matched|I start|We saw|These are the|Here are|Below)/gim; let m; while ((m = re.exec(body))) { if (!/pick|chose|how we|how i|score|research|test/i.test(m[1])) { warn(`section "${m[1].trim()}" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)`); break; } } }
   // Patent rule 2026-11-02 (US8442984B1): videos sit right after their section heading, so 'video below/above' points the wrong way.
   if ((d.videos ?? []).length && /\bvideo (below|above)\b/i.test(body)) warn('video is placed after the section heading; reword "the video below/above" to "the video in this section"');
   const h2 = (body.match(/^## /gm) ?? []).length;
