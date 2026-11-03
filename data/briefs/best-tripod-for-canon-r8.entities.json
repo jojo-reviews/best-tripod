@@ -1,0 +1,160 @@
+{
+  "keyword": "best tripod for canon r8",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 5,
+      "relevance": 0.82,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 5,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 4,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+    },
+    {
+      "entity": "Canon EOS R8",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R8"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 3,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS"
+    },
+    {
+      "entity": "Sirui",
+      "type": "Company",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": ""
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+    },
+    {
+      "entity": "Fiber",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Fiber"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+    },
+    {
+      "entity": "Bag",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.67,
+      "wiki": "http://en.wikipedia.org/wiki/Bag"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": ""
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Leg"
+    },
+    {
+      "entity": "Flash (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.41,
+      "wiki": "http://en.wikipedia.org/wiki/Flash_(photography)"
+    },
+    {
+      "entity": "Vanguard",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": ""
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Ball"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Photography"
+    },
+    {
+      "entity": "Carbon",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon"
+    },
+    {
+      "entity": "Long-exposure photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+    }
+  ]
+}
