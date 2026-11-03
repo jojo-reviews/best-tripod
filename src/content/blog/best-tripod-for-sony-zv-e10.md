@@ -491,6 +491,7 @@ faqs:
       g with battery and card, only 34 g more than the original, so the same
       load advice applies.
 related:
+  - best-tripod-for-sony-a7r-v
   - best-tripod-for-sony-a6700
 heroImage: /images/featured/best-tripod-for-sony-zv-e10.png
 heroAlt: >-

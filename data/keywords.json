@@ -2779,7 +2779,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2806,7 +2806,9 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "revivedAt": "2026-11-01T11:53:16.231Z"
+    "revivedAt": "2026-11-01T11:53:16.231Z",
+    "startedAt": "2026-11-03T11:19:19.782Z",
+    "productCount": 14
   },
   {
     "status": "replaced",
@@ -7581,7 +7583,7 @@
     "publishedAt": "2026-11-02T11:32:06.048Z"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7607,7 +7609,9 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-golf-swing-recording"
+    "slug": "best-tripod-for-golf-swing-recording",
+    "startedAt": "2026-11-03T11:19:16.403Z",
+    "productCount": 6
   },
   {
     "status": "published",
@@ -7670,7 +7674,7 @@
     "publishedAt": "2026-11-02T11:29:57.809Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7695,11 +7699,14 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-sony-a7r-v"
+    "slug": "best-tripod-for-sony-a7r-v",
+    "startedAt": "2026-11-03T11:19:18.591Z",
+    "productCount": 6,
+    "publishedAt": "2026-11-03T11:28:44.099Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "in-progress",
+    "attempts": 1,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
       "best tripod for ricoh gr iiix",
@@ -7723,11 +7730,13 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-ricoh-gr-iii"
+    "slug": "best-tripod-for-ricoh-gr-iii",
+    "productCount": 5,
+    "startedAt": "2026-11-03T11:19:12.432Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
       "tripod for canon powershot v1",
@@ -7751,7 +7760,9 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-canon-powershot-v1"
+    "slug": "best-tripod-for-canon-powershot-v1",
+    "productCount": 14,
+    "publishedAt": "2026-11-03T11:29:05.366Z"
   },
   {
     "status": "published",

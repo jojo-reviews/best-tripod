@@ -468,6 +468,7 @@ heroAlt: >-
   Best Tripod for Sony A7IV (2026) – 5 Picks Matched to Your Lens – Best Tripod
   buying guide
 related:
+  - best-tripod-for-sony-a7r-v
   - best-tripod-for-sony-zv-e10
   - best-tripod-for-sony-a6700
 ---

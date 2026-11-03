@@ -509,10 +509,10 @@ faqs:
       weight class as the a6700, so every pick carries them; several of the
       owner reports here come from a6400 and a6600 shooters.
 related:
+  - best-tripod-for-sony-a7r-v
   - best-tripod-for-sony-zv-e10
   - best-tripod-for-sony-a7iv
   - best-travel-tripod-for-mirrorless-camera
-  - best-tripod-for-fujifilm-x-t5
 heroImage: /images/featured/best-tripod-for-sony-a6700.png
 heroAlt: >-
   Best Tripod for Sony a6700 (2026) – 6 Picks Matched to Your Lens – Best Tripod

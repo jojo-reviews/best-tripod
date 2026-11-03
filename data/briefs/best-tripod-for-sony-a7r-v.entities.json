@@ -1,0 +1,146 @@
+{
+  "keyword": "best tripod for sony a7r v",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.79,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Sony α7R V",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Sony_α7R_V"
+    },
+    {
+      "entity": "Sony",
+      "type": "Agent",
+      "pages": 4,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "entity": "Sony α7",
+      "type": "/digicams/digital_camera",
+      "pages": 3,
+      "relevance": 0.75,
+      "wiki": "http://en.wikipedia.org/wiki/Sony_α7"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+    },
+    {
+      "entity": "Gitzo",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Weight"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Sirui",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.7,
+      "wiki": ""
+    },
+    {
+      "entity": "Bag",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Bag"
+    },
+    {
+      "entity": "Leofoto",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": ""
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Lens"
+    },
+    {
+      "entity": "Vibration",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Vibration"
+    },
+    {
+      "entity": "Fiber",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Fiber"
+    },
+    {
+      "entity": "Carbon",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon"
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Budget"
+    },
+    {
+      "entity": "Shutter (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": ""
+    }
+  ]
+}

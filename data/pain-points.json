@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T11:30:35.091Z",
+  "updatedAt": "2026-11-03T11:28:28.960Z",
   "categories": {
     "camera-tripods": [
       {
@@ -152,7 +152,8 @@
           "how to stop tripod shake in wind"
         ],
         "coveredBy": [
-          "best-tripod-for-sony-a7iv"
+          "best-tripod-for-sony-a7iv",
+          "best-tripod-for-canon-r8"
         ],
         "foundAt": "2026-10-19"
       },
@@ -3374,6 +3375,275 @@
         "coveredBy": [
           "best-tripod-for-canon-r6-mark-ii"
         ]
+      },
+      {
+        "id": "sony-a7r-v-61mp-shows-vibration",
+        "pain": "A7R V owners fear the 61MP sensor shows every tremor from a flimsy tripod",
+        "details": "Upgraders from lower-resolution bodies find soft frames on light legs; replies blame leg flex and head play more than the sensor, and recommend columnless carbon legs and a 2-second delay.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "that a7R V sensor is basically a microscope for vibrations",
+            "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for sony a7r v"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7r-v"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "sony-a7r-v-ball-head-lens-flop",
+        "pain": "The 24-70mm flops over when the ball head knob is loosened",
+        "details": "A ball head without separate friction control lets a heavy zoom drop the moment the main knob opens.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Make sure the ball head has a separate friction control so that 24-70mm lens doesnt just flop over when you loosen the main knob",
+            "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for sony a7r v"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7r-v"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "sony-a7r-v-hanging-bag-swings",
+        "pain": "A bag hung from the tripod hook swings in wind and adds vibration",
+        "details": "Owners told to hang a bag for weight find it swings on a high-resolution body; keeping the tripod low helps more.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If the bag starts swinging in the wind it actually makes the vibrations worse on a high res sensor like the A7RV.",
+            "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for sony a7r v"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7r-v"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "sony-a7r-v-200-600-tripod",
+        "pain": "Finding one light carbon tripod that also holds the A7R V with a 200-600mm",
+        "details": "Owners asking on r/sonya7rv and r/AskPhotography want lightweight carbon legs for a large telephoto; replies point to columnless legs with fewer, thicker sections.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1iodz4w/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [],
+        "searches": [],
+        "keywords": [
+          "best tripod for sony a7r v"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a7r-v"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "canon-r8-travel-tripod-wind-no-ibis",
+        "pain": "A slim travel tripod vibrates in wind, and with no IBIS on the R8 the long exposures come out soft",
+        "details": "R8 owners planning night and landscape trips worry the aluminum Peak Design-style legs are too thin; one owner says it ruined long exposures in Scotland and moved to heavier legs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.canonrumors.co/rf-forum/best-travel-tripod-and-bag-recommendations-for-canon-eos-r8-users-75946/",
+            "platform": "forum",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://www.camera-rumors.com/community/canon-forum/top-tripod-recommendations-for-canon-eos-r8-mark-ii-30408/",
+            "platform": "forum",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The vibration was a nightmare and my long exposures were basically ruined because the legs are just too thin for any real wind.",
+            "url": "https://forum.canonrumors.co/rf-forum/best-travel-tripod-and-bag-recommendations-for-canon-eos-r8-users-75946/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon r8",
+          "canon r8 tripod"
+        ],
+        "keywords": [
+          "best tripod for canon r8"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-r8"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "canon-r8-cheap-legs-stick",
+        "pain": "A cheap tripod's legs stick and slow setup, so R8 owners end up buying twice",
+        "details": "An R8 owner who bought a budget Manfrotto Element found the legs sticking at golden hour and went shopping again before a Dolomites trip.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.canonrumors.co/rf-forum/looking-for-a-compact-travel-tripod-for-my-canon-eos-r8-35992/",
+            "platform": "forum",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/",
+            "platform": "reddit",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the legs keep sticking when I am trying to catch the light",
+            "url": "https://forum.canonrumors.co/rf-forum/looking-for-a-compact-travel-tripod-for-my-canon-eos-r8-35992/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon r8",
+          "canon r8 tripod"
+        ],
+        "keywords": [
+          "best tripod for canon r8"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-r8"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "canon-r8-tipping-light-camera",
+        "pain": "New R8 owners fear the light camera tipping over on a tripod",
+        "details": "A beginner says they were scared of the R8 tipping over and looked for something solid but affordable; the tip in the same thread is to hang the bag from the hook.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r8/",
+            "platform": "forum",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "always hang your camera bag on the center hook for extra stability if it's even a little bit windy",
+            "url": "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r8/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon r8",
+          "canon r8 tripod"
+        ],
+        "keywords": [
+          "best tripod for canon r8"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-r8"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "canon-r8-ball-vs-pan-tilt-video",
+        "pain": "R8 owners who also shoot video are unsure whether a ball head or a pan-tilt head suits them",
+        "details": "The Canon Rumors R8 thread opens with this question; replies favour a ball head for landscapes and call pan-tilt heads clunky unless you shoot video.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r8/",
+            "platform": "forum",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "best tripod for canon r8",
+          "canon r8 tripod"
+        ],
+        "keywords": [
+          "best tripod for canon r8"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-r8"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "canon-r8-l-bracket-screen",
+        "pain": "An L-bracket on the R8 can block the side-hinged vari-angle screen",
+        "details": "r/canon owners look for an R8 L-bracket that still lets the screen rotate.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/",
+            "platform": "reddit",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "best tripod for canon r8",
+          "canon r8 tripod"
+        ],
+        "keywords": [
+          "best tripod for canon r8"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-r8"
+        ],
+        "foundAt": "2026-11-03"
       }
     ],
     "monopods": [
@@ -6460,6 +6730,84 @@
         "answeredBy": [
           "best-tripod-for-dji-osmo-action-5-pro"
         ]
+      },
+      {
+        "id": "tabletop-mini-tripods-powershot-v1-plate-blocks-battery",
+        "pain": "A tripod plate on the PowerShot V1 blocks the battery and memory card door",
+        "details": "New V1 owners ask how to keep a plate on and still swap batteries; creators sell V1 base plates and cages with a door cutout to fix it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/",
+            "platform": "reddit",
+            "title": "A tripod plate on the PowerShot V1 blocks the battery and memory card door",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DWmO0zMjj4s/",
+            "platform": "instagram",
+            "title": "A tripod plate on the PowerShot V1 blocks the battery and memory card door",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "has anyone figured out a way to mount a tripod plate and still have access to the battery/memory card?",
+            "url": "https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/",
+            "via": "search-excerpt"
+          }
+        ],
+        "keywords": [
+          "best tripod for canon powershot v1"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-powershot-v1-handheld-wobble",
+        "pain": "Handheld PowerShot V1 video wobbles when walking, so owners move to a small tripod",
+        "details": "A long-term V1 vlogger says handheld stabilization jitters when walking but the camera is nearly perfect on a small tripod indoors.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+            "platform": "blog",
+            "title": "Handheld PowerShot V1 video wobbles when walking, so owners move to a small tripod",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Inside, on a small tripod, it’s nearly perfect.",
+            "url": "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+            "via": "page"
+          }
+        ],
+        "keywords": [
+          "best tripod for canon powershot v1"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-powershot-v1-which-tripod-fits",
+        "pain": "New PowerShot owners are not sure which tripods fit their camera",
+        "details": "r/canon replies explain that all tripods use the same screw and suggest table tripods for a small bag.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/",
+            "platform": "reddit",
+            "title": "New PowerShot owners are not sure which tripods fit their camera",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Or look for table tripods for the small ones you can keep in a small bag.",
+            "url": "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/",
+            "via": "search-excerpt"
+          }
+        ],
+        "keywords": [
+          "best tripod for canon powershot v1"
+        ]
       }
     ],
     "phone-tripods": [
@@ -6509,7 +6857,8 @@
           "best tripod for content creators"
         ],
         "coveredBy": [
-          "best-tripod-for-content-creators"
+          "best-tripod-for-content-creators",
+          "best-tripod-for-golf-swing-recording"
         ],
         "foundAt": "2026-10-23"
       },
@@ -6837,6 +7186,153 @@
           "best-tripod-for-live-streaming"
         ],
         "foundAt": "2026-11-01"
+      },
+      {
+        "id": "phone-tripods-golf-wind-alignment-stick",
+        "pain": "A phone on an alignment stick or thin stand sways in wind and sits too low for a useful angle",
+        "details": "Golfers who clip a phone to an alignment stick or a light pole find wind moves it during the swing; one GolfWRX poster went back to a full tripod.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+            "platform": "forum",
+            "title": "2001200 phone tripod or other ideas for filming swing",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "found the wind made it move around too much and the camera angle was too low",
+            "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for golf swing recording"
+        ],
+        "keywords": [
+          "best tripod for golf swing recording"
+        ],
+        "coveredBy": [
+          "best-tripod-for-golf-swing-recording"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "phone-tripods-golf-hard-ground-spike",
+        "pain": "Ground-spike stands do not go into hard ground or range mats",
+        "details": "Spike-style golf sticks need soft turf; on hard ground, mats or indoors they need an extra base.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+            "platform": "forum",
+            "title": "66017 what is the best stand or tripod to record your swing",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing",
+            "platform": "forum",
+            "title": "best golf tripod for recording golf swing",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the ground can get very hard in my area",
+            "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for golf swing recording"
+        ],
+        "keywords": [
+          "best tripod for golf swing recording"
+        ],
+        "coveredBy": [
+          "best-tripod-for-golf-swing-recording"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "phone-tripods-golf-walk-back-to-record",
+        "pain": "Walking back to the phone to start and stop every clip",
+        "details": "Golfers pick tripods with a Bluetooth remote so they can start recording from the ball and edit less.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+            "platform": "forum",
+            "title": "best tripod for videoing your golf swing.8980851",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+            "platform": "forum",
+            "title": "2001200 phone tripod or other ideas for filming swing",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I can get in position before starting the recording which means less editing later.",
+            "url": "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for golf swing recording"
+        ],
+        "keywords": [
+          "best tripod for golf swing recording"
+        ],
+        "coveredBy": [
+          "best-tripod-for-golf-swing-recording"
+        ],
+        "foundAt": "2026-11-03"
+      },
+      {
+        "id": "phone-tripods-golf-setup-hassle-price",
+        "pain": "Golf-branded stands cost more, and fiddly tripods stop getting used",
+        "details": "Forum golfers note a golf name adds to the price, while others stopped filming because their small tripod was a hassle to set up.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+            "platform": "forum",
+            "title": "66017 what is the best stand or tripod to record your swing",
+            "seen": "2026-11-03"
+          },
+          {
+            "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+            "platform": "forum",
+            "title": "2001200 phone tripod or other ideas for filming swing",
+            "seen": "2026-11-03"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "if it has \"golf\" in the name it adds to the price",
+            "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+            "via": "page"
+          },
+          {
+            "text": "I used to use a little tripod but found myself not using it very much because it was a hassle to setup.",
+            "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for golf swing recording"
+        ],
+        "keywords": [
+          "best tripod for golf swing recording"
+        ],
+        "coveredBy": [
+          "best-tripod-for-golf-swing-recording"
+        ],
+        "foundAt": "2026-11-03"
       }
     ]
   }
