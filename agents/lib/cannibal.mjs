@@ -65,7 +65,11 @@ export function findCannibal(candidate, posts, { threshold = 0.75, serps = loadS
     if (shared !== null && shared >= SERP_SAME) return { slug: p.slug, reason: `${shared} of the top-10 Google results are shared with "${d.keyword}" (same intent)` };
     if (shared !== null && shared <= SERP_DISTINCT) continue;
     if (parent && d.parentTopic && parent === d.parentTopic) return { slug: p.slug, reason: `same Ahrefs parent topic "${parent}"` };
+    const K = core(kw);
     for (const t of targets) {
+      // 2026-11-03: a broad SECONDARY keyword fully inside a longer candidate ("gun safe for her" -> "gun safe" vs
+      // "best 24 gun safe") is the site's head term, not the post's intent; only the primary keyword blocks then.
+      if (t !== d.keyword) { const T = core(t); if (T.size < K.size && [...T].every((x) => K.has(x))) continue; }
       const o = overlap(kw, t);
       if (o >= threshold) return { slug: p.slug, reason: `"${kw}" overlaps "${t}" (${Math.round(o * 100)}%)` };
     }
