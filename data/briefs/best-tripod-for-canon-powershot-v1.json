@@ -1,0 +1,537 @@
+{
+  "centralEntity": "tripod for Canon PowerShot V1",
+  "entityVariants": [
+    "PowerShot V1 tripod",
+    "Canon V1 tripod",
+    "tripod for Canon PowerShot V1",
+    "Canon V1 vlogging tripod",
+    "PowerShot V1 mini tripod",
+    "PowerShot V1 tripod grip"
+  ],
+  "entities": [
+    {
+      "name": "Canon PowerShot V1",
+      "type": "camera",
+      "relation": "the 426 g compact vlogging camera the tripod has to hold",
+      "salience": 0.88
+    },
+    {
+      "name": "tripod",
+      "type": "product category",
+      "relation": "the support being chosen",
+      "salience": 0.94
+    },
+    {
+      "name": "Canon",
+      "type": "company",
+      "relation": "maker of the V1 and the HG-100TBR tripod grip",
+      "salience": 0.74
+    },
+    {
+      "name": "vlog",
+      "type": "use case",
+      "relation": "the main job of the V1 and of a tripod grip",
+      "salience": 0.55
+    },
+    {
+      "name": "Tripod Grip HG-100TBR",
+      "type": "accessory",
+      "relation": "Canon tripod grip listed as a V1 accessory, with the BR-E1 remote",
+      "salience": 0.6
+    },
+    {
+      "name": "Wireless Remote Control BR-E1",
+      "type": "accessory",
+      "relation": "Bluetooth remote that starts and stops recording from the grip",
+      "salience": 0.4
+    },
+    {
+      "name": "1/4\"-20 tripod socket",
+      "type": "standard",
+      "relation": "the screw thread on the V1 base that every pick uses",
+      "salience": 0.5
+    },
+    {
+      "name": "battery door",
+      "type": "camera part",
+      "relation": "sits next to the tripod socket, so a plate can block it",
+      "salience": 0.45
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "Peak Design Travel Tripod leg material",
+      "salience": 0.36
+    },
+    {
+      "name": "backpack",
+      "type": "carry",
+      "relation": "how a travel tripod is packed",
+      "salience": 0.35
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera format",
+      "relation": "heavier kit the same minis are rated for",
+      "salience": 0.34
+    },
+    {
+      "name": "ball head",
+      "type": "tripod part",
+      "relation": "levels and tilts the camera on every pick but the grip",
+      "salience": 0.4
+    },
+    {
+      "name": "cold shoe",
+      "type": "accessory mount",
+      "relation": "holds a mic or light on the MT-16",
+      "salience": 0.3
+    }
+  ],
+  "attributes": [
+    "max height",
+    "min height",
+    "folded length",
+    "weight",
+    "load capacity vs 426 g camera",
+    "head type and tilt",
+    "remote control",
+    "cold shoe",
+    "battery door access",
+    "Arca-type plate"
+  ],
+  "ngrams": [
+    "tripod for canon powershot v1",
+    "powershot v1 tripod",
+    "mini tripod",
+    "tripod grip",
+    "tabletop tripod",
+    "travel tripod",
+    "ball head",
+    "load capacity",
+    "battery door",
+    "wireless remote",
+    "cold shoe",
+    "eye level",
+    "talking head"
+  ],
+  "skipgrams": [
+    "tripod…battery door",
+    "grip…remote",
+    "ball…head",
+    "mini…tripod",
+    "plate…battery",
+    "load…capacity",
+    "eye…level"
+  ],
+  "nlpTerms": [
+    "vlogging",
+    "compact camera",
+    "talking head",
+    "tabletop",
+    "extendable",
+    "selfie stick",
+    "stabilization",
+    "digital IS",
+    "crop",
+    "quick release",
+    "Arca-Swiss",
+    "carbon fiber",
+    "aluminum",
+    "technopolymer",
+    "portrait mode",
+    "vertical video",
+    "USB-C",
+    "Bluetooth"
+  ],
+  "questions": [
+    "What tripod works with the Canon PowerShot V1?",
+    "Does the PowerShot V1 have a tripod mount?",
+    "Is the Canon HG-100TBR compatible with the PowerShot V1?",
+    "Can I change the V1 battery while it is on a tripod?",
+    "Do I need a full-size tripod for the PowerShot V1?",
+    "Should I turn off image stabilization on a tripod?"
+  ],
+  "contentGaps": [
+    "A tripod plate blocks the V1 battery and card door",
+    "Load headroom for each pick against the 426 g camera (and the MT-16 vertical limit)",
+    "Digital IS Enhanced crops the frame 1.43x, so turn it off on a tripod",
+    "Canon lists the HG-100TBR as a V1 accessory with a 1 kg limit",
+    "Only a travel tripod reaches standing height"
+  ],
+  "outline": [
+    {
+      "h2": "PowerShot V1 tripod specs compared against a 426 g camera",
+      "intent": "comparison table on the deciding spec",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these PowerShot V1 tripods",
+      "intent": "method and evidence",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Canon PowerShot V1, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "Canon Tripod Grip HG-100TBR: best tripod grip for V1 vlogging",
+        "Ulanzi MT-16 Extendable Tripod: best budget extendable tripod",
+        "Manfrotto PIXI Mini Tripod: best pocket tabletop tripod",
+        "Manfrotto PIXI EVO 2-Section Mini Tripod: best adjustable tabletop tripod",
+        "Peak Design Travel Tripod (Carbon Fiber): best full-height travel tripod"
+      ]
+    },
+    {
+      "h2": "Which PowerShot V1 tripod should you get?",
+      "intent": "decision rule",
+      "h3": []
+    },
+    {
+      "h2": "How to set up the PowerShot V1 on a tripod",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "PowerShot V1 tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1750,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+      "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+      "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The only full roundup in the top 10 (CameraEgg) reviews each tripod in one long paragraph with a short best-for line, no pros/cons lists; the other pages are a Canon shop page, a first-person review and a forum thread.",
+    "avgWords": 1700,
+    "avgProducts": 5,
+    "commonSections": [
+      "top picks",
+      "product reviews",
+      "buying guide (weight capacity, portability, head)",
+      "comparison table",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/canon-powershot-tripod/s?k=canon+powershot+tripod",
+      "title": "Canon Powershot Tripod - Amazon.com"
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=yTsarUrZM80",
+      "title": "5 Must-Have Accessories For The Canon Powershot V1 - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/",
+      "title": "Need help finding a tripod compatible with my camera. : r/canon - Reddit"
+    },
+    {
+      "position": 4,
+      "url": "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+      "title": "Shop Canon Tripod Grip HG-100TBR"
+    },
+    {
+      "position": 5,
+      "url": "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+      "title": "Best Tripod for Canon PowerShot V1 - Camera News at Cameraegg"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/352527064790380/posts/27413092711640449/",
+      "title": "What's the best tripod for Canon photographers? - Facebook"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=I-RCj5r_Aic",
+      "title": "The COMPLETE Video Kit !!! Canon PowerShot V1 Premium Vlogger Kit"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/shorts/U0r-GntB3B8",
+      "title": "Best Tripod and Mic for the Canon PowerShot V1 - YouTube"
+    },
+    {
+      "position": 9,
+      "url": "https://tristatecamera.com/product/CANON_PowerShot_V1_Digital_Camera_64GB_Tripod_6390C001_PSV1Q05.html",
+      "title": "CANON | PowerShot V1 Digital Camera + 64GB+ Tripod + Extra Batt"
+    },
+    {
+      "position": 10,
+      "url": "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/",
+      "title": "What is the best travel tripod for Canon RF systems?"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "Canon PowerShot V1",
+      "accessories",
+      "vlogger kit",
+      "tripod grip",
+      "mini"
+    ],
+    "gap": "No top title sizes the picks to the V1's 426 g weight or covers both a pocket grip and a full-height tripod."
+  },
+  "commonPoints": [
+    "The V1 uses the standard 1/4\"-20 tripod thread, so almost any tripod fits",
+    "The V1 is light, so mini and tabletop tripods hold it",
+    "A ball head makes framing and portrait shots quicker",
+    "Mini tripods double as a handheld vlogging grip",
+    "Pick a tripod that is portable enough to carry with a compact camera"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom for every pick against the V1's 426 g (battery and card): 2.3x on the HG-100TBR and PIXI Mini, 3.5x on the MT-16 (but about 1.2x against a reported 500 g vertical limit), 5.9x on the PIXI EVO, about 21x on the Peak Design",
+      "source": "https://cam.start.canon/en/C016/manual/html/UG-11_Reference_0080.html; maker spec pages",
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "A tripod plate blocks the V1 battery and card door; screw a mini straight into the socket and unscrew it to swap, or use a V1 base plate or cage with a door cutout",
+      "source": "https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/",
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Digital IS Enhanced and subject-tracking IS crop 4K up to 30p by 1.43x, so on a tripod switch digital IS off to keep the full wide angle",
+      "source": "https://www.dpreview.com/reviews/canon-powershot-v1-review/",
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by where you film: desk talking head, walk-and-talk grip, uneven tables, standing height",
+      "source": "our decision rule from the specs above",
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Handheld V1 footage wobbles when walking; owners get their best results on a small tripod indoors, and long takes need USB-C power because battery life is short",
+      "source": "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+      "absentFrom": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tabletop-mini-tripods-powershot-v1-plate-blocks-battery",
+      "pain": "A tripod plate on the PowerShot V1 blocks the battery and memory card door",
+      "details": "New V1 owners ask how to keep a plate on and still swap batteries; creators sell V1 base plates and cages with a door cutout to fix it.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/",
+        "https://www.instagram.com/reel/DWmO0zMjj4s/"
+      ],
+      "quotes": [
+        {
+          "text": "has anyone figured out a way to mount a tripod plate and still have access to the battery/memory card?",
+          "url": "https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-powershot-v1-handheld-wobble",
+      "pain": "Handheld PowerShot V1 video wobbles when walking, so owners move to a small tripod",
+      "details": "A long-term V1 vlogger says handheld stabilization jitters when walking but the camera is nearly perfect on a small tripod indoors.",
+      "sources": [
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for"
+      ],
+      "quotes": [
+        {
+          "text": "Inside, on a small tripod, it’s nearly perfect.",
+          "url": "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-powershot-v1-which-tripod-fits",
+      "pain": "New PowerShot owners are not sure which tripods fit their camera",
+      "details": "r/canon replies explain that all tripods use the same screw and suggest table tripods for a small bag.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ],
+      "quotes": [
+        {
+          "text": "Or look for table tripods for the small ones you can keep in a small bag.",
+          "url": "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-too-low-off-a-table",
+      "pain": "A mini tripod sits too low to film yourself unless there is a table, wall or ledge",
+      "details": "Mini tripods only lift the camera a few inches.",
+      "sources": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.facebook.com/groups/djiosmopocket3/posts/1082160609880619/"
+      ],
+      "quotes": [
+        {
+          "text": "You’ll get off the ground, but not much more height than that",
+          "url": "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        }
+      ]
+    },
+    {
+      "id": "tabletop-mini-tripods-head-slips-at-tilt",
+      "pain": "A mini tripod ball head will not hold the camera at a tilt and creeps out of position",
+      "details": "Small ball heads creep under a compact camera at steep angles or in portrait.",
+      "sources": [
+        "https://www.l-camera-forum.com/topic/386731-which-portable-tripod-for-leica-q3/",
+        "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+      ],
+      "quotes": [
+        {
+          "text": "And the ball head might creep from where you initially point it anyway.",
+          "url": "https://www.reddit.com/r/fujifilm/comments/1aryvdh/manfrotto_pixi_evo_fit_xt5/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "426 g",
+      "claim": "PowerShot V1 weight with battery and card",
+      "url": "https://cam.start.canon/en/C016/manual/html/UG-11_Reference_0080.html",
+      "quote": "Approx. 426 g / 15.03 oz."
+    },
+    {
+      "number": "1 kg",
+      "claim": "HG-100TBR maximum camera weight",
+      "url": "https://www.bhphotovideo.com/lit_files/608724.pdf",
+      "quote": "This product can withstand up to 1 kg/35.3 oz. of weight."
+    },
+    {
+      "number": "163 g",
+      "claim": "HG-100TBR body weight",
+      "url": "https://www.bhphotovideo.com/lit_files/608724.pdf",
+      "quote": "Approx. 163 g/5.76 oz. (body only)"
+    },
+    {
+      "number": "1.43x",
+      "claim": "Crop added by Digital IS Enhanced and subject-tracking IS in 4K up to 30p",
+      "url": "https://www.dpreview.com/reviews/canon-powershot-v1-review/",
+      "quote": "4K up to 30p | 1.00 | 1.11x | 1.43x | 1.43x"
+    },
+    {
+      "number": "2.5 kg",
+      "claim": "PIXI EVO safety payload",
+      "url": "https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/",
+      "quote": "Safety payload 2.5 kg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "yTsarUrZM80",
+      "title": "5 Must-Have Accessories For The Canon Powershot V1",
+      "channel": "T. Frank",
+      "url": "https://www.youtube.com/watch?v=yTsarUrZM80",
+      "section": "How to set up the PowerShot V1 on a tripod"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Canon Tripod Grip HG-100TBR",
+      "pages": [
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.canon.ca/en/products/PowerShot-V1-Creator-Bundle",
+        "https://www.youtube.com/watch?v=I-RCj5r_Aic",
+        "https://www.pictureline.com/blogs/products/the-best-vlogging-tripod-and-support-accessory-the-canon-tripod-grip"
+      ]
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://www.youtube.com/shorts/U0r-GntB3B8",
+        "https://www.tiktok.com/@_helen_avery/video/7666517846448704789",
+        "https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod",
+      "pages": [
+        "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+        "https://www.reddit.com/r/canon/comments/1jnfec3/need_help_finding_a_tripod_compatible_with_my/"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    }
+  ],
+  "serpProductsNote": "Joby GorillaPod 3K Kit and SmallRig BUT2664 were named by CameraEgg only (its own forum is the same site), so they are out.",
+  "pendingInlinks": [
+    {
+      "slug": "best-tabletop-camera-tripod",
+      "find": "Most compact cameras clear the PIXI Mini; a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod.",
+      "replace": "Most compact cameras clear the PIXI Mini (see our [Canon PowerShot V1 tripod picks](/blog/best-tripod-for-canon-powershot-v1/)); a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod."
+    },
+    {
+      "slug": "best-tripod-for-canon-r50",
+      "find": "DPReview owners say the joints loosen with age, so I'd treat it as a second support.",
+      "replace": "DPReview owners say the joints loosen with age, so I'd treat it as a second support, like the minis in our [PowerShot V1 tripod guide](/blog/best-tripod-for-canon-powershot-v1/)."
+    }
+  ],
+  "textrazor": {
+    "date": "2026-11-03",
+    "pagesAnalyzed": 3,
+    "source": "data/briefs/best-tripod-for-canon-powershot-v1.entities.json",
+    "ignored": [
+      "Canon shop and MPB pages blocked the fetch"
+    ]
+  }
+}

@@ -251,6 +251,8 @@ heroImage: /images/featured/flexible-tripod-vs-mini-tripod-for-travel-vlogging.p
 heroAlt: >-
   Flexible Tripod vs Mini Tripod for Travel Vlogging – Which to Pack – Best
   Tripod comparison
+related:
+  - best-tripod-for-canon-powershot-v1
 ---
 
 You've found the shot: the harbor at sunset, the camera needs to be about a meter away so you're in frame, and there's nothing to put it on but a metal railing. That moment decides the flexible tripod vs mini tripod for travel vlogging question better than any spec sheet. **Pack a flexible tripod if you film where there are railings, posts and branches but no flat surface; pack a rigid mini tripod if you mostly set the camera on tables, walls and ledges.** We compared both tripod types using maker specs, retailer data and owner threads.

@@ -456,6 +456,7 @@ illustrations:
       Canon R50 for a kitchen video
     afterHeading: 5
 related:
+  - best-tripod-for-canon-powershot-v1
   - best-tripod-for-canon-r6-mark-ii
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
