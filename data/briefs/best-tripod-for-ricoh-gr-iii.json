@@ -152,13 +152,13 @@
     "pocket camera"
   ],
   "skipgrams": [
-    "tripod\u2026pocket",
-    "mini\u2026tripod",
-    "ball\u2026head",
-    "self\u2026timer",
-    "long\u2026exposure",
-    "gr\u2026tripod",
-    "plate\u2026bulk"
+    "tripod…pocket",
+    "mini…tripod",
+    "ball…head",
+    "self…timer",
+    "long…exposure",
+    "gr…tripod",
+    "plate…bulk"
   ],
   "nlpTerms": [
     "shake reduction",
@@ -534,7 +534,7 @@
       "number": "99",
       "claim": "Interval shooting up to 99 shots, interval up to 60 minutes",
       "url": "https://www.ricoh-imaging.co.jp/english/support/man-pdf/gr-3.pdf",
-      "quote": "Specifies the number of shots to [\u221e] or from [2] to [99]."
+      "quote": "Specifies the number of shots to [∞] or from [2] to [99]."
     },
     {
       "number": "262g",
@@ -651,12 +651,14 @@
     {
       "slug": "best-tripod-for-leica-q3",
       "find": "I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica.",
-      "replace": "I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica (for a lighter pocket camera, see our [Ricoh GR III tripod picks](/blog/best-tripod-for-ricoh-gr-iii/))."
+      "replace": "I matched five tripods to where Q3 owners shoot, using maker specs and Q2 and Q3 owner reports from the Leica Forum and r/Leica (for a lighter pocket camera, see our [Ricoh GR III tripod picks](/blog/best-tripod-for-ricoh-gr-iii/)).",
+      "appliedAt": "2026-11-03T16:24:51.921Z"
     },
     {
       "slug": "best-tabletop-camera-tripod",
       "find": "The table uses maker figures; where a listing disagrees, I say so in the product section.",
-      "replace": "The table uses maker figures; where a listing disagrees, I say so in the product section, and our [tripods for the Ricoh GR III](/blog/best-tripod-for-ricoh-gr-iii/) apply the same specs to one pocket camera."
+      "replace": "The table uses maker figures; where a listing disagrees, I say so in the product section, and our [tripods for the Ricoh GR III](/blog/best-tripod-for-ricoh-gr-iii/) apply the same specs to one pocket camera.",
+      "appliedAt": "2026-11-03T16:24:52.994Z"
     }
   ],
   "secondaryKeywords": [

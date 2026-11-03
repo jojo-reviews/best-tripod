@@ -536,7 +536,7 @@ Canon kit weights, before the head:
 - RF 70-200mm F2.8L IS USM (about 1,070 g): 1,740 g, about 3.8 lb.
 - RF 100-500mm F4.5-7.1L IS USM ([1530g with tripod mount](https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/)): 2,200 g, about 4.9 lb.
 
-With the 100-500 kit, headroom is about 4.1 times on the Peak Design and Befree, 4.5 times on the Leofoto and Vanguard, and 1.8 times on the Benro. A DPReview reply's rule is to "choose the tripod with 50 % bigger max possible load", and every pick clears it, but a load rating is static. Wind and a raised column matter more, so mount the 100-500 by its tripod mount ring, not the camera, and keep the column down, as our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains.
+With the 100-500 kit, headroom is about 4.1 times on the Peak Design and Befree, 4.5 times on the Leofoto and Vanguard, and 1.8 times on the Benro; a lighter body changes the math, as our [Canon R8 tripod picks](/blog/best-tripod-for-canon-r8/) show. A DPReview reply's rule is to "choose the tripod with 50 % bigger max possible load", and every pick clears it, but a load rating is static. Wind and a raised column matter more, so mount the 100-500 by its tripod mount ring, not the camera, and keep the column down, as our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains.
 
 ## Canon R6 Mark II tripod problems owners run into, and the fix
 

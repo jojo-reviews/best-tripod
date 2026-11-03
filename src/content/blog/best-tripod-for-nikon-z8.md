@@ -503,7 +503,7 @@ I added each lens weight from Nikon to the body, before the head:
 - With the NIKKOR Z 70-200mm f/2.8 VR S (1,440 g with collar): 2,350 g, about 5.2 lb.
 - With the NIKKOR Z 180-600mm f/5.6-6.3 VR ([2,140 g with its collar ring](https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_180-600mmf56-63_vr/)): 3,050 g, about 6.7 lb.
 
-With the 180-600 kit, headroom is about 3 times on the Peak Design and Befree, 3.3 times on the LS-284CX, 4.9 times on the LS-324CX and 5.9 times on the Gitzo. A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure. Height is the other gap: only the LS-324CX tops 55 in without a column. Keeping the column down is the easiest stability gain, as our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains. The same math holds for a Nikon Z9 owner: the tripod for a Nikon Z8 is sized by the lens, not the body.
+With the 180-600 kit, headroom is about 3 times on the Peak Design and Befree, 3.3 times on the LS-284CX, 4.9 times on the LS-324CX and 5.9 times on the Gitzo. A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure, and why our [Sony A7R V tripod picks](/blog/best-tripod-for-sony-a7r-v/) favor stiff legs over big ratings. Height is the other gap: only the LS-324CX tops 55 in without a column. Keeping the column down is the easiest stability gain, as our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains. The same math holds for a Nikon Z9 owner: the tripod for a Nikon Z8 is sized by the lens, not the body.
 
 ## Nikon Z8 tripod problems owners run into, and the fix
 

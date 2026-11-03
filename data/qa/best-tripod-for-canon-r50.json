@@ -1,21 +1,26 @@
 {
   "slug": "best-tripod-for-canon-r50",
-  "pass": true,
-  "checkedAt": "2026-11-02T11:30:54.828Z",
-  "errors": [],
+  "pass": false,
+  "checkedAt": "2026-11-03T16:24:47.539Z",
+  "errors": [
+    "body has 1444 words, over the 1438 limit (top results average 1250): cut repetition and filler"
+  ],
   "warnings": [
     "product \"Manfrotto Element MII Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Fitting a quick-release plate under a Ca\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Hanging a bag from the tripod hook with \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "section \"The 5 best tripods for the Canon R50, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified final text 2026-11-02 against Firecrawl reads: Canon EOS R50 375 g with battery and card, 'In-body IS not provided' (usa.canon.com/shop/p/eos-r50); RF-S18-45mm 4.6 oz (usa.canon.com); Manfrotto Element MII 160 cm max, 132 cm column down, 43 cm min, 42.5 cm folded, 1.55 kg, 8 kg safety payload, twist locks, 200PL-PRO Light plate (Arca-type + RC2), independent pan knob, column hook (manfrotto.com MKELMII4BK-BH); K&F Concept 64 inch: 63 in, 45.67 in without column, 19.68 in min, 15.35 in folded, 2.73 lb, 8 kg, 4 flip-lock sections (kfconcept.com KF09.101V1); JOBY GorillaPod 3K Kit 6.6 lb, 12 in, ball head 360 pan/90 tilt/bubble level (B&H 1359603); Peak Design Travel Tripod aluminum 60 in / 51.25 in column down / 5.5 in min / 15.5 in / 3.44 lb / 20 lb, five sections, Arca-type plate, phone mount in column (Amazon title 20 lb, ShutterMuse spec table, peakdesign.com); Befree Advanced lever 151/128/40 cm, 40 cm folded, 1.59 kg, 9 kg, 494 head with pan + friction knobs, 200PL PRO RC2/Arca (manfrotto.com). Headroom math 505 g vs ratings checked. Amazon US in stock: B08JZCQ9WQ and B0772WLSHZ ships+sold by Amazon; B085BQS6K4 and B0B1HYVVTV ships from Amazon; B074WC9YKL third-party, in stock. Owner statements: Canon Rumors threads (scraped, Peak/Befree/Element/K&F replies), r/canonR50 Befree (search excerpt), r/canon quotes verbatim from Google excerpts; K&F owner themes from kfconcept.com reviews; Element MII owner themes from Harvey Norman/Space.com; GorillaPod from DPReview thread.",
-    "at": "2026-11-02T11:30:54.351Z",
-    "hash": "0e94e743d39ac6b0"
+    "notes": "added one internal link to best-tripod-for-canon-powershot-v1, no claim changed",
+    "at": "2026-11-03T16:24:54.414Z",
+    "hash": "27d85c0c841aed47"
   }
 }

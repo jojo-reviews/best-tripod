@@ -486,7 +486,7 @@ The best tabletop camera tripod is the one whose head is rated well above your c
 
 **A tabletop camera tripod is limited by its head rating first, so compare payload, then working height and legs.**
 
-The table uses maker figures; where a listing disagrees, I say so in the product section.
+The table uses maker figures; where a listing disagrees, I say so in the product section, and our [tripods for the Ricoh GR III](/blog/best-tripod-for-ricoh-gr-iii/) apply the same specs to one pocket camera.
 
 | Tabletop tripod | Max height | Weight | Head payload | Legs | Plate |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@ A rating is a safe static load, not the weight a small head holds at a tilt with
 2. Double that number.
 3. Compare it with the head payload, not the leg rating.
 
-SmallRig shows why step 3 matters: its legs hold [20kg](https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html), but the head holds 2 kg. With the 50% margin, the PIXI Mini suits rigs to about 500 g, the SmallRig to 1 kg, the PIXI EVO to 1.25 kg and the GorillaPod 3K Kit to 1.5 kg. Most compact cameras clear the PIXI Mini; a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod.
+SmallRig shows why step 3 matters: its legs hold [20kg](https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html), but the head holds 2 kg. With the 50% margin, the PIXI Mini suits rigs to about 500 g, the SmallRig to 1 kg, the PIXI EVO to 1.25 kg and the GorillaPod 3K Kit to 1.5 kg. Most compact cameras clear the PIXI Mini (see our [Canon PowerShot V1 tripod picks](/blog/best-tripod-for-canon-powershot-v1/)); a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod.
 
 ## How to Stop a Tabletop Camera Tripod Tipping or Sagging
 

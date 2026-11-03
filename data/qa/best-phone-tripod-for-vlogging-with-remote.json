@@ -1,20 +1,19 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-11-01T17:57:40.100Z",
+  "checkedAt": "2026-11-03T16:24:45.475Z",
   "errors": [],
   "warnings": [
-    "body has 1830 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "body has 1842 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
+    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-10-31 (TextRazor): review only; no new facts/prices/ratings, specs and sources unchanged; Quick Picks re-list removed; product first sentences name product/type/maker; scoreNotes first person",
-    "at": "2026-10-31T17:52:52.900Z",
-    "hash": "162e92632dc1f155"
+    "notes": "added one internal link to best-tripod-for-golf-swing-recording, no claim changed",
+    "at": "2026-11-03T16:24:44.520Z",
+    "hash": "a6fd53718217284a"
   }
 }

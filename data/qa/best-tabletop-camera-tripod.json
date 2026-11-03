@@ -1,7 +1,7 @@
 {
   "slug": "best-tabletop-camera-tripod",
   "pass": true,
-  "checkedAt": "2026-11-01T17:47:36.320Z",
+  "checkedAt": "2026-11-03T16:24:52.969Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,17 +9,16 @@
     "product \"SmallRig Mini Tabletop Tripod BUT2664\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Weighing a camera and lens on a kitchen \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Turning a tabletop tripod so one leg sit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.rosenberryrooms.com/best-tabletop-tripods/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified against maker pages: Manfrotto PIXI EVO MTPIXIEVO-BK (manfrotto.com: 0.26 kg, max 20 cm, min 10.5 cm, closed 20.5 cm, 2 sections, 2.5 kg payload, leg angles 50/75, lateral tilt -90/+40, 1/4-20 screw; B&H 5 steps, 267 g); Manfrotto PIXI MTPIXI-B (manfrotto.com: 0.19 kg, 13.5 cm fixed, closed 18.5 cm, 1 kg, +/-35 tilt, 45 deg legs); SmallRig BUT2664 (smallrig.com: 410 g, closed 230 mm, working height 113 mm, head 2 kg, legs 20 kg, -90/+45 front, +/-50 lateral, 1 section, Arca-type plate, aluminum alloy); JOBY GorillaPod 3K Kit (B&H: 6.6 lb load, 12 in max height; Shotkit 393 g); Ulanzi MT-16 (ulanzi.com: 170 g, 22-44 cm, 1.5 kg, ABS/aluminum; B&H 1.5 kg; Amazon listing 0.5 kg noted). Amazon US listings hand-checked via Firecrawl 2026-11-01, all in stock: B0149KBPB4, B00D76RNLS (ships/sold by Amazon), B0833XSMM4, B074WC9YKL (third-party seller, noted in text), B08LGGXH1J. Owner claims checked against Pack Hacker 6-month review, r/fujifilm, r/M43, TechGearLab, SmallRig page reviews, DPReview and r/videography quotes in the brief. Margin math (head payload / 2) recalculated. Stats links on numbers open to the stated figures.",
-    "at": "2026-11-01T11:28:18.359Z",
-    "hash": "c752d9be5381e606"
+    "notes": "added one internal link to best-tripod-for-canon-powershot-v1, no claim changed",
+    "at": "2026-11-03T16:24:53.445Z",
+    "hash": "0aab3cd6671b1e5e"
   }
 }

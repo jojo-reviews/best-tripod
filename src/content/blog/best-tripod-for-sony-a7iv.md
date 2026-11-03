@@ -489,7 +489,7 @@ Sunrise on an exposed ridge, a full-frame A7 IV with a 24-70mm on top, and the l
 
 ## How I picked these Sony A7 IV tripods
 
-**I kept only tripods that at least two top-ranking pages for this search, or for the A7 III, recommend, each with an in-stock Amazon US listing.** Those pages were Sony Rumors and CameraEgg forum threads, a DPReview A7 III thread, Packapop and AlphaShooters. The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice.
+**I kept only tripods that at least two top-ranking pages for this search, or for the A7 III, recommend, each with an in-stock Amazon US listing.** Those pages were Sony Rumors and CameraEgg forum threads, a DPReview A7 III thread, Packapop and AlphaShooters. The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice; the GT1545T does make our [tripods for the Sony A7R V](/blog/best-tripod-for-sony-a7r-v/).
 
 > **From our notes:** The A7 IV body barely changed my ranking; the lenses did. Every pick still carried more than five times the 70-200 kit, so I stopped sorting by load and read what A7 owners complained about: slipping leg locks, travel tripods that shook in wind, and heads that would not hold a long lens. That is why column-down height, columnless legs and the head drove this list.
 

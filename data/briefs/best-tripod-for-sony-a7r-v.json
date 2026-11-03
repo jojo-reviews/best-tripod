@@ -1,29 +1,136 @@
 {
   "centralEntity": "tripod for Sony A7R V",
-  "entityVariants": ["Sony A7R V tripod", "A7R V tripod", "tripod for the A7R V", "a7R V", "A7RV tripod", "tripod for Sony A7R V"],
+  "entityVariants": [
+    "Sony A7R V tripod",
+    "A7R V tripod",
+    "tripod for the A7R V",
+    "a7R V",
+    "A7RV tripod",
+    "tripod for Sony A7R V"
+  ],
   "entities": [
-    {"name": "Sony A7R V", "type": "camera", "relation": "61MP full-frame mirrorless body, approx. 723 g with battery and card", "salience": 0.76},
-    {"name": "tripod", "type": "product", "relation": "the camera support being chosen", "salience": 0.79},
-    {"name": "carbon fiber", "type": "material", "relation": "leg material most top pages recommend for vibration damping and weight", "salience": 0.68},
-    {"name": "Gitzo", "type": "brand", "relation": "maker of the GT1545T Traveler named on 3 top pages", "salience": 0.66},
-    {"name": "SIRUI", "type": "brand", "relation": "maker of the AM-284 columnless legs", "salience": 0.7},
-    {"name": "Leofoto", "type": "brand", "relation": "maker of the LS-284CX columnless kit", "salience": 0.54},
-    {"name": "lens", "type": "equipment", "relation": "the lens weight decides the load on the tripod", "salience": 0.54},
-    {"name": "mirrorless camera", "type": "category", "relation": "the A7R V's camera class", "salience": 0.46},
-    {"name": "vibration", "type": "concept", "relation": "what a 61MP sensor reveals in the file", "salience": 0.37},
-    {"name": "bag", "type": "accessory", "relation": "hanging a bag from the column hook adds weight but can swing in wind", "salience": 0.65},
-    {"name": "shutter", "type": "concept", "relation": "electronic shutter or a 2-second delay avoids shutter shock", "salience": 0.31},
-    {"name": "Benro", "type": "brand", "relation": "Mach3 and Tortoise named once each, not featured", "salience": 0.31},
-    {"name": "Pixel Shift Multi Shoot", "type": "feature", "relation": "A7R V mode that records 4 or 16 RAW frames and needs a tripod"},
-    {"name": "Peak Design Travel Tripod", "type": "product", "relation": "packable carbon travel pick"},
-    {"name": "Manfrotto 055", "type": "product", "relation": "full-size aluminum kit for the 200-600"},
-    {"name": "FE 24-70mm F2.8 GM II", "type": "lens", "relation": "common A7R V landscape zoom, 695 g"},
-    {"name": "FE 70-200mm F2.8 GM OSS II", "type": "lens", "relation": "common A7R V telephoto, 1,045 g"},
-    {"name": "FE 200-600mm G", "type": "lens", "relation": "wildlife zoom, 2,115 g"},
-    {"name": "Arca-Swiss", "type": "standard", "relation": "plate standard for L-brackets"},
-    {"name": "L-bracket", "type": "accessory", "relation": "keeps the camera centered for verticals"},
-    {"name": "center column", "type": "part", "relation": "raising it adds flex; columnless legs avoid it"},
-    {"name": "ball head", "type": "part", "relation": "needs friction control so a heavy lens does not flop"}
+    {
+      "name": "Sony A7R V",
+      "type": "camera",
+      "relation": "61MP full-frame mirrorless body, approx. 723 g with battery and card",
+      "salience": 0.76
+    },
+    {
+      "name": "tripod",
+      "type": "product",
+      "relation": "the camera support being chosen",
+      "salience": 0.79
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg material most top pages recommend for vibration damping and weight",
+      "salience": 0.68
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "maker of the GT1545T Traveler named on 3 top pages",
+      "salience": 0.66
+    },
+    {
+      "name": "SIRUI",
+      "type": "brand",
+      "relation": "maker of the AM-284 columnless legs",
+      "salience": 0.7
+    },
+    {
+      "name": "Leofoto",
+      "type": "brand",
+      "relation": "maker of the LS-284CX columnless kit",
+      "salience": 0.54
+    },
+    {
+      "name": "lens",
+      "type": "equipment",
+      "relation": "the lens weight decides the load on the tripod",
+      "salience": 0.54
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "category",
+      "relation": "the A7R V's camera class",
+      "salience": 0.46
+    },
+    {
+      "name": "vibration",
+      "type": "concept",
+      "relation": "what a 61MP sensor reveals in the file",
+      "salience": 0.37
+    },
+    {
+      "name": "bag",
+      "type": "accessory",
+      "relation": "hanging a bag from the column hook adds weight but can swing in wind",
+      "salience": 0.65
+    },
+    {
+      "name": "shutter",
+      "type": "concept",
+      "relation": "electronic shutter or a 2-second delay avoids shutter shock",
+      "salience": 0.31
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "Mach3 and Tortoise named once each, not featured",
+      "salience": 0.31
+    },
+    {
+      "name": "Pixel Shift Multi Shoot",
+      "type": "feature",
+      "relation": "A7R V mode that records 4 or 16 RAW frames and needs a tripod"
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "product",
+      "relation": "packable carbon travel pick"
+    },
+    {
+      "name": "Manfrotto 055",
+      "type": "product",
+      "relation": "full-size aluminum kit for the 200-600"
+    },
+    {
+      "name": "FE 24-70mm F2.8 GM II",
+      "type": "lens",
+      "relation": "common A7R V landscape zoom, 695 g"
+    },
+    {
+      "name": "FE 70-200mm F2.8 GM OSS II",
+      "type": "lens",
+      "relation": "common A7R V telephoto, 1,045 g"
+    },
+    {
+      "name": "FE 200-600mm G",
+      "type": "lens",
+      "relation": "wildlife zoom, 2,115 g"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "plate standard for L-brackets"
+    },
+    {
+      "name": "L-bracket",
+      "type": "accessory",
+      "relation": "keeps the camera centered for verticals"
+    },
+    {
+      "name": "center column",
+      "type": "part",
+      "relation": "raising it adds flex; columnless legs avoid it"
+    },
+    {
+      "name": "ball head",
+      "type": "part",
+      "relation": "needs friction control so a heavy lens does not flop"
+    }
   ],
   "attributes": [
     "rated load vs A7R V plus lens weight",
@@ -37,9 +144,71 @@
     "head friction control",
     "leg material (carbon fiber vs aluminum)"
   ],
-  "ngrams": ["tripod for sony a7r v", "carbon fiber", "center column", "ball head", "travel tripod", "61mp sensor", "pixel shift", "arca swiss", "l bracket", "leg locks", "no center column", "24-70 gm", "70-200", "200-600", "long exposures", "carbon fiber tripod"],
-  "skipgrams": ["tripod…A7R", "column…stability", "carbon…vibration", "wind…legs", "lens…weight", "load…rating", "pixel…shift", "arca…bracket", "friction…head"],
-  "nlpTerms": ["Sony", "A7R V", "61MP", "full-frame", "mirrorless", "high-resolution", "carbon fiber", "aluminum", "ball head", "Arca-Swiss", "L-bracket", "center column", "columnless", "folded length", "load capacity", "long exposure", "wind", "landscape", "carry-on", "twist lock", "flip lock", "self-timer", "electronic shutter", "pixel shift", "24-70mm", "70-200mm", "200-600mm", "Gitzo", "Leofoto", "SIRUI", "Manfrotto", "Peak Design", "vibration", "friction control"],
+  "ngrams": [
+    "tripod for sony a7r v",
+    "carbon fiber",
+    "center column",
+    "ball head",
+    "travel tripod",
+    "61mp sensor",
+    "pixel shift",
+    "arca swiss",
+    "l bracket",
+    "leg locks",
+    "no center column",
+    "24-70 gm",
+    "70-200",
+    "200-600",
+    "long exposures",
+    "carbon fiber tripod"
+  ],
+  "skipgrams": [
+    "tripod…A7R",
+    "column…stability",
+    "carbon…vibration",
+    "wind…legs",
+    "lens…weight",
+    "load…rating",
+    "pixel…shift",
+    "arca…bracket",
+    "friction…head"
+  ],
+  "nlpTerms": [
+    "Sony",
+    "A7R V",
+    "61MP",
+    "full-frame",
+    "mirrorless",
+    "high-resolution",
+    "carbon fiber",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "L-bracket",
+    "center column",
+    "columnless",
+    "folded length",
+    "load capacity",
+    "long exposure",
+    "wind",
+    "landscape",
+    "carry-on",
+    "twist lock",
+    "flip lock",
+    "self-timer",
+    "electronic shutter",
+    "pixel shift",
+    "24-70mm",
+    "70-200mm",
+    "200-600mm",
+    "Gitzo",
+    "Leofoto",
+    "SIRUI",
+    "Manfrotto",
+    "Peak Design",
+    "vibration",
+    "friction control"
+  ],
   "questions": [
     "What is the best tripod for a Sony A7R V?",
     "Does a 61MP camera need a sturdier tripod?",
@@ -55,13 +224,47 @@
     "No top page gives a chooser by lens and use"
   ],
   "outline": [
-    {"h2": "A7R V tripod specs compared: load, height and fold", "intent": "comparison table on the deciding specs", "h3": []},
-    {"h2": "How I picked these A7R V tripods", "intent": "method, which pages recommend them, story block", "h3": []},
-    {"h2": "The 5 best tripods for the Sony A7R V, reviewed", "intent": "one section per product", "h3": ["Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head", "Gitzo GT1545T Series 1 Traveler Tripod", "Peak Design Travel Tripod (Carbon Fiber)", "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)", "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)"]},
-    {"h2": "Which A7R V tripod should you get?", "intent": "decision rule by lens and use", "h3": []},
-    {"h2": "How much an A7R V and its lenses load a tripod", "intent": "load headroom math with Sony weights and Gitzo's 200mm advice", "h3": []},
-    {"h2": "How to set up a tripod for A7R V pixel shift and long exposures", "intent": "numbered steps, illustrations", "h3": []},
-    {"h2": "A7R V tripod problems owners run into, and the fix", "intent": "pain points", "h3": []}
+    {
+      "h2": "A7R V tripod specs compared: load, height and fold",
+      "intent": "comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these A7R V tripods",
+      "intent": "method, which pages recommend them, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Sony A7R V, reviewed",
+      "intent": "one section per product",
+      "h3": [
+        "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+        "Gitzo GT1545T Series 1 Traveler Tripod",
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+        "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)"
+      ]
+    },
+    {
+      "h2": "Which A7R V tripod should you get?",
+      "intent": "decision rule by lens and use",
+      "h3": []
+    },
+    {
+      "h2": "How much an A7R V and its lenses load a tripod",
+      "intent": "load headroom math with Sony weights and Gitzo's 200mm advice",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for A7R V pixel shift and long exposures",
+      "intent": "numbered steps, illustrations",
+      "h3": []
+    },
+    {
+      "h2": "A7R V tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
   ],
   "targetWords": 1600,
   "serpStructure": {
@@ -78,45 +281,205 @@
     "productStyleReason": "The top results are mostly forum threads where each tripod gets a prose reply; Packapop and ProMediaGear also describe each product in paragraphs.",
     "avgWords": 1500,
     "avgProducts": 5,
-    "commonSections": ["short intro or question", "one paragraph per tripod", "stability advice (no center column, carbon, wind)", "FAQ (Packapop)"],
+    "commonSections": [
+      "short intro or question",
+      "one paragraph per tripod",
+      "stability advice (no center column, carbon, wind)",
+      "FAQ (Packapop)"
+    ],
     "usesComparisonTable": true,
     "usesFaq": true,
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    {"position": 1, "url": "https://www.reddit.com/r/SonyAlpha/comments/16yac2k/what_tripods_are_you_using_a7rv/", "title": "What tripods are you using? A7RV : r/SonyAlpha - Reddit"},
-    {"position": 2, "url": "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/", "title": "Which tripods provide the best stability for a Sony a7R V? - Cameraegg"},
-    {"position": 3, "url": "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/", "title": "Best tripod for A7 Series under 1.3kg (2.8lb) and over 130cm height"},
-    {"position": 4, "url": "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v", "title": "Best Accessories for the Sony A7R V | ProMediaGear"},
-    {"position": 5, "url": "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv", "title": "5 Best Tripods For Sony A7 IV Before You Spend $400+ - Packapop"},
-    {"position": 6, "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "title": "Which travel tripods are ideal for the Sony a7R V camera?"},
-    {"position": 7, "url": "https://www.facebook.com/groups/photographyforbeginnersbydrm/posts/444452780678566/", "title": "Any recommendations for a sturdy tripod for Sony A7R III? - Facebook"},
-    {"position": 8, "url": "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-sony_alpha_a7r_iv_mirrorless/1527384-REG-96597", "title": "Video Tripods for Sony Alpha A7R IV - B&H Photo"},
-    {"position": 9, "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod/", "title": "The 4 Best Tripods of 2026 | Reviews by Wirecutter - The New York Times"},
-    {"position": 10, "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "title": "What are the best travel tripods for Sony A7R cameras?"}
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/SonyAlpha/comments/16yac2k/what_tripods_are_you_using_a7rv/",
+      "title": "What tripods are you using? A7RV : r/SonyAlpha - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+      "title": "Which tripods provide the best stability for a Sony a7R V? - Cameraegg"
+    },
+    {
+      "position": 3,
+      "url": "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/",
+      "title": "Best tripod for A7 Series under 1.3kg (2.8lb) and over 130cm height"
+    },
+    {
+      "position": 4,
+      "url": "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v",
+      "title": "Best Accessories for the Sony A7R V | ProMediaGear"
+    },
+    {
+      "position": 5,
+      "url": "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+      "title": "5 Best Tripods For Sony A7 IV Before You Spend $400+ - Packapop"
+    },
+    {
+      "position": 6,
+      "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+      "title": "Which travel tripods are ideal for the Sony a7R V camera?"
+    },
+    {
+      "position": 7,
+      "url": "https://www.facebook.com/groups/photographyforbeginnersbydrm/posts/444452780678566/",
+      "title": "Any recommendations for a sturdy tripod for Sony A7R III? - Facebook"
+    },
+    {
+      "position": 8,
+      "url": "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-sony_alpha_a7r_iv_mirrorless/1527384-REG-96597",
+      "title": "Video Tripods for Sony Alpha A7R IV - B&H Photo"
+    },
+    {
+      "position": 9,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+      "title": "The 4 Best Tripods of 2026 | Reviews by Wirecutter - The New York Times"
+    },
+    {
+      "position": 10,
+      "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+      "title": "What are the best travel tripods for Sony A7R cameras?"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 0,
     "withYear": 1,
     "withNumber": 2,
-    "commonModifiers": ["Sony a7R V", "stability", "travel", "best"],
+    "commonModifiers": [
+      "Sony a7R V",
+      "stability",
+      "travel",
+      "best"
+    ],
     "gap": "No top-10 title starts with the exact keyword, and none ties the pick to the 61MP sensor or the lens on the camera."
   },
   "serpProducts": [
-    {"name": "Leofoto LS-284C(X) with LH-30", "pages": ["https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"], "note": "Amazon US sells the current LS-284CX + LH-30 kit."},
-    {"name": "Peak Design Travel Tripod (Carbon Fiber)", "pages": ["https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv", "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"], "note": "Recommended for packability; several replies say the thin lower legs flex in wind."},
-    {"name": "Gitzo GT1545T Traveler Series 1", "pages": ["https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/"], "note": "Sony Rumors calls the GT1545T the gold standard; the Photography Panel A7R V owner shortlists the Traveler Series 1; Sony Alpha Forum praises its predecessor GT1555T's damping."},
-    {"name": "SIRUI AM-284", "pages": ["https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"], "note": "Two CameraEgg replies (one A7RIV owner context) and a Sony Rumors A7 IV reply."},
-    {"name": "Manfrotto 055", "pages": ["https://www.facebook.com/groups/photographyforbeginnersbydrm/posts/444452780678566/", "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-sony_alpha_a7r_iv_mirrorless/1527384-REG-96597", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"], "note": "Facebook A7R III thread owner likes the 055 series; B&H lists the MT055XPRO3 kit for the A7R IV."},
-    {"name": "Benro Mach3 TMA28C", "pages": ["https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/"], "note": "One page only; not featured."},
-    {"name": "SIRUI ST-124 / ST-224, Benro Tortoise 34C, Feisol CT-3442, Slik PRO CF-634", "pages": ["https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"], "note": "Each named by one page only (Feisol also on Sony Alpha Forum but no Amazon US listing); not featured."}
+    {
+      "name": "Leofoto LS-284C(X) with LH-30",
+      "pages": [
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+        "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+      ],
+      "note": "Amazon US sells the current LS-284CX + LH-30 kit."
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+        "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv",
+        "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/"
+      ],
+      "note": "Recommended for packability; several replies say the thin lower legs flex in wind."
+    },
+    {
+      "name": "Gitzo GT1545T Traveler Series 1",
+      "pages": [
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+        "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/"
+      ],
+      "note": "Sony Rumors calls the GT1545T the gold standard; the Photography Panel A7R V owner shortlists the Traveler Series 1; Sony Alpha Forum praises its predecessor GT1555T's damping."
+    },
+    {
+      "name": "SIRUI AM-284",
+      "pages": [
+        "https://forum.cameraegg.org/sony-forum/recommended-travel-tripods-for-sony-alpha-camera-users-64059/",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+      ],
+      "note": "Two CameraEgg replies (one A7RIV owner context) and a Sony Rumors A7 IV reply."
+    },
+    {
+      "name": "Manfrotto 055",
+      "pages": [
+        "https://www.facebook.com/groups/photographyforbeginnersbydrm/posts/444452780678566/",
+        "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-sony_alpha_a7r_iv_mirrorless/1527384-REG-96597",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/looking-for-a-tripod-for-sony-a7-iv/"
+      ],
+      "note": "Facebook A7R III thread owner likes the 055 series; B&H lists the MT055XPRO3 kit for the A7R IV."
+    },
+    {
+      "name": "Benro Mach3 TMA28C",
+      "pages": [
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/"
+      ],
+      "note": "One page only; not featured."
+    },
+    {
+      "name": "SIRUI ST-124 / ST-224, Benro Tortoise 34C, Feisol CT-3442, Slik PRO CF-634",
+      "pages": [
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"
+      ],
+      "note": "Each named by one page only (Feisol also on Sony Alpha Forum but no Amazon US listing); not featured."
+    }
   ],
   "painPoints": [
-    {"id": "sony-a7r-v-61mp-shows-vibration", "pain": "A7R V owners fear the 61MP sensor shows every tremor from a flimsy tripod", "details": "Upgraders from lower-resolution bodies find soft frames on light legs; replies blame leg flex and head play more than the sensor, and recommend columnless carbon legs and a 2-second delay.", "sources": ["https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/"], "quotes": [{"text": "that a7R V sensor is basically a microscope for vibrations", "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"}]},
-    {"id": "sony-a7r-v-ball-head-lens-flop", "pain": "The 24-70mm flops over when the ball head knob is loosened", "details": "A ball head without separate friction control lets a heavy zoom drop the moment the main knob opens.", "sources": ["https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"], "quotes": [{"text": "Make sure the ball head has a separate friction control so that 24-70mm lens doesnt just flop over when you loosen the main knob", "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"}]},
-    {"id": "sony-a7r-v-hanging-bag-swings", "pain": "A bag hung from the tripod hook swings in wind and adds vibration", "details": "Owners told to hang a bag for weight find it swings on a high-resolution body; keeping the tripod low helps more.", "sources": ["https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"], "quotes": [{"text": "If the bag starts swinging in the wind it actually makes the vibrations worse on a high res sensor like the A7RV.", "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"}]},
-    {"id": "sony-a7r-v-200-600-tripod", "pain": "Finding one light carbon tripod that also holds the A7R V with a 200-600mm", "details": "Owners asking on r/sonya7rv and r/AskPhotography want lightweight carbon legs for a large telephoto; replies point to columnless legs with fewer, thicker sections.", "sources": ["https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/", "https://www.reddit.com/r/AskPhotography/comments/1iodz4w/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/"], "quotes": []},
-    {"id": "camera-tripods-wind-vibration", "pain": "Wind makes the whole tripod vibrate and ruins long exposures", "details": "Outdoor shooters see legs act like a sail or vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.", "sources": ["https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"], "quotes": []}
+    {
+      "id": "sony-a7r-v-61mp-shows-vibration",
+      "pain": "A7R V owners fear the 61MP sensor shows every tremor from a flimsy tripod",
+      "details": "Upgraders from lower-resolution bodies find soft frames on light legs; replies blame leg flex and head play more than the sensor, and recommend columnless carbon legs and a 2-second delay.",
+      "sources": [
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/"
+      ],
+      "quotes": [
+        {
+          "text": "that a7R V sensor is basically a microscope for vibrations",
+          "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a7r-v-ball-head-lens-flop",
+      "pain": "The 24-70mm flops over when the ball head knob is loosened",
+      "details": "A ball head without separate friction control lets a heavy zoom drop the moment the main knob opens.",
+      "sources": [
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"
+      ],
+      "quotes": [
+        {
+          "text": "Make sure the ball head has a separate friction control so that 24-70mm lens doesnt just flop over when you loosen the main knob",
+          "url": "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a7r-v-hanging-bag-swings",
+      "pain": "A bag hung from the tripod hook swings in wind and adds vibration",
+      "details": "Owners told to hang a bag for weight find it swings on a high-resolution body; keeping the tripod low helps more.",
+      "sources": [
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"
+      ],
+      "quotes": [
+        {
+          "text": "If the bag starts swinging in the wind it actually makes the vibrations worse on a high res sensor like the A7RV.",
+          "url": "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a7r-v-200-600-tripod",
+      "pain": "Finding one light carbon tripod that also holds the A7R V with a 200-600mm",
+      "details": "Owners asking on r/sonya7rv and r/AskPhotography want lightweight carbon legs for a large telephoto; replies point to columnless legs with fewer, thicker sections.",
+      "sources": [
+        "https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/",
+        "https://www.reddit.com/r/AskPhotography/comments/1iodz4w/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "camera-tripods-wind-vibration",
+      "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+      "details": "Outdoor shooters see legs act like a sail or vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+      ],
+      "quotes": []
+    }
   ],
   "commonPoints": [
     "Carbon fiber legs damp vibration and weigh less than aluminum",
@@ -126,25 +489,109 @@
     "Use a 2-second delay or the electronic shutter"
   ],
   "ourGain": [
-    {"type": "analysis", "point": "Load headroom with real A7R V kits: 723 g body + 24-70 GM II (695 g) = 1,418 g; + 70-200 GM II (1,045 g) = 1,768 g; + 200-600 G (2,115 g) = 2,838 g. Peak Design (9.1 kg) gives 5.1x / 3.2x headroom with the 70-200 / 200-600 kits, Leofoto and Gitzo (10 kg) 5.7x / 3.5x, SIRUI and 055 (15 kg) 8.5x / 5.3x.", "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications; Sony lens spec pages; maker spec pages", "absentFrom": ["https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v"]},
-    {"type": "analysis", "point": "Gitzo recommends the GT1545T for 135mm lenses and 200mm at most, despite its 10 kg payload, so it suits the 24-70 and 70-200 but not the 200-600.", "source": "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/", "absentFrom": ["https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/", "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/"]},
-    {"type": "situation", "point": "Pixel Shift Multi Shoot records 4 or 16 RAW frames; Sony says to secure the camera on a tripod and use a remote or the self-timer, and warns that shake or nearby movement stops the frames combining. Fix: columnless or column-down legs, no swinging bag, remote release.", "source": "https://helpguide.sony.net/ilc/2230/v1/en/contents/TP0002925730.html", "absentFrom": ["https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v", "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv"]},
-    {"type": "decision", "point": "Chooser by lens and use: 24-70 and flights -> Peak Design; wind, ND and pixel shift -> Leofoto LS-284CX; lightest premium legs up to a 70-200 -> Gitzo GT1545T; own head already, low landscapes -> SIRUI AM-284; 200-600 or near the car -> Manfrotto 055.", "source": "maker spec pages and the load math above", "absentFrom": ["https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/", "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/", "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"]}
+    {
+      "type": "analysis",
+      "point": "Load headroom with real A7R V kits: 723 g body + 24-70 GM II (695 g) = 1,418 g; + 70-200 GM II (1,045 g) = 1,768 g; + 200-600 G (2,115 g) = 2,838 g. Peak Design (9.1 kg) gives 5.1x / 3.2x headroom with the 70-200 / 200-600 kits, Leofoto and Gitzo (10 kg) 5.7x / 3.5x, SIRUI and 055 (15 kg) 8.5x / 5.3x.",
+      "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications; Sony lens spec pages; maker spec pages",
+      "absentFrom": [
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+        "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Gitzo recommends the GT1545T for 135mm lenses and 200mm at most, despite its 10 kg payload, so it suits the 24-70 and 70-200 but not the 200-600.",
+      "source": "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/",
+        "https://www.sonyalphaforum.com/topic/3681-best-tripod-for-a7-series-under-13kg-28lb-and-over-130cm-height/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Pixel Shift Multi Shoot records 4 or 16 RAW frames; Sony says to secure the camera on a tripod and use a remote or the self-timer, and warns that shake or nearby movement stops the frames combining. Fix: columnless or column-down legs, no swinging bag, remote release.",
+      "source": "https://helpguide.sony.net/ilc/2230/v1/en/contents/TP0002925730.html",
+      "absentFrom": [
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://promediagear.com/blogs/guides/best-accessories-for-the-sony-a7r-v",
+        "https://packapop.com/blogs/youtube-success-blog/tripod-for-sony-a7-iv"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by lens and use: 24-70 and flights -> Peak Design; wind, ND and pixel shift -> Leofoto LS-284CX; lightest premium legs up to a 70-200 -> Gitzo GT1545T; own head already, low landscapes -> SIRUI AM-284; 200-600 or near the car -> Manfrotto 055.",
+      "source": "maker spec pages and the load math above",
+      "absentFrom": [
+        "https://forum.cameraegg.org/sony-forum/which-tripods-provide-the-best-stability-for-a-sony-a7r-v-61356/",
+        "https://forum.sony-rumors.com/full-frame-mirrorless-cameras/which-travel-tripods-are-ideal-for-the-sony-a7r-v-camera-54592/",
+        "https://www.photographypanel.com/sony-forum/what-are-the-best-travel-tripods-for-sony-a7r-cameras-95604/"
+      ]
+    }
   ],
   "stats": [
-    {"number": "723 g", "claim": "Sony A7R V weight with battery and memory card", "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications", "quote": "Weight (with battery and memory card included) Approx. 1 lb 9.6 oz (approx. 723 g)"},
-    {"number": "four or sixteen RAW images", "claim": "Pixel Shift Multi Shoot frame count; Sony says to secure the camera using a tripod", "url": "https://helpguide.sony.net/ilc/2230/v1/en/contents/TP0002925730.html", "quote": "You can create images with a higher resolution than is possible with regular shooting by recording four or sixteen RAW images"},
-    {"number": "200mm max.", "claim": "Gitzo's recommended lens range for the GT1545T", "url": "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/", "quote": "It is recommended for use with 135mm lenses (200mm max.)."},
-    {"number": "695 g", "claim": "Sony FE 24-70mm F2.8 GM II weight", "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications", "quote": "Weight 24.6 oz (695 g)"},
-    {"number": "1,045 g", "claim": "Sony FE 70-200mm F2.8 GM OSS II weight", "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications", "quote": "Weight 36.9 oz (1,045 g) (Without tripod mount)"},
-    {"number": "2,115 g", "claim": "Sony FE 200-600mm G weight", "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications", "quote": "Weight 74.7 oz (2,115 g)"}
+    {
+      "number": "723 g",
+      "claim": "Sony A7R V weight with battery and memory card",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm5/specifications",
+      "quote": "Weight (with battery and memory card included) Approx. 1 lb 9.6 oz (approx. 723 g)"
+    },
+    {
+      "number": "four or sixteen RAW images",
+      "claim": "Pixel Shift Multi Shoot frame count; Sony says to secure the camera using a tripod",
+      "url": "https://helpguide.sony.net/ilc/2230/v1/en/contents/TP0002925730.html",
+      "quote": "You can create images with a higher resolution than is possible with regular shooting by recording four or sixteen RAW images"
+    },
+    {
+      "number": "200mm max.",
+      "claim": "Gitzo's recommended lens range for the GT1545T",
+      "url": "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/",
+      "quote": "It is recommended for use with 135mm lenses (200mm max.)."
+    },
+    {
+      "number": "695 g",
+      "claim": "Sony FE 24-70mm F2.8 GM II weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
+      "quote": "Weight 24.6 oz (695 g)"
+    },
+    {
+      "number": "1,045 g",
+      "claim": "Sony FE 70-200mm F2.8 GM OSS II weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications",
+      "quote": "Weight 36.9 oz (1,045 g) (Without tripod mount)"
+    },
+    {
+      "number": "2,115 g",
+      "claim": "Sony FE 200-600mm G weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel200600g/specifications",
+      "quote": "Weight 74.7 oz (2,115 g)"
+    }
   ],
   "videos": [
-    {"id": "qNU6xSOw0TM", "title": "NEW Sony a7R V - Tips & Tricks for Pixel Shift Multi Shooting for Stunning Images", "channel": "@mathphotographer", "url": "https://www.youtube.com/watch?v=qNU6xSOw0TM", "section": "How to set up a tripod for A7R V pixel shift and long exposures"}
+    {
+      "id": "qNU6xSOw0TM",
+      "title": "NEW Sony a7R V - Tips & Tricks for Pixel Shift Multi Shooting for Stunning Images",
+      "channel": "@mathphotographer",
+      "url": "https://www.youtube.com/watch?v=qNU6xSOw0TM",
+      "section": "How to set up a tripod for A7R V pixel shift and long exposures"
+    }
   ],
   "pendingInlinks": [
-    {"slug": "best-tripod-for-sony-a7iv", "find": "The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice.", "replace": "The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice; the GT1545T does make our [tripods for the Sony A7R V](/blog/best-tripod-for-sony-a7r-v/)."},
-    {"slug": "best-tripod-for-nikon-z8", "find": "A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure.", "replace": "A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure, and why our [Sony A7R V tripod picks](/blog/best-tripod-for-sony-a7r-v/) favor stiff legs over big ratings."}
+    {
+      "slug": "best-tripod-for-sony-a7iv",
+      "find": "The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice.",
+      "replace": "The Benro Mach3 and Gitzo GT1545T also came up, but no single model of either was named twice; the GT1545T does make our [tripods for the Sony A7R V](/blog/best-tripod-for-sony-a7r-v/).",
+      "appliedAt": "2026-11-03T16:24:49.750Z"
+    },
+    {
+      "slug": "best-tripod-for-nikon-z8",
+      "find": "A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure.",
+      "replace": "A load rating is static, though, which is why Gitzo's 200mm advice matters more than its 18 kg figure, and why our [Sony A7R V tripod picks](/blog/best-tripod-for-sony-a7r-v/) favor stiff legs over big ratings.",
+      "appliedAt": "2026-11-03T16:24:50.777Z"
+    }
   ],
   "textrazor": "data/briefs/best-tripod-for-sony-a7r-v.entities.json (5 top pages, sharedEntities copied with relevance as salience)"
 }

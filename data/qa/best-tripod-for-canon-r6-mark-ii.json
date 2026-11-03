@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-r6-mark-ii",
   "pass": true,
-  "checkedAt": "2026-11-02T11:30:50.559Z",
+  "checkedAt": "2026-11-03T16:24:48.475Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,13 +9,16 @@
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Slim Carbon Fiber Tripod Kit (TSL08CN00)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration \"Hands mounting a telephoto lens by its t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "illustration \"Photographer lowering the center column \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-02 via Firecrawl: R6 Mark II 670 g with card and battery (canon-europe spec page); RF 24-105 F4L approx 700 g (global.canon museum); RF 70-200 F2.8L approx 1,070 g (canon-europe developers interview); RF 100-500 1530 g with tripod mount (canon-europe lens page); kit sums 1,370/1,740/2,200 g and headroom ratios recomputed. Peak Design carbon: 20 lb, 60 in max, 5.5 in min, 15.5 in folded, 2.8 lb, 5 sections, Arca-type plate (B&H specs), 51.25 in column down (Peak Design/130.2 cm). Befree Advanced lever: 19.8 lb, 59.1 in, 15.8 in min, 15.7 in folded, 3.6 lb, 4 sections, 494 head with pan and friction knobs, RC2/Arca plate (B&H); 50.4 in column down (Manfrotto manual). Leofoto LS-284CX+LH-30: 22 lb, 6.3-67.7 in with detachable column, 22 in folded, 3.2 lb, 4-section twist locks, no column (B&H); 51.97 in without column (Leofoto USA). Vanguard Alta Pro 2+ 263AB G2: 22 lb, 8.4-68.2 in, 28.3 in folded, 4.8 lb, 3-section twist, BH-60 Arca head (B&H), 26 mm legs and 55.6 in column down (Vanguard/Amazon listing, existing site data). Benro TSL08CN00: 8.8 lb, 57.6 in, 48.4 in column down, 15.7 in min, 20.1 in folded, 2.2 lb, 4-section half-turn twist locks (B&H). Amazon US listings checked in stock: B085BQTQMN (ships from Amazon), B0772WLSHZ (sold by Amazon.com), B0DQNKMF8Y (Leofoto store), B0FXN2JLPM (sold by Amazon.com), B071JYLS7K (ships from Amazon). Owner claims checked against Canon Rumors R6 II thread, DPReview R6 thread (quotes verbatim), B&H review pages, DPReview Alta Pro 2+ thread; top-10 recommendations checked on Packapop, lens-rumors, Canon Rumors, DPReview.",
-    "at": "2026-11-02T11:30:49.945Z",
-    "hash": "5dc36012d6653d68"
+    "notes": "added one internal link to best-tripod-for-canon-r8, no claim changed",
+    "at": "2026-11-03T16:24:47.929Z",
+    "hash": "7e0cd29f94da2996"
   }
 }
