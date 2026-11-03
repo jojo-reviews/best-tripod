@@ -178,5 +178,45 @@
   "best-tripod-for-sony-a7iv": {
     "at": "2026-11-02T17:58:04.557Z",
     "note": "TextRazor semantic pass 2026-11-02"
+  },
+  "best-tripod-for-fujifilm-x-t5": {
+    "at": "2026-11-03T17:54:08.611Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-for-sony-zv-e10": {
+    "at": "2026-11-03T17:54:09.170Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-for-sony-a6700": {
+    "at": "2026-11-03T17:54:09.696Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-for-nikon-z8": {
+    "at": "2026-11-03T17:54:10.223Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-for-binoculars": {
+    "at": "2026-11-03T17:54:10.754Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-for-filming-sports": {
+    "at": "2026-11-03T17:54:11.281Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "how-to-weigh-down-a-tripod-without-a-sandbag": {
+    "at": "2026-11-03T17:54:11.838Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "best-tripod-feet-for-sand-snow-and-rock": {
+    "at": "2026-11-03T17:54:12.388Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "how-to-clean-tripod-legs-after-the-beach": {
+    "at": "2026-11-03T17:54:12.969Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "leveling-base-vs-leveling-column": {
+    "at": "2026-11-03T17:54:13.542Z",
+    "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
   }
 }

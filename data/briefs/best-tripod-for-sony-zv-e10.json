@@ -13,7 +13,7 @@
       "name": "Sony ZV-E10",
       "type": "camera",
       "relation": "APS-C vlogging camera, approx. 343 g with battery and card",
-      "salience": 0.95
+      "salience": 0.7
     },
     {
       "name": "Sony ZV-E10 II",
@@ -86,6 +86,30 @@
       "type": "standard",
       "relation": "quick-release plate standard on the Peak Design head",
       "salience": 0.35
+    },
+    {
+      "name": "Tripod",
+      "type": "concept",
+      "relation": "three-legged camera support; the central entity's head noun",
+      "salience": 0.75
+    },
+    {
+      "name": "Vlog",
+      "type": "activity",
+      "relation": "video blogging, the ZV-E10's core use",
+      "salience": 0.66
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the PIXI EVO tabletop tripod",
+      "salience": 0.65
+    },
+    {
+      "name": "Sony",
+      "type": "brand",
+      "relation": "maker of the ZV-E10 and the GP-VPT2BT grip",
+      "salience": 0.61
     }
   ],
   "attributes": [
@@ -97,7 +121,9 @@
     "cold shoe for a mic",
     "Bluetooth record and zoom controls",
     "leg type (flexible, rigid mini, full-size)",
-    "vertical video mode"
+    "vertical video mode",
+    "compatibility with restrictions (Sony)",
+    "front-heavy lens balance"
   ],
   "ngrams": [
     "tripod for sony zv-e10",
@@ -109,7 +135,9 @@
     "sigma 16mm",
     "kit lens",
     "eye level",
-    "cold shoe"
+    "cold shoe",
+    "travel tripod",
+    "talking head"
   ],
   "skipgrams": [
     "e10…tripod",
@@ -127,7 +155,10 @@
     "walk and talk",
     "wireless remote",
     "travel tripod",
-    "column down"
+    "column down",
+    "Arca-Swiss",
+    "compact tripod",
+    "1/4 in screw"
   ],
   "questions": [
     "What is the best tripod for the Sony ZV-E10?",
@@ -494,5 +525,5 @@
       "appliedAt": "2026-10-29T19:43:24.722Z"
     }
   ],
-  "textrazor": "skipped: TEXTRAZOR_API_KEY is not set in this environment; salience estimated from how many top pages give the entity a heading or definition"
+  "textrazor": "2026-11-03 semantic pass: TextRazor on 3 of 5 top US pages (CameraEgg, Sony Rumors forum, Sony compatibility; Reddit and B&H blocked). Shared: Tripod 0.75, Sony ZV-E10 0.70, Vlog 0.66, Manfrotto 0.65, Sony 0.61. missingFromPost: none. Raw: data/briefs/best-tripod-for-sony-zv-e10.entities.json"
 }

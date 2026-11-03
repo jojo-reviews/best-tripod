@@ -1,3 +1,60 @@
 {
-  "skipped": "TEXTRAZOR_API_KEY is not set in this environment"
+  "keyword": "best tripod for sony zv-e10",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.75,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+    },
+    {
+      "entity": "Sony ZV-E10",
+      "type": "Device",
+      "pages": 2,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Sony_ZV-E10"
+    },
+    {
+      "entity": "Vlog",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Vlog"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+    },
+    {
+      "entity": "Sony",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Sony"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Camera"
+    }
+  ],
+  "missingFromPost": [],
+  "errors": [
+    "https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5r",
+    "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-the-Ulanzi-2783/1684293-REG-96597: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...<"
+  ]
 }

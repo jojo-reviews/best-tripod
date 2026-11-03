@@ -18,13 +18,13 @@
       "name": "tripod for Nikon Z8",
       "type": "central entity",
       "relation": "what the searcher wants to buy",
-      "salience": 1
+      "salience": 0.8
     },
     {
       "name": "Nikon Z8",
       "type": "camera",
       "relation": "full-frame mirrorless body, approx. 910 g with battery and card",
-      "salience": 0.95
+      "salience": 0.87
     },
     {
       "name": "Nikon Z9",
@@ -66,13 +66,13 @@
       "name": "Leofoto LS-284CX",
       "type": "product",
       "relation": "columnless carbon travel kit named in Z8 forum threads",
-      "salience": 0.7
+      "salience": 0.55
     },
     {
       "name": "Leofoto LS-324CX",
       "type": "product",
       "relation": "columnless 32 mm carbon tripod named for Z8 landscapes and wildlife",
-      "salience": 0.6
+      "salience": 0.55
     },
     {
       "name": "Gitzo GT1542 Mountaineer",
@@ -115,6 +115,60 @@
       "type": "leg lock",
       "relation": "on the Peak Design and Befree",
       "salience": 0.3
+    },
+    {
+      "name": "Nikon",
+      "type": "company",
+      "relation": "camera and NIKKOR Z lens maker; source of body and lens weights",
+      "salience": 0.51
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg material of four of the five picks; lighter than the aluminum Befree",
+      "salience": 0.62
+    },
+    {
+      "name": "camera",
+      "type": "product category",
+      "relation": "the Z8 body the tripod carries",
+      "salience": 0.58
+    },
+    {
+      "name": "gear",
+      "type": "product category",
+      "relation": "camera, lens and tripod kit the owner carries",
+      "salience": 0.57
+    },
+    {
+      "name": "Leofoto",
+      "type": "company",
+      "relation": "maker of the LS-284CX and LS-324CX columnless carbon tripods",
+      "salience": 0.55
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "ball head or gimbal head on top of the legs; GT1542 ships without one",
+      "salience": 0.47
+    },
+    {
+      "name": "Nikon Z-mount",
+      "type": "standard",
+      "relation": "lens mount of the NIKKOR Z 24-120, 70-200 and 180-600",
+      "salience": 0.47
+    },
+    {
+      "name": "photography",
+      "type": "activity",
+      "relation": "landscape and wildlife photography with a Z8",
+      "salience": 0.4
+    },
+    {
+      "name": "photographer",
+      "type": "person",
+      "relation": "Z8 owners in the forum threads",
+      "salience": 0.37
     }
   ],
   "attributes": [
@@ -127,7 +181,9 @@
     "top tube diameter",
     "leg lock type with gloves",
     "Arca-Swiss compatibility for a Z8 L-bracket",
-    "ball head vs gimbal head"
+    "ball head vs gimbal head",
+    "carbon fiber vs aluminum weight",
+    "tripod head included or legs only"
   ],
   "ngrams": [
     "tripod for nikon z8",
@@ -142,7 +198,11 @@
     "180-600",
     "leg locks",
     "peak design travel tripod",
-    "gimbal head"
+    "gimbal head",
+    "carbon fiber tripod",
+    "tripod head",
+    "nikon z-mount",
+    "nikon z8 tripod"
   ],
   "skipgrams": [
     "tripod…Z8",
@@ -150,7 +210,10 @@
     "carbon…vibration",
     "arca…bracket",
     "lens…weight",
-    "load…rating"
+    "load…rating",
+    "carbon…weight",
+    "tripod…head",
+    "lens…load"
   ],
   "nlpTerms": [
     "Nikon",
@@ -179,7 +242,16 @@
     "wildlife",
     "carry-on",
     "twist lock",
-    "flip lock"
+    "flip lock",
+    "Leofoto",
+    "Gitzo",
+    "Peak Design",
+    "Manfrotto",
+    "Z-mount",
+    "NIKKOR",
+    "tripod head",
+    "gear",
+    "photographer"
   ],
   "questions": [
     "What is the best tripod for a Nikon Z8?",
@@ -605,6 +677,25 @@
     }
   ],
   "textrazor": {
-    "skipped": "TEXTRAZOR_API_KEY is not set in this environment (2026-10-29); salience estimated from how many top pages give the entity a heading or definition"
+    "date": "2026-11-03",
+    "keyword": "best tripod for nikon z8",
+    "pagesAnalyzed": 3,
+    "urls": [
+      "https://packapop.com/blogs/youtube-success-blog/tripod-for-nikon-z8",
+      "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+      "https://www.transcontinenta.co.uk/en/blog/3-best-nikon-z8-accessories.html"
+    ],
+    "failed": [
+      "reddit.com (blocked)",
+      "bcgforums.com (Cloudflare)"
+    ],
+    "missingFromPost": [
+      "Gear",
+      "SD card"
+    ],
+    "ignoredNoise": [
+      "SD card (memory card, unrelated to tripods)"
+    ],
+    "file": "data/briefs/best-tripod-for-nikon-z8.entities.json"
   }
 }

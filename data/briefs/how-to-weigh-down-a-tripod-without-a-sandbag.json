@@ -12,49 +12,55 @@
       "name": "tripod",
       "type": "Product",
       "relation": "central entity",
-      "salience": 0.87
+      "salience": 1
+    },
+    {
+      "name": "counterweight",
+      "type": "Concept",
+      "relation": "what the added weight is",
+      "salience": 0.89
     },
     {
       "name": "weight",
       "type": "Concept",
       "relation": "what is added",
-      "salience": 0.74
+      "salience": 0.78
     },
     {
       "name": "center of gravity",
       "type": "Concept",
       "relation": "what added weight lowers",
-      "salience": 0.67
+      "salience": 0.62
     },
     {
-      "name": "sandbag",
-      "type": "Product",
-      "relation": "the item being replaced",
-      "salience": 0.66
+      "name": "center of mass",
+      "type": "Concept",
+      "relation": "what a counterweight lowers (TextRazor)",
+      "salience": 0.62
     },
     {
       "name": "camera",
       "type": "Product",
       "relation": "payload on the tripod",
-      "salience": 0.56
-    },
-    {
-      "name": "gravity",
-      "type": "Concept",
-      "relation": "pulls the weight down",
-      "salience": 0.51
+      "salience": 0.61
     },
     {
       "name": "lens",
       "type": "Product",
       "relation": "payload, shifts balance",
-      "salience": 0.47
+      "salience": 0.61
     },
     {
-      "name": "vibration",
+      "name": "wind",
       "type": "Concept",
-      "relation": "what weight is meant to reduce",
-      "salience": 0.41
+      "relation": "force that tips the tripod",
+      "salience": 0.55
+    },
+    {
+      "name": "gravity",
+      "type": "Concept",
+      "relation": "pulls the weight down",
+      "salience": 0.45
     },
     {
       "name": "center column hook",
@@ -63,10 +69,22 @@
       "salience": 0.45
     },
     {
+      "name": "telephoto lens",
+      "type": "Product",
+      "relation": "heavy payload that shifts the center of mass forward",
+      "salience": 0.41
+    },
+    {
       "name": "bungee cord",
       "type": "Product",
       "relation": "tensioned tether to a ground weight",
       "salience": 0.4
+    },
+    {
+      "name": "long-exposure photography",
+      "type": "Concept",
+      "relation": "use case that needs a still tripod",
+      "salience": 0.36
     },
     {
       "name": "tent stake",
@@ -75,10 +93,16 @@
       "salience": 0.35
     },
     {
-      "name": "water bottle",
+      "name": "tripod head",
+      "type": "Part",
+      "relation": "holds the camera; counts against load capacity",
+      "salience": 0.33
+    },
+    {
+      "name": "sandbag",
       "type": "Product",
-      "relation": "weight carried empty, filled on site",
-      "salience": 0.35
+      "relation": "the item being replaced",
+      "salience": 0.32
     },
     {
       "name": "damping",
@@ -91,6 +115,24 @@
       "type": "Attribute",
       "relation": "limit that includes the counterweight",
       "salience": 0.3
+    },
+    {
+      "name": "anchor",
+      "type": "Concept",
+      "relation": "tent stake or crack that holds the tether",
+      "salience": 0.29
+    },
+    {
+      "name": "vibration",
+      "type": "Concept",
+      "relation": "what weight is meant to reduce",
+      "salience": 0.24
+    },
+    {
+      "name": "water bottle",
+      "type": "Product",
+      "relation": "weight carried empty, filled on site",
+      "salience": 0.22
     }
   ],
   "attributes": [
@@ -100,7 +142,9 @@
     "tension of the tether",
     "attachment point (hook, apex, legs)",
     "load capacity",
-    "ground type (rock, sand, grass)"
+    "ground type (rock, sand, grass)",
+    "center of mass",
+    "attachment point under the tripod head"
   ],
   "ngrams": [
     "center of gravity",
@@ -112,14 +156,18 @@
     "bungee cord",
     "weigh down a tripod",
     "center column hook",
-    "load capacity"
+    "load capacity",
+    "center of mass",
+    "long exposure"
   ],
   "skipgrams": [
     "weight…ground",
     "bag…hook",
     "cord…taut",
     "tripod…wind",
-    "bottle…liter"
+    "bottle…liter",
+    "counterweight…hook",
+    "lens…center of mass"
   ],
   "nlpTerms": [
     "counterweight",
@@ -133,7 +181,11 @@
     "gust",
     "apex",
     "guy line",
-    "mesh bag"
+    "mesh bag",
+    "telephoto lens",
+    "tripod head",
+    "anchor",
+    "center of mass"
   ],
   "questions": [
     "What can I use instead of a sandbag on a tripod?",
@@ -448,6 +500,10 @@
       "appliedAt": "2026-10-30T02:20:03.980Z"
     }
   ],
-  "textrazor": "ran on Ulanzi, The Slanted Lens and The Center Column (dpreview and Medium blocked the fetcher); sharedEntities in data/briefs/how-to-weigh-down-a-tripod-without-a-sandbag.entities.json",
+  "textrazor": {
+    "date": "2026-11-03",
+    "pagesAnalyzed": 1,
+    "note": "Only Ulanzi fetched; DPReview/Reddit/Medium/Quora blocked. Noise ignored: Gear, Hand-held camera, Cinematography, Photography, Exposure (photography)."
+  },
   "postType": "guide"
 }

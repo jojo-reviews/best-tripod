@@ -11,6 +11,34 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "product type",
+      "relation": "three-legged camera support; the central entity's parent concept",
+      "salience": 0.95,
+      "textrazor": "Tripod (photography)"
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "what the tripod holds: AI camera, mirrorless body, camcorder or phone",
+      "salience": 0.71,
+      "textrazor": "Camera"
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "working height decides sideline vs bleachers vs whole-field AI view",
+      "salience": 0.38,
+      "textrazor": "Height"
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "leg and mast material of all five picks",
+      "salience": 0.3,
+      "textrazor": "Aluminium"
+    },
+    {
       "name": "fluid head",
       "type": "component",
       "relation": "oil-damped pan and tilt head that keeps game pans smooth"
@@ -75,7 +103,9 @@
     "folded length and weight",
     "leg locks",
     "75mm bowl leveling",
-    "quick release plate type"
+    "quick release plate type",
+    "aluminum legs and mast",
+    "AI camera mount thread (1/4-20, 3/8 in)"
   ],
   "ngrams": [
     "tripod for filming sports",
@@ -88,7 +118,11 @@
     "bleachers",
     "counterbalance",
     "pan and tilt",
-    "sandbag"
+    "sandbag",
+    "sports tripod",
+    "camera height",
+    "heavy duty tripod",
+    "overhead shots"
   ],
   "skipgrams": [
     "tripod…sports",
@@ -96,7 +130,9 @@
     "tall…wind",
     "height…bleachers",
     "ball head…panning",
-    "payload…counterbalance"
+    "payload…counterbalance",
+    "camera…height",
+    "aluminum…tripod"
   ],
   "nlpTerms": [
     "sideline",
@@ -117,7 +153,10 @@
     "telephoto",
     "camcorder",
     "phone mount",
-    "monopod"
+    "monopod",
+    "overhead shots",
+    "heavy duty",
+    "action camera"
   ],
   "questions": [
     "What kind of tripod is best for filming sports?",
@@ -509,5 +548,10 @@
       "date": "2026-10-29",
       "note": "Queue productCount was 11; only 5 products met the 2+ pages + in-stock Amazon US rule, so the post features 5 (owner minimum)."
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-03",
+    "source": "TextRazor, 4 of top 5 pages (Amazon, Glide Gear, YouTube, Ulanzi; Reddit blocked)",
+    "missingFromPost": []
+  }
 }

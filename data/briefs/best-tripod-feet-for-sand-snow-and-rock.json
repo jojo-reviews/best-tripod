@@ -13,8 +13,8 @@
     {
       "name": "tripod feet",
       "type": "product type",
-      "relation": "central entity: interchangeable feet that screw into or strap onto tripod legs (TextRazor top entity: Tripod (photography), relevance 0.96, 2 of 2 readable pages)",
-      "salience": 0.96
+      "relation": "central entity: interchangeable feet that screw into or strap onto tripod legs (TextRazor 2026-11-03: Tripod (photography), relevance 0.77, 3 of 5 pages)",
+      "salience": 0.77
     },
     {
       "name": "tripod spikes",
@@ -49,14 +49,14 @@
     {
       "name": "Gitzo",
       "type": "brand",
-      "relation": "TextRazor shared entity (relevance 0.67); sells spikes, big feet and snow shoes",
-      "salience": 0.67
+      "relation": "TextRazor shared entity (relevance 0.62, 3 pages); Lincoln Harrison runs Gitzo spikes and sand/mud feet on a GT3532S; Gitzo sells spikes in several lengths (Lens Notes)",
+      "salience": 0.62
     },
     {
       "name": "Leofoto",
       "type": "brand",
-      "relation": "maker of TFS-US spikes, TFC claws and TFW/TFW-2 snow shoes",
-      "salience": 0.45
+      "relation": "TextRazor shared entity (relevance 0.85, 2 pages); maker of TFS-US spikes, rock claws and TFW-2 snow shoes",
+      "salience": 0.85
     },
     {
       "name": "Really Right Stuff",
@@ -87,6 +87,30 @@
       "type": "component",
       "relation": "keeps feet from backing out and keeps sand out of threads (RRS ABP, ScottymanPhoto)",
       "salience": 0.3
+    },
+    {
+      "name": "sand",
+      "type": "surface",
+      "relation": "TextRazor shared entity (relevance 0.5, 3 pages); wet sand needs spikes driven ~4 in down, dry sand needs discs",
+      "salience": 0.5
+    },
+    {
+      "name": "snow",
+      "type": "surface",
+      "relation": "TextRazor shared entity (relevance 0.32, 2 pages); spikes sink, snow shoes or baskets float",
+      "salience": 0.32
+    },
+    {
+      "name": "monopod",
+      "type": "product type",
+      "relation": "TextRazor shared entity (relevance 0.41, 2 pages; was missingFromPost); 3/8\" screw-in feet fit any tripod or monopod with that socket (Lens Notes)",
+      "salience": 0.41
+    },
+    {
+      "name": "sand/snow baskets",
+      "type": "component",
+      "relation": "small discs that clip onto spikes (ProMaster XC-M All Terrain Feet, Gitzo sand feet)",
+      "salience": 0.3
     }
   ],
   "attributes": [
@@ -99,7 +123,9 @@
     "material (stainless steel, aluminum, plastic)",
     "removable rubber cap",
     "tool needed to swap",
-    "fit (universal strap vs specific leg tube)"
+    "fit (universal strap vs specific leg tube)",
+    "basket or disc that clips onto a spike",
+    "weight per assembled foot"
   ],
   "ngrams": [
     "tripod feet",
@@ -115,7 +141,12 @@
     "set of 3",
     "3/8 thread",
     "claw feet",
-    "tripod legs"
+    "tripod legs",
+    "sand feet",
+    "all terrain feet",
+    "snow baskets",
+    "interchangeable feet",
+    "3/8 inch thread"
   ],
   "skipgrams": [
     "spikes…sand",
@@ -125,7 +156,10 @@
     "rubber…floor",
     "legs…sand",
     "spike…ice",
-    "swap…feet"
+    "swap…feet",
+    "baskets…spikes",
+    "monopod…thread",
+    "drive…sand"
   ],
   "nlpTerms": [
     "traction",
@@ -149,7 +183,14 @@
     "hex key",
     "stainless steel",
     "corrosion",
-    "saltwater"
+    "saltwater",
+    "beach",
+    "dirt",
+    "grass",
+    "wood floors",
+    "spanner",
+    "composition",
+    "bracket"
   ],
   "questions": [
     "What are the best tripod feet for sand?",
@@ -520,16 +561,16 @@
     }
   ],
   "textrazor": {
-    "date": "2026-10-30",
-    "pagesAnalyzed": 2,
+    "date": "2026-11-03",
+    "pagesAnalyzed": 5,
     "urls": [
+      "https://www.xc-m.promaster.com/3510",
+      "https://leofotooutdoors.com/collections/tripod-feet",
       "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
-      "https://lensnotes.com/photography/tripod-spikes/",
-      "https://www.dpreview.com/forums/threads/spikes-versus-rubber-feet-on-tripod.4545421/",
-      "https://bcgforums.com/threads/to-spike-or-not.8525/",
-      "https://photographylife.com/how-to-make-tripod-more-stable"
+      "https://dyacon.com/product/sand-and-snow-tripod-plates/",
+      "https://lensnotes.com/photography/tripod-spikes/"
     ],
-    "note": "DPReview, BCG and Photography Life blocked the TextRazor fetch; shared entities came from the 2 readable pages (Tripod (photography) 0.96, Gitzo 0.67). Other saliences estimated from headings across the 5 pages."
+    "note": "Live top results (US, 2026-11-03): Reddit, BCG and DPReview blocked the fetch and the two YouTube results have no text, so the next readable ranking pages (Lincoln Harrison #7, Dyacon #9) and Lens Notes were used. Shared: Tripod (photography) 0.77, Leofoto 0.85, Gitzo 0.62, Sand 0.5, Monopod 0.41 (missing, added), Snow 0.32."
   },
   "pendingInlinks": [
     {

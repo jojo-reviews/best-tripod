@@ -1,23 +1,19 @@
 {
   "slug": "best-tripod-for-filming-sports",
   "pass": true,
-  "checkedAt": "2026-11-03T16:29:03.374Z",
+  "checkedAt": "2026-11-03T17:51:27.195Z",
   "errors": [],
   "warnings": [
     "product \"Glide Gear TST 20 Sky High Tall Video Camera Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP75 Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
-    "source didn't respond normally (403): https://www.kenrockwell.com/tech/smallrig/ad-01.htm",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/"
+    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-sony-fx3, no claim changed",
-    "at": "2026-11-01T17:45:40.176Z",
-    "hash": "9181862a910eede5"
+    "notes": "semantic pass 2026-11-03 (TextRazor, 4 of top 5 pages; missingFromPost empty): added tripod/aluminum/tall tripod stand/Veo camera/overhead shots/twin-tube legs/telephoto/phone mount wording; first H2 now comparison table 'Tripod for filming sports: height and load compared' (picks-at-a-glance removed); section openers rewritten as answers; duplicate closing verdict dropped (bowl link moved); 'video below' fixed; no new prices/ratings/tests; review only",
+    "at": "2026-11-03T17:51:58.125Z",
+    "hash": "f4aa5e795a827814"
   }
 }

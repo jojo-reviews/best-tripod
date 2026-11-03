@@ -340,7 +340,7 @@ sources:
     url: 'https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/'
   - title: 'Mark Denney, 6 Essential Tripod Accessories for Landscape Photography'
     url: 'https://www.youtube.com/watch?v=IL4bL--NUk8'
-reviewedDate: '2026-10-30'
+reviewedDate: '2026-11-03'
 faqs:
   - q: What are the best tripod feet for sand?
     a: >-
@@ -374,6 +374,7 @@ illustrations:
       wave washing around the foot, low side angle, soft overcast light, no
       faces, no logos.
     alt: Hands pushing a spiked tripod foot several inches into wet beach sand
+    caption: Drive each spike about 4 in into wet sand.
     afterHeading: 3
   - prompt: >-
       Close-up of a toothed metal claw tripod foot seated firmly on a wet dark
@@ -381,6 +382,7 @@ illustrations:
       hand checking the leg for wobble, shallow depth of field, cool morning
       light, no logos.
     alt: A claw tripod foot gripping wet granite next to a stream
+    caption: Seat each claw on rough rock, not slick moss.
     afterHeading: 4
   - prompt: >-
       Gloved hands wrapping the rubber strap of a round black plastic snow shoe
@@ -388,6 +390,7 @@ illustrations:
       two legs already on discs, bright winter daylight, close side angle, no
       logos or text.
     alt: Gloved hands strapping a snow shoe disc to a tripod leg in deep snow
+    caption: Strap the disc on before the leg goes into snow.
     afterHeading: 5
   - prompt: >-
       Hands using a small hex key through the hole in a steel tripod spike foot
@@ -395,6 +398,7 @@ illustrations:
       feet on a rock beside it, sand grains on the threads, close-up, natural
       light, no logos.
     alt: Hands unscrewing a tripod spike foot with a hex key and storing the cap
+    caption: Turn the foot with a hex key and pouch the cap.
     afterHeading: 6
 videos:
   - id: htDj1Y5YVsA
@@ -410,9 +414,9 @@ heroAlt: >-
 
 The best tripod feet for sand, snow and rock are three different feet: long spikes for wet sand, rock claws for wet rock, and wide snow shoes for powder and dry sand. I matched five sets to the surface each handles best. If you still need the legs themselves, start with our [tripods for landscape photography](/blog/landscape-photography-tripod/).
 
-## Best tripod feet for sand, snow and rock at a glance
+## Tripod feet by surface: footprint and fit
 
-**Tripod feet should match the ground: spikes dig in, claws bite, snow shoes float.** Rubber feet slide on ice and wear out on rock.
+**Tripod feet should match the ground: spikes dig into sand, claws bite rock, snow shoes float on snow.** Stock rubber feet slide on ice and wear out on rock.
 
 | Tripod feet | Type | Best surface | Fit |
 |---|---|---|---|
@@ -424,27 +428,27 @@ The best tripod feet for sand, snow and rock are three different feet: long spik
 
 ## The 5 best tripod feet, pick by pick
 
-**Each pick below solves one surface; most landscape shooters need two.**
+**Each type of tripod feet solves one surface, so most landscape shooters carry two sets.**
 
 ### Leofoto TFS-US Long Spike Set: Best tripod feet for sand and soft ground
 
-The Leofoto TFS-US Long Spike Set is a set of three screw-in spiked tripod feet from Leofoto. Each [Leofoto TFS-US Long Spike Set](amzn:Leofoto+TFS-US+long+spike+set) spike is 113 mm (4.44 in) long on a 3/8" thread, and the set weighs 324 g. On a beach, sand a few inches down is firm, and the spike reaches it before the leg tube does. I like the removable rubber caps for floors and packing. Landscape photographer Hudson Henry carries these and praises the caps, though he warns that they are small and need tracking. He also shows that plain spikes keep sinking in snow, so I pair them with a disc for winter.
+The Leofoto TFS-US Long Spike Set is a set of three screw-in spiked tripod feet from Leofoto. Each [Leofoto TFS-US Long Spike Set](amzn:Leofoto+TFS-US+long+spike+set) spike is 113 mm (4.44 in) long on a 3/8" thread, and the set weighs 324 g. Wet sand a few inches down is firm, and the spike reaches it before the leg tube does. The removable rubber caps cover the points for wood floors and packing. Hudson Henry carries these and praises the caps, but warns they are small and easy to lose. Plain spikes keep sinking in snow, so I pair them with a disc for winter.
 
 ### Really Right Stuff Rock Claw Tripod Foot Set: Best tripod feet for wet rock
 
-The Really Right Stuff Rock Claw Tripod Foot Set is a set of three stainless steel claw tripod feet from Really Right Stuff. Each [Really Right Stuff Rock Claw Tripod Foot Set](amzn:Really+Right+Stuff+rock+claw+tripod+foot+set) claw is [1.2 in (31 mm) wide and 15 mm tall](https://reallyrightstuff.com/footclaws/), weighs 44 g and fits any 3/8"-16 socket that sits flush with the leg end. Scalloped teeth grip granite where a single spike point slides. ABP O-rings stop the feet backing out. ScottymanPhoto put claws on two tripods and never swapped them back, but he still prefers long spikes when the tide washes over the legs. I'd pick this set if most of my shots start in a stream.
+The Really Right Stuff Rock Claw Tripod Foot Set is a set of three stainless steel claw tripod feet from Really Right Stuff. Each [Really Right Stuff Rock Claw Tripod Foot Set](amzn:Really+Right+Stuff+rock+claw+tripod+foot+set) claw is [1.2 in (31 mm) wide and 15 mm tall](https://reallyrightstuff.com/footclaws/), weighs 44 g and fits any 3/8"-16 socket that sits flush with the leg end. Scalloped teeth grip wet granite where a single spike point skids, and ABP O-rings stop the feet backing out. ScottymanPhoto left claws on two tripods, but still prefers long spikes when the tide washes over the legs. I'd pick this set if most of my shots start in a stream.
 
 ### Manfrotto 230 Tripod Snow Shoes: Best tripod feet for deep snow
 
-The Manfrotto 230 Tripod Snow Shoes are a set of three slip-on tripod snow shoes from Manfrotto. Each [Manfrotto 230 Tripod Snow Shoes](amzn:Manfrotto+230+tripod+snow+shoes) disc is [5.5 in (14 cm) across](https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html) and presses over the foot already on the leg, held by a rubber cord, so no tools are needed. A DPReview forum member used them for Cape Cod beach long exposures on a Slik Pro tripod and got the stability he needed. A B&H reviewer reports the cords wear out and are not sold alone, and a B&H answer warns they sit loose on thin Gitzo Series 1 legs. I'd buy these for winter long exposure work on mid-size legs.
+The Manfrotto 230 Tripod Snow Shoes are a set of three slip-on tripod snow shoes from Manfrotto. Each [Manfrotto 230 Tripod Snow Shoes](amzn:Manfrotto+230+tripod+snow+shoes) disc is [5.5 in (14 cm) across](https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html) and presses over the foot already on the leg, held by a rubber cord, so no tools are needed. A DPReview member used them for Cape Cod beach long exposures on a Slik Pro tripod. B&H owners report the cords wear out, are not sold alone and sit loose on thin Gitzo Series 1 legs. I'd buy these for winter long exposures on mid-size legs.
 
 ### Leofoto TFW-2 Snow Shoes: Best tripod feet for dry sand and snow on any leg
 
-The Leofoto TFW-2 Snow Shoes are a set of three strap-on tripod snow and sand shoes from Leofoto. Each [Leofoto TFW-2 Snow Shoes](amzn:Leofoto+TFW-2+snow+shoes+tripod) disc measures 144 mm by 67 mm and weighs 95 g, and two-piece rubber strings adjust to the leg diameter. That makes it my choice for tripods with fixed feet, which can't take screw-in spikes. Hudson Henry stamped them into snow near Mount St. Helens and found the tripod barely sank, but he calls them bulky in a pack and better for car-based trips. On Amazon it ships from a third-party seller, and I'd keep it for snow and soft sand, not rock.
+The Leofoto TFW-2 Snow Shoes are a set of three strap-on tripod snow and sand shoes from Leofoto. Each [Leofoto TFW-2 Snow Shoes](amzn:Leofoto+TFW-2+snow+shoes+tripod) disc measures 144 mm by 67 mm and weighs 95 g, and two-piece rubber strings adjust to the leg diameter. That makes it my choice for tripods with fixed rubber feet, which can't take screw-in spikes. Hudson Henry stamped them into snow near Mount St. Helens and the tripod barely sank, but he calls them bulky and better for car-based trips. On Amazon it ships from a third-party seller; I'd keep it for snow and dry sand, not rock.
 
 ### Manfrotto 204SPK3 Spiked Feet: Best tripod feet for Manfrotto 055 carbon legs
 
-The Manfrotto 204SPK3 Spiked Feet are a set of three rubber tripod feet with a retractable spike from Manfrotto. The [Manfrotto 204SPK3 Spiked Feet](amzn:Manfrotto+204SPK3+spiked+feet) fit Manfrotto's 20.4 mm tube on the 055CX3 and 055CXPRO3, and B&H answers add the 055XPROB and 3021. The rubber screws back to expose an anodized aluminum spike, so I switch between floor and dirt without a tool. One B&H owner uses them in forest soil and on rock. Another says older legs need tape to stop the feet spinning, which I'd do before a muddy shoot. An owner answer says they won't fit the 22.4 mm MT055XPRO3, and B&H lists no longer spike.
+The Manfrotto 204SPK3 Spiked Feet are a set of three rubber tripod feet with a retractable spike from Manfrotto. The [Manfrotto 204SPK3 Spiked Feet](amzn:Manfrotto+204SPK3+spiked+feet) fit Manfrotto's 20.4 mm tube on the 055CX3 and 055CXPRO3, and B&H answers add the 055XPROB and 3021. The rubber foot screws back to expose an anodized aluminum spike, so I switch between floor and dirt without a tool. One B&H owner uses them in forest soil and on rock; another tapes older legs to stop the feet spinning. They won't fit the 22.4 mm MT055XPRO3, and no longer spike is sold.
 
 ### Which tripod feet should you get
 
@@ -456,26 +460,26 @@ The Manfrotto 204SPK3 Spiked Feet are a set of three rubber tripod feet with a r
 
 ## How to set tripod feet in sand and surf
 
-**Drive tripod spikes down until they stop sinking, then compose.** A recurring r/photography tip: push the legs several inches in, or rest them on old CDs.
+**Tripod spikes hold in wet sand once driven about 4 in down, past the layer each wave washes away.** A recurring r/photography tip adds old CDs under the legs on a sandy creek bed.
 
 1. Fit long spikes, or a disc for dry sand.
 2. Angle the legs in slightly; driving them down spreads them.
 3. Push each foot about 4 in into wet sand, as Lincoln Harrison does with claws after some 15 beach shoots.
-4. Let a few waves pass before the long exposure.
+4. Let a few waves pass, then check the composition before the long exposure.
 
 ## How to keep tripod feet from slipping on wet rock
 
-**Use claws on rock, not spikes.** A Backcountry Gallery forum member reports spiked feet that skid on smooth granite; claws add traction through several teeth.
+**Rock claws grip wet rock better than tripod spikes, because several teeth share the load and add traction where one point skids.** A Backcountry Gallery forum member reports spiked feet that skid on smooth granite.
 
 1. Fit rock claws or keep rubber feet on.
 2. Seat each foot in a crack or rough patch, not on slick moss.
 3. Press on the head and watch live view for movement.
 
-The video below compares spikes, claws and rubber feet.
+ScottymanPhoto's video in this section compares spikes, claws and rubber feet.
 
 ## How to fit tripod snow shoes in deep snow
 
-**Strap a wide disc on before the legs go in.** A [5.7 in (144 mm) TFW-2 disc](https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html) has about 163 cm² of surface area against 7.5 cm² for a 31 mm claw. For a 4 kg rig, that is roughly 8 g/cm² versus 177 g/cm², so the legs sink far less.
+**Tripod snow shoes stop legs sinking in deep snow because a wide disc spreads the load far more than a claw or spike.** A [5.7 in (144 mm) TFW-2 disc](https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html) has about 163 cm² of surface area against 7.5 cm² for a 31 mm claw. For a 4 kg rig, that is roughly 8 g/cm² versus 177 g/cm², so the legs sink far less.
 
 1. Wrap the strap around the lowest leg section.
 2. Set the disc flat and stamp each leg in once.
@@ -483,15 +487,15 @@ The video below compares spikes, claws and rubber feet.
 
 ## How to swap tripod feet without losing one
 
-**Swap feet at the car, not on the trail.** Sand in the threads jams feet, and bare spikes cut through bags.
+**Swap tripod feet at the car, not on the trail: sand in the threads jams them and bare spikes cut through bags.** Most interchangeable feet use a standard 3/8" thread, so one set fits any tripod or monopod with a 3/8" thread socket, as Lens Notes explains. Gitzo also sells spikes in different lengths, plus sand feet that clip onto them.
 
 1. Check the leg end for a 3/8"-16 socket; our [hiking tripods with threaded feet](/blog/best-hiking-tripod/) note which legs take spikes.
 2. Turn the foot with the hex key through its hole.
-3. Rinse salt and sand off the threads, then keep caps and spares in one pouch.
+3. Rinse saltwater and sand off the threads, then keep caps and spares in one pouch.
 
 ## How I picked these tripod feet
 
-**I chose feet that landscape photographers name in their own write-ups and videos, then checked specs and fit.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing. This is research, not hands-on testing.
+**These tripod feet are the ones landscape photographers name in their own write-ups and videos, checked against maker specs.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing. This is research, not hands-on testing.
 
 > **From our notes:** A 144 mm Leofoto TFW-2 disc covers about 21 times the area of a 31 mm claw, a number we worked out from the two spec sheets. Picture a seascape shooter at low tide walking from wet sand onto a barnacled ledge: we would fit spikes for the sand, pack claws for the rock, and leave the snow shoes for winter.
 

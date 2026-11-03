@@ -1,34 +1,27 @@
 {
   "slug": "best-tripod-feet-for-sand-snow-and-rock",
   "pass": true,
-  "checkedAt": "2026-11-03T16:28:04.944Z",
+  "checkedAt": "2026-11-03T17:53:42.045Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: paragraph style: the review of \"Manfrotto 230 Tripod Snow Shoes\" is under ~100 words",
+    "LIVE POST, FIX: paragraph style: the review of \"Manfrotto 204SPK3 Spiked Feet\" is under ~100 words",
+    "LIVE POST, FIX: body has 1386 words, over the 1357 limit (top results average 1180): cut repetition and filler",
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Leofoto TFS-US Long Spike Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Really Right Stuff Rock Claw Tripod Foot Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 230 Tripod Snow Shoes\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto TFW-2 Snow Shoes\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 204SPK3 Spiked Feet\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hands pushing a spiked tripod foot sever\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A claw tripod foot gripping wet granite \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Gloved hands strapping a snow shoe disc \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands unscrewing a tripod spike foot wit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/631092-REG/Manfrotto_204SPK3_Retractable_Spiked_Feet_Set.html",
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://bcgforums.com/threads/to-spike-or-not.8525/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-30 against maker and retailer pages: Leofoto TFS-US 113 mm (4.44 in) length, 3/8 UNC thread, 324 g set, removable rubber caps and rubber washer (leofotooutdoors.com product page); RRS TA-3-FRC rock claw 1.2 in (31 mm) diameter, 0.6 in (15 mm) height, 1.6 oz (44 g), 3/8-16 stud, solid stainless steel, ABP O-rings, fits flush 3/8-16 sockets (reallyrightstuff.com/footclaws); Manfrotto 230 set of 3, 5.5 in (14 cm) diameter, fits by pressure over the existing foot, rubber cord, straps not sold separately, loose on Gitzo Series 1 legs (B&H page, reviews and Q&A); Leofoto TFW-2 144 x 67 mm (5.7 x 2.6 in), 95 g per shoe, two-piece rubber strings (B&H page); Manfrotto 204SPK3 fits D20.4 tube 055CX3/055CXPRO3, Q&A adds 055XPROB and 3021, owner says not MT055XPRO3 22.4 mm, 190 g, anodized aluminum spike, no longer spike (B&H page and Q&A). Owner statements checked in Hudson Henry video transcript (5vRwSwh4xTw), ScottymanPhoto transcript (htDj1Y5YVsA), Lincoln Harrison blog (4 in deep, about 15 beach shoots), BCG forum (spikes skid on granite), DPReview threads (Manfrotto 230 Cape Cod use, rocky surfaces chew rubber feet). Footprint math recomputed: pi*72^2=162.9 cm2, pi*15.5^2=7.55 cm2, 4 kg over 3 feet = 8.2 vs 176.6 g/cm2, ratio 21.6. Amazon US listings checked via Firecrawl Amazon offer data: B0B4TVSL3T in stock FBA, B000ER51YY and B002BSH2KA sold by Amazon, B08TLVDM35 in stock from EuroOptic, B0FCB6NGB9 live with other buying options only. No prices, ratings or testing claims. Re-checked after final trims (wording only, no new facts).",
-    "at": "2026-10-30T02:19:27.292Z",
-    "hash": "bc56c79f70b07655"
+    "notes": "Semantic pass 2026-11-03 (review only): TextRazor 5 live pages; added monopod + Gitzo spikes sentence (Lens Notes: 3/8in thread fits any tripod or monopod; Gitzo offers spikes of different lengths); Lincoln Harrison 4 in sand depth re-verified; renamed first H2 to Tripod feet by surface: footprint and fit; section openers made checkable; video reference fixed; illustration captions added; no product, price, rating or ASIN changed.",
+    "at": "2026-11-03T17:53:26.609Z",
+    "hash": "7d57d33d2ac3cc8c"
   }
 }

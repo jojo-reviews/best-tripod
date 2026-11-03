@@ -1,29 +1,19 @@
 {
   "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
   "pass": true,
-  "checkedAt": "2026-11-03T16:32:49.769Z",
+  "checkedAt": "2026-11-03T17:51:08.745Z",
   "errors": [],
   "warnings": [
-    "illustration \"Hands tightening a cord that ties a back\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands clipping a mesh sack of filled wat\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands filling a mesh net bag with stones\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands pushing a tent stake into soil wit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A camera backpack draped over the top of\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide, no products. Verified 2026-10-30 via Firecrawl: DPReview tripod-hook thread (OP quote on hanging bag swaying, FrancoD dead-weight quote, fishing net/laundry bag, draping bag over the legs, ankle weights, tent cord and anchors in rock cracks, bungee/shock cord to ground); The Center Column test (seven tripods, 2.5 lb steps up to 20 lbs, no axial/yaw stiffness effect, small damping gain, resting hand damps more, lower center of gravity, bungee to ground is the correct field method); Ulanzi guide (weight must hang freely/no stability if touching ground, roughly 2-5 kg start, straps at leg braces may interfere with adjustments, counterweight counts toward max load); USGS Facts About Water (8.33 lb/gal, 1 kg/L); r/photography and r/AskPhotography quotes checked against search excerpts at the same thread URLs; lightest-tripod DPReview quote from data/pain-points.json; Quora title 'non-existent hook'; YouTube 9Cb0rVXWcRw (Marcus Hutsell) shows weight on the ground tied with a taut-line hitch. From-our-notes is a framed scenario; 3 x 1 L = 3 kg calculation from USGS figure.",
-    "at": "2026-10-30T02:07:56.679Z",
-    "hash": "e9b91394bb37d304"
+    "notes": "Semantic pass 2026-11-03 (review only): TextRazor entities counterweight, center of mass, wind, telephoto lens, tripod head, long-exposure photography worked in; facts unchanged (USGS 1 kg/L, Ulanzi 2-5 kg, Center Column 20 lb test); 'video below' wording fixed; filler cut.",
+    "at": "2026-11-03T17:50:51.855Z",
+    "hash": "6947d9dc5a0df4e1"
   }
 }

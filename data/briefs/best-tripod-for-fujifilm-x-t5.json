@@ -13,74 +13,148 @@
   ],
   "entities": [
     {
+      "name": "Tripod (photography)",
+      "type": "concept",
+      "relation": "central entity: the three-legged camera support this roundup compares",
+      "salience": 0.89
+    },
+    {
+      "name": "Tripod",
+      "type": "concept",
+      "relation": "central entity (generic)",
+      "salience": 0.9
+    },
+    {
+      "name": "Camera",
+      "type": "concept",
+      "relation": "the X-T5 body the tripod carries",
+      "salience": 0.63
+    },
+    {
+      "name": "Carbon-fiber reinforced polymer",
+      "type": "material",
+      "relation": "carbon fiber leg material (SmallRig AP-10), lighter than aluminum",
+      "salience": 0.61
+    },
+    {
+      "name": "Fujifilm",
+      "type": "organization",
+      "relation": "maker of the X-T5, X-M5, X-T30 II and XF lenses",
+      "salience": 0.53
+    },
+    {
+      "name": "Selfie",
+      "type": "activity",
+      "relation": "self-timer group shots with a mini tripod like the PIXI EVO",
+      "salience": 0.53
+    },
+    {
+      "name": "Gear",
+      "type": "concept",
+      "relation": "travel camera gear packed with the tripod",
+      "salience": 0.41
+    },
+    {
+      "name": "Zoom lens",
+      "type": "product type",
+      "relation": "XF16-55mm II and XF70-300mm, the lenses that decide tripod size",
+      "salience": 0.31
+    },
+    {
+      "name": "Camera lens",
+      "type": "product type",
+      "relation": "the mounted lens sets total weight on the tripod",
+      "salience": 0.3
+    },
+    {
+      "name": "Mirrorless camera",
+      "type": "product type",
+      "relation": "X-T5 is an APS-C mirrorless camera",
+      "salience": 0.21
+    },
+    {
       "name": "Fujifilm X-T5",
       "type": "camera",
-      "relation": "APS-C body, approx. 557 g with battery and card, three-way tilting screen, IBIS"
+      "relation": "APS-C body, approx. 557 g with battery and card, three-way tilting screen, IBIS",
+      "salience": null
     },
     {
       "name": "XF16-55mm II",
       "type": "lens",
-      "relation": "the zoom X-T5 owners worry about on thin legs, approx. 410 g"
+      "relation": "the zoom X-T5 owners worry about on thin legs, approx. 410 g",
+      "salience": null
     },
     {
       "name": "XF70-300mm",
       "type": "lens",
-      "relation": "telephoto zoom, approx. 580 g"
+      "relation": "telephoto zoom, approx. 580 g",
+      "salience": null
     },
     {
       "name": "X-M5",
       "type": "camera",
-      "relation": "smaller sibling named in the secondary keywords"
+      "relation": "smaller sibling named in the secondary keywords",
+      "salience": null
     },
     {
       "name": "X-T30 II",
       "type": "camera",
-      "relation": "smaller sibling named in the secondary keywords"
+      "relation": "smaller sibling named in the secondary keywords",
+      "salience": null
     },
     {
       "name": "Peak Design Travel Tripod (Aluminum)",
       "type": "product",
-      "relation": "r/fujifilm X-T5 owner pick"
+      "relation": "r/fujifilm X-T5 owner pick",
+      "salience": null
     },
     {
       "name": "Manfrotto Befree Advanced",
       "type": "product",
-      "relation": "classic travel tripod named on FujiX-Forum and Finding the Universe"
+      "relation": "classic travel tripod named on FujiX-Forum and Finding the Universe",
+      "salience": null
     },
     {
       "name": "SmallRig AP-10",
       "type": "product",
-      "relation": "carbon legs with no center column, named by X-T5 owners on r/FujifilmX and FujiX-Forum"
+      "relation": "carbon legs with no center column, named by X-T5 owners on r/FujifilmX and FujiX-Forum",
+      "salience": null
     },
     {
       "name": "K&F Concept 64 inch",
       "type": "product",
-      "relation": "budget aluminum pick"
+      "relation": "budget aluminum pick",
+      "salience": null
     },
     {
       "name": "Manfrotto PIXI EVO",
       "type": "product",
-      "relation": "mini tripod; r/fujifilm asks if it fits an X-T5"
+      "relation": "mini tripod; r/fujifilm asks if it fits an X-T5",
+      "salience": null
     },
     {
       "name": "Arca-Swiss plate",
       "type": "standard",
-      "relation": "quick-release dovetail used by L-brackets and all full-size picks"
+      "relation": "quick-release dovetail used by L-brackets and all full-size picks",
+      "salience": null
     },
     {
       "name": "L-bracket",
       "type": "accessory",
-      "relation": "lets the X-T5 switch to portrait on an Arca clamp"
+      "relation": "lets the X-T5 switch to portrait on an Arca clamp",
+      "salience": null
     },
     {
       "name": "IBIS",
       "type": "camera feature",
-      "relation": "in-body stabilization; owners turn it off on a tripod"
+      "relation": "in-body stabilization; owners turn it off on a tripod",
+      "salience": null
     },
     {
       "name": "center column",
       "type": "tripod part",
-      "relation": "adds height but reduces stiffness"
+      "relation": "adds height but reduces stiffness",
+      "salience": null
     }
   ],
   "attributes": [
@@ -92,7 +166,9 @@
     "Arca-Swiss compatibility",
     "ball head pan and friction control",
     "monopod conversion",
-    "minimum height"
+    "minimum height",
+    "leg material (carbon fiber vs aluminum)",
+    "leg diameter and thinnest section"
   ],
   "ngrams": [
     "tripod for x-t5",
@@ -106,7 +182,12 @@
     "peak design travel tripod",
     "manfrotto befree",
     "smallrig ap-10",
-    "mini tripod"
+    "mini tripod",
+    "carbon fiber tripod",
+    "zoom lens",
+    "travel legs",
+    "mirrorless camera",
+    "tabletop mini tripod"
   ],
   "skipgrams": [
     "tripod…X-T5",
@@ -114,7 +195,10 @@
     "thin…legs",
     "Arca…L-bracket",
     "IBIS…tripod",
-    "967 g…rating"
+    "967 g…rating",
+    "carbon fiber…legs",
+    "zoom lens…wind",
+    "mini tripod…selfie"
   ],
   "nlpTerms": [
     "Fujifilm",
@@ -137,7 +221,12 @@
     "IBIS",
     "self-timer",
     "wind",
-    "monopod"
+    "monopod",
+    "selfie",
+    "zoom lens",
+    "mirrorless camera",
+    "leg diameter",
+    "gear"
   ],
   "questions": [
     "What is the best tripod for a Fujifilm X-T5?",
@@ -543,5 +632,17 @@
         }
       ]
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-03",
+    "source": "TextRazor, data/briefs/best-tripod-for-fujifilm-x-t5.entities.json",
+    "topUrls": [
+      "https://www.reddit.com/r/fujifilm/comments/1d7w1a0/travel_tripod_for_xt5/",
+      "https://forum.cameraegg.org/fujifilm-forum/recommendations-for-the-best-travel-tripod-for-fujifilm-x-series-cameras-86984/",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.fujifilm-x.com/en-us/products/accessories/tg-bt1/",
+      "https://www.kentfaith.com.au/feature_best-tripod-for-fujifilm-xt5"
+    ],
+    "note": "review only: entity words, H2 rename, product first sentences, Which-one block moved after picks; no facts, products or FAQ answers changed"
+  }
 }

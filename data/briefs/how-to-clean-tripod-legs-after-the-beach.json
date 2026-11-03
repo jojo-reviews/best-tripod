@@ -13,7 +13,7 @@
       "type": "camera support",
       "relation": "the gear being cleaned",
       "salience": 0.98,
-      "pages": 4
+      "pages": 3
     },
     {
       "name": "tripod legs",
@@ -23,17 +23,17 @@
       "pages": 3
     },
     {
+      "name": "sand",
+      "type": "contaminant",
+      "relation": "grit that grinds threads and scores shims",
+      "salience": 0.71,
+      "pages": 2
+    },
+    {
       "name": "grease",
       "type": "lubricant",
       "relation": "thin layer on twist-lock threads after cleaning; too much traps sand",
       "salience": 0.63,
-      "pages": 3
-    },
-    {
-      "name": "sand",
-      "type": "contaminant",
-      "relation": "grit that grinds threads and scores shims",
-      "salience": 0.58,
       "pages": 3
     },
     {
@@ -42,6 +42,20 @@
       "relation": "leg tube material that does not rust, though metal fittings can corrode",
       "salience": 0.57,
       "pages": 3
+    },
+    {
+      "name": "water",
+      "type": "chemical substance",
+      "relation": "fresh water rinses salt and sand off the legs before it dries",
+      "salience": 0.51,
+      "pages": 2
+    },
+    {
+      "name": "twist lock",
+      "type": "leg lock type",
+      "relation": "threaded collar that collects grit and has to come apart to clean",
+      "salience": 0.5,
+      "pages": 5
     },
     {
       "name": "seawater",
@@ -86,11 +100,11 @@
       "pages": 3
     },
     {
-      "name": "toothbrush",
-      "type": "tool",
-      "relation": "scrubs grit out of thread grooves",
-      "salience": 0.38,
-      "pages": 3
+      "name": "shim",
+      "type": "part",
+      "relation": "plastic bushing or guide sleeve inside the lock; fragile and easy to lose",
+      "salience": 0.42,
+      "pages": 4
     },
     {
       "name": "microfiber cloth",
@@ -100,20 +114,6 @@
       "pages": 2
     },
     {
-      "name": "lubricant",
-      "type": "lubricant",
-      "relation": "silicone, synthetic, lithium or marine grease on threads; never WD-40 on threads",
-      "salience": 0.33,
-      "pages": 2
-    },
-    {
-      "name": "twist lock",
-      "type": "leg lock type",
-      "relation": "threaded collar that collects grit and has to come apart to clean",
-      "salience": 0.5,
-      "pages": 5
-    },
-    {
       "name": "flip lock",
       "type": "leg lock type",
       "relation": "lever clamp that wipes clean but whose nuts and pivots hold salt",
@@ -121,11 +121,25 @@
       "pages": 3
     },
     {
-      "name": "shim",
-      "type": "part",
-      "relation": "plastic bushing or guide sleeve inside the lock; fragile and easy to lose",
-      "salience": 0.42,
-      "pages": 4
+      "name": "toothbrush",
+      "type": "tool",
+      "relation": "scrubs grit out of thread grooves",
+      "salience": 0.38,
+      "pages": 3
+    },
+    {
+      "name": "lubricant",
+      "type": "lubricant",
+      "relation": "silicone, synthetic, lithium or marine grease on threads; never WD-40 on threads",
+      "salience": 0.33,
+      "pages": 2
+    },
+    {
+      "name": "brush",
+      "type": "tool",
+      "relation": "toothbrush or soft brush scrubs sand out of threads",
+      "salience": 0.32,
+      "pages": 2
     },
     {
       "name": "rubber feet",
@@ -137,7 +151,16 @@
   ],
   "textrazor": {
     "file": "data/briefs/how-to-clean-tripod-legs-after-the-beach.entities.json",
-    "pagesAnalyzed": 5
+    "pagesAnalyzed": 3,
+    "date": "2026-11-03",
+    "urls": [
+      "https://visualwilderness.com/equipment/how-to-clean-your-tripod",
+      "https://www.reddit.com/r/photography/comments/43dhkx/how_do_you_clean_a_tripod/",
+      "https://www.blog.promaster.com/home/2022/11/8/how-to-clean-tripod-saltwater",
+      "https://www.kfconcept.com/learning-center/how-to-clean-a-tripod",
+      "https://kb.reallyrightstuff.com/knowledge/how-do-you-clean-and-maintain-a-tripod"
+    ],
+    "note": "2 of 5 pages hit TextRazor's concurrent-request limit; missingFromPost empty"
   },
   "attributes": [
     "lock type (twist or flip) decides how far you take the leg apart",
@@ -146,7 +169,8 @@
     "number of leg sections (more joints to clean)",
     "shim and bushing design (one-piece or two-piece)",
     "grease type (synthetic, silicone, lithium, marine)",
-    "drying time before storage"
+    "drying time before storage",
+    "symptom (grinding, stiff collar, white crust, seized section) decides rinse vs strip-down"
   ],
   "ngrams": [
     "clean tripod legs",
@@ -161,7 +185,11 @@
     "thin layer of grease",
     "fully extend the legs",
     "rubber feet",
-    "carbon fiber tripod"
+    "carbon fiber tripod",
+    "warm water",
+    "leg locks",
+    "lower tubes",
+    "strip-down"
   ],
   "skipgrams": [
     "rinse…fresh water",
@@ -170,7 +198,9 @@
     "extend…legs",
     "grease…threads",
     "unscrew…twist lock",
-    "dry…24 hours"
+    "dry…24 hours",
+    "unscrew…leg sections",
+    "salt…lower tubes"
   ],
   "nlpTerms": [
     "rinse",
@@ -204,7 +234,12 @@
     "aluminum",
     "seized",
     "gritty",
-    "grinding"
+    "grinding",
+    "screw",
+    "brush",
+    "flush",
+    "soak",
+    "plastic bags"
   ],
   "questions": [
     "how do you clean a tripod after the beach",

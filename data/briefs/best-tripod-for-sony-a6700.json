@@ -12,7 +12,8 @@
     {
       "name": "Sony a6700",
       "type": "camera",
-      "relation": "APS-C body, approx. 493 g with battery and card, flip-out screen, battery door on the base"
+      "relation": "APS-C body, approx. 493 g with battery and card, flip-out screen, battery door on the base",
+      "salience": 0.77
     },
     {
       "name": "Sigma 18-50mm F2.8 DC DN",
@@ -68,6 +69,75 @@
       "name": "center column",
       "type": "component",
       "relation": "raising it costs stiffness"
+    },
+    {
+      "name": "camera tripod",
+      "type": "product category",
+      "relation": "central entity: the camera support the post ranks",
+      "salience": 0.91,
+      "textrazor": "Tripod (photography)"
+    },
+    {
+      "name": "Camera",
+      "type": "product category",
+      "relation": "the a6700 body the tripod must hold",
+      "salience": 0.55
+    },
+    {
+      "name": "Sony",
+      "type": "brand",
+      "relation": "maker of the a6700 and the 70-350mm",
+      "salience": 0.62
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "leg material of four picks: lighter and damps vibration",
+      "salience": 0.5,
+      "textrazor": "Carbon-fiber reinforced polymer"
+    },
+    {
+      "name": "Gear",
+      "type": "product category",
+      "relation": "camera gear (body + lens) sets the load",
+      "salience": 0.6
+    },
+    {
+      "name": "Gimbal",
+      "type": "product category",
+      "relation": "for walking video shots; a tripod is for locked-off shots",
+      "salience": 0.49
+    },
+    {
+      "name": "Sony E-mount",
+      "type": "standard",
+      "relation": "a6700 lens mount (APS-C E-mount body)",
+      "salience": 0.47
+    },
+    {
+      "name": "Lens",
+      "type": "component",
+      "relation": "the lens decides the tripod, not the body",
+      "salience": 0.47
+    },
+    {
+      "name": "Monopod",
+      "type": "product category",
+      "relation": "SmallRig CT-10 and Benro RoadTrip Pro convert to one",
+      "salience": 0.39
+    },
+    {
+      "name": "Backpack",
+      "type": "product category",
+      "relation": "folded length must fit a 20L backpack",
+      "salience": 0.39
+    },
+    {
+      "name": "long-focus lens",
+      "type": "lens type",
+      "relation": "the 70-350mm telephoto (105-525mm equivalent) needs stiff legs",
+      "salience": 0.26,
+      "textrazor": "Long-focus lens"
     }
   ],
   "attributes": [
@@ -78,7 +148,9 @@
     "leg lock type",
     "Arca-Swiss compatibility",
     "plate clearance for the flip screen and battery door",
-    "monopod conversion"
+    "monopod conversion",
+    "APS-C E-mount body vs tripod size",
+    "telephoto torque on the head"
   ],
   "ngrams": [
     "tripod for a6700",
@@ -92,14 +164,21 @@
     "peak design travel tripod",
     "befree advanced",
     "leofoto ranger",
-    "smallrig ct-10"
+    "smallrig ct-10",
+    "camera gear",
+    "telephoto zoom",
+    "weight hook",
+    "tripod for the sony a6700"
   ],
   "skipgrams": [
     "tripod…a6700",
     "center column…wind",
     "70-350mm…torque",
     "plate…battery door",
-    "Arca…cage"
+    "Arca…cage",
+    "gimbal…walking shots",
+    "telephoto…torque",
+    "folded length…backpack"
   ],
   "nlpTerms": [
     "Sony",
@@ -121,7 +200,13 @@
     "monopod",
     "weight hook",
     "flip screen",
-    "battery door"
+    "battery door",
+    "E-mount",
+    "telephoto",
+    "gimbal",
+    "backpack",
+    "gear",
+    "torque"
   ],
   "questions": [
     "What is the best tripod for a Sony a6700?",
@@ -506,5 +591,16 @@
         }
       ]
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-03",
+    "tool": "TextRazor",
+    "pages": [
+      "packapop.com",
+      "forum.sony-rumors.com",
+      "kentfaith.com.au",
+      "alphashooters.com"
+    ],
+    "note": "review only"
+  }
 }

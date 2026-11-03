@@ -9,6 +9,48 @@
   ],
   "entities": [
     {
+      "name": "tripod",
+      "type": "equipment",
+      "relation": "three-legged stand; the central entity's parent, judged by height, load and weight",
+      "salience": 0.99
+    },
+    {
+      "name": "photography tripod",
+      "type": "equipment",
+      "relation": "camera tripods double as binocular tripods once an adapter and a pan or fluid head are added",
+      "salience": 0.78
+    },
+    {
+      "name": "binoculars",
+      "type": "optic",
+      "relation": "the payload; 10x42 to 20x80 sizes, weight sets the head rating needed",
+      "salience": 0.74
+    },
+    {
+      "name": "spotting scope",
+      "type": "optic",
+      "relation": "the second optic most glassers put on the same tripod",
+      "salience": 0.55
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "tripod weight (2.5 to 8.5 lb here) versus binocular weight (75 oz for a 20x80)",
+      "salience": 0.53
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "standard camera tripods are often too shaky for big binoculars",
+      "salience": 0.42
+    },
+    {
+      "name": "astronomy",
+      "type": "activity",
+      "relation": "stargazing with large binoculars pointed near the zenith",
+      "salience": 0.38
+    },
+    {
       "name": "binocular tripod adapter",
       "type": "accessory",
       "relation": "L-bracket or stud that threads into the binocular's center hinge and fits the tripod head"
@@ -42,11 +84,6 @@
       "name": "Celestron SkyMaster 20x80",
       "type": "binoculars",
       "relation": "75 oz astronomy binocular used as the heavy reference load"
-    },
-    {
-      "name": "spotting scope",
-      "type": "optic",
-      "relation": "the second optic most glassers put on the same tripod"
     },
     {
       "name": "Vortex Optics",
@@ -85,7 +122,9 @@
     "leg locks",
     "head type",
     "Arca-Swiss plate",
-    "binocular adapter"
+    "binocular adapter",
+    "tripod weight vs binocular weight",
+    "column-down height"
   ],
   "ngrams": [
     "tripod for binoculars",
@@ -97,14 +136,19 @@
     "stand-up glassing",
     "tripod adapter",
     "max height",
-    "carbon fiber"
+    "carbon fiber",
+    "tripod for binoculars and spotting scopes",
+    "camera tripod",
+    "astronomy binoculars"
   ],
   "skipgrams": [
     "tripod…binoculars",
     "glassing…standing",
     "pan…head",
     "binoculars…adapter",
-    "height…stoop"
+    "height…stoop",
+    "weight…binoculars",
+    "tripod…spotting scope"
   ],
   "nlpTerms": [
     "glass",
@@ -117,7 +161,11 @@
     "astronomy binoculars",
     "load rating",
     "quarter-turn leg locks",
-    "twist locks"
+    "twist locks",
+    "stargazing",
+    "terrestrial",
+    "sturdy",
+    "lightweight"
   ],
   "questions": [
     "What is the best tripod for binoculars?",
@@ -499,5 +547,20 @@
     "binocular tripod"
   ],
   "angle": "One list for glassers and stargazers, picked by eye height and head type, with load math against a heavy 20x80.",
-  "productChanges": "Vanguard Alta Pro 263 (2 top pages) dropped: both Amazon US listings unavailable on 2026-10-29. Outdoorsmans dropped: not sold on Amazon."
+  "productChanges": "Vanguard Alta Pro 263 (2 top pages) dropped: both Amazon US listings unavailable on 2026-10-29. Outdoorsmans dropped: not sold on Amazon.",
+  "semanticPass": {
+    "date": "2026-11-03",
+    "tool": "TextRazor",
+    "pagesAnalyzed": [
+      "bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
+      "themeateater.com/gear/gear-hunt/the-best-tripods-for-glassing-and-shooting",
+      "optcorp.com/collections/binocular-tripods",
+      "optics4birding.com/collections/tripods-heads"
+    ],
+    "blocked": [
+      "reddit.com r/Astronomy thread uubp6q"
+    ],
+    "missingFromPost": [],
+    "note": "review only"
+  }
 }

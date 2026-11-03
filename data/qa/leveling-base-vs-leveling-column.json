@@ -1,26 +1,18 @@
 {
   "slug": "leveling-base-vs-leveling-column",
   "pass": true,
-  "checkedAt": "2026-11-03T16:33:03.429Z",
+  "checkedAt": "2026-11-03T17:52:36.659Z",
   "errors": [],
   "warnings": [
-    "illustration \"Hands loosening the knob of a leveling b\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A hand turning the grip under a leveling\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A camera on a leveled tripod being rotat\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A hand pressing on the tripod head to te\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1690976/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1df80ug/how_important_is_a_levelling_bowl_on_a_tripod/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-laser-level, no claim changed",
-    "at": "2026-10-30T17:44:12.089Z",
-    "hash": "02e341510960aea0"
+    "notes": "Semantic pass 2026-11-03: Benro (TextRazor missingFromPost) added from DVXuser thread (Benro carbon fiber travel tripod, removable flat top swaps for 75mm bowl + half ball, bowl lacks spirit level). Sunwayfoto DYH-90i ~+/-16 deg, 15 kg load capacity as quoted by a DVXuser poster. Herzog video: built-in apex levelers ~10 deg, Arca-Swiss clamp top for swapping gimbal/fluid/ball heads. Manfrotto 338/555B and Acratech specs unchanged from maker pages. No prices, ratings or tests added. 'Short answer' H2 removed (patent rule 2026-10-31), specs table is first H2; 'video below' wording fixed; illustration captions added; filler cut.",
+    "at": "2026-11-03T17:52:36.097Z",
+    "hash": "21dfa5757c9f2e79"
   }
 }

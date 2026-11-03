@@ -26,8 +26,8 @@
       "name": "tripod",
       "type": "camera support",
       "relation": "the legs both accessories mount on",
-      "salience": 0.9,
-      "pages": 3,
+      "salience": 0.89,
+      "pages": 2,
       "textrazorName": "Tripod (photography)"
     },
     {
@@ -42,7 +42,7 @@
       "name": "spirit level",
       "type": "component",
       "relation": "bubble level built into bases and columns used as the reference",
-      "salience": 0.75,
+      "salience": 0.62,
       "pages": 2,
       "textrazorName": "Spirit level"
     },
@@ -58,7 +58,7 @@
       "name": "camera",
       "type": "gear",
       "relation": "the load the base or column must hold level",
-      "salience": 0.65,
+      "salience": 0.4,
       "pages": 2,
       "textrazorName": "Camera"
     },
@@ -107,6 +107,26 @@
       "type": "tripod head",
       "relation": "most common head stacked on a leveling base",
       "salience": 0.4
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "tripod maker whose carbon travel tripod swaps its flat top for a 75mm bowl and half ball",
+      "salience": 0.55,
+      "pages": 2,
+      "textrazorName": "Benro"
+    },
+    {
+      "name": "Arca-Swiss clamp",
+      "type": "component",
+      "relation": "quick-release clamp on top of some leveling bases for swapping heads",
+      "salience": 0.35
+    },
+    {
+      "name": "Sunwayfoto DYH-90i",
+      "type": "leveling base",
+      "relation": "half-ball leveling base, about +/- 16 degrees, 15 kg (DVXuser)",
+      "salience": 0.3
     }
   ],
   "attributes": [
@@ -116,7 +136,9 @@
     "weight",
     "tripod compatibility (leveling column fits one tripod series)",
     "lock type: three dials vs single knob vs grip under the column",
-    "spirit level visibility"
+    "spirit level visibility",
+    "top type: screw stud vs Arca-Swiss clamp",
+    "built-in apex leveler range (about 10 degrees)"
   ],
   "ngrams": [
     "leveling base",
@@ -130,7 +152,11 @@
     "pan axis",
     "uneven ground",
     "three adjustment dials",
-    "fixed apex"
+    "fixed apex",
+    "75mm bowl",
+    "leveling bowl",
+    "fluid head",
+    "gimbal head"
   ],
   "skipgrams": [
     "leveling…panorama",
@@ -138,7 +164,9 @@
     "base…head",
     "column…half ball",
     "tripod…uneven ground",
-    "lock…weight"
+    "lock…weight",
+    "bowl…spirit level",
+    "base…clamp"
   ],
   "nlpTerms": [
     "panning",
@@ -152,7 +180,11 @@
     "bowl",
     "degrees of tilt",
     "top heavy",
-    "low angle"
+    "low angle",
+    "tilt range",
+    "load capacity",
+    "travel tripod",
+    "carbon fiber"
   ],
   "questions": [
     "Is a leveling base better than a leveling column?",
@@ -513,7 +545,20 @@
   ],
   "textrazor": {
     "file": "data/briefs/leveling-base-vs-leveling-column.entities.json",
+    "date": "2026-11-03",
     "pagesAnalyzed": 3,
-    "note": "fredmiranda and bcgforums blocked TextRazor fetch (Cloudflare); entities come from the 3 article pages"
-  }
+    "serp": [
+      "reddit.com r/AskPhotography (blocked)",
+      "fredmiranda.com (blocked)",
+      "youtube.com/watch?v=4nnvqFHWo1Y",
+      "dvxuser.com leveling bases vs bowl",
+      "bcgforums.com (blocked)",
+      "panoramic-photo-guide.com"
+    ],
+    "missingFromPost": [
+      "Benro"
+    ],
+    "note": "Semantic pass 2026-11-03: Benro added (DVXuser), noise ignored."
+  },
+  "semanticPass": "2026-11-03"
 }

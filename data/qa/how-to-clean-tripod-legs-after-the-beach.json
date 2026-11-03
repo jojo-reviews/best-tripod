@@ -1,29 +1,18 @@
 {
   "slug": "how-to-clean-tripod-legs-after-the-beach",
   "pass": true,
-  "checkedAt": "2026-11-03T16:32:45.923Z",
+  "checkedAt": "2026-11-03T17:51:52.862Z",
   "errors": [],
   "warnings": [
-    "illustration \"Hands pouring fresh water over extended \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Warm shower water flushing salt out of a\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A hand scrubbing sand out of a tripod tw\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A fingertip spreading a thin layer of gr\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://visualwilderness.com/equipment/how-to-clean-your-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1500935/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1027725/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide, no products. Re-opened every source via Firecrawl: Ulanzi beach guide (salt crystallizes as it dries; full clean every three to five beach sessions; at least 24 hours drying, legs extended, sections separated, open ends down; never WD-40 on threads; 10 to 15 minute warm soak for seized sections; replace scored shims), ProMaster saltwater guide (blower, rinse before collapsing, photos while disassembling, every 3 to 6 months), Visual Wilderness (slide legs under soapy water if they don't come apart, lithium grease, about an hour for two carbon tripods, carbon splinters), Really Right Stuff help center (thin layer of synthetic grease on twist-lock grooves, sleeves sized per section), SLIK carbon guide (lay out largest to smallest), Lincoln Harrison (Gitzo upper legs in shower 5 minutes, grease threads only, not tubes). All five quotes checked verbatim: Stack Exchange 20202 (collapsing while dirty), FM 1500935 (salt caked inside Induro lower legs; warm water under pressure; grease a sand magnet), FM 1027725 (Manfrotto clamps just coated with salt), DPReview 4290653 (fragile grommets; Feisol owner rinses before retracting), DPReview 4581258 ('definitely a pain', confirmed by exact-quote search). Video P8oavNYcuOQ is Todd Dominey's 'How to clean a tripod' (strip-down, degreaser, lithium grease). Three outside links, each number checked on its page.",
-    "at": "2026-10-30T02:09:00.695Z",
-    "hash": "b84da813a8710be5"
+    "notes": "Semantic pass 2026-11-03 (TextRazor, 3/5 top pages; no missingFromPost). Significant: first H2 rewritten from a 6-step list duplicating the tldr into a rinse-vs-strip decision table built from existing sourced facts (Ulanzi 24h dry, 10-15 min soak, owner reports). Quotes trimmed to exact substrings of the sources; 'video below' replaced; captions added; no new prices, ratings or tests; 3 outside links kept.",
+    "at": "2026-11-03T17:51:43.438Z",
+    "hash": "71b2b14c8a2783f0"
   }
 }
