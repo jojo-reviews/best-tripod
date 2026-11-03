@@ -1,0 +1,149 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-ricoh-gr-iii",
+  "checkedAt": "2026-11-03T16:29:09Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXIMII-B)",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global page for MTPIXIMII-B: 13,5 cm max. height, 18,5 cm closed length, 0,17 kg, 1 kg safety payload. The English post uses B&H's 6.7 oz (190 g) weight; keep 190 g in the post (same figure as English) and use Manfrotto's 13,5 cm and 18,5 cm.",
+      "reason": "Sold in the EU under the same code MTPIXIMII-B (Thomann; Manfrotto global page).",
+      "source": "https://www.manfrotto.com/global-uk/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload (already metric in the English post).",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK: Calumet.de, Amazon.es listing, Manfrotto global-es page.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "JOBY GorillaPod 1K Kit",
+      "asin": "B074WFNNKY",
+      "status": "fits",
+      "metricSpecs": "Amazon.es (same ASIN, model JB01503): 1 kg load; Kamera Express BE lists 26 cm max. height and 1 kg. The English post's 10 in converts to 25 cm; keep the English figures (145 g, 25 cm, 21 cm folded, 1 kg) since no maker metric page was read.",
+      "reason": "Amazon.es lists 'JOBY GorillaPod Kit 1K' under the same ASIN B074WFNNKY (JB01503-BWW); Kamera Express (BE/NL) and German price-comparison sites list the JB01503.",
+      "source": "https://www.amazon.es/JOBY-GorillaPod-Kit-Compactas-JB01503-BWW/dp/B074WFNNKY"
+    },
+    {
+      "name": "ULANZI MT-08 Extendable Mini Tripod",
+      "asin": "B07ZPS47VC",
+      "status": "fits",
+      "metricSpecs": "Amazon.de MT-08 listing: about 90 g. Keep the English figures (92 g, 13 to 24 cm working height, 15 cm folded, 0,5 kg extended / 2 kg folded per Ulanzi's manual).",
+      "reason": "Amazon.de sells 'ULANZI MT-08 Compact Travel Tripod' (EU listing B08162D5YZ) and Amazon.nl the white MT-08; same model name worldwide.",
+      "source": "https://www.amazon.de/-/en/ULANZI-MT-08-Portable-Compatible-Fujifilm/dp/B08162D5YZ"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from SIRUI figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Ryanair staat in elk tarief een kleine persoonlijke tas van 40 x 30 x 20 cm onder de stoel toe; alle vijf statieven (15 tot 33 cm ingeklapt) passen in de lengte.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "KLM staat 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe, inclusief handvatten en wieltjes.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum: fotograferen en filmen mag zolang het anderen niet stoort; voor bruidsfotografie noemt het museum \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "In het Anne Frank Huis is fotograferen en filmen helemaal niet toegestaan.",
+      "source": "https://www.annefrank.org/nl/museum/praktische-informatie/"
+    },
+    {
+      "fact": "Termen: ministatief / tafelstatief, balhoofd, statiefschroef 1/4\", snelkoppelplaat, zelfontspanner; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "On city trips nobody wants to carry a big tripod all day.",
+      "fix": "A mini in every pocket, the SIRUI only for planned long exposures (post problems section).",
+      "quotes": [
+        {
+          "text": "Vakanties zijn vooral stedentrips, dus een hele dag sjouwen en shoppen met een groot statief bij me, lijkt me geen goed idee.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+      ]
+    },
+    {
+      "pain": "A GorillaPod is seen as a tool only for places where a tripod can't or may not stand.",
+      "fix": "That is exactly its job in this list: railings, fences and posts; for a wall or table the PIXI models are steadier.",
+      "quotes": [
+        {
+          "text": "Zo'n gorillapod beschouw ik alleen als handig voor situaties waar je een statief wilt, maar niet mag/kunt opzetten.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+      ]
+    },
+    {
+      "pain": "A GorillaPod on a bridge railing creeps slowly when the camera's full weight hangs on it, visible in long exposures.",
+      "fix": "Check the lock before stepping back and use the 2-second timer; the GR III's 257 g is about a quarter of the 1K's 1 kg rating.",
+      "quotes": [
+        {
+          "text": "Het statief komt niet los, maar beweegt heel langzaam. Vaak gebeurt dit als al het gewicht van je camera aan het statief hangt.",
+          "url": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+        }
+      ],
+      "sources": [
+        "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Ryanair's free under-seat bag (40 x 30 x 20 cm) takes every pick, even the 33 cm SIRUI.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Museum rules (Rijksmuseum, Boerhaave, Anne Frank Huis) so readers know where the mini stays in the bag.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Maker metric figures (13,5 cm, 18,5 cm, 138 cm, 0,85 kg) instead of conversions.",
+      "source": "https://www.manfrotto.com/global-uk/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/"
+    },
+    {
+      "point": "Dutch forum pain points (city trips, GorillaPod role and creep on railings) answered with the matching fix.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The Amazon US listing is sold through other sellers right now (GorillaPod section and con 'Amazon listing currently sold through other sellers')",
+      "action": "drop",
+      "with": ""
+    },
+    {
+      "english": "each with its own Amazon US listing / Pedco UltraPod II's Amazon US listing was unavailable",
+      "action": "replace",
+      "with": "keep as a description of how the picks were chosen (Amazon US listing), no local store or availability claim"
+    },
+    {
+      "english": "Imperial-first figures (6.7 oz, 7 in, 54.3 in, 1.87 lb, under 2 lb)",
+      "action": "replace",
+      "with": "metric first with the maker's figures where given (13,5 cm, 18,5 cm, 138 cm, 0,85 kg, under 0,9 kg), imperial in brackets"
+    }
+  ]
+}

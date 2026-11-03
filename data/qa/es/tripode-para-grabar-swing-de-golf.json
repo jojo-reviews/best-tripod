@@ -1,0 +1,20 @@
+{
+  "slug": "es/tripode-para-grabar-swing-de-golf",
+  "lang": "es",
+  "translationOf": "best-tripod-for-golf-swing-recording",
+  "pass": true,
+  "checkedAt": "2026-11-03T16:35:23.572Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-gym-videos/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-filming-sports/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-check after one sentence edit (section lead: césped en el campo, alfombrilla en un puesto cubierto; generic, no new fact). Earlier check: compared with the English post (products, ASINs, scores, spec keys, metric-first conversions, 325 g/71 g/72% per B&H/Apple) and local facts re-opened: R&A Regla 4.3a es-ES incl. Local Rule G-8, Galaxia Golf 'Como grabar tu swing' thread. 3 outside links; no testing/ownership, prices or local Amazon store.",
+    "at": "2026-11-03T16:37:23.110Z",
+    "hash": "d00396bb3e8dbc54"
+  }
+}

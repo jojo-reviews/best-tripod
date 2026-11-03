@@ -1,0 +1,148 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-canon-powershot-v1",
+  "checkedAt": "2026-11-03T16:28:58Z",
+  "productFit": [
+    {
+      "name": "Canon Tripod Grip HG-100TBR",
+      "asin": "B07Z5LZ92N",
+      "status": "fits",
+      "metricSpecs": "Canon: 163 g (179 g with BR-E1), approx. 148,5 mm as a tripod, 1 kg max load; Canon EU V1 spec footnote: camera, lens, mic and other accessories together max 1 kg",
+      "reason": "Canon España's V1 spec sheet lists 'empuñadura para trípode HG-100TBR/HG-200TBR' as a V1 accessory under the same name; Canon sells the same 4157C001 grip across Europe (Canon DE grip page).",
+      "source": "https://www.canon.es/cameras/powershot-v1/specifications/"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 22-44 cm, 170 g, 1,5 kg (already metric in the English post)",
+      "reason": "Sold in the EU under the same name and item number Ulanzi 2052 (Amazon EU listing / Ulanzi EU store).",
+      "source": "https://www.ulanzi.com/en-eu/collections/tabletop-tripods/products/ulanzi-mt-16-upgrade-extendable-ballhead-tripod-2052"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13,5 cm fixed height, 18,5 cm closed, 0,17 kg, 1 kg load (already metric in the English post)",
+      "reason": "EU retailers (Thomann) list the MTPIXIMII-B PIXI Mini under the same name and code.",
+      "source": "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload",
+      "reason": "Calumet Germany sells the MTPIXIEVO-BK under the same name.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (English table already gives 130 / 152 / 39 cm, 1,3 kg, 9,1 kg)",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by El Corte Inglés.",
+      "source": "https://www.elcorteingles.es/electronica/A35395313-0818373021269-pr-tripode-de-carbono-peak-design-travel-carbon-pk0201-negro/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon España lists the PowerShot V1 at 426 g, tripod socket 1/4 (ISO 1222), and 'empuñadura para trípode HG-100TBR/HG-200TBR' among its accessories.",
+      "source": "https://www.canon.es/cameras/powershot-v1/specifications/"
+    },
+    {
+      "fact": "Iberia allows one cabin bag up to 10 kg with max. 56 x 40 x 25 cm; the Peak Design Travel Tripod folds to 39 cm and fits by length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Ryanair includes a small bag of 40 x 30 x 20 cm under the seat in every fare; the four minis fold to 18,5-22 cm.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Sagrada Família normativa: photos or videos with a tripod are not allowed inside the site, except for people or companies accredited beforehand.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Alhambra (Patronato): photos only without flash and without tripod, monopod or any other camera stabilising element, which also rules out a grip used as a stand.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Spanish terms: empuñadura para trípode, minitrípode / trípode de mesa, rótula de bola, columna central, rosca de 1/4\"; Arca-Swiss keeps its name.",
+      "source": "https://www.canon.es/cameras/powershot-v1/specifications/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The V1's ports sit on the grip side, which gets in the way handheld.",
+      "fix": "A small tripod or a grip (HG-100TBR, MT-16) solves it, as MPB's Spanish V1 review says; run USB-C power while it stands.",
+      "quotes": [
+        {
+          "text": "Usar un trípode pequeño o una empuñadura puede solucionar ese problema",
+          "url": "https://www.mpb.com/es-es/contenido/guias-de-equipos/analisis-canon-powershot-v1"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Spare batteries are needed on long travel days, and the battery door is under the tripod.",
+      "fix": "English post: charge or swap first, screw a mini straight into the socket and unscrew it to swap, or use USB-C PD power for long takes.",
+      "quotes": [
+        {
+          "text": "sigo recomendando encarecidamente llevar una o dos baterías de repuesto",
+          "url": "https://www.mpb.com/es-es/contenido/guias-de-equipos/analisis-canon-powershot-v1"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Wanting a tripod that fits a very small backpack.",
+      "fix": "All four minis fold to 18,5-22 cm, inside Ryanair's 40 x 30 x 20 cm small bag.",
+      "quotes": [
+        {
+          "text": "estoy en busqueda de un tripode que sea bastante plegable, lo que no consigo encontrar ninguno, que pueda llevar en una mochilita pequeña.",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Canon España's V1 figures and its listing of the HG-100TBR as a V1 accessory.",
+      "source": "https://www.canon.es/cameras/powershot-v1/specifications/"
+    },
+    {
+      "point": "Ryanair small bag and Iberia cabin-bag sizes against each pick's folded length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Sagrada Família and Alhambra tripod/stabiliser bans (the grip counts as a stabiliser at the Alhambra).",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each has its own in-stock Amazon US listing' (How I picked)",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'the Amazon US listing I checked is sold by a camera store, not Amazon' (HG-100TBR renterNote and product section)",
+      "action": "drop"
+    },
+    {
+      "english": "'folds to 15.5 in for a carry-on' (US carry-on wording)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin-bag fact"
+    },
+    {
+      "english": "Inch-first figures for the Peak Design (51.25 in, 60 in, 15.5 in, 5.5 in, 2.8 lb, 20 lb) and '16 ft' remote range",
+      "action": "replace",
+      "with": "metric first: 130 cm, 152 cm, 39 cm, 14 cm, 1,3 kg, 9,1 kg, about 5 m (16 ft)"
+    },
+    {
+      "english": "Canon USA HG-100TBR compatibility page as the V1 compatibility source",
+      "action": "replace",
+      "with": "Canon España V1 spec sheet listing the HG-100TBR"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-sony-a7r-v",
+  "checkedAt": "2026-11-03T16:28:20.000Z",
+  "productFit": [
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net) and Calumet DE list the set as 'LS-284C Ranger + LH-30' (code without the X of the US kit, add-on column DC-282C); same columnless four-section carbon legs and LH-30 head. No EU listing of the X-coded kit was found.",
+      "metricSpecs": "Not used for the X kit: leofoto.net gives figures for the LS-284C set (53 cm pack size, 1,43 kg legs, 10 kg load) that differ from the X version, so the translator converts the English figures (56 cm with head, 1,5 kg with head, 10 kg).",
+      "reason": "Europe mainly sells the LS-284C Ranger + LH-30 kit (verified in the R6 Mark II and Nikon Zf local briefs, 2026-11-02).",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599"
+    },
+    {
+      "name": "Gitzo GT1545T Series 1 Traveler Tripod",
+      "asin": "B016NSFTIK",
+      "status": "fits",
+      "metricSpecs": "Gitzo: folds to 42,5 cm; English post metric figures 1,055 kg legs, 153 cm column up, 130 cm column down, 22 cm min, 10 kg safety payload",
+      "reason": "Gitzo (Italian maker, Vitec group) lists the GT1545T on its global site under the same code; the US page uses GT1545TUS.",
+      "source": "https://www.gitzo.com/global/tripod-traveler-series-1-4-sections-gt1545t/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post: 1,27 kg with head, 39,4 cm folded, 130,2 cm column down, 152,4 cm column up, 14 cm min, 9,1 kg load (EU model PK0201)",
+      "reason": "Sold under the same name by EU retailers (Kamera Express NL, El Corte Ingles ES).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+      "asin": "B07KD2TNMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post and EU listings: 120 cm max without head, 8 cm min, 44,5 cm folded, 1,22 kg, 15 kg load",
+      "reason": "Same ASIN B07KD2TNMN listed on amazon.de and amazon.nl; SIRUI's German shop sells it as 'SIRUI AM-284 TravelLegs Pro Tripod Carbon'; idealo.es lists Spanish offers.",
+      "source": "https://www.amazon.nl/-/en/AM-284-Professional-Photography-Removable-Stainless/dp/B07KD2TNMN"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)",
+      "asin": "B010R4BO12",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global: 3 kg, 181,5 cm max, 151,5 cm column down, 9 cm min, 72,5 cm folded, 15 kg safety payload",
+      "reason": "Manfrotto (Italian maker) sells the kit worldwide under the same code MK055XPRO3-BHQ2 on its global site.",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe, inclusief handvatten en wieltjes: Peak Design (39,4 cm), Gitzo (42,5 cm) en SIRUI (44,5 cm) passen in de lengte, Leofoto met kop (56 cm) en de Manfrotto 055 (72,5 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Photofacts (Liesbeth van Asselt) geeft als vuistregel dat camera plus objectief hoogstens de helft van het draagvermogen van het statief mag wegen voor optimale stabiliteit.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u; aan de kust is dat het moment om de middenzuil laag te houden.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Rijksmuseum: fotograferen en filmen mag zolang het anderen niet stoort; voor bruidsfotografie noemt het museum \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Termen: statiefkop, balhoofd, middenzuil, draaisluiting, klemsluiting, snelkoppelingsplaat, L-bracket; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Middenzuil omhoog kost veel stabiliteit.",
+      "fix": "Leofoto of SIRUI zonder zuil, of de middenzuil omlaag (Engelse post).",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Trilling door wind, ook op een stevig statief.",
+      "fix": "Poten breed, middenzuil omlaag, tas op de grond, de 200-600 aan zijn statiefvoet.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "Peak Design, Gitzo en SIRUI passen in de KLM-maat van 55 cm; Leofoto met kop en de 055 gaan in het ruim.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welke statieven in de KLM-handbagage van 55 x 35 x 25 cm passen.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Photofacts-vuistregel (uitrusting max. de helft van het draagvermogen) naast de A7R V-rekensom: met de 200-600 (2,84 kg) blijven alle vijf ruim binnen die grens.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "point": "Leofoto in Europa meestal als LS-284C Ranger + LH-30.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with an in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout (22 in, 2.33 lb, 51.18 in ...)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets, maker metric figures where given"
+    },
+    {
+      "english": "US forum and B&H references stay as attributed sources; no US-only rule to drop (the post has no US airline or US park rule)",
+      "action": "replace",
+      "with": "add the local cabin-bag fact next to the fold lengths"
+    }
+  ]
+}

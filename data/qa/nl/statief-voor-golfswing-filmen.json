@@ -1,0 +1,20 @@
+{
+  "slug": "nl/statief-voor-golfswing-filmen",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-golf-swing-recording",
+  "pass": true,
+  "checkedAt": "2026-11-03T16:37:25.558Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-gym-videos/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-filming-sports/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-golf-swing-recording: same 5 products/ASINs/scores/spec keys, metric-first conversions (46 in=117 cm, 26 in=66 cm, 27.2 oz=0,8 kg, 62 in=157 cm, 2.8-5.7 in=7,1-14,5 cm, 3.70 in=9,4 cm, 2.47 oz=70 g, 4.02x3.25x2.73 in=10,2x8,3x6,9 cm); 325 g/71 g/56-91 mm/78,0 mm/233 g/72% match B&H and Apple; owner praise/complaints and forum paraphrases match the English post. Local facts from the nl local brief re-opened: R&A Regel 4.3a nl-NL (randa.org), Golfstore Nederland article with Lee Chapman (Winterswijk G&CC: hand height, aimed at the hands, same spot every time, wrong placement makes a correct move look wrong, different angles hard to compare). Apple 240 fps link kept as plain text to stay at 3 outside links. No testing/ownership claims, no prices/currency, no local Amazon store; iRange and SENSYNE get neutral 'mainly sold in the US (and UK)' notes (unknown in NL).",
+    "at": "2026-11-03T16:37:22.434Z",
+    "hash": "69e706583725ece3"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-golf-swing-recording",
+  "checkedAt": "2026-11-03T16:30:58.046Z",
+  "productFit": [
+    {
+      "name": "iRange Sports Stick EXT Golf Monopod",
+      "asin": "B0C41V9YN8",
+      "status": "unknown",
+      "metricSpecs": "iRange gives inches only (26 in collapsed, 46 in extended, 27.2 oz); no maker metric figure found, so convert from the English figures.",
+      "reason": "Listed on amazon.de with the same ASIN and at the UK retailer EGN Golf; no Spanish listing found. Mainly sold in the US and UK.",
+      "source": "https://www.amazon.de/-/en/iRangeSports-Recording-Monopod-Compatible-Magsafe/dp/B0C41V9YN8"
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+      "asin": "B09TQY66NH",
+      "status": "fits",
+      "metricSpecs": "Weight about 650 g (maker/Amazon listing, already metric in the English post); height only given as 62 in.",
+      "reason": "Amazon.es lists the Sensyne 62 Inch Phone Tripod and Selfie Stick (Spanish listing ASIN B0BZP6VV9C).",
+      "source": "https://www.amazon.es/-/en/Sensyne-Extendable-Wireless-Compatible-Android/dp/B0BZP6VV9C"
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod with Wireless Remote",
+      "asin": "B088GNC6TT",
+      "status": "fits",
+      "metricSpecs": "No maker metric figures beyond the English post; holder 3.70 in wide.",
+      "reason": "UBeesize sells this model in the EU through its UBeesize EU store on Amazon (same ASIN B088GNC6TT on amazon.de); no country-only listing checked for this market.",
+      "source": "https://www.amazon.de/UBeesize-Smartphone-Flexibel-Wireless-Fernbedienung/dp/B088GNC6TT"
+    },
+    {
+      "name": "JOBY GripTight ONE GorillaPod Stand",
+      "asin": "B01NGTBA3E",
+      "status": "fits",
+      "metricSpecs": "Max load 0.325 kg, 1/4 inch thread (idealo.de product data); 56-91 mm phone width and 71 g are already metric in the English post.",
+      "reason": "Sold across Europe under the code JB01491-0WW (Amazon.de same ASIN B01NGTBA3E, Foto Erhardt, idealo price comparison).",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/6036324_-griptight-one-gp-stand-joby.html"
+    },
+    {
+      "name": "SelfieGolf Golf Swing Cell Phone Holder Clip",
+      "asin": "B07BRFQ96N",
+      "status": "fits",
+      "metricSpecs": "Weight 2.47 oz and 4.02 x 3.25 x 2.73 in in the English post; convert.",
+      "reason": "All4Golf sells the Selfie Golf soporte para smartphone on its Spanish site.",
+      "source": "https://www.all4golf.com/es/selfie-golf-soporte-para-smartphone-negro-rojo-4413082"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Las Reglas de Golf (R&A, Regla 4.3a) prohíben durante la vuelta ver vídeo de la competición que ayude a elegir un palo, realizar un golpe o decidir cómo jugar; el Comité puede además restringir los dispositivos de audio y vídeo con la Regla Local Modelo G-8. Grabar en el campo está bien, analizar el vídeo se deja para después.",
+      "source": "https://www.randa.org/es-ES/rog/the-rules-of-golf/rule-4"
+    },
+    {
+      "fact": "Galaxia Golf (foro español) pide para el subforo \"Mira mi swing\": cámara siempre en un soporte fijo, cuadro amplio para ver todo el swing, y recomienda (según Meandmygolf) poner la cámara justo detrás de las manos apuntando a ellas.",
+      "source": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+    },
+    {
+      "fact": "Términos: varilla de alineación, alfombrilla, puesto de prácticas (range), bolsa de palos, cámara lenta, rosca de 1/4 de pulgada.",
+      "source": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "El móvil apoyado en cualquier sitio en equilibrio acaba en el suelo.",
+      "fix": "Un soporte que se engancha a la bolsa (SelfieGolf, o las patas flexibles del UBeesize/JOBY) o un trípode de pie.",
+      "quotes": [
+        {
+          "text": "ya me ha pasado de ponerlo en algun sitio haciendo equilibrio y claro piñazo al canto.",
+          "url": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+        }
+      ],
+      "sources": [
+        "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+      ]
+    },
+    {
+      "pain": "Los puestos de prácticas son estrechos y cuesta grabar el swing de frente.",
+      "fix": "Grabar sobre todo down the line, detrás de la bola, o usar un stick con pincho o un mini trípode en la bolsa que ocupan poco sitio.",
+      "quotes": [
+        {
+          "text": "Tambien es complicado grabarte el swing frontal desde los tipicos puestos de range, ya que son estrechos.",
+          "url": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+        }
+      ],
+      "sources": [
+        "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+      ]
+    },
+    {
+      "pain": "Ir y volver hasta el móvil para iniciar y parar la grabación.",
+      "fix": "Mando a distancia Bluetooth (SENSYNE, UBeesize) o temporizador.",
+      "quotes": [
+        {
+          "text": "el paseo hasta la alfombrilla, la vuelta a parar la grabación",
+          "url": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+        }
+      ],
+      "sources": [
+        "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Regla 4.3a: grabar sí, ver vídeo de la competición que ayude a jugar durante la vuelta no; el Comité puede restringirlo más (Regla Local G-8).",
+      "source": "https://www.randa.org/es-ES/rog/the-rules-of-golf/rule-4"
+    },
+    {
+      "point": "Consejo del foro Galaxia Golf: cámara detrás de las manos y apuntando a ellas, siempre en soporte fijo.",
+      "source": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+    },
+    {
+      "point": "Respuesta a los puestos estrechos de range y al paseo para parar la grabación.",
+      "source": "https://www.galaxiagolf.com/viewtopic.php?f=101&t=28890"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I kept holders ... each with an in-stock Amazon US listing.",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific selection criterion (Amazon US listing), no local availability claim."
+    },
+    {
+      "english": "The Strivon Pod (formerly Golfpod), GPOD and GOLFTEC tripod dropped out",
+      "action": "replace",
+      "with": "Keep; it only explains the selection (no US retailer rule involved)."
+    }
+  ]
+}

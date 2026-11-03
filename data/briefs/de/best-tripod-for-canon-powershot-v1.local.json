@@ -1,0 +1,145 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-powershot-v1",
+  "checkedAt": "2026-11-03T16:28:58Z",
+  "productFit": [
+    {
+      "name": "Canon Tripod Grip HG-100TBR",
+      "asin": "B07Z5LZ92N",
+      "status": "fits",
+      "metricSpecs": "Canon: 163 g (179 g with BR-E1), approx. 148,5 mm as a tripod, 1 kg max load; Canon EU V1 spec footnote: camera, lens, mic and other accessories together max 1 kg",
+      "reason": "Canon Deutschland has its own HG-100TBR 'Griffstativ' page, Amazon.de sells it as 'Canon Griffstativ HG-100TBR' (4157C001AA), and Canon's German V1 spec sheet lists 'Griffstativ HG-100TBR / HG-200TBR' as an accessory with the footnote that camera plus accessories should not exceed 1 kg.",
+      "source": "https://www.canon.de/tripods/tripod-grip-hg-100tbr/"
+    },
+    {
+      "name": "Ulanzi MT-16 Extendable Tripod",
+      "asin": "B08LGGXH1J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 22-44 cm, 170 g, 1,5 kg (already metric in the English post)",
+      "reason": "Sold in the EU under the same name and item number Ulanzi 2052 (Amazon EU listing / Ulanzi EU store).",
+      "source": "https://www.amazon.de/-/en/MT-16-Extendable-ULANZI-Smartphone-Smartphones/dp/B08N6ZG9F2"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13,5 cm fixed height, 18,5 cm closed, 0,17 kg, 1 kg load (already metric in the English post)",
+      "reason": "EU retailers (Thomann) list the MTPIXIMII-B PIXI Mini under the same name and code.",
+      "source": "https://www.thomann.de/be/manfrotto_mtpiximii_b_pixi_mini_stand_bk.htm"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload",
+      "reason": "Calumet Germany sells the MTPIXIEVO-BK under the same name.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (English table already gives 130 / 152 / 39 cm, 1,3 kg, 9,1 kg)",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by Kamera Express (NL/BE).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon Deutschland lists the PowerShot V1 at 426 g (CIPA, with battery and card), tripod socket 1/4 (ISO 1222), and 'Griffstativ HG-100TBR / HG-200TBR' as accessories with the note that camera and all accessories together should not exceed 1 kg.",
+      "source": "https://www.canon.de/cameras/powershot-v1/specifications/"
+    },
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg; the Peak Design Travel Tripod folds to 39 cm and fits by length.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Ryanair includes a small personal bag of 40 x 30 x 20 cm under the seat in every fare; all four minis (HG-100TBR 19 cm, PIXI Mini 18,5 cm, PIXI EVO 20,5 cm, MT-16 22 cm folded) are shorter than that bag.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Staatliche Museen zu Berlin: tripods (and bags over 30 x 20 x 10 cm) must be handed in at the cloakroom or put in a locker, so a mini tripod goes there too.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "fact": "Humboldt Forum Berlin allows private photos, but tripods may not be used indoors.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "German terms: Griffstativ, Tischstativ / Ministativ, Kugelkopf, Mittelsäule, Stativgewinde 1/4 Zoll, Blitzschuh; Arca-Swiss keeps its name.",
+      "source": "https://www.canon.de/tripods/tripod-grip-hg-100tbr/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The ball head of a PIXI-type mini tripod does not hold the camera reliably in the locked position.",
+      "fix": "English post: lock the head with the camera's weight centred over it, or use the PIXI EVO's -90° side tilt for portrait; the PIXI EVO's 2,5 kg rating leaves more margin.",
+      "quotes": [
+        {
+          "text": "Ich suche eine Alternative zum Manfrotto Pixi, bei dem die Kamera zuverlässig in der Position bleibt, in der man den Gelenkkopf fixiert hat.",
+          "url": "https://www.fuji-x-forum.de/topic/61038-alternative-zu-manfrotto-pixi/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "A small table tripod tips forward when the weight sits in front of it.",
+      "fix": "Turn one leg forward under the lens; the V1 is only 426 g and short, and the HG-100TBR / PIXI legs spread under it.",
+      "quotes": [
+        {
+          "text": "drehe das Stativ mal so, dass ein Bein von den drei Beinen vorne steht, also unter dem Objetiv",
+          "url": "https://www.gutefrage.net/frage/warum-kippt-meine-kamera-auf-dem-stativ-immer-nach-vorne"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Tripods are banned or must go to the cloakroom in many German museums.",
+      "fix": "Check the house rules first (Staatliche Museen Berlin, Humboldt Forum); the V1's optical IS covers handheld shots there.",
+      "quotes": [],
+      "sources": [
+        "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Canon Deutschland's own V1 figures (426 g, 1/4-Zoll-Gewinde) and its 1 kg total-weight note for the Griffstativ.",
+      "source": "https://www.canon.de/cameras/powershot-v1/specifications/"
+    },
+    {
+      "point": "Ryanair 40 x 30 x 20 cm small bag fits every mini; Lufthansa 55 cm cabin bag fits the Peak Design.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Berlin museum tripod rules (Staatliche Museen cloakroom, Humboldt Forum no tripods indoors).",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each has its own in-stock Amazon US listing' (How I picked)",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'the Amazon US listing I checked is sold by a camera store, not Amazon' (HG-100TBR renterNote and product section)",
+      "action": "drop"
+    },
+    {
+      "english": "'folds to 15.5 in for a carry-on' (US carry-on wording)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin-bag fact"
+    },
+    {
+      "english": "Inch-first figures for the Peak Design (51.25 in, 60 in, 15.5 in, 5.5 in, 2.8 lb, 20 lb) and '16 ft' remote range",
+      "action": "replace",
+      "with": "metric first: 130 cm, 152 cm, 39 cm, 14 cm, 1,3 kg, 9,1 kg, about 5 m (16 ft)"
+    },
+    {
+      "english": "Canon USA HG-100TBR compatibility page as the V1 compatibility source",
+      "action": "replace",
+      "with": "Canon Deutschland V1 spec sheet listing the HG-100TBR"
+    }
+  ]
+}

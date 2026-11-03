@@ -1,0 +1,151 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-sony-a7r-v",
+  "checkedAt": "2026-11-03T16:28:20.000Z",
+  "productFit": [
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "Leofoto's EU dealer (leofoto.net) and Calumet DE list the set as 'LS-284C Ranger + LH-30' (code without the X of the US kit, add-on column DC-282C); same columnless four-section carbon legs and LH-30 head. No EU listing of the X-coded kit was found.",
+      "metricSpecs": "Not used for the X kit: leofoto.net gives figures for the LS-284C set (53 cm pack size, 1,43 kg legs, 10 kg load) that differ from the X version, so the translator converts the English figures (56 cm with head, 1,5 kg with head, 10 kg).",
+      "reason": "Europe mainly sells the LS-284C Ranger + LH-30 kit (verified in the R6 Mark II and Nikon Zf local briefs, 2026-11-02).",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-284c-ranger-ballhead-lh-30-2-segment-centre-column-dc-282c/p,70599"
+    },
+    {
+      "name": "Gitzo GT1545T Series 1 Traveler Tripod",
+      "asin": "B016NSFTIK",
+      "status": "fits",
+      "metricSpecs": "Gitzo: folds to 42,5 cm; English post metric figures 1,055 kg legs, 153 cm column up, 130 cm column down, 22 cm min, 10 kg safety payload",
+      "reason": "Gitzo (Italian maker, Vitec group) lists the GT1545T on its global site under the same code; the US page uses GT1545TUS.",
+      "source": "https://www.gitzo.com/global/tripod-traveler-series-1-4-sections-gt1545t/"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post: 1,27 kg with head, 39,4 cm folded, 130,2 cm column down, 152,4 cm column up, 14 cm min, 9,1 kg load (EU model PK0201)",
+      "reason": "Sold under the same name by EU retailers (Kamera Express NL, El Corte Ingles ES).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+      "asin": "B07KD2TNMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post and EU listings: 120 cm max without head, 8 cm min, 44,5 cm folded, 1,22 kg, 15 kg load",
+      "reason": "Same ASIN B07KD2TNMN listed on amazon.de and amazon.nl; SIRUI's German shop sells it as 'SIRUI AM-284 TravelLegs Pro Tripod Carbon'; idealo.es lists Spanish offers.",
+      "source": "https://siruishop.de/en/products/780139"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)",
+      "asin": "B010R4BO12",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global: 3 kg, 181,5 cm max, 151,5 cm column down, 9 cm min, 72,5 cm folded, 15 kg safety payload",
+      "reason": "Manfrotto (Italian maker) sells the kit worldwide under the same code MK055XPRO3-BHQ2 on its global site.",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm: Peak Design (39,4 cm), Gitzo (42,5 cm) und SIRUI (44,5 cm) passen der Länge nach, das Leofoto mit Kopf (56 cm) und das Manfrotto 055 (72,5 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\".",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h; bei solchen Böen gilt: Mittelsäule unten, Tasche auf den Boden.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Begriffe: Kugelkopf, Mittelsäule, Drehverschluss, Klemmhebel, Schnellwechselplatte, L-Winkel, Pixel-Shift-Multi-Aufnahme; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Mittelsäule wackelt an einer hochauflösenden A7R.",
+      "fix": "Säulenloses Leofoto oder SIRUI, oder die Säule unten lassen (englischer Beitrag).",
+      "quotes": [
+        {
+          "text": "Passt gut zur hoch auflösenden A7R3 auch bei längeren Objektiven und Belichtungszeiten.",
+          "url": "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+        }
+      ],
+      "sources": [
+        "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+      ]
+    },
+    {
+      "pain": "Alu-Stative schwingen nach.",
+      "fix": "Carbonbeine (Leofoto, Gitzo, Peak Design, SIRUI) dämpfen Vibrationen; das Alu-055 nur nah am Auto.",
+      "quotes": [
+        {
+          "text": "Alternativ ein Carbonstativ, die schwingen nicht so.",
+          "url": "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+        }
+      ],
+      "sources": [
+        "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+      ]
+    },
+    {
+      "pain": "Kugelkopf ohne Friktion lässt die Kamera kippen.",
+      "fix": "Kugelkopf mit separater Friktion (XPRO-Kopf des 055, Arca-Kopf mit Friktion auf SIRUI oder Gitzo).",
+      "quotes": [
+        {
+          "text": "Mit einem guten Kugelkopf mit Friktion klappt das feinfühlige Einstellen aber auch sehr gut, vor allem, wenn die Kugel nicht zu klein ist.",
+          "url": "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+        }
+      ],
+      "sources": [
+        "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+      ]
+    },
+    {
+      "pain": "Unsicherheit, ob das Stativ ins Handgepäck darf.",
+      "fix": "Peak Design, Gitzo und SIRUI bleiben unter 55 cm; Leofoto mit Kopf und 055 ins aufgegebene Gepäck.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welche der fünf Stative in einen Lufthansa-Handgepäckkoffer von 55 x 40 x 23 cm passen.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Stativ im Kölner Dom nur mit Genehmigung des Dompropstes.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Leofoto in Europa meist als LS-284C Ranger + LH-30; SIRUI in Deutschland als AM-284 TravelLegs Pro.",
+      "source": "https://siruishop.de/en/products/780139"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with an in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout (22 in, 2.33 lb, 51.18 in ...)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets, maker metric figures where given"
+    },
+    {
+      "english": "US forum and B&H references stay as attributed sources; no US-only rule to drop (the post has no US airline or US park rule)",
+      "action": "replace",
+      "with": "add the local cabin-bag fact next to the fold lengths"
+    }
+  ]
+}

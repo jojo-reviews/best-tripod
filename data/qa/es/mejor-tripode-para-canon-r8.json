@@ -1,0 +1,19 @@
+{
+  "slug": "es/mejor-tripode-para-canon-r8",
+  "lang": "es",
+  "translationOf": "best-tripod-for-canon-r8",
+  "pass": true,
+  "checkedAt": "2026-11-03T16:32:40.881Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-canon-r8 (same 5 products/ASINs/scores/spec keys; figures metric-first converted from the English post or maker metric figures: Peak Design 1,56 kg/39,4/130,2/152,4 cm, Befree 151/128/40 cm 1,59 kg 9 kg, Leofoto ~127 cm/56 cm/10 kg, Mach3 177/59 cm 2,05 kg 16 kg plus Benro Europe 153 cm column down, 055 181,5/151,5/72,5 cm 3 kg 15 kg). R8 461 g re-checked on canon.es specifications; lens weights 395/695 g kept from Canon USA as plain text. Local facts from the local brief: Iberia 56x40x25 cm 10 kg, Sagrada Familia and Alhambra tripod rules, AEMET Beaufort 6; Fujistas and Canonistas quotes verbatim from the brief. No prices, testing claims or local Amazon claims.",
+    "at": "2026-11-03T16:32:40.309Z",
+    "hash": "0c05746bff16267e"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "de/bestes-stativ-fuer-canon-r8",
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-r8",
+  "pass": true,
+  "checkedAt": "2026-11-03T16:30:39.291Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-canon-r8 (same 5 products/ASINs/scores/spec keys, all figures converted metric-first from the English post or maker metric figures: Peak Design 1,56 kg/39,4/130,2/152,4 cm, Befree 151/128/40 cm 1,59 kg 9 kg, Leofoto ~127 cm 56 cm 10 kg, Mach3 177 cm/59 cm/2,05 kg/16 kg plus Benro Europe 153 cm column down (de.benroeu.com), 055 181,5/151,5/72,5 cm 3 kg 15 kg). R8 461 g re-checked on canon.de key-features page and Canon manual; lens weights 395 g/695 g kept from Canon USA (now plain text). Local facts from the local brief: Lufthansa 55x40x23 cm 8 kg, Koelner Dom tripod permit, DWD wind scale; dslr-forum and canon-eos-r-forum quotes verbatim from the brief. No prices, no testing claims, no local Amazon claims.",
+    "at": "2026-11-03T16:30:38.788Z",
+    "hash": "1e138eb4bbd69bce"
+  }
+}

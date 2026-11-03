@@ -1,0 +1,19 @@
+{
+  "slug": "nl/beste-statief-voor-canon-powershot-v1",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-canon-powershot-v1",
+  "pass": true,
+  "checkedAt": "2026-11-03T16:36:16.249Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared every section, table row, product spec, score and FAQ with the English post: same 5 products/ASINs/scores, metric-first conversions (Peak Design maker metric 130,2/152,4/39,4/14 cm, 1,3 kg, 9,1 kg; BR-E1 16 ft = 4,9 m). Re-opened canon.nl V1 spec sheet (426 g, statiefbevestiging 1/4 ISO 1222, Statiefgrip HG-100TBR/HG-200TBR). Local facts from the local brief: Ryanair 40x30x20 cm small bag (linked), KLM 55x35x25 cm, Rijksmuseum Boerhaave no tripod; Tweakers quote verbatim from the local brief. Dropped US-only: Amazon US listing seller note, 'in-stock Amazon US listing'. No testing/ownership claims, no prices, no local store claims.",
+    "at": "2026-11-03T16:36:15.663Z",
+    "hash": "ae7be51be398643a"
+  }
+}

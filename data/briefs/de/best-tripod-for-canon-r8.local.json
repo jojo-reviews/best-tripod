@@ -1,0 +1,157 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-r8",
+  "checkedAt": "2026-11-03T16:27:47.061Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,1 kg load (maker/retailer figures, same as the English post; Foto Koch gives 39,1 cm packed)",
+      "reason": "Sold under the same name by EU retailers (Foto Koch DE, Kamera Express NL).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same lever legs, 494 head and plate.",
+      "metricSpecs": "Manfrotto: 151 cm max height, 40 cm closed length, 1,59 kg, 9 kg safety payload",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "EU dealers (Calumet DE, Kamera Express NL) list the earlier LS-284C Ranger + LH-30 (non-X version, same columnless four-section carbon concept and LH-30 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: EU figures are for the earlier LS-284C and differ from the X version, so the translator converts the English figures.",
+      "reason": "The X version appears on B&H and US shops; Europe mainly sells the earlier LS-284C Ranger kit.",
+      "source": "https://www.calumet.de/product/leofoto-carbon-dreibeinstativ-ls-284c-lh-30"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm max with column retracted (not published on the US page), 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top.",
+      "reason": "Sold by Benro Europe under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)",
+      "asin": "B010R4BO12",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global: 3 kg, 181,5 cm max, 151,5 cm column down, 72,5 cm folded, 15 kg safety payload",
+      "reason": "Manfrotto (Italian maker) sells the kit under the same code MK055XPRO3-BHQ2 on its global site.",
+      "source": "https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon Deutschland: Mit Akku und Speicherkarte wiegt die EOS R8 nur ca. 461 g (same figure as the English post, from the German Canon page).",
+      "source": "https://www.canon.de/pro/news/eos-r8-key-features/"
+    },
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg: Peak Design (39,4 cm), Befree Advanced (40 cm) und Leofoto mit Kopf (56 cm, knapp zu lang) – nur die ersten beiden passen sicher der Länge nach; Mach3 (59 cm) und 055 (72,5 cm) gehören ins aufgegebene Gepäck.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private Fotos ohne Blitz sind erlaubt, aber Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als starken Wind; bei solchen Böen an Nord- oder Ostseeküste die Mittelsäule unten lassen.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Begriffe: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, L-Winkel; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dünne Reisestative tragen die Kamera, schwingen aber bei Wind.",
+      "fix": "Tragkraft ist bei der R8 nie das Limit; säulenloses Leofoto oder Mach3 für Wind, Mittelsäule unten (aus dem englischen Beitrag).",
+      "quotes": [
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        },
+        {
+          "text": "Noch ein Tipp: Orientiere dich nicht an der Tragfähigkeit, die der Hersteller angibt.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Angst, dass das Stativ bei Wind umkippt.",
+      "fix": "Kameratasche tief an den Haken der Mittelsäule hängen (Canon-Rumors-Tipp aus dem englischen Beitrag).",
+      "quotes": [
+        {
+          "text": "ich habe schon einige umgekippte Stative (samt Kamera und Optik) gesehen, die ohne Zusatzgewichte, bei gar nicht starkem Wind, sich verselbstständigt haben.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Unsicherheit, ob das Reisestativ ins Handgepäck darf.",
+      "fix": "Peak Design und Befree Advanced bleiben unter 55 cm (Lufthansa); Leofoto mit Kopf, Mach3 und 055 ins aufgegebene Gepäck oder ins Auto.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welche der fünf Stative in einen Lufthansa-Handgepäckkoffer von 55 x 40 x 23 cm passen.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Benro Europe nennt für das Mach3 TMA38CL 153 cm ohne Mittelsäule, ein Wert, den der englische Beitrag als nicht veröffentlicht führt.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "EU-Codes: Befree Advanced als MKBFRLA4BK-BH, Leofoto in Europa meist als älteres LS-284C.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "point": "Stativ nur mit Genehmigung im Kölner Dom.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each in stock on Amazon US' and 'The Vanguard VEO 3GO was out of stock on Amazon US' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing'; the VEO 3GO line becomes 'had no Amazon listing in stock' without naming a store"
+    },
+    {
+      "english": "'fits a carry-on' / 'folds to 15.75 in for a carry-on' (US carry-on wording without a size)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin bag fact"
+    },
+    {
+      "english": "Canon USA lens weight links (395g, 695g)",
+      "action": "replace",
+      "with": "keep the same figures and links (Canon USA is the source; the weights are the same worldwide), only put metric first"
+    },
+    {
+      "english": "Benro 'Max height (column down): Not published by Benro' and 'not published (69.7 in max)' in the table",
+      "action": "replace",
+      "with": "Benro Europe's figure: 153 cm with the column retracted"
+    },
+    {
+      "english": "Inch/lb-first figures throughout",
+      "action": "replace",
+      "with": "metric first, imperial in brackets"
+    }
+  ]
+}
