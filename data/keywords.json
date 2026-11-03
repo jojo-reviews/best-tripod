@@ -7584,7 +7584,7 @@
     "publishedAt": "2026-11-02T11:32:06.048Z"
   },
   {
-    "status": "in-progress",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7612,7 +7612,8 @@
     },
     "slug": "best-tripod-for-golf-swing-recording",
     "startedAt": "2026-11-03T11:19:16.403Z",
-    "productCount": 6
+    "productCount": 5,
+    "publishedAt": "2026-11-03T11:33:37.760Z"
   },
   {
     "status": "published",

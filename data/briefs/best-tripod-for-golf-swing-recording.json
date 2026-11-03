@@ -1,0 +1,574 @@
+{
+  "centralEntity": "tripod for golf swing recording",
+  "entityVariants": [
+    "golf swing tripod",
+    "golf tripod for phone",
+    "phone tripod for golf swing",
+    "golf swing camera stand",
+    "tripod to record golf swing"
+  ],
+  "entities": [
+    {
+      "name": "Tripod",
+      "type": "product type",
+      "relation": "three-legged stand that holds the phone still for a swing video",
+      "salience": 0.83,
+      "pages": 2
+    },
+    {
+      "name": "Golf swing",
+      "type": "activity",
+      "relation": "the motion being recorded; needs the whole club path in frame",
+      "salience": 0.64,
+      "pages": 2
+    },
+    {
+      "name": "Golf",
+      "type": "activity",
+      "relation": "context: driving range, practice green, course",
+      "salience": 0.69,
+      "pages": 3
+    },
+    {
+      "name": "Monopod",
+      "type": "product type",
+      "relation": "ground-spike stick (iRange, GPOD) that golfers use instead of a tripod",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
+      "name": "Smartphone",
+      "type": "device",
+      "relation": "the camera nearly every golfer films with; width and weight decide the holder",
+      "salience": 0.6,
+      "pages": 5
+    },
+    {
+      "name": "MagSafe",
+      "type": "technology",
+      "relation": "magnetic phone attachment many golf stands use",
+      "salience": 0.45,
+      "pages": 4
+    },
+    {
+      "name": "Bluetooth remote",
+      "type": "accessory",
+      "relation": "starts and stops recording from the hitting position",
+      "salience": 0.5,
+      "pages": 4
+    },
+    {
+      "name": "Alignment stick",
+      "type": "golf training aid",
+      "relation": "what clip holders like SelfieGolf attach to",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "Down-the-line view",
+      "type": "camera angle",
+      "relation": "camera behind the golfer on the target line, at about hand height",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
+      "name": "Face-on view",
+      "type": "camera angle",
+      "relation": "camera facing the golfer, square to the chest",
+      "salience": 0.45,
+      "pages": 2
+    },
+    {
+      "name": "Golf bag",
+      "type": "equipment",
+      "relation": "where the stand is carried, and a base for clips and flexible tripods",
+      "salience": 0.5,
+      "pages": 4
+    },
+    {
+      "name": "Slow motion",
+      "type": "video feature",
+      "relation": "phone slo-mo frame rates make club positions readable",
+      "salience": 0.3,
+      "pages": 1
+    }
+  ],
+  "attributes": [
+    "height range (hand height at address for down-the-line)",
+    "collapsed length vs golf bag slot",
+    "ground spike vs freestanding base",
+    "phone holder width and MagSafe",
+    "remote start/stop",
+    "stability in wind",
+    "weight in the bag"
+  ],
+  "ngrams": [
+    "record your swing",
+    "film your swing",
+    "golf bag",
+    "down the line",
+    "face on",
+    "ground spike",
+    "alignment stick",
+    "bluetooth remote",
+    "phone holder",
+    "driving range",
+    "hand height"
+  ],
+  "skipgrams": [
+    "spike…ground",
+    "phone…magnet",
+    "remote…recording",
+    "tripod…wind",
+    "camera…hand height",
+    "clip…alignment stick"
+  ],
+  "nlpTerms": [
+    "swing analysis",
+    "range mat",
+    "practice session",
+    "slo-mo",
+    "MagSafe",
+    "monopod",
+    "golf simulator",
+    "camera angle",
+    "club path",
+    "swing plane"
+  ],
+  "questions": [
+    "What is the best tripod for recording a golf swing?",
+    "How high should the phone be to film a golf swing?",
+    "Can I use a regular phone tripod for golf?",
+    "Is a ground-spike stick better than a tripod?",
+    "How do I start recording without walking back to the phone?",
+    "What frame rate should I film my golf swing at?"
+  ],
+  "contentGaps": [
+    "No top result compares golf-specific sticks with cheap photo tripods on height, collapsed length and price class side by side",
+    "No result explains which holder works on range mats vs grass vs indoors in one chooser",
+    "No result checks phone width and weight against each holder",
+    "Forum threads list products but never give a down-the-line setup in steps"
+  ],
+  "outline": [
+    {
+      "h2": "Golf swing tripod comparison by height and surface",
+      "intent": "comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these golf swing recording tripods",
+      "intent": "method",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for golf swing recording, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "iRange Sports Stick EXT",
+        "SENSYNE 62-Inch Phone Tripod",
+        "UBeesize Flexible Phone Tripod",
+        "JOBY GripTight ONE GorillaPod Stand",
+        "SelfieGolf phone clip"
+      ]
+    },
+    {
+      "h2": "How to set up a tripod for a down-the-line golf swing video",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "Golf swing tripod problems golfers run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1150,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.reddit.com/r/golf/comments/183xg1t/looking_for_phone_tripod_recommendations/",
+      "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+      "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+      "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+      "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers",
+      "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The top results are forum threads (r/golf, MyGolfSpy, The Hackers Paradise, GolfWRX) where each product is a short paragraph of owner opinion, plus single-product brand pages (V1 Sports, Strivon); none uses spec tables per product.",
+    "avgWords": 1060,
+    "avgWordsNote": "Approximate body word counts without navigation and signatures: Strivon guide 2,250, V1 Sports review 1,050, Hackers Paradise thread 750, GolfWRX thread 700, MyGolfSpy thread 550; the r/golf thread could not be opened (excerpt only).",
+    "avgProducts": 3,
+    "commonSections": [
+      "phone holder or MagSafe mount",
+      "ground spike vs tripod base",
+      "height for down-the-line and face-on",
+      "Bluetooth remote",
+      "fits in the golf bag",
+      "price of golf-branded vs generic tripods"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/golf/comments/183xg1t/looking_for_phone_tripod_recommendations/",
+      "title": "Looking for phone tripod recommendations : r/golf - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://gpodgolf.com/",
+      "title": "GPOD GOLF: #1 Golf Accessory for Capturing Content and Data"
+    },
+    {
+      "position": 3,
+      "url": "https://www.amazon.com/clp/B0D3646BMC",
+      "title": "Golf Tripod for Recording Golf Swing, Golf Swing Analyzer Phone Holder ..."
+    },
+    {
+      "position": 4,
+      "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+      "title": "What is the best stand or tripod to record your swing?"
+    },
+    {
+      "position": 5,
+      "url": "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+      "title": "Best tripod for videoing your golf swing? - The Hackers Paradise"
+    },
+    {
+      "position": 6,
+      "url": "https://shop.golftec.com/golftec-cell-phone-tripod.html",
+      "title": "GOLFTEC Cell Phone Tripod"
+    },
+    {
+      "position": 7,
+      "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+      "title": "Phone tripod or other ideas for filming swing - Forums - GolfWRX"
+    },
+    {
+      "position": 8,
+      "url": "https://shop.carlofet.com/carls-tripod",
+      "title": "Golf Swing Camera Tripods - Carl's Place"
+    },
+    {
+      "position": 9,
+      "url": "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers",
+      "title": "The Golfpod 2.0: A Review of the Best Tripod for Golfers | V1 Sports"
+    },
+    {
+      "position": 10,
+      "url": "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing",
+      "title": "Best Golf Tripod for Recording Your Swing | STRIVON"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "golf swing",
+      "phone",
+      "record",
+      "film",
+      "best"
+    ],
+    "gap": "No top-10 title is a multi-product roundup with a year and pick count that covers both golf sticks and cheap phone tripods; most are forum questions or single-brand shop pages."
+  },
+  "serpProducts": [
+    {
+      "name": "iRange Sports Stick EXT",
+      "pages": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+        "https://forum.mygolfspy.com/topic/68127-unofficial-review-phone-recording-mounts-ive-tested/"
+      ]
+    },
+    {
+      "name": "SelfieGolf phone clip",
+      "pages": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+        "https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/"
+      ]
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod",
+      "pages": [
+        "https://www.reddit.com/r/golf/comments/183xg1t/looking_for_phone_tripod_recommendations/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+      ]
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod",
+      "pages": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.reddit.com/r/golf/comments/cb0fre/what_mountstick_do_you_guys_use_to_record_your/",
+        "https://www.reddit.com/r/golf/comments/clxpta/what_are_some_appstools_to_record_your_golf_swing/"
+      ]
+    },
+    {
+      "name": "JOBY GripTight ONE GorillaPod Stand",
+      "pages": [
+        "https://forum.mygolfspy.com/topic/68127-unofficial-review-phone-recording-mounts-ive-tested/",
+        "https://www.reddit.com/r/golf/comments/4wafkl/what_do_you_use_to_record_your_own_swing_at_the/"
+      ]
+    },
+    {
+      "name": "Strivon Pod (formerly Golfpod) – excluded, no Amazon US listing",
+      "pages": [
+        "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing"
+      ]
+    },
+    {
+      "name": "GPOD – excluded, Amazon US listings unavailable",
+      "pages": [
+        "https://gpodgolf.com/",
+        "https://www.reddit.com/r/golf/comments/1irc4h4/tripod/"
+      ]
+    },
+    {
+      "name": "GOLFTEC Cell Phone Tripod – excluded, not sold on Amazon US",
+      "pages": [
+        "https://shop.golftec.com/golftec-cell-phone-tripod.html",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+      ]
+    }
+  ],
+  "commonPoints": [
+    "Any tripod with a phone holder works; golf branding adds to the price",
+    "Ground-spike sticks are quick on grass but need a base on mats or hard ground",
+    "A Bluetooth remote saves walking back to the phone",
+    "MagSafe or magnetic mounts speed up attaching the phone",
+    "The stand should fit in or on the golf bag",
+    "Film down-the-line at about hand height and face-on square to the chest"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Height-to-view check: down-the-line filming wants the lens near hand height at address; the iRange EXT tops out at 46 in, the SENSYNE at 62 in, while flexible minis and the SelfieGolf clip only reach that height on a golf bag or alignment stick.",
+      "source": "https://irangesports.com/products/irangesports-stick-ext",
+      "absentFrom": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+        "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Phone fit check: an iPhone 17 Pro Max is 78.0 mm wide and 233 g; the JOBY GripTight ONE holds 56 to 91 mm phones and 325 g, so the phone uses about 72% of its rating.",
+      "source": "https://support.apple.com/en-us/125091",
+      "absentFrom": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+        "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by surface: grass only (iRange spike), mats and indoors (SENSYNE or iRange base), on the course with no extra kit (SelfieGolf on a stick or bag), top of the bag (UBeesize or JOBY).",
+      "source": "maker specs (iRange, SENSYNE, UBeesize, JOBY, SelfieGolf)",
+      "absentFrom": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+        "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Walking back to press record: a pocket Bluetooth remote (SENSYNE, UBeesize) or the iPhone Camera Control fixes it; golfers on The Hackers Paradise and GolfWRX name the remote as the reason they chose their tripod.",
+      "source": "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+      "absentFrom": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Wind moves a stick or alignment-stick setup: one GolfWRX golfer switched back to a tripod because an alignment stick swayed and sat too low; spread legs fully and keep the phone low on windy days.",
+      "source": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/",
+      "absentFrom": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://v1sports.com/blog/the-golfpod-2-0-a-review-of-the-best-tripod-for-golfers"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "phone-tripods-golf-wind-alignment-stick",
+      "pain": "A phone on an alignment stick or thin stand sways in wind and sits too low for a useful angle",
+      "details": "Golfers who clip a phone to an alignment stick or a light pole find wind moves it during the swing; one GolfWRX poster went back to a full tripod.",
+      "sources": [
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/"
+      ],
+      "quotes": [
+        {
+          "text": "found the wind made it move around too much and the camera angle was too low",
+          "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-golf-hard-ground-spike",
+      "pain": "Ground-spike stands do not go into hard ground or range mats",
+      "details": "Spike-style golf sticks need soft turf; on hard ground, mats or indoors they need an extra base.",
+      "sources": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://strivongolf.com/blogs/infos/best-golf-tripod-for-recording-golf-swing"
+      ],
+      "quotes": [
+        {
+          "text": "the ground can get very hard in my area",
+          "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-golf-walk-back-to-record",
+      "pain": "Walking back to the phone to start and stop every clip",
+      "details": "Golfers pick tripods with a Bluetooth remote so they can start recording from the ball and edit less.",
+      "sources": [
+        "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/"
+      ],
+      "quotes": [
+        {
+          "text": "I can get in position before starting the recording which means less editing later.",
+          "url": "https://www.thehackersparadise.com/forum/index.php?threads/best-tripod-for-videoing-your-golf-swing.8980851/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-golf-setup-hassle-price",
+      "pain": "Golf-branded stands cost more, and fiddly tripods stop getting used",
+      "details": "Forum golfers note a golf name adds to the price, while others stopped filming because their small tripod was a hassle to set up.",
+      "sources": [
+        "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/",
+        "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/"
+      ],
+      "quotes": [
+        {
+          "text": "if it has \"golf\" in the name it adds to the price",
+          "url": "https://forum.mygolfspy.com/topic/66017-what-is-the-best-stand-or-tripod-to-record-your-swing/"
+        },
+        {
+          "text": "I used to use a little tripod but found myself not using it very much because it was a hassle to setup.",
+          "url": "https://forums.golfwrx.com/topic/2001200-phone-tripod-or-other-ideas-for-filming-swing/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-selfie-stick-wobble",
+      "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones",
+      "details": "Single-pole phone tripods shake when extended, in wind or with a Pro Max phone.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "240 fps",
+      "claim": "iPhone 17 Pro Max slo-mo at 1080p",
+      "url": "https://support.apple.com/en-us/125091",
+      "quote": "Slo‑mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps"
+    },
+    {
+      "number": "46 inches",
+      "claim": "iRange Sports Stick EXT extended height (26 in collapsed, 27.2 oz)",
+      "url": "https://irangesports.com/products/irangesports-stick-ext",
+      "quote": "Monopod - collapsed: 26 inches X 1 inch x 1 inch, extended: 46 inches"
+    },
+    {
+      "number": "11.5 oz / 325 g",
+      "claim": "JOBY GripTight ONE GorillaPod Stand load capacity",
+      "url": "https://www.bhphotovideo.com/c/product/1321823-REG/joby_jb01491_griptight_one_gp_stand.html",
+      "quote": "Load Capacity | 11.5 oz / 325 g"
+    }
+  ],
+  "videos": [
+    {
+      "id": "ZnnLVohcMiw",
+      "title": "Down the Line Camera Set-Up for Golf Swing Video Capture",
+      "channel": "Craig Hanson Golf",
+      "url": "https://www.youtube.com/watch?v=ZnnLVohcMiw",
+      "section": "How to set up a tripod for a down-the-line golf swing video"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-tripod-for-gym-videos",
+    "best-phone-tripod-for-vlogging-with-remote",
+    "best-tripod-for-filming-sports",
+    "best-tripod-for-content-creators"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-phone-tripod-for-vlogging-with-remote",
+      "find": "The SENSYNE 62-Inch Phone Tripod & Selfie Stick is a 62 in aluminum phone tripod from SENSYNE, and the simplest way to reach standing height with a remote for little money.",
+      "replace": "The SENSYNE 62-Inch Phone Tripod & Selfie Stick is a 62 in aluminum phone tripod from SENSYNE, and the simplest way to reach standing height with a remote for little money; it is also our budget pick among [tripods for golf swing recording](/blog/best-tripod-for-golf-swing-recording/)."
+    },
+    {
+      "slug": "best-tripod-for-gym-videos",
+      "find": "I left out gimbals, which suit walking shots more than a set filmed from one spot.",
+      "replace": "I left out gimbals, which suit walking shots more than a set filmed from one spot, the same reason they are missing from our [golf swing recording tripods](/blog/best-tripod-for-golf-swing-recording/)."
+    }
+  ],
+  "secondaryKeywords": [
+    "best phone tripod for golf swing",
+    "golf tripod for phone",
+    "tripod to record golf swing",
+    "best golf swing camera stand",
+    "golf swing recording stand",
+    "best tripod for filming golf swing"
+  ],
+  "angle": "Match the holder to where you practice (grass, mats, course, indoors) and check height against a down-the-line view, instead of paying for a golf name.",
+  "textrazor": {
+    "ran": true,
+    "pagesAnalyzed": 3,
+    "note": "MyGolfSpy and GolfWRX blocked TextRazor fetch (Cloudflare); shared entities from Strivon, V1 Sports and The Hackers Paradise",
+    "sharedEntities": [
+      {
+        "entity": "Golf",
+        "type": "Activity",
+        "pages": 3,
+        "relevance": 0.69,
+        "wiki": "http://en.wikipedia.org/wiki/Golf"
+      },
+      {
+        "entity": "Tripod",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.83,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      },
+      {
+        "entity": "Tripod (photography)",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.75,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      },
+      {
+        "entity": "Golf swing",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.64,
+        "wiki": "http://en.wikipedia.org/wiki/Golf_swing"
+      },
+      {
+        "entity": "Monopod",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.43,
+        "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      }
+    ]
+  }
+}

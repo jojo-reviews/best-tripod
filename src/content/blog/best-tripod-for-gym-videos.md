@@ -464,6 +464,7 @@ heroAlt: >-
   Best Tripod for Gym Videos (2026) – 5 Picks From Bench to Platform – Best
   Tripod buying guide
 related:
+  - best-tripod-for-golf-swing-recording
   - best-tripod-for-live-streaming
 ---
 
