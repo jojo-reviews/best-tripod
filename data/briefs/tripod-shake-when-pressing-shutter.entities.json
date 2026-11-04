@@ -15,182 +15,252 @@
       "type": "/fictional_universe/character_species",
       "pages": 5,
       "relevance": 0.81,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 5,
       "relevance": 0.8,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
       "type": "",
       "pages": 5,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
+      "wikidata": "Q31009",
+      "idsChecked": true
     },
     {
       "entity": "Shutter (photography)",
       "type": "",
       "pages": 5,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)",
+      "kgmid": "/m/06q4q4",
+      "wikidata": "Q691823",
+      "idsChecked": true
     },
     {
       "entity": "Shutter speed",
       "type": "",
       "pages": 5,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed",
+      "kgmid": "/m/0168k4",
+      "wikidata": "Q349600",
+      "idsChecked": true
     },
     {
       "entity": "Telephoto lens",
       "type": "/business/product_category",
       "pages": 3,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "kgmid": "/m/01bt4w",
+      "wikidata": "Q516461",
+      "idsChecked": true
     },
     {
       "entity": "Vibration",
       "type": "",
       "pages": 3,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Vibration"
+      "wiki": "http://en.wikipedia.org/wiki/Vibration",
+      "kgmid": "/m/01jwx6",
+      "wikidata": "Q3695508",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 3,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Self-timer",
       "type": "",
       "pages": 3,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Self-timer"
+      "wiki": "http://en.wikipedia.org/wiki/Self-timer",
+      "kgmid": "/m/08j8mx",
+      "wikidata": "Q507361",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.8,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
       "relevance": 0.69,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 2,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Live preview",
       "type": "/digicams/camera_viewfinder_type",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Live_preview"
+      "wiki": "http://en.wikipedia.org/wiki/Live_preview",
+      "kgmid": "/m/026krtn",
+      "wikidata": "Q313715",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Exposure (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "kgmid": "/m/0168y9",
+      "wikidata": "Q271960",
+      "idsChecked": true
     },
     {
       "entity": "Gimbal",
       "type": "",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Gimbal"
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal",
+      "kgmid": "/m/01y6w7",
+      "wikidata": "Q1146104",
+      "idsChecked": true
     },
     {
       "entity": "Image",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Image"
+      "wiki": "http://en.wikipedia.org/wiki/Image",
+      "kgmid": "/m/0jg24",
+      "wikidata": "Q478798",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Film speed",
       "type": "",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Film_speed"
+      "wiki": "http://en.wikipedia.org/wiki/Film_speed",
+      "kgmid": "/m/016krc",
+      "wikidata": "Q24613",
+      "idsChecked": true
     },
     {
       "entity": "Teleconverter",
       "type": "",
       "pages": 2,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Teleconverter"
+      "wiki": "http://en.wikipedia.org/wiki/Teleconverter",
+      "kgmid": "/m/05t85w",
+      "wikidata": "Q1434479",
+      "idsChecked": true
     },
     {
       "entity": "Shooting",
       "type": "/event/disaster_type",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+      "wiki": "http://en.wikipedia.org/wiki/Shooting",
+      "idsChecked": true
     },
     {
       "entity": "Bulb (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Bulb_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Bulb_(photography)",
+      "kgmid": "/m/06sjsh",
+      "wikidata": "Q929346",
+      "idsChecked": true
     },
     {
       "entity": "Speed",
       "type": "/measurement_unit/common_dimension",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Speed"
+      "wiki": "http://en.wikipedia.org/wiki/Speed",
+      "kgmid": "/m/073s_",
+      "wikidata": "Q3711325",
+      "idsChecked": true
     },
     {
       "entity": "Timer",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Timer"
+      "wiki": "http://en.wikipedia.org/wiki/Timer",
+      "kgmid": "/m/02m1w1",
+      "wikidata": "Q186612",
+      "idsChecked": true
     },
     {
       "entity": "Shutter button",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_button"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_button",
+      "kgmid": "/m/027vhct",
+      "wikidata": "Q7505674",
+      "idsChecked": true
     },
     {
       "entity": "Raw image format",
       "type": "/computer/file_format_genre",
       "pages": 2,
       "relevance": 0.24,
-      "wiki": "http://en.wikipedia.org/wiki/Raw_image_format"
+      "wiki": "http://en.wikipedia.org/wiki/Raw_image_format",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

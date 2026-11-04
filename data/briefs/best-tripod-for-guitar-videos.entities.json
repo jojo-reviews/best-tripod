@@ -9,7 +9,8 @@
       "relevance": 0.37,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
       "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r"
+      "kgmid": "/m/0dv5r",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
@@ -18,7 +19,8 @@
       "relevance": 0.96,
       "wiki": "http://en.wikipedia.org/wiki/Tripod",
       "wikidata": "Q1444534",
-      "kgmid": "/m/0119d4g8"
+      "kgmid": "/m/0119d4g8",
+      "idsChecked": true
     },
     {
       "entity": "Guitar",
@@ -27,7 +29,8 @@
       "relevance": 0.48,
       "wiki": "http://en.wikipedia.org/wiki/Guitar",
       "wikidata": "Q6607",
-      "kgmid": "/m/0342h"
+      "kgmid": "/m/0342h",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
@@ -36,7 +39,8 @@
       "relevance": 0.46,
       "wiki": "http://en.wikipedia.org/wiki/Smartphone",
       "wikidata": "Q22645",
-      "kgmid": "/m/0169zh"
+      "kgmid": "/m/0169zh",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
@@ -45,7 +49,8 @@
       "relevance": 0.9,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "wikidata": "Q683906",
-      "kgmid": "/m/073bxn"
+      "kgmid": "/m/073bxn",
+      "idsChecked": true
     },
     {
       "entity": "Video",
@@ -54,7 +59,8 @@
       "relevance": 0.87,
       "wiki": "http://en.wikipedia.org/wiki/Video",
       "wikidata": "Q34508",
-      "kgmid": "/m/07z4p"
+      "kgmid": "/m/07z4p",
+      "idsChecked": true
     },
     {
       "entity": "MagSafe (wireless charger)",
@@ -62,14 +68,16 @@
       "pages": 2,
       "relevance": 0.68,
       "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)",
-      "wikidata": "Q100338267"
+      "wikidata": "Q100338267",
+      "idsChecked": true
     },
     {
       "entity": "KraftGeek",
       "type": "Company",
       "pages": 2,
       "relevance": 0.58,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
@@ -78,7 +86,8 @@
       "relevance": 0.4,
       "wiki": "http://en.wikipedia.org/wiki/Aluminium",
       "wikidata": "Q663",
-      "kgmid": "/m/027vj2v"
+      "kgmid": "/m/027vj2v",
+      "idsChecked": true
     },
     {
       "entity": "Height",
@@ -87,7 +96,8 @@
       "relevance": 0.23,
       "wiki": "http://en.wikipedia.org/wiki/Height",
       "wikidata": "Q208826",
-      "kgmid": "/m/01jtb2"
+      "kgmid": "/m/01jtb2",
+      "idsChecked": true
     },
     {
       "entity": "YouTube",
@@ -96,7 +106,8 @@
       "relevance": 0.22,
       "wiki": "http://en.wikipedia.org/wiki/YouTube",
       "wikidata": "Q866",
-      "kgmid": "/m/09jcvs"
+      "kgmid": "/m/09jcvs",
+      "idsChecked": true
     }
   ]
 }

@@ -7,70 +7,98 @@
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.8,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.78,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Wind",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Wind"
+      "wiki": "http://en.wikipedia.org/wiki/Wind",
+      "kgmid": "/m/03m9d0z",
+      "wikidata": "Q8094",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Exposure (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "kgmid": "/m/0168y9",
+      "wikidata": "Q271960",
+      "idsChecked": true
     },
     {
       "entity": "Vibration",
       "type": "",
       "pages": 2,
       "relevance": 0.56,
-      "wiki": "http://en.wikipedia.org/wiki/Vibration"
+      "wiki": "http://en.wikipedia.org/wiki/Vibration",
+      "kgmid": "/m/01jwx6",
+      "wikidata": "Q3695508",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Long-exposure photography",
       "type": "",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "kgmid": "/m/02rr7v1",
+      "wikidata": "Q1082855",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
       "type": "",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
+      "wikidata": "Q31009",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

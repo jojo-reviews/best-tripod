@@ -7,112 +7,146 @@
       "type": "/interests/collection_category",
       "pages": 5,
       "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Ball"
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "kgmid": "/m/018xm",
+      "wikidata": "Q18545",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 5,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 4,
       "relevance": 0.8,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 3,
       "relevance": 0.96,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Acratech",
       "type": "Company",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 3,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 3,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "idsChecked": true
     },
     {
       "entity": "Telephoto lens",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "kgmid": "/m/01bt4w",
+      "wikidata": "Q516461",
+      "idsChecked": true
     },
     {
       "entity": "Leofoto",
       "type": "Company",
       "pages": 2,
       "relevance": 0.56,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "IOS",
       "type": "Work",
       "pages": 2,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/IOS"
+      "wiki": "http://en.wikipedia.org/wiki/IOS",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Web application",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Web_application"
+      "wiki": "http://en.wikipedia.org/wiki/Web_application",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "kgmid": "/m/0l7xg",
+      "wikidata": "Q143873",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

@@ -7,91 +7,130 @@
       "type": "",
       "pages": 3,
       "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 3,
       "relevance": 0.89,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Sports photography",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Sports_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Sports_photography",
+      "kgmid": "/m/026q1b1",
+      "wikidata": "Q181169",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 3,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
       "type": "",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
+      "wikidata": "Q31009",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Shutter speed",
       "type": "",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed",
+      "kgmid": "/m/0168k4",
+      "wikidata": "Q349600",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

@@ -7,49 +7,70 @@
       "type": "",
       "pages": 3,
       "relevance": 0.86,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Leica Camera",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Leica_Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Leica_Camera",
+      "kgmid": "/m/017tdm",
+      "wikidata": "Q161833",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.7,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "kgmid": "/m/02plgzz",
+      "wikidata": "Q2786962",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Mountaineering",
       "type": "/organization/organization_type",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Mountaineering"
+      "wiki": "http://en.wikipedia.org/wiki/Mountaineering",
+      "kgmid": "/m/053f5",
+      "wikidata": "Q36908",
+      "idsChecked": true
     },
     {
       "entity": "Bag",
       "type": "/business/consumer_product",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Bag"
+      "wiki": "http://en.wikipedia.org/wiki/Bag",
+      "kgmid": "/m/0n5v01m",
+      "wikidata": "Q1323314",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

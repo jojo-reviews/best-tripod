@@ -7,77 +7,104 @@
       "type": "",
       "pages": 4,
       "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Content creation",
       "type": "/business/industry",
       "pages": 4,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Content_creation"
+      "wiki": "http://en.wikipedia.org/wiki/Content_creation",
+      "kgmid": "/m/03b_q79",
+      "wikidata": "Q5276056",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "YouTube",
       "type": "Work",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/YouTube"
+      "wiki": "http://en.wikipedia.org/wiki/YouTube",
+      "kgmid": "/m/09jcvs",
+      "wikidata": "Q866",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Weapon mount",
       "type": "",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Weapon_mount"
+      "wiki": "http://en.wikipedia.org/wiki/Weapon_mount",
+      "idsChecked": true
     },
     {
       "entity": "Video",
       "type": "/internet/website_category",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Video"
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "kgmid": "/m/07z4p",
+      "wikidata": "Q34508",
+      "idsChecked": true
     },
     {
       "entity": "Spirit level",
       "type": "",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Spirit_level"
+      "wiki": "http://en.wikipedia.org/wiki/Spirit_level",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.24,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

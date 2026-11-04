@@ -7,42 +7,56 @@
       "type": "",
       "pages": 3,
       "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Sand",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.71,
-      "wiki": "http://en.wikipedia.org/wiki/Sand"
+      "wiki": "http://en.wikipedia.org/wiki/Sand",
+      "kgmid": "/m/099fz",
+      "wikidata": "Q34679",
+      "idsChecked": true
     },
     {
       "entity": "Water",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Water"
+      "wiki": "http://en.wikipedia.org/wiki/Water",
+      "kgmid": "/m/0838f",
+      "wikidata": "Q283",
+      "idsChecked": true
     },
     {
       "entity": "Screw",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Screw"
+      "wiki": "http://en.wikipedia.org/wiki/Screw",
+      "idsChecked": true
     },
     {
       "entity": "Brush",
       "type": "",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Brush"
+      "wiki": "http://en.wikipedia.org/wiki/Brush",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

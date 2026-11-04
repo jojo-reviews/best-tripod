@@ -7,84 +7,116 @@
       "type": "",
       "pages": 4,
       "relevance": 0.88,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 4,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.86,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Real estate",
       "type": "",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Real_estate"
+      "wiki": "http://en.wikipedia.org/wiki/Real_estate",
+      "kgmid": "/m/08fgzd",
+      "wikidata": "Q684740",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 3,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.89,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Architectural photography",
       "type": "",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Architectural_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Architectural_photography",
+      "kgmid": "/m/03b_xsp",
+      "wikidata": "Q635309",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
       "type": "",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
+      "wikidata": "Q31009",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

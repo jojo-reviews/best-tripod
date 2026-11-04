@@ -7,112 +7,152 @@
       "type": "",
       "pages": 5,
       "relevance": 0.94,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 4,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 3,
       "relevance": 0.86,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.57,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Baggage",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Baggage"
+      "wiki": "http://en.wikipedia.org/wiki/Baggage",
+      "kgmid": "/m/03w7y7",
+      "wikidata": "Q865054",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 3,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 3,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 3,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Peak Design",
       "type": "Company",
       "pages": 2,
       "relevance": 0.62,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Bag",
       "type": "/business/consumer_product",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Bag"
+      "wiki": "http://en.wikipedia.org/wiki/Bag",
+      "kgmid": "/m/0n5v01m",
+      "wikidata": "Q1323314",
+      "idsChecked": true
     },
     {
       "entity": "Suitcase",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Suitcase"
+      "wiki": "http://en.wikipedia.org/wiki/Suitcase",
+      "kgmid": "/m/01s55n",
+      "wikidata": "Q200814",
+      "idsChecked": true
     },
     {
       "entity": "Email",
       "type": "/organization/organization_sector",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Email"
+      "wiki": "http://en.wikipedia.org/wiki/Email",
+      "idsChecked": true
     },
     {
       "entity": "5",
       "type": "Temperature",
       "pages": 2,
       "relevance": 0.27,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "kgmid": "/m/01bjxx",
+      "wikidata": "Q192234",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

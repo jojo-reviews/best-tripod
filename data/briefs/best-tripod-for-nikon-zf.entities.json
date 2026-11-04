@@ -7,63 +7,83 @@
       "type": "Company",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": ""
+      "wiki": "",
+      "kgmid": "/m/03pmfw",
+      "wikidata": "Q1218180",
+      "idsChecked": true
     },
     {
       "entity": "Nikon Zf",
       "type": "",
       "pages": 2,
       "relevance": 0.91,
-      "wiki": "http://en.wikipedia.org/wiki/Nikon_Zf"
+      "wiki": "http://en.wikipedia.org/wiki/Nikon_Zf",
+      "wikidata": "Q122731468",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.81,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "SmallRig",
       "type": "Company",
       "pages": 2,
       "relevance": 0.73,
-      "wiki": ""
+      "wiki": "",
+      "wikidata": "Q123286410",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Leofoto",
       "type": "Company",
       "pages": 2,
       "relevance": 0.58,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Nikon Z-mount",
       "type": "",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Nikon_Z-mount"
+      "wiki": "http://en.wikipedia.org/wiki/Nikon_Z-mount",
+      "wikidata": "Q56240413",
+      "idsChecked": true
     },
     {
       "entity": "SD card",
       "type": "/music/media_format",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/SD_card"
+      "wiki": "http://en.wikipedia.org/wiki/SD_card",
+      "kgmid": "/m/01tthm",
+      "wikidata": "Q466977",
+      "idsChecked": true
     },
     {
       "entity": "Artificial leather",
       "type": "/engineering/material",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Artificial_leather"
+      "wiki": "http://en.wikipedia.org/wiki/Artificial_leather",
+      "idsChecked": true
     }
   ],
   "errors": [

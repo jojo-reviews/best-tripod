@@ -7,56 +7,80 @@
       "type": "",
       "pages": 4,
       "relevance": 0.81,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Ball",
       "type": "/interests/collection_category",
       "pages": 4,
       "relevance": 0.65,
-      "wiki": "http://en.wikipedia.org/wiki/Ball"
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "kgmid": "/m/018xm",
+      "wikidata": "Q18545",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Friction",
       "type": "/medicine/disease_cause",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Friction"
+      "wiki": "http://en.wikipedia.org/wiki/Friction",
+      "kgmid": "/m/02zp2",
+      "wikidata": "Q82580",
+      "idsChecked": true
     },
     {
       "entity": "Water",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Water"
+      "wiki": "http://en.wikipedia.org/wiki/Water",
+      "kgmid": "/m/0838f",
+      "wikidata": "Q283",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

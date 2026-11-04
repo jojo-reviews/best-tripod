@@ -7,161 +7,216 @@
       "type": "",
       "pages": 5,
       "relevance": 0.92,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 5,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 4,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 4,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 4,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 3,
       "relevance": 0.97,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 3,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.56,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Viewfinder",
       "type": "",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Viewfinder"
+      "wiki": "http://en.wikipedia.org/wiki/Viewfinder",
+      "kgmid": "/m/04bkwp",
+      "wikidata": "Q209906",
+      "idsChecked": true
     },
     {
       "entity": "Feisol",
       "type": "Company",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Macro photography",
       "type": "/visual_art/visual_art_genre",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "kgmid": "/m/010f1nbq",
+      "wikidata": "Q272444",
+      "idsChecked": true
     },
     {
       "entity": "Image",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Image"
+      "wiki": "http://en.wikipedia.org/wiki/Image",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Eye",
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Eye"
+      "wiki": "http://en.wikipedia.org/wiki/Eye",
+      "kgmid": "/m/014sv8",
+      "wikidata": "Q7364",
+      "idsChecked": true
     },
     {
       "entity": "Hand-held camera",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera",
+      "idsChecked": true
     },
     {
       "entity": "Photograph",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+      "wiki": "http://en.wikipedia.org/wiki/Photograph",
+      "idsChecked": true
     },
     {
       "entity": "High dynamic range",
       "type": "",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/High_dynamic_range"
+      "wiki": "http://en.wikipedia.org/wiki/High_dynamic_range",
+      "kgmid": "/m/017c2h",
+      "wikidata": "Q106239881",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     },
     {
       "entity": "Long-exposure photography",
       "type": "",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "kgmid": "/m/02rr7v1",
+      "wikidata": "Q1082855",
+      "idsChecked": true
     },
     {
       "entity": "Exposure (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "idsChecked": true
     },
     {
       "entity": "Full-frame DSLR",
       "type": "",
       "pages": 2,
       "relevance": 0.24,
-      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR",
+      "kgmid": "/m/089556",
+      "wikidata": "Q1345091",
+      "idsChecked": true
     },
     {
       "entity": "Screw",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.21,
-      "wiki": "http://en.wikipedia.org/wiki/Screw"
+      "wiki": "http://en.wikipedia.org/wiki/Screw",
+      "kgmid": "/m/0c37z",
+      "wikidata": "Q11022",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

@@ -9,7 +9,8 @@
       "relevance": 0.98,
       "wiki": "http://en.wikipedia.org/wiki/Tripod",
       "wikidata": "Q1444534",
-      "kgmid": "/m/0119d4g8"
+      "kgmid": "/m/0119d4g8",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
@@ -18,7 +19,8 @@
       "relevance": 0.82,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "wikidata": "Q683906",
-      "kgmid": "/m/073bxn"
+      "kgmid": "/m/073bxn",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
@@ -27,7 +29,8 @@
       "relevance": 0.69,
       "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
       "wikidata": "Q910977",
-      "kgmid": "/m/0155k0"
+      "kgmid": "/m/0155k0",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
@@ -36,7 +39,8 @@
       "relevance": 0.58,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
       "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r"
+      "kgmid": "/m/0dv5r",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
@@ -45,7 +49,8 @@
       "relevance": 0.41,
       "wiki": "http://en.wikipedia.org/wiki/Photography",
       "wikidata": "Q11633",
-      "kgmid": "/m/05wkw"
+      "kgmid": "/m/05wkw",
+      "idsChecked": true
     },
     {
       "entity": "Time-lapse photography",
@@ -54,7 +59,8 @@
       "relevance": 0.8,
       "wiki": "http://en.wikipedia.org/wiki/Time-lapse_photography",
       "wikidata": "Q186563",
-      "kgmid": "/m/05hlxm"
+      "kgmid": "/m/05hlxm",
+      "idsChecked": true
     },
     {
       "entity": "Amazon (company)",
@@ -63,7 +69,8 @@
       "relevance": 0.38,
       "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
       "wikidata": "Q3884",
-      "kgmid": "/m/0mgkg"
+      "kgmid": "/m/0mgkg",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
@@ -72,14 +79,16 @@
       "relevance": 0.37,
       "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
       "wikidata": "Q635963",
-      "kgmid": "/m/025_1lk"
+      "kgmid": "/m/025_1lk",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Carbon",
@@ -88,7 +97,8 @@
       "relevance": 0.32,
       "wiki": "http://en.wikipedia.org/wiki/Carbon",
       "wikidata": "Q623",
-      "kgmid": "/m/025tfgm"
+      "kgmid": "/m/025tfgm",
+      "idsChecked": true
     },
     {
       "entity": "Fiber",
@@ -97,7 +107,8 @@
       "relevance": 0.26,
       "wiki": "http://en.wikipedia.org/wiki/Fiber",
       "wikidata": "Q161",
-      "kgmid": "/m/011jng"
+      "kgmid": "/m/011jng",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
@@ -106,7 +117,8 @@
       "relevance": 0.23,
       "wiki": "http://en.wikipedia.org/wiki/Aluminium",
       "wikidata": "Q663",
-      "kgmid": "/m/027vj2v"
+      "kgmid": "/m/027vj2v",
+      "idsChecked": true
     }
   ],
   "errors": [

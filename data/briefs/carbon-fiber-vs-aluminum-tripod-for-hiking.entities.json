@@ -7,133 +7,186 @@
       "type": "",
       "pages": 4,
       "relevance": 0.91,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 4,
       "relevance": 0.86,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 4,
       "relevance": 0.5,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 3,
       "relevance": 0.8,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Carbon",
       "type": "ChemicalSubstance",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon",
+      "kgmid": "/m/025tfgm",
+      "wikidata": "Q623",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Fiber",
       "type": "",
       "pages": 3,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Fiber"
+      "wiki": "http://en.wikipedia.org/wiki/Fiber",
+      "kgmid": "/m/011jng",
+      "wikidata": "Q161",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.94,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Vibration",
       "type": "",
       "pages": 2,
       "relevance": 0.56,
-      "wiki": "http://en.wikipedia.org/wiki/Vibration"
+      "wiki": "http://en.wikipedia.org/wiki/Vibration",
+      "kgmid": "/m/01jwx6",
+      "wikidata": "Q3695508",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Long-exposure photography",
       "type": "",
       "pages": 2,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "kgmid": "/m/02rr7v1",
+      "wikidata": "Q1082855",
+      "idsChecked": true
     },
     {
       "entity": "Damping",
       "type": "",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Damping"
+      "wiki": "http://en.wikipedia.org/wiki/Damping",
+      "kgmid": "/m/05snbc",
+      "wikidata": "Q1127660",
+      "idsChecked": true
     },
     {
       "entity": "Macro photography",
       "type": "/visual_art/visual_art_genre",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "kgmid": "/m/010f1nbq",
+      "wikidata": "Q272444",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "kgmid": "/m/0l7xg",
+      "wikidata": "Q143873",
+      "idsChecked": true
     },
     {
       "entity": "Temperature",
       "type": "/measurement_unit/common_dimension",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Temperature"
+      "wiki": "http://en.wikipedia.org/wiki/Temperature",
+      "kgmid": "/m/07gr_",
+      "wikidata": "Q11466",
+      "idsChecked": true
     },
     {
       "entity": "Lightweight",
       "type": "/sports/boxing_weight_division",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "idsChecked": true
     },
     {
       "entity": "Telephoto lens",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "kgmid": "/m/01bt4w",
+      "wikidata": "Q516461",
+      "idsChecked": true
     },
     {
       "entity": "Weather",
       "type": "/broadcast/content",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Weather"
+      "wiki": "http://en.wikipedia.org/wiki/Weather",
+      "kgmid": "/m/0866r",
+      "wikidata": "Q11663",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "kgmid": "/m/01bjxx",
+      "wikidata": "Q192234",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

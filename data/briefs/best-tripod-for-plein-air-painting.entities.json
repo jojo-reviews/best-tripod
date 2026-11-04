@@ -7,84 +7,114 @@
       "type": "",
       "pages": 4,
       "relevance": 0.78,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "En plein air",
       "type": "",
       "pages": 4,
       "relevance": 0.67,
-      "wiki": "http://en.wikipedia.org/wiki/En_plein_air"
+      "wiki": "http://en.wikipedia.org/wiki/En_plein_air",
+      "kgmid": "/m/064s0",
+      "wikidata": "Q829298",
+      "idsChecked": true
     },
     {
       "entity": "Painting",
       "type": "/business/product_theme",
       "pages": 4,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Painting"
+      "wiki": "http://en.wikipedia.org/wiki/Painting",
+      "kgmid": "/m/05qdh",
+      "wikidata": "Q11629",
+      "idsChecked": true
     },
     {
       "entity": "Palette (painting)",
       "type": "",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Palette_(painting)"
+      "wiki": "http://en.wikipedia.org/wiki/Palette_(painting)",
+      "kgmid": "/m/0bmc4wk",
+      "wikidata": "Q425548",
+      "idsChecked": true
     },
     {
       "entity": "Easel",
       "type": "",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Easel"
+      "wiki": "http://en.wikipedia.org/wiki/Easel",
+      "kgmid": "/m/01rg3p",
+      "wikidata": "Q939611",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.88,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Paint",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Paint"
+      "wiki": "http://en.wikipedia.org/wiki/Paint",
+      "idsChecked": true
     },
     {
       "entity": "Canvas",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Canvas"
+      "wiki": "http://en.wikipedia.org/wiki/Canvas",
+      "kgmid": "/m/0jmpt",
+      "wikidata": "Q4259259",
+      "idsChecked": true
     },
     {
       "entity": "Backpack",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "idsChecked": true
     }
   ],
   "errors": [

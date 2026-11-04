@@ -7,91 +7,130 @@
       "type": "/people/measured_body_part",
       "pages": 3,
       "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.91,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 3,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Eye",
       "type": "AnatomicalStructure",
       "pages": 3,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Eye"
+      "wiki": "http://en.wikipedia.org/wiki/Eye",
+      "kgmid": "/m/014sv8",
+      "wikidata": "Q7364",
+      "idsChecked": true
     },
     {
       "entity": "Macro photography",
       "type": "/visual_art/visual_art_genre",
       "pages": 3,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "kgmid": "/m/010f1nbq",
+      "wikidata": "Q272444",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 1,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Portrait photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Portrait_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Portrait_photography",
+      "kgmid": "/m/0chml9",
+      "wikidata": "Q182956",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Landscape",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape",
+      "kgmid": "/m/025s3q0",
+      "wikidata": "Q107425",
+      "idsChecked": true
     },
     {
       "entity": "Sports photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Sports_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Sports_photography",
+      "kgmid": "/m/026q1b1",
+      "wikidata": "Q181169",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

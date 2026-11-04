@@ -7,35 +7,48 @@
       "type": "",
       "pages": 2,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Laser",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Laser"
+      "wiki": "http://en.wikipedia.org/wiki/Laser",
+      "kgmid": "/m/04gh1",
+      "wikidata": "Q38867",
+      "idsChecked": true
     },
     {
       "entity": "Bosch (company)",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Bosch_(company)"
+      "wiki": "http://en.wikipedia.org/wiki/Bosch_(company)",
+      "kgmid": "/m/01hnkf",
+      "wikidata": "Q234021",
+      "idsChecked": true
     },
     {
       "entity": "Elevator",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Elevator"
+      "wiki": "http://en.wikipedia.org/wiki/Elevator",
+      "kgmid": "/m/02r60",
+      "wikidata": "Q132911",
+      "idsChecked": true
     },
     {
       "entity": "Pricing",
       "type": "",
       "pages": 2,
       "relevance": 0.23,
-      "wiki": "http://en.wikipedia.org/wiki/Pricing"
+      "wiki": "http://en.wikipedia.org/wiki/Pricing",
+      "idsChecked": true
     }
   ],
   "errors": [

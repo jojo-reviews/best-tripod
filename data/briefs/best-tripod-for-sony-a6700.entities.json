@@ -7,105 +7,145 @@
       "type": "",
       "pages": 4,
       "relevance": 0.91,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Sony α6700",
       "type": "",
       "pages": 3,
       "relevance": 0.77,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_α6700"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_α6700",
+      "wikidata": "Q121091189",
+      "idsChecked": true
     },
     {
       "entity": "Sony",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Sony"
+      "wiki": "http://en.wikipedia.org/wiki/Sony",
+      "kgmid": "/m/06q07",
+      "wikidata": "Q41187",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.5,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 3,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "kgmid": "/m/0l7xg",
+      "wikidata": "Q143873",
+      "idsChecked": true
     },
     {
       "entity": "Gimbal",
       "type": "",
       "pages": 2,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Gimbal"
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal",
+      "kgmid": "/m/01y6w7",
+      "wikidata": "Q1146104",
+      "idsChecked": true
     },
     {
       "entity": "Sony E-mount",
       "type": "",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_E-mount"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_E-mount",
+      "kgmid": "/m/0c00bf4",
+      "wikidata": "Q209536",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Shooting",
       "type": "/event/disaster_type",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+      "wiki": "http://en.wikipedia.org/wiki/Shooting",
+      "idsChecked": true
     },
     {
       "entity": "Fiber",
       "type": "",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Fiber"
+      "wiki": "http://en.wikipedia.org/wiki/Fiber",
+      "kgmid": "/m/011jng",
+      "wikidata": "Q161",
+      "idsChecked": true
     },
     {
       "entity": "Backpack",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "idsChecked": true
     },
     {
       "entity": "Long-focus lens",
       "type": "",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Long-focus_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Long-focus_lens",
+      "kgmid": "/m/0fqshhy",
+      "wikidata": "Q11022034",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

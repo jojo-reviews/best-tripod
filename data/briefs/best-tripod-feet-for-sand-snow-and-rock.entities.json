@@ -7,42 +7,58 @@
       "type": "",
       "pages": 3,
       "relevance": 0.77,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "kgmid": "/m/02plgzz",
+      "wikidata": "Q2786962",
+      "idsChecked": true
     },
     {
       "entity": "Sand",
       "type": "/visual_art/visual_art_medium",
       "pages": 3,
       "relevance": 0.5,
-      "wiki": "http://en.wikipedia.org/wiki/Sand"
+      "wiki": "http://en.wikipedia.org/wiki/Sand",
+      "kgmid": "/m/099fz",
+      "wikidata": "Q34679",
+      "idsChecked": true
     },
     {
       "entity": "Leofoto",
       "type": "Company",
       "pages": 2,
       "relevance": 0.85,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Snow",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Snow"
+      "wiki": "http://en.wikipedia.org/wiki/Snow",
+      "kgmid": "/m/06_dn",
+      "wikidata": "Q7561",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

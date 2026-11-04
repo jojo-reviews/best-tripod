@@ -7,112 +7,160 @@
       "type": "",
       "pages": 4,
       "relevance": 0.92,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 4,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.78,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Wildlife photography",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Wildlife_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Wildlife_photography",
+      "kgmid": "/m/0b8m96",
+      "wikidata": "Q966880",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.71,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Telephoto lens",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.5,
-      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "kgmid": "/m/01bt4w",
+      "wikidata": "Q516461",
+      "idsChecked": true
     },
     {
       "entity": "Wildlife",
       "type": "/broadcast/content",
       "pages": 2,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Wildlife"
+      "wiki": "http://en.wikipedia.org/wiki/Wildlife",
+      "kgmid": "/m/01280g",
+      "wikidata": "Q241741",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Sports photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Sports_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Sports_photography",
+      "kgmid": "/m/026q1b1",
+      "wikidata": "Q181169",
+      "idsChecked": true
     },
     {
       "entity": "Shutter speed",
       "type": "",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed",
+      "kgmid": "/m/0168k4",
+      "wikidata": "Q349600",
+      "idsChecked": true
     },
     {
       "entity": "Full-frame DSLR",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR",
+      "kgmid": "/m/089556",
+      "wikidata": "Q1345091",
+      "idsChecked": true
     },
     {
       "entity": "Exposure (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "kgmid": "/m/0168y9",
+      "wikidata": "Q271960",
+      "idsChecked": true
     },
     {
       "entity": "Gimbal",
       "type": "",
       "pages": 2,
       "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Gimbal"
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal",
+      "kgmid": "/m/01y6w7",
+      "wikidata": "Q1146104",
+      "idsChecked": true
     },
     {
       "entity": "Zoom lens",
       "type": "",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens",
+      "kgmid": "/m/01zh4t",
+      "wikidata": "Q220310",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

@@ -7,175 +7,237 @@
       "type": "",
       "pages": 5,
       "relevance": 0.99,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 5,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 4,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 4,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Point-and-shoot camera",
       "type": "/digicams/camera_format",
       "pages": 4,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Point-and-shoot_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Point-and-shoot_camera",
+      "kgmid": "/m/049vf_",
+      "wikidata": "Q209935",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 4,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 3,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "kgmid": "/m/0169zh",
+      "wikidata": "Q22645",
+      "idsChecked": true
     },
     {
       "entity": "Digital single-lens reflex camera",
       "type": "/digicams/camera_format",
       "pages": 3,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "kgmid": "/m/04f20t",
+      "wikidata": "Q196342",
+      "idsChecked": true
     },
     {
       "entity": "Pedco",
       "type": "Company",
       "pages": 2,
       "relevance": 0.8,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "2026-01-01T00:00:00.000+00:00",
       "type": "Time",
       "pages": 2,
       "relevance": 0.76,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Ball",
       "type": "/interests/collection_category",
       "pages": 2,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Ball"
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "kgmid": "/m/018xm",
+      "wikidata": "Q18545",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     },
     {
       "entity": "SmallRig",
       "type": "Company",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": ""
+      "wiki": "",
+      "wikidata": "Q123286410",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Joby",
       "type": "Company",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Screw",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Screw"
+      "wiki": "http://en.wikipedia.org/wiki/Screw",
+      "kgmid": "/m/0c37z",
+      "wikidata": "Q11022",
+      "idsChecked": true
     },
     {
       "entity": "Spider",
       "type": "Species",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Spider"
+      "wiki": "http://en.wikipedia.org/wiki/Spider",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Telephoto lens",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "kgmid": "/m/01bt4w",
+      "wikidata": "Q516461",
+      "idsChecked": true
     },
     {
       "entity": "Full-frame DSLR",
       "type": "",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR"
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR",
+      "kgmid": "/m/089556",
+      "wikidata": "Q1345091",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     },
     {
       "entity": "Macro photography",
       "type": "/visual_art/visual_art_genre",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Macro_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "kgmid": "/m/010f1nbq",
+      "wikidata": "Q272444",
+      "idsChecked": true
     }
   ]
 }

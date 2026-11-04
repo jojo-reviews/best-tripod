@@ -7,77 +7,106 @@
       "type": "",
       "pages": 4,
       "relevance": 0.78,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "kgmid": "/m/02plgzz",
+      "wikidata": "Q2786962",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Medium format",
       "type": "/digicams/camera_format",
       "pages": 3,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Medium_format"
+      "wiki": "http://en.wikipedia.org/wiki/Medium_format",
+      "kgmid": "/m/017zd8",
+      "wikidata": "Q1146074",
+      "idsChecked": true
     },
     {
       "entity": "1",
       "type": "Money",
       "pages": 2,
       "relevance": 0.57,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "RRS",
       "type": "Company",
       "pages": 2,
       "relevance": 0.56,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Long-exposure photography",
       "type": "",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "kgmid": "/m/02rr7v1",
+      "wikidata": "Q1082855",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     }
   ],
   "errors": [

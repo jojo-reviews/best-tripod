@@ -7,35 +7,48 @@
       "type": "Activity",
       "pages": 3,
       "relevance": 0.69,
-      "wiki": "http://en.wikipedia.org/wiki/Golf"
+      "wiki": "http://en.wikipedia.org/wiki/Golf",
+      "kgmid": "/m/037hz",
+      "wikidata": "Q5377",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.83,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Golf swing",
       "type": "",
       "pages": 2,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Golf_swing"
+      "wiki": "http://en.wikipedia.org/wiki/Golf_swing",
+      "kgmid": "/m/05t04tj",
+      "wikidata": "Q1536459",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     }
   ],
   "errors": [

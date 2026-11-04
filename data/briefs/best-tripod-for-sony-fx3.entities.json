@@ -7,91 +7,124 @@
       "type": "",
       "pages": 4,
       "relevance": 0.89,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 4,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Sony",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Sony"
+      "wiki": "http://en.wikipedia.org/wiki/Sony",
+      "kgmid": "/m/06q07",
+      "wikidata": "Q41187",
+      "idsChecked": true
     },
     {
       "entity": "SmallRig",
       "type": "Company",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": ""
+      "wiki": "",
+      "wikidata": "Q123286410",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Payload",
       "type": "",
       "pages": 3,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Payload"
+      "wiki": "http://en.wikipedia.org/wiki/Payload",
+      "kgmid": "/m/02p0sz9",
+      "wikidata": "Q7641034",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Fluid",
       "type": "",
       "pages": 3,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Fluid"
+      "wiki": "http://en.wikipedia.org/wiki/Fluid",
+      "kgmid": "/m/02yfx",
+      "wikidata": "Q102205",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Sony FX30",
       "type": "",
       "pages": 2,
       "relevance": 0.83,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_FX30"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_FX30",
+      "wikidata": "Q115264767",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
       "type": "",
       "pages": 2,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization"
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
+      "wikidata": "Q31009",
+      "idsChecked": true
     }
   ],
   "errors": [

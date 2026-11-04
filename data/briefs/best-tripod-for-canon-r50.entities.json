@@ -7,105 +7,142 @@
       "type": "",
       "pages": 4,
       "relevance": 0.85,
-      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R50"
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R50",
+      "wikidata": "Q116742920",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 4,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "SmallRig",
       "type": "Company",
       "pages": 4,
       "relevance": 0.62,
-      "wiki": ""
+      "wiki": "",
+      "wikidata": "Q123286410",
+      "idsChecked": true
     },
     {
       "entity": "Canon EOS",
       "type": "/business/consumer_product",
       "pages": 4,
       "relevance": 0.56,
-      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS"
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "kgmid": "/m/03lwkk",
+      "wikidata": "Q62944",
+      "idsChecked": true
     },
     {
       "entity": "Canon Inc.",
       "type": "Agent",
       "pages": 4,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "kgmid": "/m/01bvx1",
+      "wikidata": "Q62621",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.84,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 3,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Vlog",
       "type": "/business/industry",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Vlog"
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "kgmid": "/m/04rh6b",
+      "wikidata": "Q674926",
+      "idsChecked": true
     },
     {
       "entity": "Vanguard",
       "type": "Company",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Budget",
       "type": "/award/ranked_item",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Budget"
+      "wiki": "http://en.wikipedia.org/wiki/Budget",
+      "idsChecked": true
     },
     {
       "entity": "Mii",
       "type": "Work",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Mii"
+      "wiki": "http://en.wikipedia.org/wiki/Mii",
+      "idsChecked": true
     },
     {
       "entity": "Amazon (company)",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
+      "kgmid": "/m/0mgkg",
+      "wikidata": "Q3884",
+      "idsChecked": true
     }
   ]
 }

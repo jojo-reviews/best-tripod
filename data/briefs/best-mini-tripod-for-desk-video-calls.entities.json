@@ -7,28 +7,40 @@
       "type": "/broadcast/genre",
       "pages": 3,
       "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.96,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "kgmid": "/m/0169zh",
+      "wikidata": "Q22645",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

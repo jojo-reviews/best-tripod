@@ -7,56 +7,78 @@
       "type": "",
       "pages": 3,
       "relevance": 0.87,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "IPhone",
       "type": "Device",
       "pages": 3,
       "relevance": 0.71,
-      "wiki": "http://en.wikipedia.org/wiki/IPhone"
+      "wiki": "http://en.wikipedia.org/wiki/IPhone",
+      "kgmid": "/m/027lnzs",
+      "wikidata": "Q2766",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "kgmid": "/m/0169zh",
+      "wikidata": "Q22645",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.94,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Digital photography",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Digital_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Digital_photography",
+      "kgmid": "/m/09q5cb",
+      "wikidata": "Q173095",
+      "idsChecked": true
     },
     {
       "entity": "Time-lapse photography",
       "type": "",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Time-lapse_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Time-lapse_photography",
+      "kgmid": "/m/05hlxm",
+      "wikidata": "Q186563",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

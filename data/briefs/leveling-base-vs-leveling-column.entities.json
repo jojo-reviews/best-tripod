@@ -7,28 +7,38 @@
       "type": "",
       "pages": 2,
       "relevance": 0.89,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Spirit level",
       "type": "",
       "pages": 2,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Spirit_level"
+      "wiki": "http://en.wikipedia.org/wiki/Spirit_level",
+      "kgmid": "/m/01zflg",
+      "wikidata": "Q207988",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

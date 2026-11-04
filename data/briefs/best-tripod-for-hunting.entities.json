@@ -7,70 +7,96 @@
       "type": "",
       "pages": 4,
       "relevance": 0.82,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Hunting",
       "type": "/interests/hobby",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Hunting"
+      "wiki": "http://en.wikipedia.org/wiki/Hunting",
+      "kgmid": "/m/09p5m",
+      "wikidata": "Q36963",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.97,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Rifle",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.85,
-      "wiki": "http://en.wikipedia.org/wiki/Rifle"
+      "wiki": "http://en.wikipedia.org/wiki/Rifle",
+      "kgmid": "/m/06c54",
+      "wikidata": "Q124072",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.77,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Shooting",
       "type": "/event/disaster_type",
       "pages": 2,
       "relevance": 0.7,
-      "wiki": "http://en.wikipedia.org/wiki/Shooting"
+      "wiki": "http://en.wikipedia.org/wiki/Shooting",
+      "kgmid": "/m/071rm",
+      "wikidata": "Q2252077",
+      "idsChecked": true
     },
     {
       "entity": "Foot",
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Foot"
+      "wiki": "http://en.wikipedia.org/wiki/Foot",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Spirit level",
       "type": "",
       "pages": 2,
       "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Spirit_level"
+      "wiki": "http://en.wikipedia.org/wiki/Spirit_level",
+      "kgmid": "/m/01zflg",
+      "wikidata": "Q207988",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

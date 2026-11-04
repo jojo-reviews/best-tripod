@@ -7,161 +7,218 @@
       "type": "",
       "pages": 5,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Backpacking (hiking)",
       "type": "/interests/hobby",
       "pages": 4,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Backpacking_(hiking)"
+      "wiki": "http://en.wikipedia.org/wiki/Backpacking_(hiking)",
+      "kgmid": "/m/03hfn0",
+      "wikidata": "Q12014173",
+      "idsChecked": true
     },
     {
       "entity": "Lightweight",
       "type": "/sports/boxing_weight_division",
       "pages": 4,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "kgmid": "/m/034z2h",
+      "wikidata": "Q1051922",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 4,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 4,
       "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 3,
       "relevance": 1,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Hiking",
       "type": "/film/film_subject",
       "pages": 3,
       "relevance": 0.59,
-      "wiki": "http://en.wikipedia.org/wiki/Hiking"
+      "wiki": "http://en.wikipedia.org/wiki/Hiking",
+      "kgmid": "/m/012v4j",
+      "wikidata": "Q12014035",
+      "idsChecked": true
     },
     {
       "entity": "Backpack",
       "type": "/business/product_category",
       "pages": 3,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
     },
     {
       "entity": "Sirui",
       "type": "Company",
       "pages": 2,
       "relevance": 0.66,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 2,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     },
     {
       "entity": "Nikon",
       "type": "Company",
       "pages": 2,
       "relevance": 0.53,
-      "wiki": ""
+      "wiki": "",
+      "kgmid": "/m/03pmfw",
+      "wikidata": "Q1218180",
+      "idsChecked": true
     },
     {
       "entity": "Peak Design",
       "type": "Company",
       "pages": 2,
       "relevance": 0.53,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.5,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Joby",
       "type": "Company",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Ball",
       "type": "/interests/collection_category",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Ball"
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "kgmid": "/m/018xm",
+      "wikidata": "Q18545",
+      "idsChecked": true
     },
     {
       "entity": "Canon Inc.",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc."
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "kgmid": "/m/01bvx1",
+      "wikidata": "Q62621",
+      "idsChecked": true
     },
     {
       "entity": "Digital single-lens reflex camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "kgmid": "/m/04f20t",
+      "wikidata": "Q196342",
+      "idsChecked": true
     },
     {
       "entity": "5",
       "type": "Temperature",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Bag",
       "type": "/business/consumer_product",
       "pages": 2,
       "relevance": 0.24,
-      "wiki": "http://en.wikipedia.org/wiki/Bag"
+      "wiki": "http://en.wikipedia.org/wiki/Bag",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
       "relevance": 0.23,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "kgmid": "/m/01bjxx",
+      "wikidata": "Q192234",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

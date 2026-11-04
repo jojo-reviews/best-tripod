@@ -7,98 +7,133 @@
       "type": "",
       "pages": 5,
       "relevance": 0.85,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 5,
       "relevance": 0.67,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "IPhone",
       "type": "Device",
       "pages": 4,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/IPhone"
+      "wiki": "http://en.wikipedia.org/wiki/IPhone",
+      "kgmid": "/m/027lnzs",
+      "wikidata": "Q2766",
+      "idsChecked": true
     },
     {
       "entity": "Gym",
       "type": "/architecture/building_function",
       "pages": 4,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Gym"
+      "wiki": "http://en.wikipedia.org/wiki/Gym",
+      "kgmid": "/m/016yx7",
+      "wikidata": "Q14092",
+      "idsChecked": true
     },
     {
       "entity": "Exercise",
       "type": "/medicine/condition_prevention_factors",
       "pages": 4,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Exercise"
+      "wiki": "http://en.wikipedia.org/wiki/Exercise",
+      "kgmid": "/m/019w6h",
+      "wikidata": "Q219067",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
       "type": "/book/book_subject",
       "pages": 4,
       "relevance": 0.44,
-      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "kgmid": "/m/0169zh",
+      "wikidata": "Q22645",
+      "idsChecked": true
     },
     {
       "entity": "Video",
       "type": "/internet/website_category",
       "pages": 3,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Video"
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "MagSafe (wireless charger)",
       "type": "",
       "pages": 2,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)"
+      "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)",
+      "wikidata": "Q100338267",
+      "idsChecked": true
     },
     {
       "entity": "Selfie",
       "type": "",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+      "wiki": "http://en.wikipedia.org/wiki/Selfie",
+      "idsChecked": true
     },
     {
       "entity": "Angle",
       "type": "/measurement_unit/common_dimension",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Angle"
+      "wiki": "http://en.wikipedia.org/wiki/Angle",
+      "kgmid": "/m/0mwc",
+      "wikidata": "Q11352",
+      "idsChecked": true
     },
     {
       "entity": "Android (operating system)",
       "type": "Work",
       "pages": 2,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Android_(operating_system)"
+      "wiki": "http://en.wikipedia.org/wiki/Android_(operating_system)",
+      "kgmid": "/m/02wxtgw",
+      "wikidata": "Q94",
+      "idsChecked": true
     },
     {
       "entity": "Budget",
       "type": "/award/ranked_item",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Budget"
+      "wiki": "http://en.wikipedia.org/wiki/Budget",
+      "idsChecked": true
     },
     {
       "entity": "Gimbal",
       "type": "",
       "pages": 2,
       "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Gimbal"
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal",
+      "kgmid": "/m/01y6w7",
+      "wikidata": "Q1146104",
+      "idsChecked": true
     }
   ]
 }

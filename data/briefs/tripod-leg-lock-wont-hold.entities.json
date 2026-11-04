@@ -7,35 +7,50 @@
       "type": "AnatomicalStructure",
       "pages": 2,
       "relevance": 0.81,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Leglock",
       "type": "",
       "pages": 2,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Leglock"
+      "wiki": "http://en.wikipedia.org/wiki/Leglock",
+      "kgmid": "/m/088kn3",
+      "wikidata": "Q1151717",
+      "idsChecked": true
     },
     {
       "entity": "Sand",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": "http://en.wikipedia.org/wiki/Sand"
+      "wiki": "http://en.wikipedia.org/wiki/Sand",
+      "kgmid": "/m/099fz",
+      "wikidata": "Q34679",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.22,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "kgmid": "/m/0l7xg",
+      "wikidata": "Q143873",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

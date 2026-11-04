@@ -7,84 +7,116 @@
       "type": "",
       "pages": 4,
       "relevance": 0.93,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 3,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Smartphone",
       "type": "/book/book_subject",
       "pages": 3,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Smartphone"
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "kgmid": "/m/0169zh",
+      "wikidata": "Q22645",
+      "idsChecked": true
     },
     {
       "entity": "Backpack",
       "type": "/business/product_category",
       "pages": 3,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 1,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Vlog",
       "type": "/business/industry",
       "pages": 2,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Vlog"
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "kgmid": "/m/04rh6b",
+      "wikidata": "Q674926",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Plastic",
       "type": "/architecture/lighthouse_construction_material",
       "pages": 2,
       "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Plastic"
+      "wiki": "http://en.wikipedia.org/wiki/Plastic",
+      "kgmid": "/m/05z87",
+      "wikidata": "Q11474",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.22,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

@@ -7,49 +7,70 @@
       "type": "",
       "pages": 3,
       "relevance": 0.99,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.78,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Binoculars",
       "type": "/award/ranked_item",
       "pages": 3,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Binoculars"
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars",
+      "kgmid": "/m/0lt4_",
+      "wikidata": "Q102626",
+      "idsChecked": true
     },
     {
       "entity": "Spotting scope",
       "type": "",
       "pages": 2,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope"
+      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope",
+      "kgmid": "/m/01cmft",
+      "wikidata": "Q1752914",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Astronomy",
       "type": "/media_common/quotation_subject",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Astronomy"
+      "wiki": "http://en.wikipedia.org/wiki/Astronomy",
+      "kgmid": "/m/0dc_v",
+      "wikidata": "Q333",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

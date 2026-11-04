@@ -7,168 +7,230 @@
       "type": "",
       "pages": 5,
       "relevance": 0.93,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 5,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
       "pages": 4,
       "relevance": 0.69,
-      "wiki": "http://en.wikipedia.org/wiki/Leg"
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "kgmid": "/m/035r7c",
+      "wikidata": "Q133105",
+      "idsChecked": true
     },
     {
       "entity": "Landscape photography",
       "type": "/book/book_subject",
       "pages": 4,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "kgmid": "/m/04p_zwq",
+      "wikidata": "Q1353984",
+      "idsChecked": true
     },
     {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 4,
       "relevance": 0.62,
-      "wiki": "http://en.wikipedia.org/wiki/Height"
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
+      "wikidata": "Q208826",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 4,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     },
     {
       "entity": "Long-exposure photography",
       "type": "",
       "pages": 4,
       "relevance": 0.21,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography"
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "kgmid": "/m/02rr7v1",
+      "wikidata": "Q1082855",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 3,
       "relevance": 0.51,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 3,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 3,
       "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "kgmid": "/m/02plgzz",
+      "wikidata": "Q2786962",
+      "idsChecked": true
     },
     {
       "entity": "Landscape",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Landscape"
+      "wiki": "http://en.wikipedia.org/wiki/Landscape",
+      "kgmid": "/m/025s3q0",
+      "wikidata": "Q107425",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     },
     {
       "entity": "Panorama",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Panorama"
+      "wiki": "http://en.wikipedia.org/wiki/Panorama",
+      "kgmid": "/m/017rtb",
+      "wikidata": "Q41363",
+      "idsChecked": true
     },
     {
       "entity": "Image",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Image"
+      "wiki": "http://en.wikipedia.org/wiki/Image",
+      "idsChecked": true
     },
     {
       "entity": "Photograph",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+      "wiki": "http://en.wikipedia.org/wiki/Photograph",
+      "idsChecked": true
     },
     {
       "entity": "Exposure (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "kgmid": "/m/0168y9",
+      "wikidata": "Q271960",
+      "idsChecked": true
     },
     {
       "entity": "Backpack",
       "type": "/business/product_category",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Backpack"
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
     },
     {
       "entity": "Hand-held camera",
       "type": "",
       "pages": 2,
       "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera",
+      "kgmid": "/m/0dr5wz",
+      "wikidata": "Q5647097",
+      "idsChecked": true
     },
     {
       "entity": "Screw",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.2,
-      "wiki": "http://en.wikipedia.org/wiki/Screw"
+      "wiki": "http://en.wikipedia.org/wiki/Screw",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

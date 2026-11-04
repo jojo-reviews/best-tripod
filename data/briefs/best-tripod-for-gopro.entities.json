@@ -7,63 +7,82 @@
       "type": "Agent",
       "pages": 4,
       "relevance": 0.99,
-      "wiki": "http://en.wikipedia.org/wiki/GoPro"
+      "wiki": "http://en.wikipedia.org/wiki/GoPro",
+      "kgmid": "/m/0h1fd30",
+      "wikidata": "Q733482",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 4,
       "relevance": 0.96,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "GoPro camera",
       "type": "Company",
       "pages": 2,
       "relevance": 0.63,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "GoPro accessories",
       "type": "Company",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Xenvo",
       "type": "Company",
       "pages": 2,
       "relevance": 0.33,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "JOBY",
       "type": "Company",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     },
     {
       "entity": "Selfie",
       "type": "",
       "pages": 2,
       "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+      "wiki": "http://en.wikipedia.org/wiki/Selfie",
+      "kgmid": "/m/0sgh53y",
+      "wikidata": "Q12068677",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

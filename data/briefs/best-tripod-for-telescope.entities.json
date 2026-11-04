@@ -7,70 +7,98 @@
       "type": "/law/invention",
       "pages": 4,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Telescope"
+      "wiki": "http://en.wikipedia.org/wiki/Telescope",
+      "kgmid": "/m/0h2t9w",
+      "wikidata": "Q4213",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 4,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Astrophotography",
       "type": "/people/profession",
       "pages": 3,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Astrophotography"
+      "wiki": "http://en.wikipedia.org/wiki/Astrophotography",
+      "kgmid": "/m/0121sb",
+      "wikidata": "Q280855",
+      "idsChecked": true
     },
     {
       "entity": "GoTo (telescopes)",
       "type": "",
       "pages": 2,
       "relevance": 0.82,
-      "wiki": "http://en.wikipedia.org/wiki/GoTo_(telescopes)"
+      "wiki": "http://en.wikipedia.org/wiki/GoTo_(telescopes)",
+      "kgmid": "/m/027ns1q",
+      "wikidata": "Q971477",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Equatorial mount",
       "type": "",
       "pages": 2,
       "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Equatorial_mount"
+      "wiki": "http://en.wikipedia.org/wiki/Equatorial_mount",
+      "kgmid": "/m/0422g0",
+      "wikidata": "Q1061971",
+      "idsChecked": true
     },
     {
       "entity": "Telescope mount",
       "type": "",
       "pages": 2,
       "relevance": 0.65,
-      "wiki": "http://en.wikipedia.org/wiki/Telescope_mount"
+      "wiki": "http://en.wikipedia.org/wiki/Telescope_mount",
+      "kgmid": "/m/026l6r",
+      "wikidata": "Q1205231",
+      "idsChecked": true
     },
     {
       "entity": "Celestron",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Celestron"
+      "wiki": "http://en.wikipedia.org/wiki/Celestron",
+      "kgmid": "/m/0699h7",
+      "wikidata": "Q1052893",
+      "idsChecked": true
     },
     {
       "entity": "Astronomer",
       "type": "/book/book_subject",
       "pages": 2,
       "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Astronomer"
+      "wiki": "http://en.wikipedia.org/wiki/Astronomer",
+      "kgmid": "/m/0h9c",
+      "wikidata": "Q11063",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

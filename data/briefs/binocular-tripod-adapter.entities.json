@@ -7,42 +7,58 @@
       "type": "/award/ranked_item",
       "pages": 4,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Binoculars"
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars",
+      "kgmid": "/m/0lt4_",
+      "wikidata": "Q102626",
+      "idsChecked": true
     },
     {
       "entity": "Adapter",
       "type": "",
       "pages": 3,
       "relevance": 0.77,
-      "wiki": "http://en.wikipedia.org/wiki/Adapter"
+      "wiki": "http://en.wikipedia.org/wiki/Adapter",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 3,
       "relevance": 0.67,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
       "type": "",
       "pages": 2,
       "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
     },
     {
       "entity": "Aluminium",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium"
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
     },
     {
       "entity": "Warranty",
       "type": "/organization/organization_sector",
       "pages": 2,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Warranty"
+      "wiki": "http://en.wikipedia.org/wiki/Warranty",
+      "kgmid": "/m/03gg0l",
+      "wikidata": "Q329717",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

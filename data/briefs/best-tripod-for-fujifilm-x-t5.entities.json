@@ -7,70 +7,98 @@
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.89,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Fujifilm",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Fujifilm"
+      "wiki": "http://en.wikipedia.org/wiki/Fujifilm",
+      "kgmid": "/m/01djsj",
+      "wikidata": "Q164740",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 3,
       "relevance": 0.41,
-      "wiki": "http://en.wikipedia.org/wiki/Gear"
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 2,
       "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Selfie",
       "type": "",
       "pages": 2,
       "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Selfie"
+      "wiki": "http://en.wikipedia.org/wiki/Selfie",
+      "kgmid": "/m/0sgh53y",
+      "wikidata": "Q12068677",
+      "idsChecked": true
     },
     {
       "entity": "Zoom lens",
       "type": "",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens",
+      "kgmid": "/m/01zh4t",
+      "wikidata": "Q220310",
+      "idsChecked": true
     },
     {
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens"
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "kgmid": "/m/01bjxx",
+      "wikidata": "Q192234",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
       "relevance": 0.21,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

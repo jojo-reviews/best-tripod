@@ -7,112 +7,148 @@
       "type": "/fictional_universe/character_species",
       "pages": 4,
       "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 3,
       "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 1,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Ricoh GR (large sensor compact camera)",
       "type": "",
       "pages": 2,
       "relevance": 0.9,
-      "wiki": "http://en.wikipedia.org/wiki/Ricoh_GR_(large_sensor_compact_camera)"
+      "wiki": "http://en.wikipedia.org/wiki/Ricoh_GR_(large_sensor_compact_camera)",
+      "kgmid": "/m/011l74fm",
+      "wikidata": "Q18390387",
+      "idsChecked": true
     },
     {
       "entity": "Vanguard",
       "type": "Company",
       "pages": 2,
       "relevance": 0.75,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Ricoh",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Ricoh"
+      "wiki": "http://en.wikipedia.org/wiki/Ricoh",
+      "kgmid": "/m/02jwgz",
+      "wikidata": "Q178778",
+      "idsChecked": true
     },
     {
       "entity": "Lightweight",
       "type": "/sports/boxing_weight_division",
       "pages": 2,
       "relevance": 0.49,
-      "wiki": "http://en.wikipedia.org/wiki/Lightweight"
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Photography"
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
+      "wikidata": "Q11633",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Photographer",
       "type": "/organization/role",
       "pages": 2,
       "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Photographer"
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "idsChecked": true
     },
     {
       "entity": "Amazon (company)",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)"
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
+      "kgmid": "/m/0mgkg",
+      "wikidata": "Q3884",
+      "idsChecked": true
     },
     {
       "entity": "5",
       "type": "Temperature",
       "pages": 2,
       "relevance": 0.35,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 2,
       "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "idsChecked": true
     },
     {
       "entity": "Photograph",
       "type": "/visual_art/visual_art_medium",
       "pages": 2,
       "relevance": 0.24,
-      "wiki": "http://en.wikipedia.org/wiki/Photograph"
+      "wiki": "http://en.wikipedia.org/wiki/Photograph",
+      "idsChecked": true
     }
   ],
   "errors": [

@@ -7,140 +7,183 @@
       "type": "",
       "pages": 4,
       "relevance": 0.79,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Sony α7R V",
       "type": "",
       "pages": 4,
       "relevance": 0.76,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_α7R_V"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_α7R_V",
+      "wikidata": "Q114869951",
+      "idsChecked": true
     },
     {
       "entity": "Sony",
       "type": "Agent",
       "pages": 4,
       "relevance": 0.59,
-      "wiki": "http://en.wikipedia.org/wiki/Sony"
+      "wiki": "http://en.wikipedia.org/wiki/Sony",
+      "kgmid": "/m/06q07",
+      "wikidata": "Q41187",
+      "idsChecked": true
     },
     {
       "entity": "Sony α7",
       "type": "/digicams/digital_camera",
       "pages": 3,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_α7"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_α7",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
       "relevance": 0.7,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
       "type": "/projects/project_focus",
       "pages": 3,
       "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
     },
     {
       "entity": "Gitzo",
       "type": "Agent",
       "pages": 3,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Gitzo"
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "kgmid": "/m/02plgzz",
+      "wikidata": "Q2786962",
+      "idsChecked": true
     },
     {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 3,
       "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera"
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 3,
       "relevance": 0.39,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.76,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Sirui",
       "type": "Company",
       "pages": 2,
       "relevance": 0.7,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Bag",
       "type": "/business/consumer_product",
       "pages": 2,
       "relevance": 0.65,
-      "wiki": "http://en.wikipedia.org/wiki/Bag"
+      "wiki": "http://en.wikipedia.org/wiki/Bag",
+      "idsChecked": true
     },
     {
       "entity": "Leofoto",
       "type": "Company",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Lens",
       "type": "/law/invention",
       "pages": 2,
       "relevance": 0.54,
-      "wiki": "http://en.wikipedia.org/wiki/Lens"
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "kgmid": "/m/04n4x",
+      "wikidata": "Q768575",
+      "idsChecked": true
     },
     {
       "entity": "Vibration",
       "type": "",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Vibration"
+      "wiki": "http://en.wikipedia.org/wiki/Vibration",
+      "kgmid": "/m/01jwx6",
+      "wikidata": "Q3695508",
+      "idsChecked": true
     },
     {
       "entity": "Fiber",
       "type": "",
       "pages": 2,
       "relevance": 0.37,
-      "wiki": "http://en.wikipedia.org/wiki/Fiber"
+      "wiki": "http://en.wikipedia.org/wiki/Fiber",
+      "kgmid": "/m/011jng",
+      "wikidata": "Q161",
+      "idsChecked": true
     },
     {
       "entity": "Carbon",
       "type": "ChemicalSubstance",
       "pages": 2,
       "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon"
+      "wiki": "http://en.wikipedia.org/wiki/Carbon",
+      "kgmid": "/m/025tfgm",
+      "wikidata": "Q623",
+      "idsChecked": true
     },
     {
       "entity": "Budget",
       "type": "/award/ranked_item",
       "pages": 2,
       "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Budget"
+      "wiki": "http://en.wikipedia.org/wiki/Budget",
+      "idsChecked": true
     },
     {
       "entity": "Shutter (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)",
+      "kgmid": "/m/06q4q4",
+      "wikidata": "Q691823",
+      "idsChecked": true
     },
     {
       "entity": "Benro",
       "type": "Company",
       "pages": 2,
       "relevance": 0.31,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     }
   ]
 }

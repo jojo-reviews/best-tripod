@@ -7,49 +7,69 @@
       "type": "",
       "pages": 2,
       "relevance": 0.75,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 2,
       "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Sony ZV-E10",
       "type": "Device",
       "pages": 2,
       "relevance": 0.7,
-      "wiki": "http://en.wikipedia.org/wiki/Sony_ZV-E10"
+      "wiki": "http://en.wikipedia.org/wiki/Sony_ZV-E10",
+      "wikidata": "Q119877840",
+      "idsChecked": true
     },
     {
       "entity": "Vlog",
       "type": "/business/industry",
       "pages": 2,
       "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Vlog"
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "kgmid": "/m/04rh6b",
+      "wikidata": "Q674926",
+      "idsChecked": true
     },
     {
       "entity": "Manfrotto",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.65,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto"
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Sony",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Sony"
+      "wiki": "http://en.wikipedia.org/wiki/Sony",
+      "kgmid": "/m/06q07",
+      "wikidata": "Q41187",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

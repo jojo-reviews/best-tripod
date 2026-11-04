@@ -7,42 +7,54 @@
       "type": "Company",
       "pages": 4,
       "relevance": 0.72,
-      "wiki": ""
+      "wiki": "",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
     },
     {
       "entity": "Peak Design",
       "type": "Company",
       "pages": 4,
       "relevance": 0.7,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
       "relevance": 0.91,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Monopod",
       "type": "",
       "pages": 3,
       "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod"
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
     },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.96,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true
     },
     {
       "entity": "Fstoppers",
       "type": "Company",
       "pages": 2,
       "relevance": 0.29,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

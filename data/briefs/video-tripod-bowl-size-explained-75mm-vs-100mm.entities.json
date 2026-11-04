@@ -7,56 +7,74 @@
       "type": "",
       "pages": 4,
       "relevance": 0.82,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)"
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "Payload",
       "type": "",
       "pages": 3,
       "relevance": 0.59,
-      "wiki": "http://en.wikipedia.org/wiki/Payload"
+      "wiki": "http://en.wikipedia.org/wiki/Payload",
+      "kgmid": "/m/02p0sz9",
+      "wikidata": "Q7641034",
+      "idsChecked": true
     },
     {
       "entity": "100",
       "type": "Distance",
       "pages": 2,
       "relevance": 0.81,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "75",
       "type": "Distance",
       "pages": 2,
       "relevance": 0.75,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Camera"
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Sachtler",
       "type": "Agent",
       "pages": 2,
       "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Sachtler"
+      "wiki": "http://en.wikipedia.org/wiki/Sachtler",
+      "kgmid": "/m/0bmcj_s",
+      "wikidata": "Q824333",
+      "idsChecked": true
     },
     {
       "entity": "Cartoni",
       "type": "Company",
       "pages": 2,
       "relevance": 0.5,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "Weight",
       "type": "",
       "pages": 2,
       "relevance": 0.36,
-      "wiki": "http://en.wikipedia.org/wiki/Weight"
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [
