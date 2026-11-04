@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-gym-videos",
   "pass": true,
-  "checkedAt": "2026-11-03T16:29:26.456Z",
+  "checkedAt": "2026-11-04T16:30:08.039Z",
   "errors": [],
   "warnings": [
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,6 +12,7 @@
     "illustration \"Phone tripod set at knee height at a 45 \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Hands fitting a cased phone into a tripo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Gym tripod placed against the wall with \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "FAQ \"Will a big phone in a case fit a phone tripod clam\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",

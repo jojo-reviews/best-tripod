@@ -1,7 +1,7 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-11-04T09:23:47.865Z",
+  "checkedAt": "2026-11-04T16:33:35.635Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
@@ -11,6 +11,7 @@
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 190XPRO3 Aluminum 3-Section Tripod (MT190XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Feisol CT-3472 Elite Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "FAQ \"What is the best tripod for landscape photography?\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
     "keyword overlaps /blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/ (4 of the top-10 Google results are shared with \"travel tripod vs full size tripod for landscape photography\" (same intent))"
   ],

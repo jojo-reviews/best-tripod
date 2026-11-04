@@ -1,9 +1,10 @@
 {
   "slug": "leveling-base-vs-leveling-column",
   "pass": true,
-  "checkedAt": "2026-11-03T18:03:16.381Z",
+  "checkedAt": "2026-11-04T16:33:43.146Z",
   "errors": [],
   "warnings": [
+    "FAQ \"How many degrees can a leveling base correct?\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",

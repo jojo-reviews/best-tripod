@@ -1,7 +1,7 @@
 {
   "slug": "can-you-use-any-tripod-for-a-camera",
   "pass": true,
-  "checkedAt": "2026-11-03T16:32:29.556Z",
+  "checkedAt": "2026-11-04T16:33:07.575Z",
   "errors": [],
   "warnings": [
     "illustration \"Hands screwing a tripod quick release pl\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -9,6 +9,7 @@
     "illustration \"Hands sliding a camera plate into the cl\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Hands fitting a small thread adapter bus\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Hands clipping a phone into a tripod pho\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
+    "1 section(s) open with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-youtube-videos",
   "pass": true,
-  "checkedAt": "2026-11-04T16:25:05.074Z",
+  "checkedAt": "2026-11-04T16:32:41.944Z",
   "errors": [],
   "warnings": [
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
@@ -9,7 +9,9 @@
     "product \"Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 3 GO 235CB\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "FAQ \"Which tripod is best for making YouTube videos wit\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "section \"The 3 Best Tripods for YouTube Videos, Reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)"
+    "section \"The 3 Best Tripods for YouTube Videos, Reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
+    "source didn't respond normally (403): https://www.ephotozine.com/article/veo-3go-235cb-carbon-fibre-travel-tripod-review-34938/handling--amp--performance",
+    "source didn't respond normally (403): https://www.world-of-waterfalls.com/manfrotto-befree-3-way-live-advanced-review/"
   ],
   "factCheck": {
     "verified": true,

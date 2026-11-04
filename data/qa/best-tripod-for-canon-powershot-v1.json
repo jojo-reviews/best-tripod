@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-powershot-v1",
   "pass": true,
-  "checkedAt": "2026-11-04T09:27:50.722Z",
+  "checkedAt": "2026-11-04T16:28:50.647Z",
   "errors": [],
   "warnings": [
     "product \"Canon Tripod Grip HG-100TBR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,7 +15,6 @@
     "source didn't respond normally (403): https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
     "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/608724.pdf",
     "source didn't respond normally (403): https://www.dpreview.com/reviews/canon-powershot-v1-review/",
-    "source didn't respond normally (403): https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
     "source didn't respond normally (no response): https://www.packhacker.com/blog/general/best-travel-tripod/",
     "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/"
   ],
