@@ -7801,7 +7801,7 @@
     "publishedAt": "2026-11-02T11:32:19.071Z"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7826,10 +7826,12 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-headshots"
+    "slug": "best-tripod-for-headshots",
+    "productCount": 6,
+    "startedAt": "2026-11-04T11:25:26.270Z"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7854,10 +7856,12 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-dolly"
+    "slug": "best-tripod-dolly",
+    "startedAt": "2026-11-04T11:25:32.020Z",
+    "productCount": 13
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7882,11 +7886,14 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-guitar-videos"
+    "slug": "best-tripod-for-guitar-videos",
+    "productCount": 6,
+    "startedAt": "2026-11-04T11:29:49.711Z",
+    "publishedAt": "2026-11-04T11:34:43.943Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "in-progress",
+    "attempts": 1,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
       "best tripod for recording concerts",
@@ -7910,10 +7917,11 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "slug": "best-tripod-for-recording-school-plays"
+    "slug": "best-tripod-for-recording-school-plays",
+    "startedAt": "2026-11-04T11:25:32.645Z"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-11-01T11:53:16.231Z",
     "keyword": "best tripod for timelapse",
@@ -7939,6 +7947,7 @@
       "note": "not measured: Ahrefs API key had ~33 units left until 2026-11-09; measure after reset",
       "date": "2026-11-01"
     },
-    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): learntimelapse niche blog, Reddit r/videography, Best Buy search, YouTube, Medium, Facebook group, B&H category, Amazon search; Wirecutter and TechGearLab only as generic best-tripod pages (2 big sites, off-intent)."
+    "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): learntimelapse niche blog, Reddit r/videography, Best Buy search, YouTube, Medium, Facebook group, B&H category, Amazon search; Wirecutter and TechGearLab only as generic best-tripod pages (2 big sites, off-intent).",
+    "startedAt": "2026-11-04T11:25:31.102Z"
   }
 ]

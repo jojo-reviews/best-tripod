@@ -7478,6 +7478,109 @@
           "best-tripod-for-golf-swing-recording"
         ],
         "foundAt": "2026-11-03"
+      },
+      {
+        "id": "phone-tripods-guitar-audio-phone-mic",
+        "pain": "Guitar videos look fine but the phone microphone makes the playing sound thin",
+        "details": "r/Guitar threads on filming yourself keep giving the same advice: record the audio into a DAW or recorder and the video on the phone, then sync them.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/",
+            "platform": "reddit",
+            "title": "how do people make videos of themselves playing",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/Guitar/comments/1ksj4x9/best_way_to_record_video_of_guitar_performance_at/",
+            "platform": "reddit",
+            "title": "best way to record video of guitar performance at",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://virtualguitarorchestra.com/guidelines-recommendations",
+            "platform": "review",
+            "title": "guidelines-recommendations",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Record the audio into your DAW. Record the video with your phone.",
+            "url": "https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/"
+          }
+        ],
+        "keywords": [
+          "best tripod for guitar videos",
+          "recording guitar video"
+        ]
+      },
+      {
+        "id": "phone-tripods-guitar-hands-out-of-frame",
+        "pain": "The fretting hand or the top of the head gets cut off, or the neck is at a useless angle",
+        "details": "Players ask how to get a POV or fretboard view; replies suggest a wide shot from a tripod plus a second close angle.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Guitar/comments/p6diq7/question_how_can_i_record_my_pov_while_playing/",
+            "platform": "reddit",
+            "title": "question how can i record my pov while playing",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/rj5bxu/pov_video_camera_advice_for_guitar_tech/",
+            "platform": "reddit",
+            "title": "pov video camera advice for guitar tech",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://virtualguitarorchestra.com/guidelines-recommendations",
+            "platform": "review",
+            "title": "guidelines-recommendations",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for guitar videos",
+          "recording guitar video"
+        ]
+      },
+      {
+        "id": "phone-tripods-guitar-mic-stand-instead",
+        "pain": "No space or budget for another tripod next to the chair, amp and stands",
+        "details": "Musicians in r/synthesizers swap the mic on an existing stand for a phone holder or use a cheap mic-stand phone adapter.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/",
+            "platform": "reddit",
+            "title": "how do you record your jams i dont have a tripod",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/synthesizers/comments/1ke3tdl/what_can_i_use_tripods_etc_to_record_a_video_of/",
+            "platform": "reddit",
+            "title": "what can i use tripods etc to record a video of",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/recording/comments/1r95mxe/multimic_stand_recommendations/",
+            "platform": "reddit",
+            "title": "multimic stand recommendations",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I swap out my overhead mic with a phone holder mount.",
+            "url": "https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/"
+          }
+        ],
+        "keywords": [
+          "best tripod for guitar videos",
+          "recording guitar video"
+        ]
       }
     ]
   }

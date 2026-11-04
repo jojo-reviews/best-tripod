@@ -1,0 +1,102 @@
+{
+  "keyword": "best tripod for guitar videos",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Guitar",
+      "type": "Device",
+      "pages": 3,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Guitar",
+      "wikidata": "Q6607",
+      "kgmid": "/m/0342h"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "wikidata": "Q22645",
+      "kgmid": "/m/0169zh"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.9,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Video",
+      "type": "/internet/website_category",
+      "pages": 2,
+      "relevance": 0.87,
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "wikidata": "Q34508",
+      "kgmid": "/m/07z4p"
+    },
+    {
+      "entity": "MagSafe (wireless charger)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)",
+      "wikidata": "Q100338267"
+    },
+    {
+      "entity": "KraftGeek",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": ""
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "wikidata": "Q663",
+      "kgmid": "/m/027vj2v"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "wikidata": "Q208826",
+      "kgmid": "/m/01jtb2"
+    },
+    {
+      "entity": "YouTube",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/YouTube",
+      "wikidata": "Q866",
+      "kgmid": "/m/09jcvs"
+    }
+  ]
+}

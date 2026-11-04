@@ -1,0 +1,515 @@
+{
+  "centralEntity": "tripod for guitar videos",
+  "entityVariants": [
+    "best tripod for guitar videos",
+    "tripod for recording guitar playing",
+    "best phone tripod for recording guitar",
+    "best tripod for music videos",
+    "phone holder for guitarists",
+    "guitar video tripod"
+  ],
+  "entities": [
+    {
+      "name": "Tripod",
+      "type": "product type",
+      "relation": "three-legged stand that holds the phone or camera still for a whole take",
+      "salience": 0.96,
+      "pages": 3
+    },
+    {
+      "name": "Guitar",
+      "type": "instrument",
+      "relation": "the subject; its neck, fretting hand and picking hand must stay in frame",
+      "salience": 0.48,
+      "pages": 3
+    },
+    {
+      "name": "Smartphone",
+      "type": "device",
+      "relation": "the camera most guitarists film on; needs a clamp or magnetic mount",
+      "salience": 0.46,
+      "pages": 3
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "mirrorless or DSLR body that needs a full-size tripod and head",
+      "salience": 0.37,
+      "pages": 4
+    },
+    {
+      "name": "MagSafe",
+      "type": "standard",
+      "relation": "Apple magnetic mount used by the KraftGeek JustTap instead of a clamp",
+      "salience": 0.68,
+      "pages": 2
+    },
+    {
+      "name": "KraftGeek",
+      "type": "company",
+      "relation": "maker of the JustTap magnetic phone tripod reviewed by a guitar teacher",
+      "salience": 0.58,
+      "pages": 2
+    },
+    {
+      "name": "Aluminium",
+      "type": "material",
+      "relation": "leg and pole material of most picks",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "working height decides whether the shot is at eye level",
+      "salience": 0.23,
+      "pages": 2
+    },
+    {
+      "name": "YouTube",
+      "type": "platform",
+      "relation": "where most guitar performance and lesson videos are posted",
+      "salience": 0.22,
+      "pages": 2
+    },
+    {
+      "name": "Phone clamp",
+      "type": "accessory",
+      "relation": "spring holder that threads onto a 1/4-20 screw",
+      "salience": 0.5,
+      "pages": 3
+    },
+    {
+      "name": "Microphone stand",
+      "type": "equipment",
+      "relation": "alternative phone support many players already own",
+      "salience": 0.3,
+      "pages": 2
+    }
+  ],
+  "attributes": [
+    "working height without the center column vs seated eye level",
+    "overhead or fretboard angle ability",
+    "footprint next to a chair, amp and pedalboard",
+    "phone mount type (clamp, magnetic, screw)",
+    "remote shutter included",
+    "stability at full extension",
+    "packed length for gigs",
+    "rated load vs phone or camera weight"
+  ],
+  "ngrams": [
+    "tripod for guitar videos",
+    "phone tripod",
+    "phone holder",
+    "eye level",
+    "fretboard",
+    "selfie stick tripod",
+    "ball head",
+    "center column",
+    "guitar playing",
+    "record audio"
+  ],
+  "skipgrams": [
+    "tripod…guitar",
+    "phone…clamp",
+    "eye…level",
+    "film…playing",
+    "wobble…extension",
+    "audio…separately"
+  ],
+  "nlpTerms": [
+    "playthrough",
+    "fretting hand",
+    "picking hand",
+    "12th fret",
+    "overhead shot",
+    "over-the-shoulder",
+    "portrait",
+    "landscape",
+    "remote shutter",
+    "DAW",
+    "audio interface",
+    "1/4-20 screw",
+    "MagSafe",
+    "mic stand adapter"
+  ],
+  "questions": [
+    "What is the best tripod for filming guitar videos?",
+    "How high should the camera be when filming guitar?",
+    "Can I film guitar from overhead with a phone tripod?",
+    "Do I need a phone tripod or a camera tripod for guitar videos?",
+    "How do I record good audio for guitar videos on a phone?",
+    "Can I use a mic stand instead of a tripod?",
+    "How do I stop a phone tripod wobbling when I press record?"
+  ],
+  "contentGaps": [
+    "Tripod height mapped to seated eye height for a seated guitarist",
+    "Which tripods can do the overhead fretboard angle",
+    "Footprint next to a chair, amp and pedalboard",
+    "Audio placement as part of the setup, not just the camera"
+  ],
+  "outline": [
+    {
+      "h2": "Guitar video tripods compared by camera angle",
+      "intent": "comparison table on deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these tripods for guitar videos",
+      "intent": "method, who else recommends them, From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripods for guitar videos, reviewed",
+      "intent": "one H3 per product + Which one should you get",
+      "h3": [
+        "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+        "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+        "Manfrotto Element MII Aluminum Tripod with Ball Head",
+        "ULANZI MT-44 Extendable Tripod",
+        "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+        "UBeesize Flexible Phone Tripod with Wireless Remote"
+      ]
+    },
+    {
+      "h2": "How to set up a tripod for guitar videos",
+      "intent": "numbered steps: height, angle, framing, audio, record",
+      "h3": []
+    },
+    {
+      "h2": "Guitar video tripod problems players run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict on the best tripod for guitar videos",
+      "intent": "short close + next-question links",
+      "h3": []
+    }
+  ],
+  "targetWords": 1700,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+      "https://richterguitar.com/shop/guitar-accessories/",
+      "https://virtualguitarorchestra.com/guidelines-recommendations",
+      "https://swarmify.com/blog/iphone-tripod/",
+      "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The guitar-specific results (Paul Hill's JustTap review, Richter Guitar's gear list, Virtual Guitar Orchestra's guidelines) describe gear in running paragraphs or short notes; only Swarmify adds a table. No result uses pros/cons boxes.",
+    "avgWords": 1600,
+    "avgWordsNote": "Approximate body word counts: Paul Hill 900, Richter Guitar gear list 600, Virtual Guitar Orchestra 1,700, Swarmify 3,200. The rest of the top 10 are YouTube videos, a Reddit thread and Facebook posts.",
+    "avgProducts": 3,
+    "commonSections": [
+      "why use a tripod or phone holder",
+      "eye-level camera height",
+      "phone vs camera",
+      "product picks",
+      "audio recording note"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=gekhp2GRW24",
+      "title": "Best Phone Holder for Guitarists? | KraftGeek JustTap Tripod Review"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/guitars/comments/1i5r957/anyone_know_where_on_amazon_i_can_buy_a_guitar/",
+      "title": "Anyone know where on Amazon I can buy a guitar phone holder for the ..."
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=aQ61VOwGXgk",
+      "title": "On Stage XCG4 Review: The Best BUDGET Tripod Guitar Stand?"
+    },
+    {
+      "position": 4,
+      "url": "https://www.facebook.com/groups/forbandparents/posts/771844495675326/",
+      "title": "I would like to get a tripod for recording performances. Can ..."
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=doT2cCZAZ_E",
+      "title": "What You Should Know - VEVOR Foldable Tripod Guitar Stand"
+    },
+    {
+      "position": 6,
+      "url": "https://www.amazon.com/Best-Sellers-Complete-Tripod-Units/zgbs/electronics/499310",
+      "title": "Amazon Best Sellers: Best Complete Tripod Units"
+    },
+    {
+      "position": 7,
+      "url": "https://virtualguitarorchestra.com/guidelines-recommendations",
+      "title": "Guidelines and Recommendations - Virtual Guitar Orchestra"
+    },
+    {
+      "position": 8,
+      "url": "https://www.guitarplayer.com/gear/best-guitar-stands-and-hangers",
+      "title": "Best guitar stands and hangers: safe and secure | GuitarPlayer"
+    },
+    {
+      "position": 9,
+      "url": "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/",
+      "title": "Buying Tips: Tripods for Video - The Beat: A Blog by PremiumBeat"
+    },
+    {
+      "position": 10,
+      "url": "https://richterguitar.com/shop/guitar-accessories/",
+      "title": "Shop Guitar Accessories – Mics, Capos, Camera Gear & More"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "phone holder",
+      "guitarists",
+      "review",
+      "budget",
+      "recording performances"
+    ],
+    "gap": "No top-10 title is a roundup of camera tripods for filming guitar; two are about tripod-style guitar stands (a different product). A dated roundup sorted by camera angle is missing."
+  },
+  "serpProducts": [
+    {
+      "name": "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+      "pages": [
+        "https://www.youtube.com/watch?v=gekhp2GRW24",
+        "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+        "https://www.youtube.com/watch?v=IhWZK6ydWqo",
+        "https://www.macworld.com/article/2879920/kraftgeek-just-tap-test-magsafe-tripod-meets-selfie-stick.html",
+        "https://www.digitalcameraworld.com/buying-guides/the-best-iphone-tripods-and-supports"
+      ],
+      "note": "YouTube #1 and paulhillguitarist.com are the same author (Paul Hill); the other three are independent."
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+      "pages": [
+        "https://richterguitar.com/shop/guitar-accessories/",
+        "https://stgmobile.jpost.com/advisor/electronics/8-best-tripod-for-phones-on-amazon-785220",
+        "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/"
+      ]
+    },
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "pages": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"
+      ]
+    },
+    {
+      "name": "ULANZI MT-44 Extendable Tripod",
+      "pages": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://mojogear.eu/en-int/blogs/blog/best-selfie-sticks-in-2026-choice-guide"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+      "pages": [
+        "https://www.quora.com/Which-is-the-best-mobile-tripod-with-which-I-can-record-my-best-video-of-singing-for-YouTube",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://www.reddit.com/r/synthesizers/comments/1ke3tdl/what_can_i_use_tripods_etc_to_record_a_video_of/"
+      ]
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod with Wireless Remote",
+      "pages": [
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://iphonephotographyschool.com/iphone-tripod/",
+        "https://www.popsci.com/gear/best-iphone-tripods/",
+        "https://www.guitarmasterclass.net/guitar_forum/index.php?showtopic=45118"
+      ],
+      "note": "guitarmasterclass forum: a cheap flexible tripod plus phone mount as a guitar neck camera (generic flexible tripod)."
+    },
+    {
+      "name": "SLIK Pro AL-323 (not featured: only one top-10 page)",
+      "pages": [
+        "https://richterguitar.com/shop/guitar-accessories/"
+      ]
+    }
+  ],
+  "commonPoints": [
+    "Use a tripod or holder instead of propping the phone on books",
+    "Film at eye level with face and both hands in frame",
+    "A phone is enough to start; a camera is an upgrade",
+    "Phone audio is weak; record sound separately if you can",
+    "Light from the front, not a window behind you"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Seated eye height check: BIFMA seating data put sitting eye height at 42.6 to 52.6 in; the Element MII reaches 132 cm (52 in) on its legs alone, while the pole tripods reach that only well up the pole and the PIXI needs a desk.",
+      "source": "https://ehs.oregonstate.edu/sites/ehs.oregonstate.edu/files/pdf/ergo/ergonomicsanddesignreferenceguidewhitepaper.pdf",
+      "absentFrom": [
+        "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+        "https://richterguitar.com/shop/guitar-accessories/",
+        "https://virtualguitarorchestra.com/guidelines-recommendations",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by guitar shot: front performance shot (JustTap or Element MII), budget front shot (Sensyne), overhead or fretboard angle (JustTap pole tilt or UBeesize wrapped on a mic stand), desk practice clips (PIXI), gig bag (MT-44).",
+      "source": "maker specs (KraftGeek, SENSYNE, Manfrotto, Ulanzi, UBeesize)",
+      "absentFrom": [
+        "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+        "https://richterguitar.com/shop/guitar-accessories/",
+        "https://virtualguitarorchestra.com/guidelines-recommendations",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Audio is the real weak link: Virtual Guitar Orchestra rates phone-only audio least recommended and places a recorder 40 cm from the guitar pointing at the 12th fret; a mini tripod holds that recorder while the main tripod holds the phone.",
+      "source": "https://virtualguitarorchestra.com/guidelines-recommendations",
+      "absentFrom": [
+        "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/",
+        "https://richterguitar.com/shop/guitar-accessories/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "No room for tripod legs beside a chair and pedalboard: swap the mic on an existing mic stand for a phone holder, or wrap the UBeesize legs around the stand (r/synthesizers advice).",
+      "source": "https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/",
+      "absentFrom": [
+        "https://paulhillguitarist.com/latest-news/best-phone-holder-for-guitarists/",
+        "https://richterguitar.com/shop/guitar-accessories/",
+        "https://virtualguitarorchestra.com/guidelines-recommendations",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.premiumbeat.com/blog/tripod-buying-guide-top-5-tripods/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "phone-tripods-guitar-audio-phone-mic",
+      "pain": "Guitar videos look fine but the phone microphone makes the playing sound thin",
+      "details": "r/Guitar threads on filming yourself keep giving the same advice: record the audio into a DAW or recorder and the video on the phone, then sync them.",
+      "sources": [
+        "https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/",
+        "https://www.reddit.com/r/Guitar/comments/1ksj4x9/best_way_to_record_video_of_guitar_performance_at/",
+        "https://virtualguitarorchestra.com/guidelines-recommendations"
+      ],
+      "quotes": [
+        {
+          "text": "Record the audio into your DAW. Record the video with your phone.",
+          "url": "https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-guitar-hands-out-of-frame",
+      "pain": "The fretting hand or the top of the head gets cut off, or the neck is at a useless angle",
+      "details": "Players ask how to get a POV or fretboard view; replies suggest a wide shot from a tripod plus a second close angle.",
+      "sources": [
+        "https://www.reddit.com/r/Guitar/comments/p6diq7/question_how_can_i_record_my_pov_while_playing/",
+        "https://www.reddit.com/r/videography/comments/rj5bxu/pov_video_camera_advice_for_guitar_tech/",
+        "https://virtualguitarorchestra.com/guidelines-recommendations"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "phone-tripods-guitar-mic-stand-instead",
+      "pain": "No space or budget for another tripod next to the chair, amp and stands",
+      "details": "Musicians in r/synthesizers swap the mic on an existing stand for a phone holder or use a cheap mic-stand phone adapter.",
+      "sources": [
+        "https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/",
+        "https://www.reddit.com/r/synthesizers/comments/1ke3tdl/what_can_i_use_tripods_etc_to_record_a_video_of/",
+        "https://www.reddit.com/r/recording/comments/1r95mxe/multimic_stand_recommendations/"
+      ],
+      "quotes": [
+        {
+          "text": "I swap out my overhead mic with a phone holder mount.",
+          "url": "https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-selfie-stick-wobble",
+      "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones",
+      "details": "From data/pain-points.json: single-pole phone tripods shake when extended.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/",
+        "https://www.dpreview.com/forums/threads/tripod-taller-sirui-ms-01k-premium-ulanzi-mt-44-alternative.4827498/"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "42.6 to 52.6 in",
+      "claim": "sitting eye height, 5th-percentile woman to 95th-percentile man (BIFMA data)",
+      "url": "https://ehs.oregonstate.edu/sites/ehs.oregonstate.edu/files/pdf/ergo/ergonomicsanddesignreferenceguidewhitepaper.pdf",
+      "quote": "Sitting Eye Height | B | 42.6”-48.8” | 46.3”-52.6” | 42.6”-52.6”"
+    },
+    {
+      "number": "40cm",
+      "claim": "recorder placement from the guitar, pointing at the 12th fret",
+      "url": "https://virtualguitarorchestra.com/guidelines-recommendations",
+      "quote": "place the audio recorder on your desk or a mini tripod at an optimal position (40cm away from the guitar pointing at the 12th fret)"
+    },
+    {
+      "number": "132 cm",
+      "claim": "Manfrotto Element MII max height with the center column down",
+      "url": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/",
+      "quote": "Maximum Height (with Center Column Down)132 cm51.97 in"
+    },
+    {
+      "number": "60 to 80 mm",
+      "claim": "Ulanzi MT-44 phone clamp width range",
+      "url": "https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
+      "quote": "Compatible Device Width: 2.4 to 3.1\" / 60 to 80 mm"
+    }
+  ],
+  "videos": [
+    {
+      "id": "If-dD04cRj4",
+      "title": "10 things to improve your guitar filming skills",
+      "channel": "Eirik Stordrange",
+      "url": "https://www.youtube.com/watch?v=If-dD04cRj4",
+      "section": "How to set up a tripod for guitar videos"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-tripod-for-youtube-videos",
+    "best-phone-tripod-for-vlogging-with-remote",
+    "best-tripod-for-content-creators",
+    "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "best-tripod-for-live-streaming"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-youtube-videos",
+      "find": "A first channel setup often has a cheap stand that sits too low for a seated talking head, wobbles on a pan and cannot point straight down at the desk.",
+      "replace": "A first channel setup, whether talking heads or [guitar playing videos](/blog/best-tripod-for-guitar-videos/), often has a cheap stand that sits too low for a seated shot, wobbles on a pan and cannot point straight down at the desk."
+    },
+    {
+      "slug": "best-phone-tripod-for-vlogging-with-remote",
+      "find": "Reviewers praise the seconds-long setup and say the magnet holds through cases and while walking.",
+      "replace": "Reviewers praise the seconds-long setup and say the magnet holds through cases and while walking, and a guitar teacher picked it for [filming guitar videos](/blog/best-tripod-for-guitar-videos/) too."
+    }
+  ],
+  "secondaryKeywords": [
+    "best phone tripod for recording guitar",
+    "tripod for recording guitar playing",
+    "best tripod for music videos",
+    "phone holder for guitarists",
+    "tripod for filming yourself playing guitar"
+  ],
+  "angle": "Sorted by camera angle a guitarist actually uses (front performance, overhead/fretboard, desk practice, gig bag), with seated eye height and audio placement built into the setup.",
+  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-guitar-videos.entities.json); shared entities copied with relevance as salience."
+}

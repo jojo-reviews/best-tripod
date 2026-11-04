@@ -525,6 +525,7 @@ heroAlt: >-
   Best Tripod for Live Streaming (2026) – 6 Picks for Phone and Camera – Best
   Tripod buying guide
 related:
+  - best-tripod-for-guitar-videos
   - best-tripod-for-golf-swing-recording
 ---
 

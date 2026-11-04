@@ -1,0 +1,23 @@
+{
+  "slug": "best-tripod-for-guitar-videos",
+  "pass": true,
+  "checkedAt": "2026-11-04T11:34:37.119Z",
+  "errors": [],
+  "warnings": [
+    "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Element MII Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"UBeesize Flexible Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-04: Amazon US listings hand-checked via Firecrawl (title, in stock, seller): JustTap B0F1TN5SJC (ships Amazon, 66 in, 14.8 oz), SENSYNE B09TQY66NH (ships Amazon, 62 in, 650 g), Element MII B08JZCQ9WQ (sold+shipped Amazon, 160 cm, 42.5 cm folded, 1.55 kg, 8 kg), MT-44 B09T92NK4J (ships Amazon), PIXI clamp kit B0169SORBO (AVLGEAR, 2.2 lb load), UBeesize B088GNC6TT (sold+shipped Amazon). JustTap height, 10-section aluminum pole, magnetic mount, USB-C remote docking on a leg, overhead guitar close-ups, 0.45 kg: paulhillguitarist.com review. Element MII 132 cm column down: Manfrotto page. MT-44 57.6 in / 146.5 cm, 6 sections, cold shoe: ulanzi.com; 60-80 mm clamp, 422 g, 1 kg, 13 in folded: B&H. PIXI kit 24.7 cm, 215 g, 1 kg: Manfrotto (prior factcheck). Sensyne top choice for phone recording: richterguitar.com; clamp 2.8-5.7 in from prior verified post. UBeesize holder 3.70 in: maker listing (prior). BIFMA sitting eye height 42.6-52.6 in: Oregon State EHS PDF. 40cm / 12th fret, eye-level shot, window in front: virtualguitarorchestra.com. Reddit quotes (r/Guitar DAW line, r/synthesizers phone holder line, PIXI on some books) match search excerpts at the linked thread URLs. Guitar Masterclass flexible tripod neck cam: forum excerpt. Video If-dD04cRj4: Eirik Stordrange, 2022, guitar filming framing. No prices, ratings or testing claims.",
+    "at": "2026-11-04T11:34:36.550Z",
+    "hash": "07bb1aae502d6dcb"
+  }
+}
