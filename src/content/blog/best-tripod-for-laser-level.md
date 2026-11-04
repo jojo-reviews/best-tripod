@@ -441,6 +441,7 @@ heroAlt: >-
   Best Tripod for Laser Level (2026) – 5 Picks by Thread and Height – Best
   Tripod buying guide
 related:
+  - best-tripod-dolly
   - best-tripod-quick-release-plate
 ---
 

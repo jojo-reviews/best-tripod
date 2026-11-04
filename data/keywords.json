@@ -7831,7 +7831,7 @@
     "startedAt": "2026-11-04T11:25:26.270Z"
   },
   {
-    "status": "in-progress",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7858,7 +7858,8 @@
     },
     "slug": "best-tripod-dolly",
     "startedAt": "2026-11-04T11:25:32.020Z",
-    "productCount": 13
+    "productCount": 6,
+    "publishedAt": "2026-11-04T11:35:44.907Z"
   },
   {
     "status": "published",

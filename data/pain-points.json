@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:31:16.379Z",
+  "updatedAt": "2026-11-04T11:35:40.090Z",
   "categories": {
     "camera-tripods": [
       {
@@ -5393,6 +5393,124 @@
         "foundAt": "2026-10-31",
         "searches": [
           "peak design plate slides out arca"
+        ]
+      },
+      {
+        "id": "tripod-accessories-dolly-jitter-noise",
+        "pain": "Footage shot while rolling a tripod on a dolly is shaky and the wheels are noisy",
+        "details": "r/videography and real estate shooters report micro jitters and wheel noise on ordinary floors.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/hnx2v3/tripod_on_wheels_too_shaky/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/RealEstatePhotography/comments/1rqixo1/thoughts_on_tripod_with_wheels_vs_gimbal/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the sound of the wheels is distracting",
+            "url": "https://www.reddit.com/r/videography/comments/hnx2v3/tripod_on_wheels_too_shaky/"
+          }
+        ],
+        "keywords": [
+          "best tripod dolly"
+        ]
+      },
+      {
+        "id": "tripod-accessories-dolly-caster-swivel",
+        "pain": "Swivel casters wander at the start of a move",
+        "details": "Casters point every way until they trail, so the first inches of a push drift.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1sm97el/do_swivel_locking_dolly_wheels_exist/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the wheels always swivel until they get rolling",
+            "url": "https://www.reddit.com/r/videography/comments/1sm97el/do_swivel_locking_dolly_wheels_exist/"
+          }
+        ],
+        "keywords": [
+          "best tripod dolly"
+        ]
+      },
+      {
+        "id": "tripod-accessories-dolly-small-wheels",
+        "pain": "Small casters catch on cables, cracks and seams",
+        "details": "Cloudy Nights posters found 3 in casters chatter on finished concrete and stall on grass; a B&H owner reports vibration on tile.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/735752-neewer-photography-tripod-dolly-good-for-8se/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html/reviews",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod dolly"
+        ]
+      },
+      {
+        "id": "tripod-accessories-dolly-foot-fit",
+        "pain": "Tripod feet do not seat in the dolly, or pull out when the tripod is raised",
+        "details": "A SmallRig owner on B&H says the feet pulled away from the clamps; Proaim confirms some spiked feet do not fit its Lineo cups.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html/reviews",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.proaim.com/collections/tripod-dolly/products/proaim-lineo-portable-video-camera-floor-dolly",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod dolly"
+        ]
+      },
+      {
+        "id": "tripod-accessories-dolly-extra-weight",
+        "pain": "A dolly adds weight and setup time on shoots that move a lot",
+        "details": "Photo assistants on r/Photoassistants say dollies are extra weight and complication when you move often.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Photoassistants/comments/1hwyk3n/tripod_dolly_recs_for_digi_kit/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod dolly"
         ]
       }
     ],

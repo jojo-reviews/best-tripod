@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-dolly",
+  "pass": true,
+  "checkedAt": "2026-11-04T11:35:30.920Z",
+  "errors": [],
+  "warnings": [
+    "product \"SmallRig 3986 Universal Tripod Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER Photography Tripod Dolly Heavy Duty 50lb\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept MS30 Photography Tripod Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 114 Cine/Video Deluxe Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Proaim Lineo Portable Video Camera Floor Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Glide Gear SYL 960 Hybrid Tripod/Track Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-04 via Firecrawl: SmallRig 3986 (smallrig.com 3986 page: 15 kg payload, 298-435 mm legs, 1800 g, 430x155x125 mm, aluminum; B&H: round feet, 3 in wheels, individual brakes; Amazon bullets: clamp up to 54 mm); NEEWER large dolly (neewer.com: 3 in wheels, 50 lb/22.68 kg, 6 lb, legs 10.7-15.75 in, folded 17.72 in, locks stop swivel and turning; medium 2 in version 33 lb); K&F MS30 (kfconcept.com: 20 kg/44 lb, 2.6 kg, 38.5 cm fold, 3 in wheels metal bearings, scale markings, buckle locks); Manfrotto 114 (manfrotto.com: 60 kg/132.28 lb safety payload, 6.48 kg, 127 mm braked wheels, cable guards; B&H: round feet, 114MV for spiked feet, 44.1 in working footprint, 25 in closed); Proaim Lineo (proaim.com: 500 kg/1100 lb, 10.7 kg/23.5 lb, 100x32 mm PU wheels with locks, twin spiked feet, legs 28 in apart, ships assembled, track wheels replaceable, FreeBlazer AD-Pro8 not compatible); Glide Gear SYL 960 (glidegear.net + B&H: 35 lb, 6061 aluminum, legs extend 5 in, locking casters, track wheels for 1-2 in track per Amazon bullets, folded 18x7x6.5 in). ASINs hand-checked in stock on Amazon US (Firecrawl amazon prices) 2026-11-04. Owner notes from B&H review pages, neewer.com, kfconcept.com, kentfaith.com, Cloudy Nights; Reddit quotes from search excerpts of the linked threads. Serp products: Ezvid, alternative.me, YouTube top-5. Glide Gear foot type set to Not stated (maker does not publish it).",
+    "at": "2026-11-04T11:35:40.533Z",
+    "hash": "d5ebf4b267eeabbd"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "centralEntity": "tripod dolly",
+  "entityVariants": [
+    "tripod dolly with wheels",
+    "tripod wheels",
+    "camera tripod dolly",
+    "tripod dollies",
+    "floor dolly",
+    "video tripod dolly"
+  ],
+  "entities": [
+    {
+      "name": "Camera dolly",
+      "type": "product type",
+      "relation": "the wheeled base category a tripod dolly belongs to",
+      "salience": 0.91,
+      "pages": 2
+    },
+    {
+      "name": "Tripod",
+      "type": "product type",
+      "relation": "what the dolly carries; its feet and leg spread decide the fit",
+      "salience": 0.84,
+      "pages": 2
+    },
+    {
+      "name": "Wheel",
+      "type": "component",
+      "relation": "caster size (2, 3, 5 in) decides how it rolls over cables and seams",
+      "salience": 0.62,
+      "pages": 2
+    },
+    {
+      "name": "Caster brake",
+      "type": "component",
+      "relation": "locks each wheel so the tripod stays put between moves",
+      "salience": 0.55,
+      "pages": 3
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "the load on top; camera plus head plus tripod must stay under the rating",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
+      "name": "Leg",
+      "type": "component",
+      "relation": "dolly arms (legs) extend to match the tripod spread",
+      "salience": 0.52,
+      "pages": 2
+    },
+    {
+      "name": "Tracking shot",
+      "type": "camera move",
+      "relation": "what buyers hope for; smooth only on hard floors or track",
+      "salience": 0.51,
+      "pages": 2
+    },
+    {
+      "name": "Spiked feet",
+      "type": "tripod foot type",
+      "relation": "cinema legs end in twin spikes and need cup-style dollies",
+      "salience": 0.5,
+      "pages": 2
+    },
+    {
+      "name": "Rubber feet",
+      "type": "tripod foot type",
+      "relation": "photo and light video tripods; fit clamp-style folding dollies",
+      "salience": 0.5,
+      "pages": 2
+    },
+    {
+      "name": "Dolly track",
+      "type": "accessory",
+      "relation": "pipe track for straight, steady moves with track wheels",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "Cable guard",
+      "type": "component",
+      "relation": "pushes cables aside in front of studio dolly wheels",
+      "salience": 0.35,
+      "pages": 2
+    },
+    {
+      "name": "Payload",
+      "type": "spec",
+      "relation": "rated load from 33 lb to 1,100 lb across the picks",
+      "salience": 0.45,
+      "pages": 3
+    }
+  ],
+  "attributes": [
+    "load capacity (payload)",
+    "wheel diameter and material",
+    "individual wheel brakes / swivel lock",
+    "leg (arm) length range",
+    "tripod foot type: round/rubber vs twin-spiked",
+    "folded length and weight",
+    "floor vs track wheels",
+    "cable guards"
+  ],
+  "ngrams": [
+    "tripod dolly",
+    "3-inch wheels",
+    "load capacity",
+    "individual brakes",
+    "adjustable legs",
+    "carry bag",
+    "spiked feet",
+    "rubber feet",
+    "smooth floors",
+    "tracking shot",
+    "floor dolly",
+    "track wheels"
+  ],
+  "skipgrams": [
+    "wheels…brakes",
+    "legs…tripod feet",
+    "dolly…smooth floor",
+    "load…capacity",
+    "track…wheels",
+    "clamp…foot"
+  ],
+  "nlpTerms": [
+    "caster",
+    "ball bearing",
+    "polyurethane wheels",
+    "video tripod",
+    "fluid head",
+    "light stand",
+    "dolly track",
+    "slider",
+    "cable guard",
+    "footprint",
+    "payload",
+    "swivel"
+  ],
+  "questions": [
+    "What is the best tripod dolly?",
+    "Will a tripod dolly fit my tripod?",
+    "Does a tripod dolly fit spiked feet?",
+    "How much weight can a tripod dolly hold?",
+    "What wheel size should a tripod dolly have?",
+    "Tripod dolly vs slider or track: which gives smoother shots?",
+    "Can I use a tripod dolly outdoors or on grass?"
+  ],
+  "contentGaps": [
+    "No top result sorts dollies by tripod foot type first, then load",
+    "Ezvid lists the Manfrotto 114 as a spiked-feet dolly; B&H lists the 114 for round feet and the 114MV for spiked feet",
+    "No result gives the dolly weight next to its rating, so buyers cannot see what they carry",
+    "No result gives fixes for jittery footage beyond \"use track\""
+  ],
+  "outline": [
+    {
+      "h2": "Tripod dolly comparison by load, wheels and foot type",
+      "intent": "comparison table",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these tripod dollies",
+      "intent": "method",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripod dollies, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "SmallRig 3986",
+        "NEEWER Photography Tripod Dolly",
+        "K&F Concept MS30",
+        "Manfrotto 114",
+        "Proaim Lineo",
+        "Glide Gear SYL 960"
+      ]
+    },
+    {
+      "h2": "How to fit your tripod on a tripod dolly",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "Tripod dolly problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1550,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://wiki.ezvid.com/best-tripod-dollies",
+      "https://alternative.me/tripod-dollies",
+      "https://www.youtube.com/watch?v=tunXr_LbW28",
+      "https://www.chicagotribune.com/2021/05/19/the-best-tripod-dolly/",
+      "https://www.proaim.com/collections/tripod-dolly"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Ezvid gives each dolly a short paragraph followed by three bullet takeaways and alternative.me lists feature bullets per product; the YouTube top-5 reads each pick as a short spoken paragraph. Short pros and cons lists fit that pattern best.",
+    "avgWords": 1520,
+    "avgWordsNote": "Approximate body words: Ezvid ~2,200 (picks, notes, buyer guide, FAQ), alternative.me ~1,600 (mostly a generic buying guide), YouTube top-5 transcript ~750. Chicago Tribune could not be opened (excerpt only); the Proaim and B&H pages are shop categories.",
+    "avgProducts": 8,
+    "commonSections": [
+      "load capacity",
+      "wheel size and brakes",
+      "adjustable legs or clamps",
+      "folds into a carry bag",
+      "smooth floors only",
+      "fits most tripods"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=TuCYdQlGWZc",
+      "title": "Smallrig Tripod Dolly | Review - YouTube"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/Filmmakers/comments/1lkpn9/are_tripod_dollies_worth_it/",
+      "title": "Are tripod dollies worth it? : r/Filmmakers - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.proaim.com/collections/tripod-dolly",
+      "title": "Tripod Dolly - Proaim.com"
+    },
+    {
+      "position": 4,
+      "url": "https://www.amazon.com/tripod-dolly/s?k=tripod+dolly",
+      "title": "Tripod Dolly - Amazon.com"
+    },
+    {
+      "position": 5,
+      "url": "https://neewer.com/products/tripods-dolly-66600209",
+      "title": "NEEWER Heavy Duty Photography Tripod Dolly"
+    },
+    {
+      "position": 6,
+      "url": "https://www.chicagotribune.com/2021/05/19/the-best-tripod-dolly/",
+      "title": "The best tripod dolly - Chicago Tribune"
+    },
+    {
+      "position": 7,
+      "url": "https://www.dvxuser.com/threads/tripod-dollies-i-need-your-advice.269153/",
+      "title": "Tripod dollies - I need your advice - DVXuser.com"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=tunXr_LbW28",
+      "title": "Top 5 Best Tripod Dolly in 2025 - YouTube"
+    },
+    {
+      "position": 9,
+      "url": "https://www.bhphotovideo.com/c/buy/Dollies/ci/3930/N/3907816549",
+      "title": "Professional Video Tripod Dollies - B&H Photo"
+    },
+    {
+      "position": 10,
+      "url": "https://www.pinterest.com/pin/660410732834860260/",
+      "title": "Top 10 Best Tripod Dolly for Cameras in 2025 Reviews - Pinterest"
+    },
+    {
+      "position": 11,
+      "url": "https://wiki.ezvid.com/best-tripod-dollies",
+      "title": "The 9 Best Tripod Dollies of 2026 - Ezvid Wiki"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 4,
+    "withNumber": 3,
+    "commonModifiers": [
+      "best",
+      "tripod dolly",
+      "heavy duty",
+      "review",
+      "wheels"
+    ],
+    "gap": "No title sorts the picks by tripod foot type (rubber vs spiked), which is the first thing that decides whether a dolly fits."
+  },
+  "serpProducts": [
+    {
+      "name": "SmallRig 3986 Quick-Lock tripod dolly",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=TuCYdQlGWZc"
+      ]
+    },
+    {
+      "name": "NEEWER Photography Tripod Dolly (3-inch wheels, 50 lb)",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    },
+    {
+      "name": "K&F Concept MS30 tripod dolly",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies"
+      ]
+    },
+    {
+      "name": "Manfrotto 114 Cine/Video Deluxe Dolly",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies"
+      ]
+    },
+    {
+      "name": "Proaim Lineo floor dolly",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.proaim.com/collections/tripod-dolly"
+      ]
+    },
+    {
+      "name": "Glide Gear SYL 960 hybrid dolly",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    },
+    {
+      "name": "Magnus DWF-2 – not picked, only one ranking page recommends it (alternative.me links its B&H page in further reading only)",
+      "pages": [
+        "https://wiki.ezvid.com/best-tripod-dollies"
+      ]
+    },
+    {
+      "name": "Kingjoy VX-600 – not picked, Ezvid dropped it for availability",
+      "pages": [
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    }
+  ],
+  "commonPoints": [
+    "Every pick has locking wheels",
+    "Adjustable legs or clamps fit most tripods",
+    "Most fold into a carry bag",
+    "Rolls smoothly only on hard, level floors",
+    "Load capacity must cover tripod, head and camera",
+    "Bigger wheels roll over cables better than small ones"
+  ],
+  "ourGain": [
+    {
+      "type": "decision",
+      "point": "Foot-type chooser first: round or rubber feet go in clamp dollies (SmallRig, NEEWER, K&F, Manfrotto 114 for big round-footed legs); twin-spiked cinema legs need cup dollies such as the Proaim Lineo or the Manfrotto 114MV, not the 114.",
+      "source": "https://www.bhphotovideo.com/c/product/553954-REG/Manfrotto_114_114_Heavy_Duty_Cine_Video.html",
+      "absentFrom": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Carry weight next to rated load: SmallRig 3.97 lb for 33 lb, K&F 5.7 lb for 44 lb, NEEWER 6 lb for 50 lb, Manfrotto 114 14.29 lb for 132.28 lb, Proaim Lineo 23.5 lb for 1,100 lb; the Lineo weighs about six times the SmallRig.",
+      "source": "https://www.proaim.com/collections/tripod-dolly/products/proaim-lineo-portable-video-camera-floor-dolly",
+      "absentFrom": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Jittery footage and wandering casters: push the dolly a few inches first so the casters trail in line, use 3 in or larger wheels, lock the swivel where the dolly allows it (NEEWER locks stop swivel and roll), and switch to track wheels (SYL 960, 1-2 in track) for straight moves.",
+      "source": "https://www.reddit.com/r/videography/comments/1sm97el/do_swivel_locking_dolly_wheels_exist/",
+      "absentFrom": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Studio footprint: the Manfrotto 114 needs 44.1 in working width, and a B&H owner warns it may not fit doorways under 36 in, so fold it to move between rooms.",
+      "source": "https://www.bhphotovideo.com/c/product/553954-REG/Manfrotto_114_114_Heavy_Duty_Cine_Video.html/reviews",
+      "absentFrom": [
+        "https://wiki.ezvid.com/best-tripod-dollies",
+        "https://alternative.me/tripod-dollies",
+        "https://www.youtube.com/watch?v=tunXr_LbW28"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "tripod-accessories-dolly-jitter-noise",
+      "pain": "Footage shot while rolling a tripod on a dolly is shaky and the wheels are noisy",
+      "details": "r/videography and real estate shooters report micro jitters and wheel noise on ordinary floors.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/hnx2v3/tripod_on_wheels_too_shaky/",
+        "https://www.reddit.com/r/RealEstatePhotography/comments/1rqixo1/thoughts_on_tripod_with_wheels_vs_gimbal/"
+      ],
+      "quotes": [
+        {
+          "text": "the sound of the wheels is distracting",
+          "url": "https://www.reddit.com/r/videography/comments/hnx2v3/tripod_on_wheels_too_shaky/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-accessories-dolly-caster-swivel",
+      "pain": "Swivel casters wander at the start of a move",
+      "details": "Casters point every way until they trail, so the first inches of a push drift.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1sm97el/do_swivel_locking_dolly_wheels_exist/"
+      ],
+      "quotes": [
+        {
+          "text": "the wheels always swivel until they get rolling",
+          "url": "https://www.reddit.com/r/videography/comments/1sm97el/do_swivel_locking_dolly_wheels_exist/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-accessories-dolly-small-wheels",
+      "pain": "Small casters catch on cables, cracks and seams",
+      "details": "Cloudy Nights posters found 3 in casters chatter on finished concrete and stall on grass; a B&H owner reports vibration on tile.",
+      "sources": [
+        "https://www.cloudynights.com/forums/topic/735752-neewer-photography-tripod-dolly-good-for-8se/",
+        "https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html/reviews"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "tripod-accessories-dolly-foot-fit",
+      "pain": "Tripod feet do not seat in the dolly, or pull out when the tripod is raised",
+      "details": "A SmallRig owner on B&H says the feet pulled away from the clamps; Proaim confirms some spiked feet do not fit its Lineo cups.",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html/reviews",
+        "https://www.proaim.com/collections/tripod-dolly/products/proaim-lineo-portable-video-camera-floor-dolly"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "tripod-accessories-dolly-extra-weight",
+      "pain": "A dolly adds weight and setup time on shoots that move a lot",
+      "details": "Photo assistants on r/Photoassistants say dollies are extra weight and complication when you move often.",
+      "sources": [
+        "https://www.reddit.com/r/Photoassistants/comments/1hwyk3n/tripod_dolly_recs_for_digi_kit/"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "60 kg",
+      "claim": "Manfrotto 114 safety payload",
+      "url": "https://www.manfrotto.com/global-en/video-movie-heavy-dolly-114/",
+      "quote": "Safety Payload Weight:60 kg"
+    },
+    {
+      "number": "10.7kg/23.5lb",
+      "claim": "Proaim Lineo dolly weight",
+      "url": "https://www.proaim.com/collections/tripod-dolly/products/proaim-lineo-portable-video-camera-floor-dolly",
+      "quote": "with an easy setup and weighing only 10.7kg/23.5lb"
+    },
+    {
+      "number": "500kg/1100lb",
+      "claim": "Proaim Lineo payload",
+      "url": "https://www.proaim.com/collections/tripod-dolly/products/proaim-lineo-portable-video-camera-floor-dolly",
+      "quote": "durable enough to work with heavy setups with payload up to 500kg/1100lb"
+    },
+    {
+      "number": "50 pounds",
+      "claim": "NEEWER large tripod dolly load capacity",
+      "url": "https://neewer.com/products/tripods-dolly-66600209",
+      "quote": "Load Capacity: 50 pounds/22.68 kilograms"
+    },
+    {
+      "number": "15kg",
+      "claim": "SmallRig 3986 max payload",
+      "url": "https://www.smallrig.com/SmallRig-Universal-Tripod-Dolly-3986.html",
+      "quote": "Max Payload: 15kg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "TuCYdQlGWZc",
+      "title": "Smallrig Tripod Dolly | Review",
+      "channel": "Brogen Davis",
+      "url": "https://www.youtube.com/watch?v=TuCYdQlGWZc",
+      "section": "How to fit your tripod on a tripod dolly"
+    }
+  ],
+  "internalLinkCandidates": [
+    "best-video-tripod-with-fluid-head-for-beginners",
+    "video-tripod-bowl-size-explained-75mm-vs-100mm",
+    "best-tripod-for-filming-sports",
+    "best-tripod-for-youtube-videos"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
+      "find": "Dolly rigs often use a flat Mitchell mount.",
+      "replace": "Dolly rigs often use a flat Mitchell mount, while a [tripod dolly with wheels](/blog/best-tripod-dolly/) simply rolls the legs you already own."
+    },
+    {
+      "slug": "best-video-tripod-with-fluid-head-for-beginners",
+      "find": "That rating leaves real headroom for a cage, monitor and microphone on top of the camera.",
+      "replace": "That rating leaves real headroom for a cage, monitor and microphone on top of the camera; to roll that rig between setups, see our [tripod dolly picks](/blog/best-tripod-dolly/)."
+    }
+  ],
+  "secondaryKeywords": [
+    "tripod dolly with wheels",
+    "best tripod wheels",
+    "camera tripod dolly for video",
+    "tripod dolly for spiked feet",
+    "heavy duty tripod dolly",
+    "tripod dolly vs slider"
+  ],
+  "angle": "Sort dollies by tripod foot type first (round/rubber vs twin-spiked), then by load and wheel size; correct the Manfrotto 114 vs 114MV mix-up.",
+  "textrazor": {
+    "file": "data/briefs/best-tripod-dolly.entities.json",
+    "pagesAnalyzed": 3,
+    "note": "neewer.com rate-limited and B&H blocked; entities from Ezvid, alternative.me and Proaim"
+  }
+}

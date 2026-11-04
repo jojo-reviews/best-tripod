@@ -1,0 +1,73 @@
+{
+  "keyword": "best tripod dolly",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Camera dolly",
+      "type": "/film/film_company_role_or_service",
+      "pages": 2,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_dolly",
+      "wikidata": "Q1235811",
+      "kgmid": "/m/053hr8"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.84,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Wheel",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Wheel",
+      "wikidata": "Q446",
+      "kgmid": "/m/083wq"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "Tracking shot",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Tracking_shot",
+      "wikidata": "Q1528025",
+      "kgmid": "/m/07fxd"
+    }
+  ],
+  "errors": [
+    "https://neewer.com/products/tripods-dolly-66600209: local_rate_limited",
+    "https://www.bhphotovideo.com/c/buy/Dollies/ci/3930/N/3907816549: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-8HqmAgm8RtYXh6bWATL83R&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"8HqmAgm8RtYXh6bWATL83R\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ZjDEWLp6AHJQuvOGaqlLK7bup0C4eC7UPyyMgZEIKnc-1793791795-1.2.1.1-cjiaZ7era2hv9u8R0CbrSJVDKPltqtbwwfJdH8j2QrKhtJ4GB1oeWOjpCrWiQ8.N',cITimeS: '1793791795',cN: '8HqmAgm8RtYXh6bWATL83R',cRay: 'a55348a2787c7c74',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/buy/Dollies/ci/3930/N/3907816549?__cf_chl_tk=MfayNFpyTfnc8CIIylGpTk2BBQSn0JoOnlr8Gu11vNI-1793791795-1.0.1.1-_L59Ls3AnTW6U9ai2S6bdkime7uX6H8y7jp.d6aMOnA\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/buy/Dollies/ci/3930/N/3907816549?__cf_chl_f_tk=MfayNFpyTfnc8CIIylGpTk2BBQSn0JoOnlr8Gu11vNI-1793791795-1.0.1.1-_L59Ls3AnTW6U9ai2S6bdkime7uX6H8y7jp.d6aMOnA\",md: 'Z7uIS15RRd0rzbrlhRKZJXKazKJxk.0jPUrH7TYoMTM-1793791795-1.2.1.1-hwEJeSo6kLdSGn8hchaoitZzJ5COl.D0QYIV.pmzFvw4wMroSCDSGz_yAi5JNqDCBZkqbylQjNWolGSdB5QibxGODyZd.SXR4ZH2ns16HhehjBGlwnMU4IqBcbJ_a4aVA0i63sDuPRPehdYCj6aloMNmB99kkm6dxdLI.1kTwMB56zWBICVIMSdzu_Bj_u6OcLIfIacI2iLxILC6lB3TtI7MbKSJQ228lus_.NxJH5.wPR_iSQY20f4XKjy4gWh0BNvuSkPiGVcYUcBrB2P_aSPSS_CAtlgvsBXK6oVy7MKcwHPKy4MGKLS8mEUj8HWSiIkce3pow9Hgi1AgXVuXzWYBl97aGZXv5W.R_8bExHUAk6c3_lkbX5Gu6AHOE83BXguXVMkfv_DDlpPkvbLiXl4h7pf_cRYpFD7b6U8qrXYoK1UAAzBjtdpZFGlXgdWMA7kmeIUQrSFNDfX7SnZjXwRLslppi6IW1jaPvyCQHizgTiviROldXxqW5db887rH61hVFAu7f0KLsWLIMNd9LvYwk6QGk1o105nV..YQTNkiFOwUQJSVM5ePzprspWIpekgRLgpqvqIYhXjtbuf38WbnCpx7hNaT.qbuH.Etwa8ohI2uRjX_llRn8eP_2WfzxMxDFuN8IwylEJHWHiQGZbA7zXoXEArNpddC858f9kG2KQcSN7Bm0JFlXsVIwkSun.JW7O42fac7HV23qAK.JbZFyXjiw5o5hs36c58kbFBsyV_.HEYbvaMBp6xM6FVvRlAqON4dzNPDebJ2CV7hGNHVcb55jlqM3FJsivHxoBmbl1LNLqn1sNBLv7E8txg12TpBN0Ry8GkRa9bRcWKW7Y82fIc6.ezOrYQK6cKXjtz6_Dd3fdX8ne.72cqOBihVsKihljp60vaDgGaKeLG5a37USEw0wVBvLx3E1K2SunaRwnoqqLo.yJ4JHKOtDhGp6uYORpUS3eAwM0YOMO9lLddno5QqCA7cinzRGBPo6tF.tYNtkNfDYxvF9P.GMuW1JFhCbPWgFisJUd0hWvvgOjFZXJn9gP2gres1PRJVZCHyw8BCP7623MxWAHQiuoCbv5cyhusz8FCzT2z4qtZdgX6ea5_2kAzatP72wJY1FwWOjA4Xh9_WwuWXiZfx5qeGv3EKlIDy2XBziqVdKnX0fw',mdrd: '2FIYAguO24D13sHL._Sr.tGcCHb3Wl2yF9TKGlvS8RQ-1793791795-1.2.1.1-cyjz1KIEG345Krkybp4aI393XCuONbR_lohGe5IPvXoWIt6lzv5ObQ_APdd8qliksQxKwxtFZT7UPJUlS.089Gnx3RXHDV.lfLO0KkIcakTLr0DkwI0YUCccwNlw297G10hTZst7_6QesWfYpiyhdGqLpk6Nh8TTm.MiOKN8GTl2I0W6f_tFoEn0B_wbKtJwzKxoR4UT_7tooQq2.0rLZOwyZt.6SK9r9_hZM3GRv91aqxMx6OH89ZR5T2MZ4sxwHgoqaeSu7dUIQ5dL9veovg',};var a = document.createElement('script');a.nonce = '8HqmAgm8RtYXh6bWATL83R';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a55348a2787c7c74';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/buy/Dollies/ci/3930/N/3907816549?__cf_chl_rt_tk=MfayNFpyTfnc8CIIylGpTk2BBQSn0JoOnlr8Gu11vNI-1793791795-1.0.1.1-_L59Ls3AnTW6U9ai2S6bdkime7uX6H8y7jp.d6aMOnA\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}
