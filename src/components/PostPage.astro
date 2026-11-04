@@ -118,7 +118,6 @@ const jsonLd: object[] = [
     inLanguage: LOCALES[lang].hreflang,
     isPartOf: { '@id': absUrl('/#website') },
     wordCount: post.body?.split(/\s+/).length,
-    ...(d.reviewedDate ? { lastReviewed: d.reviewedDate.toISOString() } : {}),
     keywords: [d.keyword, ...d.secondaryKeywords].join(', '),
     about: entityThings.about,
     ...(entityThings.mentions.length ? { mentions: entityThings.mentions } : {}),
