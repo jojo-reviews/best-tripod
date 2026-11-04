@@ -1,0 +1,163 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-timelapse",
+  "checkedAt": "2026-11-04T16:30:16.067Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Maker: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (Manfrotto global page, same figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 in stock; Foto Koch (Malta shop) lists the MK190XPRO3 incl. BHQ2 set.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post: 130,2 cm column down, 1,56 kg.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from Sirui figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm in the maker naming (\"163cm\"), 8 kg load; the English post gives 160 cm column up, 116 cm column down, 39 cm folded and 1,24 kg (amazon.es also says 1,24 kg).",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "UBeesize 67 inch Camera Tripod with Travel Bag",
+      "asin": "B08CHFY4R5",
+      "status": "unknown",
+      "metricSpecs": "Spanish-language listings call it \"67 pulgadas (170 cm)\"; the English post gives 67 in, 20.1 in folded, 3.1 lb, 12.1 lb (5.49 kg) load; convert these (170 cm, 51 cm, 1,4 kg, 5,5 kg).",
+      "reason": "No EU (DE/ES/NL) retailer or maker page for this exact model (travel bag + Bluetooth remote, B08CHFY4R5) found; listings found are amazon.com, amazon.com.mx and Latin American resellers. UBeesize has an amazon.de brand page with other models. Translator: one neutral sentence in \"Who it's for\" that it is mainly sold in the Americas and EU listings for this exact kit were not found.",
+      "source": "https://www.amazon.com.mx/UBeesize-distancia-inal%C3%A1mbrico-compatible-proyectores/dp/B08CHFY4R5"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13.5 cm height, 18.5 cm closed, 1 kg load (already metric in the English post)",
+      "reason": "Amazon.de and Amazon.es list the MTPIXI-B under the same ASIN B00D76RNLS (Tischstativ / Minitrípode Pixi). B&H lists MTPIXIMII-B as the replacement code; EU shops may show either code.",
+      "source": "https://www.amazon.de/Manfrotto-MTPIXI-B-Tischstativ-Compact-Standard/dp/B00D76RNLS"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg. Sirui (33 cm), K&F (39 cm), Peak Design (39,4 cm) und Befree Advanced (40 cm) passen der Länge nach hinein, UBeesize (etwa 51 cm) knapp, das Manfrotto 190XPRO Kit (70,5 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h (\"Regenschirme sind nur schwer zu halten\"); ab dann gehört die Mittelsäule bei einer langen Zeitraffer-Serie ganz nach unten.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Nationalpark Sächsische Schweiz: In der Kernzone dürfen nur markierte oder ausgeschilderte Wege genutzt werden; ein Stativplatz abseits des Weges für eine Sonnenaufgangs-Zeitraffer ist dort nicht erlaubt.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "fact": "Fachbegriffe: Zeitraffer, Intervallaufnahme, Intervallauslöser / Intervalometer, Mittelsäule, Kugelkopf, Lasthaken (Haken unter der Mittelsäule), Bildstabilisator (IBIS / SteadyShot), Schnellwechselplatte; Arca-Swiss behält seinen Namen.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Selbst ein gutes Stativ wackelt bei stärkerem Wind, und über eine Zeitraffer-Serie von Stunden fällt jede Bewegung als Sprung auf.",
+      "fix": "Beine kurz, Mittelsäule unten, schweres Stativ (190XPRO) für lange Serien, Tasche am Haken knapp über dem Boden (English post setup and problems sections; DWD wind scale).",
+      "quotes": [
+        {
+          "text": "Wie gesagt, wackelt es selbst auf einem gutem Stativ bei stärkerem Wind.",
+          "url": "https://forum.lrtimelapse.com/archive/index.php?thread-7049-2.html"
+        },
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://forum.lrtimelapse.com/archive/index.php?thread-7049-2.html",
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "Ein unbeaufsichtigtes Stativ kippt bei einer langen Serie schon bei mäßigem Wind um.",
+      "fix": "Gewicht an den Haken (Befree Advanced, Peak Design, Sirui, K&F), Tasche auf dem Boden ruhen lassen, damit sie nicht pendelt (English post problems section).",
+      "quotes": [
+        {
+          "text": "ich habe schon einige umgekippte Stative (samt Kamera und Optik) gesehen, die ohne Zusatzgewichte, bei gar nicht starkem Wind, sich verselbstständigt haben.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "Bildstabilisator bleibt auf dem Stativ an und erzeugt Zittern zwischen den Einzelbildern.",
+      "fix": "Objektiv-Stabilisator und IBIS vor dem Start des Intervallauslösers ausschalten (English post FAQ and setup step 5).",
+      "quotes": [
+        {
+          "text": "Bei Verwendung einen Stativs muss der Bildstabilisator ausgeschaltet werden.",
+          "url": "https://community.sony.de/t5/%C9%91-kameras-mit-wechselobjektiven/sony-bildstabilisator-kein-ausgleich-von-stativvibrationen/td-p/3661940"
+        }
+      ],
+      "sources": [
+        "https://community.sony.de/t5/%C9%91-kameras-mit-wechselobjektiven/sony-bildstabilisator-kein-ausgleich-von-stativvibrationen/td-p/3661940"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa-Handgepäckmaß 55 x 40 x 23 cm gegen das Packmaß jedes Stativs geprüft: das 190XPRO Kit gehört ins Aufgabegepäck oder ins Auto.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Windgrenze in km/h nach DWD (Windstärke 6, 40-45 km/h) statt ohne Zahl.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "point": "Kernzonen-Regel der Sächsischen Schweiz für Zeitraffer-Plätze abseits der Wege.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "point": "EU-Kitcode MKBFRLA4BK-BH für das Befree Advanced und metrische Herstellerwerte von Manfrotto statt Umrechnungen.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "\"each with its own in-stock Amazon US listing\" / \"Wirecutter\" in the selection method",
+      "action": "replace",
+      "with": "Keep as the method (Amazon US listing is the selection rule) without implying local availability."
+    },
+    {
+      "english": "Imperial-only figures (57.68 in, 5.51 lb, 20 lb, 67 in ...)",
+      "action": "replace",
+      "with": "Maker metric figures first (146,5 cm, 2,5 kg, 9,1 kg, 170 cm), imperial in brackets."
+    },
+    {
+      "english": "\"I'd only carry it a short way from the car\" (no flight context)",
+      "action": "replace",
+      "with": "Add the Lufthansa 55-cm cabin-bag fact: 190XPRO (70,5 cm) does not fit, the travel picks do."
+    }
+  ]
+}

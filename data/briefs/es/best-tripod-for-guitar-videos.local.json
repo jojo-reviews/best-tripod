@@ -1,0 +1,142 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-guitar-videos",
+  "checkedAt": "2026-11-04T16:32:16.566Z",
+  "productFit": [
+    {
+      "name": "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+      "asin": "B0F1TN5SJC",
+      "status": "fits",
+      "metricSpecs": "KraftGeek: max height 168 cm, folded/min 33 cm, 455 g, phone holder max load 2,5 kg, remote range 10 m.",
+      "reason": "KraftGeek ships international orders from its own store (EU withdrawal form on the product page) and the same ASIN B0F1TN5SJC is listed on Amazon.de for the EU; no country-only listing checked for this market.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+      "asin": "B09TQY66NH",
+      "status": "fits",
+      "metricSpecs": "Weight about 650 g (already metric in the English post); height only given as 62 in (convert to 157 cm).",
+      "reason": "Amazon.es lists the Sensyne 62 Inch Phone Tripod and Selfie Stick (Spanish listing ASIN B0BZP6VV9C).",
+      "source": "https://www.amazon.es/-/en/Sensyne-Extendable-Wireless-Compatible-Android/dp/B0BZP6VV9C"
+    },
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "asin": "B08JZCQ9WQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max, 132 cm column down, 43 cm min, 42,5 cm folded, 1,55 kg, 8 kg payload (same figures as the English post).",
+      "reason": "Manfrotto sells the same MKELMII4BK-BH code in the EU (Manfrotto global site; German retailers such as Pro Lighting and amazon.de list it under the same name).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/fotostativ/manfrotto-mkelmii4bk-bh-element-mii-aluminium-schwarz.html"
+    },
+    {
+      "name": "ULANZI MT-44 Extendable Tripod",
+      "asin": "B09T92NK4J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 146,5 cm full length, 32,5 cm folded, 422 g, 1 kg load, clamp 60-80 mm (metric already in the English post). Ulanzi DE store gives ~146-149 cm and ~31,5 cm for the current batch; keep the English 146,5 cm / 32,5 cm.",
+      "reason": "Amazon.es lists the same ASIN B09T92NK4J (\"ULANZI MT-44 Tripode para Móvil 147 cm\").",
+      "source": "https://www.amazon.es/ULANZI-extensible-tel%C3%A9fono-MT-44-pulgadas/dp/B09T92NK4J"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+      "asin": "B0169SORBO",
+      "status": "localVariant",
+      "variant": "MKPIXICLMII-BK (PIXI Mini with universal smartphone clamp, current Made-in-Italy code); same PIXI legs and clamp concept.",
+      "metricSpecs": "Keep the English post's figures: 24,7 cm (9.7 in) per Manfrotto, 26 cm folded, 0,215 kg, 1 kg payload.",
+      "reason": "EU shops list the kit under the newer code MKPIXICLMII-BK (Foto Koch NL; amazon.nl same ASIN); the English post's own Manfrotto source is the MKPIXICLMII-BK page.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod with Wireless Remote",
+      "asin": "B088GNC6TT",
+      "status": "fits",
+      "metricSpecs": "No maker metric figures beyond the English post; holder 3.70 in wide (convert to 9,4 cm).",
+      "reason": "UBeesize sells this model in the EU through its UBeesize EU store on Amazon (same ASIN B088GNC6TT on amazon.de).",
+      "source": "https://www.amazon.de/UBeesize-Smartphone-Flexibel-Wireless-Fernbedienung/dp/B088GNC6TT"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia: un instrumento musical que no supere 30x120x42 cm (medidas de una guitarra estándar) puede ir en cabina como única pieza de equipaje de mano, además del accesorio personal.",
+      "source": "https://www.iberia.com/us/equipajes/especiales/"
+    },
+    {
+      "fact": "Iberia: si no hay espacio suficiente a bordo, el instrumento se retira para cargarlo en la bodega; los instrumentos facturados pueden medir hasta 190x75x65 cm y pesar 23 kg.",
+      "source": "https://www.iberia.com/us/equipajes/especiales/"
+    },
+    {
+      "fact": "KraftGeek da para el JustTap 168 cm de altura máxima, 33 cm plegado y 455 g.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "El micrófono del móvil se queda corto para la guitarra.",
+      "fix": "Grabar el audio aparte (interfaz o grabadora a unos 40 cm apuntando al traste 12) y dejar el móvil en el trípode solo para la imagen.",
+      "quotes": [
+        {
+          "text": "De momento estoy grabando con el móvil directamente, con el micro que lleva incorporado y claro la calidad es justita.",
+          "url": "https://www.guitarristas.info/foros/micro-movil-grabaciones/344964"
+        },
+        {
+          "text": "La imagen bien, pero el sonido es malisimo.",
+          "url": "https://www.guitarristas.info/foros/mejorar-sonido-grabando-movil/347486"
+        }
+      ],
+      "sources": [
+        "https://www.guitarristas.info/foros/micro-movil-grabaciones/344964",
+        "https://www.guitarristas.info/foros/mejorar-sonido-grabando-movil/347486"
+      ]
+    },
+    {
+      "pain": "Sincronizar audio y vídeo después parece demasiado trabajo.",
+      "fix": "Arrancar la grabación con el mando, esperar dos segundos y tocar; el primer golpe marca el punto de sincronía.",
+      "quotes": [
+        {
+          "text": "pero ya es algo más de trabajo y no sé si me compensa",
+          "url": "https://www.guitarristas.info/foros/micro-movil-grabaciones/344964"
+        }
+      ],
+      "sources": [
+        "https://www.guitarristas.info/foros/micro-movil-grabaciones/344964"
+      ]
+    },
+    {
+      "pain": "A volumen de ensayo el micro del móvil satura.",
+      "fix": "Alejar el móvil del ampli; con trípode es fácil retrasarlo sin perder el encuadre, y el audio bueno va por la grabadora.",
+      "quotes": [
+        {
+          "text": "lo que hice es poner el móvil bastante para atrás para que no saturara el micro del móvil",
+          "url": "https://www.guitarristas.info/foros/mejorar-sonido-grabando-movil/347486"
+        }
+      ],
+      "sources": [
+        "https://www.guitarristas.info/foros/mejorar-sonido-grabando-movil/347486"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Iberia: la guitarra (hasta 30x120x42 cm) ocupa tu equipaje de mano, así que el trípode va en el accesorio personal o en la maleta; el JustTap (33 cm) y el MT-44 (32,5 cm) son los más cortos.",
+      "source": "https://www.iberia.com/us/equipajes/especiales/"
+    },
+    {
+      "point": "Altura de los ojos sentado en centímetros: 108 a 134 cm; el Element MII llega a 132 cm sin columna.",
+      "source": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/"
+    },
+    {
+      "point": "Respuestas a quejas de guitarristas.info: sonido justito del móvil, sincronía y saturación a volumen de local.",
+      "source": "https://www.guitarristas.info/foros/mejorar-sonido-grabando-movil/347486"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I kept tripods that at least two pages ranking for this search recommend, each with an in-stock Amazon US listing I checked by hand.",
+      "action": "replace",
+      "with": "Keep the method, but say plainly that the stock check was on Amazon US (a US criterion); do not claim local stock."
+    },
+    {
+      "english": "Seated eye height runs 42.6 to 52.6 in in BIFMA data (BIFMA is a US furniture standard).",
+      "action": "replace",
+      "with": "Keep the BIFMA figure as US office-furniture data, metric first: 108 to 134 cm (42.6 to 52.6 in)."
+    }
+  ]
+}

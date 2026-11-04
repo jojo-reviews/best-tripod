@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-headshots",
+  "checkedAt": "2026-11-04T16:31:06Z",
+  "productFit": [
+    {
+      "name": "Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NBP6",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe: 140 cm max. working height without column, 174 cm with the optional column kit, 17 cm min., 49 cm folded, 1,14 kg (1,33 kg with column), 25 kg load, 28 mm legs.",
+      "reason": "Feisol Europe (feisol.eu, German shop that ships within the EU) sells the CT-3442 Rapid under the same name, in stock; the column kit is optional there too.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm with the column down, 9 cm min., 54 cm closed, 2,25 kg, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "German retailer Calumet lists the MT055CXPRO4 under the same code.",
+      "source": "https://www.calumetphoto.de/product/manfrotto-mt055cxpro4-carbon-stativ-4-segmente"
+    },
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric spec table): 174 cm with the column up, 148 cm with the column down (1485 mm in the text), 77 cm folded, 2,5 kg, 15 kg load, 26 mm legs, QS-62 V3 Arca-compatible plate. Use these maker figures instead of converting 68.4 in / 58.4 in / 30.5 in.",
+      "reason": "Foto Koch (DE) lists the Vanguard VEO 3+ 263AB 160S (article 1725009), folding to 77 cm.",
+      "source": "https://www.fotokoch.de/Vanguard-VEO-3-263AB-160S_50708.html"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4)",
+      "asin": "B00G36G9Q4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max., 135 cm with the column down, 8 cm min., 49 cm folded, 2,05 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "Manfrotto's European (global-uk) page lists the MT190XPRO4 under the same code (checked for best-tripod-for-real-estate-photography).",
+      "source": "https://www.manfrotto.com/global-uk/190xpro-aluminium-4-section-camera-tripod-mt190xpro4/"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm with the column up, 142 cm with the column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "Optik-Pro (DE) lists the MKBFRA4GTXP-BH Befree GT XPRO kit; idealo.de lists it at 2 kg and 43 cm pack size. -BH is the international kit code of the ASIN's listing (the US store uses -BUS).",
+      "source": "https://www.optik-pro.de/aus-aluminium/manfrotto-aluminium-dreibeinstativ-mkbfra4gtxp-bh-befree-gt-xpro-kit/p,62839"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Destatis: Männer in Deutschland sind im Schnitt 1,79 m groß, Frauen 1,66 m. Replaces the CDC US averages (68.9 in / 63.5 in) in the eye-level section.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "Lufthansa allows carry-on bags of max. 55 x 40 x 23 cm. For location headshots by plane: the Befree GT XPRO (43 cm), the Feisol and the MT190XPRO4 (49 cm each) and the 055 (54 cm) fold shorter than 55 cm; the Vanguard VEO 3+ kit (77 cm) does not.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Feisol Europe gives the CT-3442 Rapid 140 cm working height without column and 174 cm with the optional carbon column kit (1,14 kg legs only, 1,33 kg with column in the spec table).",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    },
+    {
+      "fact": "German terms: Kugelkopf (ball head), Stativkopf, Mittelsäule (centre column), Arbeitshöhe (working height), Schnellwechselplatte; Bewerbungsfoto / Business-Porträt are the common words for a headshot; Arca-Swiss keeps its name.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Photographers want a tripod tall enough to look through the viewfinder without bending, ideally without raising the column.",
+      "fix": "Legs-only height decides it: Vanguard 148 cm, Befree 142 cm, Feisol and 055 140 cm put the viewfinder near standing eye level for an average German (post: lens-height section and the 'bad posture' pain point).",
+      "quotes": [
+        {
+          "text": "Im Idealfall so hoch das ich mich ohne krumm zu machen durch den Sucher schauen kann (selber bin ich 178cm).",
+          "url": "https://www.fuji-x-forum.de/topic/51116-allround-stativ-ohne-mittels%C3%A4ule-arbeiten-auf-augenh%C3%B6he-2kg-300-euro/"
+        }
+      ],
+      "sources": [
+        "https://www.fuji-x-forum.de/topic/51116-allround-stativ-ohne-mittels%C3%A4ule-arbeiten-auf-augenh%C3%B6he-2kg-300-euro/"
+      ]
+    },
+    {
+      "pain": "Forum users say a centre column is fine as long as it stays down, and warn against long, wobbly column constructions.",
+      "fix": "Set the legs for the typical client and use the column only for the last centimetres between people (post: tldr point 4 and how-to step 5).",
+      "quotes": [
+        {
+          "text": "Es gibt auch sehr gute Stative mit Mittelsäule (am besten sind sie natürlich wenn sie unten bleibt).",
+          "url": "https://www.fuji-x-forum.de/topic/51116-allround-stativ-ohne-mittels%C3%A4ule-arbeiten-auf-augenh%C3%B6he-2kg-300-euro/"
+        },
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fuji-x-forum.de/topic/51116-allround-stativ-ohne-mittels%C3%A4ule-arbeiten-auf-augenh%C3%B6he-2kg-300-euro/",
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets for German averages (Destatis), with 17 cm head and camera on top: average man 1,79 m -> eye level about 166 to 169 cm -> legs of about 149 to 152 cm; only the Vanguard (148 cm) comes within a few cm on its legs. Average woman 1,66 m -> eye level about 153 to 156 cm -> legs of about 136 to 139 cm; Feisol, 055, Befree and Vanguard clear it, the MT190XPRO4 (135 cm) is a few cm short.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "Location headshots by plane: Lufthansa's 55 cm cabin-bag length takes the Befree (43 cm), Feisol and MT190XPRO4 (49 cm) and 055 (54 cm), not the Vanguard kit (77 cm).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Maker metric figures instead of conversions, including Vanguard Europe's 148 cm / 174 cm / 77 cm for the VEO 3+ kit and Feisol Europe's 140 cm / 174 cm for the CT-3442.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and the eye-level subject heights derived from them)",
+      "action": "replace",
+      "with": "the national averages in localFacts (linked), with the eye-level targets in localGain"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing / no sensible Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen (Amazon US listing), never as a local store or availability claim"
+    },
+    {
+      "english": "Subject heights in feet and inches (5 ft 4 in, 5 ft 6 in, 5 ft 9 in, 6 ft 2 in, 6.5 ft, 5 ft to 6.5 ft)",
+      "action": "replace",
+      "with": "metric first: about 163, 168, 175, 188 and 198 cm; 152 to 198 cm (46 cm spread) for Scott Lawrence's range"
+    }
+  ]
+}

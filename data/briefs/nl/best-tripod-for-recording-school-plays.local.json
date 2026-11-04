@@ -1,0 +1,147 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-recording-school-plays",
+  "checkedAt": "2026-11-04T16:35:00.000Z",
+  "productFit": [
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm working height, 8 kg legs, 4 kg tripod weight; about 89 cm folded (English post)",
+      "reason": "Kamera Express lists the SmallRig 3751B AD-01 with 75 mm bowl and built-in level (verified in the Sony FX3 local brief).",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    },
+    {
+      "name": "NEEWER 79 inch Video Tripod with Fluid Drag Head",
+      "asin": "B09VL46P6R",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing (TP-M200): 88-200 cm, folded 91 cm, max load 8 kg, 70 mm bowl, 3 leg sections; English post weight 4,48 kg (9.87 lb)",
+      "reason": "The same ASIN B09VL46P6R is in stock on amazon.nl (sold and shipped by Amazon), model TP-M200; NEEWER's EU store (eu.neewer.com) lists the TP-M200 79\"/200 cm.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    },
+    {
+      "name": "GEEKOTO 77 inch Video Tripod with Fluid Head",
+      "asin": "B07WN2VNJP",
+      "status": "unknown",
+      "metricSpecs": "amazon.de: folded size 49,5 cm; other figures only in inches (77 in = 196 cm with column, 24 in = 61 cm, 3.1 lb = 1,4 kg)",
+      "reason": "amazon.nl returned no product for ASIN B07WN2VNJP on 2026-11-04 and no Dutch or Belgian retailer listing was found; amazon.de does list it. Neutral note: it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B07WN2VNJP"
+    },
+    {
+      "name": "Manfrotto MVK500AM Lightweight Fluid Video System",
+      "asin": "B00CL9CHNQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 154 cm max, 67,5 cm min, 72 cm closed, 3,56 kg, 8 kg legs, fixed 2,4 kg counterbalance",
+      "reason": "Manfrotto (Italian maker) sells the MVK500AM worldwide under the same code (MVH500A head + MVT502AM legs), and Kamera Express Belgium lists it as 'Manfrotto MVK500AM Pro Video statiefkit'.",
+      "source": "https://www.kamera-express.be/manfrotto-mvk500am-pro-video-statiefkit"
+    },
+    {
+      "name": "Manfrotto Befree 3-Way Live Advanced",
+      "asin": "B08F9JRDSY",
+      "status": "localVariant",
+      "variant": "EU/global kit code MKBFRLA4BK-3W (the US kit is MKBFRLA4BK-3WUS); same 4-section aluminium legs and Befree 3-Way Live fluid head. A Sony-plate version MKBFRLA-3W also exists.",
+      "metricSpecs": "151 cm max, 42 cm min, 40 cm folded, 2 kg, 6 kg payload (English post metric figures)",
+      "reason": "Foto Erhardt (Germany) sells the 'Manfrotto Kit Befree 3-Way Live Advanced'; European dealers list it as MKBFRLA4BK-3W.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-kit-befree-3-way-live-advanced.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS (Gezondheidsenquête): mannen van 20 jaar of ouder waren in 2018 gemiddeld 1,81 meter, vrouwen 1,67 meter. Om een staande Nederlandse man te overzien: NEEWER (200 cm) +19 cm, GEEKOTO (196 cm met middenkolom) +15 cm, SmallRig (186 cm) +5 cm; de Manfrotto-kits (154 en 151 cm) blijven eronder.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "fact": "Kennisnet: een school is niet verantwoordelijk voor de foto's die een ouder maakt en deelt; scholen vragen ouders terughoudend te zijn met delen en bijvoorbeeld de leukste foto's naar de leraar te sturen.",
+      "source": "https://www.kennisnet.nl/informatiebeveiliging-en-privacy/fotos-en-videos-van-leerlingen-delen-en-gebruiken/"
+    },
+    {
+      "fact": "Autoriteit Persoonsgegevens: wil de school zelf foto's of video's van leerlingen maken en publiceren, dan is toestemming nodig, van de ouders als de leerling jonger dan 16 is; veel scholen regelen dat bij de inschrijving.",
+      "source": "https://www.autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal/beeldmateriaal-in-het-onderwijs"
+    },
+    {
+      "fact": "Termen: videostatief, fluid head / vloeistofkop, kombasis of halve bol van 75 mm, middenspreider, tegengewicht; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Ouders willen de eindmusical van groep 8 filmen en weten niet wat mag.",
+      "fix": "Voor eigen gebruik filmen, delen terughoudend en alleen in kleine kring (Kennisnet); de school regelt toestemming voor eigen opnames (AP).",
+      "quotes": [
+        {
+          "text": "Ja bij ons wordt dit dus jaarlijks opnieuw gevraagd en in groep 8 dus ook toestemming voor de musical.",
+          "url": "https://www.zwangerschapspagina.nl/threads/hoe-zit-het-met-de-wet-avg-en-filmen-op-school.736596/"
+        },
+        {
+          "text": "Je kunt dat ene kind niet uit de film knippen.",
+          "url": "https://www.zwangerschapspagina.nl/threads/hoe-zit-het-met-de-wet-avg-en-filmen-op-school.736596/"
+        }
+      ],
+      "sources": [
+        "https://www.kennisnet.nl/informatiebeveiliging-en-privacy/fotos-en-videos-van-leerlingen-delen-en-gebruiken/"
+      ]
+    },
+    {
+      "pain": "Één camera op een statief met overzicht op het podium, maar hoe?",
+      "fix": "Vaste totaal vanaf de achterwand of het gangpad, vooraf ingesteld (Engels artikel).",
+      "quotes": [
+        {
+          "text": "Mijn idee was om één camera op een statief neer te zetten met overzicht op het podium.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/837881"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/837881"
+      ]
+    },
+    {
+      "pain": "Podiumlicht wisselt en is lastig voor de camera.",
+      "fix": "Belichting en scherpstelling handmatig op het verlichte doek zetten (Engels artikel).",
+      "quotes": [
+        {
+          "text": "Voor het licht wordt het sowieso een lastige klus, omdat er continu genoeg licht moet zijn.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/837881"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/837881"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Hoogterekening met de lange Nederlandse man (1,81 m, CBS): de SmallRig komt er maar 5 cm boven, de NEEWER 19 cm.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "point": "Wat ouders bij de schoolmusical mogen filmen en delen (Kennisnet, AP).",
+      "source": "https://www.kennisnet.nl/informatiebeveiliging-en-privacy/fotos-en-videos-van-leerlingen-delen-en-gebruiken/"
+    },
+    {
+      "point": "Metrische fabrikantcijfers: NEEWER TP-M200 88-200 cm en 91 cm ingeklapt (amazon.nl); Befree Live in Europa als MKBFRLA4BK-3W.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'the average US man stands 68.9 inches tall' (CDC) and the table column 'Above a 68.9 in man'",
+      "action": "replace",
+      "with": "the local average height (see localFacts) and a column 'above a <local> m man' in cm"
+    },
+    {
+      "english": "'each with an in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout (73.2 in, 8.8 lb, 15.75 in ...)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets, maker metric figures where given"
+    },
+    {
+      "english": "'Ask the school first if the spot is not a seat' / 'ask staff'",
+      "action": "replace",
+      "with": "keep, and add the local data-protection note on filming other children (see localFacts)"
+    }
+  ]
+}

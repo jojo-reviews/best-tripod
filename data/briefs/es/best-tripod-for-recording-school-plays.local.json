@@ -1,0 +1,156 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-recording-school-plays",
+  "checkedAt": "2026-11-04T16:35:00.000Z",
+  "productFit": [
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm working height, 8 kg legs, 4 kg tripod weight; about 89 cm folded (English post)",
+      "reason": "Foto Koch Spain lists the SmallRig 3751 AD-01 under the same model code (verified in the Sony FX3 local brief).",
+      "source": "https://www.fotokoch.es/SmallRig-3751-Tr-pode-de-cabeza-fluida-AD-01-de-alta-resistencia_50550.html"
+    },
+    {
+      "name": "NEEWER 79 inch Video Tripod with Fluid Drag Head",
+      "asin": "B09VL46P6R",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing (TP-M200): 88-200 cm, folded 91 cm, max load 8 kg, 70 mm bowl, 3 leg sections; English post weight 4,48 kg (9.87 lb)",
+      "reason": "The same ASIN B09VL46P6R is in stock on amazon.nl (sold and shipped by Amazon), model TP-M200; NEEWER's EU store (eu.neewer.com) lists the TP-M200 79\"/200 cm.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    },
+    {
+      "name": "GEEKOTO 77 inch Video Tripod with Fluid Head",
+      "asin": "B07WN2VNJP",
+      "status": "unknown",
+      "metricSpecs": "amazon.de: folded size 49,5 cm; other figures only in inches (77 in = 196 cm with column, 24 in = 61 cm, 3.1 lb = 1,4 kg)",
+      "reason": "amazon.es has a page for ASIN B07WN2VNJP but showed 'Currently unavailable' on 2026-11-04; no Spanish retailer listing was found. Neutral note: it is mainly sold in the US.",
+      "source": "https://www.amazon.es/dp/B07WN2VNJP"
+    },
+    {
+      "name": "Manfrotto MVK500AM Lightweight Fluid Video System",
+      "asin": "B00CL9CHNQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 154 cm max, 67,5 cm min, 72 cm closed, 3,56 kg, 8 kg legs, fixed 2,4 kg counterbalance",
+      "reason": "Manfrotto (Italian maker) sells the MVK500AM worldwide under the same code (MVH500A head + MVT502AM legs).",
+      "source": "https://www.manfrotto.com/global-en/tripod-with-fluid-video-head-lightweight-with-side-lock-mvk500am/"
+    },
+    {
+      "name": "Manfrotto Befree 3-Way Live Advanced",
+      "asin": "B08F9JRDSY",
+      "status": "localVariant",
+      "variant": "EU/global kit code MKBFRLA4BK-3W (the US kit is MKBFRLA4BK-3WUS); same 4-section aluminium legs and Befree 3-Way Live fluid head. A Sony-plate version MKBFRLA-3W also exists.",
+      "metricSpecs": "151 cm max, 42 cm min, 40 cm folded, 2 kg, 6 kg payload (English post metric figures)",
+      "reason": "Foto Erhardt (Germany) sells the 'Manfrotto Kit Befree 3-Way Live Advanced'; European dealers list it as MKBFRLA4BK-3W.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-kit-befree-3-way-live-advanced.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El País (estudio con las Encuestas Nacionales de Salud): la estatura media de los hombres treintañeros actuales en España es de 176 centímetros. Para superar a un adulto de pie: NEEWER (200 cm) +24 cm, GEEKOTO (196 cm con columna) +20 cm, SmallRig (186 cm) +10 cm; los kits Manfrotto (154 y 151 cm) quedan por debajo.",
+      "source": "https://elpais.com/ciencia/2022-07-14/los-universitarios-miden-tres-centimetros-mas-que-los-que-solo-tienen-estudios-de-primaria.html"
+    },
+    {
+      "fact": "AEPD, Guía para centros educativos: los familiares pueden grabar imágenes de un evento abierto a las familias siempre que sean exclusivamente para uso personal y doméstico; si las difunden fuera del ámbito privado, familiar y de amistad (p. ej., en internet en abierto) necesitan el consentimiento previo de los interesados.",
+      "source": "https://www.aepd.es/guias/guia-centros-educativos.pdf"
+    },
+    {
+      "fact": "La AEPD recomienda que el centro advierta a los asistentes de que las imágenes son para uso exclusivamente personal, familiar y de amistad, y que no se publiquen en internet en abierto sin el consentimiento de todos los que aparecen o de sus padres o tutores.",
+      "source": "https://www.aepd.es/guias/guia-centros-educativos.pdf"
+    },
+    {
+      "fact": "Términos: trípode de vídeo, rótula fluida / cabezal fluido, media bola de 75 mm, araña intermedia, contrapeso; Arca-Swiss mantiene su nombre.",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Al apagarse y encenderse las luces entre escenas, la cámara graba borrones mientras reenfoca.",
+      "fix": "Foco y exposición en manual antes de que se apaguen las luces (artículo inglés).",
+      "quotes": [
+        {
+          "text": "al apagar las luces y encender de nuevo grababa borrones antes de enfocar y grabar de nuevo bien",
+          "url": "https://videoedicion.org/foro/equipos-componentes-y-perifericos-(general)/camara-para-grabar-teatro/"
+        }
+      ],
+      "sources": [
+        "https://videoedicion.org/foro/equipos-componentes-y-perifericos-(general)/camara-para-grabar-teatro/"
+      ]
+    },
+    {
+      "pain": "Grabar con el móvil sin saber cómo fijarlo.",
+      "fix": "Móvil con pinza en el trípode, centrado frente al escenario y con el foco fijo (FAQ inglesa: tornillo de 1/4\", No molestar, batería externa).",
+      "quotes": [
+        {
+          "text": "Ponedlo sobre un trípode centrado frente al escenario",
+          "url": "https://videoedicion.org/foro/equipos-componentes-y-perifericos-(general)/camara-para-grabar-teatro/"
+        }
+      ],
+      "sources": [
+        "https://videoedicion.org/foro/equipos-componentes-y-perifericos-(general)/camara-para-grabar-teatro/"
+      ]
+    },
+    {
+      "pain": "Una sola persona no puede manejar la cámara y a la vez no perderse nada.",
+      "fix": "Plano general fijo en el trípode que se deja grabando solo (artículo inglés: plano general fijo).",
+      "quotes": [
+        {
+          "text": "una fija de plano general, que la puedes dejar sola",
+          "url": "https://www.nikonistas.com/digital/foro/topic/440165-grabar-teatro/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/440165-grabar-teatro/"
+      ]
+    },
+    {
+      "pain": "La batería no aguanta toda la función.",
+      "fix": "Cambiar baterías solo en el descanso, batería externa para el móvil (artículo inglés).",
+      "quotes": [
+        {
+          "text": "no creo que una batería te dure una hora",
+          "url": "https://www.nikonistas.com/digital/foro/topic/440165-grabar-teatro/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/440165-grabar-teatro/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Cálculo de altura con la estatura media española (176 cm) en lugar de la cifra de EE. UU.",
+      "source": "https://elpais.com/ciencia/2022-07-14/los-universitarios-miden-tres-centimetros-mas-que-los-que-solo-tienen-estudios-de-primaria.html"
+    },
+    {
+      "point": "Qué dice la AEPD sobre grabar el festival del colegio: uso personal y doméstico sí, publicar en abierto solo con consentimiento.",
+      "source": "https://www.aepd.es/guias/guia-centros-educativos.pdf"
+    },
+    {
+      "point": "Cifras métricas del fabricante: NEEWER TP-M200 88-200 cm y 91 cm plegado; Befree Live en Europa como MKBFRLA4BK-3W.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'the average US man stands 68.9 inches tall' (CDC) and the table column 'Above a 68.9 in man'",
+      "action": "replace",
+      "with": "the local average height (see localFacts) and a column 'above a <local> m man' in cm"
+    },
+    {
+      "english": "'each with an in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout (73.2 in, 8.8 lb, 15.75 in ...)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets, maker metric figures where given"
+    },
+    {
+      "english": "'Ask the school first if the spot is not a seat' / 'ask staff'",
+      "action": "replace",
+      "with": "keep, and add the local data-protection note on filming other children (see localFacts)"
+    }
+  ]
+}

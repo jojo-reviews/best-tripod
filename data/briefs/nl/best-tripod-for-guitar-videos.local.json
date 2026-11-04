@@ -1,0 +1,129 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-guitar-videos",
+  "checkedAt": "2026-11-04T16:32:16.566Z",
+  "productFit": [
+    {
+      "name": "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+      "asin": "B0F1TN5SJC",
+      "status": "fits",
+      "metricSpecs": "KraftGeek: max height 168 cm, folded/min 33 cm, 455 g, phone holder max load 2,5 kg, remote range 10 m.",
+      "reason": "KraftGeek ships international orders from its own store (EU withdrawal form on the product page) and the same ASIN B0F1TN5SJC is listed on Amazon.de for the EU; no country-only listing checked for this market.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+      "asin": "B09TQY66NH",
+      "status": "unknown",
+      "metricSpecs": "Weight about 650 g (already metric in the English post); height only given as 62 in (convert to 157 cm).",
+      "reason": "Found on amazon.com and amazon.es only; no Dutch listing found. Mainly sold in the US: add one neutral sentence to its \"Who it's for\" text.",
+      "source": "https://www.amazon.es/-/en/Sensyne-Extendable-Wireless-Compatible-Android/dp/B0BZP6VV9C"
+    },
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "asin": "B08JZCQ9WQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max, 132 cm column down, 43 cm min, 42,5 cm folded, 1,55 kg, 8 kg payload (same figures as the English post).",
+      "reason": "Manfrotto sells the same MKELMII4BK-BH code in the EU (Manfrotto global site; German retailers such as Pro Lighting and amazon.de list it under the same name).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/fotostativ/manfrotto-mkelmii4bk-bh-element-mii-aluminium-schwarz.html"
+    },
+    {
+      "name": "ULANZI MT-44 Extendable Tripod",
+      "asin": "B09T92NK4J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 146,5 cm full length, 32,5 cm folded, 422 g, 1 kg load, clamp 60-80 mm (metric already in the English post). Ulanzi DE store gives ~146-149 cm and ~31,5 cm for the current batch; keep the English 146,5 cm / 32,5 cm.",
+      "reason": "Dutch retailer Cinegear.nl sells the Ulanzi MT-44 Selfiestick Tripod (146 cm).",
+      "source": "https://cinegear.nl/product/ulanzi-mt-44-selfiestick-tripod-phone-and-camera-146cm/"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+      "asin": "B0169SORBO",
+      "status": "localVariant",
+      "variant": "MKPIXICLMII-BK (PIXI Mini with universal smartphone clamp, current Made-in-Italy code); same PIXI legs and clamp concept.",
+      "metricSpecs": "Keep the English post's figures: 24,7 cm (9.7 in) per Manfrotto, 26 cm folded, 0,215 kg, 1 kg payload.",
+      "reason": "EU shops list the kit under the newer code MKPIXICLMII-BK (Foto Koch NL; amazon.nl same ASIN); the English post's own Manfrotto source is the MKPIXICLMII-BK page.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod with Wireless Remote",
+      "asin": "B088GNC6TT",
+      "status": "fits",
+      "metricSpecs": "No maker metric figures beyond the English post; holder 3.70 in wide (convert to 9,4 cm).",
+      "reason": "UBeesize sells this model in the EU through its UBeesize EU store on Amazon (same ASIN B088GNC6TT on amazon.de).",
+      "source": "https://www.amazon.de/UBeesize-Smartphone-Flexibel-Wireless-Fernbedienung/dp/B088GNC6TT"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "BumaStemra: wie als particulier muziek gebruikt in een video op social media (Instagram, Facebook, YouTube) heeft geen aparte licentie nodig, omdat BumaStemra afspraken met deze platforms heeft; in een commerciële context (merk, bedrijf, influencer) is een aanvullende sync-licentie nodig.",
+      "source": "https://bumastemra.nl/faq/heb-ik-een-licentie-nodig-om-muziek-te-gebruiken-op-social-media/"
+    },
+    {
+      "fact": "KLM: een instrument mag als handbagage mee als het maximaal 55 x 35 x 25 cm is (tot 12 kg in Economy); een gitaar is groter en gaat op een extra stoel (max. 140 cm hoog, max. 45 kg) of als ruimbagage. Wie een instrument als handbagage meeneemt, mag daarnaast geen handbagage meenemen; een kleine tas mag altijd.",
+      "source": "https://www.klm.nl/information/baggage/special-baggage"
+    },
+    {
+      "fact": "Music All In (muziekwinkel in Noordwijk): staat de camera op een vaste plek, dan werkt een statief het makkelijkst; beweeg je, dan is een gimbal handiger.",
+      "source": "https://musicallin.nl/blogs/music-all-in-blog/zelf-video-s-maken-met-professioneel-geluid"
+    },
+    {
+      "fact": "KraftGeek geeft voor de JustTap 168 cm maximale hoogte, 33 cm ingeklapt en 455 g.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "De gitaar past niet in de handbagagemaat van KLM, dus de gitaar en het statief moeten anders mee.",
+      "fix": "Statief in de koffer of kleine tas: JustTap (33 cm) en MT-44 (32,5 cm) zijn het kortst; de gitaar op een extra stoel of als ruimbagage.",
+      "quotes": [
+        {
+          "text": "Als uw instrument groter is dan de maximaal toegestane afmetingen voor handbagage, zoals bijvoorbeeld een gitaar, kunt u het meenemen op een extra stoel",
+          "url": "https://www.klm.nl/information/baggage/special-baggage"
+        }
+      ],
+      "sources": [
+        "https://www.klm.nl/information/baggage/special-baggage"
+      ]
+    },
+    {
+      "pain": "Het telefoonbeeld wordt onrustig als je zelf filmt en speelt.",
+      "fix": "Vaste plek, statief, afstandsbediening; geen gimbal nodig voor een zittende take.",
+      "quotes": [
+        {
+          "text": "Als je camera op een vaste plek staat dan werkt een statief het makkelijkste.",
+          "url": "https://musicallin.nl/blogs/music-all-in-blog/zelf-video-s-maken-met-professioneel-geluid"
+        }
+      ],
+      "sources": [
+        "https://musicallin.nl/blogs/music-all-in-blog/zelf-video-s-maken-met-professioneel-geluid"
+      ],
+      "note": "No Dutch-language guitar forum thread on filming was found (fok.nl, zoom.nl and Reddit searches returned nothing usable); quotes come from Dutch-language KLM and music-shop pages."
+    }
+  ],
+  "localGain": [
+    {
+      "point": "BumaStemra: een privé covervideo op YouTube of Instagram is al afgedekt; voor commerciële content is een sync-licentie nodig.",
+      "source": "https://bumastemra.nl/faq/heb-ik-een-licentie-nodig-om-muziek-te-gebruiken-op-social-media/"
+    },
+    {
+      "point": "KLM: gitaar op een extra stoel of in het ruim; statief in de koffer, met de kortste ingeklapte maten genoemd.",
+      "source": "https://www.klm.nl/information/baggage/special-baggage"
+    },
+    {
+      "point": "Ooghoogte zittend in centimeters: 108 tot 134 cm; de Element MII haalt 132 cm zonder middenkolom.",
+      "source": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I kept tripods that at least two pages ranking for this search recommend, each with an in-stock Amazon US listing I checked by hand.",
+      "action": "replace",
+      "with": "Keep the method, but say plainly that the stock check was on Amazon US (a US criterion); do not claim local stock."
+    },
+    {
+      "english": "Seated eye height runs 42.6 to 52.6 in in BIFMA data (BIFMA is a US furniture standard).",
+      "action": "replace",
+      "with": "Keep the BIFMA figure as US office-furniture data, metric first: 108 to 134 cm (42.6 to 52.6 in)."
+    }
+  ]
+}

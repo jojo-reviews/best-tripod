@@ -1,0 +1,153 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-guitar-videos",
+  "checkedAt": "2026-11-04T16:32:16.566Z",
+  "productFit": [
+    {
+      "name": "KraftGeek JustTap Magnetic Phone Tripod (226M)",
+      "asin": "B0F1TN5SJC",
+      "status": "fits",
+      "metricSpecs": "KraftGeek: max height 168 cm, folded/min 33 cm, 455 g, phone holder max load 2,5 kg, remote range 10 m.",
+      "reason": "Amazon.de lists the same ASIN B0F1TN5SJC (\"KraftGeek 168 cm Handy-Stativ\"); KraftGeek also ships international orders from its own store (EU withdrawal form on the product page).",
+      "source": "https://www.amazon.de/-/en/KraftGeek-smartphone-Automatic-Compatible-Magnetic/dp/B0F1TN5SJC"
+    },
+    {
+      "name": "SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote",
+      "asin": "B09TQY66NH",
+      "status": "unknown",
+      "metricSpecs": "Weight about 650 g (already metric in the English post); height only given as 62 in (convert to 157 cm).",
+      "reason": "Found on amazon.com and amazon.es only; no German listing found. Mainly sold in the US: add one neutral sentence to its \"Who it's for\" text.",
+      "source": "https://www.amazon.es/-/en/Sensyne-Extendable-Wireless-Compatible-Android/dp/B0BZP6VV9C"
+    },
+    {
+      "name": "Manfrotto Element MII Aluminum Tripod with Ball Head",
+      "asin": "B08JZCQ9WQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max, 132 cm column down, 43 cm min, 42,5 cm folded, 1,55 kg, 8 kg payload (same figures as the English post).",
+      "reason": "Manfrotto sells the same MKELMII4BK-BH code in the EU (Manfrotto global site; German retailers such as Pro Lighting and amazon.de list it under the same name).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/fotostativ/manfrotto-mkelmii4bk-bh-element-mii-aluminium-schwarz.html"
+    },
+    {
+      "name": "ULANZI MT-44 Extendable Tripod",
+      "asin": "B09T92NK4J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 146,5 cm full length, 32,5 cm folded, 422 g, 1 kg load, clamp 60-80 mm (metric already in the English post). Ulanzi DE store gives ~146-149 cm and ~31,5 cm for the current batch; keep the English 146,5 cm / 32,5 cm.",
+      "reason": "Ulanzi runs a German store (ulanzi.de) that sells the MT-44 Vlog-Stativ.",
+      "source": "https://www.ulanzi.de/en/products/ulanzi-mt-44-extendable-vlog-tripod-2502"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)",
+      "asin": "B0169SORBO",
+      "status": "localVariant",
+      "variant": "MKPIXICLMII-BK (PIXI Mini with universal smartphone clamp, current Made-in-Italy code); same PIXI legs and clamp concept.",
+      "metricSpecs": "Keep the English post's figures: 24,7 cm (9.7 in) per Manfrotto, 26 cm folded, 0,215 kg, 1 kg payload.",
+      "reason": "EU shops list the kit under the newer code MKPIXICLMII-BK (Foto Koch NL; amazon.nl same ASIN); the English post's own Manfrotto source is the MKPIXICLMII-BK page.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "UBeesize Flexible Phone Tripod with Wireless Remote",
+      "asin": "B088GNC6TT",
+      "status": "fits",
+      "metricSpecs": "No maker metric figures beyond the English post; holder 3.70 in wide (convert to 9,4 cm).",
+      "reason": "UBeesize sells this model in the EU through its UBeesize EU store on Amazon (same ASIN B088GNC6TT on amazon.de).",
+      "source": "https://www.amazon.de/UBeesize-Smartphone-Flexibel-Wireless-Fernbedienung/dp/B088GNC6TT"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "GEMA: Für private Uploads von Musik auf YouTube braucht man keine eigene GEMA-Lizenz, weil YouTube die Rechte über bestehende Lizenzverträge mit der GEMA erworben hat; privat heißt: nicht gewerblich und keine nennenswerten Einnahmen. Kommerzielle Nutzer müssen die Rechte selbst klären.",
+      "source": "https://www.gema.de/en/w/help/users/use-music/social-media-websites/upload-music-content-video-platform-youtube"
+    },
+    {
+      "fact": "GEMA: Eine Coverversion (nahezu identisches Nachspielen) braucht keine Genehmigung, die Lizenzierung läuft über die GEMA; eine Bearbeitung (geänderter Text, Melodie, Besetzung, Songstruktur, Rhythmik) braucht vor der Veröffentlichung die Genehmigung des Urhebers bzw. Verlags.",
+      "source": "https://www.gema.de/en/w/help/users/use-music/social-media-websites/cover-songs-online-youtube"
+    },
+    {
+      "fact": "Lufthansa: Kleine Musikinstrumente dürfen kostenlos in die Kabine, wenn sie verpackt höchstens 125 cm (Höhe + Breite + Länge) messen und maximal 8 kg wiegen (nicht im Economy-Basic-Tarif auf Kurz- und Mittelstrecke); das Instrument ersetzt das Handgepäckstück (55 x 40 x 23 cm), ein persönlicher Gegenstand (max. 40 x 30 x 15 cm) bleibt erlaubt. Größere Instrumente brauchen einen Zusatzsitz oder werden aufgegeben.",
+      "source": "https://www.lufthansa.com/gq/de/sportgepaeck"
+    },
+    {
+      "fact": "KraftGeek nennt für das JustTap metrisch 168 cm Maximalhöhe, 33 cm Packmaß und 455 g.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    },
+    {
+      "fact": "Das deutsche Musikermagazin ifeelifit.rocks rät: Fenster vor dir, nicht im Rücken; nimmt das Handy-Mikro den Ton auf, ist etwa ein Meter Abstand oft der Sweet Spot, an dem Gesang und Gitarre ausgewogen klingen.",
+      "source": "https://ifeelifit.rocks/youtube-videos-aufnehmen-7-hacks-fuer-musiker/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Der Ton aus Webcam oder Handy klingt blechern.",
+      "fix": "Ton getrennt aufnehmen (Audio-Interface oder Recorder etwa 40 cm vor dem 12. Bund) und das Bild vom Stativ nehmen.",
+      "quotes": [
+        {
+          "text": "aber der Ton ist sehr bescheiden...blechern....",
+          "url": "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+        }
+      ],
+      "sources": [
+        "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+      ]
+    },
+    {
+      "pain": "Getrennter Ton heißt, Bild und Ton hinterher zusammenzubasteln.",
+      "fix": "Aufnahme per Fernbedienung starten, zwei Sekunden warten, dann spielen; der Einsatz macht das Anlegen im Schnitt leicht. Ein Forumsmitglied nimmt Gitarre per USB-Wandler und Bild gleichzeitig auf, ohne Zeitversatz.",
+      "quotes": [
+        {
+          "text": "ich muss mit einer Software die USB-Tonaufnahme mit dem Video der Webcam verwursteln",
+          "url": "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+        },
+        {
+          "text": "Geht prima - ganz ohne Zeitversatz o.ä.",
+          "url": "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+        }
+      ],
+      "sources": [
+        "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+      ]
+    },
+    {
+      "pain": "Rauschunterdrückung der Aufnahmesoftware filtert die Gitarre mit weg.",
+      "fix": "Geräuschfilter der Kamera- oder Webcam-Software ausschalten; der Fragesteller berichtet danach von deutlich besserem Ton.",
+      "quotes": [
+        {
+          "text": "leider ist die Software doch nicht intelligent genug, um zwischen gewollten und ungewollten Geräuschen zu unterscheiden",
+          "url": "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+        }
+      ],
+      "sources": [
+        "https://www.guitar-tv.de/gitarrenforum/gitarrenzubehoer-f12/gitarrenvideo-mit-guter-tonaufnahme-erzeugen-t2222.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "GEMA: private Cover-Uploads auf YouTube brauchen keine eigene Lizenz; Bearbeitungen brauchen die Genehmigung des Urhebers.",
+      "source": "https://www.gema.de/en/w/help/users/use-music/social-media-websites/cover-songs-online-youtube"
+    },
+    {
+      "point": "Lufthansa: die Gitarre sprengt meist die 125 cm Summenmaß, das Stativ gehört also in Koffer oder persönlichen Gegenstand (40 x 30 x 15 cm); JustTap (33 cm) und MT-44 (32,5 cm) passen der Länge nach hinein, das Element MII (42,5 cm) nicht.",
+      "source": "https://www.lufthansa.com/gq/de/sportgepaeck"
+    },
+    {
+      "point": "Sitzende Augenhöhe metrisch: 108 bis 134 cm; das Element MII erreicht 132 cm ohne Mittelsäule.",
+      "source": "https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/"
+    },
+    {
+      "point": "Herstellerwerte des JustTap in cm: 168 cm hoch, 33 cm Packmaß, 455 g.",
+      "source": "https://kraftgeek.com/products/justtap-magnetic-phone-tripod-226m"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I kept tripods that at least two pages ranking for this search recommend, each with an in-stock Amazon US listing I checked by hand.",
+      "action": "replace",
+      "with": "Keep the method, but say plainly that the stock check was on Amazon US (a US criterion); do not claim local stock."
+    },
+    {
+      "english": "Seated eye height runs 42.6 to 52.6 in in BIFMA data (BIFMA is a US furniture standard).",
+      "action": "replace",
+      "with": "Keep the BIFMA figure as US office-furniture data, metric first: 108 to 134 cm (42.6 to 52.6 in)."
+    }
+  ]
+}

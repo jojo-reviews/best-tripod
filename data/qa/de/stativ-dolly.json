@@ -1,0 +1,20 @@
+{
+  "slug": "de/stativ-dolly",
+  "lang": "de",
+  "translationOf": "best-tripod-dolly",
+  "pass": true,
+  "checkedAt": "2026-11-04T16:34:16.882Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-filming-sports/; link the de version once it exists",
+    "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-dolly: all 6 products, ASINs, scores, specs (metric first, imperial in brackets; maker metric figures SmallRig 15 kg/1,8 kg/298-435 mm, Manfrotto 60 kg/6,48 kg/127 mm/112 cm, Proaim 500 kg/10,7 kg, K&F 20 kg/2,6 kg/38,5 cm), FAQ answers and owner notes match the English post; no testing/ownership claim (only negated 'nicht selbst getestet'), no prices/currency, no local Amazon store. Local facts from data/briefs/de/best-tripod-dolly.local.json re-opened: bbfc.de Drehen auf oeffentlichem Strassenland (Miniteam max. 5 Personen, max. 1 Stativ, Sondernutzung, Bussgeld), lufthansa.com Handgepaeck 55 x 40 x 23 cm; German amazon.de owner quotes verified verbatim on the NEEWER page (R66UMFNXSM1JU, R11BZBFV6UUMF9, R2RTSYYJASYVHT). Glide Gear SYL 960 marked unknown for EU: neutral 'vor allem in den USA angeboten' note. B&H footprint link turned into plain text to keep max 3 outside links.",
+    "at": "2026-11-04T16:34:16.316Z",
+    "hash": "64a93a9d38251d54"
+  }
+}

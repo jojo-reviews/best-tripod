@@ -1,0 +1,137 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-headshots",
+  "checkedAt": "2026-11-04T16:31:06Z",
+  "productFit": [
+    {
+      "name": "Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NBP6",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe: 140 cm max. working height without column, 174 cm with the optional column kit, 17 cm min., 49 cm folded, 1,14 kg (1,33 kg with column), 25 kg load, 28 mm legs.",
+      "reason": "Feisol Europe (feisol.eu, German shop that ships within the EU) sells the CT-3442 Rapid under the same name, in stock; the column kit is optional there too.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm with the column down, 9 cm min., 54 cm closed, 2,25 kg, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "Manfrotto (Italian maker) sells the MT055CXPRO4 under the same code on its global/EU site; no Spanish retailer page was opened.",
+      "source": "https://www.manfrotto.com/global-en/055-carbon-fiber-4-section-tripod-with-horizontal-column-mt055cxpro4/"
+    },
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric spec table): 174 cm with the column up, 148 cm with the column down (1485 mm in the text), 77 cm folded, 2,5 kg, 15 kg load, 26 mm legs, QS-62 V3 Arca-compatible plate. Use these maker figures instead of converting 68.4 in / 58.4 in / 30.5 in.",
+      "reason": "Vanguard España lists the Veo 3+ 263AB160S kit with the BH-160S dual-axis ball head, extending to 174 cm.",
+      "source": "https://www.vanguardworld.es/products/veo-3-263ab160s"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4)",
+      "asin": "B00G36G9Q4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max., 135 cm with the column down, 8 cm min., 49 cm folded, 2,05 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "Manfrotto's European (global-uk) page lists the MT190XPRO4 under the same code (checked for best-tripod-for-real-estate-photography).",
+      "source": "https://www.manfrotto.com/global-uk/190xpro-aluminium-4-section-camera-tripod-mt190xpro4/"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm with the column up, 142 cm with the column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "-BH is the international/EU kit code (the ASIN's listing title says MKBFRA4GTXP-BH; the US store sells it as -BUS). Kamera Express Belgium lists the same -BH kit; no Spanish retailer page was opened.",
+      "source": "https://www.kamera-express.be/manfrotto-mkbfra4gtxp-bh-befree-aluminium-s"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Muy Interesante, with NCD Risk Factor Collaboration (The Lancet) data: in 2019 men in Spain averaged 1,76 m and women 1,62 m. Replaces the CDC US averages in the eye-level section.",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm. The Befree GT XPRO (43 cm), Feisol and MT190XPRO4 (49 cm) and 055 (54 cm) fit lengthwise; the Vanguard VEO 3+ kit (77 cm) does not.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Vanguard España sells the Veo 3+ 263AB160S with the VEO BH-160S dual-axis Arca-type ball head and the VEO+ MA1 adapter for a second head or accessories; it extends to 174 cm.",
+      "source": "https://www.vanguardworld.es/products/veo-3-263ab160s"
+    },
+    {
+      "fact": "Spanish terms: rótula de bola (ball head), columna central, zapata / placa de liberación rápida; retrato corporativo or foto de perfil profesional are the common words for a headshot; Arca-Swiss keeps its name.",
+      "source": "https://www.vanguardworld.es/products/veo-3-263ab160s"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Buyers ask how tall the tripod must be; forum advice is legs with the column down of about 1,40 m so they can shoot at eye level without bending.",
+      "fix": "The Feisol and 055 (140 cm), Befree (142 cm) and Vanguard (148 cm) reach that with the column down; the MT190XPRO4 has 135 cm (post: lens-height section).",
+      "quotes": [
+        {
+          "text": "un trípode que con las patas extendidas y la columna central bajada mida 1,40, ya te sirve para disparar a nivel del ojo.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/347160-altura-ideal-tr%C3%ADpode/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/347160-altura-ideal-tr%C3%ADpode/"
+      ]
+    },
+    {
+      "pain": "Forum users warn that the higher the tripod goes, the less stable it gets.",
+      "fix": "Keep the column down for the steadiest shot and raise it only for the last centimetres between clients (post: comparison table intro and how-to step 5).",
+      "quotes": [
+        {
+          "text": "Piensa que cuanto mas alto mas inestable",
+          "url": "https://www.nikonistas.com/digital/foro/topic/347160-altura-ideal-tr%C3%ADpode/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/347160-altura-ideal-tr%C3%ADpode/"
+      ]
+    },
+    {
+      "pain": "Forum advice says the tripod plus camera should reach face height when fully extended.",
+      "fix": "Lens height = legs + about 17 cm of head and camera, worked out for Spanish averages (local gain).",
+      "quotes": [
+        {
+          "text": "la altura debería quedarte, una vez desplegado por completo, a la altura de la cara (incluyendo la cámara).",
+          "url": "https://forocoches.com/foro/showthread.php?t=9549655"
+        }
+      ],
+      "sources": [
+        "https://forocoches.com/foro/showthread.php?t=9549655"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets for Spanish averages, with 17 cm head and camera on top: average man 1,76 m -> eye level about 163 to 166 cm -> legs of about 146 to 149 cm; the Vanguard (148 cm) reaches it on its legs. Average woman 1,62 m -> eye level about 149 to 152 cm -> legs of about 132 to 135 cm; all five reach it on their legs.",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "point": "Location headshots by plane: Iberia's 56 cm cabin-bag length takes the Befree (43 cm), Feisol and MT190XPRO4 (49 cm) and 055 (54 cm), not the Vanguard kit (77 cm).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Maker metric figures instead of conversions, including Vanguard's 148 cm / 174 cm / 77 cm for the VEO 3+ kit and Feisol Europe's 140 cm / 174 cm for the CT-3442.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and the eye-level subject heights derived from them)",
+      "action": "replace",
+      "with": "the national averages in localFacts (linked), with the eye-level targets in localGain"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing / no sensible Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen (Amazon US listing), never as a local store or availability claim"
+    },
+    {
+      "english": "Subject heights in feet and inches (5 ft 4 in, 5 ft 6 in, 5 ft 9 in, 6 ft 2 in, 6.5 ft, 5 ft to 6.5 ft)",
+      "action": "replace",
+      "with": "metric first: about 163, 168, 175, 188 and 198 cm; 152 to 198 cm (46 cm spread) for Scott Lawrence's range"
+    }
+  ]
+}

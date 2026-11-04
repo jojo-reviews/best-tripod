@@ -1,0 +1,21 @@
+{
+  "slug": "de/stativ-fuer-gitarrenvideos",
+  "lang": "de",
+  "translationOf": "best-tripod-for-guitar-videos",
+  "pass": true,
+  "checkedAt": "2026-11-04T16:35:12.426Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-youtube-videos/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-content-creators/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-guitar-videos: same 6 products/ASINs/scores/order, specs converted metric-first (66 in->168 cm per KraftGeek page, 13 in->33 cm, 62 in->157 cm, 2.8-5.7 in->7,1-14,5 cm, 42.6-52.6 in->108-134 cm, Element MII 160/132/43/42,5 cm, 1,55 kg, 8 kg per Manfrotto, MT-44 146,5/32,3/32,5 cm, 422 g, 1 kg, PIXI 24,7/26 cm, 215 g, 1 kg, UBeesize 9,4 cm), FAQ answers match. Local facts from data/briefs/de/best-tripod-for-guitar-videos.local.json re-checked: KraftGeek product page (168 cm, 33 cm, 455 g), GEMA YouTube and cover-song help pages (private uploads need no separate licence; covers no authorisation, arrangements need rightsholder), Lufthansa Sport- und Sondergepaeck page (125 cm sum, 8 kg, 55x40x23 replaced, personal item 40x30x15), ifeelifit.rocks (1 m sweet spot), guitar-tv.de thread quotes verbatim, Foto Koch NL MKPIXICLMII-BK. SENSYNE unknown in DE: neutral US sentence added. No testing/ownership claims, no prices, no local Amazon store. 3 outside links (Manfrotto, VGO, GEMA).",
+    "at": "2026-11-04T16:35:11.779Z",
+    "hash": "f806e2ecc469a9f9"
+  }
+}

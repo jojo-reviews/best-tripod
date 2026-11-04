@@ -1,0 +1,160 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-recording-school-plays",
+  "checkedAt": "2026-11-04T16:35:00.000Z",
+  "productFit": [
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm working height, 8 kg legs, 4 kg tripod weight; about 89 cm folded (English post)",
+      "reason": "SmallRig 3751B AD-01 is listed on amazon.de under the same model code (verified in the Sony FX3 local brief, 2026-11-03).",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Performance-release-camcorders-capacity/dp/B09WVBXZF9"
+    },
+    {
+      "name": "NEEWER 79 inch Video Tripod with Fluid Drag Head",
+      "asin": "B09VL46P6R",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing (TP-M200): 88-200 cm, folded 91 cm, max load 8 kg, 70 mm bowl, 3 leg sections; English post weight 4,48 kg (9.87 lb)",
+      "reason": "The same ASIN B09VL46P6R is in stock on amazon.nl (sold and shipped by Amazon), model TP-M200; NEEWER's EU store (eu.neewer.com) lists the TP-M200 79\"/200 cm.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    },
+    {
+      "name": "GEEKOTO 77 inch Video Tripod with Fluid Head",
+      "asin": "B07WN2VNJP",
+      "status": "fits",
+      "metricSpecs": "amazon.de: folded size 49,5 cm; other figures only in inches (77 in = 196 cm with column, 24 in = 61 cm, 3.1 lb = 1,4 kg)",
+      "reason": "The same ASIN B07WN2VNJP is listed on amazon.de as 'Geekoto 77 Inch Video Camera Tripod ... Fluid Drag Pan Head' with 77 in max, 24 in min, 3.1 lb and a folded size of 49.5 cm.",
+      "source": "https://www.amazon.de/dp/B07WN2VNJP"
+    },
+    {
+      "name": "Manfrotto MVK500AM Lightweight Fluid Video System",
+      "asin": "B00CL9CHNQ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 154 cm max, 67,5 cm min, 72 cm closed, 3,56 kg, 8 kg legs, fixed 2,4 kg counterbalance",
+      "reason": "Manfrotto (Italian maker) sells the MVK500AM worldwide under the same code (MVH500A head + MVT502AM legs).",
+      "source": "https://www.manfrotto.com/global-en/tripod-with-fluid-video-head-lightweight-with-side-lock-mvk500am/"
+    },
+    {
+      "name": "Manfrotto Befree 3-Way Live Advanced",
+      "asin": "B08F9JRDSY",
+      "status": "localVariant",
+      "variant": "EU/global kit code MKBFRLA4BK-3W (the US kit is MKBFRLA4BK-3WUS); same 4-section aluminium legs and Befree 3-Way Live fluid head. A Sony-plate version MKBFRLA-3W also exists.",
+      "metricSpecs": "151 cm max, 42 cm min, 40 cm folded, 2 kg, 6 kg payload (English post metric figures)",
+      "reason": "Foto Erhardt (Germany) sells the 'Manfrotto Kit Befree 3-Way Live Advanced'; European dealers list it as MKBFRLA4BK-3W.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-kit-befree-3-way-live-advanced.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Destatis (Mikrozensus 2025): Der Durchschnittsmann in Deutschland ist 1,79 Meter groß, die Durchschnittsfrau 1,66 Meter. Ein Stativ muss also über 1,80 m hinauskommen, um einen stehenden Vordermann zu überragen: NEEWER (200 cm) +21 cm, GEEKOTO (196 cm mit Säule) +17 cm, SmallRig (186 cm) +7 cm; die Manfrotto-Kits (154 und 151 cm) bleiben darunter.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "LDI NRW (Landesbeauftragte für Datenschutz NRW): Fotos/Filme vom eigenen Kind allein gehen immer; mit anderen Kindern nur mit Einwilligung oder wenn sie im Familien- und Bekanntenkreis bleiben (Haushaltsausnahme, Art. 2 Abs. 2 lit. c DS-GVO). Hochladen ins Internet braucht eine Einwilligung, wenn es keinen geschlossenen Nutzerkreis gibt. Die LDI empfiehlt Schulen Fotozonen bei Veranstaltungen.",
+      "source": "https://www.ldi.nrw.de/Bildaufnahmen-in-der-Schule"
+    },
+    {
+      "fact": "Schulen können laut LDI NRW per Hausrecht Aufnahmen auf dem Schulgelände ganz verbieten oder nur in festgelegten Fotozonen erlauben, darum vor der Aufführung fragen, wo das Stativ stehen darf.",
+      "source": "https://www.ldi.nrw.de/Bildaufnahmen-in-der-Schule"
+    },
+    {
+      "fact": "Begriffe: Videostativ, Fluidkopf / Videoneiger, Halbschale (75 mm), Mittelspinne, Schwenkarm, Gegengewicht; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Scheinwerfer machen Gesichter weiß, die Belichtungsautomatik versagt.",
+      "fix": "Belichtung manuell auf die Gesichter setzen, bevor das Saallicht ausgeht (englischer Beitrag: manuelle Belichtung und Fokus).",
+      "quotes": [
+        {
+          "text": "Durch die Scheinwerfer sind die Gesichter sehr hell.",
+          "url": "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+        },
+        {
+          "text": "Die zu hellen Gesichter sind die Folge von Belichtungsautomatik.",
+          "url": "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+        }
+      ],
+      "sources": [
+        "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+      ]
+    },
+    {
+      "pain": "Man sitzt eingekeilt und kann die Kamera während der Aufführung nicht bedienen.",
+      "fix": "Feste Totale vom Stativ, vorher einrichten und laufen lassen (englischer Beitrag: set-and-leave wide shot).",
+      "quotes": [
+        {
+          "text": "Während der Aufführung kann ich nicht an der Kamera stehen, um sie zu bedienen, weil rechts und links und dahinter Zuschauer sitzen.",
+          "url": "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+        }
+      ],
+      "sources": [
+        "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+      ]
+    },
+    {
+      "pain": "Handy aus der Hand filmen wird über eine ganze Aufführung nichts.",
+      "fix": "Handy mit Klemme aufs Stativ (englische FAQ: 1/4-Zoll-Schraube, Nicht stören, Powerbank).",
+      "quotes": [
+        {
+          "text": "Egal was, auf jeden Fall auf ein Stativ damit.",
+          "url": "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+        }
+      ],
+      "sources": [
+        "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+      ]
+    },
+    {
+      "pain": "Akku hält keine ganze Aufführung.",
+      "fix": "Akku nur in der Pause wechseln, Powerbank fürs Handy (englischer Beitrag).",
+      "quotes": [
+        {
+          "text": "Nach 85 min/136GB wird der Akku gewechselt und weiter gehts.",
+          "url": "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+        }
+      ],
+      "sources": [
+        "https://www.slashcam.de/forum/viewtopic.php?t=163872"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Höhenrechnung mit dem deutschen Durchschnittsmann (1,79 m, Destatis) statt der US-Zahl: welches Stativ einen stehenden Vordermann um wie viele Zentimeter überragt.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "Was Eltern laut Datenschutzaufsicht (LDI NRW) filmen und teilen dürfen: eigenes Kind immer, andere Kinder nur im Familienkreis oder mit Einwilligung; Fotozonen der Schule beachten.",
+      "source": "https://www.ldi.nrw.de/Bildaufnahmen-in-der-Schule"
+    },
+    {
+      "point": "Maker-Metrik: NEEWER TP-M200 88-200 cm, 91 cm gefaltet; GEEKOTO in der EU 49,5 cm Packmaß; Befree Live in Europa als MKBFRLA4BK-3W.",
+      "source": "https://www.amazon.nl/dp/B09VL46P6R"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'the average US man stands 68.9 inches tall' (CDC) and the table column 'Above a 68.9 in man'",
+      "action": "replace",
+      "with": "the local average height (see localFacts) and a column 'above a <local> m man' in cm"
+    },
+    {
+      "english": "'each with an in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout (73.2 in, 8.8 lb, 15.75 in ...)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets, maker metric figures where given"
+    },
+    {
+      "english": "'Ask the school first if the spot is not a seat' / 'ask staff'",
+      "action": "replace",
+      "with": "keep, and add the local data-protection note on filming other children (see localFacts)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "es/mejor-dolly-para-tripode",
+  "lang": "es",
+  "translationOf": "best-tripod-dolly",
+  "pass": true,
+  "checkedAt": "2026-11-04T16:35:59.816Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-filming-sports/; link the es version once it exists",
+    "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-dolly: all 6 products, ASINs, scores, spec keys and values (metric first with decimal comma, imperial in brackets; maker metric figures for SmallRig, Manfrotto, Proaim, K&F), FAQ answers and owner notes match the English post; no testing/ownership claim (only negated 'no los hemos probado'), no prices/currency, no local Amazon store. Local facts from data/briefs/es/best-tripod-dolly.local.json: Ajuntament de Barcelona via publica permit (tripod needs permit; basic permit max. one tripod, 10 people, no vehicles/drones; seuelectronica search excerpt), madrid.es Madrid Film Office page (Negociado de Autorizaciones de Rodaje), iberia.com equipaje de mano 56 x 40 x 25 cm; Spanish amazon.es owner quotes verified verbatim on the NEEWER page (RJ6FX4H565GZ8, R1QNA3QQDABBLA). Glide Gear SYL 960 unknown for EU: neutral 'se vende sobre todo en Estados Unidos'. B&H footprint link made plain text to keep max 3 outside links.",
+    "at": "2026-11-04T16:35:59.149Z",
+    "hash": "a690303eeb0402fd"
+  }
+}

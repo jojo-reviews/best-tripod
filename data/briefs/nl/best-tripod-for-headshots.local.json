@@ -1,0 +1,129 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-headshots",
+  "checkedAt": "2026-11-04T16:31:06Z",
+  "productFit": [
+    {
+      "name": "Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod",
+      "asin": "B00573NBP6",
+      "status": "fits",
+      "metricSpecs": "Feisol Europe: 140 cm max. working height without column, 174 cm with the optional column kit, 17 cm min., 49 cm folded, 1,14 kg (1,33 kg with column), 25 kg load, 28 mm legs.",
+      "reason": "Feisol Europe (feisol.eu, German shop that ships within the EU) sells the CT-3442 Rapid under the same name, in stock; the column kit is optional there too.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm with the column down, 9 cm min., 54 cm closed, 2,25 kg, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "Kamera Express (NL) lists the MT055CXPRO4 carbon statief under the same code, 9 to 170 cm, 20 kg safety payload.",
+      "source": "https://www.kamera-express.nl/products/manfrotto-mt055cxpro4-carbon-statief"
+    },
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric spec table): 174 cm with the column up, 148 cm with the column down (1485 mm in the text), 77 cm folded, 2,5 kg, 15 kg load, 26 mm legs, QS-62 V3 Arca-compatible plate. Use these maker figures instead of converting 68.4 in / 58.4 in / 30.5 in.",
+      "reason": "Kamera Express (NL) lists the Vanguard VEO 3+ 263AB 160S (outlet listing); Vanguard has a Dutch store (vanguardworld.nl).",
+      "source": "https://www.kamera-express.nl/vanguard-veo-3-263ab-160s-statief-outlet"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4)",
+      "asin": "B00G36G9Q4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 160 cm max., 135 cm with the column down, 8 cm min., 49 cm folded, 2,05 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "Manfrotto's European (global-uk) page lists the MT190XPRO4 under the same code (checked for best-tripod-for-real-estate-photography).",
+      "source": "https://www.manfrotto.com/global-uk/190xpro-aluminium-4-section-camera-tripod-mt190xpro4/"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm with the column up, 142 cm with the column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "Kamera Express (Belgium/NL) lists the MKBFRA4GTXP-BH Befree aluminium statiefkit; -BH is the international kit code (US: -BUS).",
+      "source": "https://www.kamera-express.be/manfrotto-mkbfra4gtxp-bh-befree-aluminium-s"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: Dutch men aged 19 were on average 182,9 cm tall in 2020, women 169,3 cm. Replaces the CDC US averages in the eye-level section; the Netherlands has the tallest average clients of the three markets.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "KLM: hand baggage, including handles and wheels, max. 55 x 35 x 25 cm. The Befree GT XPRO (43 cm), Feisol and MT190XPRO4 (49 cm) and 055 (54 cm) fit lengthwise; the Vanguard VEO 3+ kit (77 cm) does not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Zoom.nl on indoor portraits: a tripod helps against motion blur at slower shutter speeds, and between frames you can adjust the lighting or add a reflector while the composition stays the same.",
+      "source": "https://zoom.nl/nieuws/inspiratie-portretten-maken-zonder-studio"
+    },
+    {
+      "fact": "Dutch terms: balhoofd / kogelkop (ball head), middenkolom, snelkoppelingsplaat; zakelijke portretfoto or profielfoto are the common words for a headshot; Arca-Swiss keeps its name. Dutch shops list 'maximale hoogte met middenkolom'.",
+      "source": "https://www.cameranu.nl/c111672/statief-grip/foto-statieven"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsure whether a tripod strapped to the backpack is allowed as hand baggage when flying to a location shoot.",
+      "fix": "A tripod that folds to 43-54 cm fits inside a KLM cabin bag (55 x 35 x 25 cm); the Vanguard kit (77 cm) goes in the hold. Check with the airline before flying.",
+      "quotes": [
+        {
+          "text": "Weet iemand toevallig of ik dat ding gewoon aan m'n rugzak gebonden als handbagage mee kan nemen?",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1380950"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1380950",
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    },
+    {
+      "pain": "Security or airline staff can refuse a tripod in the cabin on one leg of the trip.",
+      "fix": "Keep the tripod inside the bag, not strapped outside, or check it in; the Befree is the pick for travel days (post: 'Offices, conferences and travel').",
+      "quotes": [
+        {
+          "text": "Heb met Ryanair gevlogen, de heenweg was geen probleem, de terugweg absoluut wel! Moest het ruim in dus.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1380950"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1380950"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Eye-level targets for Dutch averages (CBS), with 17 cm head and camera on top: men 182,9 cm -> eye level about 170 to 173 cm -> legs of about 153 to 156 cm; no pick reaches that on its legs (the Vanguard, 148 cm, comes closest), so Dutch studios need the column or a posing stool. Women 169,3 cm -> eye level about 156 to 159 cm -> legs of about 139 to 142 cm; the Vanguard (148 cm) and Befree (142 cm) reach it, the Feisol and 055 (140 cm) come within a couple of cm, the MT190XPRO4 (135 cm) falls about 4 to 7 cm short.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "Location headshots by plane: KLM's 55 cm cabin-bag length takes the Befree (43 cm), Feisol and MT190XPRO4 (49 cm) and 055 (54 cm), not the Vanguard kit (77 cm).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Zoom.nl's indoor portrait tip: a tripod keeps the composition while you change the light or add a reflector, which supports the 055's Easy Link arm and the Vanguard's MA1 multi-mount picks.",
+      "source": "https://zoom.nl/nieuws/inspiratie-portretten-maken-zonder-studio"
+    },
+    {
+      "point": "Maker metric figures instead of conversions, including Vanguard's 148 cm / 174 cm / 77 cm and Feisol Europe's 140 cm / 174 cm.",
+      "source": "https://www.feisol.eu/shop/produkte/stative/feisol-tournament-stativ-ct-3442-rapid/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "CDC's measured averages for US adults are 68.9 in for men and 63.5 in for women (and the eye-level subject heights derived from them)",
+      "action": "replace",
+      "with": "the national averages in localFacts (linked), with the eye-level targets in localGain"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing / no sensible Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen (Amazon US listing), never as a local store or availability claim"
+    },
+    {
+      "english": "Subject heights in feet and inches (5 ft 4 in, 5 ft 6 in, 5 ft 9 in, 6 ft 2 in, 6.5 ft, 5 ft to 6.5 ft)",
+      "action": "replace",
+      "with": "metric first: about 163, 168, 175, 188 and 198 cm; 152 to 198 cm (46 cm spread) for Scott Lawrence's range"
+    }
+  ]
+}

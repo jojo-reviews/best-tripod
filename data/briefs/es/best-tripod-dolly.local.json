@@ -1,0 +1,131 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-dolly",
+  "checkedAt": "2026-11-04T16:31:19.827Z",
+  "productFit": [
+    {
+      "name": "SmallRig 3986 Universal Tripod Dolly",
+      "asin": "B0BB6P59Z7",
+      "status": "fits",
+      "metricSpecs": "SmallRig: max. 15 kg payload, 1,8 kg, legs 298 to 435 mm, folded 430 x 155 x 125 mm, clamps for legs up to 54 mm",
+      "reason": "SmallRig's German site sells the same model 3986 (in stock); amazon.nl lists the same ASIN.",
+      "source": "https://www.smallrig.com/de/SmallRig-Universal-Tripod-Dolly-3986.html"
+    },
+    {
+      "name": "NEEWER Photography Tripod Dolly Heavy Duty 50lb",
+      "asin": "B07MM4KVCY",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing: 22,68 kg max load; it gives leg length 17,5 to 40 cm, while the English post (NEEWER) says 10.7 to 15.75 in (27,4 to 40 cm): keep the English figure",
+      "reason": "Same model NW-600 with 3 in wheels and same ASIN on amazon.de, amazon.es and amazon.nl, with reviews from Germany, Spain, the Netherlands and Belgium.",
+      "source": "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+    },
+    {
+      "name": "K&F Concept MS30 Photography Tripod Dolly",
+      "asin": "B0DL557G8T",
+      "status": "fits",
+      "metricSpecs": "20 kg load (amazon.de); 2,6 kg, folds to 38,5 cm (Kentfaith/K&F)",
+      "reason": "Same ASIN on amazon.de as 'K&F CONCEPT Aluminium Heavy Duty Tripod Dolly ... 20 kg load capacity MS30'.",
+      "source": "https://www.amazon.de/-/en/CONCEPT-Aluminium-Heavy-Tripod-Dolly/dp/B0DL557G8T"
+    },
+    {
+      "name": "Manfrotto 114 Cine/Video Deluxe Dolly",
+      "asin": "B0018S9L44",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 60 kg safety payload, 6,48 kg, 127 mm wheels, 112 cm working footprint, 64,7 cm closed (as in the English post)",
+      "reason": "Italian maker; CVP's German shop lists 'Manfrotto Video/Movie Heavy Dolly (MAN-114)'. Foto Koch also sells the spiked-foot sibling 114MV, which matches the English post's foot-type note.",
+      "source": "https://cvp.com/de/product/manfrotto-114-movie-heavy-dolly"
+    },
+    {
+      "name": "Proaim Lineo Portable Video Camera Floor Dolly",
+      "asin": "B01D8KWW3G",
+      "status": "fits",
+      "metricSpecs": "Proaim: 500 kg, 10,7 kg, 100 x 32 mm PU wheels (as in the English post)",
+      "reason": "Proaim's product page says the Lineo is also available from its warehouses in Canada, Europe and the USA.",
+      "source": "https://www.proaim.com/products/proaim-lineo-portable-video-camera-floor-dolly"
+    },
+    {
+      "name": "Glide Gear SYL 960 Hybrid Tripod/Track Dolly",
+      "asin": "B006O130X8",
+      "status": "unknown",
+      "metricSpecs": "No EU metric spec page; English post: 35 lb (about 15,9 kg), folded 18.0 x 7.0 x 6.5 in (about 46 x 18 x 17 cm)",
+      "reason": "Glide Gear is a US brand sold through glidegear.net, B&H and amazon.com; no DE/ES/NL retailer or maker page for the SYL 960 found (only used Glide Gear items on eBay). Translator: one neutral sentence in 'Who it's for' that it is mainly sold in the US.",
+      "source": "https://www.bhphotovideo.com/c/product/996063-REG/glide_gear_syl_960_syl_960_elite_camera_track.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Ajuntament de Barcelona: a permit is needed to photograph or film on the public street if you use a tripod or another special element; the basic permit allows at most one tripod, max. 10 people, and no vehicles or drones. A dolly is a special element to clear with the Barcelona Film Commission. General information, not legal advice.",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "fact": "Madrid: filming permits on public streets, parks and gardens are granted by the Negociado de Autorizaciones de Rodaje; the Madrid Film Office advises productions.",
+      "source": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Direcciones-y-telefonos/Madrid-Film-Office/?vgnextfmt=default&vgnextoid=b72a196f7d003610VgnVCM2000001f4a900aRCRD&vgnextchannel=76f3efff228fe410VgnVCM2000000c205a0aRCRD"
+    },
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm; the folding clamp dollies (K&F 38,5 cm, SmallRig 43 cm, NEEWER 45 cm folded) fit that length, the Manfrotto 114 (64,7 cm closed) does not.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Local terms: dolly para trípode / base con ruedas, ruedas con freno, pies de goma vs. puntas (pinchos), travelling, vía (raíl) de dolly.",
+      "source": "https://www.amazon.es/dp/B07MM4KVCY"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "On parquet or tiles the recording picks up the wheels' jumps; only perfectly smooth floors work.",
+      "fix": "Slow moves on hard, level floors with rubber wheels of 3 in or more; for steady moves add track or a slider (English post).",
+      "quotes": [
+        {
+          "text": "En parqué o baldosas la grabación registrará los saltos que den las ruedas al deslizarse por ese tipo de suelos.",
+          "url": "https://www.amazon.es/-/en/portal/customer-reviews/srp/-/RJ6FX4H565GZ8"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.es/dp/B07MM4KVCY"
+      ]
+    },
+    {
+      "pain": "Brakes that lock on their own and ruin the job.",
+      "fix": "Before recording, release and check every wheel lock and push the dolly an inch so the casters trail in line (English post); lock all wheels only when the camera is static.",
+      "quotes": [
+        {
+          "text": "Dos de las ruedas se quedaban frenadas cuando querían y no se pudo hacer bien el trabajo",
+          "url": "https://www.amazon.es/-/en/portal/customer-reviews/srp/-/R1QNA3QQDABBLA"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.es/dp/B07MM4KVCY"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Barcelona's street permit rule (tripod needs a permit; basic permit = one tripod, max. 10 people, no vehicles/drones).",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "point": "Which dollies fit an Iberia cabin bag (56 x 40 x 25 cm) by folded length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Spanish owners' parquet/tile jumps and self-locking brakes answered with concrete fixes.",
+      "source": "https://www.amazon.es/-/en/portal/customer-reviews/srp/-/RJ6FX4H565GZ8"
+    },
+    {
+      "point": "Maker metric specs first.",
+      "source": "https://www.smallrig.com/de/SmallRig-Universal-Tripod-Dolly-3986.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with an in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a US selection criterion (factual), no local stock claim"
+    },
+    {
+      "english": "Too wide for doorways under 36 in",
+      "action": "replace",
+      "with": "convert to about 91 cm (36 in), no local door-width claim"
+    }
+  ]
+}

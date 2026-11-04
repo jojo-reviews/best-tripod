@@ -1,0 +1,154 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-timelapse",
+  "checkedAt": "2026-11-04T16:30:16.067Z",
+  "productFit": [
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Maker: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (Manfrotto global page, same figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 in stock; Foto Koch (Malta shop) lists the MK190XPRO3 incl. BHQ2 set.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post: 130,2 cm column down, 1,56 kg.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded, 16 cm min. (English post specs, from Sirui figures).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "163 cm in the maker naming (\"163cm\"), 8 kg load; the English post gives 160 cm column up, 116 cm column down, 39 cm folded and 1,24 kg (amazon.es also says 1,24 kg).",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "UBeesize 67 inch Camera Tripod with Travel Bag",
+      "asin": "B08CHFY4R5",
+      "status": "unknown",
+      "metricSpecs": "Spanish-language listings call it \"67 pulgadas (170 cm)\"; the English post gives 67 in, 20.1 in folded, 3.1 lb, 12.1 lb (5.49 kg) load; convert these (170 cm, 51 cm, 1,4 kg, 5,5 kg).",
+      "reason": "No EU (DE/ES/NL) retailer or maker page for this exact model (travel bag + Bluetooth remote, B08CHFY4R5) found; listings found are amazon.com, amazon.com.mx and Latin American resellers. UBeesize has an amazon.de brand page with other models. Translator: one neutral sentence in \"Who it's for\" that it is mainly sold in the Americas and EU listings for this exact kit were not found.",
+      "source": "https://www.amazon.com.mx/UBeesize-distancia-inal%C3%A1mbrico-compatible-proyectores/dp/B08CHFY4R5"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXI-B)",
+      "asin": "B00D76RNLS",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 13.5 cm height, 18.5 cm closed, 1 kg load (already metric in the English post)",
+      "reason": "Amazon.de and Amazon.es list the MTPIXI-B under the same ASIN B00D76RNLS (Tischstativ / Minitrípode Pixi). B&H lists MTPIXIMII-B as the replacement code; EU shops may show either code.",
+      "source": "https://www.amazon.de/Manfrotto-MTPIXI-B-Tischstativ-Compact-Standard/dp/B00D76RNLS"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: handbagage max. 55 x 35 x 25 cm inclusief handvatten en wielen. Sirui (33 cm), K&F (39 cm), Peak Design (39,4 cm) en Befree Advanced (40 cm) passen in de lengte; UBeesize (ongeveer 51 cm) net; het Manfrotto 190XPRO-kit (70,5 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u, met als uitwerking: \"paraplu's met moeite vast te houden\"; dan blijft de middenkolom bij een lange timelapse helemaal omlaag.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Zoom Academy (zoom.nl): neem een stevig statief en eventueel zandzakken of gewichten mee, en reken met 25 foto's per seconde video; intervallen: snelle wolken ongeveer 3 seconden, erg langzame wolken ongeveer 10 seconden, sterren 20/30 seconden.",
+      "source": "https://zoom.nl/artikel/cursussen/24213-vijf-tips-voor-het-maken-van-een-timelapse-video.html"
+    },
+    {
+      "fact": "Het Rijksmuseum verwijst voor fotograferen naar zijn Algemene Voorwaarden, met als voorbeeld: geen statieven en geen extra belichting; een timelapse met statief doe je daar buiten.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Termen: timelapse, intervalmeter / intervaltimer, middenkolom, balhoofd, haak voor gewicht, beeldstabilisatie, snelkoppelingsplaat; Arca-Swiss heet overal zo.",
+      "source": "https://zoom.nl/artikel/cursussen/24213-vijf-tips-voor-het-maken-van-een-timelapse-video.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Wind aan de kust en in de polder laat zelfs een stevig statief trillen tijdens een lange reeks.",
+      "fix": "Poten kort, middenkolom omlaag, tas aan de haak die net de grond raakt en een zwaar statief (190XPRO) voor lange reeksen (English post setup and problems; KNMI windkracht 6).",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        },
+        {
+          "text": "Alles staat op zich wel stabiel, het wiebelt niet, maar of het buiten in de wind helemaal stil blijft staan betwijfel ik.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999",
+        "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+      ]
+    },
+    {
+      "pain": "Een licht statief heeft te weinig massa voor uren buiten.",
+      "fix": "Massa en dikke poten voor reeksen van meer dan twee uur (190XPRO), of gewicht aan de haak bij de reisstatieven (English post hold-still section).",
+      "quotes": [
+        {
+          "text": "Een hoger gewicht komt de stabiliteit (zeker bij veel wind) altijd iets ten goede.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM-handbagagemaat 55 x 35 x 25 cm naast de ingeklapte lengte van elk statief.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Windgrens in km/u volgens het KNMI (windkracht 6, 39-49 km/u).",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "point": "Zoom Academy bevestigt de 25 foto's per seconde en de zandzak-tip voor Nederlandse lezers.",
+      "source": "https://zoom.nl/artikel/cursussen/24213-vijf-tips-voor-het-maken-van-een-timelapse-video.html"
+    },
+    {
+      "point": "EU-kitcode MKBFRLA4BK-BH voor het Befree Advanced en metrische fabriekswaarden in plaats van omrekeningen.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Imperial-only figures (57.68 in, 5.51 lb, 20 lb, 67 in ...)",
+      "action": "replace",
+      "with": "Maker metric first (146,5 cm, 2,5 kg, 9,1 kg, 170 cm), imperial in brackets."
+    },
+    {
+      "english": "\"each with its own in-stock Amazon US listing\" in the selection method",
+      "action": "replace",
+      "with": "Keep as the selection rule without implying local availability."
+    },
+    {
+      "english": "\"I'd fly with\" the Befree (no airline context)",
+      "action": "replace",
+      "with": "Add the KLM 55 x 35 x 25 cm cabin fact."
+    }
+  ]
+}

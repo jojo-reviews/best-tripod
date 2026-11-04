@@ -1,0 +1,149 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-dolly",
+  "checkedAt": "2026-11-04T16:31:19.827Z",
+  "productFit": [
+    {
+      "name": "SmallRig 3986 Universal Tripod Dolly",
+      "asin": "B0BB6P59Z7",
+      "status": "fits",
+      "metricSpecs": "SmallRig: max. 15 kg payload, 1,8 kg, legs 298 to 435 mm, folded 430 x 155 x 125 mm, clamps for legs up to 54 mm",
+      "reason": "SmallRig's German site sells the same model 3986 (in stock); amazon.nl lists the same ASIN.",
+      "source": "https://www.smallrig.com/de/SmallRig-Universal-Tripod-Dolly-3986.html"
+    },
+    {
+      "name": "NEEWER Photography Tripod Dolly Heavy Duty 50lb",
+      "asin": "B07MM4KVCY",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing: 22,68 kg max load; it gives leg length 17,5 to 40 cm, while the English post (NEEWER) says 10.7 to 15.75 in (27,4 to 40 cm): keep the English figure",
+      "reason": "Same model NW-600 with 3 in wheels and same ASIN on amazon.de, amazon.es and amazon.nl, with reviews from Germany, Spain, the Netherlands and Belgium.",
+      "source": "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+    },
+    {
+      "name": "K&F Concept MS30 Photography Tripod Dolly",
+      "asin": "B0DL557G8T",
+      "status": "fits",
+      "metricSpecs": "20 kg load (amazon.de); 2,6 kg, folds to 38,5 cm (Kentfaith/K&F)",
+      "reason": "Same ASIN on amazon.de as 'K&F CONCEPT Aluminium Heavy Duty Tripod Dolly ... 20 kg load capacity MS30'.",
+      "source": "https://www.amazon.de/-/en/CONCEPT-Aluminium-Heavy-Tripod-Dolly/dp/B0DL557G8T"
+    },
+    {
+      "name": "Manfrotto 114 Cine/Video Deluxe Dolly",
+      "asin": "B0018S9L44",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 60 kg safety payload, 6,48 kg, 127 mm wheels, 112 cm working footprint, 64,7 cm closed (as in the English post)",
+      "reason": "Italian maker; CVP's German shop lists 'Manfrotto Video/Movie Heavy Dolly (MAN-114)'. Foto Koch also sells the spiked-foot sibling 114MV, which matches the English post's foot-type note.",
+      "source": "https://cvp.com/de/product/manfrotto-114-movie-heavy-dolly"
+    },
+    {
+      "name": "Proaim Lineo Portable Video Camera Floor Dolly",
+      "asin": "B01D8KWW3G",
+      "status": "fits",
+      "metricSpecs": "Proaim: 500 kg, 10,7 kg, 100 x 32 mm PU wheels (as in the English post)",
+      "reason": "Proaim's product page says the Lineo is also available from its warehouses in Canada, Europe and the USA.",
+      "source": "https://www.proaim.com/products/proaim-lineo-portable-video-camera-floor-dolly"
+    },
+    {
+      "name": "Glide Gear SYL 960 Hybrid Tripod/Track Dolly",
+      "asin": "B006O130X8",
+      "status": "unknown",
+      "metricSpecs": "No EU metric spec page; English post: 35 lb (about 15,9 kg), folded 18.0 x 7.0 x 6.5 in (about 46 x 18 x 17 cm)",
+      "reason": "Glide Gear is a US brand sold through glidegear.net, B&H and amazon.com; no DE/ES/NL retailer or maker page for the SYL 960 found (only used Glide Gear items on eBay). Translator: one neutral sentence in 'Who it's for' that it is mainly sold in the US.",
+      "source": "https://www.bhphotovideo.com/c/product/996063-REG/glide_gear_syl_960_syl_960_elite_camera_track.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Berlin Brandenburg Film Commission: filming on public streets that goes beyond normal common use (Gemeingebrauch) needs a Sondernutzung from the district; the simpler Miniteam permit covers max. 5 people, max. 1 camera tripod and no lighting set-ups. A dolly move on the pavement can push a shoot past that. General information, not legal advice.",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "fact": "BBFC: using public street land without the permit, or breaking its conditions, is an administrative offence with a fine of up to 10.000 (currency not to be printed in the post: say 'ein Bußgeld').",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "fact": "Lufthansa allows a cabin bag of max. 55 x 40 x 23 cm; the folding clamp dollies (K&F 38,5 cm, SmallRig 43 cm, NEEWER 45 cm folded) fit that length, the Manfrotto 114 (64,7 cm closed) does not.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Local terms: Stativ-Dolly / Stativrollwagen, Rollen, Feststellbremse, Spikes vs. Gummifüße, Kamerafahrt, Dolly-Schiene; amazon.de titles the NEEWER as 'Fotografie Stativ Dolly'.",
+      "source": "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Wobbly footage even on laminate, despite the 3 in wheels.",
+      "fix": "Keep moves slow on hard floors, use rubber wheels of 3 in or more, record sound separately, and use track (Glide Gear SYL 960 track wheels or Proaim track wheels) for steady moves (English post).",
+      "quotes": [
+        {
+          "text": "jedoch habe ich schon auf normalen Laminat sehr wackelige Aufnahmen. Sehr schade, trotz der größeren Rollen.",
+          "url": "https://www.amazon.de/-/en/portal/customer-reviews/srp/-/R66UMFNXSM1JU"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+      ]
+    },
+    {
+      "pain": "Wheels too hard for camera moves.",
+      "fix": "Treat a clamp dolly as a way to reposition the tripod and for slow moves; for real tracking shots use dolly track or a slider (English post).",
+      "quotes": [
+        {
+          "text": "aber die Rollen sind viel zu hart für jeden Untergrund. Kamerafahrten sind damit nicht möglich.",
+          "url": "https://www.amazon.de/-/en/portal/customer-reviews/srp/-/R11BZBFV6UUMF9"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+      ]
+    },
+    {
+      "pain": "Clamps and set-up: owners want the tripod feet to sit firmly and set-up to be quick.",
+      "fix": "Tighten every clamp at shooting height (English post); one German owner says the clamps sit perfectly and set-up is very fast.",
+      "quotes": [
+        {
+          "text": "die Klemmungen für die Stativklemmen sitzen perfekt, der Auf und Abbau sind super schnell",
+          "url": "https://www.amazon.de/-/en/portal/customer-reviews/srp/-/R2RTSYYJASYVHT"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.de/NEEWER-NW-600-Fotografie-Stativ-Dolly/dp/B07MM4KVCY"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Berlin's Miniteam permit allows only 1 camera tripod and max. 5 people; a dolly shoot on public ground beyond common use needs a Sondernutzung.",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "point": "Which dollies fit a Lufthansa cabin bag (55 x 40 x 23 cm) by folded length.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Maker metric specs first (SmallRig 15 kg / 1,8 kg / 298-435 mm; Manfrotto 60 kg / 6,48 kg / 127 mm).",
+      "source": "https://www.smallrig.com/de/SmallRig-Universal-Tripod-Dolly-3986.html"
+    },
+    {
+      "point": "German owners' laminate wobble and hard-wheel complaints answered with the slow-move / track fix.",
+      "source": "https://www.amazon.de/-/en/portal/customer-reviews/srp/-/R66UMFNXSM1JU"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with an in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a US selection criterion (factual), do not claim local stock"
+    },
+    {
+      "english": "Too wide for doorways under 36 in (Manfrotto owner complaint)",
+      "action": "replace",
+      "with": "convert to about 91 cm (36 in); German standard door widths are not sourced, so no local door claim"
+    },
+    {
+      "english": "r/videography, r/Photoassistants, Cloudy Nights references",
+      "action": "replace",
+      "with": "keep (they are sources), add the German amazon.de owner quotes from localPainPoints"
+    }
+  ]
+}
