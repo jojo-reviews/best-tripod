@@ -3,13 +3,18 @@
   "lang": "de",
   "translationOf": "best-tripod-for-headshots",
   "pass": true,
-  "checkedAt": "2026-11-04T16:38:08.081Z",
+  "checkedAt": "2026-11-04T18:11:55.085Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/ball-head-sags-after-tightening/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-height.3771895/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/"
   ],
   "factCheck": {
     "verified": true,

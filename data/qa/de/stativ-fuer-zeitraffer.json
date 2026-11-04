@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-timelapse",
   "pass": true,
-  "checkedAt": "2026-11-04T16:38:35.384Z",
+  "checkedAt": "2026-11-04T18:12:01.851Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
@@ -14,7 +14,17 @@
     "internal link to the English post /blog/best-tripod-for-astrophotography/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/",
+    "source didn't respond normally (403): https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/",
+    "source didn't respond normally (403): https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
   ],
   "factCheck": {
     "verified": true,
