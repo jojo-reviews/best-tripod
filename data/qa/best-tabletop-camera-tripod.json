@@ -1,7 +1,7 @@
 {
   "slug": "best-tabletop-camera-tripod",
   "pass": true,
-  "checkedAt": "2026-11-03T17:57:46.186Z",
+  "checkedAt": "2026-11-04T09:27:02.922Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,6 +16,7 @@
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (no response): https://www.packhacker.com/travel-gear/manfrotto/pixi-evo-2-section-mini-tripod/",
     "source didn't respond normally (403): https://www.rosenberryrooms.com/best-tabletop-tripods/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
   ],

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-family-photos",
   "pass": true,
-  "checkedAt": "2026-11-04T09:23:52.559Z",
+  "checkedAt": "2026-11-04T09:28:21.455Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
@@ -17,7 +17,14 @@
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html",
+    "source didn't respond normally (no response): https://www.packhacker.com/blog/general/best-travel-tripod/",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/7oi2sx/shooting_my_own_family_portrait_on_a_tripod_with/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/"
   ],
   "factCheck": {
     "verified": true,
