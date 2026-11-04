@@ -12,7 +12,7 @@ const root = process.cwd();
 const briefs = path.join(root, 'data', 'briefs');
 const cacheFile = path.join(root, 'data', 'entity-cache.json');
 const site = JSON.parse(fs.readFileSync(path.join(root, 'site.config.json'), 'utf8'));
-const UA = `${(site.name || 'site').replace(/\s+/g, '')}SchemaBuild/1.0 (${site.url}; schema markup build step, ~1 run per deploy)`;
+const UA = `${(site.name || 'site').replace(/\s+/g, '')}SchemaBuild/1.0 (${site.url}; ${site.email || 'hello@' + new URL(site.url).hostname}; schema markup build step, cached)`;
 
 const titleOf = (wiki) => decodeURIComponent(String(wiki).split('/wiki/')[1] || '').replace(/_/g, ' ').trim();
 
@@ -35,11 +35,19 @@ try {
     const batch = todo.slice(i, i + 50);
     const url = 'https://www.wikidata.org/w/api.php?' + new URLSearchParams({
       action: 'wbgetentities', sites: 'enwiki', titles: batch.join('|'), props: 'descriptions|claims|sitelinks',
-      sitefilter: 'enwiki', languages: 'en', normalize: '1', format: 'json', maxlag: '5',
+      sitefilter: 'enwiki', languages: 'en', format: 'json', maxlag: '5',
     });
-    const res = await fetch(url, { headers: { 'User-Agent': UA, 'Api-User-Agent': UA }, signal: AbortSignal.timeout(15000) });
+    let res;
+    for (let a = 0; a < 6; a++) { // Wikimedia rate limit: honour Retry-After, never hammer
+      res = await fetch(url, { headers: { 'User-Agent': UA, 'Api-User-Agent': UA }, signal: AbortSignal.timeout(20000) });
+      if (res.status !== 429) break;
+      const wait = (+res.headers.get('retry-after') || 60) + 5;
+      console.log(`[entity-cache] 429, waiting ${wait}s`);
+      await new Promise((r) => setTimeout(r, wait * 1000));
+    }
     if (!res.ok) throw new Error(`HTTP ${res.status} ${(await res.text()).slice(0, 120)}`);
     const data = await res.json();
+    if (data.error) throw new Error(`Wikidata API: ${data.error.code} ${data.error.info ?? ''}`.slice(0, 200));
     const found = new Map();
     for (const [qid, ent] of Object.entries(data.entities ?? {})) {
       if (ent.missing !== undefined || !qid.startsWith('Q')) continue;
@@ -52,7 +60,7 @@ try {
       cache[t] = hit ?? null; // null = looked up, nothing on Wikidata (not retried every build)
       if (hit) ok++;
     }
-    await new Promise((r) => setTimeout(r, 300));
+    await new Promise((r) => setTimeout(r, 2000));
   }
 } catch (e) {
   const msg = `[entity-cache] Wikidata lookup skipped (${e.message}${e.cause ? ' / ' + (e.cause.code || e.cause.message) : ''}); schema uses the cached data and Wikipedia links only`;

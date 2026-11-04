@@ -7,4 +7,3 @@ dist/
 # generated at build time by scripts/redirects.mjs
 public/_redirects
 backups/
-data/entity-cache.json

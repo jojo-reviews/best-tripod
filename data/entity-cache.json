@@ -1,0 +1,1144 @@
+{
+ "Tripod": {
+  "qid": "Q1444534",
+  "description": "portable three-legged frame, used as a platform for supporting the weight and maintaining the stability of some other object (Q683906 is photographic tripod)",
+  "kgmid": "/m/0119d4g8"
+ },
+ "Tripod (photography)": {
+  "qid": "Q683906",
+  "description": "tripod used for holding cameras",
+  "kgmid": "/m/073bxn"
+ },
+ "Tripod head": {
+  "qid": "Q3275242",
+  "description": "part of a tripod system that attaches the supported device to the tripod legs",
+  "kgmid": "/m/0g5qnbh"
+ },
+ "Camera": {
+  "qid": "Q15328",
+  "description": "optical device for recording or transmitting photographic images or videos",
+  "kgmid": "/m/0dv5r"
+ },
+ "Leg": {
+  "qid": "Q133105",
+  "description": "weight bearing and locomotive anatomical structure of animals",
+  "kgmid": "/m/035r7c"
+ },
+ "Manfrotto": {
+  "qid": "Q635963",
+  "description": "Manufacturer of camera equipment, e.g. tripods",
+  "kgmid": "/m/025_1lk"
+ },
+ "Monopod": {
+  "qid": "Q1306072",
+  "description": "photographic equipment",
+  "kgmid": "/m/047sxn"
+ },
+ "Photography": {
+  "qid": "Q11633",
+  "description": "art, science, and practice of creating durable images by recording light or other electromagnetic radiation",
+  "kgmid": "/m/05wkw"
+ },
+ "Weight": {
+  "qid": "Q25288",
+  "description": "force acting on a mass due to gravity",
+  "kgmid": "/m/085x_"
+ },
+ "Lens": {
+  "qid": "Q768575",
+  "description": "optical device which transmits and refracts light",
+  "kgmid": "/m/04n4x"
+ },
+ "Landscape photography": {
+  "qid": "Q1353984",
+  "description": "photography genre",
+  "kgmid": "/m/04p_zwq"
+ },
+ "Gitzo": {
+  "qid": "Q2786962",
+  "description": "Manufacturer of camera equipment, e.g. tripod",
+  "kgmid": "/m/02plgzz"
+ },
+ "Viewfinder": {
+  "qid": "Q209906",
+  "description": "system through which the photographer looks to compose and focus the picture",
+  "kgmid": "/m/04bkwp"
+ },
+ "Gimbal": {
+  "qid": "Q1146104",
+  "description": "support allowing rotation",
+  "kgmid": "/m/01y6w7"
+ },
+ "Telephoto lens": {
+  "qid": "Q516461",
+  "description": "most common type of construction of long-focus camera lenses",
+  "kgmid": "/m/01bt4w"
+ },
+ "Camera lens": {
+  "qid": "Q192234",
+  "description": "optical lens or assembly of lenses used with a camera body and mechanism to make images of objects",
+  "kgmid": "/m/01bjxx"
+ },
+ "Zoom lens": {
+  "qid": "Q220310",
+  "description": "camera lens with a variable focal length",
+  "kgmid": "/m/01zh4t"
+ },
+ "Gear": {
+  "qid": "Q143873",
+  "description": "rotating wheel having teeth which mesh with another cogwheel or toothed part, used to transmit torque, convert rotation to translation or rarely other purposes",
+  "kgmid": "/m/0l7xg"
+ },
+ "Email": {
+  "qid": "Q9158",
+  "description": "electronic changing digital messages between a network",
+  "kgmid": "/m/02nf_"
+ },
+ "Nikon": {
+  "qid": "Q1218180",
+  "description": "Japanese multinational corporation headquartered in Tokyo, Japan, specializing in optics and imaging",
+  "kgmid": "/m/03pmfw"
+ },
+ "Ball": {
+  "qid": "Q18545",
+  "description": "round object used in sports or for playing",
+  "kgmid": "/m/018xm"
+ },
+ "Friction": {
+  "qid": "Q82580",
+  "description": "force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other",
+  "kgmid": "/m/02zp2"
+ },
+ "Water": {
+  "qid": "Q283",
+  "description": "chemical compound whose molecules are formed by two hydrogen atoms and one oxygen atom",
+  "kgmid": "/m/0838f"
+ },
+ "IOS": {
+  "qid": "Q48493",
+  "description": "mobile operating system by Apple Inc.",
+  "kgmid": "/m/03wbl14"
+ },
+ "Web application": {
+  "qid": "Q189210",
+  "description": "application that uses a web browser as a client",
+  "kgmid": "/m/01qb67"
+ },
+ "Photographer": {
+  "qid": "Q33231",
+  "description": "person who takes photographs",
+  "kgmid": "/m/0lgw7"
+ },
+ "Long-focus lens": {
+  "qid": "Q11022034",
+  "description": "camera lens with big focal length",
+  "kgmid": "/m/0fqshhy"
+ },
+ "Backpacking (hiking)": {
+  "qid": "Q12014173",
+  "description": "outdoor recreation of carrying gear on one's back, while hiking for more than a day. It is often but not always an extended journey, and may or may not involve camping outdoors",
+  "kgmid": "/m/03hfn0"
+ },
+ "Lightweight": {
+  "qid": "Q1051922",
+  "description": "weight class of athletes in a particular sport",
+  "kgmid": "/m/034z2h"
+ },
+ "Carbon-fiber reinforced polymer": null,
+ "Hiking": {
+  "qid": "Q12014035",
+  "description": "walking as a hobby, sport, or leisure activity",
+  "kgmid": "/m/012v4j"
+ },
+ "Backpack": {
+  "qid": "Q5843",
+  "description": "bag carried on one's back",
+  "kgmid": "/m/01940j"
+ },
+ "Height": {
+  "qid": "Q208826",
+  "description": "distance between the lowest end and highest end of an object",
+  "kgmid": ""
+ },
+ "Canon Inc.": {
+  "qid": "Q62621",
+  "description": "Japanese multinational imaging corporation",
+  "kgmid": "/m/01bvx1"
+ },
+ "Digital single-lens reflex camera": {
+  "qid": "Q196342",
+  "description": "digital cameras combining the parts of a single-lens reflex camera and a digital camera back",
+  "kgmid": "/m/04f20t"
+ },
+ "Bag": {
+  "qid": "Q1323314",
+  "description": "simple tool used to hold and carry things inside it, made of some flexible material such as paper, fabric, or leather; closed on all sides except the top and easy to handle",
+  "kgmid": "/m/0n5v01m"
+ },
+ "Smartphone": {
+  "qid": "Q22645",
+  "description": "handheld mobile telephone/computer",
+  "kgmid": "/m/0169zh"
+ },
+ "Trekking pole": {
+  "qid": "Q1371996",
+  "description": "serves to support walking hiking, mountaineering, trekking and Nordic Walking",
+  "kgmid": "/m/07thg6"
+ },
+ "Exposure (photography)": {
+  "qid": "Q271960",
+  "description": "amount of light captured by a camera",
+  "kgmid": "/m/0168y9"
+ },
+ "Wildlife photography": {
+  "qid": "Q966880",
+  "description": "photography genre",
+  "kgmid": "/m/0b8m96"
+ },
+ "Wildlife": {
+  "qid": "Q241741",
+  "description": "undomesticated organisms that grow or live wild in an area without being introduced by humans",
+  "kgmid": "/m/01280g"
+ },
+ "Sports photography": {
+  "qid": "Q181169",
+  "description": "photography genre",
+  "kgmid": "/m/026q1b1"
+ },
+ "Shutter speed": {
+  "qid": "Q349600",
+  "description": "length of time when the film or digital sensor inside a camera is exposed to light",
+  "kgmid": "/m/0168k4"
+ },
+ "Full-frame DSLR": null,
+ "Point-and-shoot camera": {
+  "qid": "Q209935",
+  "description": "still camera designed primarily for simple operation",
+  "kgmid": "/m/049vf_"
+ },
+ "Mirrorless camera": {
+  "qid": "Q209918",
+  "description": "digital camera with a removable lens and without a reflex mirror",
+  "kgmid": "/m/05p4z41"
+ },
+ "Aluminium": {
+  "qid": "Q663",
+  "description": "metallic chemical element of silvery appearance with symbol Al and atomic number 13",
+  "kgmid": "/m/027vj2v"
+ },
+ "Screw": {
+  "qid": "Q11022",
+  "description": "fastener that has a thread wrapped around a cylinder",
+  "kgmid": "/m/0c37z"
+ },
+ "Spider": {
+  "qid": "Q1357",
+  "description": "order of arachnids",
+  "kgmid": "/m/09kmb"
+ },
+ "Macro photography": {
+  "qid": "Q272444",
+  "description": "photography genre and techniques of extreme close-up pictures",
+  "kgmid": "/m/010f1nbq"
+ },
+ "Vlog": {
+  "qid": "Q674926",
+  "description": "form of blog for which the medium is video",
+  "kgmid": "/m/04rh6b"
+ },
+ "Camera dolly": {
+  "qid": "Q1235811",
+  "description": "kind of wagon on tracks used in filmmaking",
+  "kgmid": "/m/053hr8"
+ },
+ "Wheel": {
+  "qid": "Q446",
+  "description": "circular item that rotates about an axial bearing; one of the six simple machines",
+  "kgmid": "/m/083wq"
+ },
+ "Tracking shot": {
+  "qid": "Q1528025",
+  "description": "shot in which the camera is mounted on a camera dolly",
+  "kgmid": "/m/07fxd"
+ },
+ "Sand": {
+  "qid": "Q34679",
+  "description": "granular material composed of finely divided rock and mineral particles, sand particles range in diameter from 0.063 to 2 mm (per ISO 14688)",
+  "kgmid": "/m/099fz"
+ },
+ "Snow": {
+  "qid": "Q7561",
+  "description": "precipitation in the form of ice crystal flakes",
+  "kgmid": "/m/06_dn"
+ },
+ "Astrophotography": {
+  "qid": "Q280855",
+  "description": "specialized type of photography for recording images of astronomical objects and large areas of the night sky",
+  "kgmid": "/m/0121sb"
+ },
+ "Night sky": {
+  "qid": "Q1153471",
+  "description": "dark sky in the deep twilight or at night",
+  "kgmid": "/m/03xw43"
+ },
+ "Budget": {
+  "qid": "Q41263",
+  "description": "balance sheet or statement of estimated receipts and expenditures",
+  "kgmid": "/m/02144t"
+ },
+ "Spotting scope": {
+  "qid": "Q1752914",
+  "description": "small telescope, often used for studying birds and nature in daylight",
+  "kgmid": "/m/01cmft"
+ },
+ "Binoculars": {
+  "qid": "Q102626",
+  "description": "pair of telescopes mounted side-by-side",
+  "kgmid": "/m/0lt4_"
+ },
+ "Rifle": {
+  "qid": "Q124072",
+  "description": "firearm designed to be fired from the shoulder, and with a rifled barrel",
+  "kgmid": "/m/06c54"
+ },
+ "Hunting": {
+  "qid": "Q36963",
+  "description": "human activity of searching for, pursuing, and catching wild animals",
+  "kgmid": "/m/09p5m"
+ },
+ "Shooting": {
+  "qid": "Q2252077",
+  "description": "act or process of firing firearms or other projectile weapons",
+  "kgmid": "/m/071rm"
+ },
+ "Optics": {
+  "qid": "Q14620",
+  "description": "branch of physics concerning light",
+  "kgmid": "/m/05mn2"
+ },
+ "Telescopic sight": {
+  "qid": "Q198982",
+  "description": "sighting device for firearms, with either fixed or variable magnification.",
+  "kgmid": "/m/041vtm"
+ },
+ "Bipod": {
+  "qid": "Q232287",
+  "description": "attachment, usually to a weapon, that helps support and steady it",
+  "kgmid": "/m/04n9n_"
+ },
+ "Weapon mount": {
+  "qid": "Q1700804",
+  "description": "apparatus used to affix a weapon to an installation or vehicle",
+  "kgmid": "/m/02rp9j5"
+ },
+ "Pound (mass)": {
+  "qid": "Q100995",
+  "description": "unit of mass",
+  "kgmid": "/m/05t56"
+ },
+ "Backcountry": {
+  "qid": "Q4839591",
+  "description": "isolated area",
+  "kgmid": "/m/0bkwmg"
+ },
+ "Astronomy": {
+  "qid": "Q333",
+  "description": "natural science studying celestial objects and phenomena in the cosmos",
+  "kgmid": "/m/0dc_v"
+ },
+ "Canon PowerShot": {
+  "qid": "Q62609",
+  "description": "digital camera product line",
+  "kgmid": "/m/0dy2sv"
+ },
+ "Canon EOS R50": {
+  "qid": "Q116742920",
+  "description": "APS-C mirrorless interchangeable-lens camera",
+  "kgmid": "/g/11kb2q6y14"
+ },
+ "Canon EOS": {
+  "qid": "Q62944",
+  "description": "interchangeable-lens camera product line",
+  "kgmid": "/m/03lwkk"
+ },
+ "Mii": {
+  "qid": "Q4252",
+  "description": "digital avatar",
+  "kgmid": "/m/02pv7d1"
+ },
+ "Amazon (company)": {
+  "qid": "Q3884",
+  "description": "American multinational technology company",
+  "kgmid": "/m/0mgkg"
+ },
+ "Canon EOS R6": {
+  "qid": "Q97186199",
+  "description": "Full-frame mirrorless interchangeable-lens camera",
+  "kgmid": "/g/11jgds1ydn"
+ },
+ "Canon EOS R8": {
+  "qid": "Q116742776",
+  "description": "full-frame mirrorless interchangeable-lens camera",
+  "kgmid": "/g/11tsg38f8n"
+ },
+ "Image stabilization": {
+  "qid": "Q31009",
+  "description": "techniques used to reduce blurring of images",
+  "kgmid": "/m/0bphfx"
+ },
+ "Fiber": {
+  "qid": "Q161",
+  "description": "natural or synthetic substance that is significantly longer than it is wide",
+  "kgmid": "/m/011jng"
+ },
+ "Flash (photography)": {
+  "qid": "Q221836",
+  "description": "device producing a burst of artificial light",
+  "kgmid": "/m/01btfg"
+ },
+ "Carbon": {
+  "qid": "Q623",
+  "description": "chemical element with symbol C and atomic number 6; common element of all known life",
+  "kgmid": "/m/025tfgm"
+ },
+ "Long-exposure photography": {
+  "qid": "Q1082855",
+  "description": "method of photography",
+  "kgmid": "/m/02rr7v1"
+ },
+ "Content creation": {
+  "qid": "Q5276056",
+  "description": "activity of the contribution of information to any media",
+  "kgmid": "/m/03b_q79"
+ },
+ "YouTube": {
+  "qid": "Q866",
+  "description": "American video-sharing platform owned by Alphabet Inc.",
+  "kgmid": "/m/09jcvs"
+ },
+ "Video": {
+  "qid": "Q34508",
+  "description": "technique of recording, copying and broadcasting of moving visual images",
+  "kgmid": "/m/07z4p"
+ },
+ "Spirit level": {
+  "qid": "Q207988",
+  "description": "instrument with a sealed tube of liquid, designed to indicate whether a surface is horizontal (level) or vertical (plumb)",
+  "kgmid": "/m/01zflg"
+ },
+ "DJI": {
+  "qid": "Q16924332",
+  "description": "Chinese technology company",
+  "kgmid": "/m/011smc7k"
+ },
+ "Selfie stick": {
+  "qid": "Q18387942",
+  "description": "photography equipment",
+  "kgmid": "/m/012c5w0g"
+ },
+ "DJI Osmo": {
+  "qid": "Q26721405",
+  "description": "line of compact camcorders manufactured by DJI",
+  "kgmid": "/g/11c4b65764"
+ },
+ "Warranty": {
+  "qid": "Q329717",
+  "description": "expressed or implied promise or assurance of some kind",
+  "kgmid": "/m/03gg0l"
+ },
+ "Selfie": {
+  "qid": "Q12068677",
+  "description": "photographic self-portrait, usually informal",
+  "kgmid": "/m/0sgh53y"
+ },
+ "Pocket": {
+  "qid": "Q321767",
+  "description": "small compartment in clothing where minor objects can be carried inside",
+  "kgmid": "/m/025rhd"
+ },
+ "Amazon Prime": {
+  "qid": "Q21086634",
+  "description": "paid subscription service from Amazon",
+  "kgmid": "/g/11b6x7cx6n"
+ },
+ "Adapter": {
+  "qid": "Q4576564",
+  "description": "accessory for connecting two otherwise incompatible devices or workpieces",
+  "kgmid": "/m/02ztj6"
+ },
+ "Cost": {
+  "qid": "Q240673",
+  "description": "value of money that has been used up to produce something",
+  "kgmid": "/m/0168hv"
+ },
+ "Instagram": {
+  "qid": "Q209330",
+  "description": "photo and video sharing social network owned by Meta Platforms",
+  "kgmid": "/m/0glpjll"
+ },
+ "Fujifilm": {
+  "qid": "Q164740",
+  "description": "Japanese conglomerate started as photographic film manufacturer",
+  "kgmid": "/m/01djsj"
+ },
+ "135 film": {
+  "qid": "Q1051557",
+  "description": "photographic film format provided in a cartridge, also known as 35 mm film from the width of the film strip; most common analog (chemical) film used during the era of analog photography by both amateur und professional photographers",
+  "kgmid": "/m/017d63"
+ },
+ "Golf": {
+  "qid": "Q5377",
+  "description": "club-and-ball sport",
+  "kgmid": "/m/037hz"
+ },
+ "Golf swing": {
+  "qid": "Q1536459",
+  "description": "means by which golfers make decisions and execute them in the sport of golf",
+  "kgmid": "/m/05t04tj"
+ },
+ "GoPro": {
+  "qid": "Q733482",
+  "description": "American technology company",
+  "kgmid": "/m/0h1fd30"
+ },
+ "Guitar": {
+  "qid": "Q6607",
+  "description": "fretted string instrument",
+  "kgmid": "/m/0342h"
+ },
+ "MagSafe (wireless charger)": {
+  "qid": "Q100338267",
+  "description": "proprietary, magnetically-attached wireless power transfer interface by Apple Inc. for iPhone",
+  "kgmid": "/g/11lfbgy4mw"
+ },
+ "IPhone": {
+  "qid": "Q2766",
+  "description": "line of smartphones developed and marketed by Apple Inc.",
+  "kgmid": "/m/027lnzs"
+ },
+ "Gym": {
+  "qid": "Q14092",
+  "description": "building designed and equipped for athletics and fitness",
+  "kgmid": "/m/016yx7"
+ },
+ "Exercise": {
+  "qid": "Q219067",
+  "description": "bodily activity that enhances or maintains physical fitness and overall health and wellness",
+  "kgmid": "/m/019w6h"
+ },
+ "Angle": {
+  "qid": "Q11352",
+  "description": "something that is formed when two rays meet at a single or same point",
+  "kgmid": "/m/0mwc"
+ },
+ "Android (operating system)": {
+  "qid": "Q94",
+  "description": "operating system created by Google for use on mobile devices",
+  "kgmid": "/m/02wxtgw"
+ },
+ "Head shot": {
+  "qid": "Q10858232",
+  "description": "photograph of the face",
+  "kgmid": "/m/05y82b"
+ },
+ "Workflow": {
+  "qid": "Q627335",
+  "description": "defined sequence of activities of an organizational entity, enabled by the systematic organization of resources into processes that transform materials, provide services, or process information",
+  "kgmid": "/m/0k5rb"
+ },
+ "Portrait photography": {
+  "qid": "Q182956",
+  "description": "genre of photography; field of work for photographers",
+  "kgmid": "/m/0chml9"
+ },
+ "Price": {
+  "qid": "Q160151",
+  "description": "amount asked, offered or paid in exchange for goods or services, usually expressed in money",
+  "kgmid": "/m/01d_1l"
+ },
+ "Foot": {
+  "qid": "Q15807",
+  "description": "weight-bearing anatomical structure found in vertebrates",
+  "kgmid": "/m/031n1"
+ },
+ "Digital photography": {
+  "qid": "Q173095",
+  "description": "commonly used term for photography with a digital camera",
+  "kgmid": "/m/09q5cb"
+ },
+ "Time-lapse photography": {
+  "qid": "Q186563",
+  "description": "film technique where the frame rate is lower than that used to view the sequence",
+  "kgmid": "/m/05hlxm"
+ },
+ "Laser": {
+  "qid": "Q38867",
+  "description": "device which emits light via optical amplification",
+  "kgmid": "/m/04gh1"
+ },
+ "Bosch (company)": {
+  "qid": "Q234021",
+  "description": "German manufacturing company",
+  "kgmid": "/m/01hnkf"
+ },
+ "Elevator": {
+  "qid": "Q132911",
+  "description": "vertical transport device",
+  "kgmid": "/m/02r60"
+ },
+ "Pricing": {
+  "qid": "Q2108466",
+  "description": "process of determining what a company will receive in exchange for its products",
+  "kgmid": "/m/01jsvy"
+ },
+ "Leica Camera": {
+  "qid": "Q161833",
+  "description": "German optics company",
+  "kgmid": "/m/017tdm"
+ },
+ "Mountaineering": {
+  "qid": "Q36908",
+  "description": "sport of mountain climbing",
+  "kgmid": "/m/053f5"
+ },
+ "Live streaming": {
+  "qid": "Q3027665",
+  "description": "broadcasting content live via the Internet",
+  "kgmid": "/g/12214wvs"
+ },
+ "Streaming media": {
+  "qid": "Q220499",
+  "description": "continuous multimedia operated and presented to users by a provider",
+  "kgmid": "/m/0735l"
+ },
+ "Counterweight": {
+  "qid": "Q1324102",
+  "description": "equivalent weight that balances a load",
+  "kgmid": "/m/01cqgw"
+ },
+ "Stream": {
+  "qid": "Q47521",
+  "description": "natural body of water with current within bed and stream banks",
+  "kgmid": "/m/0j6m2"
+ },
+ "Image": {
+  "qid": "Q478798",
+  "description": "artifact that depicts or records visual perception",
+  "kgmid": "/m/0jg24"
+ },
+ "Bean bag": {
+  "qid": "Q4526698",
+  "description": "sealed bag containing dried beans or pellets",
+  "kgmid": "/m/026_f7"
+ },
+ "Aperture": {
+  "qid": "Q6434802",
+  "description": "hole or opening through which light travels",
+  "kgmid": "/m/0cryx"
+ },
+ "Plastic bag": {
+  "qid": "Q498439",
+  "description": "type of container made of thin, flexible, plastic film, nonwoven fabric, or plastic textile",
+  "kgmid": "/m/05gqfk"
+ },
+ "Bean": {
+  "qid": "Q379813",
+  "description": "seed of several plants in the legume family",
+  "kgmid": "/m/01fp9"
+ },
+ "Depth of field": {
+  "qid": "Q215932",
+  "description": "distance between the nearest and the furthest objects that are in focus in an image",
+  "kgmid": "/m/02b8j"
+ },
+ "Shutter (photography)": {
+  "qid": "Q691823",
+  "description": "component of a photographic camera",
+  "kgmid": "/m/06q4q4"
+ },
+ "Magnification": {
+  "qid": "Q141006600",
+  "description": "enlarging in appearance",
+  "kgmid": ""
+ },
+ "Medium format": {
+  "qid": "Q1146074",
+  "description": "photographic cameras with an aspect ratio in the range of about four to ten centimeters edge length",
+  "kgmid": "/m/017zd8"
+ },
+ "Nikon F-mount": {
+  "qid": "Q1149640",
+  "description": "lens mount",
+  "kgmid": "/m/085z0y"
+ },
+ "Remote control": {
+  "qid": "Q185091",
+  "description": "physical device used to control another device remotely (often wirelessly)",
+  "kgmid": "/m/0qjjc"
+ },
+ "Single-lens reflex camera": {
+  "qid": "Q196353",
+  "description": "camera that typically uses a mirror and prism system",
+  "kgmid": "/m/07bjf"
+ },
+ "Nikkor": {
+  "qid": "Q2468852",
+  "description": "brand of camera lenses",
+  "kgmid": "/m/030s04"
+ },
+ "Digital camera": {
+  "qid": "Q62927",
+  "description": "camera that captures photographs or video in digital format",
+  "kgmid": "/m/0dw7n"
+ },
+ "Privacy": {
+  "qid": "Q188728",
+  "description": "ability of an individual or group to limit intrusion into their private life and access to information about them",
+  "kgmid": "/m/06804"
+ },
+ "Nikon Z8": {
+  "qid": "Q118287749",
+  "description": "full-frame mirrorless interchangeable-lens camera",
+  "kgmid": ""
+ },
+ "Nikon Z-mount": {
+  "qid": "Q56240413",
+  "description": "digital camera lens mount",
+  "kgmid": "/g/11fctqt8v2"
+ },
+ "SD card": {
+  "qid": "Q466977",
+  "description": "removable memory storage for portable devices",
+  "kgmid": "/m/01tthm"
+ },
+ "Nikon Zf": {
+  "qid": "Q122731468",
+  "description": "digital camera",
+  "kgmid": "/g/11vbjw_db2"
+ },
+ "Artificial leather": {
+  "qid": "Q1792537",
+  "description": "man-made material that has similar properties and appearance to animal leather",
+  "kgmid": "/m/06glwy"
+ },
+ "Aurora": {
+  "qid": "Q40609",
+  "description": "natural light display that occurs in the sky, primarily at high latitudes (near the Arctic and Antarctic on Earth) or even on other planets",
+  "kgmid": "/m/0d61m"
+ },
+ "Light": {
+  "qid": "Q9128",
+  "description": "electromagnetic radiation at or near visible wavelengths",
+  "kgmid": "/m/04k84"
+ },
+ "Electric battery": {
+  "qid": "Q267298",
+  "description": "assembly of one or more electrochemical cells, used to provide devices with stored electrical energy",
+  "kgmid": "/m/01c0z"
+ },
+ "Iceland": {
+  "qid": "Q189",
+  "description": "Nordic island country in the North Atlantic Ocean",
+  "kgmid": "/m/03rj0"
+ },
+ "F-number": {
+  "qid": "Q862169",
+  "description": "ratio of the focal length to the diameter of the entrance pupil",
+  "kgmid": "/m/016hsk"
+ },
+ "Image sensor": {
+  "qid": "Q209121",
+  "description": "device that converts an optical image into an electronic signal",
+  "kgmid": "/m/0b022t"
+ },
+ "Wide-angle lens": {
+  "qid": "Q632867",
+  "description": "lens whose focal length is substantially smaller than the focal length of a normal lens for a given film plane",
+  "kgmid": "/m/01bt4g"
+ },
+ "Crop factor": {
+  "qid": "Q1196193",
+  "description": "multiplier factor in digital imaging, compared to 35mm film camera focal length",
+  "kgmid": "/m/07bsxx"
+ },
+ "Live preview": {
+  "qid": "Q313715",
+  "description": "feature that allows a digital camera's display screen",
+  "kgmid": "/m/026krtn"
+ },
+ "Pixel": {
+  "qid": "Q355198",
+  "description": "physical point in a raster image",
+  "kgmid": "/m/05x50"
+ },
+ "Weather": {
+  "qid": "Q11663",
+  "description": "state of the atmosphere",
+  "kgmid": "/m/0866r"
+ },
+ "Focal length": {
+  "qid": "Q193540",
+  "description": "measure of how strongly an optical system converges or diverges light",
+  "kgmid": "/m/0l43r"
+ },
+ "Intervalometer": {
+  "qid": "Q733949",
+  "description": "device that measures short intervals of time",
+  "kgmid": "/m/09xz04"
+ },
+ "Photograph": {
+  "qid": "Q125191",
+  "description": "image created by light falling on a light-sensitive surface",
+  "kgmid": "/m/068jd"
+ },
+ "Flashlight": {
+  "qid": "Q235783",
+  "description": "portable, hand-held electric light",
+  "kgmid": "/m/01kb5b"
+ },
+ "Star trail": {
+  "qid": "Q3492933",
+  "description": "trail left by star as the Earth rotates during long exposure photograph",
+  "kgmid": "/m/0k2l43y"
+ },
+ "Night photography": {
+  "qid": "Q1894442",
+  "description": "photography that takes place at night, typically outside",
+  "kgmid": "/m/0fzpvg"
+ },
+ "En plein air": {
+  "qid": "Q829298",
+  "description": "act of painting outdoors",
+  "kgmid": "/m/064s0"
+ },
+ "Painting": {
+  "qid": "Q11629",
+  "description": "practice of applying paint, pigment, color or other medium to a surface",
+  "kgmid": "/m/05qdh"
+ },
+ "Palette (painting)": {
+  "qid": "Q425548",
+  "description": "flat surface for mixing paints",
+  "kgmid": "/m/0bmc4wk"
+ },
+ "Easel": {
+  "qid": "Q939611",
+  "description": "painting implement",
+  "kgmid": "/m/01rg3p"
+ },
+ "Paint": {
+  "qid": "Q174219",
+  "description": "pigmented liquid applied over a surface that dries as a solid film",
+  "kgmid": "/m/05y4t"
+ },
+ "Canvas": {
+  "qid": "Q4259259",
+  "description": "extremely heavy-duty plain-woven fabric",
+  "kgmid": "/m/0jmpt"
+ },
+ "Real estate": {
+  "qid": "Q684740",
+  "description": "subset of land that has been legally defined and the improvements to it made by human efforts",
+  "kgmid": "/m/023907r"
+ },
+ "Architectural photography": {
+  "qid": "Q635309",
+  "description": "photography genre",
+  "kgmid": "/m/03b_xsp"
+ },
+ "Videography": {
+  "qid": "Q2662841",
+  "description": "process of capturing moving images on electronic media",
+  "kgmid": "/m/05kcv5"
+ },
+ "View camera": {
+  "qid": "Q313812",
+  "description": "large-format camera that has adjustable front and rear standards mounted on rails and connected by bellows",
+  "kgmid": "/m/0k_z6"
+ },
+ "Fluid": {
+  "qid": "Q102205",
+  "description": "substance which continuously deforms under an applied shear stress, including liquids and gases",
+  "kgmid": "/m/02yfx"
+ },
+ "Filmmaking": {
+  "qid": "Q932586",
+  "description": "process of making a motion picture",
+  "kgmid": "/m/03r8gp"
+ },
+ "Ricoh GR (large sensor compact camera)": {
+  "qid": "Q18390387",
+  "description": "digital camera model",
+  "kgmid": "/m/011l74fm"
+ },
+ "Ricoh": {
+  "qid": "Q178778",
+  "description": "Japanese multinational imaging and electronics company",
+  "kgmid": "/m/02jwgz"
+ },
+ "Sony α6700": {
+  "qid": "Q121091189",
+  "description": "mirrorless interchangeable-lens camera with APS-C sensor from Sony",
+  "kgmid": "/g/11vldn9g4p"
+ },
+ "Sony": {
+  "qid": "Q41187",
+  "description": "Japanese multinational conglomerate corporation",
+  "kgmid": "/m/06q07"
+ },
+ "Sony E-mount": {
+  "qid": "Q209536",
+  "description": "lens mount designed by Sony",
+  "kgmid": "/m/0c00bf4"
+ },
+ "Sony α7R V": {
+  "qid": "Q114869951",
+  "description": "professional mirrorless interchangeable-lens camera with full-frame sensor from Sony",
+  "kgmid": "/g/11jz8gc175"
+ },
+ "Sony α7": {
+  "qid": "Q15138399",
+  "description": "mirrorless interchangeable-lens camera with full-frame sensor from Sony",
+  "kgmid": "/m/0yt07b0"
+ },
+ "Vibration": {
+  "qid": "Q3695508",
+  "description": "mechanical phenomenon whereby oscillations occur about an equilibrium point; precisely used to describe mechanical oscillation",
+  "kgmid": "/m/01jwx6"
+ },
+ "Payload": {
+  "qid": "Q7641034",
+  "description": "set of objects being usefully carried by a vehicle",
+  "kgmid": "/m/02p0sz9"
+ },
+ "Sony FX30": {
+  "qid": "Q115264767",
+  "description": "mirrorless compact cinema camera with APS-C sensor",
+  "kgmid": ""
+ },
+ "Sony ZV-E10": {
+  "qid": "Q119877840",
+  "description": "mirrorless interchangeable-lens camera with APS-C sensor",
+  "kgmid": ""
+ },
+ "Sniper": {
+  "qid": "Q201948",
+  "description": "highly trained marksman",
+  "kgmid": "/m/06zs7"
+ },
+ "Eye": {
+  "qid": "Q7364",
+  "description": "organ that detects light and converts it into electro-chemical impulses in neurons",
+  "kgmid": "/m/014sv8"
+ },
+ "Hand-held camera": {
+  "qid": "Q5647097",
+  "description": "filmmaking technique",
+  "kgmid": "/m/0dr5wz"
+ },
+ "High dynamic range": {
+  "qid": "Q106239881",
+  "description": "enhanced signal representation in images, videos, audio, or radio",
+  "kgmid": "/g/122nc6w1"
+ },
+ "Telescope": {
+  "qid": "Q4213",
+  "description": "instrument that aids in the observation of remote objects",
+  "kgmid": "/m/0h2t9w"
+ },
+ "GoTo (telescopes)": {
+  "qid": "Q971477",
+  "description": "type of telescope mount and related software",
+  "kgmid": "/m/027ns1q"
+ },
+ "Equatorial mount": {
+  "qid": "Q1061971",
+  "description": "mounting system for camera or telescope",
+  "kgmid": "/m/0422g0"
+ },
+ "Telescope mount": {
+  "qid": "Q1205231",
+  "description": "mechanical structure which supports a telescope",
+  "kgmid": "/m/026l6r"
+ },
+ "Celestron": {
+  "qid": "Q1052893",
+  "description": "American telescope and optics company",
+  "kgmid": "/m/0699h7"
+ },
+ "Astronomer": {
+  "qid": "Q11063",
+  "description": "scientist who studies celestial bodies",
+  "kgmid": "/m/0h9c"
+ },
+ "Arca-Swiss": {
+  "qid": "Q548460",
+  "description": "business",
+  "kgmid": "/g/120s1kkh"
+ },
+ "Baggage": {
+  "qid": "Q865054",
+  "description": "cases or container for storing traveler's items",
+  "kgmid": "/m/03w7y7"
+ },
+ "Suitcase": {
+  "qid": "Q200814",
+  "description": "form of luggage",
+  "kgmid": "/m/01s55n"
+ },
+ "Screw thread": {
+  "qid": "Q749400",
+  "description": "helical part of screw",
+  "kgmid": "/m/05dqj0"
+ },
+ "Damping": {
+  "qid": "Q1127660",
+  "description": "reduction in motion of an oscillatory system through frictional forces",
+  "kgmid": "/m/02hbnr"
+ },
+ "Temperature": {
+  "qid": "Q11466",
+  "description": "physical property of matter that quantitatively expresses the common notions of hot and cold",
+  "kgmid": "/m/07gr_"
+ },
+ "Plastic": {
+  "qid": "Q11474",
+  "description": "material of a wide range of synthetic or semi-synthetic organic solids",
+  "kgmid": "/m/05z87"
+ },
+ "Landscape": {
+  "qid": "Q107425",
+  "description": "visible features of an area of land",
+  "kgmid": "/m/025s3q0"
+ },
+ "Brush": {
+  "qid": "Q614467",
+  "description": "tool with filaments for cleaning, applying materials or other purposes",
+  "kgmid": "/m/02chd9"
+ },
+ "Wind": {
+  "qid": "Q8094",
+  "description": "flow of gases or air on a large scale",
+  "kgmid": "/m/03m9d0z"
+ },
+ "Center of mass": {
+  "qid": "Q2945123",
+  "description": "unique point where the weighted relative position of a distributed mass sums to zero",
+  "kgmid": "/m/017gpx"
+ },
+ "Gravity": {
+  "qid": "Q11412",
+  "description": "fundamental interaction affecting all matter",
+  "kgmid": "/m/09lw1"
+ },
+ "Sandbag": {
+  "qid": "Q91398",
+  "description": "device commonly used in flood control and temporary military fortifications",
+  "kgmid": "/m/035tlw"
+ },
+ "Anchor": {
+  "qid": "Q168432",
+  "description": "mooring device",
+  "kgmid": "/m/0p3x"
+ },
+ "Cinematography": {
+  "qid": "Q590870",
+  "description": "art of creating motion picture with photography",
+  "kgmid": "/m/01bt7h"
+ },
+ "Water bottle": {
+  "qid": "Q6817227",
+  "description": "portable container for water",
+  "kgmid": "/m/0118n_9r"
+ },
+ "Hex key": {
+  "qid": "Q16953",
+  "description": "tool for screws with an internal hex head.",
+  "kgmid": "/m/028bn4g"
+ },
+ "Panorama": {
+  "qid": "Q41363",
+  "description": "wide-angle view or representation of a physical space",
+  "kgmid": "/m/017rtb"
+ },
+ "Leglock": {
+  "qid": "Q1151717",
+  "description": "grappling technique in martial arts",
+  "kgmid": "/m/088kn3"
+ },
+ "Self-timer": {
+  "qid": "Q507361",
+  "description": "device on a camera that gives a delay between pressing the shutter release and the shutter's firing",
+  "kgmid": "/g/11bc6ydn36"
+ },
+ "Film speed": {
+  "qid": "Q24613",
+  "description": "measure of a photographic film's sensitivity to light",
+  "kgmid": "/m/016krc"
+ },
+ "Teleconverter": {
+  "qid": "Q1434479",
+  "description": "attachment for lenses",
+  "kgmid": "/m/05t85w"
+ },
+ "Bulb (photography)": {
+  "qid": "Q929346",
+  "description": "shutter technique on cameras",
+  "kgmid": "/m/06sjsh"
+ },
+ "Speed": {
+  "qid": "Q3711325",
+  "description": "magnitude of velocity of motion",
+  "kgmid": "/m/073s_"
+ },
+ "Timer": {
+  "qid": "Q186612",
+  "description": "device that automatically times a process or event or activates an operation or another device at a preset time or times",
+  "kgmid": "/m/02m1w1"
+ },
+ "Shutter button": {
+  "qid": "Q7505674",
+  "description": "push-button found on cameras",
+  "kgmid": "/m/027vhct"
+ },
+ "Raw image format": {
+  "qid": "Q654383",
+  "description": "file format used in digital photography",
+  "kgmid": "/m/08g1q1"
+ },
+ "Lever": {
+  "qid": "Q40164",
+  "description": "simple machine consisting of a beam or rigid rod pivoted at a fixed hinge, or fulcrum",
+  "kgmid": "/m/09pnz"
+ },
+ "Lever tumbler lock": {
+  "qid": "Q31883493",
+  "description": "type of lock that uses a set of levers to prevent the bolt from moving in the lock",
+  "kgmid": "/m/03f0ql"
+ },
+ "Lock and key": {
+  "qid": "Q228039",
+  "description": "mechanical or electronic fastening device",
+  "kgmid": "/m/02ll1_"
+ },
+ "Sachtler": {
+  "qid": "Q824333",
+  "description": "company",
+  "kgmid": "/m/0bmcj_s"
+ },
+ "Dovetail joint": {
+  "qid": "Q1540333",
+  "description": "joinery technique",
+  "kgmid": "/m/02bx52"
+ },
+ "Nikon D850": {
+  "qid": "Q37933342",
+  "description": "digital single-lens reflex camera",
+  "kgmid": "/g/11d_vq956r"
+ },
+ "Bracket": {
+  "qid": "Q174565",
+  "description": "tall punctuation mark typically used in matched pairs within text, to set apart or interject other text; opening and closing, or left and right symbols",
+  "kgmid": "/m/0g58v"
+ }
+}
