@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:35:40.090Z",
+  "updatedAt": "2026-11-04T11:38:23.071Z",
   "categories": {
     "camera-tripods": [
       {
@@ -1960,7 +1960,8 @@
           "how to weigh down a tripod without a sandbag"
         ],
         "coveredBy": [
-          "how-to-weigh-down-a-tripod-without-a-sandbag"
+          "how-to-weigh-down-a-tripod-without-a-sandbag",
+          "best-tripod-for-timelapse"
         ],
         "foundAt": "2026-10-30"
       },
@@ -3644,6 +3645,278 @@
           "best-tripod-for-canon-r8"
         ],
         "foundAt": "2026-11-03"
+      },
+      {
+        "id": "timelapse-wind-shake",
+        "pain": "Wind shakes the tripod during a timelapse and the clip jumps",
+        "details": "Timelapse shooters see camera shake from wind in the finished clip; replies say get a sturdier, heavier tripod or hang the camera bag low.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "There's some camera shake from the wind.",
+            "url": "https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "For timelapse in particular, you're going to want a pretty sturdy/heavy tripod to minimize movement from wind and vibrations.",
+            "url": "https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "timelapse tripod wind",
+          "timelapse jitter tripod"
+        ],
+        "keywords": [
+          "best tripod for timelapse"
+        ],
+        "coveredBy": [
+          "best-tripod-for-timelapse"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "timelapse-stabilization-jitter",
+        "pain": "Stabilization left on makes timelapse frames jitter on a tripod",
+        "details": "Owners report jittery frames every few shots in tripod timelapses with IBIS or lens IS on; switching it off is the standard fix.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have had star trails ruined with jittery frames every few shots in a timelapse",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",
+            "via": "search-excerpt"
+          },
+          {
+            "text": "First, make sure image stabilization on your camera and lens are OFF.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "timelapse tripod wind",
+          "timelapse jitter tripod"
+        ],
+        "keywords": [
+          "best tripod for timelapse"
+        ],
+        "coveredBy": [
+          "best-tripod-for-timelapse"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "timelapse-long-term-gopro-mount",
+        "pain": "A cheap GoPro tripod has to stay put outdoors for weeks or months",
+        "details": "Construction and garden timelapse shooters want a small tripod they can stake down for months; light tripods tip in a breeze.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/gopro/comments/1eplrr3/tripod_for_downward_pointing_gopro/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Is there a cheap tripod anyone might recommend that I could stake into the ground to keep steady over 2-3 months?",
+            "url": "https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "timelapse tripod wind",
+          "timelapse jitter tripod"
+        ],
+        "keywords": [
+          "best tripod for timelapse"
+        ],
+        "coveredBy": [
+          "best-tripod-for-timelapse"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "headshots-back-strain-hunching",
+        "pain": "Hunching over the camera through a long headshot session leaves the photographer's neck and back sore",
+        "details": "Corporate headshot photographers say a tripod at the right height is what keeps their posture intact over a long day; without it they hinge over the viewfinder for hours.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=7umqfFY-MDs",
+            "platform": "youtube",
+            "title": "The Tripod—Headshot Photography Essential Gear",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
+            "platform": "reddit",
+            "title": "Do you ever use a Tripod for portrait photography? If so, when?",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If I tried, my neck, back, and shoulders would be a complete mess",
+            "url": "https://www.youtube.com/watch?v=7umqfFY-MDs"
+          }
+        ],
+        "keywords": [
+          "best tripod for headshots"
+        ],
+        "mentions": 2,
+        "searches": [
+          "best tripod for headshots",
+          "site:reddit.com headshot tripod"
+        ],
+        "coveredBy": [
+          "best-tripod-for-headshots"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "headshots-subjects-different-heights",
+        "pain": "Re-setting the tripod for every subject of a different height slows a headshot day",
+        "details": "Production-line headshot shooters want to change height and angle quickly between people; a long or geared center column and a head that adjusts fast are the usual answer.",
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
+            "platform": "reddit",
+            "title": "Do you ever use a Tripod for portrait photography? If so, when?",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/",
+            "platform": "reddit",
+            "title": "Want a proper photo tripod with center column and 3 way geared head",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=7umqfFY-MDs",
+            "platform": "youtube",
+            "title": "The Tripod—Headshot Photography Essential Gear",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I use a tripod with a geared column and head so I can quickly adjust the height and angle",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/"
+          }
+        ],
+        "keywords": [
+          "best tripod for headshots"
+        ],
+        "mentions": 3,
+        "searches": [
+          "best tripod for headshots",
+          "site:reddit.com headshot tripod"
+        ],
+        "coveredBy": [
+          "best-tripod-for-headshots"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "headshots-tripod-too-short",
+        "pain": "A short or travel tripod puts the lens below the subject's eyes, so headshots are shot from too low",
+        "details": "Portrait photographers warn against small tripods for standing portraits; the viewfinder should reach eye level with the column down or only slightly raised.",
+        "sources": [
+          {
+            "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+            "platform": "blog",
+            "title": "Tripod Heads for Portrait Photography, a Photographer's Thoughts",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-height.3771895/",
+            "platform": "forum",
+            "title": "Tripod height",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You want the rear of the camera and its viewfinder at eye level when standing at the tripod.",
+            "url": "https://www.dpreview.com/forums/threads/tripod-height.3771895/"
+          }
+        ],
+        "keywords": [
+          "best tripod for headshots"
+        ],
+        "mentions": 2,
+        "searches": [
+          "best tripod for headshots",
+          "site:reddit.com headshot tripod"
+        ],
+        "coveredBy": [
+          "best-tripod-for-headshots"
+        ],
+        "foundAt": "2026-11-04"
+      },
+      {
+        "id": "headshots-head-loosens-camera-slips",
+        "pain": "A cheap head loosens over time and the camera slips mid-session",
+        "details": "A headshot photographer's budget pistol-grip head and later a mid-price one both started to slip; the friction adjustment fixed the second.",
+        "sources": [
+          {
+            "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+            "platform": "blog",
+            "title": "Tripod Heads for Portrait Photography, a Photographer's Thoughts",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "overtime it would loosen, the camera would slip, and I’d constantly have to re-adjust during a shoot",
+            "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/"
+          }
+        ],
+        "keywords": [
+          "best tripod for headshots"
+        ],
+        "mentions": 1,
+        "searches": [
+          "best tripod for headshots",
+          "site:reddit.com headshot tripod"
+        ],
+        "coveredBy": [
+          "best-tripod-for-headshots"
+        ],
+        "foundAt": "2026-11-04"
       }
     ],
     "monopods": [
@@ -4527,7 +4800,8 @@
           "best tripod head"
         ],
         "coveredBy": [
-          "ball-head-vs-pan-tilt-head-for-landscape-photography"
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "best-tripod-for-timelapse"
         ],
         "foundAt": "2026-10-19"
       },
@@ -5995,6 +6269,119 @@
           "best-tripod-for-filming-sports"
         ],
         "foundAt": "2026-10-29"
+      },
+      {
+        "id": "school-plays-heads-block-shot",
+        "pain": "Heads and tall people walk into the shot of the stage",
+        "details": "Parents and recital videographers find audience heads in the frame, and someone tall walks in front of a raised camera even when standing on a chair.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/",
+            "platform": "web",
+            "title": "Heads and tall people walk into the shot of the stage",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+            "platform": "web",
+            "title": "Heads and tall people walk into the shot of the stage",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/s99221/tall_tripod_recommendation_for_event_shooting_or/",
+            "platform": "reddit",
+            "title": "Heads and tall people walk into the shot of the stage",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "invariably someone really tall would still walk directly in front of me, ruining my shot",
+            "url": "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+          }
+        ],
+        "keywords": [
+          "best tripod for recording school plays"
+        ]
+      },
+      {
+        "id": "school-plays-tripod-bumped",
+        "pain": "The tripod gets bumped or kicked in a crowded hall",
+        "details": "Event shooters worry about people knocking a tripod in the aisle; one r/videography poster keeps the concert camera next to the front-of-house desk so people can watch it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/",
+            "platform": "reddit",
+            "title": "The tripod gets bumped or kicked in a crowded hall",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+            "platform": "web",
+            "title": "The tripod gets bumped or kicked in a crowded hall",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for recording school plays"
+        ]
+      },
+      {
+        "id": "school-plays-jerky-pans",
+        "pain": "Pans and tilts look jerky, or constant zooming makes the video hard to watch",
+        "details": "Budget heads can stick at the start of a tilt; Instructables warns that fast zooms and constant panning make viewers seasick and suggests a set-and-leave wide shot.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+            "platform": "web",
+            "title": "Pans and tilts look jerky, or constant zooming makes the video hard to watch",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+            "platform": "youtube",
+            "title": "Pans and tilts look jerky, or constant zooming makes the video hard to watch",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/204mrh/has_anyone_used_the_manfrotto_mvk500am_tripod/",
+            "platform": "reddit",
+            "title": "Pans and tilts look jerky, or constant zooming makes the video hard to watch",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for recording school plays"
+        ]
+      },
+      {
+        "id": "school-plays-stage-light-exposure",
+        "pain": "Stage lighting blows out faces and autofocus hunts when the lights change",
+        "details": "Auto exposure reads the dark background and overexposes faces; autofocus searches in the dark before the lights come up. Both sources set exposure and focus manually.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+            "platform": "web",
+            "title": "Stage lighting blows out faces and autofocus hunts when the lights change",
+            "seen": "2026-11-04"
+          },
+          {
+            "url": "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/",
+            "platform": "web",
+            "title": "Stage lighting blows out faces and autofocus hunts when the lights change",
+            "seen": "2026-11-04"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for recording school plays"
+        ]
       }
     ],
     "tabletop-mini-tripods": [

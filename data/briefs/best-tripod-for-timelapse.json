@@ -1,0 +1,604 @@
+{
+  "centralEntity": "timelapse tripod",
+  "entityVariants": [
+    "tripod for timelapse",
+    "time-lapse tripod",
+    "tripod for time-lapse",
+    "tripod for a timelapse",
+    "tripods for timelapse"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "product",
+      "relation": "holds the camera in exactly the same spot for every frame of the sequence",
+      "salience": 0.98
+    },
+    {
+      "name": "time-lapse",
+      "type": "concept",
+      "relation": "stills shot at a fixed interval and played back at 24-30 fps; any tripod movement shows as a jump",
+      "salience": 0.8
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter leg material that damps vibration; Sirui Traveler 5C",
+      "salience": 0.69
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "DSLR, mirrorless, phone or GoPro whose weight sets the load rating needed",
+      "salience": 0.58
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 190XPRO kit, Befree Advanced and PIXI",
+      "salience": 0.37
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "heavier, cheaper leg material; extra mass helps in wind",
+      "salience": 0.23
+    },
+    {
+      "name": "intervalometer",
+      "type": "device",
+      "relation": "fires the shutter at the set interval; built into most cameras and phones",
+      "salience": 0.5
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "frames the shot; must not creep over hours",
+      "salience": 0.55
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "least rigid part; keep it down for long sequences",
+      "salience": 0.5
+    },
+    {
+      "name": "hook",
+      "type": "component",
+      "relation": "hangs a bag as ballast low under the tripod",
+      "salience": 0.45
+    },
+    {
+      "name": "image stabilization",
+      "type": "feature",
+      "relation": "IBIS or lens IS left on can shift framing between frames on a tripod",
+      "salience": 0.4
+    },
+    {
+      "name": "GoPro",
+      "type": "product",
+      "relation": "action camera often used for long timelapses on small tripods",
+      "salience": 0.35
+    },
+    {
+      "name": "smartphone",
+      "type": "product",
+      "relation": "phone timelapse mode; needs a phone clamp",
+      "salience": 0.4
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "plate standard on the Befree, Sirui and K&F heads",
+      "salience": 0.3
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-timelapse.entities.json",
+    "pagesAnalyzed": [
+      "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+      "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+      "https://www.techgearlab.com/topics/electronics/best-tripod"
+    ],
+    "note": "Medium and Amateur Photographer blocked the TextRazor fetch (Cloudflare); shared entities come from the other three. Dropped off-topic: Amazon (company), Benro (not featured), Carbon, Fiber (merged into carbon fiber)."
+  },
+  "attributes": [
+    "height with the center column down",
+    "rated load vs camera weight",
+    "weight (mass helps in wind)",
+    "folded length",
+    "leg sections",
+    "leg lock type",
+    "ball head friction and creep",
+    "weight hook",
+    "minimum height for low angles",
+    "phone mount",
+    "Arca-Swiss plate"
+  ],
+  "ngrams": [
+    "sturdy tripod",
+    "center column",
+    "ball head",
+    "carbon fiber",
+    "load capacity",
+    "time-lapse photography",
+    "leg sections",
+    "phone mount",
+    "hang your camera bag",
+    "interval timer"
+  ],
+  "skipgrams": [
+    "tripod…wind",
+    "center…column",
+    "camera…bag",
+    "ball…head",
+    "hold…still",
+    "leg…sections",
+    "image…stabilization",
+    "frames…interval"
+  ],
+  "nlpTerms": [
+    "interval",
+    "frames",
+    "fps",
+    "vibration",
+    "wind",
+    "stability",
+    "payload",
+    "flex",
+    "creep",
+    "ballast",
+    "sandbag",
+    "intervalometer",
+    "sunset",
+    "star trails",
+    "clouds",
+    "mirrorless",
+    "DSLR",
+    "GoPro",
+    "smartphone",
+    "travel tripod"
+  ],
+  "questions": [
+    "What is the best tripod for timelapse?",
+    "Do I need an expensive tripod for timelapse?",
+    "How long does a timelapse tripod have to stay still?",
+    "Can I use a phone tripod for a timelapse?",
+    "Should I turn off image stabilization for a timelapse on a tripod?",
+    "How many photos do I need for a 30-second timelapse?",
+    "Carbon fiber vs aluminum tripod for timelapse?",
+    "Does a tripod hook help in wind?"
+  ],
+  "contentGaps": [
+    "How long the tripod must stay still for common intervals (750 frames x interval)",
+    "Column-down height and rated load compared for timelapse use",
+    "Image stabilization off on a tripod for timelapse",
+    "Phone and GoPro timelapse on a small tripod",
+    "Ball head creep ruining framing over an hour"
+  ],
+  "outline": [
+    {
+      "h2": "Timelapse tripods compared on height, weight and load",
+      "intent": "comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these timelapse tripods",
+      "intent": "method and From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 7 best tripods for timelapse, reviewed",
+      "intent": "picks",
+      "h3": [
+        "Manfrotto 190XPRO kit: best tripod for long timelapses",
+        "Manfrotto Befree Advanced: best travel tripod for timelapse",
+        "Peak Design Travel Tripod (Aluminum): best timelapse tripod for camera and phone",
+        "SIRUI Traveler 5C: lightest tripod for timelapse hikes",
+        "K&F Concept 64: best budget tripod for timelapse",
+        "UBeesize 67: best phone tripod for timelapse",
+        "Manfrotto PIXI Mini: best tabletop tripod for GoPro and phone timelapses"
+      ]
+    },
+    {
+      "h2": "Which timelapse tripod should you get?",
+      "intent": "decision rule",
+      "h3": []
+    },
+    {
+      "h2": "How long a timelapse tripod has to hold still",
+      "intent": "analysis: frames x interval",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for a timelapse",
+      "intent": "numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "Timelapse tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "commonPoints": [
+    "A timelapse needs a sturdy, heavy tripod that does not move for the whole sequence",
+    "Carbon fiber is lighter and damps vibration; aluminum is cheaper and heavier",
+    "The rated load should exceed the camera and lens weight",
+    "Keep the center column down and extend the legs first",
+    "Hang a camera bag from the hook in wind",
+    "Low angles with foreground objects make better timelapses"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Hold-still time: a 30-second clip at 25 fps needs 750 frames, so a 10-second cloud interval is about 2 hours and a 30-second star interval about 6 hours 15 minutes of zero movement.",
+      "source": "https://onnoa.de/how-to-do-a-time-lapse/",
+      "absentFrom": [
+        "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by where the timelapse happens: near the car for hours (190XPRO), travel (Befree/Peak Design), long hikes (Sirui), budget camera (K&F), phone (UBeesize), tabletop GoPro or phone (PIXI).",
+      "source": "spec comparison of the seven picks",
+      "absentFrom": [
+        "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Jittery frames every few shots on a tripod: switch image stabilization off before a timelapse.",
+      "source": "https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",
+      "absentFrom": [
+        "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Framing drifts over an hour because the ball head creeps: lock the head with the camera balanced over the column and check the first 10 frames.",
+      "source": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+      "absentFrom": [
+        "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height and load compared: the 190XPRO keeps 57.68 in on its legs with 15 kg payload; the PIXI holds 1 kg at 13.5 cm.",
+      "source": "maker spec pages",
+      "absentFrom": [
+        "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/"
+      ]
+    }
+  ],
+  "targetWords": 2100,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+      "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+      "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+      "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+      "https://www.techgearlab.com/topics/electronics/best-tripod"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "Adorama and Learn Timelapse describe each tripod in a short paragraph; Medium uses a few highlight bullets inside a paragraph review. Paragraphs suit the owner and timelapse context per pick.",
+    "avgWords": 1960,
+    "avgWordsNote": "Learn Timelapse ~900, Medium ~1,250, Adorama ~1,300, Amateur Photographer ~4,400. TechGearLab (~11,600-word generic test page) left out of the average as an outlier; Wirecutter could not be read.",
+    "avgProducts": 5,
+    "commonSections": [
+      "what makes a good timelapse tripod (stability, material, load, height)",
+      "product list",
+      "comparison table",
+      "tips: hook, column down, wind",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+      "title": "Tripod reviews for timelapse photography"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/",
+      "title": "Phone timelapse tripod recommendations??? : r/videography"
+    },
+    {
+      "position": 3,
+      "url": "https://www.bestbuy.com/site/shop/time-lapse-tripod",
+      "title": "Time Lapse Tripod - Best Buy"
+    },
+    {
+      "position": 4,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+      "title": "The 4 Best Tripods of 2026 | Reviews by Wirecutter - The New York Times"
+    },
+    {
+      "position": 5,
+      "url": "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+      "title": "The Best Tripods Guide to Stable Shots, and Surprising Lessons"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/gopro.hero.group/posts/3889848727908264/",
+      "title": "Sturdy GoPro tripod for time lapse shots? - Facebook"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=4VM7xiCL_u0",
+      "title": "My Favorite Tripod for Filming Art & Tutorials - YouTube"
+    },
+    {
+      "position": 8,
+      "url": "https://www.bhphotovideo.com/c/buy/Tripod-Systems/ci/3909",
+      "title": "Professional Video Tripod Systems - B&H Photo"
+    },
+    {
+      "position": 9,
+      "url": "https://www.amazon.com/time-lapse-rotator-Tripod-Heads/s?k=time+lapse+rotator",
+      "title": "Time Lapse Rotator - Panoramic Head (QTVR) / Tripod ... - Amazon.com"
+    },
+    {
+      "position": 10,
+      "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives",
+      "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 1,
+    "withNumber": 1,
+    "commonModifiers": [
+      "best",
+      "tripod",
+      "time lapse",
+      "sturdy",
+      "2026"
+    ],
+    "gap": "No top result is a timelapse roundup with a year and a pick count, and none says how long the tripod has to stay still; ours leads with the exact keyword, the year, the count and an hours-long steadiness benefit."
+  },
+  "serpProducts": [
+    {
+      "name": "Manfrotto 190XPRO kit (MK190XPRO3-BHQ2)",
+      "pages": [
+        "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree Advanced",
+      "pages": [
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "pages": [
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html"
+      ]
+    },
+    {
+      "name": "SIRUI Traveler 5C",
+      "pages": [
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "name": "K&F Concept 64 inch",
+      "pages": [
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "name": "UBeesize 67 inch tripod",
+      "pages": [
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI Mini",
+      "pages": [
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ]
+    },
+    {
+      "name": "Joby GorillaPod (3K / GripTight PRO 2)",
+      "pages": [
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/"
+      ],
+      "note": "different GorillaPod models per page; not featured"
+    },
+    {
+      "name": "Manfrotto Befree GT (carbon / XPRO)",
+      "pages": [
+        "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
+        "https://www.nytimes.com/wirecutter/reviews/best-tripod/"
+      ],
+      "note": "different variants per page; not featured"
+    }
+  ],
+  "serpProductsNote": "Top 10 for the keyword and close variants (best tripod for time lapse photography, sturdy tripod for long timelapse, best tripod for time lapse video, best tripod). Amazon, Best Buy, B&H category and YouTube results skipped.",
+  "stats": [
+    {
+      "number": "57.68 in",
+      "claim": "Manfrotto 190XPRO kit height with the centre column down",
+      "url": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+      "quote": "Maximum Height (with Center Column Down) 146.5 cm 57.68 in"
+    },
+    {
+      "number": "750 photos",
+      "claim": "frames needed for a 30-second clip at 25 fps",
+      "url": "https://onnoa.de/how-to-do-a-time-lapse/",
+      "quote": "A 30 second clip at 25fps needs 750 photos."
+    },
+    {
+      "number": "20–40 seconds",
+      "claim": "suggested interval for star trails / night sky",
+      "url": "https://onnoa.de/how-to-do-a-time-lapse/",
+      "quote": "Star trails / night sky (static) | 20–40 seconds"
+    },
+    {
+      "number": "19.8 lb",
+      "claim": "Befree Advanced lever aluminum load capacity, with an integrated weight hook",
+      "url": "https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+      "quote": "Weighs 3.6 lb, can hold up to 19.8 lb of gear"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1fEi9t5lwJc",
+      "title": "How to make a Timelapse - 5 Quick Tips!",
+      "channel": "Chris Winter",
+      "url": "https://www.youtube.com/watch?v=1fEi9t5lwJc",
+      "section": "How to set up a tripod for a timelapse",
+      "note": "2016, older than 5 years; no newer on-topic setup video found in two searches"
+    }
+  ],
+  "internalLinkCandidates": [
+    "how-to-stop-tripod-shake-in-wind",
+    "ball-head-sags-after-tightening",
+    "how-to-weigh-down-a-tripod-without-a-sandbag",
+    "best-tripod-for-gopro",
+    "best-tripod-for-astrophotography",
+    "tripod-center-column-up-or-down-for-landscapes"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-gopro",
+      "find": "Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky.",
+      "replace": "Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/))."
+    },
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "find": "If it still shakes, we switch to faster shutter speeds and stacked exposures.",
+      "replace": "If it still shakes, we switch to faster shutter speeds and stacked exposures; for hour-long sequences, a heavier [timelapse tripod](/blog/best-tripod-for-timelapse/) helps more."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for time lapse photography",
+    "best phone tripod for timelapse",
+    "sturdy tripod for long timelapse",
+    "best gopro tripod for timelapse",
+    "tripod for time lapse video",
+    "timelapse tripod"
+  ],
+  "angle": "How long the tripod has to hold still (frames x interval), matched to where the timelapse is shot.",
+  "painPoints": [
+    {
+      "id": "timelapse-wind-shake",
+      "pain": "Wind shakes the tripod during a timelapse and the clip jumps",
+      "details": "Timelapse shooters see camera shake from wind in the finished clip; replies say get a sturdier, heavier tripod or hang the camera bag low.",
+      "sources": [
+        "https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/",
+        "https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/"
+      ],
+      "quotes": [
+        {
+          "text": "There's some camera shake from the wind.",
+          "url": "https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/"
+        },
+        {
+          "text": "For timelapse in particular, you're going to want a pretty sturdy/heavy tripod to minimize movement from wind and vibrations.",
+          "url": "https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-heads-ballhead-sag-after-locking",
+      "pain": "Ball head sags or creeps after I tighten it, so my framing drifts",
+      "details": "The camera slowly drops or slides after the head is locked; over an hour-long sequence that shows as drift.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/",
+        "https://www.reddit.com/r/photography/comments/1g9jjxd/stopping_ballhead_creep/"
+      ],
+      "quotes": [
+        {
+          "text": "There is a limited amount of sag even in a very good ball head.",
+          "url": "https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/"
+        }
+      ]
+    },
+    {
+      "id": "timelapse-stabilization-jitter",
+      "pain": "Stabilization left on makes timelapse frames jitter on a tripod",
+      "details": "Owners report jittery frames every few shots in tripod timelapses with IBIS or lens IS on; switching it off is the standard fix.",
+      "sources": [
+        "https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",
+        "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/"
+      ],
+      "quotes": [
+        {
+          "text": "I have had star trails ruined with jittery frames every few shots in a timelapse",
+          "url": "https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/"
+        },
+        {
+          "text": "First, make sure image stabilization on your camera and lens are OFF.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-hanging-weight-swings",
+      "pain": "A bag hung from the hook swings in the wind and adds shake",
+      "details": "Owners read that a hanging camera bag sways in gusts and look for a weight that stays put.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+      ],
+      "quotes": [
+        {
+          "text": "I've read that a hanging camera bag on a hook can also sway in the wind.",
+          "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+        }
+      ]
+    },
+    {
+      "id": "timelapse-long-term-gopro-mount",
+      "pain": "A cheap GoPro tripod has to stay put outdoors for weeks or months",
+      "details": "Construction and garden timelapse shooters want a small tripod they can stake down for months; light tripods tip in a breeze.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/",
+        "https://www.reddit.com/r/gopro/comments/1eplrr3/tripod_for_downward_pointing_gopro/"
+      ],
+      "quotes": [
+        {
+          "text": "Is there a cheap tripod anyone might recommend that I could stake into the ground to keep steady over 2-3 months?",
+          "url": "https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/"
+        }
+      ]
+    }
+  ]
+}
