@@ -7801,7 +7801,7 @@
     "publishedAt": "2026-11-02T11:32:19.071Z"
   },
   {
-    "status": "in-progress",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-01T11:52:28.930Z",
     "secondaryKeywords": [
@@ -7828,7 +7828,8 @@
     },
     "slug": "best-tripod-for-headshots",
     "productCount": 6,
-    "startedAt": "2026-11-04T11:25:26.270Z"
+    "startedAt": "2026-11-04T11:25:26.270Z",
+    "publishedAt": "2026-11-04T11:38:50.849Z"
   },
   {
     "status": "published",

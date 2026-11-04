@@ -1,0 +1,299 @@
+{
+  "centralEntity": "tripod for recording school plays",
+  "entityVariants": [
+    "school play tripod",
+    "tripod for filming school plays",
+    "tripod for stage performances",
+    "tripod for recording concerts",
+    "video tripod for school events",
+    "tripod for recording dance recitals"
+  ],
+  "entities": [
+    { "name": "Tripod", "type": "product type", "relation": "three-legged stand that holds the camera still through a whole performance", "salience": 0.8, "pages": 4 },
+    { "name": "Camera", "type": "device", "relation": "camcorder, mirrorless camera or phone recording the stage", "salience": 0.71, "pages": 4 },
+    { "name": "Tripod head", "type": "component", "relation": "fluid video head that pans and tilts smoothly to follow actors", "salience": 0.73, "pages": 2 },
+    { "name": "Fluid head", "type": "component", "relation": "viscous drag for smooth pans; not needed for a locked-off wide shot", "salience": 0.5, "pages": 3 },
+    { "name": "Videography", "type": "activity", "relation": "recording the play as one continuous take from the audience", "salience": 0.48, "pages": 2 },
+    { "name": "Manfrotto", "type": "brand", "relation": "maker of the MVK500AM and Befree Live video tripods", "salience": 0.46, "pages": 3 },
+    { "name": "Camera lens", "type": "component", "relation": "zoom lens framing the whole stage from the back row", "salience": 0.39, "pages": 2 },
+    { "name": "Auditorium", "type": "place", "relation": "where the camera has to see over seated and standing audience members", "salience": 0.4, "pages": 3 },
+    { "name": "Stage lighting", "type": "condition", "relation": "bright faces on a dark stage that fool auto exposure and autofocus", "salience": 0.35, "pages": 2 },
+    { "name": "Filmmaking", "type": "field", "relation": "source of the fluid-head, drag and counterbalance vocabulary", "salience": 0.29, "pages": 2 }
+  ],
+  "attributes": [
+    "maximum height vs a standing adult in front (Tripod)",
+    "minimum and folded length for carrying into the hall (Tripod)",
+    "fluid head drag and tilt behaviour (Tripod head)",
+    "load rating vs camcorder or mirrorless weight (Camera)",
+    "bowl leveling and bubble level (Tripod head)",
+    "leg lock type and spreader footprint in an aisle (Tripod)",
+    "weight to carry from the car park (Tripod)"
+  ],
+  "ngrams": [
+    "school play",
+    "over people's heads",
+    "fluid head",
+    "back of the auditorium",
+    "whole stage",
+    "tall tripod",
+    "video tripod",
+    "pan and tilt",
+    "stage lighting",
+    "wide shot"
+  ],
+  "skipgrams": [
+    "tripod…heads",
+    "camera…stage",
+    "fluid…head",
+    "legs…aisle",
+    "focus…stage lighting",
+    "pan…tilt"
+  ],
+  "nlpTerms": [
+    "auditorium",
+    "camcorder",
+    "zoom",
+    "manual focus",
+    "exposure",
+    "mid-level spreader",
+    "75mm bowl",
+    "bubble level",
+    "locked-off",
+    "recital"
+  ],
+  "questions": [
+    "What is the best tripod for recording a school play?",
+    "How tall should a tripod be to film over the audience?",
+    "Do I need a fluid head to record a school play?",
+    "Can I record a school play with a phone on a tripod?",
+    "Where should I set up a tripod in the auditorium?",
+    "What frame rate should I use under stage lights?",
+    "How many inches does a tripod need above a standing adult?"
+  ],
+  "contentGaps": [
+    "No top result checks each tripod's maximum height against an average standing adult in the row in front",
+    "No result gives a chooser by where the parent sits (seated rows, aisle, balcony, back wall)",
+    "Comedy and recital pages list pro tripods but ignore carrying weight for a parent walking in from the car park",
+    "Forum threads describe heads blocking the shot and tripods being bumped but no page pairs each problem with a tripod fix"
+  ],
+  "commonPoints": [
+    "Always use a tripod; handheld video of a long show wobbles",
+    "A tall tripod helps the camera see over audience heads",
+    "A fluid head gives smoother pans if you follow the action",
+    "Set exposure and focus manually because stage lighting fools auto modes",
+    "Bring spare batteries and storage for the whole show"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Height clearance check: the average US man stands 68.9 in (CDC); the NEEWER 79 in tops that by about 9.8 in, the GEEKOTO by 8.1 in (column up), the AD-01 by 4.3 in, while the MVK500AM (60.6 in) and Befree Live (59.45 in) only clear seated rows.",
+      "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "absentFrom": [
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by seat: back wall or standing crowd (NEEWER 79 in), back row on a budget (GEEKOTO), all-round parent kit (AD-01), official school video with pans (MVK500AM), carried in a tote to a seat on the aisle (Befree Live).",
+      "source": "maker specs (SmallRig, NEEWER, GEEKOTO listing, Manfrotto)",
+      "absentFrom": [
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Carry weight vs height: GEEKOTO 3.1 lb for 77 in, Befree Live 4.41 lb for 59.45 in, MVK500AM 3.56 kg (7.8 lb) for 60.6 in, AD-01 4 kg (8.8 lb) for 73.2 in, NEEWER 9.87 lb for 78.7 in.",
+      "source": "maker and listing specs",
+      "absentFrom": [
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "A tall person walks in front: Tim Ford keeps a locked-off wide camera on a tall tripod as a backup angle because someone tall still walked in front of his raised camera; for a parent, the fix is a tall tripod at the back wall framing the whole stage.",
+      "source": "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/",
+      "absentFrom": [
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "school-plays-heads-block-shot",
+      "pain": "Heads and tall people walk into the shot of the stage",
+      "details": "Parents and recital videographers find audience heads in the frame, and someone tall walks in front of a raised camera even when standing on a chair.",
+      "sources": [
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/",
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://www.reddit.com/r/videography/comments/s99221/tall_tripod_recommendation_for_event_shooting_or/"
+      ],
+      "quotes": [
+        {
+          "text": "invariably someone really tall would still walk directly in front of me, ruining my shot",
+          "url": "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+        }
+      ]
+    },
+    {
+      "id": "school-plays-tripod-bumped",
+      "pain": "The tripod gets bumped or kicked in a crowded hall",
+      "details": "Event shooters worry about people knocking a tripod in the aisle; one r/videography poster keeps the concert camera next to the front-of-house desk so people can watch it.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/",
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "school-plays-jerky-pans",
+      "pain": "Pans and tilts look jerky, or constant zooming makes the video hard to watch",
+      "details": "Budget heads can stick at the start of a tilt; Instructables warns that fast zooms and constant panning make viewers seasick and suggests a set-and-leave wide shot.",
+      "sources": [
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+        "https://www.reddit.com/r/videography/comments/204mrh/has_anyone_used_the_manfrotto_mvk500am_tripod/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "school-plays-stage-light-exposure",
+      "pain": "Stage lighting blows out faces and autofocus hunts when the lights change",
+      "details": "Auto exposure reads the dark background and overexposes faces; autofocus searches in the dark before the lights come up. Both sources set exposure and focus manually.",
+      "sources": [
+        "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "68.9 inches",
+      "claim": "measured average height of US men aged 20 and older",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Height in inches: 68.9"
+    },
+    {
+      "number": "85–186 cm",
+      "claim": "SmallRig AD-01 working height, 8 kg tripod load, 4 kg net weight",
+      "url": "https://www.smallrig.com/blog/how-to-choose-camera-tripod-height.html",
+      "quote": "with a working height of 85–186 cm, an 8 kg tripod load capacity, and a 4 kg aluminum double-tube build"
+    },
+    {
+      "number": "154 cm",
+      "claim": "Manfrotto MVK500AM maximum height",
+      "url": "https://www.manfrotto.com/global-en/tripod-with-fluid-video-head-lightweight-with-side-lock-mvk500am/",
+      "quote": "Max height 154 cm"
+    }
+  ],
+  "videos": [
+    {
+      "id": "wZdxbJdOpQg",
+      "title": "A Video Tripod for Every Budget: Ultimate Comparison",
+      "channel": "Mark Wiemels",
+      "url": "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+      "section": "The 5 best tripods for recording school plays, reviewed"
+    }
+  ],
+  "outline": [
+    { "h2": "School play tripod heights compared with a standing adult", "intent": "comparison table and height math", "h3": [] },
+    { "h2": "How I picked these tripods for recording school plays", "intent": "method", "h3": [] },
+    { "h2": "The 5 best tripods for recording school plays, reviewed", "intent": "product reviews", "h3": ["SmallRig AD-01", "NEEWER 79 inch Video Tripod", "GEEKOTO 77 inch Video Tripod", "Manfrotto MVK500AM", "Manfrotto Befree 3-Way Live Advanced"] },
+    { "h2": "How to set up a tripod to record a school play", "intent": "how-to steps", "h3": [] },
+    { "h2": "School play tripod problems parents run into, and the fix", "intent": "pain points", "h3": [] }
+  ],
+  "targetWords": 1550,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.instructables.com/How-to-Videotape-the-School-Play-or-Concert/",
+      "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+      "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/",
+      "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+      "https://expertphotography.com/best-video-tripod"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The ranking pages are how-to guides and practitioner write-ups (Instructables, Tim Ford, Memphis Stand Up Comedy) that describe each tripod in a short paragraph; none shows pros/cons lists or spec tables per product.",
+    "avgWords": 1480,
+    "avgWordsNote": "Approximate body word counts without navigation and comments: Instructables 1,250, Memphis Stand Up Comedy 1,350, Tim Ford 1,850. The Facebook group, Reddit and Quora results could not be opened (excerpts only); YouTube results are videos.",
+    "avgProducts": 4,
+    "commonSections": [
+      "use a tripod",
+      "tall tripod to clear heads",
+      "fluid head for pans",
+      "manual exposure and focus under stage lights",
+      "batteries and storage",
+      "where to set up in the venue"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.facebook.com/groups/forbandparents/posts/771844495675326/", "title": "I would like to get a tripod for recording performances. Can ..." },
+    { "position": 2, "url": "https://www.youtube.com/watch?v=0Uzg81vG2-I", "title": "The BEST Tripod for Your Home studio? - YouTube" },
+    { "position": 3, "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives", "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |" },
+    { "position": 4, "url": "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/", "title": "What tripod can you recommend? : r/videography - Reddit" },
+    { "position": 5, "url": "https://www.youtube.com/watch?v=4VM7xiCL_u0", "title": "My Favorite Tripod for Filming Art & Tutorials - YouTube" },
+    { "position": 6, "url": "https://www.quora.com/Which-is-the-best-mobile-tripod-with-which-I-can-record-my-best-video-of-singing-for-YouTube", "title": "Which is the best mobile tripod with which I can record my best video of ..." },
+    { "position": 7, "url": "https://www.amazon.com/Best-Sellers-Camera-Tripods-Monopods/zgbs/electronics/499306", "title": "Amazon Best Sellers: Best Camera Tripods & Monopods" },
+    { "position": 8, "url": "https://www.edthena.com/one-easiest-ways-can-capture-better-classroom-video-tripod/", "title": "One of the Easiest Ways You Can Capture Better Classroom Video" },
+    { "position": 9, "url": "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "title": "Best Tripods for Recording Stand Up Comedy" },
+    { "position": 10, "url": "https://www.theschoolofphotography.com/tutorials/best-tripods", "title": "Best Tripods for Photography – Complete Buying Guide" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": ["best tripod", "recording", "performances", "video", "filming"],
+    "gap": "No top-10 title is a roundup for school plays at all; results are a Facebook question, YouTube studio videos, art and comedy pages. A title with the exact keyword, a year, a pick count and the over-the-heads benefit is unclaimed."
+  },
+  "serpProducts": [
+    { "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://www.youtube.com/watch?v=wZdxbJdOpQg", "https://www.digitalcameraworld.com/buying-guides/best-video-tripod"] },
+    { "name": "NEEWER 79 inch (200cm) Video Tripod with Fluid Drag Head", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://expertphotography.com/best-video-tripod"] },
+    { "name": "GEEKOTO 77 inch Video Tripod with Fluid Head", "pages": ["https://expertphotography.com/best-video-tripod", "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/"] },
+    { "name": "Manfrotto MVK500AM (500 fluid head + MVT502AM twin legs)", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"] },
+    { "name": "Manfrotto Befree 3-Way Live Advanced", "pages": ["https://expertphotography.com/best-video-tripod", "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"] },
+    { "name": "Libec TH-X (not used: only one clear top-10 recommendation)", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy"] },
+    { "name": "NEEWER TP75 (not used: only one top-10 page for this search family)", "pages": ["https://www.youtube.com/watch?v=wZdxbJdOpQg"] }
+  ],
+  "internalLinkCandidates": [
+    "best-video-tripod-with-fluid-head-for-beginners",
+    "how-tall-should-a-tripod-be-for-my-height",
+    "best-tripod-for-filming-sports",
+    "video-tripod-bowl-size-explained-75mm-vs-100mm",
+    "best-tripod-for-youtube-videos"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-filming-sports",
+      "find": "The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd.",
+      "replace": "The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd, and the same height math applies to [recording school plays](/blog/best-tripod-for-recording-school-plays/)."
+    },
+    {
+      "slug": "best-video-tripod-with-fluid-head-for-beginners",
+      "find": "That saves time when you switch between handheld and locked-off shooting.",
+      "replace": "That saves time when you switch between handheld and locked-off shooting, as when [recording school plays](/blog/best-tripod-for-recording-school-plays/) from the back row."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for recording concerts",
+    "tripod for filming stage performances",
+    "best tripod for recording dance recitals",
+    "tripod for filming school plays",
+    "tall tripod for recording school events",
+    "best video tripod for school concerts"
+  ],
+  "angle": "Match the tripod's real maximum height to where you will sit or stand in the hall, and keep the wide shot locked off, instead of buying pro pan heads you will not use.",
+  "textrazor": {
+    "ran": true,
+    "pagesAnalyzed": 5,
+    "file": "data/briefs/best-tripod-for-recording-school-plays.entities.json",
+    "note": "Shared entities: Tripod (photography), Camera, Manfrotto, Tripod head, Videography, Camera lens, Fluid, Filmmaking; dropped View camera (large-format camera, off-topic)."
+  }
+}

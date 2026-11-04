@@ -1,0 +1,105 @@
+{
+  "keyword": "best tripod for recording school plays",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
+    },
+    {
+      "entity": "Videography",
+      "type": "/book/periodical_subject",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Videography",
+      "wikidata": "Q2662841",
+      "kgmid": "/m/05kcv5"
+    },
+    {
+      "entity": "View camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/View_camera",
+      "wikidata": "Q313812",
+      "kgmid": "/m/0k_z6"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "wikidata": "Q192234",
+      "kgmid": "/m/01bjxx"
+    },
+    {
+      "entity": "Fluid",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Fluid",
+      "wikidata": "Q102205",
+      "kgmid": "/m/02yfx"
+    },
+    {
+      "entity": "Filmmaking",
+      "type": "/media_common/media_genre",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Filmmaking",
+      "wikidata": "Q932586",
+      "kgmid": "/m/03r8gp"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    }
+  ]
+}

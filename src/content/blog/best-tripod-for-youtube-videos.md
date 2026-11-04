@@ -316,6 +316,7 @@ heroAlt: >-
   Best Tripod for YouTube Videos – Talking Head, Overhead and Pans – Best Tripod
   buying guide
 related:
+  - best-tripod-for-recording-school-plays
   - best-tripod-for-sony-fx3
   - best-tripod-for-filming-sports
 ---

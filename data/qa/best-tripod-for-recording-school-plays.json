@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-recording-school-plays",
+  "pass": true,
+  "checkedAt": "2026-11-04T11:38:15.630Z",
+  "errors": [],
+  "warnings": [
+    "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER 79 inch Video Tripod with Fluid Drag Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"GEEKOTO 77 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto MVK500AM Lightweight Fluid Video System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-04 with Firecrawl: SmallRig AD-01 85-186 cm, 8 kg legs, 4 kg (smallrig.com blog; Amazon B09X2X2BKC in stock, ships from Amazon, title 73.2 in); NEEWER TP-M200 78.7 in max, 34.6 in min, 35.8 in folded, 9.87 lb, 17.6 lb, 70mm bowl, 3 sections flip locks, pan 360 tilt -70/+90 (neewer.com; Best Buy spec; Amazon B09VL46P6R in stock, ships from Amazon); GEEKOTO US-AT24Vid 77 in, 24 in min, 19.5 in folded, 3.1 lb, 20 lb, fluid head +90/-70 (Amazon B07WN2VNJP listing, ExpertPhotography); Manfrotto MVK500AM 154 cm, 67.5 cm min, 72 cm closed, 3.56 kg, 8 kg, fluid cartridges pan/tilt, side lock, fixed 2.4 kg counterbalance, MVH500A + MVT502AM (manfrotto.com, DPReview; Amazon B00CL9CHNQ in stock sold by Amazon); Befree 3-Way Live Advanced 59.45 in, 15.75 in folded, 4.41 lb, 13.23 lb (existing verified data; Amazon B08F9JRDSY in stock sold by Amazon). CDC FastStats men 68.9 in; height differences computed. Quotes: Tim Ford quote verbatim on timfordphoto.com; Instructables set-and-leave and seasick advice; Wiemels transcript (AD-01 for plays, TP75 sticky tilt); Nate's Film Tutorials loose pan no tension; r/videography snippets (MVK500AM start/stop rough, Geekoto tallest, FOH camera).",
+    "at": "2026-11-04T11:38:15.098Z",
+    "hash": "d3212c643b32c80b"
+  }
+}
