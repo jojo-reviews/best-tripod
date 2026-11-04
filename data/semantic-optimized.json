@@ -218,5 +218,45 @@
   "leveling-base-vs-leveling-column": {
     "at": "2026-11-03T17:54:13.542Z",
     "note": "TextRazor semantic pass: entities, self-contained H2 leads, filler cut"
+  },
+  "l-bracket-for-landscape-photography": {
+    "at": "2026-11-04T17:58:07.404Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-nikon-p1000": {
+    "at": "2026-11-04T17:58:07.925Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "can-you-use-any-tripod-for-a-camera": {
+    "at": "2026-11-04T17:58:08.469Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-gym-videos": {
+    "at": "2026-11-04T17:58:08.976Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-fujifilm-x100vi": {
+    "at": "2026-11-04T17:58:09.529Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-laser-level": {
+    "at": "2026-11-04T17:58:10.101Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-dji-osmo-action-5-pro": {
+    "at": "2026-11-04T17:58:10.724Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-medium-format-camera": {
+    "at": "2026-11-04T17:58:11.293Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-quick-release-plate": {
+    "at": "2026-11-04T17:58:11.806Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-under-100": {
+    "at": "2026-11-04T17:58:12.402Z",
+    "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
   }
 }

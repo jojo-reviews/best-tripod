@@ -1140,5 +1140,45 @@
   "qid": "Q174565",
   "description": "tall punctuation mark typically used in matched pairs within text, to set apart or interject other text; opening and closing, or left and right symbols",
   "kgmid": "/m/0g58v"
+ },
+ "Laser level": {
+  "qid": "Q3441395",
+  "description": "laser tool with rotating, strong dot, often suitable for outdoor use",
+  "kgmid": "/m/02p45tb"
+ },
+ "Construction": {
+  "qid": "Q3875186",
+  "description": "process of the building or assembling of a building or infrastructure",
+  "kgmid": "/g/1222ns47"
+ },
+ "Surveying": {
+  "qid": "Q816425",
+  "description": "field of activity involving locating terrestrial points and the distances and angles between them",
+  "kgmid": "/m/0gjm7"
+ },
+ "Measurement": {
+  "qid": "Q12453",
+  "description": "process of assigning quantities to objects or events",
+  "kgmid": "/m/04t14"
+ },
+ "Nikon Coolpix P1000": {
+  "qid": "Q56277951",
+  "description": "digital bridge camera",
+  "kgmid": "/g/11f8p35_5m"
+ },
+ "Nikon Coolpix": {
+  "qid": "Q1196511",
+  "description": "digital compact cameras in many variants produced by Nikon",
+  "kgmid": "/m/03zm6r"
+ },
+ "Page orientation": {
+  "qid": "Q1282315",
+  "description": "the way in which a rectangular page is oriented for normal viewing",
+  "kgmid": "/m/0chmy5"
+ },
+ "Lens mount": {
+  "qid": "Q205722",
+  "description": "interface between a photographic camera body and a lens",
+  "kgmid": "/g/121p6hp2"
  }
 }

@@ -1,29 +1,18 @@
 {
   "slug": "l-bracket-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-04T16:33:31.039Z",
+  "checkedAt": "2026-11-04T17:53:23.834Z",
   "errors": [],
   "warnings": [
-    "illustration \"Hands tightening an L bracket's mounting\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Switching a camera on an L bracket from \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Sliding the L bracket's side arm out to \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Brushing sand out of an L bracket's dove\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "FAQ \"How much weight does an L bracket add?\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "1 section(s) open with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/why-an-l-bracket.4733453/",
-    "source didn't respond normally (403): https://www.capturelandscapes.com/l-bracket-for-landscape-photography/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/6ooi9m/avoiding_tripod_camera_slip_in_portrait/",
-    "source didn't respond normally (403): https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Guide, no products. Verified against sources opened with Firecrawl 2026-10-30: RRS MC-LS Mk2 page (Weight 4.16 oz (118 g), center of mass over tripod apex, under 0.3 lb), RRS BP-CS page (Weight 1.6 oz (46 g)); 2.6 oz/72 g difference calculated. Fitting, switching and maintenance steps match the RRS L-Brackets and Base Plates install guide (clean surfaces, align 1/4-20 screw, seat anti-twist flange, snug without over-tightening, check doors/ports and screen articulation, mount both ways, screw-knob clamp half turn, centering index mark, safety stop screw, check fasteners after travel, light rinse no harsh solvents, no lubrication). DPReview 'Why an L bracket' quotes copied verbatim (notch weight distribution/tip over; lip/loosen; 'a lot of bracket when hiking around in landscape photography' about the Digital Pro-SV; tclune on camera-specific brackets for leaving on). CaptureLandscapes: universal brackets block battery door, dedicated can crowd left-side remote port. Views Infinitum: switch took less than 10 seconds. NPN thread: starter with Manfrotto RC2 asked about L brackets. Peak Design safety-screw fix from the r/nikon_Zseries quote in data/pain-points.json. r/photography 6ooi9m excerpt recommends an L-bracket. Video XRZ22cDJTWw is Kyle Goetsch's 'Why an L-bracket is ESSENTIAL for Landscape Photography'. No prices, ratings or testing claims.",
-    "at": "2026-10-30T02:08:27.333Z",
-    "hash": "526656cd2713a6d6"
+    "notes": "Semantic pass 2026-11-04 (review only): added lens mount/tripod collar advice (standard practice for heavy telephotos), makers Really Right Stuff, Kirk and SmallRig sell camera-specific and universal L brackets (maker catalogs, Views Infinitum, Fstoppers); RRS weights 4.16 oz / 1.6 oz unchanged from maker pages; FAQ answers reordered answer-first; filler cut. No new prices, ratings or tests.",
+    "at": "2026-11-04T17:53:22.857Z",
+    "hash": "37ac9c488919ed62"
   }
 }

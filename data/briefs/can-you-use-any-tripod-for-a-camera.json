@@ -12,29 +12,29 @@
       "name": "tripod",
       "type": "Product",
       "relation": "central entity",
-      "salience": 0.95,
+      "salience": 0.98,
       "pages": 3
     },
     {
       "name": "tripod head",
       "type": "Part",
       "relation": "connects the legs to the camera; decides the plate system",
-      "salience": 0.72,
+      "salience": 0.84,
       "pages": 3
     },
     {
       "name": "camera",
       "type": "Product",
       "relation": "payload that screws onto the tripod",
-      "salience": 0.69,
+      "salience": 0.66,
       "pages": 3
     },
     {
-      "name": "screw thread",
-      "type": "Standard",
-      "relation": "1/4-20 UNC on the camera, 3/8-16 UNC on heads and pro gear",
-      "salience": 0.6,
-      "pages": 2
+      "name": "weight",
+      "type": "Attribute",
+      "relation": "body plus lens weight must stay under the tripod load rating",
+      "salience": 0.59,
+      "pages": 3
     },
     {
       "name": "quick release plate",
@@ -65,18 +65,32 @@
       "pages": 2
     },
     {
+      "name": "height",
+      "type": "Attribute",
+      "relation": "comfort spec, not a fit check",
+      "salience": 0.46,
+      "pages": 3
+    },
+    {
+      "name": "aluminium",
+      "type": "Material",
+      "relation": "leg material; changes tripod weight, not camera fit",
+      "salience": 0.46,
+      "pages": 2
+    },
+    {
+      "name": "carbon fiber",
+      "type": "Material",
+      "relation": "leg material, lighter not stronger",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
       "name": "ISO 1222",
       "type": "Standard",
       "relation": "international standard for tripod screw connections",
       "salience": 0.4,
       "pages": 1
-    },
-    {
-      "name": "mirrorless camera",
-      "type": "Product",
-      "relation": "typical payload",
-      "salience": 0.29,
-      "pages": 2
     },
     {
       "name": "ball head",
@@ -86,10 +100,17 @@
       "pages": 3
     },
     {
-      "name": "carbon fiber",
-      "type": "Material",
-      "relation": "leg material, lighter not stronger",
-      "salience": 0.3,
+      "name": "gimbal head",
+      "type": "Part",
+      "relation": "head type for heavy telephoto lenses",
+      "salience": 0.33,
+      "pages": 2
+    },
+    {
+      "name": "screw thread",
+      "type": "Standard",
+      "relation": "1/4-20 UNC on the camera, 3/8-16 UNC on heads and pro gear",
+      "salience": 0.32,
       "pages": 2
     },
     {
@@ -97,6 +118,27 @@
       "type": "Product",
       "relation": "needs a phone clamp adapter",
       "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "photographer",
+      "type": "Role",
+      "relation": "community answers quoted",
+      "salience": 0.28,
+      "pages": 2
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "Product",
+      "relation": "typical payload",
+      "salience": 0.26,
+      "pages": 2
+    },
+    {
+      "name": "telephoto lens",
+      "type": "Product",
+      "relation": "heavy lens that needs a lens foot plate and strong head",
+      "salience": 0.26,
       "pages": 2
     },
     {
@@ -114,7 +156,9 @@
     "quick release plate system (Arca-Swiss, Manfrotto RC2/200PL, Peak Design)",
     "tripod head type",
     "height without the center column",
-    "adapter needed (phone clamp, action cam mount, 3/8 bushing)"
+    "adapter needed (phone clamp, action cam mount, 3/8 bushing)",
+    "leg material (aluminium or carbon fiber)",
+    "head type for long lenses (ball head vs gimbal head)"
   ],
   "ngrams": [
     "tripod mount",
@@ -126,14 +170,19 @@
     "arca swiss",
     "any camera",
     "load capacity",
-    "center column"
+    "center column",
+    "camera tripod",
+    "tripod legs",
+    "telephoto lens"
   ],
   "skipgrams": [
     "tripod…camera",
     "plate…clamp",
     "camera…lens weight",
     "screw…thread",
-    "head…plate"
+    "head…plate",
+    "tripod…weight",
+    "legs…head"
   ],
   "nlpTerms": [
     "UNC",
@@ -147,7 +196,11 @@
     "phone clamp",
     "lens collar",
     "mirrorless",
-    "DSLR"
+    "DSLR",
+    "gimbal",
+    "aluminium",
+    "carbon fiber",
+    "payload"
   ],
   "questions": [
     "Do all tripods fit all cameras?",
@@ -460,6 +513,22 @@
       "appliedAt": "2026-10-30T17:44:06.804Z"
     }
   ],
-  "textrazor": "ran on The School of Photography, K&F Concept and Canon/TechGearLab pages (Photo Stack Exchange blocked the fetcher); sharedEntities in data/briefs/can-you-use-any-tripod-for-a-camera.entities.json",
+  "textrazor": {
+    "date": "2026-11-04",
+    "pagesAnalyzed": 4,
+    "urls": [
+      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443",
+      "https://www.ulanzi.com/blogs/guides/tripod-for-camera-perfect-fit-guide",
+      "https://photzy.com/are-all-tripods-the-same/"
+    ],
+    "missingFromPostBefore": [
+      "Height",
+      "Aluminium",
+      "Carbon-fiber reinforced polymer",
+      "Gimbal",
+      "Photographer"
+    ]
+  },
   "postType": "guide"
 }

@@ -1,33 +1,23 @@
 {
   "slug": "best-tripod-for-medium-format-camera",
   "pass": true,
-  "checkedAt": "2026-11-03T16:29:56.923Z",
+  "checkedAt": "2026-11-04T17:54:01.438Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with 3-Way Head (MK055XPRO3-3W)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT055CXPRO3 Carbon Fiber 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO3 Aluminum 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hand weighing a medium format film camer\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Photographer looking down into a waist-l\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hand firing a medium format camera on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1183070-REG/manfrotto_mt055cxpro3_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034143-REG/manfrotto_mk055xpro3_3w_mt055xpro3_3w_aluminum_tripod_with.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1013304-REG/manfrotto_190xpro3_compact_3_section.html/reviews",
-    "source didn't respond normally (403): https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
-    "source didn't respond normally (403): https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-31 via Firecrawl: Gitzo GT3543LS (gitzo.com: 2.03 kg, 25 kg payload, 9-146 cm, 57 cm folded, 32.9 mm top tube, G-Lock Ultra, no column; Amazon B01LYF8GDN in stock, sold by Amazon). Manfrotto MK055XPRO3-3W (manfrotto.com: 3.5 kg, 183/153 cm, 9 cm min, 74 cm closed, 12 kg UNI/PdR 105:2021, flip lock, 200PL-14, MHXPRO-3W; Amazon B00ICFIV74 sold by Amazon). Manfrotto MT055CXPRO3 (manfrotto.com + B&H: 2.1 kg, 170/140 cm, 63 cm, 20 kg UNI payload, 29.2/24.8/20.4 mm tubes; Amazon B00IQ7PSY2 sold by Amazon). Manfrotto MT190XPRO3 (manfrotto.com: 2 kg, 160/135 cm, 59 cm, 15 kg UNI, 26/22.5/19 mm tubes; Amazon B00G36G7WU sold by Amazon). Peak Design Travel Tripod carbon (1.27 kg, 152.4/130.2 cm, 14 cm min, 39.4 cm, 9.1 kg per SheClicks/Peak spec; Amazon B085BQTQMN). Stats: RB67 Pro-SD total 2,645 g (Mamiya brochure PDF), GFX100S II approx. 883 g (fujifilm-x.com). Headroom ratios recalculated. Quotes: Photrio 'A flimsy tripod is worse than no tripod at all.' confirmed via search excerpt at thread URL; Ben Horne ballhead quote confirmed on benhorne.com. Owner claims checked against Richard Pickup, Talk Photography, Fred Miranda, Photrio, Reddit excerpts. Removed unverified Peak Arca-plate claim.",
-    "at": "2026-10-31T10:32:21.095Z",
-    "hash": "f4941481727be185"
+    "notes": "2026-11-04 semantic pass: TextRazor on Fstoppers, Ben Horne, Unique Photo, Majestic Nature; added long-exposure photography sentence (general physics, no new numbers); renamed first H2 to a load-headroom comparison (2,645 g RB67 and 4x headroom from existing table/brochure); answer-first FAQ and 'Which one' openers reuse existing specs (12 kg, 9 kg, 2,645 g, 883 g). No new prices, ratings, tests or ASIN changes.",
+    "at": "2026-11-04T17:53:49.414Z",
+    "hash": "02378c04345204c8"
   }
 }

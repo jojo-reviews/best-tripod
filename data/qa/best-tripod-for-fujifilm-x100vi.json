@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-fujifilm-x100vi",
   "pass": true,
-  "checkedAt": "2026-11-04T09:28:36.099Z",
+  "checkedAt": "2026-11-04T17:52:59.212Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,25 +9,13 @@
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hands attaching a quick-release plate un\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Travel tripod with legs spread wide, col\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "section \"The 5 best tripods for the Fujifilm X100VI, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (no response): https://www.packhacker.com/blog/general/best-travel-tripod/",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
-    "source didn't respond normally (403): https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "X100VI 521 g / 471 g, 6-stop IBIS, 2 s self-timer, bulb 60 min verified on fujifilm-x.com specs; socket moved vs X100V per davidroessli.com and r/fujifilm PSA. SIRUI 5CX specs (5-section carbon, twist locks, 51.97 in max, 3.54 in min, 12.4 in folded, legs 0.72 kg / 4 kg, B-00K head 10 kg, Arca, about 2 lb) on store.sirui.com and Amazon B07KD3R47X (in stock, sold by Amazon). Peak Design Aluminum (3.44 lb, 60/51.25 in, 5.5 in min, 15.5 in, 9.1 kg) per Peak Design/ShutterMuse/Pack Hacker/Fstoppers; Befree Advanced lever (50.39/59.45 in, 15.75 in, 9 kg, 494 head, 200PL PRO) per Manfrotto; PIXI EVO (0.26 kg, 20 cm, 20.5 cm folded, 2.5 kg) per B&H/Pack Hacker; GorillaPod 3K Kit (6.6 lb, 12 in, ball head, QR plate) per B&H. Amazon US stock checked 2026-10-30 via Firecrawl: B085BQS6K4, B07KD3R47X, B0772WLSHZ, B0152X16XO, B074WC9YKL in stock; Ulanzi Zero Y unavailable (dropped). Owner quotes copied from search excerpts / scraped pages (dpreview, davidroessli, reddit excerpts).",
-    "at": "2026-10-30T10:35:09.612Z",
-    "hash": "73ef6c41d8784e8a"
+    "notes": "semantic pass 2026-11-04 (review only): TextRazor entities Fujifilm, Camera, Fujifilm X series, selfie, low-angle shot, camera gear worked in; X100VI = sixth X100 model (X100, S, T, F, V, VI); PIXI EVO 2.4 in min height from B&H spec; first H2 renamed to a comparison heading, central entity in H2s/topic sentences; FAQ openings answer first; captions added; no product, price or rating changed",
+    "at": "2026-11-04T17:53:13.538Z",
+    "hash": "23474d7723304983"
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-gym-videos",
   "pass": true,
-  "checkedAt": "2026-11-04T16:30:08.039Z",
+  "checkedAt": "2026-11-04T17:53:49.530Z",
   "errors": [],
   "warnings": [
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,24 +9,14 @@
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Phone tripod set at knee height at a 45 \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands fitting a cased phone into a tripo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Gym tripod placed against the wall with \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "FAQ \"Will a big phone in a case fit a phone tripod clam\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/peak-design-travel-tripod-review/",
-    "source didn't respond normally (403): https://metric.coach/articles/best-gym-tripod-for-phones",
-    "source didn't respond normally (403): https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/",
-    "source didn't respond normally (403): https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-golf-swing-recording, no claim changed",
-    "at": "2026-11-03T16:24:45.899Z",
-    "hash": "c4b31aa9bfc24eb4"
+    "notes": "2026-11-04 semantic pass: no new prices, ratings or tests; specs unchanged (MT-44 60-80 mm clamp per B&H, iPhone 17 Pro Max 78.0 mm per Apple, Element MII 132 cm column down per Manfrotto, SIRUI 4 kg per SIRUI spec chart). FAQ answers and question sections now open with the answer; picks-at-a-glance H2 renamed to a comparison heading; duplicate verdict text trimmed. ASINs, URL, slug, keyword, pubDate unchanged.",
+    "at": "2026-11-04T17:53:42.575Z",
+    "hash": "9fb608cc610fed1b"
   }
 }

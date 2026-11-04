@@ -10,39 +10,116 @@
   ],
   "entities": [
     {
+      "name": "camera tripod",
+      "type": "product type",
+      "relation": "TextRazor 'Tripod (photography)': the three-legged camera support the page is about",
+      "salience": 0.94,
+      "pages": 4
+    },
+    {
       "name": "Tripod",
       "type": "product type",
       "relation": "three-legged camera support; the central entity",
-      "salience": 0.3,
+      "salience": 0.92,
       "pages": 2
     },
     {
       "name": "Tripod head",
       "type": "component",
       "relation": "ball head or 3-way pan head that holds and aims the camera",
-      "salience": 0.3,
+      "salience": 0.8,
+      "pages": 2
+    },
+    {
+      "name": "Photography",
+      "type": "activity",
+      "relation": "landscape, long-exposure and macro use cases a budget tripod serves",
+      "salience": 0.74,
       "pages": 2
     },
     {
       "name": "Camera",
       "type": "device",
       "relation": "what the tripod has to hold; its weight with the lens sets the load you need",
-      "salience": 0.3,
+      "salience": 0.68,
+      "pages": 4
+    },
+    {
+      "name": "Leg",
+      "type": "component",
+      "relation": "leg sections, leg locks and extending the thickest sections first decide stability",
+      "salience": 0.67,
       "pages": 2
     },
     {
-      "name": "Monopod",
-      "type": "product type",
-      "relation": "some budget tripods convert one leg plus the column into a monopod",
-      "salience": 0.3,
+      "name": "Height",
+      "type": "attribute",
+      "relation": "max height, height with the column down and min height",
+      "salience": 0.48,
+      "pages": 2
+    },
+    {
+      "name": "Budget",
+      "type": "attribute",
+      "relation": "the $100 price ceiling that defines the list",
+      "salience": 0.48,
+      "pages": 3
+    },
+    {
+      "name": "Load capacity",
+      "type": "attribute",
+      "relation": "rated payload; keep camera plus lens near half of it",
+      "salience": 0.45,
+      "pages": 4
+    },
+    {
+      "name": "Image stabilization",
+      "type": "camera feature",
+      "relation": "should be off on a tripod; listed by 2 top pages",
+      "salience": 0.44,
+      "pages": 2
+    },
+    {
+      "name": "Center column",
+      "type": "component",
+      "relation": "raising it adds height but reduces stability",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "K&F Concept",
+      "type": "brand",
+      "relation": "maker of the 64-inch travel tripod",
+      "salience": 0.35,
+      "pages": 4
+    },
+    {
+      "name": "Gear",
+      "type": "concept",
+      "relation": "camera plus lens weight the tripod must carry",
+      "salience": 0.35,
       "pages": 2
     },
     {
       "name": "Mirrorless camera",
       "type": "device",
       "relation": "the most common camera on a budget tripod today",
-      "salience": 0.3,
-      "pages": 2
+      "salience": 0.34,
+      "pages": 3
+    },
+    {
+      "name": "DSLR",
+      "type": "device",
+      "relation": "heavier body that needs more of the rated load",
+      "salience": 0.32,
+      "pages": 3
+    },
+    {
+      "name": "Weight",
+      "type": "attribute",
+      "relation": "tripod weight and gear weight decide portability and stability",
+      "salience": 0.32,
+      "pages": 3
     },
     {
       "name": "Carbon fiber",
@@ -55,13 +132,6 @@
       "name": "Aluminum",
       "type": "material",
       "relation": "leg material used by almost every tripod under $100",
-      "salience": 0.3,
-      "pages": 2
-    },
-    {
-      "name": "DSLR",
-      "type": "device",
-      "relation": "heavier body that needs more of the rated load",
       "salience": 0.3,
       "pages": 2
     },
@@ -80,41 +150,6 @@
       "pages": 2
     },
     {
-      "name": "Image stabilization",
-      "type": "camera feature",
-      "relation": "should be off on a tripod; listed by 2 top pages",
-      "salience": 0.3,
-      "pages": 2
-    },
-    {
-      "name": "Weight",
-      "type": "attribute",
-      "relation": "tripod weight and gear weight decide portability and stability",
-      "salience": 0.3,
-      "pages": 2
-    },
-    {
-      "name": "Height",
-      "type": "attribute",
-      "relation": "max height, height with the column down and min height",
-      "salience": 0.3,
-      "pages": 2
-    },
-    {
-      "name": "Center column",
-      "type": "component",
-      "relation": "raising it adds height but reduces stability",
-      "salience": 0.4,
-      "pages": 3
-    },
-    {
-      "name": "Load capacity",
-      "type": "attribute",
-      "relation": "rated payload; keep camera plus lens near half of it",
-      "salience": 0.45,
-      "pages": 4
-    },
-    {
       "name": "Arca-Swiss",
       "type": "standard",
       "relation": "quick-release plate standard on the K&F ball head",
@@ -122,18 +157,32 @@
       "pages": 3
     },
     {
-      "name": "K&F Concept",
-      "type": "brand",
-      "relation": "maker of the 64-inch travel tripod",
-      "salience": 0.35,
-      "pages": 4
-    },
-    {
       "name": "JOBY GorillaPod",
       "type": "product line",
       "relation": "flexible-leg mini tripod line",
       "salience": 0.3,
       "pages": 4
+    },
+    {
+      "name": "Monopod",
+      "type": "product type",
+      "relation": "some budget tripods convert one leg plus the column into a monopod",
+      "salience": 0.26,
+      "pages": 3
+    },
+    {
+      "name": "Wide-angle lens",
+      "type": "lens type",
+      "relation": "light lens that leaves more load headroom; watch for tripod legs at frame edges",
+      "salience": 0.24,
+      "pages": 2
+    },
+    {
+      "name": "Macro photography",
+      "type": "genre",
+      "relation": "close-ups of small objects; a tabletop tripod like the PIXI suits it",
+      "salience": 0.23,
+      "pages": 2
     }
   ],
   "attributes": [
@@ -147,7 +196,9 @@
     "head type (ball vs 3-way pan)",
     "quick-release plate standard (Arca-Swiss or proprietary)",
     "plastic vs metal parts",
-    "monopod conversion"
+    "monopod conversion",
+    "rated load as the deciding spec",
+    "low height for tabletop macro"
   ],
   "ngrams": [
     "tripod under $100",
@@ -161,7 +212,10 @@
     "travel tripod",
     "max height",
     "mini tripod",
-    "flip locks"
+    "flip locks",
+    "rated load",
+    "tripod head",
+    "wide-angle lens"
   ],
   "skipgrams": [
     "tripod…budget",
@@ -171,7 +225,10 @@
     "legs…extended",
     "plate…Arca",
     "folded…length",
-    "camera…lens"
+    "camera…lens",
+    "tripod…head",
+    "rated…load",
+    "wide-angle…frame"
   ],
   "nlpTerms": [
     "aluminum legs",
@@ -190,7 +247,11 @@
     "wind",
     "vlogging",
     "Arca-Swiss",
-    "1/4-20 screw"
+    "1/4-20 screw",
+    "macro photography",
+    "leg sections",
+    "gear weight",
+    "twist locks"
   ],
   "questions": [
     "What is the best tripod under $100?",
@@ -208,7 +269,7 @@
   ],
   "outline": [
     {
-      "h2": "Best tripod under $100 picks at a glance",
+      "h2": "Tripod under 100 dollars compared by rated load",
       "intent": "direct answer + comparison table",
       "h3": []
     },
@@ -582,5 +643,5 @@
     "best tripod for under 200"
   ],
   "angle": "Budget tripods matched to camera size with a load check from official weights, plus setup steps that make a cheap tripod steadier.",
-  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-under-100.entities.json); shared entities copied with relevance as salience."
+  "textrazor": "2026-11-04 semantic pass: scripts/textrazor-entities.mjs on 4 top pages (digitalcameraworld, sidecarphoto, packhacker, improvephotography; reddit thread blocked) -> data/briefs/best-tripod-under-100.entities.json; shared entities copied with relevance as salience. missingFromPost Wide-angle lens and Macro photography worked into the post."
 }

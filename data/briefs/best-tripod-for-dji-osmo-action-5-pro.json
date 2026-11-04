@@ -12,25 +12,25 @@
       "name": "DJI Osmo Action 5 Pro",
       "type": "camera",
       "relation": "the 146 g action camera the tripod holds",
-      "salience": 0.82
+      "salience": 0.86
     },
     {
       "name": "DJI",
       "type": "company",
       "relation": "camera maker; makes the Mini Extension Rod and 1.5m Extension Rod Kit",
-      "salience": 0.63
+      "salience": 0.54
     },
     {
       "name": "tripod",
       "type": "camera support",
       "relation": "the product type compared",
-      "salience": 0.52
+      "salience": 0.42
     },
     {
       "name": "selfie stick",
       "type": "camera support",
       "relation": "most picks are selfie-stick tripods that open into a stand",
-      "salience": 0.43
+      "salience": 0.37
     },
     {
       "name": "magnetic quick-release",
@@ -97,6 +97,30 @@
       "type": "shooting mode",
       "relation": "main reason to set an action camera on a tripod",
       "salience": 0.25
+    },
+    {
+      "name": "Osmo Action",
+      "type": "product line",
+      "relation": "DJI's action-camera line; the quick-release is shared by the Action 3, 4 and 5 Pro",
+      "salience": 0.86
+    },
+    {
+      "name": "DJI Osmo",
+      "type": "brand",
+      "relation": "DJI's handheld camera brand (Osmo Action, Pocket, Nano)",
+      "salience": 0.74
+    },
+    {
+      "name": "GoPro",
+      "type": "company",
+      "relation": "rival action camera; GoPro-style finger tripods need a DJI adapter",
+      "salience": 0.48
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "what every pick holds",
+      "salience": 0.28
     }
   ],
   "attributes": [
@@ -121,7 +145,10 @@
     "built-in tripod",
     "ball head",
     "cold shoe",
-    "1.5m extension rod"
+    "1.5m extension rod",
+    "osmo action selfie stick tripod",
+    "magnetic quick release design",
+    "shooting scenario"
   ],
   "skipgrams": [
     "action 5 pro…tripod",
@@ -129,7 +156,9 @@
     "selfie…stick",
     "ball…head",
     "extension…rod",
-    "tripod…legs"
+    "tripod…legs",
+    "osmo action…mini tripod",
+    "magnetic…quick release"
   ],
   "nlpTerms": [
     "vlogging",
@@ -148,7 +177,10 @@
     "tether",
     "wind",
     "POV",
-    "DJI Mic"
+    "DJI Mic",
+    "shooting",
+    "cost",
+    "built-in tripod"
   ],
   "questions": [
     "What tripod works with the DJI Osmo Action 5 Pro?",
@@ -521,64 +553,85 @@
     }
   ],
   "textrazor": {
+    "keyword": "best tripod for dji osmo action 5 pro",
     "pagesAnalyzed": 5,
     "sharedEntities": [
-      {
-        "entity": "DJI",
-        "type": "Agent",
-        "pages": 4,
-        "relevance": 0.63,
-        "wiki": "http://en.wikipedia.org/wiki/DJI"
-      },
-      {
-        "entity": "Tripod",
-        "type": "",
-        "pages": 3,
-        "relevance": 0.52,
-        "wiki": "http://en.wikipedia.org/wiki/Tripod"
-      },
-      {
-        "entity": "Selfie stick",
-        "type": "/business/product_category",
-        "pages": 3,
-        "relevance": 0.43,
-        "wiki": "http://en.wikipedia.org/wiki/Selfie_stick"
-      },
       {
         "entity": "Osmo Action",
         "type": "Company",
         "pages": 2,
-        "relevance": 0.82,
+        "relevance": 0.86,
         "wiki": ""
       },
       {
         "entity": "DJI Osmo",
         "type": "",
         "pages": 2,
-        "relevance": 0.68,
-        "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo"
+        "relevance": 0.74,
+        "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo",
+        "wikidata": "Q26721405"
+      },
+      {
+        "entity": "DJI",
+        "type": "Agent",
+        "pages": 2,
+        "relevance": 0.54,
+        "wiki": "http://en.wikipedia.org/wiki/DJI",
+        "wikidata": "Q16924332",
+        "kgmid": "/m/011smc7k"
+      },
+      {
+        "entity": "GoPro",
+        "type": "Agent",
+        "pages": 2,
+        "relevance": 0.48,
+        "wiki": "http://en.wikipedia.org/wiki/GoPro",
+        "wikidata": "Q733482",
+        "kgmid": "/m/0h1fd30"
+      },
+      {
+        "entity": "Tripod",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.42,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod",
+        "wikidata": "Q1444534",
+        "kgmid": "/m/0119d4g8"
+      },
+      {
+        "entity": "Selfie stick",
+        "type": "/business/product_category",
+        "pages": 2,
+        "relevance": 0.37,
+        "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
+        "wikidata": "Q18387942",
+        "kgmid": "/m/012c5w0g"
       },
       {
         "entity": "Camera",
         "type": "/fictional_universe/character_species",
         "pages": 2,
-        "relevance": 0.43,
-        "wiki": "http://en.wikipedia.org/wiki/Camera"
-      },
-      {
-        "entity": "Warranty",
-        "type": "/organization/organization_sector",
-        "pages": 2,
-        "relevance": 0.25,
-        "wiki": "http://en.wikipedia.org/wiki/Warranty"
-      },
-      {
-        "entity": "Selfie",
-        "type": "",
-        "pages": 2,
-        "relevance": 0.2,
-        "wiki": "http://en.wikipedia.org/wiki/Selfie"
+        "relevance": 0.28,
+        "wiki": "http://en.wikipedia.org/wiki/Camera",
+        "wikidata": "Q15328",
+        "kgmid": "/m/0dv5r"
       }
+    ],
+    "missingFromPost": [
+      "Cost",
+      "Shooting"
+    ],
+    "ignoredNoise": [
+      "Shooting (TextRazor matched the firearms sense)",
+      "Cost (generic; worked in as plain word, not a schema entity)"
+    ],
+    "date": "2026-11-04",
+    "pages": [
+      "https://store.dji.com/content/best-osmo-action-accessories-for-vlog",
+      "https://www.amazon.com/Quick-Release-Extendable-Extension-Accessories-Recording/dp/B0F7KJCJF1",
+      "https://www.youtube.com/watch?v=JhRDPPoem3E",
+      "https://www.facebook.com/groups/1191098443064833/posts/1402446458596696/",
+      "https://www.smallrig.com/Grip-Tripod-for-Action-Cameras-5435.html"
     ]
   },
   "pendingInlinks": [

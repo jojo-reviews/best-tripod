@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-quick-release-plate",
   "pass": true,
-  "checkedAt": "2026-11-03T16:32:02.945Z",
+  "checkedAt": "2026-11-04T17:53:24.120Z",
   "errors": [],
   "warnings": [
     "product \"FALCAM F38 Quick Release Kit V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,22 +9,14 @@
     "product \"PGYTECH Quick Release Plate & Clamp V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Quick Release Plate 200PL-PRO\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5 Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Sliding a camera with a tripod quick rel\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Tightening a tripod quick release plate \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Tug-testing a camera in the tripod clamp\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.pgytech.com/products/arca-type-quick-release-clamp-plate-v2",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/quick-release-plate.4823610/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-10-31 with Firecrawl: Manfrotto 200PL-PRO 38 g, 10 kg, RC2 + Arca, 1/4in screw + 3/8in adapter, flip screw by hand/coin/Allen key, not for 804RC2/MH804-3W (manfrotto.com product page); Peak Design Standard Plate PL-S-3 machined/anodized, fits most Arca-type tripods, Capture in 4 directions, 4 anchor loops, 50% lower profile, screw slot avoids battery doors (peakdesign.com); PGYTECH Clamp & Plate V2 P-CG-188 66x38x18.5 mm aluminum (pgytech.com, Adorama), SnapLock one-step, dual locking, dual stop pins, anti-loosening screws, 1/4 and 3/8 threads (Amazon listing B0DSKCRQ7J); FALCAM F38 Kit V2 F38B3404 plate+base Arca compatible, redundant security lock, aluminum, 15 kg vertical, 81 g (Amazon listing B0CPPHWW9D, sold by FALCAM, ships from Amazon); NEEWER QPR-5 38x38x9 mm 19 g aluminum (neewer.com), 4 safety pins, 5 kg/11 lb, 4-sided (Amazon B0CP26Y91B). Arca widths 38.1 mm US / 35 mm Europe (photo.stackexchange answer). Owner reports checked against DPReview threads 4823610 and 4463932 (verbatim quotes), Brendan Wiltse, Peak Design reviews, Ulanzi reviews and Reddit search excerpts; BCG quote taken verbatim from data/pain-points.json search excerpt. All 5 ASINs hand-checked in stock on Amazon US (Manfrotto sold by Amazon; others ships from Amazon). Jim Doty grooves-parallel advice from jimdoty.com.",
-    "at": "2026-10-31T10:29:22.886Z",
-    "hash": "06f438bb2c3d0172"
+    "notes": "2026-11-04 semantic pass: TextRazor on live top 5 (4 analyzed); no new facts, prices, ratings or products; first H2 renamed to a rated-load comparison (5 kg NEEWER QPR-5 to 15 kg FALCAM F38, from maker/listing specs already sourced); FAQ answers reopened with the answer; lens-foot tip is general mounting practice; captions added; trims; reviewedDate only.",
+    "at": "2026-11-04T17:53:23.526Z",
+    "hash": "b6bc0589b808ce19"
   }
 }

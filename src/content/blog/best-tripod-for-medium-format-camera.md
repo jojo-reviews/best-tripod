@@ -458,7 +458,7 @@ sources:
   - title: 'DPReview forum: A900 shutter causing shake even on tripod'
     url: >-
       https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/
-reviewedDate: '2026-10-31'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best tripod for a medium format camera?
@@ -468,14 +468,14 @@ faqs:
       near the car, the Manfrotto 055 aluminum kit with a 3-way head costs less.
   - q: How much load capacity does a medium format camera need?
     a: >-
-      Weigh the body, lens, back and head together. A Mamiya RB67 Pro-SD with
-      the 127 mm lens and 120 back is 2,645 g, so I'd look for at least 12 kg of
-      rating; a GFX100S II at 883 g is fine on 9 kg.
+      A medium format camera needs at least 12 kg of load capacity for a Mamiya
+      RB67 and about 9 kg for a GFX100S II. The RB67 Pro-SD with the 127 mm lens
+      and 120 back is 2,645 g and the GFX100S II is 883 g; add the head too.
   - q: Is a ball head OK for a Mamiya RB67 or Pentax 67?
     a: >-
-      It can work if the ball is large and rated far above the camera, but heavy
-      bodies tend to droop as you lock a ball head. A 3-way or geared head moves
-      one axis at a time and holds a heavy body more predictably.
+      A ball head is OK on an RB67 or Pentax 67 only if it is large and rated far
+      above the camera; heavy bodies tend to droop as you lock it. A 3-way or
+      geared head moves one axis at a time and holds a heavy body better.
   - q: Is carbon fiber stable enough for medium format?
     a: >-
       Yes, if the tubes are thick. The Gitzo GT3543LS has a 32.9 mm top tube and
@@ -494,6 +494,7 @@ illustrations:
     alt: >-
       Hand weighing a medium format film camera on a kitchen scale to size a
       tripod load rating
+    caption: Weigh camera, lens and back before you compare load ratings.
     afterHeading: 5
   - prompt: >-
       A photographer standing beside a tripod in a field at dawn, looking down
@@ -504,6 +505,7 @@ illustrations:
     alt: >-
       Photographer looking down into a waist-level finder on a tripod with the
       center column lowered
+    caption: With a waist-level finder, keep the center column down.
     afterHeading: 6
   - prompt: >-
       Close-up of a hand pressing the plunger of a thin cable release attached
@@ -513,6 +515,7 @@ illustrations:
     alt: >-
       Hand firing a medium format camera on a tripod with a cable release to
       avoid shake
+    caption: Fire long exposures with a cable release, not your finger.
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-medium-format-camera.png
 heroAlt: >-
@@ -520,11 +523,11 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-You lock a Mamiya RB67 on a travel tripod, fire a one-second exposure, and the negative comes back soft because the legs flexed under the weight. The best tripod for medium format camera kits has thick legs rated many times your camera, height without the center column, and a head that holds a heavy body. My pick is the [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod); for film near the car, the [Manfrotto 055 aluminum kit with a 3-way head](amzn:Manfrotto+MK055XPRO3-3W). I matched five tripods to real camera weights using maker specs and owner threads; we have not used these tripods ourselves. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers field technique.
+The best tripod for medium format camera kits has thick legs rated many times the camera's weight, height without the center column, and a head that holds a heavy body. Miss one and a one-second exposure on a Mamiya RB67 comes back soft because the legs flexed. My pick is the [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod); for film near the car, the [Manfrotto 055 aluminum kit with a 3-way head](amzn:Manfrotto+MK055XPRO3-3W). I matched five tripods to real camera weights using maker specs and owner threads; we have not used these tripods ourselves. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers field technique.
 
-## Best tripod for medium format camera picks at a glance
+## Medium format tripod comparison: load headroom over an RB67
 
-**A tripod for medium format needs a high load capacity, height with the column down and stout carbon fiber or aluminum top tubes.** This table compares the five on those numbers:
+**A tripod for medium format needs a load capacity at least 4 times the camera's weight, which only the four full-size picks reach for a 2,645 g RB67.** This table compares weight, folded length, column-down height and load rating:
 
 | Tripod | Weight | Folded | Height, column down | Load rating | RB67 headroom |
 |---|---|---|---|---|---|
@@ -538,7 +541,7 @@ Scores follow our [Best Tripod Spec Score method](/how-we-score/).
 
 ## How I picked these medium format tripods
 
-**A tripod for a medium format camera made this list only if at least two pages ranking for this search recommend it and it has an in-stock Amazon US listing.** Those pages were Ben Horne's gear page, Majestic Nature, threads on PentaxForums, Photrio, DPReview Medium Format Talk, Camera Rumors and Fred Miranda, plus Film Photography Project. Really Right Stuff (RRS) and FLM came up too, but not on Amazon.
+**A tripod for a medium format camera made this list only if at least two pages ranking for this search recommend it and it has an in-stock Amazon US listing.** Those were Ben Horne, Majestic Nature, Film Photography Project and threads on PentaxForums, Photrio, DPReview, Camera Rumors and Fred Miranda. Really Right Stuff (RRS) and FLM came up too, but not on Amazon.
 
 > **From our notes:** The RB67 Pro-SD brochure's 2,645 g figure changed how I ranked these. Divided into each maker's load rating, it turned a pile of "sturdy" claims into a headroom number, and the Peak Design fell to 3.4 times. Then the forum threads pointed at the head more than the legs, so I gave the film pick a 3-way head instead of a ball.
 
@@ -548,7 +551,7 @@ Scores follow our [Best Tripod Spec Score method](/how-we-score/).
 
 ### Gitzo GT3543LS Systematic Series 3: best tripod for medium format overall
 
-The [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod) is a four-section carbon fiber tripod from Gitzo, and it is the one I'd buy for a GFX, a Hasselblad X2D or a film body on the trail. Gitzo lists [a payload of 25 kg](https://www.gitzo.com/global/tripod-systematic-series-3-long-4-sections-gt3543ls/) at 2.03 kg, 146 cm and a 57 cm fold. There is no center column, just a flat Gitzo Systematic platform on 32.9 mm tubes that also takes a leveling base, so nothing thin sits under the camera. Its twist lock legs keep grit out. Ben Horne carries the earlier Series 3 Systematic for his 8x10, and Majestic Nature calls its Gitzo 3541 trouble-free. An owner reports it rock solid in strong wind; the complaints are some twist when panning video at full extension and spiked feet no longer in the box. It is legs only, so add a geared or 3-way tripod head.
+The [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod) is a four-section carbon fiber tripod from Gitzo and my pick for a GFX, a Hasselblad X2D or a film body on the trail. Gitzo lists [a payload of 25 kg](https://www.gitzo.com/global/tripod-systematic-series-3-long-4-sections-gt3543ls/) at 2.03 kg, 146 cm and a 57 cm fold. There is no center column, just a flat Gitzo Systematic platform on 32.9 mm tubes that also takes a leveling base, so nothing thin sits under the camera. Ben Horne carries the earlier Series 3 Systematic for his 8x10, and Majestic Nature calls its Gitzo 3541 trouble-free. An owner reports it rock solid in strong wind; the complaints are some twist when panning video at full extension and spiked feet no longer in the box. It is legs only, so add a geared or 3-way tripod head.
 
 ### Manfrotto 055 Aluminum 3-Section Tripod Kit with 3-Way Head (MK055XPRO3-3W): best for film near the car
 
@@ -564,11 +567,11 @@ The [Manfrotto MT190XPRO3](amzn:Manfrotto+MT190XPRO3) is a three-section aluminu
 
 ### Peak Design Travel Tripod (Carbon Fiber): best tripod for digital medium format travel
 
-The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber) is a five-section carbon travel tripod from Peak Design with a built-in ball head, and it is the only pick I'd fly with. Peak Design lists 2.81 lb, a 15.5 in fold and a 20 lb (9.1 kg) load. Against an RB67 that is just 3.4 times headroom, so I treat it as a GFX100S II or X2D tripod with a light prime. Four Fred Miranda GFX owners use one for travel, while others question it with heavier lenses. Owners also report the thin lower legs shake in wind, and its 51.25 in column-down height means stooping with an eye-level finder.
+The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber) is a five-section carbon travel tripod from Peak Design with a built-in ball head, and it is the only pick I'd fly with. Peak Design lists 2.81 lb, a 15.5 in fold and a 20 lb (9.1 kg) load. Against an RB67 that is just 3.4 times headroom, so I treat it as a GFX100S II or X2D tripod with a light prime. Four Fred Miranda GFX owners use one for travel, while others question it with heavier lenses. Its thin lower legs shake in wind, owners say, and its 51.25 in column-down height means stooping with an eye-level finder.
 
 ## Which medium format tripod should you get?
 
-**Match the tripod to your camera and how far you carry it:**
+**Get the Gitzo GT3543LS for most medium format cameras, or the Manfrotto 055 kit with its 3-way head for a film 6x7 kept near the car.** The rest depends on your camera and how far you carry it:
 
 - **Film 6x7 near the car or in a studio:** the Manfrotto 055 aluminum kit with its 3-way head.
 - **Film 6x7 or 4x5 on a short hike:** the Manfrotto MT055CXPRO3 with your own head.
@@ -593,7 +596,7 @@ A digital medium format body runs 10 times under the Peak Design's 9.1 kg, so th
 
 ## Medium format tripod problems owners run into, and the fix
 
-**Most medium format blur comes from flimsy legs, a drooping head, mirror slap or a raised column.**
+**Most medium format blur comes from flimsy legs, a drooping head, mirror slap or a raised column.** Long-exposure photography shows each one, because a shutter open for a second or more records shake that 1/250 s would freeze.
 
 - **Legs that flex.** A recurring complaint on PentaxForums and Photrio; one Photrio reply sums it up: "A flimsy tripod is worse than no tripod at all." Fix: a full-size 055 or Gitzo Series 3, not travel legs.
 - **A ball head that droops.** Ben Horne notes "heavy large format cameras can often times be very awkward atop a ballhead." Fix: a 3-way or geared head; our [ball head vs pan tilt head](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) comparison explains the trade.

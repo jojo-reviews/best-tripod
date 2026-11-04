@@ -13,26 +13,38 @@
     {
       "name": "L bracket",
       "type": "camera accessory",
-      "relation": "central entity: right-angle Arca-Swiss plate that lets the camera clamp horizontally or vertically",
-      "salience": 0.9
+      "relation": "central entity: right-angle Arca-Swiss plate that lets the camera clamp horizontally or vertically; TextRazor Bracket/L-Bracket (3 pages 0.80, 2 pages 0.72)",
+      "salience": 0.8
     },
     {
       "name": "camera",
       "type": "device",
-      "relation": "the body the bracket screws to; TextRazor top shared entity (3 pages, relevance 0.72)",
-      "salience": 0.72
+      "relation": "the body the bracket screws to; TextRazor shared entity (4 pages, relevance 0.74)",
+      "salience": 0.74
     },
     {
       "name": "tripod",
       "type": "camera support",
-      "relation": "the bracket keeps the camera's weight over the tripod apex; TextRazor shared entity (3 pages, relevance 0.64)",
-      "salience": 0.64
+      "relation": "the bracket keeps the camera weight over the tripod apex; TextRazor shared entity (4 pages, relevance 0.73)",
+      "salience": 0.73
+    },
+    {
+      "name": "SmallRig",
+      "type": "manufacturer",
+      "relation": "maker of camera-specific and universal L brackets (Fstoppers favorite); TextRazor shared entity (2 pages, 0.71)",
+      "salience": 0.71
     },
     {
       "name": "ball head",
       "type": "tripod head",
       "relation": "its drop notch is the alternative to an L bracket for vertical shots",
       "salience": 0.6
+    },
+    {
+      "name": "photography",
+      "type": "field",
+      "relation": "landscape photography is the use case; TextRazor shared entity (3 pages, 0.58)",
+      "salience": 0.58
     },
     {
       "name": "drop notch",
@@ -47,22 +59,40 @@
       "salience": 0.55
     },
     {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "carries the Arca-Swiss clamp the bracket slides into; TextRazor shared entity (4 pages, relevance 0.52)",
+      "salience": 0.52
+    },
+    {
       "name": "portrait orientation",
       "type": "framing",
       "relation": "vertical framing the L bracket makes quick and centered",
       "salience": 0.5
     },
     {
-      "name": "tripod head",
-      "type": "component",
-      "relation": "carries the clamp; TextRazor shared entity (2 pages, relevance 0.38)",
-      "salience": 0.38
+      "name": "page orientation",
+      "type": "concept",
+      "relation": "landscape vs portrait orientation the bracket switches between; TextRazor (2 pages, 0.45)",
+      "salience": 0.45
+    },
+    {
+      "name": "Nikon",
+      "type": "manufacturer",
+      "relation": "camera maker whose bodies appear in the top pages with dedicated brackets; TextRazor (2 pages, 0.45)",
+      "salience": 0.45
     },
     {
       "name": "hex key",
       "type": "tool",
       "relation": "tightens the mounting screw and the sliding L component; TextRazor shared entity (2 pages, relevance 0.40)",
       "salience": 0.4
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "device",
+      "relation": "common body type for current L brackets; TextRazor (2 pages, 0.38)",
+      "salience": 0.38
     },
     {
       "name": "anti-twist flange",
@@ -83,10 +113,22 @@
       "salience": 0.3
     },
     {
+      "name": "lens mount",
+      "type": "camera part",
+      "relation": "a heavy telephoto should be clamped by its tripod collar so the lens mount does not carry it; TextRazor (2 pages, 0.27, missingFromPost)",
+      "salience": 0.27
+    },
+    {
       "name": "Really Right Stuff",
       "type": "manufacturer",
       "relation": "publishes L bracket specs and an install guide used as sources",
       "salience": 0.25
+    },
+    {
+      "name": "Kirk Enterprises",
+      "type": "manufacturer",
+      "relation": "maker of camera-specific L brackets (Views Infinitum)",
+      "salience": 0.2
     }
   ],
   "attributes": [
@@ -99,7 +141,9 @@
     "safety stop screw",
     "centering index mark",
     "material (6061-T6 aluminum, hard anodized)",
-    "QD strap socket and 1/4\"-20 accessory threads"
+    "QD strap socket and 1/4\"-20 accessory threads",
+    "tripod collar for heavy lenses (not the bracket)",
+    "maker range: camera-specific vs universal (Really Right Stuff, Kirk, SmallRig)"
   ],
   "ngrams": [
     "l bracket",
@@ -111,7 +155,11 @@
     "arca swiss",
     "camera specific",
     "universal l bracket",
-    "battery door"
+    "battery door",
+    "landscape and portrait orientation",
+    "mirrorless camera",
+    "tripod head",
+    "quick release"
   ],
   "skipgrams": [
     "camera…centered",
@@ -119,7 +167,9 @@
     "notch…side",
     "bracket…clamp",
     "portrait…composition",
-    "ports…bracket"
+    "ports…bracket",
+    "lens…tripod collar",
+    "dovetail…rail"
   ],
   "nlpTerms": [
     "vertical composition",
@@ -133,7 +183,11 @@
     "hex key",
     "tripod apex",
     "remote shutter release",
-    "articulating screen"
+    "articulating screen",
+    "tripod collar",
+    "telephoto",
+    "lens mount",
+    "dovetail rail"
   ],
   "questions": [
     "Do I need an L bracket for landscape photography?",
@@ -473,6 +527,20 @@
       "Hex key (0.40)",
       "Tripod head (0.38)",
       "Screw (0.22)"
+    ]
+  },
+  "semanticPass": {
+    "date": "2026-11-04",
+    "serp": [
+      "https://fstoppers.com/landscapes/small-things-make-big-difference-why-smallrigs-l-bracket-my-favorite-592536",
+      "https://viewsinfinitum.com/2013/08/30/landscape-photography-l-bracket/",
+      "https://www.digitalcameraworld.com/buying-guides/best-l-bracket",
+      "https://www.impulsecameras.com/collections/l-brackets",
+      "https://www.capturelandscapes.com/l-bracket-for-landscape-photography/ (Cloudflare blocked)"
+    ],
+    "ignored": [
+      "Impulse Camera and Electronics (site name)",
+      "Architectural photography (off-topic)"
     ]
   }
 }

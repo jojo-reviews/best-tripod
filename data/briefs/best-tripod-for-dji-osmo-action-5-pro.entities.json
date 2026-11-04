@@ -3,79 +3,72 @@
   "pagesAnalyzed": 5,
   "sharedEntities": [
     {
-      "entity": "DJI",
-      "type": "Agent",
-      "pages": 4,
-      "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/DJI",
-      "kgmid": "/m/011smc7k",
-      "wikidata": "Q16924332",
-      "idsChecked": true
-    },
-    {
-      "entity": "Tripod",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "kgmid": "/m/0119d4g8",
-      "wikidata": "Q1444534",
-      "idsChecked": true
-    },
-    {
-      "entity": "Selfie stick",
-      "type": "/business/product_category",
-      "pages": 3,
-      "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
-      "kgmid": "/m/012c5w0g",
-      "wikidata": "Q18387942",
-      "idsChecked": true
-    },
-    {
       "entity": "Osmo Action",
       "type": "Company",
       "pages": 2,
-      "relevance": 0.82,
-      "wiki": "",
-      "idsChecked": true
+      "relevance": 0.86,
+      "wiki": ""
     },
     {
       "entity": "DJI Osmo",
       "type": "",
       "pages": 2,
-      "relevance": 0.68,
+      "relevance": 0.74,
       "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo",
-      "wikidata": "Q26721405",
-      "idsChecked": true
+      "wikidata": "Q26721405"
+    },
+    {
+      "entity": "DJI",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/DJI",
+      "wikidata": "Q16924332",
+      "kgmid": "/m/011smc7k"
+    },
+    {
+      "entity": "GoPro",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/GoPro",
+      "wikidata": "Q733482",
+      "kgmid": "/m/0h1fd30"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Selfie stick",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
+      "wikidata": "Q18387942",
+      "kgmid": "/m/012c5w0g"
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
-      "relevance": 0.43,
+      "relevance": 0.28,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "kgmid": "/m/0dv5r",
       "wikidata": "Q15328",
-      "idsChecked": true
-    },
-    {
-      "entity": "Warranty",
-      "type": "/organization/organization_sector",
-      "pages": 2,
-      "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Warranty",
-      "idsChecked": true
-    },
-    {
-      "entity": "Selfie",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.2,
-      "wiki": "http://en.wikipedia.org/wiki/Selfie",
-      "kgmid": "/m/0sgh53y",
-      "wikidata": "Q12068677",
-      "idsChecked": true
+      "kgmid": "/m/0dv5r"
     }
+  ],
+  "missingFromPost": [
+    "Cost",
+    "Shooting"
+  ],
+  "ignoredNoise": [
+    "Shooting (TextRazor matched the firearms sense)",
+    "Cost (generic; worked in as plain word, not a schema entity)"
   ]
 }

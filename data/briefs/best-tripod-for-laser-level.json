@@ -19,14 +19,8 @@
     {
       "name": "laser level",
       "type": "tool",
-      "relation": "the instrument the tripod carries; TextRazor Laser relevance 0.63",
-      "salience": 0.63
-    },
-    {
-      "name": "Bosch",
-      "type": "brand",
-      "relation": "TextRazor Bosch (company) relevance 0.54; maker of BT150, BT160 and BT300 HD",
-      "salience": 0.54
+      "relation": "TextRazor Laser level relevance 0.88 (2026-11-04, 2/5 top pages); the instrument the tripod carries",
+      "salience": 0.88
     },
     {
       "name": "5/8-11 thread",
@@ -41,6 +35,18 @@
       "salience": 0.55
     },
     {
+      "name": "Bosch",
+      "type": "brand",
+      "relation": "TextRazor Bosch (company) relevance 0.54; maker of BT150, BT160 and BT300 HD",
+      "salience": 0.54
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "TextRazor Height relevance 0.52; max and closed height decide which marks a tripod reaches",
+      "salience": 0.52
+    },
+    {
       "name": "rotary laser",
       "type": "tool",
       "relation": "5/8-11 laser that needs a flat-head construction tripod",
@@ -53,10 +59,16 @@
       "salience": 0.5
     },
     {
-      "name": "elevator column",
-      "type": "component",
-      "relation": "TextRazor Elevator relevance 0.26; crank column that adds height but costs stability",
-      "salience": 0.35
+      "name": "construction",
+      "type": "context",
+      "relation": "TextRazor Construction relevance 0.49; construction tripods carry 5/8-11 rotary lasers",
+      "salience": 0.49
+    },
+    {
+      "name": "surveying",
+      "type": "context",
+      "relation": "TextRazor Surveying relevance 0.46; 5/8-11 is the surveying/construction tripod thread; BT160 owner mounts a survey transit",
+      "salience": 0.46
     },
     {
       "name": "self-leveling range",
@@ -71,10 +83,34 @@
       "salience": 0.4
     },
     {
+      "name": "elevator column",
+      "type": "component",
+      "relation": "TextRazor Elevator relevance 0.26; crank column that adds height but costs stability",
+      "salience": 0.35
+    },
+    {
+      "name": "measurement",
+      "type": "context",
+      "relation": "TextRazor Measurement relevance 0.35; BT150 carries laser distance measurement tools",
+      "salience": 0.35
+    },
+    {
       "name": "flat head",
       "type": "component",
       "relation": "construction tripod head that carries a 5/8-11 stud",
       "salience": 0.3
+    },
+    {
+      "name": "spirit level",
+      "type": "component",
+      "relation": "TextRazor Spirit level relevance 0.3; DW0881T built-in level, bubble check in setup",
+      "salience": 0.3
+    },
+    {
+      "name": "aluminium",
+      "type": "material",
+      "relation": "TextRazor Aluminium relevance 0.26; all five picks have aluminum legs",
+      "salience": 0.26
     },
     {
       "name": "plumb bob hook",
@@ -91,7 +127,8 @@
     "leg lock type (quick clamp, quick-release lever)",
     "elevator or crank column",
     "feet (steel points, rubber covers)",
-    "head type (flat head, tilting head, crank base)"
+    "head type (flat head, tilting head, crank base)",
+    "built-in spirit (bubble) level"
   ],
   "ngrams": [
     "laser level tripod",
@@ -105,7 +142,10 @@
     "quick clamp",
     "self-leveling range",
     "leg locks",
-    "center column"
+    "center column",
+    "construction tripod",
+    "closed height",
+    "laser distance measurement"
   ],
   "skipgrams": [
     "tripod…thread",
@@ -113,7 +153,8 @@
     "elevator…stability",
     "legs…tile",
     "clip…broke",
-    "rotary…flat head"
+    "rotary…flat head",
+    "closed…height"
   ],
   "nlpTerms": [
     "self-leveling",
@@ -127,7 +168,10 @@
     "aluminum legs",
     "fine adjustment crank",
     "wind",
-    "out-of-level warning"
+    "out-of-level warning",
+    "surveying",
+    "spirit level",
+    "bubble"
   ],
   "questions": [
     "Can I use a camera tripod for a laser level?",
@@ -517,7 +561,19 @@
   "textrazor": {
     "file": "data/briefs/best-tripod-for-laser-level.entities.json",
     "pagesAnalyzed": 4,
-    "note": "engineersupply.com blocked by Cloudflare"
+    "note": "engineersupply.com blocked by Cloudflare",
+    "semanticPass": "2026-11-04",
+    "pages": [
+      "https://quinnequipment.com/the-ultimate-guide-to-laser-level-tripods/",
+      "https://festoolownersgroup.com/threads/tripod-for-laser-level.77335/",
+      "https://www.ofzenandcomputing.com/best-tripods-for-laser-levels-and-transits/",
+      "https://benchmarksupply.com/collections/tripods",
+      "https://www.youtube.com/watch?v=Y1JogdCSD3M"
+    ],
+    "missingFromPostBefore": [
+      "Measurement",
+      "Spirit level"
+    ]
   },
   "pendingInlinks": [
     {

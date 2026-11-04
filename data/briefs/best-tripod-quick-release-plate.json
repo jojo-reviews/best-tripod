@@ -19,7 +19,7 @@
     {
       "name": "camera",
       "type": "device",
-      "relation": "the body the plate screws to; TextRazor top shared entity (3 pages, relevance 0.81)",
+      "relation": "the body the plate screws to; TextRazor top shared entity (2026-11-04 live top 5: 2 pages, 0.64; 2026-10-31: 3 pages, 0.81)",
       "salience": 0.81
     },
     {
@@ -65,16 +65,16 @@
       "salience": 0.4
     },
     {
+      "name": "gimbal",
+      "type": "device",
+      "relation": "many gimbals take Arca plates, so one plate moves from tripod to gimbal; TextRazor shared entity in the 2026-11-04 live top 5 (2 pages, 0.38)",
+      "salience": 0.38
+    },
+    {
       "name": "anti-twist",
       "type": "feature",
       "relation": "lip or pin that stops the camera rotating on a single screw",
       "salience": 0.35
-    },
-    {
-      "name": "gimbal",
-      "type": "device",
-      "relation": "many gimbals take Arca plates, so one plate moves from tripod to gimbal",
-      "salience": 0.3
     },
     {
       "name": "Peak Design Capture",
@@ -94,7 +94,9 @@
     "clamp type (screw knob vs lever)",
     "RC2 compatibility",
     "strap/clip compatibility",
-    "plate thickness (profile)"
+    "plate thickness (profile)",
+    "safety stop (anti-off) pins",
+    "aluminum alloy vs machined aluminum"
   ],
   "ngrams": [
     "quick release plate",
@@ -106,7 +108,11 @@
     "anti-twist",
     "1/4-20 screw",
     "battery door",
-    "manfrotto rc2"
+    "manfrotto rc2",
+    "universal arca type",
+    "anti-off",
+    "strap clip",
+    "aluminum alloy"
   ],
   "skipgrams": [
     "plate…clamp",
@@ -114,7 +120,9 @@
     "camera…twist",
     "lever…loose",
     "plate…battery",
-    "screw…tighten"
+    "screw…tighten",
+    "plate…gimbal",
+    "strap…tripod"
   ],
   "nlpTerms": [
     "dovetail",
@@ -126,7 +134,9 @@
     "gimbal",
     "shoulder strap clip",
     "L-bracket",
-    "lens foot"
+    "lens foot",
+    "non-slip",
+    "F38"
   ],
   "questions": [
     "Are all tripod quick release plates universal?",
@@ -200,7 +210,7 @@
   ],
   "outline": [
     {
-      "h2": "Best tripod quick release plate at a glance",
+      "h2": "Tripod quick release plate systems and rated loads compared",
       "intent": "comparison table",
       "h3": []
     },
@@ -510,14 +520,26 @@
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-quick-release-plate.entities.json",
-    "pagesAnalyzed": "3 of 5 (photo.stackexchange and dpreview blocked TextRazor's fetch with a Cloudflare challenge; both were read with Firecrawl)",
+    "semanticPass": "2026-11-04",
+    "topUrls": [
+      "https://www.reddit.com/r/videography/comments/1i4xeue/dumb_newbie_question_need_a_recommendation_for_a/",
+      "https://www.ulanzi.com/collections/quick-release-system",
+      "https://slikusa.com/collections/quick-release-plates",
+      "https://neewer.com/collections/quick-release-plate",
+      "https://www.youtube.com/watch?v=fcAtXR4Dli4"
+    ],
+    "pagesAnalyzed": "4 of 5 on 2026-11-04 (reddit blocked TextRazor's fetch); 3 of 5 explainer pages on 2026-10-31",
     "sharedEntities": [
       "Camera (0.81)",
       "Tripod (photography) (0.66)",
       "Tripod head (0.61)",
       "Arca-Swiss (0.58)",
       "Manfrotto (0.58)",
-      "Gear (0.38)"
+      "Gimbal (0.38)"
+    ],
+    "missingFromPost": [],
+    "noiseDropped": [
+      "Gear"
     ]
   },
   "keywordResearch": "2b: Ahrefs not used (owner instruction for this run); same-intent phrasings taken from the queue entry and live SERP/autocomplete-style titles: best tripod quick release system, best quick release plate for tripod, best quick release plate for camera, arca swiss quick release plate."

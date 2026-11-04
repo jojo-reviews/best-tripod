@@ -29,10 +29,17 @@
       "salience": 0.8
     },
     {
+      "name": "Fujifilm",
+      "type": "organization",
+      "relation": "maker of the X100VI; its spec sheet gives the 521 g weight",
+      "salience": 0.54,
+      "pages": 2
+    },
+    {
       "name": "Camera",
       "type": "device",
       "relation": "the load the tripod carries",
-      "salience": 0.62,
+      "salience": 0.51,
       "pages": 3
     },
     {
@@ -130,9 +137,30 @@
       "type": "part",
       "relation": "raising it costs stiffness; keep it down",
       "salience": 0.35
+    },
+    {
+      "name": "Fujifilm X series",
+      "type": "product line",
+      "relation": "the X100VI is the sixth X100 model in the X series",
+      "salience": 0.44,
+      "pages": 1
+    },
+    {
+      "name": "Selfie",
+      "type": "concept",
+      "relation": "self-timer travel selfies from a GorillaPod or PIXI EVO",
+      "salience": 0.68,
+      "pages": 1
+    },
+    {
+      "name": "Low-angle shot",
+      "type": "concept",
+      "relation": "PIXI EVO 2.4 in minimum height for curb-level shots",
+      "salience": 0.22,
+      "pages": 1
     }
   ],
-  "textrazor": "data/briefs/best-tripod-for-fujifilm-x100vi.entities.json (5 pages analyzed; dpreview blocked TextRazor's fetch)",
+  "textrazor": "data/briefs/best-tripod-for-fujifilm-x100vi.entities.json (semantic pass 2026-11-04: 4 pages analyzed, Reddit blocked TextRazor's fetch; shared: Fujifilm 0.54, Camera 0.51; single-page: Selfie, Fujifilm X series, Low-angle shot)",
   "attributes": [
     "camera weight (X100VI 521 g) vs rated load",
     "height with the center column down",
@@ -154,7 +182,8 @@
     "peak design travel tripod",
     "tabletop tripod",
     "quick release plate",
-    "load capacity"
+    "load capacity",
+    "tripod for fujifilm x100vi"
   ],
   "skipgrams": [
     "tripod…x100vi",
@@ -162,7 +191,8 @@
     "plate…arca",
     "light…compact",
     "wind…tripod",
-    "fold…bag"
+    "fold…bag",
+    "camera…tripod"
   ],
   "nlpTerms": [
     "fixed-lens camera",
@@ -177,7 +207,10 @@
     "bubble level",
     "panning",
     "stability",
-    "portability"
+    "portability",
+    "selfie",
+    "low-angle shot",
+    "Fujifilm X series"
   ],
   "questions": [
     "What is the best tripod for the Fujifilm X100VI?",

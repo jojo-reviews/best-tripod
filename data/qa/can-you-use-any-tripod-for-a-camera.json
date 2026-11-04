@@ -1,35 +1,19 @@
 {
   "slug": "can-you-use-any-tripod-for-a-camera",
   "pass": true,
-  "checkedAt": "2026-11-04T16:33:07.575Z",
+  "checkedAt": "2026-11-04T17:55:58.077Z",
   "errors": [],
   "warnings": [
-    "illustration \"Hands screwing a tripod quick release pl\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"A camera with a heavy lens tipping forwa\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands sliding a camera plate into the cl\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands fitting a small thread adapter bus\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands clipping a phone into a tripod pho\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "1 section(s) open with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1ev57vb/do_all_tripods_work_with_all_cameras/",
-    "source didn't respond normally (403): https://www.reddit.com/r/Cameras/comments/1dou2s7/im_so_confused_how_to_find_a_tripod_that_fits_my/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/",
-    "source didn't respond normally (403): https://www.reddit.com/r/golf/comments/13ebsvt/best_phone_standtripod_to_record_swing_videos/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/10hedf5/solutions_for_interference_between_camera_and/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/81797/are-tripods-same-for-all-cameras-i-am-buying-my-first-good-camera-nikon-d3300-w",
-    "source didn't respond normally (403): https://www.kentfaith.com.au/blog/article_are-all-camera-tripods-universal_443"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-quick-release-plate, no claim changed",
-    "at": "2026-10-31T17:43:59.551Z",
-    "hash": "fde9341f620dc854"
+    "notes": "2026-11-04 semantic pass: added aluminium/carbon fiber leg material, height, gimbal head for telephoto (general, true statements, no new numbers); ISO 1222, PIXI 1 kg, a7 IV 658 g, 24-70 GM II 695 g unchanged and sourced; FAQ openers answer-first; video reference fixed; illustration captions added",
+    "at": "2026-11-04T17:55:57.186Z",
+    "hash": "cbc24b86d1022ff9"
   }
 }

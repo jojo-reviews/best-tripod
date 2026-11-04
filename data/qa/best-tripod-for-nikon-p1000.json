@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-nikon-p1000",
   "pass": true,
-  "checkedAt": "2026-11-03T16:30:02.007Z",
+  "checkedAt": "2026-11-04T17:56:29.981Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,32 +9,14 @@
     "product \"Sirui Traveler 7C Carbon Fiber Tripod with E-10 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hand weighing a superzoom camera on a ki\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands sliding a long camera plate in the\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hand tightening a quick release plate wi\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.085V7_67-overhead-aluminum-camera-tripod-monopod",
-    "source didn't respond normally (403): https://www.kentfaith.com/KF09.085_kf-concept-tm2515t-professional-60-inch-camera-tripod-horizontal-aluminium-tripods-portable-monopod-with-360-degree-ball-head-quick-release-plate-for-canon-nikon-sony-dslr-cameras",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Nikon-P1000/1450407-REG-48207",
-    "source didn't respond normally (403): https://cameradecision.com/accessories/Nikon-Coolpix-P1000",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/nikon-p1000-tripod-advice.4790192/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-recommendations-for-nikon-p1000.4641217/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/compatible-tripod-with-p1000-quick-release-plate.4766770/",
-    "source didn't respond normally (403): https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/",
-    "source didn't respond normally (403): https://www.nikonforums.com/forums/topic/13482-tripod-for-p1000/page-2",
-    "source didn't respond normally (403): https://www.reddit.com/r/Nikon/comments/xplqcc/p1000_tripod_for_still_images/",
-    "source didn't respond normally (403): https://www.reddit.com/r/Nikon/comments/18h015z/searching_for_a_good_tripod_for_my_p1000/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskAstrophotography/comments/1hxqg6i/tripod_for_p1000/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Final re-verification 2026-10-30 after a one-sentence trim in the Sirui section (owner praise for portability, one stuck twist lock: Verkkokauppa/Digital Photo Mentor owner notes). All specs, owner statements, load multiples and Amazon listings as verified in the previous notes: Nikon spec page and P1000 manual, manfrotto.com 290 Xtra, kfconcept.com T255A4, store.sirui.com spec page, B&H Befree Advanced lever and Falcam TreeRoot pages, DPReview/NikonForums/Reddit threads, KentFaith and B&H reviews.",
-    "at": "2026-10-30T10:38:05.706Z",
-    "hash": "c16ad845951a2a88"
+    "notes": "semantic pass 2026-11-04 (review only): TextRazor on 4 top pages (DPReview, NikonForums, B&H, Amazon LIM'S); added 'digital camera' and DPReview owner's Neewer gimbal head note (sourced to DPReview thread already in sources); renamed picks-at-a-glance H2 to 'Nikon P1000 tripod specs compared at 3000mm'; rewrote reviewed-section lead as a checkable rule; illustration captions added; 'video below' wording fixed; no product, price, ASIN or rating changes",
+    "at": "2026-11-04T17:56:29.023Z",
+    "hash": "0185c628857a4d54"
   }
 }

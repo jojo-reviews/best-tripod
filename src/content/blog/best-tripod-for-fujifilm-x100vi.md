@@ -419,7 +419,7 @@ sources:
   - title: 'r/fujifilm: Moon photography, X-T5, tripod and IBIS?'
     url: >-
       https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/
-reviewedDate: '2026-10-30'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best tripod for a Fujifilm X100VI?
@@ -430,24 +430,25 @@ faqs:
       fits a jacket pocket.
   - q: Do X100V tripod plates and grips fit the X100VI?
     a: >-
-      Not always. The X100VI's tripod thread sits further forward than the
-      X100V's, so grips, plates and clutches shaped for the X100V can sit off
-      center or overlap. Buy a plate or L-grip listed for the X100VI.
+      No, X100V plates and grips don't reliably fit the X100VI: its tripod
+      thread sits further forward, so X100V-shaped plates and clutches can sit
+      off center or overlap. Buy a plate or L-grip listed for the X100VI.
   - q: Is a mini tripod enough for an X100VI?
     a: >-
-      For travel, often yes. A tabletop tripod on a wall, bench or table covers
-      most self-timer and night street shots. Add a full-size tripod only if you
-      plan blue-hour or long-exposure shots at chest height.
+      Yes, a mini tripod is enough for most X100VI travel shots: on a wall,
+      bench or table it covers self-timer selfies and night street scenes. Add
+      a full-size tripod only for blue-hour or long-exposure shots at chest
+      height.
   - q: Is a GorillaPod strong enough for an X100VI?
     a: >-
-      The 3K Kit is: it is rated to 3 kg, about 5.8 times the 521 g camera. The
-      1K is rated to 1 kg, under twice the camera, and owners find it flimsy
-      with the X100VI.
+      Yes, the GorillaPod 3K Kit is strong enough for an X100VI: it is rated to
+      3 kg, about 5.8 times the 521 g camera. The 1K is rated to 1 kg, under
+      twice the camera, and owners find it flimsy with the X100VI.
   - q: Should I turn off IBIS on the X100VI when it is on a tripod?
     a: >-
-      Fuji owners on r/fujifilm advise turning stabilization off on a tripod and
-      firing with the 2-second self-timer, so the sensor and your finger don't
-      add movement.
+      Yes, turn IBIS off when the X100VI is on a tripod; Fuji owners on
+      r/fujifilm advise it, and the 2-second self-timer keeps your finger from
+      adding movement.
 heroAlt: >-
   Best Tripod for Fujifilm X100VI (2026) – 5 Picks for a 521 g Camera – Best
   Tripod buying guide
@@ -460,6 +461,7 @@ illustrations:
     alt: >-
       Hands attaching a quick-release plate under a compact camera before
       mounting it on a tripod
+    caption: Line the plate up straight before you tighten it.
     afterHeading: 5
   - prompt: >-
       A small travel tripod with its legs spread wide and the center column
@@ -470,6 +472,7 @@ illustrations:
     alt: >-
       Travel tripod with legs spread wide, column down and a bag hanging from
       its hook in wind
+    caption: Spread the legs and hang your bag when wind picks up.
     afterHeading: 6
 videos:
   - id: YCUYSPvZNGg
@@ -482,13 +485,11 @@ related:
 heroImage: /images/featured/best-tripod-for-fujifilm-x100vi.png
 ---
 
-Blue hour on a harbor wall, an X100VI in your hand, and the shot needs a second of exposure that you can't hold steady. The best tripod for Fujifilm X100VI owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); for every day, I'd carry the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) instead. I matched five tripods to a 521 g fixed-lens camera, using maker specs and X100 owner reports from r/fujifilm, r/x100vi and DPReview. We have not used these tripods ourselves.
+The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for trips and blue hour, and the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) for every day. A tripod for an X100VI only has to hold a 521 g fixed-lens camera, so height, folded size and plate fit decide it. I matched five tripods to that camera from maker specs and X100 owner reports on r/fujifilm, r/x100vi and DPReview; we have not used these tripods ourselves.
 
-## Best tripod for Fujifilm X100VI picks at a glance
+## X100VI tripod comparison: weight, fold and height
 
-**A tripod for Fujifilm X100VI owners has to be light enough to carry with a pocket camera and tall enough with the column down; load capacity is never the limit.** Shooting a Leica Q3 too? Our [Leica Q3 tripod picks](/blog/best-tripod-for-leica-q3/) cover a similar compact.
-
-This table compares the five on the numbers that matter for an X100VI:
+**A tripod for the Fujifilm X100VI should weigh under about three times the camera and reach about 50 in with the center column down; load capacity is never the limit.** Shooting a Leica Q3 too? Our [Leica Q3 tripod picks](/blog/best-tripod-for-leica-q3/) cover a similar compact.
 
 | Tripod | Weight | Folded | Height, column down | Max height | Rated load |
 |---|---|---|---|---|---|
@@ -498,15 +499,15 @@ This table compares the five on the numbers that matter for an X100VI:
 | Manfrotto PIXI EVO | 0.57 lb | 8.07 in | n/a | 7.87 in | 5.5 lb |
 | JOBY GorillaPod 3K Kit | Not published | Not published | n/a | About 12 in | 6.6 lb |
 
-## How I picked these Fujifilm X100VI tripods
+## How I picked each tripod for Fujifilm X100VI
 
-**I kept only tripods that at least two top-ranking pages for this search or close variants recommend, each with an in-stock Amazon US listing.** Those pages were X100VI threads on r/fujifilm and r/x100vi, two X100 Facebook groups, a DPReview X100 thread, Fstoppers, Pack Hacker and Finding the Universe. Ulanzi's Zero Y and Zero F38 came up in X100VI threads, but neither ball-head version was in stock on Amazon US when I checked. Vanguard models appeared too, each page naming a different one.
+**Each tripod for Fujifilm X100VI here is one that at least two top-ranking pages for this search or close variants recommend, with an in-stock Amazon US listing.** Those pages were X100VI threads on r/fujifilm and r/x100vi, two X100 Facebook groups, a DPReview X100 thread, Fstoppers, Pack Hacker and Finding the Universe. Ulanzi's Zero Y and Zero F38 came up in X100VI threads, but neither ball-head version was in stock on Amazon US when I checked. Vanguard models appeared too, each page naming a different one.
 
 > **From our notes:** The 521 g on Fujifilm's X100VI spec sheet decided this list. I started with the full-size travel tripods Fuji owners argue about, then did the division: even the SIRUI's 4 kg leg rating is 7.7 times the camera, and the Peak Design's is about 17 times. So I stopped sorting by load. What X100VI owners actually complained about was carrying a tripod at all, a light rig blowing over, and plates that no longer fit. That's why two of the five are minis.
 
 ## The 5 best tripods for the Fujifilm X100VI, reviewed
 
-**Each pick suits a different way of carrying an X100VI, so start from how much tripod you'll actually bring.**
+**The five X100VI tripods split into three full-size travel tripods (2 to 3.51 lb) and two minis under 1 lb, so how much tripod you'll carry decides the pick.**
 
 ### Peak Design Travel Tripod (Aluminum): best overall X100VI tripod
 
@@ -522,15 +523,15 @@ The [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+tr
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: best tabletop tripod
 
-The Manfrotto PIXI EVO is a two-section aluminum mini tripod from Manfrotto that weighs 0.57 lb, folds to 8.07 in and is rated to 2.5 kg, about 4.8 times an X100VI. A DPReview member carries a PIXI whenever his X100V comes along and likes its size and weight, though he sometimes wishes it were taller. An r/x100vi reply suggests the PIXI EVO after a cheap mini head sagged under an X100VI. Pack Hacker found it doesn't go very high and its leg-angle button can stick between modes. There's no quick-release plate, so it screws straight into the camera. This is the one I'd keep in a jacket pocket for night street photography.
+The Manfrotto PIXI EVO is a two-section aluminum mini tripod from Manfrotto that weighs 0.57 lb, folds to 8.07 in and is rated to 2.5 kg, about 4.8 times an X100VI. At 2.4 in low it also suits low-angle shots from a curb or step. A DPReview member carries a PIXI whenever his X100V comes along and likes its size and weight, though he sometimes wishes it were taller. An r/x100vi reply suggests the PIXI EVO after a cheap mini head sagged under an X100VI. Pack Hacker found it doesn't go very high and its leg-angle button can stick between modes. There's no quick-release plate, so it screws straight into the camera. This is the one I'd keep in a jacket pocket for night street photography.
 
 ### JOBY GorillaPod 3K Kit: best flexible tripod for railings
 
-The [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) is a flexible-leg mini tripod from JOBY with a ball head, a quick-release plate and a 3 kg (6.6 lb) rating. That is about 5.8 times an X100VI, and B&H lists about 12 in of height. Its legs wrap railings, fences and branches where the PIXI EVO can't stand. An r/x100v owner takes a GorillaPod because it is smaller than an umbrella and fits anywhere. I chose the 3K over the 1K on purpose: an r/Fujifilm_X100VI owner says "1kg feels kinda flimsy imo." with this camera, and the 1K's rating is under twice the X100VI's weight.
+The [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) is a flexible-leg mini tripod from JOBY with a ball head, a quick-release plate and a 3 kg (6.6 lb) rating. That is about 5.8 times an X100VI, and B&H lists about 12 in of height. Its legs wrap railings, fences and branches where the PIXI EVO can't stand, which helps for a travel selfie on the self-timer. An r/x100v owner takes a GorillaPod because it is smaller than an umbrella and fits anywhere. I chose the 3K over the 1K on purpose: an r/Fujifilm_X100VI owner says "1kg feels kinda flimsy imo." with this camera, and the 1K's rating is under twice the X100VI's weight.
 
-## What a 521 g X100VI asks of a tripod
+## What a tripod for Fujifilm X100VI has to carry
 
-**Fujifilm lists the X100VI at [521 g with battery and card](https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/), and its 23mm camera lens is fixed, so the camera is the whole load.** A mirrorless camera with a zoom adds lens weight; here no other gear goes on the tripod.
+**A tripod for Fujifilm X100VI carries only the camera: Fujifilm lists it at [521 g with battery and card](https://www.fujifilm-x.com/en-us/products/cameras/x100vi/specifications/), and its 23mm camera lens is fixed.** It is the sixth X100 model in the Fujifilm X series, and unlike an X-mount mirrorless camera with a zoom, no other camera gear goes on the tripod.
 
 Headroom each rating gives an X100VI:
 
@@ -545,7 +546,7 @@ Tripod weight against camera weight matters more. The SIRUI is under twice the c
 
 ## How to set up an X100VI on a tripod
 
-**Mount the camera with a plate made for the X100VI, keep the column down and fire it hands-off.**
+**An X100VI goes on a tripod with a plate made for the X100VI, the column down and a hands-off release.**
 
 1. Screw a plate or L-grip listed for the X100VI into its tripod socket, which sits further forward than the X100V's.
 2. Spread the legs to their widest stop and extend the thicker sections first.
@@ -553,7 +554,7 @@ Tripod weight against camera weight matters more. The SIRUI is under twice the c
 4. Clamp the plate, level the head, then lock the ball fully before you let go.
 5. Turn IBIS off and use the 2-second self-timer or a remote release.
 
-The video below shows an X100VI L-shape grip that doubles as an Arca baseplate.
+The video in this section shows an X100VI L-shape grip that doubles as an Arca baseplate.
 
 ## X100VI tripod problems owners run into, and the fix
 
@@ -563,11 +564,10 @@ The video below shows an X100VI L-shape grip that doubles as an Arca baseplate.
 - **A light tripod blows over.** An r/x100vi owner says "when fully extended it doesn't need much wind to blow over my x100vi". Keep the column down, spread the legs and hang your bag from the hook; our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) has more fixes.
 - **Cheap mini heads sag.** One r/x100vi reply: "Tried to use it once and the tripod head couldn't take the weight even though the load was 50% below its rating." Test the head at your usual angle while you can return it.
 - **Portrait on a table tripod.** An r/fujifilm reply says "What you need is an L bracket so you can mount the camera portrait or landscape without moving the tripod head."
-- **A full-size tripod feels like too much.** Carry a mini daily and bring full-size legs only for planned shots.
 
 ## Which tripod should you get for your X100VI?
 
-**Choose by how often you'll carry it, because the X100VI never strains these tripods.**
+**The Peak Design Travel Tripod (Aluminum) suits most X100VI owners; pick the rest by how often you'll carry a tripod, since the camera never strains any of them.**
 
 1. One tripod for trips and blue hour: Peak Design Travel Tripod (Aluminum).
 2. One-bag travel at the lowest weight: SIRUI Traveler 5CX.

@@ -13,8 +13,15 @@
       "name": "Tripod",
       "type": "product type",
       "relation": "three-legged stand that holds the phone or camera still for a set",
-      "salience": 0.85,
+      "salience": 0.84,
       "pages": 5
+    },
+    {
+      "name": "Camera tripod",
+      "type": "product type",
+      "relation": "TextRazor \"Tripod (photography)\": three-legged support for a camera or phone; gym tripods are the phone-first, compact kind",
+      "salience": 0.84,
+      "pages": 3
     },
     {
       "name": "Smartphone",
@@ -27,21 +34,21 @@
       "name": "iPhone",
       "type": "device",
       "relation": "most common filming phone in the top results; Pro Max width tests clamp ranges",
-      "salience": 0.68,
+      "salience": 0.67,
       "pages": 4
     },
     {
       "name": "Gym",
       "type": "place",
       "relation": "crowded floor where footprint, setup speed and etiquette matter",
-      "salience": 0.6,
+      "salience": 0.58,
       "pages": 4
     },
     {
       "name": "Exercise",
       "type": "activity",
       "relation": "squats, deadlifts, presses and classes filmed for form checks and content",
-      "salience": 0.55,
+      "salience": 0.47,
       "pages": 4
     },
     {
@@ -544,5 +551,5 @@
     "tripod for filming workouts"
   ],
   "angle": "Gym-floor fit first: footprint, setup speed, height per lift and whether a cased phone fits the clamp, from a pocket selfie-stick tripod to a full-height platform tripod.",
-  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-gym-videos.entities.json); shared entities copied with relevance as salience."
+  "textrazor": "2026-11-04 semantic pass: scripts/textrazor-entities.mjs on top US results (Metric gym tripod guide, r/crossfit, Lumipia, Geometrical, YouTube; 4 pages analyzed) -> data/briefs/best-tripod-for-gym-videos.entities.json. Shared: Tripod (photography) 0.84, Tripod 0.84, iPhone 0.67, Gym 0.58, Exercise 0.47; missingFromPost empty. Shared entities copied with relevance as salience."
 }

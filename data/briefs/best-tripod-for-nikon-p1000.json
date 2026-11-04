@@ -17,20 +17,14 @@
     {
       "name": "Nikon Coolpix P1000",
       "type": "camera",
-      "relation": "125x superzoom bridge camera, approx. 1,415 g with battery and card, 24-3000 mm equivalent",
-      "salience": 0.95
+      "relation": "125x superzoom digital camera, approx. 1,415 g, 24-3000 mm equivalent; TextRazor 0.70 on 3 of 4 pages (2026-11-04)",
+      "salience": 0.7
     },
     {
-      "name": "Nikon Coolpix P1100",
-      "type": "camera",
-      "relation": "successor with the same body shape and tripod needs (secondary keyword)",
-      "salience": 0.4
-    },
-    {
-      "name": "Tripod head",
-      "type": "concept",
-      "relation": "ball head vs pan/tilt vs gimbal for a long zoom; TextRazor relevance 0.61 on 2 pages",
-      "salience": 0.61
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "290 Xtra and Befree recommended by P1000 owners; listed on B&H P1000 tripods page; TextRazor 0.70 on 3 pages (2026-11-04)",
+      "salience": 0.7
     },
     {
       "name": "Arca-Swiss plate",
@@ -45,22 +39,28 @@
       "salience": 0.55
     },
     {
-      "name": "Sirui",
-      "type": "brand",
-      "relation": "carbon tripods recommended in dpreview and Reddit P1000 threads; TextRazor relevance 0.57",
-      "salience": 0.57
+      "name": "Camera",
+      "type": "concept",
+      "relation": "generic camera context; TextRazor 0.52 on 4 pages",
+      "salience": 0.52
     },
     {
-      "name": "Manfrotto",
-      "type": "brand",
-      "relation": "290 Xtra and Befree recommended by P1000 owners; TextRazor relevance 0.37 on 3 pages",
-      "salience": 0.5
+      "name": "Aluminium",
+      "type": "material",
+      "relation": "aluminum legs on full-size picks; TextRazor 0.49 on 2 pages",
+      "salience": 0.49
     },
     {
-      "name": "Benro",
-      "type": "brand",
-      "relation": "Series 2 aluminum suggested on NikonForums; MiniBird on Camera Decision",
-      "salience": 0.42
+      "name": "Tripod head",
+      "type": "concept",
+      "relation": "ball head vs pan/tilt vs gimbal for a long zoom; TextRazor 0.48 on 2 pages (2026-11-04)",
+      "salience": 0.48
+    },
+    {
+      "name": "Monopod",
+      "type": "product",
+      "relation": "leg converts to a monopod on K&F and Sirui picks; TextRazor 0.48",
+      "salience": 0.48
     },
     {
       "name": "K&F Concept",
@@ -75,16 +75,16 @@
       "salience": 0.45
     },
     {
-      "name": "Monopod",
-      "type": "product",
-      "relation": "leg converts to a monopod on K&F and Sirui picks; TextRazor 0.48",
-      "salience": 0.48
+      "name": "Nikon Coolpix P1100",
+      "type": "camera",
+      "relation": "successor with the same body shape and tripod needs (secondary keyword)",
+      "salience": 0.4
     },
     {
-      "name": "Remote control",
-      "type": "accessory",
-      "relation": "ML-L7 Bluetooth remote or self-timer to avoid shutter-press shake",
-      "salience": 0.38
+      "name": "Sirui",
+      "type": "brand",
+      "relation": "carbon tripods recommended in DPReview and Reddit P1000 threads; TextRazor 0.40 on 3 pages (2026-11-04)",
+      "salience": 0.4
     },
     {
       "name": "Center column",
@@ -93,10 +93,40 @@
       "salience": 0.4
     },
     {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "Series 2 aluminum on NikonForums, CyanBird on B&H; TextRazor 0.38 on 2 pages",
+      "salience": 0.38
+    },
+    {
+      "name": "Remote control",
+      "type": "accessory",
+      "relation": "ML-L7 Bluetooth remote or self-timer to avoid shutter-press shake",
+      "salience": 0.38
+    },
+    {
+      "name": "Carbon-fiber reinforced polymer",
+      "type": "material",
+      "relation": "carbon fiber legs (Sirui, Falcam); TextRazor 0.38 on 2 pages",
+      "salience": 0.38
+    },
+    {
+      "name": "Neewer",
+      "type": "brand",
+      "relation": "budget gimbal head a DPReview P1000 birder uses; TextRazor 0.34 on 2 pages",
+      "salience": 0.34
+    },
+    {
       "name": "Gimbal head",
       "type": "product",
       "relation": "used by some P1000 birders; clumsy at the wide end",
       "salience": 0.3
+    },
+    {
+      "name": "Digital camera",
+      "type": "category",
+      "relation": "P1000 is a superzoom digital camera; TextRazor 0.28 on 3 pages",
+      "salience": 0.28
     }
   ],
   "attributes": [
@@ -107,7 +137,8 @@
     "folded length and weight for carrying",
     "leg lock type",
     "monopod conversion",
-    "plate fit on the shallow Coolpix socket"
+    "plate fit on the shallow Coolpix socket",
+    "center of gravity behind the socket (balance point at full zoom)"
   ],
   "ngrams": [
     "tripod for nikon p1000",
@@ -121,7 +152,11 @@
     "long plate",
     "vibration reduction",
     "carbon fiber",
-    "load capacity"
+    "load capacity",
+    "gimbal head",
+    "digital camera",
+    "aluminum tripod",
+    "extended lens"
   ],
   "skipgrams": [
     "tripod…P1000",
@@ -129,7 +164,9 @@
     "lens…extended",
     "zoom…shake",
     "column…down",
-    "load…rating"
+    "load…rating",
+    "camera…overbalance",
+    "center…gravity"
   ],
   "nlpTerms": [
     "Nikon",
@@ -160,7 +197,14 @@
     "monopod",
     "remote",
     "self-timer",
-    "VR off"
+    "VR off",
+    "Neewer",
+    "eagles",
+    "hawks",
+    "downward creep",
+    "overbalance",
+    "center of gravity",
+    "tabletop tripod"
   ],
   "questions": [
     "What is the best tripod for a Nikon P1000?",
@@ -530,8 +574,8 @@
     }
   ],
   "textrazor": {
-    "run": "2026-10-30",
-    "note": "The script's URL mode was blocked by Cloudflare on DPReview, NikonForums and B&H, so TextRazor analyzed the Firecrawl text of NikonForums and Camera Decision plus three fetchable URLs (K&F Australia P1000 page, Nikon P1000 spec page, TechGearLab tripods).",
+    "run": "2026-11-04",
+    "note": "Top 5 US (Firecrawl 2026-11-04): facebook group (no access), reddit (unsupported by scraper), YouTube, DPReview, Amazon; text scraped via Firecrawl because TextRazor URL fetch hit Cloudflare",
     "sources": [
       "nikonforums.txt",
       "cameradecision.txt",
@@ -708,6 +752,22 @@
         "relevance": 0.21,
         "wiki": "http://en.wikipedia.org/wiki/Privacy"
       }
+    ],
+    "pages": [
+      "dpreview.com tripod-recommendations-for-nikon-p1000",
+      "nikonforums.com tripod-for-p1000",
+      "bhphotovideo.com Tripods & Supports for Nikon P1000",
+      "amazon.com LIM'S P1000 dovetail plate"
+    ],
+    "missingFromPost": [
+      "Digital camera",
+      "Carbon-fiber reinforced polymer",
+      "Amazon (company)",
+      "Neewer"
+    ],
+    "addedToPost": [
+      "digital camera",
+      "Neewer gimbal head"
     ]
   }
 }

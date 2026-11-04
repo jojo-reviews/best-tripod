@@ -401,35 +401,37 @@ sources:
   - title: 'r/powerlifting: Filming at the gym, thoughts and experiences'
     url: >-
       https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/
-reviewedDate: '2026-10-30'
+reviewedDate: '2026-11-04'
+updatedDate: '2026-11-04T17:53:00.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for filming at the gym?
     a: >-
-      For most people a pole-style phone tripod such as the ULANZI MT-44: it
-      folds to 13 in, has a clamp built in and reaches 57.6 in. If you film from
-      one spot in a home gym, a full-size tripod like the Manfrotto Element MII
-      with a phone clamp is steadier.
+      The ULANZI MT-44 is the best tripod for filming at the gym for most
+      people: it folds to 13 in, has a phone clamp built in and reaches 57.6 in.
+      If you film from one spot in a home gym, the Manfrotto Element MII with a
+      phone clamp is steadier.
   - q: How high should my phone be to film squats and deadlifts?
     a: >-
-      Around knee to hip height for squats, from about 45 degrees behind and to
-      the side, and lower for deadlifts so the bar path stays in frame. Raise
-      the phone for overhead lifts so the bar never leaves the top of the shot.
+      Your phone should be at knee to hip height for squats, from about 45
+      degrees behind and to the side; drop the height for a deadlift to about
+      shin level so the bar path stays in frame. Raise it toward chest height
+      for overhead lifts.
   - q: Will a big phone in a case fit a phone tripod clamp?
     a: >-
-      Check the clamp range against your phone. The MT-44 clamp takes 60 to 80
-      mm, and an iPhone 17 Pro Max is 78.0 mm wide bare, so a thick case may not
-      fit. A separate spring clamp with a wider range solves it.
+      Often not: the MT-44 phone clamp takes 60 to 80 mm, and an iPhone 17 Pro
+      Max is 78.0 mm wide bare, so a thick case may not fit. A separate spring
+      clamp with a wider range solves it.
   - q: Is it okay to bring a tripod to the gym?
     a: >-
-      Most gyms allow a small setup if it stays out of walkways and other
-      members stay out of the shot. Check your gym's filming policy first, as
-      some ban tripods on the floor.
+      Yes, most gyms allow a small tripod if it stays out of walkways and other
+      members stay out of the shot. Some gyms ban tripods on the floor, so ask
+      the front desk once.
   - q: Do I need a full-size tripod or a mini tripod for gym videos?
     a: >-
-      A mini or pole tripod is enough on a busy floor or a bench. A full-size
-      tripod is worth it when you film the same lift from the same spot, because
-      it holds the phone at chest height without wobble.
+      A mini or pole tripod is enough for gym videos on a busy floor or a bench.
+      A full-size tripod is worth it when you film the same lift from the same
+      spot, because it holds the phone at chest height without wobble.
 illustrations:
   - prompt: >-
       A phone on a small tripod set on the gym floor at knee height, about three
@@ -439,6 +441,7 @@ illustrations:
     alt: >-
       Phone tripod set at knee height at a 45 degree angle to film a squat in
       the gym
+    caption: Set the phone at knee height, 45 degrees behind the squat
     afterHeading: 4
   - prompt: >-
       Close-up of two hands sliding a large smartphone in a slim case into a
@@ -446,6 +449,7 @@ illustrations:
       wide, gym bench and dumbbells softly blurred in the background, realistic
       photo, no logos, no text.
     alt: Hands fitting a cased phone into a tripod phone clamp before a gym set
+    caption: Check your cased phone fits the clamp before your set
     afterHeading: 5
   - prompt: >-
       A compact tripod with its legs spread wide standing against a wall beside
@@ -455,6 +459,7 @@ illustrations:
     alt: >-
       Gym tripod placed against the wall with legs spread and a bag as ballast,
       out of the walkway
+    caption: Park the tripod by the wall and hang your bag as ballast
     afterHeading: 6
 videos:
   - id: 8nb2Ljf3aho
@@ -469,13 +474,11 @@ related:
   - best-tripod-for-live-streaming
 ---
 
-The best tripod for gym videos is a small phone tripod that sets up in seconds, stays out of other people's way and holds your smartphone at the height of the lift for a clean form check. For most gym-goers I pick the [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod); for filming lifts from one spot in a home gym, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head) is steadier. I matched five tripods to gym situations using maker specs and owner reports. We have not used these tripods ourselves.
+The best tripod for gym videos is a small phone tripod that sets up in seconds, stays out of walkways and holds your smartphone at the height of the lift for a clean form check. For most gym-goers I pick the [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod); to film lifts from one spot in a home gym, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head) is steadier. I matched five tripods to gym situations from maker specs and owner reports; we have not used them ourselves.
 
-## Best tripod for gym videos picks at a glance
+## Gym tripod comparison: height, folded length and phone holder
 
 **A gym tripod should fold into a gym bag, reach the height of your lift and hold a phone without wobble.** If you also film talking heads or product shots at home, our guide to [tripods for content creators](/blog/best-tripod-for-content-creators/) covers those setups.
-
-This table compares the five gym tripods on the numbers that matter between sets:
 
 | Tripod | Gym job | Max height | Folded | Weight | Phone holder |
 |---|---|---|---|---|---|
@@ -493,11 +496,11 @@ This table compares the five gym tripods on the numbers that matter between sets
 
 ## The 5 best tripods for gym videos, reviewed
 
-**Each tripod for gym videos below fits one way of filming a workout, so start from where your phone will sit.**
+**The right tripod for gym videos follows where the phone sits: gym floor, platform, moving coach, full gym bag or bench.**
 
 ### ULANZI MT-44 Extendable Tripod: best tripod for gym videos in a gym bag
 
-The ULANZI MT-44 is a 6-section selfie-stick tripod from Ulanzi, and it is the one I'd put in most gym bags. It weighs 422 g, folds to 13 in and reaches 57.6 in, with a ball head and a folding phone clamp on top, so there is nothing extra to pack. The legs close into a grip, which makes it a handheld stick for walking shots too. B&H rates it for 1 kg, about four times an iPhone 17 Pro Max. What I'd watch is height: owners say it wobbles at full extension, and Metric's gym guide notes the same with its all-in-one pick when you tap record. I'd keep a section or two down and start recording with a timer or remote, especially with a velocity-based training app such as Metric Lift, which Metric says needs a steady phone to track bar speed and bar path. The clamp tops out at 80 mm, so check your phone and case first (more on that below).
+The ULANZI MT-44 is a 6-section selfie stick tripod from Ulanzi, and the one I'd put in most gym bags. It weighs 422 g, folds to 13 in and reaches 57.6 in, with a ball head and folding phone clamp on top, so there is nothing extra to pack. The legs close into a grip for handheld walking shots. B&H rates it for 1 kg, about four times an iPhone 17 Pro Max. What I'd watch is height: owners report wobble at full extension, and Metric's gym guide notes the same with its all-in-one pick when you tap record. I'd keep a section or two down and start recording with a timer or remote, especially with a velocity-based training app such as Metric Lift, which Metric says needs a steady phone to track bar speed and bar path. The clamp tops out at 80 mm, so check your phone and case first (more on that below).
 
 ### Manfrotto Element MII Aluminum Tripod with Ball Head: best tripod for filming lifts on the platform
 
@@ -509,13 +512,13 @@ The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+alumin
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: lightest full-height tripod for gym content
 
-The [SIRUI Traveler 5C](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) is a 5-section carbon fiber travel tripod with a ball head from SIRUI, and the one I'd pick when your gym bag is already full. At 0.85 kg and 13 in folded it weighs about half the Element MII, yet it reaches 54.3 in. The 4 kg rating also covers a small mirrorless camera if your gym content moves past a phone. Owners like the weight for the money; the recurring complaint is thin lower sections that flex at full extension, so I'd leave the last section in for overhead shots. Like the Manfrotto, it needs a separate phone clamp on the Arca-type plate.
+The [SIRUI Traveler 5C](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) is a 5-section carbon fiber travel tripod with a ball head from SIRUI, and the one I'd pick when your gym bag is already full. At 0.85 kg and 13 in folded it weighs about half the Element MII, yet it reaches 54.3 in. Its 4 kg rating makes it a real camera tripod for a small mirrorless body if your gym content moves past a phone. Owners like the weight for the money; the recurring complaint is thin lower sections that flex at full extension, so I'd leave the last section in for overhead shots. Like the Manfrotto, it needs a separate phone clamp on the Arca-type plate.
 
 ### Manfrotto PIXI Mini Tripod: best bench-top tripod for gym videos
 
 The [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+MTPIXIMII-B) is a rigid tabletop tripod with a push-button ball head from Manfrotto, and my pick for filming from a bench, plyo box or stack of plates. It is 13.5 cm tall, 18.5 cm closed and 170 g, with a 1 kg rating. Its fixed legs have nothing to collapse or creep, and the button lets you angle the phone up toward a press in one move. Owners like the solid ball head and the closed-leg grip; the trade-offs are a ball head that feels tight and no height adjustment at all. It needs a phone clamp, and it only works where a surface sits at the height you need. For the full mini versus flexible debate, see our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/).
 
-Which one should you get?
+**Which one should you get?**
 
 - You train at a busy commercial gym and want one tool: ULANZI MT-44.
 - You film the same lifts from one spot at home or on a platform: Manfrotto Element MII.
@@ -525,10 +528,10 @@ Which one should you get?
 
 ## Gym tripod height and angle for each lift
 
-**Set the gym tripod at the height of each exercise, not at your eye level.** A reply in r/beginnerfitness puts it simply: "Film your squats from about knee height (use a tripod) from 45 degrees behind and to the side." The video below from Jason Dom shows phone placement for gym clips.
+**Set the gym tripod at the height of each exercise, not at your eye level.** A reply in r/beginnerfitness puts it simply: "Film your squats from about knee height (use a tripod) from 45 degrees behind and to the side." The video in this section from Jason Dom shows phone placement for gym clips.
 
-1. Squat: set the phone at knee to hip height at a 45 degree angle behind and to the side, far enough back to see your shoulders and feet.
-2. Deadlift: go lower, near shin height, side-on, so the bar path stays in frame from the floor.
+1. Squat: set the phone at knee to hip height at a 45 degree angle behind and to the side, far enough from the squat rack to see your shoulders and feet.
+2. Deadlift: use shin height for a deadlift, side-on, so the bar path stays in frame from the floor.
 3. Bench press: set it at bench height from the side, or use the PIXI on the next bench.
 4. Overhead press and Olympic lifts: raise the phone toward chest height so the bar stays in frame at lockout, ideally on legs alone.
 5. Classes and yoga: go wide and low from a corner, with the phone in landscape. Use portrait for reels and TikTok, and landscape for coach review.
@@ -537,7 +540,7 @@ The Element MII and Peak Design reach chest height without the column; the MT-44
 
 ## Will your phone fit the gym tripod clamp?
 
-**Measure your phone in its case before you buy, because clamp range is the spec most gym tripod buyers miss.** The MT-44 clamp takes phones [60 to 80 mm wide](https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html), and Apple lists the iPhone 17 Pro Max at [78.0 mm wide](https://support.apple.com/en-us/125091) bare. That leaves about 2 mm for a case, so many cased Pro Max phones will not fit. Weight is not the problem: at 233 g the phone uses about a quarter of the MT-44's 1 kg rating. MagSafe stands skip the clamp entirely, but Swarmify notes a clamp-based setup is safer when there is movement around the phone, which describes most gym floors. Android phones vary in width too, so check yours. If your phone is too wide, add a spring clamp with a wider range that threads onto the 1/4-20 screw; it also turns the Element MII, SIRUI or PIXI into a phone tripod.
+**Most phones fit a gym tripod clamp, but a cased iPhone 17 Pro Max may not: the MT-44 clamp takes phones [60 to 80 mm wide](https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html), and Apple lists that iPhone at [78.0 mm wide](https://support.apple.com/en-us/125091) bare.** That leaves about 2 mm for a case, so measure your phone in its case before you buy. Weight is not the problem: at 233 g the phone uses about a quarter of the MT-44's 1 kg rating. MagSafe stands skip the clamp entirely, but Swarmify notes a clamp-based setup is safer when there is movement around the phone, which describes most gym floors. Android phones vary in width too, so check yours. If your phone is too wide, add a spring clamp with a wider range that threads onto the 1/4-20 screw; it also turns the Element MII, SIRUI or PIXI into a phone tripod.
 
 ## Gym tripod problems owners run into, and the fix
 
@@ -550,4 +553,4 @@ The Element MII and Peak Design reach chest height without the column; the MT-44
 
 ## Which gym video tripod should you get?
 
-**The right tripod for gym videos depends on where your phone sits.** On a busy floor, the ULANZI MT-44 does the most in the least space; on a platform or in a home gym, the Manfrotto Element MII with a clamp is steadier. Coaches who move constantly get the most from the Peak Design, bag-weight savers from the SIRUI Traveler 5C, and bench filmers from the PIXI Mini. Want a remote to start clips from the bar? See our [phone tripods with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/), or our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/) if you move to a camera.
+**The ULANZI MT-44 is the best tripod for gym videos on a busy floor, and the Manfrotto Element MII with a clamp is steadier on a platform or in a home gym.** Want a remote to start clips from the bar? See our [phone tripods with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/), or our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/) if you move to a camera.
