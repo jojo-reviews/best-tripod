@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "astro dev",
     "prebuild": "node scripts/redirects.mjs",
-    "build": "astro build",
+    "build": "node scripts/entity-cache.mjs && astro build",
     "preview": "astro preview",
     "check:content": "node scripts/check-content.mjs",
     "qa": "node scripts/qa.mjs",

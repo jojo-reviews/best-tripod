@@ -79,6 +79,30 @@ const related = [
 // The closest guide becomes the 'Read next' card; the rest fill 'Related guides'.
 const [readNext, ...relatedRest] = related;
 
+// Owner rule 2026-11-04: all TextRazor entities of the post go into the schema as Things with
+// name, description and sameAs [Wikipedia, Google kgmid, Wikidata] (data/entity-cache.json from scripts/entity-cache.mjs).
+const entityThings = (() => {
+  const slug = englishId ?? post.id;
+  let shared: { entity: string; relevance?: number; wiki?: string; wikidata?: string; kgmid?: string }[] = [];
+  try { shared = JSON.parse(fs.readFileSync(`data/briefs/${slug}.entities.json`, 'utf8')).sharedEntities ?? []; } catch {}
+  let cache: Record<string, { qid: string; description: string; kgmid: string } | null> = {};
+  try { cache = JSON.parse(fs.readFileSync('data/entity-cache.json', 'utf8')); } catch {}
+  const things = shared.filter((e) => e.entity && e.wiki).map((e) => {
+    const title = decodeURIComponent(e.wiki!.split('/wiki/')[1] ?? '').replace(/_/g, ' ');
+    const hit = cache[title];
+    const c = { qid: e.wikidata || hit?.qid || '', kgmid: e.kgmid || hit?.kgmid || '', description: hit?.description || '' };
+    const name = e.entity.replace(/\s*\([^)]*\)$/, '');
+    const sameAs = [e.wiki!.replace(/^http:/, 'https:')];
+    if (c?.kgmid) sameAs.push(`https://www.google.com/search?q=${encodeURIComponent(name)}&kgmid=${c.kgmid}`);
+    if (c?.qid) sameAs.push(`https://www.wikidata.org/wiki/${c.qid}`);
+    return { rel: e.relevance ?? 0, thing: { '@type': 'Thing', name, ...(c?.description ? { description: c.description } : {}), sameAs } };
+  }).sort((a, b) => b.rel - a.rel);
+  if (!things.length) return { about: d.entities.slice(0, 8).map((name) => ({ '@type': 'Thing', name })), mentions: [] };
+  const top = things.filter((t) => t.rel >= 0.7);
+  const aboutN = Math.max(1, Math.min(top.length || 3, 5));
+  return { about: things.slice(0, aboutN).map((t) => t.thing), mentions: things.slice(aboutN).map((t) => t.thing) };
+})();
+
 const jsonLd: object[] = [
   {
     '@context': 'https://schema.org',
@@ -96,7 +120,8 @@ const jsonLd: object[] = [
     wordCount: post.body?.split(/\s+/).length,
     ...(d.reviewedDate ? { lastReviewed: d.reviewedDate.toISOString() } : {}),
     keywords: [d.keyword, ...d.secondaryKeywords].join(', '),
-    about: d.entities.slice(0, 8).map((name) => ({ '@type': 'Thing', name })),
+    about: entityThings.about,
+    ...(entityThings.mentions.length ? { mentions: entityThings.mentions } : {}),
     image: { '@type': 'ImageObject', url: absUrl(hero ?? '/og-default.png'), width: 1200, height: 630 },
     author: authorSchema(author),
     publisher: { '@id': absUrl('/#organization') },
