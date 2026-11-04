@@ -383,6 +383,12 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
 
   // --- Media and sourced numbers
   mediaRules(d, body, { pub, err, warn });
+  // Patent rule 2026-11-04 (US9767157B2, relative phrase frequency): a sentence copied word for word into 3+ posts is sitewide boilerplate.
+  { const sents = (t) => new Set(String(t).replace(/\s+/g, ' ').split(/(?<=[.!?])\s+/).map((x) => x.trim()).filter((x) => x.split(' ').length >= 8 && !/^[|#>!\[-]/.test(x)));
+    const mine = sents(body); const seen = new Map();
+    for (const p of posts) { if (p.slug === post.slug) continue; for (const s of sents(p.content)) if (mine.has(s)) seen.set(s, (seen.get(s) ?? 0) + 1); }
+    const rep = [...seen].filter(([, n]) => n >= 2);
+    if (rep.length) warn(`${rep.length} sentence(s) also appear word for word in 2+ other posts (sitewide boilerplate, patent rule 2026-11-04), e.g. "${rep[0][0].slice(0, 80)}"; write a post-specific sentence`); }
 
   // --- SEO
   const briefFile = path.join(BRIEFS, `${post.slug}.json`);
