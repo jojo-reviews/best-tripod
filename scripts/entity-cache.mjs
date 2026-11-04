@@ -38,7 +38,7 @@ try {
       sitefilter: 'enwiki', languages: 'en', normalize: '1', format: 'json', maxlag: '5',
     });
     const res = await fetch(url, { headers: { 'User-Agent': UA, 'Api-User-Agent': UA }, signal: AbortSignal.timeout(15000) });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${(await res.text()).slice(0, 120)}`);
     const data = await res.json();
     const found = new Map();
     for (const [qid, ent] of Object.entries(data.entities ?? {})) {
@@ -55,7 +55,9 @@ try {
     await new Promise((r) => setTimeout(r, 300));
   }
 } catch (e) {
-  console.warn(`[entity-cache] Wikidata lookup skipped (${e.message}); schema uses the cached data and Wikipedia links only`);
+  const msg = `[entity-cache] Wikidata lookup skipped (${e.message}${e.cause ? ' / ' + (e.cause.code || e.cause.message) : ''}); schema uses the cached data and Wikipedia links only`;
+  console.warn(process.env.GITHUB_ACTIONS ? `::warning::${msg}` : msg);
 }
 fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 1) + '\n');
-console.log(`[entity-cache] ${ok} new entities resolved, cache has ${Object.keys(cache).length}`);
+const done = `[entity-cache] ${ok} new entities resolved, cache has ${Object.keys(cache).length}`;
+console.log(process.env.GITHUB_ACTIONS ? `::notice::${done}` : done);
