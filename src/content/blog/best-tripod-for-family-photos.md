@@ -434,7 +434,7 @@ sources:
   - title: 'r/AskPhotography: Tips for family photos on tripod?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best tripod for family photos?
@@ -534,7 +534,7 @@ This table compares the five on height, size, weight and load capacity:
 
 ### Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2): best tripod for family portraits at home
 
-The Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head is a full-size aluminum tripod from Manfrotto, sold with its XPRO ball head. Manfrotto lists it at [57.68 in with the centre column down](https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/) and 67.52 in fully up, with a 15 kg safety payload. That is the tallest steady height in our list, and three thick leg sections hold a DSLR with an 85mm camera lens well within that rating. A family photographer who shoots her own portraits uses a heavy Manfrotto 190 at home, and B&H owners call the kit sturdy and praise the swing-out column. The same owners say the ball head's knobs can get in each other's way, and the kit tips if left with the column swung out. At 5.51 lb and 27.76 in folded, I'd keep it in the car rather than a carry-on.
+The Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head is a full-size aluminum tripod from Manfrotto, sold with its XPRO ball head. Manfrotto lists it at [57.68 in with the center column down](https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/) and 67.52 in fully up, with a 15 kg safety payload. That is the tallest steady height in our list, and three thick leg sections hold a DSLR with an 85mm camera lens well within that rating. A family photographer who shoots her own portraits uses a heavy Manfrotto 190 at home, and B&H owners call the kit sturdy and praise the swing-out column. The same owners say the ball head's knobs can get in each other's way, and the kit tips if left with the column swung out. At 5.51 lb and 27.76 in folded, I'd keep it in the car rather than a carry-on.
 
 ### Vanguard Alta Pro 263AB G2: best family photo tripod for uneven ground
 

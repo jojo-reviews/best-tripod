@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-r8",
   "pass": true,
-  "checkedAt": "2026-11-03T16:28:40.064Z",
+  "checkedAt": "2026-11-04T09:24:02.069Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,20 +10,12 @@
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf24-105mm-f4-7-1-is-stm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f4-l-is-usm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf100-400mm-f5-6-8-is-usm",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1br4awq/tripod_for_the_canon_r8/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-03: Canon R8 461 g with battery and card (Canon EOS R8 manual specifications page); RF 24-105 F4-7.1 IS STM 395 g, RF 70-200 F4 L 695 g, RF 100-400 635 g (Canon USA product pages); load math 856 g / 1,156 g, headroom 7.8x on 9-9.07 kg ratings, tripod-to-camera ratio 1.8x / 3.5x. Product specs: Peak Design Travel Tripod Aluminum (Peak Design page + ShutterMuse spec table + Amazon title 20 lb); Befree Advanced Lever (B&H/Manfrotto: 50.39 in column down, 15.75 in, 9 kg, 494 head, RC2/Arca plate); Leofoto LS-284CX+LH-30 (B&H: 22 lb, 6.3-67.7 in, 22 in folded, twist locks, 3.2 lb, Arca LH-30; Lonely Speck ~50 in no column); Benro Mach3 TMA38CL (Amazon title + Benro USA: 69.7 in, 35.3 lb, 4 sections, twist locks, legs only, 23.2 in, 4.52 lb); Manfrotto 055 MK055XPRO3-BHQ2 (Manfrotto: 59.65 in column down, 15 kg, 28.54 in, 6.61 lb, 200PL-14). ASINs hand-checked on Amazon US via Firecrawl: B085BQS6K4 (in stock), B0772WLSHZ (in stock, Amazon.com), B0DQNKMF8Y (in stock), B00YEU96GQ (in stock), B010R4BO12 (in stock, Amazon.com); Vanguard VEO 3GO 235CB/265HCB dropped (out of stock). Owner claims checked against Canon Rumors R8 threads, Camera Rumors R8 thread, r/canon excerpts; quotes copied verbatim from the Canon Rumors pages. Video -3tbGcmQvGo checked (Befree setup with Canon R8, MrPistoneTechtips).",
-    "at": "2026-11-03T11:32:08.043Z",
-    "hash": "1025e6adeb2dce24"
+    "notes": "Verified 2026-11-03: Canon R8 461 g with battery and card (Canon EOS R8 manual specifications page); RF 24-105 F4-7.1 IS STM 395 g, RF 70-200 F4 L 695 g, RF 100-400 635 g (Canon USA product pages); load math 856 g / 1,156 g, headroom 7.8x on 9-9.07 kg ratings, tripod-to-camera ratio 1.8x / 3.5x. Product specs: Peak Design Travel Tripod Aluminum (Peak Design page + ShutterMuse spec table + Amazon title 20 lb); Befree Advanced Lever (B&H/Manfrotto: 50.39 in column down, 15.75 in, 9 kg, 494 head, RC2/Arca plate); Leofoto LS-284CX+LH-30 (B&H: 22 lb, 6.3-67.7 in, 22 in folded, twist locks, 3.2 lb, Arca LH-30; Lonely Speck ~50 in no column); Benro Mach3 TMA38CL (Amazon title + Benro USA: 69.7 in, 35.3 lb, 4 sections, twist locks, legs only, 23.2 in, 4.52 lb); Manfrotto 055 MK055XPRO3-BHQ2 (Manfrotto: 59.65 in column down, 15 kg, 28.54 in, 6.61 lb, 200PL-14). ASINs hand-checked on Amazon US via Firecrawl: B085BQS6K4 (in stock), B0772WLSHZ (in stock, Amazon.com), B0DQNKMF8Y (in stock), B00YEU96GQ (in stock), B010R4BO12 (in stock, Amazon.com); Vanguard VEO 3GO 235CB/265HCB dropped (out of stock). Owner claims checked against Canon Rumors R8 threads, Camera Rumors R8 thread, r/canon excerpts; quotes copied verbatim from the Canon Rumors pages. Video -3tbGcmQvGo checked (Befree setup with Canon R8, MrPistoneTechtips). Re-verified 2026-11-04: only change is the spelling fix 'favour' -> 'favor' (patent rule 2026-11-04); no facts changed.",
+    "at": "2026-11-04T09:24:01.579Z",
+    "hash": "49a0ed0e74f0acf3"
   }
 }

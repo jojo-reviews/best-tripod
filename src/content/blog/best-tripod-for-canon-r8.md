@@ -429,7 +429,7 @@ sources:
       https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/
   - title: 'RF Shooters: Tripod shake or building shake'
     url: 'https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/'
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best tripod for a Canon R8?
@@ -570,7 +570,7 @@ The MrPistoneTechtips video in this section sets up a Befree on an R8.
 - **Thin legs hum in wind.** One R8 owner wrote, "The vibration was a nightmare and my long exposures were basically ruined because the legs are just too thin for any real wind." Use the Leofoto or Mach3.
 - **Fear of tipping.** A Canon Rumors tip: "always hang your camera bag on the center hook for extra stability if it's even a little bit windy."
 - **Budget legs stick.** An R8 owner's cheap tripod had "the legs keep sticking when I am trying to catch the light." Buy once.
-- **Ball head or pan-tilt?** Threads favour a ball head; see our [ball head vs pan-tilt guide](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/).
+- **Ball head or pan-tilt?** Threads favor a ball head; see our [ball head vs pan-tilt guide](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/).
 - **The L-bracket blocks the screen.** r/canon owners want R8 brackets that clear the side-swinging screen; a plain Arca-type plate avoids it.
 
 For that shoreline, I'd carry the Leofoto. Smaller APS-C body? See our [Canon R50 tripod picks](/blog/best-tripod-for-canon-r50/).

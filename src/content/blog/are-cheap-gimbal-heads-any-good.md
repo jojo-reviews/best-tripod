@@ -192,7 +192,7 @@ sources:
     url: 'https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/'
   - title: 'Nikonites: Inexpensive Gimbal Head'
     url: 'https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/'
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-04'
 updatedDate: '2026-11-01T17:55:00.000Z'
 faqs:
   - q: Is a cheap gimbal head good enough for a 600mm lens?
@@ -236,7 +236,7 @@ related:
   - best-gimbal-head-for-150-600mm-lens
 ---
 
-Are cheap gimbal heads any good? Yes: a cheap gimbal head holds a 150-600mm or 200-500mm zoom well for occasional use, as long as you accept stiffer, less refined motion. It is also the lowest-risk way to learn whether you will use a gimbal at all. We would step up to a premium tripod head only for a 500mm or 600mm f/4 prime used for long sessions, or for daily tracking of birds in flight.
+Are cheap gimbal heads any good? Yes: a cheap gimbal head holds a 150-600mm or 200-500mm zoom well for occasional use, as long as you accept stiffer, less refined motion. It is also the lowest-risk way to learn whether you will use a gimbal at all; the two budget heads worth a look are the aluminum Oben GH-30 and the carbon Sirui PH-20. We would step up to a premium tripod head only for a 500mm or 600mm f/4 prime used for long sessions, or for daily tracking of birds in flight.
 
 ## What a Cheap Gimbal Head Does Well
 

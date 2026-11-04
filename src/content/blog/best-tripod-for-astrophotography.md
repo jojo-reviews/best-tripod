@@ -422,7 +422,7 @@ sources:
     url: 'https://www.space.com/best-tripods'
   - title: 'PhotoPills: Best Milky Way photography gear'
     url: 'https://www.photopills.com/articles/best-milky-way-photography-gear'
-reviewedDate: '2026-11-02T00:00:00.000Z'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: Do you need a special tripod for astrophotography?
@@ -542,7 +542,7 @@ Here is how my five picks line up against two common rigs:
 
 The tripod head counts too: a ball head that creeps under a tracker's weight smears stars just like flexing legs, so its rating should clear the same target. The rated load per kilogram you carry tells you which tripod gives the most stability for the walk: Tortoise 9.3, Mach3 8.6, Peak Design 7.2, Befree 5.7 and the 055 kit 5.0. Load ratings are maximums, not working loads, so the margin matters more than the headline figure.
 
-Material follows the same logic. Skies & Scopes found the tripods used by Milky Way Photographer of the Year winners were [100% carbon fibre](https://skiesandscopes.com/camera-tripod/) in 2026, with no single model dominating. Carbon-fiber reinforced polymer gives more stiffness per gram than aluminium and stays less cold to the touch on a winter night. A full telescope on an equatorial mount is a different class; my guide to the [best tripod for telescope mounts](/blog/best-tripod-for-telescope/) covers that.
+Material follows the same logic. Skies & Scopes found the tripods used by Milky Way Photographer of the Year winners were [100% carbon fiber](https://skiesandscopes.com/camera-tripod/) in 2026, with no single model dominating. Carbon-fiber reinforced polymer gives more stiffness per gram than aluminium and stays less cold to the touch on a winter night. A full telescope on an equatorial mount is a different class; my guide to the [best tripod for telescope mounts](/blog/best-tripod-for-telescope/) covers that.
 
 ## Astrophotography Tripod Height With the Column Down
 

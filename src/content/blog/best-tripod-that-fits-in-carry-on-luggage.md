@@ -325,7 +325,7 @@ sources:
   - title: 'DPReview forum: lightest tripod for hiking'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-10-30'
+reviewedDate: '2026-11-04'
 updatedDate: '2026-10-30T17:59:00.000Z'
 author: editorial-team
 faqs:
@@ -372,7 +372,7 @@ related:
   - 4-section-vs-5-section-tripod
 ---
 
-The roller bag is open on the hotel bed, and the tripod is two inches longer than the bag. So it stays home, and you handhold the blue hour. The best tripod that fits in carry on luggage fixes that first: it folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. We picked three, from a 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. We have not used these tripods ourselves, and we say where each number comes from.
+The roller bag is open on the hotel bed, and the tripod is two inches longer than the bag. So it stays home, and you handhold the blue hour. The best tripod that fits in carry on luggage fixes that first: it folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. For most mirrorless travelers, the pick is the SIRUI Traveler 5C: 13 in folded and 1.87 lb with its ball head. We picked three, from that 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. We have not used these tripods ourselves, and we say where each number comes from.
 
 ## Quick answer: the best tripod that fits in carry-on luggage
 

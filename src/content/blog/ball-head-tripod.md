@@ -110,7 +110,7 @@ products:
           Tightening makes the camera tilt up slightly, though another poster
           says every ball head creeps when locked
         - >-
-          A 2015 Traumflieger droop test, summarised on mcaughtry.photo, showed
+          A 2015 Traumflieger droop test, summarized on mcaughtry.photo, showed
           8 mm of droop at 4 kg, a poor result in that test
       sources:
         - title: 'DPReview: I do not love the RRS BH-40'
@@ -208,7 +208,7 @@ sources:
   - title: 'DPReview forum: Do even good ball heads drop slightly after setting?'
     url: >-
       https://www.dpreview.com/forums/threads/do-even-good-ball-heads-drop-slightly-after-setting.2894623/
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-04'
 updatedDate: '2026-10-30T17:58:00.000Z'
 faqs:
   - q: What does a ball head do on a tripod?
@@ -279,7 +279,7 @@ This table compares the two heads on maker specs.
 
 The Really Right Stuff BH-40 is a 40mm Arca-Swiss style ball head from Really Right Stuff, with a lever-release Arca clamp and a lockable 360° panning base marked in 2.5° steps. Photography & Travel calls it the top-of-the-line pick. Exploring Exposure ranked it a close second of eight heads, behind the Acratech GXP, and it barely changed after a -20 F freezer night.
 
-DPReview owners praise its lifespan: one reports years of smooth, maintenance-free panning, another eight-plus years without issues. Complaints are the ball-lock handle getting in the way and a slight upward tilt while tightening. The 18 lb rating is modest, and Exploring Exposure saw drift with very large lenses, so I'd keep it to kits up to a 70-200mm. A 2015 Traumflieger droop test, summarised on mcaughtry.photo, measured 8 mm at 4 kg. RRS adds a 5-year guarantee.
+DPReview owners praise its lifespan: one reports years of smooth, maintenance-free panning, another eight-plus years without issues. Complaints are the ball-lock handle getting in the way and a slight upward tilt while tightening. The 18 lb rating is modest, and Exploring Exposure saw drift with very large lenses, so I'd keep it to kits up to a 70-200mm. A 2015 Traumflieger droop test, summarized on mcaughtry.photo, measured 8 mm at 4 kg. RRS adds a 5-year guarantee.
 
 ### Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate: Best low-profile pick
 

@@ -471,7 +471,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best tripod for landscape photography?
@@ -519,7 +519,7 @@ related:
   - how-to-weigh-down-a-tripod-without-a-sandbag
 ---
 
-A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. We checked each spec against the maker's page and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
+A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. If you hike in with a mirrorless kit, my pick is the Peak Design Travel Tripod (Aluminum), 15.5 in folded with a built-in ball head; for ground-hugging foregrounds, the Manfrotto MT190XPRO3 drops to 3.54 in. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. We checked each spec against the maker's page and read what owners report. We did not use these tripods ourselves; every number is a maker's claim, a reviewer's figure or an owner report, and we say which.
 
 ## Landscape Photography Tripod Picks at a Glance
 

@@ -309,7 +309,7 @@ sources:
   - title: Benro GD3WH (Park Cameras)
     url: >-
       https://parkcameras.com/p/6375994W/tripod-heads/benro/gd3wh-precision-geared-tripod-head
-reviewedDate: '2026-10-30T18:02:11.000Z'
+reviewedDate: '2026-11-04'
 updatedDate: '2026-10-30T18:02:11.000Z'
 faqs:
   - q: Is a ball head or pan tilt head better for landscapes?
@@ -359,7 +359,7 @@ related:
   - ball-head-tripod
 ---
 
-Ball head vs pan tilt head for landscape photography comes down to one trade: speed and weight against precision. A ball head swings the camera anywhere on one knob. A pan tilt head (also called a 3-way head) moves one axis at a time, so the horizon stays put. In my view neither tripod head is wrong; it depends on how far you walk, how fast the light moves and how fussy you are about a level horizon. Below is the short answer, five heads worth considering and a clear way to decide.
+Ball head vs pan tilt head for landscape photography comes down to one trade: speed and weight against precision. A ball head swings the camera anywhere on one knob. A pan tilt head (also called a 3-way head) moves one axis at a time, so the horizon stays put. In my view neither tripod head is wrong; it depends on how far you walk, how fast the light moves and how fussy you are about a level horizon. Of the five heads below, the Leofoto LH-40 and Sirui K-30X are the light Arca-Swiss ball heads I'd hike with, and the Benro GD3WH is the geared pick for exact framing.
 
 ## Ball Head vs Pan Tilt Head for Landscape Photography: The Short Answer
 
@@ -395,7 +395,7 @@ The [Leofoto LH-40](amzn:Leofoto+LH-40+ball+head) is a low-profile ball head fro
 
 ### Sirui K-30X Ball Head: Best lightweight pick
 
-The [Sirui K-30X Ball Head](amzn:Sirui+K-30X+ball+head) is an aluminium ball head from Sirui and the lightest high-capacity option here: a 44 mm ball rated for 30 kg at about 0.5 kg. That rating sits far above any landscape kit. It uses an Arca-style quick release and pans a full 360 degrees, so it works with Arca L-brackets and can handle simple panoramas. On the downside, retailers list slightly different height and weight figures, so read the maker's spec sheet rather than trusting one listing. Its ball is also smaller than the one on Sirui's K-40X, which is the step up if you plan to mount a long telephoto lens. For a daypack or carry-on kit built around a mirrorless body, this is the head we would put on a short list. Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) guide covers legs it pairs well with.
+The [Sirui K-30X Ball Head](amzn:Sirui+K-30X+ball+head) is an aluminum ball head from Sirui and the lightest high-capacity option here: a 44 mm ball rated for 30 kg at about 0.5 kg. That rating sits far above any landscape kit. It uses an Arca-style quick release and pans a full 360 degrees, so it works with Arca L-brackets and can handle simple panoramas. On the downside, retailers list slightly different height and weight figures, so read the maker's spec sheet rather than trusting one listing. Its ball is also smaller than the one on Sirui's K-40X, which is the step up if you plan to mount a long telephoto lens. For a daypack or carry-on kit built around a mirrorless body, this is the head we would put on a short list. Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) guide covers legs it pairs well with.
 
 ### Manfrotto XPRO 3-Way Head MHXPRO-3W: Best 3-way pan-tilt head
 

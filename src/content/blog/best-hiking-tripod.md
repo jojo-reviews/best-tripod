@@ -471,7 +471,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/
 updatedDate: '2026-10-29T12:48:31.000Z'
-reviewedDate: '2026-10-30'
+reviewedDate: '2026-11-04'
 author: editorial-team
 faqs:
   - q: What is the best hiking tripod?
@@ -529,7 +529,7 @@ related:
   - travel-tripod-vs-full-size-tripod-for-landscape-photography
 ---
 
-The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
+The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
 
 ## Best hiking tripod picks by pack weight
 
