@@ -434,7 +434,7 @@ The Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) 
 
 Height is the catch. The 66.9 in maximum needs the column raised; B&H lists 55 in with it down, and a reviewer at The Center Column measured about 55.5 in with legs only. Adding my 5 to 8 in allowance gives about 60 to 63 in at the viewfinder, short of eye level for most people over 6 feet. It is legs only, so budget for a head, ideally one with an Arca-Swiss clamp; our [Manfrotto brand page](/brand/manfrotto/) lists the Manfrotto heads we cover.
 
-Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up; the repeated complaint is weight and bulk.
+Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up; the repeated complaint is weight and bulk. Its carbon 4-section sibling is one of our [best tripods for headshots](/blog/best-tripod-for-headshots/).
 
 ### K&F Concept 90 inch Tripod: tallest option
 

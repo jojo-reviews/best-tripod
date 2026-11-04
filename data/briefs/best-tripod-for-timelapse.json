@@ -500,12 +500,14 @@
     {
       "slug": "best-tripod-for-gopro",
       "find": "Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky.",
-      "replace": "Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/))."
+      "replace": "Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/)).",
+      "appliedAt": "2026-11-04T16:25:09.095Z"
     },
     {
       "slug": "how-to-stop-tripod-shake-in-wind",
       "find": "If it still shakes, we switch to faster shutter speeds and stacked exposures.",
-      "replace": "If it still shakes, we switch to faster shutter speeds and stacked exposures; for hour-long sequences, a heavier [timelapse tripod](/blog/best-tripod-for-timelapse/) helps more."
+      "replace": "If it still shakes, we switch to faster shutter speeds and stacked exposures; for hour-long sequences, a heavier [timelapse tripod](/blog/best-tripod-for-timelapse/) helps more.",
+      "appliedAt": "2026-11-04T16:25:09.986Z"
     }
   ],
   "secondaryKeywords": [

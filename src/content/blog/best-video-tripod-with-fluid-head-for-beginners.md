@@ -353,9 +353,9 @@ The best video tripod with fluid head for beginners is the one whose payload, pl
 
 ### NEEWER TP74 74 inch Video Tripod with Fluid Head: best budget fluid head video tripod
 
-The NEEWER TP74 74 inch Video Tripod with Fluid Head is a twin-tube aluminum video tripod from NEEWER, rated for 17.6 lb (8 kg). That rating leaves real headroom for a cage, monitor and microphone on top of the camera. A mid-level spreader and a 75mm bowl with a bubble level make it the closest thing to a "real" video tripod in this group.
+The NEEWER TP74 74 inch Video Tripod with Fluid Head is a twin-tube aluminum video tripod from NEEWER, rated for 17.6 lb (8 kg). That rating leaves real headroom for a cage, monitor and microphone on top of the camera; to roll that rig between setups, see our [tripod dolly picks](/blog/best-tripod-dolly/). A mid-level spreader and a 75mm bowl with a bubble level make it the closest thing to a "real" video tripod in this group.
 
-Its dual-mode quick release takes a 501PL/504PL style plate or a DJI RS2 or RS3 gimbal directly. That saves time when you switch between handheld and locked-off shooting. The trade-off is bulk: Neewer lists 8.8 lb, some Amazon sellers up to 10.9 lb, and it folds to about 36 inches.
+Its dual-mode quick release takes a 501PL/504PL style plate or a DJI RS2 or RS3 gimbal directly. That saves time when you switch between handheld and locked-off shooting, as when [recording school plays](/blog/best-tripod-for-recording-school-plays/) from the back row. The trade-off is bulk: Neewer lists 8.8 lb, some Amazon sellers up to 10.9 lb, and it folds to about 36 inches.
 
 Owners in a Lynn Barsigian roundup call it stable and easy to set up, with smooth pan and tilt for the money. The same source and UK reviews of the sibling TP75 mention slight spring-back when tilt is loose. The legs must be pulled out on both sides. Neewer's [TP74 product page](https://neewer.com/collections/tripods/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212) lists the 360-degree pan and the 75mm bowl.
 

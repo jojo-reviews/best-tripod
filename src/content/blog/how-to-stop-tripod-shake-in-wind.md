@@ -137,7 +137,7 @@ related:
 heroImage: /images/featured/how-to-stop-tripod-shake-in-wind.png
 heroAlt: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First – Best Tripod guide'
 ---
-Here is how to stop tripod shake in wind: find what is moving, lower the tripod with the center column down, weigh it from the ground, shield the lens and fire hands-free. If it still shakes, we switch to faster shutter speeds and stacked exposures.
+Here is how to stop tripod shake in wind: find what is moving, lower the tripod with the center column down, weigh it from the ground, shield the lens and fire hands-free. If it still shakes, we switch to faster shutter speeds and stacked exposures; for hour-long sequences, a heavier [timelapse tripod](/blog/best-tripod-for-timelapse/) helps more.
 
 ## Tripod shake in wind by symptom: which fix to try first
 

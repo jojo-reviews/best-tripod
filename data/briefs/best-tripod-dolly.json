@@ -505,12 +505,14 @@
     {
       "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
       "find": "Dolly rigs often use a flat Mitchell mount.",
-      "replace": "Dolly rigs often use a flat Mitchell mount, while a [tripod dolly with wheels](/blog/best-tripod-dolly/) simply rolls the legs you already own."
+      "replace": "Dolly rigs often use a flat Mitchell mount, while a [tripod dolly with wheels](/blog/best-tripod-dolly/) simply rolls the legs you already own.",
+      "appliedAt": "2026-11-04T16:25:03.118Z"
     },
     {
       "slug": "best-video-tripod-with-fluid-head-for-beginners",
       "find": "That rating leaves real headroom for a cage, monitor and microphone on top of the camera.",
-      "replace": "That rating leaves real headroom for a cage, monitor and microphone on top of the camera; to roll that rig between setups, see our [tripod dolly picks](/blog/best-tripod-dolly/)."
+      "replace": "That rating leaves real headroom for a cage, monitor and microphone on top of the camera; to roll that rig between setups, see our [tripod dolly picks](/blog/best-tripod-dolly/).",
+      "appliedAt": "2026-11-04T16:25:04.145Z"
     }
   ],
   "secondaryKeywords": [

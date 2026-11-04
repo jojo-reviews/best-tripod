@@ -9,23 +9,123 @@
     "studio tripod for headshots"
   ],
   "entities": [
-    { "name": "tripod", "type": "product", "relation": "locks camera height and framing so the photographer can step beside the camera and direct the subject", "salience": 0.96, "pages": 5 },
-    { "name": "tripod head", "type": "component", "relation": "ball head or pistol-grip head that tilts the camera to follow small posing shifts", "salience": 0.78, "pages": 3 },
-    { "name": "headshot", "type": "concept", "relation": "the tight portrait the tripod is set up for, shot near the subject's eye level", "salience": 0.67, "pages": 3 },
-    { "name": "Headshot Crew", "type": "organization", "relation": "Peter Hurley's headshot community that names Feisol tripods with an Arca-Swiss ball head", "salience": 0.7, "pages": 2 },
-    { "name": "Manfrotto", "type": "brand", "relation": "maker of the 055, 190XPRO and Befree tripods", "salience": 0.69, "pages": 2 },
-    { "name": "Feisol", "type": "brand", "relation": "maker of the CT-3442 Rapid carbon tripod recommended for headshot studios", "salience": 0.65, "pages": 2 },
-    { "name": "camera", "type": "product", "relation": "DSLR or mirrorless body whose weight with the lens sets the load needed", "salience": 0.54, "pages": 5 },
-    { "name": "workflow", "type": "concept", "relation": "high-volume headshot sessions where setup speed and consistent framing matter", "salience": 0.56, "pages": 2 },
-    { "name": "portrait photography", "type": "concept", "relation": "the wider genre; same tripod needs at eye level", "salience": 0.51, "pages": 2 },
-    { "name": "lens", "type": "product", "relation": "85-100mm prime or 70-200mm zoom used for headshots; its weight drives the load margin", "salience": 0.49, "pages": 2 },
-    { "name": "photographer", "type": "role", "relation": "the person who stands beside the camera all day; posture is the reason to use a tripod", "salience": 0.43, "pages": 4 },
-    { "name": "Gitzo", "type": "brand", "relation": "premium tripod brand some pages name; not picked here", "salience": 0.42, "pages": 2 },
-    { "name": "height", "type": "attribute", "relation": "legs-only and column-up height decide whether the lens reaches the subject's eye level", "salience": 0.39, "pages": 2 },
-    { "name": "carbon fiber", "type": "material", "relation": "lighter legs for location headshots", "salience": 0.37, "pages": 3 },
-    { "name": "aluminum", "type": "material", "relation": "heavier, cheaper legs that suit a fixed studio", "salience": 0.31, "pages": 2 },
-    { "name": "center column", "type": "component", "relation": "fine-tunes lens height between subjects of different heights", "salience": 0.45 },
-    { "name": "Arca-Swiss", "type": "standard", "relation": "quick release plate standard headshot photographers leave on the camera", "salience": 0.35 }
+    {
+      "name": "tripod",
+      "type": "product",
+      "relation": "locks camera height and framing so the photographer can step beside the camera and direct the subject",
+      "salience": 0.96,
+      "pages": 5
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "ball head or pistol-grip head that tilts the camera to follow small posing shifts",
+      "salience": 0.78,
+      "pages": 3
+    },
+    {
+      "name": "headshot",
+      "type": "concept",
+      "relation": "the tight portrait the tripod is set up for, shot near the subject's eye level",
+      "salience": 0.67,
+      "pages": 3
+    },
+    {
+      "name": "Headshot Crew",
+      "type": "organization",
+      "relation": "Peter Hurley's headshot community that names Feisol tripods with an Arca-Swiss ball head",
+      "salience": 0.7,
+      "pages": 2
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 055, 190XPRO and Befree tripods",
+      "salience": 0.69,
+      "pages": 2
+    },
+    {
+      "name": "Feisol",
+      "type": "brand",
+      "relation": "maker of the CT-3442 Rapid carbon tripod recommended for headshot studios",
+      "salience": 0.65,
+      "pages": 2
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "DSLR or mirrorless body whose weight with the lens sets the load needed",
+      "salience": 0.54,
+      "pages": 5
+    },
+    {
+      "name": "workflow",
+      "type": "concept",
+      "relation": "high-volume headshot sessions where setup speed and consistent framing matter",
+      "salience": 0.56,
+      "pages": 2
+    },
+    {
+      "name": "portrait photography",
+      "type": "concept",
+      "relation": "the wider genre; same tripod needs at eye level",
+      "salience": 0.51,
+      "pages": 2
+    },
+    {
+      "name": "lens",
+      "type": "product",
+      "relation": "85-100mm prime or 70-200mm zoom used for headshots; its weight drives the load margin",
+      "salience": 0.49,
+      "pages": 2
+    },
+    {
+      "name": "photographer",
+      "type": "role",
+      "relation": "the person who stands beside the camera all day; posture is the reason to use a tripod",
+      "salience": 0.43,
+      "pages": 4
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "premium tripod brand some pages name; not picked here",
+      "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "legs-only and column-up height decide whether the lens reaches the subject's eye level",
+      "salience": 0.39,
+      "pages": 2
+    },
+    {
+      "name": "carbon fiber",
+      "type": "material",
+      "relation": "lighter legs for location headshots",
+      "salience": 0.37,
+      "pages": 3
+    },
+    {
+      "name": "aluminum",
+      "type": "material",
+      "relation": "heavier, cheaper legs that suit a fixed studio",
+      "salience": 0.31,
+      "pages": 2
+    },
+    {
+      "name": "center column",
+      "type": "component",
+      "relation": "fine-tunes lens height between subjects of different heights",
+      "salience": 0.45
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "standard",
+      "relation": "quick release plate standard headshot photographers leave on the camera",
+      "salience": 0.35
+    }
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-for-headshots.entities.json",
@@ -101,19 +201,47 @@
     "No result checks load capacity against a real 70-200mm f/2.8 weight"
   ],
   "outline": [
-    { "h2": "Headshot tripod heights compared, legs only and column up", "intent": "comparison table on the deciding spec", "h3": [] },
-    { "h2": "How I picked these headshot tripods", "intent": "selection rule, evidence, From our notes", "h3": [] },
-    { "h2": "The 5 best tripods for headshots, reviewed", "intent": "product sections", "h3": [
-      "Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod: best tripod for headshot studios",
-      "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4): best headshot tripod for a lit studio",
-      "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head: tallest headshot tripod on its legs",
-      "Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4): best budget tripod for headshots",
-      "Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH): best tripod for on-location headshots"
-    ] },
-    { "h2": "Which tripod for headshots should you get?", "intent": "decision block, one pick per setup", "h3": [] },
-    { "h2": "Lens height for headshots, worked out for short and tall subjects", "intent": "analysis: legs-only and column-up lens height vs subject eye level and CDC heights", "h3": [] },
-    { "h2": "How to set up a tripod for headshots", "intent": "numbered steps, video, illustration", "h3": [] },
-    { "h2": "Headshot tripod problems owners run into, and the fix", "intent": "pain points with fixes", "h3": [] }
+    {
+      "h2": "Headshot tripod heights compared, legs only and column up",
+      "intent": "comparison table on the deciding spec",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these headshot tripods",
+      "intent": "selection rule, evidence, From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for headshots, reviewed",
+      "intent": "product sections",
+      "h3": [
+        "Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod: best tripod for headshot studios",
+        "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4): best headshot tripod for a lit studio",
+        "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head: tallest headshot tripod on its legs",
+        "Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4): best budget tripod for headshots",
+        "Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH): best tripod for on-location headshots"
+      ]
+    },
+    {
+      "h2": "Which tripod for headshots should you get?",
+      "intent": "decision block, one pick per setup",
+      "h3": []
+    },
+    {
+      "h2": "Lens height for headshots, worked out for short and tall subjects",
+      "intent": "analysis: legs-only and column-up lens height vs subject eye level and CDC heights",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for headshots",
+      "intent": "numbered steps, video, illustration",
+      "h3": []
+    },
+    {
+      "h2": "Headshot tripod problems owners run into, and the fix",
+      "intent": "pain points with fixes",
+      "h3": []
+    }
   ],
   "targetWords": 1600,
   "serpStructure": {
@@ -146,34 +274,143 @@
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    { "position": 1, "url": "https://www.youtube.com/watch?v=7umqfFY-MDs", "title": "The Tripod—Headshot Photography Essential Gear - YouTube" },
-    { "position": 2, "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/", "title": "Do you ever use a Tripod for portrait photography? If so, when? - Reddit" },
-    { "position": 3, "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html", "title": "Best Tripods for Photography 2026: 4 Landscape Picks Tested in Patagonia" },
-    { "position": 4, "url": "https://improvephotography.com/gear-old/tripods/", "title": "The Best Tripods, Ballheads, and Monopods - Improve Photography" },
-    { "position": 5, "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/", "title": "Tripod Heads for Portrait Photography, a Photographer's ..." },
-    { "position": 6, "url": "https://www.facebook.com/groups/3352316955094348/posts/4434484493544250/", "title": "What kind of tripod is best for portrait and scenery photography?" },
-    { "position": 7, "url": "https://headshotcrew.com/gear", "title": "Recommended Gear for Headshot Photography" },
-    { "position": 8, "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod", "title": "Best tripod for photographers: full-size tripods for rock-steady support" },
-    { "position": 9, "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "title": "Best Camera Tripod Guide 2026 - The School of Photography" },
-    { "position": 10, "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "title": "Best Tripod for Headshots: Top Picks & Reviews 2026" }
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=7umqfFY-MDs",
+      "title": "The Tripod—Headshot Photography Essential Gear - YouTube"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
+      "title": "Do you ever use a Tripod for portrait photography? If so, when? - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "title": "Best Tripods for Photography 2026: 4 Landscape Picks Tested in Patagonia"
+    },
+    {
+      "position": 4,
+      "url": "https://improvephotography.com/gear-old/tripods/",
+      "title": "The Best Tripods, Ballheads, and Monopods - Improve Photography"
+    },
+    {
+      "position": 5,
+      "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+      "title": "Tripod Heads for Portrait Photography, a Photographer's ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/3352316955094348/posts/4434484493544250/",
+      "title": "What kind of tripod is best for portrait and scenery photography?"
+    },
+    {
+      "position": 7,
+      "url": "https://headshotcrew.com/gear",
+      "title": "Recommended Gear for Headshot Photography"
+    },
+    {
+      "position": 8,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+      "title": "Best tripod for photographers: full-size tripods for rock-steady support"
+    },
+    {
+      "position": 9,
+      "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+      "title": "Best Camera Tripod Guide 2026 - The School of Photography"
+    },
+    {
+      "position": 10,
+      "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+      "title": "Best Tripod for Headshots: Top Picks & Reviews 2026"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 1,
     "withYear": 3,
     "withNumber": 1,
-    "commonModifiers": ["best", "2026", "gear", "picks", "reviews"],
+    "commonModifiers": [
+      "best",
+      "2026",
+      "gear",
+      "picks",
+      "reviews"
+    ],
     "gap": "Only one title targets headshots with a pick list and none promises a height answer; ours leads with the exact keyword, the year, the pick count and an eye-level promise."
   },
   "serpProducts": [
-    { "name": "Feisol CT-3442 Tournament Rapid", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://headshotcrew.com/gear", "https://improvephotography.com/gear-old/tripods/", "https://www.youtube.com/watch?v=7umqfFY-MDs"], "note": "YouTube names 'Feisol tripod' (Peter Hurley recommendation) without the model; the other three name the CT-3442." },
-    { "name": "Manfrotto 055 carbon (MT055CXPRO4) / 055 family", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://www.digitalcameraworld.com/buying-guides/best-tripod", "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html"], "note": "Alan Ranger names the exact MT055CXPRO4; Digital Camera World (055 family, read 2026-10-19 for best-tripod-for-photography) and better-digital-photo-tips (3021pro, the earlier 055-class legs, for portrait work) are family matches. Better-digital-photo-tips ranks in the top 10 for 'best tripod for portrait photography'." },
-    { "name": "Vanguard VEO 3+ (303CBS / 263AB)", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://www.digitalcameraworld.com/buying-guides/best-tripod"], "note": "Alan Ranger names the VEO 3+ 303CBS; Digital Camera World's guide lists the VEO 3+ (303CBS/263AB per the 2026-10-19 read). The 303CBS has no sensible Amazon US listing (only a $1,500+ third-party offer), so the in-stock 263AB 160S kit sold by Amazon.com is featured: same VEO 3+ legs design, multi-angle column and dual-axis ball head." },
-    { "name": "Manfrotto Befree GT XPRO / Befree family", "pages": ["https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844", "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"], "note": "Fstoppers names the Befree Advanced GT XPRO aluminum (ranks for 'best tripod for portrait photography'); The School of Photography recommends the Befree (ranks for both keywords)." },
-    { "name": "Manfrotto 190 (MT190XPRO4 / 190 family)", "pages": ["https://www.theschoolofphotography.com/tutorials/best-camera-tripod", "https://www.nytimes.com/wirecutter/reviews/best-tripod/"], "note": "School of Photography recommends the Manfrotto 190 aluminium for full-frame kits; Wirecutter's best-tripod pick is the 190XPRO kit (close variant 'best tripod', recorded in the best-tripod-for-family-photos brief)." },
-    { "name": "Feisol CT-3472LV M2 (not used)", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://headshotcrew.com/gear"], "note": "No CT-3472LV listing on Amazon US (only the non-LV CT-3472 at a third-party price)." },
-    { "name": "Gitzo Mountaineer Series 2 (not used)", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"], "note": "Only one page names the model; the Facebook group snippet names the brand only." },
-    { "name": "Sirui (not used)", "pages": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://improvephotography.com/gear-old/tripods/"], "note": "Different models (Traveler 5CX vs T-025X)." },
-    { "name": "MeFOTO travel tripod (not used)", "pages": ["https://www.youtube.com/watch?v=7umqfFY-MDs"] }
+    {
+      "name": "Feisol CT-3442 Tournament Rapid",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://headshotcrew.com/gear",
+        "https://improvephotography.com/gear-old/tripods/",
+        "https://www.youtube.com/watch?v=7umqfFY-MDs"
+      ],
+      "note": "YouTube names 'Feisol tripod' (Peter Hurley recommendation) without the model; the other three name the CT-3442."
+    },
+    {
+      "name": "Manfrotto 055 carbon (MT055CXPRO4) / 055 family",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+        "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html"
+      ],
+      "note": "Alan Ranger names the exact MT055CXPRO4; Digital Camera World (055 family, read 2026-10-19 for best-tripod-for-photography) and better-digital-photo-tips (3021pro, the earlier 055-class legs, for portrait work) are family matches. Better-digital-photo-tips ranks in the top 10 for 'best tripod for portrait photography'."
+    },
+    {
+      "name": "Vanguard VEO 3+ (303CBS / 263AB)",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://www.digitalcameraworld.com/buying-guides/best-tripod"
+      ],
+      "note": "Alan Ranger names the VEO 3+ 303CBS; Digital Camera World's guide lists the VEO 3+ (303CBS/263AB per the 2026-10-19 read). The 303CBS has no sensible Amazon US listing (only a $1,500+ third-party offer), so the in-stock 263AB 160S kit sold by Amazon.com is featured: same VEO 3+ legs design, multi-angle column and dual-axis ball head."
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO / Befree family",
+      "pages": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ],
+      "note": "Fstoppers names the Befree Advanced GT XPRO aluminum (ranks for 'best tripod for portrait photography'); The School of Photography recommends the Befree (ranks for both keywords)."
+    },
+    {
+      "name": "Manfrotto 190 (MT190XPRO4 / 190 family)",
+      "pages": [
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.nytimes.com/wirecutter/reviews/best-tripod/"
+      ],
+      "note": "School of Photography recommends the Manfrotto 190 aluminium for full-frame kits; Wirecutter's best-tripod pick is the 190XPRO kit (close variant 'best tripod', recorded in the best-tripod-for-family-photos brief)."
+    },
+    {
+      "name": "Feisol CT-3472LV M2 (not used)",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://headshotcrew.com/gear"
+      ],
+      "note": "No CT-3472LV listing on Amazon US (only the non-LV CT-3472 at a third-party price)."
+    },
+    {
+      "name": "Gitzo Mountaineer Series 2 (not used)",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"
+      ],
+      "note": "Only one page names the model; the Facebook group snippet names the brand only."
+    },
+    {
+      "name": "Sirui (not used)",
+      "pages": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://improvephotography.com/gear-old/tripods/"
+      ],
+      "note": "Different models (Traveler 5CX vs T-025X)."
+    },
+    {
+      "name": "MeFOTO travel tripod (not used)",
+      "pages": [
+        "https://www.youtube.com/watch?v=7umqfFY-MDs"
+      ]
+    }
   ],
   "commonPoints": [
     "A tripod locks framing so the photographer can step beside the camera and talk to the subject",
@@ -184,50 +421,155 @@
     "85-100mm lenses or a 70-200mm zoom are the usual headshot focal lengths"
   ],
   "ourGain": [
-    { "type": "analysis", "point": "Lens height each tripod gives on its legs and with the column fully up, using a 6.7 in (170 mm) head-plus-camera allowance from a DPReview member, set against subject eye level about 4 to 5 in below the top of the head and CDC average heights (men 68.9 in, women 63.5 in): only the Vanguard (58.4 in legs) reaches an average man's eye level without the column; the Feisol with its optional column and the Vanguard reach a 6.5 ft subject.", "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm", "absentFrom": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://headshotcrew.com/gear", "https://1kcreatives.com/tripod-heads-for-portrait-photography/", "https://improvephotography.com/gear-old/tripods/", "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"] },
-    { "type": "analysis", "point": "Column travel vs an 18 in subject range (5 ft to 6.5 ft, Scott Lawrence's target): Feisol with column 13.38 in, 055 11.81 in, Vanguard 10 in, 190XPRO4 9.84 in, Befree GT XPRO 8.66 in. None covers the whole range from one leg setting, so set legs for your median subject and use a posing stool for the shortest.", "source": "https://www.youtube.com/watch?v=7umqfFY-MDs", "absentFrom": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://headshotcrew.com/gear", "https://1kcreatives.com/tripod-heads-for-portrait-photography/", "https://improvephotography.com/gear-old/tripods/", "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"] },
-    { "type": "decision", "point": "One pick per headshot setup: dedicated studio (Feisol + column kit), lit studio with an Easy Link light arm (055 carbon), tall subjects and one-kit buyers (Vanguard), first budget setup (190XPRO4 + ball head), on-location office days (Befree GT XPRO).", "source": "https://headshotcrew.com/gear", "absentFrom": ["https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026", "https://headshotcrew.com/gear", "https://improvephotography.com/gear-old/tripods/", "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"] },
-    { "type": "situation", "point": "Load margin with a real headshot lens: Canon's RF70-200mm F2.8 L IS USM Z weighs about 2.5 lb; even the lowest rating here (Befree GT XPRO, 26.46 lb safety payload) is several times body plus lens, so height and column travel, not load, should decide.", "source": "https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z", "absentFrom": ["https://headshotcrew.com/gear", "https://1kcreatives.com/tripod-heads-for-portrait-photography/", "https://improvephotography.com/gear-old/tripods/", "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"] }
+    {
+      "type": "analysis",
+      "point": "Lens height each tripod gives on its legs and with the column fully up, using a 6.7 in (170 mm) head-plus-camera allowance from a DPReview member, set against subject eye level about 4 to 5 in below the top of the head and CDC average heights (men 68.9 in, women 63.5 in): only the Vanguard (58.4 in legs) reaches an average man's eye level without the column; the Feisol with its optional column and the Vanguard reach a 6.5 ft subject.",
+      "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "absentFrom": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://headshotcrew.com/gear",
+        "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+        "https://improvephotography.com/gear-old/tripods/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column travel vs an 18 in subject range (5 ft to 6.5 ft, Scott Lawrence's target): Feisol with column 13.38 in, 055 11.81 in, Vanguard 10 in, 190XPRO4 9.84 in, Befree GT XPRO 8.66 in. None covers the whole range from one leg setting, so set legs for your median subject and use a posing stool for the shortest.",
+      "source": "https://www.youtube.com/watch?v=7umqfFY-MDs",
+      "absentFrom": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://headshotcrew.com/gear",
+        "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+        "https://improvephotography.com/gear-old/tripods/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "One pick per headshot setup: dedicated studio (Feisol + column kit), lit studio with an Easy Link light arm (055 carbon), tall subjects and one-kit buyers (Vanguard), first budget setup (190XPRO4 + ball head), on-location office days (Befree GT XPRO).",
+      "source": "https://headshotcrew.com/gear",
+      "absentFrom": [
+        "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+        "https://headshotcrew.com/gear",
+        "https://improvephotography.com/gear-old/tripods/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Load margin with a real headshot lens: Canon's RF70-200mm F2.8 L IS USM Z weighs about 2.5 lb; even the lowest rating here (Befree GT XPRO, 26.46 lb safety payload) is several times body plus lens, so height and column travel, not load, should decide.",
+      "source": "https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z",
+      "absentFrom": [
+        "https://headshotcrew.com/gear",
+        "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+        "https://improvephotography.com/gear-old/tripods/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      ]
+    }
   ],
   "painPoints": [
     {
       "id": "headshots-back-strain-hunching",
       "pain": "Hunching over the camera through a long headshot session leaves the photographer's neck and back sore",
       "details": "Corporate headshot photographers say a tripod at the right height is what keeps their posture intact over a long day; without it they hinge over the viewfinder for hours.",
-      "sources": ["https://www.youtube.com/watch?v=7umqfFY-MDs", "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/"],
-      "quotes": [{ "text": "If I tried, my neck, back, and shoulders would be a complete mess", "url": "https://www.youtube.com/watch?v=7umqfFY-MDs" }]
+      "sources": [
+        "https://www.youtube.com/watch?v=7umqfFY-MDs",
+        "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/"
+      ],
+      "quotes": [
+        {
+          "text": "If I tried, my neck, back, and shoulders would be a complete mess",
+          "url": "https://www.youtube.com/watch?v=7umqfFY-MDs"
+        }
+      ]
     },
     {
       "id": "headshots-subjects-different-heights",
       "pain": "Re-setting the tripod for every subject of a different height slows a headshot day",
       "details": "Production-line headshot shooters want to change height and angle quickly between people; a long or geared center column and a head that adjusts fast are the usual answer.",
-      "sources": ["https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/", "https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/", "https://www.youtube.com/watch?v=7umqfFY-MDs"],
-      "quotes": [{ "text": "I use a tripod with a geared column and head so I can quickly adjust the height and angle", "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/" }]
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
+        "https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/",
+        "https://www.youtube.com/watch?v=7umqfFY-MDs"
+      ],
+      "quotes": [
+        {
+          "text": "I use a tripod with a geared column and head so I can quickly adjust the height and angle",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/"
+        }
+      ]
     },
     {
       "id": "headshots-tripod-too-short",
       "pain": "A short or travel tripod puts the lens below the subject's eyes, so headshots are shot from too low",
       "details": "Portrait photographers warn against small tripods for standing portraits; the viewfinder should reach eye level with the column down or only slightly raised.",
-      "sources": ["https://1kcreatives.com/tripod-heads-for-portrait-photography/", "https://www.dpreview.com/forums/threads/tripod-height.3771895/"],
-      "quotes": [{ "text": "You want the rear of the camera and its viewfinder at eye level when standing at the tripod.", "url": "https://www.dpreview.com/forums/threads/tripod-height.3771895/" }]
+      "sources": [
+        "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+        "https://www.dpreview.com/forums/threads/tripod-height.3771895/"
+      ],
+      "quotes": [
+        {
+          "text": "You want the rear of the camera and its viewfinder at eye level when standing at the tripod.",
+          "url": "https://www.dpreview.com/forums/threads/tripod-height.3771895/"
+        }
+      ]
     },
     {
       "id": "headshots-head-loosens-camera-slips",
       "pain": "A cheap head loosens over time and the camera slips mid-session",
       "details": "A headshot photographer's budget pistol-grip head and later a mid-price one both started to slip; the friction adjustment fixed the second.",
-      "sources": ["https://1kcreatives.com/tripod-heads-for-portrait-photography/"],
-      "quotes": [{ "text": "overtime it would loosen, the camera would slip, and I’d constantly have to re-adjust during a shoot", "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/" }]
+      "sources": [
+        "https://1kcreatives.com/tripod-heads-for-portrait-photography/"
+      ],
+      "quotes": [
+        {
+          "text": "overtime it would loosen, the camera would slip, and I’d constantly have to re-adjust during a shoot",
+          "url": "https://1kcreatives.com/tripod-heads-for-portrait-photography/"
+        }
+      ]
     }
   ],
   "stats": [
-    { "number": "85mm to 100mm", "claim": "Headshot Crew's recommended full-frame focal length range for headshots", "url": "https://headshotcrew.com/gear", "quote": "the Headshot Crew recommends working in the 85mm to 100mm range" },
-    { "number": "68.9 in / 63.5 in", "claim": "measured average height of US men and women aged 20 and older", "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm", "quote": "Men: Height in inches: 68.9 ... Women: Height in inches: 63.5" },
-    { "number": "2.5 lb", "claim": "weight of Canon's RF70-200mm F2.8 L IS USM Z (white model)", "url": "https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z", "quote": "Approx. 2.5 lb. / 1115g (White model)" },
-    { "number": "55.12 in", "claim": "Feisol CT-3442 Rapid height without a center column", "url": "https://www.feisol.net/tripods/feisol-tournament-tripod-ct-3442-rapid.html", "quote": "Maximum Height: 1.40 m / 55.12 in" },
-    { "number": "58.4 in", "claim": "Vanguard VEO 3+ 263AB 160S height with the column down", "url": "https://www.vanguardworld.com/products/veo-3-263ab-160s", "quote": "58.4\" / 1483 mm" }
+    {
+      "number": "85mm to 100mm",
+      "claim": "Headshot Crew's recommended full-frame focal length range for headshots",
+      "url": "https://headshotcrew.com/gear",
+      "quote": "the Headshot Crew recommends working in the 85mm to 100mm range"
+    },
+    {
+      "number": "68.9 in / 63.5 in",
+      "claim": "measured average height of US men and women aged 20 and older",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Men: Height in inches: 68.9 ... Women: Height in inches: 63.5"
+    },
+    {
+      "number": "2.5 lb",
+      "claim": "weight of Canon's RF70-200mm F2.8 L IS USM Z (white model)",
+      "url": "https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z",
+      "quote": "Approx. 2.5 lb. / 1115g (White model)"
+    },
+    {
+      "number": "55.12 in",
+      "claim": "Feisol CT-3442 Rapid height without a center column",
+      "url": "https://www.feisol.net/tripods/feisol-tournament-tripod-ct-3442-rapid.html",
+      "quote": "Maximum Height: 1.40 m / 55.12 in"
+    },
+    {
+      "number": "58.4 in",
+      "claim": "Vanguard VEO 3+ 263AB 160S height with the column down",
+      "url": "https://www.vanguardworld.com/products/veo-3-263ab-160s",
+      "quote": "58.4\" / 1483 mm"
+    }
   ],
   "videos": [
-    { "id": "7umqfFY-MDs", "title": "The Tripod—Headshot Photography Essential Gear", "channel": "Scott Lawrence", "url": "https://www.youtube.com/watch?v=7umqfFY-MDs", "section": "How to set up a tripod for headshots" }
+    {
+      "id": "7umqfFY-MDs",
+      "title": "The Tripod—Headshot Photography Essential Gear",
+      "channel": "Scott Lawrence",
+      "url": "https://www.youtube.com/watch?v=7umqfFY-MDs",
+      "section": "How to set up a tripod for headshots"
+    }
   ],
   "internalLinkCandidates": [
     "how-tall-should-a-tripod-be-for-my-height",
@@ -240,12 +582,14 @@
     {
       "slug": "how-tall-should-a-tripod-be-for-my-height",
       "find": "A tripod at eye level lets you stand up straight for an hour instead of hunching over the viewfinder at sunset.",
-      "replace": "A tripod at eye level lets you stand up straight for an hour instead of hunching over the viewfinder at sunset, which is why our [tripods for headshot sessions](/blog/best-tripod-for-headshots/) are ranked by height."
+      "replace": "A tripod at eye level lets you stand up straight for an hour instead of hunching over the viewfinder at sunset, which is why our [tripods for headshot sessions](/blog/best-tripod-for-headshots/) are ranked by height.",
+      "appliedAt": "2026-11-04T16:25:00.831Z"
     },
     {
       "slug": "best-tripod-for-tall-photographers-over-6-feet",
       "find": "Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up; the repeated complaint is weight and bulk.",
-      "replace": "Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up; the repeated complaint is weight and bulk. Its carbon 4-section sibling is one of our [best tripods for headshots](/blog/best-tripod-for-headshots/)."
+      "replace": "Reviewers and the Reddit summary I read praise how steady it stays at every height, even with the column up; the repeated complaint is weight and bulk. Its carbon 4-section sibling is one of our [best tripods for headshots](/blog/best-tripod-for-headshots/).",
+      "appliedAt": "2026-11-04T16:25:02.083Z"
     }
   ],
   "secondaryKeywords": [

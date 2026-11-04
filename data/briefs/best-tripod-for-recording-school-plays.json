@@ -9,16 +9,76 @@
     "tripod for recording dance recitals"
   ],
   "entities": [
-    { "name": "Tripod", "type": "product type", "relation": "three-legged stand that holds the camera still through a whole performance", "salience": 0.8, "pages": 4 },
-    { "name": "Camera", "type": "device", "relation": "camcorder, mirrorless camera or phone recording the stage", "salience": 0.71, "pages": 4 },
-    { "name": "Tripod head", "type": "component", "relation": "fluid video head that pans and tilts smoothly to follow actors", "salience": 0.73, "pages": 2 },
-    { "name": "Fluid head", "type": "component", "relation": "viscous drag for smooth pans; not needed for a locked-off wide shot", "salience": 0.5, "pages": 3 },
-    { "name": "Videography", "type": "activity", "relation": "recording the play as one continuous take from the audience", "salience": 0.48, "pages": 2 },
-    { "name": "Manfrotto", "type": "brand", "relation": "maker of the MVK500AM and Befree Live video tripods", "salience": 0.46, "pages": 3 },
-    { "name": "Camera lens", "type": "component", "relation": "zoom lens framing the whole stage from the back row", "salience": 0.39, "pages": 2 },
-    { "name": "Auditorium", "type": "place", "relation": "where the camera has to see over seated and standing audience members", "salience": 0.4, "pages": 3 },
-    { "name": "Stage lighting", "type": "condition", "relation": "bright faces on a dark stage that fool auto exposure and autofocus", "salience": 0.35, "pages": 2 },
-    { "name": "Filmmaking", "type": "field", "relation": "source of the fluid-head, drag and counterbalance vocabulary", "salience": 0.29, "pages": 2 }
+    {
+      "name": "Tripod",
+      "type": "product type",
+      "relation": "three-legged stand that holds the camera still through a whole performance",
+      "salience": 0.8,
+      "pages": 4
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "camcorder, mirrorless camera or phone recording the stage",
+      "salience": 0.71,
+      "pages": 4
+    },
+    {
+      "name": "Tripod head",
+      "type": "component",
+      "relation": "fluid video head that pans and tilts smoothly to follow actors",
+      "salience": 0.73,
+      "pages": 2
+    },
+    {
+      "name": "Fluid head",
+      "type": "component",
+      "relation": "viscous drag for smooth pans; not needed for a locked-off wide shot",
+      "salience": 0.5,
+      "pages": 3
+    },
+    {
+      "name": "Videography",
+      "type": "activity",
+      "relation": "recording the play as one continuous take from the audience",
+      "salience": 0.48,
+      "pages": 2
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the MVK500AM and Befree Live video tripods",
+      "salience": 0.46,
+      "pages": 3
+    },
+    {
+      "name": "Camera lens",
+      "type": "component",
+      "relation": "zoom lens framing the whole stage from the back row",
+      "salience": 0.39,
+      "pages": 2
+    },
+    {
+      "name": "Auditorium",
+      "type": "place",
+      "relation": "where the camera has to see over seated and standing audience members",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "Stage lighting",
+      "type": "condition",
+      "relation": "bright faces on a dark stage that fool auto exposure and autofocus",
+      "salience": 0.35,
+      "pages": 2
+    },
+    {
+      "name": "Filmmaking",
+      "type": "field",
+      "relation": "source of the fluid-head, drag and counterbalance vocabulary",
+      "salience": 0.29,
+      "pages": 2
+    }
   ],
   "attributes": [
     "maximum height vs a standing adult in front (Tripod)",
@@ -202,11 +262,37 @@
     }
   ],
   "outline": [
-    { "h2": "School play tripod heights compared with a standing adult", "intent": "comparison table and height math", "h3": [] },
-    { "h2": "How I picked these tripods for recording school plays", "intent": "method", "h3": [] },
-    { "h2": "The 5 best tripods for recording school plays, reviewed", "intent": "product reviews", "h3": ["SmallRig AD-01", "NEEWER 79 inch Video Tripod", "GEEKOTO 77 inch Video Tripod", "Manfrotto MVK500AM", "Manfrotto Befree 3-Way Live Advanced"] },
-    { "h2": "How to set up a tripod to record a school play", "intent": "how-to steps", "h3": [] },
-    { "h2": "School play tripod problems parents run into, and the fix", "intent": "pain points", "h3": [] }
+    {
+      "h2": "School play tripod heights compared with a standing adult",
+      "intent": "comparison table and height math",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these tripods for recording school plays",
+      "intent": "method",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for recording school plays, reviewed",
+      "intent": "product reviews",
+      "h3": [
+        "SmallRig AD-01",
+        "NEEWER 79 inch Video Tripod",
+        "GEEKOTO 77 inch Video Tripod",
+        "Manfrotto MVK500AM",
+        "Manfrotto Befree 3-Way Live Advanced"
+      ]
+    },
+    {
+      "h2": "How to set up a tripod to record a school play",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "School play tripod problems parents run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
   ],
   "targetWords": 1550,
   "serpStructure": {
@@ -235,32 +321,119 @@
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    { "position": 1, "url": "https://www.facebook.com/groups/forbandparents/posts/771844495675326/", "title": "I would like to get a tripod for recording performances. Can ..." },
-    { "position": 2, "url": "https://www.youtube.com/watch?v=0Uzg81vG2-I", "title": "The BEST Tripod for Your Home studio? - YouTube" },
-    { "position": 3, "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives", "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |" },
-    { "position": 4, "url": "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/", "title": "What tripod can you recommend? : r/videography - Reddit" },
-    { "position": 5, "url": "https://www.youtube.com/watch?v=4VM7xiCL_u0", "title": "My Favorite Tripod for Filming Art & Tutorials - YouTube" },
-    { "position": 6, "url": "https://www.quora.com/Which-is-the-best-mobile-tripod-with-which-I-can-record-my-best-video-of-singing-for-YouTube", "title": "Which is the best mobile tripod with which I can record my best video of ..." },
-    { "position": 7, "url": "https://www.amazon.com/Best-Sellers-Camera-Tripods-Monopods/zgbs/electronics/499306", "title": "Amazon Best Sellers: Best Camera Tripods & Monopods" },
-    { "position": 8, "url": "https://www.edthena.com/one-easiest-ways-can-capture-better-classroom-video-tripod/", "title": "One of the Easiest Ways You Can Capture Better Classroom Video" },
-    { "position": 9, "url": "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "title": "Best Tripods for Recording Stand Up Comedy" },
-    { "position": 10, "url": "https://www.theschoolofphotography.com/tutorials/best-tripods", "title": "Best Tripods for Photography – Complete Buying Guide" }
+    {
+      "position": 1,
+      "url": "https://www.facebook.com/groups/forbandparents/posts/771844495675326/",
+      "title": "I would like to get a tripod for recording performances. Can ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.youtube.com/watch?v=0Uzg81vG2-I",
+      "title": "The BEST Tripod for Your Home studio? - YouTube"
+    },
+    {
+      "position": 3,
+      "url": "https://www.lifeidesign.com/blog/best-tripod-for-artists-and-creatives",
+      "title": "The Best Tripod for Artists & Creatives - Nicki Traikos | life i design |"
+    },
+    {
+      "position": 4,
+      "url": "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/",
+      "title": "What tripod can you recommend? : r/videography - Reddit"
+    },
+    {
+      "position": 5,
+      "url": "https://www.youtube.com/watch?v=4VM7xiCL_u0",
+      "title": "My Favorite Tripod for Filming Art & Tutorials - YouTube"
+    },
+    {
+      "position": 6,
+      "url": "https://www.quora.com/Which-is-the-best-mobile-tripod-with-which-I-can-record-my-best-video-of-singing-for-YouTube",
+      "title": "Which is the best mobile tripod with which I can record my best video of ..."
+    },
+    {
+      "position": 7,
+      "url": "https://www.amazon.com/Best-Sellers-Camera-Tripods-Monopods/zgbs/electronics/499306",
+      "title": "Amazon Best Sellers: Best Camera Tripods & Monopods"
+    },
+    {
+      "position": 8,
+      "url": "https://www.edthena.com/one-easiest-ways-can-capture-better-classroom-video-tripod/",
+      "title": "One of the Easiest Ways You Can Capture Better Classroom Video"
+    },
+    {
+      "position": 9,
+      "url": "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+      "title": "Best Tripods for Recording Stand Up Comedy"
+    },
+    {
+      "position": 10,
+      "url": "https://www.theschoolofphotography.com/tutorials/best-tripods",
+      "title": "Best Tripods for Photography – Complete Buying Guide"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 0,
     "withYear": 0,
     "withNumber": 0,
-    "commonModifiers": ["best tripod", "recording", "performances", "video", "filming"],
+    "commonModifiers": [
+      "best tripod",
+      "recording",
+      "performances",
+      "video",
+      "filming"
+    ],
     "gap": "No top-10 title is a roundup for school plays at all; results are a Facebook question, YouTube studio videos, art and comedy pages. A title with the exact keyword, a year, a pick count and the over-the-heads benefit is unclaimed."
   },
   "serpProducts": [
-    { "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://www.youtube.com/watch?v=wZdxbJdOpQg", "https://www.digitalcameraworld.com/buying-guides/best-video-tripod"] },
-    { "name": "NEEWER 79 inch (200cm) Video Tripod with Fluid Drag Head", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://expertphotography.com/best-video-tripod"] },
-    { "name": "GEEKOTO 77 inch Video Tripod with Fluid Head", "pages": ["https://expertphotography.com/best-video-tripod", "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/"] },
-    { "name": "Manfrotto MVK500AM (500 fluid head + MVT502AM twin legs)", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy", "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"] },
-    { "name": "Manfrotto Befree 3-Way Live Advanced", "pages": ["https://expertphotography.com/best-video-tripod", "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"] },
-    { "name": "Libec TH-X (not used: only one clear top-10 recommendation)", "pages": ["https://www.comedymemphis.com/post/best-tripods-stand-up-comedy"] },
-    { "name": "NEEWER TP75 (not used: only one top-10 page for this search family)", "pages": ["https://www.youtube.com/watch?v=wZdxbJdOpQg"] }
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "pages": [
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://www.youtube.com/watch?v=wZdxbJdOpQg",
+        "https://www.digitalcameraworld.com/buying-guides/best-video-tripod"
+      ]
+    },
+    {
+      "name": "NEEWER 79 inch (200cm) Video Tripod with Fluid Drag Head",
+      "pages": [
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://expertphotography.com/best-video-tripod"
+      ]
+    },
+    {
+      "name": "GEEKOTO 77 inch Video Tripod with Fluid Head",
+      "pages": [
+        "https://expertphotography.com/best-video-tripod",
+        "https://www.reddit.com/r/videography/comments/1he1q0j/what_tripod_can_you_recommend/"
+      ]
+    },
+    {
+      "name": "Manfrotto MVK500AM (500 fluid head + MVT502AM twin legs)",
+      "pages": [
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy",
+        "https://timfordphoto.com/shooting-video-of-a-dance-recital-and-selling-dvds-blu-rays-lessons-learned-2024-update/"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree 3-Way Live Advanced",
+      "pages": [
+        "https://expertphotography.com/best-video-tripod",
+        "https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/"
+      ]
+    },
+    {
+      "name": "Libec TH-X (not used: only one clear top-10 recommendation)",
+      "pages": [
+        "https://www.comedymemphis.com/post/best-tripods-stand-up-comedy"
+      ]
+    },
+    {
+      "name": "NEEWER TP75 (not used: only one top-10 page for this search family)",
+      "pages": [
+        "https://www.youtube.com/watch?v=wZdxbJdOpQg"
+      ]
+    }
   ],
   "internalLinkCandidates": [
     "best-video-tripod-with-fluid-head-for-beginners",
@@ -273,12 +446,14 @@
     {
       "slug": "best-tripod-for-filming-sports",
       "find": "The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd.",
-      "replace": "The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd, and the same height math applies to [recording school plays](/blog/best-tripod-for-recording-school-plays/)."
+      "replace": "The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd, and the same height math applies to [recording school plays](/blog/best-tripod-for-recording-school-plays/).",
+      "appliedAt": "2026-11-04T16:25:07.005Z"
     },
     {
       "slug": "best-video-tripod-with-fluid-head-for-beginners",
       "find": "That saves time when you switch between handheld and locked-off shooting.",
-      "replace": "That saves time when you switch between handheld and locked-off shooting, as when [recording school plays](/blog/best-tripod-for-recording-school-plays/) from the back row."
+      "replace": "That saves time when you switch between handheld and locked-off shooting, as when [recording school plays](/blog/best-tripod-for-recording-school-plays/) from the back row.",
+      "appliedAt": "2026-11-04T16:25:08.132Z"
     }
   ],
   "secondaryKeywords": [

@@ -487,7 +487,7 @@ The [Sachtler System Ace M MS Mk II](amzn:Sachtler+System+Ace+M+MS+Mk+II+1001M+t
 
 **Sports tripod height depends on the viewpoint: about 5-6 ft for a camera panning over a crowd, and 16 ft or more for an AI camera filming the whole field.**
 
-Ulanzi suggests 50 to 60 in for a seated sideline and, where you must clear people in front, [between 65 and 75 inches](https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports). The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd.
+Ulanzi suggests 50 to 60 in for a seated sideline and, where you must clear people in front, [between 65 and 75 inches](https://www.ulanzi.com/blogs/guides/phone-tripod-live-sports). The TP75 (74 in), AD-01 (73 in) and Sachtler (66.54 in) all reach that band; the Befree stops at 59.45 in, so it suits the front of the crowd, and the same height math applies to [recording school plays](/blog/best-tripod-for-recording-school-plays/).
 
 For whole-field AI recording, Trace says [the optimal height is 16 feet](https://traceup.com/academy/what-is-the-optimal-height-for-recording-soccer-games) for soccer and that going higher adds little. That is why I picked a 20 ft stand: run a section short of full height, it stays steadier.
 

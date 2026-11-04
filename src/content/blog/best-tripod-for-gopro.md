@@ -466,7 +466,7 @@ heroAlt: >-
 
 The best tripod for GoPro is the one that fits your most common shot: a GoPro Shorty in your pocket for time-lapses and group selfies, a GoPro 3-Way 2.0 for a grip and a 19.5 in arm, GoPro Volta for all-day battery, the MAX Grip + Tripod for a 22 in locking pole, or a Xenvo SquidGrip when the only solid thing nearby is a railing. We did not test any of them; I built this GoPro tripod review from maker specs, four independent GoPro tripod guides and owner threads on Reddit, Facebook groups and retailer sites. If you are torn between bendy and rigid legs, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the split.
 
-Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky. These picks stop that.
+Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/)). These picks stop that.
 
 ## Best Tripod for GoPro – Quick Picks
 

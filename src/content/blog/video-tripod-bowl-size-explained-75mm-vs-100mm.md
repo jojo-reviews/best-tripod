@@ -167,7 +167,7 @@ Sachtler's spec sheets for one tripod family:
 
 ## What video tripod bowl size measures, and how to check yours
 
-**Bowl size is the diameter across the top of the bowl; the head's half ball (a hemisphere) must match it.** A tie-down knob underneath clamps the ball, so we level by loosening it, rocking the head until the bubble centers and tightening again, as Expressway Cinema describes. Dolly rigs often use a flat Mitchell mount.
+**Bowl size is the diameter across the top of the bowl; the head's half ball (a hemisphere) must match it.** A tie-down knob underneath clamps the ball, so we level by loosening it, rocking the head until the bubble centers and tightening again, as Expressway Cinema describes. Dolly rigs often use a flat Mitchell mount, while a [tripod dolly with wheels](/blog/best-tripod-dolly/) simply rolls the legs you already own.
 
 A Cinematography.com thread lists 75mm, 100mm and 150mm as the standard sizes and adds: "It's the diameter of the top of the bowl that is important." The machined inner ring reads smaller: one member measured a 150mm bowl at ID=145mm and judged an 85mm reading on Vinten legs a 100mm bowl.
 
