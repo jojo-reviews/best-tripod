@@ -165,9 +165,13 @@
     "timezone": "America/New_York",
     "weeklyPostsPerDay": [],
     "randomPhase": {
-      "min": 5,
+      "min": 1,
       "max": 5,
       "weights": [
+        1,
+        1,
+        1,
+        1,
         1
       ]
     },
@@ -188,7 +192,8 @@
       "minGapMinutes": 60
     },
     "note": "Owner rule 2026-10-22: 1 new English post per day per site (Claude usage limit). Was 2-3 on 2026-10-21.",
-    "note2": "Owner rule 2026-10-29: 5 new English posts per day per site (was 2 since 2026-10-27)."
+    "note2": "Owner rule 2026-10-29: 5 new English posts per day per site (was 2 since 2026-10-27).",
+    "note3": "Owner rule 2026-11-04 (\"Random number kar do kisi din 1 sa 5\"): a random 1-5 new English posts per day (seeded by date + domain), not always 5."
   },
   "organization": {
     "legalName": "Best Tripod",
