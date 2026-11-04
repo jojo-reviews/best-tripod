@@ -139,6 +139,14 @@ export function mediaRules(d, body, { pub, err, warn, info = !(d.products ?? [])
   const must = (m) => (strict ? err(m) : warn(m));
   // Patent rule 2026-11-02 (US12393768B2, layout-aware document understanding): an image explains its own block, so every illustration carries a short caption.
   for (const il of d.illustrations ?? []) if (!il.caption) warn(`illustration "${(il.alt ?? '').slice(0, 40)}" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)`);
+  // Patent rule 2026-11-04 (US10019513B1): answer passages are the text right after a question; a deferral or a bare list there scores no answer terms.
+  { const defer = /^\**\s*(It depends|That depends|Depends|Check |See |Read |Look at )/i;
+    const f = (d.faqs ?? []).find((x) => defer.test(String(x.a ?? '').trim()));
+    if (f) warn(`FAQ "${String(f.q).slice(0, 50)}" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)`);
+    const re = /^#{2,3}\s+(.+)\n+\s*(\S.*)/gm; let m, a = 0, b = 0;
+    while ((m = re.exec(body))) { if (defer.test(m[2])) a++; if (/\?\s*$/.test(m[1]) && /^(- |\* |\||!\[|>)/.test(m[2])) b++; }
+    if (a) warn(`${a} section(s) open with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)`);
+    if (b) warn(`${b} question heading(s) go straight into a list/table/image; add one answer sentence first (patent rule 2026-11-04)`); }
   // Patent rule 2026-11-03 (US11769017B1): a section lead that narrates the list/process has no fact an AI summary can cite.
   { const re = /^##\s+(.+)\n+\s*\*\*(Each pick|Every pick|I ranked|I matched|I start|We saw|These are the|Here are|Below)/gim; let m; while ((m = re.exec(body))) { if (!/pick|chose|how we|how i|score|research|test/i.test(m[1])) { warn(`section "${m[1].trim()}" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)`); break; } } }
   // Patent rule 2026-11-02 (US8442984B1): videos sit right after their section heading, so 'video below/above' points the wrong way.
