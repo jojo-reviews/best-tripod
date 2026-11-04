@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-headshots
   - best-tripod-for-timelapse
   - best-tripod-dolly
   - best-tripod-for-canon-r8
-  - best-tripod-for-family-photos
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

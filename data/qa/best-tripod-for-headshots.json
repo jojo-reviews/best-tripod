@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-headshots",
+  "pass": true,
+  "checkedAt": "2026-11-04T11:38:45.676Z",
+  "errors": [],
+  "warnings": [
+    "product \"Feisol CT-3442 Tournament Rapid 4-Section Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 190XPRO Aluminum 4-Section Tripod (MT190XPRO4)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-04 via Firecrawl: Feisol CT-3442 Rapid (feisol.net: 55.12 in legs, 68.50 in with optional column kit, 6.69 in min, 19.29 in folded, 2.51 lb/2.98 lb with column, 55 lb, 28 mm tube; twist locks per DPReview owner thread); Manfrotto MT055CXPRO4 (manfrotto.com: 66.93/55.12 in, 3.54 in min, 21.26 in closed, 4.96 lb, 20 kg safety payload, flip lock, 4 leg angles, 90-degree column, Easy Link); Vanguard VEO 3+ 263AB 160S (vanguardworld.com: 68.4/58.4 in, 5 in min, 30.5 in folded, 5.5 lb, 33 lb, 3 sections, twist, BH-160S, QS-62v3, MACC 0-180 deg); Manfrotto MT190XPRO4 (manfrotto.com: 62.99/53.15 in, 3.15 in min, 19.29 in, 4.52 lb, 15 kg safety payload, flip lock, 4 leg angles); Befree GT XPRO MKBFRA4GTXP-BH (manfrotto.com CA: 64.57/55.91 in, 3.54 in min, 16.93 in, 4.41 lb, 12 kg, twist, 496 head with friction control and independent pan lock, 200PL PRO). Owner claims vs DPReview thread and B&H review pages (67, 9, 98, 30 reviews). Stats: CDC 68.9/63.5 in, Canon RF70-200 F2.8 Z approx 2.5 lb, Headshot Crew 85-100mm and its Feisol CT-3442 listing, DPReview 170 mm head+DSLR figure. Quotes checked verbatim: Scott Lawrence transcript, 1kCreatives, DPReview tripod-height thread, r/AskPhotography search excerpt. ASINs and stock checked via Amazon offer data: B00IQ7PUKY, B00G36G9Q4, B096L7XFXG sold by Amazon.com, B07SYBYQWK sold by Amazon Germany; B00573NBP6 shows only see-all-buying-options (third-party). Lens-height math recomputed (legs + 6.7 in).",
+    "at": "2026-11-04T11:38:45.114Z",
+    "hash": "9b794b08b07500c0"
+  }
+}
