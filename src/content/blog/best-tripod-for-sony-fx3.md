@@ -449,7 +449,6 @@ heroAlt: >-
   Best Tripod for Sony FX3 (2026) – 5 Picks Matched to Your Rig Weight – Best
   Tripod buying guide
 related:
-  - best-tripod-for-xbotgo
   - best-tripod-for-elgato-prompter
   - best-tripod-for-recording-school-plays
 ---

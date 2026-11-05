@@ -1,0 +1,72 @@
+{
+  "keyword": "best tripod for xbotgo",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.78,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "XbotGo",
+      "type": "Company",
+      "pages": 4,
+      "relevance": 0.77,
+      "wiki": ""
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Association football",
+      "type": "Activity",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Association_football",
+      "wikidata": "Q2736",
+      "kgmid": "/m/02vx4"
+    }
+  ],
+  "dropped": [
+    {
+      "entity": "Chameleon",
+      "reason": "TextRazor linked the XbotGo Chameleon product to the lizard species"
+    },
+    {
+      "entity": "Fiber",
+      "reason": "generic material word, covered by Carbon-fiber reinforced polymer"
+    },
+    {
+      "entity": "Carbon",
+      "reason": "generic material word, covered by Carbon-fiber reinforced polymer"
+    }
+  ]
+}
