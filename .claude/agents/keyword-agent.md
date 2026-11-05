@@ -17,3 +17,5 @@ You are the keyword agent for this affiliate site. Follow the rules in ROUTINE.m
 - Never write secrets into files. Return a short JSON summary of what you added or recommend.
 
 - Pain points: read `data/pain-points.json` first. Prefer keywords that match an uncovered pain point's `searches`, and record the ids in the entry's `painPoints` field so the brief uses them.
+
+- Owner rule 2026-11-05 (camera models): always look for "best tripod for <camera model>" keywords (Sony, Nikon, Canon, Fujifilm, Lumix, OM System, Ricoh, Leica, DJI, GoPro, Insta360, current and popular models) and add the ones with measured demand that do not clash with a live model post. Give each a rationale naming the model-specific angle (body + usual lens weight, video vs stills, plate/mount, size class) so its picks and text differ from the other model posts.

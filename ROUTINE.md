@@ -423,3 +423,11 @@ No text-only posts. Every post that has no product photos (how-tos, guides, comp
 - Owner rule 2026-10-29 (TextRazor): every new post uses TextRazor entity extraction (scripts/textrazor-entities.mjs in rentersmarthome.us, key in the TEXTRAZOR_API_KEY environment variable, never in a file): brief step 4 stores the entities the top pages share, writer step 6 covers the relevant ones and re-checks the draft for missing ones. Free plan 500 calls a day (about 6 per post).
 - Owner rule 2026-10-29 (semantic SEO): every post is semantically optimized: entities with TextRazor salience, attributes, n-grams, skip-grams and NLP terms in the brief; the writer covers them naturally; the audit (agents/seo-agent.mjs) scores entity/n-gram/NLP/skip-gram coverage, every high-salience entity (>= 0.5) and a central-entity salience of 0.7+.
 - Patent rule 2026-10-30 (US8549014B2): set `updatedDate` only when the main content changed significantly: a product added, removed or replaced, a section or FAQ answer added or rewritten, or a fact/number corrected. If the pass only swaps or adds entity words, adds or changes links, or edits front matter (seoTitle, description, tags), set only `reviewedDate`. Never touch pubDate. In the semantic-pass or improvement mark note, write which of the two it was ("significant: <what>" or "review only").
+
+## Camera-model keywords (owner rule 2026-11-05)
+Owner: "humy asy keyword find karny chye like best tripod for sony model nikon model etc". Keep the queue stocked with
+"best tripod for <camera model>" keywords (Sony, Nikon, Canon, Fujifilm, Panasonic Lumix, OM System, Ricoh, Leica,
+DJI, GoPro, Insta360 and other current or popular models), alongside the other topics. Each one needs measured demand,
+a cannibalization check against the live model posts, and its own angle so posts don't share the same picks and text
+(the model's weight with its usual lens, plate/mount, video vs stills, flip screen, size class); see patent note
+2026-11-05 (US8108412B2) on near-duplicate pages.
