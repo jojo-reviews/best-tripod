@@ -1,0 +1,21 @@
+{
+  "slug": "es/mejor-tripode-para-insta360-x5",
+  "lang": "es",
+  "translationOf": "best-tripod-for-insta360-x5",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:16:18.305Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-gopro/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-dji-osmo-action-5-pro/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-insta360-x5 (2026-11-05): same 5 products/ASINs/scores/spec keys, same specs converted metric first, same FAQs, quotes and reviewer claims; B&H number link dropped to keep max 3 outside links. Local facts from data/briefs/es/best-tripod-for-insta360-x5.local.json re-checked: Alhambra Patronato page (sin tripode, monopode u otro elemento de estabilizacion; no palos selfie en Palacios Nazaries ni espacios cerrados) read 2026-11-05, Sagrada Familia normativa, Ryanair 40x30x20, Iberia 56x40x25; Fujistas and Nikonistas quotes verbatim. K&F marked unknown for Spain (not on amazon.es) with one neutral sentence in its Para quien es. No prices, no local store, no testing claims.",
+    "at": "2026-11-05T18:16:16.467Z",
+    "hash": "e4c37d2c4a13dac2"
+  }
+}

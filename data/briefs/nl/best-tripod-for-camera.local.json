@@ -1,0 +1,174 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-camera",
+  "checkedAt": "2026-11-05T18:05:53.501Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post (Peak Design / ShutterMuse figures): 130,2 cm column down, 39,4 cm folded, 1,56 kg with head.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers (checked for best-tripod-for-timelapse).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 (checked for best-tripod-for-timelapse).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload; Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post (Sirui spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)",
+      "asin": "B071F31XLR",
+      "status": "fits",
+      "metricSpecs": "Gitzo global: 163,5 cm max., 140,5 cm column down, 32,4 cm min., 42,5 cm closed, 1,45 kg, 10 kg safety payload (same metric figures as the English specs).",
+      "reason": "GK1545T-82TQD is the European kit code (the US Amazon title says GK1545T-82TQDUS); Gitzo's global site lists it with the same figures (checked for best-tripod-for-northern-lights).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat 1 stuk handbagage toe van max. 55 x 35 x 25 cm inclusief handvatten en wieltjes. SIRUI (33 cm), Peak Design (39,4 cm), K&F (39,5 cm), Befree Advanced (40 cm) en Gitzo (42,5 cm) zijn korter; de Manfrotto 190XPRO3-kit (70,5 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "CBS: Nederlandse mannen van 19 jaar waren in 2020 gemiddeld 182,9 cm lang, vrouwen 169,3 cm. Vervangt de fotograaf van 5 ft 10 in in de hoogtesectie.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "Rijksmuseum: bezoekers mogen fotograferen en filmen zonder anderen te storen; voor bruidsfotografie noemt het museum geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Nationaal Park Zuid-Kennemerland: wandelen mag alleen op de gemarkeerde wegen en paden, dus een statiefplek in de duinen hoort op of naast het pad.",
+      "source": "https://www.np-zuidkennemerland.nl/gebiedsinformatie/gebiedsregels/"
+    },
+    {
+      "fact": "Termen: statiefkop, balhoofd, middenkolom, snelkoppelplaat; Arca-Swiss houdt zijn naam.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Een statief dat klein opvouwt heeft meer, dunnere segmenten en is minder stabiel; kijk naar de hoogte met ingeschoven middenkolom.",
+      "fix": "Hoogte zonder middenkolom in de tabel en de hoogtesectie; dikke segmenten eerst uitschuiven (opstelstappen).",
+      "quotes": [
+        {
+          "text": "Klein opvouwen betekent meer segmenten en dat betekent minder stabiel (dunste segmenten worden nog dunner).",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        },
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+      ]
+    },
+    {
+      "pain": "Ook op een stevig statief gaan lange objectieven trillen in de wind.",
+      "fix": "Eén poot onder het objectief, tas aan de haak, afstandsbediening; voor zware telelenzen de Manfrotto 190 (tragkracht-check).",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "KLM-maat 55 x 35 x 25 cm: vijf van de zes statieven zijn korter; de 190-kit gaat met de auto.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15",
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Hoogtedoel voor de Nederlandse man (182,9 cm, CBS): lengte min 25 tot 30 cm, ongeveer 153 tot 158 cm zonder middenkolom; geen enkel statief haalt dat, de Manfrotto 190 (146,5 cm) komt het dichtst bij.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "Handbagagecheck met KLM 55 x 35 x 25 cm: vijf statieven passen in de lengte, de 190-kit (70,5 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Waar een statief niet mag: Rijksmuseum Boerhaave, Rijksmuseum (bruidsfotografie); in Zuid-Kennemerland op het pad blijven.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Metrische fabriekswaarden in plaats van omrekeningen (Manfrotto, Gitzo, Peak Design).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "a 5 ft 10 in shooter, target 58 to 60 in (height minus 10 to 12 in)",
+      "action": "replace",
+      "with": "CBS average Dutch man 182,9 cm, target about 153 to 158 cm (height minus 25 to 30 cm)"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "each with its own Amazon listing (no local-store claim)"
+    },
+    {
+      "english": "Befree Advanced US kit page MKBFRLA4BK-BHUS",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product in the text"
+    },
+    {
+      "english": "tripods under 100 dollars (internal link text)",
+      "action": "replace",
+      "with": "neutral 'budget tripods' link text, no currency"
+    },
+    {
+      "english": "Manfrotto 15 kg payload link and Sony lens 663 g link in the body",
+      "action": "replace",
+      "with": "keep the figures as plain text (they stay in sources) so the body has room for the local fact links within the 3-outside-link limit"
+    }
+  ],
+  "notes": "Product statuses, local facts and forum quotes reuse entries verified for earlier local briefs on this site (timelapse, northern-lights, family-photos, canon-r50, canon-r8, nikon-zf, landscape-photography-tripod) for the same products and markets."
+}

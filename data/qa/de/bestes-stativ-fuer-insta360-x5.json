@@ -1,0 +1,21 @@
+{
+  "slug": "de/bestes-stativ-fuer-insta360-x5",
+  "lang": "de",
+  "translationOf": "best-tripod-for-insta360-x5",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:16:17.638Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-gopro/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-dji-osmo-action-5-pro/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-insta360-x5 (2026-11-05): same 5 products/ASINs/scores/spec keys, same specs converted metric first (109 cm/42.9 in, 168 cm/66 in, 187 cm/6.1 ft, 216/259/187/460 g, 10 kg, 0,5 kg, MT-03 legs 23-47 cm from 9-18.5 in, All-Purpose legs 15-23 cm), same FAQs, quotes and reviewer claims; B&H number link dropped to keep max 3 outside links. Local facts from data/briefs/de/best-tripod-for-insta360-x5.local.json re-checked: Museum Wiesbaden Hausordnung (ohne Blitz, Stativ, Selfiestab), Museum Tinguely Basel (Selfie-Sticks untersagt), Koelner Dom Domordnung par.2(3) Stativ-Genehmigung Dompropst, Ryanair 40x30x20, Lufthansa 55x40x23; amazon.de reviewer quote on B08R5K1YST and canon-eos-r-forum quote verbatim. No prices, no local store, no testing claims.",
+    "at": "2026-11-05T18:16:16.056Z",
+    "hash": "5949f85605a323d6"
+  }
+}

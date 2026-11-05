@@ -1,0 +1,23 @@
+{
+  "slug": "nl/beste-camerastatief",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-camera",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:13:02.448Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-under-100/; link the nl version once it exists",
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the nl version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the nl version once it exists",
+    "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-camera: same 6 products/ASINs/order, scores, spec keys; all specs metric first with maker metric figures (Manfrotto 171,5/146,5/9/70,5 cm 2,5 kg 15 kg; Befree 151/128/40/40 cm 1,59 kg 9 kg, EU code MKBFRLA4BK-BH; Gitzo 163,5/140,5/32,4/42,5 cm 1,45 kg 10 kg; Peak 152,4/130,2/14/39,4 cm 1,56 kg 9,1 kg; Sirui 138/16/33 cm 0,85 kg 4 kg; K&F 163/52/39,5 cm 1,15 kg 8 kg); load table shares and FAQ answers match. Local facts from data/briefs/nl/best-tripod-for-camera.local.json: re-opened CBS (182,9 / 169,3 cm, 19-year-olds 2020) and KLM (55 x 35 x 25 cm) today; Rijksmuseum, Boerhaave, Zuid-Kennemerland and forum quotes (tweakers, fok, nikon-club-nederland) reused from verified local briefs. Height targets recomputed (height minus 25-30 cm). No testing/ownership claims, no prices/currency, no local Amazon store claims; story block translated.",
+    "at": "2026-11-05T18:13:01.662Z",
+    "hash": "f8e75e0ca33133f1"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-crossbow",
+  "checkedAt": "2026-11-05T18:07:15Z",
+  "productFit": [
+    {
+      "name": "BOG DeathGrip Hunting Tripod",
+      "asin": "B07KMPCVMH",
+      "status": "fits",
+      "reason": "Sold in Germany under the same name (JVS Outdoor 'Tripod BOG DeathGrip Aluminium', active-hunting.de; all4shooters tested it from the Strobl CZ range).",
+      "source": "https://www.jvs-outdoor.de/zielstock/tripod-bog-deathgrip-aluminium"
+    },
+    {
+      "name": "TenPoint Axis Tripod",
+      "asin": "B0CN7YNTV5",
+      "status": "unknown",
+      "reason": "No EU retailer or EU dealer listing found (searches on .de/.es/.nl/.eu shops returned nothing); TenPoint lists it on its US site with US dealers. Add one neutral sentence that it is mainly sold through US dealers.",
+      "source": "https://www.tenpointcrossbows.com/product/axis-tripod/"
+    },
+    {
+      "name": "BOG DeathGrip Carbon Fiber Hunting Tripod",
+      "asin": "B07KMPZTWG",
+      "status": "fits",
+      "reason": "Sold in Germany as 'Tripod BOG DeathGrip Carbon Fiber' (JVS Outdoor); a Wild und Hund forum member uses the carbon version from Brownells Deutschland.",
+      "source": "https://www.jvs-outdoor.de/zielstock/tripod-bog-deathgrip-carbon-fiber"
+    },
+    {
+      "name": "Primos Trigger Stick Gen3 Tall Tripod",
+      "asin": "B0728HC759",
+      "status": "fits",
+      "metricSpecs": "61 to 157 cm",
+      "reason": "Sold in Germany as 'Primos Zielstock Trigger Stick Gen. 3' Dreibein (Waffen Schrum, JVS Outdoor).",
+      "source": "https://www.waffen-schrum.de/primos/zielstock-trigger-stick-dreibein"
+    },
+    {
+      "name": "Vanguard Quest T62U Shooting Stick",
+      "asin": "B006LZNOKG",
+      "status": "fits",
+      "metricSpecs": "1020 g, max. height 157,5 cm, folded (pack size) 70 cm",
+      "reason": "Sold in the EU under the same name (Foto Erhardt, Germany, ships EU-wide).",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Bundesjagdgesetz § 19 Abs. 1 Nr. 1 verbietet, mit Bolzen oder Pfeilen auf Schalenwild (Reh, Hirsch, Wildschwein), Wölfe und Seehunde zu schießen; die Armbrust ist damit für die Schalenwildjagd in Deutschland kein zulässiges Jagdmittel. The tripod use in Germany is target shooting and sighting in.",
+      "source": "https://www.gesetze-im-internet.de/bjagdg/__19.html"
+    },
+    {
+      "fact": "Der Deutsche Schützenbund: Armbrüste können ab 18 Jahren erlaubnisfrei erworben werden (keine Waffenbesitzkarte).",
+      "source": "https://www.dsb.de/recht/wichtiges-zum-waffenrecht/erwerbbesitz"
+    },
+    {
+      "fact": "The EU Habitats Directive (92/43/EEC) lists crossbows in Annex VI among prohibited means of capture and killing.",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31992L0043"
+    },
+    {
+      "fact": "In German hunting shops the Primos Trigger Stick Gen. 3 Tall is a 'Zielstock' (Dreibein) with a 61 to 157 cm range.",
+      "source": "https://www.waffen-schrum.de/primos/zielstock-trigger-stick-dreibein"
+    },
+    {
+      "fact": "Foto Erhardt lists the Vanguard Quest T62U at 1020 g, 157,5 cm max. height and 70 cm pack size.",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Holding the weapon for a long wait is tiring; a four-leg or yoke rest does not hold it on its own.",
+      "fix": "A clamp tripod (BOG DeathGrip) holds the crossbow hands-free; a yoke (Primos, Vanguard) needs a hand on it.",
+      "quotes": [
+        {
+          "text": "2h die Waffe festhalten zu müssen macht keinen Spaß.",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+      ]
+    },
+    {
+      "pain": "A clamp tripod is slow to set up compared with a shooting stick.",
+      "fix": "Clamp tripod for a fixed spot, Primos trigger stick (one-hand height change) when you move.",
+      "quotes": [
+        {
+          "text": "Das dauert schon ne Minute und geht nicht mal eben schnell wie bei einem Zielstock.",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+      ]
+    },
+    {
+      "pain": "The carbon DeathGrip is light but bulky to carry.",
+      "fix": "Choose the carbon version only for a longer walk to the spot; it saves about 0,5 kg but stays bulky.",
+      "quotes": [
+        {
+          "text": "Den habe ich aus Carbon. ist leicht, aber sperrig.",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "States that § 19 BJagdG bans bolts on Schalenwild, so a German reader knows the crossbow tripod is for target shooting and sighting in, not deer hunting.",
+      "source": "https://www.gesetze-im-internet.de/bjagdg/__19.html"
+    },
+    {
+      "point": "Crossbows can be bought without a permit from 18 (DSB).",
+      "source": "https://www.dsb.de/recht/wichtiges-zum-waffenrecht/erwerbbesitz"
+    },
+    {
+      "point": "Answers the Wild-und-Hund objections (holding the weapon for hours, slow setup of a clamp tripod) with the matching pick.",
+      "source": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/"
+    },
+    {
+      "point": "Maker/retailer metric figures (Primos 61-157 cm, Vanguard 1020 g / 157,5 cm / 70 cm).",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "own in-stock Amazon US listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "whitetail / turkey season / hogs past 100 yards framing",
+      "action": "replace",
+      "with": "Keep the species where they describe the US source (US hunters on Crossbow Nation); metres first for distances (more than 91 m (100 yd)); phrase reader advice for target shooting / sighting in where hunting with a crossbow is not allowed"
+    },
+    {
+      "english": "'for any blind you can drive or walk a short way to' / turkey and spot-and-stalk advice as general reader advice",
+      "action": "replace",
+      "with": "Advice stays, framed as what the US sources say, plus the local rule that hunting with a crossbow is not allowed (de, nl) or depends on the region (es)"
+    },
+    {
+      "english": "crossbow hunting from a ground blind as legal reader advice",
+      "action": "replace",
+      "with": "BJagdG § 19: bolts banned on Schalenwild; keep the blind advice as what US hunters do, apply it to target shooting/sighting in"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-crossbow",
+  "checkedAt": "2026-11-05T18:07:15Z",
+  "productFit": [
+    {
+      "name": "BOG DeathGrip Hunting Tripod",
+      "asin": "B07KMPCVMH",
+      "status": "fits",
+      "reason": "Sold by the Dutch-run EU hunting shop JVS Global Outdoor (jvs-outdoor.de, listed under 'Schietstok / Tripod') under the same name; no .nl listing found, but JVS ships within the EU.",
+      "source": "https://www.jvs-outdoor.de/zielstock/tripod-bog-deathgrip-aluminium"
+    },
+    {
+      "name": "TenPoint Axis Tripod",
+      "asin": "B0CN7YNTV5",
+      "status": "unknown",
+      "reason": "No EU retailer or EU dealer listing found (searches on .de/.es/.nl/.eu shops returned nothing); TenPoint lists it on its US site with US dealers. Add one neutral sentence that it is mainly sold through US dealers.",
+      "source": "https://www.tenpointcrossbows.com/product/axis-tripod/"
+    },
+    {
+      "name": "BOG DeathGrip Carbon Fiber Hunting Tripod",
+      "asin": "B07KMPZTWG",
+      "status": "fits",
+      "reason": "Sold by EU shops under the same name (Krale Shop 'BOG DeathGrip Carbon Fiber Tripod', JVS Outdoor).",
+      "source": "https://www.krale.shop/en/tripod-bog-deathgrip-carbon-fiber/"
+    },
+    {
+      "name": "Primos Trigger Stick Gen3 Tall Tripod",
+      "asin": "B0728HC759",
+      "status": "fits",
+      "metricSpecs": "61 to 157 cm",
+      "reason": "Sold in the Netherlands as 'Primos trigger stick gen 3 schietstok 3-poot' (Mets Jachthuis); Belgian shop Bowevents also stocks Primos tripods.",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    },
+    {
+      "name": "Vanguard Quest T62U Shooting Stick",
+      "asin": "B006LZNOKG",
+      "status": "fits",
+      "metricSpecs": "1020 g, max. height 157,5 cm, folded (pack size) 70 cm",
+      "reason": "Sold in the EU under the same name (Foto Erhardt, Germany, ships EU-wide).",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "De Koninklijke Nederlandse Jagersvereniging: de kruis- en handboog zijn niet door de wet genoemd als wettig middel en mogen dus niet voor jacht, beheer en schadebestrijding gebruikt worden.",
+      "source": "https://www.jagersvereniging.nl/faq/mogen-kruisboog-en-handboog-gebruikt-worden-voor-de-jacht/"
+    },
+    {
+      "fact": "The EU Habitats Directive (92/43/EEC) lists crossbows in Annex VI among prohibited means of capture and killing.",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31992L0043"
+    },
+    {
+      "fact": "Dutch hunting shops sell the Primos Trigger Stick Gen 3 as a 'schietstok 3-poot', 61 to 157 cm.",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    },
+    {
+      "fact": "Foto Erhardt lists the Vanguard Quest T62U at 1020 g, 157,5 cm max. height and 70 cm pack size.",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    },
+    {
+      "fact": "Belgian archery shop Bowevents sells bipods and tripods 'for your rifle, crossbow, spotting scope, camera', including Primos.",
+      "source": "https://bowevents.be/jacht/bipods-tripods-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A heavier tripod is steadier, especially in wind, but harder to carry.",
+      "fix": "The 3,9 kg aluminium DeathGrip for a fixed spot, the 1 kg Vanguard or 1,6 kg Primos when you move.",
+      "quotes": [
+        {
+          "text": "Een hoger gewicht komt de stabiliteit (zeker bij veel wind) altijd iets ten goede.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    },
+    {
+      "pain": "A quick-release that opens by accident can drop what sits on top.",
+      "fix": "Primos owners report the quick-change plate releasing by mistake; check the lock before you let go of the crossbow.",
+      "quotes": [
+        {
+          "text": "Het belangrijkste bij een snelkoppeling is dat de telescoop er niet vanaf kan vallen als de koppeling toevallig open staat.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "States that the crossbow is not a legal means for hunting in the Netherlands (KNJV), so the tripod is for target shooting and sighting in.",
+      "source": "https://www.jagersvereniging.nl/faq/mogen-kruisboog-en-handboog-gebruikt-worden-voor-de-jacht/"
+    },
+    {
+      "point": "EU Habitats Directive Annex VI lists crossbows.",
+      "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31992L0043"
+    },
+    {
+      "point": "Maker/retailer metric figures (Primos 61-157 cm, Vanguard 1020 g / 157,5 cm / 70 cm).",
+      "source": "https://www.foto-erhardt.com/tripods/vanguard/vanguard-quest-t62u.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "own in-stock Amazon US listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "whitetail / turkey season / hogs past 100 yards framing",
+      "action": "replace",
+      "with": "Keep the species where they describe the US source (US hunters on Crossbow Nation); metres first for distances (more than 91 m (100 yd)); phrase reader advice for target shooting / sighting in where hunting with a crossbow is not allowed"
+    },
+    {
+      "english": "'for any blind you can drive or walk a short way to' / turkey and spot-and-stalk advice as general reader advice",
+      "action": "replace",
+      "with": "Advice stays, framed as what the US sources say, plus the local rule that hunting with a crossbow is not allowed (de, nl) or depends on the region (es)"
+    },
+    {
+      "english": "crossbow hunting from a ground blind as legal reader advice",
+      "action": "replace",
+      "with": "KNJV: kruisboog not allowed for jacht, beheer, schadebestrijding; keep blind advice as what US hunters do"
+    }
+  ]
+}

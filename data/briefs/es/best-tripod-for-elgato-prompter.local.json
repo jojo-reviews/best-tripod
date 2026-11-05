@@ -1,0 +1,170 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-elgato-prompter",
+  "checkedAt": "2026-11-05T19:30:00.000Z",
+  "productFit": [
+    {
+      "name": "NEEWER TP74 74 inch Video Tripod with Fluid Head",
+      "asin": "B0BS5VQDYG",
+      "status": "fits",
+      "metricSpecs": "NEEWER EU store: 86-187 cm, 91 cm folded, 4 kg net weight, 8 kg load capacity",
+      "reason": "NEEWER sells the TP74 in its EU store with a Spanish product page (verified in the Sony FX3 local brief).",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    },
+    {
+      "name": "Cayer BV25LH Carbon Fiber Video Tripod",
+      "asin": "B07T96WX8H",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing: 87-188 cm, 89 cm folded, 3,9 kg; load given only in lb (13.2 / 17.6 / 17.7 lb in different places), so the English post's 8 kg (17.6 lb) on the current listing stays",
+      "reason": "The same ASIN B07T96WX8H is a live, in-stock listing on amazon.de (EU); no Spanish retailer found, but Amazon EU ships it.",
+      "source": "https://www.amazon.de/dp/B07T96WX8H"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs, 4 kg tripod weight",
+      "reason": "Foto Koch Spain lists the SmallRig 3751 AD-01 under the same model code.",
+      "source": "https://www.fotokoch.es/SmallRig-3751-Tr-pode-de-cabeza-fluida-AD-01-de-alta-resistencia_50550.html"
+    },
+    {
+      "name": "NEEWER TP75 Video Tripod with Fluid Head",
+      "asin": "B0BPXRVD79",
+      "status": "fits",
+      "metricSpecs": "NEEWER EU store: 89-189 cm, 93 cm folded, 4,6 kg; its spec table says 'Maximum Load Capacity: 17.6lbs / 8.0kg' while the same page's text says 'up to 22lb/10kg'",
+      "reason": "NEEWER's EU store lists the TP75 74\"/189 cm (sold out at check time, 'more stock coming soon'); amazon.de also carries the same ASIN.",
+      "source": "https://eu.neewer.com/products/neewer-74-pro-video-tripod-with-fluid-head-66602138"
+    },
+    {
+      "name": "Manfrotto 502 Fluid Video Head with 055 Video Aluminum Tripod",
+      "asin": "B0DX2G56WB",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 179 cm max, 157 cm column down, 54 cm min, 79 cm folded, 4,5 kg, 10 kg payload (English post's maker metric figures)",
+      "reason": "Foto Koch sells the kit in Spanish as \"Manfrotto 055 Kit de aluminio, trípode de vídeo con cabeza fluida\" (MVK502055XPRO3V).",
+      "source": "https://www.fotokoch.de/es/Manfrotto-055-Kit-de-aluminio-tr-pode-de-v-deo-con-cabeza-fluida-3-segmentos_27355.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Elgato Spanish setup guide: \"Utiliza un trípode con rosca de montaje de ¼\\\" o ⅜\\\" que soporte un peso total de al menos 7 kg (15 lb)\"; best a professional video tripod or C-stand; unlike the original Prompter, the XL cannot hang from the lens.",
+      "source": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+    },
+    {
+      "fact": "Elgato says Camera Hub is no longer supported: Prompter now runs in Elgato Studio, and Camera Hub scripts import in one step. The English post's step 6 still says Camera Hub.",
+      "source": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+    },
+    {
+      "fact": "Elgato (ES): the XL needs a USB-C port with 15 W, text stays readable up to 4,6 m; the XL \"puede resultar inestable cuando está completamente montado\": spread the legs and add sandbags or counterweights at the base.",
+      "source": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+    },
+    {
+      "fact": "NEEWER's EU store spec table lists the TP75 at 8,0 kg maximum load (the US page and the EU page text say 10 kg); even 8 kg still clears Elgato's 7 kg minimum.",
+      "source": "https://eu.neewer.com/products/neewer-74-pro-video-tripod-with-fluid-head-66602138"
+    },
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm: none of these video tripods (79 to 94 cm folded) fits, so a Prompter tripod goes in checked baggage.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Spanish terms: trípode de vídeo, rótula fluida / cabeza fluida, media bola de 75 mm, contrapeso, araña intermedia, soporte C (C-stand), placa de liberación rápida.",
+      "source": "https://www.fotokoch.de/es/Manfrotto-055-Kit-de-aluminio-tr-pode-de-v-deo-con-cabeza-fluida-3-segmentos_27355.html"
+    },
+    {
+      "fact": "CineD (Spanish edition): the Prompter XL weighs about 3,4 kg including the bracket and needs a sturdy tripod or a light stand.",
+      "source": "https://www.cined.com/es/elgato-prompter-xl-launched-expanded-size-and-improved-support-for-studio-setups/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The fully built XL is top-heavy and the head tips forward.",
+      "fix": "Slide the plate back until the head holds with the tilt lock open (English step 4), spread the legs, sandbag the base; or the counterbalanced Manfrotto 502.",
+      "quotes": [
+        {
+          "text": "El Prompter XL puede resultar inestable cuando está completamente montado.",
+          "url": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+        }
+      ],
+      "sources": [
+        "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+      ]
+    },
+    {
+      "pain": "A light basic tripod cannot hold front-heavy weight and the head sinks forward.",
+      "fix": "Skip travel and basic photo tripods; Elgato asks for 7 kg, so pick a video tripod rated 8 kg or more.",
+      "quotes": [
+        {
+          "text": "Es problema del trípode, no aguanta el peso.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/418252-problema-con-tripode/"
+        },
+        {
+          "text": "aunque la cámara es muy ligera el objetivo pesa bastante",
+          "url": "https://www.nikonistas.com/digital/foro/topic/418252-problema-con-tripode/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/418252-problema-con-tripode/"
+      ]
+    },
+    {
+      "pain": "Front weight makes a 4 kg rig feel far heavier than its scale weight.",
+      "fix": "Pick a tripod rated 8 kg or more (English post's load math: 14 lb = about 80% of 8 kg).",
+      "quotes": [
+        {
+          "text": "The full rig is around 9 LB, but because of the prompter XL's front weight, it behaves more like 12–14 LB when mounted.",
+          "url": "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/"
+        }
+      ],
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/"
+      ]
+    },
+    {
+      "pain": "Users still look for Camera Hub, which Elgato no longer supports.",
+      "fix": "Load the script in Elgato Studio; Camera Hub scripts import in one step.",
+      "quotes": [],
+      "sources": [
+        "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Elgato's own Spanish wording of the 7 kg / ¼\" or ⅜\" rule, plus 15 W USB-C and 4,6 m reading distance.",
+      "source": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+    },
+    {
+      "point": "Current software: Prompter now runs in Elgato Studio (Camera Hub no longer supported), which the English post misses.",
+      "source": "https://www.elgato.com/es/es/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/"
+    },
+    {
+      "point": "Honest load note: NEEWER's EU spec table gives the TP75 8,0 kg, not 10 kg; still above Elgato's 7 kg.",
+      "source": "https://eu.neewer.com/products/neewer-74-pro-video-tripod-with-fluid-head-66602138"
+    },
+    {
+      "point": "Maker metric figures first (TP74 86-187 cm, 91 cm folded; TP75 89-189 cm, 93 cm folded; Manfrotto 157 cm column down).",
+      "source": "https://eu.neewer.com/es/products/neewer-tp74-74-pro-video-tripod-with-fluid-head-66602212"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each has an in-stock Amazon US listing shipped by Amazon' in How I picked",
+      "action": "replace",
+      "with": "'each has its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Cayer: 'the current Amazon US listing rates it for 17.6 lb'",
+      "action": "replace",
+      "with": "'the current Amazon listing gives 8 kg (17.6 lb)'"
+    },
+    {
+      "english": "Step 6: 'load your script in Elgato's Camera Hub software'",
+      "action": "replace",
+      "with": "Elgato Studio (Camera Hub no longer supported, scripts import in one step)"
+    },
+    {
+      "english": "Inch/lb-first figures and 'readable up to 15 ft (4.6 m)'",
+      "action": "replace",
+      "with": "metric first (4,6 m), imperial in brackets, maker metric figures where given"
+    }
+  ]
+}

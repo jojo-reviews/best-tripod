@@ -1,0 +1,174 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-camera",
+  "checkedAt": "2026-11-05T18:05:53.501Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post (Peak Design / ShutterMuse figures): 130,2 cm column down, 39,4 cm folded, 1,56 kg with head.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers (checked for best-tripod-for-timelapse).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 (checked for best-tripod-for-timelapse).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload; Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post (Sirui spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)",
+      "asin": "B071F31XLR",
+      "status": "fits",
+      "metricSpecs": "Gitzo global: 163,5 cm max., 140,5 cm column down, 32,4 cm min., 42,5 cm closed, 1,45 kg, 10 kg safety payload (same metric figures as the English specs).",
+      "reason": "GK1545T-82TQD is the European kit code (the US Amazon title says GK1545T-82TQDUS); Gitzo's global site lists it with the same figures (checked for best-tripod-for-northern-lights).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm. SIRUI (33 cm), Peak Design (39,4 cm), K&F (39,5 cm), Befree Advanced (40 cm) und Gitzo (42,5 cm) sind kürzer; das Manfrotto 190XPRO3-Kit (70,5 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Destatis: Männer in Deutschland sind im Schnitt 1,79 m groß, Frauen 1,66 m. Ersetzt den 5-ft-10-in-Beispielfotografen im Höhenabschnitt.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private Fotos ohne Blitz sind erlaubt, Aufnahmen mit Stativen brauchen eine Genehmigung des Dompropstes.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Humboldt Forum Berlin: private Fotos sind erlaubt, Stative im Innenbereich nicht.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "Nationalpark Sächsische Schweiz: In der Kernzone dürfen nur markierte oder ausgeschilderte Wege genutzt werden, ein Stativplatz abseits des Weges ist dort nicht erlaubt.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "fact": "Fachbegriffe: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, Stativgewinde 1/4 Zoll; Arca-Swiss behält den Namen.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dünne Reisestativbeine tragen die Kamera, schwingen aber schon bei leichtem Wind; die Tragkraftangabe sagt wenig.",
+      "fix": "Last unter der Hälfte der Angabe halten, dicke Segmente zuerst ausziehen, Mittelsäule unten lassen, Tasche an den Haken (Tragkraft-Check, Aufbau-Schritte).",
+      "quotes": [
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        },
+        {
+          "text": "Noch ein Tipp: Orientiere dich nicht an der Tragfähigkeit, die der Hersteller angibt.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "Forennutzer raten davon ab, Höhe über eine lange Mittelsäule zu gewinnen.",
+      "fix": "Nach Höhe ohne Mittelsäule wählen: Manfrotto 190 (146,5 cm) und Gitzo (140,5 cm) (Höhenabschnitt).",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    },
+    {
+      "pain": "Unsicherheit, ob das Reisestativ ins Handgepäck darf.",
+      "fix": "Lufthansa-Maß 55 x 40 x 23 cm: fünf der sechs Stative sind kürzer; das 190-Kit gehört ins Auto.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/",
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Höhenziel für den deutschen Durchschnittsmann (1,79 m, Destatis): Körpergröße minus 25 bis 30 cm ergibt etwa 149 bis 154 cm ohne Mittelsäule; nur das Manfrotto 190 (146,5 cm) kommt nahe.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "Handgepäck-Check mit Lufthansa 55 x 40 x 23 cm: fünf Stative passen der Länge nach, das 190-Kit (70,5 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Wo Stative verboten sind oder eine Genehmigung brauchen: Kölner Dom, Humboldt Forum, Kernzone Sächsische Schweiz.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Metrische Herstellerwerte statt Umrechnung (Manfrotto, Gitzo, Peak Design via Foto Koch).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "a 5 ft 10 in shooter, target 58 to 60 in (height minus 10 to 12 in)",
+      "action": "replace",
+      "with": "Destatis average man 1,79 m, target about 149 to 154 cm (height minus 25 to 30 cm)"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "each with its own Amazon listing (no local-store claim)"
+    },
+    {
+      "english": "Befree Advanced US kit page MKBFRLA4BK-BHUS",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product in the text"
+    },
+    {
+      "english": "tripods under 100 dollars (internal link text)",
+      "action": "replace",
+      "with": "neutral 'budget tripods' link text, no currency"
+    },
+    {
+      "english": "Manfrotto 15 kg payload link and Sony lens 663 g link in the body",
+      "action": "replace",
+      "with": "keep the figures as plain text (they stay in sources) so the body has room for the local fact links within the 3-outside-link limit"
+    }
+  ],
+  "notes": "Product statuses, local facts and forum quotes reuse entries verified for earlier local briefs on this site (timelapse, northern-lights, family-photos, canon-r50, canon-r8, nikon-zf, landscape-photography-tripod) for the same products and markets."
+}

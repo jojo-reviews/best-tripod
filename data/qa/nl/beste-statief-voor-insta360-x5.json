@@ -1,0 +1,21 @@
+{
+  "slug": "nl/beste-statief-voor-insta360-x5",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-insta360-x5",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:16:19.094Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-gopro/; link the nl version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-dji-osmo-action-5-pro/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-insta360-x5 (2026-11-05): same 5 products/ASINs/scores/spec keys, same specs converted metric first, same FAQs, quotes and reviewer claims; B&H number link dropped to keep max 3 outside links. Local facts from data/briefs/nl/best-tripod-for-insta360-x5.local.json re-checked: funda 360-foto article (gebruik altijd een statief) read 2026-11-05, Rijksmuseum geen statieven, KNMI windkracht 6 krachtig 39-49 km/u, KLM 55x35x25, Ryanair 40x30x20; amazon.nl NL review (base too thick), Tweakers and Nikon Club Nederland quotes verbatim. No prices, no local store, no testing claims.",
+    "at": "2026-11-05T18:16:16.851Z",
+    "hash": "da4037011a6efb11"
+  }
+}

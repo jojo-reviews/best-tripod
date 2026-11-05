@@ -1,0 +1,22 @@
+{
+  "slug": "de/stativ-fuer-armbrust",
+  "lang": "de",
+  "translationOf": "best-tripod-for-crossbow",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:09:56.752Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the de version once it exists",
+    "internal link to the English post /blog/ball-head-sags-after-tightening/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-binoculars/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-crossbow: same 5 products/ASINs/scores/spec keys, every height/weight converted metric-first (7-59 in = 18-150 cm, 8.5 lb = 3,9 kg, 7.5 lb = 3,4 kg, 4 lb = 1,8 kg, 3.5 lb = 1,6 kg, 25-40 in = 64-102 cm, 24-62 in = 61-157 cm, 20 lb = 9,1 kg, 100 yd = 91 m); Vanguard uses retailer metric 1020 g / 157,5 cm / 70 cm (Foto Erhardt); Primos 61-157 cm matches Waffen Schrum. Local facts from the local brief re-opened: BJagdG §19 Abs.1 Nr.1 (gesetze-im-internet.de, bolts banned on Schalenwild), DSB Erwerb/Besitz page (Armbrüste erlaubnisfrei ab 18), EUR-Lex 92/43/EEC Annex VI (crossbows); Wild und Hund forum quotes verbatim (thread 143396). No testing/ownership claims, no prices/currency, no local Amazon store claims; story block translated; FAQs match English answers.",
+    "at": "2026-11-05T18:09:56.076Z",
+    "hash": "05f9d34b096f6cb3"
+  }
+}

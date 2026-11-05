@@ -1,0 +1,142 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-insta360-x5",
+  "checkedAt": "2026-11-05T18:08:36.025Z",
+  "productFit": [
+    {
+      "name": "Insta360 2-in-1 Invisible Selfie Stick Tripod",
+      "asin": "B08R5K1YST",
+      "status": "fits",
+      "metricSpecs": "Amazon.de/.nl (same ASIN): 216 g, 240 x 40 x 40 mm folded. English post: 24,5 to 109 cm (9.6 to 42.9 in).",
+      "reason": "Insta360 Spain store sells it as \"Selfie Stick Invisible + Trípode\", in stock with delivery to Madrid.",
+      "source": "https://store.insta360.com/es/product/invisible_selfie_stick_tripod"
+    },
+    {
+      "name": "K&F Concept 66\" 2-in-1 Invisible Selfie Stick Tripod",
+      "asin": "B0GXVRZD8V",
+      "status": "unknown",
+      "metricSpecs": "K&F/Amazon.nl (same ASIN): 28 cm table mode to 168 cm, 259 g, 28 cm folded, 8 sections.",
+      "reason": "Amazon.de and Amazon.nl list the same ASIN, but Amazon.es did not show it (redirect to the home page) and no Spanish retailer listing was found.",
+      "source": "https://www.amazon.nl/dp/B0GXVRZD8V"
+    },
+    {
+      "name": "Best360 Monopod Pro Carbon Fiber Edition",
+      "asin": "B0B8WDV287",
+      "status": "fits",
+      "metricSpecs": "Best360: stands up to 187 cm, packs into 3 parts (English post figures: stick 40 to 150 cm, legs 21 to 32 cm, 1,070 g total, 500 g counterweight).",
+      "reason": "Best360 is a London-based shop (85 Great Portland Street) that advertises free UK, EU and USA delivery; same product name.",
+      "source": "https://best360.shop/policies/contact-information"
+    },
+    {
+      "name": "Koolehaoda MT-03 Mini Tripod",
+      "asin": "B099PMM85Y",
+      "status": "fits",
+      "metricSpecs": "Amazon.de (same ASIN, MT-03): 41 cm height; Koolehaoda: 5 to 41 cm, 26 cm folded, 10 kg; 460 g (Amazon).",
+      "reason": "Amazon.es lists the same ASIN B099PMM85Y as \"Koolehaoda Mini trípode de Escritorio ... (MT-03)\".",
+      "source": "https://www.amazon.es/koolehaoda-port%C3%A1til-extensible-grabadora-MT-03/dp/B099PMM85Y"
+    },
+    {
+      "name": "Insta360 All-Purpose Tripod Stand",
+      "asin": "B07Y3DHF3Y",
+      "status": "fits",
+      "metricSpecs": "Foto Erhardt (DE retailer): 152 to 232 mm height, 0,5 kg load; Kamera Express: 187 g. Keep the English figures (15 to 23 cm, 15 cm folded, 187 g, 0,5 kg).",
+      "reason": "Spanish-language EU retailers list it as \"Insta360 All Purpose Tripod - Trípode Multiusos\" (TeqClub, Hard to Find Camera Store, 187 g).",
+      "source": "https://www.htf-store.com/es/products/all-purpose-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode o cualquier otro elemento de estabilización, y no permite palos selfie en los Palacios Nazaríes ni en ningún espacio cerrado.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite hacer fotografías o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Ryanair incluye en todas las tarifas un bolso pequeño de 40 x 30 x 20 cm bajo el asiento; el 2 en 1 de Insta360 (24,5 cm), el K&F (28 cm), el MT-03 (26 cm) y el All-Purpose (15 cm) caben plegados a lo largo.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Iberia permite una maleta de cabina de hasta 56 x 40 x 25 cm y 10 kg; la pieza más larga del Best360 (40 cm) cabe sin problema.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Términos en España: palo selfie invisible, palo selfie con trípode, monópode, minitrípode / trípode de mesa, rosca de 1/4\", contrapeso, costura (stitching), nadir.",
+      "source": "https://store.insta360.com/es/product/invisible_selfie_stick_tripod"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Tripods and stabilisers are banned at the Alhambra, which surprises visitors.",
+      "fix": "At the Alhambra leave the stick tripod packed: the Patronato bans tripods, monopods and any stabiliser, and selfie sticks in the Nasrid Palaces and indoors.",
+      "quotes": [
+        {
+          "text": "Leyendo las normas veo que está prohibido el uso de tripode y flash",
+          "url": "https://www.nikonistas.com/digital/foro/topic/285147-consejos-visita-a-la-alhambra/"
+        }
+      ],
+      "sources": [
+        "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+      ]
+    },
+    {
+      "pain": "Spanish photographers want a tripod that holds in gusts of wind.",
+      "fix": "Hang weight from the base, extend less, or use the Best360 with its 500 g counterweight (post problems section).",
+      "quotes": [
+        {
+          "text": "el trípode que sea decente, estable y que aguante rachas de viento, que a veces las hay bastante intensas en algunos sitios.",
+          "url": "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+      ]
+    },
+    {
+      "pain": "Worry whether a tripod is allowed in cabin baggage.",
+      "fix": "All picks fold to 15 to 28 cm (Best360: 40 cm longest part) and fit Ryanair's 40 x 30 x 20 cm bag or Iberia's 56 x 40 x 25 cm cabin bag by length; check the airline's rules.",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy",
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "The Alhambra rule names selfie sticks and every stabiliser, so a 360 stick tripod stays packed in the Nasrid Palaces.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Which picks fit Ryanair's 40 x 30 x 20 cm free bag and Iberia's 56 x 40 x 25 cm cabin bag.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Metric figures first throughout (24,5 a 109 cm, 168 cm, 187 cm, 216 g) from maker and EU listings.",
+      "source": "https://store.insta360.com/es/product/invisible_selfie_stick_tripod"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has an in-stock Amazon US listing shipped by Amazon",
+      "action": "replace",
+      "with": "each is listed on Amazon (no US-specific wording, no local store claim)"
+    },
+    {
+      "english": "Heights in inches first (42.9 in, 66-inch, 6 ft)",
+      "action": "replace",
+      "with": "metric first: 109 cm (42.9 in), 168 cm (66 in), 187 cm (6.1 ft)"
+    },
+    {
+      "english": "\"Tabletop to 6 ft\" in the title",
+      "action": "replace",
+      "with": "metric range (hasta 187 cm)"
+    }
+  ]
+}

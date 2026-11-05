@@ -1,0 +1,188 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-camera",
+  "checkedAt": "2026-11-05T18:05:53.501Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch listing (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed length, 9,1 kg load; English post (Peak Design / ShutterMuse figures): 130,2 cm column down, 39,4 cm folded, 1,56 kg with head.",
+      "reason": "Sold under the same name by Peak Design EU and German retailers (checked for best-tripod-for-timelapse).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "asin": "B010BOA6V2",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 171,5 cm max., 146,5 cm with the centre column down, 9 cm min., 70,5 cm closed, 2,5 kg, 15 kg safety payload (same metric figures as the English specs).",
+      "reason": "German retailer Foto Erhardt lists the same kit code MK190XPRO3-BHQ2 (checked for best-tripod-for-timelapse).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mk190xpro3-bhq2-kit-with-ball-head.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload; Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "German retailer lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post (Sirui spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)",
+      "asin": "B071F31XLR",
+      "status": "fits",
+      "metricSpecs": "Gitzo global: 163,5 cm max., 140,5 cm column down, 32,4 cm min., 42,5 cm closed, 1,45 kg, 10 kg safety payload (same metric figures as the English specs).",
+      "reason": "GK1545T-82TQD is the European kit code (the US Amazon title says GK1545T-82TQDUS); Gitzo's global site lists it with the same figures (checked for best-tripod-for-northern-lights).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite una maleta de cabina de hasta 10 kg y 56 x 40 x 25 cm. SIRUI (33 cm), Peak Design (39,4 cm), K&F (39,5 cm), Befree Advanced (40 cm) y Gitzo (42,5 cm) caben a lo largo; el kit Manfrotto 190XPRO3 (70,5 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Muy Interesante, con datos de NCD Risk Factor Collaboration: en 2019 los hombres en España medían de media 1,76 m y las mujeres 1,62 m. Sustituye al fotógrafo de 5 ft 10 in del apartado de altura.",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "fact": "La Alhambra (Patronato) solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite fotos o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Parque Nacional del Teide: las actividades profesionales de fotografía, filmación y vídeo dentro del parque necesitan autorización.",
+      "source": "https://www.gobiernodecanarias.org/parquesnacionales/teide/tramites/autorizaciones/"
+    },
+    {
+      "fact": "Términos: rótula de bola, columna central, zapata / placa de liberación rápida; Arca-Swiss mantiene su nombre.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Un trípode ligero solo es estable mientras la columna central queda abajo.",
+      "fix": "Elegir por altura sin columna: Manfrotto 190 (146,5 cm) y Gitzo (140,5 cm) (apartado de altura).",
+      "quotes": [
+        {
+          "text": "Es un trípode ligero pero muy estable si no despliegas la columna central, para transportarlo es una gozada.",
+          "url": "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+        },
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": [
+        "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/",
+        "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+      ]
+    },
+    {
+      "pain": "Un trípode de aluminio barato y ligero se queda corto enseguida.",
+      "fix": "Comprar una vez: la opción económica K&F lleva placa tipo Arca para cambiar de rótula después (apartado de problemas).",
+      "quotes": [
+        {
+          "text": "Empecé con un trípode de aluminio (cullman), que, la verdad, se me quedó corto en seguida: barato, ligero, pero nada estable",
+          "url": "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+        }
+      ],
+      "sources": [
+        "https://www.canonistas.com/foros/t/recomendacion-de-tripode.557154/"
+      ]
+    },
+    {
+      "pain": "Dudas sobre si el trípode puede ir en cabina.",
+      "fix": "Medida de Iberia 56 x 40 x 25 cm: cinco de los seis trípodes caben; el kit 190 va en el coche.",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/",
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    },
+    {
+      "pain": "Monumentos donde el trípode está prohibido.",
+      "fix": "Alhambra y Sagrada Família prohíben el trípode: comprobar la normativa antes de cargar con él.",
+      "quotes": [
+        {
+          "text": "Leyendo las normas veo que está prohibido el uso de tripode y flash",
+          "url": "https://www.nikonistas.com/digital/foro/topic/285147-consejos-visita-a-la-alhambra/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/285147-consejos-visita-a-la-alhambra/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Altura objetivo para el hombre medio en España (1,76 m): estatura menos 25 a 30 cm, unos 146 a 151 cm sin columna; solo el Manfrotto 190 (146,5 cm) llega.",
+      "source": "https://muyinteresante.okdiario.com/ciencia/63020.html"
+    },
+    {
+      "point": "Comprobación de cabina con Iberia 56 x 40 x 25 cm: cinco trípodes caben a lo largo, el kit 190 (70,5 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Dónde no se permite el trípode: Alhambra, Sagrada Família; Teide pide autorización para trabajo profesional.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Cifras métricas del fabricante en lugar de conversiones (Manfrotto, Gitzo, Peak Design).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "a 5 ft 10 in shooter, target 58 to 60 in (height minus 10 to 12 in)",
+      "action": "replace",
+      "with": "Spanish average man 1,76 m, target about 146 to 151 cm (height minus 25 to 30 cm)"
+    },
+    {
+      "english": "each with its own in-stock Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "each with its own Amazon listing (no local-store claim)"
+    },
+    {
+      "english": "Befree Advanced US kit page MKBFRLA4BK-BHUS",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH next to the product in the text"
+    },
+    {
+      "english": "tripods under 100 dollars (internal link text)",
+      "action": "replace",
+      "with": "neutral 'budget tripods' link text, no currency"
+    },
+    {
+      "english": "Manfrotto 15 kg payload link and Sony lens 663 g link in the body",
+      "action": "replace",
+      "with": "keep the figures as plain text (they stay in sources) so the body has room for the local fact links within the 3-outside-link limit"
+    }
+  ],
+  "notes": "Product statuses, local facts and forum quotes reuse entries verified for earlier local briefs on this site (timelapse, northern-lights, family-photos, canon-r50, canon-r8, nikon-zf, landscape-photography-tripod) for the same products and markets."
+}

@@ -1,0 +1,145 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-insta360-x5",
+  "checkedAt": "2026-11-05T18:08:36.025Z",
+  "productFit": [
+    {
+      "name": "Insta360 2-in-1 Invisible Selfie Stick Tripod",
+      "asin": "B08R5K1YST",
+      "status": "fits",
+      "metricSpecs": "Amazon.de/.nl (same ASIN): 216 g, 240 x 40 x 40 mm folded. English post: 24,5 to 109 cm (9.6 to 42.9 in).",
+      "reason": "Amazon.de lists the same ASIN B08R5K1YST as \"Insta360 2-in-1 Unsichtbarer Selfie-Stick mit Stativ\" (216 g); Insta360 DE store sells it as \"2-in-1 Unsichtbarer Selfie Stick + Stativ\".",
+      "source": "https://www.amazon.de/dp/B08R5K1YST"
+    },
+    {
+      "name": "K&F Concept 66\" 2-in-1 Invisible Selfie Stick Tripod",
+      "asin": "B0GXVRZD8V",
+      "status": "fits",
+      "metricSpecs": "K&F/Amazon.nl (same ASIN): 28 cm table mode to 168 cm, 259 g, 28 cm folded, 8 sections.",
+      "reason": "Amazon.de lists the same ASIN B0GXVRZD8V (K&F CONCEPT 66 Inch Selfie Stick 2 in 1, JF-105L).",
+      "source": "https://www.amazon.de/-/en/CONCEPT-Selfie-Invisible-Insta360-JF-105L/dp/B0GXVRZD8V"
+    },
+    {
+      "name": "Best360 Monopod Pro Carbon Fiber Edition",
+      "asin": "B0B8WDV287",
+      "status": "fits",
+      "metricSpecs": "Best360: stands up to 187 cm, packs into 3 parts (English post figures: stick 40 to 150 cm, legs 21 to 32 cm, 1,070 g total, 500 g counterweight).",
+      "reason": "Best360 is a London-based shop (85 Great Portland Street) that advertises free UK, EU and USA delivery; same product name.",
+      "source": "https://best360.shop/policies/contact-information"
+    },
+    {
+      "name": "Koolehaoda MT-03 Mini Tripod",
+      "asin": "B099PMM85Y",
+      "status": "fits",
+      "metricSpecs": "Amazon.de (same ASIN, MT-03): 41 cm height; Koolehaoda: 5 to 41 cm, 26 cm folded, 10 kg; 460 g (Amazon).",
+      "reason": "Amazon.de lists the same ASIN B099PMM85Y as koolehaoda MT-03 Universal Mini Table Tripod, height 41 cm.",
+      "source": "https://www.amazon.de/-/en/koolehaoda-Tripod-Portable-Extendable-MT-03/dp/B099PMM85Y"
+    },
+    {
+      "name": "Insta360 All-Purpose Tripod Stand",
+      "asin": "B07Y3DHF3Y",
+      "status": "fits",
+      "metricSpecs": "Foto Erhardt (DE retailer): 152 to 232 mm height, 0,5 kg load; Kamera Express: 187 g. Keep the English figures (15 to 23 cm, 15 cm folded, 187 g, 0,5 kg).",
+      "reason": "German retailer Foto Erhardt lists the INSTA360 All Purpose Tripod in stock (152 to 232 mm, 0,5 kg).",
+      "source": "https://www.foto-erhardt.com/tripods/other-manufacturers/insta360-all-purpose-tripod.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Museum Wiesbaden (Hausordnung): Fotografieren und Filmen für private Zwecke ist in den Dauerausstellungen erlaubt, aber ohne Blitz, Stativ und Selfiestab; ein Selfie-Stick-Stativ für die X5 bleibt dort also in der Tasche.",
+      "source": "https://museum-wiesbaden.de/hausordnung"
+    },
+    {
+      "fact": "Museum Tinguely Basel (Hausordnung): Filmen in den Ausstellungsräumen nur ohne Blitz und Stativ; ebenfalls untersagt ist die Verwendung von Selfie-Sticks.",
+      "source": "https://www.tinguely.ch/de/information/hausordnung.html"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Ryanair erlaubt in jedem Tarif eine kleine persönliche Tasche von 40 x 30 x 20 cm unter dem Sitz; Insta360 2-in-1 (24,5 cm), K&F (28 cm), MT-03 (26 cm) und All-Purpose (15 cm) passen zusammengeklappt der Länge nach hinein.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm; auch das längste Teil des Best360 (40 cm) passt hinein.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "German terms: unsichtbarer Selfie-Stick, Selfie-Stick-Stativ, Einbeinstativ, Ministativ / Tischstativ, Stativgewinde 1/4 Zoll, Gegengewicht, Stitching (Bildnaht), Nadir.",
+      "source": "https://www.insta360.com/blog-de/tipps/unsichtbarer-selfie-stick-tutorial.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The small built-in legs of the 2-in-1 feel unstable off level ground.",
+      "fix": "Stand it only on level ground (post how-to step 3); on slopes add MT-03 legs, which adjust one by one.",
+      "quotes": [
+        {
+          "text": "Das Stativ ist relativ klein und nicht sehr stabil, aber auf einem geraden Untergrund hatte ich bisher keine Probleme.",
+          "url": "https://www.amazon.de/dp/B08R5K1YST"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.de/dp/B08R5K1YST"
+      ]
+    },
+    {
+      "pain": "Light tripods tip over in wind without extra weight.",
+      "fix": "Hang a bag of stones from the base, extend less, or use the Best360 with its 500 g counterweight (post problems section).",
+      "quotes": [
+        {
+          "text": "ich habe schon einige umgekippte Stative (samt Kamera und Optik) gesehen, die ohne Zusatzgewichte, bei gar nicht starkem Wind, sich verselbstständigt haben.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "The tripod thread of the 2-in-1 is criticised as weak.",
+      "fix": "Screw the X5 on only until snug (post how-to step 1) and check it before you step back.",
+      "quotes": [
+        {
+          "text": "Leider ist das Stativgewinde von sehr schlechter Qualität",
+          "url": "https://www.amazon.de/dp/B08R5K1YST"
+        }
+      ],
+      "sources": [
+        "https://www.amazon.de/dp/B08R5K1YST"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Museums such as Museum Wiesbaden and Museum Tinguely Basel ban selfie sticks as well as tripods, so an X5 stick tripod stays packed there.",
+      "source": "https://museum-wiesbaden.de/hausordnung"
+    },
+    {
+      "point": "Which picks fit Ryanair's 40 x 30 x 20 cm free bag (all but the Best360's 40 cm part comfortably) and Lufthansa's 55 x 40 x 23 cm cabin bag.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Metric figures first throughout (24,5 to 109 cm, 168 cm, 187 cm, 216 g), from Amazon.de/maker listings of the same ASINs.",
+      "source": "https://www.amazon.de/dp/B08R5K1YST"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has an in-stock Amazon US listing shipped by Amazon",
+      "action": "replace",
+      "with": "each is listed on Amazon (no US-specific wording, no local store claim)"
+    },
+    {
+      "english": "Heights in inches first (42.9 in, 66-inch, 6 ft, 9.6 to 42.9 in)",
+      "action": "replace",
+      "with": "metric first: 109 cm (42.9 in), 168 cm (66 in), 187 cm (6.1 ft)"
+    },
+    {
+      "english": "\"Tabletop to 6 ft\" in the title",
+      "action": "replace",
+      "with": "metric range (bis 187 cm)"
+    }
+  ]
+}

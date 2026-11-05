@@ -1,0 +1,22 @@
+{
+  "slug": "nl/statief-voor-kruisboog",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-crossbow",
+  "pass": true,
+  "checkedAt": "2026-11-05T18:14:45.859Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the nl version once it exists",
+    "internal link to the English post /blog/ball-head-sags-after-tightening/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-binoculars/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-crossbow: same 5 products/ASINs/scores/spec keys, metric-first conversions (7-59 in = 18-150 cm, 8.5 lb = 3,9 kg, 7.5 lb = 3,4 kg, 4 lb = 1,8 kg, 3.5 lb = 1,6 kg, 25-40 in = 64-102 cm, 24-62 in = 61-157 cm, 20 lb = 9,1 kg, 100 yd = 91 m); Vanguard retailer metric 1020 g / 157,5 cm / 70 cm (Foto Erhardt); Primos 61-157 cm (Mets Jachthuis). Local facts re-opened: KNJV FAQ (kruis- en handboog not allowed for jacht, beheer, schadebestrijding), EUR-Lex 92/43/EEC Annex VI; vogelinformatiecentrum.nl/statieven-3 quotes verbatim (weight/wind, snelkoppeling). No testing/ownership claims, prices, currency or local Amazon claims; story block translated; FAQs match English answers.",
+    "at": "2026-11-05T18:14:45.122Z",
+    "hash": "46644a4c736e5b57"
+  }
+}
