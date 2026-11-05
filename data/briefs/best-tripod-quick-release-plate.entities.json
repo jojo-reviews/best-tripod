@@ -17,8 +17,9 @@
       "pages": 3,
       "relevance": 0.81,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "wikidata": "Q15328",
       "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true,
       "source": "2026-11-04 live top 5 + 2026-10-31 brief run"
     },
     {
@@ -70,6 +71,14 @@
       "wikidata": "Q1146104",
       "kgmid": "/m/01y6w7",
       "source": "2026-11-04 live top 5"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [],

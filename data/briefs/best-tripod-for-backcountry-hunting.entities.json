@@ -1,45 +1,105 @@
 {
   "keyword": "best tripod for backcountry hunting",
-  "pagesAnalyzed": 5,
+  "pagesAnalyzed": 4,
   "sharedEntities": [
     {
       "entity": "Tripod",
       "type": "",
-      "pages": 5,
-      "relevance": 0.97,
+      "pages": 3,
+      "relevance": 0.95,
       "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "kgmid": "/m/0119d4g8",
       "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8",
       "idsChecked": true
     },
     {
-      "entity": "Spotting scope",
+      "entity": "Tripod (photography)",
       "type": "",
-      "pages": 5,
-      "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope",
-      "kgmid": "/m/01cmft",
-      "wikidata": "Q1752914",
-      "idsChecked": true
-    },
-    {
-      "entity": "Binoculars",
-      "type": "/award/ranked_item",
-      "pages": 5,
-      "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Binoculars",
-      "kgmid": "/m/0lt4_",
-      "wikidata": "Q102626",
+      "pages": 3,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn",
       "idsChecked": true
     },
     {
       "entity": "Leg",
       "type": "AnatomicalStructure",
-      "pages": 4,
-      "relevance": 0.65,
+      "pages": 3,
+      "relevance": 0.58,
       "wiki": "http://en.wikipedia.org/wiki/Leg",
-      "kgmid": "/m/035r7c",
       "wikidata": "Q133105",
+      "kgmid": "/m/035r7c",
+      "idsChecked": true
+    },
+    {
+      "entity": "Binoculars",
+      "type": "/award/ranked_item",
+      "pages": 3,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Binoculars",
+      "wikidata": "Q102626",
+      "kgmid": "/m/0lt4_",
+      "idsChecked": true
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "wikidata": "Q25288",
+      "kgmid": "/m/085x_",
+      "idsChecked": true
+    },
+    {
+      "entity": "Spotting scope",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Spotting_scope",
+      "wikidata": "Q1752914",
+      "kgmid": "/m/01cmft",
+      "idsChecked": true
+    },
+    {
+      "entity": "Hunting",
+      "type": "/interests/hobby",
+      "pages": 2,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Hunting",
+      "wikidata": "Q36963",
+      "kgmid": "/m/09p5m",
+      "idsChecked": true
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh",
+      "idsChecked": true
+    },
+    {
+      "entity": "Telescopic sight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Telescopic_sight",
+      "wikidata": "Q198982",
+      "kgmid": "/m/041vtm",
+      "idsChecked": true
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0",
       "idsChecked": true
     },
     {
@@ -50,37 +110,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Rifle",
       "kgmid": "/m/06c54",
       "wikidata": "Q124072",
-      "idsChecked": true
-    },
-    {
-      "entity": "Hunting",
-      "type": "/interests/hobby",
-      "pages": 4,
-      "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Hunting",
-      "kgmid": "/m/09p5m",
-      "wikidata": "Q36963",
-      "idsChecked": true
-    },
-    {
-      "entity": "Tripod (photography)",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.57,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
-      "kgmid": "/m/073bxn",
-      "wikidata": "Q683906",
-      "idsChecked": true
-    },
-    {
-      "entity": "Tripod head",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
-      "kgmid": "/m/0g5qnbh",
-      "wikidata": "Q3275242",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Shooting",
@@ -90,17 +121,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Shooting",
       "kgmid": "/m/071rm",
       "wikidata": "Q2252077",
-      "idsChecked": true
-    },
-    {
-      "entity": "Weight",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.55,
-      "wiki": "http://en.wikipedia.org/wiki/Weight",
-      "kgmid": "/m/085x_",
-      "wikidata": "Q25288",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Optics",
@@ -110,17 +132,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Optics",
       "kgmid": "/m/05mn2",
       "wikidata": "Q14620",
-      "idsChecked": true
-    },
-    {
-      "entity": "Telescopic sight",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Telescopic_sight",
-      "kgmid": "/m/041vtm",
-      "wikidata": "Q198982",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Bipod",
@@ -130,17 +143,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Bipod",
       "kgmid": "/m/04n9n_",
       "wikidata": "Q232287",
-      "idsChecked": true
-    },
-    {
-      "entity": "Carbon-fiber reinforced polymer",
-      "type": "/projects/project_focus",
-      "pages": 2,
-      "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
-      "kgmid": "/m/0155k0",
-      "wikidata": "Q910977",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Weapon mount",
@@ -150,7 +154,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Weapon_mount",
       "kgmid": "/m/02rp9j5",
       "wikidata": "Q1700804",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Height",
@@ -160,7 +165,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Height",
       "kgmid": "/m/01jtb2",
       "wikidata": "Q208826",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Backpack",
@@ -170,7 +176,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Backpack",
       "kgmid": "/m/01940j",
       "wikidata": "Q5843",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Aluminium",
@@ -180,7 +187,8 @@
       "wiki": "http://en.wikipedia.org/wiki/Aluminium",
       "kgmid": "/m/027vj2v",
       "wikidata": "Q663",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Pound (mass)",
@@ -188,7 +196,8 @@
       "pages": 2,
       "relevance": 0.23,
       "wiki": "http://en.wikipedia.org/wiki/Pound_(mass)",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     },
     {
       "entity": "Backcountry",
@@ -198,7 +207,19 @@
       "wiki": "http://en.wikipedia.org/wiki/Backcountry",
       "kgmid": "/m/0bkwmg",
       "wikidata": "Q4839591",
-      "idsChecked": true
+      "idsChecked": true,
+      "source": "2026-11-01 run"
     }
-  ]
+  ],
+  "missingFromPost": [],
+  "run": {
+    "date": "2026-11-05",
+    "urls": [
+      "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+      "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+      "https://sandsarchery.com/collections/lightweight-tripods",
+      "https://shop.gohunt.com/collections/tripods"
+    ],
+    "note": "reddit r/Hunting thread (#4) not fetchable by TextRazor; entities from the 2026-11-01 run that are still covered by the post are kept"
+  }
 }

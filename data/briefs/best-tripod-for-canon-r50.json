@@ -18,29 +18,29 @@
       "name": "Canon EOS R50",
       "type": "",
       "relation": "the camera: 375 g with battery and card, no in-body IS",
-      "salience": 0.85,
+      "salience": 0.82,
       "pages": 4
     },
     {
       "name": "tripod",
       "type": "",
       "relation": "central entity",
-      "salience": 0.75,
+      "salience": 0.84,
       "pages": 4,
       "textrazorName": "Tripod"
     },
     {
       "name": "SmallRig",
       "type": "Company",
-      "relation": "brand recommended in the forum threads (CT-10, Selection tripods)",
-      "salience": 0.62,
+      "relation": "brand recommended in the forum threads (CT-10, Selection tripods) and maker of an R50 vlogging tripod kit (octopus tripod + LED, out of stock)",
+      "salience": 0.63,
       "pages": 4
     },
     {
       "name": "Canon",
       "type": "Agent",
       "relation": "camera maker",
-      "salience": 0.51,
+      "salience": 0.53,
       "pages": 4,
       "textrazorName": "Canon Inc."
     },
@@ -48,7 +48,7 @@
       "name": "camera",
       "type": "/fictional_universe/character_species",
       "relation": "what the tripod holds",
-      "salience": 0.6,
+      "salience": 0.72,
       "pages": 3,
       "textrazorName": "Camera"
     },
@@ -56,14 +56,14 @@
       "name": "Manfrotto",
       "type": "Agent",
       "relation": "maker of the Element MII and Befree Advanced",
-      "salience": 0.54,
+      "salience": 0.47,
       "pages": 3
     },
     {
       "name": "aluminum",
       "type": "ChemicalSubstance",
       "relation": "leg material of all four full-size picks",
-      "salience": 0.35,
+      "salience": 0.4,
       "pages": 3,
       "textrazorName": "Aluminium"
     },
@@ -79,7 +79,7 @@
       "name": "vlogging",
       "type": "/business/industry",
       "relation": "main R50 use case for tabletop and flexible tripods",
-      "salience": 0.51,
+      "salience": 0.52,
       "pages": 2,
       "textrazorName": "Vlog"
     },
@@ -149,6 +149,14 @@
       "type": "feature",
       "relation": "R50 has none in body, so a tripod matters in low light",
       "salience": 0.5
+    },
+    {
+      "name": "budget",
+      "type": "/award/ranked_item",
+      "relation": "tight-budget R50 owners; K&F Concept is the budget pick",
+      "salience": 0.46,
+      "pages": 2,
+      "textrazorName": "Budget"
     }
   ],
   "attributes": [
@@ -161,7 +169,8 @@
     "ball head pan and friction control",
     "center column hook",
     "minimum height",
-    "phone mount"
+    "phone mount",
+    "dedicated R50 vlogging kit (octopus tripod + LED light)"
   ],
   "ngrams": [
     "tripod for canon r50",
@@ -175,7 +184,9 @@
     "befree advanced",
     "gorillapod 3k",
     "self-timer",
-    "kit lens"
+    "kit lens",
+    "vlogging tripod kit",
+    "budget tripod"
   ],
   "skipgrams": [
     "tripod…R50",
@@ -207,7 +218,10 @@
     "self-timer",
     "Bluetooth remote",
     "hook",
-    "phone mount"
+    "phone mount",
+    "IBIS",
+    "octopus tripod",
+    "LED light"
   ],
   "questions": [
     "What is the best tripod for a Canon R50?",
@@ -598,5 +612,5 @@
     "canon r50 tripod for vlogging"
   ],
   "angle": "Size the tripod to the 505 g R50 kit: load never limits, so choose on column-down height, the head and the use (hiking, home video, vlogging); answer no-IBIS, tipping and the plate power-off issue.",
-  "entitiesNote": "TextRazor sharedEntities copied; duplicates Tripod (photography) and Canon EOS merged into tripod and Canon EOS R50; Canon Inc./Aluminium/Vlog renamed to the words used on the page."
+  "entitiesNote": "TextRazor sharedEntities copied; duplicates Tripod (photography) and Canon EOS merged into tripod and Canon EOS R50; Canon Inc./Aluminium/Vlog renamed to the words used on the page. Semantic pass 2026-11-05: TextRazor re-run on the live top 5 (r/canon, 2 Canon Rumors threads, Filmtools, SmallRig; Reddit blocked, 4 parsed); saliences refreshed, Budget added; missingFromPost empty."
 }

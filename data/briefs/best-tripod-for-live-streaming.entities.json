@@ -1,83 +1,15 @@
 {
   "keyword": "best tripod for live streaming",
-  "pagesAnalyzed": 5,
+  "pagesAnalyzed": 4,
   "sharedEntities": [
     {
       "entity": "Tripod (photography)",
       "type": "",
-      "pages": 5,
-      "relevance": 0.99,
+      "pages": 3,
+      "relevance": 1,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "kgmid": "/m/073bxn",
       "wikidata": "Q683906",
-      "idsChecked": true
-    },
-    {
-      "entity": "Tripod head",
-      "type": "",
-      "pages": 5,
-      "relevance": 0.7,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
-      "kgmid": "/m/0g5qnbh",
-      "wikidata": "Q3275242",
-      "idsChecked": true
-    },
-    {
-      "entity": "Live streaming",
-      "type": "/internet/website",
-      "pages": 5,
-      "relevance": 0.67,
-      "wiki": "http://en.wikipedia.org/wiki/Live_streaming",
-      "kgmid": "/m/064klnj",
-      "wikidata": "Q3027665",
-      "idsChecked": true
-    },
-    {
-      "entity": "Camera",
-      "type": "/fictional_universe/character_species",
-      "pages": 5,
-      "relevance": 0.57,
-      "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "kgmid": "/m/0dv5r",
-      "wikidata": "Q15328",
-      "idsChecked": true
-    },
-    {
-      "entity": "Streaming media",
-      "type": "/business/industry",
-      "pages": 3,
-      "relevance": 0.72,
-      "wiki": "http://en.wikipedia.org/wiki/Streaming_media",
-      "kgmid": "/m/0735l",
-      "wikidata": "Q220499",
-      "idsChecked": true
-    },
-    {
-      "entity": "Video",
-      "type": "/internet/website_category",
-      "pages": 3,
-      "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Video",
-      "idsChecked": true
-    },
-    {
-      "entity": "Monopod",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.35,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod",
-      "kgmid": "/m/047sxn",
-      "wikidata": "Q1306072",
-      "idsChecked": true
-    },
-    {
-      "entity": "Weight",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Weight",
-      "kgmid": "/m/085x_",
-      "wikidata": "Q25288",
       "idsChecked": true
     },
     {
@@ -89,12 +21,61 @@
       "idsChecked": true
     },
     {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.81,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
+      "wikidata": "Q3275242",
+      "idsChecked": true
+    },
+    {
+      "entity": "Streaming media",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Streaming_media",
+      "kgmid": "/m/0735l",
+      "wikidata": "Q220499",
+      "idsChecked": true
+    },
+    {
+      "entity": "Live streaming",
+      "type": "/internet/website",
+      "pages": 3,
+      "relevance": 0.67,
+      "wiki": "http://en.wikipedia.org/wiki/Live_streaming",
+      "kgmid": "/m/064klnj",
+      "wikidata": "Q3027665",
+      "idsChecked": true
+    },
+    {
       "entity": "Vlog",
       "type": "/business/industry",
       "pages": 2,
       "relevance": 0.61,
       "wiki": "http://en.wikipedia.org/wiki/Vlog",
       "idsChecked": true
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "wikidata": "Q663",
+      "kgmid": "/m/027vj2v"
     },
     {
       "entity": "Counterweight",
@@ -137,6 +118,34 @@
       "idsChecked": true
     },
     {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
+    },
+    {
+      "entity": "Video",
+      "type": "/internet/website_category",
+      "pages": 3,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "idsChecked": true
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
+    },
+    {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
@@ -174,5 +183,9 @@
       "wikidata": "Q1146104",
       "idsChecked": true
     }
+  ],
+  "missingFromPost": [],
+  "errors": [
+    "https://www.bhphotovideo.com/c/buy/tripods-for-streaming/ci/46800: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-JdRiBGkrZnOAWue4dn76ON&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"JdRiBGkrZnOAWue4dn76ON\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'rtVzvGFNXCFnax63GCIonErZ28ossh7u.3BocTcKnDU-1793916608-1.2.1.1-ahLKdk66ZORz0sbKf0905_eHy6gHAoJ5tcWvO3Dw_HXRGV3HPAECEw.HmyEqux39',cITimeS: '1793916608',cN: 'JdRiBGkrZnOAWue4dn76ON',cRay: 'a55f2fd0ad1ff45a',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/buy/tripods-for-streaming/ci/46800?__cf_chl_tk=_9IkEy.yRL7qCZvu4PDY3L.1EXyw0X6n0npeWCuR69Y-1793916608-1.0.1.1-QsX5ZqxSySLuCm_7lEMiyMrKHqKLv9FmGeiTHoNrVVE\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/buy/tripods-for-streaming/ci/46800?__cf_chl_f_tk=_9IkEy.yRL7qCZvu4PDY3L.1EXyw0X6n0npeWCuR69Y-1793916608-1.0.1.1-QsX5ZqxSySLuCm_7lEMiyMrKHqKLv9FmGeiTHoNrVVE\",md: 'jiOehiKanHOzlWfkrBP2UpIrxBgDHdwSHxzrWyDJLRo-1793916608-1.2.1.1-aiQO9h2NFdBIFUkV9.iggc7RXXvUOK1KZFzJ1oQcEXfEonIZYvs9H7K0pQPrJxQpphkpbHsh6fJU4.Nx43FYqTbJLqmvveSNor75f8q_TSRZ7SBZZwQr6q.SYa8MKfgJ_ok2fM_uf5PYttHQr7C5wlgblTrhb_88Q_mjfEGzgn9NABBS1kBgACMTmkDMneiV18_UE7m1wdgaXCiZGlkalc_ecSpGX4Ntqbr5BVNeknh6.O8YkT327BXFFbm3hR13fAHj.3GZOW0lEU4A1A_jIz_XiEaGlRTK2X0UpbKDpaavqYCvWYYJzpCemlYmb19wKRZYTp4T18qh.MsVet2S6xaFrWhJv8mYsPKCcFh12SPPE4xgjaFUUfFfKzTSGID9.cg4Uvcllmt2GHsW9CbpEeN7Ddoa1oj_7N9eMsB9kUnQAB90J9a9FPKl1xYCexbcPrZbSPsRqTa4uKwd7fFe3b71VcMZA4MnOEbHLyAMnzVJMLvMdvpG9XYOhNLVrbKJKzrkC.t8_gJcoRnXYLOO2NtVzExUE1pWhGkoGJXs0HYQU9Z2kT3kt471LV51oYF6zAJOKz9ZRUwIrpdd70IRMbwtusp8RDHa3FhRVR4LyFX28OLuRmzND2VrOReaZF34QFfPYcWc2CLoyRIDw7SMTFK.TL24LbE.0M4Bg7yLA0jeJ3jqVA8Hy0LXH06t5..TlMELgOaO944V3lHhnTtbrmHVIvH.2EFo6GSb4RtMhZDMnPxGOk5dWPiI5Syhoh8wFNdcNJzBab_CxMdfzyXbh1EVB6XsDMTHyu3deDIZdp2UF9Y61wqkp5bHL1RWj6Rvisff0iXMBermhN8xhV3RFsR2p1PrWoU3Pv7JE6y4ZERyQqx.bIFvzHkBv8Ja4_q6cQnqhmnbCqzAWTMAt8P3rav7wnktLGMDfd_K6XJyczY4C5ByQolVC2XBq5MOcKQ_Pw4282_0iH_apzPIxwDkXJvBRu4UK6.9VwZFyfrwThG9HmyxfGDKNA63BXDT1s0Os4094hhcFZq5H_FQeK9.S9WXR246id796kbsJ9Usgiu3rDrhci1w3YMMdIico1QsT416FzgbQtvkHWkkBzHWoxEO0gTucl3HaZHt8dBmpDIJQcHGvTcYPZBrJp7oPy69N987X7ZrHr2IaOxUYL.Wnw',mdrd: 'u_EU6yXvBITQzAGhglEPab2goENDYc_bx0u9V3v.Z60-1793916608-1.2.1.1-e350yICcGUUUTAcr4oSZsFzRf.Nu8Cwxh1bfrxzsDtJDRwj.0VB6UWUoVWPI1NUtUlnwOdWuoxSB36JpAWbGRP579k_W.oPZFNaOOBY5yQiavHfOwvQE4MAeHv7nEpSQY7IPJOenBci7BO2XANbJgixB7lgcCGud3HXfgWbYozaAnv9YnT_aDN8KMDUnhdpupe5o6u98Bmk9ndTTlUlHXWTOW3mc.TTBtFImE9bFycFlbjrK..9Adg.09lS5LXywFV_qHXdbCRt4PG4KF6QHog',};var a = document.createElement('script');a.nonce = 'JdRiBGkrZnOAWue4dn76ON';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a55f2fd0ad1ff45a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/buy/tripods-for-streaming/ci/46800?__cf_chl_rt_tk=_9IkEy.yRL7qCZvu4PDY3L.1EXyw0X6n0npeWCuR69Y-1793916608-1.0.1.1-QsX5ZqxSySLuCm_7lEMiyMrKHqKLv9FmGeiTHoNrVVE\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
   ]
 }

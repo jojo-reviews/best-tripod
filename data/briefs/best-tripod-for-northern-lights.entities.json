@@ -1,53 +1,35 @@
 {
   "keyword": "best tripod for northern lights",
-  "pagesAnalyzed": 5,
+  "pagesAnalyzed": 4,
   "sharedEntities": [
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
-      "pages": 5,
-      "relevance": 0.72,
+      "pages": 4,
+      "relevance": 0.79,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "kgmid": "/m/0dv5r",
       "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r",
       "idsChecked": true
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
-      "pages": 5,
-      "relevance": 0.64,
+      "pages": 4,
+      "relevance": 0.66,
       "wiki": "http://en.wikipedia.org/wiki/Photography",
-      "kgmid": "/m/05wkw",
       "wikidata": "Q11633",
+      "kgmid": "/m/05wkw",
       "idsChecked": true
     },
     {
       "entity": "Aurora",
       "type": "Place",
-      "pages": 4,
-      "relevance": 0.84,
+      "pages": 3,
+      "relevance": 0.94,
       "wiki": "http://en.wikipedia.org/wiki/Aurora",
-      "idsChecked": true
-    },
-    {
-      "entity": "Tripod (photography)",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
-      "kgmid": "/m/073bxn",
-      "wikidata": "Q683906",
-      "idsChecked": true
-    },
-    {
-      "entity": "Image stabilization",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
-      "kgmid": "/m/0bphfx",
-      "wikidata": "Q31009",
+      "wikidata": "Q40609",
+      "kgmid": "/m/0d61m",
       "idsChecked": true
     },
     {
@@ -56,8 +38,18 @@
       "pages": 3,
       "relevance": 0.63,
       "wiki": "http://en.wikipedia.org/wiki/Lens",
-      "kgmid": "/m/04n4x",
       "wikidata": "Q768575",
+      "kgmid": "/m/04n4x",
+      "idsChecked": true
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn",
       "idsChecked": true
     },
     {
@@ -66,6 +58,178 @@
       "pages": 3,
       "relevance": 0.45,
       "wiki": "http://en.wikipedia.org/wiki/Light",
+      "wikidata": "Q9128",
+      "kgmid": "/m/04k84",
+      "idsChecked": true
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx",
+      "idsChecked": true
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
+      "wikidata": "Q267298",
+      "kgmid": "/m/01c0z",
+      "idsChecked": true
+    },
+    {
+      "entity": "F-number",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/F-number",
+      "wikidata": "Q862169",
+      "kgmid": "/m/016hsk",
+      "idsChecked": true
+    },
+    {
+      "entity": "Image sensor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Image_sensor",
+      "wikidata": "Q209121",
+      "kgmid": "/m/0b022t",
+      "idsChecked": true
+    },
+    {
+      "entity": "Wide-angle lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Wide-angle_lens",
+      "wikidata": "Q632867",
+      "kgmid": "/m/01bt4g",
+      "idsChecked": true
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "wikidata": "Q192234",
+      "kgmid": "/m/01bjxx",
+      "idsChecked": true
+    },
+    {
+      "entity": "Zoom lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens",
+      "wikidata": "Q220310",
+      "kgmid": "/m/01zh4t",
+      "idsChecked": true
+    },
+    {
+      "entity": "Crop factor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Crop_factor",
+      "wikidata": "Q1196193",
+      "kgmid": "/m/07bsxx",
+      "idsChecked": true
+    },
+    {
+      "entity": "Pixel",
+      "type": "/type/unit",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Pixel",
+      "wikidata": "Q355198",
+      "kgmid": "/m/05x50",
+      "idsChecked": true
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "wikidata": "Q271960",
+      "kgmid": "/m/0168y9",
+      "idsChecked": true
+    },
+    {
+      "entity": "Focal length",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Focal_length",
+      "wikidata": "Q193540",
+      "kgmid": "/m/0l43r",
+      "idsChecked": true
+    },
+    {
+      "entity": "Intervalometer",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Intervalometer",
+      "wikidata": "Q733949",
+      "kgmid": "/m/09xz04",
+      "idsChecked": true
+    },
+    {
+      "entity": "Photograph",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Photograph",
+      "wikidata": "Q125191",
+      "kgmid": "/m/068jd",
+      "idsChecked": true
+    },
+    {
+      "entity": "Flashlight",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Flashlight",
+      "wikidata": "Q235783",
+      "kgmid": "/m/01kb5b",
+      "idsChecked": true
+    },
+    {
+      "entity": "Star trail",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Star_trail",
+      "wikidata": "Q3492933",
+      "kgmid": "/m/0k2l43y",
+      "idsChecked": true
+    },
+    {
+      "entity": "Night photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Night_photography",
+      "wikidata": "Q1894442",
+      "kgmid": "/m/010f1nw2",
+      "idsChecked": true
+    },
+    {
+      "entity": "Long-exposure photography",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "wikidata": "Q1082855",
+      "kgmid": "/m/02rr7v1",
       "idsChecked": true
     },
     {
@@ -79,16 +243,6 @@
       "idsChecked": true
     },
     {
-      "entity": "Electric battery",
-      "type": "/award/ranked_item",
-      "pages": 2,
-      "relevance": 0.76,
-      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
-      "kgmid": "/m/01c0z",
-      "wikidata": "Q267298",
-      "idsChecked": true
-    },
-    {
       "entity": "Iceland",
       "type": "Place",
       "pages": 2,
@@ -96,42 +250,6 @@
       "wiki": "http://en.wikipedia.org/wiki/Iceland",
       "kgmid": "/m/03rj0",
       "wikidata": "Q189",
-      "idsChecked": true
-    },
-    {
-      "entity": "F-number",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/F-number",
-      "kgmid": "/m/016hsk",
-      "wikidata": "Q862169",
-      "idsChecked": true
-    },
-    {
-      "entity": "Image sensor",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.63,
-      "wiki": "http://en.wikipedia.org/wiki/Image_sensor",
-      "idsChecked": true
-    },
-    {
-      "entity": "Wide-angle lens",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.61,
-      "wiki": "http://en.wikipedia.org/wiki/Wide-angle_lens",
-      "kgmid": "/m/01bt4g",
-      "wikidata": "Q632867",
-      "idsChecked": true
-    },
-    {
-      "entity": "Camera lens",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.6,
-      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
       "idsChecked": true
     },
     {
@@ -155,35 +273,11 @@
       "idsChecked": true
     },
     {
-      "entity": "Zoom lens",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Zoom_lens",
-      "idsChecked": true
-    },
-    {
-      "entity": "Crop factor",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.53,
-      "wiki": "http://en.wikipedia.org/wiki/Crop_factor",
-      "idsChecked": true
-    },
-    {
       "entity": "Live preview",
       "type": "/digicams/camera_viewfinder_type",
       "pages": 2,
       "relevance": 0.51,
       "wiki": "http://en.wikipedia.org/wiki/Live_preview",
-      "idsChecked": true
-    },
-    {
-      "entity": "Pixel",
-      "type": "/type/unit",
-      "pages": 2,
-      "relevance": 0.51,
-      "wiki": "http://en.wikipedia.org/wiki/Pixel",
       "idsChecked": true
     },
     {
@@ -217,50 +311,6 @@
       "idsChecked": true
     },
     {
-      "entity": "Exposure (photography)",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.45,
-      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
-      "idsChecked": true
-    },
-    {
-      "entity": "Focal length",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Focal_length",
-      "kgmid": "/m/0l43r",
-      "wikidata": "Q193540",
-      "idsChecked": true
-    },
-    {
-      "entity": "Intervalometer",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.43,
-      "wiki": "http://en.wikipedia.org/wiki/Intervalometer",
-      "kgmid": "/m/09xz04",
-      "wikidata": "Q733949",
-      "idsChecked": true
-    },
-    {
-      "entity": "Photograph",
-      "type": "/visual_art/visual_art_medium",
-      "pages": 2,
-      "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Photograph",
-      "idsChecked": true
-    },
-    {
-      "entity": "Flashlight",
-      "type": "/law/invention",
-      "pages": 2,
-      "relevance": 0.4,
-      "wiki": "http://en.wikipedia.org/wiki/Flashlight",
-      "idsChecked": true
-    },
-    {
       "entity": "Digital single-lens reflex camera",
       "type": "/digicams/camera_format",
       "pages": 2,
@@ -277,32 +327,17 @@
       "kgmid": "/m/0155k0",
       "wikidata": "Q910977",
       "idsChecked": true
-    },
-    {
-      "entity": "Star trail",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.28,
-      "wiki": "http://en.wikipedia.org/wiki/Star_trail",
-      "idsChecked": true
-    },
-    {
-      "entity": "Night photography",
-      "type": "/visual_art/visual_art_genre",
-      "pages": 2,
-      "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Night_photography",
-      "idsChecked": true
-    },
-    {
-      "entity": "Long-exposure photography",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.25,
-      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
-      "kgmid": "/m/02rr7v1",
-      "wikidata": "Q1082855",
-      "idsChecked": true
     }
-  ]
+  ],
+  "missingFromPost": [
+    "Electric battery",
+    "Exposure (photography)"
+  ],
+  "sources": [
+    "https://www.kevinpepperphotography.com/important-accessories-for-aurora-photography",
+    "https://www.davemorrowphotography.com/northern-lights-photography",
+    "https://theauroraguy.com/blogs/blog/my-top-camera-gear-recommendations-for-aurora-photography",
+    "https://www.nathab.com/blog/photographing-the-northern-lights"
+  ],
+  "analyzedAt": "2026-11-05"
 }

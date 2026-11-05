@@ -3,76 +3,24 @@
   "pagesAnalyzed": 4,
   "sharedEntities": [
     {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "idsChecked": true,
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 4,
       "relevance": 0.94,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
       "wikidata": "Q683906",
-      "kgmid": "/m/073bxn"
-    },
-    {
-      "entity": "Camera",
-      "type": "/fictional_universe/character_species",
-      "pages": 4,
-      "relevance": 0.68,
-      "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r"
-    },
-    {
-      "entity": "Budget",
-      "type": "/award/ranked_item",
-      "pages": 3,
-      "relevance": 0.48,
-      "wiki": "http://en.wikipedia.org/wiki/Budget",
-      "wikidata": "Q41263",
-      "kgmid": "/m/02144t"
-    },
-    {
-      "entity": "Mirrorless camera",
-      "type": "/digicams/camera_format",
-      "pages": 3,
-      "relevance": 0.34,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
-      "wikidata": "Q209918",
-      "kgmid": "/m/05p4z41"
-    },
-    {
-      "entity": "Digital single-lens reflex camera",
-      "type": "/digicams/camera_format",
-      "pages": 3,
-      "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
-      "wikidata": "Q196342",
-      "kgmid": "/m/04f20t"
-    },
-    {
-      "entity": "Weight",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Weight",
-      "wikidata": "Q25288",
-      "kgmid": "/m/085x_"
-    },
-    {
-      "entity": "Monopod",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod",
-      "wikidata": "Q1306072",
-      "kgmid": "/m/047sxn"
-    },
-    {
-      "entity": "Tripod",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.92,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "wikidata": "Q1444534",
-      "kgmid": "/m/0119d4g8"
+      "idsChecked": true
     },
     {
       "entity": "Tripod head",
@@ -80,8 +28,9 @@
       "pages": 2,
       "relevance": 0.8,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "kgmid": "/m/0g5qnbh",
       "wikidata": "Q3275242",
-      "kgmid": "/m/0g5qnbh"
+      "idsChecked": true
     },
     {
       "entity": "Photography",
@@ -89,8 +38,19 @@
       "pages": 2,
       "relevance": 0.74,
       "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "kgmid": "/m/05wkw",
       "wikidata": "Q11633",
-      "kgmid": "/m/05wkw"
+      "idsChecked": true
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
     },
     {
       "entity": "Leg",
@@ -102,13 +62,90 @@
       "kgmid": "/m/035r7c"
     },
     {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "kgmid": "/m/01bvx1",
+      "wikidata": "Q62621",
+      "idsChecked": true
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 3,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Budget",
+      "kgmid": "/m/02144t",
+      "wikidata": "Q41263",
+      "idsChecked": true
+    },
+    {
       "entity": "Height",
       "type": "/people/measured_body_part",
       "pages": 2,
       "relevance": 0.48,
       "wiki": "http://en.wikipedia.org/wiki/Height",
+      "kgmid": "/m/01jtb2",
       "wikidata": "Q208826",
-      "kgmid": "/m/01jtb2"
+      "idsChecked": true
+    },
+    {
+      "entity": "100",
+      "type": "Money",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "",
+      "idsChecked": true
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "kgmid": "/m/027vj2v",
+      "wikidata": "Q663",
+      "idsChecked": true
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "idsChecked": true
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "kgmid": "/m/018xm",
+      "wikidata": "Q18545",
+      "idsChecked": true
     },
     {
       "entity": "Image stabilization",
@@ -116,17 +153,141 @@
       "pages": 2,
       "relevance": 0.44,
       "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "kgmid": "/m/0bphfx",
       "wikidata": "Q31009",
-      "kgmid": "/m/0bphfx"
+      "idsChecked": true
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "kgmid": "/m/034z2h",
+      "wikidata": "Q1051922",
+      "idsChecked": true
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 3,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "kgmid": "/m/0lgw7",
+      "wikidata": "Q33231",
+      "idsChecked": true
     },
     {
       "entity": "Gear",
       "type": "/business/product_category",
       "pages": 2,
-      "relevance": 0.35,
+      "relevance": 0.39,
       "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "idsChecked": true,
       "wikidata": "Q143873",
       "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "kgmid": "/m/04f20t",
+      "wikidata": "Q196342",
+      "idsChecked": true
+    },
+    {
+      "entity": "Full-frame DSLR",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Full-frame_DSLR",
+      "kgmid": "/m/089556",
+      "wikidata": "Q1345091",
+      "idsChecked": true
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "",
+      "idsChecked": true
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
+      "idsChecked": true
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "kgmid": "/m/047sxn",
+      "wikidata": "Q1306072",
+      "idsChecked": true
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
+      "kgmid": "/m/0mgkg",
+      "wikidata": "Q3884",
+      "idsChecked": true
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "kgmid": "/m/085x_",
+      "wikidata": "Q25288",
+      "idsChecked": true
+    },
+    {
+      "entity": "View camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/View_camera",
+      "idsChecked": true
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "kgmid": "/m/01940j",
+      "wikidata": "Q5843",
+      "idsChecked": true
+    },
+    {
+      "entity": "Hand-held camera",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Hand-held_camera",
+      "idsChecked": true
+    },
+    {
+      "entity": "Price",
+      "type": "/media_common/quotation_subject",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Price",
+      "idsChecked": true
     },
     {
       "entity": "Wide-angle lens",

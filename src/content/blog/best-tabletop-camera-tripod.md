@@ -421,7 +421,7 @@ sources:
       tripod?)
     url: >-
       https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-05'
 faqs:
   - q: What is the best tabletop camera tripod?
     a: >-
@@ -500,7 +500,7 @@ The table uses maker figures; where a listing disagrees, I say so in the product
 
 **Every tabletop camera tripod here is recommended by at least two pages ranking for tabletop or mini tripod searches, and each has its own in-stock Amazon US listing.**
 
-I built the shortlist from Shotkit, Rosenberry Rooms, Pack Hacker, TechGearLab and other tabletop roundups, then checked every spec on the maker's page. I dropped the Pedco UltraPod and Platypod because only one ranking page recommended each, and the Leofoto MT-04, a strong 11 lb kit that Fstoppers reviewed, because I found no second recommendation. I then read 21 owner reviews and threads and scored each pick on our [Best Tripod Score rubric](/how-we-score/). The video below compares six tabletop tripods, including the PIXI and SmallRig, side by side.
+I built the shortlist from Shotkit, Rosenberry Rooms, Pack Hacker, TechGearLab and other roundups, then checked every spec on the maker's page. I dropped the Pedco UltraPod and Platypod because only one ranking page recommended each, and the Leofoto MT-04, a strong 11 lb kit that Fstoppers reviewed, because I found no second recommendation. I then read 21 owner reviews and threads and scored each pick on our [Best Tripod Score rubric](/how-we-score/). The video below compares six tabletop tripods, including the PIXI and SmallRig, side by side.
 
 > **From our notes:** The SmallRig BUT2664 spec sheet changed how I ranked these. SmallRig rates its legs for 20 kg but its ball head for 2 kg, a tenfold gap. Every product page I read leads with the bigger number when it has one, yet the camera sits on the head. So I rebuilt the comparison around head payload alone, and that is why the PIXI EVO, at 2.5 kg, beats tripods with flashier leg ratings.
 
@@ -524,17 +524,17 @@ The limits are written on the spec sheet: 13.5 cm of fixed height, one leg angle
 
 The [SmallRig Mini Tabletop Tripod BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) is an all-aluminum tabletop tripod from SmallRig with a panoramic ball head and an Arca-type quick-release plate. I picked it for photographers who already use Arca plates and want a panorama or product shots from a table. The legs are aluminum alloy, with a 230 mm folded length. The head tilts -90/+45 degrees forward and ±50 degrees sideways, with a separate pan knob and scale.
 
-What owners praise is rigidity: one owner write-up reports a mirrorless body with a 24-70mm lens held without creep. The catches are its low angle only: 113 mm of working height, its 410 g weight and legs with one section that need a hex key to hold an in-between angle. One owner on SmallRig's own page wished the legs had angle locks. Remember the head, not the 20 kg legs, sets the 2 kg limit.
+Owners praise its rigidity: one write-up reports a mirrorless body with a 24-70mm lens held without creep. The catches are 113 mm of working height, 410 g and one-section legs that need a hex key to hold an in-between angle; one owner on SmallRig's page wanted angle locks. The head, not the 20 kg legs, sets the 2 kg limit.
 
 ### JOBY GorillaPod 3K Kit: best flexible tabletop tripod
 
 The [JOBY GorillaPod 3K Kit](amzn:JOBY+GorillaPod+3K+Kit+flexible+tripod+ball+head) is a flexible-leg tabletop tripod from JOBY, sold with a separate ball head, bubble level and quick-release plate. It is my pick when there is no table at all: the jointed legs wrap railings, posts and branches. B&H lists a 3 kg (6.6 lb) rating, the highest here, and about 12 in of height, taller than any rigid pick.
 
-Owners like the freedom and the grip it gives for vlogging. The complaint is consistent across r/videography and DPReview: "The legs almost always lose tightness over time." Leveling is slower too, so set the legs roughly, then level with the head. The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.
+Owners like the freedom, and folded legs make a vlogging grip. The complaint is consistent across r/videography and DPReview: "The legs almost always lose tightness over time." Leveling is slower too, so set the legs roughly, then level with the head. The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.
 
 ### Ulanzi MT-16 Extendable Tripod: best budget tabletop tripod with height
 
-The [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) is a telescopic mini tripod from Ulanzi that extends from 22 to 44 cm, twice the reach of the rigid picks. At 170 g it is the lightest here, and its 360-degree ball head carries a cold shoe for a small mic or light.
+The [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) is a telescopic mini tripod from Ulanzi that extends from 22 to 44 cm, twice the reach of the rigid picks. At 170 g it is the lightest here, and its 360-degree ball head carries a cold shoe for a small mic or light. Ulanzi sells it as a 2-in-1 tripod and selfie stick: folded, the column becomes a handgrip for vlogging and selfies.
 
 Ulanzi and B&H list 1.5 kg, but the Amazon listing gives 0.5 kg, and one review puts the vertical-mode limit at 500 g. I'd use it for a phone, action camera or compact camera, not a mirrorless kit. B&H owners find the pole stiffer than expected, though the head can't be swapped and it is less steady fully extended.
 
@@ -550,13 +550,13 @@ Ulanzi and B&H list 1.5 kg, but the Amazon listing gives 0.5 kg, and one review 
 
 **Choose a tabletop camera tripod whose head payload is at least double the weight of your camera and lens together.**
 
-A rating is a safe static load, not the weight a small head holds at a tilt without creeping. A recurring r/AskPhotography complaint is a ball head rated just above the rig that still sags. My rule is a 50% margin:
+A rating is a safe static load, not the weight a small head holds at a tilt without creeping. A recurring r/AskPhotography complaint is a ball head rated just above the rig that still sags. My rule is to load the head to half its rating:
 
 1. Weigh the camera with battery, card and lens on a kitchen scale.
 2. Double that number.
 3. Compare it with the head payload, not the leg rating.
 
-SmallRig shows why step 3 matters: its legs hold [20kg](https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html), but the head holds 2 kg. With the 50% margin, the PIXI Mini suits rigs to about 500 g, the SmallRig to 1 kg, the PIXI EVO to 1.25 kg and the GorillaPod 3K Kit to 1.5 kg. Most compact cameras clear the PIXI Mini (see our [Canon PowerShot V1 tripod picks](/blog/best-tripod-for-canon-powershot-v1/)); a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod.
+SmallRig shows why step 3 matters: its legs hold [20kg](https://www.smallrig.com/smallrig-tabletop-mini-tripod-with-panoramic-ball-head-but2664.html), but the head holds 2 kg. At half the rating, the PIXI Mini suits rigs to about 500 g, the SmallRig to 1 kg, the PIXI EVO to 1.25 kg and the GorillaPod 3K Kit to 1.5 kg. Most compact cameras clear the PIXI Mini (see our [Canon PowerShot V1 tripod picks](/blog/best-tripod-for-canon-powershot-v1/)); a mirrorless body with a standard zoom belongs on the PIXI EVO or the GorillaPod.
 
 ## How to Stop a Tabletop Camera Tripod Tipping or Sagging
 
@@ -570,7 +570,7 @@ On DPReview, one owner noted that many small tripods "would topple forward very 
 4. Lock the ball firmly and check for creep after 10 seconds before you shoot.
 5. Fire with the self-timer or a remote so you don't knock it.
 
-For bendy legs that sag, wrap all three legs fully around the support instead of hooking one over it. If the head keeps creeping in portrait, move to a head with a drop notch or an Arca plate and a short L-bracket. Height is the other trap: a tabletop tripod barely lifts the camera, so plan around a wall, table or rock, or use the Ulanzi MT-16.
+For bendy legs that sag, wrap all three legs fully around the support instead of hooking one over it. If the head creeps in portrait, use a head with a drop notch or an Arca plate and a short L-bracket. Height is the other trap: a tabletop tripod barely lifts the camera, so shoot from a wall, table or rock, or use the Ulanzi MT-16.
 
 ## Tabletop Camera Tripod Picks for Macro, DSLR and iPhone
 

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-plein-air-painting",
   "pass": true,
-  "checkedAt": "2026-11-03T16:30:41.048Z",
+  "checkedAt": "2026-11-05T22:09:33.581Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Befree Advanced Twist Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,21 +9,14 @@
     "product \"Peak Design Travel Tripod Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"ZOMEI Q666 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hands clipping a pochade box onto a trip\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Backpack hung from the center-column hoo\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Painter standing at a tripod with the po\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.newegg.com/p/3C6-062J-00052",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1646164-REG/benro_bmrtprocblu_mefoto_roadtrip_pro_carbon.html",
-    "source didn't respond normally (403): https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-01 via Firecrawl: Manfrotto Befree Advanced carbon twist (manfrotto.com spec page: 1.25 kg/2.76 lb, 150 cm/59.06 in, 41 cm/16.14 in closed, 9 kg/19.84 lb safety payload, 4 sections, twist lock, 200PL PRO plate, friction control, pan lock; 16 in min and 494 head from Amazon B07DV2MH29 bullets; 127 cm column-down from Trevor Sherwin review). SIRUI Traveler 5CX (Sirui listing text on Amazon B07KD3R47X/Newegg/Ubuy: 132 cm/52 in max, 9 cm min, 31.5 cm/12.4 in folded, 0.93 kg/2.03 lb, 6 kg rated with 3 kg/6.61 lb advised at full height outdoors, removable non-invertible column, Arca plate). Peak Design Travel Tripod aluminum (support.peakdesign.com: 60 in, 20 lb, 3.44 lb; Shutter Muse table: 15.5 in folded, 51.25 in column down; maker page: 14.2 cm low mode, load hook). ZOMEI Q666 (Martlet guide: 152/38 cm, 1.42 kg, uses it; Amazon B01KLLW046: 14.5 in folded, twist locks, hook, monopod, 5 sections, load 22/26.5 lb vs 17.6 lb elsewhere). Benro MeFOTO RoadTrip Pro carbon (B&H: 17.6 lb, 61.8 in, 15.6 in min, 45.47 in column down; West Photo 38.51 cm folded, 1.37 kg; Amazon title: twist locks, monopod). Stats: Martlet 12 kg rule, NWS Beaufort 25-31 mph strong breeze, Manfrotto 9 kg. Quotes checked verbatim on Martlet and the brief's Stack Exchange quote; Reddit/Facebook claims checked against search excerpts. All 5 ASINs in stock on Amazon US 2026-11-01 (Befree and Sirui sold by Amazon.com, Zomei FBA, Peak Design and MeFOTO third-party). Re-checked after edits: productStyle set to specs (spec rows match the sources above); added Amazon links for Peak Design and ZOMEI sections; no new facts.",
-    "at": "2026-11-01T11:33:43.067Z",
-    "hash": "1b20129e5efbebea"
+    "notes": "semantic pass 2026-11-05 (TextRazor, 4 of top 5 pages): significant: FAQ answer on tripod height rewritten to open with the answer (Peak Design 51.25 in, Befree about 50 in column-down, from maker specs already in the post); added Gitzo Traveler Series 0 10 kg / 2.3 lb from Lori McNee's live list; section lead sentences reworded (load capacity, paint, canvas, panel holders); video reference fixed; illustration captions added. No product, price, rating or testing claim changed.",
+    "at": "2026-11-05T22:09:32.438Z",
+    "hash": "a80ecd7a3094a55e"
   }
 }

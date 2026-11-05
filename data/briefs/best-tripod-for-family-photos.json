@@ -13,19 +13,19 @@
       "name": "tripod",
       "type": "product",
       "relation": "holds the camera still so the photographer can step into the family photo",
-      "salience": 0.93
+      "salience": 0.97
     },
     {
       "name": "camera",
       "type": "product",
       "relation": "DSLR, mirrorless or phone that sits on the tripod; its weight sets the load needed",
-      "salience": 0.58
+      "salience": 0.63
     },
     {
       "name": "tripod head",
       "type": "component",
       "relation": "ball head or pan/tilt head that frames and levels the group shot",
-      "salience": 0.85
+      "salience": 0.74
     },
     {
       "name": "Manfrotto",
@@ -43,7 +43,7 @@
       "name": "photography",
       "type": "topic",
       "relation": "family portrait photography done by the family itself",
-      "salience": 0.46
+      "salience": 0.64
     },
     {
       "name": "carbon fiber",
@@ -61,7 +61,7 @@
       "name": "camera lens",
       "type": "product",
       "relation": "50mm to 85mm focal length suggested for family portraits from a tripod",
-      "salience": 0.3
+      "salience": 0.33
     },
     {
       "name": "height",
@@ -116,18 +116,24 @@
       "type": "feature",
       "relation": "camera mode that takes a run of frames so nobody runs back between shots",
       "salience": 0.35
+    },
+    {
+      "name": "quick release plate",
+      "type": "component",
+      "relation": "clamps the camera to the tripod head; Arca-Swiss style plates swap between heads",
+      "salience": 0.3
     }
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-for-family-photos.entities.json",
+    "date": "2026-11-05",
     "pagesAnalyzed": [
       "https://www.packhacker.com/blog/general/best-travel-tripod/",
-      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
       "https://www.realhomes.com/news/secret-to-family-photos",
       "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html",
-      "https://www.findingtheuniverse.com/best-travel-tripods/"
+      "https://www.digitalcameraworld.com/buying-guides/best-tripod"
     ],
-    "note": "Dropped off-topic shared entities: Email, Instagram, Gear (newsletter and site chrome)."
+    "note": "Semantic pass 2026-11-05 on the live US top results (Reddit thread blocked, Facebook group skipped). Dropped off-topic shared entities: Newsletter, Future (publisher), Email, Privacy, Brand. Relevant entities all present in the post."
   },
   "attributes": [
     "height with the center column down (tripod)",

@@ -13,35 +13,35 @@
       "name": "tripod",
       "type": "product",
       "relation": "the central product; judged on stability, column-down height and overhead reach",
-      "salience": 0.96,
-      "pages": 3
+      "salience": 0.97,
+      "pages": 4
+    },
+    {
+      "name": "camera tripod",
+      "type": "product",
+      "relation": "TextRazor's Tripod (photography) entity: a three-legged camera support; the post's central entity",
+      "salience": 0.86,
+      "pages": 5
     },
     {
       "name": "tripod head",
       "type": "component",
       "relation": "ball, 3-way or geared; decides how precisely the frame can be nudged",
-      "salience": 0.83,
-      "pages": 2
+      "salience": 0.79,
+      "pages": 4
     },
     {
-      "name": "monopod",
-      "type": "product",
-      "relation": "the K&F SA254T1 leg converts to one; useful on location, not on the set",
-      "salience": 0.66,
-      "pages": 2
-    },
-    {
-      "name": "Manfrotto",
-      "type": "brand",
-      "relation": "maker of the 055 kit and PIXI Mini; most recommended brand across the top pages",
-      "salience": 0.56,
+      "name": "overhead arm",
+      "type": "component",
+      "relation": "horizontal arm or boom that holds the camera over a flat lay; needs a counterweight on the far end",
+      "salience": 0.64,
       "pages": 2
     },
     {
       "name": "photography",
       "type": "genre",
       "relation": "product, still-life, food and jewelry photography share the same tabletop needs",
-      "salience": 0.66,
+      "salience": 0.6,
       "pages": 5
     },
     {
@@ -52,18 +52,18 @@
       "pages": 4
     },
     {
+      "name": "monopod",
+      "type": "product",
+      "relation": "the K&F SA254T1 leg converts to one; useful on location, not on the set",
+      "salience": 0.52,
+      "pages": 3
+    },
+    {
       "name": "photographer",
       "type": "role",
       "relation": "ecommerce sellers and studio shooters who shoot the same angle many times",
-      "salience": 0.43,
+      "salience": 0.46,
       "pages": 4
-    },
-    {
-      "name": "mirrorless camera",
-      "type": "device",
-      "relation": "the usual body on a home product set; light enough for most heads here",
-      "salience": 0.4,
-      "pages": 2
     },
     {
       "name": "horizontal center column",
@@ -72,22 +72,43 @@
       "salience": 0.45
     },
     {
+      "name": "mirrorless camera",
+      "type": "device",
+      "relation": "the usual body on a home product set; light enough for most heads here",
+      "salience": 0.41,
+      "pages": 2
+    },
+    {
       "name": "geared head",
       "type": "component",
       "relation": "moves each axis by knob for exact framing; the usual upgrade for packshots",
       "salience": 0.4
     },
     {
-      "name": "ball head",
-      "type": "component",
-      "relation": "fast to aim, harder to nudge by a degree; all five picks ship with one",
-      "salience": 0.35
-    },
-    {
       "name": "flat lay",
       "type": "technique",
       "relation": "top-down product shot; needs a horizontal column or overhead arm",
       "salience": 0.4
+    },
+    {
+      "name": "photograph",
+      "type": "output",
+      "relation": "the product photo; a tripod keeps framing identical across a set of photographs",
+      "salience": 0.36,
+      "pages": 2
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 055 kit and PIXI Mini; most recommended brand across the top pages",
+      "salience": 0.35,
+      "pages": 3
+    },
+    {
+      "name": "ball head",
+      "type": "component",
+      "relation": "fast to aim, harder to nudge by a degree; all five picks ship with one",
+      "salience": 0.35
     },
     {
       "name": "counterweight",
@@ -106,6 +127,20 @@
       "type": "device",
       "relation": "jewelry and detail shots; magnifies any shake and framing drift",
       "salience": 0.3
+    },
+    {
+      "name": "hand-held camera",
+      "type": "technique",
+      "relation": "shooting without support; framing drifts between shots, which a tripod prevents",
+      "salience": 0.26,
+      "pages": 2
+    },
+    {
+      "name": "screw",
+      "type": "component",
+      "relation": "1/4 in mounting screw on plates and the PIXI Mini's fixed head",
+      "salience": 0.24,
+      "pages": 2
     }
   ],
   "attributes": [
@@ -116,7 +151,9 @@
     "head type (ball, 3-way, geared)",
     "quick release plate standard",
     "folded length and weight",
-    "leg lock type"
+    "leg lock type",
+    "overhead reach with a horizontal arm and counterweight",
+    "geared head with pan, tilt and roll axes"
   ],
   "ngrams": [
     "product photography",
@@ -128,7 +165,13 @@
     "load capacity",
     "quick release plate",
     "overhead shots",
-    "column down"
+    "column down",
+    "horizontal arm",
+    "overhead camera tripod",
+    "camera shake",
+    "geared tripod head",
+    "horizontal centre column",
+    "top-down shots"
   ],
   "skipgrams": [
     "horizontal…column",
@@ -136,7 +179,10 @@
     "load…capacity",
     "quick…plate",
     "column…down",
-    "geared…head"
+    "geared…head",
+    "arm…counterweight",
+    "lens…perpendicular",
+    "geared…adjustments"
   ],
   "nlpTerms": [
     "tabletop",
@@ -150,7 +196,14 @@
     "aluminum",
     "bubble level",
     "overhead",
-    "macro"
+    "macro",
+    "camera shake",
+    "distortion",
+    "pan",
+    "tilt",
+    "roll",
+    "sharp",
+    "studio"
   ],
   "questions": [
     "What tripod is best for product photography?",
@@ -589,15 +642,15 @@
     }
   ],
   "textrazor": {
-    "ran": "2026-10-31",
+    "ran": "2026-11-05",
     "pages": [
       "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/",
-      "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
       "https://www.alanranger.com/blog-on-photography/best-product-photography-tripod",
-      "https://www.practicalecommerce.com/product-photography-part-2-selecting-tripods",
-      "https://aitinsider.com/best-tripod-for-product-photography/"
+      "https://laurabc.com/blog/the-best-all-in-one-tripod-for-beginner-and-professional-photographers",
+      "https://www.techgearlab.com/topics/electronics/best-tripod",
+      "https://www.thephotoforum.com/threads/best-style-of-tripod-head-for-product-photography.423547/"
     ],
     "file": "data/briefs/best-tripod-for-product-photography.entities.json",
-    "note": "sharedEntities copied into entities with salience = relevanceScore; site names and authors dropped"
+    "note": "semantic pass 2026-11-05; reddit and dpreview (top 5) blocked the fetch, replaced by positions 6-7; sharedEntities copied into entities with salience = relevance; missingFromPost: Hand-held camera"
   }
 }

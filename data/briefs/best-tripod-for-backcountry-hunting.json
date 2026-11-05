@@ -14,33 +14,41 @@
       "name": "tripod",
       "type": "concept",
       "relation": "the product category the post ranks",
-      "salience": 0.97,
-      "pages": 5,
+      "salience": 0.95,
+      "pages": 3,
       "textrazorName": "Tripod"
     },
     {
-      "name": "spotting scope",
+      "name": "hunting",
+      "type": "/interests/hobby",
+      "relation": "use case",
+      "salience": 0.74,
+      "pages": 2,
+      "textrazorName": "Hunting"
+    },
+    {
+      "name": "camera tripod",
       "type": "concept",
-      "relation": "main optic carried on a backcountry glassing tripod",
-      "salience": 0.35,
-      "pages": 5,
-      "textrazorName": "Spotting scope"
+      "relation": "camera tripods double as glassing tripods",
+      "salience": 0.69,
+      "pages": 3,
+      "textrazorName": "Tripod (photography)"
     },
     {
-      "name": "binoculars",
-      "type": "/award/ranked_item",
-      "relation": "10x and 15x glass mounted with an adapter",
-      "salience": 0.3,
-      "pages": 5,
-      "textrazorName": "Binoculars"
+      "name": "tripod head",
+      "type": "concept",
+      "relation": "pan head vs ball head for glassing",
+      "salience": 0.69,
+      "pages": 2,
+      "textrazorName": "Tripod head"
     },
     {
-      "name": "leg",
-      "type": "AnatomicalStructure",
-      "relation": "leg sections, angles and locks decide packed length and stiffness",
-      "salience": 0.65,
-      "pages": 4,
-      "textrazorName": "Leg"
+      "name": "bipod",
+      "type": "concept",
+      "relation": "alternative rifle support the tripod replaces",
+      "salience": 0.64,
+      "pages": 2,
+      "textrazorName": "Bipod"
     },
     {
       "name": "rifle",
@@ -51,28 +59,12 @@
       "textrazorName": "Rifle"
     },
     {
-      "name": "hunting",
-      "type": "/interests/hobby",
-      "relation": "use case",
-      "salience": 0.63,
-      "pages": 4,
-      "textrazorName": "Hunting"
-    },
-    {
-      "name": "camera tripod",
-      "type": "concept",
-      "relation": "camera tripods double as glassing tripods",
-      "salience": 0.57,
-      "pages": 4,
-      "textrazorName": "Tripod (photography)"
-    },
-    {
-      "name": "tripod head",
-      "type": "concept",
-      "relation": "pan head vs ball head for glassing",
-      "salience": 0.48,
-      "pages": 4,
-      "textrazorName": "Tripod head"
+      "name": "leg",
+      "type": "AnatomicalStructure",
+      "relation": "leg sections, angles and locks decide packed length and stiffness",
+      "salience": 0.58,
+      "pages": 3,
+      "textrazorName": "Leg"
     },
     {
       "name": "shooting",
@@ -83,10 +75,34 @@
       "textrazorName": "Shooting"
     },
     {
+      "name": "binoculars",
+      "type": "/award/ranked_item",
+      "relation": "10x and 15x glass mounted with an adapter",
+      "salience": 0.47,
+      "pages": 3,
+      "textrazorName": "Binoculars"
+    },
+    {
+      "name": "Arca rail",
+      "type": "concept",
+      "relation": "Arca-Swiss rail or saddle that joins rifle and tripod",
+      "salience": 0.46,
+      "pages": 2,
+      "textrazorName": "Weapon mount"
+    },
+    {
+      "name": "spotting scope",
+      "type": "concept",
+      "relation": "main optic carried on a backcountry glassing tripod",
+      "salience": 0.43,
+      "pages": 3,
+      "textrazorName": "Spotting scope"
+    },
+    {
       "name": "weight",
       "type": "concept",
       "relation": "carried weight is the deciding attribute in the backcountry",
-      "salience": 0.55,
+      "salience": 0.43,
       "pages": 3,
       "textrazorName": "Weight"
     },
@@ -99,38 +115,6 @@
       "textrazorName": "Optics"
     },
     {
-      "name": "rifle scope",
-      "type": "concept",
-      "relation": "rifle scope on a tripod-mounted rifle",
-      "salience": 0.32,
-      "pages": 3,
-      "textrazorName": "Telescopic sight"
-    },
-    {
-      "name": "bipod",
-      "type": "concept",
-      "relation": "alternative rifle support the tripod replaces",
-      "salience": 0.64,
-      "pages": 2,
-      "textrazorName": "Bipod"
-    },
-    {
-      "name": "carbon fiber",
-      "type": "/projects/project_focus",
-      "relation": "leg material of the lightest picks",
-      "salience": 0.52,
-      "pages": 2,
-      "textrazorName": "Carbon-fiber reinforced polymer"
-    },
-    {
-      "name": "Arca rail",
-      "type": "concept",
-      "relation": "Arca-Swiss rail or saddle that joins rifle and tripod",
-      "salience": 0.46,
-      "pages": 2,
-      "textrazorName": "Weapon mount"
-    },
-    {
       "name": "height",
       "type": "/people/measured_body_part",
       "relation": "seated vs standing glassing height",
@@ -139,12 +123,28 @@
       "textrazorName": "Height"
     },
     {
+      "name": "rifle scope",
+      "type": "concept",
+      "relation": "rifle scope on a tripod-mounted rifle",
+      "salience": 0.34,
+      "pages": 2,
+      "textrazorName": "Telescopic sight"
+    },
+    {
       "name": "backpack",
       "type": "/business/product_category",
       "relation": "where the tripod rides",
       "salience": 0.3,
       "pages": 2,
       "textrazorName": "Backpack"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "/projects/project_focus",
+      "relation": "leg material of the lightest picks",
+      "salience": 0.25,
+      "pages": 2,
+      "textrazorName": "Carbon-fiber reinforced polymer"
     },
     {
       "name": "aluminum",
@@ -174,7 +174,9 @@
     "head type (pan head vs ball head) and Arca-Swiss plate",
     "center column (detachable or fixed)",
     "counterweight hook",
-    "stance width in wind"
+    "stance width in wind",
+    "triangular center column that lets the legs nest tight (Aziak-style)",
+    "fluid head vs pan head smoothness for scanning"
   ],
   "ngrams": [
     "backcountry hunting",
@@ -192,7 +194,12 @@
     "counterweight hook",
     "seated glassing",
     "shooting tripod",
-    "ultralight tripod"
+    "ultralight tripod",
+    "fluid head",
+    "lightweight hunting tripod",
+    "carbon fiber tripod",
+    "mountain hunting",
+    "tripod head"
   ],
   "skipgrams": [
     "tripod…backpack",
@@ -202,7 +209,10 @@
     "legs…fully extended",
     "head…pan",
     "weight…ounces",
-    "rifle…shoot off"
+    "rifle…shoot off",
+    "tripod head…pan",
+    "legs…rigid",
+    "carbon…weight"
   ],
   "nlpTerms": [
     "elk",
@@ -232,7 +242,13 @@
     "ball head",
     "bushing",
     "3/8-16",
-    "1/4-20"
+    "1/4-20",
+    "ultralight",
+    "rigid legs",
+    "shooting off",
+    "camera tripod",
+    "Aziak",
+    "sub-2 lb"
   ],
   "questions": [
     "What is the best tripod for backcountry hunting?",
@@ -669,7 +685,19 @@
     }
   ],
   "textrazor": {
-    "pagesAnalyzed": 5,
-    "file": "data/briefs/best-tripod-for-backcountry-hunting.entities.json"
+    "pagesAnalyzed": 4,
+    "file": "data/briefs/best-tripod-for-backcountry-hunting.entities.json",
+    "date": "2026-11-05",
+    "urls": [
+      "https://backwoodspursuit.com/10-best-ultralight-tripods-review-sub-2lb/",
+      "https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/",
+      "https://sandsarchery.com/collections/lightweight-tripods",
+      "https://shop.gohunt.com/collections/tripods"
+    ],
+    "missingFromPost": [],
+    "previous": {
+      "date": "2026-11-01",
+      "pagesAnalyzed": 5
+    }
   }
 }

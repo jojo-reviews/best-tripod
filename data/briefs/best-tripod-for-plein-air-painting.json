@@ -13,7 +13,7 @@
       "name": "Tripod",
       "type": "product type",
       "relation": "camera tripod used as the base of a plein air easel; the central entity",
-      "salience": 0.78,
+      "salience": 0.9,
       "pages": 4
     },
     {
@@ -92,6 +92,13 @@
       "relation": "lets the box click on and off the head",
       "salience": 0.45,
       "pages": 2
+    },
+    {
+      "name": "Gitzo",
+      "type": "brand",
+      "relation": "premium carbon travel tripod maker (Traveler Series 0) on Lori McNee's plein air list",
+      "salience": 0.3,
+      "pages": 2
     }
   ],
   "attributes": [
@@ -114,7 +121,8 @@
     "load capacity",
     "carbon fiber",
     "panel holder",
-    "lightweight travel tripod"
+    "lightweight travel tripod",
+    "plein air easel"
   ],
   "skipgrams": [
     "pochade…tripod",
@@ -547,5 +555,12 @@
     "tripod for plein air easel"
   ],
   "angle": "Camera tripods for pochade boxes matched by payload share, column-down height and packed length, with a wind setup routine.",
-  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (4 analyzed; Dianna Anderson blocked the fetch); shared entities in data/briefs/best-tripod-for-plein-air-painting.entities.json, relevance copied as salience. Pochade box, Ball head and Arca-Swiss plate added with estimated salience from headings across top pages. Entity names shortened to the plain phrases readers use (Tripod, Palette, Carbon fiber, Arca-Swiss plate); Gitzo dropped as off-topic (not featured)."
+  "textrazor": {
+    "semanticPass": "2026-11-05",
+    "pagesAnalyzed": 4,
+    "missingFromPost": [
+      "Gitzo"
+    ],
+    "note": "Gitzo worked in (How I picked); every entity >= 0.5 present"
+  }
 }

@@ -3,33 +3,6 @@
   "pagesAnalyzed": 4,
   "sharedEntities": [
     {
-      "entity": "Camera",
-      "type": "/fictional_universe/character_species",
-      "pages": 4,
-      "relevance": 0.74,
-      "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r"
-    },
-    {
-      "entity": "Tripod (photography)",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.73,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
-      "wikidata": "Q683906",
-      "kgmid": "/m/073bxn"
-    },
-    {
-      "entity": "Tripod head",
-      "type": "",
-      "pages": 4,
-      "relevance": 0.52,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
-      "wikidata": "Q3275242",
-      "kgmid": "/m/0g5qnbh"
-    },
-    {
       "entity": "Bracket",
       "type": "",
       "pages": 3,
@@ -39,13 +12,24 @@
       "kgmid": "/m/0g58v"
     },
     {
-      "entity": "Photography",
-      "type": "/broadcast/genre",
-      "pages": 3,
-      "relevance": 0.58,
-      "wiki": "http://en.wikipedia.org/wiki/Photography",
-      "wikidata": "Q11633",
-      "kgmid": "/m/05wkw"
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "kgmid": "/m/073bxn",
+      "wikidata": "Q683906",
+      "idsChecked": true
     },
     {
       "entity": "L-Bracket",
@@ -61,6 +45,25 @@
       "relevance": 0.71,
       "wiki": "",
       "wikidata": "Q123286410"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "idsChecked": true,
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
     },
     {
       "entity": "Page orientation",
@@ -89,6 +92,16 @@
       "kgmid": "/m/025s3q0"
     },
     {
+      "entity": "Hex key",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Hex_key",
+      "kgmid": "/m/028bn4g",
+      "wikidata": "Q16953",
+      "idsChecked": true
+    },
+    {
       "entity": "Mirrorless camera",
       "type": "/digicams/camera_format",
       "pages": 2,
@@ -105,6 +118,16 @@
       "wiki": "http://en.wikipedia.org/wiki/Lens_mount",
       "wikidata": "Q205722",
       "kgmid": "/m/04hph8"
+    },
+    {
+      "entity": "Screw",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Screw",
+      "kgmid": "/m/0c37z",
+      "wikidata": "Q11022",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

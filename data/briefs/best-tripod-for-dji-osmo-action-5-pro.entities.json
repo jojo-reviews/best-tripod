@@ -7,7 +7,8 @@
       "type": "Company",
       "pages": 2,
       "relevance": 0.86,
-      "wiki": ""
+      "wiki": "",
+      "idsChecked": true
     },
     {
       "entity": "DJI Osmo",
@@ -15,16 +16,28 @@
       "pages": 2,
       "relevance": 0.74,
       "wiki": "http://en.wikipedia.org/wiki/DJI_Osmo",
-      "wikidata": "Q26721405"
+      "wikidata": "Q26721405",
+      "idsChecked": true
     },
     {
       "entity": "DJI",
       "type": "Agent",
       "pages": 2,
-      "relevance": 0.54,
+      "relevance": 0.63,
       "wiki": "http://en.wikipedia.org/wiki/DJI",
+      "kgmid": "/m/011smc7k",
       "wikidata": "Q16924332",
-      "kgmid": "/m/011smc7k"
+      "idsChecked": true
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "kgmid": "/m/0119d4g8",
+      "wikidata": "Q1444534",
+      "idsChecked": true
     },
     {
       "entity": "GoPro",
@@ -36,31 +49,42 @@
       "kgmid": "/m/0h1fd30"
     },
     {
-      "entity": "Tripod",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.42,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "wikidata": "Q1444534",
-      "kgmid": "/m/0119d4g8"
-    },
-    {
       "entity": "Selfie stick",
       "type": "/business/product_category",
       "pages": 2,
-      "relevance": 0.37,
+      "relevance": 0.43,
       "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
+      "kgmid": "/m/012c5w0g",
       "wikidata": "Q18387942",
-      "kgmid": "/m/012c5w0g"
+      "idsChecked": true
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 2,
-      "relevance": 0.28,
+      "relevance": 0.43,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
       "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r"
+      "idsChecked": true
+    },
+    {
+      "entity": "Warranty",
+      "type": "/organization/organization_sector",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Warranty",
+      "idsChecked": true
+    },
+    {
+      "entity": "Selfie",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.2,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie",
+      "kgmid": "/m/0sgh53y",
+      "wikidata": "Q12068677",
+      "idsChecked": true
     }
   ],
   "missingFromPost": [

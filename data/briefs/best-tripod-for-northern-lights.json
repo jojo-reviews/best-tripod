@@ -12,40 +12,40 @@
       "name": "camera",
       "type": "/fictional_universe/character_species",
       "relation": "shared by top aurora pages",
-      "salience": 0.72,
-      "pages": 5,
+      "salience": 0.79,
+      "pages": 4,
       "textrazor": "Camera"
     },
     {
       "name": "photography",
       "type": "/broadcast/genre",
       "relation": "shared by top aurora pages",
-      "salience": 0.64,
-      "pages": 5,
+      "salience": 0.66,
+      "pages": 4,
       "textrazor": "Photography"
     },
     {
       "name": "aurora",
       "type": "Place",
       "relation": "the subject; short 1-10 s exposures of moving light",
-      "salience": 0.84,
-      "pages": 4,
+      "salience": 0.94,
+      "pages": 3,
       "textrazor": "Aurora"
     },
     {
       "name": "tripod",
       "type": "concept",
       "relation": "central entity",
-      "salience": 0.66,
-      "pages": 4,
+      "salience": 0.6,
+      "pages": 3,
       "textrazor": "Tripod (photography)"
     },
     {
       "name": "image stabilization",
       "type": "concept",
       "relation": "turn off on a tripod",
-      "salience": 0.34,
-      "pages": 4,
+      "salience": 0.36,
+      "pages": 3,
       "textrazor": "Image stabilization"
     },
     {
@@ -194,6 +194,78 @@
       "relation": "Gitzo and Manfrotto publish -30 °C",
       "salience": 0.5,
       "pages": 1
+    },
+    {
+      "name": "light",
+      "type": "/visual_art/art_subject",
+      "relation": "shared by top aurora pages (semantic pass 2026-11-05)",
+      "salience": 0.45,
+      "pages": 3,
+      "textrazor": "Light"
+    },
+    {
+      "name": "image sensor",
+      "type": "concept",
+      "relation": "full-frame vs APS-C body sets the lens",
+      "salience": 0.63,
+      "pages": 2,
+      "textrazor": "Image sensor"
+    },
+    {
+      "name": "camera lens",
+      "type": "concept",
+      "relation": "wipe frost off between bursts",
+      "salience": 0.6,
+      "pages": 2,
+      "textrazor": "Camera lens"
+    },
+    {
+      "name": "zoom lens",
+      "type": "concept",
+      "relation": "14-24mm / 10-16mm wide zoom for aurora",
+      "salience": 0.53,
+      "pages": 2,
+      "textrazor": "Zoom lens"
+    },
+    {
+      "name": "crop factor",
+      "type": "concept",
+      "relation": "1.5x on APS-C changes the lens match",
+      "salience": 0.53,
+      "pages": 2,
+      "textrazor": "Crop factor"
+    },
+    {
+      "name": "pixel",
+      "type": "/type/unit",
+      "relation": "tripod shake smears stars across pixels at 100%",
+      "salience": 0.51,
+      "pages": 2,
+      "textrazor": "Pixel"
+    },
+    {
+      "name": "photograph",
+      "type": "/visual_art/visual_art_medium",
+      "relation": "shared by top aurora pages (semantic pass 2026-11-05)",
+      "salience": 0.42,
+      "pages": 2,
+      "textrazor": "Photograph"
+    },
+    {
+      "name": "flashlight",
+      "type": "/law/invention",
+      "relation": "use a red headlamp, not a white flashlight",
+      "salience": 0.4,
+      "pages": 2,
+      "textrazor": "Flashlight"
+    },
+    {
+      "name": "star trail",
+      "type": "concept",
+      "relation": "intervalometer stacks; longer than aurora frames",
+      "salience": 0.28,
+      "pages": 2,
+      "textrazor": "Star trail"
     }
   ],
   "attributes": [
@@ -206,7 +278,8 @@
     "plastic parts that crack in cold",
     "weight hook for wind",
     "Arca-Swiss compatible plate",
-    "phone mount"
+    "phone mount",
+    "sensor format and crop factor of the camera"
   ],
   "ngrams": [
     "northern lights",
@@ -218,7 +291,12 @@
     "carry-on",
     "long exposure",
     "wind and cold",
-    "travel tripod"
+    "travel tripod",
+    "wide-angle lens",
+    "image stabilization",
+    "spare battery",
+    "full-frame",
+    "star trail"
   ],
   "skipgrams": [
     "tripod…wind",
@@ -226,7 +304,10 @@
     "leg locks…gloves",
     "column…down",
     "aurora…exposure",
-    "snow…feet"
+    "snow…feet",
+    "zoom…crop factor",
+    "shake…pixels",
+    "headlamp…night vision"
   ],
   "nlpTerms": [
     "aurora borealis",
@@ -248,7 +329,15 @@
     "ISO",
     "wide-angle lens",
     "battery",
-    "condensation"
+    "condensation",
+    "image sensor",
+    "crop factor",
+    "APS-C",
+    "pixels",
+    "headlamp",
+    "flashlight",
+    "intervalometer",
+    "timelapse"
   ],
   "questions": [
     "do you need a tripod for northern lights",
@@ -701,5 +790,15 @@
       "replace": "Before buying, I'd work every lock in the gloves you actually wear, the same advice we give for [tripods for northern lights](/blog/best-tripod-for-northern-lights/).",
       "appliedAt": "2026-11-02T17:50:10.069Z"
     }
-  ]
+  ],
+  "semanticPass": {
+    "date": "2026-11-05",
+    "sources": [
+      "https://www.kevinpepperphotography.com/important-accessories-for-aurora-photography",
+      "https://www.davemorrowphotography.com/northern-lights-photography",
+      "https://theauroraguy.com/blogs/blog/my-top-camera-gear-recommendations-for-aurora-photography",
+      "https://www.nathab.com/blog/photographing-the-northern-lights"
+    ],
+    "type": "review only"
+  }
 }

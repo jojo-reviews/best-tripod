@@ -13,42 +13,21 @@
       "name": "Tripod (photography)",
       "type": "concept",
       "relation": "central entity",
-      "salience": 0.99,
+      "salience": 0.96,
       "pages": 5
     },
     {
-      "name": "Camera",
-      "type": "/fictional_universe/character_species",
-      "relation": "device the tripod supports",
-      "salience": 0.54,
-      "pages": 5
+      "name": "Pedco",
+      "type": "Company",
+      "relation": "maker of UltraPod (alternative)",
+      "salience": 0.8,
+      "pages": 2
     },
     {
       "name": "Leg",
       "type": "AnatomicalStructure",
       "relation": "tripod part; fixed, folding or flexible",
-      "salience": 0.74,
-      "pages": 4
-    },
-    {
-      "name": "Lens",
-      "type": "/law/invention",
-      "relation": "adds front weight that can tip a small tripod",
-      "salience": 0.45,
-      "pages": 4
-    },
-    {
-      "name": "Point-and-shoot camera",
-      "type": "/digicams/camera_format",
-      "relation": "lightest load class for tabletop tripods",
-      "salience": 0.4,
-      "pages": 4
-    },
-    {
-      "name": "Photography",
-      "type": "/broadcast/genre",
-      "relation": "field",
-      "salience": 0.35,
+      "salience": 0.68,
       "pages": 4
     },
     {
@@ -59,46 +38,11 @@
       "pages": 3
     },
     {
-      "name": "Photographer",
-      "type": "/organization/role",
-      "relation": "user",
-      "salience": 0.43,
-      "pages": 3
-    },
-    {
-      "name": "Weight",
-      "type": "concept",
-      "relation": "attribute: tripod weight and payload",
-      "salience": 0.43,
-      "pages": 3
-    },
-    {
-      "name": "Smartphone",
-      "type": "/book/book_subject",
-      "relation": "common load with a clamp",
-      "salience": 0.32,
-      "pages": 3
-    },
-    {
-      "name": "Digital single-lens reflex camera",
-      "type": "/digicams/camera_format",
-      "relation": "heavy load class",
-      "salience": 0.29,
-      "pages": 3
-    },
-    {
-      "name": "Pedco",
-      "type": "Company",
-      "relation": "maker of UltraPod (alternative)",
-      "salience": 0.8,
-      "pages": 2
-    },
-    {
-      "name": "Ball",
-      "type": "/interests/collection_category",
-      "relation": "ball head mechanism",
-      "salience": 0.68,
-      "pages": 2
+      "name": "Camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "device the tripod supports",
+      "salience": 0.55,
+      "pages": 5
     },
     {
       "name": "Mirrorless camera",
@@ -106,6 +50,13 @@
       "relation": "main load class for tabletop tripods",
       "salience": 0.54,
       "pages": 2
+    },
+    {
+      "name": "Photography",
+      "type": "/broadcast/genre",
+      "relation": "field",
+      "salience": 0.48,
+      "pages": 4
     },
     {
       "name": "SmallRig",
@@ -122,6 +73,34 @@
       "pages": 2
     },
     {
+      "name": "Lens",
+      "type": "/law/invention",
+      "relation": "adds front weight that can tip a small tripod",
+      "salience": 0.45,
+      "pages": 4
+    },
+    {
+      "name": "Ball",
+      "type": "/interests/collection_category",
+      "relation": "ball head mechanism",
+      "salience": 0.45,
+      "pages": 2
+    },
+    {
+      "name": "Photographer",
+      "type": "/organization/role",
+      "relation": "user",
+      "salience": 0.43,
+      "pages": 3
+    },
+    {
+      "name": "Weight",
+      "type": "concept",
+      "relation": "attribute: tripod weight and payload",
+      "salience": 0.43,
+      "pages": 3
+    },
+    {
       "name": "Joby",
       "type": "Company",
       "relation": "maker of GorillaPod 3K",
@@ -129,10 +108,24 @@
       "pages": 2
     },
     {
+      "name": "Point-and-shoot camera",
+      "type": "/digicams/camera_format",
+      "relation": "lightest load class for tabletop tripods",
+      "salience": 0.4,
+      "pages": 4
+    },
+    {
       "name": "Screw",
       "type": "/law/invention",
       "relation": "1/4\"-20 mounting screw",
       "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "Full-frame DSLR",
+      "type": "concept",
+      "relation": "heaviest load class",
+      "salience": 0.35,
       "pages": 2
     },
     {
@@ -150,16 +143,30 @@
       "pages": 2
     },
     {
-      "name": "Full-frame DSLR",
-      "type": "concept",
-      "relation": "heaviest load class",
-      "salience": 0.31,
-      "pages": 2
+      "name": "Smartphone",
+      "type": "/book/book_subject",
+      "relation": "common load with a clamp",
+      "salience": 0.32,
+      "pages": 3
+    },
+    {
+      "name": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "relation": "heavy load class",
+      "salience": 0.29,
+      "pages": 3
     },
     {
       "name": "Macro photography",
       "type": "/visual_art/visual_art_genre",
       "relation": "use case: low, steady close-ups",
+      "salience": 0.29,
+      "pages": 2
+    },
+    {
+      "name": "Selfie stick",
+      "type": "/business/product_category",
+      "relation": "dual use: telescopic tabletop tripods double as a selfie stick or handgrip",
       "salience": 0.29,
       "pages": 2
     }
@@ -174,7 +181,8 @@
     "leg angles and leg sections (legs)",
     "Arca-Swiss quick-release plate (ball head)",
     "1/4\"-20 screw mount (camera)",
-    "flexible vs rigid legs (legs)"
+    "flexible vs rigid legs (legs)",
+    "handheld grip / selfie stick use (tabletop tripod)"
   ],
   "ngrams": [
     "tabletop tripod",
@@ -188,7 +196,11 @@
     "mirrorless camera",
     "1/4 inch screw",
     "bubble level",
-    "camera and lens"
+    "camera and lens",
+    "selfie stick",
+    "cold shoe",
+    "working height",
+    "head payload"
   ],
   "skipgrams": [
     "ball…lock",
@@ -196,7 +208,9 @@
     "camera…tip",
     "load…head",
     "height…legs",
-    "lens…forward"
+    "lens…forward",
+    "leg…under the lens",
+    "head…payload"
   ],
   "nlpTerms": [
     "payload",
@@ -212,7 +226,10 @@
     "technopolymer",
     "aluminum alloy",
     "folded length",
-    "working height"
+    "working height",
+    "handgrip",
+    "full-frame DSLR",
+    "safety payload"
   ],
   "questions": [
     "What is the best tabletop camera tripod?",
@@ -600,5 +617,19 @@
     "best tabletop tripod",
     "table top camera tripod"
   ],
-  "secondaryKeywordsNote": "Dropped \"best table top tripod for macro photography\" from the queue entry: it is already a secondary keyword of the live post best-tripod-for-macro-photography (linked instead)."
+  "secondaryKeywordsNote": "Dropped \"best table top tripod for macro photography\" from the queue entry: it is already a secondary keyword of the live post best-tripod-for-macro-photography (linked instead).",
+  "semanticPass": {
+    "date": "2026-11-05",
+    "analyzedUrls": [
+      "https://www.digitalcameraworld.com/buying-guides/the-best-mini-tripods-tabletop-camera-supports-thatll-fit-in-any-size-kit-bag",
+      "https://fstoppers.com/reviews/leofotos-mt-04-mini-tripod-best-tabletop-tripods-686973",
+      "https://leofotousa.com/collections/table-ground-tripods",
+      "https://www.magnustripods.com/products/Tripods/Tabletop-%26-Mini-Tripods",
+      "https://www.all-about-photo.com/photography-support-systems/tabletop-mini-tripods"
+    ],
+    "missingFromPost": [
+      "Selfie stick"
+    ],
+    "note": "B&H category and two Reddit threads in the top results blocked TextRazor fetches; replaced with the next organic results."
+  }
 }

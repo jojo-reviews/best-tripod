@@ -1,7 +1,7 @@
 {
   "slug": "best-tabletop-camera-tripod",
   "pass": true,
-  "checkedAt": "2026-11-04T18:02:42.678Z",
+  "checkedAt": "2026-11-05T22:10:56.661Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,16 +13,12 @@
     "illustration \"Turning a tabletop tripod so one leg sit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.rosenberryrooms.com/best-tabletop-tripods/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-canon-powershot-v1, no claim changed",
-    "at": "2026-11-03T16:24:53.445Z",
-    "hash": "0aab3cd6671b1e5e"
+    "notes": "Semantic pass 2026-11-05 (review only): added Selfie stick entity via Ulanzi's own 2-in-1 tripod/selfie stick description (ulanzi.com MT-16 page); clarified the load rule wording to 'half the head rating' (same numbers); tightened SmallRig and tipping paragraphs. No prices, ratings, ASINs or specs changed.",
+    "at": "2026-11-05T22:10:46.796Z",
+    "hash": "73ec61ec60b7e0ff"
   }
 }

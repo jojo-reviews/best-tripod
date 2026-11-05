@@ -1,33 +1,21 @@
 {
   "slug": "best-tripod-for-canon-r50",
-  "pass": false,
-  "checkedAt": "2026-11-03T16:28:24.280Z",
-  "errors": [
-    "the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again"
-  ],
+  "pass": true,
+  "checkedAt": "2026-11-05T22:08:48.172Z",
+  "errors": [],
   "warnings": [
     "product \"Manfrotto Element MII Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Fitting a quick-release plate under a Ca\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hanging a bag from the tripod hook with \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "section \"The 5 best tripods for the Canon R50, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/eos-r50",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-canon-powershot-v1, no claim changed",
-    "at": "2026-11-03T16:24:54.414Z",
-    "hash": "27d85c0c841aed47"
+    "notes": "semantic pass 2026-11-05 (review only): TextRazor top-5 run (4 pages parsed), no missing entities; SmallRig R50 vlogging kit sentence verified on smallrig.com/filmtools (octopus tripod + LED, out of stock); IBIS wording from cited Canon spec; narration lead replaced; Which block moved after picks; captions added; trims only, no product, price, rating or fact changed",
+    "at": "2026-11-05T22:08:46.907Z",
+    "hash": "f15d25ed98b72917"
   }
 }

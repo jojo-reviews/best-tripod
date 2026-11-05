@@ -258,5 +258,45 @@
   "best-tripod-under-100": {
     "at": "2026-11-04T17:58:12.402Z",
     "note": "TextRazor semantic pass: entities, answer-first FAQs, filler cut"
+  },
+  "best-tripod-for-product-photography": {
+    "at": "2026-11-05T22:12:42.255Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-live-streaming": {
+    "at": "2026-11-05T22:12:42.962Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-sony-fx3": {
+    "at": "2026-11-05T22:12:43.647Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tabletop-camera-tripod": {
+    "at": "2026-11-05T22:12:44.418Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-plein-air-painting": {
+    "at": "2026-11-05T22:12:45.090Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-backcountry-hunting": {
+    "at": "2026-11-05T22:12:45.717Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-canon-r50": {
+    "at": "2026-11-05T22:12:46.569Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-northern-lights": {
+    "at": "2026-11-05T22:12:47.358Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-canon-r6-mark-ii": {
+    "at": "2026-11-05T22:12:48.071Z",
+    "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-family-photos": {
+    "at": "2026-11-05T22:12:48.858Z",
+    "note": "TextRazor semantic pass 2026-11-05"
   }
 }

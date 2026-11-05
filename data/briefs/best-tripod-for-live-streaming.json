@@ -14,35 +14,28 @@
       "name": "Tripod",
       "type": "product type",
       "relation": "three-legged stand that keeps the phone or camera fixed for the whole stream",
-      "salience": 0.99,
-      "pages": 5
+      "salience": 1.0,
+      "pages": 3
     },
     {
       "name": "Tripod head",
       "type": "component",
       "relation": "ball, pan-tilt or fluid head that aims the camera; fluid heads suit streams with pans",
-      "salience": 0.7,
-      "pages": 5
-    },
-    {
-      "name": "Live streaming",
-      "type": "activity",
-      "relation": "the use case: long, unattended, real-time broadcasts on Twitch, YouTube, TikTok Live, Whatnot",
-      "salience": 0.67,
-      "pages": 5
-    },
-    {
-      "name": "Camera",
-      "type": "device",
-      "relation": "mirrorless, DSLR or webcam that rides on the head; its weight sets the load needed",
-      "salience": 0.57,
-      "pages": 5
+      "salience": 0.81,
+      "pages": 2
     },
     {
       "name": "Streaming media",
       "type": "concept",
       "relation": "platforms the stream goes to",
-      "salience": 0.72,
+      "salience": 0.77,
+      "pages": 2
+    },
+    {
+      "name": "Live streaming",
+      "type": "activity",
+      "relation": "the use case: long, unattended, real-time broadcasts on Twitch, YouTube, TikTok Live, Whatnot",
+      "salience": 0.64,
       "pages": 3
     },
     {
@@ -53,6 +46,20 @@
       "pages": 2
     },
     {
+      "name": "Smartphone",
+      "type": "device",
+      "relation": "the most common live-selling and TikTok Live camera; needs a clamp",
+      "salience": 0.6,
+      "pages": 4
+    },
+    {
+      "name": "Aluminum",
+      "type": "material",
+      "relation": "leg and column material of most budget and travel streaming tripods (lighter than steel, cheaper than carbon fiber)",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
       "name": "Counterweight",
       "type": "feature",
       "relation": "counterbalance in fluid heads, or a bag on the hook for stability",
@@ -60,25 +67,11 @@
       "pages": 2
     },
     {
-      "name": "Monopod",
-      "type": "product type",
-      "relation": "one-leg alternative some tripods convert into",
-      "salience": 0.35,
+      "name": "Camera",
+      "type": "device",
+      "relation": "mirrorless, DSLR or webcam that rides on the head; its weight sets the load needed",
+      "salience": 0.5,
       "pages": 3
-    },
-    {
-      "name": "Weight",
-      "type": "attribute",
-      "relation": "tripod weight vs rig weight and load capacity",
-      "salience": 0.34,
-      "pages": 3
-    },
-    {
-      "name": "Height",
-      "type": "attribute",
-      "relation": "max height with and without the center column vs the host's eye level",
-      "salience": 0.43,
-      "pages": 2
     },
     {
       "name": "Leg",
@@ -88,10 +81,45 @@
       "pages": 2
     },
     {
+      "name": "Height",
+      "type": "attribute",
+      "relation": "max height with and without the center column vs the host's eye level",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
+      "name": "Whatnot",
+      "type": "platform",
+      "relation": "live-selling app whose sellers stream from a phone, often overhead",
+      "salience": 0.4,
+      "pages": 1
+    },
+    {
       "name": "Mirrorless camera",
       "type": "device",
       "relation": "common streaming camera on a full-size tripod",
       "salience": 0.33,
+      "pages": 2
+    },
+    {
+      "name": "Weight",
+      "type": "attribute",
+      "relation": "tripod weight vs rig weight and load capacity",
+      "salience": 0.31,
+      "pages": 2
+    },
+    {
+      "name": "Microphone",
+      "type": "device",
+      "relation": "mic mounted on a cold shoe or accessory arm next to the phone or camera",
+      "salience": 0.3,
+      "pages": 1
+    },
+    {
+      "name": "Monopod",
+      "type": "product type",
+      "relation": "one-leg alternative some tripods convert into",
+      "salience": 0.29,
       "pages": 2
     },
     {
@@ -107,20 +135,6 @@
       "relation": "motorized stabilizer some pages list; not needed for a fixed stream",
       "salience": 0.28,
       "pages": 2
-    },
-    {
-      "name": "Smartphone",
-      "type": "device",
-      "relation": "the most common live-selling and TikTok Live camera; needs a clamp",
-      "salience": 0.6,
-      "pages": 4
-    },
-    {
-      "name": "Whatnot",
-      "type": "platform",
-      "relation": "live-selling app whose sellers stream from a phone, often overhead",
-      "salience": 0.4,
-      "pages": 1
     }
   ],
   "attributes": [
@@ -132,7 +146,8 @@
     "head type: ball head vs fluid head",
     "multi-angle center column for overhead shots",
     "footprint on a desk or floor",
-    "folded length and weight for moving the setup"
+    "folded length and weight for moving the setup",
+    "aluminum vs carbon fiber legs (weight vs price)"
   ],
   "ngrams": [
     "tripod for live streaming",
@@ -144,7 +159,9 @@
     "load capacity",
     "center column",
     "tabletop tripod",
-    "phone clamp"
+    "phone clamp",
+    "aluminum tripod",
+    "tripod legs"
   ],
   "skipgrams": [
     "tripod…streaming",
@@ -168,7 +185,8 @@
     "counterbalance",
     "ring light",
     "overhead shot",
-    "portrait mode"
+    "portrait mode",
+    "microphone"
   ],
   "questions": [
     "What is the best tripod for live streaming?",
@@ -554,5 +572,5 @@
     "streaming tripod"
   ],
   "angle": "Matched to the stream: which tripods actually reach a standing host's eye level (CDC heights), which suit a desk, and how to get an overhead product angle for live selling.",
-  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-live-streaming.entities.json); shared entities copied with relevance as salience. Smartphone and Whatnot added from the SERP (salience estimated)."
+  "textrazor": "Semantic pass 2026-11-05: scripts/textrazor-entities.mjs re-run on 4 top pages (Best Buy, Amazon, StreamYard, SmallRig; B&H blocked) -> data/briefs/best-tripod-for-live-streaming.entities.json; saliences refreshed from relevance, Aluminium added as 'Aluminum' (US spelling, 0.55). Smartphone, Whatnot, Vlog, Counterweight kept from the 2026-11-01 run."
 }

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-fx3",
   "pass": true,
-  "checkedAt": "2026-11-03T16:31:21.918Z",
+  "checkedAt": "2026-11-05T22:11:12.818Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Befree Live Aluminum Travel Video Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,19 +9,13 @@
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Hands sliding a camera forward on a flui\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Checking that a tripod plate screw is sh\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
-    "source didn't respond normally (403): https://thepostflow.com/production/accessories/best-tripod-for-video/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-01 via Firecrawl: Befree Live specs (151/130/40 cm, 40 cm closed, 1.75 kg, 4 kg UNI payload, 4 sections, flip lock, 501PL, -90/+65 tilt) on manfrotto.com MVKBFRL-LIVEUS; SmallRig AD-01 (6 kg head/8 kg legs, 85-186 cm, 4 kg, +90/-60 tilt, DJI RS/Manfrotto plates) on smallrig.com and B&H (35 in closed, 75mm half ball, no counterbalance); Neewer TP74 (34-74 in, 36 in folded, 8.8 lb, 8 kg, 75mm, -75/+90) on neewer.com/B&H, 10.9 lb on Amazon listing; Sachtler System Ace M MS Mk II (0-4 kg, 5 CB steps, 3+0 drag, 78-169 cm, 86 cm, 4.4 kg, 2 stages, 75mm, 10.4 cm slide) on sachtler.com; Peak Design Travel Tripod CF (60 in, 9.1 kg, 1.29 kg) on Amazon listing + peakdesign.com; FX3 715 g / 1.015 kg with XLR handle on sony.com specs; SEL2470GM2 695 g on sony.com; 5.5 mm screw and SteadyShot-off-on-tripod on helpguide.sony.net ILME-FX3. ASINs B07HQWGQTF (sold by Amazon.com, in stock), B09X2X2BKC (SmallRig, FBA), B0BS5VQDYG (iphotoxx, FBA), B0CZHKT5J5, B085BQTQMN hand-checked on amazon.com. Owner quotes copied from r/FX3, r/videography and Sony Rumors forum excerpts.",
-    "at": "2026-11-01T11:29:24.628Z",
-    "hash": "cf8f3a2bcff249a0"
+    "notes": "semantic pass 2026-11-05 (significant: FAQ answers on payload and fluid head rewritten to open with the answer): added monopod (left out, true), payload capacity, camera cage, quick release plate on 1/4-20 socket, full-frame, run-and-gun, filmmaking; review opener, chooser and section openers rewritten with Sony FX3 tripod as subject; video reference fixed; captions added; trimmed filler; no new numbers, prices or test claims",
+    "at": "2026-11-05T22:11:08.578Z",
+    "hash": "061dfa05830f0f62"
   }
 }

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-backcountry-hunting",
   "pass": true,
-  "checkedAt": "2026-11-03T16:28:12.193Z",
+  "checkedAt": "2026-11-05T22:12:23.567Z",
   "errors": [],
   "warnings": [
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,20 +9,14 @@
     "product \"Leupold Alpine CF-425 Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 3GO 204AB G2 Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "illustration \"Backcountry hunter glassing seated on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hands setting a longer downhill tripod l\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "illustration \"Hand fitting a thread adapter bushing in\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-01 via Firecrawl: Vortex Summit Carbon II specs (2.5 lb, 22 lb, 6.3-53.3 in, 18.1 in folded, 4 carbon sections, quarter-turn locks, 3 leg angles, Arca-Swiss, detachable column, counterweight hook) on vortexoptics.com/summit-carbon-2-tripod.html and Amazon B08SC6FGTF; Ridgeview Carbon (3.2 lb, 22 lb, 8.3-73.8 in, 29.0 in folded, 3 sections, Arca-Swiss, hook) on vortexoptics.com/ridgeview-carbon-tripod.html and Amazon B08SBVMS8W; Leupold Alpine CF-425 (32 oz, 13 lb, 5-58 in, 18.5 in, 4 sections, twist locks, ball head, Arca-Swiss, extension post, hook, Q&A recommending Pro Guide for rifles) on leupold.com; Vanguard VEO 3 GO 204AB G2 (2.1 lb, 6.6 lb, 12.8-51.4 in, 39.6 in column down, 13.4 in folded, aluminum, BH-45, 21/50/80 deg legs, hook) on vanguardworld.com, Amazon B0FXN9H89F sold by Amazon.com; Primos Trigger Stick Gen3 Tall Tripod 24-62 in, 3.5 lb on OpticsPlanet and Field & Stream, Amazon B0728HC759 in stock. CDC FastStats men 68.9 in. Owner claims checked against Rokslide threads (Summit 2, Alpine CF-425, favorite backcountry tripod, elk rifle tripod), goHUNT, MeatEater, Outdoor Life, Backwoods Pursuit (stance ~8 in narrower, post adds ~8 in), Long Range Hunting, Sniper's Hide, Stalking Directory. All 5 ASINs in stock on Amazon US (products/prices check). Video BCPS00u9Pdc is Vortex's own Mountain Pass vs High Country II vs Summit Carbon II comparison.",
-    "at": "2026-11-01T11:30:39.739Z",
-    "hash": "af6e1ce3a621c310"
+    "notes": "Semantic pass 2026-11-05 (review only, reviewedDate only): TextRazor on 4 live top pages (reddit not fetchable), no missing entities; added camera-tripod definition sentence and tripod head wording, rewrote bold section openers as checkable claims from existing sourced specs (22 lb Vortex ratings, 50-58 in seated, 73.8 in Ridgeview), fixed 'video below', added illustration captions. No new prices, ratings, tests or facts.",
+    "at": "2026-11-05T22:12:22.224Z",
+    "hash": "3fcfe2408a8a41d3"
   }
 }

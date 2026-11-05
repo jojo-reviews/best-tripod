@@ -27,8 +27,9 @@
       "pages": 2,
       "relevance": 0.78,
       "wiki": "http://en.wikipedia.org/wiki/Laser",
+      "kgmid": "/m/04gh1",
       "wikidata": "Q38867",
-      "kgmid": "/m/04gh1"
+      "idsChecked": true
     },
     {
       "entity": "Bosch (company)",
@@ -102,6 +103,14 @@
       "wiki": "http://en.wikipedia.org/wiki/Elevator",
       "kgmid": "/m/02r60",
       "wikidata": "Q132911",
+      "idsChecked": true
+    },
+    {
+      "entity": "Pricing",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Pricing",
       "idsChecked": true
     }
   ],

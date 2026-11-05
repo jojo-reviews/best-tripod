@@ -408,7 +408,8 @@ sources:
     url: 'https://marcdalessio.com/carbon-fiber-painting-gear/'
   - title: 'OutdoorPainter: The best plein air easels for artists'
     url: 'https://www.outdoorpainter.com/best-plein-air-easels-for-artists/'
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-05'
+updatedDate: '2026-11-05T12:00:00.000Z'
 faqs:
   - q: What is the best tripod for plein air painting?
     a: >-
@@ -428,8 +429,10 @@ faqs:
       panel at no more than half the rating.
   - q: How tall should a tripod be for plein air painting?
     a: >-
-      Tall enough to put the pochade box at chest level, ideally with the center
-      column down. Check the column-down height, not only the maximum.
+      A plein air tripod should hold the pochade box at chest level with the
+      center column down. Of the picks here, the Peak Design (51.25 in) and
+      Befree (about 50 in) stand tallest column-down, so check that figure, not
+      only the maximum.
   - q: Is carbon fiber worth it for a plein air tripod?
     a: >-
       If you hike or fly, yes: the carbon picks here weigh 2-3 lb. If you paint
@@ -444,6 +447,7 @@ illustrations:
     alt: >-
       Hands clipping a pochade box onto a tripod ball head with a quick release
       plate before plein air painting
+    caption: Clip the pochade box onto the ball head plate
     afterHeading: 5
   - prompt: >-
       A canvas backpack hanging from the hook under the center column of a
@@ -453,6 +457,7 @@ illustrations:
     alt: >-
       Backpack hung from the center-column hook of a plein air painting tripod
       to steady the easel in wind
+    caption: Hang a backpack from the hook in wind
     afterHeading: 6
   - prompt: >-
       A person seen from behind standing at an open wooden paint box mounted on
@@ -462,6 +467,7 @@ illustrations:
     alt: >-
       Painter standing at a tripod with the pochade box at chest height and the
       center column down
+    caption: Set the box at chest height, column down
     afterHeading: 7
 videos:
   - id: GeoQ7dt5ZWA
@@ -477,7 +483,7 @@ The best tripod for plein air painting is a light camera tripod rated for at lea
 
 ## Plein air tripod comparison – payload, height and packed length
 
-**A plein air tripod is chosen on payload first, then column-down height, then folded length.** Figures are maker or listing specs.
+**A plein air tripod is chosen on load capacity first, then column-down height, then folded length.** Figures are maker or listing specs.
 
 | Tripod | Payload | Max height | Column down | Folded | Weight |
 |---|---|---|---|---|---|
@@ -489,13 +495,13 @@ The best tripod for plein air painting is a light camera tripod rated for at lea
 
 ## How I picked tripods for plein air painting
 
-**I kept only tripods that at least two plein air pages recommend, then checked each against maker specs and owner reports.** Those pages were artist blogs (Lori McNee, Marc Dalessio, Dianna Anderson), a pochade maker's tripod guide, OutdoorPainter reader setups and r/pleinair threads. I did not test these tripods.
+**I kept only tripods that at least two plein air pages recommend, then checked each against maker specs and owner reports.** Those pages were artist blogs (Lori McNee, Marc Dalessio, Dianna Anderson), a pochade maker's tripod guide, OutdoorPainter reader setups and r/pleinair threads. Lori McNee also lists a premium option, the Gitzo Traveler Series 0, at 10 kg and 2.3 lb. I did not test these tripods.
 
 > **From our notes:** The ZOMEI Q666 showed up in the tripod guide of a pochade box maker who says he uses it all the time, yet its listings disagree: 22 lb on one, 26.5 lb in the bullets, 17.6 lb on another. Sirui does the opposite with the 5CX and volunteers that you should load only half its 6 kg rating at full height outdoors. My rule from both: plan on the lowest published number.
 
 ## The 5 best tripods for plein air painting, reviewed
 
-**Each tripod below suits a different painter, from hikers with a watercolor kit to standing oil painters.**
+**The right tripod for plein air painting depends on your pochade box weight, whether you stand, and how far you carry the easel.**
 
 ### Manfrotto Befree Advanced Twist Carbon Tripod Kit: best overall plein air tripod
 
@@ -529,7 +535,7 @@ That height comes from the column: it is 45.47 in with the column down. One Road
 
 ## Which plein air painting tripod should you get
 
-**Match the tripod to how you paint, not to the lightest spec.**
+**A plein air painting tripod should match your box weight and painting stance, not just the lightest spec.**
 
 - **Heavy oil painting box, travel by plane:** Manfrotto Befree Advanced Twist Carbon.
 - **Long hikes, watercolor or a small box, seated:** SIRUI Traveler 5CX.
@@ -539,9 +545,9 @@ That height comes from the column: it is 45.47 in with the column down. One Road
 
 ## Pochade box weight vs tripod payload
 
-**A tripod for plein air painting should carry the box, palette and wet panel well under its rating.** Most boxes mount on the standard 1/4-20 screw. Martlet advises 3-4 kg for pocket boxes, 5-6 kg for boxes around 1 kg, and [12 kg or more for larger boxes](https://martletpochades.com/tripod-guide/).
+**A tripod for plein air painting should carry the box, palette, paint and wet canvas well under its load capacity.** Most boxes and panel holders mount on the standard 1/4-20 screw. Martlet advises 3-4 kg for pocket boxes, 5-6 kg for boxes around 1 kg, and [12 kg or more for larger boxes](https://martletpochades.com/tripod-guide/).
 
-Take a 6 lb (2.7 kg) box, the size one Facebook plein air group asked about. It is about 30% of the Befree's 9 kg or the Peak Design's 20 lb, 34% of the RoadTrip Pro's 17.6 lb, but about 91% of the 3 kg Sirui advises at full height. Carbon or aluminum matters less than this ratio; our [carbon fiber vs aluminum tripod comparison](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) covers the rest. The video below covers tripod basics for artists.
+Take a 6 lb (2.7 kg) box, the size one Facebook plein air group asked about. It is about 30% of the Befree's 9 kg or the Peak Design's 20 lb, 34% of the RoadTrip Pro's 17.6 lb, but about 91% of the 3 kg Sirui advises at full height. Carbon or aluminum matters less than this ratio; our [carbon fiber vs aluminum tripod comparison](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) covers the rest. The video in this section covers tripod basics for artists.
 
 ## How to set up a plein air tripod so it stays steady in wind
 

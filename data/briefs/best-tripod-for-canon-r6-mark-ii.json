@@ -26,28 +26,28 @@
       "name": "Canon EOS R6",
       "type": "camera",
       "relation": "earlier body most top pages are written for; same tripod advice",
-      "salience": 0.8,
+      "salience": 0.83,
       "pages": 3
     },
     {
       "name": "camera tripod",
       "type": "product category",
       "relation": "TextRazor top shared entity",
-      "salience": 0.94,
+      "salience": 0.95,
       "pages": 3
     },
     {
       "name": "carbon fiber",
       "type": "material",
       "relation": "lighter legs; Peak Design, Leofoto and Benro picks",
-      "salience": 0.72,
+      "salience": 0.58,
       "pages": 3
     },
     {
       "name": "Canon",
       "type": "brand",
       "relation": "camera and RF lens maker",
-      "salience": 0.63,
+      "salience": 0.67,
       "pages": 3
     },
     {
@@ -72,7 +72,7 @@
       "name": "Manfrotto",
       "type": "brand",
       "relation": "Befree Advanced maker",
-      "salience": 0.45,
+      "salience": 0.47,
       "pages": 3
     },
     {
@@ -136,6 +136,20 @@
       "type": "tripod part",
       "relation": "weak point in wind",
       "salience": 0.5
+    },
+    {
+      "name": "Canon EOS",
+      "type": "camera system",
+      "relation": "Canon's camera line the R6 Mark II belongs to (TextRazor shared entity)",
+      "salience": 0.66,
+      "pages": 2
+    },
+    {
+      "name": "tripod head",
+      "type": "component",
+      "relation": "head on each kit (integrated, 494, LH-30, BH-60, Benro ball head); friction or drag control matters with a 70-200 or 100-500 (TextRazor, missing before 2026-11-05)",
+      "salience": 0.55,
+      "pages": 2
     }
   ],
   "attributes": [
@@ -148,7 +162,8 @@
     "leg lock type (flip, lever, twist)",
     "Arca-Swiss compatibility",
     "columnless vs center column",
-    "head friction control"
+    "head friction control",
+    "tripod head type and friction/drag control"
   ],
   "ngrams": [
     "tripod for canon r6 mark ii",
@@ -164,7 +179,9 @@
     "peak design travel tripod",
     "befree advanced",
     "leg locks",
-    "folded length"
+    "folded length",
+    "tripod head",
+    "canon eos"
   ],
   "skipgrams": [
     "tripod…R6",
@@ -173,7 +190,8 @@
     "arca…plate",
     "lens…weight",
     "load…rating",
-    "legs…sections"
+    "legs…sections",
+    "head…friction"
   ],
   "nlpTerms": [
     "Canon",
@@ -199,7 +217,9 @@
     "hiking",
     "carry-on",
     "tripod mount ring",
-    "multi-angle column"
+    "multi-angle column",
+    "tripod head",
+    "Canon EOS"
   ],
   "questions": [
     "What is the best tripod for a Canon R6 Mark II?",
@@ -595,6 +615,14 @@
   "textrazor": {
     "file": "data/briefs/best-tripod-for-canon-r6-mark-ii.entities.json",
     "pagesAnalyzed": 3,
-    "note": "DPReview and K&F pages were blocked for TextRazor; entities from Packapop, lens-rumors and Canon Rumors"
+    "updated": "2026-11-05",
+    "serp": [
+      "facebook.com group post",
+      "forum.canonrumors.co",
+      "reddit.com r/canon",
+      "manfrotto.com R5/R6 tripod head story",
+      "packapop.com"
+    ],
+    "note": "Reddit unreadable, Manfrotto 429 on the final run; 'Tripod head' 0.55 from an earlier run that read Manfrotto; 'Gear' dropped as a mechanical-gear mislink."
   }
 }
