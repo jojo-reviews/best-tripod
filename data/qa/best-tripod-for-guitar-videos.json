@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-guitar-videos",
   "pass": true,
-  "checkedAt": "2026-11-05T09:50:00.957Z",
+  "checkedAt": "2026-11-05T18:01:27.512Z",
   "errors": [],
   "warnings": [
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,7 +13,11 @@
     "1 question heading(s) go straight into a list/table/image; add one answer sentence first (patent rule 2026-11-04)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "LIVE POST, FIX: source returns 404: https://www.kraftgeek.com/products/justtap-magnetic-phone-tripod",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/",
+    "source didn't respond normally (403): https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/"
   ],
   "factCheck": {
     "verified": true,

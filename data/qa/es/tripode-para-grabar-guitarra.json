@@ -2,17 +2,16 @@
   "slug": "es/tripode-para-grabar-guitarra",
   "lang": "es",
   "translationOf": "best-tripod-for-guitar-videos",
-  "pass": false,
-  "checkedAt": "2026-11-04T18:14:46.193Z",
-  "errors": [
-    "source returns 404: https://www.kraftgeek.com/products/justtap-magnetic-phone-tripod"
-  ],
+  "pass": true,
+  "checkedAt": "2026-11-05T18:11:26.188Z",
+  "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-youtube-videos/; link the es version once it exists",
     "internal link to the English post /blog/best-tripod-for-content-creators/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "LIVE POST, FIX: source returns 404: https://www.kraftgeek.com/products/justtap-magnetic-phone-tripod",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
     "source didn't respond normally (403): https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/",
     "source didn't respond normally (403): https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/"

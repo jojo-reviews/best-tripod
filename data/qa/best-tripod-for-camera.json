@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-camera",
   "pass": true,
-  "checkedAt": "2026-11-05T17:54:49.993Z",
+  "checkedAt": "2026-11-05T18:00:11.518Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,7 +12,16 @@
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+    "source didn't respond normally (403): https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24105g-2",
+    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
+    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
   ],
   "factCheck": {
     "verified": true,
