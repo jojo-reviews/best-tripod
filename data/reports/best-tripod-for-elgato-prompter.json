@@ -1,0 +1,569 @@
+{
+  "keyword": "best tripod for elgato prompter",
+  "createdAt": "2026-11-05T17:58:20.589Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Elgato Prompter",
+    "entityVariants": [
+      "best tripod for elgato prompter",
+      "best tripod for elgato prompter xl",
+      "best tripod for elgato teleprompter",
+      "tripod for Prompter XL",
+      "teleprompter tripod",
+      "video tripod for a teleprompter",
+      "tripod for the Elgato Prompter",
+      "Elgato Prompter tripod",
+      "Prompter XL tripod",
+      "tripod for the Prompter XL"
+    ],
+    "entities": [
+      {
+        "name": "Teleprompter",
+        "type": "product type",
+        "relation": "the Elgato Prompter and Prompter XL are teleprompters that sit in front of the lens",
+        "salience": 0.94,
+        "pages": 3
+      },
+      {
+        "name": "Elgato",
+        "type": "brand",
+        "relation": "maker of the Prompter and Prompter XL and of Camera Hub",
+        "salience": 0.79,
+        "pages": 3
+      },
+      {
+        "name": "Camera",
+        "type": "product type",
+        "relation": "the camera sits behind the beamsplitter glass on the same tripod",
+        "salience": 0.72,
+        "pages": 3
+      },
+      {
+        "name": "Tripod",
+        "type": "product type",
+        "relation": "three-legged support that carries the prompter and camera together",
+        "salience": 0.45,
+        "pages": 3
+      },
+      {
+        "name": "USB-C",
+        "type": "standard",
+        "relation": "the Prompter XL runs on one USB-C 3.2 cable with 15 W power delivery, so the cable must reach the tripod",
+        "salience": 0.63,
+        "pages": 2
+      },
+      {
+        "name": "Mirrorless camera",
+        "type": "product type",
+        "relation": "the common camera behind the Prompter XL; it adds weight to the rig",
+        "salience": 0.39,
+        "pages": 2
+      },
+      {
+        "name": "DSLR",
+        "type": "product type",
+        "relation": "DSLRs mount through the ring backplate and step-up rings",
+        "salience": 0.28,
+        "pages": 3
+      },
+      {
+        "name": "Lens",
+        "type": "component",
+        "relation": "the original Prompter can hang from the lens; the XL cannot",
+        "salience": 0.32,
+        "pages": 3
+      },
+      {
+        "name": "Camera Hub software",
+        "type": "concept",
+        "relation": "Camera Hub, now Elgato Studio, runs scripts and Voice Sync",
+        "salience": 0.42,
+        "pages": 3
+      },
+      {
+        "name": "Fluid head",
+        "type": "component",
+        "relation": "video head with drag and a long plate that suits a front-heavy prompter rig",
+        "salience": 0.6,
+        "pages": 4
+      },
+      {
+        "name": "C-stand",
+        "type": "product type",
+        "relation": "Elgato's alternative to a video tripod for the XL",
+        "salience": 0.35,
+        "pages": 2
+      },
+      {
+        "name": "Beamsplitter glass",
+        "type": "component",
+        "relation": "the angled glass that reflects the script; it sets the prompter's front weight",
+        "salience": 0.3,
+        "pages": 2
+      }
+    ],
+    "attributes": [
+      "load capacity against the Prompter XL's 3.37 kg plus camera",
+      "height on legs alone for eye-level framing",
+      "fluid head with a long sliding plate to balance front weight",
+      "1/4-inch and 3/8-inch mounting screws on the head",
+      "75mm bowl for quick leveling",
+      "mid-level spreader and twin-tube legs",
+      "folded length and weight for moving the setup",
+      "counterbalance and drag on the head"
+    ],
+    "ngrams": [
+      "tripod for elgato prompter",
+      "prompter xl",
+      "video tripod",
+      "fluid head",
+      "load capacity",
+      "75mm bowl",
+      "eye level",
+      "camera bracket",
+      "mid-level spreader",
+      "quick release plate"
+    ],
+    "skipgrams": [
+      "prompter…tripod",
+      "load…capacity",
+      "eye…level",
+      "fluid…head",
+      "front…weight",
+      "camera…bracket"
+    ],
+    "nlpTerms": [
+      "teleprompter",
+      "beamsplitter glass",
+      "Camera Hub",
+      "Voice Sync",
+      "step-up rings",
+      "C-stand",
+      "sandbag",
+      "counterbalance",
+      "drag",
+      "3/8-inch screw",
+      "1/4-20",
+      "top-heavy",
+      "mirrorless",
+      "DSLR",
+      "Stream Deck"
+    ],
+    "questions": [
+      {
+        "q": "What tripod do I need for the Elgato Prompter XL?",
+        "answerTerms": [
+          "7 kg",
+          "15 lbs",
+          "video tripod",
+          "C-stand",
+          "3/8-inch"
+        ]
+      },
+      {
+        "q": "How much does the Elgato Prompter XL weigh with a camera?",
+        "answerTerms": [
+          "3.37 kg",
+          "7.43 lbs",
+          "camera bracket",
+          "mirrorless"
+        ]
+      },
+      {
+        "q": "Does the original Elgato Prompter need a tripod?",
+        "answerTerms": [
+          "690 g",
+          "lens",
+          "1/4-inch threads",
+          "desk mount"
+        ]
+      },
+      {
+        "q": "Can I use a photo tripod with a ball head for the Prompter XL?",
+        "answerTerms": [
+          "ball head",
+          "load capacity",
+          "top-heavy",
+          "fluid head"
+        ]
+      },
+      {
+        "q": "How high should a teleprompter tripod be?",
+        "answerTerms": [
+          "eye level",
+          "lens",
+          "4.6 m",
+          "15 ft"
+        ]
+      },
+      {
+        "q": "How do I stop the Prompter XL from tipping forward?",
+        "answerTerms": [
+          "quick release plate",
+          "balance",
+          "sandbags",
+          "spread legs"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "Load math: Prompter XL weight plus a camera rig against each tripod's rated load and Elgato's 7 kg minimum",
+      "Why the original Prompter and the XL need different supports (lens-hung vs bracket on a tripod)",
+      "Balancing a front-heavy prompter on a sliding plate and using both bracket threads",
+      "Height on legs alone for seated and standing presenters",
+      "Which tripod for a fixed studio, a moving setup, an over-desk setup or a big cinema rig"
+    ],
+    "outline": [
+      {
+        "h2": "Elgato Prompter tripod comparison by load and height",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How much weight a tripod for the Elgato Prompter must carry",
+        "intent": "load math, Elgato's 7 kg rule, original vs XL",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Elgato Prompter tripods",
+        "intent": "method, who else recommends them, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Elgato Prompter, reviewed",
+        "intent": "product sections and Which one should you get",
+        "h3": [
+          "NEEWER TP74",
+          "Cayer BV25LH",
+          "SmallRig AD-01",
+          "NEEWER TP75",
+          "Manfrotto 502 + 055 kit"
+        ]
+      },
+      {
+        "h2": "How to mount the Prompter XL on a tripod",
+        "intent": "numbered steps with balance and eye level",
+        "h3": []
+      },
+      {
+        "h2": "Elgato Prompter tripod problems owners run into, and the fix",
+        "intent": "pain points with fixes",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict on the best tripod for the Elgato Prompter",
+        "intent": "closing answer and next-question links",
+        "h3": []
+      }
+    ],
+    "targetWords": 1600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+        "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+        "https://www.youtube.com/watch?v=hM8d4zA7x98",
+        "https://help.elgato.com/hc/en-us/articles/20431856069133-Elgato-Prompter-How-to-connect-a-DSLR-Camera",
+        "https://www.elgato.com/us/en/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/",
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+        "https://expertphotography.com/best-video-tripod"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The ranking pages are forum threads, setup videos and a few roundups that describe each tripod in a short paragraph (load, height, head) rather than pros/cons lists.",
+      "avgWords": 1500,
+      "avgProducts": 3,
+      "commonSections": [
+        "Prompter XL weight and Elgato's tripod rule",
+        "tripod picks with load ratings",
+        "mounting and balance tips",
+        "desk mount alternatives"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+        "title": "Best Tripod Setup for Elgato Prompter XL + Sony A6700 - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+        "title": "Elgato Prompter XL Unboxing and Setup (Plus Tripod) - YouTube"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/groups/ecammlive/posts/4240382232839779/",
+        "title": "i have just got the elgato xl prompter and don't want to put it on a tripod ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=hM8d4zA7x98",
+        "title": "Ultimate Elgato Prompter XL Setup for Zoom - YouTube"
+      },
+      {
+        "position": 5,
+        "url": "https://www.amazon.com/clp/B0CZ455C81",
+        "title": "Amazon.com: Elgato Prompter Pole Mount Set"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=c8lQE7yVvh4",
+        "title": "How I've setup, and use, my original version elgato Prompter - YouTube"
+      },
+      {
+        "position": 7,
+        "url": "https://www.facebook.com/groups/fx3andfx30owners/posts/1272195767524276/",
+        "title": "What is the best tripod for Sony FX30 with 16mm Sigma and Elgato ..."
+      },
+      {
+        "position": 8,
+        "url": "https://store.zoss.media/products/grip-rig-2-mobile-teleprompter-kit-elgato-prompter",
+        "title": "Grip Rig 2 Mobile Teleprompter Kit (Elgato Prompter) - ZOSS 3D"
+      },
+      {
+        "position": 9,
+        "url": "https://www.etsy.com/market/elgato_prompter_camera_bracket",
+        "title": "Elgato Prompter Camera Bracket - Etsy"
+      },
+      {
+        "position": 10,
+        "url": "https://help.elgato.com/hc/en-us/articles/20431856069133-Elgato-Prompter-How-to-connect-a-DSLR-Camera",
+        "title": "Elgato Prompter — How to connect a DSLR Camera"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 1,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Prompter XL",
+        "setup",
+        "tripod",
+        "Sony"
+      ],
+      "gap": "No top-10 result is a roundup that checks several tripods against the Prompter XL's weight; the titles are threads and setup videos about one rig."
+    },
+    "serpProducts": [
+      {
+        "name": "NEEWER TP74 74 inch Video Tripod with Fluid Head",
+        "pages": [
+          "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+          "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+        ]
+      },
+      {
+        "name": "Cayer BV25LH Carbon Fiber Video Tripod",
+        "pages": [
+          "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+          "https://expertphotography.com/best-video-tripod"
+        ]
+      },
+      {
+        "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+        "pages": [
+          "https://www.youtube.com/watch?v=0HD_iAXWiaI",
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+        ]
+      },
+      {
+        "name": "NEEWER TP75 Video Tripod with Fluid Head",
+        "pages": [
+          "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+          "https://www.youtube.com/watch?v=wZdxbJdOpQg"
+        ]
+      },
+      {
+        "name": "Manfrotto 502 Fluid Video Head with 055 Video Aluminum Tripod",
+        "pages": [
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+          "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/"
+        ]
+      }
+    ],
+    "commonPoints": [
+      "The Prompter XL is heavy and front-heavy, so a light photo or travel tripod is not enough",
+      "Elgato asks for a tripod or C-stand rated for at least 7 kg (15 lb) of total weight",
+      "A video tripod with a fluid head and twin-tube legs is the usual answer",
+      "Set the lens at eye level and spread the legs wide",
+      "The original Prompter is light enough for a desk mount or arm"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load math: the Prompter XL is 3.37 kg with its bracket; an owner's full XL rig was about 9 lb but behaved like 12-14 lb from front weight. Every pick is rated 8-10 kg, so even that worst case uses about 70-80% of an 8 kg rating, while a 4-5 kg travel tripod is over its limit.",
+        "source": "https://help.elgato.com/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications",
+        "absentFrom": [
+          "https://www.youtube.com/watch?v=hM8d4zA7x98",
+          "https://help.elgato.com/hc/en-us/articles/20431856069133-Elgato-Prompter-How-to-connect-a-DSLR-Camera",
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by setup: fixed studio on a budget (TP74), carbon legs you move often (BV25LH), quickest clamp setup (AD-01), heaviest cinema rig on budget legs (TP75), counterbalanced head and a levelling column (Manfrotto 502 + 055).",
+        "source": "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+        "absentFrom": [
+          "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+          "https://www.youtube.com/watch?v=hM8d4zA7x98",
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Front-heavy tip: an owner's TP74 head tilted forward until the quick release plate was slid back to balance; Elgato says the XL is top-heavy and to spread the legs and add sandbags. Use both bracket threads (1/4-inch and 3/8-inch) on a long plate.",
+        "source": "https://www.avforums.com/threads/neewer-tp74-tripod.2460980/",
+        "absentFrom": [
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+          "https://expertphotography.com/best-video-tripod",
+          "https://www.youtube.com/watch?v=hM8d4zA7x98"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Original Prompter vs XL: the original weighs 690 g and can hang from the lens or mount by its two 1/4-inch threads, so a desk tripod works; the XL cannot hang from a lens and must sit on a tripod or C-stand.",
+        "source": "https://www.elgato.com/us/en/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/",
+        "absentFrom": [
+          "https://www.reddit.com/r/elgato/comments/1ocyj9i/best_tripod_setup_for_elgato_prompter_xl_sony/",
+          "https://thepostflow.com/production/accessories/best-tripod-for-video/",
+          "https://expertphotography.com/best-video-tripod"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "video-tripods-prompter-xl-too-heavy",
+        "pain": "The Prompter XL plus camera is too heavy for the tripod people already own",
+        "details": "Owners find the XL with a camera reaches double-digit pounds, more than a travel tripod should hold, and buy a heavy video tripod for it.",
+        "sources": [
+          "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+          "https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/"
+        ],
+        "quotes": [
+          {
+            "text": "Has anyone come across a desk stand that can support the weight of the elgato prompter xl ?",
+            "url": "https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/"
+          }
+        ]
+      },
+      {
+        "id": "video-tripods-prompter-front-heavy",
+        "pain": "The prompter's front weight makes the rig act heavier and tip the head forward",
+        "details": "The glass and screen sit ahead of the lens, so the head drifts forward unless the plate is balanced.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/",
+          "https://www.avforums.com/threads/neewer-tp74-tripod.2460980/"
+        ],
+        "quotes": [
+          {
+            "text": "The full rig is around 9 LB, but because of the prompter XL's front weight, it behaves more like 12–14 LB when mounted.",
+            "url": "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/"
+          }
+        ]
+      },
+      {
+        "id": "video-tripods-prompter-xl-mount-fit",
+        "pain": "The Prompter XL bracket does not fit some tripod heads or plates",
+        "details": "Owners with sturdy photo tripods struggle to attach the XL's horizontal bracket; a video head with a long plate and both thread sizes solves it.",
+        "sources": [
+          "https://www.reddit.com/r/elgato/comments/1q4xacp/cstand_or_tripod_recommendation_for_elgato_xl/"
+        ],
+        "quotes": [
+          {
+            "text": "having trouble mounting it to our sturdy Benro A2573F Tripod",
+            "url": "https://www.reddit.com/r/elgato/comments/1q4xacp/cstand_or_tripod_recommendation_for_elgato_xl/"
+          }
+        ]
+      },
+      {
+        "id": "video-tripods-prompter-desk-shake",
+        "pain": "Desk-mounted prompters shake and drift when the desk is touched",
+        "details": "Arms and clamps drift under the XL's weight, and typing shakes a desk-mounted rig; a floor tripod avoids both.",
+        "sources": [
+          "https://www.youtube.com/watch?v=hM8d4zA7x98"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "7 kg (15 lbs)",
+        "claim": "Elgato's minimum tripod rating for the Prompter XL",
+        "url": "https://www.elgato.com/us/en/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/",
+        "quote": "Use a tripod with ¼\" or ⅜\" mounting threads that supports at least 7 kg (15 lbs) of total weight."
+      },
+      {
+        "number": "3.37 kg | 7.43 lbs",
+        "claim": "Prompter XL weight with camera bracket",
+        "url": "https://help.elgato.com/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications",
+        "quote": "3.37 kg | 7.43 lbs (with camera bracket)"
+      },
+      {
+        "number": "690 g | 1.52 lb",
+        "claim": "original Elgato Prompter weight",
+        "url": "https://help.elgato.com/hc/en-us/articles/20449076223501-Elgato-Prompter-Technical-Specifications",
+        "quote": "690 g | 1.52 lb (without accessories)"
+      },
+      {
+        "number": "15 ft (4.6 m)",
+        "claim": "Prompter XL text readable distance",
+        "url": "https://www.elgato.com/us/en/explorer/products/teleprompter/elgato-prompter-xl-setup-guide/",
+        "quote": "Text remains readable up to 15 ft (4.6 m) away."
+      }
+    ],
+    "videos": [
+      {
+        "id": "8G8ejYZe5XA",
+        "title": "Elgato Prompter XL Unboxing and Setup (Plus Tripod)",
+        "channel": "Dr Wiggo",
+        "url": "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+        "section": "How to mount the Prompter XL on a tripod"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-video-tripod-with-fluid-head-for-beginners",
+      "video-tripod-bowl-size-explained-75mm-vs-100mm",
+      "best-tripod-for-youtube-videos",
+      "best-mini-tripod-for-desk-video-calls",
+      "best-tripod-for-live-streaming"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-video-tripod-with-fluid-head-for-beginners",
+        "find": "The payload on a spec sheet is a maximum, not a comfortable working load.",
+        "replace": "The payload on a spec sheet is a maximum, not a comfortable working load, which matters most once you add a [teleprompter like the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/)."
+      },
+      {
+        "slug": "best-tripod-for-youtube-videos",
+        "find": "For a seated talking-head video, I start with height.",
+        "replace": "For a seated talking-head video, I start with height (reading a script? see our [tripods for the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/))."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for elgato prompter xl",
+      "best tripod for elgato teleprompter",
+      "tripod for prompter xl",
+      "elgato prompter xl tripod",
+      "elgato prompter tripod setup"
+    ],
+    "angle": "Load first: the Prompter XL's 3.37 kg plus a camera against each tripod's rating and Elgato's 7 kg rule, then balance, eye-level height and which tripod fits a fixed studio, a moving setup or a heavy cinema rig.",
+    "textrazor": "2026-11-05: scripts/textrazor-entities.mjs on Elgato Prompter XL setup guide, CineD Prompter XL launch, cre-8 Prompter XL review (3 of 5 pages analyzed; Elgato help and The Post Flow blocked) -> data/briefs/best-tripod-for-elgato-prompter.entities.json. Shared: Teleprompter 0.94, Elgato 0.79, Camera 0.72, USB-C 0.63, Tripod (photography) 0.45, Software 0.42, Mirrorless camera 0.39, Lens 0.32, DSLR 0.28."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-filming-sports",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-youtube-videos",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-sony-fx3",
+      "mode": "related-box"
+    }
+  ]
+}

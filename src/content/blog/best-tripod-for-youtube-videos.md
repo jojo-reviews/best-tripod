@@ -316,9 +316,10 @@ heroAlt: >-
   Best Tripod for YouTube Videos – Talking Head, Overhead and Pans – Best Tripod
   buying guide
 related:
+  - best-tripod-for-xbotgo
+  - best-tripod-for-elgato-prompter
   - best-tripod-for-recording-school-plays
   - best-tripod-for-sony-fx3
-  - best-tripod-for-filming-sports
 ---
 
 The best tripod for YouTube videos is the one whose tripod head and height match the shot you film most: I pick the Manfrotto Befree 3-Way Live Advanced for smooth pans, the Manfrotto Befree GT XPRO for overhead desk shots, and the Vanguard VEO 3 GO 235CB for seated talking heads and travel. These are camera tripods for a mirrorless camera or DSLR; if you vlog on Sony's small body, see our [tripods for the Sony ZV-E10](/blog/best-tripod-for-sony-zv-e10/). If you film on a phone, our [tripods for phone and UGC creators](/blog/best-tripod-for-content-creators/) and [phone tripods with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) fit better.

@@ -1,0 +1,90 @@
+{
+  "keyword": "best tripod for elgato prompter",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Teleprompter",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.94,
+      "wiki": "http://en.wikipedia.org/wiki/Teleprompter",
+      "wikidata": "Q770692",
+      "kgmid": "/m/028y06"
+    },
+    {
+      "entity": "Elgato",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.79,
+      "wiki": "http://en.wikipedia.org/wiki/Elgato",
+      "wikidata": "Q56064242",
+      "kgmid": "/m/0c3lht"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Software",
+      "type": "/education/school_category",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Software",
+      "wikidata": "Q7397",
+      "kgmid": "/m/01mf0"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "wikidata": "Q196342",
+      "kgmid": "/m/04f20t"
+    },
+    {
+      "entity": "USB-C",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/USB-C",
+      "wikidata": "Q20026619"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "wikidata": "Q209918",
+      "kgmid": "/m/05p4z41"
+    }
+  ],
+  "errors": [
+    "https://help.elgato.com/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-rOE9Bo9JoiD0VjSgkDgfxs&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"rOE9Bo9JoiD0VjSgkDgfxs\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'LKMiGlvFad3dEZKnnlIngrXX3ddmEuJS6EeVQLkKOFo-1793901070-1.2.1.1-FG7HgvTB0_RThRtO2tD53nCSlbOoRdszfD5VCwQVrTSCqV3q4_jEd9K6BNl2HEH1',cITimeS: '1793901070',cN: 'rOE9Bo9JoiD0VjSgkDgfxs',cRay: 'a55db4799823ecd2',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications?__cf_chl_tk=7L0XPtoE9gYTCkZsglgKXQwWclw8W7tbRNoIMJGxPMw-1793901070-1.0.1.1-nno0wOzhivqGiX71FTOVegUoDB0Fgt1hQlj57iIvaiY\",cvId: '3',cZone: 'help.elgato.com',fa:\"/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications?__cf_chl_f_tk=7L0XPtoE9gYTCkZsglgKXQwWclw8W7tbRNoIMJGxPMw-1793901070-1.0.1.1-nno0wOzhivqGiX71FTOVegUoDB0Fgt1hQlj57iIvaiY\",md: 'zp5UsK9NYbzZytX5yyYMzSahARaDMAVI7aDXqpMS.rg-1793901070-1.2.1.1-4Mbu2uPf9cSeiQCLU.yrWW.U.NZ_nkeeZMnswf9159O_16TQab0E5jeJq45KvtS6FRexc1DZoL7WKnxJ4jgiJEtdW.6EUsNZ0QzYZGZIXq9VQ2.txqelvylayMOvP8YPIHwSX9EO5fLqFhmr3XQeAOrOc0cFal2jaXy_O4LUuE4I48mCFgKj5qPmPXsEaEUtuU_UbnXrgAK3LQYQ7jkFTTlq1Hb1asVKUI3.aU7W9koF50ZYKuKoL6f_F_jIkiSyYEGcrdK5i692riI_L1z.BzM80CMFzSpqre0071UZFT4.t57hyTiWoSHQkfoksTbODQgl02NbWHGxb5536Fltxdc03aEgqpkxX4ANZMza5VqicW6JRlxzhR3YobRcbQuI2wZB0J6lgNvG5AW1SfTW7phSnIEfQ1TaZuBHihtQ2y7.nMaicCyYudWolq78b8J89xmlK113MWYeu36hVMNYCAqSV5UbMowsYRLzN9tFNwXqYfPz2o6quCo1467LyzIUlClynJZhRAI5MB4Oax6h2e4ONyGb.nt_q92mPBtfQZZzdmaKj6BZaG5i21kCnu4_oDpTYI8oBQ.0R9ovjupsNzLIYSYbKnwOCFG9BrB5g_Wfa6nLbjaPv8PEBN1rOSaDU3mSIFx9TZ1Ty0U7cWNAqFxB2aF1mg_ceCgg5qjOfu7_xrBf3pJutu4aeLZ9uOHXGYuo1JJtUq0P9exBzWKVHtkcJNUDVOwPhTKzMOrDamP28OsKgviKI15hABsJzVb.UOGGZGua9bbcpksIdZ_9Ju6E0BisgqyFgd4jesoenuZwsSVeBD.MdGQ.ER4AED..7V5uMraNQ08ZTiYEV_Ttv56837BGiV.O2sgLw3w42gWnDYAwsVphL895CgcKTWEuY8nyWj8bG4nlYj7sD8tDmQBMavDc7dfxFi0gAHd2h.lPE31H6P1qhSOSXhTRZ7fruhZ8ARYVi2rQWFWglhH7LHpfktWVCKUg7srtIzLEgsH2589ytxajazcamKYt0nfPRMbMomJo8GkwnzTwQRBwOIsU_Dn0SIrLdApmlEieqpyCDPEno4FUIrGm_9SdyljZ9uBEKFYGWGR1EJi6QiR_fzX2OR3SJaAT.MQq3XgfqcpEw0mulroKL_w4Rc23VjxEnkxFJtjWSIJsJEz2GuhI2ITEAQYKuVRje8CUgYGBBMM64TEgkDRM2mfx5sVeJaR9',mdrd: 'U0plA6gnLWOaRcSR3qkr73nfWhvD4pbD3YiGNBxMQlo-1793901070-1.2.1.1-Mt.dfmN1AT92fQEo1nIf0wqdM8E.zrEVX4.Ufrv.PPtB1u_GiOXMGpeN3ELiY.YsOFQ6nNBgrrxRuXEOVQPK3g9FDccydUdYsg22oGU6Nqrcx9ihjDU0mwZRSiZR_joW_pdg6964UQpu7bcGy7dZN5PrmYqwhA9IOU7ZfcrnMnojiW16b4zLZlqgRQEBi.44ws944rd_xh1SQm2WpBDcDuCQZoR9u.AmDYU1Sh7bmPvLbAELP8K58hJBS2o3Sh8LGBcfVxR4NHLI1Ix63ck9ug',};var a = document.createElement('script');a.nonce = 'rOE9Bo9JoiD0VjSgkDgfxs';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a55db4799823ecd2';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications?__cf_chl_rt_tk=7L0XPtoE9gYTCkZsglgKXQwWclw8W7tbRNoIMJGxPMw-1793901070-1.0.1.1-nno0wOzhivqGiX71FTOVegUoDB0Fgt1hQlj57iIvaiY\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://thepostflow.com/production/accessories/best-tripod-for-video/: <html>\n<head>\n<title>Error 403 Forbidden</title>\n</head>\n<body>\n<h1>403 Forbidden</h1>\n</body>\n</html>\n"
+  ]
+}
