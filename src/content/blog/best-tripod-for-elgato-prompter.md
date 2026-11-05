@@ -523,7 +523,7 @@ The [Manfrotto 502 kit](amzn:Manfrotto+video+kit+502+head+055+tripod+levelling+M
 3. Lock the plate into the head, then fit the camera with the ring backplate and step-up rings, or the universal backplate.
 4. Slide the plate fore or aft until the head no longer tips forward with the tilt lock open.
 5. Raise the legs until the lens sits at your eye level; Elgato says the XL's text stays readable up to 15 ft (4.6 m).
-6. Run the USB-C cable down a leg, add a sandbag to the spreader, then load your script in Elgato's Camera Hub software and test Voice Sync or your Stream Deck controls.
+6. Run the USB-C cable down a leg, add a sandbag to the spreader, then load your script in Elgato Studio (Elgato's replacement for Camera Hub) and test Voice Sync or your Stream Deck controls.
 
 A 75mm bowl makes step 1 quick; our [video tripod bowl size guide](/blog/video-tripod-bowl-size-explained-75mm-vs-100mm/) covers why.
 

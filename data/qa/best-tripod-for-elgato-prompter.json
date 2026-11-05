@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-elgato-prompter",
   "pass": true,
-  "checkedAt": "2026-11-05T17:58:06.877Z",
+  "checkedAt": "2026-11-05T18:14:37.324Z",
   "errors": [],
   "warnings": [
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-05: Elgato Prompter XL setup guide (7 kg/15 lbs minimum tripod, 1/4 or 3/8 threads, XL cannot hang from lens, top-heavy: spread legs, sandbags, over-desk on fixed side of horizontal column with counterweight, text readable to 15 ft/4.6 m, ring backplate + step-up rings); Elgato XL tech specs (3.37 kg/7.43 lb with bracket, two 1/4 and one 3/8 threads); Elgato Prompter specs (690 g). NEEWER TP74 (neewer.com: 86-187 cm, folded 91 cm, 4 kg, 8 kg load, 3-section flip lock, 75mm bowl, 1/4 and 3/8 screws; Amazon B0BS5VQDYG in stock, ships from Amazon). NEEWER TP75 (neewer.com: 89-189 cm, folded 93 cm, 4.6 kg, 10 kg, separate pan/tilt drag, top-loading QR; Amazon B0BPXRVD79 ships from Amazon; B&H reviews bounce/tilt play). Cayer BV25LH (Newegg 35.5-73.3 in, 17.6 lb, +90/-70; ExpertPhotography folded 37 in, 75mm bowl, mid-level spreader; Amazon B07T96WX8H 17.6 lb K6 head, ships from Amazon; older listings 13.2 lb noted). SmallRig AD-01 (SmallRig page 85-186 cm, 8 kg, 75mm bowl, dual-mode DJI RS/Manfrotto plate, +90/-75; SmallRig height guide 4 kg; Amazon B09X2X2BKC sold by SmallRig, ships from Amazon). Manfrotto MVK502055XPRO3V (Manfrotto page 157 cm column down; ggvideo/Murphy's: 54-179 cm, folded 79 cm, 4.5 kg, 10 kg, fixed 4 kg counterbalance, flat base levelling column; Amazon B0DX2G56WB sold by Manfrotto US, ships from Amazon). Owner claims checked: r/elgato 1ocyj9i (Cayer best, TP75 second), r/videography 1odf9jf quote, r/elgato 1q4xacp and 1sx9eq7 quotes (search excerpts), AVForums TP74 tilt, Dr Wiggo TP74 video, Live Streaming Pros desk drift/shake, Think Media VT-20 with Prompter, Newsshooter/Photography Life AD-01, Scott Dumas Cayer review, Frary 502 review.",
-    "at": "2026-11-05T17:58:06.149Z",
-    "hash": "a966f9fdf527c7ba"
+    "notes": "Step 6 software name updated: Elgato's own setup guide says Camera Hub is no longer supported and Prompter runs in Elgato Studio (checked by the translation agent on Elgato's guide 2026-11-05); all other facts unchanged",
+    "at": "2026-11-05T18:14:36.659Z",
+    "hash": "bdf95dcdd61b716d"
   }
 }
