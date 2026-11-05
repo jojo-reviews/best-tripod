@@ -422,9 +422,9 @@ faqs:
   - q: Is a tripod under 100 dollars good enough for a full-frame camera?
     a: >-
       Yes, a tripod under 100 dollars is good enough for a full-frame camera if
-      the rating leaves room. A Sony a7 IV with a 24-105mm zoom weighs
-      about 1.32 kg, so pick a tripod rated for at least twice that, keep the
-      center column down and shoot in calm conditions.
+      the rating leaves room. A Sony a7 IV with a 24-105mm zoom weighs about
+      1.32 kg, so pick a tripod rated for at least twice that, keep the center
+      column down and shoot in calm conditions.
   - q: How much weight can a cheap tripod hold?
     a: >-
       A cheap tripod in this list holds 1 kg to 8 kg: the Manfrotto PIXI is
@@ -439,9 +439,9 @@ faqs:
   - q: Should I spend 200 dollars instead of 100 dollars on a tripod?
     a: >-
       No, a tripod under 100 dollars is enough for a light camera and occasional
-      use. Spend 200 dollars on a tripod if you carry a heavy telephoto, shoot in
-      wind or hike often, because carbon fiber legs, twist locks and a steadier
-      head matter there.
+      use. Spend 200 dollars on a tripod if you carry a heavy telephoto, shoot
+      in wind or hike often, because carbon fiber legs, twist locks and a
+      steadier head matter there.
 illustrations:
   - prompt: >-
       Close-up of two hands placing a mirrorless camera with a zoom lens on a
@@ -461,7 +461,7 @@ illustrations:
     alt: >-
       Hands extending the thickest leg sections of a budget tripod first with
       the center column kept down
-    caption: Extend the thick leg sections first, column down
+    caption: 'Extend the thick leg sections first, column down'
     afterHeading: 5
   - prompt: >-
       A hand hanging a small camera backpack from the hook under the center
@@ -477,6 +477,7 @@ videos:
   - id: 6iNRbT6Nsgg
     afterHeading: 5
 related:
+  - best-tripod-for-camera
   - best-tripod-for-medium-format-camera
 heroImage: /images/featured/best-tripod-under-100.png
 heroAlt: >-

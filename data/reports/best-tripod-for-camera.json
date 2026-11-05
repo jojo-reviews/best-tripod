@@ -1,0 +1,660 @@
+{
+  "keyword": "best tripod for camera",
+  "createdAt": "2026-11-05T17:55:05.099Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "camera tripod",
+    "entityVariants": [
+      "tripod for camera",
+      "camera tripod",
+      "tripod for photography",
+      "DSLR tripod",
+      "mirrorless camera tripod",
+      "travel tripod"
+    ],
+    "entities": [
+      {
+        "name": "tripod",
+        "type": "Thing",
+        "relation": "core topic of every top page",
+        "salience": 0.93,
+        "pages": 5,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "carbon fiber",
+        "type": "/projects/project_focus",
+        "relation": "core topic of every top page",
+        "salience": 0.67,
+        "pages": 5,
+        "textrazorName": "Carbon-fiber reinforced polymer"
+      },
+      {
+        "name": "camera",
+        "type": "/fictional_universe/character_species",
+        "relation": "core topic of every top page",
+        "salience": 0.65,
+        "pages": 5,
+        "textrazorName": "Camera"
+      },
+      {
+        "name": "height",
+        "type": "/people/measured_body_part",
+        "relation": "core topic of every top page",
+        "salience": 0.38,
+        "pages": 4,
+        "textrazorName": "Height"
+      },
+      {
+        "name": "tripod head",
+        "type": "Thing",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.63,
+        "pages": 3,
+        "textrazorName": "Tripod head"
+      },
+      {
+        "name": "Gitzo",
+        "type": "Agent",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.51,
+        "pages": 2,
+        "textrazorName": "Gitzo"
+      },
+      {
+        "name": "Manfrotto",
+        "type": "Agent",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.5,
+        "pages": 2,
+        "textrazorName": "Manfrotto"
+      },
+      {
+        "name": "Benro",
+        "type": "Company",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.49,
+        "pages": 2,
+        "textrazorName": "Benro"
+      },
+      {
+        "name": "weight",
+        "type": "Thing",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.47,
+        "pages": 2,
+        "textrazorName": "Weight"
+      },
+      {
+        "name": "aluminum",
+        "type": "ChemicalSubstance",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.41,
+        "pages": 2,
+        "textrazorName": "Aluminium"
+      },
+      {
+        "name": "backpack",
+        "type": "/business/product_category",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.38,
+        "pages": 2,
+        "textrazorName": "Backpack"
+      },
+      {
+        "name": "photographer",
+        "type": "/organization/role",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.36,
+        "pages": 2,
+        "textrazorName": "Photographer"
+      },
+      {
+        "name": "photography",
+        "type": "/broadcast/genre",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.35,
+        "pages": 2,
+        "textrazorName": "Photography"
+      },
+      {
+        "name": "image stabilization",
+        "type": "Thing",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.35,
+        "pages": 2,
+        "textrazorName": "Image stabilization"
+      },
+      {
+        "name": "wind",
+        "type": "/book/book_subject",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.3,
+        "pages": 2,
+        "textrazorName": "Wind"
+      },
+      {
+        "name": "mirrorless camera",
+        "type": "/digicams/camera_format",
+        "relation": "named by 2-3 top pages",
+        "salience": 0.24,
+        "pages": 2,
+        "textrazorName": "Mirrorless camera"
+      }
+    ],
+    "attributes": [
+      "max height with center column down (camera tripod)",
+      "folded length (travel tripod)",
+      "weight with head",
+      "safety payload / load capacity",
+      "leg sections",
+      "leg lock type (twist vs flip)",
+      "tripod head type (ball head, friction control, pan lock)",
+      "Arca-Swiss compatible plate",
+      "minimum height",
+      "material (aluminum vs carbon fiber)"
+    ],
+    "ngrams": [
+      "camera tripod",
+      "travel tripod",
+      "ball head",
+      "center column",
+      "carbon fiber",
+      "load capacity",
+      "leg locks",
+      "folded length",
+      "maximum height",
+      "quick release plate",
+      "Arca-Swiss",
+      "full-frame camera",
+      "mirrorless camera"
+    ],
+    "skipgrams": [
+      "center…column down",
+      "load…capacity rating",
+      "carbon…fiber legs",
+      "ball…head plate",
+      "folded…length inches",
+      "leg…lock twist"
+    ],
+    "nlpTerms": [
+      "stability",
+      "portability",
+      "long exposure",
+      "landscape photography",
+      "vibration",
+      "wind",
+      "payload",
+      "tripod legs",
+      "tripod head",
+      "spreader",
+      "bubble level",
+      "panning",
+      "friction control"
+    ],
+    "questions": [
+      {
+        "q": "What is the best tripod for a camera?",
+        "maps": "intro + Which camera tripod should you get?",
+        "answerTerms": [
+          "travel tripod",
+          "ball head",
+          "load capacity",
+          "folded length"
+        ]
+      },
+      {
+        "q": "How much weight should a camera tripod hold?",
+        "maps": "Camera tripod load check H2",
+        "answerTerms": [
+          "load capacity",
+          "safety payload",
+          "camera and lens weight",
+          "kg"
+        ]
+      },
+      {
+        "q": "Is carbon fiber better than aluminum for a camera tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "carbon fiber",
+          "aluminum",
+          "weight",
+          "vibration",
+          "price"
+        ]
+      },
+      {
+        "q": "How tall should a camera tripod be?",
+        "maps": "Camera tripod height H2",
+        "answerTerms": [
+          "center column down",
+          "eye level",
+          "inches",
+          "maximum height"
+        ]
+      },
+      {
+        "q": "Twist locks or flip locks on a camera tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "twist lock",
+          "flip lock",
+          "leg sections",
+          "speed"
+        ]
+      },
+      {
+        "q": "Does a ball head or a 3-way head suit a camera tripod better?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "ball head",
+          "3-way head",
+          "pan lock",
+          "friction control"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top page checks each tripod's rating against a real camera-and-lens weight",
+      "Few pages give column-down height next to eye level for a typical shooter",
+      "No chooser that maps camera size and travel style to one tripod"
+    ],
+    "outline": [
+      {
+        "h2": "Camera tripods compared by column-down height and load",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these camera tripods",
+        "intent": "method, who recommends them, scoring",
+        "h3": []
+      },
+      {
+        "h2": "The 6 best tripods for cameras, reviewed",
+        "intent": "picks",
+        "h3": [
+          "Peak Design Travel Tripod (Aluminum): best camera tripod for most people",
+          "Manfrotto 190XPRO3 kit: best full-size camera tripod",
+          "Manfrotto Befree Advanced: best travel tripod for photo and video",
+          "SIRUI Traveler 5C: lightest full-height camera tripod",
+          "K&F Concept 64 inch: best budget camera tripod",
+          "Gitzo Traveler Series 1 kit: best premium camera tripod",
+          "Which camera tripod should you get?"
+        ]
+      },
+      {
+        "h2": "Camera tripod load check with a real mirrorless kit",
+        "intent": "analysis",
+        "h3": []
+      },
+      {
+        "h2": "Camera tripod height without the center column",
+        "intent": "analysis/decision",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a camera tripod so it stays sharp",
+        "intent": "how-to steps",
+        "h3": []
+      },
+      {
+        "h2": "Camera tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 2600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.findingtheuniverse.com/best-travel-tripods/"
+      ],
+      "productStyle": "specs",
+      "productStyleReason": "Matt Purciel, Pack Hacker and Fstoppers present each tripod with a spec block (max height, folded length, weight, load); camera buyers compare those rows.",
+      "avgWords": 3532,
+      "avgProducts": 6,
+      "commonSections": [
+        "product picks with specs",
+        "what to look for (material, leg locks, height, head)",
+        "FAQ",
+        "comparison table",
+        "how we tested or picked"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "title": "Best Tripods for Photography 2026: 4 Landscape Picks Tested in Patagonia"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/SonyAlpha/comments/1h87s7a/whats_the_most_reliable_and_sturdy_tripod_youd/",
+        "title": "r/SonyAlpha - What's the most reliable and sturdy tripod you'd recommend?"
+      },
+      {
+        "position": 3,
+        "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "title": "4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"
+      },
+      {
+        "position": 4,
+        "url": "https://www.better-digital-photo-tips.com/camera-tripod-reviews.html",
+        "title": "Camera Tripod Reviews. Simple Advice on How To Choose the Best ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "title": "The Best Travel Tripod for 2026 - Pack Hacker"
+      },
+      {
+        "position": 6,
+        "url": "https://www.amazon.com/Best-Sellers-Complete-Tripod-Units/zgbs/electronics/499310",
+        "title": "Amazon Best Sellers: Best Complete Tripod Units"
+      },
+      {
+        "position": 7,
+        "url": "https://www.youtube.com/watch?v=6yLbEIf9pJs",
+        "title": "Which travel tripod is the BEST travel tripod? - YouTube"
+      },
+      {
+        "position": 8,
+        "url": "https://www.bhphotovideo.com/c/browse/Tripods-Support/ci/8159/N/4075788743",
+        "title": "Camera Tripods - B&H Photo"
+      },
+      {
+        "position": 9,
+        "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "title": "Best Camera Tripod Guide 2026 - The School of Photography"
+      },
+      {
+        "position": 10,
+        "url": "https://improvephotography.com/gear-old/tripods/",
+        "title": "The Best Tripods, Ballheads, and Monopods - Improve Photography"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 4,
+      "withNumber": 2,
+      "commonModifiers": [
+        "2026",
+        "best",
+        "travel",
+        "for photography",
+        "guide",
+        "picks"
+      ],
+      "gap": "No top-10 title matches tripods to the camera and lens on them; none promises a load check or column-down height."
+    },
+    "serpProducts": [
+      {
+        "name": "Peak Design Travel Tripod",
+        "pages": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://www.shutterbug.com/content/steady-shots-best-new-tripods-2026"
+        ]
+      },
+      {
+        "name": "Manfrotto 190XPRO3 (MK190XPRO3-BHQ2 kit)",
+        "pages": [
+          "https://www.nytimes.com/wirecutter/reviews/best-tripod/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "pages": [
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5C",
+        "pages": [
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "name": "K&F Concept 64 inch",
+        "pages": [
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "name": "Gitzo Traveler Series 1 (GK1545T)",
+        "pages": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://www.findingtheuniverse.com/best-travel-tripods/"
+        ]
+      }
+    ],
+    "serpProductsRejected": [
+      {
+        "name": "Vanguard VEO 3+ 263CB",
+        "reason": "only TechGearLab among the pages read"
+      },
+      {
+        "name": "Benro Superslim",
+        "reason": "only Matt Purciel"
+      },
+      {
+        "name": "Really Right Stuff Ascend-14",
+        "reason": "one page, no Amazon US listing"
+      },
+      {
+        "name": "Feisol CT-3342 / Leofoto LP-324C",
+        "reason": "one page each"
+      },
+      {
+        "name": "Manfrotto PIXI EVO 2",
+        "reason": "mini tripod; left out to keep the list to full-height camera tripods"
+      }
+    ],
+    "commonPoints": [
+      "Carbon fiber is lighter and damps vibration; aluminum is cheaper",
+      "More leg sections fold shorter but flex more",
+      "Raise the center column last",
+      "Check the load rating against your gear",
+      "Arca-Swiss plates make heads and plates interchangeable",
+      "Twist and flip locks both work; pick by preference"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load math: a Sony a7 IV (658 g) plus FE 24-105mm F4 G (663 g) is about 1.32 kg: 33% of the SIRUI 5C's 4 kg rating, 17% of the K&F 8 kg, about 15% of the Peak Design and Befree, 13% of the Gitzo and 9% of the Manfrotto 190 kit's 15 kg.",
+        "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+        "absentFrom": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Column-down height vs eye level: for a 5 ft 10 in shooter the legs-only target is about 58-60 in (height minus 10-12 in); the 190 kit (57.68 in) and Gitzo (55.31 in) come closest, the Peak Design (51.25 in) and Befree (50.39 in) need the column.",
+        "source": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+        "absentFrom": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by camera size and how far you carry it: drive-up full-frame kit -> 190 kit; hiking/carry-on -> Peak Design; photo + video pans -> Befree Advanced; lightest bag -> SIRUI 5C; first tripod on a budget -> K&F 64; long exposures with premium build -> Gitzo.",
+        "source": "own decision rule from verified specs",
+        "absentFrom": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Owner complaints (column-up shake, drifting ball head, worn flip levers, buying twice) answered with a concrete fix each.",
+        "source": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+        "absentFrom": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.techgearlab.com/topics/electronics/best-tripod"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "camera-tripods-cheap-false-economy",
+        "pain": "Bought a cheap tripod, regretted it, and had to buy a better one",
+        "details": "r/photography posters advise buying one sturdy tripod rather than upgrading repeatedly.",
+        "sources": [
+          "https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
+        ],
+        "quotes": [
+          {
+            "text": "buy once and keep forever, so make it a good one.",
+            "url": "https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-center-column-vibration",
+        "pain": "Raising the center column makes the tripod shake",
+        "details": "r/AskPhotography threads: steady on the legs, wobbly once the column is cranked up.",
+        "sources": [
+          "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        ],
+        "quotes": [
+          {
+            "text": "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-plastic-flip-lever-cracks",
+        "pain": "Plastic flip-lock levers crack or stop holding after a few years",
+        "details": "A DPReview owner traced repeat failures to plastic levers under constant tension and now stores them open.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+        ],
+        "quotes": [
+          {
+            "text": "Recently my tripod broke due to the flip locks no longer working and now I have to look for a new tripod.",
+            "url": "https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-budget-ball-head-drops",
+        "pain": "A budget ball head drops a little after you tighten it, so the framing shifts",
+        "details": "In a DPReview thread on travel tripods under $100, an owner reports a 1 cm drop after tightening, and others warn cheap tripods fail within a couple of years or have spindly last leg sections.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/"
+        ],
+        "quotes": [
+          {
+            "text": "The ball head drops about a centimeter after you tighten it but after that it doesn't move at all.",
+            "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "658 g",
+        "claim": "Sony a7 IV weight with battery and memory card",
+        "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
+        "quote": "Weight (with battery and memory card included) Approx. 1 lb 7.3 oz (approx. 658 g)"
+      },
+      {
+        "number": "663 g",
+        "claim": "Sony FE 24-105mm F4 G OSS lens weight",
+        "url": "https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24105g-2",
+        "quote": "The lens weighs approximately 23.4 oz (663 g)"
+      },
+      {
+        "number": "15 kg",
+        "claim": "Manfrotto MK190XPRO3-BHQ2 safety payload (UNI/PdR 105:2021)",
+        "url": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+        "quote": "Safety Payload UNI/PdR 105:2021 15 kg 33.07 lbs"
+      }
+    ],
+    "videos": [
+      {
+        "id": "MYeagFPWnNk",
+        "title": "The Best Camera Tripod – Complete Buyers Guide",
+        "channel": "The School of Photography",
+        "url": "https://www.youtube.com/watch?v=MYeagFPWnNk",
+        "section": "Camera tripod height without the center column"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-tripod-under-100",
+      "how-tall-should-a-tripod-be-for-my-height",
+      "twist-lock-vs-flip-lock-tripod-legs",
+      "tripod-center-column-up-or-down-for-landscapes",
+      "best-travel-tripod-for-mirrorless-camera",
+      "carbon-fiber-vs-aluminum-tripod-for-hiking"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "can-you-use-any-tripod-for-a-camera",
+        "find": "My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total.",
+        "replace": "My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total, as in our [best tripods for cameras](/blog/best-tripod-for-camera/)."
+      },
+      {
+        "slug": "how-tall-should-a-tripod-be-for-my-height",
+        "find": "A couple of inches below eye level is fine; 8 inches below gets tiring fast.",
+        "replace": "A couple of inches below eye level is fine; 8 inches below gets tiring fast, so compare column-down heights in our [best tripod for camera picks](/blog/best-tripod-for-camera/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for dslr",
+      "best tripod for photography",
+      "best quality tripod for camera",
+      "best lightweight tripod for camera",
+      "what is the best tripod for camera",
+      "which tripod stand is best"
+    ],
+    "angle": "Match the tripod to the camera and lens on it: load check with a real mirrorless kit and column-down height against eye level.",
+    "textrazor": "2026-11-05: scripts/textrazor-entities.mjs on 5 top pages (mattpurciel, fstoppers, packhacker, theschoolofphotography, techgearlab) -> data/briefs/best-tripod-for-camera.entities.json; sharedEntities copied with relevance as salience (site/ad entities dropped)."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-under-100",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}
