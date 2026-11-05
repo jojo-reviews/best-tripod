@@ -5879,7 +5879,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for insta360 x5",
@@ -5895,7 +5895,10 @@
     "funnel": "bofu",
     "cluster": "insta360",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 7,
+    "startedAt": "2026-11-05T11:20:31.030Z",
+    "publishedAt": "2026-11-05T17:57:43.849Z"
   },
   {
     "status": "pending",

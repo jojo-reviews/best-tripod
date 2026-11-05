@@ -1,0 +1,630 @@
+{
+  "keyword": "best tripod for insta360 x5",
+  "createdAt": "2026-11-05T17:57:43.852Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Insta360 X5",
+    "entityVariants": [
+      "Insta360 X5 tripod",
+      "X5 tripod",
+      "selfie stick tripod for Insta360 X5",
+      "invisible selfie stick tripod",
+      "tripod for 360 camera"
+    ],
+    "entities": [
+      {
+        "name": "Insta360 X5",
+        "type": "360 camera",
+        "relation": "the 200 g 360 camera with a 1/4\" mounting point that the tripod holds",
+        "salience": 0.9
+      },
+      {
+        "name": "selfie stick",
+        "type": "camera support",
+        "relation": "most X5 tripods are invisible selfie sticks with legs; TextRazor top entity",
+        "salience": 0.93
+      },
+      {
+        "name": "Insta360",
+        "type": "company",
+        "relation": "camera maker; makes the 2-in-1 Invisible Selfie Stick + Tripod and All-Purpose Tripod",
+        "salience": 0.88
+      },
+      {
+        "name": "monopod",
+        "type": "camera support",
+        "relation": "Best360 and Bushman monopods with feet for virtual tours",
+        "salience": 0.56
+      },
+      {
+        "name": "camera",
+        "type": "device",
+        "relation": "the 360 camera on top",
+        "salience": 0.57
+      },
+      {
+        "name": "selfie",
+        "type": "concept",
+        "relation": "the shot type the stick is built for",
+        "salience": 0.51
+      },
+      {
+        "name": "invisible selfie stick effect",
+        "type": "technique",
+        "relation": "stitching hides a thin pole in the overlap between the two lenses",
+        "salience": 0.6
+      },
+      {
+        "name": "stitching",
+        "type": "process",
+        "relation": "why a centered thin pole disappears",
+        "salience": 0.45
+      },
+      {
+        "name": "counterweight",
+        "type": "part",
+        "relation": "Best360's 500 g weight that keeps a tall stick upright",
+        "salience": 0.35
+      },
+      {
+        "name": "1/4\"-20 thread",
+        "type": "standard",
+        "relation": "the X5's mounting point and every pick's screw",
+        "salience": 0.4
+      },
+      {
+        "name": "virtual tour",
+        "type": "use case",
+        "relation": "eye-level 360 photos on a free-standing monopod",
+        "salience": 0.35
+      },
+      {
+        "name": "Koolehaoda MT-03",
+        "type": "product",
+        "relation": "tripod legs for a stick without legs",
+        "salience": 0.3
+      },
+      {
+        "name": "K&F Concept",
+        "type": "company",
+        "relation": "maker of the 66-inch 2-in-1 stick",
+        "salience": 0.3
+      },
+      {
+        "name": "Best360",
+        "type": "company",
+        "relation": "maker of the Monopod Pro Carbon Fiber Edition",
+        "salience": 0.3
+      }
+    ],
+    "attributes": [
+      "max height on its own legs (cm/in)",
+      "folded length",
+      "weight (g)",
+      "leg spread / footprint",
+      "load rating vs the 200 g X5",
+      "pole thickness at the camera end (invisibility)",
+      "leg visibility in 360 footage",
+      "counterweight",
+      "thread (1/4\" vs 3/8\")",
+      "section count and lock type"
+    ],
+    "ngrams": [
+      "invisible selfie stick",
+      "selfie stick tripod",
+      "360 camera",
+      "tripod legs",
+      "built-in tripod",
+      "Insta360 X5",
+      "third-person shots",
+      "1/4 inch screw",
+      "folded length",
+      "virtual tours"
+    ],
+    "skipgrams": [
+      "selfie…invisible",
+      "tripod…legs",
+      "stick…extended",
+      "wind…tip",
+      "camera…stitch"
+    ],
+    "nlpTerms": [
+      "stitch line",
+      "fake drone shot",
+      "timelapse",
+      "counterweight",
+      "monopod",
+      "carbon fiber",
+      "aluminum alloy",
+      "twist lock",
+      "level surface",
+      "footprint"
+    ],
+    "questions": [
+      "What tripod works with the Insta360 X5?",
+      "Does the Insta360 X5 have a tripod mount?",
+      "Will a tripod show up in Insta360 X5 360 footage?",
+      "How do I keep an Insta360 X5 selfie stick tripod from blowing over?",
+      "Is the Insta360 2-in-1 selfie stick tripod stable enough for the X5?",
+      "How tall should an Insta360 X5 tripod be for virtual tours?"
+    ],
+    "questionAnswerTerms": {
+      "What tripod works with the Insta360 X5?": [
+        "1/4\" thread",
+        "invisible selfie stick",
+        "built-in tripod",
+        "200 g"
+      ],
+      "Does the Insta360 X5 have a tripod mount?": [
+        "1/4\" mounting point",
+        "quick release",
+        "standard tripod"
+      ],
+      "Will a tripod show up in Insta360 X5 360 footage?": [
+        "stitch line",
+        "overlap",
+        "legs",
+        "nadir"
+      ],
+      "How do I keep an Insta360 X5 selfie stick tripod from blowing over?": [
+        "wind",
+        "weights",
+        "level surface",
+        "counterweight"
+      ]
+    },
+    "contentGaps": [
+      "No top page compares the footprint of a built-in mini tripod with separate MT-03-style legs or a counterweighted monopod",
+      "No page states the X5's 200 g against each tripod's load rating",
+      "No page gives a wind rule: how high to extend each stick outdoors",
+      "No page explains that tripod legs, unlike the pole, can show at the nadir"
+    ],
+    "outline": [
+      {
+        "h2": "How each Insta360 X5 tripod compares on height and base",
+        "intent": "comparison table on height, folded length, weight, base",
+        "h3": []
+      },
+      {
+        "h2": "How I picked each Insta360 X5 tripod",
+        "intent": "method, who else recommends, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best Insta360 X5 tripod picks, reviewed",
+        "intent": "product reviews",
+        "h3": [
+          "Insta360 2-in-1 Invisible Selfie Stick Tripod",
+          "K&F Concept 66\" 2-in-1 Invisible Selfie Stick Tripod",
+          "Best360 Monopod Pro Carbon Fiber Edition",
+          "Koolehaoda MT-03 Mini Tripod",
+          "Insta360 All-Purpose Tripod Stand"
+        ]
+      },
+      {
+        "h2": "Which Insta360 X5 tripod should you get",
+        "intent": "decision rule",
+        "h3": []
+      },
+      {
+        "h2": "How to set up an Insta360 X5 tripod so it stays invisible",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "Why the Insta360 X5 tripod base matters more than its load rating",
+        "intent": "analysis: 200 g vs ratings, footprint vs height",
+        "h3": []
+      },
+      {
+        "h2": "Insta360 X5 tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 1250,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+        "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+        "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+        "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+        "https://360rumors.com/best-tripod-360-cameras/",
+        "https://www.youtube.com/watch?v=lNsy3zqep3M"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Ben Claremont and Samir write short paragraphs per stick with a rating or a spec table; pros/cons lists give the same strengths and drawbacks more scannably, as on our sibling action-camera roundups.",
+      "avgWords": 1150,
+      "avgWordsNote": "Estimated from the scraped pages: Ben Claremont about 1,400 words, Samir about 1,300, Insta360's which-stick guide about 1,100, Insta360's best selfie sticks about 900, 360 Rumors about 500 (Best Budget Info's video transcript about 450 not counted).",
+      "avgProducts": 6,
+      "commonSections": [
+        "list of sticks/tripods with short reviews",
+        "length and weight specs",
+        "invisible selfie stick explanation",
+        "tips for use",
+        "buy links"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/Handheld-Bullet-Bundle-Insta360-Accessories/dp/B0D28LR6R3",
+        "title": "Amazon.com : Bullet Time Bundle Mini Tripod for Insta360 x6 X5 Insta 360 ..."
+      },
+      {
+        "position": 2,
+        "url": "https://store.insta360.com/product/all_purpose_tripod",
+        "title": "Buy All-Purpose Tripod - Camera Tripod - Insta360 Store"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/groups/Insta360OneCommunity/posts/25804423159220935/",
+        "title": "Best non official tripod for insta360 x5? - Facebook"
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/Insta360/comments/1r1uy1a/which_tripod_is_works_for_me/",
+        "title": "which tripod is works for me? : r/Insta360 - Reddit"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=eO9zQlxbT38",
+        "title": "Insta360 All Purpose Tripod - (Extending Legs ... - YouTube"
+      },
+      {
+        "position": 6,
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=abcat0410045",
+        "title": "Insta360 Camera Tripods & Support (30) - Best Buy"
+      },
+      {
+        "position": 7,
+        "url": "https://www.youtube.com/watch?v=Z3orpu0osWM",
+        "title": "Best Insta360 X5 Accessories For Cinematic Travel Videos - YouTube"
+      },
+      {
+        "position": 8,
+        "url": "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+        "title": "The Ultimate Question: Which Selfie Stick Should I Buy? - Insta360"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=lNsy3zqep3M",
+        "title": "Tripods for Insta360 X5: Top Picks for Seamless 360° Filming - YouTube"
+      },
+      {
+        "position": 10,
+        "url": "https://www.ebay.com/shop/insta360-tripod?_nkw=insta360+tripod",
+        "title": "Insta360 Tripod - eBay"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "Insta360",
+        "X5",
+        "tripod",
+        "selfie stick",
+        "invisible",
+        "mini"
+      ],
+      "gap": "No top result is an X5 tripod roundup with heights; none ranks tripods from a tabletop base to a 187 cm free-standing monopod or gives a wind rule."
+    },
+    "commonPoints": [
+      "Insta360's 2-in-1 Invisible Selfie Stick + Tripod is the default all-in-one pick",
+      "A thin pole disappears from 360 footage because it sits in the stitch line",
+      "A separate mini tripod base turns any invisible stick into a stand",
+      "Tall setups on small bases are less stable",
+      "Monopods with feet and counterweights suit virtual tours"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Height vs footprint: the five bases run from a 15 to 23 cm mini tripod to a stand that reaches 187 cm with a 500 g counterweight; the base, not the 200 g camera, sets the safe height",
+        "source": "https://www.insta360.com/specs/x5; https://www.bhphotovideo.com/c/product/1650028-REG/insta360_cintrph_b_all_purpose_outdoor_tripod_for.html; https://best360.shop/products/best360-monopod-pro-carbon-fiber-edition",
+        "absentFrom": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://360rumors.com/best-tripod-360-cameras/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Load headroom: the X5 weighs 200 g; the All-Purpose Tripod is rated 0.5 kg (2.5x), the MT-03 10 kg, Best360's listing caps load at 300 g, so ratings never decide it",
+        "source": "https://www.insta360.com/specs/x5; https://www.bhphotovideo.com/c/product/1650028-REG/insta360_cintrph_b_all_purpose_outdoor_tripod_for.html; https://koolehaoda.com/products/tabletop-mini-tripod-travel-portable-tripod-with-1-4-and-3-8-screw-mount-and-extendable-leg-design-max-load-10kg-22lbs-for-dslr-camera-video-recorder-cell-phonemt-03",
+        "absentFrom": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://360rumors.com/best-tripod-360-cameras/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by shot: carry-all (Insta360 2-in-1), tall third-person (K&F 66\"), eye-level virtual tours (Best360), uneven ground with a stick you own (MT-03), pocket base (All-Purpose)",
+        "source": "product specs above",
+        "absentFrom": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://360rumors.com/best-tripod-360-cameras/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Wind: r/Insta360 owners report built-in and mini bases tipping in a breeze once the stick is extended; fix = weight the base, extend less outdoors, or use a counterweighted monopod",
+        "source": "https://www.reddit.com/r/Insta360/comments/10bhf8b/monopodtripod_recommendations_for_an_x3_to/; https://www.reddit.com/r/Insta360/comments/1kr3nie/does_the_selfie_stick_with_inbuilt_tripod_stand/",
+        "absentFrom": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://360rumors.com/best-tripod-360-cameras/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Tripod legs, unlike the pole, can appear at the bottom of a 360 shot; Insta360 store reviewers mention the All-Purpose base showing; keep legs short and thin, or patch the nadir",
+        "source": "https://store.insta360.com/product/all_purpose_tripod",
+        "absentFrom": [
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://360rumors.com/best-tripod-360-cameras/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "tabletop-mini-tripods-x5-tripod-tips-in-wind",
+        "pain": "An Insta360 selfie stick on a small tripod base blows over in a breeze once the stick is extended",
+        "details": "r/Insta360 owners say the All-Purpose Tripod is too light for an extended stick in wind and that the 2-in-1's built-in legs need weighing down outdoors.",
+        "sources": [
+          "https://www.reddit.com/r/Insta360/comments/10bhf8b/monopodtripod_recommendations_for_an_x3_to/",
+          "https://www.reddit.com/r/Insta360/comments/1kr3nie/does_the_selfie_stick_with_inbuilt_tripod_stand/",
+          "https://www.reddit.com/r/Insta360/comments/11czylv/which_one_to_get_selfie_stick_or_the_selfie_stick/"
+        ],
+        "quotes": [
+          {
+            "text": "I can tell you the all-purpose tripod Insta360 sells sucks in high wind when the stick is extended. It's just too light.",
+            "url": "https://www.reddit.com/r/Insta360/comments/10bhf8b/monopodtripod_recommendations_for_an_x3_to/"
+          },
+          {
+            "text": "Make sure to put weights on the base - doesn't take much for the wind to knock it over!",
+            "url": "https://www.reddit.com/r/Insta360/comments/1kr3nie/does_the_selfie_stick_with_inbuilt_tripod_stand/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-uneven-ground",
+        "pain": "A built-in tripod base will not stand a stick upright on a slope or uneven ground",
+        "details": "360 Rumors' Mic Ty prefers MT-03 legs because each leg adjusts on its own, keeping the stick vertical on an incline; an r/Insta360 owner says the All-Purpose Tripod also needs a level surface.",
+        "sources": [
+          "https://360rumors.com/best-tripod-360-cameras/",
+          "https://www.reddit.com/r/Insta360/comments/1drwfcx/can_insta360_allpurpose_tripod_bear_weight_of_3m/"
+        ],
+        "quotes": [
+          {
+            "text": "It's not stable in any wind at all. And make sure it's on a level surface too.",
+            "url": "https://www.reddit.com/r/Insta360/comments/1drwfcx/can_insta360_allpurpose_tripod_bear_weight_of_3m/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-long-stick-flex",
+        "pain": "Long, thin sticks flex or slowly collapse under the X5",
+        "details": "An r/Insta360 owner comparing foldable sticks found the K&F version taller but with flex under the X5; another found vibration let a stick collapse on itself.",
+        "sources": [
+          "https://www.reddit.com/r/Insta360/comments/1szm3hq/anyone_tried_both_foldable_selfie_sticks/",
+          "https://www.reddit.com/r/Insta360/comments/xce4e4/selfie_stick_is_not_staying_extended_and_is/"
+        ],
+        "quotes": [
+          {
+            "text": "The selfie stick of the K&F is significantly higher, which is good, however there is flex when mounting the x5.",
+            "url": "https://www.reddit.com/r/Insta360/comments/1szm3hq/anyone_tried_both_foldable_selfie_sticks/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-legs-visible",
+        "pain": "Tripod legs show up at the bottom of 360 shots even though the pole disappears",
+        "details": "Insta360 store reviewers of the All-Purpose Tripod mention it being visible in 360 images; Samir notes its small footprint keeps it less visible than big tripod legs.",
+        "sources": [
+          "https://store.insta360.com/product/all_purpose_tripod",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "200g",
+        "claim": "Insta360 X5 weight",
+        "url": "https://www.insta360.com/specs/x5",
+        "quote": "Weight 200g (7.1oz)"
+      },
+      {
+        "number": "0.5 kg",
+        "claim": "Insta360 All-Purpose Tripod load capacity",
+        "url": "https://www.bhphotovideo.com/c/product/1650028-REG/insta360_cintrph_b_all_purpose_outdoor_tripod_for.html",
+        "quote": "Load Capacity: 1.1 lb / 0.5 kg"
+      },
+      {
+        "number": "187cm",
+        "claim": "Best360 Monopod Pro Carbon stands up to 187 cm with a 500 g counterweight",
+        "url": "https://best360.shop/products/best360-monopod-pro-carbon-fiber-edition",
+        "quote": "Stands up to 187cm and packs into 3 parts. Fits Insta360 X6, X5 and DJI Osmo 360 II. 500g stainless steel counterweight"
+      },
+      {
+        "number": "40 degrees",
+        "claim": "overlap between the X-series lenses that hides the stick",
+        "url": "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+        "quote": "When stitched together that gives you one 360-degree image with around 40 degrees of overlap."
+      },
+      {
+        "number": "9 inches to 18.5 inches",
+        "claim": "MT-03 leg length range",
+        "url": "https://360rumors.com/best-tripod-360-cameras/",
+        "quote": "The legs are independently adjustable, from 9 inches to 18.5 inches"
+      }
+    ],
+    "videos": [
+      {
+        "id": "61D103hgv0U",
+        "title": "The Best And Worst Selfie Sticks For 360 Cameras (Ranked)",
+        "channel": "Ben Claremont",
+        "url": "https://www.youtube.com/watch?v=61D103hgv0U",
+        "section": "The 5 best Insta360 X5 tripod picks, reviewed"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Insta360 2-in-1 Invisible Selfie Stick + Tripod",
+        "pages": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+          "https://www.insta360.com/blog/tips/best-selfie-stick.html",
+          "https://www.reddit.com/r/Insta360/comments/1r1uy1a/which_tripod_is_works_for_me/"
+        ]
+      },
+      {
+        "name": "Insta360 All-Purpose Tripod",
+        "pages": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://store.insta360.com/product/all_purpose_tripod",
+          "https://www.youtube.com/watch?v=eO9zQlxbT38",
+          "https://www.reddit.com/r/Insta360/comments/1bl1333/insta360_tripod/"
+        ]
+      },
+      {
+        "name": "K&F Concept 66\" 2-in-1 Invisible Selfie Stick Tripod",
+        "pages": [
+          "https://www.ebay.com/shop/insta360-tripod?_nkw=insta360+tripod",
+          "https://www.reddit.com/r/Insta360/comments/1pt4kmb/looking_for_the_best_selfie_stick_tripod_and/",
+          "https://www.reddit.com/r/Insta360/comments/1szm3hq/anyone_tried_both_foldable_selfie_sticks/",
+          "https://www.youtube.com/watch?v=7xRTG9x_6IQ"
+        ]
+      },
+      {
+        "name": "Best360 Monopod (Aluminium / Pro Carbon Fiber Edition)",
+        "pages": [
+          "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras"
+        ]
+      },
+      {
+        "name": "MT-03 tripod legs (Koolehaoda MT-03; Leofoto MT-03 is the same design)",
+        "pages": [
+          "https://360rumors.com/best-tripod-360-cameras/",
+          "https://www.reddit.com/r/Insta360/comments/xe8o72/tripod_suggestion_attach_selfie_stick_to_it_x3/",
+          "https://www.reddit.com/r/Insta360/comments/15zx163/looking_for_insta360_x3_small_tripod/"
+        ]
+      },
+      {
+        "name": "Insta360 Throwpod",
+        "pages": [
+          "https://www.benclaremont.com/blog/the-best-and-worst-selfie-sticks-for-insta360-cameras",
+          "https://store.insta360.com/product/throwpod"
+        ],
+        "note": "left out: Ben Claremont rates it 2/10 for its drop-to-deploy design"
+      },
+      {
+        "name": "Mechrig / VRIG / Pellking tripods",
+        "pages": [
+          "https://www.youtube.com/watch?v=lNsy3zqep3M"
+        ],
+        "note": "left out: only one top-10 page"
+      }
+    ],
+    "textrazor": {
+      "keyword": "best tripod for insta360 x5",
+      "pagesAnalyzed": 3,
+      "sharedEntities": [
+        {
+          "entity": "Selfie stick",
+          "type": "/business/product_category",
+          "pages": 3,
+          "relevance": 0.93,
+          "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
+          "wikidata": "Q18387942",
+          "kgmid": "/m/012c5w0g"
+        },
+        {
+          "entity": "Camera",
+          "type": "/fictional_universe/character_species",
+          "pages": 3,
+          "relevance": 0.57,
+          "wiki": "http://en.wikipedia.org/wiki/Camera",
+          "wikidata": "Q15328",
+          "kgmid": "/m/0dv5r"
+        },
+        {
+          "entity": "Monopod",
+          "type": "",
+          "pages": 3,
+          "relevance": 0.56,
+          "wiki": "http://en.wikipedia.org/wiki/Monopod",
+          "wikidata": "Q1306072",
+          "kgmid": "/m/047sxn"
+        },
+        {
+          "entity": "Selfie",
+          "type": "",
+          "pages": 3,
+          "relevance": 0.51,
+          "wiki": "http://en.wikipedia.org/wiki/Selfie",
+          "wikidata": "Q12068677",
+          "kgmid": "/m/0sgh53y"
+        },
+        {
+          "entity": "Insta360",
+          "type": "Agent",
+          "pages": 2,
+          "relevance": 0.88,
+          "wiki": "http://en.wikipedia.org/wiki/Insta360",
+          "wikidata": "Q48147014"
+        }
+      ],
+      "errors": [
+        "https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-aWIEIgubzh1KgTafuxaHOa&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"aWIEIgubzh1KgTafuxaHOa\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: '76GmwJACi4RFhPcxnZQWuQFhKEwwrGcYLtgqIibiphQ-1793901050-1.2.1.1-yVuakqkWvZ69vMTmIG3w_Eqb4tZ.tiiCRdj4tXnlYTpzAUSgN8HC7REeKn4u9dlk',cITimeS: '1793901050',cN: 'aWIEIgubzh1KgTafuxaHOa',cRay: 'a55db3feef75397a',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/blog/tips/insta360-which-invisible-selfie-stick.html?__cf_chl_tk=1QxGRlS9gIrjYGvCLnDqgRip1amIVfu_UQsjP714eSE-1793901050-1.0.1.1-XRhg9DP3LYEkoXbM58aSZ9CjgxKSK9mI6GklsaB1K6s\",cvId: '3',cZone: 'www.insta360.com',fa:\"/blog/tips/insta360-which-invisible-selfie-stick.html?__cf_chl_f_tk=1QxGRlS9gIrjYGvCLnDqgRip1amIVfu_UQsjP714eSE-1793901050-1.0.1.1-XRhg9DP3LYEkoXbM58aSZ9CjgxKSK9mI6GklsaB1K6s\",md: 'XioFMf.VdjAThdOswMneWxWji68ybWkbBdw9uIUgf3s-1793901050-1.2.1.1-N.zvQPCXcC1xMz0ja_5MPdYHc_93QFEMsxSYdYstLMctX8vaT.vdV9A1whBaxXu.o0iuSyGjwwzXtRj34RHZ_L6cvsM3dfM6l6ArCq53pwjMRM0QhQVigRvCppt7r.vbqyBN72h4MnkmHBHVIQzcVUHULqjrs1lizwLg4gry99UiiBFyqzkNQiWIsne0MSRCNJIsCqotvpOcqcIfcPDE2tTyaWfgqPY9na8f0JhslN9rggMjeTo32vFtHzbYstZ4aiKdeY3OcR2nuJIeAeT6QaiTdoXlz.NQ3JkL2D7v.X3VsknlM.Q5OBNTigL_ArrcDcOkPw4OQgBWJQK.Ohrbu5a7cKIREPj3L_D2hQacxi0tI_djv1D.GnvD3diChjHBGYQcPU_PYENYcatZ5_TI7IXoST6nTu1bJw6LuQid7BtNOqUTgv0v4RHySait8uq.sOLsiNS_eZ71XuqrjmWYJWGW6moB.rA3.Cz1rX4HIgZc70A60Bw94OUGjcuiXF9o_0Ce8j_wrRTMxuhG4xHWvbqtQuNUpOhiMlLHXgFt65GiKEa.hmLkFed1Kr3FgYDKQd.v3eW6MJBRvKeoegpk6WzMiYnMaER1tZ6vn1rTVpJ3FATNI2H846DNCHcSSHNo3Rjcppa6eiAwsEP.swjXX39i_z2wqM9ANudXBHoGquGMnyBplQq6SvKdcG9lMgD3AC.XnoPsOcbx.IocjANTM5Wrgeohxl9De470j1MurtMBbmJoVz0zp8t3AeWr8I00bRagvnLM35F5050fSoDiYxxoqBJX5pGD5KqrWldpNQyqOqzEqMivB95uLijGZoT16RKlRv_zd6n.rdPDY8_0ghBYiU5QaM_q1LM1PayEwSg5Ecy2x.dryaYxplI6qN9CA.z9l14mVeOX3.odQNM8qzoExxqPn6oL3KN0L3RPA3k7npIx2GkOFqICOXDvpnZMwLQrJhKwktLcjJRSpztN_PCpwGYSqqLekrAM2KR7FUCrHlzJoKXdosdPneD2B2yrjBgphHfl2VzWlMC5G7qTE4JK._6RdI21ThVEHejXpFnft5pxdcLt4ZaFH_qdpw4CDniT_V2GuRofDjUBSc_BxotiK6E4CYsCQ9p8N1cuZwqxQEzXlMLoRCapIi6Rrx8iF6kEKNwF9mC2lrKxJxXcaw',mdrd: 'DDjfvd4gtVIvIK0CSqqcngJ7RG2TaOwXmXvxCrq.Q5c-1793901050-1.2.1.1-LT5zaAVGVVeNLpTLco6uyDlgWHnFcJW3aRqU7TNeV8peXSGx7aNrSa5gDlG6NWeU_CO626UWFKFeIXEiV6EbkpTPKNw5N0FHJgYyKdwduM8MPS9dOW1JFumGkbtdmM3Kk_H.YY3.ywmiIWziCp0iqHVs8OPYblI0PnJF8guRQgABloa_JScraRak66YhwogR_sqcdoxKVFwSV7PfgIyx21CXOu8nhPL_EFTWtiGUwyjUb9..D3hGjZy8ED3aOh1ftJht7KI0jGaYMcuLAUKJTQ',};var a = document.createElement('script');a.nonce = 'aWIEIgubzh1KgTafuxaHOa';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a55db3feef75397a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/blog/tips/insta360-which-invisible-selfie-stick.html?__cf_chl_rt_tk=1QxGRlS9gIrjYGvCLnDqgRip1amIVfu_UQsjP714eSE-1793901050-1.0.1.1-XRhg9DP3LYEkoXbM58aSZ9CjgxKSK9mI6GklsaB1K6s\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+        "https://www.insta360.com/blog/tips/best-selfie-stick.html: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-TjopdUObnwK34vns61wLNc&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"TjopdUObnwK34vns61wLNc\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'ppsZ0aolcl7oHM44YrInHzUXGeaE8tauYzC8vP7DFqE-1793901052-1.2.1.1-i0b3BJE_FJELXjDWXlQYHDJi7nuSVa5TJ5bgYoPO68_mjal_t7kOxUQRSLkk2L6X',cITimeS: '1793901052',cN: 'TjopdUObnwK34vns61wLNc',cRay: 'a55db40998ea1e81',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/blog/tips/best-selfie-stick.html?__cf_chl_tk=ef9rn0KCd4Ag7fOuX10_YnthFjXxxBWjn3BN1XgX7uE-1793901052-1.0.1.1-W4spieQ.dBhWAkhctOylTQWFhISNlj6vvJTWoLmEQMU\",cvId: '3',cZone: 'www.insta360.com',fa:\"/blog/tips/best-selfie-stick.html?__cf_chl_f_tk=ef9rn0KCd4Ag7fOuX10_YnthFjXxxBWjn3BN1XgX7uE-1793901052-1.0.1.1-W4spieQ.dBhWAkhctOylTQWFhISNlj6vvJTWoLmEQMU\",md: '3I35b2qWMjSJXr6WgRhT9hp41.XW_bLGfP97tPwuWWQ-1793901052-1.2.1.1-7NbyR2rK_vOeYV44Pj2RjgIhwfRWA1Lh3jnx2jggC2YSLSQuQIzrG_SmAHhseu3IVUSRXrnURW5ThnsmPBYnI5fo1YvXobkpVdCtoOfezZpRkJl224OGSuGgB0soPGRyAQYsL8aBJKnBWN.E4P.QmaAsCpDDdvIkshfT1lwrS7JNhb149XPMLUHNLIaT39nUDYPa6a5nK4evXewgs_0_QtRG7WKvQ1RCyY26egS7gGtl5AbtnKLH_sPDwTFt2lS4rAxTxz8rm.a1.pDoO6vUuwzjvFutelaZ2HGSjX0CdBViWAyUMUvNbOep.QW8wgZxKqSVZOSmABmW7Jq6raWjFXYH4fSx60H2sQR21PscH3gHvjdtiasnXnF5USaSvfMwKcsP_bOeGTQrBqApY2Y2c0WlsMOSGLrFsFak_jL4NrDPgdj0Qih09DoknyR1EhEjsIgTACY2wiyQQ81.um3FPrUTtRr87BX2Mpu.kPQbRkajM3dOVHQvpz9ojDrieFHljsIdzUdzo5QUrJ8eMX28AbRUJI2z3eFMzqs8B1p790emVuSmLMlKjG2wt8In8vleutNFf9in0FpK4mGDgJvzN9AoVZaGpDys_7EbDag5g1vM6aRZNb2sezKMwxDHoxFoBgTfqO3TKw7xdYAIQ2FI.O_lfloDNhGkQltYnnJVkALF92NH3Fj1X0aGyd3g0_jfHWV9MsszSuqO.m2A4gJdHxTYoYeD9plgggFCCZWxvsCWQFksJlGMReCjWz97NiHu_sjjlrAiVcn894bD47qDE10YfHUfxZCYXCDRpo3z0Yvgra7yAesvFn6IORhL6j2MQtxlFeYcLXx0L4shvuXHbIChxfu5OIw_LCX5QlH.OKRXeaUWN.X3zB_Z68wOQ.x7BYbh1dD3gwaRdsxnheDSmtzLFBypJM4Nt.u6m2QZUKBOUTZnzI6KhrCL.fNyiiQCnD3D_gLrGEkUGsUxV0az0rGqtuwHQ9ukuYxrFLoYr1deASEbzxSPlID_P8Qqo4Ne8XQ5aYBgvldF5F86YfV8uce_cQ6XOg5O7XfJgGkUM2OfeS5tTpfL6jOHCjm4YmGeg0JATmJfv9FeTGRJpxHkschbjTg4ioggFKcp7tUNQ4XOhuzV9Fyit30q0Udmdk40',mdrd: '8yt5sYkU0xBut5C2qfKqphtJiwPLrGVgpxjmpzQjm5g-1793901052-1.2.1.1-uT4bwwYMNGqcpB6zPAGR6AsmBPNqsb_hkkfevbZkqF1x30jtCSB3hJXXxz2MwAZeZfZvAKm1xg6OdOtapTvPmnqUmtpCQ5R_5ztgsQcr_LytMwanqLTH4GjmnKmhnKSFdxf5qCP5QUwQTF6VKsuSayfEA.JEg8bJy.DXdwitufKn9HmzZfpdfrZ8gmffSg3D3CVre.ba4odf87HBcBZNpojR6YJksEN.xNgOOL55yjEdZMR_AbG63FpJBmC5S9xBptTvqcb298mVg2bG7IT6.g',};var a = document.createElement('script');a.nonce = 'TjopdUObnwK34vns61wLNc';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a55db40998ea1e81';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/blog/tips/best-selfie-stick.html?__cf_chl_rt_tk=ef9rn0KCd4Ag7fOuX10_YnthFjXxxBWjn3BN1XgX7uE-1793901052-1.0.1.1-W4spieQ.dBhWAkhctOylTQWFhISNlj6vvJTWoLmEQMU\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+      ]
+    },
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-gopro",
+        "find": "It is built for 360 footage but fits every GoPro.",
+        "replace": "It is built for 360 footage (our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/) cover 360 cameras) but fits every GoPro."
+      },
+      {
+        "slug": "best-tripod-for-dji-osmo-action-5-pro",
+        "find": "If you also shoot an Ace Pro 2, one stick serves both.",
+        "replace": "If you also shoot an Ace Pro 2, one stick serves both, and it heads our [Insta360 X5 tripod list](/blog/best-tripod-for-insta360-x5/) too."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-dji-osmo-pocket-3",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-dji-osmo-action-5-pro",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    }
+  ]
+}

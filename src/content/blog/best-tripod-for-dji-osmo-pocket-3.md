@@ -431,10 +431,10 @@ faqs:
       steady the legs, so keep the center column down.
 author: editorial-team
 related:
+  - best-tripod-for-insta360-x5
   - best-tripod-for-ricoh-gr-iii
   - best-tabletop-camera-tripod
   - best-tripod-for-dji-osmo-action-5-pro
-  - best-tripod-for-gopro
 videos:
   - id: E9QMORgPLLY
     afterHeading: 3
