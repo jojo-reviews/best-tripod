@@ -1,0 +1,665 @@
+{
+  "keyword": "best tripod for crossbow",
+  "createdAt": "2026-11-05T17:57:40.553Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "crossbow tripod",
+    "entityVariants": [
+      "tripod for crossbow",
+      "tripod for a crossbow",
+      "crossbow shooting rest",
+      "crossbow shooting sticks",
+      "crossbow tripod rest",
+      "tripod for Ravin crossbow"
+    ],
+    "entities": [
+      {
+        "name": "rifle",
+        "type": "/book/book_subject",
+        "relation": "TextRazor shared entity \"Rifle\" on 5 of 5 top pages",
+        "salience": 0.58,
+        "pages": 5
+      },
+      {
+        "name": "hunting",
+        "type": "/interests/hobby",
+        "relation": "TextRazor shared entity \"Hunting\" on 4 of 5 top pages",
+        "salience": 0.77,
+        "pages": 4
+      },
+      {
+        "name": "gun clamp",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Weapon mount\" on 4 of 5 top pages",
+        "salience": 0.69,
+        "pages": 4
+      },
+      {
+        "name": "crossbow",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Crossbow\" on 4 of 5 top pages",
+        "salience": 0.54,
+        "pages": 4
+      },
+      {
+        "name": "crossbow tripod",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Tripod\" on 3 of 5 top pages",
+        "salience": 0.93,
+        "pages": 3
+      },
+      {
+        "name": "shooting",
+        "type": "/event/disaster_type",
+        "relation": "TextRazor shared entity \"Shooting\" on 3 of 5 top pages",
+        "salience": 0.69,
+        "pages": 3
+      },
+      {
+        "name": "tripod head",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Tripod (photography)\" on 3 of 5 top pages",
+        "salience": 0.65,
+        "pages": 3
+      },
+      {
+        "name": "shooting sports",
+        "type": "Activity",
+        "relation": "TextRazor shared entity \"Shooting sports\" on 3 of 5 top pages",
+        "salience": 0.54,
+        "pages": 3
+      },
+      {
+        "name": "shooting range",
+        "type": "/architecture/building_function",
+        "relation": "TextRazor shared entity \"Shooting range\" on 3 of 5 top pages",
+        "salience": 0.31,
+        "pages": 3
+      },
+      {
+        "name": "carbon fiber",
+        "type": "/projects/project_focus",
+        "relation": "TextRazor shared entity \"Carbon-fiber reinforced polymer\" on 2 of 5 top pages",
+        "salience": 0.67,
+        "pages": 2
+      },
+      {
+        "name": "hogs",
+        "type": "Species",
+        "relation": "TextRazor shared entity \"Pig\" on 2 of 5 top pages",
+        "salience": 0.5,
+        "pages": 2
+      },
+      {
+        "name": "bow",
+        "type": "Device",
+        "relation": "TextRazor shared entity \"Bow and arrow\" on 2 of 5 top pages",
+        "salience": 0.4,
+        "pages": 2
+      },
+      {
+        "name": "gun",
+        "type": "/law/invention",
+        "relation": "TextRazor shared entity \"Gun\" on 2 of 5 top pages",
+        "salience": 0.39,
+        "pages": 2
+      },
+      {
+        "name": "shotgun",
+        "type": "Device",
+        "relation": "TextRazor shared entity \"Shotgun\" on 2 of 5 top pages",
+        "salience": 0.35,
+        "pages": 2
+      },
+      {
+        "name": "trigger",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Trigger (firearms)\" on 2 of 5 top pages",
+        "salience": 0.33,
+        "pages": 2
+      },
+      {
+        "name": "scope",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Telescopic sight\" on 2 of 5 top pages",
+        "salience": 0.32,
+        "pages": 2
+      },
+      {
+        "name": "aluminum",
+        "type": "ChemicalSubstance",
+        "relation": "TextRazor shared entity \"Aluminium\" on 2 of 5 top pages",
+        "salience": 0.32,
+        "pages": 2
+      },
+      {
+        "name": "deer hunting",
+        "type": "/business/consumer_product",
+        "relation": "TextRazor shared entity \"Deer hunting\" on 2 of 5 top pages",
+        "salience": 0.27,
+        "pages": 2
+      },
+      {
+        "name": "benchrest",
+        "type": "Activity",
+        "relation": "TextRazor shared entity \"Benchrest shooting\" on 2 of 5 top pages",
+        "salience": 0.25,
+        "pages": 2
+      },
+      {
+        "name": "bipod",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Bipod\" on 2 of 5 top pages",
+        "salience": 0.25,
+        "pages": 2
+      },
+      {
+        "name": "bubble level",
+        "type": "concept",
+        "relation": "TextRazor shared entity \"Spirit level\" on 2 of 5 top pages",
+        "salience": 0.23,
+        "pages": 2
+      }
+    ],
+    "attributes": [
+      "height range (seated ground blind vs standing)",
+      "weight",
+      "folded length",
+      "rest type (clamp vs V/U yoke)",
+      "clamp jaw width for wide or narrow forends",
+      "leg locks (lever, flip, trigger)",
+      "pan and tilt with tension",
+      "bubble level",
+      "footprint in a ground blind",
+      "limb and string clearance",
+      "load rating (BOG carbon grip up to 20 lb)"
+    ],
+    "ngrams": [
+      "crossbow tripod",
+      "shooting rest",
+      "ground blind",
+      "shooting sticks",
+      "gun clamp",
+      "V yoke",
+      "U yoke",
+      "hands-free",
+      "bubble level",
+      "carbon fiber",
+      "height range",
+      "trigger stick",
+      "treestand",
+      "standing shot"
+    ],
+    "skipgrams": [
+      "crossbow…clamp",
+      "ground…blind…floor space",
+      "yoke…string",
+      "legs…height",
+      "clamp…forend",
+      "tripod…seated"
+    ],
+    "nlpTerms": [
+      "whitetail",
+      "turkey",
+      "youth hunter",
+      "box blind",
+      "spot and stalk",
+      "pan tension",
+      "cant",
+      "forend",
+      "limbs",
+      "rail",
+      "string travel",
+      "sight in",
+      "bolt",
+      "scope",
+      "window height"
+    ],
+    "questions": [
+      {
+        "q": "Can you use a camera tripod for a crossbow?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "clamp",
+          "3/8 thread",
+          "ball head",
+          "weight rating"
+        ]
+      },
+      {
+        "q": "Is a clamp or a yoke better for a crossbow?",
+        "maps": "Crossbow tripod clamp or yoke",
+        "answerTerms": [
+          "hands-free",
+          "clamp",
+          "V yoke",
+          "lift off",
+          "string"
+        ]
+      },
+      {
+        "q": "How tall should a crossbow tripod be in a ground blind?",
+        "maps": "Crossbow tripod height for a ground blind",
+        "answerTerms": [
+          "seated",
+          "window",
+          "25 to 40 in",
+          "standing"
+        ]
+      },
+      {
+        "q": "Does a tripod work for a Ravin crossbow?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "forend",
+          "clamp",
+          "rail",
+          "width"
+        ]
+      },
+      {
+        "q": "Is a tripod better than a monopod or bipod for a crossbow?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "monopod",
+          "bipod",
+          "tripod",
+          "stable"
+        ]
+      },
+      {
+        "q": "How do I mount a crossbow on a tripod safely?",
+        "maps": "How to set a crossbow on a tripod safely",
+        "answerTerms": [
+          "forend",
+          "limbs",
+          "string",
+          "clamp",
+          "level"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "Seated ground-blind height vs standing height matched to each pick",
+      "Clamp vs yoke decision for crossbows (hands-free wait vs fast lift-off)",
+      "Limb and string clearance when clamping a crossbow",
+      "Footprint in a small ground blind",
+      "Owner fixes for a crossbow that tips nose-up in the clamp"
+    ],
+    "outline": [
+      {
+        "h2": "Crossbow tripod comparison by height, weight and rest type",
+        "intent": "comparison table",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for a crossbow, pick by pick",
+        "intent": "product write-ups",
+        "h3": [
+          "BOG DeathGrip Hunting Tripod",
+          "BOG DeathGrip Carbon Fiber Hunting Tripod",
+          "TenPoint Axis Tripod",
+          "Primos Trigger Stick Gen3 Tall Tripod",
+          "Vanguard Quest T62U Shooting Stick",
+          "Which crossbow tripod should you get"
+        ]
+      },
+      {
+        "h2": "Crossbow tripod clamp or yoke: which holds a crossbow better?",
+        "intent": "decision",
+        "h3": []
+      },
+      {
+        "h2": "Crossbow tripod height for a ground blind or standing shot",
+        "intent": "analysis",
+        "h3": []
+      },
+      {
+        "h2": "How to set a crossbow on a tripod safely",
+        "intent": "how-to steps",
+        "h3": []
+      },
+      {
+        "h2": "Crossbow tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these crossbow tripods",
+        "intent": "method",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://crossbowmagazine.com/crossbow-shooting-rests/",
+        "https://www.americanfirearms.org/best-shooting-tripods/",
+        "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+        "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+        "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+        "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+        "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Crossbow Magazine and American Firearms list features or pros and cons per product; Field & Stream uses pros/cons lists.",
+      "avgWords": 2650,
+      "avgProducts": 7,
+      "commonSections": [
+        "why use a shooting rest",
+        "product picks with best-for labels",
+        "buying guide (height, weight, materials, head type)",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true,
+      "note": "avgWords from the five editorial pages (Crossbow Magazine ~1,900, American Firearms ~7,000, Top Firearm Reviews ~1,700, Field & Stream ~2,120, Shooting Sports Retailer ~550)."
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.tenpointcrossbows.com/product-category/crossbow-accessories/shooting-tripod-and-monopods/",
+        "title": "Shooting Tripods & Monopods - TenPoint Crossbows"
+      },
+      {
+        "position": 2,
+        "url": "https://www.amazon.com/Shooting-Adjustable-Professional-Accessories-Equipment/dp/B0G4Q95XHJ",
+        "title": "Shooting Tripod Stand for Rifle & Crossbow Hunting,Adjustable Gun ..."
+      },
+      {
+        "position": 3,
+        "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+        "title": "Best Crossbow Tripod???"
+      },
+      {
+        "position": 4,
+        "url": "https://www.boghunt.com/pods/tripods/deathgrip-tripod/1099442_M.html",
+        "title": "DeathGrip® Tripod | Bog"
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/groups/277799462619582/posts/2544064132659759/",
+        "title": "Looking for recommendations on a good tripod for crossbow. - Facebook"
+      },
+      {
+        "position": 6,
+        "url": "https://crossbowmagazine.com/crossbow-shooting-rests/",
+        "title": "Top Picks For A Crossbow Shooting Rest"
+      },
+      {
+        "position": 7,
+        "url": "https://www.americanfirearms.org/best-shooting-tripods/",
+        "title": "Best Shooting Tripods: Hunting & Precision Game Changers"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=ailqtLdhZvI",
+        "title": "Axis Tripod by Tenpoint Crossbow #deerhunting - YouTube"
+      },
+      {
+        "position": 9,
+        "url": "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+        "title": "The Best Gun/Crossbow Tripod? BOG DeathGrip Carbon Fiber"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=WPiA4rsDfR8",
+        "title": "Ten Point Axis Tripod #crossbows - YouTube"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "crossbow tripod",
+        "shooting rest",
+        "DeathGrip",
+        "best"
+      ],
+      "gap": "No top title sorts crossbow tripods by seated ground-blind height vs standing height or by clamp vs yoke."
+    },
+    "commonPoints": [
+      "A rest steadies a crossbow and saves arm fatigue while waiting for a shot",
+      "The BOG DeathGrip is the default clamp tripod for blinds",
+      "Primos Trigger Sticks are the fast option for moving hunters",
+      "Carbon legs save weight over aluminum but cost more",
+      "Many crossbow rests also hold a rifle"
+    ],
+    "ourGain": [
+      {
+        "type": "decision",
+        "point": "Clamp vs yoke chooser: clamp for a hands-free wait (youth hunters, long sits), yoke when you must lift the crossbow off fast",
+        "source": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+        "absentFrom": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+          "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Height bands from maker specs: Axis 25-40 in is seated-only, DeathGrip 7-59 in covers floor to standing, Primos and Quest reach 62 in",
+        "source": "https://www.tenpointcrossbows.com/product/axis-tripod/",
+        "absentFrom": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+          "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Crossbow tips nose-up in the clamp (butt-heavy): clamp at the balance point and set tilt tension",
+        "source": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+        "absentFrom": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+          "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Ground-blind floor space: the Axis uses under half the floor space of competitors; owners say the DeathGrip is hard to fit in a small blind",
+        "source": "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/",
+        "absentFrom": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+          "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "crossbow-tripod-blind-bulk",
+        "pain": "A full-size clamp tripod is too heavy and bulky for a small ground blind",
+        "details": "Crossbow hunters say the BOG DeathGrip is solid but heavy, and its leg spread crowds a small blind.",
+        "sources": [
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+          "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/"
+        ],
+        "quotes": [
+          {
+            "text": "Definitely built like a tank, but it's pretty heavy.",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          },
+          {
+            "text": "in a smaller blind can see it being difficult.",
+            "url": "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/"
+          }
+        ]
+      },
+      {
+        "id": "crossbow-tripod-nose-up",
+        "pain": "A butt-heavy crossbow pivots nose-up in the clamp",
+        "details": "Owners report the crossbow swinging to point skyward when the head tension is loose or the clamp sits off the balance point.",
+        "sources": [
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+        ],
+        "quotes": [
+          {
+            "text": "my xbow acts butt heavy n then likes to point to the sky",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          }
+        ]
+      },
+      {
+        "id": "crossbow-tripod-string-clearance",
+        "pain": "A rifle yoke or clamp can interfere with the crossbow string or limbs",
+        "details": "Rifle yokes that are too long or wide can sit in the string path or touch the limbs.",
+        "sources": [
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ],
+        "quotes": [
+          {
+            "text": "the yoke could interfere with crossbow string travel, with is very dangerous.",
+            "url": "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests"
+          }
+        ]
+      },
+      {
+        "id": "crossbow-tripod-clamp-fit",
+        "pain": "The clamp does not close tight enough on narrow forends or lets the bow lift off slowly",
+        "details": "Axis owners report the clamp not closing tight on some weapons; others want a yoke so they can lift the bow off fast.",
+        "sources": [
+          "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+        ],
+        "quotes": [
+          {
+            "text": "the Deathgrip having the weapon secured by clamping jaws will not allow me to do that.",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "8.5 lbs",
+        "claim": "BOG DeathGrip aluminum weight",
+        "url": "https://www.boghunt.com/pods/tripods/deathgrip-tripod/1099442_M.html",
+        "quote": "Weight: 8.5 lbs for Aluminum"
+      },
+      {
+        "number": "25\" and extends to 40\"",
+        "claim": "TenPoint Axis height range",
+        "url": "https://www.tenpointcrossbows.com/product/axis-tripod/",
+        "quote": "Collapses to 25\" and extends to 40\""
+      },
+      {
+        "number": "2.2 lbs",
+        "claim": "Vanguard Quest T62U weight",
+        "url": "https://www.vanguardworld.com/collections/support-system/products/quest-t62u",
+        "quote": "Weight 2.2 lbs."
+      }
+    ],
+    "videos": [
+      {
+        "id": "BVnYPiTbZnY",
+        "title": "Best Rests for Crossbow Hunting",
+        "channel": "Deer and Deer Hunting",
+        "url": "https://www.youtube.com/watch?v=BVnYPiTbZnY",
+        "section": "Crossbow tripod clamp or yoke: which holds a crossbow better?"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "BOG DeathGrip Hunting Tripod (aluminum)",
+        "pages": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+        ]
+      },
+      {
+        "name": "BOG DeathGrip Carbon Fiber Hunting Tripod",
+        "pages": [
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/"
+        ]
+      },
+      {
+        "name": "Primos Trigger Stick Gen3 Tall Tripod",
+        "pages": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods"
+        ]
+      },
+      {
+        "name": "TenPoint Axis Tripod",
+        "pages": [
+          "https://crossbowmagazine.com/crossbow-shooting-rests/",
+          "https://www.facebook.com/groups/277799462619582/posts/2544064132659759/",
+          "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/"
+        ]
+      },
+      {
+        "name": "Vanguard Quest T62U Shooting Stick",
+        "pages": [
+          "https://www.americanfirearms.org/best-shooting-tripods/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests"
+        ]
+      }
+    ],
+    "textrazor": {
+      "file": "data/briefs/best-tripod-for-crossbow.entities.json",
+      "pagesAnalyzed": 5,
+      "pages": [
+        "https://crossbowmagazine.com/crossbow-shooting-rests/",
+        "https://www.americanfirearms.org/best-shooting-tripods/",
+        "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+        "https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/",
+        "https://www.topfirearmreviews.com/post/best-tripods-for-shooting"
+      ]
+    },
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-hunting",
+        "find": "The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, crossbows and sighting in, and one praises fast customer service when a part was missing.",
+        "replace": "The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, as a [tripod for a crossbow](/blog/best-tripod-for-crossbow/) and for sighting in, and one praises fast customer service when a part was missing."
+      },
+      {
+        "slug": "best-tripod-for-binoculars",
+        "find": "It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain.",
+        "replace": "It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain, where it doubles as my [crossbow tripod for blinds](/blog/best-tripod-for-crossbow/)."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    }
+  ]
+}

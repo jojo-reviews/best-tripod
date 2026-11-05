@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:38:23.071Z",
+  "updatedAt": "2026-11-05T17:58:04.942Z",
   "categories": {
     "camera-tripods": [
       {
@@ -3917,6 +3917,132 @@
           "best-tripod-for-headshots"
         ],
         "foundAt": "2026-11-04"
+      },
+      {
+        "id": "crossbow-tripod-blind-bulk",
+        "pain": "A full-size clamp tripod is too heavy and bulky for a small ground blind",
+        "details": "Crossbow hunters say the BOG DeathGrip is solid but heavy, and its leg spread crowds a small blind.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+            "platform": "forum",
+            "title": "Best Crossbow Tripod???",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/",
+            "platform": "forum",
+            "title": "Tenpoint axis tripod vs xl tripod",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Definitely built like a tank, but it's pretty heavy.",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          },
+          {
+            "text": "in a smaller blind can see it being difficult.",
+            "url": "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/"
+          }
+        ],
+        "keywords": [
+          "best tripod for crossbow"
+        ],
+        "answeredBy": [
+          "best-tripod-for-crossbow"
+        ]
+      },
+      {
+        "id": "crossbow-tripod-nose-up",
+        "pain": "A butt-heavy crossbow pivots nose-up in the clamp",
+        "details": "Owners report the crossbow swinging to point skyward when the head tension is loose or the clamp sits off the balance point.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+            "platform": "forum",
+            "title": "Best Crossbow Tripod???",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "my xbow acts butt heavy n then likes to point to the sky",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          }
+        ],
+        "keywords": [
+          "best tripod for crossbow"
+        ],
+        "answeredBy": [
+          "best-tripod-for-crossbow"
+        ]
+      },
+      {
+        "id": "crossbow-tripod-string-clearance",
+        "pain": "A rifle yoke or clamp can interfere with the crossbow string or limbs",
+        "details": "Rifle yokes that are too long or wide can sit in the string path or touch the limbs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests",
+            "platform": "article",
+            "title": "3 Proven Crossbow Shooting Rests",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://fieldandstream.com/outdoor-gear/hunting-gear/best-hunting-tripods",
+            "platform": "article",
+            "title": "The 5 Best Hunting Tripods",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the yoke could interfere with crossbow string travel, with is very dangerous.",
+            "url": "https://www.shootingsportsretailer.com/archery-business/3-proven-crossbow-shooting-rests"
+          }
+        ],
+        "keywords": [
+          "best tripod for crossbow"
+        ],
+        "answeredBy": [
+          "best-tripod-for-crossbow"
+        ]
+      },
+      {
+        "id": "crossbow-tripod-clamp-fit",
+        "pain": "The clamp does not close tight enough on narrow forends or lets the bow lift off slowly",
+        "details": "Axis owners report the clamp not closing tight on some weapons; others want a yoke so they can lift the bow off fast.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.crossbownation.com/threads/tenpoint-axis-tripod-vs-xl-tripod.159465/",
+            "platform": "forum",
+            "title": "Tenpoint axis tripod vs xl tripod",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/",
+            "platform": "forum",
+            "title": "Best Crossbow Tripod???",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the Deathgrip having the weapon secured by clamping jaws will not allow me to do that.",
+            "url": "https://www.crossbownation.com/threads/best-crossbow-tripod.128362/"
+          }
+        ],
+        "keywords": [
+          "best tripod for crossbow"
+        ],
+        "answeredBy": [
+          "best-tripod-for-crossbow"
+        ]
       }
     ],
     "monopods": [
@@ -6382,6 +6508,280 @@
         "keywords": [
           "best tripod for recording school plays"
         ]
+      },
+      {
+        "id": "video-tripods-xbotgo-camera-out-of-reach",
+        "pain": "At 13 ft the XbotGo camera is out of reach to switch on or adjust",
+        "details": "XbotGo owners say the tall tripod makes turning the camera on awkward once it is raised.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/XbotGo/rising/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "it is decidedly difficult to turn on the camera when it is an additional 6 feet",
+            "url": "https://www.reddit.com/r/XbotGo/rising/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "xbotgo tripod",
+          "tripod for xbotgo"
+        ],
+        "keywords": [
+          "best tripod for xbotgo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-xbotgo"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-xbotgo-tracking-at-height",
+        "pain": "Tracking struggles when the tripod is set too high or too low",
+        "details": "Owners on a 13 ft tripod report the camera not seeing the whole field or struggling to track.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/SoccerCoachResources/comments/1qwtfnm/xbotgo_falcon_early_adopters/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/XbotGo_Users/comments/1wlia09/help_with_xbotgo_chameleon_for_american_football/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have a 13ft tripod, just as it suggests, but it's really struggling to track.",
+            "url": "https://www.reddit.com/r/XbotGo_Users/comments/1wlia09/help_with_xbotgo_chameleon_for_american_football/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "xbotgo tripod",
+          "tripod for xbotgo"
+        ],
+        "keywords": [
+          "best tripod for xbotgo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-xbotgo"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-tall-stand-wind",
+        "pain": "A tall sideline tripod tips or sways in wind or when a ball hits it",
+        "details": "AI-camera owners weigh tall tripods with sandbags and spread the legs wide on windy days.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/VeoCamera/comments/1g12ib1/tripod_in_the_wind/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.fredmiranda.com/forum/topic/1897628/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "In high winds, set your tripod legs further down than you might think.",
+            "url": "https://www.reddit.com/r/VeoCamera/comments/1g12ib1/tripod_in_the_wind/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "xbotgo tripod",
+          "tripod for xbotgo"
+        ],
+        "keywords": [
+          "best tripod for xbotgo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-xbotgo"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-xbotgo-official-tripod-price",
+        "pain": "The official XbotGo NT4 feels pricey, so owners look for a cheaper 13 ft stand",
+        "details": "Facebook group members ask what cheaper tripods work and are told any 1/4 in tripod of the right height and weight works.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.facebook.com/groups/grassrootsfootballhub/posts/1504352180668772/",
+            "platform": "facebook",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.facebook.com/groups/grassrootsfootballhub/posts/1374781046959220/",
+            "platform": "facebook",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "xbotgo tripod",
+          "tripod for xbotgo"
+        ],
+        "keywords": [
+          "best tripod for xbotgo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-xbotgo"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-prompter-xl-too-heavy",
+        "pain": "The Prompter XL plus camera is too heavy for the tripod people already own",
+        "details": "Owners find the XL with a camera reaches double-digit pounds, more than a travel tripod should hold, and buy a heavy video tripod for it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=8G8ejYZe5XA",
+            "platform": "youtube",
+            "title": "watch?v=8G8ejYZe5XA",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/",
+            "platform": "reddit",
+            "title": "elgato_prompter_xl_desk_stand",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Has anyone come across a desk stand that can support the weight of the elgato prompter xl ?",
+            "url": "https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "elgato prompter xl tripod",
+          "tripod for prompter xl"
+        ],
+        "keywords": [
+          "best tripod for elgato prompter"
+        ],
+        "coveredBy": [
+          "best-tripod-for-elgato-prompter"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-prompter-front-heavy",
+        "pain": "The prompter's front weight makes the rig act heavier and tip the head forward",
+        "details": "The glass and screen sit ahead of the lens, so the head drifts forward unless the plate is balanced.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/",
+            "platform": "reddit",
+            "title": "help_with_tripod_for_elgato_prompter_xl_camera",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.avforums.com/threads/neewer-tp74-tripod.2460980/",
+            "platform": "forum",
+            "title": "neewer-tp74-tripod.2460980",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The full rig is around 9 LB, but because of the prompter XL's front weight, it behaves more like 12–14 LB when mounted.",
+            "url": "https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "elgato prompter xl tripod",
+          "tripod for prompter xl"
+        ],
+        "keywords": [
+          "best tripod for elgato prompter"
+        ],
+        "coveredBy": [
+          "best-tripod-for-elgato-prompter"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-prompter-xl-mount-fit",
+        "pain": "The Prompter XL bracket does not fit some tripod heads or plates",
+        "details": "Owners with sturdy photo tripods struggle to attach the XL's horizontal bracket; a video head with a long plate and both thread sizes solves it.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/elgato/comments/1q4xacp/cstand_or_tripod_recommendation_for_elgato_xl/",
+            "platform": "reddit",
+            "title": "cstand_or_tripod_recommendation_for_elgato_xl",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "having trouble mounting it to our sturdy Benro A2573F Tripod",
+            "url": "https://www.reddit.com/r/elgato/comments/1q4xacp/cstand_or_tripod_recommendation_for_elgato_xl/",
+            "via": "search-excerpt"
+          }
+        ],
+        "searches": [
+          "elgato prompter xl tripod",
+          "tripod for prompter xl"
+        ],
+        "keywords": [
+          "best tripod for elgato prompter"
+        ],
+        "coveredBy": [
+          "best-tripod-for-elgato-prompter"
+        ],
+        "foundAt": "2026-11-05"
+      },
+      {
+        "id": "video-tripods-prompter-desk-shake",
+        "pain": "Desk-mounted prompters shake and drift when the desk is touched",
+        "details": "Arms and clamps drift under the XL's weight, and typing shakes a desk-mounted rig; a floor tripod avoids both.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=hM8d4zA7x98",
+            "platform": "youtube",
+            "title": "watch?v=hM8d4zA7x98",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "elgato prompter xl tripod",
+          "tripod for prompter xl"
+        ],
+        "keywords": [
+          "best tripod for elgato prompter"
+        ],
+        "coveredBy": [
+          "best-tripod-for-elgato-prompter"
+        ],
+        "foundAt": "2026-11-05"
       }
     ],
     "tabletop-mini-tripods": [
@@ -7457,6 +7857,131 @@
         ],
         "keywords": [
           "best tripod for ricoh gr iii"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-tripod-tips-in-wind",
+        "pain": "An Insta360 selfie stick on a small tripod base blows over in a breeze once the stick is extended",
+        "details": "r/Insta360 owners say the All-Purpose Tripod is too light for an extended stick in wind and that the 2-in-1's built-in legs need weighing down outdoors.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/10bhf8b/monopodtripod_recommendations_for_an_x3_to/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/1kr3nie/does_the_selfie_stick_with_inbuilt_tripod_stand/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/11czylv/which_one_to_get_selfie_stick_or_the_selfie_stick/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I can tell you the all-purpose tripod Insta360 sells sucks in high wind when the stick is extended. It's just too light.",
+            "url": "https://www.reddit.com/r/Insta360/comments/10bhf8b/monopodtripod_recommendations_for_an_x3_to/"
+          },
+          {
+            "text": "Make sure to put weights on the base - doesn't take much for the wind to knock it over!",
+            "url": "https://www.reddit.com/r/Insta360/comments/1kr3nie/does_the_selfie_stick_with_inbuilt_tripod_stand/"
+          }
+        ],
+        "keywords": [
+          "insta360 x5 tripod",
+          "best tripod for insta360 x5"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-uneven-ground",
+        "pain": "A built-in tripod base will not stand a stick upright on a slope or uneven ground",
+        "details": "360 Rumors' Mic Ty prefers MT-03 legs because each leg adjusts on its own, keeping the stick vertical on an incline; an r/Insta360 owner says the All-Purpose Tripod also needs a level surface.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://360rumors.com/best-tripod-360-cameras/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/1drwfcx/can_insta360_allpurpose_tripod_bear_weight_of_3m/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It's not stable in any wind at all. And make sure it's on a level surface too.",
+            "url": "https://www.reddit.com/r/Insta360/comments/1drwfcx/can_insta360_allpurpose_tripod_bear_weight_of_3m/"
+          }
+        ],
+        "keywords": [
+          "insta360 x5 tripod",
+          "best tripod for insta360 x5"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-long-stick-flex",
+        "pain": "Long, thin sticks flex or slowly collapse under the X5",
+        "details": "An r/Insta360 owner comparing foldable sticks found the K&F version taller but with flex under the X5; another found vibration let a stick collapse on itself.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/1szm3hq/anyone_tried_both_foldable_selfie_sticks/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/xce4e4/selfie_stick_is_not_staying_extended_and_is/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The selfie stick of the K&F is significantly higher, which is good, however there is flex when mounting the x5.",
+            "url": "https://www.reddit.com/r/Insta360/comments/1szm3hq/anyone_tried_both_foldable_selfie_sticks/"
+          }
+        ],
+        "keywords": [
+          "insta360 x5 tripod",
+          "best tripod for insta360 x5"
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-x5-legs-visible",
+        "pain": "Tripod legs show up at the bottom of 360 shots even though the pole disappears",
+        "details": "Insta360 store reviewers of the All-Purpose Tripod mention it being visible in 360 images; Samir notes its small footprint keeps it less visible than big tripod legs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://store.insta360.com/product/all_purpose_tripod",
+            "platform": "web",
+            "title": "",
+            "seen": "2026-11-05"
+          },
+          {
+            "url": "https://samirsvirtualworld.com/best-selfie-stick-insta360-x5/",
+            "platform": "web",
+            "title": "",
+            "seen": "2026-11-05"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "insta360 x5 tripod",
+          "best tripod for insta360 x5"
         ]
       }
     ],

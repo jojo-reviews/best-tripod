@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-crossbow",
+  "pass": true,
+  "checkedAt": "2026-11-05T17:57:39.531Z",
+  "errors": [],
+  "warnings": [
+    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"TenPoint Axis Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"BOG DeathGrip Carbon Fiber Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Quest T62U Shooting Stick\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after edit: Primos owner quote 'adjusts so fast and silently' is about the Gen 2 Trigger Stick (Crossbow Nation 128362), now attributed to Gen 2. All other specs as in the previous fact check: BOG DeathGrip 8.5 lb, 59 in (boghunt.com); DeathGrip carbon 7.5 lb / 20 lb grip (RealHunters); TenPoint Axis 25-40 in, under 50% floor space (tenpointcrossbows.com), ~4 lb (Crossbow Magazine); Primos Gen3 Tall 24-62 in, ~3.5 lb (primos.com); Vanguard Quest T62U 2.2 lb, 27-62 in, 27.5 in folded (vanguardworld.com); ASINs B07KMPCVMH, B07KMPZTWG, B0CN7YNTV5, B0728HC759, B006LZNOKG in stock on Amazon US.",
+    "at": "2026-11-05T17:57:38.838Z",
+    "hash": "5cddf10e844284fe"
+  }
+}
