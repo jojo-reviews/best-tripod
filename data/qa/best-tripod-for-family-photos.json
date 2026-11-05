@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-family-photos",
   "pass": true,
-  "checkedAt": "2026-11-05T22:09:20.463Z",
+  "checkedAt": "2026-11-05T22:17:02.567Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,13 @@
     "product \"Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html",
+    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/7oi2sx/shooting_my_own_family_portrait_on_a_tripod_with/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/"
   ],
   "factCheck": {
     "verified": true,

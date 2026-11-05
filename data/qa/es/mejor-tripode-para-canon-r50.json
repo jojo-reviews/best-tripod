@@ -2,11 +2,9 @@
   "slug": "es/mejor-tripode-para-canon-r50",
   "lang": "es",
   "translationOf": "best-tripod-for-canon-r50",
-  "pass": false,
-  "checkedAt": "2026-11-03T16:36:15.924Z",
-  "errors": [
-    "English post \"best-tripod-for-canon-r50\" doesn't pass QA, so it can't be translated yet"
-  ],
+  "pass": true,
+  "checkedAt": "2026-11-05T22:24:49.007Z",
+  "errors": [],
   "warnings": [
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the es version once it exists",
     "internal link to the English post /blog/tripod-shake-when-pressing-shutter/; link the es version once it exists",

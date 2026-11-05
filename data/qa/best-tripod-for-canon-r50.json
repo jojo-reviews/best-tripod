@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-r50",
   "pass": true,
-  "checkedAt": "2026-11-05T22:08:48.172Z",
+  "checkedAt": "2026-11-05T22:16:28.353Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Element MII Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,14 @@
     "product \"K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/eos-r50",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
   ],
   "factCheck": {
     "verified": true,

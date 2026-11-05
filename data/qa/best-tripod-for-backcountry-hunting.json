@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-backcountry-hunting",
   "pass": true,
-  "checkedAt": "2026-11-05T22:12:23.567Z",
+  "checkedAt": "2026-11-05T22:16:14.585Z",
   "errors": [],
   "warnings": [
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,9 @@
     "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/"
   ],
   "factCheck": {
     "verified": true,
