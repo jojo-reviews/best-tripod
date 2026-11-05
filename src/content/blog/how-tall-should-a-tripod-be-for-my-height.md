@@ -247,7 +247,7 @@ How tall should a tripod be for my height? The short answer: the legs of a camer
 
 Tripod height on a spec sheet stops at the top plate, where the head mounts, not at your eye. Your eye level sits about 4 to 5 inches below the top of your head. The tripod head plus the camera and its viewfinder add another 5 to 8 inches above the plate. Together that is the 10 to 12 inch gap.
 
-A tripod at eye level lets you stand up straight for an hour instead of hunching over the viewfinder at sunset, which is why our [tripods for headshot sessions](/blog/best-tripod-for-headshots/) are ranked by height. A couple of inches below eye level is fine; 8 inches below gets tiring fast.
+A tripod at eye level lets you stand up straight for an hour instead of hunching over the viewfinder at sunset, which is why our [tripods for headshot sessions](/blog/best-tripod-for-headshots/) are ranked by height. A couple of inches below eye level is fine; 8 inches below gets tiring fast, so compare column-down heights in our [best tripod for camera picks](/blog/best-tripod-for-camera/).
 
 ## Tripod Height Chart by Your Height
 

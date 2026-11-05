@@ -634,12 +634,14 @@
     {
       "slug": "best-tripod-for-hunting",
       "find": "The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, crossbows and sighting in, and one praises fast customer service when a part was missing.",
-      "replace": "The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, as a [tripod for a crossbow](/blog/best-tripod-for-crossbow/) and for sighting in, and one praises fast customer service when a part was missing."
+      "replace": "The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, as a [tripod for a crossbow](/blog/best-tripod-for-crossbow/) and for sighting in, and one praises fast customer service when a part was missing.",
+      "appliedAt": "2026-11-05T21:23:43.272Z"
     },
     {
       "slug": "best-tripod-for-binoculars",
       "find": "It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain.",
-      "replace": "It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain, where it doubles as my [crossbow tripod for blinds](/blog/best-tripod-for-crossbow/)."
+      "replace": "It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain, where it doubles as my [crossbow tripod for blinds](/blog/best-tripod-for-crossbow/).",
+      "appliedAt": "2026-11-05T21:23:44.389Z"
     }
   ]
 }

@@ -529,12 +529,14 @@
     {
       "slug": "best-video-tripod-with-fluid-head-for-beginners",
       "find": "The payload on a spec sheet is a maximum, not a comfortable working load.",
-      "replace": "The payload on a spec sheet is a maximum, not a comfortable working load, which matters most once you add a [teleprompter like the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/)."
+      "replace": "The payload on a spec sheet is a maximum, not a comfortable working load, which matters most once you add a [teleprompter like the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/).",
+      "appliedAt": "2026-11-05T21:23:45.868Z"
     },
     {
       "slug": "best-tripod-for-youtube-videos",
       "find": "For a seated talking-head video, I start with height.",
-      "replace": "For a seated talking-head video, I start with height (reading a script? see our [tripods for the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/))."
+      "replace": "For a seated talking-head video, I start with height (reading a script? see our [tripods for the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/)).",
+      "appliedAt": "2026-11-05T21:23:47.051Z"
     }
   ],
   "secondaryKeywords": [

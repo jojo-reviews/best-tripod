@@ -401,7 +401,7 @@ Pan and tilt drag is the resistance that smooths motion. More drag slows a move 
 
 ### Fluid head payload vs camera, cage and lens
 
-The payload on a spec sheet is a maximum, not a comfortable working load. A full-frame mirrorless body with a 24-70mm f/2.8 zoom is often 3 to 4 lb. A cage, monitor and microphone add a few pounds more, so check the makers' weights or use a kitchen scale.
+The payload on a spec sheet is a maximum, not a comfortable working load, which matters most once you add a [teleprompter like the Elgato Prompter](/blog/best-tripod-for-elgato-prompter/). A full-frame mirrorless body with a 24-70mm f/2.8 zoom is often 3 to 4 lb. A cage, monitor and microphone add a few pounds more, so check the makers' weights or use a kitchen scale.
 
 That rig fits the TP74 and sits under the Cayer's 13.2 lb, but leaves little margin on the 290 Xtra at its lowest listed 8.8 lb. A full-frame body with a 70-200mm f/2.8 suits the TP74.
 

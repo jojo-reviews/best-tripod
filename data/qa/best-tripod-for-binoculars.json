@@ -1,24 +1,19 @@
 {
   "slug": "best-tripod-for-binoculars",
   "pass": true,
-  "checkedAt": "2026-11-03T17:58:24.413Z",
+  "checkedAt": "2026-11-05T21:23:44.369Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"SLIK Pro CF-733 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vortex Ridgeview Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI ST-124 Carbon Fiber Tripod with VA-5 Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1824766-REG/sirui_st124_va5x_st124_standard_series_4_section.html",
-    "source didn't respond normally (403): https://skiesandscopes.com/best-tripod-for-binoculars/",
-    "source didn't respond normally (403): https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/",
-    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/"
+    "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (TextRazor, 4 top pages): all shared entities already present (missingFromPost empty); central entity made subject of intro, H2 topic sentences; 'picks at a glance' H2 renamed to a comparison-table heading (patent rule 2026-10-31); filler trimmed; no specs, prices, products or ASINs changed. Review only (reviewedDate set, updatedDate not set).",
-    "at": "2026-11-03T17:51:21.723Z",
-    "hash": "07fe2cdf90c6d781"
+    "notes": "added one internal link to best-tripod-for-crossbow, no claim changed",
+    "at": "2026-11-05T21:23:43.724Z",
+    "hash": "5ad1b7f1f05eee5b"
   }
 }

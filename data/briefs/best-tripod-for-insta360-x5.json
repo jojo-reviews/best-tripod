@@ -599,12 +599,14 @@
     {
       "slug": "best-tripod-for-gopro",
       "find": "It is built for 360 footage but fits every GoPro.",
-      "replace": "It is built for 360 footage (our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/) cover 360 cameras) but fits every GoPro."
+      "replace": "It is built for 360 footage (our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/) cover 360 cameras) but fits every GoPro.",
+      "appliedAt": "2026-11-05T21:23:38.272Z"
     },
     {
       "slug": "best-tripod-for-dji-osmo-action-5-pro",
       "find": "If you also shoot an Ace Pro 2, one stick serves both.",
-      "replace": "If you also shoot an Ace Pro 2, one stick serves both, and it heads our [Insta360 X5 tripod list](/blog/best-tripod-for-insta360-x5/) too."
+      "replace": "If you also shoot an Ace Pro 2, one stick serves both, and it heads our [Insta360 X5 tripod list](/blog/best-tripod-for-insta360-x5/) too.",
+      "appliedAt": "2026-11-05T21:23:39.602Z"
     }
   ]
 }

@@ -468,7 +468,7 @@ The [SIRUI ST-124](amzn:SIRUI+ST-124+VA-5+Carbon+Fiber+Tripod+Fluid+Head) is a f
 
 ### BOG DeathGrip Hunting Tripod: best for glassing and shooting
 
-The [BOG DeathGrip](amzn:BOG+DeathGrip+Hunting+Tripod+Aluminum+7-59) is an aluminum clamp-head hunting tripod from BOG, and my pick if one tripod must hold the rifle and the binoculars. BOG lists 7 to 59 in, lever locks and 8.5 lb. On Hunt Talk, one hunter rests 12x50s on it and shoots off it, and another added a quick-detach binocular mount. It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain.
+The [BOG DeathGrip](amzn:BOG+DeathGrip+Hunting+Tripod+Aluminum+7-59) is an aluminum clamp-head hunting tripod from BOG, and my pick if one tripod must hold the rifle and the binoculars. BOG lists 7 to 59 in, lever locks and 8.5 lb. On Hunt Talk, one hunter rests 12x50s on it and shoots off it, and another added a quick-detach binocular mount. It is the heaviest pick, and glassing comes second to the rifle clamp, so I'd carry it from the truck to a blind, not up a mountain, where it doubles as my [crossbow tripod for blinds](/blog/best-tripod-for-crossbow/).
 
 ## Which binocular tripod should you get
 

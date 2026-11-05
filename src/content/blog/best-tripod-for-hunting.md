@@ -541,7 +541,7 @@ Owners agree on the weight, which is what matters on a [backcountry hunt](/blog/
 
 The BOG DeathGrip is an aluminum clamp-style hunting tripod from BOG, picked because the clamp holds the rifle hands-free, so you can glass or call while it stays on target. BOG lists [legs from 7 to 59 in](https://www.boghunt.com/deathgrip/deathgrip-tripod/1099442.html), lever locks, high-density foam grips, 360-degree pan with tension and a tilt lever with up to 25 degrees of cant, at 8.5 lb.
 
-The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, crossbows and sighting in, and one praises fast customer service when a part was missing. Two complaints repeat. It is heavy, and a 6 ft 7 in owner could not get the rest past 53 1/8 in. An r/Hunting owner also found some wiggle in the cradle. If your stock has no rail and you sit in a blind, this is the clamp I would buy: the [BOG DeathGrip](amzn:BOG+DeathGrip+Hunting+Tripod+Aluminum+7-59).
+The owner reviews on BOG's own page are mostly warm: hunters use it for first deer hunts, as a [tripod for a crossbow](/blog/best-tripod-for-crossbow/) and for sighting in, and one praises fast customer service when a part was missing. Two complaints repeat. It is heavy, and a 6 ft 7 in owner could not get the rest past 53 1/8 in. An r/Hunting owner also found some wiggle in the cradle. If your stock has no rail and you sit in a blind, this is the clamp I would buy: the [BOG DeathGrip](amzn:BOG+DeathGrip+Hunting+Tripod+Aluminum+7-59).
 
 ### Vortex Radian Carbon Tripod Ball Head Kit: long range, PRS and NRL Hunter
 

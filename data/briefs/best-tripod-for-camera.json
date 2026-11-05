@@ -619,12 +619,14 @@
     {
       "slug": "can-you-use-any-tripod-for-a-camera",
       "find": "My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total.",
-      "replace": "My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total, as in our [best tripods for cameras](/blog/best-tripod-for-camera/)."
+      "replace": "My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total, as in our [best tripods for cameras](/blog/best-tripod-for-camera/).",
+      "appliedAt": "2026-11-05T21:23:40.729Z"
     },
     {
       "slug": "how-tall-should-a-tripod-be-for-my-height",
       "find": "A couple of inches below eye level is fine; 8 inches below gets tiring fast.",
-      "replace": "A couple of inches below eye level is fine; 8 inches below gets tiring fast, so compare column-down heights in our [best tripod for camera picks](/blog/best-tripod-for-camera/)."
+      "replace": "A couple of inches below eye level is fine; 8 inches below gets tiring fast, so compare column-down heights in our [best tripod for camera picks](/blog/best-tripod-for-camera/).",
+      "appliedAt": "2026-11-05T21:23:41.841Z"
     }
   ],
   "secondaryKeywords": [

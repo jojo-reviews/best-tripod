@@ -478,7 +478,7 @@ The [DJI Osmo Action 1.5m Extension Rod Kit](amzn:DJI+Osmo+Action+1.5m+Extension
 
 ### Insta360 2-in-1 Invisible Selfie Stick Tripod: best tall tripod that stands alone
 
-The [Insta360 2-in-1 Invisible Selfie Stick Tripod](amzn:Insta360+2-in-1+Invisible+Selfie+Stick+Tripod) is an aluminum alloy selfie stick from Insta360 with fold-out legs and a 1/4" screw. B&H lists 9.6 to 42.9 in, and Amazon lists 216 g. If you also shoot an Ace Pro 2, one stick serves both. Best Buy owners call it light and quick to deploy, while an r/djiosmo360 owner says it "seems flimsy and has no rubber grip". I'd add an adapter and keep it lower in wind.
+The [Insta360 2-in-1 Invisible Selfie Stick Tripod](amzn:Insta360+2-in-1+Invisible+Selfie+Stick+Tripod) is an aluminum alloy selfie stick from Insta360 with fold-out legs and a 1/4" screw. B&H lists 9.6 to 42.9 in, and Amazon lists 216 g. If you also shoot an Ace Pro 2, one stick serves both, and it heads our [Insta360 X5 tripod list](/blog/best-tripod-for-insta360-x5/) too. Best Buy owners call it light and quick to deploy, while an r/djiosmo360 owner says it "seems flimsy and has no rubber grip". I'd add an adapter and keep it lower in wind.
 
 ### Ulanzi MT-16 Camera Tripod: best budget desk tripod
 

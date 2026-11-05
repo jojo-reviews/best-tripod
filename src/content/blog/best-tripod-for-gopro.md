@@ -523,7 +523,7 @@ DC Rainmaker found it more stable in wind than the Shorty, which can tip because
 
 ### GoPro MAX Grip + Tripod: best locking pole
 
-My pick when you want more reach than the Shorty with a selfie pole that locks. GoPro lists it at 9 to 22 in (23 to 56 cm), with a twist lock and foldout legs that close with a magnet. It is built for 360 footage but fits every GoPro.
+My pick when you want more reach than the Shorty with a selfie pole that locks. GoPro lists it at 9 to 22 in (23 to 56 cm), with a twist lock and foldout legs that close with a magnet. It is built for 360 footage (our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/) cover 360 cameras) but fits every GoPro.
 
 Owner Brad's Backpack likes the twist lock but says the legs aren't adjustable, so on unlevel ground you keep the pole short to stop it toppling, and sand or grit can jam it. On r/gopro its main con against Volta is no battery. Some HERO13 owners in a Facebook group still see the grip in their shots.
 

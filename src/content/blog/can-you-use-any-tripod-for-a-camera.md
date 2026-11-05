@@ -190,7 +190,7 @@ Consumer cameras use this 1/4-20 thread as their tripod mount, so a Canon, Nikon
 | Total | 1,353 g |
 | PIXI safety payload | 1,000 g |
 
-The camera screws on fine and the kit is still about a third over the rating. My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total. Leg material (aluminium or carbon fiber) and maximum height change how heavy and tall the tripod is, not whether it fits your camera. For a long telephoto lens, a gimbal head carries the load better than a small ball head; see our guide to [choosing a tripod for a heavy telephoto lens](/blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/).
+The camera screws on fine and the kit is still about a third over the rating. My rule: add the body, heaviest lens and anything on the hot shoe, then pick a tripod whose weight capacity sits well above that total, as in our [best tripods for cameras](/blog/best-tripod-for-camera/). Leg material (aluminium or carbon fiber) and maximum height change how heavy and tall the tripod is, not whether it fits your camera. For a long telephoto lens, a gimbal head carries the load better than a small ball head; see our guide to [choosing a tripod for a heavy telephoto lens](/blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/).
 
 ## Tripod quick release plates are not universal
 
