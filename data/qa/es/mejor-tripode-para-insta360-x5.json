@@ -3,14 +3,19 @@
   "lang": "es",
   "translationOf": "best-tripod-for-insta360-x5",
   "pass": true,
-  "checkedAt": "2026-11-05T18:16:18.305Z",
+  "checkedAt": "2026-11-05T21:37:01.528Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-gopro/; link the es version once it exists",
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
     "internal link to the English post /blog/best-tripod-for-dji-osmo-action-5-pro/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.insta360.com/specs/x5",
+    "source didn't respond normally (403): https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1630611-REG/insta360_cinx2cb_g_2_in_1_invisible_selfie_stick.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1650028-REG/insta360_cintrph_b_all_purpose_outdoor_tripod_for.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF12.0070_66-inch-2-in-1-invisible-selfie-stick-tripod-for-insta360-x5-x4-x3"
   ],
   "factCheck": {
     "verified": true,
