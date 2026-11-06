@@ -1,0 +1,152 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-long-exposure",
+  "checkedAt": "2026-11-06T15:29:40Z",
+  "productFit": [
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric table): 174 cm column up, 148 cm column down, 77 cm folded, 2,5 kg, 15 kg load. The English post's B&H figures (173,7 cm / 148,3 cm) round to the same; keep the English table figures so the numbers match.",
+      "reason": "Foto Koch (DE) lists the Vanguard VEO 3+ 263AB 160S under the same name (article 1725009).",
+      "source": "https://www.fotokoch.de/Vanguard-VEO-3-263AB-160S_50708.html"
+    },
+    {
+      "name": "Benro Mach3 TMA37C Carbon Fiber Tripod",
+      "asin": "B00YEU9GE8",
+      "status": "fits",
+      "metricSpecs": "EU listings: 161,5 cm max., 135 cm without column (Foto Tecnica), 38,5-39 cm min., 62,5 cm folded, 1,85 kg, 16 kg load. 1,85 kg is the EU retailer weight; the English post's 1,9 kg (B&H, 4.2 lb) rounds the same; keep 1,9 kg (4.2 lb) to match the English post.",
+      "reason": "Foto Koch (DE) lists the Benro Mach3 Serie 3 Carbon 3 Segm. TMA37C for sale: 161,5 cm, 62,5 cm packed, 1,85 kg, 16 kg.",
+      "source": "https://www.fotokoch.de/Benro-Stativ-Mach3-Stativ-Serie-3-Carbon-3-Segm-TMA37C_77434.html"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm column down, 9 cm min., 54 cm closed, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "Calumet (DE) lists the MT055CXPRO4 under the same code.",
+      "source": "https://www.calumetphoto.de/product/manfrotto-mt055cxpro4-carbon-stativ-4-segmente"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm column up, 142 cm column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "Optik-Pro (DE) lists the MKBFRA4GTXP-BH Befree GT XPRO kit; -BH is the international kit code of the ASIN's listing.",
+      "source": "https://www.optik-pro.de/aus-aluminium/manfrotto-aluminium-dreibeinstativ-mkbfra4gtxp-bh-befree-gt-xpro-kit/p,62839"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, 1,29 kg, 9,1 kg load (same as the English post).",
+      "reason": "Foto Erhardt (DE) lists the Peak Design Travel Tripod Carbon; Peak Design's EU store sells the carbon version too.",
+      "source": "https://www.foto-erhardt.com/tripods/other-manufacturers/peak-design-travel-tripod-carbon-travel-tripod.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Deutscher Wetterdienst (Windwarnskala): Windstärke 4, 'mäßige Brise / mäßiger Wind', 20 bis 25 km/h; 'Wind bewegt Zweige und dünnere Äste, hebt Staub und loses Papier'. Replaces the NWS 13-18 mph link.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg. By folded length the Peak Design (39,4 cm), Befree GT XPRO (43 cm) and Manfrotto 055 (54 cm) fit; the Benro TMA37C (62,5 cm) and the Vanguard kit (77 cm) go in checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom: private photos are allowed, but 'Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst' - plan night long exposures of the cathedral from outside.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "German terms: Langzeitbelichtung, Graufilter / ND-Filter, Mittelsäule, Haken (Beschwerungshaken) unter der Säule, Spikes, Drehverschluss / Klemmhebel, Kugelkopf; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/Benro-Stativ-Mach3-Stativ-Serie-3-Carbon-3-Segm-TMA37C_77434.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Thin travel legs start to shake in light wind during night and long exposures.",
+      "fix": "Rank by mass and column-down height, keep the thinnest sections collapsed; the VEO (2,5 kg, three thick sections) for windy coasts.",
+      "quotes": [
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        },
+        {
+          "text": "Nach einigen Nachtaufnahmen habe ich nämlich festgestellt, das dieses Stativ mehr wackelt als mir lieb ist und das schon bei sehr wenig Wind.",
+          "url": "https://www.dslr-forum.de/threads/stativ-fuer-350d-cullmann-3335-bzw-3000-was-haltet-ihr-von-diesem.103760/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/",
+        "https://www.dslr-forum.de/threads/stativ-fuer-350d-cullmann-3335-bzw-3000-was-haltet-ihr-von-diesem.103760/"
+      ]
+    },
+    {
+      "pain": "Narrow leg spread makes the tripod wobble in wind.",
+      "fix": "How-to step 3: spread the legs wide and push the feet in (spikes on sand or grass).",
+      "quotes": [
+        {
+          "text": "Wenn man bei Wind die Beine nicht breit stellt, sondern schmal, wackelt das Stativ eher.",
+          "url": "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+      ]
+    },
+    {
+      "pain": "Long, raised centre columns catch the wind.",
+      "fix": "Keep the column down and compare column-down height (table).",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Wind in km/h from the DWD scale (Windstärke 4 = 20-25 km/h) instead of US mph figures.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "point": "Which of the five fit Lufthansa's 55 cm cabin-bag length (Peak Design, Befree, 055) and which go in the hold (Benro, Vanguard).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "German forum voices on wind shake and narrow leg spread, each answered with a fix from the post.",
+      "source": "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "A Beaufort force 4 moderate breeze of 13-18 mph (National Weather Service link)",
+      "action": "replace",
+      "with": "the national weather service's force 4 range in km/h from localFacts (linked), in km/h"
+    },
+    {
+      "english": "each has its own Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen, never as a local store or availability claim"
+    },
+    {
+      "english": "It folds to 43 cm for hand luggage / a carry-on (no airline named)",
+      "action": "replace",
+      "with": "the local airline's cabin-bag length from localFacts (which of the five fit by folded length)"
+    },
+    {
+      "english": "Aurora shooters in Fairbanks use it for hours at -40 °F",
+      "action": "replace",
+      "with": "keep as a US owner report, metric first: -40 °C (-40 °F, the same value)"
+    },
+    {
+      "english": "an astronomy owner found it not steady enough for a 20 lb telescope rig",
+      "action": "replace",
+      "with": "metric first: about 9 kg (20 lb)"
+    }
+  ]
+}

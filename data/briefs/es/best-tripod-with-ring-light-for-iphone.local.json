@@ -1,0 +1,111 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-with-ring-light-for-iphone",
+  "checkedAt": "2026-11-06T15:30:13.342Z",
+  "productFit": [
+    {
+      "name": "UBeesize Ring Light with 50\" Extendable Tripod Stand",
+      "asin": "B07QFV72LK",
+      "status": "fits",
+      "metricSpecs": "Amazon.es title: \"Anillo de Luz de 12\\\" con Trípode de 127cm\" (same ASIN).",
+      "reason": "Amazon.es lists the same ASIN B07QFV72LK as UBeesize Anillo de Luz de 12\" con Trípode de 127cm.",
+      "source": "https://www.amazon.es/10-extensible-transmisi%C3%B3n-maquillaje-UBeesize/dp/B07QFV72LK"
+    },
+    {
+      "name": "SENSYNE Ring Light with 50\" Phone Tripod",
+      "asin": "B08B3X7NXC",
+      "status": "unknown",
+      "metricSpecs": "",
+      "reason": "Amazon.de and amazon.nl list the same ASIN, but no amazon.es or Spanish retailer listing was found. Add one neutral sentence that it is sold mainly in the US and through other EU Amazon stores.",
+      "source": "https://www.amazon.nl/-/en/Selfie-Brightness-Streaming-YouTube-Photography/dp/B08B3X7NXC"
+    },
+    {
+      "name": "EMART 10-Inch Ring Light with 55-Inch Tripod Stand",
+      "asin": "B0GTV47NRK",
+      "status": "unknown",
+      "metricSpecs": "",
+      "reason": "No amazon.es listing for this exact kit (ASIN B0GTV47NRK) found; EMART sells it through its US shop emartus.com. EMART light stands appear on amazon.de, but not this kit. Add one neutral sentence in \"Who it's for\" that it is mainly sold in the US.",
+      "source": "https://www.emartus.com/products/10-ring-light-with-55-extendable-tripod-stands-and-phone-holder-dimmable-led-circle-round-light"
+    },
+    {
+      "name": "NEEWER RL-18 Ring Light 18inch Kit",
+      "asin": "B01LXDNNBW",
+      "status": "fits",
+      "metricSpecs": "NEEWER: light stand 61\"/155 cm (maker page); EU Amazon listings name the ring 48 cm (18 in), 55 W, 5600 K. Smartzine (NL) gives about 5 kg including the stand.",
+      "reason": "Amazon.es lists the same ASIN B01LXDNNBW as NEEWER Aro de Luz con Trípode: 48cm 55W 5600K.",
+      "source": "https://www.amazon.es/NEEWER-Aro-Luz-Tr%C3%ADpode-Profesional/dp/B01LXDNNBW"
+    },
+    {
+      "name": "Lume Cube Ring Light Pro",
+      "asin": "B0BTMX8WQ7",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Amazon.es lists the same ASIN B0BTMX8WQ7 (Lume Cube Ring Light Pro, Iluminación profesional inalámbrica).",
+      "source": "https://www.amazon.es/Lume-Cube-Iluminaci%C3%B3n-profesional-inal%C3%A1mbrica/dp/B0BTMX8WQ7"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "La Sagrada Família (normativa): dentro del recinto no se permite hacer fotografías o vídeos con trípode, salvo personas o empresas acreditadas por su Departamento de Prensa.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Iberia permite por pasajero hasta 4 baterías de repuesto de máximo 100 Wh y 2 de entre 100 y 160 Wh; con un aro de luz con batería como el Lume Cube conviene mirar los Wh de su batería antes de volar.",
+      "source": "https://www.iberia.com/us/equipajes/dispositivos-electronicos/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Un aro de luz con trípode que se mueve o vibra estropea el vídeo.",
+      "fix": "Abrir las patas del todo antes de subir la columna y añadir peso abajo (saco de arena, consejo de r/AskPhotography en el post inglés); la base de 76 cm (30 in) del UBeesize es la más estable de los kits económicos.",
+      "quotes": [
+        {
+          "text": "que la colocación sea firme y robusta, para que no se caiga, se mueva o vibre.",
+          "url": "https://www.xataka.com/seleccion/cinco-aros-luz-para-hacer-mejores-fotos-videos-tu-telefono-guia-compra-recomendaciones"
+        }
+      ],
+      "sources": [
+        "https://www.xataka.com/seleccion/cinco-aros-luz-para-hacer-mejores-fotos-videos-tu-telefono-guia-compra-recomendaciones"
+      ]
+    },
+    {
+      "pain": "Xataka cuenta que la media de los aros es de 10 pulgadas, y muchos no saben si eso basta.",
+      "fix": "10 in (25 cm) para mesa y llamadas; 18 in (46 cm) para grabar de pie (FAQ del post inglés).",
+      "quotes": [
+        {
+          "text": "En cualquier caso, la media son las 10 pulgadas.",
+          "url": "https://www.xataka.com/seleccion/cinco-aros-luz-para-hacer-mejores-fotos-videos-tu-telefono-guia-compra-recomendaciones"
+        }
+      ],
+      "sources": [
+        "https://www.xataka.com/seleccion/cinco-aros-luz-para-hacer-mejores-fotos-videos-tu-telefono-guia-compra-recomendaciones"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Medidas en cm primero, con los 155 cm del soporte de NEEWER y los 127 cm del trípode UBeesize según sus fichas.",
+      "source": "https://neewer.com/products/led-ring-lights-66600024"
+    },
+    {
+      "point": "Norma de la Sagrada Família: nada de trípode sin acreditación.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "point": "Límite de baterías de Iberia para viajar con un aro de luz con batería.",
+      "source": "https://www.iberia.com/us/equipajes/dispositivos-electronicos/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a selection criterion phrased neutrally, no local store claim"
+    },
+    {
+      "english": "I dropped the Razer Ring Light because its Amazon US listing had no seller offer",
+      "action": "replace",
+      "with": "keep, as a US-specific selection note"
+    }
+  ]
+}

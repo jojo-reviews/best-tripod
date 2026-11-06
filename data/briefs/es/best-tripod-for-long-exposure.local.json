@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-long-exposure",
+  "checkedAt": "2026-11-06T15:29:40Z",
+  "productFit": [
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric table): 174 cm column up, 148 cm column down, 77 cm folded, 2,5 kg, 15 kg load. The English post's B&H figures (173,7 cm / 148,3 cm) round to the same; keep the English table figures so the numbers match.",
+      "reason": "Vanguard Spain (vanguardworld.es) lists the VEO 3+ 263AB160S.",
+      "source": "https://www.vanguardworld.es/products/veo-3-263ab160s"
+    },
+    {
+      "name": "Benro Mach3 TMA37C Carbon Fiber Tripod",
+      "asin": "B00YEU9GE8",
+      "status": "fits",
+      "metricSpecs": "EU listings: 161,5 cm max., 135 cm without column (Foto Tecnica), 38,5-39 cm min., 62,5 cm folded, 1,85 kg, 16 kg load. 1,85 kg is the EU retailer weight; the English post's 1,9 kg (B&H, 4.2 lb) rounds the same; keep 1,9 kg (4.2 lb) to match the English post.",
+      "reason": "Foto Técnica Import (Spanish distributor) lists the Benro trípode carbono Mach3 TMA37C: 16 kg, 161,5 cm, 135 cm sin columna, 38,5 cm min., 62,5 cm cerrado; Foto Koch ES also lists it in stock.",
+      "source": "https://fototecnica.com/benro-tripode-carbono-mach3-tma37c"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm column down, 9 cm min., 54 cm closed, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "Manfrotto's European site lists the MT055CXPRO4 under the same code.",
+      "source": "https://www.manfrotto.com/global-en/055-carbon-fiber-4-section-tripod-with-horizontal-column-mt055cxpro4/"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm column up, 142 cm column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "Kamera Express (Belgium, ships within the EU) lists the MKBFRA4GTXP-BH kit; same code as the ASIN's listing.",
+      "source": "https://www.kamera-express.be/manfrotto-mkbfra4gtxp-bh-befree-aluminium-s"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, 1,29 kg, 9,1 kg load (same as the English post).",
+      "reason": "El Corte Inglés lists the Peak Design Travel Carbon (PK0201).",
+      "source": "https://www.elcorteingles.es/electronica/A35395313-0818373021269-pr-tripode-de-carbono-peak-design-travel-carbon-pk0201-negro/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "AEMET (escalas de viento): fuerza 4 de Beaufort, 'bonancible-moderado', 20 - 28 km/h (11 - 16 nudos). Replaces the NWS 13-18 mph link.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm. By folded length the Peak Design (39,4 cm), Befree GT XPRO (43 cm) and Manfrotto 055 (54 cm) fit; the Benro TMA37C (62,5 cm) and the Vanguard kit (77 cm) do not.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite fotos ni vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Spanish terms: larga exposición, filtro ND (densidad neutra), columna central, gancho para peso, puntas (pinchos), cierres de rosca / de palanca, rótula de bola; Arca-Swiss keeps its name.",
+      "source": "https://fototecnica.com/benro-tripode-carbono-mach3-tma37c"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Forum users note that the less you raise the centre column, the steadier the tripod.",
+      "fix": "Compare column-down height and keep the column down (table, FAQ).",
+      "quotes": [
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+      ]
+    },
+    {
+      "pain": "Soft long exposures where shake from the tripod or wind is the suspect.",
+      "fix": "Problems section: more mass, legs wide, bag grounded, IS off, remote release.",
+      "quotes": [
+        {
+          "text": "¿Seguro que no hay trepidación por el trípode usado, el viento, etc.?",
+          "url": "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+      ]
+    },
+    {
+      "pain": "Photographers want a tripod that holds up in strong gusts.",
+      "fix": "Pick mass for windy coasts (VEO 2,5 kg) and stand upwind.",
+      "quotes": [
+        {
+          "text": "el trípode que sea decente, estable y que aguante rachas de viento, que a veces las hay bastante intensas en algunos sitios.",
+          "url": "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/fotografia-auroras-boreales.76010/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Wind in km/h from AEMET (fuerza 4 = 20-28 km/h) instead of US mph figures.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "point": "Which of the five fit Iberia's 56 cm cabin-bag length (Peak Design, Befree, 055) and which go in the hold (Benro, Vanguard).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "No tripods at the Alhambra or inside the Sagrada Família: plan night long exposures from outside.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "A Beaufort force 4 moderate breeze of 13-18 mph (National Weather Service link)",
+      "action": "replace",
+      "with": "the national weather service's force 4 range in km/h from localFacts (linked), in km/h"
+    },
+    {
+      "english": "each has its own Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen, never as a local store or availability claim"
+    },
+    {
+      "english": "It folds to 43 cm for hand luggage / a carry-on (no airline named)",
+      "action": "replace",
+      "with": "the local airline's cabin-bag length from localFacts (which of the five fit by folded length)"
+    },
+    {
+      "english": "Aurora shooters in Fairbanks use it for hours at -40 °F",
+      "action": "replace",
+      "with": "keep as a US owner report, metric first: -40 °C (-40 °F, the same value)"
+    },
+    {
+      "english": "an astronomy owner found it not steady enough for a 20 lb telescope rig",
+      "action": "replace",
+      "with": "metric first: about 9 kg (20 lb)"
+    }
+  ]
+}

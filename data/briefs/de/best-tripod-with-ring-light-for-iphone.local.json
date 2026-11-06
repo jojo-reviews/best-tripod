@@ -1,0 +1,123 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-with-ring-light-for-iphone",
+  "checkedAt": "2026-11-06T15:30:13.342Z",
+  "productFit": [
+    {
+      "name": "UBeesize Ring Light with 50\" Extendable Tripod Stand",
+      "asin": "B07QFV72LK",
+      "status": "fits",
+      "metricSpecs": "Amazon.de lists the same ASIN; ring 25,4 cm (10 in) on amazon.nl/.de spec table, tripod 127 cm (50 in) per amazon.es title. Keep the English figures converted.",
+      "reason": "Amazon.de lists the same ASIN B07QFV72LK (UBeesize Ring Light with Tripod, 12 Inch).",
+      "source": "https://www.amazon.de/-/en/UBeesize-Tripod-Mobile-YouTube-Photography/dp/B07QFV72LK"
+    },
+    {
+      "name": "SENSYNE Ring Light with 50\" Phone Tripod",
+      "asin": "B08B3X7NXC",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Amazon.de lists the same ASIN B08B3X7NXC (Sensyne 10 Inch Ring Light with 50 Inch Extendable Tripod).",
+      "source": "https://www.amazon.de/-/en/Sensyne-Extendable-Tripod-YouTube-Compatible/dp/B08B3X7NXC"
+    },
+    {
+      "name": "EMART 10-Inch Ring Light with 55-Inch Tripod Stand",
+      "asin": "B0GTV47NRK",
+      "status": "unknown",
+      "metricSpecs": "",
+      "reason": "No amazon.de listing for this exact kit (ASIN B0GTV47NRK) found; EMART sells it through its US shop emartus.com. EMART light stands appear on amazon.de, but not this kit. Add one neutral sentence in \"Who it's for\" that it is mainly sold in the US.",
+      "source": "https://www.emartus.com/products/10-ring-light-with-55-extendable-tripod-stands-and-phone-holder-dimmable-led-circle-round-light"
+    },
+    {
+      "name": "NEEWER RL-18 Ring Light 18inch Kit",
+      "asin": "B01LXDNNBW",
+      "status": "fits",
+      "metricSpecs": "NEEWER: light stand 61\"/155 cm (maker page); EU Amazon listings name the ring 48 cm (18 in), 55 W, 5600 K. Smartzine (NL) gives about 5 kg including the stand.",
+      "reason": "Amazon.de lists the same ASIN B01LXDNNBW (NEEWER Ringlicht mit Stativ Set: 18 Zoll/45cm, 55W).",
+      "source": "https://www.amazon.de/NEEWER-Ringlicht-mit-Stativ-Fernbedienung/dp/B01LXDNNBW"
+    },
+    {
+      "name": "Lume Cube Ring Light Pro",
+      "asin": "B0BTMX8WQ7",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Amazon.de lists the same ASIN B0BTMX8WQ7 (Lume Cube Ringlicht Pro, LC-RINGPRO).",
+      "source": "https://www.amazon.de/LUME-CUBE-LC-RINGPRO-Lume-Ringlicht/dp/B0BTMX8WQ7"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Kölner Dom (Domordnung §2): Fotografieren ohne Blitz und Videoaufnahmen ohne zusätzliche Ausstattung sind außerhalb der Gottesdienste für private Zwecke erlaubt; Aufnahmen mit Stativen brauchen eine Genehmigung des Dompropstes. Ein Ringlicht-Stativ bleibt dort also ohne Genehmigung zu Hause.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Lufthansa erlaubt Powerbanks bis 100 Wh je Powerbank im Handgepäck; für Akkus zwischen 100 und 160 Wh gelten Einschränkungen. Wer ein Akku-Ringlicht wie das Lume Cube auf Reisen mitnimmt, prüft vorher die Wh-Angabe des Akkus.",
+      "source": "https://www.lufthansa.com/by/en/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "fact": "Die Medienanstalten geben einen Leitfaden zur Werbekennzeichnung in Social-Media-Angeboten wie Instagram, YouTube und TikTok heraus; wer mit dem Ringlicht gesponserte Clips dreht, findet dort die Kennzeichnungsmatrix.",
+      "source": "https://www.die-medienanstalten.de/service/merkblaetter-und-leitfaeden/leitfaden-werbekennzeichnung-bei-online-medien/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Brillenträger sehen im Bild fast nur zwei helle Kreise in den Gläsern, sobald das Ringlicht frontal steht.",
+      "fix": "Ring 30 bis 45 Grad zur Seite und etwas über Augenhöhe stellen und leicht nach unten neigen (deckt sich mit dem r/NewTubers-Tipp im englischen Beitrag).",
+      "quotes": [
+        {
+          "text": "mit dem Ringlicht sieht man aber fast nur zwei helle Kreise in der Brille.",
+          "url": "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+        },
+        {
+          "text": "Ringlicht 30 bis 45 Grad seitlich neben der Kamera platzieren",
+          "url": "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+        }
+      ],
+      "sources": [
+        "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+      ]
+    },
+    {
+      "pain": "Weniger Helligkeit hilft gegen die Spiegelung kaum; der Winkel entscheidet.",
+      "fix": "Erst den Winkel ändern, dann die Helligkeit niedrig einstellen (Schritt 5 der Aufbauanleitung).",
+      "quotes": [
+        {
+          "text": "Eine Spiegelung verschwindet nicht durch weniger Helligkeit, sondern wenn die reflektierte Lichtquelle nicht mehr in Richtung Kamera zeigt.",
+          "url": "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+        }
+      ],
+      "sources": [
+        "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Metrische Werte zuerst, mit NEEWERs eigener Angabe von 155 cm für das Lichtstativ.",
+      "source": "https://neewer.com/products/led-ring-lights-66600024"
+    },
+    {
+      "point": "Stativregel im Kölner Dom: Ringlicht-Stativ nur mit Genehmigung.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Akku-Ringlicht im Flugzeug: Lufthansa-Grenze von 100 Wh je Powerbank.",
+      "source": "https://www.lufthansa.com/by/en/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "point": "Konkreter Winkel gegen Brillenspiegelung aus einem deutschen Forum (30 bis 45 Grad, leicht über Augenhöhe).",
+      "source": "https://www.hausbau-forum.de/threads/brillenspiegelungen-bei-videokonferenzen-vermeiden-wie-richtet-ihr-ein-ikea-ringlicht-aus.a4t5m0/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a selection criterion phrased neutrally (each has its own in-stock Amazon listing), no local store claim"
+    },
+    {
+      "english": "I dropped the Razer Ring Light because its Amazon US listing had no seller offer",
+      "action": "replace",
+      "with": "keep, as a US-specific selection note"
+    }
+  ]
+}

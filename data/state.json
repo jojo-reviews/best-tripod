@@ -1388,6 +1388,48 @@
       "lang": "nl",
       "translationOf": "best-tripod-for-insta360-x5",
       "pubDate": "2026-11-06T10:00:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "de/ringlicht-mit-stativ-fuer-iphone",
+      "lang": "de",
+      "translationOf": "best-tripod-with-ring-light-for-iphone",
+      "pubDate": "2026-11-07T11:00:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "es/aro-de-luz-con-tripode-para-iphone",
+      "lang": "es",
+      "translationOf": "best-tripod-with-ring-light-for-iphone",
+      "pubDate": "2026-11-07T12:25:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "de/stativ-fuer-langzeitbelichtung",
+      "lang": "de",
+      "translationOf": "best-tripod-for-long-exposure",
+      "pubDate": "2026-11-07T05:45:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "es/tripode-para-larga-exposicion",
+      "lang": "es",
+      "translationOf": "best-tripod-for-long-exposure",
+      "pubDate": "2026-11-07T05:40:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "nl/statief-voor-lange-sluitertijd",
+      "lang": "nl",
+      "translationOf": "best-tripod-for-long-exposure",
+      "pubDate": "2026-11-07T05:25:00.000Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "nl/ringlamp-met-statief-voor-iphone",
+      "lang": "nl",
+      "translationOf": "best-tripod-with-ring-light-for-iphone",
+      "pubDate": "2026-11-07T13:25:00.000Z"
     }
   ]
 }

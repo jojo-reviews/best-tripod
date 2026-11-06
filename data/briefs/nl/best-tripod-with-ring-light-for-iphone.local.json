@@ -1,0 +1,119 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-with-ring-light-for-iphone",
+  "checkedAt": "2026-11-06T15:30:13.342Z",
+  "productFit": [
+    {
+      "name": "UBeesize Ring Light with 50\" Extendable Tripod Stand",
+      "asin": "B07QFV72LK",
+      "status": "fits",
+      "metricSpecs": "Amazon.nl spec table (same ASIN): screen size 25,4 cm, item 35,1 x 29 x 9,9 cm.",
+      "reason": "Amazon.nl lists the same ASIN B07QFV72LK (UBeesize 12 inch Ring Light met Telefoon Stand).",
+      "source": "https://www.amazon.nl/UBeesize-Telefoon-Uitschuifbare-Driepoot-Instagram/dp/B07QFV72LK"
+    },
+    {
+      "name": "SENSYNE Ring Light with 50\" Phone Tripod",
+      "asin": "B08B3X7NXC",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Amazon.nl lists the same ASIN B08B3X7NXC (Selfie Ring Light, 10.2 Inch LED).",
+      "source": "https://www.amazon.nl/-/en/Selfie-Brightness-Streaming-YouTube-Photography/dp/B08B3X7NXC"
+    },
+    {
+      "name": "EMART 10-Inch Ring Light with 55-Inch Tripod Stand",
+      "asin": "B0GTV47NRK",
+      "status": "unknown",
+      "metricSpecs": "",
+      "reason": "No amazon.nl listing for this exact kit (ASIN B0GTV47NRK) found; EMART sells it through its US shop emartus.com. EMART light stands appear on amazon.de, but not this kit. Add one neutral sentence in \"Who it's for\" that it is mainly sold in the US.",
+      "source": "https://www.emartus.com/products/10-ring-light-with-55-extendable-tripod-stands-and-phone-holder-dimmable-led-circle-round-light"
+    },
+    {
+      "name": "NEEWER RL-18 Ring Light 18inch Kit",
+      "asin": "B01LXDNNBW",
+      "status": "fits",
+      "metricSpecs": "NEEWER: light stand 61\"/155 cm (maker page); EU Amazon listings name the ring 48 cm (18 in), 55 W, 5600 K. Smartzine (NL) gives about 5 kg including the stand.",
+      "reason": "Amazon.nl lists the same ASIN B01LXDNNBW (NEEWER Ringlamp met statief, 48 cm, 55 W, 5600 K).",
+      "source": "https://www.amazon.nl/-/en/NEEWER-RL-18-Stand-Phone-Holder/dp/B01LXDNNBW"
+    },
+    {
+      "name": "Lume Cube Ring Light Pro",
+      "asin": "B0BTMX8WQ7",
+      "status": "unknown",
+      "metricSpecs": "",
+      "reason": "Amazon.de and amazon.es list the same ASIN; no amazon.nl or Dutch/Belgian retailer listing was found. Add one neutral sentence that it is sold mainly in the US and via other EU Amazon stores.",
+      "source": "https://www.amazon.de/LUME-CUBE-LC-RINGPRO-Lume-Ringlicht/dp/B0BTMX8WQ7"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Rijksmuseum: bezoekers mogen filmen en fotograferen zolang dat geen overlast geeft; bij bruidsfotografie noemt het museum als voorbeeld van zijn voorwaarden \"geen statieven en geen extra belichting\". Een ringlamp op statief past daar dus niet.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "KLM: losse lithiumbatterijen of powerbanks zijn alleen toegestaan in de handbagage en batterijen groter dan 160 Wh nooit; kijk bij een ringlamp met accu zoals de Lume Cube vooraf naar het aantal Wh.",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-checked-baggage"
+    },
+    {
+      "fact": "Het Commissariaat voor de Media houdt toezicht op influencers; de vroegere grens van 500.000 volgers voor aanmelding is vervallen.",
+      "source": "https://www.cvdm.nl/nieuws/commissariaat-stuurt-mailing-aan-influencers-over-aanmelding/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Een grote smartphone van nu past niet in de houder van oudere ringlampen.",
+      "fix": "Meet je iPhone met hoesje en vergelijk met het bereik van de houder: SENSYNE tot 13,5 cm (5.3 in), NEEWER tot 9,4 cm (3.7 in), EMART tot 8,6 cm (3.4 in).",
+      "quotes": [
+        {
+          "text": "Controleer altijd of jouw telefoon wel in die houder past, want er zijn nog steeds veel oudere type ringlampen te koop",
+          "url": "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+      ]
+    },
+    {
+      "pain": "Goedkope statieven staan in de hoogste stand niet stabiel.",
+      "fix": "Poten eerst helemaal spreiden en gewicht laag aan het statief hangen (zandzak-tip uit het Engelse stuk).",
+      "quotes": [
+        {
+          "text": "sommige kopers melden dat het statief in de hoogste stand niet heel stabiel op zijn poten staat.",
+          "url": "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Metrisch eerst, met de 155 cm van NEEWER zelf voor het lampstatief.",
+      "source": "https://neewer.com/products/led-ring-lights-66600024"
+    },
+    {
+      "point": "Houderbreedte in cm naast de iPhone: de Nederlandse klacht dat grote telefoons niet passen, opgelost met cijfers.",
+      "source": "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+    },
+    {
+      "point": "Rijksmuseum-voorwaarde: geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "point": "KLM-regel voor lithiumaccu in de handbagage.",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-checked-baggage"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own in-stock Amazon US listing",
+      "action": "replace",
+      "with": "keep as a selection criterion phrased neutrally, no local store claim"
+    },
+    {
+      "english": "I dropped the Razer Ring Light because its Amazon US listing had no seller offer",
+      "action": "replace",
+      "with": "keep, as a US-specific selection note"
+    }
+  ]
+}

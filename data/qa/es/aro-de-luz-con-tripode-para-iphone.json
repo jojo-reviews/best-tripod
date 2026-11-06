@@ -1,0 +1,20 @@
+{
+  "slug": "es/aro-de-luz-con-tripode-para-iphone",
+  "lang": "es",
+  "translationOf": "best-tripod-with-ring-light-for-iphone",
+  "pass": true,
+  "checkedAt": "2026-11-06T15:35:18.549Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-content-creators/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-with-ring-light-for-iphone: same 5 products/ASINs/scores/spec keys, same FAQ answers, all in->cm and lb->kg conversions re-computed (NEEWER 155 cm stand matches neewer.com). Local facts from data/briefs/es local brief: Sagrada Familia normativa (no tripod photos/videos without press accreditation), Iberia electronic devices page (4 spare batteries max 100 Wh, 2 between 100-160 Wh), Xataka ring light guide quote verified verbatim. SENSYNE (no amazon.es listing found) and EMART (US shop only) get a neutral 'sold mainly in the US' sentence. No testing/ownership claims, prices or local Amazon store.",
+    "at": "2026-11-06T15:35:18.134Z",
+    "hash": "536e61804002584e"
+  }
+}

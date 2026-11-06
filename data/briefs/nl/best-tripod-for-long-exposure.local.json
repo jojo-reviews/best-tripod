@@ -1,0 +1,147 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-long-exposure",
+  "checkedAt": "2026-11-06T15:29:40Z",
+  "productFit": [
+    {
+      "name": "Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head",
+      "asin": "B096L7XFXG",
+      "status": "fits",
+      "metricSpecs": "Vanguard Europe (vanguardworld.co.uk metric table): 174 cm column up, 148 cm column down, 77 cm folded, 2,5 kg, 15 kg load. The English post's B&H figures (173,7 cm / 148,3 cm) round to the same; keep the English table figures so the numbers match.",
+      "reason": "Kamera Express (NL) lists the Vanguard VEO 3+ 263AB 160S.",
+      "source": "https://www.kamera-express.nl/vanguard-veo-3-263ab-160s-statief-outlet"
+    },
+    {
+      "name": "Benro Mach3 TMA37C Carbon Fiber Tripod",
+      "asin": "B00YEU9GE8",
+      "status": "fits",
+      "metricSpecs": "EU listings: 161,5 cm max., 135 cm without column (Foto Tecnica), 38,5-39 cm min., 62,5 cm folded, 1,85 kg, 16 kg load. 1,85 kg is the EU retailer weight; the English post's 1,9 kg (B&H, 4.2 lb) rounds the same; keep 1,9 kg (4.2 lb) to match the English post.",
+      "reason": "Kamera Express (NL) lists the Benro Mach3 TMA37C statief (op bestelling): 161,5 cm max., 39 cm min., 62,5 cm ingeklapt, 1,85 kg, 16 kg, 3 secties.",
+      "source": "https://www.kamera-express.nl/benro-mach3-tma37c-statief"
+    },
+    {
+      "name": "Manfrotto 055 Carbon Fiber 4-Section Tripod with Horizontal Column (MT055CXPRO4)",
+      "asin": "B00IQ7PUKY",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 170 cm max., 140 cm column down, 9 cm min., 54 cm closed, 20 kg safety payload (same metric figures as the English specs).",
+      "reason": "Kamera Express (NL) lists the MT055CXPRO4 carbon statief.",
+      "source": "https://www.kamera-express.nl/products/manfrotto-mt055cxpro4-carbon-statief"
+    },
+    {
+      "name": "Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)",
+      "asin": "B07SYBYQWK",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 164 cm column up, 142 cm column down, 9 cm min., 43 cm folded, 2 kg, 12 kg safety payload (same metric figures as the English specs).",
+      "reason": "Kamera Express (BE) lists the MKBFRA4GTXP-BH Befree GT XPRO kit.",
+      "source": "https://www.kamera-express.be/manfrotto-mkbfra4gtxp-bh-befree-aluminium-s"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, 1,29 kg, 9,1 kg load (same as the English post).",
+      "reason": "Kamera Express (NL) lists the Peak Design Travel Carbon statief.",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KNMI (windschaal van Beaufort): windkracht 4 'matig', 20-28 km/u, uitwerking 'haar in de war, kleding flappert'. Replaces the NWS 13-18 mph link.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "KLM allows 1 piece of hand baggage of max. 55 x 35 x 25 cm including handles and wheels. By folded length the Peak Design (39,4 cm), Befree GT XPRO (43 cm) and Manfrotto 055 (54 cm) fit; the Benro TMA37C (62,5 cm) and the Vanguard kit (77 cm) do not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum: fotograferen en filmen mag zolang het anderen niet stoort; its terms name 'geen statieven en geen extra belichting' (bridal photography example).",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Dutch terms: lange sluitertijd / langdurige belichting, ND-filter (grijsfilter), middenzuil, haak onder de middenzuil, spikes, draaisluitingen / klemsluitingen, balhoofd; Arca-Swiss keeps its name.",
+      "source": "https://www.kamera-express.nl/benro-mach3-tma37c-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Even on a sturdy tripod, wind can set long lenses or the rig vibrating.",
+      "fix": "Mass, legs wide, thinnest sections collapsed, stand upwind (problems section).",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    },
+    {
+      "pain": "A fully raised centre column costs a lot of stability.",
+      "fix": "Compare column-down height; keep the column down.",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": [
+        "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+      ]
+    },
+    {
+      "pain": "More weight helps stability, especially in a lot of wind.",
+      "fix": "Rank by tripod mass (VEO 2,5 kg) and hang the bag so it touches the ground.",
+      "quotes": [
+        {
+          "text": "Een hoger gewicht komt de stabiliteit (zeker bij veel wind) altijd iets ten goede.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Wind in km/u from the KNMI scale (windkracht 4 = 20-28 km/u, 'kleding flappert') instead of US mph figures; relevant on the Dutch and Belgian coast.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "point": "Which of the five fit KLM's 55 cm hand-baggage length (Peak Design, Befree, 055) and which go in the hold (Benro, Vanguard).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Dutch forum voices on wind vibration and the raised column, each answered with a fix from the post.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "A Beaufort force 4 moderate breeze of 13-18 mph (National Weather Service link)",
+      "action": "replace",
+      "with": "the national weather service's force 4 range in km/h from localFacts (linked), in km/h"
+    },
+    {
+      "english": "each has its own Amazon US listing",
+      "action": "replace",
+      "with": "keep only as a description of how the picks were chosen, never as a local store or availability claim"
+    },
+    {
+      "english": "It folds to 43 cm for hand luggage / a carry-on (no airline named)",
+      "action": "replace",
+      "with": "the local airline's cabin-bag length from localFacts (which of the five fit by folded length)"
+    },
+    {
+      "english": "Aurora shooters in Fairbanks use it for hours at -40 °F",
+      "action": "replace",
+      "with": "keep as a US owner report, metric first: -40 °C (-40 °F, the same value)"
+    },
+    {
+      "english": "an astronomy owner found it not steady enough for a 20 lb telescope rig",
+      "action": "replace",
+      "with": "metric first: about 9 kg (20 lb)"
+    }
+  ]
+}

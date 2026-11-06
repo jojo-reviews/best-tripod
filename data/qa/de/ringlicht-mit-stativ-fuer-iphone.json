@@ -1,0 +1,20 @@
+{
+  "slug": "de/ringlicht-mit-stativ-fuer-iphone",
+  "lang": "de",
+  "translationOf": "best-tripod-with-ring-light-for-iphone",
+  "pass": true,
+  "checkedAt": "2026-11-06T15:33:30.128Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-content-creators/; link the de version once it exists",
+    "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-with-ring-light-for-iphone: same 5 products/ASINs/scores/spec keys, same FAQ answers, every spec and unit conversion re-computed (in->cm 2.54, lb->kg 0.4536; NEEWER 155 cm stand matches neewer.com product page). Local facts from data/briefs/de local brief re-opened: Koelner Dom Domordnung par.2 (tripods need Dompropst permission), Lufthansa 100 Wh per power bank page, hausbau-forum.de glasses-glare quote verified verbatim. EMART marked as mainly sold in the US (no EU listing found). No testing/ownership claims, no prices, no local Amazon store.",
+    "at": "2026-11-06T15:33:29.601Z",
+    "hash": "a8636bc6ea2f37c2"
+  }
+}
