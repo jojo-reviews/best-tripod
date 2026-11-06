@@ -1,0 +1,696 @@
+{
+  "keyword": "best tripod with ring light for iphone",
+  "createdAt": "2026-11-06T11:34:34.447Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "ring light tripod for iPhone",
+    "entityVariants": [
+      "tripod with ring light for iPhone",
+      "ring light with tripod stand",
+      "ring light and tripod for iPhone",
+      "tripod stand for mobile with ring light",
+      "selfie ring light with stand",
+      "ring light tripod"
+    ],
+    "entities": [
+      {
+        "name": "light",
+        "type": "/visual_art/art_subject",
+        "relation": "what the ring puts on the face; brightness and color decide the look",
+        "salience": 0.93,
+        "pages": 3,
+        "textrazorName": "Light"
+      },
+      {
+        "name": "lighting",
+        "type": "/people/profession",
+        "relation": "the job of the product: even, shadow-free light on the subject",
+        "salience": 0.61,
+        "pages": 3,
+        "textrazorName": "Lighting"
+      },
+      {
+        "name": "selfie",
+        "type": "concept",
+        "relation": "the main use case: front-camera selfies and talking-head clips",
+        "salience": 0.45,
+        "pages": 3,
+        "textrazorName": "Selfie"
+      },
+      {
+        "name": "battery",
+        "type": "/award/ranked_item",
+        "relation": "battery power frees the light from an outlet (Lume Cube Ring Light Pro)",
+        "salience": 0.45,
+        "pages": 3,
+        "textrazorName": "Electric battery"
+      },
+      {
+        "name": "UBeesize",
+        "type": "Company",
+        "relation": "maker of the best overall pick",
+        "salience": 0.8,
+        "pages": 2
+      },
+      {
+        "name": "camera",
+        "type": "/fictional_universe/character_species",
+        "relation": "the stand can also hold a small camera via a 1/4 in screw",
+        "salience": 0.57,
+        "pages": 2,
+        "textrazorName": "Camera"
+      },
+      {
+        "name": "iPhone",
+        "type": "Device",
+        "relation": "the device the phone holder must fit (width with case)",
+        "salience": 0.54,
+        "pages": 2
+      },
+      {
+        "name": "smartphone",
+        "type": "/book/book_subject",
+        "relation": "phone holders grip phones by width range",
+        "salience": 0.53,
+        "pages": 2,
+        "textrazorName": "Smartphone"
+      },
+      {
+        "name": "LED",
+        "type": "/book/book_subject",
+        "relation": "LED count and edge-lit vs direct LEDs set brightness and softness",
+        "salience": 0.46,
+        "pages": 2,
+        "textrazorName": "Light-emitting diode"
+      },
+      {
+        "name": "USB",
+        "type": "/book/book_subject",
+        "relation": "most 10 in rings run from USB power; brighter kits use an AC adapter",
+        "salience": 0.46,
+        "pages": 2
+      },
+      {
+        "name": "photography",
+        "type": "/broadcast/genre",
+        "relation": "portrait and product photos with a phone",
+        "salience": 0.45,
+        "pages": 2,
+        "textrazorName": "Photography"
+      },
+      {
+        "name": "rechargeable battery",
+        "type": "/business/product_category",
+        "relation": "cordless runtime (70 min on the Lume Cube Pro)",
+        "salience": 0.45,
+        "pages": 2,
+        "textrazorName": "Rechargeable battery"
+      },
+      {
+        "name": "tripod",
+        "type": "concept",
+        "relation": "the stand: height range, leg spread and head",
+        "salience": 0.45,
+        "pages": 2,
+        "textrazorName": "Tripod"
+      },
+      {
+        "name": "video",
+        "type": "/internet/website_category",
+        "relation": "TikTok, YouTube and Zoom video is the main use",
+        "salience": 0.35,
+        "pages": 2,
+        "textrazorName": "Video"
+      },
+      {
+        "name": "remote",
+        "type": "/law/invention",
+        "relation": "Bluetooth shutter remotes start recording from a distance",
+        "salience": 0.25,
+        "pages": 2,
+        "textrazorName": "Remote control"
+      },
+      {
+        "name": "color temperature",
+        "type": "concept",
+        "relation": "warm/neutral/cool modes in kelvin (3200K to 5600K and beyond)",
+        "salience": 0.23,
+        "pages": 2,
+        "textrazorName": "Color temperature"
+      }
+    ],
+    "attributes": [
+      "stand max and min height (in)",
+      "ring diameter (10 in vs 18 in)",
+      "phone holder width range vs iPhone width with case",
+      "power: USB, AC adapter or built-in battery",
+      "color temperature modes and brightness levels",
+      "Bluetooth remote shutter",
+      "head: ball head or 3-way pan head",
+      "leg spread and top-heavy stability",
+      "folded length for storage"
+    ],
+    "ngrams": [
+      "ring light with stand",
+      "phone holder",
+      "tripod stand",
+      "brightness levels",
+      "color modes",
+      "bluetooth remote",
+      "light stand",
+      "10 inch ring light",
+      "18 inch ring light",
+      "extendable tripod",
+      "live streaming",
+      "video calls"
+    ],
+    "skipgrams": [
+      "ring…stand",
+      "phone…holder",
+      "brightness…levels",
+      "tripod…extends",
+      "color…temperature",
+      "light…stand",
+      "remote…shutter"
+    ],
+    "nlpTerms": [
+      "selfie",
+      "TikTok",
+      "YouTube",
+      "Zoom",
+      "makeup",
+      "vlogging",
+      "catchlight",
+      "diffuser",
+      "dimmable",
+      "warm",
+      "cool white",
+      "daylight",
+      "LED",
+      "kelvin",
+      "glare",
+      "sandbag",
+      "outlet",
+      "battery"
+    ],
+    "googleModifiers": [
+      "for content creators",
+      "for cooking videos",
+      "for phone",
+      "for mobile",
+      "for tiktok",
+      "for self tapes",
+      "for makeup artist",
+      "and mic",
+      "how to use ring light tripod",
+      "how to attach ring light to tripod",
+      "how to set up a ring light tripod",
+      "table top tripod with ring light",
+      "overhead tripod with ring light"
+    ],
+    "googleModifiersUsed": [
+      "how to set up a ring light tripod (how-to H2 with numbered steps)",
+      "how to attach ring light to tripod (setup step 2)",
+      "table top tripod with ring light (EMART desk tripod, stand min heights)",
+      "for content creators / for tiktok (chooser lines)"
+    ],
+    "amazonFilters": [
+      {
+        "group": "Brand",
+        "options": [
+          "Neewer",
+          "Weilisi",
+          "SENSYNE",
+          "UBeesize",
+          "GVM Great Video Maker"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "$5–$30",
+          "$30–$100",
+          "$100–$200",
+          "$200 & above"
+        ]
+      },
+      {
+        "group": "Customer Review",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up"
+        ]
+      }
+    ],
+    "amazonFiltersNote": "Amazon shows only Brand, Price and Customer Review filters for this query; brands Neewer, SENSYNE and UBeesize are covered as picks; price and star filters are shopping-only and not used (no prices or ratings in posts).",
+    "questions": [
+      "What is the best tripod with ring light for iPhone?",
+      "Will an iPhone Pro Max with a case fit a ring light phone holder?",
+      "How tall should a ring light tripod be for standing videos?",
+      "Is a 10 inch or 18 inch ring light better for iPhone?",
+      "How do I set up a ring light tripod with my iPhone?",
+      "How do I stop ring light glare in glasses?",
+      "Can I attach a ring light to a regular camera tripod?"
+    ],
+    "answerTerms": {
+      "Will an iPhone Pro Max with a case fit a ring light phone holder?": [
+        "holder width",
+        "3.07 in",
+        "case",
+        "inches"
+      ],
+      "How tall should a ring light tripod be for standing videos?": [
+        "50 in",
+        "61 in",
+        "70 in",
+        "eye level"
+      ],
+      "Is a 10 inch or 18 inch ring light better for iPhone?": [
+        "10 in",
+        "18 in",
+        "brightness",
+        "USB",
+        "AC adapter"
+      ],
+      "How do I stop ring light glare in glasses?": [
+        "45 degrees",
+        "angle",
+        "above",
+        "glare"
+      ]
+    },
+    "contentGaps": [
+      "no top page checks phone holder width against a Pro Max iPhone with a case",
+      "no top page compares stand max height for standing vs seated use across picks",
+      "only one top page covers cordless battery runtime",
+      "no top page explains stopping a top-heavy 18 in ring from tipping"
+    ],
+    "outline": [
+      {
+        "h2": "Ring Light Tripod for iPhone Comparison",
+        "intent": "table: ring size, stand height, holder width, power, remote",
+        "h3": []
+      },
+      {
+        "h2": "How I Picked These Ring Light Tripods for iPhone",
+        "intent": "top-10 evidence, owner reports, From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 Best Tripods With Ring Light for iPhone, Reviewed",
+        "intent": "one section per product",
+        "h3": [
+          "UBeesize Ring Light with 50\" Extendable Tripod Stand: best overall ring light tripod for iPhone",
+          "SENSYNE 10\" Ring Light with 50\" Phone Tripod: best ring light tripod for a Pro Max in a case",
+          "EMART 10\" Ring Light with 55\" Tripod Stand: best budget ring light tripod for a desk",
+          "NEEWER RL-18 Ring Light 18inch Kit: best 18-inch ring light stand for standing videos",
+          "Lume Cube Ring Light Pro: best cordless ring light tripod for iPhone"
+        ]
+      },
+      {
+        "h2": "Which Ring Light Tripod for iPhone Should You Get?",
+        "intent": "decision rule by setup",
+        "h3": []
+      },
+      {
+        "h2": "How to Set Up a Ring Light Tripod for iPhone",
+        "intent": "numbered steps; video",
+        "h3": []
+      },
+      {
+        "h2": "Ring Light Tripod Problems iPhone Owners Run Into, and the Fix",
+        "intent": "pain points: tipping, glare, holder fit, flat light",
+        "h3": []
+      }
+    ],
+    "targetWords": 1900,
+    "secondaryKeywords": [
+      "best ring light and tripod for iphone",
+      "best tripod stand for mobile with ring light",
+      "best tripod stand for phone with ring light",
+      "tripod with ring light for iphone",
+      "best tripod with ring light for phone",
+      "how to set up a ring light tripod"
+    ],
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+        "https://www.techgearlab.com/topics/electronics/best-ring-light",
+        "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+        "https://fixthephoto.com/best-ring-light-for-iphone.html",
+        "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "TechGearLab and FixThePhoto show pros/cons lists per product, CNN writes paragraphs, DCW and GamesRadar use short pros/cons boxes; pros-cons fits most.",
+      "avgWords": 1900,
+      "avgWordsNote": "Estimated: FixThePhoto ~1,400 words read in full; CNN, DCW, TechGearLab and GamesRadar are longer test write-ups (~2,000+). Firecrawl word counts were not available, so 1,900 is a conservative midpoint.",
+      "avgProducts": 7,
+      "commonSections": [
+        "quick picks",
+        "product reviews",
+        "how we test",
+        "FAQ",
+        "buying guide (size, color temperature, mounting, power)"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/SENSYNE-Light-Tripod-Wireless-Remote/dp/B08B3X7NXC",
+        "title": "SENSYNE Ring Light with Stand, 50\" Phone Tripod with ..."
+      },
+      {
+        "position": 2,
+        "url": "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+        "title": "Best ring light for vlogging and video conferencing"
+      },
+      {
+        "position": 3,
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=ring%20light%20tripod",
+        "title": "ring light tripod - Best Buy"
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/AskPhotography/comments/1dcjrvr/best_affordable_ringlight_for_camera_preferably/",
+        "title": "Best affordable (ring)light for camera? Preferably with tripod"
+      },
+      {
+        "position": 5,
+        "url": "https://www.techgearlab.com/topics/electronics/best-ring-light",
+        "title": "The Best Ring Lights | Tested & Ranked - TechGearLab"
+      },
+      {
+        "position": 6,
+        "url": "https://www.facebook.com/groups/969865157006400/posts/1729988354327406/",
+        "title": "What are good ring lights and phone tripods? - Facebook"
+      },
+      {
+        "position": 7,
+        "url": "https://www.tiktok.com/@letsdodiz/video/7640578435986787598",
+        "title": "Best Ring Light with Tripod for Content Creators Review - TikTok"
+      },
+      {
+        "position": 8,
+        "url": "https://www.walmart.com/c/kp/ring-light-tripod",
+        "title": "Ring Light Tripods for Home Lighting - Walmart"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=CVIsbc55nOY",
+        "title": "Best RING LIGHT for YOUTUBERS?"
+      },
+      {
+        "position": 10,
+        "url": "https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
+        "title": "Which tripod ring light can you recommend? - Reddit"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "best",
+        "ring light",
+        "tripod",
+        "for content creators",
+        "tested & ranked",
+        "vlogging"
+      ],
+      "gap": "No top title names the iPhone or says whether a big iPhone fits the holder; stores, forums and broad ring light roundups rank. Angle: exact keyword first, (2026), a pick count, and fit for Pro Max phones. Never claim Tested."
+    },
+    "commonPoints": [
+      "A ring light gives even, shadow-reducing light on the face with a round catchlight",
+      "Pick 10 in for desks and selfies, 18 in for brighter, wider light",
+      "Look for adjustable color temperature and brightness levels",
+      "A phone holder and a Bluetooth remote make solo filming easier",
+      "USB power is convenient; AC or battery kits are brighter or cordless"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Phone holder width checked against the iPhone 17 Pro Max (3.07 in wide per Apple): EMART 1.8-3.4 in leaves little room for a thick case, Neewer 2.6-3.7 in fits, Sensyne opens to 5.3 in",
+        "source": "Apple iPhone 17 Pro Max tech specs; EMART Amazon listing; Neewer RL-18 page; Sensyne product page",
+        "absentFrom": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Stand max height compared for seated vs standing use: UBeesize and Sensyne 50 in, EMART 55 in, Neewer 61 in, Lume Cube 70 in; TechGearLab notes 50 in is not tall enough for standing",
+        "source": "maker pages; B&H; TechGearLab",
+        "absentFrom": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by setup: desk/seated, standing full-height, Pro Max in a thick case, no outlet nearby",
+        "source": "our decision rule from the specs above",
+        "absentFrom": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Top-heavy 18 in rings tip: spread the legs fully, keep the leg joint 4-8 in off the floor (Neewer) and add a sandbag (r/AskPhotography)",
+        "source": "https://neewer.com/products/led-ring-lights-66600024; https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
+        "absentFrom": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Glare in glasses: move the ring about 45 degrees to the side or above instead of straight on (r/NewTubers)",
+        "source": "https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/",
+        "absentFrom": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "UBeesize Ring Light with 50\" Extendable Tripod Stand",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://shotkit.com/best-lighting-zoom-calls/",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html"
+        ],
+        "asin": "B07QFV72LK",
+        "amazon": "in stock, ships from and sold by Amazon.com, checked 2026-11-06"
+      },
+      {
+        "name": "SENSYNE 10\" Ring Light with 50\" Phone Tripod",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://www.streamtechreviews.com/blog/ringlights",
+          "https://fixthephoto.com/best-ring-lights-for-photography.html",
+          "https://fixthephoto.com/best-ring-light-for-iphone.html"
+        ],
+        "asin": "B08B3X7NXC",
+        "amazon": "in stock, ships from Amazon (FBA), sold by XITENG TECH, checked 2026-11-06"
+      },
+      {
+        "name": "EMART 10\" Ring Light with 55\" Tripod Stand",
+        "pages": [
+          "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+          "https://fixthephoto.com/best-ring-light-for-tik-tok.html",
+          "https://www.movavi.io/best-ring-lights-en/",
+          "https://www.goodhousekeeping.com/what-to-buy/g42532920/best-ring-lights/"
+        ],
+        "asin": "B0GTV47NRK",
+        "amazon": "in stock, ships from Amazon (FBA), sold by EMARTUS; B07TL6Z8LK redirects to this ASIN, checked 2026-11-06"
+      },
+      {
+        "name": "NEEWER RL-18 Ring Light 18inch Kit",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-ring-light",
+          "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+          "https://fixthephoto.com/best-ring-light-for-tik-tok.html",
+          "https://www.streamtechreviews.com/blog/ringlights"
+        ],
+        "asin": "B01LXDNNBW",
+        "amazon": "in stock, ships from Amazon (FBA), sold by iphotoxx, checked 2026-11-06"
+      },
+      {
+        "name": "Lume Cube Ring Light Pro",
+        "pages": [
+          "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+          "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+        ],
+        "asin": "B0BTMX8WQ7",
+        "amazon": "in stock, ships from Amazon (FBA), sold by Lume Cube LLC, checked 2026-11-06"
+      }
+    ],
+    "droppedCandidates": [
+      {
+        "name": "Razer Ring Light 12\"",
+        "reason": "recommended by DCW, TechGearLab and Photography Project, but the Amazon US listing shows no buy-box offer (only a Renewed listing)"
+      },
+      {
+        "name": "Westcott 18\" Bi-Color LED",
+        "reason": "only TechGearLab among the pages read"
+      },
+      {
+        "name": "Xinbaohong / Whellen clip-on lights",
+        "reason": "clip-on lights with no tripod; off-intent"
+      },
+      {
+        "name": "Rotolight Ultimate Vlogging Kit, ESDDI, Godox LR30Bi",
+        "reason": "no phone tripod stand or only one page"
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "ring-light-tripod-top-heavy-tips",
+        "pain": "A ring light on a light stand is top-heavy and sways or falls over",
+        "details": "Asked which tripod ring light to buy, r/AskPhotography replies warn about the top-heavy design and undersized stands.",
+        "sources": [
+          "https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/"
+        ],
+        "quotes": [
+          {
+            "text": "A sandbag on the tripod will help stop the top heavy design from falling over leaving only the sway from the undersized light-stand.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/"
+          }
+        ]
+      },
+      {
+        "id": "ring-light-glasses-glare",
+        "pain": "The ring shows up as a bright circle in glasses on video",
+        "details": "New YouTubers ask how to stop ring light glare in glasses; replies say move the light off-axis.",
+        "sources": [
+          "https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
+        ],
+        "quotes": [
+          {
+            "text": "Put the light at an angle (~45 degrees to your left, right or above you), instead of directly in front of you.",
+            "url": "https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
+          }
+        ]
+      },
+      {
+        "id": "ring-light-phone-holder-big-case",
+        "pain": "The phone holder does not grip a big phone in a thick case",
+        "details": "TechGearLab found UBeesize holders do not grip phones with a large case well and struggled to fit iPhone Plus models in a Lume Cube holder.",
+        "sources": [
+          "https://www.techgearlab.com/topics/electronics/best-ring-light"
+        ],
+        "quotes": []
+      },
+      {
+        "id": "ring-light-flat-catchlight",
+        "pain": "Ring light looks flat or gives odd ring catchlights",
+        "details": "r/videography and Quora users say a ring light gives even but flat light with distinct circular catchlights.",
+        "sources": [
+          "https://www.reddit.com/r/videography/comments/1mauwos/opinion_on_ring_lights/",
+          "https://www.quora.com/Why-is-it-essential-to-have-a-ring-light-for-your-photography"
+        ],
+        "quotes": [
+          {
+            "text": "The whole point of a ring light is having even lighting on the subject and minimize shadows.",
+            "url": "https://www.reddit.com/r/videography/comments/1mauwos/opinion_on_ring_lights/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "3.07 inches",
+        "claim": "iPhone 17 Pro Max width",
+        "url": "https://support.apple.com/en-us/125091",
+        "quote": "Width: 3.07 inches (78.0 mm)"
+      },
+      {
+        "number": "61\"",
+        "claim": "Neewer RL-18 light stand max height (19-61 in)",
+        "url": "https://neewer.com/products/led-ring-lights-66600024",
+        "quote": "Light Stand Height: 19\"-61\"/48-155cm"
+      },
+      {
+        "number": "70 Minutes",
+        "claim": "Lume Cube Ring Light Pro battery runtime",
+        "url": "https://www.bhphotovideo.com/c/product/1729601-REG/lume_cube_lc_ringpro_cordless_ring_light_pro.html",
+        "quote": "Runtime: 70 Minutes"
+      },
+      {
+        "number": "4-8in",
+        "claim": "Neewer stand most stable with leg joint 4-8 in off the ground",
+        "url": "https://neewer.com/products/led-ring-lights-66600024",
+        "quote": "The heavy duty light stand is the most stable when the center joint of the legs is 4-8in (10-20cm) from the ground."
+      }
+    ],
+    "videos": [
+      {
+        "id": "JpIlPnoPPgM",
+        "title": "How to set up and use a ring light",
+        "channel": "Marianne Hickman",
+        "url": "https://www.youtube.com/watch?v=JpIlPnoPPgM",
+        "section": "How to Set Up a Ring Light Tripod for iPhone"
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-content-creators",
+        "find": "The phone sits in the ring, so the light hits your face evenly.",
+        "replace": "The phone sits in the ring, so the light hits your face evenly; my [ring light tripods for iPhone](/blog/best-tripod-with-ring-light-for-iphone/) compare it with cheaper 10 in kits."
+      },
+      {
+        "slug": "best-tripod-for-live-streaming",
+        "find": "The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens.",
+        "replace": "The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens, or pick one of my [tripods with a ring light](/blog/best-tripod-with-ring-light-for-iphone/)."
+      }
+    ],
+    "textrazor": {
+      "ran": "2026-11-06",
+      "pages": [
+        "https://www.digitalcameraworld.com/buying-guides/best-ring-light",
+        "https://www.techgearlab.com/topics/electronics/best-ring-light",
+        "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights",
+        "https://fixthephoto.com/best-ring-light-for-iphone.html",
+        "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/"
+      ],
+      "file": "data/briefs/best-tripod-with-ring-light-for-iphone.entities.json",
+      "note": "CNN (bot wall) and GamesRadar (timeout) failed in TextRazor; 3 pages analysed; sharedEntities copied with salience = relevance"
+    },
+    "googleSuggestFile": "data/briefs/best-tripod-with-ring-light-for-iphone.suggest.json"
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-content-creators",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-gym-videos",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-iphone-night-mode-photos",
+      "mode": "related-box"
+    }
+  ]
+}

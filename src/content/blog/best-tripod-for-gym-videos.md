@@ -441,7 +441,7 @@ illustrations:
     alt: >-
       Phone tripod set at knee height at a 45 degree angle to film a squat in
       the gym
-    caption: Set the phone at knee height, 45 degrees behind the squat
+    caption: 'Set the phone at knee height, 45 degrees behind the squat'
     afterHeading: 4
   - prompt: >-
       Close-up of two hands sliding a large smartphone in a slim case into a
@@ -469,6 +469,7 @@ heroAlt: >-
   Best Tripod for Gym Videos (2026) – 5 Picks From Bench to Platform – Best
   Tripod buying guide
 related:
+  - best-tripod-with-ring-light-for-iphone
   - best-tripod-for-guitar-videos
   - best-tripod-for-golf-swing-recording
   - best-tripod-for-live-streaming

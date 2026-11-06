@@ -1,0 +1,152 @@
+{
+  "keyword": "best tripod with ring light for iphone",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Light",
+      "type": "/visual_art/art_subject",
+      "pages": 3,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Light",
+      "wikidata": "Q9128",
+      "kgmid": "/m/04k84"
+    },
+    {
+      "entity": "Lighting",
+      "type": "/people/profession",
+      "pages": 3,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Lighting",
+      "wikidata": "Q210064",
+      "kgmid": "/m/019sc6"
+    },
+    {
+      "entity": "Selfie",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie",
+      "wikidata": "Q12068677",
+      "kgmid": "/m/0sgh53y"
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
+      "wikidata": "Q267298",
+      "kgmid": "/m/01c0z"
+    },
+    {
+      "entity": "UBeesize",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.8,
+      "wiki": ""
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "IPhone",
+      "type": "Device",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/IPhone",
+      "wikidata": "Q2766",
+      "kgmid": "/m/027lnzs"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "wikidata": "Q22645",
+      "kgmid": "/m/0169zh"
+    },
+    {
+      "entity": "Light-emitting diode",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Light-emitting_diode",
+      "wikidata": "Q25504",
+      "kgmid": "/m/04myn"
+    },
+    {
+      "entity": "USB",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/USB",
+      "wikidata": "Q42378",
+      "kgmid": "/m/07wcf"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Rechargeable battery",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Rechargeable_battery",
+      "wikidata": "Q187510",
+      "kgmid": "/m/01cmg_"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Video",
+      "type": "/internet/website_category",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "wikidata": "Q34508",
+      "kgmid": "/m/07z4p"
+    },
+    {
+      "entity": "Remote control",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Remote_control",
+      "wikidata": "Q185091",
+      "kgmid": "/m/0qjjc"
+    },
+    {
+      "entity": "Color temperature",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Color_temperature",
+      "wikidata": "Q327408",
+      "kgmid": "/m/02155"
+    }
+  ],
+  "errors": [
+    "https://www.cnn.com/cnn-underscored/reviews/best-ring-lights: <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=…",
+    "https://www.gamesradar.com/best-ring-light-selfies-streaming-vlogging-video-calls/: Timeout reading from URL: https://ww…"
+  ]
+}

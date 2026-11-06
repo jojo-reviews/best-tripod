@@ -5729,7 +5729,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod with ring light for iphone",
@@ -5746,7 +5746,11 @@
     "funnel": "bofu",
     "cluster": "ring_light",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-11-06T11:19:11.072Z",
+    "publishedAt": "2026-11-06T11:34:34.443Z",
+    "productCountNote": "5 qualifying products (2+ top-10 pages, in-stock Amazon US listing); queue had drawn 18"
   },
   {
     "status": "published",
