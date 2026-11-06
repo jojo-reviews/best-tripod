@@ -80,7 +80,7 @@
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "leg material on light travel tripods",
+      "relation": "leg material on light travel tripods (SIRUI Traveler 5C); TextRazor: Carbon-fiber reinforced polymer",
       "salience": 0.66,
       "pages": 3
     },
@@ -126,6 +126,36 @@
       "type": "camera feature",
       "relation": "GR III drive mode for star and light trails, needs a tripod",
       "salience": 0.4
+    },
+    {
+      "name": "Point-and-shoot camera",
+      "type": "camera format",
+      "relation": "the GR III is an APS-C point-and-shoot that lives in a pocket, so its tripod must be pocketable too",
+      "salience": 0.69
+    },
+    {
+      "name": "Street photography",
+      "type": "genre",
+      "relation": "main GR III use; mini tripods on walls and ledges for night street shots",
+      "salience": 0.59
+    },
+    {
+      "name": "Vanguard",
+      "type": "brand",
+      "relation": "travel tripods mentioned in sources, but no model named twice",
+      "salience": 0.75
+    },
+    {
+      "name": "Aluminium",
+      "type": "material",
+      "relation": "PIXI Mini (aluminum and technopolymer) and PIXI EVO (aluminum) build material",
+      "salience": 0.29
+    },
+    {
+      "name": "Ricoh",
+      "type": "brand",
+      "relation": "maker of the GR III, GR IIIx and GR IV; spec sheet and manual are the camera sources",
+      "salience": 0.68
     }
   ],
   "attributes": [
@@ -136,7 +166,9 @@
     "head type and lock",
     "leg type (fixed, two-angle, flexible, telescoping)",
     "quick-release plate or direct screw",
-    "leg sections and leg lock"
+    "leg sections and leg lock",
+    "material (aluminum, technopolymer, ABS plastic, carbon fiber)",
+    "use surface (table, ledge, railing, uneven ground, standing height)"
   ],
   "ngrams": [
     "ricoh gr iii",
@@ -149,7 +181,11 @@
     "carbon fiber",
     "gorillapod",
     "quick release plate",
-    "pocket camera"
+    "pocket camera",
+    "point-and-shoot",
+    "uneven ground",
+    "night street",
+    "standing height"
   ],
   "skipgrams": [
     "tripod…pocket",
@@ -172,7 +208,11 @@
     "railing",
     "ledge",
     "wind",
-    "blue hour"
+    "blue hour",
+    "vertical framing",
+    "night photography",
+    "travel photography",
+    "aluminum"
   ],
   "questions": [
     "What is the best tripod for the Ricoh GR III?",
@@ -636,7 +676,9 @@
         "pages": 2,
         "relevance": 0.24
       }
-    ]
+    ],
+    "semanticPass": "2026-11-06",
+    "note2": "2026-11-06 run: reddit, fredmiranda, B&H, dpreview, pentaxforums blocked TextRazor (Cloudflare/HTML); analysed accio + ricohgr.eu. Missing worked in: Point-and-shoot camera, Aluminium (carbon fiber, street photography, Vanguard already present). Skipped as noise: Market trend, Shopee, SmallRig, Manizek, Amazon, Pricing, Snapshot, date, Monopod (no source for a monopod claim)."
   },
   "internalLinkCandidates": [
     "best-tabletop-camera-tripod",
@@ -669,5 +711,83 @@
     "tripod for ricoh gr iiix",
     "ricoh gr 3 tripod"
   ],
-  "angle": "Every pick under 2 lb, sized to the 257 g GR III, pocket to 54.3 in."
+  "angle": "Every pick under 2 lb, sized to the 257 g GR III, pocket to 54.3 in.",
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-ricoh-gr-iii.suggest.json (2026-11-06)",
+    "relevant": [
+      "ricoh gr",
+      "night photography",
+      "long exposure photography",
+      "travel photography",
+      "street photography",
+      "uneven ground",
+      "vertical shooting",
+      "landscape photography"
+    ],
+    "usedIn": [
+      "intro (street photography, night walks)",
+      "PIXI EVO section + chooser (uneven ground, vertical framing)",
+      "SIRUI + setup (long exposure, blue hour)"
+    ],
+    "skipped": [
+      "under 100",
+      "under 200 (no prices)",
+      "unrelated cameras/scopes"
+    ]
+  },
+  "amazonFilters": {
+    "url": "https://www.amazon.com/s?k=best+tripod+for+ricoh+gr+iii",
+    "date": "2026-11-06",
+    "groups": [
+      {
+        "group": "Brand",
+        "options": [
+          "Zeadio",
+          "Victiv",
+          "K&F Concept",
+          "Neewer",
+          "Ulanzi",
+          "SmallRig",
+          "Fotopro",
+          "Sirui"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Under $25",
+          "$25 to $50",
+          "$50 to $100",
+          "$100 & Above"
+        ]
+      },
+      {
+        "group": "Customer Rating",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up",
+          "2 Stars & Up",
+          "1 Star & Up"
+        ]
+      },
+      {
+        "group": "Color",
+        "options": [
+          "Black",
+          "Silver",
+          "Blue",
+          "Red",
+          "Green"
+        ]
+      }
+    ],
+    "usedIn": [
+      "Brand: Ulanzi and Sirui picks already covered"
+    ],
+    "skipped": [
+      "Price, Customer Rating (no prices/ratings rule)",
+      "Color (shopping-only)",
+      "other brands (not on 2+ sources)"
+    ]
+  }
 }

@@ -1,9 +1,12 @@
 {
   "slug": "best-tripod-for-canon-r8",
   "pass": true,
-  "checkedAt": "2026-11-06T11:44:45.650Z",
+  "checkedAt": "2026-11-06T15:30:48.745Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: paragraph style: the review of \"Peak Design Travel Tripod (Aluminum)\" is under ~100 words",
+    "LIVE POST, FIX: body has 1418 words, over the 1380 limit (top results average 1200): cut repetition and filler",
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +17,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-03: Canon R8 461 g with battery and card (Canon EOS R8 manual specifications page); RF 24-105 F4-7.1 IS STM 395 g, RF 70-200 F4 L 695 g, RF 100-400 635 g (Canon USA product pages); load math 856 g / 1,156 g, headroom 7.8x on 9-9.07 kg ratings, tripod-to-camera ratio 1.8x / 3.5x. Product specs: Peak Design Travel Tripod Aluminum (Peak Design page + ShutterMuse spec table + Amazon title 20 lb); Befree Advanced Lever (B&H/Manfrotto: 50.39 in column down, 15.75 in, 9 kg, 494 head, RC2/Arca plate); Leofoto LS-284CX+LH-30 (B&H: 22 lb, 6.3-67.7 in, 22 in folded, twist locks, 3.2 lb, Arca LH-30; Lonely Speck ~50 in no column); Benro Mach3 TMA38CL (Amazon title + Benro USA: 69.7 in, 35.3 lb, 4 sections, twist locks, legs only, 23.2 in, 4.52 lb); Manfrotto 055 MK055XPRO3-BHQ2 (Manfrotto: 59.65 in column down, 15 kg, 28.54 in, 6.61 lb, 200PL-14). ASINs hand-checked on Amazon US via Firecrawl: B085BQS6K4 (in stock), B0772WLSHZ (in stock, Amazon.com), B0DQNKMF8Y (in stock), B00YEU96GQ (in stock), B010R4BO12 (in stock, Amazon.com); Vanguard VEO 3GO 235CB/265HCB dropped (out of stock). Owner claims checked against Canon Rumors R8 threads, Camera Rumors R8 thread, r/canon excerpts; quotes copied verbatim from the Canon Rumors pages. Video -3tbGcmQvGo checked (Befree setup with Canon R8, MrPistoneTechtips). Re-verified 2026-11-04: only change is the spelling fix 'favour' -> 'favor' (patent rule 2026-11-04); no facts changed.",
-    "at": "2026-11-04T09:24:01.579Z",
-    "hash": "49a0ed0e74f0acf3"
+    "notes": "2026-11-06 semantic pass: TextRazor (3 of top-5 pages analyzed) added carbon-fiber reinforced polymer; leg material column from maker specs (Peak Design aluminum, Befree aluminum, Leofoto carbon, Benro 9X carbon, 055 aluminum); method wording rewritten without SEO/Amazon process terms; no new prices, ratings or tests; specs unchanged.",
+    "at": "2026-11-06T15:30:34.050Z",
+    "hash": "a72582b61cfe676c"
   }
 }

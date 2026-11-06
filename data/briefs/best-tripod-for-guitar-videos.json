@@ -14,100 +14,116 @@
       "type": "product type",
       "relation": "three-legged stand that holds the phone or camera still for a whole take",
       "salience": 0.96,
-      "pages": 3
+      "pages": 2,
+      "wikidata": "Q1444534"
+    },
+    {
+      "name": "photography tripod",
+      "type": "product type",
+      "relation": "camera support class the picks belong to; height, head and load decide the fit",
+      "salience": 0.9,
+      "pages": 2,
+      "wikidata": "Q683906"
+    },
+    {
+      "name": "Video",
+      "type": "medium",
+      "relation": "the output: guitar playthroughs, lessons and covers for YouTube or reels",
+      "salience": 0.87,
+      "pages": 2,
+      "wikidata": "Q34508"
+    },
+    {
+      "name": "MagSafe",
+      "type": "technology",
+      "relation": "magnetic iPhone mount standard the JustTap uses; holds through MagSafe cases",
+      "salience": 0.68,
+      "pages": 2,
+      "wikidata": "Q100338267"
+    },
+    {
+      "name": "KraftGeek",
+      "type": "company",
+      "relation": "maker of the JustTap magnetic phone tripod, the top phone pick",
+      "salience": 0.58,
+      "pages": 2
+    },
+    {
+      "name": "Smartphone",
+      "type": "device",
+      "relation": "the camera most guitarists film on; needs a clamp or magnetic mount",
+      "salience": 0.57,
+      "pages": 2,
+      "wikidata": "Q22645"
     },
     {
       "name": "Guitar",
       "type": "instrument",
       "relation": "the subject; its neck, fretting hand and picking hand must stay in frame",
       "salience": 0.48,
-      "pages": 3
-    },
-    {
-      "name": "Smartphone",
-      "type": "device",
-      "relation": "the camera most guitarists film on; needs a clamp or magnetic mount",
-      "salience": 0.46,
-      "pages": 3
+      "pages": 3,
+      "wikidata": "Q6607"
     },
     {
       "name": "Camera",
       "type": "device",
       "relation": "mirrorless or DSLR body that needs a full-size tripod and head",
-      "salience": 0.37,
-      "pages": 4
-    },
-    {
-      "name": "MagSafe",
-      "type": "standard",
-      "relation": "Apple magnetic mount used by the KraftGeek JustTap instead of a clamp",
-      "salience": 0.68,
-      "pages": 2
-    },
-    {
-      "name": "KraftGeek",
-      "type": "company",
-      "relation": "maker of the JustTap magnetic phone tripod reviewed by a guitar teacher",
-      "salience": 0.58,
-      "pages": 2
+      "salience": 0.43,
+      "pages": 3,
+      "wikidata": "Q15328"
     },
     {
       "name": "Aluminium",
       "type": "material",
-      "relation": "leg and pole material of most picks",
+      "relation": "leg and pole material of the JustTap, SENSYNE and Element MII",
       "salience": 0.4,
-      "pages": 2
+      "pages": 2,
+      "wikidata": "Q663"
     },
     {
       "name": "Height",
       "type": "attribute",
-      "relation": "working height decides whether the shot is at eye level",
+      "relation": "max height vs seated eye level (about 43-53 in) decides the front shot",
       "salience": 0.23,
-      "pages": 2
+      "pages": 2,
+      "wikidata": "Q208826"
     },
     {
       "name": "YouTube",
       "type": "platform",
-      "relation": "where most guitar performance and lesson videos are posted",
+      "relation": "where guitar videos go; landscape framing",
       "salience": 0.22,
-      "pages": 2
-    },
-    {
-      "name": "Phone clamp",
-      "type": "accessory",
-      "relation": "spring holder that threads onto a 1/4-20 screw",
-      "salience": 0.5,
-      "pages": 3
-    },
-    {
-      "name": "Microphone stand",
-      "type": "equipment",
-      "relation": "alternative phone support many players already own",
-      "salience": 0.3,
-      "pages": 2
+      "pages": 2,
+      "wikidata": "Q866"
     }
   ],
   "attributes": [
     "working height without the center column vs seated eye level",
+    "Amazon max-height band (up to 39 in, 40-49, 50-64, 65 in & above)",
     "overhead or fretboard angle ability",
     "footprint next to a chair, amp and pedalboard",
     "phone mount type (clamp, magnetic, screw)",
-    "remote shutter included",
+    "remote shutter included (Bluetooth range)",
     "stability at full extension",
     "packed length for gigs",
-    "rated load vs phone or camera weight"
+    "rated load vs phone or camera weight",
+    "head type (ball head for cameras)",
+    "smartphone vs camera compatibility"
   ],
   "ngrams": [
     "tripod for guitar videos",
     "phone tripod",
     "phone holder",
+    "guitar phone holder",
     "eye level",
     "fretboard",
     "selfie stick tripod",
     "ball head",
     "center column",
     "guitar playing",
-    "record audio"
+    "record audio",
+    "bluetooth remote",
+    "magnetic mount"
   ],
   "skipgrams": [
     "tripod…guitar",
@@ -115,7 +131,9 @@
     "eye…level",
     "film…playing",
     "wobble…extension",
-    "audio…separately"
+    "audio…separately",
+    "magnet…case",
+    "remote…range"
   ],
   "nlpTerms": [
     "playthrough",
@@ -123,6 +141,9 @@
     "picking hand",
     "12th fret",
     "overhead shot",
+    "overhead arm",
+    "POV",
+    "headstock",
     "over-the-shoulder",
     "portrait",
     "landscape",
@@ -131,7 +152,10 @@
     "audio interface",
     "1/4-20 screw",
     "MagSafe",
-    "mic stand adapter"
+    "N52 magnet",
+    "USB-C",
+    "mic stand adapter",
+    "boom mic stand"
   ],
   "questions": [
     "What is the best tripod for filming guitar videos?",
@@ -146,7 +170,10 @@
     "Tripod height mapped to seated eye height for a seated guitarist",
     "Which tripods can do the overhead fretboard angle",
     "Footprint next to a chair, amp and pedalboard",
-    "Audio placement as part of the setup, not just the camera"
+    "Audio placement as part of the setup, not just the camera",
+    "guitar-mounted phone holders (headstock/body clamp, POV) and why they are not picks",
+    "overhead arm (boom mic stand, desk-clamp arm) for fretboard shots",
+    "phone-to-interface cable or small recorder for audio"
   ],
   "outline": [
     {
@@ -513,5 +540,163 @@
     "tripod for filming yourself playing guitar"
   ],
   "angle": "Sorted by camera angle a guitarist actually uses (front performance, overhead/fretboard, desk practice, gig bag), with seated eye height and audio placement built into the setup.",
-  "textrazor": "Ran scripts/textrazor-entities.mjs on 5 top pages (data/briefs/best-tripod-for-guitar-videos.entities.json); shared entities copied with relevance as salience."
+  "textrazor": "2026-11-06 semantic pass: textrazor-entities.mjs on paulhillguitarist.com, richterguitar.com, virtualguitarorchestra.com, premiumbeat.com (r/recording blocked); 11 shared entities, missingFromPost none; relevance stored as salience.",
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-guitar-videos.suggest.json (2026-11-06)",
+    "relevant": [
+      "iphone",
+      "phone",
+      "camera",
+      "android phone",
+      "filming with iphone",
+      "iphone for filming",
+      "iphone with remote",
+      "mobile with remote",
+      "mobile with bluetooth remote",
+      "vlogging with phone",
+      "content creators",
+      "iphone with light"
+    ],
+    "usedIn": "intro (smartphone/camera), table Remote column, JustTap Bluetooth remote, SENSYNE Android fit, internal links to remote and content-creator posts",
+    "skipped": "hunting, spotting scope, rifle, starlink, astrophotography and other off-topic modifiers"
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+for+guitar+videos (Firecrawl, 2026-11-06)",
+    "groups": {
+      "Eligible for Free Shipping": [
+        "Free Shipping by Amazon"
+      ],
+      "Delivery Day": [
+        "Get It by Tomorrow"
+      ],
+      "Customer Reviews": [
+        "4 Stars & Up"
+      ],
+      "Price": [
+        "Up to $90",
+        "$90 to $250",
+        "$250 to $400",
+        "$400 to $700",
+        "$700 & above"
+      ],
+      "Deals & Discounts": [
+        "All Discounts",
+        "Buy More, Save More",
+        "Coupons",
+        "Today's Deals"
+      ],
+      "Max Height": [
+        "Up to 39 in",
+        "40 to 49 in",
+        "50 to 64 in",
+        "65 in & above"
+      ],
+      "Condition": [
+        "New",
+        "Used"
+      ],
+      "Special Features": [
+        "Lightweight",
+        "Foldable",
+        "Telescopic",
+        "Gooseneck",
+        "Includes Cover",
+        "Magnetic",
+        "One-Hand Operation",
+        "Pan-handle",
+        "Position-Convertible",
+        "Quick-Release",
+        "Remote Control",
+        "Slip Resistant",
+        "Spirit Level"
+      ],
+      "Brands": [
+        "ULANZI",
+        "SMALLRIG",
+        "NEEWER",
+        "K&F CONCEPT",
+        "Manfrotto",
+        "Sirui"
+      ],
+      "Color": [
+        "Black",
+        "Grey",
+        "Orange",
+        "White",
+        "Brown",
+        "Red",
+        "Pink",
+        "Green",
+        "Blue",
+        "Purple",
+        "Silver"
+      ],
+      "Min Height": [
+        "Up to 7.9 in",
+        "8.0 to 13.9 in",
+        "14.0 to 19.9 in",
+        "20.0 in & above"
+      ],
+      "Top Brands": [
+        "Top Brands"
+      ],
+      "Head Type": [
+        "Ball Heads",
+        "Geared Heads",
+        "Gimbal Heads",
+        "Pan Heads",
+        "Pistol Grip Heads"
+      ],
+      "Seller": [
+        "Amazon Resale",
+        "Amazon.com",
+        "First Harmonic Limited",
+        "Adorama",
+        "SmallRig",
+        "Kellards",
+        "onlystands"
+      ],
+      "Premium Brands": [
+        "Premium Brands"
+      ],
+      "Sustainability Features": [
+        "Any Feature",
+        "Carbon Impact",
+        "Recycled Materials",
+        "Safer Chemicals",
+        "Worker Wellbeing"
+      ],
+      "Width": [
+        "Up to 2.9 in",
+        "3 to 4.9 in",
+        "5 to 6.9 in",
+        "7 in & above"
+      ],
+      "Compatibility": [
+        "Binoculars",
+        "Camcorder",
+        "Camera",
+        "Microscope",
+        "Projector",
+        "Smartphone",
+        "Tablet",
+        "Telescope"
+      ],
+      "Depth": [
+        "Up to 1.9 in",
+        "2 to 2.9 in",
+        "3 to 3.9 in",
+        "4 to 4.9 in",
+        "5 in & above"
+      ],
+      "Height": [
+        "Up to 3.9 in",
+        "4 to 6.9 in",
+        "7 to 9.9 in",
+        "10 in & above"
+      ]
+    },
+    "usedIn": "Max Height bands as a table column; Remote Control, Magnetic and Ball Heads in the shopping line under the table; Smartphone/Camera compatibility in the picks; Telescopic/Gooseneck(flexible) covered by product types",
+    "skipped": "shipping, delivery, reviews, price, deals, condition, color, seller, sustainability, width/depth/height package filters"
+  }
 }

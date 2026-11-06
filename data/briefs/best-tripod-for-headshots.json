@@ -19,124 +19,169 @@
     {
       "name": "tripod head",
       "type": "component",
-      "relation": "ball head or pistol-grip head that tilts the camera to follow small posing shifts",
+      "relation": "ball, pistol-grip or geared head that tilts the camera to follow small posing shifts",
       "salience": 0.78,
-      "pages": 3
-    },
-    {
-      "name": "headshot",
-      "type": "concept",
-      "relation": "the tight portrait the tripod is set up for, shot near the subject's eye level",
-      "salience": 0.67,
       "pages": 3
     },
     {
       "name": "Headshot Crew",
       "type": "organization",
-      "relation": "Peter Hurley's headshot community that names Feisol tripods with an Arca-Swiss ball head",
+      "relation": "Peter Hurley's headshot community that lists the Feisol CT-3442 and CT-3472LV with Arca-Swiss monoball heads",
       "salience": 0.7,
       "pages": 2
     },
     {
       "name": "Manfrotto",
       "type": "brand",
-      "relation": "maker of the 055, 190XPRO and Befree tripods",
+      "relation": "maker of three picks (055, 190XPRO, Befree GT XPRO) and the 322RC2 pistol-grip head",
       "salience": 0.69,
       "pages": 2
     },
     {
+      "name": "headshot",
+      "type": "concept",
+      "relation": "the tight portrait the tripod is set up for, shot near the subject eye level",
+      "salience": 0.67,
+      "pages": 3
+    },
+    {
       "name": "Feisol",
       "type": "brand",
-      "relation": "maker of the CT-3442 Rapid carbon tripod recommended for headshot studios",
+      "relation": "maker of the CT-3442 top pick and the levelling-column CT-3472LV",
       "salience": 0.65,
       "pages": 2
     },
     {
       "name": "camera",
       "type": "product",
-      "relation": "DSLR or mirrorless body whose weight with the lens sets the load needed",
-      "salience": 0.54,
+      "relation": "held at the subject eye level, about 6.7 in above the tripod top plate with a ball head",
+      "salience": 0.56,
       "pages": 5
     },
     {
       "name": "workflow",
       "type": "concept",
-      "relation": "high-volume headshot sessions where setup speed and consistent framing matter",
+      "relation": "fast height changes between clients keep a headshot day moving",
       "salience": 0.56,
       "pages": 2
     },
     {
       "name": "portrait photography",
-      "type": "concept",
-      "relation": "the wider genre; same tripod needs at eye level",
+      "type": "genre",
+      "relation": "the wider genre; headshot tripods are portrait tripods set for eye level",
       "salience": 0.51,
       "pages": 2
     },
     {
       "name": "lens",
       "type": "product",
-      "relation": "85-100mm prime or 70-200mm zoom used for headshots; its weight drives the load margin",
+      "relation": "85-100mm or a 70-200mm whose weight sets the load the tripod must carry",
       "salience": 0.49,
       "pages": 2
     },
     {
       "name": "photographer",
       "type": "role",
-      "relation": "the person who stands beside the camera all day; posture is the reason to use a tripod",
+      "relation": "stands upright beside the tripod to direct the subject",
       "salience": 0.43,
       "pages": 4
     },
     {
+      "name": "zoom lens",
+      "type": "product",
+      "relation": "a 70-200mm telephoto zoom is the common heavy headshot lens",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
       "name": "Gitzo",
       "type": "brand",
-      "relation": "premium tripod brand some pages name; not picked here",
+      "relation": "Mountaineer series named by one top page; not a pick",
       "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "telephoto lens",
+      "type": "product",
+      "relation": "short telephoto focal lengths flatter faces and put the tripod a few steps back",
+      "salience": 0.41,
       "pages": 2
     },
     {
       "name": "height",
       "type": "attribute",
-      "relation": "legs-only and column-up height decide whether the lens reaches the subject's eye level",
+      "relation": "legs-only and column-up height against subject eye level",
       "salience": 0.39,
       "pages": 2
     },
     {
       "name": "carbon fiber",
       "type": "material",
-      "relation": "lighter legs for location headshots",
+      "relation": "lighter legs for location headshots (Feisol, 055)",
       "salience": 0.37,
-      "pages": 3
+      "pages": 2
     },
     {
       "name": "aluminum",
       "type": "material",
-      "relation": "heavier, cheaper legs that suit a fixed studio",
+      "relation": "cheaper, heavier legs for fixed studios (190XPRO, VEO 3+, Befree)",
+      "salience": 0.31,
+      "pages": 2
+    },
+    {
+      "name": "wide-angle lens",
+      "type": "product",
+      "relation": "avoided for headshots up close because it distorts faces",
       "salience": 0.31,
       "pages": 2
     },
     {
       "name": "center column",
       "type": "component",
-      "relation": "fine-tunes lens height between subjects of different heights",
-      "salience": 0.45
+      "relation": "10 to 13.38 in of travel covers different subject heights without moving the legs",
+      "salience": null,
+      "source": "brief"
     },
     {
       "name": "Arca-Swiss",
       "type": "standard",
-      "relation": "quick release plate standard headshot photographers leave on the camera",
-      "salience": 0.35
+      "relation": "quick release plate standard most headshot shooters leave on the camera",
+      "salience": null,
+      "source": "brief"
+    },
+    {
+      "name": "levelling center column",
+      "type": "component",
+      "relation": "half-ball column that levels the camera with one knob (Feisol CT-3472LV)",
+      "salience": null,
+      "source": "brief"
+    },
+    {
+      "name": "geared column",
+      "type": "component",
+      "relation": "crank-driven column for fine height changes between clients",
+      "salience": null,
+      "source": "brief"
+    },
+    {
+      "name": "tethering",
+      "type": "technique",
+      "relation": "laptop on a tether table clamped to a tripod leg for focus checks",
+      "salience": null,
+      "source": "brief"
     }
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-for-headshots.entities.json",
+    "date": "2026-11-06",
     "pagesAnalyzed": [
-      "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
-      "https://headshotcrew.com/gear",
-      "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+      "https://www.digitalcameraworld.com/buying-guides/best-tripod",
       "https://improvephotography.com/gear-old/tripods/",
-      "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+      "https://1kcreatives.com/tripod-heads-for-portrait-photography/",
+      "https://headshotcrew.com/gear",
+      "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026"
     ],
-    "note": "sharedEntities copied into entities above with relevanceScore as salience; site names and generic terms (Price, Budget, Gear, Leg) dropped."
+    "note": "Reddit page failed to fetch; noise (Image, Macro photography, Price, Budget, Leg, Gear, Photography) dropped. salience = TextRazor relevance."
   },
   "attributes": [
     "height with the center column down (tripod)",
@@ -148,7 +193,13 @@
     "leg lock type: twist or flip (tripod legs)",
     "head type: ball head or pistol grip (tripod head)",
     "quick release plate standard: Arca-Swiss or Manfrotto (tripod head)",
-    "Easy Link or accessory socket for a light or reflector (tripod)"
+    "Easy Link or accessory socket for a light or reflector (tripod)",
+    "levelling center column (tripod)",
+    "geared column or geared head (tripod head)",
+    "head included in the kit or legs only (tripod)",
+    "height band: 50 to 64 in vs 65 in & above (Amazon height filter)",
+    "quick-release plate (Amazon special feature)",
+    "lightweight and foldable (Amazon special features)"
   ],
   "ngrams": [
     "tripod for headshots",
@@ -160,7 +211,13 @@
     "70-200mm lens",
     "consistent framing",
     "Arca-Swiss plate",
-    "load capacity"
+    "load capacity",
+    "telephoto zoom lens",
+    "pistol-grip head",
+    "levelling center column",
+    "tether table",
+    "legs-only height",
+    "column travel"
   ],
   "skipgrams": [
     "camera…eye level",
@@ -168,7 +225,11 @@
     "subject…height",
     "step…beside the camera",
     "ball head…tilt",
-    "legs…spread"
+    "legs…spread",
+    "head…friction",
+    "column…travel",
+    "lens…eye level",
+    "laptop…tether"
   ],
   "nlpTerms": [
     "corporate headshots",
@@ -182,7 +243,14 @@
     "leg angle",
     "bubble level",
     "studio",
-    "on location"
+    "on location",
+    "wide-angle lens",
+    "joystick head",
+    "geared head",
+    "studio column stand",
+    "Arca-Swiss monoball",
+    "tether table",
+    "leveling"
   ],
   "questions": [
     "What is the best tripod for headshots?",
@@ -282,17 +350,17 @@
     {
       "position": 2,
       "url": "https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
-      "title": "Do you ever use a Tripod for portrait photography? If so, when? - Reddit"
+      "title": "Do you ever use a Tripod for portrait photography? If so, when?"
     },
     {
       "position": 3,
-      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
-      "title": "Best Tripods for Photography 2026: 4 Landscape Picks Tested in Patagonia"
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+      "title": "The best tripod for photography | Digital Camera World"
     },
     {
       "position": 4,
       "url": "https://improvephotography.com/gear-old/tripods/",
-      "title": "The Best Tripods, Ballheads, and Monopods - Improve Photography"
+      "title": "The Best Tripods, Ballheads, and Monopods"
     },
     {
       "position": 5,
@@ -301,8 +369,8 @@
     },
     {
       "position": 6,
-      "url": "https://www.facebook.com/groups/3352316955094348/posts/4434484493544250/",
-      "title": "What kind of tripod is best for portrait and scenery photography?"
+      "url": "https://www.bhphotovideo.com/c/buy/Tripod-Heads/ci/140/N/4075788769",
+      "title": "Tripod Heads for Still Photography | B&H Photo Video"
     },
     {
       "position": 7,
@@ -311,23 +379,23 @@
     },
     {
       "position": 8,
-      "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod",
-      "title": "Best tripod for photographers: full-size tripods for rock-steady support"
+      "url": "https://www.ggvideo.com/guide_best-tripods-for-photography.php",
+      "title": "Best Tripods for Photography | G&G Technologies"
     },
     {
       "position": 9,
-      "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
-      "title": "Best Camera Tripod Guide 2026 - The School of Photography"
+      "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
+      "title": "Best Tripod for Headshots: Top Picks & Reviews 2026"
     },
     {
       "position": 10,
-      "url": "https://www.alanranger.com/blog-on-photography/tripod-for-headshots-top-picks-amp-reviews-2026",
-      "title": "Best Tripod for Headshots: Top Picks & Reviews 2026"
+      "url": "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+      "title": "Which Tripod Head Is Best for Architectural Photography?"
     }
   ],
   "titlePattern": {
     "keywordAtStart": 1,
-    "withYear": 3,
+    "withYear": 1,
     "withNumber": 1,
     "commonModifiers": [
       "best",
@@ -336,7 +404,8 @@
       "picks",
       "reviews"
     ],
-    "gap": "Only one title targets headshots with a pick list and none promises a height answer; ours leads with the exact keyword, the year, the pick count and an eye-level promise."
+    "gap": "Only one title targets headshots with a pick list and none promises a height answer; ours leads with the exact keyword, the year, the pick count and an eye-level promise.",
+    "note2026_11_06": "Live top 10 on 2026-11-06 has 1 title with a year, so the year was removed from title/seoTitle (owner rule 2026-11-06)."
   },
   "serpProducts": [
     {
@@ -599,5 +668,92 @@
     "headshot tripod height",
     "studio tripod for headshots"
   ],
-  "angle": "Eye-level first: which tripod puts the lens at the subject's eye level on its legs, how far each column stretches for short and tall subjects, matched to studio, location and budget headshot setups."
+  "angle": "Eye-level first: which tripod puts the lens at the subject's eye level on its legs, how far each column stretches for short and tall subjects, matched to studio, location and budget headshot setups.",
+  "serpTitlesDate": "2026-11-06",
+  "googleModifiers": [
+    "for portraits",
+    "for portrait photography",
+    "head for portrait photography",
+    "for studio photography",
+    "for professional photography",
+    "for self portraits",
+    "how to take better headshots"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Special Features",
+      "options": [
+        "Lightweight",
+        "Foldable",
+        "Telescopic",
+        "Includes Cover",
+        "Remote Control",
+        "Quick-Release"
+      ]
+    },
+    {
+      "group": "Height",
+      "options": [
+        "Up to 39 in",
+        "40 to 49 in",
+        "50 to 64 in",
+        "65 in & above"
+      ]
+    },
+    {
+      "group": "Brand",
+      "options": [
+        "K&F Concept",
+        "Amazon Basics",
+        "Neewer",
+        "Manfrotto",
+        "SmallRig",
+        "Sirui",
+        "SIRUI"
+      ]
+    },
+    {
+      "group": "Customer Reviews",
+      "options": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up",
+        "1 Star & Up"
+      ]
+    },
+    {
+      "group": "Price",
+      "options": [
+        "Under $25",
+        "$25 to $50",
+        "$50 to $100",
+        "$100 to $200",
+        "$200 & Above"
+      ]
+    },
+    {
+      "group": "Promotion",
+      "options": [
+        "Today’s Deals",
+        "Coupons",
+        "Limited Time Deals"
+      ]
+    },
+    {
+      "group": "Condition",
+      "options": [
+        "New",
+        "Used"
+      ]
+    },
+    {
+      "group": "Sustainability Features",
+      "options": [
+        "Recycled Materials",
+        "Safer Chemicals",
+        "Worker Well-being"
+      ]
+    }
+  ],
+  "amazonFiltersUsed": "Height (65 in & above line under the table), Quick-Release/Lightweight/Foldable via weight, folded length and Arca-Swiss columns; Head column added to the table. Shopping chips (price, deals, reviews, condition, sustainability) skipped."
 }

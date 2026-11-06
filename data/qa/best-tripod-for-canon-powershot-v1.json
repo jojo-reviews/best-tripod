@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-03: V1 426 g with battery/card (Canon manual cam.start.canon), HG-100TBR/HG-200TBR listed as V1 accessories and 1 kg limit (canon.ie spec, Canon USA shop compatibility list incl. PowerShot V1, HG-100TBR manual PDF: 163 g body, 179 g with BR-E1, 148.5 mm as tripod, 190 mm grip; B&H 19 cm closed; ~16 ft remote range Canon USA); DPReview crop table 1.43x for Enhanced/subject-tracking IS 4K up to 30p; Ulanzi MT-16 22-44 cm, 170 g, 1.5 kg (Ulanzi/B&H) and ~500 g vertical (review); PIXI Mini MTPIXIMII-B 13.5 cm, 18.5 cm closed, 0.17 kg, 1 kg (Manfrotto/B&H); PIXI EVO 10.5-20 cm, 20.5 cm folded, 0.26 kg, 2.5 kg, -90/+40 tilt (Manfrotto); Peak Design Travel Tripod CF 51.25/60 in, 15.5 in folded, 20 lb, Arca-type plate (Peak Design). Amazon US listings hand-checked via Firecrawl: B07Z5LZ92N in stock (sold by Cardinal Camera), B08LGGXH1J ships from Amazon, B09GKLCP95 sold by Amazon, B0149KBPB4 ships from Amazon, B085BQTQMN sold by Amazon. Owner quotes checked: r/canon plate quote (search excerpt), Helen Avery Substack quote (page).",
-    "at": "2026-11-03T11:28:59.514Z",
-    "hash": "6eaa5ab35ceb859a"
+    "notes": "2026-11-06 semantic pass: added built-in 16-50mm-equivalent lens (DPReview/Canon specs), Canon EOS R50 naming and FAQ on 1/4in-20 socket fit for Canon EOS/mirrorless tripods; removed SEO-process wording in picking section; no prices, ratings, products or ASINs changed.",
+    "at": "2026-11-06T15:30:41.522Z",
+    "hash": "96bc3eb1db63ab2a"
   }
 }

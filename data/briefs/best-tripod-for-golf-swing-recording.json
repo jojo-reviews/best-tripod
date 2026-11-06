@@ -33,7 +33,7 @@
       "name": "Monopod",
       "type": "product type",
       "relation": "ground-spike stick (iRange, GPOD) that golfers use instead of a tripod",
-      "salience": 0.43,
+      "salience": 0.44,
       "pages": 2
     },
     {
@@ -100,7 +100,11 @@
     "phone holder width and MagSafe",
     "remote start/stop",
     "stability in wind",
-    "weight in the bag"
+    "weight in the bag",
+    "max height class (Amazon: up to 39 in, 40 to 49 in, 50 to 64 in, 65 in & above)",
+    "telescopic vs flexible legs",
+    "remote control included",
+    "smartphone compatibility (iPhone, MagSafe)"
   ],
   "ngrams": [
     "record your swing",
@@ -113,7 +117,10 @@
     "bluetooth remote",
     "phone holder",
     "driving range",
-    "hand height"
+    "hand height",
+    "max height",
+    "telescopic tripod",
+    "iphone tripod"
   ],
   "skipgrams": [
     "spike…ground",
@@ -571,6 +578,167 @@
         "relevance": 0.43,
         "wiki": "http://en.wikipedia.org/wiki/Monopod"
       }
+    ],
+    "rerun": "2026-11-06",
+    "rerunPages": 3,
+    "rerunNote": "2026-11-06 semantic pass: top 5 = r/golf, GPOD, Amazon golf-swing page, MyGolfSpy, Hackers Paradise; Reddit and MyGolfSpy/GolfWRX blocked fetch. Shared: Monopod 0.44, Golf 0.42, Amazon (noise). No relevant missingFromPost."
+  },
+  "googleModifiers": {
+    "source": "google-suggest.mjs 2026-11-06",
+    "suggestions": [
+      "best tripod for recording golf swing",
+      "best stand for recording golf swing",
+      "best iphone tripod for recording golf swing",
+      "best tripod for golf swing",
+      "best tripod for filming golf swing",
+      "best iphone tripod for golf swing",
+      "best phone tripod for golf swing",
+      "best tripod for videoing golf swing",
+      "best iphone stand for golf swing",
+      "best phone stand for golf swing",
+      "best stand for filming golf swing",
+      "tripod for golf swing",
+      "tripod for golf swing reddit",
+      "what is the best golf swing",
+      "how to stand for golf swing",
+      "posture for golf swing",
+      "best iphone tripod for filming golf swing",
+      "best phone tripod for filming golf swing"
+    ],
+    "used": [
+      "iphone tripod (FAQ: best iPhone tripod for filming a golf swing)",
+      "stand / filming / videoing (secondary keywords)"
+    ],
+    "skipped": [
+      "what is the best golf swing",
+      "how to stand for golf swing",
+      "posture for golf swing (swing technique, not gear)",
+      "reddit (forum owner reports already cited)"
+    ]
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+for+golf+swing+recording (Firecrawl, 2026-11-06)",
+    "groups": [
+      {
+        "group": "Price",
+        "options": [
+          "$12–$540",
+          "Up to $50",
+          "$50 to $100",
+          "$100 to $250",
+          "$250 to $600",
+          "$600 & above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up"
+        ]
+      },
+      {
+        "group": "Max Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Used"
+        ]
+      },
+      {
+        "group": "Special Features",
+        "options": [
+          "Lightweight",
+          "Foldable",
+          "Telescopic",
+          "Includes Cover",
+          "Pan-handle",
+          "Quick-Release",
+          "Remote Control",
+          "Slip Resistant",
+          "Spirit Level",
+          "Worker Wellbeing"
+        ]
+      },
+      {
+        "group": "Seller",
+        "options": [
+          "Amazon Resale",
+          "Vanguard USA Inc.",
+          "Amazon.com",
+          "SmallRig",
+          "SIRUI USA",
+          "CIKAA MALL",
+          "Adorama"
+        ]
+      },
+      {
+        "group": "Color",
+        "options": [
+          "Black",
+          "Grey",
+          "Orange",
+          "Red",
+          "Blue",
+          "Gold",
+          "Silver"
+        ]
+      },
+      {
+        "group": "Height",
+        "options": [
+          "Up to 3.9 in",
+          "4 to 6.9 in",
+          "10 in & above"
+        ]
+      },
+      {
+        "group": "Compatibility",
+        "options": [
+          "Binoculars",
+          "Camcorder",
+          "Camera",
+          "Microscope",
+          "Projector",
+          "Smartphone",
+          "Tablet",
+          "Telescope"
+        ]
+      },
+      {
+        "group": "Depth",
+        "options": [
+          "Up to 1.9 in",
+          "3 to 3.9 in",
+          "4 to 4.9 in",
+          "5 in & above"
+        ]
+      },
+      {
+        "group": "Width",
+        "options": [
+          "Up to 2.9 in",
+          "3 to 4.9 in",
+          "7 in & above"
+        ]
+      }
+    ],
+    "used": [
+      "Max Height (comparison column + 40-49 / 50-64 in class sentence in the first H2)",
+      "Remote Control (table column)",
+      "Telescopic, Lightweight (product sections)",
+      "Compatibility: Smartphone (product sections, iPhone FAQ)"
+    ],
+    "skipped": [
+      "Sort by, Price, Customer Reviews, Condition, Seller, Color (shopping-only)",
+      "Height/Depth/Width (package dimensions, not useful)"
     ]
   }
 }

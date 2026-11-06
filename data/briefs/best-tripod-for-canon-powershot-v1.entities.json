@@ -1,24 +1,16 @@
 {
   "keyword": "best tripod for canon powershot v1",
-  "pagesAnalyzed": 3,
+  "pagesAnalyzed": 5,
   "sharedEntities": [
-    {
-      "entity": "Camera",
-      "type": "/fictional_universe/character_species",
-      "pages": 3,
-      "relevance": 0.69,
-      "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "kgmid": "/m/0dv5r",
-      "wikidata": "Q15328",
-      "idsChecked": true
-    },
     {
       "entity": "Tripod",
       "type": "",
       "pages": 2,
       "relevance": 0.94,
       "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "idsChecked": true
+      "idsChecked": true,
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
     },
     {
       "entity": "Canon PowerShot",
@@ -44,10 +36,20 @@
       "entity": "Canon Inc.",
       "type": "Agent",
       "pages": 2,
-      "relevance": 0.74,
+      "relevance": 0.76,
       "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
       "kgmid": "/m/01bvx1",
       "wikidata": "Q62621",
+      "idsChecked": true
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
       "idsChecked": true
     },
     {
@@ -59,6 +61,24 @@
       "kgmid": "/m/04rh6b",
       "wikidata": "Q674926",
       "idsChecked": true
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.5,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "wikidata": "Q192234",
+      "kgmid": "/m/01bjxx"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "wikidata": "Q62944",
+      "kgmid": "/m/03lwkk"
     },
     {
       "entity": "Carbon-fiber reinforced polymer",
@@ -94,5 +114,9 @@
   "errors": [
     "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr: <HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;usa&#46;canon&#46;com&#47;shop&#47;p&#47;tripod&#45;grip&#45;hg&#45;100tbr\" on this server.<P>\nReference&#32;&#35;18&#46;85f93017&#46;1793705031&#46;d3f0422\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f93017&#46;1793705031&#46;d3f0422</P>\n</BODY>\n</HTML>\n",
     "https://www.mpb.com/en-us/content/kit-guides/review-canon-powershot-v1: <!-- @format -->\n\n<!DOCTYPE html>\n<html>\n    <head>\n        <title>MPB - Security check</title>\n        <meta charset=\"utf-8\" />\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n        <meta name=\"robots\" content=\"noindex\" />\n        <style type=\"text/css\">body,html{background-color:#fff;font-size:16px;height:100vh;width:100vw}.branding,body,html{align-items:center;display:flex;justify-content:center;text-align:center}.branding{flex-direction:column;gap:2rem}</style>\n    <meta http-equiv=\"refresh\" content=\"360\"></head>\n    <body>\n        <div class=\"branding\">\n            <svg\n                width=\"56\"\n                height=\"24\"\n                viewBox=\"0 0 56 24\"\n                fill=\"none\"\n                xmlns=\"http://www.w3.org/2000/svg\"\n            >\n                <g>\n                    <circle cx=\"4\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"4\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"4\" cy=\"20\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"12\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"12\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"20\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"20\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"28\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"28\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"28\" cy=\"20\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"36\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"36\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"44\" cy=\"4\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"44\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"44\" cy=\"20\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"52\" cy=\"12\" r=\"4\" fill=\"#1F2F35\" />\n                    <circle cx=\"52\" cy=\"20\" r=\"4\" fill=\"#1F2F35\" />\n                </g>\n            </svg>\n\n            <div><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '2eRJu78vgdmQfsXmaL_L2Wn3N4dHQaDfhtRHkwmE99c-1793705032-1.2.1.1-F2fQJ38slG5HX.A18WB67vAMKbkJFFX1opzlnfMGxfMQaq2oofD7M29cAGCeJtnQ',cITimeS: '1793705032',cRay: 'a54b02635ba50d60',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/en-us/content/kit-guides/review-canon-powershot-v1?__cf_chl_tk=4V0q3wQsfsXIoT3dp0EBO_tKosgd261AkRCffM_y_Ns-1793705032-1.0.1.1-LdfrtGu2Xjq5j7Go8TvafWIQumxMKlcorEMKZ3tgGsY\",cvId: '3',cZone: 'www.mpb.com',fa:\"/en-us/content/kit-guides/review-canon-powershot-v1?__cf_chl_f_tk=4V0q3wQsfsXIoT3dp0EBO_tKosgd261AkRCffM_y_Ns-1793705032-1.0.1.1-LdfrtGu2Xjq5j7Go8TvafWIQumxMKlcorEMKZ3tgGsY\",md: 't10IXk_fL0pBqk2itluqjLEuvLuzR8A3HBN5guc3FCA-1793705032-1.2.1.1-3GUg.EE8c7FYbU822dQQtB30KTmdnwjBkUnrTZJwAWKtiRuE2OjHfDPKcNLlZagIjDVEPuACwCa6Cc76ebSimfb0EhzS1kO3fU8lbNPxQi0HIsD58HZS1wpUL7wsaBVdt4gyC1ABCT5cBAb9wQg.oJ5xIH9nFchCwG4d7y8gguKPTxh1G97eSNDP6pHMUm5.r997owHGJfo9WtzKU_I1O0wHOIgl.VnpxPQxDEmuQzuoKPC07.S6SiYTanytvFVOsc7IhSX0lrq9qoHiQq_9aQm2yb.hGhNAIgjsNjg7nfKCxB5RN158WwkdUcf8440F3exJHEyk1tI.uzLLQGKgUIym74ccYAp3kgnP2wTbr_lKuF6tet9vL__LMgwRdxuMpAe34d3UiEtUN1rNm.XtSKbKF_5eyH1Looc0ZMG.TaQjpNqqdyp4YqX5N3Vs2WPHzAH8QxUMk3cTDOdxe.U5E1N85yCzMuHrJraZ8ftOm_Ktq1vPATK63qjYw_ed0QjiR6YGGGkC_67woR0x9sRGocEgbbR3qgVZes72YFfOs38FGshIRu1xshQYmP61Wa8ZvrPMTPXTLzGaKjOimP3WeyIeqWjygdiZ0p0W6K8gXRzAHQISdHeFvMMar4cYTZbKbCR2svqQnne.axGK9nJBq7OKW4h5RhuwB0FQu3a4zfJ_dd4nITuN9GLg03YcbYAN5Ruj5fYiv_xrk3aH7Uqgcw7iNbzmSJdN7Ysjc.j41yQs2HtIauo.f4DVar7zzCSZdkUgAmSSK29DlJIyR1CE68HRCxE27_x8eZ9vUEsNM6Q1zolMtEiNVlx.iWlfBdzDVR3KNxUq6ZWTMUtdvUOBL9vJejyNWGjP7edugPAZAyBgvR5O7pLFgnaCUKuLbVuBlEVGijaiNakbZa4OyqB3_QIp0C5aL4y4Sz3b2237.Y2mglcD2AtPFlVwG.xUepcdTWAXL.PUHk5739sgsOjQEhuNenHzsOBhTZQAlXwGdmdJjfBWKKXYlToclp6S4ZVG_vVPrYNQfWVIGHvzT19nIIdFwdmavpeNuuPiNQfaKKCO4qysXJdqD91i8HcLCmD7ukBb4XIwej.LlA.R3sgInTLDTd1UpnFPPXWugaXv7nDxbKP0EEP_P1gfJ9iZ4fYwIbdBnlsKlQ2r.onxEDWGG6unY_YFFqoTkUCf4Ox.1yoVbuK1BeZEE9YB3VECb_.r.DZXpEufjbzRRr.Hk5LcernQyY6DjZQ46.eBszIBmIY',mdrd: 'NpY9vnirm1zwBQwU1nVdas0svlCo6_X2k67tKnv4Owo-1793705032-1.2.1.1-Wdfi5noku5B82a.TjwaasW60I0TCepa45bf18hBt2VbsQwxUmr.hV2gaScmYl8LgDKB_IZXi2OMd6o5SiVX5uu0vdHJOFp3SG5Wc6CSuLJaaE3.pQPs8nAmUZI3HWIk7JYRsqdLSyqkyPVH3MocCOc.BOUqv2e3xYdqV7ENHnekU5AfehdUCC2raiXALfaB0bLLM2J_dXqs_xIqrXAxep99KampcBn1X22GbJTeZhjQp0pFYMYE3VoCt_3ChoMRv',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a54b02635ba50d60';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/en-us/content/kit-guides/review-canon-powershot-v1?__cf_chl_rt_tk=4V0q3wQsfsXIoT3dp0EBO_tKosgd261AkRCffM_y_Ns-1793705032-1.0.1.1-LdfrtGu2Xjq5j7Go8TvafWIQumxMKlcorEMKZ3tgGsY\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>\n        </div>\n    </body>\n</html>\n"
+  ],
+  "missingFromPost": [
+    "Camera lens",
+    "Canon EOS"
   ]
 }

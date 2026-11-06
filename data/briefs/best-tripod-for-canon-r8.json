@@ -26,7 +26,7 @@
       "type": "product category",
       "relation": "the support every top page compares",
       "salience": 0.82,
-      "pages": 5,
+      "pages": 3,
       "textrazorName": "Tripod (photography)"
     },
     {
@@ -34,22 +34,22 @@
       "type": "product line",
       "relation": "R8 sits in Canon's EOS R full-frame range",
       "salience": 0.63,
-      "pages": 3
+      "pages": 2
     },
     {
       "name": "Canon",
       "type": "company",
       "relation": "maker of the R8 and the RF lenses whose weights set the load",
       "salience": 0.57,
-      "pages": 4,
+      "pages": 2,
       "textrazorName": "Canon Inc."
     },
     {
       "name": "carbon fiber",
       "type": "material",
       "relation": "leg material for the Leofoto and Benro picks; lighter than aluminum",
-      "salience": 0.48,
-      "pages": 5,
+      "salience": 0.63,
+      "pages": 3,
       "textrazorName": "Carbon-fiber reinforced polymer"
     },
     {
@@ -57,7 +57,7 @@
       "type": "material",
       "relation": "leg material for the Peak Design, Befree and 055 picks; cheaper",
       "salience": 0.37,
-      "pages": 3,
+      "pages": 2,
       "textrazorName": "Aluminium"
     },
     {
@@ -79,14 +79,14 @@
       "name": "Benro",
       "type": "brand",
       "relation": "maker of the Mach3 TMA38CL pick",
-      "salience": 0.57,
+      "salience": 0.62,
       "pages": 2
     },
     {
       "name": "Sirui",
       "type": "brand",
       "relation": "named in two Canon Rumors threads (AM-254) but not on two independent sites",
-      "salience": 0.45,
+      "salience": 0.46,
       "pages": 3
     },
     {
@@ -149,6 +149,46 @@
       "name": "vari-angle screen",
       "type": "feature",
       "relation": "lets R8 owners frame low with the column down; an L-bracket can block it"
+    },
+    {
+      "name": "Leofoto",
+      "type": "brand",
+      "relation": "maker of the columnless LS-284CX carbon fiber pick",
+      "salience": 0.74,
+      "pages": 2,
+      "textrazorName": "Leofoto"
+    },
+    {
+      "name": "tripod leg",
+      "type": "component",
+      "relation": "leg thickness and sections set how much wind hum an R8 shows",
+      "salience": 0.54,
+      "pages": 2,
+      "textrazorName": "Leg"
+    },
+    {
+      "name": "camera",
+      "type": "product category",
+      "relation": "the R8 body the tripod has to hold still",
+      "salience": 0.57,
+      "pages": 2,
+      "textrazorName": "Camera"
+    },
+    {
+      "name": "landscape photography",
+      "type": "use case",
+      "relation": "main R8 tripod use in the threads, with long exposures",
+      "salience": 0.47,
+      "pages": 2,
+      "textrazorName": "Landscape"
+    },
+    {
+      "name": "camera backpack",
+      "type": "accessory",
+      "relation": "hung low from the center-column hook as wind ballast",
+      "salience": 0.48,
+      "pages": 2,
+      "textrazorName": "Backpack"
     }
   ],
   "attributes": [
@@ -161,7 +201,11 @@
     "Arca-Swiss compatibility",
     "columnless vs center column",
     "head with separate pan lock for video",
-    "legs-only vs kit"
+    "legs-only vs kit",
+    "leg material (aluminum vs carbon fiber, Amazon 'Material' filter)",
+    "max load capacity band (Amazon 'Max Load Capacity' filter)",
+    "height band (Amazon 'Height' filter: 50 to 64 in, 65 in & above)",
+    "head type (ball head vs pan head, Amazon 'Head Type' filter)"
   ],
   "ngrams": [
     "tripod for canon r8",
@@ -177,7 +221,11 @@
     "befree advanced",
     "leg locks",
     "folded length",
-    "no ibis"
+    "no ibis",
+    "carbon fiber legs",
+    "aluminum legs",
+    "tripod legs",
+    "camera bag"
   ],
   "skipgrams": [
     "tripod…R8",
@@ -186,7 +234,9 @@
     "arca…plate",
     "lens…weight",
     "bag…hook",
-    "legs…wind"
+    "legs…wind",
+    "carbon…aluminum",
+    "material…legs"
   ],
   "nlpTerms": [
     "Canon",
@@ -214,7 +264,10 @@
     "pan",
     "IBIS",
     "2-second timer",
-    "carry-on"
+    "carry-on",
+    "carbon-fiber reinforced polymer",
+    "pan head",
+    "travel tripod"
   ],
   "questions": [
     "What is the best tripod for a Canon R8?",
@@ -614,12 +667,174 @@
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-for-canon-r8.entities.json",
+    "date": "2026-11-06",
     "pages": [
+      "https://www.reddit.com/r/canon/comments/1br4awq/tripod_for_the_canon_r8/",
       "https://forum.canonrumors.co/rf-forum/best-tripod-for-canon-eos-r8/",
-      "https://www.camera-rumors.com/community/canon-forum/top-tripod-recommendations-for-canon-eos-r8-mark-ii-30408/",
-      "https://forum.canonrumors.co/rf-forum/best-travel-tripod-and-bag-recommendations-for-canon-eos-r8-users-75946/",
-      "https://promediagear.com/blogs/guides/best-accessories-for-canon-eos-r8",
-      "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r8/"
+      "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/",
+      "https://cameradecision.com/accessories/Canon-EOS-R8",
+      "https://www.camera-rumors.com/community/canon-forum/top-tripod-recommendations-for-canon-eos-r8-mark-ii-30408/"
+    ],
+    "pagesAnalyzed": 3,
+    "note": "reddit and cameradecision blocked the fetch; 3 pages analyzed",
+    "missingFromPost": [
+      "Carbon-fiber reinforced polymer"
+    ]
+  },
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-canon-r8.suggest.json",
+    "date": "2026-11-06",
+    "relevant": [
+      "travel (best travel tripod for canon r8)",
+      "eos r8",
+      "mirrorless camera",
+      "100 400mm lens"
+    ],
+    "other": "mostly other Canon bodies (r50, r6 mark ii, r10, rebel t7...), not for this post",
+    "modifiers": [
+      "r8",
+      "rebel t7",
+      "g7x mark iii",
+      "r6 mark ii",
+      "eos r50",
+      "camera",
+      "r50",
+      "eos r100",
+      "r10",
+      "r6 mark iii",
+      "g7x mark ii",
+      "ae-1",
+      "a1",
+      "c70",
+      "c80",
+      "mirrorless camera",
+      "r50 camera",
+      "dslr camera",
+      "dslr",
+      "5d mark iv",
+      "5d mark iii",
+      "eos r10",
+      "eos r7",
+      "eos 2000d",
+      "eos rebel t7",
+      "eos r8",
+      "eos r6 mark ii",
+      "eos",
+      "eos rp",
+      "g7x",
+      "sx740 hs",
+      "r5 mark ii",
+      "6d mark ii",
+      "m50 mark ii",
+      "100 400mm lens",
+      "m50",
+      "powershot v1",
+      "powershot v10",
+      "r6",
+      "r7",
+      "r5",
+      "sx740",
+      "t7",
+      "rebel t6"
+    ]
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+for+canon+r8",
+    "date": "2026-11-06",
+    "groups": [
+      {
+        "group": "Departments",
+        "options": [
+          "Camera & Photo",
+          "Professional Video",
+          "Tripods & Monopods",
+          "Accessories"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Under $25",
+          "$25 to $50",
+          "$50 to $100",
+          "$100 to $200",
+          "Above $200"
+        ]
+      },
+      {
+        "group": "Average Customer Review",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up",
+          "2 Stars & Up"
+        ]
+      },
+      {
+        "group": "Brand",
+        "options": [
+          "K&F CONCEPT",
+          "SMALLRIG",
+          "NEEWER",
+          "Manfrotto",
+          "Vanguard",
+          "JOBY"
+        ]
+      },
+      {
+        "group": "Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Head Type",
+        "options": [
+          "Ball Heads",
+          "Pan Heads"
+        ]
+      },
+      {
+        "group": "Material",
+        "options": [
+          "Aluminum",
+          "Carbon Fiber",
+          "Plastic"
+        ]
+      },
+      {
+        "group": "Max Load Capacity",
+        "options": [
+          "Under 10 lbs",
+          "10 to 20 lbs",
+          "20 to 30 lbs",
+          "30 lbs & above"
+        ]
+      },
+      {
+        "group": "Sustainability Features",
+        "options": [
+          "Recycled Materials",
+          "Carbon Impact",
+          "Safer Chemicals",
+          "Worker Wellbeing"
+        ]
+      }
+    ],
+    "usedInPost": [
+      "Material -> comparison table column + carbon vs aluminum sentence",
+      "Max Load Capacity -> table load column",
+      "Height -> table height column",
+      "Head Type -> ball head vs pan head FAQ"
+    ],
+    "skipped": [
+      "Departments",
+      "Price",
+      "Average Customer Review",
+      "Brand",
+      "Sustainability Features (shopping-only)"
     ]
   }
 }

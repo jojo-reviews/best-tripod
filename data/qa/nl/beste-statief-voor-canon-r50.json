@@ -16,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-canon-r50 (QA pass): same 5 products/ASINs/scores/spec keys/owners, same headroom maths (505 g; 18x/17.8x/15.8x/5.9x), FAQs same answers. Units metric first from the maker figures (Element MII 160/132/43/42,5 cm, 1,55 kg, 8 kg per Manfrotto global page; Peak 152,4/130,2/14/39,4 cm, 1,56 kg, 9,1 kg; Befree 151/128/40/40 cm, 1,59 kg, 9 kg, EU code MKBFRLA4BK-BH per Foto Erhardt; K&F 160/116/40/39 cm, 1,24 kg, 8 kg per kfconcept.com table re-opened; GorillaPod ~30 cm (12 in), 3 kg). Local facts from the local brief re-opened: R50 375 g with battery and card on the local Canon spec page; KLM hand baggage 55 x 35 x 25 cm incl. wheels and handles (klm.com); Rijksmuseum Boerhaave huisregels: fotograferen en filmen mag, maar zonder flits en zonder statief (scraped today); tweakers.net quotes (scraped today). Forum quotes verbatim from the scraped thread pages. No testing/ownership claims (we have not used these tripods), no prices or currency (lens-filter-kit price comparison dropped), no local Amazon store; Amazon US listing wording made neutral. 3 outside links (Canon local spec page, airline, venue); Manfrotto 8 kg and K&F 45.67 in number links kept as plain text to stay at 3.",
-    "at": "2026-11-02T18:01:46.076Z",
+    "notes": "K&F Concept 64 minimum height corrected to 52 cm (20.4 in) per Amazon listing B0B1HYVVTV",
+    "at": "2026-11-06T15:31:43.095Z",
     "hash": "ae70a088cac8f396"
   }
 }

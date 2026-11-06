@@ -18,8 +18,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-timelapse: same 7 products/ASINs/scores/spec keys, every spec converted metric-first (Manfrotto global page re-opened: 146,5 cm column down, 70,5 cm, 2,5 kg, 15 kg), 750 frames/interval math (onnoa), FAQ answers and owner quotes unchanged. Local facts from data/briefs/nl/best-tripod-for-timelapse.local.json re-opened: KLM 55 x 35 x 25 cm incl. handles and wheels, KNMI windkracht 6 39-49 km/u, Zoom Academy 25 fps and intervals and sandbags, Rijksmuseum no tripods. Pain-point quotes checked verbatim at their URLs (forum.fok.nl). UBeesize marked unknown for EU with neutral note; Befree EU code MKBFRLA4BK-BH (Foto Erhardt). No testing/ownership claims, no prices, no local Amazon store.",
-    "at": "2026-11-04T16:38:34.774Z",
+    "notes": "K&F Concept 64 minimum height corrected to 52 cm (20.4 in) per Amazon listing B0B1HYVVTV",
+    "at": "2026-11-06T15:31:43.848Z",
     "hash": "a4a588e6ddaa5337"
   }
 }

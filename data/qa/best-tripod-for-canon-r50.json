@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-05 (review only): TextRazor top-5 run (4 pages parsed), no missing entities; SmallRig R50 vlogging kit sentence verified on smallrig.com/filmtools (octopus tripod + LED, out of stock); IBIS wording from cited Canon spec; narration lead replaced; Which block moved after picks; captions added; trims only, no product, price, rating or fact changed",
-    "at": "2026-11-05T22:08:46.907Z",
+    "notes": "K&F Concept 64 minimum height corrected to 20.4 in (52 cm) per its Amazon listing B0B1HYVVTV (maker table's 400mm/19.68 in is inconsistent); no other change",
+    "at": "2026-11-06T15:31:39.334Z",
     "hash": "f15d25ed98b72917"
   }
 }

@@ -341,7 +341,7 @@ products:
     specs:
       Max height (column up): 63 in (160 cm)
       Max height (column down): 45.67 in (116 cm)
-      Min height: 19.68 in (40 cm)
+      Min height: 20.4 in (52 cm)
       Folded length: 15.35 in (39 cm)
       Weight: 2.73 lb (1.24 kg)
       Max load: 17.64 lb (8 kg)
@@ -555,7 +555,8 @@ sources:
   - title: 'DPReview forums: What kind of weight do you use on your tripod hook?'
     url: >-
       https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-06'
+updatedDate: '2026-11-06T15:30:42.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for timelapse?
@@ -586,7 +587,7 @@ faqs:
       Design with its built-in phone mount works; keep the legs short in wind
       and plug in a power bank for long phone timelapses.
 heroAlt: >-
-  Best Tripod for Timelapse (2026) – 7 Picks That Stay Still for Hours – Best
+  Best Tripod for Timelapse – 7 Picks That Stay Still for Hours – Best
   Tripod buying guide
 illustrations:
   - prompt: >-
@@ -630,13 +631,11 @@ related:
 heroImage: /images/featured/best-tripod-for-timelapse.png
 ---
 
-The sky does exactly what you hoped for two hours, and then the clip jumps halfway through because the tripod settled an inch. The best tripod for timelapse, for most camera owners, is the [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:Manfrotto+190XPRO+aluminum+3-section+tripod+kit+ball+head+MK190XPRO3-BHQ2): heavy, tall with the column down, and planted for hours. For travel, I'd pick the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), and for phone timelapses the UBeesize 67. I matched seven tripods to where people shoot timelapses, using maker specs and owner reports, not our own use.
+The sky does exactly what you hoped for two hours, and then the clip jumps halfway through because the tripod settled an inch. The best tripod for timelapse, for most DSLR and mirrorless owners, is the [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:Manfrotto+190XPRO+aluminum+3-section+tripod+kit+ball+head+MK190XPRO3-BHQ2): heavy, tall with the column down, and planted for hours. For travel, I'd pick the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), and for smartphone timelapses the UBeesize 67. I matched seven tripods to where people shoot, using maker specs and owner reports, not our own use.
 
 ## Timelapse tripods compared on height, weight and load
 
 **A timelapse tripod is judged by how still it stays, so weight, load capacity and height with the column down matter most.** When wind is the worry, our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers the fixes that cost nothing.
-
-This table compares the seven on the specs that decide a long sequence, from leg sections to weight:
 
 | Tripod | Column down | Max height | Folded | Weight | Rated load | Hook |
 |---|---|---|---|---|---|---|
@@ -648,19 +647,21 @@ This table compares the seven on the specs that decide a long sequence, from leg
 | UBeesize 67 | Not published | 67 in | 20.1 in | 3.1 lb | 12.1 lb | Owner reports one |
 | Manfrotto PIXI Mini | Fixed | 5.31 in | 7.28 in | 0.42 lb | 1 kg | No |
 
+On Amazon's max height filter, the 190XPRO and UBeesize sit in the 65 in & above band, the PIXI in up to 39 in, and the other four in 50 to 64 in.
+
 ## How I picked these timelapse tripods
 
-**I kept tripods that at least two top-ranking pages for timelapse and tripod searches recommend, each with its own in-stock Amazon US listing.** Those time-lapse photography pages included Learn Timelapse, Adorama's astro and time-lapse list, Medium, Amateur Photographer, TechGearLab, Pack Hacker, The School of Photography and Wirecutter. GorillaPods came up too, but each page named a different model, so none made the list.
+**I picked timelapse tripods by the specs that keep a frame still: rated load above the camera, height with the column down, a hook for ballast and owner reports of creep or flex.** Each pick also appears in at least two time-lapse photography or tripod buying guides. Timelapse photographers name many GorillaPod models, but no single one, so none made the list.
 
 > **From our notes:** The 750-frame figure for a 30-second clip changed how I ranked these. At a 30-second star interval, that is more than six hours of a tripod holding one framing. Light travel tripods look fine for a sunset, but over six hours the extra mass of the 5.51 lb Manfrotto 190XPRO kit matters more than its fold. So the heavy kit leads, and the travel picks follow for shorter sequences.
 
 ## The 7 best tripods for timelapse, reviewed
 
-**The right tripod for timelapse depends on how far you walk and how long the sequence runs: heavy for hours, light for hikes, small for desks.**
+**The right tripod for timelapse depends on how far you walk and how long the sequence runs: heavy for hours, light for hikes, small for desks.** Carbon fiber legs, as on the SIRUI, save weight and damp vibration; aluminum legs, as on the 190XPRO, cost less and add mass that resists wind.
 
 ### Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2): best tripod for long timelapses
 
-The Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head is a full-size aluminum tripod kit from Manfrotto, and my first choice for star and sunset sequences. Manfrotto lists it at [57.68 in with the center column down](https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/), 67.52 in fully up and a 15 kg safety payload. That means the least rigid part, the column, can stay low for the whole sequence. Its horizontal column and 3.54 in minimum height help with the low foreground angles timelapse shooters like. B&H owners call it solid once locked, though some say the ball head's knobs crowd each other. At 5.51 lb and 27.76 in folded, I'd only carry it a short way from the car.
+The Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head is a full-size aluminum tripod kit from Manfrotto, and my first choice for star and sunset sequences. Manfrotto lists it at [57.68 in with the center column down](https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/), 67.52 in fully up and a 15 kg safety payload, enough for a DSLR with heavy lenses. So the column, the least rigid part, can stay low all sequence. Its horizontal column and 3.54 in minimum height help with the low foreground angles timelapse shooters like. B&H owners call it solid once locked, though some say the ball head's knobs crowd each other. At 5.51 lb and 27.76 in folded, I'd only carry it a short way from the car.
 
 ### Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): best travel tripod for timelapse
 
@@ -668,11 +669,11 @@ The Manfrotto Befree Advanced is a four-section aluminum travel tripod from Manf
 
 ### Peak Design Travel Tripod (Aluminum): best timelapse tripod for camera and phone
 
-The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) is a five-section travel tripod from Peak Design, and my pick when a phone timelapse and a camera timelapse share one trip. Its built-in, stowable mobile mount means no extra clamp for the phone. This phone mount sits in the center column. The tripod is rated to 20 lb, folds to 15.5 in, stands 51.25 in with the column down and has a hook for hanging weight. Owners praise how slim it packs and its steadiness in a breeze. Others find the thin lower legs the weak point in stronger wind, so I'd leave the last section in for long runs.
+The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) is a five-section travel tripod from Peak Design, and my pick when a phone timelapse and a camera timelapse share one trip. Its stowable phone mount sits in the center column, so no extra clamp is needed. The tripod is rated to 20 lb, folds to 15.5 in, stands 51.25 in with the column down and has a hook for hanging weight. Owners praise how slim it packs and its steadiness in a breeze. Others find the thin lower legs the weak point in stronger wind, so I'd leave the last section in for long runs.
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: lightest tripod for timelapse hikes
 
-The [SIRUI Traveler 5C Carbon Fiber Tripod](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) is a five-section carbon fiber travel tripod from SIRUI, and the one I'd carry to a summit timelapse. It weighs 1.87 lb, folds to 13 in and reaches 54.3 in with the column up. A hook under the column takes a bag, which this light tripod needs. The 4 kg rating suits a mirrorless body with a small zoom, and the included ball head takes Arca-type plates. Its 6.3 in minimum height lets me put a rock or flower in the foreground of a sunrise sequence. Owners on r/Leica and review sites like the weight for the money, yet several call it shaky in wind. I'd keep the thinnest sections closed and the tripod low.
+The [SIRUI Traveler 5C Carbon Fiber Tripod](amzn:Sirui+Traveler+5C+carbon+fiber+tripod) is a five-section carbon fiber travel tripod from SIRUI, and the one I'd carry to a summit timelapse. It weighs 1.87 lb, folds to 13 in and reaches 54.3 in with the column up. A hook under the column takes a bag, which this light tripod needs. The 4 kg rating suits a mirrorless body with a small zoom, and the included ball head takes Arca-type plates. Its 6.3 in minimum height lets me put a rock or flower in the foreground of a sunrise sequence. Owners on r/Leica and review sites like the weight for the money, yet several call it shaky in wind, and the thin lower sections flex at full height. I'd keep them closed and the tripod low.
 
 ### K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head: best budget tripod for timelapse
 
@@ -680,7 +681,7 @@ The [K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head](amzn:K%26F+Conce
 
 ### UBeesize 67 inch Camera Tripod with Travel Bag: best phone tripod for timelapse
 
-The [UBeesize 67 inch Camera Tripod with Travel Bag](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote) is an aluminum and ABS tripod from UBeesize, and my pick for phone timelapses. It comes with a phone holder and a Bluetooth remote, reaches 67 in and weighs 3.1 lb. A r/videography reply sums up the need: "For timelapse in particular, you're going to want a pretty sturdy/heavy tripod to minimize movement from wind and vibrations." This tripod is light, so I'd use it on calm days, legs short. One owner liked it enough to buy it twice, though a part near the top of the first one snapped.
+The [UBeesize 67 inch Camera Tripod with Travel Bag](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote) is an aluminum and ABS tripod from UBeesize, and my pick for phone timelapses. It comes with a smartphone holder and a Bluetooth remote, reaches 67 in and weighs 3.1 lb. A r/videography reply sums up the need: "For timelapse in particular, you're going to want a pretty sturdy/heavy tripod to minimize movement from wind and vibrations." This tripod is light, so I'd use it on calm days, legs short. One owner liked it enough to buy it twice, though a part near the top of the first one snapped.
 
 ### Manfrotto PIXI Mini Tripod (MTPIXI-B): best tabletop tripod for GoPro and phone timelapses
 
@@ -700,24 +701,24 @@ The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B)
 
 ## How long a timelapse tripod has to hold still
 
-**A timelapse tripod must hold one framing for the frame count times the interval, which runs from under an hour to over six.** A 30-second clip at 25 fps needs [750 photos](https://onnoa.de/how-to-do-a-time-lapse/), and the interval sets the clock:
+**A timelapse tripod must hold one framing for the number of frames times the interval, from under an hour to over six.** A 30-second clip at 25 fps needs [750 photos](https://onnoa.de/how-to-do-a-time-lapse/), and the interval sets the clock:
 
 - **Fast clouds, 3-second interval:** about 37 minutes.
 - **Slow clouds or a sunset, 10-second interval:** about 2 hours 5 minutes.
 - **Stars, 30-second interval:** about 6 hours 15 minutes.
 
-Under 40 minutes, any tripod here works on a calm day. Past two hours, wind changes, ground settles and heads creep, so mass and thick legs pay off. That's why I put the 190XPRO first, and why the PIXI stays indoors.
+Under 40 minutes, any tripod here works on a calm day. Past two hours, wind changes, ground settles and heads creep, so stability from mass and thick legs pays off. That's why I put the 190XPRO first, and why the PIXI stays indoors.
 
 ## How to set up a tripod for a timelapse
 
-**Set the tripod low and wide, ballast it, lock the head with the camera balanced, and switch stabilization off before the first frame.**
+**Set the tripod low and wide, ballast it, lock the head with the camera balanced, and switch image stabilization off before the first frame.**
 
 1. Spread the legs fully on firm ground and extend the thickest sections first.
 2. Leave the center column down; our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains when raising it is safe.
 3. Hang your camera bag from the hook so it just touches the ground and cannot swing.
 4. Center the camera over the column, lock the ball head and wait a minute.
-5. Turn off lens IS and in-body stabilization, and set manual focus and exposure.
-6. Start the camera's built-in intervalometer (or an external one) and check the first 10 frames for drift.
+5. Turn off image stabilization (lens IS and IBIS), and set manual focus and exposure.
+6. Start the camera's interval timer (or an external intervalometer) and check the first 10 frames for drift.
 
 The video in this section shows a short checklist for getting steady timelapse shots.
 
@@ -727,7 +728,7 @@ The video in this section shows a short checklist for getting steady timelapse s
 
 - **Wind shake.** An r/timelapse reply put it plainly: "There's some camera shake from the wind." Our fix: legs short, column down and a sturdy tripod with real mass for long runs.
 - **Framing drift.** "There is a limited amount of sag even in a very good ball head," a DPReview member notes. Balance the camera over the column; our [ball head sag fixes](/blog/ball-head-sags-after-tightening/) cover the rest.
-- **Jittery frames.** A Sony owner wrote, "I have had star trails ruined with jittery frames every few shots in a timelapse." Switch IBIS and lens IS off.
+- **Jittery frames.** A Sony owner wrote, "I have had star trails ruined with jittery frames every few shots in a timelapse." Switch image stabilization off on body and lens.
 - **A swinging bag.** "I've read that a hanging camera bag on a hook can also sway in the wind," one DPReview poster writes. Let the bag rest on the ground, or use our [no-sandbag weights](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/).
 - **Weeks outdoors.** An r/videography poster wanted a cheap tripod to "stake into the ground to keep steady over 2-3 months". For that, I'd weigh a small stand down rather than trust a PIXI alone.
 

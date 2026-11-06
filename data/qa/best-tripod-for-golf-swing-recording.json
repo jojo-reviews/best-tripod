@@ -1,9 +1,11 @@
 {
   "slug": "best-tripod-for-golf-swing-recording",
   "pass": true,
-  "checkedAt": "2026-11-06T11:44:49.979Z",
+  "checkedAt": "2026-11-06T15:29:14.798Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: body has 1229 words, over the 1219 limit (top results average 1060): cut repetition and filler",
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"iRange Sports Stick EXT Golf Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Flexible Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-03 via Firecrawl: iRange Stick EXT 26 in collapsed / 46 in extended / 27.2 oz, 2 stakes, magnetic point, MagSafe puck, metal plates, indoor stand optional (irangesports.com product page); Amazon B0C41V9YN8 in stock, ships from Amazon. SENSYNE 62 in, 360 deg holder for 2.8-5.7 in phones, 1/4 in adapter, aluminum (sensyne.net), about 650 g and remote (Amazon B09TQY66NH in stock, ships from Amazon); wobble in wind and fixed leg angle (techtracker review). UBeesize flexible tripod holder to 3.70 in, wireless remote, universal adapter (ubeesize.com); Amazon B088GNC6TT ships from and sold by Amazon. JOBY GripTight ONE GP Stand 71 g, 11.5 oz/325 g load, 56-91 mm phones (B&H specs), owner themes from B&H reviews page; Amazon B01NGTBA3E in stock. SelfieGolf 2.47 oz, 4.02x3.25x2.73 in, fits bags, aim sticks, driver shafts (selfiegolfusa.com); clasp/phone-drop and tension screw (MyGolfSpy Amazon Finds); Amazon B07BRFQ96N in stock, ships from Amazon. iPhone 17 Pro Max 78.0 mm, 233 g, 1080p slo-mo up to 240 fps (support.apple.com/en-us/125091); 233/325 = 72%. Forum quotes copied verbatim from GolfWRX, MyGolfSpy and Hackers Paradise threads (scraped). Strivon Pod not on Amazon US, GPOD ASINs B09W68CY87/B09W6928VC unavailable, GOLFTEC B0CK8FXGVX unavailable.",
-    "at": "2026-11-03T11:33:31.264Z",
-    "hash": "eb18600472832946"
+    "notes": "2026-11-06 semantic pass: no new facts; max-height classes from Amazon US filter list; iPhone FAQ uses iRange MagSafe puck and SENSYNE 2.8-5.7 in holder width from maker specs already in sources; removed SEO-process wording in method line (GPOD, Strivon, GOLFTEC sell via own stores per SERP).",
+    "at": "2026-11-06T15:28:59.443Z",
+    "hash": "902ab7de7216dbfc"
   }
 }

@@ -302,5 +302,37 @@
   "best-tripod-for-nikon-zf": {
     "at": "2026-11-06T10:44:49.758Z",
     "note": "semantic pass + Google autocomplete/Amazon filters test (Material column, Z fc FAQ)"
+  },
+  "best-tripod-for-golf-swing-recording": {
+    "at": "2026-11-06T15:32:04.161Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-canon-r8": {
+    "at": "2026-11-06T15:32:04.196Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-sony-a7r-v": {
+    "at": "2026-11-06T15:32:04.236Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-ricoh-gr-iii": {
+    "at": "2026-11-06T15:32:04.275Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-canon-powershot-v1": {
+    "at": "2026-11-06T15:32:04.311Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-headshots": {
+    "at": "2026-11-06T15:32:04.347Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-guitar-videos": {
+    "at": "2026-11-06T15:32:04.387Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-for-timelapse": {
+    "at": "2026-11-06T15:32:04.423Z",
+    "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
   }
 }

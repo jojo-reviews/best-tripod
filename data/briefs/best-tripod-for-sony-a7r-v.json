@@ -13,19 +13,19 @@
       "name": "Sony A7R V",
       "type": "camera",
       "relation": "61MP full-frame mirrorless body, approx. 723 g with battery and card",
-      "salience": 0.76
+      "salience": 0.88
     },
     {
       "name": "tripod",
       "type": "product",
       "relation": "the camera support being chosen",
-      "salience": 0.79
+      "salience": 0.86
     },
     {
       "name": "carbon fiber",
       "type": "material",
       "relation": "leg material most top pages recommend for vibration damping and weight",
-      "salience": 0.68
+      "salience": 0.74
     },
     {
       "name": "Gitzo",
@@ -49,7 +49,7 @@
       "name": "lens",
       "type": "equipment",
       "relation": "the lens weight decides the load on the tripod",
-      "salience": 0.54
+      "salience": 0.56
     },
     {
       "name": "mirrorless camera",
@@ -61,7 +61,7 @@
       "name": "vibration",
       "type": "concept",
       "relation": "what a 61MP sensor reveals in the file",
-      "salience": 0.37
+      "salience": 0.42
     },
     {
       "name": "bag",
@@ -130,6 +130,30 @@
       "name": "ball head",
       "type": "part",
       "relation": "needs friction control so a heavy lens does not flop"
+    },
+    {
+      "name": "Sony α7 series",
+      "type": "camera line",
+      "relation": "the A7 family; the A7R line is its high-resolution branch (61MP A7R V vs 33MP A7 IV)",
+      "salience": 0.75
+    },
+    {
+      "name": "camera",
+      "type": "product",
+      "relation": "the A7R V body the tripod carries",
+      "salience": 0.7
+    },
+    {
+      "name": "Sony",
+      "type": "brand",
+      "relation": "maker of the A7R V and the FE lenses used in the load math",
+      "salience": 0.59
+    },
+    {
+      "name": "weight",
+      "type": "attribute",
+      "relation": "tripod weight vs camera-plus-lens weight",
+      "salience": 0.47
     }
   ],
   "attributes": [
@@ -142,7 +166,10 @@
     "maker's recommended maximum focal length",
     "Arca-Swiss compatibility for an L-bracket",
     "head friction control",
-    "leg material (carbon fiber vs aluminum)"
+    "leg material (carbon fiber vs aluminum)",
+    "material: carbon fiber or aluminum (Amazon filter)",
+    "height band: 40-49 in, 50-64 in, 65 in and above (Amazon filter)",
+    "weight capacity band: 20-30 lb, 30 lb and above (Amazon filter)"
   ],
   "ngrams": [
     "tripod for sony a7r v",
@@ -160,7 +187,11 @@
     "70-200",
     "200-600",
     "long exposures",
-    "carbon fiber tripod"
+    "carbon fiber tripod",
+    "pixel shift multi shoot",
+    "high-resolution sensor",
+    "tripod foot",
+    "friction control"
   ],
   "skipgrams": [
     "tripod…A7R",
@@ -171,7 +202,10 @@
     "load…rating",
     "pixel…shift",
     "arca…bracket",
-    "friction…head"
+    "friction…head",
+    "61MP…vibration",
+    "pixel shift…remote",
+    "column…down"
   ],
   "nlpTerms": [
     "Sony",
@@ -593,5 +627,95 @@
       "appliedAt": "2026-11-03T16:24:50.777Z"
     }
   ],
-  "textrazor": "data/briefs/best-tripod-for-sony-a7r-v.entities.json (5 top pages, sharedEntities copied with relevance as salience)"
+  "textrazor": "data/briefs/best-tripod-for-sony-a7r-v.entities.json (2026-11-06: 4 of 5 top pages analysed, Reddit blocked; sharedEntities relevance copied as salience; missingFromPost empty)",
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-sony-a7r-v.suggest.json (2026-11-06)",
+    "suggestions": [
+      "best tripod for sony a7r v",
+      "best tripod for sony a7 v",
+      "sony a7 best video settings",
+      "sony a7iii best focus settings for video",
+      "is sony a7r iii good for video",
+      "is the sony a7r good for video",
+      "sony a7 iv tripod",
+      "is sony a7riii good for video",
+      "is sony a7 a professional camera",
+      "difference between sony a7 and a7r"
+    ],
+    "used": [
+      "difference between sony a7 and a7r (A7R V is the 61MP high-resolution A7 model; one sentence in the load section)",
+      "sony a7 iv tripod (closing link to the A7 IV post)"
+    ],
+    "skipped": [
+      "best tripod for sony a7 v (different camera)",
+      "video settings / focus settings / professional camera questions (off topic)"
+    ]
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+for+sony+a7r+v (Firecrawl, 2026-11-06)",
+    "groups": {
+      "Price": [
+        "$10 to $25",
+        "$25 to $50",
+        "$50 to $100",
+        "$100 to $200",
+        "$200 to $500",
+        "$500 to $1,000"
+      ],
+      "Customer Review": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up",
+        "1 Star & Up"
+      ],
+      "Color": [
+        "Red",
+        "Black",
+        "Blue",
+        "White",
+        "Green",
+        "Pink",
+        "Purple",
+        "Yellow",
+        "Multi"
+      ],
+      "Brand": [
+        "K&F Concept",
+        "Manfrotto",
+        "SmallRig",
+        "Sirui",
+        "Neewer",
+        "COMAN",
+        "Ulanzi"
+      ],
+      "Height": [
+        "Up to 39 inches",
+        "40 to 49 inches",
+        "50 to 64 inches",
+        "65 inches & above"
+      ],
+      "Weight Capacity": [
+        "Under 5 lbs",
+        "5 to 10 lbs",
+        "10 to 15 lbs",
+        "15 to 20 lbs",
+        "20 to 30 lbs",
+        "30 lbs & above"
+      ],
+      "Material": [
+        "Aluminum",
+        "Carbon Fiber",
+        "Plastic"
+      ]
+    },
+    "used": [
+      "Material (table column)",
+      "Height and Weight Capacity (table columns, column-down height)",
+      "Brand: Manfrotto, Sirui (featured)"
+    ],
+    "skipped": [
+      "Price, Customer Review (no invented prices or ratings)",
+      "Color (not a deciding spec)"
+    ]
+  }
 }

@@ -274,7 +274,7 @@ products:
       Weight: 2.73 lb (1.24 kg)
       Max height (column raised): 63 in (160 cm)
       Max height (column down): 45.67 in (116 cm)
-      Min height: 19.68 in (40 cm)
+      Min height: 20.4 in (52 cm)
       Folded length: 15.35 in (39 cm)
       Load capacity: 17.64 lb (8 kg)
       Leg sections: '4'

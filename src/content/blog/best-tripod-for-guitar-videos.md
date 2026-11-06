@@ -21,6 +21,8 @@ entities:
   - MagSafe
   - phone clamp
   - microphone stand
+  - guitar-mounted phone holder
+  - Bluetooth remote
   - ball head
   - center column
   - KraftGeek JustTap
@@ -419,8 +421,9 @@ products:
         - title: 'Renee Roaming: Best travel tripods for phone and camera'
           url: 'https://www.reneeroaming.com/best-travel-tripods/'
 sources:
-  - title: 'KraftGeek: JustTap magnetic phone tripod'
-    url: 'https://www.kraftgeek.com/products/justtap-magnetic-phone-tripod'
+  - title: 'Digital Reviews: KraftGeek JustTap magnetic phone tripod review'
+    url: >-
+      https://www.digitalreviews.net/reviews/camera/kraftgeek-justtap-magnetic-phone-tripod-review/
   - title: 'Manfrotto: Element MII Aluminium Black (MKELMII4BK-BH)'
     url: 'https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/'
   - title: 'Manfrotto: PIXI Mini Tripod with Smartphone Clamp'
@@ -449,7 +452,8 @@ sources:
   - title: 'r/synthesizers: How do you record your jams?'
     url: >-
       https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-06'
+updatedDate: '2026-11-06T15:29:00.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for filming guitar videos?
@@ -460,9 +464,8 @@ faqs:
       steadier.
   - q: How high should the camera be when filming guitar?
     a: >-
-      At about your eye level when seated, with your face and both hands in
-      frame. BIFMA data put sitting eye height at 42.6 to 52.6 in, so aim the
-      lens in that range and tilt down slightly toward the neck.
+      The camera should be at seated eye level, roughly 43 to 53 in, with your
+      face and both hands in frame; tilt it down slightly toward the neck.
   - q: Can I film guitar from overhead with a phone tripod?
     a: >-
       Yes, with a pole tripod you can lean over the guitar, such as the
@@ -473,10 +476,15 @@ faqs:
       Yes. Many musicians swap the mic for a phone holder that threads onto the
       stand, or wrap a flexible tripod around it. It saves floor space next to
       the chair and pedalboard.
+  - q: Should I use a guitar-mounted phone holder instead of a tripod?
+    a: >-
+      No, a guitar-mounted phone holder works best as a second angle: it clamps
+      to the headstock or body for a POV shot that moves with the guitar, while
+      a tripod gives the steady front view most guitar videos need.
   - q: How do I get good audio in guitar videos recorded on a phone?
     a: >-
-      Record the sound on a separate recorder or interface and sync it to the
-      phone video. Virtual Guitar Orchestra places the recorder about 40 cm from
+      Record the sound on a separate recorder, or run a cable from an audio
+      interface into the phone, and sync it to the video. Virtual Guitar Orchestra places the recorder about 40 cm from
       the guitar, pointing at the 12th fret.
 illustrations:
   - prompt: >-
@@ -516,28 +524,28 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for guitar videos holds your phone or camera at seated eye level, keeps your face and both hands in frame and stays still for a whole take. For an iPhone I pick the [KraftGeek JustTap](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote); for a camera, or the steadiest seated shot, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head). I sorted six tripods by the camera angle a guitarist uses, from maker specs and owner reports, without testing them myself. Camera shooters can also compare our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/).
+The best tripod for guitar videos holds your smartphone or camera at seated eye level, keeps your face and both hands in frame and stays still for a whole take. For an iPhone I pick the [KraftGeek JustTap](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote); for a camera, or the steadiest seated shot, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head). I sorted six tripods by the camera angle a guitarist films, from maker specs and owner reports, without testing them myself. Camera shooters can also compare our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/).
 
 ## Guitar video tripods compared by camera angle
 
-**A tripod for guitar videos is decided by the angle you film most: front-on at eye level, overhead on the fretboard, or a small desk clip.** Seated eye height runs [42.6 to 52.6 in](https://ehs.oregonstate.edu/sites/ehs.oregonstate.edu/files/pdf/ergo/ergonomicsanddesignreferenceguidewhitepaper.pdf) in BIFMA data, so I compared how each tripod gets there.
+**A tripod for guitar videos is decided by the angle you film most: front-on at eye level, overhead on the fretboard, or a small desk clip.** For the front shot, the lens should sit at seated eye height, roughly 43 to 53 in ([BIFMA data](https://ehs.oregonstate.edu/sites/ehs.oregonstate.edu/files/pdf/ergo/ergonomicsanddesignreferenceguidewhitepaper.pdf)).
 
-This table sets the six tripods against that height and the angles they handle:
+| Tripod | Best guitar angle | Max height | Amazon max-height band | Reaches seated eye level | Mount | Remote |
+|---|---|---|---|---|---|---|
+| KraftGeek JustTap | Front and overhead | 66 in | 65 in & above | Mid-pole | Magnetic | Yes |
+| SENSYNE 62 | Front, budget | 62 in | 50 to 64 in | Mid-pole | Clamp | Yes |
+| Manfrotto Element MII | Front, camera | 63 in (52 in column down) | 50 to 64 in | Legs only | Ball head plate | No |
+| ULANZI MT-44 | Gig bag clips | 57.6 in | 50 to 64 in | Near full extension | Clamp + 1/4 in screw | No |
+| Manfrotto PIXI Mini kit | Desk practice | 9.7 in | Up to 39 in | Only on a table | Clamp | No |
+| UBeesize Flexible | Wrapped on a stand | Stand height | Up to 39 in | On a mic stand | Clamp | Yes |
 
-| Tripod | Best guitar angle | Max height | Reaches seated eye level | Mount | Remote |
-|---|---|---|---|---|---|
-| KraftGeek JustTap | Front and overhead | 66 in | Mid-pole | Magnetic | Yes |
-| SENSYNE 62 | Front, budget | 62 in | Mid-pole | Clamp | Yes |
-| Manfrotto Element MII | Front, camera | 63 in (52 in column down) | Legs only | Ball head plate | No |
-| ULANZI MT-44 | Gig bag clips | 57.6 in | Near full extension | Clamp + 1/4 in screw | No |
-| Manfrotto PIXI Mini kit | Desk practice | 9.7 in | Only on a table | Clamp | No |
-| UBeesize Flexible | Wrapped on a stand | Stand height | On a mic stand | Clamp | Yes |
+If you shop with Amazon's filters, "Remote Control" and "Magnetic" narrow the list fastest for solo phone recording; "Ball Heads" matters only when a camera goes on top.
 
 ## How I picked these tripods for guitar videos
 
-**I kept tripods that at least two pages ranking for this search or a close variant recommend, each with an in-stock Amazon US listing I checked by hand.** Few guitar results are roundups: a guitar teacher's JustTap review, Richter Guitar's camera gear list and Virtual Guitar Orchestra's recording guide set the needs, and iPhone tripod guides from Swarmify, Amateur Photographer and Renee Roaming filled in the shortlist. I left out the SLIK Pro AL-323 because only one page named it, and tripod-style guitar stands, which hold the instrument, not the camera. I scored each on stability, portability, height, build and value.
+**Each tripod here is recommended by at least two guitar or phone-video sources, and each covers a real guitar angle.** A guitar teacher's JustTap review, Richter Guitar's gear list and Virtual Guitar Orchestra's recording guide set the needs; iPhone tripod guides filled in the shortlist. I left out tripod-style guitar stands, which hold the instrument; every pick is a photography tripod for the phone or camera. I scored each on stability, portability, height, build and value.
 
-> **From our notes:** The JustTap made this list because Paul Hill, a guitar teacher, uses it to film lessons, and the reason he gives is the one guitarists repeat: clamp holders press the phone's buttons and slow you down. When I lined his notes up against the r/Guitar threads, the bigger theme was sound, not stands. Players kept saying the phone mic was the weak part, so I added audio placement to the setup steps instead of treating the tripod as the whole answer.
+> **From our notes:** Paul Hill films lessons on the JustTap because clamp holders press the phone's buttons. In r/Guitar threads the bigger theme was sound, so I added audio placement to the setup steps.
 
 ## The 6 best tripods for guitar videos, reviewed
 
@@ -545,29 +553,43 @@ This table sets the six tripods against that height and the angles they handle:
 
 ### KraftGeek JustTap Magnetic Phone Tripod (226M): best tripod for guitar videos on an iPhone
 
-The KraftGeek JustTap Magnetic Phone Tripod is a 66 in magnetic selfie-stick tripod from KraftGeek, and it is the one I'd hand most guitarists with an iPhone. Tap the base on the floor and three legs open; the phone snaps onto a MagSafe-style mount, so nothing squeezes the side buttons mid-take. The 10-section aluminum pole puts the lens at seated eye level halfway up, and Paul Hill notes it can angle over a guitar for a close-up from above. A USB-C remote shutter docks on a leg, which matters when the guitar is on your lap. Reviewers at Macworld report wobble at full extension, so I keep it lower and start with the remote. Phones without MagSafe need the included adhesive ring, and there is no screw for a camera.
+The KraftGeek JustTap Magnetic Phone Tripod is a 66 in magnetic selfie-stick tripod from KraftGeek, and the one I'd hand most guitarists with an iPhone. Tap the base on the floor and three legs open; the phone snaps onto an N52 MagSafe-style mount, so nothing squeezes the side buttons mid-take, and owners say it holds through MagSafe cases.
+
+The 10-section aluminum pole puts the lens at seated eye level halfway up, and Paul Hill notes it can angle over a guitar for a close-up from above. The whole tripod weighs about 455 g, and [Digital Reviews](https://www.digitalreviews.net/reviews/camera/kraftgeek-justtap-magnetic-phone-tripod-review/) lists a rechargeable Bluetooth remote with a claimed 10 m range; it charges over USB-C and docks on a leg. Reviewers report wobble at full extension, so I keep it lower. Phones without MagSafe need the included adhesive ring, and there is no screw for a camera.
 
 ### SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote: best budget tripod for guitar videos
 
-The [SENSYNE 62-Inch Phone Tripod & Selfie Stick](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) is an aluminum phone tripod from SENSYNE, and my budget pick for a front-on guitar shot. Richter Guitar, a classical guitar teacher, lists it as his top choice for phone video recording, the step before a camera kit. It reaches 62 in, the clamp takes phones 2.8 to 5.7 in wide, so most Android phones fit, and a wireless remote and 1/4 in adapter come in the box. At about 650 g it is light, and owners mention a little wobble at full height and a fiddly leg lock. I'd stop a section short of full height for a seated shot and press record on the remote, not the screen.
+The [SENSYNE 62-Inch Phone Tripod & Selfie Stick](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) is an aluminum phone tripod from SENSYNE, and my budget pick for a front-on guitar shot. Richter Guitar, a classical guitar teacher, lists it as his top phone tripod.
+
+It reaches 62 in, the clamp takes phones 2.8 to 5.7 in wide, so most Android phones fit, and a wireless remote and 1/4 in adapter come in the box. At about 650 g it is light, and owners mention a little wobble at full height and a fiddly leg lock. I'd stop a section short of full height and press record on the remote, not the screen.
 
 ### Manfrotto Element MII Aluminum Tripod with Ball Head: best tripod for guitar videos on a camera
 
-The Manfrotto Element MII is a 4-section aluminum travel tripod with a ball head from Manfrotto, and the one I'd choose for a mirrorless camera or a fixed home-studio spot. Manfrotto lists [132 cm with the center column down](https://www.manfrotto.com/us-en/element-mii-aluminium-black-mkelmii4bk-bh/), which is 52 in, inside the seated eye height range on the legs alone, the steadiest way to use any tripod. It is rated for 8 kg, so a camera, a shotgun mic and a small light are no strain. Owners call it light for a full-size tripod; a few note the legs dip slightly at full extension. You need a phone clamp if you film on a phone, and the wider leg spread takes floor space next to an amp or pedalboard.
+The Manfrotto Element MII is a 4-section aluminum travel tripod with a ball head from Manfrotto, and the one I'd choose for a mirrorless camera or a fixed home-studio spot. It reaches 132 cm (52 in) with the center column down, so the camera sits at seated eye height on the legs alone, the steadiest way to use any tripod.
+
+It is rated for 8 kg, so a camera, a shotgun mic and a small light are no strain. Owners call it light for a full-size tripod; a few note the legs dip slightly at full extension. You need a phone clamp to film on a phone, and the leg spread takes floor space next to an amp or pedalboard.
 
 ### ULANZI MT-44 Extendable Tripod: best guitar video tripod for a gig bag
 
-The [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod) is a 6-section selfie-stick tripod with a ball head from Ulanzi, and my pick for gigging players. It folds to 13 in and 422 g with a phone clamp, a cold shoe for a small mic and a 1/4-20 screw, so it also carries a compact camera. At 57.6 in it reaches seated eye level only near full extension, where owners report wobble, so I'd use it for rehearsal and backstage clips more than a locked-off performance take. The clamp takes phones 60 to 80 mm wide, which rules out some large phones in thick cases. For a full-size alternative that packs small, our [phone tripods with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) compares taller options.
+The [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod) is a 6-section selfie-stick tripod with a ball head from Ulanzi, and my pick for gigging players. It folds to 13 in and 422 g with a phone clamp, a cold shoe for a small mic and a 1/4-20 screw, so it also carries a compact camera.
+
+At 57.6 in it reaches seated eye level only near full extension, where owners report wobble, so I'd use it for rehearsal and backstage clips more than a locked-off performance take. The clamp takes phones 60 to 80 mm wide, which rules out some large phones in thick cases. Our [phone tripods with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) has taller options.
 
 ### Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK): best tabletop tripod for guitar practice clips
 
-The [Manfrotto PIXI Mini Tripod Kit](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) is a rigid tabletop tripod with a smartphone clamp from Manfrotto, and my pick for quick practice clips. It stands 9.7 in tall, weighs 215 g and is rated for 1 kg, with fixed steel legs and a push-button ball head. A musician in r/synthesizers planned to put a PIXI "on some books" for the same reason: a desk, shelf or amp top gives the height. It cannot reach a standing player, so I'd use it for a fretting-hand close-up on a desk next to you or a clip for your teacher.
+The [Manfrotto PIXI Mini Tripod Kit](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) is a rigid tabletop tripod with a smartphone clamp from Manfrotto, and my pick for quick practice clips. It stands 9.7 in tall, weighs 215 g and is rated for 1 kg, with fixed steel legs and a push-button ball head.
+
+A musician in r/synthesizers planned to put a PIXI "on some books" for the same reason: a desk, shelf or amp top gives the height. It cannot reach a standing player, so I'd use it for a fretting-hand close-up from a desk next to you or a clip for your teacher.
 
 ### UBeesize Flexible Phone Tripod with Wireless Remote: best flexible tripod for a mic stand
 
-The [UBeesize Flexible Phone Tripod](amzn:UBeesize+flexible+phone+tripod+wireless+remote+clip) is a flexible-leg mini tripod with a wireless remote from UBeesize, and my pick when there is no floor space for another set of legs. Wrap its bendable legs around a mic stand, music stand or chair back, and the stand sets the height. A Guitar Masterclass forum member built a cheap neck camera from a phone mount and a flexible tripod, and r/synthesizers players swap their overhead mic for a phone holder. The holder opens to 3.70 in and the remote is included. The catch is stiffness: foam-covered legs flex more than a rigid tripod, so tighten the wrap and keep the phone close to the pole.
+The [UBeesize Flexible Phone Tripod](amzn:UBeesize+flexible+phone+tripod+wireless+remote+clip) is a flexible-leg mini tripod with a wireless remote from UBeesize, and my pick when there is no floor space for another set of legs. Wrap its bendable legs around a mic stand, music stand or chair back, and the stand sets the height.
+
+A Guitar Masterclass forum member built a cheap neck camera from a phone mount and a flexible tripod. The holder opens to 3.70 in and the remote is included. Foam-covered legs flex more than a rigid tripod, so tighten the wrap and keep the phone close to the pole.
 
 ### Which one should you get?
+
+The right tripod for guitar videos comes down to your camera, your angle and your floor space:
 
 - You film on an iPhone and want front and overhead shots: KraftGeek JustTap.
 - You want a front-on shot for the least money, on any phone: SENSYNE 62.
@@ -584,18 +606,24 @@ The [UBeesize Flexible Phone Tripod](amzn:UBeesize+flexible+phone+tripod+wireles
 2. Raise the phone or camera to eye level, using the legs before the pole or column.
 3. Frame your head, the full neck and the picking hand in landscape for YouTube, or portrait for reels, with a little space above your head.
 4. Face a window or light, never with the window behind you.
-5. For an overhead shot of the fretboard, lean the pole over the neck or move the phone to a boom mic stand with a mic stand adapter.
+5. For an overhead shot of the fretboard, lean the pole over the neck or move the phone to a boom mic stand with a phone adapter.
 6. Start recording with the remote or timer, then wait two seconds before you play.
 
-## Guitar video tripod problems players run into, and the fix
+## Guitar-mounted phone holders vs a tripod for guitar videos
 
-**Most guitar video complaints are about sound, framing and space, not the tripod itself.**
+**A guitar-mounted phone holder clamps to the headstock or body for a POV shot that moves with the guitar; it is not a tripod, so it is not in my picks.** r/guitars players ask where to buy one, but a headstock clamp adds weight to the neck and the view moves with every shift, so I'd use it for short POV clips only.
 
-- **The guitar sounds thin.** Phone mics struggle with a full playthrough. A recurring r/Guitar answer is blunt: "Record the audio into your DAW. Record the video with your phone." Feed an audio interface or recorder instead; Virtual Guitar Orchestra puts a recorder [40cm away from the guitar pointing at the 12th fret](https://virtualguitarorchestra.com/guidelines-recommendations), and the PIXI makes a good recorder stand.
-- **Your hands leave the frame.** Players in r/Guitar ask how to show a POV or fretboard view; film one wide take from the tripod and a second over-the-shoulder or close angle.
+For a steady fretboard view from above, an overhead arm is the better tool. A boom mic stand with a phone adapter, or a desk-clamp articulated arm, holds the phone over the neck without legs in the frame. The JustTap's tilting pole covers short takes.
+
+## Tripod for guitar videos: common problems and fixes
+
+**Most complaints about a tripod for guitar videos are really about sound, framing and space.**
+
+- **The guitar sounds thin.** A recurring r/Guitar answer is blunt: "Record the audio into your DAW. Record the video with your phone." Run a cable from an audio interface into the phone's USB-C or Lightning port, or use a small recorder; Virtual Guitar Orchestra puts a recorder [40cm away from the guitar pointing at the 12th fret](https://virtualguitarorchestra.com/guidelines-recommendations), and the PIXI makes a good recorder stand.
+- **Your hands leave the frame.** Film one wide take from the tripod and a second over-the-shoulder or POV angle.
 - **No room for legs.** An r/synthesizers player wrote, "I swap out my overhead mic with a phone holder mount." The UBeesize on a stand does the same job.
-- **The phone shakes when you press record.** Single-pole tripods wobble when tall, a common complaint in r/videography threads, so lower a section and use the remote. Our [tripod buying checklist](/tripod-buying-checklist/) lists what to check before you buy.
+- **The phone shakes when you press record.** Single-pole tripods wobble when tall, so lower a section and use the remote. Our [tripod buying checklist](/tripod-buying-checklist/) lists what to check before you buy.
 
 ## Our verdict on the best tripod for guitar videos
 
-**The KraftGeek JustTap is the tripod for guitar videos I'd buy first for an iPhone, and the Manfrotto Element MII for a camera.** The SENSYNE 62 covers a budget front shot, the MT-44 lives in a gig bag, and the PIXI and UBeesize solve desk and stand angles. Filming creators' shots beyond guitar? See our [tripods for content creators](/blog/best-tripod-for-content-creators/).
+**The KraftGeek JustTap is the tripod for guitar videos I'd buy first for an iPhone, and the Manfrotto Element MII for a camera.** Filming beyond guitar? See our [tripods for content creators](/blog/best-tripod-for-content-creators/).

@@ -1,76 +1,76 @@
 {
   "keyword": "best tripod for timelapse",
+  "date": "2026-11-06",
   "pagesAnalyzed": 3,
+  "pages": [
+    "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
+    "https://www.bestbuy.com/site/shop/time-lapse-tripod",
+    "https://www.findingtheuniverse.com/best-travel-tripods/"
+  ],
+  "note": "Live top 5 on 2026-11-06; Reddit and Wirecutter blocked the fetch. Dropped noise: Carbon (element, merged into carbon fiber). Manfrotto kept from the 2026-11-04 run (2 of 3 pages; maker of 3 picks).",
   "sharedEntities": [
-    {
-      "entity": "Tripod",
-      "type": "",
-      "pages": 3,
-      "relevance": 0.98,
-      "wiki": "http://en.wikipedia.org/wiki/Tripod",
-      "wikidata": "Q1444534",
-      "kgmid": "/m/0119d4g8",
-      "idsChecked": true
-    },
     {
       "entity": "Tripod (photography)",
       "type": "",
       "pages": 3,
-      "relevance": 0.82,
+      "relevance": 0.92,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "wikidata": "Q683906",
-      "kgmid": "/m/073bxn",
-      "idsChecked": true
-    },
-    {
-      "entity": "Carbon-fiber reinforced polymer",
-      "type": "/projects/project_focus",
-      "pages": 3,
-      "relevance": 0.69,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
-      "wikidata": "Q910977",
-      "kgmid": "/m/0155k0",
-      "idsChecked": true
+      "kgmid": "/m/073bxn"
     },
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
       "pages": 3,
-      "relevance": 0.58,
+      "relevance": 0.52,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
       "wikidata": "Q15328",
-      "kgmid": "/m/0dv5r",
-      "idsChecked": true
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "wikidata": "Q663",
+      "kgmid": "/m/027vj2v"
     },
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
       "pages": 3,
-      "relevance": 0.41,
+      "relevance": 0.31,
       "wiki": "http://en.wikipedia.org/wiki/Photography",
       "wikidata": "Q11633",
-      "kgmid": "/m/05wkw",
-      "idsChecked": true
+      "kgmid": "/m/05wkw"
     },
     {
       "entity": "Time-lapse photography",
       "type": "",
       "pages": 2,
-      "relevance": 0.8,
+      "relevance": 0.92,
       "wiki": "http://en.wikipedia.org/wiki/Time-lapse_photography",
       "wikidata": "Q186563",
-      "kgmid": "/m/05hlxm",
-      "idsChecked": true
+      "kgmid": "/m/05hlxm"
     },
     {
-      "entity": "Amazon (company)",
-      "type": "Agent",
+      "entity": "Photographer",
+      "type": "/organization/role",
       "pages": 2,
-      "relevance": 0.38,
-      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
-      "wikidata": "Q3884",
-      "kgmid": "/m/0mgkg",
-      "idsChecked": true
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "wikidata": "Q33231",
+      "kgmid": "/m/0lgw7"
     },
     {
       "entity": "Manfrotto",
@@ -81,48 +81,9 @@
       "wikidata": "Q635963",
       "kgmid": "/m/025_1lk",
       "idsChecked": true
-    },
-    {
-      "entity": "Benro",
-      "type": "Company",
-      "pages": 2,
-      "relevance": 0.32,
-      "wiki": "",
-      "idsChecked": true
-    },
-    {
-      "entity": "Carbon",
-      "type": "ChemicalSubstance",
-      "pages": 2,
-      "relevance": 0.32,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon",
-      "wikidata": "Q623",
-      "kgmid": "/m/025tfgm",
-      "idsChecked": true
-    },
-    {
-      "entity": "Fiber",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.26,
-      "wiki": "http://en.wikipedia.org/wiki/Fiber",
-      "wikidata": "Q161",
-      "kgmid": "/m/011jng",
-      "idsChecked": true
-    },
-    {
-      "entity": "Aluminium",
-      "type": "ChemicalSubstance",
-      "pages": 2,
-      "relevance": 0.23,
-      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
-      "wikidata": "Q663",
-      "kgmid": "/m/027vj2v",
-      "idsChecked": true
     }
   ],
-  "errors": [
-    "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-xaKQ0aswX3dtqAeAp3t5IP&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"xaKQ0aswX3dtqAeAp3t5IP\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'bFTOBvg4q6A01crWr0tH2CvExhggJaG0Njv6jvPlGKE-1793791912-1.2.1.1-nO936BeSESEnNpjlMSFhAd9jDoQPqhQbhS1Yj9zPbsh_8m3mMFyekx3kfeOiW6Yl',cITimeS: '1793791912',cN: 'xaKQ0aswX3dtqAeAp3t5IP',cRay: 'a5534b7b6d9298dc',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851?__cf_chl_tk=8.N26GD43d_Cx7Ep7KQK2Gi28umQqQfVN1jnFupcFGc-1793791912-1.0.1.1-9tPeTfQbh2868Yxc2xE_7hT1VtQVd544YosGhPwg2Xs\",cvId: '3',cZone: 'medium.com',fa:\"/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851?__cf_chl_f_tk=8.N26GD43d_Cx7Ep7KQK2Gi28umQqQfVN1jnFupcFGc-1793791912-1.0.1.1-9tPeTfQbh2868Yxc2xE_7hT1VtQVd544YosGhPwg2Xs\",md: '1FlrMUFxZI1Eu.SB3VnBj12yP5.8wY2WmWHP49gmqmA-1793791912-1.2.1.1-fivAVGNzyaV2L_B.K6pnV10rcXLlitZtnudUWYpQDLNNSN3v6oJh0VIzEBPwcqQskSj8zERZGT3lpQTB9oY4TeqiwNysbX2MxrU78PoxAnUBUC4ha9Rki34F8S9u8cB_XVzvqmAlKH2bZ1vPxsaOwqIhlIqhwtTQY6oQjLPT0AZps0g1wY6.CmiG4.iDR_SBDOS1unXnjrSIi73bj9K5gQ5G80uPVqLWJitsqi5Gu9z63i2TH0CpWK7aKMEZJaq7rnzuPggnLpARMDPVlAXinjNFLfSzqi6WaTooWAm8dKKltmYuhKBSAPIW5IM2JI7JbhsvkruEOkAdckw0CQt7Pt2jxWHZG92IX6uHQBuv43E0s4GFFM75wgO4l4IgPHplPnZB_AtQaiSt4QZrl5ibFMzqc1giHQ2kbTT9QlHZ5wvDUEWXPK9duhkVgupIx3eLUfQiRbw71F.49vhAzuxIOOPv9sT_K0zJSSCnUNJSw6.dkMXzofXyWxd6wvsE1hbXYzK8MVNGN8avyzZvHtwXnM59AhtVt_eGG_Tq6Hj9XNLCRGIDapJY2DffqoNxmzNT0En2GL.9Y0ZrJLCEQjZISuhaQhfJIcNlG0RFIlRjZMxjDCN4u2Dkcn.nny7ifYUxn7RpgTMsf7IRIm2cLZhNSmraSWahPZCMVchR_0mrrY.rv2raPn1eBEpFWkMitgtM_SaQ1Tx4r6CIqUsmzB8O4yGOGQzMONfYZ1IB4caYXHkCXMDb9sK0eB_.cCwO6Lr56xDB8Mtn71.JSHeh26Ig_pAVUCi6do8rMktlp5RsUZm2lYCRN6IhNxMKBIXorWvI1GGEXpFZ81JGMPJcJguc5e3Ggtf6lDN0JpxHmcIe8k4l237STryzXdSnM2Ckmy0tcYrf3m7pF9FoyNOBuFQckjkJ6.ohA4ix07uhnaM2CqL8F0P_.p_1_soiw4ZRcuY3ubX8oubivY8xcXTOKErDxkIX5BuMsKdmDxT3PB0lzxjdSNzjc0TO7hkFqcf17GV.DTH8OdGoqzBKHgL4siZ95sdH0nVrmbSu4dfSc_mjLWadsURHAYFcZ6Buqe_P_oXYybydI6v8m7DORwK7cdwVrx1v4iKuwQb2vxSodSej7relu3THKrJs_qyjK.N_sFrk14gqoiQK4zOrhrvru.PAEl82HNrXr7Y4HCdTEF4GgiEzQpSzUOULs5yXfKjdYHYz5lKFnGsXQFcCbKV3DrTpfw',mdrd: 'xW4EwgwZEwxZrS3uDJMYRgIZqJZQLAjuOmDdgIDeKXU-1793791912-1.2.1.1-Uc.vxfeU_pvas3kB2HGTqKVHXFAbVhky5LijAyTt08UKX.nV_MPw4.bHRQ9HntDp6d3yWZPBHHPfJJEh73TFfjvu1A6ERY7DCFYOYzV26NVFLWVB145l6aY0dlRLgSdtsxHyLd4zjbqL4ykCL0PIjKuzLRITl0A3ZW0yDO6clECI7ZqqSFh.6vI3rxshKNx7rYlZM4yI__OG2OnOlJS2eEbPh7XAiA.YanOWLI3xreXV3YX3XMJb9y8Mndp8aki1',};var a = document.createElement('script');a.nonce = 'xaKQ0aswX3dtqAeAp3t5IP';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a5534b7b6d9298dc';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851?__cf_chl_rt_tk=8.N26GD43d_Cx7Ep7KQK2Gi28umQqQfVN1jnFupcFGc-1793791912-1.0.1.1-9tPeTfQbh2868Yxc2xE_7hT1VtQVd544YosGhPwg2Xs\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
-    "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Sorry, you have been blocked</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_access\">You are unable to access</span> amateurphotographer.com</h2>\n      </div><!-- /.header -->\n\n      <div class=\"cf-section cf-highlight\">\n        <div class=\"cf-wrapper\">\n          <div class=\"cf-screenshot-container cf-screenshot-full\">\n            \n              <span class=\"cf-no-screenshot error\"></span>\n            \n          </div>\n        </div>\n      </div><!-- /.captcha-container -->\n\n      <div class=\"cf-section cf-wrapper\">\n        <div class=\"cf-columns two\">\n          <div class=\"cf-column\">\n            <h2 data-translate=\"blocked_why_headline\">Why have I been blocked?</h2>\n\n            <p data-translate=\"blocked_why_detail\">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>\n          </div>\n\n          <div class=\"cf-column\">\n            <h2 data-translate=\"blocked_resolve_headline\">What can I do to resolve this?</h2>\n\n            <p data-translate=\"blocked_resolve_detail\">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>\n          </div>\n        </div>\n      </div><!-- /.section -->\n\n      <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5534b9f0a048de6</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">162.213.37.128</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div><!-- /#cf-error-details -->\n  </div><!-- /#cf-wrapper -->\n\n  <script>\n    window._cf_translation = {};\n    \n    \n  </script>\n<script>window.__CF$cv$params={r:'a5534b9f0a048de6',t:'MTc5Mzc5MTkxNw==',u:'01a1a6547f66779d9b6e85ce0f51505e',ut:'rhZi9gfuOAp4RnUxSw5U3NqKU.RqDieVnbtIbfvdCGY-1793791917-1.2.1.1-G7AHSUJt8tn8IYb0oBK7QS2jQuyFXd2VROm7Q97nTn9u4Afr9d6E9Q8Deij17QCpW6I26JSzZIYfT8ha6FSOmqIqzeUWuT.52b0lHSrClsg',i:60};(function(){if(!document.body)return;var l=window.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a5534b9f0a048de6',s=document.createElement('script');s.src=o?new URL(u,o).href:u;document.head.appendChild(s);})();</script></body>\n</html>"
+  "missingFromPost": [
+    "Carbon-fiber reinforced polymer"
   ]
 }

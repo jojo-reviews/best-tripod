@@ -17,8 +17,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-04 via Firecrawl: Manfrotto 190XPRO kit specs (57.68 in column down, 67.52 in max, 3.54 in min, 27.76 in closed, 5.51 lb, 15 kg payload, flip locks, 3 sections, 90-degree column) on manfrotto.com; Befree Advanced lever alu (59.45/50.39 in, 15.75 in closed, 3.51 lb, 9 kg/19.84 lb, Arca/RC2 plate) on manfrotto.com + Amazon spec table, B&H confirms 19.8 lb, 3.6 lb and integrated weight hook; Peak Design aluminum (20 lb, hook, phone mount) on Amazon listing and Peak Design page data from prior verification; SIRUI 5C (54.3 in, 8.8 lb, hook under column) on Amazon listing; K&F 64 (163 cm, 15.5 in fold, 17.6 lb) on Amazon listing, column-down 45.67 in from K&F page per earlier verification; UBeesize 67 (67 in, 20.1 in, 3.1 lb, phone holder, BT remote) on Amazon, 12.1 lb from TechGearLab spec table; PIXI MTPIXI-B (13.5 cm, 2.2 lb load) on Amazon. All 7 Amazon US listings opened: in stock; 190XPRO, Befree, SIRUI, UBeesize sold by Amazon; Peak Design ships from Amazon (sold by Smash It); K&F ships from Amazon (sold by DLS US). Stat 750 photos/30 s/25 fps quoted on onnoa.de; hold-still times computed (750x3s=37.5 min, x10s=2h5m, x30s=6h15m). Quotes checked verbatim in search excerpts: r/videography, r/timelapse, r/SonyAlpha, r/videography GoPro thread, DPReview ball head and hook threads. SERP evidence: each product on 2+ top-10 pages (brief serpProducts). Re-recorded after expanding the SIRUI and K&F sections (Arca-type plate, 6.3 in min height from Amazon/SIRUI data).",
-    "at": "2026-11-04T11:37:55.280Z",
-    "hash": "5d20e5dc9f0610ce"
+    "notes": "Semantic pass 2026-11-06 (significant: fact corrected + How-I-picked rewritten). K&F Concept 64 min height fixed to 20.4 in (52 cm) per Amazon listing B0B1HYVVTV (maker table 400mm/19.68in is inconsistent). Amazon max-height bands checked against maker specs. No new prices, ratings or tests.",
+    "at": "2026-11-06T15:31:08.558Z",
+    "hash": "a3d2d2b0de79969f"
   }
 }

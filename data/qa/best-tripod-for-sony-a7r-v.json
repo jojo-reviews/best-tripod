@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-a7r-v",
   "pass": true,
-  "checkedAt": "2026-11-06T11:45:01.049Z",
+  "checkedAt": "2026-11-06T15:31:16.827Z",
   "errors": [],
   "warnings": [
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after a SIRUI paragraph addition (15 kg / 2,838 g = 5.3x headroom with the 200-600 kit). Earlier checks stand: Sony ILCE-7RM5 spec (723 g), Sony help guide Pixel Shift (four or sixteen RAW images, tripod, remote/self-timer), Sony lens weights, Gitzo GT1545TUS specs and 200mm max advice, B&H and Lonely Speck LS-284CX data, Peak Design/SIRUI/Manfrotto specs from the factchecked A7 IV post, Amazon listings B0DQNKMF8Y, B016NSFTIK, B085BQTQMN, B07KD2TNMN, B010R4BO12 in stock, owner quotes verbatim.",
-    "at": "2026-11-03T11:28:37.680Z",
-    "hash": "24fac764b55f1ec0"
+    "notes": "2026-11-06 semantic pass: specs re-checked against brief/maker sources (Leofoto B&H 22 lb/22 in, Gitzo 2.33 lb/16.73 in/51.18 in/10 kg/200mm lens advice, Peak 2.8 lb/15.5 in/51.25 in/20 lb, SIRUI 2.69 lb/17.5 in/47.2 in/15 kg/3.1 in, Manfrotto 055 59.65 in/15 kg/6.61 lb); Sony body 723 g and lens weights unchanged; owner quotes copied unchanged from their sources; A7 IV 33MP vs A7R V 61MP; no new prices, ratings or testing claims",
+    "at": "2026-11-06T15:31:31.231Z",
+    "hash": "44e89c24fc82d832"
   }
 }

@@ -86,6 +86,30 @@
       "type": "accessory mount",
       "relation": "holds a mic or light on the MT-16",
       "salience": 0.3
+    },
+    {
+      "name": "Camera lens",
+      "type": "camera component",
+      "relation": "the V1's built-in 16-50mm-equivalent zoom; no separate lens weight to balance on the tripod head",
+      "salience": 0.5
+    },
+    {
+      "name": "Canon EOS",
+      "type": "camera line",
+      "relation": "Canon's interchangeable-lens bodies (e.g. EOS R50) that use the same 1/4\"-20 tripod socket as the V1",
+      "salience": 0.47
+    },
+    {
+      "name": "camera tripod",
+      "type": "product category",
+      "relation": "three-legged camera support; the central product type",
+      "salience": 0.7
+    },
+    {
+      "name": "Camera",
+      "type": "product category",
+      "relation": "the device the tripod holds",
+      "salience": 0.67
     }
   ],
   "attributes": [
@@ -98,7 +122,9 @@
     "remote control",
     "cold shoe",
     "battery door access",
-    "Arca-type plate"
+    "Arca-type plate",
+    "camera type (compact digital camera, mirrorless, smartphone)",
+    "brand"
   ],
   "ngrams": [
     "tripod for canon powershot v1",
@@ -113,7 +139,10 @@
     "wireless remote",
     "cold shoe",
     "eye level",
-    "talking head"
+    "talking head",
+    "camera lens",
+    "digital camera",
+    "canon eos"
   ],
   "skipgrams": [
     "tripod…battery door",
@@ -122,7 +151,9 @@
     "mini…tripod",
     "plate…battery",
     "load…capacity",
-    "eye…level"
+    "eye…level",
+    "camera…lens",
+    "tripod…socket"
   ],
   "nlpTerms": [
     "vlogging",
@@ -142,7 +173,10 @@
     "portrait mode",
     "vertical video",
     "USB-C",
-    "Bluetooth"
+    "Bluetooth",
+    "mirrorless camera",
+    "Canon EOS R50",
+    "PowerShot G7 X Mark II"
   ],
   "questions": [
     "What tripod works with the Canon PowerShot V1?",
@@ -528,11 +562,101 @@
     }
   ],
   "textrazor": {
-    "date": "2026-11-03",
-    "pagesAnalyzed": 3,
+    "date": "2026-11-06",
+    "pagesAnalyzed": 5,
+    "urls": [
+      "https://www.amazon.com/canon-powershot-tripod/s?k=canon+powershot+tripod",
+      "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-v1/",
+      "https://www.youtube.com/watch?v=REMmkiaQ064",
+      "https://www.youtube.com/watch?v=I-RCj5r_Aic",
+      "https://www.canoncamerageek.com/best-tripod-for-canon-powershot-g1x-mark-iii.html"
+    ],
     "source": "data/briefs/best-tripod-for-canon-powershot-v1.entities.json",
+    "missingFromPostBefore": [
+      "Camera lens",
+      "Canon EOS"
+    ],
     "ignored": [
-      "Canon shop and MPB pages blocked the fetch"
+      "Reddit thread and Canon shop page blocked the fetch; replaced with the next organic results"
+    ]
+  },
+  "googleModifiers": {
+    "date": "2026-11-06",
+    "source": "data/briefs/best-tripod-for-canon-powershot-v1.suggest.json",
+    "modifiers": [
+      "v1",
+      "v10"
+    ],
+    "related": [
+      "best tripod for canon camera",
+      "best tripod for canon mirrorless camera",
+      "best tripod for canon r50 camera",
+      "tripod for canon powershot g7x mark ii"
+    ],
+    "used": [
+      "canon mirrorless camera (FAQ on Canon EOS fit)",
+      "canon r50 (closing link)",
+      "g7x mark ii (PIXI Mini owner report)"
+    ],
+    "skipped": [
+      "v10 (different camera, not covered)"
+    ]
+  },
+  "amazonFilters": {
+    "date": "2026-11-06",
+    "url": "https://www.amazon.com/s?k=best+tripod+for+canon+powershot+v1",
+    "groups": [
+      {
+        "group": "Camera Type",
+        "options": [
+          "Canon",
+          "DSLR",
+          "Smartphone",
+          "GoPro",
+          "Mirrorless",
+          "Digital Camera"
+        ]
+      },
+      {
+        "group": "Price Range",
+        "options": [
+          "Under $25",
+          "$25 - $50",
+          "$50 - $100",
+          "$100 - $200",
+          "Over $200"
+        ]
+      },
+      {
+        "group": "Brands",
+        "options": [
+          "JOILCAN",
+          "VICTIV",
+          "CAMBOFOTO",
+          "ULANZI",
+          "SmallRig",
+          "Manfrotto",
+          "K&F CONCEPT",
+          "JOBY"
+        ]
+      },
+      {
+        "group": "Customer Ratings",
+        "options": [
+          "4 stars & up",
+          "3 stars & up",
+          "2 stars & up"
+        ]
+      }
+    ],
+    "used": [
+      "Camera Type: Canon / Digital Camera / Mirrorless (FAQ: any Canon or mirrorless tripod fits via 1/4\"-20)",
+      "Brands: ULANZI, Manfrotto (picks), SmallRig and JOBY (named in the picking section)"
+    ],
+    "skipped": [
+      "Price Range (no prices published)",
+      "Customer Ratings (no ratings published)",
+      "Sort by / Sponsored (shopping-only)"
     ]
   }
 }

@@ -414,7 +414,7 @@ sources:
   - title: 'r/ricohGR: How often do you shoot using a tripod?'
     url: >-
       https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-06'
 author: editorial-team
 faqs:
   - q: What is the best tripod for a Ricoh GR III?
@@ -472,7 +472,7 @@ heroAlt: >-
   buying guide
 ---
 
-A Ricoh GR III tripod has to be small enough to come along every day, because the camera itself lives in a pocket. So the best tripod for Ricoh GR III owners, for street photography and night walks, is usually a mini. For most people that is the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); for standing-height long exposures it is the [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). I matched five tripods to the camera using maker specs and GR owner threads on r/ricohGR, DPReview, FM Forums and PentaxForums. All five weigh under 2 lb, and I have not used these tripods myself.
+A Ricoh GR III tripod has to be small enough to come along every day, because the GR III is an APS-C point-and-shoot camera that lives in a pocket. So the best tripod for Ricoh GR III owners, for street photography and night walks, is usually a mini. For most people that is the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); for standing-height long exposures it is the [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). I matched five tripods to the camera using maker specs and GR owner threads on r/ricohGR, DPReview, FM Forums and PentaxForums. All five weigh under 2 lb, and I have not used these tripods myself.
 
 ## Ricoh GR III tripod specs compared against a 257 g camera
 
@@ -486,29 +486,29 @@ A Ricoh GR III tripod has to be small enough to come along every day, because th
 | ULANZI MT-08 | 3.2 oz | 5.9 in | 9.27 in | 0.5 kg extended | 1.9x |
 | SIRUI Traveler 5C | 1.87 lb | 13 in | 54.3 in | 4 kg | 15.6x |
 
-Most camera tripod ratings are sized for a mirrorless camera with a lens, so the more useful ratio here is tripod weight against camera weight. The MT-08 weighs about a third of the GR III, the GorillaPod about half and the PIXI Mini about three quarters; the PIXI EVO matches it. Only the SIRUI outweighs it, at about 3.3 times, and together they still come to about 1.1 kg. The Ricoh GR IIIx and Ricoh GR IV add just 5 g each.
+Camera tripod ratings are sized for a mirrorless camera with a lens, so the useful ratio here is tripod weight against camera weight. The MT-08 weighs about a third of the GR III, the GorillaPod about half and the PIXI Mini about three quarters; the PIXI EVO matches it. Only the SIRUI outweighs it, at about 3.3 times, and the pair still comes to about 1.1 kg. The Ricoh GR IIIx and Ricoh GR IV add just 5 g each.
 
 ## How I picked these Ricoh GR III tripods
 
-**I kept tripods that at least two top-ranking pages for this search recommend, each with its own Amazon US listing.** Those pages were r/ricohGR threads, DPReview's Ricoh forum, FM Forums, PentaxForums, B&H's GR III accessory page and an Accio report; Pack Hacker backed the SIRUI. The Pedco UltraPod II came up twice, but its Amazon US listing was unavailable when I checked, so I left it out. Vanguard travel tripods came up too, but each page named a different model.
+**I kept Ricoh GR III tripods that at least two GR owner threads or guides recommend and that I could find new.** The sources were r/ricohGR, DPReview's Ricoh forum, FM Forums, PentaxForums, B&H's GR III accessory page and an Accio report; Pack Hacker backed the SIRUI. The Pedco UltraPod II came up twice but was unavailable new when I checked, so I left it out. Vanguard travel tripods came up too, but no two sources named the same model.
 
 > **From our notes:** The 257 g on Ricoh's spec sheet made the load column almost pointless, so I sorted by what GR owners actually complained about. One DPReview owner found a full-size tripod with a pocket camera "quite counterintuitive", and an r/ricohGR reply says "I can't imagine carrying around a tripod when using my Ricoh." That is why four of the five picks are minis, and why the one travel tripod weighs under 2 lb.
 
 ## The 5 best tripods for the Ricoh GR III, reviewed
 
-**Each Ricoh GR III tripod here suits a different place to set the camera down, so start with where you shoot.**
+**Every Ricoh GR III tripod below weighs under 2 lb and carries at least 1.9 times the camera, so the surface you shoot from decides the pick.**
 
 ### Manfrotto PIXI Mini Tripod (MTPIXIMII-B): best pocket tripod for the GR III
 
-The Manfrotto PIXI Mini Tripod (MTPIXIMII-B) is a tabletop mini tripod from Manfrotto, and it is the tripod I'd keep in a GR III owner's jacket. B&H lists 6.7 oz, 7 in folded and a 1 kg rating, about 3.9 times the camera. Its push-button ball head unlocks with one press, and the camera goes straight onto its standard 1/4-20 screw, so there is no plate to spoil the GR's slim shape. It was the most recommended tripod in the threads I read, from r/ricohGR to DPReview, where an owner of the original PIXI calls it "rock solid". B&H owners praise how firmly the button holds. The catch is a fixed 5.3 in height: a GR III tripod this short needs a wall, bench, table or ledge.
+The Manfrotto PIXI Mini Tripod (MTPIXIMII-B) is an aluminum and technopolymer tabletop mini tripod from Manfrotto, and the tripod I'd keep in a GR III owner's jacket. B&H lists 6.7 oz, 7 in folded and a 1 kg rating, about 3.9 times the camera. Its push-button ball head unlocks with one press, and the camera goes straight onto its standard 1/4-20 screw, so there is no plate to spoil the GR's slim shape. It was the most recommended tripod in the GR threads I read, and a DPReview owner of the original PIXI calls it "rock solid". B&H owners praise how firmly the button holds. The catch is a fixed 5.3 in height: a GR III tripod this short needs a wall, bench, table or ledge.
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: steadiest tabletop tripod
 
-The [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) is a two-section tabletop tripod from Manfrotto, and my pick when a GR III sits on rough stone for a long exposure. Manfrotto rates it to 2.5 kg, about 9.7 times the camera, and the legs adjust from 10.5 to 20 cm with two leg angles. The ball head has a 90-degree notch for portrait framing. Pack Hacker found it "just isn't very tall" and says the leg-angle button can stick between modes; B&H owners call it solid and easy to pack. At about 0.26 kg it weighs as much as the camera, which is the price of the extra stability.
+The [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) is a two-section aluminum tabletop tripod from Manfrotto, and my pick when a GR III sits on rough stone or uneven ground for a long exposure. Manfrotto rates it to 2.5 kg, about 9.7 times the camera, and the legs adjust from 10.5 to 20 cm with two leg angles. The ball head has a 90-degree notch for portrait framing. Pack Hacker found it "just isn't very tall" and says the leg-angle button can stick between modes; B&H owners call it solid and easy to pack. At about 0.26 kg it weighs as much as the camera, which is the price of the extra stability.
 
 ### JOBY GorillaPod 1K Kit: best flexible tripod for railings
 
-The [JOBY GorillaPod 1K Kit](amzn:Joby+GorillaPod+1K+Kit+JB01503+ballhead) is a flexible-leg mini tripod from JOBY with a ball head, and I'd choose it where there is no flat surface at all. B&H lists 5.1 oz, 10 in of height and a 1 kg rating, and the jointed legs wrap railings, fences and branches. A PentaxForums GR III owner settled on a GorillaPod because it screws straight into the camera and needs no quick-release plate. B&H owners report very stiff legs out of the box, and one could not get it steady around an overhead pipe. The Amazon US listing is sold through other sellers right now.
+The [JOBY GorillaPod 1K Kit](amzn:Joby+GorillaPod+1K+Kit+JB01503+ballhead) is a flexible-leg mini tripod from JOBY with a ball head, and I'd choose it where there is no flat surface at all. B&H lists 5.1 oz, 10 in of height and a 1 kg rating, and the jointed legs wrap railings, fences and branches. Its Ball Head 1K pans 360 degrees and tilts 90 degrees for vertical shots, and the kit folds to 8 in. A PentaxForums GR III owner settled on a GorillaPod because it screws straight into the camera and needs no quick-release plate. B&H owners report very stiff legs out of the box, and one could not get it steady around an overhead pipe.
 
 ### ULANZI MT-08 Extendable Mini Tripod: lightest tripod and grip
 
@@ -516,14 +516,14 @@ The [ULANZI MT-08](amzn:ULANZI+MT-08+mini+tripod+extension+pole) is an extendabl
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: best full-height travel tripod
 
-The SIRUI Traveler 5C is a five-section carbon fiber travel tripod from SIRUI, and the one full-height tripod I'd pair with a GR III. SIRUI lists 1.87 lb, 13 in folded, 54.3 in tall and a 4 kg rating, about 15.6 times the camera, and the Amazon listing describes an Arca-type plate. First Quadcopter calls the ball head the weak point, and one owner there says it blew over in strong wind, so hang your bag from the hook. A PentaxForums owner of a smaller Sirui found it "quite resonant", so use the timer.
+The SIRUI Traveler 5C is a five-section carbon fiber travel tripod from SIRUI, and the one full-height tripod I'd pair with a GR III. SIRUI lists 1.87 lb, 13 in folded, 54.3 in tall and a 4 kg rating, about 15.6 times the camera, and its listing describes an Arca-type plate. First Quadcopter calls the ball head the weak point, and one owner there says it blew over in strong wind, so hang your bag from the hook. A PentaxForums owner of a smaller Sirui found it "quite resonant", so use the timer.
 
 ## Which tripod should you get for your Ricoh GR III?
 
 **Pick the Ricoh GR III tripod by where you will set the camera, because all five carry it easily.**
 
 1. In every pocket for night streets and walls: Manfrotto PIXI Mini.
-2. Long exposures on rough stone, plus portrait: Manfrotto PIXI EVO.
+2. Long exposures on rough stone or uneven ground, plus vertical framing: Manfrotto PIXI EVO.
 3. Railings, fences and poles: JOBY GorillaPod 1K Kit.
 4. The lightest grip for self-portraits and group shots: ULANZI MT-08.
 5. Standing-height blue hour and interval shots: SIRUI Traveler 5C, or compare more in our [carry-on travel tripods](/blog/best-tripod-that-fits-in-carry-on-luggage/).

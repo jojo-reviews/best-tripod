@@ -394,7 +394,7 @@ sources:
   - title: 'r/canon: Canon PowerShot V1 tripod plate?'
     url: >-
       https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/
-reviewedDate: '2026-11-03T00:00:00.000Z'
+reviewedDate: '2026-11-06T00:00:00.000Z'
 faqs:
   - q: Does the Canon PowerShot V1 have a tripod mount?
     a: >-
@@ -416,6 +416,12 @@ faqs:
       Turn digital IS off. DPReview's figures show that Enhanced and
       subject-tracking IS crop 4K up to 30p by 1.43x, and on a still tripod you
       don't need it, so you keep the full wide angle.
+  - q: Will a tripod made for a Canon EOS or mirrorless camera fit the PowerShot V1?
+    a: >-
+      Yes. A tripod sold for Canon EOS, mirrorless or other digital cameras fits
+      the PowerShot V1, because they all use the same 1/4"-20 tripod socket.
+      Check only the height you need and that the plate leaves the battery door
+      clear.
   - q: Do I need a full-size tripod for the PowerShot V1?
     a: >-
       Only for standing shots or eye-level stills. Every mini here holds the 426
@@ -453,15 +459,15 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-powershot-v1.png
 heroAlt: >-
-  Best Tripod for Canon PowerShot V1 (2026) – 5 Picks Sized to 426 g – Best
-  Tripod buying guide
+  Best Tripod for Canon PowerShot V1 – 5 Picks Sized to 426 g – Best Tripod
+  buying guide
 ---
 
 The best tripod for Canon PowerShot V1 owners is Canon's own [Tripod Grip HG-100TBR](amzn:Canon+Tripod+Grip+HG-100TBR) if you vlog, because Canon lists the V1 as compatible and the bundled remote starts recording from the handle. For desks, a Manfrotto PIXI Mini or PIXI EVO is all a 426 g camera needs; for standing shots, the Peak Design Travel Tripod. I matched five tripods to the V1 from maker specs and owner reports on r/canon, B&H and DPReview's forum; we have not used them ourselves.
 
 ## PowerShot V1 tripod specs compared against a 426 g camera
 
-**A tripod for the Canon PowerShot V1 is chosen on height and use, not load: Canon lists the camera at [426 g with battery and card](https://cam.start.canon/en/C016/manual/html/UG-11_Reference_0080.html), and every pick holds at least twice that.** If you shoot a heavier mirrorless body too, our [tabletop tripods matched to camera weight](/blog/best-tabletop-camera-tripod/) cover that side.
+**A camera tripod for the Canon PowerShot V1 is chosen on height and use, not load: Canon lists the camera at [426 g with battery and card](https://cam.start.canon/en/C016/manual/html/UG-11_Reference_0080.html), and every pick holds at least twice that.** The V1's camera lens is built in (a 16-50mm-equivalent zoom), so there is no lens weight to balance and the camera sits centered over any ball head. If you shoot a heavier mirrorless body too, our [tabletop tripods matched to camera weight](/blog/best-tabletop-camera-tripod/) cover that side.
 
 | Tripod | Weight | Folded | Max height | Rated load | Headroom over 426 g |
 |---|---|---|---|---|---|
@@ -473,9 +479,9 @@ The best tripod for Canon PowerShot V1 owners is Canon's own [Tripod Grip HG-100
 
 ## How I picked these PowerShot V1 tripods
 
-**Every PowerShot V1 tripod here is recommended by at least two independent pages ranking for this search or its close variants, and each has its own in-stock Amazon US listing.** Those pages were Canon's shop, CameraEgg's V1 roundup, a V1 vlogger's Substack, Pack Hacker and DPReview's compact-camera threads. The Joby GorillaPod 3K Kit and SmallRig BUT2664 appeared only on CameraEgg, so they are out. I scored each pick on our [Best Tripod Score rubric](/how-we-score/).
+**Every PowerShot V1 tripod here is recommended by at least two independent sources and is easy to buy in the US.** Those were Canon's shop, CameraEgg's V1 roundup, a V1 vlogger's Substack, Pack Hacker and DPReview's compact-camera threads. The Joby GorillaPod 3K Kit and SmallRig BUT2664 had only one backer, so they are out. I scored each pick on our [Best Tripod Score rubric](/how-we-score/).
 
-> **From our notes:** The V1's 426 g weight sorted this list less than its battery door did. Canon's 1 kg limit on the HG-100TBR still leaves more than double the camera's weight, and the PIXI EVO carries almost six times it. What kept coming up in owner threads was swapping batteries without unscrewing the camera, and filming yourself at a height a mini can't reach. So I ranked by where you film, then checked each pick against that door.
+> **From our notes:** The V1's battery door sorted this list more than its 426 g weight did. Owner threads kept asking how to swap batteries without unscrewing the camera, and how to film yourself above mini-tripod height. So I ranked by where you film, then checked each pick against that door.
 
 ## The 5 best tripods for the Canon PowerShot V1, reviewed
 
@@ -532,4 +538,4 @@ The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Ca
 - **A mini sits too low.** Use a desk, shelf or wall, the MT-16's 44 cm, or a full-height tripod for standing shots.
 - **The head creeps at a tilt.** Owners report it in portrait on small ball heads; lock it with the camera's weight centered over the head, or use the PIXI EVO's -90° side tilt.
 
-If you are torn between bendy and rigid legs for travel, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the trade, and the [R50 tripod guide](/blog/best-tripod-for-canon-r50/) covers Canon's small mirrorless body.
+If you are torn between bendy and rigid legs for travel, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the trade, and the [R50 tripod guide](/blog/best-tripod-for-canon-r50/) covers the Canon EOS R50, Canon's small mirrorless body.

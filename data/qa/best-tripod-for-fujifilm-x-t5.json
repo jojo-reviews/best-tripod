@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-03 (TextRazor): added carbon-fiber reinforced polymer, zoom lens, selfie, tripod photography; renamed first H2 to the column-down comparison and 3 H2s to name the Fujifilm X-T5 tripod; product first sentences name product, type, maker (from existing specs); moved Which-one block after picks; no new claims, prices, ratings or products. Review only.",
-    "at": "2026-11-03T17:53:23.757Z",
+    "notes": "K&F Concept 64 minimum height corrected to 20.4 in (52 cm) per its Amazon listing B0B1HYVVTV (maker table's 400mm/19.68 in is inconsistent); no other change",
+    "at": "2026-11-06T15:31:38.492Z",
     "hash": "6c96f6d6a41c4241"
   }
 }

@@ -1,45 +1,15 @@
 {
   "keyword": "best tripod for ricoh gr iii",
-  "pagesAnalyzed": 4,
+  "pagesAnalyzed": 2,
   "sharedEntities": [
-    {
-      "entity": "Camera",
-      "type": "/fictional_universe/character_species",
-      "pages": 4,
-      "relevance": 0.64,
-      "wiki": "http://en.wikipedia.org/wiki/Camera",
-      "kgmid": "/m/0dv5r",
-      "wikidata": "Q15328",
-      "idsChecked": true
-    },
     {
       "entity": "Tripod (photography)",
       "type": "",
-      "pages": 3,
-      "relevance": 0.9,
+      "pages": 1,
+      "relevance": 1,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "kgmid": "/m/073bxn",
       "wikidata": "Q683906",
-      "idsChecked": true
-    },
-    {
-      "entity": "Carbon-fiber reinforced polymer",
-      "type": "/projects/project_focus",
-      "pages": 3,
-      "relevance": 0.66,
-      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
-      "kgmid": "/m/0155k0",
-      "wikidata": "Q910977",
-      "idsChecked": true
-    },
-    {
-      "entity": "Mirrorless camera",
-      "type": "/digicams/camera_format",
-      "pages": 3,
-      "relevance": 0.27,
-      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
-      "kgmid": "/m/05p4z41",
-      "wikidata": "Q209918",
       "idsChecked": true
     },
     {
@@ -65,10 +35,39 @@
     {
       "entity": "Vanguard",
       "type": "Company",
-      "pages": 2,
+      "pages": 1,
       "relevance": 0.75,
       "wiki": "",
       "idsChecked": true
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 1,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "kgmid": "/m/0dv5r",
+      "wikidata": "Q15328",
+      "idsChecked": true
+    },
+    {
+      "entity": "Point-and-shoot camera",
+      "type": "/digicams/camera_format",
+      "pages": 1,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Point-and-shoot_camera",
+      "wikidata": "Q209935",
+      "kgmid": "/m/049vf_"
     },
     {
       "entity": "Ricoh",
@@ -81,6 +80,34 @@
       "idsChecked": true
     },
     {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 1,
+      "relevance": 0.66,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "kgmid": "/m/0155k0",
+      "wikidata": "Q910977",
+      "idsChecked": true
+    },
+    {
+      "entity": "Street photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 1,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Street_photography",
+      "wikidata": "Q1851397",
+      "kgmid": "/m/03vx2r"
+    },
+    {
+      "entity": "Market trend",
+      "type": "/book/book_subject",
+      "pages": 1,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Market_trend",
+      "wikidata": "Q1004322",
+      "kgmid": "/m/0g_23"
+    },
+    {
       "entity": "Lightweight",
       "type": "/sports/boxing_weight_division",
       "pages": 2,
@@ -91,21 +118,11 @@
     {
       "entity": "Photography",
       "type": "/broadcast/genre",
-      "pages": 2,
+      "pages": 1,
       "relevance": 0.47,
       "wiki": "http://en.wikipedia.org/wiki/Photography",
       "kgmid": "/m/05wkw",
       "wikidata": "Q11633",
-      "idsChecked": true
-    },
-    {
-      "entity": "Manfrotto",
-      "type": "Agent",
-      "pages": 2,
-      "relevance": 0.47,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
-      "kgmid": "/m/025_1lk",
-      "wikidata": "Q635963",
       "idsChecked": true
     },
     {
@@ -117,9 +134,44 @@
       "idsChecked": true
     },
     {
+      "entity": "Digital camera",
+      "type": "/law/invention",
+      "pages": 1,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_camera",
+      "wikidata": "Q62927",
+      "kgmid": "/m/0dw7n"
+    },
+    {
+      "entity": "Shopee",
+      "type": "Agent",
+      "pages": 1,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Shopee",
+      "wikidata": "Q54863641"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "idsChecked": true,
+      "wikidata": "Q1306072",
+      "kgmid": "/m/047sxn"
+    },
+    {
+      "entity": "SmallRig",
+      "type": "Company",
+      "pages": 1,
+      "relevance": 0.38,
+      "wiki": "",
+      "wikidata": "Q123286410"
+    },
+    {
       "entity": "Amazon (company)",
       "type": "Agent",
-      "pages": 2,
+      "pages": 1,
       "relevance": 0.36,
       "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
       "kgmid": "/m/0mgkg",
@@ -135,12 +187,63 @@
       "idsChecked": true
     },
     {
-      "entity": "Monopod",
-      "type": "",
-      "pages": 2,
-      "relevance": 0.3,
-      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "entity": "Manizek",
+      "type": "Company",
+      "pages": 1,
+      "relevance": 0.34,
+      "wiki": ""
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 1,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "kgmid": "/m/05p4z41",
+      "wikidata": "Q209918",
       "idsChecked": true
+    },
+    {
+      "entity": "Ulanzi",
+      "type": "Company",
+      "pages": 1,
+      "relevance": 0.31,
+      "wiki": "",
+      "wikidata": "Q126597929"
+    },
+    {
+      "entity": "2026-01-01T00:00:00.000+00:00",
+      "type": "Time",
+      "pages": 1,
+      "relevance": 0.31,
+      "wiki": ""
+    },
+    {
+      "entity": "Aluminium",
+      "type": "ChemicalSubstance",
+      "pages": 1,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Aluminium",
+      "wikidata": "Q663",
+      "kgmid": "/m/027vj2v"
+    },
+    {
+      "entity": "Pricing",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Pricing",
+      "wikidata": "Q2516951",
+      "kgmid": "/m/01jsvy"
+    },
+    {
+      "entity": "Snapshot (photography)",
+      "type": "/book/book_subject",
+      "pages": 1,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Snapshot_(photography)",
+      "wikidata": "Q1758746",
+      "kgmid": "/m/06pg22"
     },
     {
       "entity": "Photograph",
@@ -149,9 +252,35 @@
       "relevance": 0.24,
       "wiki": "http://en.wikipedia.org/wiki/Photograph",
       "idsChecked": true
+    },
+    {
+      "entity": "EDC",
+      "type": "Company",
+      "pages": 1,
+      "relevance": 0.24,
+      "wiki": ""
+    },
+    {
+      "entity": "Vlog",
+      "type": "/business/industry",
+      "pages": 1,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "wikidata": "Q674926",
+      "kgmid": "/m/04rh6b"
+    },
+    {
+      "entity": "Plastic",
+      "type": "/architecture/lighthouse_construction_material",
+      "pages": 1,
+      "relevance": 0.21,
+      "wiki": "http://en.wikipedia.org/wiki/Plastic",
+      "wikidata": "Q11474",
+      "kgmid": "/m/05z87"
     }
   ],
   "errors": [
-    "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Cj0eMOc3yQFKY6kFMnzsHx&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Cj0eMOc3yQFKY6kFMnzsHx\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'etWv8LuZdEqmsdRxi9xvKCDPD5FwafXAi8s9yF40tUc-1793705126-1.2.1.1-3yP_4HZ_JA4wEbzYOr7YSpiHeyGzU9jMITKg8iPlo0H3kxCfQUrGGDrbcuqCJXFA',cITimeS: '1793705126',cN: 'Cj0eMOc3yQFKY6kFMnzsHx',cRay: 'a54b04b04ad1e61d',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_f_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\",md: 'WzjO.MD01odTh3W0HFfMwyN8r.R0F7xwLrTcMLFLU1Y-1793705126-1.2.1.1-bUZs7dckT.01kGYMkVxoPP6JAN4fqY85OajlaOV2jjUoadScYIgMq2P1ilF5oW5VEjEG4DK5AiuzOBvz9In2FR5O5hxSYdMygjMqxmxdR9eUOxc0JAKpcKU_rl4sIdf9M7Jrml3LYkPFMIEK.2.NusAXAjqnYfGqHRg89qX_MksOlT_JpyjRjLztaZurMG.a1GME1aQ9eCquHf9TpgGgd79hJ7aJaQVTUVzBMmcYQQ4.3fM0SP3cqwKpGWZfbYIIZAsZcVOiNyVZx4c4D7Cj_jPg9AoHacJlfXFyTE9c9cGInM1iSrROXV_ENamHE061SUBBJyahttKtnC3dJ8QiShOPQN.f7NyrLlmH3KLgKfvEe6BNDtwUc3XNQ8tZDs1zSI8fWmhEkQJtEHrKax.AmdNM93v4Hh4EEobXJdiz_YNjQCPGa9W3p0hKMHUmY1sb2s0uEq6hufmdMC7dmOYPvgpxJGHOcmoTwtGE5J_0OaY80GvGyOM9ewpLeig5wDI2vHUHeeDQ3oJoVs2O.sEkdmarHLPNC0E1R8KqELdOMzDjL0hUamQ8qbnDDs3J8.EYGIpNODpCfuV6V7LkFzV_F1msoxHoVGjLxdKuuS7UAOc0ihI5JrvJUAxZpn7tBPkYMKTbtbnPM78JOcblPdx2dC9_htBM7JbsTMbf5P2BAm1kQSfMyGK_Xw1VIOLXi4tOcXJASgKCEZ84ih4Kv2iRsmcC9VNJcsgck9IrIzzLNi.e63kFhnKqZLLuGgvOHgx5yM2bGX7mbh_DR7Ks1hKaaC113tvrm52utV5uYyuv72ssi1duwMxK3Cq.zEaLoRkbjjpEUMInUfmkJlf4J6HbgRD669IvXrch2gUXz0OmtzM3WIv_qr4lciro9IMrNVWR7lPD1hl9orLQtpEnvf.0ZRZBcWwbI5w8RrEahSAEEaS9ZIcXRBLlK80lzuYGG86V7tWO1Iu_GS9zFF0hFDorztIcq93n9ULzQoamkUreMrmoM4F.eB87qCen6lNc723HMBUd97qXl3mDx0s4MTmv5Q5WGT3fuZH0AJq6QfhBS_jo.SAZf5tndSyQ9Qfx80Yh2AMkSIykn_o488626aCW7P9iV5pGpZ_9aZLOeH2K..kPS8sJiSwJL.69Z4phlORmNsuAKPgkSBxO6h2bWID8Ss2JW1_3gSAFJnt_ZNJIV_0m32Gw19tNEPhw1zCgVcJH',mdrd: 'mAUOwFJjvmWWnc8vZgF21SslTR8A0K4YyaH2jTm593o-1793705126-1.2.1.1-fmaPHDG6wG8BWAkacSbfwoHwtD2R8OvrKNboPtnt6HCZKi8T5GopJwyf4IjYecue0B3Dbgc4meMclyztuOulhChHzmXTgfe.WivfzRSMOwtnqs.3n5IznhNd0ObGGwD73PuLsTrBK7.Hv1WBjh2S2IF_Y1HSwmt6Lt_Y6nROnRSbmVUF4s_Wk4fgFx8vZo70DNHWJN.U_M08rXVlo6UEY0BTbyvFSsKcn86P58yuJzr537Fk.baSQgWHTHOh.2G8cakXmyEkavPYuS4WD2_cvA',};var a = document.createElement('script');a.nonce = 'Cj0eMOc3yQFKY6kFMnzsHx';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a54b04b04ad1e61d';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207?__cf_chl_rt_tk=QAhEkOIjTRnKj2ZDlLn5aMCgrgeN95h_zv0M6bhGV2A-1793705126-1.0.1.1-hNkEmR5YqIRaO10ZqaMhB7I9xA0wkbj.KruWwz_0MME\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
-  ]
+    "https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-2xGMfZzXA9jLuYDTLBPRMD&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"2xGMfZzXA9jLuYDTLBPRMD\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'syOKUDuPrBhwuV8P0RQJDCBelvy5wO9cpAjB3_6I90c-1793978825-1.2.1.1-JMxu0OxOhQ3rixzipqYJq4EfEN0R.asV_9UycPPUdPvAQ7dfFtQVZSoxSZFvRhYs',cITimeS: '1793978825',cN: '2xGMfZzXA9jLuYDTLBPRMD',cRay: 'a5651ec8f967290e',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html?__cf_chl_tk=E3GJFhER9MqAgH9koXAbW4jrPxM03Usw3i9LV74sCes-1793978825-1.0.1.1-K.mWPaaShQDdstdbN2nm8IuKxdj7mXOh6PB_mvl0OBg\",cvId: '3',cZone: 'www.pentaxforums.com',fa:\"/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html?__cf_chl_f_tk=E3GJFhER9MqAgH9koXAbW4jrPxM03Usw3i9LV74sCes-1793978825-1.0.1.1-K.mWPaaShQDdstdbN2nm8IuKxdj7mXOh6PB_mvl0OBg\",md: '76iFVWldQyxD8OSx5rxLkOEunY00iS3m3ZZIuBIpetQ-1793978825-1.2.1.1-V3m9SqfzQUO8WAX8VoBpvztqLW6qiRYtLA8dgv1AeH2e7Q3OD_gdKpdQCq8Ab6bSeYQ0_scY7Yio6LwIU0C5GEeCOi_h9fcPnF_W4aK0DaAf5UiqzlTFDciJ1_LRhUc5eJzRNhea3EW36EKSxLPsbRcveQnaVau0YqqH3j7n.VgwGyTW8WYONoJYdGel6m6UUHKzuB8WrpEUJl_DpXtO5p5Zj9dsm84u4JzLeJqHW4a94H6kaZB_Nqq3pt0Rrc55wHubGkU_mJbepV_jp1Qy.ZMFceYsagBn0k7bPq8BdGEowmSKv0PnvD2kdKmuB0yskwXoIwkQwYAhWJm5tIAmokVcKVyNzztrba_qJTkU62efCzKH.89rhiVUOgGM_alTfkmQPqCxG1zSB53DkLASUqeFx4xi2NnzKFyygk5JR_SbzNEKlgocl4UyfQYS_iEPiaoCoHz1STBp60SiahYc6IT1_kzAiOxGFJcXsxdY4.0McdZ4TdOBOzQsndHoFoMmBYxNFge98nCJEXjaGMXsbD0Iy0tjclbY.14jgsmYZ3lsgwTFlv07xz3F6vbUa4eiE5rjqldxZKoZv0yNn8IFReeMLAedaxXnwi20FJXkM_izEFmbkjRsZ.1BbwT__k3aFqiJE7T1wvbFWW6SEIhIz_Bu7zBVMZdWOb9azqvQRxRHG.iQWLRR5Q16YudpLxHYrbxC4ffxmORgfsoMQA1s8EA2bKZ5oPjDrHgM7DXvuu6zActRzvRHyNpX0Inl6drp69JqZSHCRel9ISVY3t4bsubpCCYmsMCtbL..8qeG50njKWitk3Ky0aKZh.z_jwYmP8w0NcIBRJSL6E3_HGmdYePUqiGzOfQ8dx5kLJmUzvwnCtvGD8vG2R8p2NkibhWV5tfVJzPqhYQ61sBIVm6CmhH_1.18ZqRCbmeOWWY2EuMUTA3WrNbVt7ROw7NjAvcDon67firlOv81Rl9Aur1ewpJC.EjRGKL32TJwJV5tKGakGYCTjBBbIMywbsdClNwlP2bn3BYZoW0rFu6FLFROpdjNxVL0P9l3CQIxd8ki.rRIHmw.vq9gE9zyqoH0JNXYBWhLJOgNsiLEwgACi8NXkubqTwfSstreDNJDRniVjd9nGhuGtZonwczmKOGDM7zYmFjjfEXI6tftUiAJqO09lNqZA3CSc6kJjGVSL16UDhMKxY30EvRHV2sU1HQs5NsO',mdrd: 'HiJMxJN0E2WNfd_U6rqW41sKjV_UUwIc1tS6MZapK2k-1793978825-1.2.1.1-sd1nmvRwcF9NcsGdHAgLo_3kq1HtCQeR_J1cfj_v5PvZ8RhMMcIhWHTnPFCawfugVZfoC_dCEhUbQSj2fVGF2kOEdOX1hNk5N0EqKX45ZR5wA3_kBTjl21.VDxNLLlLbg6bRbTByjiYpml5Qdvm5747ph8wVndXJi2CO14.GArk9Z59c7XnsNh3e2pdeYx7xxMQ9Q9CsIiJ8KLCQP42IIimlbKcFolVzs7SPjHz2JtMcGL9i.bPuhMNq7qtMxhIE24Wq0LDoDDcAIzEFLPCwzA',};var a = document.createElement('script');a.nonce = '2xGMfZzXA9jLuYDTLBPRMD';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5651ec8f967290e';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html?__cf_chl_rt_tk=E3GJFhER9MqAgH9koXAbW4jrPxM03Usw3i9LV74sCes-1793978825-1.0.1.1-K.mWPaaShQDdstdbN2nm8IuKxdj7mXOh6PB_mvl0OBg\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ],
+  "missingFromPost": []
 }

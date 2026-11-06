@@ -12,25 +12,25 @@
       "name": "tripod",
       "type": "product",
       "relation": "holds the camera in exactly the same spot for every frame of the sequence",
-      "salience": 0.98
+      "salience": 0.92
     },
     {
       "name": "time-lapse",
       "type": "concept",
       "relation": "stills shot at a fixed interval and played back at 24-30 fps; any tripod movement shows as a jump",
-      "salience": 0.8
+      "salience": 0.92
     },
     {
       "name": "carbon fiber",
       "type": "material",
       "relation": "lighter leg material that damps vibration; Sirui Traveler 5C",
-      "salience": 0.69
+      "salience": 0.49
     },
     {
       "name": "camera",
       "type": "product",
       "relation": "DSLR, mirrorless, phone or GoPro whose weight sets the load rating needed",
-      "salience": 0.58
+      "salience": 0.52
     },
     {
       "name": "Manfrotto",
@@ -42,7 +42,7 @@
       "name": "aluminum",
       "type": "material",
       "relation": "heavier, cheaper leg material; extra mass helps in wind",
-      "salience": 0.23
+      "salience": 0.36
     },
     {
       "name": "intervalometer",
@@ -91,16 +91,29 @@
       "type": "standard",
       "relation": "plate standard on the Befree, Sirui and K&F heads",
       "salience": 0.3
+    },
+    {
+      "name": "photography",
+      "type": "field",
+      "relation": "time-lapse photography is the genre; all top pages frame the tripod as a photography tool",
+      "salience": 0.31
+    },
+    {
+      "name": "photographer",
+      "type": "role",
+      "relation": "timelapse photographers choose tripods by stability and carry weight",
+      "salience": 0.4
     }
   ],
   "textrazor": {
     "file": "data/briefs/best-tripod-for-timelapse.entities.json",
+    "date": "2026-11-06",
     "pagesAnalyzed": [
       "https://www.learntimelapse.com/how-to-select-a-tripod-for-timelapse-photography/",
-      "https://www.adorama.com/alc/5-best-tripods-for-astrophotography-time-lapse/",
-      "https://www.techgearlab.com/topics/electronics/best-tripod"
+      "https://www.bestbuy.com/site/shop/time-lapse-tripod",
+      "https://www.findingtheuniverse.com/best-travel-tripods/"
     ],
-    "note": "Medium and Amateur Photographer blocked the TextRazor fetch (Cloudflare); shared entities come from the other three. Dropped off-topic: Amazon (company), Benro (not featured), Carbon, Fiber (merged into carbon fiber)."
+    "note": "Live top 5 on 2026-11-06; Reddit and Wirecutter blocked the fetch. Dropped noise: Carbon (element, merged into carbon fiber). Manfrotto kept from the 2026-11-04 run (2 of 3 pages; maker of 3 picks)."
   },
   "attributes": [
     "height with the center column down",
@@ -113,7 +126,10 @@
     "weight hook",
     "minimum height for low angles",
     "phone mount",
-    "Arca-Swiss plate"
+    "Arca-Swiss plate",
+    "max height band (Amazon filter: up to 39 in, 40-49 in, 50-64 in, 65 in & above)",
+    "image stabilization off",
+    "DSLR or smartphone use"
   ],
   "ngrams": [
     "sturdy tripod",
@@ -125,7 +141,9 @@
     "leg sections",
     "phone mount",
     "hang your camera bag",
-    "interval timer"
+    "interval timer",
+    "heavy lenses",
+    "phone and camera"
   ],
   "skipgrams": [
     "tripod…wind",
@@ -157,7 +175,9 @@
     "DSLR",
     "GoPro",
     "smartphone",
-    "travel tripod"
+    "travel tripod",
+    "photographers",
+    "time-lapse photography"
   ],
   "questions": [
     "What is the best tripod for timelapse?",
@@ -601,6 +621,87 @@
           "url": "https://www.reddit.com/r/videography/comments/123uxrq/budget_outdoor_gopro_tripod_for_timelapse_over_3/"
         }
       ]
+    }
+  ],
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-timelapse.suggest.json (2026-11-06, base \"best tripod for\")",
+    "used": [
+      "time lapse",
+      "phone / iphone",
+      "phone and camera",
+      "iphone with remote",
+      "gopro",
+      "heavy camera / heavy lenses",
+      "long exposure",
+      "night photography",
+      "astrophotography",
+      "travel"
+    ],
+    "skipped": "price modifiers (under 100/200: no prices), unrelated uses (cooking videos, spotting scope, hunting, starlink, specific phone models)"
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+for+timelapse (2026-11-06)",
+    "groups": [
+      {
+        "group": "Brands",
+        "options": [
+          "Amazon Basics",
+          "K&F Concept",
+          "Neewer",
+          "SmallRig",
+          "Manfrotto",
+          "UBeesize",
+          "ULANZI"
+        ]
+      },
+      {
+        "group": "Max Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "$6–$150",
+          "$150 to $300",
+          "$300 to $400",
+          "$400 to $1000",
+          "$1000 & above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up"
+        ]
+      },
+      {
+        "group": "Sustainability Features",
+        "options": [
+          "Recycled materials",
+          "Safer chemicals",
+          "Worker well-being"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Used"
+        ]
+      }
+    ],
+    "used": "Max Height bands mapped to the 7 picks under the comparison table; brands K&F Concept, Manfrotto, UBeesize already featured",
+    "skipped": "Price, Customer Reviews, Sustainability, Condition (shopping-only or no sourced data)"
+  },
+  "dataFixes": [
+    {
+      "date": "2026-11-06",
+      "fix": "K&F Concept 64 (B0B1HYVVTV) min height 19.68 in (40 cm) -> 20.4 in (52 cm) per the Amazon US listing; the maker table lists 400mm/19.68\" which is self-inconsistent."
     }
   ]
 }
