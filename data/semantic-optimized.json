@@ -334,5 +334,13 @@
   "best-tripod-for-timelapse": {
     "at": "2026-11-06T15:32:04.423Z",
     "note": "semantic pass 2026-11-06 + Google words/Amazon filters + SEO-wording cleanup"
+  },
+  "best-tripod-dolly": {
+    "at": "2026-11-06T15:32:54.332Z",
+    "note": "semantic pass 2026-11-06 + gap-audit fixes"
+  },
+  "best-tripod-for-recording-school-plays": {
+    "at": "2026-11-06T15:32:54.372Z",
+    "note": "semantic pass 2026-11-06 + gap-audit fixes"
   }
 }

@@ -323,7 +323,7 @@ products:
       - 33.07 lb (15 kg) safety payload for long telephoto lenses
       - Friction control on the XPRO ball head
     cons:
-      - Too big to fly with: 6.61 lb and a 28.54 in fold
+      - 'Too big to fly with: 6.61 lb and a 28.54 in fold'
       - Its 200PL-14 plate needs an adapter for an Arca-type L-bracket
     specs:
       Weight: 6.61 lb (3 kg) with head

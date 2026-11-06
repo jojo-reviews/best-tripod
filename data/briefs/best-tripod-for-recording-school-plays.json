@@ -13,14 +13,14 @@
       "name": "Tripod",
       "type": "product type",
       "relation": "three-legged stand that holds the camera still through a whole performance",
-      "salience": 0.8,
+      "salience": 0.99,
       "pages": 4
     },
     {
       "name": "Camera",
       "type": "device",
       "relation": "camcorder, mirrorless camera or phone recording the stage",
-      "salience": 0.71,
+      "salience": 0.81,
       "pages": 4
     },
     {
@@ -55,7 +55,7 @@
       "name": "Camera lens",
       "type": "component",
       "relation": "zoom lens framing the whole stage from the back row",
-      "salience": 0.39,
+      "salience": 0.4,
       "pages": 2
     },
     {
@@ -78,6 +78,27 @@
       "relation": "source of the fluid-head, drag and counterbalance vocabulary",
       "salience": 0.29,
       "pages": 2
+    },
+    {
+      "name": "Microphone",
+      "type": "device",
+      "relation": "shotgun or on-camera mic that cuts room echo in the hall",
+      "salience": 0.3,
+      "pages": 1
+    },
+    {
+      "name": "Frame rate",
+      "type": "setting",
+      "relation": "about 30 fps with a 1/60 s shutter under stage lights",
+      "salience": 0.3,
+      "pages": 1
+    },
+    {
+      "name": "Film speed",
+      "type": "setting",
+      "relation": "ISO; cap auto ISO so stage shadows stay clean",
+      "salience": 0.25,
+      "pages": 1
     }
   ],
   "attributes": [
@@ -87,7 +108,13 @@
     "load rating vs camcorder or mirrorless weight (Camera)",
     "bowl leveling and bubble level (Tripod head)",
     "leg lock type and spreader footprint in an aisle (Tripod)",
-    "weight to carry from the car park (Tripod)"
+    "weight to carry from the car park (Tripod)",
+    "max height band on Amazon: 65 in & above vs 50 to 64 in (Tripod)",
+    "height with center column down vs up (Tripod)",
+    "compatible with camera or smartphone via plate and phone clamp (Tripod)",
+    "audio: on-camera/shotgun mic and backup recorder (Camera)",
+    "shutter about 2x frame rate and auto-ISO cap under stage lighting (Camera)",
+    "power bank, card space and clip-length limit for a long show (Camera)"
   ],
   "ngrams": [
     "school play",
@@ -99,7 +126,12 @@
     "video tripod",
     "pan and tilt",
     "stage lighting",
-    "wide shot"
+    "wide shot",
+    "school play video",
+    "on-camera mic",
+    "dress rehearsal",
+    "personal use",
+    "center column"
   ],
   "skipgrams": [
     "tripod…heads",
@@ -107,7 +139,10 @@
     "fluid…head",
     "legs…aisle",
     "focus…stage lighting",
-    "pan…tilt"
+    "pan…tilt",
+    "shutter…frame rate",
+    "mic…camera",
+    "column…height"
   ],
   "nlpTerms": [
     "auditorium",
@@ -119,7 +154,13 @@
     "75mm bowl",
     "bubble level",
     "locked-off",
-    "recital"
+    "recital",
+    "shotgun mic",
+    "auto ISO",
+    "shutter speed",
+    "power bank",
+    "memory card",
+    "sync clap"
   ],
   "questions": [
     "What is the best tripod for recording a school play?",
@@ -467,8 +508,151 @@
   "angle": "Match the tripod's real maximum height to where you will sit or stand in the hall, and keep the wide shot locked off, instead of buying pro pan heads you will not use.",
   "textrazor": {
     "ran": true,
-    "pagesAnalyzed": 5,
+    "date": "2026-11-06",
+    "pagesAnalyzed": 3,
     "file": "data/briefs/best-tripod-for-recording-school-plays.entities.json",
-    "note": "Shared entities: Tripod (photography), Camera, Manfrotto, Tripod head, Videography, Camera lens, Fluid, Filmmaking; dropped View camera (large-format camera, off-topic)."
+    "note": "Live top results 2026-11-06 (reddit zwdznx, pixls.us, edthena, Wirecutter phone tripods, comedymemphis); Reddit and Wirecutter blocked. Shared: Tripod (photography) 0.99, Camera 0.81, Tripod 0.77, Camera lens 0.4; missingFromPost: none."
+  },
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-for-recording-school-plays.suggest.json",
+    "date": "2026-11-06",
+    "modifiers": [
+      "golf swing",
+      "volleyball",
+      "sports",
+      "basketball games",
+      "drawing",
+      "pickleball",
+      "volleyball games",
+      "art",
+      "cooking videos",
+      "on iphone",
+      "in the gym",
+      "with iphone",
+      "content",
+      "desk hands",
+      "dance videos",
+      "dancing",
+      "food videos",
+      "sports games",
+      "pickleball games",
+      "soccer games",
+      "tennis",
+      "videos",
+      "workouts"
+    ],
+    "used": [
+      "videos",
+      "dance videos",
+      "on iphone / with iphone (phone clamp FAQ)"
+    ],
+    "skipped": "sport, art, cooking, gym and workout modifiers are other topics"
+  },
+  "amazonFilters": {
+    "url": "https://www.amazon.com/s?k=best+tripod+for+recording+school+plays",
+    "date": "2026-11-06",
+    "groups": [
+      {
+        "group": "Overall Pick",
+        "options": [
+          "Rated 4+ stars",
+          "Purchased often",
+          "Returned infrequently"
+        ]
+      },
+      {
+        "group": "Price Range",
+        "options": [
+          "$2–$70",
+          "$70 to $250",
+          "$250 to $500",
+          "$500 & above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up"
+        ]
+      },
+      {
+        "group": "Brand",
+        "options": [
+          "Amazon Basics",
+          "SENSYNE",
+          "Neewer",
+          "UBeesize",
+          "Victiv",
+          "eucos",
+          "INKE",
+          "Fotopro",
+          "Manfrotto",
+          "JOBY"
+        ]
+      },
+      {
+        "group": "Color",
+        "options": [
+          "Black",
+          "Red",
+          "White",
+          "Grey",
+          "Pink",
+          "Orange",
+          "Yellow",
+          "Green",
+          "Blue",
+          "Purple",
+          "Gold",
+          "Silver"
+        ]
+      },
+      {
+        "group": "Compatible With",
+        "options": [
+          "Camera",
+          "Smartphone",
+          "Tablet",
+          "Projector"
+        ]
+      },
+      {
+        "group": "Max Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Min Height",
+        "options": [
+          "Up to 7.9 in",
+          "8.0 to 13.9 in",
+          "14.0 to 19.9 in",
+          "20.0 in & above"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Used"
+        ]
+      },
+      {
+        "group": "Featured Deals",
+        "options": [
+          "Lightning Deals",
+          "Deal of the Day"
+        ]
+      }
+    ],
+    "used": [
+      "Max Height (65 in & above vs 50 to 64 in, height section)",
+      "Compatible With Camera/Smartphone (how I picked, phone FAQ)"
+    ],
+    "skipped": "price, color, reviews, condition and deal chips (shopping-only or no fabricated prices)"
   }
 }

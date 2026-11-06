@@ -1,12 +1,12 @@
 {
   "keyword": "best tripod for recording school plays",
-  "pagesAnalyzed": 5,
+  "pagesAnalyzed": 3,
   "sharedEntities": [
     {
       "entity": "Tripod (photography)",
       "type": "",
-      "pages": 4,
-      "relevance": 0.8,
+      "pages": 2,
+      "relevance": 0.99,
       "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
       "wikidata": "Q683906",
       "kgmid": "/m/073bxn"
@@ -14,20 +14,11 @@
     {
       "entity": "Camera",
       "type": "/fictional_universe/character_species",
-      "pages": 4,
-      "relevance": 0.71,
+      "pages": 3,
+      "relevance": 0.85,
       "wiki": "http://en.wikipedia.org/wiki/Camera",
       "wikidata": "Q15328",
       "kgmid": "/m/0dv5r"
-    },
-    {
-      "entity": "Manfrotto",
-      "type": "Agent",
-      "pages": 3,
-      "relevance": 0.46,
-      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
-      "wikidata": "Q635963",
-      "kgmid": "/m/025_1lk"
     },
     {
       "entity": "Tripod",
@@ -57,6 +48,15 @@
       "kgmid": "/m/05kcv5"
     },
     {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
       "entity": "View camera",
       "type": "/digicams/camera_format",
       "pages": 2,
@@ -69,7 +69,7 @@
       "entity": "Camera lens",
       "type": "",
       "pages": 2,
-      "relevance": 0.39,
+      "relevance": 0.4,
       "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
       "wikidata": "Q192234",
       "kgmid": "/m/01bjxx"
@@ -101,5 +101,10 @@
       "wikidata": "Q768575",
       "kgmid": "/m/04n4x"
     }
+  ],
+  "missingFromPost": [],
+  "errors": [
+    "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/: <body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem",
+    "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/: <html lang=\"en\"><head><title>nyt.net</title><style>#cmsg{animation: A 1.5s;}@ke"
   ]
 }

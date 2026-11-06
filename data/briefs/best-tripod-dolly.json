@@ -17,17 +17,31 @@
       "pages": 2
     },
     {
+      "name": "Tracking shot",
+      "type": "camera move",
+      "relation": "what buyers hope for; smooth only on hard floors or track",
+      "salience": 0.72,
+      "pages": 2
+    },
+    {
       "name": "Tripod",
       "type": "product type",
       "relation": "what the dolly carries; its feet and leg spread decide the fit",
-      "salience": 0.84,
-      "pages": 2
+      "salience": 0.71,
+      "pages": 3
     },
     {
       "name": "Wheel",
       "type": "component",
       "relation": "caster size (2, 3, 5 in) decides how it rolls over cables and seams",
-      "salience": 0.62,
+      "salience": 0.67,
+      "pages": 2
+    },
+    {
+      "name": "Camera",
+      "type": "device",
+      "relation": "the load on top; camera plus head plus tripod must stay under the rating",
+      "salience": 0.57,
       "pages": 2
     },
     {
@@ -38,24 +52,10 @@
       "pages": 3
     },
     {
-      "name": "Camera",
-      "type": "device",
-      "relation": "the load on top; camera plus head plus tripod must stay under the rating",
-      "salience": 0.55,
-      "pages": 2
-    },
-    {
       "name": "Leg",
       "type": "component",
       "relation": "dolly arms (legs) extend to match the tripod spread",
       "salience": 0.52,
-      "pages": 2
-    },
-    {
-      "name": "Tracking shot",
-      "type": "camera move",
-      "relation": "what buyers hope for; smooth only on hard floors or track",
-      "salience": 0.51,
       "pages": 2
     },
     {
@@ -73,11 +73,25 @@
       "pages": 2
     },
     {
+      "name": "Payload",
+      "type": "spec",
+      "relation": "rated load from 33 lb to 1,100 lb across the picks",
+      "salience": 0.45,
+      "pages": 3
+    },
+    {
       "name": "Dolly track",
       "type": "accessory",
       "relation": "pipe track for straight, steady moves with track wheels",
       "salience": 0.4,
       "pages": 2
+    },
+    {
+      "name": "Slider",
+      "type": "accessory",
+      "relation": "rail on the tripod for short, repeatable straight moves; the main alternative to a tripod dolly",
+      "salience": 0.4,
+      "pages": 1
     },
     {
       "name": "Cable guard",
@@ -87,11 +101,18 @@
       "pages": 2
     },
     {
-      "name": "Payload",
-      "type": "spec",
-      "relation": "rated load from 33 lb to 1,100 lb across the picks",
-      "salience": 0.45,
-      "pages": 3
+      "name": "Ball bearing",
+      "type": "component",
+      "relation": "wheel bearings; play in them shows up as jitter in rolling shots",
+      "salience": 0.35,
+      "pages": 1
+    },
+    {
+      "name": "Center of gravity",
+      "type": "concept",
+      "relation": "a dolly raises the rig, so the tripod tips more easily on a push or seam",
+      "salience": 0.3,
+      "pages": 1
     }
   ],
   "attributes": [
@@ -102,7 +123,11 @@
     "tripod foot type: round/rubber vs twin-spiked",
     "folded length and weight",
     "floor vs track wheels",
-    "cable guards"
+    "cable guards",
+    "wheel tread: soft rubber/polyurethane vs hard (seams, tile joints, rolling resistance)",
+    "swivel lock vs roll-only brake",
+    "foldable / lightweight (Amazon filters)",
+    "track wheel compatibility (1-2 in pipe track)"
   ],
   "ngrams": [
     "tripod dolly",
@@ -116,7 +141,12 @@
     "smooth floors",
     "tracking shot",
     "floor dolly",
-    "track wheels"
+    "track wheels",
+    "tripod dolly wheels",
+    "swivel casters",
+    "bearing play",
+    "dolly track",
+    "tripod wheels"
   ],
   "skipgrams": [
     "wheels…brakes",
@@ -124,7 +154,11 @@
     "dolly…smooth floor",
     "load…capacity",
     "track…wheels",
-    "clamp…foot"
+    "clamp…foot",
+    "casters…swivel",
+    "soft…wheels",
+    "strap…leg",
+    "slider…rail"
   ],
   "nlpTerms": [
     "caster",
@@ -138,7 +172,12 @@
     "cable guard",
     "footprint",
     "payload",
-    "swivel"
+    "swivel",
+    "grout lines",
+    "rolling resistance",
+    "centre column",
+    "hook-and-loop strap",
+    "rail"
   ],
   "questions": [
     "What is the best tripod dolly?",
@@ -525,8 +564,325 @@
   ],
   "angle": "Sort dollies by tripod foot type first (round/rubber vs twin-spiked), then by load and wheel size; correct the Manfrotto 114 vs 114MV mix-up.",
   "textrazor": {
-    "file": "data/briefs/best-tripod-dolly.entities.json",
+    "date": "2026-11-06",
+    "urls": [
+      "https://www.proaim.com/collections/tripod-dolly",
+      "https://www.chicagotribune.com/2021/05/19/the-best-tripod-dolly/",
+      "https://www.bhphotovideo.com/c/buy/Dollies/ci/3930/N/3907816549",
+      "https://www.dvxuser.com/threads/tripod-dollies-i-need-your-advice.269153/",
+      "https://www.reddit.com/r/Photoassistants/comments/1hwyk3n/tripod_dolly_recs_for_digi_kit/"
+    ],
     "pagesAnalyzed": 3,
-    "note": "neewer.com rate-limited and B&H blocked; entities from Ezvid, alternative.me and Proaim"
+    "sharedEntities": [
+      {
+        "entity": "Tripod",
+        "pages": 3,
+        "relevance": 0.71
+      },
+      {
+        "entity": "Camera dolly",
+        "pages": 2,
+        "relevance": 0.91
+      },
+      {
+        "entity": "Tracking shot",
+        "pages": 2,
+        "relevance": 0.72
+      },
+      {
+        "entity": "Wheel",
+        "pages": 2,
+        "relevance": 0.67
+      },
+      {
+        "entity": "Tripod (photography)",
+        "pages": 2,
+        "relevance": 0.61
+      },
+      {
+        "entity": "Camera",
+        "pages": 2,
+        "relevance": 0.57
+      }
+    ],
+    "missingFromPost": [],
+    "note": "B&H blocked (Cloudflare); 3 of 5 pages analyzed"
+  },
+  "googleModifiers": {
+    "source": "data/briefs/best-tripod-dolly.suggest.json (2026-11-06)",
+    "relevant": [
+      "wheels",
+      "dolly wheels"
+    ],
+    "covered": "best tripod wheels / best tripod dolly wheels -> FAQ \"What are the best tripod dolly wheels?\" + problems bullet on soft vs hard wheels",
+    "skipped": "the rest are generic \"best tripod ...\" modifiers (iphone, hunting, sprinkler, ring light, price caps) not about dollies",
+    "all": [
+      "dolly",
+      "wheels",
+      "dolly wheels",
+      "for iphone",
+      "for content creators",
+      "for hunting",
+      "sprinkler",
+      "for spotting scope",
+      "for camera",
+      "for phone",
+      "for shooting",
+      "for starlink mini",
+      "for real estate photography",
+      "for rifle hunting",
+      "with ring light for iphone",
+      "with light for iphone",
+      "with remote for iphone",
+      "with ring light",
+      "with light for content creators",
+      "with magsafe",
+      "with arca swiss mount",
+      "with bluetooth remote",
+      "with light",
+      "with light for mobile",
+      "and light for content creators",
+      "and selfie stick",
+      "and ring light for content creators",
+      "and ring light",
+      "and selfie stick for iphone",
+      "and mic for vlogging",
+      "and gimbal for bird photography",
+      "and head for spotting scope",
+      "and light for iphone",
+      "and monopod combo",
+      "that follows you",
+      "amazon",
+      "astrophotography",
+      "brands",
+      "ball head for rifle shooting",
+      "ball head",
+      "brands for photography",
+      "ball head for photography",
+      "binocular mount",
+      "brands in india",
+      "brand for mobile",
+      "binoculars",
+      "brands for camera",
+      "camera",
+      "camping light",
+      "companies",
+      "content creation",
+      "clamp for rifle",
+      "company in india",
+      "company for mobile",
+      "camping stool",
+      "compact",
+      "carrier",
+      "deer stand",
+      "deer feeder",
+      "dslr",
+      "digitek",
+      "deer stand for the money",
+      "drying rack",
+      "deals",
+      "dji pocket 3",
+      "design",
+      "ever",
+      "easel",
+      "extension arm",
+      "episodes",
+      "for dji osmo pocket 3",
+      "gun clamp",
+      "gimbal for wildlife photography",
+      "gimbal",
+      "gimbal head",
+      "gimbal for iphone",
+      "gun rest",
+      "gimbal for phone",
+      "geared head",
+      "garden sprinkler",
+      "gun mount",
+      "head for spotting scope",
+      "head",
+      "hunting stand",
+      "head for shooting",
+      "head for real estate photography",
+      "head for glassing",
+      "head for landscape photography",
+      "head for shooting and glassing",
+      "head for hunting",
+      "head for wildlife photography",
+      "iphone",
+      "impact sprinkler",
+      "india",
+      "in budget",
+      "in nepal",
+      "in pakistan",
+      "india reddit",
+      "in amazon",
+      "in bangladesh",
+      "in the world",
+      "for jewellery photography",
+      "for japan",
+      "kaun sa hai",
+      "kit",
+      "uk",
+      "for kitchen videos",
+      "for kids hunting",
+      "for kids shooting",
+      "for kids",
+      "laser level",
+      "light",
+      "lawn sprinkler",
+      "leveling base",
+      "ladder",
+      "legs",
+      "leveling head",
+      "ladders uk",
+      "lamp",
+      "mount for iphone",
+      "mount for rifle",
+      "magsafe",
+      "manufacturers",
+      "mount for spotting scope",
+      "mic stand",
+      "mount for starlink mini",
+      "monopod combo",
+      "mobile",
+      "mount",
+      "near me",
+      "name",
+      "no center column",
+      "nikon z8",
+      "nikon",
+      "nz",
+      "on amazon",
+      "orchard ladder",
+      "on amazon for iphone",
+      "on the market",
+      "on a budget",
+      "on temu",
+      "on meesho",
+      "on blinkit",
+      "on flipkart",
+      "osmo pocket 3",
+      "projector screen",
+      "phone mount",
+      "phone",
+      "pan head for hunting",
+      "photography",
+      "price in pakistan",
+      "price in bd",
+      "price",
+      "phone stand",
+      "price in nepal",
+      "reddit",
+      "rifle mount",
+      "rifle clamp",
+      "ring light",
+      "reddit india",
+      "ring light for iphone",
+      "reddit ph",
+      "review",
+      "rifle",
+      "real estate photography",
+      "sprinkler for large lawn",
+      "shooting sticks",
+      "stand for iphone",
+      "stand",
+      "selfie stick",
+      "stand for hunting",
+      "shooting rest",
+      "selfie stick for iphone",
+      "sprinkler for lawn",
+      "tree stand",
+      "tv stand",
+      "telescope",
+      "to take pictures of yourself",
+      "to buy",
+      "travel",
+      "to shoot cooking videos",
+      "to buy for iphone",
+      "tac table",
+      "under 100",
+      "under 200",
+      "under 300",
+      "under 150",
+      "under 50",
+      "under 500",
+      "under 1000",
+      "under 2000",
+      "under 1500",
+      "under budget",
+      "video",
+      "video head",
+      "vlogging",
+      "videography",
+      "video camera",
+      "videography reddit",
+      "water sprinkler",
+      "work light",
+      "wirecutter",
+      "yard sprinkler",
+      "youtube",
+      "for youtube videos",
+      "for youth hunting",
+      "for yoga videos",
+      "for youtube videos in india",
+      "for youtube vlogging",
+      "for your phone",
+      "for youtube video shooting"
+    ]
+  },
+  "amazonFilters": {
+    "source": "https://www.amazon.com/s?k=best+tripod+dolly (Firecrawl, 2026-11-06)",
+    "groups": [
+      {
+        "group": "Price",
+        "options": [
+          "Under $25",
+          "$25 to $50",
+          "$50 to $100",
+          "$100 to $200",
+          "$200 and above"
+        ]
+      },
+      {
+        "group": "Customer Review",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up",
+          "2 Stars & Up",
+          "1 Star & Up"
+        ]
+      },
+      {
+        "group": "Prime Eligible",
+        "options": [
+          "Prime Eligible",
+          "Non-Prime Eligible"
+        ]
+      },
+      {
+        "group": "Brand",
+        "options": [
+          "COMAN",
+          "NEEWER",
+          "SIRUI",
+          "SmallRig",
+          "Vidpro",
+          "GVM",
+          "MAGUS",
+          "Hama"
+        ]
+      },
+      {
+        "group": "Special Features",
+        "options": [
+          "Foldable",
+          "Lightweight",
+          "Remote Control",
+          "Quick Release"
+        ]
+      }
+    ],
+    "covered": "Foldable + Lightweight (comparison section: all six fold, three clamp dollies under 6 lb; dolly weight column); Brand NEEWER, SmallRig (picks)",
+    "skipped": "Price, Customer Review, Prime (shopping-only); Remote Control, Quick Release (not dolly features of these picks)"
   }
 }
