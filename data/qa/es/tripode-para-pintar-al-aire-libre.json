@@ -3,7 +3,7 @@
   "lang": "es",
   "translationOf": "best-tripod-for-plein-air-painting",
   "pass": true,
-  "checkedAt": "2026-11-06T11:47:22.590Z",
+  "checkedAt": "2026-11-06T16:02:43.364Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
@@ -15,7 +15,10 @@
     "illustration \"Pintor de pie ante un trípode con la caj\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.newegg.com/p/3C6-062J-00052",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1646164-REG/benro_bmrtprocblu_mefoto_roadtrip_pro_carbon.html",
+    "source didn't respond normally (403): https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear"
   ],
   "factCheck": {
     "verified": true,

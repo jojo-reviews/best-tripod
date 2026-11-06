@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-recording-school-plays",
   "pass": true,
-  "checkedAt": "2026-11-06T15:31:48.996Z",
+  "checkedAt": "2026-11-06T15:54:05.805Z",
   "errors": [],
   "warnings": [
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,11 @@
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.dpreview.com/products/manfrotto/tripods/manfrotto_mvk500am/",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/s99221/tall_tripod_recommendation_for_event_shooting_or/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/"
   ],
   "factCheck": {
     "verified": true,

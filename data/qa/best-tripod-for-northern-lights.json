@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-northern-lights",
   "pass": true,
-  "checkedAt": "2026-11-06T11:44:57.141Z",
+  "checkedAt": "2026-11-06T15:53:48.937Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,7 +15,10 @@
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
+    "source didn't respond normally (403): https://www.photopills.com/articles/northern-lights-photography-guide",
+    "source didn't respond normally (403): https://skiesandscopes.com/camera-tripod/"
   ],
   "factCheck": {
     "verified": true,

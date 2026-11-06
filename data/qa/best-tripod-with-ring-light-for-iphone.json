@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-with-ring-light-for-iphone",
   "pass": true,
-  "checkedAt": "2026-11-06T11:34:34.108Z",
+  "checkedAt": "2026-11-06T15:55:42.108Z",
   "errors": [],
   "warnings": [
     "product \"UBeesize Ring Light with 50\" Extendable Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,10 @@
     "product \"Lume Cube Ring Light Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/best-tripod-for-northern-lights/ (\"best tripod with ring light for iphone\" overlaps \"best iphone tripod for northern lights\" (75%))"
+    "keyword overlaps /blog/best-tripod-for-northern-lights/ (\"best tripod with ring light for iphone\" overlaps \"best iphone tripod for northern lights\" (75%))",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1729601-REG/lume_cube_lc_ringpro_cordless_ring_light_pro.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
+    "source didn't respond normally (403): https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
   ],
   "factCheck": {
     "verified": true,

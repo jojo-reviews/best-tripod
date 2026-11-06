@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-dolly",
   "pass": true,
-  "checkedAt": "2026-11-06T15:31:45.105Z",
+  "checkedAt": "2026-11-06T15:50:39.102Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
@@ -12,7 +12,10 @@
     "product \"Proaim Lineo Portable Video Camera Floor Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Glide Gear SYL 960 Hybrid Tripod/Track Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF31.118_heavy-duty-tripod-dolly-44lbs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/553954-REG/Manfrotto_114_114_Heavy_Duty_Cine_Video.html"
   ],
   "factCheck": {
     "verified": true,

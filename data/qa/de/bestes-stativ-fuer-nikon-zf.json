@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-06T11:46:58.682Z",
+  "checkedAt": "2026-11-06T15:57:55.065Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.nikonusa.com/p/z-fc/1671/overview)",
@@ -12,7 +12,13 @@
     "illustration \"Hände arretieren die Griffplatte einer s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Eine Hand prüft, ob eine Kamera auf eine\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.nikon-asia.com/nikkor-z-40mm-f-2-se",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
+    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html"
   ],
   "factCheck": {
     "verified": true,

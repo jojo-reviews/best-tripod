@@ -1,7 +1,7 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-06T11:47:40.470Z",
+  "checkedAt": "2026-11-06T15:56:36.235Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
@@ -13,7 +13,11 @@
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))"
+    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1611148/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
   ],
   "factCheck": {
     "verified": true,

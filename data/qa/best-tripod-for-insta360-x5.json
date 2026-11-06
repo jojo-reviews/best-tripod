@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-insta360-x5",
   "pass": true,
-  "checkedAt": "2026-11-06T11:44:52.384Z",
+  "checkedAt": "2026-11-06T15:52:40.271Z",
   "errors": [],
   "warnings": [
     "product \"Insta360 2-in-1 Invisible Selfie Stick Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,12 @@
     "product \"Koolehaoda MT-03 Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Insta360 All-Purpose Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.insta360.com/specs/x5",
+    "source didn't respond normally (403): https://www.insta360.com/blog/tips/insta360-which-invisible-selfie-stick.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1630611-REG/insta360_cinx2cb_g_2_in_1_invisible_selfie_stick.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1650028-REG/insta360_cintrph_b_all_purpose_outdoor_tripod_for.html",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF12.0070_66-inch-2-in-1-invisible-selfie-stick-tripod-for-insta360-x5-x4-x3"
   ],
   "factCheck": {
     "verified": true,

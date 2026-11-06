@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-long-exposure",
   "pass": true,
-  "checkedAt": "2026-11-06T15:36:31.209Z",
+  "checkedAt": "2026-11-06T15:59:22.959Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-astrophotography/; link the de version once it exists",
@@ -11,7 +11,12 @@
     "internal link to the English post /blog/best-tripod-feet-for-sand-snow-and-rock/; link the de version once it exists",
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1654834-REG/vanguard_veo3_263ab160s_aluminum_tripod_with_veo.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1157825-REG/benro_tma37c_mach3_9x_carbon_fiber.html/specs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034141-REG/manfrotto_mt055cxpro4_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/",
+    "source didn't respond normally (403): https://techbezon.com/tripod-for-long-exposure-photography/"
   ],
   "factCheck": {
     "verified": true,

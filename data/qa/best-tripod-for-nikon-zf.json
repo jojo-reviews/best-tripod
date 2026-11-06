@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-06T11:44:56.591Z",
+  "checkedAt": "2026-11-06T15:53:44.685Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
@@ -11,7 +11,13 @@
     "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.nikon-asia.com/nikkor-z-40mm-f-2-se",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
+    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html"
   ],
   "factCheck": {
     "verified": true,

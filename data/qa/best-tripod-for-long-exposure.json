@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-long-exposure",
   "pass": true,
-  "checkedAt": "2026-11-06T11:34:10.632Z",
+  "checkedAt": "2026-11-06T15:53:01.058Z",
   "errors": [],
   "warnings": [
     "product \"Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,12 @@
     "product \"Manfrotto Befree GT XPRO Aluminium Tripod (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1654834-REG/vanguard_veo3_263ab160s_aluminum_tripod_with_veo.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1157825-REG/benro_tma37c_mach3_9x_carbon_fiber.html/specs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034141-REG/manfrotto_mt055cxpro4_carbon_fiber_tripod.html",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/",
+    "source didn't respond normally (403): https://techbezon.com/tripod-for-long-exposure-photography/"
   ],
   "factCheck": {
     "verified": true,
