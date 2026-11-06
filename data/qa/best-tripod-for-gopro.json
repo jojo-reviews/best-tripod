@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-gopro",
   "pass": true,
-  "checkedAt": "2026-11-05T21:28:47.280Z",
+  "checkedAt": "2026-11-06T11:44:50.432Z",
   "errors": [],
   "warnings": [
     "product \"GoPro Shorty Mini Extension Pole + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,8 +11,7 @@
     "product \"GoPro MAX Grip + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "1 section(s) open with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
-    "keyword overlaps /blog/best-tripod-for-timelapse/ (\"best tripod for gopro\" overlaps \"best gopro tripod for timelapse\" (100%))",
-    "source didn't respond normally (403): https://gopro.com/en/us/news/best-camera-tripods"
+    "keyword overlaps /blog/best-tripod-for-timelapse/ (\"best tripod for gopro\" overlaps \"best gopro tripod for timelapse\" (100%))"
   ],
   "factCheck": {
     "verified": true,

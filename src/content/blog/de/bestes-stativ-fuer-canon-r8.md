@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Canon R8 (2026) – 5 Tipps nach Objektiv und Wind
-seoTitle: Bestes Stativ für Canon R8 (2026) – 5 im Vergleich
+title: Bestes Stativ für Canon R8 – 5 Tipps nach Objektiv und Wind
+seoTitle: Bestes Stativ für Canon R8 – 5 im Vergleich
 description: >-
   Das beste Stativ für Canon R8 Besitzer, passend zu RF-Objektiv und Wind: 5
   Stative vom 39-cm-Reisestativ von Peak Design bis zum Manfrotto 055 mit 151,5 cm.

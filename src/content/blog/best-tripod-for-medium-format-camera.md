@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Medium Format Camera (2026) – 5 Picks for RB67 and GFX
-seoTitle: Best Tripod for Medium Format Camera (2026) – 5 Picks
+title: Best Tripod for Medium Format Camera – 5 Picks for RB67 and GFX
+seoTitle: Best Tripod for Medium Format Camera – 5 Picks
 description: >-
   The best tripod for medium format camera kits, from a 2.6 kg Mamiya RB67 to a
   Fujifilm GFX: 5 picks with load headroom, column-down height and head advice.

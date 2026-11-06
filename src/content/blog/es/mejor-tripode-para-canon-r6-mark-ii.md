@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Canon R6 Mark II (2026) – 5 opciones según el RF
-seoTitle: Mejor trípode para Canon R6 Mark II (2026) – 5 opciones
+title: Mejor trípode para Canon R6 Mark II – 5 opciones según el RF
+seoTitle: Mejor trípode para Canon R6 Mark II – 5 opciones
 description: >-
   El mejor trípode para Canon R6 Mark II según el objetivo RF que montes: 5
   opciones, desde un kit de carbono de 1 kg hasta un trípode grande para el RF

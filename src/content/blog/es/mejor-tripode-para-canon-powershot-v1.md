@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Canon PowerShot V1 (2026) – 5 modelos para 426 g
-seoTitle: Mejor trípode para Canon PowerShot V1 (2026) – 5 modelos
+title: Mejor trípode para Canon PowerShot V1 – 5 modelos para 426 g
+seoTitle: Mejor trípode para Canon PowerShot V1 – 5 modelos
 description: >-
   El mejor trípode para Canon PowerShot V1: la empuñadura HG-100TBR de Canon,
   dos minitrípodes Manfrotto, el Ulanzi MT-16 y un trípode de viaje para 426 g.

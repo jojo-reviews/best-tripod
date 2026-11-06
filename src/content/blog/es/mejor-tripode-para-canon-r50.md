@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Canon R50 (2026) – 5 modelos para una cámara ligera
-seoTitle: Mejor trípode para Canon R50 (2026) – 5 modelos comparados
+title: Mejor trípode para Canon R50 – 5 modelos para una cámara ligera
+seoTitle: Mejor trípode para Canon R50 – 5 modelos comparados
 description: >-
   El mejor trípode para Canon R50: 5 modelos a la medida del cuerpo de 375 g y
   el objetivo 18-45 mm, con altura sin columna, longitud plegado y placa Arca.

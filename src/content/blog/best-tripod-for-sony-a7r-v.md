@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Sony A7R V (2026) – 5 Picks for 61MP Sharpness
-seoTitle: Best Tripod for Sony A7R V (2026) – 5 Picks for 61MP Detail
+title: Best Tripod for Sony A7R V – 5 Picks for 61MP Sharpness
+seoTitle: Best Tripod for Sony A7R V – 5 Picks for 61MP Detail
 description: >-
   The best tripod for Sony A7R V owners, matched to your lens and the 61MP
   sensor: 5 picks from a 2.33 lb Gitzo Traveler to a 15 kg-rated 055 kit.

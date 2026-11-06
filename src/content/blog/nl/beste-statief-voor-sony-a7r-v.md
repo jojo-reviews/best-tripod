@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Sony A7R V (2026) – 5 keuzes voor 61 MP scherpte
-seoTitle: Beste statief voor Sony A7R V (2026) – 5 keuzes
+title: Beste statief voor Sony A7R V – 5 keuzes voor 61 MP scherpte
+seoTitle: Beste statief voor Sony A7R V – 5 keuzes
 description: >-
   Het beste statief voor Sony A7R V gebruikers, passend bij je lens en de 61MP
   sensor: 5 keuzes, van de Gitzo Traveler van 1,055 kg tot de 055-set met 15 kg.

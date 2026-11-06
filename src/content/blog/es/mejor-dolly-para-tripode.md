@@ -1,6 +1,6 @@
 ---
-title: Mejor dolly para trípode (2026) – 6 modelos según el tipo de pie
-seoTitle: Mejor dolly para trípode (2026) – 6 según el tipo de pie
+title: Mejor dolly para trípode – 6 modelos según el tipo de pie
+seoTitle: Mejor dolly para trípode – 6 según el tipo de pie
 description: >-
   El mejor dolly para trípode encaja con los pies de tu trípode y el peso de tu
   equipo: 6 modelos, del SmallRig plegable de 1,8 kg al Proaim para 500 kg.

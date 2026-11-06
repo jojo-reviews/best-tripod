@@ -1,6 +1,6 @@
 ---
 title: Carbon Fiber vs Aluminum Tripod for Hiking – Pick by Trip
-seoTitle: Carbon Fiber vs Aluminum Tripod for Hiking (2026 Trip Guide)
+seoTitle: Carbon Fiber vs Aluminum Tripod for Hiking (Trip Guide)
 description: >-
   Carbon fiber vs aluminum tripod for hiking: carbon for most trail miles,
   aluminum when weight barely matters, plus wind, cold-hand and repair fixes.

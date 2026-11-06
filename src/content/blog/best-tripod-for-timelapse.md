@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Timelapse (2026) – 7 Picks That Stay Still for Hours
-seoTitle: Best Tripod for Timelapse (2026) – 7 Picks That Stay Still
+title: Best Tripod for Timelapse – 7 Picks That Stay Still for Hours
+seoTitle: Best Tripod for Timelapse – 7 Picks That Stay Still
 description: >-
   The best tripod for timelapse holds the same framing for hours. 7 picks, from
   a 5.51 lb Manfrotto 190 kit to phone and GoPro stands, plus hold-still math.

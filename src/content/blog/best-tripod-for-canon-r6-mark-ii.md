@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Canon R6 Mark II (2026) – 5 Picks by RF Lens Weight
-seoTitle: Best Tripod for Canon R6 Mark II (2026) – 5 Picks by Lens
+title: Best Tripod for Canon R6 Mark II – 5 Picks by RF Lens Weight
+seoTitle: Best Tripod for Canon R6 Mark II – 5 Picks by Lens
 description: >-
   The best tripod for Canon R6 Mark II owners, matched to the RF lens you mount:
   5 picks from a 2.2 lb carbon budget kit to a full-size tripod for the 100-500.

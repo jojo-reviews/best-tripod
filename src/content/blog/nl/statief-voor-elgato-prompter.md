@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Elgato Prompter (2026) – 5 videostatieven 8 kg+
-seoTitle: Statief voor Elgato Prompter XL (2026) – 5 keuzes
+title: Beste statief voor Elgato Prompter – 5 videostatieven 8 kg+
+seoTitle: Statief voor Elgato Prompter XL – 5 keuzes
 description: >-
   Het beste statief voor Elgato Prompter XL is een videostatief voor 8 kg of
   meer. 5 modellen naast de 3,37 kg van de XL en de 7-kg-regel van Elgato

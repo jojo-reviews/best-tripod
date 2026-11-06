@@ -3,19 +3,13 @@
   "lang": "es",
   "translationOf": "best-tripod-for-elgato-prompter",
   "pass": true,
-  "checkedAt": "2026-11-05T21:38:08.694Z",
+  "checkedAt": "2026-11-06T11:47:19.962Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the es version once it exists",
     "internal link to the English post /blog/best-tripod-for-youtube-videos/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://help.elgato.com/hc/en-us/articles/39837660228113-Elgato-Prompter-XL-Technical-Specifications",
-    "source didn't respond normally (403): https://help.elgato.com/hc/en-us/articles/20449076223501-Elgato-Prompter-Technical-Specifications",
-    "source didn't respond normally (403): https://www.newegg.com/p/3C6-018V-02R31",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1odf9jf/help_with_tripod_for_elgato_prompter_xl_camera/",
-    "source didn't respond normally (403): https://www.reddit.com/r/elgato/comments/1q4xacp/cstand_or_tripod_recommendation_for_elgato_xl/",
-    "source didn't respond normally (403): https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,

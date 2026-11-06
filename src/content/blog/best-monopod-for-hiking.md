@@ -1,6 +1,6 @@
 ---
-title: Best Monopod for Hiking (2026) – Trekking Pole Hybrid or Carbon Pod
-seoTitle: Best Monopod for Hiking (2026) – 2 Picks Under 1 lb
+title: Best Monopod for Hiking – Trekking Pole Hybrid or Carbon Pod
+seoTitle: Best Monopod for Hiking – 2 Picks Under 1 lb
 description: >-
   The best monopod for hiking is a sub-1 lb carbon pod or a trekking pole with a
   camera bolt. We compare both on camera load, packed length and trail safety.

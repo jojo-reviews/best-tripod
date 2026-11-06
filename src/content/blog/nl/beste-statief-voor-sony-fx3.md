@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Sony FX3 (2026) – 5 sets afgestemd op je rig
-seoTitle: Beste statief voor Sony FX3 (2026) – 5 sets vergeleken
+title: Beste statief voor Sony FX3 – 5 sets afgestemd op je rig
+seoTitle: Beste statief voor Sony FX3 – 5 sets vergeleken
 description: >-
   Het beste statief voor Sony FX3 rigs, afgestemd op wat je erop zet: 5 sets,
   van een fluid-reiskit van 1,75 kg tot een Sachtler met vijf

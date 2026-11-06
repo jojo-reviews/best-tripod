@@ -1,6 +1,6 @@
 ---
-title: Stativ für Livestream – die 6 besten für Handy und Kamera (2026)
-seoTitle: Stativ für Livestream (2026) – 6 Tipps nach Setup
+title: Stativ für Livestream – die 6 besten für Handy und Kamera
+seoTitle: Stativ für Livestream – 6 Tipps nach Setup
 description: >-
   Das beste Stativ für Livestream, passend zu deinem Setup: Handy oder Kamera,
   am Schreibtisch oder im Stehen, plus Draufsicht für Live-Shopping. Höhen

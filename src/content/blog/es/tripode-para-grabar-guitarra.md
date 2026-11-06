@@ -1,6 +1,6 @@
 ---
-title: Trípode para grabar guitarra (2026) – 6 opciones según el ángulo
-seoTitle: Trípode para grabar guitarra (2026) – 6 opciones
+title: Trípode para grabar guitarra – 6 opciones según el ángulo
+seoTitle: Trípode para grabar guitarra – 6 opciones
 description: >-
   El mejor trípode para grabar guitarra sujeta el móvil o la cámara a la
   altura de los ojos sentado, con las dos manos en plano. 6 opciones, de

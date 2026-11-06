@@ -1,6 +1,6 @@
 ---
-title: Trípode para ballesta (2026) – 5 modelos con abrazadera u horquilla
-seoTitle: Trípode para ballesta (2026) – 5 modelos comparados
+title: Trípode para ballesta – 5 modelos con abrazadera u horquilla
+seoTitle: Trípode para ballesta – 5 modelos comparados
 description: >-
   El trípode para ballesta adecuado depende de si disparas sentado o te
   mueves: 3 trípodes con abrazadera y 2 bastones con horquilla, en métrico.

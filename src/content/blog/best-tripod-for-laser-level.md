@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Laser Level (2026) – 5 Picks by Thread and Height
-seoTitle: Best Tripod for Laser Level (2026) – 5 Picks by Thread
+title: Best Tripod for Laser Level – 5 Picks by Thread and Height
+seoTitle: Best Tripod for Laser Level – 5 Picks by Thread
 description: >-
   The best tripod for laser level work, matched to your laser's thread and the
   height you need. Bosch and DeWalt picks for line lasers and rotary lasers.

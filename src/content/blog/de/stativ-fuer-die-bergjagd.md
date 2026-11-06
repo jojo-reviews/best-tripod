@@ -1,5 +1,5 @@
 ---
-title: 'Stativ für die Bergjagd (2026) – 5 Modelle von 0,97 bis 1,6 kg'
+title: 'Stativ für die Bergjagd – 5 Modelle von 0,97 bis 1,6 kg'
 seoTitle: 'Stativ für die Bergjagd – 5 Modelle von 0,97 bis 1,6 kg'
 description: >-
   Das passende Stativ für die Bergjagd hängt von Optik und Rucksack ab: 5

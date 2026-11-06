@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Sony FX3 (2026) – 5 Picks Matched to Your Rig Weight
-seoTitle: Best Tripod for Sony FX3 (2026) – 5 Picks by Rig Weight
+title: Best Tripod for Sony FX3 – 5 Picks Matched to Your Rig Weight
+seoTitle: Best Tripod for Sony FX3 – 5 Picks by Rig Weight
 description: >-
   The best tripod for Sony FX3 rigs, matched to what you mount: 5 picks from a
   3.86 lb travel fluid kit to a Sachtler with five counterbalance steps.

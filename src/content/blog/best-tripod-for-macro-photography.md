@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Macro Photography (2026) – 5 Picks That Get Low
-seoTitle: Best Tripod for Macro Photography (2026) – 5 Low-Angle Picks
+title: Best Tripod for Macro Photography – 5 Picks That Get Low
+seoTitle: Best Tripod for Macro Photography – 5 Low-Angle Picks
 description: >-
   The best tripod for macro photography gets your lens down to the subject and
   holds it still. I compare 5 picks by lowest height, column type and payload.

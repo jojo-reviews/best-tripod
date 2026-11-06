@@ -1,5 +1,5 @@
 ---
-title: 'Best Tripod for Backcountry Hunting (2026) – 5 Picks, 2.1 to 3.5 lb'
+title: 'Best Tripod for Backcountry Hunting – 5 Picks, 2.1 to 3.5 lb'
 seoTitle: 'Best Tripod for Backcountry Hunting – 5 Picks, 2.1 to 3.5 lb'
 description: >-
   The best tripod for backcountry hunting, matched to your optic and pack: 5

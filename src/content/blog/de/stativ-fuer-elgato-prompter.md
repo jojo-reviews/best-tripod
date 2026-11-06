@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Elgato Prompter (2026) – 5 Videostative ab 8 kg
-seoTitle: Stativ für Elgato Prompter XL (2026) – 5 Videostative
+title: Bestes Stativ für Elgato Prompter – 5 Videostative ab 8 kg
+seoTitle: Stativ für Elgato Prompter XL – 5 Videostative
 description: >-
   Das beste Stativ für Elgato Prompter XL ist ein Videostativ mit 8 kg Tragkraft
   oder mehr. 5 Modelle, geprüft gegen 3,37 kg Prompter und Elgatos 7-kg-Regel.

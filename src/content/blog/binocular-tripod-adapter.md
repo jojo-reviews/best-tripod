@@ -1,6 +1,6 @@
 ---
 title: 'Binocular Tripod Adapter Guide – Stud vs Clamp, Even With No Thread'
-seoTitle: Binocular Tripod Adapter Guide (2026) – Stud vs Clamp
+seoTitle: Binocular Tripod Adapter Guide – Stud vs Clamp
 description: >-
   Which binocular tripod adapter fits your binos? Run a 30-second socket check,
   then pick a locking stud or a clamp by Arca-Swiss base, weight and harness

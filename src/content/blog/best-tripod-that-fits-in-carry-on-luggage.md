@@ -1,6 +1,6 @@
 ---
-title: Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold
-seoTitle: 'Best Tripod That Fits in Carry On Luggage (3 Picks, 2026)'
+title: Best Tripod That Fits in Carry On Luggage – 3 Picks by Fold
+seoTitle: 'Best Tripod That Fits in Carry On Luggage (3 Picks)'
 description: >-
   The best tripod that fits in carry on luggage: 3 picks from 8 to 15.4 in
   folded, compared on height, load, head and packing for mirrorless kits.

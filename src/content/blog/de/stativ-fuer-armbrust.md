@@ -1,6 +1,6 @@
 ---
-title: Stativ für Armbrust (2026) – 5 Modelle mit Klemme oder Gabel
-seoTitle: Stativ für Armbrust (2026) – 5 Modelle im Vergleich
+title: Stativ für Armbrust – 5 Modelle mit Klemme oder Gabel
+seoTitle: Stativ für Armbrust – 5 Modelle im Vergleich
 description: >-
   Das passende Stativ für die Armbrust hängt davon ab, ob du sitzt oder dich
   bewegst: 3 Klemmstative und 2 Zielstöcke mit Gabel im Vergleich, metrisch.

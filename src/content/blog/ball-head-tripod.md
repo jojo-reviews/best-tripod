@@ -1,6 +1,6 @@
 ---
-title: Ball Head Tripod Guide (2026) – 2 Heads Worth Buying and Sag Fixes
-seoTitle: Ball Head Tripod Guide (2026) – 2 Picks and Sag Fixes
+title: Ball Head Tripod Guide – 2 Heads Worth Buying and Sag Fixes
+seoTitle: Ball Head Tripod Guide – 2 Picks and Sag Fixes
 description: >-
   Choosing a ball head for your tripod? Two heads the top reviews agree on, how
   to size one to your lens instead of the rated load, and fixes for sag.

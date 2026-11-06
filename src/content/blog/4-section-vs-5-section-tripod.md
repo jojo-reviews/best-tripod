@@ -1,6 +1,6 @@
 ---
 title: 4-Section vs 5-Section Tripod – Stability vs Packed Length
-seoTitle: 4-Section vs 5-Section Tripod (2026) – Fold vs Stiffness
+seoTitle: 4-Section vs 5-Section Tripod – Fold vs Stiffness
 description: >-
   4-section vs 5-section tripod: the fifth section folds about 7 cm shorter but
   adds a thin bottom tube, more locks and less height. When each one is right.

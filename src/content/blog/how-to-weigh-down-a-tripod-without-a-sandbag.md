@@ -1,6 +1,6 @@
 ---
 title: How to Weigh Down a Tripod Without a Sandbag – 5 Ways to Carry Less
-seoTitle: How to Weigh Down a Tripod Without a Sandbag (2026) – 5 Ways
+seoTitle: How to Weigh Down a Tripod Without a Sandbag – 5 Ways
 description: >-
   How to weigh down a tripod without a sandbag: tie your bag, water bottles or a
   rock-filled net taut to the hook on the ground, or stake it down with cord.

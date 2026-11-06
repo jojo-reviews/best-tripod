@@ -1,6 +1,6 @@
 ---
-title: Trípode para auroras boreales (2026) – 5 opciones para frío y viento
-seoTitle: Trípode para auroras boreales (2026) – 5 para el Ártico
+title: Trípode para auroras boreales – 5 opciones para frío y viento
+seoTitle: Trípode para auroras boreales – 5 para el Ártico
 description: >-
   El mejor trípode para auroras boreales aguanta el viento ártico, se maneja
   con guantes y cabe en la cabina del avión. 5 modelos según frío, cierres y

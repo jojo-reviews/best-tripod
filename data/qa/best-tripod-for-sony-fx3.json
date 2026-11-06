@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-fx3",
   "pass": true,
-  "checkedAt": "2026-11-05T22:19:20.623Z",
+  "checkedAt": "2026-11-06T11:45:01.547Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Befree Live Aluminum Travel Video Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,10 +10,7 @@
     "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
-    "source didn't respond normally (403): https://thepostflow.com/production/accessories/best-tripod-for-video/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,

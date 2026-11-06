@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Nikon Zf (2026) – 5 Picks for Travel and Pixel Shift
-seoTitle: Best Tripod for Nikon Zf (2026) – 5 Picks for Pixel Shift
+title: Best Tripod for Nikon Zf – 5 Picks for Travel and Pixel Shift
+seoTitle: Best Tripod for Nikon Zf – 5 Picks for Pixel Shift
 description: >-
   The best tripod for Nikon Zf owners: 5 picks sized to the 710 g body and its
   24-70 f/4, with column-down heights, folded lengths and a pixel-shift setup.

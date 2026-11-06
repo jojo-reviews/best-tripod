@@ -1,6 +1,6 @@
 ---
-title: Statief voor livestream – de 6 beste voor telefoon en camera (2026)
-seoTitle: Statief voor livestream (2026) – 6 tips per opstelling
+title: Statief voor livestream – de 6 beste voor telefoon en camera
+seoTitle: Statief voor livestream – 6 tips per opstelling
 description: >-
   Het beste statief voor livestream, passend bij je opstelling: telefoon of
   camera, aan het bureau of staand, plus bovenaanzicht voor live verkopen.

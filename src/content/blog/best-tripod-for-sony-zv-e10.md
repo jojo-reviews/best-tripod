@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Sony ZV-E10 (2026) – 6 Picks From Grip to Eye Level
-seoTitle: Best Tripod for Sony ZV-E10 (2026) – 6 Picks by How You Film
+title: Best Tripod for Sony ZV-E10 – 6 Picks From Grip to Eye Level
+seoTitle: Best Tripod for Sony ZV-E10 – 6 Picks by How You Film
 description: >-
   The best tripod for Sony ZV-E10 vloggers, matched to how you film: 6 picks
   from Sony's Bluetooth grip to a 60 in travel tripod, with real lens load math.

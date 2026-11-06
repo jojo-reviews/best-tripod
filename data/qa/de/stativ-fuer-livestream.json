@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-live-streaming",
   "pass": true,
-  "checkedAt": "2026-11-04T18:11:42.333Z",
+  "checkedAt": "2026-11-06T11:47:05.962Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-mini-tripod-for-desk-video-calls/; link the de version once it exists",
@@ -12,12 +12,7 @@
     "illustration \"Ein Stativ für Livestream wird hochgefah\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Stativ mit waagerechter Mittelsäule hält\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.newegg.com/ubeesize-tbc001/p/0FY-00XH-00138",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1396406-REG/joby_jb01533_gorillapod_mobile_rig.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,

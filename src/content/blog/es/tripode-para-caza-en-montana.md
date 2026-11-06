@@ -1,5 +1,5 @@
 ---
-title: 'Trípode para caza en montaña (2026) – 5 modelos de 0,97 a 1,6 kg'
+title: 'Trípode para caza en montaña – 5 modelos de 0,97 a 1,6 kg'
 seoTitle: 'Trípode para caza en montaña – 5 modelos de 0,97 a 1,6 kg'
 description: >-
   El trípode para caza en montaña que encaja con tu óptica y tu mochila: 5

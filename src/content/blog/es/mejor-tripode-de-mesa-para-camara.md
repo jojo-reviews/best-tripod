@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode de mesa para cámara (2026) – 5 modelos según el peso
-seoTitle: Mejor trípode de mesa para cámara 2026 – 5 por carga
+title: Mejor trípode de mesa para cámara – 5 modelos según el peso
+seoTitle: Mejor trípode de mesa para cámara – 5 por carga
 description: >-
   El mejor trípode de mesa para cámara sostiene tu equipo sin volcar ni ceder.
   Comparo 5 modelos por carga de la rótula, altura de trabajo y tipo de patas.

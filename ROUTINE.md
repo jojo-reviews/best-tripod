@@ -432,5 +432,5 @@ a cannibalization check against the live model posts, and its own angle so posts
 (the model's weight with its usual lens, plate/mount, video vs stills, flip screen, size class); see patent note
 2026-11-05 (US8108412B2) on near-duplicate pages.
 
-## No year in titles (owner rule 2026-11-06)
-- Owner rule 2026-11-06 ("yar please title ma 2026 add karna band karo"; replaces any earlier year-in-title advice): never put a year (2026 or any other) in `title` or `seoTitle` of a new post, translation or updated post. Use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year in either field for posts going live from 2026-11-06.
+## Year in titles only when the SERP uses it (owner rule 2026-11-06)
+- Owner rule 2026-11-06 (corrected; owner: "many pahly b kaha tha k sab ma na add kiya karo kis kisi ma add kar diya karo 2026"): do NOT put the year in every title. Put "2026" in `title`/`seoTitle` only when the keyword's Google top 10 uses a year (3+ of the top-10 titles in the brief's serpTitles show one); otherwise no year, and use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year without that SERP support for posts going live from 2026-11-06; a year never counts as the seoTitle number.

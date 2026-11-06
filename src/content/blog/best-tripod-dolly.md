@@ -1,6 +1,6 @@
 ---
-title: Best Tripod Dolly (2026) – 6 Picks by Tripod Foot Type
-seoTitle: Best Tripod Dolly (2026) – 6 Picks by Foot Type
+title: Best Tripod Dolly – 6 Picks by Tripod Foot Type
+seoTitle: Best Tripod Dolly – 6 Picks by Foot Type
 description: >-
   The best tripod dolly matches your tripod's feet and rig weight. 6 picks, from
   a 4 lb folding SmallRig to a 1,100 lb Proaim floor dolly for spiked legs.

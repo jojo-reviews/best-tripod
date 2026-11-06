@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Sony A7R V (2026) – 5 opciones para 61 MP
-seoTitle: Mejor trípode para Sony A7R V (2026) – 5 opciones
+title: Mejor trípode para Sony A7R V – 5 opciones para 61 MP
+seoTitle: Mejor trípode para Sony A7R V – 5 opciones
 description: >-
   El mejor trípode para Sony A7R V según tu objetivo y el sensor de 61 MP: 5
   opciones, del Gitzo Traveler de 1,055 kg al kit 055 con carga de 15 kg.

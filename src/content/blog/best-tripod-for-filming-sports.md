@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for Filming Sports in 2026 – 5 Picks, Sideline to 20 ft'
-seoTitle: Best Tripod for Filming Sports (2026) – 5 Picks to 20 ft
+title: 'Best Tripod for Filming Sports – 5 Picks, Sideline to 20 ft'
+seoTitle: Best Tripod for Filming Sports – 5 Picks to 20 ft
 description: >-
   The best tripod for filming sports pans smoothly or lifts the camera above the
   crowd. 5 picks, from a 20 ft stand for AI cameras to fluid-head tripods.

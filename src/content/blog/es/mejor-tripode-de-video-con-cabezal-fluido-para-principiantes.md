@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode de vídeo con cabezal fluido para principiantes (2026)
-seoTitle: Trípode de vídeo con cabezal fluido para principiantes 2026
+title: Mejor trípode de vídeo con cabezal fluido para principiantes
+seoTitle: Trípode de vídeo con cabezal fluido para principiantes
 description: >-
   El mejor trípode de vídeo con cabezal fluido para principiantes: tres kits
   comparados por carga, altura sin columna, longitud plegado y zapatas.

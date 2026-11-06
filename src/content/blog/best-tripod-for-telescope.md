@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Telescope (2026) – 4 Picks Matched to Your Mount
-seoTitle: Best Tripod for Telescope (2026) – 4 Picks by Mount Type
+title: Best Tripod for Telescope – 4 Picks Matched to Your Mount
+seoTitle: Best Tripod for Telescope – 4 Picks by Mount Type
 description: >-
   The best tripod for telescope use matches your mount and its thread. 4 picks
   for small Maks, travel scopes, AZ-GTi or Star Adventurer heads and Wave

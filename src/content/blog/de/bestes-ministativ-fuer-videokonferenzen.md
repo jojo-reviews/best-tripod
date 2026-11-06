@@ -1,6 +1,6 @@
 ---
-title: Bestes Ministativ für Videokonferenzen – 3 Tischstative für 2026
-seoTitle: Ministativ für Videokonferenzen (2026) – 3 unter 450 g
+title: Bestes Ministativ für Videokonferenzen – 3 Tischstative
+seoTitle: Ministativ für Videokonferenzen – 3 unter 450 g
 description: >-
   Das beste Ministativ für Videokonferenzen am Schreibtisch: drei Tischstative
   im Vergleich nach Arbeitshöhe, Tragkraft für Webcam, Handy oder Systemkamera.

@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Hunting (2026) – 6 Picks by How You Hunt
-seoTitle: Best Tripod for Hunting 2026 – 6 Picks by How You Hunt
+title: Best Tripod for Hunting – 6 Picks by How You Hunt
+seoTitle: Best Tripod for Hunting – 6 Picks by How You Hunt
 description: >-
   The best tripod for hunting depends on how you hunt: a clamp tripod for
   blinds, trigger sticks for stalking, carbon for the backcountry. Six picks.

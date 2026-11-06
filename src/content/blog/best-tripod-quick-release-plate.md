@@ -1,6 +1,6 @@
 ---
-title: Best Tripod Quick Release Plate (2026) – 5 Picks by Clamp Type
-seoTitle: Best Tripod Quick Release Plate (2026) – 5 Picks by Clamp
+title: Best Tripod Quick Release Plate – 5 Picks by Clamp Type
+seoTitle: Best Tripod Quick Release Plate – 5 Picks by Clamp
 description: >-
   The best tripod quick release plate depends on the clamp you own. Five picks
   for Arca-Swiss, Manfrotto RC2, gimbals and strap clips, with loads and fit

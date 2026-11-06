@@ -1,6 +1,6 @@
 ---
 title: Statief voor vastgoedfotografie – 7 keuzes voor rechte interieurs
-seoTitle: Statief voor vastgoedfotografie (2026) – 7 beste keuzes
+seoTitle: Statief voor vastgoedfotografie – 7 beste keuzes
 description: >-
   Het beste statief voor vastgoedfotografie houdt verticalen recht in elke
   belichtingsreeks. 7 statieven en tandwielkoppen op hoogte, draagvermogen, plaat.

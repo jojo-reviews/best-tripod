@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-macro-photography",
   "pass": true,
-  "checkedAt": "2026-11-03T18:00:06.845Z",
+  "checkedAt": "2026-11-06T11:44:54.586Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: body has 1827 words, over the 1725 limit (top results average 1500): cut repetition and filler",
@@ -10,12 +10,7 @@
     "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO3 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "section \"The 5 best tripods for macro photography, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (403): https://petapixel.com/best-tripods/",
-    "source didn't respond normally (403): https://amateurphotographer.com/buying-advice/best-tripod/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography",
-    "source didn't respond normally (403): https://www.adorama.com/lists/tripods-for-macro-photography"
+    "section \"The 5 best tripods for macro photography, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)"
   ],
   "factCheck": {
     "verified": true,

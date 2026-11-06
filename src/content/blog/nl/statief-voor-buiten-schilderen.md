@@ -1,6 +1,6 @@
 ---
-title: Statief voor buiten schilderen (2026) – 5 keuzes voor je pochade box
-seoTitle: Statief voor buiten schilderen – 5 modellen (2026)
+title: Statief voor buiten schilderen – 5 keuzes voor je pochade box
+seoTitle: Statief voor buiten schilderen – 5 modellen
 description: >-
   Het beste statief voor buiten schilderen, gekozen op draagvermogen, hoogte
   zonder kolom en pakmaat voor je pochade box: 5 modellen en tips tegen wind.

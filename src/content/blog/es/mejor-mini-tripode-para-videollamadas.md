@@ -1,6 +1,6 @@
 ---
-title: Mejor mini trípode para videollamadas – 3 trípodes de mesa (2026)
-seoTitle: Mini trípode para videollamadas (2026) – 3 de mesa
+title: Mejor mini trípode para videollamadas – 3 trípodes de mesa
+seoTitle: Mini trípode para videollamadas – 3 de mesa
 description: >-
   El mejor mini trípode para videollamadas en el escritorio: tres trípodes de
   mesa comparados por altura real, carga para webcam, móvil o cámara sin espejo.

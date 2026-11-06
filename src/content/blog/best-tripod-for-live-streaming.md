@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Live Streaming (2026) – 6 Picks for Phone and Camera
-seoTitle: Best Tripod for Live Streaming (2026) – 6 Picks by Setup
+title: Best Tripod for Live Streaming – 6 Picks for Phone and Camera
+seoTitle: Best Tripod for Live Streaming – 6 Picks by Setup
 description: >-
   The best tripod for live streaming, matched to your setup: phone or camera,
   desk or standing, plus overhead shots for Whatnot. Heights checked against eye

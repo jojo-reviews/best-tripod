@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Spotting Scope (2026) – Legs and Head by Scope Weight
-seoTitle: Best Tripod for Spotting Scope 2026 – Sized to Scope Weight
+title: Best Tripod for Spotting Scope – Legs and Head by Scope Weight
+seoTitle: Best Tripod for Spotting Scope – Sized to Scope Weight
 description: >-
   The best tripod for a spotting scope is sized by scope weight: light carbon
   legs for a 65mm scope, a fluid head on sturdy legs for an 85mm. Two picks.

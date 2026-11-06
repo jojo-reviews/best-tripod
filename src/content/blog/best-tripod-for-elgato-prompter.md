@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Elgato Prompter (2026) – 5 Video Tripods Rated 8 kg+
-seoTitle: Best Tripod for Elgato Prompter (2026) – 5 Picks for the XL
+title: Best Tripod for Elgato Prompter – 5 Video Tripods Rated 8 kg+
+seoTitle: Best Tripod for Elgato Prompter – 5 Picks for the XL
 description: >-
   The best tripod for Elgato Prompter XL setups is a video tripod rated 8 kg or
   more. 5 picks checked against the XL's 3.37 kg weight and Elgato's 7 kg rule.

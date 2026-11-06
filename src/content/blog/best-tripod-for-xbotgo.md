@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for XbotGo (2026) – 5 Picks for Chameleon and Falcon
-seoTitle: 'Best Tripod for XbotGo (2026) – 5 Picks, 3.77 to 13 ft'
+title: Best Tripod for XbotGo – 5 Picks for Chameleon and Falcon
+seoTitle: 'Best Tripod for XbotGo – 5 Picks, 3.77 to 13 ft'
 description: >-
   The best tripod for XbotGo on a full field is the 13 ft XbotGo NT4. Compare 5
   picks for Chameleon and Falcon by height, load and wind, plus setup steps.

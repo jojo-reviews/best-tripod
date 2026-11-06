@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in'
-seoTitle: Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks to 81 in
+title: 'Best Tripod for DJI Osmo Pocket 3 – 5 Picks, Desk to 81 in'
+seoTitle: Best Tripod for DJI Osmo Pocket 3 – 5 Picks to 81 in
 description: >-
   The best tripod for DJI Osmo Pocket 3: 5 picks from DJI's 44.8 g mini to an 81
   in Ulanzi stand, plus how to mount it, since the camera body has no thread.

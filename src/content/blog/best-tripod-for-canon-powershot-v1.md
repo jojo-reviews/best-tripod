@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Canon PowerShot V1 (2026) – 5 Picks Sized to 426 g
-seoTitle: Best Tripod for Canon PowerShot V1 (2026) – 5 Picks
+title: Best Tripod for Canon PowerShot V1 – 5 Picks Sized to 426 g
+seoTitle: Best Tripod for Canon PowerShot V1 – 5 Picks
 description: >-
   The best tripod for Canon PowerShot V1 owners: Canon's HG-100TBR grip, two
   Manfrotto minis, the Ulanzi MT-16 and a travel tripod, sized to the 426 g V1.

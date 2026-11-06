@@ -1,6 +1,6 @@
 ---
 title: Hoe hoog moet een statief zijn voor jouw lengte? Tabel en rekensom
-seoTitle: Hoe hoog moet een statief zijn? (Tabel 2026)
+seoTitle: Hoe hoog moet een statief zijn? (Tabel)
 description: >-
   Hoe hoog moet een statief zijn voor jouw lengte? Onze tabel toont de hoogte
   zonder middenkolom: ruwweg je eigen lichaamslengte min 28 cm (11 in).

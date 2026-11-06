@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Sony A7IV (2026) – 5 Picks Matched to Your Lens
-seoTitle: Best Tripod for Sony A7IV (2026) – 5 Picks by Lens Weight
+title: Best Tripod for Sony A7IV – 5 Picks Matched to Your Lens
+seoTitle: Best Tripod for Sony A7IV – 5 Picks by Lens Weight
 description: >-
   The best tripod for Sony A7IV owners, matched to the lens you mount: 5 picks
   from a 2.8 lb carbon travel tripod to a 15 kg-rated 055 kit for the 200-600.

@@ -1,6 +1,6 @@
 ---
-title: Beste ministatief voor videobellen – 3 tafelstatieven voor 2026
-seoTitle: Ministatief voor videobellen (2026) – 3 tafelstatieven
+title: Beste ministatief voor videobellen – 3 tafelstatieven
+seoTitle: Ministatief voor videobellen – 3 tafelstatieven
 description: >-
   Het beste ministatief voor videobellen aan je bureau: drie tafelstatieven
   vergeleken op echte hoogte, draagvermogen voor webcam, telefoon of

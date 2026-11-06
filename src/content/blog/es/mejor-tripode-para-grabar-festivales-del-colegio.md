@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para grabar festivales del colegio (2026) – 5 opciones
-seoTitle: Mejor trípode para grabar festivales del colegio (2026)
+title: Mejor trípode para grabar festivales del colegio – 5 opciones
+seoTitle: Mejor trípode para grabar festivales del colegio
 description: >-
   El mejor trípode para grabar festivales del colegio sube la cámara por encima
   de las cabezas. 5 trípodes de vídeo según tu sitio, de 151 a 200 cm de altura.

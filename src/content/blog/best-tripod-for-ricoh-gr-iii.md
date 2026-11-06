@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for Ricoh GR III (2026) – 5 Picks, All Under 2 lb'
-seoTitle: Best Tripod for Ricoh GR III (2026) – 5 Picks Under 2 lb
+title: 'Best Tripod for Ricoh GR III – 5 Picks, All Under 2 lb'
+seoTitle: Best Tripod for Ricoh GR III – 5 Picks Under 2 lb
 description: >-
   The best tripod for Ricoh GR III owners: 5 picks under 2 lb, from the pocket
   PIXI Mini to a 54.3 in carbon SIRUI, each sized to the 257 g camera.

@@ -1,5 +1,5 @@
 ---
-title: Travel Tripod vs Full Size Tripod for Landscape Photography (2026)
+title: Travel Tripod vs Full Size Tripod for Landscape Photography
 seoTitle: Travel Tripod vs Full Size Tripod for Landscape Photography
 description: >-
   A travel tripod covers most wide-angle landscapes; a full-size tripod wins in

@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para directos (2026) – 6 para móvil y cámara
-seoTitle: Trípode para directos (2026) – los 6 mejores por montaje
+title: Mejor trípode para directos – 6 para móvil y cámara
+seoTitle: Trípode para directos – los 6 mejores por montaje
 description: >-
   El mejor trípode para directos según tu montaje: móvil o cámara, en el
   escritorio o de pie, y planos cenitales para vender en directo. Alturas

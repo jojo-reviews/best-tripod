@@ -1,6 +1,6 @@
 ---
-title: Beste statief dolly (2026) – 6 modellen per type statiefvoet
-seoTitle: Beste statief dolly (2026) – 6 keuzes per voettype
+title: Beste statief dolly – 6 modellen per type statiefvoet
+seoTitle: Beste statief dolly – 6 keuzes per voettype
 description: >-
   De beste statief dolly past bij de voeten van je statief en het gewicht van je
   rig: 6 modellen, van de opvouwbare SmallRig van 1,8 kg tot de Proaim voor 500

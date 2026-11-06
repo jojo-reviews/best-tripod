@@ -1,6 +1,6 @@
 ---
 title: Mejor trípode para personas altas – 4 modelos a la altura de los ojos
-seoTitle: Trípode para personas altas – 4 modelos comparados (2026)
+seoTitle: Trípode para personas altas – 4 modelos comparados
 description: >-
   El mejor trípode para personas altas lleva el visor a la altura de los ojos
   sin agacharte. Comparamos 4 trípodes altos: altura sin columna, carga y

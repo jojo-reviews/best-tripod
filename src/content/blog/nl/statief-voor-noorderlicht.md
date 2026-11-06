@@ -1,6 +1,6 @@
 ---
-title: Statief voor noorderlicht (2026) – 5 keuzes voor kou en wind
-seoTitle: Statief voor noorderlicht (2026) – 5 keuzes voor de Arctis
+title: Statief voor noorderlicht – 5 keuzes voor kou en wind
+seoTitle: Statief voor noorderlicht – 5 keuzes voor de Arctis
 description: >-
   Het beste statief voor noorderlicht staat stil in arctische wind, werkt met
   handschoenen en past in de handbagage. 5 modellen op kou, sluitingen en

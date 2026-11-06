@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Sony FX3 (2026) – 5 Sets passend zum Rig-Gewicht
-seoTitle: Bestes Stativ für Sony FX3 (2026) – 5 Sets im Vergleich
+title: Bestes Stativ für Sony FX3 – 5 Sets passend zum Rig-Gewicht
+seoTitle: Bestes Stativ für Sony FX3 – 5 Sets im Vergleich
 description: >-
   Das beste Stativ für Sony FX3 Rigs, passend zu dem, was du montierst: 5 Sets
   vom 1,75-kg-Reise-Fluidkit bis zum Sachtler mit fünf Gegengewichtsstufen.

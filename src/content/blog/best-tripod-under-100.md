@@ -1,6 +1,6 @@
 ---
-title: Best Tripod Under 100 (2026) – 5 Picks Matched to Your Camera
-seoTitle: Best Tripod Under 100 (2026) – 5 Picks With a Load Check
+title: Best Tripod Under 100 – 5 Picks Matched to Your Camera
+seoTitle: Best Tripod Under 100 – 5 Picks With a Load Check
 description: >-
   The best tripod under 100 for most cameras is the K&F Concept 64 inch. See 5
   budget picks, a load check with real camera weights and setup steps for less

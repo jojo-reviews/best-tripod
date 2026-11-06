@@ -1,6 +1,6 @@
 ---
-title: Best Tripod Feet for Sand Snow and Rock (2026) – 5 Picks by Surface
-seoTitle: Best Tripod Feet for Sand Snow and Rock (2026) – 5 Picks
+title: Best Tripod Feet for Sand Snow and Rock – 5 Picks by Surface
+seoTitle: Best Tripod Feet for Sand Snow and Rock – 5 Picks
 description: >-
   The best tripod feet for sand snow and rock, matched to each surface. Spikes
   for wet sand, claws for rock and snow shoes for powder, with fit checks.

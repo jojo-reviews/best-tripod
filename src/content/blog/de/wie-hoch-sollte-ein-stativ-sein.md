@@ -1,6 +1,6 @@
 ---
 title: Wie hoch sollte ein Stativ sein? Tabelle nach Körpergröße
-seoTitle: Wie hoch sollte ein Stativ sein? (Tabelle 2026)
+seoTitle: Wie hoch sollte ein Stativ sein? (Tabelle)
 description: >-
   Wie hoch sollte ein Stativ sein? Unsere Tabelle zeigt die Höhe ohne
   Mittelsäule für deine Körpergröße: grob Körpergröße minus 28 cm (11 in).

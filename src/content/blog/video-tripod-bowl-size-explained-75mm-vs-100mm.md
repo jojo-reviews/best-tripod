@@ -1,6 +1,6 @@
 ---
 title: Video Tripod Bowl Size Explained 75mm vs 100mm (Plus Adapters)
-seoTitle: Video Tripod Bowl Size Explained 75mm vs 100mm (2026)
+seoTitle: Video Tripod Bowl Size Explained 75mm vs 100mm
 description: >-
   Video tripod bowl size explained: 75mm suits light and mid rigs, 100mm heavy
   ones. How to measure a bowl, which adapters work and when a flat base is fine.

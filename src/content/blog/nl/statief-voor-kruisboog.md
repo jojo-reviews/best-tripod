@@ -1,6 +1,6 @@
 ---
-title: Statief voor kruisboog (2026) – 5 modellen met klem of vork
-seoTitle: Statief voor kruisboog (2026) – 5 modellen vergeleken
+title: Statief voor kruisboog – 5 modellen met klem of vork
+seoTitle: Statief voor kruisboog – 5 modellen vergeleken
 description: >-
   Welk statief voor je kruisboog past, hangt af van of je zit of beweegt: 3
   klemstatieven en 2 schietstokken met vork vergeleken, metrisch en helder.

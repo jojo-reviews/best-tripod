@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Fujifilm X100VI (2026) – 5 Picks for a 521 g Camera
-seoTitle: Best Tripod for Fujifilm X100VI (2026) – 5 Picks for 521 g
+title: Best Tripod for Fujifilm X100VI – 5 Picks for a 521 g Camera
+seoTitle: Best Tripod for Fujifilm X100VI – 5 Picks for 521 g
 description: >-
   The best tripod for Fujifilm X100VI owners: 5 picks from a 0.57 lb tabletop
   mini to full-size travel legs, with load headroom, folded length and plate

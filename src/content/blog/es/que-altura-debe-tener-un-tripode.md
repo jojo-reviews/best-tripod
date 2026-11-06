@@ -1,6 +1,6 @@
 ---
 title: ¿Qué altura debe tener un trípode según tu estatura? Tabla y cálculo
-seoTitle: ¿Qué altura debe tener un trípode? (Tabla 2026)
+seoTitle: ¿Qué altura debe tener un trípode? (Tabla)
 description: >-
   ¿Qué altura debe tener un trípode para tu estatura? Nuestra tabla muestra la
   altura sin columna central: más o menos tu estatura menos 28 cm (11 in).

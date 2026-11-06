@@ -1,6 +1,6 @@
 ---
 title: 'Can You Use Any Tripod for a Camera? Yes, If It Passes 3 Fit Checks'
-seoTitle: Can You Use Any Tripod for a Camera? 3 Fit Checks (2026)
+seoTitle: Can You Use Any Tripod for a Camera? 3 Fit Checks
 description: >-
   Can you use any tripod for a camera? Almost always: the 1/4-20 screw is
   standard. What can fail is the load rating, the plate system and adapters.

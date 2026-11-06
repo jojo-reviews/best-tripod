@@ -1,6 +1,6 @@
 ---
 title: Stativ für Immobilienfotografie – 7 Empfehlungen für gerade Räume
-seoTitle: Stativ für Immobilienfotografie (2026) – 7 Empfehlungen
+seoTitle: Stativ für Immobilienfotografie – 7 Empfehlungen
 description: >-
   Das beste Stativ für Immobilienfotografie hält Vertikalen über jede
   Belichtungsreihe gerade. 7 Stative und Getriebeneiger nach Höhe, Last, Platte.

@@ -1,6 +1,6 @@
 ---
 title: L Bracket for Landscape Photography – Why It Beats the Drop Notch
-seoTitle: L Bracket for Landscape Photography (2026) – 6 Setup Steps
+seoTitle: L Bracket for Landscape Photography – 6 Setup Steps
 description: >-
   An L bracket for landscape photography keeps the camera centered when you turn
   it vertical. How to fit it, switch it, and fix ports, twist and weight.

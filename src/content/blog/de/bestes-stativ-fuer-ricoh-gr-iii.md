@@ -1,6 +1,6 @@
 ---
-title: 'Bestes Stativ für Ricoh GR III (2026) – 5 Modelle, alle unter 0,9 kg'
-seoTitle: Bestes Stativ für Ricoh GR III (2026) – 5 kleine Modelle
+title: 'Bestes Stativ für Ricoh GR III – 5 Modelle, alle unter 0,9 kg'
+seoTitle: Bestes Stativ für Ricoh GR III – 5 kleine Modelle
 description: >-
   Das beste Stativ für Ricoh GR III Besitzer: 5 Modelle unter 0,9 kg, vom PIXI
   Mini für die Jackentasche bis zum 138 cm hohen SIRUI, passend zur

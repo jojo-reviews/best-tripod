@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Canon R50 (2026) – 5 Modelle für eine 375-g-Kamera
-seoTitle: Bestes Stativ für Canon R50 (2026) – 5 Modelle im Vergleich
+title: Bestes Stativ für Canon R50 – 5 Modelle für eine 375-g-Kamera
+seoTitle: Bestes Stativ für Canon R50 – 5 Modelle im Vergleich
 description: >-
   Das beste Stativ für Canon R50 Besitzer: 5 Modelle passend zu 375 g Gehäuse
   und 18-45-mm-Kitobjektiv, mit Höhe ohne Mittelsäule, Packmaß und Arca-Platte.

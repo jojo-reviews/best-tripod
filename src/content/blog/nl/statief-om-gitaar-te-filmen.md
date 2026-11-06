@@ -1,6 +1,6 @@
 ---
-title: Statief om gitaar te filmen (2026) – 6 keuzes per camerahoek
-seoTitle: Statief om gitaar te filmen (2026) – 6 keuzes per hoek
+title: Statief om gitaar te filmen – 6 keuzes per camerahoek
+seoTitle: Statief om gitaar te filmen – 6 keuzes per hoek
 description: >-
   Een goed statief om gitaar te filmen houdt je telefoon of camera op
   ooghoogte als je zit, met beide handen in beeld. 6 statieven per hoek, van

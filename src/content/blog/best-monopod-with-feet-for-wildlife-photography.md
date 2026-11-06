@@ -1,5 +1,5 @@
 ---
-title: Best Monopod With Feet for Wildlife Photography – 3 Picks (2026)
+title: Best Monopod With Feet for Wildlife Photography – 3 Picks
 seoTitle: Best Monopod With Feet for Wildlife Photography (3 Picks)
 description: >-
   The best monopod with feet for wildlife photography, compared on load, height,

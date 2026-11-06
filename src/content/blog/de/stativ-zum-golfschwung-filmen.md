@@ -1,6 +1,6 @@
 ---
-title: Stativ zum Golfschwung filmen – 5 Halterungen nach Untergrund (2026)
-seoTitle: Stativ zum Golfschwung filmen (2026) – 5 Tipps
+title: Stativ zum Golfschwung filmen – 5 Halterungen nach Untergrund
+seoTitle: Stativ zum Golfschwung filmen – 5 Tipps
 description: >-
   Das beste Stativ zum Golfschwung filmen hält dein Handy auf Rasen, Matte oder
   am Golfbag auf Handhöhe. 5 Halterungen, vom Erdspieß-Stick bis zum Bag-Clip.

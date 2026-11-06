@@ -1,6 +1,6 @@
 ---
-title: Trípode para pintar al aire libre (2026) – 5 opciones para tu pochade
-seoTitle: Trípode para pintar al aire libre – 5 modelos (2026)
+title: Trípode para pintar al aire libre – 5 opciones para tu pochade
+seoTitle: Trípode para pintar al aire libre – 5 modelos
 description: >-
   El mejor trípode para pintar al aire libre según tu caja pochade: carga,
   altura sin columna y longitud plegado, con 5 modelos y un montaje contra el

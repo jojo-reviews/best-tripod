@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Canon R8 (2026) – 5 Picks by Lens and Wind
-seoTitle: Best Tripod for Canon R8 (2026) – 5 Picks by Lens and Wind
+title: Best Tripod for Canon R8 – 5 Picks by Lens and Wind
+seoTitle: Best Tripod for Canon R8 – 5 Picks by Lens and Wind
 description: >-
   The best tripod for Canon R8 owners, matched to your RF lens and the wind: 5
   picks from a 15.5 in Peak Design travel tripod to a 59.65 in Manfrotto 055.

@@ -1,6 +1,6 @@
 ---
 title: 'Twist Lock vs Flip Lock Tripod Legs – Speed, Sand, Gloves and Wear'
-seoTitle: Twist Lock vs Flip Lock Tripod Legs (2026) – Grit and Gloves
+seoTitle: Twist Lock vs Flip Lock Tripod Legs – Grit and Gloves
 description: >-
   Twist lock vs flip lock tripod legs: twist packs slimmer and runs quiet, flip
   reads at a glance and adjusts with a screw. How sand, gloves and wear change

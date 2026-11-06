@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Gym Videos (2026) – 5 Picks From Bench to Platform
-seoTitle: Best Tripod for Gym Videos (2026) – 5 Phone-Ready Picks
+title: Best Tripod for Gym Videos – 5 Picks From Bench to Platform
+seoTitle: Best Tripod for Gym Videos – 5 Phone-Ready Picks
 description: >-
   The best tripod for gym videos packs in a gym bag, sets up between sets and
   holds your phone at the right height. 5 picks, from pocket to platform.

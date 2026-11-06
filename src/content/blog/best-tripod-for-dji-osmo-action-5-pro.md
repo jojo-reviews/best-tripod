@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for DJI Osmo Action 5 Pro (2026) – 5 Picks to 1.5 m
-seoTitle: Best Tripod for DJI Osmo Action 5 Pro (2026) – 5 Picks
+title: Best Tripod for DJI Osmo Action 5 Pro – 5 Picks to 1.5 m
+seoTitle: Best Tripod for DJI Osmo Action 5 Pro – 5 Picks
 description: >-
   The best tripod for DJI Osmo Action 5 Pro: DJI's Mini Extension Rod, SmallRig
   5435, DJI's 1.5 m rod, Insta360 2-in-1 and Ulanzi MT-16, plus how each mounts.

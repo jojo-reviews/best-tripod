@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor schoolvoorstellingen (2026) – 5 boven alle hoofden
-seoTitle: Beste statief voor schoolvoorstellingen (2026) – 5 tips
+title: Beste statief voor schoolvoorstellingen – 5 boven alle hoofden
+seoTitle: Beste statief voor schoolvoorstellingen – 5 tips
 description: >-
   Het beste statief voor schoolvoorstellingen tilt de camera boven de hoofden
   voor je. 5 videostatieven passend bij je plek in de zaal, van 151 tot 200 cm.

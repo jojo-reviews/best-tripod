@@ -1,6 +1,6 @@
 ---
-title: Statief voor timelapse (2026) – 7 statieven die urenlang stilstaan
-seoTitle: Statief voor timelapse (2026) – 7 stabiele statieven
+title: Statief voor timelapse – 7 statieven die urenlang stilstaan
+seoTitle: Statief voor timelapse – 7 stabiele statieven
 description: >-
   Een goed statief voor timelapse houdt de kadrering urenlang vast. 7 statieven,
   van de 2,5 kg Manfrotto 190-kit tot telefoon- en GoPro-statieven, plus

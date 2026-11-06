@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Fujifilm X-T5 (2026) – 5 Picks Matched to Your Lens
-seoTitle: Best Tripod for Fujifilm X-T5 (2026) – 5 Picks by Lens
+title: Best Tripod for Fujifilm X-T5 – 5 Picks Matched to Your Lens
+seoTitle: Best Tripod for Fujifilm X-T5 – 5 Picks by Lens
 description: >-
   The best tripod for Fujifilm X-T5 owners: 5 picks sized to the 557 g body plus
   the 16-55mm, with column-down heights, folded lengths and Arca fit.

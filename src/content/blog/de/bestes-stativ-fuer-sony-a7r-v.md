@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Sony A7R V (2026) – 5 Tipps für 61 MP Schärfe
-seoTitle: Bestes Stativ für Sony A7R V (2026) – 5 im Vergleich
+title: Bestes Stativ für Sony A7R V – 5 Tipps für 61 MP Schärfe
+seoTitle: Bestes Stativ für Sony A7R V – 5 im Vergleich
 description: >-
   Das beste Stativ für Sony A7R V Besitzer, passend zu Objektiv und 61-MP-Sensor:
   5 Tipps vom 1,055 kg leichten Gitzo Traveler bis zum 055-Set mit 15 kg.

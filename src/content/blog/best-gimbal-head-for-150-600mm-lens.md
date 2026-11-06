@@ -1,6 +1,6 @@
 ---
-title: Best Gimbal Head for 150-600mm Lens (2026) – 4 Picks by Weight
-seoTitle: Best Gimbal Head for 150-600mm Lens – 4 Picks (2026)
+title: Best Gimbal Head for 150-600mm Lens – 4 Picks by Weight
+seoTitle: Best Gimbal Head for 150-600mm Lens – 4 Picks
 description: >-
   The best gimbal head for a 150-600mm lens is a light full gimbal like the
   ProMediaGear Katana Junior. See 4 picks by weight, arm fit and ball head

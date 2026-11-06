@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Canon R50 (2026) – 5 modellen voor 375 g camera
-seoTitle: Beste statief voor Canon R50 (2026) – 5 modellen vergeleken
+title: Beste statief voor Canon R50 – 5 modellen voor 375 g camera
+seoTitle: Beste statief voor Canon R50 – 5 modellen vergeleken
 description: >-
   Het beste statief voor Canon R50 bezitters: 5 modellen op maat van de 375 g
   body en de 18-45mm kitlens, met hoogte zonder middenkolom, pakmaat en Arca.

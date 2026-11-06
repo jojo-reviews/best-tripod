@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Crossbow (2026) – 5 Picks for Blinds and Stalks
-seoTitle: Best Tripod for Crossbow (2026) – 5 Picks for Blinds
+title: Best Tripod for Crossbow – 5 Picks for Blinds and Stalks
+seoTitle: Best Tripod for Crossbow – 5 Picks for Blinds
 description: >-
   The best tripod for crossbow hunting, matched to where you sit. Clamp tripods
   for ground blinds, a compact blind tripod and fast sticks for stalks.

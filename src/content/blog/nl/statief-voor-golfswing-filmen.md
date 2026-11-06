@@ -1,6 +1,6 @@
 ---
-title: Statief voor golfswing filmen – 5 houders per ondergrond (2026)
-seoTitle: Statief voor golfswing filmen (2026) – 5 tips
+title: Statief voor golfswing filmen – 5 houders per ondergrond
+seoTitle: Statief voor golfswing filmen – 5 tips
 description: >-
   Het beste statief voor golfswing filmen houdt je telefoon op handhoogte op
   gras, de afslagmat of je golftas. 5 houders, van grondpen-stick tot tasclip.

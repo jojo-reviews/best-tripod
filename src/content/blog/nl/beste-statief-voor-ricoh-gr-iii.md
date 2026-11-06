@@ -1,6 +1,6 @@
 ---
-title: 'Beste statief voor Ricoh GR III (2026) – 5 modellen, alle onder 0,9 kg'
-seoTitle: Beste statief voor Ricoh GR III (2026) – 5 modellen
+title: 'Beste statief voor Ricoh GR III – 5 modellen, alle onder 0,9 kg'
+seoTitle: Beste statief voor Ricoh GR III – 5 modellen
 description: >-
   Het beste statief voor Ricoh GR III bezitters: 5 modellen onder 0,9 kg, van de
   PIXI Mini voor in je zak tot de carbon SIRUI van 138 cm, voor de camera van

@@ -1,6 +1,6 @@
 ---
-title: Beste tafelstatief voor camera (2026) – 5 keuzes op cameragewicht
-seoTitle: Beste tafelstatief voor camera (2026) – 5 op draagvermogen
+title: Beste tafelstatief voor camera – 5 keuzes op cameragewicht
+seoTitle: Beste tafelstatief voor camera – 5 op draagvermogen
 description: >-
   Het beste tafelstatief voor camera en lens houdt je uitrusting vast zonder te
   kantelen of te zakken. Ik vergelijk 5 modellen op kopbelasting, hoogte en

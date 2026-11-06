@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Canon R6 Mark II (2026) – 5 keuzes per RF-lens
-seoTitle: Beste statief voor Canon R6 Mark II (2026) – 5 keuzes
+title: Beste statief voor Canon R6 Mark II – 5 keuzes per RF-lens
+seoTitle: Beste statief voor Canon R6 Mark II – 5 keuzes
 description: >-
   Het beste statief voor Canon R6 Mark II bezitters, afgestemd op de RF-lens die
   je gebruikt: 5 keuzes, van een carbon set van 1 kg tot een groot statief voor

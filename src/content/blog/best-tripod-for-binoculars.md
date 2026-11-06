@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Binoculars (2026) – 5 Picks for Glassing and Stars
-seoTitle: Best Tripod for Binoculars (2026) – 5 Picks by Eye Height
+title: Best Tripod for Binoculars – 5 Picks for Glassing and Stars
+seoTitle: Best Tripod for Binoculars – 5 Picks by Eye Height
 description: >-
   The best tripod for binoculars: 5 picks from a 2.5 lb seated glassing kit to
   73.8 in legs for standing, matched by eye height, head type and load.

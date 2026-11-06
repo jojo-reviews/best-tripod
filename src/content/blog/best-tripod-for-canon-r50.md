@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Canon R50 (2026) – 5 Picks Sized to a 375 g Camera
-seoTitle: Best Tripod for Canon R50 (2026) – 5 Picks for a Light Body
+title: Best Tripod for Canon R50 – 5 Picks Sized to a 375 g Camera
+seoTitle: Best Tripod for Canon R50 – 5 Picks for a Light Body
 description: >-
   The best tripod for Canon R50 owners: 5 picks sized to the 375 g body and
   18-45mm kit lens, with column-down heights, folded lengths and Arca fit.

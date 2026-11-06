@@ -1,6 +1,6 @@
 ---
 title: Trípode para fotografía inmobiliaria – 7 opciones para interiores
-seoTitle: Trípode para fotografía inmobiliaria (2026) – 7 opciones
+seoTitle: Trípode para fotografía inmobiliaria – 7 opciones
 description: >-
   El mejor trípode para fotografía inmobiliaria mantiene las verticales rectas
   en cada horquillado. 7 trípodes y rótulas comparados por altura, carga y zapata.

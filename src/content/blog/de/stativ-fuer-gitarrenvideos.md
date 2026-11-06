@@ -1,6 +1,6 @@
 ---
-title: Stativ für Gitarrenvideos (2026) – 6 Empfehlungen nach Kamerawinkel
-seoTitle: Stativ für Gitarrenvideos (2026) – 6 Tipps nach Winkel
+title: Stativ für Gitarrenvideos – 6 Empfehlungen nach Kamerawinkel
+seoTitle: Stativ für Gitarrenvideos – 6 Tipps nach Winkel
 description: >-
   Ein gutes Stativ für Gitarrenvideos hält Handy oder Kamera auf sitzender
   Augenhöhe, mit beiden Händen im Bild. 6 Stative nach Winkel, frontal bis von

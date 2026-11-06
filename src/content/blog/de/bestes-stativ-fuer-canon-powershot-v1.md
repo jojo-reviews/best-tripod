@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Canon PowerShot V1 (2026) – 5 Modelle für 426 g
-seoTitle: Bestes Stativ für Canon PowerShot V1 (2026) – 5 Modelle
+title: Bestes Stativ für Canon PowerShot V1 – 5 Modelle für 426 g
+seoTitle: Bestes Stativ für Canon PowerShot V1 – 5 Modelle
 description: >-
   Das beste Stativ für Canon PowerShot V1 Besitzer: Canons Griffstativ
   HG-100TBR, zwei Manfrotto-Ministative, Ulanzi MT-16 und ein Reisestativ für

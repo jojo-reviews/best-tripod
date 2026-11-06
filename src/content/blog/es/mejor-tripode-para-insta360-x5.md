@@ -1,6 +1,6 @@
 ---
-title: 'Mejor trípode para Insta360 X5 (2026) – 5 opciones hasta 187 cm'
-seoTitle: Mejor trípode para Insta360 X5 (2026) – 5 opciones
+title: 'Mejor trípode para Insta360 X5 – 5 opciones hasta 187 cm'
+seoTitle: Mejor trípode para Insta360 X5 – 5 opciones
 description: >-
   El mejor trípode para Insta360 X5: el palo 2 en 1 de Insta360, el palo de
   168 cm de K&F, el monópode Best360, las patas MT-03 y una base de bolsillo.

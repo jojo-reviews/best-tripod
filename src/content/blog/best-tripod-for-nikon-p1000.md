@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Nikon P1000 (2026) – 5 Picks Steady at 3000mm
-seoTitle: Best Tripod for Nikon P1000 (2026) – 5 Picks for 3000mm
+title: Best Tripod for Nikon P1000 – 5 Picks Steady at 3000mm
+seoTitle: Best Tripod for Nikon P1000 – 5 Picks for 3000mm
 description: >-
   The best tripod for Nikon P1000 owners who shoot birds, planes and the moon: 5
   picks rated 3.5 to 7 times the camera's weight, plus the fix for the dip.

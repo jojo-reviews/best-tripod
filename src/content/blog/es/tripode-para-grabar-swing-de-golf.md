@@ -1,6 +1,6 @@
 ---
-title: Trípode para grabar swing de golf – 5 soportes según superficie (2026)
-seoTitle: Trípode para grabar swing de golf (2026) – 5 opciones
+title: Trípode para grabar swing de golf – 5 soportes según superficie
+seoTitle: Trípode para grabar swing de golf – 5 opciones
 description: >-
   El mejor trípode para grabar swing de golf sostiene el móvil a la altura de
   las manos en césped, alfombrilla o la bolsa. 5 opciones, del pincho al clip.

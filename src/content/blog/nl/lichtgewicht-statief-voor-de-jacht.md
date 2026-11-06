@@ -1,5 +1,5 @@
 ---
-title: 'Lichtgewicht statief voor de jacht (2026) – 5 modellen tot 1,6 kg'
+title: 'Lichtgewicht statief voor de jacht – 5 modellen tot 1,6 kg'
 seoTitle: 'Lichtgewicht statief voor de jacht – 5 modellen tot 1,6 kg'
 description: >-
   Het lichtgewicht statief voor de jacht dat past bij je optiek en rugzak: 5

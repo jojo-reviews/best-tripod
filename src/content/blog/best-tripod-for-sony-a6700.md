@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Sony a6700 (2026) – 6 Picks Matched to Your Lens
-seoTitle: Best Tripod for Sony a6700 (2026) – 6 Picks by Lens
+title: Best Tripod for Sony a6700 – 6 Picks Matched to Your Lens
+seoTitle: Best Tripod for Sony a6700 – 6 Picks by Lens
 description: >-
   The best tripod for Sony a6700 owners: 6 picks sized to the 493 g body with
   the 18-50mm or 70-350mm, with column-down heights, folded lengths and Arca

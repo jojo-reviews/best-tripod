@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Pocket Mini'
-seoTitle: 'Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Mini'
+title: 'Best Tripod for Leica Q3 – 5 Picks, Full-Size to Pocket Mini'
+seoTitle: 'Best Tripod for Leica Q3 – 5 Picks, Full-Size to Mini'
 description: >-
   The best tripod for Leica Q3 owners: 5 picks from a 0.57 lb pocket mini to
   carbon travel legs, matched to the Q3's 743 g and to where you shoot.

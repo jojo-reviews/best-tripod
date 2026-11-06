@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Astrophotography (2026) – 5 Picks for a Star Tracker
-seoTitle: Best Tripod for Astrophotography (2026) – 5 Tracker Picks
+title: Best Tripod for Astrophotography – 5 Picks for a Star Tracker
+seoTitle: Best Tripod for Astrophotography – 5 Tracker Picks
 description: >-
   The best tripod for astrophotography holds your camera, lens and star tracker
   with margin to spare. 5 picks compared on load, column-down height and weight.

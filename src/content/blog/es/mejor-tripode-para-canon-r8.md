@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Canon R8 (2026) – 5 opciones por objetivo y viento
-seoTitle: Mejor trípode para Canon R8 (2026) – 5 opciones
+title: Mejor trípode para Canon R8 – 5 opciones por objetivo y viento
+seoTitle: Mejor trípode para Canon R8 – 5 opciones
 description: >-
   El mejor trípode para Canon R8 según tu objetivo RF y el viento: 5 opciones,
   del trípode de viaje Peak Design de 39,4 cm al Manfrotto 055 de 151,5 cm.

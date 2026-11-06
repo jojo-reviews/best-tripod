@@ -1,6 +1,6 @@
 ---
-title: Stativ Dolly Vergleich (2026) – die 6 besten nach Stativfuß
-seoTitle: Stativ Dolly Vergleich (2026) – 6 Modelle nach Fußtyp
+title: Stativ Dolly Vergleich – die 6 besten nach Stativfuß
+seoTitle: Stativ Dolly Vergleich – 6 Modelle nach Fußtyp
 description: >-
   Der beste Stativ Dolly passt zu den Füßen deines Stativs und zum Gewicht
   deines Rigs: 6 Modelle, vom 1,8 kg leichten SmallRig bis zum Proaim für 500

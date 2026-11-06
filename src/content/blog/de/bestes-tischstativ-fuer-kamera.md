@@ -1,6 +1,6 @@
 ---
-title: Bestes Tischstativ für Kamera (2026) – 5 Modelle nach Kameragewicht
-seoTitle: Bestes Tischstativ für Kamera 2026 – 5 Modelle im Vergleich
+title: Bestes Tischstativ für Kamera – 5 Modelle nach Kameragewicht
+seoTitle: Bestes Tischstativ für Kamera – 5 Modelle im Vergleich
 description: >-
   Das beste Tischstativ für Kamera und Objektiv kippt nicht und sackt nicht ab.
   Ich vergleiche 5 Modelle nach Kopf-Tragkraft, Arbeitshöhe und Beinbauart.

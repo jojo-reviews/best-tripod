@@ -1,6 +1,6 @@
 ---
-title: 'Mejor trípode para Ricoh GR III (2026) – 5 opciones de menos de 0,9 kg'
-seoTitle: Mejor trípode para Ricoh GR III (2026) – 5 opciones
+title: 'Mejor trípode para Ricoh GR III – 5 opciones de menos de 0,9 kg'
+seoTitle: Mejor trípode para Ricoh GR III – 5 opciones
 description: >-
   El mejor trípode para Ricoh GR III: 5 opciones de menos de 0,9 kg, del PIXI
   Mini de bolsillo al SIRUI de carbono de 138 cm, a medida de la cámara de 257

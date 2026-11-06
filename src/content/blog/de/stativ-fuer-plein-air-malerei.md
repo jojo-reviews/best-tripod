@@ -1,6 +1,6 @@
 ---
-title: Stativ für Plein Air Malerei (2026) – 5 Modelle für die Pochade-Box
-seoTitle: Stativ für Plein Air Malerei – 5 Modelle im Vergleich 2026
+title: Stativ für Plein Air Malerei – 5 Modelle für die Pochade-Box
+seoTitle: Stativ für Plein Air Malerei – 5 Modelle im Vergleich
 description: >-
   Das beste Stativ für Plein Air Malerei, passend zur Pochade-Box nach
   Tragkraft, Höhe ohne Mittelsäule und Packmaß: 5 Modelle und ein Aufbau gegen

@@ -1,6 +1,6 @@
 ---
-title: 'Beste statief voor Insta360 X5 (2026) – 5 keuzes tot 187 cm'
-seoTitle: Beste statief voor Insta360 X5 (2026) – 5 keuzes
+title: 'Beste statief voor Insta360 X5 – 5 keuzes tot 187 cm'
+seoTitle: Beste statief voor Insta360 X5 – 5 keuzes
 description: >-
   Het beste statief voor Insta360 X5 opnames: de 2-in-1-stick van Insta360, de
   168-cm-stick van K&F, de Best360-monopod, MT-03-poten en een zakstatief.

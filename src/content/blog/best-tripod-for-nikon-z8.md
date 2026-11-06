@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Nikon Z8 (2026) – 5 Picks From 24-120 to 180-600
-seoTitle: Best Tripod for Nikon Z8 (2026) – 5 Picks by Lens Weight
+title: Best Tripod for Nikon Z8 – 5 Picks From 24-120 to 180-600
+seoTitle: Best Tripod for Nikon Z8 – 5 Picks by Lens Weight
 description: >-
   The best tripod for Nikon Z8 owners, matched to the lens you mount: 5 picks
   from a 2.8 lb carbon travel tripod to 32 mm columnless legs for the 180-600.

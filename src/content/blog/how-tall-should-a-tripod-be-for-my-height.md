@@ -1,6 +1,6 @@
 ---
 title: How Tall Should a Tripod Be for My Height? Chart and Math
-seoTitle: How Tall Should a Tripod Be for My Height? (2026 Chart)
+seoTitle: How Tall Should a Tripod Be for My Height? (Chart)
 description: >-
   How tall should a tripod be for your height? Our chart shows the legs-only
   height to look for: roughly your height minus 11 inches, column down.

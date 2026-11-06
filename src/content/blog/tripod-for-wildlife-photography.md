@@ -1,6 +1,6 @@
 ---
-title: Tripod for Wildlife Photography – What Holds a Long Lens Steady (2026)
-seoTitle: Tripod for Wildlife Photography – Steady a Long Lens (2026)
+title: Tripod for Wildlife Photography – What Holds a Long Lens Steady
+seoTitle: Tripod for Wildlife Photography – Steady a Long Lens
 description: >-
   How to choose a tripod for wildlife photography: rating math for lens, body
   and head, height without the column, gimbal or ball head, and shake fixes.

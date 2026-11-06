@@ -1,6 +1,6 @@
 ---
 title: Best Tripod for Real Estate Photography – 7 Picks for Level Interiors
-seoTitle: Best Tripod for Real Estate Photography (2026) – 7 Picks
+seoTitle: Best Tripod for Real Estate Photography – 7 Picks
 description: >-
   The best tripod for real estate photography keeps verticals straight across
   every bracket. Compare 7 tripods and geared heads on height, load and plates.

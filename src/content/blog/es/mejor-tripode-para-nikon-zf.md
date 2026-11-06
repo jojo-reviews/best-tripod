@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Nikon Zf (2026) – 5 modelos de viaje y pixel shift
-seoTitle: Mejor trípode para Nikon Zf (2026) – 5 modelos comparados
+title: Mejor trípode para Nikon Zf – 5 modelos de viaje y pixel shift
+seoTitle: Mejor trípode para Nikon Zf – 5 modelos comparados
 description: >-
   El mejor trípode para Nikon Zf: 5 modelos a la medida del cuerpo de 710 g y su
   24-70 f/4, con altura sin columna, longitud plegado y ajustes para pixel

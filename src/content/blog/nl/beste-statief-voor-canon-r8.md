@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Canon R8 (2026) – 5 keuzes per lens en wind
-seoTitle: Beste statief voor Canon R8 (2026) – 5 keuzes
+title: Beste statief voor Canon R8 – 5 keuzes per lens en wind
+seoTitle: Beste statief voor Canon R8 – 5 keuzes
 description: >-
   Het beste statief voor Canon R8 bezitters, afgestemd op je RF-lens en de wind:
   5 keuzes, van het Peak Design reisstatief van 39,4 cm tot de Manfrotto 055.

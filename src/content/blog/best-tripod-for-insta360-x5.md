@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for Insta360 X5 (2026) – 5 Picks, Tabletop to 6 ft'
-seoTitle: Best Tripod for Insta360 X5 (2026) – 5 Picks Up to 6 ft
+title: 'Best Tripod for Insta360 X5 – 5 Picks, Tabletop to 6 ft'
+seoTitle: Best Tripod for Insta360 X5 – 5 Picks Up to 6 ft
 description: >-
   The best tripod for Insta360 X5 shots: Insta360's 2-in-1 stick, K&F's 66-inch
   stick, the Best360 monopod, MT-03 legs and a pocket base, matched by height.

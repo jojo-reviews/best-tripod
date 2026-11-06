@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Canon R6 Mark II (2026) – 5 Tipps nach RF-Objektiv
-seoTitle: Bestes Stativ für Canon R6 Mark II (2026) – 5 im Vergleich
+title: Bestes Stativ für Canon R6 Mark II – 5 Tipps nach RF-Objektiv
+seoTitle: Bestes Stativ für Canon R6 Mark II – 5 im Vergleich
 description: >-
   Das beste Stativ für Canon R6 Mark II Besitzer, passend zum RF-Objektiv: 5
   Stative vom 1-kg-Carbon-Set bis zum großen Stativ für das RF 100-500.

@@ -1,6 +1,6 @@
 ---
-title: Best Tabletop Camera Tripod (2026) – 5 Picks Matched to Camera Weight
-seoTitle: Best Tabletop Camera Tripod (2026) – 5 Picks by Payload
+title: Best Tabletop Camera Tripod – 5 Picks Matched to Camera Weight
+seoTitle: Best Tabletop Camera Tripod – 5 Picks by Payload
 description: >-
   The best tabletop camera tripod holds your camera and lens without tipping or
   sagging. I compare 5 picks by head payload, working height and leg design.

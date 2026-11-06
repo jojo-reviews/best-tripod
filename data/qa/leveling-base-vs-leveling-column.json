@@ -1,17 +1,15 @@
 {
   "slug": "leveling-base-vs-leveling-column",
   "pass": true,
-  "checkedAt": "2026-11-04T16:33:43.146Z",
+  "checkedAt": "2026-11-06T11:47:25.332Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "FAQ \"How many degrees can a leveling base correct?\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1690976/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1df80ug/how_important_is_a_levelling_bowl_on_a_tripod/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,

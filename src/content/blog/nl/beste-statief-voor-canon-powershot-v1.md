@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Canon PowerShot V1 (2026) – 5 modellen voor 426 g
-seoTitle: Beste statief voor Canon PowerShot V1 (2026) – 5 modellen
+title: Beste statief voor Canon PowerShot V1 – 5 modellen voor 426 g
+seoTitle: Beste statief voor Canon PowerShot V1 – 5 modellen
 description: >-
   Het beste statief voor Canon PowerShot V1 bezitters: Canons statiefgrip
   HG-100TBR, twee Manfrotto-ministatieven, de Ulanzi MT-16 en een reisstatief.

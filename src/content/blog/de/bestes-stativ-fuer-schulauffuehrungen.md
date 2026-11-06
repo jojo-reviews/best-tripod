@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Schulaufführungen (2026) – 5 über allen Köpfen
-seoTitle: Bestes Stativ für Schulaufführungen (2026) – 5 Tipps
+title: Bestes Stativ für Schulaufführungen – 5 über allen Köpfen
+seoTitle: Bestes Stativ für Schulaufführungen – 5 Tipps
 description: >-
   Das beste Stativ für Schulaufführungen hebt die Kamera über die Köpfe vor
   dir. 5 Videostative passend zu deinem Platz im Saal, von 151 bis 200 cm Höhe.

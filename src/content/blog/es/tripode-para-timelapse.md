@@ -1,6 +1,6 @@
 ---
-title: Trípode para timelapse (2026) – 7 modelos que no se mueven en horas
-seoTitle: Trípode para timelapse (2026) – 7 modelos estables
+title: Trípode para timelapse – 7 modelos que no se mueven en horas
+seoTitle: Trípode para timelapse – 7 modelos estables
 description: >-
   Un buen trípode para timelapse mantiene el encuadre durante horas. 7 modelos,
   del kit Manfrotto 190 de 2,5 kg a trípodes para móvil y GoPro, con cálculo de

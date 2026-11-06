@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Recording School Plays (2026) – 5 Picks Over Heads
-seoTitle: Best Tripod for Recording School Plays (2026) – 5 Picks
+title: Best Tripod for Recording School Plays – 5 Picks Over Heads
+seoTitle: Best Tripod for Recording School Plays – 5 Picks
 description: >-
   The best tripod for recording school plays lifts the camera above the heads in
   front. 5 video tripods matched to your seat, from 59 in to 79 in tall.

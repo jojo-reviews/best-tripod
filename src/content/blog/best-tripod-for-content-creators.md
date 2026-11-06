@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Content Creators (2026) – 4 Picks by Shot Type
-seoTitle: Best Tripod for Content Creators (2026) – 4 Shot-Type Picks
+title: Best Tripod for Content Creators – 4 Picks by Shot Type
+seoTitle: Best Tripod for Content Creators – 4 Shot-Type Picks
 description: >-
   The best tripod for content creators depends on the shot. Four picks for
   floor, desk, wrap-around and ring-light filming, with real heights and load

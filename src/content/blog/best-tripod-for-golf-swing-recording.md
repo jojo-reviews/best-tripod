@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Golf Swing Recording (2026) – 5 Picks by Surface
-seoTitle: Best Tripod for Golf Swing Recording (2026) – 5 Picks
+title: Best Tripod for Golf Swing Recording – 5 Picks by Surface
+seoTitle: Best Tripod for Golf Swing Recording – 5 Picks
 description: >-
   The best tripod for golf swing recording holds your phone at hand height on
   grass, mats or your golf bag. 5 picks, from a spike stick to a bag clip.

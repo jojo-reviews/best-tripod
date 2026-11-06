@@ -1,6 +1,6 @@
 ---
-title: Monopod vs Tripod for Sports Photography – Which Wins in 2026?
-seoTitle: Monopod vs Tripod for Sports Photography (2026) – 2 Picks
+title: Monopod vs Tripod for Sports Photography – Which Wins?
+seoTitle: Monopod vs Tripod for Sports Photography – 2 Picks
 description: >-
   Monopod vs tripod for sports photography: why most sideline shooters pick a
   monopod, when a tripod still wins, and 2 monopods compared for long lenses.

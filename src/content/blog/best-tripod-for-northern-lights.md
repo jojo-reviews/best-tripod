@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Northern Lights (2026) – 5 Picks for Cold and Wind
-seoTitle: Best Tripod for Northern Lights (2026) – 5 Arctic Picks
+title: Best Tripod for Northern Lights – 5 Picks for Cold and Wind
+seoTitle: Best Tripod for Northern Lights – 5 Arctic Picks
 description: >-
   The best tripod for northern lights stays steady in Arctic wind, works in
   gloves and packs for the flight. 5 picks compared on cold rating, locks and

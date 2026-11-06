@@ -1,6 +1,6 @@
 ---
-title: Bestes Stativ für Nikon Zf (2026) – 5 Modelle, auch für Pixel Shift
-seoTitle: Bestes Stativ für Nikon Zf (2026) – 5 Modelle im Vergleich
+title: Bestes Stativ für Nikon Zf – 5 Modelle, auch für Pixel Shift
+seoTitle: Bestes Stativ für Nikon Zf – 5 Modelle im Vergleich
 description: >-
   Das beste Stativ für Nikon Zf Besitzer: 5 Modelle passend zum 710-g-Gehäuse
   und zum 24-70 f/4, mit Höhe ohne Mittelsäule, Packmaß und Pixel-Shift-Setup.

@@ -1,6 +1,6 @@
 ---
-title: 'Stativ für Zeitraffer (2026) – 7 Modelle, die stundenlang stillstehen'
-seoTitle: Stativ für Zeitraffer (2026) – 7 Modelle im Vergleich
+title: 'Stativ für Zeitraffer – 7 Modelle, die stundenlang stillstehen'
+seoTitle: Stativ für Zeitraffer – 7 Modelle im Vergleich
 description: >-
   Ein gutes Stativ für Zeitraffer hält den Bildausschnitt stundenlang. 7 Modelle
   vom 2,5-kg-Manfrotto-190-Kit bis zum Handy- und GoPro-Stativ, plus

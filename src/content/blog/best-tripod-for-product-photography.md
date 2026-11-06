@@ -1,6 +1,6 @@
 ---
 title: Best Tripod for Product Photography – 5 Picks for Flat Lays
-seoTitle: Best Tripod for Product Photography (2026) – 5 Picks
+seoTitle: Best Tripod for Product Photography – 5 Picks
 description: >-
   The best tripod for product photography swings the camera over the table for
   flat lays. Compare 5 picks on column-down height, overhead reach, load and

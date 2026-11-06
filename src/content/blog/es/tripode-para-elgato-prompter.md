@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Elgato Prompter (2026) – 5 de vídeo desde 8 kg
-seoTitle: Trípode para Elgato Prompter XL (2026) – 5 opciones
+title: Mejor trípode para Elgato Prompter – 5 de vídeo desde 8 kg
+seoTitle: Trípode para Elgato Prompter XL – 5 opciones
 description: >-
   El mejor trípode para Elgato Prompter XL es un trípode de vídeo de 8 kg o más.
   5 modelos comparados con los 3,37 kg del XL y la regla de 7 kg de Elgato.

@@ -1,6 +1,6 @@
 ---
-title: Stativ für Polarlichter (2026) – 5 Modelle für Kälte und Wind
-seoTitle: Stativ für Polarlichter (2026) – 5 Modelle für die Arktis
+title: Stativ für Polarlichter – 5 Modelle für Kälte und Wind
+seoTitle: Stativ für Polarlichter – 5 Modelle für die Arktis
 description: >-
   Das beste Stativ für Polarlichter steht im arktischen Wind ruhig, geht mit
   Handschuhen und passt ins Handgepäck. 5 Modelle nach Kälte, Verschluss und

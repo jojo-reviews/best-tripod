@@ -1,6 +1,6 @@
 ---
 title: Leveling Base vs Leveling Column – Which Levels Panoramas Faster
-seoTitle: Leveling Base vs Leveling Column (2026) – Pick for Panoramas
+seoTitle: Leveling Base vs Leveling Column – Pick for Panoramas
 description: >-
   Leveling base vs leveling column: a base fits almost any tripod and holds more
   weight; a column adds no height but fits one tripod series. Here is how to

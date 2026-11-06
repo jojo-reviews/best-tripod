@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Guitar Videos (2026) – 6 Picks by Camera Angle
-seoTitle: Best Tripod for Guitar Videos (2026) – 6 Picks by Angle
+title: Best Tripod for Guitar Videos – 6 Picks by Camera Angle
+seoTitle: Best Tripod for Guitar Videos – 6 Picks by Angle
 description: >-
   The best tripod for guitar videos holds your phone or camera at seated eye
   level with both hands in frame. 6 picks by angle, from front shot to overhead.

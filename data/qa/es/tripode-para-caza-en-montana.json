@@ -3,7 +3,7 @@
   "lang": "es",
   "translationOf": "best-tripod-for-backcountry-hunting",
   "pass": true,
-  "checkedAt": "2026-11-03T16:37:11.759Z",
+  "checkedAt": "2026-11-06T11:47:19.008Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-hunting/; link the es version once it exists",
@@ -16,9 +16,7 @@
     "illustration \"Mano colocando un casquillo adaptador de\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,

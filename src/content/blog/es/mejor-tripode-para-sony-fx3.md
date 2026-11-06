@@ -1,6 +1,6 @@
 ---
-title: Mejor trípode para Sony FX3 (2026) – 5 opciones según el peso del rig
-seoTitle: Mejor trípode para Sony FX3 (2026) – 5 opciones
+title: Mejor trípode para Sony FX3 – 5 opciones según el peso del rig
+seoTitle: Mejor trípode para Sony FX3 – 5 opciones
 description: >-
   El mejor trípode para Sony FX3 según lo que montas: 5 opciones, desde un kit
   fluido de viaje de 1,75 kg hasta un Sachtler con cinco pasos de contrapeso.

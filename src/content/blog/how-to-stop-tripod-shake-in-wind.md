@@ -1,6 +1,6 @@
 ---
 title: 'How to Stop Tripod Shake in Wind – 7 Fixes, Cheapest First'
-seoTitle: How to Stop Tripod Shake in Wind (2026) – 7 Fixes
+seoTitle: How to Stop Tripod Shake in Wind – 7 Fixes
 description: >-
   How to stop tripod shake in wind: find what is moving, go low with the column
   down, weigh it from the ground, shield the lens, fire hands-free, then stack.

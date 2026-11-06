@@ -30,6 +30,15 @@ const unmatched = () => (unmatchedCache ??= (() => {
 
 export const QA_DIR = path.join(DATA_DIR, 'qa');
 const BRIEFS = path.join(DATA_DIR, 'briefs');
+// Owner rule 2026-11-06 ("sab ma na add kiya karo, kisi kisi ma add kar diya karo 2026"): a year goes in a title
+// only when the keyword's Google top 10 uses one (3+ of the top-10 titles in the brief's serpTitles show a year).
+const serpUsesYear = (slug) => {
+  try {
+    const b = JSON.parse(fs.readFileSync(path.join(BRIEFS, `${slug}.json`), 'utf8'));
+    return (b.serpTitles ?? []).slice(0, 10).filter((x) => /\b20\d\d\b/.test(typeof x === 'string' ? x : x?.title ?? '')).length >= 3;
+  } catch { return false; }
+};
+
 const words = (s) => new Set(String(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').split(' ').filter((w) => w.length > 1));
 const overlap = (a, b) => {
   const A = words(a), B = words(b);
@@ -186,9 +195,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   // --- Content and required fields
   if (!d.title) err('missing title');
   // Click-worthy titles: new posts carry a year or a number (picks, tips, steps) and fit in the SERP.
-  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01') && !/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 Picks", "12 Tips") to earn the click; no year (owner rule 2026-11-06)');
+  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01') && !/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 Picks", "12 Tips") to earn the click; a year does not count (owner rule 2026-11-06)');
   // Owner rule 2026-11-06 ("title ma 2026 add karna band karo"): no year in title or seoTitle of posts going live from now on.
-  if (pub >= Date.parse('2026-11-06T00:00:00Z')) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year; owner rule 2026-11-06: never put the year in titles`);
+  if (pub >= Date.parse('2026-11-06T00:00:00Z') && !serpUsesYear(post.slug)) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year, but fewer than 3 of the Google top-10 titles use one; owner rule 2026-11-06: year only in some titles, when the SERP uses it`);
   if ((d.seoTitle ?? d.title ?? '').length > 65) err(`seoTitle is ${(d.seoTitle ?? d.title).length} characters (max 65)`);
   const desc = (d.description ?? '').trim();
   if (desc.length < 110 || desc.length > 170) err(`description is ${desc.length} characters (aim for 140-160)`);
@@ -568,8 +577,8 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
 
   // --- Content and required fields (same limits as English)
   if (!d.title) err('missing title');
-  if (!/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 ...") to earn the click; no year (owner rule 2026-11-06)');
-  if (Date.parse(d.pubDate ?? 0) >= Date.parse('2026-11-06T00:00:00Z')) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year; owner rule 2026-11-06: never put the year in titles`);
+  if (!/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 ...") to earn the click; a year does not count (owner rule 2026-11-06)');
+  if (Date.parse(d.pubDate ?? 0) >= Date.parse('2026-11-06T00:00:00Z') && !serpUsesYear(d.translationOf ?? post.slug)) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year, but the Google top 10 does not use one; owner rule 2026-11-06: year only in some titles, when the SERP uses it`);
   if ((d.seoTitle ?? d.title ?? '').length > 65) err(`seoTitle is ${(d.seoTitle ?? d.title).length} characters (max 65)`);
   const desc = (d.description ?? '').trim();
   if (desc.length < 110 || desc.length > 170) err(`description is ${desc.length} characters (aim for 140-160)`);

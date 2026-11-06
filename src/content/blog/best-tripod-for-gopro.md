@@ -1,6 +1,6 @@
 ---
-title: 'Best Tripod for GoPro (2026) – 5 Pocket, Grip and Flexible Picks'
-seoTitle: Best Tripod for GoPro (2026) – 5 Picks From 4.6 to 22 in
+title: 'Best Tripod for GoPro – 5 Pocket, Grip and Flexible Picks'
+seoTitle: Best Tripod for GoPro – 5 Picks From 4.6 to 22 in
 description: >-
   The best tripod for GoPro is the Shorty for most people; the 3-Way 2.0, Volta,
   MAX Grip + Tripod and SquidGrip cover reach, battery and grip. Mounts

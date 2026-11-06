@@ -1,6 +1,6 @@
 ---
-title: Beste statief voor Nikon Zf (2026) – 5 modellen, ook voor pixel shift
-seoTitle: Beste statief voor Nikon Zf (2026) – 5 modellen vergeleken
+title: Beste statief voor Nikon Zf – 5 modellen, ook voor pixel shift
+seoTitle: Beste statief voor Nikon Zf – 5 modellen vergeleken
 description: >-
   Het beste statief voor Nikon Zf bezitters: 5 modellen afgestemd op de body van
   710 g en de 24-70 f/4, met hoogte zonder middenkolom, pakmaat en pixel shift.
