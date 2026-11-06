@@ -958,12 +958,14 @@
     {
       "slug": "landscape-photography-tripod",
       "find": "My reading: keep the column down and treat it as a mirrorless tripod.",
-      "replace": "My reading: keep the column down and treat it as a mirrorless tripod; for windy coasts, see our [tripods for long exposure](/blog/best-tripod-for-long-exposure/)."
+      "replace": "My reading: keep the column down and treat it as a mirrorless tripod; for windy coasts, see our [tripods for long exposure](/blog/best-tripod-for-long-exposure/).",
+      "appliedAt": "2026-11-06T15:24:06.524Z"
     },
     {
       "slug": "how-to-stop-tripod-shake-in-wind",
       "find": "The center-column hook is the usual anchor, but light tripods may lack room; one dpreview poster found \"there is extremely little room to hang my camera backpack from the hook for stability.\"",
-      "replace": "The center-column hook is the usual anchor, but light tripods may lack room (one reason heavier [long exposure tripods](/blog/best-tripod-for-long-exposure/) help); one dpreview poster found \"there is extremely little room to hang my camera backpack from the hook for stability.\""
+      "replace": "The center-column hook is the usual anchor, but light tripods may lack room (one reason heavier [long exposure tripods](/blog/best-tripod-for-long-exposure/) help); one dpreview poster found \"there is extremely little room to hang my camera backpack from the hook for stability.\"",
+      "appliedAt": "2026-11-06T15:24:07.375Z"
     }
   ],
   "textrazor": {

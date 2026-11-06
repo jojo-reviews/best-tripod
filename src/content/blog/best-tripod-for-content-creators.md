@@ -434,7 +434,7 @@ TechGearLab found it solid but notes the legs take practice to set stable and th
 
 ### Neewer RL-18 Ring Light 18inch Kit: best ring light tripod stand for talking heads
 
-The Neewer RL-18 Ring Light 18inch Kit is an LED ring light on a tripod light stand from Neewer, built for creators who film beauty, tutorials or talking heads in one room. Neewer lists a [light stand that reaches 61 in](https://neewer.com/products/led-ring-lights-66600024) with an 18 in ring light, a holder for phones 2.6 to 3.7 in wide and a 1/4 in ball head adapter. The phone sits in the ring, so the light hits your face evenly.
+The Neewer RL-18 Ring Light 18inch Kit is an LED ring light on a tripod light stand from Neewer, built for creators who film beauty, tutorials or talking heads in one room. Neewer lists a [light stand that reaches 61 in](https://neewer.com/products/led-ring-lights-66600024) with an 18 in ring light, a holder for phones 2.6 to 3.7 in wide and a 1/4 in ball head adapter. The phone sits in the ring, so the light hits your face evenly; my [ring light tripods for iPhone](/blog/best-tripod-with-ring-light-for-iphone/) compare it with cheaper 10 in kits.
 
 TechGearLab names it best for a home studio but calls first assembly taxing and the unit big enough to take over a small room. StreamTechReviews found the light bright and the stand sturdy in wind, but disliked clip-on filters that sit unevenly and a dimmer knob without markings.
 

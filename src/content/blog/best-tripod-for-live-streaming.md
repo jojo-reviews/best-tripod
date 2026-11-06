@@ -600,7 +600,7 @@ The [K&F Concept 64 inch](amzn:K%26F+Concept+64+inch+aluminum+travel+camera+trip
 5. Lock every knob, then hang your bag from the hook if the tripod has one.
 6. Start a private test stream in OBS or your app and watch for drift for a minute before going live.
 
-The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens.
+The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens, or pick one of my [tripods with a ring light](/blog/best-tripod-with-ring-light-for-iphone/).
 
 If you pan or tilt during the stream, the tripod head matters most: a fluid head with counterbalance moves more smoothly than a ball head. Our [fluid head video tripod guide](/blog/best-video-tripod-with-fluid-head-for-beginners/) covers those kits.
 

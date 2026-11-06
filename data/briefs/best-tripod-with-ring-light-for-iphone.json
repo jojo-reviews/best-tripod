@@ -652,12 +652,14 @@
     {
       "slug": "best-tripod-for-content-creators",
       "find": "The phone sits in the ring, so the light hits your face evenly.",
-      "replace": "The phone sits in the ring, so the light hits your face evenly; my [ring light tripods for iPhone](/blog/best-tripod-with-ring-light-for-iphone/) compare it with cheaper 10 in kits."
+      "replace": "The phone sits in the ring, so the light hits your face evenly; my [ring light tripods for iPhone](/blog/best-tripod-with-ring-light-for-iphone/) compare it with cheaper 10 in kits.",
+      "appliedAt": "2026-11-06T15:24:04.764Z"
     },
     {
       "slug": "best-tripod-for-live-streaming",
       "find": "The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens.",
-      "replace": "The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens, or pick one of my [tripods with a ring light](/blog/best-tripod-with-ring-light-for-iphone/)."
+      "replace": "The same steps work for a webcam on a mini tripod; put a ring light behind the tripod, not beside the lens, or pick one of my [tripods with a ring light](/blog/best-tripod-with-ring-light-for-iphone/).",
+      "appliedAt": "2026-11-06T15:24:05.551Z"
     }
   ],
   "textrazor": {

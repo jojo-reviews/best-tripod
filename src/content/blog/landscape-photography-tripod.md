@@ -568,7 +568,7 @@ Owners on the maker page like the fast set-up and compact pack. One wrote that i
 
 The Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head) is a 4-section aluminum travel tripod kit from Manfrotto with flip locks and a 494 ball head. The [Manfrotto spec page](https://www.manfrotto.com/global-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/) lists 3.51 lb with the head, 15.75 in folded, 50.39 in with the column down and a 19.84 lb safety payload. Three leg angles (22, 54 and 89 degrees) help on a slope or a boulder field. Manfrotto says the 200PL PRO plate fits both RC2 and Arca-Swiss style clamps.
 
-Tim Shields recommends it for travel but notes it is not as sturdy as heavier tripods with heavy lens combinations. Trevor Sherwin was given a free carbon twist-lock unit, not this aluminum lever version. He found long exposures sharp in strong wind with the column retracted and soft with it raised. He also felt the rubber feet twist easily. My reading: keep the column down and treat it as a mirrorless tripod.
+Tim Shields recommends it for travel but notes it is not as sturdy as heavier tripods with heavy lens combinations. Trevor Sherwin was given a free carbon twist-lock unit, not this aluminum lever version. He found long exposures sharp in strong wind with the column retracted and soft with it raised. He also felt the rubber feet twist easily. My reading: keep the column down and treat it as a mirrorless tripod; for windy coasts, see our [tripods for long exposure](/blog/best-tripod-for-long-exposure/).
 
 ### Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head: best full-size value
 

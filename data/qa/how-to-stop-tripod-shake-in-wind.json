@@ -1,10 +1,10 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-11-06T11:45:08.436Z",
+  "checkedAt": "2026-11-06T15:24:07.355Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 852 words, over the 834 limit (top results average 725): cut repetition and filler",
+    "LIVE POST, FIX: body has 859 words, over the 834 limit (top results average 725): cut repetition and filler",
     "illustration \"A tripod set low with its center column \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A stone-filled bag on the ground tied ta\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A photographer shielding a tripod from t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -16,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-timelapse, no claim changed",
-    "at": "2026-11-04T16:25:09.497Z",
-    "hash": "ca3b5bb1c99c0ad7"
+    "notes": "added one internal link to best-tripod-for-long-exposure, no claim changed",
+    "at": "2026-11-06T15:24:06.871Z",
+    "hash": "8e32117f0ca670d2"
   }
 }
