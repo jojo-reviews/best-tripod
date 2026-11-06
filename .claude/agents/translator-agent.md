@@ -48,3 +48,4 @@ Products: exactly the English products, same order, same `asin`. Never add, drop
 Return: the file path, the id `<lang>/<localized-slug>`, the localized title and keyword, and anything from the English post you dropped or kept as US-specific.
 
 - Media and numbers: copy `illustrations` from the English post (same order, `prompt`, `afterHeading`, `src`, `width`, `height`; translate only `alt`) and `videos` unchanged (same `id`, `afterHeading`), and keep every number link on the same number and URL (convert units in the text, keep the link).
+- Owner rule 2026-11-06 ("yar please title ma 2026 add karna band karo"; replaces any earlier year-in-title advice): never put a year (2026 or any other) in `title` or `seoTitle` of a new post, translation or updated post. Use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year in either field for posts going live from 2026-11-06.

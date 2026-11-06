@@ -431,3 +431,6 @@ DJI, GoPro, Insta360 and other current or popular models), alongside the other t
 a cannibalization check against the live model posts, and its own angle so posts don't share the same picks and text
 (the model's weight with its usual lens, plate/mount, video vs stills, flip screen, size class); see patent note
 2026-11-05 (US8108412B2) on near-duplicate pages.
+
+## No year in titles (owner rule 2026-11-06)
+- Owner rule 2026-11-06 ("yar please title ma 2026 add karna band karo"; replaces any earlier year-in-title advice): never put a year (2026 or any other) in `title` or `seoTitle` of a new post, translation or updated post. Use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year in either field for posts going live from 2026-11-06.

@@ -186,7 +186,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   // --- Content and required fields
   if (!d.title) err('missing title');
   // Click-worthy titles: new posts carry a year or a number (picks, tips, steps) and fit in the SERP.
-  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01') && !/\b(20\d\d|\d+)\b/.test(d.seoTitle ?? d.title ?? '')) err('seoTitle needs a year or a number (e.g. "(2026)", "7 Picks", "12 Tips") to earn the click');
+  if (pub >= Date.parse(SITE.qa?.voiceRequiredFrom ?? '2100-01-01') && !/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 Picks", "12 Tips") to earn the click; no year (owner rule 2026-11-06)');
+  // Owner rule 2026-11-06 ("title ma 2026 add karna band karo"): no year in title or seoTitle of posts going live from now on.
+  if (pub >= Date.parse('2026-11-06T00:00:00Z')) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year; owner rule 2026-11-06: never put the year in titles`);
   if ((d.seoTitle ?? d.title ?? '').length > 65) err(`seoTitle is ${(d.seoTitle ?? d.title).length} characters (max 65)`);
   const desc = (d.description ?? '').trim();
   if (desc.length < 110 || desc.length > 170) err(`description is ${desc.length} characters (aim for 140-160)`);
@@ -566,7 +568,8 @@ export async function qaTranslation(post, { posts = listPosts(), translations = 
 
   // --- Content and required fields (same limits as English)
   if (!d.title) err('missing title');
-  if (!/\b(20\d\d|\d+)\b/.test(d.seoTitle ?? d.title ?? '')) err('seoTitle needs a year or a number (e.g. "(2026)", "7 ...") to earn the click');
+  if (!/\b\d+\b/.test(String(d.seoTitle ?? d.title ?? '').replace(/\b20\d\d\b/g, ''))) err('seoTitle needs a number (e.g. "7 ...") to earn the click; no year (owner rule 2026-11-06)');
+  if (Date.parse(d.pubDate ?? 0) >= Date.parse('2026-11-06T00:00:00Z')) for (const k of ['title', 'seoTitle']) if (/\b20\d\d\b/.test(String(d[k] ?? ''))) err(`${k} contains a year; owner rule 2026-11-06: never put the year in titles`);
   if ((d.seoTitle ?? d.title ?? '').length > 65) err(`seoTitle is ${(d.seoTitle ?? d.title).length} characters (max 65)`);
   const desc = (d.description ?? '').trim();
   if (desc.length < 110 || desc.length > 170) err(`description is ${desc.length} characters (aim for 140-160)`);

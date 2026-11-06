@@ -1,6 +1,6 @@
 ---
 title: Best Tripod With Ring Light for iPhone – 5 Picks That Fit a Pro Max
-seoTitle: Best Tripod With Ring Light for iPhone (2026) – 5 Picks
+seoTitle: Best Tripod With Ring Light for iPhone – 5 Picks
 description: >-
   The best tripod with ring light for iPhone holds a Pro Max in its case at face
   height. Compare 5 kits on stand height, holder width, power and ring size.

@@ -1,6 +1,6 @@
 ---
-title: Best Tripod for Long Exposure (2026) – 5 Picks That Stay Still in Wind
-seoTitle: Best Tripod for Long Exposure (2026) – 5 Wind-Steady Picks
+title: Best Tripod for Long Exposure – 5 Picks That Stay Still in Wind
+seoTitle: Best Tripod for Long Exposure – 5 Wind-Steady Picks
 description: >-
   The best tripod for long exposure stays still in wind with the column down. 5
   picks compared on mass, load headroom and height, from heavy aluminum to
