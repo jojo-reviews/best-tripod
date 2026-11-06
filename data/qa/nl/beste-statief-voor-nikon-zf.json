@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-04T18:16:11.117Z",
+  "checkedAt": "2026-11-06T11:02:55.463Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.nikonusa.com/p/z-fc/1671/overview)",
     "internal link to the English post /blog/best-tripod-for-nikon-z8/; link the nl version once it exists",
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the nl version once it exists",
     "illustration \"Handen klemmen de gripplaat van een syst\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

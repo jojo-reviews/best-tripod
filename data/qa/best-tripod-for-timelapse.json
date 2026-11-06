@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-timelapse",
   "pass": true,
-  "checkedAt": "2026-11-04T18:07:34.232Z",
+  "checkedAt": "2026-11-06T10:53:32.577Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -17,6 +17,7 @@
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
     "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
     "source didn't respond normally (403): https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+    "source didn't respond normally (no response): https://www.packhacker.com/blog/general/best-travel-tripod/",
     "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/oyywz0/phone_timelapse_tripod_recommendations/",
     "source didn't respond normally (403): https://www.reddit.com/r/timelapse/comments/z92y5z/first_ever_proper_attempt_feedback_and_advice/",
     "source didn't respond normally (403): https://www.reddit.com/r/SonyAlpha/comments/1q612s1/turn_off_ibis_on_tripod/",

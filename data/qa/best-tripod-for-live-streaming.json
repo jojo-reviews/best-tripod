@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-live-streaming",
   "pass": true,
-  "checkedAt": "2026-11-05T22:18:08.332Z",
+  "checkedAt": "2026-11-06T10:51:07.305Z",
   "errors": [],
   "warnings": [
     "product \"UBeesize 67 inch Camera Tripod with Travel Bag\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -18,6 +18,7 @@
     "source didn't respond normally (403): https://www.newegg.com/ubeesize-tbc001/p/0FY-00XH-00138",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1396406-REG/joby_jb01533_gorillapod_mobile_rig.html",
     "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (no response): https://www.packhacker.com/travel-gear/kf-concept/64-camera-tripod/",
     "source didn't respond normally (403): https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/"
   ],
   "factCheck": {
