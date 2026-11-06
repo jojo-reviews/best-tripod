@@ -397,6 +397,8 @@ sources:
   - title: 'Leofoto: LS-224C X Ranger tripod and ball head set'
     url: >-
       https://leofotooutdoors.com/products/leofoto-ls-224cx-ranger-series-tripod-ballhead-set
+  - title: Nikon USA Z fc overview (weight)
+    url: 'https://www.nikonusa.com/p/z-fc/1671/overview'
   - title: 'B&H: JOBY GorillaPod 3K Kit'
     url: >-
       https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html
@@ -405,7 +407,8 @@ sources:
   - title: 'Scott Tucker: must-have accessories for the Nikon Zf'
     url: >-
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-06'
+updatedDate: '2026-11-06T12:00:00.000Z'
 author: editorial-team
 faqs:
   - q: What is the best tripod for a Nikon Zf?
@@ -434,6 +437,17 @@ faqs:
       The GorillaPod 3K is rated to 3 kg, enough for a Zf with the 40mm SE or a
       small prime. DPReview members find it less stable with heavier kit, so use
       a full tripod for the 24-70mm or a macro lens.
+  - q: Carbon fiber or aluminum tripod for a Nikon Zf?
+    a: >-
+      Aluminum is enough for a Nikon Zf, because even a Zf with the 24-70mm f/4
+      S uses a fraction of the aluminum Peak Design's 20 lb rating. Carbon fiber
+      saves weight: the carbon SmallRig AP-10 is 2.6 lb against 3.44 lb for the
+      aluminum Peak Design with its head.
+  - q: Will these tripods work for a Nikon Z fc?
+    a: >-
+      Yes, every tripod here carries a Nikon Z fc, which Nikon USA lists at 390
+      g body only, lighter than the 710 g Zf. Zf grips do not fit the Z fc, so
+      use the tripod's own quick release plate or a grip made for the Z fc.
 illustrations:
   - prompt: >-
       Close-up of hands sliding a retro-styled silver and black mirrorless
@@ -443,6 +457,7 @@ illustrations:
     alt: >-
       Hands locking a mirrorless camera's grip plate into a tripod ball head
       clamp
+    caption: Lock the grip's Arca base fully before you let go.
     afterHeading: 6
   - prompt: >-
       A small retro-styled mirrorless camera on a short flexible mini tripod
@@ -450,6 +465,7 @@ illustrations:
       pressing the camera forward to check it does not tip, overcast morning
       light, shallow depth of field, no logos, no text, no faces.
     alt: Hand testing whether a camera on a mini tripod tips forward on a railing
+    caption: Push the camera forward to check a mini tripod won't tip.
     afterHeading: 7
 videos:
   - id: _Vd9y_Nzoqw
@@ -465,31 +481,29 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-Blue hour on a city bridge, a Nikon Zf with the 24-70mm f/4, and a 2-second exposure you can't hold by hand. The best tripod for Nikon Zf owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot long exposures in wind, I'd pick a columnless [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod). I matched five tripods to the Zf and its usual lenses from maker specs and Zf owner threads. We have not used these tripods ourselves.
+Blue hour on a city bridge, a Nikon Zf with the 24-70mm f/4, and a 2-second exposure you can't hold by hand. The best tripod for Nikon Zf owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot long exposures in wind, I'd pick a columnless [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod). I matched five tripods to the Zf and its lenses from maker specs and Zf owner threads; we have not used them ourselves.
 
 ## Nikon Zf tripod picks compared on height, fold and load
 
 **A Zf tripod needs legs that reach a useful height with the column down and an Arca-type clamp; load capacity is never the limit.** If you also shoot a heavier Nikon body, see our [tripods for the Nikon Z8](/blog/best-tripod-for-nikon-z8/).
 
-The five on the numbers that decide it:
-
-| Tripod | Weight | Folded | Height, no column | Rated load |
-|---|---|---|---|---|
-| Peak Design Travel (Aluminum) | 3.44 lb | 15.5 in | 51.25 in (column down) | 20 lb |
-| SmallRig AP-10 | 2.6 lb | 21.1 in | 52.4 in | 26.5 lb |
-| Leofoto LS-284CX + LH-30 | 3.2 lb | 22 in | about 50 in | 22 lb |
-| Leofoto LS-224CX + LH-25 | 1.98 lb | 18.62 in | 44.88 in | 13.23 lb |
-| JOBY GorillaPod 3K Kit | 8.7 oz | 9 in | about 12 in | 6.6 lb |
+| Tripod | Material | Weight | Folded | Height, no column | Rated load |
+|---|---|---|---|---|---|
+| Peak Design Travel (Aluminum) | Aluminum | 3.44 lb | 15.5 in | 51.25 in (column down) | 20 lb |
+| SmallRig AP-10 | Carbon fiber | 2.6 lb | 21.1 in | 52.4 in | 26.5 lb |
+| Leofoto LS-284CX + LH-30 | Carbon fiber | 3.2 lb | 22 in | about 50 in | 22 lb |
+| Leofoto LS-224CX + LH-25 | Carbon fiber | 1.98 lb | 18.62 in | 44.88 in | 13.23 lb |
+| JOBY GorillaPod 3K Kit | Plastic | 8.7 oz | 9 in | about 12 in | 6.6 lb |
 
 ## How I picked these Nikon Zf tripods
 
-**I kept only tripods that at least two top-ranking pages for this search or close variants recommend, each with an in-stock Amazon US listing.** Those pages were three DPReview and FredMiranda Zf threads, r/NikonZf and r/Nikon threads, a CameraEgg Nikon Z thread, Camera Decision and Pack Hacker. Benro, Sirui and Slik came up, but no model was named twice.
+**I kept only tripods that at least two top-ranking pages for this search or close variants recommend, each with an in-stock Amazon US listing.** They were DPReview and FredMiranda Zf threads, r/NikonZf and r/Nikon, a CameraEgg Nikon Z thread, Camera Decision and Pack Hacker. Benro, Sirui and Slik came up, but no model was named twice.
 
-> **From our notes:** The 710 g on Nikon's Zf spec sheet changed how I ranked this list. Zf threads ask for something light, then worry about stability, so I expected the light picks to be a compromise. Then I added it up: a Zf with the 24-70mm f/4 S is about 1,210 g, and even the 1.98 lb LS-224CX is rated to five times that. The real limits are height without the column and wind, which is why two columnless tripods made the cut.
+> **From our notes:** The 710 g on Nikon's Zf spec sheet changed how I ranked this list. I expected the light picks to be a compromise, then added it up: a Zf with the 24-70mm f/4 S is about 1,210 g, and even the 1.98 lb LS-224CX is rated to five times that. The real limits are height without the column and wind, which is why two columnless tripods made the cut.
 
 ## The 5 best tripods for the Nikon Zf, reviewed
 
-**Each tripod for the Nikon Zf here suits a different trip, so start from where you shoot most.**
+**The Peak Design Travel Tripod (Aluminum) is the Nikon Zf tripod I'd start with; the other four solve wind, weight and tabletop shots.**
 
 ### Peak Design Travel Tripod (Aluminum): best travel tripod for the Zf
 
@@ -501,7 +515,7 @@ The SmallRig AP-10 Carbon Fiber Tripod is a four-section carbon fiber tripod fro
 
 ### Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head: best Zf tripod for wind and long exposures
 
-The Leofoto LS-284CX Ranger is a columnless four-section carbon fiber tripod from Leofoto, sold with the Arca-type LH-30 ball head, and the [LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) is my pick for ND filters and night work. It is the current version of the LS-284C that a DPReview Zf thread and a CameraEgg Nikon Z thread recommend; one poster calls it his favorite of 3-4 travel tripods owned. B&H lists 3.2 lb, a 22 lb rating and twist locks. Lonely Speck measured [50 in (127 cm) with the head and no column](https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/), so you'll tilt the Zf's screen; the included column adds up to 12.5 in when you need it.
+The Leofoto LS-284CX Ranger is a columnless four-section carbon fiber tripod from Leofoto, sold with the Arca-type LH-30 ball head, and the [LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) is my pick for ND filters and night work. It is the current version of the LS-284C that a DPReview Zf thread and a CameraEgg Nikon Z thread recommend. B&H lists 3.2 lb, a 22 lb rating and twist locks. Lonely Speck measured [50 in (127 cm) with the head and no column](https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/), so you'll tilt the Zf's screen; the included column adds up to 12.5 in when you need it.
 
 ### Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head: lightest full tripod for the Zf
 
@@ -509,7 +523,7 @@ The Leofoto LS-224CX Ranger is a four-section carbon fiber tripod from Leofoto, 
 
 ### JOBY GorillaPod 3K Kit: best mini tripod for the Zf
 
-The JOBY GorillaPod 3K Kit is a flexible mini tripod from JOBY with a ball head, and the [GorillaPod 3K](amzn:Joby+GorillaPod+3K+Kit+ballhead) is rated to 3 kg, more than three times a Zf with the 40mm SE. B&H lists 8.7 oz, a 9 in fold and a head with 360 degree pan, 90 degree tilt and a bubble level. A FredMiranda reply says it should work for a Zf with a light lens but is marginal with a macro lens, and DPReview members find it less stable with heavier kit. I'd pack it for self-timer shots from railings; for the 24-70mm, see our [tabletop camera tripods](/blog/best-tabletop-camera-tripod/).
+The JOBY GorillaPod 3K Kit is a flexible mini tripod from JOBY with a ball head, and the [GorillaPod 3K](amzn:Joby+GorillaPod+3K+Kit+ballhead) is rated to 3 kg, more than three times a Zf with the 40mm SE. B&H lists 8.7 oz, a 9 in fold and a head with 360 degree pan, 90 degree tilt and a bubble level. A FredMiranda reply says it should carry a Zf with a light lens; DPReview members find it less stable with heavier kit. I'd pack it for self-timer shots from railings; for the 24-70mm, see our [tabletop camera tripods](/blog/best-tabletop-camera-tripod/).
 
 ## Which tripod should you get for your Nikon Zf?
 
@@ -525,19 +539,15 @@ The JOBY GorillaPod 3K Kit is a flexible mini tripod from JOBY with a ball head,
 
 **Nikon lists the Zf at [about 710 g with battery and card](https://onlinemanual.nikonimglib.com/zf/en/specifications_350.html), so the lens decides the load.** Add the NIKKOR Z 40mm f/2 SE (about 170 g) for 880 g, or the NIKKOR Z 24-70mm f/4 S (about 500 g) for about 1,210 g (2.67 lb). These Nikon Z mount lenses have no tripod foot, so the Zf's 1/4 in socket carries it all.
 
-Headroom each rating gives a Zf with the 24-70mm f/4 S:
+With the 24-70mm f/4 S, that is about 9.9 times headroom on the AP-10 (12 kg), 8.3 on the LS-284CX, 7.5 on the Peak Design, 5 on the LS-224CX and only 2.5 on the GorillaPod 3K, so keep the mini for light primes.
 
-- SmallRig AP-10 (12 kg): about 9.9 times.
-- Leofoto LS-284CX (10 kg): about 8.3 times.
-- Peak Design Aluminum (9.1 kg): about 7.5 times.
-- Leofoto LS-224CX (6 kg): about 5 times.
-- GorillaPod 3K (3 kg): about 2.5 times, so keep it for light primes.
+By maker ratings, the GorillaPod sits in Amazon's 5 to 10 lbs Load Capacity filter, the LS-224CX in 10 to 15 lbs and the other three in Above 15 lbs.
 
-Height without the column matters more: 52.4 in (AP-10), 51.25 in (Peak Design), about 50 in (LS-284CX) and 44.88 in (LS-224CX). The Zf's vari-angle screen lets you compose from chest height, and our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains why leaving the column down is the easiest stability gain.
+Height without the column matters more: 52.4 in (AP-10), 51.25 in (Peak Design), about 50 in (LS-284CX) and 44.88 in (LS-224CX). Amazon's Maximum Height filter counts a raised column, so the Peak Design (60 in) lands in 50 to 64 in and the LS-284CX (67.7 in with its column) in 65 in & above. The Zf's vari-angle screen lets you compose from chest height, and our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) explains why leaving the column down is the easiest stability gain.
 
 ## How to set up a Zf on a tripod for pixel shift and long exposures
 
-**Nikon's pixel-shift shooting combines 4 to 32 RAW files into one image of [up to 96 megapixels](https://www.nikonusa.com/p/z-f/1761/overview), so the camera must not move between frames.** The video below explains the menu.
+**Nikon's pixel-shift shooting combines 4 to 32 RAW files into one image of [up to 96 megapixels](https://www.nikonusa.com/p/z-f/1761/overview), so the camera must not move between frames.** The video in this section explains the menu.
 
 1. Swap or format cards first: the Zf's SD card and microSD slots sit in the battery compartment, which a plate covers.
 2. Mount the Zf by a grip extension with an Arca base or a quick release plate, and tighten the clamp fully.
@@ -551,10 +561,10 @@ The same routine works for any long exposure and for focus stacking with the Zf'
 
 **Most Zf tripod complaints come from wind, the battery door and minis, not weight.**
 
-- **Wind on light travel legs.** A CameraEgg Nikon Z owner learned the hard way: "Center columns are usually the weakest link in high wind." Keep the column down to cut vibration, or pick the AP-10 or LS-284CX.
+- **Wind on light travel legs.** A CameraEgg Nikon Z owner: "Center columns are usually the weakest link in high wind." Keep the column down to cut vibration, or pick the AP-10 or LS-284CX.
 - **Battery and cards blocked on the tripod.** DPReview's Zf review lists it as a con: "Cards in battery compartment are inaccessible when on a tripod." Scott Tucker uses a SmallRig grip with a cutout near the battery door; otherwise swap cards before you mount.
 - **Mini tripods tipping forward.** In a DPReview Zf thread, a member warns: "Quite a few tripods would support that combination, but would topple forward very easily." Push the camera forward in the store before you buy.
 - **A GorillaPod that won't level.** "The Gorillapod is marginal if you use the Zf with a macro lens," says a FredMiranda reply. Level with the ball head, not the legs.
-- **Will my grip fit the clamp?** Arca-base Zf grips fit every full-size pick; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the standard.
+- **Grip fit.** Arca-base Zf grips fit every full-size pick; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the standard.
 
 For that blue-hour bridge, I'd carry the Peak Design, and the AP-10 when it's windy. Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) compare 15 more.

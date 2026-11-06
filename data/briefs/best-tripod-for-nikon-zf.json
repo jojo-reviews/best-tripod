@@ -12,15 +12,15 @@
       "name": "Nikon Zf",
       "type": "Product",
       "relation": "the camera the tripod must carry (710 g with battery and card)",
-      "salience": 0.91,
-      "pages": 2
+      "salience": 0.93,
+      "pages": 3
     },
     {
       "name": "tripod",
       "type": "Product",
       "relation": "central product type",
       "salience": 0.62,
-      "pages": 2
+      "pages": 3
     },
     {
       "name": "Nikon Z mount",
@@ -34,7 +34,7 @@
       "type": "Company",
       "relation": "maker of the AP-10 tripod and the Zf grip with an Arca base",
       "salience": 0.73,
-      "pages": 2
+      "pages": 3
     },
     {
       "name": "Leofoto",
@@ -48,14 +48,14 @@
       "type": "Concept",
       "relation": "generic",
       "salience": 0.81,
-      "pages": 2
+      "pages": 3
     },
     {
       "name": "Nikon",
       "type": "Company",
       "relation": "camera maker",
       "salience": 0.6,
-      "pages": 3
+      "pages": 4
     },
     {
       "name": "Arca-Swiss plate",
@@ -104,6 +104,20 @@
       "type": "Product",
       "relation": "flexible mini tripod Zf owners ask about",
       "salience": 0.45
+    },
+    {
+      "name": "SD card",
+      "type": "Media format",
+      "relation": "Zf's SD and microSD slots sit in the battery compartment, blocked by a tripod plate",
+      "salience": 0.51,
+      "pages": 3
+    },
+    {
+      "name": "Nikon Z fc",
+      "type": "Product",
+      "relation": "sister retro body (390 g body only, Nikon USA) from the Google autocomplete modifier 'zfc'",
+      "salience": 0.0,
+      "source": "google-suggest"
     }
   ],
   "attributes": [
@@ -115,7 +129,10 @@
     "Arca-type plate",
     "leg sections",
     "minimum height for macro",
-    "head type (ball head with pan lock)"
+    "head type (ball head with pan lock)",
+    "material (aluminum, carbon fiber, plastic)",
+    "maximum height band (Amazon: up to 39 in, 40 to 49 in, 50 to 64 in, 65 in & above)",
+    "load capacity band (Amazon: up to 5 lbs, 5 to 10 lbs, 10 to 15 lbs, above 15 lbs)"
   ],
   "ngrams": [
     "travel tripod",
@@ -152,7 +169,10 @@
     "carry-on",
     "low angle",
     "tabletop",
-    "tipping forward"
+    "tipping forward",
+    "aluminum",
+    "plastic",
+    "maximum height"
   ],
   "questions": [
     "What is the best tripod for a Nikon Zf?",
@@ -487,8 +507,25 @@
   ],
   "angle": "Match the tripod to the Zf kit you carry (40mm SE, 24-70 f/4, macro), plus the Zf-specific quirks: pixel shift, the battery door in the base and Arca grips.",
   "textrazor": {
-    "pagesAnalyzed": 3,
-    "note": "DPReview and FredMiranda blocked TextRazor fetch (Cloudflare); entities from the other pages."
+    "date": "2026-11-06",
+    "pagesAnalyzed": 4,
+    "pages": [
+      "https://thecotswoldphotographer.com/best-accessories-for-the-nikon-zf/",
+      "https://forum.cameraegg.org/nikon-forum/what-are-the-must-have-tripods-for-nikon-z-series-photographers-34130/",
+      "https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf",
+      "https://www.kieranhayesphotography.com/best-nikon-zf-accessories/"
+    ],
+    "blocked": [
+      "reddit.com r/NikonZf (#1)",
+      "dpreview.com (#3, Cloudflare)",
+      "fredmiranda.com (#7, Cloudflare)",
+      "facebook.com group (#4, not fetched)"
+    ],
+    "ignored": [
+      "Sandisk",
+      "Artificial leather"
+    ],
+    "note": "Top 5 US results 2026-11-06: r/NikonZf, Cotswold Photographer, DPReview, Facebook group, CameraEgg; blocked ones replaced by results #9 and #10."
   },
   "painPoints": [
     {
@@ -564,5 +601,159 @@
       ],
       "quotes": []
     }
-  ]
+  ],
+  "googleModifiers": {
+    "date": "2026-11-06",
+    "source": "data/briefs/best-tripod-for-nikon-zf.suggest.json (Google autocomplete, US)",
+    "used": [
+      {
+        "modifier": "zfc",
+        "where": "FAQ 'Will these tripods work for a Nikon Z fc?'"
+      },
+      {
+        "modifier": "z8",
+        "where": "existing internal link to the Nikon Z8 tripod post (first H2)"
+      },
+      {
+        "modifier": "travel (best travel tripod for nikon ...)",
+        "where": "existing H3/badge 'best travel tripod for the Zf' and travel-tripod link"
+      }
+    ],
+    "skipped": [
+      {
+        "modifier": "z6iii, z6 ii, z6 iii, z50ii, z50 ii, z5ii, d850, d750, d7500, d5600, d3500, d3300, d3200, d5100, d3100, dslr, p1100, coolpix p1100, p1000, coolpix p1000, p950, coolpix p950, p900",
+        "reason": "other camera models, separate search intent (own posts or keyword queue), not the Zf"
+      },
+      {
+        "modifier": "200 500mm lens",
+        "reason": "a 2.3 kg telephoto with its own foot; not a Zf kit lens"
+      },
+      {
+        "modifier": "camera",
+        "reason": "generic"
+      }
+    ]
+  },
+  "amazonFilters": {
+    "date": "2026-11-06",
+    "url": "https://www.amazon.com/s?k=tripod+for+nikon+zf",
+    "source": "Firecrawl json scrape, location US, maxAge 0",
+    "groups": [
+      {
+        "group": "Department",
+        "options": [
+          "Camera",
+          "Lenses",
+          "Tripods",
+          "Filters"
+        ]
+      },
+      {
+        "group": "Brand",
+        "options": [
+          "Neewer",
+          "K&F Concept",
+          "Amazon Basics",
+          "ZIKZOK"
+        ]
+      },
+      {
+        "group": "Material",
+        "options": [
+          "Aluminum",
+          "Carbon Fiber",
+          "Plastic"
+        ]
+      },
+      {
+        "group": "Maximum Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Load Capacity",
+        "options": [
+          "Up to 5 lbs",
+          "5 to 10 lbs",
+          "10 to 15 lbs",
+          "Above 15 lbs"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "$9–$100",
+          "$100–$200",
+          "$200–$300",
+          "$300 and above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up"
+        ]
+      },
+      {
+        "group": "Delivery",
+        "options": [
+          "Get It Today",
+          "Get It by Tomorrow"
+        ]
+      },
+      {
+        "group": "Deals",
+        "options": [
+          "All Discounts",
+          "Coupons",
+          "Today's Deals"
+        ]
+      }
+    ],
+    "used": [
+      {
+        "group": "Material",
+        "where": "comparison table column 'Material' + FAQ 'Carbon fiber or aluminum tripod for a Nikon Zf?'"
+      },
+      {
+        "group": "Maximum Height",
+        "where": "headroom section sentence on Amazon's Maximum Height filter"
+      },
+      {
+        "group": "Load Capacity",
+        "where": "headroom section sentence on Amazon's Load Capacity filter"
+      }
+    ],
+    "skipped": [
+      {
+        "group": "Price",
+        "reason": "no prices in posts (no fabricated prices)"
+      },
+      {
+        "group": "Customer Reviews",
+        "reason": "shopping-only; no ratings claims"
+      },
+      {
+        "group": "Delivery",
+        "reason": "shopping-only chip"
+      },
+      {
+        "group": "Deals",
+        "reason": "shopping-only chip"
+      },
+      {
+        "group": "Department",
+        "reason": "navigation, not a buying attribute"
+      },
+      {
+        "group": "Brand",
+        "reason": "Neewer, K&F Concept, Amazon Basics, ZIKZOK tripods are not among the models the top-ranking Zf pages recommend, so they do not qualify as picks (Neewer is mentioned only as a Zf grip maker)"
+      }
+    ]
+  }
 }

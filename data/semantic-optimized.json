@@ -298,5 +298,9 @@
   "best-tripod-for-family-photos": {
     "at": "2026-11-05T22:12:48.858Z",
     "note": "TextRazor semantic pass 2026-11-05"
+  },
+  "best-tripod-for-nikon-zf": {
+    "at": "2026-11-06T10:44:49.758Z",
+    "note": "semantic pass + Google autocomplete/Amazon filters test (Material column, Z fc FAQ)"
   }
 }
