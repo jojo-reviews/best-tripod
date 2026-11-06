@@ -507,7 +507,7 @@ videos:
 author: editorial-team
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
-  Stativ für Plein Air Malerei (2026) – 5 Modelle für die Pochade-Box –
+  Stativ für Plein Air Malerei – 5 Modelle für die Pochade-Box –
   Kaufberatung von Best Tripod
 ---
 

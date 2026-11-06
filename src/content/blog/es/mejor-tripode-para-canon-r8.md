@@ -513,7 +513,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r8.png
 heroAlt: >-
-  Mejor trípode para Canon R8 (2026) – 5 opciones por objetivo y viento – guía
+  Mejor trípode para Canon R8 – 5 opciones por objetivo y viento – guía
   de compra de Best Tripod
 ---
 

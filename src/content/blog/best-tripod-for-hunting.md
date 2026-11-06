@@ -500,7 +500,7 @@ related:
   - best-tripod-for-camera
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
-  Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying
+  Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying
   guide
 ---
 

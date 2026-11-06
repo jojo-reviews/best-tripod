@@ -515,7 +515,7 @@ related:
   - best-travel-tripod-for-mirrorless-camera
 heroImage: /images/featured/best-tripod-for-sony-a6700.png
 heroAlt: >-
-  Best Tripod for Sony a6700 (2026) – 6 Picks Matched to Your Lens – Best Tripod
+  Best Tripod for Sony a6700 – 6 Picks Matched to Your Lens – Best Tripod
   buying guide
 ---
 

@@ -233,7 +233,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-monopod-for-hiking.png
 heroAlt: >-
-  Best Monopod for Hiking (2026) – Trekking Pole Hybrid or Carbon Pod – Best
+  Best Monopod for Hiking – Trekking Pole Hybrid or Carbon Pod – Best
   Tripod guide
 ---
 

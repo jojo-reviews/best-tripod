@@ -442,7 +442,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-laser-level.png
 heroAlt: >-
-  Best Tripod for Laser Level (2026) – 5 Picks by Thread and Height – Best
+  Best Tripod for Laser Level – 5 Picks by Thread and Height – Best
   Tripod buying guide
 related:
   - best-tripod-dolly

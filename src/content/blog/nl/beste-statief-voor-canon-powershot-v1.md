@@ -467,7 +467,7 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-powershot-v1.png
 heroAlt: >-
-  Beste statief voor Canon PowerShot V1 (2026) – 5 modellen voor 426 g – Best
+  Beste statief voor Canon PowerShot V1 – 5 modellen voor 426 g – Best
   Tripod koopgids
 ---
 

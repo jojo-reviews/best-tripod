@@ -469,7 +469,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
-  Beste statief voor Canon R50 (2026) – 5 modellen voor 375 g camera –
+  Beste statief voor Canon R50 – 5 modellen voor 375 g camera –
   Best Tripod koopgids
 ---
 

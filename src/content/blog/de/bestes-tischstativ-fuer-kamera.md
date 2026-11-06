@@ -518,7 +518,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tabletop-camera-tripod.png
 heroAlt: >-
-  Bestes Tischstativ für Kamera (2026) – 5 Modelle nach Kameragewicht – Best
+  Bestes Tischstativ für Kamera – 5 Modelle nach Kameragewicht – Best
   Tripod Kaufberatung
 ---
 

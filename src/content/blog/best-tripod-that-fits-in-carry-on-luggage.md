@@ -363,7 +363,7 @@ faqs:
       mirrorless body with a timer, not standing-height landscapes.
 heroImage: /images/featured/best-tripod-that-fits-in-carry-on-luggage.png
 heroAlt: >-
-  Best Tripod That Fits in Carry On Luggage (2026) – 3 Picks by Fold – Best
+  Best Tripod That Fits in Carry On Luggage – 3 Picks by Fold – Best
   Tripod buying guide
 related:
   - best-tripod-for-leica-q3

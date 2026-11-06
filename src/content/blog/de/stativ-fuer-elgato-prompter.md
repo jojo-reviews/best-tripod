@@ -481,7 +481,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-elgato-prompter.png
 heroAlt: >-
-  Bestes Stativ für Elgato Prompter (2026) – 5 Videostative ab 8 kg –
+  Bestes Stativ für Elgato Prompter – 5 Videostative ab 8 kg –
   Best-Tripod-Kaufberatung
 ---
 

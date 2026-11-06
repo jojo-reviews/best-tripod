@@ -447,7 +447,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-crossbow.png
 heroAlt: >-
-  Trípode para ballesta (2026) – 5 modelos con abrazadera u horquilla – Best
+  Trípode para ballesta – 5 modelos con abrazadera u horquilla – Best
   Tripod guía de compra
 ---
 

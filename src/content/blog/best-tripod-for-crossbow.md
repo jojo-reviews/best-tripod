@@ -432,7 +432,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-crossbow.png
 heroAlt: >-
-  Best Tripod for Crossbow (2026) – 5 Picks for Blinds and Stalks – Best Tripod
+  Best Tripod for Crossbow – 5 Picks for Blinds and Stalks – Best Tripod
   buying guide
 ---
 

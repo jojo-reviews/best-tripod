@@ -450,7 +450,7 @@ faqs:
       r/fujifilm advise it, and the 2-second self-timer keeps your finger from
       adding movement.
 heroAlt: >-
-  Best Tripod for Fujifilm X100VI (2026) – 5 Picks for a 521 g Camera – Best
+  Best Tripod for Fujifilm X100VI – 5 Picks for a 521 g Camera – Best
   Tripod buying guide
 illustrations:
   - prompt: >-

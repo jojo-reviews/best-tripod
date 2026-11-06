@@ -487,7 +487,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-dolly.png
 heroAlt: >-
-  Mejor dolly para trípode (2026) – 6 modelos según el tipo de pie – guía de
+  Mejor dolly para trípode – 6 modelos según el tipo de pie – guía de
   compra de Best Tripod
 ---
 

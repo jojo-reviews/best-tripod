@@ -519,7 +519,7 @@ illustrations:
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-medium-format-camera.png
 heroAlt: >-
-  Best Tripod for Medium Format Camera (2026) – 5 Picks for RB67 and GFX – Best
+  Best Tripod for Medium Format Camera – 5 Picks for RB67 and GFX – Best
   Tripod buying guide
 ---
 

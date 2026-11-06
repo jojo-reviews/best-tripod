@@ -3,9 +3,10 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-guitar-videos",
   "pass": true,
-  "checkedAt": "2026-11-06T11:47:35.765Z",
+  "checkedAt": "2026-11-06T15:47:05.330Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: sources must be the English post's URLs (added: https://www.kraftgeek.com/products/justtap-magnetic-phone-tripod; missing: https://www.digitalreviews.net/reviews/camera/kraftgeek-justtap-magnetic-phone-tripod-review/)",
     "internal link to the English post /blog/best-tripod-for-youtube-videos/; link the nl version once it exists",
     "internal link to the English post /blog/best-tripod-for-content-creators/; link the nl version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",

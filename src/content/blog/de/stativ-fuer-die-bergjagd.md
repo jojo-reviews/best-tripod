@@ -458,7 +458,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-backcountry-hunting.png
 heroAlt: >-
-  Stativ für die Bergjagd (2026) – 5 Modelle von 0,97 bis 1,6 kg – Best Tripod
+  Stativ für die Bergjagd – 5 Modelle von 0,97 bis 1,6 kg – Best Tripod
   Kaufberatung
 ---
 

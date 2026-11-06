@@ -514,7 +514,7 @@ faqs:
       een van de eerste twee.
 heroImage: /images/featured/best-tripod-for-northern-lights.png
 heroAlt: >-
-  Statief voor noorderlicht (2026) – 5 keuzes voor kou en wind – Best Tripod
+  Statief voor noorderlicht – 5 keuzes voor kou en wind – Best Tripod
   koopadvies
 ---
 

@@ -632,7 +632,7 @@ faqs:
       Design mit eingebauter Handyhalterung funktioniert; lass die Beine im Wind
       kurz und schließ für lange Handy-Zeitraffer eine Powerbank an.
 heroAlt: >-
-  Stativ für Zeitraffer (2026) – 7 Modelle, die stundenlang stillstehen – Best
+  Stativ für Zeitraffer – 7 Modelle, die stundenlang stillstehen – Best
   Tripod Kaufberatung
 illustrations:
   - prompt: >-

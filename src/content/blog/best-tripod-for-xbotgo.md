@@ -433,7 +433,7 @@ faqs:
       a tripod without that plate.
 heroImage: /images/featured/best-tripod-for-xbotgo.png
 heroAlt: >-
-  Best Tripod for XbotGo (2026) – 5 Picks for Chameleon and Falcon – Best Tripod
+  Best Tripod for XbotGo – 5 Picks for Chameleon and Falcon – Best Tripod
   buying guide
 ---
 

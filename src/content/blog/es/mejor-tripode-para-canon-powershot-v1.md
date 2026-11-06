@@ -468,7 +468,7 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-powershot-v1.png
 heroAlt: >-
-  Mejor trípode para Canon PowerShot V1 (2026) – 5 modelos para 426 g – guía
+  Mejor trípode para Canon PowerShot V1 – 5 modelos para 426 g – guía
   de compra de Best Tripod
 ---
 

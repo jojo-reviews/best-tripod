@@ -505,7 +505,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r8.png
 heroAlt: >-
-  Beste statief voor Canon R8 (2026) – 5 keuzes per lens en wind – koopgids van
+  Beste statief voor Canon R8 – 5 keuzes per lens en wind – koopgids van
   Best Tripod
 ---
 

@@ -468,7 +468,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-recording-school-plays.png
 heroAlt: >-
-  Bestes Stativ für Schulaufführungen (2026) – 5 über allen Köpfen – Best Tripod
+  Bestes Stativ für Schulaufführungen – 5 über allen Köpfen – Best Tripod
   Kaufberatung
 ---
 

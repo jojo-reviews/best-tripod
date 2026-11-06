@@ -501,7 +501,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r8.png
 heroAlt: >-
-  Bestes Stativ für Canon R8 (2026) – 5 Tipps nach Objektiv und Wind –
+  Bestes Stativ für Canon R8 – 5 Tipps nach Objektiv und Wind –
   Kaufberatung von Best Tripod
 ---
 

@@ -497,7 +497,7 @@ related:
   - nl/beste-tafelstatief-voor-camera
 heroImage: /images/featured/best-tripod-for-nikon-zf.png
 heroAlt: >-
-  Beste statief voor Nikon Zf (2026) – 5 modellen, ook voor pixel shift –
+  Beste statief voor Nikon Zf – 5 modellen, ook voor pixel shift –
   koopgids van Best Tripod
 ---
 

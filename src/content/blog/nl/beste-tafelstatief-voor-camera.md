@@ -508,7 +508,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tabletop-camera-tripod.png
 heroAlt: >-
-  Beste tafelstatief voor camera (2026) – 5 keuzes op cameragewicht – Best
+  Beste tafelstatief voor camera – 5 keuzes op cameragewicht – Best
   Tripod koopgids
 ---
 

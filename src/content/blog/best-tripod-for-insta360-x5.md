@@ -438,7 +438,7 @@ illustrations:
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-insta360-x5.png
 heroAlt: >-
-  Best Tripod for Insta360 X5 (2026) – 5 Picks, Tabletop to 6 ft – Best Tripod
+  Best Tripod for Insta360 X5 – 5 Picks, Tabletop to 6 ft – Best Tripod
   buying guide
 ---
 

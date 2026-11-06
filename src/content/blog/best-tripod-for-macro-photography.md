@@ -471,7 +471,7 @@ related:
   - best-tripod-for-astrophotography
 heroImage: /images/featured/best-tripod-for-macro-photography.png
 heroAlt: >-
-  Best Tripod for Macro Photography (2026) – 5 Picks That Get Low – Best Tripod
+  Best Tripod for Macro Photography – 5 Picks That Get Low – Best Tripod
   buying guide
 ---
 

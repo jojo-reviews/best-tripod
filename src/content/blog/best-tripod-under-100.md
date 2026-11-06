@@ -481,7 +481,7 @@ related:
   - best-tripod-for-medium-format-camera
 heroImage: /images/featured/best-tripod-under-100.png
 heroAlt: >-
-  Best Tripod Under 100 (2026) – 5 Picks Matched to Your Camera – Best Tripod
+  Best Tripod Under 100 – 5 Picks Matched to Your Camera – Best Tripod
   buying guide
 ---
 

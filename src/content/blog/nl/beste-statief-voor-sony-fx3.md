@@ -480,7 +480,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-sony-fx3.png
 heroAlt: >-
-  Beste statief voor Sony FX3 (2026) – 5 sets afgestemd op je rig – koopgids van
+  Beste statief voor Sony FX3 – 5 sets afgestemd op je rig – koopgids van
   Best Tripod
 ---
 

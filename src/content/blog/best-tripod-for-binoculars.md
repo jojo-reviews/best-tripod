@@ -417,7 +417,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-binoculars.png
 heroAlt: >-
-  Best Tripod for Binoculars (2026) – 5 Picks for Glassing and Stargazing – Best
+  Best Tripod for Binoculars – 5 Picks for Glassing and Stargazing – Best
   Tripod buying guide
 related:
   - best-tripod-for-long-exposure

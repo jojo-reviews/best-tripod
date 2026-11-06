@@ -463,7 +463,7 @@ related:
   - best-tripod-for-canon-r6-mark-ii
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
-  Best Tripod for Canon R50 (2026) – 5 Picks Sized to a 375 g Camera – Best
+  Best Tripod for Canon R50 – 5 Picks Sized to a 375 g Camera – Best
   Tripod buying guide
 ---
 

@@ -550,7 +550,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-guitar-videos.png
 heroAlt: >-
-  Statief om gitaar te filmen (2026) – 6 keuzes per camerahoek – Best Tripod
+  Statief om gitaar te filmen – 6 keuzes per camerahoek – Best Tripod
   koopgids
 ---
 

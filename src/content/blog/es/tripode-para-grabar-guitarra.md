@@ -545,7 +545,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-guitar-videos.png
 heroAlt: >-
-  Trípode para grabar guitarra (2026) – 6 opciones según el ángulo – Guía de
+  Trípode para grabar guitarra – 6 opciones según el ángulo – Guía de
   compra de Best Tripod
 ---
 

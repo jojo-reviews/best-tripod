@@ -440,7 +440,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-dji-osmo-pocket-3.png
 heroAlt: >-
-  Best Tripod for DJI Osmo Pocket 3 (2026) – 5 Picks, Desk to 81 in – Best
+  Best Tripod for DJI Osmo Pocket 3 – 5 Picks, Desk to 81 in – Best
   Tripod buying guide
 ---
 

@@ -481,7 +481,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-dolly.png
 heroAlt: >-
-  Stativ Dolly Vergleich (2026) – die 6 besten nach Stativfuß – Best Tripod
+  Stativ Dolly Vergleich – die 6 besten nach Stativfuß – Best Tripod
   Kaufberatung
 ---
 

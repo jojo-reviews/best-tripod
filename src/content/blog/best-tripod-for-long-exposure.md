@@ -482,7 +482,7 @@ faqs:
       you can choose either.
 heroImage: /images/featured/best-tripod-for-long-exposure.png
 heroAlt: >-
-  Best Tripod for Long Exposure (2026) – 5 Picks That Stay Still in Wind – Best
+  Best Tripod for Long Exposure – 5 Picks That Stay Still in Wind – Best
   Tripod buying guide
 ---
 

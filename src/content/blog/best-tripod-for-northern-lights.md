@@ -496,7 +496,7 @@ faqs:
       is harder in a thick parka, so taller shooters should favor the first two.
 heroImage: /images/featured/best-tripod-for-northern-lights.png
 heroAlt: >-
-  Best Tripod for Northern Lights (2026) – 5 Picks for Cold and Wind – Best
+  Best Tripod for Northern Lights – 5 Picks for Cold and Wind – Best
   Tripod buying guide
 ---
 

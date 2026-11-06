@@ -555,7 +555,7 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-live-streaming.png
 heroAlt: >-
-  Mejor trípode para directos (2026) – 6 para móvil y cámara – guía de compra de
+  Mejor trípode para directos – 6 para móvil y cámara – guía de compra de
   Best Tripod
 ---
 

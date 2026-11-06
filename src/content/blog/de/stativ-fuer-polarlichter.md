@@ -513,7 +513,7 @@ faqs:
       also eines der ersten beiden nehmen.
 heroImage: /images/featured/best-tripod-for-northern-lights.png
 heroAlt: >-
-  Stativ für Polarlichter (2026) – 5 Modelle für Kälte und Wind – Best Tripod
+  Stativ für Polarlichter – 5 Modelle für Kälte und Wind – Best Tripod
   Kaufberatung
 ---
 

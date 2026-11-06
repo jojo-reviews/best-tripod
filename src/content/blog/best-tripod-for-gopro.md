@@ -460,7 +460,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-gopro.png
 heroAlt: >-
-  Best Tripod for GoPro (2026) – 5 Pocket, Grip and Flexible Picks – Best Tripod
+  Best Tripod for GoPro – 5 Pocket, Grip and Flexible Picks – Best Tripod
   buying guide
 ---
 

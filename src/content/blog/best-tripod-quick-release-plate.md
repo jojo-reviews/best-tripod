@@ -441,7 +441,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-quick-release-plate.png
 heroAlt: >-
-  Best Tripod Quick Release Plate (2026) – 5 Picks by Clamp Type – Best Tripod
+  Best Tripod Quick Release Plate – 5 Picks by Clamp Type – Best Tripod
   buying guide
 ---
 

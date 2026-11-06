@@ -475,7 +475,7 @@ videos:
 author: editorial-team
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
-  Best Tripod for Plein Air Painting (2026) – 5 Picks for Pochade Boxes – Best
+  Best Tripod for Plein Air Painting – 5 Picks for Pochade Boxes – Best
   Tripod buying guide
 ---
 

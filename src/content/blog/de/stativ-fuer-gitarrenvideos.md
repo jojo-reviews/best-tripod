@@ -548,7 +548,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-guitar-videos.png
 heroAlt: >-
-  Stativ für Gitarrenvideos (2026) – 6 Empfehlungen nach Kamerawinkel – Best
+  Stativ für Gitarrenvideos – 6 Empfehlungen nach Kamerawinkel – Best
   Tripod Kaufberatung
 ---
 

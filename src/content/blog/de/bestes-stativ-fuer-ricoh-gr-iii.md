@@ -497,7 +497,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-ricoh-gr-iii.png
 heroAlt: >-
-  Bestes Stativ für Ricoh GR III (2026) – 5 Modelle, alle unter 0,9 kg –
+  Bestes Stativ für Ricoh GR III – 5 Modelle, alle unter 0,9 kg –
   Kaufberatung von Best Tripod
 ---
 

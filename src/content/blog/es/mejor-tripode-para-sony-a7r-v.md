@@ -497,7 +497,7 @@ faqs:
       suelo contra una pata y mantén el trípode bajo.
 heroImage: /images/featured/best-tripod-for-sony-a7r-v.png
 heroAlt: >-
-  Mejor trípode para Sony A7R V (2026) – 5 opciones para 61 MP – guía de compra
+  Mejor trípode para Sony A7R V – 5 opciones para 61 MP – guía de compra
   de Best Tripod
 ---
 

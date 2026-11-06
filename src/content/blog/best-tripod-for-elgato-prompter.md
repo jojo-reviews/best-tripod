@@ -448,7 +448,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-elgato-prompter.png
 heroAlt: >-
-  Best Tripod for Elgato Prompter (2026) – 5 Video Tripods Rated 8 kg+ – Best
+  Best Tripod for Elgato Prompter – 5 Video Tripods Rated 8 kg+ – Best
   Tripod buying guide
 ---
 

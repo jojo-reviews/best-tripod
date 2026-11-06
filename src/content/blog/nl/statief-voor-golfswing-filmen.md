@@ -441,7 +441,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-golf-swing-recording.png
 heroAlt: >-
-  Statief voor golfswing filmen (2026) – 5 houders per ondergrond – Best Tripod
+  Statief voor golfswing filmen – 5 houders per ondergrond – Best Tripod
   koopgids
 ---
 

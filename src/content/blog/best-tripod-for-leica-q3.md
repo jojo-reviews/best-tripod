@@ -448,7 +448,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-leica-q3.png
 heroAlt: >-
-  Best Tripod for Leica Q3 (2026) – 5 Picks, Full-Size to Pocket Mini – Best
+  Best Tripod for Leica Q3 – 5 Picks, Full-Size to Pocket Mini – Best
   Tripod buying guide
 ---
 

@@ -244,7 +244,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/ball-head-tripod.png
 heroAlt: >-
-  Ball Head Tripod Guide (2026) – 2 Heads Worth Buying and Sag Fixes – Best
+  Ball Head Tripod Guide – 2 Heads Worth Buying and Sag Fixes – Best
   Tripod guide
 related:
   - ball-head-sags-after-tightening

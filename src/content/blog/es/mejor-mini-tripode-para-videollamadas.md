@@ -351,7 +351,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
-  Mejor mini trípode para videollamadas – 3 trípodes de mesa (2026) – guía de
+  Mejor mini trípode para videollamadas – 3 trípodes de mesa – guía de
   compra de Best Tripod
 ---
 

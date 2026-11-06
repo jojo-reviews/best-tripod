@@ -436,7 +436,7 @@ illustrations:
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-dji-osmo-action-5-pro.png
 heroAlt: >-
-  Best Tripod for DJI Osmo Action 5 Pro (2026) – 5 Picks to 1.5 m – Best Tripod
+  Best Tripod for DJI Osmo Action 5 Pro – 5 Picks to 1.5 m – Best Tripod
   buying guide
 ---
 

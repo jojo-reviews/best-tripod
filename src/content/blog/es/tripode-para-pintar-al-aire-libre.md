@@ -510,7 +510,7 @@ videos:
 author: editorial-team
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
-  Trípode para pintar al aire libre (2026) – 5 opciones para tu pochade – guía
+  Trípode para pintar al aire libre – 5 opciones para tu pochade – guía
   de compra de Best Tripod
 ---
 

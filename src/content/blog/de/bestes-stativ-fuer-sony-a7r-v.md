@@ -493,7 +493,7 @@ faqs:
       Tasche an ein Bein auf den Boden und halte das Stativ niedrig.
 heroImage: /images/featured/best-tripod-for-sony-a7r-v.png
 heroAlt: >-
-  Bestes Stativ für Sony A7R V (2026) – 5 Tipps für 61 MP Schärfe – Best Tripod
+  Bestes Stativ für Sony A7R V – 5 Tipps für 61 MP Schärfe – Best Tripod
   Kaufberatung
 ---
 

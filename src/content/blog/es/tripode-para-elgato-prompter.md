@@ -486,7 +486,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-elgato-prompter.png
 heroAlt: >-
-  Mejor trípode para Elgato Prompter (2026) – 5 de vídeo desde 8 kg – guía de
+  Mejor trípode para Elgato Prompter – 5 de vídeo desde 8 kg – guía de
   compra de Best Tripod
 ---
 

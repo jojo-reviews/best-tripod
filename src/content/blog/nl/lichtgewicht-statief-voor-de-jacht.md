@@ -456,7 +456,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-backcountry-hunting.png
 heroAlt: >-
-  Lichtgewicht statief voor de jacht (2026) – 5 modellen tot 1,6 kg – Best
+  Lichtgewicht statief voor de jacht – 5 modellen tot 1,6 kg – Best
   Tripod koopgids
 ---
 

@@ -376,7 +376,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-content-creators.png
 heroAlt: >-
-  Best Tripod for Content Creators (2026) – 4 Picks by Shot Type – Best Tripod
+  Best Tripod for Content Creators – 4 Picks by Shot Type – Best Tripod
   buying guide
 related:
   - best-tripod-with-ring-light-for-iphone

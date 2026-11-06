@@ -636,7 +636,7 @@ faqs:
       Design met zijn ingebouwde telefoonhouder werkt; houd de poten kort bij
       wind en sluit een powerbank aan voor lange telefoontimelapses.
 heroAlt: >-
-  Statief voor timelapse (2026) – 7 statieven die urenlang stilstaan – Best
+  Statief voor timelapse – 7 statieven die urenlang stilstaan – Best
   Tripod koopgids
 illustrations:
   - prompt: >-

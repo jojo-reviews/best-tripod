@@ -487,7 +487,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r6-mark-ii.png
 heroAlt: >-
-  Beste statief voor Canon R6 Mark II (2026) – 5 keuzes per RF-lens – Best
+  Beste statief voor Canon R6 Mark II – 5 keuzes per RF-lens – Best
   Tripod koopgids
 ---
 

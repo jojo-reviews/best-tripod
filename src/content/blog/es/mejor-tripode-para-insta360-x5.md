@@ -447,7 +447,7 @@ illustrations:
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-insta360-x5.png
 heroAlt: >-
-  Mejor trípode para Insta360 X5 (2026) – 5 opciones hasta 187 cm – guía de
+  Mejor trípode para Insta360 X5 – 5 opciones hasta 187 cm – guía de
   compra de Best Tripod
 ---
 

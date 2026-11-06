@@ -408,7 +408,7 @@ related:
   - how-to-stop-tripod-shake-in-wind
 heroImage: /images/featured/best-tripod-feet-for-sand-snow-and-rock.png
 heroAlt: >-
-  Best Tripod Feet for Sand Snow and Rock (2026) – 5 Picks by Surface – Best
+  Best Tripod Feet for Sand Snow and Rock – 5 Picks by Surface – Best
   Tripod buying guide
 ---
 

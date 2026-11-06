@@ -447,7 +447,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-crossbow.png
 heroAlt: >-
-  Statief voor kruisboog (2026) – 5 modellen met klem of vork – Best Tripod
+  Statief voor kruisboog – 5 modellen met klem of vork – Best Tripod
   koopgids
 ---
 

@@ -457,7 +457,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-backcountry-hunting.png
 heroAlt: >-
-  Trípode para caza en montaña (2026) – 5 modelos de 0,97 a 1,6 kg – guía de
+  Trípode para caza en montaña – 5 modelos de 0,97 a 1,6 kg – guía de
   compra de Best Tripod
 ---
 

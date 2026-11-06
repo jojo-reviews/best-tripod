@@ -484,7 +484,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-sony-fx3.png
 heroAlt: >-
-  Mejor trípode para Sony FX3 (2026) – 5 opciones según el peso del rig – Guía
+  Mejor trípode para Sony FX3 – 5 opciones según el peso del rig – Guía
   de compra de Best Tripod
 ---
 

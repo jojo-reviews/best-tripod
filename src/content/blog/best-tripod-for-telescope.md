@@ -368,7 +368,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-telescope.png
 heroAlt: >-
-  Best Tripod for Telescope (2026) – 4 Picks Matched to Your Mount – Best Tripod
+  Best Tripod for Telescope – 4 Picks Matched to Your Mount – Best Tripod
   buying guide
 related:
   - can-you-use-any-tripod-for-a-camera

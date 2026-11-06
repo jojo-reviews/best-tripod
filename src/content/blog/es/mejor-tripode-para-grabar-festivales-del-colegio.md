@@ -471,7 +471,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-recording-school-plays.png
 heroAlt: >-
-  Mejor trípode para grabar festivales del colegio (2026) – 5 opciones – guía de
+  Mejor trípode para grabar festivales del colegio – 5 opciones – guía de
   compra de Best Tripod
 ---
 

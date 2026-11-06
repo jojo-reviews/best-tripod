@@ -510,7 +510,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tabletop-camera-tripod.png
 heroAlt: >-
-  Mejor trípode de mesa para cámara (2026) – 5 modelos según el peso – guía de
+  Mejor trípode de mesa para cámara – 5 modelos según el peso – guía de
   compra de Best Tripod
 ---
 

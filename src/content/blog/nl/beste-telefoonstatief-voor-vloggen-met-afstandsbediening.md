@@ -372,7 +372,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
-  Beste telefoonstatief voor vloggen met afstandsbediening (2026), koopgids van
+  Beste telefoonstatief voor vloggen met afstandsbediening, koopgids van
   Best Tripod
 ---
 

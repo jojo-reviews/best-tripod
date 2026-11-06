@@ -466,7 +466,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-gym-videos.png
 heroAlt: >-
-  Best Tripod for Gym Videos (2026) – 5 Picks From Bench to Platform – Best
+  Best Tripod for Gym Videos – 5 Picks From Bench to Platform – Best
   Tripod buying guide
 related:
   - best-tripod-with-ring-light-for-iphone

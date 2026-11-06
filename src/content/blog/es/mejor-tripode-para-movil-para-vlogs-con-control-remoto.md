@@ -363,7 +363,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
-  Mejor trípode para móvil para vlogs con control remoto (2026), guía de compra
+  Mejor trípode para móvil para vlogs con control remoto, guía de compra
   de Best Tripod
 ---
 

@@ -520,7 +520,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-guitar-videos.png
 heroAlt: >-
-  Best Tripod for Guitar Videos (2026) – 6 Picks by Camera Angle – Best Tripod
+  Best Tripod for Guitar Videos – 6 Picks by Camera Angle – Best Tripod
   buying guide
 ---
 

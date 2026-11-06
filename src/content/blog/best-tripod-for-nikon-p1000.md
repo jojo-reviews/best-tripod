@@ -477,7 +477,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-nikon-p1000.png
 heroAlt: >-
-  Best Tripod for Nikon P1000 (2026) – 5 Picks Steady at 3000mm – Best Tripod
+  Best Tripod for Nikon P1000 – 5 Picks Steady at 3000mm – Best Tripod
   buying guide
 related:
   - best-tripod-for-nikon-zf

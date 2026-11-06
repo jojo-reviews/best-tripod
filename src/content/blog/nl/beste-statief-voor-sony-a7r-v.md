@@ -495,7 +495,7 @@ faqs:
       de grond tegen een poot en houd het statief laag.
 heroImage: /images/featured/best-tripod-for-sony-a7r-v.png
 heroAlt: >-
-  Beste statief voor Sony A7R V (2026) – 5 keuzes voor 61 MP scherpte – Best
+  Beste statief voor Sony A7R V – 5 keuzes voor 61 MP scherpte – Best
   Tripod koopgids
 ---
 

@@ -445,7 +445,7 @@ illustrations:
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-insta360-x5.png
 heroAlt: >-
-  Beste statief voor Insta360 X5 (2026) – 5 keuzes tot 187 cm – koopgids van
+  Beste statief voor Insta360 X5 – 5 keuzes tot 187 cm – koopgids van
   Best Tripod
 ---
 

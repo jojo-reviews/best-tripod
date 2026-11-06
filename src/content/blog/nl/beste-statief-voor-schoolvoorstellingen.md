@@ -470,7 +470,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-recording-school-plays.png
 heroAlt: >-
-  Beste statief voor schoolvoorstellingen (2026) – 5 boven alle hoofden – Best
+  Beste statief voor schoolvoorstellingen – 5 boven alle hoofden – Best
   Tripod koopgids
 ---
 

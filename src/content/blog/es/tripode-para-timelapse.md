@@ -640,7 +640,7 @@ faqs:
       Design con su soporte integrado sirve; deja las patas cortas con viento y
       conecta una batería externa para timelapses largos con el móvil.
 heroAlt: >-
-  Trípode para timelapse (2026) – 7 modelos que no se mueven en horas – guía de
+  Trípode para timelapse – 7 modelos que no se mueven en horas – guía de
   compra de Best Tripod
 illustrations:
   - prompt: >-

@@ -572,7 +572,7 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-live-streaming.png
 heroAlt: >-
-  Stativ für Livestream – die 6 besten für Handy und Kamera (2026) –
+  Stativ für Livestream – die 6 besten für Handy und Kamera –
   Kaufberatung von Best Tripod
 ---
 

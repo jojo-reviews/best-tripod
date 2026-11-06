@@ -495,7 +495,7 @@ related:
   - best-tripod-for-sony-a6700
 heroImage: /images/featured/best-tripod-for-sony-zv-e10.png
 heroAlt: >-
-  Best Tripod for Sony ZV-E10 (2026) – 6 Picks From Grip to Eye Level – Best
+  Best Tripod for Sony ZV-E10 – 6 Picks From Grip to Eye Level – Best
   Tripod buying guide
 ---
 

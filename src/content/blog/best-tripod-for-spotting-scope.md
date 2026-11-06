@@ -264,7 +264,7 @@ related:
   - best-video-tripod-with-fluid-head-for-beginners
 heroImage: /images/featured/best-tripod-for-spotting-scope.png
 heroAlt: >-
-  Best Tripod for Spotting Scope (2026) – Legs and Head by Scope Weight – Best
+  Best Tripod for Spotting Scope – Legs and Head by Scope Weight – Best
   Tripod guide
 ---
 

@@ -507,7 +507,7 @@ related:
   - de/bestes-tischstativ-fuer-kamera
 heroImage: /images/featured/best-tripod-for-nikon-zf.png
 heroAlt: >-
-  Bestes Stativ für Nikon Zf (2026) – 5 Modelle, auch für Pixel Shift –
+  Bestes Stativ für Nikon Zf – 5 Modelle, auch für Pixel Shift –
   Kaufberatung von Best Tripod
 ---
 

@@ -432,7 +432,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-golf-swing-recording.png
 heroAlt: >-
-  Best Tripod for Golf Swing Recording (2026) – 5 Picks by Surface – Best Tripod
+  Best Tripod for Golf Swing Recording – 5 Picks by Surface – Best Tripod
   buying guide
 ---
 

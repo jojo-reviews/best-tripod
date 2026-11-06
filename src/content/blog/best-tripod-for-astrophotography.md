@@ -456,7 +456,7 @@ faqs:
       maximum height.
 heroImage: /images/featured/best-tripod-for-astrophotography.png
 heroAlt: >-
-  Best Tripod for Astrophotography (2026) – 5 Picks for a Star Tracker – Best
+  Best Tripod for Astrophotography – 5 Picks for a Star Tracker – Best
   Tripod buying guide
 related:
   - best-tripod-for-northern-lights

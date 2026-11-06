@@ -439,7 +439,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-golf-swing-recording.png
 heroAlt: >-
-  Stativ zum Golfschwung filmen (2026) – 5 Halterungen nach Untergrund – Best
+  Stativ zum Golfschwung filmen – 5 Halterungen nach Untergrund – Best
   Tripod Kaufberatung
 ---
 

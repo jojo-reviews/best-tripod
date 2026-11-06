@@ -220,7 +220,7 @@ faqs:
       column only for a few inches of height in calm air.
 heroImage: /images/featured/tripod-for-wildlife-photography.png
 heroAlt: >-
-  Tripod for Wildlife Photography – What Holds a Long Lens Steady (2026) – Best
+  Tripod for Wildlife Photography – What Holds a Long Lens Steady – Best
   Tripod guide
 related:
   - how-to-weigh-down-a-tripod-without-a-sandbag

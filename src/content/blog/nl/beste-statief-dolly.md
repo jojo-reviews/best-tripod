@@ -482,7 +482,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-dolly.png
 heroAlt: >-
-  Beste statief dolly (2026) – 6 modellen per type statiefvoet – Best Tripod
+  Beste statief dolly – 6 modellen per type statiefvoet – Best Tripod
   koopgids
 ---
 

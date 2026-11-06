@@ -227,7 +227,7 @@ author: editorial-team
 heroImage: >-
   /images/featured/travel-tripod-vs-full-size-tripod-for-landscape-photography.png
 heroAlt: >-
-  Travel Tripod vs Full Size Tripod for Landscape Photography (2026) – Best
+  Travel Tripod vs Full Size Tripod for Landscape Photography – Best
   Tripod comparison
 related:
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging

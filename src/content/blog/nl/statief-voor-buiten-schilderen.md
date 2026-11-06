@@ -506,7 +506,7 @@ videos:
 author: editorial-team
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
-  Statief voor buiten schilderen (2026) – 5 keuzes voor je pochade box –
+  Statief voor buiten schilderen – 5 keuzes voor je pochade box –
   koopgids van Best Tripod
 ---
 

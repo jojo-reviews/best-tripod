@@ -441,7 +441,7 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-golf-swing-recording.png
 heroAlt: >-
-  Trípode para grabar swing de golf (2026) – 5 soportes según superficie – guía
+  Trípode para grabar swing de golf – 5 soportes según superficie – guía
   de compra de Best Tripod
 ---
 

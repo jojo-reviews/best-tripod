@@ -558,7 +558,7 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-live-streaming.png
 heroAlt: >-
-  Statief voor livestream – de 6 beste voor telefoon en camera (2026) – koopgids
+  Statief voor livestream – de 6 beste voor telefoon en camera – koopgids
   van Best Tripod
 ---
 

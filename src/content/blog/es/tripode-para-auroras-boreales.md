@@ -510,7 +510,7 @@ faqs:
       preferir los dos primeros.
 heroImage: /images/featured/best-tripod-for-northern-lights.png
 heroAlt: >-
-  Trípode para auroras boreales (2026) – 5 opciones para frío y viento – guía
+  Trípode para auroras boreales – 5 opciones para frío y viento – guía
   de compra de Best Tripod
 ---
 

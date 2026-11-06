@@ -476,7 +476,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tabletop-camera-tripod.png
 heroAlt: >-
-  Best Tabletop Camera Tripod (2026) – 5 Picks Matched to Camera Weight – Best
+  Best Tabletop Camera Tripod – 5 Picks Matched to Camera Weight – Best
   Tripod buying guide
 ---
 

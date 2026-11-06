@@ -489,7 +489,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r6-mark-ii.png
 heroAlt: >-
-  Mejor trípode para Canon R6 Mark II (2026) – 5 opciones según el RF – guía de
+  Mejor trípode para Canon R6 Mark II – 5 opciones según el RF – guía de
   compra de Best Tripod
 ---
 

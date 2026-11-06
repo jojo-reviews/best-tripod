@@ -469,7 +469,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
-  Mejor trípode para Canon R50 (2026) – 5 modelos para una cámara ligera –
+  Mejor trípode para Canon R50 – 5 modelos para una cámara ligera –
   Best Tripod guía de compra
 ---
 

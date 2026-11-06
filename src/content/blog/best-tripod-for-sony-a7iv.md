@@ -465,7 +465,7 @@ faqs:
       the head or add an Arca clamp.
 heroImage: /images/featured/best-tripod-for-sony-a7iv.png
 heroAlt: >-
-  Best Tripod for Sony A7IV (2026) – 5 Picks Matched to Your Lens – Best Tripod
+  Best Tripod for Sony A7IV – 5 Picks Matched to Your Lens – Best Tripod
   buying guide
 related:
   - best-tripod-for-sony-a7r-v

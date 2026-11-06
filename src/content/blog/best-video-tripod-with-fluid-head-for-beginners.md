@@ -314,7 +314,7 @@ faqs:
 author: editorial-team
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
-  Best Video Tripod With Fluid Head for Beginners – 3 Picks (2026) – Best Tripod
+  Best Video Tripod With Fluid Head for Beginners – 3 Picks – Best Tripod
   buying guide
 related:
   - video-tripod-bowl-size-explained-75mm-vs-100mm

@@ -446,7 +446,7 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-crossbow.png
 heroAlt: >-
-  Stativ für Armbrust (2026) – 5 Modelle mit Klemme oder Gabel – Best Tripod
+  Stativ für Armbrust – 5 Modelle mit Klemme oder Gabel – Best Tripod
   Kaufberatung
 ---
 

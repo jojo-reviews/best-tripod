@@ -477,7 +477,7 @@ related:
   - best-tripod-for-fujifilm-x-t5
 heroImage: /images/featured/best-tripod-for-nikon-zf.png
 heroAlt: >-
-  Best Tripod for Nikon Zf (2026) – 5 Picks for Travel and Pixel Shift – Best
+  Best Tripod for Nikon Zf – 5 Picks for Travel and Pixel Shift – Best
   Tripod buying guide
 ---
 

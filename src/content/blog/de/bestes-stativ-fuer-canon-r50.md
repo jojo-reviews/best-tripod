@@ -474,7 +474,7 @@ illustrations:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
-  Bestes Stativ für Canon R50 (2026) – 5 Modelle für eine 375-g-Kamera – Best
+  Bestes Stativ für Canon R50 – 5 Modelle für eine 375-g-Kamera – Best
   Tripod Kaufberatung
 ---
 

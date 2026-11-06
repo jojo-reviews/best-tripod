@@ -515,7 +515,7 @@ related:
   - es/mejor-tripode-de-mesa-para-camara
 heroImage: /images/featured/best-tripod-for-nikon-zf.png
 heroAlt: >-
-  Mejor trípode para Nikon Zf (2026) – 5 modelos de viaje y pixel shift – guía
+  Mejor trípode para Nikon Zf – 5 modelos de viaje y pixel shift – guía
   de compra de Best Tripod
 ---
 

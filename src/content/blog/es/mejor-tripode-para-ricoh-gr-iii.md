@@ -488,7 +488,7 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-ricoh-gr-iii.png
 heroAlt: >-
-  Mejor trípode para Ricoh GR III (2026) – 5 opciones de menos de 0,9 kg – guía
+  Mejor trípode para Ricoh GR III – 5 opciones de menos de 0,9 kg – guía
   de compra de Best Tripod
 ---
 
