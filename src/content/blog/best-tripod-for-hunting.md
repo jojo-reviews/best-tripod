@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-long-exposure
   - best-tripod-for-insta360-x5
   - best-tripod-for-crossbow
   - best-tripod-for-camera
-  - best-tripod-for-headshots
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: >-
   Best Tripod for Hunting (2026) – 6 Picks by How You Hunt – Best Tripod buying

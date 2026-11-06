@@ -1,0 +1,975 @@
+{
+  "centralEntity": "tripod for long exposure",
+  "entityVariants": [
+    "long exposure tripod",
+    "tripod for long exposure photography",
+    "stable tripod for long exposures",
+    "tripod for ND filter photography",
+    "tripod for windy long exposures"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "Concept",
+      "relation": "central entity",
+      "salience": 0.96,
+      "pages": 4,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "payload the tripod holds",
+      "salience": 0.55,
+      "pages": 4,
+      "textrazorName": "Camera"
+    },
+    {
+      "name": "long exposure photography",
+      "type": "Concept",
+      "relation": "use case",
+      "salience": 0.88,
+      "pages": 3,
+      "textrazorName": "Long-exposure photography"
+    },
+    {
+      "name": "photography",
+      "type": "/broadcast/genre",
+      "relation": "field",
+      "salience": 0.67,
+      "pages": 3,
+      "textrazorName": "Photography"
+    },
+    {
+      "name": "tripod legs",
+      "type": "Concept",
+      "relation": "central entity variant",
+      "salience": 0.98,
+      "pages": 2,
+      "textrazorName": "Tripod"
+    },
+    {
+      "name": "exposure",
+      "type": "Concept",
+      "relation": "shutter time the tripod must hold still",
+      "salience": 0.77,
+      "pages": 2,
+      "textrazorName": "Exposure (photography)"
+    },
+    {
+      "name": "carbon fiber",
+      "type": "/projects/project_focus",
+      "relation": "leg material",
+      "salience": 0.7,
+      "pages": 2,
+      "textrazorName": "Carbon-fiber reinforced polymer"
+    },
+    {
+      "name": "tripod head",
+      "type": "Concept",
+      "relation": "component (ball head on kits)",
+      "salience": 0.69,
+      "pages": 2,
+      "textrazorName": "Tripod head"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "Agent",
+      "relation": "maker of two picks",
+      "salience": 0.6,
+      "pages": 2
+    },
+    {
+      "name": "lens",
+      "type": "/law/invention",
+      "relation": "payload",
+      "salience": 0.48,
+      "pages": 2,
+      "textrazorName": "Lens"
+    },
+    {
+      "name": "weight",
+      "type": "Concept",
+      "relation": "attribute (tripod mass and kit weight)",
+      "salience": 0.47,
+      "pages": 2,
+      "textrazorName": "Weight"
+    },
+    {
+      "name": "shutter",
+      "type": "Concept",
+      "relation": "vibration source",
+      "salience": 0.38,
+      "pages": 2,
+      "textrazorName": "Shutter (photography)"
+    },
+    {
+      "name": "image stabilization",
+      "type": "Concept",
+      "relation": "setting to switch off on a tripod",
+      "salience": 0.37,
+      "pages": 2,
+      "textrazorName": "Image stabilization"
+    },
+    {
+      "name": "Gitzo",
+      "type": "Agent",
+      "relation": "premium maker named by top results",
+      "salience": 0.36,
+      "pages": 2
+    },
+    {
+      "name": "telephoto lens",
+      "type": "/business/product_category",
+      "relation": "heavier payload that needs stiffer legs",
+      "salience": 0.26,
+      "pages": 2,
+      "textrazorName": "Telephoto lens"
+    },
+    {
+      "name": "center column",
+      "type": "Component",
+      "relation": "raised column adds vibration",
+      "salience": 0.6,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor",
+      "textrazorName": "Center column"
+    },
+    {
+      "name": "weight hook",
+      "type": "Component",
+      "relation": "hang grounded ballast",
+      "salience": 0.45,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor",
+      "textrazorName": "Weight hook"
+    },
+    {
+      "name": "ND filter",
+      "type": "Product category",
+      "relation": "reason for multi-second exposures",
+      "salience": 0.5,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor",
+      "textrazorName": "Neutral-density filter"
+    },
+    {
+      "name": "twist lock",
+      "type": "Component",
+      "relation": "leg lock type",
+      "salience": 0.4,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor",
+      "textrazorName": "Twist lock"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "Standard",
+      "relation": "plate standard",
+      "salience": 0.35,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor"
+    },
+    {
+      "name": "Beaufort scale",
+      "type": "Standard",
+      "relation": "wind-speed scale",
+      "salience": 0.3,
+      "pages": 0,
+      "source": "top-result headings (Momanx, TechBezon, Scott Wyden), not TextRazor",
+      "textrazorName": "Beaufort scale"
+    }
+  ],
+  "attributes": [
+    "load capacity vs camera-and-lens weight (Tripod/Camera)",
+    "tripod mass (Weight)",
+    "height with the center column down (Center column)",
+    "leg sections and tube diameter (Tripod)",
+    "leg lock type (Twist lock)",
+    "folded length (portability)",
+    "spiked feet and weight hook (Weight hook)",
+    "head included or legs only (Tripod head)",
+    "leg material carbon fiber vs aluminum (Carbon-fiber reinforced polymer)",
+    "plate standard (Arca-Swiss)"
+  ],
+  "ngrams": [
+    "long exposure photography",
+    "center column",
+    "load capacity",
+    "carbon fiber",
+    "weight hook",
+    "twist locks",
+    "flip locks",
+    "ball head",
+    "folded length",
+    "maximum height",
+    "leg sections",
+    "camera shake",
+    "windy conditions",
+    "spiked feet",
+    "remote shutter release"
+  ],
+  "skipgrams": [
+    "center…column…down",
+    "hang…weight…hook",
+    "carbon…fiber…vibration",
+    "load…capacity…camera",
+    "leg…sections…thick",
+    "wind…shake…exposure",
+    "image…stabilization…off",
+    "spiked…feet…sand"
+  ],
+  "nlpTerms": [
+    "vibration",
+    "stability",
+    "rigidity",
+    "sturdy",
+    "ND filter",
+    "shutter speed",
+    "bulb mode",
+    "self-timer",
+    "remote release",
+    "seascape",
+    "cityscape",
+    "light trails",
+    "star trails",
+    "landscape photographer",
+    "mirrorless camera",
+    "full-frame",
+    "safety payload",
+    "monopod conversion",
+    "multi-angle column",
+    "90-degree column"
+  ],
+  "questions": [
+    {
+      "q": "What is the best tripod for long exposure?",
+      "maps": "intro + first H2",
+      "answerTerms": [
+        "load capacity",
+        "center column",
+        "carbon fiber",
+        "weight"
+      ]
+    },
+    {
+      "q": "Does a heavier tripod help long exposures?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "weight",
+        "wind",
+        "stability",
+        "hook"
+      ]
+    },
+    {
+      "q": "Carbon fiber or aluminum tripod for long exposure?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "carbon fiber",
+        "vibration",
+        "aluminum",
+        "weight"
+      ]
+    },
+    {
+      "q": "Should the center column be up or down for long exposures?",
+      "maps": "problems H2 + FAQ",
+      "answerTerms": [
+        "center column",
+        "vibration",
+        "wind",
+        "height"
+      ]
+    },
+    {
+      "q": "How much load capacity do I need for long exposure photography?",
+      "maps": "comparison H2",
+      "answerTerms": [
+        "load capacity",
+        "camera",
+        "lens",
+        "kg"
+      ]
+    },
+    {
+      "q": "Should I turn off image stabilization on a tripod?",
+      "maps": "how-to H2 step",
+      "answerTerms": [
+        "image stabilization",
+        "tripod",
+        "drift",
+        "blur"
+      ]
+    },
+    {
+      "q": "Ball head or geared head for long exposure?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "ball head",
+        "geared head",
+        "creep",
+        "framing"
+      ]
+    },
+    {
+      "q": "Is a travel tripod good enough for long exposures?",
+      "maps": "Peak Design / Befree sections + FAQ",
+      "answerTerms": [
+        "travel tripod",
+        "center column",
+        "wind",
+        "leg sections"
+      ]
+    }
+  ],
+  "contentGaps": [
+    "No top result works out load headroom against a real camera-and-lens weight",
+    "No top result compares tripod mass to kit mass as a wind rule",
+    "No top result gives column-down height for each pick side by side",
+    "No top result maps picks to the long-exposure scene (seascape, city at night, windy ridge, travel)",
+    "Few say which picks are legs only and need a head bought separately"
+  ],
+  "outline": [
+    {
+      "h2": "Long exposure tripod comparison by mass, height and load",
+      "intent": "comparison table on the deciding specs + load-headroom calculation",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these long exposure tripods",
+      "intent": "method, who else recommends them, owner count, From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for long exposure",
+      "intent": "picks",
+      "h3": [
+        "Vanguard VEO 3+ 263AB: best overall long exposure tripod",
+        "Benro Mach3 TMA37C: best carbon legs for hike-in long exposures",
+        "Manfrotto 055 Carbon Fiber 4-Section Tripod (MT055CXPRO4): best for heavy kits and low angles",
+        "Manfrotto Befree GT XPRO Aluminium: best travel tripod for long exposures",
+        "Peak Design Travel Tripod (Carbon Fiber): lightest long exposure tripod"
+      ]
+    },
+    {
+      "h2": "Which long exposure tripod should you get",
+      "intent": "decision rule by scene",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for a long exposure",
+      "intent": "numbered steps + video + illustrations",
+      "h3": []
+    },
+    {
+      "h2": "Long exposure tripod problems owners run into, and the fix",
+      "intent": "pain points: wind, raised column, swinging bag, sinking feet, IS left on",
+      "h3": []
+    },
+    {
+      "h2": "Our verdict on the best tripod for long exposure",
+      "intent": "close the opening scene, next-question links",
+      "h3": []
+    }
+  ],
+  "targetWords": 1800,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+      "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "https://techbezon.com/tripod-for-long-exposure-photography/",
+      "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+      "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Fstoppers, Matt Purciel, Scott Wyden and TechBezon present each tripod with pros/cons or a short spec block; pros-cons lists are the most common format among the ranking roundups.",
+    "avgWords": 1779,
+    "avgWordsFrom": {
+      "fstoppers": 2110,
+      "digital-photography-school": 1265,
+      "mattpurciel": 1730,
+      "techbezon": 3084,
+      "scottwyden": 883,
+      "momanx": 1600
+    },
+    "avgProducts": 4.5,
+    "commonSections": [
+      "why you need a tripod for long exposure",
+      "stability and load capacity",
+      "carbon fiber vs aluminum",
+      "center column",
+      "leg locks",
+      "feet and weight hook",
+      "tripod head",
+      "product picks"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/photography/comments/1ou44yp/anyone_using_budget_tripods_for_long_exposures/",
+      "title": "Anyone using budget tripods for long exposures? - Reddit"
+    },
+    {
+      "position": 2,
+      "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+      "title": "4 Tripods That Give You the Best Bang for Your Buck - Fstoppers"
+    },
+    {
+      "position": 3,
+      "url": "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+      "title": "Recommended Gear for Doing Long Exposure Photography at ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+      "title": "Best Tripods for Landscape Photography 2026 - Matt Purciel"
+    },
+    {
+      "position": 5,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+      "title": "The best tripod for photography | Digital Camera World"
+    },
+    {
+      "position": 6,
+      "url": "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/",
+      "title": "Good tripod for long exposure in windy conditions - DPReview"
+    },
+    {
+      "position": 7,
+      "url": "https://www.facebook.com/groups/swphotoclubcolorado/posts/2519878778412474/",
+      "title": "What is a good lightweight tripod for outdoor long exposure ..."
+    },
+    {
+      "position": 8,
+      "url": "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography",
+      "title": "Why and how to choose tripod for long exposure photography?"
+    },
+    {
+      "position": 9,
+      "url": "https://techbezon.com/tripod-for-long-exposure-photography/",
+      "title": "5 Best Tripod for Long Exposure Photography in 2026"
+    },
+    {
+      "position": 10,
+      "url": "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+      "title": "Long Exposure Photography Choices: Tripod"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 2,
+    "commonModifiers": [
+      "long exposure photography",
+      "budget",
+      "landscape",
+      "windy conditions",
+      "how to choose"
+    ],
+    "gap": "Only one top title is a long-exposure roundup; none promises picks that stay still in wind or matches picks to the scene. Ours: exact keyword first, year, product count and a wind benefit."
+  },
+  "commonPoints": [
+    "A tripod is required for multi-second exposures; handheld blurs",
+    "Stability beats low weight; buy load capacity above your kit",
+    "Carbon fiber damps vibration and is lighter; aluminum is cheaper and heavier",
+    "Keep the center column down; it is the weakest part in wind",
+    "Use a weight hook and suitable feet (spikes on sand, rubber indoors)",
+    "Use a remote release or self-timer"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom against a real kit: Nikon Zf 710 g + NIKKOR Z 24-70mm f/4 S 500 g = 1.21 kg; ratings give 7.5x (Peak Design 9.1 kg) to 16.5x (Manfrotto 055 carbon 20 kg). Rating is not the limit for long exposures; mass and column-down height are.",
+      "source": "https://onlinemanual.nikonimglib.com/zf/en/specifications_350.html; https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-70mmf4s/; maker and B&H spec pages",
+      "absentFrom": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+        "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Tripod mass vs kit mass: VEO 2.5 kg (about 2.1x the 1.21 kg kit), 055 carbon 2.1 kg (1.7x), Befree GT XPRO 2 kg (1.7x), TMA37C 1.9 kg (1.6x), Peak Design 1.29 kg (1.07x).",
+      "source": "B&H spec pages, Manfrotto, Peak Design",
+      "absentFrom": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+        "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height side by side: VEO 148.3 cm, Befree GT XPRO 142 cm, 055 carbon 140 cm, TMA37C 135 cm, Peak Design 130.2 cm.",
+      "source": "Manfrotto spec pages, B&H TMA37C specs, Peak Design, Vanguard via B&H",
+      "absentFrom": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+        "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by scene: seascape with waves and sand -> VEO 3+ 263AB (spikes, hook, most mass); hike-in mountain light -> Benro TMA37C carbon legs + own head; heavy kit or low macro angles -> 055 carbon; city nights with a carry-on -> Befree GT XPRO; lightest bag, mild wind -> Peak Design.",
+      "source": "our decision rule from the specs above",
+      "absentFrom": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+        "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Hanging weight must be grounded, not swinging: a DPReview reply says added weight 'needs to be well thought out and grounded, not swinging'; we turn that into a step (bag just touching the ground).",
+      "source": "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/",
+      "absentFrom": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/",
+        "https://momanx.com/blogs/moman-ideas/why-and-how-to-choose-tripod-for-long-exposure-photography"
+      ],
+      "note": "TechBezon also warns against a freely swinging bag, so this is partly common; the grounded-bag step is ours."
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Vanguard VEO 3+ 263 (263AB / 263AT / 263CB)",
+      "pages": [
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://www.adorama.com/lists/tripods-for-long-exposure-photography",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "name": "Benro Mach3 TMA37 (TMA37C / TMA37AL)",
+      "pages": [
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://www.adorama.com/lists/tripods-for-long-exposure-photography",
+        "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "pages": [
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+        "https://www.facebook.com/groups/swphotoclubcolorado/posts/2519878778412474/"
+      ]
+    },
+    {
+      "name": "Manfrotto Befree (GT XPRO / Advanced)",
+      "pages": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+        "https://scottwyden.com/long-exposure-photography-choices-tripod/"
+      ]
+    },
+    {
+      "name": "Manfrotto 055 carbon (MT055CXPRO4) / Manfrotto full-size legs",
+      "pages": [
+        "https://techbezon.com/tripod-for-long-exposure-photography/",
+        "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+      ],
+      "note": "TechBezon names the MT055CXPRO4; the DPReview thread recommends full-size Manfrotto legs; a DPReview 'Sturdy travel tripod' owner uses a 055 for very long exposures (https://www.dpreview.com/forums/threads/sturdy-travel-tripod.4624787/)."
+    },
+    {
+      "name": "Gitzo Series 1 Traveler GK1545T",
+      "pages": [
+        "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html"
+      ],
+      "note": "only 1 confirmed top-10 page; not used"
+    },
+    {
+      "name": "Manfrotto MT190CXPRO3",
+      "pages": [
+        "https://digital-photography-school.com/recommended-gear-long-exposure-photography-twilight-dusk/"
+      ],
+      "note": "1 page; not used"
+    },
+    {
+      "name": "Feisol CT-3342 / CT-3372",
+      "pages": [
+        "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844"
+      ],
+      "note": "1 page; not used"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-center-column-vibration",
+      "pain": "Raising the center column makes the tripod shake and ring after every shutter press",
+      "details": "Landscape and long-lens shooters find a tripod that is steady with the legs only becomes wobbly once the column is cranked up; owners are told to collapse the legs and never extend the center section.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/",
+        "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+          "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+        },
+        {
+          "text": "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-wind-vibration",
+      "pain": "Wind makes the whole tripod vibrate and ruins long exposures",
+      "details": "Outdoor shooters see legs act like a sail or vibrate in gusts; common advice is to stay low, block the wind and keep nothing dangling from the rig.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod",
+        "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
+        "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
+        "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+      ],
+      "quotes": [
+        {
+          "text": "Wind will vibrate across the legs and transmit up to the camera.",
+          "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        },
+        {
+          "text": "Keep out of the wind as that will cause movement of your setup.",
+          "url": "https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod"
+        },
+        {
+          "text": "My problem was the legs wernt moving but the head would wobble.",
+          "url": "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-stabilization-left-on-tripod",
+      "pain": "Image stabilization left on blurs shots taken on a tripod",
+      "details": "Owners shoot long exposures on a tripod with lens IS or IBIS still on and get soft or smeared frames even with a timer delay; switching stabilization off fixes it for several owners, but a lens switch may not turn off IBIS on every body.",
+      "sources": [
+        "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+        "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/"
+      ],
+      "quotes": [
+        {
+          "text": "The IS of some cameras will slowly drift during long exposures. This will cause motion blur in the image.",
+          "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+        },
+        {
+          "text": "Turning off IS solved the problem.",
+          "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+        },
+        {
+          "text": "First, make sure image stabilization on your camera and lens are OFF.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/1mkbgc0/getting_lots_of_camera_shake_on_a_tripod_what_am/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-hanging-weight-swings",
+      "pain": "A bag hung from the hook swings in the wind and adds shake",
+      "details": "Owners read that a hanging camera bag sways in gusts and look for a weight that stays put.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
+        "https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/",
+        "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+      ],
+      "quotes": [
+        {
+          "text": "I've read that a hanging camera bag on a hook can also sway in the wind.",
+          "url": "https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/"
+        },
+        {
+          "text": "This added weight needs to be well thought out and grounded, not swinging, etc.",
+          "url": "https://www.dpreview.com/forums/threads/good-tripod-for-long-exposure-in-windy-conditions.3949842/"
+        }
+      ]
+    },
+    {
+      "id": "tripod-feet-sinking-with-waves",
+      "pain": "The tripod sinks a little more with every wave during beach long exposures",
+      "details": "Spiked legs keep settling as water pulls sand away, so the composition shifts between frames; owners drive feet several inches down, wrap the legs, or put CDs or discs under the feet.",
+      "sources": [
+        "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet",
+        "https://www.reddit.com/r/photography/comments/189h1du/what_tripodgear_could_stand_in_a_shallow_river/",
+        "https://www.reddit.com/r/photography/comments/wnfb4/need_some_tips_for_using_a_tripod_in_the_sand/",
+        "https://www.youtube.com/watch?v=htDj1Y5YVsA"
+      ],
+      "quotes": [
+        {
+          "text": "with the spiked feet the tripod sinks further down as the water goes back out, requiring me to reset the composition after each wave",
+          "url": "https://www.lincolnharrison.com/blog/rock-claw-tripod-feet"
+        }
+      ]
+    },
+    {
+      "id": "travel-tripods-wobbly-for-long-exposure",
+      "pain": "A small travel tripod is too wobbly for long exposures, ND filters, astro or a 100-400",
+      "details": "Photographers who already own a travel tripod outgrow it once they add ND filters, astrophotography or longer lenses.",
+      "sources": [
+        "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
+        "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/",
+        "https://www.dpreview.com/forums/threads/lightweight-video-travel-tripod.4786488/"
+      ],
+      "quotes": [
+        {
+          "text": "i'm afraid the travel one is too small and wobbly for logn exposure with nd filters or astro or when using the 100-400",
+          "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"
+        },
+        {
+          "text": "The center column make the Travel Tripod less stable so you should not extend it.",
+          "url": "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "13-18 mph",
+      "claim": "Beaufort force 4 moderate breeze: raises dust and loose paper; small branches are moved",
+      "url": "https://www.weather.gov/mfl/beaufort",
+      "quote": "4 | 13-18 | 11-16 | Moderate Breeze | ... Raises dust and loose paper; small branches are moved."
+    },
+    {
+      "number": "20 kg",
+      "claim": "Manfrotto 055 carbon MT055CXPRO4 safety payload",
+      "url": "https://www.manfrotto.com/global-en/055-carbon-fiber-4-section-tripod-with-horizontal-column-mt055cxpro4/",
+      "quote": "Safety Payload UNI/PdR 105:2021 20 kg 44.09 lbs"
+    },
+    {
+      "number": "135 cm",
+      "claim": "Benro TMA37C working height with center column down",
+      "url": "https://www.bhphotovideo.com/c/product/1157825-REG/benro_tma37c_mach3_9x_carbon_fiber.html/specs",
+      "quote": "Up to 53\" / 135 cm (Center Column Down)"
+    },
+    {
+      "number": "710 g",
+      "claim": "Nikon Zf weight with battery and memory card",
+      "url": "https://onlinemanual.nikonimglib.com/zf/en/specifications_350.html",
+      "quote": "Approx. 710 g (1 lb. 9.1 oz.) with battery and memory card but without body cap and accessory shoe cover"
+    },
+    {
+      "number": "500 g",
+      "claim": "NIKKOR Z 24-70mm f/4 S weight",
+      "url": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-70mmf4s/",
+      "quote": "Weight | Approximately 500 g/1 lb 1.7 oz"
+    },
+    {
+      "number": "43 cm",
+      "claim": "Befree GT XPRO aluminum folded length",
+      "url": "https://www.manfrotto.com/global-en/befree-gt-xpro-aluminium-tripod-mkbfra4gtxp-bus/",
+      "quote": "when folded, it measures 43 cm (16.93 inches)"
+    }
+  ],
+  "videos": [
+    {
+      "id": "o_By_OsOkTk",
+      "title": "Don't RUIN your tripod photos!",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=o_By_OsOkTk",
+      "section": "How to set up a tripod for a long exposure",
+      "note": "description: tripod tips for sharp tripod shots, perfect for long exposure photography"
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for long exposure photography",
+    "tripod for long exposure",
+    "best tripod for long exposure in wind",
+    "long exposure tripod",
+    "best tripod for nd filter photography"
+  ],
+  "googleModifiers": {
+    "date": "2026-11-06",
+    "source": "data/briefs/best-tripod-for-long-exposure.suggest.json (Google autocomplete, US)",
+    "used": [
+      {
+        "modifier": "exposure photography (best tripod for long exposure photography)",
+        "where": "secondaryKeywords + intro wording"
+      },
+      {
+        "modifier": "windy conditions (best tripod for windy conditions)",
+        "where": "wind analysis + problems H2 (same intent as a long-exposure need)"
+      },
+      {
+        "modifier": "lenses / telephoto lens",
+        "where": "FAQ on heavier lenses via load headroom"
+      }
+    ],
+    "skipped": [
+      {
+        "modifier": "range shooting, range hunting, distance shooting",
+        "reason": "rifle/hunting intent, different topic"
+      },
+      {
+        "modifier": "iphone long / long tripod for phone",
+        "reason": "phone selfie-stick intent, different topic"
+      }
+    ]
+  },
+  "amazonFilters": {
+    "date": "2026-11-06",
+    "url": "https://www.amazon.com/s?k=best+tripod+for+long+exposure",
+    "source": "Firecrawl markdown scrape of #s-refinements, location US",
+    "groups": [
+      {
+        "group": "Max Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Min Height",
+        "options": [
+          "Up to 7.9 in",
+          "8.0 to 13.9 in",
+          "14.0 to 19.9 in",
+          "20.0 in & above"
+        ]
+      },
+      {
+        "group": "Head Type",
+        "options": [
+          "Ball Heads",
+          "Geared Heads",
+          "Gimbal Heads",
+          "Pan Heads"
+        ]
+      },
+      {
+        "group": "Special Features",
+        "options": [
+          "Lightweight",
+          "Foldable",
+          "Telescopic",
+          "Includes Accessory Shoe",
+          "Includes Cover",
+          "Magnetic",
+          "Pan-handle",
+          "Quick-Release",
+          "Remote Control",
+          "Shock Resistant",
+          "Slip Resistant",
+          "Spirit Level"
+        ]
+      },
+      {
+        "group": "Brands",
+        "options": [
+          "ULANZI",
+          "SMALLRIG",
+          "NEEWER",
+          "K&F CONCEPT",
+          "Manfrotto",
+          "Sirui"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Up to $100",
+          "$100 to $350",
+          "$350 to $800",
+          "$800 to $1,500",
+          "$1,500 & above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up"
+        ]
+      },
+      {
+        "group": "Delivery Day",
+        "options": [
+          "Get It by Tomorrow"
+        ]
+      },
+      {
+        "group": "Deals & Discounts",
+        "options": [
+          "All Discounts",
+          "Buy More, Save More",
+          "Coupons",
+          "Today's Deals"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Renewed",
+          "Used"
+        ]
+      }
+    ],
+    "used": [
+      {
+        "group": "Max Height",
+        "where": "comparison table: max height and column-down height columns"
+      },
+      {
+        "group": "Min Height",
+        "where": "055 and Befree sections (9 cm minimum height)"
+      },
+      {
+        "group": "Head Type",
+        "where": "FAQ 'Ball head or geared head for long exposure?' and legs-only notes"
+      }
+    ],
+    "skipped": [
+      {
+        "group": "Price",
+        "reason": "no prices in posts"
+      },
+      {
+        "group": "Customer Reviews",
+        "reason": "no ratings claims"
+      },
+      {
+        "group": "Delivery Day / Deals / Condition",
+        "reason": "shopping-only"
+      },
+      {
+        "group": "Brands",
+        "reason": "Amazon brand chips, not recommended by the top results"
+      }
+    ]
+  },
+  "pendingInlinks": [
+    {
+      "slug": "landscape-photography-tripod",
+      "find": "My reading: keep the column down and treat it as a mirrorless tripod.",
+      "replace": "My reading: keep the column down and treat it as a mirrorless tripod; for windy coasts, see our [tripods for long exposure](/blog/best-tripod-for-long-exposure/)."
+    },
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "find": "The center-column hook is the usual anchor, but light tripods may lack room; one dpreview poster found \"there is extremely little room to hang my camera backpack from the hook for stability.\"",
+      "replace": "The center-column hook is the usual anchor, but light tripods may lack room (one reason heavier [long exposure tripods](/blog/best-tripod-for-long-exposure/) help); one dpreview poster found \"there is extremely little room to hang my camera backpack from the hook for stability.\""
+    }
+  ],
+  "textrazor": {
+    "pagesAnalyzed": 4,
+    "errors": [
+      "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html: Timeout reading from URL: https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html, cannot continue. TextRazor times out downloads after 20 seconds."
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "keyword": "best tripod for long exposure",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.96,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Long-exposure photography",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.88,
+      "wiki": "http://en.wikipedia.org/wiki/Long-exposure_photography",
+      "wikidata": "Q1082855",
+      "kgmid": "/m/02rr7v1"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.67,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.98,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "wikidata": "Q271960",
+      "kgmid": "/m/0168y9"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.69,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "wikidata": "Q25288",
+      "kgmid": "/m/085x_"
+    },
+    {
+      "entity": "Shutter (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)",
+      "wikidata": "Q691823",
+      "kgmid": "/m/06q4q4"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx"
+    },
+    {
+      "entity": "Gitzo",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "wikidata": "Q2786962",
+      "kgmid": "/m/02plgzz"
+    },
+    {
+      "entity": "Photograph",
+      "type": "/visual_art/visual_art_medium",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Photograph",
+      "wikidata": "Q125191",
+      "kgmid": "/m/068jd"
+    },
+    {
+      "entity": "Telephoto lens",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "wikidata": "Q516461",
+      "kgmid": "/m/01bt4w"
+    }
+  ],
+  "errors": [
+    "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html: Timeout reading from URL: https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html, cannot continue. TextRazor times out downloads after 20 seconds."
+  ]
+}
