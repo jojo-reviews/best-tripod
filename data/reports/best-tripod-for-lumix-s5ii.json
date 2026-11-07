@@ -1,0 +1,649 @@
+{
+  "keyword": "best tripod for lumix s5ii",
+  "createdAt": "2026-11-07T11:34:38.124Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Lumix S5II",
+    "entityVariants": [
+      "best tripod for lumix s5ii",
+      "tripod for lumix s5ii",
+      "best tripod for lumix s5iix",
+      "tripod for lumix s5iix",
+      "best tripod for lumix s5",
+      "lumix s5ii tripod",
+      "panasonic s5ii tripod"
+    ],
+    "entities": [
+      {
+        "name": "tripod for Lumix S5II",
+        "type": "central entity",
+        "relation": "what the searcher wants to buy",
+        "salience": 1
+      },
+      {
+        "name": "Panasonic Lumix S5II",
+        "type": "camera",
+        "relation": "full-frame L-Mount hybrid mirrorless body, approx. 740 g with battery and card (Panasonic)",
+        "salience": 0.9
+      },
+      {
+        "name": "camera tripod",
+        "type": "product category",
+        "relation": "three-legged camera support; TextRazor top entity on 4 of 5 pages",
+        "salience": 0.85,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "carbon fiber",
+        "type": "material",
+        "relation": "leg material on the Leofoto, Falcam picks; named on all 5 pages",
+        "salience": 0.65,
+        "textrazorName": "Carbon-fiber reinforced polymer"
+      },
+      {
+        "name": "aluminum",
+        "type": "material",
+        "relation": "leg material on the Peak Design aluminum and Befree Advanced",
+        "salience": 0.3,
+        "textrazorName": "Aluminium"
+      },
+      {
+        "name": "Magnesium alloy",
+        "type": "material",
+        "relation": "Corey 2.0 leg material",
+        "salience": 0.3
+      },
+      {
+        "name": "Manfrotto",
+        "type": "brand",
+        "relation": "maker of the Befree Advanced; named on all 5 pages",
+        "salience": 0.5
+      },
+      {
+        "name": "Lumix",
+        "type": "brand",
+        "relation": "Panasonic camera brand",
+        "salience": 0.41
+      },
+      {
+        "name": "mirrorless camera",
+        "type": "camera format",
+        "relation": "S5II class",
+        "salience": 0.38,
+        "textrazorName": "Mirrorless camera"
+      },
+      {
+        "name": "LUMIX S 20-60mm",
+        "type": "lens",
+        "relation": "S5II kit lens, approx. 350 g",
+        "salience": 0.5
+      },
+      {
+        "name": "LUMIX S PRO 70-200mm F4",
+        "type": "lens",
+        "relation": "heaviest common S5II zoom here, approx. 985 g without tripod mount",
+        "salience": 0.5
+      },
+      {
+        "name": "image stabilizer",
+        "type": "camera feature",
+        "relation": "Panasonic recommends turning it off on a tripod",
+        "salience": 0.5
+      },
+      {
+        "name": "ball head",
+        "type": "tripod head",
+        "relation": "every pick ships with one",
+        "salience": 0.6
+      },
+      {
+        "name": "fluid head",
+        "type": "tripod head",
+        "relation": "video alternative for smooth pans",
+        "salience": 0.4
+      },
+      {
+        "name": "center column",
+        "type": "tripod part",
+        "relation": "main source of wobble in owner threads",
+        "salience": 0.6
+      },
+      {
+        "name": "Arca-Swiss plate",
+        "type": "standard",
+        "relation": "quick-release dovetail all picks accept",
+        "salience": 0.5
+      },
+      {
+        "name": "Hiking",
+        "type": "activity",
+        "relation": "common S5II use case in threads",
+        "salience": 0.44
+      },
+      {
+        "name": "Leg",
+        "type": "tripod part",
+        "relation": "leg thickness and sections decide wind stability",
+        "salience": 0.55
+      }
+    ],
+    "attributes": [
+      "rated load vs S5II plus lens weight",
+      "height with the center column down or without column",
+      "folded length for a carry-on",
+      "weight with head",
+      "leg sections and leg lock type",
+      "head controls for video (separate pan lock, friction/drag)",
+      "Arca-Swiss compatibility",
+      "columnless vs center column",
+      "set-up speed"
+    ],
+    "ngrams": [
+      "tripod for lumix s5ii",
+      "travel tripod",
+      "carbon fiber",
+      "ball head",
+      "center column",
+      "leg locks",
+      "peak design travel tripod",
+      "befree advanced",
+      "load capacity",
+      "folded length",
+      "arca swiss",
+      "in the wind"
+    ],
+    "skipgrams": [
+      "tripod…S5II",
+      "column…wind",
+      "carbon…legs",
+      "pan…head",
+      "lens…weight",
+      "load…rating",
+      "legs…sections",
+      "plate…arca"
+    ],
+    "nlpTerms": [
+      "Panasonic",
+      "Lumix S5II",
+      "S5IIX",
+      "full-frame",
+      "L-Mount",
+      "hybrid",
+      "video",
+      "pan",
+      "tilt",
+      "20-60mm",
+      "70-200mm",
+      "carbon fiber",
+      "aluminum",
+      "magnesium",
+      "ball head",
+      "fluid head",
+      "Arca-Swiss",
+      "center column",
+      "columnless",
+      "twist lock",
+      "lever lock",
+      "folded length",
+      "load capacity",
+      "wind",
+      "hiking",
+      "vlog",
+      "image stabilizer",
+      "monopod"
+    ],
+    "questions": [
+      "What is the best tripod for a Lumix S5II?",
+      "How much weight does an S5II with a lens put on a tripod?",
+      "Do I need a fluid head for S5II video?",
+      "Should I turn off IBIS on a tripod with the S5II?",
+      "Is the Peak Design Travel Tripod good for the S5II?",
+      "Will these tripods fit the S5IIX and original S5?"
+    ],
+    "contentGaps": [
+      "Load headroom per pick with Panasonic weights (20-60 kit vs 70-200 F4)",
+      "Which heads have a separate pan lock for S5II video",
+      "Column-down height compared across picks",
+      "Panasonic advice to turn the image stabilizer off on a tripod",
+      "Chooser by photo vs video vs hiking"
+    ],
+    "outline": [
+      {
+        "h2": "Lumix S5II tripod comparison for photo and video",
+        "intent": "first block: comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How I picked each Lumix S5II tripod",
+        "intent": "method, where they are recommended, notes block",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Lumix S5II, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head: best tripod for wind and landscapes",
+          "Manfrotto Befree Advanced Lever Travel Tripod Kit: best tripod for hybrid photo and video",
+          "Peak Design Travel Tripod (Aluminum): best carry-on tripod",
+          "3 Legged Thing Punks Corey 2.0: best tripod for heavy lenses on a budget",
+          "Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod: fastest tripod for vlogs"
+        ]
+      },
+      {
+        "h2": "Which Lumix S5II tripod should you get?",
+        "intent": "chooser",
+        "h3": []
+      },
+      {
+        "h2": "How much load a Lumix S5II and its lenses put on a tripod",
+        "intent": "load math (ourGain analysis)",
+        "h3": []
+      },
+      {
+        "h2": "Lumix S5II tripod heads for video pans",
+        "intent": "ourGain decision",
+        "h3": []
+      },
+      {
+        "h2": "Lumix S5II tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 1300,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+        "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+        "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/",
+        "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+        "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The top results are forum threads where each tripod gets a short paragraph of owner opinion, not pros/cons lists or spec tables.",
+      "avgWords": 1200,
+      "avgWordsNote": "estimated from the main thread text of the five pages read (CameraEgg 57272 about 550, Camera Rumors 22233 about 1,800 over two pages, Camera Rumors 83314 about 1,300, Camera Rumors 34428 about 1,100, CameraEgg 98602 about 900, rounded)",
+      "avgProducts": 5,
+      "commonSections": [
+        "question from a new S5II owner (travel, hiking, vlogs)",
+        "owner recommendations with a short reason",
+        "wind and stability warnings",
+        "budget range"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/Lumix/comments/1l0liqf/multipurpose_tripod_recommendations_for_lumix/",
+        "title": "Multi-Purpose Tripod Recommendations for Lumix S5ii under 500"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/groups/115806303681513/posts/792440582684745/",
+        "title": "What are good tripod and flash recommendations for Lumix S5ii?"
+      },
+      {
+        "position": 3,
+        "url": "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+        "title": "Top recommended travel tripods for Panasonic Lumix S5II users?"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=fUQ4BxNsYMg",
+        "title": "I use this filmmaking gear everyday (with the LUMIX S5IIX)"
+      },
+      {
+        "position": 5,
+        "url": "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+        "title": "Best tripod for Panasonic Lumix S5II? - Camera Rumors"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=Oyic42LCQsw",
+        "title": "BEST Travel Tripod for LUMIX GH5 or S5? // Sirui 7C Carbon ..."
+      },
+      {
+        "position": 7,
+        "url": "https://www.ebay.com/itm/174661347167",
+        "title": "Handheld Shooting Grip Mini Tripod for Panasonic Lumix S5 II ..."
+      },
+      {
+        "position": 8,
+        "url": "https://www.amazon.com/panasonic-lumix-s5ii-accessories/s?k=panasonic+lumix+s5ii+accessories",
+        "title": "Panasonic Lumix S5ii Accessories - Amazon.com"
+      },
+      {
+        "position": 9,
+        "url": "https://shop.panasonic.com/products/lumix-tripod-grip-and-wired-shutter",
+        "title": "LUMIX Tripod Grip and Wired Shutter - Shop Panasonic USA"
+      },
+      {
+        "position": 10,
+        "url": "https://www.youtube.com/watch?v=jYU_15iNJho",
+        "title": "Lumix Camera Accessories You'd ACTUALLY Use - YouTube"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "Lumix S5II",
+        "recommendations",
+        "travel",
+        "best tripod"
+      ],
+      "gap": "No top-10 title is a buyer guide that starts with the exact keyword, and none splits the picks by photo vs video use, which the hybrid S5II needs."
+    },
+    "serpProducts": [
+      {
+        "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+        "pages": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/"
+        ],
+        "note": "Both threads name the earlier LS-284C Ranger (with LH-30 on CameraEgg); the LS-284CX is the current version of that kit."
+      },
+      {
+        "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+        "pages": [
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod"
+        ],
+        "note": "Camera Rumors S5II owner recommends the Befree Advanced aluminum; Digital Camera World (top 10 for best travel tripod for full frame mirrorless) recommends the Befree Advanced AS."
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+        ],
+        "note": "Both recommend the aluminum version for an S5II; the carbon version is also recommended in 83314."
+      },
+      {
+        "name": "3 Legged Thing Punks Corey 2.0",
+        "pages": [
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/"
+        ]
+      },
+      {
+        "name": "Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod",
+        "pages": [
+          "https://www.reddit.com/r/Lumix/comments/1l0liqf/multipurpose_tripod_recommendations_for_lumix/",
+          "https://www.reddit.com/r/Lumix/comments/1m6s6t4/fleshing_out_a_full_frame_lumix_ecosystem_for/"
+        ],
+        "note": "r/Lumix S5II threads (read via search excerpts; Reddit cannot be scraped)."
+      }
+    ],
+    "googleModifiers": [
+      "s5iix",
+      "s5 (original)",
+      "monopod vs tripod"
+    ],
+    "googleSuggestFile": "data/briefs/best-tripod-for-lumix-s5ii.suggest.json",
+    "amazonFilters": [],
+    "amazonFiltersNote": "Amazon US search for the keyword (read 2026-11-07) showed only the Sort by control and no left-sidebar filter groups, so there were no filters to use.",
+    "commonPoints": [
+      "Carbon fiber is lighter and damps vibration better than aluminum; aluminum costs less",
+      "Thin travel legs vibrate in wind with a full-frame body",
+      "Keep the center column down or skip it for stability",
+      "Pick a tripod that fits your pack, or it stays at home",
+      "Check the quick-release plate is locked before letting go"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Panasonic weights: S5II 740 g with battery and card; + 20-60mm (350 g) = 1,090 g; + 70-200mm F4 (985 g without tripod mount) = 1,725 g. Headroom with the 70-200 kit: Corey 2.0 14 kg = 8.1x; Leofoto 10 kg = 5.8x; Peak Design 9.07 kg = 5.3x; Befree 9 kg = 5.2x; TreeRoot 5 kg = 2.9x.",
+        "source": "https://help.na.panasonic.com/answers/specifications-sheet-lumix-s-series-dc-s5m2/",
+        "absentFrom": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Hybrid chooser: video pans need a head with its own pan lock and drag (Befree 494 pan and friction knobs, TreeRoot independent pan/tilt locks and drag); the Peak Design single-ring head is for stills.",
+        "source": "https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
+        "absentFrom": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Soft long exposures on a tripod: Panasonic recommends turning the image stabilizer off when using a tripod.",
+        "source": "https://help.na.panasonic.com/answers/how-to-set-the-image-stabilizer-lumix-s-series/",
+        "absentFrom": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Column-down height compared: Leofoto 51.97 in (no column), Peak Design 51.25 in, Befree 50.4 in, Corey 2.0 44 in legs only.",
+        "source": "https://3leggedthing.com/en-us/products/corey-2-system-tripod",
+        "absentFrom": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/",
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://forum.cameraegg.org/panasonic-forum/must-have-tripod-and-gimbal-recommendations-for-panasonic-lumix-users-98602/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "s5ii-travel-legs-vibrate-wind",
+        "pain": "Ultralight travel legs vibrate in wind under a full-frame S5II",
+        "details": "On CameraEgg, an S5II owner bound for Iceland worries about vibration on light travel legs, and replies say ultralight legs struggle with an S5II in high winds and recommend thicker or columnless legs.",
+        "sources": [
+          "https://forum.cameraegg.org/panasonic-forum/top-recommended-travel-tripods-for-panasonic-lumix-s5ii-users-57272/",
+          "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "Wind will vibrate across the legs and transmit up to the camera.",
+            "url": "https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "s5ii-ball-head-pans-flex",
+        "pain": "Photo ball heads make S5II video pans jerky or flexy",
+        "details": "A reply in a Camera Rumors S5II video thread says the Peak Design carbon flexes during smooth pans; r/videography posters say pans need a fluid head.",
+        "sources": [
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-34428/",
+          "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/"
+        ],
+        "quotes": [
+          {
+            "text": "If you want to pan then a really good quality, heavy duty tripod and fluid head are best because anything else is likely to yield jerky footage",
+            "url": "https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
+            "via": "search-excerpt"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-center-column-vibration",
+        "pain": "Raising the center column makes the tripod shake",
+        "details": "From data/pain-points.json; S5II owners also praise columnless legs for this reason.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
+          "https://www.camera-rumors.com/community/panasonic-forum/what-is-the-best-tripod-for-panasonic-lumix-s5ii-83314/"
+        ],
+        "quotes": [
+          {
+            "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+            "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-stabilization-left-on-tripod",
+        "pain": "Image stabilization left on blurs shots taken on a tripod",
+        "details": "From data/pain-points.json; Panasonic recommends turning the S-series stabilizer off on a tripod.",
+        "sources": [
+          "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/",
+          "https://help.na.panasonic.com/answers/how-to-set-the-image-stabilizer-lumix-s-series/"
+        ],
+        "quotes": [
+          {
+            "text": "Turning off IS solved the problem.",
+            "url": "https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-hanging-weight-swings",
+        "pain": "A bag hung from the hook swings in wind",
+        "details": "A Camera Rumors S5II thread warns a swinging bag creates a pendulum effect.",
+        "sources": [
+          "https://www.camera-rumors.com/community/panasonic-forum/best-tripod-for-panasonic-lumix-s5ii-22233/"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "740g",
+        "claim": "Lumix S5II weight with battery and SD card",
+        "url": "https://help.na.panasonic.com/answers/specifications-sheet-lumix-s-series-dc-s5m2/",
+        "quote": "Approx. 740g / 1.64 lb (Body, Hot Shoe Cover, Battery, SD Memory Card x 1) (excluding body cap)"
+      },
+      {
+        "number": "985g",
+        "claim": "LUMIX S PRO 70-200mm F4 weight",
+        "url": "https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r70200.html",
+        "quote": "Weight 985g Approximately. Weight excluding lens cap, lens rear cap, lens hood and external tripod mount."
+      },
+      {
+        "number": "350g",
+        "claim": "LUMIX S 20-60mm weight",
+        "url": "https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r2060.html",
+        "quote": "Weight. 350g. Approximately."
+      },
+      {
+        "number": "14 kg / 30 lb",
+        "claim": "Corey 2.0 load at 23 degree leg angle",
+        "url": "https://3leggedthing.com/en-us/products/corey-2-system-tripod",
+        "quote": "Holds up to 14 kg / 30 lb"
+      }
+    ],
+    "videos": [
+      {
+        "id": "8Ggao1u24Hc",
+        "title": "LeoFoto LS-284C and LH-30 Ballhead Tripod Reviewed",
+        "channel": "YouTube reviewer",
+        "url": "https://www.youtube.com/watch?v=8Ggao1u24Hc",
+        "section": "Lumix S5II tripod problems owners run into, and the fix"
+      }
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-sony-a7iv",
+        "find": "It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend.",
+        "replace": "It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend, and it also leads our [Lumix S5II tripod picks](/blog/best-tripod-for-lumix-s5ii/)."
+      },
+      {
+        "slug": "best-travel-tripod-for-mirrorless-camera",
+        "find": "The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity.",
+        "replace": "The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity, while a [Lumix S5II with a 70-200mm](/blog/best-tripod-for-lumix-s5ii/) will."
+      }
+    ],
+    "textrazor": {
+      "file": "data/briefs/best-tripod-for-lumix-s5ii.entities.json",
+      "pagesAnalyzed": 5,
+      "updated": "2026-11-07",
+      "note": "Run on the five readable forum threads; Reddit and Facebook results cannot be scraped. Off-topic entities (Gear, Bag, Budget, UrbanPhoenix, Camera as fictional species) dropped."
+    },
+    "answerTerms": [
+      {
+        "question": "What is the best tripod for a Lumix S5II?",
+        "mapsTo": "intro + FAQ",
+        "terms": [
+          "load capacity",
+          "folded length",
+          "center column",
+          "Arca-Swiss"
+        ]
+      },
+      {
+        "question": "How much weight does an S5II with a lens put on a tripod?",
+        "mapsTo": "H2 load math + FAQ",
+        "terms": [
+          "740 g",
+          "grams",
+          "pounds",
+          "load rating"
+        ]
+      },
+      {
+        "question": "Do I need a fluid head for S5II video?",
+        "mapsTo": "H2 video head + FAQ",
+        "terms": [
+          "fluid head",
+          "ball head",
+          "pan lock",
+          "drag"
+        ]
+      },
+      {
+        "question": "Should I turn off IBIS on a tripod with the S5II?",
+        "mapsTo": "problems section + FAQ",
+        "terms": [
+          "image stabilizer",
+          "tripod",
+          "Panasonic",
+          "off"
+        ]
+      },
+      {
+        "question": "Is the Peak Design Travel Tripod good for the S5II?",
+        "mapsTo": "FAQ",
+        "terms": [
+          "20 lb",
+          "column down",
+          "wind",
+          "pan"
+        ]
+      },
+      {
+        "question": "Will these tripods fit the S5IIX and original S5?",
+        "mapsTo": "FAQ",
+        "terms": [
+          "1/4-20",
+          "tripod socket",
+          "same body"
+        ]
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}
