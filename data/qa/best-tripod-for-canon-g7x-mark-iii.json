@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-g7x-mark-iii",
   "pass": true,
-  "checkedAt": "2026-11-07T11:32:49.127Z",
+  "checkedAt": "2026-11-07T11:37:36.709Z",
   "errors": [],
   "warnings": [
     "product \"Canon Tripod Grip HG-100TBR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,18 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/608724.pdf",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/view-all-accessories/powershot-g7-x-mark-iii",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/8561317209/canon-powershot-g7x-mark-iii-review/",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1or0kg3/canon_g7x_iii_reviews_before_buying/",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/",
+    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/"
   ],
   "factCheck": {
     "verified": true,
