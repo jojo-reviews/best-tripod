@@ -416,7 +416,9 @@ faqs:
       Turn digital IS off. DPReview's figures show that Enhanced and
       subject-tracking IS crop 4K up to 30p by 1.43x, and on a still tripod you
       don't need it, so you keep the full wide angle.
-  - q: Will a tripod made for a Canon EOS or mirrorless camera fit the PowerShot V1?
+  - q: >-
+      Will a tripod made for a Canon EOS or mirrorless camera fit the PowerShot
+      V1?
     a: >-
       Yes. A tripod sold for Canon EOS, mirrorless or other digital cameras fits
       the PowerShot V1, because they all use the same 1/4"-20 tripod socket.
@@ -429,10 +431,10 @@ faqs:
       51.25 in without raising the column.
 author: editorial-team
 related:
+  - best-tripod-for-canon-g7x-mark-iii
   - best-tabletop-camera-tripod
   - best-tripod-for-canon-r50
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
-  - best-travel-tripod-for-mirrorless-camera
 videos:
   - id: yTsarUrZM80
     afterHeading: 5

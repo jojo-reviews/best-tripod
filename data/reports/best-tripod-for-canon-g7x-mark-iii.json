@@ -1,0 +1,666 @@
+{
+  "keyword": "best tripod for canon g7x mark iii",
+  "createdAt": "2026-11-07T11:33:22.399Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Canon G7X Mark III",
+    "entityVariants": [
+      "G7X Mark III tripod",
+      "tripod for Canon G7X Mark III",
+      "Canon G7 X Mark III tripod",
+      "mini tripod for Canon G7X Mark III",
+      "G7X Mark III vlogging tripod",
+      "tripod stand for Canon G7X Mark III"
+    ],
+    "entities": [
+      {
+        "name": "Canon PowerShot G7 X Mark III",
+        "type": "camera",
+        "relation": "the 304 g compact vlogging camera the tripod has to hold",
+        "salience": 0.72,
+        "pages": 2
+      },
+      {
+        "name": "tripod",
+        "type": "product category",
+        "relation": "the support being chosen",
+        "salience": 0.93,
+        "pages": 2
+      },
+      {
+        "name": "camera tripod",
+        "type": "product category",
+        "relation": "three-legged camera support; the central product type",
+        "salience": 0.71,
+        "pages": 3
+      },
+      {
+        "name": "Canon",
+        "type": "company",
+        "relation": "maker of the G7X Mark III and the HG-100TBR tripod grip",
+        "salience": 0.65,
+        "pages": 2
+      },
+      {
+        "name": "Manfrotto",
+        "type": "company",
+        "relation": "maker of the PIXI Mini and PIXI EVO tabletop tripods",
+        "salience": 0.58,
+        "pages": 3
+      },
+      {
+        "name": "camera",
+        "type": "device",
+        "relation": "the device the tripod supports",
+        "salience": 0.56,
+        "pages": 3
+      },
+      {
+        "name": "vlogging",
+        "type": "use case",
+        "relation": "the G7X Mark III's main job and the reason for a tripod grip",
+        "salience": 0.45,
+        "pages": 3
+      },
+      {
+        "name": "cold shoe",
+        "type": "accessory mount",
+        "relation": "where a mic or light mounts; the G7X Mark III has none, so the grip or a bracket supplies it",
+        "salience": 0.51,
+        "pages": 2
+      },
+      {
+        "name": "battery",
+        "type": "camera part",
+        "relation": "the NB-13L battery sits under a door next to the tripod socket",
+        "salience": 0.47,
+        "pages": 2
+      },
+      {
+        "name": "Tripod Grip HG-100TBR",
+        "type": "accessory",
+        "relation": "Canon grip listing the G7 X Mark III as compatible, with the BR-E1 remote",
+        "salience": 0.5
+      },
+      {
+        "name": "Wireless Remote Control BR-E1",
+        "type": "accessory",
+        "relation": "Bluetooth remote that starts recording from about 16 ft",
+        "salience": 0.4
+      },
+      {
+        "name": "1/4\"-20 tripod socket",
+        "type": "standard",
+        "relation": "the screw thread every pick uses",
+        "salience": 0.45
+      },
+      {
+        "name": "ball head",
+        "type": "tripod part",
+        "relation": "levels and tilts the camera on the minis and the travel tripod",
+        "salience": 0.4
+      },
+      {
+        "name": "vertical video",
+        "type": "use case",
+        "relation": "the G7X Mark III records vertical video, so the head must tilt 90 degrees",
+        "salience": 0.4
+      },
+      {
+        "name": "microphone",
+        "type": "accessory",
+        "relation": "the G7X Mark III has a 3.5 mm mic input; the mic needs a bracket or the grip",
+        "salience": 0.35
+      },
+      {
+        "name": "Joby GorillaPod",
+        "type": "product line",
+        "relation": "flexible-leg mini tripods, the 1K Kit sized for compacts",
+        "salience": 0.35
+      },
+      {
+        "name": "Peak Design Travel Tripod",
+        "type": "product",
+        "relation": "full-height travel tripod Canon sells as a G7 X Mark III accessory",
+        "salience": 0.35
+      }
+    ],
+    "attributes": [
+      "camera weight (304 g with battery and card)",
+      "rated load and headroom over the camera",
+      "maximum height and height without the center column",
+      "folded length",
+      "tripod weight",
+      "90-degree tilt for vertical video",
+      "remote control for the flip-up selfie screen",
+      "mic mount or cold shoe",
+      "access to the battery and SD card door",
+      "leg type: rigid, two-section, flexible or five-section travel legs"
+    ],
+    "ngrams": [
+      "canon g7x mark iii",
+      "mini tripod",
+      "tripod grip",
+      "travel tripod",
+      "tabletop tripod",
+      "ball head",
+      "vertical video",
+      "battery door",
+      "flexible legs",
+      "wireless remote"
+    ],
+    "skipgrams": [
+      "tripod…g7x",
+      "battery…door",
+      "remote…grip",
+      "legs…level",
+      "vertical…tilt",
+      "mini…table"
+    ],
+    "nlpTerms": [
+      "vlogging",
+      "selfie screen",
+      "load capacity",
+      "folded length",
+      "center column",
+      "quick release plate",
+      "Arca-type",
+      "Bluetooth",
+      "SD card",
+      "cold shoe",
+      "portrait orientation",
+      "tabletop"
+    ],
+    "questions": [
+      "What is the best tripod for the Canon G7X Mark III?",
+      "Does the Canon HG-100TBR work with the G7X Mark III?",
+      "Can you change the G7X Mark III battery while it is on a tripod?",
+      "How do you film vertical video with a G7X Mark III on a tripod?",
+      "Is a GorillaPod good for the G7X Mark III?",
+      "Do I need a full-size tripod for the G7X Mark III?",
+      "How much weight does a G7X Mark III tripod need to hold?"
+    ],
+    "answerTerms": {
+      "Does the Canon HG-100TBR work with the G7X Mark III?": [
+        "compatible",
+        "BR-E1",
+        "1 kg",
+        "PowerShot"
+      ],
+      "Can you change the G7X Mark III battery while it is on a tripod?": [
+        "battery door",
+        "SD card",
+        "tripod socket",
+        "unscrew"
+      ],
+      "How do you film vertical video with a G7X Mark III on a tripod?": [
+        "90°",
+        "notch",
+        "portrait",
+        "vertical"
+      ],
+      "Is a GorillaPod good for the G7X Mark III?": [
+        "flexible legs",
+        "1 kg",
+        "level",
+        "wrap"
+      ],
+      "Do I need a full-size tripod for the G7X Mark III?": [
+        "height",
+        "long exposure",
+        "folded length",
+        "eye level"
+      ],
+      "How much weight does a G7X Mark III tripod need to hold?": [
+        "304 g",
+        "load capacity",
+        "mic",
+        "headroom"
+      ]
+    },
+    "contentGaps": [
+      "No top page sizes each pick's rated load against the G7X Mark III's 304 g",
+      "No top page explains that the tripod socket and the battery/SD door share the base, or how to swap a battery without unmounting",
+      "No top page tells vertical-video shooters which heads tilt 90 degrees and which struggle with a camera in portrait",
+      "No top page gives a who-should-buy-which rule by where you film"
+    ],
+    "outline": [
+      {
+        "h2": "G7X Mark III tripod specs compared against a 304 g camera",
+        "intent": "comparison table on load headroom, height and folded length",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these G7X Mark III tripods",
+        "intent": "method and evidence, From our notes block",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Canon G7X Mark III, reviewed",
+        "intent": "product reviews",
+        "h3": [
+          "Canon Tripod Grip HG-100TBR: best G7X Mark III tripod grip for vlogging",
+          "Manfrotto PIXI Mini Tripod: best pocket tripod for the G7X Mark III",
+          "Joby GorillaPod 1K Kit: best flexible tripod for railings and branches",
+          "Manfrotto PIXI EVO 2-Section Mini Tripod: best tabletop tripod for vertical video",
+          "Peak Design Travel Tripod (Aluminum): best full-height G7X Mark III tripod"
+        ]
+      },
+      {
+        "h2": "Which G7X Mark III tripod should you get?",
+        "intent": "decision rule",
+        "h3": []
+      },
+      {
+        "h2": "How to set up the G7X Mark III on a tripod for vertical video",
+        "intent": "how-to steps",
+        "h3": []
+      },
+      {
+        "h2": "G7X Mark III tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 1650,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+        "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+        "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+        "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "https://www.reddit.com/r/canon/comments/1mk3kba/canon_g7x_mk_iii_accessories/",
+        "https://www.youtube.com/watch?v=lTZnYvMEwtg"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The one full roundup in the top 10 (CameraEgg) reviews each tripod in one long paragraph with a best-for line and no pros/cons lists; Mummy of Four also writes a short paragraph per tripod. The rest are forum threads, a Canon shop page and videos.",
+      "avgWords": 1600,
+      "avgProducts": 4,
+      "commonSections": [
+        "top picks",
+        "product reviews",
+        "buying guide (portability, load capacity, head, legs)",
+        "comparison table",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.amazon.com/canon-g7x-Camera-Tripods-Monopods-Photo/s?k=canon+g7x&rh=n%3A499306",
+        "title": "Canon G7x - Camera Tripods & Monopods / Camera & Photo"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/canon/comments/1mk3kba/canon_g7x_mk_iii_accessories/",
+        "title": "Canon G7X Mk III Accessories - Reddit"
+      },
+      {
+        "position": 3,
+        "url": "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "title": "Shop Canon Tripod Grip HG-100TBR"
+      },
+      {
+        "position": 4,
+        "url": "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+        "title": "Which travel tripod for Powershot G7X mark ii? - DPReview"
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/groups/368214579583476/posts/611776835227248/",
+        "title": "What is a good sturdy tripod for the Powershot G7x Mark III?"
+      },
+      {
+        "position": 6,
+        "url": "https://www.tiktok.com/@activeaiah/video/7629173661198503175",
+        "title": "Tripod I use for both my canon g7x and iPhone! both ... - TikTok"
+      },
+      {
+        "position": 7,
+        "url": "https://www.target.com/s/mini+tripod+for+canon+g7x",
+        "title": "mini tripod for canon g7x - Target"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=lTZnYvMEwtg",
+        "title": "G7XII Best Mini Tripods #g7xmarkii - YouTube"
+      },
+      {
+        "position": 9,
+        "url": "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+        "title": "Best Accessories For Vlogging With The Canon G7X Mark iii ..."
+      },
+      {
+        "position": 10,
+        "url": "https://www.canoncamerageek.com/best-tripod-for-canon-powershot-g1x-mark-iii.html",
+        "title": "Best Tripod For Canon Powershot G1X Mark III"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Canon G7X Mark III",
+        "accessories",
+        "mini tripods",
+        "vlogging",
+        "travel tripod"
+      ],
+      "gap": "No top title sizes the picks to the G7X Mark III's 304 g or promises one pick per filming spot (hand, table, railing, standing height); no year in any top-10 title, so no year in ours."
+    },
+    "commonPoints": [
+      "The G7X Mark III is light, so almost any tripod holds it; portability matters more than load",
+      "Mini or tabletop tripods and grips suit vlogging; a travel tripod is for height and long exposures",
+      "Canon's HG-100TBR grip with the BR-E1 remote is the dedicated vlogging option",
+      "The Manfrotto PIXI Mini levels quickly and doubles as a handle",
+      "Flexible GorillaPod legs wrap poles and branches",
+      "The camera uses a standard 1/4\"-20 tripod socket"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom for every pick against the G7X Mark III's 304 g with battery and card: about 3.3x on the HG-100TBR, PIXI Mini and GorillaPod 1K (all 1 kg), 8.2x on the PIXI EVO (2.5 kg), about 30x on the Peak Design (9.1 kg); and the camera-plus-tripod weight for each",
+        "source": "https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii; maker and retailer spec pages",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+          "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "The tripod socket sits beside the battery door, which also covers the SD card, and the CIPA battery life is 235 shots: screw a mini straight in and unscrew it to swap, or fit a cold shoe base plate that leaves the door free",
+        "source": "https://www.reddit.com/r/canon/comments/1or0kg3/canon_g7x_iii_reviews_before_buying/; https://www.dpreview.com/reviews/8561317209/canon-powershot-g7x-mark-iii-review/; https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+          "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Vertical video: the G7X Mark III records vertical clips, but a small ball head has to hold it in portrait; the PIXI EVO's 90-degree notch and the Ball Head 1K's 90-degree tilt do it, and one PIXI EVO owner found it would not hold a 290 g ZV-E10 in portrait, so lock it and keep the lens over the leg",
+        "source": "https://www.dpreview.com/reviews/8561317209/canon-powershot-g7x-mark-iii-review/; https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews; https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/",
+        "absentFrom": [
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+          "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by filming spot: in the hand with a remote (HG-100TBR), on a cafe table (PIXI Mini), on a railing or branch (GorillaPod 1K), on uneven tables or in portrait (PIXI EVO), at standing height or for long exposures (Peak Design)",
+        "source": "our decision rule from the specs above",
+        "absentFrom": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "tabletop-mini-tripods-g7x-iii-battery-door",
+        "pain": "The G7X Mark III tripod socket sits next to the battery and SD card door, so the door won't open with a tripod mount attached",
+        "details": "Owners list the socket placement as a flaw; a G7X vlogger fixes it with a cold shoe base plate that leaves the door free.",
+        "sources": [
+          "https://www.reddit.com/r/canon/comments/1or0kg3/canon_g7x_iii_reviews_before_buying/",
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/"
+        ],
+        "quotes": [
+          {
+            "text": "It's absolutely impossible to open the battery door with a tripod mount attached to the camera.",
+            "url": "https://www.reddit.com/r/canon/comments/1or0kg3/canon_g7x_iii_reviews_before_buying/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-g7x-vertical-video",
+        "pain": "G7X owners filming TikTok and Reels need a tripod that holds the camera vertically",
+        "details": "Owners ask which tripod lets them film vertically for cooking and talking clips; small heads can creep in portrait.",
+        "sources": [
+          "https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/",
+          "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html/reviews"
+        ],
+        "quotes": [
+          {
+            "text": "I want to use my mark g7 to film content for tiktok/insta so I need to film vertically.",
+            "url": "https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-g7x-full-tripod-slow",
+        "pain": "A full-size tripod takes too long to set up for a pocket camera like the G7X Mark III",
+        "details": "A G7X Mark III owner on r/photography asks for a quicker tripod because a stable one takes ages to set up.",
+        "sources": [
+          "https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/"
+        ],
+        "quotes": [
+          {
+            "text": "it offers a stable support but it takes ages to set up",
+            "url": "https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-flexible-level-horizon",
+        "pain": "It's hard to get a level horizon or exact framing on bendable legs",
+        "details": "A G7X vlogger moved from a GorillaPod to a PIXI Mini because leveling was harder; a DPReview G7X owner found a GorillaPod useless out in the open.",
+        "sources": [
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/"
+        ],
+        "quotes": [
+          {
+            "text": "I found it harder to get the camera level and the legs kept detaching.",
+            "url": "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/"
+          },
+          {
+            "text": "I have tried a Gorillapod but find it useless out in the open.",
+            "url": "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/"
+          }
+        ]
+      },
+      {
+        "id": "tabletop-mini-tripods-too-low-off-a-table",
+        "pain": "A mini tripod sits too low to film yourself unless there is a table, wall or ledge",
+        "details": "Minis need a surface at the height you want; a DPReview G7X owner says the low angle can also be a benefit.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/"
+        ],
+        "quotes": [
+          {
+            "text": "You need to set it on something like a table or rock if you want to shoot at height",
+            "url": "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "304 g",
+        "claim": "G7 X Mark III weight with battery and memory card",
+        "url": "https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii",
+        "quote": "Black & Silver Models: Approx. 10.7 oz. / 304g (including battery and memory card)"
+      },
+      {
+        "number": "1 kg",
+        "claim": "HG-100TBR maximum total camera weight",
+        "url": "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "quote": "Attaching to cameras with a total weight (including lens and accessories) exceeding 1 kg (35.27 oz) is not recommended."
+      },
+      {
+        "number": "235",
+        "claim": "G7 X Mark III CIPA battery life in shots",
+        "url": "https://www.dpreview.com/reviews/8561317209/canon-powershot-g7x-mark-iii-review/",
+        "quote": "235 shot battery life per CIPA standard"
+      },
+      {
+        "number": "16 ft",
+        "claim": "BR-E1 remote range with the HG-100TBR",
+        "url": "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+        "quote": "record your next inspiring video from a distance of up to approximately 16 ft."
+      },
+      {
+        "number": "2.5 kg",
+        "claim": "PIXI EVO load capacity (5.5 lb on B&H)",
+        "url": "https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+        "quote": "Load Capacity: 5.5 lb, Max Height: 7.7\", Min Height: 2.4\", Leg Sections: 2, Weight: 9.4 oz"
+      }
+    ],
+    "videos": [
+      {
+        "id": "lTZnYvMEwtg",
+        "title": "G7XII Best Mini Tripods #g7xmarkii",
+        "channel": "Mark Friday",
+        "url": "https://www.youtube.com/watch?v=lTZnYvMEwtg",
+        "section": "The 5 best tripods for the Canon G7X Mark III, reviewed"
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Canon Tripod Grip HG-100TBR",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.reddit.com/r/canon/comments/1mk3kba/canon_g7x_mk_iii_accessories/",
+          "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI Mini Tripod",
+        "pages": [
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/",
+          "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/",
+          "https://www.youtube.com/watch?v=lTZnYvMEwtg",
+          "https://ihitthebutton.com/best-vlogging-cameras/",
+          "https://www.youtube.com/watch?v=Af6fGQLBFkk"
+        ]
+      },
+      {
+        "name": "Joby GorillaPod 1K Kit",
+        "pages": [
+          "https://www.youtube.com/watch?v=lTZnYvMEwtg",
+          "https://www.youtube.com/watch?v=dHlwnI2-2EY"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://forum.sony-rumors.com/compact/best-compact-tripod-recommendations-for-the-sony-zv-1-camera-32914/",
+          "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/"
+        ]
+      },
+      {
+        "name": "Peak Design Travel Tripod (Aluminum)",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/",
+          "https://www.usa.canon.com/shop/view-all-accessories/powershot-g7-x-mark-iii"
+        ]
+      },
+      {
+        "name": "Ulanzi MT-16 Extendable Tripod (not used)",
+        "pages": [
+          "https://www.youtube.com/watch?v=84PlDdJa_l8",
+          "https://comicsgate.org/2021/02/16/lets-go-mobile-on-a-budget-ulanzi-mt-16-extendable-vlogging-tripod-and-vl49-led-video-light/"
+        ]
+      },
+      {
+        "name": "Gitzo Traveler Series 1 (not used, one page)",
+        "pages": [
+          "https://www.cameraegg.org/camerareview/best-tripod-for-canon-powershot-g7x-mark-iii/"
+        ]
+      },
+      {
+        "name": "K&F Concept tripod (not used, model unnamed, one page)",
+        "pages": [
+          "https://mummyoffour.com/blogging/best-accessories-canon-g7x-mark-iii/"
+        ]
+      }
+    ],
+    "serpProductsNote": "The SERP is thin (forums, social, a Canon shop page, one roundup), so G7X Mark II pages (same body size and socket) and compact-vlogging-camera threads (ZV-1) count as close variants. The Ulanzi MT-16 qualified too but was left out to keep the list distinct from our PowerShot V1 picks; the Gitzo and K&F had only one backer.",
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-canon-powershot-v1",
+        "find": "A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot.",
+        "replace": "A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot (our [Canon G7X Mark III tripod picks](/blog/best-tripod-for-canon-g7x-mark-iii/) cover its successor)."
+      },
+      {
+        "slug": "best-tripod-for-ricoh-gr-iii",
+        "find": "The Ricoh GR IIIx and Ricoh GR IV add just 5 g each.",
+        "replace": "The Ricoh GR IIIx and Ricoh GR IV add just 5 g each, and the same weight logic sizes our [tripods for the Canon G7X Mark III](/blog/best-tripod-for-canon-g7x-mark-iii/)."
+      }
+    ],
+    "textrazor": {
+      "file": "data/briefs/best-tripod-for-canon-g7x-mark-iii.entities.json",
+      "pagesAnalyzed": 3,
+      "note": "DPReview blocked TextRazor's fetch (Cloudflare); CameraEgg, Mummy of Four and Canon's HG-100TBR page were analyzed."
+    },
+    "googleModifiers": {
+      "date": "2026-11-07",
+      "source": "data/briefs/best-tripod-for-canon-g7x-mark-iii.suggest.json",
+      "modifiers": [
+        "mini tripod",
+        "tripod stand",
+        "is the canon g7x mark iii good for vlogging",
+        "canon g7x mark iii tips"
+      ],
+      "related": [
+        "best tripod for canon g7x mark ii",
+        "tripod for canon g7x mark ii"
+      ],
+      "used": [
+        "mini tripod (secondary keyword, PIXI Mini and EVO sections)",
+        "tripod stand (secondary keyword)",
+        "vlogging (grip section and chooser)",
+        "g7x mark ii (owner reports on the same body)"
+      ],
+      "skipped": [
+        "is canon g7x mark iii good for photography / worth it (camera review intent, not tripods)"
+      ]
+    },
+    "amazonFilters": {
+      "date": "2026-11-07",
+      "url": "https://www.amazon.com/s?k=best+tripod+for+canon+g7x+mark+iii",
+      "groups": [
+        {
+          "group": "Sort by",
+          "options": [
+            "Featured",
+            "Price: Low to High",
+            "Price: High to Low",
+            "Avg. Customer Review",
+            "Newest Arrivals",
+            "Best Sellers"
+          ]
+        }
+      ],
+      "used": [],
+      "skipped": [
+        "Sort by (shopping-only; the page showed no left-sidebar filter groups for this query)"
+      ]
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-canon-powershot-v1",
+      "mode": "related-box"
+    },
+    {
+      "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-ricoh-gr-iii",
+      "mode": "related-box"
+    }
+  ]
+}

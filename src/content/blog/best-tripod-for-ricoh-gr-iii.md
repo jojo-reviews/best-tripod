@@ -468,8 +468,10 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-ricoh-gr-iii.png
 heroAlt: >-
-  Best Tripod for Ricoh GR III – 5 Picks, All Under 2 lb – Best Tripod
-  buying guide
+  Best Tripod for Ricoh GR III – 5 Picks, All Under 2 lb – Best Tripod buying
+  guide
+related:
+  - best-tripod-for-canon-g7x-mark-iii
 ---
 
 A Ricoh GR III tripod has to be small enough to come along every day, because the GR III is an APS-C point-and-shoot camera that lives in a pocket. So the best tripod for Ricoh GR III owners, for street photography and night walks, is usually a mini. For most people that is the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); for standing-height long exposures it is the [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). I matched five tripods to the camera using maker specs and GR owner threads on r/ricohGR, DPReview, FM Forums and PentaxForums. All five weigh under 2 lb, and I have not used these tripods myself.

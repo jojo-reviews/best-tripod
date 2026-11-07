@@ -1,0 +1,107 @@
+{
+  "keyword": "best tripod for canon g7x mark iii",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Vlog",
+      "type": "/business/industry",
+      "pages": 3,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "wikidata": "Q674926",
+      "kgmid": "/m/04rh6b"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.93,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Canon PowerShot G7 X",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_PowerShot_G7_X",
+      "wikidata": "Q18386515",
+      "kgmid": "/m/011v67mr"
+    },
+    {
+      "entity": "G7X",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": ""
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "wikidata": "Q62621",
+      "kgmid": "/m/01bvx1"
+    },
+    {
+      "entity": "Hot shoe",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Hot_shoe",
+      "wikidata": "Q227515",
+      "kgmid": "/m/08hrp1"
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
+      "wikidata": "Q267298",
+      "kgmid": "/m/01c0z"
+    },
+    {
+      "entity": "Shoe",
+      "type": "/organization/organization_sector",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Shoe",
+      "wikidata": "Q22676",
+      "kgmid": "/m/06rrc"
+    }
+  ],
+  "errors": [
+    "https://www.dpreview.com/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-G3KhQpSSGfM67fJFGg5V9T&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"G3KhQpSSGfM67fJFGg5V9T\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'QaaHDUy0lusBbwWM_D3pSOPwFiMbHfMsAh.CLxR9ls0-1794050775-1.2.1.1-Ty5TS8rUo8YJPjzt3ghgbLykE0IZVCff1Pz2G2iAAQgIn9TfMuIBR6wGDvZSGnjV',cITimeS: '1794050775',cN: 'G3KhQpSSGfM67fJFGg5V9T',cRay: 'a56bfb6059011f6d',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/?__cf_chl_tk=JCd2h8XLH7YM3vGHjpIQf2L.QUVLRVCMmISAgZ2wknI-1794050775-1.0.1.1-3_JIYm86gcfd.fDq7.wKvpWRMeH5ND85uPZudme7dGY\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/?__cf_chl_f_tk=JCd2h8XLH7YM3vGHjpIQf2L.QUVLRVCMmISAgZ2wknI-1794050775-1.0.1.1-3_JIYm86gcfd.fDq7.wKvpWRMeH5ND85uPZudme7dGY\",md: 'GQg5P9FtQNYJiLB8hn.80zkSKDZuVu8QEjQ56ldS4qQ-1794050775-1.2.1.1-Xtzz22F8wAPr7nNAW6f4Nvt4NmlH8fzYj2qg._X_S7bVdsfyCw4TeQ2I3zmxCv2UP_4Xi44Zd03LY_9s1aWGTafaxMZJO7P.sBtHuGsAUQRVkqmFB3O2rSXuWCr7TyVGAlitLaTtnzXXIvDaTxSs6VAFhU8HeFGYtVQv96hfMyEBBoYgz_jPcHRZT8xJrm3c2qNJzPOC8uSqofYTQ5zYiHA33i6yVSji3JID8nb8KGymrKm20UZkcWTKTNDSAE8NxRSReH.umCdPHhsGU.mmINWDV8G7Zku8nQHShqNlJnSSPPmEtAX5hJRsrBD8PmnTjaY8wAMufapGsKbJtcKbMeUdYs2kv8.wgZe4_qW16ievlGUG76t5RpfNZb3.zBn3c3gxtttTgxyNoaiIrg1QMaEAVXkAMfxizVGo6XbzSstUFejwlA5uxWvf9a6nyBGHL7bKZBIlUVTeKaX3O94T7Zi22H1EPngMYEeiO4BaQZ5Rrkp96Pz2JJOA.VZ0YG9LzeQDkj3NukaqCIMN_UVg7_gGFkm5gqWKfzEc24kRg8y25kP_kaPtMVtdqU17Rn7YwcFvwTIArPeC8Ovrh3x7KcF7_2Tp7oQbsQM0OLCKXLx.BnjDv1gcfCTQ2ww7_cEIxWJRy8L6mrW6Adz9mb5XbsLR5OEYdPkBCM4.ET31iPa4wvjVX30NGJXL1kIfca0EIOjECQXvABWjw0wvYJel.IF5zgGbEr2IeVLhJqL1Mhp6S82_gSpJEDFeNkO4uFSZTVqRiqjl81YjK46rAEwhzSHwzAcKusB9SImTIux0DPOLKKL7NQdYBAONgGKef_Z96aXh3z87wYl81dMVuk4_5NI28roqCw9Cjrsn2wPkoIFY4tQXV5WAgODCbD2EQ1yQb3ABG7E1cfyk.BIFxs5Rj50l9dC1F4O6kL2lt7FiQ1CfOu_AOs1UG3FA7jNTncKYxgT3Dw70T0EHi9WovCdFR8TH2IUAX2GIGTlCTd.mnoIsfp7Ai191avbYsQYWPx5KxH.NRXRjPHdAne2TAKhW.pvSh4lYNByNtBQWH88S8ZsLJhGWPmAGKu7Zx3NBk_biDc7ec4Hc7K.qdH53TjJDuSgFyqyXPLoiPu4f34X4fFZc3ZagFtR.1vfNwPzsSOy38Qk1cnp_izA1AlgevUHsyaX21XNt6Zblqw88jXsTVAM',mdrd: 'JQypj1C3m2416Wsm6XvsipyAMhQ4Bw9pjOH3zXJoGWE-1794050775-1.2.1.1-p1VTkBkKzUaClACiNhlKClTBI9bcQye0DbvpQcTuNYIVEPx6tvq.337lDa7AanomjSHfpo7K6vFiP7Jdo6HDvAspgqNzvKIW5Zgr2SUTC0O5mbwenJeCNFH6J1QkdwE4cXB8e.H0D5krP9F70SWh8fqAmqV4UeKPxr_uVeS0ImSNa6iA1lrBivyGJ_1ibdf_m0uo51xWjiGEFEPOSdfS3wznoO7qGI3a0l.GgUOVy8u5OR.yfpcCz3OIfJSE7fp6iVE1bO2.wBhctEi2L5K6vw',};var a = document.createElement('script');a.nonce = 'G3KhQpSSGfM67fJFGg5V9T';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a56bfb6059011f6d';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/which-travel-tripod-for-powershot-g7x-mark-ii.4364855/?__cf_chl_rt_tk=JCd2h8XLH7YM3vGHjpIQf2L.QUVLRVCMmISAgZ2wknI-1794050775-1.0.1.1-3_JIYm86gcfd.fDq7.wKvpWRMeH5ND85uPZudme7dGY\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr: <HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;usa&#46;canon&#46;com&#47;shop&#47;p&#47;tripod&#45;grip&#45;hg&#45;100tbr\" on this server.<P>\nReference&#32;&#35;18&#46;869b3e17&#46;1794050775&#46;34f3c527\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;869b3e17&#46;1794050775&#46;34f3c527</P>\n</BODY>\n</HTML>\n"
+  ]
+}

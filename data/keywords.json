@@ -5872,7 +5872,7 @@
     "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for uneven ground",
@@ -5888,7 +5888,51 @@
     "funnel": "bofu",
     "cluster": "uneven",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "parkedAt": "2026-11-07T11:25:27.108Z",
+    "lastError": "fewer than 5 qualifying products (owner rule 2026-10-28): the uneven-ground SERP is mostly forums/social/how-to pages; only 3 exact models are recommended by 2+ independent top-10 pages (keyword, uneven surfaces/terrain, best tripod), plus Manfrotto Befree GT XPRO with the material unconfirmed on Wirecutter",
+    "serpProducts": [
+      {
+        "name": "Peak Design Travel Tripod (Carbon Fiber)",
+        "pages": [
+          "https://www.timsmalley.co.uk/blog/best-tripod-for-woodland-photography/",
+          "https://www.cameraegg.org/camerareview/best-tripod-for-wildlife-photography-on-uneven-terrain/",
+          "https://medium.com/@aidenmatchette/the-best-tripods-guide-to-stable-shots-and-surprising-lessons-61bd3d78c851"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5C",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      },
+      {
+        "name": "K&F Concept 64 inch tripod",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree GT XPRO (Aluminum on Fstoppers; Wirecutter names the GT XPRO line, material not confirmed)",
+        "pages": [
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.nytimes.com/wirecutter/reviews/best-tripod/"
+        ]
+      },
+      {
+        "name": "Manfrotto PIXI Mini (tabletop, fixed legs: off-intent for uneven ground)",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://amateurphotographer.com/buying-advice/best-tripod/"
+        ]
+      },
+      {
+        "name": "Single-page only: Vanguard VEO 3+ 263CB (TechGearLab), VEO 3+ 303CBS (AP), Manfrotto MK190XPRO3-BHQ2 (Wirecutter), JOBY GorillaPod 5K Rig (AP), Gitzo GT3543XLS (Tim Smalley), Gitzo GT5543LS / Leofoto LS-365C / Benro TMA28C (CameraEgg), Gitzo GK1545T (Matt Purciel)",
+        "pages": []
+      }
+    ]
   },
   {
     "status": "published",
@@ -5968,12 +6012,17 @@
     "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for canon g7x mark iii",
     "slug": "best-tripod-for-canon-g7x-mark-iii",
-    "secondaryKeywords": [],
+    "secondaryKeywords": [
+      "tripod for canon g7x mark iii",
+      "mini tripod for canon g7x mark iii",
+      "tripod stand for canon g7x mark iii",
+      "canon g7x mark iii vlogging tripod"
+    ],
     "questions": [],
     "priority": 900,
     "category": "tabletop-mini-tripods",
@@ -5982,7 +6031,10 @@
     "funnel": "bofu",
     "cluster": "g7x",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-11-07T10:45:00.000Z",
+    "publishedAt": "2026-11-07T11:33:22.397Z"
   },
   {
     "status": "pending",

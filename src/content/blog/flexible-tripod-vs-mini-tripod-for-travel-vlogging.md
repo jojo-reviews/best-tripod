@@ -252,6 +252,7 @@ heroAlt: >-
   Flexible Tripod vs Mini Tripod for Travel Vlogging – Which to Pack – Best
   Tripod comparison
 related:
+  - best-tripod-for-canon-g7x-mark-iii
   - best-tripod-for-canon-powershot-v1
 ---
 
