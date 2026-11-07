@@ -1,0 +1,23 @@
+{
+  "slug": "es/tripode-para-seestar-s50",
+  "lang": "es",
+  "translationOf": "best-tripod-for-seestar-s50",
+  "pass": true,
+  "checkedAt": "2026-11-07T16:36:15.336Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the es version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-seestar-s50: same 5 products/ASINs/scores/spec keys, metric-first conversions (113,7/63,5 cm, 128/151 cm, 140/170 cm, 79-182 cm, 235-365 mm, 2,35/1,59/2,5/3,7 kg, loads 9/25/30/5 kg), FAQ answers match. Local facts re-opened: Iberia cabin bag 56x40x25 cm 10 kg (iberia.com), Teide Destino Starlight since 2014 (volcanoteide.com), Telescopiomania TC20+TH10 pack (EU availability), Foto Erhardt MKBFRLA4BK-BH. Spanish quotes verified verbatim at astronomo.org topic 35754.60 (scraped). US hardware chain dropped from the washer tip. No prices, no testing claims, no local Amazon claims.",
+    "at": "2026-11-07T16:36:14.900Z",
+    "hash": "30befd2e14903d5d"
+  }
+}

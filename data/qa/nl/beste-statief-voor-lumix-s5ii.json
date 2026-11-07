@@ -1,0 +1,20 @@
+{
+  "slug": "nl/beste-statief-voor-lumix-s5ii",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-lumix-s5ii",
+  "pass": true,
+  "checkedAt": "2026-11-07T16:34:43.794Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after edit: Photofacts half-load sentence now says all five stay under the limit with the TreeRoot tightest (1.725 g vs 2,5 kg). Rest as before: compared section by section with best-tripod-for-lumix-s5ii, same 5 products/ASINs/scores, metric-first specs matching English figures (Corey maker figures re-checked on 3leggedthing.com, TreeRoot 155 cm/5 kg on ulanzi.com, listed at kamera-express.be), Panasonic 740 g/985 g links kept, headroom math unchanged, FAQ answers match; local facts KLM 55x35x25 cm, Photofacts, KNMI, FOK and Nikon Club Nederland quotes from the local brief. No prices, testing or local Amazon claims.",
+    "at": "2026-11-07T16:34:43.284Z",
+    "hash": "68cec46fa981bf1d"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "nl/statief-voor-zoom-recorder",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-zoom-recorder",
+  "pass": true,
+  "checkedAt": "2026-11-07T16:37:40.171Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-zoom-recorder: same 5 products/ASINs/scores/spec keys, figures converted metric-first with decimal comma (13,5 cm, 18,5 cm, 0,17 kg, 1 kg, ruim 15 cm, 25 cm, 21 cm, 145 g, 197 cm, 52 cm, 1,35 kg, 4 kg, 61 cm, 51 cm, 0,78 kg, 1,5 kg; 136/280/410 g; 41%/27%), FAQ answers match. Local facts from the nl local brief: audiofreaksforum.nl thread re-opened (kurt and WanFie quotes verbatim, Waasland/Antwerp), Bax Music TPS-5 and Zoom Manfrotto Pixi listings (search results), Thomann.nl 5002BL specs re-opened, KLM 55x35x25 cm and Ryanair 40x30x20 cm from verified briefs. B&H name dropped (figures kept), 'no current US listing' reworded. No testing/ownership claims, prices, currency or local Amazon store. 3 outside links (Zoom H6, Zoom H5studio manual, KLM).",
+    "at": "2026-11-07T16:37:38.708Z",
+    "hash": "fc04deb4d5362650"
+  }
+}

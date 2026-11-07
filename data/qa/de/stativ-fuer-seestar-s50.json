@@ -1,0 +1,23 @@
+{
+  "slug": "de/stativ-fuer-seestar-s50",
+  "lang": "de",
+  "translationOf": "best-tripod-for-seestar-s50",
+  "pass": true,
+  "checkedAt": "2026-11-07T16:33:59.822Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the de version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-seestar-s50: same 5 products/ASINs/scores/spec keys, all heights, weights, loads and folded lengths converted metric-first (113,7/63,5 cm, 128/151 cm, 140/170 cm, 79-182 cm, 235-365 mm, 2,35/1,59/2,5/3,7 kg, 9/25/30/5 kg), FAQ answers match. Local facts re-opened: seestar.com/de FAQ (S50 2,5 kg), Lufthansa cabin bag 55x40x23 cm, visithavelland.de (10 Beobachtungsplaetze, Betonflaechen/Plattenwege, stay on paths), astroshop.de (Star Adventurer tripod sold in DE), Foto Erhardt (MKBFRLA4BK-BH EU kit code). German forum quotes verified verbatim at forum.astronomie.de thread 393359 and astrotreff thread 303573 (search excerpt). US hardware chain name dropped from the washer tip. No prices, no testing claims, no local Amazon claims.",
+    "at": "2026-11-07T16:33:59.419Z",
+    "hash": "b07226414c1862fc"
+  }
+}

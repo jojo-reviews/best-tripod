@@ -1,0 +1,144 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-canon-g7x-mark-iii",
+  "checkedAt": "2026-11-07T16:29:11Z",
+  "productFit": [
+    {
+      "name": "Canon Tripod Grip HG-100TBR",
+      "asin": "B07Z5LZ92N",
+      "status": "fits",
+      "metricSpecs": "Canon: 163 g (body only), approx. 148,5 mm as a tripod, 1 kg max total camera weight; BR-E1 range about 5 m (16 ft)",
+      "reason": "Canon Deutschland sells it as 'Griffstativ HG-100TBR' (4157C001AA) on its own page; Canon DE/ES/NL list the BR-E1 remote as a G7 X Mark III accessory.",
+      "source": "https://www.canon.de/tripods/tripod-grip-hg-100tbr/"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto MTPIXIMII-B: 13,5 cm fixed height, 18,5 cm closed, 1 kg safety payload; keep the English 190 g weight",
+      "reason": "Manfrotto's global page and EU retailers (Thomann) list the MTPIXIMII-B under the same name and code.",
+      "source": "https://www.manfrotto.com/global-uk/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/"
+    },
+    {
+      "name": "Joby GorillaPod 1K Kit",
+      "asin": "B074WFNNKY",
+      "status": "fits",
+      "metricSpecs": "Kamera Express BE lists 26 cm max. height and 1 kg load (same as the English table's 26 cm); keep 0,20 kg from the English post",
+      "reason": "Amazon.es sells the same ASIN as JOBY GorillaPod 1K Kit (model JB01503); Kamera Express lists it in BE/NL.",
+      "source": "https://www.amazon.es/JOBY-GorillaPod-Kit-Compactas-JB01503-BWW/dp/B074WFNNKY"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload (English post: 19,6 cm max, 266 g; keep the English figures in the table, metric first)",
+      "reason": "Calumet Germany sells the MTPIXIEVO-BK under the same name.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Foto Koch (maker article 59202040): 14 cm min., 152,4 cm max. working height, 39,1 cm packed, 9,1 kg load; English post: 130,2 cm column down, 39,4 cm folded, 1,54 kg",
+      "reason": "Foto Koch (DE) and Kamera Express (NL) sell the Peak Design Travel Tripod Aluminium under the same name.",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon Nederland noemt de Wireless afstandsbediening BR-E1 als accessoire van de G7 X Mark III.",
+      "source": "https://www.canon.nl/cameras/powershot-g7-x-mark-iii/specifications/"
+    },
+    {
+      "fact": "Canon Nederland: om te voldoen aan de veiligheidsverordening EU RED EN18031 hebben G7 X Mark III-camera's die vanaf augustus 2025 worden verzonden geen livestreamfunctie (YouTube) meer.",
+      "source": "https://www.canon.nl/cameras/powershot-g7-x-mark-iii/specifications/"
+    },
+    {
+      "fact": "Ryanair staat in elk tarief een kleine persoonlijke tas van 40 x 30 x 20 cm onder de stoel toe; alle vier ministatieven passen in de lengte.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "KLM staat 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe plus een klein accessoire; het Peak Design Travel Tripod (39 cm ingeklapt) past in de lengte.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Termen: statiefgrip, tafelstatief / ministatief, balhoofd, middenkolom, 1/4\"-schroefdraad; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://www.canon.nl/cameras/powershot-g7-x-mark-iii/specifications/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "On city trips nobody wants to carry a big tripod all day.",
+      "fix": "A pocket mini (PIXI Mini, HG-100TBR) stays on the G7X; the Peak Design only for planned evening shots.",
+      "quotes": [
+        {
+          "text": "Vakanties zijn vooral stedentrips, dus een hele dag sjouwen en shoppen met een groot statief bij me, lijkt me geen goed idee.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "A GorillaPod is seen as a tool only for places where a tripod can't or may not stand.",
+      "fix": "English post: pair the GorillaPod with a rigid mini rather than make it your only tripod.",
+      "quotes": [
+        {
+          "text": "Zo'n gorillapod beschouw ik alleen als handig voor situaties waar je een statief wilt, maar niet mag/kunt opzetten.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "A GorillaPod on a railing creeps slowly when the camera's weight hangs on it.",
+      "fix": "Keep a wide weight margin; the 304 g G7X uses under a third of the 1K's 1 kg rating.",
+      "quotes": [
+        {
+          "text": "Het statief komt niet los, maar beweegt heel langzaam. Vaak gebeurt dit als al het gewicht van je camera aan het statief hangt.",
+          "url": "https://avondfotografie.nl/review-joby-gorillapod-3k-kit/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Canon Nederland's BR-E1 accessory listing for the G7 X Mark III.",
+      "source": "https://www.canon.nl/cameras/powershot-g7-x-mark-iii/specifications/"
+    },
+    {
+      "point": "EU-only: no YouTube livestreaming on units shipped from August 2025.",
+      "source": "https://www.canon.nl/cameras/powershot-g7-x-mark-iii/specifications/"
+    },
+    {
+      "point": "Ryanair / KLM bag sizes and the Boerhaave no-tripod rule.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'was in stock in the US when I checked' (How I picked)",
+      "action": "replace",
+      "with": "each has its own Amazon listing; give the real reason: backed by two independent G7X or compact-vlogging sources"
+    },
+    {
+      "english": "Peak Design inch-first figures (51.25 in, 60 in, 15.5 in, 5.5 in, 3.4 lb, 20 lb) and '16 ft' remote range",
+      "action": "replace",
+      "with": "metric first: 130 cm, 152 cm, 39 cm, 14 cm, 1,54 kg, 9,1 kg, about 5 m (16 ft)"
+    },
+    {
+      "english": "'B&H owners' / 'r/canon' attributions",
+      "action": "replace",
+      "with": "keep as attributions (they are the sources), no US store claims"
+    },
+    {
+      "english": "'folded to 15.5 in' (US carry-on framing)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm hand-baggage fact"
+    }
+  ]
+}

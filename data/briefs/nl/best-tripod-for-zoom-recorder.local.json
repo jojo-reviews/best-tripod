@@ -1,0 +1,129 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-zoom-recorder",
+  "checkedAt": "2026-11-07T16:30:45.000Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXIMII-B)",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global page for MTPIXIMII-B: 13,5 cm height, 18,5 cm closed, 0,17 kg, 1 kg payload (same figures as the English post).",
+      "reason": "Sold in the EU under the same code MTPIXIMII-B; Zoom's own German site has offered the PIXI for its Handy recorders.",
+      "source": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/"
+    },
+    {
+      "name": "Zoom TPS-5 Tabletop Tripod Stand",
+      "asin": "B08YP7STY3",
+      "status": "fits",
+      "metricSpecs": "Zoom gives no load or weight; Zoom Spain describes it as 'poco más de quince centímetros' tall, so write ruim 15 cm (6 in).",
+      "reason": "Bax Music (NL/BE) sells the 'Zoom TPS-5 tripod statief voor Zoom recorders' and also the Zoom-branded Manfrotto PIXI.",
+      "source": "https://www.bax-shop.nl/tafel-instrument-microfoon-statief/zoom-tps-5-tripod-statief-voor-zoom-recorders"
+    },
+    {
+      "name": "JOBY GorillaPod 1K Kit",
+      "asin": "B074WFNNKY",
+      "status": "fits",
+      "metricSpecs": "No maker metric page read; keep the English figures converted: 25 cm (10 in) height, 21 cm (8 in) folded, 145 g, 1 kg.",
+      "reason": "Amazon.es lists the same ASIN B074WFNNKY (JB01503); Kamera Express (NL/BE) and German shops list the JB01503; a Swiss Digitec owner used it with a Zoom H1n.",
+      "source": "https://www.amazon.es/JOBY-GorillaPod-Kit-Compactas-JB01503-BWW/dp/B074WFNNKY"
+    },
+    {
+      "name": "Manfrotto 5002BL Nano Plus Stand",
+      "asin": "B07YQH8QK8",
+      "status": "fits",
+      "metricSpecs": "Thomann (EU): max. height 197 cm, transport height 52 cm, max. load 4,0 kg, levelling leg, 16 mm spigot with 3/8\" thread and removable 1/4\" adapter (same as the English post).",
+      "reason": "Musikhaus Thomann sells the 5002BL in this country under the same name and code (in stock).",
+      "source": "https://www.thomann.nl/manfrotto_5002bl_nano_plus_stand.htm"
+    },
+    {
+      "name": "Manfrotto Carbon Nanopole Stand (MS0490C)",
+      "asin": "B082DL3BK5",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global page: 750 g*, 51 cm folded; Thomann: 1,5 kg load, 195 cm, 51 cm, 750 g. The English post uses 0.78 kg and 197 cm; keep the English figures (0,78 kg, 197 cm, 51 cm, 1,5 kg) so the translation matches its English source.",
+      "reason": "Thomann sells the MS0490C under the same code; it has a hook to hang a sandbag for outdoor use.",
+      "source": "https://www.thomann.nl/manfrotto_ms0490c_carbon_nanopole_stand.htm"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat handbagage toe van max. 55 x 35 x 25 cm (inclusief handvatten en wieltjes); de Carbon Nanopole (51 cm) en de Nano Plus (52 cm) passen ingeklapt in de lengte.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Ryanair geeft in elk tarief een kleine tas van 40 x 30 x 20 cm onder de stoel; PIXI Mini (18,5 cm), TPS-5 (ruim 15 cm) en GorillaPod 1K (21 cm) passen ingeklapt.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Bax Music verkoopt de Zoom TPS-5 als 'tripod statief voor Zoom recorders' en de Manfrotto PIXI onder de naam Zoom Manfrotto Pixi.",
+      "source": "https://www.bax-shop.nl/tafel-instrument-microfoon-statief/zoom-tps-5-tripod-statief-voor-zoom-recorders"
+    },
+    {
+      "fact": "Thomann Nederland noemt voor de Nano Plus 197 cm maximale hoogte, 52 cm transporthoogte, 4,0 kg belasting en een stelvoet voor oneffen terrein.",
+      "source": "https://www.thomann.nl/manfrotto_5002bl_nano_plus_stand.htm"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Waar zet je een Zoom recorder bij een live optreden in een café of zaal?",
+      "fix": "Op een lampstatief op hoofdhoogte of hoger (Nano Plus, 197 cm), zodat de recorder elk instrument hoort; op tafel alleen voor een interview.",
+      "quotes": [
+        {
+          "text": "simpel met de bijgeleverde XY-microfoon opgesteld aan het podium van Jazz café De Muze in Antwerpen",
+          "url": "https://audiofreaksforum.nl/index.php?topic=46628.0"
+        }
+      ],
+      "sources": [
+        "https://audiofreaksforum.nl/index.php?topic=46628.0"
+      ]
+    },
+    {
+      "pain": "Het moet eenvoudig blijven: statiefje, recorder erop, opnemen.",
+      "fix": "Een mini-statief zoals de PIXI Mini, schroef met de hand vast en druk op opnemen voordat je wegstapt.",
+      "quotes": [
+        {
+          "text": "Maar handig is dat wel. Statiefje, ding er op en knop indrukken.",
+          "url": "https://audiofreaksforum.nl/index.php?topic=46628.0"
+        }
+      ],
+      "sources": [
+        "https://audiofreaksforum.nl/index.php?topic=46628.0"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM-handbagage 55 x 35 x 25 cm: beide Nano-statieven (51 en 52 cm) passen in de lengte.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Tip voor live-opnames in een café: recorder op een lampstatief boven de hoofden, niet aan de rand van het podium.",
+      "source": "https://audiofreaksforum.nl/index.php?topic=46628.0"
+    },
+    {
+      "point": "Bax Music verkoopt de TPS-5 en de Zoom-versie van de PIXI.",
+      "source": "https://www.bax-shop.nl/tafel-instrument-microfoon-statief/zoom-tps-5-tripod-statief-voor-zoom-recorders"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I dropped the Manfrotto Compact Light (no current US listing)",
+      "action": "replace",
+      "with": "Say plainly that no current offer could be found for it; never mention a US listing."
+    },
+    {
+      "english": "B&H notes / B&H lists (US retailer named as the spec source)",
+      "action": "replace",
+      "with": "'laut Händlerangaben' style wording; keep the figures, drop the US retailer name."
+    },
+    {
+      "english": "Zoom TPS-5 'just over 6 in tall', seoTitle 'Table to 6.5 ft'",
+      "action": "replace",
+      "with": "Metric first: gut 15 cm (6 in); 197 cm (6.5 ft)."
+    },
+    {
+      "english": "'Full height in a carry-on' (generic, US-sized)",
+      "action": "replace",
+      "with": "The local airline cabin-bag size from localFacts (51-52 cm folded stands fit by length)."
+    }
+  ]
+}

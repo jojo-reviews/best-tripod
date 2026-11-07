@@ -1,0 +1,133 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-seestar-s50",
+  "checkedAt": "2026-11-07T16:30:25Z",
+  "productFit": [
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod",
+      "asin": "B081T81PXQ",
+      "status": "fits",
+      "metricSpecs": "Astroshop.de lists it as 'Skywatcher Stativ für AZ-5, AZ-GTi, AZ-Pronto und Star Adventurer' (art. 55848): 3/8\" connection, accessory tray, aluminium, 1,8 kg, 69,5-121,5 cm. These retailer figures differ from the English post (63,5-113,7 cm, 2,35 kg, High Point Scientific) and are not the maker's; keep the English figures so the numbers match the English post.",
+      "reason": "Astroshop.de (DE, also .es/.nl/.eu) sells the Sky-Watcher tripod for Star Adventurer under the same name, in stock; a German forum buyer chose it for his Seestar S50.",
+      "source": "https://www.astroshop.de/stative/skywatcher-stativ-fuer-az-5-az-gti-az-pronto-und-star-adventurer/p,55848"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source names the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); same as the English post.",
+      "reason": "Foto Erhardt (DE) lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)",
+      "asin": "B00IQ7PT50",
+      "status": "fits",
+      "metricSpecs": "Manfrotto (global-de): 170 cm max., 140 cm column down, 9 cm min., 61 cm closed, 2,5 kg, 3 sections; the English post keeps a 9 kg load, keep it.",
+      "reason": "Manfrotto sells it in the EU under the same model code (German maker page).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "name": "SmallRig FreeBlazer 72-Inch Carbon Fiber Tripod Legs (4167)",
+      "asin": "B0BZD1GCBJ",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 79-182 cm working height, 3,7 kg, 25 kg load, carbon (same as the English post).",
+      "reason": "SmallRig's German store and German dealers (Foto Mayr, Foto Leistenschneider) list the 4167 FreeBlazer; amazon.de lists it too.",
+      "source": "https://www.smallrig.com/de/SmallRig-FreeBlazer-Heavy-Duty-Carbon-Fiber-Tripod-4167.html"
+    },
+    {
+      "name": "ZWO Seestar TH10 Tripod Head with TC20 Tripod",
+      "asin": "B0FN82ZLHM",
+      "status": "fits",
+      "metricSpecs": "TC20 235-365 mm, 600 g, 30 kg; TH10 411 g, 5 kg (ZWO; same as the English post). Seestar's German FAQ gives the S50 as 2,5 kg and its tripod as 0,65 kg.",
+      "reason": "EU shops sell the pair: Telescopiomania (ES) lists a 'Tripod and head pack (TC20+TH10) for Seestar'; Astroshop.de lists the 'ZWO Videoneiger TH10 Seestar Smart Telescope'.",
+      "source": "https://www.telescopiomania.eu/home/13405-tripod-and-head-pack-tc20th10-for-seestar-telescope.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: hand baggage, including handles and wheels, max. 55 x 35 x 25 cm; by folded length the Befree Advanced (40 cm) and the TC20 (26,5 cm) fit, the Manfrotto 055 (61 cm) and the FreeBlazer (85 cm) do not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Nationaal Park Lauwersmeer has been an International Dark Sky Association Dark Sky Park since October 2016; at night access is the same as by day (free walking on roads and paths); three spots are recommended (Lauwersnest, hemelplatforms Achter de Zwarten and Vlinderbalg). The Boschplaat on Terschelling was the first Dutch Dark Sky Park in 2015.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    },
+    {
+      "fact": "Dutch terms: statief, middenzuil, EQ-wig / polhoogtewig, waterpasbasis, 3/8\"-schroefdraad, balhoofd, spikes.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Wind on the open Dutch coast and polders sets even sturdy tripods vibrating.",
+      "fix": "Column and thin sections down; FreeBlazer (25 kg, carbon) or the 055 for exposed spots.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        },
+        {
+          "text": "Alles staat op zich wel stabiel, het wiebelt niet, maar of het buiten in de wind helemaal stil blijft staan betwijfel ik.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/16"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    },
+    {
+      "pain": "A raised centre column costs a lot of stability.",
+      "fix": "Compare height with the column down (128 cm Befree, 140 cm 055).",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        },
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which picks fit KLM hand baggage (55 x 35 x 25 cm) by folded length.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Where to set up in the Lauwersmeer Dark Sky Park and its night access rule.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    },
+    {
+      "point": "Height with the column down as the yardstick, as Dutch forum users advise.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+    },
+    {
+      "point": "Metric figures first from the makers.",
+      "source": "https://www.smallrig.com/de/SmallRig-FreeBlazer-Heavy-Duty-Carbon-Fiber-Tripod-4167.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I just had to add a fender washer from ace hardware ... (owner quote naming a US hardware chain)",
+      "action": "replace",
+      "with": "Paraphrase as a large washer (Karosseriescheibe / arandela ancha / carrosseriering) from a hardware store, without the US chain name."
+    },
+    {
+      "english": "Height band column ('Amazon height band', e.g. 50 to 64 in)",
+      "action": "replace",
+      "with": "A neutral height-class column in cm first; never call it an Amazon filter."
+    },
+    {
+      "english": "Imperial-first figures (44.75 in, 14.4 in, 72 in ...)",
+      "action": "replace",
+      "with": "Metric first with imperial in brackets."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-seestar-s50",
+  "checkedAt": "2026-11-07T16:30:25Z",
+  "productFit": [
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod",
+      "asin": "B081T81PXQ",
+      "status": "fits",
+      "metricSpecs": "Astroshop.de lists it as 'Skywatcher Stativ für AZ-5, AZ-GTi, AZ-Pronto und Star Adventurer' (art. 55848): 3/8\" connection, accessory tray, aluminium, 1,8 kg, 69,5-121,5 cm. These retailer figures differ from the English post (63,5-113,7 cm, 2,35 kg, High Point Scientific) and are not the maker's; keep the English figures so the numbers match the English post.",
+      "reason": "Astroshop.de (DE, also .es/.nl/.eu) sells the Sky-Watcher tripod for Star Adventurer under the same name, in stock; a German forum buyer chose it for his Seestar S50.",
+      "source": "https://www.astroshop.de/stative/skywatcher-stativ-fuer-az-5-az-gti-az-pronto-und-star-adventurer/p,55848"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source names the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); same as the English post.",
+      "reason": "Foto Erhardt (DE) lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)",
+      "asin": "B00IQ7PT50",
+      "status": "fits",
+      "metricSpecs": "Manfrotto (global-de): 170 cm max., 140 cm column down, 9 cm min., 61 cm closed, 2,5 kg, 3 sections; the English post keeps a 9 kg load, keep it.",
+      "reason": "Manfrotto sells it in the EU under the same model code (German maker page).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "name": "SmallRig FreeBlazer 72-Inch Carbon Fiber Tripod Legs (4167)",
+      "asin": "B0BZD1GCBJ",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 79-182 cm working height, 3,7 kg, 25 kg load, carbon (same as the English post).",
+      "reason": "SmallRig's German store and German dealers (Foto Mayr, Foto Leistenschneider) list the 4167 FreeBlazer; amazon.de lists it too.",
+      "source": "https://www.smallrig.com/de/SmallRig-FreeBlazer-Heavy-Duty-Carbon-Fiber-Tripod-4167.html"
+    },
+    {
+      "name": "ZWO Seestar TH10 Tripod Head with TC20 Tripod",
+      "asin": "B0FN82ZLHM",
+      "status": "fits",
+      "metricSpecs": "TC20 235-365 mm, 600 g, 30 kg; TH10 411 g, 5 kg (ZWO; same as the English post). Seestar's German FAQ gives the S50 as 2,5 kg and its tripod as 0,65 kg.",
+      "reason": "EU shops sell the pair: Telescopiomania (ES) lists a 'Tripod and head pack (TC20+TH10) for Seestar'; Astroshop.de lists the 'ZWO Videoneiger TH10 Seestar Smart Telescope'.",
+      "source": "https://www.telescopiomania.eu/home/13405-tripod-and-head-pack-tc20th10-for-seestar-telescope.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia allows a cabin bag of up to 10 kg and max. 56 x 40 x 25 cm; by folded length the Befree Advanced (40 cm) and the TC20 (26,5 cm) fit, the Manfrotto 055 (61 cm) and the FreeBlazer (85 cm) do not.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Since 2014 the sky of the Parque Nacional del Teide is a 'Destino Starlight' (Fundación Starlight, tourist destination category); the cable-car base station at about 2.356 m is used for guided stargazing.",
+      "source": "https://www.volcanoteide.com/es/el_cielo_del_teide/observacion_de_estrellas"
+    },
+    {
+      "fact": "Spanish shops sell ZWO's EQ kit as a pack: Telescopiomania lists 'Tripod and head pack (TC20+TH10) for Seestar'.",
+      "source": "https://www.telescopiomania.eu/home/13405-tripod-and-head-pack-tc20th10-for-seestar-telescope.html"
+    },
+    {
+      "fact": "Spanish terms: trípode, columna central, cuña ecuatorial, rótula / cabezal, base niveladora, rosca de 3/8\", modo ecuatorial (EQ), puesta en estación.",
+      "source": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "EQ mode needs an extra wedge and owners hesitate between ZWO's TH10 and the classic Sky-Watcher wedge.",
+      "fix": "TH10 + TC20 kit for a low tabletop set; on a taller tripod a wedge with slow-motion knobs makes polar alignment easier (English FAQ).",
+      "quotes": [
+        {
+          "text": "hay modo ecuatorial (necesitas una cuña externa aunque parece que saldrá una oficial)",
+          "url": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+        },
+        {
+          "text": "que cuña ecuatorial has comprado para el S50 ? yo dudo entre la TH10 de ZWO o la Skywatcher clásica.",
+          "url": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+        }
+      ],
+      "sources": [
+        "https://www.astronomo.org/foro/index.php?topic=35754.60"
+      ]
+    },
+    {
+      "pain": "Owners buy the tripod and wedge to try EQ mode with longer exposures.",
+      "fix": "Keep extensions and column down for long subs; FreeBlazer for windy fixed spots.",
+      "quotes": [
+        {
+          "text": "acabo de pedir el trípode y la cuña para probar el nuevo modo ecuatorial y poder hacer asi exposiciones de 30 segundos",
+          "url": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+        }
+      ],
+      "sources": [
+        "https://www.astronomo.org/foro/index.php?topic=35754.60"
+      ]
+    },
+    {
+      "pain": "Leveling is the one setup step owners still do by hand.",
+      "fix": "A leveling base or the FreeBlazer's bowl.",
+      "quotes": [
+        {
+          "text": "lo que más me sorprendió fue lo fácil y rápido; sólo nivelar y ya.",
+          "url": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+        }
+      ],
+      "sources": [
+        "https://www.astronomo.org/foro/index.php?topic=35754.60"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Which picks fit an Iberia cabin bag (56 x 40 x 25 cm) by folded length.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Teide as a Starlight destination: the travel tripod for a flight to Tenerife.",
+      "source": "https://www.volcanoteide.com/es/el_cielo_del_teide/observacion_de_estrellas"
+    },
+    {
+      "point": "The TH10 vs classic wedge question Spanish owners ask, answered.",
+      "source": "https://www.astronomo.org/foro/index.php?topic=35754.60"
+    },
+    {
+      "point": "Metric figures first from the makers.",
+      "source": "https://www.smallrig.com/de/SmallRig-FreeBlazer-Heavy-Duty-Carbon-Fiber-Tripod-4167.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I just had to add a fender washer from ace hardware ... (owner quote naming a US hardware chain)",
+      "action": "replace",
+      "with": "Paraphrase as a large washer (Karosseriescheibe / arandela ancha / carrosseriering) from a hardware store, without the US chain name."
+    },
+    {
+      "english": "Height band column ('Amazon height band', e.g. 50 to 64 in)",
+      "action": "replace",
+      "with": "A neutral height-class column in cm first; never call it an Amazon filter."
+    },
+    {
+      "english": "Imperial-first figures (44.75 in, 14.4 in, 72 in ...)",
+      "action": "replace",
+      "with": "Metric first with imperial in brackets."
+    }
+  ]
+}

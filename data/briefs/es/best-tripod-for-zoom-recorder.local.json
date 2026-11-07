@@ -1,0 +1,129 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-zoom-recorder",
+  "checkedAt": "2026-11-07T16:30:45.000Z",
+  "productFit": [
+    {
+      "name": "Manfrotto PIXI Mini Tripod (MTPIXIMII-B)",
+      "asin": "B09GKLCP95",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global page for MTPIXIMII-B: 13,5 cm height, 18,5 cm closed, 0,17 kg, 1 kg payload (same figures as the English post).",
+      "reason": "Sold in the EU under the same code MTPIXIMII-B; Zoom's own German site has offered the PIXI for its Handy recorders.",
+      "source": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/"
+    },
+    {
+      "name": "Zoom TPS-5 Tabletop Tripod Stand",
+      "asin": "B08YP7STY3",
+      "status": "fits",
+      "metricSpecs": "Zoom España: 'poco más de quince centímetros de altura', rosca universal de 1/4\"; no load or weight published.",
+      "reason": "Zoom España sells the TPS-5 on its Spanish site ('Trípode de sobremesa Zoom TPS-5'), compatible with all Zoom audio and video recorders.",
+      "source": "https://zoomcorp.com/es/es/accesorios/monturas-soportes-y-abrazaderas/tps-5/"
+    },
+    {
+      "name": "JOBY GorillaPod 1K Kit",
+      "asin": "B074WFNNKY",
+      "status": "fits",
+      "metricSpecs": "No maker metric page read; keep the English figures converted: 25 cm (10 in) height, 21 cm (8 in) folded, 145 g, 1 kg.",
+      "reason": "Amazon.es lists the same ASIN B074WFNNKY (JB01503); Kamera Express (NL/BE) and German shops list the JB01503; a Swiss Digitec owner used it with a Zoom H1n.",
+      "source": "https://www.amazon.es/JOBY-GorillaPod-Kit-Compactas-JB01503-BWW/dp/B074WFNNKY"
+    },
+    {
+      "name": "Manfrotto 5002BL Nano Plus Stand",
+      "asin": "B07YQH8QK8",
+      "status": "fits",
+      "metricSpecs": "Thomann (EU): max. height 197 cm, transport height 52 cm, max. load 4,0 kg, levelling leg, 16 mm spigot with 3/8\" thread and removable 1/4\" adapter (same as the English post).",
+      "reason": "Musikhaus Thomann sells the 5002BL in this country under the same name and code (in stock).",
+      "source": "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+    },
+    {
+      "name": "Manfrotto Carbon Nanopole Stand (MS0490C)",
+      "asin": "B082DL3BK5",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global page: 750 g*, 51 cm folded; Thomann: 1,5 kg load, 195 cm, 51 cm, 750 g. The English post uses 0.78 kg and 197 cm; keep the English figures (0,78 kg, 197 cm, 51 cm, 1,5 kg) so the translation matches its English source.",
+      "reason": "Thomann sells the MS0490C under the same code; it has a hook to hang a sandbag for outdoor use.",
+      "source": "https://www.thomann.es/manfrotto_ms0490c_carbon_nanopole_stand.htm"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia admite en cabina una maleta de hasta 56 x 40 x 25 cm y 10 kg; el Carbon Nanopole (51 cm) y el Nano Plus (52 cm) caben a lo largo.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Ryanair incluye en todas las tarifas un bolso pequeño de 40 x 30 x 20 cm bajo el asiento; el PIXI Mini (18,5 cm), el TPS-5 (unos 15 cm) y el GorillaPod 1K (21 cm) caben plegados.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Zoom España describe el TPS-5 como un trípode de sobremesa de poco más de quince centímetros, con cabezal giratorio completo y rosca de 1/4\", compatible con todas sus grabadoras de audio y vídeo.",
+      "source": "https://zoomcorp.com/es/es/accesorios/monturas-soportes-y-abrazaderas/tps-5/"
+    },
+    {
+      "fact": "Thomann España da para el Nano Plus 197 cm de altura máxima, 52 cm de altura de transporte, 4,0 kg de carga y un pie de nivelación para suelos irregulares.",
+      "source": "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Las roscas de bloqueo del pie parecen apretadas pero un tramo cede con peso arriba.",
+      "fix": "Aprieta cada bloqueo y comprueba el pie antes de montar la grabadora; en viento, tramos bajos y la bolsa colgada abajo.",
+      "quotes": [
+        {
+          "text": "A veces tengo al sensación de que están bien apretadas pero el flash termina cayendo un tramo porque no había apretado lo suficiente.",
+          "url": "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+        }
+      ],
+      "sources": [
+        "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+      ]
+    },
+    {
+      "pain": "Viajar con un pie de altura completa sin facturar.",
+      "fix": "Nano Plus (52 cm) o Carbon Nanopole (51 cm) caben a lo largo en la maleta de cabina de Iberia (56 cm).",
+      "quotes": [
+        {
+          "text": "Son ideales para quien busca soluciones ultraligeras y prácticas para viajar sin muchos bultos ya que encajan incluso en una maleta normal de viaje.",
+          "url": "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+        }
+      ],
+      "sources": [
+        "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Medida oficial de Zoom España para el TPS-5: poco más de quince centímetros.",
+      "source": "https://zoomcorp.com/es/es/accesorios/monturas-soportes-y-abrazaderas/tps-5/"
+    },
+    {
+      "point": "Maleta de cabina de Iberia 56 x 40 x 25 cm: ambos pies Nano caben a lo largo.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Aviso de un usuario español: comprobar las roscas del Nano Plus antes de cargar.",
+      "source": "https://www.thomann.es/manfrotto_5002bl_nano_plus_stand.htm"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "I dropped the Manfrotto Compact Light (no current US listing)",
+      "action": "replace",
+      "with": "Say plainly that no current offer could be found for it; never mention a US listing."
+    },
+    {
+      "english": "B&H notes / B&H lists (US retailer named as the spec source)",
+      "action": "replace",
+      "with": "'laut Händlerangaben' style wording; keep the figures, drop the US retailer name."
+    },
+    {
+      "english": "Zoom TPS-5 'just over 6 in tall', seoTitle 'Table to 6.5 ft'",
+      "action": "replace",
+      "with": "Metric first: gut 15 cm (6 in); 197 cm (6.5 ft)."
+    },
+    {
+      "english": "'Full height in a carry-on' (generic, US-sized)",
+      "action": "replace",
+      "with": "The local airline cabin-bag size from localFacts (51-52 cm folded stands fit by length)."
+    }
+  ]
+}

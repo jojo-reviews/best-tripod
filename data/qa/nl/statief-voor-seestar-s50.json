@@ -1,0 +1,23 @@
+{
+  "slug": "nl/statief-voor-seestar-s50",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-seestar-s50",
+  "pass": true,
+  "checkedAt": "2026-11-07T16:38:46.800Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the nl version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the nl version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-seestar-s50: same 5 products/ASINs/scores/spec keys, metric-first conversions (113,7/63,5 cm, 128/151 cm, 140/170 cm, 79-182 cm, 235-365 mm, 2,35/1,59/2,5/3,7 kg, loads 9/25/30/5 kg), FAQ answers match. Local facts re-opened: KLM hand baggage 55x35x25 cm, np-lauwersmeer.nl (Dark Sky Park since Oct 2016, night access same as day on roads and paths, three spots), Foto Erhardt MKBFRLA4BK-BH EU code. Tweakers quote 'kijk dus even naar de max hoogte met ingeschoven middenkolom.' re-verified at list_messages/1090626/25; an unconfirmed second Tweakers quote was removed; fok.nl wind quote reused from earlier verified briefs. US hardware chain dropped from the washer tip. No prices, no testing claims, no local Amazon claims.",
+    "at": "2026-11-07T16:38:46.283Z",
+    "hash": "456cbe4a7a3fcde1"
+  }
+}

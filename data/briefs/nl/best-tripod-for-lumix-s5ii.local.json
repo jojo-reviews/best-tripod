@@ -1,0 +1,140 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-lumix-s5ii",
+  "checkedAt": "2026-11-07T16:28:58.000Z",
+  "productFit": [
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "EU dealers (Calumet DE, Kamera Express NL) list the earlier LS-284C Ranger + LH-30 (non-X version, same columnless four-section carbon concept and LH-30 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: EU figures are for the earlier LS-284C and differ from the X version, so the translator converts the English figures (10 kg load is in the English post).",
+      "reason": "The X version appears on Leofoto USA and B&H; Europe mainly sells the earlier LS-284C Ranger kit, which S5II owners on the forums name.",
+      "source": "https://www.calumet.de/product/leofoto-carbon-dreibeinstativ-ls-284c-lh-30"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same lever legs, 494 head and plate.",
+      "metricSpecs": "English post already gives the maker's metric figures: 150 cm column up, 128 cm column down, 40 cm min height, 40 cm folded, 9 kg load.",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,07 kg load (same as the English post)",
+      "reason": "Sold under the same name by EU retailers (Foto Koch DE, Kamera Express NL).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "3 Legged Thing Punks Corey 2.0",
+      "asin": "B0CHBCBJD8",
+      "status": "fits",
+      "metricSpecs": "3 Legged Thing: max height 1,46 m, without column 1,12 m, folded 36,1 cm, kit weight 1,78 kg, load 14 kg (23 degrees), 9 kg (55 degrees), 5 kg (80 degrees)",
+      "reason": "Same name on the maker's EU store (3leggedthing.com/de-eu) and on idealo.de with the AirHed Neo 2.0 head.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/201751118_-punks-corey-2-0-3-legged-thing.html"
+    },
+    {
+      "name": "Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod",
+      "asin": "B0D548Z7HZ",
+      "status": "fits",
+      "metricSpecs": "Ulanzi/Falcam: 155 cm max height, 5 kg load (matches the English 61.1 in and 11 lb); other figures converted from the English post.",
+      "reason": "Sold under the same name (T00A4301) by Kamera Express Belgium/Netherlands and Photospecialist.",
+      "source": "https://www.kamera-express.be/falcam-treeroot-quick-lock-travel-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe, inclusief handvatten en wieltjes: Corey 2.0 (36,1 cm), Peak Design (39,4 cm), Befree Advanced (40 cm) en TreeRoot (47 cm) passen in de lengte, het Leofoto (56 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Photofacts geeft als vuistregel dat camera plus objectief hoogstens de helft van het draagvermogen van het statief mag wegen voor optimale stabiliteit.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u; aan de kust is dat het moment om de middenzuil laag te houden.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Termen: statiefkop, balhoofd, middenzuil, snelkoppelingsplaat, L-bracket; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Middenzuil omhoog kost veel stabiliteit.",
+      "fix": "Vergelijk de hoogte zonder middenzuil (tabel) en laat hem omlaag, of kies het Leofoto zonder zuil.",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Trilling door wind, ook op een stevig statief.",
+      "fix": "Poten breed, middenzuil omlaag, de 70-200 aan de statiefring.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "Vier van de vijf passen in de KLM-maat van 55 cm; het Leofoto gaat in het ruim.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welke statieven in de KLM-handbagage van 55 x 35 x 25 cm passen.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Photofacts-vuistregel (camera plus objectief max. de helft van het draagvermogen) naast de draagkrachtrekensom voor de S5II.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "point": "Fabriekswaarden in cm/kg (Corey 2.0: 1,46 m, 1,12 m, 36,1 cm), het Befree Advanced als EU-code MKBFRLA4BK-BH en het Leofoto in Europa vooral als oudere LS-284C; TreeRoot bij Kamera Express.",
+      "source": "https://www.kamera-express.be/falcam-treeroot-quick-lock-travel-tripod"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Inch/lb-first figures throughout (table, specs, tldr)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets; maker metric figures where listed"
+    },
+    {
+      "english": "B&H owner reviews named as 'B&H owners' (US retailer)",
+      "action": "replace",
+      "with": "keep the facts, attribute neutrally to owner reviews at a retailer (no store promotion)"
+    },
+    {
+      "english": "'the original S5 also uses a standard 1/4-20 tripod socket'",
+      "action": "replace",
+      "with": "keep, write 1/4\"-20 (thread names stay as they are)"
+    },
+    {
+      "english": "'must share a carry-on' (US carry-on wording)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm hand baggage fact"
+    }
+  ]
+}

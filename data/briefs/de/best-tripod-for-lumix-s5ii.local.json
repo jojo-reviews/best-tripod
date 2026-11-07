@@ -1,0 +1,140 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-lumix-s5ii",
+  "checkedAt": "2026-11-07T16:28:58.000Z",
+  "productFit": [
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "EU dealers (Calumet DE, Kamera Express NL) list the earlier LS-284C Ranger + LH-30 (non-X version, same columnless four-section carbon concept and LH-30 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: EU figures are for the earlier LS-284C and differ from the X version, so the translator converts the English figures (10 kg load is in the English post).",
+      "reason": "The X version appears on Leofoto USA and B&H; Europe mainly sells the earlier LS-284C Ranger kit, which S5II owners on the forums name.",
+      "source": "https://www.calumet.de/product/leofoto-carbon-dreibeinstativ-ls-284c-lh-30"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same lever legs, 494 head and plate.",
+      "metricSpecs": "English post already gives the maker's metric figures: 150 cm column up, 128 cm column down, 40 cm min height, 40 cm folded, 9 kg load.",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,07 kg load (same as the English post)",
+      "reason": "Sold under the same name by EU retailers (Foto Koch DE, Kamera Express NL).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "3 Legged Thing Punks Corey 2.0",
+      "asin": "B0CHBCBJD8",
+      "status": "fits",
+      "metricSpecs": "3 Legged Thing: max height 1,46 m, without column 1,12 m, folded 36,1 cm, kit weight 1,78 kg, load 14 kg (23 degrees), 9 kg (55 degrees), 5 kg (80 degrees)",
+      "reason": "Same name on the maker's EU store (3leggedthing.com/de-eu) and on idealo.de with the AirHed Neo 2.0 head.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/201751118_-punks-corey-2-0-3-legged-thing.html"
+    },
+    {
+      "name": "Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod",
+      "asin": "B0D548Z7HZ",
+      "status": "fits",
+      "metricSpecs": "Ulanzi/Falcam: 155 cm max height, 5 kg load (matches the English 61.1 in and 11 lb); other figures converted from the English post.",
+      "reason": "Sold under the same name (T00A4301) by Kamera Express Belgium/Netherlands and Photospecialist.",
+      "source": "https://www.kamera-express.be/falcam-treeroot-quick-lock-travel-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg: Corey 2.0 (36,1 cm), Peak Design (39,4 cm), Befree Advanced (40 cm) und TreeRoot (47 cm) passen der Länge nach, das Leofoto (56 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\".",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h; an Nord- und Ostsee ist das der Punkt, an dem die Mittelsäule unten bleibt.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Begriffe: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, L-Winkel, Panoramaknopf; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsicherheit, ob das Reisestativ ins Handgepäck darf.",
+      "fix": "Corey 2.0, Peak Design, Befree Advanced und TreeRoot bleiben unter 55 cm; das Leofoto kommt ins aufgegebene Gepäck.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    },
+    {
+      "pain": "Stativ wackelt bei Wind trotz Langzeitbelichtung.",
+      "fix": "Beine breit stellen, Mittelsäule unten lassen oder das säulenlose Leofoto nehmen (aus dem englischen Beitrag).",
+      "quotes": [
+        {
+          "text": "Wenn man bei Wind die Beine nicht breit stellt, sondern schmal, wackelt das Stativ eher.",
+          "url": "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Lange Mittelsäulen gelten als wackelig.",
+      "fix": "Höhe ohne Mittelsäule vergleichen (Tabelle), Säule unten lassen.",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welche der fünf Stative in einen Lufthansa-Handgepäckkoffer von 55 x 40 x 23 cm passen.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Stativ nur mit Genehmigung im Kölner Dom.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Herstellerwerte in cm/kg: Corey 2.0 mit 1,46 m, 1,12 m und 36,1 cm, Befree Advanced als EU-Code MKBFRLA4BK-BH, Leofoto in Europa meist als älteres LS-284C.",
+      "source": "https://3leggedthing.com/de-eu/products/corey-2-system-tripod"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Inch/lb-first figures throughout (table, specs, tldr)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets; maker metric figures where listed"
+    },
+    {
+      "english": "B&H owner reviews named as 'B&H owners' (US retailer)",
+      "action": "replace",
+      "with": "keep the facts, attribute neutrally to owner reviews at a retailer (no store promotion)"
+    },
+    {
+      "english": "'the original S5 also uses a standard 1/4-20 tripod socket'",
+      "action": "replace",
+      "with": "keep, write 1/4\"-20 (thread names stay as they are)"
+    },
+    {
+      "english": "'must share a carry-on' (US carry-on wording)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin bag fact"
+    }
+  ]
+}

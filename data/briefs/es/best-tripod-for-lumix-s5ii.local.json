@@ -1,0 +1,133 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-lumix-s5ii",
+  "checkedAt": "2026-11-07T16:28:58.000Z",
+  "productFit": [
+    {
+      "name": "Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head",
+      "asin": "B0DQNKMF8Y",
+      "status": "localVariant",
+      "variant": "EU dealers (Calumet DE, Kamera Express NL) list the earlier LS-284C Ranger + LH-30 (non-X version, same columnless four-section carbon concept and LH-30 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: EU figures are for the earlier LS-284C and differ from the X version, so the translator converts the English figures (10 kg load is in the English post).",
+      "reason": "The X version appears on Leofoto USA and B&H; Europe mainly sells the earlier LS-284C Ranger kit, which S5II owners on the forums name.",
+      "source": "https://www.calumet.de/product/leofoto-carbon-dreibeinstativ-ls-284c-lh-30"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Travel Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "EU kit code MKBFRLA4BK-BH (the US kit in the English sources is MKBFRLA4BK-BHUS); same lever legs, 494 head and plate.",
+      "metricSpecs": "English post already gives the maker's metric figures: 150 cm column up, 128 cm column down, 40 cm min height, 40 cm folded, 9 kg load.",
+      "reason": "German retailer Foto Erhardt lists the EU code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,56 kg, 9,07 kg load (same as the English post)",
+      "reason": "Sold under the same name by EU retailers (Foto Koch DE, Kamera Express NL).",
+      "source": "https://www.fotokoch.de/Peak-Design-Travel-Tripod-Aluminium_64020.html"
+    },
+    {
+      "name": "3 Legged Thing Punks Corey 2.0",
+      "asin": "B0CHBCBJD8",
+      "status": "fits",
+      "metricSpecs": "3 Legged Thing: max height 1,46 m, without column 1,12 m, folded 36,1 cm, kit weight 1,78 kg, load 14 kg (23 degrees), 9 kg (55 degrees), 5 kg (80 degrees)",
+      "reason": "Same name on the maker's EU store (3leggedthing.com/de-eu) and on idealo.de with the AirHed Neo 2.0 head.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/201751118_-punks-corey-2-0-3-legged-thing.html"
+    },
+    {
+      "name": "Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod",
+      "asin": "B0D548Z7HZ",
+      "status": "fits",
+      "metricSpecs": "Ulanzi/Falcam: 155 cm max height, 5 kg load (matches the English 61.1 in and 11 lb); other figures converted from the English post.",
+      "reason": "Sold under the same name (T00A4301) by Kamera Express Belgium/Netherlands and Photospecialist.",
+      "source": "https://www.kamera-express.be/falcam-treeroot-quick-lock-travel-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm: el Corey 2.0 (36,1 cm), el Peak Design (39,4 cm), el Befree Advanced (40 cm), el TreeRoot (47 cm) y, justo, el Leofoto (56 cm) caben a lo largo.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite fotos ni vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "AEMET clasifica la fuerza 6 de Beaufort como \"fresco\", de 39 a 49 km/h; con ese viento conviene bajar la columna central.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "Términos: rótula de bola, columna central, zapata / placa de liberación rápida, escuadra en L; Arca-Swiss se llama igual.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dudas sobre si el trípode puede ir en cabina.",
+      "fix": "Los cinco trípodes caben a lo largo en la maleta de Iberia de 56 x 40 x 25 cm; el Leofoto va justo.",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    },
+    {
+      "pain": "La columna central subida resta estabilidad.",
+      "fix": "Comparar la altura sin columna (tabla) y dejarla abajo, o elegir el Leofoto sin columna.",
+      "quotes": [
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Qué trípodes caben en la maleta de cabina de Iberia (56 x 40 x 25 cm).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Prohibición de trípodes en la Alhambra y la Sagrada Família.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Cifras del fabricante en cm/kg (Corey 2.0: 1,46 m, 1,12 m, 36,1 cm), Befree Advanced con código UE MKBFRLA4BK-BH y el Leofoto en Europa sobre todo como LS-284C anterior.",
+      "source": "https://3leggedthing.com/de-eu/products/corey-2-system-tripod"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Inch/lb-first figures throughout (table, specs, tldr)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets; maker metric figures where listed"
+    },
+    {
+      "english": "B&H owner reviews named as 'B&H owners' (US retailer)",
+      "action": "replace",
+      "with": "keep the facts, attribute neutrally to owner reviews at a retailer (no store promotion)"
+    },
+    {
+      "english": "'the original S5 also uses a standard 1/4-20 tripod socket'",
+      "action": "replace",
+      "with": "keep, write 1/4\"-20 (thread names stay as they are)"
+    },
+    {
+      "english": "'must share a carry-on' (US carry-on wording)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin bag fact"
+    }
+  ]
+}
