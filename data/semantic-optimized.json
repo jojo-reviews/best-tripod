@@ -342,5 +342,45 @@
   "best-tripod-for-recording-school-plays": {
     "at": "2026-11-06T15:32:54.372Z",
     "note": "semantic pass 2026-11-06 + gap-audit fixes"
+  },
+  "best-tripod-for-insta360-x5": {
+    "at": "2026-11-07T16:26:23.840Z",
+    "note": "written 2026-11-05 with TextRazor entities and current rules; no separate pass needed"
+  },
+  "best-tripod-for-camera": {
+    "at": "2026-11-07T16:26:23.865Z",
+    "note": "written 2026-11-05 with TextRazor entities and current rules; no separate pass needed"
+  },
+  "best-tripod-for-crossbow": {
+    "at": "2026-11-07T16:26:23.893Z",
+    "note": "written 2026-11-05 with TextRazor entities and current rules; no separate pass needed"
+  },
+  "best-tripod-for-elgato-prompter": {
+    "at": "2026-11-07T16:26:23.920Z",
+    "note": "written 2026-11-05 with TextRazor entities and current rules; no separate pass needed"
+  },
+  "best-tripod-with-ring-light-for-iphone": {
+    "at": "2026-11-07T16:26:36.804Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
+  },
+  "best-tripod-for-long-exposure": {
+    "at": "2026-11-07T16:26:36.834Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
+  },
+  "best-tripod-for-canon-g7x-mark-iii": {
+    "at": "2026-11-07T16:26:36.869Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
+  },
+  "best-tripod-for-lumix-s5ii": {
+    "at": "2026-11-07T16:26:36.898Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
+  },
+  "best-tripod-for-seestar-s50": {
+    "at": "2026-11-07T16:26:36.928Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
+  },
+  "best-tripod-for-zoom-recorder": {
+    "at": "2026-11-07T16:26:36.962Z",
+    "note": "written 2026-11-06/07 with TextRazor entities, Google words and Amazon filters; no separate pass needed"
   }
 }
