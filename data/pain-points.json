@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:33:52.107Z",
+  "updatedAt": "2026-11-07T11:37:18.398Z",
   "categories": {
     "camera-tripods": [
       {
@@ -6137,6 +6137,178 @@
         "quotes": [],
         "keywords": [
           "best tripod dolly"
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-handling-noise",
+        "pain": "Holding a Zoom recorder in the hand puts handling noise on the recording",
+        "details": "Field recordists ask for a tripod or handle to cut handling noise; reviewers say handheld recording gives noisy results.",
+        "mentions": 4,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://mindful-audio.com/blog/handheld-recorder-review",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://www.reddit.com/r/LocationSound/comments/ltb35j/zoom_recorder_hand_noise_solution/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Handholding a recorder is an Instagram cliche and will only yield poor recordings with plenty of unwanted noise.",
+            "url": "https://mindful-audio.com/blog/handheld-recorder-review"
+          }
+        ],
+        "keywords": [
+          "best tripod for zoom recorder",
+          "best tripod for zoom h5"
+        ],
+        "answeredBy": [
+          "best-tripod-for-zoom-recorder"
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-tabletop-too-short",
+        "pain": "Tabletop recorder stands are too short to aim an H6 at a speaker or instrument",
+        "details": "An H6 owner liked the Zoom TPS-5 in theory but found it too short for real use.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-07"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The ideal option though would be something like the Zoom TPS-5 Tabletop Tripod Stand. I like it in theory but it appears way too short",
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/"
+          }
+        ],
+        "keywords": [
+          "best tripod for zoom recorder",
+          "best tripod for zoom h5"
+        ],
+        "answeredBy": [
+          "best-tripod-for-zoom-recorder"
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-socket-overtightened",
+        "pain": "Over-tightening breaks the tripod socket on a Zoom recorder",
+        "details": "An H6 owner broke the tripod mount with only a little torque.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-07"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I did break the tripod camera mount after applying too much torque",
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/"
+          }
+        ],
+        "keywords": [
+          "best tripod for zoom recorder",
+          "best tripod for zoom h5"
+        ],
+        "answeredBy": [
+          "best-tripod-for-zoom-recorder"
+        ]
+      },
+      {
+        "id": "tripod-accessories-light-stand-tips-in-wind",
+        "pain": "Light compact stands wobble or tip over outdoors with a recorder and windshield on top",
+        "details": "Field recordists find Nano-type stands light enough to tip or wobble in wind, especially extended.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://drbadphil.com/if-only-boom-poles-could-grow-legs",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://jwsoundgroup.net/index.php?/topic/52356-recommendations-for-standboom-and-stereo-cables-for-mkh-50-30-rig/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "while it is quite light, I find the weight is sometimes not enough, and the stand risks tipping over.",
+            "url": "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+          }
+        ],
+        "keywords": [
+          "best tripod for zoom recorder",
+          "best tripod for zoom h5"
+        ],
+        "answeredBy": [
+          "best-tripod-for-zoom-recorder"
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-mic-stand-thread",
+        "pain": "The recorder 1/4-inch socket does not fit a mic stand or light stand thread",
+        "details": "Owners need an adapter between the 1/4-inch recorder socket and 3/8-inch or 5/8-inch stand threads.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://acousticnature.com/journal/best-tripod-for-field-recording",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          },
+          {
+            "url": "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6essential/H6essential-support/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-07"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best tripod for zoom recorder",
+          "best tripod for zoom h5"
+        ],
+        "answeredBy": [
+          "best-tripod-for-zoom-recorder"
         ]
       }
     ],

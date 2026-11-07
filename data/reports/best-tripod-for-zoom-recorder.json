@@ -1,0 +1,695 @@
+{
+  "keyword": "best tripod for zoom recorder",
+  "createdAt": "2026-11-07T11:37:19.048Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for a Zoom recorder",
+    "entityVariants": [
+      "best tripod for zoom recorder",
+      "tripod for zoom recorder",
+      "best tripod for zoom h5",
+      "zoom recorder tripod",
+      "zoom h6 tripod",
+      "stand for a Zoom Handy recorder",
+      "mini tripod for a Zoom recorder"
+    ],
+    "entities": [
+      {
+        "name": "camera tripod",
+        "type": "product type",
+        "relation": "the support a Zoom Handy recorder screws onto through its tripod socket",
+        "salience": 0.87,
+        "pages": 3,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "microphone",
+        "type": "component",
+        "relation": "Zoom Handy recorders carry built-in X/Y mics, so the tripod decides where the mics sit",
+        "salience": 0.7,
+        "pages": 4,
+        "textrazorName": "Microphone"
+      },
+      {
+        "name": "field recording",
+        "type": "activity",
+        "relation": "the main use case for a recorder on a tripod or stand outdoors",
+        "salience": 0.6,
+        "pages": 4,
+        "textrazorName": "Field recording"
+      },
+      {
+        "name": "microphone stand",
+        "type": "product type",
+        "relation": "the alternative support; needs a tripod-to-mic-stand adapter for a recorder",
+        "salience": 0.8,
+        "pages": 2,
+        "textrazorName": "Microphone stand"
+      },
+      {
+        "name": "Manfrotto",
+        "type": "brand",
+        "relation": "maker of the PIXI, Nano Plus and Nanopole picks",
+        "salience": 0.61,
+        "pages": 2
+      },
+      {
+        "name": "tripod head",
+        "type": "component",
+        "relation": "ball or swivel head that aims the recorder mics",
+        "salience": 0.56,
+        "pages": 2,
+        "textrazorName": "Tripod head"
+      },
+      {
+        "name": "handling noise",
+        "type": "concept",
+        "relation": "handling noise is the reason to take the recorder out of the hand",
+        "salience": 0.48,
+        "pages": 3,
+        "textrazorName": "Noise"
+      },
+      {
+        "name": "working height",
+        "type": "attribute",
+        "relation": "tabletop height for interviews vs mic height for music and ambience",
+        "salience": 0.49,
+        "pages": 2,
+        "textrazorName": "Height"
+      },
+      {
+        "name": "camera",
+        "type": "device",
+        "relation": "the same tripod socket thread as a camera (1/4\"-20)",
+        "salience": 0.43,
+        "pages": 2,
+        "textrazorName": "Camera"
+      },
+      {
+        "name": "Zoom",
+        "type": "brand",
+        "relation": "maker of the Handy recorders and the TPS-5 tripod",
+        "salience": 0.6,
+        "pages": 3,
+        "textrazorName": "Zoom Corporation"
+      },
+      {
+        "name": "light stand",
+        "type": "product type",
+        "relation": "compact light stands such as the Manfrotto Nano series work as field-recording mic stands",
+        "salience": 0.5,
+        "pages": 3,
+        "textrazorName": "Light stand"
+      }
+    ],
+    "attributes": [
+      "working height (6 in tabletop vs 197 cm stand)",
+      "rated load against the recorder weight (136 g H1n to 410 g H5studio)",
+      "head type and how the recorder is aimed",
+      "1/4\"-20 vs 3/8\" and 5/8\" threads",
+      "folded length for a bag",
+      "stand weight and wind stability",
+      "legs that double as a handgrip"
+    ],
+    "ngrams": [
+      "zoom recorder",
+      "handy recorder",
+      "tabletop tripod",
+      "field recording",
+      "light stand",
+      "tripod socket",
+      "handling noise",
+      "ball head",
+      "mic stand adapter",
+      "rubber feet"
+    ],
+    "skipgrams": [
+      "zoom…recorder",
+      "tripod…socket",
+      "handling…noise",
+      "mic…stand",
+      "light…stand",
+      "ball…head"
+    ],
+    "nlpTerms": [
+      "X/Y capsule",
+      "H1n",
+      "H5",
+      "H5studio",
+      "H6",
+      "H4n Pro",
+      "windshield",
+      "shock mount",
+      "pistol grip",
+      "levelling leg",
+      "spigot",
+      "1/4-inch",
+      "3/8-inch",
+      "interview",
+      "ambience",
+      "rubber feet",
+      "carry-on"
+    ],
+    "questions": [
+      {
+        "q": "Do Zoom recorders have a tripod mount?",
+        "answerTerms": [
+          "tripod socket",
+          "1/4-inch",
+          "Handy Recorder",
+          "screw thread"
+        ],
+        "maps": "FAQ"
+      },
+      {
+        "q": "Can I put a Zoom recorder on a mic stand?",
+        "answerTerms": [
+          "MA2",
+          "tripod to mic stand adapter",
+          "5/8-inch",
+          "mic stand"
+        ],
+        "maps": "FAQ"
+      },
+      {
+        "q": "What is the best tripod for a Zoom H5?",
+        "answerTerms": [
+          "H5",
+          "tabletop",
+          "stand",
+          "weight"
+        ],
+        "maps": "FAQ"
+      },
+      {
+        "q": "How tall should a tripod for a Zoom recorder be?",
+        "answerTerms": [
+          "tabletop",
+          "height",
+          "light stand",
+          "instruments"
+        ],
+        "maps": "FAQ"
+      },
+      {
+        "q": "Does a tripod reduce handling noise on a Zoom recorder?",
+        "answerTerms": [
+          "handling noise",
+          "shock mount",
+          "handheld"
+        ],
+        "maps": "FAQ"
+      },
+      {
+        "q": "How much weight does a tripod for a Zoom recorder need to hold?",
+        "answerTerms": [
+          "280 g",
+          "410 g",
+          "load capacity",
+          "batteries"
+        ],
+        "maps": "How much a Zoom recorder weighs on a tripod"
+      }
+    ],
+    "contentGaps": [
+      "Load math: Zoom recorder weights (136 g H1n, 280 g H6 without batteries, 410 g H5studio with batteries) against each support rating",
+      "Tabletop vs light stand: which recorder job needs which height",
+      "Thread chain from a 1/4-inch recorder socket to a 3/8-inch or 5/8-inch stand, and a head to aim the mics",
+      "The recorder tripod socket can break from over-tightening",
+      "Light stand wind stability: Nanopole vs Nano Plus"
+    ],
+    "outline": [
+      {
+        "h2": "Zoom recorder tripod comparison by height and load",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How much a Zoom recorder weighs on a tripod",
+        "intent": "load math from Zoom spec pages",
+        "h3": []
+      },
+      {
+        "h2": "How I picked each tripod for a Zoom recorder",
+        "intent": "selection rule, who recommends them, video",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for a Zoom recorder, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Manfrotto PIXI Mini Tripod (MTPIXIMII-B): best tripod for a Zoom recorder overall",
+          "Zoom TPS-5 Tabletop Tripod Stand: best Zoom-made tripod for a desk",
+          "JOBY GorillaPod 1K Kit: best flexible tripod for railings and branches",
+          "Manfrotto 5002BL Nano Plus Stand: best stand for a Zoom recorder at mic height",
+          "Manfrotto Carbon Nanopole Stand (MS0490C): lightest full-height stand for travel"
+        ]
+      },
+      {
+        "h2": "Which Zoom recorder tripod should you get?",
+        "intent": "decision rule",
+        "h3": []
+      },
+      {
+        "h2": "How to mount a Zoom recorder on a tripod or stand",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "Zoom recorder tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      },
+      {
+        "h2": "Our verdict on the best tripod for a Zoom recorder",
+        "intent": "close + next links",
+        "h3": []
+      }
+    ],
+    "targetWords": 1550,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+        "https://acousticnature.com/journal/best-tripod-for-field-recording",
+        "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+        "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+        "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "The only full roundup in the top 10 (Acoustic Nature) shows specs plus What I like / What I don't lists per tripod; forum threads list picks with one-line pros and caveats.",
+      "avgWords": 1460,
+      "avgProducts": 3,
+      "commonSections": [
+        "why use a tripod instead of handholding",
+        "tripod vs mic stand",
+        "height and weight",
+        "thread adapters",
+        "product recommendations"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+        "title": "TPS-5 Tripod | Buy Now | ZOOM"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+        "title": "Tripod / Handle solutions? : r/fieldrecording - Reddit"
+      },
+      {
+        "position": 3,
+        "url": "https://www.amazon.com/clp/B07L6B5K6X",
+        "title": "12'' Flexible Tripod Stand for Zoom Recorder H6 H5 H4n H2n ..."
+      },
+      {
+        "position": 4,
+        "url": "https://acousticnature.com/journal/best-tripod-for-field-recording",
+        "title": "Best Tripod For Field Recording (Material, Weight, Folded Size)"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=ZEGVPwdlR80",
+        "title": "Zoom H1N Field Recorder + Tripod Combination Rig - YouTube"
+      },
+      {
+        "position": 6,
+        "url": "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+        "title": "Mini-tripod for portable digital recorder - Accessories - Photo.net"
+      },
+      {
+        "position": 7,
+        "url": "https://www.sweetwater.com/store/detail/TPS5--zoom-tps-5-tabletop-tripod-stand",
+        "title": "Zoom TPS-5 Tabletop Tripod Stand - Sweetwater"
+      },
+      {
+        "position": 8,
+        "url": "https://www.facebook.com/groups/1182876759741374/posts/1215545133141203/",
+        "title": "What is a good tabletop tripod holder for the H6 essential?"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=6zPMtLM4EOg",
+        "title": "A Better Field Recorder Handle - Zoom H5 Accessories"
+      },
+      {
+        "position": 10,
+        "url": "https://community.zoom.com/t5/Zoom-Meetings/camera-amp-microphone-something-thats-tripod-mountable-that/m-p/213099",
+        "title": "https://community.zoom.com/t5/Zoom-Meetings/camera..."
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "tabletop",
+        "field recording",
+        "H6",
+        "H5",
+        "handle"
+      ],
+      "gap": "No top-10 result compares tabletop tripods and compact stands for Zoom recorders by height and the recorder's own weight; results are one maker page, forum threads and one field-recording tripod list."
+    },
+    "googleModifiers": [],
+    "googleSuggestNote": "google-suggest.mjs 2026-11-07: only \"tripod for zoom recorder\" kept the same intent; other suggestions were about choosing a recorder.",
+    "amazonFilters": [
+      {
+        "group": "Price",
+        "options": [
+          "Up to $25",
+          "$25 - $50",
+          "$50 - $100",
+          "Over $100"
+        ]
+      },
+      {
+        "group": "Brand",
+        "options": [
+          "JOILCAN",
+          "K&F Concept",
+          "Neewer",
+          "SmallRig",
+          "UBeesize",
+          "Amazon Basics"
+        ]
+      },
+      {
+        "group": "Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & Up"
+        ]
+      },
+      {
+        "group": "Weight Capacity",
+        "options": [
+          "Up to 10 lbs",
+          "11 to 20 lbs",
+          "21 to 40 lbs",
+          "Over 40 lbs"
+        ]
+      }
+    ],
+    "amazonFiltersUsed": "Height (tabletop vs 65 in & up stands) and Weight Capacity (all picks are in the up-to-10 lb band, so I compare the exact ratings) became table columns; price chips skipped.",
+    "serpProducts": [
+      {
+        "name": "Manfrotto PIXI Mini Tripod",
+        "pages": [
+          "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+          "https://mindful-audio.com/blog/handheld-recorder-review",
+          "https://zoomcorp.com/en/de/accessories/mounts-stands-and-brackets/PIXI/",
+          "https://www.seantucker.photography/blog/tag/manfrotto+pixi"
+        ]
+      },
+      {
+        "name": "Zoom TPS-5 Tabletop Tripod Stand",
+        "pages": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://www.sweetwater.com/store/detail/TPS5--zoom-tps-5-tabletop-tripod-stand",
+          "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/"
+        ]
+      },
+      {
+        "name": "JOBY GorillaPod 1K Kit",
+        "pages": [
+          "https://www.reddit.com/r/fieldrecording/comments/utcxik/building_my_first_field_recording_setup/",
+          "https://www.digitec.ch/de/s1/product/ratings/joby-gorillapod-1k-kit-kunststoff-metall-stativ-30338462",
+          "https://mindful-audio.com/blog/handheld-recorder-review",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders"
+        ]
+      },
+      {
+        "name": "Manfrotto 5002BL Nano Plus Stand",
+        "pages": [
+          "https://drbadphil.com/if-only-boom-poles-could-grow-legs",
+          "https://gearspace.com/threads/sound-devices-quality-in-a-portable-recorder.1411861/",
+          "https://gearspace.com/threads/lets-post-some-samples-of-our-own-making-with-context-description.1459398/",
+          "https://jwsoundgroup.net/index.php?/topic/52356-recommendations-for-standboom-and-stereo-cables-for-mkh-50-30-rig/"
+        ]
+      },
+      {
+        "name": "Manfrotto Carbon Nanopole Stand (MS0490C)",
+        "pages": [
+          "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+          "https://www.youtube.com/watch?v=OLAV9GGqUWc",
+          "https://www.freetousesounds.com/best-quick-release-for-field-recording",
+          "https://gearspace.com/threads/sound-devices-quality-in-a-portable-recorder.1411861/"
+        ]
+      }
+    ],
+    "serpProductsNote": "Manfrotto Compact Light (Acoustic Nature, Mindful Audio, r/fieldrecording) was dropped: no current Amazon US listing; the JOBY \"Compact Light\" on Amazon is a different, shorter tripod. Vanguard Alta Pro 263AB and SLIK Pro 500 DXS had only one recommending page each.",
+    "commonPoints": [
+      "Handholding a recorder adds handling noise, so put it on a tripod or stand",
+      "Zoom recorders take a standard 1/4-inch tripod screw",
+      "Small tabletop tripods suit desks and interviews; legs fold into a grip",
+      "Mic or light stands give more height than tabletop tripods",
+      "Thread adapters connect recorders to mic stands"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load math from Zoom and maker specs: H1n 136 g, H6 280 g without batteries, H5studio 410 g with batteries against 1 kg (PIXI, GorillaPod 1K), 1.5 kg (Nanopole) and 4 kg (Nano Plus).",
+        "source": [
+          "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/",
+          "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/",
+          "https://zoomcorp.com/manuals/h5studio-en/",
+          "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/",
+          "https://www.manfrotto.com/global-en/carbon-nanopole-stand-ms0490c/",
+          "https://www.manfrotto.com/global-en/nano-plus-stand-5002bl/"
+        ],
+        "absentFrom": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by recording job: desk interview, wrap-around placement, music/ambience at mic height, carry-on travel.",
+        "source": "our decision rule from the specs above",
+        "absentFrom": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Tabletop stand too short for an H6 on a table: raise it on a stand with a small ball head, not a taller tabletop.",
+        "source": "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/",
+        "absentFrom": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Recorder tripod socket broken by over-torque: hand-tight only, turn the tripod screw, not the recorder body.",
+        "source": "https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/",
+        "absentFrom": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Nanopole vs Nano Plus: 0.78 kg / 1.5 kg vs 1.35 kg / 4 kg, and owners who handled both call the Nanopole flimsy in wind.",
+        "source": [
+          "https://www.manfrotto.com/global-en/carbon-nanopole-stand-ms0490c/",
+          "https://www.manfrotto.com/global-en/nano-plus-stand-5002bl/",
+          "https://jwsoundgroup.net/index.php?/topic/52356-recommendations-for-standboom-and-stereo-cables-for-mkh-50-30-rig/",
+          "https://gearspace.com/threads/sound-devices-quality-in-a-portable-recorder.1411861/"
+        ],
+        "absentFrom": [
+          "https://zoomcorp.com/en/us/accessories/mounts-stands-and-brackets/tps-5/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "tripod-accessories-recorder-handling-noise",
+        "pain": "Holding a Zoom recorder in the hand puts handling noise on the recording",
+        "details": "Field recordists ask for a tripod or handle to cut handling noise; reviewers say handheld recording gives noisy results.",
+        "sources": [
+          "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+          "https://mindful-audio.com/blog/handheld-recorder-review",
+          "https://www.reddit.com/r/LocationSound/comments/ltb35j/zoom_recorder_hand_noise_solution/",
+          "https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders"
+        ],
+        "quotes": [
+          {
+            "text": "Handholding a recorder is an Instagram cliche and will only yield poor recordings with plenty of unwanted noise.",
+            "url": "https://mindful-audio.com/blog/handheld-recorder-review"
+          }
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-tabletop-too-short",
+        "pain": "Tabletop recorder stands are too short to aim an H6 at a speaker or instrument",
+        "details": "An H6 owner liked the Zoom TPS-5 in theory but found it too short for real use.",
+        "sources": [
+          "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/"
+        ],
+        "quotes": [
+          {
+            "text": "The ideal option though would be something like the Zoom TPS-5 Tabletop Tripod Stand. I like it in theory but it appears way too short",
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1ezemxa/practical_stand_and_attachment_options_for_the/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-socket-overtightened",
+        "pain": "Over-tightening breaks the tripod socket on a Zoom recorder",
+        "details": "An H6 owner broke the tripod mount with only a little torque.",
+        "sources": [
+          "https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/"
+        ],
+        "quotes": [
+          {
+            "text": "I did break the tripod camera mount after applying too much torque",
+            "url": "https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-accessories-light-stand-tips-in-wind",
+        "pain": "Light compact stands wobble or tip over outdoors with a recorder and windshield on top",
+        "details": "Field recordists find Nano-type stands light enough to tip or wobble in wind, especially extended.",
+        "sources": [
+          "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/",
+          "https://drbadphil.com/if-only-boom-poles-could-grow-legs",
+          "https://jwsoundgroup.net/index.php?/topic/52356-recommendations-for-standboom-and-stereo-cables-for-mkh-50-30-rig/"
+        ],
+        "quotes": [
+          {
+            "text": "while it is quite light, I find the weight is sometimes not enough, and the stand risks tipping over.",
+            "url": "https://www.creativefieldrecording.com/2025/07/23/field-recording-kit-2025/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-accessories-recorder-mic-stand-thread",
+        "pain": "The recorder 1/4-inch socket does not fit a mic stand or light stand thread",
+        "details": "Owners need an adapter between the 1/4-inch recorder socket and 3/8-inch or 5/8-inch stand threads.",
+        "sources": [
+          "https://www.reddit.com/r/fieldrecording/comments/lw9bze/tripod_handle_solutions/",
+          "https://acousticnature.com/journal/best-tripod-for-field-recording",
+          "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6essential/H6essential-support/"
+        ],
+        "quotes": []
+      }
+    ],
+    "stats": [
+      {
+        "number": "280g (9.9 oz)",
+        "claim": "Zoom H6 weight without batteries",
+        "url": "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/",
+        "quote": "Weight: 280g (9.9 oz) (not including batteries)"
+      },
+      {
+        "number": "136 g",
+        "claim": "Zoom H1n weight with batteries",
+        "url": "https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/",
+        "quote": "Weight: 0.3 lb. (136 g) with batteries"
+      },
+      {
+        "number": "410 g",
+        "claim": "Zoom H5studio weight including batteries",
+        "url": "https://zoomcorp.com/manuals/h5studio-en/",
+        "quote": "Weight (including batteries) | 410 g"
+      },
+      {
+        "number": "4 kg",
+        "claim": "Manfrotto Nano Plus payload at maximum extension",
+        "url": "https://www.manfrotto.com/global-en/nano-plus-stand-5002bl/",
+        "quote": "With an impressive maximum payload of 4 kg at maximum extension"
+      },
+      {
+        "number": "1.5kg",
+        "claim": "Manfrotto Carbon Nanopole load",
+        "url": "https://www.manfrotto.com/global-en/carbon-nanopole-stand-ms0490c/",
+        "quote": "the perfect support for small lighting equipment up to 1.5kg"
+      },
+      {
+        "number": "1 kg",
+        "claim": "Manfrotto PIXI device weight limit",
+        "url": "https://www.manfrotto.com/global-en/pixi-mini-tripod-black-made-in-italy-mtpiximii-b/",
+        "quote": "you can use PIXI with many different digital devices, weighing up to 1 kg"
+      }
+    ],
+    "videos": [
+      {
+        "id": "OLAV9GGqUWc",
+        "title": "Manfrotto Nanopole - The Ultimate Stand for Field Recording?",
+        "channel": "Free To Use Sounds",
+        "url": "https://www.youtube.com/watch?v=OLAV9GGqUWc",
+        "section": "How I picked each tripod for a Zoom recorder"
+      }
+    ],
+    "internalLinkCandidates": [
+      "best-tabletop-camera-tripod",
+      "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "how-to-stop-tripod-shake-in-wind",
+      "best-mini-tripod-for-desk-video-calls",
+      "best-tripod-for-laser-level"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tabletop-camera-tripod",
+        "find": "At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip.",
+        "replace": "At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip, which also makes it a handy [tripod for a Zoom recorder](/blog/best-tripod-for-zoom-recorder/)."
+      },
+      {
+        "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+        "find": "Leveling is the real day-to-day difference between the two tripod types.",
+        "replace": "Leveling is the real day-to-day difference between the two tripod types, whether you mount a camera or a [Zoom recorder on a tripod](/blog/best-tripod-for-zoom-recorder/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for zoom h5",
+      "tripod for zoom recorder",
+      "zoom h6 tripod",
+      "zoom recorder stand",
+      "mini tripod for zoom h1n"
+    ],
+    "angle": "Height and load first: the Zoom recorder's own weight against each support, then tabletop vs stand by recording job (desk interview, wrap-around spot, music and ambience at mic height, travel), plus the thread chain and wind problems owners report.",
+    "textrazor": "2026-11-07: scripts/textrazor-entities.mjs on Zoom TPS-5 page, Acoustic Nature, Creative Field Recording, Dr Badphil, Mindful Audio (5 pages; photo.net, Sweetwater and Stack Exchange blocked the fetcher). Shared: Tripod 0.91, Tripod (photography) 0.87, Microphone stand 0.8, Microphone 0.7, Manfrotto 0.61, Field recording 0.6, Tripod head 0.56, Gear 0.54, Height 0.49, Noise 0.48, Camera 0.43, Electric battery 0.4, Sound 0.3, IPhone 0.24."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-laser-level",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-filming-sports",
+      "mode": "related-box"
+    }
+  ]
+}

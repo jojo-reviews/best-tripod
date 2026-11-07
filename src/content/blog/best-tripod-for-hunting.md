@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-zoom-recorder
   - best-tripod-for-lumix-s5ii
   - best-tripod-for-seestar-s50
   - best-tripod-for-long-exposure
-  - best-tripod-for-insta360-x5
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying guide
 ---

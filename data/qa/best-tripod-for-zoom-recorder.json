@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-zoom-recorder",
+  "pass": true,
+  "checkedAt": "2026-11-07T11:37:11.163Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto PIXI Mini Tripod (MTPIXIMII-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Zoom TPS-5 Tabletop Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 5002BL Nano Plus Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Carbon Nanopole Stand (MS0490C)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-11-07: Verified against maker pages via Firecrawl: Manfrotto PIXI MTPIXIMII-B (13.5 cm, 18.5 cm closed, 0.17 kg, 1 kg, push-button head), Manfrotto Nano Plus 5002BL (197/52 cm, 52 cm folded, 1.35 kg, 4 kg at max extension, levelling leg, 1/4 and 3/8 attachments), Manfrotto Carbon Nanopole MS0490C (197/61 cm, 51 cm folded, 0.78 kg, 1.5 kg, removable column usable as handheld boom, 1/4, 3/8, 5/8 stud), Zoom TPS-5 page (just above six inches, rubber feet, full swivel head, 1/4 thread; no load rating published) and B&H TPS-5 (folded legs as handgrip), B&H GorillaPod 1K (2.2 lb/1 kg, 10 in, 8 in folded, 5.1 oz/145 g). Recorder weights: Zoom H6 page 280 g without batteries, H1n page 136 g with batteries, H5studio manual 410 g including batteries; MA2 adapter on Zoom H6essential support page. Amazon US listings checked with Firecrawl amazon-com provider: B09GKLCP95 in stock sold by Amazon.com, B08YP7STY3 in stock (Amazon), B07YQH8QK8 in stock (Amazon), B082DL3BK5 in stock (Adorama), B074WFNNKY listing live with other sellers. Owner quotes checked verbatim: Mindful Audio, Creative Field Recording (scraped), r/fieldrecording 1ezemxa and 1slc30i (Firecrawl search excerpts). Owner opinions: JWSOUNDGROUP and Gearspace (Roland Harris on Nanopole vs Nano Plus), Free To Use Sounds, Tools and Toys PIXI review, PriceMe GorillaPod 1K themes. Percentages 41%/27% computed from 410 g vs 1 kg / 1.5 kg.",
+    "at": "2026-11-07T11:37:10.521Z",
+    "hash": "e5b40d4f0dc89fd0"
+  }
+}

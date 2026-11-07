@@ -389,8 +389,8 @@ faqs:
     a: >-
       A laser level tripod uses 1/4-20 or 5/8-11 thread. Line lasers, point
       lasers and laser measures usually take 1/4-20, the camera thread; rotary
-      and construction lasers take 5/8-11. The socket under your laser tells
-      you which.
+      and construction lasers take 5/8-11. The socket under your laser tells you
+      which.
   - q: How tall should a laser level tripod be?
     a: >-
       A laser level tripod should reach about 60 to 72 in for wall work and
@@ -398,9 +398,9 @@ faqs:
       cabinets, and the BT300HD cranks to 110 in for ceilings.
   - q: Do I need an elevator tripod for a laser level?
     a: >-
-      No, not unless you work above about 6 ft, such as drop ceilings. The crank gives
-      fine height control, but a raised column is less steady, so extend the
-      legs first.
+      No, not unless you work above about 6 ft, such as drop ceilings. The crank
+      gives fine height control, but a raised column is less steady, so extend
+      the legs first.
   - q: Which tripod works with a Bosch or DeWalt laser level?
     a: >-
       The Bosch BT150 or DeWalt DW0881T fits a Bosch or DeWalt line laser on
@@ -442,9 +442,10 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-laser-level.png
 heroAlt: >-
-  Best Tripod for Laser Level – 5 Picks by Thread and Height – Best
-  Tripod buying guide
+  Best Tripod for Laser Level – 5 Picks by Thread and Height – Best Tripod
+  buying guide
 related:
+  - best-tripod-for-zoom-recorder
   - best-tripod-dolly
   - best-tripod-quick-release-plate
 ---
