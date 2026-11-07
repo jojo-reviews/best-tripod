@@ -494,14 +494,12 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-lumix-s5ii
+  - best-tripod-for-seestar-s50
   - best-tripod-for-long-exposure
   - best-tripod-for-insta360-x5
-  - best-tripod-for-crossbow
-  - best-tripod-for-camera
 heroImage: /images/featured/best-tripod-for-hunting.png
-heroAlt: >-
-  Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying
-  guide
+heroAlt: Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying guide
 ---
 
 The best tripod for hunting is the one that fits how you hunt and how your rifle sits on top, because a buck at 250 yards will not wait for a rest that is too short, too wobbly or still strapped to your pack. For fast spot-and-stalk shots I pick the Primos Trigger Stick Gen3 Tall Tripod; for a blind or stand, the BOG DeathGrip clamps the rifle hands-free; for backcountry glassing, the 2.5 lb Vortex Summit Carbon II; for long range, PRS or NRL Hunter, the 55 lb rated Vortex Radian Carbon. I did not use these myself; every figure comes from maker spec sheets and owner reports, and I say which.

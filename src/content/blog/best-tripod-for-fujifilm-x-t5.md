@@ -446,13 +446,13 @@ faqs:
       standard 1/4 in tripod thread, so every pick carries them; the PIXI EVO
       suits them especially well with a small prime.
 heroAlt: >-
-  Best Tripod for Fujifilm X-T5 – 5 Picks Matched to Your Lens – Best
-  Tripod buying guide
+  Best Tripod for Fujifilm X-T5 – 5 Picks Matched to Your Lens – Best Tripod
+  buying guide
 related:
+  - best-tripod-for-lumix-s5ii
+  - best-tripod-for-seestar-s50
   - best-tripod-for-long-exposure
   - best-tripod-for-crossbow
-  - best-tripod-for-headshots
-  - best-tripod-for-timelapse
 heroImage: /images/featured/best-tripod-for-fujifilm-x-t5.png
 ---
 

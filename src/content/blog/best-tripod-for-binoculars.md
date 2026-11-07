@@ -417,13 +417,13 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-binoculars.png
 heroAlt: >-
-  Best Tripod for Binoculars – 5 Picks for Glassing and Stargazing – Best
-  Tripod buying guide
+  Best Tripod for Binoculars – 5 Picks for Glassing and Stargazing – Best Tripod
+  buying guide
 related:
+  - best-tripod-for-lumix-s5ii
+  - best-tripod-for-seestar-s50
   - best-tripod-for-long-exposure
   - best-tripod-for-crossbow
-  - best-tripod-for-camera
-  - best-tripod-for-headshots
 ---
 
 A tripod for binoculars holds 12x50s steady long after your arms start shaking. The best tripod for binoculars for most people is the [Vortex Ridgeview Carbon](amzn:Vortex+Ridgeview+Carbon+Tripod+Kit), tall enough to glass standing; if you glass seated after a long hike, the 2.5 lb [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit) wins. I matched five tripods to how you glass, using maker spec sheets and owner reports from hunting and astronomy forums. We have not used these tripods ourselves.

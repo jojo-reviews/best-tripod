@@ -1,0 +1,748 @@
+{
+  "keyword": "best tripod for seestar s50",
+  "createdAt": "2026-11-07T11:34:08.799Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for Seestar S50",
+    "entityVariants": [
+      "Seestar S50 tripod",
+      "tripod for ZWO Seestar S50",
+      "tall tripod for Seestar",
+      "Seestar EQ mode tripod",
+      "smart telescope tripod"
+    ],
+    "entities": [
+      {
+        "name": "Seestar S50",
+        "type": "smart telescope",
+        "relation": "the 2.5 kg all-in-one smart telescope from ZWO that sits on the tripod",
+        "salience": 0.85
+      },
+      {
+        "name": "tripod",
+        "type": "equipment",
+        "relation": "three-legged stand; the central entity's parent, judged by height, stability and the 3/8-inch thread",
+        "salience": 0.84
+      },
+      {
+        "name": "tripod head",
+        "type": "equipment",
+        "relation": "ball, fluid or wedge head; removed to reach the 3/8-inch screw, or used to tilt the S50 for EQ mode",
+        "salience": 0.82
+      },
+      {
+        "name": "astrophotography",
+        "type": "activity",
+        "relation": "the S50 stacks deep-sky images, so vibration and wind blur subs",
+        "salience": 0.67
+      },
+      {
+        "name": "aluminum",
+        "type": "material",
+        "relation": "leg material of the Star Adventurer, Befree Advanced and 055",
+        "salience": 0.48
+      },
+      {
+        "name": "screw",
+        "type": "part",
+        "relation": "the 3/8-inch-16 screw the S50 base takes",
+        "salience": 0.4
+      },
+      {
+        "name": "equatorial mode",
+        "type": "operating mode",
+        "relation": "tilting the S50 to the celestial pole with a wedge or tilt head for longer exposures",
+        "salience": 0.6
+      },
+      {
+        "name": "TC20",
+        "type": "product",
+        "relation": "ZWO's 235-365 mm carbon tripod that ships with the S50",
+        "salience": 0.55
+      },
+      {
+        "name": "TH10",
+        "type": "product",
+        "relation": "ZWO's fluid tilt head for EQ mode",
+        "salience": 0.45
+      },
+      {
+        "name": "Sky-Watcher Star Adventurer Tripod",
+        "type": "product",
+        "relation": "aluminum astronomy tripod with a 3/8-16 stud, the most named pick in Seestar threads",
+        "salience": 0.5
+      },
+      {
+        "name": "leveling base",
+        "type": "accessory",
+        "relation": "fine-tunes level under the S50 without moving legs",
+        "salience": 0.4
+      },
+      {
+        "name": "polar alignment",
+        "type": "process",
+        "relation": "pointing the tilted S50 axis at the pole in EQ mode",
+        "salience": 0.35
+      },
+      {
+        "name": "carbon fiber",
+        "type": "material",
+        "relation": "leg material of the FreeBlazer and TC20; damps vibration",
+        "salience": 0.35
+      },
+      {
+        "name": "Seestar S30",
+        "type": "smart telescope",
+        "relation": "smaller sibling that many of the same tripods also carry",
+        "salience": 0.3
+      }
+    ],
+    "entitiesNote": "TextRazor ran on seestar.com TC20, astro.pics, highpointscientific TH10 (cloudynights and stargazerslounge blocked TextRazor's fetcher); shared entities: Seestar 0.85, Tripod 0.84, Tripod head 0.82, Astrophotography 0.67, Aluminium 0.48, Screw 0.4. 'S30 (ZVV)' is a TextRazor mislabel of the Seestar S30 and was kept as Seestar S30.",
+    "attributes": [
+      "max height with the column down (Seestar base height)",
+      "3/8-16 thread on the tripod top",
+      "rated load vs the 2.5 kg S50",
+      "folded length",
+      "weight",
+      "leg lock type (twist, lever, one-step)",
+      "leg diameter and sections",
+      "leveling (bowl, half ball, leveling base)",
+      "EQ mode tilt head or wedge",
+      "accessory tray / spreader"
+    ],
+    "ngrams": [
+      "tripod for seestar",
+      "seestar s50 tripod",
+      "stock tripod",
+      "eq mode",
+      "3/8 screw",
+      "star adventurer tripod",
+      "ball head",
+      "taller tripod",
+      "leveling base",
+      "tripod head"
+    ],
+    "skipgrams": [
+      "tripod…3/8",
+      "seestar…level",
+      "taller…trees",
+      "eq mode…wedge",
+      "wind…vibration",
+      "remove…ball head"
+    ],
+    "nlpTerms": [
+      "smart telescope",
+      "alt-az mode",
+      "equatorial wedge",
+      "polar alignment",
+      "subs",
+      "stacking",
+      "leveler",
+      "spreader tray",
+      "carbon fiber legs",
+      "lever locks",
+      "twist locks",
+      "75 mm bowl",
+      "half ball",
+      "latitude",
+      "deck railing"
+    ],
+    "questions": [
+      {
+        "q": "What is the best tripod for the Seestar S50?",
+        "maps": "intro + Which Seestar S50 tripod should you get?",
+        "answerTerms": [
+          "3/8-16",
+          "Star Adventurer",
+          "height",
+          "stock tripod"
+        ]
+      },
+      {
+        "q": "What thread does the Seestar S50 need on a tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "3/8-inch screw",
+          "1/4-inch",
+          "adapter",
+          "ball head"
+        ]
+      },
+      {
+        "q": "How tall should a Seestar S50 tripod be?",
+        "maps": "Seestar S50 tripod height and load compared",
+        "answerTerms": [
+          "inches",
+          "trees",
+          "railing",
+          "column down"
+        ]
+      },
+      {
+        "q": "Can I use a camera tripod with the Seestar S50?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "remove the ball head",
+          "3/8 screw",
+          "adapter",
+          "load"
+        ]
+      },
+      {
+        "q": "What tripod do I need for Seestar S50 EQ mode?",
+        "maps": "How to set up a Seestar S50 tripod for EQ mode",
+        "answerTerms": [
+          "wedge",
+          "TH10",
+          "polar alignment",
+          "over a leg"
+        ]
+      },
+      {
+        "q": "Is the ZWO TC20 the same as the Seestar S50 stock tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "TC20",
+          "stock tripod",
+          "235-365 mm",
+          "carbon"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top page lines up the real base height of each tripod against the 14.4 in stock tripod",
+      "No page compares rated load against the S50's 2.5 kg weight",
+      "Forum threads mention rotation clearance on the tripod top but nobody explains the fix in one place",
+      "Nobody gives a who-should-buy-which rule across tabletop, travel, tall and EQ-mode setups"
+    ],
+    "outline": [
+      {
+        "h2": "Seestar S50 tripod height and load compared",
+        "intent": "comparison table on the deciding spec (base height) + load vs 2.5 kg",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these Seestar S50 tripods",
+        "intent": "selection rule + From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the Seestar S50, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Sky-Watcher Star Adventurer Tripod: best overall tripod for the Seestar S50",
+          "Manfrotto Befree Advanced Lever: best travel tripod for the Seestar S50",
+          "Manfrotto 055 Aluminum 3-Section Tripod: best tall tripod to clear trees",
+          "SmallRig FreeBlazer: best Seestar S50 tripod for wind and EQ mode",
+          "ZWO Seestar TH10 Tripod Head with TC20 Tripod: best low EQ-mode kit"
+        ]
+      },
+      {
+        "h2": "Which Seestar S50 tripod should you get?",
+        "intent": "decision rule",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a Seestar S50 tripod for EQ mode",
+        "intent": "numbered steps + video",
+        "h3": []
+      },
+      {
+        "h2": "Seestar S50 tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "commonPoints": [
+      "Any sturdy tripod with a 3/8-inch screw on top fits the S50",
+      "Remove a photo tripod's ball head to reach the larger 3/8-inch screw",
+      "A taller tripod clears trees, roofs and railings the stock tripod cannot",
+      "A leveler or leveling base makes setup easier than adjusting legs",
+      "EQ mode needs a wedge or tilt head and a steadier tripod"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Base-height ladder from maker specs: TC20 14.4 in, Star Adventurer 44.75 in, Befree Advanced 50.39 in with the column down, 055 55.1 in without the column, FreeBlazer 72 in; how much of a 6 ft fence each clears",
+        "source": "maker and retailer spec pages",
+        "absentFrom": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+          "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+          "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Load headroom vs the 2.5 kg S50: TH10 head 2x, Befree and 055 3.6x, FreeBlazer 10x, TC20 12x; the head, not the legs, is the tight spot in EQ mode",
+        "source": "Seestar S50 FAQ weight + maker load ratings",
+        "absentFrom": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+          "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by situation: backyard alt-az, travel, clearing obstacles, EQ mode in wind, tabletop EQ kit",
+        "source": "our decision rule from the specs above",
+        "absentFrom": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+          "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Rotation clearance: the S50 can bind on a raised tripod top; a fender washer or spacer fixes it",
+        "source": "Cloudy Nights threads 907062 and 896704; Printables Star Adventurer spacer",
+        "absentFrom": [
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+          "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "EQ mode lean: set the tilted S50 over one leg; the TC20 + TH10 combo is not supported below 15 degrees latitude",
+        "source": "Cloudy Nights 913911 + ZWO TC20 page",
+        "absentFrom": [
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+          "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+        ]
+      }
+    ],
+    "targetWords": 1600,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+        "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+        "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+        "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/",
+        "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+        "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/",
+        "https://skiesandscopes.com/camera-tripod/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The top results are forum threads and one blog; each product gets a short paragraph about fit, height and stability, not pros/cons boxes or spec tables.",
+      "avgWords": 1500,
+      "avgProducts": 3,
+      "commonSections": [
+        "intro question",
+        "tripod picks with height and thread notes",
+        "leveling advice",
+        "EQ mode wedge advice"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/seestar/comments/1qm0sdg/seestar_s50_what_tripod_do_you_recommend/",
+        "title": "Seestar S50 - What tripod do you recommend?"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/groups/seestar/posts/577875335024753/",
+        "title": "I'm thinking of getting a good tripod to use the S50 on. Any ..."
+      },
+      {
+        "position": 3,
+        "url": "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+        "title": "TC20 Carbon Fiber Tripod for Seestar"
+      },
+      {
+        "position": 4,
+        "url": "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+        "title": "SeestarS50 Tripod recommendations - Cloudy Nights"
+      },
+      {
+        "position": 5,
+        "url": "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/",
+        "title": "Upgrade Your Seestar S30 Tripod - 2025 Top 3 Alternatives"
+      },
+      {
+        "position": 6,
+        "url": "https://www.highpointscientific.com/zwo-s50-pro-smart-telescope-tripod-head-and-new-quick-release-plate",
+        "title": "ZWO S50 Pro Smart Telescope Tripod Head and New Quick ..."
+      },
+      {
+        "position": 7,
+        "url": "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/",
+        "title": "What tripod should I get? - Stargazers Lounge"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=UmywJeT6jdo",
+        "title": "Top 10 Seestar Accessories - YouTube"
+      },
+      {
+        "position": 9,
+        "url": "https://www.firstlightoptics.com/smart-telescopes/zwo-tc20-tripod-for-seestar-smart-telescope.html",
+        "title": "ZWO TC20 Tripod for Seestar Smart Telescopes"
+      },
+      {
+        "position": 10,
+        "url": "https://agenaastro.com/zwo-tripod-head-with-tripod-for-seestar-smart-telescopes.html",
+        "title": "ZWO Tripod Head with Tripod for Seestar Smart Telescopes"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "Seestar",
+        "tripod head",
+        "recommendations",
+        "S30",
+        "TC20"
+      ],
+      "gap": "No top-10 title is a buyer's list for the S50; they are forum questions and ZWO product pages. Only one title carries a year, so no year; a pick count and the two deciding needs (height, EQ mode) are the differentiator."
+    },
+    "serpProducts": [
+      {
+        "name": "Sky-Watcher Star Adventurer Tripod (S20555)",
+        "pages": [
+          "https://www.reddit.com/r/seestar/comments/1qm0sdg/seestar_s50_what_tripod_do_you_recommend/",
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/",
+          "https://www.youtube.com/watch?v=UmywJeT6jdo"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Advanced Lever (MKBFRLA4BK-BH)",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+          "https://www.cloudynights.com/forums/topic/911653-tripod-for-my-zwo-seestar-50/"
+        ]
+      },
+      {
+        "name": "Manfrotto 055 aluminum tripod (MT055XPRO3)",
+        "pages": [
+          "https://www.reddit.com/r/seestar/comments/1qm0sdg/seestar_s50_what_tripod_do_you_recommend/",
+          "https://www.facebook.com/groups/seestar/posts/577875335024753/",
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+          "https://www.facebook.com/groups/seestar/posts/593566950122258/"
+        ]
+      },
+      {
+        "name": "SmallRig FreeBlazer carbon fiber tripod legs (4167)",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/"
+        ]
+      },
+      {
+        "name": "ZWO Seestar TH10 Tripod Head with TC20 Tripod",
+        "pages": [
+          "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+          "https://agenaastro.com/zwo-tripod-head-with-tripod-for-seestar-smart-telescopes.html",
+          "https://www.highpointscientific.com/zwo-tripod-and-tripod-head-for-the-seestar-smart-telescope",
+          "https://www.firstlightoptics.com/smart-telescopes/zwo-tc20-tripod-for-seestar-smart-telescope.html"
+        ]
+      },
+      {
+        "name": "Manfrotto 190XPro",
+        "pages": [
+          "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+        ]
+      },
+      {
+        "name": "SmallRig 62 in carbon fiber tripod",
+        "pages": [
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/"
+        ]
+      },
+      {
+        "name": "K&F Concept 64 in tripod",
+        "pages": [
+          "https://astro.pics/upgrade-your-seestar-s30-tripod-top-3-alternatives/"
+        ]
+      },
+      {
+        "name": "Sirui AM-324",
+        "pages": [
+          "https://www.reddit.com/r/seestar/comments/1qm0sdg/seestar_s50_what_tripod_do_you_recommend/"
+        ]
+      },
+      {
+        "name": "Celestron Heavy-Duty Alt-Azimuth (8SE-style) tripod",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+        ]
+      }
+    ],
+    "productChanges": "Celestron 8SE tripod (2 pages) dropped: the Amazon US Celestron Heavy-Duty Alt-Azimuth Tripod (93607) is a different model with its own 1/4-20 alt-az head, not the SE tripod owners named. The TC20 alone was folded into the TH10 + TC20 kit because ZWO says the TC20 is the tripod that already ships with the S50.",
+    "painPoints": [
+      {
+        "id": "seestar-s50-stock-tripod-too-short",
+        "pain": "The stock Seestar S50 tripod is too short to clear trees, roofs and railings",
+        "details": "Owners move tables outside or buy taller tripods to see past ground obstacles and stop bending down.",
+        "sources": [
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+          "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/"
+        ],
+        "quotes": [
+          {
+            "text": "Tired of moving sturdy table out of garage to get more visibility around ground structure.",
+            "url": "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+          },
+          {
+            "text": "The extra height is great as it lets me clear two homes and tall trees in my location.",
+            "url": "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/"
+          }
+        ]
+      },
+      {
+        "id": "seestar-s50-leveling-stock-tripod",
+        "pain": "Leveling the S50 on the stock tripod's legs is slow",
+        "details": "Owners add a leveling base or use a half ball so they stop nudging legs.",
+        "sources": [
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+          "https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/"
+        ],
+        "quotes": [
+          {
+            "text": "Trying to level with the stock tripod is a PIA.",
+            "url": "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+          }
+        ]
+      },
+      {
+        "id": "seestar-s50-rotation-clearance-tripod-top",
+        "pain": "The S50 sits too low on some tripod tops and cannot rotate freely",
+        "details": "A raised rim or locator pin on the tripod top rubs the base; owners add a washer or printed spacer.",
+        "sources": [
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+          "https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/",
+          "https://www.printables.com/model/967055-seestar-s50-tripod-spacer"
+        ],
+        "quotes": [
+          {
+            "text": "I just had to add a fender washer from ace hardware to ensure Seestar’s base has a good mating with the tripod base.",
+            "url": "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+          }
+        ]
+      },
+      {
+        "id": "seestar-s50-wind-shake-tall-tripod",
+        "pain": "Wind shakes a tall or extended tripod and blurs subs",
+        "details": "Extensions and raised columns add shake; owners drop the extension or pick stiffer legs.",
+        "sources": [
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+          "https://www.reddit.com/r/seestar/comments/1if5yuw/whats_a_good_tripodrig_to_run_the_s50_in_eq_mode/"
+        ],
+        "quotes": [
+          {
+            "text": "Wind was a little gusty and the extension added a little shake to images.",
+            "url": "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+          }
+        ]
+      },
+      {
+        "id": "seestar-s50-photo-tripod-bolt-too-small",
+        "pain": "A photo tripod's 1/4-inch plate screw is too small for the S50's 3/8-inch socket",
+        "details": "Owners remove the ball head to expose a 3/8-inch screw or use an adapter.",
+        "sources": [
+          "https://www.cloudynights.com/forums/topic/911653-tripod-for-my-zwo-seestar-50/",
+          "https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/"
+        ],
+        "quotes": [
+          {
+            "text": "I thought my new photo tripod would work but the bolt is too small for the Seestar",
+            "url": "https://www.cloudynights.com/forums/topic/911653-tripod-for-my-zwo-seestar-50/"
+          }
+        ]
+      },
+      {
+        "id": "seestar-s50-twist-locks-collapse",
+        "pain": "Twist-lock legs loosen and sink under the scope unless cranked hard",
+        "details": "One owner moved to clamping (lever) legs after twist locks collapsed.",
+        "sources": [
+          "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+        ],
+        "quotes": [
+          {
+            "text": "the legs would loosen and collapse if I didn't torque them closed hard.",
+            "url": "https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "2.5kg",
+        "claim": "Seestar S50 weight; stock tripod 0.65 kg",
+        "url": "https://us.seestar.com/blogs/faq/s50",
+        "quote": "Seestar S50 is 2.5kg. Tripod is 0.65kg."
+      },
+      {
+        "number": "235–365mm",
+        "claim": "TC20 height range",
+        "url": "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+        "quote": "Height range: 235–365mm (screws not included)"
+      },
+      {
+        "number": "15°",
+        "claim": "TC20 + TH10 combo with the S50 is not compatible below 15 degrees latitude",
+        "url": "https://us.seestar.com/products/tc20-carbon-fiber-tripod-for-seestar",
+        "quote": "Thus, this combo is not compatible with regions located below 15° latitude."
+      },
+      {
+        "number": "128 cm",
+        "claim": "Befree Advanced lever max height with the center column down",
+        "url": "https://www.manfrotto.com/global-en/befree-advanced-aluminum-travel-tripod-lever-ball-head-mkbfrla4bk-bhus/",
+        "quote": "Maximum Height (with Center Column Down)128 cm50.39 in"
+      },
+      {
+        "number": "25kg",
+        "claim": "SmallRig FreeBlazer 4167 load capacity",
+        "url": "https://www.smallrig.com/SmallRig-FreeBlazer-Heavy-Duty-Carbon-Fiber-Tripod-4167.html",
+        "quote": "Tripod Load Capacity: 25kg"
+      }
+    ],
+    "videos": [
+      {
+        "id": "uLm__SzfCzY",
+        "title": "SeeStar - How to mount in Equatorial Mode mode",
+        "channel": "Shiv Verma",
+        "url": "https://www.youtube.com/watch?v=uLm__SzfCzY",
+        "section": "How to set up a Seestar S50 tripod for EQ mode"
+      }
+    ],
+    "googleModifiers": [
+      "pro",
+      "eq mode",
+      "pro eq mode",
+      "tall",
+      "tripod head",
+      "zwo"
+    ],
+    "googleModifiersUsed": "eq mode (H2 + kit pick), tall (height table and 055/FreeBlazer picks), tripod head (TH10 and head-removal advice); 'pro' only where the ZWO TC20 page names the S50 Pro; 'amazon' is a shopping chip and is skipped.",
+    "amazonFilters": [
+      {
+        "group": "Customer Review",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up",
+          "2 Stars & Up",
+          "1 Star & Up"
+        ]
+      },
+      {
+        "group": "Max Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "$1–$1,000+",
+          "Up to $150",
+          "$150 to $250",
+          "$250 to $350",
+          "$350 to $400",
+          "$400 & above"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Used"
+        ]
+      },
+      {
+        "group": "Brands",
+        "options": [
+          "Zeadio",
+          "Victiv",
+          "ZWO",
+          "JOILCAN",
+          "CAMBOFOTO",
+          "SIRUI",
+          "Sky Watcher"
+        ]
+      },
+      {
+        "group": "Head Type",
+        "options": [
+          "Ball Heads",
+          "Geared Heads",
+          "Gimbal Heads",
+          "Pan Heads",
+          "Pistol Grip Heads"
+        ]
+      },
+      {
+        "group": "Color",
+        "options": [
+          "Black",
+          "Silver",
+          "Grey",
+          "White",
+          "Brown",
+          "Red",
+          "Pink",
+          "Orange",
+          "Green",
+          "Blue",
+          "Gold",
+          "Multi"
+        ]
+      }
+    ],
+    "amazonFiltersUsed": "Max Height bands become the height column of the comparison table (one pick in each band); Head Type informs the head-removal and TH10 notes. Price, review stars and color are skipped (no prices or ratings on this site).",
+    "internalLinkCandidates": [
+      "best-tripod-for-telescope",
+      "best-tripod-for-astrophotography",
+      "leveling-base-vs-leveling-column",
+      "how-to-stop-tripod-shake-in-wind",
+      "twist-lock-vs-flip-lock-tripod-legs"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-telescope",
+        "find": "A High Point reviewer finds it sturdy for Seestar and Dwarf smart telescopes, while another buyer returned it.",
+        "replace": "A High Point reviewer finds it sturdy for [Seestar and Dwarf smart telescopes](/blog/best-tripod-for-seestar-s50/), while another buyer returned it."
+      },
+      {
+        "slug": "leveling-base-vs-leveling-column",
+        "find": "I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed.",
+        "replace": "I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed, such as the legs under a [Seestar S50 smart telescope](/blog/best-tripod-for-seestar-s50/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for seestar s50 eq mode",
+      "best tripod for seestar s30 pro",
+      "best tall tripod for seestar s50",
+      "best tripod head for seestar s50",
+      "tripod for seestar s50",
+      "best tripod for zwo seestar s50"
+    ],
+    "angle": "Picked by how high the S50 needs to sit and whether you run EQ mode: base height against the 14.4 in stock tripod, load against the 2.5 kg scope."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}
