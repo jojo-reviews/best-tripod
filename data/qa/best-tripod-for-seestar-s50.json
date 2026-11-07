@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-seestar-s50",
   "pass": true,
-  "checkedAt": "2026-11-07T11:34:03.405Z",
+  "checkedAt": "2026-11-07T16:31:07.698Z",
   "errors": [],
   "warnings": [
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,16 @@
     "product \"ZWO Seestar TH10 Tripod Head with TC20 Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://agenaastro.com/zwo-tripod-head-with-tripod-for-seestar-smart-telescopes.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/913911-seestars50-tripod-recommendations/",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/907062-tripod-for-seestar/",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/896704-taller-tripod-for-zwo-seestar/",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/911653-tripod-for-my-zwo-seestar-50/",
+    "source didn't respond normally (403): https://stargazerslounge.com/topic/440534-what-tripod-should-i-get/",
+    "source didn't respond normally (403): https://www.printables.com/model/967055-seestar-s50-tripod-spacer"
   ],
   "factCheck": {
     "verified": true,

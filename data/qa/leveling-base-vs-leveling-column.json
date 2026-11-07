@@ -1,7 +1,7 @@
 {
   "slug": "leveling-base-vs-leveling-column",
   "pass": true,
-  "checkedAt": "2026-11-07T16:24:38.054Z",
+  "checkedAt": "2026-11-07T16:33:03.506Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
@@ -9,7 +9,10 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1690976/",
+    "source didn't respond normally (403): https://bcgforums.com/threads/leveling-bases-for-tripods.3794/",
+    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1df80ug/how_important_is_a_levelling_bowl_on_a_tripod/"
   ],
   "factCheck": {
     "verified": true,

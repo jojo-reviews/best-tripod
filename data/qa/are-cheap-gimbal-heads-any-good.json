@@ -1,7 +1,7 @@
 {
   "slug": "are-cheap-gimbal-heads-any-good",
   "pass": true,
-  "checkedAt": "2026-11-05T21:26:04.022Z",
+  "checkedAt": "2026-11-07T16:26:29.954Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
@@ -18,6 +18,7 @@
     "source didn't respond normally (no response): https://backcountryjourneys.com/10-Best-Gimbal-Heads-for-Wildlife-Photography",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/cheap-gimbal-heads.3945458/",
     "source didn't respond normally (403): https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/",
+    "source didn't respond normally (403): https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/",
     "source didn't respond normally (403): https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/"
   ],
   "factCheck": {

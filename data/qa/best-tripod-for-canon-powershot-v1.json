@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-powershot-v1",
   "pass": true,
-  "checkedAt": "2026-11-07T16:24:33.378Z",
+  "checkedAt": "2026-11-07T16:28:27.366Z",
   "errors": [],
   "warnings": [
     "product \"Canon Tripod Grip HG-100TBR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,13 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.canon.ie/cameras/powershot-v1/specifications/",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/608724.pdf",
+    "source didn't respond normally (403): https://www.dpreview.com/reviews/canon-powershot-v1-review/",
+    "source didn't respond normally (403): https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
+    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/"
   ],
   "factCheck": {
     "verified": true,

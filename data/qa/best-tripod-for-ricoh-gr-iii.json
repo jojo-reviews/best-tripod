@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-ricoh-gr-iii",
   "pass": true,
-  "checkedAt": "2026-11-07T16:24:34.300Z",
+  "checkedAt": "2026-11-07T16:31:02.085Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI Mini Tripod (MTPIXIMII-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,18 @@
     "product \"ULANZI MT-08 Extendable Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html/specs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html/specs",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1519312-REG/ulanzi_1601_mt_08_extensible_mini_tripod.html/specs",
+    "source didn't respond normally (403): https://eu.manuals.plus/asin/B07ZPS47VC",
+    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
+    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1904664/0",
+    "source didn't respond normally (403): https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
+    "source didn't respond normally (403): https://www.reddit.com/r/ricohGR/comments/16gz5fo/mini_tripod_suggestion/",
+    "source didn't respond normally (403): https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/"
   ],
   "factCheck": {
     "verified": true,
