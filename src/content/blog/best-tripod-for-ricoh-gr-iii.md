@@ -488,7 +488,7 @@ A Ricoh GR III tripod has to be small enough to come along every day, because th
 | ULANZI MT-08 | 3.2 oz | 5.9 in | 9.27 in | 0.5 kg extended | 1.9x |
 | SIRUI Traveler 5C | 1.87 lb | 13 in | 54.3 in | 4 kg | 15.6x |
 
-Camera tripod ratings are sized for a mirrorless camera with a lens, so the useful ratio here is tripod weight against camera weight. The MT-08 weighs about a third of the GR III, the GorillaPod about half and the PIXI Mini about three quarters; the PIXI EVO matches it. Only the SIRUI outweighs it, at about 3.3 times, and the pair still comes to about 1.1 kg. The Ricoh GR IIIx and Ricoh GR IV add just 5 g each.
+Camera tripod ratings are sized for a mirrorless camera with a lens, so the useful ratio here is tripod weight against camera weight. The MT-08 weighs about a third of the GR III, the GorillaPod about half and the PIXI Mini about three quarters; the PIXI EVO matches it. Only the SIRUI outweighs it, at about 3.3 times, and the pair still comes to about 1.1 kg. The Ricoh GR IIIx and Ricoh GR IV add just 5 g each, and the same weight logic sizes our [tripods for the Canon G7X Mark III](/blog/best-tripod-for-canon-g7x-mark-iii/).
 
 ## How I picked these Ricoh GR III tripods
 

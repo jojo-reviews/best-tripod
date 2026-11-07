@@ -1128,7 +1128,7 @@ Only seven of the 15 publish a column-down height (counting the column-less Leof
 
 ### Peak Design Travel Tripod (Carbon Fiber): Best travel tripod for mirrorless camera kits overall
 
-The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+carbon+fiber) is a five-section carbon fiber travel tripod from Peak Design. It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/). Its 20 lb rating leaves generous headroom, the 15.5-inch fold is only about 3.25 inches wide, and its 51.25-inch column-down height is among the best here. The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity.
+The [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+carbon+fiber) is a five-section carbon fiber travel tripod from Peak Design. It suits a full-frame shooter who flies carry-on with a 70-200mm class lens, or a [Nikon Zf with a small zoom](/blog/best-tripod-for-nikon-zf/). Its 20 lb rating leaves generous headroom, the 15.5-inch fold is only about 3.25 inches wide, and its 51.25-inch column-down height is among the best here. The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity, while a [Lumix S5II with a 70-200mm](/blog/best-tripod-for-lumix-s5ii/) will.
 
 ### Peak Design Travel Tripod (Aluminum): Same design for less outlay
 

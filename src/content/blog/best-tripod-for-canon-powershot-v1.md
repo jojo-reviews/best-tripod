@@ -499,7 +499,7 @@ The [Ulanzi MT-16](amzn:Ulanzi+MT-16+extendable+tripod) is a telescopic mini tri
 
 ### Manfrotto PIXI Mini Tripod: best pocket tabletop tripod
 
-The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+mini+tripod+MTPIXIMII-B) is a rigid tabletop tripod from Manfrotto, and it is the one I would keep in a jacket pocket with the V1. It stands 13.5 cm tall, folds to 18.5 cm and weighs 0.17 kg; press the button, level the camera, release, and the ball head locks. The 1 kg payload is about 2.3 times the V1. A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot. The limits are the spec sheet's: fixed height and only about 35 degrees of tilt each way, and a Gear Mashers reviewer finds the head tight rather than smooth. For desk videos and cafe tables, it is all I'd carry.
+The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+mini+tripod+MTPIXIMII-B) is a rigid tabletop tripod from Manfrotto, and it is the one I would keep in a jacket pocket with the V1. It stands 13.5 cm tall, folds to 18.5 cm and weighs 0.17 kg; press the button, level the camera, release, and the ball head locks. The 1 kg payload is about 2.3 times the V1. A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot (our [Canon G7X Mark III tripod picks](/blog/best-tripod-for-canon-g7x-mark-iii/) cover its successor). The limits are the spec sheet's: fixed height and only about 35 degrees of tilt each way, and a Gear Mashers reviewer finds the head tight rather than smooth. For desk videos and cafe tables, it is all I'd carry.
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: best adjustable tabletop tripod
 

@@ -1,7 +1,7 @@
 {
   "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:57.632Z",
+  "checkedAt": "2026-11-07T16:24:39.680Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
@@ -9,15 +9,12 @@
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "FAQ \"Is a GorillaPod better than a mini tripod for trav\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/explora/photography/buying-guide/which-joby-gorillapod-is-best-for-you",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications"
+    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\""
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-01: TextRazor on 4 top pages; entity sentences added; specs unchanged vs B&H/Manfrotto/Shotkit; no new prices, ratings or tests.",
-    "at": "2026-11-01T17:51:50.963Z",
-    "hash": "70ea396ee604c56b"
+    "notes": "added one internal link to best-tripod-for-zoom-recorder, no claim changed",
+    "at": "2026-11-07T16:24:39.141Z",
+    "hash": "3b61c299e2b0abad"
   }
 }

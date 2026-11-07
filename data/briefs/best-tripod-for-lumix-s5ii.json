@@ -551,12 +551,14 @@
     {
       "slug": "best-tripod-for-sony-a7iv",
       "find": "It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend.",
-      "replace": "It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend, and it also leads our [Lumix S5II tripod picks](/blog/best-tripod-for-lumix-s5ii/)."
+      "replace": "It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend, and it also leads our [Lumix S5II tripod picks](/blog/best-tripod-for-lumix-s5ii/).",
+      "appliedAt": "2026-11-07T16:24:35.184Z"
     },
     {
       "slug": "best-travel-tripod-for-mirrorless-camera",
       "find": "The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity.",
-      "replace": "The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity, while a [Lumix S5II with a 70-200mm](/blog/best-tripod-for-lumix-s5ii/) will."
+      "replace": "The trade-offs are a premium price and five leg sections to open; a light APS-C kit won't use the capacity, while a [Lumix S5II with a 70-200mm](/blog/best-tripod-for-lumix-s5ii/) will.",
+      "appliedAt": "2026-11-07T16:24:36.173Z"
     }
   ],
   "textrazor": {

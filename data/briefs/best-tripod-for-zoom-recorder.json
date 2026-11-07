@@ -120,12 +120,12 @@
     "rubber feet"
   ],
   "skipgrams": [
-    "zoom\u2026recorder",
-    "tripod\u2026socket",
-    "handling\u2026noise",
-    "mic\u2026stand",
-    "light\u2026stand",
-    "ball\u2026head"
+    "zoom…recorder",
+    "tripod…socket",
+    "handling…noise",
+    "mic…stand",
+    "light…stand",
+    "ball…head"
   ],
   "nlpTerms": [
     "X/Y capsule",
@@ -655,12 +655,14 @@
     {
       "slug": "best-tabletop-camera-tripod",
       "find": "At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip.",
-      "replace": "At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip, which also makes it a handy [tripod for a Zoom recorder](/blog/best-tripod-for-zoom-recorder/)."
+      "replace": "At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip, which also makes it a handy [tripod for a Zoom recorder](/blog/best-tripod-for-zoom-recorder/).",
+      "appliedAt": "2026-11-07T16:24:38.889Z"
     },
     {
       "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
       "find": "Leveling is the real day-to-day difference between the two tripod types.",
-      "replace": "Leveling is the real day-to-day difference between the two tripod types, whether you mount a camera or a [Zoom recorder on a tripod](/blog/best-tripod-for-zoom-recorder/)."
+      "replace": "Leveling is the real day-to-day difference between the two tripod types, whether you mount a camera or a [Zoom recorder on a tripod](/blog/best-tripod-for-zoom-recorder/).",
+      "appliedAt": "2026-11-07T16:24:39.701Z"
     }
   ],
   "secondaryKeywords": [

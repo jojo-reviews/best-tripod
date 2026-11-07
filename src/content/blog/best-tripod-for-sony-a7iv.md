@@ -507,7 +507,7 @@ The [Manfrotto Befree Advanced Lever](amzn:Manfrotto+Befree+Advanced+Tripod+Leve
 
 ### Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head: best for wind and long exposures
 
-The [Leofoto LS-284CX Ranger](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) is a columnless carbon fiber travel tripod from Leofoto, sold with the LH-30 ball head, and my pick for landscape photography, long exposures and ND work. It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend. It has no center column to flex (an optional one is included), four carbon sections, each with a twist lock, a 22 lb rating and an Arca-type LH-30 head. Lonely Speck measured about 50 in with the head and found it rock solid with a Sony 100-400mm; a CameraEgg owner says it stays still in high winds. The trade-offs are a 22 in fold with the head and no separate friction knob.
+The [Leofoto LS-284CX Ranger](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) is a columnless carbon fiber travel tripod from Leofoto, sold with the LH-30 ball head, and my pick for landscape photography, long exposures and ND work. It is the current version of the LS-284C + LH-30 that CameraEgg and Sony Rumors posters recommend, and it also leads our [Lumix S5II tripod picks](/blog/best-tripod-for-lumix-s5ii/). It has no center column to flex (an optional one is included), four carbon sections, each with a twist lock, a 22 lb rating and an Arca-type LH-30 head. Lonely Speck measured about 50 in with the head and found it rock solid with a Sony 100-400mm; a CameraEgg owner says it stays still in high winds. The trade-offs are a 22 in fold with the head and no separate friction knob.
 
 ### SIRUI AM-284 Carbon Fiber Tripod (Legs Only): best columnless legs
 

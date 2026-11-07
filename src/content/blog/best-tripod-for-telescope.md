@@ -417,7 +417,7 @@ The limits come from owners. A Cloudy Nights owner calls the slow motion smooth 
 
 The Sky-Watcher Star Adventurer Tripod (S20555) is a light aluminum telescope tripod from Sky-Watcher for small GoTo and tracking heads. Its spring-loaded 3/8-16 thread stud fits the Star Adventurer 2i and GTi, the AZ-GT series and the AZ5 without adapters. The 1.25 in legs use twist locks and reach 25 to 44.75 in, and the snap-in tray doubles as a spreader.
 
-Sky-Watcher publishes no load rating, and owners are split. A High Point reviewer finds it sturdy for Seestar and Dwarf smart telescopes, while another buyer returned it. A Cloudy Nights owner found no free play, but says it flexes under side force. The optional extension adds [8.5 in of height](https://www.highpointscientific.com/sky-watcher-star-adventurer-tripod-s20555) for longer tubes.
+Sky-Watcher publishes no load rating, and owners are split. A High Point reviewer finds it sturdy for [Seestar and Dwarf smart telescopes](/blog/best-tripod-for-seestar-s50/), while another buyer returned it. A Cloudy Nights owner found no free play, but says it flexes under side force. The optional extension adds [8.5 in of height](https://www.highpointscientific.com/sky-watcher-star-adventurer-tripod-s20555) for longer tubes.
 
 ### Celestron TrailSeeker Tripod: best camera-style tripod for travel scopes
 

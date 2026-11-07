@@ -188,7 +188,7 @@ The tripod threads into its bottom and the head screws on top.
 - **Half-ball bases with one knob.** You loosen a knob, tilt, and lock. Acratech's base allows [15 degrees in any direction](https://www.acratech.net/acratech-leveling-bases-fast-tripod-leveling/) on a standard 3/8-16 stud. A DVXuser poster lists the Sunwayfoto DYH-90i with a tilt range of about +/- 16 degrees and a 15 kg load capacity.
 - **Clamp or screw top.** A screw top takes one head. An Arca-Swiss clamp on top, as landscape photographer Richard Herzog uses, lets you swap a gimbal head, fluid head or ball head in seconds.
 
-I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed.
+I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed, such as the legs under a [Seestar S50 smart telescope](/blog/best-tripod-for-seestar-s50/).
 
 ## How a leveling column works
 

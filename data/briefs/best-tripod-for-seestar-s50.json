@@ -708,12 +708,14 @@
     {
       "slug": "best-tripod-for-telescope",
       "find": "A High Point reviewer finds it sturdy for Seestar and Dwarf smart telescopes, while another buyer returned it.",
-      "replace": "A High Point reviewer finds it sturdy for [Seestar and Dwarf smart telescopes](/blog/best-tripod-for-seestar-s50/), while another buyer returned it."
+      "replace": "A High Point reviewer finds it sturdy for [Seestar and Dwarf smart telescopes](/blog/best-tripod-for-seestar-s50/), while another buyer returned it.",
+      "appliedAt": "2026-11-07T16:24:37.133Z"
     },
     {
       "slug": "leveling-base-vs-leveling-column",
       "find": "I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed.",
-      "replace": "I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed, such as the legs under a [Seestar S50 smart telescope](/blog/best-tripod-for-seestar-s50/)."
+      "replace": "I like that a base is not married to one tripod; as an FM Forums owner put it, it can move to another tripod if needed, such as the legs under a [Seestar S50 smart telescope](/blog/best-tripod-for-seestar-s50/).",
+      "appliedAt": "2026-11-07T16:24:38.076Z"
     }
   ],
   "secondaryKeywords": [

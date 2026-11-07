@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-powershot-v1",
   "pass": true,
-  "checkedAt": "2026-11-06T15:51:04.807Z",
+  "checkedAt": "2026-11-07T16:24:33.378Z",
   "errors": [],
   "warnings": [
     "product \"Canon Tripod Grip HG-100TBR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,18 +10,12 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.canon.ie/cameras/powershot-v1/specifications/",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/608724.pdf",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/canon-powershot-v1-review/",
-    "source didn't respond normally (403): https://helenavery.substack.com/p/is-the-canon-powershot-v1-good-for",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-06 semantic pass: added built-in 16-50mm-equivalent lens (DPReview/Canon specs), Canon EOS R50 naming and FAQ on 1/4in-20 socket fit for Canon EOS/mirrorless tripods; removed SEO-process wording in picking section; no prices, ratings, products or ASINs changed.",
-    "at": "2026-11-06T15:30:41.522Z",
-    "hash": "96bc3eb1db63ab2a"
+    "notes": "added one internal link to best-tripod-for-canon-g7x-mark-iii, no claim changed",
+    "at": "2026-11-07T16:24:32.684Z",
+    "hash": "b687326551009070"
   }
 }

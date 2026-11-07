@@ -292,7 +292,7 @@ Wrap all three legs fully around a fence post or railing rather than hooking one
 
 ### Level a flexible tripod with the head, not the legs
 
-Leveling is the real day-to-day difference between the two tripod types. One DPReview owner explains that on a GorillaPod the camera ends up where the legs are happy, not where you are, and that "Getting a level horizon is like guessing the weather outside in a windowless insulated room". Mojogear's tripod guide makes the same point: a flexible tripod is harder to set completely vertical. The fix is a separate ball head with a bubble level, so we'd pick a kit over a bare flexible stand. Set the legs roughly, then level and aim with the head.
+Leveling is the real day-to-day difference between the two tripod types, whether you mount a camera or a [Zoom recorder on a tripod](/blog/best-tripod-for-zoom-recorder/). One DPReview owner explains that on a GorillaPod the camera ends up where the legs are happy, not where you are, and that "Getting a level horizon is like guessing the weather outside in a windowless insulated room". Mojogear's tripod guide makes the same point: a flexible tripod is harder to set completely vertical. The fix is a separate ball head with a bubble level, so we'd pick a kit over a bare flexible stand. Set the legs roughly, then level and aim with the head.
 
 ## When a Rigid Mini Tripod Wins
 

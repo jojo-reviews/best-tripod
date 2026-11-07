@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-11-06T15:54:55.757Z",
+  "checkedAt": "2026-11-07T16:24:37.120Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: body has 1645 words, over the 1610 limit (top results average 1400): cut repetition and filler",
@@ -9,14 +9,12 @@
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron TrailSeeker Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://agenaastro.com/telescope-mounts-tripods/mount-accessories/telescope-tripods.html",
-    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/"
+    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-02 semantic pass: entities (telescope mount, GoTo, equatorial mount, astronomer) added in true sentences; product first sentences now name product, type, maker and model numbers from existing specs; no new prices, ratings or tests; video-below wording removed; generic H2s renamed.",
-    "at": "2026-11-02T17:54:34.985Z",
-    "hash": "24d304627c2ac0c6"
+    "notes": "added one internal link to best-tripod-for-seestar-s50, no claim changed",
+    "at": "2026-11-07T16:24:36.636Z",
+    "hash": "1d6b7ce1fbb69456"
   }
 }

@@ -586,12 +586,14 @@
     {
       "slug": "best-tripod-for-canon-powershot-v1",
       "find": "A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot.",
-      "replace": "A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot (our [Canon G7X Mark III tripod picks](/blog/best-tripod-for-canon-g7x-mark-iii/) cover its successor)."
+      "replace": "A DPReview owner says it is compact and stable, and that with the legs folded it makes a great handle for a Canon G7 X Mark II, a smaller PowerShot (our [Canon G7X Mark III tripod picks](/blog/best-tripod-for-canon-g7x-mark-iii/) cover its successor).",
+      "appliedAt": "2026-11-07T16:24:33.401Z"
     },
     {
       "slug": "best-tripod-for-ricoh-gr-iii",
       "find": "The Ricoh GR IIIx and Ricoh GR IV add just 5 g each.",
-      "replace": "The Ricoh GR IIIx and Ricoh GR IV add just 5 g each, and the same weight logic sizes our [tripods for the Canon G7X Mark III](/blog/best-tripod-for-canon-g7x-mark-iii/)."
+      "replace": "The Ricoh GR IIIx and Ricoh GR IV add just 5 g each, and the same weight logic sizes our [tripods for the Canon G7X Mark III](/blog/best-tripod-for-canon-g7x-mark-iii/).",
+      "appliedAt": "2026-11-07T16:24:34.315Z"
     }
   ],
   "textrazor": {

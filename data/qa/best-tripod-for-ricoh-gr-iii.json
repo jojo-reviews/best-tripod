@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-ricoh-gr-iii",
   "pass": true,
-  "checkedAt": "2026-11-06T15:54:10.558Z",
+  "checkedAt": "2026-11-07T16:24:34.300Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI Mini Tripod (MTPIXIMII-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,23 +10,12 @@
     "product \"ULANZI MT-08 Extendable Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html/specs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html/specs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1519312-REG/ulanzi_1601_mt_08_extensible_mini_tripod.html/specs",
-    "source didn't respond normally (403): https://eu.manuals.plus/asin/B07ZPS47VC",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/mini-tripods-for-the-gr.4483879/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1904664/0",
-    "source didn't respond normally (403): https://www.pentaxforums.com/forums/161-ricoh-gr-series/392921-good-light-tripod-pair-griii.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-Ricoh-GR-III-Kit/1643026-REG-48207",
-    "source didn't respond normally (403): https://www.reddit.com/r/ricohGR/comments/16gz5fo/mini_tripod_suggestion/",
-    "source didn't respond normally (403): https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-06 (review only): added point-and-shoot camera (Ricoh spec: APS-C compact), aluminum/technopolymer (Amazon titles B09GKLCP95, B0149KBPB4), uneven ground/vertical framing (PIXI EVO 2-section legs, 90-degree notch), GorillaPod 1K head 360 pan/90 tilt and 8 in fold (B&H specs); removed SEO-process wording (Amazon listing lines); rewrote reviewed-section opener to a checkable spec sentence (all <2 lb, >=1.9x load); no numbers, products, ASINs or quotes changed",
-    "at": "2026-11-06T15:29:12.715Z",
-    "hash": "5238fb10a5949986"
+    "notes": "added one internal link to best-tripod-for-canon-g7x-mark-iii, no claim changed",
+    "at": "2026-11-07T16:24:33.790Z",
+    "hash": "1d7ee7d5918ce45b"
   }
 }

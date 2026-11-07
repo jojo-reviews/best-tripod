@@ -516,7 +516,7 @@ Pack Hacker's six-month review found the build durable through dozens of drops a
 
 ### Manfrotto PIXI Mini Tripod (MTPIXI-B): best simple tabletop tripod
 
-The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) is a fixed-height tabletop tripod from Manfrotto, and it is my pick for a point-and-shoot camera, a vlogging camera or a smartphone on a clamp. At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip. One press of the push button frees the ball; release it and the head locks.
+The [Manfrotto PIXI Mini Tripod](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) is a fixed-height tabletop tripod from Manfrotto, and it is my pick for a point-and-shoot camera, a vlogging camera or a smartphone on a clamp. At 190 g and 18.5 cm closed, it fits a jacket pocket, and the legs fold into a hand grip, which also makes it a handy [tripod for a Zoom recorder](/blog/best-tripod-for-zoom-recorder/). One press of the push button frees the ball; release it and the head locks.
 
 The limits are written on the spec sheet: 13.5 cm of fixed height, one leg angle, ±35 degrees of tilt and a [1 kg payload](https://www.manfrotto.com/global-en/pixi-mini-tripod-black-mtpixi-b/). TechGearLab's tester calls it less useful for full-size cameras because the short legs can't be adjusted, and owners on r/M43 advise pointing one foot the same way as a larger lens. I'd skip it for any DSLR kit.
 
