@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-dwarf-3",
   "pass": true,
-  "checkedAt": "2026-11-08T11:35:09.343Z",
+  "checkedAt": "2026-11-08T11:54:53.923Z",
   "errors": [],
   "warnings": [
     "product \"DWARFLAB Mini Tripod with Hydraulic Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,12 @@
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-inch-aluminum-travel-camera-tripod-ball-head",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1175941-REG/manfrotto_mk290xta3_3wus_290_xtra_3_way_head.html/specs",
+    "source didn't respond normally (403): https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/",
+    "source didn't respond normally (403): https://www.reddit.com/r/DWARFLAB/comments/1qy4p3l/buying_guide_tripod_head_mounting_options/",
+    "source didn't respond normally (403): https://stargazerslounge.com/topic/430500-seestardwarf-tripods/"
   ],
   "factCheck": {
     "verified": true,

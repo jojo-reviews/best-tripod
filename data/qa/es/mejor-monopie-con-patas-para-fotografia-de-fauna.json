@@ -3,10 +3,13 @@
   "lang": "es",
   "translationOf": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-08T11:29:31.693Z",
+  "checkedAt": "2026-11-08T12:02:37.186Z",
   "errors": [],
   "warnings": [
-    "internal link to the English post /blog/best-monopod-for-hiking/; link the es version once it exists"
+    "internal link to the English post /blog/best-monopod-for-hiking/; link the es version once it exists",
+    "source didn't respond normally (403): https://www.adorama.com/vgam264tr.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1778617-REG/neewer_66601445_extendable_camera_monopod_stand.html",
+    "source didn't respond normally (403): https://www.sony.co.th/en/electronics/camera-lenses/sel200600g/specifications"
   ],
   "factCheck": {
     "verified": true,

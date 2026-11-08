@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-zwo-am5",
   "pass": true,
-  "checkedAt": "2026-11-08T11:37:43.575Z",
+  "checkedAt": "2026-11-08T11:58:19.145Z",
   "errors": [],
   "warnings": [
     "product \"ZWO TC40 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,10 @@
     "product \"iOptron Tri-Pier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron Heavy Duty CPC Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/"
   ],
   "factCheck": {
     "verified": true,

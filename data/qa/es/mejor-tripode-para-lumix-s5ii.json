@@ -3,13 +3,21 @@
   "lang": "es",
   "translationOf": "best-tripod-for-lumix-s5ii",
   "pass": true,
-  "checkedAt": "2026-11-07T16:32:49.136Z",
+  "checkedAt": "2026-11-08T12:03:34.350Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r2060.html",
+    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r70200.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1667840-REG/3_legged_thing_coreyblue2_0_punks_corey_2_0_magnesium.html",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
+    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
   ],
   "factCheck": {
     "verified": true,

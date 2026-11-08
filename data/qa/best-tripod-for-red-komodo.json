@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-red-komodo",
   "pass": true,
-  "checkedAt": "2026-11-08T11:38:03.141Z",
+  "checkedAt": "2026-11-08T11:57:10.566Z",
   "errors": [],
   "warnings": [
     "product \"Sachtler System FSB 8 Mk II 75/2 AL GS Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,11 @@
     "product \"SmallRig x Potato Jet TRIBEX SE Hydraulic Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf24-70mm-f2-8l-is-usm",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207",
+    "source didn't respond normally (403): https://www.reddit.com/r/RedCamera/comments/12expua/komodo_full_rig_on_tripod_crashes_to_tile_floor/",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1eu2vh/camera_too_light_for_the_tripod_head/"
   ],
   "factCheck": {
     "verified": true,

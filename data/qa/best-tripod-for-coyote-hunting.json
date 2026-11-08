@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-coyote-hunting",
   "pass": true,
-  "checkedAt": "2026-11-08T11:34:34.726Z",
+  "checkedAt": "2026-11-08T11:54:26.553Z",
   "errors": [],
   "warnings": [
     "product \"Fatboy Traverse 2 Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,7 +10,11 @@
     "product \"BOG DeathGrip Infinite Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SLIK Pro 700 DX Tripod Legs\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/557127-REG/Slik_615_317_700DX_Pro_Tripod_Legs.html",
+    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+    "source didn't respond normally (403): https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/"
   ],
   "factCheck": {
     "verified": true,

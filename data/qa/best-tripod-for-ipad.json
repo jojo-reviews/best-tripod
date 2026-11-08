@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-ipad",
   "pass": true,
-  "checkedAt": "2026-11-08T11:38:24.148Z",
+  "checkedAt": "2026-11-08T11:55:50.177Z",
   "errors": [],
   "warnings": [
     "product \"elitehood Metal iPad Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,7 +11,11 @@
     "product \"JOBY GripTight PRO Tablet Mount\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1668644-REG/ulanzi_2597_u_pad_iii_metal_universal.html",
+    "source didn't respond normally (403): https://eu.manuals.plus/ae/1005003218922701",
+    "source didn't respond normally (403): https://www.ebay.com/itm/820030835419",
+    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/"
   ],
   "factCheck": {
     "verified": true,

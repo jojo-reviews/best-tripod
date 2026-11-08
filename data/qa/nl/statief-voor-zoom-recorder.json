@@ -3,13 +3,18 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-zoom-recorder",
   "pass": true,
-  "checkedAt": "2026-11-07T16:37:40.171Z",
+  "checkedAt": "2026-11-08T12:08:19.763Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
     "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the nl version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html",
+    "source didn't respond normally (403): https://www.photo.net/discuss/threads/mini-tripod-for-portable-digital-recorder.410557/",
+    "source didn't respond normally (403): https://sound.stackexchange.com/questions/579/tripods-grips-for-handheld-recorders",
+    "source didn't respond normally (403): https://www.reddit.com/r/fieldrecording/comments/1slc30i/what_the_hell_happened_to_zoom_products_am_i/",
+    "source didn't respond normally (403): https://www.reddit.com/r/LocationSound/comments/ltb35j/zoom_recorder_hand_noise_solution/"
   ],
   "factCheck": {
     "verified": true,
