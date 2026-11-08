@@ -563,7 +563,7 @@ The [UBeesize 67 inch Camera Tripod](amzn:UBeesize+67+inch+camera+tripod+with+tr
 
 ### Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK): best desk tripod for phone streams
 
-The Manfrotto PIXI clamp kit is a tabletop phone tripod from Manfrotto, and I'd choose it for a phone stream at a desk or counter. Manfrotto rates it for a [1 kg payload](https://www.manfrotto.com/global-en/pixi-mini-tripod-with-smartphone-clamp-black-made-in-italy-mkpixiclmii-bk/); it weighs 0.17 kg, stands 13.5 cm and folds to 18.5 cm. A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later. Owners call it rock-solid on a level desk. The catch is the fixed height: plan on a riser to reach eye level, as in our [desk video call tripod guide](/blog/best-mini-tripod-for-desk-video-calls/).
+The Manfrotto PIXI clamp kit is a tabletop phone tripod from Manfrotto, and I'd choose it for a phone stream at a desk or counter. Manfrotto rates it for a [1 kg payload](https://www.manfrotto.com/global-en/pixi-mini-tripod-with-smartphone-clamp-black-made-in-italy-mkpixiclmii-bk/); it weighs 0.17 kg, stands 13.5 cm and folds to 18.5 cm. A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later, as do the [tablet mounts for an iPad](/blog/best-tripod-for-ipad/). Owners call it rock-solid on a level desk. The catch is the fixed height: plan on a riser to reach eye level, as in our [desk video call tripod guide](/blog/best-mini-tripod-for-desk-video-calls/).
 
 ### JOBY GorillaPod Mobile Rig: best phone tripod rig with mic and light arms
 

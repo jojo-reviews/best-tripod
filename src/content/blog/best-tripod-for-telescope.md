@@ -447,7 +447,7 @@ Cloudy Nights owners disagree. One could nudge it in every direction with the mo
 | Wave 100i or 150i | Sky-Watcher Wave Carbon Fiber | 44 lb payload, matched bolt |
 | 120mm+ refractor or a big equatorial mount | None of these | Needs a heavy duty tripod in steel or wood |
 
-An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here.
+An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here, like our [tripods for the ZWO AM5](/blog/best-tripod-for-zwo-am5/).
 
 ## Telescope Tripod Problems Owners Run Into, and the Fix
 

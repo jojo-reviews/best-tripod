@@ -1,22 +1,19 @@
 {
   "slug": "best-tripod-for-astrophotography",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:47.005Z",
+  "checkedAt": "2026-11-08T16:25:03.390Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Benro Tortoise 24C with GX30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA37C\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://skiesandscopes.com/camera-tripod/",
-    "source didn't respond normally (403): https://www.photopills.com/articles/best-milky-way-photography-gear"
+    "product \"Manfrotto Befree Advanced Aluminum\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-02 semantic pass: no new specs/prices/claims; added tripod head, mirrorless camera/DSLR entity sentences (load math from Skies & Scopes unchanged); removed Short Answer H2 that re-listed template picks (patent rule 2026-10-31), comparison table moved up as first H2; reviewedDate only",
-    "at": "2026-11-02T17:55:49.858Z",
-    "hash": "2ad00e740cce433a"
+    "notes": "added one internal link to best-tripod-for-zwo-am5, no claim changed",
+    "at": "2026-11-08T16:25:03.052Z",
+    "hash": "186d51fa08aa083e"
   }
 }

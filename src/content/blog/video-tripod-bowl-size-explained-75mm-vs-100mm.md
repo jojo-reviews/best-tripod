@@ -150,7 +150,7 @@ heroAlt: >-
   guide
 ---
 
-A used fluid head arrives and its half ball is too big for the cup on your tripod legs. Video tripod bowl size is the diameter of that cup: 75mm suits mirrorless and small cinema camera rigs, 100mm suits heavier builds, and adapters only work one way.
+A used fluid head arrives and its half ball is too big for the cup on your tripod legs. Video tripod bowl size is the diameter of that cup: 75mm suits mirrorless and [small cinema camera rigs like the RED Komodo](/blog/best-tripod-for-red-komodo/), 100mm suits heavier builds, and adapters only work one way.
 
 ## Video tripod bowl size explained: 75mm vs 100mm in one minute
 

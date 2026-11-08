@@ -1,24 +1,22 @@
 {
   "slug": "best-tripod-for-sony-fx3",
   "pass": true,
-  "checkedAt": "2026-11-06T15:54:34.554Z",
+  "checkedAt": "2026-11-08T16:25:07.508Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: body has 1732 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"Manfrotto Befree Live Aluminum Travel Video Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/camcorders-and-video-cameras-interchangeable-lens-camcorders/ilme-fx3/specifications",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel2470gm2/specifications",
-    "source didn't respond normally (403): https://thepostflow.com/production/accessories/best-tripod-for-video/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-05 (significant: FAQ answers on payload and fluid head rewritten to open with the answer): added monopod (left out, true), payload capacity, camera cage, quick release plate on 1/4-20 socket, full-frame, run-and-gun, filmmaking; review opener, chooser and section openers rewritten with Sony FX3 tripod as subject; video reference fixed; captions added; trimmed filler; no new numbers, prices or test claims",
-    "at": "2026-11-05T22:11:08.578Z",
-    "hash": "061dfa05830f0f62"
+    "notes": "added one internal link to best-tripod-for-red-komodo, no claim changed",
+    "at": "2026-11-08T16:25:07.151Z",
+    "hash": "a5a604f3c94413f5"
   }
 }

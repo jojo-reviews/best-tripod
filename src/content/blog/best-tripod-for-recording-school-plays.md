@@ -490,7 +490,7 @@ The camera and lens add a few inches on top. On Amazon, the "65 in & above" Max 
 
 ## How I picked these tripods for recording school plays
 
-**I kept video tripods with a fluid head that either clear a standing adult or pack small enough for an aisle seat, each backed by owner reports from recital, concert or event shooters.** Every pick takes a camera or camcorder on its plate, and a phone with a clamp. The Libec TH-X and NEEWER TP75 dropped out with thinner owner evidence.
+**I kept video tripods with a fluid head that either clear a standing adult or pack small enough for an aisle seat, each backed by owner reports from recital, concert or event shooters.** Every pick takes a camera or camcorder on its plate, and a phone with a clamp; an iPad needs one of the wider [iPad tripod mounts](/blog/best-tripod-for-ipad/). The Libec TH-X and NEEWER TP75 dropped out with thinner owner evidence.
 
 > **From our notes:** The 68.9 in CDC figure reorganized this list. I first sorted school play tripods by head smoothness, then checked each top height against a standing adult in the next row. Two Manfrotto kits with the nicest heads fell below that line, so they moved to seated-only duty.
 

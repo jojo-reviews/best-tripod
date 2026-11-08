@@ -467,7 +467,7 @@ related:
 
 The best tripod for astrophotography is one rated for about three times the weight of your camera, lens and star tracker, used with the center column down. My best overall pick is the [Benro Tortoise 24C with GX30 Ball Head](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Tripod+GX30+TTOR24CGX30), a columnless carbon tripod rated for 14 kg at 1.51 kg. If you only shoot a camera and a wide lens, a lighter travel tripod works too, as long as you follow the [center column down rule for long exposures](/blog/tripod-center-column-up-or-down-for-landscapes/).
 
-Picture a dark site at 1 a.m.: the Milky Way core is up, and a 20-second frame shows stars stretched into dashes. The tracker is fine; the tripod moved. Under a night sky, any vibration shows for the whole exposure.
+Picture a dark site at 1 a.m.: the Milky Way core is up, and a 20-second frame shows stars stretched into dashes. The tracker is fine; the tripod moved. Under a night sky, any vibration shows for the whole exposure, whether the camera rides a tracker or a [harmonic mount like the ZWO AM5](/blog/best-tripod-for-zwo-am5/).
 
 ## Astrophotography Tripods Compared on Load and Column-Down Height
 

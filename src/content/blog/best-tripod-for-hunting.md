@@ -545,7 +545,7 @@ The owner reviews on BOG's own page are mostly warm: hunters use it for first de
 
 The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod. Vortex rates it for 55 lb, lists 8.3 to 67.3 in and four carbon twist-lock sections, and includes stainless spiked feet and a counterweight hook. The ball head has independent pan and tension with notches for up to 90 degrees of travel, and the clamp is Arca-Swiss, so the rifle needs a rail.
 
-On r/longrange, owners call it plenty stable with zero complaints; one prefers it to his Two Vets tripod, and a thermal hunter calls it very sturdy. The honest gripe is cost and weight: one owner says it is a rebadged Leofoto and the premium buys Vortex's warranty, and at 7.3 lb and 28 in folded it is no backpack tripod. Find it as the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head).
+On r/longrange, owners call it plenty stable with zero complaints; one prefers it to his Two Vets tripod, and a thermal hunter calls it very sturdy, one reason it also made my [tripods for coyote hunting](/blog/best-tripod-for-coyote-hunting/). The honest gripe is cost and weight: one owner says it is a rebadged Leofoto and the premium buys Vortex's warranty, and at 7.3 lb and 28 in folded it is no backpack tripod. Find it as the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head).
 
 ### Vortex Ridgeview Carbon Tripod Kit: tallest for standing glassing
 

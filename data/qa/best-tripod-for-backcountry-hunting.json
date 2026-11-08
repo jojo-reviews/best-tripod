@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-backcountry-hunting",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:49.955Z",
+  "checkedAt": "2026-11-08T16:25:02.177Z",
   "errors": [],
   "warnings": [
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,14 +11,12 @@
     "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-05 (review only, reviewedDate only): TextRazor on 4 live top pages (reddit not fetchable), no missing entities; added camera-tripod definition sentence and tripod head wording, rewrote bold section openers as checkable claims from existing sourced specs (22 lb Vortex ratings, 50-58 in seated, 73.8 in Ridgeview), fixed 'video below', added illustration captions. No new prices, ratings, tests or facts.",
-    "at": "2026-11-05T22:12:22.224Z",
-    "hash": "3fcfe2408a8a41d3"
+    "notes": "added one internal link to best-tripod-for-coyote-hunting, no claim changed",
+    "at": "2026-11-08T16:25:01.803Z",
+    "hash": "4d4c5866d0a19905"
   }
 }

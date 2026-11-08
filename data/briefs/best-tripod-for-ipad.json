@@ -637,12 +637,14 @@
     {
       "slug": "best-tripod-for-recording-school-plays",
       "find": "Every pick takes a camera or camcorder on its plate, and a phone with a clamp.",
-      "replace": "Every pick takes a camera or camcorder on its plate, and a phone with a clamp; an iPad needs one of the wider [iPad tripod mounts](/blog/best-tripod-for-ipad/)."
+      "replace": "Every pick takes a camera or camcorder on its plate, and a phone with a clamp; an iPad needs one of the wider [iPad tripod mounts](/blog/best-tripod-for-ipad/).",
+      "appliedAt": "2026-11-08T16:25:05.535Z"
     },
     {
       "slug": "best-tripod-for-live-streaming",
       "find": "A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later.",
-      "replace": "A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later, as do the [tablet mounts for an iPad](/blog/best-tripod-for-ipad/)."
+      "replace": "A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later, as do the [tablet mounts for an iPad](/blog/best-tripod-for-ipad/).",
+      "appliedAt": "2026-11-08T16:25:06.211Z"
     }
   ],
   "secondaryKeywords": [

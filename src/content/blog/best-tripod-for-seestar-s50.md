@@ -485,7 +485,7 @@ heroAlt: >-
 
 The best tripod for Seestar S50 owners has a 3/8-inch screw on top and lifts the scope above whatever blocks the sky. For most people I'd pick the [Sky-Watcher Star Adventurer Tripod](amzn:Sky+Watcher+Star+Adventurer+Tripod+S20555): its 3/8-16 stud takes the S50 with no adapter and reaches 44.75 in. For EQ (equatorial) mode on a windy site, stiffer carbon fiber legs matter more than height.
 
-The stock tripod holds this smart telescope about 14 inches up, so a fence or roofline eats the low sky. Each pick below fixes one problem: travel, tall obstacles, wind in EQ mode, or a ZWO tilt head. Bigger scopes belong on [tripods for telescope mounts](/blog/best-tripod-for-telescope/).
+The stock tripod holds this smart telescope about 14 inches up, so a fence or roofline eats the low sky. Each pick below fixes one problem: travel, tall obstacles, wind in EQ mode, or a ZWO tilt head; the lighter DWARF 3 has its own [DWARF 3 tripod picks](/blog/best-tripod-for-dwarf-3/). Bigger scopes belong on [tripods for telescope mounts](/blog/best-tripod-for-telescope/).
 
 ## Seestar S50 tripod height and load compared
 

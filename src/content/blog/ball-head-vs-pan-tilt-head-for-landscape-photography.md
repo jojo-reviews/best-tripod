@@ -421,7 +421,7 @@ A ball head has fewer parts and no protruding handles, so it is usually lighter 
 
 ### Camera droop and horizon drift
 
-The classic ball head complaint is camera droop: you lock the knob and the camera sags a fraction, which can push an aligned horizon off level. Loosening the ball also frees all axes at once, so fixing the tilt can tip the horizon.
+The classic ball head complaint is camera droop: you lock the knob and the camera sags a fraction, which can push an aligned horizon off level. Loosening the ball also frees all axes at once, so fixing the tilt can tip the horizon, which is also why owners pick a pan tilt head for [DWARF 3 EQ mode](/blog/best-tripod-for-dwarf-3/).
 
 ## How to Fix a Ball Head That Sags or Creeps When Tightened
 

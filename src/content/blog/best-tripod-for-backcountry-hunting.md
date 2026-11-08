@@ -509,7 +509,7 @@ The catch is capacity. Vanguard rates it for 6.6 lb, it stands 51.4 in with the 
 
 ### Primos Trigger Stick Gen3 Tall Tripod: best backcountry shooting tripod
 
-The [Primos Trigger Stick Gen3 Tall Tripod](amzn:PRIMOS+Trigger+Stick+Gen3+Jim+Shockey+Tall+Tripod) is a trigger-adjusted shooting tripod from Primos. Squeeze the trigger and the legs slide from 24 to 62 in with one hand; OpticsPlanet lists 3.5 lb. The quick-detach yoke swaps for an optics or camera mount, but this is a rifle rest first, not a glassing tripod. Unlike a rifle bipod, it holds the rifle scope above grass and brush for sitting, kneeling or standing shots.
+The [Primos Trigger Stick Gen3 Tall Tripod](amzn:PRIMOS+Trigger+Stick+Gen3+Jim+Shockey+Tall+Tripod) is a trigger-adjusted shooting tripod from Primos. Squeeze the trigger and the legs slide from 24 to 62 in with one hand; OpticsPlanet lists 3.5 lb. The quick-detach yoke swaps for an optics or camera mount, but this is a rifle rest first, not a glassing tripod. Unlike a rifle bipod, it holds the rifle scope above grass and brush for sitting, kneeling or standing shots; for night stands where the rifle stays clamped, see my [tripods for coyote hunting](/blog/best-tripod-for-coyote-hunting/).
 
 On Rokslide, one elk hunter shot two elk at 505 and 550 yards off his Primos and called it very stable. Others are blunter: a Long Range Hunting member says it is not the most stable platform but is quick and doubles as a walking stick, while a Sniper's Hide member says the legs do not grip the ground and spread out. UK stalkers report legs corroding or jamming after wet days, so I'd rinse and dry it after rain.
 

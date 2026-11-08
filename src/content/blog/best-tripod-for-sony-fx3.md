@@ -473,7 +473,7 @@ I keep a rig under half the head's rating so tilts stay smooth:
 | Sachtler Ace M MS Mk II | Fluid, 4 kg, 5 counterbalance steps | 43% | 75mm | 66.54 in | 33.86 in | 9.7 lb |
 | Peak Design Travel (Carbon) | Ball head, 9.1 kg | 19% | None | 60 in | 15.5 in | 2.8 lb |
 
-A camera cage, monitor and mic push a Befree Live past half its rating, so caged rigs go on the 6 kg and 8 kg heads. A fast way to level matters too: our guide to [video tripod bowl sizes](/blog/video-tripod-bowl-size-explained-75mm-vs-100mm/) explains why a 75mm half ball beats adjusting legs.
+A camera cage, monitor and mic push a Befree Live past half its rating, so caged rigs go on the 6 kg and 8 kg heads; heavier cinema bodies have their own [RED Komodo tripod picks](/blog/best-tripod-for-red-komodo/). A fast way to level matters too: our guide to [video tripod bowl sizes](/blog/video-tripod-bowl-size-explained-75mm-vs-100mm/) explains why a 75mm half ball beats adjusting legs.
 
 ## How I picked each Sony FX3 tripod
 

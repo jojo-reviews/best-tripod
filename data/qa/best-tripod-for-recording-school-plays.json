@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-recording-school-plays",
   "pass": true,
-  "checkedAt": "2026-11-06T15:54:05.805Z",
+  "checkedAt": "2026-11-08T16:25:05.522Z",
   "errors": [],
   "warnings": [
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,16 +11,12 @@
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/products/manfrotto/tripods/manfrotto_mvk500am/",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/s99221/tall_tripod_recommendation_for_event_shooting_or/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-06: CDC FastStats men 68.9 in (Aug 2021-Aug 2023 data) verified; GEEKOTO B07WN2VNJP listing: 77 in max, 24 in min, 3.1 lb, 20 lb weight limit verified; height rule fixed (GEEKOTO needs center column); added audio, stage-light settings, school filming rules, long-recording notes; removed SEO-process wording; final heading/skip-gram edits verified.",
-    "at": "2026-11-06T15:31:48.552Z",
-    "hash": "49b030adb760c0d6"
+    "notes": "added one internal link to best-tripod-for-ipad, no claim changed",
+    "at": "2026-11-08T16:25:05.149Z",
+    "hash": "cb7ca9362b36152e"
   }
 }
