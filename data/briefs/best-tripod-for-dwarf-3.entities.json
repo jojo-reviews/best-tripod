@@ -1,0 +1,213 @@
+{
+  "keyword": "best tripod for dwarf 3",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "DwarfLab",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.78,
+      "wiki": ""
+    },
+    {
+      "entity": "Telescope",
+      "type": "/law/invention",
+      "pages": 5,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Telescope",
+      "wikidata": "Q4213",
+      "kgmid": "/m/0h2t9w"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.62,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    },
+    {
+      "entity": "Polar alignment",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Polar_alignment",
+      "wikidata": "Q3316288",
+      "kgmid": "/m/02q5153"
+    },
+    {
+      "entity": "Astrophotography",
+      "type": "/people/profession",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Astrophotography",
+      "wikidata": "Q280855",
+      "kgmid": "/m/0121sb"
+    },
+    {
+      "entity": "Telephoto lens",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "wikidata": "Q516461",
+      "kgmid": "/m/01bt4w"
+    },
+    {
+      "entity": "Hydraulic head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Hydraulic_head",
+      "wikidata": "Q369743",
+      "kgmid": "/m/061790"
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
+      "wikidata": "Q267298",
+      "kgmid": "/m/01c0z"
+    },
+    {
+      "entity": "Hydraulics",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Hydraulics",
+      "wikidata": "Q177784",
+      "kgmid": "/m/0hck3"
+    },
+    {
+      "entity": "USB-C",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/USB-C",
+      "wikidata": "Q20026619"
+    },
+    {
+      "entity": "Image sensor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Image_sensor",
+      "wikidata": "Q209121",
+      "kgmid": "/m/0b022t"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Focal length",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Focal_length",
+      "wikidata": "Q193540",
+      "kgmid": "/m/0l43r"
+    },
+    {
+      "entity": "Emission nebula",
+      "type": "/astronomy/celestial_object_category",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Emission_nebula",
+      "wikidata": "Q202265",
+      "kgmid": "/m/017lzp"
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "wikidata": "Q271960",
+      "kgmid": "/m/0168y9"
+    },
+    {
+      "entity": "Autofocus",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Autofocus",
+      "wikidata": "Q210008",
+      "kgmid": "/m/03xp6r"
+    },
+    {
+      "entity": "Astronomical filter",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Astronomical_filter",
+      "wikidata": "Q4811658",
+      "kgmid": "/m/0fq1v2w"
+    },
+    {
+      "entity": "Shutter speed",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed",
+      "wikidata": "Q349600",
+      "kgmid": "/m/0168k4"
+    },
+    {
+      "entity": "Nebula",
+      "type": "/astronomy/celestial_object_category",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Nebula",
+      "wikidata": "Q42372",
+      "kgmid": "/m/05fny"
+    },
+    {
+      "entity": "Light pollution",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.27,
+      "wiki": "http://en.wikipedia.org/wiki/Light_pollution",
+      "wikidata": "Q180644",
+      "kgmid": "/m/04mw9"
+    },
+    {
+      "entity": "Polaris",
+      "type": "Place",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Polaris",
+      "wikidata": "Q12980",
+      "kgmid": "/m/05s8k"
+    }
+  ],
+  "errors": [
+    "https://agenaastro.com/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-ByAJl81OFRaqCZtaeb5DVR&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"ByAJl81OFRaqCZtaeb5DVR\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'ls8lq.Xe0rF8S3.RLDbxpj_WLrJQyU.ps4TpHIkaUCE-1794137140-1.2.1.1-4nQiRyedJbSxXzL9swX.y4NOUAUCLqlxjx68ym_fHqkqy0L4nTVhyEbgs8sUbM.a',cITimeS: '1794137140',cN: 'ByAJl81OFRaqCZtaeb5DVR',cRay: 'a57437e6ff8ec9ad',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html?__cf_chl_tk=fmCSl5o3h9UyS93kd7_TnRyR7IjhG7XA6jwAbZ5JCgQ-1794137140-1.0.1.1-TLlEvZoaADR_ptwtGum5zTm1Wg7F_2w2TvMcJm3dCc4\",cvId: '3',cZone: 'agenaastro.com',fa:\"/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html?__cf_chl_f_tk=fmCSl5o3h9UyS93kd7_TnRyR7IjhG7XA6jwAbZ5JCgQ-1794137140-1.0.1.1-TLlEvZoaADR_ptwtGum5zTm1Wg7F_2w2TvMcJm3dCc4\",md: 'pJJ7LPO1RgUf0xVeBeKq.yUtWVwyVYpLWUGrlftgcJ0-1794137140-1.2.1.1-mNrP21rTBS8HrSoQcPQ9Cf6wh6ky7Aezj5vWh7fU3Th3Z3XBvB7JzdVypV8CyCHDIV._rZeszHKZ5J6CFi6NGBiwmfsi3OuN8O_OI7cJdwXtFbo6.9PdEyDiYI54MfSabBAxkwou5o2b6DKsDqbMyoYllouDFxSXlV466_h5KXzYMeSz2YURA7IQ5oRDK0E.0wPM9sV3A3RfYQqUWkqLVYhoceA45Z0wLTMonojc.3ZvvYYwt2tjg7xITXWe39jJfPfwFuji1cpJVGZ5INqADYeFFNw43E3P831yluhqirn1Ts5gcqDRWJ.wKMtKxP9s4QLBCU24M_nXkcjADUR7QQKeDobO5m3dPtIw1iv1dO26TJIqdB4dB53WdEvM4JYPs4TCUyaGh3ddJ.6IR3HBHmoK3I_MdFr7OKE16PaEQ8LgpoGA8fdBCz3_DFeMIcHuOa1C65cb90Nzv0TC7q4_IlNrAp_.cFAgVYM7SL9H7IXP2cemrmxCMvB9Vc4APFQSw5_w4jythm6ScD.KPBkMq0tJpBLvoMfY3AzVMIys6ud3CWee5kKkNOW3eICUK2MOk_KXMPqmymoRb5eF3_nf..v6ETKwtprJHWP5HnCCU0909GiNAaArSS2Wj27p95_Xh1XWxx1u9isK.WUjkhjptSkkVDW.6FeN_S5Bgt3dJ97EiYc5sWAKR2VE4X248iPY7sRByOFKPRD2y85IcWIW8mmfYVP9r1Gj0zN92PLsOdkKuiK2zpjC9CzeeUMijtR9R0A.mzBaYSLwWWDfV6IhmPDXMGnHRO83BTyZHpNM1B6pYPk5YW4nX9jgDTRppsJEvGvKRXXAUKcx58..sHQ61qloOUgMTne6Jpg2Ul7YP9IJ8tCWek88LhqmyxfNVE86jOJzw58ufhDxp7mEXmXOHtJGVQeBuU0fj3th2ZQnV67vgrSCD0ZrfmzMiUj1QG8eqrQXYjkr4wMtseuVvAWe5XvrpqKnnQ6yGyAfk37ZoGUaZs1RbMGtRItTTbc_wtFms.iZwN7CKWZNHHp5xkpstOM67P_OU3DIhfdeMuFeloJGAcjBmdfE.rxuAKDeajzqwQ.3EyRmDsZDQ84JSg_LDv6a8RdbkmWD6OyT6jH39_vtG7pjQl04H_XZU5_y_AhETqiPAW2aZdgXO5Gne4HGAw',mdrd: 'Esu.t0Gp1iqBM9jDQIAoES0mrxK329Pr8j5GLG1Dt2M-1794137140-1.2.1.1-kb8VjYrDDw05dedtbljKdeETOS1LKNOn0ieRWYZZmQ7LJzZumnvuPK7prI4HABsgcs4.ukSvgX_JPPYUezeynIfDBWg1A7xNpUq91AAlZdJmX8gvKFnBd.9bg2WwiseyHHlVgSuZCm61AOCbozlWjh84LrSOWCPguuKM_12VhhDNmJ_B9AdrIPv_c0D3L1behD6LkGD9j20y8C5bgoI6UUE55nk3LU4W8Sb4p2rl.KStWvt.ESIsG4po52EyZXNhmUxgry_V0F9sFg7IcHgVVw',};var a = document.createElement('script');a.nonce = 'ByAJl81OFRaqCZtaeb5DVR';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a57437e6ff8ec9ad';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html?__cf_chl_rt_tk=fmCSl5o3h9UyS93kd7_TnRyR7IjhG7XA6jwAbZ5JCgQ-1794137140-1.0.1.1-TLlEvZoaADR_ptwtGum5zTm1Wg7F_2w2TvMcJm3dCc4\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-dwarf-3",
+  "pass": true,
+  "checkedAt": "2026-11-08T11:35:09.343Z",
+  "errors": [],
+  "warnings": [
+    "product \"DWARFLAB Mini Tripod with Hydraulic Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 64-Inch Aluminum Travel Tripod (O234A1+BH-36)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto Befree Advanced Lever Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 290 Xtra Aluminum Tripod Kit with 3-Way Head (MK290XTA3-3WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified with Firecrawl on 2026-11-08: DWARF 3 weight ~1.35 kg, 1/4in mounting thread and up to 60 s exposures (dwarflab.com DWARF 3 page); 1/4in-20UNC thread and box contents (help.dwarflab.com unboxing); wind/unstable tripod elongates stars (help.dwarflab.com troubleshooting). DWARFLAB Mini Tripod: 775 g, 3.0 kg load, 530 mm, 5 aluminum sections, 360 pan, +90/-75 tilt, 1/4in plate screw (dwarflab.com tripod page); 25 cm folded, twist locks, Arca plate, owner reviews and leg-collapse Q&A (High Point). DWARF mini 840 g, 1/4in (dwarflab.com, Universe Today). K&F O234A1+BH-36: 52-163 cm, 116 cm without column, 39.5 cm folded, 1.15 kg, 8 kg, 4-section flip locks, 36 mm ball, Arca plate, 20 owner reviews (kfconcept.com). Befree Advanced lever: 40 cm, 1.59 kg, 128/151 cm, 9 kg, 494 head (Manfrotto/B&H, same data as the verified Seestar post). Manfrotto MK290XTA3-3WUS: 67.5 in, 54 in column down, 16.5 in min, 27.8 in folded, 5.6 lb, 10 kg/22 lb, 3 sections, 804 head, RC2, Dwarf 3 owner review (B&H specs + reviews). Star Adventurer: 25-44.75 in, 5.2 lb, 3/8-16 stud, no load rating (High Point). All 5 ASINs in stock on Amazon US (Alexandria amazon-com prices: Befree, 290 Xtra and Star Adventurer sold by Amazon.com; DWARFLAB and K&F by third-party sellers). Reddit/forum quotes copied from search excerpts of the linked threads; SmartAstro EQ head guidance; DWARFLAB EQ video Zo2xJSXrm_I checked (DWARFLAB channel). Load multiples computed from maker ratings / 1.35 kg.",
+    "at": "2026-11-08T11:35:08.810Z",
+    "hash": "f0dbce647952d1f9"
+  }
+}

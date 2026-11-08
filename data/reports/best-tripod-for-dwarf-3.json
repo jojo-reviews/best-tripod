@@ -1,0 +1,708 @@
+{
+  "keyword": "best tripod for dwarf 3",
+  "createdAt": "2026-11-08T11:35:19.319Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for DWARF 3",
+    "entityVariants": [
+      "DWARF 3 tripod",
+      "tripod for DWARF 3 telescope",
+      "DWARF 3 tripod head",
+      "tripod for DWARF mini",
+      "smart telescope tripod"
+    ],
+    "entities": [
+      {
+        "name": "DWARF 3",
+        "type": "smart telescope",
+        "relation": "the 1.35 kg DWARFLAB smart telescope with a 1/4-20 socket that sits on the tripod",
+        "salience": 0.86
+      },
+      {
+        "name": "tripod",
+        "type": "equipment",
+        "relation": "three-legged stand; judged by height, load headroom and head",
+        "salience": 0.91,
+        "textrazor": "Tripod (photography)"
+      },
+      {
+        "name": "DwarfLab",
+        "type": "company",
+        "relation": "maker of the DWARF 3, DWARF mini and the Mini Tripod with Hydraulic Head",
+        "salience": 0.78
+      },
+      {
+        "name": "telescope",
+        "type": "concept",
+        "relation": "the DWARF 3 is a telescope; telescope tripods are judged on vibration",
+        "salience": 0.76,
+        "textrazor": "Telescope"
+      },
+      {
+        "name": "tripod head",
+        "type": "equipment",
+        "relation": "hydraulic pan-tilt, ball or 3-way head between tripod and scope; decides EQ mode setup",
+        "salience": 0.62
+      },
+      {
+        "name": "polar alignment",
+        "type": "concept",
+        "relation": "aiming the tilted scope at the celestial pole in EQ mode",
+        "salience": 0.61,
+        "textrazor": "Polar alignment"
+      },
+      {
+        "name": "astrophotography",
+        "type": "activity",
+        "relation": "what the DWARF 3 does; long stacked exposures punish tripod shake",
+        "salience": 0.58,
+        "textrazor": "Astrophotography"
+      },
+      {
+        "name": "telephoto lens",
+        "type": "component",
+        "relation": "the DWARF 3 telephoto lens magnifies any vibration",
+        "salience": 0.58,
+        "textrazor": "Telephoto lens"
+      },
+      {
+        "name": "equatorial mode",
+        "type": "concept",
+        "relation": "DWARF 3 tracking mode with the scope tilted to latitude; needs a tilting head",
+        "salience": 0.6
+      },
+      {
+        "name": "1/4-20 screw",
+        "type": "standard",
+        "relation": "the DWARF 3 mounting thread; 3/8-16 studs need an adapter",
+        "salience": 0.55
+      },
+      {
+        "name": "DWARF mini",
+        "type": "smart telescope",
+        "relation": "840 g sibling that uses the same 1/4-inch thread and tripods",
+        "salience": 0.45
+      },
+      {
+        "name": "Polaris",
+        "type": "star",
+        "relation": "the scope points roughly at Polaris in EQ mode (northern hemisphere)",
+        "salience": 0.26
+      },
+      {
+        "name": "exposure",
+        "type": "concept",
+        "relation": "DWARF 3 subs of up to 60 s show wind shake as elongated stars",
+        "salience": 0.35,
+        "textrazor": "Exposure (photography)"
+      },
+      {
+        "name": "light pollution",
+        "type": "concept",
+        "relation": "why owners carry the scope to darker sites (travel tripod)",
+        "salience": 0.27,
+        "textrazor": "Light pollution"
+      }
+    ],
+    "entitiesNote": "TextRazor ran on dwarflab.com tripod page, highpointscientific, picstop, smartastro, help.dwarflab, waloszek.de, astroforumspace (Stargazers Lounge, Cloudy Nights, skiesandscopes, agenaastro blocked its fetcher). \"Hydraulic head\" and \"Hydraulics\" are TextRazor misreadings (groundwater physics) of the hydraulic tripod head and are not used as entities; battery, USB-C, sensor and filter entities are off-topic for a tripod post.",
+    "attributes": [
+      "maximum height (DWARF 3 base height)",
+      "height with the center column down",
+      "rated load vs the 1.35 kg DWARF 3",
+      "folded length",
+      "tripod weight",
+      "head type for EQ mode (hydraulic pan-tilt, ball, 3-way)",
+      "mounting thread (1/4-20 screw vs 3/8-16 stud)",
+      "leg lock type (twist, flip, lever)",
+      "leg sections",
+      "material (aluminum, carbon fiber)"
+    ],
+    "ngrams": [
+      "tripod for dwarf 3",
+      "dwarf 3 tripod",
+      "eq mode",
+      "hydraulic head",
+      "ball head",
+      "3-way head",
+      "pan tilt head",
+      "mini tripod",
+      "quick release plate",
+      "travel tripod"
+    ],
+    "skipgrams": [
+      "tripod…level",
+      "eq mode…tilt",
+      "head…latitude",
+      "legs…collapse",
+      "screw…washer",
+      "wind…stars"
+    ],
+    "nlpTerms": [
+      "smart telescope",
+      "alt-az mode",
+      "equatorial mode",
+      "polar alignment",
+      "latitude",
+      "subs",
+      "stacking",
+      "field rotation",
+      "twist locks",
+      "flip locks",
+      "lever locks",
+      "Arca-Swiss plate",
+      "RC2 plate",
+      "center column",
+      "bubble level"
+    ],
+    "questions": [
+      {
+        "q": "What is the best tripod for the DWARF 3?",
+        "maps": "intro + Which DWARF 3 tripod should you get?",
+        "answerTerms": [
+          "1/4-20",
+          "hydraulic head",
+          "height",
+          "load"
+        ]
+      },
+      {
+        "q": "What thread does the DWARF 3 use on a tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "1/4\"-20UNC",
+          "camera tripods",
+          "3/8-16 stud",
+          "adapter"
+        ]
+      },
+      {
+        "q": "Do I need a special tripod head for DWARF 3 EQ mode?",
+        "maps": "How to set up a DWARF 3 tripod for EQ mode + FAQ",
+        "answerTerms": [
+          "pan tilt head",
+          "ball head",
+          "latitude",
+          "wedge"
+        ]
+      },
+      {
+        "q": "Does the DWARF 3 come with a tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "no tripod",
+          "Mini Tripod",
+          "camera tripod",
+          "1/4 thread"
+        ]
+      },
+      {
+        "q": "How tall should a DWARF 3 tripod be?",
+        "maps": "DWARF 3 tripod height and load compared",
+        "answerTerms": [
+          "53 cm",
+          "column down",
+          "fence",
+          "eye level"
+        ]
+      },
+      {
+        "q": "Will the same tripod work for the DWARF mini?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "840 g",
+          "1/4-inch",
+          "same thread",
+          "load"
+        ]
+      },
+      {
+        "q": "Ball head vs 3-way head for DWARF 3 EQ mode?",
+        "maps": "How to set up a DWARF 3 tripod for EQ mode",
+        "answerTerms": [
+          "ball head",
+          "3-way",
+          "separate axes",
+          "latitude"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top page compares rated load against the 1.35 kg DWARF 3 for each tripod",
+      "No page lines up how much higher a full-size tripod puts the DWARF 3 than the 53 cm DWARFLAB tripod",
+      "Forum threads mention the long plate screw and the 3/8 stud mismatch but no page explains both fixes in one place",
+      "No page maps head type (hydraulic, ball, 3-way) to how easy EQ mode is to set up"
+    ],
+    "outline": [
+      {
+        "h2": "DWARF 3 tripod height and load compared",
+        "intent": "comparison table on height and load headroom vs 1.35 kg",
+        "h3": []
+      },
+      {
+        "h2": "How I picked these DWARF 3 tripods",
+        "intent": "selection rule + who else recommends + From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for the DWARF 3, reviewed",
+        "intent": "one H3 per product",
+        "h3": [
+          "DWARFLAB Mini Tripod with Hydraulic Head",
+          "K&F Concept 64-Inch Aluminum Travel Tripod",
+          "Manfrotto Befree Advanced Lever Tripod Kit",
+          "Manfrotto 290 Xtra Aluminum Tripod Kit with 3-Way Head",
+          "Sky-Watcher Star Adventurer Tripod"
+        ]
+      },
+      {
+        "h2": "Which DWARF 3 tripod should you get?",
+        "intent": "decision rule mapping situations to picks",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a DWARF 3 tripod for EQ mode",
+        "intent": "numbered steps + DWARFLAB video",
+        "h3": []
+      },
+      {
+        "h2": "DWARF 3 tripod problems owners run into, and the fix",
+        "intent": "pain points: unstable, too short, legs collapse, screw too long, wind",
+        "h3": []
+      }
+    ],
+    "targetWords": 1500,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.reddit.com/r/DWARFLAB/comments/1lbm9xg/whats_the_best_tripod_for_the_dwarf_3/",
+        "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+        "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+        "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+        "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+        "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/",
+        "https://agenaastro.com/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html",
+        "https://skiesandscopes.com/dwarflab-dwarf-3-review/",
+        "https://www.youtube.com/watch?v=ytS7kO0b8p4"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The top results are forum threads and DWARFLAB tripod retail pages; owners describe each tripod in a short paragraph about stability, height and head, not pros/cons boxes or spec tables.",
+      "avgWords": 1400,
+      "avgWordsNote": "Estimate, in line with the Seestar S50 brief for the same kind of SERP: forum threads counted with replies (300-800 words), retailer pages (400-700), and the long skiesandscopes review and the 24-minute Curtis accessories video transcript at the top end.",
+      "avgProducts": 3,
+      "commonSections": [
+        "question about which tripod",
+        "DWARFLAB mini tripod",
+        "Manfrotto or K&F photo tripod suggestions",
+        "EQ mode head advice"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/DWARFLAB/comments/1lbm9xg/whats_the_best_tripod_for_the_dwarf_3/",
+        "title": "What's the best tripod for the dwarf 3 : r/DWARFLAB - Reddit"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/groups/697223495137702/posts/1335347541325291/",
+        "title": "I have a Dwarf 3. Which is a good starting point tripod. Thanks."
+      },
+      {
+        "position": 3,
+        "url": "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+        "title": "Mini Tripod - DWARFLAB"
+      },
+      {
+        "position": 4,
+        "url": "https://www.amazon.com/DWARFLAB-Mini-Tripod-Hydraulic-DWARF/dp/B0FF4G7CMJ",
+        "title": "Mini Tripod with Hydraulic Head, 1/4 Thread for Dwarf mini and ..."
+      },
+      {
+        "position": 5,
+        "url": "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+        "title": "Seestar/Dwarf Tripods - Discussions - Stargazers Lounge"
+      },
+      {
+        "position": 6,
+        "url": "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+        "title": "DwarfLab Mini Tripod with Hydraulic Head - High Point Scientific"
+      },
+      {
+        "position": 7,
+        "url": "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+        "title": "Recommended tripod for Dwarf Mini - Mounts - Cloudy Nights"
+      },
+      {
+        "position": 8,
+        "url": "https://www.youtube.com/watch?v=39xBEbv6fgo",
+        "title": "Tripod? EQ Mode? New to All This??? Walkthru tutorial with my ..."
+      },
+      {
+        "position": 9,
+        "url": "https://agenaastro.com/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html",
+        "title": "DwarfLab Tripod with Hydraulic Head - Agena Astro"
+      },
+      {
+        "position": 10,
+        "url": "https://www.picstop.co.uk/standard-tripods/dwarflab-mini-tripod-with-hydraulic-head.html",
+        "title": "DwarfLab Mini Tripod with Hydraulic Head - PicStop"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 0,
+      "commonModifiers": [
+        "Dwarf 3",
+        "Mini Tripod",
+        "Hydraulic Head",
+        "Dwarf Mini",
+        "EQ Mode"
+      ],
+      "gap": "No top-10 title is a buyer list; they are forum questions and DWARFLAB tripod store pages. None carries a year, so the title gets no year; the gap is a short list picked by height and EQ-mode head."
+    },
+    "commonPoints": [
+      "The DWARF 3 has no tripod in the box and uses a standard 1/4-20 camera thread",
+      "Any sturdy camera tripod works; the DWARFLAB Mini Tripod is the made-for-it option",
+      "EQ mode needs a head that tilts the scope to your latitude",
+      "Manfrotto and K&F Concept photo tripods come up repeatedly"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Load headroom from maker specs against the 1.35 kg DWARF 3: DWARFLAB 3 kg = 2.2x, K&F 8 kg = 5.9x, Befree 9 kg = 6.7x, 290 Xtra 10 kg = 7.4x; and the height jump from 53 cm to 128-163 cm",
+        "source": "DWARFLAB, K&F Concept, Manfrotto and B&H spec pages",
+        "absentFrom": [
+          "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by where you set up: table or ground (DWARFLAB), standing height on a budget (K&F), flights (Befree), EQ mode precision (290 Xtra 3-way), astronomy legs you can reuse (Star Adventurer)",
+        "source": "our decision rule from the specs and owner threads",
+        "absentFrom": [
+          "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "EQ mode head choice: a 3-way head moves latitude tilt and azimuth separately, a ball head frees every axis at once; owners say pan-tilt is easier",
+        "source": "https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/",
+        "absentFrom": [
+          "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Thread fixes in one place: the DWARF 3 1/4-20 socket, a washer for a plate bolt that is too long, and a 3/8-to-1/4 adapter or a head for 3/8-16 studs like the Star Adventurer",
+        "source": "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+        "absentFrom": [
+          "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "DWARFLAB Mini Tripod with Hydraulic Head",
+        "pages": [
+          "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+          "https://www.amazon.com/DWARFLAB-Mini-Tripod-Hydraulic-DWARF/dp/B0FF4G7CMJ",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://agenaastro.com/dwarflab-mini-tripod-with-hydraulic-head-dwarf-lab.html",
+          "https://www.picstop.co.uk/standard-tripods/dwarflab-mini-tripod-with-hydraulic-head.html",
+          "https://www.youtube.com/watch?v=39xBEbv6fgo",
+          "https://skiesandscopes.com/dwarflab-dwarf-3-review/",
+          "https://www.youtube.com/watch?v=ytS7kO0b8p4"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Advanced (lever) tripod",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/",
+          "https://www.facebook.com/groups/697223495137702/posts/1402762787917099/"
+        ]
+      },
+      {
+        "name": "K&F Concept 64-inch aluminum travel tripod (O234A1+BH-36)",
+        "pages": [
+          "https://www.reddit.com/r/DWARFLAB/comments/1v5nvdw/lightweight_tripod/",
+          "https://www.facebook.com/groups/697223495137702/posts/1360420202151358/",
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/"
+        ]
+      },
+      {
+        "name": "Manfrotto photo tripod with a 3-way pan/tilt head (290 Xtra MK290XTA3-3WUS)",
+        "pages": [
+          "https://www.reddit.com/r/DWARFLAB/comments/1lbm9xg/whats_the_best_tripod_for_the_dwarf_3/",
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://www.bhphotovideo.com/a/new/1175941/manfrotto_mk290xta3_3wus_290_xtra_3_way_head.html/reviews"
+        ]
+      },
+      {
+        "name": "Sky-Watcher Star Adventurer Tripod (S20555)",
+        "pages": [
+          "https://www.youtube.com/watch?v=ytS7kO0b8p4",
+          "https://www.reddit.com/r/DWARFLAB/comments/1uawm9a/dwarf_mini_tripodmini_questions/"
+        ]
+      },
+      {
+        "name": "SmallRig VT-20 mini tripod (not used: one page)",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      },
+      {
+        "name": "Manfrotto Pixi Evo 2 (not used: one page, 2.5 kg load too close to the DWARF 3)",
+        "pages": [
+          "https://www.cloudynights.com/forums/topic/936695-mini-tripods-smallrig-vt-20-or-manfrotto-pixi-evo-2-for-the-dwarf-3/"
+        ]
+      }
+    ],
+    "productChanges": "SmallRig VT-20 and Manfrotto Pixi Evo 2 appear only in one Cloudy Nights question; Innorel and Sirui carbon tripods only in the Curtis video, so none of them made the list. For the \"Manfrotto with a 3-way head\" advice I picked the 290 Xtra kit with the 804 head because a Dwarf 3 owner reviews exactly that kit at B&H and it is sold by Amazon.",
+    "painPoints": [
+      {
+        "id": "dwarf-3-stock-tripod-unstable",
+        "pain": "The DWARFLAB mini tripod feels uneven or unsteady under a DWARF 3",
+        "details": "Owners on r/DWARFLAB say the small official tripod never feels fully level or stable; some move to a heavier photo tripod or another head.",
+        "sources": [
+          "https://www.reddit.com/r/DWARFLAB/comments/1uygedj/anyone_else_find_the_dwarflab_tripod_really/",
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head"
+        ],
+        "quotes": [
+          {
+            "text": "Mine always seems slightly uneven, even when I've tried adjusting it properly, and my Dwarf 3 never feels completely stable on it.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uygedj/anyone_else_find_the_dwarflab_tripod_really/"
+          }
+        ]
+      },
+      {
+        "id": "dwarf-3-tripod-too-short",
+        "pain": "The DWARFLAB mini tripod is too short to use comfortably",
+        "details": "At about 53 cm it suits a table or the ground; owners who stand or need to clear a fence want a full-height photo tripod.",
+        "sources": [
+          "https://www.reddit.com/r/DWARFLAB/comments/1p65pu5/is_the_tripod_bundled_with_the_dwarf_telescopes/"
+        ],
+        "quotes": [
+          {
+            "text": "I think it is too short to be useful or comfortable to use in most cases.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1p65pu5/is_the_tripod_bundled_with_the_dwarf_telescopes/"
+          }
+        ]
+      },
+      {
+        "id": "dwarf-3-tripod-legs-collapse",
+        "pain": "Twist-lock legs on small tripods slip or collapse with the DWARF 3 on top",
+        "details": "A High Point Scientific Q&A answer and an r/DWARFLAB post both describe a mini tripod leg collapsing during use; fully tightened locks or flip/lever locks avoid it.",
+        "sources": [
+          "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+          "https://www.reddit.com/r/DWARFLAB/comments/1wohrtx/dwarflab_tripod_sucks/"
+        ],
+        "quotes": []
+      },
+      {
+        "id": "dwarf-3-eq-mode-head",
+        "pain": "Which tripod head works for DWARF 3 EQ mode",
+        "details": "EQ mode tilts the scope to your latitude; owners say a ball head works but a pan-tilt (3-way) head or a wedge makes the angle easier to set.",
+        "sources": [
+          "https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/",
+          "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+          "https://smartastro.co.uk/dwarf/eq_setup/"
+        ],
+        "quotes": [
+          {
+            "text": "Tripod ball head will work. Pan and tilt head will make it easier.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/"
+          }
+        ]
+      },
+      {
+        "id": "dwarf-3-plate-screw-too-long",
+        "pain": "The plate screw is longer than the DWARF 3 socket, so the scope wobbles",
+        "details": "A Stargazers Lounge owner found a camera-plate bolt bottomed out in the DWARF 3 socket; a small washer or a shorter plate screw fixed it.",
+        "sources": [
+          "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/"
+        ],
+        "quotes": [
+          {
+            "text": "the bolt on the camera plate was slightly longer than the mounting hole in the Dwarf 3 would accomodate",
+            "url": "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "1.35 kg",
+        "claim": "DWARF 3 weight",
+        "url": "https://www.dwarflab.com/us/products/dwarf-3-smart-telescope",
+        "quote": "With a body weight of approximately 1.35 kg, it can be easily taken along for travel, camping, or weekend outings."
+      },
+      {
+        "number": "3.0 kilograms",
+        "claim": "DWARFLAB Mini Tripod load capacity",
+        "url": "https://www.dwarflab.com/us/products/tripod-for-dwarf-3",
+        "quote": "Load Capacity 3.0 kilograms"
+      },
+      {
+        "number": "54\"",
+        "claim": "Manfrotto 290 Xtra height with the center column down",
+        "url": "https://www.bhphotovideo.com/c/product/1175941-REG/manfrotto_mk290xta3_3wus_290_xtra_3_way_head.html/specs",
+        "quote": "Up to 54\" / 136.9 cm"
+      },
+      {
+        "number": "1/4\"-20UNC",
+        "claim": "DWARF 3 tripod thread",
+        "url": "https://help.dwarflab.com/en/docs/DWARF-3-Unboxing-and-Quick-Setup",
+        "quote": "DWARF 3 is compatible with any tripod that has a standard 1/4\"-20UNC thread, which is common for most camera tripods."
+      }
+    ],
+    "videos": [
+      {
+        "id": "Zo2xJSXrm_I",
+        "title": "DWARF 3 EQ Mode Setup Guide",
+        "channel": "DWARFLAB",
+        "url": "https://www.youtube.com/watch?v=Zo2xJSXrm_I",
+        "section": "How to set up a DWARF 3 tripod for EQ mode"
+      }
+    ],
+    "googleModifiers": [
+      "telescope",
+      "tripod head",
+      "good",
+      "travel"
+    ],
+    "googleModifiersUsed": "\"tripod head\" becomes the EQ-mode head comparison and the 290 Xtra pick; \"telescope\" is used in entity wording; \"smallest travel tripod\" informs the Befree travel pick; \"why tripod has three legs\" and \"what size tripod do i need\" are off-intent and skipped.",
+    "amazonFilters": [
+      {
+        "group": "Brands",
+        "options": [
+          "Leofoto",
+          "DWARFLAB",
+          "Neewer",
+          "K&F Concept",
+          "Manfrotto",
+          "Sirui",
+          "Fotopro",
+          "Zomei",
+          "SIRUI"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up",
+          "3 Stars & Up",
+          "2 Stars & Up",
+          "1 Star & Up"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Up to $25",
+          "$25 to $100",
+          "$100 to $200",
+          "$200 to $300",
+          "$300 & above"
+        ]
+      },
+      {
+        "group": "Height",
+        "options": [
+          "Up to 39 in",
+          "40 to 49 in",
+          "50 to 64 in",
+          "65 in & above"
+        ]
+      },
+      {
+        "group": "Max Load",
+        "options": [
+          "Up to 5 kg",
+          "5 kg to 10 kg",
+          "10 kg to 15 kg",
+          "15 kg to 20 kg",
+          "20 kg & above"
+        ]
+      },
+      {
+        "group": "Material",
+        "options": [
+          "Aluminum",
+          "Carbon Fiber",
+          "Plastic",
+          "Metal"
+        ]
+      },
+      {
+        "group": "Special Features",
+        "options": [
+          "Lightweight",
+          "Foldable",
+          "Quick-Release",
+          "Pan-Head"
+        ]
+      }
+    ],
+    "amazonFiltersUsed": "Height and Max Load bands become table columns (one pick in each height band); Brands confirm DWARFLAB, K&F Concept and Manfrotto; Pan-Head informs the 3-way head pick. Price, review stars and shopping chips are skipped (no prices or ratings on this site).",
+    "internalLinkCandidates": [
+      "best-tripod-for-seestar-s50",
+      "best-tripod-for-telescope",
+      "ball-head-vs-pan-tilt-head-for-landscape-photography",
+      "twist-lock-vs-flip-lock-tripod-legs",
+      "how-to-stop-tripod-shake-in-wind"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-seestar-s50",
+        "find": "Each pick below fixes one problem: travel, tall obstacles, wind in EQ mode, or a ZWO tilt head.",
+        "replace": "Each pick below fixes one problem: travel, tall obstacles, wind in EQ mode, or a ZWO tilt head; the lighter DWARF 3 has its own [DWARF 3 tripod picks](/blog/best-tripod-for-dwarf-3/)."
+      },
+      {
+        "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "find": "Loosening the ball also frees all axes at once, so fixing the tilt can tip the horizon.",
+        "replace": "Loosening the ball also frees all axes at once, so fixing the tilt can tip the horizon, which is also why owners pick a pan tilt head for [DWARF 3 EQ mode](/blog/best-tripod-for-dwarf-3/)."
+      }
+    ],
+    "secondaryKeywords": [
+      "best tripod for dwarf mini",
+      "best tripod for dwarf 3 telescope",
+      "best tripod head for dwarf 3",
+      "tripod for dwarf 3",
+      "good tripod for dwarf 3"
+    ],
+    "angle": "Picked by where the DWARF 3 sits (table, standing height, travel) and how easily the head tilts for EQ mode, with load checked against the 1.35 kg scope."
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}

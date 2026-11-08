@@ -449,10 +449,10 @@ heroAlt: >-
   Best Tripod for Fujifilm X-T5 – 5 Picks Matched to Your Lens – Best Tripod
   buying guide
 related:
+  - best-tripod-for-dwarf-3
   - best-tripod-for-lumix-s5ii
   - best-tripod-for-seestar-s50
   - best-tripod-for-long-exposure
-  - best-tripod-for-crossbow
 heroImage: /images/featured/best-tripod-for-fujifilm-x-t5.png
 ---
 
