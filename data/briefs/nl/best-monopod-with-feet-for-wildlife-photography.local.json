@@ -1,0 +1,113 @@
+{
+  "lang": "nl",
+  "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+  "checkedAt": "2026-11-08T11:23:33Z",
+  "productFit": [
+    {
+      "name": "IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod",
+      "asin": "B0BR8T1KJK",
+      "status": "fits",
+      "metricSpecs": "iFootage: 181 cm max., 69 cm folded, 1,27 kg, 8 kg load (same as the English post)",
+      "reason": "Foto Koch (DE retailer, item 59417) lists the 'ifootage Cobra 3 Carbon Fiber Flip lock Pedal Monopod CB3 C180F-P'; Amazon.de also sells it as a C180F-P + K5S head kit.",
+      "source": "https://www.fotokoch.mt/ifootage-Cobra-3-Carbon-Fiber-Flip-lock-Pedal-Monopod-CB3-C180F-P_59417.html"
+    },
+    {
+      "name": "Vanguard VEO 2S AM-264TR Monopod",
+      "asin": "B083T512FD",
+      "status": "fits",
+      "metricSpecs": "Telescopiomania (EU retailer): 163 cm max., 54,5 cm folded, 890 g, 6 kg load; Vanguard UK lists 15 kg (as in the English post)",
+      "reason": "Vanguard's European site (Vanguard UK) and the Spanish EU retailer Telescopiomania list the VEO 2S AM-264TR under the same name.",
+      "source": "https://www.telescopiomania.eu/monopod/9009-monopod-vanguard-veo-2s-am-264tr-aluminum-monopod-with-retractable-foot-4719856247274.html"
+    },
+    {
+      "name": "NEEWER T222 Extendable Camera Monopod with Stand Base",
+      "asin": "B075163951",
+      "status": "fits",
+      "metricSpecs": "EU listing: 52-168 cm, 52 cm folded, 5 kg load (same as the English post)",
+      "reason": "The same ASIN is sold and shipped by Amazon in the EU (amazon.nl 'Op voorraad', amazon.es listing).",
+      "source": "https://www.amazon.nl/dp/B075163951"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Vogelbescherming Nederland: verstoren van vogels is wettelijk verboden; stop als een vogel verstoringsgedrag vertoont (opkijken, alert worden, stoppen met foerageren) en neem meer afstand.",
+      "source": "https://www.vogelbescherming.nl/actueel/bericht/vogelfotografie-zonder-verstoring"
+    },
+    {
+      "fact": "Natuurmonumenten: in Nationaal Park Zuid-Kennemerland mag je niet buiten wegen en paden lopen, omdat dat dieren verstoort en kwetsbare bodem en planten beschadigt.",
+      "source": "https://www.natuurmonumenten.nl/natuurgebieden/nationaal-park-zuid-kennemerland"
+    },
+    {
+      "fact": "KLM staat handbagage van maximaal 55 x 35 x 25 cm toe: de NEEWER T222 (52 cm) past in de lengte, de Vanguard VEO 2S (55 cm; 54,5 cm volgens een EU-winkel) net, de IFOOTAGE Cobra 3 (69 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Nederlandse termen: monopod / eenpootstatief, monopod met voetjes / statiefvoet, kantelkop, balhoofd, schommelkop (gimbal), draagvermogen, ingeklapte lengte, telelens; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://zoomacademy.nl/blog/het-onmisbare-accessoire-voor-vogelfotografie-het-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A telezoom of 2 kg is tiring to hold for hours.",
+      "fix": "English post: the monopod carries the lens weight; choose a load rating with headroom (Cobra 3, 8 kg).",
+      "quotes": [
+        {
+          "text": "Zo’n teleobjectief weegt al snel 1,5 kilo en een telezoom weegt vaak meer dan 2 kilo. Niet fijn om urenlang mee uit de hand te fotograferen.",
+          "url": "https://zoomacademy.nl/blog/het-onmisbare-accessoire-voor-vogelfotografie-het-statief"
+        }
+      ],
+      "sources": [
+        "https://zoomacademy.nl/blog/het-onmisbare-accessoire-voor-vogelfotografie-het-statief"
+      ]
+    },
+    {
+      "pain": "A normal monopod cannot simply be put down.",
+      "fix": "English post: feet let it stand for a moment, but never unattended with a long lens on top.",
+      "quotes": [
+        {
+          "text": "je kunt hem ook niet zomaar even wegzetten.",
+          "url": "https://zoomacademy.nl/blog/het-onmisbare-accessoire-voor-vogelfotografie-het-statief"
+        }
+      ],
+      "sources": [
+        "https://zoomacademy.nl/blog/het-onmisbare-accessoire-voor-vogelfotografie-het-statief"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Vogelbescherming: signs of disturbance and 'take more distance'; feet let you wait still at distance.",
+      "source": "https://www.vogelbescherming.nl/actueel/bericht/vogelfotografie-zonder-verstoring"
+    },
+    {
+      "point": "Which footed monopod fits the KLM cabin bag (55 cm).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Stay on paths in Zuid-Kennemerland: a footed monopod's small footprint fits on the path.",
+      "source": "https://www.natuurmonumenten.nl/natuurgebieden/nationaal-park-zuid-kennemerland"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Three passed my rules (recommended by at least two of those guides and listed on Amazon US)",
+      "action": "replace",
+      "with": "keep the rule but say 'with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Amazon US shows it temporarily out of stock (Vanguard renterNote, tldr, review)",
+      "action": "replace",
+      "with": "keep it as a clearly US-specific note ('in the US, Amazon showed it temporarily out of stock'); no local availability claim"
+    },
+    {
+      "english": "Neewer's GM76 shows as unavailable on Amazon US ... carbon VEO 2S CM-264TR has no US listing of its own",
+      "action": "replace",
+      "with": "keep as the US-listing reason the list stops at three, phrased as US-specific"
+    },
+    {
+      "english": "Amazon and Adorama list a 13.2 lb (6 kg) load / 'per US retailers'",
+      "action": "replace",
+      "with": "say 'US retailers and an EU retailer list 6 kg (13.2 lb)'; Vanguard UK lists 15 kg"
+    }
+  ]
+}

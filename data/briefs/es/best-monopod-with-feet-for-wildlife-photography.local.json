@@ -1,0 +1,113 @@
+{
+  "lang": "es",
+  "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+  "checkedAt": "2026-11-08T11:23:33Z",
+  "productFit": [
+    {
+      "name": "IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod",
+      "asin": "B0BR8T1KJK",
+      "status": "fits",
+      "metricSpecs": "iFootage: 181 cm max., 69 cm folded, 1,27 kg, 8 kg load (same as the English post)",
+      "reason": "Foto Koch (DE retailer, item 59417) lists the 'ifootage Cobra 3 Carbon Fiber Flip lock Pedal Monopod CB3 C180F-P'; Amazon.de also sells it as a C180F-P + K5S head kit.",
+      "source": "https://www.fotokoch.mt/ifootage-Cobra-3-Carbon-Fiber-Flip-lock-Pedal-Monopod-CB3-C180F-P_59417.html"
+    },
+    {
+      "name": "Vanguard VEO 2S AM-264TR Monopod",
+      "asin": "B083T512FD",
+      "status": "fits",
+      "metricSpecs": "Telescopiomania (EU retailer): 163 cm max., 54,5 cm folded, 890 g, 6 kg load; Vanguard UK lists 15 kg (as in the English post)",
+      "reason": "Vanguard's European site (Vanguard UK) and the Spanish EU retailer Telescopiomania list the VEO 2S AM-264TR under the same name.",
+      "source": "https://www.telescopiomania.eu/monopod/9009-monopod-vanguard-veo-2s-am-264tr-aluminum-monopod-with-retractable-foot-4719856247274.html"
+    },
+    {
+      "name": "NEEWER T222 Extendable Camera Monopod with Stand Base",
+      "asin": "B075163951",
+      "status": "fits",
+      "metricSpecs": "EU listing: 52-168 cm, 52 cm folded, 5 kg load (same as the English post)",
+      "reason": "The same ASIN is sold and shipped by Amazon in the EU (amazon.nl 'Op voorraad', amazon.es listing).",
+      "source": "https://www.amazon.es/-/en/NEEWER-Extendable-Monopod-Detachable-Foldable/dp/B075163951"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El decálogo ético de AEFONA (Asociación Española de Fotógrafos de Naturaleza) pide evitar la excesiva proximidad al sujeto y desaconseja la fotografía de aves en sus nidos.",
+      "source": "https://www.aefona.org/wp-content/uploads/2021/11/decalogo-etico-v2021-09.pdf"
+    },
+    {
+      "fact": "AEFONA pide obtener los permisos pertinentes, sobre todo con especies protegidas, y conocer la normativa de los espacios naturales protegidos donde se fotografía.",
+      "source": "https://www.aefona.org/wp-content/uploads/2021/11/decalogo-etico-v2021-09.pdf"
+    },
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm: el NEEWER T222 (52 cm) y el Vanguard VEO 2S (55 cm; 54,5 cm según un distribuidor de la UE) caben a lo largo, el IFOOTAGE Cobra 3 (69 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Términos en español: monopié, monopié con patas / con base, rótula basculante (de inclinación), rótula de bola, monogimbal / rótula gimbal, capacidad de carga, longitud plegado, teleobjetivo; Arca-Swiss se llama igual.",
+      "source": "https://avesforum.seo.org/viewtopic.php?t=4399"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Carrying the monopod all day is the annoying part.",
+      "fix": "English post: Vanguard (55 cm) and NEEWER (52 cm) fold short; the Cobra 3 at 69 cm rides outside a daypack.",
+      "quotes": [
+        {
+          "text": "a mí lo que más me molesta del monopie es llevarlo",
+          "url": "https://avesforum.seo.org/viewtopic.php?t=4399"
+        }
+      ],
+      "sources": [
+        "https://avesforum.seo.org/viewtopic.php?t=4399"
+      ]
+    },
+    {
+      "pain": "Long sessions with a heavy telephoto hurt the back and neck without support.",
+      "fix": "English post: the monopod carries the lens weight; Cobra 3 owners say the feet and pedal take the weight off arms and back.",
+      "quotes": [
+        {
+          "text": "Tengo hechas sesiones de fotos de 1 y 2 horas que sin un monopie habrían sido imposibles de hacer.",
+          "url": "https://avesforum.seo.org/viewtopic.php?t=4399"
+        }
+      ],
+      "sources": [
+        "https://avesforum.seo.org/viewtopic.php?t=4399"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "AEFONA ethics: keep distance, no nest photography; a footed monopod lets you wait still at distance.",
+      "source": "https://www.aefona.org/wp-content/uploads/2021/11/decalogo-etico-v2021-09.pdf"
+    },
+    {
+      "point": "Which footed monopod fits the Iberia cabin bag (56 cm): NEEWER and Vanguard yes, Cobra 3 no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Spanish birders on AvesForum (SEO/BirdLife) on carrying and long sessions, answered with folded length and the feet.",
+      "source": "https://avesforum.seo.org/viewtopic.php?t=4399"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Three passed my rules (recommended by at least two of those guides and listed on Amazon US)",
+      "action": "replace",
+      "with": "keep the rule but say 'with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Amazon US shows it temporarily out of stock (Vanguard renterNote, tldr, review)",
+      "action": "replace",
+      "with": "keep it as a clearly US-specific note ('in the US, Amazon showed it temporarily out of stock'); no local availability claim"
+    },
+    {
+      "english": "Neewer's GM76 shows as unavailable on Amazon US ... carbon VEO 2S CM-264TR has no US listing of its own",
+      "action": "replace",
+      "with": "keep as the US-listing reason the list stops at three, phrased as US-specific"
+    },
+    {
+      "english": "Amazon and Adorama list a 13.2 lb (6 kg) load / 'per US retailers'",
+      "action": "replace",
+      "with": "say 'US retailers and an EU retailer list 6 kg (13.2 lb)'; Vanguard UK lists 15 kg"
+    }
+  ]
+}

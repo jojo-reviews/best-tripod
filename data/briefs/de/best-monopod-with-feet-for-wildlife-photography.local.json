@@ -1,0 +1,117 @@
+{
+  "lang": "de",
+  "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+  "checkedAt": "2026-11-08T11:23:33Z",
+  "productFit": [
+    {
+      "name": "IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod",
+      "asin": "B0BR8T1KJK",
+      "status": "fits",
+      "metricSpecs": "iFootage: 181 cm max., 69 cm folded, 1,27 kg, 8 kg load (same as the English post)",
+      "reason": "Foto Koch (DE retailer, item 59417) lists the 'ifootage Cobra 3 Carbon Fiber Flip lock Pedal Monopod CB3 C180F-P'; Amazon.de also sells it as a C180F-P + K5S head kit.",
+      "source": "https://www.fotokoch.mt/ifootage-Cobra-3-Carbon-Fiber-Flip-lock-Pedal-Monopod-CB3-C180F-P_59417.html"
+    },
+    {
+      "name": "Vanguard VEO 2S AM-264TR Monopod",
+      "asin": "B083T512FD",
+      "status": "fits",
+      "metricSpecs": "Telescopiomania (EU retailer): 163 cm max., 54,5 cm folded, 890 g, 6 kg load; Vanguard UK lists 15 kg (as in the English post)",
+      "reason": "Vanguard's European site (Vanguard UK) and the Spanish EU retailer Telescopiomania list the VEO 2S AM-264TR under the same name.",
+      "source": "https://www.telescopiomania.eu/monopod/9009-monopod-vanguard-veo-2s-am-264tr-aluminum-monopod-with-retractable-foot-4719856247274.html"
+    },
+    {
+      "name": "NEEWER T222 Extendable Camera Monopod with Stand Base",
+      "asin": "B075163951",
+      "status": "fits",
+      "metricSpecs": "EU listing: 52-168 cm, 52 cm folded, 5 kg load (same as the English post)",
+      "reason": "The same ASIN is sold and shipped by Amazon in the EU (amazon.nl 'Op voorraad', amazon.es listing).",
+      "source": "https://www.amazon.nl/dp/B075163951"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "BNatSchG § 44 Abs. 1 Nr. 2 verbietet, wild lebende Tiere der streng geschützten Arten und der europäischen Vogelarten während der Fortpflanzungs-, Aufzucht-, Mauser-, Überwinterungs- und Wanderungszeiten erheblich zu stören.",
+      "source": "https://www.gesetze-im-internet.de/bnatschg_2009/__44.html"
+    },
+    {
+      "fact": "Nationalpark Sächsische Schweiz: In der Kernzone dürfen nur markierte oder ausgeschilderte Wege genutzt werden; ein Standplatz für Stativ oder Einbein abseits des Weges ist dort nicht erlaubt.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg: NEEWER T222 (52 cm) und Vanguard VEO 2S (55 cm, laut EU-Händler 54,5 cm) passen der Länge nach, das IFOOTAGE Cobra 3 (69 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Deutsche Begriffe: Einbeinstativ, Einbeinstativ mit Standfuß / Füßen, Neiger (2-Wege-Neiger, Einbein-Neiger), Gimbal-Kopf / Monogimbal, Kugelkopf, Tragkraft, Packmaß, Teleobjektiv; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A ball head lets the long lens flop sideways on a monopod.",
+      "fix": "English post: use a tilt head; the monopod leg gives the pan axis.",
+      "quotes": [
+        {
+          "text": "Für ein Einbein ist ein 2 Wege Neiger (z.B. Sirui L 10) zweckmäßiger als ein Kugelkopf. So kippt das Objektiv nicht seitlich weg",
+          "url": "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+        }
+      ],
+      "sources": [
+        "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+      ]
+    },
+    {
+      "pain": "A fixed monopod is too slow for birds in flight with a 200-600mm.",
+      "fix": "English post: a monogimbal tracks birds in flight; pedal-lock / detachable bases rotate, fixed tri-feet can make panning stiff.",
+      "quotes": [
+        {
+          "text": "Bei BIF habe ich es einmal probiert dann mit dem 200600, aber es mach keinen Sinn, so schnell wie die Vögel unterwegs sind",
+          "url": "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+        }
+      ],
+      "sources": [
+        "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "BNatSchG § 44: no significant disturbance of European bird species during breeding and migration; feet let you wait calmly at distance instead of moving closer.",
+      "source": "https://www.gesetze-im-internet.de/bnatschg_2009/__44.html"
+    },
+    {
+      "point": "Which footed monopod fits a Lufthansa cabin bag (55 cm): NEEWER and Vanguard yes, Cobra 3 (69 cm) no.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Stay-on-path rule in the core zone of Nationalpark Sächsische Schweiz: the small footprint of a footed monopod fits on the trail.",
+      "source": "https://nationalpark-saechsische-schweiz.de/verhalten"
+    },
+    {
+      "point": "German forum advice for a 2-way tilt head on a monopod, matching the post's head advice.",
+      "source": "https://www.sonyalphaforum.de/topic/6772-empfehlung-und-tipps-f%C3%BCr-nutzung-einbeinstativ/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Three passed my rules (recommended by at least two of those guides and listed on Amazon US)",
+      "action": "replace",
+      "with": "keep the rule but say 'with its own Amazon listing' (no local store or availability claim)"
+    },
+    {
+      "english": "Amazon US shows it temporarily out of stock (Vanguard renterNote, tldr, review)",
+      "action": "replace",
+      "with": "keep it as a clearly US-specific note ('in the US, Amazon showed it temporarily out of stock'); no local availability claim"
+    },
+    {
+      "english": "Neewer's GM76 shows as unavailable on Amazon US ... carbon VEO 2S CM-264TR has no US listing of its own",
+      "action": "replace",
+      "with": "keep as the US-listing reason the list stops at three, phrased as US-specific"
+    },
+    {
+      "english": "Amazon and Adorama list a 13.2 lb (6 kg) load / 'per US retailers'",
+      "action": "replace",
+      "with": "say 'US retailers and an EU retailer list 6 kg (13.2 lb)'; Vanguard UK lists 15 kg"
+    }
+  ]
+}

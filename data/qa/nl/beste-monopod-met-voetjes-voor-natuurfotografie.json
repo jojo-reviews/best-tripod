@@ -1,0 +1,17 @@
+{
+  "slug": "nl/beste-monopod-met-voetjes-voor-natuurfotografie",
+  "lang": "nl",
+  "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+  "pass": true,
+  "checkedAt": "2026-11-08T11:29:32.105Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-monopod-for-hiking/; link the nl version once it exists"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-monopod-with-feet-for-wildlife-photography: same 3 products/ASINs/scores/spec keys, all specs metric first with matching conversions (8 kg, 181 cm, 69 cm, 1,27 kg, 55 cm, 163 cm, 890 g, 6 kg vs 15 kg Vanguard UK, 0,6 kg, 168 cm, 52 cm, 5 kg, Sony 2115 g), same FAQ answers, story block translated, no testing/ownership claims, no prices, no local store/availability claims. Local facts re-opened: Vogelbescherming Nederland (verstoring wettelijk verboden, signalen, meer afstand), KLM 55x35x25 cm, Natuurmonumenten Zuid-Kennemerland paden; both Zoom Academy quotes verified verbatim.",
+    "at": "2026-11-08T11:29:30.823Z",
+    "hash": "b8aea53fd2561803"
+  }
+}
