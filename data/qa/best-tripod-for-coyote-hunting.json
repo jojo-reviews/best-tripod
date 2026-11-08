@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-coyote-hunting",
+  "pass": true,
+  "checkedAt": "2026-11-08T11:34:34.726Z",
+  "errors": [],
+  "warnings": [
+    "product \"Fatboy Traverse 2 Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Warrior Tripods The Commander\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vortex Radian Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"BOG DeathGrip Infinite Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SLIK Pro 700 DX Tripod Legs\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after trimming: same sources as the first fact check (FatBoy, Warrior, Vortex, BOG 1163389, SLIK and B&H spec pages, CDC 68.9 in); wording-only cuts, no new facts; ASINs B09YT3M2TS, B0DK7558NS, B08SBWFJRR, B09KNPWK9Y, B001B2I9L8 checked in stock on Amazon US via Firecrawl; owner claims from Predator Masters, AccurateShooter, Rokslide, Sniper's Hide, Shotkit and Warrior reviews; Reddit quotes verbatim from data/pain-points.json.",
+    "at": "2026-11-08T11:34:34.258Z",
+    "hash": "8e3e6bd2483103ae"
+  }
+}

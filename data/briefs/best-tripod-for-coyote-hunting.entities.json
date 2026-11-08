@@ -1,0 +1,91 @@
+{
+  "keyword": "best tripod for coyote hunting",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Rifle",
+      "type": "/book/book_subject",
+      "pages": 5,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Rifle",
+      "wikidata": "Q124072",
+      "kgmid": "/m/06c54"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.92,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Hunting",
+      "type": "/interests/hobby",
+      "pages": 4,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Hunting",
+      "wikidata": "Q36963",
+      "kgmid": "/m/09p5m"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 4,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Predation",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.79,
+      "wiki": "http://en.wikipedia.org/wiki/Predation",
+      "wikidata": "Q170430",
+      "kgmid": "/m/0fswb"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.74,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Shooting",
+      "type": "/event/disaster_type",
+      "pages": 3,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/Shooting",
+      "wikidata": "Q2252077",
+      "kgmid": "/m/071rm"
+    },
+    {
+      "entity": "Coyote",
+      "type": "Species",
+      "pages": 2,
+      "relevance": 0.68,
+      "wiki": "http://en.wikipedia.org/wiki/Coyote",
+      "wikidata": "Q44299",
+      "kgmid": "/m/01y_7"
+    },
+    {
+      "entity": "Firearm",
+      "type": "/book/periodical_subject",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Firearm",
+      "wikidata": "Q12796",
+      "kgmid": "/m/034qg"
+    }
+  ],
+  "dropped": [
+    "IOS",
+    "Web application (site chrome, not topic)"
+  ]
+}

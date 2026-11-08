@@ -1,0 +1,702 @@
+{
+  "centralEntity": "coyote hunting tripod",
+  "entityVariants": [
+    "tripod for coyote hunting",
+    "shooting tripod",
+    "predator hunting tripod",
+    "rifle tripod",
+    "hunting tripod"
+  ],
+  "secondaryKeywords": [
+    "best tripod for coyote hunting at night",
+    "best tripod for thermal hunting",
+    "best tripod for predator hunting",
+    "best shooting tripod for coyote hunting",
+    "best budget tripod for coyote hunting",
+    "best carbon fiber tripod for coyote hunting"
+  ],
+  "entities": [
+    {
+      "name": "Tripod",
+      "type": "Thing",
+      "relation": "central product",
+      "salience": 0.92,
+      "pages": 4
+    },
+    {
+      "name": "predator",
+      "type": "Thing",
+      "relation": "predator hunting is the use case",
+      "salience": 0.79,
+      "pages": 3,
+      "textrazorName": "Predation"
+    },
+    {
+      "name": "camera tripod",
+      "type": "Thing",
+      "relation": "camera tripod legs used as shooting tripods",
+      "salience": 0.74,
+      "pages": 3,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "Shooting",
+      "type": "Thing",
+      "relation": "the tripod is a shooting rest",
+      "salience": 0.71,
+      "pages": 3
+    },
+    {
+      "name": "Hunting",
+      "type": "Thing",
+      "relation": "activity",
+      "salience": 0.68,
+      "pages": 4
+    },
+    {
+      "name": "Coyote",
+      "type": "Species",
+      "relation": "the quarry",
+      "salience": 0.68,
+      "pages": 2
+    },
+    {
+      "name": "Rifle",
+      "type": "Thing",
+      "relation": "what the tripod holds",
+      "salience": 0.58,
+      "pages": 5
+    },
+    {
+      "name": "carbon fiber",
+      "type": "Material",
+      "relation": "leg material",
+      "salience": 0.36,
+      "pages": 4,
+      "textrazorName": "Carbon-fiber reinforced polymer"
+    },
+    {
+      "name": "firearm",
+      "type": "Thing",
+      "relation": "what the clamp holds",
+      "salience": 0.33,
+      "pages": 2,
+      "textrazorName": "Firearm"
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "Standard",
+      "relation": "rail and clamp standard between rifle and head",
+      "salience": 0.5
+    },
+    {
+      "name": "ball head",
+      "type": "Component",
+      "relation": "head that levels and pans the rifle",
+      "salience": 0.5
+    },
+    {
+      "name": "leveling base",
+      "type": "Component",
+      "relation": "alternative head for quick leveling",
+      "salience": 0.4
+    },
+    {
+      "name": "thermal scope",
+      "type": "Optic",
+      "relation": "night coyote hunting optic",
+      "salience": 0.4
+    }
+  ],
+  "entitiesNote": "TextRazor sharedEntities from the top 5 article/forum results (data/briefs/best-tripod-for-coyote-hunting.entities.json); IOS and Web application dropped as site chrome. Arca-Swiss, ball head, leveling base and thermal scope added from headings on 3+ top pages (estimated salience).",
+  "attributes": [
+    "max height without center column (standing at night)",
+    "leg tube diameter (mm)",
+    "leg sections (2 vs 3 vs 4)",
+    "inverted legs",
+    "leg lock type (twist, quarter turn, lever)",
+    "rated load",
+    "weight",
+    "folded length",
+    "head included (clamp, ball head, none)",
+    "Arca-Swiss compatibility",
+    "leg angle stops",
+    "spiked feet",
+    "warranty"
+  ],
+  "ngrams": [
+    "coyote hunting",
+    "ball head",
+    "leveling base",
+    "carbon fiber",
+    "Arca-Swiss",
+    "thermal optics",
+    "shooting sticks",
+    "center column",
+    "predator hunting",
+    "standing shots",
+    "leg locks"
+  ],
+  "skipgrams": [
+    "tripod…standing",
+    "rifle…clamp",
+    "carbon…legs",
+    "ball…head",
+    "leveling…base",
+    "coyote…night",
+    "legs…thickest"
+  ],
+  "nlpTerms": [
+    "inverted legs",
+    "rifle clamp",
+    "saddle",
+    "Arca rail",
+    "thermal scope",
+    "night vision",
+    "stand",
+    "calling",
+    "hands-free",
+    "recoil",
+    "wobble",
+    "prone",
+    "sitting",
+    "standing",
+    "spiked feet",
+    "lifetime warranty"
+  ],
+  "questions": [
+    {
+      "q": "What is the best tripod for coyote hunting at night?",
+      "maps": "Which coyote hunting tripod should you get?",
+      "answerTerms": [
+        "standing",
+        "thermal",
+        "inverted legs",
+        "71 in",
+        "leveling base"
+      ]
+    },
+    {
+      "q": "How tall should a coyote hunting tripod be for standing shots?",
+      "maps": "Coyote hunting tripod height for standing night stands",
+      "answerTerms": [
+        "inches",
+        "center column",
+        "standing",
+        "eye height"
+      ]
+    },
+    {
+      "q": "Ball head or leveling base for coyote hunting?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "ball head",
+        "leveling base",
+        "pan",
+        "level",
+        "Arca"
+      ]
+    },
+    {
+      "q": "Carbon fiber or aluminum tripod for coyote hunting?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "carbon fiber",
+        "aluminum",
+        "weight",
+        "pounds",
+        "price"
+      ]
+    },
+    {
+      "q": "Bipod or tripod for coyote hunting?",
+      "maps": "FAQ",
+      "answerTerms": [
+        "bipod",
+        "tripod",
+        "sitting",
+        "standing",
+        "hands-free"
+      ]
+    },
+    {
+      "q": "How do you set up a tripod for a coyote stand?",
+      "maps": "How to set up a tripod for a coyote stand at night",
+      "answerTerms": [
+        "legs",
+        "thickest sections",
+        "level",
+        "clamp",
+        "call"
+      ]
+    }
+  ],
+  "contentGaps": [
+    "No top result compares real standing height without the center column across the picks.",
+    "No top result compares leg tube diameter, the spec forum owners say matters most for steadiness.",
+    "Forum threads complain a saddle clamp tilts the rifle when panning, but no roundup explains the ball head or leveling base fix.",
+    "No top result tells the reader which picks ship without a head and need a ball head or leveling base added."
+  ],
+  "outline": [
+    {
+      "h2": "Coyote hunting tripod comparison by standing height, legs and weight",
+      "intent": "table on deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How we picked these coyote hunting tripods",
+      "intent": "method + notes block",
+      "h3": []
+    },
+    {
+      "h2": "The best tripods for coyote hunting, reviewed",
+      "intent": "picks",
+      "h3": [
+        "Fatboy Tripods Traverse 2 Section: best coyote hunting tripod overall",
+        "Warrior Tripods The Commander: best tall tripod for night stands",
+        "Vortex Radian Carbon Tripod Kit: best tripod for shooting and glassing",
+        "BOG DeathGrip Infinite Carbon Fiber Tripod: best clamp tripod for stocks without a rail",
+        "SLIK Pro 700 DX Tripod Legs: best budget coyote hunting tripod"
+      ]
+    },
+    {
+      "h2": "Which coyote hunting tripod should you get?",
+      "intent": "chooser",
+      "h3": []
+    },
+    {
+      "h2": "Coyote hunting tripod height for standing night stands",
+      "intent": "analysis",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a tripod for a coyote stand at night",
+      "intent": "how-to steps",
+      "h3": []
+    },
+    {
+      "h2": "Coyote hunting tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1450,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+      "https://www.doubletapind.com/blogs/double-tap-industries/a-coyote-hunters-take-why-the-stronghold-carbon-fiber-shooting-tripod-is-my-new-favorite-piece-of-gear-review",
+      "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+      "https://forum.accurateshooter.com/threads/tripods.4166646/",
+      "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/",
+      "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+      "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The two real roundups (The Old Deer Hunters, RifleShooter) list features and spec tables per tripod; forum threads give short praise/complaint lines per model, which maps to pros and cons.",
+    "avgWords": 1450,
+    "avgWordsNote": "Approximate article words: Predator Masters 1,100, Double Tap 800, Vanguard 750, AccurateShooter 900, Warrior 550, The Old Deer Hunters 3,000, RifleShooter 3,300.",
+    "avgProducts": 6,
+    "commonSections": [
+      "why a tripod for coyotes",
+      "stability",
+      "carbon vs aluminum",
+      "quick deployment",
+      "Arca-Swiss / clamp",
+      "thermal and night hunting",
+      "product list"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://allpredatorcalls.com/tripods/",
+      "title": "Hunting Sticks and Tripods - Tripods - Page 1 - Predator Calls"
+    },
+    {
+      "position": 2,
+      "url": "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+      "title": "Advice on what tripod to buy - Predator Masters"
+    },
+    {
+      "position": 3,
+      "url": "https://predatorhunteroutdoors.com/product-category/hunting-tripods-ball-heads-shooting-rests/",
+      "title": "Hunting Tripods / Ball Heads - Predator Hunter Outdoors"
+    },
+    {
+      "position": 4,
+      "url": "https://www.facebook.com/groups/324124619374230/posts/1449582146828466/",
+      "title": "Best premium tripod for coyote hunting? - Facebook"
+    },
+    {
+      "position": 5,
+      "url": "https://www.doubletapind.com/blogs/double-tap-industries/a-coyote-hunters-take-why-the-stronghold-carbon-fiber-shooting-tripod-is-my-new-favorite-piece-of-gear-review",
+      "title": "A Coyote Hunter's Review of the Stronghold Carbon Fiber ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+      "title": "Finding the Best Tripod for Predator Hunting and Big Game"
+    },
+    {
+      "position": 7,
+      "url": "https://forum.accurateshooter.com/threads/tripods.4166646/",
+      "title": "Tripods | Shooters' Forum"
+    },
+    {
+      "position": 8,
+      "url": "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/",
+      "title": "Why Warrior Tripods Are the Best Tripod for Coyote Hunting"
+    },
+    {
+      "position": 9,
+      "url": "https://thethermalstore.com/collections/tripods",
+      "title": "Tripods | Midwest Thermal Optics"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=Q_kGF3V4Y2A",
+      "title": "Optimizing Your Coyote Hunting: Tripod Setups for ... - YouTube"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "predator hunting",
+      "tripods",
+      "ball heads",
+      "carbon fiber",
+      "premium"
+    ],
+    "gap": "No top-10 title is a multi-brand roundup; none names the standing height a night stand needs. Year rule: 0 of 10 titles show a year, so no year in title or seoTitle."
+  },
+  "commonPoints": [
+    "A tripod holds the rifle hands-free so you can run the call and scan.",
+    "Carbon fiber saves weight over aluminum; aluminum costs less.",
+    "Quick, quiet deployment matters because coyotes come in fast.",
+    "Arca-Swiss rails and clamps let you swap rifle and optics.",
+    "Tripods suit thermal and night vision hunting better than shooting sticks."
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Standing height without a center column compared across the picks against the 68.9 in average US man: Fatboy 71.5 in to the top of the threads, Warrior 71 in, Vortex 67.3 in, BOG 59.5 in at the narrowest leg angle, SLIK 55.5 in with the column down (70.7 in with it up). Only the Fatboy and Warrior clear standing eye height on the legs alone; a 5 ft 11 in BOG owner fully extends the legs at the narrow angle to stand at night.",
+      "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm; https://fatboytripods.com/traverse-2-section-tripod/; https://warriortripods.com/product/the-commander-hunting-tripod/; https://vortexoptics.com/radian-carbon-ball-head-tripod-kit.html; https://www.boghunt.com/pods/deathgrip-infinite---carbon-fiber/1163389.html; https://slikusa.com/products/pro-700dx-amt-leg-set-only; https://forum.accurateshooter.com/threads/tripods.4166646/",
+      "absentFrom": [
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+        "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+        "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/",
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Leg tube diameter compared: Fatboy 42.5 mm, Warrior 41.5 mm, SLIK 30.2 mm; a Predator Masters owner who moved from 32 mm to 39 mm legs says to buy the thickest legs and fewest sections you can afford.",
+      "source": "https://fatboytripods.com/traverse-2-section-tripod/; https://warriortripods.com/product/the-commander-hunting-tripod/; https://www.bhphotovideo.com/c/product/557127-REG/Slik_615_317_700DX_Pro_Tripod_Legs.html; https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+      "absentFrom": [
+        "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+        "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/",
+        "https://www.doubletapind.com/blogs/double-tap-industries/a-coyote-hunters-take-why-the-stronghold-carbon-fiber-shooting-tripod-is-my-new-favorite-piece-of-gear-review"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "A saddle clamp mounted straight on the legs tilts the rifle when you swing it, which pushes shots off past about 225 yards; a ball head or leveling base under an Arca clamp fixes it.",
+      "source": "https://forum.accurateshooter.com/threads/tripods.4166646/; https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/",
+      "absentFrom": [
+        "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+        "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/",
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by stand style and rifle: truck-to-stand standing at night with thermal (Fatboy or Warrior plus a head), one tripod for glassing and shooting with a lifetime warranty (Radian kit), wood stock with no rail (BOG clamp), tight budget or kids on stand (SLIK legs plus a head). Also flags which picks ship without a head.",
+      "source": "https://fatboytripods.com/traverse-2-section-tripod/; https://warriortripods.com/product/the-commander-hunting-tripod/; https://forum.accurateshooter.com/threads/tripods.4166646/",
+      "absentFrom": [
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+        "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game",
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+        "https://forum.accurateshooter.com/threads/tripods.4166646/",
+        "https://predatorhunteroutdoors.com/product-category/hunting-tripods-ball-heads-shooting-rests/",
+        "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814"
+      ]
+    },
+    {
+      "name": "Fatboy Tripods Traverse 2 Section",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+        "https://www.facebook.com/groups/324124619374230/posts/1449582146828466/",
+        "https://rokslide.com/forums/threads/coyote-hunting.424284/",
+        "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814"
+      ]
+    },
+    {
+      "name": "Vortex Radian Carbon Tripod Kit (Ball Head)",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/",
+        "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814"
+      ]
+    },
+    {
+      "name": "SLIK Pro 700 DX Tripod Legs",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://forum.accurateshooter.com/threads/tripods.4166646/",
+        "https://predatorhunteroutdoors.com/product-category/hunting-tripods-ball-heads-shooting-rests/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/"
+      ]
+    },
+    {
+      "name": "Warrior Tripods The Commander",
+      "pages": [
+        "https://rokslide.com/forums/threads/coyote-hunting.424284/",
+        "https://www.facebook.com/groups/324124619374230/posts/1449582146828466/",
+        "https://warriortripods.com/2025/08/27/why-warrior-tripods-are-the-best-tripod-for-coyote-hunting/"
+      ]
+    },
+    {
+      "name": "Vanguard Endeavor L 303AGM (not used: only retailer and maker pages)",
+      "pages": [
+        "https://allpredatorcalls.com/tripods/",
+        "https://www.vanguardworld.com/blogs/hunting/best-hunting-tripods-in-2026-finding-the-best-tripod-for-predator-hunting-and-big-game"
+      ]
+    },
+    {
+      "name": "Hog Saddle / Shadow Tech PIG0311-G (not used: Amazon sells only the PIG0311-GS Short variant)",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/"
+      ]
+    },
+    {
+      "name": "Leofoto LS-364C (not used: Amazon lists only the newer LS-364CX)",
+      "pages": [
+        "https://theolddeerhunters.com/top-10-tripod-legs-for-coyote-hunting-in-2024/",
+        "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "camera-tripods-hunting-tripod-wobble-standing",
+      "pain": "A shooting tripod or shooting sticks wobble at full height for a standing shot",
+      "details": "Hunters who extend sticks or a light tripod to standing height see the crosshair move and try to time the wobble.",
+      "sources": [
+        "https://www.reddit.com/r/longrange/comments/1sj3b5p/tripod_shooting_is_hard/",
+        "https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/"
+      ],
+      "quotes": [
+        {
+          "text": "Trying to time the wobble doesn't pan out more often than it does",
+          "url": "https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-rifle-wiggles-in-saddle",
+      "pain": "The rifle wiggles in the clamp, cradle or saddle on top of the tripod",
+      "details": "New tripod owners find play between stock and cradle; long-range shooters say a saddle bolted straight to the tripod cannot pan or tilt and is less stable than a ball head with an Arca clamp.",
+      "sources": [
+        "https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/",
+        "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/",
+        "https://forum.accurateshooter.com/threads/tripods.4166646/"
+      ],
+      "quotes": [
+        {
+          "text": "I've got a good bit of wiggle on the rifle in the cradle",
+          "url": "https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-hunting-tripod-height-short",
+      "pain": "The tripod does not reach the advertised height at the rifle rest",
+      "details": "Tall hunters buy by the listed max height and find the rest sits several inches lower.",
+      "sources": [
+        "https://www.boghunt.com/deathgrip/deathgrip-tripod/1099442.html",
+        "https://forum.accurateshooter.com/threads/tripods.4166646/"
+      ],
+      "quotes": [
+        {
+          "text": "I cant get mine any taller than 53 1/8\" to the shelf.",
+          "url": "https://www.boghunt.com/deathgrip/deathgrip-tripod/1099442.html"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-leveling-by-legs-uneven-ground",
+      "pain": "Leveling a tripod by adjusting the legs on uneven ground takes forever",
+      "details": "Hunters say leveling a rifle by the legs alone is a hassle in the field; a ball head or leveling base is the usual answer.",
+      "sources": [
+        "https://forum.accurateshooter.com/threads/tripods.4166646/",
+        "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+      ],
+      "quotes": [
+        {
+          "text": "Leveling the load by adjusting legs is an exercise in pain and frustration",
+          "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+        }
+      ]
+    },
+    {
+      "id": "camera-tripods-glassing-tripod-not-rated-for-rifle",
+      "pain": "A glassing tripod is not built to shoot a rifle off",
+      "details": "Hunters want one tripod for optics and rifle; others warn optics tripods are not rated for the weight and recoil.",
+      "sources": [
+        "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+      ],
+      "quotes": [
+        {
+          "text": "Most optics tripods arent rated for the weight & recoil",
+          "url": "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "68.9",
+      "claim": "Average height of a US adult man in inches",
+      "url": "https://www.cdc.gov/nchs/fastats/body-measurements.htm",
+      "quote": "Height in inches: 68.9"
+    },
+    {
+      "number": "55.5in",
+      "claim": "SLIK Pro 700DX max height with the center column down",
+      "url": "https://slikusa.com/products/pro-700dx-amt-leg-set-only",
+      "quote": "Max Height (Column Down) | 55.5in / 1410mm"
+    },
+    {
+      "number": "150lbs",
+      "claim": "Fatboy Traverse max weight rating",
+      "url": "https://fatboytripods.com/traverse-2-section-tripod/",
+      "quote": "Max weight rating | 150lbs"
+    },
+    {
+      "number": "59 ½",
+      "claim": "BOG DeathGrip Infinite carbon max height at the 20 degree leg angle",
+      "url": "https://www.boghunt.com/pods/deathgrip-infinite---carbon-fiber/1163389.html",
+      "quote": "Max Height at 20° = 59 ½\""
+    },
+    {
+      "number": "55 lbs.",
+      "claim": "Vortex Radian Carbon kit max load",
+      "url": "https://vortexoptics.com/radian-carbon-ball-head-tripod-kit.html",
+      "quote": "Max Load | 55 lbs."
+    }
+  ],
+  "videos": [
+    {
+      "id": "Q_kGF3V4Y2A",
+      "title": "Optimizing Your Coyote Hunting: Tripod Setups for ...",
+      "channel": "The Old Deer Hunters",
+      "url": "https://www.youtube.com/watch?v=Q_kGF3V4Y2A",
+      "section": "How to set up a tripod for a coyote stand at night"
+    }
+  ],
+  "googleModifiers": [
+    "at night",
+    "thermal",
+    "predator hunting",
+    "budget",
+    "carbon fiber",
+    "rifle / gun / shooting tripod",
+    "tripod head",
+    "bipod or tripod",
+    "for the money",
+    "BOG"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Brand",
+      "options": [
+        "Fanaue",
+        "BOG",
+        "Manbily",
+        "Primos",
+        "Trakiom",
+        "Vortex",
+        "Aziak",
+        "FatBoy"
+      ]
+    },
+    {
+      "group": "Price Range",
+      "options": [
+        "$0 - $100",
+        "$100 - $200",
+        "$200 - $300",
+        "$300 - $400",
+        "$400 - $500",
+        "$500+"
+      ]
+    },
+    {
+      "group": "Customer Rating",
+      "options": [
+        "4 Stars & Up",
+        "3 Stars & Up",
+        "2 Stars & Up",
+        "1 Star & Up"
+      ]
+    },
+    {
+      "group": "Features",
+      "options": [
+        "Carbon Fiber",
+        "Aluminum",
+        "Lightweight",
+        "Adjustable Height",
+        "Ball Head",
+        "Pan Head",
+        "Quick Release",
+        "V Yoke",
+        "Clamp"
+      ]
+    },
+    {
+      "group": "Usage",
+      "options": [
+        "Hunting",
+        "Photography",
+        "Shooting",
+        "Outdoor Activities"
+      ]
+    }
+  ],
+  "amazonFiltersUsed": "Carbon fiber vs aluminum (FAQ + table material column), ball head vs clamp (head column, FAQ), adjustable height (height section). Price and rating chips skipped.",
+  "internalLinkCandidates": [
+    "best-tripod-for-hunting",
+    "leveling-base-vs-leveling-column",
+    "twist-lock-vs-flip-lock-tripod-legs",
+    "best-tripod-for-backcountry-hunting"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "find": "On r/longrange, owners call it plenty stable with zero complaints; one prefers it to his Two Vets tripod, and a thermal hunter calls it very sturdy.",
+      "replace": "On r/longrange, owners call it plenty stable with zero complaints; one prefers it to his Two Vets tripod, and a thermal hunter calls it very sturdy, one reason it also made my [tripods for coyote hunting](/blog/best-tripod-for-coyote-hunting/)."
+    },
+    {
+      "slug": "best-tripod-for-backcountry-hunting",
+      "find": "Unlike a rifle bipod, it holds the rifle scope above grass and brush for sitting, kneeling or standing shots.",
+      "replace": "Unlike a rifle bipod, it holds the rifle scope above grass and brush for sitting, kneeling or standing shots; for night stands where the rifle stays clamped, see my [tripods for coyote hunting](/blog/best-tripod-for-coyote-hunting/)."
+    }
+  ]
+}

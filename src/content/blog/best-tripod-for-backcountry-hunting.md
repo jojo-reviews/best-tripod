@@ -447,8 +447,10 @@ videos:
     afterHeading: 3
 heroImage: /images/featured/best-tripod-for-backcountry-hunting.png
 heroAlt: >-
-  Best Tripod for Backcountry Hunting – 5 Picks, 2.1 to 3.5 lb – Best
-  Tripod buying guide
+  Best Tripod for Backcountry Hunting – 5 Picks, 2.1 to 3.5 lb – Best Tripod
+  buying guide
+related:
+  - best-tripod-for-coyote-hunting
 ---
 
 The best tripod for backcountry hunting is the lightest one that still holds your optic steady at the height you glass from. For most backpack hunters that is the [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit): 2.5 lb, 18.1 in folded and rated for 22 lb. If you glass standing, I'd carry the taller Vortex Ridgeview Carbon instead and accept the longer package. I compared five tripods on maker spec sheets and owner reports from hunting forums; I did not use these tripods myself. For blind and stand rests, see our [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).

@@ -5600,7 +5600,7 @@
     "publishedAt": "2026-11-05T17:57:40.551Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for coyote hunting",
@@ -5617,7 +5617,9 @@
     "funnel": "bofu",
     "cluster": "coyote",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-11-08T11:20:23.997Z",
+    "publishedAt": "2026-11-08T11:34:49.021Z"
   },
   {
     "status": "published",
@@ -5835,7 +5837,7 @@
     "publishedAt": "2026-11-06T11:34:16.843Z"
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for projector",
@@ -5849,7 +5851,10 @@
     "funnel": "bofu",
     "cluster": "projector",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 2 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 7,
+    "parkedAt": "2026-11-08T11:23:15.544Z",
+    "lastError": "fewer than 5 qualifying products (owner rule 2026-10-28): the top 10 for the keyword and close variants (best projector tripod stand, best projector stand, best tripod for mini projector) are mostly shopping, Reddit and brand pages; the product lists that exist (gagadget: Facilife, DECOSIS, Mount-It, Vamvo, SKERELL; soundcore: Nebula Adjustable Tripod, Coret, InnoGear; projectorsewing: YoTilon, LimoStudio; K&F own tripods) share no product across 2+ independent pages"
   },
   {
     "status": "published",
