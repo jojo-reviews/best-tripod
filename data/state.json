@@ -679,6 +679,41 @@
       "keyword": "best tripod for zoom recorder",
       "category": "tripod-accessories",
       "funnel": "bofu"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "best-tripod-for-coyote-hunting",
+      "keyword": "best tripod for coyote hunting",
+      "category": "camera-tripods",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "best-tripod-for-dwarf-3",
+      "keyword": "best tripod for dwarf 3",
+      "category": "camera-tripods",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "best-tripod-for-red-komodo",
+      "keyword": "best tripod for red komodo",
+      "category": "video-tripods",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "best-tripod-for-zwo-am5",
+      "keyword": "best tripod for zwo am5",
+      "category": "camera-tripods",
+      "funnel": "bofu"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "best-tripod-for-ipad",
+      "keyword": "best tripod for ipad",
+      "category": "phone-tripods",
+      "funnel": "bofu"
     }
   ],
   "translated": [
@@ -1542,6 +1577,27 @@
       "lang": "nl",
       "translationOf": "best-tripod-for-seestar-s50",
       "pubDate": "2026-11-08T10:45:00.000Z"
+    },
+    {
+      "date": "2026-11-08",
+      "id": "de/einbeinstativ-mit-fuessen-fuer-tierfotografie",
+      "lang": "de",
+      "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+      "pubDate": "2026-11-08T14:35:00.000Z"
+    },
+    {
+      "date": "2026-11-08",
+      "id": "es/mejor-monopie-con-patas-para-fotografia-de-fauna",
+      "lang": "es",
+      "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+      "pubDate": "2026-11-08T14:55:00.000Z"
+    },
+    {
+      "date": "2026-11-08",
+      "id": "nl/beste-monopod-met-voetjes-voor-natuurfotografie",
+      "lang": "nl",
+      "translationOf": "best-monopod-with-feet-for-wildlife-photography",
+      "pubDate": "2026-11-08T14:20:00.000Z"
     }
   ]
 }

@@ -1,0 +1,661 @@
+{
+  "centralEntity": "iPad tripod",
+  "entityVariants": [
+    "tripod for iPad",
+    "iPad tripod stand",
+    "iPad tripod mount",
+    "tablet tripod",
+    "tablet tripod mount",
+    "iPad holder for tripod"
+  ],
+  "entities": [
+    {
+      "name": "camera tripod",
+      "type": "concept",
+      "relation": "central entity",
+      "salience": 0.9,
+      "pages": 4,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "iPad",
+      "type": "Work",
+      "relation": "device the tripod holds",
+      "salience": 0.86,
+      "pages": 4,
+      "textrazorName": "IPad"
+    },
+    {
+      "name": "tablet",
+      "type": "/business/product_line",
+      "relation": "device class",
+      "salience": 0.59,
+      "pages": 4,
+      "textrazorName": "Tablet computer"
+    },
+    {
+      "name": "Camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "iPad rear camera used for filming",
+      "salience": 0.43,
+      "pages": 4
+    },
+    {
+      "name": "iPad Pro",
+      "type": "Device",
+      "relation": "largest iPad; sets the clamp width needed",
+      "salience": 0.4,
+      "pages": 3,
+      "textrazorName": "IPad Pro"
+    },
+    {
+      "name": "iPad mini",
+      "type": "Device",
+      "relation": "smallest iPad; below some clamp minimums",
+      "salience": 0.22,
+      "pages": 3,
+      "textrazorName": "IPad Mini"
+    },
+    {
+      "name": "Tripod",
+      "type": "concept",
+      "relation": "support type",
+      "salience": 0.87,
+      "pages": 2
+    },
+    {
+      "name": "Smartphone",
+      "type": "/book/book_subject",
+      "relation": "other device the mounts take",
+      "salience": 0.52,
+      "pages": 2
+    },
+    {
+      "name": "Monopod",
+      "type": "concept",
+      "relation": "alternative support",
+      "salience": 0.45,
+      "pages": 2
+    },
+    {
+      "name": "Photography",
+      "type": "/broadcast/genre",
+      "relation": "use case",
+      "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "aluminum alloy",
+      "type": "/visual_art/visual_art_medium",
+      "relation": "mount and leg material",
+      "salience": 0.37,
+      "pages": 2,
+      "textrazorName": "Aluminium alloy"
+    },
+    {
+      "name": "Video",
+      "type": "/internet/website_category",
+      "relation": "main use case",
+      "salience": 0.37,
+      "pages": 2
+    },
+    {
+      "name": "aluminum",
+      "type": "ChemicalSubstance",
+      "relation": "material",
+      "salience": 0.33,
+      "pages": 2,
+      "textrazorName": "Aluminium"
+    },
+    {
+      "name": "iPhone",
+      "type": "Device",
+      "relation": "other device the mounts take",
+      "salience": 0.33,
+      "pages": 2,
+      "textrazorName": "IPhone"
+    }
+  ],
+  "attributes": [
+    "clamp width range (tablet mount)",
+    "fits 13-inch iPad Pro with a case (tablet mount)",
+    "max height (tripod stand)",
+    "weight (stand or mount)",
+    "material: aluminum vs plastic (mount)",
+    "Arca-Swiss dovetail (mount)",
+    "cold shoe for mic or light (mount)",
+    "1/4\"-20 thread (mount)",
+    "ball head or gooseneck angle adjustment",
+    "portrait and landscape rotation",
+    "Bluetooth remote (included or not)"
+  ],
+  "ngrams": [
+    "iPad tripod",
+    "tripod mount",
+    "tablet tripod mount",
+    "iPad Pro 12.9",
+    "1/4\"-20 thread",
+    "cold shoe mount",
+    "ball head",
+    "portrait and landscape",
+    "Bluetooth remote",
+    "gooseneck arm",
+    "aluminum alloy",
+    "floor stand",
+    "video recording",
+    "live streaming"
+  ],
+  "skipgrams": [
+    "clamp…width",
+    "iPad…case",
+    "mount…tripod",
+    "gooseneck…sag",
+    "tripod…wind",
+    "portrait…landscape",
+    "ball head…rotate",
+    "iPad Pro…13-inch"
+  ],
+  "nlpTerms": [
+    "clamp range",
+    "spring-loaded",
+    "screw lock",
+    "Arca-type",
+    "dovetail",
+    "cold shoe",
+    "gooseneck",
+    "ball joint",
+    "sandbag",
+    "center of gravity",
+    "landscape mode",
+    "portrait mode",
+    "teleprompter",
+    "time-lapse",
+    "sideline",
+    "stop motion"
+  ],
+  "questions": [
+    "What is the best tripod for iPad?",
+    "Can I put an iPad on a regular camera tripod?",
+    "Will a tripod mount fit a 13-inch iPad Pro?",
+    "How do I mount an iPad on a tripod?",
+    "What height should an iPad tripod be for filming sports?",
+    "Is a gooseneck iPad stand or a tripod mount better?",
+    "Can an iPad tripod mount fit an iPad mini?"
+  ],
+  "answerTerms": {
+    "Can I put an iPad on a regular camera tripod?": [
+      "tablet mount",
+      "1/4\"-20 thread",
+      "clamp",
+      "ball head"
+    ],
+    "Will a tripod mount fit a 13-inch iPad Pro?": [
+      "8.48 in width",
+      "clamp range",
+      "case",
+      "9 in"
+    ],
+    "How do I mount an iPad on a tripod?": [
+      "clamp",
+      "1/4\"-20 screw",
+      "lock",
+      "landscape"
+    ],
+    "What height should an iPad tripod be for filming sports?": [
+      "72 in",
+      "eye level",
+      "sandbag",
+      "wind"
+    ],
+    "Is a gooseneck iPad stand or a tripod mount better?": [
+      "gooseneck",
+      "sag",
+      "ball head",
+      "stability"
+    ],
+    "Can an iPad tripod mount fit an iPad mini?": [
+      "5.22 in",
+      "clamp minimum",
+      "6.25 in",
+      "portrait"
+    ]
+  },
+  "contentGaps": [
+    "Clamp range of each mount against every current iPad width, including a case",
+    "Which mounts cannot hold an iPad mini on its short edge (KobraTech starts at 6.25 in) and which cannot take a 13-inch (JOBY tops out at 7.5 in)",
+    "Complete stand vs mount-plus-tripod decision",
+    "Wind and tipping fixes for sideline and golf filming"
+  ],
+  "outline": [
+    {
+      "h2": "iPad tripod comparison by clamp width and height",
+      "intent": "compare deciding specs, iPad size vs clamp range",
+      "h3": []
+    },
+    {
+      "h2": "How I picked each iPad tripod",
+      "intent": "selection method and sources",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for iPad",
+      "intent": "product reviews",
+      "h3": [
+        "elitehood Metal iPad Tripod Stand",
+        "Ulanzi U-Pad III",
+        "GRIFITI Nootle kit",
+        "KobraTech TabMount 360",
+        "JOBY GripTight PRO Tablet Mount",
+        "Which iPad tripod should you get"
+      ]
+    },
+    {
+      "h2": "How to mount an iPad on a tripod",
+      "intent": "numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "iPad tripod problems owners run into, and the fix",
+      "intent": "pain points: 13-inch fit, gooseneck droop, wind, plastic mounts",
+      "h3": []
+    },
+    {
+      "h2": "iPad tripod height for filming sports, golf and video calls",
+      "intent": "googleModifiers use cases",
+      "h3": []
+    }
+  ],
+  "targetWords": 1700,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://fixthephoto.com/best-ipad-tripod.html",
+      "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+      "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/",
+      "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+      "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422",
+      "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/",
+      "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "FixThePhoto lists plus/minus points per mount and Digital Trends gives Pros and Cons lists per product; ProVideo Coalition and Padholder use short paragraphs.",
+    "avgWords": 1600,
+    "avgProducts": 6,
+    "commonSections": [
+      "product list with short reviews",
+      "buying factors (compatibility, adjustability, stability, portability)",
+      "how to use / set up",
+      "FAQ"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/clp/B0C2XJ2S12",
+      "title": "Elitehood 68\" Heavy Duty iPad Tripod - Amazon.com"
+    },
+    {
+      "position": 2,
+      "url": "https://caddiebuddy.com/ipad-pro-tripod-mount-1/",
+      "title": "iPad Pro Tripod Mount - Caddie Buddy"
+    },
+    {
+      "position": 3,
+      "url": "https://www.facebook.com/groups/coachingvolleyball/posts/2958986704248935/",
+      "title": "I need the best.. and most sturdy, IPad Tripod… please and ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.reddit.com/r/Photoassistants/comments/1ml09cd/best_way_to_mount_ipad_pro_13in_to_tripod/",
+      "title": "Best Way to Mount iPad Pro 13in to Tripod? - Reddit"
+    },
+    {
+      "position": 5,
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=tripod%20for%20ipad",
+      "title": "tripod for ipad - Best Buy"
+    },
+    {
+      "position": 6,
+      "url": "https://fixthephoto.com/best-ipad-tripod.html",
+      "title": "7 Best iPad Tripod Mounts to Fit All Your Needs"
+    },
+    {
+      "position": 7,
+      "url": "https://discussions.apple.com/thread/5680691",
+      "title": "Tripod Mount - Apple Support Community"
+    },
+    {
+      "position": 8,
+      "url": "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422",
+      "title": "How to Choose the Best Tripod for Your iPad - Medium"
+    },
+    {
+      "position": 9,
+      "url": "https://www.bhphotovideo.com/c/buy/tablet-mounts-stands/ci/24415",
+      "title": "Tablet & iPad Tripod Mounts - B&H Photo"
+    },
+    {
+      "position": 10,
+      "url": "https://www.target.com/s/tripod+for+ipad",
+      "title": "iPad Tripod for Travel | LED & Stabilizer Options - Target"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "iPad tripod mount",
+      "heavy duty",
+      "iPad Pro 13in",
+      "sturdy"
+    ],
+    "gap": "No top-10 title uses the exact keyword or matches picks to iPad size; the SERP is stores, forums and one mount roundup, and none says which mount fits a 13-inch iPad Pro or an iPad mini."
+  },
+  "commonPoints": [
+    "A tripod mount with a 1/4\"-20 thread turns any camera tripod into an iPad tripod",
+    "Check that the clamp fits your iPad model before buying",
+    "Rubber pads stop scratches; a firm lock stops slipping",
+    "Portrait and landscape rotation matters for video",
+    "Metal mounts feel sturdier than plastic ones"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Clamp range of each pick against current iPad widths from Apple: 13-inch iPad Pro 8.48 in, 11-inch iPad Pro 6.99 in, iPad mini 5.22 in. JOBY GripTight PRO (5-7.5 in) cannot take a 13-inch; KobraTech (6.25-9.30 in) cannot grip an iPad mini on its short side; Ulanzi U-Pad III (3.93-9 in) leaves about half an inch for a 13-inch case.",
+      "source": "https://www.apple.com/ipad-pro/specs/ ; https://www.apple.com/ipad-mini/specs/ ; https://kmcamera.com/products/jobjb01394 ; https://www.kobratech.com/products/new-tabmount-360-ipad-tripod-mount ; https://eu.manuals.plus/ae/1005003218922701",
+      "absentFrom": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+        "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/",
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser: own a camera tripod -> buy a mount sized to your iPad; no tripod -> complete stand (elitehood 72 in floor stand, or the Grifiti kit for 9.5-14.5 in tablets); filming on a windy sideline -> a real tripod plus weight, not a gooseneck.",
+      "source": "https://www.ebay.com/itm/820030835419 ; https://grifiti.com/products/grifiti-nootle-universal-large-tablet-mount",
+      "absentFrom": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+        "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/",
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Gooseneck and flexible arms droop under a full-size iPad (GolfWRX owner) and light tripods blow over (GolfWRX, r/videography): fix by shortening the neck, keeping the iPad close over the center column and hanging a bag for weight.",
+      "source": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/ ; https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/",
+      "absentFrom": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+        "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/",
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Portrait mode on a side-grip clamp has no bottom support (Best Buy owner on the JOBY GripTight PRO): mount landscape or rotate the mount before inserting the iPad.",
+      "source": "https://www.bestbuy.com/site/questions/joby-griptight-pro-tablet-mount-black/6293602?page=3",
+      "absentFrom": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+        "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/",
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "phone-tripods-ipad-clamp-too-narrow",
+      "pain": "Tablet tripod mounts do not open wide enough for a 12.9 or 13-inch iPad, especially in a case",
+      "details": "Owners of large iPads find many mounts top out below the 8.48 in width of a 13-inch iPad Pro, and Ulanzi owners say they take the iPad out of its case to fit.",
+      "sources": [
+        "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/",
+        "https://www.reddit.com/r/Photoassistants/comments/n0tg31/best_ipad_mount_reccos/"
+      ],
+      "quotes": [
+        {
+          "text": "A few reviews question how well it works on a 12.9, so the clamps might not be wide enough for the bigger iPad.",
+          "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/"
+        },
+        {
+          "text": "The ulanzi holds well enough with just the ipad, but it sucks to have to take it in and out of its case.",
+          "url": "https://www.reddit.com/r/Photoassistants/comments/n0tg31/best_ipad_mount_reccos/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-ipad-plastic-mount-hard-to-adjust",
+      "pain": "Cheap plastic iPad mounts hold the tablet but are a pain to adjust",
+      "details": "iPad Pro owners want a metal mount with a quick release and a ball head they can re-aim without fighting the clamp.",
+      "sources": [
+        "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/"
+      ],
+      "quotes": [
+        {
+          "text": "All the existing tripod mounts I’ve seen are cheap plastic. Sufficiently sturdy, but a pain to adjust, say, the angle.",
+          "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-ipad-tripod-blows-over",
+      "pain": "A light tripod with an iPad on top blows over outdoors and the screen cracks",
+      "details": "Golfers and sideline filmers want a stand that will not tip; video shooters weigh tripods down with bags in wind.",
+      "sources": [
+        "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/",
+        "https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/",
+        "https://www.quora.com/How-strong-is-the-wind-to-be-enough-to-shake-a-camera-on-a-tripod"
+      ],
+      "quotes": [
+        {
+          "text": "Until it falls and you crack a screen.",
+          "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+        },
+        {
+          "text": "I use a heavy tripod, sometimes weighed down with weights or heavy bags.",
+          "url": "https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-ipad-gooseneck-droops",
+      "pain": "A flexible or gooseneck arm will not hold the weight of a full-size iPad and slowly droops",
+      "details": "Owners using flexible-arm iPad holders on a tripod report the arm sagging out of position under the iPad.",
+      "sources": [
+        "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+      ],
+      "quotes": [
+        {
+          "text": "I find that the flexible arm won't support the weight of my iPad and it just falls and won't stay in position like it was designed?",
+          "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-reuse-camera-tripod",
+      "pain": "Not sure whether a regular camera tripod can hold a phone or tablet",
+      "details": "Buyers ask whether they need a dedicated tripod; a tablet mount with a 1/4\"-20 thread fits standard heads.",
+      "sources": [
+        "https://medium.com/@aidenmatchette/how-to-choose-the-best-tripod-for-your-ipad-ed6806426422"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "8.48 inches",
+      "claim": "13-inch iPad Pro width (Wi-Fi)",
+      "url": "https://www.apple.com/ipad-pro/specs/",
+      "quote": "Width: 8.48 inches (215.5 mm)"
+    },
+    {
+      "number": "6.99 inches",
+      "claim": "11-inch iPad Pro width",
+      "url": "https://www.apple.com/ipad-pro/specs/",
+      "quote": "Width: 6.99 inches (177.5 mm)"
+    },
+    {
+      "number": "1.28 pounds",
+      "claim": "13-inch iPad Pro Wi-Fi weight",
+      "url": "https://www.apple.com/ipad-pro/specs/",
+      "quote": "Weight: 1.28 pounds (579 grams)"
+    },
+    {
+      "number": "5.22 inches",
+      "claim": "iPad mini width",
+      "url": "https://www.apple.com/ipad-mini/specs/",
+      "quote": "Width: 5.22 inches (132.6 mm)"
+    }
+  ],
+  "videos": [],
+  "googleModifiers": [
+    "best tripod for ipad pro",
+    "best tripod for ipad and iphone",
+    "best tripod for ipad filming",
+    "best tripod for ipad mini",
+    "best tripod for ipad pro 13 inch",
+    "best tripod for ipad pro 12.9",
+    "best tripod stand for ipad",
+    "best tripod for phone and ipad",
+    "best ipad case for tripod",
+    "best ipad tripod for filming sports",
+    "best ipad tripod for golf",
+    "best tripod for iphone ipad",
+    "best tripod mount for ipad",
+    "best ipad tripod for stop motion",
+    "best ipad tripod for sports",
+    "best ipad tripod stand for filming"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Brand",
+      "options": [
+        "Elitehood",
+        "XbotGo",
+        "Aureday"
+      ]
+    },
+    {
+      "group": "Price",
+      "options": [
+        "$0 - $25",
+        "$26 - $50",
+        "$51 - $100"
+      ]
+    },
+    {
+      "group": "Customer Review",
+      "options": [
+        "4 Stars & Up",
+        "3 Stars & Up"
+      ]
+    },
+    {
+      "group": "Type",
+      "options": [
+        "Tripod",
+        "Stand",
+        "Mount"
+      ]
+    }
+  ],
+  "amazonFiltersNote": "Used the Type filter (Tripod, Stand, Mount) as the stand-vs-mount split; price and star filters are shopping-only and not used.",
+  "serpProducts": [
+    {
+      "name": "elitehood Metal iPad Tripod Stand (72 in gooseneck)",
+      "pages": [
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://www.reddit.com/r/ipadmusic/comments/xhc25o/good_armstand_for_ipad/",
+        "https://www.facebook.com/groups/390994357965889/posts/2601771563554813/"
+      ]
+    },
+    {
+      "name": "Ulanzi U-Pad III / Ulanzi aluminum iPad tripod mount",
+      "pages": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/",
+        "https://www.reddit.com/r/iPadPro/comments/gw3fp6/anyone_found_a_clampbracketholder_big_enough_to/"
+      ]
+    },
+    {
+      "name": "GRIFITI Nootle tablet mount and stand",
+      "pages": [
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/",
+        "https://discussions.apple.com/thread/5680691",
+        "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+      ]
+    },
+    {
+      "name": "KobraTech TabMount 360",
+      "pages": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://www.facebook.com/groups/18642643064/posts/10161364721228065/"
+      ]
+    },
+    {
+      "name": "JOBY GripTight PRO Tablet Mount",
+      "pages": [
+        "https://padholder.com/top-5-ipad-tripod-stands-compared-find-the-best-fit-for-you/",
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/"
+      ]
+    },
+    {
+      "name": "Caddie Buddy iPad Pro tripod mount (dropped: fits iPad Pro 12.9 3rd/4th gen only)",
+      "pages": [
+        "https://fixthephoto.com/best-ipad-tripod.html",
+        "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+      ]
+    },
+    {
+      "name": "KDD iPad tripod mount (dropped: no second written recommendation)",
+      "pages": [
+        "https://fixthephoto.com/best-ipad-tripod.html"
+      ]
+    },
+    {
+      "name": "UBeesize 50 in tripod stand (dropped: Amazon listing now points to a different product)",
+      "pages": [
+        "https://www.digitaltrends.com/tablets/best-tripods-for-the-ipad/"
+      ]
+    },
+    {
+      "name": "Neewer iPad tablet tripod mount (dropped: one written recommendation)",
+      "pages": [
+        "https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/"
+      ]
+    }
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-recording-school-plays",
+      "find": "Every pick takes a camera or camcorder on its plate, and a phone with a clamp.",
+      "replace": "Every pick takes a camera or camcorder on its plate, and a phone with a clamp; an iPad needs one of the wider [iPad tripod mounts](/blog/best-tripod-for-ipad/)."
+    },
+    {
+      "slug": "best-tripod-for-live-streaming",
+      "find": "A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later.",
+      "replace": "A push-button ball head locks the phone in one move, and the clamp has 1/4-20 screw threads, so it also fits a full-size tripod later, as do the [tablet mounts for an iPad](/blog/best-tripod-for-ipad/)."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for ipad pro",
+    "best tripod stand for ipad",
+    "best tripod mount for ipad",
+    "best ipad tripod for filming sports",
+    "best tripod for ipad and iphone",
+    "best tripod for ipad mini"
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-ipad.entities.json",
+    "note": "medium.com blocked the TextRazor fetch; 4 of 5 pages analyzed."
+  },
+  "replaces": "best tripod for projector (parked)"
+}

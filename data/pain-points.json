@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:37:18.398Z",
+  "updatedAt": "2026-11-08T11:29:35.750Z",
   "categories": {
     "camera-tripods": [
       {
@@ -4269,6 +4269,345 @@
           "best-tripod-for-seestar-s50"
         ],
         "foundAt": "2026-11-07"
+      },
+      {
+        "id": "dwarf-3-stock-tripod-unstable",
+        "pain": "The DWARFLAB mini tripod feels uneven or unsteady under a DWARF 3",
+        "details": "Owners on r/DWARFLAB say the small official tripod never feels fully level or stable; some move to a heavier photo tripod or another head.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uygedj/anyone_else_find_the_dwarflab_tripod_really/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+            "platform": "www.highpointscientific.com",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Mine always seems slightly uneven, even when I've tried adjusting it properly, and my Dwarf 3 never feels completely stable on it.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uygedj/anyone_else_find_the_dwarflab_tripod_really/"
+          }
+        ],
+        "searches": [
+          "best tripod for dwarf 3",
+          "tripod for dwarf 3"
+        ],
+        "keywords": [
+          "best tripod for dwarf 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dwarf-3"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "dwarf-3-tripod-too-short",
+        "pain": "The DWARFLAB mini tripod is too short to use comfortably",
+        "details": "At about 53 cm it suits a table or the ground; owners who stand or need to clear a fence want a full-height photo tripod.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1p65pu5/is_the_tripod_bundled_with_the_dwarf_telescopes/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I think it is too short to be useful or comfortable to use in most cases.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1p65pu5/is_the_tripod_bundled_with_the_dwarf_telescopes/"
+          }
+        ],
+        "searches": [
+          "best tripod for dwarf 3",
+          "tripod for dwarf 3"
+        ],
+        "keywords": [
+          "best tripod for dwarf 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dwarf-3"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "dwarf-3-tripod-legs-collapse",
+        "pain": "Twist-lock legs on small tripods slip or collapse with the DWARF 3 on top",
+        "details": "A High Point Scientific Q&A answer and an r/DWARFLAB post both describe a mini tripod leg collapsing during use; fully tightened locks or flip/lever locks avoid it.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.highpointscientific.com/dwarflab-mini-tripod-with-hydraulic-head",
+            "platform": "www.highpointscientific.com",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1wohrtx/dwarflab_tripod_sucks/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [],
+        "searches": [
+          "best tripod for dwarf 3",
+          "tripod for dwarf 3"
+        ],
+        "keywords": [
+          "best tripod for dwarf 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dwarf-3"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "dwarf-3-eq-mode-head",
+        "pain": "Which tripod head works for DWARF 3 EQ mode",
+        "details": "EQ mode tilts the scope to your latitude; owners say a ball head works but a pan-tilt (3-way) head or a wedge makes the angle easier to set.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.cloudynights.com/forums/topic/984836-recommended-tripod-for-dwarf-mini/",
+            "platform": "cloudynights",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://smartastro.co.uk/dwarf/eq_setup/",
+            "platform": "smartastro.co.uk",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Tripod ball head will work. Pan and tilt head will make it easier.",
+            "url": "https://www.reddit.com/r/DWARFLAB/comments/1uyce15/with_dwarf3_do_i_need_a_wedge_or_does_eq_mode/"
+          }
+        ],
+        "searches": [
+          "best tripod for dwarf 3",
+          "tripod for dwarf 3"
+        ],
+        "keywords": [
+          "best tripod for dwarf 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dwarf-3"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "dwarf-3-plate-screw-too-long",
+        "pain": "The plate screw is longer than the DWARF 3 socket, so the scope wobbles",
+        "details": "A Stargazers Lounge owner found a camera-plate bolt bottomed out in the DWARF 3 socket; a small washer or a shorter plate screw fixed it.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/",
+            "platform": "stargazerslounge",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the bolt on the camera plate was slightly longer than the mounting hole in the Dwarf 3 would accomodate",
+            "url": "https://stargazerslounge.com/topic/430500-seestardwarf-tripods/"
+          }
+        ],
+        "searches": [
+          "best tripod for dwarf 3",
+          "tripod for dwarf 3"
+        ],
+        "keywords": [
+          "best tripod for dwarf 3"
+        ],
+        "coveredBy": [
+          "best-tripod-for-dwarf-3"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "am5-tc40-not-steady-heavy-scope",
+        "pain": "The TC40 is not steady enough for a C6, C8 or other heavy scope when imaging",
+        "details": "AM5 owners with SCTs find the light carbon tripod shakes; others are fine with small refractors and a loaded weight bag.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://stargazerslounge.com/topic/404888-zwo-am5-experience-and-lessons-learnt/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I have the carbon fiber tripod and it just isn't steady enough for my C6 and C8 for imaging.",
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for zwo am5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-zwo-am5"
+        ]
+      },
+      {
+        "id": "am5-third-party-bolt",
+        "pain": "A non-ZWO tripod does not bolt straight onto the AM5",
+        "details": "LiteRoc, CPC and other astronomy tripods need a 3/8-16 bolt, the center pin removed, a mini pier or the PE200.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://bbs.zwoastro.com/d/15926-is-it-possible-to-adapt-the-pe200-to-my-celestron-heavy-duty-cpc-1100-tripod",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "You do need to get your own bolt to go up through the middle, but it's trivial purchase from a hardware store.",
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for zwo am5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-zwo-am5"
+        ]
+      },
+      {
+        "id": "am5-innorel-plate-slip",
+        "pain": "The AM5's own plate slips in the Innorel RT90C cup",
+        "details": "The plates look alike but the AM5 plate is tapered; one owner's mount tilted overnight.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Lesson learned: if you're using the Innorel tripod, use the plate supplied with the tripod.",
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for zwo am5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-zwo-am5"
+        ]
+      },
+      {
+        "id": "am5-tc40-too-short",
+        "pain": "The TC40 sits too low for visual use and low targets over trees",
+        "details": "Owners want a taller base than 800 mm without stacking extensions.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I like the taller height of the Literoc which makes it easier for visual use and also for me to image lower horizon objects when they get close to the tree tops.",
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for zwo am5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-zwo-am5"
+        ]
+      },
+      {
+        "id": "am5-wind-light-tripod",
+        "pain": "Wind shakes a light AM5 setup and ruins subs",
+        "details": "Owners load the TC40 weight bag or move to a heavier tripod for windy sites.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://stargazerslounge.com/topic/404888-zwo-am5-experience-and-lessons-learnt/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "It also does better with the rock sack loaded up.",
+            "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"
+          }
+        ],
+        "searches": [],
+        "keywords": [
+          "best tripod for zwo am5"
+        ],
+        "coveredBy": [
+          "best-tripod-for-zwo-am5"
+        ]
       }
     ],
     "monopods": [
@@ -7180,6 +7519,167 @@
           "best-tripod-for-elgato-prompter"
         ],
         "foundAt": "2026-11-05"
+      },
+      {
+        "id": "komodo-rig-outgrows-tripod",
+        "pain": "The Komodo rig grows past the tripod's rating once a monitor, cine lens and matte box go on",
+        "details": "On REDUSER a Komodo owner warns that adding a monitor, cinema prime, focus knob and matte box puts the rig over the tripod's weight, and advises a tripod rated 5 to 10 lb above the usual build.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+            "platform": "forum",
+            "title": "what-tripod-will-you-use-for-komodo.185662",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I would actually look at a tripod in the range of maybe 5 to 10 lbs above what your usual camera build weight is",
+            "url": "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/"
+          }
+        ],
+        "searches": [
+          "best tripod for red komodo",
+          "red komodo tripod"
+        ],
+        "keywords": [
+          "best tripod for red komodo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-red-komodo"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "komodo-heavy-tripod-travel",
+        "pain": "Old cinema tripods are too heavy to carry into deserts and mountains with a small Komodo",
+        "details": "A new Komodo owner asks how small a tripod can safely hold the Komodo with average lenses while being easy to travel with; replies name a Manfrotto 502 kit and Sachtler FSB 8 on carbon flowtech 75 legs.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+            "platform": "forum",
+            "title": "tripod-question-for-the-komodo-owners.3826028",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "how small of a tripod could I get away with for the Komodo which will be easy to travel with",
+            "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/"
+          }
+        ],
+        "searches": [
+          "best tripod for red komodo",
+          "red komodo tripod"
+        ],
+        "keywords": [
+          "best tripod for red komodo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-red-komodo"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "komodo-fixed-counterbalance-springback",
+        "pain": "A light camera on a fixed-counterbalance head springs back or drifts on tilts",
+        "details": "r/videography owners ask whether an 8.8 lb minimum counterbalance causes spring-back with a lighter camera, and one with a 7 lb camera reports drift on a head whose spring cannot be changed.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1st7nco/question_does_counterbalance_matter_on_video/",
+            "platform": "reddit",
+            "title": "question_does_counterbalance_matter_on_video",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/1eu2vh/camera_too_light_for_the_tripod_head/",
+            "platform": "reddit",
+            "title": "camera_too_light_for_the_tripod_head",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "The minimum counterbalance on the fluidhead is 8.8lbs.",
+            "url": "https://www.reddit.com/r/videography/comments/1st7nco/question_does_counterbalance_matter_on_video/"
+          }
+        ],
+        "searches": [
+          "best tripod for red komodo",
+          "red komodo tripod"
+        ],
+        "keywords": [
+          "best tripod for red komodo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-red-komodo"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "komodo-vertical-build-light-head",
+        "pain": "A Komodo built up vertically is hard to control on a very light head",
+        "details": "A REDUSER owner keeps a 100mm head for heavier cine lenses, matte box and wireless video because a tall build is challenging on light heads.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+            "platform": "forum",
+            "title": "tripod-question-for-the-komodo-owners.3826028",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "going much lighter with a camera built up vertically can be challenging for really light heads",
+            "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/"
+          }
+        ],
+        "searches": [
+          "best tripod for red komodo",
+          "red komodo tripod"
+        ],
+        "keywords": [
+          "best tripod for red komodo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-red-komodo"
+        ],
+        "foundAt": "2026-11-08"
+      },
+      {
+        "id": "komodo-rig-falls-off-tripod",
+        "pain": "A fully rigged Komodo crashes to the floor when the tripod tips",
+        "details": "An r/RedCamera owner whose full Komodo rig fell from a tripod onto tile lists lessons such as always using a camera cage and adding tripod stability arms.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/RedCamera/comments/12expua/komodo_full_rig_on_tripod_crashes_to_tile_floor/",
+            "platform": "reddit",
+            "title": "komodo_full_rig_on_tripod_crashes_to_tile_floor",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Have a camera cage always",
+            "url": "https://www.reddit.com/r/RedCamera/comments/12expua/komodo_full_rig_on_tripod_crashes_to_tile_floor/"
+          }
+        ],
+        "searches": [
+          "best tripod for red komodo",
+          "red komodo tripod"
+        ],
+        "keywords": [
+          "best tripod for red komodo"
+        ],
+        "coveredBy": [
+          "best-tripod-for-red-komodo"
+        ],
+        "foundAt": "2026-11-08"
       }
     ],
     "tabletop-mini-tripods": [
@@ -9092,6 +9592,132 @@
         "keywords": [
           "best tripod for guitar videos",
           "recording guitar video"
+        ]
+      },
+      {
+        "id": "phone-tripods-ipad-clamp-too-narrow",
+        "pain": "Tablet tripod mounts do not open wide enough for a 12.9 or 13-inch iPad, especially in a case",
+        "details": "Owners of large iPads find many mounts top out below the 8.48 in width of a 13-inch iPad Pro, and Ulanzi owners say they take the iPad out of its case to fit.",
+        "mentions": 2,
+        "keywords": [
+          "best tripod for ipad",
+          "ipad tripod mount",
+          "ipad pro tripod"
+        ],
+        "sources": [
+          {
+            "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.reddit.com/r/Photoassistants/comments/n0tg31/best_ipad_mount_reccos/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "A few reviews question how well it works on a 12.9, so the clamps might not be wide enough for the bigger iPad.",
+            "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/"
+          },
+          {
+            "text": "The ulanzi holds well enough with just the ipad, but it sucks to have to take it in and out of its case.",
+            "url": "https://www.reddit.com/r/Photoassistants/comments/n0tg31/best_ipad_mount_reccos/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-ipad-plastic-mount-hard-to-adjust",
+        "pain": "Cheap plastic iPad mounts hold the tablet but are a pain to adjust",
+        "details": "iPad Pro owners want a metal mount with a quick release and a ball head they can re-aim without fighting the clamp.",
+        "mentions": 1,
+        "keywords": [
+          "best tripod for ipad",
+          "ipad tripod mount",
+          "ipad pro tripod"
+        ],
+        "sources": [
+          {
+            "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "All the existing tripod mounts I’ve seen are cheap plastic. Sufficiently sturdy, but a pain to adjust, say, the angle.",
+            "url": "https://forums.macrumors.com/threads/looking-for-robust-adjustable-stand-tripod-mount.2246453/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-ipad-tripod-blows-over",
+        "pain": "A light tripod with an iPad on top blows over outdoors and the screen cracks",
+        "details": "Golfers and sideline filmers want a stand that will not tip; video shooters weigh tripods down with bags in wind.",
+        "mentions": 3,
+        "keywords": [
+          "best tripod for ipad",
+          "ipad tripod mount",
+          "ipad pro tripod"
+        ],
+        "sources": [
+          {
+            "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-08"
+          },
+          {
+            "url": "https://www.quora.com/How-strong-is-the-wind-to-be-enough-to-shake-a-camera-on-a-tripod",
+            "platform": "quora",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Until it falls and you crack a screen.",
+            "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+          },
+          {
+            "text": "I use a heavy tripod, sometimes weighed down with weights or heavy bags.",
+            "url": "https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/"
+          }
+        ]
+      },
+      {
+        "id": "phone-tripods-ipad-gooseneck-droops",
+        "pain": "A flexible or gooseneck arm will not hold the weight of a full-size iPad and slowly droops",
+        "details": "Owners using flexible-arm iPad holders on a tripod report the arm sagging out of position under the iPad.",
+        "mentions": 1,
+        "keywords": [
+          "best tripod for ipad",
+          "ipad tripod mount",
+          "ipad pro tripod"
+        ],
+        "sources": [
+          {
+            "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-08"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I find that the flexible arm won't support the weight of my iPad and it just falls and won't stay in position like it was designed?",
+            "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
+          }
         ]
       }
     ]

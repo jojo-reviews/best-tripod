@@ -522,9 +522,10 @@ illustrations:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-live-streaming.png
 heroAlt: >-
-  Best Tripod for Live Streaming – 6 Picks for Phone and Camera – Best
-  Tripod buying guide
+  Best Tripod for Live Streaming – 6 Picks for Phone and Camera – Best Tripod
+  buying guide
 related:
+  - best-tripod-for-ipad
   - best-tripod-for-guitar-videos
   - best-tripod-for-golf-swing-recording
 ---
