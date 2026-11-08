@@ -1,0 +1,185 @@
+{
+  "centralEntity": "tripod for ZWO AM5",
+  "entityVariants": [
+    "ZWO AM5 tripod",
+    "tripod for the AM5",
+    "AM5 tripod alternative",
+    "tripod for ZWO AM5N",
+    "tripod for ZWO AM7"
+  ],
+  "secondaryKeywords": [
+    "best tripod for zwo am5n",
+    "best tripod for zwo am7",
+    "tripod for zwo am5",
+    "zwo am5 tripod alternative",
+    "zwo tc40 alternative"
+  ],
+  "entities": [
+    { "name": "ZWO AM5", "type": "harmonic equatorial mount", "relation": "the mount head the tripod carries; 13 kg payload without counterweight, 20 kg with", "salience": 0.9 },
+    { "name": "Strain wave gearing", "type": "mechanism (TextRazor)", "relation": "the harmonic drive inside the AM5 that lets it run without a counterweight", "salience": 0.91 },
+    { "name": "ZWO TC40", "type": "tripod", "relation": "ZWO's own carbon fiber tripod for the AM5; the baseline every alternative is compared with", "salience": 0.8 },
+    { "name": "ZWO PE200 pier extension", "type": "accessory", "relation": "200 mm pier that adds clearance and doubles as the adapter to iOptron and Celestron tripod tops", "salience": 0.7 },
+    { "name": "Counterweight", "type": "concept (TextRazor)", "relation": "raises AM5 payload from 13 kg to 20 kg and adds load on the tripod", "salience": 0.84 },
+    { "name": "Equatorial mount", "type": "concept (TextRazor)", "relation": "the class of mount the AM5 belongs to", "salience": 0.65 },
+    { "name": "Astrophotography", "type": "activity (TextRazor)", "relation": "long guided exposures are what expose tripod flex and wind shake", "salience": 0.63 },
+    { "name": "Telescope", "type": "object (TextRazor)", "relation": "tube length and weight decide clearance and tripod size", "salience": 0.59 },
+    { "name": "Polar alignment", "type": "procedure (TextRazor)", "relation": "a level, rigid tripod keeps polar alignment through the night", "salience": 0.58 },
+    { "name": "Pier", "type": "support type (TextRazor)", "relation": "tri-piers and pier extensions give leg clearance and stiffness", "salience": 0.53 },
+    { "name": "Tripod", "type": "object (TextRazor)", "relation": "central object", "salience": 0.52 },
+    { "name": "Carbon-fiber reinforced polymer", "type": "material (TextRazor)", "relation": "TC40 and RT90C leg material: light, stiff", "salience": 0.3 },
+    { "name": "Payload", "type": "spec (TextRazor)", "relation": "tripod rated load against AM5 payload plus mount", "salience": 0.27 },
+    { "name": "3/8\"-16 thread", "type": "standard", "relation": "the AM5 base thread; any tripod with a 3/8\" bolt can carry it", "salience": 0.6 },
+    { "name": "iOptron", "type": "brand", "relation": "maker of the LiteRoc and Tri-Pier", "salience": 0.5 },
+    { "name": "Celestron", "type": "brand", "relation": "maker of the Heavy Duty CPC tripod", "salience": 0.4 },
+    { "name": "Minute and second of arc", "type": "unit (TextRazor)", "relation": "guiding RMS in arcseconds shows when a tripod helps", "salience": 0.36 }
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-zwo-am5.entities.json",
+    "pagesAnalyzed": ["https://www.highpointscientific.com/zwo-am5n-harmonic-drive-equatorial-mount-with-tripod", "https://astrobiscuit.com/zwo-am5-mount/", "https://www.firstlightoptics.com/alt-azimuth-astronomy-mounts/zwo-am5n-harmonic-drive-equatorial-mount-carbon-fibre-tripod.html"],
+    "note": "Cloudy Nights, Agena, minenko.org and Stargazers Lounge block TextRazor's fetch (Cloudflare/JS); entities from those pages were taken from the Firecrawl text by hand."
+  },
+  "attributes": [
+    "mount connection (ZWO three-screw plate, 3/8\"-16 center bolt, PE200 adapter)",
+    "rated load vs AM5 payload (13 kg / 20 kg)",
+    "base height with and without a pier extension",
+    "weight carried to the site",
+    "folded length",
+    "leg material and diameter",
+    "leg sections and locks",
+    "spreader / weight bag",
+    "leg clearance for long tubes"
+  ],
+  "ngrams": ["zwo am5", "tc40 tripod", "carbon fiber tripod", "pier extension", "weight bag", "3/8 bolt", "tri pier", "heavy duty tripod", "load capacity", "harmonic mount", "steel legs", "center bolt"],
+  "skipgrams": ["am5…tripod", "pier…extension", "weight…bag", "tc40…stable", "bolt…center", "legs…clearance", "tripod…wind"],
+  "nlpTerms": ["harmonic drive", "strain wave", "counterweight", "payload", "guiding", "polar alignment", "refractor", "SCT", "wind", "vibration", "spreader", "carbon fiber", "stainless steel", "aluminum", "M6 screws", "leveling", "imaging", "visual"],
+  "questions": [
+    "Can the ZWO AM5 go on any tripod?",
+    "Is the ZWO TC40 tripod stable enough for the AM5?",
+    "Do I need the PE200 pier extension?",
+    "What tripod is best for an AM5 with a C8 or larger SCT?",
+    "How much weight should an AM5 tripod hold?",
+    "Does the same tripod work for the AM5N and AM7?"
+  ],
+  "answerTerms": {
+    "Can the ZWO AM5 go on any tripod?": ["3/8\" screw", "center bolt", "adapter", "PE200"],
+    "Is the ZWO TC40 tripod stable enough for the AM5?": ["carbon fiber", "weight bag", "spreader", "50 kg"],
+    "Do I need the PE200 pier extension?": ["200 mm", "clearance", "tripod legs", "long refractor"],
+    "What tripod is best for an AM5 with a C8 or larger SCT?": ["steel legs", "2-inch", "tri-pier", "counterweight"],
+    "How much weight should an AM5 tripod hold?": ["13 kg", "20 kg", "payload", "load capacity"],
+    "Does the same tripod work for the AM5N and AM7?": ["TC40", "AM5N", "AM7", "adapter plate"]
+  },
+  "contentGaps": [
+    "How each non-ZWO tripod actually attaches to the AM5 (bolt, mini pier, PE200 with two M6 screws, CPC center rod) in one table",
+    "Base height of each option against the TC40 plus PE200",
+    "Rated load as a multiple of the AM5's 20 kg maximum payload",
+    "The Innorel plate-mismatch problem and its fix",
+    "Weight carried vs stability trade-off as one chooser"
+  ],
+  "outline": [
+    { "h2": "ZWO AM5 Tripod Comparison by Height, Weight and Load", "intent": "the five picks on the deciding specs plus how each connects", "h3": [] },
+    { "h2": "How I Picked These ZWO AM5 Tripods", "intent": "method from the forums and astronomy stores, owner reports, Amazon listing", "h3": [] },
+    { "h2": "The 5 Best Tripods for the ZWO AM5, Reviewed", "intent": "one section per tripod with owner praise and complaints", "h3": ["ZWO TC40 Carbon Fiber Tripod", "INNOREL RT90C Carbon Fiber Tripod", "iOptron LiteRoc Tripod", "iOptron Tri-Pier", "Celestron Heavy Duty CPC Tripod"] },
+    { "h2": "Which AM5 Tripod Should You Get?", "intent": "decision rule mapping setups to picks", "h3": [] },
+    { "h2": "How to Mount a ZWO AM5 on a Third-Party Tripod", "intent": "numbered steps, bolt/PE200/plate, with illustrations", "h3": [] },
+    { "h2": "ZWO AM5 Tripod Problems Owners Run Into, and the Fix", "intent": "pain points: TC40 shake with heavy scopes, wind, plate slip, too short", "h3": [] }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/",
+      "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5",
+      "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html",
+      "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/",
+      "https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/",
+      "https://stargazerslounge.com/topic/404888-zwo-am5-experience-and-lessons-learnt/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The forum threads trade pros and cons per tripod (stable but heavy, light but shakes in wind) and the store pages list features as bullets; no top result writes long review paragraphs.",
+    "avgWords": 1375,
+    "avgProducts": 3,
+    "commonSections": ["TC40 as the default", "alternative tripods owners use", "how to attach the AM5 (3/8 bolt, adapters)", "pier extension for clearance", "stability vs portability"],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false,
+    "note": "The SERP is forum threads, store product pages and YouTube; no editorial roundup ranks. avgWords measured on the four pages with clean text (Cloudy Nights thread page 1 about 2,600, ZWO forum about 500, minenko about 1,300, Agena about 1,100)."
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "title": "Tripod for AM5 - Mounts - Cloudy Nights" },
+    { "position": 2, "url": "https://www.youtube.com/watch?v=qIHXgNroJN4", "title": "Best Tripod for ZWO AM5? Berlebach UNI8 Handles ... - YouTube" },
+    { "position": 3, "url": "https://www.highpointscientific.com/zwo-am5n-harmonic-drive-equatorial-mount-with-tripod", "title": "ZWO AM5N Harmonic Drive Equatorial Mount and Tripod" },
+    { "position": 4, "url": "https://www.facebook.com/groups/289924796418749/posts/508235347921025/", "title": "Tripod recommendations for ZWO AM5 with large telescope" },
+    { "position": 5, "url": "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "title": "Larger tripod for AM5? - ZWO User Forum" },
+    { "position": 6, "url": "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "title": "ZWO TC40 Carbon Fiber Tripod for AM3N, AM5N, AM7 and ..." },
+    { "position": 7, "url": "https://www.reddit.com/r/AskAstrophotography/comments/1vbumul/tripod_for_am5_setup/", "title": "Tripod for AM5 setup? : r/AskAstrophotography - Reddit" },
+    { "position": 8, "url": "https://astrobiscuit.com/zwo-am5-mount/", "title": "My new favourite mount: ZWO AM5 - astrobiscuit" },
+    { "position": 9, "url": "https://www.youtube.com/watch?v=YrR_SmTDdD4", "title": "Things You Should Know Before Buying the ZWO AM5!" },
+    { "position": 10, "url": "https://milehighastro.com/products/zwo-tc40-carbon-fiber-tripod-for-am3-am5", "title": "ZWO TC40 Carbon Fiber Tripod for AM3, AM5 & AM7 Mounts" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": ["ZWO AM5", "tripod", "TC40", "carbon fiber", "AM5N", "AM7", "large telescope"],
+    "gap": "No top-10 title compares several AM5 tripods or says how each one attaches; titles are single threads or single products. Angle: 5 picks from carbon travel legs to a tri-pier for heavy SCTs. No year (0 of 10 titles carry one)."
+  },
+  "googleModifiers": ["am5n", "am7", "am3", "seestar s50"],
+  "googleModifiersNote": "am5n and am7 share the intent (same TC40 plate and PE200) and go into secondaryKeywords/FAQ; am3 and seestar s50 are different mounts (seestar has its own post).",
+  "amazonFilters": [
+    { "group": "Brand", "options": ["ZWO", "SIRUI", "Manfrotto", "Ulanshi", "SmallRig", "Neewer"] },
+    { "group": "Height", "options": ["Up to 39 in", "40 to 49 in", "50 to 64 in", "65 in & above"] },
+    { "group": "Price", "options": ["Up to $250", "$250 to $400", "$400 to $1,000", "$1,000 to $1,400", "$1,400 & above"] },
+    { "group": "Condition", "options": ["New", "Used"] },
+    { "group": "Head Type", "options": ["Ball Heads", "Pan Heads"] },
+    { "group": "Color", "options": ["Black", "Grey", "Orange", "Red", "Green", "Blue", "Silver", "Multi", "Clear"] }
+  ],
+  "amazonFiltersUse": "Height bands (up to 39 in vs 40-49 in) map to the height column of the comparison table; brand ZWO is the TC40. Head type does not apply (the AM5 is the head); price chips are skipped (no prices).",
+  "commonPoints": [
+    "The ZWO TC40 is the default: light, compact, drops right onto the AM5",
+    "The AM5 fits other tripods through its 3/8\"-16 thread, sometimes with an adapter",
+    "A pier extension (PE200) gives long scopes clearance from the legs",
+    "Heavier steel tripods and piers are steadier for big scopes but harder to carry",
+    "Weighting the TC40's bag helps in wind"
+  ],
+  "ourGain": [
+    { "type": "analysis", "point": "Rated load as a multiple of the AM5's 20 kg maximum payload: TC40 50 kg = 2.5x, RT90C 40 kg = 2x, Tri-Pier 100 kg = 5x; LiteRoc and CPC publish no rating", "source": "https://www.zwoastro.com/2022/01/13/am5-faq-35-things-you-want-to-know-about-zwo-am5-mount/", "absentFrom": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"] },
+    { "type": "analysis", "point": "Base height and carried weight side by side: TC40 470-800 mm at 2.3 kg (1,000 mm with a PE200), RT90C up to 1,600 mm at 2.72 kg, LiteRoc 765-1,168 mm at 6.8 kg, Tri-Pier 795-1,095 mm at 11.6 kg, CPC 38-56 in at 28 lb", "source": "maker and store spec pages in sources", "absentFrom": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"] },
+    { "type": "decision", "point": "Connection path per tripod (drop-in plate, 3/8 bolt, PE200 with two M6-16 screws, CPC center rod and lock nut) as one chooser column", "source": "https://bbs.zwoastro.com/d/16049-ioptron-tri-pier-portable-pier-tripod-8034-and-zwo-pe200for-am5", "absentFrom": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"] },
+    { "type": "situation", "point": "Innorel RT90C plate slip: the AM5's own tapered plate does not lock in the Innorel cup; use the Innorel plate with the 3/8 screw or a three-screw adapter", "source": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "absentFrom": ["https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html"] },
+    { "type": "situation", "point": "Celestron CPC tripod: unscrew the center rod, run it up into the plate and lock the PE200 with the nut; a longer threaded rod is needed if the tray stays on", "source": "https://bbs.zwoastro.com/d/15926-is-it-possible-to-adapt-the-pe200-to-my-celestron-heavy-duty-cpc-1100-tripod", "absentFrom": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"] }
+  ],
+  "serpProducts": [
+    { "name": "ZWO TC40 Carbon Fiber Tripod", "pages": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "https://www.highpointscientific.com/zwo-am5n-harmonic-drive-equatorial-mount-with-tripod", "https://milehighastro.com/products/zwo-tc40-carbon-fiber-tripod-for-am3-am5", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"] },
+    { "name": "INNOREL RT90C Carbon Fiber Tripod", "pages": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/", "https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/"] },
+    { "name": "iOptron LiteRoc Tripod", "pages": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/", "https://www.youtube.com/watch?v=2uuzA-NRtV4"] },
+    { "name": "iOptron Tri-Pier", "pages": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://www.cloudynights.com/forums/topic/924629-ioptron-tri-pier-with-am5/", "https://bbs.zwoastro.com/d/16049-ioptron-tri-pier-portable-pier-tripod-8034-and-zwo-pe200for-am5"] },
+    { "name": "Celestron Heavy Duty CPC Tripod", "pages": ["https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/", "https://bbs.zwoastro.com/d/15926-is-it-possible-to-adapt-the-pe200-to-my-celestron-heavy-duty-cpc-1100-tripod"] }
+  ],
+  "skippedProducts": [
+    { "name": "Berlebach Planet / UNI 8 / UNI 18", "reason": "recommended on 3+ pages but no Amazon US listing" },
+    { "name": "Sky-Watcher 1.75 in steel (EQ5/HEQ5/AZ5) tripod", "reason": "recommended on 3+ pages but only third-party copies on Amazon US, no Sky-Watcher listing" },
+    { "name": "Avalon T-Pod", "reason": "one thread only, no Amazon US listing" },
+    { "name": "Sky-Watcher Star Adventurer tripod", "reason": "Cloudy Nights owners say it works but not very well under the AM5" }
+  ],
+  "painPoints": [
+    { "id": "am5-tc40-not-steady-heavy-scope", "pain": "The TC40 is not steady enough for a C6, C8 or other heavy scope when imaging", "details": "AM5 owners with SCTs find the light carbon tripod shakes; others are fine with small refractors and a loaded weight bag.", "sources": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://stargazerslounge.com/topic/404888-zwo-am5-experience-and-lessons-learnt/"], "quotes": [{ "text": "I have the carbon fiber tripod and it just isn't steady enough for my C6 and C8 for imaging.", "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/" }] },
+    { "id": "am5-third-party-bolt", "pain": "A non-ZWO tripod does not bolt straight onto the AM5", "details": "LiteRoc, CPC and other astronomy tripods need a 3/8-16 bolt, the center pin removed, a mini pier or the PE200.", "sources": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://bbs.zwoastro.com/d/15926-is-it-possible-to-adapt-the-pe200-to-my-celestron-heavy-duty-cpc-1100-tripod"], "quotes": [{ "text": "You do need to get your own bolt to go up through the middle, but it's trivial purchase from a hardware store.", "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/" }] },
+    { "id": "am5-innorel-plate-slip", "pain": "The AM5's own plate slips in the Innorel RT90C cup", "details": "The plates look alike but the AM5 plate is tapered; one owner's mount tilted overnight.", "sources": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/"], "quotes": [{ "text": "Lesson learned: if you're using the Innorel tripod, use the plate supplied with the tripod.", "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/" }] },
+    { "id": "am5-tc40-too-short", "pain": "The TC40 sits too low for visual use and low targets over trees", "details": "Owners want a taller base than 800 mm without stacking extensions.", "sources": ["https://bbs.zwoastro.com/d/15773-larger-tripod-for-am5", "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/"], "quotes": [{ "text": "I like the taller height of the Literoc which makes it easier for visual use and also for me to image lower horizon objects when they get close to the tree tops.", "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/" }] },
+    { "id": "am5-wind-light-tripod", "pain": "Wind shakes a light AM5 setup and ruins subs", "details": "Owners load the TC40 weight bag or move to a heavier tripod for windy sites.", "sources": ["https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/", "https://stargazerslounge.com/topic/404888-zwo-am5-experience-and-lessons-learnt/"], "quotes": [{ "text": "It also does better with the rock sack loaded up.", "url": "https://www.cloudynights.com/forums/topic/863106-tripod-for-am5/" }] }
+  ],
+  "stats": [
+    { "number": "13kg", "claim": "AM5 payload without counterweight (20 kg with)", "url": "https://www.zwoastro.com/2022/01/13/am5-faq-35-things-you-want-to-know-about-zwo-am5-mount/", "quote": "13kg without the counterweight - 20kg with the counterweight" },
+    { "number": "2.3 kg", "claim": "ZWO TC40 weight", "url": "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "quote": "Weight: 2.3 kg (5.07 lbs)" },
+    { "number": "50 kg", "claim": "ZWO TC40 load capacity", "url": "https://agenaastro.com/zwo-tc40-carbon-fiber-tripod.html", "quote": "Load Capacity: 50 kg (110.23 lbs)" },
+    { "number": "220 lbs", "claim": "iOptron Tri-Pier maximum payload", "url": "https://www.highpointscientific.com/ioptron-tri-pier-for-select-ioptron-mounts-8034", "quote": "Max Payload: 220 lbs (100 kg)" },
+    { "number": "557 g", "claim": "Innorel RT90C weighs more than the TC40, mostly from extra leg sections", "url": "https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/", "quote": "Most of the 557 g of additional weight should also come from those additional leg sections." }
+  ],
+  "videos": [
+    { "id": "2uuzA-NRtV4", "title": "The BEST CARBON TRIPOD Money Can('t) Buy! This is PERFECT for ZWO AM5, AM3, WD-20, etc.", "channel": "Cuiv, The Lazy Geek", "url": "https://www.youtube.com/watch?v=2uuzA-NRtV4", "section": "How I Picked These ZWO AM5 Tripods" }
+  ],
+  "internalLinkCandidates": ["best-tripod-for-telescope", "best-tripod-for-astrophotography", "how-to-stop-tripod-shake-in-wind", "best-tripod-for-seestar-s50"],
+  "pendingInlinks": [
+    { "slug": "best-tripod-for-telescope", "find": "An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here.", "replace": "An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here, like our [tripods for the ZWO AM5](/blog/best-tripod-for-zwo-am5/)." },
+    { "slug": "best-tripod-for-astrophotography", "find": "Under a night sky, any vibration shows for the whole exposure.", "replace": "Under a night sky, any vibration shows for the whole exposure, whether the camera rides a tracker or a [harmonic mount like the ZWO AM5](/blog/best-tripod-for-zwo-am5/)." }
+  ]
+}

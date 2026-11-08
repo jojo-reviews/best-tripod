@@ -5711,7 +5711,7 @@
     "parkedReason": "2026-11-05: draft held; 2 of 5 products lack 2 independent editorial top-10 sources and the body is 632 words with 1-3 sentence product sections (thin); revisit when better sources exist"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for zwo am5",
@@ -5728,7 +5728,17 @@
     "funnel": "bofu",
     "cluster": "zwo",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 3 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "productCount": 5,
+    "startedAt": "2026-11-08T11:20:19.392Z",
+    "painPoints": [
+      "am5-tc40-not-steady-heavy-scope",
+      "am5-third-party-bolt",
+      "am5-innorel-plate-slip",
+      "am5-tc40-too-short",
+      "am5-wind-light-tripod"
+    ],
+    "publishedAt": "2026-11-08T11:38:11.302Z"
   },
   {
     "status": "published",

@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-zwo-am5",
+  "pass": true,
+  "checkedAt": "2026-11-08T11:37:43.575Z",
+  "errors": [],
+  "warnings": [
+    "product \"ZWO TC40 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"INNOREL RT90C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"iOptron LiteRoc Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"iOptron Tri-Pier\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Celestron Heavy Duty CPC Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-08 with Firecrawl: AM5 payload 13 kg/20 kg, 3/8in screw compatibility and TC40 3xM6 + 3/8 knob against the ZWO AM5 FAQ; TC40 2.3 kg, 50 kg, 500 mm folded, 470-800 mm, 2 sections 40/36 mm, spreader/weight bag/spikes against Agena Astro; RT90C 160/10 cm, 59 cm, 2.72 kg, 40 kg, 4 sections 40-29 mm twist locks, 3/8-16 screw against innoreltech.com, +557 g and no spreader against minenko.org; LiteRoc 1.75in stainless 2-section, 30-47 in, 15 lb against High Point 7623; Tri-Pier 100 kg, 11.6 kg, 795-1095 mm, 325x650 mm folded, 144 mm pier against High Point 8034; CPC tripod 2.0in aluminum legs, 28 lb, 38-56 in, 1.75in top, tray against celestron.com; PE200 2xM6-16 screws to iOptron top (ZWO forum staff, thread 16049), CPC rod/lock-nut method (ZWO forum 15926), LiteRoc bolt/center pin (Cloudy Nights 863106 and 850769 p4); all quotes copied verbatim from Cloudy Nights 863106; ASINs hand-checked on Amazon US (TC40 B0FPJDF2XF Adorama, RT90C B091CS41ZB ships from Amazon, LiteRoc B0BKKDDJVX SkyViewerUSA, Tri-Pier B01LXD0IWA Adorama, CPC B001FBO7IO sold by Amazon), all in stock; video 2uuzA-NRtV4 (Cuiv) checked.",
+    "at": "2026-11-08T11:37:42.962Z",
+    "hash": "1948b7b697e5e66b"
+  }
+}

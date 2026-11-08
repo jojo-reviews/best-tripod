@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-for-zwo-am5
   - best-tripod-for-dwarf-3
   - best-tripod-for-coyote-hunting
   - best-tripod-for-zoom-recorder
-  - best-tripod-for-lumix-s5ii
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying guide
 ---

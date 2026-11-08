@@ -1,0 +1,114 @@
+{
+  "keyword": "best tripod for zwo am5",
+  "pagesAnalyzed": 1,
+  "sharedEntities": [
+    {
+      "entity": "Strain wave gearing",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Strain_wave_gearing",
+      "wikidata": "Q751500",
+      "kgmid": "/m/010gmq69"
+    },
+    {
+      "entity": "Counterweight",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.84,
+      "wiki": "http://en.wikipedia.org/wiki/Counterweight",
+      "wikidata": "Q1324102",
+      "kgmid": "/m/01cqgw"
+    },
+    {
+      "entity": "Equatorial mount",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.65,
+      "wiki": "http://en.wikipedia.org/wiki/Equatorial_mount",
+      "wikidata": "Q1061971",
+      "kgmid": "/m/0422g0"
+    },
+    {
+      "entity": "Astrophotography",
+      "type": "/people/profession",
+      "pages": 1,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Astrophotography",
+      "wikidata": "Q280855",
+      "kgmid": "/m/0121sb"
+    },
+    {
+      "entity": "Telescope",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Telescope",
+      "wikidata": "Q4213",
+      "kgmid": "/m/0h2t9w"
+    },
+    {
+      "entity": "Polar alignment",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Polar_alignment",
+      "wikidata": "Q3316288",
+      "kgmid": "/m/02q5153"
+    },
+    {
+      "entity": "Pier",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Pier",
+      "wikidata": "Q863454",
+      "kgmid": "/m/01phq4"
+    },
+    {
+      "entity": "Sky-Watcher",
+      "type": "Agent",
+      "pages": 1,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Sky-Watcher",
+      "wikidata": "Q1142452",
+      "kgmid": "/m/03gwp_l"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Minute and second of arc",
+      "type": "/measurement_unit/angle_unit",
+      "pages": 1,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Minute_and_second_of_arc",
+      "wikidata": "Q12097402",
+      "kgmid": "/m/0zgv"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 1,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Payload",
+      "type": "",
+      "pages": 1,
+      "relevance": 0.27,
+      "wiki": "http://en.wikipedia.org/wiki/Payload",
+      "wikidata": "Q7641034",
+      "kgmid": "/m/02p0sz9"
+    }
+  ]
+}
