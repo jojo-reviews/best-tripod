@@ -1,0 +1,21 @@
+{
+  "slug": "es/tripode-de-tiro-para-esperas-nocturnas",
+  "lang": "es",
+  "translationOf": "best-tripod-for-coyote-hunting",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:40:33.620Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the es version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the es version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-coyote-hunting: same 5 products/ASINs/scores/spec keys, same owner praise/complaints, same FAQ answers; inch/lb figures converted metric-first with decimal comma and checked (182/180/171/151/141/180 cm, 2,7/2,9/3,3/2,9/2,5 kg, 68 kg, 9/20 kg, 206 m, 135 cm, CDC 175 cm kept as US figure). Local facts re-opened: BOE Ley 42/2007 Annex VII (night-shooting sight devices prohibited), cazapop (regional permits must name the device), LSEK (25 kg), all4shooters BOG test, esperasjabali.com and tuslances quotes verified verbatim, FatBoy dealer list, Warrior page. No testing/ownership claims, no prices, no local Amazon store; 3 outside links.",
+    "at": "2026-11-08T16:40:32.667Z",
+    "hash": "de5354d6b16c24ec"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-red-komodo",
+  "checkedAt": "2026-11-08T16:30:38.000Z",
+  "productFit": [
+    {
+      "name": "Sachtler System FSB 8 Mk II 75/2 AL GS Tripod System",
+      "asin": "B09LJ186JS",
+      "status": "localVariant",
+      "variant": "Sachtler's own product page lists this system as SKU 0781A (System FSB 8 75/2 AL GS Mk II); the Amazon US listing in the English post carries the US code 0771AM. Same FSB 8 Mk II head, 75/2 AL Mk II legs, ground spreader SP 75, carry handle and padded bag.",
+      "metricSpecs": "Sachtler: payload 0-12 kg, 15+0 counterbalance, 7+0 drag, 75 mm bowl, height 59-175 cm, weight 5,6 kg, sliding range 12 cm, tilt +90/-70 degrees. The page gives 88 cm transport length while the English post uses 87 cm (34.3 in) from Sachtler's one-sheet; keep 87 cm so the versions match.",
+      "reason": "Sachtler's dealer list on the same page names Moncada y Lorenzo S.A. for this market.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    },
+    {
+      "name": "Sachtler System Ace XL Flowtech75 MS Mk II Carbon Fibre Tripod",
+      "asin": "B0D4YH3RKC",
+      "status": "fits",
+      "metricSpecs": "Sachtler (SKU 1016MS, same code in the EU and US): payload 0-8 kg, 9+0 counterbalance, 3+0 drag, 41-169 cm without spreader, 78-173 cm with mid-level spreader, 85 cm transport length, 5,3 kg, sliding range 10,4 cm.",
+      "reason": "Sold under the same name and SKU 1016MS by EU dealers.",
+      "source": "https://www.sachtler.com/en/product/system-ace-xl-flowtech75-ms-mk-ii/"
+    },
+    {
+      "name": "Manfrotto 504X Fluid Video Head with Twin Aluminum Tripod",
+      "asin": "B08BZMCKSX",
+      "status": "fits",
+      "metricSpecs": "Manfrotto/EU dealers (MVK504XTWINMA): max height 169 cm, weight 5,6 kg, payload 12 kg, counterbalance up to 6,5 kg at 55 mm centre of gravity (steps 2,2 / 4,4 / 6,5 kg plus 0). Min height 75 cm and folded 86 cm converted from the English post.",
+      "reason": "Same code MVK504XTWINMA on Manfrotto's site and at EU dealers.",
+      "source": "https://cvp.com/de/product/manfrotto-504x-alu-twin-ms"
+    },
+    {
+      "name": "Manfrotto 502 Fluid Video Head with 055 Video Aluminum Tripod",
+      "asin": "B0DX2G56WB",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 179 cm max, 157 cm column down, 54 cm min, 79 cm folded, 4,5 kg, 10 kg payload, fixed 4 kg counterbalance (the English post's maker metric figures).",
+      "reason": "Sold under the same name by Foto Koch.",
+      "source": "https://www.fotokoch.de/es/Manfrotto-055-Kit-de-aluminio-tr-pode-de-v-deo-con-cabeza-fluida-3-segmentos_27355.html"
+    },
+    {
+      "name": "SmallRig x Potato Jet TRIBEX SE Hydraulic Tripod with Fluid Head",
+      "asin": "B0FM3PZKKV",
+      "status": "fits",
+      "metricSpecs": "SmallRig (SKU 5305): working height 23-166 cm, net weight 3,7 kg, head 6 kg, legs 15 kg, fixed 4 kg counterbalance. Folded 72 cm converted from the English post.",
+      "reason": "Same model 5305 sold by EU retailers (the same ASIN is listed on amazon.de and amazon.es).",
+      "source": "https://www.amazon.es/SMALLRIG-Hidr%C3%A1ulico-Aluminio-Entrevistas-Fotograf%C3%ADa/dp/B0FM3PZKKV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm. Los cinco trípodes miden plegados entre 72 y 87 cm, así que van facturados.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "El permiso básico del Ayuntamiento de Barcelona para rodar o fotografiar en la vía pública cubre como máximo un trípode y 10 personas, sin vehículos ni drones durante el rodaje.",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "fact": "Las normas de la Sagrada Família dicen que no se pueden usar trípodes para grabar vídeo dentro de la basílica.",
+      "source": "https://sagradafamilia.org/en/rules-and-regulations"
+    },
+    {
+      "fact": "Términos: rótula fluida / cabezal fluido, media bola de 75 mm o 100 mm, contrapeso, araña de suelo o araña intermedia, patas dobles; Sachtler vende el sistema FSB 8 en Europa con la referencia 0781A.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Rated loads are optimistic once the camera moves; a rig with cage, monitor and battery needs far more headroom.",
+      "fix": "REDUSER rule from the English post: pick a head rated about 2-5 kg (5-10 lb) above the usual build, and a counterbalance range that covers it (FSB 8 or 504X for heavy builds).",
+      "quotes": [
+        {
+          "text": "soportan hasta 7kg nominales, lo que en términos reales no pasará de 3,5kg estáticos, cuando movés la cámara eso se reduce aún más",
+          "url": "https://www.sonycam.es/foro/threads/recomendaci%C3%B3n-de-tr%C3%ADpode.12175/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Unsure whether a tripod can travel in cabin baggage.",
+      "fix": "All five kits fold to 72-87 cm, beyond Iberia's 56 x 40 x 25 cm limit, so they go in the hold.",
+      "quotes": [
+        {
+          "text": "En teoria, el trípode no lo puedes llevar en cabina, con las cámaras y objetivos, no hay problema, están permitidos.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/132041-avi%C3%B3n-llevar-tr%C3%ADpode-en-el-equipage-de-mano/"
+        }
+      ],
+      "sources": [
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Sachtler's EU reference 0781A for the FSB 8 system.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    },
+    {
+      "point": "Iberia's 56 x 40 x 25 cm cabin limit: all five Komodo tripods (72-87 cm folded) fly checked.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Barcelona's basic filming permit covers one tripod at most, which matches a one-tripod Komodo shoot.",
+      "source": "https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/ca/tramit/20240001682"
+    },
+    {
+      "point": "Maker metric figures (Sachtler, Manfrotto, SmallRig) instead of converted inches.",
+      "source": "https://www.sachtler.com/en/product/system-ace-xl-flowtech75-ms-mk-ii/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with its own Amazon US listing",
+      "action": "replace",
+      "with": "each with its own Amazon listing (no local store or availability claim)"
+    },
+    {
+      "english": "Canon USA link on the 1.98 lb RF 24-70mm figure",
+      "action": "drop",
+      "with": "keep the figure (0,90 kg / 1.98 lb), drop the link to free an outside-link slot for a local fact; Canon stays in sources"
+    },
+    {
+      "english": "Sachtler maker link on '0 to 12 kg with 15 counterbalance steps'",
+      "action": "drop",
+      "with": "keep the figure, drop the link (still in sources) so the body stays at max 3 outside links with the local facts"
+    }
+  ]
+}

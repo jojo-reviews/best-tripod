@@ -1,0 +1,21 @@
+{
+  "slug": "de/zielstock-fuer-die-nachtjagd",
+  "lang": "de",
+  "translationOf": "best-tripod-for-coyote-hunting",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:40:33.250Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the de version once it exists",
+    "internal link to the English post /blog/leveling-base-vs-leveling-column/; link the de version once it exists",
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-coyote-hunting: same 5 products/ASINs/scores/spec keys, same owner praise/complaints, same FAQ answers; every inch/lb converted metric-first with decimal comma (182/180/171/151/141/180 cm, 2,7/2,9/3,3/2,9/2,5 kg, 68 kg, 9/20 kg, 206 m, 135 cm) and checked against the English figures. Local facts re-opened: LSEK Industries (Radian ball head kit 25 kg), all4shooters BOG test (2925 g, 78 cm, ~150 cm, clamp does not damage wood stock), DJV PDF snippet (WaffG section 40(3), since Feb 2020) and LJV Hessen page, Destatis 1,79 m (from local brief), FatBoy dealer list (no EU dealer), Warrior page (US shop), nighthunting.eu quote. US CDC height replaced by Destatis; Amazon-availability reason for left-out picks rephrased. No testing/ownership claims, no prices, no local Amazon store; 3 outside links.",
+    "at": "2026-11-08T16:40:32.467Z",
+    "hash": "62dc80bbd96dbb04"
+  }
+}

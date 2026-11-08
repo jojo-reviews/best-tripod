@@ -1,0 +1,21 @@
+{
+  "slug": "nl/statief-voor-zwo-am5",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-zwo-am5",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:37:09.204Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the nl version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-astrophotography/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-zwo-am5: all 5 products, ASINs, scores, specs (metric first, conversions checked), FAQ answers and owner quotes match the English post and its sources (ZWO AM5 FAQ 13/20 kg, High Point Scientific Tri-Pier 100 kg). Local facts from the local brief: KLM hand baggage 55x35x25 cm (klm.com), Lauwersmeer Dark Sky Park since Oct 2016 and Boschplaat 2015 (np-lauwersmeer.nl), Telescoop.nl deck/roof-terrace and dew quotes re-opened verbatim. Celestron CPC tripod marked as mainly sold in the US. Amazon US-only wording replaced; no prices, no local store, no testing claims.",
+    "at": "2026-11-08T16:37:08.038Z",
+    "hash": "56fc620ccb929b12"
+  }
+}

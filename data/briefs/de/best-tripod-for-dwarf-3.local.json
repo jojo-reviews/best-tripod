@@ -1,0 +1,147 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-dwarf-3",
+  "checkedAt": "2026-11-08T16:29:57.921Z",
+  "productFit": [
+    {
+      "name": "DWARFLAB Mini Tripod with Hydraulic Head",
+      "asin": "B0FF4G7CMJ",
+      "status": "fits",
+      "metricSpecs": "DWARFLAB: folds to 25 cm, 360° pan, +90°/-75° tilt, head 300 g; the English post keeps 775 g, 53 cm and 3,0 kg from DWARFLAB's US page, keep those.",
+      "reason": "DWARFLAB runs EU country stores (e.g. the Slovak store) with the same Mini Tripod page; a German Astrotreff owner ordered it directly from DWARFLAB.",
+      "source": "https://www.dwarflab.com/sk/products/tripod-for-dwarf-3"
+    },
+    {
+      "name": "K&F Concept 64-Inch Aluminum Travel Tripod (O234A1+BH-36)",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Sold as 163 cm / 8 kg (same as the English post).",
+      "reason": "idealo.de lists the K&F Concept O234A1+BH-36 from EU shops under the same model code.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/206761215_-o234a1-bh-36-k-f-concept.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg (Manfrotto); same as the English post.",
+      "reason": "Foto Erhardt (DE) lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Manfrotto 290 Xtra Aluminum Tripod Kit with 3-Way Head (MK290XTA3-3WUS)",
+      "asin": "B013JS87KO",
+      "status": "localVariant",
+      "variant": "Outside the US Manfrotto sells the same kit as MK290XTA3-3W (no 'US' suffix): 290 Xtra legs with the 804 3-way head.",
+      "metricSpecs": "Use the English post's B&H metric figures: 171,5 cm max., 136,9 cm column down, 41,9 cm min., 70,6 cm folded, 2,54 kg, 10 kg.",
+      "reason": "Manfrotto lists the kit as MK290XTA3-3W on its non-US store pages; the product images are named mk290xta3-3w.",
+      "source": "https://www.manfrotto.com/ca-en/290-xtra-aluminium-3-section-tripod-with-head-mk290xta3-3w/"
+    },
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod",
+      "asin": "B081T81PXQ",
+      "status": "fits",
+      "metricSpecs": "Astroshop gives 69,5-121,5 cm and 1,8 kg (retailer, not maker); keep the English figures 63,5-113,7 cm and 2,35 kg so numbers match the English post.",
+      "reason": "Astroshop (DE, also .es/.nl) sells the Sky-Watcher tripod for AZ-5/AZ-GTi/Star Adventurer under the same name.",
+      "source": "https://www.astroshop.de/stative/skywatcher-stativ-fuer-az-5-az-gti-az-pronto-und-star-adventurer/p,55848"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg. By folded length the DWARFLAB Mini Tripod (25 cm), the K&F Concept (39,5 cm) and the Befree Advanced (40 cm) fit; the 290 Xtra (70,6 cm) goes in checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Germany spans from about 47°16' N (Haldenwanger Eck, Allgäu) to 55°03' N (Ellenbogen, Sylt), so the EQ-mode tilt to latitude is roughly 47 to 55 degrees, about 48° in Munich and 52-53° in Berlin/Hamburg.",
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Extrempunkte_Deutschlands"
+    },
+    {
+      "fact": "Sternenpark Westhavelland (Brandenburg) has ten official observing sites for amateur astronomers, some with concrete pads or a Plattenweg, others on meadows; visitors are asked to stay on the paths.",
+      "source": "https://www.visithavelland.de/natur-und-sternenpark/beobachtungstipps"
+    },
+    {
+      "fact": "German terms: Stativ, Mittelsäule, Neiger / 3-Wege-Neiger, Kugelkopf, Hydraulikkopf, Polhöhe / Breitengrad, Einnorden, 1/4-Zoll-Fotogewinde, Schnellwechselplatte, Drehverschluss, Klemmhebel.",
+      "source": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "In EQ mode the tilted DWARF 3 tips a small tripod over, especially short tabletop tripods with legs flat on the ground.",
+      "fix": "Point the tilted side of the head over one leg, spread the legs fully, or move to a full-size pick (English setup steps 1 and 6).",
+      "quotes": [
+        {
+          "text": "Wichtig ist nur, dass die geneigte Seite für den Breitengrad auf einen der Füße zeigt, sonst kippelt es logischerweise.",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+        },
+        {
+          "text": "sobald es aber in den EQ Modus geht ist es vorbei mit allen Stativen",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+      ]
+    },
+    {
+      "pain": "A small tabletop tripod is not enough once a tilt head sits on top; owners ask which tripod to combine with a Neiger.",
+      "fix": "The DWARFLAB tripod has a tilt head built in; for standing height a photo tripod with a 3-way head (290 Xtra) or ball head (K&F, Befree).",
+      "quotes": [
+        {
+          "text": "Mein kleines Tischstativ wo ich die Beine auf 90° klappen kann reicht leider nicht aus durch den Neiger.",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+      ]
+    },
+    {
+      "pain": "Owners want steady 60-second subs in EQ mode.",
+      "fix": "DWARFLAB tripod with its hydraulic head on firm ground, column-free; the German owner reports 60 s subs without shake.",
+      "quotes": [
+        {
+          "text": "Lässt sich super im EQ Mode verwenden, ist stabil und ermöglicht bei mir 60 Sek. Subs ohne Wackeln.",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "The EQ tilt angle for Germany (about 47 to 55 degrees, by city).",
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Extrempunkte_Deutschlands"
+    },
+    {
+      "point": "Which picks fit a Lufthansa cabin bag (55 x 40 x 23 cm) by folded length.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "German owners' EQ tipping trap (tilted side not over a leg) and the fix.",
+      "source": "https://www.astrotreff.de/forum/index.php?thread/290953-dwarf-iii/&pageNo=15"
+    },
+    {
+      "point": "EU model codes for the Manfrotto kits (MKBFRLA4BK-BH, MK290XTA3-3W) and metric figures first.",
+      "source": "https://www.manfrotto.com/ca-en/290-xtra-aluminium-3-section-tripod-with-head-mk290xta3-3w/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Imperial-first figures (54 in, 67.5 in, 27.8 in, 5.6 lb, 25 to 44.75 in, 5.2 lb, 1.25 in legs)",
+      "action": "replace",
+      "with": "Metric first from the specs (136,9 cm, 171,5 cm, 70,6 cm, 2,54 kg, 63,5-113,7 cm, 2,35 kg, 3,2 cm) with imperial in brackets."
+    },
+    {
+      "english": "Manfrotto 290 Xtra model code MK290XTA3-3WUS",
+      "action": "replace",
+      "with": "Keep the product name unchanged; mention in the text that the kit is sold as MK290XTA3-3W outside the US."
+    },
+    {
+      "english": "Befree Advanced (US kit code MKBFRLA4BK-BHUS on the source)",
+      "action": "replace",
+      "with": "Mention the EU set code MKBFRLA4BK-BH in the text."
+    }
+  ]
+}

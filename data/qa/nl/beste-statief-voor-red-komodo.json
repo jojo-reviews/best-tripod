@@ -1,0 +1,20 @@
+{
+  "slug": "nl/beste-statief-voor-red-komodo",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-red-komodo",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:39:02.150Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-checked after shortening the meta description only. Compared section by section with best-tripod-for-red-komodo: same 5 products/ASINs/scores/spec keys, figures metric first with maker metric values (RED 2.10 lb = 0,95 kg verified on reddigitalcinema.com/komodo; Sachtler FSB 8 0781A 0-12 kg, 59-175 cm, 5,6 kg; Ace XL 1016MS; SmallRig 5305). Local facts from nl local brief: KLM 55x35x25 cm, Amsterdam filmmelding, Nikon Club Nederland quote verbatim. No testing claims, prices or local store claims; 3 outside links.",
+    "at": "2026-11-08T16:39:10.899Z",
+    "hash": "e9907038c16d3fe5"
+  }
+}

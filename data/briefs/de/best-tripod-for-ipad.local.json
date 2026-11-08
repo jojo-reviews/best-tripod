@@ -1,0 +1,141 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-ipad",
+  "checkedAt": "2026-11-08T16:32:00Z",
+  "productFit": [
+    {
+      "name": "elitehood Metal iPad Tripod Stand",
+      "asin": "B08S777F1H",
+      "status": "fits",
+      "metricSpecs": "Listing text: extends from 76 cm to 183 cm including the gooseneck (same as the English 30 to 72 in).",
+      "reason": "Same ASIN B08S777F1H listed on www.amazon.de.",
+      "source": "https://www.amazon.de/elitehood-H%C3%B6henverstellbar-bodenst%C3%A4nder-Schwanenhals-Halterung-schwarz/dp/B08S777F1H"
+    },
+    {
+      "name": "Ulanzi U-Pad III Metal iPad Tripod Mount",
+      "asin": "B09C59W5VG",
+      "status": "fits",
+      "metricSpecs": "Listing text: clamp width 10 cm to 23 cm (3.93 to 9 in), aluminium alloy, Arca-Swiss mount; weight not given there, keep 199 g from B&H.",
+      "reason": "Sold on www.amazon.de as ULANZI U-Pad III under EU ASIN B09F664XQQ (same name and clamp range; OneLink keeps the US ASIN in the post).",
+      "source": "https://www.amazon.de/Halterung-ULANZI-Adapter-7-9-12-9in-Einstellbare/dp/B09F664XQQ"
+    },
+    {
+      "name": "GRIFITI Nootle Large Universal Tablet Mount Adjustable Stand Tripod",
+      "asin": "B01CZ12EHI",
+      "status": "unknown",
+      "metricSpecs": "No maker metric page; keep the English figures converted: about 1,8 m (6 ft) stand, 1,1 kg (2.4 lb) kit, tablets 24 to 37 cm (9.5 to 14.5 in) screen size, 1,6 cm (5/8 in) lip.",
+      "reason": "No EU retailer or local Amazon listing found; Grifiti is a US maker selling from grifiti.com (US phone number, prices in USD), and only import marketplaces such as Ubuy list the kit in Europe. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://grifiti.com/products/grifiti-nootle-universal-large-tablet-mount"
+    },
+    {
+      "name": "KobraTech TabMount 360 iPad Tripod Mount",
+      "asin": "B086R8X9XF",
+      "status": "unknown",
+      "metricSpecs": "No maker metric page; keep the English figures converted: clamp 15,9 to 23,6 cm (6.25 to 9.30 in), remote up to 9 m (30 ft).",
+      "reason": "No www.amazon.de or local retailer listing found; KobraTech sells from its US web shop (prices in USD). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.kobratech.com/products/new-tabmount-360-ipad-tripod-mount"
+    },
+    {
+      "name": "JOBY GripTight PRO Tablet Mount",
+      "asin": "B01GP8KEH4",
+      "status": "fits",
+      "metricSpecs": "K&M Camera (English source) gives the clamp as 128 to 192 mm; use 12,8 to 19,2 cm and 145 g.",
+      "reason": "Same ASIN B01GP8KEH4 listed on www.amazon.de.",
+      "source": "https://www.amazon.de/JOBY-GripTight-Pro-Mount-Tablets/dp/B01GP8KEH4"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple gibt das iPad Pro 13\" mit 215,5 mm Breite und 579 g (Wi-Fi) an, das iPad Pro 11\" mit 177,5 mm Breite und 444 g.",
+      "source": "https://www.apple.com/de/ipad-pro/specs/"
+    },
+    {
+      "fact": "Apple gibt das iPad mini mit 132,6 mm Breite und 255 g (Wi-Fi) an.",
+      "source": "https://www.apple.com/de/ipad-mini/specs/"
+    },
+    {
+      "fact": "Ulanzi nennt im deutschen Amazon-Angebot des U-Pad III eine Klemmbreite von 10 bis 23 cm.",
+      "source": "https://www.amazon.de/Halterung-ULANZI-Adapter-7-9-12-9in-Einstellbare/dp/B09F664XQQ"
+    },
+    {
+      "fact": "§ 22 KunstUrhG: Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden; wer das Spiel des Kindes filmt und online teilen will, fragt also die anderen Abgebildeten (bzw. deren Eltern).",
+      "source": "https://www.gesetze-im-internet.de/kunsturhg/__22.html"
+    },
+    {
+      "fact": "Gängige deutsche Begriffe: Tablet-Stativhalterung / iPad-Halterung fürs Stativ, Stativkopf, Kugelkopf, Schwanenhals, Bodenständer; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.amazon.de/Halterung-ULANZI-Adapter-7-9-12-9in-Einstellbare/dp/B09F664XQQ"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Im Hochformat sitzt das große iPad in Klemmhaltern wackelig, lässt sich nicht mittig ausrichten, und die Tasten sind schlecht erreichbar.",
+      "fix": "Im Querformat montieren (wie im englischen Beitrag), oder eine Halterung mit Auflage unten wählen; der JOBY greift im Hochformat nur seitlich.",
+      "quotes": [
+        {
+          "text": "Was mich beim 19790 auch stört, ist dass er im Portrait Modus insgesamt etwas wackelig ist und sich nicht gut Justieren lässt.",
+          "url": "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+        },
+        {
+          "text": "Das Ipad lässt sich nicht gut zentrieren und die Schalter sind schlecht erreichbar",
+          "url": "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+        }
+      ],
+      "sources": [
+        "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+      ]
+    },
+    {
+      "pain": "Bei Haltern, die man je nach iPad oder Hülle neu einstellen muss, nervt das ständige Nachjustieren.",
+      "fix": "Einmal die kurze Seite mit Hülle messen und eine Halterung mit passendem Bereich wählen; Ulanzi (10 bis 23 cm) deckt jedes aktuelle iPad ab, die Sperre oben hält die Breite.",
+      "quotes": [
+        {
+          "text": "Beim K&M nervt es mich, dass ich immer neu justieren muss.",
+          "url": "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+        }
+      ],
+      "sources": [
+        "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Klemmbereich direkt neben Apples metrischen Breiten (132,6 / 177,5 / 215,5 mm), damit Leser in Millimetern vergleichen.",
+      "source": "https://www.apple.com/de/ipad-pro/specs/"
+    },
+    {
+      "point": "Ulanzis eigene Klemmangabe 10 bis 23 cm aus dem deutschen Angebot statt einer Umrechnung.",
+      "source": "https://www.amazon.de/Halterung-ULANZI-Adapter-7-9-12-9in-Einstellbare/dp/B09F664XQQ"
+    },
+    {
+      "point": "Hinweis zu § 22 KunstUrhG für Eltern, die Spiele filmen und teilen wollen.",
+      "source": "https://www.gesetze-im-internet.de/kunsturhg/__22.html"
+    },
+    {
+      "point": "Antwort auf das deutsche Forum-Problem 'Hochformat wackelig': Querformat oder Auflage unten.",
+      "source": "https://www.musiker-board.de/threads/ipad-pro-12-9-halterung.728601/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "keep that the listings were checked by hand, without naming a US store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "say the listing checked was from a third-party seller, so check the seller (no store country)"
+    },
+    {
+      "english": "Best Buy owners confirm it holds a 10.2-inch iPad",
+      "action": "replace",
+      "with": "keep as 'owners on Best Buy (US retailer)' or simply 'owners' with the same source"
+    },
+    {
+      "english": "All inch and pound figures (72 in, 3.6 lb, 8.48 in, 30 feet)",
+      "action": "replace",
+      "with": "metric first with Apple's mm figures and the maker's cm figures from productFit, imperial in brackets"
+    }
+  ]
+}

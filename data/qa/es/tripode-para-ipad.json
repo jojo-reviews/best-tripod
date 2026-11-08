@@ -1,0 +1,20 @@
+{
+  "slug": "es/tripode-para-ipad",
+  "lang": "es",
+  "translationOf": "best-tripod-for-ipad",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:40:30.477Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-filming-sports/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-ipad (QA pass): same 5 products/ASINs/scores/spec keys, same FAQs and sources. Units converted metric first from the English figures (183/76 cm, 1,6 kg, clamp 10-23 cm, 15,9-23,6 cm, 12,8-19,2 cm per K&M 128-192 mm, 1,1 kg, 9 m); iPad widths 215,5/177,5/132,6 mm and 579 g re-checked on apple.com/de specs; Ulanzi 10-23 cm re-checked on Ulanzi's EU listing. Local facts from the local brief with source: AEPD FAQ 1004 on family recordings at school events (aepd.es). Grifiti unknown -> neutral US sentence; KobraTech localVariant (kit) not mentioned per OneLink rule. No testing claims (no las he probado), no prices, no local store.",
+    "at": "2026-11-08T16:40:30.068Z",
+    "hash": "1bcc990f95c04982"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-coyote-hunting",
+  "checkedAt": "2026-11-08T16:32:28.952Z",
+  "productFit": [
+    {
+      "name": "Fatboy Traverse 2 Section Tripod",
+      "asin": "B09YT3M2TS",
+      "status": "notForMarket",
+      "metricSpecs": "42,5 mm leg tubes, 47,5 mm rubber feet (maker gives only these in mm)",
+      "reason": "FatBoy's dealer list shows dealers in the US, Canada and Australia, none in Germany, Spain, the Netherlands or Belgium; the maker's own shop has an international checkout. Neutral note: mainly sold in the US through FatBoy and US dealers.",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    },
+    {
+      "name": "Warrior Tripods The Commander",
+      "asin": "B0DK7558NS",
+      "status": "unknown",
+      "metricSpecs": "41,5 mm carbon legs, 70 mm base",
+      "reason": "Warrior sells from its US shop with US prices; I found no European dealer or EU retailer listing. Neutral note: mainly sold in the US.",
+      "source": "https://warriortripods.com/product/the-commander-hunting-tripod/"
+    },
+    {
+      "name": "Vortex Radian Carbon Tripod Kit",
+      "asin": "B08SBWFJRR",
+      "status": "fits",
+      "metricSpecs": "German seller: ball head kit 25 kg max. load (leveling head kit 20 kg)",
+      "reason": "Sold by EU retailers under the same name, e.g. LSEK Industries (Germany) as \"Vortex Radian Carbon Stativ Kit\" with Kugelkopf or Nivellierkopf, and MilStore (Austria).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+      "asin": "B09KNPWK9Y",
+      "status": "fits",
+      "metricSpecs": "all4shooters measured (not maker): 2925 g, 78 cm packed, clamp about 150 cm high at 20 deg; counterweight hook max. 11,4 kg (25 lb); tube diameters about 35,4/31,8/28,2 mm",
+      "reason": "Sold in the EU as \"DeathGrip Infinite Tripod Carbon Fiber\" by the Czech online retailer STROBL.CZ; all4shooters (European hunting magazine) reviewed it from that range.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "name": "SLIK Pro 700 DX Tripod Legs",
+      "asin": "B001B2I9L8",
+      "status": "localVariant",
+      "variant": "SLIK Global (Japan) lists the PRO 700DX as a kit with the 3-way PRO 700DX HEAD: 1900 mm max with column, 760 mm folded, 3670 g total (legs 2670 g), first leg tube 30,2 mm. The legs-only set (ASIN B001B2I9L8) is a SLIK USA listing; keep the English legs-only figures (converted) in the post.",
+      "metricSpecs": "SLIK USA legs only: 1795 mm max, 700 mm folded, 2510 g",
+      "reason": "Outside the US SLIK presents the 700DX mainly as a full kit with head; the legs-only set is the US version. Product stays as in the English post.",
+      "source": "https://slik.com/products/pro-700-dx/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "DJV: since February 2020 holders of a valid Jagdschein may handle night vision front and rear attachments (Vorsatz- und Aufsatzgeraete) under weapons law (section 40 (3) WaffG); whether they may be used for hunting is set by each Bundesland (exceptions mostly for Schwarzwild).",
+      "source": "https://www.jagdverband.de/sites/default/files/2021-03/2021-03_U%CC%88bersicht_Nachtzieltechnik_in_den_La%CC%88ndern.pdf"
+    },
+    {
+      "fact": "LJV Hessen asks hunters who use night aiming tech outside Hessen to check the hunting rules of that Bundesland.",
+      "source": "https://ljv-hessen.de/nachtsichtvor-und-nachtsichtaufsaetze-was-ist-erlaubt-und-was-bleibt-verboten/"
+    },
+    {
+      "fact": "Destatis (Mikrozensus 2025): men in Germany are on average 1,79 m (179,1 cm) tall; Fatboy (182 cm) and Warrior (180 cm) reach that on the legs, the Radian (171 cm) does not.",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_23_p002.html"
+    },
+    {
+      "fact": "all4shooters measured the BOG DeathGrip Infinite CF at 2925 g and 78 cm packed, with the clamp about 150 cm high at full leg extension and 20 deg.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "fact": "Local terms: Zielstock / Schiessstock (Dreibein), Kugelkopf, Nivellierkopf (leveling base), Arca-Swiss-Schiene, Ansitz, Nachtjagd.",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "German night hunters say tripod rests are steadier than two-leg sticks but bulkier and slower to get ready.",
+      "fix": "Set the tripod up before calling or before the game comes, legs wide, thickest sections out; the 2-section Fatboy and Warrior need one lock per leg.",
+      "quotes": [
+        {
+          "text": "Übertreffen Zweibeiner in puncto Stabilität, können jedoch sperriger sein und die Einsatzbereitschaft verzögern.",
+          "url": "https://nighthunting.eu/faq-praxistipps-zur-nachtjagd/soll-ich-einen-zielstock-fuer-die-nachtpirsch-nutzen/"
+        }
+      ],
+      "sources": [
+        "https://nighthunting.eu/faq-praxistipps-zur-nachtjagd/soll-ich-einen-zielstock-fuer-die-nachtpirsch-nutzen/"
+      ]
+    },
+    {
+      "pain": "A clamp rest should not mark a wooden stock, and the rifle should stay where you let go of it.",
+      "fix": "all4shooters found the DeathGrip clamp held the rifle without damaging the wood stock and kept its position when tilted and turned; owners still report residue from the soft jaw liner (English post).",
+      "quotes": [
+        {
+          "text": "the gun could be fixed in a stable and non-slip position so that the wooden surface of the stock was not damaged",
+          "url": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+        }
+      ],
+      "sources": [
+        "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+      ]
+    },
+    {
+      "pain": "Practice: a rest only helps if you have used it before the hunt.",
+      "fix": "Practice off the tripod before the season (matches the English post's Predator Masters tip).",
+      "quotes": [
+        {
+          "text": "Üben Sie den Einsatz des Zielstocks vor der Jagd, um im Jagdfall routiniert agieren zu können.",
+          "url": "https://nighthunting.eu/faq-praxistipps-zur-nachtjagd/soll-ich-einen-zielstock-fuer-die-nachtpirsch-nutzen/"
+        }
+      ],
+      "sources": [
+        "https://nighthunting.eu/faq-praxistipps-zur-nachtjagd/soll-ich-einen-zielstock-fuer-die-nachtpirsch-nutzen/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Standing height measured against the German average man (179 cm, Destatis) instead of the US figure.",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_23_p002.html"
+    },
+    {
+      "point": "Legal context for night hunting with attachments in Germany: weapons law allows them for hunters, the Bundesland decides on use (DJV, LJV Hessen).",
+      "source": "https://www.jagdverband.de/sites/default/files/2021-03/2021-03_U%CC%88bersicht_Nachtzieltechnik_in_den_La%CC%88ndern.pdf"
+    },
+    {
+      "point": "European measurements of the BOG (2925 g, 78 cm packed) and the EU load figure of the Vortex ball head kit (25 kg).",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "point": "Which picks are hard to get in Europe (Fatboy, Warrior) and which are sold here (Vortex, BOG).",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The average US man is 68.9 in tall (CDC)",
+      "action": "replace",
+      "with": "Destatis: men in Germany average 1,79 m (179,1 cm)"
+    },
+    {
+      "english": "Coyote hunting framing (coyotes, predator calls, US predator forums)",
+      "action": "replace",
+      "with": "Keep coyote where it describes the sources (US predator hunters); phrase reader advice for local night hunting (de: Fuchs and Sauen am Ansitz; es: esperas nocturnas al jabalí y al zorro; nl: vossenbestrijding) without new facts"
+    },
+    {
+      "english": "own Amazon listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "I left out the Hog Saddle PIG0311 and Leofoto LS-364C because Amazon sells only a short PIG0311 variant and a newer Leofoto",
+      "action": "replace",
+      "with": "Keep that the two were left out, phrase the reason without naming Amazon availability"
+    },
+    {
+      "english": "yards (225 yards)",
+      "action": "replace",
+      "with": "metres first: 206 m (225 yd)"
+    },
+    {
+      "english": "all inch/pound figures",
+      "action": "replace",
+      "with": "metric first with the local decimal comma, imperial in brackets; maker metric figures from productFit where given"
+    }
+  ]
+}

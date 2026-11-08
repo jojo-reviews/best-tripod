@@ -1,0 +1,160 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-coyote-hunting",
+  "checkedAt": "2026-11-08T16:32:28.952Z",
+  "productFit": [
+    {
+      "name": "Fatboy Traverse 2 Section Tripod",
+      "asin": "B09YT3M2TS",
+      "status": "notForMarket",
+      "metricSpecs": "42,5 mm leg tubes, 47,5 mm rubber feet (maker gives only these in mm)",
+      "reason": "FatBoy's dealer list shows dealers in the US, Canada and Australia, none in Germany, Spain, the Netherlands or Belgium; the maker's own shop has an international checkout. Neutral note: mainly sold in the US through FatBoy and US dealers.",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    },
+    {
+      "name": "Warrior Tripods The Commander",
+      "asin": "B0DK7558NS",
+      "status": "unknown",
+      "metricSpecs": "41,5 mm carbon legs, 70 mm base",
+      "reason": "Warrior sells from its US shop with US prices; I found no European dealer or EU retailer listing. Neutral note: mainly sold in the US.",
+      "source": "https://warriortripods.com/product/the-commander-hunting-tripod/"
+    },
+    {
+      "name": "Vortex Radian Carbon Tripod Kit",
+      "asin": "B08SBWFJRR",
+      "status": "fits",
+      "metricSpecs": "German seller: ball head kit 25 kg max. load (leveling head kit 20 kg)",
+      "reason": "Sold by EU retailers under the same name, e.g. LSEK Industries (Germany) as \"Vortex Radian Carbon Stativ Kit\" with Kugelkopf or Nivellierkopf, and MilStore (Austria).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+      "asin": "B09KNPWK9Y",
+      "status": "fits",
+      "metricSpecs": "all4shooters measured (not maker): 2925 g, 78 cm packed, clamp about 150 cm high at 20 deg; counterweight hook max. 11,4 kg (25 lb); tube diameters about 35,4/31,8/28,2 mm",
+      "reason": "Sold in the EU as \"DeathGrip Infinite Tripod Carbon Fiber\" by the Czech online retailer STROBL.CZ; all4shooters (European hunting magazine) reviewed it from that range.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "name": "SLIK Pro 700 DX Tripod Legs",
+      "asin": "B001B2I9L8",
+      "status": "localVariant",
+      "variant": "SLIK Global (Japan) lists the PRO 700DX as a kit with the 3-way PRO 700DX HEAD: 1900 mm max with column, 760 mm folded, 3670 g total (legs 2670 g), first leg tube 30,2 mm. The legs-only set (ASIN B001B2I9L8) is a SLIK USA listing; keep the English legs-only figures (converted) in the post.",
+      "metricSpecs": "SLIK USA legs only: 1795 mm max, 700 mm folded, 2510 g",
+      "reason": "Outside the US SLIK presents the 700DX mainly as a full kit with head; the legs-only set is the US version. Product stays as in the English post.",
+      "source": "https://slik.com/products/pro-700-dx/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Ley 42/2007 (Annex VII) lists among prohibited methods artificial light sources, devices to light targets and sight devices with an image converter or electronic image amplifier for night shooting.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490"
+    },
+    {
+      "fact": "Each autonomous community regulates night waits; an authorization for an espera nocturna al jabali does not automatically allow a thermal or night scope, the permit must name the device (cazapop summary of the rules, informative only).",
+      "source": "https://cazapop.com/noticias-de-caza/visor-termico-nocturno-caza-legal-espana"
+    },
+    {
+      "fact": "all4shooters measured the BOG DeathGrip Infinite CF at 2925 g and 78 cm packed, clamp about 150 cm high at full extension; sold in the EU by STROBL.CZ.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "fact": "A German seller lists the Vortex Radian Carbon ball head kit at 25 kg max. load (leveling head kit 20 kg).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "fact": "Local terms: tripode de tiro / tripode de caza, rotula, cabezal nivelador, carril Arca-Swiss, espera, aguardo, puesto.",
+      "source": "https://www.a-alvarez.com/caza/tripodes_horquillas_y_bipodes"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Spanish espera hunters say the rifle rest on top of a cheap tripod wobbles and tips the rifle forward or back under the weight of the rifle and scope.",
+      "fix": "A ball head or leveling base under an Arca clamp, rifle balanced before the wait (English post fix for tilt and wiggle).",
+      "quotes": [
+        {
+          "text": "le veo poca estabilidad y por el peso del rifle y el visor tiende a moverse si no está perfectamente equilibrado",
+          "url": "https://www.esperasjabali.com/foro/index.php?topic=5142.0"
+        }
+      ],
+      "sources": [
+        "https://www.esperasjabali.com/foro/index.php?topic=5142.0"
+      ]
+    },
+    {
+      "pain": "Hunters set up the tripod and then still shoot off-hand out of habit.",
+      "fix": "Practice off the tripod before the season and swing through the shooting lanes once before the wait.",
+      "quotes": [
+        {
+          "text": "me pasa una pieza y la sigo tirando a pulso, ni me acuerdo del trípode",
+          "url": "https://www.tuslances.com/phorum5/read.php?4,327254"
+        }
+      ],
+      "sources": [
+        "https://www.tuslances.com/phorum5/read.php?4,327254"
+      ]
+    },
+    {
+      "pain": "Every gram counts when the tripod is carried a lot.",
+      "fix": "Carbon (Fatboy 2,7 kg, BOG 2,9 kg) if you walk; the 2,5 kg aluminium SLIK when the car is close.",
+      "quotes": [
+        {
+          "text": "cualquier gramo que te quites de pes, parece que no pero es fundamental",
+          "url": "https://www.tuslances.com/phorum5/read.php?4,327254"
+        }
+      ],
+      "sources": [
+        "https://www.tuslances.com/phorum5/read.php?4,327254"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Legal context for night waits in Spain: Ley 42/2007 bans night-shooting sight devices as a method; regional permits must name the device.",
+      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490"
+    },
+    {
+      "point": "Answers the Spanish espera complaints (wobbly rest, tilt, habit of shooting off-hand) with the matching fix.",
+      "source": "https://www.esperasjabali.com/foro/index.php?topic=5142.0"
+    },
+    {
+      "point": "European measurements of the BOG (2925 g, 78 cm packed) and the 25 kg EU figure for the Vortex ball head kit.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "point": "Which picks are hard to get in Europe (Fatboy, Warrior) and which are sold here (Vortex, BOG).",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The average US man is 68.9 in tall (CDC)",
+      "action": "replace",
+      "with": "Keep it as a clearly US figure (175 cm, CDC) and phrase the advice as \"compare with your own eye height\"; no official Spanish figure found"
+    },
+    {
+      "english": "Coyote hunting framing (coyotes, predator calls, US predator forums)",
+      "action": "replace",
+      "with": "Keep coyote where it describes the sources (US predator hunters); phrase reader advice for local night hunting (de: Fuchs and Sauen am Ansitz; es: esperas nocturnas al jabalí y al zorro; nl: vossenbestrijding) without new facts"
+    },
+    {
+      "english": "own Amazon listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "I left out the Hog Saddle PIG0311 and Leofoto LS-364C because Amazon sells only a short PIG0311 variant and a newer Leofoto",
+      "action": "replace",
+      "with": "Keep that the two were left out, phrase the reason without naming Amazon availability"
+    },
+    {
+      "english": "yards (225 yards)",
+      "action": "replace",
+      "with": "metres first: 206 m (225 yd)"
+    },
+    {
+      "english": "all inch/pound figures",
+      "action": "replace",
+      "with": "metric first with the local decimal comma, imperial in brackets; maker metric figures from productFit where given"
+    }
+  ]
+}

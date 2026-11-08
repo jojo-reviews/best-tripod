@@ -1,0 +1,20 @@
+{
+  "slug": "de/bestes-stativ-fuer-red-komodo",
+  "lang": "de",
+  "translationOf": "best-tripod-for-red-komodo",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:34:53.517Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-red-komodo: same 5 products/ASINs/scores/spec keys, every figure converted metric first (RED 2.10 lb = 0,95 kg, 1.98 lb = 0,90 kg, 4.08 lb = 1,85 kg; head ratings 12/8/12/10/6 kg; heights and folded lengths per maker metric pages). Re-opened reddigitalcinema.com/komodo (2.10 lbs without body cap and CFast card), sachtler.com FSB 8 75/2 AL GS Mk II page (SKU 0781A, 0-12 kg, 15+0 CB, 59-175 cm, 5,6 kg; 87 cm kept from the one-sheet as in English), Sachtler Ace XL flowtech75 MS Mk II page (1016MS, 0-8 kg, 41-173 cm, 85 cm, 5,3 kg), SmallRig 5305 page (23-166 cm, 3,7 kg, 6/15 kg). Local facts from the local brief: Lufthansa 55x40x23 cm/8 kg, BBFC Miniteam rule, DSLR-Forum quote verbatim. English quotes paraphrased, not presented as verbatim. No testing/ownership claims, no prices, no local Amazon store claims; 3 outside links in body.",
+    "at": "2026-11-08T16:34:53.089Z",
+    "hash": "048b153000b52e5a"
+  }
+}

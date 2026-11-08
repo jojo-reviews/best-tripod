@@ -1,0 +1,125 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-ipad",
+  "checkedAt": "2026-11-08T16:32:00Z",
+  "productFit": [
+    {
+      "name": "elitehood Metal iPad Tripod Stand",
+      "asin": "B08S777F1H",
+      "status": "fits",
+      "metricSpecs": "Listing text: extends from 76 cm to 183 cm including the gooseneck (same as the English 30 to 72 in).",
+      "reason": "Same ASIN B08S777F1H listed on www.amazon.es.",
+      "source": "https://www.amazon.es/elitehood-Soporte-Ajustable-Pulgadas-tabletas/dp/B08S777F1H"
+    },
+    {
+      "name": "Ulanzi U-Pad III Metal iPad Tripod Mount",
+      "asin": "B09C59W5VG",
+      "status": "fits",
+      "metricSpecs": "Listing text: clamp width 10 cm to 23 cm (3.93 to 9 in), aluminium alloy, Arca-Swiss mount; weight not given there, keep 199 g from B&H.",
+      "reason": "Sold on www.amazon.es as ULANZI U-Pad III under EU ASIN B09F664XQQ (same name and clamp range; OneLink keeps the US ASIN in the post).",
+      "source": "https://www.amazon.es/Soporte-Tr%C3%ADpode-ULANZI-Adaptador-MatePad/dp/B09F664XQQ"
+    },
+    {
+      "name": "GRIFITI Nootle Large Universal Tablet Mount Adjustable Stand Tripod",
+      "asin": "B01CZ12EHI",
+      "status": "unknown",
+      "metricSpecs": "No maker metric page; keep the English figures converted: about 1,8 m (6 ft) stand, 1,1 kg (2.4 lb) kit, tablets 24 to 37 cm (9.5 to 14.5 in) screen size, 1,6 cm (5/8 in) lip.",
+      "reason": "No EU retailer or local Amazon listing found; Grifiti is a US maker selling from grifiti.com (US phone number, prices in USD), and only import marketplaces such as Ubuy list the kit in Europe. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://grifiti.com/products/grifiti-nootle-universal-large-tablet-mount"
+    },
+    {
+      "name": "KobraTech TabMount 360 iPad Tripod Mount",
+      "asin": "B086R8X9XF",
+      "status": "localVariant",
+      "variant": "KobraTech TabMount kit: the TabMount 360 mount sold together with an adjustable 68 in tripod, ball head and Bluetooth remote",
+      "metricSpecs": "No maker metric page; keep the English figures converted: clamp 15,9 to 23,6 cm (6.25 to 9.30 in), remote up to 9 m (30 ft).",
+      "reason": "An Amazon.es tablet-tripod category page lists the KobraTech TabMount as a kit with a 68-inch tripod; no Spanish listing of the mount alone was found. Same mount, so the post keeps the product unchanged.",
+      "source": "https://www.amazon.es/Soportes-tablets-Tr%C3%ADpode-Accesorios/s?rh=n%3A56164444031%2Cp_n_g-1003465562111%3A34399008031"
+    },
+    {
+      "name": "JOBY GripTight PRO Tablet Mount",
+      "asin": "B01GP8KEH4",
+      "status": "fits",
+      "metricSpecs": "K&M Camera (English source) gives the clamp as 128 to 192 mm; use 12,8 to 19,2 cm and 145 g.",
+      "reason": "Same ASIN B01GP8KEH4 listed on www.amazon.es.",
+      "source": "https://www.amazon.es/JOBY-GripTight-Pro-tabletas-Incluyendo/dp/B01GP8KEH4"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple indica para el iPad Pro de 13\" una anchura de 215,5 mm y 579 g (Wi-Fi), y para el de 11\" 177,5 mm y 444 g.",
+      "source": "https://www.apple.com/es/ipad-pro/specs/"
+    },
+    {
+      "fact": "Apple indica para el iPad mini una anchura de 132,6 mm y 255 g (Wi-Fi).",
+      "source": "https://www.apple.com/es/ipad-mini/specs/"
+    },
+    {
+      "fact": "Ulanzi indica en su ficha de Amazon.es para el U-Pad III un ancho de abrazadera de 10 a 23 cm.",
+      "source": "https://www.amazon.es/Soporte-Tr%C3%ADpode-ULANZI-Adaptador-MatePad/dp/B09F664XQQ"
+    },
+    {
+      "fact": "La AEPD explica que las imágenes que toman los familiares en eventos escolares para uso doméstico quedan fuera del RGPD, pero publicarlas 'en abierto' en redes sociales sí necesita el consentimiento de los afectados.",
+      "source": "https://www.aepd.es/preguntas-frecuentes/10-menores-y-educacion/FAQ-1004-se-pueden-tomar-imagenes-o-grabar-videos-en-eventos-escolares"
+    },
+    {
+      "fact": "Términos habituales en España: soporte de trípode para tablet, adaptador de trípode para iPad, rótula de bola, cuello de cisne, soporte de suelo; Arca-Swiss se llama igual.",
+      "source": "https://www.amazon.es/Soporte-Tr%C3%ADpode-ULANZI-Adaptador-MatePad/dp/B09F664XQQ"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Familias que graban partidos o festivales del colegio con el iPad quieren compartir el vídeo y no saben qué está permitido.",
+      "fix": "Grabar para uso doméstico y pedir consentimiento antes de publicar en abierto (AEPD); un trípode alto en la banda evita grabar a otros de cerca.",
+      "quotes": [],
+      "sources": [
+        "https://www.aepd.es/preguntas-frecuentes/10-menores-y-educacion/FAQ-1004-se-pueden-tomar-imagenes-o-grabar-videos-en-eventos-escolares"
+      ]
+    },
+    {
+      "pain": "El iPad de 13\" no cabe en soportes 'universales' con la funda puesta.",
+      "fix": "Medir el lado corto con funda (215,5 mm sin funda) y elegir una abrazadera que pase de esa medida: Ulanzi hasta 23 cm, KobraTech hasta 23,6 cm.",
+      "quotes": [],
+      "sources": [
+        "https://www.apple.com/es/ipad-pro/specs/",
+        "https://www.amazon.es/Soporte-Tr%C3%ADpode-ULANZI-Adaptador-MatePad/dp/B09F664XQQ"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Rango de abrazadera junto a las anchuras métricas de Apple (132,6 / 177,5 / 215,5 mm).",
+      "source": "https://www.apple.com/es/ipad-pro/specs/"
+    },
+    {
+      "point": "Cifra de Ulanzi en cm de su ficha española (10 a 23 cm) en lugar de una conversión.",
+      "source": "https://www.amazon.es/Soporte-Tr%C3%ADpode-ULANZI-Adaptador-MatePad/dp/B09F664XQQ"
+    },
+    {
+      "point": "Qué dice la AEPD sobre grabar y publicar vídeos de menores en eventos escolares.",
+      "source": "https://www.aepd.es/preguntas-frecuentes/10-menores-y-educacion/FAQ-1004-se-pueden-tomar-imagenes-o-grabar-videos-en-eventos-escolares"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "keep that the listings were checked by hand, without naming a US store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "say the listing checked was from a third-party seller, so check the seller (no store country)"
+    },
+    {
+      "english": "Best Buy owners confirm it holds a 10.2-inch iPad",
+      "action": "replace",
+      "with": "keep as 'owners on Best Buy (US retailer)' or simply 'owners' with the same source"
+    },
+    {
+      "english": "All inch and pound figures (72 in, 3.6 lb, 8.48 in, 30 feet)",
+      "action": "replace",
+      "with": "metric first with Apple's mm figures and the maker's cm figures from productFit, imperial in brackets"
+    }
+  ]
+}

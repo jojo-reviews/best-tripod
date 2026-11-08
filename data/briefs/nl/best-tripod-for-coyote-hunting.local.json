@@ -1,0 +1,147 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-coyote-hunting",
+  "checkedAt": "2026-11-08T16:32:28.952Z",
+  "productFit": [
+    {
+      "name": "Fatboy Traverse 2 Section Tripod",
+      "asin": "B09YT3M2TS",
+      "status": "notForMarket",
+      "metricSpecs": "42,5 mm leg tubes, 47,5 mm rubber feet (maker gives only these in mm)",
+      "reason": "FatBoy's dealer list shows dealers in the US, Canada and Australia, none in Germany, Spain, the Netherlands or Belgium; the maker's own shop has an international checkout. Neutral note: mainly sold in the US through FatBoy and US dealers.",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    },
+    {
+      "name": "Warrior Tripods The Commander",
+      "asin": "B0DK7558NS",
+      "status": "unknown",
+      "metricSpecs": "41,5 mm carbon legs, 70 mm base",
+      "reason": "Warrior sells from its US shop with US prices; I found no European dealer or EU retailer listing. Neutral note: mainly sold in the US.",
+      "source": "https://warriortripods.com/product/the-commander-hunting-tripod/"
+    },
+    {
+      "name": "Vortex Radian Carbon Tripod Kit",
+      "asin": "B08SBWFJRR",
+      "status": "fits",
+      "metricSpecs": "German seller: ball head kit 25 kg max. load (leveling head kit 20 kg)",
+      "reason": "Sold by EU retailers under the same name, e.g. LSEK Industries (Germany) as \"Vortex Radian Carbon Stativ Kit\" with Kugelkopf or Nivellierkopf, and MilStore (Austria).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+      "asin": "B09KNPWK9Y",
+      "status": "fits",
+      "metricSpecs": "all4shooters measured (not maker): 2925 g, 78 cm packed, clamp about 150 cm high at 20 deg; counterweight hook max. 11,4 kg (25 lb); tube diameters about 35,4/31,8/28,2 mm",
+      "reason": "Sold in the EU as \"DeathGrip Infinite Tripod Carbon Fiber\" by the Czech online retailer STROBL.CZ; all4shooters (European hunting magazine) reviewed it from that range.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "name": "SLIK Pro 700 DX Tripod Legs",
+      "asin": "B001B2I9L8",
+      "status": "localVariant",
+      "variant": "SLIK Global (Japan) lists the PRO 700DX as a kit with the 3-way PRO 700DX HEAD: 1900 mm max with column, 760 mm folded, 3670 g total (legs 2670 g), first leg tube 30,2 mm. The legs-only set (ASIN B001B2I9L8) is a SLIK USA listing; keep the English legs-only figures (converted) in the post.",
+      "metricSpecs": "SLIK USA legs only: 1795 mm max, 700 mm folded, 2510 g",
+      "reason": "Outside the US SLIK presents the 700DX mainly as a full kit with head; the legs-only set is the US version. Product stays as in the English post.",
+      "source": "https://slik.com/products/pro-700-dx/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "FBE Fryslan: Provincie Fryslan granted an exemption (ontheffing) for controlling foxes at night with artificial light and/or night vision equipment to protect meadow birds, valid 1 December to 30 June; extended on 8 April 2026 until 30 June 2028. Rules differ per province.",
+      "source": "https://fbefryslan.nl/ontheffing-vos-in-de-nacht-2021-2023/"
+    },
+    {
+      "fact": "CBS: men aged 20 or older in the Netherlands were on average 1,81 m tall in 2018; Fatboy (182 cm) reaches that on the legs, Warrior (180 cm) almost.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "fact": "all4shooters measured the BOG DeathGrip Infinite CF at 2925 g and 78 cm packed, clamp about 150 cm high at full extension; sold in the EU by STROBL.CZ.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "fact": "A German seller lists the Vortex Radian Carbon ball head kit at 25 kg max. load (leveling head kit 20 kg).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "fact": "Local terms: schietstok (driepoot), tripod, balhoofd, nivelleerbasis, Arca-Swiss-rail, vossenbestrijding, aanzit.",
+      "source": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A tripod shooting stick has to stand firm before you lean on it.",
+      "fix": "Press the feet in (spikes out on frozen or muddy ground), legs wide, then test with light pressure before the rifle goes on.",
+      "quotes": [
+        {
+          "text": "De ondersteuning installeert u eenvoudig door deze eerst stevig in de grond te nestelen",
+          "url": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+        }
+      ],
+      "sources": [
+        "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+      ]
+    },
+    {
+      "pain": "Changing height by moving the legs closer or wider changes stability.",
+      "fix": "Reach shooting height on the thickest sections at the widest stop that still works; do not narrow the legs or use the centre column for height.",
+      "quotes": [
+        {
+          "text": "Pas de hoogte van een driebenige-schietstok aan door de benen verder uit elkaar of juist dichter bij elkaar te plaatsen.",
+          "url": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+        }
+      ],
+      "sources": [
+        "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Standing height measured against the Dutch average man (1,81 m, CBS).",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "point": "Legal context: night fox control in the Netherlands runs under provincial exemptions (example Fryslan, artificial light and night vision, 1 Dec - 30 June).",
+      "source": "https://fbefryslan.nl/ontheffing-vos-in-de-nacht-2021-2023/"
+    },
+    {
+      "point": "European measurements of the BOG (2925 g, 78 cm packed) and the 25 kg EU figure for the Vortex ball head kit.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "point": "Which picks are hard to get in Europe (Fatboy, Warrior) and which are sold here (Vortex, BOG).",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The average US man is 68.9 in tall (CDC)",
+      "action": "replace",
+      "with": "CBS: Dutch men 20+ average 1,81 m"
+    },
+    {
+      "english": "Coyote hunting framing (coyotes, predator calls, US predator forums)",
+      "action": "replace",
+      "with": "Keep coyote where it describes the sources (US predator hunters); phrase reader advice for local night hunting (de: Fuchs and Sauen am Ansitz; es: esperas nocturnas al jabalí y al zorro; nl: vossenbestrijding) without new facts"
+    },
+    {
+      "english": "own Amazon listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "I left out the Hog Saddle PIG0311 and Leofoto LS-364C because Amazon sells only a short PIG0311 variant and a newer Leofoto",
+      "action": "replace",
+      "with": "Keep that the two were left out, phrase the reason without naming Amazon availability"
+    },
+    {
+      "english": "yards (225 yards)",
+      "action": "replace",
+      "with": "metres first: 206 m (225 yd)"
+    },
+    {
+      "english": "all inch/pound figures",
+      "action": "replace",
+      "with": "metric first with the local decimal comma, imperial in brackets; maker metric figures from productFit where given"
+    }
+  ]
+}

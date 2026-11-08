@@ -1,0 +1,127 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-red-komodo",
+  "checkedAt": "2026-11-08T16:30:38.000Z",
+  "productFit": [
+    {
+      "name": "Sachtler System FSB 8 Mk II 75/2 AL GS Tripod System",
+      "asin": "B09LJ186JS",
+      "status": "localVariant",
+      "variant": "Sachtler's own product page lists this system as SKU 0781A (System FSB 8 75/2 AL GS Mk II); the Amazon US listing in the English post carries the US code 0771AM. Same FSB 8 Mk II head, 75/2 AL Mk II legs, ground spreader SP 75, carry handle and padded bag.",
+      "metricSpecs": "Sachtler: payload 0-12 kg, 15+0 counterbalance, 7+0 drag, 75 mm bowl, height 59-175 cm, weight 5,6 kg, sliding range 12 cm, tilt +90/-70 degrees. The page gives 88 cm transport length while the English post uses 87 cm (34.3 in) from Sachtler's one-sheet; keep 87 cm so the versions match.",
+      "reason": "Sachtler's dealer list on the same page names Teltec AG (Berlin) and Teltec Wien for this market.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    },
+    {
+      "name": "Sachtler System Ace XL Flowtech75 MS Mk II Carbon Fibre Tripod",
+      "asin": "B0D4YH3RKC",
+      "status": "fits",
+      "metricSpecs": "Sachtler (SKU 1016MS, same code in the EU and US): payload 0-8 kg, 9+0 counterbalance, 3+0 drag, 41-169 cm without spreader, 78-173 cm with mid-level spreader, 85 cm transport length, 5,3 kg, sliding range 10,4 cm.",
+      "reason": "Sold under the same name and SKU 1016MS by EU dealers.",
+      "source": "https://teltec.de/sachtler-system-ace-xl-flowtech75-ms-mk-ii.html"
+    },
+    {
+      "name": "Manfrotto 504X Fluid Video Head with Twin Aluminum Tripod",
+      "asin": "B08BZMCKSX",
+      "status": "fits",
+      "metricSpecs": "Manfrotto/EU dealers (MVK504XTWINMA): max height 169 cm, weight 5,6 kg, payload 12 kg, counterbalance up to 6,5 kg at 55 mm centre of gravity (steps 2,2 / 4,4 / 6,5 kg plus 0). Min height 75 cm and folded 86 cm converted from the English post.",
+      "reason": "Same code MVK504XTWINMA on Manfrotto's site and at EU dealers.",
+      "source": "https://www.manfrotto.com/global-de/fluid-videokopf-504x-mit-alu-doppelrohrstativ-ms-mvk504xtwinma/"
+    },
+    {
+      "name": "Manfrotto 502 Fluid Video Head with 055 Video Aluminum Tripod",
+      "asin": "B0DX2G56WB",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 179 cm max, 157 cm column down, 54 cm min, 79 cm folded, 4,5 kg, 10 kg payload, fixed 4 kg counterbalance (the English post's maker metric figures).",
+      "reason": "Sold under the same name by Foto Koch.",
+      "source": "https://www.fotokoch.de/Manfrotto-055-Alu-Kit-Videostativ-mit-Fluid-Kopf-3-Segmente_27355.html"
+    },
+    {
+      "name": "SmallRig x Potato Jet TRIBEX SE Hydraulic Tripod with Fluid Head",
+      "asin": "B0FM3PZKKV",
+      "status": "fits",
+      "metricSpecs": "SmallRig (SKU 5305): working height 23-166 cm, net weight 3,7 kg, head 6 kg, legs 15 kg, fixed 4 kg counterbalance. Folded 72 cm converted from the English post.",
+      "reason": "Same model 5305 sold by EU retailers (the same ASIN is listed on amazon.de and amazon.es).",
+      "source": "https://www.fotokoch.de/SmallRig-5305-x-Potato-Jet-TRIBEX-SE-hydraulisches-Stativ_56604.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg. Alle fünf Stative messen zusammengeklappt 72 bis 87 cm und wiegen 3,7 bis 5,6 kg, sie gehören also ins aufgegebene Gepäck.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Berlin Brandenburg Film Commission: Drehen auf öffentlichem Straßenland in Berlin als 'Miniteam' (max. 5 Personen, max. 1 Kamerastativ, keine Lichtaufbauten) braucht nur eine Sondernutzungserlaubnis des Bezirks; größere Drehs brauchen eine Genehmigung.",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "fact": "Kölner Dom: private Fotos und Videos sind erlaubt, Stative und ähnliche technische Hilfsmittel aber nur mit einer vorher bei der Pressestelle eingeholten Zutrittserlaubnis.",
+      "source": "https://www.koelner-dom.de/besuchen/fotografieren-und-filmen"
+    },
+    {
+      "fact": "Begriffe: Fluidkopf / Videoneiger, Halbschale (75 mm / 100 mm), Gegengewicht bzw. Gewichtsausgleich, Bodenspinne und Mittelspinne, Doppelrohrbeine; Sachtler ist ein deutscher Hersteller und vertreibt das FSB-System unter der Artikelnummer 0781A.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Photo tripods move in jerks when filming; German forum users point new filmers to a fluid head.",
+      "fix": "Every pick here has a fluid head; a travel ball head only suits locked-off shots and time-lapses (English FAQ).",
+      "quotes": [
+        {
+          "text": "Wenn Du ordentlich filmen willst, brauchst Du ein Videostativ mit Fluidkopf.",
+          "url": "https://www.dslr-forum.de/threads/stativ-zum-filmen-vertikale-feststellung.383165/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Unsure whether a tripod is allowed in cabin baggage on European flights.",
+      "fix": "All five kits fold to 72-87 cm, well over Lufthansa's 55 cm cabin limit, so they travel in checked baggage; the camera stays in the cabin bag.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Sachtler's EU article number 0781A for the FSB 8 system, so readers find the right kit at a European dealer.",
+      "source": "https://www.sachtler.com/en/product/system-fsb-8-75-2-al-gs-mk-ii/"
+    },
+    {
+      "point": "Lufthansa's 55 x 40 x 23 cm cabin limit: all five Komodo tripods (72-87 cm folded) fly as checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Berlin's Miniteam rule allows max. 1 camera tripod on public streets with only a Sondernutzung permit, which suits a one-tripod Komodo shoot.",
+      "source": "https://www.bbfc.de/drehgenehmigungen/drehen-auf-oeffentlichem-strassenland"
+    },
+    {
+      "point": "Maker metric figures (Sachtler, Manfrotto, SmallRig) instead of converted inches.",
+      "source": "https://www.sachtler.com/en/product/system-ace-xl-flowtech75-ms-mk-ii/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with its own Amazon US listing",
+      "action": "replace",
+      "with": "each with its own Amazon listing (no local store or availability claim)"
+    },
+    {
+      "english": "Canon USA link on the 1.98 lb RF 24-70mm figure",
+      "action": "drop",
+      "with": "keep the figure (0,90 kg / 1.98 lb), drop the link to free an outside-link slot for a local fact; Canon stays in sources"
+    },
+    {
+      "english": "Sachtler maker link on '0 to 12 kg with 15 counterbalance steps'",
+      "action": "drop",
+      "with": "keep the figure, drop the link (still in sources) so the body stays at max 3 outside links with the local facts"
+    }
+  ]
+}

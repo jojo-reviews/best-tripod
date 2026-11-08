@@ -1,0 +1,134 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-ipad",
+  "checkedAt": "2026-11-08T16:32:00Z",
+  "productFit": [
+    {
+      "name": "elitehood Metal iPad Tripod Stand",
+      "asin": "B08S777F1H",
+      "status": "fits",
+      "metricSpecs": "Listing text: extends from 76 cm to 183 cm including the gooseneck (same as the English 30 to 72 in).",
+      "reason": "Same ASIN B08S777F1H listed on www.amazon.nl.",
+      "source": "https://www.amazon.nl/elitehood-Verstelbare-Zwanenhals-Aluminium-4-7-12-9/dp/B08S777F1H"
+    },
+    {
+      "name": "Ulanzi U-Pad III Metal iPad Tripod Mount",
+      "asin": "B09C59W5VG",
+      "status": "fits",
+      "metricSpecs": "Listing text: clamp width 10 cm to 23 cm (3.93 to 9 in), aluminium alloy, Arca-Swiss mount; weight not given there, keep 199 g from B&H.",
+      "reason": "Sold on www.amazon.nl as ULANZI U-Pad III under EU ASIN B09F664XQQ (same name and clamp range; OneLink keeps the US ASIN in the post).",
+      "source": "https://www.amazon.nl/ULANZI-III-Metalen-Tablethouder-Verstelbare/dp/B09F664XQQ"
+    },
+    {
+      "name": "GRIFITI Nootle Large Universal Tablet Mount Adjustable Stand Tripod",
+      "asin": "B01CZ12EHI",
+      "status": "unknown",
+      "metricSpecs": "No maker metric page; keep the English figures converted: about 1,8 m (6 ft) stand, 1,1 kg (2.4 lb) kit, tablets 24 to 37 cm (9.5 to 14.5 in) screen size, 1,6 cm (5/8 in) lip.",
+      "reason": "No EU retailer or local Amazon listing found; Grifiti is a US maker selling from grifiti.com (US phone number, prices in USD), and only import marketplaces such as Ubuy list the kit in Europe. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://grifiti.com/products/grifiti-nootle-universal-large-tablet-mount"
+    },
+    {
+      "name": "KobraTech TabMount 360 iPad Tripod Mount",
+      "asin": "B086R8X9XF",
+      "status": "unknown",
+      "metricSpecs": "No maker metric page; keep the English figures converted: clamp 15,9 to 23,6 cm (6.25 to 9.30 in), remote up to 9 m (30 ft).",
+      "reason": "No www.amazon.nl or local retailer listing found; KobraTech sells from its US web shop (prices in USD). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.kobratech.com/products/new-tabmount-360-ipad-tripod-mount"
+    },
+    {
+      "name": "JOBY GripTight PRO Tablet Mount",
+      "asin": "B01GP8KEH4",
+      "status": "fits",
+      "metricSpecs": "K&M Camera (English source) gives the clamp as 128 to 192 mm; use 12,8 to 19,2 cm and 145 g.",
+      "reason": "Same ASIN B01GP8KEH4 listed on www.amazon.nl.",
+      "source": "https://www.amazon.nl/JOBY-GripTight-Pro-Tablet-Houder/dp/B01GP8KEH4"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Apple geeft voor de 13-inch iPad Pro een breedte van 215,5 mm en 579 g (wifi), en voor de 11-inch 177,5 mm en 444 g.",
+      "source": "https://www.apple.com/nl/ipad-pro/specs/"
+    },
+    {
+      "fact": "Apple geeft voor de iPad mini een breedte van 132,6 mm en 255 g (wifi).",
+      "source": "https://www.apple.com/nl/ipad-mini/specs/"
+    },
+    {
+      "fact": "Ulanzi noemt in de Amazon.nl-listing van de U-Pad III een klembreedte van 10 tot 23 cm.",
+      "source": "https://www.amazon.nl/ULANZI-III-Metalen-Tablethouder-Verstelbare/dp/B09F664XQQ"
+    },
+    {
+      "fact": "De KNVB schrijft dat op een voetbalaccommodatie (grotendeels openbare ruimte) gefilmd mag worden en dat de AVG doorgaans niet geldt als ouders voor privégebruik filmen en niet structureel of openbaar delen; in kleedkamers, douches en toiletten is filmen niet toegestaan, en bij jeugdvoetbal is extra terughoudendheid nodig.",
+      "source": "https://www.knvb.nl/assist-bestuurders/regels-bepalingen/wetgeving/maken-en-gebruiken-van-beeld"
+    },
+    {
+      "fact": "Gangbare Nederlandse termen: tablethouder voor statief, iPad-statief, statiefkop, balhoofd, zwanenhals, vloerstandaard; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://www.amazon.nl/ULANZI-III-Metalen-Tablethouder-Verstelbare/dp/B09F664XQQ"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Ouders willen de voetbalwedstrijden van hun kind langs de lijn filmen en zoeken een stabiele opstelling.",
+      "fix": "Statief van 1,8 m of hoger (elitehood 183 cm, Grifiti ongeveer 1,8 m), poten wijd, tas aan de haak; filmen voor privégebruik mag volgens de KNVB.",
+      "quotes": [
+        {
+          "text": "Ik wil de voetbalwedstrijden van mijn zoontje mooi in beeld gaan brengen met een camera langs de lijn.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2304880"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2304880",
+        "https://www.knvb.nl/assist-bestuurders/regels-bepalingen/wetgeving/maken-en-gebruiken-van-beeld"
+      ]
+    },
+    {
+      "pain": "Een tablet in een stevige hoes moet vastzitten en er niet uit los geslagen kunnen worden; een losse schuifklem is dan niet gewenst.",
+      "fix": "Kies een houder met vergrendeling: Ulanzi met slot bovenop, KobraTech met schroefklem, JOBY met vergrendelende platen.",
+      "quotes": [
+        {
+          "text": "Het is wel belangrijk dat de client de tablet niet los kan slaan, dus een schuifklem bijvoorbeeld is niet wenselijk.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2284076"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2284076"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Klembereik naast Apples metrische breedtes (132,6 / 177,5 / 215,5 mm).",
+      "source": "https://www.apple.com/nl/ipad-pro/specs/"
+    },
+    {
+      "point": "Ulanzi's eigen klemmaat 10 tot 23 cm uit de Amazon.nl-listing in plaats van een omrekening.",
+      "source": "https://www.amazon.nl/ULANZI-III-Metalen-Tablethouder-Verstelbare/dp/B09F664XQQ"
+    },
+    {
+      "point": "Wat de KNVB zegt over filmen langs de lijn bij jeugdvoetbal.",
+      "source": "https://www.knvb.nl/assist-bestuurders/regels-bepalingen/wetgeving/maken-en-gebruiken-van-beeld"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "keep that the listings were checked by hand, without naming a US store or local availability"
+    },
+    {
+      "english": "The Amazon US listing I checked was sold by a third-party seller, so check the seller before you buy.",
+      "action": "replace",
+      "with": "say the listing checked was from a third-party seller, so check the seller (no store country)"
+    },
+    {
+      "english": "Best Buy owners confirm it holds a 10.2-inch iPad",
+      "action": "replace",
+      "with": "keep as 'owners on Best Buy (US retailer)' or simply 'owners' with the same source"
+    },
+    {
+      "english": "All inch and pound figures (72 in, 3.6 lb, 8.48 in, 30 feet)",
+      "action": "replace",
+      "with": "metric first with Apple's mm figures and the maker's cm figures from productFit, imperial in brackets"
+    }
+  ]
+}

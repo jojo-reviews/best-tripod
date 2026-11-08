@@ -1,0 +1,134 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-dwarf-3",
+  "checkedAt": "2026-11-08T16:29:57.921Z",
+  "productFit": [
+    {
+      "name": "DWARFLAB Mini Tripod with Hydraulic Head",
+      "asin": "B0FF4G7CMJ",
+      "status": "fits",
+      "metricSpecs": "DWARFLAB: folds to 25 cm, 360° pan, +90°/-75° tilt, head 300 g; the English post keeps 775 g, 53 cm and 3,0 kg from DWARFLAB's US page, keep those.",
+      "reason": "DWARFLAB runs EU country stores (e.g. the Slovak store) with the same Mini Tripod page; a German Astrotreff owner ordered it directly from DWARFLAB.",
+      "source": "https://www.dwarflab.com/sk/products/tripod-for-dwarf-3"
+    },
+    {
+      "name": "K&F Concept 64-Inch Aluminum Travel Tripod (O234A1+BH-36)",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Sold as 163 cm / 8 kg (same as the English post).",
+      "reason": "idealo.de lists the K&F Concept O234A1+BH-36 from EU shops under the same model code.",
+      "source": "https://www.idealo.de/preisvergleich/OffersOfProduct/206761215_-o234a1-bh-36-k-f-concept.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Lever Tripod Kit",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg (Manfrotto); same as the English post.",
+      "reason": "Foto Erhardt (DE) lists MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Manfrotto 290 Xtra Aluminum Tripod Kit with 3-Way Head (MK290XTA3-3WUS)",
+      "asin": "B013JS87KO",
+      "status": "localVariant",
+      "variant": "Outside the US Manfrotto sells the same kit as MK290XTA3-3W (no 'US' suffix): 290 Xtra legs with the 804 3-way head.",
+      "metricSpecs": "Use the English post's B&H metric figures: 171,5 cm max., 136,9 cm column down, 41,9 cm min., 70,6 cm folded, 2,54 kg, 10 kg.",
+      "reason": "Manfrotto lists the kit as MK290XTA3-3W on its non-US store pages; the product images are named mk290xta3-3w.",
+      "source": "https://www.manfrotto.com/ca-en/290-xtra-aluminium-3-section-tripod-with-head-mk290xta3-3w/"
+    },
+    {
+      "name": "Sky-Watcher Star Adventurer Tripod",
+      "asin": "B081T81PXQ",
+      "status": "fits",
+      "metricSpecs": "Astroshop gives 69,5-121,5 cm and 1,8 kg (retailer, not maker); keep the English figures 63,5-113,7 cm and 2,35 kg so numbers match the English post.",
+      "reason": "Astroshop (DE, also .es/.nl) sells the Sky-Watcher tripod for AZ-5/AZ-GTi/Star Adventurer under the same name.",
+      "source": "https://www.astroshop.de/stative/skywatcher-stativ-fuer-az-5-az-gti-az-pronto-und-star-adventurer/p,55848"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: hand baggage including handles and wheels max. 55 x 35 x 25 cm; by folded length the DWARFLAB Mini Tripod (25 cm), the K&F Concept (39,5 cm) and the Befree Advanced (40 cm) fit, the 290 Xtra (70,6 cm) does not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "The Netherlands spans from about 50°45' N (southernmost point, Zuid-Limburg) to 53°32' N (Rottumerplaat), so the EQ-mode tilt to latitude is roughly 51 to 53,5 degrees (about 52° in Amsterdam).",
+      "source": "https://nl.scoutwiki.org/Uiterste_Geografisch_punten"
+    },
+    {
+      "fact": "Nationaal Park Lauwersmeer has been a Dark Sky Park since October 2016; at night access is the same as by day (roads and paths), with recommended spots such as Lauwersnest and the hemelplatforms.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    },
+    {
+      "fact": "Dutch terms: statief, middenzuil, balhoofd, 3-weg-kop / pan-tiltkop, hydraulische kop, snelkoppelplaat, 1/4\"-schroefdraad, draaisluiting, klemsluiting, poolhoogte / breedtegraad.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Wind on the open Dutch coast and polders sets even sturdy tripods vibrating, which stretches stars in 60 s EQ subs.",
+      "fix": "Column down, thin sections in, weight under the tripod; a 3-section tripod (290 Xtra) on exposed spots.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    },
+    {
+      "pain": "A raised centre column costs a lot of stability.",
+      "fix": "Compare height with the column down (116 cm K&F, 128 cm Befree, 136,9 cm 290 Xtra), as the table does.",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        },
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "The EQ tilt angle for the Netherlands (about 51 to 53,5 degrees).",
+      "source": "https://nl.scoutwiki.org/Uiterste_Geografisch_punten"
+    },
+    {
+      "point": "Which picks fit KLM hand baggage (55 x 35 x 25 cm) by folded length.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Where to set up in the Lauwersmeer Dark Sky Park and its night access rule.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    },
+    {
+      "point": "Height with the column down as the yardstick, as Dutch forum users advise.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Imperial-first figures (54 in, 67.5 in, 27.8 in, 5.6 lb, 25 to 44.75 in, 5.2 lb, 1.25 in legs)",
+      "action": "replace",
+      "with": "Metric first from the specs (136,9 cm, 171,5 cm, 70,6 cm, 2,54 kg, 63,5-113,7 cm, 2,35 kg, 3,2 cm) with imperial in brackets."
+    },
+    {
+      "english": "Manfrotto 290 Xtra model code MK290XTA3-3WUS",
+      "action": "replace",
+      "with": "Keep the product name unchanged; mention in the text that the kit is sold as MK290XTA3-3W outside the US."
+    },
+    {
+      "english": "Befree Advanced (US kit code MKBFRLA4BK-BHUS on the source)",
+      "action": "replace",
+      "with": "Mention the EU set code MKBFRLA4BK-BH in the text."
+    }
+  ]
+}

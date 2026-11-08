@@ -1,0 +1,137 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-zwo-am5",
+  "checkedAt": "2026-11-08T16:30:55Z",
+  "productFit": [
+    {
+      "name": "ZWO TC40 Carbon Fiber Tripod",
+      "asin": "B0FPJDF2XF",
+      "status": "fits",
+      "metricSpecs": "2,3 kg, 50 cm transport length, 47-80 cm height, 50 kg load (ZWO via shop listings; same as the English post).",
+      "reason": "Sold by EU astronomy shops under the same name (Astroshop.eu 'ZWO Tripod TC40 for AM3 / AM5 / AM7', Astrocity.es 'Trípode TC40 carbono', Ganymedes.nl 'ZWO TC40 statief'); forum.astronomie.de lists 2,3 kg, 50 cm and 47-80 cm.",
+      "source": "https://www.astroshop.eu/tripods-mounts/zwo-tripod-tc40-for-am3-am5-am7/p,75629"
+    },
+    {
+      "name": "INNOREL RT90C Carbon Fiber Tripod",
+      "asin": "B091CS41ZB",
+      "status": "localVariant",
+      "variant": "amazon.de and amazon.com.be list the RT90C as a set with the BL75N 75 mm bowl adapter (ASIN B07H8V8WWM); same 40 mm carbon legs, 160 cm, 40 kg.",
+      "metricSpecs": "160 cm max, 40 mm tubes, 40 kg load (EU listing title; same as the English post).",
+      "reason": "Same tripod sold in the EU with a bowl adapter in the box; do not name the local store in the post (OneLink).",
+      "source": "https://www.amazon.com.be/-/en/INNOREL-RT90C-Professional-Systematic-Adapter/dp/B07H8V8WWM"
+    },
+    {
+      "name": "iOptron LiteRoc Tripod",
+      "asin": "B0BKKDDJVX",
+      "status": "fits",
+      "metricSpecs": "Teleskop-Express lists the # 7623 LiteRoc 1.75\" steel tripod for CEM40 and GEM45; keep the English figures (765-1.168 mm, 6,8 kg).",
+      "reason": "Teleskop-Express (DE) sells the #7623 LiteRoc on its own; Astroshop sells the 'Stativ LiteRoc CEM40/HAE43/HEM44/GEM45'.",
+      "source": "https://www.teleskop-express.de/en/ioptron-101/tripods-piers-polar-wedges-80/ioptron-7623-literoc-1-75-steel-tripod-for-cem40-and-gem45-mounts-15471"
+    },
+    {
+      "name": "iOptron Tri-Pier",
+      "asin": "B01LXD0IWA",
+      "status": "fits",
+      "metricSpecs": "100 kg payload, 11,6 kg, 144 mm pier (High Point Scientific, as the English post); iOptron's manual gives ~11,7 kg self weight, keep the English 11,6 kg.",
+      "reason": "Astroshop.de sells the 'Säulenstativ Tri-Pier - iOptron'.",
+      "source": "https://www.astroshop.de/saeulenstative/ioptron-saeulenstativ-tri-pier/p,48974"
+    },
+    {
+      "name": "Celestron Heavy Duty CPC Tripod",
+      "asin": "B001FBO7IO",
+      "status": "notForMarket",
+      "reason": "Astroshop.eu lists the Celestron Heavy duty tripod for CPC 1100 as 'Product not available anymore'; Celestron's own page shows it as a US item. Mainly a US product now: one neutral sentence in its 'Who it's for' text.",
+      "source": "https://www.astroshop.eu/tripods-mounts/celestron-heavy-duty-tripod-for-cpc-1100/p,15446"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg. The TC40 (50 cm folded) fits by length; the RT90C (59 cm) and the Tri-Pier (65 cm) go in checked baggage.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Sternenpark Westhavelland (Brandenburg) has ten official Beobachtungsplätze for amateur astronomers; several have concrete pads or a Plattenweg for telescopes, others are meadows; visitors are asked to stay on the paths. Spikes for meadows, the tripod's own feet on concrete.",
+      "source": "https://www.visithavelland.de/natur-und-sternenpark/beobachtungstipps"
+    },
+    {
+      "fact": "In the German Astrotreff forum, owners point to Berlebach wooden tripods (UNI 18) with the PE200 as the stable alternative to the TC40 for an AM5; Berlebach is not on this list because it has no own Amazon listing.",
+      "source": "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+    },
+    {
+      "fact": "German terms: Stativ, Säulenverlängerung (PE200), Säulenstativ (Tri-Pier), Harmonic-/Strain-Wave-Montierung, Gegengewicht, Einnorden / Polausrichtung, Zuladung / Tragkraft, Ablageplatte / Spreizteller, 3/8-Zoll-Gewinde.",
+      "source": "https://www.astroshop.de/saeulenstative/ioptron-saeulenstativ-tri-pier/p,48974"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The TC40 feels too low (80 cm) for comfortable polar alignment.",
+      "fix": "Add the 200 mm PE200 (about 1.000 mm) or pick the taller LiteRoc / CPC tripod.",
+      "quotes": [
+        {
+          "text": "das TC40 direkt von ZWO: wirkt irgendwie sehr niedrig mit nur 80cm, stell ich mir etwas anstrengend beim Polar Alignment vor",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+      ]
+    },
+    {
+      "pain": "Without a counterweight the centre of gravity sits off-centre, so a small leg circle can tip over.",
+      "fix": "Hang weight low under the spreader, keep leg extensions short, or move to steel legs / the Tri-Pier for heavy scopes.",
+      "quotes": [
+        {
+          "text": "Harmonic Drives ohne Gegengewicht haben ihren Schwerpunkt weit außerhalb der Mitte. Dadurch ist die Gefahr, dass das Ganze umfällt, wesentlich größer.",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+      ]
+    },
+    {
+      "pain": "A heavy tripod defeats the point of a light mount for flying.",
+      "fix": "For flights the TC40 (2,3 kg, 50 cm) fits the Lufthansa cabin size; the heavier tripods are for car or backyard.",
+      "quotes": [
+        {
+          "text": "Man kauft sich doch die AM5 weil sie leicht und transportabel ist. Aber eine UNI18 im Flugzeug wird schwierig.",
+          "url": "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+        }
+      ],
+      "sources": [
+        "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa cabin size vs folded length: only the TC40 fits.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "German owners' worries (80 cm too low, tip-over without counterweight, heavy tripod vs flying) answered with the fixes from the English post.",
+      "source": "https://www.astrotreff.de/forum/index.php?thread/283276-zwo-am5-stabiles-stativ/"
+    },
+    {
+      "point": "Dark-sky site surface (concrete pads vs meadow) at Sternenpark Westhavelland.",
+      "source": "https://www.visithavelland.de/natur-und-sternenpark/beobachtungstipps"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Berlebach's wooden tripods and Sky-Watcher's steel EQ5-class legs are popular too, but Amazon US carries neither brand's own listing.",
+      "action": "replace",
+      "with": "Keep that both are popular alternatives but not on this list; drop 'Amazon US' and say they are left out because they don't have their own listing in the Amazon store we link to (no local store named)."
+    },
+    {
+      "english": "I kept a tripod only when ... Amazon US sells it",
+      "action": "replace",
+      "with": "'... and it has its own Amazon listing' (no 'US')."
+    },
+    {
+      "english": "28 lb / 38-56 in figures for the Celestron CPC tripod",
+      "action": "replace",
+      "with": "metric first: 12,7 kg (28 lb), 965-1.422 mm (38-56 in)"
+    }
+  ]
+}

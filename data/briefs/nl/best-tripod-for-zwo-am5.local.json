@@ -1,0 +1,124 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-zwo-am5",
+  "checkedAt": "2026-11-08T16:30:55Z",
+  "productFit": [
+    {
+      "name": "ZWO TC40 Carbon Fiber Tripod",
+      "asin": "B0FPJDF2XF",
+      "status": "fits",
+      "metricSpecs": "2,3 kg, 50 cm transport length, 47-80 cm height, 50 kg load (ZWO via shop listings; same as the English post).",
+      "reason": "Sold by EU astronomy shops under the same name (Astroshop.eu 'ZWO Tripod TC40 for AM3 / AM5 / AM7', Astrocity.es 'Trípode TC40 carbono', Ganymedes.nl 'ZWO TC40 statief'); forum.astronomie.de lists 2,3 kg, 50 cm and 47-80 cm.",
+      "source": "https://www.ganymedes.nl/product/zwo-tc40-statief/"
+    },
+    {
+      "name": "INNOREL RT90C Carbon Fiber Tripod",
+      "asin": "B091CS41ZB",
+      "status": "localVariant",
+      "variant": "amazon.de and amazon.com.be list the RT90C as a set with the BL75N 75 mm bowl adapter (ASIN B07H8V8WWM); same 40 mm carbon legs, 160 cm, 40 kg.",
+      "metricSpecs": "160 cm max, 40 mm tubes, 40 kg load (EU listing title; same as the English post).",
+      "reason": "Same tripod sold in the EU with a bowl adapter in the box; do not name the local store in the post (OneLink).",
+      "source": "https://www.amazon.com.be/-/en/INNOREL-RT90C-Professional-Systematic-Adapter/dp/B07H8V8WWM"
+    },
+    {
+      "name": "iOptron LiteRoc Tripod",
+      "asin": "B0BKKDDJVX",
+      "status": "fits",
+      "metricSpecs": "Teleskop-Express lists the # 7623 LiteRoc 1.75\" steel tripod for CEM40 and GEM45; keep the English figures (765-1.168 mm, 6,8 kg).",
+      "reason": "Teleskop-Express (DE) sells the #7623 LiteRoc on its own; Astroshop sells the 'Stativ LiteRoc CEM40/HAE43/HEM44/GEM45'.",
+      "source": "https://www.teleskop-express.de/en/ioptron-101/tripods-piers-polar-wedges-80/ioptron-7623-literoc-1-75-steel-tripod-for-cem40-and-gem45-mounts-15471"
+    },
+    {
+      "name": "iOptron Tri-Pier",
+      "asin": "B01LXD0IWA",
+      "status": "fits",
+      "metricSpecs": "100 kg payload, 11,6 kg, 144 mm pier (High Point Scientific, as the English post); iOptron's manual gives ~11,7 kg self weight, keep the English 11,6 kg.",
+      "reason": "Astroshop.de sells the 'Säulenstativ Tri-Pier - iOptron'.",
+      "source": "https://www.astroshop.de/saeulenstative/ioptron-saeulenstativ-tri-pier/p,48974"
+    },
+    {
+      "name": "Celestron Heavy Duty CPC Tripod",
+      "asin": "B001FBO7IO",
+      "status": "notForMarket",
+      "reason": "Astroshop.eu lists the Celestron Heavy duty tripod for CPC 1100 as 'Product not available anymore'; Celestron's own page shows it as a US item. Mainly a US product now: one neutral sentence in its 'Who it's for' text.",
+      "source": "https://www.astroshop.eu/tripods-mounts/celestron-heavy-duty-tripod-for-cpc-1100/p,15446"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: hand baggage, including handles and wheels, max. 55 x 35 x 25 cm; by folded length the TC40 (50 cm) fits, the RT90C (59 cm) and the Tri-Pier (65 cm) do not.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Nationaal Park Lauwersmeer has been an International Dark Sky Association Dark Sky Park since October 2016; three spots are recommended (Lauwersnest, hemelplatforms Achter de Zwarten and Vlinderbalg). The Boschplaat on Terschelling was the first Dutch Dark Sky Park in 2015.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    },
+    {
+      "fact": "Telescoop.nl: a wooden deck or roof terrace works like a sound box, every step shows in the eyepiece; set the tripod on firm ground or grass, or use vibration dampers on a hard floor. After a night outside, dew sits on the legs: wipe them before collapsing them.",
+      "source": "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+    },
+    {
+      "fact": "Dutch terms: statief, zuilverlenging (PE200), zuilstatief / tri-pier, strain wave / harmonische montering, contragewicht, poluitlijning, draagvermogen, 3/8\"-schroefdraad, spikes.",
+      "source": "https://www.astroshop.be/verlengstukken/zwo-pe160-zuilverlenging-voor-am5-am3/p,75628"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Garden decks, balconies and roof terraces pass on every step as shake.",
+      "fix": "Put the tripod on firm ground or grass; on a deck, weight the spreader and use a stiffer steel tripod or the Tri-Pier.",
+      "quotes": [
+        {
+          "text": "Een houten vlonder of dakterras werkt als een klankkast: elke stap die je zet, zie je terug in het oculair.",
+          "url": "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+        }
+      ],
+      "sources": [
+        "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+      ]
+    },
+    {
+      "pain": "Damp nights: dew on carbon and aluminium legs gets trapped in the leg locks.",
+      "fix": "Wipe the legs before collapsing, or let them dry extended indoors.",
+      "quotes": [
+        {
+          "text": "na een nacht buiten zit er vaak dauw op de poten",
+          "url": "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+        }
+      ],
+      "sources": [
+        "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM cabin size vs folded length: only the TC40 fits.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Deck/roof-terrace shake and dew care for Dutch back gardens.",
+      "source": "https://www.telescoop.nl/statieven-en-monteringen-uitgelegd/"
+    },
+    {
+      "point": "Dark Sky Parks Lauwersmeer and Boschplaat as targets for a car-side LiteRoc or Tri-Pier setup.",
+      "source": "https://www.np-lauwersmeer.nl/het-lauwersmeer/dark-sky-park/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Berlebach's wooden tripods and Sky-Watcher's steel EQ5-class legs are popular too, but Amazon US carries neither brand's own listing.",
+      "action": "replace",
+      "with": "Keep that both are popular alternatives but not on this list; drop 'Amazon US' and say they are left out because they don't have their own listing in the Amazon store we link to (no local store named)."
+    },
+    {
+      "english": "I kept a tripod only when ... Amazon US sells it",
+      "action": "replace",
+      "with": "'... and it has its own Amazon listing' (no 'US')."
+    },
+    {
+      "english": "28 lb / 38-56 in figures for the Celestron CPC tripod",
+      "action": "replace",
+      "with": "metric first: 12,7 kg (28 lb), 965-1.422 mm (38-56 in)"
+    }
+  ]
+}

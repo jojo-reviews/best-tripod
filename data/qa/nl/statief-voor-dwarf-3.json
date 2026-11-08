@@ -1,0 +1,22 @@
+{
+  "slug": "nl/statief-voor-dwarf-3",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-dwarf-3",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:35:59.853Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the nl version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-dwarf-3: same 5 products/ASINs/scores/spec keys, metric-first conversions match the English specs, FAQ answers match. Local facts from data/briefs/nl local brief: KLM 55x35x25 cm (klm.com), Netherlands latitude 50.75-53.5 deg (scoutwiki uiterste punten), Lauwersmeer Dark Sky Park night access (np-lauwersmeer.nl), Photofacts and Fok! quotes from the brief, EU codes MKBFRLA4BK-BH and MK290XTA3-3W. No prices, no testing claims, no local Amazon store.",
+    "at": "2026-11-08T16:35:59.412Z",
+    "hash": "80503f383177a3bf"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "es/tripode-para-dwarf-3",
+  "lang": "es",
+  "translationOf": "best-tripod-for-dwarf-3",
+  "pass": true,
+  "checkedAt": "2026-11-08T16:34:06.098Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/twist-lock-vs-flip-lock-tripod-legs/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-telescope/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-dwarf-3: same 5 products/ASINs/scores/spec keys, metric-first conversions match the English specs, FAQ answers match. Local facts from data/briefs/es local brief: Iberia 56x40x25 cm 10 kg (iberia.com), mainland Spain latitude 36-43.8 deg (es.wikipedia Puntos extremos), Teide Destino Starlight (volcanoteide.com), Astronomo.org quote verified verbatim on topic 40034, EU codes MKBFRLA4BK-BH and MK290XTA3-3W. No prices, no testing claims, no local Amazon store.",
+    "at": "2026-11-08T16:34:05.735Z",
+    "hash": "7b4771f6c5d4c278"
+  }
+}
