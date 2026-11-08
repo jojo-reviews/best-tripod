@@ -1,0 +1,79 @@
+{
+  "keyword": "best tripod for red komodo",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "RED Digital Cinema",
+      "type": "Company",
+      "pages": 4,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Red_Digital_Cinema",
+      "from": "2026-11-08 run (TextRazor misread Komodo as the island; replaced by the camera maker)"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.54,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.83,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Sachtler",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Sachtler",
+      "wikidata": "Q824333",
+      "kgmid": "/m/0bmcj_s"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.73,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "kgmid": "/m/025_1lk",
+      "wikidata": "Q635963",
+      "idsChecked": true,
+      "from": "2026-11-08 run (ids from sony-fx3 file)"
+    },
+    {
+      "entity": "SmallRig",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.6,
+      "wiki": "",
+      "wikidata": "Q123286410",
+      "idsChecked": true,
+      "from": "2026-11-08 run (ids from sony-fx3 file)"
+    }
+  ],
+  "errors": [
+    "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-NJp3Ztu3GsIQ0ow6UUamkU&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"NJp3Ztu3GsIQ0ow6UUamkU\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'KRpFrv09YzRoztg0tJHXUAn936q6.w0kGCCWoH94VlQ-1794137388-1.2.1.1-G9ZLcBginAYpckW.M5B3ezsEbUj0Y6srgjKIuwSr46d0GA5JA6Vl5tWPnZsAu.MJ',cITimeS: '1794137388',cN: 'NJp3Ztu3GsIQ0ow6UUamkU',cRay: 'a5743df37c6426b4',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail\\u0026__cf_chl_tk=vi9s0TvceLmsWk5pTKQNCP0mOVq7VPTmlQAOpCYsaOk-1794137388-1.0.1.1-Yeg3rC_h8An2Dzuet6is5a2dJZXUMJVRizFtmIc0iDs\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail\\u0026__cf_chl_f_tk=vi9s0TvceLmsWk5pTKQNCP0mOVq7VPTmlQAOpCYsaOk-1794137388-1.0.1.1-Yeg3rC_h8An2Dzuet6is5a2dJZXUMJVRizFtmIc0iDs\",md: 'IXAqLIHi0WbbP3dED2MGvO71L80zK4zCgLDvLFlfp0M-1794137388-1.2.1.1-Ns4A7pb.byiR1W8KpTvwZ.yOI3z4jTwwhVeIcQua.IqdL8Dr69NOWVlv.TN5fWogAdjwgmnEAbzv6Jj1h.lb1Eb3t1KDxuY0WCPOE2CzeiB0RZXDBdJd1hu8ov18TjU1c8YuY.ryef8aJEba25mMlfsCUhbzRencbazVKlLijfscaH_7SUd8knm68Wcb16HUJsgMnjOzDOYokxc.ZJk8QTH0d6ZLGB2pO751HrEi24ow3GJ5_LJoG1d7bZR4V7_o2G0OEiamqZTJSEFb1CVw0QE6S70irf5Ny9oncM6D5oa_QYjUrOwbzVhQrUPYEDQNXpRRML43huQzOJaczfeYHdjkWD5H8ZV6_.Sdj5HxSRkYEesJp2.eNS8OL_WRuycQvb1KqZMjDNB5JqNrLOVHQZogbWkG5k3EhKDpqajeQvK4_E8fSCDjmZbd92NhYYyCVseW8PrQgjHcBrKOy33DH65dxG4FcON0IY05eQstYfAg3nDZqaqlru6b61WFuJjsJkJGwbBzMSZgkO29hUA8l5YGmF1ojIRywfHYPcxTs1e7BMr.ZMLtGO23jDx9b2WJXjyI2YPFG3XhU.aMjrAI_biONFGjPeFdw2wuszyImfe_n0x3Gs.R2YhEaGVwQSXjcwHF0NNLNfHdPrMWna2IiDgQAIWmihunBDAXRhP6YWnyERWUVB1Uguje0qWDMBXk7cx1tK0UZ2Wrf1nwygEQEjx.vQs0fjU39ODn28gnyijLvVTMc1sgmjC7Z1WlbXSP8N2y8eZvo156PvG4kgHEqsqI_2eZIzuxMhajsk6fafX7aac51IfHdzIKOwUej2Kdo3toQPgIWvdW9fd1QLDktmmCERTNK3Fawcosgq_Qlivx65XzLyJfTJjyO9eXoM55m_G6lMxWZlo.CI0D4U_BSonvYEIXAyOQhBVP.0LUneN_vcerW4y9w6B_45FPkVwneVbhDahN0KlvoKEqCkjuygFp.C32RYiqhfTJcvMGQUP9g4sxQx3HXC2cQi09pm9JR3q790Jj3WkMSdl6DGqY93abRj3HD9dhSbwZb3wHHu8b_fZbnXf6iJVR5D0mOHbmACVPdFpST7.AcqHNS.xwFv9XhqP7Fk1Lxse_z_MTYHYyd4dJo.8f0pf_tV2E7w7evaPLBIPhbpAZMyUK6xoWAwdtuXZibET.ssFd8UrhGyuEiCYbZRHGix9bj5MmgcCXeqJj3yxT2MTGqyrSpytdTJUB.jcd.azi2Q08AOvpsKI',mdrd: 'YC3mfe.SeHjf5aKTlCkJZnlHsOiFVhAswq9AqksVd4I-1794137388-1.2.1.1-zqEf6yU5NBV3Rn_6rMrD1gQ84WI3GODHerpUwGz_5uh67DCGha_SGWTjAeFLEhkk7l1TdWesdNNumysYEoDvRpskDsWBNNLizBtzN8SQd0JEfXkY6cIMuDbJ02FY31ojUxdkIA8ghXt_kmjwnWX50mcwGqSSQFMGUdGzyiOBGVsmdSEexVm3FScUgjRpBszYgVDYQ8TR68bZTMuxqcHQw2Ae2ICEfCEK.7_FPhF4tR5NZmI17GxDyGkEjbeeUgoyBmlyWxmqC7TPqHJL6lC8bw',};var a = document.createElement('script');a.nonce = 'NJp3Ztu3GsIQ0ow6UUamkU';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5743df37c6426b4';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail\\u0026__cf_chl_rt_tk=vi9s0TvceLmsWk5pTKQNCP0mOVq7VPTmlQAOpCYsaOk-1794137388-1.0.1.1-Yeg3rC_h8An2Dzuet6is5a2dJZXUMJVRizFtmIc0iDs\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://thepostflow.com/production/accessories/best-tripod-for-video/: <html>\n<head>\n<title>Error 403 Forbidden</title>\n</head>\n<body>\n<h1>403 Forbidden</h1>\n</body>\n</html>\n"
+  ],
+  "removed": [
+    "Komodo (island): wrong disambiguation",
+    "IOS, Web application: forum page chrome"
+  ]
+}

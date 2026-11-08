@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-for-red-komodo",
+  "pass": true,
+  "checkedAt": "2026-11-08T11:38:03.141Z",
+  "errors": [],
+  "warnings": [
+    "product \"Sachtler System FSB 8 Mk II 75/2 AL GS Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Sachtler System Ace XL Flowtech75 MS Mk II Carbon Fibre Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 504X Fluid Video Head with Twin Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 502 Fluid Video Head with 055 Video Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig x Potato Jet TRIBEX SE Hydraulic Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after wording edits 2026-11-08 (From our notes and table lead only; no new facts): all specs as in the previous fact check against reddigitalcinema.com, usa.canon.com, sachtler.com (FSB 8 Mk II page + one-sheet PDF, Ace XL flowtech75 MS Mk II page), manfrotto.com (MVK504XTWINMA, MVK502055XPRO3V), smallrig.com TRIBEX SE 5305 and the SmallRig Amazon listing; ASINs B09LJ186JS, B0D4YH3RKC, B08BZMCKSX, B0DX2G56WB, B0FM3PZKKV in stock on Amazon US; owner quotes verbatim on REDUSER and in Reddit search excerpts.",
+    "at": "2026-11-08T11:38:02.760Z",
+    "hash": "c77ee2e5e97966be"
+  }
+}

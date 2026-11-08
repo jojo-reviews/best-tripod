@@ -403,9 +403,9 @@ faqs:
       A cage, monitor and mic push it toward a 6 to 8 kg head.
   - q: Do I need a fluid head for the FX3?
     a: >-
-      Yes, if the FX3 moves while recording. A fluid head adds drag to pans
-      and tilts so they start and stop smoothly; a ball head is fine for
-      locked-off interviews and time-lapses but moves in jerks when loosened.
+      Yes, if the FX3 moves while recording. A fluid head adds drag to pans and
+      tilts so they start and stop smoothly; a ball head is fine for locked-off
+      interviews and time-lapses but moves in jerks when loosened.
   - q: Can I use a photo tripod with the Sony FX3?
     a: >-
       Yes, for static shots. The Peak Design Travel Tripod carries an FX3
@@ -449,9 +449,10 @@ videos:
     afterHeading: 5
 heroImage: /images/featured/best-tripod-for-sony-fx3.png
 heroAlt: >-
-  Best Tripod for Sony FX3 – 5 Picks Matched to Your Rig Weight – Best
-  Tripod buying guide
+  Best Tripod for Sony FX3 – 5 Picks Matched to Your Rig Weight – Best Tripod
+  buying guide
 related:
+  - best-tripod-for-red-komodo
   - best-tripod-for-elgato-prompter
   - best-tripod-for-recording-school-plays
 ---

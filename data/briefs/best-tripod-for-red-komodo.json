@@ -1,0 +1,318 @@
+{
+  "centralEntity": "tripod for RED Komodo",
+  "entityVariants": [
+    "RED Komodo tripod",
+    "tripod for Komodo 6K",
+    "Komodo-X tripod",
+    "fluid head tripod for RED Komodo",
+    "cinema camera tripod"
+  ],
+  "entities": [
+    { "name": "RED Komodo 6K", "type": "Product", "relation": "the camera the tripod carries; 2.10 lb body", "salience": 0.9 },
+    { "name": "RED Digital Cinema", "type": "Company", "relation": "maker of the Komodo and Komodo-X", "salience": 0.8 },
+    { "name": "Tripod (photography)", "type": "Concept", "relation": "the product category", "salience": 0.83, "pages": 2 },
+    { "name": "fluid head", "type": "Concept", "relation": "the head type every top page recommends for Komodo video", "salience": 0.7 },
+    { "name": "counterbalance", "type": "Concept", "relation": "spring setting that holds a tilted rig; decides the head", "salience": 0.6 },
+    { "name": "Sachtler", "type": "Company", "relation": "maker of the FSB 8 and Ace XL heads Komodo owners name most", "salience": 0.3, "pages": 2 },
+    { "name": "Manfrotto", "type": "Company", "relation": "maker of the 504X and 502 kits", "salience": 0.5 },
+    { "name": "SmallRig", "type": "Company", "relation": "maker of the TRIBEX SE hydraulic tripod", "salience": 0.4 },
+    { "name": "75mm bowl", "type": "Concept", "relation": "leveling mount on most picks", "salience": 0.5 },
+    { "name": "Komodo-X", "type": "Product", "relation": "heavier sibling, 2.62 lb body", "salience": 0.4 },
+    { "name": "camera cage", "type": "Concept", "relation": "adds weight and mounting points to a Komodo rig", "salience": 0.4 },
+    { "name": "Lens", "type": "Concept", "relation": "lens weight sets the rig weight", "salience": 0.54, "pages": 3 },
+    { "name": "Camera", "type": "Concept", "relation": "generic", "salience": 0.56, "pages": 3 }
+  ],
+  "attributes": [
+    "head payload range (fluid head)",
+    "counterbalance steps or fixed counterbalance weight (fluid head)",
+    "drag steps (fluid head)",
+    "bowl size 75mm or 100mm (tripod legs)",
+    "maximum and minimum height (tripod legs)",
+    "transport length (tripod legs)",
+    "system weight (tripod)",
+    "leg material aluminum or carbon fiber (tripod legs)",
+    "spreader type mid-level or ground (tripod legs)",
+    "rig weight of the Komodo build (camera)"
+  ],
+  "ngrams": [
+    "fluid head",
+    "flowtech 75",
+    "carbon fiber legs",
+    "camera build weight",
+    "75mm bowl",
+    "mid-level spreader",
+    "travel tripod",
+    "counterbalance steps"
+  ],
+  "skipgrams": [
+    "Komodo…tripod",
+    "fluid…head",
+    "lightweight…tripod",
+    "counterbalance…steps",
+    "carbon…legs",
+    "rig…weight"
+  ],
+  "nlpTerms": [
+    "payload",
+    "drag",
+    "tilt",
+    "pan",
+    "cage",
+    "monitor",
+    "V-mount battery",
+    "cine lens",
+    "matte box",
+    "follow focus",
+    "spreader",
+    "half ball",
+    "sideload plate",
+    "global shutter"
+  ],
+  "questions": [
+    "What is the best tripod for a RED Komodo?",
+    "How much does a RED Komodo rig weigh on a tripod?",
+    "Do I need a 75mm or 100mm bowl for a RED Komodo?",
+    "Does a RED Komodo need a fluid head with counterbalance?",
+    "Will these tripods fit the RED Komodo-X?",
+    "Is the iFootage Komodo fluid head made for the RED Komodo?",
+    "Can I use a travel tripod with a RED Komodo?"
+  ],
+  "answerTerms": {
+    "What is the best tripod for a RED Komodo?": ["fluid head", "payload", "counterbalance", "75mm bowl"],
+    "How much does a RED Komodo rig weigh on a tripod?": ["2.10 lb", "lens", "cage", "monitor", "camera build weight"],
+    "Do I need a 75mm or 100mm bowl for a RED Komodo?": ["75mm bowl", "100mm bowl", "payload", "half ball"],
+    "Does a RED Komodo need a fluid head with counterbalance?": ["counterbalance", "tilt", "spring back", "drag"],
+    "Will these tripods fit the RED Komodo-X?": ["Komodo-X", "2.62 lb", "payload"],
+    "Is the iFootage Komodo fluid head made for the RED Komodo?": ["iFootage", "Komodo K5", "name"],
+    "Can I use a travel tripod with a RED Komodo?": ["travel tripod", "locked-off", "ball head", "fluid head"]
+  },
+  "contentGaps": [
+    "No top page weighs a Komodo build and compares it with each head's counterbalance range",
+    "No top page explains why fixed-counterbalance heads spring back with a stripped Komodo",
+    "No top page gives a chooser by rig type (stripped, mid-weight, fully built, run-and-gun)",
+    "Forum threads list tripods but no specs, heights or folded lengths"
+  ],
+  "commonPoints": [
+    "A RED Komodo needs a fluid head for moving shots",
+    "The tripod depends on how heavily the Komodo is rigged and which lens is on it",
+    "Sachtler FSB and Ace heads on flowtech 75 legs are the most named Komodo setup",
+    "Small Komodo builds can use lighter travel tripods for locked-off work",
+    "Buying too little tripod is the common regret"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Rig math: Komodo 6K 2.10 lb + Canon RF 24-70mm F2.8L 1.98 lb = 4.08 lb bare. Counterbalance windows: FSB 8 Mk II 0-26.5 lb in 15 steps, Ace XL Mk II 0-17.6 lb in 9 steps, 504X steps at 4.85/9.7/14.33 lb, 502 fixed 8.82 lb, TRIBEX SE fixed 4 kg (8.8 lb). A bare 4.08 lb Komodo is under half the fixed 8.8 lb heads, so they suit a built rig near 8.8 lb, while the 0-start Sachtlers balance a stripped body.",
+      "source": "https://www.reddigitalcinema.com/komodo",
+      "absentFrom": [
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/",
+        "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by Komodo build: stripped body and one zoom or prime with pans -> a 0-start counterbalance head (FSB 8 or Ace XL); built rig near 8.8 lb on a budget -> Manfrotto 502 + 055 or TRIBEX SE; heavy cine glass, matte box and V-mount -> 504X on 100mm-bowl twin legs or FSB 8; run-and-gun solo -> TRIBEX SE.",
+      "source": "https://www.sachtler.com/en/product/fsb-8-mk-ii/",
+      "absentFrom": [
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/",
+        "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "A light camera on a fixed-counterbalance head springs back or drifts (r/videography owners report it with an 8.8 lb minimum and with a 7 lb camera); the fix is to weigh the rig and match it to the head's counterbalance, or add the monitor and battery the rig will carry anyway.",
+      "source": "https://www.reddit.com/r/videography/comments/1st7nco/question_does_counterbalance_matter_on_video/",
+      "absentFrom": [
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The iFootage Komodo K5/K5S/K7 fluid heads share the name but are not RED products; the K5 counterbalance is listed at 2.5 kg (5.5 lb), which a built RED Komodo outweighs.",
+      "source": "https://www.cined.com/gear-guides/best-travel-tripods-for-video-and-small-fluid-heads/",
+      "absentFrom": [
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "komodo-rig-outgrows-tripod",
+      "pain": "The Komodo rig grows past the tripod's rating once a monitor, cine lens and matte box go on",
+      "details": "On REDUSER a Komodo owner warns that adding a monitor, cinema prime, focus knob and matte box puts the rig over the tripod's weight, and advises a tripod rated 5 to 10 lb above the usual build.",
+      "sources": ["https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/"],
+      "quotes": [
+        { "text": "I would actually look at a tripod in the range of maybe 5 to 10 lbs above what your usual camera build weight is", "url": "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/" }
+      ]
+    },
+    {
+      "id": "komodo-heavy-tripod-travel",
+      "pain": "Old cinema tripods are too heavy to carry into deserts and mountains with a small Komodo",
+      "details": "A new Komodo owner asks how small a tripod can safely hold the Komodo with average lenses while being easy to travel with; replies name a Manfrotto 502 kit and Sachtler FSB 8 on carbon flowtech 75 legs.",
+      "sources": ["https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/"],
+      "quotes": [
+        { "text": "how small of a tripod could I get away with for the Komodo which will be easy to travel with", "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/" }
+      ]
+    },
+    {
+      "id": "komodo-fixed-counterbalance-springback",
+      "pain": "A light camera on a fixed-counterbalance head springs back or drifts on tilts",
+      "details": "r/videography owners ask whether an 8.8 lb minimum counterbalance causes spring-back with a lighter camera, and one with a 7 lb camera reports drift on a head whose spring cannot be changed.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1st7nco/question_does_counterbalance_matter_on_video/",
+        "https://www.reddit.com/r/videography/comments/1eu2vh/camera_too_light_for_the_tripod_head/"
+      ],
+      "quotes": [
+        { "text": "The minimum counterbalance on the fluidhead is 8.8lbs.", "url": "https://www.reddit.com/r/videography/comments/1st7nco/question_does_counterbalance_matter_on_video/" }
+      ]
+    },
+    {
+      "id": "komodo-vertical-build-light-head",
+      "pain": "A Komodo built up vertically is hard to control on a very light head",
+      "details": "A REDUSER owner keeps a 100mm head for heavier cine lenses, matte box and wireless video because a tall build is challenging on light heads.",
+      "sources": ["https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/"],
+      "quotes": [
+        { "text": "going much lighter with a camera built up vertically can be challenging for really light heads", "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/" }
+      ]
+    },
+    {
+      "id": "komodo-rig-falls-off-tripod",
+      "pain": "A fully rigged Komodo crashes to the floor when the tripod tips",
+      "details": "An r/RedCamera owner whose full Komodo rig fell from a tripod onto tile lists lessons such as always using a camera cage and adding tripod stability arms.",
+      "sources": ["https://www.reddit.com/r/RedCamera/comments/12expua/komodo_full_rig_on_tripod_crashes_to_tile_floor/"],
+      "quotes": [
+        { "text": "Have a camera cage always", "url": "https://www.reddit.com/r/RedCamera/comments/12expua/komodo_full_rig_on_tripod_crashes_to_tile_floor/" }
+      ]
+    }
+  ],
+  "stats": [
+    { "number": "2.10 lbs", "claim": "RED Komodo 6K body weight", "url": "https://www.reddigitalcinema.com/komodo", "quote": "KOMODO 6K 2.10 lbs (without body cap and CFast card)" },
+    { "number": "2.62 lbs", "claim": "RED Komodo-X body weight", "url": "https://www.reddigitalcinema.com/komodo-x", "quote": "KOMODO-X 6K weighs 2.62 lbs (without body cap and CFexpress card)." },
+    { "number": "1.98 lbs / 900 g", "claim": "Canon RF24-70mm F2.8L IS USM weight", "url": "https://www.usa.canon.com/shop/p/rf24-70mm-f2-8l-is-usm", "quote": "Weight Approx. 1.98 lbs. / 900 g" },
+    { "number": "0-12 kg, 15 + 0 steps", "claim": "Sachtler FSB 8 Mk II payload range and counterbalance steps", "url": "https://www.sachtler.com/en/product/fsb-8-mk-ii/", "quote": "Payload range 0 kg to 12 kg / 0 lb to 26.46 lb ... Counterbalance steps 15 + 0 steps" },
+    { "number": "4 kg / 8.82 lbs", "claim": "Manfrotto 502 fixed counterbalance weight", "url": "https://www.manfrotto.com/global-en/502-fluid-video-head-flat-base-with-055-video-alu-tripod-mvk502055xpro3v/", "quote": "Counterbalance Weight 4 kg / 8.82 lbs" }
+  ],
+  "videos": [
+    { "id": "x4jVWrz0K7M", "title": "How to counterbalance your Sachtler fluid head", "channel": "Sachtler", "url": "https://www.youtube.com/watch?v=x4jVWrz0K7M", "section": "How to balance a RED Komodo on a fluid head tripod" }
+  ],
+  "outline": [
+    { "h2": "RED Komodo tripod counterbalance math: bare body vs built rig", "intent": "analysis table: rig weight vs each head's payload and counterbalance", "h3": [] },
+    { "h2": "How I chose these RED Komodo tripods", "intent": "method, owner evidence", "h3": [] },
+    { "h2": "The 5 best tripods for the RED Komodo, reviewed", "intent": "product reviews", "h3": ["Sachtler FSB 8 Mk II 75/2 AL GS: best tripod for a rigged Komodo", "Sachtler Ace XL flowtech75 MS Mk II: best carbon Komodo tripod", "Manfrotto 504X with twin aluminum legs: best value tripod for heavy Komodo builds", "Manfrotto 502 with 055 video legs: best budget tripod for a mid-weight Komodo", "SmallRig x Potato Jet TRIBEX SE: fastest Komodo tripod for run-and-gun"] },
+    { "h2": "Which RED Komodo tripod should you get?", "intent": "chooser by build", "h3": [] },
+    { "h2": "How to balance a RED Komodo on a fluid head tripod", "intent": "numbered how-to", "h3": [] },
+    { "h2": "RED Komodo tripod problems owners run into, and the fix", "intent": "pain points with fixes", "h3": [] }
+  ],
+  "targetWords": 1400,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+      "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail",
+      "https://www.reddit.com/r/videography/comments/1icybp3/which_sachtler_tripod_to_buy/",
+      "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+      "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/",
+      "https://cameradecision.com/accessories/RED-Digital-Cinema-Komodo-6K"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The top results are REDUSER and Reddit threads where each tripod gets a short paragraph from an owner, plus a B&H listing; none uses pros/cons lists or spec tables per product.",
+    "avgWords": 1300,
+    "avgProducts": 6,
+    "commonSections": ["owner tripod lists", "rig weight and lens advice", "studio vs travel kit split"],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/", "title": "What tripod will you use for Komodo? - REDUSER.NET" },
+    { "position": 2, "url": "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail", "title": "Tripods & Supports for RED DIGITAL CINEMA RANGER PL ..." },
+    { "position": 3, "url": "https://www.reddit.com/r/videography/comments/1icybp3/which_sachtler_tripod_to_buy/", "title": "Which Sachtler tripod to buy? : r/videography - Reddit" },
+    { "position": 4, "url": "https://www.youtube.com/watch?v=LhNi6FA01lU", "title": "Surprisingly Versatile Travel Tripod - YouTube" },
+    { "position": 5, "url": "https://www.youtube.com/watch?v=MnWERigyvvg", "title": "Travel-proof RED Komodo X rig - YouTube" },
+    { "position": 6, "url": "https://www.facebook.com/groups/1704708206467417/posts/4275558399382372/", "title": "What tripod and head do you recommend for Red camera?" },
+    { "position": 7, "url": "https://cameradecision.com/accessories/RED-Digital-Cinema-Komodo-6K", "title": "RED Komodo 6K Recommended Accessories - Camera Decision" },
+    { "position": 8, "url": "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/", "title": "tripod question for the Komodo owners - REDUSER.NET" },
+    { "position": 9, "url": "https://lowepost.com/insider/videogear/build-the-perfect-red-komodo-camera-rig-r63/", "title": "Build the perfect Red Komodo camera rig - Video Gear" },
+    { "position": 10, "url": "https://www.youtube.com/watch?v=prh9XujkySY", "title": "RED Komodo Indie Rig: A Step-by-Step Guide - YouTube" }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": ["Komodo", "tripod", "rig", "travel", "Sachtler"],
+    "gap": "No top-10 title is a buyer guide; none starts with the keyword or matches tripods to how heavily the Komodo is rigged. No year in any title, so no year in ours."
+  },
+  "serpProducts": [
+    {
+      "name": "Sachtler FSB 8 Mk II fluid head system",
+      "pages": [
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://www.reddit.com/r/videography/comments/1icybp3/which_sachtler_tripod_to_buy/",
+        "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail"
+      ],
+      "note": "Owners pair the FSB 8 with flowtech 75 carbon legs; the Amazon US listing we link is the same FSB 8 Mk II head on Sachtler's 75/2 aluminum legs (0771AM)."
+    },
+    {
+      "name": "Sachtler Ace XL flowtech75 system",
+      "pages": [
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://bcgforums.com/threads/fluid-head-and-tripod-recommendations.49368/",
+        "https://thepostflow.com/production/accessories/best-tripod-for-video/"
+      ]
+    },
+    {
+      "name": "Manfrotto 504X Fluid Video Head with MVTTWINMA aluminum twin tripod",
+      "pages": [
+        "https://www.bhphotovideo.com/c/accessories/Tripods--Supports-for-the-RED-DIGITAL-CINEMA-DSMC2-BRAIN/1642454-REG-48207?from=detail",
+        "https://cameradecision.com/accessories/RED-Digital-Cinema-Komodo-6K"
+      ]
+    },
+    {
+      "name": "Manfrotto 502 fluid head with 055 tripod",
+      "pages": [
+        "https://reduser.net/threads/tripod-question-for-the-komodo-owners.3826028/",
+        "https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/",
+        "https://www.mediahammock.com/2020/07/31/top-4-budget-fluid-heads/"
+      ],
+      "note": "REDUSER names the 502 kit (MVK502AM) and the Manfrotto 055; Media Hammock calls the 502AH the best value budget fluid head. The Amazon listing is the 502 head on 055 video aluminum legs (MVK502055XPRO3V)."
+    },
+    {
+      "name": "SmallRig x Potato Jet TRIBEX SE",
+      "pages": [
+        "https://www.reddit.com/r/REDkomodo/comments/1oqa93f/smallrigpotato_jet_tripod/",
+        "https://www.youtube.com/watch?v=zkzmQxKA-k8",
+        "https://fstoppers.com/reviews/review-smallrig-x-potato-jet-tribex-se-tripod-712667"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": ["https://reduser.net/threads/what-tripod-will-you-use-for-komodo.185662/"],
+      "note": "Dropped: only one top-10 page, and its ball head has no drag for Komodo pans."
+    }
+  ],
+  "googleModifiers": ["komodo", "reddit"],
+  "googleSuggestFile": "data/briefs/best-tripod-for-red-komodo.suggest.json",
+  "amazonFilters": [],
+  "amazonFiltersNote": "Amazon's search page for the keyword showed only sort options in the scraped sidebar (no filter groups returned).",
+  "pendingInlinks": [
+    {
+      "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
+      "find": "Video tripod bowl size is the diameter of that cup: 75mm suits mirrorless and small cinema camera rigs, 100mm suits heavier builds, and adapters only work one way.",
+      "replace": "Video tripod bowl size is the diameter of that cup: 75mm suits mirrorless and [small cinema camera rigs like the RED Komodo](/blog/best-tripod-for-red-komodo/), 100mm suits heavier builds, and adapters only work one way."
+    },
+    {
+      "slug": "best-tripod-for-sony-fx3",
+      "find": "A camera cage, monitor and mic push a Befree Live past half its rating, so caged rigs go on the 6 kg and 8 kg heads.",
+      "replace": "A camera cage, monitor and mic push a Befree Live past half its rating, so caged rigs go on the 6 kg and 8 kg heads; heavier cinema bodies have their own [RED Komodo tripod picks](/blog/best-tripod-for-red-komodo/)."
+    }
+  ],
+  "textrazor": "Ran on 5 top URLs (B&H and The Post Flow blocked, 3 analyzed). Removed 'Komodo (island)' (wrong disambiguation) and forum chrome; kept Tripod (photography), Sachtler, Lens, Camera; added RED Digital Cinema, Manfrotto, SmallRig as covered entities."
+}
