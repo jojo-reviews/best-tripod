@@ -2615,7 +2615,7 @@
     "publishedAt": "2026-10-29T10:40:58.848Z"
   },
   {
-    "status": "replaced",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
@@ -2635,11 +2635,18 @@
     "funnel": "bofu",
     "workingTitle": "Best Tripod for Sony a6400: What Holds It Steady",
     "cluster": "camera-specific tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): sony-rumors forum #1, Amazon, r/SonyAlpha, Best Buy x2, Facebook, DPReview forum, alphashooters forum, eBay, YouTube. Very weak (forums, stores listings, eBay); easy win.",
+    "source": "ahrefs",
+    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): sony-rumors forum #1, Amazon, r/SonyAlpha, Best Buy x2, Facebook, DPReview forum, alphashooters forum, eBay, YouTube. Very weak (forums, stores listings, eBay); easy win. | 2026-11-09 Ahrefs us volume 10; angle: model body + usual lens weight, plate/mount, size class.",
     "slug": "best-tripod-for-sony-a6400",
-    "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Reset to pending 2026-11-09 (owner rule 2026-11-05 camera models); Ahrefs measured volume 10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 0,
+      "trafficPotential": 0,
+      "parentTopic": "tripod for sony a6400",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-09"
+    }
   },
   {
     "status": "published",
@@ -4259,7 +4266,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [],
@@ -4272,11 +4279,18 @@
     "funnel": "bofu",
     "workingTitle": "Best Tripod For Nikon D850",
     "cluster": "camera tripods",
-    "source": "user",
-    "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
+    "source": "ahrefs",
+    "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items | 2026-11-09 Ahrefs us volume 10; angle: model body + usual lens weight, plate/mount, size class.",
     "slug": "best-tripod-for-nikon-d850",
-    "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "Reset to pending 2026-11-09 (owner rule 2026-11-05 camera models); Ahrefs measured volume 10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": null,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-09"
+    }
   },
   {
     "status": "replaced",
@@ -8065,5 +8079,57 @@
     "rationale": "Weak-SERP test (Firecrawl, US top 10, 2026-11-01): learntimelapse niche blog, Reddit r/videography, Best Buy search, YouTube, Medium, Facebook group, B&H category, Amazon search; Wirecutter and TechGearLab only as generic best-tripod pages (2 big sites, off-intent).",
     "startedAt": "2026-11-04T11:25:31.102Z",
     "publishedAt": "2026-11-04T11:38:10.835Z"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-09T12:14:01.257Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 600,
+    "keyword": "best tripod for canon r5",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod For Canon R5",
+    "cluster": "camera models",
+    "source": "ahrefs",
+    "rationale": "Owner rule 2026-11-05 camera-model keyword; Ahrefs us volume 10 (2026-11-09). Angle: full-frame R5 body + RF 24-70/70-200 lens weight, stills and 8K video, Arca plate",
+    "slug": "best-tripod-for-canon-r5",
+    "ahrefs": {
+      "volume": 10,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": null,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-09"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-09T12:14:01.257Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 600,
+    "keyword": "best tripod for canon m50",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod For Canon M50",
+    "cluster": "camera models",
+    "source": "ahrefs",
+    "rationale": "Owner rule 2026-11-05 camera-model keyword; Ahrefs us volume 30 (2026-11-09). Angle: light APS-C mirrorless M50, vlogging and flip screen, compact/travel tripods",
+    "slug": "best-tripod-for-canon-m50",
+    "ahrefs": {
+      "volume": 30,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": null,
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-09"
+    }
   }
 ]
