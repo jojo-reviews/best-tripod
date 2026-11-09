@@ -6133,7 +6133,7 @@
     "publishedAt": "2026-11-07T11:34:38.122Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-10-22T00:00:00.000Z",
     "keyword": "best tripod for vertical shooting",
@@ -6147,7 +6147,9 @@
     "funnel": "bofu",
     "cluster": "vertical",
     "source": "user",
-    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword)."
+    "rationale": "Owner keyword list 2026-10-22; groups 1 owner keywords with the same Google intent (checked: no 4+ shared top-10 URLs with any live post or other new keyword).",
+    "startedAt": "2026-11-09T11:25:18.235Z",
+    "publishedAt": "2026-11-09T11:38:23.203Z"
   },
   {
     "status": "pending",

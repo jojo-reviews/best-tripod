@@ -1,0 +1,577 @@
+{
+  "keyword": "best tripod for vertical shooting",
+  "createdAt": "2026-11-09T11:38:23.206Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod for vertical shooting",
+    "entityVariants": [
+      "vertical shooting tripod",
+      "tripod for portrait orientation",
+      "tripod for vertical video",
+      "tripod for vertical shots",
+      "tripod for vertical shooting dslr"
+    ],
+    "entities": [
+      {
+        "name": "camera tripod",
+        "type": "Product category",
+        "relation": "central entity",
+        "salience": 0.91,
+        "pages": 3,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "Camera",
+        "type": "Device",
+        "relation": "what the tripod holds in portrait orientation",
+        "salience": 0.76,
+        "pages": 3
+      },
+      {
+        "name": "Tripod head",
+        "type": "Component",
+        "relation": "decides how the camera turns vertical",
+        "salience": 0.76,
+        "pages": 2
+      },
+      {
+        "name": "L-bracket",
+        "type": "Accessory",
+        "relation": "keeps a vertical camera centered over the tripod",
+        "salience": 0.6
+      },
+      {
+        "name": "Arca-Swiss",
+        "type": "Standard",
+        "relation": "clamp standard an L-bracket needs",
+        "salience": 0.55
+      },
+      {
+        "name": "Ball head",
+        "type": "Component",
+        "relation": "tips into a drop notch for portrait",
+        "salience": 0.55
+      },
+      {
+        "name": "Drop notch",
+        "type": "Feature",
+        "relation": "slot that lets a ball head tilt 90 degrees",
+        "salience": 0.5
+      },
+      {
+        "name": "Fluid head",
+        "type": "Component",
+        "relation": "video head; the Manfrotto 500X adds a hinged portrait plate",
+        "salience": 0.45
+      },
+      {
+        "name": "Center column",
+        "type": "Component",
+        "relation": "height and stability trade-off",
+        "salience": 0.4
+      },
+      {
+        "name": "Gimbal",
+        "type": "Device",
+        "relation": "handheld alternative for vertical video",
+        "salience": 0.3
+      },
+      {
+        "name": "Manfrotto",
+        "type": "Brand",
+        "relation": "maker of the ONE Hybrid and Befree Advanced",
+        "salience": 0.35
+      },
+      {
+        "name": "Peak Design",
+        "type": "Brand",
+        "relation": "maker of the Travel Tripod",
+        "salience": 0.3
+      },
+      {
+        "name": "SIRUI",
+        "type": "Brand",
+        "relation": "maker of the Traveler 5C",
+        "salience": 0.25
+      },
+      {
+        "name": "K&F Concept",
+        "type": "Brand",
+        "relation": "maker of the 64 inch tripod",
+        "salience": 0.25
+      }
+    ],
+    "attributes": [
+      "flip method (hinged plate, drop notch, L-bracket)",
+      "Arca-Swiss clamp",
+      "load capacity",
+      "max height",
+      "folded length",
+      "weight",
+      "pan control after the flip",
+      "leg lock type"
+    ],
+    "ngrams": [
+      "vertical shooting",
+      "portrait orientation",
+      "L bracket",
+      "drop notch",
+      "ball head",
+      "90 degree tilt",
+      "quick release plate",
+      "vertical video",
+      "Arca Swiss",
+      "center column"
+    ],
+    "skipgrams": [
+      "camera…vertically",
+      "tilt…90 degrees",
+      "L bracket…centered",
+      "ball head…notch",
+      "plate…portrait"
+    ],
+    "nlpTerms": [
+      "portrait mode",
+      "landscape orientation",
+      "9:16",
+      "reels",
+      "tripod plate",
+      "dovetail clamp",
+      "center of gravity",
+      "tip over",
+      "side-mount",
+      "counterbalance"
+    ],
+    "questions": [
+      {
+        "q": "Can any tripod shoot vertically?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "ball head",
+          "notch",
+          "90-degree tilt",
+          "tripod head"
+        ]
+      },
+      {
+        "q": "Do I need an L-bracket for vertical shooting?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "L-bracket",
+          "Arca-Swiss clamp",
+          "centered",
+          "drop notch"
+        ]
+      },
+      {
+        "q": "How do I shoot vertical on a tripod?",
+        "maps": "How to switch a tripod to vertical shooting",
+        "answerTerms": [
+          "plate",
+          "notch",
+          "L-bracket",
+          "tilt 90 degrees"
+        ]
+      },
+      {
+        "q": "What is the best tripod for vertical video?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "fluid head",
+          "portrait plate",
+          "vertical video",
+          "Manfrotto 500X"
+        ]
+      },
+      {
+        "q": "Why does my tripod sag when the camera is vertical?",
+        "maps": "Vertical shooting tripod problems owners run into, and the fix",
+        "answerTerms": [
+          "load",
+          "off-center",
+          "drop notch",
+          "tension"
+        ]
+      },
+      {
+        "q": "Best tripod for iPhone vertical shots?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "phone mount",
+          "rotating clamp",
+          "portrait"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top result compares how each tripod turns vertical (hinged plate, notch or L-bracket) side by side",
+      "Forum threads explain the L-bracket fix but name no tripod that takes one",
+      "No page links load rating headroom to an off-center camera in the notch"
+    ],
+    "commonPoints": [
+      "Most tripod heads can tilt the camera 90 degrees for portrait",
+      "An L-bracket is the cleaner fix for frequent vertical work",
+      "Arca-Swiss clamps are needed for most L-brackets",
+      "Gimbals and cages are alternatives for handheld vertical video",
+      "Stability matters more than the lightest weight"
+    ],
+    "ourGain": [
+      {
+        "type": "decision",
+        "point": "Chooser table by flip method: hinged portrait plate (Manfrotto ONE Hybrid 500X), drop notch with a separate pan knob (Befree Advanced 494 head), Arca-type clamp for an L-bracket (Peak Design, SIRUI, K&F)",
+        "source": "https://www.manfrotto.com/global-en/manfrotto-one-hybrid-alu-with-500x-fluid-head-mkonea-500x/",
+        "absentFrom": [
+          "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.thephotoforum.com/threads/how-do-you-take-vertical-shots-on-a-tripod.135938/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Off-center headroom: a camera in the drop notch sits beside the column, so keep the rig well under the rating; the SIRUI 5C 4 kg rating leaves the least margin, the K&F 8 kg and Befree 9 kg more",
+        "source": "https://www.bhphotovideo.com/c/accessories/Ball-Heads-for-the-Manfrotto-190CXPRO3/803446007-USE-47414",
+        "absentFrom": [
+          "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Peak Design Travel Tripod owners find portrait awkward because the ball joint is limited by its notches; an Arca L-bracket fixes it, after removing the clamp safety screws on some brackets",
+        "source": "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605",
+        "absentFrom": [
+          "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+          "https://www.thephotoforum.com/threads/how-do-you-take-vertical-shots-on-a-tripod.135938/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "A cheap tripod that cannot hold a camera vertically usually means a weak head or an off-center load; the fix is an L-bracket or a head rated well above the rig",
+        "source": "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/",
+        "absentFrom": [
+          "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+          "https://www.theschoolofphotography.com/tutorials/best-camera-tripod"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "vertical-cheap-tripod-cannot-hold",
+        "pain": "A budget tripod cannot hold the camera vertically",
+        "details": "An r/AskPhotography owner with an inexpensive K&F tripod finds it is not strong enough once the camera is turned vertical.",
+        "sources": [
+          "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/"
+        ],
+        "quotes": [
+          {
+            "text": "I want to hold my camera vertically however the tripod doesn't seem strong enough",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/"
+          }
+        ]
+      },
+      {
+        "id": "vertical-ball-head-portrait-pain",
+        "pain": "Portrait mode on a ball head is a pain and moves the camera off center",
+        "details": "r/AskPhotography replies about the Peak Design tripod say tipping a ball head is awkward and an L-bracket keeps the camera atop the center.",
+        "sources": [
+          "https://www.reddit.com/r/AskPhotography/comments/10p8c96/how_to_shoot_in_portrait_mode_with_peak_design/"
+        ],
+        "quotes": [
+          {
+            "text": "using an L bracket is often preferred so you can keep the camera atop the center",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/10p8c96/how_to_shoot_in_portrait_mode_with_peak_design/"
+          }
+        ]
+      },
+      {
+        "id": "vertical-l-bracket-needs-arca-clamp",
+        "pain": "An L-bracket only works with an Arca-Swiss dovetail clamp",
+        "details": "DPReview forum replies say L-brackets mount into an Arca-Swiss compatible clamp; heads with Manfrotto RC2 clamps need an adapter.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/tripod-shooting-vertically.2983513/"
+        ],
+        "quotes": [
+          {
+            "text": "They typically mount into an Arca Swiss compatible dovetail clamp",
+            "url": "https://www.dpreview.com/forums/threads/tripod-shooting-vertically.2983513/"
+          }
+        ]
+      },
+      {
+        "id": "vertical-video-remount-hassle",
+        "pain": "Switching between horizontal and vertical video means remounting the camera",
+        "details": "Creators filming reels want to flip to 9:16 without unscrewing the plate; r/FX3 replies point to an L-bracket, and a Manfrotto ONE owner calls its 500X head a gamechanger for vertical work.",
+        "sources": [
+          "https://www.reddit.com/r/FX3/comments/1ihrzmo/tripod_for_vertical_filming/",
+          "https://www.instagram.com/reel/DTu9RnQDBnL/"
+        ],
+        "quotes": [
+          {
+            "text": "Any tripod will work and you can easily get an L bracket to do vertical shooting.",
+            "url": "https://www.reddit.com/r/FX3/comments/1ihrzmo/tripod_for_vertical_filming/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "2.4 kg",
+        "claim": "Manfrotto 500X counterbalance is optimized for 2.4 kg at a 55 mm center of gravity",
+        "url": "https://www.manfrotto.com/global-en/manfrotto-one-hybrid-alu-with-500x-fluid-head-mkonea-500x/",
+        "quote": "engage the built-in Counterbalance System (CBS), optimized at 2.4 kg @55mm C.O.G."
+      },
+      {
+        "number": "5 kilograms",
+        "claim": "The 500X fluid head holds 5 kg and weighs 1.2 kg",
+        "url": "https://fstoppers.com/reviews/manfrotto-one-offers-be-your-tripod-anything-and-everything-review-and-demo-717536",
+        "quote": "It weighs 1.2 kg and can hold 5 kilograms of camera gear"
+      },
+      {
+        "number": "-90 to 40°",
+        "claim": "Manfrotto 494 ball head lateral tilt range, with a 90-degree cut notch",
+        "url": "https://www.rubbermonkey.co.nz/Manfrotto-494-Center-Ball-Head-with-Round-Disc",
+        "quote": "the lateral tilt range of the head is -90 to 40°"
+      }
+    ],
+    "videos": [
+      {
+        "id": "6WWY05Dr4FQ",
+        "title": "Manfrotto ONE Hybrid Tripod Review",
+        "channel": "YouTube reviewer",
+        "url": "https://www.youtube.com/watch?v=6WWY05Dr4FQ",
+        "section": "How to switch a tripod to vertical shooting"
+      }
+    ],
+    "outline": [
+      {
+        "h2": "Tripod for vertical shooting: how each pick turns the camera",
+        "intent": "comparison table by flip method, load, height, fold",
+        "h3": []
+      },
+      {
+        "h2": "How I picked each tripod for vertical shooting",
+        "intent": "method, evidence, owner reports",
+        "h3": []
+      },
+      {
+        "h2": "The 5 best tripods for vertical shooting, reviewed",
+        "intent": "product sections",
+        "h3": [
+          "Manfrotto ONE Hybrid Alu with 500X Fluid Head",
+          "Manfrotto Befree Advanced",
+          "Peak Design Travel Tripod (Carbon Fiber)",
+          "SIRUI Traveler 5C",
+          "K&F Concept 64 inch"
+        ]
+      },
+      {
+        "h2": "Which tripod for vertical shooting should you get?",
+        "intent": "chooser",
+        "h3": []
+      },
+      {
+        "h2": "How to switch a tripod to vertical shooting",
+        "intent": "numbered steps for notch, L-bracket and hinged plate",
+        "h3": []
+      },
+      {
+        "h2": "Vertical shooting tripod problems owners run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 2000,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+        "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "https://www.techgearlab.com/topics/electronics/best-tripod",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/"
+      ],
+      "productStyle": "paragraph",
+      "productStyleReason": "The pages that name products write a paragraph per pick (School of Photography, PremiumBeat), and TechGearLab and Pack Hacker add short pros/cons; paragraphs fit a 5-pick roundup best.",
+      "avgWords": 2390,
+      "avgProducts": 6,
+      "commonSections": [
+        "tripod head types",
+        "L-bracket",
+        "materials",
+        "height",
+        "FAQ"
+      ],
+      "usesComparisonTable": true,
+      "usesFaq": true,
+      "usesBuyingGuide": true,
+      "note": "The top 10 for the exact keyword is mostly forums, social video and stores; product evidence comes from the keyword top 10 plus the best tripod / best travel tripod top 10 (close variants, ROUTINE step 3)."
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/",
+        "title": "Tripod to hold my camera vertically? Help : r/AskPhotography"
+      },
+      {
+        "position": 2,
+        "url": "https://www.amazon.com/vertical-tripod/s?k=vertical+tripod",
+        "title": "Vertical Tripod - Amazon.com"
+      },
+      {
+        "position": 3,
+        "url": "https://www.instagram.com/reel/DTu9RnQDBnL/",
+        "title": "My favourite tripod when filming reels or any vertical content ..."
+      },
+      {
+        "position": 4,
+        "url": "https://www.facebook.com/groups/907928967430087/posts/1370685657821080/",
+        "title": "What tripods shoot both horizontal and vertical? - Facebook"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=D1sTZkOfBc8",
+        "title": "Benro SuperSlim Flip Head Tripod Kits - YouTube"
+      },
+      {
+        "position": 6,
+        "url": "https://www.premiumbeat.com/blog/5-tools-mount-camera-vertically/",
+        "title": "Your New Best Friend: 5 Tools to Mount Your Camera Vertically"
+      },
+      {
+        "position": 7,
+        "url": "https://www.tiktok.com/@jennyalicefilms/video/7597057153878281494",
+        "title": "My fave tripod for when filming reels or vertical content ... - TikTok"
+      },
+      {
+        "position": 8,
+        "url": "https://www.bhphotovideo.com/c/buy/Tripod-Systems/ci/3909",
+        "title": "Professional Video Tripod Systems - B&H Photo"
+      },
+      {
+        "position": 9,
+        "url": "https://www.youtube.com/watch?v=IKM1DsmxkNI",
+        "title": "This Tripod Trick Will Save You SO Much Time - YouTube"
+      },
+      {
+        "position": 10,
+        "url": "https://www.theschoolofphotography.com/tutorials/best-camera-tripod",
+        "title": "Best Camera Tripod Guide 2026 - The School of Photography"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 1,
+      "withNumber": 1,
+      "commonModifiers": [
+        "vertical content",
+        "reels",
+        "horizontal and vertical",
+        "mount your camera vertically"
+      ],
+      "gap": "No result sorts tripods by how they turn the camera vertical (hinged plate, drop notch or L-bracket)"
+    },
+    "googleModifiers": [
+      "best tripod for iphone vertical shots",
+      "tripod shooting positions",
+      "how to shoot vertical on tripod",
+      "how to use a shooting tripod",
+      "tripod shooting tips",
+      "tripod for vertical shooting",
+      "tripod for vertical shooting dslr"
+    ],
+    "amazonFilters": {
+      "note": "Amazon search page for the keyword showed only the sort menu (Featured, Price, Avg. Customer Review, Newest Arrivals, Best Sellers) to the scraper; no left-sidebar filter groups were readable.",
+      "groups": [
+        {
+          "group": "Sort by",
+          "options": [
+            "Featured",
+            "Price: Low to High",
+            "Price: High to Low",
+            "Avg. Customer Review",
+            "Newest Arrivals",
+            "Best Sellers"
+          ]
+        }
+      ]
+    },
+    "serpProducts": [
+      {
+        "name": "Manfrotto ONE Hybrid Alu with 500X Fluid Head",
+        "pages": [
+          "https://www.digitalcameraworld.com/buying-guides/best-tripod",
+          "https://www.instagram.com/reel/DTu9RnQDBnL/",
+          "https://fstoppers.com/reviews/manfrotto-one-offers-be-your-tripod-anything-and-everything-review-and-demo-717536"
+        ]
+      },
+      {
+        "name": "Manfrotto Befree Advanced",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844",
+          "https://www.findingtheuniverse.com/best-travel-tripods/",
+          "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/"
+        ]
+      },
+      {
+        "name": "Peak Design Travel Tripod",
+        "pages": [
+          "https://www.mattpurciel.com/blog/best-tripods-for-landscape-photography-2026.html",
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      },
+      {
+        "name": "SIRUI Traveler 5C",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      },
+      {
+        "name": "K&F Concept 64 inch",
+        "pages": [
+          "https://www.techgearlab.com/topics/electronics/best-tripod",
+          "https://www.packhacker.com/blog/general/best-travel-tripod/"
+        ]
+      }
+    ],
+    "internalLinks": [
+      "/blog/l-bracket-for-landscape-photography/",
+      "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/",
+      "/blog/best-tripod-for-camera/",
+      "/blog/best-tripod-for-live-streaming/",
+      "/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "l-bracket-for-landscape-photography",
+        "find": "I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins.",
+        "replace": "I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one."
+      },
+      {
+        "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
+        "find": "Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps.",
+        "replace": "Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps, which is one reason our [vertical shooting tripod picks](/blog/best-tripod-for-vertical-shooting/) lean on ball heads."
+      }
+    ],
+    "textrazor": {
+      "pagesAnalyzed": 3,
+      "note": "dpreview returned a Cloudflare challenge; 3 of 5 top pages analyzed"
+    }
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-fujifilm-x-t5",
+      "mode": "related-box"
+    }
+  ]
+}
