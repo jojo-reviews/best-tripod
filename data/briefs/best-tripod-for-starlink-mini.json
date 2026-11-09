@@ -1,0 +1,586 @@
+{
+  "centralEntity": "Starlink Mini tripod",
+  "entityVariants": [
+    "tripod for Starlink Mini",
+    "Starlink Mini tripod mount",
+    "Starlink Mini tripod stand",
+    "Starlink Mini battery tripod",
+    "Starlink Mini ground mount"
+  ],
+  "entities": [
+    {
+      "name": "Starlink Mini",
+      "type": "Product",
+      "relation": "the dish every tripod holds",
+      "salience": 0.91,
+      "pages": 4,
+      "textrazorName": "Starlink"
+    },
+    {
+      "name": "tripod",
+      "type": "concept",
+      "relation": "central entity",
+      "salience": 0.89,
+      "pages": 2,
+      "textrazorName": "Tripod"
+    },
+    {
+      "name": "camera tripod",
+      "type": "concept",
+      "relation": "alternative base with a 1/4\"-20 adapter",
+      "salience": 0.87,
+      "pages": 2,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "power cable",
+      "type": "concept",
+      "relation": "DC cable from battery or supply to the dish",
+      "salience": 0.59,
+      "pages": 2,
+      "textrazorName": "Power cable"
+    },
+    {
+      "name": "pipe adapter",
+      "type": "concept",
+      "relation": "Starlink part that joins the dish to the tripod",
+      "salience": 0.33,
+      "pages": 2,
+      "textrazorName": "Adapter"
+    },
+    {
+      "name": "campsite",
+      "type": "place",
+      "relation": "main use case",
+      "salience": 0.3,
+      "pages": 2,
+      "textrazorName": "Campsite"
+    },
+    {
+      "name": "kickstand",
+      "type": "product part",
+      "relation": "built-in stand the tripod replaces",
+      "salience": 0.26,
+      "pages": 2,
+      "textrazorName": "Kickstand"
+    },
+    {
+      "name": "ball head",
+      "type": "concept",
+      "relation": "lets the dish tilt and pan toward open sky",
+      "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "lithium-ion battery",
+      "type": "concept",
+      "relation": "built into battery tripods; watt-hours set flight rules",
+      "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "type": "Organization",
+      "relation": "sets the 100 Wh / 160 Wh carry-on limits",
+      "salience": 0.2,
+      "pages": 0
+    }
+  ],
+  "attributes": [
+    "pipe adapter compatibility, old and new (tripod head)",
+    "tilt and pan range (ball head vs fixed angle)",
+    "folded length (tripod)",
+    "weight (tripod)",
+    "load rating vs 1.10 kg dish (tripod)",
+    "battery capacity in Wh (battery tripod)",
+    "DC output 30V and USB-C PD (battery tripod)",
+    "pass-through charging (battery tripod)",
+    "IP67 rating (battery tripod)",
+    "ground stakes or weight hook (tripod feet)"
+  ],
+  "ngrams": [
+    "Starlink Mini tripod",
+    "tripod mount",
+    "pipe adapter",
+    "ball head",
+    "battery tripod",
+    "power bank",
+    "USB-C port",
+    "DC output",
+    "pass-through charging",
+    "clear view of the sky",
+    "ground stakes",
+    "obstruction map"
+  ],
+  "skipgrams": [
+    "tripod…wind",
+    "adapter…versions",
+    "dish…tilt",
+    "battery…hours",
+    "legs…stakes",
+    "USB-C…charging"
+  ],
+  "nlpTerms": [
+    "kickstand",
+    "field of view",
+    "obstruction map",
+    "watt-hours",
+    "IP67",
+    "alloy steel",
+    "counterweight",
+    "pass-through charging",
+    "carry case",
+    "set screw"
+  ],
+  "questions": [
+    "What is the best tripod for Starlink Mini?",
+    "Can I put a Starlink Mini on a camera tripod?",
+    "Does a Starlink Mini tripod work with the new pipe adapter?",
+    "How long does a battery tripod run a Starlink Mini?",
+    "Can I fly with a Starlink Mini battery tripod?",
+    "How do I keep a Starlink Mini tripod from blowing over?"
+  ],
+  "answerTerms": {
+    "Can I put a Starlink Mini on a camera tripod?": [
+      "1/4\"-20 thread",
+      "tripod adapter",
+      "ball head",
+      "pipe adapter"
+    ],
+    "Does a Starlink Mini tripod work with the new pipe adapter?": [
+      "new and old",
+      "pipe adapter",
+      "set screw",
+      "2025"
+    ],
+    "How long does a battery tripod run a Starlink Mini?": [
+      "watt-hours",
+      "25-40 W",
+      "hours",
+      "runtime"
+    ],
+    "Can I fly with a Starlink Mini battery tripod?": [
+      "100 Wh",
+      "160 Wh",
+      "airline approval",
+      "carry-on"
+    ],
+    "How do I keep a Starlink Mini tripod from blowing over?": [
+      "ground stakes",
+      "weight",
+      "legs spread",
+      "center hook"
+    ]
+  },
+  "contentGaps": [
+    "Flight rules per battery tripod: Daqa 108 Wh needs airline approval, Saunyoto 166 Wh and RovEdge 189 Wh are over the FAA's 160 Wh cap",
+    "Runtime calculated from Wh against the Mini's 25-40 W average draw, checked against owner runtime tests",
+    "Fixed-angle vs tilting heads: which picks can actually aim the dish",
+    "Load rating against the dish's published 1.10 kg weight"
+  ],
+  "outline": [
+    {
+      "h2": "Starlink Mini tripod comparison by weight, tilt and power",
+      "intent": "comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked each Starlink Mini tripod",
+      "intent": "selection method, sources, notes block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for Starlink Mini",
+      "intent": "product sections",
+      "h3": [
+        "Boltwasp Starlink Mini Tripod Mount",
+        "EXNOVFC Portable Starlink Mini Tripod Stand",
+        "Saunyoto PM166S",
+        "ROVEDGE MK-1",
+        "Daqa 110W Battery Pack Tripod"
+      ]
+    },
+    {
+      "h2": "Which Starlink Mini tripod should you get?",
+      "intent": "decision rule",
+      "h3": []
+    },
+    {
+      "h2": "Starlink Mini battery tripod runtime and flight limits",
+      "intent": "calculation from Wh and FAA rules",
+      "h3": []
+    },
+    {
+      "h2": "How to set up a Starlink Mini on a tripod",
+      "intent": "numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "Starlink Mini tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 1150,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://banthaoverland.com/choosing-a-starlink-tripod-adapter/",
+      "https://holderphone.com/blog/starlink-mini-tripod-portable-camping-guide",
+      "https://veritasvans.com/blog/best-starlink-mini-accessories/",
+      "https://www.ctmods.com/blogs/news/best-starlink-mini-tripod-mount-canada-camping-rv-2026-05-07"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Bantha and Holderphone present each tripod with its key specs and strengths in short lists; owner videos frame each product by what works and what doesn't.",
+    "avgWords": 1060,
+    "avgProducts": 3,
+    "commonSections": [
+      "what to look for (size, weight, head, stability)",
+      "recommended tripods",
+      "wind and anchoring",
+      "setup steps"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true,
+    "note": "The Google top 10 is mostly store listings, YouTube reviews and forum threads; starlinkrefer.com (a ranking roundup) returned 402 and PCMag cannot be fetched, so the four editorial pages above set the length."
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/Starlink-Tripod-3-Level-Height-Camping/dp/B0DQNRGYRB",
+      "title": "Starlink Mini Tripod Mount, 3-Level Height & 360° Tilt, Stable ..."
+    },
+    {
+      "position": 2,
+      "url": "https://banthaoverland.com/choosing-a-starlink-tripod-adapter/",
+      "title": "Choosing a Tripod for Your Starlink - Bantha Overland"
+    },
+    {
+      "position": 3,
+      "url": "https://www.facebook.com/groups/starlinkrv/posts/1341257284076839/",
+      "title": "Good tripod for Starlink mini? - Facebook"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=E7dhEyZBtyQ",
+      "title": "A Starlink Mini is only as good as its Tripod - YouTube"
+    },
+    {
+      "position": 5,
+      "url": "https://www.reddit.com/r/Starlink/comments/1lmz2t2/tripod_mount_that_works_on_starlink_mini/",
+      "title": "Tripod Mount that Works on Starlink Mini - Reddit"
+    },
+    {
+      "position": 6,
+      "url": "https://www.themightymount.com/products/starlink-mini-tripod-mount",
+      "title": "Starlink Mini Adjustable Tripod Mount - Mighty Mount"
+    },
+    {
+      "position": 7,
+      "url": "https://xtar-link.com/products/xtar-link-tripod-stand-for-starlink-mini",
+      "title": "XTAR-Link Portable Tripod Stand for Starlink Mini & V5"
+    },
+    {
+      "position": 8,
+      "url": "https://www.youtube.com/watch?v=L_lt9aX3JA4",
+      "title": "Starlink Mini Tripod With Integrated Battery - YouTube"
+    },
+    {
+      "position": 9,
+      "url": "https://www.irv2.com/threads/starlink-tripod.2091720/",
+      "title": "Starlink tripod | iRV2 Forums an RV LIFE Community"
+    },
+    {
+      "position": 10,
+      "url": "https://www.savageutv.com/products/starlink-mini-tripod-mount",
+      "title": "Starlink Mini Tripod Mount - Savage UTV"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 1,
+    "commonModifiers": [
+      "tripod mount",
+      "portable",
+      "integrated battery",
+      "adjustable",
+      "360° tilt"
+    ],
+    "gap": "No top-10 title compares picks or splits plain tripods from battery tripods; none says which ones can fly. No year anywhere in the top 10, so no year in our title."
+  },
+  "commonPoints": [
+    "A tripod lifts the Mini above grass, brush and parked vehicles for a clearer view of the sky",
+    "Pick a head that lets you tilt and turn the dish, such as a ball head",
+    "Spread the legs wide and weigh or stake the tripod in wind",
+    "Most Starlink Mini tripods use the pipe adapter that ships with the dish",
+    "A tripod cannot fix network congestion or weak Wi-Fi, only obstructions"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Flight check per battery tripod from FAA limits: Daqa 108 Wh (101-160 Wh needs airline approval), Saunyoto PM166S 166 Wh and ROVEDGE MK-1 189 Wh exceed 160 Wh and are forbidden on passenger aircraft; the two plain tripods have no battery and fly freely.",
+      "source": "https://www.faa.gov/hazmat/packsafe/lithium-batteries",
+      "absentFrom": [
+        "https://banthaoverland.com/choosing-a-starlink-tripod-adapter/",
+        "https://holderphone.com/blog/starlink-mini-tripod-portable-camping-guide",
+        "https://veritasvans.com/blog/best-starlink-mini-accessories/",
+        "https://www.ctmods.com/blogs/news/best-starlink-mini-tripod-mount-canada-camping-rv-2026-05-07"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Runtime from watt-hours against the Mini's published 25-40 W average draw: 108 Wh = about 2.7-4.3 h, 166 Wh = 4.2-6.6 h, 189 Wh = 4.7-7.6 h, before conversion losses; DISHYtech measured 6.5 h on the Saunyoto and Ryan Adapts saw a 22 W draw on the Daqa.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf",
+      "absentFrom": [
+        "https://banthaoverland.com/choosing-a-starlink-tripod-adapter/",
+        "https://holderphone.com/blog/starlink-mini-tripod-portable-camping-guide",
+        "https://veritasvans.com/blog/best-starlink-mini-accessories/",
+        "https://www.ctmods.com/blogs/news/best-starlink-mini-tripod-mount-canada-camping-rv-2026-05-07"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by trip type: backpacking = EXNOVFC (0.72 lb, no battery); clearing brush with aim = Boltwasp ball head; all-day camp without a power station = ROVEDGE MK-1; flying = plain tripod plus a 100 Wh-or-less power bank.",
+      "source": "own decision rule from verified specs",
+      "absentFrom": [
+        "https://banthaoverland.com/choosing-a-starlink-tripod-adapter/",
+        "https://holderphone.com/blog/starlink-mini-tripod-portable-camping-guide",
+        "https://veritasvans.com/blog/best-starlink-mini-accessories/",
+        "https://www.ctmods.com/blogs/news/best-starlink-mini-tripod-mount-canada-camping-rv-2026-05-07"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Fixed-angle stands (EXNOVFC rotates 360° but does not tilt) cannot aim the dish; owners in videos call this the main reason a tripod disappoints, so the fix is a ball head or relying on the Mini's own kickstand angle.",
+      "source": "https://www.youtube.com/watch?v=EUNj2z8jFSw",
+      "absentFrom": [
+        "https://veritasvans.com/blog/best-starlink-mini-accessories/",
+        "https://www.ctmods.com/blogs/news/best-starlink-mini-tripod-mount-canada-camping-rv-2026-05-07"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "starlink-mini-tripod-new-adapter-fit",
+      "pain": "Tripod adapters bought for the old Starlink Mini do not fit the newer pipe adapter",
+      "details": "Starlink changed the Mini pipe adapter (new bolt and diameter); owners report converter kits that do not fit the latest models.",
+      "sources": [
+        "https://www.reddit.com/r/Starlink/comments/1k7nfk9/trouble_finding_tripod_adapter_for_new_starlink/",
+        "https://www.youtube.com/watch?v=L_lt9aX3JA4"
+      ],
+      "quotes": [
+        {
+          "text": "Has anyone found a good source for camera/tripod converter kits that will fit the most recent Starlink Mini models?",
+          "url": "https://www.reddit.com/r/Starlink/comments/1k7nfk9/trouble_finding_tripod_adapter_for_new_starlink/"
+        }
+      ]
+    },
+    {
+      "id": "starlink-mini-tripod-blows-over",
+      "pain": "A tripod-mounted dish can blow over in wind",
+      "details": "RV owners hesitate to put a dish on a camera tripod and point to purpose-built tripods with ground stakes.",
+      "sources": [
+        "https://www.irv2.com/threads/starlink-tripod.2091720/"
+      ],
+      "quotes": [
+        {
+          "text": "Tripods made to support Starlink dishes typically have ground stakes.",
+          "url": "https://www.irv2.com/threads/starlink-tripod.2091720/"
+        }
+      ]
+    },
+    {
+      "id": "starlink-mini-tripod-cannot-aim",
+      "pain": "Many Starlink Mini tripods cannot tilt, so the dish points wherever the mount leaves it",
+      "details": "Owner reviews note that fixed mounts leave no way to angle the dish toward open sky.",
+      "sources": [
+        "https://www.youtube.com/watch?v=EUNj2z8jFSw"
+      ],
+      "quotes": [
+        {
+          "text": "They just kind of point in an arbitrary direction.",
+          "url": "https://www.youtube.com/watch?v=EUNj2z8jFSw"
+        }
+      ]
+    },
+    {
+      "id": "starlink-mini-battery-tripod-single-port",
+      "pain": "Some battery tripods have one USB-C port, so you cannot charge the battery while it powers the dish",
+      "details": "Owners of 30,000 mAh battery tripods report a single port, which blocks solar or car charging during use.",
+      "sources": [
+        "https://www.reddit.com/r/Starlink/comments/1txypm3/starlink_mini_tripod_30000_mah_battery_in_one/",
+        "https://www.youtube.com/watch?v=L_lt9aX3JA4"
+      ],
+      "quotes": [
+        {
+          "text": "My biggest issue is that there is just a single USB-C port for the Mini.",
+          "url": "https://www.reddit.com/r/Starlink/comments/1txypm3/starlink_mini_tripod_30000_mah_battery_in_one/"
+        }
+      ]
+    },
+    {
+      "id": "starlink-mini-battery-tripod-led-unreadable",
+      "pain": "Battery level LEDs on some tripods cannot be read in daylight",
+      "details": "DISHYtech and Freely Roaming both found the four-dot battery indicator on the Saunyoto hard to see outdoors.",
+      "sources": [
+        "https://www.youtube.com/watch?v=L_lt9aX3JA4",
+        "https://www.youtube.com/watch?v=-vFFkcMTANc"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "1.10 kg (2.43 lb)",
+      "claim": "Starlink Mini dish weight",
+      "url": "https://starlink.com/public-files/specification_sheet_mini.pdf",
+      "quote": "Weight 1.10 kg (2.43 lb)"
+    },
+    {
+      "number": "25-40 W",
+      "claim": "Starlink Mini average power consumption",
+      "url": "https://starlink.com/public-files/specification_sheet_mini.pdf",
+      "quote": "Power Consumption Average: 25-40 W"
+    },
+    {
+      "number": "96 kph+ (60 mph+)",
+      "claim": "Starlink Mini operational wind speed",
+      "url": "https://starlink.com/public-files/specification_sheet_mini.pdf",
+      "quote": "Wind Speed Operational: 96 kph+ (60 mph+)"
+    },
+    {
+      "number": "100 watt hours",
+      "claim": "FAA limit per lithium-ion battery without airline approval",
+      "url": "https://www.faa.gov/hazmat/packsafe/lithium-batteries",
+      "quote": "Lithium ion (rechargeable) batteries are limited to a rating of 100 watt hours (Wh) per battery."
+    },
+    {
+      "number": "160 Wh",
+      "claim": "Batteries above this are forbidden on passenger aircraft",
+      "url": "https://www.faa.gov/hazmat/packsafe/lithium-batteries",
+      "quote": "Batteries 0-100 Wh are allowed on passenger aircraft, exceeding 101-160 Wh require air carrier approval, and batteries exceeding 160 Wh are forbidden."
+    }
+  ],
+  "videos": [
+    {
+      "id": "L_lt9aX3JA4",
+      "title": "Starlink Mini Tripod With Integrated Battery | Saunyoto Portable Power Mount Review",
+      "channel": "DISHYtech",
+      "url": "https://www.youtube.com/watch?v=L_lt9aX3JA4",
+      "section": "Starlink Mini battery tripod runtime and flight limits"
+    }
+  ],
+  "googleModifiers": [
+    "best tripod for starlink mini reddit",
+    "best tripod mount for starlink mini",
+    "best tripod stand for starlink mini",
+    "best small tripod for starlink mini",
+    "best battery tripod for starlink mini",
+    "best starlink mini tripod adapter",
+    "best mini tripod for starlink mini"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Brands",
+      "options": [
+        "EXNOVFC",
+        "ZMHH",
+        "STARGEAR",
+        "Datop",
+        "Hugener",
+        "ORLNK",
+        "UBeesize"
+      ]
+    },
+    {
+      "group": "Price",
+      "options": [
+        "$10 to $20",
+        "$20 to $30",
+        "$30 to $40",
+        "$40 to $50"
+      ]
+    },
+    {
+      "group": "Customer Rating",
+      "options": [
+        "4 Stars & Up",
+        "5 Stars"
+      ]
+    },
+    {
+      "group": "Features",
+      "options": [
+        "Portable",
+        "Adjustable Height",
+        "360° Rotation",
+        "Includes Carry Bag"
+      ]
+    }
+  ],
+  "amazonFiltersNote": "Used the Features group (Portable, Adjustable Height, 360° Rotation, Includes Carry Bag) as table columns and pros; price and star filters are shopping-only and not used.",
+  "serpProducts": [
+    {
+      "name": "Boltwasp Starlink Mini Tripod Mount (SLM-MT-FB)",
+      "pages": [
+        "https://www.youtube.com/watch?v=EUNj2z8jFSw",
+        "https://www.youtube.com/watch?v=ySsD2sQ0f2c"
+      ]
+    },
+    {
+      "name": "EXNOVFC Portable Starlink Mini Tripod Stand",
+      "pages": [
+        "https://www.youtube.com/watch?v=E7dhEyZBtyQ",
+        "https://www.thingiverse.com/thing:7427410"
+      ]
+    },
+    {
+      "name": "Saunyoto PM166S Starlink Mini Battery Tripod",
+      "pages": [
+        "https://www.youtube.com/watch?v=L_lt9aX3JA4",
+        "https://www.youtube.com/watch?v=-vFFkcMTANc"
+      ]
+    },
+    {
+      "name": "ROVEDGE MK-1",
+      "pages": [
+        "https://www.youtube.com/watch?v=k_ZC4RJNnJM",
+        "https://www.youtube.com/watch?v=ySsD2sQ0f2c",
+        "https://www.youtube.com/watch?v=PyLQGJMfhJU"
+      ]
+    },
+    {
+      "name": "Daqa 110W Battery Pack Tripod (30000mAh, SLP-002)",
+      "pages": [
+        "https://www.youtube.com/watch?v=30NpzG8dUDg",
+        "https://www.youtube.com/watch?v=L_lt9aX3JA4",
+        "https://www.reddit.com/r/Starlink/comments/1txypm3/starlink_mini_tripod_30000_mah_battery_in_one/"
+      ]
+    }
+  ],
+  "serpProductsNote": "Products dropped: Manfrotto Element Traveller (only Bantha Overland names it for the Mini), Tesstudio Power Stand (no clear Amazon US listing under its brand), XMoving and XTAR-Link (one independent mention each).",
+  "pendingInlinks": [
+    {
+      "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
+      "find": "A camera bag, filled water bottles or a mesh bag of rocks all work; on soft ground, tent stakes replace weight entirely.",
+      "replace": "A camera bag, filled water bottles or a mesh bag of rocks all work, on a camera tripod or a [Starlink Mini tripod](/blog/best-tripod-for-starlink-mini/); on soft ground, tent stakes replace weight entirely."
+    },
+    {
+      "slug": "how-to-stop-tripod-shake-in-wind",
+      "find": "Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a grounded bag.",
+      "replace": "Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a grounded bag, the same fix that keeps a [Starlink Mini on a tripod](/blog/best-tripod-for-starlink-mini/) upright."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod mount for starlink mini",
+    "best tripod stand for starlink mini",
+    "best battery tripod for starlink mini",
+    "best small tripod for starlink mini",
+    "best starlink mini tripod adapter"
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-starlink-mini.entities.json",
+    "note": "irv2.com blocked the TextRazor fetch (Cloudflare); 4 of 5 pages analyzed."
+  }
+}

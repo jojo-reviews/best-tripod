@@ -456,6 +456,8 @@ heroImage: /images/featured/best-tripod-for-zoom-recorder.png
 heroAlt: >-
   Best Tripod for Zoom Recorder – 5 Picks From Tabletop to Mic Height – Best
   Tripod buying guide
+related:
+  - best-tripod-for-starlink-mini
 ---
 
 The best tripod for Zoom recorder owners is a rigid mini tripod rated for at least twice the recorder's weight on a desk, or a compact light stand when the microphone needs ear height. For most owners I pick the Manfrotto PIXI Mini, rated for 1 kg; for music and ambience I pick the Manfrotto 5002BL Nano Plus. Both fit the 1/4-inch tripod socket on every Zoom Handy recorder. This guide comes from maker specs and owner reports, not hands-on use. If the recorder shares a desk with a webcam, my [mini tripods for desk video calls](/blog/best-mini-tripod-for-desk-video-calls/) cover camera height too.

@@ -445,6 +445,7 @@ heroAlt: >-
   Best Tripod for Laser Level – 5 Picks by Thread and Height – Best Tripod
   buying guide
 related:
+  - best-tripod-for-starlink-mini
   - best-tripod-for-zoom-recorder
   - best-tripod-dolly
   - best-tripod-quick-release-plate

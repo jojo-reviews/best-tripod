@@ -413,8 +413,8 @@ faqs:
     a: >-
       Yes, a tripod dolly fits your tripod when the foot type and spread match:
       round or rubber feet go in clamp dollies, twin-spiked feet need cup
-      dollies. Open the tripod to its working angle and make sure the dolly
-      legs reach that far.
+      dollies. Open the tripod to its working angle and make sure the dolly legs
+      reach that far.
   - q: How much weight can a tripod dolly hold?
     a: >-
       The folding clamp dollies here are rated from 33 to 50 lb. The Manfrotto
@@ -465,6 +465,8 @@ heroImage: /images/featured/best-tripod-dolly.png
 heroAlt: >-
   Best tripod dolly picks by tripod foot type, from folding clamp dollies to
   spiked-leg floor dollies
+related:
+  - best-tripod-for-starlink-mini
 ---
 
 The best tripod dolly is the one that fits your tripod's feet, then your rig's weight. For round or rubber feet I pick the [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), a 3.97 lb folding dolly with 3 in braked wheels and a 33 lb rating. For twin-spiked cinema legs, the [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) is the cup-style floor dolly I would buy. I ranked six from maker specs and owner reviews, not hands-on use.
