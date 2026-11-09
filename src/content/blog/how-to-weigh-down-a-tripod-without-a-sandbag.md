@@ -159,7 +159,7 @@ heroAlt: >-
   Tripod guide
 ---
 
-A tripod weighed down without a sandbag needs only a weight you already have, set on the ground under it and tied taut to the center column hook. A camera bag, filled water bottles or a mesh bag of rocks all work; on soft ground, tent stakes replace weight entirely.
+A tripod weighed down without a sandbag needs only a weight you already have, set on the ground under it and tied taut to the center column hook. A camera bag, filled water bottles or a mesh bag of rocks all work, on a camera tripod or a [Starlink Mini tripod](/blog/best-tripod-for-starlink-mini/); on soft ground, tent stakes replace weight entirely.
 
 ## How to weigh down a tripod without a sandbag in 5 steps
 

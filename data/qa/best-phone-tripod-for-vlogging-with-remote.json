@@ -1,20 +1,19 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:12.959Z",
+  "checkedAt": "2026-11-09T15:45:25.474Z",
   "errors": [],
   "warnings": [
-    "body has 1853 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "body has 1866 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1904198-REG/kraftgeek_oth_ab226m_w_justtap_magnetic_smartphone_tripod.html"
+    "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-guitar-videos, no claim changed",
-    "at": "2026-11-04T16:25:05.467Z",
-    "hash": "ee464b785993b14c"
+    "notes": "added one internal link to best-iphone-tripod-that-follows-you, no claim changed",
+    "at": "2026-11-09T15:45:24.932Z",
+    "hash": "f35d8ac32690c469"
   }
 }

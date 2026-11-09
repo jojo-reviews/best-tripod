@@ -542,12 +542,14 @@
     {
       "slug": "l-bracket-for-landscape-photography",
       "find": "I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins.",
-      "replace": "I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one."
+      "replace": "I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one.",
+      "appliedAt": "2026-11-09T15:45:23.597Z"
     },
     {
       "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
       "find": "Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps.",
-      "replace": "Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps, which is one reason our [vertical shooting tripod picks](/blog/best-tripod-for-vertical-shooting/) lean on ball heads."
+      "replace": "Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps, which is one reason our [vertical shooting tripod picks](/blog/best-tripod-for-vertical-shooting/) lean on ball heads.",
+      "appliedAt": "2026-11-09T15:45:24.561Z"
     }
   ],
   "textrazor": {

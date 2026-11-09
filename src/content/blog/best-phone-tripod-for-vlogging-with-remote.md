@@ -407,7 +407,7 @@ Owners like the grippy clamp that holds an iPhone securely, legs that sit well o
 
 ### Extendable selfie stick tripod vs flexible tripod legs
 
-A phone tripod for vlogging with remote comes in two shapes. An extendable selfie stick tripod such as the KraftGeek or SENSYNE reaches standing height and doubles as a handheld stick for walking shots. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but never reaches eye level by itself. Magnetic auto-open designs such as the Ulanzi MT44M follow the stick-tripod idea.
+A phone tripod for vlogging with remote comes in two shapes. An extendable selfie stick tripod such as the KraftGeek or SENSYNE reaches standing height and doubles as a handheld stick for walking shots, while [an iPhone tripod that follows you](/blog/best-iphone-tripod-that-follows-you/) turns to keep you in frame. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but never reaches eye level by itself. Magnetic auto-open designs such as the Ulanzi MT44M follow the stick-tripod idea.
 
 ### Tripod remote range and battery
 

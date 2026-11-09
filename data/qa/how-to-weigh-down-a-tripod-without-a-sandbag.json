@@ -1,23 +1,19 @@
 {
   "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
   "pass": true,
-  "checkedAt": "2026-11-06T15:56:12.870Z",
+  "checkedAt": "2026-11-09T15:45:27.116Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
     "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "illustration 5 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/9uch4b/to_all_beginning_landscape_photographers_invest/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/"
+    "illustration 5 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (review only): TextRazor entities counterweight, center of mass, wind, telephoto lens, tripod head, long-exposure photography worked in; facts unchanged (USGS 1 kg/L, Ulanzi 2-5 kg, Center Column 20 lb test); 'video below' wording fixed; filler cut.",
-    "at": "2026-11-03T17:50:51.855Z",
-    "hash": "6947d9dc5a0df4e1"
+    "notes": "added one internal link to best-tripod-for-starlink-mini, no claim changed",
+    "at": "2026-11-09T15:45:26.653Z",
+    "hash": "06b86989b1f88db9"
   }
 }

@@ -167,7 +167,7 @@ Spikes dig into sand and mud, rock claws grip wet rock and rubber feet suit smoo
 
 ## Weigh down a tripod without making it swing
 
-**Tripod stability improves most with tethered weight on the ground, not a bag dangling in gusts.** Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a grounded bag.
+**Tripod stability improves most with tethered weight on the ground, not a bag dangling in gusts.** Photography Life says a hung backpack can swing and recommends a rope or bungee cord pulling the tripod down against a grounded bag, the same fix that keeps a [Starlink Mini on a tripod](/blog/best-tripod-for-starlink-mini/) upright.
 
 The center-column hook is the usual anchor, but light tripods may lack room (one reason heavier [long exposure tripods](/blog/best-tripod-for-long-exposure/) help); one dpreview poster found "there is extremely little room to hang my camera backpack from the hook for stability." Without a hook, we fill a stone bag on site or cord the apex to a rock, as our [no-sandbag tripod weights](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/) guide shows.
 

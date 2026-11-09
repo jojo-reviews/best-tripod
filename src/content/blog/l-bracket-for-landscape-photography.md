@@ -168,7 +168,7 @@ Centered weight matters most on light legs and uneven ground, as in our [landsca
 
 **The drop notch tips the camera off to the side and lower, while an L bracket keeps it centered.** A DPReview owner put the risk plainly: "Using the notch changes the weight distribution. If you have a heavy camera/lens combination, it can tip the tripod over sideways if you don't align the legs correctly."
 
-The notch also shifts the lens sideways, so foreground rocks move against the background. For a stitched panorama, off-center rotation adds parallax. I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins.
+The notch also shifts the lens sideways, so foreground rocks move against the background. For a stitched panorama, off-center rotation adds parallax. I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one.
 
 ## How to fit an L bracket to your camera
 

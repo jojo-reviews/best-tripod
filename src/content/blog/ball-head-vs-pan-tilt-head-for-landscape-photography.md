@@ -453,7 +453,7 @@ A geared head turns each axis with a knob, so movements are slow, small and repe
 
 ### Bulk, weight and portrait mode
 
-Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps. In portrait mode, a 3-way head tips the camera off center over the tripod; [an Arca-Swiss L-bracket](/blog/l-bracket-for-landscape-photography/) on a head with an Arca clamp keeps the weight centered instead.
+Pan tilt heads are bulkier, with levers or knobs that stick out and catch on pack straps, which is one reason our [vertical shooting tripod picks](/blog/best-tripod-for-vertical-shooting/) lean on ball heads. In portrait mode, a 3-way head tips the camera off center over the tripod; [an Arca-Swiss L-bracket](/blog/l-bracket-for-landscape-photography/) on a head with an Arca clamp keeps the weight centered instead.
 
 ## Ball Head vs Pan Tilt Head for Landscape Photography, Side by Side
 
