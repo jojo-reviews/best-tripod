@@ -1,0 +1,22 @@
+{
+  "slug": "best-iphone-tripod-that-follows-you",
+  "pass": true,
+  "checkedAt": "2026-11-09T11:39:22.067Z",
+  "errors": [],
+  "warnings": [
+    "product \"Insta360 Flow 2 Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DJI Osmo Mobile 8\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DJI Osmo Mobile 8P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Hohem iSteady M7\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"DJI Osmo Mobile 7P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker pages: Insta360 Flow 2 Pro (insta360.com: DockKit 200+ iOS apps, iPhone 12+/iOS 17 excl. SE 3rd gen and 16e, people-only DockKit, 360 infinite pan, 357 g + 25 g clamp, 130-300 g phones, 210 mm rod, tripod 94 mm, 10 h run time, MagSafe mount accessory); DJI Osmo Mobile 8 (dji.com specs: ~370 g, 170-300 g, 215 mm rod, 67 mm tripod, 360 unlimited pan, 10 h, ~5 h with module tracking); DJI Osmo Mobile 7P (DJI support + comparison: ~368 g, 215 mm, 67 mm tripod, pan -109 to 222, no DockKit, module included, built-in tripod for level windless surfaces); DJI Osmo Mobile 8P (Videomaker: 386 g, 215 mm rod, 10 h, 360 Infinite Spin, DockKit, FrameTap, Module 2 in Advanced Tracking Combo, no US launch); Hohem iSteady M7 (hohem.com: 629 g, 170-500 g, pan 360 infinite, roll +/-45, tilt -50 to 275, tripod 142.5x35 mm, 12 h / ~8 h tracking / 3-4 h with light; Amazon listing: 193 mm rod, 1.4 in remote, 1.64-22.97 ft tracking). Belkin MMA008 recall 26 Nov 2025 fire risk (gov.uk). ProVideo Coalition OM8 review for DockKit lag and tripod mounting. Amazon ASINs hand-checked in stock via Firecrawl amazon-com offer data: B0DPKV8LP7 (Insta360 Direct), B0FJ2L67HJ (thinkzone), B0G397GQZR (Amazon Germany, import), B0DQL4BWYG (hohem Direct), B07FTG84SW (thinkzone). Owner points from Reddit/Facebook/review search excerpts; quotes copied verbatim from excerpts.",
+    "at": "2026-11-09T11:39:21.583Z",
+    "hash": "bc052cda88c6f1d1"
+  }
+}

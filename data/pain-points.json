@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:29:35.750Z",
+  "updatedAt": "2026-11-09T11:38:22.613Z",
   "categories": {
     "camera-tripods": [
       {
@@ -4608,6 +4608,131 @@
         "coveredBy": [
           "best-tripod-for-zwo-am5"
         ]
+      },
+      {
+        "id": "vertical-cheap-tripod-cannot-hold",
+        "pain": "A budget tripod cannot hold the camera vertically",
+        "details": "An r/AskPhotography owner with an inexpensive K&F tripod finds it is not strong enough once the camera is turned vertical.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/",
+            "platform": "reddit",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I want to hold my camera vertically however the tripod doesn't seem strong enough",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/jet1bn/tripod_to_hold_my_camera_vertically_help/"
+          }
+        ],
+        "searches": [
+          "best tripod for vertical shooting",
+          "tripod for vertical shooting"
+        ],
+        "keywords": [
+          "best tripod for vertical shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-vertical-shooting"
+        ],
+        "foundAt": "2026-11-09"
+      },
+      {
+        "id": "vertical-ball-head-portrait-pain",
+        "pain": "Portrait mode on a ball head is a pain and moves the camera off center",
+        "details": "r/AskPhotography replies about the Peak Design tripod say tipping a ball head is awkward and an L-bracket keeps the camera atop the center.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/10p8c96/how_to_shoot_in_portrait_mode_with_peak_design/",
+            "platform": "reddit",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "using an L bracket is often preferred so you can keep the camera atop the center",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/10p8c96/how_to_shoot_in_portrait_mode_with_peak_design/"
+          }
+        ],
+        "searches": [
+          "best tripod for vertical shooting",
+          "tripod for vertical shooting"
+        ],
+        "keywords": [
+          "best tripod for vertical shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-vertical-shooting"
+        ],
+        "foundAt": "2026-11-09"
+      },
+      {
+        "id": "vertical-l-bracket-needs-arca-clamp",
+        "pain": "An L-bracket only works with an Arca-Swiss dovetail clamp",
+        "details": "DPReview forum replies say L-brackets mount into an Arca-Swiss compatible clamp; heads with Manfrotto RC2 clamps need an adapter.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.dpreview.com/forums/threads/tripod-shooting-vertically.2983513/",
+            "platform": "forum",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "They typically mount into an Arca Swiss compatible dovetail clamp",
+            "url": "https://www.dpreview.com/forums/threads/tripod-shooting-vertically.2983513/"
+          }
+        ],
+        "searches": [
+          "best tripod for vertical shooting",
+          "tripod for vertical shooting"
+        ],
+        "keywords": [
+          "best tripod for vertical shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-vertical-shooting"
+        ],
+        "foundAt": "2026-11-09"
+      },
+      {
+        "id": "vertical-video-remount-hassle",
+        "pain": "Switching between horizontal and vertical video means remounting the camera",
+        "details": "Creators filming reels want to flip to 9:16 without unscrewing the plate; r/FX3 replies point to an L-bracket, and a Manfrotto ONE owner calls its 500X head a gamechanger for vertical work.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/FX3/comments/1ihrzmo/tripod_for_vertical_filming/",
+            "platform": "reddit",
+            "seen": "2026-11-09"
+          },
+          {
+            "url": "https://www.instagram.com/reel/DTu9RnQDBnL/",
+            "platform": "instagram",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Any tripod will work and you can easily get an L bracket to do vertical shooting.",
+            "url": "https://www.reddit.com/r/FX3/comments/1ihrzmo/tripod_for_vertical_filming/"
+          }
+        ],
+        "searches": [
+          "best tripod for vertical shooting",
+          "tripod for vertical shooting"
+        ],
+        "keywords": [
+          "best tripod for vertical shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-for-vertical-shooting"
+        ],
+        "foundAt": "2026-11-09"
       }
     ],
     "monopods": [
@@ -9719,6 +9844,160 @@
             "url": "https://forums.golfwrx.com/topic/1239260-best-ipad-mount-tripod/"
           }
         ]
+      },
+      {
+        "id": "phone-tripods-tracking-crop-in-post",
+        "pain": "Not sure a tracking tripod beats a regular tripod and cropping in post",
+        "details": "An r/photography thread on face-tracking tripods gets the reply to shoot wide in high resolution and crop instead; the asker answers that they walk around a lot.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/photography/comments/1msug38/facetracking_tripods_for_smartphones/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "I think it's better to just put your smartphone on a regular tripod, record in as high resolution as possible, and crop/track in post.",
+            "url": "https://www.reddit.com/r/photography/comments/1msug38/facetracking_tripods_for_smartphones/"
+          }
+        ],
+        "keywords": [
+          "best iphone tripod that follows you",
+          "best tripod for iphone that follows you"
+        ],
+        "coveredBy": [
+          "best-iphone-tripod-that-follows-you"
+        ],
+        "foundAt": "2026-11-09",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-tracking-too-short",
+        "pain": "Tracking gimbals stand only a few inches tall, but buyers want eye-level height",
+        "details": "An r/smartphonefilming poster wants face tracking at roughly 70 inches; gimbal built-in tripods are 67 to 94 mm long.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/smartphonefilming/comments/1v6kixl/recommend_me_a_face_tracking_tripod_for_iphone/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best iphone tripod that follows you",
+          "best tripod for iphone that follows you"
+        ],
+        "coveredBy": [
+          "best-iphone-tripod-that-follows-you"
+        ],
+        "foundAt": "2026-11-09",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-tracking-third-party-apps",
+        "pain": "Tracking is less smooth in the iPhone Camera app and third-party apps than in the maker app",
+        "details": "Insta360 and DJI owners report DockKit tracking lags then catches up, and third-party app tracking is less accurate.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/dji/comments/1q6igl5/osmo_mobile_8_dockkit_tracking_not_as_smooth/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          },
+          {
+            "url": "https://www.reddit.com/r/Insta360/comments/1js82xx/insta360_flow_pro_2_tracking_not_smooth_with_3/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "With Dock Kit, the tracking seems to lag behind a bit",
+            "url": "https://www.reddit.com/r/dji/comments/1q6igl5/osmo_mobile_8_dockkit_tracking_not_as_smooth/"
+          }
+        ],
+        "keywords": [
+          "best iphone tripod that follows you",
+          "best tripod for iphone that follows you"
+        ],
+        "coveredBy": [
+          "best-iphone-tripod-that-follows-you"
+        ],
+        "foundAt": "2026-11-09",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-tracking-loses-subject",
+        "pain": "The gimbal overreacts, spins or loses the subject",
+        "details": "Hohem M7 and DJI Osmo Mobile 7P owners report tracking that spins, drops after a minute or cannot keep up.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/HohemOfficial/comments/1m9u4i9/ai_tracking_issue_on_isteady_m7_gimbal_overreacts/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          },
+          {
+            "url": "https://www.reddit.com/r/dji/comments/1k6j16s/anyone_else_having_trouble_with_the_osmo_mobile_7p/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          },
+          {
+            "url": "https://www.reddit.com/r/videography/comments/sauwf2/so_i_really_wanted_to_make_videos_by_myself_is/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best iphone tripod that follows you",
+          "best tripod for iphone that follows you"
+        ],
+        "coveredBy": [
+          "best-iphone-tripod-that-follows-you"
+        ],
+        "foundAt": "2026-11-09",
+        "searches": []
+      },
+      {
+        "id": "phone-tripods-dockkit-stand-recall",
+        "pain": "Few DockKit desk stands exist, and the best-known one was recalled",
+        "details": "r/MagSafe users list only the Belkin stand and Insta360 gimbals as DockKit options; the Belkin Auto-Tracking Stand Pro was recalled for a fire risk.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-09"
+          },
+          {
+            "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-belkin-auto-tracking-stand-pro-with-dockkit-2511-0224",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-09"
+          }
+        ],
+        "quotes": [],
+        "keywords": [
+          "best iphone tripod that follows you",
+          "best tripod for iphone that follows you"
+        ],
+        "coveredBy": [
+          "best-iphone-tripod-that-follows-you"
+        ],
+        "foundAt": "2026-11-09",
+        "searches": []
       }
     ]
   }

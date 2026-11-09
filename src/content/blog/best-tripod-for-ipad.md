@@ -469,6 +469,8 @@ heroAlt: >-
   Best Tripod for iPad – 5 Picks Matched to Your iPad Size – Best Tripod buying
   guide
 heroImage: /images/featured/best-tripod-for-ipad.png
+related:
+  - best-iphone-tripod-that-follows-you
 ---
 
 The best tripod for iPad is the one whose clamp actually fits your iPad's width with its case on. If you own a camera tripod, I'd add the [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe), an aluminum mount that opens to 9 in, wide enough for a 13-inch iPad Pro. If you don't, the [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) is a complete stand that reaches 72 in. I compared five picks from maker specs and owner reports; I did not test them myself. Filming games from the sideline? My [tripods for filming sports](/blog/best-tripod-for-filming-sports/) guide covers taller stands.

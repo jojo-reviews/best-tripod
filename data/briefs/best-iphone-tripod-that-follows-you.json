@@ -1,0 +1,699 @@
+{
+  "centralEntity": "iPhone tracking tripod",
+  "entityVariants": [
+    "iPhone tripod that follows you",
+    "auto-tracking phone tripod",
+    "face tracking tripod",
+    "AI tracking gimbal",
+    "phone gimbal with built-in tripod",
+    "tracking phone mount",
+    "DockKit gimbal"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "concept",
+      "relation": "central entity (built-in or full-size support)",
+      "salience": 0.94,
+      "pages": 3,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "iPhone",
+      "type": "Work",
+      "relation": "phone the tripod follows with",
+      "salience": 0.86,
+      "pages": 2,
+      "textrazorName": "IPhone"
+    },
+    {
+      "name": "MagSafe",
+      "type": "technology",
+      "relation": "magnetic phone mount on the gimbal clamp",
+      "salience": 0.71,
+      "pages": 2,
+      "textrazorName": "MagSafe (wireless charger)"
+    },
+    {
+      "name": "video",
+      "type": "concept",
+      "relation": "what the tracking tripod records",
+      "salience": 0.59,
+      "pages": 2,
+      "textrazorName": "Video"
+    },
+    {
+      "name": "gimbal",
+      "type": "device",
+      "relation": "motorized 3-axis stabilizer that does the following",
+      "salience": 0.36,
+      "pages": 3,
+      "textrazorName": "Gimbal"
+    },
+    {
+      "name": "photography",
+      "type": "concept",
+      "relation": "use case",
+      "salience": 0.41,
+      "pages": 2,
+      "textrazorName": "Photography"
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "iPhone camera app the tracking works in",
+      "salience": 0.34,
+      "pages": 2,
+      "textrazorName": "Camera"
+    },
+    {
+      "name": "mobile app",
+      "type": "software",
+      "relation": "Insta360, DJI Mimo and Hohem Joy apps that run tracking",
+      "salience": 0.27,
+      "pages": 2,
+      "textrazorName": "Mobile app"
+    },
+    {
+      "name": "height",
+      "type": "attribute",
+      "relation": "working height of the built-in tripod vs a full-size tripod",
+      "salience": 0.27,
+      "pages": 2,
+      "textrazorName": "Height"
+    },
+    {
+      "name": "smartphone",
+      "type": "device",
+      "relation": "Android phones also fit",
+      "salience": 0.24,
+      "pages": 2,
+      "textrazorName": "Smartphone"
+    },
+    {
+      "name": "FaceTime",
+      "type": "Work",
+      "relation": "video-call app DockKit tracking works in",
+      "salience": 0.23,
+      "pages": 2,
+      "textrazorName": "FaceTime"
+    },
+    {
+      "name": "Apple DockKit",
+      "type": "technology",
+      "relation": "iOS framework that lets the iPhone drive the gimbal motors",
+      "salience": 0.6,
+      "pages": 3
+    },
+    {
+      "name": "subject tracking",
+      "type": "feature",
+      "relation": "how the tripod follows you",
+      "salience": 0.55,
+      "pages": 5
+    },
+    {
+      "name": "selfie stick",
+      "type": "device",
+      "relation": "built-in extension rod",
+      "salience": 0.3,
+      "pages": 4
+    },
+    {
+      "name": "Insta360",
+      "type": "Organization",
+      "relation": "maker",
+      "salience": 0.3,
+      "pages": 4
+    },
+    {
+      "name": "DJI",
+      "type": "Organization",
+      "relation": "maker",
+      "salience": 0.3,
+      "pages": 4
+    },
+    {
+      "name": "Hohem",
+      "type": "Organization",
+      "relation": "maker",
+      "salience": 0.2,
+      "pages": 2
+    }
+  ],
+  "attributes": [
+    "tracking method: DockKit, clip-on AI module or app (gimbal)",
+    "pan range: 360° infinite vs limited (gimbal)",
+    "battery runtime with tracking on (gimbal)",
+    "phone weight range (clamp)",
+    "built-in tripod length and extension rod length (support)",
+    "subjects tracked: people, pets, objects (tracking)",
+    "weight (gimbal)",
+    "remote or screen (control)",
+    "US availability and warranty (DJI)"
+  ],
+  "ngrams": [
+    "auto tracking",
+    "face tracking",
+    "subject tracking",
+    "built-in tripod",
+    "extension rod",
+    "selfie stick",
+    "3-axis stabilization",
+    "Apple DockKit",
+    "native camera app",
+    "third-party apps",
+    "360° pan",
+    "AI tracker",
+    "gesture control",
+    "battery life"
+  ],
+  "skipgrams": [
+    "tracking…module",
+    "DockKit…iPhone",
+    "tripod…built-in",
+    "pan…360°",
+    "battery…tracking",
+    "phone…clamp",
+    "follows…you",
+    "camera…app"
+  ],
+  "nlpTerms": [
+    "ActiveTrack",
+    "Deep Track",
+    "multi-person tracking",
+    "gesture control",
+    "fill light",
+    "magnetic clamp",
+    "payload",
+    "pan axis",
+    "tilt",
+    "roll",
+    "reverse charging",
+    "portrait mode",
+    "landscape mode",
+    "center column",
+    "1/4\"-20 thread",
+    "recall"
+  ],
+  "questions": [
+    "What is the best iPhone tripod that follows you?",
+    "Does an iPhone tripod that follows you work with the iPhone camera app?",
+    "Which iPhones work with Apple DockKit?",
+    "How long does the battery last with tracking on?",
+    "Can a tracking gimbal follow me in a full circle?",
+    "Can I put a tracking gimbal on a tall tripod?",
+    "Is a tracking tripod worth it, or can I crop in post?",
+    "Is the Belkin Auto-Tracking Stand Pro still safe to buy?"
+  ],
+  "answerTerms": {
+    "What is the best iPhone tripod that follows you?": [
+      "Insta360 Flow 2 Pro",
+      "Apple DockKit",
+      "360° pan",
+      "built-in tripod"
+    ],
+    "Does an iPhone tripod that follows you work with the iPhone camera app?": [
+      "DockKit",
+      "native camera app",
+      "tracking module",
+      "third-party apps"
+    ],
+    "Which iPhones work with Apple DockKit?": [
+      "iPhone 12 or later",
+      "iOS 17",
+      "iPhone SE",
+      "iPhone 16e"
+    ],
+    "How long does the battery last with tracking on?": [
+      "10 hours",
+      "about 5 hours",
+      "fill light",
+      "operating time"
+    ],
+    "Can a tracking gimbal follow me in a full circle?": [
+      "360° unlimited pan",
+      "pan axis",
+      "-109° to 222°"
+    ],
+    "Can I put a tracking gimbal on a tall tripod?": [
+      "1/4\" screw hole",
+      "built-in tripod",
+      "67 mm",
+      "eye level"
+    ],
+    "Is a tracking tripod worth it, or can I crop in post?": [
+      "crop",
+      "resolution",
+      "walk around",
+      "frame"
+    ],
+    "Is the Belkin Auto-Tracking Stand Pro still safe to buy?": [
+      "recall",
+      "MMA008",
+      "overheat",
+      "risk of fire"
+    ]
+  },
+  "contentGaps": [
+    "Battery runtime with tracking switched on, not the headline 10-12 hours",
+    "Which tracking works in the iPhone Camera app (DockKit or module) vs only in the maker app",
+    "Pan range: the Osmo Mobile 7P cannot rotate a full 360°, so it loses a subject who walks behind it",
+    "Built-in tripod heights (67 mm DJI, 94 mm Insta360) and how to reach eye level",
+    "Belkin Auto-Tracking Stand Pro recall and DJI US availability"
+  ],
+  "outline": [
+    {
+      "h2": "iPhone tracking tripod comparison by tracking method, pan and battery",
+      "intent": "compare deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these iPhone tracking tripods",
+      "intent": "method, sources, from our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best iPhone tripods that follow you",
+      "intent": "product reviews",
+      "h3": [
+        "Insta360 Flow 2 Pro",
+        "DJI Osmo Mobile 8",
+        "DJI Osmo Mobile 8P",
+        "Hohem iSteady M7",
+        "DJI Osmo Mobile 7P",
+        "Which one should you get"
+      ]
+    },
+    {
+      "h2": "How to set up an iPhone tripod that follows you",
+      "intent": "numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "DockKit, tracking module or app: how an iPhone tracking tripod follows you",
+      "intent": "decision rule per tracking method, DockKit compatibility",
+      "h3": []
+    },
+    {
+      "h2": "iPhone tracking tripod problems owners run into, and the fix",
+      "intent": "pain points",
+      "h3": []
+    }
+  ],
+  "targetWords": 2400,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://shotkit.com/best-auto-tracking-tripods/",
+      "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+      "https://swarmify.com/blog/iphone-tripod/",
+      "https://blitzcutai.com/blog/best-iphone-tripod",
+      "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+      "https://www.imaging-resource.com/guides/best-smartphone-gimbal/",
+      "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones",
+      "https://www.techradar.com/best/best-phone-gimbal"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Shotkit, Amateur Photographer and Imaging Resource show pros and cons per product; Blitzcut uses bullet lists with a downside line.",
+    "avgWords": 2550,
+    "avgWordsNote": "Shotkit about 1,650 words, Blitzcut about 2,400, Imaging Resource 1,366, Swarmify about 4,850 (Firecrawl estimates); Amateur Photographer (about 5,460) and Fstoppers (about 8,430) are multi-category gear guides and were left out of the average.",
+    "avgProducts": 6,
+    "commonSections": [
+      "what an auto-tracking tripod or gimbal is",
+      "how tracking works",
+      "product picks",
+      "quick recommendations",
+      "how to choose",
+      "FAQ"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/body-tracking-tripod/s?k=body+tracking+tripod",
+      "title": "Body Tracking Tripod - Amazon.com"
+    },
+    {
+      "position": 2,
+      "url": "https://www.reddit.com/r/photography/comments/1msug38/facetracking_tripods_for_smartphones/",
+      "title": "Face-tracking tripods for smartphones? : r/photography - Reddit"
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=bLXljdLVAwM",
+      "title": "This \"Tracking Tripod\" is scary accurate! - YouTube"
+    },
+    {
+      "position": 4,
+      "url": "https://www.target.com/s/auto+face+tracking+tripod",
+      "title": "Auto Face Tracking Phone Tripod - Best in Class - Target"
+    },
+    {
+      "position": 5,
+      "url": "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+      "title": "Best phone tripod for iPhones and smartphones"
+    },
+    {
+      "position": 6,
+      "url": "https://shotkit.com/best-auto-tracking-tripods/",
+      "title": "Best Auto-Tracking Tripods for Solo Shooters & Content Creators"
+    },
+    {
+      "position": 7,
+      "url": "https://www.obsbot.com/obsbot-me-auto-tracking-phone-mount",
+      "title": "AI-Powered AI Tracking Phone Mount - OBSBOT Me"
+    },
+    {
+      "position": 8,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+      "title": "The Best Tripod for iPhones and Other Smartphones"
+    },
+    {
+      "position": 9,
+      "url": "https://swarmify.com/blog/iphone-tripod/",
+      "title": "Best iPhone Tripods for Filming (2026 Guide) - Swarmify"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=zGZOqqrJKY4",
+      "title": "5 Best Auto Face Tracking Tripod 2026 - [Editors' Review]"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "auto tracking",
+      "face tracking",
+      "for iPhones and smartphones",
+      "follows your movement"
+    ],
+    "gap": "No top-10 title uses the exact keyword, and none tells an iPhone owner which tracking works in the Camera app or how long the battery lasts while tracking. Only 2 titles carry a year, so no year."
+  },
+  "commonPoints": [
+    "An auto-tracking tripod or gimbal uses AI and motors to keep you centered while you move",
+    "Most use a companion app; some track without one",
+    "Gimbals with a built-in tripod and extension rod double as selfie sticks",
+    "Built-in tripods are short and suit tables, not eye level",
+    "Tracking suits solo vlogs, workouts, cooking, video calls and family clips"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Battery with tracking on: DJI rates the Osmo Mobile 8 at 10 hours but about 5 hours with module tracking on; Hohem rates the M7 at 12 hours stationary, about 8 hours with AI tracking and 3 to 4 hours with the light on too.",
+      "source": "https://www.dji.com/osmo-mobile-8/specs",
+      "absentFrom": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Pan range: Flow 2 Pro, Osmo Mobile 8/8P and iSteady M7 pan 360° without limit; the Osmo Mobile 7P pans -109° to 222°, so it cannot follow you all the way around.",
+      "source": "https://www.dji.com/support/product/osmo-mobile-7-series",
+      "absentFrom": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by tracking method: DockKit (iPhone 12 or later on iOS 17, people only, any DockKit app) vs a clip-on AI module (pets and objects, iPhone and Android) vs app-only tracking.",
+      "source": "https://www.insta360.com/product/insta360-flow2-pro",
+      "absentFrom": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Built-in tripods are 67 mm (DJI) to 94 mm (Insta360) long; for standing shots the fix is a full-size tripod under the gimbal, not a taller tracking selfie stick.",
+      "source": "https://www.dji.com/osmo-mobile-8/specs",
+      "absentFrom": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The Belkin Auto-Tracking Stand Pro (MMA008), once the go-to DockKit stand, was recalled for a fire risk on 26 November 2025.",
+      "source": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-belkin-auto-tracking-stand-pro-with-dockkit-2511-0224",
+      "absentFrom": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://amateurphotographer.com/buying-advice/best-camera-phone-tripods-and-mounts-for-photography-and-video/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "phone-tripods-tracking-crop-in-post",
+      "pain": "Not sure a tracking tripod beats a regular tripod and cropping in post",
+      "details": "An r/photography thread on face-tracking tripods gets the reply to shoot wide in high resolution and crop instead; the asker answers that they walk around a lot.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/1msug38/facetracking_tripods_for_smartphones/"
+      ],
+      "quotes": [
+        {
+          "text": "I think it's better to just put your smartphone on a regular tripod, record in as high resolution as possible, and crop/track in post.",
+          "url": "https://www.reddit.com/r/photography/comments/1msug38/facetracking_tripods_for_smartphones/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-tracking-too-short",
+      "pain": "Tracking gimbals stand only a few inches tall, but buyers want eye-level height",
+      "details": "An r/smartphonefilming poster wants face tracking at roughly 70 inches; gimbal built-in tripods are 67 to 94 mm long.",
+      "sources": [
+        "https://www.reddit.com/r/smartphonefilming/comments/1v6kixl/recommend_me_a_face_tracking_tripod_for_iphone/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "phone-tripods-tracking-third-party-apps",
+      "pain": "Tracking is less smooth in the iPhone Camera app and third-party apps than in the maker app",
+      "details": "Insta360 and DJI owners report DockKit tracking lags then catches up, and third-party app tracking is less accurate.",
+      "sources": [
+        "https://www.reddit.com/r/dji/comments/1q6igl5/osmo_mobile_8_dockkit_tracking_not_as_smooth/",
+        "https://www.reddit.com/r/Insta360/comments/1js82xx/insta360_flow_pro_2_tracking_not_smooth_with_3/"
+      ],
+      "quotes": [
+        {
+          "text": "With Dock Kit, the tracking seems to lag behind a bit",
+          "url": "https://www.reddit.com/r/dji/comments/1q6igl5/osmo_mobile_8_dockkit_tracking_not_as_smooth/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-tracking-loses-subject",
+      "pain": "The gimbal overreacts, spins or loses the subject",
+      "details": "Hohem M7 and DJI Osmo Mobile 7P owners report tracking that spins, drops after a minute or cannot keep up.",
+      "sources": [
+        "https://www.reddit.com/r/HohemOfficial/comments/1m9u4i9/ai_tracking_issue_on_isteady_m7_gimbal_overreacts/",
+        "https://www.reddit.com/r/dji/comments/1k6j16s/anyone_else_having_trouble_with_the_osmo_mobile_7p/",
+        "https://www.reddit.com/r/videography/comments/sauwf2/so_i_really_wanted_to_make_videos_by_myself_is/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "phone-tripods-dockkit-stand-recall",
+      "pain": "Few DockKit desk stands exist, and the best-known one was recalled",
+      "details": "r/MagSafe users list only the Belkin stand and Insta360 gimbals as DockKit options; the Belkin Auto-Tracking Stand Pro was recalled for a fire risk.",
+      "sources": [
+        "https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/",
+        "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-belkin-auto-tracking-stand-pro-with-dockkit-2511-0224"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "about 5 hours",
+      "claim": "Osmo Mobile 8 runtime with module tracking on (vs 10 hours)",
+      "url": "https://www.dji.com/osmo-mobile-8/specs",
+      "quote": "With the Multifunctional Module's intelligent tracking feature enabled and the fill light off, the operating time is approximately 5 hours."
+    },
+    {
+      "number": "8 hours",
+      "claim": "Hohem iSteady M7 runtime with AI tracking (12 hours stationary)",
+      "url": "https://www.hohem.com/product/isteady-m7",
+      "quote": "12 hours (Balanced and stationary) Approx. 8 hours (With AI tracking) 3~4 hours (With AI tracking and fill light used simultaneously)"
+    },
+    {
+      "number": "iPhone 12 or later",
+      "claim": "DockKit tracking needs an iPhone 12 or later on iOS 17",
+      "url": "https://www.insta360.com/product/insta360-flow2-pro",
+      "quote": "specifically an iPhone 12 or later model (excludes iPhone SE 3rd generation and iPhone 16e) running iOS 17 or higher"
+    },
+    {
+      "number": "26 November 2025",
+      "claim": "Belkin Auto-Tracking Stand Pro recall for fire risk",
+      "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-recall-belkin-auto-tracking-stand-pro-with-dockkit-2511-0224",
+      "quote": "Recall/alert date: 26 November 2025"
+    },
+    {
+      "number": "67 mm",
+      "claim": "DJI Osmo Mobile 8 built-in tripod length",
+      "url": "https://www.dji.com/osmo-mobile-8/specs",
+      "quote": "Built-in Tripod Length: 67 mm"
+    }
+  ],
+  "videos": [
+    {
+      "id": "xpGQbxokbhY",
+      "title": "BEST PHONE GIMBAL OF 2025? Insta360 Flow 2 Pro or DJI Osmo Mobile 8",
+      "channel": "FlytPath",
+      "url": "https://www.youtube.com/watch?v=xpGQbxokbhY",
+      "section": "DockKit, tracking module or app: how an iPhone tracking tripod follows you"
+    }
+  ],
+  "googleModifiers": [
+    "with tracking",
+    "tracking tripod",
+    "gimbal",
+    "gimbal stand",
+    "stabilizer",
+    "selfie stick",
+    "with bluetooth remote",
+    "with magsafe",
+    "tall",
+    "for content creators",
+    "for vlogging",
+    "for video recording",
+    "for live streaming",
+    "for sports",
+    "for solo travel",
+    "for the gym",
+    "for cooking videos"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Sort by",
+      "options": [
+        "Featured",
+        "Price: Low to High",
+        "Price: High to Low",
+        "Avg. Customer Review",
+        "Newest Arrivals",
+        "Best Sellers"
+      ]
+    }
+  ],
+  "amazonFiltersNote": "The Amazon US search page for the keyword showed only the sort menu, no left-sidebar filter groups. Result titles repeat auto face tracking, 360° rotation, no app, remote, light and 62 to 71 in heights; I used tracking method, 360° pan, remote and height as table columns and FAQ topics. Shopping-only sorts are not used.",
+  "serpProducts": [
+    {
+      "name": "Insta360 Flow 2 Pro",
+      "pages": [
+        "https://shotkit.com/best-auto-tracking-tripods/",
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/",
+        "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://www.trustedreviews.com/best/best-smartphone-gimbal-4320600"
+      ]
+    },
+    {
+      "name": "DJI Osmo Mobile 8",
+      "pages": [
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones",
+        "https://blitzcutai.com/blog/best-iphone-tripod",
+        "https://www.trustedreviews.com/best/best-smartphone-gimbal-4320600"
+      ]
+    },
+    {
+      "name": "DJI Osmo Mobile 8P",
+      "pages": [
+        "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones",
+        "https://www.techradar.com/best/best-phone-gimbal",
+        "https://www.trustedreviews.com/best/best-smartphone-gimbal-4320600"
+      ]
+    },
+    {
+      "name": "Hohem iSteady M7",
+      "pages": [
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/",
+        "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones",
+        "https://www.techradar.com/best/best-phone-gimbal"
+      ]
+    },
+    {
+      "name": "DJI Osmo Mobile 7P",
+      "pages": [
+        "https://www.imaging-resource.com/guides/best-smartphone-gimbal/",
+        "https://www.pcmag.com/picks/the-best-phone-and-camera-gimbals"
+      ]
+    },
+    {
+      "name": "Insta360 Flow 2 (dropped: no plain standard listing on Amazon US, only bundles)",
+      "pages": [
+        "https://fstoppers.com/guide/best-gimbals-and-stabilizers-2026",
+        "https://www.digitalcameraworld.com/buying-guides/best-smartphone-gimbals-for-iphones"
+      ]
+    },
+    {
+      "name": "Ulanzi TT23 / TT23M (dropped: only one independent page)",
+      "pages": [
+        "https://shotkit.com/best-auto-tracking-tripods/"
+      ]
+    },
+    {
+      "name": "Belkin Auto-Tracking Stand Pro (dropped: recalled for fire risk)",
+      "pages": [
+        "https://blitzcutai.com/blog/best-iphone-tripod"
+      ]
+    },
+    {
+      "name": "Hohem iSteady V3 Ultra (dropped: only one independent page)",
+      "pages": [
+        "https://www.techradar.com/best/best-phone-gimbal"
+      ]
+    }
+  ],
+  "serpProductsNote": "Trusted Reviews, TechRadar and Digital Camera World product lists were read from their headings and search excerpts because their pages block full scraping; PCMag from its search excerpt.",
+  "pendingInlinks": [
+    {
+      "slug": "best-phone-tripod-for-vlogging-with-remote",
+      "find": "An extendable selfie stick tripod such as the KraftGeek or SENSYNE reaches standing height and doubles as a handheld stick for walking shots.",
+      "replace": "An extendable selfie stick tripod such as the KraftGeek or SENSYNE reaches standing height and doubles as a handheld stick for walking shots, while [an iPhone tripod that follows you](/blog/best-iphone-tripod-that-follows-you/) turns to keep you in frame."
+    },
+    {
+      "slug": "best-tripod-for-live-streaming",
+      "find": "I left out gimbals and monopods, which suit vlog-style walking shots more than a stream filmed from one spot.",
+      "replace": "I left out gimbals and monopods, which suit vlog-style walking shots more than a stream filmed from one spot; [tracking gimbals for iPhone](/blog/best-iphone-tripod-that-follows-you/) cover those."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for iphone that follows you",
+    "best iphone tracking tripod",
+    "best iphone tripod with tracking",
+    "best iphone tripod gimbal",
+    "best iphone gimbal stand"
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-iphone-tripod-that-follows-you.entities.json",
+    "note": "Amateur Photographer blocked the TextRazor fetch and Fstoppers timed out; 3 of 5 pages analyzed (Shotkit, Swarmify, Blitzcut)."
+  }
+}
