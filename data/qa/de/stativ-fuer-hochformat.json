@@ -1,0 +1,20 @@
+{
+  "slug": "de/stativ-fuer-hochformat",
+  "lang": "de",
+  "translationOf": "best-tripod-for-vertical-shooting",
+  "pass": true,
+  "checkedAt": "2026-11-09T15:54:37.528Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/l-bracket-for-landscape-photography/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-vertical-shooting: all 5 products/ASINs/scores/spec keys unchanged; metric-first conversions checked (170,5/19/70,5 cm, 3,5+1,2 kg, 15/5 kg; Befree 151/128/40 cm, 1,59 kg, 9 kg; Peak 152,4/130,2/14/39,4 cm, 1,3 kg, 9,1 kg per Peak Design; SIRUI 138/16/33 cm, 0,85 kg, 4 kg; K&F 163/52/39,5 cm, 1,15 kg, 8 kg). Counterbalance 2,4 kg@55 mm and 5 kg head re-checked on Manfrotto/Fstoppers links. Local facts from local brief: Lufthansa 55x40x23 cm (lufthansa.com), Koelner Dom tripod permit (koelner-dom.de), SMB Berlin tripods to cloakroom (smb.museum); EU kit codes MKONEA-500X (Calumet/Foto Erhardt) and MKBFRLA4BK-BH (Foto Erhardt). Oly-forum quotes verified verbatim on the scraped thread. No prices, no testing claims, no local Amazon claims.",
+    "at": "2026-11-09T15:54:36.988Z",
+    "hash": "0eacec329aeabe4b"
+  }
+}

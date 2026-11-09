@@ -1,0 +1,133 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-starlink-mini",
+  "checkedAt": "2026-11-09T15:52:13Z",
+  "productFit": [
+    {
+      "name": "Boltwasp Starlink Mini Tripod Mount",
+      "asin": "B0GH7SYNV3",
+      "status": "unknown",
+      "metricSpecs": "amazon.de listing: item dimensions 41,5 x 5 x 5 cm (folded); no weight given. Keep English 16.34 in converted as 41,5 cm.",
+      "reason": "No listing found on the local Amazon store or a local retailer; the same ASIN is listed on amazon.de only. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B0GH7SYNV3"
+    },
+    {
+      "name": "EXNOVFC Portable Starlink Mini Tripod Stand",
+      "asin": "B0G1ZBRFL2",
+      "status": "unknown",
+      "metricSpecs": "No EU page; English figures: 327 g (0.72 lb), rated 8 lb (listing gives 3.3 kg next to it; use 3,6 kg (8 lb) conversion only if QA requires, otherwise keep 8 lb (3,3 kg per listing)).",
+      "reason": "amazon.de/dp/B0G1ZBRFL2 returns 'Page Not Found'; only US sellers found (Amazon US, a US electronics shop). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.com/dp/B0G1ZBRFL2"
+    },
+    {
+      "name": "Saunyoto PM166S Starlink Mini Battery Pack",
+      "asin": "B0H7576SYF",
+      "status": "fits",
+      "metricSpecs": "Listing: 166 Wh / 45.000 mAh, 32,3 x 6,3 x 8,9 cm; weight 2.2 lb, so about 1,0 kg.",
+      "reason": "Same ASIN B0H7576SYF listed on www.amazon.es as 'Saunyoto Starlink - Mini batería externa de 166 Wh/45000 mAh', model PM166S.",
+      "source": "https://www.amazon.es/dp/B0H7576SYF"
+    },
+    {
+      "name": "ROVEDGE MK-1 Portable Power Station for Starlink Mini",
+      "asin": "B0H7J8XTX7",
+      "status": "unknown",
+      "metricSpecs": "RovEdge: about 1.025 g; amazon.de lists 35,1 x 11,1 x 8,1 cm and 189 Wh / 51.300 mAh.",
+      "reason": "No listing found on the local Amazon store or a local retailer; RovEdge sells from its own web shop and the ASIN is listed on amazon.de only. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B0H7J8XTX7"
+    },
+    {
+      "name": "Daqa 110W Battery Pack for Starlink Mini",
+      "asin": "B0DXK28P86",
+      "status": "fits",
+      "metricSpecs": "Listing: 21,6 V / 30.000 mAh, 1.65 lb (about 0,75 kg; English post says 1.7 lb, use 0,8 kg (1.7 lb)).",
+      "reason": "Same ASIN B0DXK28P86 listed on www.amazon.es as 'Daqa Starlink Mini soporte de batería'.",
+      "source": "https://www.amazon.es/Daqa-ajustable-exteriores-indicador-alimentaci%C3%B3n/dp/B0DXK28P86"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia Express permite en cabina hasta 4 baterías de repuesto de 100 Wh o menos y hasta 2 de más de 100 Wh y hasta 160 Wh.",
+      "source": "https://www.iberiaexpress.com/informacion-general/informacion-pasajero/en-el-avion/dispositivos-electronicos/baterias-de-litio"
+    },
+    {
+      "fact": "Starlink da para la Mini 298,5 x 259 x 38,5 mm y 1,10 kg (1,16 kg con el soporte); funciona con viento de 96 km/h o más.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "fact": "Según Starlink, la Mini funciona de -30 °C a 50 °C, consume de media 25 a 40 W y el kit trae un cable DC de 15 m.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "No quieren taladrar la caravana; buscan un montaje de quita y pon.",
+      "fix": "Un trípode se monta en menos de un minuto en la parcela y se guarda sin agujeros; las patas con piquetas lo sujetan.",
+      "quotes": [
+        {
+          "text": "no quiero agujerear la caravana, si no que me gustaría algo de quita y pon para cuando queramos usarlo",
+          "url": "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+        }
+      ],
+      "sources": [
+        "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+      ]
+    },
+    {
+      "pain": "Árboles y ramas en la parcela cortan la señal.",
+      "fix": "Revisar el mapa de obstrucciones de la app de Starlink y usar un trípode alto con rótula (Boltwasp) para elevar e inclinar la Mini hacia cielo abierto.",
+      "quotes": [
+        {
+          "text": "Si lo vas a colocar debajo de un árbol, es posible que no tengas señal.",
+          "url": "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+        }
+      ],
+      "sources": [
+        "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+      ]
+    },
+    {
+      "pain": "Dejar la Mini en el suelo de la parcela.",
+      "fix": "Un trípode la levanta por encima de la hierba y de los coches aparcados.",
+      "quotes": [
+        {
+          "text": "El Mini puedo tirarlo por allí en el suelo de la parcela cuando lo necesitemos",
+          "url": "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+        }
+      ],
+      "sources": [
+        "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Norma de Iberia Express para baterías de 100 a 160 Wh en cabina.",
+      "source": "https://www.iberiaexpress.com/informacion-general/informacion-pasajero/en-el-avion/dispositivos-electronicos/baterias-de-litio"
+    },
+    {
+      "point": "Cifras métricas del fabricante: 1,10 kg, viento 96 km/h, cable de 15 m.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "point": "Montaje de quita y pon sin agujerear la caravana.",
+      "source": "https://www.webcampista.com/foro/threads/starlink-mini-recomendaciones.4125149/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The Federal Aviation Administration allows batteries up to 100 Wh in carry-on, needs airline approval from 101 to 160 Wh and bans anything larger.",
+      "action": "replace",
+      "with": "local airline rule (Lufthansa / Iberia Express / KLM) from localFacts, mention that the US FAA draws the same 160 Wh line (no FAA link in body)"
+    },
+    {
+      "english": "has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "'has its own Amazon listing I checked by hand' (no store country, OneLink rule)"
+    },
+    {
+      "english": "Wind rating 60 mph+",
+      "action": "replace",
+      "with": "maker metric figure 96 km/h+ (60 mph+)"
+    }
+  ]
+}

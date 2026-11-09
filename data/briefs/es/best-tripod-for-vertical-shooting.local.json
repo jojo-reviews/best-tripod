@@ -1,0 +1,129 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-vertical-shooting",
+  "checkedAt": "2026-11-09T15:52:11.344Z",
+  "productFit": [
+    {
+      "name": "Manfrotto ONE Hybrid Aluminum Tripod with 500X Fluid Video Head",
+      "asin": "B0G1Z9LSSV",
+      "status": "fits",
+      "metricSpecs": "Metric figures from the English post's sources (Fstoppers, Manfrotto): 170,5 cm max. without head, 19 cm min. (column removed), 70,5 cm folded without head, legs 3,5 kg + 500X head 1,2 kg, legs 15 kg / head 5 kg load, counterbalance 2,4 kg at 55 mm.",
+      "reason": "Sold in the EU under the same kit code MKONEA-500X. Foto Ruano Pro, Camaralia and Telescopiomania list the kit as \"Manfrotto Kit ONE Aluminio con Rótula Fluida 500X\" (MKONEA-500X); Manfrotto has a Spanish product page (global-es).",
+      "source": "https://fotoruanopro.com/tripodes-video/57836-manfrotto-kit-tripode-one-aluminio-rotula-fluida-500x-MKONEA-500X.html"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload.",
+      "reason": "German retailer lists the EU kit code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load.",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by El Corte Inglés.",
+      "source": "https://www.elcorteingles.es/electronica/A35395313-0818373021269-pr-tripode-de-carbono-peak-design-travel-carbon-pk0201-negro/"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post.",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm: el Befree Advanced (40 cm), el Peak Design (39,4 cm), el K&F (39,5 cm) y el SIRUI (33 cm) caben plegados a lo largo; el Manfrotto ONE Hybrid (70,5 cm sin rótula) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "La Sagrada Família no permite hacer fotografías o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Términos en España: fotos en vertical / en horizontal, placa en L (escuadra en L), rótula de bola, rótula fluida, zapata; Arca-Swiss se llama igual.",
+      "source": "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Con la cámara en vertical sobre un trípode de viaje, las fotos salen trepidadas.",
+      "fix": "Placa en L para que el peso quede sobre la columna, y una rótula con carga muy por encima del equipo (regla del post: cámara y objetivo por debajo de la mitad de la carga si usas la muesca).",
+      "quotes": [
+        {
+          "text": "observo que cuando pongo la cámara en posición vertical las fotos salen a veces trepidadas.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+      ]
+    },
+    {
+      "pain": "Una placa en L genérica deja que la cámara gire sobre la placa al inclinarla.",
+      "fix": "Una placa en L hecha para tu cuerpo de cámara (post inglés) y comprobar la pinza antes de comprar.",
+      "quotes": [
+        {
+          "text": "a poco que inclines la cámara hacia arriba o hacia abajo, ésta se desliza ligeramente rotando sobre la placa en L",
+          "url": "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+        }
+      ],
+      "sources": [
+        "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Equipaje de mano de Iberia 56 x 40 x 25 cm: cuatro de los cinco trípodes caben plegados, el ONE Hybrid (70,5 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Dónde no sirve ningún trípode: Sagrada Família y Alhambra prohíben el trípode al público.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "point": "Cifras métricas del fabricante (Befree 151/128/40 cm, 1,59 kg; Peak Design 152,4/130,2 cm, 39,4 cm; ONE 170,5 cm, 70,5 cm).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "point": "Problemas reales de fotógrafos españoles (fotos trepidadas en vertical, placa en L que gira) con su solución.",
+      "source": "https://www.nikonistas.com/digital/foro/topic/472680-placa-en-l-para-la-d7200/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with ... its own Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "say each has its own Amazon listing; no country or availability claim (OneLink rule)"
+    },
+    {
+      "english": "Imperial-first figures (67.1 in, 27.8 in, 15.75 in, 2.8 lb ...)",
+      "action": "replace",
+      "with": "metric first from the maker's figures in productFit.metricSpecs, imperial in brackets"
+    },
+    {
+      "english": "Premium price / budget price wording",
+      "action": "replace",
+      "with": "keep as relative wording, no prices or currencies"
+    }
+  ]
+}

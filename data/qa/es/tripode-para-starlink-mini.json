@@ -1,0 +1,21 @@
+{
+  "slug": "es/tripode-para-starlink-mini",
+  "lang": "es",
+  "translationOf": "best-tripod-for-starlink-mini",
+  "pass": true,
+  "checkedAt": "2026-11-09T15:58:19.702Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-weigh-down-a-tripod-without-a-sandbag/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-feet-for-sand-snow-and-rock/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-starlink-mini: same 5 products/ASINs/scores/spec keys, owners counts, sources; every number matches the English post with metric first (1,10 kg Starlink spec, 327 g, 3,3 kg per listing, 41,5 cm per amazon.de listing = 16.34 in, 1,0/1,0/0,8 kg from 2.2/2.3/1.7 lb, 1.025 g RovEdge, 166/189/108 Wh, 25-40 W, 2,7-7,6 h runtimes, 6,5 h DISHYtech, 22 W Ryan Adapts). Re-opened Starlink Mini spec sheet (1,10 kg, 96 km/h wind, -30 to 50 C, 110 deg FOV, 15 m DC cable, 25-40 W), airline page from the local brief (Lufthansa 100/160 Wh approval; Iberia Express 4 x <=100 Wh, 2 x 100-160 Wh; KLM 100 Wh, 100-160 Wh permission, >160 never), and the forum threads for verbatim local quotes (wohnmobilforum.de, webcampista.com, caravan-forum.nl). FAA-only flight sentence replaced by the local airline rule, FAA kept as US reference without link. No prices, no local Amazon store, no testing claims; 'nicht getestet/no los he probado/niet getest' disclaimer kept.",
+    "at": "2026-11-09T15:58:19.079Z",
+    "hash": "7a87fe9d6955ca14"
+  }
+}

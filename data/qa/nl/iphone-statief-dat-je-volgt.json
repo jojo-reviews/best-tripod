@@ -1,0 +1,20 @@
+{
+  "slug": "nl/iphone-statief-dat-je-volgt",
+  "lang": "nl",
+  "translationOf": "best-iphone-tripod-that-follows-you",
+  "pass": true,
+  "checkedAt": "2026-11-09T15:59:28.415Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-content-creators/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-iphone-tripod-that-follows-you: same 5 products/ASINs/order, scores, specs keys, owners counts and sources, FAQ answers and numbers; unit conversions checked (70 in = 178 cm, 1.64-22.97 ft = 0.5-7 m, oz values). Local additions verified against the local brief sources: DJI OM8 spec page (12.06 Wh, about 5 h module tracking), airline lithium rule 100 Wh (Lufthansa / Iberia Express / KLM pages), Osmo Mobile 8P EU launch May 2026 (iphone-ticker.de, amazon.es/.nl listings), Prado normativa / Rijksmuseum filmen page, local forum quotes re-opened verbatim (gutefrage, forocoches, tweakers). US-only import note kept as US-specific. No price, no testing claim, no local store claim; Hohem link dropped to stay at 3 outside links (number kept as plain text).",
+    "at": "2026-11-09T15:59:27.830Z",
+    "hash": "c6adb5a43c34edc7"
+  }
+}

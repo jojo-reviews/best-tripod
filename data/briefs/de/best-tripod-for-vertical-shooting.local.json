@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-vertical-shooting",
+  "checkedAt": "2026-11-09T15:52:11.344Z",
+  "productFit": [
+    {
+      "name": "Manfrotto ONE Hybrid Aluminum Tripod with 500X Fluid Video Head",
+      "asin": "B0G1Z9LSSV",
+      "status": "fits",
+      "metricSpecs": "Metric figures from the English post's sources (Fstoppers, Manfrotto): 170,5 cm max. without head, 19 cm min. (column removed), 70,5 cm folded without head, legs 3,5 kg + 500X head 1,2 kg, legs 15 kg / head 5 kg load, counterbalance 2,4 kg at 55 mm.",
+      "reason": "Sold in the EU under the same kit code MKONEA-500X. Calumet, Foto Erhardt and Teltec list the kit (Calumet code MANMKONEA500X); Manfrotto has a German product page (global-de, MKONEA-500X).",
+      "source": "https://www.calumet.de/product/manfrotto-one-hybrid-aluminium-stativ-mit-500x-fluid-kopf"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload.",
+      "reason": "German retailer lists the EU kit code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load.",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by Kamera Express (NL/BE).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post.",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg: Befree Advanced (40 cm), Peak Design (39,4 cm), K&F (39,5 cm) und SIRUI (33 cm) passen zusammengeklappt der Länge nach hinein, das Manfrotto ONE Hybrid (70,5 cm ohne Kopf) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom: private Fotos und Videos sind erlaubt, Stative und ähnliche technische Hilfsmittel aber nur mit einer vorher bei der Pressestelle eingeholten Zutrittserlaubnis.",
+      "source": "https://www.koelner-dom.de/besuchen/fotografieren-und-filmen"
+    },
+    {
+      "fact": "Die Staatlichen Museen zu Berlin verlangen in ihrer Benutzungsordnung, dass Stative abgegeben oder ins Schließfach gelegt werden.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "fact": "Deutsche Begriffe: Hochformat / Querformat, L-Winkel (L-Schiene), Kugelkopf, Fluidkopf / Videoneiger, Schnellwechselplatte; Arca-Swiss heißt überall gleich.",
+      "source": "https://www.fuji-x-forum.de/topic/36223-praxiserfahrung-mit-l-winkelstativ-im-hochformat/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Der Wechsel von Quer- zu Hochformat über den Kugelkopf verschiebt den Bildausschnitt, man muss alles neu ausrichten.",
+      "fix": "L-Winkel mit Arca-Klemme (Peak Design, SIRUI, K&F): Kamera herausnehmen, drehen, seitlich einklemmen; die Kamera bleibt über der Mittelsäule. Für Video kippt die 500X-Platte ohne Umbau.",
+      "quotes": [
+        {
+          "text": "Nervig war dabei der Wechsel von Hoch- zu Querformat über den Kugelkopf mit dem genauen neu ausrichten des Kugelkopfes.",
+          "url": "https://www.oly-forum.com/topic/24986-l-winkel-f%C3%BCr-e-m-1-ii-rss-vs-3-legged-things-ellie-vs-mengs/"
+        }
+      ],
+      "sources": [
+        "https://www.oly-forum.com/topic/24986-l-winkel-f%C3%BCr-e-m-1-ii-rss-vs-3-legged-things-ellie-vs-mengs/"
+      ]
+    },
+    {
+      "pain": "Billige Universal-L-Winkel haben Spiel und verdrehen sich mit schwerem Objektiv.",
+      "fix": "Einen Winkel wählen, der für das eigene Kameragehäuse gemacht ist (englischer Beitrag), und die Klemme vor dem Kauf prüfen.",
+      "quotes": [
+        {
+          "text": "Der Winkel hat leichtes Spiel gehabt, auch wenn man die Schraube echt stark angezogen hat.",
+          "url": "https://www.oly-forum.com/topic/24986-l-winkel-f%C3%BCr-e-m-1-ii-rss-vs-3-legged-things-ellie-vs-mengs/"
+        }
+      ],
+      "sources": [
+        "https://www.oly-forum.com/topic/24986-l-winkel-f%C3%BCr-e-m-1-ii-rss-vs-3-legged-things-ellie-vs-mengs/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa-Handgepäck 55 x 40 x 23 cm: welche der fünf Stative zusammengeklappt hineinpassen (vier ja, das ONE Hybrid mit 70,5 cm nicht).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Stativregeln an Orten, wo man Hochformat-Motive sucht: Kölner Dom nur mit Genehmigung, Staatliche Museen zu Berlin Stative an die Garderobe.",
+      "source": "https://www.koelner-dom.de/besuchen/fotografieren-und-filmen"
+    },
+    {
+      "point": "Metrische Herstellerwerte aus EU-Quellen (Befree 151/128/40 cm, 1,59 kg; Peak Design 152,4/130,2 cm, 39,4 cm; ONE 170,5 cm, 70,5 cm) statt umgerechneter Zollwerte.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "point": "Deutsche Forenstimmen zum Neu-Ausrichten im Hochformat und zu wackelnden L-Winkeln, mit Lösung.",
+      "source": "https://www.oly-forum.com/topic/24986-l-winkel-f%C3%BCr-e-m-1-ii-rss-vs-3-legged-things-ellie-vs-mengs/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with ... its own Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "say each has its own Amazon listing; no country or availability claim (OneLink rule)"
+    },
+    {
+      "english": "Imperial-first figures (67.1 in, 27.8 in, 15.75 in, 2.8 lb ...)",
+      "action": "replace",
+      "with": "metric first from the maker's figures in productFit.metricSpecs, imperial in brackets"
+    },
+    {
+      "english": "Premium price / budget price wording",
+      "action": "replace",
+      "with": "keep as relative wording, no prices or currencies"
+    }
+  ]
+}

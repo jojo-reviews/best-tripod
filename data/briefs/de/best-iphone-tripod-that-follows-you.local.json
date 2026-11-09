@@ -1,0 +1,141 @@
+{
+  "lang": "de",
+  "translationOf": "best-iphone-tripod-that-follows-you",
+  "checkedAt": "2026-11-09T15:52:42Z",
+  "productFit": [
+    {
+      "name": "Insta360 Flow 2 Pro",
+      "asin": "B0DPKV8LP7",
+      "status": "fits",
+      "metricSpecs": "Insta360: 357 g gimbal + 25 g magnetic clamp, phones 130-300 g, 210 mm rod, built-in tripod 94 mm (same metric figures as the English post).",
+      "reason": "Same ASIN B0DPKV8LP7 listed on www.amazon.de.",
+      "source": "https://www.amazon.de/Insta360-Flow-Grau-Multi-Personen-360%C2%BA-Pan-Tracking/dp/B0DPKV8LP7"
+    },
+    {
+      "name": "DJI Osmo Mobile 8",
+      "asin": "B0FJ2L67HJ",
+      "status": "fits",
+      "metricSpecs": "DJI specs: approx. 370 g with tripod, clamp and module; 215 mm rod; phones 170-300 g; tripod 67 mm; battery 3350 mAh / 12.06 Wh, approx. 10 h, approx. 5 h with module tracking (fill light off), approx. 4 h with tracking and full fill light; 1/4\"-20 UNC port.",
+      "reason": "Same ASIN B0FJ2L67HJ listed on www.amazon.de.",
+      "source": "https://www.amazon.de/-/en/DJI-Smartphone-Stabilization-integrated-extension/dp/B0FJ2L67HJ"
+    },
+    {
+      "name": "DJI Osmo Mobile 8P",
+      "asin": "B0G397GQZR",
+      "status": "fits",
+      "metricSpecs": "iphone-ticker.de (DJI launch data): about 386 g, 21.5 cm extension rod, up to 10 h battery, built-in tripod.",
+      "reason": "DJI launched the 8P in Germany on 7 May 2026 (dji.com/de/osmo-mobile-8p); same ASIN B0G397GQZR on www.amazon.de. The English 'import in the US' caveat is US-only.",
+      "source": "https://www.iphone-ticker.de/osmo-mobile-8p-dji-bringt-gimbal-mit-display-fernbedienung-277590/"
+    },
+    {
+      "name": "Hohem iSteady M7",
+      "asin": "B0DQL4BWYG",
+      "status": "fits",
+      "metricSpecs": "Amazon EU listing: 193 mm rod, clamp for phones 58-90 mm wide, remote controls from up to 10 m; Hohem: 629 g, 170-500 g payload. Tracking distance 1.64-22.97 ft = 0.5-7 m.",
+      "reason": "Same ASIN B0DQL4BWYG on www.amazon.de, sold by Hohem Direct de.",
+      "source": "https://www.amazon.de/dp/B0DQL4BWYG"
+    },
+    {
+      "name": "DJI Osmo Mobile 7P",
+      "asin": "B07FTG84SW",
+      "status": "fits",
+      "metricSpecs": "DJI: about 368 g with tripod, clamp and module; 215 mm rod; 67 mm tripod; pan -109 to 222 degrees.",
+      "reason": "DJI sells the Osmo Mobile 7 series in Europe under the same name; iphone-ticker.de readers discuss the 7P as the cheaper German alternative to the 8P.",
+      "source": "https://www.iphone-ticker.de/osmo-mobile-8p-dji-bringt-gimbal-mit-display-fernbedienung-277590/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt persönliche elektronische Geräte mit Lithium-Akku bis 100 Wh pro Gerät ohne Genehmigung; darüber ist eine Transportgenehmigung nötig.",
+      "source": "https://www.lufthansa.com/am/de/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "fact": "DJI gibt den Akku des Osmo Mobile 8 mit 3350 mAh und 12,06 Wh an, also weit unter der 100-Wh-Grenze der Airlines.",
+      "source": "https://www.dji.com/osmo-mobile-8/specs"
+    },
+    {
+      "fact": "DJI hat den Osmo Mobile 8P am 7. Mai 2026 in Deutschland vorgestellt (386 g, 21,5 cm Verlängerungsstab, bis zu 10 Stunden Akku).",
+      "source": "https://www.iphone-ticker.de/osmo-mobile-8p-dji-bringt-gimbal-mit-display-fernbedienung-277590/"
+    },
+    {
+      "fact": "§ 22 KunstUrhG: Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden; wer andere mitfilmt und das Video online stellt, fragt sie vorher.",
+      "source": "https://www.gesetze-im-internet.de/kunsturhg/__22.html"
+    },
+    {
+      "fact": "Gängige deutsche Begriffe: Gimbal / Handy-Gimbal, Tracking-Stativ, Gesichtsverfolgung, Verlängerungsstab, integriertes Stativ, Stativgewinde 1/4 Zoll.",
+      "source": "https://www.iphone-ticker.de/osmo-mobile-8p-dji-bringt-gimbal-mit-display-fernbedienung-277590/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Unsicher, ob man ein Tracking-Modul überhaupt braucht oder ob Stabilisierung reicht.",
+      "fix": "Tracking lohnt sich, wenn man sich allein filmt und sich bewegt; wer nur von vorn spricht, kommt mit dem günstigeren 7P aus (Englischer Beitrag: Problem 'Why not crop in post?' und Kaufberatung).",
+      "quotes": [
+        {
+          "text": "Für normale Videos brauchst du das Tracking-Modul meist nicht. Es lohnt sich vor allem, wenn die Kamera dir oder einem Motiv automatisch folgen soll.",
+          "url": "https://www.gutefrage.net/frage/gimbal-tracking"
+        },
+        {
+          "text": "sowas braucht man eigentlich nur wenn man sich selbst damit Filmen will",
+          "url": "https://www.gutefrage.net/frage/gimbal-tracking"
+        }
+      ],
+      "sources": [
+        "https://www.gutefrage.net/frage/gimbal-tracking"
+      ]
+    },
+    {
+      "pain": "Tracking funktioniert nur mit dem Handy, nicht mit einer Kamera auf einem Kamera-Gimbal.",
+      "fix": "Für Selbstfilmer ist ein Handy-Gimbal mit DockKit oder Modul die einfache Lösung; DockKit braucht keine Hersteller-App.",
+      "quotes": [
+        {
+          "text": "Dafür müsste auf der Kamera eine Software von DJI laufen, die diese Funktion anbietet. Auf dem Smartphone geht das.",
+          "url": "https://www.gutefrage.net/frage/gimbel-auto-tracking"
+        }
+      ],
+      "sources": [
+        "https://www.gutefrage.net/frage/gimbel-auto-tracking"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Akku-Regel im Flugzeug: Lufthansa erlaubt Geräte bis 100 Wh; der Osmo Mobile 8 hat laut DJI 12,06 Wh.",
+      "source": "https://www.lufthansa.com/am/de/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "point": "Der Osmo Mobile 8P wurde in Deutschland offiziell vorgestellt; der US-Import-Hinweis betrifft nur die USA.",
+      "source": "https://www.iphone-ticker.de/osmo-mobile-8p-dji-bringt-gimbal-mit-display-fernbedienung-277590/"
+    },
+    {
+      "point": "Recht am eigenen Bild (§ 22 KunstUrhG) beim Mitfilmen anderer Personen.",
+      "source": "https://www.gesetze-im-internet.de/kunsturhg/__22.html"
+    },
+    {
+      "point": "Antwort auf die gutefrage-Frage, ob man Tracking braucht.",
+      "source": "https://www.gutefrage.net/frage/gimbal-tracking"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "DJI has not launched it in the US, so the Amazon listing is an import (8P section, renterNote, cons, tldr)",
+      "action": "replace",
+      "with": "Keep it as a US-specific note and add that DJI launched the 8P in Europe in May 2026."
+    },
+    {
+      "english": "each has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "each has its own Amazon listing checked by hand (no country)."
+    },
+    {
+      "english": "the plain Insta360 Flow 2 because Amazon US only carried it in bundles",
+      "action": "replace",
+      "with": "keep as a clearly US-specific statement (in the US)."
+    },
+    {
+      "english": "about 70 inches / 1.64 to 22.97 ft",
+      "action": "replace",
+      "with": "metric first: about 178 cm (70 in); 0.5 to 7 m (1.64 to 22.97 ft)."
+    }
+  ]
+}

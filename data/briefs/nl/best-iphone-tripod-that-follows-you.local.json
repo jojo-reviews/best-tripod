@@ -1,0 +1,150 @@
+{
+  "lang": "nl",
+  "translationOf": "best-iphone-tripod-that-follows-you",
+  "checkedAt": "2026-11-09T15:52:42Z",
+  "productFit": [
+    {
+      "name": "Insta360 Flow 2 Pro",
+      "asin": "B0DPKV8LP7",
+      "status": "fits",
+      "metricSpecs": "Insta360: 357 g gimbal + 25 g magnetic clamp, phones 130-300 g, 210 mm rod, built-in tripod 94 mm (same metric figures as the English post).",
+      "reason": "Same ASIN B0DPKV8LP7 listed on www.amazon.nl.",
+      "source": "https://www.amazon.nl/-/en/Insta360-Flow-Pro-Grey-AI-telefoongimbal/dp/B0DPKV8LP7"
+    },
+    {
+      "name": "DJI Osmo Mobile 8",
+      "asin": "B0FJ2L67HJ",
+      "status": "fits",
+      "metricSpecs": "DJI specs: approx. 370 g with tripod, clamp and module; 215 mm rod; phones 170-300 g; tripod 67 mm; battery 3350 mAh / 12.06 Wh, approx. 10 h, approx. 5 h with module tracking (fill light off), approx. 4 h with tracking and full fill light; 1/4\"-20 UNC port.",
+      "reason": "DJI sells the Osmo Mobile 8 worldwide under the same name; DJI's spec page lists the same model.",
+      "source": "https://www.dji.com/osmo-mobile-8/specs"
+    },
+    {
+      "name": "DJI Osmo Mobile 8P",
+      "asin": "B0G397GQZR",
+      "status": "fits",
+      "metricSpecs": "iphone-ticker.de (DJI launch data): about 386 g, 21.5 cm extension rod, up to 10 h battery, built-in tripod.",
+      "reason": "Sold on www.amazon.nl (Advanced Tracking Combo B0G39B4DNL) and on DJI's Dutch site. The English 'import in the US' caveat is US-only.",
+      "source": "https://www.amazon.nl/-/en/Stabilizer-Tracking-tracking-extension-stabilization/dp/B0G39B4DNL"
+    },
+    {
+      "name": "Hohem iSteady M7",
+      "asin": "B0DQL4BWYG",
+      "status": "fits",
+      "metricSpecs": "Amazon EU listing: 193 mm rod, clamp for phones 58-90 mm wide, remote controls from up to 10 m; Hohem: 629 g, 170-500 g payload. Tracking distance 1.64-22.97 ft = 0.5-7 m.",
+      "reason": "Listed on www.amazon.nl under several Hohem ASINs (same model).",
+      "source": "https://www.amazon.nl/-/en/hohem-Tracking-Detachable-Integrated-Extension/dp/B0DQKCBJ8Y"
+    },
+    {
+      "name": "DJI Osmo Mobile 7P",
+      "asin": "B07FTG84SW",
+      "status": "fits",
+      "metricSpecs": "DJI: about 368 g with tripod, clamp and module; 215 mm rod; 67 mm tripod; pan -109 to 222 degrees.",
+      "reason": "Same ASIN B07FTG84SW listed on www.amazon.nl.",
+      "source": "https://www.amazon.nl/-/en/Mobile-Gimbal-Stabilizer-Android-Tracking/dp/B07FTG84SW"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: in de handbagage mag elke lithiumbatterij maximaal 100 Wh hebben; tussen 100 en 160 Wh vraag je eerst toestemming.",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-hand-baggage"
+    },
+    {
+      "fact": "DJI geeft de accu van de Osmo Mobile 8 op als 3350 mAh en 12,06 Wh, ruim onder de 100-Wh-grens.",
+      "source": "https://www.dji.com/osmo-mobile-8/specs"
+    },
+    {
+      "fact": "Rijksmuseum: bezoekers mogen filmen en fotograferen zolang dit geen overlast veroorzaakt; bij bruidsfotografie gelden onder meer geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Portretrecht (Auteurswet art. 21): wie herkenbaar in beeld is, kan zich bij een redelijk belang tegen publicatie verzetten; vraag mensen die je meefilmt toestemming voor je online zet.",
+      "source": "https://wetten.overheid.nl/BWBR0001886/"
+    },
+    {
+      "fact": "Gangbare Nederlandse termen: gimbal voor je telefoon, volgstatief / auto tracking statief, gezichtsherkenning, verlengstuk, ingebouwd statief, 1/4 inch-schroefdraad.",
+      "source": "https://www.bol.com/nl/nl/p/automatisch-volgstatief-met-360-rotatie-selfie-statief-met-bewegingssensor-face-tracking-smartphone-zwart/9300000220433142/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Met de standaard camera-app van Samsung (of andere Android-telefoons) werkt tracking niet.",
+      "fix": "Een losse trackingmodule (Osmo Mobile 8, 7P, Hohem M7) volgt in elke camera-app, ook op Android.",
+      "quotes": [
+        {
+          "text": "Wat opzich geen probleem is, maar dan heb je bijvoorbeeld geen tracking functionaliteit.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2122476"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2122476"
+      ]
+    },
+    {
+      "pain": "Twijfel of een gimbal iets toevoegt naast de ingebouwde stabilisatie van de telefoon.",
+      "fix": "De meerwaarde is het volgen: een tracking-gimbal houdt je in beeld als je door de kamer loopt (Engelse post: 'Why not crop in post?').",
+      "quotes": [
+        {
+          "text": "Waar voegt die gimbal nou écht iets toe tegenover de ingebouwde stabilisatie.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2122476"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2122476"
+      ]
+    },
+    {
+      "pain": "Zware telefoon (Pro Max) en de vraag of de motoren dat trekken.",
+      "fix": "Kijk naar het telefoongewicht per gimbal: 130-300 g bij Insta360, 170-300 g bij DJI, tot 500 g bij de Hohem M7.",
+      "quotes": [
+        {
+          "text": "Ik ga upgraden naar een iPhone 13 Pro Max en ben bang dat de DJI OM5 motors dat niet gaan trekken.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/2122476"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/2122476"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Accuregel in het vliegtuig (KLM, 100 Wh) tegenover de 12,06 Wh van de Osmo Mobile 8.",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-hand-baggage"
+    },
+    {
+      "point": "Rijksmuseum-regels voor filmen en statieven.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "point": "De Osmo Mobile 8P is in Nederland gewoon te koop; de importwaarschuwing geldt alleen voor de VS.",
+      "source": "https://www.amazon.nl/-/en/Stabilizer-Tracking-tracking-extension-stabilization/dp/B0G39B4DNL"
+    },
+    {
+      "point": "Antwoord op de Tweakers-vragen over Samsung-tracking en zware telefoons.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/2122476"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "DJI has not launched it in the US, so the Amazon listing is an import (8P section, renterNote, cons, tldr)",
+      "action": "replace",
+      "with": "Keep it as a US-specific note and add that DJI launched the 8P in Europe in May 2026."
+    },
+    {
+      "english": "each has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "each has its own Amazon listing checked by hand (no country)."
+    },
+    {
+      "english": "the plain Insta360 Flow 2 because Amazon US only carried it in bundles",
+      "action": "replace",
+      "with": "keep as a clearly US-specific statement (in the US)."
+    },
+    {
+      "english": "about 70 inches / 1.64 to 22.97 ft",
+      "action": "replace",
+      "with": "metric first: about 178 cm (70 in); 0.5 to 7 m (1.64 to 22.97 ft)."
+    }
+  ]
+}

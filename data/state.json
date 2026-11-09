@@ -1724,6 +1724,69 @@
       "lang": "nl",
       "translationOf": "best-tripod-for-coyote-hunting",
       "pubDate": "2026-11-09T14:25:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "de/stativ-fuer-hochformat",
+      "lang": "de",
+      "translationOf": "best-tripod-for-vertical-shooting",
+      "pubDate": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "es/tripode-para-fotos-en-vertical",
+      "lang": "es",
+      "translationOf": "best-tripod-for-vertical-shooting",
+      "pubDate": "2026-11-10T07:55:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "de/stativ-fuer-starlink-mini",
+      "lang": "de",
+      "translationOf": "best-tripod-for-starlink-mini",
+      "pubDate": "2026-11-10T11:10:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "es/tripode-para-starlink-mini",
+      "lang": "es",
+      "translationOf": "best-tripod-for-starlink-mini",
+      "pubDate": "2026-11-10T05:40:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "nl/statief-voor-starlink-mini",
+      "lang": "nl",
+      "translationOf": "best-tripod-for-starlink-mini",
+      "pubDate": "2026-11-10T05:35:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "nl/statief-voor-staand-fotograferen",
+      "lang": "nl",
+      "translationOf": "best-tripod-for-vertical-shooting",
+      "pubDate": "2026-11-10T08:10:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "de/iphone-stativ-mit-tracking",
+      "lang": "de",
+      "translationOf": "best-iphone-tripod-that-follows-you",
+      "pubDate": "2026-11-10T08:50:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "es/tripode-para-iphone-que-te-sigue",
+      "lang": "es",
+      "translationOf": "best-iphone-tripod-that-follows-you",
+      "pubDate": "2026-11-10T10:55:00.000Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "nl/iphone-statief-dat-je-volgt",
+      "lang": "nl",
+      "translationOf": "best-iphone-tripod-that-follows-you",
+      "pubDate": "2026-11-10T10:15:00.000Z"
     }
   ]
 }

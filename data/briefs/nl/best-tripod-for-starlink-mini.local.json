@@ -1,0 +1,120 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-starlink-mini",
+  "checkedAt": "2026-11-09T15:52:13Z",
+  "productFit": [
+    {
+      "name": "Boltwasp Starlink Mini Tripod Mount",
+      "asin": "B0GH7SYNV3",
+      "status": "unknown",
+      "metricSpecs": "amazon.de listing: item dimensions 41,5 x 5 x 5 cm (folded); no weight given. Keep English 16.34 in converted as 41,5 cm.",
+      "reason": "No listing found on the local Amazon store or a local retailer; the same ASIN is listed on amazon.de only. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B0GH7SYNV3"
+    },
+    {
+      "name": "EXNOVFC Portable Starlink Mini Tripod Stand",
+      "asin": "B0G1ZBRFL2",
+      "status": "unknown",
+      "metricSpecs": "No EU page; English figures: 327 g (0.72 lb), rated 8 lb (listing gives 3.3 kg next to it; use 3,6 kg (8 lb) conversion only if QA requires, otherwise keep 8 lb (3,3 kg per listing)).",
+      "reason": "amazon.de/dp/B0G1ZBRFL2 returns 'Page Not Found'; only US sellers found (Amazon US, a US electronics shop). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.com/dp/B0G1ZBRFL2"
+    },
+    {
+      "name": "Saunyoto PM166S Starlink Mini Battery Pack",
+      "asin": "B0H7576SYF",
+      "status": "fits",
+      "metricSpecs": "amazon.nl listing (model PM166S): 32,26 x 8,89 x 6,3 cm, 166 Wh; weight given inconsistently (1,4 kg in the table, 1 kg / 2.2 lb in the text), so keep the English 2.2 lb as about 1,0 kg.",
+      "reason": "Listed on www.amazon.nl under ASIN B0FXLZZ4PW, brand Saunyoto, model PM166S, same 166 Wh pack with tripod stand (OneLink keeps the US ASIN in the post).",
+      "source": "https://www.amazon.nl/dp/B0FXLZZ4PW"
+    },
+    {
+      "name": "ROVEDGE MK-1 Portable Power Station for Starlink Mini",
+      "asin": "B0H7J8XTX7",
+      "status": "unknown",
+      "metricSpecs": "RovEdge: about 1.025 g; amazon.de lists 35,1 x 11,1 x 8,1 cm and 189 Wh / 51.300 mAh.",
+      "reason": "No listing found on the local Amazon store or a local retailer; RovEdge sells from its own web shop and the ASIN is listed on amazon.de only. Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B0H7J8XTX7"
+    },
+    {
+      "name": "Daqa 110W Battery Pack for Starlink Mini",
+      "asin": "B0DXK28P86",
+      "status": "unknown",
+      "metricSpecs": "Listing: 21,6 V / 30.000 mAh, 1.65 lb (about 0,75 kg; English post says 1.7 lb, use 0,8 kg (1.7 lb)).",
+      "reason": "No amazon.nl or Dutch/Belgian retailer listing found (listed on amazon.de and amazon.es). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.de/dp/B0DXK28P86"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM: elke lithiumbatterij in de handbagage moet 100 Wh of minder zijn; voor 100 tot 160 Wh is toestemming nodig en batterijen van meer dan 160 Wh zijn nooit toegestaan.",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-hand-baggage"
+    },
+    {
+      "fact": "Starlink geeft de Mini op als 298,5 x 259 x 38,5 mm en 1,10 kg (1,16 kg met standaard); hij werkt bij wind tot 96 km/u en meer.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "fact": "Volgens Starlink werkt de Mini van -30 °C tot 50 °C, verbruikt hij gemiddeld 25 tot 40 W en zit er een DC-kabel van 15 m in de set.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Op de camping onder bomen is de ontvangst slecht en moet de Mini naar buiten.",
+      "fix": "Een statief zet de Mini buiten boven struiken; check eerst de obstructiekaart in de Starlink-app.",
+      "quotes": [
+        {
+          "text": "1 keer buiten moeten leggen omdat we net iets teveel onder bomen stonden",
+          "url": "https://caravan-forum.nl/viewtopic.php?t=50964&start=1875"
+        }
+      ],
+      "sources": [
+        "https://caravan-forum.nl/viewtopic.php?t=50964&start=1875"
+      ]
+    },
+    {
+      "pain": "Zonder uitlijnen is de verbinding beperkter en valt vaker weg.",
+      "fix": "Een statief met balhoofd (Boltwasp) laat de Mini kantelen en richten; een vaste standaard draait alleen.",
+      "quotes": [
+        {
+          "text": "zonder uitlijnen gewoon veel beperkter en hij blijft vaker hikken",
+          "url": "https://caravan-forum.nl/viewtopic.php?t=50964&start=1875"
+        }
+      ],
+      "sources": [
+        "https://caravan-forum.nl/viewtopic.php?t=50964&start=1875"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM-regel voor accustatieven (tot 100 Wh vrij, 100-160 Wh met toestemming, daarboven nooit).",
+      "source": "https://www.klm.nl/information/baggage/restricted-items-hand-baggage"
+    },
+    {
+      "point": "Metrische fabriekswaarden: 1,10 kg, wind 96 km/u, kabel van 15 m.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "point": "Antwoord op slechte ontvangst onder bomen op de camping.",
+      "source": "https://caravan-forum.nl/viewtopic.php?t=50964&start=1875"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The Federal Aviation Administration allows batteries up to 100 Wh in carry-on, needs airline approval from 101 to 160 Wh and bans anything larger.",
+      "action": "replace",
+      "with": "local airline rule (Lufthansa / Iberia Express / KLM) from localFacts, mention that the US FAA draws the same 160 Wh line (no FAA link in body)"
+    },
+    {
+      "english": "has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "'has its own Amazon listing I checked by hand' (no store country, OneLink rule)"
+    },
+    {
+      "english": "Wind rating 60 mph+",
+      "action": "replace",
+      "with": "maker metric figure 96 km/h+ (60 mph+)"
+    }
+  ]
+}

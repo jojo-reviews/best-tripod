@@ -1,0 +1,134 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-vertical-shooting",
+  "checkedAt": "2026-11-09T15:52:11.344Z",
+  "productFit": [
+    {
+      "name": "Manfrotto ONE Hybrid Aluminum Tripod with 500X Fluid Video Head",
+      "asin": "B0G1Z9LSSV",
+      "status": "fits",
+      "metricSpecs": "Metric figures from the English post's sources (Fstoppers, Manfrotto): 170,5 cm max. without head, 19 cm min. (column removed), 70,5 cm folded without head, legs 3,5 kg + 500X head 1,2 kg, legs 15 kg / head 5 kg load, counterbalance 2,4 kg at 55 mm.",
+      "reason": "Sold in the EU under the same kit code MKONEA-500X. Cameranu, Nivo-Schweitzer (MKONEA-500X One kit) and Art & Craft list the kit.",
+      "source": "https://www.cameranu.nl/p3485394/manfrotto-one-alu-with-500x-fluid-head"
+    },
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs and 494 ball head.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload.",
+      "reason": "German retailer lists the EU kit code MKBFRLA4BK-BH.",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load.",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by Kamera Express (NL/BE).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post.",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "Maker naming 163 cm, 8 kg load; English post: 52 cm min., 39,5 cm folded, 1,15 kg.",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es (\"Trípode Cámara 163CM\").",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat één stuk handbagage van maximaal 55 x 35 x 25 cm toe: de Befree Advanced (40 cm), Peak Design (39,4 cm), K&F (39,5 cm) en SIRUI (33 cm) passen ingeklapt in de lengte, de Manfrotto ONE Hybrid (70,5 cm zonder kop) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Het Rijksmuseum verwijst voor fotograferen naar zijn Algemene Voorwaarden, met als voorbeeld: geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Nederlandse termen: staand / liggend formaat, L-bracket (L-plaat), balhoofd, vloeistofkop (videokop), snelkoppelplaat; Arca-Swiss heet overal zo.",
+      "source": "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Bij het kantelen naar staand formaat verzakt de camera op een gewone snelkoppelplaat.",
+      "fix": "L-bracket met Arca-klem (Peak Design, SIRUI, K&F): de camera blijft boven het statief; voor video kantelt de 500X-plaat zelf.",
+      "quotes": [
+        {
+          "text": "Op het moment dat je de camera van de horizontale naar de verticale stand kantelt bestaat de kans dat je camera verzakt.",
+          "url": "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/"
+        }
+      ],
+      "sources": [
+        "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/"
+      ]
+    },
+    {
+      "pain": "Een goedkope L-bracket past niet goed in de Arca-klem, of men weet niet of hij op het balhoofd past.",
+      "fix": "Controleer vóór aankoop of de klem Arca-type is (Peak Design, SIRUI en K&F wel; Manfrotto RC2 eerst een adapter) en kies een bracket voor je eigen camerabody.",
+      "quotes": [
+        {
+          "text": "Deze L-Bracket is op de lange kant te smal gefreesd en laat zich in een Arca Swiss houder niet klemvast zetten.",
+          "url": "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/"
+        },
+        {
+          "text": "Is het nu zo dat ik een andere type balhoofd nodig heb zodat die L-plaat op mijn balhoofd past ?",
+          "url": "https://kijkenziefotoschool.nl/welk-statief-kopen/"
+        }
+      ],
+      "sources": [
+        "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/",
+        "https://kijkenziefotoschool.nl/welk-statief-kopen/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM-handbagage 55 x 35 x 25 cm: vier van de vijf statieven passen ingeklapt, de ONE Hybrid (70,5 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Musea waar geen statief mag (Rijksmuseum, Rijksmuseum Boerhaave).",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "point": "Metrische fabriekswaarden (Befree 151/128/40 cm, 1,59 kg; Peak Design 152,4/130,2 cm, 39,4 cm; ONE 170,5 cm, 70,5 cm).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "point": "Nederlandse stemmen over verzakken bij staand formaat en L-brackets die niet klemmen, met oplossing.",
+      "source": "https://www.nandoonline.com/tutorials-van-nando-harmsen/de-zin-en-onzin-van-een-l-bracket/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "each with ... its own Amazon US listing (How I picked)",
+      "action": "replace",
+      "with": "say each has its own Amazon listing; no country or availability claim (OneLink rule)"
+    },
+    {
+      "english": "Imperial-first figures (67.1 in, 27.8 in, 15.75 in, 2.8 lb ...)",
+      "action": "replace",
+      "with": "metric first from the maker's figures in productFit.metricSpecs, imperial in brackets"
+    },
+    {
+      "english": "Premium price / budget price wording",
+      "action": "replace",
+      "with": "keep as relative wording, no prices or currencies"
+    }
+  ]
+}

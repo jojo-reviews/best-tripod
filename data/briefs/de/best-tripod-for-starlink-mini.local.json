@@ -1,0 +1,134 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-starlink-mini",
+  "checkedAt": "2026-11-09T15:52:13Z",
+  "productFit": [
+    {
+      "name": "Boltwasp Starlink Mini Tripod Mount",
+      "asin": "B0GH7SYNV3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing: item dimensions 41,5 x 5 x 5 cm (folded); no weight given. Keep English 16.34 in converted as 41,5 cm.",
+      "reason": "Same ASIN B0GH7SYNV3 listed on www.amazon.de as 'Starlink Mini-Stativhalterung mit Adapter' by Boltwasp (shown as currently unavailable at check time).",
+      "source": "https://www.amazon.de/dp/B0GH7SYNV3"
+    },
+    {
+      "name": "EXNOVFC Portable Starlink Mini Tripod Stand",
+      "asin": "B0G1ZBRFL2",
+      "status": "unknown",
+      "metricSpecs": "No EU page; English figures: 327 g (0.72 lb), rated 8 lb (listing gives 3.3 kg next to it; use 3,6 kg (8 lb) conversion only if QA requires, otherwise keep 8 lb (3,3 kg per listing)).",
+      "reason": "amazon.de/dp/B0G1ZBRFL2 returns 'Page Not Found'; only US sellers found (Amazon US, a US electronics shop). Add one neutral sentence that it is mainly sold in the US.",
+      "source": "https://www.amazon.com/dp/B0G1ZBRFL2"
+    },
+    {
+      "name": "Saunyoto PM166S Starlink Mini Battery Pack",
+      "asin": "B0H7576SYF",
+      "status": "fits",
+      "metricSpecs": "Listing: 166 Wh / 45.000 mAh, 32,3 x 6,3 x 8,9 cm; weight 2.2 lb, so about 1,0 kg.",
+      "reason": "Same ASIN B0H7576SYF listed on www.amazon.de under the Saunyoto name (no offer shown to the checking location).",
+      "source": "https://www.amazon.de/dp/B0H7576SYF"
+    },
+    {
+      "name": "ROVEDGE MK-1 Portable Power Station for Starlink Mini",
+      "asin": "B0H7J8XTX7",
+      "status": "fits",
+      "metricSpecs": "RovEdge: about 1.025 g; amazon.de lists 35,1 x 11,1 x 8,1 cm and 189 Wh / 51.300 mAh.",
+      "reason": "Same ASIN B0H7J8XTX7 listed on www.amazon.de as 'RovEdge MK-1 Tragbare Kraftstation für Starlink Mini, 189Wh' (shown as currently unavailable at check time).",
+      "source": "https://www.amazon.de/dp/B0H7J8XTX7"
+    },
+    {
+      "name": "Daqa 110W Battery Pack for Starlink Mini",
+      "asin": "B0DXK28P86",
+      "status": "fits",
+      "metricSpecs": "Listing: 21,6 V / 30.000 mAh, 1.65 lb (about 0,75 kg; English post says 1.7 lb, use 0,8 kg (1.7 lb)).",
+      "reason": "Same ASIN B0DXK28P86 listed on www.amazon.de as 'Starlink Mini Stand with Battery 21.6V/30000mAh' by Daqa (shown as currently unavailable at check time).",
+      "source": "https://www.amazon.de/dp/B0DXK28P86"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa: Powerbanks und Lithiumakkus bis 100 Wh sind erlaubt; über 100 Wh bis maximal 160 Wh ist eine Transportgenehmigung der Fluggesellschaft nötig.",
+      "source": "https://www.lufthansa.com/am/de/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "fact": "Starlink gibt die Mini mit 298,5 x 259 x 38,5 mm und 1,10 kg an (1,16 kg mit Standfuß); der Wind-Betriebswert liegt bei 96 km/h+.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "fact": "Laut Starlink arbeitet die Mini von -30 °C bis 50 °C und braucht im Schnitt 25 bis 40 W; im Kit liegt ein 15 m langes DC-Kabel.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Auf dem Stellplatz stehen Bäume im Weg; flach auf dem Dach kommt die Mini nicht an ihnen vorbei.",
+      "fix": "Ein Stativ mit Kugelkopf (Boltwasp) hebt die Mini über Gebüsch und kippt sie zum freien Himmel; vorher die Hinderniskarte in der Starlink-App prüfen.",
+      "quotes": [
+        {
+          "text": "Im Stand hatte die Lösung mit manuell aufstellen den Vorteil, das man besser an Bäumen o.ä. vorbei zielen konnte.",
+          "url": "https://www.wohnmobilforum.de/w-t168533.html"
+        }
+      ],
+      "sources": [
+        "https://www.wohnmobilforum.de/w-t168533.html"
+      ]
+    },
+    {
+      "pain": "In der Sonne Südeuropas schaltet die Mini wegen Hitze ab.",
+      "fix": "Starlink nennt 50 °C als Obergrenze des Betriebsbereichs; auf dem Stativ steht die Mini frei mit Luft dahinter statt flach auf einem heißen Dach.",
+      "quotes": [
+        {
+          "text": "Heute dann das erste Mal gehabt, das tagsüber der Empfang weg war. Es war der Mini schlicht zu heiß.",
+          "url": "https://www.wohnmobilforum.de/w-t168533.html"
+        }
+      ],
+      "sources": [
+        "https://www.wohnmobilforum.de/w-t168533.html",
+        "https://starlink.com/public-files/specification_sheet_mini.pdf"
+      ]
+    },
+    {
+      "pain": "Im deutschen Handel gibt es vor allem Kunststoffhalter mit Saugnapf oder Magnet, kein Starlink-Stativ.",
+      "fix": "Ein Stativ mit eigenem Adapter für die Rohrhalterung (alte und neue Version) oder ein Akku-Stativ ersetzt die Saugnapf-Lösung.",
+      "quotes": [
+        {
+          "text": "Bei Amazon hatte ich fast nur Kunststoffhalterungen, mit Saugnäpfen und mit Magnethalterungen gefunden. StarLink bietet kein solches Zubehör an.",
+          "url": "https://www.wohnmobilforum.de/w-t168533.html"
+        }
+      ],
+      "sources": [
+        "https://www.wohnmobilforum.de/w-t168533.html"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa-Regel für Akku-Stative (100 Wh frei, bis 160 Wh mit Genehmigung) statt nur der US-Regel der FAA.",
+      "source": "https://www.lufthansa.com/am/de/prepare-for-your-trip/baggage/electronic-devices-and-batteries"
+    },
+    {
+      "point": "Herstellerwerte in Metrik: 1,10 kg Schüssel, 96 km/h Wind, 15 m Kabel.",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    },
+    {
+      "point": "Antwort auf Hitzeabschaltung in Südeuropa (50 °C Obergrenze).",
+      "source": "https://starlink.com/public-files/specification_sheet_mini.pdf"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The Federal Aviation Administration allows batteries up to 100 Wh in carry-on, needs airline approval from 101 to 160 Wh and bans anything larger.",
+      "action": "replace",
+      "with": "local airline rule (Lufthansa / Iberia Express / KLM) from localFacts, mention that the US FAA draws the same 160 Wh line (no FAA link in body)"
+    },
+    {
+      "english": "has its own Amazon US listing I checked by hand",
+      "action": "replace",
+      "with": "'has its own Amazon listing I checked by hand' (no store country, OneLink rule)"
+    },
+    {
+      "english": "Wind rating 60 mph+",
+      "action": "replace",
+      "with": "maker metric figure 96 km/h+ (60 mph+)"
+    }
+  ]
+}
