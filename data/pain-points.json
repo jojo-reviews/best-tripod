@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:38:22.613Z",
+  "updatedAt": "2026-11-10T11:33:13.597Z",
   "categories": {
     "camera-tripods": [
       {
@@ -4733,6 +4733,319 @@
           "best-tripod-for-vertical-shooting"
         ],
         "foundAt": "2026-11-09"
+      },
+      {
+        "id": "canon-m50-sd-card-under-plate",
+        "pain": "The M50's SD card sits in the battery compartment, so the camera has to come off the tripod for every card swap",
+        "details": "An r/canon M50 owner testing video asked for a tripod that does not need the camera screwed on, because the card is under the battery door; replies suggest a smaller Arca plate, a cage with a battery cutout and offset holes, or a magic arm.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/",
+            "platform": "reddit",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "can anyone recommend a tripod that does NOT require screwing in the camera into the tripod base",
+            "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/"
+          },
+          {
+            "text": "Peak Design is good, but doesn’t always play nicely with all arca tripods.",
+            "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon m50"
+        ],
+        "keywords": [
+          "best tripod for canon m50"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-m50"
+        ]
+      },
+      {
+        "id": "canon-m50-light-camera-wind",
+        "pain": "A light M50 on a light tripod might blow over in wind",
+        "details": "An M50 owner filming outdoor sports asked for a tripod stable enough that wind will not blow it down; replies say new gear under 100 dollars is often plastic and unstable at full extension.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/",
+            "platform": "reddit",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Looking for a tripod that is stable & can hold this light camera without wind blowing the tripod down.",
+            "url": "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon m50"
+        ],
+        "keywords": [
+          "best tripod for canon m50"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-m50"
+        ]
+      },
+      {
+        "id": "canon-m50-budget-tripod-trust",
+        "pain": "M50 owners on a 70 to 100 dollar budget are told cheap tripods will drop the camera",
+        "details": "In r/canon and r/AskPhotography M50 threads, some replies warn never to put the camera on cheap legs, while others say a budget tripod is fine for an entry-level body with a light kit lens used now and then.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/",
+            "platform": "reddit",
+            "seen": "2026-11-10"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1myvj3v/could_anyone_advise_a_tripod_under_70_for_canon/",
+            "platform": "reddit",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Never, and I mean NEVER use cheap with your gear.",
+            "url": "https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon m50"
+        ],
+        "keywords": [
+          "best tripod for canon m50"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-m50"
+        ]
+      },
+      {
+        "id": "canon-m50-portrait-mini-tipping",
+        "pain": "Short mini tripods tip over when the M50 is turned to portrait for streams and reels",
+        "details": "An M50 Mark II owner streaming in portrait asked for a desk tripod that will not tip; a reply found a short mini tripod hit its own leg at 90 degrees and was too top heavy to stay up, and another owner had read that GorillaPod joints get unstable over time.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/canon/comments/pcj9ny/i_am_looking_for_a_mini_tripod_for_my_canon_m50/",
+            "platform": "reddit",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "its so top heavy it doesnt stay upright",
+            "url": "https://www.reddit.com/r/canon/comments/pcj9ny/i_am_looking_for_a_mini_tripod_for_my_canon_m50/"
+          }
+        ],
+        "searches": [
+          "best tripod for canon m50"
+        ],
+        "keywords": [
+          "best tripod for canon m50"
+        ],
+        "coveredBy": [
+          "best-tripod-for-canon-m50"
+        ]
+      },
+      {
+        "id": "sony-a6400-cheap-ball-head-slips",
+        "pain": "Cheap tripods under an a6400 have ball heads that slip or droop mid-shot and legs that give way",
+        "details": "Budget-minded a6400 owners report droopy ball heads and failed leg locks on very cheap tripods and suggest trusted brands even at their cheapest.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Unfortunately I've had cheap ball heads slip on me mid-shot before.",
+            "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
+      },
+      {
+        "id": "sony-a6400-wind-tip-over",
+        "pain": "A light tripod with a light a6400 tips or shakes in wind",
+        "details": "Owners heading to windy viewpoints worry about the tripod blowing over and advise a weight hook and sturdy legs.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          },
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "the wind at the Grand Canyon can be brutal, so you really need something with a weight hook and sturdy aluminum legs.",
+            "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
+      },
+      {
+        "id": "sony-a6400-center-column-wobble",
+        "pain": "Raising the center column on a small travel tripod wobbles during long exposures",
+        "details": "a6000-series owners say ultralight travel tripods are fine with the column down but wobble once it goes up.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If you're doing long exposures, that center column can get a bit wobbly.",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
+      },
+      {
+        "id": "sony-a6400-ball-head-video-pans",
+        "pain": "Ball heads make smooth pans and tilts hard when filming with the a6400",
+        "details": "a6400 video shooters are told a ball head unlocks two axes at once; a video or fluid head with angle marks helps repeatable framing.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "If it's videos you're after, I'd advise against ball heads.",
+            "url": "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
+      },
+      {
+        "id": "sony-a6400-too-big-for-small-bag",
+        "pain": "Full travel tripods do not fit the small sling an a6400 owner carries",
+        "details": "City travelers with a 6L sling find even the Peak Design too bulky and look at tabletop tripods.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/",
+            "platform": "forum",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "Honestly, the PD is way too big for a 6L sling.",
+            "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/",
+            "via": "page"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
+      },
+      {
+        "id": "sony-a6400-tripod-bolt-fails",
+        "pain": "The a6400 tripod socket bolt loosens or fails",
+        "details": "An r/SonyAlpha owner looks for a replacement after the a6400 tripod bolt gave out; overtightening and daily plate swaps stress it.",
+        "mentions": 1,
+        "sources": [
+          {
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/",
+            "platform": "reddit",
+            "title": "",
+            "seen": "2026-11-10"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "My a6400's tripod bolt decided to tap out",
+            "url": "https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/",
+            "via": "search excerpt"
+          }
+        ],
+        "searches": [
+          "best tripod for sony a6400"
+        ],
+        "keywords": [
+          "best tripod for sony a6400"
+        ],
+        "coveredBy": [
+          "best-tripod-for-sony-a6400"
+        ],
+        "foundAt": "2026-11-10"
       }
     ],
     "monopods": [

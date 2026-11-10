@@ -2615,11 +2615,14 @@
     "publishedAt": "2026-10-29T10:40:58.848Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-10-20T20:10:20.387Z",
     "secondaryKeywords": [
       "tripod for sony a6400",
+      "good tripod for sony a6400",
+      "best travel tripod for sony a6400",
+      "best budget tripod for sony a6400",
       "sony a6400 vlogging tripod",
       "travel tripod for sony a6400"
     ],
@@ -2646,7 +2649,10 @@
       "parentTopic": "tripod for sony a6400",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-09"
-    }
+    },
+    "productCount": 6,
+    "startedAt": "2026-11-10T11:33:21.878Z",
+    "publishedAt": "2026-11-10T11:39:17.475Z"
   },
   {
     "status": "published",

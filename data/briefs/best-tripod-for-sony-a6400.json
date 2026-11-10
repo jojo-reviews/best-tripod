@@ -1,0 +1,790 @@
+{
+  "centralEntity": "tripod for Sony a6400",
+  "entityVariants": [
+    "best tripod for sony a6400",
+    "tripod for sony a6400",
+    "good tripod for sony a6400",
+    "best travel tripod for sony a6400",
+    "best budget tripod for sony a6400",
+    "sony a6400 vlogging tripod",
+    "travel tripod for sony a6400",
+    "sony a6400 tripod",
+    "sony a6400 tripods",
+    "tripods for the sony a6400"
+  ],
+  "entities": [
+    {
+      "name": "Sony a6400",
+      "type": "camera",
+      "relation": "APS-C E-mount body, approx. 403 g with battery and card, no in-body stabilization, screen tilts up about 180 degrees",
+      "salience": 0.8
+    },
+    {
+      "name": "tripod",
+      "type": "product category",
+      "relation": "three-legged camera support the post compares",
+      "salience": 0.88,
+      "fullName": "Tripod (photography)"
+    },
+    {
+      "name": "Manfrotto",
+      "type": "company",
+      "relation": "maker of the Befree Advanced and PIXI EVO",
+      "salience": 0.67
+    },
+    {
+      "name": "Sony",
+      "type": "company",
+      "relation": "maker of the a6400 and its E-mount lenses",
+      "salience": 0.59
+    },
+    {
+      "name": "SmallRig",
+      "type": "company",
+      "relation": "maker of the CT-10 budget tripod and monopod",
+      "salience": 0.51
+    },
+    {
+      "name": "Monopod",
+      "type": "product category",
+      "relation": "the CT-10 leg converts into one",
+      "salience": 0.46
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "camera format",
+      "relation": "the a6400 is an APS-C mirrorless body, so travel tripods carry it easily",
+      "salience": 0.31,
+      "fullName": "Mirrorless camera"
+    },
+    {
+      "name": "16-50mm kit lens",
+      "type": "lens",
+      "relation": "the 116 g kit lens most a6400 owners start with",
+      "salience": 0.5,
+      "fullName": "Sony E PZ 16-50mm F3.5-5.6 OSS"
+    },
+    {
+      "name": "18-135mm",
+      "type": "lens",
+      "relation": "325 g travel zoom",
+      "salience": 0.35,
+      "fullName": "Sony E 18-135mm F3.5-5.6 OSS"
+    },
+    {
+      "name": "70-350mm",
+      "type": "lens",
+      "relation": "625 g telephoto, the heaviest common a6400 lens",
+      "salience": 0.4,
+      "fullName": "Sony E 70-350mm F4.5-6.3 G OSS"
+    },
+    {
+      "name": "Sigma 30mm",
+      "type": "lens",
+      "relation": "265 g prime popular for low light and video",
+      "salience": 0.3,
+      "fullName": "Sigma 30mm F1.4 DC DN"
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "standard",
+      "relation": "quick-release dovetail most picks use",
+      "salience": 0.45
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "head type on every pick; owners warn it pans poorly for video",
+      "salience": 0.5
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "raising it adds wobble for long exposures",
+      "salience": 0.45
+    },
+    {
+      "name": "Vanguard",
+      "type": "company",
+      "relation": "brand owners suggest in a6400 threads; not picked (no single model named twice)",
+      "salience": 0.47
+    },
+    {
+      "name": "YouTube",
+      "type": "platform",
+      "relation": "where a6400 vloggers publish; flip screen use",
+      "salience": 0.27
+    }
+  ],
+  "attributes": [
+    "rated load vs a6400 plus lens weight",
+    "height with the center column down",
+    "folded length for a carry-on or sling",
+    "weight",
+    "leg lock type (twist vs flip)",
+    "Arca-Swiss compatibility",
+    "head type for video pans (ball vs fluid)",
+    "minimum height",
+    "monopod conversion",
+    "mini tripod payload for vlogging"
+  ],
+  "ngrams": [
+    "tripod for sony a6400",
+    "travel tripod",
+    "ball head",
+    "center column",
+    "carbon fiber",
+    "kit lens",
+    "flip screen",
+    "mini tripod",
+    "weight hook",
+    "arca swiss",
+    "leg locks",
+    "long exposures",
+    "budget tripod",
+    "low light"
+  ],
+  "skipgrams": [
+    "tripod…a6400",
+    "center column…wobbly",
+    "ball head…video",
+    "flip screen…microphone",
+    "weight hook…wind",
+    "kit lens…mini tripod",
+    "folded length…sling",
+    "tripod socket…plate"
+  ],
+  "nlpTerms": [
+    "Sony",
+    "a6400",
+    "APS-C",
+    "E-mount",
+    "travel",
+    "kit lens",
+    "16-50mm",
+    "18-135mm",
+    "70-350mm",
+    "carbon fiber",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "center column",
+    "folded length",
+    "load capacity",
+    "long exposure",
+    "low light",
+    "wind",
+    "monopod",
+    "weight hook",
+    "flip screen",
+    "vlogging",
+    "image stabilization",
+    "tripod socket",
+    "quick release plate"
+  ],
+  "questions": [
+    {
+      "q": "What is the best tripod for a Sony a6400?",
+      "map": "Which Sony a6400 tripod should you get?",
+      "answerTerms": [
+        "travel tripod",
+        "ball head",
+        "folded length",
+        "Arca-Swiss"
+      ]
+    },
+    {
+      "q": "How much weight does a tripod need to hold for a Sony a6400?",
+      "map": "Sony a6400 tripod load: body and lens weights",
+      "answerTerms": [
+        "403 g",
+        "kit lens",
+        "70-350mm",
+        "load capacity"
+      ]
+    },
+    {
+      "q": "Can the a6400 use a mini tripod for vlogging?",
+      "map": "FAQ",
+      "answerTerms": [
+        "flip screen",
+        "2.5 kg",
+        "GorillaPod",
+        "mini tripod"
+      ]
+    },
+    {
+      "q": "How do I mount a Sony a6400 on a tripod?",
+      "map": "How to mount the Sony a6400 on a tripod",
+      "answerTerms": [
+        "tripod socket",
+        "quick release plate",
+        "1/4-20",
+        "clamp"
+      ]
+    },
+    {
+      "q": "Does the a6400 need a tripod for low light, since it has no IBIS?",
+      "map": "Sony a6400 tripod load: body and lens weights",
+      "answerTerms": [
+        "image stabilization",
+        "OSS",
+        "long exposure",
+        "shutter speed"
+      ]
+    },
+    {
+      "q": "Is a ball head or a fluid head better for a6400 video?",
+      "map": "FAQ",
+      "answerTerms": [
+        "ball head",
+        "fluid head",
+        "pan",
+        "tilt"
+      ]
+    },
+    {
+      "q": "What is the best budget tripod for a Sony a6400?",
+      "map": "FAQ",
+      "answerTerms": [
+        "budget",
+        "aluminum",
+        "flip locks",
+        "monopod"
+      ]
+    }
+  ],
+  "contentGaps": [
+    "Load headroom against the a6400 with the 16-50mm, 18-135mm and 70-350mm",
+    "The a6400 has no in-body stabilization, so a tripod matters more in low light than on an a6700",
+    "A hot-shoe mic blocks the 180-degree flip screen when vlogging on a mini tripod",
+    "Tripod socket care: owners report the bolt loosening",
+    "Ball head vs fluid head for a6400 video in a kitchen or studio",
+    "Fold length against a 6L sling or carry-on"
+  ],
+  "outline": [
+    {
+      "h2": "Sony a6400 tripod comparison: fold, height and load",
+      "intent": "comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Sony a6400 tripods",
+      "intent": "method, who else recommends, notes block",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripods for the Sony a6400, reviewed",
+      "intent": "one section per product",
+      "h3": [
+        "Manfrotto Befree Advanced",
+        "Sirui T-025SK",
+        "Peak Design Travel Tripod (Carbon Fiber)",
+        "SmallRig CT-10",
+        "JOBY GorillaPod 3K Kit",
+        "Manfrotto PIXI EVO"
+      ]
+    },
+    {
+      "h2": "Which Sony a6400 tripod should you get?",
+      "intent": "decision rule mapping situation to pick",
+      "h3": []
+    },
+    {
+      "h2": "Sony a6400 tripod load: body and lens weights",
+      "intent": "load math, no IBIS, column-down height",
+      "h3": []
+    },
+    {
+      "h2": "How to mount the Sony a6400 on a tripod",
+      "intent": "numbered steps, plate and socket care, video",
+      "h3": []
+    },
+    {
+      "h2": "Sony a6400 tripod problems owners run into, and the fix",
+      "intent": "pain points with fixes",
+      "h3": []
+    }
+  ],
+  "targetWords": 1500,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+      "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+      "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+      "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+      "https://www.alphashooters.com/cameras/a6400/accessories/",
+      "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "The forum answers and the AlphaShooters guide list each tripod with what they like and the catch (center column wobble, price, ball head for video); a pros/cons layout matches that.",
+    "avgWords": 1400,
+    "avgWordsNote": "estimated from the scraped text of the 7 analyzed pages (forum threads about 650-1,100 words, the AlphaShooters accessories guide longer)",
+    "avgProducts": 3,
+    "commonSections": [
+      "recommended tripods with a short reason",
+      "budget vs carbon trade-off",
+      "wind and weight hook advice",
+      "height for tall users",
+      "video head advice"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/SonyAlpha/comments/1bz3zgy/if_you_were_to_buy_a_tripod_for_sony_a6400_wich/",
+      "title": "If you were to buy a tripod for sony a6400, wich Would ..."
+    },
+    {
+      "position": 2,
+      "url": "https://www.amazon.com/sony-a6400-tripod/s?k=sony+a6400+tripod",
+      "title": "Sony A6400 Tripod"
+    },
+    {
+      "position": 3,
+      "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+      "title": "Recommended Tripod for Sony a6400 - Sony Rumors Forum"
+    },
+    {
+      "position": 4,
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?browsedCategory=pcmcat748300653462",
+      "title": "Tripod/Monopod Mountable and Sony a6400 Sony Digital ..."
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/beginnersphotographygroup/posts/9510026682378512/",
+      "title": "Beginner Camera Tripod recommendations? Im using a ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+      "title": "Recommendations for a light, sturdy travel tripod for a6400"
+    },
+    {
+      "position": 7,
+      "url": "https://www.youtube.com/watch?v=qSHaFXNGU6Q",
+      "title": "How to Mount Sony A6400 to a Tripod"
+    },
+    {
+      "position": 8,
+      "url": "https://www.ebay.com/shop/sony-a6400-tripod?_nkw=sony+a6400+tripod",
+      "title": "Sony A6400 Tripod"
+    },
+    {
+      "position": 9,
+      "url": "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+      "title": "Tripod Recommendations for a6400 video"
+    },
+    {
+      "position": 10,
+      "url": "https://www.youtube.com/watch?v=PWhxxLAued0",
+      "title": "SONY a6400 Camera | Best Travel Set-Up For your Camera !"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "travel",
+      "light",
+      "sturdy",
+      "video",
+      "beginner"
+    ],
+    "gap": "No top-10 title sizes the tripod to the a6400 with its usual lenses or splits travel, budget and vlogging picks; the results are forum threads, store listings and videos."
+  },
+  "serpProducts": [
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://packapop.com/blogs/youtube-success-blog/tripods-for-sony-a6700"
+      ]
+    },
+    {
+      "name": "Sirui T-025SK Carbon Fiber Travel Tripod with B-00K Ball Head",
+      "pages": [
+        "https://www.alphashooters.com/cameras/a6400/accessories/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-compact-travel-tripods-for-the-sony-a6700-camera-body-35716/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.alphashooters.com/cameras/a6400/accessories/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/"
+      ]
+    },
+    {
+      "name": "SmallRig CT-10 Aluminum Tripod and Monopod",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.reddit.com/r/a6700/comments/1wn2r0a/tripod_recommendation_for_a6700_for_shooting/"
+      ]
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-and-bag-recommendations-for-sony-a6400-owners-82886/",
+        "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "pages": [
+        "https://www.alphashooters.com/cameras/a6400/accessories/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/",
+        "https://backpackinglight.com/forums/topic/sony-a7x-or-a6400-also-need-a-tripod/"
+      ]
+    },
+    {
+      "name": "Neewer N55C 66-inch carbon (not picked: already featured in our a6700 list; kept this list distinct)",
+      "pages": [
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.reddit.com/r/SonyAlpha/comments/1ets3v1/need_advice_on_a_tripod_for_sony_a6700/"
+      ]
+    },
+    {
+      "name": "Manfrotto Compact Action (not picked: no Amazon US listing)",
+      "pages": [
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/"
+      ]
+    },
+    {
+      "name": "Ulanzi Zero Y (not picked: no Amazon US listing)",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/"
+      ]
+    },
+    {
+      "name": "SmallRig CT210 (not picked: one page only)",
+      "pages": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/"
+      ]
+    },
+    {
+      "name": "K&F Concept 64 inch (not picked: one recommendation, one loose-lock complaint)",
+      "pages": [
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/essential-travel-tripod-and-bag-recommendations-for-sony-a6400-owners-82886/"
+      ]
+    }
+  ],
+  "commonPoints": [
+    "Light and sturdy pull against each other; carbon costs more",
+    "Hang a bag from the center hook when it is windy",
+    "Keep the center column down for long exposures",
+    "The Peak Design is excellent but more tripod than the a6400 needs",
+    "Avoid very cheap plastic tripods; ball heads droop and locks fail"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom vs the real a6400 kit: body 403 g + 16-50mm 116 g = 519 g; + 18-135mm = 728 g; + 70-350mm = 1,028 g. Ratings give 2.4x (PIXI EVO, 2.5 kg) to 9x (Befree/Peak Design, 9 kg) for the 70-350 kit; the mini tripods only suit the kit lens or a prime.",
+      "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The a6400 has no in-body stabilization (Sony: \"Not supported\"), so low-light stills with a prime depend on a tripod more than on an a6700; turn OSS off on a tripod.",
+      "source": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Vlogging: the screen flips up about 180 degrees, and a hot-shoe mic then blocks it; a mini tripod plus a side cold-shoe or a mic on a bracket fixes it.",
+      "source": "https://www.alphashooters.com/cameras/a6400/accessories/",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by bag and use: 6L sling -> PIXI EVO or GorillaPod 3K; carry-on -> Sirui T-025SK (12.2 in) or Peak Design (15.5 in); eye-level video at home -> CT-10; one do-everything tripod -> Befree Advanced.",
+      "source": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Tripod socket care: an r/SonyAlpha owner reports the a6400 tripod bolt failing; tighten the plate by hand only and leave an Arca plate on rather than swapping it daily.",
+      "source": "https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/",
+      "absentFrom": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/recommended-tripod-for-sony-a6400/",
+        "https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/",
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/",
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "sony-a6400-cheap-ball-head-slips",
+      "pain": "Cheap tripods under an a6400 have ball heads that slip or droop mid-shot and legs that give way",
+      "details": "Budget-minded a6400 owners report droopy ball heads and failed leg locks on very cheap tripods and suggest trusted brands even at their cheapest.",
+      "sources": [
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/"
+      ],
+      "quotes": [
+        {
+          "text": "Unfortunately I've had cheap ball heads slip on me mid-shot before.",
+          "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6400-wind-tip-over",
+      "pain": "A light tripod with a light a6400 tips or shakes in wind",
+      "details": "Owners heading to windy viewpoints worry about the tripod blowing over and advise a weight hook and sturdy legs.",
+      "sources": [
+        "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ],
+      "quotes": [
+        {
+          "text": "the wind at the Grand Canyon can be brutal, so you really need something with a weight hook and sturdy aluminum legs.",
+          "url": "https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6400-center-column-wobble",
+      "pain": "Raising the center column on a small travel tripod wobbles during long exposures",
+      "details": "a6000-series owners say ultralight travel tripods are fine with the column down but wobble once it goes up.",
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+      ],
+      "quotes": [
+        {
+          "text": "If you're doing long exposures, that center column can get a bit wobbly.",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-are-the-best-travel-tripods-for-sony-a6000-series-64534/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6400-ball-head-video-pans",
+      "pain": "Ball heads make smooth pans and tilts hard when filming with the a6400",
+      "details": "a6400 video shooters are told a ball head unlocks two axes at once; a video or fluid head with angle marks helps repeatable framing.",
+      "sources": [
+        "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/"
+      ],
+      "quotes": [
+        {
+          "text": "If it's videos you're after, I'd advise against ball heads.",
+          "url": "https://www.alphashooters.com/community/threads/tripod-recommendations-for-a6400-video.1836/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6400-too-big-for-small-bag",
+      "pain": "Full travel tripods do not fit the small sling an a6400 owner carries",
+      "details": "City travelers with a 6L sling find even the Peak Design too bulky and look at tabletop tripods.",
+      "sources": [
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/"
+      ],
+      "quotes": [
+        {
+          "text": "Honestly, the PD is way too big for a 6L sling.",
+          "url": "https://forum.sony-rumors.com/apsc-mirrorless-camera/what-is-the-most-compact-travel-tripod-for-sony-a6400-96247/"
+        }
+      ]
+    },
+    {
+      "id": "sony-a6400-tripod-bolt-fails",
+      "pain": "The a6400 tripod socket bolt loosens or fails",
+      "details": "An r/SonyAlpha owner looks for a replacement after the a6400 tripod bolt gave out; overtightening and daily plate swaps stress it.",
+      "sources": [
+        "https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/"
+      ],
+      "quotes": [
+        {
+          "text": "My a6400's tripod bolt decided to tap out",
+          "url": "https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "403 g",
+      "claim": "Sony a6400 weight with battery and memory card",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications",
+      "quote": "Approx. 14.3 oz / Approx. 403 g"
+    },
+    {
+      "number": "116 g",
+      "claim": "Sony E PZ 16-50mm kit lens weight",
+      "url": "https://www.sony.com/et/electronics/camera-lenses/selp1650/specifications",
+      "quote": "116g (4.1oz)"
+    },
+    {
+      "number": "325 g",
+      "claim": "Sony E 18-135mm weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel18135/specifications",
+      "quote": "11.5 oz (325 g)"
+    },
+    {
+      "number": "625 g",
+      "claim": "Sony E 70-350mm G OSS weight",
+      "url": "https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel70350g/specifications",
+      "quote": "22.1 oz (625 g)"
+    },
+    {
+      "number": "Not supported",
+      "claim": "a6400 in-body image stabilization",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications",
+      "quote": "Not supported (image stabilization supported on lens)"
+    },
+    {
+      "number": "180 degrees",
+      "claim": "a6400 screen tilts up",
+      "url": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications",
+      "quote": "Up by approx. 180 degrees"
+    }
+  ],
+  "videos": [
+    {
+      "id": "qSHaFXNGU6Q",
+      "title": "How to Mount Sony A6400 to a Tripod",
+      "channel": "",
+      "url": "https://www.youtube.com/watch?v=qSHaFXNGU6Q",
+      "section": "How to mount the Sony a6400 on a tripod"
+    }
+  ],
+  "googleModifiers": [
+    "reddit",
+    "good",
+    "travel",
+    "budget"
+  ],
+  "googleSuggestions": [
+    "best tripod for sony a6400",
+    "best tripod for sony a6400 reddit",
+    "good tripod for sony a6400",
+    "best travel tripod for sony a6400",
+    "best budget tripod for sony a6400",
+    "which lens is best for sony a6400",
+    "tripod for sony a6400",
+    "is it worth buying sony a6400",
+    "is sony a6400 a professional camera",
+    "what lenses work with sony a6400",
+    "sony a6400 best settings for photography"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Brand",
+      "options": [
+        "JOILCAN",
+        "K&F Concept",
+        "Neewer",
+        "Victiv",
+        "SmallRig",
+        "Anker",
+        "Manfrotto",
+        "Sirui"
+      ]
+    },
+    {
+      "group": "Material",
+      "options": [
+        "Aluminum",
+        "Carbon Fiber",
+        "Plastic",
+        "Metal"
+      ]
+    },
+    {
+      "group": "Maximum Height",
+      "options": [
+        "Up to 39 in",
+        "40 to 49 in",
+        "50 to 64 in",
+        "65 in & above"
+      ]
+    },
+    {
+      "group": "Head Type",
+      "options": [
+        "Ball Heads",
+        "Geared Heads",
+        "Pan Heads",
+        "Pistol Grip Heads"
+      ]
+    },
+    {
+      "group": "Load Capacity",
+      "options": [
+        "Up to 5 lbs",
+        "5 to 10 lbs",
+        "10 to 15 lbs",
+        "15 to 20 lbs",
+        "20 to 25 lbs",
+        "25 to 30 lbs",
+        "30 lbs & above"
+      ]
+    }
+  ],
+  "amazonFiltersUsed": "Material (aluminum vs carbon) and Maximum Height bands in the table; Head Type (ball vs pan/fluid) in the video FAQ; Load Capacity in the load section.",
+  "internalLinkCandidates": [
+    "best-tripod-for-sony-a6700",
+    "best-tripod-for-sony-zv-e10",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "tripod-center-column-up-or-down-for-landscapes",
+    "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "how-tall-should-a-tripod-be-for-my-height"
+  ],
+  "secondaryKeywords": [
+    "tripod for sony a6400",
+    "good tripod for sony a6400",
+    "best travel tripod for sony a6400",
+    "best budget tripod for sony a6400",
+    "sony a6400 vlogging tripod",
+    "travel tripod for sony a6400"
+  ],
+  "angle": "Size the tripod to the a6400 (403 g, no IBIS, 180-degree flip-up screen) with the 16-50mm kit lens up to the 70-350mm: carry-on travel, a budget eye-level tripod, and mini tripods for vlogging, with Sony-forum owner reports.",
+  "textrazor": {
+    "pagesAnalyzed": 4,
+    "note": "dpreview blocked TextRazor fetch; shared entities from the other 4 pages"
+  },
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-sony-a6700",
+      "find": "A Sony Rumors a6400 reply calls it a strong value option.",
+      "replace": "A Sony Rumors a6400 reply calls it a strong value option (see our [Sony a6400 tripod picks](/blog/best-tripod-for-sony-a6400/))."
+    },
+    {
+      "slug": "best-tripod-for-sony-zv-e10",
+      "find": "One used it with a Sony a6400 and praised the plate lock, while two say the ball head is hard to pan smoothly.",
+      "replace": "One used it with a [Sony a6400 on a tripod](/blog/best-tripod-for-sony-a6400/) and praised the plate lock, while two say the ball head is hard to pan smoothly."
+    }
+  ]
+}

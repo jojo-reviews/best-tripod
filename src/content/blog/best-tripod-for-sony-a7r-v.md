@@ -59,9 +59,9 @@ products:
     matchName: Leofoto Travel Tripod Ball Head
     badge: Best overall for the A7R V
     summary: >-
-      My pick for most A7R V owners: carbon legs with no center column under
-      the low LH-30 head, a 22 lb rating and about 50 in of height, so no
-      column can flex during a 61MP exposure.
+      My pick for most A7R V owners: carbon legs with no center column under the
+      low LH-30 head, a 22 lb rating and about 50 in of height, so no column can
+      flex during a 61MP exposure.
     renterNote: >-
       For A7R V landscape shooters who run ND filters, Pixel Shift and an Arca
       L-bracket; expect a 22 in pack length and a viewfinder below eye level
@@ -126,9 +126,9 @@ products:
     badge: Lightest premium legs
     summary: >-
       The lightest legs I'd trust under a 61MP body: 2.33 lb of Carbon eXact
-      carbon-fiber reinforced polymer tubing, 16.73 in folded, 51.18 in with the column down and a 10 kg
-      payload. Gitzo advises lenses up to 200mm, so it is a 24-70 and 70-200
-      tripod.
+      carbon-fiber reinforced polymer tubing, 16.73 in folded, 51.18 in with the
+      column down and a 10 kg payload. Gitzo advises lenses up to 200mm, so it
+      is a 24-70 and 70-200 tripod.
     renterNote: >-
       A7R V owners who hike or fly with a 24-70mm or 70-200mm and already own a
       good Arca-type head; the caveat is legs only, a premium price and Gitzo's
@@ -188,8 +188,8 @@ products:
     badge: Best for flights
     summary: >-
       My pick when the A7R V has to fly carry-on: it packs to 15.5 in and weighs
-      2.8 lb with its head. Load is no issue for a 24-70mm kit; at 61MP the
-      thin fifth leg section is, so I leave it collapsed when the wind picks up.
+      2.8 lb with its head. Load is no issue for a 24-70mm kit; at 61MP the thin
+      fifth leg section is, so I leave it collapsed when the wind picks up.
     renterNote: >-
       For A7R V owners who fly with a 24-70mm and want a tripod that never gets
       left at home; in wind its slim lowest legs flex, and panoramas lack a
@@ -252,15 +252,15 @@ products:
     badge: Best value columnless legs
     summary: >-
       The pick I'd give an A7R V owner who shoots a 200-600mm on a budget: 2.69
-      lb of columnless carbon legs rated to 15 kg, over five times that kit.
-      Add an Arca-type head with friction control, since no head is included.
+      lb of columnless carbon legs rated to 15 kg, over five times that kit. Add
+      an Arca-type head with friction control, since no head is included.
     renterNote: >-
       For A7R V owners with a ball head already and a long lens or low
-      foregrounds to shoot; standing shots mean bending, since the legs stop
-      at 47.2 in before a head.
+      foregrounds to shoot; standing shots mean bending, since the legs stop at
+      47.2 in before a head.
     pros:
       - Carries 33.1 lb (15 kg) yet weighs only 2.69 lb
-      - Columnless, so it spreads down to 3.1 in for pixel shift foregrounds
+      - 'Columnless, so it spreads down to 3.1 in for pixel shift foregrounds'
       - Packs to 17.5 in
     cons:
       - Ships without a head
@@ -288,7 +288,7 @@ products:
     owners:
       read: 2
       praise:
-        - Holds a heavy 24-70mm GM steady thanks to its low, column-free stance
+        - 'Holds a heavy 24-70mm GM steady thanks to its low, column-free stance'
         - Fits a carry-on easily
       complaints:
         - One owner finds the Leofoto finish more premium for the extra money
@@ -470,23 +470,26 @@ faqs:
   - q: Which tripod works best for A7R V Pixel Shift Multi Shoot?
     a: >-
       The best tripod for A7R V Pixel Shift Multi Shoot is a columnless one,
-      like the Leofoto LS-284CX or SIRUI AM-284, on firm ground and triggered
-      by a remote or the self-timer. Sony warns that camera shake or nearby movement can
-      stop the four or sixteen RAW frames from combining.
+      like the Leofoto LS-284CX or SIRUI AM-284, on firm ground and triggered by
+      a remote or the self-timer. Sony warns that camera shake or nearby
+      movement can stop the four or sixteen RAW frames from combining.
   - q: Can the Gitzo GT1545T hold an A7R V with a 200-600mm?
     a: >-
       No, not for regular use: the Gitzo GT1545T's 10 kg payload covers the
-      weight, but Gitzo recommends it for 135mm lenses and 200mm at most. For the 200-600mm I'd use the Manfrotto 055 kit
-      or the SIRUI AM-284 legs with a sturdy head.
+      weight, but Gitzo recommends it for 135mm lenses and 200mm at most. For
+      the 200-600mm I'd use the Manfrotto 055 kit or the SIRUI AM-284 legs with
+      a sturdy head.
   - q: Should I hang my bag from the tripod hook?
     a: >-
-      Hang your bag from the tripod hook only in calm air. A Photography Panel A7R V owner found a swinging bag
-      makes vibration worse; in wind, set the bag on the ground against a leg
-      and keep the tripod low.
+      Hang your bag from the tripod hook only in calm air. A Photography Panel
+      A7R V owner found a swinging bag makes vibration worse; in wind, set the
+      bag on the ground against a leg and keep the tripod low.
 heroImage: /images/featured/best-tripod-for-sony-a7r-v.png
 heroAlt: >-
   Best Tripod for Sony A7R V – 5 Picks for 61MP Sharpness – Best Tripod buying
   guide
+related:
+  - best-tripod-for-sony-a6400
 ---
 
 Picture a 61MP A7R V on a ridge at dawn, a 10-stop filter on the 24-70mm, and every gust showing up as soft detail at 100%. The best tripod for Sony A7R V owners is a stiff one more than a strong one: for most landscape work I'd pick the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), and for a 200-600mm the [Manfrotto 055 kit](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Each of the five is checked against an actual A7R V kit: Sony's body and lens weights, the tripod makers' specs and what A7R owners report. None of these tripods has been through our own hands.
