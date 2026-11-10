@@ -510,7 +510,7 @@ The [K&F Concept 64 inch](amzn:K%26F+Concept+64+inch+lightweight+aluminum+travel
 
 ### JOBY GorillaPod 3K Kit: best R50 tripod for vlogging and tables
 
-The JOBY GorillaPod 3K Kit is a flexible mini tripod from JOBY with bendable legs and a ball head. B&H lists a 6.6 lb rating and about 12 in of height. Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging. DPReview owners say the joints loosen with age, so I'd treat it as a second support.
+The JOBY GorillaPod 3K Kit is a flexible mini tripod from JOBY with bendable legs and a ball head. B&H lists a 6.6 lb rating and about 12 in of height. Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging, and it is also on our [Canon M50 tripod list](/blog/best-tripod-for-canon-m50/). DPReview owners say the joints loosen with age, so I'd treat it as a second support.
 
 ## Which tripod should you get for your Canon R50?
 

@@ -547,7 +547,7 @@ The [JOBY GorillaPod 3K Kit](amzn:JOBY+GorillaPod+3K+Kit+JB91507) is a flexible-
 - Amazon Basics 60-Inch and GorillaPod 3K (3 kg): about 44%, right at my comfort limit.
 - Manfrotto PIXI Mini (1 kg): the kit is about a third over, so it is only for light cameras.
 
-A tripod head, ball or 3-way, still has to lock at that load, so the head matters as much as the number. A small wide-angle lens leaves more headroom than this zoom; a telephoto is the point to look past this budget.
+A tripod head, ball or 3-way, still has to lock at that load, so the head matters as much as the number. A small wide-angle lens leaves more headroom than this zoom, as our [tripods for the Canon M50](/blog/best-tripod-for-canon-m50/) show with a 517 g kit; a telephoto is the point to look past this budget.
 
 ## How to set up a budget tripod so it stays steady
 

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-under-100",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:38.365Z",
+  "checkedAt": "2026-11-10T15:43:45.991Z",
   "errors": [],
   "warnings": [
     "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,20 +11,12 @@
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
-    "source didn't respond normally (403): https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24105g-2",
-    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-04 semantic pass: TextRazor entities (Wide-angle lens, Macro photography, camera tripod) added in true sentences; no new prices, ratings or tests; specs unchanged from maker pages (Sony a7 IV 658 g, SEL24105G 663 g, PIXI 1 kg, K&F 8 kg, B&H GorillaPod 3 kg); FAQ answers open with the answer; first H2 is now the rated-load comparison; Which one block is an H3 with a bold rule sentence; illustration captions added.",
-    "at": "2026-11-04T17:57:46.172Z",
-    "hash": "e33c5d8be29dad55"
+    "notes": "added one internal link to best-tripod-for-canon-m50, no claim changed",
+    "at": "2026-11-10T15:43:45.447Z",
+    "hash": "c5378f375dc8dbd0"
   }
 }

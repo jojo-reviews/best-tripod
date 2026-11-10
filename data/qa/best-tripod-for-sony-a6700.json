@@ -1,10 +1,10 @@
 {
   "slug": "best-tripod-for-sony-a6700",
   "pass": true,
-  "checkedAt": "2026-11-10T11:39:54.391Z",
+  "checkedAt": "2026-11-10T15:43:47.024Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1638 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "LIVE POST, FIX: body has 1644 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (TextRazor; top pages packapop, sony-rumors, kentfaith, alphashooters): added camera tripod, carbon fiber, Sony E-mount/APS-C, long-focus lens (70-350mm = 105-525mm equiv. on 1.5x APS-C), full lens names from Sony/Sigma spec pages, gimbal, gear, backpack, weight hook, torque; 'picks at a glance' H2 renamed to a comparison-table H2; 'Which Sony a6700 tripod' block moved after picks; topic-named H2s and bold openers. No new prices, ratings, tests or product specs. Review only (reviewedDate 2026-11-03, no updatedDate).",
-    "at": "2026-11-03T17:52:25.737Z",
-    "hash": "438dcbba7b7905c5"
+    "notes": "added one internal link to best-tripod-for-sony-a6400, no claim changed",
+    "at": "2026-11-10T15:43:46.579Z",
+    "hash": "8368ec8ffcea59a6"
   }
 }

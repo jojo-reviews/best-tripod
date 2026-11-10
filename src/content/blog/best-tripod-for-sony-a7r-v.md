@@ -492,7 +492,7 @@ related:
   - best-tripod-for-sony-a6400
 ---
 
-Picture a 61MP A7R V on a ridge at dawn, a 10-stop filter on the 24-70mm, and every gust showing up as soft detail at 100%. The best tripod for Sony A7R V owners is a stiff one more than a strong one: for most landscape work I'd pick the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), and for a 200-600mm the [Manfrotto 055 kit](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Each of the five is checked against an actual A7R V kit: Sony's body and lens weights, the tripod makers' specs and what A7R owners report. None of these tripods has been through our own hands.
+Picture a 61MP A7R V on a ridge at dawn, a 10-stop filter on the 24-70mm, and every gust showing up as soft detail at 100%. The best tripod for Sony A7R V owners is a stiff one more than a strong one: for most landscape work I'd pick the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), and for a 200-600mm the [Manfrotto 055 kit](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Each of the five is checked against an actual A7R V kit: Sony's body and lens weights, the tripod makers' specs and what A7R owners report (Canon's 45 MP shooters have their own [Canon R5 tripod picks](/blog/best-tripod-for-canon-r5/)). None of these tripods has been through our own hands.
 
 ## A7R V tripod specs compared: load, height and fold
 

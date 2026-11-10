@@ -779,12 +779,14 @@
     {
       "slug": "best-tripod-for-sony-a6700",
       "find": "A Sony Rumors a6400 reply calls it a strong value option.",
-      "replace": "A Sony Rumors a6400 reply calls it a strong value option (see our [Sony a6400 tripod picks](/blog/best-tripod-for-sony-a6400/))."
+      "replace": "A Sony Rumors a6400 reply calls it a strong value option (see our [Sony a6400 tripod picks](/blog/best-tripod-for-sony-a6400/)).",
+      "appliedAt": "2026-11-10T15:43:47.038Z"
     },
     {
       "slug": "best-tripod-for-sony-zv-e10",
       "find": "One used it with a Sony a6400 and praised the plate lock, while two say the ball head is hard to pan smoothly.",
-      "replace": "One used it with a [Sony a6400 on a tripod](/blog/best-tripod-for-sony-a6400/) and praised the plate lock, while two say the ball head is hard to pan smoothly."
+      "replace": "One used it with a [Sony a6400 on a tripod](/blog/best-tripod-for-sony-a6400/) and praised the plate lock, while two say the ball head is hard to pan smoothly.",
+      "appliedAt": "2026-11-10T15:43:47.924Z"
     }
   ]
 }

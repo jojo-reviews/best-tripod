@@ -471,7 +471,7 @@ related:
   - best-tripod-for-canon-r50
 ---
 
-The best tripod for Canon R6 Mark II owners depends on the RF lens you mount: for travel with a 24-105 it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for wind and long exposures it is the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). I matched five tripods and their tripod heads to real Canon EOS kits using maker specs, Canon's lens weights and R6 owner threads. We have not used these tripods ourselves.
+The best tripod for Canon R6 Mark II owners depends on the RF lens you mount: for travel with a 24-105 it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for wind and long exposures it is the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). I matched five tripods and their tripod heads to real Canon EOS kits using maker specs, Canon's lens weights and R6 owner threads (shooting the 45 MP body instead? See our [Canon R5 tripod picks](/blog/best-tripod-for-canon-r5/)). We have not used these tripods ourselves.
 
 ## Canon R6 Mark II tripod comparison by lens weight
 

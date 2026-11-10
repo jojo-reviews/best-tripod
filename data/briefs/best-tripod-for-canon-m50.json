@@ -743,12 +743,14 @@
     {
       "slug": "best-tripod-for-canon-r50",
       "find": "Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging.",
-      "replace": "Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging, and it is also on our [Canon M50 tripod list](/blog/best-tripod-for-canon-m50/)."
+      "replace": "Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging, and it is also on our [Canon M50 tripod list](/blog/best-tripod-for-canon-m50/).",
+      "appliedAt": "2026-11-10T15:43:45.128Z"
     },
     {
       "slug": "best-tripod-under-100",
       "find": "A small wide-angle lens leaves more headroom than this zoom; a telephoto is the point to look past this budget.",
-      "replace": "A small wide-angle lens leaves more headroom than this zoom, as our [tripods for the Canon M50](/blog/best-tripod-for-canon-m50/) show with a 517 g kit; a telephoto is the point to look past this budget."
+      "replace": "A small wide-angle lens leaves more headroom than this zoom, as our [tripods for the Canon M50](/blog/best-tripod-for-canon-m50/) show with a 517 g kit; a telephoto is the point to look past this budget.",
+      "appliedAt": "2026-11-10T15:43:46.007Z"
     }
   ],
   "secondaryKeywords": [

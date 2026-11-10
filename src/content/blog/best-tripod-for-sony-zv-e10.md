@@ -532,7 +532,7 @@ The Sony GP-VPT2BT is a Bluetooth shooting grip and tabletop tripod from Sony. I
 
 ### Peak Design Travel Tripod (Aluminum): best for standing eye level and travel
 
-The Peak Design Travel Tripod (Aluminum) is a five-section aluminum travel tripod from Peak Design. It is the only pick here that answers the r/SonyZVE10 request for something "tall durable but not super expensive", minus the last part. It stands 51.25 in with the column down and 60 in raised, folds to 15.5 in and is rated to 20 lb. Its Arca-type compatible plate fits Arca-Swiss clamps. On the maker's page I read eight owner reviews. One used it with a Sony a6400 and praised the plate lock, while two say the ball head is hard to pan smoothly. For interviews and travel time-lapses I'd buy it once and keep a mini for the bag.
+The Peak Design Travel Tripod (Aluminum) is a five-section aluminum travel tripod from Peak Design. It is the only pick here that answers the r/SonyZVE10 request for something "tall durable but not super expensive", minus the last part. It stands 51.25 in with the column down and 60 in raised, folds to 15.5 in and is rated to 20 lb. Its Arca-type compatible plate fits Arca-Swiss clamps. On the maker's page I read eight owner reviews. One used it with a [Sony a6400 on a tripod](/blog/best-tripod-for-sony-a6400/) and praised the plate lock, while two say the ball head is hard to pan smoothly. For interviews and travel time-lapses I'd buy it once and keep a mini for the bag.
 
 ### JOBY GorillaPod 3K Kit: best flexible tripod for the Sigma 16mm
 

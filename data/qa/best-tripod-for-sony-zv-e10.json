@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-sony-zv-e10",
   "pass": true,
-  "checkedAt": "2026-11-06T15:54:42.887Z",
+  "checkedAt": "2026-11-10T15:43:47.910Z",
   "errors": [],
   "warnings": [
     "product \"Sony GP-VPT2BT Wireless Shooting Grip\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -9,19 +9,12 @@
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-11 Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-zv-e-series/zv-e10/specifications",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1838825-REG/sony_zv_e10_ii_mirrorless_camera.html",
-    "source didn't respond normally (403): https://www.sony.com/et/electronics/camera-lenses/selp1650/specifications",
-    "source didn't respond normally (403): https://www.sony.com/permalink/product/GP-VPT2BT?locale=en_GB",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html/specs",
-    "source didn't respond normally (403): https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/"
+    "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-03 semantic pass re-checked final text: TextRazor top 5 (3 parsed), no missing entities; picks list removed (patent rule 2026-10-31), first H2 = height/load comparison; openers rewritten as checkable answers; sentences split; amzn links moved to Which-one list; all specs, weights, quotes and ASINs unchanged",
-    "at": "2026-11-03T17:53:04.460Z",
-    "hash": "5274b408ebb50278"
+    "notes": "added one internal link to best-tripod-for-sony-a6400, no claim changed",
+    "at": "2026-11-10T15:43:47.444Z",
+    "hash": "3aa0b4b647e0feaf"
   }
 }

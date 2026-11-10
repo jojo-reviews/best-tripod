@@ -557,7 +557,7 @@ The Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head is a four-s
 
 ### SmallRig CT-10 Aluminum Tripod and Monopod: best budget tripod for eye level
 
-The [SmallRig CT-10 Aluminum Tripod and Monopod](amzn:SmallRig+CT-10+aluminum+camera+ball+head+tripod+monopod) is an aluminum tripod from SmallRig with a leg that converts to a monopod. SmallRig lists 70.87 in at full height, a 16.9 in fold, 3.37 lb and an Arca-type 36 mm ball head rated to 5 kg. A Sony Rumors a6400 reply calls it a strong value option. The complaints are about build: an r/analog owner says the head flexes after you let go, and a B&H reviewer's column head came unglued. I'd use it for locked-off, eye-level video; for walking shots you still need a gimbal.
+The [SmallRig CT-10 Aluminum Tripod and Monopod](amzn:SmallRig+CT-10+aluminum+camera+ball+head+tripod+monopod) is an aluminum tripod from SmallRig with a leg that converts to a monopod. SmallRig lists 70.87 in at full height, a 16.9 in fold, 3.37 lb and an Arca-type 36 mm ball head rated to 5 kg. A Sony Rumors a6400 reply calls it a strong value option (see our [Sony a6400 tripod picks](/blog/best-tripod-for-sony-a6400/)). The complaints are about build: an r/analog owner says the head flexes after you let go, and a B&H reviewer's column head came unglued. I'd use it for locked-off, eye-level video; for walking shots you still need a gimbal.
 
 ### Neewer N55C 66-Inch Carbon Fiber Tripod: best budget carbon pick
 
