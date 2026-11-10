@@ -8081,10 +8081,16 @@
     "publishedAt": "2026-11-04T11:38:10.835Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-11-09T12:14:01.257Z",
-    "secondaryKeywords": [],
+    "secondaryKeywords": [
+      "tripod for canon r5",
+      "best tripod for canon eos r5",
+      "best travel tripod for canon r5",
+      "canon r5 tripod",
+      "best tripod for canon r5 mark ii"
+    ],
     "questions": [],
     "priority": 600,
     "keyword": "best tripod for canon r5",
@@ -8104,7 +8110,10 @@
       "parentTopic": null,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-09"
-    }
+    },
+    "productCount": 5,
+    "startedAt": "2026-11-10T11:29:07.278Z",
+    "publishedAt": "2026-11-10T11:34:19.116Z"
   },
   {
     "status": "pending",

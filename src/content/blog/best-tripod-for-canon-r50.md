@@ -458,13 +458,14 @@ illustrations:
     caption: Hang a bag from the hook with the column down.
     afterHeading: 6
 related:
+  - best-tripod-for-canon-m50
+  - best-tripod-for-canon-r5
   - best-tripod-for-canon-r8
   - best-tripod-for-canon-powershot-v1
-  - best-tripod-for-canon-r6-mark-ii
 heroImage: /images/featured/best-tripod-for-canon-r50.png
 heroAlt: >-
-  Best Tripod for Canon R50 – 5 Picks Sized to a 375 g Camera – Best
-  Tripod buying guide
+  Best Tripod for Canon R50 – 5 Picks Sized to a 375 g Camera – Best Tripod
+  buying guide
 ---
 
 The best tripod for Canon R50 owners is, for most people, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head). An R50 tripod only holds about 505 g with the kit lens, so choose on height, packed size and use: hikers should take the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), vloggers the [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+flexible+tripod+ball+head). I matched five tripods to the Canon EOS R50 using maker specs and owner reports from Canon Rumors and r/canon; we have not used these tripods ourselves.

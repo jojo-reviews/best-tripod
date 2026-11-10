@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-canon-r5",
+  "pass": true,
+  "checkedAt": "2026-11-10T11:34:17.279Z",
+  "errors": [],
+  "warnings": [
+    "product \"Benro Tortoise 35C with GX35 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Leofoto LS-324CX Ranger Carbon Fiber Tripod with LH-40 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI AM-284 Carbon Fiber Tripod (Legs Only)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after a wording edit in the From our notes block (Tortoise 35C 18.4 mm bottom tube per Benro USA vs SIRUI AM-284 18.6 mm per KelbyOne). All earlier checks stand: Benro USA TTOR35CGX35 specs, Alan Lait + Amazon for TMA38CL, Leofoto USA LS-324CX specs, KelbyOne for AM-284, SmallRig/Amazon/Camera Jabber for AD-01, Canon weights (R5 738 g, RF 24-70 900 g, RF 70-200 1,070 g, RF 100-500 1530 g with mount), five in-stock ASINs, verbatim forum quotes.",
+    "at": "2026-11-10T11:34:16.799Z",
+    "hash": "37115fa718a19f4a"
+  }
+}

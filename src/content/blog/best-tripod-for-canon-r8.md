@@ -445,10 +445,10 @@ faqs:
       L (695 g) about 1,156 g, so every pick here carries it many times over.
   - q: Does the R8's lack of IBIS mean I need a heavier tripod?
     a: >-
-      Not heavier, steadier. With no in-body image stabilization, wind and a raised
-      column show up as blur, so keep the column down, use the 2-second timer
-      and choose stiffer legs like the Leofoto if you shoot long exposures in
-      wind.
+      Not heavier, steadier. With no in-body image stabilization, wind and a
+      raised column show up as blur, so keep the column down, use the 2-second
+      timer and choose stiffer legs like the Leofoto if you shoot long exposures
+      in wind.
   - q: Ball head or pan-tilt head for the R8?
     a: >-
       A ball head is faster for landscapes, which is what Canon Rumors R8
@@ -483,9 +483,10 @@ videos:
   - id: '-3tbGcmQvGo'
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-canon-r8.png
-heroAlt: >-
-  Best Tripod for Canon R8 – 5 Picks by Lens and Wind – Best Tripod buying
-  guide
+heroAlt: Best Tripod for Canon R8 – 5 Picks by Lens and Wind – Best Tripod buying guide
+related:
+  - best-tripod-for-canon-m50
+  - best-tripod-for-canon-r5
 ---
 
 A 20-second exposure on a dusk shoreline, soft because thin legs hummed. The best tripod for Canon R8 owners depends on lens and wind, not the camera: for travel it is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), and for windy long exposures the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). I matched five tripods to R8 kits from maker specs and owner threads; we have not used them.

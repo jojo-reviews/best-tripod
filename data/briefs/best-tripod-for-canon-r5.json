@@ -1,0 +1,745 @@
+{
+ "centralEntity": "tripod for Canon R5",
+ "entityVariants": [
+  "best tripod for canon r5",
+  "tripod for canon r5",
+  "best tripod for canon eos r5",
+  "best travel tripod for canon r5",
+  "best tripod for canon r5 mark ii",
+  "canon r5 tripod",
+  "tripod for canon r5c"
+ ],
+ "entities": [
+  {
+   "name": "tripod for Canon R5",
+   "type": "central entity",
+   "relation": "what the searcher wants to buy",
+   "salience": 1
+  },
+  {
+   "name": "Canon EOS R5",
+   "type": "camera",
+   "relation": "45 MP full-frame mirrorless body, 738 g with card and battery (Canon); records 8K video",
+   "salience": 0.7
+  },
+  {
+   "name": "camera tripod",
+   "type": "product category",
+   "relation": "the support being chosen",
+   "salience": 0.84
+  },
+  {
+   "name": "carbon fiber",
+   "type": "material",
+   "relation": "leg material on four of five picks; damps vibration and saves weight",
+   "salience": 0.58
+  },
+  {
+   "name": "Canon EOS",
+   "type": "camera system",
+   "relation": "Canon's camera line the R5 belongs to",
+   "salience": 0.56
+  },
+  {
+   "name": "telephoto lens",
+   "type": "lens type",
+   "relation": "RF 70-200 and RF 100-500 raise the load and need stiffer legs",
+   "salience": 0.39
+  },
+  {
+   "name": "Canon EOS R5 Mark II",
+   "type": "camera",
+   "relation": "successor; same tripod advice applies",
+   "salience": 0.53
+  },
+  {
+   "name": "Benro",
+   "type": "brand",
+   "relation": "maker of the Mach3 TMA38CL and Tortoise 35C",
+   "salience": 0.44
+  },
+  {
+   "name": "SIRUI",
+   "type": "brand",
+   "relation": "maker of the AM-284",
+   "salience": 0.56
+  },
+  {
+   "name": "Gitzo",
+   "type": "brand",
+   "relation": "premium benchmark several pages name",
+   "salience": 0.71
+  },
+  {
+   "name": "Manfrotto",
+   "type": "brand",
+   "relation": "common comparison; its own clamp is not Arca-Swiss",
+   "salience": 0.55
+  },
+  {
+   "name": "image stabilization",
+   "type": "camera feature",
+   "relation": "IBIS does not replace a tripod for long exposures and 8K locked-off video",
+   "salience": 0.39
+  },
+  {
+   "name": "video",
+   "type": "use",
+   "relation": "8K and 4K video need a fluid head for smooth pans",
+   "salience": 0.51
+  },
+  {
+   "name": "ball head",
+   "type": "tripod head",
+   "relation": "stills head; ball size and friction stop creep with RF L glass",
+   "salience": 0.5
+  },
+  {
+   "name": "fluid head",
+   "type": "tripod head",
+   "relation": "video head with drag for pans and tilts",
+   "salience": 0.5
+  },
+  {
+   "name": "Arca-Swiss plate",
+   "type": "standard",
+   "relation": "dovetail standard for L-brackets and lens feet",
+   "salience": 0.5
+  },
+  {
+   "name": "center column",
+   "type": "tripod part",
+   "relation": "a raised column is the weak point for 45 MP stills",
+   "salience": 0.5
+  }
+ ],
+ "attributes": [
+  "leg stiffness: top and thinnest tube diameter",
+  "height without a center column",
+  "rated load vs R5 plus RF L lens weight",
+  "weight with head",
+  "folded length",
+  "leg sections",
+  "leg lock type (twist, flip, lever)",
+  "head type: ball head vs fluid head",
+  "Arca-Swiss compatibility",
+  "columnless vs center column",
+  "Max Load (Amazon filter: 15 kg, 20 kg)",
+  "Material (Amazon filter: carbon fiber, aluminum)"
+ ],
+ "ngrams": [
+  "tripod for canon r5",
+  "canon eos r5",
+  "carbon fiber",
+  "ball head",
+  "center column",
+  "load capacity",
+  "rf 70-200",
+  "rf 100-500",
+  "24-70",
+  "heavy rf lenses",
+  "fluid head",
+  "8k video",
+  "45mp",
+  "arca swiss",
+  "leg locks",
+  "benro tortoise",
+  "benro mach3",
+  "sirui am-284",
+  "leofoto ls-324c"
+ ],
+ "skipgrams": [
+  "tripod…R5",
+  "column…wind",
+  "carbon…vibration",
+  "arca…plate",
+  "lens…weight",
+  "load…capacity",
+  "fluid…head",
+  "legs…sections",
+  "head…creep"
+ ],
+ "nlpTerms": [
+  "Canon",
+  "R5",
+  "full-frame",
+  "mirrorless",
+  "45 MP",
+  "8K",
+  "4K",
+  "RF 24-70mm",
+  "RF 70-200mm",
+  "RF 100-500mm",
+  "carbon fiber",
+  "aluminum",
+  "ball head",
+  "fluid head",
+  "Arca-Swiss",
+  "L-bracket",
+  "center column",
+  "columnless",
+  "folded length",
+  "load capacity",
+  "twist lock",
+  "long exposure",
+  "wind",
+  "landscape",
+  "IBIS",
+  "tripod mount ring",
+  "bowl",
+  "pan",
+  "tilt",
+  "counterbalance"
+ ],
+ "questions": [
+  "What is the best tripod for a Canon R5?",
+  "How much does a Canon R5 with an RF 70-200 or 100-500 weigh on a tripod?",
+  "Do I need a fluid head for Canon R5 8K video?",
+  "Is a travel tripod stable enough for the R5 and heavy RF lenses?",
+  "Does the R5's IBIS mean I don't need a tripod?",
+  "Carbon fiber vs aluminum tripod for the R5?",
+  "Does the same tripod work for the R5 Mark II and R5 C?",
+  "How much load capacity does a Canon R5 tripod need?"
+ ],
+ "contentGaps": [
+  "Kit weights for R5 + RF 24-70 F2.8L, 70-200 F2.8L and 100-500 from Canon specs",
+  "Thinnest leg tube per pick (5 sections is fine if the bottom tube is thick)",
+  "Stills vs 8K video head choice",
+  "Height without a column for eye-level framing at 45 MP",
+  "Chooser by RF lens and by stills vs video"
+ ],
+ "outline": [
+  {
+   "h2": "Canon R5 tripod comparison by height, legs and head",
+   "intent": "first block: comparison table on the deciding specs",
+   "h3": []
+  },
+  {
+   "h2": "How I picked each Canon R5 tripod",
+   "intent": "method, who recommends them, From our notes",
+   "h3": []
+  },
+  {
+   "h2": "The 5 best tripods for the Canon R5, reviewed",
+   "intent": "product sections",
+   "h3": [
+    "Benro Tortoise 35C with GX35 Ball Head: best all-round tripod for the R5",
+    "Benro Mach3 TMA38CL: best tall tripod for the RF 100-500",
+    "Leofoto LS-324CX with LH-40 Ball Head: best columnless tripod for wind",
+    "SIRUI AM-284 Carbon Fiber Tripod (Legs Only): best light tripod for hikes",
+    "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head: best tripod for R5 8K video"
+   ]
+  },
+  {
+   "h2": "Which Canon R5 tripod should you get?",
+   "intent": "chooser",
+   "h3": []
+  },
+  {
+   "h2": "How much a Canon R5 and RF L lenses put on a tripod",
+   "intent": "weight analysis with Canon numbers; video",
+   "h3": []
+  },
+  {
+   "h2": "How to set up a Canon R5 tripod for 45 MP stills and 8K video",
+   "intent": "numbered steps; illustration",
+   "h3": []
+  },
+  {
+   "h2": "Canon R5 tripod problems owners run into, and the fix",
+   "intent": "pain points; illustration",
+   "h3": []
+  }
+ ],
+ "targetWords": 1800,
+ "serpStructure": {
+  "analyzedUrls": [
+   "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+   "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+   "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+   "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/",
+   "https://forum.canonrumors.co/rf-forum/recommended-tripod-for-canon-eos-r5/",
+   "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/",
+   "https://www.dpreview.com/forums/threads/tripods-r5.4739085/",
+   "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/"
+  ],
+  "productStyle": "paragraph",
+  "productStyleReason": "Packapop and both CameraEgg guides present each tripod as a review paragraph with a short spec table or pros list; forums give one paragraph per pick.",
+  "avgWords": 1830,
+  "avgProducts": 5,
+  "commonSections": [
+   "quick picks/comparison table",
+   "per-product review",
+   "buying guide (load, material, center column, head)",
+   "FAQ",
+   "verdict"
+  ],
+  "usesComparisonTable": true,
+  "usesFaq": true,
+  "usesBuyingGuide": true,
+  "note": "avgWords from the three article pages (Packapop about 2,300, CameraEgg R5 II about 1,750, CameraEgg R5 C about 1,450); forum threads excluded."
+ },
+ "serpTitles": [
+  {
+   "position": 1,
+   "url": "https://www.facebook.com/groups/618108063518487/posts/1249299273732693/",
+   "title": "Tripod recommendations for canon r5 camera?"
+  },
+  {
+   "position": 2,
+   "url": "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/",
+   "title": "What is the best travel tripod for Canon RF systems?"
+  },
+  {
+   "position": 3,
+   "url": "https://www.bhphotovideo.com/c/accessories/Video-Tripods-for-the-SmallRig-3464/1676101-REG-96597",
+   "title": "Video Tripods for Camera Cage for Canon EOS R5 C/R5/R6"
+  },
+  {
+   "position": 4,
+   "url": "https://www.reddit.com/r/canon/comments/1hfp4av/tripod_for_the_beast/",
+   "title": "r/canon - Tripod for the beast?"
+  },
+  {
+   "position": 5,
+   "url": "https://www.manfrotto.com/global-en/stories/new-canon-r5-r6-best-tripod-head-match/",
+   "title": "New Canon R5 and R6: find the best tripod head match!"
+  },
+  {
+   "position": 6,
+   "url": "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+   "title": "5 Best Tripods for Canon EOS R5 That Are Worth Buying"
+  },
+  {
+   "position": 7,
+   "url": "https://www.target.com/s/best+tripod+for+canon+r5",
+   "title": "Best Tripod for Canon R5 | Lightweight & Stable Options"
+  },
+  {
+   "position": 8,
+   "url": "https://www.dpreview.com/forums/threads/tripods-r5.4739085/",
+   "title": "Tripods-r5"
+  },
+  {
+   "position": 9,
+   "url": "https://www.ebay.com/itm/154491963864",
+   "title": "57\" Pro Series New Tripod With Case For Canon EOS Ra ..."
+  },
+  {
+   "position": 10,
+   "url": "https://www.youtube.com/watch?v=fGbhjXqIB18",
+   "title": "Tripods and Heads: How to choose the best one for you?"
+  }
+ ],
+ "titlePattern": {
+  "keywordAtStart": 1,
+  "withYear": 0,
+  "withNumber": 2,
+  "commonModifiers": [
+   "Canon R5",
+   "tripod",
+   "best",
+   "recommendations",
+   "travel",
+   "head"
+  ],
+  "gap": "No top-10 title carries a year (so no year in our title) and none splits the picks by 45 MP stills vs 8K video or by RF L lens weight."
+ },
+ "googleModifiers": [
+  "mark ii",
+  "r5c",
+  "travel",
+  "eos r5"
+ ],
+ "amazonFilters": [
+  {
+   "group": "Brands",
+   "options": [
+    "K&F Concept",
+    "Peak Design",
+    "Benro",
+    "SIRUI",
+    "Neewer",
+    "JOBY",
+    "VICTIV",
+    "SmallRig",
+    "Amazon Basics"
+   ]
+  },
+  {
+   "group": "Max Load",
+   "options": [
+    "5 kg",
+    "10 kg",
+    "15 kg",
+    "20 kg",
+    "22 kg",
+    "44 lbs",
+    "20 lbs"
+   ]
+  },
+  {
+   "group": "Price Range",
+   "options": [
+    "Under $50",
+    "$50 - $100",
+    "$100 - $150",
+    "$150 - $200",
+    "Over $200"
+   ]
+  },
+  {
+   "group": "Material",
+   "options": [
+    "Carbon Fiber",
+    "Aluminum"
+   ]
+  }
+ ],
+ "amazonFiltersUsed": "Material (carbon fiber vs aluminum FAQ), Max Load (15 kg class of four picks, load FAQ); Brands Benro, SIRUI, SmallRig are picks. Price Range skipped (no prices).",
+ "serpProducts": [
+  {
+   "name": "Benro Tortoise 35C with GX35 Ball Head (TTOR35CGX35)",
+   "pages": [
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ],
+   "note": "CameraEgg R5 II best value; a DPReview R5 thread reply recommends it for an R5 with RF 100-500, 100 macro and 24-105."
+  },
+  {
+   "name": "Benro Mach3 TMA38CL",
+   "pages": [
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/",
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5"
+   ],
+   "note": "CameraEgg R5 C pick; DPReview R5 thread '+1 ... I have the Mach3 TMA38CL'; Packapop names the Mach3 9X carbon as heavy-duty pick."
+  },
+  {
+   "name": "Leofoto LS-324C(X) Ranger with LH-40",
+   "pages": [
+    "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/",
+    "https://forum.canonrumors.co/rf-forum/recommended-tripod-for-canon-eos-r5/"
+   ],
+   "note": "CameraEgg forum R5 owner and Canon Rumors R5 thread both name the LS-324C with the LH-40 head; the current version is the LS-324CX."
+  },
+  {
+   "name": "SIRUI AM-284",
+   "pages": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/"
+   ],
+   "note": "Packapop best lightweight travel; Canon Rumors R5 Mark II thread."
+  },
+  {
+   "name": "SmallRig AD-01 Heavy Duty Video Tripod",
+   "pages": [
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://camerajabber.com/reviews/smallrig-heavy-duty-fluid-head-tripod-ad-01/"
+   ],
+   "note": "CameraEgg R5 C video pick; Camera Jabber review recommends it for those starting in video."
+  },
+  {
+   "name": "Peak Design Travel Tripod (Carbon Fiber)",
+   "pages": [
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/",
+    "https://forum.canonrumors.co/rf-forum/recommended-tripod-for-canon-eos-r5/",
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/"
+   ],
+   "note": "Not featured: already the travel pick in our R6 Mark II post and a Canon Rumors R5 owner found it flimsy with heavy RF glass."
+  },
+  {
+   "name": "Manfrotto Befree Advanced",
+   "pages": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/",
+    "https://forum.canonrumors.co/rf-forum/recommended-tripod-for-canon-eos-r5/"
+   ],
+   "note": "Not featured: covered in our R6 Mark II post; aluminum version flexes with an R5 + 70-200 per a CameraEgg forum owner."
+  }
+ ],
+ "commonPoints": [
+  "Carbon fiber damps vibration and weighs less; aluminum is cheaper",
+  "The 45 MP sensor shows small vibrations, so stiffness matters more than usual",
+  "Keep the center column down or skip it",
+  "Pick a load rating above camera plus heaviest lens",
+  "A fluid head is better than a ball head for video pans"
+ ],
+ "ourGain": [
+  {
+   "type": "analysis",
+   "point": "Canon kit weights: R5 738 g; + RF 24-70 F2.8L (900 g) = 1,638 g; + RF 70-200 F2.8L (1,070 g) = 1,808 g; + RF 100-500 with ring (1,530 g) = 2,268 g (5.0 lb). Every stills pick is rated 15-16 kg, about 6.6-7x the heaviest kit, so load is not the decider; leg stiffness and height are.",
+   "source": "https://www.canon-europe.com/cameras/eos-r5/specifications/; https://www.usa.canon.com/shop/p/rf24-70mm-f2-8l-is-usm; https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/; https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
+   "absentFrom": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ]
+  },
+  {
+   "type": "analysis",
+   "point": "Five sections are not the problem, thin tubes are: a DPReview R5 reply warns thin 5-section legs end near 10 mm; the 5-section Tortoise 35C's thinnest tube is 18.4 mm (32.4 mm top) per Benro, and the LS-324CX ends at 22 mm.",
+   "source": "https://benrousa.com/tortoise-columnless-tripod-3-carbon-fiber-ttor35c-gx35-head-5-sections/; https://leofotousa.com/products/leofoto-ls-324cx-ranger-series-tripod; https://www.dpreview.com/forums/threads/tripods-r5.4739085/",
+   "absentFrom": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/"
+   ]
+  },
+  {
+   "type": "decision",
+   "point": "Chooser by use: 45 MP landscapes and one tripod for everything = Tortoise 35C; RF 100-500 and tall users = Mach3 TMA38CL; wind and low angles = LS-324CX; long hikes with an own head = AM-284; 8K pans and a rigged R5 = SmallRig AD-01.",
+   "source": "Specs above plus owner threads",
+   "absentFrom": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://forum.canonrumors.co/rf-forum/looking-for-a-good-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ]
+  },
+  {
+   "type": "situation",
+   "point": "Front-heavy RF 70-200 creeping on a ball head: mount long lenses by the tripod ring, use a 40 mm-class ball (GX35, LH-40) and set friction before loosening.",
+   "source": "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/",
+   "absentFrom": [
+    "https://packapop.com/blogs/youtube-success-blog/tripods-for-canon-eos-r5",
+    "https://www.cameraegg.org/camerareview/best-tripod-for-canon-eos-r5-mark-ii/",
+    "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r5-c/",
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ]
+  }
+ ],
+ "painPoints": [
+  {
+   "id": "canon-r5-thin-five-section-legs",
+   "pain": "Thin five-section travel legs are not stable enough for an R5 with a big zoom",
+   "details": "A DPReview R5 thread reply says small 5-section models end in leg sections around 10 mm, too thin for a heavy-ish full-frame camera with a large zoom.",
+   "sources": [
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ],
+   "quotes": [
+    {
+     "text": "usually the thinnest leg sections are around 10mm diameter and simply not stable enough for a heavy-ish FF camera with large zoom",
+     "url": "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+    }
+   ]
+  },
+  {
+   "id": "canon-r5-load-ratings-meaningless",
+   "pain": "Load ratings do not say how stable a tripod is",
+   "details": "The same DPReview reply says there is no standard for tripod and head load ratings.",
+   "sources": [
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ],
+   "quotes": [
+    {
+     "text": "completely ignore the stated load ratings - there is no standard",
+     "url": "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+    }
+   ]
+  },
+  {
+   "id": "canon-r5-flimsy-in-wind",
+   "pain": "A light travel tripod shakes in wind with an R5 and RF 70-200",
+   "details": "A CameraEgg forum owner lost long exposures at Joshua Tree with an R5 and RF 70-200 f/2.8 on a Befree.",
+   "sources": [
+    "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/"
+   ],
+   "quotes": [
+    {
+     "text": "the whole thing just felt so flimsy in the wind and I ended up with blurry shots",
+     "url": "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/"
+    }
+   ]
+  },
+  {
+   "id": "canon-r5-ball-head-creep",
+   "pain": "The ball head creeps with a front-heavy RF 70-200",
+   "details": "A Canon Rumors R5 travel-tripod reply warns that a 70-200 gets front-heavy and the head must not creep.",
+   "sources": [
+    "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/"
+   ],
+   "quotes": [
+    {
+     "text": "A 70-200mm can get a bit front-heavy",
+     "url": "https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/"
+    }
+   ]
+  },
+  {
+   "id": "canon-r5-manfrotto-clamp-not-arca",
+   "pain": "Manfrotto's own clamp does not take Arca-Swiss L-brackets and lens feet",
+   "details": "The DPReview R5 reply notes Manfrotto used a proprietary clamp while cheap L-brackets and long lens plates come in Arca-Swiss.",
+   "sources": [
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+   ],
+   "quotes": [
+    {
+     "text": "NOT compatible with Arca Swiss",
+     "url": "https://www.dpreview.com/forums/threads/tripods-r5.4739085/"
+    }
+   ]
+  },
+  {
+   "id": "canon-r5-salt-seized-locks",
+   "pain": "Salt spray seizes twist locks on coastal trips",
+   "details": "A CameraEgg forum R5 owner rinses the leg locks every night on coastal trips or they grind and seize.",
+   "sources": [
+    "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/"
+   ],
+   "quotes": [
+    {
+     "text": "you have to rinse the leg locks in the shower every single night or they will start grinding and eventually seize up",
+     "url": "https://forum.cameraegg.org/canon-forum/looking-for-recommendations-for-a-durable-tripod-compatible-with-canon-rf-lenses-25721/"
+    }
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "number": "738 g",
+   "claim": "Canon EOS R5 weight with card and battery",
+   "url": "https://www.canon-europe.com/cameras/eos-r5/specifications/",
+   "quote": "Approx. 650 g (738 g with card and battery)"
+  },
+  {
+   "number": "900 g",
+   "claim": "RF 24-70mm F2.8L IS USM weight",
+   "url": "https://www.usa.canon.com/shop/p/rf24-70mm-f2-8l-is-usm",
+   "quote": "Weight. Approx. 1.98 lbs. / 900 g"
+  },
+  {
+   "number": "1,070g",
+   "claim": "RF 70-200mm F2.8L IS USM weight",
+   "url": "https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/",
+   "quote": "weighs approximately 1,070g"
+  },
+  {
+   "number": "1530g",
+   "claim": "RF 100-500mm weight with tripod mount",
+   "url": "https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
+   "quote": "At 1530g with tripod mount"
+  },
+  {
+   "number": "18.4 mm",
+   "claim": "Benro Tortoise 35C thinnest leg tube",
+   "url": "https://benrousa.com/tortoise-columnless-tripod-3-carbon-fiber-ttor35c-gx35-head-5-sections/",
+   "quote": "Leg Diameter 5 (mm):18.4"
+  }
+ ],
+ "videos": [
+  {
+   "id": "fGbhjXqIB18",
+   "title": "Tripods and Heads: How to choose the best one for you?",
+   "channel": "YouTube (FLM and Sirui gear named in the description)",
+   "url": "https://www.youtube.com/watch?v=fGbhjXqIB18",
+   "section": "How much a Canon R5 and RF L lenses put on a tripod"
+  }
+ ],
+ "pendingInlinks": [
+  {
+   "slug": "best-tripod-for-canon-r6-mark-ii",
+   "find": "I matched five tripods and their tripod heads to real Canon EOS kits using maker specs, Canon's lens weights and R6 owner threads.",
+   "replace": "I matched five tripods and their tripod heads to real Canon EOS kits using maker specs, Canon's lens weights and R6 owner threads (shooting the 45 MP body instead? See our [Canon R5 tripod picks](/blog/best-tripod-for-canon-r5/))."
+  },
+  {
+   "slug": "best-tripod-for-sony-a7r-v",
+   "find": "Each of the five is checked against an actual A7R V kit: Sony's body and lens weights, the tripod makers' specs and what A7R owners report.",
+   "replace": "Each of the five is checked against an actual A7R V kit: Sony's body and lens weights, the tripod makers' specs and what A7R owners report (Canon's 45 MP shooters have their own [Canon R5 tripod picks](/blog/best-tripod-for-canon-r5/))."
+  }
+ ],
+ "textrazor": {
+  "file": "data/briefs/best-tripod-for-canon-r5.entities.json",
+  "pagesAnalyzed": 4,
+  "updated": "2026-11-10",
+  "note": "DPReview blocked TextRazor's fetch (Cloudflare); 4 of 5 pages analyzed. Off-topic entities (Gear, Budget, Ball, Fiber, Carbon, Stiffness as symptom) dropped."
+ },
+ "differentiation": "Live best-tripod-for-canon-r6-mark-ii picks Peak Design, Befree Advanced, LS-284CX, Vanguard Alta Pro, Benro Slim by RF lens weight; this R5 post shares no product with it and is built on 45 MP stiffness (thinnest tube, no raised column), 8K video (fluid head pick) and heavier RF L glass (24-70 F2.8L, 70-200 F2.8L, 100-500).",
+ "answerTerms": [
+  {
+   "question": "What is the best tripod for a Canon R5?",
+   "mapsTo": "intro + FAQ",
+   "terms": [
+    "carbon fiber",
+    "load capacity",
+    "center column",
+    "ball head"
+   ]
+  },
+  {
+   "question": "How much does a Canon R5 with an RF 70-200 or 100-500 weigh on a tripod?",
+   "mapsTo": "H2 How much an R5 and RF L lenses weigh",
+   "terms": [
+    "738 g",
+    "1,070 g",
+    "1,530 g",
+    "tripod mount ring"
+   ]
+  },
+  {
+   "question": "Do I need a fluid head for Canon R5 8K video?",
+   "mapsTo": "FAQ + AD-01 section",
+   "terms": [
+    "fluid head",
+    "pan",
+    "tilt",
+    "bowl"
+   ]
+  },
+  {
+   "question": "Is a travel tripod stable enough for the R5 and heavy RF lenses?",
+   "mapsTo": "problems section + FAQ",
+   "terms": [
+    "leg sections",
+    "tube diameter",
+    "wind",
+    "center column"
+   ]
+  },
+  {
+   "question": "Does the R5's IBIS mean I don't need a tripod?",
+   "mapsTo": "FAQ",
+   "terms": [
+    "IBIS",
+    "long exposure",
+    "8K",
+    "pixel"
+   ]
+  },
+  {
+   "question": "Carbon fiber vs aluminum tripod for the R5?",
+   "mapsTo": "FAQ (Amazon Material filter)",
+   "terms": [
+    "carbon fiber",
+    "aluminum",
+    "vibration",
+    "weight"
+   ]
+  },
+  {
+   "question": "Does the same tripod work for the R5 Mark II and R5 C?",
+   "mapsTo": "FAQ (Google autocomplete: mark ii, r5c)",
+   "terms": [
+    "1/4-20",
+    "Arca-Swiss",
+    "R5 Mark II",
+    "R5 C"
+   ]
+  },
+  {
+   "question": "How much load capacity does a Canon R5 tripod need?",
+   "mapsTo": "FAQ (Amazon Max Load filter)",
+   "terms": [
+    "15 kg",
+    "load rating",
+    "headroom",
+    "wind"
+   ]
+  }
+ ]
+}

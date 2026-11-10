@@ -1,0 +1,228 @@
+{
+  "keyword": "best tripod for canon r5",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.84,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Canon EOS R5",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R5",
+      "wikidata": "Q85750498"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 4,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 4,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "wikidata": "Q62944",
+      "kgmid": "/m/03lwkk"
+    },
+    {
+      "entity": "Gitzo",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.71,
+      "wiki": "http://en.wikipedia.org/wiki/Gitzo",
+      "wikidata": "Q2786962",
+      "kgmid": "/m/02plgzz"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "wikidata": "Q62621",
+      "kgmid": "/m/01bvx1"
+    },
+    {
+      "entity": "Lens",
+      "type": "/law/invention",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Lens",
+      "wikidata": "Q768575",
+      "kgmid": "/m/04n4x"
+    },
+    {
+      "entity": "Benro",
+      "type": "Company",
+      "pages": 3,
+      "relevance": 0.44,
+      "wiki": ""
+    },
+    {
+      "entity": "Telephoto lens",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Telephoto_lens",
+      "wikidata": "Q516461",
+      "kgmid": "/m/01bt4w"
+    },
+    {
+      "entity": "Carbon",
+      "type": "ChemicalSubstance",
+      "pages": 3,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon",
+      "wikidata": "Q623",
+      "kgmid": "/m/025tfgm"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "SIRUI",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": ""
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "Canon EOS R5 Mark II",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_R5_Mark_II",
+      "wikidata": "Q124248951"
+    },
+    {
+      "entity": "Video",
+      "type": "/internet/website_category",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Video",
+      "wikidata": "Q34508",
+      "kgmid": "/m/07z4p"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.39,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx"
+    },
+    {
+      "entity": "Budget",
+      "type": "/award/ranked_item",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Budget",
+      "wikidata": "Q41263",
+      "kgmid": "/m/02144t"
+    },
+    {
+      "entity": "Sensor",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Sensor",
+      "wikidata": "Q167676",
+      "kgmid": "/m/01j7cq"
+    },
+    {
+      "entity": "Fiber",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Fiber",
+      "wikidata": "Q161",
+      "kgmid": "/m/011jng"
+    },
+    {
+      "entity": "Stiffness",
+      "type": "/medicine/symptom",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Stiffness",
+      "wikidata": "Q569057",
+      "kgmid": "/m/02dzkc"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "wikidata": "Q1306072",
+      "kgmid": "/m/047sxn"
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "wikidata": "Q18545",
+      "kgmid": "/m/018xm"
+    },
+    {
+      "entity": "Torsion (mechanics)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Torsion_(mechanics)",
+      "wikidata": "Q826575",
+      "kgmid": "/m/08mgfr"
+    }
+  ],
+  "errors": [
+    "https://www.dpreview.com/forums/threads/tripods-r5.4739085/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Ob0jfAyoPTWE9kzflCjJZa&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Ob0jfAyoPTWE9kzflCjJZa\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'KlidpkTBXRP9QK8nwGk9x5V.xzoglYCAEADsmpHTzp8-1794309927-1.2.1.1-oWphKXWNg6AxE.c4qme22j9pwvEt.Dyng9ahRYkfpjsI88YahIHJpnOyyPegagkz',cITimeS: '1794309927',cN: 'Ob0jfAyoPTWE9kzflCjJZa',cRay: 'a584b257aa9d3945',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/tripods-r5.4739085/?__cf_chl_tk=DtKCn85moq3sRqvdnYJ_K41dcE7FgSiUwbRsTmNA5B4-1794309927-1.0.1.1-iqUEd0fo_gQcpxkbafjkxuSnfmFUPQ.x5U8WUBzNSto\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/tripods-r5.4739085/?__cf_chl_f_tk=DtKCn85moq3sRqvdnYJ_K41dcE7FgSiUwbRsTmNA5B4-1794309927-1.0.1.1-iqUEd0fo_gQcpxkbafjkxuSnfmFUPQ.x5U8WUBzNSto\",md: 'dmx_jpa9xNQvKRfP6bcRKYAbQuu1LX65iDw28hrBzPM-1794309927-1.2.1.1-VnREcTpb2oPp8_C4RM4dGX_n6njeYc168CDkaA9moBy4JZvkJ2mNvRqHton6PlYfFmq9pR_gS1UuC3cGa4kWsQDWvQhOP.11ssIG8MMoPJM2BSQI0TwOG2ux1R9XLxIIH5k36l.ZOygXkSKyLUD4HM7y9jJQ1Zj5aQ54HBu2dFK89llduXyc_TPLcVcuF1ABA63If..eeI9gXVbxTWi7Bt5RhgwVY6x0H2SqIyVRyzopZxiNJnbJ.kRNTa0Ll3cJVemJkdV6yiT3u5NoiPok3lxclU.FHfd7RbN2CF5pdQSarOVqYobM53ZxinxYft3i7tDTDc2c1.AUaoem.8QPUtqJcJFzBcWmGBXdPH3RkVDOF450e4BX7fmj3da4MmlmhzhmWmj9C66WPOW7F201158SowAcEsaXk6tBfRIk7S8ZtXWMWfXEUL2_khnSXtv4rKbQltuL9anjIZWCO0Q.Ps42XLiH6ibyN8vPsuVNPQve3x0vh4xmtWZAwefmprheFzXTgVo91eQiVax0l6QZgAsB8HiM9CkuSmTXxeZcqY2eI9CGkGVvWatLO9BTHFgls.eRDkKd11D02cZ1625UH7O3drUMzmE_VBJoWXjl0Kmzw0CVMt0aItGS0MoDyi_MA7SXM6KWdA8A.XtWSPMDwm3asGw7voGwndmQEaJsYXIIUWTFfMEU7qIO0uns84js5kHrLNq.skQQvTFVV0gBni7RR8xzcaqV0vpbTd6EmZn47iemAmFDH.PMZ6aAv41PH3eb8aci4RnJ.xPt1KtMdlpJl7B0tYQ19TQgCAFj8m5bKquyg.zA9WifEWPLWM23zltABfaVihOhKnFa21oB6npNe7.wYkqewa1HWFUSA7E.PkAiGc3Zl9ZZLl.wo3samH2reeAVeAlNH2FIXmhXLkByyOfUks1WNELO7PjNZzWsajSy._SQ1dGZ7XMKButmqs9ygghyWmWAZgLS6_uEz3SueEe2Z0ait84lDZfDt9j6WPbTtpigwgdwo_PGUR8QJDTvhTLtmY6AAI..lno6DFH9pcYK960JntVWsVTIapdH9Z0X5VTN_OFA1d1x3rjZQ9zd0SJCDKzk0nAKYHL3K2WYDfogE5to1JU7tT5ws3sbjjskcZHeuDzDmWZnCP2Q',mdrd: 'dfuVmuwc8Kf1MQB.FDguX.JyJS__4gIBgDDY9UBLrwQ-1794309927-1.2.1.1-B5zMyRoWDGM8pGYjqwRtjUIQritHYHC1MYhxYZSq4uQ0KdQG2bkTdm5_1AYa0_aWXb6uWucP9rS0O4.RmG1z.jczsZ.KLbU_yR0aZgc9uNxB6wkkwEVC1398iv7s3sYBnI3_VgmH.aYhEJBAyGHoRxTRu4JITfV52fWw9h8k1Z4xsc_EBFtf989oARfpp61JZgwZJL7jA3Z7SgMIhvvk68H4NslKc2HsYWYGovEl62iAEU8JAc5r0FBx9W37YtR2kyF5d1ZRlQX3I3NYNY.K5g',};var a = document.createElement('script');a.nonce = 'Ob0jfAyoPTWE9kzflCjJZa';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a584b257aa9d3945';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/tripods-r5.4739085/?__cf_chl_rt_tk=DtKCn85moq3sRqvdnYJ_K41dcE7FgSiUwbRsTmNA5B4-1794309927-1.0.1.1-iqUEd0fo_gQcpxkbafjkxuSnfmFUPQ.x5U8WUBzNSto\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}
