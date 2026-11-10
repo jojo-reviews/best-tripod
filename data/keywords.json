@@ -8116,8 +8116,8 @@
     "publishedAt": "2026-11-10T11:34:19.116Z"
   },
   {
-    "status": "pending",
-    "attempts": 0,
+    "status": "published",
+    "attempts": 1,
     "addedAt": "2026-11-09T12:14:01.257Z",
     "secondaryKeywords": [],
     "questions": [],
@@ -8139,6 +8139,8 @@
       "parentTopic": null,
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-09"
-    }
+    },
+    "startedAt": "2026-11-10T11:27:21.542Z",
+    "publishedAt": "2026-11-10T11:34:48.691Z"
   }
 ]

@@ -1,0 +1,294 @@
+{
+  "keyword": "best tripod for canon m50",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.7,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 4,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "wikidata": "Q209918",
+      "kgmid": "/m/05p4z41"
+    },
+    {
+      "entity": "Canon EOS M50",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.88,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_M50",
+      "wikidata": "Q51539860"
+    },
+    {
+      "entity": "Electric battery",
+      "type": "/award/ranked_item",
+      "pages": 3,
+      "relevance": 0.85,
+      "wiki": "http://en.wikipedia.org/wiki/Electric_battery",
+      "wikidata": "Q267298",
+      "kgmid": "/m/01c0z"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.78,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "wikidata": "Q62621",
+      "kgmid": "/m/01bvx1"
+    },
+    {
+      "entity": "Battery charger",
+      "type": "/business/consumer_product",
+      "pages": 3,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Battery_charger",
+      "wikidata": "Q352917",
+      "kgmid": "/m/0892cv"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 3,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "wikidata": "Q62944",
+      "kgmid": "/m/03lwkk"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 3,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "wikidata": "Q196342",
+      "kgmid": "/m/04f20t"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "wikidata": "Q192234",
+      "kgmid": "/m/01bjxx"
+    },
+    {
+      "entity": "Aperture",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Aperture",
+      "wikidata": "Q6434802",
+      "kgmid": "/m/0cryx"
+    },
+    {
+      "entity": "Memory card",
+      "type": "/computer/computer_peripheral_class",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Memory_card",
+      "wikidata": "Q183731",
+      "kgmid": "/m/01f5pq"
+    },
+    {
+      "entity": "Canon EF lens mount",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EF_lens_mount",
+      "wikidata": "Q209633",
+      "kgmid": "/m/03lwkz"
+    },
+    {
+      "entity": "Canon EOS M50 Mark II",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_M50_Mark_II",
+      "wikidata": "Q105686724"
+    },
+    {
+      "entity": "Neutral-density filter",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Neutral-density_filter",
+      "wikidata": "Q612206",
+      "kgmid": "/m/07nh62"
+    },
+    {
+      "entity": "Canon EOS M",
+      "type": "/digicams/digital_camera",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS_M",
+      "wikidata": "Q63318",
+      "kgmid": "/m/0kfzj4f"
+    },
+    {
+      "entity": "Photographic filter",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Photographic_filter",
+      "wikidata": "Q876650",
+      "kgmid": "/m/02jpzq"
+    },
+    {
+      "entity": "APS-C",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/APS-C",
+      "wikidata": "Q296277",
+      "kgmid": "/m/06dhpm"
+    },
+    {
+      "entity": "Battery pack",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Battery_pack",
+      "wikidata": "Q420116",
+      "kgmid": "/m/06gpxj"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx"
+    },
+    {
+      "entity": "F-number",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/F-number",
+      "wikidata": "Q862169",
+      "kgmid": "/m/016hsk"
+    },
+    {
+      "entity": "Shutter speed",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_speed",
+      "wikidata": "Q349600",
+      "kgmid": "/m/0168k4"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "wikidata": "Q5843",
+      "kgmid": "/m/01940j"
+    },
+    {
+      "entity": "Canon EF-S lens mount",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EF-S_lens_mount",
+      "wikidata": "Q1155672",
+      "kgmid": "/m/03tdl3"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.33,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "Shutter (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Shutter_(photography)",
+      "wikidata": "Q691823",
+      "kgmid": "/m/06q4q4"
+    },
+    {
+      "entity": "Lighting",
+      "type": "/people/profession",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Lighting",
+      "wikidata": "Q210064",
+      "kgmid": "/m/019sc6"
+    },
+    {
+      "entity": "Kit lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Kit_lens",
+      "wikidata": "Q186270",
+      "kgmid": "/m/07dcrq"
+    },
+    {
+      "entity": "USB hardware",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/USB_hardware",
+      "wikidata": "Q41796309"
+    },
+    {
+      "entity": "Exposure (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.24,
+      "wiki": "http://en.wikipedia.org/wiki/Exposure_(photography)",
+      "wikidata": "Q271960",
+      "kgmid": "/m/0168y9"
+    },
+    {
+      "entity": "Lens adapter",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Lens_adapter",
+      "wikidata": "Q19572618",
+      "kgmid": "/m/012blh9c"
+    },
+    {
+      "entity": "Gimbal",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Gimbal",
+      "wikidata": "Q1146104",
+      "kgmid": "/m/01y6w7"
+    }
+  ],
+  "errors": [
+    "https://amateurphotographer.com/buying-advice/best-tripod/: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />\n<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->\n<style>body{margin:0;padding:0}</style>\n\n\n<!--[if gte IE 10]><!-->\n<script>\n  if (!navigator.cookieEnabled) {\n    window.addEventListener('DOMContentLoaded', function () {\n      var cookieEl = document.getElementById('cookie-alert');\n      cookieEl.style.display = 'block';\n    })\n  }\n</script>\n<!--<![endif]-->\n\n</head>\n<body>\n  <div id=\"cf-wrapper\">\n    <div class=\"cf-alert cf-alert-error cf-cookie-error\" id=\"cookie-alert\" data-translate=\"enable_cookies\">Please enable cookies.</div>\n    <div id=\"cf-error-details\" class=\"cf-error-details-wrapper\">\n      <div class=\"cf-wrapper cf-header cf-error-overview\">\n        <h1 data-translate=\"block_headline\">Sorry, you have been blocked</h1>\n        <h2 class=\"cf-subheadline\"><span data-translate=\"unable_to_access\">You are unable to access</span> amateurphotographer.com</h2>\n      </div><!-- /.header -->\n\n      <div class=\"cf-section cf-highlight\">\n        <div class=\"cf-wrapper\">\n          <div class=\"cf-screenshot-container cf-screenshot-full\">\n            \n              <span class=\"cf-no-screenshot error\"></span>\n            \n          </div>\n        </div>\n      </div><!-- /.captcha-container -->\n\n      <div class=\"cf-section cf-wrapper\">\n        <div class=\"cf-columns two\">\n          <div class=\"cf-column\">\n            <h2 data-translate=\"blocked_why_headline\">Why have I been blocked?</h2>\n\n            <p data-translate=\"blocked_why_detail\">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>\n          </div>\n\n          <div class=\"cf-column\">\n            <h2 data-translate=\"blocked_resolve_headline\">What can I do to resolve this?</h2>\n\n            <p data-translate=\"blocked_resolve_detail\">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>\n          </div>\n        </div>\n      </div><!-- /.section -->\n\n      <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a584b185bbf505d8</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">162.213.37.135</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div><!-- /#cf-error-details -->\n  </div><!-- /#cf-wrapper -->\n\n  <script>\n    window._cf_translation = {};\n    \n    \n  </script>\n<script>window.__CF$cv$params={r:'a584b185bbf505d8',t:'MTc5NDMwOTg5NA==',u:'01a1c5342f9a7676b3ea51d90b5882d8',ut:'3cBxuzmtOM_DabpKmLuyweDBtxZYX88dW8fBNS9.pmc-1794309894-1.2.1.1-FFA0SV9pFjUMUUcGPQIVjs_T.n7VTzinBqeX5pikv3BEHwX1qxFf38BZBOBOEkcNThSwPq02plzlgSUGYHs4j7Nm4wzqDRb_x2qHmQihhCw',i:60};(function(){if(!document.body)return;var l=window.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a584b185bbf505d8',s=document.createElement('script');s.src=o?new URL(u,o).href:u;document.head.appendChild(s);})();</script></body>\n</html>"
+  ]
+}

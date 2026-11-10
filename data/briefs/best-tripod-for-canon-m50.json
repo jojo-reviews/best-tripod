@@ -1,0 +1,762 @@
+{
+  "centralEntity": "tripod for Canon M50",
+  "entityVariants": [
+    "best tripod for canon m50",
+    "best tripod for canon m50 mark ii",
+    "tripod for canon eos m50",
+    "canon m50 tripod",
+    "best tripod for canon eos m50",
+    "m50 tripod",
+    "tripod for the m50",
+    "tripods for the canon m50"
+  ],
+  "entities": [
+    {
+      "name": "Canon EOS M50",
+      "type": "/digicams/digital_camera",
+      "relation": "the camera: APS-C mirrorless, EF-M mount, card slot inside the bottom battery door",
+      "salience": 0.88,
+      "pages": 3,
+      "textrazorName": "Canon EOS M50"
+    },
+    {
+      "name": "Canon EOS M50 Mark II",
+      "type": "/digicams/digital_camera",
+      "relation": "the current body: 387 g with battery and card (Canon manual)",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
+      "name": "tripod",
+      "type": "/business/consumer_product",
+      "relation": "central entity",
+      "salience": 0.57,
+      "pages": 3,
+      "textrazorName": "Tripod (photography)"
+    },
+    {
+      "name": "mirrorless camera",
+      "type": "/digicams/camera_format",
+      "relation": "camera class the M50 belongs to; picks come from mirrorless travel-tripod lists",
+      "salience": 0.3,
+      "pages": 4
+    },
+    {
+      "name": "Canon",
+      "type": "Company",
+      "relation": "maker of the M50 and its EF-M lenses",
+      "salience": 0.78,
+      "pages": 3,
+      "textrazorName": "Canon Inc."
+    },
+    {
+      "name": "battery",
+      "type": "",
+      "relation": "LP-E12 battery shares the bottom door with the SD card, which a tripod plate can block",
+      "salience": 0.85,
+      "pages": 3,
+      "textrazorName": "Electric battery"
+    },
+    {
+      "name": "memory card",
+      "type": "/computer/computer_peripheral_class",
+      "relation": "SD card sits in the battery compartment, so swapping it means taking the camera off the plate",
+      "salience": 0.63,
+      "pages": 2
+    },
+    {
+      "name": "Canon EF lens mount",
+      "type": "",
+      "relation": "EF lenses mount through the EF-EOS M adapter and add weight",
+      "salience": 0.59,
+      "pages": 2
+    },
+    {
+      "name": "lens adapter",
+      "type": "",
+      "relation": "Mount Adapter EF-EOS M, 110 g",
+      "salience": 0.23,
+      "pages": 2,
+      "textrazorName": "Lens adapter"
+    },
+    {
+      "name": "kit lens",
+      "type": "",
+      "relation": "EF-M 15-45mm IS STM, 130 g",
+      "salience": 0.25,
+      "pages": 2
+    },
+    {
+      "name": "APS-C",
+      "type": "",
+      "relation": "sensor size; the close-variant search is best tripod for APS-C mirrorless",
+      "salience": 0.44,
+      "pages": 2
+    },
+    {
+      "name": "image stabilization",
+      "type": "",
+      "relation": "lens IS plus digital IS; switch lens IS off on a tripod when the lens manual says so",
+      "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "shutter speed",
+      "type": "",
+      "relation": "long exposures are why a tripod is needed",
+      "salience": 0.37,
+      "pages": 2
+    },
+    {
+      "name": "neutral-density filter",
+      "type": "",
+      "relation": "ND filters lengthen exposures that need a tripod",
+      "salience": 0.53,
+      "pages": 2
+    },
+    {
+      "name": "gimbal",
+      "type": "",
+      "relation": "handheld alternative for walking video, compared with a tripod",
+      "salience": 0.23,
+      "pages": 2
+    },
+    {
+      "name": "Canon EOS",
+      "type": "",
+      "relation": "camera family",
+      "salience": 0.52,
+      "pages": 3
+    },
+    {
+      "name": "Arca-Swiss plate",
+      "type": "",
+      "relation": "plate standard on the Vanguard, Peak Design and K&F heads",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "ball head",
+      "type": "",
+      "relation": "head type on every pick",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "center column",
+      "type": "",
+      "relation": "raising it costs stability; column-down height matters",
+      "salience": 0.35,
+      "pages": 3
+    },
+    {
+      "name": "Vanguard VEO 3GO 235AB",
+      "type": "/business/consumer_product",
+      "relation": "pick",
+      "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "Peak Design Travel Tripod",
+      "type": "/business/consumer_product",
+      "relation": "pick",
+      "salience": 0.4,
+      "pages": 4
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "type": "/business/consumer_product",
+      "relation": "pick",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "Manfrotto PIXI EVO",
+      "type": "/business/consumer_product",
+      "relation": "pick",
+      "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "K&F Concept 64 inch tripod",
+      "type": "/business/consumer_product",
+      "relation": "pick",
+      "salience": 0.3,
+      "pages": 2
+    }
+  ],
+  "entitiesNote": "TextRazor sharedEntities from 4 parsed pages (Compact Shooter, Dream Big Travel Far, Shutter Muse, Pack Hacker; Amateur Photographer blocked by Cloudflare). Kept Canon EOS M50, M50 Mark II, battery, memory card, EF mount, lens adapter, kit lens, APS-C, image stabilization, ND filter, gimbal; dropped off-topic ones (backpack, USB hardware, lighting, battery charger).",
+  "attributes": [
+    "rated load vs M50 Mark II + EF-M 15-45mm (387 g + 130 g = 517 g)",
+    "rated load vs M50 + EF-EOS M adapter + EF-S 55-250mm (872 g)",
+    "height with the center column down",
+    "folded length",
+    "weight with head",
+    "quick-release plate vs fixed screw (card door access)",
+    "Arca-Swiss plate compatibility",
+    "independent pan lock for video",
+    "leg lock type (twist vs flip)",
+    "minimum height",
+    "tilt to portrait (vertical video)",
+    "weight hook"
+  ],
+  "ngrams": [
+    "tripod for canon m50",
+    "canon m50 mark ii",
+    "travel tripod",
+    "ball head",
+    "center column",
+    "quick release plate",
+    "arca swiss",
+    "gorillapod 3k",
+    "kit lens",
+    "mini tripod",
+    "battery door",
+    "sd card"
+  ],
+  "skipgrams": [
+    "tripod…M50",
+    "plate…battery door",
+    "SD card…tripod",
+    "center column…down",
+    "light…camera",
+    "517 g…rating",
+    "EF…adapter"
+  ],
+  "nlpTerms": [
+    "Canon",
+    "EOS M50",
+    "M50 Mark II",
+    "APS-C",
+    "mirrorless",
+    "EF-M 15-45mm",
+    "EF-EOS M adapter",
+    "EF-S 55-250mm",
+    "vlogging",
+    "4K video",
+    "flip screen",
+    "long exposure",
+    "ND filter",
+    "aluminum",
+    "ball head",
+    "Arca-Swiss",
+    "center column",
+    "folded length",
+    "load capacity",
+    "twist lock",
+    "flip lock",
+    "weight hook",
+    "monopod",
+    "Bluetooth remote",
+    "self-timer",
+    "SD card",
+    "battery door"
+  ],
+  "questions": [
+    "What is the best tripod for a Canon M50?",
+    "How much weight does a tripod need to hold for a Canon M50?",
+    "Can I change the M50's SD card without taking it off the tripod?",
+    "Is a GorillaPod enough for the Canon M50?",
+    "Is a cheap tripod OK for the Canon M50?",
+    "Does the M50 Mark II need a different tripod from the M50?",
+    "Can a mini tripod hold the M50 in portrait mode?",
+    "Do I need a bigger tripod with EF lenses on the adapter?"
+  ],
+  "questionAnswerMap": [
+    {
+      "q": "How much weight does a tripod need to hold for a Canon M50?",
+      "answerTerms": [
+        "load capacity",
+        "387 g",
+        "kit lens",
+        "grams",
+        "headroom"
+      ],
+      "mapsTo": "Canon M50 tripod comparison by load and height"
+    },
+    {
+      "q": "Can I change the M50's SD card without taking it off the tripod?",
+      "answerTerms": [
+        "battery door",
+        "SD card",
+        "quick release plate",
+        "Arca plate",
+        "cage"
+      ],
+      "mapsTo": "How to keep the M50 card door clear on a tripod"
+    },
+    {
+      "q": "Is a GorillaPod enough for the Canon M50?",
+      "answerTerms": [
+        "GorillaPod 3K",
+        "1K",
+        "kit lens",
+        "3 kg",
+        "legs"
+      ],
+      "mapsTo": "FAQ"
+    },
+    {
+      "q": "Is a cheap tripod OK for the Canon M50?",
+      "answerTerms": [
+        "budget",
+        "plastic",
+        "center column",
+        "wind",
+        "load"
+      ],
+      "mapsTo": "FAQ"
+    },
+    {
+      "q": "Do I need a bigger tripod with EF lenses on the adapter?",
+      "answerTerms": [
+        "EF-EOS M adapter",
+        "EF-S 55-250mm",
+        "872 g",
+        "GorillaPod 5K",
+        "load"
+      ],
+      "mapsTo": "FAQ"
+    },
+    {
+      "q": "Can a mini tripod hold the M50 in portrait mode?",
+      "answerTerms": [
+        "portrait",
+        "90°",
+        "top heavy",
+        "PIXI EVO",
+        "tilt"
+      ],
+      "mapsTo": "FAQ"
+    }
+  ],
+  "contentGaps": [
+    "Load headroom against the real M50 kit (517 g) and an adapted EF-S 55-250mm kit (872 g)",
+    "The SD card sits in the battery compartment, so a fixed-screw mount means unscrewing for every card swap",
+    "Column-down height vs full height compared across picks",
+    "Which picks pan smoothly for M50 video and which tip in portrait mode",
+    "Wind on a light camera: hook, column down, legs spread"
+  ],
+  "outline": [
+    {
+      "h2": "Canon M50 tripod comparison by load and height",
+      "intent": "comparison table on the deciding specs (first body H2, no repeat of top picks)",
+      "h3": []
+    },
+    {
+      "h2": "How I picked these Canon M50 tripods",
+      "intent": "method, who else recommends, story block",
+      "h3": []
+    },
+    {
+      "h2": "The 5 best tripods for the Canon M50, reviewed",
+      "intent": "one paragraph per product, each ending with its own buy button",
+      "h3": [
+        "Vanguard VEO 3GO 235AB: Best overall tripod for the M50",
+        "Peak Design Travel Tripod (Aluminum): Best tripod for eye-level stills and hiking",
+        "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head: Best budget full-height tripod",
+        "JOBY GorillaPod 3K Kit: Best flexible tripod for M50 vlogging",
+        "Manfrotto PIXI EVO 2-Section Mini Tripod: Best tabletop tripod for desk video"
+      ]
+    },
+    {
+      "h2": "Which Canon M50 tripod should you get?",
+      "intent": "decision rule + mapping lines",
+      "h3": []
+    },
+    {
+      "h2": "How to keep the M50 card door clear on a tripod",
+      "intent": "pain point: SD card in the battery compartment; numbered steps",
+      "h3": []
+    },
+    {
+      "h2": "How to keep a light M50 tripod steady in wind",
+      "intent": "pain point: light camera, wind, cheap legs; numbered steps",
+      "h3": []
+    }
+  ],
+  "targetWords": 1750,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+      "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+      "https://compactshooter.com/2021/02/best-canon-m50-accessories/",
+      "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/",
+      "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/",
+      "https://amateurphotographer.com/buying-advice/best-tripod/",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The M50 accessory guides (Shutter Muse, Dream Big Travel Far, Compact Shooter) describe each tripod in a short paragraph with a why-get-it line, not pros/cons tables; forum threads answer in prose.",
+    "avgWords": 1860,
+    "avgWordsNote": "Average of the two current M50 article pages (Shutter Muse about 1,350 words, Dream Big Travel Far about 2,367); Compact Shooter's 5,091-word all-accessories guide left out as an outlier. Forums and videos have no comparable length.",
+    "avgProducts": 2,
+    "commonSections": [
+      "why a tripod for the M50",
+      "tripod pick(s) with a short reason",
+      "GorillaPod as the compact option",
+      "FAQ"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": true,
+    "usesBuyingGuide": false
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.youtube.com/watch?v=U30x81Wdho8",
+      "title": "The Best Tripod for the Canon M50 or Canon M50 Mark II?"
+    },
+    {
+      "position": 2,
+      "url": "https://www.amazon.com/canon-m50-tripod/s?k=canon+m50+tripod",
+      "title": "Canon M50 Tripod"
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/canon/comments/g1xpph/a_good_tripod_and_magic_arm_for_canon_m50_for/",
+      "title": "A good tripod and magic arm for Canon M50 for overhead ..."
+    },
+    {
+      "position": 4,
+      "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/",
+      "title": "Tripod for Canon M50"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/352527064790380/posts/27413092711640449/",
+      "title": "What's the best tripod for Canon photographers?"
+    },
+    {
+      "position": 6,
+      "url": "https://www.facebook.com/groups/344991346218020/posts/880551882661961/",
+      "title": "Where to buy Canon M50 and suitable tripod suggestions"
+    },
+    {
+      "position": 7,
+      "url": "https://www.target.com/s/canon+m50+tripod",
+      "title": "Canon Tripod for M50 | Best Tripods & Accessories"
+    },
+    {
+      "position": 8,
+      "url": "https://www.tiktok.com/discover/best-tripod-for-canon-m50",
+      "title": "Best Tripod for Canon M50"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=sUUAYcr4o7I",
+      "title": "The Best Mini Tripods for Canon 90D & M50"
+    },
+    {
+      "position": 10,
+      "url": "https://forum.canonrumors.co/rf-forum/what-is-the-best-tripod-for-the-canon-eos-r50/",
+      "title": "What is the best tripod for the Canon EOS R50?"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 2,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "mark ii",
+      "mini tripod",
+      "accessories",
+      "suggestions"
+    ],
+    "gap": "No top-10 title gives a number of picks or sizes the tripod to the M50 kit weight; the results are videos, store pages, forum threads and social posts. No title carries a year, so the title has none."
+  },
+  "commonPoints": [
+    "The M50 is light, so almost any tripod holds it",
+    "A GorillaPod 3K suits the M50 with small EF-M lenses",
+    "Peak Design Travel Tripod comes up for travel",
+    "A tripod helps with night skies, long exposures and video",
+    "Very cheap tripods are a risk to the camera"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Load headroom vs the real kit: M50 Mark II (387 g with battery and card) + EF-M 15-45mm (130 g) = 517 g; ratings give 4.8x (PIXI EVO, 2.5 kg) to 17.6x (Peak Design, 9.1 kg). With the EF-EOS M adapter (110 g) and EF-S 55-250mm (375 g) the kit is 872 g, and the minis fall to 2.9x-3.4x.",
+      "source": "https://cam.start.canon/en/C007/manual/html/UG-11_Reference_0090.html; https://www.usa.canon.com/support/p/ef-m-15-45mm-f-3-5-6-3-is-stm; https://www.canon-is.com/lenses/mount-adapter-ef-eos-m-lens/specifications/; https://www.usa.canon.com/shop/p/ef-s-55-250mm-f-4-5-6-is-stm",
+      "absentFrom": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+        "https://compactshooter.com/2021/02/best-canon-m50-accessories/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "The M50's SD card sits in the battery compartment, so a fixed-screw mount (PIXI EVO) means unscrewing for every card swap; a quick-release plate lets the camera lift off in one move, and a small Arca plate or a cage with a battery cutout clears the door (r/canon replies).",
+      "source": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/",
+      "absentFrom": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+        "https://compactshooter.com/2021/02/best-canon-m50-accessories/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Column-down height compared: Peak Design 51.25 in, K&F 45.67 in, Vanguard 41.8 in; the Vanguard reaches 53.5 in only with its two-section column, which Amateur Photographer says is wobbly at full height.",
+      "source": "https://www.vanguardworld.com/products/veo-3-go-235ab-aluminum-tripod-monopod-with-ball-head-bluetooth-remote-spc; https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head; https://www.precision-camera.com/peak-design-aluminum-travel-tripod/",
+      "absentFrom": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+        "https://compactshooter.com/2021/02/best-canon-m50-accessories/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by use: travel stills and video with one tripod (Vanguard, independent pan lock), eye-level landscapes (Peak Design), tight budget at full height (K&F), walk-and-talk vlogs and railings (GorillaPod 3K), desk streaming (PIXI EVO).",
+      "source": "own decision rule from the verified specs",
+      "absentFrom": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+        "https://compactshooter.com/2021/02/best-canon-m50-accessories/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Wind on a light camera: an r/AskPhotography M50 owner worried the wind would blow a light tripod down; fix = column down, legs at the widest angle, bag on the hook (Vanguard and K&F have one).",
+      "source": "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/",
+      "absentFrom": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "pages": [
+        "https://compactshooter.com/2021/02/best-canon-m50-accessories/",
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories",
+        "https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "pages": [
+        "https://shuttermuse.com/best-accessories-for-canon-eos-m50/",
+        "https://amateurphotographer.com/buying-advice/best-tripod/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://1kcreatives.com/5-best-lightweight-tripods-micro-four-thirds-cameras/"
+      ]
+    },
+    {
+      "name": "Vanguard VEO 3GO 235AB",
+      "pages": [
+        "https://amateurphotographer.com/buying-advice/best-tripod/",
+        "https://www.cameraegg.org/camerareview/best-tripods-for-canon-eos-r50/"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/",
+        "https://forum.sony-rumors.com/apsc-mirrorless-camera/best-compact-tripods-for-the-sony-zv-e10-vlogging-camera-81600/"
+      ]
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://forum.canonrumors.co/rf-forum/any-budget-friendly-tripod-suggestions-for-the-canon-eos-r50-49752/"
+      ]
+    },
+    {
+      "name": "Endurax 60 inch tripod (one page, not used)",
+      "pages": [
+        "https://www.dreambigtravelfarblog.com/blog/canon-m50-accessories"
+      ]
+    },
+    {
+      "name": "Manfrotto PIXI Mini (one article page, not used)",
+      "pages": [
+        "https://amateurphotographer.com/buying-advice/best-tripod/"
+      ]
+    },
+    {
+      "name": "Benro Tablepod Flex (one page, not used)",
+      "pages": [
+        "https://amateurphotographer.com/buying-advice/best-tripod/"
+      ]
+    }
+  ],
+  "serpProductsNote": "The keyword's top 10 are videos, store pages, forums and social posts, so products come from the M50 accessory guides plus close variants (best tripod for APS-C mirrorless, best travel tripod, R50 and ZV-E10 APS-C mirrorless pages). Each pick is named by 2+ independent pages; makers' own pages and store listings are not counted.",
+  "stats": [
+    {
+      "number": "387 g",
+      "claim": "Canon EOS M50 Mark II body weight including battery and memory card (black)",
+      "url": "https://cam.start.canon/en/C007/manual/html/UG-11_Reference_0090.html",
+      "quote": "Body (including battery and memory card)*1 | Black | Approx. 387 g Approx. 13.65 oz."
+    },
+    {
+      "number": "130 g",
+      "claim": "EF-M 15-45mm f/3.5-6.3 IS STM kit lens weight",
+      "url": "https://www.usa.canon.com/support/p/ef-m-15-45mm-f-3-5-6-3-is-stm",
+      "quote": "Diameter x Length, Weight 2.40 x 1.76 in., approx. 4.6 oz. 60.9 x 44.5mm, approx. 130g."
+    },
+    {
+      "number": "110 g",
+      "claim": "Canon Mount Adapter EF-EOS M weight",
+      "url": "https://www.canon-is.com/lenses/mount-adapter-ef-eos-m-lens/specifications/",
+      "quote": "Max. diameter x length (mm). 66.6 x 28. Weight (g). 110."
+    },
+    {
+      "number": "375 g",
+      "claim": "EF-S 55-250mm f/4-5.6 IS STM weight",
+      "url": "https://www.usa.canon.com/shop/p/ef-s-55-250mm-f-4-5-6-is-stm",
+      "quote": "2.8 x 4.4 inches, approx. 13.2 oz. / 70.0 x 111.2mm, approx. 375g"
+    },
+    {
+      "number": "41.8 in",
+      "claim": "Vanguard VEO 3GO 235AB height with the center column down",
+      "url": "https://www.vanguardworld.com/products/veo-3-go-235ab-aluminum-tripod-monopod-with-ball-head-bluetooth-remote-spc",
+      "quote": "Extended Height w/ Center Column Down 41.8\" 1.06 m"
+    }
+  ],
+  "videos": [],
+  "videosNote": "The M50 tripod videos in the results push a mini tripod and cage we do not cover or compare a 90D setup; none shows choosing between these picks, so no video.",
+  "painPoints": [
+    {
+      "id": "canon-m50-sd-card-under-plate",
+      "pain": "The M50's SD card sits in the battery compartment, so the camera has to come off the tripod for every card swap",
+      "details": "An r/canon M50 owner testing video asked for a tripod that does not need the camera screwed on, because the card is under the battery door; replies suggest a smaller Arca plate, a cage with a battery cutout and offset holes, or a magic arm.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/"
+      ],
+      "quotes": [
+        {
+          "text": "can anyone recommend a tripod that does NOT require screwing in the camera into the tripod base",
+          "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/"
+        },
+        {
+          "text": "Peak Design is good, but doesn’t always play nicely with all arca tripods.",
+          "url": "https://www.reddit.com/r/canon/comments/1wzcvrb/tripod_for_canon_m50/"
+        }
+      ]
+    },
+    {
+      "id": "canon-m50-light-camera-wind",
+      "pain": "A light M50 on a light tripod might blow over in wind",
+      "details": "An M50 owner filming outdoor sports asked for a tripod stable enough that wind will not blow it down; replies say new gear under 100 dollars is often plastic and unstable at full extension.",
+      "sources": [
+        "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/"
+      ],
+      "quotes": [
+        {
+          "text": "Looking for a tripod that is stable & can hold this light camera without wind blowing the tripod down.",
+          "url": "https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/"
+        }
+      ]
+    },
+    {
+      "id": "canon-m50-budget-tripod-trust",
+      "pain": "M50 owners on a 70 to 100 dollar budget are told cheap tripods will drop the camera",
+      "details": "In r/canon and r/AskPhotography M50 threads, some replies warn never to put the camera on cheap legs, while others say a budget tripod is fine for an entry-level body with a light kit lens used now and then.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/",
+        "https://www.reddit.com/r/AskPhotography/comments/1myvj3v/could_anyone_advise_a_tripod_under_70_for_canon/"
+      ],
+      "quotes": [
+        {
+          "text": "Never, and I mean NEVER use cheap with your gear.",
+          "url": "https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/"
+        }
+      ]
+    },
+    {
+      "id": "canon-m50-portrait-mini-tipping",
+      "pain": "Short mini tripods tip over when the M50 is turned to portrait for streams and reels",
+      "details": "An M50 Mark II owner streaming in portrait asked for a desk tripod that will not tip; a reply found a short mini tripod hit its own leg at 90 degrees and was too top heavy to stay up, and another owner had read that GorillaPod joints get unstable over time.",
+      "sources": [
+        "https://www.reddit.com/r/canon/comments/pcj9ny/i_am_looking_for_a_mini_tripod_for_my_canon_m50/"
+      ],
+      "quotes": [
+        {
+          "text": "its so top heavy it doesnt stay upright",
+          "url": "https://www.reddit.com/r/canon/comments/pcj9ny/i_am_looking_for_a_mini_tripod_for_my_canon_m50/"
+        }
+      ]
+    }
+  ],
+  "googleModifiers": [
+    "m50 mark ii",
+    "canon mirrorless camera",
+    "budget",
+    "travel",
+    "eos m50"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Max Height",
+      "options": [
+        "Up to 39 in",
+        "40 to 49 in",
+        "50 to 64 in",
+        "65 in & above"
+      ]
+    },
+    {
+      "group": "Min Height",
+      "options": [
+        "Up to 7.9 in",
+        "8.0 to 13.9 in",
+        "14.0 to 19.9 in",
+        "20.0 in & above"
+      ]
+    },
+    {
+      "group": "Brands",
+      "options": [
+        "Amazon Basics",
+        "ULANZI",
+        "UBeesize",
+        "Acer",
+        "SMALLRIG",
+        "NEEWER",
+        "K&F CONCEPT",
+        "Manfrotto",
+        "Sirui"
+      ]
+    },
+    {
+      "group": "Price",
+      "options": [
+        "Up to $90",
+        "$90 to $250",
+        "$250 to $350",
+        "$350 to $700",
+        "$700 & above"
+      ]
+    }
+  ],
+  "amazonFiltersUse": "Max height and min height buckets become comparison-table columns (column-down height, minimum height); price buckets are not shown (no prices), only the budget pick wording.",
+  "internalLinkCandidates": [
+    "best-tripod-for-canon-r50",
+    "what-is-an-arca-swiss-plate-and-do-i-need-one",
+    "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+    "best-tripod-under-100",
+    "best-tripod-for-vertical-shooting"
+  ],
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-canon-r50",
+      "find": "Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging.",
+      "replace": "Its legs wrap railings and fold into a handheld grip, which suits a light camera like the R50 for vlogging, and it is also on our [Canon M50 tripod list](/blog/best-tripod-for-canon-m50/)."
+    },
+    {
+      "slug": "best-tripod-under-100",
+      "find": "A small wide-angle lens leaves more headroom than this zoom; a telephoto is the point to look past this budget.",
+      "replace": "A small wide-angle lens leaves more headroom than this zoom, as our [tripods for the Canon M50](/blog/best-tripod-for-canon-m50/) show with a 517 g kit; a telephoto is the point to look past this budget."
+    }
+  ],
+  "secondaryKeywords": [
+    "best tripod for canon m50 mark ii",
+    "tripod for canon eos m50",
+    "canon m50 tripod",
+    "best tripod for canon eos m50",
+    "canon m50 tripod for vlogging"
+  ],
+  "angle": "Size the tripod to the 517 g M50 kit (872 g with an adapted EF-S 55-250mm): load rarely limits, so choose on column-down height, quick release for the card door, pan control for video and size for where you shoot."
+}
