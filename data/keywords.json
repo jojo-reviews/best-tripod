@@ -1050,12 +1050,12 @@
     "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-18T13:44:47.103Z",
     "secondaryKeywords": [],
     "questions": [],
-    "priority": 5,
+    "priority": 1193,
     "keyword": "best tripod head for real estate photography",
     "category": "tripod-heads",
     "articleType": "roundup",
@@ -1063,14 +1063,19 @@
     "funnel": "bofu",
     "workingTitle": "Best Tripod Head for Real Estate Photography",
     "cluster": "real estate",
-    "rationale": "Found by the real-estate tripod research: Ahrefs 100/KD 0, head-only buying intent",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 100; angle: head-only intent (levelling, panning for interiors, quick leveling heads); 1 shared URL with the live real-estate tripod post, so distinct.",
     "ahrefs": {
       "volume": 100,
-      "kd": 0
+      "kd": 0,
+      "trafficPotential": 20,
+      "parentTopic": "best tripod head for real estate photography",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
     },
     "slug": "best-tripod-head-for-real-estate-photography",
-    "mergedInto": "best-tripod-for-real-estate-photography",
-    "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)"
+    "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)",
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10"
   },
   {
     "status": "published",
@@ -2852,39 +2857,31 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-10-20T20:10:20.387Z",
-    "secondaryKeywords": [
-      "food photography tripod overhead",
-      "tripod with horizontal arm for flat lay",
-      "tripod for product photography",
-      "best phone tripod for cooking videos",
-      "best phone tripod for food content creators",
-      "best tripod for kitchen",
-      "best tripod for kitchen videos",
-      "best overhead tripod for cooking videos",
-      "which tripod is best for cooking videos",
-      "best tripod with light for cooking videos",
-      "best tripod with ring light for cooking videos"
-    ],
-    "questions": [
-      "what tripod do I need for overhead food photos",
-      "can a phone tripod do flat lay food photography"
-    ],
-    "priority": 600,
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1178,
     "keyword": "best tripod for food photography",
     "category": "camera-tripods",
     "articleType": "roundup",
     "intent": "commercial",
     "funnel": "bofu",
-    "workingTitle": "Best Tripod for Food Photography: Overhead Shots Without the Wobble",
-    "cluster": "specialty tripods",
-    "source": "no-ahrefs",
-    "rationale": "Live SERP 2026-10-20 (Firecrawl, no Ahrefs): r/AskPhotography #1, twolovesstudio, reganbaroni, YouTube, Manfrotto story, thelittleplantation, Best Buy, Facebook, foodphotographyblog, foodphotographycoach. Mostly small niche blogs; winnable. Product photography SERP shares ~3 URLs, so it is merged here as a secondary, not queued separately.",
+    "workingTitle": "Best Tripod for Food Photography",
+    "cluster": "food photography",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: stills camera for flat lays and table angles (overhead arm, low-angle, load rating); 3 URLs shared with cooking videos (gray), kept separate as photography vs video.",
     "slug": "best-tripod-for-food-photography",
-    "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 0,
+      "trafficPotential": 20,
+      "parentTopic": "tripod for food photography",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "published",
@@ -3460,8 +3457,9 @@
     "keyword": "best phone tripod for travel",
     "slug": "best-phone-tripod-for-travel",
     "source": "user",
-    "mergedInto": "best-tripod-for-iphone-night-mode-photos",
-    "rationale": "same search intent as post \"best tripod for iphone night mode photos\" (4 shared top-10 results); owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword"
+    "mergedInto": "best tripod for iphone travel",
+    "rationale": "same search intent as post \"best tripod for iphone night mode photos\" (4 shared top-10 results); owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword",
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary"
   },
   {
     "status": "merged",
@@ -3616,8 +3614,9 @@
     "keyword": "best phone tripod for cooking videos",
     "slug": "best-phone-tripod-for-cooking-videos",
     "source": "user",
-    "mergedInto": "best-tripod-for-food-photography",
-    "rationale": "same search intent as queue \"best tripod for food photography\" (4 shared top-10 results); owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword"
+    "mergedInto": "best tripod for cooking videos",
+    "rationale": "same search intent as queue \"best tripod for food photography\" (4 shared top-10 results); owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword",
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary"
   },
   {
     "status": "merged",
@@ -4469,7 +4468,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.969Z",
     "secondaryKeywords": [
@@ -4489,7 +4488,8 @@
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
     "slug": "best-budget-tripod-for-video",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary",
+    "mergedInto": "best tripod for dslr video"
   },
   {
     "status": "replaced",
@@ -4885,7 +4885,7 @@
     "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
   },
   {
-    "status": "replaced",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-10-21T15:40:51.970Z",
     "secondaryKeywords": [
@@ -4904,7 +4904,8 @@
     "rationale": "owner keyword list 2026-10-21; US top-10 compared by shared URLs (>=4 = same intent) against every post, queued keyword and other new keyword; distinct (<=2 shared) from all existing posts and queue items",
     "slug": "best-carbon-fiber-tripod-for-travel",
     "replacedAt": "2026-10-22T00:00:00.000Z",
-    "note": "Owner replaced the queue with a new keyword list on 2026-10-22"
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary",
+    "mergedInto": "best carbon fiber travel tripod"
   },
   {
     "status": "replaced",
@@ -6264,12 +6265,34 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for android phone",
-    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: same Google intent as a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [
+      "best tripod for samsung phone",
+      "best tripod for cell phone"
+    ],
+    "questions": [],
+    "priority": 1192,
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Android Phone",
+    "cluster": "android phone",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: Android/Samsung/Pixel clamp fit, case and big-phone width; variants share 5 URLs; 3 with the live remote-vlogging post (gray, different angle: compatibility).",
+    "slug": "best-tripod-for-android-phone",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 2,
+      "trafficPotential": 400,
+      "parentTopic": "best phone tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -6840,12 +6863,33 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for cooking videos",
-    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: same Google intent as a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [
+      "best phone tripod for cooking videos"
+    ],
+    "questions": [],
+    "priority": 1194,
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Cooking Videos",
+    "cluster": "cooking videos",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 40; angle: overhead and side angles over a counter, splash and reach, phone clamp; variants share 5 URLs; 3 with food photography (kept separate: stills vs video).",
+    "slug": "best-tripod-for-cooking-videos",
+    "ahrefs": {
+      "volume": 40,
+      "kd": 0,
+      "trafficPotential": 10,
+      "parentTopic": "phone tripod for cooking videos",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -6866,10 +6910,10 @@
   {
     "status": "merged",
     "keyword": "best tripod for overhead shots",
-    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "mergedInto": "best overhead tripod for iphone",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "user",
-    "note": "owner list 2026-10-22: same Google intent as a live post"
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary"
   },
   {
     "status": "merged",
@@ -6896,12 +6940,33 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best overhead tripod for iphone",
-    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: same Google intent as a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [
+      "best tripod for overhead shots"
+    ],
+    "questions": [],
+    "priority": 1191,
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Overhead Tripod for iPhone",
+    "cluster": "overhead",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: top-down arm/boom for flat lays, drawing and recipes; same Ahrefs parent topic, 2 shared URLs.",
+    "slug": "best-overhead-tripod-for-iphone",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 2,
+      "trafficPotential": 50,
+      "parentTopic": "tripod for overhead shots",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -7320,12 +7385,38 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for iphone travel",
-    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: covered by a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [
+      "best travel tripod for iphone",
+      "best iphone tripod for travel",
+      "best phone tripod for travel",
+      "best travel tripod for phone",
+      "best portable tripod for iphone",
+      "best mini tripod for iphone"
+    ],
+    "questions": [],
+    "priority": 1200,
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for iPhone Travel: Light, Packable Picks",
+    "cluster": "iphone travel",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 70; angle: packed size and weight for carry-on, iPhone mount grip, quick setup on the road; iphone/phone/mini travel variants share 5-6 top-10 URLs.",
+    "slug": "best-tripod-for-iphone-travel",
+    "ahrefs": {
+      "volume": 70,
+      "kd": 4,
+      "trafficPotential": 60,
+      "parentTopic": "best tripod for iphone travel",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -7344,12 +7435,31 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for travel photography",
-    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: covered by a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1183,
+    "category": "travel-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Travel Photography",
+    "cluster": "travel photography",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: photography-first travel use (cities, landscapes, low light); 1-2 shared URLs with live posts. Ahrefs returned no KD.",
+    "slug": "best-tripod-for-travel-photography",
+    "ahrefs": {
+      "volume": 10,
+      "kd": null,
+      "trafficPotential": null,
+      "parentTopic": "best tripod for travel photography",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -7370,18 +7480,18 @@
   {
     "status": "merged",
     "keyword": "best travel tripod for dslr",
-    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "mergedInto": "best carbon fiber travel tripod",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "user",
-    "note": "owner list 2026-10-22: covered by a live post"
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary"
   },
   {
     "status": "merged",
     "keyword": "best travel tripod for phone",
-    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
+    "mergedInto": "best tripod for iphone travel",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "user",
-    "note": "owner list 2026-10-22: covered by a live post"
+    "note": "owner list 2026-11-10: same-intent variant merged into the primary"
   },
   {
     "status": "merged",
@@ -7552,12 +7662,31 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for mirrorless camera",
-    "mergedInto": "best-travel-tripod-for-mirrorless-camera",
     "addedAt": "2026-10-22T00:00:00.000Z",
-    "source": "user",
-    "note": "owner list 2026-10-22: covered by a live post"
+    "source": "owner list 2026-11-10",
+    "note": "owner request 2026-11-10",
+    "attempts": 0,
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1195,
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Mirrorless Camera",
+    "cluster": "camera tripods",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 40; angle: generic mirrorless-body tripod (load rating vs small bodies, forum-style SERP); no top-10 overlap with live posts.",
+    "slug": "best-tripod-for-mirrorless-camera",
+    "ahrefs": {
+      "volume": 40,
+      "kd": 0,
+      "trafficPotential": 2500,
+      "parentTopic": "best travel tripods",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   },
   {
     "status": "merged",
@@ -8148,5 +8277,421 @@
     },
     "startedAt": "2026-11-10T11:27:21.542Z",
     "publishedAt": "2026-11-10T11:34:48.691Z"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1199,
+    "keyword": "best phone mount for tripod",
+    "category": "phone-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Phone Mount for Tripod: Clamps That Hold Steady",
+    "cluster": "phone mounts",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 60; angle: accessory intent (the clamp/mount, not the tripod); no top-10 overlap with any live post.",
+    "slug": "best-phone-mount-for-tripod",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 60,
+      "kd": 0,
+      "trafficPotential": 200,
+      "parentTopic": "best phone tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [
+      "best tripod for long range shooting"
+    ],
+    "questions": [],
+    "priority": 1198,
+    "keyword": "best rifle tripod for long range shooting",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Rifle Tripod for Long Range Shooting",
+    "cluster": "rifle shooting",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 60; angle: shooting-support tripod (Arca rail, head clamp, height for prone/seated); 6 shared URLs with its variant; only 2 with the live hunting post; firearm topic: owner list overrides the 2026-10-19 off-niche rejection of 'best shooting tripod'.",
+    "slug": "best-rifle-tripod-for-long-range-shooting",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 60,
+      "kd": 3,
+      "trafficPotential": 450,
+      "parentTopic": "rifle tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [
+      "best carbon fiber tripod for travel",
+      "best travel tripod for dslr"
+    ],
+    "questions": [],
+    "priority": 1197,
+    "keyword": "best carbon fiber travel tripod",
+    "category": "travel-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Carbon Fiber Travel Tripod",
+    "cluster": "carbon fiber travel",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 50; angle: carbon vs aluminum weight, folded length, DSLR load rating; carbon-for-travel shares 6, travel-for-dslr 3-4 URLs.",
+    "slug": "best-carbon-fiber-travel-tripod",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 50,
+      "kd": 8,
+      "trafficPotential": 4100,
+      "parentTopic": "best travel tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1196,
+    "keyword": "best tripod ball head for rifle shooting",
+    "category": "tripod-heads",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod Ball Head for Rifle Shooting",
+    "cluster": "rifle shooting",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 50; angle: head-only intent (rifle clamp, Arca plate, lock strength); 3 shared URLs at most with other items; firearm topic from owner list.",
+    "slug": "best-tripod-ball-head-for-rifle-shooting",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 50,
+      "kd": 0,
+      "trafficPotential": 10,
+      "parentTopic": "best tripod head for hunting",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1190,
+    "keyword": "best tripod for sony a7iii",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony A7 III",
+    "cluster": "sony a7",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: full-frame body about 650 g with usual 24-70 or 70-200 lens, video use, plate and mount; 1 shared URL with the A7 IV post, so distinct.",
+    "slug": "best-tripod-for-sony-a7iii",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 0,
+      "trafficPotential": 40,
+      "parentTopic": "tripod for sony a7iii",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1189,
+    "keyword": "best rrs tripod for shooting",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best RRS Tripod for Shooting",
+    "cluster": "rifle shooting",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: brand-led shooting tripod (Really Right Stuff models, Arca-compatible setups); 0 overlap with live posts.",
+    "slug": "best-rrs-tripod-for-shooting",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 0,
+      "trafficPotential": 90,
+      "parentTopic": "sniper tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1188,
+    "keyword": "best led work light tripod",
+    "category": "tripod-accessories",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best LED Work Light Tripod",
+    "cluster": "work light",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: construction/job-site light on a tripod stand (height, stability, battery vs corded); not a camera topic; low priority; the live laser-level tripod post is the closest precedent.",
+    "slug": "best-led-work-light-tripod",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 0,
+      "trafficPotential": 10,
+      "parentTopic": "work light with tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1187,
+    "keyword": "best budget carbon fiber tripod",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Budget Carbon Fiber Tripod",
+    "cluster": "carbon fiber",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: price-led carbon picks (weight, leg lock quality, load rating); 2 shared URLs at most with other items.",
+    "slug": "best-budget-carbon-fiber-tripod",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 1,
+      "trafficPotential": 600,
+      "parentTopic": "best hunting tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1186,
+    "keyword": "best travel tripod for video",
+    "category": "video-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Travel Tripod for Video",
+    "cluster": "travel video",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 20; angle: fluid/pan-tilt head on a packable travel tripod, video-leg stability; 4 URLs shared with budget-video variant, which is kept in the generic video entry.",
+    "slug": "best-travel-tripod-for-video",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 20,
+      "kd": 2,
+      "trafficPotential": 1700,
+      "parentTopic": "best budget tripods",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [
+      "best tripod for video camera",
+      "best camera tripod for video",
+      "best budget tripod for video"
+    ],
+    "questions": [],
+    "priority": 1185,
+    "keyword": "best tripod for dslr video",
+    "category": "video-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for DSLR Video",
+    "cluster": "dslr video",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: fluid head, pan smoothness and counterbalance for DSLR/camcorder video; variants share 3-4 URLs; 3 with the live YouTube-videos post (gray, different angle: DSLR/camcorder fluid head).",
+    "slug": "best-tripod-for-dslr-video",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 11,
+      "trafficPotential": 200,
+      "parentTopic": "video tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [
+      "best video tripod under 200"
+    ],
+    "questions": [],
+    "priority": 1184,
+    "keyword": "best camera tripod under 200",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Camera Tripod Under $200",
+    "cluster": "under 200",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: upgrade price band above the live under-100 post (carbon, better heads); 3 URLs shared with under-100 and with the camera post (gray, price band differs).",
+    "slug": "best-camera-tripod-under-200",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 1,
+      "trafficPotential": 70,
+      "parentTopic": "best budget tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1182,
+    "keyword": "best tripod for solo travel",
+    "category": "travel-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Solo Travel",
+    "cluster": "solo travel",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: self-portraits and timer shots while alone, setup speed, theft/weight concerns; 2 shared URLs at most.",
+    "slug": "best-tripod-for-solo-travel",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 0,
+      "trafficPotential": 600,
+      "parentTopic": "best travel tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1181,
+    "keyword": "best tripod for sony camera",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony Camera",
+    "cluster": "sony cameras",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: Sony-body-agnostic buyer guide (E-mount sizes, plate and weight classes); 2 shared URLs with the generic camera post.",
+    "slug": "best-tripod-for-sony-camera",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 5,
+      "trafficPotential": 80,
+      "parentTopic": "portable tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1180,
+    "keyword": "best tripod for sony a6000",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Sony a6000",
+    "cluster": "sony a6",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: small APS-C body (about 345 g) with kit lens, light tripod is enough, older body so budget angle; 0 overlap with live posts.",
+    "slug": "best-tripod-for-sony-a6000",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 0,
+      "trafficPotential": 30,
+      "parentTopic": "sony a6000 tripod",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-10T16:06:05.986715Z",
+    "secondaryKeywords": [],
+    "questions": [],
+    "priority": 1179,
+    "keyword": "best tripod for canon rebel t7",
+    "category": "camera-tripods",
+    "articleType": "roundup",
+    "intent": "commercial",
+    "funnel": "bofu",
+    "workingTitle": "Best Tripod for Canon Rebel T7",
+    "cluster": "canon rebel",
+    "source": "owner list 2026-11-10",
+    "rationale": "Owner keyword list 2026-11-10; US top-10 compared by shared URLs (>=4 = same intent) against live posts and other items in the list (checked 2026-11-10) | Ahrefs us volume 10; angle: entry DSLR (about 475 g) with 18-55 or 75-300 lens, beginner budget, 1/4-20 plate; 1 shared URL with the Canon R50 post.",
+    "slug": "best-tripod-for-canon-rebel-t7",
+    "note": "owner request 2026-11-10",
+    "ahrefs": {
+      "volume": 10,
+      "kd": 0,
+      "trafficPotential": 10,
+      "parentTopic": "tripod for canon rebel t7",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-10"
+    }
   }
 ]
