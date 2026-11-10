@@ -1,0 +1,150 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-r5",
+  "checkedAt": "2026-11-10T15:47:50.407Z",
+  "productFit": [
+    {
+      "name": "Benro Tortoise 35C with GX35 Ball Head",
+      "asin": "B08F2QSSC9",
+      "status": "fits",
+      "metricSpecs": "Benro/English post: 155,5 cm max (columnless), 19 cm min, 56 cm folded, 1,92 kg with head, 15 kg load; Foto Erhardt lists 156 cm, 56 cm, 15 kg",
+      "reason": "German retailer Foto Erhardt lists the same kit code TTOR35CGX35 (Tortoise 35C + GX35 Kit Carbon).",
+      "source": "https://www.foto-erhardt.com/tripods/benro/benro-tripod-tortoise-35c-plus-gx35-kit-carbon-ttor35cgx35.html"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm with column retracted, 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top",
+      "reason": "Sold by Benro Europe under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Leofoto LS-324CX Ranger Carbon Fiber Tripod with LH-40 Ball Head",
+      "asin": "B0DQKWPFQ1",
+      "status": "localVariant",
+      "variant": "Leofoto's European distributor lists the earlier LS-324C Ranger + LH-40 (non-X version: same columnless four-section carbon legs, 15 kg load, LH-40 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: leofoto.net gives 1950 g for the earlier LS-324C kit with head, which differs from the X version legs-only figure, so the translator converts the English figures.",
+      "reason": "The X version appears on Leofoto USA, EuroOptic and Amazon US; Europe mainly sells the earlier LS-324C Ranger kit.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    },
+    {
+      "name": "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+      "asin": "B07KD2TNMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post and EU listings: 120 cm max without head, 44,5 cm folded, 1,22 kg, 15 kg load",
+      "reason": "Same ASIN B07KD2TNMN listed on amazon.de and amazon.nl; SIRUI's German shop sells it as 'SIRUI AM-284 TravelLegs Pro Tripod Carbon'; idealo.es lists Spanish offers.",
+      "source": "https://siruishop.de/en/products/780139"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head, 4 kg tripod weight, 75 mm bowl",
+      "reason": "Kamera Express (NL) and Foto Koch (ES) list the SmallRig 3751 AD-01 under the same model code.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg: SIRUI AM-284 (44,5 cm) und Leofoto (51 cm) passen der Länge nach, Tortoise 35C (56 cm), Mach3 (59 cm) und SmallRig AD-01 (89 cm) nicht.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h; an Nord- und Ostsee gilt: tief bleiben, säulenlos.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Begriffe: Stativkopf, Kugelkopf, Fluidkopf, Mittelsäule, Schnellwechselplatte, Halbschale (Bowl), L-Winkel; Arca-Swiss heißt überall gleich.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Stativ wackelt bei Wind trotz schwerer Kamera und Langzeitbelichtung.",
+      "fix": "Beine breit und tief, säulenlos (Leofoto, Tortoise), dünnste Segmente eingefahren lassen.",
+      "quotes": [
+        {
+          "text": "Wenn man bei Wind die Beine nicht breit stellt, sondern schmal, wackelt das Stativ eher.",
+          "url": "https://www.dslr-forum.de/threads/unscharfe-fotos.1362254/post-11763302"
+        }
+      ],
+      "sources": [
+        "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+      ]
+    },
+    {
+      "pain": "Lange Mittelsäulen gelten als wackelig.",
+      "fix": "Höhe ohne Mittelsäule vergleichen (Tabelle), drei der Stative sind ganz ohne Säule.",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Unsicherheit, ob das Stativ ins Handgepäck darf.",
+      "fix": "SIRUI und Leofoto bleiben unter 55 cm; Tortoise, Mach3 und SmallRig ins aufgegebene Gepäck.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welche der fünf Stative in einen Lufthansa-Handgepäckkoffer von 55 x 40 x 23 cm passen.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Benro Europe nennt für das Mach3 TMA38CL 153 cm mit eingefahrener Säule, ein Wert, den die US-Seite nicht veröffentlicht.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "Stativ nur mit Genehmigung im Kölner Dom.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Leofoto in Europa meist als älteres LS-324C Ranger mit LH-40.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'and Amazon US has it in stock' in How I picked",
+      "action": "replace",
+      "with": "'and it has its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'or you are over six feet' / 'anyone over six feet' / '6 ft owner'",
+      "action": "replace",
+      "with": "metric body height: über/más de/langer dan 1,83 m (6 ft)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout",
+      "action": "replace",
+      "with": "metric first (maker's metric figures from productFit), imperial in brackets"
+    },
+    {
+      "english": "'carry for miles'",
+      "action": "replace",
+      "with": "a long hike (km wording, no number)"
+    },
+    {
+      "english": "(no cabin-bag info in the English post)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin bag fact next to the folded lengths"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-sony-a6400",
+  "checkedAt": "2026-11-10T15:48:55Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "EU retailers list the MKBFRLA4BK-BH kit (re-used from the timelapse local brief, same ASIN).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Sirui T-025SK Carbon Fiber Travel Tripod with B-00K Ball Head",
+      "asin": "B07JVCRX59",
+      "status": "fits",
+      "metricSpecs": "English post (Sirui US store): 1 kg, 31 cm folded, 107,95 cm column down, 136,7 cm column up, 5,99 kg load. EU retailers list a different max height (Kamera Express 30,5-130 cm, geizhals 128 cm, 6 kg); not used, the translator keeps the English figures.",
+      "reason": "Same ASIN B07JVCRX59 on amazon.de; Kamera Express NL lists 'Sirui UltraLight T-025SK statief + B-00K balhoofd'; geizhals.de lists 'Sirui T-025SK mit B-00K'.",
+      "source": "https://www.kamera-express.nl/products/sirui-ultralight-t-025sk-statief-b-00k-balhoofd"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "1,27 kg with head, 39,4 cm folded, 130,2 cm column down, 152,4 cm column up, 9,1 kg load (English post metric figures; EU listings use the same Travel Tripod Carbon).",
+      "reason": "Sold under the same name by EU retailers (Kamera Express NL lists the Travel Tripod Carbon).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SmallRig CT-10 Aluminum Tripod and Monopod",
+      "asin": "B0B63VTW46",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 180 cm max height, 43 cm folded, 1,53 kg, 15 kg legs; head 5 kg (B&H). geizhals.de: 15 kg, 180 cm.",
+      "reason": "Listed by German retailers under the same name and code 3935 (geizhals.de price comparison).",
+      "source": "https://geizhals.de/smallrig-ct-10-aluminium-3935-a3604417.html"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "JOBY/B&H: 3 kg load, 247 g, 24 cm closed.",
+      "reason": "Sold in Germany/EU as JB01507-BWW (Pro Lighting).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/foto-tischstativ/joby-gorillapod-r-3k-stativ-kit.html"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0152X16XO",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload (already metric in the English post).",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK (Calumet.de).",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM allows 1 piece of hand baggage of max. 55 x 35 x 25 cm including handles and wheels; all four full-size picks (31 / 39,4 / 40 / 43 cm folded) are shorter than 55 cm.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: photographing and filming is allowed, but without flash and without a tripod.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Rijksmuseum: visitors may photograph and film without disturbing others; for bridal photography its terms say no tripods and no extra lighting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Dutch terms: statiefkop, balhoofd, middenkolom, snelkoppelplaat; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The a6400 has no IBIS; owners who film on a tripod don't miss it, but handheld work does.",
+      "fix": "English post: no in-body stabilization, so a tripod matters more in low light; switch OSS off on the tripod and use the 2-second timer.",
+      "quotes": [
+        {
+          "text": "Ik gebruik eigenlijk altijd een statief dus het ontbreken van ibis is voor mij geen probleem.",
+          "url": "https://tweakers.net/productreview/256084/sony-a6400-+-16-50mm-f-35-56-pz-oss-zwart-met-netadapter.html"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "The a6400 screen flips up, not to the side, which matters for vlogging with a mic.",
+      "fix": "English post: move a hot-shoe mic to a side bracket so the flipped screen stays visible.",
+      "quotes": [
+        {
+          "text": "Een naar de zijkant klappend scherm was nog beter geweest, maar dit is al een enorme vooruitgang op de A6000.",
+          "url": "https://tweakers.net/productreview/256084/sony-a6400-+-16-50mm-f-35-56-pz-oss-zwart-met-netadapter.html"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "A tripod that folds small has more, thinner sections and is less stable.",
+      "fix": "Check height with the column pushed in and extend the thickest sections first (English setup advice).",
+      "quotes": [
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM 55 x 35 x 25 cm hand-baggage check for the four full-size picks.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Museum rules (Rijksmuseum Boerhaave no tripod; Rijksmuseum no tripods for bridal shoots).",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "A Dutch a6400 owner's view on no IBIS and the up-flipping screen, answered with the English fixes.",
+      "source": "https://tweakers.net/productreview/256084/sony-a6400-+-16-50mm-f-35-56-pz-oss-zwart-met-netadapter.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each was sold on Amazon US when I checked' and 'had no Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' / 'had no Amazon listing of its own' (no local store claims)"
+    },
+    {
+      "english": "Wind quote naming the Grand Canyon (CameraEgg owner)",
+      "action": "replace",
+      "with": "keep the quote as a US example, then add the local forum wind/column quote"
+    },
+    {
+      "english": "Imperial-first figures (in, lb, oz)",
+      "action": "replace",
+      "with": "maker metric figures first, imperial in brackets"
+    },
+    {
+      "english": "'carry-on' (US airline wording)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm hand-baggage fact"
+    }
+  ]
+}

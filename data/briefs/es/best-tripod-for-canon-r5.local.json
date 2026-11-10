@@ -1,0 +1,154 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-canon-r5",
+  "checkedAt": "2026-11-10T15:47:50.407Z",
+  "productFit": [
+    {
+      "name": "Benro Tortoise 35C with GX35 Ball Head",
+      "asin": "B08F2QSSC9",
+      "status": "fits",
+      "metricSpecs": "Benro/English post: 155,5 cm max (columnless), 19 cm min, 56 cm folded, 1,92 kg with head, 15 kg load; Foto Erhardt lists 156 cm, 56 cm, 15 kg",
+      "reason": "German retailer Foto Erhardt lists the same kit code TTOR35CGX35 (Tortoise 35C + GX35 Kit Carbon).",
+      "source": "https://www.foto-erhardt.com/tripods/benro/benro-tripod-tortoise-35c-plus-gx35-kit-carbon-ttor35cgx35.html"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm with column retracted, 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top",
+      "reason": "Sold by Benro Europe under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Leofoto LS-324CX Ranger Carbon Fiber Tripod with LH-40 Ball Head",
+      "asin": "B0DQKWPFQ1",
+      "status": "localVariant",
+      "variant": "Leofoto's European distributor lists the earlier LS-324C Ranger + LH-40 (non-X version: same columnless four-section carbon legs, 15 kg load, LH-40 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: leofoto.net gives 1950 g for the earlier LS-324C kit with head, which differs from the X version legs-only figure, so the translator converts the English figures.",
+      "reason": "The X version appears on Leofoto USA, EuroOptic and Amazon US; Europe mainly sells the earlier LS-324C Ranger kit.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    },
+    {
+      "name": "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+      "asin": "B07KD2TNMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post and EU listings: 120 cm max without head, 44,5 cm folded, 1,22 kg, 15 kg load",
+      "reason": "Same ASIN B07KD2TNMN listed on amazon.de and amazon.nl; SIRUI's German shop sells it as 'SIRUI AM-284 TravelLegs Pro Tripod Carbon'; idealo.es lists Spanish offers.",
+      "source": "https://siruishop.de/en/products/780139"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head, 4 kg tripod weight, 75 mm bowl",
+      "reason": "Kamera Express (NL) and Foto Koch (ES) list the SmallRig 3751 AD-01 under the same model code.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm: el SIRUI AM-284 (44,5 cm), el Leofoto (51 cm) y, justo, el Tortoise 35C (56 cm) caben a lo largo; el Mach3 (59 cm) y el SmallRig AD-01 (89 cm) no.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite fotos ni vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "AEMET clasifica la fuerza 6 de Beaufort como \"fresco\", de 39 a 49 km/h.",
+      "source": "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+    },
+    {
+      "fact": "Términos: rótula de bola, rótula fluida, columna central, zapata / placa de liberación rápida, media bola (bowl), escuadra en L; Arca-Swiss se llama igual.",
+      "source": "https://fujistas.com/foro/threads/cambio-de-placa-de-zapata-para-tripode.44825/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "La columna central subida resta estabilidad.",
+      "fix": "Comparar la altura sin columna (tabla); tres de los trípodes no tienen columna.",
+      "quotes": [
+        {
+          "text": "Desde luego cuanto menos se tenga que echar mano de la columna central más estabilidad gana el conjunto.",
+          "url": "https://www.nikonistas.com/digital/foro/topic/388676-tr%C3%ADpode-altura-ideal/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Fotos movidas por viento o trepidación del trípode.",
+      "fix": "Patas abiertas y bajas, sin columna, objetivo largo montado por su collarín.",
+      "quotes": [
+        {
+          "text": "¿Seguro que no hay trepidación por el trípode usado, el viento, etc.?",
+          "url": "https://www.nikonistas.com/digital/foro/profile/114686-wanderer/content/?type=forums_topic_post&change_section=1"
+        }
+      ],
+      "sources": [
+        "https://www.aemet.es/documentos/es/conocermas/maritima/escalas_de_viento_y_oleaje.pdf"
+      ]
+    },
+    {
+      "pain": "Dudas sobre si el trípode puede ir en cabina.",
+      "fix": "SIRUI, Leofoto y, justo, el Tortoise caben en la maleta de Iberia de 56 cm; Mach3 y SmallRig van facturados.",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://www.iberia.com/us/equipajes/de-mano/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Qué trípodes caben en la maleta de cabina de Iberia (56 x 40 x 25 cm).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Prohibición de trípodes en la Alhambra y la Sagrada Família.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Benro Europa da 153 cm con la columna recogida para el Mach3 TMA38CL, cifra que la web de EE. UU. no publica.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "El Leofoto en Europa sobre todo como LS-324C Ranger anterior con LH-40.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'and Amazon US has it in stock' in How I picked",
+      "action": "replace",
+      "with": "'and it has its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'or you are over six feet' / 'anyone over six feet' / '6 ft owner'",
+      "action": "replace",
+      "with": "metric body height: über/más de/langer dan 1,83 m (6 ft)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout",
+      "action": "replace",
+      "with": "metric first (maker's metric figures from productFit), imperial in brackets"
+    },
+    {
+      "english": "'carry for miles'",
+      "action": "replace",
+      "with": "a long hike (km wording, no number)"
+    },
+    {
+      "english": "(no cabin-bag info in the English post)",
+      "action": "replace",
+      "with": "Iberia 56 x 40 x 25 cm cabin bag fact next to the folded lengths"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-canon-m50",
+  "checkedAt": "2026-11-10T15:48:12Z",
+  "productFit": [
+    {
+      "name": "Vanguard VEO 3GO 235AB",
+      "asin": "B0831R5RXK",
+      "status": "fits",
+      "metricSpecs": "Amateur Photographer / Sky at Night (from Vanguard UK figures): 136 cm max, 33 cm folded, about 1,24 kg, 4 kg load (English post keeps Vanguard's 1,22 kg and 3,99 kg; use the English figures)",
+      "reason": "Sold in Switzerland/Germany under the same name VEO 3GO 235AB (Galaxus/Digitec.ch, eBay.de, idealo.de listings); Vanguard UK supplied it for review.",
+      "source": "https://www.galaxus.ch/de/s1/product/vanguard-veo-3go-235ab-kunststoff-metall-stativ-15419429"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Aluminum)",
+      "asin": "B085BQS6K4",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 9,1 kg (English post: 1,54 kg with head)",
+      "reason": "Kamera Express (NL/BE) sells the Peak Design Travel Tripod Aluminum under the same name.",
+      "source": "https://www.kamera-express.nl/peak-design-travel-aluminium-statief"
+    },
+    {
+      "name": "K&F Concept 64 Inch Aluminum Travel Tripod with Ball Head",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "K&F: 1,6 m max, 400 mm min (K&F also prints 19.68 in), 390 mm folded, 1,24 kg, 8 kg",
+      "reason": "Sold in Spain under the same code O234A1+BH-36 and the same ASIN as 'Tripode Camara 163CM'.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "JOBY: 3 kg load",
+      "reason": "Sold in Germany/EU as JB01507-BWW (Pro Lighting, Martcom, idealo).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/foto-tischstativ/joby-gorillapod-r-3k-stativ-kit.html"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK (Calumet.de; Amazon.es listing; Manfrotto global-es page).",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Canon Deutschland lists the EOS M50 Mark II at approx. 387 g (black) including battery and memory card (CIPA), the same figure as the English post.",
+      "source": "https://www.canon.de/cameras/eos-m50-mark-ii/specifications/"
+    },
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg; the three full-size picks fold to 33 cm (Vanguard), 39,4 cm (Peak Design) and 39 cm (K&F), all shorter than 55 cm.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private photos without flash are allowed, but recordings with tripods need permission from the Dompropst.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Humboldt Forum Berlin allows private photos, but tripods may not be used indoors.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "German terms: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, Stativgewinde 1/4 Zoll; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Thin travel-tripod legs start to vibrate in light wind, so the maker's load rating says little.",
+      "fix": "The English post's point: the M50 Mark II kit is about 517 g, so choose on legs and column-down height; keep the column down and hang the bag on the hook (Vanguard, K&F).",
+      "quotes": [
+        {
+          "text": "Noch ein Tipp: Orientiere dich nicht an der Tragfähigkeit, die der Hersteller angibt.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        },
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Light tripods tip over in wind without extra weight.",
+      "fix": "Hang the bag from the hook under the column (the Vanguard has one; K&F has a small hook), spread the legs wide.",
+      "quotes": [
+        {
+          "text": "ich habe schon einige umgekippte Stative (samt Kamera und Optik) gesehen, die ohne Zusatzgewichte, bei gar nicht starkem Wind, sich verselbstständigt haben.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg check for the three full-size picks (33 / 39,4 / 39 cm folded).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "M50 Mark II weight (387 g) cited from Canon's own German spec page; every height, length and load in metric first.",
+      "source": "https://www.canon.de/cameras/eos-m50-mark-ii/specifications/"
+    },
+    {
+      "point": "Maker metric figures for the minis: Manfrotto 20 cm / 20,5 cm / 0,26 kg / 2,5 kg for the PIXI EVO; JOBY 3 kg for the GorillaPod 3K.",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each with its own in-stock Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "Canon manual (English) link for 387 g",
+      "action": "replace",
+      "with": "Canon Deutschland lists the EOS M50 Mark II at approx. 387 g (black) including battery and memory card (CIPA), the same figure as the English post. (https://www.canon.de/cameras/eos-m50-mark-ii/specifications/)"
+    },
+    {
+      "english": "Canon USA link for the 130 g EF-M 15-45mm",
+      "action": "replace",
+      "with": "keep 130 g as plain text (source stays in sources); the outside link slot goes to the Lufthansa cabin-bag fact"
+    },
+    {
+      "english": "'Best tripod under $100' style budget wording",
+      "action": "drop"
+    }
+  ]
+}

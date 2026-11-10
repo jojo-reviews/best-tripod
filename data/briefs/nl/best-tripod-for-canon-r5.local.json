@@ -1,0 +1,154 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-canon-r5",
+  "checkedAt": "2026-11-10T15:47:50.407Z",
+  "productFit": [
+    {
+      "name": "Benro Tortoise 35C with GX35 Ball Head",
+      "asin": "B08F2QSSC9",
+      "status": "fits",
+      "metricSpecs": "Benro/English post: 155,5 cm max (columnless), 19 cm min, 56 cm folded, 1,92 kg with head, 15 kg load; Foto Erhardt lists 156 cm, 56 cm, 15 kg",
+      "reason": "German retailer Foto Erhardt lists the same kit code TTOR35CGX35 (Tortoise 35C + GX35 Kit Carbon).",
+      "source": "https://www.foto-erhardt.com/tripods/benro/benro-tripod-tortoise-35c-plus-gx35-kit-carbon-ttor35cgx35.html"
+    },
+    {
+      "name": "Benro Mach3 TMA38CL",
+      "asin": "B00YEU96GQ",
+      "status": "fits",
+      "metricSpecs": "Benro Europe: 177 cm max with column up, 153 cm with column retracted, 35,5 cm min, 59 cm folded, 2,05 kg, 16 kg max payload, 4 sections, twist lock, 3/8\"-16 top",
+      "reason": "Sold by Benro Europe under the same TMA38CL code.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "name": "Leofoto LS-324CX Ranger Carbon Fiber Tripod with LH-40 Ball Head",
+      "asin": "B0DQKWPFQ1",
+      "status": "localVariant",
+      "variant": "Leofoto's European distributor lists the earlier LS-324C Ranger + LH-40 (non-X version: same columnless four-section carbon legs, 15 kg load, LH-40 head); no EU dealer page for the X version was found.",
+      "metricSpecs": "Not used: leofoto.net gives 1950 g for the earlier LS-324C kit with head, which differs from the X version legs-only figure, so the translator converts the English figures.",
+      "reason": "The X version appears on Leofoto USA, EuroOptic and Amazon US; Europe mainly sells the earlier LS-324C Ranger kit.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    },
+    {
+      "name": "SIRUI AM-284 Carbon Fiber Tripod (Legs Only)",
+      "asin": "B07KD2TNMN",
+      "status": "fits",
+      "metricSpecs": "As in the English post and EU listings: 120 cm max without head, 44,5 cm folded, 1,22 kg, 15 kg load",
+      "reason": "Same ASIN B07KD2TNMN listed on amazon.de and amazon.nl; SIRUI's German shop sells it as 'SIRUI AM-284 TravelLegs Pro Tripod Carbon'; idealo.es lists Spanish offers.",
+      "source": "https://siruishop.de/en/products/780139"
+    },
+    {
+      "name": "SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head",
+      "asin": "B09X2X2BKC",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 85-186 cm, 8 kg legs / 6 kg head, 4 kg tripod weight, 75 mm bowl",
+      "reason": "Kamera Express (NL) and Foto Koch (ES) list the SmallRig 3751 AD-01 under the same model code.",
+      "source": "https://www.kamera-express.nl/smallrig-3751b-heavy-duty-fluid-head-tripod"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat 1 stuk handbagage van maximaal 55 x 35 x 25 cm toe: SIRUI AM-284 (44,5 cm) en Leofoto (51 cm) passen in de lengte, Tortoise 35C (56 cm), Mach3 (59 cm) en SmallRig AD-01 (89 cm) niet.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Photofacts geeft als vuistregel dat camera plus objectief hoogstens de helft van het draagvermogen van het statief mag wegen.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Rijksmuseum: fotograferen en filmen mag zolang het anderen niet stoort; voor bruidsfotografie noemt het museum \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Termen: statiefkop, balhoofd, fluid head / vloeistofkop, middenzuil, snelkoppelingsplaat, halve bol (bowl), L-bracket; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Middenzuil omhoog kost veel stabiliteit.",
+      "fix": "Vergelijk de hoogte zonder middenzuil (tabel); drie statieven hebben geen zuil.",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Trilling door wind, ook op een stevig statief.",
+      "fix": "Poten breed en laag, geen zuil, de 100-500 aan de statiefring.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+      ]
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "SIRUI en Leofoto passen in de KLM-maat van 55 cm; Tortoise, Mach3 en SmallRig gaan in het ruim.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Welke statieven in de KLM-handbagage van 55 x 35 x 25 cm passen.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Photofacts-vuistregel (camera plus objectief max. de helft van het draagvermogen): zelfs de R5 met 100-500 blijft daar ruim onder.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "point": "Benro Europe geeft 153 cm met ingeschoven zuil voor de Mach3 TMA38CL, een waarde die de Amerikaanse pagina niet noemt.",
+      "source": "https://de.benroeu.com/benro-mach3-9x-cf-serie-3-lang-stativ-4-segmente-drehverschluss/"
+    },
+    {
+      "point": "Het Leofoto in Europa vooral als oudere LS-324C Ranger met LH-40.",
+      "source": "https://www.leofoto.net/en/made-of-carbon/leofoto-carbon-tripod-ls-324c-ranger-ballhead-lh-40/p,70157"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'and Amazon US has it in stock' in How I picked",
+      "action": "replace",
+      "with": "'and it has its own Amazon listing' (no local store claims)"
+    },
+    {
+      "english": "'or you are over six feet' / 'anyone over six feet' / '6 ft owner'",
+      "action": "replace",
+      "with": "metric body height: über/más de/langer dan 1,83 m (6 ft)"
+    },
+    {
+      "english": "Inch/lb-first figures throughout",
+      "action": "replace",
+      "with": "metric first (maker's metric figures from productFit), imperial in brackets"
+    },
+    {
+      "english": "'carry for miles'",
+      "action": "replace",
+      "with": "a long hike (km wording, no number)"
+    },
+    {
+      "english": "(no cabin-bag info in the English post)",
+      "action": "replace",
+      "with": "KLM 55 x 35 x 25 cm cabin bag fact next to the folded lengths"
+    }
+  ]
+}

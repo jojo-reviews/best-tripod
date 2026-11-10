@@ -1,0 +1,145 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-sony-a6400",
+  "checkedAt": "2026-11-10T15:48:55Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English post links the US code MKBFRLA4BK-BHUS); same tripod and 494 ball head.",
+      "metricSpecs": "1,59 kg with head, 128 cm column down, 151 cm column up, 40 cm folded, 9 kg safety payload (Manfrotto); Foto Erhardt lists 128 cm height and 40 cm pack size for the -BH kit.",
+      "reason": "EU retailers list the MKBFRLA4BK-BH kit (re-used from the timelapse local brief, same ASIN).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Sirui T-025SK Carbon Fiber Travel Tripod with B-00K Ball Head",
+      "asin": "B07JVCRX59",
+      "status": "fits",
+      "metricSpecs": "English post (Sirui US store): 1 kg, 31 cm folded, 107,95 cm column down, 136,7 cm column up, 5,99 kg load. EU retailers list a different max height (Kamera Express 30,5-130 cm, geizhals 128 cm, 6 kg); not used, the translator keeps the English figures.",
+      "reason": "Same ASIN B07JVCRX59 on amazon.de; Kamera Express NL lists 'Sirui UltraLight T-025SK statief + B-00K balhoofd'; geizhals.de lists 'Sirui T-025SK mit B-00K'.",
+      "source": "https://www.kamera-express.nl/products/sirui-ultralight-t-025sk-statief-b-00k-balhoofd"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "1,27 kg with head, 39,4 cm folded, 130,2 cm column down, 152,4 cm column up, 9,1 kg load (English post metric figures; EU listings use the same Travel Tripod Carbon).",
+      "reason": "Sold under the same name by EU retailers (Kamera Express NL lists the Travel Tripod Carbon).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "SmallRig CT-10 Aluminum Tripod and Monopod",
+      "asin": "B0B63VTW46",
+      "status": "fits",
+      "metricSpecs": "SmallRig: 180 cm max height, 43 cm folded, 1,53 kg, 15 kg legs; head 5 kg (B&H). geizhals.de: 15 kg, 180 cm.",
+      "reason": "Listed by German retailers under the same name and code 3935 (geizhals.de price comparison).",
+      "source": "https://geizhals.de/smallrig-ct-10-aluminium-3935-a3604417.html"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "JOBY/B&H: 3 kg load, 247 g, 24 cm closed.",
+      "reason": "Sold in Germany/EU as JB01507-BWW (Pro Lighting).",
+      "source": "https://www.prolighting.de/de/foto/fotostative-und-videostative/foto-tischstativ/joby-gorillapod-r-3k-stativ-kit.html"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0152X16XO",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload (already metric in the English post).",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK (Calumet.de).",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows one cabin bag of max. 55 x 40 x 23 cm and 8 kg; all four full-size picks (Sirui 31 cm, Peak Design 39,4 cm, Befree Advanced 40 cm, SmallRig CT-10 43 cm folded) are shorter than 55 cm.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private photos without flash are allowed, but recordings with tripods need permission from the Dompropst.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Humboldt Forum Berlin allows private photos, but tripods may not be used indoors.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "German terms: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, Stativgewinde 1/4 Zoll; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/SmallRig-2664-Tabletop-Mini-Stativ-mit-Panorama-Kugelkopf_27213.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Sony APS-C owners want a travel tripod for city and day trips that they will actually carry.",
+      "fix": "Sirui T-025SK (31 cm folded, 1 kg) or the PIXI EVO for a small sling (English decision list).",
+      "quotes": [
+        {
+          "text": "Ich würde mir zu meiner alpha 6000 gern ein Stativ Kaufen, welches ich auch mal mitnehmen kann, wenn ich unterwegs bin.",
+          "url": "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "How tall a travel tripod must be; the centre column costs stability.",
+      "fix": "Thanks to the tilting screen, chest height is enough: rank on column-down height (Sirui 108 cm, Peak Design 130,2 cm) and keep the column down.",
+      "quotes": [
+        {
+          "text": "dank Klappdisplay reicht auch knapp über Hüfthoch ... die Mittelsäule sollte nur im Notfall ausgezogen werden, der Stabilität wegen.",
+          "url": "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+        }
+      ],
+      "sources": []
+    },
+    {
+      "pain": "Thin travel-tripod legs start to vibrate in light wind, so the maker's load rating says little.",
+      "fix": "English post: the a6400 kit is 519-1.028 g, so pick on legs and column-down height; spread the legs and hang the bag low.",
+      "quotes": [
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lufthansa 55 x 40 x 23 cm cabin-bag check for the four full-size picks.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Venue rules (Kölner Dom permit, Humboldt Forum no tripods indoors): where only the mini tripods or no tripod at all are realistic.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Maker metric figures, the EU kit code MKBFRLA4BK-BH for the Befree Advanced, and German forum advice on chest height with the flip screen.",
+      "source": "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "'each was sold on Amazon US when I checked' and 'had no Amazon US listing' in How I picked",
+      "action": "replace",
+      "with": "'each with its own Amazon listing' / 'had no Amazon listing of its own' (no local store claims)"
+    },
+    {
+      "english": "Wind quote naming the Grand Canyon (CameraEgg owner)",
+      "action": "replace",
+      "with": "keep the quote as a US example, then add the local forum wind/column quote"
+    },
+    {
+      "english": "Imperial-first figures (in, lb, oz)",
+      "action": "replace",
+      "with": "maker metric figures first, imperial in brackets"
+    },
+    {
+      "english": "'carry-on' (US airline wording)",
+      "action": "replace",
+      "with": "Lufthansa 55 x 40 x 23 cm cabin-bag fact"
+    }
+  ]
+}

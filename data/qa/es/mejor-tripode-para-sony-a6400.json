@@ -1,0 +1,21 @@
+{
+  "slug": "es/mejor-tripode-para-sony-a6400",
+  "lang": "es",
+  "translationOf": "best-tripod-for-sony-a6400",
+  "pass": true,
+  "checkedAt": "2026-11-10T15:53:26.249Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-sony-a6700/; link the es version once it exists",
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the es version once it exists",
+    "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-sony-a6400: same 6 products/ASINs/order, specs metric-first (maker metric figures from the local brief: Befree 128/151/40 cm, 1,59 kg, EU kit MKBFRLA4BK-BH; Peak 130,2/152,4/39,4 cm; SmallRig 180/43 cm, 1,53 kg; PIXI 20/20,5 cm, 0,26 kg), weights 403/519/1028/116/325/265/625 g as in English, load multiples and FAQ answers unchanged. Local facts from the local brief: Iberia 56x40x25 cm/10 kg, Sagrada Familia tripod rule, Alhambra no tripod/monopod; three Sonycam.es forum quotes re-checked verbatim at sonycam.es thread 12175. Two lens-weight links dropped for the 3 outside-link cap (figures unchanged). No prices, no testing claims, no local store claims.",
+    "at": "2026-11-10T15:53:25.760Z",
+    "hash": "b62bea4de1c174d6"
+  }
+}
