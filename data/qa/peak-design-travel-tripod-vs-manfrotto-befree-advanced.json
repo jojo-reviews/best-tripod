@@ -1,20 +1,18 @@
 {
   "slug": "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
   "pass": true,
-  "checkedAt": "2026-11-06T15:56:30.692Z",
+  "checkedAt": "2026-11-11T20:56:17.081Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/"
+    "product \"Manfrotto Befree Advanced Aluminum Travel Tripod with Lever Locks and Ball Head (MKBFRLA4BK-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-10-31 (TextRazor, 4 top pages): added monopod (Befree 2-in-1 has the detachable leg, neither compared model converts), short center column (included with PD, optional for Befree Advanced per DPReview), pan lock; specs unchanged vs Peak Design, Manfrotto, B&H listings; removed Short answer H2 that re-listed picks; first-person opinion lines and intro internal link added. significant: sections rewritten shorter, short-answer section removed.",
-    "at": "2026-10-31T17:54:26.518Z",
-    "hash": "d4e96bc99e6298f7"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-11T20:56:16.081Z",
+    "hash": "8afa9a83eecc137c"
   }
 }

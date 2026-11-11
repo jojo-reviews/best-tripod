@@ -1,12 +1,12 @@
 {
   "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-09T15:45:24.543Z",
+  "checkedAt": "2026-11-11T20:56:10.530Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 496RC2 Compact Ball Head; Leofoto LH-40; Sirui K-30X Ball Head; Manfrotto XPRO 3-Way Head MHXPRO-3W; Benro GD3WH 3-Way Geared Head",
-    "body has 2850 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "body has 3028 words, over the 1840 limit (top results average 1600): cut repetition and filler",
     "product \"Manfrotto 496RC2 Compact Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LH-40\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui K-30X Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-vertical-shooting, no claim changed",
-    "at": "2026-11-09T15:45:23.915Z",
-    "hash": "916a0df52dae9a69"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-11T20:56:09.176Z",
+    "hash": "5094f6ffb30b1d1a"
   }
 }
