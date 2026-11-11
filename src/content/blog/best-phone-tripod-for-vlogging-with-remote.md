@@ -348,6 +348,7 @@ heroAlt: >-
   Best Phone Tripod for Vlogging With Remote – 3 Picks + Pairing Tips – Best
   Tripod buying guide
 related:
+  - best-phone-mount-for-tripod
   - best-tripod-for-content-creators
   - best-tripod-for-iphone-night-mode-photos
 ---

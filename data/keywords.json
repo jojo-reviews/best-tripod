@@ -8279,10 +8279,17 @@
     "publishedAt": "2026-11-10T11:34:48.691Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
-    "secondaryKeywords": [],
+    "secondaryKeywords": [
+      "best iphone mount for tripod",
+      "best smartphone mount for tripod",
+      "best cell phone mount for tripod",
+      "best phone tripod mount adapter",
+      "how to mount phone on camera tripod",
+      "phone mount for tripod magsafe"
+    ],
     "questions": [],
     "priority": 1199,
     "keyword": "best phone mount for tripod",
@@ -8303,7 +8310,10 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "productCount": 5,
+    "startedAt": "2026-11-11T11:27:16.849Z",
+    "publishedAt": "2026-11-11T11:40:33.615Z"
   },
   {
     "status": "pending",
