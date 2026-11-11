@@ -57,7 +57,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 - Dashboards are light-themed: Search Performance https://claude.ai/artifact/LgNhY4KAh6FfnSxKs7AfpF (daily refresh)
   and Site Agent Flow https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ.
 - Owner rule 2026-11-11 (author): "Best Tripod Editorial Team" removed; all posts are by Ned Diary (/authors/ned-diary/, Person schema, sameAs = Instagram + Flickr only, LinkedIn later); /authors/editorial-team/ 301s there. Photo (street shot, camera in hand) and Instagram URL to be added when the owner sends them.
-- Owner rule 2026-11-11 ("har blog ma ... same author ki personal story"): every post has Ned Diary's first-person angle from data/author-stories.json only; never invented stories/tests (keeps the older no-fake-experience rule). The owner adds real stories to that file.
+- Owner rule 2026-11-11 ("har blog ma ... same author ki personal story"): every post has Ned Diary's first-person angle from data/author-stories.json only; never invented stories/tests (keeps the older no-fake-experience rule). The owner adds real stories to that file. Owner rule 2026-11-11 (later): old posts too, every post told as a first-person story (story pass, 10/day oldest first, data/story-pass.json; replaces the gradual-only 2026-10-23 decision for this site). Author photo /images/authors/ned-diary.jpg (owner-supplied).
 - best-tripod.com: keyword queue was replaced by the owner's list on 2026-10-22 (no cannibalization with live posts); never add reviewedBy.
 
 - Repos (2026-10-27, old rankandrent account suspended): jojo-reviews/rentersmarthome (branch main), jojo-reviews/best-tripod (main), jojo-reviews/Best-Safe (main). This site is deployed by launch-site.yml in jojo-reviews/rentersmarthome.
