@@ -1,0 +1,141 @@
+{
+  "lang": "nl",
+  "translationOf": "best-phone-mount-for-tripod",
+  "checkedAt": "2026-11-11T15:31:09.179Z",
+  "productFit": [
+    {
+      "name": "ULANZI ST-27 Metal Phone Tripod Mount",
+      "asin": "B0DJXRFVB1",
+      "status": "fits",
+      "metricSpecs": "Amazon.de listing: Arca-Swiss foot, 1/4\" hole, 3 cold shoes, 360 degree rotation. No separate metric width on the EU page; convert the English 2.4-3.5 in (6,1-8,9 cm).",
+      "reason": "Amazon.de sells the same ULANZI ST-27 metal phone tripod adapter (EU ASIN B09C73XBM4; the US ASIN differs, the product name and features match). Amazon.se lists the same EU ASIN.",
+      "source": "https://www.amazon.de/ULANZI-ST-27-Handyhalterung-Arca-Swiss-Schraubenloch/dp/B09C73XBM4"
+    },
+    {
+      "name": "ULANZI ST-02S Aluminum Phone Tripod Mount",
+      "asin": "B07BBNSGR6",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Kamera Express (NL) sells the Ulanzi ST-02S telefoonhouder met cold shoe; Smartzine (NL) links it and calls it all-metal, suitable for thin and thick cases. Amazon.de also lists it (EU ASIN B081VN9LMZ).",
+      "source": "https://smartzine.nl/telefoonhouder-voor-statief/"
+    },
+    {
+      "name": "Manfrotto Universal Smartphone Clamp, Pro Version (MCPIXI)",
+      "asin": "B07K6GHL24",
+      "status": "fits",
+      "metricSpecs": "Amazon.es (Manfrotto listing): holds smartphones from 6 to 10,4 cm wide. Manfrotto: 60-104 mm, 41 g.",
+      "reason": "Amazon.es sells the Manfrotto Universal Clamp for Smartphone, Pro Version (MCPIXI) (EU ASIN B07L5529KZ).",
+      "source": "https://www.amazon.es/-/en/Manfrotto-Universal-Smartphone-Version-MCPIXI/dp/B07L5529KZ"
+    },
+    {
+      "name": "SMALLRIG Universal Phone Holder Mount with Cold Shoe 4382",
+      "asin": "B0CP41876D",
+      "status": "fits",
+      "metricSpecs": "SmallRig: phone width 57-88 mm (5,7-8,8 cm), product weight 73 g, load capacity 500 g. Amazon.es: 73 g.",
+      "reason": "Amazon.es and Amazon.de list the same ASIN B0CP41876D (SMALLRIG metal phone support with cold shoe 4382).",
+      "source": "https://www.amazon.de/-/en/SMALLRIG-Universal-Metal-Support-iPhone/dp/B0CP41876D"
+    },
+    {
+      "name": "Manfrotto TwistGrip Smartphone Clamp (MTWISTGRIP)",
+      "asin": "B01M8NQ6L8",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: maximum opening 7,5 cm, 80 g, aluminium, made in Italy.",
+      "reason": "Foto Koch (EU photo retailer) lists the Manfrotto TwistGrip universal tripod clamp for smartphone; Manfrotto (Italian maker) sells it worldwide.",
+      "source": "https://www.fotokoch.mt/Manfrotto-TwistGrip-universal-Tripod-clamp-for-smartphone_78189.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Het Rijksmuseum verwijst voor fotograferen naar zijn Algemene Voorwaarden, met als voorbeeld: geen statieven en geen extra belichting.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "In het Anne Frank Huis is fotograferen en filmen helemaal niet toegestaan.",
+      "source": "https://www.annefrank.org/nl/museum/praktische-informatie/"
+    },
+    {
+      "fact": "Smartzine (NL) noemt de Ulanzi ST-02S helemaal van metaal en geschikt voor dunne en dikke hoezen; de Pixi-klem past smartphones tot 104 mm breed.",
+      "source": "https://smartzine.nl/telefoonhouder-voor-statief/"
+    },
+    {
+      "fact": "SmallRig geeft voor de 4382 een telefoonbreedte van 57 tot 88 mm, 73 g en 500 g draagvermogen.",
+      "source": "https://www.smallrig.com/smallrig-Metal-Phone-Holder-with-Cold-Shoe-Mount-4382.html"
+    },
+    {
+      "fact": "Nederlandse termen: telefoonhouder voor statief, smartphoneklem, flitsschoentje of cold shoe voor een lamp of microfoon; Arca-Swiss houdt zijn naam.",
+      "source": "https://smartzine.nl/telefoonhouder-voor-statief/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Gewone veerklemmen zijn niet gemaakt voor Pro Max- en Ultra-toestellen.",
+      "fix": "Meet de telefoon met hoes en kies de MCPIXI (tot 104 mm) of de ST-02S voor dikke hoezen.",
+      "quotes": [
+        {
+          "text": "Vaak zijn ze ook niet berekend op de grote ‘pro max’ en ‘ultra’ smartphones",
+          "url": "https://smartzine.nl/telefoonhouder-voor-statief/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/telefoonhouder-voor-statief/"
+      ]
+    },
+    {
+      "pain": "De Pixi-klem heeft een strakke veer en een vergrendeling die moeilijk losgaat.",
+      "fix": "Open de bekken met twee handen en grijp niet op de rand van een screenprotector (tip uit de Engelse post).",
+      "quotes": [
+        {
+          "text": "Nadeel: de veer is best strak en je krijgt de vergrendeling maar met moeite los.",
+          "url": "https://smartzine.nl/telefoonhouder-voor-statief/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/telefoonhouder-voor-statief/"
+      ]
+    },
+    {
+      "pain": "Een MagSafe-houder kan losschieten bij een tik.",
+      "fix": "MagSafe alleen binnen bij rustige opnames; buiten een klem met vergrendeling (zelfde advies als de Engelse post).",
+      "quotes": [
+        {
+          "text": "als je met je smartphone per ongeluk ergens tegenaan tikt (of andersom) kan hij losschieten van de magneethouder",
+          "url": "https://smartzine.nl/telefoonhouder-voor-statief/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/telefoonhouder-voor-statief/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Smartzine bevestigt dat de ST-02S met dikke hoezen werkt en de Pixi tot 104 mm gaat.",
+      "source": "https://smartzine.nl/telefoonhouder-voor-statief/"
+    },
+    {
+      "point": "Rijksmuseum: geen statieven, dus ook geen ministatief met telefoonklem.",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "point": "Metrische fabriekscijfers: SmallRig 57 tot 88 mm.",
+      "source": "https://www.smallrig.com/smallrig-Metal-Phone-Holder-with-Cold-Shoe-Mount-4382.html"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Product exclusion reason \"Glif and Shoulderpod S1 (no Amazon US listing)\"",
+      "action": "replace",
+      "with": "Keep as a US-Amazon selection rule, phrased neutrally (dropped because no US Amazon listing), no local availability claim."
+    },
+    {
+      "english": "Inch-first phone widths (2.4-3.5 in etc.)",
+      "action": "replace",
+      "with": "Metric first (cm/mm, decimal comma), inches in brackets; SmallRig 57-88 mm from the maker."
+    },
+    {
+      "english": "ST-02S described as a spring-loaded clamp",
+      "action": "replace",
+      "with": "Call it a metal clamp with rubber grips (Amazon.de and Smartzine describe a turning mechanism); do not claim spring or screw."
+    }
+  ]
+}

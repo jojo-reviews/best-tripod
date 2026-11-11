@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-for-iphone-travel",
+  "checkedAt": "2026-11-11T15:32:12.109Z",
+  "productFit": [
+    {
+      "name": "Ulanzi MT-44 Extendable Vlog Tripod",
+      "asin": "B09T92NK4J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 146,5 cm full length, 32,5 cm folded, 422 g, phone clip 60-80 mm (same metric figures as the English post).",
+      "reason": "Ulanzi runs a German store (ulanzi.de) that sells the MT-44 Vlog-Stativ under the same name; same ASIN on amazon.de.",
+      "source": "https://www.ulanzi.de/en/products/ulanzi-mt-44-extendable-vlog-tripod-2502"
+    },
+    {
+      "name": "Peak Design Mobile Tripod",
+      "asin": "B09FRZPLL3",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 76 g, about 9,7 x 5,5 cm, about 0,5 cm thick (metric already in the English post).",
+      "reason": "Peak Design's EU (en-dk) web store lists the Mobile Tripod under the same name.",
+      "source": "https://www.peakdesign.com/en-dk/products/mobile-tripod"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)",
+      "asin": "B0BQN7CMDJ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto / Foto Koch NL: 13,5 cm high, 18,5 cm closed, 0,17 kg tripod, 1 kg max load.",
+      "reason": "Italian maker; sold in the EU under the same code MKPIXICLMII-BK (Foto Koch NL).",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "JOBY GripTight ONE Micro Stand",
+      "asin": "B01MRUMUVZ",
+      "status": "fits",
+      "metricSpecs": "Calumet DE (JB01492-0WW): phones 56-91 mm wide with or without a case, max load 325 g, folding metal legs with rubber feet and a mini ball head. Folded about 8,5 x 3,4 cm converted from the English 3.35 x 1.34 in.",
+      "reason": "Sold in Germany as JB01492-0WW by Calumet and Foto Koch; same ASIN B01MRUMUVZ on amazon.de.",
+      "source": "https://www.calumet.de/product/joby-griptight-one-micro-stand-schwarz"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,27 kg, 9,1 kg load.",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by Kamera Express (NL/BE) and El Corte Inglés (ES).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia permite un equipaje de mano de hasta 10 kg y 56 x 40 x 25 cm; los cinco trípodes miden plegados menos (el más largo, el Peak Design Travel Tripod, 39,4 cm).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Ryanair incluye en todas las tarifas un bolso pequeño de 40 x 30 x 20 cm bajo el asiento; el MT-44 (32,5 cm), el PIXI (18,5 cm), el JOBY y el Mobile Tripod caben, y el Peak Design Travel Tripod (39,4 cm) justo a lo largo.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La Sagrada Família no permite hacer fotografías o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas previamente.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "El Museo del Prado indica en su normativa que no está permitido realizar fotografías o filmaciones en las salas.",
+      "source": "https://www.museodelprado.es/visita/normativa"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Que el trípode quepa en cualquier bolsa sin renunciar a altura.",
+      "fix": "El Peak Design Travel Tripod pliega a 39,4 cm y llega a 152,4 cm; si basta el móvil, el MT-44 pliega a 32,5 cm (post en inglés: tabla y elección).",
+      "quotes": [
+        {
+          "text": "Plegado mide 40 cm. de largo por 7 (!!!!) de diámetro, cabe en cualquier bolsa",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-tripodes-para-viajes.53684/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/recomendaciones-de-tripodes-para-viajes.53684/"
+      ]
+    },
+    {
+      "pain": "Dudas sobre llevar el trípode en el equipaje de mano.",
+      "fix": "Medidas de cabina de Iberia y bolso de Ryanair frente a la longitud plegada; un trípode de móvil de menos de 33 cm es la opción de menor riesgo (post en inglés: problema de control de seguridad).",
+      "quotes": [
+        {
+          "text": "Yo siempre he llevado mi trípode de viaje, pesa 1,3 kilos y plegado ocupa casi 40 cm y nunca he tenido problemas",
+          "url": "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/tripode-en-equipaje-de-mano.39794/"
+      ]
+    },
+    {
+      "pain": "Apoyar el equipo en barandillas, bancos o el suelo en lugar de montar un trípode alto.",
+      "fix": "El Manfrotto PIXI sobre un muro o el Mobile Tripod sobre una mesa (post en inglés: superficies).",
+      "quotes": [
+        {
+          "text": "Soy mucho de apoyar la cámara en sitios (barandillas, coches, maleta, suelo, bancos...) por lo que busco algo sencillo pero que aguante la cámara.",
+          "url": "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/recomendaciones-de-mini-tripode-para-camaras-2020.14737/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Medidas de cabina de Iberia (56 x 40 x 25 cm) y bolso bajo el asiento de Ryanair (40 x 30 x 20 cm) frente a la longitud plegada de los cinco trípodes.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Alhambra, Sagrada Família y Prado: dónde no sirve ningún trípode, ni siquiera uno de bolsillo.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Calumet indica para el JOBY una carga máxima de 325 g; el iPhone 18 Pro Max pesa 249 g según Apple.",
+      "source": "https://www.calumet.de/product/joby-griptight-one-micro-stand-schwarz"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The TSA lists tripods as allowed in carry-on and checked bags, with the officer having the final say (problem list, FAQ \"Can I take a tripod in my carry-on?\")",
+      "action": "replace",
+      "with": "Keep TSA only as a clearly US-specific statement; lead with the local airline cabin-bag size and the Ryanair under-seat bag from localFacts."
+    },
+    {
+      "english": "each has its own Amazon US listing in stock",
+      "action": "replace",
+      "with": "Keep as a US-specific statement (Amazon listing in the US)."
+    },
+    {
+      "english": "A phone tripod under 13 in folded is the low-risk choice for a carry-on",
+      "action": "replace",
+      "with": "Metric first: under 33 cm (13 in) folded."
+    },
+    {
+      "english": "Imperial-first figures (12.7 in, 57.6 in, 15.5 in, 60 in, 2.81 lb, 20 lb, 3.35 x 1.34 in)",
+      "action": "replace",
+      "with": "Maker metric first: 32,5 cm, 146,5 cm, 39,4 cm, 152,4 cm, 1,27 kg, 9,1 kg, about 8,5 x 3,4 cm."
+    },
+    {
+      "english": "Museums, churches and busy sights often restrict tripods without advance permission",
+      "action": "replace",
+      "with": "Name the local venue rules from localFacts with their source."
+    }
+  ]
+}

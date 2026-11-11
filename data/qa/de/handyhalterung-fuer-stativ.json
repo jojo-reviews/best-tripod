@@ -1,0 +1,21 @@
+{
+  "slug": "de/handyhalterung-fuer-stativ",
+  "lang": "de",
+  "translationOf": "best-phone-mount-for-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-11T15:33:44.559Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/can-you-use-any-tripod-for-a-camera/; link the de version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-phone-mount-for-tripod: all 5 products/ASINs/scores/spec keys, widths converted metric-first (6,1-8,9 cm, 6,6-9,4 cm, 6-10,4 cm, 4,8-7,5 cm, 78,0 mm), weights, loads, FAQ answers and margins match. Local additions from data/briefs/de/best-phone-mount-for-tripod.local.json re-opened: Apple DE spec page (78,0 mm), SmallRig maker page (57-88 mm, 73 g, 500 g), Amazon.de ST-27/ST-02S/SmallRig listings, Foto Erhardt MCPIXI, DSLR-Forum thread quotes verbatim; Koelner Dom and SMB rules from the brief. ST-02S not called a spring clamp (Amazon.de/Smartzine describe a turning mechanism). No prices, no local Amazon store, no testing claims.",
+    "at": "2026-11-11T15:33:44.162Z",
+    "hash": "0a75b82600a7e531"
+  }
+}

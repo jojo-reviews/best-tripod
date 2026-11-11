@@ -1,0 +1,136 @@
+{
+  "lang": "es",
+  "translationOf": "best-phone-mount-for-tripod",
+  "checkedAt": "2026-11-11T15:31:09.179Z",
+  "productFit": [
+    {
+      "name": "ULANZI ST-27 Metal Phone Tripod Mount",
+      "asin": "B0DJXRFVB1",
+      "status": "fits",
+      "metricSpecs": "Amazon.de listing: Arca-Swiss foot, 1/4\" hole, 3 cold shoes, 360 degree rotation. No separate metric width on the EU page; convert the English 2.4-3.5 in (6,1-8,9 cm).",
+      "reason": "Amazon.de sells the same ULANZI ST-27 metal phone tripod adapter (EU ASIN B09C73XBM4; the US ASIN differs, the product name and features match). Amazon.se lists the same EU ASIN.",
+      "source": "https://www.amazon.de/ULANZI-ST-27-Handyhalterung-Arca-Swiss-Schraubenloch/dp/B09C73XBM4"
+    },
+    {
+      "name": "ULANZI ST-02S Aluminum Phone Tripod Mount",
+      "asin": "B07BBNSGR6",
+      "status": "fits",
+      "metricSpecs": "",
+      "reason": "Amazon.de lists the ULANZI ST-02S Universal Smartphone Stativ mount (EU ASIN B081VN9LMZ). Note: Amazon.de and Smartzine describe a turning (screw) mechanism, while the English post calls it a spring clamp; the translation avoids the word spring.",
+      "source": "https://www.amazon.de/ULANZI-ST-02S-Smartphone-Stativ-Mount/dp/B081VN9LMZ"
+    },
+    {
+      "name": "Manfrotto Universal Smartphone Clamp, Pro Version (MCPIXI)",
+      "asin": "B07K6GHL24",
+      "status": "fits",
+      "metricSpecs": "Amazon.es (Manfrotto listing): holds smartphones from 6 to 10,4 cm wide. Manfrotto: 60-104 mm, 41 g.",
+      "reason": "Amazon.es sells the Manfrotto Universal Clamp for Smartphone, Pro Version (MCPIXI) (EU ASIN B07L5529KZ).",
+      "source": "https://www.amazon.es/-/en/Manfrotto-Universal-Smartphone-Version-MCPIXI/dp/B07L5529KZ"
+    },
+    {
+      "name": "SMALLRIG Universal Phone Holder Mount with Cold Shoe 4382",
+      "asin": "B0CP41876D",
+      "status": "fits",
+      "metricSpecs": "SmallRig: phone width 57-88 mm (5,7-8,8 cm), product weight 73 g, load capacity 500 g. Amazon.es: 73 g.",
+      "reason": "Amazon.es and Amazon.de list the same ASIN B0CP41876D (SMALLRIG metal phone support with cold shoe 4382).",
+      "source": "https://www.amazon.es/SMALLRIG-Compatible-Articulaciones-Libremente-Ajustables/dp/B0CP41876D"
+    },
+    {
+      "name": "Manfrotto TwistGrip Smartphone Clamp (MTWISTGRIP)",
+      "asin": "B01M8NQ6L8",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: maximum opening 7,5 cm, 80 g, aluminium, made in Italy.",
+      "reason": "Foto Koch (EU photo retailer) lists the Manfrotto TwistGrip universal tripod clamp for smartphone; Manfrotto (Italian maker) sells it worldwide.",
+      "source": "https://www.fotokoch.mt/Manfrotto-TwistGrip-universal-Tripod-clamp-for-smartphone_78189.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "El Patronato de la Alhambra y Generalife solo permite fotografías sin flash y sin trípode, monópode ni otro elemento de estabilización de cámaras, y no permite palos selfie en los Palacios Nazaríes.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "La normativa de la Sagrada Família no permite hacer fotografías o vídeos con trípode dentro del recinto, salvo personas o empresas acreditadas por su Departamento de Prensa.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "El Museo del Prado indica en su normativa que no está permitido hacer fotografías ni filmaciones en las salas.",
+      "source": "https://www.museodelprado.es/visita/normativa"
+    },
+    {
+      "fact": "La ficha de Manfrotto en Amazon.es da para la MCPIXI móviles de 6 a 10,4 cm de ancho.",
+      "source": "https://www.amazon.es/-/en/Manfrotto-Universal-Smartphone-Version-MCPIXI/dp/B07L5529KZ"
+    },
+    {
+      "fact": "SmallRig da para el 4382 un ancho de móvil de 57 a 88 mm, 73 g y 500 g de carga.",
+      "source": "https://www.smallrig.com/smallrig-Metal-Phone-Holder-with-Cold-Shoe-Mount-4382.html"
+    },
+    {
+      "fact": "En España se busca como soporte de móvil para trípode, adaptador de trípode para móvil o pinza; la ficha de Amazon.es del SmallRig lo llama Soporte para Teléfono de Metal con Cold Shoe.",
+      "source": "https://www.amazon.es/SMALLRIG-Compatible-Articulaciones-Libremente-Ajustables/dp/B0CP41876D"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Las pinzas aprietan los botones laterales del móvil, y si se desplazan a un extremo el móvil cede y cae.",
+      "fix": "Sujetar el móvil un poco descentrado para que las mordazas queden entre los botones y comprobarlos antes de grabar (consejo del post en inglés); una pinza con hueco evita la presión.",
+      "quotes": [
+        {
+          "text": "Las pinzas siempre lo presionan y no encuentro otro tipo de soportes",
+          "url": "https://www.htcmania.com/showthread.php?p=34004969"
+        },
+        {
+          "text": "Si pones las pinzas en un extremo u otro el móvil cede y cae",
+          "url": "https://www.htcmania.com/showthread.php?p=34004969"
+        }
+      ],
+      "sources": [
+        "https://www.htcmania.com/showthread.php?p=34004969"
+      ]
+    },
+    {
+      "pain": "La pinza de plástico que viene de regalo con los trípodes baratos no inspira confianza.",
+      "fix": "Una pinza metálica con bloqueo (ST-27, ST-02S, SmallRig 4382) en lugar de la de regalo.",
+      "quotes": [
+        {
+          "text": "Yo tengo esta pinza que es mala malísima de plástico ,venía de regalo con algún trípode de esos baratos.",
+          "url": "https://www.htcmania.com/showthread.php?p=34004969"
+        }
+      ],
+      "sources": [
+        "https://www.htcmania.com/showthread.php?p=34004969"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Alhambra y Sagrada Família no permiten trípode (ni uno pequeño con pinza de móvil) sin permiso o acreditación.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Cifras métricas del fabricante: MCPIXI 6 a 10,4 cm (Amazon.es) y SmallRig 57 a 88 mm.",
+      "source": "https://www.smallrig.com/smallrig-Metal-Phone-Holder-with-Cold-Shoe-Mount-4382.html"
+    },
+    {
+      "point": "Respuesta a la queja de htcmania de pinzas que aprietan los botones.",
+      "source": "https://www.htcmania.com/showthread.php?p=34004969"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Product exclusion reason \"Glif and Shoulderpod S1 (no Amazon US listing)\"",
+      "action": "replace",
+      "with": "Keep as a US-Amazon selection rule, phrased neutrally (dropped because no US Amazon listing), no local availability claim."
+    },
+    {
+      "english": "Inch-first phone widths (2.4-3.5 in etc.)",
+      "action": "replace",
+      "with": "Metric first (cm/mm, decimal comma), inches in brackets; SmallRig 57-88 mm from the maker."
+    },
+    {
+      "english": "ST-02S described as a spring-loaded clamp",
+      "action": "replace",
+      "with": "Call it a metal clamp with rubber grips (Amazon.de and Smartzine describe a turning mechanism); do not claim spring or screw."
+    }
+  ]
+}

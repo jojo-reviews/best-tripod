@@ -1,0 +1,21 @@
+{
+  "slug": "es/soporte-de-movil-para-tripode",
+  "lang": "es",
+  "translationOf": "best-phone-mount-for-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-11T15:35:31.945Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/can-you-use-any-tripod-for-a-camera/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-phone-mount-for-tripod: 5 products/ASINs/scores/spec keys, widths converted metric-first (6,1-8,9 cm, 6,6-9,4 cm, 6-10,4 cm, 4,8-7,5 cm, 78,0 mm), weights, loads, margins and FAQ answers match. Local additions from data/briefs/es/best-phone-mount-for-tripod.local.json: SmallRig maker page (57-88 mm, 73 g, 500 g), Amazon.es MCPIXI (6-10,4 cm) and SmallRig listings, htcmania quotes verbatim (re-opened), Alhambra/Sagrada Familia/Prado rules from the brief. ST-02S not called a spring clamp. No prices, no local Amazon store, no testing claims.",
+    "at": "2026-11-11T15:35:42.624Z",
+    "hash": "95aa37f5522e680d"
+  }
+}

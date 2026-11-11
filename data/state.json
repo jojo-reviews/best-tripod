@@ -1885,6 +1885,48 @@
       "lang": "nl",
       "translationOf": "best-tripod-for-sony-a6400",
       "pubDate": "2026-11-11T05:20:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "de/handyhalterung-fuer-stativ",
+      "lang": "de",
+      "translationOf": "best-phone-mount-for-tripod",
+      "pubDate": "2026-11-11T17:50:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "es/soporte-de-movil-para-tripode",
+      "lang": "es",
+      "translationOf": "best-phone-mount-for-tripod",
+      "pubDate": "2026-11-11T17:45:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "nl/telefoonhouder-voor-statief",
+      "lang": "nl",
+      "translationOf": "best-phone-mount-for-tripod",
+      "pubDate": "2026-11-11T19:15:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "de/reisestativ-fuer-iphone",
+      "lang": "de",
+      "translationOf": "best-tripod-for-iphone-travel",
+      "pubDate": "2026-11-11T20:55:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "es/tripode-de-viaje-para-iphone",
+      "lang": "es",
+      "translationOf": "best-tripod-for-iphone-travel",
+      "pubDate": "2026-11-11T20:05:00.000Z"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "nl/reisstatief-voor-iphone",
+      "lang": "nl",
+      "translationOf": "best-tripod-for-iphone-travel",
+      "pubDate": "2026-11-11T21:50:00.000Z"
     }
   ]
 }

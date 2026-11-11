@@ -1,0 +1,147 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-iphone-travel",
+  "checkedAt": "2026-11-11T15:32:12.109Z",
+  "productFit": [
+    {
+      "name": "Ulanzi MT-44 Extendable Vlog Tripod",
+      "asin": "B09T92NK4J",
+      "status": "fits",
+      "metricSpecs": "Ulanzi: 146,5 cm full length, 32,5 cm folded, 422 g, phone clip 60-80 mm (same metric figures as the English post).",
+      "reason": "Ulanzi runs a German store (ulanzi.de) that sells the MT-44 Vlog-Stativ under the same name; same ASIN on amazon.de.",
+      "source": "https://www.ulanzi.de/en/products/ulanzi-mt-44-extendable-vlog-tripod-2502"
+    },
+    {
+      "name": "Peak Design Mobile Tripod",
+      "asin": "B09FRZPLL3",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 76 g, about 9,7 x 5,5 cm, about 0,5 cm thick (metric already in the English post).",
+      "reason": "Peak Design's EU (en-dk) web store lists the Mobile Tripod under the same name.",
+      "source": "https://www.peakdesign.com/en-dk/products/mobile-tripod"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)",
+      "asin": "B0BQN7CMDJ",
+      "status": "fits",
+      "metricSpecs": "Manfrotto / Foto Koch NL: 13,5 cm high, 18,5 cm closed, 0,17 kg tripod, 1 kg max load.",
+      "reason": "Italian maker; sold in the EU under the same code MKPIXICLMII-BK (Foto Koch NL).",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    },
+    {
+      "name": "JOBY GripTight ONE Micro Stand",
+      "asin": "B01MRUMUVZ",
+      "status": "fits",
+      "metricSpecs": "Calumet DE (JB01492-0WW): phones 56-91 mm wide with or without a case, max load 325 g, folding metal legs with rubber feet and a mini ball head. Folded about 8,5 x 3,4 cm converted from the English 3.35 x 1.34 in.",
+      "reason": "Sold in Germany as JB01492-0WW by Calumet and Foto Koch; same ASIN B01MRUMUVZ on amazon.de.",
+      "source": "https://www.calumet.de/product/joby-griptight-one-micro-stand-schwarz"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, 1,27 kg, 9,1 kg load.",
+      "reason": "Sold in the EU as the Peak Design Travel Tripod Carbon (model PK0201) by Kamera Express (NL/BE) and El Corte Inglés (ES).",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat één stuk handbagage toe van maximaal 55 x 35 x 25 cm inclusief handvatten en wieltjes; alle vijf statieven zijn ingeklapt korter (het langste, de Peak Design Travel Tripod, 39,4 cm).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Ryanair laat in elk tarief een kleine persoonlijke tas van 40 x 30 x 20 cm onder de stoel toe; de MT-44 (32,5 cm), PIXI (18,5 cm), JOBY en Mobile Tripod passen erin, de Peak Design Travel Tripod (39,4 cm) net in de lengte.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Nederlandse winkeltermen: telefoonstatief, smartphoneklem, balhoofd, selfiestick-statief; Foto Koch NL verkoopt de PIXI als \"Mini statief met universele smartphoneklem\" (13,5 cm, 1 kg).",
+      "source": "https://www.fotokoch-shop.nl/Manfrotto-PIXI-Mini-statief-met-universele-smartphoneklem_58138.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "KLM-maat 55 x 35 x 25 cm en de Ryanair-tas onder de stoel tegen de ingeklapte lengte; een telefoonstatief onder 33 cm is het kleinste risico; de beveiliging beslist (Engelse post: probleem luchthavencontrole).",
+      "quotes": [
+        {
+          "text": "Nog lang zitten twijfelen voor een statief, maar was niet zeker of het in handbagage mocht.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+      ]
+    },
+    {
+      "pain": "Een statief blijft thuis omdat opzetten te veel gedoe is.",
+      "fix": "De Mobile Tripod zit al op de iPhone en de JOBY past in een muntzakje; geen opbouw nodig (Engelse post: zakstatieven).",
+      "quotes": [
+        {
+          "text": "Statief had ik niet mee, veel te veel gedoe om op te stellen en onhandig in een auto.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+      ]
+    },
+    {
+      "pain": "Een grote smartphone past niet in de houder.",
+      "fix": "Klembreedte tegen de 78,0 mm van een kale iPhone 18 Pro Max: JOBY tot 91 mm, Peak Design Travel Tripod tot 90 mm, MT-44 maar tot 80 mm (Engelse post: Pro Max-sectie).",
+      "quotes": [
+        {
+          "text": "Controleer altijd of jouw telefoon wel in die houder past, want er zijn nog steeds veel oudere type ringlampen te koop",
+          "url": "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+        }
+      ],
+      "sources": [
+        "https://smartzine.nl/ring-light-kopen-voor-telefoon/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "KLM-handbagage (55 x 35 x 25 cm) en de Ryanair-tas onder de stoel (40 x 30 x 20 cm) tegen de ingeklapte lengte van de vijf statieven.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Rijksmuseum Boerhaave verbiedt statieven: daar werkt alleen een telefoon zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Calumet noemt voor de JOBY een maximale belasting van 325 g; een iPhone 18 Pro Max weegt volgens Apple 249 g.",
+      "source": "https://www.calumet.de/product/joby-griptight-one-micro-stand-schwarz"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The TSA lists tripods as allowed in carry-on and checked bags, with the officer having the final say (problem list, FAQ \"Can I take a tripod in my carry-on?\")",
+      "action": "replace",
+      "with": "Keep TSA only as a clearly US-specific statement; lead with the local airline cabin-bag size and the Ryanair under-seat bag from localFacts."
+    },
+    {
+      "english": "each has its own Amazon US listing in stock",
+      "action": "replace",
+      "with": "Keep as a US-specific statement (Amazon listing in the US)."
+    },
+    {
+      "english": "A phone tripod under 13 in folded is the low-risk choice for a carry-on",
+      "action": "replace",
+      "with": "Metric first: under 33 cm (13 in) folded."
+    },
+    {
+      "english": "Imperial-first figures (12.7 in, 57.6 in, 15.5 in, 60 in, 2.81 lb, 20 lb, 3.35 x 1.34 in)",
+      "action": "replace",
+      "with": "Maker metric first: 32,5 cm, 146,5 cm, 39,4 cm, 152,4 cm, 1,27 kg, 9,1 kg, about 8,5 x 3,4 cm."
+    },
+    {
+      "english": "Museums, churches and busy sights often restrict tripods without advance permission",
+      "action": "replace",
+      "with": "Name the local venue rules from localFacts with their source."
+    }
+  ]
+}
