@@ -1075,7 +1075,8 @@
     "slug": "best-tripod-head-for-real-estate-photography",
     "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)",
     "source": "owner list 2026-11-10",
-    "note": "owner request 2026-11-10"
+    "note": "owner request 2026-11-10",
+    "productCount": 13
   },
   {
     "status": "published",
@@ -6265,7 +6266,7 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "keyword": "best tripod for android phone",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -6292,7 +6293,9 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "lastError": "cannibalization: 4 of the top-10 Google results are shared with \"best phone tripod for vlogging with remote\" (same intent)"
   },
   {
     "status": "merged",
@@ -8539,7 +8542,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8567,10 +8570,11 @@
       "parentTopic": "video tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "lastError": "KD 11 > 10 cap"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8596,7 +8600,9 @@
       "parentTopic": "best budget tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "mergedInto": "best-tripod-for-camera",
+    "lastError": "cannibalization: \"best camera tripod under 200\" overlaps \"best tripod for camera\" (100%)"
   },
   {
     "status": "pending",
