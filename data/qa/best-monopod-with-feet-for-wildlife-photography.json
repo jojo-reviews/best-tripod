@@ -1,21 +1,20 @@
 {
   "slug": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:11.293Z",
+  "checkedAt": "2026-11-11T22:25:41.486Z",
   "errors": [],
   "warnings": [
+    "body has 1876 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S AM-264TR Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.adorama.com/vgam264tr.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1778617-REG/neewer_66601445_extendable_camera_monopod_stand.html",
-    "source didn't respond normally (403): https://www.sony.co.th/en/electronics/camera-lenses/sel200600g/specifications"
+    "section \"Which Monopod With Feet Should You Get?\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-10-29 TextRazor semantic pass: specs unchanged, re-checked against cited iFootage, Vanguard UK, Adorama, Neewer pages; shutter speed / long exposure / sports photography sentences sourced to Nature TTL (added to sources); Sony FE 200-600mm 2,115 g linked to Sony spec page; product summaries reworded to first person without testing claims; no new prices, ratings or tests; ASINs, slug, keyword, pubDate unchanged.",
-    "at": "2026-10-29T19:43:24.872Z",
-    "hash": "499cdfddc89a88c1"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-11T22:25:46.584Z",
+    "hash": "7fa69ad5eb973334"
   }
 }

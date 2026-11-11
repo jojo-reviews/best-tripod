@@ -470,8 +470,8 @@ sources:
   - title: 'DPReview forum: Gitzo Traveler GT1545T thoughts'
     url: >-
       https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/
-updatedDate: '2026-10-29T12:48:31.000Z'
-reviewedDate: '2026-11-04'
+updatedDate: '2026-11-11T22:25:41.000Z'
+reviewedDate: '2026-11-11'
 author: ned-diary
 faqs:
   - q: What is the best hiking tripod?
@@ -529,13 +529,13 @@ related:
   - travel-tripod-vs-full-size-tripod-for-landscape-photography
 ---
 
-The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
+A solo road trip across the United States is what first pulled me into photography, and I've kept at it since 2017, mostly on travel and landscape work. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge a trail tripod by whether I'd actually carry it. The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
 
 ## Best hiking tripod picks by pack weight
 
 **For most hikers, the best hiking tripod is a full-size carbon travel tripod around 2.3 to 3.4 lb that stands 51 to 54 in with the center column down; a mini tripod only makes sense if you never need standing height.**
 
-These are my picks, full-size tripods first, then the minis:
+Here's how I'd line them up for a hike, full-size tripods first, then the minis:
 
 - **Best overall:** the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), 2.8 lb with its head built in, 15.5 in folded and rated to 20 lb.
 - **Lightest full-size legs:** the [Gitzo Traveler GT1545T](amzn:Gitzo+GT1545T+Series+1+Carbon+4+Sections+Traveler+Tripod) at about 2.3 lb, legs only, so you add your own head.
@@ -557,7 +557,7 @@ This table compares the five on the numbers that decide pack weight, height and 
 
 **We kept only tripods that at least two of the top-ranking hiking and backpacking guides recommend, then checked each one against maker pages, retailer spec tables and owner reviews.** We read Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier and Matt Purciel; retailer list pages such as Best Buy's did not count. Sirui shows up as the budget carbon brand (the Traveler 5C on Pack Hacker's list, the T-005KX on J.M. Peltier's), but no single Sirui model made two lists, so it's not a pick here. If you're still deciding on material, our [carbon fiber vs aluminum tripod for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) guide covers the trade-off.
 
-For each tripod we then checked the trail numbers that matter:
+What matters to me on a trail is what I already want from my own carbon tripods: real weight with a head and real height without the column. For each tripod we then checked the trail numbers that matter:
 
 1. Weight with a head, not just the legs.
 2. Folded length for a pack strap or side pocket.
@@ -584,7 +584,7 @@ The weak points are the head and the latches. The built-in ball head has one adj
 
 The Gitzo Traveler Series 1 GT1545T is a four-section carbon fiber travel tripod from Gitzo, sold as legs only: you get about 2.3 lb (1.06 kg) of carbon legs and a short column, rated to 22 lb (10 kg), and no head. [Gitzo's product page](https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/) lists 60.24 in maximum height, 8.66 in minimum and a 16.73 in fold; the 51.2 in column-down height comes from retailer listings. Four sections use G-Lock twist locks, the legs fold back over the column, and threaded feet accept spikes.
 
-It's my pick for gram-counters, and backpackers choose it to keep the whole kit near 1.1 kg with a small head. On a DPReview thread, one owner wrote that after five-plus years and two Japan birding trips it "Works well with EOS R5 and 100-500L lens". The maker itself recommends lenses up to 135-200mm, so I treat that 100-500mm use as one owner's experience, not the maker's rating.
+It's my pick for gram-counters. My own kit runs on ball heads and Arca-Swiss plates, so I like that a legs-only design lets you put the head you already trust on top. Backpackers choose it to keep the whole kit near 1.1 kg with a small head. On a DPReview thread, one owner wrote that after five-plus years and two Japan birding trips it "Works well with EOS R5 and 100-500L lens". The maker itself recommends lenses up to 135-200mm, so I treat that 100-500mm use as one owner's experience, not the maker's rating.
 
 The trade-offs are real. There are only two leg angles (25 and 70 degrees), so it can't get as low as a 90-degree design. Another DPReview owner warned that a small plastic key that stops the column turning "can fall out too easily"; the owner adds that it can take a while to replace. A third poster called it adequate at full height only in calm air or with smaller lenses.
 
@@ -594,13 +594,13 @@ The Manfrotto Befree GT Carbon (MKBFRTC4GT-BH) is a four-section carbon fiber tr
 
 One B&H owner says hiking photo trips became a pleasure again after swapping a heavy aluminum tripod for it; another used it in Utah's canyons with a Nikon D850 and 70-200mm f/2.8 and found it more stable than expected. A third calls it sturdy in wind.
 
-The costs are weight and parts. At 3.4 lb it's the heaviest full-size pick here, and one owner calls it "a bit heavy." Another lost the leg-lock shims after pulling a leg too far and could find no replacements, so I'd never over-extend a section.
+I'd pick this one if you hike with a 70-200mm or expect gusts; for a lens like the 200-600mm I use for wildlife, I'd look past every travel tripod here. The costs are weight and parts. At 3.4 lb it's the heaviest full-size pick here, and one owner calls it "a bit heavy." Another lost the leg-lock shims after pulling a leg too far and could find no replacements, so I'd never over-extend a section.
 
 ### JOBY GorillaPod 5K Kit: flexible mini tripod for rocks and branches
 
 The JOBY GorillaPod 5K Kit is a flexible mini tripod with a ball head from JOBY, and its aluminum legs wrap around branches, rails and boulders instead of standing straight. The kit weighs 1.6 lb (739 g) with an 11 lb (5 kg) rating and an Arca-type ball head. It folds to about 15 in. JOBY does not publish a working height, so think of it as a support for a rest stop, not eye level.
 
-The praise is specific. One B&H owner bought it to replace a JOBY lost on a hike, and another says it holds a Canon R5 with a battery grip.
+I'd pick this if you'd rather wrap a tripod around a branch than carry legs to eye level. The praise is specific. One B&H owner bought it to replace a JOBY lost on a hike, and another says it holds a Canon R5 with a battery grip.
 
 Durability is the catch, and it's not one isolated report. Three B&H reviewers say a leg popped or broke off and could not be reattached, one of them on the third use. One wrote: "On assignment in remote Kenya, a leg popped off this brand new product and couldn't be put back on. This was only the third use." Another found the rubber rings on the leg spheres going sticky after about seven years, with no spare parts. I'd check every joint at home before the trip, and never bend legs past their stops.
 
@@ -616,7 +616,7 @@ Heavier kits push it too far. One B&H owner found the ball head post flexing wit
 
 **A mini tripod for hiking is enough only if you shoot from rocks, rails and ledges and never need standing height; for sunrise and sunset shots over a foreground, a full-size tripod earns its weight.** The PIXI EVO tops out at 7.7 in and the GorillaPod 5K has no published height, so both need something to stand on, like every [best GoPro tripod](/blog/best-tripod-for-gopro/) pick.
 
-A full-size carbon fiber tripod pays for itself the moment you want a waterfall long exposure with an ND filter, a level horizon above trailside brush, or a 70-200mm at dusk. If your hikes are mostly about landscapes, our [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) go further on low-angle reach. Carrying a mini as well as a full-size tripod is a reasonable compromise for long trips, because 9.4 oz rarely changes a decision.
+Since I shoot landscape work, the wide shots I'd take with a zoom like my 16-35mm usually need the horizon above the brush, and a mini can't give me that height. A full-size carbon fiber tripod pays for itself the moment you want a waterfall long exposure with an ND filter, a level horizon above trailside brush, or a 70-200mm at dusk. If your hikes are mostly about landscapes, our [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) go further on low-angle reach. Carrying a mini as well as a full-size tripod is a reasonable compromise for long trips, because 9.4 oz rarely changes a decision.
 
 What about a trekking pole? Some hikers press one into service as a monopod, but a single pole is not a tripod, and for multi-second exposures we would not count on it.
 
@@ -677,7 +677,7 @@ If you mostly fly rather than hike, our roundup of [travel tripods for mirrorles
 
 **Buy the tripod that matches the heaviest lens you carry and the longest day you hike.** Here is how I would decide:
 
-- **Mirrorless with a short zoom:** the carbon Peak Design Travel Tripod.
+- **Mirrorless with a short zoom (the kind of kit I carry, a Sony A7 IV with a 24-70mm):** the carbon Peak Design Travel Tripod.
 - **Longer telephoto, heavy kit or a windy trek such as Patagonia:** the Befree GT Carbon, the highest-rated pick on paper (26.5 lb against the Gitzo's 22 lb and the Peak Design's 20 lb); none of these five is a dedicated heavy-lens tripod, and Gitzo recommends lenses up to 135-200mm on its Traveler.
 - **Multi-day backpacker who owns a head:** the Gitzo legs.
 - **Minimalist or ultralight packer:** the PIXI EVO, or the GorillaPod if you shoot from trees and rails and check the joints first.

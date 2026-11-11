@@ -1,10 +1,10 @@
 {
   "slug": "best-tripod-for-iphone-night-mode-photos",
   "pass": true,
-  "checkedAt": "2026-11-11T15:24:59.233Z",
+  "checkedAt": "2026-11-11T22:25:50.127Z",
   "errors": [],
   "warnings": [
-    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 1K Kit; JOBY GripTight ONE GP Stand",
+    "body has 2070 words, over the 1897 limit (top results average 1650): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-iphone-travel, no claim changed",
-    "at": "2026-11-11T15:24:58.672Z",
-    "hash": "8c8a90ae14724c2c"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-11T22:25:49.226Z",
+    "hash": "876c3ed8732f9365"
   }
 }

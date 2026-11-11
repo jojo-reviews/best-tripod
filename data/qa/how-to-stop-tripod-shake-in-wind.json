@@ -1,23 +1,22 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-11-09T15:45:27.973Z",
+  "checkedAt": "2026-11-11T22:26:02.353Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 871 words, over the 834 limit (top results average 725): cut repetition and filler",
+    "LIVE POST, FIX: body has 960 words, over the 834 limit (top results average 725): cut repetition and filler",
     "illustration \"A tripod set low with its center column \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A stone-filled bag on the ground tied ta\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A photographer shielding a tripod from t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "FAQ \"Should I use image stabilization on a tripod in wi\" answer opens with a deferral; state the answer first (patent rule 2026-11-04, US10019513B1)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-starlink-mini, no claim changed",
-    "at": "2026-11-09T15:45:27.527Z",
-    "hash": "43e0b42fb53858d0"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-11T22:26:01.399Z",
+    "hash": "09297220c8a8365c"
   }
 }
