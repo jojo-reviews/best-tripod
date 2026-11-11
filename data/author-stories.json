@@ -1,0 +1,15 @@
+{
+  "_note": "Owner rule 2026-11-11: every new post carries Ned Diary's personal angle. Agents may use ONLY the facts and stories in this file (given by the owner). Never invent a trip, shoot, product test, purchase or result. A product is described as tested/used/owned only if a story here names that exact product. The owner adds new true stories here.",
+  "author": "ned-diary",
+  "facts": [
+    {"id": "start-2017", "text": "I have been shooting since 2017.", "topics": ["any"]},
+    {"id": "solo-road-trip", "text": "A solo road trip across the United States is what got me into photography.", "topics": ["travel", "road trip", "landscape", "car", "hiking"]},
+    {"id": "genres", "text": "I shoot travel, landscape, video, wildlife and real estate work.", "topics": ["travel", "landscape", "video", "wildlife", "real estate"]},
+    {"id": "bodies", "text": "My cameras are a Sony A7 IV and a Canon EOS R6 Mark II.", "topics": ["sony", "canon", "mirrorless", "camera", "full frame"]},
+    {"id": "gm-lenses", "text": "My main lenses are Sony G Master II zooms: a 16-35mm and a 24-70mm.", "topics": ["landscape", "real estate", "travel", "wide angle"]},
+    {"id": "telephoto", "text": "For wildlife I use a 200-600mm lens.", "topics": ["wildlife", "bird", "telephoto", "heavy lens", "gimbal head"]},
+    {"id": "drone-gimbal", "text": "I also fly a DJI Mavic 3 Pro and use a DJI RS 3 Pro gimbal for video.", "topics": ["video", "gimbal", "drone", "real estate"]},
+    {"id": "support", "text": "My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates.", "topics": ["carbon", "ball head", "arca", "travel tripod", "any"]}
+  ],
+  "stories": []
+}

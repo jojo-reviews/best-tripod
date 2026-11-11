@@ -52,3 +52,10 @@ You are the senior writer. Follow every rule in WRITE_SYSTEM in agents/writer-ag
 
 ## Author (owner rule 2026-11-11)
 Every post is by Ned Diary: set `author: ned-diary` (never `editorial-team`, which was removed). Do not invent experiences, trips or shoots for him in the post body; the first-person voice stays bound by the no-fake-testing/ownership rule.
+
+
+## Personal angle from Ned Diary (owner rule 2026-11-11)
+Every post includes Ned Diary's personal angle: an intro line or short "How I shoot this" note and, where it fits, one line per relevant section, written in first person.
+- Source ONLY: data/author-stories.json (facts + stories the owner gave). Pick the 1-3 entries whose topics match the post; never pad with unrelated ones.
+- NEVER invent a trip, shoot, place, date, product test, purchase or result. "I tested/used/own <product>" only when a story in that file names that exact product. Otherwise talk about what I look for, what my own kit (from the file) needs, and what owners report.
+- If the file has nothing that fits the post, use the general facts (shooting since 2017, genres, support kit) only.

@@ -49,3 +49,10 @@ Return: the file path, the id `<lang>/<localized-slug>`, the localized title and
 
 - Media and numbers: copy `illustrations` from the English post (same order, `prompt`, `afterHeading`, `src`, `width`, `height`; translate only `alt`) and `videos` unchanged (same `id`, `afterHeading`), and keep every number link on the same number and URL (convert units in the text, keep the link).
 - Owner rule 2026-11-06 (corrected; owner: "many pahly b kaha tha k sab ma na add kiya karo kis kisi ma add kar diya karo 2026"): do NOT put the year in every title. Put "2026" in `title`/`seoTitle` only when the keyword's Google top 10 uses a year (3+ of the top-10 titles in the brief's serpTitles show one); otherwise no year, and use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year without that SERP support for posts going live from 2026-11-06; a year never counts as the seoTitle number.
+
+
+## Personal angle from Ned Diary (owner rule 2026-11-11)
+Every post includes Ned Diary's personal angle: an intro line or short "How I shoot this" note and, where it fits, one line per relevant section, written in first person.
+- Source ONLY: data/author-stories.json (facts + stories the owner gave). Pick the 1-3 entries whose topics match the post; never pad with unrelated ones.
+- NEVER invent a trip, shoot, place, date, product test, purchase or result. "I tested/used/own <product>" only when a story in that file names that exact product. Otherwise talk about what I look for, what my own kit (from the file) needs, and what owners report.
+- If the file has nothing that fits the post, use the general facts (shooting since 2017, genres, support kit) only.

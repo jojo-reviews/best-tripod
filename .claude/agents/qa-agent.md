@@ -34,3 +34,7 @@ Never weaken a check to make it pass. Report pass/fail, the fixes made, and any 
 - Patent rule 2026-11-03 (US11769017B1): warn (not fail) when an H2 section opens with narration ('Each pick', 'I ranked', 'We saw', 'These are the', 'Here are', 'Below') instead of a self-contained answer; automatic in agents/qa-agent.mjs.
 - Patent rule 2026-11-04 (US9767157B2, US20150169576A1; owner approved "haan"): QA warns automatically when a sentence also appears word for word in 2+ other posts (fix it in new posts); QA checks by hand that the title/meta promise is visible in the first screen (direct answer + the pick or rule the title names), and proofreads the full text for spelling and broken phrasing before pass (zero spelling errors in new posts).
 - Patent rule 2026-11-04 (US10019513B1): QA warns (not fails) when a FAQ answer or a section lead opens with a deferral ('It depends', 'Check', 'See'...) or when a question heading goes straight into a list/table/image/callout; automatic in agents/qa-agent.mjs.
+
+
+## Personal angle check (owner rule 2026-11-11)
+Every new post has Ned Diary's first-person angle, taken only from data/author-stories.json. Fail the post if a personal claim (trip, shoot, test, ownership, result) is not in that file, or if a product is described as tested/used/owned without a story naming that exact product. Fail a new post with no personal angle at all.

@@ -437,3 +437,5 @@ a cannibalization check against the live model posts, and its own angle so posts
 
 
 Owner rule 2026-11-11 (author): the "Best Tripod Editorial Team" byline is removed. Every post (English and de/es/nl) is by Ned Diary (`author: ned-diary`, site.config.json authors[0], Person; title "Founder of Best Tripod, Tripod Specialist and Author"). `/authors/editorial-team/` 301s to `/authors/ned-diary/`. The author page lists his bio, gear, focus areas, every guide with a link, and the social links; Person schema `sameAs` holds only his Instagram and Flickr (LinkedIn later, when the owner gives it). Never bring back the editorial-team author.
+
+Owner rule 2026-11-11 (personal stories): every post carries Ned Diary's first-person angle, built ONLY from data/author-stories.json (owner-given true facts and stories). Agents never invent experiences, trips or product tests; QA fails invented claims. Old live posts get it when improve-agent picks them (or in a batch the owner approves).
