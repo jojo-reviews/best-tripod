@@ -284,7 +284,7 @@ The video below from filmmaker Mark Wiemels puts a GorillaPod, a Manfrotto PIXI 
 
 ## When a Flexible Mini Tripod Wins on the Road
 
-**A flexible mini tripod wins whenever the best camera position has no flat surface.** Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs.
+**A flexible mini tripod wins whenever the best camera position has no flat surface.** Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs; if your phone is the only camera, my [travel tripods for iPhone](/blog/best-tripod-for-iphone-travel/) start lighter still.
 
 ### Wrap it where there is no table
 

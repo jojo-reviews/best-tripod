@@ -691,12 +691,14 @@
     {
       "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
       "find": "Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs.",
-      "replace": "Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs; if your phone is the only camera, my [travel tripods for iPhone](/blog/best-tripod-for-iphone-travel/) start lighter still."
+      "replace": "Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs; if your phone is the only camera, my [travel tripods for iPhone](/blog/best-tripod-for-iphone-travel/) start lighter still.",
+      "appliedAt": "2026-11-11T15:24:58.302Z"
     },
     {
       "slug": "best-tripod-for-iphone-night-mode-photos",
       "find": "If you own the plain PIXI, the clamp alone gives you the same night setup.",
-      "replace": "If you own the plain PIXI, the clamp alone gives you the same night setup, and my [iPhone travel tripod picks](/blog/best-tripod-for-iphone-travel/) add taller options for the road."
+      "replace": "If you own the plain PIXI, the clamp alone gives you the same night setup, and my [iPhone travel tripod picks](/blog/best-tripod-for-iphone-travel/) add taller options for the road.",
+      "appliedAt": "2026-11-11T15:24:59.247Z"
     }
   ],
   "textrazor": {

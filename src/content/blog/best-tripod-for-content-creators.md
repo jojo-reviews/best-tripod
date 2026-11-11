@@ -456,7 +456,7 @@ Flexible tripods trade rigidity for grip. With a GorillaPod, wrap two legs and b
 
 ### You already own a camera tripod
 
-Quora answers to new YouTubers repeat it: "If you already have a bigger tripod, you can also get a mobile tripod mount" for your phone. Any phone clamp on the standard 1/4"-20 thread fits, and a photography tripod built for a camera is steadier at eye level than a pole.
+Quora answers to new YouTubers repeat it: "If you already have a bigger tripod, you can also get a mobile tripod mount" for your phone. Any [phone mount for a tripod](/blog/best-phone-mount-for-tripod/) on the standard 1/4"-20 thread fits, and a photography tripod built for a camera is steadier at eye level than a pole.
 
 ### Filming alone without a remote
 

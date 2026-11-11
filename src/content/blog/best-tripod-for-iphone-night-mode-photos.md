@@ -372,7 +372,7 @@ Digital Camera World, TechGearLab, Shotkit, Wirecutter, Skies & Scopes and a Tri
 
 The [Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp](amzn:Manfrotto+PIXI+Mini+Tripod+Kit+with+Smartphone+Clamp+MKPIXICLAMP-BK) is a rigid tabletop mini tripod from Manfrotto, sold with the brand's universal phone clamp. On a wall, a car roof or a picnic table, it is the steadiest way to hold an iPhone for a long capture. The legs open to one fixed angle on rubber feet, so there are no joints to creep, and the ball head locks with a push button against a grooved ball. Manfrotto rates it for 1 kg (2.2 lb) of payload and lists 215 g and a 26 cm (10.2 in) folded length.
 
-The catches come with the rigid design: no height adjustment and one leg angle, so you need a level surface, and the ball range is limited when you aim high at the stars. The clamp grips hard: one owner said it marked an Apple silicone case, and Digital Camera World lists a maximum phone width of 83 mm, so measure a Pro Max in its case first. If you own the plain PIXI, the clamp alone gives you the same night setup.
+The catches come with the rigid design: no height adjustment and one leg angle, so you need a level surface, and the ball range is limited when you aim high at the stars. The clamp grips hard: one owner said it marked an Apple silicone case, and Digital Camera World lists a maximum phone width of 83 mm, so measure a Pro Max in its case first. If you own the plain PIXI, the clamp alone gives you the same night setup, and my [iPhone travel tripod picks](/blog/best-tripod-for-iphone-travel/) add taller options for the road.
 
 ### JOBY GorillaPod 1K Kit: best tripod for railings and uneven ground
 

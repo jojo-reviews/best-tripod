@@ -169,7 +169,7 @@ heroAlt: >-
   Tripod guide
 ---
 
-Can you use any tripod for a camera? Almost always yes: a tripod and a camera share one standard screw thread, so brands don't need to match. What can still fail is the tripod's load rating, its quick release plate system, and phones or action cameras that need an adapter.
+Can you use any tripod for a camera? Almost always yes: a tripod and a camera share one standard screw thread, so brands don't need to match. What can still fail is the tripod's load rating, its quick release plate system, and phones or action cameras that need an adapter, such as a [phone mount for a tripod](/blog/best-phone-mount-for-tripod/).
 
 I split the question into three fit checks: the screw (universal), the weight (specific to your kit) and the plate (specific to the tripod head; our explainer on [what an Arca-Swiss plate is](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the main cross-brand system). One photographer in r/AskPhotography put it as "In general yes they do. There are a few very rare exceptions." These are the exceptions I found.
 

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-content-creators",
   "pass": true,
-  "checkedAt": "2026-11-06T15:51:23.302Z",
+  "checkedAt": "2026-11-11T15:25:00.155Z",
   "errors": [],
   "warnings": [
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): EUCOS 62\" Phone Tripod; Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 3K Kit; Neewer RL-18 Ring Light 18inch Kit",
@@ -10,15 +10,12 @@
     "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.newegg.com/p/0SB-0444-001C2",
-    "source didn't respond normally (403): https://wyzowl.com/video-marketing-statistics/"
+    "product \"Neewer RL-18 Ring Light 18inch Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-with-ring-light-for-iphone, no claim changed",
-    "at": "2026-11-06T15:24:04.097Z",
-    "hash": "c415e26c27036b55"
+    "notes": "added one internal link to best-phone-mount-for-tripod, no claim changed",
+    "at": "2026-11-11T15:24:59.684Z",
+    "hash": "6c5d4c48359833be"
   }
 }

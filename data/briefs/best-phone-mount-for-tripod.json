@@ -699,12 +699,14 @@
     {
       "slug": "best-tripod-for-content-creators",
       "find": "Any phone clamp on the standard 1/4\"-20 thread fits, and a photography tripod built for a camera is steadier at eye level than a pole.",
-      "replace": "Any [phone mount for a tripod](/blog/best-phone-mount-for-tripod/) on the standard 1/4\"-20 thread fits, and a photography tripod built for a camera is steadier at eye level than a pole."
+      "replace": "Any [phone mount for a tripod](/blog/best-phone-mount-for-tripod/) on the standard 1/4\"-20 thread fits, and a photography tripod built for a camera is steadier at eye level than a pole.",
+      "appliedAt": "2026-11-11T15:25:00.172Z"
     },
     {
       "slug": "can-you-use-any-tripod-for-a-camera",
       "find": "What can still fail is the tripod's load rating, its quick release plate system, and phones or action cameras that need an adapter.",
-      "replace": "What can still fail is the tripod's load rating, its quick release plate system, and phones or action cameras that need an adapter, such as a [phone mount for a tripod](/blog/best-phone-mount-for-tripod/)."
+      "replace": "What can still fail is the tripod's load rating, its quick release plate system, and phones or action cameras that need an adapter, such as a [phone mount for a tripod](/blog/best-phone-mount-for-tripod/).",
+      "appliedAt": "2026-11-11T15:25:00.972Z"
     }
   ],
   "textrazor": {
