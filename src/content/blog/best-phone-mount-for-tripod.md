@@ -414,7 +414,7 @@ sources:
     url: >-
       https://www.reddit.com/r/iphone/comments/1nyhttt/iphone_16_tripod_mount_that_wont_press_camera/
 reviewedDate: '2026-11-11'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best phone mount for a tripod?
     a: >-

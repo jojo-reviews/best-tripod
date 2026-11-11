@@ -445,7 +445,7 @@ sources:
   - title: 'RF Shooters: Tripod shake or building shake'
     url: 'https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/'
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für die Canon R8?
     a: >-

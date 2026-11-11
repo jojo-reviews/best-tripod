@@ -423,7 +423,7 @@ sources:
   - title: 'Printables: Seestar S50 tripod spacer for the Star Adventurer tripod'
     url: 'https://www.printables.com/model/967055-seestar-s50-tripod-spacer'
 reviewedDate: '2026-11-07'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welke schroefdraad heeft de Seestar S50 nodig op een statief?
     a: >-

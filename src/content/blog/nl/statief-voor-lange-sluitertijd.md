@@ -393,7 +393,7 @@ sources:
 - title: 'Scott Wyden Kivowitz: long exposure photography choices, tripod'
   url: https://scottwyden.com/long-exposure-photography-choices-tripod/
 reviewedDate: '2026-11-06T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Helpt een zwaarder statief bij lange sluitertijden?
   a: Ja, een zwaarder statief helpt bij lange sluitertijden, omdat wind en sluitertrillingen

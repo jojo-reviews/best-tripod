@@ -420,7 +420,7 @@ faqs:
       Sí, en interiores y con el aire en calma: la X5 es ligera y el palo se
       sostiene hasta 109 cm (42.9 in). Al aire libre, los usuarios dicen que sus
       patas pequeñas se vuelcan con brisa, así que bájalo o añade peso a la base.
-author: editorial-team
+author: ned-diary
 videos:
   - id: 61D103hgv0U
     afterHeading: 3

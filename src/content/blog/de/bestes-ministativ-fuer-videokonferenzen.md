@@ -346,7 +346,7 @@ faqs:
       Schnellwechselplatte mit. Händler beschreiben sie als Standard, ein
       Rezensent nennt ihre Größe aber nicht standardgemäß, prüfe also die
       Passform mit deinen vorhandenen Klemmen, bevor du dich darauf verlässt.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
   Bestes Ministativ für Videokonferenzen – 3 Tischstative für 2026 –

@@ -162,7 +162,7 @@ illustrations:
 videos:
   - id: 6iNRbT6Nsgg
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/can-you-use-any-tripod-for-a-camera.png
 heroAlt: >-
   Can You Use Any Tripod for a Camera? Yes, If It Passes 3 Fit Checks – Best

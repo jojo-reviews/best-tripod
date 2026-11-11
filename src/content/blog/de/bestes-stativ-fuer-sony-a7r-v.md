@@ -460,7 +460,7 @@ sources:
     url: >-
       https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Sony A7R V?
     a: >-

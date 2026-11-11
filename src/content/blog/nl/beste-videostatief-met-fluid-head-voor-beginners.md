@@ -335,7 +335,7 @@ faqs:
       snelwisselplaat voor een DJI RS-gimbal heeft. Als je veel onderweg bent,
       is een lichtere set zoals de Manfrotto 290 Xtra met zo'n 2,6 kg (5.6 lb)
       makkelijker mee te nemen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
   Beste videostatief met fluid head voor beginners – 3 tips, koopgids van

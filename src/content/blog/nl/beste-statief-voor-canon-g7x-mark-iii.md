@@ -378,7 +378,7 @@ faqs:
   a: Alleen voor foto’s op ooghoogte, lange sluitertijden en staande intro’s. De ministatieven
     halen 13,5 tot 26 cm; de Peak Design Travel Tripod staat met de kolom omlaag 130,2
     cm (51.25 in) hoog en klapt toch in tot 39,4 cm (15.5 in).
-author: editorial-team
+author: ned-diary
 related:
 - nl/beste-statief-voor-canon-powershot-v1
 - nl/beste-tafelstatief-voor-camera

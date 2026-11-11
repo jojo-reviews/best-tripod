@@ -403,7 +403,7 @@ sources:
       https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/
 reviewedDate: '2026-11-04'
 updatedDate: '2026-11-04T17:53:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for filming at the gym?
     a: >-

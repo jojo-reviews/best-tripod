@@ -435,7 +435,7 @@ sources:
     url: >-
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief voor de Nikon Zf?
     a: >-

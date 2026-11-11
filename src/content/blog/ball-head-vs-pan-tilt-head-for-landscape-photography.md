@@ -347,7 +347,7 @@ faqs:
       vertical, though that shifts the weight off center. An Arca-Swiss
       L-bracket on a head with an Arca clamp keeps the camera centered over the
       tripod instead.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
   Ball Head vs Pan Tilt Head for Landscape Photography – 5 Picks – Best Tripod

@@ -128,7 +128,7 @@ illustrations:
       A telephoto lens mounted by its collar on a tripod with the center column
       down
     afterHeading: 7
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/tripod-shake-when-pressing-shutter.png
 heroAlt: >-
   Tripod Shake When Pressing Shutter – 6 Fixes Matched to the Cause – Best

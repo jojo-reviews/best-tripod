@@ -339,7 +339,7 @@ faqs:
       Laut Händlerangaben bei beiden ja. Der Peak-Design-Kopf nimmt Peak Design
       Standard Plates und die meisten Arca-Platten auf, und die Platte
       200PL-PRO des Befree passt in Arca-Klemmen ebenso wie in Manfrotto RC2.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced – Vergleich von

@@ -429,7 +429,7 @@ faqs:
       Yes. The 1/4" thread on the handle fits any photo tripod, and a 179 g
       camera is far below every rating. A light camera adds little weight to
       steady the legs, so keep the center column down.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-insta360-x5
   - best-tripod-for-ricoh-gr-iii

@@ -415,7 +415,7 @@ sources:
     url: >-
       https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X-T5?
     a: >-

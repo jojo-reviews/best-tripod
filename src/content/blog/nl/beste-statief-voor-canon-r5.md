@@ -424,7 +424,7 @@ sources:
     url: >-
       https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/
 reviewedDate: '2026-11-10'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Canon R5?
     a: >-

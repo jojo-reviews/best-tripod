@@ -243,7 +243,7 @@ faqs:
       Both are small enough to pack in a daypack or carry-on; the PIXI Mini is
       18.5 cm closed and the GorillaPod 3K stand is about 24 cm. Airline and
       security rules vary, so check them before you fly.
-author: editorial-team
+author: ned-diary
 videos:
   - id: 5hlzY45eB3s
     afterHeading: 2

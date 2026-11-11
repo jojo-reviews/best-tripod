@@ -447,7 +447,7 @@ sources:
 - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
   url: https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
 reviewedDate: '2026-11-10'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: ¿Cuál es el mejor trípode para una Sony a6400?
   a: 'El Manfrotto Befree Advanced es el mejor trípode para la mayoría de usuarios

@@ -1148,7 +1148,7 @@ faqs:
       LS-224CX Ranger mit etwa 0,9 kg inklusive Kugelkopf. Beide passen nur zu
       leichten Kits: Das Sirui trägt 4 kg (8.8 lb), und das Leofoto endet bei
       etwa 114 cm (45 in), deutlich unter Augenhöhe der meisten Erwachsenen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Bestes Reisestativ für spiegellose Kamera – 15 Empfehlungen,

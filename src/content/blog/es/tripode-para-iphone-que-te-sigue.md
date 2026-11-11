@@ -348,7 +348,7 @@ faqs:
   a: Sí, un gimbal con seguimiento se puede montar en un trípode normal para planos a la altura de los ojos. ProVideo Coalition muestra el Osmo Mobile 8 sobre un trípode convencional, y DJI indica una rosca de 1/4 de pulgada en la serie Osmo Mobile 7, la misma rosca de 1/4"-20 que usa una zapata de trípode; abre bien las patas porque los motores desplazan el peso.
 - q: ¿Sigue siendo seguro comprar el Belkin Auto-Tracking Stand Pro?
   a: No, el Belkin Auto-Tracking Stand Pro (modelo MMA008) se retiró del mercado el 26 de noviembre de 2025 porque su batería de iones de litio puede sobrecalentarse e incendiarse. Se pide a los propietarios que dejen de usarlo y soliciten a Belkin un reembolso o una sustitución.
-author: editorial-team
+author: ned-diary
 videos:
 - id: xpGQbxokbhY
   afterHeading: 5

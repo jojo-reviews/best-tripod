@@ -3,8 +3,13 @@
   "redirects": [
     {
       "from": "/authors/damian-barczak/",
-      "to": "/authors/editorial-team/",
+      "to": "/authors/ned-diary/",
       "note": "Named reviewer removed by the owner (2026-10-19)"
+    },
+    {
+      "from": "/authors/editorial-team/",
+      "to": "/authors/ned-diary/",
+      "note": "Owner replaced the editorial team byline with Ned Diary (2026-11-11)"
     },
     {
       "from": "/blog/best-tripod-for-photography/",

@@ -327,7 +327,7 @@ sources:
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
 reviewedDate: '2026-11-04'
 updatedDate: '2026-10-30T17:59:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Can I bring a tripod on a plane?
     a: >-

@@ -459,7 +459,7 @@ sources:
   - title: 'American Firearms: Best shooting tripods'
     url: 'https://www.americanfirearms.org/best-shooting-tripods/'
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for hunting?
     a: >-

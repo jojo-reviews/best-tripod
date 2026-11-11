@@ -153,7 +153,7 @@ illustrations:
 videos:
   - id: P8oavNYcuOQ
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/how-to-clean-tripod-legs-after-the-beach.png
 heroAlt: >-
   How to Clean Tripod Legs After the Beach – 6 Steps for Sand and Salt – Best

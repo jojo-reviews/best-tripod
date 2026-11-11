@@ -416,7 +416,7 @@ faqs:
       DeathGrip, que la sujeta con las manos libres. Un trípode con horquilla
       como el Primos o el Vanguard solo apoya la parte delantera, así que
       mantén una mano en la ballesta.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Inside a dim camouflage ground blind at dawn, a hunter's gloved hands

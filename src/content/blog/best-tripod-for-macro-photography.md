@@ -431,7 +431,7 @@ sources:
   - title: 'Adorama: Tripods for macro photography'
     url: 'https://www.adorama.com/lists/tripods-for-macro-photography'
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for macro photography?
     a: >-

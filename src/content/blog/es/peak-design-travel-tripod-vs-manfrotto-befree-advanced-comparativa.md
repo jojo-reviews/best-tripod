@@ -338,7 +338,7 @@ faqs:
       Peak Design acepta placas Peak Design Standard y la mayoría de placas tipo
       Arca, y la placa 200PL-PRO del Befree encaja en pinzas tipo Arca además de
       en Manfrotto RC2.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced – comparativa de

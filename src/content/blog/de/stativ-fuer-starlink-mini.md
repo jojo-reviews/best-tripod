@@ -300,7 +300,7 @@ faqs:
     a: 'Ein Akku-Stativ betreibt eine Starlink Mini ungefähr so lange wie seine Wattstunden geteilt durch 25 bis 40 W, den Durchschnittsverbrauch laut Starlink: etwa 3 bis 4 Stunden bei 108 Wh und 5 bis 7 Stunden bei 166 bis 189 Wh. DISHYtech maß über 6,5 Stunden mit dem 166-Wh-Saunyoto.'
   - q: Darf ich mit einem Starlink-Mini-Akkustativ fliegen?
     a: 'Bei den zwei großen nein: Akkus über 160 Wh sind an Bord von Passagierflugzeugen verboten, das schließt das 166-Wh-Saunyoto und das 189-Wh-ROVEDGE aus. Für das 108-Wh-Daqa verlangt Lufthansa eine Transportgenehmigung der Airline. Stative ohne Akku fliegen problemlos mit.'
-author: editorial-team
+author: ned-diary
 videos:
   - id: L_lt9aX3JA4
     afterHeading: 5

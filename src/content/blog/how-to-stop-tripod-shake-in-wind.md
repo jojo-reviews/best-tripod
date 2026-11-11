@@ -128,7 +128,7 @@ illustrations:
 videos:
   - id: 1ekR6cBIQFg
     afterHeading: 1
-author: editorial-team
+author: ned-diary
 related:
   - how-to-weigh-down-a-tripod-without-a-sandbag
   - how-to-choose-a-tripod-for-a-heavy-telephoto-lens

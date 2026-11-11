@@ -479,7 +479,7 @@ sources:
     url: >-
       https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para grabar vídeos de guitarra?
     a: >-

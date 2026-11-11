@@ -435,7 +435,7 @@ faqs:
       sway under a full-size iPad. A gooseneck stand like the elitehood is
       better for reading, music and video calls, where reach and angle matter
       more than a still frame.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands measuring the short edge of a large tablet in a slim

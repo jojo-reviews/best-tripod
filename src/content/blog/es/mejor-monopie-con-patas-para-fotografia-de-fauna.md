@@ -308,7 +308,7 @@ faqs:
       levantas los prismáticos y la base no resbala en la roca. A cambio hay más
       peso, patas que acumulan suciedad y un paneo más rígido en algunos diseños
       de patas fijas.
-author: editorial-team
+author: ned-diary
 related:
   - es/tripode-para-personas-altas
   - es/mejor-tripode-de-viaje-para-camara-mirrorless

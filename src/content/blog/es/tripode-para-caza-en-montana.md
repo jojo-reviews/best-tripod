@@ -422,7 +422,7 @@ faqs:
       inclinación se mueven por separado, así que el telescopio no se cae
       cuando la aflojas. Una rótula de bola libera todos los ejes a la vez; es
       más ligera y sirve para prismáticos o una cámara.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       A hunter in muted earth-tone clothing sits on a rocky alpine slope with

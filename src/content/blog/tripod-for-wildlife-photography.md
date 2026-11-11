@@ -182,7 +182,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/gimbals-for-180-600-and-wildlife.4768954/
 reviewedDate: '2026-10-31T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Do I need a tripod for wildlife photography?
     a: >-

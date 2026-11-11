@@ -153,7 +153,7 @@ illustrations:
 videos:
   - id: FLDOGjCh-RY
     afterHeading: 1
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/leveling-base-vs-leveling-column.png
 heroAlt: >-
   Leveling Base vs Leveling Column – Which Levels Panoramas Faster – Best Tripod

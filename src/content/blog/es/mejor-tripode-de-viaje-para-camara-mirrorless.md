@@ -1141,7 +1141,7 @@ faqs:
       para equipos ligeros: el Sirui admite 4 kg (8.8 lb) y el Leofoto llega a
       unos 114 cm (45 in), muy por debajo de la altura de los ojos de la mayoría
       de adultos.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Mejor trípode de viaje para cámara mirrorless – 15 opciones, guía de

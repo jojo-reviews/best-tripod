@@ -127,7 +127,7 @@ illustrations:
 videos:
   - id: LXXjzoiDas4
     afterHeading: 3
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/twist-lock-vs-flip-lock-tripod-legs.png
 heroAlt: >-
   Twist Lock vs Flip Lock Tripod Legs – Speed, Sand, Gloves and Wear – Best

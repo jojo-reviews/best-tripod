@@ -360,7 +360,7 @@ faqs:
       Un palo selfie trípode es mejor para tomas de pie hablando a cámara y para
       clips caminando a mano. Un trípode flexible es mejor para el escritorio,
       mesas y para enrollarlo en barandillas, y ocupa menos.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
   Mejor trípode para móvil para vlogs con control remoto, guía de compra

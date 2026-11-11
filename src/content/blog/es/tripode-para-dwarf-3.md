@@ -447,7 +447,7 @@ sources:
   - title: 'Stargazers Lounge: Seestar and Dwarf tripods'
     url: https://stargazerslounge.com/topic/430500-seestardwarf-tripods/
 reviewedDate: '2026-11-08'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: ¿Qué rosca usa el DWARF 3 para el trípode?
     a: >-

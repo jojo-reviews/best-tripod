@@ -338,7 +338,7 @@ faqs:
       with no separate pan control, and owners say it is hard to pan smoothly.
       For serious video on either, fit a fluid head; Peak Design sells a head
       adapter for its legs.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced – Best Tripod

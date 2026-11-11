@@ -366,7 +366,7 @@ faqs:
       You can if they have rubber caps, like the TFS-US. Bare spikes mark
       floors, catch on bags and car seats, and are a hazard when you carry the
       tripod on your shoulder.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands pressing a tripod leg with a long steel spike foot

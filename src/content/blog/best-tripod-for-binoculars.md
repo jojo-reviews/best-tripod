@@ -385,7 +385,7 @@ sources:
     url: >-
       https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for binoculars?
     a: >-

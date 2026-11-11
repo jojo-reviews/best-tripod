@@ -1065,7 +1065,7 @@ faqs:
       Leofoto LS-224CX Ranger, at about 0.9 kg with its ball head. Both suit
       light kits only: the Sirui is rated 4 kg and the Leofoto tops out at about
       114 cm, well below eye level for most adults.
-author: editorial-team
+author: ned-diary
 updatedDate: '2026-10-30T12:00:00.000Z'
 reviewedDate: '2026-10-30'
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png

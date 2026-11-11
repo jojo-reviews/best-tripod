@@ -402,7 +402,7 @@ sources:
       https://glidegear.net/products/glide-gear-video-camera-tripod-track-dolly-hybrid
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T11:55:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod dolly?
     a: >-

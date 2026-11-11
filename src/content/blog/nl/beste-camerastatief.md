@@ -504,7 +504,7 @@ sources:
     url: >-
       https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste camerastatief?
     a: >-

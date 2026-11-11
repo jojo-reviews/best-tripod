@@ -217,7 +217,7 @@ faqs:
       una pantalla abatible permite trabajar cómodamente por debajo de los ojos.
       La altura de los ojos importa sobre todo si usas el visor en sesiones
       largas, porque un trípode bajo te obliga a encorvarte en cada toma.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: >-
   ¿Qué altura debe tener un trípode según tu estatura? Tabla y cálculo – guía de

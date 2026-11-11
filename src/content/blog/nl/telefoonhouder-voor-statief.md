@@ -447,7 +447,7 @@ sources:
     url: >-
       https://www.reddit.com/r/iphone/comments/1nyhttt/iphone_16_tripod_mount_that_wont_press_camera/
 reviewedDate: '2026-11-11'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is de beste telefoonhouder voor een statief?
     a: >-

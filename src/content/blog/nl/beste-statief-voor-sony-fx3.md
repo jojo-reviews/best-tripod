@@ -455,7 +455,7 @@ faqs:
       handvatten. De Befree Live (40 cm) en de Peak Design (39 cm) passen; de
       AD-01, TP74 en Sachtler zijn ingeklapt 86 tot 91 cm en gaan in het ruim.
       Of een statief door de controle mag, beslist de beveiliging.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a compact black cinema camera forward on a

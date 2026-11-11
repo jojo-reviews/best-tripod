@@ -504,7 +504,7 @@ illustrations:
 videos:
   - id: GeoQ7dt5ZWA
     afterHeading: 5
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
   Stativ für Plein Air Malerei – 5 Modelle für die Pochade-Box –

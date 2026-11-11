@@ -349,7 +349,7 @@ faqs:
       snelwisselplaat mee. Winkels noemen hem standaard, maar één reviewer noemt
       de maat niet standaard, dus controleer of hij in je bestaande klemmen past
       voordat je erop vertrouwt.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
   Beste ministatief voor videobellen – 3 tafelstatieven voor 2026 – koopgids van

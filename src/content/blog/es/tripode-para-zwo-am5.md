@@ -342,7 +342,7 @@ sources:
 - title: 'Cloudy Nights: ZWO AM5 alternative tripod?'
   url: https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/
 reviewedDate: '2026-11-08T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: ¿La ZWO AM5 se puede poner en cualquier trípode?
   a: Sí, la ZWO AM5 encaja en cualquier trípode con tornillo de 3/8", como dice la

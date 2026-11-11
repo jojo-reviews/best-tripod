@@ -374,7 +374,7 @@ sources:
     url: >-
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
 reviewedDate: '2026-10-29T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches Stativ ist ohne Mittelsäule am höchsten für jemanden mit 1,93 m?
     a: >-

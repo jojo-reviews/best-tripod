@@ -316,7 +316,7 @@ faqs:
       objectief draaien. Rubberen pads, een cameraspecifieke plaat met een rand,
       of een tweede schroef bij cages en lensvoeten verminderen dat, en vóór
       elke sessie stevig aandraaien helpt meer dan de meeste mensen denken.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: Wat is een Arca Swiss plaat en heb ik er een nodig? – gids van Best Tripod
 ---

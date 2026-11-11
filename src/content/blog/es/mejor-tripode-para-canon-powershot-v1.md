@@ -437,7 +437,7 @@ faqs:
       aquí aguantan la V1 de 426 g, pero ninguno la sube por encima de 44 cm; el
       Peak Design Travel Tripod llega a 130,2 cm (51.25 in) sin subir la
       columna.
-author: editorial-team
+author: ned-diary
 related:
   - es/mejor-tripode-de-mesa-para-camara
   - es/mejor-tripode-para-canon-r50

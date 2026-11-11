@@ -362,7 +362,7 @@ faqs:
       die Kamera sprichst, und für Walk-and-Talk-Clips aus der Hand. Ein
       flexibles Stativ ist besser für den Schreibtisch, für Tische und zum
       Umwickeln von Geländern, und es lässt sich kleiner verstauen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
   Handy-Stativ mit Fernbedienung zum Vloggen – Die 3 besten, Kaufberatung

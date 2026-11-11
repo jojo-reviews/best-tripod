@@ -144,7 +144,7 @@ illustrations:
 videos:
   - id: XRZ22cDJTWw
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 related:
   - leveling-base-vs-leveling-column
   - landscape-photography-tripod

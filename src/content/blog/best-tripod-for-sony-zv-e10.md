@@ -461,7 +461,7 @@ sources:
     url: >-
       https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony ZV-E10?
     a: >-

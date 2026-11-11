@@ -420,7 +420,7 @@ sources:
     url: >-
       https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X100VI?
     a: >-

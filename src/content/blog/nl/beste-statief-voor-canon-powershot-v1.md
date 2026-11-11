@@ -436,7 +436,7 @@ faqs:
       draagt de V1 van 426 g, maar geen enkel tilt hem boven 44 cm; de Peak
       Design Travel Tripod haalt 130,2 cm (51.25 in) zonder de middenkolom uit
       te schuiven.
-author: editorial-team
+author: ned-diary
 related:
   - nl/beste-tafelstatief-voor-camera
   - nl/beste-statief-voor-canon-r50

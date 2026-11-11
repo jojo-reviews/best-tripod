@@ -411,7 +411,7 @@ sources:
     url: >-
       https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/
 reviewedDate: '2026-11-11T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches ist das beste Reisestativ für iPhone?
     a: >-

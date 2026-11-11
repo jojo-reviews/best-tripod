@@ -257,7 +257,7 @@ title, seoTitle (≤60), description (140–160), pubDate (take the next unused 
 category, keyword, secondaryKeywords, entities, tags, articleType, readingTime,
 tldr (2–4), productCount (from `next`), products [exactly productCount items: name, brand, query, badge, summary, renterNote, pros, cons, specs, scores {stability, portability, height?, build, value}, scoreNote],
 sources [{title, url}] (manufacturer/standards pages you used, no Amazon URLs),
-reviewedDate (today), faqs [{q, a}] (4–6), author: editorial-team
+reviewedDate (today), faqs [{q, a}] (4–6), author: ned-diary
 ```
 Body: intro paragraph, `##` sections each opening with a **bold** direct answer,
 `### <exact product name>: <role>` per product in roundups, at least one list,
@@ -355,7 +355,7 @@ instead of guessed from snippets. WebFetch/WebSearch are the fallback. The conne
 repo or GitHub secrets; never write an API key into any file.
 
 ## Named reviewer (none)
-The owner removed the named reviewer (Damian Barczak) on 2026-10-19. Posts carry no `reviewedBy`; agents never add one. `/authors/damian-barczak/` 301-redirects to `/authors/editorial-team/`. A new named reviewer is added only when the owner asks, with `reviewer.slug` in site.config.json; `review-queue` and `mark-reviewed` refuse to run until then. `reviewedDate` stays: it is the date of our own editorial fact check, and QA requires it.
+The owner removed the named reviewer (Damian Barczak) on 2026-10-19. Posts carry no `reviewedBy`; agents never add one. `/authors/damian-barczak/` 301-redirects to `/authors/ned-diary/`. A new named reviewer is added only when the owner asks, with `reviewer.slug` in site.config.json; `review-queue` and `mark-reviewed` refuse to run until then. `reviewedDate` stays: it is the date of our own editorial fact check, and QA requires it.
 
 ## Story-led posts (owner rule)
 Every post reads as one true story: an opening scene the reader recognizes (from the brief's questions and owner complaints), attributed owner moments in each product section, and a verdict that closes the opening scene. The narrator voice is first person (owner rule 2026-10-23: I, my, me, we, our, us are all fine, including in product write-ups); a story that someone else lived stays a quoted, named story from `data/stories.json`.json` told by the person who lived it (the owner or a real owner who agreed to be quoted). Never invent a first-hand experience: fake "I tested / I bought" claims break Google's reviews guidance, the FTC rule on fake reviews and testimonials, and Amazon Associates policy. To add a real story, the owner sends it (voice note or text) and it goes into `data/stories.json` with who, what product, and when.
@@ -434,3 +434,6 @@ a cannibalization check against the live model posts, and its own angle so posts
 
 ## Year in titles only when the SERP uses it (owner rule 2026-11-06)
 - Owner rule 2026-11-06 (corrected; owner: "many pahly b kaha tha k sab ma na add kiya karo kis kisi ma add kar diya karo 2026"): do NOT put the year in every title. Put "2026" in `title`/`seoTitle` only when the keyword's Google top 10 uses a year (3+ of the top-10 titles in the brief's serpTitles show one); otherwise no year, and use a number of picks or a specific benefit instead ("5 Picks That Stay Still in Wind"). QA errors on a year without that SERP support for posts going live from 2026-11-06; a year never counts as the seoTitle number.
+
+
+Owner rule 2026-11-11 (author): the "Best Tripod Editorial Team" byline is removed. Every post (English and de/es/nl) is by Ned Diary (`author: ned-diary`, site.config.json authors[0], Person; title "Founder of Best Tripod, Tripod Specialist and Author"). `/authors/editorial-team/` 301s to `/authors/ned-diary/`. The author page lists his bio, gear, focus areas, every guide with a link, and the social links; Person schema `sameAs` holds only his Instagram and Flickr (LinkedIn later, when the owner gives it). Never bring back the editorial-team author.

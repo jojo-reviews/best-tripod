@@ -214,7 +214,7 @@ faqs:
       kantelbaar scherm werk je comfortabel onder ooghoogte. Ooghoogte telt
       vooral als je lang door de zoeker kijkt, want een kort statief betekent
       dat je bij elke foto voorovergebogen staat.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: >-
   Hoe hoog moet een statief zijn voor jouw lengte? Tabel en rekensom – Best

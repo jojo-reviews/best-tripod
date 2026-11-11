@@ -329,7 +329,7 @@ faqs:
       quick-release plate. Retailers describe it as standard, but one reviewer
       calls its size non-standard, so check the fit with your existing clamps
       before relying on it.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
   Best Mini Tripod for Desk Video Calls – 3 Picks for 2026 – Best Tripod buying

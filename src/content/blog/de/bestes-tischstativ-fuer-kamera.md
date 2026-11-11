@@ -493,7 +493,7 @@ faqs:
       und Äste, aber Besitzer berichten, dass die Gelenke mit der Zeit locker
       werden und das Ausrichten länger dauert, während starre Beine aufgeklappt
       gerade stehen und an Ort und Stelle bleiben.
-author: editorial-team
+author: ned-diary
 videos:
   - id: xaAhR2Lb254
     afterHeading: 2

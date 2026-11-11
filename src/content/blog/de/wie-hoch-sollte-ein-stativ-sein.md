@@ -214,7 +214,7 @@ faqs:
       besser, und ein Klappdisplay macht das Arbeiten unter Augenhöhe bequem.
       Augenhöhe zählt vor allem, wenn du lange durch den Sucher schaust, denn
       ein zu kurzes Stativ heißt, sich über jedes Bild zu beugen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: >-
   Wie hoch sollte ein Stativ sein? Tabelle nach Körpergröße:

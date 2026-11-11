@@ -460,7 +460,7 @@ faqs:
       TP74 und Sachtler sind mit 86 bis 91 cm zu lang und gehören ins
       aufgegebene Gepäck. Ob ein Stativ durch die Kontrolle darf, entscheidet am
       Flughafen die Sicherheitskontrolle.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a compact black cinema camera forward on a

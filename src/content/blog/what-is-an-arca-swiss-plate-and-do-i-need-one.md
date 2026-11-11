@@ -294,7 +294,7 @@ faqs:
       lens. Rubber pads, a camera-specific plate with a lip, or a second screw
       on cages and lens feet all reduce that, and tightening firmly before each
       shoot matters more than most people expect.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: >-
   What Is an Arca Swiss Plate and Do I Need One? A Plain Guide – Best Tripod

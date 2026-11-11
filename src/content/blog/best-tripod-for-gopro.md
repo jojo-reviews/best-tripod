@@ -449,7 +449,7 @@ faqs:
       the Shorty, 3-Way 2.0 and MAX Grip + Tripod. For eye-level shots standing
       up, you need a full-size tripod; none of the GoPro tripods here comes
       close.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-ricoh-gr-iii
   - best-tripod-for-canon-powershot-v1

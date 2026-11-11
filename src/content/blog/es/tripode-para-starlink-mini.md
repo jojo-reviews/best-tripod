@@ -300,7 +300,7 @@ faqs:
     a: 'Un trípode con batería alimenta una Starlink Mini aproximadamente sus vatios-hora divididos entre 25-40 W, el consumo medio que da Starlink: unas 3 a 4 horas con 108 Wh y 5 a 7 horas con 166-189 Wh. DISHYtech midió más de 6,5 horas con el Saunyoto de 166 Wh.'
   - q: ¿Puedo volar con un trípode con batería para Starlink Mini?
     a: 'No con los dos grandes: las baterías de más de 160 Wh están prohibidas en los aviones de pasajeros, lo que deja fuera al Saunyoto de 166 Wh y al ROVEDGE de 189 Wh. El Daqa de 108 Wh entra en la franja de más de 100 Wh y hasta 160 Wh, para la que Iberia Express limita a dos baterías por pasajero en cabina. Los trípodes sin batería vuelan sin problema.'
-author: editorial-team
+author: ned-diary
 videos:
   - id: L_lt9aX3JA4
     afterHeading: 5

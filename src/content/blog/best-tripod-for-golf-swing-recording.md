@@ -376,7 +376,7 @@ sources:
     url: 'https://techtracker.blog/sensyne-tripod-review/'
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:29:20.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for recording a golf swing?
     a: >-

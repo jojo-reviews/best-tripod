@@ -225,7 +225,7 @@ sources:
     url: 'https://www.transcontinenta.co.uk/en/blog/good-tripod-spotting-scope.html'
 reviewedDate: '2026-10-30'
 updatedDate: '2026-10-30T18:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a spotting scope?
     a: >-

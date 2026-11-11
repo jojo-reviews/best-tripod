@@ -127,7 +127,7 @@ illustrations:
 videos:
   - id: jRYUT8aPd0o
     afterHeading: 6
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/tripod-center-column-up-or-down-for-landscapes.png
 heroAlt: >-
   Tripod Center Column Up or Down for Landscapes – When to Raise It – Best

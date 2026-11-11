@@ -341,7 +341,7 @@ sources:
 - title: 'Cloudy Nights: ZWO AM5 alternative tripod?'
   url: https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/
 reviewedDate: '2026-11-08T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Past de ZWO AM5 op elk statief?
   a: Ja, de ZWO AM5 past op elk statief met een 3/8"-schroef, zoals ZWO's eigen FAQ

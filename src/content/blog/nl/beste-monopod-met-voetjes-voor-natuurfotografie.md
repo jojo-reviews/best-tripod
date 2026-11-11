@@ -305,7 +305,7 @@ faqs:
       verrekijker pakt, en de voet glijdt niet weg op steen. Daar staan meer
       gewicht, voetjes die vuil verzamelen en bij sommige vaste voetjes stroever
       pannen tegenover.
-author: editorial-team
+author: ned-diary
 related:
   - nl/statief-voor-lange-mensen
   - nl/beste-reisstatief-voor-systeemcamera

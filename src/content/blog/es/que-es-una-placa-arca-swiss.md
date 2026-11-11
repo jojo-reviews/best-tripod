@@ -319,7 +319,7 @@ faqs:
       cámara con tope o un segundo tornillo en jaulas y pies de objetivo lo
       reducen, y apretar bien antes de cada salida importa más de lo que la
       mayoría cree.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: Qué es una placa Arca Swiss y si necesitas una – guía de Best Tripod
 ---

@@ -447,7 +447,7 @@ faqs:
       notch, which loads the ball head sideways. Tighten the ball, use a head
       rated well above your camera and lens, or switch to an L-bracket that
       keeps the weight over the column.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands loosening the knob of a black travel ball head on a

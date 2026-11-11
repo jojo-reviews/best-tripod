@@ -300,7 +300,7 @@ faqs:
     a: 'Een accustatief laat een Starlink Mini ongeveer zijn wattuur gedeeld door 25-40 W draaien, het gemiddelde verbruik volgens Starlink: zo’n 3 tot 4 uur bij 108 Wh en 5 tot 7 uur bij 166-189 Wh. DISHYtech mat ruim 6,5 uur met de Saunyoto van 166 Wh.'
   - q: Mag ik vliegen met een Starlink Mini-accustatief?
     a: 'Nee voor de twee grote: KLM laat accu’s van meer dan 160 Wh nooit toe, en dat sluit de Saunyoto van 166 Wh en de ROVEDGE van 189 Wh uit. Voor de Daqa van 108 Wh heb je bij KLM toestemming nodig, omdat hij tussen 100 en 160 Wh zit. Statieven zonder accu mogen gewoon mee.'
-author: editorial-team
+author: ned-diary
 videos:
   - id: L_lt9aX3JA4
     afterHeading: 5

@@ -435,7 +435,7 @@ sources:
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for family photos?
     a: >-

@@ -221,7 +221,7 @@ illustrations:
 videos:
   - id: XYyDGRvhz4c
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 related:
   - tripod-for-wildlife-photography
   - best-gimbal-head-for-150-600mm-lens

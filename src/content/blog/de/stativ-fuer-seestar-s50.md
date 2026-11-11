@@ -425,7 +425,7 @@ sources:
   - title: 'Printables: Seestar S50 tripod spacer for the Star Adventurer tripod'
     url: 'https://www.printables.com/model/967055-seestar-s50-tripod-spacer'
 reviewedDate: '2026-11-07'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches Gewinde braucht der Seestar S50 am Stativ?
     a: >-

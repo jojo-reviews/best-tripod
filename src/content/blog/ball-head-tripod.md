@@ -241,7 +241,7 @@ faqs:
       better when you make slow, precise framing moves on one axis at a time.
       Many landscape shooters carry a ball head and accept a few re-lock
       iterations.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/ball-head-tripod.png
 heroAlt: >-
   Ball Head Tripod Guide – 2 Heads Worth Buying and Sag Fixes – Best

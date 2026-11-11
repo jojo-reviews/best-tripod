@@ -416,7 +416,7 @@ faqs:
       want die houdt hem handsfree vast. Een vorkstatief zoals de Primos of
       Vanguard legt alleen de voorschacht op, dus houd een hand aan de
       kruisboog.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Inside a dim camouflage ground blind at dawn, a hunter's gloved hands

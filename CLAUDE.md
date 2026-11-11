@@ -56,6 +56,7 @@ conflicts with an old one, ask the owner which wins and record the answer). Comm
 - Owner rule 2026-11-04 ("difrent laguage pages pa make sure 1 post lazmi publish ho different languages ma"): best-tripod.com publishes at least 1 localized post in EACH of de, es and nl every day (the day's new posts' versions plus the backlog; if today's new posts give none for a language, take the backlog/translate-queue post for it).
 - Dashboards are light-themed: Search Performance https://claude.ai/artifact/LgNhY4KAh6FfnSxKs7AfpF (daily refresh)
   and Site Agent Flow https://claude.ai/artifact/PZPgFBgSVi37DphrWH2nDJ.
+- Owner rule 2026-11-11 (author): "Best Tripod Editorial Team" removed; all posts are by Ned Diary (/authors/ned-diary/, Person schema, sameAs = Instagram + Flickr only, LinkedIn later); /authors/editorial-team/ 301s there. Photo (street shot, camera in hand) and Instagram URL to be added when the owner sends them.
 - best-tripod.com: keyword queue was replaced by the owner's list on 2026-10-22 (no cannibalization with live posts); never add reviewedBy.
 
 - Repos (2026-10-27, old rankandrent account suspended): jojo-reviews/rentersmarthome (branch main), jojo-reviews/best-tripod (main), jojo-reviews/Best-Safe (main). This site is deployed by launch-site.yml in jojo-reviews/rentersmarthome.

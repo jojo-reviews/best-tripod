@@ -389,7 +389,7 @@ sources:
   - title: 'techtracker: Sensyne tripod review'
     url: 'https://techtracker.blog/sensyne-tripod-review/'
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief om je golfswing te filmen?
     a: >-

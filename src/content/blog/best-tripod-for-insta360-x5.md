@@ -406,7 +406,7 @@ faqs:
       Yes, indoors and in calm air: the X5 is light, and the stick stands at up
       to 42.9 in. Outdoors, owners say its small legs tip in a breeze, so keep
       it lower or add weight to the base.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-gopro
   - best-tripod-for-dji-osmo-action-5-pro

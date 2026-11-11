@@ -348,7 +348,7 @@ faqs:
   a: Ja, ein Tracking-Gimbal lässt sich für Aufnahmen auf Augenhöhe auf ein normales Stativ setzen. ProVideo Coalition zeigt den Osmo Mobile 8 auf einem regulären Stativ, und DJI nennt für die Osmo-Mobile-7-Serie ein 1/4-Zoll-Gewinde, dasselbe 1/4"-20-Gewinde wie bei einer Stativplatte; spreize die Beine weit, weil die Motoren das Gewicht verlagern.
 - q: Kann ich den Belkin Auto-Tracking Stand Pro noch kaufen?
   a: Nein, der Belkin Auto-Tracking Stand Pro (Modell MMA008) wurde am 26. November 2025 zurückgerufen, weil sein Lithium-Ionen-Akku überhitzen und Feuer fangen kann. Besitzer sollen ihn nicht mehr benutzen und bei Belkin Erstattung oder Ersatz anfordern.
-author: editorial-team
+author: ned-diary
 videos:
 - id: xpGQbxokbhY
   afterHeading: 5

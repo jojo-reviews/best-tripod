@@ -459,7 +459,7 @@ faqs:
     en REDUSER-eigenaren gebruiken carbon reispoten zo. Een balhoofd voor op reis
     heeft geen demping, dus pans worden schokkerig; voor bewegende shots zou ik de
     TRIBEX SE of een set met fluid head nemen.
-author: editorial-team
+author: ned-diary
 illustrations:
 - prompt: >-
     A pair of hands lifting a compact cube-shaped cinema camera rig with a cage, small

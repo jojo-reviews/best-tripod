@@ -431,7 +431,7 @@ sources:
   - title: 'Alternative.me: The Best Tripod Dollies'
     url: 'https://alternative.me/tripod-dollies'
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor dolly para trípode?
     a: >-

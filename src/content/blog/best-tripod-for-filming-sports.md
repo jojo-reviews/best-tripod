@@ -390,7 +390,7 @@ sources:
     url: >-
       https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What kind of tripod is best for filming sports?
     a: >-

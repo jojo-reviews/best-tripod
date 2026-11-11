@@ -426,7 +426,7 @@ faqs:
       Only for eye-level stills, long exposures and standing intros. The minis
       reach 13.5 to 26 cm; the Peak Design Travel Tripod stands 51.25 in with
       the column down and still folds to 15.5 in.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-canon-powershot-v1
   - best-tabletop-camera-tripod

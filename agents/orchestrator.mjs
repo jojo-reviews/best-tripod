@@ -158,7 +158,7 @@ async function publishOne(item) {
       tldr: meta.tldr,
       products: products.map(({ facts, sources, ...p }) => p),
       faqs: meta.faqs,
-      author: 'editorial-team',
+      author: 'ned-diary',
       reviewedDate: new Date().toISOString().slice(0, 10),
       sources: collectSources(products),
     },

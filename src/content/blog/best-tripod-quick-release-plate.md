@@ -404,7 +404,7 @@ faqs:
       Yes, a Peak Design plate fits most Arca-type tripod clamps. Peak Design says it fits most Arca-type
       tripods, but it has no safety stop, so close the clamp fully and tug-test
       it.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a small square aluminum camera plate into

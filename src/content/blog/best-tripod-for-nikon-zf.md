@@ -409,7 +409,7 @@ sources:
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T12:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Nikon Zf?
     a: >-

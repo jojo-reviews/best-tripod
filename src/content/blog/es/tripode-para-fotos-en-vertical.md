@@ -342,7 +342,7 @@ faqs:
     a: Para grabar en vertical con el iPhone necesitas un soporte de móvil que gire a vertical. El Peak Design Travel Tripod tiene un soporte de móvil integrado, y cualquiera de los modelos tipo Arca de esta lista admite una pinza para móvil; para vídeo solo con el móvil, mira nuestras guías de trípodes para móvil.
   - q: ¿Por qué se me cae la cámara cuando está en vertical en el trípode?
     a: La cámara cede en vertical porque su peso queda descentrado en la muesca y carga la rótula de lado. Aprieta más la bola, usa una rótula con una carga muy superior a la de la cámara y el objetivo, o pasa a una placa en L que mantenga el peso sobre la columna.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: Close-up of two hands loosening the knob of a black travel ball head on a tripod and tipping a mirrorless camera sideways into the head's side slot so the camera stands in portrait orientation, outdoor overlook at golden hour, three-quarter angle, soft warm light, shallow depth of field
     alt: Manos inclinando una cámara en la muesca de la rótula para hacer fotos en vertical con trípode

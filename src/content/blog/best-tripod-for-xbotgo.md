@@ -382,7 +382,7 @@ sources:
   - title: 'Fred Miranda forum: make a tripod secure in very windy conditions'
     url: 'https://www.fredmiranda.com/forum/topic/1897628/'
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 videos:
   - id: '-0IbfzcgPjI'
     afterHeading: 4

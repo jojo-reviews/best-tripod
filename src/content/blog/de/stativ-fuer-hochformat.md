@@ -342,7 +342,7 @@ faqs:
     a: Für Hochformat mit dem iPhone brauchst du eine Smartphone-Halterung, die sich ins Hochformat drehen lässt. Das Peak Design Travel Tripod hat eine eingebaute Handyhalterung, und jedes Arca-Modell hier nimmt eine Smartphone-Klemme auf; für reines Handy-Video gibt es unsere Ratgeber zu Smartphone-Stativen.
   - q: Warum sackt meine Kamera im Hochformat auf dem Stativ ab?
     a: Eine Kamera sackt im Hochformat ab, weil ihr Gewicht außermittig in der Kerbe sitzt und den Kugelkopf seitlich belastet. Zieh die Kugel fester an, nimm einen Kopf, dessen Tragkraft deutlich über Kamera und Objektiv liegt, oder wechsle zu einem L-Winkel, der das Gewicht über der Säule hält.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: Close-up of two hands loosening the knob of a black travel ball head on a tripod and tipping a mirrorless camera sideways into the head's side slot so the camera stands in portrait orientation, outdoor overlook at golden hour, three-quarter angle, soft warm light, shallow depth of field
     alt: Hände kippen eine Kamera in die Kerbe des Kugelkopfs, um auf dem Stativ im Hochformat zu fotografieren

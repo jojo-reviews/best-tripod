@@ -369,7 +369,7 @@ faqs:
       walk-and-talk clips uit de hand. Een flexibel statief is beter voor
       bureau-opstellingen, tafels en om leuningen heen wikkelen, en het neemt
       minder ruimte in.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
   Beste telefoonstatief voor vloggen met afstandsbediening, koopgids van

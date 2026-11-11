@@ -364,7 +364,7 @@ faqs:
 videos:
   - id: XHgGlbLl_kg
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-gimbal-head-for-150-600mm-lens.png
 heroAlt: >-
   Best Gimbal Head for 150-600mm Lens – 4 Picks by Weight – Best Tripod

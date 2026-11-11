@@ -370,7 +370,7 @@ faqs:
       vertical, aunque eso desplaza el peso fuera del centro. Una escuadra en L
       Arca-Swiss en una rótula con pinza Arca mantiene la cámara centrada sobre
       el trípode.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
   Rótula de bola o de 3 vías para fotografía de paisaje – 5 opciones, comparativa

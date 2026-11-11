@@ -370,7 +370,7 @@ faqs:
       legs, which is how cheap tripods tip or break. Use an overhead arm or a
       light stand with a boom, and keep the base on the opposite side from the
       phone.
-author: editorial-team
+author: ned-diary
 videos:
   - id: z7yo-oNr9I0
     afterHeading: 5

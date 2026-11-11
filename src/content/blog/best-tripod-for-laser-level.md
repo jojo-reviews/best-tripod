@@ -406,7 +406,7 @@ faqs:
       The Bosch BT150 or DeWalt DW0881T fits a Bosch or DeWalt line laser on
       1/4-20; a rotary laser fits the 5/8-11 BT160, DW0737 or BT300HD. The
       thread matters, not the brand.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands turning a compact cross-line laser level upside down

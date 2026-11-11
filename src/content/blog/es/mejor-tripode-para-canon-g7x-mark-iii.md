@@ -376,7 +376,7 @@ faqs:
   a: Solo para fotos a la altura de los ojos, exposiciones largas e intros de pie.
     Los minis llegan a entre 13,5 y 26 cm; el Peak Design Travel Tripod mide 130,2
     cm (51.25 in) con la columna bajada y aun así se pliega a 39,4 cm (15.5 in).
-author: editorial-team
+author: ned-diary
 related:
 - es/mejor-tripode-para-canon-powershot-v1
 - es/mejor-tripode-de-mesa-para-camara

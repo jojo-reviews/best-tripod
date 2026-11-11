@@ -223,7 +223,7 @@ illustrations:
 videos:
   - id: YmAVwYZ1SdI
     afterHeading: 2
-author: editorial-team
+author: ned-diary
 heroImage: >-
   /images/featured/travel-tripod-vs-full-size-tripod-for-landscape-photography.png
 heroAlt: >-

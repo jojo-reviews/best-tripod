@@ -434,7 +434,7 @@ sources:
     url: >-
       https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony A7 IV?
     a: >-

@@ -503,7 +503,7 @@ illustrations:
 videos:
   - id: GeoQ7dt5ZWA
     afterHeading: 5
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-tripod-for-plein-air-painting.png
 heroAlt: >-
   Statief voor buiten schilderen – 5 keuzes voor je pochade box –

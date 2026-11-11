@@ -418,7 +418,7 @@ sources:
   - title: 'r/canon: Canon R50 accessories'
     url: 'https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/'
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Canon R50?
     a: >-

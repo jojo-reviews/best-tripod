@@ -491,7 +491,7 @@ sources:
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
 reviewedDate: '2026-10-30T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief voor landschapsfotografie?
     a: >-

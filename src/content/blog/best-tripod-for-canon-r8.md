@@ -430,7 +430,7 @@ sources:
   - title: 'RF Shooters: Tripod shake or building shake'
     url: 'https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/'
 reviewedDate: '2026-11-06'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon R8?
     a: >-

@@ -341,7 +341,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
 updatedDate: '2026-10-29T19:45:22.000Z'
 reviewedDate: '2026-10-29T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Which tripod is tallest without a center column for a 6'4" photographer?
     a: >-

@@ -498,7 +498,7 @@ sources:
     url: >-
       https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
 reviewedDate: '2026-11-10'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony a6400?
     a: >-

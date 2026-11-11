@@ -311,7 +311,7 @@ faqs:
       74 inches and has a dual quick release for a DJI RS gimbal. If you move
       around a lot, a lighter kit like the Manfrotto 290 Xtra at about 5.6 lb is
       easier to carry.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
   Best Video Tripod With Fluid Head for Beginners – 3 Picks – Best Tripod

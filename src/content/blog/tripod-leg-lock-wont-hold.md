@@ -129,7 +129,7 @@ illustrations:
 videos:
   - id: Eo1yQIZLVH4
     afterHeading: 2
-author: editorial-team
+author: ned-diary
 related:
   - how-to-clean-tripod-legs-after-the-beach
   - how-to-stop-tripod-shake-in-wind

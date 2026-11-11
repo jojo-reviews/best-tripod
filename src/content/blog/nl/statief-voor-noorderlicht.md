@@ -478,7 +478,7 @@ sources:
     url: >-
       https://www.kevinpepperphotography.com/important-accessories-for-aurora-photography
 reviewedDate: '2026-11-02T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Heb je een statief nodig voor het noorderlicht?
     a: >-

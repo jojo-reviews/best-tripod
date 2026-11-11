@@ -469,7 +469,7 @@ faqs:
     y propietarios de REDUSER usan patas de carbono de viaje así. Una rótula de bola
     de viaje no tiene fricción, así que los paneos salen a saltos; para planos con
     movimiento me quedaría con el TRIBEX SE o un kit con cabeza fluida.
-author: editorial-team
+author: ned-diary
 illustrations:
 - prompt: >-
     A pair of hands lifting a compact cube-shaped cinema camera rig with a cage, small

@@ -414,7 +414,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon R6 Mark II?
     a: >-

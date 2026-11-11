@@ -369,7 +369,7 @@ sources:
     url: >-
       https://www.cloudynights.com/forums/topic/850769-zwo-am5-alternative-tripod/
 reviewedDate: '2026-11-08T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Can the ZWO AM5 go on any tripod?
     a: >-

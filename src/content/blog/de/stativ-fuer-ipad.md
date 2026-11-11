@@ -331,7 +331,7 @@ faqs:
   a: Ja, die meisten iPad-Stativhalterungen passen an ein iPad mini, das 132,6 mm breit ist. Ulanzi U-Pad III und JOBY GripTight PRO greifen die kurze Seite; die KobraTech beginnt bei 15,9 cm und hält das mini nur über die lange Seite, und die große Grifiti-Halterung ist nicht dafür gedacht.
 - q: Ist ein iPad-Ständer mit Schwanenhals oder eine Stativhalterung besser?
   a: Eine Stativhalterung ist für Video ruhiger, weil ein Schwanenhals unter einem großen iPad federn und schwanken kann. Ein Schwanenhals-Ständer wie der elitehood ist besser zum Lesen, für Noten und Videocalls, wo Reichweite und Winkel mehr zählen als ein ruhiges Bild.
-author: editorial-team
+author: ned-diary
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: Die kurze Seite des iPads mit Hülle messen, bevor man eine iPad-Stativhalterung wählt

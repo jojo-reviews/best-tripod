@@ -411,7 +411,7 @@ sources:
     url: >-
       https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Nikon Z8?
     a: >-

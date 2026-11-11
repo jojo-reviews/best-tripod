@@ -342,7 +342,7 @@ faqs:
       doble para un estabilizador DJI RS. Si te mueves mucho, un kit más ligero
       como el Manfrotto 290 Xtra, con unos 2,6 kg (5.6 lb), es más fácil de
       llevar.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
   Trípode de vídeo con cabezal fluido para principiantes – 3 opciones,

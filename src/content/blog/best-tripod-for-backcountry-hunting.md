@@ -409,7 +409,7 @@ faqs:
       A pan head is better for glassing because pan and tilt move separately, so
       a spotting scope does not flop when you loosen it. A ball head frees every
       axis at once; it is lighter and works for binoculars or a camera.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       A hunter in muted earth-tone clothing sits on a rocky alpine slope with

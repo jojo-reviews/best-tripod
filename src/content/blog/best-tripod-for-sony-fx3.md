@@ -422,7 +422,7 @@ faqs:
       The same five picks fit the FX30: it shares the FX3's body size and 1/4-20
       screw limit and weighs slightly less, so the Befree Live covers a handle
       kit and the AD-01 or TP74 covers a caged rig.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a compact black cinema camera forward on a

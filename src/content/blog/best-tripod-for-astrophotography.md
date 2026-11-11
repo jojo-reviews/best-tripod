@@ -423,7 +423,7 @@ sources:
   - title: 'PhotoPills: Best Milky Way photography gear'
     url: 'https://www.photopills.com/articles/best-milky-way-photography-gear'
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Do you need a special tripod for astrophotography?
     a: >-

@@ -331,7 +331,7 @@ faqs:
   a: Sí, la mayoría de soportes de trípode para iPad valen para el iPad mini, que mide 132,6 mm de ancho. El Ulanzi U-Pad III y el JOBY GripTight PRO lo sujetan por el lado corto; el KobraTech empieza en 15,9 cm, así que solo lo sujeta por el lado largo, y el soporte grande de Grifiti no está pensado para él.
 - q: ¿Es mejor un soporte de cuello de cisne o un soporte de trípode para iPad?
   a: Un soporte de trípode es más estable para vídeo, porque un cuello de cisne puede rebotar y balancearse con un iPad grande. Un pie con cuello de cisne como el elitehood es mejor para leer, partituras y videollamadas, donde el alcance y el ángulo importan más que una imagen quieta.
-author: editorial-team
+author: ned-diary
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: Medir el lado corto de un iPad con funda antes de elegir un soporte de trípode para iPad

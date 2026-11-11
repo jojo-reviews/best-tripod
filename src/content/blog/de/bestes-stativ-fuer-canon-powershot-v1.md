@@ -440,7 +440,7 @@ faqs:
       trägt die 426 g schwere V1, aber keines hebt sie über 44 cm; das Peak
       Design Travel Tripod erreicht 130,2 cm (51.25 in), ohne die Mittelsäule
       auszufahren.
-author: editorial-team
+author: ned-diary
 related:
   - de/bestes-tischstativ-fuer-kamera
   - de/bestes-stativ-fuer-canon-r50

@@ -451,7 +451,7 @@ faqs:
       Only when there is nowhere flat to stand it. Bendable legs wrap railings
       and branches, but owners report the joints loosen with age and leveling
       takes longer, while rigid legs open, sit level and stay put.
-author: editorial-team
+author: ned-diary
 videos:
   - id: xaAhR2Lb254
     afterHeading: 2

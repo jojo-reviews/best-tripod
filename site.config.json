@@ -203,19 +203,33 @@
   },
   "authors": [
     {
-      "slug": "editorial-team",
-      "type": "Organization",
-      "name": "Best Tripod Editorial Team",
-      "role": "Research & editorial",
-      "bio": "We research tripods, monopods and heads for photographers and video creators: real working height with and without the center column, load capacity against the gear you actually shoot, packed length for a carry-on, leg-lock speed and Arca-Swiss compatibility. Every guide follows our published research process and editorial policy.",
+      "slug": "ned-diary",
+      "type": "Person",
+      "name": "Ned Diary",
+      "role": "Founder of Best Tripod, Tripod Specialist and Author",
+      "bio": "Ned Diary founded Best Tripod and writes its tripod, head and camera-support guides. He has been shooting since 2017, when a solo road trip across the United States got him started, and has since worked across travel, landscape, video, wildlife and real estate photography.",
       "expertise": [
-        "Camera tripods",
-        "Travel tripods",
-        "Tripod heads and plates",
-        "Video support and fluid heads"
+        "Travel photography",
+        "Landscape photography",
+        "Video",
+        "Wildlife photography",
+        "Real estate photography"
+      ],
+      "gear": [
+        "Sony A7 IV",
+        "Canon EOS R6 Mark II",
+        "Sony G Master II lenses (16-35mm, 24-70mm)",
+        "200-600mm telephoto lens",
+        "DJI Mavic 3 Pro",
+        "DJI RS 3 Pro gimbal",
+        "Carbon fiber tripods",
+        "Ball heads",
+        "Arca-Swiss plates"
       ],
       "image": null,
-      "sameAs": []
+      "sameAs": [
+        "https://www.flickr.com/people/205153348@N06/"
+      ]
     }
   ],
   "indexing": {

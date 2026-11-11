@@ -1141,7 +1141,7 @@ faqs:
       alleen voor lichte sets: de Sirui draagt 4 kg (8.8 lb) en de Leofoto reikt
       tot ongeveer 114 cm (45 in), ruim onder ooghoogte voor de meeste
       volwassenen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Beste reisstatief voor systeemcamera – 15 aanraders, koopgids van Best

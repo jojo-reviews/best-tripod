@@ -531,7 +531,7 @@ sources:
   - title: 'Aryeo: best tripods for real estate photography'
     url: 'https://blog.aryeo.com/best-tripods-for-real-estate-photography/'
 reviewedDate: '2026-10-30T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Hoe hoog moet een statief zijn voor woningfoto's?
     a: >-

@@ -226,7 +226,7 @@ faqs:
       monopod and pan by rotating it. A tilt head makes it easier to aim a long
       lens down at the field, and a ball head helps if you switch to vertical
       framing often.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/monopod-vs-tripod-for-sports-photography.png
 heroAlt: >-
   Monopod vs Tripod for Sports Photography – Which Wins in 2026? – Best Tripod

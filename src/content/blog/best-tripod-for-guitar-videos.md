@@ -454,7 +454,7 @@ sources:
       https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:29:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for filming guitar videos?
     a: >-

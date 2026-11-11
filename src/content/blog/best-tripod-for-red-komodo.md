@@ -442,7 +442,7 @@ faqs:
       and time-lapses, and REDUSER owners use carbon travel legs that way. A
       travel ball head has no drag, so pans look jerky; for moving shots I'd
       take the TRIBEX SE or a fluid head kit.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       A pair of hands lifting a compact cube-shaped cinema camera rig with a

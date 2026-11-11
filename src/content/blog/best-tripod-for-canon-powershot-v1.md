@@ -429,7 +429,7 @@ faqs:
       Only for standing shots or eye-level stills. Every mini here holds the 426
       g V1, but none lifts it past 44 cm; the Peak Design Travel Tripod reaches
       51.25 in without raising the column.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-canon-g7x-mark-iii
   - best-tabletop-camera-tripod

@@ -273,7 +273,7 @@ faqs:
       binoculars says the Aziak rides in a harness without issue, though another
       owner says it occasionally caught. Backwoods Pursuit found a protruding
       post on a different adapter made binoculars harder to pull out.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-spotting-scope
   - video-tripod-bowl-size-explained-75mm-vs-100mm

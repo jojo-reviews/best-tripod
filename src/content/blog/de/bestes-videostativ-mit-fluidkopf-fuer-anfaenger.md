@@ -335,7 +335,7 @@ faqs:
       Dual-Schnellwechselplatte für einen DJI-RS-Gimbal. Wenn du viel unterwegs
       bist, ist ein leichteres Set wie das Manfrotto 290 Xtra mit rund 2,6 kg
       (5.6 lb) einfacher zu tragen.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-video-tripod-with-fluid-head-for-beginners.png
 heroAlt: >-
   Videostativ mit Fluidkopf für Anfänger – Die 3 besten, Kaufberatung von

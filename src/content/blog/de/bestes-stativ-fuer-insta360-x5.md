@@ -420,7 +420,7 @@ faqs:
       Ja, drinnen und bei Windstille: Die X5 ist leicht, und der Stick steht bis
       109 cm (42.9 in) hoch. Draußen kippen die kleinen Beine laut Besitzern bei
       einer Brise, halte ihn also niedriger oder beschwere den Fuß.
-author: editorial-team
+author: ned-diary
 videos:
   - id: 61D103hgv0U
     afterHeading: 3

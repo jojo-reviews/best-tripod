@@ -9,6 +9,8 @@ export async function getStaticPaths() {
   return SITE.authors.map((a) => ({ params: { slug: a.slug }, props: { author: a, posts: posts.filter((p) => p.data.author === a.slug), reviewed: posts.filter((p) => p.data.reviewedBy === a.slug) } }));
 }
 const { author, posts, reviewed } = Astro.props;
+const LABELS: Record<string, string> = { 'flickr.com': 'Flickr', 'instagram.com': 'Instagram', 'linkedin.com': 'LinkedIn' };
+const siteLabel = (u: string) => { const h = new URL(u).hostname.replace('www.', ''); return LABELS[h] ?? h; };
 const jsonLd = [{
   '@context': 'https://schema.org',
   '@type': 'ProfilePage',
@@ -25,19 +27,19 @@ const jsonLd = [{
       </div>
       <p class="dek">{author.bio}</p>
       {(author as any).photo && <figure class="author-photo" style="margin:18px 0;max-width:420px"><img src={(author as any).photo.src} alt={(author as any).photo.alt} width={(author as any).photo.width} height={(author as any).photo.height} loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px" /></figure>}
-      {author.expertise.length > 0 && <p><strong>Covers:</strong> {author.expertise.join(', ')}.</p>}
-      {author.sameAs.length > 0 && <p>{author.type === 'Person' ? 'Elsewhere: ' : 'Find us on: '}{author.sameAs.map((u, i) => <>{i > 0 && ', '}<a href={u} rel="me noopener" target="_blank">{new URL(u).hostname.replace('www.', '')}</a></>)}</p>}
+      {author.expertise.length > 0 && <p><strong>{author.type === 'Person' ? 'Focus areas' : 'Covers'}:</strong> {author.expertise.join(', ')}.</p>}
+      {((author as any).gear ?? []).length > 0 && <p><strong>Gear:</strong> {(author as any).gear.join(', ')}.</p>}
+      {author.sameAs.length > 0 && <p>{author.type === 'Person' ? 'Follow: ' : 'Find us on: '}{author.sameAs.map((u, i) => <>{i > 0 && ', '}<a href={u} rel="me noopener" target="_blank">{siteLabel(u)}</a></>)}</p>}
       <p>Every guide follows our <a href="/how-we-research/">research process</a> and <a href="/editorial-policy/">editorial policy</a>.</p>
     </header>
-    {author.type === 'Person' ? (
+    <section class="section">
+      <div class="section-head"><h2>Guides by {author.name} ({posts.length})</h2></div>
+      {posts.length ? <div class="posts">{posts.map((p) => <PostItem post={p} />)}</div> : <p class="empty">No guides yet.</p>}
+    </section>
+    {reviewed.length > 0 && (
       <section class="section">
         <div class="section-head"><h2>Guides reviewed by {author.name}</h2></div>
-        {reviewed.length ? <div class="posts">{reviewed.map((p) => <PostItem post={p} />)}</div> : <p class="empty">Reviews start soon.</p>}
-      </section>
-    ) : (
-      <section class="section">
-        <div class="section-head"><h2>Guides by {author.name}</h2></div>
-        {posts.length ? <div class="posts">{posts.map((p) => <PostItem post={p} />)}</div> : <p class="empty">No guides yet.</p>}
+        <div class="posts">{reviewed.map((p) => <PostItem post={p} />)}</div>
       </section>
     )}
   </div>

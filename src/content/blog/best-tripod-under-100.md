@@ -412,7 +412,7 @@ sources:
       https://forum.cameraegg.org/sony-forum/which-compact-tripod-works-best-for-sony-vlogging-setups-55355/
 reviewedDate: '2026-11-04'
 updatedDate: '2026-11-04T17:56:49.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod under 100 dollars?
     a: >-

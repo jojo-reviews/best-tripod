@@ -485,7 +485,7 @@ faqs:
       enroscan en barandillas y ramas, pero los usuarios cuentan que las
       articulaciones se aflojan con los años y nivelar lleva más tiempo,
       mientras que las patas rígidas se abren, quedan niveladas y no se mueven.
-author: editorial-team
+author: ned-diary
 videos:
   - id: xaAhR2Lb254
     afterHeading: 2

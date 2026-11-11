@@ -423,7 +423,7 @@ faqs:
       getrennt bewegen und das Spektiv beim Lösen nicht wegkippt. Ein
       Kugelkopf gibt alle Achsen gleichzeitig frei; er ist leichter und passt
       für ein Fernglas oder eine Kamera.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       A hunter in muted earth-tone clothing sits on a rocky alpine slope with

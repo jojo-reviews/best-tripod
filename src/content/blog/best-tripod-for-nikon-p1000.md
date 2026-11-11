@@ -415,7 +415,7 @@ sources:
     url: >-
       https://www.reddit.com/r/AskAstrophotography/comments/1hxqg6i/tripod_for_p1000/
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Nikon P1000?
     a: >-

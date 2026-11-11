@@ -498,7 +498,7 @@ sources:
     url: >-
       https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/
 reviewedDate: '2026-11-01T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief om vanaf je telefoon te livestreamen?
     a: >-

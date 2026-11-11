@@ -360,7 +360,7 @@ sources:
 - title: 'r/AskPhotography: Tripod with center column and 3-way geared head'
   url: https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Wat is het beste statief voor portretfotografie?
   a: 'Voor de meeste studio''s de Feisol CT-3442 Tournament Rapid met de optionele

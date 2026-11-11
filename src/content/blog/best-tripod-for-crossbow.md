@@ -401,7 +401,7 @@ faqs:
       Yes, you can leave a crossbow in a clamp tripod such as the BOG DeathGrip,
       which holds it hands-free. A yoke tripod like the Primos or Vanguard only
       cradles the forend, so keep a hand on the crossbow.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Inside a dim camouflage ground blind at dawn, a hunter's gloved hands

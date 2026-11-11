@@ -402,7 +402,7 @@ sources:
     url: >-
       https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/
 reviewedDate: '2026-11-06T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches Ringlicht mit Stativ ist das beste für das iPhone?
     a: >-

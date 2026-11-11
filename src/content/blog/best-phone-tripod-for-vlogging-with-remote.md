@@ -342,7 +342,7 @@ faqs:
       A selfie stick tripod is better for standing-height talking shots and
       handheld walk-and-talk clips. A flexible tripod is better for desk setups,
       tables and wrapping around rails, and it packs smaller.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
   Best Phone Tripod for Vlogging With Remote – 3 Picks + Pairing Tips – Best

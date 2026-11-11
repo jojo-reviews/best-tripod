@@ -406,7 +406,7 @@ sources:
   - title: 'Zoom: Manfrotto PIXI tripod for Handy recorders'
     url: 'https://zoomcorp.com/en/de/accessories/mounts-stands-and-brackets/PIXI/'
 reviewedDate: '2026-11-07'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Haben Zoom Recorder ein Stativgewinde?
     a: >-

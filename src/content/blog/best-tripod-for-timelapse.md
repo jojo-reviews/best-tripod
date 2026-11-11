@@ -557,7 +557,7 @@ sources:
       https://www.dpreview.com/forums/threads/what-kind-of-weight-do-you-use-on-your-tripod-hook.4397760/
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:30:42.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for timelapse?
     a: >-

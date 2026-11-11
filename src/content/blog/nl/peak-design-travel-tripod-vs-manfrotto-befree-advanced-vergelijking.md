@@ -339,7 +339,7 @@ faqs:
       balhoofd neemt Peak Design Standard Plates en de meeste Arca-platen aan,
       en de 200PL-PRO-plaat van het Befree past in Arca-klemmen en in Manfrotto
       RC2.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/peak-design-travel-tripod-vs-manfrotto-befree-advanced.png
 heroAlt: >-
   Peak Design Travel Tripod vs Manfrotto Befree Advanced – vergelijking

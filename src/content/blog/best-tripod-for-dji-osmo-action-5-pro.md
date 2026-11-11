@@ -404,7 +404,7 @@ faqs:
       Yes, with an adapter. Tripods with GoPro-style fingers or a 1/4" screw
       need a DJI quick-release adapter on the camera side; the 146 g camera is
       light enough for any of them.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-insta360-x5
   - best-tripod-for-ricoh-gr-iii

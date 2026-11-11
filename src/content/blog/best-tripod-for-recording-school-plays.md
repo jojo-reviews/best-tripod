@@ -393,7 +393,7 @@ sources:
       https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:31:03.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for recording a school play?
     a: >-

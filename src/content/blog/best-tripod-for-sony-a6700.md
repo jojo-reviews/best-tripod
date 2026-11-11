@@ -477,7 +477,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony a6700?
     a: >-

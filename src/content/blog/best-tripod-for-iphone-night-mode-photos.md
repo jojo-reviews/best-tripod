@@ -332,7 +332,7 @@ faqs:
       Yes. Add a smartphone clamp with a 1/4"-20 socket and any camera tripod
       will hold an iPhone. Keep the legs short and the center column down, since
       a tall setup catches more wind during a long Night mode exposure.
-author: editorial-team
+author: ned-diary
 related:
   - best-tripod-for-iphone-travel
   - best-iphone-tripod-that-follows-you

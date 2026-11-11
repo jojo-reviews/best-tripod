@@ -458,7 +458,7 @@ faqs:
       November 2025 because its lithium-ion battery can overheat and catch fire.
       Owners are told to stop using it and claim a refund or replacement from
       Belkin.
-author: editorial-team
+author: ned-diary
 videos:
   - id: xpGQbxokbhY
     afterHeading: 5

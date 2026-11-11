@@ -381,7 +381,7 @@ faqs:
   a: Nur für Fotos auf Augenhöhe, Langzeitbelichtungen und Intros im Stehen. Die Ministative
     erreichen 13,5 bis 26 cm; das Peak Design Travel Tripod steht mit eingefahrener
     Säule 130,2 cm (51.25 in) hoch und packt trotzdem auf 39,4 cm (15.5 in).
-author: editorial-team
+author: ned-diary
 related:
 - de/bestes-stativ-fuer-canon-powershot-v1
 - de/bestes-tischstativ-fuer-kamera

@@ -227,7 +227,7 @@ faqs:
       It is worth it if you shoot long lenses, video or dim forest light and
       want to keep moving. For long exposures, star photos or self-timer group
       shots, carry a light tripod instead.
-author: editorial-team
+author: ned-diary
 videos:
   - id: UH8xWAvsOGQ
     afterHeading: 3

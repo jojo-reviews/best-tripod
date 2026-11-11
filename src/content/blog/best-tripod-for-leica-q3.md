@@ -414,7 +414,7 @@ sources:
   - title: 'ErickPHOTO: best travel tripods for Leica'
     url: 'https://erickoke.wordpress.com/2022/01/27/travel-tripods-for-leica/'
 reviewedDate: '2026-11-02'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Leica Q3?
     a: >-

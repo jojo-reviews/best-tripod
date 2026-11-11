@@ -421,7 +421,7 @@ faqs:
       bewegen, zodat een spotting scope niet wegzakt als je hem losdraait. Een
       balhoofd maakt alle assen tegelijk los; het is lichter en werkt voor een
       verrekijker of een camera.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       A hunter in muted earth-tone clothing sits on a rocky alpine slope with

@@ -348,7 +348,7 @@ faqs:
       rápida tipo Arca. Las tiendas la describen como estándar, pero un usuario
       dice que su tamaño no lo es, así que comprueba que encaja con tus pinzas
       antes de fiarte.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
   Mejor mini trípode para videollamadas – 3 trípodes de mesa – guía de

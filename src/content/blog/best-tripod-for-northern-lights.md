@@ -462,7 +462,7 @@ sources:
     url: >-
       https://www.kevinpepperphotography.com/important-accessories-for-aurora-photography
 reviewedDate: '2026-11-05T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Do you need a tripod for the northern lights?
     a: >-

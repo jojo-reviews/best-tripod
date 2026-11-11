@@ -109,7 +109,7 @@ illustrations:
   - prompt: "Gloved hands wrapping insulating tape around the upper legs of a metal tripod at a snowy trailhead, breath vapor in the cold air, overcast winter light, close-up from the side, face not shown, a backpack and snowshoes resting in the background."
     alt: "Gloved hands wrapping tape around aluminum tripod legs at a snowy trailhead"
     afterHeading: 5
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/carbon-fiber-vs-aluminum-tripod-for-hiking.png
 heroAlt: >-
   Carbon Fiber vs Aluminum Tripod for Hiking – Pick by Trip – Best Tripod

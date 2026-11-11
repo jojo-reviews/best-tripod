@@ -368,7 +368,7 @@ faqs:
       kantelt, al verschuift het gewicht daardoor uit het midden. Een Arca-Swiss
       L-bracket op een kop met Arca-klem houdt de camera in plaats daarvan
       gecentreerd boven het statief.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
   Balhoofd of 3-weg kop voor landschapsfotografie – 5 keuzes, vergelijking van

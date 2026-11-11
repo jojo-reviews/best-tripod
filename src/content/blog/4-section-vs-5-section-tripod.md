@@ -116,7 +116,7 @@ illustrations:
   - prompt: "Hands in a light hiking jacket loosening the twist locks on one leg of a compact travel tripod, the leg showing five telescoping sections, a mountain trail at sunrise behind, warm side light, close three-quarter angle, face not visible."
     alt: "Hands loosening the twist locks on a five-section tripod leg on a mountain trail"
     afterHeading: 4
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/4-section-vs-5-section-tripod.png
 heroAlt: >-
   4-Section vs 5-Section Tripod – Stability vs Packed Length – Best Tripod

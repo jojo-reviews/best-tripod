@@ -322,7 +322,7 @@ faqs:
       Platte mit Anschlagkante oder eine zweite Schraube an Cages und
       Stativschellen helfen, und festes Anziehen vor jedem Einsatz bringt mehr,
       als die meisten erwarten.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: >-
   Was ist eine Arca Swiss Platte und brauche ich eine? – Ratgeber von Best

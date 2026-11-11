@@ -368,7 +368,7 @@ faqs:
       kippt, wodurch das Gewicht allerdings aus der Mitte wandert. Ein
       Arca-Swiss-L-Winkel auf einem Kopf mit Arca-Klemme hält die Kamera dagegen
       mittig über dem Stativ.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/ball-head-vs-pan-tilt-head-for-landscape-photography.png
 heroAlt: >-
   Kugelkopf oder 3-Wege-Neiger für Landschaftsfotografie – 5 Köpfe im

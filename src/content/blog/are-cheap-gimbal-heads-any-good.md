@@ -227,7 +227,7 @@ faqs:
       Backcountry Journeys and B&H eXplora all recommend, and the Sirui PH-20 is
       the mid-priced step up that Shutter Muse and Backcountry Journeys
       recommend.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/are-cheap-gimbal-heads-any-good.png
 heroAlt: >-
   Are Cheap Gimbal Heads Any Good? The Trade-Offs and 2 Picks – Best Tripod

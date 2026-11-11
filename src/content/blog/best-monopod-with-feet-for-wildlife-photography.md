@@ -302,7 +302,7 @@ faqs:
       binoculars and keep the base from skidding on rock. The trade-off is extra
       weight, feet that collect dirt, and stiffer panning on some fixed tri-feet
       designs.
-author: editorial-team
+author: ned-diary
 related:
   - best-monopod-for-hiking
   - best-tripod-for-tall-photographers-over-6-feet

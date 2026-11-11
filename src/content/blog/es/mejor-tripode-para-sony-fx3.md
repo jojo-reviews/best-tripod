@@ -459,7 +459,7 @@ faqs:
       Befree Live (40 cm) y el Peak Design (39 cm) caben; el AD-01, el TP74 y el
       Sachtler miden de 86 a 91 cm plegados y van facturados. En el control de
       seguridad deciden si el trípode pasa.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a compact black cinema camera forward on a

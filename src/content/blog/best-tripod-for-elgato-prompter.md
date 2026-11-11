@@ -394,7 +394,7 @@ sources:
   - title: 'Think Media: The best tripods for video in 2026'
     url: 'https://www.youtube.com/watch?v=4xQznj8WZ4U'
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What tripod do I need for the Elgato Prompter XL?
     a: >-

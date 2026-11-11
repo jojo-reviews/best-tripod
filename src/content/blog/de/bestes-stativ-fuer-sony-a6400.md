@@ -440,7 +440,7 @@ sources:
 - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
   url: https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
 reviewedDate: '2026-11-10'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Welches ist das beste Stativ für die Sony a6400?
   a: 'Das Manfrotto Befree Advanced ist für die meisten Besitzer einer Sony a6400

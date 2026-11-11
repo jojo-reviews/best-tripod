@@ -313,7 +313,7 @@ faqs:
       Fernglas hebst, und die Basis rutscht auf Fels nicht weg. Der Preis dafür
       sind mehr Gewicht, Füße, die Schmutz sammeln, und bei manchen festen
       Dreifuß-Konstruktionen ein schwergängigeres Schwenken.
-author: editorial-team
+author: ned-diary
 related:
   - de/stativ-fuer-grosse-menschen
   - de/bestes-reisestativ-fuer-spiegellose-kamera

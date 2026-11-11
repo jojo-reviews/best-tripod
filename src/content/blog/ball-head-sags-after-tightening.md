@@ -135,7 +135,7 @@ videos:
     afterHeading: 2
   - id: eR_a8I3Zd_I
     afterHeading: 6
-author: editorial-team
+author: ned-diary
 related:
   - ball-head-tripod
   - ball-head-vs-pan-tilt-head-for-landscape-photography

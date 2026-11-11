@@ -138,7 +138,7 @@ illustrations:
 videos:
   - id: 89nPifVW9RY
     afterHeading: 3
-author: editorial-team
+author: ned-diary
 related:
   - best-video-tripod-with-fluid-head-for-beginners
   - tripod-for-wildlife-photography

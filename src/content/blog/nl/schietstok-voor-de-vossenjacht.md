@@ -409,7 +409,7 @@ sources:
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
 reviewedDate: '2026-11-08T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is de beste schietstok voor de vossenjacht in het donker?
     a: >-

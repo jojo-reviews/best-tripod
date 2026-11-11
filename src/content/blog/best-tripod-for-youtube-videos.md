@@ -276,7 +276,7 @@ sources:
   - title: 'TubeBuddy: The Best Tripods for Video Creators'
     url: 'https://www.tubebuddy.com/blog/best-tripods-for-creators/'
 reviewedDate: '2026-11-02T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Which tripod is best for making YouTube videos with a camera?
     a: >-

@@ -331,7 +331,7 @@ faqs:
   a: Ja, de meeste iPad-statiefhouders passen op een iPad mini, die 132,6 mm breed is. De Ulanzi U-Pad III en de JOBY GripTight PRO pakken de korte zijde; de KobraTech begint bij 15,9 cm en houdt de mini dus alleen over de lange zijde vast, en de grote Grifiti-houder is er niet voor bedoeld.
 - q: Is een iPad-standaard met zwanenhals of een statiefhouder beter?
   a: Een statiefhouder is rustiger voor video, omdat een zwanenhals kan veren en zwaaien onder een grote iPad. Een standaard met zwanenhals zoals de elitehood is beter voor lezen, bladmuziek en videobellen, waar bereik en hoek meer tellen dan een stilstaand beeld.
-author: editorial-team
+author: ned-diary
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: De korte zijde van een iPad met hoes opmeten voordat je een iPad-statiefhouder kiest

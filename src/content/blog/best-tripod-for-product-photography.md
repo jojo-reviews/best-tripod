@@ -404,7 +404,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/
 reviewedDate: '2026-11-05T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for product photography?
     a: >-

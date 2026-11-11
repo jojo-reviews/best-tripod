@@ -459,7 +459,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a medium format camera?
     a: >-

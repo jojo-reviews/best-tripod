@@ -393,7 +393,7 @@ sources:
 - title: 'Scott Wyden Kivowitz: long exposure photography choices, tripod'
   url: https://scottwyden.com/long-exposure-photography-choices-tripod/
 reviewedDate: '2026-11-06T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Hilft ein schwereres Stativ bei Langzeitbelichtungen?
   a: Ja, ein schwereres Stativ hilft bei Langzeitbelichtungen, weil Wind und Verschlussvibrationen

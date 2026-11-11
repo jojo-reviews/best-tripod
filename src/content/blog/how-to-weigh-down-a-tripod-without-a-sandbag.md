@@ -147,7 +147,7 @@ illustrations:
 videos:
   - id: 9Cb0rVXWcRw
     afterHeading: 2
-author: editorial-team
+author: ned-diary
 related:
   - how-to-stop-tripod-shake-in-wind
   - landscape-photography-tripod

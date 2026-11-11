@@ -403,7 +403,7 @@ faqs:
       No for the two big ones: the FAA bans batteries over 160 Wh on passenger
       aircraft, which rules out the 166 Wh Saunyoto and the 189 Wh ROVEDGE. The
       108 Wh Daqa needs airline approval as carry-on. Plain tripods fly freely.
-author: editorial-team
+author: ned-diary
 videos:
   - id: L_lt9aX3JA4
     afterHeading: 5

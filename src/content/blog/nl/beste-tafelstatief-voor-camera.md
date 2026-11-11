@@ -483,7 +483,7 @@ faqs:
       grijpen leuningen en takken, maar eigenaren melden dat de scharnieren met
       de jaren losser worden en waterpas zetten langer duurt, terwijl rigide
       poten openklappen, recht staan en blijven staan.
-author: editorial-team
+author: ned-diary
 videos:
   - id: xaAhR2Lb254
     afterHeading: 2

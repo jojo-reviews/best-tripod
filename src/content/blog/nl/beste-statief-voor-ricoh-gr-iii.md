@@ -439,7 +439,7 @@ sources:
     url: >-
       https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/
 reviewedDate: '2026-11-03'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Ricoh GR III?
     a: >-

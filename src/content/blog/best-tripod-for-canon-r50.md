@@ -408,7 +408,7 @@ sources:
   - title: 'r/canon: Canon R50 accessories'
     url: 'https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/'
 reviewedDate: '2026-11-05'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon R50?
     a: >-

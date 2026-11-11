@@ -348,7 +348,7 @@ faqs:
   a: Ja, een tracking-gimbal kan op een gewoon statief voor opnames op ooghoogte. ProVideo Coalition laat de Osmo Mobile 8 op een normaal statief zien, en DJI noemt voor de Osmo Mobile 7-serie een 1/4 inch-schroefgat, dezelfde 1/4"-20-schroefdraad als op een statiefplaat; zet de poten wijd, want de motoren verplaatsen het gewicht.
 - q: Is de Belkin Auto-Tracking Stand Pro nog veilig om te kopen?
   a: Nee, de Belkin Auto-Tracking Stand Pro (model MMA008) is op 26 november 2025 teruggeroepen, omdat de lithium-ionaccu oververhit kan raken en vlam kan vatten. Eigenaren moeten hem niet meer gebruiken en bij Belkin om terugbetaling of vervanging vragen.
-author: editorial-team
+author: ned-diary
 videos:
 - id: xpGQbxokbhY
   afterHeading: 5

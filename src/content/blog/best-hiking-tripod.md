@@ -472,7 +472,7 @@ sources:
       https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/
 updatedDate: '2026-10-29T12:48:31.000Z'
 reviewedDate: '2026-11-04'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best hiking tripod?
     a: >-

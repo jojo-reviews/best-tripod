@@ -67,7 +67,7 @@ const blog = defineCollection({
     products: z.array(product).default([]),
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     related: z.array(z.string()).default([]),
-    author: z.string().default('editorial-team'),
+    author: z.string().default('ned-diary'),
     // Author slug of a named person who actually reviewed this guide (set only after they did).
     reviewedBy: z.string().optional(),
     reviewedDate: z.coerce.date().optional(),

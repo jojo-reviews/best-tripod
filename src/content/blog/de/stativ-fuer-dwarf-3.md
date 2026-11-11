@@ -440,7 +440,7 @@ sources:
   - title: 'Stargazers Lounge: Seestar and Dwarf tripods'
     url: https://stargazerslounge.com/topic/430500-seestardwarf-tripods/
 reviewedDate: '2026-11-08'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Welches Gewinde hat der DWARF 3 für das Stativ?
     a: >-

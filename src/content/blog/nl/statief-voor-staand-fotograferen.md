@@ -342,7 +342,7 @@ faqs:
     a: Voor staande opnames met een iPhone heb je een telefoonhouder nodig die naar staand draait. De Peak Design Travel Tripod heeft een ingebouwde telefoonhouder, en elk Arca-model hier kan een telefoonklem aannemen; voor video met alleen de telefoon zijn er onze gidsen over telefoonstatieven.
   - q: Waarom zakt mijn camera door als hij staand op het statief staat?
     a: Een camera zakt in staand formaat door omdat zijn gewicht uit het midden in de sleuf zit en het balhoofd zijwaarts belast. Draai de kogel steviger vast, gebruik een kop met een draagvermogen ruim boven camera en lens, of stap over op een L-bracket die het gewicht boven de kolom houdt.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: Close-up of two hands loosening the knob of a black travel ball head on a tripod and tipping a mirrorless camera sideways into the head's side slot so the camera stands in portrait orientation, outdoor overlook at golden hour, three-quarter angle, soft warm light, shallow depth of field
     alt: Handen kantelen een camera in de sleuf van het balhoofd om staand te fotograferen op een statief

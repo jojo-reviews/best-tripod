@@ -418,7 +418,7 @@ faqs:
       Ja, binnen en bij windstil weer: de X5 is licht en de stick staat tot 109
       cm (42.9 in) hoog. Buiten vallen de kleine poten volgens bezitters om in
       een briesje, dus houd hem lager of verzwaar de voet.
-author: editorial-team
+author: ned-diary
 videos:
   - id: 61D103hgv0U
     afterHeading: 3

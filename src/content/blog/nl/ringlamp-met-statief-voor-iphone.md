@@ -405,7 +405,7 @@ sources:
     url: >-
       https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/
 reviewedDate: '2026-11-06T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Wat is de beste ringlamp met statief voor iPhone?
     a: >-

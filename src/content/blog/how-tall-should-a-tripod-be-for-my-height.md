@@ -229,7 +229,7 @@ faqs:
       screen lets you work below eye level comfortably. Eye level matters most
       if you use a viewfinder for long sessions, since a short tripod means
       hunching over every frame.
-author: editorial-team
+author: ned-diary
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: How Tall Should a Tripod Be for My Height? Chart and Math – Best Tripod guide
 related:

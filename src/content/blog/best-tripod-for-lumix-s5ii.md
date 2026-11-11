@@ -440,7 +440,7 @@ sources:
   - title: 'Photography Stack Exchange: how to stabilize a tripod'
     url: 'https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod'
 reviewedDate: '2026-11-07'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Lumix S5II?
     a: >-

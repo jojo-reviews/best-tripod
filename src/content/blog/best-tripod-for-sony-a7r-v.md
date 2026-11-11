@@ -453,7 +453,7 @@ sources:
       https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:30:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony A7R V?
     a: >-

@@ -397,7 +397,7 @@ sources:
       https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
 reviewedDate: '2026-11-06'
 updatedDate: '2026-11-06T15:29:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: What is the best tripod for headshots?
     a: >-

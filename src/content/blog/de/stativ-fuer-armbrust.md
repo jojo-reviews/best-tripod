@@ -415,7 +415,7 @@ faqs:
       denn es hält sie freihändig. Ein Gabelstativ wie das von Primos oder
       Vanguard legt nur den Vorderschaft auf, deshalb bleibt eine Hand an der
       Armbrust.
-author: editorial-team
+author: ned-diary
 illustrations:
   - prompt: >-
       Inside a dim camouflage ground blind at dawn, a hunter's gloved hands

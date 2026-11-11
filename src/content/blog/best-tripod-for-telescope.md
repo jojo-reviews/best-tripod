@@ -332,7 +332,7 @@ sources:
     url: >-
       https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/
 reviewedDate: '2026-11-02T00:00:00.000Z'
-author: editorial-team
+author: ned-diary
 faqs:
   - q: Can I use a camera tripod for a telescope?
     a: >-

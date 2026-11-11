@@ -359,7 +359,7 @@ sources:
 - title: 'r/canon: Best tripod under $100 for a Canon M50'
   url: https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/
 reviewedDate: '2026-11-10'
-author: editorial-team
+author: ned-diary
 faqs:
 - q: Welches ist das beste Stativ für die Canon M50?
   a: 'Für die meisten M50-Besitzer würde ich das Vanguard VEO 3GO 235AB nehmen: Es
