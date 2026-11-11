@@ -497,6 +497,8 @@ heroImage: /images/featured/best-iphone-tripod-that-follows-you.png
 heroAlt: >-
   Best iPhone Tripod That Follows You – 5 Tracking Gimbals Compared – Best
   Tripod buying guide
+related:
+  - best-tripod-for-iphone-travel
 ---
 
 The best iPhone tripod that follows you is a tracking gimbal with a built-in tripod, and for most iPhone owners my pick is the [Insta360 Flow 2 Pro](amzn:Insta360+Flow+2+Pro+AI+tracking+phone+gimbal). It tracks through Apple DockKit, so the Camera app and over 200 iOS apps follow you, and it pans a full 360°. The [DJI Osmo Mobile 8](amzn:DJI+Osmo+Mobile+8+gimbal+stabilizer) is the close alternative with a tracking module in the box. I compared five picks from maker specs and owner reports; I did not test them myself. If you only need a static stick tripod and a remote, my [phone tripods for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) cost less.

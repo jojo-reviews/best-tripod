@@ -1,0 +1,153 @@
+{
+  "keyword": "best tripod for iphone travel",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 4,
+      "relevance": 1,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 4,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 4,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Selfie stick",
+      "type": "/business/product_category",
+      "pages": 3,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Selfie_stick",
+      "wikidata": "Q18387942",
+      "kgmid": "/m/012c5w0g"
+    },
+    {
+      "entity": "Laurence",
+      "type": "Person",
+      "pages": 2,
+      "relevance": 0.67,
+      "wiki": ""
+    },
+    {
+      "entity": "IPhone",
+      "type": "Device",
+      "pages": 2,
+      "relevance": 0.59,
+      "wiki": "http://en.wikipedia.org/wiki/IPhone",
+      "wikidata": "Q2766",
+      "kgmid": "/m/027lnzs"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "wikidata": "Q22645",
+      "kgmid": "/m/0169zh"
+    },
+    {
+      "entity": "MagSafe (wireless charger)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/MagSafe_(wireless_charger)",
+      "wikidata": "Q100338267"
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 2,
+      "relevance": 0.47,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "wikidata": "Q1051922",
+      "kgmid": "/m/034z2h"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "JOBY",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": ""
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Ulanzi",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "",
+      "wikidata": "Q126597929"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "wikidata": "Q5843",
+      "kgmid": "/m/01940j"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "wikidata": "Q208826",
+      "kgmid": "/m/01jtb2"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "wikidata": "Q209918",
+      "kgmid": "/m/05p4z41"
+    }
+  ]
+}

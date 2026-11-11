@@ -1,0 +1,710 @@
+{
+  "centralEntity": "travel tripod for iPhone",
+  "entityVariants": [
+    "tripod for iPhone travel",
+    "iPhone travel tripod",
+    "iPhone tripod",
+    "phone tripod for travel",
+    "travel tripod for phone",
+    "portable tripod for iPhone",
+    "mini tripod for iPhone",
+    "compact travel tripod for iPhone"
+  ],
+  "entities": [
+    {
+      "name": "Tripod",
+      "textrazorName": "Tripod",
+      "type": "Thing",
+      "relation": "shared by top results",
+      "salience": 1,
+      "pages": 4
+    },
+    {
+      "name": "photography tripod",
+      "textrazorName": "Tripod (photography)",
+      "type": "Thing",
+      "relation": "shared by top results",
+      "salience": 0.91,
+      "pages": 4
+    },
+    {
+      "name": "Photography",
+      "textrazorName": "Photography",
+      "type": "/broadcast/genre",
+      "relation": "shared by top results",
+      "salience": 0.42,
+      "pages": 4
+    },
+    {
+      "name": "Camera",
+      "textrazorName": "Camera",
+      "type": "/fictional_universe/character_species",
+      "relation": "shared by top results",
+      "salience": 0.4,
+      "pages": 4
+    },
+    {
+      "name": "Selfie stick",
+      "textrazorName": "Selfie stick",
+      "type": "/business/product_category",
+      "relation": "shared by top results",
+      "salience": 0.4,
+      "pages": 3
+    },
+    {
+      "name": "iPhone",
+      "textrazorName": "IPhone",
+      "type": "Device",
+      "relation": "shared by top results",
+      "salience": 0.59,
+      "pages": 2
+    },
+    {
+      "name": "Smartphone",
+      "textrazorName": "Smartphone",
+      "type": "/book/book_subject",
+      "relation": "shared by top results",
+      "salience": 0.56,
+      "pages": 2
+    },
+    {
+      "name": "MagSafe",
+      "textrazorName": "MagSafe (wireless charger)",
+      "type": "Thing",
+      "relation": "shared by top results",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
+      "name": "lightweight",
+      "textrazorName": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "relation": "shared by top results",
+      "salience": 0.47,
+      "pages": 2
+    },
+    {
+      "name": "Manfrotto",
+      "textrazorName": "Manfrotto",
+      "type": "Agent",
+      "relation": "shared by top results",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
+      "name": "JOBY",
+      "textrazorName": "JOBY",
+      "type": "Company",
+      "relation": "shared by top results",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
+      "name": "carbon fiber",
+      "textrazorName": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "relation": "shared by top results",
+      "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "Ulanzi",
+      "textrazorName": "Ulanzi",
+      "type": "Company",
+      "relation": "shared by top results",
+      "salience": 0.42,
+      "pages": 2
+    },
+    {
+      "name": "backpack",
+      "textrazorName": "Backpack",
+      "type": "/business/product_category",
+      "relation": "shared by top results",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "height",
+      "textrazorName": "Height",
+      "type": "/people/measured_body_part",
+      "relation": "shared by top results",
+      "salience": 0.38,
+      "pages": 2
+    },
+    {
+      "name": "mirrorless camera",
+      "textrazorName": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "relation": "shared by top results",
+      "salience": 0.3,
+      "pages": 2
+    },
+    {
+      "name": "Peak Design",
+      "type": "Organization",
+      "relation": "maker of two picks",
+      "salience": 0.45
+    },
+    {
+      "name": "TSA",
+      "type": "Organization",
+      "relation": "Transportation Security Administration, carry-on rule for tripods",
+      "salience": 0.3
+    },
+    {
+      "name": "iPhone 18 Pro Max",
+      "type": "Device",
+      "relation": "widest current iPhone, sets clamp fit",
+      "salience": 0.35
+    }
+  ],
+  "attributes": [
+    "folded length (tripod)",
+    "weight (tripod)",
+    "max height with phone (tripod)",
+    "phone clamp width range (mount)",
+    "MagSafe vs spring clamp (mount)",
+    "portrait and landscape orientation (mount)",
+    "leg type: fixed, telescoping, pop-out (tripod)",
+    "load rating vs phone weight (tripod)",
+    "carry-on fit (tripod)"
+  ],
+  "ngrams": [
+    "travel tripod",
+    "phone tripod",
+    "selfie stick",
+    "mini tripod",
+    "phone clamp",
+    "eye level",
+    "carry-on",
+    "MagSafe",
+    "ball head",
+    "folded length",
+    "full height",
+    "tabletop tripod"
+  ],
+  "skipgrams": [
+    "phone…clamp",
+    "tripod…carry-on",
+    "eye…level",
+    "selfie…stick tripod",
+    "iPhone…case",
+    "folds…inches"
+  ],
+  "nlpTerms": [
+    "self-timer",
+    "Bluetooth remote",
+    "center column",
+    "cold shoe",
+    "1/4-20 thread",
+    "spring-loaded clamp",
+    "magnetic mount",
+    "water bottle pocket",
+    "personal item",
+    "long exposure",
+    "Night mode",
+    "wind"
+  ],
+  "googleModifiers": [
+    "best tripod for iphone solo travel",
+    "best travel tripod for iphone 17 pro",
+    "best travel tripod for iphone 17 pro max",
+    "best lightweight travel tripod for iphone",
+    "best compact travel tripod for iphone",
+    "best mini travel tripod for iphone",
+    "best tripod for iphone travel reddit",
+    "best small travel tripod for iphone"
+  ],
+  "googleModifiersUsed": [
+    "best tripod for iphone solo travel (H2 on photos of yourself + FAQ)",
+    "best travel tripod for iphone 17 pro max (clamp width analysis, checked against the current iPhone 18 Pro Max, same 78.0 mm width)",
+    "best lightweight / compact / mini / small travel tripod for iphone (weight and folded-length table)",
+    "reddit (owner threads quoted as plain text)"
+  ],
+  "amazonFilters": {
+    "Max Height": [
+      "Up to 39 in",
+      "40 to 49 in",
+      "50 to 64 in",
+      "65 in & above"
+    ],
+    "Min Height": [
+      "Up to 7.9 in",
+      "8.0 to 13.9 in",
+      "14.0 to 19.9 in",
+      "20.0 in & above"
+    ],
+    "Special Features": [
+      "Lightweight",
+      "Foldable",
+      "Telescopic",
+      "Includes Cover",
+      "Magnetic",
+      "One-Hand Operation",
+      "Pan-handle",
+      "Quick-Release",
+      "Remote Control",
+      "Shock Resistant",
+      "Slip Resistant",
+      "Spirit Level",
+      "Waterproof"
+    ],
+    "Head Type": [
+      "Ball Heads",
+      "Gimbal Heads",
+      "Pan Heads",
+      "Pistol Grip Heads"
+    ],
+    "Brands": [
+      "ULANZI",
+      "UBeesize",
+      "SMALLRIG",
+      "NEEWER",
+      "K&F CONCEPT",
+      "Manfrotto",
+      "Sirui"
+    ],
+    "Compatibility": [
+      "Binoculars",
+      "Camcorder",
+      "Camera",
+      "Microscope",
+      "Projector",
+      "Smartphone",
+      "Tablet",
+      "Teleprompter",
+      "Telescope"
+    ]
+  },
+  "amazonFiltersNote": "Read from amazon.com/s?k=best+tripod+for+iphone+travel on 2026-11-11. Used: Max Height bands (table column), Magnetic vs clamp (MagSafe section), Remote Control (solo travel section), Ball Heads (all five picks). Skipped price, delivery, deals and color chips.",
+  "questions": [
+    "What is the best tripod for iPhone travel?",
+    "Can I take a tripod in my carry-on?",
+    "Will a phone tripod clamp fit an iPhone Pro Max in a case?",
+    "Is MagSafe secure enough on a travel tripod?",
+    "How tall should a phone tripod be for photos of yourself?",
+    "Do I need a remote for a travel phone tripod?",
+    "Can I use a camera travel tripod with an iPhone?"
+  ],
+  "answerTerms": {
+    "What is the best tripod for iPhone travel?": [
+      "selfie stick tripod",
+      "folded length",
+      "eye level",
+      "phone clamp"
+    ],
+    "Can I take a tripod in my carry-on?": [
+      "TSA",
+      "carry-on bags",
+      "checked bags",
+      "TSA officer"
+    ],
+    "Will a phone tripod clamp fit an iPhone Pro Max in a case?": [
+      "clamp width",
+      "mm",
+      "case",
+      "78.0 mm"
+    ],
+    "Is MagSafe secure enough on a travel tripod?": [
+      "MagSafe",
+      "magnet",
+      "case",
+      "clamp"
+    ],
+    "How tall should a phone tripod be for photos of yourself?": [
+      "eye level",
+      "inches",
+      "center column",
+      "selfie stick"
+    ],
+    "Do I need a remote for a travel phone tripod?": [
+      "self-timer",
+      "Bluetooth remote",
+      "10 seconds",
+      "Apple Watch"
+    ]
+  },
+  "contentGaps": [
+    "No top result checks each clamp against the width of the iPhone 18 Pro Max in a case",
+    "No top result ranks phone travel tripods by grams carried per inch of height",
+    "Few pages map the tripod type to the travel photo (eye-level couple shot vs table vs wall)"
+  ],
+  "outline": [
+    {
+      "h2": "Travel tripods for iPhone compared by folded length, weight and height",
+      "intent": "comparison table on the deciding specs",
+      "h3": []
+    },
+    {
+      "h2": "Best tripod for iPhone travel: the 5 picks",
+      "intent": "product reviews",
+      "h3": [
+        "Ulanzi MT-44 Extendable Vlog Tripod: best travel tripod for iPhone under 1 lb",
+        "Peak Design Mobile Tripod: best pocket tripod for MagSafe iPhones",
+        "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp: best mini tripod for iPhone travel",
+        "JOBY GripTight ONE Micro Stand: smallest travel tripod for iPhone",
+        "Peak Design Travel Tripod (Carbon Fiber): best travel tripod for iPhone and camera"
+      ]
+    },
+    {
+      "h2": "Which travel tripod for iPhone should you get?",
+      "intent": "decision rule",
+      "h3": []
+    },
+    {
+      "h2": "Will a travel tripod clamp fit an iPhone Pro Max in a case?",
+      "intent": "analysis: clamp widths vs iPhone 18 Pro Max",
+      "h3": []
+    },
+    {
+      "h2": "How to take solo travel photos with an iPhone tripod",
+      "intent": "how-to steps + remote/timer",
+      "h3": []
+    },
+    {
+      "h2": "iPhone travel tripod problems owners run into, and the fix",
+      "intent": "pain points: wobble, airport security, restricted sites, branch/uneven ground",
+      "h3": []
+    }
+  ],
+  "targetWords": 1900,
+  "secondaryKeywords": [
+    "best travel tripod for iphone",
+    "best iphone tripod for travel",
+    "best phone tripod for travel",
+    "best travel tripod for phone",
+    "best portable tripod for iphone",
+    "best mini tripod for iphone"
+  ],
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.findingtheuniverse.com/best-phone-tripod/",
+      "https://swarmify.com/blog/iphone-tripod/",
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.reneeroaming.com/best-travel-tripods/",
+      "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+      "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Pack Hacker, Swarmify and TechGearLab show each pick with likes/dislikes or pros/cons; Finding the Universe and Renee Roaming use paragraphs; pros-cons is the majority.",
+    "avgWords": 2260,
+    "avgWordsNote": "Estimated from the scraped article text of Finding the Universe (~3,600), Swarmify (~2,900), Pack Hacker (~2,300), Renee Roaming (~1,900 without comments) and Carryology (~600).",
+    "avgProducts": 7,
+    "commonSections": [
+      "quick picks list",
+      "comparison table",
+      "product reviews",
+      "how to choose (height, mount, portability)",
+      "FAQ",
+      "carry-on / flying question"
+    ],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/onebag/comments/1r0zdjx/recommendations_for_compact_travel_tripod_for_an/",
+      "title": "Recommendations for compact travel tripod for an iPhone?"
+    },
+    {
+      "position": 2,
+      "url": "https://www.nytimes.com/wirecutter/reviews/best-tripod-for-iphones-smartphones/",
+      "title": "The 5 Best Tripods for iPhones and Other Smartphones"
+    },
+    {
+      "position": 3,
+      "url": "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "title": "The Best Travel Tripod for 2026"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=XqfHoBbLwsA",
+      "title": "KraftGeek iPhone Tripod (Best Tripod for Travel & Creators)"
+    },
+    {
+      "position": 5,
+      "url": "https://us.amazon.com/Best-Sellers-Tabletop-Travel-Tripods/zgbs/electronics/499308",
+      "title": "Best Tabletop & Travel Tripods"
+    },
+    {
+      "position": 6,
+      "url": "https://swarmify.com/blog/iphone-tripod/",
+      "title": "Best iPhone Tripods for Filming (2026 Guide)"
+    },
+    {
+      "position": 7,
+      "url": "https://geometrical-inc.com/pages/the-best-travel-tripod-for-iphone",
+      "title": "The best travel tripod for iPhone | GEOMETRICAL"
+    },
+    {
+      "position": 8,
+      "url": "https://www.reddit.com/r/AskPhotography/comments/1r2yojw/how_do_you_choose_the_best_phone_tripod_for_phone/",
+      "title": "How do you choose the best phone tripod for phone photography?"
+    },
+    {
+      "position": 9,
+      "url": "https://www.facebook.com/groups/guidetoiceland/posts/3245546475585795/",
+      "title": "What's a good mid-range travel tripod for iPhone?"
+    },
+    {
+      "position": 10,
+      "url": "https://www.mu-43.com/threads/recommendations-for-an-iphone-tripod.125537/",
+      "title": "Recommendations for an iPhone tripod"
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 0,
+    "withYear": 2,
+    "withNumber": 1,
+    "commonModifiers": [
+      "best",
+      "travel tripod",
+      "iPhone",
+      "compact",
+      "for creators"
+    ],
+    "gap": "Forums, a store list and a maker page fill half the top 10; no title promises a pick for every travel situation from pocket to eye level. Only 2 of 10 titles carry a year, so no year (owner rule 2026-11-06). Angle: exact keyword first, a pick count, and \"pocket to eye level\"."
+  },
+  "commonPoints": [
+    "Pick by the photo you want: tall selfie-stick tripods reach eye level, tabletop tripods need a surface",
+    "Selfie-stick tripods wobble at full extension and in wind",
+    "MagSafe mounts are fast; spring clamps are more secure",
+    "If you already own a camera tripod, a phone clamp or mount is enough",
+    "Packed size and weight decide whether the tripod actually comes along"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Clamp width checked against the iPhone 18 Pro Max (78.0 mm bare per Apple): the Ulanzi MT-44 clip opens 60-80 mm, leaving about 2 mm for a case; the JOBY GripTight ONE takes 2.2-3.6 in (56-91 mm) with a case; the Peak Design Travel Tripod mount takes up to 90 mm.",
+      "source": "Apple iPhone 18 Pro Max tech specs; Ulanzi MT-44 Amazon listing; B&H JOBY GripTight ONE Micro Stand page; Finding the Universe (Peak Design mount width)",
+      "absentFrom": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Grams carried per inch of height: MT-44 422 g for about 58 in (about 7 g per inch) vs Peak Design Travel Tripod 1,270 g for 60 in (about 21 g per inch); the pocket stands carry 46-76 g but give no height.",
+      "source": "Ulanzi MT-44 Amazon listing; Peak Design Travel Tripod listing; Peak Design Mobile Tripod listing; B&H/Campsaver JOBY spec",
+      "absentFrom": [
+        "https://www.findingtheuniverse.com/best-phone-tripod/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by travel photo: couple shot at eye level → MT-44 or Peak Design Travel Tripod; table, wall or rock → PIXI kit; every-day carry on the phone → Peak Design Mobile Tripod; jeans coin pocket → JOBY Micro Stand.",
+      "source": "our own rule from the verified heights and sizes",
+      "absentFrom": [
+        "https://www.findingtheuniverse.com/best-phone-tripod/",
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Airport security: TSA allows tripods in carry-on and checked bags, but the officer decides; a phone tripod under 13 in folded avoids the problem that a full-size tripod can cause abroad.",
+      "source": "TSA What Can I Bring: Tripods; Finding the Universe owner account of a refusal at Paris security",
+      "absentFrom": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+      ]
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Ulanzi MT-44 Extendable Vlog Tripod",
+      "pages": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/"
+      ],
+      "asin": "B09T92NK4J",
+      "amazon": "in stock, featured offer from ULANZI Official US Store, checked 2026-11-11"
+    },
+    {
+      "name": "Peak Design Mobile Tripod",
+      "pages": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.findingtheuniverse.com/best-phone-tripod/"
+      ],
+      "asin": "B09FRZPLL3",
+      "amazon": "in stock, featured offer from Peak Design, checked 2026-11-11"
+    },
+    {
+      "name": "Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)",
+      "pages": [
+        "https://swarmify.com/blog/iphone-tripod/",
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone",
+        "https://www.findingtheuniverse.com/best-phone-tripod/"
+      ],
+      "asin": "B0BQN7CMDJ",
+      "amazon": "in stock, featured offer from a third-party seller (Rally Bargains Inc), checked 2026-11-11; no Amazon-sold offer found"
+    },
+    {
+      "name": "JOBY GripTight ONE Micro Stand",
+      "pages": [
+        "https://www.carryology.com/liking/buyersguide/top-8-mini-tripods-for-mobile-phones-compact-sturdy-picks-for-2024/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod-for-iphone"
+      ],
+      "asin": "B01MRUMUVZ",
+      "amazon": "in stock, sold by Amazon.com, checked 2026-11-11"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "pages": [
+        "https://www.packhacker.com/blog/general/best-travel-tripod/",
+        "https://www.reneeroaming.com/best-travel-tripods/",
+        "https://www.findingtheuniverse.com/best-phone-tripod/"
+      ],
+      "asin": "B085BQTQMN",
+      "amazon": "in stock, featured offer from Peak Design, checked 2026-11-11 (aluminum B085BQS6K4 had no buy box)"
+    }
+  ],
+  "droppedCandidates": [
+    {
+      "name": "Manfrotto Element MII",
+      "reason": "recommended by Swarmify and Renee Roaming, but needs a separate phone clamp and is already a pick in our live mirrorless travel tripod post"
+    },
+    {
+      "name": "JOBY GorillaPod / GripTight ONE GP Stand",
+      "reason": "top pages name different GorillaPod variants (1K Kit, GP Stand, 3K); the GP Stand is in our live Night mode post"
+    },
+    {
+      "name": "Ulanzi MT-44M / JOBY TelePod TP09 / Ulanzi MT-85",
+      "reason": "each recommended by only one top page"
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "onebag-iphone-tripod-floor-slope-branch",
+      "pain": "A travel tripod for an iPhone has to stand on the floor, on a slope or hang from a branch",
+      "details": "An r/onebag poster asked for one compact iPhone tripod that works on flat ground, angled surfaces and tree branches.",
+      "sources": [
+        "https://www.reddit.com/r/onebag/comments/1r0zdjx/recommendations_for_compact_travel_tripod_for_an/"
+      ],
+      "quotes": [
+        {
+          "text": "a small compact tripod which is easy to either put on the floor/ on a angled surface on hang on a tree branch",
+          "url": "https://www.reddit.com/r/onebag/comments/1r0zdjx/recommendations_for_compact_travel_tripod_for_an/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-selfie-stick-wobble",
+      "pain": "Selfie stick tripods wobble at full height, outdoors and with heavy phones",
+      "details": "r/videography replies blame the single thin pole, not the material.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/"
+      ],
+      "quotes": [
+        {
+          "text": "The design is the problem here. You could make this from any conceivable material and it would still wobble.",
+          "url": "https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-solo-remote",
+      "pain": "Filming yourself alone means walking back to the phone for every take",
+      "details": "r/photography replies to a solo traveler suggest a tripod and remote bundle.",
+      "sources": [
+        "https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/"
+      ],
+      "quotes": [
+        {
+          "text": "Get a phone tripod and remote, often in a bundle.",
+          "url": "https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-reuse-camera-tripod",
+      "pain": "Not sure whether a regular camera tripod can hold a phone",
+      "details": "Quora answers point to a phone mount for an existing tripod.",
+      "sources": [
+        "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel"
+      ],
+      "quotes": [
+        {
+          "text": "If you already have a bigger tripod, you can also get a mobile tripod mount",
+          "url": "https://www.quora.com/Whats-the-tripod-mobile-phone-holder-I-can-use-to-create-or-shoot-professional-videos-for-my-YouTube-channel"
+        }
+      ]
+    },
+    {
+      "id": "onebag-carry-on-phone-tripod",
+      "pain": "Travelers want a phone tripod that is safe to bring in a carry-on",
+      "details": "An r/onebag thread titled \"Carry-On Approved Phone Tripod\" asks for one; Finding the Universe reports a full-size tripod refused at Paris security.",
+      "sources": [
+        "https://www.reddit.com/r/onebag/comments/1eq0ht8/carryon_approved_phone_tripod/",
+        "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods"
+      ],
+      "quotes": []
+    }
+  ],
+  "stats": [
+    {
+      "number": "3.07 inches (78.0 mm)",
+      "claim": "iPhone 18 Pro Max width",
+      "url": "https://support.apple.com/en-us/148591",
+      "quote": "Width: 3.07 inches (78.0 mm)"
+    },
+    {
+      "number": "8.78 ounces (249 grams)",
+      "claim": "iPhone 18 Pro Max weight",
+      "url": "https://support.apple.com/en-us/148591",
+      "quote": "Weight: 8.78 ounces (249 grams)"
+    },
+    {
+      "number": "Carry On Bags: Yes",
+      "claim": "TSA allows tripods in carry-on and checked bags; the officer decides",
+      "url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
+      "quote": "Carry On Bags: Yes"
+    },
+    {
+      "number": "57.6\"",
+      "claim": "Ulanzi MT-44 full handle length",
+      "url": "https://www.ulanzi.com/products/ulanzi-mt-44-extendable-vlog-tripod-2502b",
+      "quote": "Full length of the handle 57.6\" / 146.5cm."
+    }
+  ],
+  "videos": [],
+  "videosNote": "Searched YouTube for travel phone tripod setups; results were product ads or videos for picks we do not cover, and the Peak Design setup video is older than five years, so none embedded.",
+  "pendingInlinks": [
+    {
+      "slug": "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+      "find": "Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs.",
+      "replace": "Travel blogger Nina Ragusa writes that her Canon of about 2 lb has dangled from tree branches and been wrapped around poles around the world, and that her travel partner vlogs holding it by the closed legs; if your phone is the only camera, my [travel tripods for iPhone](/blog/best-tripod-for-iphone-travel/) start lighter still."
+    },
+    {
+      "slug": "best-tripod-for-iphone-night-mode-photos",
+      "find": "If you own the plain PIXI, the clamp alone gives you the same night setup.",
+      "replace": "If you own the plain PIXI, the clamp alone gives you the same night setup, and my [iPhone travel tripod picks](/blog/best-tripod-for-iphone-travel/) add taller options for the road."
+    }
+  ],
+  "textrazor": {
+    "file": "data/briefs/best-tripod-for-iphone-travel.entities.json",
+    "pagesAnalyzed": 5,
+    "droppedOffTopic": [
+      "Laurence"
+    ]
+  },
+  "googleSuggestFile": "data/briefs/best-tripod-for-iphone-travel.suggest.json"
+}

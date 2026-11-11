@@ -7385,12 +7385,12 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "pending",
+    "status": "published",
     "keyword": "best tripod for iphone travel",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
     "note": "owner request 2026-11-10",
-    "attempts": 0,
+    "attempts": 1,
     "secondaryKeywords": [
       "best travel tripod for iphone",
       "best iphone tripod for travel",
@@ -7416,7 +7416,9 @@
       "parentTopic": "best tripod for iphone travel",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "startedAt": "2026-11-11T11:27:17.803Z",
+    "publishedAt": "2026-11-11T11:42:04.922Z"
   },
   {
     "status": "merged",
