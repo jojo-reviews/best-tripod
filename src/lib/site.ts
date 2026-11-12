@@ -49,7 +49,7 @@ export function authorSchema(a: Author) {
     ...(a.image ? { image: absUrl(a.image) } : {}),
     ...(a.sameAs?.length ? { sameAs: a.sameAs } : {}),
     ...(a.type === 'Person'
-      ? { jobTitle: a.role, description: a.bio, knowsAbout: a.expertise, worksFor: { '@type': 'Organization', '@id': absUrl('/#organization'), name: siteConfig.name } }
+      ? { jobTitle: a.role, description: a.bio, ...((a as any).email ? { email: `mailto:${(a as any).email}` } : {}), knowsAbout: a.expertise, worksFor: { '@type': 'Organization', '@id': absUrl('/#organization'), name: siteConfig.name } }
       : { knowsAbout: a.expertise }),
   };
 }

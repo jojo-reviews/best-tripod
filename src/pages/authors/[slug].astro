@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   return SITE.authors.map((a) => ({ params: { slug: a.slug }, props: { author: a, posts: posts.filter((p) => p.data.author === a.slug), reviewed: posts.filter((p) => p.data.reviewedBy === a.slug) } }));
 }
 const { author, posts, reviewed } = Astro.props;
-const LABELS: Record<string, string> = { 'flickr.com': 'Flickr', 'instagram.com': 'Instagram', 'linkedin.com': 'LinkedIn' };
+const LABELS: Record<string, string> = { 'flickr.com': 'Flickr', 'instagram.com': 'Instagram', 'linkedin.com': 'LinkedIn', 'uglyhedgehog.com': 'Ugly Hedgehog', 'realphotographersforum.com': 'Real Photographers Forum' };
 const siteLabel = (u: string) => { const h = new URL(u).hostname.replace('www.', ''); return LABELS[h] ?? h; };
 const jsonLd = [{
   '@context': 'https://schema.org',
@@ -30,6 +30,7 @@ const jsonLd = [{
       {author.expertise.length > 0 && <p><strong>{author.type === 'Person' ? 'Focus areas' : 'Covers'}:</strong> {author.expertise.join(', ')}.</p>}
       {((author as any).gear ?? []).length > 0 && <p><strong>Gear:</strong> {(author as any).gear.join(', ')}.</p>}
       {author.sameAs.length > 0 && <p>{author.type === 'Person' ? 'Follow: ' : 'Find us on: '}{author.sameAs.map((u, i) => <>{i > 0 && ', '}<a href={u} rel="me noopener" target="_blank">{siteLabel(u)}</a></>)}</p>}
+      {(author as any).email && <p>Email: <a href={`mailto:${(author as any).email}`}>{(author as any).email}</a></p>}
       <p>Every guide follows our <a href="/how-we-research/">research process</a> and <a href="/editorial-policy/">editorial policy</a>.</p>
     </header>
     <section class="section">
