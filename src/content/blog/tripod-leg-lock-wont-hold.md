@@ -73,7 +73,8 @@ sources:
   - title: READ BEFORE buying a Peak Designs Tripod (r/peakdesign)
     url: >-
       https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-12T00:00:00.000Z'
+updatedDate: '2026-11-12T17:49:21.000Z'
 faqs:
   - q: Why do my tripod legs keep slipping when they are locked?
     a: >-
@@ -141,11 +142,13 @@ heroAlt: >-
   Tripod how-to
 ---
 
-A tripod leg lock that won't hold lets one leg section creep down after you mount the camera, until the horizon tilts. The cause is usually a twist lock that isn't fully closed, grit or a misplaced ring inside the collar, a flip lock whose tension nut has backed off, or a loose angle joint at the top. We work through them cheapest first, using maker manuals and owner threads.
+I have been shooting since 2017, mostly travel, landscape, wildlife and real estate, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. A creeping leg is the failure I least want under a 200-600mm lens, so here is the short answer.
+
+A tripod leg lock that won't hold lets one leg section creep down after you mount the camera, until the horizon tilts. The cause is usually a twist lock that isn't fully closed, grit or a misplaced ring inside the collar, a flip lock whose tension nut has backed off, or a loose angle joint at the top. I work through them cheapest first, using maker manuals and owner threads.
 
 ## Why a tripod leg lock won't hold: find what moves
 
-**A tripod leg lock that won't hold is either slipping along the leg tube or loose at the hinge, and each needs a different fix.** We lock the empty camera tripod and press down on each leg.
+**A tripod leg lock that won't hold is either slipping along the leg tube or loose at the hinge, and each needs a different fix.** I start the same way every time: I lock the empty camera tripod and press down on each leg, and what moves first tells me where to look.
 
 - **One section slides in:** the twist lock or flip lock on that section has lost grip.
 - **The whole leg flops at the top:** the leg angle joint is loose.
@@ -161,13 +164,13 @@ Knowing [twist lock vs flip lock tripod legs](/blog/twist-lock-vs-flip-lock-trip
 2. **Clean the tube and collar.** Wipe off sand, mud and dried salt residue, starting with the lower leg sections, which [K&F Concept](https://www.kfconcept.com/learning-center/tripod-leg-wont-lock) says take the most grit on beach shoots. Really Right Stuff's maintenance steps use warm water, mild dish soap and a toothbrush in the twist-lock grooves.
 3. **Reseat the compression rings.** Each compression ring (a plastic shim) and, on some models, the anti-twist sleeve sized to that leg section goes back in its original order and orientation. Replace any ring that is scratched, cracked or deformed.
 
-In the video below, Really Right Stuff takes a twist-lock assembly apart, cleans it and rebuilds it in order.
+In the video in this section, Really Right Stuff takes a twist-lock assembly apart, cleans it and rebuilds it in order.
 
 A twist lock collar that won't tighten often has a ring out of place: Feisol's manual says rings not pushed fully into the upper tube stop the collar screwing on all the way.
 
 ## Flip lock won't hold: tighten the tension nut a little
 
-**A flip lock that snaps shut but lets the leg creep has lost clamping tension, set by a nut or screw behind the lever.** As one repair video puts it, "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time."
+**A flip lock that snaps shut but lets the leg creep has lost clamping tension, set by a nut or screw behind the lever.** What matters to me here is patience: small turns, then a test. As one repair video puts it, "Some Manfrotto tripods have a simple bolt and nut tightening system for their flip lock latches, that can become loose over time."
 
 1. Open the lever and pry off any plastic cover over the nut.
 2. Tighten the nut [about 1/6 of a turn](https://www.uglyhedgehog.com/topic/126829-loose-leg-on-my-tripod) with a nut driver, close the lever and press down on the leg.
@@ -177,7 +180,7 @@ That method comes from a rental owner who says "These leg locks loosen over time
 
 ## Floppy tripod legs at the top: the angle joint
 
-**Floppy legs at the apex mean the leg angle joint is loose, not that the tripod leg lock has failed.** For the joint, we use Really Right Stuff's test: hold the tripod by one leg; the joint should carry its weight.
+**Floppy legs at the apex mean the leg angle joint is loose, not that the tripod leg lock has failed.** For the joint, I use Really Right Stuff's test: hold the tripod by one leg; the joint should carry its weight.
 
 - **Tighten the joint screws** with the two hex keys at once, as Feisol describes. Really Right Stuff warns that overtightening can damage the joint and stop the legs opening smoothly.
 - **Regrease a dry joint.** Feisol says to clean the mating surfaces with isopropyl alcohol and add a little marine grease. An owner on r/RealEstatePhotography traced floppy Benro legs to this: "turns out the grease in the leg joint had hardened".
@@ -187,7 +190,7 @@ Angle-stop latches can also break; one r/peakdesign owner reports "an angle leg 
 
 ## Tripod leg lock grease: the threads, never the grip
 
-**A tripod leg lock gets grease on its twist-lock threads and joints, never on the surfaces that grip the tube.** This table shows what each source says about lubricant.
+**A tripod leg lock gets grease on its twist-lock threads and joints, never on the surfaces that grip the tube.** This is where I'd slow down, so this table shows what each source says about lubricant.
 
 | Part | What the source says |
 |---|---|
@@ -208,12 +211,12 @@ K&F Concept explains why: oil cuts friction on surfaces meant to grip and attrac
 - **Grip gently.** Improve Photography suggests slip-joint pliers and a little water poured over the lock to flush grit.
 - **Never twist a stuck carbon section free.** Feisol warns that rotational force can widen the ring holes and ruin the tube; another reply notes heat, cold and lubricants help less with carbon fiber than aluminum.
 
-If nothing moves, ask the maker to fix or replace it.
+Because my own tripods are carbon fiber, that last rule is the one I take most seriously. If nothing moves, ask the maker to fix or replace it.
 
 ## Tripod leg lock safety test, field fix and when to replace
 
-**Before the camera goes back on, the repaired tripod leg lock must hold the empty tripod under firm downward pressure.** K&F Concept's test is to press down several times; if any section creeps, we keep the camera gear off, because a tripod that stands empty can still fail under a camera and lens.
+**Before the camera goes back on, the repaired tripod leg lock must hold the empty tripod under firm downward pressure.** K&F Concept's test is to press down several times; if any section creeps, I keep the camera gear off, because a tripod that stands empty can still fail under a camera and lens.
 
-In the field, we follow Improve Photography: duct-tape a failed section extended and carry your tripod's tools, such as the T25 Torx bit its author's Manfrotto 190XPro snap locks needed. Replace rather than repair when a tube is bent or cracked; Feisol treats a tripod with more than one damaged tube as totaled. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) are compared by leg lock type and section count.
+In the field, I follow Improve Photography: duct-tape a failed section extended and carry your tripod's tools, such as the T25 Torx bit its author's Manfrotto 190XPro snap locks needed. Replace rather than repair when a tube is bent or cracked; Feisol treats a tripod with more than one damaged tube as totaled. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) are compared by leg lock type and section count.
 
-For a creeping leg, my order is: close, clean, adjust, test, then shoot. If every lock holds but long exposures still blur, the cause is vibration; see our guide on [how to stop tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).
+For a creeping leg, my order is: close, clean, adjust, test, then shoot. If you shoot real estate on a flip-lock aluminum tripod, I'd check the tension nuts first; on a carbon twist-lock travel tripod, I'd start with the rings and the grit. If every lock holds but long exposures still blur, the cause is vibration; see our guide on [how to stop tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/).

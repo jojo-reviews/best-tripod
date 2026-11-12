@@ -408,8 +408,8 @@ sources:
     url: 'https://thesweetcamera.com/best-gopro-tripod/'
   - title: 'Intrepid Freelancer (Suzi Pratt): Top 6 GoPro mounts for travel'
     url: 'https://blog.suzi-pratt.com/top-6-gopro-mounts-travel/'
-reviewedDate: '2026-10-30T00:00:00.000Z'
-updatedDate: '2026-10-30T12:43:28.000Z'
+reviewedDate: '2026-11-12T00:00:00.000Z'
+updatedDate: '2026-11-12T17:49:27.000Z'
 faqs:
   - q: What tripod works with a GoPro?
     a: >-
@@ -464,7 +464,9 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for GoPro is the one that fits your most common shot: a GoPro Shorty in your pocket for time-lapses and group selfies, a GoPro 3-Way 2.0 for a grip and a 19.5 in arm, GoPro Volta for all-day battery, the MAX Grip + Tripod for a 22 in locking pole, or a Xenvo SquidGrip when the only solid thing nearby is a railing. We did not test any of them; I built this GoPro tripod review from maker specs, four independent GoPro tripod guides and owner threads on Reddit, Facebook groups and retailer sites. If you are torn between bendy and rigid legs, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the split.
+I have been shooting since 2017, ever since a solo road trip across the United States, and my support kit is carbon fiber tripods and ball heads. None of that suits a GoPro, so I asked a different question: what holds a tiny camera steady where a full tripod won't go?
+
+The best tripod for GoPro is the one that fits your most common shot: a GoPro Shorty in your pocket for time-lapses and group selfies, a GoPro 3-Way 2.0 for a grip and a 19.5 in arm, GoPro Volta for all-day battery, the MAX Grip + Tripod for a 22 in locking pole, or a Xenvo SquidGrip when the only solid thing nearby is a railing. I did not test any of them; I built this GoPro tripod review from maker specs, four independent GoPro tripod guides and owner threads on Reddit, Facebook groups and retailer sites. If you are torn between bendy and rigid legs, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the split.
 
 Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/)). These picks stop that.
 
@@ -480,7 +482,7 @@ Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hit
 
 ## GoPro Tripod Comparison Table
 
-**The five GoPro tripods differ most in height, how they hold on, and how they mount the camera.** These are the makers' published figures unless noted:
+**The five GoPro tripods differ most in height, how they hold on, and how they mount the camera.** I compare those first; these are the makers' published figures unless noted:
 
 | Spec | Shorty | 3-Way 2.0 | Volta | MAX Grip + Tripod | SquidGrip |
 |---|---|---|---|---|---|
@@ -491,61 +493,59 @@ Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hit
 | Angle control | Fixed | Ball joint | Rotating fingers | Fixed | Metal ball head |
 | Water | Waterproof | Waterproof | Weather-resistant | Pool water (owners) | Not stated |
 
-## How We Chose These GoPro Tripods
+## How I Chose These GoPro Tripods
 
-**We kept only tripods that at least two top-ranking GoPro tripod pages recommend and that have their own in-stock Amazon US listing.** We read Improve Photography, FixThePhoto, TheSweetCamera, Suzi Pratt's travel mount guide and GoPro's own tripod guide, then the spec pages and owner threads.
+**I kept only tripods that at least two top-ranking GoPro tripod pages recommend and that have their own in-stock Amazon US listing.** What matters to me with a camera this light is grip, a mount that holds its angle and a size I'd carry. I read Improve Photography, FixThePhoto, TheSweetCamera, Suzi Pratt's travel mount guide and GoPro's own tripod guide, then the spec pages and owner threads.
 
-> **From our notes:** The product all three of those roundups agree on besides the Shorty is the JOBY GorillaPod Action Tripod, the flexible tripod one r/gopro thread calls the only answer. When we went to its Amazon US listing, it was listed as currently unavailable, with no date for a restock. We did not want to send you to a dead end, so the flexible slot went to the Xenvo SquidGrip, which FixThePhoto and TheSweetCamera both rank and which is in stock. If the GorillaPod Action returns, it is a fine alternative.
-
-In this update I added GoPro Volta (FixThePhoto and GoPro's guide) and the MAX Grip + Tripod (Improve Photography and GoPro's guide). I dropped the UBeesize Tripod S because the two guides that recommend it link to different listings.
+> **From our notes:** The product all three of those roundups agree on besides the Shorty is the JOBY GorillaPod Action Tripod, the flexible tripod one r/gopro thread calls the only answer. Its Amazon US listing shows it as currently unavailable, with no restock date, so the flexible slot went to the Xenvo SquidGrip, which FixThePhoto and TheSweetCamera both rank and which is in stock. If the GorillaPod Action returns, it is a fine alternative.
 
 ## The 5 Best Tripods for GoPro
 
-**Each GoPro tripod below covers what it does well, what owners complain about, and who should skip it.**
+**For each GoPro tripod below I cover what it does well, what owners complain about, and who should skip it.**
 
 ### GoPro Shorty Mini Extension Pole + Tripod: best pocket tripod for GoPro
 
 The Shorty is my everyday pick and the one tripod every guide recommends. GoPro lists it at [4.6 in folded and up to 8.9 in extended](https://gopro.com/en/us/shop/mounts-accessories/shorty/AFTTM-001.html), with a kick-out tripod for level ground. It uses the GoPro mounting fingers, so it needs no adapter, and GoPro's own guide calls it waterproof.
 
-One r/gopro owner says the camera can point straight down without the tripod tipping, good for overhead and POV shots. The complaints are about wear. One owner's Shorty broke after a year with hairline cracks at the hinges, another's legs snapped, and a third notes there is no lock on the pole, "so once it's loose, it stays loose" (r/gopro). I treat it as a light-duty pocket stand.
+One r/gopro owner says the camera can point straight down without the tripod tipping, good for overhead and POV shots. The complaints are about wear. One owner's Shorty broke after a year with hairline cracks at the hinges, another's legs snapped, and a third notes there is no lock on the pole, "so once it's loose, it stays loose" (r/gopro). I treat it as a light-duty pocket stand for travelers.
 
 ### GoPro 3-Way 2.0: best grip and extension arm
 
 I picked the 3-Way 2.0 for vloggers: a grip, a folding extension arm and a tripod in one. It [collapses to 8 in and reaches 19.5 in](https://gopro.com/en/us/shop/mounts-accessories/3-way-2.0/AFAEM-002.html), and an integrated ball joint tilts or swivels the camera without moving the mount.
 
-On r/gopro, owners of the first version say the 2.0's tripod is far more stable. The trade-off is balance: a Walmart reviewer writes: "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate." A 4-T Tech video review says a slight breeze or uneven ground knocks it over, and Facebook group owners report a swivel tightener that barely holds the camera. Use the tripod on flat, sheltered ground.
+On r/gopro, owners of the first version say the 2.0's tripod is far more stable. The trade-off is balance: a Walmart reviewer writes: "The tripod legs tip easily unless the load is balanced but that issue becomes pretty easy to mitigate." A 4-T Tech video review says a slight breeze or uneven ground knocks it over, and Facebook group owners report a swivel tightener that barely holds the camera. I'd pick it if you vlog handheld most of the time and only use the tripod on flat, sheltered ground.
 
 ### GoPro Volta: best GoPro tripod for long time-lapses
 
 I chose Volta for the shots that outlast a battery. It is a grip, a wireless remote and a flip-out tripod with a 4900 mAh battery; GoPro says it and the camera's battery together give over 5.5 hours of 4K30 recording, and it controls the camera from up to 98 ft away.
 
-DC Rainmaker found it more stable in wind than the Shorty, which can tip because it is top-heavy with a GoPro on it. An r/gopro owner warns that its legs are a locked, fixed length, so it doesn't work well on uneven surfaces, and one GoPro Community owner found a loose leg on a brand-new unit. GoPro says Volta is weather-resistant, not waterproof: never take it underwater.
+DC Rainmaker found it more stable in wind than the Shorty, which can tip because it is top-heavy with a GoPro on it. An r/gopro owner warns that its legs are a locked, fixed length, so it doesn't work well on uneven surfaces, and one GoPro Community owner found a loose leg on a brand-new unit. GoPro says Volta is weather-resistant, not waterproof: never take it underwater. Since I shoot video, battery life is the spec I'd weigh first.
 
 ### GoPro MAX Grip + Tripod: best locking pole
 
-My pick when you want more reach than the Shorty with a selfie pole that locks. GoPro lists it at 9 to 22 in (23 to 56 cm), with a twist lock and foldout legs that close with a magnet. It is built for 360 footage (our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/) cover 360 cameras) but fits every GoPro.
+My pick when you want more reach than the Shorty with a selfie pole that locks. GoPro lists it at 9 to 22 in (23 to 56 cm), with a twist lock and foldout legs that close with a magnet. It is built for 360 footage (see our [Insta360 X5 tripod picks](/blog/best-tripod-for-insta360-x5/)) but fits every GoPro.
 
-Owner Brad's Backpack likes the twist lock but says the legs aren't adjustable, so on unlevel ground you keep the pole short to stop it toppling, and sand or grit can jam it. On r/gopro its main con against Volta is no battery. Some HERO13 owners in a Facebook group still see the grip in their shots.
+Owner Brad's Backpack likes the twist lock but says the legs aren't adjustable, so on unlevel ground you keep the pole short to stop it toppling, and sand or grit can jam it. On r/gopro its main con against Volta is no battery. Some HERO13 owners in a Facebook group still see the grip in their shots. I'd pick it if reach matters more to you than battery.
 
 ### Xenvo SquidGrip Flexible Tripod: best flexible tripod for GoPro
 
 The SquidGrip is my flexible pick, trading height for grip. Its textured neo-rubber legs wrap around a lamp, chair or branch, and an all-metal Ball Head 360 can aim the camera straight down. The Amazon listing includes a GoPro adapter and a phone clamp. Xenvo lists it at [1.01 pounds](https://www.xenvopro.com/pdp/squidgrip/), heavy for a GoPro support, and its legs are about a foot long.
 
-A hunting-forum owner calls the legs strong but flexible, and a bowler and a hiking blogger use it beyond GoPro. We found no repeated owner complaint. TheSweetCamera's reviewer says the phone clamp holds phones less securely than the GoPro mount, so for a phone I'd pick a dedicated clamp.
+A hunting-forum owner calls the legs strong but flexible, and a bowler and a hiking blogger use it beyond GoPro. I found no repeated owner complaint. TheSweetCamera's reviewer says the phone clamp holds phones less securely than the GoPro mount, so for a phone I'd pick a dedicated clamp.
 
 ## Do You Need an Adapter to Put a GoPro on a Tripod?
 
-**It depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO12 Black and HERO13 Black screw straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/)).
+**In my reading it depends on the camera: GoPro-made tripods use the mounting fingers, GoPro HERO12 Black and HERO13 Black screw straight onto any tripod, and older GoPros need a fingers-to-1/4-20 adapter.** GoPro's support site says HERO12 Black's fingers include a 1/4-20 threaded mount, and HERO13 Black adds a magnetic latch for three ways to mount (DJI's magnetic system is covered in our [Osmo Action 5 Pro tripod picks](/blog/best-tripod-for-dji-osmo-action-5-pro/)).
 
-The most common r/gopro question is how to fit a GoPro to a tripod you already own (Pocket owners face the same issue in our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/)). If your action camera has no 1/4"-20 thread, buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on.
+The most common r/gopro question is how to fit a GoPro to a tripod you already own (see also our [DJI Osmo Pocket 3 tripod picks](/blog/best-tripod-for-dji-osmo-pocket-3/)). If your action camera has no 1/4"-20 thread, my advice is to buy a sturdy branded GoPro tripod mount adapter: one owner says a cheap one "just fell apart" the moment the GoPro went on.
 
 ### GoPro tripod mount alternatives
 
-**The alternatives to a GoPro tripod mount are a tripod that takes the fingers directly or a camera with the thread built in.** The Shorty, 3-Way 2.0, Volta and MAX Grip + Tripod all use the fingers, the SquidGrip includes its own adapter, and a HERO12 or HERO13 Black needs no adapter at all.
+**The alternatives to a GoPro tripod mount are a tripod that takes the fingers directly or a camera with the thread built in.** Four picks here use the fingers, the SquidGrip includes an adapter, and a HERO12 or HERO13 Black needs none.
 
 ## GoPro Tripod Problems Owners Run Into, and the Fix
 
-**Most GoPro tripod complaints come down to three things: the camera drooping, the tripod tipping, and pocket tripods wearing out.** The video below shows the tipping problem on a 3-Way 2.0.
+**Most GoPro tripod complaints I read come down to three things: the camera drooping, the tripod tipping, and pocket tripods wearing out.** The video in this section shows the tipping problem on a 3-Way 2.0.
 
 ### The camera droops or swings after a bump
 
@@ -553,7 +553,7 @@ A GoPro that won't hold its angle is a common r/gopro complaint. The usual cause
 
 ### The tripod tips over
 
-A GoPro is light (the entry HERO weighs only 86g), so a small tripod has little weight holding it down. Keep arms and poles short and centered over the legs, set up out of the wind, and wrap flexible legs around something solid on rough ground. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers more fixes.
+A GoPro is light (the entry HERO weighs only 86g), so a small tripod has little weight holding it down. My fix is the same one I use with any tripod: keep arms and poles short and centered over the legs, set up out of the wind, and wrap flexible legs around something solid on rough ground. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers more fixes.
 
 ### Pocket tripod hinges crack or loosen
 
@@ -561,8 +561,8 @@ Shorty owners report cracked hinges and a pole that stays loose. I'd fold the le
 
 ## Pocket, Grip, Flexible or Full-Size – Which GoPro Tripod Type?
 
-**Choose a pocket tripod for travel and snorkeling, a grip or pole for vlogging and long shoots, a flexible tripod for odd angles, and a full-size tripod for eye-level shots.** None of the GoPro tripods here reach eye level, so pair the camera with a regular tripod built for a mirrorless camera; our [best hiking tripod picks](/blog/best-hiking-tripod/) and [carry-on tripod guide](/blog/best-tripod-that-fits-in-carry-on-luggage/) cover light options.
+**Choose a pocket tripod for travel and snorkeling, a grip or pole for vlogging and long shoots, a flexible tripod for odd angles, and a full-size tripod for eye-level shots.** None of the GoPro tripods here reach eye level, so I'd pair the camera with a regular tripod built for a mirrorless camera, like the carbon fiber tripods I use for landscape work; our [best hiking tripod picks](/blog/best-hiking-tripod/) and [carry-on tripod guide](/blog/best-tripod-that-fits-in-carry-on-luggage/) cover light options.
 
 ## Which GoPro Tripod Should You Buy?
 
-**My GoPro tripod pick is the Shorty for every day, plus the 3-Way 2.0 for vlogging, Volta for long time-lapses, the MAX Grip + Tripod for reach, and the Xenvo SquidGrip when nothing is flat.** Tighten the thumb screw, keep the camera balanced over the legs, and that sunset time-lapse will still point at the sunset. If you also film at a desk, our [mini tripod for desk video calls guide](/blog/best-mini-tripod-for-desk-video-calls/) is the next read.
+**My GoPro tripod pick is the Shorty for every day, plus the 3-Way 2.0 for vlogging, Volta for long time-lapses, the MAX Grip + Tripod for reach, and the Xenvo SquidGrip when nothing is flat.** If you travel like I do, start with the Shorty. Tighten the thumb screw, keep the camera balanced over the legs, and that sunset time-lapse will still point at the sunset. If you also film at a desk, our [mini tripod for desk video calls guide](/blog/best-mini-tripod-for-desk-video-calls/) is the next read.

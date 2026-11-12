@@ -1,26 +1,21 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-11-03T16:33:21.117Z",
+  "checkedAt": "2026-11-12T17:49:35.738Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: body has 1369 words, over the 1236 limit (top results average 1075): cut repetition and filler",
     "illustration \"Parts of a twist-lock tripod leg laid ou\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Hands tightening the tension nut behind \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A hand pressing down on an empty tripod \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.kfconcept.com/learning-center/tripod-leg-wont-lock",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1282332/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-leg-wont-budge.4341189/",
-    "source didn't respond normally (403): https://www.reddit.com/r/RealEstatePhotography/comments/1kovujc/floppy_manfrotto_tripod_legs/",
-    "source didn't respond normally (403): https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-01 (review only): verified added K&F Concept claims (lower leg sections take most grit on beach shoots; empty tripod can still fail under camera and lens; cranking a firm collar harder rarely helps) on kfconcept.com/learning-center/tripod-leg-wont-lock; Feisol ring/collar and grease facts unchanged, reworded; r/peakdesign quote shortened verbatim; Ugly Hedgehog 190XB quote unchanged; Improve Photography field fix unchanged; new internal link to twist-lock-vs-flip-lock-tripod-legs (live); headings renamed to topic; no new prices, ratings or tests.",
-    "at": "2026-11-01T17:54:50.934Z",
-    "hash": "bbe421059d8c18dd"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-12T17:49:34.840Z",
+    "hash": "c717b8d7f8ac89b6"
   }
 }

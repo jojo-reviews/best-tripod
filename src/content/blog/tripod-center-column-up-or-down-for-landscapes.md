@@ -70,7 +70,8 @@ sources:
   - title: Lightest tripod for hiking? (DPReview Forums)
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-12T00:00:00.000Z'
+updatedDate: '2026-11-12T17:49:00.000Z'
 faqs:
   - q: Should the tripod center column be up or down for landscapes?
     a: >-
@@ -136,27 +137,29 @@ related:
   - leveling-base-vs-leveling-column
 ---
 
-You frame a sunrise on a ridge, the viewfinder sits two inches too low, and the quickest fix is the knob on the center column. In landscape photography, the tripod center column belongs down by default: extend the tripod legs first, then raise the column only a few inches to fine-tune the composition. Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.
+A solo road trip across the United States is what got me into photography, and I have been shooting landscapes since 2017. My support kit is carbon fiber tripods with ball heads, and early on I kept asking the same thing: the viewfinder sits two inches too low at sunrise, so do I reach for the center column knob?
+
+My short answer: in landscape photography the tripod center column belongs down by default. Extend the tripod legs first, then raise the column only a few inches to fine-tune the composition. Keep it fully down for any long exposure, wind or heavy lens (the rule behind our [astrophotography tripod picks](/blog/best-tripod-for-astrophotography/)), and get it out of the way when you want the camera low to the ground.
 
 ## The six-inch center column rule for landscapes
 
 **Down, with one exception: a few inches of column for framing is fine in calm air with a fast shutter or a hands-free release.**
 
-Most top results agree: legs first, column last, and the same rule holds on a [tripod for a laser level](/blog/best-tripod-for-laser-level/). NYC Photo Safari, which defends the column, draws the line at [about six inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html); past that, extend the legs. We use that six-inch rule as our ceiling for landscape work and drop to zero when any "keep it down" condition below applies.
+Legs first, column last; the same holds on a [tripod for a laser level](/blog/best-tripod-for-laser-level/). NYC Photo Safari, which defends the column, draws the line at [about six inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html); past that, extend the legs. I use that six-inch rule as my ceiling for landscape work and drop to zero when any "keep it down" condition below applies.
 
 ## Why a raised center column costs sharpness
 
-**A raised center column lifts the tripod head and camera away from the apex where the legs meet, so it works as a lever: the same gust or shutter press creates more torque, and the vibration lasts longer.**
+**The problem I'm solving is leverage: a raised center column lifts the tripod head and camera away from the apex where the legs meet, so the same gust or shutter press creates more torque, and the vibration lasts longer.**
 
 Tester The Center Column measured this. Fitting a column at all cost the carbon-fiber RRS TVC-23 [roughly 15% of its stiffness](https://thecentercolumn.com/2021/02/01/why-center-columns-reduce-tripod-stability/), and a light RRS Ascend-14 lost about half at full extension. On a Benro with a medium-format body, damping suffered: vibrations decayed [four times slower](https://thecentercolumn.com/2021/02/01/why-center-columns-reduce-tripod-stability/) with the column fully up, taking about five seconds to settle.
 
-A recurring r/AskPhotography complaint reads: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter" (thread).
+An r/AskPhotography regular puts it plainly: the extended column "just serves to amplify and prolong the vibrations" (thread).
 
 ## When to raise the center column and when to keep it down
 
-**It depends on what pushes on the camera (wind, your finger) and how long it must stay still.**
+**What I look at is what pushes on the camera (wind, my finger) and how long it must stay still.**
 
-The tester's summary: a heavy camera or wind can each be tolerated on a raised column, but not both together. We turned that into common landscape situations.
+The tester's summary: a raised column tolerates a heavy camera or wind, not both. I turned that into common landscape situations.
 
 | Landscape situation | Column | Why |
 |---|---|---|
@@ -166,15 +169,15 @@ The tester's summary: a heavy camera or wind can each be tolerated on a raised c
 | Telephoto landscape (70-200mm and up) | Down | Heavier load magnifies sway |
 | Eye level needs more than about six inches | Extend legs instead | Legs keep the camera near the apex |
 
-Either way, we fire with a self-timer or remote release. Our post on [tripod shake when pressing the shutter](/blog/tripod-shake-when-pressing-shutter/) covers delay settings, and the [wind fixes guide](/blog/how-to-stop-tripod-shake-in-wind/) covers gusts. If you're buying for the trail, our [best hiking tripod](/blog/best-hiking-tripod/) guide compares column-down heights.
+Either way, I fire with a self-timer or remote release. Our post on [tripod shake when pressing the shutter](/blog/tripod-shake-when-pressing-shutter/) covers delay settings, and the [wind fixes guide](/blog/how-to-stop-tripod-shake-in-wind/) covers gusts. If you're buying for the trail, my [best hiking tripod](/blog/best-hiking-tripod/) guide compares column-down heights.
 
 > **From our notes:** Picture a 2-second dusk exposure of waves from a coastal headland, full-frame body and 24-70mm, legs at full height and the column up a hand's width. In calm air that works. When the evening breeze picks up, the advice we kept finding in the forum threads costs nothing: lower the column, accept a lower viewpoint, and keep the tripod tight to the ground.
 
 ## Going low – when the center column is the problem
 
-**For wide-angle shots with a strong foreground, the column limits how low the camera goes, so "down" is not low enough.**
+**With my 16-35mm and a strong foreground, the column limits how low the camera goes, so "down" is not low enough.**
 
-Landscape educator Tim Shields recommends "the shortest center column possible" because the column sets minimum height. A Backcountry Gallery member agrees: "a center column definitely gets in the way when you want to get the camera as low as possible" ([thread](https://bcgforums.com/threads/tripod-center-column.43414/)). Here are four fixes we see:
+Landscape educator Tim Shields recommends "the shortest center column possible" because the column sets minimum height. A Backcountry Gallery member agrees: "a center column definitely gets in the way when you want to get the camera as low as possible" ([thread](https://bcgforums.com/threads/tripod-center-column.43414/)). Here are the four fixes I'd look at:
 
 1. **Short center column.** "Many tripods come with an additional short centre column for those low down shots" (Talk Photography).
 2. **Horizontal column.** Some Manfrotto and Gitzo columns swing 90 degrees so the legs can open to their widest leg angle.
@@ -183,19 +186,19 @@ Landscape educator Tim Shields recommends "the shortest center column possible" 
 
 ## If your tripod is too short without the center column
 
-**When the legs are maxed out, the column is the only way to eye level, so use it and compensate rather than stooping.**
+**When the legs are maxed out, the column is the only way to eye level, so I'd use it and compensate rather than stoop.**
 
-One hiker on DPReview writes, "I avoid using the center post when possible but in a travel pod thats even more important" (thread), and the same thread warns that short travel tripods mean bending over. The column adds [12 to 18 inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html), so we compensate:
+One hiker on DPReview writes, "I avoid using the center post when possible but in a travel pod thats even more important" (thread). The column adds [12 to 18 inches](https://newyorkcityphotosafari.com/blog/90-photo-tips-podcast/989-raw-vs-jpeg-whats-best-for-you-176.html), so this is how I compensate:
 
 - Shoot about half a stop faster (a Backcountry Gallery tip).
 - Use a self-timer and wait for lulls in the wind.
 - Hang weight from the tripod hook within the load rating, ideally a bag resting on the ground.
-- Shoot a little lower; we find most landscapes do not need exact eye level.
+- Shoot a little lower; I find most landscapes do not need exact eye level.
 
 Our [tripod height chart](/blog/how-tall-should-a-tripod-be-for-my-height/) shows the height without center column to look for next time.
 
 ## Do you need a tripod without a center column?
 
-**Not necessarily; a tripod with a column you rarely raise suits most landscape shooters, as long as its legs alone reach near eye level.**
+**Not necessarily; for most landscape shooters I'd pick a tripod with a column you rarely raise, as long as its legs alone reach near eye level.**
 
-DPReview regulars split: one shooter with a 35-year career keeps the column "just in case," while columnless owners praise the stiffness. Our view is that legs-only height, measured to the tripod head, matters more than whether a column exists. The video we picked below, from landscape photographer Jeffrey Tadlock, walks through the same tradeoff. Shopping? Our [landscape photography tripod picks](/blog/landscape-photography-tripod/) compare legs-only and minimum height, and the [tall photographer picks](/blog/best-tripod-for-tall-photographers-over-6-feet/) keep the column down above six feet.
+DPReview regulars split: one shooter with a 35-year career keeps the column "just in case," while columnless owners praise the stiffness. My view is that legs-only height, measured to the tripod head, matters more than whether a column exists. The video I picked below, from landscape photographer Jeffrey Tadlock, walks through the same tradeoff. Shopping? My [landscape photography tripod picks](/blog/landscape-photography-tripod/) compare legs-only and minimum height, and the [tall photographer picks](/blog/best-tripod-for-tall-photographers-over-6-feet/) keep the column down above six feet.

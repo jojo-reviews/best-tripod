@@ -1,24 +1,19 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:47.979Z",
+  "checkedAt": "2026-11-12T17:49:33.933Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
+    "LIVE POST, FIX: body has 1303 words, over the 1208 limit (top results average 1050): cut repetition and filler",
     "product \"FANAUE S1 Quick Release Binocular Tripod Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/3-tripod-adapters-for-the-nl-pure.403184/",
-    "source didn't respond normally (403): https://www.birdforum.net/threads/binocular-tripod-adapters.402580/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/binocular-tripod-adaptor-which-one.364425/",
-    "source didn't respond normally (403): https://rokslide.com/forums/threads/best-backcountry-bino-mount.369491/",
-    "source didn't respond normally (403): https://www.cloudynights.com/forums/topic/984961-binocular-adapters/",
-    "source didn't respond normally (no response): https://fanaue.com/en/product/s1-Binocular-Adapter/"
+    "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-10-31: TextRazor on top 5 US results; added Warranty (FANAUE S1 and Aziak maker pages state no warranty term, checked 2026-10-31); product first sentences name product, type, maker; topic-named H2s; Verdict replaced by Which one block; first-person lines added; no new prices, ratings or tests",
-    "at": "2026-10-31T17:51:10.112Z",
-    "hash": "a26ad6c74a3dc7fc"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-12T17:49:32.996Z",
+    "hash": "b07eff2bec0169f8"
   }
 }

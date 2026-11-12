@@ -1,7 +1,7 @@
 {
   "slug": "tripod-shake-when-pressing-shutter",
   "pass": true,
-  "checkedAt": "2026-11-03T16:33:23.098Z",
+  "checkedAt": "2026-11-12T17:49:33.164Z",
   "errors": [],
   "warnings": [
     "illustration \"A hand stepping back from a camera on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -10,16 +10,12 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
-    "source didn't respond normally (403): https://photographylife.com/how-to-reduce-camera-shake-on-a-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/125034/how-do-i-eliminate-the-shake-im-getting-using-a-supertelephoto-lens-and-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/reducing-camera-shake-on-a-tripod.4298254/"
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-01: TextRazor entities from top pages (Photography Life, Stack Exchange, DPReview D750 thread, ePHOTOzine, SLR Lounge). Removed body H2 that re-listed the 6 fixes (tldr covers it). Added: DPReview D750 reply that shutter speed is not a significant factor once vibration sources are controlled (source added); ISO a stop for faster shutter speed (general exposure fact); Stack Exchange owner's lens named as Sony 200-600mm with 2x teleconverter (matches thread). From our notes opener made specific; a few sentences moved to first person without testing claims. No prices, ratings or testing claims.",
-    "at": "2026-11-01T17:53:29.375Z",
-    "hash": "0a583e5a230fa682"
+    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-12T17:49:32.064Z",
+    "hash": "e1ec0a2659c5a7b6"
   }
 }
