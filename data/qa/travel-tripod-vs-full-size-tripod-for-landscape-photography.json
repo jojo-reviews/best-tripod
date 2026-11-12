@@ -1,11 +1,10 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-08T11:59:17.506Z",
+  "checkedAt": "2026-11-12T15:27:17.861Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "only 17 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration \"A travel tripod and a full-size tripod s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -13,16 +12,12 @@
     "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1611148/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"
+    "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-01 semantic pass: entities carbon fiber/aluminum, tripod head, backpack, long-exposure photography, leg sections added in sourced sentences; carbon vs aluminum per top guides (Schultz, DPS); FLM per Livieri review; removed unsourced Belinda Shi mention; removed duplicate short-answer H2; no prices/ratings/tests added",
-    "at": "2026-11-01T17:50:52.544Z",
-    "hash": "26f3bfe3b18a2dde"
+    "notes": "added one internal link to best-carbon-fiber-travel-tripod, no claim changed",
+    "at": "2026-11-12T15:27:17.375Z",
+    "hash": "ecef6b138e3b4cb3"
   }
 }

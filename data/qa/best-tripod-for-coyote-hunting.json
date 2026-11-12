@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-coyote-hunting",
   "pass": true,
-  "checkedAt": "2026-11-08T11:54:26.553Z",
+  "checkedAt": "2026-11-12T15:27:16.970Z",
   "errors": [],
   "warnings": [
     "product \"Fatboy Traverse 2 Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,16 +10,12 @@
     "product \"BOG DeathGrip Infinite Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SLIK Pro 700 DX Tripod Legs\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/557127-REG/Slik_615_317_700DX_Pro_Tripod_Legs.html",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.reddit.com/r/Hunting/comments/xuxnul/just_got_a_bog_deathgrip_tripod_in_the_mailcant/",
-    "source didn't respond normally (403): https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after trimming: same sources as the first fact check (FatBoy, Warrior, Vortex, BOG 1163389, SLIK and B&H spec pages, CDC 68.9 in); wording-only cuts, no new facts; ASINs B09YT3M2TS, B0DK7558NS, B08SBWFJRR, B09KNPWK9Y, B001B2I9L8 checked in stock on Amazon US via Firecrawl; owner claims from Predator Masters, AccurateShooter, Rokslide, Sniper's Hide, Shotkit and Warrior reviews; Reddit quotes verbatim from data/pain-points.json.",
-    "at": "2026-11-08T11:34:34.258Z",
-    "hash": "8e3e6bd2483103ae"
+    "notes": "added one internal link to best-rifle-tripod-for-long-range-shooting, no claim changed",
+    "at": "2026-11-12T15:27:16.493Z",
+    "hash": "1050d9498b2715c1"
   }
 }

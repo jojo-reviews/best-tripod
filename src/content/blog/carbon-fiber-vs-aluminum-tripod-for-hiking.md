@@ -156,7 +156,7 @@ Aluminum. Weight barely matters there, and it shrugs off drops.
 
 ### Weight and price
 
-A carbon fiber tripod uses carbon-fiber reinforced polymer tubes, carbon fibers bonded in epoxy resin, so it is lighter for the same stiffness. Manfrotto's own buying guide puts a number on it for its 055 legs: the [3-section carbon version weighs 2000 g against 2500 g in aluminum](https://www.manfrotto.com/global-en/stories/tripod-buying-guide/), tripod alone without a head. The catch: carbon is expensive next to an aluminum tripod.
+A carbon fiber tripod uses carbon-fiber reinforced polymer tubes, carbon fibers bonded in epoxy resin, so it is lighter for the same stiffness. Manfrotto's own buying guide puts a number on it for its 055 legs: the [3-section carbon version weighs 2000 g against 2500 g in aluminum](https://www.manfrotto.com/global-en/stories/tripod-buying-guide/), tripod alone without a head. The catch: carbon is expensive next to an aluminum tripod, which is why our [carbon fiber travel tripod picks](/blog/best-carbon-fiber-travel-tripod/) include a lower-cost model.
 
 ### Vibration damping and touch temperature
 

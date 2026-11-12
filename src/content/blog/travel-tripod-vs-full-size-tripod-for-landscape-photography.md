@@ -286,7 +286,7 @@ A travel tripod kit pairs slim legs with a slim tripod head. One hiker noted of 
 
 ## When a travel tripod is all you need (and a full-size tripod stays home)
 
-**If your landscape kit is a mirrorless or DSLR body with lenses up to about 135mm, a carbon fiber travel tripod covers most shoots.** That fits city trips, carry-on-only flights and long day hikes, where Gitzo's 42.5 cm fold and roughly 1 kg of legs decide whether the tripod comes along at all. Carbon fiber is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on.
+**If your landscape kit is a mirrorless or DSLR body with lenses up to about 135mm, a carbon fiber travel tripod covers most shoots.** That fits city trips, carry-on-only flights and long day hikes, where Gitzo's 42.5 cm fold and roughly 1 kg of legs decide whether the tripod comes along at all. A [carbon fiber travel tripod](/blog/best-carbon-fiber-travel-tripod/) is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on.
 
 Make it work like a bigger tripod:
 

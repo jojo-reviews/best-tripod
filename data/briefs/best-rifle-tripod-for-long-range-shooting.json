@@ -793,12 +793,14 @@
     {
       "slug": "best-tripod-for-hunting",
       "find": "The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod.",
-      "replace": "The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod, as it is in my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/)."
+      "replace": "The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod, as it is in my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/).",
+      "appliedAt": "2026-11-12T15:27:16.128Z"
     },
     {
       "slug": "best-tripod-for-coyote-hunting",
       "find": "Rokslide reviewers found it very stable and smooth to pan.",
-      "replace": "Rokslide reviewers found it very stable and smooth to pan, and it also leads my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/)."
+      "replace": "Rokslide reviewers found it very stable and smooth to pan, and it also leads my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/).",
+      "appliedAt": "2026-11-12T15:27:16.984Z"
     }
   ]
 }

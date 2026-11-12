@@ -499,7 +499,7 @@ On Rokslide, one hunter calls it, with the Chief base, the best coyote tripod fo
 
 The Vortex Radian Carbon is a 4-section carbon fiber tripod kit from Vortex Optics with a ball head and Arca-Swiss clamp in the box. Vortex lists 8.3 to 67.3 in, 7.3 lb and a 55 lb max load, with independent pan, spiked feet and a counterweight hook.
 
-Rokslide reviewers found it very stable and smooth to pan. One warns a top-heavy rifle will flop if the ball is loose, and one Predator Masters owner prefers a cheaper Leofoto. I'd choose the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head) when one tripod must glass and shoot.
+Rokslide reviewers found it very stable and smooth to pan, and it also leads my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/). One warns a top-heavy rifle will flop if the ball is loose, and one Predator Masters owner prefers a cheaper Leofoto. I'd choose the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head) when one tripod must glass and shoot.
 
 ### BOG DeathGrip Infinite Carbon Fiber Tripod: best clamp tripod for stocks without a rail
 
