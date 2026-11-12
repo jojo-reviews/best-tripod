@@ -8321,7 +8321,7 @@
     "publishedAt": "2026-11-11T11:40:33.615Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8347,7 +8347,9 @@
       "parentTopic": "rifle tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "startedAt": "2026-11-12T11:20:51.543Z",
+    "publishedAt": "2026-11-12T11:35:02.370Z"
   },
   {
     "status": "pending",

@@ -1,0 +1,824 @@
+{
+  "keyword": "best rifle tripod for long range shooting",
+  "createdAt": "2026-11-12T11:35:02.372Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "rifle tripod for long range shooting",
+    "entityVariants": [
+      "shooting tripod",
+      "rifle tripod",
+      "precision rifle tripod",
+      "long range tripod",
+      "PRS tripod",
+      "tripod for long range shooting"
+    ],
+    "secondaryKeywords": [
+      "best tripod for long range shooting",
+      "rifle tripod for long range shooting",
+      "best shooting tripod for long range",
+      "best precision rifle tripod"
+    ],
+    "entities": [
+      {
+        "name": "camera tripod",
+        "type": "",
+        "relation": "central entity",
+        "salience": 0.79,
+        "pages": 5,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "rifle",
+        "type": "/book/book_subject",
+        "relation": "what the tripod holds",
+        "salience": 0.65,
+        "pages": 5,
+        "textrazorName": "Rifle"
+      },
+      {
+        "name": "legs",
+        "type": "AnatomicalStructure",
+        "relation": "stiffness and height come from leg diameter and sections",
+        "salience": 0.6,
+        "pages": 5,
+        "textrazorName": "Leg"
+      },
+      {
+        "name": "carbon fiber",
+        "type": "/projects/project_focus",
+        "relation": "leg material",
+        "salience": 0.49,
+        "pages": 5,
+        "textrazorName": "Carbon-fiber reinforced polymer"
+      },
+      {
+        "name": "tripod",
+        "type": "",
+        "relation": "central entity",
+        "salience": 0.97,
+        "pages": 4,
+        "textrazorName": "Tripod"
+      },
+      {
+        "name": "hunting",
+        "type": "/interests/hobby",
+        "relation": "use case",
+        "salience": 0.72,
+        "pages": 4,
+        "textrazorName": "Hunting"
+      },
+      {
+        "name": "shooting",
+        "type": "/event/disaster_type",
+        "relation": "use case",
+        "salience": 0.71,
+        "pages": 3,
+        "textrazorName": "Shooting"
+      },
+      {
+        "name": "shooting sports",
+        "type": "Activity",
+        "relation": "PRS and NRL Hunter matches",
+        "salience": 0.58,
+        "pages": 3,
+        "textrazorName": "Shooting sports"
+      },
+      {
+        "name": "spotting scope",
+        "type": "",
+        "relation": "second job of a rifle tripod",
+        "salience": 0.37,
+        "pages": 3,
+        "textrazorName": "Spotting scope"
+      },
+      {
+        "name": "rifle scope",
+        "type": "",
+        "relation": "rifle optic",
+        "salience": 0.31,
+        "pages": 3,
+        "textrazorName": "Telescopic sight"
+      },
+      {
+        "name": "aluminum",
+        "type": "ChemicalSubstance",
+        "relation": "cheaper leg material",
+        "salience": 0.28,
+        "pages": 3,
+        "textrazorName": "Aluminium"
+      },
+      {
+        "name": "bubble level",
+        "type": "",
+        "relation": "bubble level on the apex or head",
+        "salience": 0.26,
+        "pages": 3,
+        "textrazorName": "Spirit level"
+      },
+      {
+        "name": "rifle mount",
+        "type": "",
+        "relation": "clamp or saddle that holds the rifle",
+        "salience": 0.83,
+        "pages": 2,
+        "textrazorName": "Weapon mount"
+      },
+      {
+        "name": "feet",
+        "type": "AnatomicalStructure",
+        "relation": "rubber feet and spikes",
+        "salience": 0.64,
+        "pages": 2,
+        "textrazorName": "Foot"
+      },
+      {
+        "name": "sniper",
+        "type": "/people/cause_of_death",
+        "relation": "origin of rifle tripods",
+        "salience": 0.57,
+        "pages": 2,
+        "textrazorName": "Sniper rifle"
+      },
+      {
+        "name": "Arca",
+        "type": "Company",
+        "relation": "Arca-Swiss rail and clamp standard",
+        "salience": 0.56,
+        "pages": 2,
+        "textrazorName": "ARCA"
+      },
+      {
+        "name": "gun",
+        "type": "/law/invention",
+        "relation": "what the tripod holds",
+        "salience": 0.53,
+        "pages": 2,
+        "textrazorName": "Gun"
+      },
+      {
+        "name": "clamp",
+        "type": "",
+        "relation": "rifle clamp or Arca clamp",
+        "salience": 0.4,
+        "pages": 2,
+        "textrazorName": "Clamp (tool)"
+      },
+      {
+        "name": "angle",
+        "type": "/measurement_unit/common_dimension",
+        "relation": "leg angle stops",
+        "salience": 0.38,
+        "pages": 2,
+        "textrazorName": "Angle"
+      },
+      {
+        "name": "firearm",
+        "type": "/book/periodical_subject",
+        "relation": "what the tripod holds",
+        "salience": 0.32,
+        "pages": 2,
+        "textrazorName": "Firearm"
+      },
+      {
+        "name": "recoil",
+        "type": "",
+        "relation": "force the tripod must absorb",
+        "salience": 0.32,
+        "pages": 2,
+        "textrazorName": "Recoil"
+      }
+    ],
+    "entitiesNote": "TextRazor sharedEntities from the 5 analyzed pages; dropped off-topic: The Tripods, Email, Ball, Screw, Photography. Must-cover (salience >= 0.5): tripod, rifle, leg, hunting, shooting, shooting sports, weapon mount, foot, sniper rifle, ARCA, gun. Names normalized to plain-text phrases for coverage (textrazorName keeps the TextRazor label).",
+    "attributes": [
+      "rated load vs rifle weight",
+      "weight with head",
+      "max height without a center column",
+      "minimum height for prone",
+      "folded length",
+      "leg tube diameter",
+      "leg sections",
+      "leg angle stops (3 positions)",
+      "leg lock type (twist vs lever)",
+      "head type (ball head, leveling base, clamp)",
+      "Arca-Swiss / Picatinny clamp",
+      "counterweight hook",
+      "spiked feet",
+      "warranty"
+    ],
+    "ngrams": [
+      "shooting tripod",
+      "rifle tripod",
+      "ball head",
+      "carbon fiber legs",
+      "Arca-Swiss clamp",
+      "leg sections",
+      "max load",
+      "leg angle",
+      "long range shooting",
+      "counterweight hook",
+      "spike feet",
+      "twist locks",
+      "precision rifle"
+    ],
+    "skipgrams": [
+      "carbon…legs",
+      "ball…head",
+      "Arca…clamp",
+      "leg…angles",
+      "rifle…tripod",
+      "max…load",
+      "spiked…feet",
+      "prone…standing"
+    ],
+    "nlpTerms": [
+      "PRS",
+      "NRL Hunter",
+      "recoil",
+      "prone",
+      "kneeling",
+      "standing",
+      "rear support",
+      "leveling base",
+      "Picatinny",
+      "dovetail",
+      "bubble level",
+      "load rating",
+      "wobble",
+      "MOA",
+      "chassis",
+      "bipod"
+    ],
+    "questions": [
+      {
+        "q": "What is the best rifle tripod for long range shooting?",
+        "maps": "intro + comparison table",
+        "answerTerms": [
+          "ball head",
+          "Arca-Swiss",
+          "max load",
+          "carbon fiber"
+        ]
+      },
+      {
+        "q": "How much weight should a rifle tripod hold?",
+        "maps": "H2 load rating",
+        "answerTerms": [
+          "max load",
+          "rifle weight",
+          "16 lb",
+          "pounds"
+        ]
+      },
+      {
+        "q": "Is a ball head or a clamp better for a rifle tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "ball head",
+          "clamp",
+          "Arca rail",
+          "pan"
+        ]
+      },
+      {
+        "q": "Arca or Picatinny for a tripod?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "Arca-Swiss",
+          "Picatinny",
+          "clamp",
+          "rail"
+        ]
+      },
+      {
+        "q": "Can you use a camera tripod for rifle shooting?",
+        "maps": "H2 problems",
+        "answerTerms": [
+          "camera tripod",
+          "recoil",
+          "load rating",
+          "clamp"
+        ]
+      },
+      {
+        "q": "How tall should a shooting tripod be?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "standing",
+          "max height",
+          "center column",
+          "inches"
+        ]
+      },
+      {
+        "q": "Tripod vs bipod for long range shooting?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "bipod",
+          "prone",
+          "tripod",
+          "standing"
+        ]
+      },
+      {
+        "q": "How do I set up a tripod for a long range shot?",
+        "maps": "H2 how to set up",
+        "answerTerms": [
+          "legs",
+          "spread",
+          "counterweight",
+          "level"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top result compares rated load against a real rifle weight limit",
+      "No result counts the cost of a head when the legs ship without one",
+      "Few results say which picks reach standing height without a center column",
+      "No chooser by discipline (PRS/NRL, hunting from a blind, spot-and-stalk)"
+    ],
+    "outline": [
+      {
+        "h2": "Rifle tripod comparison by load, height and weight",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these long range rifle tripods",
+        "intent": "method + From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The best rifle tripods for long range shooting, reviewed",
+        "intent": "picks",
+        "h3": [
+          "Vortex Radian Carbon Tripod Kit: best rifle tripod for long range shooting overall",
+          "Leupold Mark 5 CF-455 Tripod Kit: tallest rifle tripod for standing shots",
+          "Fatboy Traverse 3 Section Tripod: stiffest legs for heavy precision rifles",
+          "BOG DeathGrip Infinite Carbon Fiber Tripod: best rifle tripod for stocks without a rail",
+          "Primos Trigger Stick Gen3 Tall Tripod: lightest shooting tripod for stalking"
+        ]
+      },
+      {
+        "h2": "Which long range rifle tripod should you get?",
+        "intent": "decision",
+        "h3": []
+      },
+      {
+        "h2": "Rifle tripod load rating vs your rifle weight",
+        "intent": "ourGain analysis",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a rifle tripod for a long range shot",
+        "intent": "how-to numbered steps + video",
+        "h3": []
+      },
+      {
+        "h2": "Rifle tripod problems shooters run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 2200,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+        "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+        "https://www.recoilweb.com/rifle-ready-tripod-buyers-guide-133249.html",
+        "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+        "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+        "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372",
+        "https://www.longrangeshooting.org/reviews/how-to-pick-the-right-tripod-for-you"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "Most roundups (Rifle Shooter, Top Firearm Reviews, Outdoor Life, Recoil) describe each product with features then likes/dislikes; Outdoor Life and Recoil use explicit pros lists and spec blocks.",
+      "avgWords": 2270,
+      "avgProducts": 6,
+      "commonSections": [
+        "what to look for (must-haves: stout legs, leg angles, rubber feet, Arca clamp)",
+        "product reviews with specs",
+        "final thoughts / editor picks"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+        "title": "5 Best Shooting Tripods for Long-Range Precision Rifles"
+      },
+      {
+        "position": 2,
+        "url": "https://www.longrangeshooting.org/reviews/how-to-pick-the-right-tripod-for-you",
+        "title": "How to pick the right Tripod for you"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=pRK2q_abWrA",
+        "title": "Best Tripods for Hunting & Precision Shooting"
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/longrange/comments/1ub4s96/buyers_guide_to_tripods_for_long_range_precision/",
+        "title": "BUYER'S GUIDE TO TRIPODS FOR LONG RANGE ..."
+      },
+      {
+        "position": 5,
+        "url": "https://www.boghunt.com/pods/tripods/deathgrip-tripod/1099443.html",
+        "title": "DeathGrip® Tripod | Bog - BOG Hunt"
+      },
+      {
+        "position": 6,
+        "url": "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+        "title": "Best Rifle Tripods For Hunting: By A Deer Hunter"
+      },
+      {
+        "position": 7,
+        "url": "https://www.recoilweb.com/rifle-ready-tripod-buyers-guide-133249.html",
+        "title": "Rifle Ready: Tripod Buyer's Guide - Recoil Magazine"
+      },
+      {
+        "position": 8,
+        "url": "https://javelinbipod.com/collections/precision-shooting-tripods",
+        "title": "Precision Shooting Tripods"
+      },
+      {
+        "position": 9,
+        "url": "https://allpredatorcalls.com/tripods/",
+        "title": "Hunting Sticks and Tripods"
+      },
+      {
+        "position": 10,
+        "url": "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+        "title": "Best shooting tripod head?"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "shooting tripods",
+        "precision",
+        "long-range",
+        "hunting",
+        "buyer's guide"
+      ],
+      "gap": "No top-10 title names a load rating or compares it to rifle weight. Year rule: 0 of 10 titles show a year, so no year in title, seoTitle or heroAlt."
+    },
+    "commonPoints": [
+      "Stout, stiff legs matter more than anything (carbon fiber preferred)",
+      "Three leg angle stops for prone, kneeling and standing",
+      "An Arca-Swiss clamp on a ball head is the standard rifle interface",
+      "Rubber feet with spikes and a counterweight hook help steady the rifle",
+      "Heavier tripods are steadier, lighter ones pack better",
+      "Camera tripods are often too flimsy for rifles"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Rated load against the 16 lb NRL Hunter Open Heavy limit: Fatboy 150 lb (about 9x), Vortex Radian and Leupold Mark 5 55 lb (about 3.4x); BOG publishes no load rating for the Infinite and Primos none for the Gen3.",
+        "source": "https://www.nrlhunter.org/rules; https://fatboytripods.com/traverse-3-section-tripod/; https://vortexoptics.com/radian-carbon-ball-head-tripod-kit.html; https://www.leupold.com/mark-5-cf-455-tripod-kit",
+        "absentFrom": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Weight in the bag with a head: Fatboy legs 5 lb 14 oz plus a head you buy separately vs complete kits (Vortex 7.3 lb, Leupold 7.3 lb, BOG 6 lb 8 oz with clamp head, Primos about 3.5 lb). Load-to-weight: Fatboy about 25 lb per lb of tripod, Vortex and Leupold about 7.5.",
+        "source": "maker spec pages",
+        "absentFrom": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by discipline: PRS/NRL stage shooting standing = Leupold (74 in) or Vortex; heaviest rifles and barricade-style rear support = Fatboy; wood-stocked hunting rifles without a rail = BOG; spot-and-stalk inside a few hundred yards = Primos.",
+        "source": "own decision rule from verified specs",
+        "absentFrom": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Light tripod wobbles under a heavy rifle: hang weight from the hook or tether to it, extend the thickest leg sections first, and keep the legs at the narrow angle only when you need height.",
+        "source": "https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/; https://www.reddit.com/r/longrange/comments/1ddqq5o/vortex_radian_tripod_love/",
+        "absentFrom": [
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Vortex Radian Carbon Tripod Kit",
+        "pages": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.reddit.com/r/longrange/comments/1ub4s96/buyers_guide_to_tripods_for_long_range_precision/"
+        ]
+      },
+      {
+        "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+        "pages": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting"
+        ]
+      },
+      {
+        "name": "Leupold Mark 5 CF-455 Tripod Kit",
+        "pages": [
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.firearmsnews.com/editorial/best-shooting-tripods-long-range/494372"
+        ]
+      },
+      {
+        "name": "Fatboy Traverse 3 Section Tripod",
+        "pages": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.predatormasters.com/forums/threads/advice-on-what-tripod-to-buy.360594/"
+        ]
+      },
+      {
+        "name": "Primos Trigger Stick Gen3 Tall Tripod",
+        "pages": [
+          "https://www.topfirearmreviews.com/post/best-tripods-for-shooting",
+          "https://www.recoilweb.com/rifle-ready-tripod-buyers-guide-133249.html"
+        ]
+      },
+      {
+        "name": "Two Vets Recon V2 (no Amazon listing, left out)",
+        "pages": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.longrangeshooting.org/reviews/how-to-pick-the-right-tripod-for-you",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/",
+          "https://www.youtube.com/watch?v=pRK2q_abWrA"
+        ]
+      },
+      {
+        "name": "Really Right Stuff SOAR TFCT / TVC (no Amazon listing, left out)",
+        "pages": [
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814",
+          "https://www.recoilweb.com/rifle-ready-tripod-buyers-guide-133249.html",
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.outdoorlife.com/gear/best-hunting-tripods/"
+        ]
+      },
+      {
+        "name": "Leofoto SO-series inverted tripods (Amazon listing specs did not match the maker, left out)",
+        "pages": [
+          "https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html",
+          "https://www.gun-tests.com/accessories/tripods-we-test-boghunt-two-vets-leofoto-and-vortex-units/",
+          "https://www.reddit.com/r/longrange/comments/1ub4s96/buyers_guide_to_tripods_for_long_range_precision/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "camera-tripods-hunting-tripod-wobble-standing",
+        "pain": "A shooting tripod or shooting sticks wobble at full height for a standing shot",
+        "details": "Hunters who extend sticks or a light tripod to standing height see the crosshair move and try to time the wobble.",
+        "sources": [
+          "https://www.reddit.com/r/longrange/comments/1sj3b5p/tripod_shooting_is_hard/"
+        ],
+        "quotes": [
+          {
+            "text": "Gotta embrace the wobble and just pull through your shot as the tripod isn't as stable as other positions.",
+            "url": "https://www.reddit.com/r/longrange/comments/1sj3b5p/tripod_shooting_is_hard/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-rifle-wiggles-in-saddle",
+        "pain": "The rifle wiggles in the clamp, cradle or saddle on top of the tripod",
+        "details": "A saddle bolted to the tripod cannot pan or tilt and is less stable than a ball head with an Arca clamp.",
+        "sources": [
+          "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/"
+        ],
+        "quotes": [
+          {
+            "text": "A saddle directly to the tripod doesn't have the ability to pan and tilt, not as stable.",
+            "url": "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-glassing-tripod-not-rated-for-rifle",
+        "pain": "A glassing or camera tripod is not built to shoot a rifle off",
+        "details": "Optics tripods are not rated for rifle weight and recoil; shooting tripods are heavier.",
+        "sources": [
+          "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+        ],
+        "quotes": [
+          {
+            "text": "Most optics tripods arent rated for the weight & recoil",
+            "url": "https://www.reddit.com/r/Hunting/comments/1vhq9v3/tripod_general_question_for_western_big_game/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-arca-vs-picatinny-clamp",
+        "pain": "Not sure whether to run an Arca or Picatinny rail into the tripod clamp",
+        "details": "Long range shooters say Arca is easier to lock into a tripod clamp; dual clamps take both.",
+        "sources": [
+          "https://www.reddit.com/r/longrange/comments/1qysljl/picatinny_vs_arca/"
+        ],
+        "quotes": [
+          {
+            "text": "Arca is easier to secure to the tripod.",
+            "url": "https://www.reddit.com/r/longrange/comments/1qysljl/picatinny_vs_arca/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-light-tripod-wobble-heavy-rifle",
+        "pain": "A lightweight tripod wobbles under a heavy rifle",
+        "details": "Shooters tether the tripod to a pack or hang weight from the hook to take out slack.",
+        "sources": [
+          "https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/"
+        ],
+        "quotes": [
+          {
+            "text": "It will also help you take almost all the slack and wobble out of the tripod.",
+            "url": "https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "16 lbs",
+        "claim": "NRL Hunter Open Heavy Division rifle weight maximum",
+        "url": "https://www.nrlhunter.org/rules",
+        "quote": "Open Heavy Division is any rifle configuration over 12lbs and up to a 16 lbs. maximum."
+      },
+      {
+        "number": "55 pounds",
+        "claim": "Leupold Mark 5 CF-455 load capacity at 7.3 pounds",
+        "url": "https://www.leupold.com/mark-5-cf-455-tripod-kit",
+        "quote": "capable of stabilizing 55 pounds of gear while weighing just 7.3 pounds."
+      },
+      {
+        "number": "150lbs",
+        "claim": "Fatboy Traverse 3 Section max weight rating",
+        "url": "https://fatboytripods.com/traverse-3-section-tripod/",
+        "quote": "Max weight rating | 150lbs"
+      },
+      {
+        "number": "five MOA",
+        "claim": "Primos Trigger Stick fully extended standing wobble in Recoil use",
+        "url": "https://www.recoilweb.com/rifle-ready-tripod-buyers-guide-133249.html",
+        "quote": "we found it to be less stable, with roughly five MOA worth of wobble."
+      },
+      {
+        "number": "55 lbs.",
+        "claim": "Vortex Radian Carbon ball head kit max load",
+        "url": "https://vortexoptics.com/radian-carbon-ball-head-tripod-kit.html",
+        "quote": "Max load: 55 lbs."
+      }
+    ],
+    "videos": [
+      {
+        "id": "pRK2q_abWrA",
+        "title": "Best Tripods for Hunting & Precision Shooting",
+        "channel": "Gun Talk Media",
+        "url": "https://www.youtube.com/watch?v=pRK2q_abWrA",
+        "section": "How to set up a rifle tripod for a long range shot"
+      }
+    ],
+    "googleModifiers": [
+      "bipod vs tripod",
+      "rifle rest",
+      "reddit",
+      "rifle tripod (no \"best\")"
+    ],
+    "amazonFilters": [
+      {
+        "group": "Brands",
+        "options": [
+          "Magpul",
+          "PRIMOS",
+          "BOG",
+          "Caldwell",
+          "Birchwood Casey",
+          "CVLIFE",
+          "AC Allen",
+          "VANGUARD"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Up to $100",
+          "$100 to $200",
+          "$200 to $300",
+          "$300 to $600",
+          "$600 & above"
+        ]
+      },
+      {
+        "group": "Customer Reviews",
+        "options": [
+          "4 Stars & Up"
+        ]
+      },
+      {
+        "group": "Condition",
+        "options": [
+          "New",
+          "Used"
+        ]
+      },
+      {
+        "group": "Seller",
+        "options": [
+          "EuroOptic",
+          "Amazon.com",
+          "Sparkfish",
+          "BOSQUE Outdoors",
+          "MidwayUSA, Inc.",
+          "Gritr",
+          "Back40 Trading"
+        ]
+      },
+      {
+        "group": "Eligible for Free Shipping",
+        "options": [
+          "Free Shipping by Amazon"
+        ]
+      },
+      {
+        "group": "Delivery Day",
+        "options": [
+          "Get It Today",
+          "Get It by Tomorrow"
+        ]
+      },
+      {
+        "group": "Deals & Discounts",
+        "options": [
+          "All Discounts",
+          "Buy More, Save More",
+          "Coupons",
+          "Today's Deals"
+        ]
+      }
+    ],
+    "amazonFiltersUsed": "Brands (PRIMOS, BOG) appear in the picks; price, seller, delivery and deal chips skipped (shopping-only). Google suggest: bipod vs tripod and rifle rest covered in FAQ.",
+    "internalLinkCandidates": [
+      "best-tripod-for-hunting",
+      "best-tripod-for-coyote-hunting",
+      "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "best-tripod-for-spotting-scope",
+      "how-to-stop-tripod-shake-in-wind"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-hunting",
+        "find": "The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod.",
+        "replace": "The Vortex Radian Carbon Ball Head Kit is a carbon fiber shooting tripod from Vortex Optics and my pick when the rifle lives on the tripod, as it is in my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/)."
+      },
+      {
+        "slug": "best-tripod-for-coyote-hunting",
+        "find": "Rokslide reviewers found it very stable and smooth to pan.",
+        "replace": "Rokslide reviewers found it very stable and smooth to pan, and it also leads my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/)."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-long-exposure",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-binoculars",
+      "mode": "related-box"
+    }
+  ]
+}

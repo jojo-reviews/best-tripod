@@ -482,8 +482,10 @@ faqs:
       you can choose either.
 heroImage: /images/featured/best-tripod-for-long-exposure.png
 heroAlt: >-
-  Best Tripod for Long Exposure – 5 Picks That Stay Still in Wind – Best
-  Tripod buying guide
+  Best Tripod for Long Exposure – 5 Picks That Stay Still in Wind – Best Tripod
+  buying guide
+related:
+  - best-rifle-tripod-for-long-range-shooting
 ---
 
 The best tripod for long exposure is the one that stays still for 30 seconds or more in wind with its center column down. Load rating rarely decides it; mass, thick tripod legs and real column-down height do. My best overall pick is the [Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head](amzn:Vanguard+VEO3+263AB160S+aluminum+tripod+ball+head): 2.5 kg, a 15 kg rating and 148.3 cm of height without raising the column. If your long exposures are mostly night skies, our [tripods for astrophotography](/blog/best-tripod-for-astrophotography/) cover star trackers.
