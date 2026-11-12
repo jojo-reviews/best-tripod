@@ -1,0 +1,158 @@
+{
+  "lang": "nl",
+  "translationOf": "best-rifle-tripod-for-long-range-shooting",
+  "checkedAt": "2026-11-12T15:32:45.231Z",
+  "productFit": [
+    {
+      "name": "Vortex Radian Carbon Tripod Kit",
+      "asin": "B08SBWFJRR",
+      "status": "fits",
+      "metricSpecs": "German seller: ball head kit 25 kg max. load (leveling head kit 20 kg)",
+      "reason": "Sold in the EU under the same name (German seller LSEK Industries; Vortex EU distribution).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "name": "Leupold Mark 5 CF-455 Tripod Kit",
+      "asin": "B0B75LTJTS",
+      "status": "unknown",
+      "reason": "Listed as #182796 in Leupold's 2024 International Catalog (hosted by the Czech distributor ProArms), but no German, Spanish or Dutch retailer listing was found; US retailers only in search results.",
+      "source": "https://www.proarms.cz/shop/downloads/2024%20Leupold%20Catalog%20Low%20Res.pdf"
+    },
+    {
+      "name": "Fatboy Traverse 3 Section Tripod",
+      "asin": "B09YS78CYY",
+      "status": "notForMarket",
+      "metricSpecs": "42,5 mm leg tubes (42,8 / 38,75 / 35,44 mm sections), 47,5 mm rubber feet, 49 mm leg locks (maker gives only these in mm)",
+      "reason": "FatBoy sells direct and through US dealers; no EU dealer listed.",
+      "source": "https://fatboytripods.com/fatboy-dealers"
+    },
+    {
+      "name": "BOG DeathGrip Infinite Carbon Fiber Tripod",
+      "asin": "B09KNPWK9Y",
+      "status": "fits",
+      "metricSpecs": "all4shooters measured (not maker): 2925 g, 78 cm packed, clamp about 150 cm high at 20 deg; counterweight hook max. 11,4 kg (25 lb); tubes about 35,4/31,8/28,2 mm",
+      "reason": "Sold in the EU by STROBL.CZ (German-language shop), tested by all4shooters.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "name": "Primos Trigger Stick Gen3 Tall Tripod",
+      "asin": "B0728HC759",
+      "status": "fits",
+      "metricSpecs": "61 to 157 cm",
+      "reason": "Sold in the Netherlands as \"Primos trigger stick gen 3 schietstok 3-poot\" (Mets Jachthuis, Jachtloods).",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: men aged 20 or older in the Netherlands were on average 1,81 m tall in 2018; on the legs alone the Leupold (188 cm) and Fatboy (182 cm) reach that, the Vortex (171 cm), Primos (157 cm) and BOG (151 cm) do not.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "fact": "KLM allows hand baggage of max. 55 x 35 x 25 cm; folded, the Vortex (71 cm), Leupold (74 cm), Fatboy (67 cm) and BOG (78 cm) are all longer.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Dutch hunting shops sell the Primos Trigger Stick Gen 3 as a \"schietstok 3-poot\" with a removable 360-degree V rest, so it can also take a camera.",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    },
+    {
+      "fact": "all4shooters measured the BOG DeathGrip Infinite CF at 2925 g and 78 cm packed, clamp about 150 cm high at full extension; sold in the EU by STROBL.CZ.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "fact": "A German seller lists the Vortex Radian Carbon ball head kit at 25 kg max. load (leveling head kit 20 kg).",
+      "source": "https://lsek-industries.de/shop/unkategorisiert/vortex-radian-carbon-stativ-kit/"
+    },
+    {
+      "fact": "Local terms: schietstatief / schietstok (driepoot), balhoofd, nivelleerbasis, Arca-Swiss-rail, Picatinny-rail, houding (liggend, zittend, knielend, staand).",
+      "source": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A tripod shooting stick has to stand firm before you lean on it.",
+      "fix": "Press the feet in (spikes on soft or frozen ground), legs wide, pack on the hook, then load the rifle.",
+      "quotes": [
+        {
+          "text": "De ondersteuning installeert u eenvoudig door deze eerst stevig in de grond te nestelen",
+          "url": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+        }
+      ],
+      "sources": [
+        "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+      ]
+    },
+    {
+      "pain": "Changing height by moving the legs closer or wider changes stability.",
+      "fix": "Reach shooting height on the thickest sections at the widest stop that works; the narrowest stop only for standing.",
+      "quotes": [
+        {
+          "text": "Pas de hoogte van een driebenige-schietstok aan door de benen verder uit elkaar of juist dichter bij elkaar te plaatsen.",
+          "url": "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+        }
+      ],
+      "sources": [
+        "https://www.jachtloods.nl/blog/schietstok-kiezen-en-kopen"
+      ]
+    },
+    {
+      "pain": "With twist locks you cannot see whether a lock is open or closed.",
+      "fix": "Vortex and BOG use twist locks (English specs): pull each leg before the rifle goes on.",
+      "quotes": [
+        {
+          "text": "Nadeel is dat je niet goed ziet of de sluiting los of vast is.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Standing height checked against the Dutch average (1,81 m): only Leupold and Fatboy reach it on the legs.",
+      "source": "https://www.cbs.nl/en-gb/video/765d5e7b2b6a41dfb7fd3c7f3fbb4b2b"
+    },
+    {
+      "point": "European measured BOG figures and the 25 kg EU rating of the Vortex kit.",
+      "source": "https://www.all4shooters.com/en/hunting/accessories/bog-deathgrip-tripods-from-the-strobl-cz-range-put-to-the-test/"
+    },
+    {
+      "point": "Dutch terms and the Primos sold as schietstok 3-poot.",
+      "source": "https://www.metsjachthuis.nl/a-49768228/schietstokken/primos-trigger-stick-gen-3-schietstok-3-poot/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "NRL Hunter Open Heavy division caps the rifle at 16 lb",
+      "action": "replace",
+      "with": "Keep it as a clearly US match rule (NRL Hunter is a US series) in metric first: 7,3 kg (16 lb)"
+    },
+    {
+      "english": "Two Vets and Really Right Stuff left out because neither has its own Amazon listing; a Leofoto dropped because its Amazon specs did not match",
+      "action": "replace",
+      "with": "Keep that they were left out; phrase the reason without naming Amazon (no own listing for the products we link / retailer specs did not match the maker page)"
+    },
+    {
+      "english": "I kept rifle tripods that ... have their own Amazon listing (selection criterion)",
+      "action": "drop"
+    },
+    {
+      "english": "400 yards / a few hundred yards",
+      "action": "replace",
+      "with": "metres first: 366 m (400 yd); \"einige hundert Meter / unos cientos de metros / een paar honderd meter\""
+    },
+    {
+      "english": "pack-in elk hunt, stand over sage, deer stands",
+      "action": "replace",
+      "with": "Keep as what US owners report; phrase reader advice for local use (mountain or field hunting, long range ranges and PRS matches) without new facts"
+    },
+    {
+      "english": "all inch/pound figures",
+      "action": "replace",
+      "with": "metric first with the local decimal comma, imperial in brackets; maker metric figures from productFit where given (Vortex 25 kg)"
+    }
+  ]
+}

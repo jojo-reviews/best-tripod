@@ -1,0 +1,21 @@
+{
+  "slug": "es/tripode-de-tiro-para-larga-distancia",
+  "lang": "es",
+  "translationOf": "best-rifle-tripod-for-long-range-shooting",
+  "pass": true,
+  "checkedAt": "2026-11-12T15:40:00.131Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-hunting/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-spotting-scope/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with the English post best-rifle-tripod-for-long-range-shooting: same 5 products/ASINs/scores/spec keys, every spec converted metric-first with imperial matching the English figures (55 lb=25 kg, 150 lb=68 kg, 74 in=188 cm, 67.3 in=171 cm, 71.5 in=182 cm, 59.5 in=151 cm, 62 in=157 cm, 7.3 lb=3,3 kg, 16 lb=7,3 kg, 400 yd=366 m), FAQ answers match, no testing/ownership claim, no price/currency or local Amazon store. Personal angle only from data/author-stories.json facts (since 2017, carbon/ball head/Arca kit, 200-600mm). Local facts from the local brief re-opened: Iberia 56x40x25 cm/10 kg (re-opened), all4shooters BOG measurements, LSEK Vortex 25 kg, Fawna Primos 61-157 cm; forum quotes from esperasjabali.com and tuslances.com. Recoil number link dropped to plain text to keep 3 outside links (Leupold, NRL Hunter, Iberia).",
+    "at": "2026-11-12T15:39:59.535Z",
+    "hash": "b03960c0ff52c1cf"
+  }
+}

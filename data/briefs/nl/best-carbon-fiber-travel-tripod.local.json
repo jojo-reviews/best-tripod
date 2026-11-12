@@ -1,0 +1,169 @@
+{
+  "lang": "nl",
+  "translationOf": "best-carbon-fiber-travel-tripod",
+  "checkedAt": "2026-11-12T15:32:45.975Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (same as the English specs).",
+      "reason": "Sold in the Netherlands/Belgium as the Peak Design Travel Tripod Carbon by Kamera Express.",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod Kit (GK1545T-82TQD)",
+      "asin": "B071F31XLR",
+      "status": "fits",
+      "metricSpecs": "Gitzo global: 163,5 cm max, 140,5 cm column down, 32,4 cm min, 42,5 cm folded, 1,45 kg, 10 kg safety payload (same as the English specs).",
+      "reason": "GK1545T-82TQD is the European kit code (the US Amazon title says GK1545T-82TQDUS); Gitzo's global site lists it with the same figures.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min from the English post (SIRUI spec chart).",
+      "reason": "Listed on amazon.de (EU marketplace) under the same ASIN; no Spain/Netherlands-specific listing was found in this check, so the post adds no local note (OneLink rule: no availability claims).",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "HEIPI W28S Carbon Fiber Travel Tripod",
+      "asin": "B0FCM9R6X4",
+      "status": "localVariant",
+      "variant": "W28S with the KF50-S head (amazon.nl ASIN B0DPHNZ132); the KF50-Q version of our ASIN is on amazon.de",
+      "metricSpecs": "English post/B&H: 1,38 kg, 45 cm folded, 20 kg load (HEIPI/Andrea Livieri review also gives 1,38 kg and 45 cm).",
+      "reason": "amazon.nl lists the HEIPI 3-in-1 reisstatief W28S with the KF50-S head; same tripod legs, different head version. No note needed in the post.",
+      "source": "https://www.amazon.nl/HEIPI-3-1-reisstatief-KF50-S/dp/B0DPHNZ132"
+    },
+    {
+      "name": "3 Legged Thing Leo 2.0 Carbon Fibre Tripod with AirHed Pro Lever",
+      "asin": "B0821LF672",
+      "status": "localVariant",
+      "variant": "Sold in the EU as \"3 Legged Thing Pro 2.0 Leo\" with the AirHed Pro LV (Lever) head, same kit",
+      "metricSpecs": "Foto Koch NL: 146,6 cm max, 37 cm folded with head, up to 30 kg load (10 kg at an 80 degree leg angle); English post: 37,4 cm, 1,85 kg, 1,12 m without column.",
+      "reason": "Foto Koch NL sells the 3 Legged Thing Pro 2.0 Leo ultracompact reisstatief with the AirHed Pro LV balhoofd.",
+      "source": "https://www.fotokoch-shop.nl/3-Legged-Thing-Pro-2-0-Leo-Ultra-Compact-Travel-Tripod-with-Ball-Head-AirHed-Pro-LV-black_13697.html"
+    },
+    {
+      "name": "NEEWER LITETRIP LT32 Carbon Fiber Travel Tripod",
+      "asin": "B0CL5QHKW9",
+      "status": "fits",
+      "metricSpecs": "NEEWER: 157 cm max, 133 cm without column, 19 cm min, 43 cm folded, 1,18 kg, legs 10 kg / head 4,5 kg (same as the English specs).",
+      "reason": "amazon.nl lists the NEEWER LITETRIP LT32 Camera Travel Tripod (carbon fiber).",
+      "source": "https://www.amazon.nl/-/en/NEEWER-LT32-Cleaning-Cloth-Compatible/dp/B0FGQCS92Y"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat één stuk handbagage toe van maximaal 55 x 35 x 25 cm inclusief handvatten en wieltjes; alle zes statieven zijn ingeklapt korter (het langste, de HEIPI W28S, 45 cm).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Ryanair laat in elk tarief een kleine persoonlijke tas van 40 x 30 x 20 cm onder de stoel toe; alleen de SIRUI 5C (33 cm), Leo 2.0 (37,4 cm) en Peak Design (39,4 cm) passen erin in de lengte.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Nederlandse winkeltermen: carbon reisstatief, balhoofd, middenkolom, draaisluiting, klemsluiting, pakmaat; Foto Koch NL noemt de Leo 2.0 een \"ultracompact reisstatief\" met 146,6 cm maximale hoogte.",
+      "source": "https://www.fotokoch-shop.nl/3-Legged-Thing-Pro-2-0-Leo-Ultra-Compact-Travel-Tripod-with-Ball-Head-AirHed-Pro-LV-black_13697.html"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Klein inklappen betekent meer en dunnere segmenten, dus minder stabiel.",
+      "fix": "Gitzo en NEEWER hebben 4 secties; bij 5 secties de dunste dichtlaten (Engelse post: probleem dunne benen).",
+      "quotes": [
+        {
+          "text": "Klein opvouwen betekent meer segmenten en dat betekent minder stabiel (dunste segmenten worden nog dunner).",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+      ]
+    },
+    {
+      "pain": "De maximale hoogte zegt weinig; de hoogte met ingeschoven middenkolom telt.",
+      "fix": "Vergelijkingstabel met hoogte zonder middenkolom: Gitzo 140,5 cm, NEEWER 133 cm.",
+      "quotes": [
+        {
+          "text": "kijk dus even naar de max hoogte met ingeschoven middenkolom.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+      ]
+    },
+    {
+      "pain": "Wind laat een licht statief trillen.",
+      "fix": "Tas aan de haak, poten breder, middenkolom laag, zelfontspanner (Engelse post: wind-sectie).",
+      "quotes": [
+        {
+          "text": "Een hoger gewicht komt de stabiliteit (zeker bij veel wind) altijd iets ten goede.",
+          "url": "https://www.vogelinformatiecentrum.nl/statieven-3/"
+        }
+      ],
+      "sources": [
+        "https://www.vogelinformatiecentrum.nl/statieven-3/"
+      ]
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "KLM-maat en de Ryanair-tas tegen de ingeklapte lengte; de beveiliging beslist.",
+      "quotes": [
+        {
+          "text": "Nog lang zitten twijfelen voor een statief, maar was niet zeker of het in handbagage mocht.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1417803/14"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Ingeklapte lengte van de zes statieven tegen de KLM-handbagage (55 x 35 x 25 cm) en de Ryanair-tas (40 x 30 x 20 cm).",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Statiefregel van Rijksmuseum Boerhaave (geen statief).",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Metrische fabriekswaarden (Gitzo 140,5 cm zonder kolom, Leo 2.0 146,6 cm volgens Foto Koch NL).",
+      "source": "https://www.fotokoch-shop.nl/3-Legged-Thing-Pro-2-0-Leo-Ultra-Compact-Travel-Tripod-with-Ball-Head-AirHed-Pro-LV-black_13697.html"
+    },
+    {
+      "point": "Antwoord op de Tweakers-zorgen over dunne segmenten en middenkolomhoogte.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1090626/25"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Imperial-first figures (15.5 in, 2.8 lb, 51.25 in, 20 lb, 55.3 in, 13 in, 17.7 in, 44 lb, 66 lb ...)",
+      "action": "replace",
+      "with": "Maker metric first with imperial in brackets: 39,4 cm, 1,3 kg, 130,2 cm, 9,1 kg, 140,5 cm, 33 cm, 45 cm, 20 kg, 30 kg ..."
+    },
+    {
+      "english": "Amazon US lists it as its own product / Amazon stock of the Leo 2.0 kit was thin when I checked",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific statement (Amazon US listing); no local stock claims."
+    },
+    {
+      "english": "Check your airline's size rules and measure the inside of your bag (FAQ carry-on)",
+      "action": "replace",
+      "with": "Name the local airline cabin-bag sizes from localFacts against the folded lengths."
+    },
+    {
+      "english": "aluminum (aluminium in UK spec sheets)",
+      "action": "replace",
+      "with": "Dutch term aluminium; drop the UK spelling note."
+    }
+  ]
+}

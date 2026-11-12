@@ -1,0 +1,23 @@
+{
+  "slug": "es/mejor-tripode-de-viaje-de-carbono",
+  "lang": "es",
+  "translationOf": "best-carbon-fiber-travel-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-12T15:38:50.412Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-that-fits-in-carry-on-luggage/; link the es version once it exists",
+    "internal link to the English post /blog/carbon-fiber-vs-aluminum-tripod-for-hiking/; link the es version once it exists",
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "internal link to the English post /blog/4-section-vs-5-section-tripod/; link the es version once it exists",
+    "internal link to the English post /blog/travel-tripod-vs-full-size-tripod-for-landscape-photography/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-carbon-fiber-travel-tripod: same 6 products/ASINs/scores/spec keys, same facts and FAQ answers; figures converted metric-first from the English post and maker metric figures in its factcheck (Gitzo 1,45 kg/42,5/163,5/140,5/32,4 cm/10 kg; Peak 39,4/130,2/152,4 cm, 9,1 kg; SIRUI 33/138/16 cm, 0,85 kg, 4 kg; HEIPI 1,38 kg, 45/152/127/29 cm, 20 kg; Leo 37,4 cm, 1,85 kg, 1,46/1,12 m, 30/10 kg; NEEWER 1,18 kg, 43/157/133/19 cm, 10/4,5 kg; B&H 1,27 vs 1,56 kg). Local facts from data/briefs/es/best-carbon-fiber-travel-tripod.local.json: Iberia 56x40x25 cm 10 kg, Ryanair 40x30x20 cm, Alhambra no-tripod rule, Sagrada Familia tripod rule; forum quotes verbatim from the local brief (forocoches, sonycam, nikonistas, fujistas). Gitzo 135mm and NEEWER head-rating number links kept as plain text (3-outside-link limit: B&H number link + Iberia + Alhambra). No testing/ownership claims, no prices, no local Amazon store mentions.",
+    "at": "2026-11-12T15:38:49.840Z",
+    "hash": "9db281557d77da4a"
+  }
+}

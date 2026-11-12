@@ -1,0 +1,172 @@
+{
+  "lang": "de",
+  "translationOf": "best-carbon-fiber-travel-tripod",
+  "checkedAt": "2026-11-12T15:32:45.975Z",
+  "productFit": [
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max, 130,2 cm column down, 14 cm min, 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (same as the English specs).",
+      "reason": "Foto Erhardt (DE) lists the Peak Design Travel Tripod Carbon; Peak Design's EU store sells the carbon version too.",
+      "source": "https://www.foto-erhardt.com/tripods/other-manufacturers/peak-design-travel-tripod-carbon-travel-tripod.html"
+    },
+    {
+      "name": "Gitzo Series 1 Traveler Carbon Fiber Tripod Kit (GK1545T-82TQD)",
+      "asin": "B071F31XLR",
+      "status": "fits",
+      "metricSpecs": "Gitzo global: 163,5 cm max, 140,5 cm column down, 32,4 cm min, 42,5 cm folded, 1,45 kg, 10 kg safety payload (same as the English specs).",
+      "reason": "GK1545T-82TQD is the European kit code (the US Amazon title says GK1545T-82TQDUS); Gitzo's global site lists it with the same figures.",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min from the English post (SIRUI spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "HEIPI W28S Carbon Fiber Travel Tripod",
+      "asin": "B0FCM9R6X4",
+      "status": "fits",
+      "metricSpecs": "English post/B&H: 1,38 kg, 45 cm folded, 20 kg load (HEIPI/Andrea Livieri review also gives 1,38 kg and 45 cm).",
+      "reason": "The same ASIN is listed on amazon.de as HEIPI 3-in-1 Reisestativ aus Kohlefaser – W28S.",
+      "source": "https://www.amazon.de/HEIPI-3-Reisestativ-aus-Kohlefaser/dp/B0FCM9R6X4"
+    },
+    {
+      "name": "3 Legged Thing Leo 2.0 Carbon Fibre Tripod with AirHed Pro Lever",
+      "asin": "B0821LF672",
+      "status": "localVariant",
+      "variant": "Sold in the EU as \"3 Legged Thing Pro 2.0 Leo\" with the AirHed Pro LV (Lever) head, same kit",
+      "metricSpecs": "3 Legged Thing: 37,4 cm folded; English post: 1,85 kg kit, 1,46 m max, 1,12 m without column, 30 kg at 23 degrees / 10 kg at 80 degrees.",
+      "reason": "Calumet DE sells the 3 Legged Thing Pro 2.0 Leo Carbon; the kit with AirHed Pro LV is listed by German shops (idealo/geizhals).",
+      "source": "https://www.calumet.de/product/3-legged-thing-pro-2-0-leo-carbon-grau"
+    },
+    {
+      "name": "NEEWER LITETRIP LT32 Carbon Fiber Travel Tripod",
+      "asin": "B0CL5QHKW9",
+      "status": "fits",
+      "metricSpecs": "NEEWER: 157 cm max, 133 cm without column, 19 cm min, 43 cm folded, 1,18 kg, legs 10 kg / head 4,5 kg (same as the English specs).",
+      "reason": "The same ASIN is listed on amazon.de as NEEWER LITETRIP LT32 62\" Reisestativ Carbonfaser.",
+      "source": "https://www.amazon.de/NEEWER-Nivellierung-Panoramakopf-Schnellverschluss-TP62/dp/B0CL5QHKW9"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm und 8 kg; alle sechs Carbon-Reisestative sind zusammengelegt kürzer (das längste, das HEIPI W28S, misst 45 cm).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Ryanair erlaubt in jedem Tarif eine kleine persönliche Tasche von 40 x 30 x 20 cm unter dem Sitz; nur SIRUI 5C (33 cm), Leo 2.0 (37,4 cm) und Peak Design (39,4 cm) passen der Länge nach hinein.",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private Fotos ohne Blitz sind erlaubt, Aufnahmen mit Stativen brauchen eine Genehmigung des Dompropstes.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Staatliche Museen zu Berlin: Stative müssen laut Benutzungsordnung an der Garderobe abgegeben oder ins Schließfach gelegt werden.",
+      "source": "https://www.smb.museum/besuch-planen/benutzungsordnung/"
+    },
+    {
+      "fact": "Deutsche Händlerbegriffe: Carbon-Reisestativ, Kugelkopf, Mittelsäule, Drehverschluss, Klemmverschluss, Packmaß, Arbeitshöhe; Gitzo nennt die Last \"Sicherheitslast\" (10 kg).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Dünne Reisestativ-Beine schwingen schon bei leichtem Wind.",
+      "fix": "Dicke Segmente zuerst ausziehen, Mittelsäule unten lassen, Tasche an den Haken hängen, per Selbstauslöser auslösen (englischer Beitrag: Wind-Abschnitt und Problemliste).",
+      "quotes": [
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "Die Mittelsäule kostet Stabilität, also zählt die Höhe ohne Säule.",
+      "fix": "Gitzo (140,5 cm) oder NEEWER (133 cm) ohne Mittelsäule wählen (englischer Beitrag: Vergleichstabelle, Problem Wackeln mit Säule).",
+      "quotes": [
+        {
+          "text": "dank Klappdisplay reicht auch knapp über Hüfthoch ... die Mittelsäule sollte nur im Notfall ausgezogen werden, der Stabilität wegen.",
+          "url": "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+        }
+      ],
+      "sources": [
+        "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+      ]
+    },
+    {
+      "pain": "Carbon soll weniger schwingen als Alu; lohnt der Aufpreis?",
+      "fix": "Carbon-Abschnitt: 1,27 kg gegen 1,56 kg beim gleichen Peak-Design-Modell, bessere Dämpfung, aber Bruch statt Delle bei hartem Schlag.",
+      "quotes": [
+        {
+          "text": "Alternativ ein Carbonstativ, die schwingen nicht so.",
+          "url": "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+        }
+      ],
+      "sources": [
+        "https://www.systemkamera-forum.de/topic/125243-gutes-stativ-f%C3%BCr-sony-a7r-iii/"
+      ]
+    },
+    {
+      "pain": "Angst, dass die Sicherheitskontrolle ein Stativ im Handgepäck nicht durchlässt.",
+      "fix": "Packmaße gegen Lufthansa- und Ryanair-Maße; die letzte Entscheidung liegt beim Kontrollpersonal.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Packmaße der sechs Stative gegen Lufthansa-Handgepäck (55 x 40 x 23 cm) und die Ryanair-Tasche unter dem Sitz (40 x 30 x 20 cm).",
+      "source": "https://help.ryanair.com/hc/en-us/articles/12888036565521-Ryanair-s-Bag-Policy"
+    },
+    {
+      "point": "Stativregeln im Kölner Dom (Genehmigung nötig) und in den Staatlichen Museen zu Berlin (Garderobe).",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Herstellerwerte metrisch zuerst (Gitzo 140,5 cm ohne Säule, 10 kg Sicherheitslast; Leo 2.0 37,4 cm).",
+      "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/"
+    },
+    {
+      "point": "Antwort auf die Wind- und Mittelsäulen-Sorgen aus deutschen Foren.",
+      "source": "https://www.systemkamera-forum.de/topic/113582-wie-hoch-sollte-ein-reisestativ-sein/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Imperial-first figures (15.5 in, 2.8 lb, 51.25 in, 20 lb, 55.3 in, 13 in, 17.7 in, 44 lb, 66 lb ...)",
+      "action": "replace",
+      "with": "Maker metric first with imperial in brackets: 39,4 cm, 1,3 kg, 130,2 cm, 9,1 kg, 140,5 cm, 33 cm, 45 cm, 20 kg, 30 kg ..."
+    },
+    {
+      "english": "Amazon US lists it as its own product / Amazon stock of the Leo 2.0 kit was thin when I checked",
+      "action": "replace",
+      "with": "Keep as a clearly US-specific statement (Amazon US listing); no local stock claims."
+    },
+    {
+      "english": "Check your airline's size rules and measure the inside of your bag (FAQ carry-on)",
+      "action": "replace",
+      "with": "Name the local airline cabin-bag sizes from localFacts against the folded lengths."
+    },
+    {
+      "english": "aluminum (aluminium in UK spec sheets)",
+      "action": "replace",
+      "with": "German term Aluminium; drop the UK spelling note."
+    }
+  ]
+}
