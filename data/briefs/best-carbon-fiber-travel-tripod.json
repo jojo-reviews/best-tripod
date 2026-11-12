@@ -1,0 +1,215 @@
+{
+  "centralEntity": "carbon fiber travel tripod",
+  "entityVariants": [
+    "carbon fiber tripod for travel",
+    "carbon travel tripod",
+    "travel tripod for DSLR",
+    "lightweight carbon fiber tripod",
+    "carbon fibre travel tripod"
+  ],
+  "entities": [
+    { "name": "carbon fiber travel tripod", "type": "central entity", "relation": "the product the searcher wants; Tripod (photography) per TextRazor, relevance 0.96 on 4 top pages", "salience": 0.96 },
+    { "name": "camera", "type": "device", "relation": "what the tripod holds; TextRazor relevance 0.62 on 4 top pages", "salience": 0.62 },
+    { "name": "carbon-fiber reinforced polymer", "type": "material", "relation": "the leg material; TextRazor relevance 0.52 on 4 top pages", "salience": 0.52 },
+    { "name": "Peak Design", "type": "brand", "relation": "maker of the most-recommended pick; TextRazor relevance 0.62 on 2 pages", "salience": 0.62 },
+    { "name": "carbon", "type": "material", "relation": "short name for the leg material; relevance 0.6", "salience": 0.6 },
+    { "name": "aluminium", "type": "material", "relation": "the heavier, cheaper alternative leg material; relevance 0.44", "salience": 0.44 },
+    { "name": "photography", "type": "activity", "relation": "travel and landscape photography is the use case; relevance 0.38", "salience": 0.38 },
+    { "name": "height", "type": "attribute", "relation": "max and column-down working height; relevance 0.32", "salience": 0.32 },
+    { "name": "monopod", "type": "product", "relation": "several picks (Leo 2.0, Heipi, Neewer) convert a leg to a monopod; relevance 0.32", "salience": 0.32 },
+    { "name": "camera lens", "type": "device", "relation": "lens weight sets the real load; relevance 0.26", "salience": 0.26 },
+    { "name": "zoom lens", "type": "device", "relation": "24-70 and 70-200 zooms are the typical travel load; relevance 0.25", "salience": 0.25 },
+    { "name": "leg", "type": "part", "relation": "leg sections, leg locks and tube diameter; relevance 0.23", "salience": 0.23 },
+    { "name": "screw", "type": "part", "relation": "1/4-20 and 3/8-16 mounting screws; relevance 0.22", "salience": 0.22 },
+    { "name": "ball head", "type": "part", "relation": "all six picks ship with a ball head", "salience": 0.5 },
+    { "name": "Arca-Swiss plate", "type": "standard", "relation": "plate standard on five of six picks", "salience": 0.4 },
+    { "name": "center column", "type": "part", "relation": "raising it costs stability; column-down height matters", "salience": 0.45 },
+    { "name": "DSLR", "type": "device", "relation": "secondary keyword 'best travel tripod for dslr': heavier bodies and lenses", "salience": 0.4 }
+  ],
+  "attributes": [
+    "weight with head (carbon fiber travel tripod)",
+    "folded length (carry-on and daypack fit)",
+    "max height and height with the center column down",
+    "load capacity of the legs vs the ball head",
+    "leg sections and leg lock type (twist vs flip)",
+    "head type and Arca-Swiss plate compatibility",
+    "monopod conversion",
+    "minimum height for low shots"
+  ],
+  "ngrams": [
+    "carbon fiber travel tripod",
+    "travel tripod",
+    "carbon fiber legs",
+    "ball head",
+    "center column",
+    "folded length",
+    "load capacity",
+    "max height",
+    "leg sections",
+    "full-frame camera"
+  ],
+  "skipgrams": [
+    "carbon…lighter",
+    "column…down",
+    "load…head",
+    "fold…carry-on",
+    "legs…twist locks",
+    "wind…hook"
+  ],
+  "nlpTerms": [
+    "vibration damping",
+    "reverse-folding legs",
+    "Arca-type plate",
+    "twist lock",
+    "flip lock",
+    "payload",
+    "telephoto",
+    "long exposure",
+    "carry-on",
+    "monopod conversion"
+  ],
+  "questions": [
+    "What is the best carbon fiber travel tripod?",
+    "Is a carbon fiber travel tripod worth it over aluminum?",
+    "How much lighter is a carbon fiber tripod than aluminum?",
+    "What is the best travel tripod for a DSLR?",
+    "How much weight can a carbon fiber travel tripod hold?",
+    "Will a carbon fiber travel tripod fit in a carry-on?",
+    "Are 5-section travel tripods less stable than 4-section ones?"
+  ],
+  "answerTerms": {
+    "Is a carbon fiber travel tripod worth it over aluminum?": ["lighter", "vibration", "same design", "lb", "price"],
+    "How much lighter is a carbon fiber tripod than aluminum?": ["2.81 lb", "3.44 lb", "same tripod", "carbon fiber", "aluminum"],
+    "What is the best travel tripod for a DSLR?": ["load capacity", "ball head", "lb", "telephoto", "column down"],
+    "How much weight can a carbon fiber travel tripod hold?": ["load rating", "head", "kg", "lb", "leg angle"],
+    "Will a carbon fiber travel tripod fit in a carry-on?": ["folded length", "inches", "carry-on", "airline", "head"],
+    "Are 5-section travel tripods less stable than 4-section ones?": ["leg sections", "thinnest section", "twist lock", "stability", "fold"]
+  },
+  "contentGaps": [
+    "Height with the center column down for every pick (top guides list max height only)",
+    "Head load rating vs leg load rating (Neewer 22 lb legs vs 10 lb head) and what it means for a DSLR",
+    "Same-design carbon vs aluminum weight math instead of a generic 'carbon is lighter'",
+    "A chooser by heaviest lens rather than by price"
+  ],
+  "outline": [
+    { "h2": "Carbon fiber travel tripod comparison by weight, fold, height and load", "intent": "spec table with column-down height and head load", "h3": [] },
+    { "h2": "How I picked each carbon fiber travel tripod", "intent": "selection rule and who else recommends them", "h3": [] },
+    { "h2": "The 6 best carbon fiber travel tripods, reviewed", "intent": "one section per product", "h3": [
+      "Peak Design Travel Tripod (Carbon Fiber): best carbon fiber travel tripod overall",
+      "Gitzo Traveler Series 1 Kit GK1545T-82TQD: best carbon fiber travel tripod for a DSLR",
+      "SIRUI Traveler 5C: lightest carbon fiber travel tripod",
+      "HEIPI W28S 3-in-1 Travel Tripod: best 3-in-1 carbon fiber travel tripod",
+      "3 Legged Thing Leo 2.0 with AirHed Pro: highest-load carbon fiber travel tripod",
+      "NEEWER LT32 Carbon Fiber Travel Tripod: best value carbon fiber travel tripod"
+    ] },
+    { "h2": "Which carbon fiber travel tripod should you get?", "intent": "decision rule by heaviest lens and bag", "h3": [] },
+    { "h2": "Is a carbon fiber travel tripod worth it over aluminum?", "intent": "analysis: 2.81 vs 3.44 lb on the same design", "h3": [] },
+    { "h2": "Carbon fiber travel tripod load ratings for a DSLR or full-frame kit", "intent": "head vs legs, Gitzo lens guidance", "h3": [] },
+    { "h2": "How to set up a carbon fiber travel tripod for sharp shots in wind", "intent": "numbered steps", "h3": [] },
+    { "h2": "Carbon fiber travel tripod problems owners run into, and the fix", "intent": "pain points with fixes", "h3": [] }
+  ],
+  "targetWords": 2900,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://www.packhacker.com/blog/general/best-travel-tripod/",
+      "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod",
+      "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/",
+      "https://www.findingtheuniverse.com/best-travel-tripods/",
+      "https://www.digitalcameraworld.com/buying-guides/carbon-fiber-tripods",
+      "https://www.techradar.com/news/best-travel-tripod",
+      "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"
+    ],
+    "productStyle": "pros-cons",
+    "productStyleReason": "Pack Hacker shows 'Why we like it / What you should know' lists per product and DPReview shows 'What we like / What we don't like' lists; Finding the Universe and DCW add short spec blocks.",
+    "avgWords": 3430,
+    "avgProducts": 7,
+    "commonSections": ["product list with specs", "how to choose (material, height, weight)", "can I take a tripod on a plane", "how we test"],
+    "usesComparisonTable": true,
+    "usesFaq": true,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    { "position": 1, "url": "https://www.packhacker.com/blog/general/best-travel-tripod/", "title": "The Best Travel Tripod for 2026" },
+    { "position": 2, "url": "https://www.reddit.com/r/Photography_Gear/comments/1q9q5gh/looking_for_good_carbon_fiber_tripod_suggestions/", "title": "Looking for good carbon fiber tripod suggestions" },
+    { "position": 3, "url": "https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844", "title": "4 Tripods That Give You the Best Bang for Your Buck" },
+    { "position": 4, "url": "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "title": "Best travel tripod: lightweight, stable supports for taking on ..." },
+    { "position": 5, "url": "https://www.youtube.com/watch?v=h-vtALIMcQY", "title": "Best Carbon Fiber Travel Tripod? - Neewer LT39 Tripod" },
+    { "position": 6, "url": "https://www.peakdesign.com/products/travel-tripod", "title": "Travel Tripod | Peak Design Official Site" },
+    { "position": 7, "url": "https://www.smallrig.com/list/Tripod.html", "title": "Best Tripods: Travel, Video & Carbon Fiber" },
+    { "position": 8, "url": "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/", "title": "Tested: Four travel tripods for every budget" },
+    { "position": 9, "url": "https://www.amazon.com/Peak-Design-Travel-Tripod-Section/dp/B085BQTQMN", "title": "Peak Design Travel Tripod, Carbon Fiber, Compact ..." },
+    { "position": 10, "url": "https://www.facebook.com/groups/1884776005076822/posts/3808831662671237/", "title": "What are the best carbon fiber tripods for travel and long ..." }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 1,
+    "withNumber": 2,
+    "commonModifiers": ["best", "travel tripod", "carbon fiber", "lightweight", "budget"],
+    "gap": "Only 1 of 10 titles carries a year, so no year in our title. No title sorts carbon travel tripods by load and fold, or tells a DSLR shooter which head limit matters."
+  },
+  "googleModifiers": [
+    "best carbon fiber travel tripod for photography",
+    "best budget carbon fiber travel tripod",
+    "best lightweight carbon fiber travel tripod",
+    "are carbon fiber tripods worth it",
+    "peak design carbon fiber travel tripod review",
+    "cheapest carbon fiber tripod",
+    "carbon fiber travel tripod reddit"
+  ],
+  "googleModifiersSkipped": ["best carbon fibre travel tripod uk (UK intent)"],
+  "amazonFilters": [
+    { "group": "Max Height", "options": ["Up to 39 in", "40 to 49 in", "50 to 64 in", "65 in & above"] },
+    { "group": "Min Height", "options": ["Up to 7.9 in", "8.0 to 13.9 in", "14.0 to 19.9 in", "20.0 in & above"] },
+    { "group": "Head Type", "options": ["Ball Heads", "Geared Heads", "Gimbal Heads", "Pan Heads"] },
+    { "group": "Special Features", "options": ["Lightweight", "Foldable", "Telescopic", "Includes Accessory Shoe", "Includes Cover", "Magnetic", "One-Hand Operation", "Pan-handle", "Quick-Release", "Remote Control", "Shock Resistant", "Slip Resistant", "Spirit Level"] },
+    { "group": "Brands", "options": ["ULANZI", "UBeesize", "SMALLRIG", "NEEWER", "K&F CONCEPT", "Manfrotto", "Sirui"] },
+    { "group": "Compatibility", "options": ["Binoculars", "Camcorder", "Camera", "Microscope", "Projector", "Smartphone", "Tablet", "Teleprompter", "Telescope"] }
+  ],
+  "amazonFiltersUsed": ["Max Height (all six picks sit in the 50 to 64 in band)", "Min Height (table column)", "Head Type: Ball Heads (all picks)", "Quick-Release / Spirit Level (plates and levels in product sections)"],
+  "serpProducts": [
+    { "name": "Peak Design Travel Tripod (Carbon Fiber)", "pages": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/", "https://www.findingtheuniverse.com/best-travel-tripods/", "https://www.techradar.com/news/best-travel-tripod", "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"] },
+    { "name": "Gitzo Traveler Series 1 (GT1545T / GK1545T-82TQD kit)", "pages": ["https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/", "https://www.findingtheuniverse.com/best-travel-tripods/", "https://www.weseektravel.com/best-lightweight-backpacking-tripod/", "https://www.techradar.com/news/best-travel-tripod"] },
+    { "name": "SIRUI Traveler 5C", "pages": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"] },
+    { "name": "HEIPI W28S 3-in-1 Travel Tripod (carbon)", "pages": ["https://www.techradar.com/news/best-travel-tripod", "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"] },
+    { "name": "3 Legged Thing Leo 2.0", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "https://www.weseektravel.com/best-lightweight-backpacking-tripod/"] },
+    { "name": "NEEWER LT32 Carbon Fiber Travel Tripod", "pages": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.photoworkout.com/best-beginner-tripod/"] },
+    { "name": "Vanguard VEO 3GO 235CB (not used: one top page plus a carry-on page; no clear in-stock Amazon listing checked)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "https://goldenlenstraveler.com/best-travel-tripods-fit-in-carry-on-bag/"] },
+    { "name": "Benro Cyanbird (not used: both mentions from one publisher)", "pages": ["https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "https://www.digitalcameraworld.com/buying-guides/carbon-fiber-tripods"] }
+  ],
+  "commonPoints": [
+    "Carbon fiber is lighter than aluminum and damps vibration better, but costs more",
+    "Folded length decides whether a tripod fits a carry-on or daypack",
+    "The Peak Design Travel Tripod is the reference pick for packability",
+    "Raising the center column reduces stability",
+    "Check airline rules before flying with a tripod",
+    "Travel tripods trade height and stiffness for size"
+  ],
+  "ourGain": [
+    { "type": "analysis", "point": "Same-design carbon vs aluminum: B&H lists the Peak Design Travel Tripod at 2.81 lb in carbon and 3.44 lb in aluminum, a 0.63 lb (about 18%) saving on an otherwise identical tripod; DCW puts the general saving at around 25%.", "source": "https://www.bhphotovideo.com/explora/photography/news/travel-tripod-reinvented-the-peak-design-travel-tripod", "absentFrom": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/", "https://www.techradar.com/news/best-travel-tripod"] },
+    { "type": "analysis", "point": "Column-down height for every pick: Gitzo 55.3 in, Neewer 52 in, Peak Design 51.25 in, Heipi about 50 in, Leo 2.0 kit 44 in; the SIRUI 5C maker publishes none. That is the height you get without the stability loss of the column.", "source": "https://www.gitzo.com/global/tripod-kit-traveler-series-1-4-sections-gk1545t-82tqd/; https://neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733; https://fstoppers.com/gear/how-choose-tripod-depth-review-peak-design-travel-tripod-684654; https://www.bhphotovideo.com/c/product/1910579-REG/heipi_w28s_q_3_in_1_travel_tripod.html; https://3leggedthing.com/en-us/pages/buyers-guide", "absentFrom": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod", "https://www.techradar.com/news/best-travel-tripod"] },
+    { "type": "decision", "point": "The weakest rating sets the real limit: the Neewer LT32 legs are rated 22 lb but its head 10 lb, the SIRUI 5C 8.8 lb, and Gitzo recommends its Traveler for 135mm lenses (200mm max). Chooser by heaviest lens: short zoom = SIRUI/Neewer; 70-200 = Peak Design/Heipi; DSLR + 70-200 or heavier = Gitzo or Leo 2.0.", "source": "https://neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733; https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/", "absentFrom": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.findingtheuniverse.com/best-travel-tripods/", "https://www.digitalcameraworld.com/buying-guides/carbon-fiber-tripods"] },
+    { "type": "situation", "point": "Wind and wobble on a light carbon travel tripod: keep the column down, extend thickest sections first, hang the bag from the hook, spread legs wider; owners of the SIRUI 5C and Gitzo report wobble at full extension.", "source": "https://www.techgearlab.com/reviews/electronics/tripod/sirui-lightweight-carbon-fiber-traveler-5c; https://www.bhphotovideo.com/c/product/1328227-REG/gitzo_gk1545t_82tqdus_traveler_tripod_kit_gt1545t.html/reviews; data/pain-points.json travel-tripods-center-column-tradeoff", "absentFrom": ["https://www.packhacker.com/blog/general/best-travel-tripod/", "https://www.techradar.com/news/best-travel-tripod", "https://www.digitalcameraworld.com/buying-guides/best-travel-tripod"] }
+  ],
+  "painPoints": [
+    { "id": "travel-tripods-wobbly-for-long-exposure", "pain": "A small travel tripod is too wobbly for long exposures, ND filters, astro or a 100-400", "details": "Photographers outgrow light travel tripods once they add ND filters, astro or long lenses.", "sources": ["https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2", "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"], "quotes": [{ "text": "The center column make the Travel Tripod less stable so you should not extend it.", "url": "https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/" }] },
+    { "id": "travel-tripods-center-column-tradeoff", "pain": "Reaching eye level on a travel tripod means using the center column and losing stability", "details": "Hikers avoid the column where possible or add a counterweight.", "sources": ["https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"], "quotes": [] },
+    { "id": "travel-tripods-leg-section-count", "pain": "Too many leg sections and plastic locks make a travel tripod wobbly and fragile", "details": "Forum advice warns against thin five-section legs for long exposures.", "sources": ["https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2"], "quotes": [{ "text": "I would stay away from 5 section legs.", "url": "https://www.dpreview.com/forums/threads/tripod-for-travel-hiking-long-exposure-stability-vs-portability.4575894/page-2" }] },
+    { "id": "travel-tripods-integrated-head-limits", "pain": "Integrated ball heads on light travel tripods lack friction control or enough stiffness", "details": "Owners of travel tripods with built-in or small heads report no separate friction control.", "sources": ["https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/"], "quotes": [] },
+    { "id": "travel-tripods-too-short-bend-over", "pain": "Compact travel tripods are too short, forcing photographers to bend over", "details": "Tall users find folded-small tripods stop below eye level with the column down.", "sources": ["https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"], "quotes": [{ "text": "a travel pod will be shorter requiring you to bend over to look through the VF", "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/" }] }
+  ],
+  "stats": [
+    { "number": "2.81 lb and 3.44 lb", "claim": "Peak Design Travel Tripod weight in carbon fiber vs aluminum", "url": "https://www.bhphotovideo.com/explora/photography/news/travel-tripod-reinvented-the-peak-design-travel-tripod", "quote": "Available in either carbon fiber or aluminum alloy, the models weigh 2.81 lb and 3.44 lb, respectively." },
+    { "number": "135mm lenses (200mm max.)", "claim": "Gitzo's lens recommendation for the Traveler Series 1", "url": "https://www.gitzo.com/us-en/tripod-traveler-series-1-4-sections-gt1545tus/", "quote": "It is recommended for use with 135mm lenses (200mm max.)." },
+    { "number": "around 25%", "claim": "Typical weight saving of carbon fiber tripods", "url": "https://www.digitalcameraworld.com/buying-guides/carbon-fiber-tripods", "quote": "carbon fiber enables tripods to be sturdy and resistant to vibration, while shedding around 25% in terms of carrying weight" },
+    { "number": "10lb/4.5kg", "claim": "Neewer LT32 head load capacity (legs 22lb/10kg)", "url": "https://neewer.com/products/neewer-lt32-62-carbon-fiber-travel-tripod-66604733", "quote": "Load Capacity (Head): 10lb/4.5kg" }
+  ],
+  "videos": [
+    { "id": "BkvW8pZjrdI", "title": "HEIPI W28S 3-in-1 Travel Tripod Review", "channel": "Dustin Abbott", "url": "https://www.youtube.com/watch?v=BkvW8pZjrdI", "section": "The 6 best carbon fiber travel tripods, reviewed" }
+  ],
+  "pendingInlinks": [
+    { "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography", "find": "Carbon fiber is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on.", "replace": "A [carbon fiber travel tripod](/blog/best-carbon-fiber-travel-tripod/) is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on." },
+    { "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking", "find": "The catch: carbon is expensive next to an aluminum tripod.", "replace": "The catch: carbon is expensive next to an aluminum tripod, which is why our [carbon fiber travel tripod picks](/blog/best-carbon-fiber-travel-tripod/) include a lower-cost model." }
+  ],
+  "textrazor": { "file": "data/briefs/best-carbon-fiber-travel-tripod.entities.json", "pagesAnalyzed": 4, "note": "DPReview blocked the TextRazor fetch; entities from the other 4 pages. Dropped off-topic entities (Email, News, Newsletter, Future US, Matthew Richards, Magazine, Privacy, Policy)." },
+  "differentiation": "Live posts best-travel-tripod-for-mirrorless-camera (15 picks, mirrorless, aluminum included) and best-tripod-that-fits-in-carry-on-luggage (3 picks by fold) share some models; this post is carbon-only, sorted by load and column-down height for DSLR and full-frame kits, with the same-design carbon vs aluminum weight math."
+}

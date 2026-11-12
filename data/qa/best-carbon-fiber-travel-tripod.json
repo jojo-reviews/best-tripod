@@ -1,0 +1,22 @@
+{
+  "slug": "best-carbon-fiber-travel-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-12T11:35:02.681Z",
+  "errors": [],
+  "warnings": [
+    "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod Kit (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"HEIPI W28S Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"3 Legged Thing Leo 2.0 Carbon Fibre Tripod with AirHed Pro Lever\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"NEEWER LITETRIP LT32 Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified against maker/retailer pages via Firecrawl on 2026-11-12: Peak Design carbon 2.8 lb, 15.5 in, 5.5-60 in, 20 lb (B&H product page), 51.25 in column down (Fstoppers spec table), 2.81 vs 3.44 lb carbon/aluminum (B&H Explora); Gitzo GK1545T-82TQD 1.45 kg, 42.5 cm, 163.5 cm, 140.5 cm column down, min 32.4 cm, 10 kg payload, 4 sections twist G-lock, GH1382TQD head with independent pan lock, no friction control, Arca-Swiss compatible GS5370SD plate (gitzo.com kit page; B&H 3.2 lb/16.7 in/64.4 in/12.6 in/22 lb); GT1545T 135mm lens recommendation (200mm max), 14.7 mm thinnest tube, 1/4 and 3/8 screw (gitzo.com GT1545T page); SIRUI 5C 54.3 in, 6.3 in, 13 in, 1.87 lb, 8.8 lb, 5 sections (store.sirui.com), Arca Swiss plate per Amazon title; HEIPI W28S 44 lb/20 kg, 59.8 in, 17.7 in, 3 lb/1380 g, 5 sections lever locks, Arca-type head, main tripod 50 in and sub-tripod 11.4 in (B&H); Leo 2.0 14.7 in, 1.12 m without column, 30 kg at 23 deg / 10 kg at 80 deg, 5 sections (3leggedthing.com buyers guide), kit 1.85 kg and 146 cm (Digital Camera magazine, Amazon B0CQ8SPYG3); NEEWER LT32 22 lb legs/10 lb head, 17 in, 133 cm without column, 157 cm max, 19 cm min, 1.18 kg (neewer.com), 4 sections flip locks, +/-5 leveling, Arca plate (Amazon/B&H). ASINs hand-checked on Amazon US: B085BQTQMN (ships from Amazon), B071F31XLR (buying options), B07KD181B3 (sold by Amazon), B0FCM9R6X4 (in stock, ships from Amazon), B0821LF672 (in stock, Ace Photo), B0CL5QHKW9 (in stock, ships from Amazon). Owner claims checked against PetaPixel, Reddit excerpt, B&H Gitzo reviews, TechGearLab, First Quadcopter, Amateur Photographer, DPReview forum, Have Camera Will Travel, Light And Matter, NEEWER store reviews. Pain-point quotes copied from data/pain-points.json. Intro wording changed only (no facts).",
+    "at": "2026-11-12T11:35:10.736Z",
+    "hash": "15a913755b686ecc"
+  }
+}

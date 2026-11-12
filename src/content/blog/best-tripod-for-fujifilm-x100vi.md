@@ -436,8 +436,8 @@ faqs:
   - q: Is a mini tripod enough for an X100VI?
     a: >-
       Yes, a mini tripod is enough for most X100VI travel shots: on a wall,
-      bench or table it covers self-timer selfies and night street scenes. Add
-      a full-size tripod only for blue-hour or long-exposure shots at chest
+      bench or table it covers self-timer selfies and night street scenes. Add a
+      full-size tripod only for blue-hour or long-exposure shots at chest
       height.
   - q: Is a GorillaPod strong enough for an X100VI?
     a: >-
@@ -450,8 +450,8 @@ faqs:
       r/fujifilm advise it, and the 2-second self-timer keeps your finger from
       adding movement.
 heroAlt: >-
-  Best Tripod for Fujifilm X100VI – 5 Picks for a 521 g Camera – Best
-  Tripod buying guide
+  Best Tripod for Fujifilm X100VI – 5 Picks for a 521 g Camera – Best Tripod
+  buying guide
 illustrations:
   - prompt: >-
       Close-up of two hands screwing a small black quick-release plate into the
@@ -478,10 +478,10 @@ videos:
   - id: YCUYSPvZNGg
     afterHeading: 5
 related:
+  - best-carbon-fiber-travel-tripod
   - best-tripod-for-leica-q3
   - best-tripod-for-fujifilm-x-t5
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
-  - best-tripod-that-fits-in-carry-on-luggage
 heroImage: /images/featured/best-tripod-for-fujifilm-x100vi.png
 ---
 
