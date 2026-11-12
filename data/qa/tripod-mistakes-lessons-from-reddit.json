@@ -1,0 +1,19 @@
+{
+  "slug": "tripod-mistakes-lessons-from-reddit",
+  "pass": true,
+  "checkedAt": "2026-11-12T10:11:15.593Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "illustration 4 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Resource page, no products/specs. Firecrawl cannot open reddit.com, so each Reddit claim was checked against Firecrawl search excerpts at the same thread URL or data/pain-points.json verbatim quotes. Center column: r/pleinair 1t7ns32 (extend the legs, not the center post); 'amplify and prolong' verbatim r/AskPhotography 15gbgj8. Shutter/IS: r/AskPhotography 1mkbgc0 (150-600 lens on a windy evening; make sure IS on camera and lens is OFF). Load margin: r/photography 1aepks ('3x margin (4 to 5x would be better) - in both the legs and the head'; ball head dips after tightening under lens weight); r/SonyAlpha 190gqt0 (EDIT: should be on a way better tripod); r/photography 18v7db (cheap tripods unstable, cheaply made, a problem in wind); r/photography 19dxk6p (cheap copy fine for a one-off shot). Leg locks: r/RealEstatePhotography 1kovujc (hardened grease in leg joint); r/peakdesign 1ee58bg (angle lock broke, leg stuck). Ball head creep: r/photography 1g9jjxd. Wind: r/Ultralight 1dy4psz (hang packed backpack from hook); r/photography 9uch4b (carbon + sandbag may outweigh aluminum). Plates: r/photography 332f5u (Arca-Swiss, then RC2, rest proprietary); r/AskPhotography 1sc1xr0 (loosen head before moving camera). Height: r/AskPhotography mls8hw ('no way to make a short tripod taller' verbatim); 1as92po (over 6 ft vs 4 ft max height). Weight: r/hikinggear 1wvgxei ('useless if it stays at home' verbatim); r/Ultralight 1dy4psz. Ned Diary facts only from data/author-stories.json; no testing/ownership claims. Removed unsupported 'even on good heads' and 'wear out fast'.",
+    "at": "2026-11-12T10:11:38.887Z",
+    "hash": "c6fefaed5cbbc382"
+  }
+}
