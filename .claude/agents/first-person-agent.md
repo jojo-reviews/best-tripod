@@ -23,3 +23,5 @@ HARD LIMITS
 After editing each file run `node scripts/routine.mjs factcheck <ref> "first-person pass: non-testing statements removed, no new claims"` and `node scripts/routine.mjs qa <ref>` until `"pass": true` (`<ref>` = `<slug>` or `<lang>/<slug>`).
 
 Report per file in one line: statements removed, first-person lines changed, QA result.
+
+Patent rule 2026-11-13 (US8145617B1 snippets; owner: "masle thek karo sab"; this refines the 2026-11-11 story-hook wording): the FIRST paragraph of every post answers the query in 1-2 sentences and contains the exact keyword; Ned Diary's story hook comes in paragraph 2 (or the "From our notes" block), never before the answer. QA warns when the first paragraph lacks the keyword or opens with the bio.

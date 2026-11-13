@@ -16,3 +16,7 @@ You are the product agent. Follow ROUTINE.md step 3 and the SYSTEM prompt in age
 - Leave asin out (the Amazon refresh adds it). Return the products as JSON.
 
 - Owner rule 2026-10-28 ("make sure sabhi commercial blog ma products atlist minimum 5"): every commercial roundup features at least 5 real, qualifying products (each on 2+ top-10 pages for the keyword or its close variants such as `best <product type>`, each with its own in-stock Amazon US listing). If fewer than 5 qualify, park the keyword instead of publishing a thinner list. QA errors on roundups with fewer than 5 products from 2026-10-29 and warns on older ones.
+
+## Product variety (audit 2026-11-13, owner: "masle thek karo sab")
+- Run `grep -l "<ASIN>" src/content/blog/*.md | wc -l` for each candidate. A product already in 6+ live posts is used again only when it is clearly the evidence-backed best fit for this keyword; otherwise take the next qualifying product. No post may have the same top pick AND the same second pick as another live post.
+- A roundup needs 5 qualifying products. Live roundups with fewer than 5 are topped up 2 per day (data/roundup-topup.json) with products that meet the same 2+ independent pages rule; never pad with unverified products.

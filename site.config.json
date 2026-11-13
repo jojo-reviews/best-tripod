@@ -42,7 +42,7 @@
   "defaultLocale": "en",
   "oneLinkScript": "",
   "translations": {
-    "backlogPerDay": 1,
+    "backlogPerDay": 0,
     "categories": [
       "travel-tripods",
       "camera-tripods",
@@ -54,7 +54,8 @@
       "tripod-accessories"
     ],
     "note": "Daily backlog: translate up to backlogPerDay older English posts per language (scripts/routine.mjs translate-queue). New English posts are translated right after they pass QA.",
-    "resumed": "Owner rule 2026-11-01 ('tripod site pa difrent laguages pa blog post karny'): de/es/nl back on, localized (localizer-agent local brief first, as the 2026-10-20 rule asked). Every new English post gets 3 versions; backlog 1 English post x 3 languages per day."
+    "resumed": "Owner rule 2026-11-01 ('tripod site pa difrent laguages pa blog post karny'): de/es/nl back on, localized (localizer-agent local brief first, as the 2026-10-20 rule asked). Every new English post gets 3 versions; backlog 1 English post x 3 languages per day.",
+    "note2": "Audit 2026-11-13: backlog paused (backlogPerDay 0); each new English post still gets de/es/nl, which keeps the 2026-11-04 rule of 1 localized post per language per day."
   },
   "categories": [
     {
@@ -166,16 +167,13 @@
     "weeklyPostsPerDay": [],
     "randomPhase": {
       "min": 1,
-      "max": 5,
+      "max": 2,
       "weights": [
-        1,
-        1,
-        1,
         1,
         1
       ]
     },
-    "maxPostsPerRun": 5,
+    "maxPostsPerRun": 2,
     "publishHoursLocal": [
       7,
       9,
@@ -193,7 +191,8 @@
     },
     "note": "Owner rule 2026-10-22: 1 new English post per day per site (Claude usage limit). Was 2-3 on 2026-10-21.",
     "note2": "Owner rule 2026-10-29: 5 new English posts per day per site (was 2 since 2026-10-27).",
-    "note3": "Owner rule 2026-11-04 (\"Random number kar do kisi din 1 sa 5\"): a random 1-5 new English posts per day (seeded by date + domain), not always 5."
+    "note3": "Owner rule 2026-11-04 (\"Random number kar do kisi din 1 sa 5\"): a random 1-5 new English posts per day (seeded by date + domain), not always 5.",
+    "note4": "Audit 2026-11-13 (owner: \"masle thek karo sab\"): 1-2 new English posts per day while the domain is new (DR 9); quality and links before volume. Raise again when Search Console shows posts ranking."
   },
   "organization": {
     "legalName": "Best Tripod",

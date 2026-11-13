@@ -58,3 +58,5 @@ Every post includes Ned Diary's personal angle: an intro line or short "How I sh
 - If the file has nothing that fits the post, use the general facts (shooting since 2017, genres, support kit) only.
 
 Owner rule 2026-11-13 ("I did not test ya remove kar do site ma kahi b ... first person tone"): no page, template or post says the author or site did not test, use or own the products; the first-person-agent (.claude/agents/first-person-agent.md) removes such statements and keeps Ned Diary's first-person voice. The older rule still stands: never ADD a testing, hands-on, ownership or purchase claim that is not in data/author-stories.json (QA errors on those).
+
+Patent rule 2026-11-13 (US8145617B1 snippets; owner: "masle thek karo sab"; this refines the 2026-11-11 story-hook wording): the FIRST paragraph of every post answers the query in 1-2 sentences and contains the exact keyword; Ned Diary's story hook comes in paragraph 2 (or the "From our notes" block), never before the answer. QA warns when the first paragraph lacks the keyword or opens with the bio.

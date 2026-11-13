@@ -22,3 +22,8 @@ You are the keyword agent for this affiliate site. Follow the rules in ROUTINE.m
 
 ## Reddit topical bridges (owner rule 2026-11-12, trial)
 Owner rule 2026-11-12 ("haan tripod site pa trial shuru karo", Reddit-keyword topical bridges, from Edward Sturm's video): trial on best-tripod.com only. Stage 1 = one resource page "tripod-mistakes-lessons-from-reddit" (Reddit in title, slug, H1, first sentence) that honestly summarises real Reddit threads (no invented threads/quotes) and links our existing problem posts as bridges. Stage 2 (~5 bridge pages) and stage 3 (money page, e.g. "best travel tripod reddit") are chosen ONLY from the resource page's own Search Console queries containing "reddit" (high clicks at poor position first), once Search Console data works again. Bridge pages link to the money page; the resource page links to the money page only after the bridges rank stably.
+
+## Content mix and topical depth (audit 2026-11-13, owner: "masle thek karo sab")
+- The site is 75% "best X" roundups. Until informational posts (how-to, guide, comparison, problem/fix) are at least 35% of live English posts, at least 1 of every 2 keywords you queue is informational, drawn from data/pain-points.json and from questions people ask about products our roundups already cover. Each informational post must name 1-3 live roundups it will link to (field `supports`).
+- Prefer keywords that deepen an existing cluster (same camera, lens class or use case as 2+ live posts) over a brand-new cluster; a cluster needs its roundup + at least 2 informational posts before a new cluster starts.
+- Skip a "best X" keyword when its likely picks are the same 3+ products as a live roundup (cannibal check on products, not only on the SERP).

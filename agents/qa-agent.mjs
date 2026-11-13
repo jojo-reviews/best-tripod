@@ -330,6 +330,21 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     const m = text.match(re);
     if (m) err(`${why}: "${m[0]}"`);
   }
+  // Patent rule 2026-11-13 (US8145617B1, owner approved "masle thek karo sab"): the first plain paragraph answers the
+  // query: it carries the keyword's words and does not open with the author's bio (the story goes in paragraph 2).
+  {
+    const firstPara = body.split(/\n\s*\n/).map((x) => x.trim()).find((x) => x && !/^(#|>|\||!|-|\*|<|\d+\.|import )/.test(x)) ?? '';
+    const kwWords = String(d.keyword ?? '').toLowerCase().split(/[^a-z0-9]+/).filter((w) => w.length > 2 && !['the', 'for', 'and', 'with', 'best', 'how', 'what'].includes(w));
+    const fp = firstPara.toLowerCase();
+    const missing = kwWords.filter((w) => !fp.includes(w.replace(/s$/, '')));
+    if (kwWords.length && missing.length > Math.floor(kwWords.length / 3)) warn(`first paragraph does not answer the keyword (missing: ${missing.join(', ')}); open with the answer and the exact keyword, put Ned's story in paragraph 2`);
+    if (/^(I have been shooting|I've been shooting|A solo road trip|I started shooting|My cameras are|Since 2017)/i.test(firstPara)) warn('first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)');
+  }
+  // Patent rule 2026-11-13 (US9996624B2): heavy sales wording makes a guide read as a commercial page.
+  {
+    const sales = (body.match(/\b(discount|on sale|coupon|buy now|limited[- ]time|special offer|best deal|deals?)\b/gi) ?? []).length;
+    if (sales >= 3) warn(`${sales} sales terms in the body (discount/deal/coupon/buy now...); keep under 3 (patent rule 2026-11-13)`);
+  }
   // Owner rule 2026-11-13: no "I did not test / have not used" statements; the first-person-agent removes them.
   const notTested = text.match(/\b(I|we)\s+(did not|didn't|have not|haven't|do not|don't|never)\s+(personally\s+)?(test|tested|use|used|handle|handled|own|owned|try|tried)\b[^.\n]{0,40}|\bnot hands-on\b|\bwithout (hands-on|testing)\b/i);
   if (notTested) (pub >= Date.parse('2026-11-14T00:00:00Z') ? err : warn)(`says the products were not tested ("${notTested[0].trim().slice(0, 60)}"); owner rule 2026-11-13: remove it (first-person-agent)`);
