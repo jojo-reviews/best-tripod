@@ -1,0 +1,65 @@
+{
+  "note": "Owner rule 2026-11-13 (pillar + supporting posts): 10 pillars chosen by Ahrefs US volume/KD (2026-11-13). Each pillar gets 3-5 supporting informational posts, one real reader question each. Topic sources, in order: data/pain-points.json (Reddit/Quora/forums), Ahrefs matching-terms questions for the pillar keyword, the pillar SERP People-also-ask + competitor pages (data/serps.json, brief), Search Console queries of the pillar when access is back. A topic qualifies only with measured volume or 3+ independent threads, and no same-intent live post (routine.mjs cannibal). Supporting post: answer in paragraph 1, length as needed (about 300-900 words, never padded), 1 in-body link to the pillar; the pillar links back at go-live. Queue items carry supports: <pillar slug>. Fill pillars in this order, max 1 supporting post per day.",
+  "pillars": {
+    "best-tripod-for-hunting": {
+      "keyword": "best tripod for hunting",
+      "usVolume": 500,
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-camera": {
+      "keyword": "best tripod for camera",
+      "usVolume": 700,
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-content-creators": {
+      "keyword": "best tripod for content creators",
+      "usVolume": 450,
+      "target": 4,
+      "supporting": []
+    },
+    "ball-head-tripod": {
+      "keyword": "ball head tripod",
+      "usVolume": 400,
+      "target": 4,
+      "supporting": []
+    },
+    "binocular-tripod-adapter": {
+      "keyword": "binocular tripod adapter",
+      "usVolume": 500,
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-spotting-scope": {
+      "keyword": "best tripod for spotting scope",
+      "usVolume": 200,
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-real-estate-photography": {
+      "keyword": "best tripod for real estate photography",
+      "usVolume": 150,
+      "target": 4,
+      "supporting": []
+    },
+    "best-carbon-fiber-travel-tripod": {
+      "keyword": "best carbon fiber travel tripod",
+      "usVolume": 50,
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-astrophotography": {
+      "keyword": "best tripod for astrophotography",
+      "usVolume": 90,
+      "target": 4,
+      "supporting": []
+    },
+    "landscape-photography-tripod": {
+      "keyword": "landscape photography tripod",
+      "usVolume": 70,
+      "target": 4,
+      "supporting": []
+    }
+  }
+}
