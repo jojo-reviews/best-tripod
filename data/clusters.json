@@ -19,7 +19,14 @@
         "best pet camera for tall people"
       ],
       "target": 4,
-      "supporting": []
+      "supporting": [
+        {
+          "keyword": "tall tripod vs regular tripod",
+          "slug": "tall-tripod-vs-regular-tripod",
+          "status": "in progress",
+          "pubDate": "2026-11-14T16:32:00.000Z"
+        }
+      ]
     },
     "best-tripod-for-gopro": {
       "keyword": "best tripod for gopro",
@@ -106,7 +113,7 @@
       "gsc": {
         "realQueryImpressions": 34,
         "clicks": 0,
-        "position": 17.0
+        "position": 17
       },
       "topQueries": [
         "tripod for sports broadcast",

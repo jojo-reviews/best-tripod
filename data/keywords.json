@@ -8720,5 +8720,32 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
     }
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-13T21:23:10.166Z",
+    "secondaryKeywords": [
+      "tall tripod",
+      "tall camera tripod",
+      "6 foot tripod",
+      "tripod height for 6 feet"
+    ],
+    "questions": [
+      "is a tall tripod less stable than a regular tripod",
+      "do i need a tall tripod if i am over 6 feet",
+      "how tall is a regular tripod"
+    ],
+    "priority": 999,
+    "keyword": "tall tripod vs regular tripod",
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "comparison",
+    "funnel": "mofu",
+    "cluster": "tall-photographers",
+    "source": "gsc",
+    "supports": "best-tripod-for-tall-photographers-over-6-feet",
+    "rationale": "Owner rule 2026-11-13 pillar clusters: GSC query (16 impressions, position 31.8, shown on how-tall-should-a-tripod-be-for-my-height) with no dedicated post; supports pillar 1",
+    "slug": "tall-tripod-vs-regular-tripod"
   }
 ]
