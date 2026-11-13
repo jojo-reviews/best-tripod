@@ -349,6 +349,10 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   const notTested = text.match(/\b(I|we)\s+(did not|didn't|have not|haven't|do not|don't|never)\s+(personally\s+)?(test|tested|use|used|handle|handled|own|owned|try|tried)\b[^.\n]{0,40}|\bnot hands-on\b|\bwithout (hands-on|testing)\b/i);
   if (notTested) (pub >= Date.parse('2026-11-14T00:00:00Z') ? err : warn)(`says the products were not tested ("${notTested[0].trim().slice(0, 60)}"); owner rule 2026-11-13: remove it (first-person-agent)`);
 
+  // Owner rule 2026-11-13 (named owner voices): reviewers are never presented as people the author knows.
+  const fakeFriend = body.match(/\b(my|our)\s+(good\s+|old\s+|close\s+)?(friend|buddy|pal|mate|colleague|neighbou?r)\s+[A-Z][a-z]+/);
+  if (fakeFriend) err(`presents a reviewer as someone the author knows ("${fakeFriend[0]}"); name the owner and the source site instead (owner rule 2026-11-13)`);
+
   // --- Sources
   const sources = d.sources ?? [];
   if (sources.length < 2) err(`${sources.length} sources (need at least 2)`);
