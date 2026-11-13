@@ -282,7 +282,7 @@ My chart math and Ulanzi's height guide land on the same figure: [about 60 inche
 
 For a tripod height for a tall person at 6'3" and up, the gap grows to 9 to 12 inches on a 55 inch tripod. At that point I would look specifically for a taller legs-only figure (our roundup of the [best tripods for tall photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) compares four tall models), accept using the column for the last few inches on calm days, or lean on a tilting screen.
 
-The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/). Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections. For landscape photography from low vantage points, a shorter, steadier tripod can be the better tool.
+The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/). Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections, the heart of the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) choice. For landscape photography from low vantage points, a shorter, steadier tripod can be the better tool.
 
 ## How Tall Is a Tripod? Typical Tripod Heights
 

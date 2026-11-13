@@ -604,12 +604,14 @@
     {
       "slug": "best-tripod-for-tall-photographers-over-6-feet",
       "find": "Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft.",
-      "replace": "Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft, which is the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) trade-off in one line."
+      "replace": "Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft, which is the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) trade-off in one line.",
+      "appliedAt": "2026-11-13T21:36:11.070Z"
     },
     {
       "slug": "how-tall-should-a-tripod-be-for-my-height",
       "find": "Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections.",
-      "replace": "Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections, the heart of the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) choice."
+      "replace": "Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections, the heart of the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) choice.",
+      "appliedAt": "2026-11-13T21:36:11.940Z"
     }
   ],
   "supports": "best-tripod-for-tall-photographers-over-6-feet"

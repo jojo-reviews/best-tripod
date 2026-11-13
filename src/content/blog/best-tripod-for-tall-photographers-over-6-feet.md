@@ -418,7 +418,7 @@ This tall tripod comparison lists maximum height and sorts by the column-down fi
 | VICTIV 74 inch | 74 in | Not stated | Unknown | 9.5 lb (listings differ) | About 3.14 lb | Not stated | 3-way pan head |
 | CAMBOFOTO 74 inch | 74 in | Not stated | Unknown | 8.8 lb | About 2.8 to 3.15 lb | About 17 to 21 in | 360-degree pan head |
 
-Eye level sits roughly 4 to 5 in below the top of your head: about 67 to 68 in at 6 ft, about 71 to 72 in at 6'4". Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft. If K&F's 63.8 in already includes the ball head, take a few inches off.
+Eye level sits roughly 4 to 5 in below the top of your head: about 67 to 68 in at 6 ft, about 71 to 72 in at 6'4". Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft, which is the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) trade-off in one line. If K&F's 63.8 in already includes the ball head, take a few inches off.
 
 ## How I Chose Tripods for Tall Photographers
 
