@@ -558,6 +558,7 @@ heroAlt: >-
   Best Tripod for Camera (2026) – 6 Picks With a Load and Height Check – Best
   Tripod buying guide
 related:
+  - tall-tripod-vs-regular-tripod
   - best-tripod-for-mirrorless-camera
 ---
 

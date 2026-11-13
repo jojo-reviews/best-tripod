@@ -8722,7 +8722,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-13T21:23:10.166Z",
     "secondaryKeywords": [
@@ -8746,6 +8746,7 @@
     "source": "gsc",
     "supports": "best-tripod-for-tall-photographers-over-6-feet",
     "rationale": "Owner rule 2026-11-13 pillar clusters: GSC query (16 impressions, position 31.8, shown on how-tall-should-a-tripod-be-for-my-height) with no dedicated post; supports pillar 1",
-    "slug": "tall-tripod-vs-regular-tripod"
+    "slug": "tall-tripod-vs-regular-tripod",
+    "publishedAt": "2026-11-13T21:33:28.221Z"
   }
 ]

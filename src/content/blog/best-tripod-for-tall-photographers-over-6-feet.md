@@ -382,10 +382,10 @@ faqs:
       74 inch tripods ship with pan heads that handle slow pans with light
       cameras.
 related:
+  - tall-tripod-vs-regular-tripod
   - can-you-use-any-tripod-for-a-camera
   - best-tripod-for-telescope
   - best-tripod-for-hunting
-  - how-to-choose-a-tripod-for-a-heavy-telephoto-lens
 heroImage: /images/featured/best-tripod-for-tall-photographers-over-6-feet.png
 heroAlt: >-
   Best Tripod for Tall Photographers Over 6 Feet – 4 Eye-Level Picks – Best

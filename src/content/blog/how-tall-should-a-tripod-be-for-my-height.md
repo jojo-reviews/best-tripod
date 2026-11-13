@@ -182,11 +182,13 @@ sources:
     url: >-
       https://www.bhphotovideo.com/c/product/1934044-REG/vanguard_alta_pro_263ab_g2.html
   - title: What is a Good Tripod Height? (Ulanzi)
-    url: 'https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography'
-  - title: 'Peak Design Travel Tripod vs Pro Tripod specs (ShutterMuse)'
+    url: >-
+      https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography
+  - title: Peak Design Travel Tripod vs Pro Tripod specs (ShutterMuse)
     url: 'https://shuttermuse.com/peak-design-travel-tripod-vs-pro-tripod/'
   - title: What Is the Ideal Tripod Height for You? (ProMediaGear)
-    url: 'https://promediagear.com/blogs/guides/what-is-the-ideal-tripod-height-for-you'
+    url: >-
+      https://promediagear.com/blogs/guides/what-is-the-ideal-tripod-height-for-you
   - title: 'Avoid Using the Center Column (The Landscape Photography Book, O''Reilly)'
     url: >-
       https://oreilly.com/library/view/the-landscape-photography/9781681984346/Text/chapter04a.xhtml
@@ -233,10 +235,10 @@ author: ned-diary
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: How Tall Should a Tripod Be for My Height? Chart and Math – Best Tripod guide
 related:
+  - tall-tripod-vs-regular-tripod
   - tripod-center-column-up-or-down-for-landscapes
   - best-tripod-for-real-estate-photography
   - best-tripod-for-tall-photographers-over-6-feet
-  - best-phone-tripod-for-vlogging-with-remote
 ---
 
 How tall should a tripod be for my height? The short answer: the legs of a camera tripod alone, with the center column down, should reach roughly your height minus 10 to 12 inches. I use that rule of thumb because it puts the viewfinder at eye level without leaning on the tripod's weakest part. Below I walk through the math, a tripod height chart from 5 feet to 6'6", the center column trade-off, and the two tall tripods I'd point you to.

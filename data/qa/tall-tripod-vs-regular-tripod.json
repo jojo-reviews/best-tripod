@@ -1,0 +1,18 @@
+{
+  "slug": "tall-tripod-vs-regular-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-13T21:32:53.295Z",
+  "errors": [],
+  "warnings": [
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 90 inch Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-13 with Firecrawl: Manfrotto MT055XPRO3 3.5 to 67 in column up, 55 in column down, 24 in closed, 5.5 lb, 3 sections, 19.8 lb staff answer vs 44 lb table (B&H specs page); K&F Concept 90 inch 2300mm/90.6in max, 1620mm/63.8in without center column, 665mm/26.2in min, 540mm/21.3in folded, 2022g/4.46lb, 10kg/22lb, 4 sections, flip lock, 16-25mm legs, ball head (kfconcept.com KF09.119); 50-63 in average legs (Breathing Color); 11% lower score for the long version at the same height (The Center Column, stiffness vs height); Teds 130-160cm regular, 180cm+ tall. Named voices read on the page itself: Barbara and James, Verified Buyers at B&H Photo (MT055XPRO3 reviews page: completely delivered; It is a little heavy for carrying on long hikes; does not move in the wind); Julie Powell, juliepowellphoto.com review (The tripod feels very sturdy in normal use; at full extension, it is not overly stable; sample images landscape, still life, flat lay). DPReview thread 4481770 quotes (Snap Happy on slopes and wind, Jack Calypso on weight, casperghst42 about 70cm folded, basically to long to fly with) read on the page. Quotes bend over to look through the VF (DPReview thread 4678070) and cause vibration and cost rigidity (Photography Stack Exchange 2505) re-confirmed on their pages. ASINs and scores reused from the pillar post (asinVerified).",
+    "at": "2026-11-13T21:33:26.985Z",
+    "hash": "ef8dc17cda6d0932"
+  }
+}

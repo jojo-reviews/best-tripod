@@ -1,0 +1,636 @@
+{
+  "keyword": "tall tripod vs regular tripod",
+  "createdAt": "2026-11-13T21:33:28.223Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tall tripod",
+    "entityVariants": [
+      "tall tripod vs regular tripod",
+      "tall camera tripod",
+      "regular tripod",
+      "6 foot tripod",
+      "extra tall tripod",
+      "tripod height for 6 feet",
+      "standard height tripod"
+    ],
+    "entities": [
+      {
+        "name": "tall tripod",
+        "type": "central entity",
+        "relation": "tripod whose legs alone reach eye level for a 6 ft+ shooter (about 60 in or more without the center column); Tripod (photography) per TextRazor on 3 top pages",
+        "salience": 0.94
+      },
+      {
+        "name": "regular tripod",
+        "type": "product class",
+        "relation": "standard full-size tripod; legs extend 50 to 63 in per Breathing Color, 130 to 160 cm per Teds",
+        "salience": 0.8
+      },
+      {
+        "name": "tripod height",
+        "type": "attribute",
+        "relation": "the deciding spec; TextRazor \"Height\" on 4 top pages",
+        "salience": 0.8
+      },
+      {
+        "name": "center column",
+        "type": "component",
+        "relation": "how a regular tripod reaches eye level for tall users, at a cost in stiffness",
+        "salience": 0.6
+      },
+      {
+        "name": "eye level",
+        "type": "concept",
+        "relation": "target viewfinder height; TextRazor \"Eye\" on 3 top pages",
+        "salience": 0.37
+      },
+      {
+        "name": "tripod legs",
+        "type": "component",
+        "relation": "leg length and section count set height, weight and folded length; TextRazor \"Leg\" on 3 top pages",
+        "salience": 0.56
+      },
+      {
+        "name": "camera",
+        "type": "device",
+        "relation": "what the tripod holds; TextRazor on 3 top pages",
+        "salience": 0.49
+      },
+      {
+        "name": "viewfinder",
+        "type": "component",
+        "relation": "where the eye meets the camera; TextRazor on 2 top pages",
+        "salience": 0.36
+      },
+      {
+        "name": "tripod head",
+        "type": "component",
+        "relation": "adds height on top of the legs; TextRazor on 2 top pages",
+        "salience": 0.77
+      },
+      {
+        "name": "carbon fiber",
+        "type": "material",
+        "relation": "keeps long legs lighter; TextRazor on 2 top pages",
+        "salience": 0.34
+      },
+      {
+        "name": "macro photography",
+        "type": "use case",
+        "relation": "low-angle work where minimum height matters more than maximum; TextRazor on 3 top pages",
+        "salience": 0.26
+      },
+      {
+        "name": "monopod",
+        "type": "product",
+        "relation": "the K&F 90 inch has a leg that detaches as one; TextRazor on 2 top pages",
+        "salience": 0.5
+      },
+      {
+        "name": "K&F Concept 90 inch Tripod",
+        "type": "product",
+        "relation": "tall example: 63.8 in without the center column (maker)",
+        "salience": 0.5
+      },
+      {
+        "name": "Manfrotto MT055XPRO3",
+        "type": "product",
+        "relation": "regular full-size example: 55 in with the column down (B&H)",
+        "salience": 0.5
+      }
+    ],
+    "textrazor": {
+      "date": "2026-11-13",
+      "pagesAnalyzed": 4,
+      "note": "4 of 5 pages analyzed; the DPReview thread returned a bot challenge to the TextRazor fetch (read with Firecrawl instead)",
+      "ignored": [
+        "Image stabilization",
+        "Backpack",
+        "Digital single-lens reflex camera (mentioned only in passing)",
+        "Length",
+        "Weight (generic)",
+        "Photography (generic)"
+      ]
+    },
+    "attributes": [
+      "height without the center column",
+      "maximum height with the column up",
+      "weight",
+      "folded length",
+      "leg sections",
+      "leg diameter",
+      "stiffness at full extension",
+      "load capacity",
+      "minimum height",
+      "head included"
+    ],
+    "ngrams": [
+      "tall tripod",
+      "regular tripod",
+      "eye level",
+      "center column",
+      "without the center column",
+      "folded length",
+      "leg sections",
+      "full extension",
+      "maximum height",
+      "6 feet tall",
+      "tripod height",
+      "tall camera tripod",
+      "steep slopes",
+      "working height"
+    ],
+    "skipgrams": [
+      "tall…tripod",
+      "regular…tripod",
+      "center…column",
+      "eye…level",
+      "folded…length",
+      "leg…sections",
+      "full…extension",
+      "6…feet",
+      "height…column"
+    ],
+    "nlpTerms": [
+      "tripod",
+      "height",
+      "eye level",
+      "viewfinder",
+      "center column",
+      "legs",
+      "leg sections",
+      "stiffness",
+      "stability",
+      "weight",
+      "folded length",
+      "carry-on",
+      "slope",
+      "wind",
+      "carbon fiber",
+      "aluminum",
+      "ball head",
+      "camera",
+      "stoop",
+      "vibration",
+      "load capacity",
+      "monopod"
+    ],
+    "questions": [
+      {
+        "q": "Is a tall tripod less stable than a regular tripod?",
+        "mapsTo": "H2 What a tall tripod costs + FAQ",
+        "answerTerms": [
+          "full extension",
+          "leg sections",
+          "stiffness",
+          "center column"
+        ]
+      },
+      {
+        "q": "Do I need a tall tripod if I am over 6 feet?",
+        "mapsTo": "H2 When a tall tripod beats a regular tripod + FAQ",
+        "answerTerms": [
+          "eye level",
+          "center column",
+          "60 inches",
+          "stoop"
+        ]
+      },
+      {
+        "q": "How tall is a regular tripod?",
+        "mapsTo": "H2 by the numbers + FAQ",
+        "answerTerms": [
+          "50 to 63 inches",
+          "130 to 160 cm",
+          "legs",
+          "center column"
+        ]
+      },
+      {
+        "q": "Is a 6 foot tripod tall enough?",
+        "mapsTo": "FAQ",
+        "answerTerms": [
+          "72 inches",
+          "maximum height",
+          "center column",
+          "eye level"
+        ]
+      },
+      {
+        "q": "Can you fly with a tall tripod?",
+        "mapsTo": "FAQ",
+        "answerTerms": [
+          "folded length",
+          "carry-on",
+          "airline"
+        ]
+      },
+      {
+        "q": "Does a taller tripod weigh more?",
+        "mapsTo": "H2 What a tall tripod costs",
+        "answerTerms": [
+          "weight",
+          "leg sections",
+          "tubes"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "Legs-only (column down) height of a named regular and a named tall tripod side by side",
+      "What a 6 ft shooter actually gains: inches of column avoided",
+      "Budget tall tripods are not heavier; they trade stiffness instead (thin 16-25 mm tubes, 4 sections)",
+      "Named owner experiences for both examples",
+      "A who-needs-which rule by height, terrain and travel"
+    ],
+    "outline": [
+      {
+        "h2": "Tall Tripod vs Regular Tripod by the Numbers",
+        "intent": "definition + comparison table from verified specs",
+        "h3": []
+      },
+      {
+        "h2": "When a Tall Tripod Beats a Regular Tripod",
+        "intent": "the situations where extra leg length pays off",
+        "h3": []
+      },
+      {
+        "h2": "What a Tall Tripod Costs in Weight, Folded Length and Stability",
+        "intent": "trade-offs and the pain points, each with a fix",
+        "h3": []
+      },
+      {
+        "h2": "A Regular Tripod and a Tall Tripod Compared, With Owner Voices",
+        "intent": "two concrete examples with named owner experiences",
+        "h3": [
+          "Manfrotto MT055XPRO3",
+          "K&F Concept 90 inch Tripod"
+        ]
+      },
+      {
+        "h2": "Which Tripod Height Should You Get, Tall or Regular?",
+        "intent": "decision rule + next links",
+        "h3": []
+      }
+    ],
+    "targetWords": 850,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+        "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+        "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+        "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/",
+        "https://thecentercolumn.com/2018/04/08/really-right-stuff-tvc-34l-tvc24l-stiffness-vs-height/"
+      ],
+      "productStyle": "specs",
+      "productStyleReason": "The ranking pages are buying guides, a test site and a forum thread that argue from height, weight and folded-length numbers rather than pros/cons lists, so the two example tripods show spec tables.",
+      "avgWords": 1500,
+      "avgWordsNote": "Teds guide about 2,500 words (one 110-word section on this exact question), Breathing Color about 3,000, The Center Column pages about 500 each, DPReview thread about 1,000. No top result is a dedicated page for the query, so the post stays at 600-900 words (owner rule 2026-11-13, supporting posts).",
+      "avgProducts": 0,
+      "commonSections": [
+        "How tall should a tripod be",
+        "Tall vs regular: which do you need",
+        "Center column",
+        "Weight and bulk trade-offs",
+        "Stability"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": true
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.reddit.com/r/photography/comments/4uz6t1/in_your_experience_how_important_has_the_height/",
+        "title": "In your experience, how important has the height of ..."
+      },
+      {
+        "position": 2,
+        "url": "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+        "title": "How to Buy the Right Tripod for Your Needs"
+      },
+      {
+        "position": 3,
+        "url": "https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography",
+        "title": "Tripod Height Guide: Find Comfort & Quality in Photography!"
+      },
+      {
+        "position": 4,
+        "url": "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+        "title": "Tripod Stiffness vs. Height"
+      },
+      {
+        "position": 5,
+        "url": "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/",
+        "title": "3 reasons to have a tall tripod"
+      },
+      {
+        "position": 6,
+        "url": "https://www.youtube.com/watch?v=y04vBvn9zCw",
+        "title": "Tripod Length VS. Your Height - How To Know What Size ..."
+      },
+      {
+        "position": 7,
+        "url": "https://www.facebook.com/groups/sondoongexpedition/posts/2557446754424374/",
+        "title": "do I need a tall tripod or will a short 20-30cm tripod, to"
+      },
+      {
+        "position": 8,
+        "url": "https://mariastrussphotography.com/2022/10/the-photographers-guide-to-buying-a-tripod-new/",
+        "title": "The Photographers Guide to Buying a Tripod-New"
+      },
+      {
+        "position": 9,
+        "url": "https://rokslide.com/forums/threads/tripod-height-short-or-tall.124851/",
+        "title": "Tripod height short or tall?"
+      },
+      {
+        "position": 10,
+        "url": "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+        "title": "Tripod Buying Guide: Sizes, Heights & What to Look For"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "height",
+        "guide",
+        "how to",
+        "what size"
+      ],
+      "gap": "No top-10 title carries the exact \"tall tripod vs regular tripod\" phrase or says who needs which; ours leads with the keyword and the who-needs-it angle"
+    },
+    "commonPoints": [
+      "Legs alone should reach eye level; save the center column for when you must (Teds, Breathing Color).",
+      "A regular tripod suits most everyday shooting and is easier to carry (Teds, Breathing Color).",
+      "A tall tripod helps taller photographers, shooting over crowds or obstacles and on uneven ground (Teds, Breathing Color, DPReview thread).",
+      "Extra height usually means extra weight and bulk (Teds, Breathing Color, DPReview thread).",
+      "Full leg and column extension reduces sharpness (Breathing Color, The Center Column)."
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Legs-only height of a named regular and a named tall tripod side by side: Manfrotto MT055XPRO3 55 in (B&H) vs K&F Concept 90 inch 63.8 in (maker); with 5 to 8 in of head and camera the regular one puts the viewfinder at 60 to 63 in, about 5 to 7 in short of a 6 ft shooter's 67 to 68 in eye level, so the column must come up.",
+        "source": "https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod",
+        "absentFrom": [
+          "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+          "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+          "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "A budget tall tripod is not heavier or longer than a sturdy regular one (K&F 4.46 lb and 21.3 in folded vs Manfrotto 5.5 lb and 24 in); it buys height with four thin 16 to 25 mm sections and pays in stiffness at full extension, as reviewer Julie Powell found. Within one tripod family the long version is heavier and scored 11% lower at the same height (The Center Column).",
+        "source": "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+        "absentFrom": [
+          "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+          "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Who needs which: under about 5 ft 10 in on flat ground, regular; 6 ft and over, or slopes, fences and wind, tall legs used partly extended; fly often, check folded length first.",
+        "source": "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/",
+        "absentFrom": [
+          "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+          "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+          "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "Named owner experiences for both examples: Barbara and James (verified buyers at B&H Photo) on the Manfrotto, Julie Powell (photographer, own blog) on the K&F at full extension, plus DPReview member casperghst42 on the folded length of his tall tripod on flights.",
+        "source": "https://www.bhphotovideo.com/c/product/1061240-REG/manfrotto_mt055xpro3_aluminum_tripod_deluxe_kit.html/reviews",
+        "absentFrom": [
+          "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+          "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+          "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ]
+      }
+    ],
+    "painPoints": [
+      {
+        "id": "travel-tripods-too-short-bend-over",
+        "pain": "The tripod stops below eye level, so a tall photographer has to bend over",
+        "details": "Tall users find regular and compact legs stop short once the center column is left down.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/",
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ],
+        "quotes": [
+          {
+            "text": "a travel pod will be shorter requiring you to bend over to look through the VF",
+            "url": "https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/"
+          }
+        ]
+      },
+      {
+        "id": "camera-tripods-center-column-vibration",
+        "pain": "Raising the center column makes the tripod shake after every shutter press",
+        "details": "A tripod that is steady on its legs gets wobbly once the column is cranked up to reach eye level.",
+        "sources": [
+          "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
+          "https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/"
+        ],
+        "quotes": [
+          {
+            "text": "That center post can cause vibration and cost rigidity (especially in a windy environment)",
+            "url": "https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod"
+          }
+        ]
+      },
+      {
+        "id": "tall-tripod-folded-length-flying",
+        "pain": "A tall tripod is too long folded to fly with",
+        "details": "Owners of long tripods say the collapsed length, not the weight, is what gets in the way on flights (two members in one DPReview thread: casperghst42 on a Gitzo GT3543XLS at about 70 cm folded, calson on an RRS TVC-34L).",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+        ],
+        "quotes": [
+          {
+            "text": "basically to long to fly with",
+            "url": "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+          }
+        ]
+      },
+      {
+        "id": "tall-tripod-weight-carry",
+        "pain": "A tall, sturdy tripod is heavy to carry away from the car",
+        "details": "Thread members with tall studio-class legs say weight is the big problem once you cannot park nearby.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/",
+          "https://rokslide.com/forums/threads/tripod-height-short-or-tall.124851/"
+        ],
+        "quotes": [
+          {
+            "text": "The big problem is weight.",
+            "url": "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+          }
+        ]
+      },
+      {
+        "id": "tall-tripod-slopes",
+        "pain": "On a slope a tripod that reaches eye level on flat ground only gets to waist height",
+        "details": "Downhill legs need extra length to keep the camera at a working height on hills.",
+        "sources": [
+          "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/",
+          "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod"
+        ],
+        "quotes": [
+          {
+            "text": "Longer legs can be extended down the slope, maintaining a higher working height.",
+            "url": "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/"
+          }
+        ]
+      }
+    ],
+    "painPointsNote": "Three new pain points (folded length when flying, weight, slopes) come from the DPReview thread read on 2026-11-13; not yet added to data/pain-points.json (this run only touches files for its own slug).",
+    "stats": [
+      {
+        "number": "50–63 inches",
+        "claim": "how far the legs of an average modern tripod extend",
+        "url": "https://www.breathingcolor.com/blogs/news/how-to-buy-the-right-tripod",
+        "quote": "An average contemporary tripod’s three legs extend 50–63 inches (126–160cm) from the ground."
+      },
+      {
+        "number": "11% lower",
+        "claim": "score of a long (tall) tripod at the same height as its standard version",
+        "url": "https://thecentercolumn.com/explorations/tripod-stiffness-vs-height/",
+        "quote": "we find that the score should be 11% lower than the TVC-33 as it isn’t as stiff at the same height, and it weighs more."
+      },
+      {
+        "number": "63.8\"",
+        "claim": "K&F Concept 90 inch tripod height without the center column",
+        "url": "https://www.kfconcept.com/KF09.119_90-tall-overhead-aluminum-camera-tripod-monopod",
+        "quote": "Max Height without Center Column: 1620mm/63.8\""
+      },
+      {
+        "number": "55\"",
+        "claim": "Manfrotto MT055XPRO3 height with the center column down",
+        "url": "https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html/specs",
+        "quote": "Up to 55\" / 140 cm (Center Column Down)"
+      },
+      {
+        "number": "130–160cm",
+        "claim": "height range of regular tripods; tall tripods start at 180cm",
+        "url": "https://www.teds.com.au/blogs/product-guides/the-ultimate-guide-to-buying-a-tripod",
+        "quote": "Regular tripods (130–160cm) suit most everyday shooting scenarios and are generally lighter and more compact."
+      }
+    ],
+    "videos": [],
+    "serpProducts": [
+      {
+        "name": "Manfrotto MT055XPRO3",
+        "pages": [
+          "https://activegearreviews.com/best-tall-tripods/",
+          "https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420"
+        ],
+        "note": "evidence carried over from the pillar best-tripod-for-tall-photographers-over-6-feet; this comparison reuses two of its verified products as examples"
+      },
+      {
+        "name": "K&F Concept 90 inch Tripod",
+        "pages": [
+          "https://activegearreviews.com/best-tall-tripods/",
+          "https://www.kentfaith.co.uk/blog/article_what-camera-tripod-to-buy-if-6-tall_4420"
+        ],
+        "note": "same as above"
+      }
+    ],
+    "ownerVoices": {
+      "Manfrotto MT055XPRO3": [
+        {
+          "name": "Barbara",
+          "source": "B&H Photo, Verified Buyer, 9/6/2026",
+          "url": "https://www.bhphotovideo.com/c/product/1061240-REG/manfrotto_mt055xpro3_aluminum_tripod_deluxe_kit.html/reviews",
+          "usedFor": "photographing the moon with a Nikon Z8 and Nikkor 70-200mm f/2.8, kit with the XPRO geared head",
+          "quote": "completely delivered"
+        },
+        {
+          "name": "James",
+          "source": "B&H Photo, Verified Buyer, 3/28/2026",
+          "url": "https://www.bhphotovideo.com/c/product/1061240-REG/manfrotto_mt055xpro3_aluminum_tripod_deluxe_kit.html/reviews",
+          "usedFor": "outdoor and macro pictures; carries it on walks with the legs half extended",
+          "quote": "It is a little heavy for carrying on long hikes"
+        }
+      ],
+      "K&F Concept 90 inch Tripod": [
+        {
+          "name": "Julie Powell",
+          "source": "photographer, review on her own blog (juliepowellphoto.com), 29 Sep 2025",
+          "url": "https://www.juliepowellphoto.com/blog/2025/9/27/product-review-kampf-concept-90-inch-tripod-with-detachable-monopod",
+          "usedFor": "landscape, still life and flat-lay shots",
+          "quote": "The tripod feels very sturdy in normal use / at full extension, it’s not overly stable",
+          "note": "No named verified-buyer review found: B&H lists a different K&F model (KF09.087V4, 77.2 in), the Kentfaith review page returned a bot check (not used), Reddit threads could not be opened."
+        }
+      ]
+    },
+    "googleModifiers": [
+      "tall tripod for camera",
+      "is 50 inch tripod tall enough",
+      "how tall should a tripod be",
+      "tall aluminum tripod",
+      "tall adjustable tripod"
+    ],
+    "amazonFilters": {
+      "Max Height": [
+        "Up to 39 in",
+        "40 to 49 in",
+        "50 to 64 in",
+        "65 in & above"
+      ],
+      "Min Height": [
+        "Up to 7.9 in",
+        "8.0 to 13.9 in",
+        "14.0 to 19.9 in",
+        "20.0 in & above"
+      ],
+      "Head Type": [
+        "Ball Heads",
+        "Geared Heads",
+        "Gimbal Heads",
+        "Pan Heads",
+        "Pistol Grip Heads"
+      ],
+      "Special Features": [
+        "Lightweight",
+        "Telescopic",
+        "Foldable",
+        "Quick-Release",
+        "Spirit Level"
+      ]
+    },
+    "pendingInlinks": [
+      {
+        "slug": "best-tripod-for-tall-photographers-over-6-feet",
+        "find": "Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft.",
+        "replace": "Only the K&F gets near that column down; the Manfrotto needs its column raised for anyone over 6 ft, which is the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) trade-off in one line."
+      },
+      {
+        "slug": "how-tall-should-a-tripod-be-for-my-height",
+        "find": "Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections.",
+        "replace": "Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections, the heart of the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) choice."
+      }
+    ],
+    "supports": "best-tripod-for-tall-photographers-over-6-feet"
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "best-tripod-for-tall-photographers-over-6-feet",
+      "mode": "related-box"
+    },
+    {
+      "slug": "how-tall-should-a-tripod-be-for-my-height",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-camera",
+      "mode": "related-box"
+    }
+  ]
+}
