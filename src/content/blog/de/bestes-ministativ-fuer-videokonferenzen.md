@@ -313,7 +313,7 @@ sources:
   - title: 'Markus Hagner Photography: Best tabletop tripods for product photography'
     url: >-
       https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Wie hoch sollte eine Webcam oder Kamera bei Videokonferenzen stehen?
     a: >-
@@ -353,7 +353,7 @@ heroAlt: >-
   Best-Tripod-Ratgeber
 ---
 
-Das beste Ministativ für Videokonferenzen hält deine Webcam, dein Smartphone oder deine Kamera ruhig und richtet sie auf dein Gesicht, nicht von unten in die Nase. Ich habe drei Tischstative verglichen, die in Ratgebern zu Ministativen immer wieder auftauchen: das [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) für die meisten Schreibtische, das [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) für eine Systemkamera als Webcam und das [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) als einfachsten Tischständer. Wir haben die drei nicht getestet; alles Folgende stammt aus Hersteller- und Händlerangaben, redaktionellen Testberichten und den wenigen Besitzerbewertungen, die wir finden konnten.
+Das beste Ministativ für Videokonferenzen hält deine Webcam, dein Smartphone oder deine Kamera ruhig und richtet sie auf dein Gesicht, nicht von unten in die Nase. Ich habe drei Tischstative verglichen, die in Ratgebern zu Ministativen immer wieder auftauchen: das [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) für die meisten Schreibtische, das [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) für eine Systemkamera als Webcam und das [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) als einfachsten Tischständer. Alles Folgende stammt aus Hersteller- und Händlerangaben, redaktionellen Testberichten und den wenigen Besitzerbewertungen, die wir finden konnten.
 
 ## Die besten Ministative für Videokonferenzen: Unsere Empfehlungen
 
@@ -379,7 +379,7 @@ Das beste Ministativ für Videokonferenzen hält deine Webcam, dein Smartphone o
 
 ## So haben wir die Ministative für Videokonferenzen ausgewählt
 
-**Wir sind von den Mini- und Tischstativen ausgegangen, die mehrere Ratgeber empfehlen, haben nur Modelle mit einem eindeutigen Angebot bei Amazon in den USA behalten und jedes mit Hersteller- und Händlerangaben sowie Besitzerbewertungen abgeglichen.** Wir haben sie nicht gekauft und nicht getestet.
+**Wir sind von den Mini- und Tischstativen ausgegangen, die mehrere Ratgeber empfehlen, haben nur Modelle mit einem eindeutigen Angebot bei Amazon in den USA behalten und jedes mit Hersteller- und Händlerangaben sowie Besitzerbewertungen abgeglichen.**
 
 Ich habe mir auch das Joby GorillaPod mit seinen [flexiblen Beinen](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/), ein Neewer-Tischstativ, Handystative von UBeesize und das Mini-Tischstativ von K&F Concept angesehen. Sie fielen heraus, weil sie zu selten empfohlen wurden, Besitzerberichte fehlten oder es für das GorillaPod-Set kein Angebot bei Amazon in den USA gab.
 

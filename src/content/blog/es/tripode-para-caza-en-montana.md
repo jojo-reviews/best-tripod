@@ -388,7 +388,7 @@ sources:
       https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html
   - title: 'Rokslide: ultralight tripods reviewed'
     url: 'https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/'
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Cuál es el mejor trípode para caza en montaña?
     a: >-
@@ -461,7 +461,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-**El mejor trípode para caza en montaña es el más ligero que todavía sujeta tu óptica firme a la altura desde la que observas.** Para la mayoría de los cazadores que van con mochila es el [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) plegado y 10 kg (22 lb) de carga. Si observas de pie, yo llevaría el Vortex Ridgeview Carbon, más alto, y aceptaría el paquete más largo. He comparado cinco trípodes con las fichas técnicas de los fabricantes y los comentarios de usuarios en foros de caza; no he usado estos trípodes personalmente. Para puestos y esperas, consulta nuestra [selección de trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
+**El mejor trípode para caza en montaña es el más ligero que todavía sujeta tu óptica firme a la altura desde la que observas.** Para la mayoría de los cazadores que van con mochila es el [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) plegado y 10 kg (22 lb) de carga. Si observas de pie, yo llevaría el Vortex Ridgeview Carbon, más alto, y aceptaría el paquete más largo. He comparado cinco trípodes con las fichas técnicas de los fabricantes y los comentarios de usuarios en foros de caza. Para puestos y esperas, consulta nuestra [selección de trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
 
 ## Comparativa de trípodes para caza en montaña por peso, altura y longitud plegado
 

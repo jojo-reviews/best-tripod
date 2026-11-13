@@ -480,7 +480,7 @@ sources:
   - title: 'r/longrange: Help with shooting off a lightweight tripod'
     url: >-
       https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wie viel Gewicht sollte ein Schießstativ für Long Range tragen?
@@ -551,7 +551,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-**Das beste Schießstativ für Long Range ist für ein Mehrfaches deines Büchsengewichts ausgelegt, allein auf den Beinen hoch genug für deine Anschläge und hat oben eine solide Arca-Swiss-Klemme.** Meine Empfehlung ist das [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) Tragkraft, ein Kugelkopf im Karton und 21 bis 171 cm (8.3 bis 67.3 in) Höhe. Das Leupold Mark 5 CF-455 steht am höchsten, und das Fatboy Traverse 3 Section hat die steifsten Beine. Ich habe diese fünf anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus Long-Range-Foren verglichen, die meisten davon amerikanisch; ich habe sie nicht selbst benutzt. Für Hochsitz und Pirsch siehe meine [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
+**Das beste Schießstativ für Long Range ist für ein Mehrfaches deines Büchsengewichts ausgelegt, allein auf den Beinen hoch genug für deine Anschläge und hat oben eine solide Arca-Swiss-Klemme.** Meine Empfehlung ist das [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) Tragkraft, ein Kugelkopf im Karton und 21 bis 171 cm (8.3 bis 67.3 in) Höhe. Das Leupold Mark 5 CF-455 steht am höchsten, und das Fatboy Traverse 3 Section hat die steifsten Beine. Ich habe diese fünf anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus Long-Range-Foren verglichen, die meisten davon amerikanisch. Für Hochsitz und Pirsch siehe meine [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
 
 Ich fotografiere seit 2017, und meine Stativausrüstung besteht aus Carbonstativen, Kugelköpfen und Arca-Swiss-Platten, also demselben Klemmstandard, den diese Schießköpfe nutzen. Für Wildtiere nutze ich ein 200-600-mm-Objektiv, und wie eine Büchse ist es lang und vorderlastig auf dem Kugelkopf, deshalb lese ich zuerst Tragkraft und Klemmdaten.
 

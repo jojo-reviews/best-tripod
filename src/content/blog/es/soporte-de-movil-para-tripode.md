@@ -441,7 +441,7 @@ sources:
   - title: 'r/iphone: iPhone 16 tripod mount that will not press Camera Control'
     url: >-
       https://www.reddit.com/r/iphone/comments/1nyhttt/iphone_16_tripod_mount_that_wont_press_camera/
-reviewedDate: '2026-11-11'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor soporte de móvil para trípode?
@@ -483,7 +483,7 @@ related:
 heroImage: /images/featured/best-phone-mount-for-tripod.png
 ---
 
-El mejor soporte de móvil para trípode es una pinza metálica que abre lo suficiente para tu móvil con funda y bloquea su giro. Para la mayoría yo elegiría la [Ulanzi ST-27](amzn:B0DJXRFVB1): aluminio, tres zapatas frías (cold shoe) y una base tipo Arca que también admite el tornillo estándar de 1/4"-20, así que encaja en casi cualquier trípode. Con poco presupuesto, la [Ulanzi ST-02S](amzn:B07BBNSGR6) cumple lo básico en metal. Para un Pro Max con funda gruesa, la [Manfrotto MCPIXI](amzn:B07K6GHL24) es la que más abre. He comparado cinco pinzas para iPhone y Android a partir de las fichas de los fabricantes, los listados de tiendas y lo que cuentan sus dueños; no las he tenido en mis manos.
+El mejor soporte de móvil para trípode es una pinza metálica que abre lo suficiente para tu móvil con funda y bloquea su giro. Para la mayoría yo elegiría la [Ulanzi ST-27](amzn:B0DJXRFVB1): aluminio, tres zapatas frías (cold shoe) y una base tipo Arca que también admite el tornillo estándar de 1/4"-20, así que encaja en casi cualquier trípode. Con poco presupuesto, la [Ulanzi ST-02S](amzn:B07BBNSGR6) cumple lo básico en metal. Para un Pro Max con funda gruesa, la [Manfrotto MCPIXI](amzn:B07K6GHL24) es la que más abre. He comparado cinco pinzas para iPhone y Android a partir de las fichas de los fabricantes, los listados de tiendas y lo que cuentan sus dueños.
 
 ## Comparativa de soportes de móvil para trípode: ancho, material y anclajes
 

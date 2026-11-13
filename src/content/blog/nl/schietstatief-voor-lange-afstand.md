@@ -470,7 +470,7 @@ sources:
   - title: 'r/longrange: Help with shooting off a lightweight tripod'
     url: >-
       https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: Hoeveel gewicht moet een schietstatief voor lange afstand dragen?
@@ -541,7 +541,7 @@ heroAlt: >-
   koopgids
 ---
 
-**Het beste schietstatief voor lange afstand draagt een veelvoud van het gewicht van je geweer, haalt op alleen de poten de hoogte van de houdingen waaruit je schiet en heeft bovenop een stevige Arca-Swiss-klem.** Mijn topkeuze is de [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) draagvermogen, een balhoofd in de doos en 21 tot 171 cm (8.3 tot 67.3 in) hoogte. De Leupold Mark 5 CF-455 staat het hoogst, en de Fatboy Traverse 3 Section heeft de stijfste poten. Ik heb deze vijf vergeleken op de specificaties van de fabrikanten en meldingen van eigenaren op fora voor lange afstand, vooral Amerikaanse; ik heb ze zelf niet gebruikt. Voor hoogzit en bekuiping zie mijn [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
+**Het beste schietstatief voor lange afstand draagt een veelvoud van het gewicht van je geweer, haalt op alleen de poten de hoogte van de houdingen waaruit je schiet en heeft bovenop een stevige Arca-Swiss-klem.** Mijn topkeuze is de [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) draagvermogen, een balhoofd in de doos en 21 tot 171 cm (8.3 tot 67.3 in) hoogte. De Leupold Mark 5 CF-455 staat het hoogst, en de Fatboy Traverse 3 Section heeft de stijfste poten. Ik heb deze vijf vergeleken op de specificaties van de fabrikanten en meldingen van eigenaren op fora voor lange afstand, vooral Amerikaanse. Voor hoogzit en bekuiping zie mijn [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
 
 Ik fotografeer sinds 2017, en mijn statiefuitrusting bestaat uit carbon statieven, balhoofden en Arca-Swiss-platen, dezelfde klemstandaard die deze schietkoppen gebruiken. Voor wildlife gebruik ik een 200-600mm-objectief, en net als een geweer is dat lang en voorzwaar op een balhoofd, dus ik lees eerst het draagvermogen en de klemspecificaties.
 

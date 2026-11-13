@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-sony-a6400: same 6 products/ASINs/order, specs metric-first (maker metric figures from the local brief: Befree 128/151/40 cm, 1,59 kg, EU kit MKBFRLA4BK-BH; Peak 130,2/152,4/39,4 cm; SmallRig 180/43 cm, 1,53 kg; PIXI 20/20,5 cm, 0,26 kg), weights 403/519/1028/116/325/265/625 g as in English, load multiples and FAQ answers unchanged. Local facts from the local brief: KLM 55x35x25 cm, Rijksmuseum Boerhaave no tripod, Rijksmuseum no tripods for bridal shoots; quotes re-checked verbatim: Tweakers a6400 product review 256084 (no IBIS, screen) and gathering.tweakers.net 1090626 (column height). Two lens-weight links dropped for the 3 outside-link cap (figures unchanged). No prices, no testing claims, no local store claims.",
-    "at": "2026-11-10T15:55:19.539Z",
-    "hash": "bb117faf0327dc19"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:08.647Z",
+    "hash": "a8cef573c8ab14ed"
   }
 }

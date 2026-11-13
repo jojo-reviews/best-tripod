@@ -495,7 +495,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für Landschaftsfotografie?
@@ -541,7 +541,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-Ein Stativ für Landschaftsfotografie ist ein Kamerastativ für Langzeitbelichtungen draußen. Das richtige erreicht mit eingefahrener Mittelsäule fast Augenhöhe, kommt tief an Vordergrundfelsen heran und steht bei Wind und auf unebenem Boden still. Diese drei Aufgaben zählen mehr als das Gewicht, denn eine ausgefahrene Säule, eine Böe oder der Druck auf den Auslöser machen eine 30-Sekunden-Belichtung bei Sonnenaufgang weich, und schwerere Gehäuse brauchen noch stabilere Beine, wie unsere [Stative für Mittelformatkameras](/blog/best-tripod-for-medium-format-camera/) zeigen. Unten stehen fünf Modelle, die die führenden Landschaftsratgeber empfehlen. Wir haben jede Angabe mit der Herstellerseite abgeglichen und gelesen, was Besitzer berichten. Wir haben diese Stative nicht selbst benutzt; jede Zahl ist eine Herstellerangabe, der Wert eines Rezensenten oder ein Besitzerbericht, und wir sagen jeweils, welches davon.
+Ein Stativ für Landschaftsfotografie ist ein Kamerastativ für Langzeitbelichtungen draußen. Das richtige erreicht mit eingefahrener Mittelsäule fast Augenhöhe, kommt tief an Vordergrundfelsen heran und steht bei Wind und auf unebenem Boden still. Diese drei Aufgaben zählen mehr als das Gewicht, denn eine ausgefahrene Säule, eine Böe oder der Druck auf den Auslöser machen eine 30-Sekunden-Belichtung bei Sonnenaufgang weich, und schwerere Gehäuse brauchen noch stabilere Beine, wie unsere [Stative für Mittelformatkameras](/blog/best-tripod-for-medium-format-camera/) zeigen. Unten stehen fünf Modelle, die die führenden Landschaftsratgeber empfehlen. Wir haben jede Angabe mit der Herstellerseite abgeglichen und gelesen, was Besitzer berichten. Jede Zahl ist eine Herstellerangabe, der Wert eines Rezensenten oder ein Besitzerbericht, und wir sagen jeweils, welches davon.
 
 ## Stative für Landschaftsfotografie auf einen Blick
 

@@ -423,7 +423,7 @@ sources:
   - title: 'Canon Rumors forum: What is the best travel tripod for Canon RF systems?'
     url: >-
       https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Canon R5?
@@ -491,7 +491,7 @@ heroAlt: >-
   koopgids
 ---
 
-Het beste statief voor Canon R5 bezitters is een stijf camerastatief, want de 45 MP-sensor van de Canon EOS R5 laat elke trilling zien: voor de meeste foto's en hybride werk zou ik de zuilloze [Benro Tortoise 35C set](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) kiezen, en voor 8K-pans de [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). Ik heb vijf statieven gekoppeld aan echte R5-sets met zware RF L-objectieven, op basis van Canons gewichten, specificaties van de fabrikanten en threads van R5-bezitters; wij hebben deze statieven niet zelf gebruikt. Lichtere body? Onze [statieven voor de Canon R6 Mark II](/nl/blog/beste-statief-voor-canon-r6-mark-ii/) zijn gesorteerd per objectief.
+Het beste statief voor Canon R5 bezitters is een stijf camerastatief, want de 45 MP-sensor van de Canon EOS R5 laat elke trilling zien: voor de meeste foto's en hybride werk zou ik de zuilloze [Benro Tortoise 35C set](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) kiezen, en voor 8K-pans de [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). Ik heb vijf statieven gekoppeld aan echte R5-sets met zware RF L-objectieven, op basis van Canons gewichten, specificaties van de fabrikanten en threads van R5-bezitters. Lichtere body? Onze [statieven voor de Canon R6 Mark II](/nl/blog/beste-statief-voor-canon-r6-mark-ii/) zijn gesorteerd per objectief.
 
 ## Statieven voor de Canon R5 vergeleken op hoogte, poten en kop
 

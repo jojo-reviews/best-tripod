@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after rewording '34 opiniones' to '34 mensajes y comentarios' (same count as English '34 owner reviews and posts'). Compared section by section with best-tripod-for-crossbow: same 5 products/ASINs/scores/spec keys, metric-first conversions (18-150 cm, 3,9/3,4/1,8/1,6/1,0 kg, 64-102 cm, 61-157 cm, 9,1 kg, 91 m); Vanguard retailer metric 1020 g / 157,5 cm / 70 cm (Foto Erhardt); Primos 61-157 cm (Fawna). Local facts re-opened: El Debate 2025 (Reglamento de Armas cat. 7a.2, licencia E; Extremadura/Aragon/C. Valenciana allow, CLM/La Rioja/Pais Vasco ban), EUR-Lex 92/43/EEC Annex VI; Esperas Jabali forum quotes verbatim. No testing/ownership claims, prices, currency or local Amazon claims; story block translated; FAQs match.",
-    "at": "2026-11-05T18:12:25.933Z",
-    "hash": "69822f1b5e29ea24"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:25.133Z",
+    "hash": "aa0388408ce93f14"
   }
 }

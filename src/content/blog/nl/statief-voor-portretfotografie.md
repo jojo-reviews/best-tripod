@@ -359,7 +359,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/
 - title: 'r/AskPhotography: Tripod with center column and 3-way geared head'
   url: https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
-reviewedDate: '2026-11-04'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
 - q: Wat is het beste statief voor portretfotografie?
@@ -420,7 +420,7 @@ related:
 heroImage: /images/featured/best-tripod-for-headshots.png
 ---
 
-Bij portretten en headshots heeft een statief maar één taak: het objectief een hele shoot lang op ooghoogte van de persoon houden. Het beste statief voor portretfotografie is voor de meeste studio's de [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) met de optionele middenkolom van Feisol. Zijn je klanten lang, en in Nederland zijn ze dat vaak, dan zou ik de [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG) nemen, het model dat op alleen de poten het hoogst komt. Onze gids over [hoe hoog een statief moet zijn voor jouw lengte](/nl/blog/hoe-hoog-moet-een-statief-zijn/) legt de rekensom met de ooghoogte uit. Ik heb vijf statieven vergeleken op specificaties van de fabrikant en ervaringen van eigenaren; we hebben ze niet zelf gebruikt.
+Bij portretten en headshots heeft een statief maar één taak: het objectief een hele shoot lang op ooghoogte van de persoon houden. Het beste statief voor portretfotografie is voor de meeste studio's de [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) met de optionele middenkolom van Feisol. Zijn je klanten lang, en in Nederland zijn ze dat vaak, dan zou ik de [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG) nemen, het model dat op alleen de poten het hoogst komt. Onze gids over [hoe hoog een statief moet zijn voor jouw lengte](/nl/blog/hoe-hoog-moet-een-statief-zijn/) legt de rekensom met de ooghoogte uit. Ik heb vijf statieven vergeleken op specificaties van de fabrikant en ervaringen van eigenaren.
 
 ## Statieven voor portretten vergeleken: hoogte op de poten en met de kolom uit
 

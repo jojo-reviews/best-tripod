@@ -3,7 +3,7 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-canon-r6-mark-ii",
   "pass": true,
-  "checkedAt": "2026-11-06T16:03:38.954Z",
+  "checkedAt": "2026-11-13T19:30:02.932Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/; link the nl version once it exists",
@@ -13,22 +13,12 @@
     "illustration \"Handen die een telelens aan de statiefri\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Fotograaf laat aan een winderige kust de\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-    "source didn't respond normally (403): https://www.canon-europe.com/pro/stories/rf-70-200mm-f2-8l-is-usm-lens-developers-interview/",
-    "source didn't respond normally (403): https://www.canon-europe.com/lenses/rf-100-500mm-f-4-5-7-1-l-is-usm/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1495136-REG/peak_design_tt_cb_5_150_cf_1_carbon_fiber_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://hi.manuals.plus/asin/B079CRJC8C",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1934043-REG/vanguard_alta_pro_2_263ab.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1337901-REG/benro_tsl08cn00_slim_tripod_kit.html",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with the English post best-tripod-for-canon-r6-mark-ii: same 5 products/ASINs/scores/spec keys, every spec converted metric first (1 in=2,54 cm, 1 lb=0,4536 kg, English precision), Canon weights (670 g, 700/1,070/1,530 g lenses, 1,370/1,740/2,200 g kits) and headroom figures match; FAQ answers match; no testing/ownership, price, currency or local Amazon store claims; research-not-testing sentence kept. Local brief facts re-opened: Koelner Dom Domordnung (tripod needs Dompropst permit), KLM 55x35x25 cm incl. handles/wheels, Photofacts quote + half-load rule of thumb verified verbatim; Lufthansa/Iberia sizes, Alhambra/Sagrada/Rijksmuseum rules, DWD/AEMET/KNMI wind scale and forum quotes from the local brief. EU variants from the brief: Befree MKBFRLA4BK-BH (Foto Erhardt), Vanguard DE 171 cm/69,5 cm/2,29 kg, Leofoto EU dealers list the earlier LS-284C (Calumet/Kamera Express).",
-    "at": "2026-11-02T17:59:37.555Z",
-    "hash": "17136d3ac0fd65d3"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:02.340Z",
+    "hash": "a1213d879d84eeef"
   }
 }

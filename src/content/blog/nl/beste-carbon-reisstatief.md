@@ -559,7 +559,7 @@ sources:
   - title: 'DPReview forums: Lightest tripod for hiking?'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is het beste carbon reisstatief?
@@ -629,7 +629,7 @@ related:
 
 Het beste carbon reisstatief voor de meeste kits is de [Peak Design Travel Tripod (Carbon Fiber)](amzn:B085BQTQMN): 1,3 kg (2.8 lb), 39,4 cm (15.5 in) ingeklapt, 9,1 kg (20 lb) draagvermogen en 130,2 cm (51.25 in) hoog voordat de middenkolom omhoog gaat. Draag je een spiegelreflex of een full frame met een 70-200 mm, dan zou ik overstappen op de [Gitzo Traveler Series 1-kit](amzn:B071F31XLR), die met de kolom ingeschoven 140,5 cm (55.3 in) haalt.
 
-Fotografie begon voor mij met een solo-roadtrip dwars door de Verenigde Staten, en sinds 2017 fotografeer ik reizen en landschappen. Mijn eigen statiefuitrusting bestaat uit carbon statieven, balhoofden en Arca-Swiss-platen, met een Sony A7 IV of een Canon EOS R6 Mark II en een 16-35 mm- of 24-70 mm-zoom. Deze zes modellen komen uit specificatiebladen van fabrikanten, winkelaanbiedingen en verslagen van eigenaren; ik heb deze zes statieven niet zelf gebruikt, dus ik zeg bij elk getal waar het vandaan komt. Fotografeer je alleen met een systeemcamera? Onze gids voor het [beste reisstatief voor systeemcamera](/nl/blog/beste-reisstatief-voor-systeemcamera/) bespreekt ook aluminium modellen.
+Fotografie begon voor mij met een solo-roadtrip dwars door de Verenigde Staten, en sinds 2017 fotografeer ik reizen en landschappen. Mijn eigen statiefuitrusting bestaat uit carbon statieven, balhoofden en Arca-Swiss-platen, met een Sony A7 IV of een Canon EOS R6 Mark II en een 16-35 mm- of 24-70 mm-zoom. Deze zes modellen komen uit specificatiebladen van fabrikanten, winkelaanbiedingen en verslagen van eigenaren; ik zeg bij elk getal waar het vandaan komt. Fotografeer je alleen met een systeemcamera? Onze gids voor het [beste reisstatief voor systeemcamera](/nl/blog/beste-reisstatief-voor-systeemcamera/) bespreekt ook aluminium modellen.
 
 ## Carbon reisstatieven vergeleken op gewicht, pakmaat, hoogte en last
 

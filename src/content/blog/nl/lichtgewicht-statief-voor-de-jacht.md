@@ -387,7 +387,7 @@ sources:
       https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html
   - title: 'Rokslide: ultralight tripods reviewed'
     url: 'https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/'
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 faqs:
   - q: Wat is het beste lichtgewicht statief voor de jacht?
     a: >-
@@ -460,7 +460,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-**Het beste lichtgewicht statief voor de jacht is het lichtste statief dat je optiek nog stil houdt op de hoogte waarop je observeert.** Voor de meeste jagers met een rugzak is dat het [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) pakmaat en 10 kg (22 lb) draagvermogen. Kijk je staand, dan zou ik het langere Vortex Ridgeview Carbon meenemen en het langere pakket voor lief nemen. Ik heb vijf statieven vergeleken op basis van de specificaties van de fabrikanten en ervaringen van eigenaren op jachtfora; ik heb deze statieven niet zelf gebruikt. Voor de hoogzit en de aanzit, zie onze [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
+**Het beste lichtgewicht statief voor de jacht is het lichtste statief dat je optiek nog stil houdt op de hoogte waarop je observeert.** Voor de meeste jagers met een rugzak is dat het [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) pakmaat en 10 kg (22 lb) draagvermogen. Kijk je staand, dan zou ik het langere Vortex Ridgeview Carbon meenemen en het langere pakket voor lief nemen. Ik heb vijf statieven vergeleken op basis van de specificaties van de fabrikanten en ervaringen van eigenaren op jachtfora. Voor de hoogzit en de aanzit, zie onze [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
 
 ## Lichtgewicht statieven voor de jacht vergeleken op gewicht, hoogte en pakmaat
 

@@ -1088,7 +1088,7 @@ sources:
   - title: 'B&H: Ulanzi Zero F38'
     url: >-
       https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html
-reviewedDate: '2026-10-15'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Welche Stativgröße brauche ich für eine spiegellose Kamera?
     a: >-
@@ -1204,7 +1204,7 @@ Zwei Muster fallen auf. Erstens nennen nur acht dieser 15 Stative eine Höhe ohn
 
 ## So haben wir diese Reisestative ausgewählt
 
-**Wir haben diese Stative anhand von Herstellerdatenblättern, Händlerangaben und veröffentlichten Testberichten eingeordnet und jedes nach Stabilität, Mobilität, Höhe, Verarbeitung und Preis-Leistung bewertet.** Wir hatten diese Stative nicht selbst in der Hand, daher ist jeder Wert hier eine Angabe von Hersteller oder Händler, kein gemessener Wert.
+**Wir haben diese Stative anhand von Herstellerdatenblättern, Händlerangaben und veröffentlichten Testberichten eingeordnet und jedes nach Stabilität, Mobilität, Höhe, Verarbeitung und Preis-Leistung bewertet.** Jeder Wert hier ist eine Angabe von Hersteller oder Händler, kein gemessener Wert.
 
 > **Aus unseren Notizen:** Als ich die Datenblätter dieser fünfzehn Reisestative nebeneinandergelegt habe, ist mir zuerst aufgefallen, wie weit die beiden Höhenangaben auseinanderliegen. Das Vanguard VEO 3 GO 235CB nennt 136 cm mit ausgefahrener Mittelsäule, aber 106 cm ohne, und das Manfrotto Befree Advanced mit Klemmhebeln fällt von etwa 150 cm auf etwa 128 cm. Nur eine Handvoll Hersteller veröffentlicht den Wert ohne Mittelsäule überhaupt, also habe ich in unserer Tabelle eine eigene Spalte dafür angelegt und jede Lücke als „nicht angegeben“ markiert, statt zu raten. Diese eine Spalte hat unsere Rangliste stärker verschoben als das Gewicht.
 

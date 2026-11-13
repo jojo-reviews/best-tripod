@@ -368,7 +368,7 @@ sources:
       heights)
     url: >-
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
-reviewedDate: '2026-10-29T00:00:00.000Z'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Welk statief is zonder middenkolom het hoogst voor iemand van 1,93 m?
@@ -417,7 +417,7 @@ heroAlt: >-
   Best Tripod
 ---
 
-Het beste statief voor lange mensen brengt je zoeker op ooghoogte zonder dat je de middenkolom helemaal uitschuift, en weinig specificatiebladen vertellen of een hoog statief dat haalt. Ik vergeleek vier hoge statieven op basis van spectabellen, reviews en ervaringen van eigenaren: het [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) voor zware lenzen, het [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) voor pure hoogte en twee lichte budgetmodellen van 188 cm voor foto en video. Ik heb ze niet zelf gebruikt; elk getal komt van een fabrikant, winkel of reviewer. In Nederland is dit geen randgeval: volgens het [CBS waren in Nederland geboren mannen van 19 jaar in 2020 gemiddeld 182,9 cm lang](https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang), dus de gemiddelde jonge Nederlandse man zit al precies op de grens van 1,83 m (6 ft) waar dit artikel over gaat.
+Het beste statief voor lange mensen brengt je zoeker op ooghoogte zonder dat je de middenkolom helemaal uitschuift, en weinig specificatiebladen vertellen of een hoog statief dat haalt. Ik vergeleek vier hoge statieven op basis van spectabellen, reviews en ervaringen van eigenaren: het [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) voor zware lenzen, het [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) voor pure hoogte en twee lichte budgetmodellen van 188 cm voor foto en video. Elk getal komt van een fabrikant, winkel of reviewer. In Nederland is dit geen randgeval: volgens het [CBS waren in Nederland geboren mannen van 19 jaar in 2020 gemiddeld 182,9 cm lang](https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang), dus de gemiddelde jonge Nederlandse man zit al precies op de grens van 1,83 m (6 ft) waar dit artikel over gaat.
 
 ## Statief voor lange mensen: onze keuzes in het kort
 
@@ -455,7 +455,7 @@ Je ogen zitten ongeveer 10 tot 13 cm (4 tot 5 in) onder je kruin: rond 170 tot 1
 
 ### Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3): beste stevige allrounder
 
-Het Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) is een aluminium camerastatief van Manfrotto dat alleen als poten wordt verkocht. Ik koos het voor lange fotografen die zwaardere lenzen meenemen voor landschapsfotografie en meestal met de auto naar de locatie gaan, omdat de statiefpoten de stijfste van de vier zijn. Het heeft drie pootsegmenten met klemsluitingen, een middenkolom die 90 graden horizontaal kantelt voor lage opnames of opnames van bovenaf, en ongeveer 9 kg (19.8 lb) werklast, de meeste marge hier. Dat past waarschijnlijk bij een fullframe DSLR of systeemcamera met een 70-200mm f/2.8 plus een stevige kop, al heb ik dat niet zelf geprobeerd.
+Het Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) is een aluminium camerastatief van Manfrotto dat alleen als poten wordt verkocht. Ik koos het voor lange fotografen die zwaardere lenzen meenemen voor landschapsfotografie en meestal met de auto naar de locatie gaan, omdat de statiefpoten de stijfste van de vier zijn. Het heeft drie pootsegmenten met klemsluitingen, een middenkolom die 90 graden horizontaal kantelt voor lage opnames of opnames van bovenaf, en ongeveer 9 kg (19.8 lb) werklast, de meeste marge hier. Dat past waarschijnlijk bij een fullframe DSLR of systeemcamera met een 70-200mm f/2.8 plus een stevige kop.
 
 Hoogte is het probleem. De maximale 170 cm (66.9 in) vraagt een uitgeschoven kolom; Manfrotto zelf en B&H noemen 140 cm (55 in) zonder, en een reviewer van The Center Column mat met alleen de poten ongeveer 141 cm (55.5 in). Met mijn toeslag van 13 tot 20 cm (5 tot 8 in) kom je op ongeveer 152 tot 160 cm (60 tot 63 in) bij de zoeker, te laag voor de ooghoogte van de meeste mensen boven 1,83 m. Het zijn alleen poten, dus reken op een kop, het liefst met een Arca-Swiss-klem; onze [Manfrotto-merkpagina](/brand/manfrotto/) toont de Manfrotto-koppen die we behandelen.
 

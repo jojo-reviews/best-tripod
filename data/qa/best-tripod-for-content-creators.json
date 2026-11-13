@@ -1,10 +1,9 @@
 {
   "slug": "best-tripod-for-content-creators",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:24.793Z",
+  "checkedAt": "2026-11-13T19:30:08.448Z",
   "errors": [],
   "warnings": [
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"EUCOS 62\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:22.605Z",
-    "hash": "8387f6e48656f196"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:30:07.789Z",
+    "hash": "bd4c13d8fc4bbc8f"
   }
 }

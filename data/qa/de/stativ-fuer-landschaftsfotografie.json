@@ -19,8 +19,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with landscape-photography-tripod: all 5 products, ASINs, scores, specs keys, owners and FAQ answers match the English post; unit conversions checked (in->cm x2.54, lb->kg x0.4536; maker metric used: Peak 130,2/152,4/39,4 cm, Befree 128/151/40 cm 9 kg, MT190 135/160/59 cm 2 kg 15 kg, Feisol 147/190/52 cm 1,78 kg 30 kg). Local facts re-opened: Lufthansa carry-on 55x40x23 cm (lufthansa.com/fi/de/handgepaeck), Nationalpark Saechsische Schweiz core zone marked paths only (nationalpark-saechsische-schweiz.de/verhalten), Befree EU code MKBFRLA4BK-BH (foto-erhardt), Feisol Europe CT-3472 M2 1,81 kg (feisol.eu), dslr-forum quotes verbatim. Vanguard Gen 2 noted as listed mainly on US pages. No testing/ownership claims, no prices/currencies, no local Amazon store, research-not-testing sentence present.",
-    "at": "2026-11-01T17:53:15.212Z",
-    "hash": "855f9c9a9ade5dbd"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:31.664Z",
+    "hash": "d91b8b8fd7950971"
   }
 }

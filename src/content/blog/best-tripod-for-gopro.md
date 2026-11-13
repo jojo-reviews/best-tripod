@@ -464,9 +464,9 @@ heroAlt: >-
   buying guide
 ---
 
-I have been shooting since 2017, ever since a solo road trip across the United States, and my support kit is carbon fiber tripods and ball heads. None of that suits a GoPro, so I asked a different question: what holds a tiny camera steady where a full tripod won't go?
+The best tripod for GoPro is the one that fits your most common shot: a GoPro Shorty in your pocket for time-lapses and group selfies, a GoPro 3-Way 2.0 for a grip and a 19.5 in arm, GoPro Volta for all-day battery, the MAX Grip + Tripod for a 22 in locking pole, or a Xenvo SquidGrip when the only solid thing nearby is a railing.
 
-The best tripod for GoPro is the one that fits your most common shot: a GoPro Shorty in your pocket for time-lapses and group selfies, a GoPro 3-Way 2.0 for a grip and a 19.5 in arm, GoPro Volta for all-day battery, the MAX Grip + Tripod for a 22 in locking pole, or a Xenvo SquidGrip when the only solid thing nearby is a railing. I built this GoPro tripod review from maker specs, four independent GoPro tripod guides and owner threads on Reddit, Facebook groups and retailer sites. If you are torn between bendy and rigid legs, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the split.
+I have been shooting since 2017, ever since a solo road trip across the United States, and my support kit is carbon fiber tripods and ball heads. None of that suits a GoPro, so I asked a different question: what holds a tiny camera steady where a full tripod won't go? I built this GoPro tripod review from maker specs, four independent GoPro tripod guides and owner threads on Reddit, Facebook groups and retailer sites. If you are torn between bendy and rigid legs, our [flexible vs mini tripod comparison](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/) explains the split.
 
 Picture it: the GoPro sits on a picnic table for a sunset time-lapse, a gust hits, and the footage ends up pointing at the sky (for a full camera, see our [tripods for timelapse](/blog/best-tripod-for-timelapse/)). These picks stop that.
 

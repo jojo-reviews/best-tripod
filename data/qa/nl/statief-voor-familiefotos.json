@@ -3,25 +3,19 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-family-photos",
   "pass": true,
-  "checkedAt": "2026-11-04T18:17:10.527Z",
+  "checkedAt": "2026-11-13T19:29:50.698Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the nl version once it exists",
     "internal link to the English post /blog/best-tripod-under-100/; link the nl version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1d7fm10/advice_self_photographers_aka_tripod_remote/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/7oi2sx/shooting_my_own_family_portrait_on_a_tripod_with/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-family-photos: same 5 products/ASINs/scores/spec keys, same FAQ answers; conversions script-checked against English figures and maker metric specs. Local facts from data/briefs/nl local brief: CBS 19-year-olds 182,9/169,3 cm (2020) re-opened and confirmed (replaces CDC; targets 139-144/153-158 cm recomputed), KLM 55x35x25 cm, Rijksmuseum 'geen statieven', Zoom Academy manual-focus tip; Tweakers quotes verbatim (re-opened). Manfrotto number link re-checked. No testing claims, prices or local Amazon store. 3 outside links.",
-    "at": "2026-11-02T18:03:56.942Z",
-    "hash": "fbadfe8076137e0f"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:29:50.013Z",
+    "hash": "1c450da2de4adc6b"
   }
 }

@@ -142,9 +142,9 @@ heroAlt: >-
   Tripod how-to
 ---
 
-I have been shooting since 2017, mostly travel, landscape, wildlife and real estate, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. A creeping leg is the failure I least want under a 200-600mm lens, so here is the short answer.
-
 A tripod leg lock that won't hold lets one leg section creep down after you mount the camera, until the horizon tilts. The cause is usually a twist lock that isn't fully closed, grit or a misplaced ring inside the collar, a flip lock whose tension nut has backed off, or a loose angle joint at the top. I work through them cheapest first, using maker manuals and owner threads.
+
+I have been shooting since 2017, mostly travel, landscape, wildlife and real estate, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. A creeping leg is the failure I least want under a 200-600mm lens.
 
 ## Why a tripod leg lock won't hold: find what moves
 

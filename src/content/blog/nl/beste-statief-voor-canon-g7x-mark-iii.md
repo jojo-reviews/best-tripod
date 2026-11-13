@@ -356,7 +356,7 @@ sources:
   url: https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/
 - title: 'r/photography: Quick-release tripod for a Canon G7X III'
   url: https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-07T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
 - q: Werkt de Canon HG-100TBR met de G7X Mark III?
   a: Ja. Canon noemt de PowerShot G7 X Mark III compatibel met de HG-100TBR, en de
@@ -408,7 +408,7 @@ heroAlt: Beste statief voor Canon G7X Mark III – 5 modellen voor vlog en reis 
   Tripod koopgids
 ---
 
-Het beste statief voor Canon G7X Mark III vloggers is Canons [statiefgrip HG-100TBR](amzn:B07Z5LZ92N), omdat Canon de camera als compatibel noemt en de ingeklikte afstandsbediening de opname start terwijl het opgeklapte scherm naar je toe staat. Voor tafels zou ik de Manfrotto PIXI Mini nemen, voor relingen de Joby GorillaPod 1K, voor verticale clips de PIXI EVO en voor staande opnamen de Peak Design Travel Tripod (Aluminum). Ik heb alle vijf op de camera afgestemd op basis van fabrikantspecificaties en gebruikerservaringen bij B&H, op r/canon en op het forum van DPReview; we hebben ze zelf niet gebruikt.
+Het beste statief voor Canon G7X Mark III vloggers is Canons [statiefgrip HG-100TBR](amzn:B07Z5LZ92N), omdat Canon de camera als compatibel noemt en de ingeklikte afstandsbediening de opname start terwijl het opgeklapte scherm naar je toe staat. Voor tafels zou ik de Manfrotto PIXI Mini nemen, voor relingen de Joby GorillaPod 1K, voor verticale clips de PIXI EVO en voor staande opnamen de Peak Design Travel Tripod (Aluminum). Ik heb alle vijf op de camera afgestemd op basis van fabrikantspecificaties en gebruikerservaringen bij B&H, op r/canon en op het forum van DPReview.
 
 ## G7X Mark III-statieven vergeleken met een camera van 304 g
 

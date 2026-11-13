@@ -330,7 +330,7 @@ sources:
     url: https://www.packhacker.com/blog/general/best-travel-tripod/
   - title: 'Digital Camera World: The best tripod for photography'
     url: https://www.digitalcameraworld.com/buying-guides/best-tripod
-reviewedDate: '2026-11-09T00:00:00.000Z'
+reviewedDate: 2026-11-13
 faqs:
   - q: Kan elk statief staand fotograferen?
     a: 'Ja, de meeste statieven kunnen staand fotograferen als de statiefkop 90 graden kantelt: een balhoofd zakt in zijn sleuf en een 3-wegkop heeft een eigen as voor staand formaat. Het probleem is de balans, want de camera zit dan naast de middenkolom, en een licht statief met een zware camera kan doorzakken of omvallen.'
@@ -366,7 +366,7 @@ heroImage: /images/featured/best-tripod-for-vertical-shooting.png
 heroAlt: Statief voor staand fotograferen – 5 modellen die vlot kantelen – Best Tripod-gids
 ---
 
-Een goed statief voor staand fotograferen is er een waarvan de kop de camera naar staand draait zonder dat je hem opnieuw moet monteren of dat hij doorzakt. Voor verticale video kies ik de [Manfrotto ONE Hybrid met 500X-kop](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), waarvan de kantelplaat in seconden naar 9:16 draait. Voor staande foto's onderweg zakt de [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in een sleuf van 90 graden, en drie lichtere modellen nemen een [L-bracket voor staande beelden](/blog/l-bracket-for-landscape-photography/) aan. Ik heb deze lijst samengesteld uit fabrieksspecificaties en ervaringen van eigenaren; ik heb deze statieven zelf niet gebruikt.
+Een goed statief voor staand fotograferen is er een waarvan de kop de camera naar staand draait zonder dat je hem opnieuw moet monteren of dat hij doorzakt. Voor verticale video kies ik de [Manfrotto ONE Hybrid met 500X-kop](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), waarvan de kantelplaat in seconden naar 9:16 draait. Voor staande foto's onderweg zakt de [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in een sleuf van 90 graden, en drie lichtere modellen nemen een [L-bracket voor staande beelden](/blog/l-bracket-for-landscape-photography/) aan. Ik heb deze lijst samengesteld uit fabrieksspecificaties en ervaringen van eigenaren.
 
 ## Statief voor staand fotograferen: zo draait elk model de camera
 

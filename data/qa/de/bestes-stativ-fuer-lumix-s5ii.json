@@ -3,26 +3,18 @@
   "lang": "de",
   "translationOf": "best-tripod-for-lumix-s5ii",
   "pass": true,
-  "checkedAt": "2026-11-08T12:00:18.789Z",
+  "checkedAt": "2026-11-13T19:30:31.836Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r2060.html",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r70200.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1667840-REG/3_legged_thing_coreyblue2_0_punks_corey_2_0_magnesium.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-lumix-s5ii: all 5 products/ASINs/scores identical, every spec converted metric-first (Leofoto 10 kg/132 cm/56 cm, Befree maker 150/128/40 cm 9 kg, Peak 152,4/130,2/39,4 cm 9,07 kg, Corey maker 1,46 m/1,12 m/36,1 cm/14 kg re-checked on 3leggedthing.com, TreeRoot 155 cm/5 kg re-checked on ulanzi.com), S5II 740 g and 70-200 985 g links kept, headroom math 8,1/5,8/5,3/5,2/2,9 unchanged, FAQ answers match. Local facts from local brief: Lufthansa 55x40x23 cm 8 kg, Koelner Dom Domordnung tripod permit, DWD Windstaerke 6 40-45 km/h, dslr-forum quotes; EU availability: Befree MKBFRLA4BK-BH (Foto Erhardt), Leofoto LS-284C at Calumet, Corey on idealo.de, TreeRoot at Kamera Express. No prices, no testing claims, no local Amazon store claims.",
-    "at": "2026-11-07T16:31:11.144Z",
-    "hash": "ebe8c338123bf4f4"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:31.093Z",
+    "hash": "25eb32f6374556f0"
   }
 }

@@ -453,7 +453,7 @@ sources:
       tripod?)
     url: >-
       https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Cuál es el mejor trípode de mesa para cámara?
     a: >-
@@ -514,7 +514,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-El mejor trípode de mesa para cámara es aquel cuya rótula aguanta bastante más que tu cámara y objetivo, y cuyas patas se adaptan a la superficie donde disparas. Para la mayoría de cámaras sin espejo y compactas recomiendo el [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto lo homologa para [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb), y sus patas se ajustan de 10,5 a 20 cm (4.1 a 7.9 in). He comparado cinco trípodes de mesa a partir de las especificaciones del fabricante y de opiniones de usuarios; no los he probado yo mismo. Si grabas sobre todo en el escritorio, mi guía del [minitrípode para videollamadas en el escritorio](/blog/best-mini-tripod-for-desk-video-calls/) trata la altura de la webcam.
+El mejor trípode de mesa para cámara es aquel cuya rótula aguanta bastante más que tu cámara y objetivo, y cuyas patas se adaptan a la superficie donde disparas. Para la mayoría de cámaras sin espejo y compactas recomiendo el [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto lo homologa para [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb), y sus patas se ajustan de 10,5 a 20 cm (4.1 a 7.9 in). He comparado cinco trípodes de mesa a partir de las especificaciones del fabricante y de opiniones de usuarios. Si grabas sobre todo en el escritorio, mi guía del [minitrípode para videollamadas en el escritorio](/blog/best-mini-tripod-for-desk-video-calls/) trata la altura de la webcam.
 
 ## Comparativa de trípodes de mesa para cámara
 

@@ -426,7 +426,7 @@ sources:
     url: 'https://wiki.ezvid.com/best-tripod-dollies'
   - title: 'Alternative.me: The Best Tripod Dollies'
     url: 'https://alternative.me/tripod-dollies'
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is de beste statief dolly?
@@ -486,7 +486,7 @@ heroAlt: >-
   koopgids
 ---
 
-De beste statief dolly is de dolly die eerst past bij de voeten van je statief en daarna bij het gewicht van je rig. Voor ronde of rubberen voeten kies ik de [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), een opvouwbare dolly van 1,8 kg (3.97 lb) met wielen van 8 cm (3 in) met rem en 15 kg (33 lb) draagvermogen. Voor cinestatieven met dubbele spikes is de [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) de vloerdolly met kommen die ik zou nemen. Ik heb zes modellen gerangschikt op basis van specificaties van de fabrikanten en ervaringen van eigenaren; we hebben ze niet zelf getest.
+De beste statief dolly is de dolly die eerst past bij de voeten van je statief en daarna bij het gewicht van je rig. Voor ronde of rubberen voeten kies ik de [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), een opvouwbare dolly van 1,8 kg (3.97 lb) met wielen van 8 cm (3 in) met rem en 15 kg (33 lb) draagvermogen. Voor cinestatieven met dubbele spikes is de [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) de vloerdolly met kommen die ik zou nemen. Ik heb zes modellen gerangschikt op basis van specificaties van de fabrikanten en ervaringen van eigenaren.
 
 ## Statief dolly vergelijken op draagvermogen, wielen en type voet
 

@@ -334,7 +334,7 @@ sources:
   url: https://www.reddit.com/r/smartphonefilming/comments/1v6kixl/recommend_me_a_face_tracking_tripod_for_iphone/
 - title: 'r/MagSafe: DockKit stands and gimbals in late 2025'
   url: https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/
-reviewedDate: '2026-11-09'
+reviewedDate: '2026-11-13'
 faqs:
 - q: ¿Un trípode para iPhone que te sigue funciona con la app Cámara del iPhone?
   a: Sí, un trípode para iPhone que te sigue funciona en la app Cámara si es compatible con Apple DockKit o lleva su propio módulo de seguimiento. El Flow 2 Pro, el Osmo Mobile 8 y el 8P usan DockKit; el Osmo Mobile 7P y el iSteady M7 usan un módulo acoplable que funciona en cualquier app de cámara.
@@ -369,7 +369,7 @@ heroImage: /images/featured/best-iphone-tripod-that-follows-you.png
 heroAlt: Trípode para iPhone que te sigue – 5 gimbals con seguimiento – guía de compra de Best Tripod
 ---
 
-El mejor trípode para iPhone que te sigue es un gimbal con trípode integrado, y para la mayoría de usuarios de iPhone mi elección es el [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Sigue al sujeto con Apple DockKit, así que la app Cámara y más de 200 apps de iOS te siguen, y gira 360° completos. El [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) es la alternativa más cercana, con un módulo de seguimiento en la caja. He comparado cinco modelos a partir de las especificaciones de los fabricantes y de las opiniones de propietarios; no los he probado yo mismo. Si solo necesitas un trípode fijo con mando, mis [trípodes para móvil para vlogs con control remoto](/es/blog/mejor-tripode-para-movil-para-vlogs-con-control-remoto/) cuestan menos.
+El mejor trípode para iPhone que te sigue es un gimbal con trípode integrado, y para la mayoría de usuarios de iPhone mi elección es el [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Sigue al sujeto con Apple DockKit, así que la app Cámara y más de 200 apps de iOS te siguen, y gira 360° completos. El [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) es la alternativa más cercana, con un módulo de seguimiento en la caja. He comparado cinco modelos a partir de las especificaciones de los fabricantes y de las opiniones de propietarios. Si solo necesitas un trípode fijo con mando, mis [trípodes para móvil para vlogs con control remoto](/es/blog/mejor-tripode-para-movil-para-vlogs-con-control-remoto/) cuestan menos.
 
 ## Comparativa de trípodes para iPhone con seguimiento por tipo, giro y batería
 

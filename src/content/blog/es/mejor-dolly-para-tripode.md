@@ -430,7 +430,7 @@ sources:
     url: 'https://wiki.ezvid.com/best-tripod-dollies'
   - title: 'Alternative.me: The Best Tripod Dollies'
     url: 'https://alternative.me/tripod-dollies'
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor dolly para trípode?
@@ -491,7 +491,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-El mejor dolly para trípode es el que encaja primero con los pies de tu trípode y después con el peso de tu equipo. Para pies redondos o de goma elijo el [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), un dolly plegable de 1,8 kg (3.97 lb) con ruedas de 8 cm (3 in) con freno y 15 kg (33 lb) de carga. Para patas de cine con doble punta, el [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) es el dolly de suelo con cazoletas que yo compraría. He ordenado seis modelos a partir de las especificaciones de los fabricantes y las opiniones de propietarios; no los hemos probado nosotros.
+El mejor dolly para trípode es el que encaja primero con los pies de tu trípode y después con el peso de tu equipo. Para pies redondos o de goma elijo el [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), un dolly plegable de 1,8 kg (3.97 lb) con ruedas de 8 cm (3 in) con freno y 15 kg (33 lb) de carga. Para patas de cine con doble punta, el [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) es el dolly de suelo con cazoletas que yo compraría. He ordenado seis modelos a partir de las especificaciones de los fabricantes y las opiniones de propietarios.
 
 ## Comparativa de dollies para trípode por carga, ruedas y tipo de pie
 

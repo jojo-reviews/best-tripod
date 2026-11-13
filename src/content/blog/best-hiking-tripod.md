@@ -529,7 +529,9 @@ related:
   - travel-tripod-vs-full-size-tripod-for-landscape-photography
 ---
 
-A solo road trip across the United States is what first pulled me into photography, and I've kept at it since 2017, mostly on travel and landscape work. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge a trail tripod by whether I'd actually carry it. The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. Every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
+The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down.
+
+A solo road trip across the United States is what first pulled me into photography, and I've kept at it since 2017, mostly on travel and landscape work. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge a trail tripod by whether I'd actually carry it. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. Every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
 
 ## Best hiking tripod picks by pack weight
 

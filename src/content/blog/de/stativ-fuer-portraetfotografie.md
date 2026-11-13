@@ -361,7 +361,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/
 - title: 'r/AskPhotography: Tripod with center column and 3-way geared head'
   url: https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: Welches Stativ ist das beste für Porträtfotografie?
@@ -422,7 +422,7 @@ related:
 heroImage: /images/featured/best-tripod-for-headshots.png
 ---
 
-Bei Porträts und Headshots hat ein Stativ genau eine Aufgabe: das Objektiv eine ganze Session lang auf Augenhöhe der Person zu halten. Das beste Stativ für Porträtfotografie ist für die meisten Studios das [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) mit Feisols optionaler Mittelsäule. Wenn deine Kunden groß sind, würde ich das [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG) nehmen, das einzige Modell, das ohne Säule fast die Augenhöhe eines durchschnittlichen deutschen Mannes erreicht. Unser Ratgeber, [wie hoch ein Stativ für deine Körpergröße sein sollte](/de/blog/wie-hoch-sollte-ein-stativ-sein/), erklärt die Rechnung mit der Augenhöhe. Ich habe fünf Stative anhand von Herstellerangaben und Berichten von Besitzern verglichen; wir haben sie nicht selbst benutzt.
+Bei Porträts und Headshots hat ein Stativ genau eine Aufgabe: das Objektiv eine ganze Session lang auf Augenhöhe der Person zu halten. Das beste Stativ für Porträtfotografie ist für die meisten Studios das [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) mit Feisols optionaler Mittelsäule. Wenn deine Kunden groß sind, würde ich das [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG) nehmen, das einzige Modell, das ohne Säule fast die Augenhöhe eines durchschnittlichen deutschen Mannes erreicht. Unser Ratgeber, [wie hoch ein Stativ für deine Körpergröße sein sollte](/de/blog/wie-hoch-sollte-ein-stativ-sein/), erklärt die Rechnung mit der Augenhöhe. Ich habe fünf Stative anhand von Herstellerangaben und Berichten von Besitzern verglichen.
 
 ## Stative für Porträts im Vergleich: Höhe ohne Säule und ausgefahren
 

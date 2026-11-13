@@ -490,7 +490,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor landschapsfotografie?
@@ -536,7 +536,7 @@ heroAlt: >-
   koopgids
 ---
 
-Een statief voor landschapsfotografie is een camerastatief voor lange sluitertijden buiten. Het juiste haalt met de middenzuil omlaag bijna ooghoogte, komt laag genoeg voor rotsen op de voorgrond en blijft stil staan in de wind en op ongelijke grond. Die drie taken tellen zwaarder dan gewicht, want een uitgeschoven zuil, een windvlaag of het indrukken van de ontspanknop maakt een opname van 30 seconden bij zonsopkomst zacht, en zwaardere bodies vragen nog stevigere poten, zoals onze [statieven voor middenformaatcamera's](/blog/best-tripod-for-medium-format-camera/) laten zien. Hieronder vijf modellen die de belangrijkste landschapsgidsen aanraden. We hebben elke specificatie naast de site van de maker gelegd en gelezen wat eigenaren melden. We hebben deze statieven niet zelf gebruikt; elk getal is een opgave van de maker, een cijfer van een recensent of een melding van een eigenaar, en we zeggen welke.
+Een statief voor landschapsfotografie is een camerastatief voor lange sluitertijden buiten. Het juiste haalt met de middenzuil omlaag bijna ooghoogte, komt laag genoeg voor rotsen op de voorgrond en blijft stil staan in de wind en op ongelijke grond. Die drie taken tellen zwaarder dan gewicht, want een uitgeschoven zuil, een windvlaag of het indrukken van de ontspanknop maakt een opname van 30 seconden bij zonsopkomst zacht, en zwaardere bodies vragen nog stevigere poten, zoals onze [statieven voor middenformaatcamera's](/blog/best-tripod-for-medium-format-camera/) laten zien. Hieronder vijf modellen die de belangrijkste landschapsgidsen aanraden. We hebben elke specificatie naast de site van de maker gelegd en gelezen wat eigenaren melden. Elk getal is een opgave van de maker, een cijfer van een recensent of een melding van een eigenaar, en we zeggen welke.
 
 ## Statieven voor landschapsfotografie in één oogopslag
 

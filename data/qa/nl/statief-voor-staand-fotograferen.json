@@ -13,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-vertical-shooting: same 5 products/ASINs/scores/spec keys; metric-first conversions checked (ONE 170,5/19/70,5 cm, 3,5+1,2 kg, 15/5 kg; Befree 151/128/40 cm, 1,59 kg, 9 kg; Peak 152,4/130,2/14/39,4 cm, 1,3 kg, 9,1 kg; SIRUI 138/16/33 cm, 0,85 kg, 4 kg; K&F 163/52/39,5 cm, 1,15 kg, 8 kg). Manfrotto 2,4 kg@55 mm and Fstoppers 5 kg links unchanged. Local facts from the local brief: KLM 55x35x25 cm (klm.com), Rijksmuseum no tripods (rijksmuseum.nl), Rijksmuseum Boerhaave no tripod (rijksmuseumboerhaave.nl); EU codes MKONEA-500X (Cameranu/Nivo-Schweitzer) and MKBFRLA4BK-BH. Nando Harmsen article and reader-comment quotes verified verbatim on the scraped page. No prices, testing claims or local Amazon claims.",
-    "at": "2026-11-09T15:58:47.849Z",
-    "hash": "74f0e37dc3b5304e"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:29:56.927Z",
+    "hash": "e43e1ea5ba47a5a1"
   }
 }

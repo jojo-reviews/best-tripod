@@ -438,7 +438,7 @@ sources:
   - title: 'r/ricohGR: How often do you shoot using a tripod?'
     url: >-
       https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Ricoh GR III?
@@ -497,7 +497,7 @@ heroAlt: >-
   koopgids van Best Tripod
 ---
 
-Een Ricoh GR III woont in je jaszak, dus het statief moet klein genoeg zijn om elke dag mee te gaan. Het beste statief voor Ricoh GR III bezitters is voor straatfotografie en avondwandelingen daarom meestal een ministatief. Voor de meeste mensen is dat de [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); voor lange sluitertijden op stahoogte is het de [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). Ik heb vijf statieven op de camera afgestemd aan de hand van fabrieksspecificaties en draadjes van GR-bezitters op r/ricohGR, DPReview, FM Forums en PentaxForums. Alle vijf wegen minder dan 0,9 kg (2 lb), en ik heb deze statieven niet zelf gebruikt.
+Een Ricoh GR III woont in je jaszak, dus het statief moet klein genoeg zijn om elke dag mee te gaan. Het beste statief voor Ricoh GR III bezitters is voor straatfotografie en avondwandelingen daarom meestal een ministatief. Voor de meeste mensen is dat de [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); voor lange sluitertijden op stahoogte is het de [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). Ik heb vijf statieven op de camera afgestemd aan de hand van fabrieksspecificaties en draadjes van GR-bezitters op r/ricohGR, DPReview, FM Forums en PentaxForums. Alle vijf wegen minder dan 0,9 kg (2 lb).
 
 ## Statieven voor de Ricoh GR III vergeleken met een camera van 257 g
 

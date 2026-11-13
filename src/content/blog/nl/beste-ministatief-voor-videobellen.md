@@ -315,7 +315,7 @@ sources:
   - title: 'Markus Hagner Photography: Best tabletop tripods for product photography'
     url: >-
       https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Hoe hoog moet een webcam of camera staan bij videobellen?
     a: >-
@@ -356,7 +356,7 @@ heroAlt: >-
   Best Tripod
 ---
 
-Het beste ministatief voor videobellen houdt je webcam, smartphone of camera stil en richt hem op je gezicht, niet van onder in je neus. Ik heb drie tafelstatieven vergeleken die steeds terugkomen in gidsen over ministatieven: de [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) voor de meeste bureaus, de [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) voor een systeemcamera als webcam en de [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) als eenvoudigste bureaustandaard. We hebben geen van de drie getest; alles hieronder komt uit specificaties van fabrikanten en winkels, redactionele reviews en de paar gebruikersreviews die we vonden.
+Het beste ministatief voor videobellen houdt je webcam, smartphone of camera stil en richt hem op je gezicht, niet van onder in je neus. Ik heb drie tafelstatieven vergeleken die steeds terugkomen in gidsen over ministatieven: de [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) voor de meeste bureaus, de [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) voor een systeemcamera als webcam en de [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) als eenvoudigste bureaustandaard. Alles hieronder komt uit specificaties van fabrikanten en winkels, redactionele reviews en de paar gebruikersreviews die we vonden.
 
 ## De beste ministatieven voor videobellen: onze keuzes
 
@@ -382,7 +382,7 @@ Het beste ministatief voor videobellen houdt je webcam, smartphone of camera sti
 
 ## Zo kozen we elk ministatief voor videobellen
 
-**We begonnen bij de mini- en tafelstatieven die meerdere gidsen aanraden, hielden alleen modellen met een duidelijke aanbieding op Amazon in de Verenigde Staten over en controleerden elk aan de hand van specificaties van fabrikanten en winkels en gebruikersreviews.** We hebben ze niet gekocht en niet getest.
+**We begonnen bij de mini- en tafelstatieven die meerdere gidsen aanraden, hielden alleen modellen met een duidelijke aanbieding op Amazon in de Verenigde Staten over en controleerden elk aan de hand van specificaties van fabrikanten en winkels en gebruikersreviews.**
 
 Ik keek ook naar de Joby GorillaPod met zijn [flexibele poten](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/), een tafelstatief van Neewer, telefoonstatieven van UBeesize en het mini-tafelstatief van K&F Concept. Die vielen af omdat ze te weinig in gidsen stonden, gebruikersbewijs ontbrak of er voor de GorillaPod-set geen aanbieding op Amazon in de Verenigde Staten was.
 

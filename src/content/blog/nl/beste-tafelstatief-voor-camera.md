@@ -450,7 +450,7 @@ sources:
       tripod?)
     url: >-
       https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Wat is het beste tafelstatief voor een camera?
     a: >-
@@ -512,7 +512,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-Het beste tafelstatief voor camera en lens is het statief waarvan de kop ruim meer aankan dan je camera en lens, en waarvan de poten passen bij de ondergrond waarop je fotografeert. Voor de meeste systeemcamera's en compactcamera's kies ik de [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto geeft hem een draagvermogen van [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb), en de poten zijn verstelbaar van 10,5 tot 20 cm (4.1 tot 7.9 in). Ik heb vijf tafelstatieven vergeleken op basis van fabrieksspecificaties en ervaringen van eigenaren; ik heb ze niet zelf getest. Film je vooral aan je bureau, dan behandelt mijn gids over het [ministatief voor videogesprekken aan je bureau](/blog/best-mini-tripod-for-desk-video-calls/) de hoogte van de webcam.
+Het beste tafelstatief voor camera en lens is het statief waarvan de kop ruim meer aankan dan je camera en lens, en waarvan de poten passen bij de ondergrond waarop je fotografeert. Voor de meeste systeemcamera's en compactcamera's kies ik de [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto geeft hem een draagvermogen van [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb), en de poten zijn verstelbaar van 10,5 tot 20 cm (4.1 tot 7.9 in). Ik heb vijf tafelstatieven vergeleken op basis van fabrieksspecificaties en ervaringen van eigenaren. Film je vooral aan je bureau, dan behandelt mijn gids over het [ministatief voor videogesprekken aan je bureau](/blog/best-mini-tripod-for-desk-video-calls/) de hoogte van de webcam.
 
 ## Tafelstatieven voor camera's vergeleken
 

@@ -1,9 +1,11 @@
 {
   "slug": "best-tripod-for-iphone-travel",
   "pass": true,
-  "checkedAt": "2026-11-11T11:41:28.897Z",
+  "checkedAt": "2026-11-13T19:31:05.650Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: only 19 first-person words; owner rule wants at least 20 (about 1 per 100 words: I, my, me, we, our, us)",
+    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Ulanzi MT-44 Extendable Vlog Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Mobile Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",

@@ -437,7 +437,7 @@ sources:
   url: https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/
 - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
   url: https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: Wat is het beste statief voor een Sony a6400?
@@ -468,7 +468,7 @@ heroAlt: Beste statief voor Sony a6400 – 6 modellen, van kitlens tot 70-350 mm
   Tripod koopgids
 ---
 
-Het beste statief voor Sony a6400 bezitters is voor de meesten de [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), en de Sirui T-025SK van 31 cm (12.2 in) ingeklapt als alleen handbagage meegaat. De a6400, een APS-C-systeemcamera, weegt [ongeveer 403 g met accu en kaart](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), dus elk statief hier houdt hem; ik koos op ingeklapte lengte, hoogte en hoe je fotografeert. Om te vloggen met het klapscherm zou ik er een ministatief bij nemen. Ik heb specificaties van de makers en berichten van bezitters op Sony-fora vergeleken; ik heb deze statieven niet zelf gebruikt.
+Het beste statief voor Sony a6400 bezitters is voor de meesten de [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), en de Sirui T-025SK van 31 cm (12.2 in) ingeklapt als alleen handbagage meegaat. De a6400, een APS-C-systeemcamera, weegt [ongeveer 403 g met accu en kaart](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), dus elk statief hier houdt hem; ik koos op ingeklapte lengte, hoogte en hoe je fotografeert. Om te vloggen met het klapscherm zou ik er een ministatief bij nemen. Ik heb specificaties van de makers en berichten van bezitters op Sony-fora vergeleken.
 
 ## Sony a6400 statieven vergeleken: ingeklapt, hoogte en draagvermogen
 

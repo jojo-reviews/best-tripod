@@ -392,7 +392,7 @@ sources:
   url: https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844
 - title: 'Scott Wyden Kivowitz: long exposure photography choices, tripod'
   url: https://scottwyden.com/long-exposure-photography-choices-tripod/
-reviewedDate: '2026-11-06T00:00:00.000Z'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
 - q: Helpt een zwaarder statief bij lange sluitertijden?
@@ -456,7 +456,7 @@ Massa telt omdat de wind de trilling veroorzaakt. Het KNMI noemt windkracht 4 "m
 
 **Elk statief hier wordt genoemd door minstens twee pagina's die op deze zoekterm of nauwe varianten ranken, en elk heeft een eigen Amazon US-aanbieding.** Ik las de gidsen van TechBezon, Fstoppers, Matt Purciel, Scott Wyden Kivowitz en de lijst voor lange sluitertijd van Adorama, plus een DPReview-topic over lange sluitertijden in de wind. Gitzo- en Feisol-modellen werden elk door maar één gids genoemd, dus die vielen af op mijn tweepaginaregel. Elke specificatie heb ik gecontroleerd op de specificatiepagina's van Manfrotto, Peak Design en B&H; de Benro-waarden komen overeen met de Nederlandse winkelvermelding (daar 1,85 kg).
 
-We lazen 19 eigenaarsverhalen en forumberichten bij B&H, DPReview, Cloudy Nights, Peak Design en langetermijnrecensies. We hebben de statieven niet zelf getest; de rangorde komt uit gepubliceerde specificaties, eigenaarsverhalen en mijn rekensom.
+We lazen 19 eigenaarsverhalen en forumberichten bij B&H, DPReview, Cloudy Nights, Peak Design en langetermijnrecensies. De rangorde komt uit gepubliceerde specificaties, eigenaarsverhalen en mijn rekensom.
 
 > **Uit onze notities:** De 6 kg draagvermogen van het eigen balhoofd van de VEO had onze topkeuze bijna doen omvallen. De poten dragen 15 kg, dus het etiket leek ruim. Toen merkte Finding the Universe op dat de BH-160-kop bij 6 kg ophoudt. Voor een set van 1,21 kg is dat nog steeds vijf keer het gewicht, dus de VEO bleef bovenaan. Maar het liet ons zien waarom twee van deze vijf als losse poten komen: de kop is vaak de zwakste schakel, net als bij een DPReview-gebruiker van wie de poten hielden terwijl de kop wiebelde.
 

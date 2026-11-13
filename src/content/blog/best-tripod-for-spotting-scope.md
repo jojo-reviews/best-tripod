@@ -269,7 +269,11 @@ heroAlt: >-
   Tripod guide
 ---
 
-I have been shooting since 2017, mostly travel, landscape, video and wildlife, and for wildlife I put a 200-600mm lens on carbon fiber tripods with ball heads and Arca-Swiss plates. A spotting scope asks the same thing of a tripod as that long lens: hold a lot of weight far out front and stay still at high magnification. Picture yourself on a glassing knob before first light, the scope at 40x, and the view shivering every time the wind touches the legs. The best tripod for a spotting scope is chosen from the scope's weight: weigh the scope, add the tripod head, and pick legs rated well above that total that reach your eye with the center column down. For a 56-65mm angled scope you carry far, my pick is the SLIK PRO CF-634 legs with a light pan head. For an 80-85mm scope at a hide, rifle range or shoreline, it is the Manfrotto MVH502AH fluid head on sturdy legs. Every figure comes from maker spec sheets, retailer listings, ranking reviews and owner reports, and I say which.
+The best tripod for spotting scope use is chosen from the scope's weight: weigh the scope, add the tripod head, and pick legs rated well above that total that reach your eye with the center column down.
+
+I have been shooting since 2017, mostly travel, landscape, video and wildlife, and for wildlife I put a 200-600mm lens on carbon fiber tripods with ball heads and Arca-Swiss plates. A spotting scope asks the same thing of a tripod as that long lens: hold a lot of weight far out front and stay still at high magnification. Picture yourself on a glassing knob before first light, the scope at 40x, and the view shivering every time the wind touches the legs.
+
+For a 56-65mm angled scope you carry far, my pick is the SLIK PRO CF-634 legs with a light pan head. For an 80-85mm scope at a hide, rifle range or shoreline, it is the Manfrotto MVH502AH fluid head on sturdy legs. Every figure comes from maker spec sheets, retailer listings, ranking reviews and owner reports, and I say which.
 
 ## The short answer: a tripod for spotting scope use is legs plus a head
 

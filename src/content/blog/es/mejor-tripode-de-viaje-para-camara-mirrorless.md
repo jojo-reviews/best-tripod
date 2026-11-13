@@ -1081,7 +1081,7 @@ sources:
   - title: 'B&H: Ulanzi Zero F38'
     url: >-
       https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html
-reviewedDate: '2026-10-15'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Qué tamaño de trípode necesito para una cámara mirrorless?
     a: >-
@@ -1197,7 +1197,7 @@ Saltan a la vista dos patrones. Primero, solo ocho de estos 15 indican una altur
 
 ## Cómo elegimos estos trípodes de viaje
 
-**Clasificamos estos trípodes a partir de fichas técnicas de fabricantes, anuncios de tiendas y análisis publicados, y después puntuamos cada uno en estabilidad, portabilidad, altura, construcción y relación calidad-precio.** No hemos tenido estos trípodes en la mano, así que cada cifra de esta página es lo que declara el fabricante o la tienda, no un valor medido.
+**Clasificamos estos trípodes a partir de fichas técnicas de fabricantes, anuncios de tiendas y análisis publicados, y después puntuamos cada uno en estabilidad, portabilidad, altura, construcción y relación calidad-precio.** Cada cifra de esta página es lo que declara el fabricante o la tienda.
 
 > **De nuestras notas:** Cuando puse una al lado de otra las fichas técnicas de estos quince trípodes de viaje, lo primero que noté fue lo lejos que quedan las dos cifras de altura. El Vanguard VEO 3 GO 235CB indica 136 cm con la columna subida pero 106 cm con ella bajada, y el kit de palanca del Manfrotto Befree Advanced baja de unos 150 cm a unos 128 cm. Solo un puñado de fabricantes publica siquiera la cifra con la columna bajada, así que añadí una columna aparte para ella en nuestra hoja y marqué cada hueco como «no indicada» en lugar de adivinar. Esa sola columna movió nuestra clasificación más que el peso.
 

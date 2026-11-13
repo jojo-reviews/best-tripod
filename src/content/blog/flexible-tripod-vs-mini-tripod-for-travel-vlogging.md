@@ -259,7 +259,9 @@ related:
   - best-tripod-for-canon-powershot-v1
 ---
 
-A solo road trip across the United States is what got me into photography, and I've been shooting travel and video since 2017. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, which is more than a talking clip needs, so this is the question I ask about pocket supports. Picture the shot: the harbor at sunset, the camera needs to be about a meter away so you're in frame, and there's nothing to put it on but a metal railing. That moment decides the flexible tripod vs mini tripod for travel vlogging question better than any spec sheet. **Pack a flexible tripod if you film where there are railings, posts and branches but no flat surface; pack a rigid mini tripod if you mostly set the camera on tables, walls and ledges.** I compared both tripod types using maker specs, retailer data and owner threads.
+The flexible tripod vs mini tripod for travel vlogging question comes down to where you film. **Pack a flexible tripod if you film where there are railings, posts and branches but no flat surface; pack a rigid mini tripod if you mostly set the camera on tables, walls and ledges.**
+
+A solo road trip across the United States is what got me into photography, and I've been shooting travel and video since 2017. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, which is more than a talking clip needs, so this is the question I ask about pocket supports. Picture the shot: the harbor at sunset, the camera needs to be about a meter away so you're in frame, and there's nothing to put it on but a metal railing. That moment decides the question better than any spec sheet. I compared both tripod types using maker specs, retailer data and owner threads.
 
 ## Flexible Tripod vs Mini Tripod: Choose by Where You Film
 

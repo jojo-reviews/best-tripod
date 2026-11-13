@@ -446,7 +446,7 @@ sources:
   url: https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/
 - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
   url: https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: ¿Cuál es el mejor trípode para una Sony a6400?
@@ -478,7 +478,7 @@ heroAlt: Mejor trípode para Sony a6400 – 6 modelos, del objetivo kit al 70-35
   – guía de compra de Best Tripod
 ---
 
-El mejor trípode para Sony a6400 es, para la mayoría, el [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), y el Sirui T-025SK de 31 cm (12.2 in) plegado si solo llevas equipaje de mano. La a6400, una cámara sin espejo APS-C, pesa [unos 403 g con batería y tarjeta](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), así que cualquier trípode de esta lista la sostiene; yo elegí por tamaño plegado, altura y forma de grabar. Para hacer vlog con la pantalla abatible, añadiría un minitrípode. Comparé especificaciones de los fabricantes y mensajes de usuarios de foros de Sony; no he usado estos trípodes personalmente.
+El mejor trípode para Sony a6400 es, para la mayoría, el [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), y el Sirui T-025SK de 31 cm (12.2 in) plegado si solo llevas equipaje de mano. La a6400, una cámara sin espejo APS-C, pesa [unos 403 g con batería y tarjeta](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), así que cualquier trípode de esta lista la sostiene; yo elegí por tamaño plegado, altura y forma de grabar. Para hacer vlog con la pantalla abatible, añadiría un minitrípode. Comparé especificaciones de los fabricantes y mensajes de usuarios de foros de Sony.
 
 ## Comparativa de trípodes para Sony a6400: plegado, altura y carga
 

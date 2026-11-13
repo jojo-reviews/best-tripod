@@ -426,7 +426,7 @@ sources:
   - title: 'Canon Rumors forum: What is the best travel tripod for Canon RF systems?'
     url: >-
       https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para una Canon R5?
@@ -497,7 +497,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-El mejor trípode para Canon R5 es un trípode de cámara rígido, porque el sensor de 45 MP de la Canon EOS R5 delata cualquier temblor: para la mayoría de fotos y trabajo híbrido yo elegiría el [kit Benro Tortoise 35C](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) sin columna, y para paneos en 8K el [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). He emparejado cinco trípodes con equipos reales de R5 y objetivos RF L pesados, a partir de los pesos de Canon, las especificaciones de cada fabricante e hilos de propietarios de la R5; no hemos usado estos trípodes nosotros mismos. ¿Cuerpo más ligero? Nuestras [opciones de trípode para la Canon R6 Mark II](/es/blog/mejor-tripode-para-canon-r6-mark-ii/) están ordenadas por objetivo.
+El mejor trípode para Canon R5 es un trípode de cámara rígido, porque el sensor de 45 MP de la Canon EOS R5 delata cualquier temblor: para la mayoría de fotos y trabajo híbrido yo elegiría el [kit Benro Tortoise 35C](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) sin columna, y para paneos en 8K el [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). He emparejado cinco trípodes con equipos reales de R5 y objetivos RF L pesados, a partir de los pesos de Canon, las especificaciones de cada fabricante e hilos de propietarios de la R5. ¿Cuerpo más ligero? Nuestras [opciones de trípode para la Canon R6 Mark II](/es/blog/mejor-tripode-para-canon-r6-mark-ii/) están ordenadas por objetivo.
 
 ## Comparativa de trípodes para la Canon R5 por altura, patas y rótula
 

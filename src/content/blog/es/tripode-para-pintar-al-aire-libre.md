@@ -446,7 +446,7 @@ sources:
     url: 'https://marcdalessio.com/carbon-fiber-painting-gear/'
   - title: 'OutdoorPainter: The best plein air easels for artists'
     url: 'https://www.outdoorpainter.com/best-plein-air-easels-for-artists/'
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Cuál es el mejor trípode para pintar al aire libre?
     a: >-
@@ -530,7 +530,7 @@ El mejor trípode para pintar al aire libre es un trípode fotográfico ligero q
 
 ## Cómo elegí los trípodes para pintar al aire libre
 
-**Solo me quedé con trípodes que recomiendan al menos dos páginas de pintura plein air, y después comparé cada uno con los datos del fabricante y con opiniones de usuarios.** Esas páginas fueron blogs de artistas (Lori McNee, Marc Dalessio, Dianna Anderson), la guía de trípodes de un fabricante de cajas pochade, montajes de lectores de OutdoorPainter e hilos de r/pleinair. No he probado estos trípodes en persona.
+**Solo me quedé con trípodes que recomiendan al menos dos páginas de pintura plein air, y después comparé cada uno con los datos del fabricante y con opiniones de usuarios.** Esas páginas fueron blogs de artistas (Lori McNee, Marc Dalessio, Dianna Anderson), la guía de trípodes de un fabricante de cajas pochade, montajes de lectores de OutdoorPainter e hilos de r/pleinair.
 
 > **De nuestras notas:** El ZOMEI Q666 apareció en la guía de trípodes de un fabricante de cajas pochade que dice usarlo todo el tiempo, pero sus anuncios no coinciden: 10 kg (22 lb) en uno, 12 kg (26.5 lb) en las viñetas, 8 kg (17.6 lb) en otro. Sirui hace lo contrario con el 5CX y avisa por su cuenta de que solo se cargue la mitad de sus 6 kg a altura máxima en exteriores. Mi regla con los dos: cuento con la cifra publicada más baja.
 

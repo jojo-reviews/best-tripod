@@ -1,0 +1,49 @@
+{
+  "note": "Audit fix 2026-11-13: live roundups with fewer than 5 products; top up 2 per day (product-agent rule: 2+ independent pages per exact model, never pad). status: pending | done | no-products",
+  "posts": {
+    "best-tripod-for-iphone-night-mode-photos": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-tripod-for-telescope": {
+      "products": 4,
+      "status": "pending"
+    },
+    "best-mini-tripod-for-desk-video-calls": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-phone-tripod-for-vlogging-with-remote": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-tripod-for-youtube-videos": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-gimbal-head-for-150-600mm-lens": {
+      "products": 4,
+      "status": "pending"
+    },
+    "best-tripod-for-tall-photographers-over-6-feet": {
+      "products": 4,
+      "status": "pending"
+    },
+    "best-tripod-for-content-creators": {
+      "products": 4,
+      "status": "pending"
+    },
+    "best-monopod-with-feet-for-wildlife-photography": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-tripod-that-fits-in-carry-on-luggage": {
+      "products": 3,
+      "status": "pending"
+    },
+    "best-video-tripod-with-fluid-head-for-beginners": {
+      "products": 3,
+      "status": "pending"
+    }
+  }
+}

@@ -234,9 +234,9 @@ heroAlt: >-
   guide
 ---
 
-For wildlife I use a 200-600mm lens, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates.
+How to choose a tripod for a heavy telephoto lens comes down to the rig's weight and the legs' tube diameter, not the load rating alone.
 
-**How to choose a tripod for a heavy telephoto lens comes down to the rig's weight and the legs' tube diameter, not the load rating alone.** I work through five checks, in this order:
+For wildlife I use a 200-600mm lens, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. I work through five checks, in this order:
 
 1. Weigh body, lens and head, and treat the load capacity as a floor.
 2. Pick legs by top tube diameter (a 3-series is about 33-36 mm).

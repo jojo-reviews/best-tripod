@@ -449,7 +449,7 @@ sources:
   - title: 'r/AskPhotography: Tips for family photos on tripod?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für Familienfotos?
@@ -525,7 +525,7 @@ related:
 heroImage: /images/featured/best-tripod-for-family-photos.png
 ---
 
-Das Weihnachtsfoto ist aufgebaut, alle sind schick angezogen, und wieder fehlt die Person, die die Kamera hält. Das beste Stativ für Familienfotos ist für die meisten das [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), weil es das Objektiv mit eingefahrener Mittelsäule nah an die Augenhöhe Erwachsener bringt. Wenn das Stativ mitreisen muss, würde ich stattdessen das [Manfrotto Befree Advanced](amzn:B0772WLSHZ) nehmen. Ich habe fünf Stative den Orten zugeordnet, an denen Familien ihre Bilder machen, anhand von Herstellerangaben und Berichten von Besitzern. Wir haben diese Stative nicht selbst benutzt.
+Das Weihnachtsfoto ist aufgebaut, alle sind schick angezogen, und wieder fehlt die Person, die die Kamera hält. Das beste Stativ für Familienfotos ist für die meisten das [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), weil es das Objektiv mit eingefahrener Mittelsäule nah an die Augenhöhe Erwachsener bringt. Wenn das Stativ mitreisen muss, würde ich stattdessen das [Manfrotto Befree Advanced](amzn:B0772WLSHZ) nehmen. Ich habe fünf Stative den Orten zugeordnet, an denen Familien ihre Bilder machen, anhand von Herstellerangaben und Berichten von Besitzern.
 
 ## Stative für Familienfotos im Vergleich: Höhe ohne Mittelsäule
 

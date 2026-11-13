@@ -1,11 +1,10 @@
 {
   "slug": "best-tripod-for-tall-photographers-over-6-feet",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:39.114Z",
+  "checkedAt": "2026-11-13T19:29:46.850Z",
   "errors": [],
   "warnings": [
-    "body has 2215 words, over the 2070 limit (top results average 1800): cut repetition and filler",
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
+    "body has 2209 words, over the 2070 limit (top results average 1800): cut repetition and filler",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept 90 inch Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:09.076Z",
-    "hash": "648be92f94c7eb20"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:29:46.240Z",
+    "hash": "ab0477ba41ebb856"
   }
 }

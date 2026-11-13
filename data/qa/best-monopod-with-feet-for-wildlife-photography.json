@@ -1,11 +1,10 @@
 {
   "slug": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:30.839Z",
+  "checkedAt": "2026-11-13T19:30:07.289Z",
   "errors": [],
   "warnings": [
-    "body has 1869 words, over the 1725 limit (top results average 1500): cut repetition and filler",
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
+    "body has 1879 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S AM-264TR Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:28.825Z",
-    "hash": "1156ee16c3e03a6d"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:30:06.656Z",
+    "hash": "907b4ec04d32c67f"
   }
 }

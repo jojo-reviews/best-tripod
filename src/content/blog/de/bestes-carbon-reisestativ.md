@@ -552,7 +552,7 @@ sources:
   - title: 'DPReview forums: Lightest tripod for hiking?'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Carbon Reisestativ?
@@ -621,7 +621,7 @@ related:
 
 Das beste Carbon Reisestativ für die meisten Kits ist das [Peak Design Travel Tripod (Carbon Fiber)](amzn:B085BQTQMN): 1,3 kg (2.8 lb), 39,4 cm (15.5 in) Packmaß, 9,1 kg (20 lb) Tragkraft und 130,2 cm (51.25 in) Höhe, bevor die Mittelsäule hochgeht. Wenn du eine DSLR oder eine Vollformatkamera mit 70-200 mm trägst, würde ich zum [Gitzo Traveler Series 1 Kit](amzn:B071F31XLR) greifen, das ohne Mittelsäule 140,5 cm (55.3 in) erreicht.
 
-Zur Fotografie kam ich über einen Solo-Roadtrip quer durch die USA, und seit 2017 fotografiere ich Reise- und Landschaftsmotive. Meine eigene Stativausrüstung besteht aus Carbonstativen, Kugelköpfen und Arca-Swiss-Platten, dazu eine Sony A7 IV oder eine Canon EOS R6 Mark II mit einem 16-35-mm- oder 24-70-mm-Zoom. Diese sechs Modelle stammen aus Herstellerdatenblättern, Händlerangaben und Berichten von Besitzern; ich habe diese sechs Stative nicht selbst benutzt, deshalb sage ich bei jeder Zahl, woher sie kommt. Du fotografierst nur spiegellos? Unser Ratgeber zum [besten Reisestativ für spiegellose Kamera](/de/blog/bestes-reisestativ-fuer-spiegellose-kamera/) zeigt auch Modelle aus Aluminium.
+Zur Fotografie kam ich über einen Solo-Roadtrip quer durch die USA, und seit 2017 fotografiere ich Reise- und Landschaftsmotive. Meine eigene Stativausrüstung besteht aus Carbonstativen, Kugelköpfen und Arca-Swiss-Platten, dazu eine Sony A7 IV oder eine Canon EOS R6 Mark II mit einem 16-35-mm- oder 24-70-mm-Zoom. Diese sechs Modelle stammen aus Herstellerdatenblättern, Händlerangaben und Berichten von Besitzern, und ich sage bei jeder Zahl, woher sie kommt. Du fotografierst nur spiegellos? Unser Ratgeber zum [besten Reisestativ für spiegellose Kamera](/de/blog/bestes-reisestativ-fuer-spiegellose-kamera/) zeigt auch Modelle aus Aluminium.
 
 ## Carbon Reisestative im Vergleich nach Gewicht, Packmaß, Höhe und Last
 

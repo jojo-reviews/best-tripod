@@ -13,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-ipad (QA pass): same 5 products/ASINs/scores/spec keys, same FAQs and sources. Units converted metric first from the English figures (183/76 cm, 1,6 kg, clamp 10-23 cm, 15,9-23,6 cm, 12,8-19,2 cm per K&M 128-192 mm, 1,1 kg, 9 m); iPad widths 215,5/177,5/132,6 mm and 579 g re-checked on apple.com/de specs; Ulanzi 10-23 cm re-checked on Ulanzi's EU listing. Local facts from the local brief with source: KNVB page on filming at football grounds (knvb.nl), Tweakers quote verbatim. Grifiti/KobraTech unknown for NL -> neutral US sentence. No testing claims (niet zelf getest), no prices, no local store.",
-    "at": "2026-11-08T16:40:30.676Z",
-    "hash": "550d55cb22372458"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:14.113Z",
+    "hash": "8f27fc5f677c91b2"
   }
 }

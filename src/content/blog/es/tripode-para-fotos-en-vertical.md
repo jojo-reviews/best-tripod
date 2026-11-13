@@ -330,7 +330,7 @@ sources:
     url: https://www.packhacker.com/blog/general/best-travel-tripod/
   - title: 'Digital Camera World: The best tripod for photography'
     url: https://www.digitalcameraworld.com/buying-guides/best-tripod
-reviewedDate: '2026-11-09T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Cualquier trípode sirve para fotos en vertical?
     a: 'Sí, casi todos los trípodes sirven para fotos en vertical si la rótula se inclina 90 grados: una rótula de bola cae en su muesca y una rótula de 3 ejes tiene un eje para el formato vertical. El problema es el equilibrio, porque la cámara queda al lado de la columna, y un trípode ligero con una cámara pesada puede ceder o volcar.'
@@ -366,7 +366,7 @@ heroImage: /images/featured/best-tripod-for-vertical-shooting.png
 heroAlt: Trípode para fotos en vertical – 5 modelos que giran la cámara – guía de Best Tripod
 ---
 
-Un buen trípode para fotos en vertical es aquel cuya rótula gira la cámara a vertical sin tener que desmontarla ni dejar que se caiga. Para vídeo vertical elijo el [Manfrotto ONE Hybrid con rótula 500X](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), cuya placa abatible pasa a 9:16 en segundos. Para fotos en vertical en movimiento, el [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) cae en una muesca de 90 grados, y tres modelos más ligeros admiten una [placa en L para encuadres verticales](/blog/l-bracket-for-landscape-photography/). He montado esta lista a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios; no he usado estos trípodes yo mismo.
+Un buen trípode para fotos en vertical es aquel cuya rótula gira la cámara a vertical sin tener que desmontarla ni dejar que se caiga. Para vídeo vertical elijo el [Manfrotto ONE Hybrid con rótula 500X](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), cuya placa abatible pasa a 9:16 en segundos. Para fotos en vertical en movimiento, el [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) cae en una muesca de 90 grados, y tres modelos más ligeros admiten una [placa en L para encuadres verticales](/blog/l-bracket-for-landscape-photography/). He montado esta lista a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios.
 
 ## Trípode para fotos en vertical: cómo gira la cámara cada modelo
 

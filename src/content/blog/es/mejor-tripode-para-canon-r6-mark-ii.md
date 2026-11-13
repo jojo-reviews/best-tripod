@@ -436,7 +436,7 @@ sources:
   - title: 'DPReview forum: Recommend tripod for Astro & Landscape for R6'
     url: >-
       https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para una Canon R6 Mark II?
@@ -493,7 +493,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-Una R6 Mark II con un 24-105 en una costa con viento, una exposición de 30 segundos y una foto blanda porque las patas finas vibraron. El mejor trípode para Canon R6 Mark II depende del objetivo RF que montes: para viajar con un 24-105 es el [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), y para el viento es el [kit Leofoto LS-284CX](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) sin columna. He emparejado cinco trípodes con equipos Canon reales a partir de las especificaciones de los fabricantes, los pesos de los objetivos de Canon y los hilos de usuarios de la R6. No hemos usado estos trípodes nosotros mismos.
+Una R6 Mark II con un 24-105 en una costa con viento, una exposición de 30 segundos y una foto blanda porque las patas finas vibraron. El mejor trípode para Canon R6 Mark II depende del objetivo RF que montes: para viajar con un 24-105 es el [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), y para el viento es el [kit Leofoto LS-284CX](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) sin columna. He emparejado cinco trípodes con equipos Canon reales a partir de las especificaciones de los fabricantes, los pesos de los objetivos de Canon y los hilos de usuarios de la R6.
 
 ## Comparativa de trípodes para Canon R6 Mark II según el peso del objetivo
 

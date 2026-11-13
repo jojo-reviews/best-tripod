@@ -236,9 +236,11 @@ related:
   - best-gimbal-head-for-150-600mm-lens
 ---
 
+Are cheap gimbal heads any good? Yes: a cheap gimbal head holds a 150-600mm or 200-500mm zoom well for occasional use, as long as you accept stiffer, less refined motion.
+
 I have been shooting since 2017, and wildlife is one of the genres I keep coming back to. For wildlife I use a 200-600mm lens, and on a long sit that lens is exactly the kind of weight a gimbal head is built for. So when asked whether a cheap one is worth it, I start from that zoom, the same one my [gimbal head for a 150-600mm lens](/blog/best-gimbal-head-for-150-600mm-lens/) guide is built around.
 
-Are cheap gimbal heads any good? Yes: a cheap gimbal head holds a 150-600mm or 200-500mm zoom well for occasional use, as long as you accept stiffer, less refined motion. It is also the lowest-risk way to learn whether you will use a gimbal at all; the two budget heads worth a look are the aluminum Oben GH-30 and the carbon Sirui PH-20. I would step up to a premium tripod head only for a 500mm or 600mm f/4 prime used for long sessions, or for daily tracking of birds in flight.
+A cheap gimbal head is also the lowest-risk way to learn whether you will use a gimbal at all; the two budget heads worth a look are the aluminum Oben GH-30 and the carbon Sirui PH-20. I would step up to a premium tripod head only for a 500mm or 600mm f/4 prime used for long sessions, or for daily tracking of birds in flight.
 
 ## What a Cheap Gimbal Head Does Well
 

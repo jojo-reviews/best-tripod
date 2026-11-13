@@ -437,7 +437,7 @@ sources:
   - title: 'r/photography: Looking to get more photos of myself'
     url: >-
       https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode de viaje para iPhone?
@@ -514,7 +514,7 @@ illustrations:
 heroImage: /images/featured/best-tripod-for-iphone-travel.png
 ---
 
-El mejor trípode de viaje para iPhone se pliega lo bastante como para llevarlo cada día, sujeta tu iPhone con su funda y lo sube a la altura que necesita la foto. Para la mayoría de los viajeros yo elegiría el [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip). Pesa 422 g, se pliega a unos 32,5 cm (12.7 in) y mide 146,5 cm (57.6 in) de alto, así que una foto en pareja a la altura del pecho o de los ojos cabe en una mochila de día ligera. Un Pro Max con funda gruesa, un equipo solo de bolsillo o un viaje con cámara mirrorless llevan cada uno a otra opción más abajo. No he usado estos trípodes yo mismo; cada cifra sale de la página de un fabricante o de una tienda, o del relato de un dueño. Los consejos de mi [guía de trípodes para el modo Noche del iPhone](/blog/best-tripod-for-iphone-night-mode-photos/) sirven también para la poca luz de los viajes.
+El mejor trípode de viaje para iPhone se pliega lo bastante como para llevarlo cada día, sujeta tu iPhone con su funda y lo sube a la altura que necesita la foto. Para la mayoría de los viajeros yo elegiría el [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip). Pesa 422 g, se pliega a unos 32,5 cm (12.7 in) y mide 146,5 cm (57.6 in) de alto, así que una foto en pareja a la altura del pecho o de los ojos cabe en una mochila de día ligera. Un Pro Max con funda gruesa, un equipo solo de bolsillo o un viaje con cámara mirrorless llevan cada uno a otra opción más abajo. Cada cifra sale de la página de un fabricante o de una tienda, o del relato de un dueño. Los consejos de mi [guía de trípodes para el modo Noche del iPhone](/blog/best-tripod-for-iphone-night-mode-photos/) sirven también para la poca luz de los viajes.
 
 ## Comparativa de trípodes de viaje para iPhone: plegado, peso y altura
 

@@ -459,7 +459,7 @@ sources:
       tripod?)
     url: >-
       https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Welches ist das beste Tischstativ für eine Kamera?
     a: >-
@@ -522,7 +522,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-Das beste Tischstativ für Kamera und Objektiv ist das, dessen Kopf deutlich mehr trägt als deine Ausrüstung wiegt und dessen Beine zur Fläche passen, auf der du fotografierst. Für die meisten spiegellosen Kameras und Kompaktkameras empfehle ich das [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto gibt dafür [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb) an, und die Beine lassen sich von 10,5 bis 20 cm (4.1 bis 7.9 in) verstellen. Ich habe fünf Tischstative anhand von Herstellerangaben und Besitzerberichten verglichen; ich habe sie nicht selbst getestet. Wenn du vor allem am Schreibtisch filmst, behandelt mein Ratgeber zum [Ministativ für Videocalls am Schreibtisch](/blog/best-mini-tripod-for-desk-video-calls/) die Webcam-Höhe.
+Das beste Tischstativ für Kamera und Objektiv ist das, dessen Kopf deutlich mehr trägt als deine Ausrüstung wiegt und dessen Beine zur Fläche passen, auf der du fotografierst. Für die meisten spiegellosen Kameras und Kompaktkameras empfehle ich das [Manfrotto PIXI EVO](amzn:B0149KBPB4). Manfrotto gibt dafür [2,5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/) (5.5 lb) an, und die Beine lassen sich von 10,5 bis 20 cm (4.1 bis 7.9 in) verstellen. Ich habe fünf Tischstative anhand von Herstellerangaben und Besitzerberichten verglichen. Wenn du vor allem am Schreibtisch filmst, behandelt mein Ratgeber zum [Ministativ für Videocalls am Schreibtisch](/blog/best-mini-tripod-for-desk-video-calls/) die Webcam-Höhe.
 
 ## Tischstative für Kameras im Vergleich
 

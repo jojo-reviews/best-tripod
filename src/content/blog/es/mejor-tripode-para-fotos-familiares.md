@@ -450,7 +450,7 @@ sources:
   - title: 'r/AskPhotography: Tips for family photos on tripod?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para fotos familiares?
@@ -525,7 +525,7 @@ related:
 heroImage: /images/featured/best-tripod-for-family-photos.png
 ---
 
-La foto para la felicitación de Navidad está lista, todos van arreglados y, otra vez, falta quien sujeta la cámara. El mejor trípode para fotos familiares, para la mayoría, es el [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), porque pone el objetivo cerca de los ojos de un adulto con la columna central bajada. Si el trípode tiene que viajar, yo me llevaría el [Manfrotto Befree Advanced](amzn:B0772WLSHZ). He emparejado cinco trípodes con los sitios donde las familias se hacen las fotos, a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios. No hemos usado estos trípodes nosotros mismos.
+La foto para la felicitación de Navidad está lista, todos van arreglados y, otra vez, falta quien sujeta la cámara. El mejor trípode para fotos familiares, para la mayoría, es el [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), porque pone el objetivo cerca de los ojos de un adulto con la columna central bajada. Si el trípode tiene que viajar, yo me llevaría el [Manfrotto Befree Advanced](amzn:B0772WLSHZ). He emparejado cinco trípodes con los sitios donde las familias se hacen las fotos, a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios.
 
 ## Alturas de los trípodes para fotos familiares con la columna bajada
 

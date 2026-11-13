@@ -408,7 +408,7 @@ sources:
   - title: 'Reddit r/Hunting: Furthest distance for a tripod shot'
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
-reviewedDate: '2026-11-08T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welcher Zielstock ist der beste für die Nachtjagd mit Wärmebild?
@@ -474,7 +474,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-**Ein guter Zielstock für die Nachtjagd hält die Büchse freihändig in der Höhe, aus der du schießt, und beim Ansitz auf Fuchs oder Sau ist das oft im Stehen.** Meine Empfehlung ist der [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42,5-mm-Carbonbeine, 68 kg (150 lb) Belastbarkeit und 182 cm (71.5 in) nur auf den Beinen. Wer mit Wärmebildtechnik jagt und invertierte Beine will, sollte sich den Warrior Commander ansehen, und das SLIK Pro 700 DX ist die günstige Basis. Ich habe diese fünf anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus amerikanischen Raubwild-Foren verglichen, wo sie vor allem für die Kojotenjagd genutzt werden; ich habe sie nicht selbst benutzt. Fatboy und Warrior werden vor allem in den USA verkauft, Vortex und BOG gibt es bei europäischen Händlern. Für den Ansitz auf Rehwild siehe unsere [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
+**Ein guter Zielstock für die Nachtjagd hält die Büchse freihändig in der Höhe, aus der du schießt, und beim Ansitz auf Fuchs oder Sau ist das oft im Stehen.** Meine Empfehlung ist der [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42,5-mm-Carbonbeine, 68 kg (150 lb) Belastbarkeit und 182 cm (71.5 in) nur auf den Beinen. Wer mit Wärmebildtechnik jagt und invertierte Beine will, sollte sich den Warrior Commander ansehen, und das SLIK Pro 700 DX ist die günstige Basis. Ich habe diese fünf anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus amerikanischen Raubwild-Foren verglichen, wo sie vor allem für die Kojotenjagd genutzt werden. Fatboy und Warrior werden vor allem in den USA verkauft, Vortex und BOG gibt es bei europäischen Händlern. Für den Ansitz auf Rehwild siehe unsere [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
 
 ## Zielstöcke für die Nachtjagd im Vergleich nach Stehhöhe, Beinen und Gewicht
 

@@ -333,7 +333,7 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
   // Patent rule 2026-11-13 (US8145617B1, owner approved "masle thek karo sab"): the first plain paragraph answers the
   // query: it carries the keyword's words and does not open with the author's bio (the story goes in paragraph 2).
   {
-    const firstPara = body.split(/\n\s*\n/).map((x) => x.trim()).find((x) => x && !/^(#|>|\||!|-|\*|<|\d+\.|import )/.test(x)) ?? '';
+    const firstPara = body.split(/\n\s*\n/).map((x) => x.trim()).find((x) => x && !/^(#|>|\||!|-|\*(?!\*)|<|\d+\.|import )/.test(x)) ?? '';
     const kwWords = String(d.keyword ?? '').toLowerCase().split(/[^a-z0-9]+/).filter((w) => w.length > 2 && !['the', 'for', 'and', 'with', 'best', 'how', 'what'].includes(w));
     const fp = firstPara.toLowerCase();
     const missing = kwWords.filter((w) => !fp.includes(w.replace(/s$/, '')));

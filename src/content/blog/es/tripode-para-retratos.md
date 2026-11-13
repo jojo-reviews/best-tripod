@@ -368,7 +368,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/
 - title: 'r/AskPhotography: Tripod with center column and 3-way geared head'
   url: https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: ¿Cuál es el mejor trípode para retratos?
@@ -430,7 +430,7 @@ related:
 heroImage: /images/featured/best-tripod-for-headshots.png
 ---
 
-En el retrato corporativo y la foto de perfil profesional, un trípode tiene un solo trabajo: mantener el objetivo a la altura de los ojos de la persona durante toda la sesión. El mejor trípode para retratos, para la mayoría de estudios, es el [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) con la columna opcional de Feisol. Si tus clientes son altos, yo me quedaría con el [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG), el único modelo que llega a la altura de los ojos de un hombre español medio solo con las patas. Nuestra guía sobre [qué altura debe tener un trípode según tu estatura](/es/blog/que-altura-debe-tener-un-tripode/) explica el cálculo de la altura de los ojos. He comparado cinco trípodes con las especificaciones de los fabricantes y las opiniones de sus propietarios; no los hemos usado nosotros.
+En el retrato corporativo y la foto de perfil profesional, un trípode tiene un solo trabajo: mantener el objetivo a la altura de los ojos de la persona durante toda la sesión. El mejor trípode para retratos, para la mayoría de estudios, es el [Feisol CT-3442 Tournament Rapid](amzn:B00573NBP6) con la columna opcional de Feisol. Si tus clientes son altos, yo me quedaría con el [Vanguard VEO 3+ 263AB](amzn:B096L7XFXG), el único modelo que llega a la altura de los ojos de un hombre español medio solo con las patas. Nuestra guía sobre [qué altura debe tener un trípode según tu estatura](/es/blog/que-altura-debe-tener-un-tripode/) explica el cálculo de la altura de los ojos. He comparado cinco trípodes con las especificaciones de los fabricantes y las opiniones de sus propietarios.
 
 ## Trípodes para retratos comparados: altura solo con las patas y con la columna subida
 

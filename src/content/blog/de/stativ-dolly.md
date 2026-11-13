@@ -425,7 +425,7 @@ sources:
     url: 'https://wiki.ezvid.com/best-tripod-dollies'
   - title: 'Alternative.me: The Best Tripod Dollies'
     url: 'https://alternative.me/tripod-dollies'
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welcher Stativ Dolly ist der beste?
@@ -485,7 +485,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-Der beste Stativ Dolly ist der, der zuerst zu den Füßen deines Stativs passt und dann zum Gewicht deines Rigs. Für runde oder gummierte Füße wähle ich den [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), einen faltbaren Dolly mit 1,8 kg (3.97 lb), 8 cm (3 in) großen Rädern mit Bremse und 15 kg (33 lb) Tragkraft. Für Cine-Stative mit Doppelspikes ist der [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) der Boden-Dolly mit Aufnahmeschalen, den ich nehmen würde. Ich habe sechs Modelle anhand von Herstellerangaben und Besitzerbewertungen eingeordnet; wir haben sie nicht selbst getestet.
+Der beste Stativ Dolly ist der, der zuerst zu den Füßen deines Stativs passt und dann zum Gewicht deines Rigs. Für runde oder gummierte Füße wähle ich den [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), einen faltbaren Dolly mit 1,8 kg (3.97 lb), 8 cm (3 in) großen Rädern mit Bremse und 15 kg (33 lb) Tragkraft. Für Cine-Stative mit Doppelspikes ist der [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) der Boden-Dolly mit Aufnahmeschalen, den ich nehmen würde. Ich habe sechs Modelle anhand von Herstellerangaben und Besitzerbewertungen eingeordnet.
 
 ## Stativ Dolly Vergleich nach Tragkraft, Rädern und Fußtyp
 

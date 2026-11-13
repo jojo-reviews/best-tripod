@@ -531,7 +531,7 @@ sources:
       https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx
   - title: 'Aryeo: best tripods for real estate photography'
     url: 'https://blog.aryeo.com/best-tripods-for-real-estate-photography/'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿A qué altura debe estar el trípode para fotos inmobiliarias?
@@ -574,7 +574,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-El mejor trípode para fotografía inmobiliaria no es el más alto ni el más ligero, sino el que mantiene una cámara nivelada totalmente quieta durante cada horquillado HDR y te deja enderezar las verticales en segundos. Nos quedamos solo con los trípodes y rótulas que recomiendan al menos dos guías bien posicionadas y después comprobamos cada dato con las webs de los fabricantes y los comentarios de usuarios. Quedaron cinco trípodes y dos rótulas de cremallera, con el [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO) a la cabeza. No hemos usado estos productos nosotros mismos, así que cada cifra de abajo es un dato del fabricante o el informe de un analista, y decimos cuál.
+El mejor trípode para fotografía inmobiliaria no es el más alto ni el más ligero, sino el que mantiene una cámara nivelada totalmente quieta durante cada horquillado HDR y te deja enderezar las verticales en segundos. Nos quedamos solo con los trípodes y rótulas que recomiendan al menos dos guías bien posicionadas y después comprobamos cada dato con las webs de los fabricantes y los comentarios de usuarios. Quedaron cinco trípodes y dos rótulas de cremallera, con el [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO) a la cabeza. Cada cifra de abajo es un dato del fabricante o el informe de un analista, y decimos cuál.
 
 ## Trípode para fotografía inmobiliaria: selección rápida
 

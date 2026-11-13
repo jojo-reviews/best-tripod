@@ -342,9 +342,11 @@ related:
   - best-tripod-for-tall-photographers-over-6-feet
 ---
 
+The best mini tripod for desk video calls holds your webcam, smartphone or camera steady and aims it at your face, not up your nose.
+
 I have been shooting since 2017, and video is one of the genres I work in, so I care about where a camera sits even when the "shoot" is just a Zoom call. My cameras are a Sony A7 IV and a Canon EOS R6 Mark II, and my support kit runs on ball heads and Arca-Swiss plates, so when I look at a desk tripod I ask the same questions I ask of any support: will it hold the camera, and will it put the lens where it needs to be?
 
-Here is the short answer. The best mini tripod for desk video calls holds your webcam, smartphone or camera steady and aims it at your face, not up your nose. I compared three tabletop tripods that keep coming up in mini tripod roundups: the [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) for most desks, the [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) for a mirrorless camera used as a webcam, and the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) as the simplest desk stand. Everything below comes from maker and retailer specs, editorial reviews and the few owner reviews I found.
+I compared three tabletop tripods that keep coming up in mini tripod roundups: the [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) for most desks, the [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) for a mirrorless camera used as a webcam, and the [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) as the simplest desk stand. Everything below comes from maker and retailer specs, editorial reviews and the few owner reviews I found.
 
 ## Best Mini Tripods for Desk Video Calls: Quick Picks
 

@@ -372,9 +372,11 @@ related:
   - 4-section-vs-5-section-tripod
 ---
 
+The best tripod that fits in carry on luggage folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. Good tripod photography on the road starts with a tripod you actually pack.
+
 I've been shooting since 2017, and a solo road trip across the United States is what got me into photography, so travel is where most of my work starts. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. The first thing I ask of a travel tripod: is it a tripod that fits in carry-on luggage? If it's two inches longer than the roller bag, it stays home and you handhold the blue hour.
 
-The best tripod that fits in carry on luggage folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. Good tripod photography on the road starts with a tripod you actually pack. For most mirrorless travelers, my pick is the SIRUI Traveler 5C: 13 in folded and 1.87 lb with its ball head. I picked three, from that 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. I say where each number comes from.
+For most mirrorless travelers, my pick is the SIRUI Traveler 5C: 13 in folded and 1.87 lb with its ball head. I picked three, from that 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. I say where each number comes from.
 
 ## Quick answer: the best tripod that fits in carry-on luggage
 

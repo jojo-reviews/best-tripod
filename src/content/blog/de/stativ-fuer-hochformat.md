@@ -330,7 +330,7 @@ sources:
     url: https://www.packhacker.com/blog/general/best-travel-tripod/
   - title: 'Digital Camera World: The best tripod for photography'
     url: https://www.digitalcameraworld.com/buying-guides/best-tripod
-reviewedDate: '2026-11-09T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Kann jedes Stativ Hochformat?
     a: 'Ja, die meisten Stative schaffen Hochformat, wenn sich der Stativkopf um 90 Grad neigt: Ein Kugelkopf kippt in seine Kerbe, ein 3-Wege-Neiger hat eine eigene Hochformat-Achse. Der Haken ist die Balance, denn die Kamera sitzt dann neben der Mittelsäule, und ein leichtes Stativ mit schwerer Kamera kann absacken oder kippen.'
@@ -366,7 +366,7 @@ heroImage: /images/featured/best-tripod-for-vertical-shooting.png
 heroAlt: Stativ für Hochformat – 5 Modelle, die die Kamera sauber drehen – Best-Tripod-Ratgeber
 ---
 
-Ein gutes Stativ für Hochformat ist eines, dessen Kopf die Kamera ins Hochkant dreht, ohne dass du sie neu montieren musst oder sie absackt. Für Hochkant-Video nehme ich das [Manfrotto ONE Hybrid mit 500X-Kopf](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), dessen Klappplatte in Sekunden auf 9:16 umschwenkt. Für Hochformat-Fotos unterwegs kippt das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in eine 90-Grad-Kerbe, und drei leichtere Modelle nehmen einen [L-Winkel für Hochformat-Aufnahmen](/blog/l-bracket-for-landscape-photography/) auf. Ich habe die Liste aus Herstellerangaben und Besitzerberichten zusammengestellt; ich habe diese Stative nicht selbst benutzt.
+Ein gutes Stativ für Hochformat ist eines, dessen Kopf die Kamera ins Hochkant dreht, ohne dass du sie neu montieren musst oder sie absackt. Für Hochkant-Video nehme ich das [Manfrotto ONE Hybrid mit 500X-Kopf](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), dessen Klappplatte in Sekunden auf 9:16 umschwenkt. Für Hochformat-Fotos unterwegs kippt das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in eine 90-Grad-Kerbe, und drei leichtere Modelle nehmen einen [L-Winkel für Hochformat-Aufnahmen](/blog/l-bracket-for-landscape-photography/) auf. Ich habe die Liste aus Herstellerangaben und Besitzerberichten zusammengestellt.
 
 ## Stativ für Hochformat: wie jedes Modell die Kamera dreht
 

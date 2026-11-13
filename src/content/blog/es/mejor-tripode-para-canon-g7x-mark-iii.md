@@ -352,7 +352,7 @@ sources:
   url: https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/
 - title: 'r/photography: Quick-release tripod for a Canon G7X III'
   url: https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-07T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
 - q: ¿La Canon HG-100TBR sirve para la G7X Mark III?
   a: Sí. Canon incluye la PowerShot G7 X Mark III entre las cámaras compatibles con
@@ -406,7 +406,7 @@ heroAlt: Mejor trípode para Canon G7X Mark III – 5 opciones para vlog y viaje
   de compra de Best Tripod
 ---
 
-El mejor trípode para Canon G7X Mark III si haces vlogs es la [empuñadura Tripod Grip HG-100TBR](amzn:B07Z5LZ92N) de Canon, porque Canon incluye la cámara entre las compatibles y el mando encajado inicia la grabación mientras la pantalla abatida te mira. Para mesas me quedaría con el Manfrotto PIXI Mini, para barandillas con el Joby GorillaPod 1K, para clips verticales con el PIXI EVO y para tomas de pie con el Peak Design Travel Tripod (Aluminum). He emparejado los cinco con la cámara a partir de especificaciones del fabricante y opiniones de usuarios en B&H, r/canon y el foro de DPReview; no los hemos usado nosotros.
+El mejor trípode para Canon G7X Mark III si haces vlogs es la [empuñadura Tripod Grip HG-100TBR](amzn:B07Z5LZ92N) de Canon, porque Canon incluye la cámara entre las compatibles y el mando encajado inicia la grabación mientras la pantalla abatida te mira. Para mesas me quedaría con el Manfrotto PIXI Mini, para barandillas con el Joby GorillaPod 1K, para clips verticales con el PIXI EVO y para tomas de pie con el Peak Design Travel Tripod (Aluminum). He emparejado los cinco con la cámara a partir de especificaciones del fabricante y opiniones de usuarios en B&H, r/canon y el foro de DPReview.
 
 ## Trípodes para la G7X Mark III comparados con una cámara de 304 g
 

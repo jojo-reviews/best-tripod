@@ -436,7 +436,7 @@ sources:
   - title: 'DPReview forum: Recommend tripod for Astro & Landscape for R6'
     url: >-
       https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Canon R6 Mark II?
@@ -495,7 +495,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-Eine R6 Mark II mit 24-105 an einer windigen Küste, 30 Sekunden Belichtung, und das Bild ist weich, weil die dünnen Beine gesummt haben. Das beste Stativ für Canon R6 Mark II Besitzer hängt vom RF-Objektiv ab: Für Reisen mit dem 24-105 ist es das [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), für Wind das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben, Canons Objektivgewichten und Threads von R6-Besitzern echten Canon-Kombinationen zugeordnet. Wir haben diese Stative nicht selbst benutzt.
+Eine R6 Mark II mit 24-105 an einer windigen Küste, 30 Sekunden Belichtung, und das Bild ist weich, weil die dünnen Beine gesummt haben. Das beste Stativ für Canon R6 Mark II Besitzer hängt vom RF-Objektiv ab: Für Reisen mit dem 24-105 ist es das [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), für Wind das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben, Canons Objektivgewichten und Threads von R6-Besitzern echten Canon-Kombinationen zugeordnet.
 
 ## Canon R6 Mark II Stative im Vergleich nach Objektivgewicht
 

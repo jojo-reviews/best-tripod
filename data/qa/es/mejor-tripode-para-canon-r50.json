@@ -3,7 +3,7 @@
   "lang": "es",
   "translationOf": "best-tripod-for-canon-r50",
   "pass": true,
-  "checkedAt": "2026-11-06T16:00:38.447Z",
+  "checkedAt": "2026-11-13T19:30:30.281Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the es version once it exists",
@@ -12,19 +12,12 @@
     "illustration \"Atornillar una zapata de liberación rápi\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Colgar una bolsa del gancho del trípode \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/eos-r50",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf-s18-45mm-f4-5-6-3-is-stm",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1l0ja0l/canon_r50_powers_down_with_tripod_quick_release/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "K&F Concept 64 minimum height corrected to 52 cm (20.4 in) per Amazon listing B0B1HYVVTV",
-    "at": "2026-11-06T15:31:41.581Z",
-    "hash": "bb2224d8fd9fcccb"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:29.553Z",
+    "hash": "ee5e941a41888494"
   }
 }

@@ -382,7 +382,7 @@ sources:
   - title: 'RealHunters, BOG DeathGrip Carbon Fiber'
     url: >-
       https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/
-reviewedDate: '2026-11-05'
+reviewedDate: 2026-11-13
 faqs:
   - q: Kan ik een camerastatief gebruiken voor een kruisboog?
     a: >-
@@ -543,6 +543,6 @@ Mijn regel: meet zittend op je stoel van de tentvloer tot het midden van je schi
 
 ## Zo kozen we deze kruisboogstatieven
 
-**Elk kruisboogstatief hier wordt aanbevolen door twee of meer onafhankelijke, goed scorende pagina's.** De aluminium DeathGrip staat bij Crossbow Magazine, American Firearms en Top Firearm Reviews; de Primos Gen3 bij die drie en bij Field & Stream; de Vanguard Quest bij American Firearms, Top Firearm Reviews en Shooting Sports Retailer; de DeathGrip Carbon bij American Firearms, Top Firearm Reviews en RealHunters; de Axis bij Crossbow Magazine en op kruisboogforums. We controleerden hoogtes en gewichten op de sites van BOG, TenPoint, Primos en Vanguard en lazen 34 berichten en reacties van eigenaren. Over de regels: de EU-Habitatrichtlijn (92/43/EEG) noemt kruisbogen in bijlage VI bij de verboden middelen om dieren te vangen en te doden. We hebben deze statieven niet zelf gebruikt; elk getal komt van een fabrikantensite of een genoemde bron.
+**Elk kruisboogstatief hier wordt aanbevolen door twee of meer onafhankelijke, goed scorende pagina's.** De aluminium DeathGrip staat bij Crossbow Magazine, American Firearms en Top Firearm Reviews; de Primos Gen3 bij die drie en bij Field & Stream; de Vanguard Quest bij American Firearms, Top Firearm Reviews en Shooting Sports Retailer; de DeathGrip Carbon bij American Firearms, Top Firearm Reviews en RealHunters; de Axis bij Crossbow Magazine en op kruisboogforums. We controleerden hoogtes en gewichten op de sites van BOG, TenPoint, Primos en Vanguard en lazen 34 berichten en reacties van eigenaren. Over de regels: de EU-Habitatrichtlijn (92/43/EEG) noemt kruisbogen in bijlage VI bij de verboden middelen om dieren te vangen en te doden. Elk getal komt van een fabrikantensite of een genoemde bron.
 
 Kijk je vanaf dezelfde plek ook met een verrekijker? Onze [statieven voor verrekijkers](/blog/best-tripod-for-binoculars/) zijn de volgende leestip.

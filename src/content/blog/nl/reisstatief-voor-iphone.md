@@ -431,7 +431,7 @@ sources:
   - title: 'r/photography: Looking to get more photos of myself'
     url: >-
       https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: Wat is het beste reisstatief voor iPhone?
@@ -509,7 +509,7 @@ illustrations:
 heroImage: /images/featured/best-tripod-for-iphone-travel.png
 ---
 
-Het beste reisstatief voor iPhone klapt zo klein in dat het elke dag mee kan, houdt je iPhone in zijn hoesje vast en tilt hem op de hoogte die je foto nodig heeft. Voor de meeste reizigers zou ik het [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip) kiezen. Het weegt 422 g, klapt in tot ongeveer 32,5 cm (12.7 in) en staat 146,5 cm (57.6 in) hoog, dus een foto van jullie samen op borst- of ooghoogte past in een lichte dagrugzak. Een Pro Max in een dik hoesje, een set alleen voor de broekzak of een reis met een systeemcamera wijzen elk naar een ander statief verderop. Ik heb deze statieven zelf niet gebruikt; elk getal komt van een pagina van een fabrikant of winkel of uit het verslag van een eigenaar. De tips uit mijn [gids voor een statief voor de Nachtmodus van de iPhone](/blog/best-tripod-for-iphone-night-mode-photos/) gelden ook bij weinig licht onderweg.
+Het beste reisstatief voor iPhone klapt zo klein in dat het elke dag mee kan, houdt je iPhone in zijn hoesje vast en tilt hem op de hoogte die je foto nodig heeft. Voor de meeste reizigers zou ik het [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip) kiezen. Het weegt 422 g, klapt in tot ongeveer 32,5 cm (12.7 in) en staat 146,5 cm (57.6 in) hoog, dus een foto van jullie samen op borst- of ooghoogte past in een lichte dagrugzak. Een Pro Max in een dik hoesje, een set alleen voor de broekzak of een reis met een systeemcamera wijzen elk naar een ander statief verderop. Elk getal komt van een pagina van een fabrikant of winkel of uit het verslag van een eigenaar. De tips uit mijn [gids voor een statief voor de Nachtmodus van de iPhone](/blog/best-tripod-for-iphone-night-mode-photos/) gelden ook bij weinig licht onderweg.
 
 ## Reisstatieven voor iPhone vergeleken: ingeklapte lengte, gewicht en hoogte
 

@@ -461,7 +461,7 @@ sources:
   - title: 'r/sonya7rv: tripod for the A7R V and a 200-600mm'
     url: >-
       https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor een Sony A7R V?
@@ -499,7 +499,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-Stel je een A7R V van 61 MP voor op een bergkam bij zonsopkomst, een 10-stops filter op de 24-70, en elke windvlaag wordt zacht detail op 100%. Het beste statief voor Sony A7R V gebruikers is eerder stijf dan sterk: voor de meeste landschappen zou ik de [Leofoto LS-284CX-set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) zonder middenzuil kiezen, en voor een 200-600 de [Manfrotto 055-set](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Ik heb vijf statieven gekoppeld aan echte A7R V-combinaties op basis van fabrikantspecificaties, de gewichten van Sony en draadjes van A7R-gebruikers. We hebben deze statieven niet zelf gebruikt.
+Stel je een A7R V van 61 MP voor op een bergkam bij zonsopkomst, een 10-stops filter op de 24-70, en elke windvlaag wordt zacht detail op 100%. Het beste statief voor Sony A7R V gebruikers is eerder stijf dan sterk: voor de meeste landschappen zou ik de [Leofoto LS-284CX-set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) zonder middenzuil kiezen, en voor een 200-600 de [Manfrotto 055-set](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Ik heb vijf statieven gekoppeld aan echte A7R V-combinaties op basis van fabrikantspecificaties, de gewichten van Sony en draadjes van A7R-gebruikers.
 
 ## A7R V-statieven vergeleken: draagvermogen, hoogte en pakmaat
 

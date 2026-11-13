@@ -493,7 +493,7 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para fotografía de paisaje?
@@ -538,7 +538,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-Un trípode para fotografía de paisaje es un trípode de cámara pensado para largas exposiciones al aire libre. El adecuado llega casi a la altura de los ojos con la columna central bajada, baja lo suficiente para las rocas del primer plano y se queda quieto con viento y en suelo irregular. Esas tres tareas importan más que el peso, porque una columna subida, una racha o pulsar el disparador es lo que vuelve blanda una exposición de 30 segundos al amanecer, y los cuerpos más pesados necesitan patas aún más firmes, como muestran nuestros [trípodes para cámaras de formato medio](/blog/best-tripod-for-medium-format-camera/). Abajo tienes cinco modelos que recomiendan las principales guías de paisaje. Contrastamos cada dato con la web del fabricante y leímos lo que cuentan los propietarios. No hemos usado estos trípodes nosotros; cada cifra es un dato del fabricante, de un reseñador o de un propietario, y decimos de cuál se trata.
+Un trípode para fotografía de paisaje es un trípode de cámara pensado para largas exposiciones al aire libre. El adecuado llega casi a la altura de los ojos con la columna central bajada, baja lo suficiente para las rocas del primer plano y se queda quieto con viento y en suelo irregular. Esas tres tareas importan más que el peso, porque una columna subida, una racha o pulsar el disparador es lo que vuelve blanda una exposición de 30 segundos al amanecer, y los cuerpos más pesados necesitan patas aún más firmes, como muestran nuestros [trípodes para cámaras de formato medio](/blog/best-tripod-for-medium-format-camera/). Abajo tienes cinco modelos que recomiendan las principales guías de paisaje. Contrastamos cada dato con la web del fabricante y leímos lo que cuentan los propietarios. Cada cifra es un dato del fabricante, de un reseñador o de un propietario, y decimos de cuál se trata.
 
 ## Trípodes para fotografía de paisaje de un vistazo
 

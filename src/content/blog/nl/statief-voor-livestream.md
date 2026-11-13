@@ -497,7 +497,7 @@ sources:
   - title: 'r/whatnotapp: What do you use for phone stand/lighting?'
     url: >-
       https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Wat is het beste statief om vanaf je telefoon te livestreamen?
@@ -562,7 +562,7 @@ heroAlt: >-
   van Best Tripod
 ---
 
-Het beste statief voor livestream is het statief dat je telefoon of camera de hele stream op ooghoogte houdt zonder weg te zakken. Voor een telefoonstream die je staand presenteert, kies ik het [UBeesize 67 inch statief](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); aan een bureau de [Manfrotto PIXI met klem](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); en voor een camerastream met bovenaanzicht van producten de [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Ik heb zes statieven aan streamopstellingen gekoppeld op basis van specificaties van fabrikanten en ervaringen van eigenaren; we hebben ze niet zelf gebruikt en niet zelf getest.
+Het beste statief voor livestream is het statief dat je telefoon of camera de hele stream op ooghoogte houdt zonder weg te zakken. Voor een telefoonstream die je staand presenteert, kies ik het [UBeesize 67 inch statief](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); aan een bureau de [Manfrotto PIXI met klem](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); en voor een camerastream met bovenaanzicht van producten de [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Ik heb zes statieven aan streamopstellingen gekoppeld op basis van specificaties van fabrikanten en ervaringen van eigenaren.
 
 ## Hoogte van een livestreamstatief: komt hij tot je ogen?
 

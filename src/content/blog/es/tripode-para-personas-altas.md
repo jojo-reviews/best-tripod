@@ -366,7 +366,7 @@ sources:
       heights)
     url: >-
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
-reviewedDate: '2026-10-29T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Qué trípode es el más alto sin columna central para alguien de 1,93 m?
@@ -416,7 +416,7 @@ heroAlt: >-
   de compra de Best Tripod
 ---
 
-El mejor trípode para personas altas pone el visor a la altura de tus ojos sin subir del todo la columna central, y pocas fichas técnicas dicen si un trípode alto lo consigue. He comparado cuatro trípodes altos a partir de fichas técnicas, análisis y opiniones de propietarios: el [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) para objetivos pesados, el [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) para la máxima altura y dos modelos económicos y ligeros de 188 cm para foto y vídeo. No los he usado yo mismo; cada cifra es del fabricante, de una tienda o de un análisis. Si mides 1,90 m conoces el problema; en un foro español de fotografía, un usuario de esa estatura decía de los soportes que había mirado: «todos ellos me obligan a agacharme mucho».
+El mejor trípode para personas altas pone el visor a la altura de tus ojos sin subir del todo la columna central, y pocas fichas técnicas dicen si un trípode alto lo consigue. He comparado cuatro trípodes altos a partir de fichas técnicas, análisis y opiniones de propietarios: el [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) para objetivos pesados, el [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) para la máxima altura y dos modelos económicos y ligeros de 188 cm para foto y vídeo. Cada cifra es del fabricante, de una tienda o de un análisis. Si mides 1,90 m conoces el problema; en un foro español de fotografía, un usuario de esa estatura decía de los soportes que había mirado: «todos ellos me obligan a agacharme mucho».
 
 ## Trípode para personas altas: nuestras opciones de un vistazo
 
@@ -454,7 +454,7 @@ Los ojos están unos 10 a 13 cm (4 a 5 in) por debajo de la coronilla: unos 170 
 
 ### Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3): el más estable para todo
 
-El Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) es un trípode de cámara de aluminio de Manfrotto que se vende solo como patas. Lo elegí para fotógrafos altos que cargan objetivos pesados para fotografía de paisaje y casi siempre van en coche a sus localizaciones, porque sus patas son las más rígidas de los cuatro. Tiene tres secciones con cierres de palanca, una columna central a 90 grados que se pone en horizontal para tomas bajas o cenitales y unos 9 kg (19.8 lb) de carga de trabajo, el mayor margen de la lista. Eso probablemente basta para una réflex o mirrorless de formato completo con un 70-200 mm f/2.8 y una rótula sólida, aunque no lo he comprobado yo.
+El Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) es un trípode de cámara de aluminio de Manfrotto que se vende solo como patas. Lo elegí para fotógrafos altos que cargan objetivos pesados para fotografía de paisaje y casi siempre van en coche a sus localizaciones, porque sus patas son las más rígidas de los cuatro. Tiene tres secciones con cierres de palanca, una columna central a 90 grados que se pone en horizontal para tomas bajas o cenitales y unos 9 kg (19.8 lb) de carga de trabajo, el mayor margen de la lista. Eso probablemente basta para una réflex o mirrorless de formato completo con un 70-200 mm f/2.8 y una rótula sólida.
 
 La pega es la altura. Los 170 cm (66.9 in) de máximo exigen subir la columna; el propio Manfrotto y B&H indican 140 cm (55 in) con ella bajada, y un analista de The Center Column midió unos 141 cm (55.5 in) solo con las patas. Sumando mis 13 a 20 cm (5 a 8 in) salen unos 152 a 160 cm (60 a 63 in) en el visor, por debajo de la altura de los ojos de la mayoría de personas de más de 1,83 m. Son solo patas, así que reserva presupuesto para una rótula, idealmente con pinza Arca-Swiss; nuestra [página de la marca Manfrotto](/brand/manfrotto/) recoge las rótulas Manfrotto que cubrimos.
 

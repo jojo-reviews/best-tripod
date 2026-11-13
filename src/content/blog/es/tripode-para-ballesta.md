@@ -382,7 +382,7 @@ sources:
   - title: 'RealHunters, BOG DeathGrip Carbon Fiber'
     url: >-
       https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿Se puede usar un trípode de fotografía para la ballesta?
     a: >-
@@ -543,6 +543,6 @@ Mi regla: mide desde el suelo del aguardo hasta el centro de tu ventana de tiro 
 
 ## Cómo elegimos estos trípodes para ballesta
 
-**Cada trípode para ballesta de esta lista aparece recomendado en dos o más páginas independientes bien posicionadas.** El DeathGrip de aluminio aparece en Crossbow Magazine, American Firearms y Top Firearm Reviews; el Primos Gen3 en esas tres y en Field & Stream; el Vanguard Quest en American Firearms, Top Firearm Reviews y Shooting Sports Retailer; el DeathGrip Carbon en American Firearms, Top Firearm Reviews y RealHunters; y el Axis en Crossbow Magazine y en foros de ballesta. Comprobamos alturas y pesos en las webs de BOG, TenPoint, Primos y Vanguard y leímos 34 mensajes y comentarios de usuarios. Sobre la normativa: según El Debate, la tenencia de ballesta se rige por el Reglamento de Armas (categoría 7ª.2, licencia tipo E), y la Directiva Hábitats de la UE (92/43/CEE) incluye las ballestas en su anexo VI entre los medios de captura y muerte prohibidos. En el foro Esperas Jabalí otro cazador lo resume así: «La ballesta está prohibida en la mayor parte de comunidades autónomas y en las restantes se irá prohibiendo». No hemos usado estos trípodes nosotros; cada cifra sale de la web de un fabricante o de una fuente citada.
+**Cada trípode para ballesta de esta lista aparece recomendado en dos o más páginas independientes bien posicionadas.** El DeathGrip de aluminio aparece en Crossbow Magazine, American Firearms y Top Firearm Reviews; el Primos Gen3 en esas tres y en Field & Stream; el Vanguard Quest en American Firearms, Top Firearm Reviews y Shooting Sports Retailer; el DeathGrip Carbon en American Firearms, Top Firearm Reviews y RealHunters; y el Axis en Crossbow Magazine y en foros de ballesta. Comprobamos alturas y pesos en las webs de BOG, TenPoint, Primos y Vanguard y leímos 34 mensajes y comentarios de usuarios. Sobre la normativa: según El Debate, la tenencia de ballesta se rige por el Reglamento de Armas (categoría 7ª.2, licencia tipo E), y la Directiva Hábitats de la UE (92/43/CEE) incluye las ballestas en su anexo VI entre los medios de captura y muerte prohibidos. En el foro Esperas Jabalí otro cazador lo resume así: «La ballesta está prohibida en la mayor parte de comunidades autónomas y en las restantes se irá prohibiendo». Cada cifra sale de la web de un fabricante o de una fuente citada.
 
 ¿Observas con prismáticos desde el mismo puesto? Nuestros [trípodes para prismáticos](/blog/best-tripod-for-binoculars/) son la siguiente lectura.

@@ -381,7 +381,7 @@ sources:
   - title: 'RealHunters, BOG DeathGrip Carbon Fiber'
     url: >-
       https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Kann ich ein Kamerastativ für die Armbrust nehmen?
     a: >-
@@ -542,6 +542,6 @@ Meine Regel: Miss im Sitzen auf deinem Stuhl vom Zeltboden bis zur Mitte deines 
 
 ## So haben wir diese Armbrust-Stative ausgewählt
 
-**Jedes Armbrust-Stativ hier wird von zwei oder mehr unabhängigen, gut rankenden Seiten empfohlen.** Das Aluminium-DeathGrip steht bei Crossbow Magazine, American Firearms und Top Firearm Reviews; der Primos Gen3 bei diesen dreien und bei Field & Stream; der Vanguard Quest bei American Firearms, Top Firearm Reviews und Shooting Sports Retailer; das DeathGrip Carbon bei American Firearms, Top Firearm Reviews und RealHunters; das Axis bei Crossbow Magazine und in Armbrust-Foren. Wir haben Höhen und Gewichte auf den Seiten von BOG, TenPoint, Primos und Vanguard geprüft und 34 Besitzerbewertungen und Beiträge gelesen. Zur Rechtslage: Der Deutsche Schützenbund nennt Armbrüste ab 18 Jahren erlaubnisfrei im Erwerb, und die EU-Habitat-Richtlinie (92/43/EWG) führt Armbrüste in Anhang VI unter den verbotenen Fang- und Tötungsmitteln. Wir haben diese Stative nicht selbst benutzt; jede Zahl stammt von einer Herstellerseite oder einer genannten Quelle.
+**Jedes Armbrust-Stativ hier wird von zwei oder mehr unabhängigen, gut rankenden Seiten empfohlen.** Das Aluminium-DeathGrip steht bei Crossbow Magazine, American Firearms und Top Firearm Reviews; der Primos Gen3 bei diesen dreien und bei Field & Stream; der Vanguard Quest bei American Firearms, Top Firearm Reviews und Shooting Sports Retailer; das DeathGrip Carbon bei American Firearms, Top Firearm Reviews und RealHunters; das Axis bei Crossbow Magazine und in Armbrust-Foren. Wir haben Höhen und Gewichte auf den Seiten von BOG, TenPoint, Primos und Vanguard geprüft und 34 Besitzerbewertungen und Beiträge gelesen. Zur Rechtslage: Der Deutsche Schützenbund nennt Armbrüste ab 18 Jahren erlaubnisfrei im Erwerb, und die EU-Habitat-Richtlinie (92/43/EWG) führt Armbrüste in Anhang VI unter den verbotenen Fang- und Tötungsmitteln. Jede Zahl stammt von einer Herstellerseite oder einer genannten Quelle.
 
 Beobachtest du vom selben Platz aus mit dem Fernglas? Unsere [Stative für Ferngläser](/blog/best-tripod-for-binoculars/) sind der nächste Lesetipp.

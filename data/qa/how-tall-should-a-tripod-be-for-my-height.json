@@ -1,20 +1,18 @@
 {
   "slug": "how-tall-should-a-tripod-be-for-my-height",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:26.880Z",
+  "checkedAt": "2026-11-13T19:29:40.088Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "body has 2311 words, over the 1495 limit (top results average 1300): cut repetition and filler",
-    "first paragraph does not answer the keyword (missing: tall, should, height); open with the answer and the exact keyword, put Ned's story in paragraph 2",
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:24.854Z",
-    "hash": "6a8a4a8fffe69d8b"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:29:39.410Z",
+    "hash": "d2accf73a05c261f"
   }
 }

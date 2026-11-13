@@ -443,7 +443,7 @@ sources:
     url: 'https://marcdalessio.com/carbon-fiber-painting-gear/'
   - title: 'OutdoorPainter: The best plein air easels for artists'
     url: 'https://www.outdoorpainter.com/best-plein-air-easels-for-artists/'
-reviewedDate: '2026-11-01'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Welches Stativ ist das beste für Plein Air Malerei?
     a: >-
@@ -527,7 +527,7 @@ Das beste Stativ für Plein Air Malerei ist ein leichtes Fotostativ, das mindest
 
 ## So habe ich die Stative für Plein Air Malerei ausgewählt
 
-**Ich habe nur Stative behalten, die mindestens zwei Plein-Air-Seiten empfehlen, und jedes dann mit Herstellerdaten und Berichten von Besitzern abgeglichen.** Das waren Blogs von Künstlern (Lori McNee, Marc Dalessio, Dianna Anderson), der Stativ-Ratgeber eines Pochade-Herstellers, Leser-Setups bei OutdoorPainter und Threads auf r/pleinair. Ich habe diese Stative nicht selbst getestet.
+**Ich habe nur Stative behalten, die mindestens zwei Plein-Air-Seiten empfehlen, und jedes dann mit Herstellerdaten und Berichten von Besitzern abgeglichen.** Das waren Blogs von Künstlern (Lori McNee, Marc Dalessio, Dianna Anderson), der Stativ-Ratgeber eines Pochade-Herstellers, Leser-Setups bei OutdoorPainter und Threads auf r/pleinair.
 
 > **Aus unseren Notizen:** Das ZOMEI Q666 tauchte im Stativ-Ratgeber eines Pochade-Herstellers auf, der sagt, dass er es ständig nutzt, und doch widersprechen sich die Angebote: 10 kg (22 lb) in einem, 12 kg (26.5 lb) in den Stichpunkten, 8 kg (17.6 lb) in einem anderen. Sirui macht beim 5CX das Gegenteil und sagt von sich aus, dass man draußen bei voller Höhe nur die Hälfte der 6 kg laden soll. Meine Regel aus beidem: Ich plane mit der niedrigsten veröffentlichten Zahl.
 

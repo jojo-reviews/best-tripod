@@ -358,7 +358,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/
 - title: 'r/canon: Best tripod under $100 for a Canon M50'
   url: https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: Welches ist das beste Stativ für die Canon M50?
@@ -414,7 +414,7 @@ heroAlt: Bestes Stativ für Canon M50 – 5 Modelle für Vlogs, Reisen und Fotos
   von Best Tripod
 ---
 
-Das beste Stativ für Canon M50 Besitzer ist das [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), ein Reisestativ mit 1,22 kg (2.7 lb), das auf 33 cm (13 in) zusammenklappt und für Videos eine eigene Panoramabremse hat. Eine Canon EOS M50 Mark II mit dem 15-45-mm-Kitobjektiv wiegt etwa 517 g, also entscheidest du nach Höhe und Einsatzort: das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) für Fotos auf Augenhöhe, das [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) für Vlogs. Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten auf die Canon EOS M50 abgestimmt; wir haben sie nicht selbst benutzt.
+Das beste Stativ für Canon M50 Besitzer ist das [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), ein Reisestativ mit 1,22 kg (2.7 lb), das auf 33 cm (13 in) zusammenklappt und für Videos eine eigene Panoramabremse hat. Eine Canon EOS M50 Mark II mit dem 15-45-mm-Kitobjektiv wiegt etwa 517 g, also entscheidest du nach Höhe und Einsatzort: das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) für Fotos auf Augenhöhe, das [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) für Vlogs. Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten auf die Canon EOS M50 abgestimmt.
 
 ## Canon M50 Stative im Vergleich nach Tragkraft und Höhe
 

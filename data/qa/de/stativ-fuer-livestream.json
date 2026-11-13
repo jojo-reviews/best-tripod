@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-live-streaming",
   "pass": true,
-  "checkedAt": "2026-11-06T15:59:26.471Z",
+  "checkedAt": "2026-11-13T19:30:34.618Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-mini-tripod-for-desk-video-calls/; link the de version once it exists",
@@ -12,17 +12,12 @@
     "illustration \"Ein Stativ für Livestream wird hochgefah\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Stativ mit waagerechter Mittelsäule hält\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.newegg.com/ubeesize-tbc001/p/0FY-00XH-00138",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1396406-REG/joby_jb01533_gorillapod_mobile_rig.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-live-streaming: all 6 products, ASINs, scores, specs (metric first, conversions 67.3 in=171 cm, 68.2 in=173 cm, 55.6 in=141 cm, 28.3 in=72 cm, 4.8 lb=2.2 kg, 22 lb=10 kg, 20.1 in=51 cm, 3.1 lb=1.4 kg, 2.2 lb=1 kg; Befree/PIXI/K&F use the post's own metric figures), FAQ answers and owner praise/complaints match. Local facts from the local brief re-opened: Destatis Zahl der Woche 2026 (1,79 m / 1,66 m), die-medienanstalten Zulassung page (20.000 simultaneous users, linear + journalistic), vanguardworld.de ALTA PRO 263AB G2 (171 cm, 69,5 cm, 2,29 kg, 10 kg), foto-erhardt MKBFRLA4BK-BH, lufthansa.com 55 x 40 x 23 cm. CDC US height dropped for Destatis; Manfrotto 1 kg link kept as plain text (max 3 outside links). No testing/ownership claim, no prices/currency, no local Amazon store.",
-    "at": "2026-11-01T17:53:20.472Z",
-    "hash": "8572793730ed6302"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:33.840Z",
+    "hash": "56db8023f00dc4af"
   }
 }

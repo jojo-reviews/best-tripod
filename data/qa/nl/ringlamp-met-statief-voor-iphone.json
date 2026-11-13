@@ -3,21 +3,18 @@
   "lang": "nl",
   "translationOf": "best-tripod-with-ring-light-for-iphone",
   "pass": true,
-  "checkedAt": "2026-11-06T16:04:47.145Z",
+  "checkedAt": "2026-11-13T19:30:18.319Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-content-creators/; link the nl version once it exists",
     "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the nl version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1729601-REG/lume_cube_lc_ringpro_cordless_ring_light_pro.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
-    "source didn't respond normally (403): https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-with-ring-light-for-iphone: same 5 products/ASINs/scores/spec keys, same FAQ answers, all in->cm and lb->kg conversions re-computed (NEEWER 155 cm stand matches neewer.com). Local facts from data/briefs/nl local brief: Rijksmuseum filmen-en-fotograferen page (voorwaarden: geen statieven en geen extra belichting), KLM restricted items page (loose lithium batteries/power banks only in hand baggage, never above 160 Wh), Smartzine ring light guide quotes verified verbatim. EMART (US shop only) and Lume Cube (no amazon.nl/NL retailer listing found) get a neutral 'sold mainly in the US' sentence. No testing/ownership claims, prices or local Amazon store.",
-    "at": "2026-11-06T15:37:10.966Z",
-    "hash": "550c7cc58dcbf907"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:17.696Z",
+    "hash": "26885312faf9bba6"
   }
 }

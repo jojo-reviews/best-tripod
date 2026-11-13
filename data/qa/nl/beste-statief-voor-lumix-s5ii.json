@@ -3,26 +3,18 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-lumix-s5ii",
   "pass": true,
-  "checkedAt": "2026-11-08T12:06:28.642Z",
+  "checkedAt": "2026-11-13T19:30:06.081Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r2060.html",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r70200.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1667840-REG/3_legged_thing_coreyblue2_0_punks_corey_2_0_magnesium.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after edit: Photofacts half-load sentence now says all five stay under the limit with the TreeRoot tightest (1.725 g vs 2,5 kg). Rest as before: compared section by section with best-tripod-for-lumix-s5ii, same 5 products/ASINs/scores, metric-first specs matching English figures (Corey maker figures re-checked on 3leggedthing.com, TreeRoot 155 cm/5 kg on ulanzi.com, listed at kamera-express.be), Panasonic 740 g/985 g links kept, headroom math unchanged, FAQ answers match; local facts KLM 55x35x25 cm, Photofacts, KNMI, FOK and Nikon Club Nederland quotes from the local brief. No prices, testing or local Amazon claims.",
-    "at": "2026-11-07T16:34:43.284Z",
-    "hash": "68cec46fa981bf1d"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:05.285Z",
+    "hash": "879b2ac0c3013019"
   }
 }

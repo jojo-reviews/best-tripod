@@ -3,7 +3,7 @@
   "lang": "nl",
   "translationOf": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-06T16:04:08.660Z",
+  "checkedAt": "2026-11-13T19:30:07.218Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.nikonusa.com/p/z-fc/1671/overview)",
@@ -12,18 +12,12 @@
     "illustration \"Handen klemmen de gripplaat van een syst\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Een hand controleert of een camera op ee\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.nikon-asia.com/nikkor-z-40mm-f-2-se",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-nikon-zf: same 5 products/ASINs/scores/spec keys, FAQ answers match, conversions checked (39,4 cm=15.5 in, 130 cm=51.25 in, 133 cm=52.4 in, 127 cm=50 in, 114 cm=44.88 in, 56 cm=22 in, 47 cm=18.62 in, 1,56 kg=3.44 lb, 9,1 kg=20 lb, 10 kg=22 lb, 6 kg, 1.210 g). Local facts from data/briefs/nl/best-tripod-for-nikon-zf.local.json: KLM 55x35x25 cm (klm.nl), Rijksmuseum and Rijksmuseum Boerhaave tripod rules, KNMI windkracht 6; quotes from Nikon Club Nederland forum, Tweakers and avondfotografie.nl (GorillaPod 3K with Nikon Z6); re-opened leofoto.net LS-284C/LS-224C and smallrig.com AP-10 for EU codes/metric figures. Dropped 'Amazon US listing' wording; nikonusa link kept as plain attribution (3-link cap). No testing claims, prices or local store claims.",
-    "at": "2026-11-02T18:01:01.164Z",
-    "hash": "76ba079a8d97d305"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:06.464Z",
+    "hash": "8caa16d2320edb45"
   }
 }

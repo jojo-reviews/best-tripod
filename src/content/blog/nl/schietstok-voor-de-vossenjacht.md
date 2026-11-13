@@ -408,7 +408,7 @@ sources:
   - title: 'Reddit r/Hunting: Furthest distance for a tripod shot'
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
-reviewedDate: '2026-11-08T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: Wat is de beste schietstok voor de vossenjacht in het donker?
@@ -472,7 +472,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-**Een goede schietstok voor de vossenjacht houdt je geweer handsfree op de hoogte waarop je schiet, en bij de aanzit in de schemering of nacht is dat vaak staand.** Mijn keuze is de [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): carbon poten van 42,5 mm, 68 kg (150 lb) belastbaarheid en 182 cm (71.5 in) op alleen de poten. Wie met warmtebeeld jaagt en omgekeerde poten wil, kijkt naar de Warrior Commander, en de SLIK Pro 700 DX is de goedkope basis. Ik heb deze vijf vergeleken op de specificaties van de fabrikanten en de ervaringen van eigenaren op Amerikaanse fora over roofwildjacht, waar ze vooral voor de coyotejacht worden gebruikt; ik heb ze niet zelf gebruikt. Fatboy en Warrior worden vooral in de VS verkocht, Vortex en BOG vind je bij Europese winkels. Voor de aanzit op ree, zie onze [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
+**Een goede schietstok voor de vossenjacht houdt je geweer handsfree op de hoogte waarop je schiet, en bij de aanzit in de schemering of nacht is dat vaak staand.** Mijn keuze is de [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): carbon poten van 42,5 mm, 68 kg (150 lb) belastbaarheid en 182 cm (71.5 in) op alleen de poten. Wie met warmtebeeld jaagt en omgekeerde poten wil, kijkt naar de Warrior Commander, en de SLIK Pro 700 DX is de goedkope basis. Ik heb deze vijf vergeleken op de specificaties van de fabrikanten en de ervaringen van eigenaren op Amerikaanse fora over roofwildjacht, waar ze vooral voor de coyotejacht worden gebruikt. Fatboy en Warrior worden vooral in de VS verkocht, Vortex en BOG vind je bij Europese winkels. Voor de aanzit op ree, zie onze [jachtstatieven per jachtvorm](/blog/best-tripod-for-hunting/).
 
 ## Schietstokken voor de vossenjacht vergeleken op staande hoogte, poten en gewicht
 

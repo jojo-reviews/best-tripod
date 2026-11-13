@@ -148,9 +148,9 @@ heroAlt: >-
   how-to
 ---
 
-I have been shooting since 2017, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. For wildlife I use a 200-600mm lens, where a small drop at the head moves the subject a long way.
+Ball head sag mostly happens during the locking action itself. When a [ball head](/blog/ball-head-tripod/) sags after tightening, the rest usually comes from the plate, the camera or the tripod legs, not a worn ball.
 
-You frame the shot, crank the knob, let go, and the horizon slides down the viewfinder. Ball head sag like this mostly happens during the locking action itself. When a [ball head](/blog/ball-head-tripod/) sags after tightening, the rest usually comes from the plate, the camera or the tripod legs, not a worn ball. I sorted the fixes from cheapest to most drastic.
+I have been shooting since 2017, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. For wildlife I use a 200-600mm lens, where a small drop at the head moves the subject a long way. You frame the shot, crank the knob, let go, and the horizon slides down the viewfinder. I sorted the fixes from cheapest to most drastic.
 
 ## Ball head sag after tightening: find what moves first
 

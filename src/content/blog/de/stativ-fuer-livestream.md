@@ -511,7 +511,7 @@ sources:
   - title: 'r/whatnotapp: What do you use for phone stand/lighting?'
     url: >-
       https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für einen Livestream vom Handy?
@@ -576,7 +576,7 @@ heroAlt: >-
   Kaufberatung von Best Tripod
 ---
 
-Das beste Stativ für Livestream ist das, das dein Handy oder deine Kamera den ganzen Stream über auf Augenhöhe hält, ohne wegzukippen. Für einen Handy-Stream, den du im Stehen moderierst, wähle ich das [UBeesize 67 inch Stativ](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); am Schreibtisch das [Manfrotto PIXI mit Klemme](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); und für einen Kamera-Stream mit Produktansicht von oben das [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Ich habe sechs Stative anhand von Herstellerangaben und Besitzerberichten verschiedenen Stream-Setups zugeordnet; wir haben sie nicht selbst benutzt und nicht selbst getestet.
+Das beste Stativ für Livestream ist das, das dein Handy oder deine Kamera den ganzen Stream über auf Augenhöhe hält, ohne wegzukippen. Für einen Handy-Stream, den du im Stehen moderierst, wähle ich das [UBeesize 67 inch Stativ](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); am Schreibtisch das [Manfrotto PIXI mit Klemme](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); und für einen Kamera-Stream mit Produktansicht von oben das [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Ich habe sechs Stative anhand von Herstellerangaben und Besitzerberichten verschiedenen Stream-Setups zugeordnet.
 
 ## Stativhöhe beim Livestream: Reicht es bis zu deinen Augen?
 

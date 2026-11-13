@@ -301,9 +301,9 @@ heroAlt: >-
   guide
 ---
 
-I've been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my support kit today is carbon fiber tripods, ball heads and Arca-Swiss plates. My cameras are a Sony A7 IV and a Canon EOS R6 Mark II, so the Arca-Swiss plate is the small piece that ties that kit together.
-
 What is an Arca-Swiss plate, and do I need one? An Arca-Swiss plate is a small quick release plate with angled dovetail sides that screws under your camera or lens and slides into a matching clamp on the tripod head. You need one whenever your ball head, gimbal, monopod or strap clip uses that clamp.
+
+I've been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my support kit today is carbon fiber tripods, ball heads and Arca-Swiss plates. My cameras are a Sony A7 IV and a Canon EOS R6 Mark II, so the Arca-Swiss plate is the small piece that ties that kit together.
 
 ## What Is an Arca-Swiss Plate?
 

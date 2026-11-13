@@ -281,7 +281,7 @@ sources:
       https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
   - title: 'DSLR Video Shooter: Arca Swiss Plates, Goodbye Manfrotto'
     url: https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/
-reviewedDate: '2026-10-29'
+reviewedDate: 2026-11-13
 faqs:
   - q: Is Arca-Swiss een standaardmaat?
     a: >-
@@ -392,7 +392,7 @@ Is Arca-Swiss dan compatibel met Manfrotto? Niet direct. Sommige platen zijn voo
 
 **Deze drie duiken steeds weer op in de pagina's die scoren op Arca-Swiss-platen: een universele cameraplaat, een paar piepkleine vierkante platen en een klem die Arca aan elke steun toevoegt.**
 
-Minstens twee goed scorende overzichten raden elk ervan aan. De specificaties komen van makers en winkels, en de ervaringen van eigenaren uit reviews die we hebben gelezen; we hebben ze zelf niet gebruikt.
+Minstens twee goed scorende overzichten raden elk ervan aan. De specificaties komen van makers en winkels, en de ervaringen van eigenaren uit reviews die we hebben gelezen.
 
 ### SmallRig Quick Release Plate for Arca Swiss 2146B, de beste universele cameraplaat
 

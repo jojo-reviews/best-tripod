@@ -3,21 +3,18 @@
   "lang": "nl",
   "translationOf": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-11-06T16:03:11.308Z",
+  "checkedAt": "2026-11-13T19:30:41.419Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/; link the nl version once it exists",
     "internal link to the English post /blog/best-tripod-for-live-streaming/; link the nl version once it exists",
     "internal link to the English post /blog/best-tabletop-camera-tripod/; link the nl version once it exists",
-    "1 question heading(s) go straight into a list/table/image; add one answer sentence first (patent rule 2026-11-04)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1613556-REG/ulanzi_2052_extendable_desktop_tripod.html",
-    "source didn't respond normally (403): https://www.fullcompass.com/prod/660129-smallrig-sr-but2664-smallrig-tabletop-mini-tripod-w-panoramic-ball-head",
-    "source didn't respond normally (403): https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/"
+    "1 question heading(s) go straight into a list/table/image; add one answer sentence first (patent rule 2026-11-04)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-mini-tripod-for-desk-video-calls: same 3 products/ASINs/scores/spec keys, all specs and numbers match with metric first and imperial in brackets, FAQ answers identical, no testing/ownership claims, no prices/currency, no local Amazon store. Local facts re-opened: Arboportaal 'wat staat er in de wet over thuiswerken' (zorgplicht werkgever, ergonomische beginselen), Ulanzi product page (22-44 cm number link), Tweakers GoT threads 1978964 and 2101506 (paraphrased). Amazon US selection rule kept as US-specific.",
-    "at": "2026-11-01T17:55:45.421Z",
-    "hash": "b303c64bd91c276c"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:40.693Z",
+    "hash": "2295190384040c96"
   }
 }

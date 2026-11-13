@@ -464,7 +464,7 @@ sources:
   - title: 'r/sonya7rv: tripod for the A7R V and a 200-600mm'
     url: >-
       https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para la Sony A7R V?
@@ -501,7 +501,7 @@ heroAlt: >-
   de Best Tripod
 ---
 
-Imagina una A7R V de 61 MP en una cresta al amanecer, un filtro de 10 pasos en el 24-70 y cada racha convertida en detalle blando al 100 %. El mejor trípode para Sony A7R V es más rígido que fuerte: para la mayoría de paisajes yo elegiría el [kit Leofoto LS-284CX](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) sin columna, y para un 200-600 el [kit Manfrotto 055](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). He emparejado cinco trípodes con equipos reales de la A7R V a partir de las especificaciones de los fabricantes, los pesos de Sony y los hilos de usuarios de la serie A7R. No hemos usado estos trípodes nosotros mismos.
+Imagina una A7R V de 61 MP en una cresta al amanecer, un filtro de 10 pasos en el 24-70 y cada racha convertida en detalle blando al 100 %. El mejor trípode para Sony A7R V es más rígido que fuerte: para la mayoría de paisajes yo elegiría el [kit Leofoto LS-284CX](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) sin columna, y para un 200-600 el [kit Manfrotto 055](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). He emparejado cinco trípodes con equipos reales de la A7R V a partir de las especificaciones de los fabricantes, los pesos de Sony y los hilos de usuarios de la serie A7R.
 
 ## Comparativa de trípodes para la A7R V: carga, altura y plegado
 

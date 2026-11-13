@@ -420,7 +420,7 @@ sources:
       https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/
   - title: 'r/canon: Canon R50 accessories'
     url: 'https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/'
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für die Canon R50?
@@ -478,7 +478,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-Das beste Stativ für Canon R50 Besitzer ist für die meisten das [Manfrotto Element MII](amzn:B08JZCQ9WQ). Ein R50-Stativ trägt mit Kitobjektiv nur etwa 505 g, also entscheidest du nach Höhe, Packmaß und Einsatz: Wanderer nehmen das [Peak Design Travel Tripod (Aluminum)](amzn:B085BQS6K4), Vlogger das [JOBY GorillaPod 3K Kit](amzn:B074WC9YKL). Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten aus Canon Rumors und r/canon auf die Canon EOS R50 abgestimmt; wir haben diese Stative nicht selbst benutzt.
+Das beste Stativ für Canon R50 Besitzer ist für die meisten das [Manfrotto Element MII](amzn:B08JZCQ9WQ). Ein R50-Stativ trägt mit Kitobjektiv nur etwa 505 g, also entscheidest du nach Höhe, Packmaß und Einsatz: Wanderer nehmen das [Peak Design Travel Tripod (Aluminum)](amzn:B085BQS6K4), Vlogger das [JOBY GorillaPod 3K Kit](amzn:B074WC9YKL). Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten aus Canon Rumors und r/canon auf die Canon EOS R50 abgestimmt.
 
 ## Canon R50 Stative im Vergleich nach Höhe und Gewicht
 

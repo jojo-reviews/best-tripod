@@ -16,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-carbon-fiber-travel-tripod: same 6 products/ASINs/scores/spec keys, same facts; every figure converted metric-first from the English post or the maker metric figures in its factcheck (Gitzo 1,45 kg/42,5/163,5/140,5/32,4 cm/10 kg; Peak 39,4/130,2/152,4 cm, 9,1 kg; SIRUI 33/138/16 cm, 0,85 kg, 4 kg; HEIPI 1,38 kg, 45 cm, 152/127/29 cm, 20 kg; Leo 37,4 cm, 1,85 kg, 1,46/1,12 m, 30/10 kg; NEEWER 1,18 kg, 43/157/133/19 cm, 10/4,5 kg; B&H 1,27 vs 1,56 kg). Local facts from data/briefs/de/best-carbon-fiber-travel-tripod.local.json: Lufthansa 55x40x23 cm 8 kg, Ryanair 40x30x20 cm, Koelner Dom tripod permit, SMB Berlin cloakroom rule; German forum quotes verbatim from the local brief (systemkamera-forum, canon-eos-r-forum, dslr-forum). Gitzo 135mm and NEEWER head-rating number links kept as plain text (3-outside-link limit: B&H number link + 2 local fact links). No testing/ownership claims, no prices, no local Amazon store mentions.",
-    "at": "2026-11-12T15:36:23.588Z",
-    "hash": "7740fedae2b9746d"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:17.350Z",
+    "hash": "532c281711eb3ee2"
   }
 }

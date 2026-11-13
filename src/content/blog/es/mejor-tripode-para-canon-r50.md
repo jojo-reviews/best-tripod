@@ -416,7 +416,7 @@ sources:
       https://www.reddit.com/r/canon/comments/1rhruph/tripod_for_my_canon_eos_r50/
   - title: 'r/canon: Canon R50 accessories'
     url: 'https://www.reddit.com/r/canon/comments/18v0myi/canon_r50_accessories/'
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para la Canon R50?
@@ -473,7 +473,7 @@ heroAlt: >-
   Best Tripod guía de compra
 ---
 
-El mejor trípode para Canon R50, para la mayoría, es el [Manfrotto Element MII](amzn:B08JZCQ9WQ). Un trípode para la R50 solo sostiene unos 505 g con el objetivo del kit, así que elige por altura, tamaño plegado y uso: si haces senderismo, el [Peak Design Travel Tripod (Aluminum)](amzn:B085BQS6K4); si haces vlog, el [JOBY GorillaPod 3K Kit](amzn:B074WC9YKL). He emparejado cinco trípodes con la Canon EOS R50 a partir de las especificaciones de los fabricantes y de opiniones de usuarios en Canon Rumors y r/canon; no hemos usado estos trípodes nosotros mismos.
+El mejor trípode para Canon R50, para la mayoría, es el [Manfrotto Element MII](amzn:B08JZCQ9WQ). Un trípode para la R50 solo sostiene unos 505 g con el objetivo del kit, así que elige por altura, tamaño plegado y uso: si haces senderismo, el [Peak Design Travel Tripod (Aluminum)](amzn:B085BQS6K4); si haces vlog, el [JOBY GorillaPod 3K Kit](amzn:B074WC9YKL). He emparejado cinco trípodes con la Canon EOS R50 a partir de las especificaciones de los fabricantes y de opiniones de usuarios en Canon Rumors y r/canon.
 
 ## Trípodes para Canon R50 comparados por altura y peso
 

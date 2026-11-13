@@ -427,7 +427,7 @@ sources:
   - title: 'Canon Rumors forum: What is the best travel tripod for Canon RF systems?'
     url: >-
       https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Canon R5?
@@ -497,7 +497,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-Das beste Stativ für Canon R5 Besitzer ist ein steifes Kamerastativ, denn der 45-MP-Sensor der Canon EOS R5 zeigt jedes Zittern: Für die meisten Foto- und Hybridaufnahmen würde ich das säulenlose [Benro Tortoise 35C Set](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) nehmen, für 8K-Schwenks das [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). Ich habe fünf Stative echten R5-Kombinationen mit schweren RF-L-Objektiven zugeordnet, anhand von Canons Gewichtsangaben, Herstellerdaten und Threads von R5-Besitzern; wir haben diese Stative nicht selbst benutzt. Leichteres Gehäuse? Unsere [Stative für die Canon R6 Mark II](/de/blog/bestes-stativ-fuer-canon-r6-mark-ii/) sind nach Objektiv sortiert.
+Das beste Stativ für Canon R5 Besitzer ist ein steifes Kamerastativ, denn der 45-MP-Sensor der Canon EOS R5 zeigt jedes Zittern: Für die meisten Foto- und Hybridaufnahmen würde ich das säulenlose [Benro Tortoise 35C Set](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35) nehmen, für 8K-Schwenks das [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). Ich habe fünf Stative echten R5-Kombinationen mit schweren RF-L-Objektiven zugeordnet, anhand von Canons Gewichtsangaben, Herstellerdaten und Threads von R5-Besitzern. Leichteres Gehäuse? Unsere [Stative für die Canon R6 Mark II](/de/blog/bestes-stativ-fuer-canon-r6-mark-ii/) sind nach Objektiv sortiert.
 
 ## Canon R5 Stative im Vergleich nach Höhe, Beinen und Kopf
 

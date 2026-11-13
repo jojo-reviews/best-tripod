@@ -459,7 +459,7 @@ sources:
   - title: 'r/sonya7rv: tripod for the A7R V and a 200-600mm'
     url: >-
       https://www.reddit.com/r/sonya7rv/comments/1iodyen/what_is_a_good_tripod_to_uss_with_sony_a7r_v_and/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Sony A7R V?
@@ -497,7 +497,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-Eine A7R V mit 61 MP auf einem Grat im Morgengrauen, ein 10-Stufen-Filter am 24-70, und jede Böe wird bei 100 % zu weichem Detail. Das beste Stativ für Sony A7R V Besitzer ist eher steif als stark: Für die meisten Landschaften würde ich das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) nehmen, für ein 200-600 das [Manfrotto 055 Set](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Ich habe fünf Stative anhand von Herstellerangaben, Sonys Gewichten und Threads von A7R-Besitzern echten A7R-V-Kombinationen zugeordnet. Wir haben diese Stative nicht selbst benutzt.
+Eine A7R V mit 61 MP auf einem Grat im Morgengrauen, ein 10-Stufen-Filter am 24-70, und jede Böe wird bei 100 % zu weichem Detail. Das beste Stativ für Sony A7R V Besitzer ist eher steif als stark: Für die meisten Landschaften würde ich das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) nehmen, für ein 200-600 das [Manfrotto 055 Set](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). Ich habe fünf Stative anhand von Herstellerangaben, Sonys Gewichten und Threads von A7R-Besitzern echten A7R-V-Kombinationen zugeordnet.
 
 ## A7R V Stative im Vergleich: Tragkraft, Höhe und Packmaß
 

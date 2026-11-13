@@ -434,7 +434,7 @@ sources:
   - title: 'Scott Tucker: must-have accessories for the Nikon Zf'
     url: >-
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor de Nikon Zf?
@@ -501,7 +501,7 @@ heroAlt: >-
   koopgids van Best Tripod
 ---
 
-Blauw uur op een stadsbrug, een Nikon Zf met de 24-70mm f/4 en een belichting van 2 seconden die je niet uit de hand houdt. Het beste statief voor Nikon Zf bezitters is voor de meesten de [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); fotografeer je lange sluitertijden in de wind, dan zou ik een [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) zonder kolom kiezen. Ik heb vijf statieven op de Zf en haar gebruikelijke lenzen afgestemd op basis van fabrikantspecificaties en threads van Zf-bezitters. Wij hebben deze statieven zelf niet gebruikt.
+Blauw uur op een stadsbrug, een Nikon Zf met de 24-70mm f/4 en een belichting van 2 seconden die je niet uit de hand houdt. Het beste statief voor Nikon Zf bezitters is voor de meesten de [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); fotografeer je lange sluitertijden in de wind, dan zou ik een [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) zonder kolom kiezen. Ik heb vijf statieven op de Zf en haar gebruikelijke lenzen afgestemd op basis van fabrikantspecificaties en threads van Zf-bezitters.
 
 ## Statieven voor de Nikon Zf vergeleken op hoogte, pakmaat en draagvermogen
 

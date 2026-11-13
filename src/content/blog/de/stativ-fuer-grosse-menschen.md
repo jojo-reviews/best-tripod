@@ -373,7 +373,7 @@ sources:
       heights)
     url: >-
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
-reviewedDate: '2026-10-29T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist ohne Mittelsäule am höchsten für jemanden mit 1,93 m?
@@ -422,7 +422,7 @@ heroAlt: >-
   Best-Tripod-Kaufberatung
 ---
 
-Ein gutes Stativ für große Menschen bringt deinen Sucher auf Augenhöhe, ohne dass du die Mittelsäule ganz ausfahren musst, und kaum ein Datenblatt verrät, ob ein hohes Stativ das schafft. Ich habe vier hohe Stative anhand von Datenblättern, Testberichten und Erfahrungen von Besitzern verglichen: das [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) für schwere Objektive, das [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) für maximale Höhe und zwei leichte, günstige 188-cm-Modelle für Foto und Video. Ich habe sie nicht selbst benutzt; jede Zahl stammt vom Hersteller, vom Händler oder aus einem Testbericht. Und das Thema betrifft hierzulande viele: Laut Statistischem Bundesamt ist der Durchschnittsmann in Deutschland 1,79 m groß, also nur knapp unter der 1,83-m-Marke (6 ft), um die es hier geht.
+Ein gutes Stativ für große Menschen bringt deinen Sucher auf Augenhöhe, ohne dass du die Mittelsäule ganz ausfahren musst, und kaum ein Datenblatt verrät, ob ein hohes Stativ das schafft. Ich habe vier hohe Stative anhand von Datenblättern, Testberichten und Erfahrungen von Besitzern verglichen: das [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) für schwere Objektive, das [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) für maximale Höhe und zwei leichte, günstige 188-cm-Modelle für Foto und Video. Jede Zahl stammt vom Hersteller, vom Händler oder aus einem Testbericht. Und das Thema betrifft hierzulande viele: Laut Statistischem Bundesamt ist der Durchschnittsmann in Deutschland 1,79 m groß, also nur knapp unter der 1,83-m-Marke (6 ft), um die es hier geht.
 
 ## Stativ für große Menschen: die Empfehlungen auf einen Blick
 
@@ -460,7 +460,7 @@ Die Augen liegen etwa 10 bis 13 cm (4 bis 5 in) unter dem Scheitel: bei 1,83 m (
 
 ### Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3): stabiler Allrounder
 
-Das Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) ist ein Alu-Kamerastativ von Manfrotto, das nur als Beinset kommt. Ich habe es für große Fotografen gewählt, die schwerere Objektive für die Landschaftsfotografie mitnehmen und meist mit dem Auto zum Motiv fahren, denn seine Stativbeine sind die steifsten der vier. Es hat drei Beinsegmente mit Klemmhebeln, eine 90-Grad-Mittelsäule, die sich für bodennahe Aufnahmen oder Aufnahmen von oben waagerecht schwenken lässt, und etwa 9 kg (19.8 lb) Arbeitslast, die meiste Reserve hier. Das passt wahrscheinlich zu einem Vollformatgehäuse (DSLR oder spiegellos) mit 70-200 mm f/2.8 plus solidem Kopf, auch wenn ich das nicht ausprobiert habe.
+Das Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3) ist ein Alu-Kamerastativ von Manfrotto, das nur als Beinset kommt. Ich habe es für große Fotografen gewählt, die schwerere Objektive für die Landschaftsfotografie mitnehmen und meist mit dem Auto zum Motiv fahren, denn seine Stativbeine sind die steifsten der vier. Es hat drei Beinsegmente mit Klemmhebeln, eine 90-Grad-Mittelsäule, die sich für bodennahe Aufnahmen oder Aufnahmen von oben waagerecht schwenken lässt, und etwa 9 kg (19.8 lb) Arbeitslast, die meiste Reserve hier. Das passt wahrscheinlich zu einem Vollformatgehäuse (DSLR oder spiegellos) mit 70-200 mm f/2.8 plus solidem Kopf.
 
 Der Haken ist die Höhe. Die 170 cm (66.9 in) Maximalhöhe brauchen die ausgefahrene Säule; Manfrotto selbst und B&H nennen 140 cm (55 in) ohne, und ein Tester bei The Center Column hat nur mit den Beinen etwa 141 cm (55.5 in) gemessen. Mit meinem Zuschlag von 13 bis 20 cm (5 bis 8 in) ergibt das etwa 152 bis 160 cm (60 bis 63 in) am Sucher, zu wenig für die Augenhöhe der meisten Menschen über 1,83 m. Genau das schreiben auch deutsche Forennutzer über dieses Stativ: „Allerdings eine Arbeitshöhe von nur 140cm.“ Es ist nur ein Beinset, plane also einen Kopf ein, am besten mit Arca-Swiss-Klemme; unsere [Manfrotto-Markenseite](/brand/manfrotto/) listet die Manfrotto-Köpfe, die wir behandeln.
 

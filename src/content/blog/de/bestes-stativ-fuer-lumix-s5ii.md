@@ -453,7 +453,7 @@ sources:
       https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/
   - title: 'Photography Stack Exchange: how to stabilize a tripod'
     url: https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod
-reviewedDate: '2026-11-07'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Lumix S5II?
@@ -523,7 +523,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-Das beste Stativ für Lumix S5II Besitzer hängt davon ab, wie du Foto und Video aufteilst: Für Landschaften im Wind ist es das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), für Fotos plus langsame Schwenks das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+Tripod+Lever+Closure+Ball+Head), dessen Kopf einen eigenen Panoramaknopf hat. Ich habe fünf Stative anhand der Gewichte, die Panasonic für die Panasonic Lumix S5II und ihre Objektive angibt, passenden Kombinationen zugeordnet; wir haben sie nicht selbst benutzt.
+Das beste Stativ für Lumix S5II Besitzer hängt davon ab, wie du Foto und Video aufteilst: Für Landschaften im Wind ist es das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), für Fotos plus langsame Schwenks das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+Tripod+Lever+Closure+Ball+Head), dessen Kopf einen eigenen Panoramaknopf hat. Ich habe fünf Stative anhand der Gewichte, die Panasonic für die Panasonic Lumix S5II und ihre Objektive angibt, passenden Kombinationen zugeordnet.
 
 ## Lumix S5II Stative für Foto und Video im Vergleich
 

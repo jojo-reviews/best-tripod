@@ -3,20 +3,16 @@
   "lang": "de",
   "translationOf": "best-tripod-for-real-estate-photography",
   "pass": true,
-  "checkedAt": "2026-11-06T15:59:13.937Z",
+  "checkedAt": "2026-11-13T19:30:30.126Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/what-is-an-arca-swiss-plate-and-do-i-need-one/; link the de version once it exists",
-    "internal link to the English post /blog/best-tripod-for-tall-photographers-over-6-feet/; link the de version once it exists",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1486816-REG/geekoto_x25_defender_75_4_section.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/124665-REG/Manfrotto_410_410_Junior_Geared_Head.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1750711-REG/joby_jb91508_gorillapod_5k_kit.html",
-    "source didn't respond normally (403): https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx"
+    "internal link to the English post /blog/best-tripod-for-tall-photographers-over-6-feet/; link the de version once it exists"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-real-estate-photography: same 7 products/ASINs/scores/spec keys, all specs converted metric-first (Manfrotto metric figures from manfrotto.com; 1 in=2.54 cm, 1 lb=0.4536 kg), FAQ answers match. Local brief facts re-opened: Benro Europe page (153 cm column retracted, 177 cm, 35.5 cm, 59 cm, 2.05 kg, 16 kg), ImmoScout24 photo tips (Querformat, corner, tripod at hip height), BGH press release 2003/070 (Panoramafreiheit, view from inaccessible place not covered), fotokoch.de 410 reviews (plate hard to remove one-handed, setup time). GEEKOTO marked as mainly sold in the US (amazon.de listing unavailable, US reviews only). No testing/ownership claims, no prices/currencies, no local Amazon store; 3 outside links.",
-    "at": "2026-11-01T17:55:25.991Z",
-    "hash": "80936ba4337d7ba9"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:29.345Z",
+    "hash": "0230b81976573fc0"
   }
 }

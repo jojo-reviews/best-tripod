@@ -442,7 +442,7 @@ sources:
     url: 'https://marcdalessio.com/carbon-fiber-painting-gear/'
   - title: 'OutdoorPainter: The best plein air easels for artists'
     url: 'https://www.outdoorpainter.com/best-plein-air-easels-for-artists/'
-reviewedDate: '2026-11-01'
+reviewedDate: 2026-11-13
 faqs:
   - q: Wat is het beste statief voor buiten schilderen?
     a: >-
@@ -526,7 +526,7 @@ Het beste statief voor buiten schilderen is een licht camerastatief dat minstens
 
 ## Zo koos ik de statieven voor buiten schilderen
 
-**Ik hield alleen statieven over die minstens twee plein-air-pagina's aanraden, en legde elk daarna naast de specificaties van de fabrikant en ervaringen van eigenaren.** Dat waren blogs van kunstenaars (Lori McNee, Marc Dalessio, Dianna Anderson), de statiefgids van een maker van pochade boxen, opstellingen van lezers op OutdoorPainter en topics op r/pleinair. Ik heb deze statieven niet zelf getest.
+**Ik hield alleen statieven over die minstens twee plein-air-pagina's aanraden, en legde elk daarna naast de specificaties van de fabrikant en ervaringen van eigenaren.** Dat waren blogs van kunstenaars (Lori McNee, Marc Dalessio, Dianna Anderson), de statiefgids van een maker van pochade boxen, opstellingen van lezers op OutdoorPainter en topics op r/pleinair.
 
 > **Uit onze notities:** De ZOMEI Q666 dook op in de statiefgids van een maker van pochade boxen die zegt dat hij hem altijd gebruikt, en toch spreken de aanbiedingen elkaar tegen: 10 kg (22 lb) in de ene, 12 kg (26.5 lb) in de opsomming, 8 kg (17.6 lb) in een andere. Sirui doet bij de 5CX het omgekeerde en meldt uit zichzelf dat je buiten op volle hoogte maar de helft van de 6 kg moet belasten. Mijn regel uit beide: ik reken met het laagste gepubliceerde getal.
 

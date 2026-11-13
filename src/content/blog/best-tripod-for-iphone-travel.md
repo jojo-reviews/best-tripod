@@ -505,7 +505,7 @@ What I like is the reach for the weight: no other phone-only pick here lifts an 
 
 The [Peak Design Mobile Tripod](amzn:Peak+Design+Mobile+Tripod+MagSafe) is a machined aluminum phone tripod from Peak Design that snaps onto the back of the iPhone with MagSafe-compatible magnets. It weighs 76 g, packs to about 9.7 x 5.5 cm and is about half a centimeter thick, with a micro ball head and tripod, kickstand and grip modes. Peak Design says it needs one of its cases or its Universal Adapter, or a MagSafe phone or case.
 
-I picked it because it is the only tripod you will never leave at the hotel. On r/peakdesign, owners like the size but say this magnetic mount can let go when the phone tilts far back. I keep it for tables, ledges and timers, not drops.
+I picked it because it is the only tripod you will never leave at the hotel. On r/peakdesign, owners like the size but say this magnetic mount can let go when the phone tilts far back. It suits tables, ledges and timers, not drops.
 
 ### Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK): best mini tripod for iPhone travel
 

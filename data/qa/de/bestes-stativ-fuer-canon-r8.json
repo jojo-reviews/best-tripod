@@ -3,25 +3,17 @@
   "lang": "de",
   "translationOf": "best-tripod-for-canon-r8",
   "pass": true,
-  "checkedAt": "2026-11-06T15:57:36.954Z",
+  "checkedAt": "2026-11-13T19:30:29.466Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf24-105mm-f4-7-1-is-stm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f4-l-is-usm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf100-400mm-f5-6-8-is-usm",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1br4awq/tripod_for_the_canon_r8/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-canon-r8 (same 5 products/ASINs/scores/spec keys, all figures converted metric-first from the English post or maker metric figures: Peak Design 1,56 kg/39,4/130,2/152,4 cm, Befree 151/128/40 cm 1,59 kg 9 kg, Leofoto ~127 cm 56 cm 10 kg, Mach3 177 cm/59 cm/2,05 kg/16 kg plus Benro Europe 153 cm column down (de.benroeu.com), 055 181,5/151,5/72,5 cm 3 kg 15 kg). R8 461 g re-checked on canon.de key-features page and Canon manual; lens weights 395 g/695 g kept from Canon USA (now plain text). Local facts from the local brief: Lufthansa 55x40x23 cm 8 kg, Koelner Dom tripod permit, DWD wind scale; dslr-forum and canon-eos-r-forum quotes verbatim from the brief. No prices, no testing claims, no local Amazon claims.",
-    "at": "2026-11-03T16:30:38.788Z",
-    "hash": "1e138eb4bbd69bce"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:28.725Z",
+    "hash": "45b0d395eb904a35"
   }
 }

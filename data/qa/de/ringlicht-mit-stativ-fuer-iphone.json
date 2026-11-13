@@ -3,21 +3,18 @@
   "lang": "de",
   "translationOf": "best-tripod-with-ring-light-for-iphone",
   "pass": true,
-  "checkedAt": "2026-11-06T15:58:38.553Z",
+  "checkedAt": "2026-11-13T19:30:20.634Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/best-tripod-for-content-creators/; link the de version once it exists",
     "internal link to the English post /blog/best-tripod-for-iphone-night-mode-photos/; link the de version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1729601-REG/lume_cube_lc_ringpro_cordless_ring_light_pro.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
-    "source didn't respond normally (403): https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-with-ring-light-for-iphone: same 5 products/ASINs/scores/spec keys, same FAQ answers, every spec and unit conversion re-computed (in->cm 2.54, lb->kg 0.4536; NEEWER 155 cm stand matches neewer.com product page). Local facts from data/briefs/de local brief re-opened: Koelner Dom Domordnung par.2 (tripods need Dompropst permission), Lufthansa 100 Wh per power bank page, hausbau-forum.de glasses-glare quote verified verbatim. EMART marked as mainly sold in the US (no EU listing found). No testing/ownership claims, no prices, no local Amazon store.",
-    "at": "2026-11-06T15:33:29.601Z",
-    "hash": "a8636bc6ea2f37c2"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:19.713Z",
+    "hash": "8997ba552ab22440"
   }
 }

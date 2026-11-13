@@ -409,7 +409,7 @@ sources:
   - title: 'r/canon: Canon PowerShot V1 tripod plate?'
     url: >-
       https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/
-reviewedDate: '2026-11-03T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Hat die Canon PowerShot V1 ein Stativgewinde?
     a: >-
@@ -475,7 +475,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-Das beste Stativ für Canon PowerShot V1 Besitzer ist Canons eigenes [Griffstativ HG-100TBR](amzn:B07Z5LZ92N), wenn du vloggst: Canon führt die V1 als kompatibel, und die mitgelieferte Fernbedienung startet die Aufnahme direkt am Griff. Für den Schreibtisch reicht einer 426 g leichten Kamera ein Manfrotto PIXI Mini oder PIXI EVO; für Aufnahmen im Stehen das Peak Design Travel Tripod. Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten aus r/canon, von B&H und aus dem DPReview-Forum auf die V1 abgestimmt; wir haben sie nicht selbst benutzt.
+Das beste Stativ für Canon PowerShot V1 Besitzer ist Canons eigenes [Griffstativ HG-100TBR](amzn:B07Z5LZ92N), wenn du vloggst: Canon führt die V1 als kompatibel, und die mitgelieferte Fernbedienung startet die Aufnahme direkt am Griff. Für den Schreibtisch reicht einer 426 g leichten Kamera ein Manfrotto PIXI Mini oder PIXI EVO; für Aufnahmen im Stehen das Peak Design Travel Tripod. Ich habe fünf Stative anhand von Herstellerdaten und Besitzerberichten aus r/canon, von B&H und aus dem DPReview-Forum auf die V1 abgestimmt.
 
 ## PowerShot V1 Stative im Vergleich mit einer 426-g-Kamera
 

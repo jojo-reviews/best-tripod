@@ -373,9 +373,11 @@ related:
   - ball-head-sags-after-tightening
 ---
 
+The best gimbal head for 150-600mm lens setups, in my view, is a light full gimbal such as the [ProMediaGear GKJr. Katana Junior Gimbal Head](amzn:ProMediaGear+GKJr+Katana+Junior+Gimbal+Head). I like it because this tripod head pivots the zoom at its center of gravity, so the lens floats weightless instead of nodding forward like it does on a ball head, and it weighs only 2.4 lb.
+
 I have been shooting since 2017, and wildlife is one of the genres I work in, with a 200-600mm lens. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so the question here is one I care about: what should hold a long zoom once a ball head stops being the right tool?
 
-The best gimbal head for 150-600mm lens setups, in my view, is a light full gimbal such as the [ProMediaGear GKJr. Katana Junior Gimbal Head](amzn:ProMediaGear+GKJr+Katana+Junior+Gimbal+Head). I like it because this tripod head pivots the zoom at its center of gravity, so the lens floats weightless instead of nodding forward like it does on a ball head, and it weighs only 2.4 lb. I'd pick the Wimberley WH-200 if a big prime may follow, the Fotopro E-6H if size matters most, or the Wimberley Sidekick if you already own a strong ball head.
+I'd pick the Wimberley WH-200 if a big prime may follow, the Fotopro E-6H if size matters most, or the Wimberley Sidekick if you already own a strong ball head.
 
 ## What a Gimbal Head for a 150-600mm Lens Must Do
 

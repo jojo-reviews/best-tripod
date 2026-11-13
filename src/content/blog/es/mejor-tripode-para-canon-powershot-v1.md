@@ -406,7 +406,7 @@ sources:
   - title: 'r/canon: Canon PowerShot V1 tripod plate?'
     url: >-
       https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/
-reviewedDate: '2026-11-03T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: ¿La Canon PowerShot V1 tiene rosca para trípode?
     a: >-
@@ -472,7 +472,7 @@ heroAlt: >-
   de compra de Best Tripod
 ---
 
-El mejor trípode para Canon PowerShot V1 es la propia [empuñadura para trípode HG-100TBR](amzn:B07Z5LZ92N) de Canon si haces vlogs, porque Canon da la V1 como compatible y el mando incluido empieza a grabar desde el mango. Para el escritorio, a una cámara de 426 g le basta un Manfrotto PIXI Mini o un PIXI EVO; para tomas de pie, el Peak Design Travel Tripod. Emparejé cinco trípodes con la V1 a partir de las fichas de los fabricantes y de lo que cuentan los usuarios en r/canon, B&H y el foro de DPReview; nosotros no los hemos usado.
+El mejor trípode para Canon PowerShot V1 es la propia [empuñadura para trípode HG-100TBR](amzn:B07Z5LZ92N) de Canon si haces vlogs, porque Canon da la V1 como compatible y el mando incluido empieza a grabar desde el mango. Para el escritorio, a una cámara de 426 g le basta un Manfrotto PIXI Mini o un PIXI EVO; para tomas de pie, el Peak Design Travel Tripod. Emparejé cinco trípodes con la V1 a partir de las fichas de los fabricantes y de lo que cuentan los usuarios en r/canon, B&H y el foro de DPReview.
 
 ## Trípodes para la PowerShot V1 comparados con una cámara de 426 g
 

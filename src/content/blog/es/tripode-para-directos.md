@@ -495,7 +495,7 @@ sources:
   - title: 'r/whatnotapp: What do you use for phone stand/lighting?'
     url: >-
       https://www.reddit.com/r/whatnotapp/comments/14bt5l6/what_do_you_use_for_phone_standlighting_iphone14/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode para hacer directos con el móvil?
@@ -559,7 +559,7 @@ heroAlt: >-
   Best Tripod
 ---
 
-El mejor trípode para directos es el que mantiene tu móvil o tu cámara a la altura de tus ojos durante todo el directo sin que se desplace. Para un directo con el móvil que presentas de pie, elijo el [trípode UBeesize 67 inch](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); en el escritorio, el [Manfrotto PIXI con pinza](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); y para un directo con cámara y plano cenital del producto, el [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Asigné seis trípodes a distintos montajes de directo a partir de las especificaciones de los fabricantes y de opiniones de propietarios; no los hemos usado ni probado nosotros.
+El mejor trípode para directos es el que mantiene tu móvil o tu cámara a la altura de tus ojos durante todo el directo sin que se desplace. Para un directo con el móvil que presentas de pie, elijo el [trípode UBeesize 67 inch](amzn:UBeesize+67+inch+camera+tripod+with+travel+bag+bluetooth+remote); en el escritorio, el [Manfrotto PIXI con pinza](amzn:Manfrotto+Mini+Tripod+with+Universal+Smartphone+Clamp+MKPIXICLMII-BK); y para un directo con cámara y plano cenital del producto, el [Vanguard Alta Pro 2+ 263AB G2](amzn:Vanguard+Alta+Pro+263AB+G2). Asigné seis trípodes a distintos montajes de directo a partir de las especificaciones de los fabricantes y de opiniones de propietarios.
 
 ## Altura del trípode para directos: ¿llega a tus ojos?
 

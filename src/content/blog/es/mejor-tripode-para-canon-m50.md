@@ -358,7 +358,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/
 - title: 'r/canon: Best tripod under $100 for a Canon M50'
   url: https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: ¿Cuál es el mejor trípode para la Canon M50?
@@ -414,7 +414,7 @@ heroAlt: Mejor trípode para Canon M50 – 5 opciones para vlogs, viajes y fotos
   de compra de Best Tripod
 ---
 
-El mejor trípode para Canon M50 es el [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), un trípode de viaje de 1,22 kg (2.7 lb) que se pliega a 33 cm (13 in) y panea con su propio bloqueo para vídeo. Una Canon EOS M50 Mark II con el objetivo de kit 15-45 mm pesa unos 517 g, así que elige por altura y por dónde disparas: el [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) para fotos a la altura de los ojos, el [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) para vlogs. He emparejado cinco trípodes con la Canon EOS M50 a partir de los datos del fabricante y de lo que cuentan sus usuarios; no los hemos usado nosotros.
+El mejor trípode para Canon M50 es el [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), un trípode de viaje de 1,22 kg (2.7 lb) que se pliega a 33 cm (13 in) y panea con su propio bloqueo para vídeo. Una Canon EOS M50 Mark II con el objetivo de kit 15-45 mm pesa unos 517 g, así que elige por altura y por dónde disparas: el [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) para fotos a la altura de los ojos, el [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) para vlogs. He emparejado cinco trípodes con la Canon EOS M50 a partir de los datos del fabricante y de lo que cuentan sus usuarios.
 
 ## Comparativa de trípodes para la Canon M50 por carga y altura
 

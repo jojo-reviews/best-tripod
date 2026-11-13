@@ -392,7 +392,9 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-I have been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my support kit today is carbon fiber tripods, ball heads and Arca-Swiss plates. Across the travel, landscape and wildlife work I shoot, the one thing I want from tripod legs is height I can actually use. So here is my short answer: the best tripod for tall photographers over 6 feet puts your viewfinder at eye level without a fully raised center column, and few spec sheets say whether a tall tripod can. I compared four tall tripods on spec tables, reviews and owner reports: the [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) for heavy lenses, the [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) for sheer height, and two light 74 inch budget models for photo and video. Every figure is a maker, retailer or reviewer number.
+The best tripod for tall photographers over 6 feet puts your viewfinder at eye level without a fully raised center column, and few spec sheets say whether a tall tripod can.
+
+I have been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my support kit today is carbon fiber tripods, ball heads and Arca-Swiss plates. Across the travel, landscape and wildlife work I shoot, the one thing I want from tripod legs is height I can actually use. I compared four tall tripods on spec tables, reviews and owner reports: the [Manfrotto MT055XPRO3](amzn:Manfrotto+MT055XPRO3+tripod) for heavy lenses, the [K&F Concept 90 inch Tripod](amzn:K&F+Concept+90+inch+tripod+overhead+monopod) for sheer height, and two light 74 inch budget models for photo and video. Every figure is a maker, retailer or reviewer number.
 
 ## Best Tripod for Tall Photographers: Quick Picks
 

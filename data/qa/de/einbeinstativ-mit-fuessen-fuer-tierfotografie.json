@@ -3,18 +3,15 @@
   "lang": "de",
   "translationOf": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-08T12:00:55.969Z",
+  "checkedAt": "2026-11-13T19:30:40.025Z",
   "errors": [],
   "warnings": [
-    "internal link to the English post /blog/best-monopod-for-hiking/; link the de version once it exists",
-    "source didn't respond normally (403): https://www.adorama.com/vgam264tr.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1778617-REG/neewer_66601445_extendable_camera_monopod_stand.html",
-    "source didn't respond normally (403): https://www.sony.co.th/en/electronics/camera-lenses/sel200600g/specifications"
+    "internal link to the English post /blog/best-monopod-for-hiking/; link the de version once it exists"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-monopod-with-feet-for-wildlife-photography: same 3 products/ASINs/scores/spec keys, all specs converted metric first (8 kg/17.6 lb, 181 cm/71 in, 69 cm/27.2 in, 1,27 kg, 55 cm, 163 cm, 890 g, 6 kg vs Vanguard UK 15 kg, 0,6 kg, 168 cm, 52 cm, 5 kg, Sony 2.115 g), same FAQ answers, story block translated, no testing/ownership claims, no prices, no local store/availability claims (US out-of-stock note kept as US-specific). Local facts re-opened: BNatSchG para 44 (gesetze-im-internet.de), Lufthansa 55x40x23 cm, NP Saechsische Schweiz Wegegebot; Vanguard 54,5 cm from Telescopiomania EU listing; Sony-Alpha-Forum quote verified verbatim.",
-    "at": "2026-11-08T11:29:30.351Z",
-    "hash": "b95d7785b063d746"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:39.244Z",
+    "hash": "19da19c89f8866c7"
   }
 }

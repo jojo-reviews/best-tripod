@@ -408,7 +408,7 @@ sources:
   - title: 'Reddit r/Hunting: Furthest distance for a tripod shot'
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
-reviewedDate: '2026-11-08T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode de tiro para esperas nocturnas con térmico?
@@ -472,7 +472,7 @@ heroAlt: >-
   de compra de Best Tripod
 ---
 
-**El trípode de tiro para esperas nocturnas sujeta el rifle sin manos a la altura desde la que tiras, y en muchas esperas eso significa de pie.** Mi elección es el [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): patas de carbono de 42,5 mm, 68 kg (150 lb) de carga y 182 cm (71.5 in) solo con las patas. Quien caza con térmico y quiere patas invertidas debería mirar el Warrior Commander, y el SLIK Pro 700 DX es la base económica. He comparado estos cinco con las fichas de los fabricantes y las opiniones de usuarios de foros estadounidenses de caza de predadores, donde se usan sobre todo para el coyote; no los he usado yo. Fatboy y Warrior se venden sobre todo en Estados Unidos, mientras que Vortex y BOG están en tiendas europeas. Para el puesto de corzo o venado, mira mis [trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
+**El trípode de tiro para esperas nocturnas sujeta el rifle sin manos a la altura desde la que tiras, y en muchas esperas eso significa de pie.** Mi elección es el [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): patas de carbono de 42,5 mm, 68 kg (150 lb) de carga y 182 cm (71.5 in) solo con las patas. Quien caza con térmico y quiere patas invertidas debería mirar el Warrior Commander, y el SLIK Pro 700 DX es la base económica. He comparado estos cinco con las fichas de los fabricantes y las opiniones de usuarios de foros estadounidenses de caza de predadores, donde se usan sobre todo para el coyote. Fatboy y Warrior se venden sobre todo en Estados Unidos, mientras que Vortex y BOG están en tiendas europeas. Para el puesto de corzo o venado, mira mis [trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
 
 ## Trípodes de tiro para esperas nocturnas comparados por altura, patas y peso
 

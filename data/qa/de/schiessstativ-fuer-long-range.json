@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with the English post best-rifle-tripod-for-long-range-shooting: same 5 products/ASINs/scores/spec keys, every spec converted metric-first with imperial matching the English figures (55 lb=25 kg, 150 lb=68 kg, 74 in=188 cm, 67.3 in=171 cm, 71.5 in=182 cm, 59.5 in=151 cm, 62 in=157 cm, 7.3 lb=3,3 kg, 16 lb=7,3 kg, 400 yd=366 m), FAQ answers match, no testing/ownership claim, no price/currency or local Amazon store. Personal angle only from data/author-stories.json facts (since 2017, carbon/ball head/Arca kit, 200-600mm). Local facts from the local brief re-opened: Destatis 1,79 m men (Mikrozensus 2025), all4shooters DE BOG test (2925 g, 78 cm packed, ~150 cm, PRS context, weight quote), LSEK Vortex 25 kg, Lufthansa 55x40x23 cm. Recoil number link dropped to plain text to keep 3 outside links (Leupold, NRL Hunter, Destatis).",
-    "at": "2026-11-12T15:39:58.712Z",
-    "hash": "2291274274cf76e0"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:21.041Z",
+    "hash": "1733fe7255ea086a"
   }
 }

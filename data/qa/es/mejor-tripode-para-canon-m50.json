@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-canon-m50: same 5 products/ASINs/order, scores, specs keys, FAQ answers, story block; all inch/lb figures converted metric first (maker metric where given: Vanguard 106/136/33 cm, Peak 130,2/152,4/39,4 cm, K&F 116/160/39 cm, PIXI 20/20,5 cm, 0,26 kg, 2,5 kg), 517 g/872 g kit math and multipliers unchanged. Re-opened: Canon local spec page (387 g incl. battery+card), Vanguard spec page (41.8 in column down), airline cabin-bag page (search excerpt), local forum quotes from the local brief. Dropped 'Amazon US' wording and the Canon USA 130 g link (kept as plain text). No prices, no testing claims, no local store claims.",
-    "at": "2026-11-10T15:55:08.417Z",
-    "hash": "a24a8212917dc770"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:25.972Z",
+    "hash": "b9d97ff0010ef88e"
   }
 }

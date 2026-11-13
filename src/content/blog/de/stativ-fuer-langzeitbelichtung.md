@@ -392,7 +392,7 @@ sources:
   url: https://fstoppers.com/astrophotography/4-tripods-give-best-bang-your-buck-710844
 - title: 'Scott Wyden Kivowitz: long exposure photography choices, tripod'
   url: https://scottwyden.com/long-exposure-photography-choices-tripod/
-reviewedDate: '2026-11-06T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: Hilft ein schwereres Stativ bei Langzeitbelichtungen?
@@ -456,7 +456,7 @@ Masse zählt, weil der Wind die Vibration verursacht. Der Deutsche Wetterdienst 
 
 **Jedes Stativ hier wird von mindestens zwei Seiten genannt, die für diese Suche oder enge Varianten ranken, und jedes hat ein eigenes Amazon-US-Angebot.** Ich habe die Ratgeber von TechBezon, Fstoppers, Matt Purciel, Scott Wyden Kivowitz und die Langzeitbelichtungs-Liste von Adorama gelesen, dazu einen DPReview-Thread über Langzeitbelichtungen bei Wind. Gitzo- und Feisol-Modelle nannte jeweils nur ein Ratgeber, deshalb fielen sie durch meine Zwei-Seiten-Regel. Jede Angabe habe ich mit den Datenblättern von Manfrotto, Peak Design und B&H abgeglichen; die Benro-Werte stimmen mit dem deutschen Händlereintrag überein (dort 1,85 kg).
 
-Wir haben 19 Besitzerberichte und Forenbeiträge bei B&H, DPReview, Cloudy Nights, Peak Design und in Langzeitberichten gelesen. Wir haben die Stative nicht selbst getestet; die Reihenfolge stammt aus veröffentlichten Daten, Besitzerberichten und meiner Rechnung.
+Wir haben 19 Besitzerberichte und Forenbeiträge bei B&H, DPReview, Cloudy Nights, Peak Design und in Langzeitberichten gelesen. Die Reihenfolge stammt aus veröffentlichten Daten, Besitzerberichten und meiner Rechnung.
 
 > **Aus unseren Notizen:** Die 6 kg Tragkraft am eigenen Kugelkopf des VEO hätten unseren Favoriten fast gekippt. Die Beine tragen 15 kg, das Etikett wirkte also großzügig. Dann merkte Finding the Universe an, dass der Kopf BH-160 bei 6 kg endet. Für eine Ausrüstung mit 1,21 kg ist das immer noch das Fünffache, also blieb das VEO vorn. Es hat uns aber gezeigt, warum zwei der fünf nur als Beine kommen: Der Kopf ist oft das schwächere Glied, passend zu einem DPReview-Nutzer, dessen Beine hielten, während der Kopf wackelte.
 

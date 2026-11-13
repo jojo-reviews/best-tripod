@@ -480,7 +480,7 @@ sources:
   - title: 'r/longrange: Help with shooting off a lightweight tripod'
     url: >-
       https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuánto peso debe aguantar un trípode de tiro para larga distancia?
@@ -550,7 +550,7 @@ heroAlt: >-
   compra de Best Tripod
 ---
 
-**El mejor trípode de tiro para larga distancia aguanta varias veces el peso de tu rifle, llega solo con las patas a la altura de las posiciones desde las que disparas y lleva arriba una pinza Arca-Swiss sólida.** Mi elección principal es el [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) de carga máxima, una rótula en la caja y de 21 a 171 cm (8.3 a 67.3 in) de altura. El Leupold Mark 5 CF-455 es el más alto, y el Fatboy Traverse 3 Section tiene las patas más rígidas. He comparado estos cinco con las fichas técnicas de los fabricantes y las opiniones de propietarios en foros de larga distancia, la mayoría estadounidenses; no los he usado yo mismo. Para puestos y rececho, mira mi [selección de trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
+**El mejor trípode de tiro para larga distancia aguanta varias veces el peso de tu rifle, llega solo con las patas a la altura de las posiciones desde las que disparas y lleva arriba una pinza Arca-Swiss sólida.** Mi elección principal es el [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): 25 kg (55 lb) de carga máxima, una rótula en la caja y de 21 a 171 cm (8.3 a 67.3 in) de altura. El Leupold Mark 5 CF-455 es el más alto, y el Fatboy Traverse 3 Section tiene las patas más rígidas. He comparado estos cinco con las fichas técnicas de los fabricantes y las opiniones de propietarios en foros de larga distancia, la mayoría estadounidenses. Para puestos y rececho, mira mi [selección de trípodes de caza por modalidad](/blog/best-tripod-for-hunting/).
 
 Hago fotos desde 2017, y mi equipo de soporte son trípodes de carbono, rótulas y placas Arca-Swiss, el mismo estándar de pinza que usan estas rótulas de tiro. Para fauna uso un objetivo 200-600 mm, y como un rifle es largo y cargado hacia delante sobre la rótula, así que leo primero la carga máxima y los datos de la pinza.
 

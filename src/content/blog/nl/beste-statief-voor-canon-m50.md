@@ -363,7 +363,7 @@ sources:
   url: https://www.reddit.com/r/AskPhotography/comments/c751pd/best_tripod_for_my_canon_eos_m50/
 - title: 'r/canon: Best tripod under $100 for a Canon M50'
   url: https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
 - q: Wat is het beste statief voor de Canon M50?
@@ -419,7 +419,7 @@ heroAlt: Beste statief voor Canon M50 – 5 keuzes voor vlogs, reizen en foto's 
   van Best Tripod
 ---
 
-Het beste statief voor Canon M50 bezitters is de [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), een reisstatief van 1,22 kg (2.7 lb) dat inklapt tot 33 cm (13 in) en voor video met een eigen vergrendeling pant. Een Canon EOS M50 Mark II met de 15-45 mm kitlens weegt ongeveer 517 g, dus kies op hoogte en op waar je fotografeert: het [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) voor foto's op ooghoogte, de [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) voor vlogs. Ik heb vijf statieven op de Canon EOS M50 afgestemd op basis van fabrikantgegevens en ervaringen van bezitters; we hebben ze zelf niet gebruikt.
+Het beste statief voor Canon M50 bezitters is de [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), een reisstatief van 1,22 kg (2.7 lb) dat inklapt tot 33 cm (13 in) en voor video met een eigen vergrendeling pant. Een Canon EOS M50 Mark II met de 15-45 mm kitlens weegt ongeveer 517 g, dus kies op hoogte en op waar je fotografeert: het [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) voor foto's op ooghoogte, de [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) voor vlogs. Ik heb vijf statieven op de Canon EOS M50 afgestemd op basis van fabrikantgegevens en ervaringen van bezitters.
 
 ## Canon M50 statieven vergeleken op draagvermogen en hoogte
 

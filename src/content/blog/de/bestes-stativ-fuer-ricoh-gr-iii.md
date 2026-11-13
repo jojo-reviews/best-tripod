@@ -439,7 +439,7 @@ sources:
   - title: 'r/ricohGR: How often do you shoot using a tripod?'
     url: >-
       https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für eine Ricoh GR III?
@@ -501,7 +501,7 @@ heroAlt: >-
   Kaufberatung von Best Tripod
 ---
 
-Eine Ricoh GR III steckt in der Jackentasche, also muss auch ihr Stativ klein genug sein, um jeden Tag mitzukommen. Das beste Stativ für Ricoh GR III Besitzer ist für Streetfotografie und Nachtspaziergänge deshalb meist ein Ministativ. Für die meisten ist das das [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); für Langzeitbelichtungen auf Stehhöhe ist es das [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben und Threads von GR-Besitzern auf r/ricohGR, DPReview, FM Forums und PentaxForums auf die Kamera abgestimmt. Alle fünf wiegen unter 0,9 kg (2 lb), und ich habe diese Stative nicht selbst benutzt.
+Eine Ricoh GR III steckt in der Jackentasche, also muss auch ihr Stativ klein genug sein, um jeden Tag mitzukommen. Das beste Stativ für Ricoh GR III Besitzer ist für Streetfotografie und Nachtspaziergänge deshalb meist ein Ministativ. Für die meisten ist das das [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); für Langzeitbelichtungen auf Stehhöhe ist es das [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben und Threads von GR-Besitzern auf r/ricohGR, DPReview, FM Forums und PentaxForums auf die Kamera abgestimmt. Alle fünf wiegen unter 0,9 kg (2 lb).
 
 ## Stative für die Ricoh GR III im Vergleich mit der 257-g-Kamera
 

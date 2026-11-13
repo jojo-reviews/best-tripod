@@ -439,7 +439,7 @@ sources:
   - title: 'Scott Tucker: must-have accessories for the Nikon Zf'
     url: >-
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Stativ für die Nikon Zf?
@@ -511,7 +511,7 @@ heroAlt: >-
   Kaufberatung von Best Tripod
 ---
 
-Blaue Stunde auf einer Stadtbrücke, eine Nikon Zf mit dem 24-70mm f/4 und eine Belichtung von 2 Sekunden, die du nicht aus der Hand halten kannst. Das beste Stativ für Nikon Zf Besitzer ist für die meisten das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); wer im Wind lange belichtet, dem empfehle ich ein [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) ohne Mittelsäule. Ich habe fünf Stative anhand von Herstellerangaben und Threads von Zf-Besitzern auf die Zf und ihre üblichen Objektive abgestimmt. Wir haben diese Stative nicht selbst benutzt.
+Blaue Stunde auf einer Stadtbrücke, eine Nikon Zf mit dem 24-70mm f/4 und eine Belichtung von 2 Sekunden, die du nicht aus der Hand halten kannst. Das beste Stativ für Nikon Zf Besitzer ist für die meisten das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); wer im Wind lange belichtet, dem empfehle ich ein [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) ohne Mittelsäule. Ich habe fünf Stative anhand von Herstellerangaben und Threads von Zf-Besitzern auf die Zf und ihre üblichen Objektive abgestimmt.
 
 ## Stative für die Nikon Zf im Vergleich: Höhe, Packmaß und Tragkraft
 

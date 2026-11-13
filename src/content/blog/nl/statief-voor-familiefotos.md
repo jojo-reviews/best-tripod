@@ -449,7 +449,7 @@ sources:
   - title: 'r/AskPhotography: Tips for family photos on tripod?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
-reviewedDate: '2026-11-02'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Wat is het beste statief voor familiefoto's?
@@ -524,7 +524,7 @@ related:
 heroImage: /images/featured/best-tripod-for-family-photos.png
 ---
 
-De kerstfoto staat klaar, iedereen is netjes aangekleed, en weer ontbreekt degene die de camera vasthoudt. Het beste statief voor familiefoto's is voor de meeste mensen de [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), omdat hij de lens met de middenkolom omlaag dicht bij de ooghoogte van een volwassene brengt. Moet het statief mee op reis, dan zou ik de [Manfrotto Befree Advanced](amzn:B0772WLSHZ) nemen. Ik heb vijf statieven gekoppeld aan de plekken waar gezinnen hun foto's maken, op basis van fabrieksspecificaties en ervaringen van eigenaren. We hebben deze statieven niet zelf gebruikt.
+De kerstfoto staat klaar, iedereen is netjes aangekleed, en weer ontbreekt degene die de camera vasthoudt. Het beste statief voor familiefoto's is voor de meeste mensen de [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:B010BOA6V2), omdat hij de lens met de middenkolom omlaag dicht bij de ooghoogte van een volwassene brengt. Moet het statief mee op reis, dan zou ik de [Manfrotto Befree Advanced](amzn:B0772WLSHZ) nemen. Ik heb vijf statieven gekoppeld aan de plekken waar gezinnen hun foto's maken, op basis van fabrieksspecificaties en ervaringen van eigenaren.
 
 ## Statieven voor familiefoto's vergeleken met de kolom omlaag
 

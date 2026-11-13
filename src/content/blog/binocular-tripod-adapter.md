@@ -285,9 +285,9 @@ heroAlt: >-
   Best Tripod guide
 ---
 
-I have been shooting since 2017, and wildlife is one of the genres I shoot, with a 200-600mm lens on carbon fiber tripods, ball heads and Arca-Swiss plates. So when I look at a binocular tripod adapter, my first question is whether it will lock onto the same Arca-Swiss clamp I already trust. Here is the short answer.
-
 A binocular tripod adapter cuts hand shake on long glassing sessions, and for many hunters and birders it can replace a spotting scope (stargazers comparing stands can start with our [telescope tripod picks](/blog/best-tripod-for-telescope/)). **Check for a threaded socket under the front hinge cap first, because that decides between a stud adapter and a clamp.** For a threaded binocular, the [FANAUE S1](amzn:FANAUE+binocular+tripod+adapter+quick+release+S1) is the locking stud pick; for a binocular with no thread, the [Aziak Bino Clamp](amzn:Aziak+Bino+Clamp+binocular+tripod+adapter) is the pick.
+
+I have been shooting since 2017, and wildlife is one of the genres I shoot, with a 200-600mm lens on carbon fiber tripods, ball heads and Arca-Swiss plates. So when I look at a binocular tripod adapter, my first question is whether it will lock onto the same Arca-Swiss clamp I already trust.
 
 ## Check your binocular before buying a tripod adapter: socket or no socket
 

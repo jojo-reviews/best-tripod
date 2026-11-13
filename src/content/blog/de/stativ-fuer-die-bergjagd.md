@@ -388,7 +388,7 @@ sources:
       https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html
   - title: 'Rokslide: ultralight tripods reviewed'
     url: 'https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/'
-reviewedDate: '2026-11-01T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Welches Stativ ist das beste für die Bergjagd?
     a: >-
@@ -462,7 +462,7 @@ heroAlt: >-
   Kaufberatung
 ---
 
-**Das beste Stativ für die Bergjagd ist das leichteste, das deine Optik in der Höhe ruhig hält, aus der du abglast.** Für die meisten Rucksackjäger ist das das [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) Packmaß und 10 kg (22 lb) Tragkraft. Wer im Stehen beobachtet, sollte nach meiner Einschätzung lieber das höhere Vortex Ridgeview Carbon tragen und das längere Paket in Kauf nehmen. Ich habe fünf Stative anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus Jagdforen verglichen; ich habe diese Stative nicht selbst benutzt. Für Ansitz und Kanzel siehe unsere [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
+**Das beste Stativ für die Bergjagd ist das leichteste, das deine Optik in der Höhe ruhig hält, aus der du abglast.** Für die meisten Rucksackjäger ist das das [Vortex Summit Carbon II](amzn:B08SC6FGTF): 1,13 kg (2.5 lb), 46 cm (18.1 in) Packmaß und 10 kg (22 lb) Tragkraft. Wer im Stehen beobachtet, sollte nach meiner Einschätzung lieber das höhere Vortex Ridgeview Carbon tragen und das längere Paket in Kauf nehmen. Ich habe fünf Stative anhand der Datenblätter der Hersteller und der Berichte von Besitzern aus Jagdforen verglichen. Für Ansitz und Kanzel siehe unsere [Jagdstative nach Jagdart](/blog/best-tripod-for-hunting/).
 
 ## Stative für die Bergjagd im Vergleich nach Gewicht, Höhe und Packmaß
 

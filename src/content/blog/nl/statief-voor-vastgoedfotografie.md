@@ -530,7 +530,7 @@ sources:
       https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx
   - title: 'Aryeo: best tripods for real estate photography'
     url: 'https://blog.aryeo.com/best-tripods-for-real-estate-photography/'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Hoe hoog moet een statief zijn voor woningfoto's?
@@ -572,7 +572,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-Het beste statief voor vastgoedfotografie is niet het hoogste of het lichtste, maar het statief dat een waterpas gezette camera doodstil houdt tijdens elke HDR-belichtingsreeks en waarmee je verticalen in een paar seconden rechtzet. We hielden alleen de statieven en koppen over die minstens twee goed scorende gidsen aanraden, en controleerden daarna elke specificatie met fabriekspagina's en ervaringen van eigenaren. Zo bleven vijf statieven en twee tandwielkoppen over, met de [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO) voorop. We hebben deze producten niet zelf gebruikt, dus elk getal hieronder is een opgave van de fabrikant of het verslag van een recensent, en we zeggen erbij welke.
+Het beste statief voor vastgoedfotografie is niet het hoogste of het lichtste, maar het statief dat een waterpas gezette camera doodstil houdt tijdens elke HDR-belichtingsreeks en waarmee je verticalen in een paar seconden rechtzet. We hielden alleen de statieven en koppen over die minstens twee goed scorende gidsen aanraden, en controleerden daarna elke specificatie met fabriekspagina's en ervaringen van eigenaren. Zo bleven vijf statieven en twee tandwielkoppen over, met de [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO) voorop. Elk getal hieronder is een opgave van de fabrikant of het verslag van een recensent, en we zeggen erbij welke.
 
 ## Statief voor vastgoedfotografie: de snelle keuzes
 

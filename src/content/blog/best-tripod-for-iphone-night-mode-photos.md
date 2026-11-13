@@ -344,7 +344,9 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-I have been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my landscape work sits on carbon fiber tripods with ball heads. A phone after dark needs the same stillness. My short answer: the best tripod for iPhone Night mode photos keeps the phone perfectly still for the several seconds it gathers light, and lets you start the shot without touching the screen. Apple suggests a tripod for better stability and says Night mode works on [iPhone 11 and later](https://support.apple.com/en-us/102519). I compared three small tripods the top iPhone guides recommend, using maker specs and owner reviews. A long exposure lasting seconds blurs at the slightest touch, so every pick holds the phone low and firm, like the clamp-ready PIXI I also chose in my [mini desk tripod roundup](/blog/best-mini-tripod-for-desk-video-calls/).
+The best tripod for iPhone Night mode photos keeps the phone perfectly still for the several seconds it gathers light, and lets you start the shot without touching the screen. Apple suggests a tripod for better stability and says Night mode works on [iPhone 11 and later](https://support.apple.com/en-us/102519).
+
+I have been shooting since 2017, ever since a solo road trip across the United States got me into photography, and my landscape work sits on carbon fiber tripods with ball heads. A phone after dark needs the same stillness. I compared three small tripods the top iPhone guides recommend, using maker specs and owner reviews. A long exposure lasting seconds blurs at the slightest touch, so every pick holds the phone low and firm, like the clamp-ready PIXI I also chose in my [mini desk tripod roundup](/blog/best-mini-tripod-for-desk-video-calls/).
 
 ## Tripod for iPhone Night Mode Photos: Comparison Table
 

@@ -3,22 +3,19 @@
   "lang": "es",
   "translationOf": "best-tripod-dolly",
   "pass": true,
-  "checkedAt": "2026-11-06T16:00:02.946Z",
+  "checkedAt": "2026-11-13T19:30:42.565Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: https://wiki.ezvid.com/best-tripod-dollies, https://alternative.me/tripod-dollies; missing: none)",
     "internal link to the English post /blog/best-tripod-for-filming-sports/; link the es version once it exists",
     "internal link to the English post /blog/video-tripod-bowl-size-explained-75mm-vs-100mm/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF31.118_heavy-duty-tripod-dolly-44lbs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/553954-REG/Manfrotto_114_114_Heavy_Duty_Cine_Video.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-dolly: all 6 products, ASINs, scores, spec keys and values (metric first with decimal comma, imperial in brackets; maker metric figures for SmallRig, Manfrotto, Proaim, K&F), FAQ answers and owner notes match the English post; no testing/ownership claim (only negated 'no los hemos probado'), no prices/currency, no local Amazon store. Local facts from data/briefs/es/best-tripod-dolly.local.json: Ajuntament de Barcelona via publica permit (tripod needs permit; basic permit max. one tripod, 10 people, no vehicles/drones; seuelectronica search excerpt), madrid.es Madrid Film Office page (Negociado de Autorizaciones de Rodaje), iberia.com equipaje de mano 56 x 40 x 25 cm; Spanish amazon.es owner quotes verified verbatim on the NEEWER page (RJ6FX4H565GZ8, R1QNA3QQDABBLA). Glide Gear SYL 960 unknown for EU: neutral 'se vende sobre todo en Estados Unidos'. B&H footprint link made plain text to keep max 3 outside links.",
-    "at": "2026-11-04T16:35:59.149Z",
-    "hash": "a690303eeb0402fd"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:41.829Z",
+    "hash": "2b5c318d852e811a"
   }
 }

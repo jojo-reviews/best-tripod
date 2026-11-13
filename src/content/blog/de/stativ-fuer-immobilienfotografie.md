@@ -529,7 +529,7 @@ sources:
       https://www.the-digital-picture.com/Reviews/Manfrotto-MT190XPRO4-Tripod.aspx
   - title: 'Aryeo: best tripods for real estate photography'
     url: 'https://blog.aryeo.com/best-tripods-for-real-estate-photography/'
-reviewedDate: '2026-10-30T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Wie hoch sollte ein Stativ für Immobilienfotos sein?
@@ -572,7 +572,7 @@ heroAlt: >-
   Tripod Kaufberatung
 ---
 
-Das beste Stativ für Immobilienfotografie ist nicht das höchste oder das leichteste, sondern das, das eine waagerecht ausgerichtete Kamera durch jede HDR-Belichtungsreihe absolut ruhig hält und dich Vertikalen in Sekunden geraderücken lässt. Wir haben nur die Stative und Köpfe behalten, die mindestens zwei gut platzierte Ratgeber empfehlen, und dann jede Angabe mit Herstellerseiten und Berichten von Besitzern abgeglichen. Übrig blieben fünf Stative und zwei Getriebeneiger, angeführt vom [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO). Wir haben diese Produkte nicht selbst benutzt, jede Zahl unten ist also eine Herstellerangabe oder der Bericht eines Rezensenten, und wir sagen jeweils, welches von beiden.
+Das beste Stativ für Immobilienfotografie ist nicht das höchste oder das leichteste, sondern das, das eine waagerecht ausgerichtete Kamera durch jede HDR-Belichtungsreihe absolut ruhig hält und dich Vertikalen in Sekunden geraderücken lässt. Wir haben nur die Stative und Köpfe behalten, die mindestens zwei gut platzierte Ratgeber empfehlen, und dann jede Angabe mit Herstellerseiten und Berichten von Besitzern abgeglichen. Übrig blieben fünf Stative und zwei Getriebeneiger, angeführt vom [Manfrotto 290 Xtra Tripod Kit with 3-Way Head](amzn:B013JS87KO). Jede Zahl unten ist eine Herstellerangabe oder der Bericht eines Rezensenten, und wir sagen jeweils, welches von beiden.
 
 ## Stativ für Immobilienfotografie: die Empfehlungen auf einen Blick
 

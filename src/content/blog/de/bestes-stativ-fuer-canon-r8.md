@@ -444,7 +444,7 @@ sources:
       https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/
   - title: 'RF Shooters: Tripod shake or building shake'
     url: 'https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/'
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches Stativ ist das beste für die Canon R8?
@@ -505,7 +505,7 @@ heroAlt: >-
   Kaufberatung von Best Tripod
 ---
 
-Eine 20-Sekunden-Belichtung am Ufer in der Dämmerung, weich, weil dünne Beine gesummt haben. Das beste Stativ für Canon R8 Besitzer hängt von Objektiv und Wind ab, nicht von der Kamera: Für Reisen ist es das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), für Langzeitbelichtungen bei Wind das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben und Threads von Besitzern echten R8-Kombinationen zugeordnet; wir haben sie nicht selbst benutzt.
+Eine 20-Sekunden-Belichtung am Ufer in der Dämmerung, weich, weil dünne Beine gesummt haben. Das beste Stativ für Canon R8 Besitzer hängt von Objektiv und Wind ab, nicht von der Kamera: Für Reisen ist es das [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), für Langzeitbelichtungen bei Wind das säulenlose [Leofoto LS-284CX Set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). Ich habe fünf Stative anhand von Herstellerangaben und Threads von Besitzern echten R8-Kombinationen zugeordnet.
 
 ## Canon R8 Stative im Vergleich nach Gewicht, Höhe und Tragkraft
 

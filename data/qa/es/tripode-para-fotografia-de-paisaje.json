@@ -19,8 +19,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with landscape-photography-tripod: same 5 products, ASINs, scores, specs keys, owners and FAQ answers; conversions checked (in->cm, lb->kg, maker metric: Peak 130,2/152,4/39,4 cm, Befree 128/151/40 cm 9 kg, MT190 135/160/59 cm 2 kg 15 kg, Feisol 147/190/52 cm 1,78 kg 30 kg). Local facts re-opened: Alhambra Patronato no tripod/monopod/stabiliser (alhambra-patronato.es), Teide professional photography authorisation (gobiernodecanarias.org), Iberia Express cabin bag 10 kg 56x40x25 cm (iberiaexpress.com), Befree EU code MKBFRLA4BK-BH, Feisol Europe CT-3472 M2 1,81 kg; Nikonistas quotes verbatim. Vanguard Gen 2 noted as offered mainly on US pages. No testing/ownership claims, no prices/currency, no local Amazon store; research-not-testing sentence present.",
-    "at": "2026-11-01T17:56:41.347Z",
-    "hash": "6f4574a59437e097"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:29.008Z",
+    "hash": "abc247eebd280f0d"
   }
 }

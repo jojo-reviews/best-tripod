@@ -410,7 +410,7 @@ sources:
   - title: 'r/photography: Looking to get more photos of myself'
     url: >-
       https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: Welches ist das beste Reisestativ für iPhone?
@@ -486,7 +486,7 @@ illustrations:
 heroImage: /images/featured/best-tripod-for-iphone-travel.png
 ---
 
-Das beste Reisestativ für iPhone faltet sich so klein, dass es jeden Tag mitkommt, hält dein iPhone samt Hülle und hebt es auf die Höhe, die dein Foto braucht. Für die meisten Reisenden würde ich das [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip) nehmen. Es wiegt 422 g, faltet sich auf etwa 32,5 cm (12.7 in) und steht 146,5 cm (57.6 in) hoch, so passt ein Paarfoto auf Brust- oder Augenhöhe in einen leichten Tagesrucksack. Ein Pro Max in dicker Hülle, ein Set nur für die Hosentasche oder eine Reise mit spiegelloser Kamera führen jeweils zu einem anderen Stativ weiter unten. Ich habe diese Stative nicht selbst benutzt; jede Zahl stammt von einer Hersteller- oder Händlerseite oder aus einem Besitzerbericht. Die Tipps aus meinem [Ratgeber zum Stativ für den Nachtmodus des iPhones](/blog/best-tripod-for-iphone-night-mode-photos/) gelten auch für wenig Licht unterwegs.
+Das beste Reisestativ für iPhone faltet sich so klein, dass es jeden Tag mitkommt, hält dein iPhone samt Hülle und hebt es auf die Höhe, die dein Foto braucht. Für die meisten Reisenden würde ich das [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip) nehmen. Es wiegt 422 g, faltet sich auf etwa 32,5 cm (12.7 in) und steht 146,5 cm (57.6 in) hoch, so passt ein Paarfoto auf Brust- oder Augenhöhe in einen leichten Tagesrucksack. Ein Pro Max in dicker Hülle, ein Set nur für die Hosentasche oder eine Reise mit spiegelloser Kamera führen jeweils zu einem anderen Stativ weiter unten. Jede Zahl stammt von einer Hersteller- oder Händlerseite oder aus einem Besitzerbericht. Die Tipps aus meinem [Ratgeber zum Stativ für den Nachtmodus des iPhones](/blog/best-tripod-for-iphone-night-mode-photos/) gelten auch für wenig Licht unterwegs.
 
 ## Reisestative fürs iPhone im Vergleich: Packmaß, Gewicht und Höhe
 
@@ -522,7 +522,7 @@ Mir gefällt die Reichweite fürs Gewicht: Kein anderes reines Handystativ hier 
 
 Das [Peak Design Mobile Tripod](amzn:Peak+Design+Mobile+Tripod+MagSafe) ist ein Handystativ aus gefrästem Aluminium von Peak Design, das per MagSafe-kompatiblen Magneten hinten am iPhone haftet. Es wiegt 76 g, misst gepackt etwa 9,7 x 5,5 cm und ist etwa einen halben Zentimeter dick, mit Mini-Kugelkopf und den Modi Stativ, Ständer und Griff. Peak Design sagt, es braucht eine seiner Hüllen oder seinen Universal Adapter, oder ein MagSafe-Handy bzw. eine MagSafe-Hülle.
 
-Ich habe es gewählt, weil es das einzige Stativ ist, das du nie im Hotel vergisst. Auf r/peakdesign mögen Besitzer die Größe, sagen aber, dass diese Magnethalterung loslassen kann, wenn das Handy weit nach hinten kippt. Ich nutze es für Tische, Ablagen und Selbstauslöser, nicht über Abgründen.
+Ich habe es gewählt, weil es das einzige Stativ ist, das du nie im Hotel vergisst. Auf r/peakdesign mögen Besitzer die Größe, sagen aber, dass diese Magnethalterung loslassen kann, wenn das Handy weit nach hinten kippt. Ich würde es für Tische, Ablagen und Selbstauslöser einplanen, nicht über Abgründen.
 
 ### Manfrotto PIXI Mini Tripod with Universal Smartphone Clamp (MKPIXICLMII-BK): das beste Mini-Stativ fürs iPhone auf Reisen
 

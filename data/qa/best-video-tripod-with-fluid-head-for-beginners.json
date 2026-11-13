@@ -1,11 +1,10 @@
 {
   "slug": "best-video-tripod-with-fluid-head-for-beginners",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:42.743Z",
+  "checkedAt": "2026-11-13T19:29:37.070Z",
   "errors": [],
   "warnings": [
     "body has 2050 words, over the 1840 limit (top results average 1600): cut repetition and filler",
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto 290 Xtra Aluminum 3-Section Tripod Kit with Fluid Video Head (MK290XTA3-2WUS)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:13.015Z",
-    "hash": "ad4566b467e6f73d"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:29:36.499Z",
+    "hash": "9bd2c0a6395fc17a"
   }
 }

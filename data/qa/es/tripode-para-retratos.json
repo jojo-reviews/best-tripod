@@ -3,23 +3,18 @@
   "lang": "es",
   "translationOf": "best-tripod-for-headshots",
   "pass": true,
-  "checkedAt": "2026-11-04T18:15:04.239Z",
+  "checkedAt": "2026-11-13T19:30:38.025Z",
   "errors": [],
   "warnings": [
     "internal link to the English post /blog/ball-head-sags-after-tightening/; link the es version once it exists",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-height.3771895/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-headshots: same 5 products/ASINs, scores, spec keys, owners counts, FAQs and sources. Units metric-first with maker figures re-opened at feisol.eu, vanguardworld.co.uk/vanguardworld.es (148/174/77 cm), Manfrotto global pages. CDC averages replaced by Muy Interesante/NCD-RisC (1,76 m / 1,62 m) per local brief; Iberia 56x40x25 cm cabin bag added; eye-level math recomputed (17 cm head+camera, eye 10-13 cm below crown). Nikonistas quotes verified verbatim at the thread URL. Max 3 outside links (Iberia, Muy Interesante, Headshot Crew); Canon weight as plain text. No testing/ownership claims, no prices, no local Amazon store.",
-    "at": "2026-11-04T16:38:07.212Z",
-    "hash": "80ce6995b250a15a"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:37.266Z",
+    "hash": "a590fb50a98e0836"
   }
 }

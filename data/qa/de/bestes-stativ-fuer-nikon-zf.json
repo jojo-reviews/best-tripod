@@ -3,7 +3,7 @@
   "lang": "de",
   "translationOf": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-06T15:57:55.065Z",
+  "checkedAt": "2026-11-13T19:30:32.961Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: sources must be the English post's URLs (added: none; missing: https://www.nikonusa.com/p/z-fc/1671/overview)",
@@ -12,18 +12,12 @@
     "illustration \"Hände arretieren die Griffplatte einer s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Eine Hand prüft, ob eine Kamera auf eine\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.nikon-asia.com/nikkor-z-40mm-f-2-se",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-nikon-zf: all products/ASINs/scores/specs keys identical; unit conversions checked (39,4 cm=15.5 in, 130 cm=51.25 in, 133 cm=52.4 in, 127 cm=50 in, 114 cm=44.88 in, 56 cm=22 in, 47 cm=18.62 in, 1,56 kg=3.44 lb, 9,1 kg=20 lb, 12 kg, 10 kg=22 lb, 6 kg); FAQ answers match. Local facts from data/briefs/de/best-tripod-for-nikon-zf.local.json: Lufthansa 55x40x23 cm (lufthansa.com), Ryanair 40x30x20 cm, Koelner Dom Domordnung, SMB Benutzungsordnung, DWD Windstaerke 6; re-opened leofoto.net LS-284C/LS-224C (53 cm/47 cm, 0,91 kg, 6 kg/10 kg) and smallrig.com AP-10 (54-133 cm, 1,2 kg, 12 kg). Dropped 'Amazon US listing' wording; nikonusa pixel-shift link kept as plain attribution (3-link cap). No testing claims, prices or local store claims.",
-    "at": "2026-11-02T17:57:00.209Z",
-    "hash": "62efdc9d6c121c62"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:32.225Z",
+    "hash": "aba4d4796b679fdd"
   }
 }

@@ -519,9 +519,9 @@ related:
   - how-to-weigh-down-a-tripod-without-a-sandbag
 ---
 
-A solo road trip across the United States is what got me into photography, and I have been shooting since 2017, with landscape as one of my main genres. My landscape kit is simple: a Sony A7 IV, a G Master II 16-35mm, carbon fiber legs, a ball head and Arca-Swiss plates. That kit shapes what I look for in a tripod outdoors.
-
 A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. If you hike in with a mirrorless kit, my pick is the Peak Design Travel Tripod (Aluminum), 15.5 in folded with a built-in ball head; for ground-hugging foregrounds, the Manfrotto MT190XPRO3 drops to 3.54 in. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. I checked each spec against the maker's page and read what owners report. Every number is a maker's claim, a reviewer's figure or an owner report, and I say which.
+
+A solo road trip across the United States is what got me into photography, and I have been shooting since 2017, with landscape as one of my main genres. My landscape kit is simple: a Sony A7 IV, a G Master II 16-35mm, carbon fiber legs, a ball head and Arca-Swiss plates. That kit shapes what I look for in a tripod outdoors.
 
 ## Landscape Photography Tripod Picks at a Glance
 

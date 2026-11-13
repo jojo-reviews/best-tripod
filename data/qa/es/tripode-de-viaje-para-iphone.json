@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with the English post best-tripod-for-iphone-travel (QA pass): same 5 products/ASINs/scores/spec keys, same FAQ answers, all specs converted metric first with the maker metric figures (Ulanzi 146,5/32,5 cm, PIXI 13,5/18,5 cm, Peak Design 152,4/130,2/14/39,4 cm, 1,27 kg, 9,1 kg), no prices/currencies, no testing claims, research-not-testing sentence kept. Local facts from the local brief re-opened: Ryanair bag policy (40x30x20 cm personal bag, checked today), Calumet JOBY JB01492-0WW page (56-91 mm, 325 g max load), dslr-forum stativ-im-flugzeug thread, fujistas threads, tweakers 1417803/14 and smartzine quotes verified verbatim; airline cabin sizes and venue rules from the local brief sources. TSA kept as US-specific; Amazon US listing kept as US-specific.",
-    "at": "2026-11-11T15:39:37.351Z",
-    "hash": "ddf2b6d1e974b79f"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:23.896Z",
+    "hash": "8af35c656274597d"
   }
 }

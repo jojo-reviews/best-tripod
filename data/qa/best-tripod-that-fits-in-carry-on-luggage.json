@@ -1,11 +1,10 @@
 {
   "slug": "best-tripod-that-fits-in-carry-on-luggage",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:30.154Z",
+  "checkedAt": "2026-11-13T19:29:48.828Z",
   "errors": [],
   "warnings": [
     "body has 2958 words, over the 1725 limit (top results average 1500): cut repetition and filler",
-    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "says the products were not tested (\"I don't use it as a column-down figure\"); owner rule 2026-11-13: remove it (first-person-agent)",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"SIRUI Traveler 5C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:28.221Z",
-    "hash": "cb06421155af0143"
+    "notes": "intro order: answer first, story in paragraph 2",
+    "at": "2026-11-13T19:29:48.291Z",
+    "hash": "f30006cbc5e947f9"
   }
 }

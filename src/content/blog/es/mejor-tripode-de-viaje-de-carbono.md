@@ -558,7 +558,7 @@ sources:
   - title: 'DPReview forums: Lightest tripod for hiking?'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: ¿Cuál es el mejor trípode de viaje de carbono?
@@ -627,7 +627,7 @@ related:
 
 El mejor trípode de viaje de carbono para casi cualquier equipo es el [Peak Design Travel Tripod (Carbon Fiber)](amzn:B085BQTQMN): 1,3 kg (2.8 lb), 39,4 cm (15.5 in) plegado, 9,1 kg (20 lb) de carga y 130,2 cm (51.25 in) de altura antes de subir la columna. Si llevas una réflex o una full frame con un 70-200 mm, yo subiría al [kit Gitzo Traveler Series 1](amzn:B071F31XLR), que da 140,5 cm (55.3 in) con la columna bajada.
 
-La fotografía empezó para mí en un viaje en solitario por carretera a través de Estados Unidos, y desde 2017 hago fotografía de viaje y paisaje. Mi propio equipo de soporte son trípodes de carbono, rótulas de bola y placas Arca-Swiss, con una Sony A7 IV o una Canon EOS R6 Mark II y un zoom 16-35 mm o 24-70 mm. Estos seis modelos salen de fichas técnicas de los fabricantes, anuncios de tiendas e informes de dueños; no he usado estos seis trípodes yo mismo, así que digo de dónde viene cada cifra. ¿Solo usas mirrorless? Nuestra guía del [mejor trípode de viaje para cámara mirrorless](/es/blog/mejor-tripode-de-viaje-para-camara-mirrorless/) incluye también modelos de aluminio.
+La fotografía empezó para mí en un viaje en solitario por carretera a través de Estados Unidos, y desde 2017 hago fotografía de viaje y paisaje. Mi propio equipo de soporte son trípodes de carbono, rótulas de bola y placas Arca-Swiss, con una Sony A7 IV o una Canon EOS R6 Mark II y un zoom 16-35 mm o 24-70 mm. Estos seis modelos salen de fichas técnicas de los fabricantes, anuncios de tiendas e informes de dueños, y digo de dónde viene cada cifra. ¿Solo usas mirrorless? Nuestra guía del [mejor trípode de viaje para cámara mirrorless](/es/blog/mejor-tripode-de-viaje-para-camara-mirrorless/) incluye también modelos de aluminio.
 
 ## Comparativa de trípodes de viaje de carbono por peso, plegado, altura y carga
 

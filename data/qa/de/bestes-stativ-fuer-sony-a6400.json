@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Compared section by section with best-tripod-for-sony-a6400: same 6 products/ASINs/order, all specs converted metric-first (maker metric figures from the local brief: Befree 128/151/40 cm, 1,59 kg, EU kit MKBFRLA4BK-BH; Peak 130,2/152,4/39,4 cm; SmallRig 180/43 cm, 1,53 kg; PIXI 20/20,5 cm, 0,26 kg), weights 403/519/1.028/116/325/265/625 g as in English, load multiples unchanged, FAQ answers same. Local facts from the local brief only: Lufthansa 55x40x23 cm (lufthansa.com), Koelner Dom tripod permit, Humboldt Forum no tripods indoors; quotes re-checked verbatim at systemkamera-forum.de topic 113582 and canon-eos-r-forum.de topic 3801; Tweakers a6400 review (no IBIS) paraphrased. Two lens-weight links dropped to keep max 3 outside links (figures unchanged). No prices, no testing claims, no local store claims.",
-    "at": "2026-11-10T15:51:30.773Z",
-    "hash": "0a6250bf3daaa709"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:30:34.642Z",
+    "hash": "92ea57cf9d7096b8"
   }
 }

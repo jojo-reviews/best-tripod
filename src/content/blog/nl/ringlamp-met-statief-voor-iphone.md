@@ -404,7 +404,7 @@ sources:
   - title: 'r/NewTubers: Ring light glare on glasses advice please'
     url: >-
       https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/
-reviewedDate: '2026-11-06T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: Wat is de beste ringlamp met statief voor iPhone?
@@ -476,7 +476,7 @@ videos:
 heroImage: /images/featured/best-tripod-with-ring-light-for-iphone.png
 ---
 
-De beste ringlamp met statief voor iPhone geeft rond, gelijkmatig licht rond de lens van je telefoon en houdt de smartphone op gezichtshoogte, zodat een selfie, een TikTok, een YouTube- of Zoom-video en een make-upfilmpje zonder tweede statief goed belicht zijn. Mijn keuze overall is de [UBeesize Ring Light with 50" Extendable Tripod Stand](amzn:B07QFV72LK): een statief van 127 cm (50 in) met poten die 76 cm (30 in) spreiden, een 3-wegkop en een telefoonhouder in de ring. Voor staande video's of een Pro Max in een dik hoesje passen twee andere sets beter. Ik heb deze sets niet zelf gebruikt; elk getal komt van een fabrikant- of winkelpagina of uit een gebruikersverslag. Film je ook met een camera, dan behandelen mijn [statieven voor contentmakers](/blog/best-tripod-for-content-creators/) opstellingen zonder licht.
+De beste ringlamp met statief voor iPhone geeft rond, gelijkmatig licht rond de lens van je telefoon en houdt de smartphone op gezichtshoogte, zodat een selfie, een TikTok, een YouTube- of Zoom-video en een make-upfilmpje zonder tweede statief goed belicht zijn. Mijn keuze overall is de [UBeesize Ring Light with 50" Extendable Tripod Stand](amzn:B07QFV72LK): een statief van 127 cm (50 in) met poten die 76 cm (30 in) spreiden, een 3-wegkop en een telefoonhouder in de ring. Voor staande video's of een Pro Max in een dik hoesje passen twee andere sets beter. Elk getal komt van een fabrikant- of winkelpagina of uit een gebruikersverslag. Film je ook met een camera, dan behandelen mijn [statieven voor contentmakers](/blog/best-tripod-for-content-creators/) opstellingen zonder licht.
 
 ## Ringlamp met statief voor iPhone vergeleken
 

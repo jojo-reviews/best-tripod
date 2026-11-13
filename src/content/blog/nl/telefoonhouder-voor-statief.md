@@ -446,7 +446,7 @@ sources:
   - title: 'r/iphone: iPhone 16 tripod mount that will not press Camera Control'
     url: >-
       https://www.reddit.com/r/iphone/comments/1nyhttt/iphone_16_tripod_mount_that_wont_press_camera/
-reviewedDate: '2026-11-11'
+reviewedDate: 2026-11-13
 author: ned-diary
 faqs:
   - q: Wat is de beste telefoonhouder voor een statief?
@@ -487,7 +487,7 @@ related:
 heroImage: /images/featured/best-phone-mount-for-tripod.png
 ---
 
-De beste telefoonhouder voor statief is een metalen klem die ver genoeg opent voor je telefoon met hoes en zijn draaiing vergrendelt. Voor de meeste mensen zou ik de [Ulanzi ST-27](amzn:B0DJXRFVB1) nemen: aluminium, drie cold shoes en een Arca-voet die ook de standaard 1/4"-20-schroef aanneemt, zodat hij op bijna elk statief past. Met een klein budget doet de [Ulanzi ST-02S](amzn:B07BBNSGR6) het basiswerk in metaal. Voor een Pro Max in een dikke hoes opent de [Manfrotto MCPIXI](amzn:B07K6GHL24) het verst. Ik vergeleek vijf klemmen voor iPhone en Android op basis van fabrieksspecificaties, winkelvermeldingen en ervaringen van eigenaren; zelf heb ik ze niet in handen gehad.
+De beste telefoonhouder voor statief is een metalen klem die ver genoeg opent voor je telefoon met hoes en zijn draaiing vergrendelt. Voor de meeste mensen zou ik de [Ulanzi ST-27](amzn:B0DJXRFVB1) nemen: aluminium, drie cold shoes en een Arca-voet die ook de standaard 1/4"-20-schroef aanneemt, zodat hij op bijna elk statief past. Met een klein budget doet de [Ulanzi ST-02S](amzn:B07BBNSGR6) het basiswerk in metaal. Voor een Pro Max in een dikke hoes opent de [Manfrotto MCPIXI](amzn:B07K6GHL24) het verst. Ik vergeleek vijf klemmen voor iPhone en Android op basis van fabrieksspecificaties, winkelvermeldingen en ervaringen van eigenaren.
 
 ## Telefoonhouders voor statief vergeleken op breedte, materiaal en aansluiting
 
