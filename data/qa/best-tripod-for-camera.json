@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-camera",
   "pass": true,
-  "checkedAt": "2026-11-05T18:00:11.518Z",
+  "checkedAt": "2026-11-13T15:54:43.715Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,21 +12,12 @@
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m4/specifications",
-    "source didn't respond normally (403): https://electronics.sony.com/imaging/lenses/full-frame-e-mount/p/sel24105g-2",
-    "source didn't respond normally (403): https://www.kfconcept.com/tripods",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
-    "source didn't respond normally (403): https://www.nytimes.com/wirecutter/reviews/best-tripod/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/15gbgj8/why_is_my_lens_wobbling_so_bad_on_a_tripod_is/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-05: Manfrotto MK190XPRO3-BHQ2 specs (67.52 in max, 57.68 in column down, 3.54 in min, 27.76 in closed, 5.51 lb, 15 kg UNI/PdR payload, leg angles, flip locks, friction control, pan/tilt locks, 200PL-14 plate) on manfrotto.com; Gitzo GK1545T-82TQD (1.45 kg, 163.5/140.5 cm, 32.4 cm min, 42.5 cm closed, 10 kg, 4 sections, twist G-lock, GH1382TQD with independent pan lock, no friction control, GS5370SD Arca plate, 135mm/200mm max lens) on gitzo.com; Peak Design aluminum (60 in, 51.25 in column down, 5.5 in min, 15.5 in folded, 3.44 lb, 20 lb) from Peak Design page + ShutterMuse spec table as verified in earlier posts; Befree Advanced lever (59.45/50.39/15.75 in, 15.75 in folded, 3.51 lb, 9 kg, 494 head, 200PL PRO RC2+Arca) from Manfrotto page; SIRUI 5C (54.3 in, 6.3 in, 13 in, 0.85 kg, 4 kg) from SIRUI spec chart and Amazon title; K&F 64 (64 in, 20.4 in, 15.5 in, 2.5 lb, 8 kg) from K&F and Amazon title. Sony a7 IV 658 g and FE 24-105 G 663 g on sony.com; load shares recalculated. All 6 Amazon US listings opened via Firecrawl 2026-11-05 (in stock; 190 kit, Gitzo, Befree, SIRUI sold/shipped by Amazon, K&F ships from Amazon). Two+ top-10 pages per product checked (Purciel, Pack Hacker, Fstoppers, School of Photography, TechGearLab, Finding the Universe, Wirecutter snippet). Pain-point quotes copied from data verified for best-tripod-under-100. Owner claims trimmed to what the owner sources say.",
-    "at": "2026-11-05T17:54:49.333Z",
-    "hash": "8b93e81ccf4bfbd2"
+    "notes": "added one internal link to best-tripod-for-mirrorless-camera, no claim changed",
+    "at": "2026-11-13T15:54:43.155Z",
+    "hash": "8ee2826f9c0d8280"
   }
 }

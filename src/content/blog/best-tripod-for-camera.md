@@ -565,7 +565,7 @@ The best tripod for camera owners who want one tripod for everything is the [Pea
 
 ## Camera tripods compared by column-down height and load
 
-**A camera tripod should reach close to eye level with the center column down and carry at least twice your camera and lens.** Those two numbers sit at the end of the table, because they decide more shots than weight alone. If you are not sure what height you need, our guide on [tripod height for your own height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math.
+**A camera tripod should reach close to eye level with the center column down and carry at least twice your camera and lens.** Those two numbers sit at the end of the table, because they decide more shots than weight alone; our [tripods for mirrorless cameras](/blog/best-tripod-for-mirrorless-camera/) run the same check by kit weight. If you are not sure what height you need, our guide on [tripod height for your own height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math.
 
 | Camera tripod | Best for | Folded | Weight | Column down | Rated load |
 |---|---|---|---|---|---|

@@ -490,7 +490,7 @@ The best tripod under 100 dollars for most people is the [K&F Concept 64 inch](a
 
 ## Tripod under 100 dollars compared by rated load
 
-**A good camera tripod under 100 dollars has aluminum legs, a rated load at least twice your camera and lens, and a tripod head that locks without drifting.** Rated load is the spec that decides most picks, so it sits last in the table. Leg locks matter too; our guide to [twist lock vs flip lock tripod legs](/blog/twist-lock-vs-flip-lock-tripod-legs/) explains the trade-off on budget legs.
+**A good camera tripod under 100 dollars has aluminum legs, a rated load at least twice your camera and lens, and a tripod head that locks without drifting.** Rated load is the spec that decides most picks, so it sits last in the table, and our [mirrorless camera tripod picks](/blog/best-tripod-for-mirrorless-camera/) show it as headroom for real kits. Leg locks matter too; our guide to [twist lock vs flip lock tripod legs](/blog/twist-lock-vs-flip-lock-tripod-legs/) explains the trade-off on budget legs.
 
 | Tripod | Best for | Max height | Folded | Weight | Rated load |
 |---|---|---|---|---|---|

@@ -512,7 +512,7 @@ I have been shooting photos since 2017, and my support kit is carbon fiber tripo
 | BOG DeathGrip Infinite Carbon | Not published | 59.5 in | 6 lb 8 oz | Clamp on ball head | Carbon |
 | Primos Trigger Stick Gen3 Tall | Not published | 62 in | About 3.5 lb | Yoke | Aluminum sticks |
 
-Only the Fatboy ships without a head, so its real carry weight and cost go up once you add a ball head or leveling base. Every pick except the Primos uses carbon fiber legs; the Primos sticks are aluminum.
+Only the Fatboy ships without a head, so its real carry weight and cost go up once you add a [shooting ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base. Every pick except the Primos uses carbon fiber legs; the Primos sticks are aluminum.
 
 ## How we picked these long range rifle tripods
 

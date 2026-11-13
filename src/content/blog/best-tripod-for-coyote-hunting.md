@@ -471,7 +471,7 @@ The best tripod for coyote hunting holds your rifle hands-free at the height you
 | BOG DeathGrip Infinite | 59.5 in | Carbon | 6 lb 8 oz | Not published | Rifle clamp on ball head |
 | SLIK Pro 700 DX | 55.5 in (70.7 in column up) | 30.2 mm aluminum | 5.5 lb | 19.8 or 44.1 lb (SLIK lists both) | None |
 
-The Fatboy and SLIK ship without a head, so I add a ball head or leveling base to their cost.
+The Fatboy and SLIK ship without a head, so I add a [rifle ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base to their cost.
 
 ## How we picked these coyote hunting tripods
 

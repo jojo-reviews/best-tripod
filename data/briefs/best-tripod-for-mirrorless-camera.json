@@ -722,12 +722,14 @@
     {
       "slug": "best-tripod-for-camera",
       "find": "Those two numbers sit at the end of the table, because they decide more shots than weight alone.",
-      "replace": "Those two numbers sit at the end of the table, because they decide more shots than weight alone; our [tripods for mirrorless cameras](/blog/best-tripod-for-mirrorless-camera/) run the same check by kit weight."
+      "replace": "Those two numbers sit at the end of the table, because they decide more shots than weight alone; our [tripods for mirrorless cameras](/blog/best-tripod-for-mirrorless-camera/) run the same check by kit weight.",
+      "appliedAt": "2026-11-13T15:54:43.735Z"
     },
     {
       "slug": "best-tripod-under-100",
       "find": "Rated load is the spec that decides most picks, so it sits last in the table.",
-      "replace": "Rated load is the spec that decides most picks, so it sits last in the table, and our [mirrorless camera tripod picks](/blog/best-tripod-for-mirrorless-camera/) show it as headroom for real kits."
+      "replace": "Rated load is the spec that decides most picks, so it sits last in the table, and our [mirrorless camera tripod picks](/blog/best-tripod-for-mirrorless-camera/) show it as headroom for real kits.",
+      "appliedAt": "2026-11-13T15:54:44.852Z"
     }
   ],
   "textrazor": {
