@@ -403,7 +403,7 @@ sources:
   - title: 'DPReview forum: Tripod for (mainly) product photography'
     url: >-
       https://www.dpreview.com/forums/threads/tripod-for-mainly-product-photography.4288065/
-reviewedDate: '2026-11-05T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for product photography?
@@ -464,7 +464,7 @@ videos:
 heroImage: /images/featured/best-tripod-for-product-photography.png
 ---
 
-A product photography tripod holds the camera in one spot, so every photograph in a set shares the same framing, which a hand-held camera cannot match. The best ones also swing the camera over the table for flat lays. My overall pick is the [Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2): Manfrotto lists [59.65 in with the column down](https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/) and a 90-degree horizontal center column. I have not used these five; every figure here comes from a maker spec sheet or an owner report. For 1:1 detail work, my [tripods for macro photography](/blog/best-tripod-for-macro-photography/) go lower.
+A product photography tripod holds the camera in one spot, so every photograph in a set shares the same framing, which a hand-held camera cannot match. The best ones also swing the camera over the table for flat lays. My overall pick is the [Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2): Manfrotto lists [59.65 in with the column down](https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/) and a 90-degree horizontal center column. Every figure here comes from a maker spec sheet or an owner report. For 1:1 detail work, my [tripods for macro photography](/blog/best-tripod-for-macro-photography/) go lower.
 
 ## Product Photography Tripod Comparison
 

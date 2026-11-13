@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-lumix-s5ii",
   "pass": true,
-  "checkedAt": "2026-11-07T16:30:02.013Z",
+  "checkedAt": "2026-11-13T19:20:42.160Z",
   "errors": [],
   "warnings": [
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,20 +11,12 @@
     "product \"Falcam TreeRoot Quick Lock Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r2060.html",
-    "source didn't respond normally (403): https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-camera-lenses/lumix-s-lenses/s-r70200.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1667840-REG/3_legged_thing_coreyblue2_0_punks_corey_2_0_magnesium.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833047-REG/falcam_t00a4301_treeroot_quick_lock_travel.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-07: S5II 740 g with battery and card (help.na.panasonic.com spec sheet); LUMIX S 20-60mm 350 g and S PRO 70-200mm F4 985 g without tripod mount (panasonic.com/uk); Panasonic recommends turning off the image stabilizer on a tripod (help.na.panasonic.com S-Series stabilizer page). Leofoto LS-284CX: 51.97 in without column, 22 lb/10 kg, 4 sections, twist locks, add-on column included (leofotousa.com); kit weight 3.2 lb, 22 in folded, 67.7 in with column, LH-30 Arca head (B&H kit page). Befree Advanced Lever: 19.8 lb, 59.1 in, 15.8 in min, 15.7 in folded, 3.6 lb, 4 sections, QPL lever locks, 494 head with pan and friction knobs, RC2 and Arca-type plate (B&H specs); 50.4 in column down (Manfrotto manual). Peak Design Travel Tripod Aluminum: 3.44 lb, 60/51.25 in, 5.5 in min, 15.5 in folded, 20 lb, one-ring ball head, Arca-type plate (Peak Design + B&H, as verified for the Canon R8 post). Corey 2.0: magnesium, 14 kg at 23 deg / 9 kg at 55 deg, 1.46 m max, 1.12 m legs only, 36.1 cm folded, 1.78 kg, 5 sections, AirHed Neo 2.0, Arca QR Octa plate, detachable monopod legs (3leggedthing.com); 7.1 in min, twist locks (B&H). Falcam TreeRoot: 6.6-61.1 in, 18.6 in folded, 3.3 lb, 11 lb/5 kg, 4 carbon sections, twist quick locks, inverted ball head with independent pan/tilt locks and drag, F38 plate (B&H). Load math recomputed from these numbers. Owner claims checked against the CameraEgg 57272/98602 and Camera Rumors 22233/83314/34428 threads, B&H reviews and r/Lumix search excerpts; wording adjusted where a poster was not clearly an S5II owner. All 5 ASINs opened on Amazon US 2026-11-07, in stock (Befree sold by Amazon; others FBA/ships from Amazon).",
-    "at": "2026-11-07T11:34:32.904Z",
-    "hash": "2f129b15ebed6b6b"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:41.236Z",
+    "hash": "f41bbe551153eeb0"
   }
 }

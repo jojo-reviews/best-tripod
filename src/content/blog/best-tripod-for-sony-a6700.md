@@ -476,7 +476,7 @@ sources:
   - title: 'DPReview forums: light, sturdy travel tripod for a6400'
     url: >-
       https://www.dpreview.com/forums/threads/recommendations-for-a-light-sturdy-travel-tripod-for-a6400.4573049/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony a6700?
@@ -518,7 +518,7 @@ heroAlt: >-
   guide
 ---
 
-The best tripod for Sony a6700 owners is, for most people, the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber). If you carry the 70-350mm into wind, I'd pick the column-free [Leofoto LS-224CX Ranger](amzn:Leofoto+LS-224CX+LH-25+carbon+fiber+travel+tripod). A Sony a6700 tripod is sized by the lens, not the body: I matched six to the lens you actually mount, using maker specs and owner reports from Sony Rumors, DPReview and Reddit. We have not used these tripods ourselves.
+The best tripod for Sony a6700 owners is, for most people, the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber). If you carry the 70-350mm into wind, I'd pick the column-free [Leofoto LS-224CX Ranger](amzn:Leofoto+LS-224CX+LH-25+carbon+fiber+travel+tripod). A Sony a6700 tripod is sized by the lens, not the body: I matched six to the lens you actually mount, using maker specs and owner reports from Sony Rumors, DPReview and Reddit.
 
 ## Sony a6700 tripod comparison: height, fold and load
 

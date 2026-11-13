@@ -433,7 +433,7 @@ sources:
   - title: 'r/SonyAlpha: Travel tripod within $300 for the A7 IV?'
     url: >-
       https://www.reddit.com/r/SonyAlpha/comments/vkrakq/travel_tripod_within_300_for_the_a7_iv/
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony A7 IV?
@@ -474,7 +474,7 @@ related:
   - best-tripod-for-sony-a6700
 ---
 
-Sunrise on an exposed ridge, a full-frame A7 IV with a 24-70mm on top, and the legs shaking every time the wind gusts. The best tripod for Sony A7IV owners depends on the lens you mount and how far you carry it: for most travel it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for a 200-600mm it is the [Manfrotto 055 kit](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)). We have not used these tripods ourselves.
+Sunrise on an exposed ridge, a full-frame A7 IV with a 24-70mm on top, and the legs shaking every time the wind gusts. The best tripod for Sony A7IV owners depends on the lens you mount and how far you carry it: for most travel it is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for a 200-600mm it is the [Manfrotto 055 kit](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2). I matched five tripods to real Sony kits using maker specs, Sony's lens weights and A7 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).
 
 ## Sony A7 IV tripod specs compared: weight, height and load
 

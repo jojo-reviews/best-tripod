@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-canon-g7x-mark-iii",
   "pass": true,
-  "checkedAt": "2026-11-07T11:37:36.709Z",
+  "checkedAt": "2026-11-13T19:21:29.529Z",
   "errors": [],
   "warnings": [
     "product \"Canon Tripod Grip HG-100TBR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,23 +10,12 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/powershot-g7-x-mark-iii",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/tripod-grip-hg-100tbr",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/lit_files/608724.pdf",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/view-all-accessories/powershot-g7-x-mark-iii",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/8561317209/canon-powershot-g7x-mark-iii-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677466-REG/manfrotto_mtpiximii_b_pixi_mini_tripod_black.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1or0kg3/canon_g7x_iii_reviews_before_buying/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/",
-    "source didn't respond normally (403): https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-07 via Firecrawl: G7 X Mark III 304 g with battery and card (Canon USA product page); 235-shot CIPA battery, battery and SD under one door, vertical video, built-in ND, 24-100mm lens, mic socket (DPReview G7 X III review). HG-100TBR: G7 X Mark III on Canon USA compatibility list, 1 kg total weight limit, BR-E1 range about 16 ft (Canon USA); 163 g body only, 148.5 mm as tripod (Canon manual PDF on B&H). PIXI Mini MTPIXIMII-B: 5.3 in max height, 2.2 lb load, 6.7 oz (B&H). PIXI EVO: 5.5 lb load, 7.7 in max, 2.4 in min, 2 sections, 9.4 oz, 90-degree notch, two leg angles (B&H). GorillaPod 1K Kit: 2.2 lb load, 10 in max, Ball Head 1K 360 pan/90 tilt (B&H), 0.20 kg and 26 cm (Service Photo). Peak Design Travel Tripod Aluminum: 60 in max, 5.5 in min, 15.5 in folded, 5 sections, 3.4 lb, 20 lb (Precision Camera); 51.25 in column down (Shutter Muse, Fstoppers); Canon USA lists it as a G7 X Mark III accessory. Amazon US listings for all 5 ASINs opened: in stock and shipped by Amazon (HG-100TBR and PIXI Mini sold by Amazon). Owner reports re-read on B&H (HG-100TBR 8, PIXI Mini 41, PIXI EVO 107, GorillaPod 1K 400), Crutchfield, DPReview, Nikonites, Mummy of Four; quotes copied verbatim from r/canon, r/photography, DPReview and Mummy of Four.",
-    "at": "2026-11-07T11:32:48.642Z",
-    "hash": "586f4a656ca8057c"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:28.031Z",
+    "hash": "d46305e167a0e7a7"
   }
 }

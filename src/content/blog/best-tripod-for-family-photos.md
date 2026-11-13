@@ -434,7 +434,7 @@ sources:
   - title: 'r/AskPhotography: Tips for family photos on tripod?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1h90aek/tips_for_family_photos_on_tripod/
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for family photos?
@@ -509,7 +509,7 @@ related:
 heroImage: /images/featured/best-tripod-for-family-photos.png
 ---
 
-The holiday card photo is set, everyone's dressed, and once again the person holding the camera is missing from it. The best tripod for family photos, for most people, is the [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:Manfrotto+190XPRO+aluminum+3-section+tripod+kit+ball+head+MK190XPRO3-BHQ2), because it puts the lens near adult eye level with the center column down. If the tripod has to travel, I'd take the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) instead. I matched five tripods to where families take their pictures, using maker specs and owner reports; we have not used them ourselves.
+The holiday card photo is set, everyone's dressed, and once again the person holding the camera is missing from it. The best tripod for family photos, for most people, is the [Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head](amzn:Manfrotto+190XPRO+aluminum+3-section+tripod+kit+ball+head+MK190XPRO3-BHQ2), because it puts the lens near adult eye level with the center column down. If the tripod has to travel, I'd take the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) instead. I matched five tripods to where families take their pictures, using maker specs and owner reports.
 
 ## Family photo tripod heights compared with the column down
 
@@ -529,7 +529,7 @@ This table compares the five on height, size, weight and load capacity:
 
 **I kept only tripods that at least two top-ranking pages for this search or close variants recommend, each with an in-stock Amazon US listing.** Those pages were a family photographer's own tips, a RealHomes family-photo story, Pack Hacker, The School of Photography, Finding the Universe, TechGearLab and Wirecutter. Phone tripods came up once each, so they missed the cut.
 
-> **From our notes:** The 57.68 in on Manfrotto's spec sheet for the 190XPRO kit is what reordered this list. I had started with travel tripods, since most family-photo pages are written by travelers. Then I put each column-down height next to CDC's average adult heights and our height-minus-10-to-12-inches rule. Only the two full-size kits reach adult eye level on their legs alone. The travel picks are still here for trips, but they come second.
+> **From our notes:** The 57.68 in on Manfrotto's spec sheet for the 190XPRO kit is what reordered this list. I had started with travel tripods, since most family-photo pages are written by travelers. Then I put each column-down height next to CDC's average adult heights and my height-minus-10-to-12-inches rule. Only the two full-size kits reach adult eye level on their legs alone. The travel picks are still here for trips, but they come second.
 
 ## The 5 best tripods for family photos, reviewed
 
@@ -549,7 +549,7 @@ The Manfrotto Befree Advanced is a four-section aluminum travel tripod from Manf
 
 ### Peak Design Travel Tripod (Aluminum): best tripod for phone and camera family photos
 
-The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) is a five-section travel tripod from Peak Design, and the only pick with a phone mount built in. Peak Design describes [a built-in, stowable mobile mount](https://www.peakdesign.com/products/travel-tripod) that holds any phone or case, so a smartphone family photo needs no extra clamp. It folds to 15.5 in, stands 51.25 in with the column down and is rated to 20 lb. A family photographer carries the carbon version on hikes and hangs her backpack from its hook as a counterweight. She also notes some flex at the camera mount, and owners call the thin lower legs the weak point in wind. It's the priciest tripod we list, and I'd only pay for it if you'll use the phone mount.
+The [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) is a five-section travel tripod from Peak Design, and the only pick with a phone mount built in. Peak Design describes [a built-in, stowable mobile mount](https://www.peakdesign.com/products/travel-tripod) that holds any phone or case, so a smartphone family photo needs no extra clamp. It folds to 15.5 in, stands 51.25 in with the column down and is rated to 20 lb. A family photographer carries the carbon version on hikes and hangs her backpack from its hook as a counterweight. She also notes some flex at the camera mount, and owners call the thin lower legs the weak point in wind. It's the priciest tripod I list, and I'd only pay for it if you'll use the phone mount.
 
 ### Sirui Traveler 5C Carbon Fiber Tripod with 3T-35 Ball Head: lightest tripod for family trips
 
@@ -594,7 +594,7 @@ The video in this section shows a parent setting up a tripod and remote for a fa
 **A tripod for family photos usually goes wrong in the same few ways: running back to the camera, kids looking away, and a tripod set too low or with the column too high.**
 
 - **Running back after every frame.** Without a remote, r/AskPhotography replies say you set the timer and run. An r/photography reply puts it simply: "Interval timer shooting is best when you want to take a lot of pictures in a variety of poses." A remote does the same, one frame at a time.
-- **Kids won't look at the lens.** Parents in r/photography who shoot their own portraits say getting a 3-year-old to look is the hard part. Our fix: put a toy on top of the camera, or a tablet playing a video right behind the tripod.
+- **Kids won't look at the lens.** Parents in r/photography who shoot their own portraits say getting a 3-year-old to look is the hard part. My fix: put a toy on top of the camera, or a tablet playing a video right behind the tripod.
 - **Bending over a short travel tripod.** A DPReview member notes that "a travel pod will be shorter requiring you to bend over to look through the VF". Use the screen, or pick one of the full-size kits.
 - **Shake with the column up.** "That center post can cause vibration and cost rigidity (especially in a windy environment)," a photo.stackexchange answer warns. Our [center column guide](/blog/tripod-center-column-up-or-down-for-landscapes/) covers when it's safe to raise.
 - **A phone with no tripod socket.** "Any tripod with a phone holder will do," as one r/golf reply puts it; add a clamp, or choose the Peak Design.

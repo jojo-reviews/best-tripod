@@ -395,7 +395,7 @@ sources:
   - title: 'r/AskPhotography: Tripod with center column and 3-way geared head'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-06T15:29:00.000Z'
 author: ned-diary
 faqs:
@@ -472,7 +472,7 @@ related:
 heroImage: /images/featured/best-tripod-for-headshots.png
 ---
 
-In headshot photography, a tripod for headshots has one job: hold the lens at your subject's eye level for a whole session. The best tripod for headshots, for most studios, is the [Feisol CT-3442 Tournament Rapid](amzn:Feisol+CT-3442+Tournament+Rapid+carbon+fiber+tripod) with Feisol's optional column. If your clients run tall, I'd take the [Vanguard VEO 3+ 263AB](amzn:Vanguard+VEO3+263AB160S+aluminum+tripod+ball+head), the only pick that reaches an average man's eye level on its legs. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) has the eye-level math. I compared five tripods on maker specs and owner reports; we have not used them ourselves.
+In headshot photography, a tripod for headshots has one job: hold the lens at your subject's eye level for a whole session. The best tripod for headshots, for most studios, is the [Feisol CT-3442 Tournament Rapid](amzn:Feisol+CT-3442+Tournament+Rapid+carbon+fiber+tripod) with Feisol's optional column. If your clients run tall, I'd take the [Vanguard VEO 3+ 263AB](amzn:Vanguard+VEO3+263AB160S+aluminum+tripod+ball+head), the only pick that reaches an average man's eye level on its legs. Our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) has the eye-level math. I compared five tripods on maker specs and owner reports.
 
 ## Headshot tripod heights compared, legs only and column up
 

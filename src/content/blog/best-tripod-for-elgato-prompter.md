@@ -393,7 +393,7 @@ sources:
       https://www.reddit.com/r/elgato/comments/1sx9eq7/elgato_prompter_xl_desk_stand/
   - title: 'Think Media: The best tripods for video in 2026'
     url: 'https://www.youtube.com/watch?v=4xQznj8WZ4U'
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What tripod do I need for the Elgato Prompter XL?
@@ -452,7 +452,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for Elgato Prompter XL setups is a fluid-head video tripod rated for 8 kg or more that puts the lens at eye level on its legs alone. For most owners I pick the [NEEWER TP74](amzn:NEEWER+74+inch+Video+Tripod+with+Fluid+Head+TP74); the NEEWER TP75 carries the heaviest camera rigs. The original Prompter is light enough for a desk mount, while Elgato points XL owners to a video tripod or C-stand. This is research from maker specs and owner reports, not hands-on use.
+The best tripod for Elgato Prompter XL setups is a fluid-head video tripod rated for 8 kg or more that puts the lens at eye level on its legs alone. For most owners I pick the [NEEWER TP74](amzn:NEEWER+74+inch+Video+Tripod+with+Fluid+Head+TP74); the NEEWER TP75 carries the heaviest camera rigs. The original Prompter is light enough for a desk mount, while Elgato points XL owners to a video tripod or C-stand. I built this list from maker specs and owner reports.
 
 ## Elgato Prompter tripod comparison by load and height
 
@@ -536,6 +536,6 @@ A 75mm bowl makes step 1 quick; our [video tripod bowl size guide](/blog/video-t
 - **The bracket will not attach.** One r/elgato team was "having trouble mounting it to our sturdy Benro A2573F Tripod". A video head with a long plate and both screw sizes fits the XL bracket.
 - **The shot shakes when I type.** Live Streaming Pros found arms drifting under the XL and desk shake while typing. A floor tripod separates the prompter from the desk; over a desk, Elgato says to mount on the fixed side of a horizontal column with a counterweight.
 
-## Our verdict on the best tripod for Elgato Prompter rigs
+## My verdict on the best tripod for Elgato Prompter rigs
 
 **The NEEWER TP74 is the best tripod for the Elgato Prompter XL for most owners, and the NEEWER TP75 or Manfrotto 502 kit suits heavier, front-heavy rigs.** Filming on a smaller camera too? See our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/), or our [tripods for live streaming](/blog/best-tripod-for-live-streaming/) if you go live from the same desk.

@@ -1,18 +1,20 @@
 {
   "slug": "what-is-an-arca-swiss-plate-and-do-i-need-one",
   "pass": true,
-  "checkedAt": "2026-11-11T20:55:43.081Z",
+  "checkedAt": "2026-11-13T19:21:34.940Z",
   "errors": [],
   "warnings": [
-    "body has 2291 words, over the 2070 limit (top results average 1800): cut repetition and filler",
+    "body has 2285 words, over the 2070 limit (top results average 1800): cut repetition and filler",
+    "first paragraph does not answer the keyword (missing: need, one); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"SmallRig Quick Release Plate for Arca Swiss 2146B\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER QPR-5C 2 Pack Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Harwerrel Aluminium 50mm Quick Release Clamp QR-50S\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-11T20:55:37.492Z",
-    "hash": "db90ea32579ffe3a"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:33.965Z",
+    "hash": "72a6a2b405b44fa1"
   }
 }

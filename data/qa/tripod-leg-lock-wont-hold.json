@@ -1,10 +1,12 @@
 {
   "slug": "tripod-leg-lock-wont-hold",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:35.738Z",
+  "checkedAt": "2026-11-13T19:21:33.390Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1369 words, over the 1236 limit (top results average 1075): cut repetition and filler",
+    "LIVE POST, FIX: body has 1365 words, over the 1236 limit (top results average 1075): cut repetition and filler",
+    "first paragraph does not answer the keyword (missing: lock, won, hold); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"Parts of a twist-lock tripod leg laid ou\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Hands tightening the tension nut behind \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A hand pressing down on an empty tripod \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -14,8 +16,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:49:34.840Z",
-    "hash": "c717b8d7f8ac89b6"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:32.627Z",
+    "hash": "d71009e7eab44313"
   }
 }

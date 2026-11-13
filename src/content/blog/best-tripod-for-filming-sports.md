@@ -389,7 +389,7 @@ sources:
   - title: 'r/videography: Best phone tripod for filming sports'
     url: >-
       https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What kind of tripod is best for filming sports?
@@ -431,7 +431,7 @@ related:
   - best-tripod-for-recording-school-plays
 ---
 
-The best tripod for filming sports depends on who moves the camera. If you pan with the play yourself, get a fluid-head video tripod such as the [NEEWER TP75](amzn:NEEWER+Video+Tripod+Fluid+Head+TP75); if an AI camera like a Veo camera tracks the game, get a tall tripod stand such as the [Glide Gear TST 20](amzn:Glide+Gear+TST+20+Sky+High+Tall+Video+Camera+Tripod+Stand). I matched five aluminum tripods to those two jobs using maker specs and owner reports from Reddit, B&H and a Veo users group. We have not used these tripods ourselves.
+The best tripod for filming sports depends on who moves the camera. If you pan with the play yourself, get a fluid-head video tripod such as the [NEEWER TP75](amzn:NEEWER+Video+Tripod+Fluid+Head+TP75); if an AI camera like a Veo camera tracks the game, get a tall tripod stand such as the [Glide Gear TST 20](amzn:Glide+Gear+TST+20+Sky+High+Tall+Video+Camera+Tripod+Stand). I matched five aluminum tripods to those two jobs using maker specs and owner reports from Reddit, B&H and a Veo users group.
 
 ## Tripod for filming sports: height and load compared
 

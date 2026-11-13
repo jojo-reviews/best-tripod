@@ -517,7 +517,7 @@ sources:
   - title: 'DPReview forums: Lightest tripod for hiking?'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: What is the best carbon fiber travel tripod?
@@ -586,7 +586,7 @@ heroImage: /images/featured/best-carbon-fiber-travel-tripod.png
 
 The best carbon fiber travel tripod for most kits is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber): 2.8 lb, 15.5 in folded, rated to 20 lb and 51.25 in tall before the column goes up. If you carry a DSLR or a full-frame body with a 70-200mm, I'd step up to the [Gitzo Traveler Series 1 kit](amzn:Gitzo+Lightweight+Series+1+Traveler+Carbon+Fiber+Tripod+with+Center+Ball+Head+GK1545T-82TQDUS), which gives 55.3 in with the column down.
 
-Photography started for me on a solo road trip across the United States, and I've been shooting travel and landscape work since 2017. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, carried with a Sony A7 IV or a Canon EOS R6 Mark II and a 16-35mm or 24-70mm zoom. These six picks come from maker spec sheets, retailer listings and owner reports; I haven't used these six tripods myself, so I say where each number comes from. Shooting mirrorless only? Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) cover aluminum models too.
+Photography started for me on a solo road trip across the United States, and I've been shooting travel and landscape work since 2017. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, carried with a Sony A7 IV or a Canon EOS R6 Mark II and a 16-35mm or 24-70mm zoom. These six picks come from maker spec sheets, retailer listings and owner reports, and I say where each number comes from. Shooting mirrorless only? Our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) cover aluminum models too.
 
 ## Carbon fiber travel tripod comparison by weight, fold, height and load
 

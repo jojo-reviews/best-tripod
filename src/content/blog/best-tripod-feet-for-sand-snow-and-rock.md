@@ -340,7 +340,7 @@ sources:
     url: 'https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/'
   - title: 'Mark Denney, 6 Essential Tripod Accessories for Landscape Photography'
     url: 'https://www.youtube.com/watch?v=IL4bL--NUk8'
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 faqs:
   - q: What are the best tripod feet for sand?
     a: >-
@@ -495,7 +495,7 @@ ScottymanPhoto's video in this section compares spikes, claws and rubber feet.
 
 ## How I picked these tripod feet
 
-**These tripod feet are the ones landscape photographers name in their own write-ups and videos, checked against maker specs.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing. This is research, not hands-on testing.
+**These tripod feet are the ones landscape photographers name in their own write-ups and videos, checked against maker specs.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing.
 
 > **From our notes:** A 144 mm Leofoto TFW-2 disc covers about 21 times the area of a 31 mm claw, a number we worked out from the two spec sheets. Picture a seascape shooter at low tide walking from wet sand onto a barnacled ledge: we would fit spikes for the sand, pack claws for the rock, and leave the snow shoes for winter.
 

@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-vertical-shooting",
   "pass": true,
-  "checkedAt": "2026-11-09T11:38:16.061Z",
+  "checkedAt": "2026-11-13T19:21:16.288Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto ONE Hybrid Aluminum Tripod with 500X Fluid Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,12 +11,13 @@
     "product \"K&F Concept 64 inch Aluminum Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "1 sentence(s) also appear word for word in 2+ other posts (sitewide boilerplate, patent rule 2026-11-04), e.g. \"I built this list from maker specs and owner reports.\"; write a post-specific sentence"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Manfrotto ONE Hybrid + 500X: Fstoppers review (67.1 in max without head, 27.8 in folded, 7.5 in min with column removed, alu legs 3.5 kg, 15 kg legs payload, 500X 1.2 kg and 5 kg, platform button turns plate horizontal to vertical) and Manfrotto MKONEA-500X page (hinged plate for portrait, CBS 2.4 kg @55mm, 501PL plate, Q90, leveling column); Amazon B0G1Z9LSSV in stock sold by Amazon.com. Befree Advanced lever: Manfrotto MKBFRLA4BK-BHUS page (59.45/50.39 in, 15.75 in min and folded, 1.59 kg, 9 kg, 200PL PRO RC2+Arca), B&H 494 listing (90-degree notch for portrait), Rubber Monkey (lateral tilt -90 to 40); Amazon B0772WLSHZ sold by Amazon.com. Peak Design Travel Tripod carbon: specs as verified in best-tripod-for-sony-fx3 (Peak Design page), Fstoppers 2026 article (tilt limited by notch on ball joint, owner comment: portrait harder, works with L-bracket), Amazon B085BQTQMN in stock (seller Peak Design), Amazon title confirms built-in mobile mount. SIRUI Traveler 5C: Amazon B07KD181B3 title (54.3 in, Arca Swiss plate, 8.8 lb) + earlier verified specs (0.85 kg, 13 in, 6.3 in), sold by Amazon.com. K&F 64 inch O234A1+BH-36: Amazon B0B1HYVVTV title (64 in, 17.6 lb, 360 ball head) + earlier verified specs, in stock (DLS US). Quotes checked verbatim in search excerpts: r/AskPhotography jet1bn, r/AskPhotography 10p8c96, DPReview 2983513, r/FX3 1ihrzmo, Instagram reel DTu9RnQDBnL; PremiumBeat side-mount fallback. Product evidence: each pick on 2+ independent pages (DCW, Instagram, Fstoppers, TechGearLab, Pack Hacker, Matt Purciel, Finding the Universe, DPReview).",
-    "at": "2026-11-09T11:38:15.624Z",
-    "hash": "4b12ce8e2f4de9a1"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:13.723Z",
+    "hash": "2e15c67a937927bb"
   }
 }

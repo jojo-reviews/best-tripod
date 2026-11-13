@@ -1,32 +1,23 @@
 {
   "slug": "best-tripod-for-canon-r8",
   "pass": true,
-  "checkedAt": "2026-11-06T15:51:19.748Z",
+  "checkedAt": "2026-11-13T19:21:21.464Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: paragraph style: the review of \"Peak Design Travel Tripod (Aluminum)\" is under ~100 words",
-    "LIVE POST, FIX: body has 1418 words, over the 1380 limit (top results average 1200): cut repetition and filler",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
+    "LIVE POST, FIX: body has 1413 words, over the 1380 limit (top results average 1200): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro Mach3 TMA38CL\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf24-105mm-f4-7-1-is-stm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f4-l-is-usm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf100-400mm-f5-6-8-is-usm",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/1br4awq/tripod_for_the_canon_r8/",
-    "source didn't respond normally (403): https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-06 semantic pass: TextRazor (3 of top-5 pages analyzed) added carbon-fiber reinforced polymer; leg material column from maker specs (Peak Design aluminum, Befree aluminum, Leofoto carbon, Benro 9X carbon, 055 aluminum); method wording rewritten without SEO/Amazon process terms; no new prices, ratings or tests; specs unchanged.",
-    "at": "2026-11-06T15:30:34.050Z",
-    "hash": "a72582b61cfe676c"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:19.439Z",
+    "hash": "52ffbb3afcd8fa87"
   }
 }

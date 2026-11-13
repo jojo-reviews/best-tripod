@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-hunting",
   "pass": true,
-  "checkedAt": "2026-11-05T21:23:43.252Z",
+  "checkedAt": "2026-11-13T19:21:32.779Z",
   "errors": [],
   "warnings": [
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vortex Summit Carbon II Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"BOG DeathGrip Hunting Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-13T17:50:29.489Z",
-    "hash": "d199abd077bc56a4"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:56.427Z",
+    "hash": "3c1c9053888d99af"
   }
 }

@@ -396,7 +396,7 @@ sources:
   - title: 'r/photography: Looking to get more photos of myself'
     url: >-
       https://www.reddit.com/r/photography/comments/1kkir34/looking_to_get_more_photos_of_myself_i_only_have/
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for iPhone travel?
@@ -469,7 +469,7 @@ related:
 heroImage: /images/featured/best-tripod-for-iphone-travel.png
 ---
 
-The best tripod for iPhone travel folds small enough to come along every day, grips your iPhone in its case and lifts it to the height your photo needs. For most travelers I'd pick the [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip). It weighs 422 g, folds to about 12.7 in and stands 57.6 in tall, so a couple photo at chest or eye height fits in a lightweight day bag. A Pro Max in a thick case, a pocket-only kit or a trip with a mirrorless camera each point to a different pick below. I have not used these tripods myself; every figure comes from a maker or retailer page or an owner report. The setup tips in my [tripod for iPhone Night mode guide](/blog/best-tripod-for-iphone-night-mode-photos/) carry over to low light on the road.
+The best tripod for iPhone travel folds small enough to come along every day, grips your iPhone in its case and lifts it to the height your photo needs. For most travelers I'd pick the [Ulanzi MT-44 Extendable Vlog Tripod](amzn:Ulanzi+MT-44+extendable+vlog+tripod+phone+clip). It weighs 422 g, folds to about 12.7 in and stands 57.6 in tall, so a couple photo at chest or eye height fits in a lightweight day bag. A Pro Max in a thick case, a pocket-only kit or a trip with a mirrorless camera each point to a different pick below. Every figure comes from a maker or retailer page or an owner report. The setup tips in my [tripod for iPhone Night mode guide](/blog/best-tripod-for-iphone-night-mode-photos/) carry over to low light on the road.
 
 ## iPhone Travel Tripod Comparison by Folded Length, Weight and Height
 

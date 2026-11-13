@@ -379,7 +379,7 @@ sources:
       https://www.recoilweb.com/best-hunting-tripods-for-spotting-and-shooting-2023-complete-guide-178661.html
   - title: 'Rokslide: ultralight tripods reviewed'
     url: 'https://www.rokslide.com/ultralight-tripods-tested-and-reviewed/'
-reviewedDate: '2026-11-05T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 faqs:
   - q: What is the best tripod for backcountry hunting?
     a: >-
@@ -453,7 +453,7 @@ related:
   - best-tripod-for-coyote-hunting
 ---
 
-The best tripod for backcountry hunting is the lightest one that still holds your optic steady at the height you glass from. For most backpack hunters that is the [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit): 2.5 lb, 18.1 in folded and rated for 22 lb. If you glass standing, I'd carry the taller Vortex Ridgeview Carbon instead and accept the longer package. I compared five tripods on maker spec sheets and owner reports from hunting forums; I did not use these tripods myself. For blind and stand rests, see our [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
+The best tripod for backcountry hunting is the lightest one that still holds your optic steady at the height you glass from. For most backpack hunters that is the [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit): 2.5 lb, 18.1 in folded and rated for 22 lb. If you glass standing, I'd carry the taller Vortex Ridgeview Carbon instead and accept the longer package. I compared five tripods on maker spec sheets and owner reports from hunting forums. For blind and stand rests, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
 
 ## Backcountry hunting tripod comparison by weight, height and packed length
 
@@ -473,7 +473,7 @@ A backcountry hunting tripod is a light camera tripod built to hold binoculars o
 
 ## How we picked these backcountry hunting tripods
 
-**We kept only tripods that at least two top-ranking hunting tripod guides recommend and that have their own in-stock Amazon US listing.** The Ridgeview Carbon appears in the MeatEater, Outdoor Life and Field & Stream guides, the Summit Carbon II in MeatEater, Outdoor Life and Recoil, the Alpine CF-425 in Backwoods Pursuit and Outdoor Life, the VEO 3GO in Field & Stream and Outdoor Life, and the Primos Trigger Stick in Field & Stream and Top Firearm Reviews.
+**I kept only tripods that at least two top-ranking hunting tripod guides recommend and that have their own in-stock Amazon US listing.** The Ridgeview Carbon appears in the MeatEater, Outdoor Life and Field & Stream guides, the Summit Carbon II in MeatEater, Outdoor Life and Recoil, the Alpine CF-425 in Backwoods Pursuit and Outdoor Life, the VEO 3GO in Field & Stream and Outdoor Life, and the Primos Trigger Stick in Field & Stream and Top Firearm Reviews.
 
 Hunter favorites such as the MTN HNTR SS and Aziak Backcountry Lite made two lists too, but neither has its own Amazon listing, so I left them out. I checked every spec on the maker's page and read owner threads on Rokslide, Long Range Hunting and other forums.
 

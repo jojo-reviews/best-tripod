@@ -1,19 +1,20 @@
 {
   "slug": "binocular-tripod-adapter",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:33.933Z",
+  "checkedAt": "2026-11-13T19:21:19.301Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
-    "LIVE POST, FIX: body has 1303 words, over the 1208 limit (top results average 1050): cut repetition and filler",
+    "LIVE POST, FIX: body has 1292 words, over the 1208 limit (top results average 1050): cut repetition and filler",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"FANAUE S1 Quick Release Binocular Tripod Adapter\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Aziak Equipment Bino Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:49:32.996Z",
-    "hash": "b07eff2bec0169f8"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:17.291Z",
+    "hash": "8127a606499d589c"
   }
 }

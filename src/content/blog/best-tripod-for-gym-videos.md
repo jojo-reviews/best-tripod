@@ -401,7 +401,7 @@ sources:
   - title: 'r/powerlifting: Filming at the gym, thoughts and experiences'
     url: >-
       https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-04T17:53:00.000Z'
 author: ned-diary
 faqs:
@@ -475,7 +475,7 @@ related:
   - best-tripod-for-golf-swing-recording
 ---
 
-The best tripod for gym videos is a small phone tripod that sets up in seconds, stays out of walkways and holds your smartphone at the height of the lift for a clean form check. For most gym-goers I pick the [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod); to film lifts from one spot in a home gym, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head) is steadier. I matched five tripods to gym situations from maker specs and owner reports; we have not used them ourselves.
+The best tripod for gym videos is a small phone tripod that sets up in seconds, stays out of walkways and holds your smartphone at the height of the lift for a clean form check. For most gym-goers I pick the [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod); to film lifts from one spot in a home gym, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head) is steadier. I matched five tripods to gym situations from maker specs and owner reports.
 
 ## Gym tripod comparison: height, folded length and phone holder
 

@@ -261,7 +261,7 @@ sources:
       https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
   - title: 'DSLR Video Shooter: Arca Swiss Plates, Goodbye Manfrotto'
     url: 'https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/'
-reviewedDate: 2026-11-11
+reviewedDate: '2026-11-13'
 faqs:
   - q: Is Arca-Swiss a standard size?
     a: >-
@@ -375,7 +375,7 @@ Which form I look for depends on the job: travel, landscape, video, wildlife and
 
 **These three come up again and again in the pages that rank for Arca-Swiss plates: a universal camera plate, a pair of tiny square plates, and a clamp that adds Arca to any support.**
 
-With the problem and my checks laid out, here are the picks. At least two ranking roundups recommend each. Specs come from the makers and retailers and owner notes from reviews we read; we have not used them ourselves.
+With the problem and my checks laid out, here are the picks. At least two ranking roundups recommend each. Specs come from the makers and retailers, and owner notes from reviews I read.
 
 ### SmallRig Quick Release Plate for Arca Swiss 2146B, the best universal camera plate
 

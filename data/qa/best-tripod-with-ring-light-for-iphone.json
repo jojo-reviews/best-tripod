@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-with-ring-light-for-iphone",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:42.108Z",
+  "checkedAt": "2026-11-13T19:21:10.802Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: only 16 first-person words; owner rule wants at least 17 (about 1 per 100 words: I, my, me, we, our, us)",
     "product \"UBeesize Ring Light with 50\" Extendable Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SENSYNE Ring Light with 50\" Phone Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"EMART 10-Inch Ring Light with 55-Inch Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,15 +12,12 @@
     "product \"Lume Cube Ring Light Pro\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "keyword overlaps /blog/best-tripod-for-northern-lights/ (\"best tripod with ring light for iphone\" overlaps \"best iphone tripod for northern lights\" (75%))",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1729601-REG/lume_cube_lc_ringpro_cordless_ring_light_pro.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1jl1pi7/which_tripod_ring_light_can_you_recommend/",
-    "source didn't respond normally (403): https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/"
+    "keyword overlaps /blog/best-tripod-for-northern-lights/ (\"best tripod with ring light for iphone\" overlaps \"best iphone tripod for northern lights\" (75%))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-06 against maker/retailer pages via Firecrawl: UBeesize page (10.2 in ring, 3 colors x 11 levels, 16-50 in tripod, 30 in leg spread, 3-way pan head, holder inside ring, Bluetooth remote) and Amazon B07QFV72LK (now titled 12 inch, 15-50 in, USB, in stock, sold by Amazon.com); SENSYNE page (15.7-50 in, holder to 5.3 in, AC/DC adapter, Bluetooth remote 30 ft, 2.72 lb, 3 modes x 10 levels) and Amazon B08B3X7NXC (FBA); EMART Amazon B0GTV47NRK (B07TL6Z8LK redirects): 128 LEDs 10W, 3 modes x 10 levels, 18.5-55 in, phone mount 1.8-3.4 in, desk tripod, ball head 360/180, USB, FBA; NEEWER RL-18 page (18 in, 55W, 240 LEDs, 3200K/5600K via filters, stand 19-61 in, folds 30 in, holder 2.6-3.7 in, power adapter, stable with leg joint 4-8 in off ground) and Amazon B01LXDNNBW; Lume Cube Ring Light Pro: B&H (70 min runtime, 256 LEDs CRI 96+, 18-70 in stand, 2700-7500K, 17 in fixture ring), Lume Cube page (17.5 in, 18-70 in tripod), Amazon B0BTMX8WQ7 (built-in diffuser, LCD, 2 USB ports, phone mount flip 180/rotate 360, FBA). Apple support 125091: iPhone 17 Pro Max 3.07 in wide. Owner/reviewer claims checked: TechGearLab (UBeesize sturdy, holder weak with big cases; SENSYNE 50 in short for standing, finicky buttons), Stream Tech Reviews (Sensyne brighter, laggy buttons; Neewer 25-30% usable, wind-stable, harsh past 40%, clip-on filters, unmarked knob), CNN Underscored (EMART easy setup, flattering light, phone clipped to pole on tested version), The Gadgeteer (Lume Cube remote/battery/light). Reddit quotes from r/AskPhotography 1jl1pi7, r/NewTubers 1veadxb, r/videography 1mauwos copied from search excerpts at those thread URLs. Removed an unsupported 'heaviest' claim and a 'top for stability' claim. Re-verified after wording change (240 LEDs on the NEEWER RL-18 written as light-emitting diodes, per neewer.com) and after finalize added the featured image.",
-    "at": "2026-11-06T11:34:33.670Z",
-    "hash": "4132d18895534e10"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:07.685Z",
+    "hash": "a9cd903898f34bc9"
   }
 }

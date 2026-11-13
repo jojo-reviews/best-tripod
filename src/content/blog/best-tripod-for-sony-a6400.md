@@ -497,7 +497,7 @@ sources:
   - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
     url: >-
       https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony a6400?
@@ -533,7 +533,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for Sony a6400 owners is the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) for most people, and the 12.2 in Sirui T-025SK if your bag is a carry-on. The a6400, an APS-C mirrorless camera, weighs [about 403 g with battery and card](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), so every tripod here holds it; I chose on fold, height and how you shoot. For flip-screen vlogging, I'd add a mini tripod. I compared maker specs and owner posts from Sony forums; I have not used these tripods myself.
+The best tripod for Sony a6400 owners is the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) for most people, and the 12.2 in Sirui T-025SK if your bag is a carry-on. The a6400, an APS-C mirrorless camera, weighs [about 403 g with battery and card](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), so every tripod here holds it; I chose on fold, height and how you shoot. For flip-screen vlogging, I'd add a mini tripod. I compared maker specs and owner posts from Sony forums.
 
 ## Sony a6400 tripod comparison: fold, height and load
 

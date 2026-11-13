@@ -400,7 +400,7 @@ sources:
   - title: 'Glide Gear: SYL 960 Hybrid Video Camera Tripod/Track Dolly'
     url: >-
       https://glidegear.net/products/glide-gear-video-camera-tripod-track-dolly-hybrid
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-06T11:55:00.000Z'
 author: ned-diary
 faqs:
@@ -469,7 +469,7 @@ related:
   - best-tripod-for-starlink-mini
 ---
 
-The best tripod dolly is the one that fits your tripod's feet, then your rig's weight. For round or rubber feet I pick the [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), a 3.97 lb folding dolly with 3 in braked wheels and a 33 lb rating. For twin-spiked cinema legs, the [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) is the cup-style floor dolly I would buy. I ranked six from maker specs and owner reviews, not hands-on use.
+The best tripod dolly is the one that fits your tripod's feet, then your rig's weight. For round or rubber feet I pick the [SmallRig 3986](amzn:SmallRig+3986+Quick-Lock+tripod+dolly), a 3.97 lb folding dolly with 3 in braked wheels and a 33 lb rating. For twin-spiked cinema legs, the [Proaim Lineo](amzn:PROAIM+Lineo+heavy+duty+tripod+floor+dolly) is the cup-style floor dolly I would buy. I ranked six from maker specs and owner reviews.
 
 ## Tripod dolly comparison by load, wheels and foot type
 

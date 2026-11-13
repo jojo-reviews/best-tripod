@@ -1,10 +1,9 @@
 {
   "slug": "best-tripod-dolly",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:39.102Z",
+  "checkedAt": "2026-11-13T19:21:14.403Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"SmallRig 3986 Universal Tripod Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER Photography Tripod Dolly Heavy Duty 50lb\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"K&F Concept MS30 Photography Tripod Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,15 +11,12 @@
     "product \"Proaim Lineo Portable Video Camera Floor Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Glide Gear SYL 960 Hybrid Tripod/Track Dolly\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1724553-REG/smallrig_3986_universal_tripod_dolly.html",
-    "source didn't respond normally (403): https://www.kfconcept.com/KF31.118_heavy-duty-tripod-dolly-44lbs",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/553954-REG/Manfrotto_114_114_Heavy_Duty_Cine_Video.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-06 (significant: added 'Tripod dolly vs slider' section, 'Which tripod dolly should you get' H2, rewrote problems section with caster swivel, soft vs hard wheels/bearing play, strapping, centre-of-gravity note, new wheels FAQ). Facts unchanged from 2026-11-04 Firecrawl check (maker pages, B&H, neewer.com, kfconcept.com, proaim.com, glidegear.net); new owner points from existing sources (B&H SmallRig tile vibration, Glide Gear soft wheels rolling resistance, NEEWER locks stop swivel and roll). Removed SEO-process wording and aggregator sources (Ezvid, alternative.me). TextRazor 3 top pages, no missing entities.",
-    "at": "2026-11-06T15:31:36.167Z",
-    "hash": "0f1de9ab654f9670"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:12.675Z",
+    "hash": "bf04fd1f01e30243"
   }
 }

@@ -1,10 +1,9 @@
 {
   "slug": "best-tripod-for-medium-format-camera",
   "pass": true,
-  "checkedAt": "2026-11-06T15:53:12.544Z",
+  "checkedAt": "2026-11-13T19:20:45.338Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with 3-Way Head (MK055XPRO3-3W)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT055CXPRO3 Carbon Fiber 3-Section Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,20 +11,12 @@
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1183070-REG/manfrotto_mt055cxpro3_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034143-REG/manfrotto_mk055xpro3_3w_mt055xpro3_3w_aluminum_tripod_with.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1013304-REG/manfrotto_190xpro3_compact_3_section.html/reviews",
-    "source didn't respond normally (403): https://www.pentaxforums.com/forums/48-pentax-medium-format/264930-tripod-options-medium-format.html",
-    "source didn't respond normally (403): https://www.photrio.com/forum/threads/tripod-recommendation-for-medium-format.76222/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/what-tripod-do-you-use.4740110/",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/2505/what-should-i-pay-attention-to-when-choosing-a-tripod",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-04 semantic pass: TextRazor on Fstoppers, Ben Horne, Unique Photo, Majestic Nature; added long-exposure photography sentence (general physics, no new numbers); renamed first H2 to a load-headroom comparison (2,645 g RB67 and 4x headroom from existing table/brochure); answer-first FAQ and 'Which one' openers reuse existing specs (12 kg, 9 kg, 2,645 g, 883 g). No new prices, ratings, tests or ASIN changes.",
-    "at": "2026-11-04T17:53:49.414Z",
-    "hash": "02378c04345204c8"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:44.376Z",
+    "hash": "6128ade6de6334e7"
   }
 }

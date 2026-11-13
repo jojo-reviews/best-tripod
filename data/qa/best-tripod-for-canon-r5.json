@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Re-verified after a wording edit in the From our notes block (Tortoise 35C 18.4 mm bottom tube per Benro USA vs SIRUI AM-284 18.6 mm per KelbyOne). All earlier checks stand: Benro USA TTOR35CGX35 specs, Alan Lait + Amazon for TMA38CL, Leofoto USA LS-324CX specs, KelbyOne for AM-284, SmallRig/Amazon/Camera Jabber for AD-01, Canon weights (R5 738 g, RF 24-70 900 g, RF 70-200 1,070 g, RF 100-500 1530 g with mount), five in-stock ASINs, verbatim forum quotes.",
-    "at": "2026-11-10T11:34:16.799Z",
-    "hash": "37115fa718a19f4a"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:08.690Z",
+    "hash": "44f0261a27847c6c"
   }
 }

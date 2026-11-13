@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-gopro",
   "pass": true,
-  "checkedAt": "2026-11-12T17:50:12.565Z",
+  "checkedAt": "2026-11-13T19:21:24.102Z",
   "errors": [],
   "warnings": [
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"GoPro Shorty Mini Extension Pole + Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"GoPro 3-Way 2.0\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Xenvo SquidGrip Flexible Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:50:11.633Z",
-    "hash": "b5f971f22b210253"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:22.099Z",
+    "hash": "e2fc07cd6928232e"
   }
 }

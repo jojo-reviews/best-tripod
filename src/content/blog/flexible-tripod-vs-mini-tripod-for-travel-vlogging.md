@@ -238,7 +238,7 @@ faqs:
       once and has no joints to loosen.
   - q: What is the best pocket tripod for travel vlogging?
     a: >-
-      For a pocket-size rigid option we like the Manfrotto PIXI Mini at 0.19 kg
+      For a pocket-size rigid option I like the Manfrotto PIXI Mini at 0.19 kg
       and 18.5 cm closed. If you need to grip objects, the JOBY GorillaPod 3K
       Kit is the flexible pick, though it is larger and weighs about 393 g.
   - q: Can I take a mini or flexible tripod in my carry-on?
@@ -313,7 +313,7 @@ I read a tripod's load capacity only next to the weight of the mirrorless camera
 
 ## Flexible vs Mini Tripod – The Two We'd Pack
 
-**For the flexible vs mini tripod pair, the JOBY GorillaPod 3K Kit is my flexible pick and the Manfrotto PIXI Mini is my rigid pick, and both appear on top-ranked mini tripod lists.** I score them on the criteria on our [how we score page](/how-we-score/), based on maker specs and owner reports, not hands-on testing.
+**For the flexible vs mini tripod pair, the JOBY GorillaPod 3K Kit is my flexible pick and the Manfrotto PIXI Mini is my rigid pick, and both appear on top-ranked mini tripod lists.** I score them on the criteria on our [how we score page](/how-we-score/), based on maker specs and owner reports.
 
 ### JOBY GorillaPod 3K Kit: Best flexible tripod
 

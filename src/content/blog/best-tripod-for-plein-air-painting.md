@@ -408,7 +408,7 @@ sources:
     url: 'https://marcdalessio.com/carbon-fiber-painting-gear/'
   - title: 'OutdoorPainter: The best plein air easels for artists'
     url: 'https://www.outdoorpainter.com/best-plein-air-easels-for-artists/'
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-05T12:00:00.000Z'
 faqs:
   - q: What is the best tripod for plein air painting?
@@ -495,7 +495,7 @@ The best tripod for plein air painting is a light camera tripod rated for at lea
 
 ## How I picked tripods for plein air painting
 
-**I kept only tripods that at least two plein air pages recommend, then checked each against maker specs and owner reports.** Those pages were artist blogs (Lori McNee, Marc Dalessio, Dianna Anderson), a pochade maker's tripod guide, OutdoorPainter reader setups and r/pleinair threads. Lori McNee also lists a premium option, the Gitzo Traveler Series 0, at 10 kg and 2.3 lb. I did not test these tripods.
+**I kept only tripods that at least two plein air pages recommend, then checked each against maker specs and owner reports.** Those pages were artist blogs (Lori McNee, Marc Dalessio, Dianna Anderson), a pochade maker's tripod guide, OutdoorPainter reader setups and r/pleinair threads. Lori McNee also lists a premium option, the Gitzo Traveler Series 0, at 10 kg and 2.3 lb.
 
 > **From our notes:** The ZOMEI Q666 showed up in the tripod guide of a pochade box maker who says he uses it all the time, yet its listings disagree: 22 lb on one, 26.5 lb in the bullets, 17.6 lb on another. Sirui does the opposite with the 5CX and volunteers that you should load only half its 6 kg rating at full height outdoors. My rule from both: plan on the lowest published number.
 

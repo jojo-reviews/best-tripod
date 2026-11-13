@@ -471,12 +471,12 @@ sources:
       https://improvephotography.com/44918/professional-tripods-landscape-photographers/
   - title: 'Alex Armitage: landscape photography gear guide'
     url: 'https://www.alexarmitage.com/2025-landscape-photography-gear-guide'
-reviewedDate: '2026-11-11'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for landscape photography?
     a: >-
-      It depends on how far you walk. For hiking, we point to the Peak Design
+      It depends on how far you walk. For hiking, I point to the Peak Design
       Travel Tripod (Aluminum) for its 15.5 in fold; for roadside views, the
       Vanguard Alta Pro 2+ 263AB Gen 2 or the legs-only Manfrotto MT190XPRO3;
       for heavy telephoto kits, the column-free Feisol CT-3472 carbon legs.
@@ -521,7 +521,7 @@ related:
 
 A solo road trip across the United States is what got me into photography, and I have been shooting since 2017, with landscape as one of my main genres. My landscape kit is simple: a Sony A7 IV, a G Master II 16-35mm, carbon fiber legs, a ball head and Arca-Swiss plates. That kit shapes what I look for in a tripod outdoors.
 
-A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. If you hike in with a mirrorless kit, my pick is the Peak Design Travel Tripod (Aluminum), 15.5 in folded with a built-in ball head; for ground-hugging foregrounds, the Manfrotto MT190XPRO3 drops to 3.54 in. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. I checked each spec against the maker's page and read what owners report. I did not use these tripods myself; every number is a maker's claim, a reviewer's figure or an owner report, and I say which.
+A landscape photography tripod is a camera tripod built for long exposures outdoors. The right one reaches near eye level with the center column down, gets low for foreground rocks, and stays still in wind and on uneven ground. If you hike in with a mirrorless kit, my pick is the Peak Design Travel Tripod (Aluminum), 15.5 in folded with a built-in ball head; for ground-hugging foregrounds, the Manfrotto MT190XPRO3 drops to 3.54 in. Those three jobs matter more than weight, because a raised column, a gust or a shutter press is what turns a 30-second sunrise exposure soft, and heavier bodies need sturdier legs still, as our [tripods for medium format cameras](/blog/best-tripod-for-medium-format-camera/) show. Below are five picks the top landscape guides recommend. I checked each spec against the maker's page and read what owners report. Every number is a maker's claim, a reviewer's figure or an owner report, and I say which.
 
 ## Landscape Photography Tripod Picks at a Glance
 
@@ -552,7 +552,7 @@ My table compares the numbers that decide a landscape shot.
 
 ### How we picked these landscape tripods
 
-**We kept only models (or, for the Alta Pro, MT190 and Feisol, the same model line) that at least two top-ranking landscape tripod pages recommend, with a clear Amazon US listing and specs we could check on the maker's page.** We read Matt Purciel, digital-photography-school, Improve Photography, Tim Shields, Alex Armitage, Alan Ranger, Chris Sidoruk and the B&H and Adorama lists. Premium names also came up: the Gitzo Series 1 Traveler, the FLM CP30-L4 II, the Benro Mammoth and the Really Right Stuff BH-30 ball head. Each appeared on only one page or had no clear Amazon US listing, so they are not reviewed here.
+**I kept only models (or, for the Alta Pro, MT190 and Feisol, the same model line) that at least two top-ranking landscape tripod pages recommend, with a clear Amazon US listing and specs I could check on the maker's page.** I read Matt Purciel, digital-photography-school, Improve Photography, Tim Shields, Alex Armitage, Alan Ranger, Chris Sidoruk and the B&H and Adorama lists. Premium names also came up: the Gitzo Series 1 Traveler, the FLM CP30-L4 II, the Benro Mammoth and the Really Right Stuff BH-30 ball head. Each appeared on only one page or had no clear Amazon US listing, so they are not reviewed here.
 
 > **From our notes:** Side by side, the minimum-height row surprised me more than the weight row. The two legs-only tripods go lowest (3.35 in Feisol, 3.54 in MT190XPRO3), while Manfrotto lists the Befree Advanced at 15.75 in, the same as its folded length. Vanguard's own pages also disagree on the Alta Pro's folded length (28.3 vs about 27.4 in). So I name the source when two figures differ, and I sorted these picks by low-angle reach and column-down height, not by grams.
 
@@ -652,7 +652,7 @@ On r/AskPhotography, a seascape shooter was told: "You're not putting the tripod
 
 ### Center column makes it ring
 
-A raised column is the vibration cause we saw named most in forum threads. An r/AskPhotography reply sums it up: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter." My fix is to extend the legs first and leave the column down. The Feisol avoids the problem entirely, and the Alta Pro's 55.6 in column-down height means you rarely need to raise it.
+A raised column is the vibration cause I saw named most in forum threads. An r/AskPhotography reply sums it up: "The extended center column just serves to amplify and prolong the vibrations you introduced by tripping the shutter." My fix is to extend the legs first and leave the column down. The Feisol avoids the problem entirely, and the Alta Pro's 55.6 in column-down height means you rarely need to raise it.
 
 ### Adding weight without sandbags
 

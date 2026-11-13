@@ -413,7 +413,7 @@ sources:
   - title: 'r/iphone: iPhone 16 tripod mount that will not press Camera Control'
     url: >-
       https://www.reddit.com/r/iphone/comments/1nyhttt/iphone_16_tripod_mount_that_wont_press_camera/
-reviewedDate: '2026-11-11'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best phone mount for a tripod?
@@ -453,7 +453,7 @@ related:
 heroImage: /images/featured/best-phone-mount-for-tripod.png
 ---
 
-The best phone mount for tripod use is a metal clamp that opens wide enough for your phone in its case and locks its rotation. For most people I'd pick the [Ulanzi ST-27](amzn:ULANZI+ST-27+metal+phone+tripod+mount): aluminum, three cold shoes, and an Arca-type base that also takes the standard 1/4"-20 screw, so it fits nearly any tripod. On a budget, the [Ulanzi ST-02S](amzn:ULANZI+ST-02S+aluminum+phone+tripod+mount) does the basics in metal. For a Pro Max in a thick case, the [Manfrotto MCPIXI](amzn:Manfrotto+Universal+Smartphone+Clamp+Pro+Version+MCPIXI) opens widest. I compared five clamps for iPhone and Android phones on maker specs, retailer listings and owner reports; I did not handle them myself.
+The best phone mount for tripod use is a metal clamp that opens wide enough for your phone in its case and locks its rotation. For most people I'd pick the [Ulanzi ST-27](amzn:ULANZI+ST-27+metal+phone+tripod+mount): aluminum, three cold shoes, and an Arca-type base that also takes the standard 1/4"-20 screw, so it fits nearly any tripod. On a budget, the [Ulanzi ST-02S](amzn:ULANZI+ST-02S+aluminum+phone+tripod+mount) does the basics in metal. For a Pro Max in a thick case, the [Manfrotto MCPIXI](amzn:Manfrotto+Universal+Smartphone+Clamp+Pro+Version+MCPIXI) opens widest. I compared five clamps for iPhone and Android phones on maker specs, retailer listings and owner reports.
 
 ## Phone mount for tripod comparison by width, build and mounts
 

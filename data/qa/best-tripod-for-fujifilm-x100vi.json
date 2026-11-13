@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-fujifilm-x100vi",
   "pass": true,
-  "checkedAt": "2026-11-06T15:52:06.995Z",
+  "checkedAt": "2026-11-13T19:21:15.994Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,19 +10,12 @@
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1b2ihk0/x100vi_psa_tripod_mount_thread_location_is/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1178734-REG/manfrotto_mtpixievo_bk_pixi_evo_mini_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359603-REG/joby_jb01507_gorillapod_3k_kit.html/specs",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/best-travel-tripods/",
-    "source didn't respond normally (403): https://www.reddit.com/r/x100vi/comments/1q5ljeu/travel_tripod_recommendations/",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/1sup49u/small_table_tripod_for_x100vi_shooting_in/",
-    "source didn't respond normally (403): https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-04 (review only): TextRazor entities Fujifilm, Camera, Fujifilm X series, selfie, low-angle shot, camera gear worked in; X100VI = sixth X100 model (X100, S, T, F, V, VI); PIXI EVO 2.4 in min height from B&H spec; first H2 renamed to a comparison heading, central entity in H2s/topic sentences; FAQ openings answer first; captions added; no product, price or rating changed",
-    "at": "2026-11-04T17:53:13.538Z",
-    "hash": "23474d7723304983"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:14.112Z",
+    "hash": "abc17057b0389edf"
   }
 }

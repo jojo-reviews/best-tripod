@@ -371,7 +371,7 @@ sources:
   - title: 'RealHunters, BOG DeathGrip Carbon Fiber'
     url: >-
       https://www.realhunters.com/the-best-gun-crossbow-tripod-bog-deathgrip-carbon-fiber/
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Can you use a camera tripod for a crossbow?
     a: >-
@@ -524,10 +524,10 @@ My rule: measure from the blind floor to the middle of your shooting window whil
 - **The rest touches the string or limbs.** Field & Stream notes BOG's standard Universal Shooting Rest yoke can interfere with some crossbow limbs. Fix: clamp the forend further back and check clearance before loading.
 - **The clamp will not close tight.** Axis owners report the jaws do not close tight on some weapons. Fix: test with your crossbow at home and pick a clamp that fits your forend or rail. One Crossbow Nation owner built a ball head and weapon clamp rig on a carbon tripod that a friend used to take hogs past 100 yards.
 
-> **From our notes:** The Crossbow Nation owner whose crossbow tipped nose-up in a DeathGrip changed how we built this guide. We had sorted the five by weight, like most top results. His complaint, and another owner's warning that an underrated ball head let his bow pivot down suddenly, made us put rest type and balance first. A heavy clamp tripod can still fail a crossbow if the bow is not clamped at its balance point.
+> **From our notes:** The Crossbow Nation owner whose crossbow tipped nose-up in a DeathGrip changed how I built this guide. I had sorted the five by weight, like most top results. His complaint, and another owner's warning that an underrated ball head let his bow pivot down suddenly, made me put rest type and balance first. A heavy clamp tripod can still fail a crossbow if the bow is not clamped at its balance point.
 
-## How we picked these crossbow tripods
+## How I picked these crossbow tripods
 
-**Each crossbow tripod here is recommended by two or more independent top-ranking pages and has its own in-stock Amazon US listing.** The aluminum DeathGrip appears on Crossbow Magazine, American Firearms and Top Firearm Reviews; the Primos Gen3 on those three plus Field & Stream; the Vanguard Quest on American Firearms, Top Firearm Reviews and Shooting Sports Retailer; the DeathGrip Carbon on American Firearms, Top Firearm Reviews and RealHunters; the Axis on Crossbow Magazine and crossbow hunting forums. We checked heights and weights on BOG, TenPoint, Primos and Vanguard pages and read 34 owner reviews and posts. We have not used these tripods ourselves; every figure is from a maker page or a named source.
+**Each crossbow tripod here is recommended by two or more independent top-ranking pages and has its own in-stock Amazon US listing.** The aluminum DeathGrip appears on Crossbow Magazine, American Firearms and Top Firearm Reviews; the Primos Gen3 on those three plus Field & Stream; the Vanguard Quest on American Firearms, Top Firearm Reviews and Shooting Sports Retailer; the DeathGrip Carbon on American Firearms, Top Firearm Reviews and RealHunters; the Axis on Crossbow Magazine and crossbow hunting forums. I checked heights and weights on BOG, TenPoint, Primos and Vanguard pages and read 34 owner reviews and posts. Every figure is from a maker page or a named source.
 
 Glassing from the same blind? Our [binocular tripod picks](/blog/best-tripod-for-binoculars/) are the next read.

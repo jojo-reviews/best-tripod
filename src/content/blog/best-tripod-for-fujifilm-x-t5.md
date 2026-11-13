@@ -414,7 +414,7 @@ sources:
   - title: 'r/fujifilm: X-T5 tripod mount is loose'
     url: >-
       https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X-T5?
@@ -456,7 +456,7 @@ related:
 heroImage: /images/featured/best-tripod-for-fujifilm-x-t5.png
 ---
 
-The best tripod for Fujifilm X-T5 owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot the heavy 16-55mm zoom lens in wind, I'd pick the [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) with no center column. A Fujifilm X-T5 tripod is sized by the lens you mount, not the camera. I matched five to it using maker specs and Fuji owner reports from r/fujifilm and FujiX-Forum. We have not used these tripods ourselves.
+The best tripod for Fujifilm X-T5 owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot the heavy 16-55mm zoom lens in wind, I'd pick the [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) with no center column. A Fujifilm X-T5 tripod is sized by the lens you mount, not the camera. I matched five to it using maker specs and Fuji owner reports from r/fujifilm and FujiX-Forum.
 
 ## Fujifilm X-T5 tripod comparison: height with the column down
 

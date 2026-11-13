@@ -559,7 +559,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for mirrorless camera kits is the one that carries your body and heaviest lens with room to spare: for most people that is the [Manfrotto Befree Advanced (Lever)](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), rated to 9 kg, and for the smallest fold the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber). I sorted six tripods by the real weight of mirrorless kits, using maker specs, Sony's published weights and owner reports; I have not used these six tripods myself. If the tripod has to fit a carry-on first, our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) rank 15 models by packed size.
+The best tripod for mirrorless camera kits is the one that carries your body and heaviest lens with room to spare: for most people that is the [Manfrotto Befree Advanced (Lever)](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), rated to 9 kg, and for the smallest fold the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber). I sorted six tripods by the real weight of mirrorless kits, using maker specs, Sony's published weights and owner reports. If the tripod has to fit a carry-on first, our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/) rank 15 models by packed size.
 
 I have been shooting since 2017, and my cameras today are a Sony A7 IV and a Canon EOS R6 Mark II, so I ran the numbers on the kits I carry: the A7 IV with a 24-70mm G Master II, and the 200-600mm I use for wildlife.
 

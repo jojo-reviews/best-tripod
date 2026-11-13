@@ -1,28 +1,21 @@
 {
   "slug": "best-tripod-for-nikon-zf",
   "pass": true,
-  "checkedAt": "2026-11-06T15:53:44.685Z",
+  "checkedAt": "2026-11-13T19:20:54.921Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AP-10 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.nikon-asia.com/nikkor-z-40mm-f-2-se",
-    "source didn't respond normally (403): https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1725683-REG/smallrig_4060_ap_10_carbon_fiber_tripod.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.lonelyspeck.com/leofoto-ls-284c-carbon-fiber-travel-tripod-review/",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1677248-REG/joby_jb91507_gorillapod_3k_kit.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-06 semantic pass (significant: 2 FAQs added, Material column added). TextRazor 4 pages (Cotswold, CameraEgg, Scott Tucker, Kieran Hayes; Reddit/DPReview/FredMiranda blocked). Material: Peak Design aluminum (maker), AP-10/LS-284CX/LS-224CX carbon fiber (B&H/Leofoto), GorillaPod 3K plastic (B&H specs Primary Material: Plastic). Z fc 390 g body only (Nikon USA overview). Amazon filter bands from amazon.com/s?k=tripod+for+nikon+zf (Firecrawl 2026-11-06); bands mapped from maker ratings/heights already in specs.",
-    "at": "2026-11-06T10:43:34.444Z",
-    "hash": "e234b6e68dbd9d23"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:52.614Z",
+    "hash": "ac36c855965b51f4"
   }
 }

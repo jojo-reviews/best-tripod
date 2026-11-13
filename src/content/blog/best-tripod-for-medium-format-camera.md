@@ -458,7 +458,7 @@ sources:
   - title: 'DPReview forum: A900 shutter causing shake even on tripod'
     url: >-
       https://www.dpreview.com/forums/threads/a900-shutter-causing-shake-even-on-tripod.2753912/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a medium format camera?
@@ -525,7 +525,7 @@ related:
   - best-tripod-for-mirrorless-camera
 ---
 
-The best tripod for medium format camera kits has thick legs rated many times the camera's weight, height without the center column, and a head that holds a heavy body. Miss one and a one-second exposure on a Mamiya RB67 comes back soft because the legs flexed. My pick is the [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod); for film near the car, the [Manfrotto 055 aluminum kit with a 3-way head](amzn:Manfrotto+MK055XPRO3-3W). I matched five tripods to real camera weights using maker specs and owner threads; we have not used these tripods ourselves. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers field technique.
+The best tripod for medium format camera kits has thick legs rated many times the camera's weight, height without the center column, and a head that holds a heavy body. Miss one and a one-second exposure on a Mamiya RB67 comes back soft because the legs flexed. My pick is the [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod); for film near the car, the [Manfrotto 055 aluminum kit with a 3-way head](amzn:Manfrotto+MK055XPRO3-3W). I matched five tripods to real camera weights using maker specs and owner threads. My guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers field technique.
 
 ## Medium format tripod comparison: load headroom over an RB67
 

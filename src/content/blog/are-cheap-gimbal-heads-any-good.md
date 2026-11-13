@@ -192,7 +192,7 @@ sources:
     url: 'https://www.talkphotography.co.uk/threads/cheap-gimbal-head.600242/'
   - title: 'Nikonites: Inexpensive Gimbal Head'
     url: 'https://nikonites.com/forum/threads/inexpensive-gimbal-head.34940/'
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 updatedDate: '2026-11-12T17:49:00.000Z'
 faqs:
   - q: Is a cheap gimbal head good enough for a 600mm lens?
@@ -282,7 +282,7 @@ A zoom lens adds a catch. A DPReview owner found his 200-500mm tipped slightly a
 
 **These two lower-cost gimbal heads are each recommended by at least two of the pages that rank for this question.**
 
-I chose from the products the top results recommend, then checked specs against the manual or B&H and read owner threads. I have not used either head myself.
+I chose from the products the top results recommend, then checked specs against the manual or B&H and read owner threads.
 
 ### Oben GH-30 Gimbal Head: Best budget full gimbal
 

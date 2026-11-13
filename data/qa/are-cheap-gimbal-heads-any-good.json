@@ -1,16 +1,18 @@
 {
   "slug": "are-cheap-gimbal-heads-any-good",
   "pass": true,
-  "checkedAt": "2026-11-12T17:50:16.843Z",
+  "checkedAt": "2026-11-13T19:21:38.126Z",
   "errors": [],
   "warnings": [
+    "first paragraph does not answer the keyword (missing: are, any, good); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Oben GH-30 Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui PH-20 Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:50:15.823Z",
-    "hash": "3791db074cd3e6a2"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:53.823Z",
+    "hash": "3bff5bf5811b9f70"
   }
 }

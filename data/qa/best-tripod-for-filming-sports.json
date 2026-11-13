@@ -1,22 +1,19 @@
 {
   "slug": "best-tripod-for-filming-sports",
   "pass": true,
-  "checkedAt": "2026-11-06T15:51:52.931Z",
+  "checkedAt": "2026-11-13T19:21:08.903Z",
   "errors": [],
   "warnings": [
     "product \"Glide Gear TST 20 Sky High Tall Video Camera Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP75 Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree 3-Way Live Advanced\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.kenrockwell.com/tech/smallrig/ad-01.htm",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/14xns9h/ball_head_or_pan_and_tilt_tripod_to_record_kids/",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/qu0961/question_about_best_phone_tripod_for_filming/"
+    "product \"Sachtler System Ace M MS Mk II Tripod System\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-recording-school-plays, no claim changed",
-    "at": "2026-11-04T16:25:06.440Z",
-    "hash": "cd50586960be3835"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:06.538Z",
+    "hash": "df3f946fdf0015c3"
   }
 }

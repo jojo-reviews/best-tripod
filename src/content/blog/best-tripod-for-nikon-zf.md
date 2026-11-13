@@ -407,7 +407,7 @@ sources:
   - title: 'Scott Tucker: must-have accessories for the Nikon Zf'
     url: >-
       https://www.scotttuckerphoto.com/blog/my-must-have-accessories-for-the-nikon-zf
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-06T12:00:00.000Z'
 author: ned-diary
 faqs:
@@ -481,7 +481,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-Blue hour on a city bridge, a Nikon Zf with the 24-70mm f/4, and a 2-second exposure you can't hold by hand. The best tripod for Nikon Zf owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot long exposures in wind, I'd pick a columnless [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod). I matched five tripods to the Zf and its lenses from maker specs and Zf owner threads; we have not used them ourselves.
+Blue hour on a city bridge, a Nikon Zf with the 24-70mm f/4, and a 2-second exposure you can't hold by hand. The best tripod for Nikon Zf owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot long exposures in wind, I'd pick a columnless [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod). I matched five tripods to the Zf and its lenses from maker specs and Zf owner threads.
 
 ## Nikon Zf tripod picks compared on height, fold and load
 

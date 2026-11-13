@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-ipad",
   "pass": true,
-  "checkedAt": "2026-11-08T11:55:50.177Z",
+  "checkedAt": "2026-11-13T19:21:10.102Z",
   "errors": [],
   "warnings": [
     "product \"elitehood Metal iPad Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,16 +11,12 @@
     "product \"JOBY GripTight PRO Tablet Mount\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1668644-REG/ulanzi_2597_u_pad_iii_metal_universal.html",
-    "source didn't respond normally (403): https://eu.manuals.plus/ae/1005003218922701",
-    "source didn't respond normally (403): https://www.ebay.com/itm/820030835419",
-    "source didn't respond normally (403): https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified against Apple iPad Pro/Air/mini spec pages (13-inch Pro 8.48 in wide and 1.28 lb, 11-inch Pro 6.99 in, Air 11 7.02 in, Air 13 8.46 in, mini 5.22 in); Ulanzi U-Pad III clamp 10-23 cm (Ulanzi manual on manuals.plus), 199 g, cold shoe, 1/4-20 and Arca dovetails (B&H), 3.1 lb max load (Amazon listing B09C59W5VG, ULANZI Select brand, third-party seller); KobraTech TabMount 360 clamp 6.25-9.30 in, two 1/4 threads, cold shoe, 30 ft remote, metal ball head (kobratech.com, Amazon B086R8X9XF brand KobraTech part KT-TM360b); JOBY GripTight PRO JB01394 5-7.5 in, 145 g, 3.0x2.1x5.4 in, ABS/TPE/stainless (K&M Camera), owner Q&A on fit and portrait support (Best Buy); GRIFITI Nootle kit 99621 stand about 6 ft, 5 ft working height, 9.5-14.5 in tablets, 2.4 lb, mini ball head and case (Amazon B01CZ12EHI sold by Grifiti; grifiti.com mount page: not for iPad mini, 5/8 in lip); elitehood Metal iPad Tripod Stand ST-413 30-72 in, 4.7-13 in devices, 3.6 lb, four-spring metal clamp, 360 ball joint, carry bag (Amazon B08S777F1H sold by Elitehood, eBay listing). Spare-clamp numbers computed from those figures. All 5 ASINs checked in stock on Amazon US via Firecrawl (JOBY sold by Amazon.com). Owner quotes checked verbatim at MacRumors, GolfWRX, Best Buy Q&A; Reddit quotes from search excerpts of the same thread URLs.",
-    "at": "2026-11-08T11:38:20.253Z",
-    "hash": "ba0a09814fda9787"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:07.444Z",
+    "hash": "ddc21e570199ec7c"
   }
 }

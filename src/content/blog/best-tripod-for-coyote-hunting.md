@@ -395,7 +395,7 @@ sources:
   - title: 'Reddit r/Hunting: Furthest distance for a tripod shot'
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
-reviewedDate: '2026-11-08T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for coyote hunting at night?
@@ -457,7 +457,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for coyote hunting holds your rifle hands-free at the height you shoot from, which on most night stands means standing. My top pick is the [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42.5 mm carbon legs, a 150 lb rating and 71.5 in on the legs alone. Thermal hunters who want inverted legs should look at the Warrior Commander, and the SLIK Pro 700 DX is the budget base. I compared these five on maker spec sheets and owner reports from predator hunting forums; I did not use them myself. For deer stands, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
+The best tripod for coyote hunting holds your rifle hands-free at the height you shoot from, which on most night stands means standing. My top pick is the [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42.5 mm carbon legs, a 150 lb rating and 71.5 in on the legs alone. Thermal hunters who want inverted legs should look at the Warrior Commander, and the SLIK Pro 700 DX is the budget base. I compared these five on maker spec sheets and owner reports from predator hunting forums. For deer stands, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
 
 ## Coyote hunting tripod comparison by standing height, legs and weight
 
@@ -473,7 +473,7 @@ The best tripod for coyote hunting holds your rifle hands-free at the height you
 
 The Fatboy and SLIK ship without a head, so I add a [rifle ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base to their cost.
 
-## How we picked these coyote hunting tripods
+## How I picked these coyote hunting tripods
 
 **I kept only shooting tripods that two or more predator hunting pages recommend and that have their own Amazon listing.** The BOG and Fatboy each appear on four of those pages, the Radian and SLIK on three, and the Commander on two. I left out the Hog Saddle PIG0311 and Leofoto LS-364C because Amazon sells only a short PIG0311 variant and a newer Leofoto.
 

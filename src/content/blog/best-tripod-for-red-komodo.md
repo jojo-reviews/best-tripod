@@ -410,7 +410,7 @@ sources:
   - title: 'r/videography: Camera too light for the tripod head counterbalance'
     url: >-
       https://www.reddit.com/r/videography/comments/1eu2vh/camera_too_light_for_the_tripod_head/
-reviewedDate: '2026-11-08'
+reviewedDate: '2026-11-13'
 faqs:
   - q: How much does a RED Komodo rig weigh on a tripod?
     a: >-
@@ -480,7 +480,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for RED Komodo work is a fluid head kit whose counterbalance matches the finished rig, not the bare body. For a rigged Komodo that pans, I pick the [Sachtler FSB 8 Mk II system](amzn:Sachtler+0771AM+System+FSB+8+Mk+II+75/2+AL+GS+Tripod+System): its head balances anything from 0 to 26.5 lb. The Sachtler Ace XL is lighter, the TRIBEX SE faster. This is research from maker specs and owner reports, not hands-on testing.
+The best tripod for RED Komodo work is a fluid head kit whose counterbalance matches the finished rig, not the bare body. For a rigged Komodo that pans, I pick the [Sachtler FSB 8 Mk II system](amzn:Sachtler+0771AM+System+FSB+8+Mk+II+75/2+AL+GS+Tripod+System): its head balances anything from 0 to 26.5 lb. The Sachtler Ace XL is lighter, the TRIBEX SE faster. I built this list from maker specs and owner reports.
 
 ## RED Komodo tripod counterbalance math: bare body vs built rig
 

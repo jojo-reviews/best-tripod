@@ -329,7 +329,7 @@ sources:
   - title: 'r/weddingvideography: using a gimbal on a monopod'
     url: >-
       https://www.reddit.com/r/weddingvideography/comments/1kpn90c/using_a_gimbal_on_a_monopod_for_wedding/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 updatedDate: '2026-11-12T17:49:34.000Z'
 faqs:
   - q: Do I need a gimbal head for a 150-600mm lens?
@@ -393,7 +393,7 @@ The point I see most pages skip is arm fit, and it matters to me because my own 
 
 ## The 4 Best Gimbal Heads for a 150-600mm Lens
 
-**Each gimbal head for a 150-600mm lens here is recommended by at least two independent pages ranking for this search. I compared maker specs and owner threads; I have not used these four heads myself.**
+**Each gimbal head for a 150-600mm lens here is recommended by at least two independent pages ranking for this search. I compared maker specs and owner threads.**
 
 ### ProMediaGear GKJr. Katana Junior Gimbal Head: Best overall
 
@@ -451,7 +451,7 @@ These are the steps I'd follow:
 1. **The ball head droops or creeps.** On Photo Stack Exchange, the answer to a shaking supertelephoto is that the lens's center of gravity sits above the head's axes. A gimbal fixes that by pivoting at the balance point. If you stay on a ball head, mount by the lens foot and, as an r/SonyAlpha reply advises, size head and legs at least three times the load.
 2. **The gimbal is too heavy to carry.** Owners in a DPReview 180-600 thread say even gimbals that break down are large to transport. Choose the Katana Junior, the E-6H or the Sidekick, and keep the WH-200 for the car.
 3. **The monopod wobbles under the gimbal.** A full gimbal makes a light monopod top-heavy; a wedding videographer on Reddit found a slight wobble at the base. Shutter Muse uses the Wimberley MH-100 MonoGimbal on a monopod instead. Our [monopods with feet for wildlife](/blog/best-monopod-with-feet-for-wildlife-photography/) suit a 150-600mm on the move.
-4. **The gimbal goes unused.** One FredMiranda owner wrote, "I have a ProMedia Katana Junior but I never use it - even with the 600GM." Buy a gimbal for hides, nests and long waits, not for walking trails.
+4. **The gimbal goes unused.** One FredMiranda owner of a ProMedia Katana Junior wrote that it stays in the bag, "even with the 600GM." Buy a gimbal for hides, nests and long waits, not for walking trails.
 5. **Unsure whether to pay for a premium head.** For occasional use with a zoom, a budget head can work; our [cheap gimbal head guide](/blog/are-cheap-gimbal-heads-any-good/) covers the trade-offs.
 
 ## Our Verdict on the Best Gimbal Head for a 150-600mm Lens

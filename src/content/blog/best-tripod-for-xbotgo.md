@@ -381,7 +381,7 @@ sources:
     url: 'https://www.reddit.com/r/VeoCamera/comments/1g12ib1/tripod_in_the_wind/'
   - title: 'Fred Miranda forum: make a tripod secure in very windy conditions'
     url: 'https://www.fredmiranda.com/forum/topic/1897628/'
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 author: ned-diary
 videos:
   - id: '-0IbfzcgPjI'
@@ -437,7 +437,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for XbotGo on a full field is the [XbotGo NT4](amzn:XbotGo+T4+tripod+13+feet+soccer+basketball): 13 ft, a 22 lb rating and weight bags in the box. For gyms and bleachers, the 3.77 ft [XbotGo NT1](amzn:XbotGo+T1+tripod+3.77ft+Chameleon) is enough. I compared five from specs and owner reports, not hands-on.
+The best tripod for XbotGo on a full field is the [XbotGo NT4](amzn:XbotGo+T4+tripod+13+feet+soccer+basketball): 13 ft, a 22 lb rating and weight bags in the box. For gyms and bleachers, the 3.77 ft [XbotGo NT1](amzn:XbotGo+T1+tripod+3.77ft+Chameleon) is enough. I compared five from specs and owner reports.
 
 ## Tripod for XbotGo compared by height and load
 

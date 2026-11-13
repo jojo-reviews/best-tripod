@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-for-starlink-mini",
   "pass": true,
-  "checkedAt": "2026-11-09T11:38:00.624Z",
+  "checkedAt": "2026-11-13T19:21:07.178Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: only 11 first-person words; owner rule wants at least 12 (about 1 per 100 words: I, my, me, we, our, us)",
     "product \"Boltwasp Starlink Mini Tripod Mount\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"EXNOVFC Portable Starlink Mini Tripod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Saunyoto PM166S Starlink Mini Battery Pack\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified via Firecrawl 2026-11-09: Starlink Mini spec sheet (1.10 kg/2.43 lb, 25-40 W average, 60 mph+ wind, 110 deg FOV); FAA PackSafe (100 Wh / 101-160 Wh approval / >160 Wh forbidden); Boltwasp B0GH7SYNV3 listing specs (alloy steel, 360 ball head, snap-on adapter, 16.34 in, model SLM-MT-FB) + Homestead Bandwagon review; EXNOVFC B0G1ZBRFL2 listing (0.72 lb, 8 lb load, fixed angle 360 rotation, old/new adapters) + Thingiverse owner (327 g, 133 g adapter, weak set screw); Saunyoto PM166S B0H7576SYF listing (166Wh, 60W DC 30V, 65W USB-C, 100W, IP67, 2.2 lb) + DISHYtech (6.5 h test, 5 h claim, LEDs unreadable, old/new adapter fit) + Freely Roaming (PM166S, LEDs); ROVEDGE MK-1 rovedge.com specs (189Wh, 51,300mAh, 30V/2A, 65W USB-C, ~1,025 g, 6061-T6, 5-8 h) + owner reviews (legs slide together, plastic top plate, screw-adjust top) + Matao Outdoors; Daqa B0DXK28P86 listing (20V 5A, 1.7 lb, SLP-002, old/new adapters) + Ryan Adapts (108 Wh, 22 W draw, heavy base, case) + r/Starlink single USB-C quote; all 5 ASINs in stock and shipped by Amazon (offer check); Reddit/iRV2 quotes verified verbatim via search excerpt/page; runtime math = Wh / 25-40 W.",
-    "at": "2026-11-09T11:38:00.197Z",
-    "hash": "f0a3ded3a37e8cc0"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:04.276Z",
+    "hash": "f80c488b615f1e5d"
   }
 }

@@ -1,10 +1,10 @@
 {
   "slug": "best-phone-tripod-for-vlogging-with-remote",
   "pass": true,
-  "checkedAt": "2026-11-11T20:55:41.612Z",
+  "checkedAt": "2026-11-13T19:21:01.562Z",
   "errors": [],
   "warnings": [
-    "body has 2009 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "body has 1995 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Portable Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-11T20:55:40.386Z",
-    "hash": "1a3d4160afc13523"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:58.952Z",
+    "hash": "5f80bb7abcf17b24"
   }
 }

@@ -373,7 +373,7 @@ sources:
   - title: 'r/Starlink: Trouble finding tripod adapter for new Starlink Mini'
     url: >-
       https://www.reddit.com/r/Starlink/comments/1k7nfk9/trouble_finding_tripod_adapter_for_new_starlink/
-reviewedDate: '2026-11-09'
+reviewedDate: '2026-11-13'
 faqs:
   - q: What is the best tripod for Starlink Mini?
     a: >-
@@ -434,7 +434,7 @@ heroAlt: >-
 heroImage: /images/featured/best-tripod-for-starlink-mini.png
 ---
 
-The best tripod for Starlink Mini lifts the dish above grass and parked vehicles and still lets you aim it. For most campers that is the [Boltwasp Starlink Mini Tripod Mount](amzn:Boltwasp+Starlink+Mini+Tripod+Mount+with+Adapter+height+adjustable+360+tilt), an alloy steel tripod with a 360° ball head. With no power at the campsite, a battery tripod like the [ROVEDGE MK-1](amzn:ROVEDGE+MK-1+Portable+Power+Station+for+Starlink+Mini+189Wh+integrated+tripod) runs the dish for hours. I compared five picks from maker specs and owner reviews; I did not test them. Windy site? See [weighing down a tripod without a sandbag](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/).
+The best tripod for Starlink Mini lifts the dish above grass and parked vehicles and still lets you aim it. For most campers that is the [Boltwasp Starlink Mini Tripod Mount](amzn:Boltwasp+Starlink+Mini+Tripod+Mount+with+Adapter+height+adjustable+360+tilt), an alloy steel tripod with a 360° ball head. With no power at the campsite, a battery tripod like the [ROVEDGE MK-1](amzn:ROVEDGE+MK-1+Portable+Power+Station+for+Starlink+Mini+189Wh+integrated+tripod) runs the dish for hours. I compared five picks from maker specs and owner reviews. Windy site? See [weighing down a tripod without a sandbag](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/).
 
 ## Starlink Mini Tripod Comparison by Weight, Aim and Power
 

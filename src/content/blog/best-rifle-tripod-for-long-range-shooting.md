@@ -432,7 +432,7 @@ sources:
   - title: 'r/longrange: Help with shooting off a lightweight tripod'
     url: >-
       https://www.reddit.com/r/longrange/comments/1oa98i3/i_could_use_some_help_with_shooting_off_a_light/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: How much weight should a rifle tripod hold for long range shooting?
@@ -496,7 +496,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best rifle tripod for long range shooting is one rated for several times your rifle's weight, tall enough on its legs for the positions you shoot, and topped with a solid Arca-Swiss clamp. My top pick is the [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): a 55 lb max load, a ball head in the box and 8.3 to 67.3 in of height. The Leupold Mark 5 CF-455 stands tallest, and the Fatboy Traverse 3 Section has the stiffest legs. I compared these five on maker spec sheets and owner reports from long range forums; I have not used them myself. For deer stands and stalking, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
+The best rifle tripod for long range shooting is one rated for several times your rifle's weight, tall enough on its legs for the positions you shoot, and topped with a solid Arca-Swiss clamp. My top pick is the [Vortex Radian Carbon Tripod Kit](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head): a 55 lb max load, a ball head in the box and 8.3 to 67.3 in of height. The Leupold Mark 5 CF-455 stands tallest, and the Fatboy Traverse 3 Section has the stiffest legs. I compared these five on maker spec sheets and owner reports from long range forums. For deer stands and stalking, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
 
 I have been shooting photos since 2017, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, the same clamp standard these rifle heads use. For wildlife I use a 200-600mm lens, and like a rifle it is long and front-heavy on a ball head, so I read load ratings and clamp specs first.
 

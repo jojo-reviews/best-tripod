@@ -1,9 +1,11 @@
 {
   "slug": "ball-head-sags-after-tightening",
   "pass": true,
-  "checkedAt": "2026-11-13T17:50:16.871Z",
+  "checkedAt": "2026-11-13T19:21:39.035Z",
   "errors": [],
   "warnings": [
+    "first paragraph does not answer the keyword (missing: sags, after, tightening); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"Hand setting the friction knob on a ball\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Quick-release plate with an anti-twist l\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Telephoto lens balanced over a ball head\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -13,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-13T17:50:15.855Z",
-    "hash": "a7049ba0c2bd52f9"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:57.970Z",
+    "hash": "e7d2174c488593ab"
   }
 }

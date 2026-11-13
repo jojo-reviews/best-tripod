@@ -391,7 +391,7 @@ sources:
   - title: 'r/videography: Robust tripod solution for static concert camera'
     url: >-
       https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-06T15:31:03.000Z'
 author: ned-diary
 faqs:
@@ -470,7 +470,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for recording school plays lifts the camera above the heads in front and holds one wide frame of the stage for an hour or more. My overall pick is the [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head), a fluid-head video tripod that reaches 73.2 in. If you will stand behind the last row, the [NEEWER 79 inch Video Tripod](amzn:NEEWER+79+inch+200cm+video+tripod+heavy+duty+fluid+drag+head) goes to 78.7 in. I compared five tripods on maker specs and owner reports, not hands-on use.
+The best tripod for recording school plays lifts the camera above the heads in front and holds one wide frame of the stage for an hour or more. My overall pick is the [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head), a fluid-head video tripod that reaches 73.2 in. If you will stand behind the last row, the [NEEWER 79 inch Video Tripod](amzn:NEEWER+79+inch+200cm+video+tripod+heavy+duty+fluid+drag+head) goes to 78.7 in. I compared five tripods on maker specs and owner reports.
 
 ## How tall a tripod for recording school plays must be
 

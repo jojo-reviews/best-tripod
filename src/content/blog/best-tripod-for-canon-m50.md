@@ -387,7 +387,7 @@ sources:
   - title: 'r/canon: Best tripod under $100 for a Canon M50'
     url: >-
       https://www.reddit.com/r/canon/comments/jdjwu2/best_tripod_under_100_for_a_canon_m50/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon M50?
@@ -457,7 +457,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for Canon M50 owners is the [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), a 2.7 lb travel tripod that folds to 13 in and pans on its own lock for video. A Canon EOS M50 Mark II with the 15-45mm kit lens weighs about 517 g, so choose on height and where you shoot: the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for eye-level stills, the [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) for vlogs. I matched five tripods to the Canon EOS M50 from maker specs and owner reports; we have not used them ourselves.
+The best tripod for Canon M50 owners is the [Vanguard VEO 3GO 235AB](amzn:Vanguard+VEO+3GO+235AB+aluminum+travel+tripod), a 2.7 lb travel tripod that folds to 13 in and pans on its own lock for video. A Canon EOS M50 Mark II with the 15-45mm kit lens weighs about 517 g, so choose on height and where you shoot: the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for eye-level stills, the [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) for vlogs. I matched five tripods to the Canon EOS M50 from maker specs and owner reports.
 
 ## Canon M50 tripod comparison by load and height
 

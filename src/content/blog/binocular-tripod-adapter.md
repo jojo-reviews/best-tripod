@@ -235,7 +235,7 @@ sources:
     url: 'https://fanaue.com/en/product/s1-Binocular-Adapter/'
   - title: 'Aziak Equipment: Bino Clamp'
     url: 'https://aziak.com/products/bino-clamp'
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-12T17:49:21.000Z'
 faqs:
   - q: Do all binoculars have a tripod thread?
@@ -302,7 +302,7 @@ Backwoods Pursuit notes, "Several of the high end binoculars on the market today
 
 A stud adapter makes the binocular's own hinge the mounting point and sits on the center line of the tripod head. A clamp adapter wraps the barrels and ignores the hinge, so a rubber-armored roof prism gives it more to grip.
 
-> **From our notes:** A 0.3 oz clamp and a locking stud solve different problems, and the maker pages, the Backwoods Pursuit write-up and the BirdForum thread all point to one question: does the binocular have a socket? Most complaints came from people who bought for weight or price first and found the fit wrong: a clamp that slid off an odd-shaped housing, a strap that would not close on a 15x. This is research, not testing: I have not handled either adapter.
+> **From our notes:** A 0.3 oz clamp and a locking stud solve different problems, and the maker pages, the Backwoods Pursuit write-up and the BirdForum thread all point to one question: does the binocular have a socket? Most complaints came from people who bought for weight or price first and found the fit wrong: a clamp that slid off an odd-shaped housing, a strap that would not close on a 15x.
 
 ## Binocular tripod adapters compared: stud vs clamp
 

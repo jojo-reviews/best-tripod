@@ -374,7 +374,7 @@ sources:
   - title: 'Gear for Greatness: Best accessories for the DJI Action 5 Pro'
     url: >-
       https://www.gear4greatness.com/post/best-accessories-for-the-dji-action-5-pro-in-2025-my-real-world-recommendations
-reviewedDate: '2026-11-04T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Does the DJI Osmo Action 5 Pro have a tripod mount?
     a: >-
@@ -440,7 +440,7 @@ heroAlt: >-
   buying guide
 ---
 
-The timelapse is framed, the Action 5 Pro is propped on a rock, and one gust later the sunset is pointing at your boots. The best tripod for DJI Osmo Action 5 Pro shooting is one that takes the camera's magnetic quick-release without fuss: DJI's [Osmo Action Mini Extension Rod](amzn:DJI+Osmo+Action+Mini+Extension+Rod) for pockets, the [SmallRig 5435](amzn:SmallRig+Action+Cam+Selfie+Stick+Tripod+5435+DJI+Action+5+Pro) for tabletop vlogs, and DJI's 1.5 m rod for reach. I matched five picks to the camera from maker specs and owner threads; we have not used these tripods ourselves.
+The timelapse is framed, the Action 5 Pro is propped on a rock, and one gust later the sunset is pointing at your boots. The best tripod for DJI Osmo Action 5 Pro shooting is one that takes the camera's magnetic quick-release without fuss: DJI's [Osmo Action Mini Extension Rod](amzn:DJI+Osmo+Action+Mini+Extension+Rod) for pockets, the [SmallRig 5435](amzn:SmallRig+Action+Cam+Selfie+Stick+Tripod+5435+DJI+Action+5+Pro) for tabletop vlogs, and DJI's 1.5 m rod for reach. I matched five picks to the camera from maker specs and owner threads.
 
 ## How each Osmo Action 5 Pro tripod mounts, compared
 

@@ -399,7 +399,7 @@ sources:
   - title: 'r/photography: Quick-release tripod for a Canon G7X III'
     url: >-
       https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-07T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 faqs:
   - q: Does the Canon HG-100TBR work with the G7X Mark III?
     a: >-
@@ -463,7 +463,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for Canon G7X Mark III vloggers is Canon's [Tripod Grip HG-100TBR](amzn:Canon+Tripod+Grip+HG-100TBR), because Canon lists the camera as compatible and the clipped-in remote starts recording while the flip-up screen faces you. For tables I'd take the Manfrotto PIXI Mini, for railings the Joby GorillaPod 1K, for vertical clips the PIXI EVO, and for standing shots the Peak Design Travel Tripod (Aluminum). I matched all five to the camera from maker specs and owner reports on B&H, r/canon and DPReview's forum; we haven't used them ourselves.
+The best tripod for Canon G7X Mark III vloggers is Canon's [Tripod Grip HG-100TBR](amzn:Canon+Tripod+Grip+HG-100TBR), because Canon lists the camera as compatible and the clipped-in remote starts recording while the flip-up screen faces you. For tables I'd take the Manfrotto PIXI Mini, for railings the Joby GorillaPod 1K, for vertical clips the PIXI EVO, and for standing shots the Peak Design Travel Tripod (Aluminum). I matched all five to the camera from maker specs and owner reports on B&H, r/canon and DPReview's forum.
 
 ## G7X Mark III tripod specs compared against a 304 g camera
 

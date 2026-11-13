@@ -1,10 +1,11 @@
 {
   "slug": "landscape-photography-tripod",
   "pass": true,
-  "checkedAt": "2026-11-11T22:25:55.040Z",
+  "checkedAt": "2026-11-13T19:21:32.079Z",
   "errors": [],
   "warnings": [
-    "body has 3366 words, over the 2300 limit (top results average 2000): cut repetition and filler",
+    "body has 3359 words, over the 2300 limit (top results average 2000): cut repetition and filler",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB Gen 2 Aluminum Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,8 +17,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-11T22:25:53.925Z",
-    "hash": "c087acbc3ab3eeca"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:31.206Z",
+    "hash": "c73719e4f6e81acf"
   }
 }

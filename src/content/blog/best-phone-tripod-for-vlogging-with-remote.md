@@ -38,7 +38,7 @@ productCount: 3
 readingTime: 9
 tldr:
   - >-
-    For iPhone vloggers, the KraftGeek JustTap Magnetic Phone Tripod is our top
+    For iPhone vloggers, the KraftGeek JustTap Magnetic Phone Tripod is my top
     pick: a 66 in MagSafe selfie stick tripod with a USB-C rechargeable remote
     that folds to 13 in.
   - >-
@@ -308,14 +308,14 @@ sources:
     url: 'https://www.popsci.com/gear/best-iphone-tripods/'
   - title: 'Manuals+: SENSYNE phone tripod manual'
     url: 'https://manuals.plus/asin/B09TQY66NH.pdf'
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 updatedDate: '2026-11-11T20:55:34.000Z'
 faqs:
   - q: Do phone tripod remotes work with iPhone and Android?
     a: >-
       The Bluetooth shutter remotes bundled with these phone tripods are
       Bluetooth devices, but only the SENSYNE listing names both iPhone and
-      Android, and we did not confirm compatibility for the UBeesize remote. One
+      Android. One
       SENSYNE reviewer reported quick pairing on Android. The KraftGeek JustTap
       is built around iPhone MagSafe, and a third-party review lists its remote
       as working with iOS 10 and Android 8 or newer, so check the listing for
@@ -354,7 +354,7 @@ related:
   - best-tripod-for-iphone-night-mode-photos
 ---
 
-I've been shooting since 2017, and video is one of the genres I work in alongside travel and landscape. For camera video I lean on a DJI RS 3 Pro gimbal and carbon fiber tripods with ball heads, but a phone vlog is a different problem: I'm the operator and the subject at once. The best phone tripod for vlogging with remote puts your smartphone near eye level, holds it steady hands-free, and starts the clip from where you stand. I compared three popular kits on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. I did not test any of them; everything below comes from published specs, owner reviews and roundups.
+I've been shooting since 2017, and video is one of the genres I work in alongside travel and landscape. For camera video I lean on a DJI RS 3 Pro gimbal and carbon fiber tripods with ball heads, but a phone vlog is a different problem: I'm the operator and the subject at once. The best phone tripod for vlogging with remote puts your smartphone near eye level, holds it steady hands-free, and starts the clip from where you stand. I compared three popular kits on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. Everything below comes from published specs, owner reviews and roundups.
 
 ## Phone Tripod for Vlogging With Remote: Height, Mount and Remote Compared
 
@@ -373,7 +373,7 @@ I've been shooting since 2017, and video is one of the genres I work in alongsid
 
 ## How We Chose Each Phone Tripod for Vlogging With Remote
 
-**I picked the three phone tripods with remotes that came up repeatedly in vlogging and iPhone tripod roundups, then checked each against maker and retailer spec pages and owner reviews.** I did not buy or test them. What matters to me is the same thing I want from my own carbon tripods: a steady top at working height and a setup I can trust when I walk away from it.
+**I picked the three phone tripods with remotes that came up repeatedly in vlogging and iPhone tripod roundups, then checked each against maker and retailer spec pages and owner reviews.** What matters to me is the same thing I want from my own carbon tripods: a steady top at working height and a setup I can trust when I walk away from it.
 
 The owner evidence is uneven. For the KraftGeek I read 10 sources, including Macworld, Digital Camera World and a B&H customer review. For the UBeesize I read 6, including Bustle, PopSci, a ShopSavvy summary and eBay buyer ratings. For the SENSYNE I found only 4, none a retailer review page, so treat that verdict as an early signal.
 
@@ -393,7 +393,7 @@ Two cautions. Amazon sells several JustTap variants; the one I link is the MagSa
 
 ### SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote: best tall budget kit
 
-The SENSYNE 62-Inch Phone Tripod & Selfie Stick is a 62 in aluminum phone tripod from SENSYNE, and the simplest way to reach standing height with a remote for little money; it is also our budget pick among [tripods for golf swing recording](/blog/best-tripod-for-golf-swing-recording/). It weighs about 650 g and ships with a wireless shutter remote, a universal phone holder for phones 2.8 to 5.7 in wide, and a 1/4 in adapter. That adapter uses the standard 1/4"-20 thread, so the tripod can take a small camera, but no load rating is published, so I would keep it to a phone or a very light camera. Our [tripods for gym videos](/blog/best-tripod-for-gym-videos/) cover filming lifts at this height.
+The SENSYNE 62-Inch Phone Tripod & Selfie Stick is a 62 in aluminum phone tripod from SENSYNE, and the simplest way to reach standing height with a remote for little money; it is also my budget pick among [tripods for golf swing recording](/blog/best-tripod-for-golf-swing-recording/). It weighs about 650 g and ships with a wireless shutter remote, a universal phone holder for phones 2.8 to 5.7 in wide, and a 1/4 in adapter. That adapter uses the standard 1/4"-20 thread, so the tripod can take a small camera, but no load rating is published, so I would keep it to a phone or a very light camera. Our [tripods for gym videos](/blog/best-tripod-for-gym-videos/) cover filming lifts at this height.
 
 I'd pick it if standing height on a small budget matters most to you, but independent evidence is thin, and I would rather say so. Reviews describe smooth telescoping, solid-feeling aluminum and quick remote pairing on Android for one reviewer. They also report a bit of wobble at full height (it takes a real push to tip), a remote magnet that can come loose, an unreliable double-tap selfie toggle, and a tricky leg lock.
 

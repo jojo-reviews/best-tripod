@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-xbotgo",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:09.277Z",
+  "checkedAt": "2026-11-13T19:21:19.982Z",
   "errors": [],
   "warnings": [
     "product \"XbotGo NT4 13 ft Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -10,20 +10,12 @@
     "product \"NEEWER 13ft Air Cushioned Light Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Fotoleey 13ft Heavy Duty Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://xb2025.zendesk.com/hc/en-us/articles/4662779567518-XbotGo-Tripod-Comparison-Selection-Guide",
-    "source didn't respond normally (403): https://xb2025.zendesk.com/hc/en-us/articles/5022106076062-XbotGo-Falcon-Recommended-Shooting-Positions-and-Heights-for-Each-Sport-Mode",
-    "source didn't respond normally (403): https://xb2025.zendesk.com/hc/en-us/articles/5373685015582-XbotGo-Falcon-vs-XbotGo-Chameleon-Full-Specification-Comparison",
-    "source didn't respond normally (403): https://xb2025.zendesk.com/hc/en-us/articles/5129956374814-How-to-Mount-Falcon-onto-a-Tripod",
-    "source didn't respond normally (403): https://www.reddit.com/r/SoccerCoachResources/comments/1qwtfnm/xbotgo_falcon_early_adopters/",
-    "source didn't respond normally (403): https://www.reddit.com/r/XbotGo_Users/comments/1wlia09/help_with_xbotgo_chameleon_for_american_football/",
-    "source didn't respond normally (403): https://www.reddit.com/r/VeoCamera/comments/1g12ib1/tripod_in_the_wind/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1897628/"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Verified 2026-11-05 with Firecrawl: XbotGo NT4 (xbotgo.com product page + tripod guide + help-center table: 4.5-13 ft, 4 sections, folds 4.47 ft, 7.5 lb, 22 lb/10 kg, steel per spec table, TorqueLock 1/4 in, weight bags in box; owner reviews on xbotgo.com incl. minor movement at 8-10 ft); NT4 PRO (xbotgo.com: 12.8 ft/3.9 m, min 4.5 ft, folds 5 ft, 6.57 lb, 53.5 in base, 60 deg legs, horseshoe pads, air-cushioned carbon fiber column, alloy steel legs, U-shaped Falcon head, no load rating published); NT1/T1 (xbotgo.com: 45.28 in, 1.43 lb, 11.61 in folded, 6.61 lb, 3 sections); NEEWER ST-400AC (neewer.com: 13 ft, min 4.6 ft, folds 4 ft, 6.5 lb/3 kg, 4 sections, 1/4-3/8 spigot, air cushion, weight not on maker page); Fotoleey 13ft (Newegg: 13.1 ft/4 m, folds 3.6 ft, 8.2 lb/3.7 kg, steel, sandbag + carrying bag). Falcon 815 g (xbotgo.com/pages/xbotgo-falcon), Chameleon 544 g excl. phone (help center comparison), 3.5 m/11.5 ft for 7v7-11v11 and 2.5 m/8 ft for 5v5, 1-3 m outside sideline (help center heights page); Falcon must use its quick release plate (help center mounting article). All 5 Amazon US ASINs hand-checked in stock, ships from Amazon: B0DCJ29SPD, B0H9RJ8LPH, B0DD7N229C, B0BTL5XYN6, B0G1JYRWSW. Reddit quote verified by exact-phrase search (r/XbotGo). Video -0IbfzcgPjI title 'XbotGo Tripod Placement Tutorial Soccer Field'. Load math: 815 g / 10 kg = 8%.",
-    "at": "2026-11-05T17:59:42.230Z",
-    "hash": "5a979561c7ed5a19"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:17.846Z",
+    "hash": "7158656e3cdd33e1"
   }
 }

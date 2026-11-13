@@ -429,7 +429,7 @@ sources:
       https://www.reddit.com/r/canon/comments/14epjb9/l_bracket_for_r8_with_screen_rotation/
   - title: 'RF Shooters: Tripod shake or building shake'
     url: 'https://rfshooters.com/threads/tripod-shake-or-building-shake.5671/'
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon R8?
@@ -489,7 +489,7 @@ related:
   - best-tripod-for-canon-r5
 ---
 
-A 20-second exposure on a dusk shoreline, soft because thin legs hummed. The best tripod for Canon R8 owners depends on lens and wind, not the camera: for travel it is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), and for windy long exposures the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). I matched five tripods to R8 kits from maker specs and owner threads; we have not used them.
+A 20-second exposure on a dusk shoreline, soft because thin legs hummed. The best tripod for Canon R8 owners depends on lens and wind, not the camera: for travel it is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum), and for windy long exposures the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod). I matched five tripods to R8 kits from maker specs and owner threads.
 
 ## Canon R8 tripod comparison by weight, height and load
 

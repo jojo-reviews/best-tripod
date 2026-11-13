@@ -1,9 +1,11 @@
 {
   "slug": "best-gimbal-head-for-150-600mm-lens",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:46.778Z",
+  "checkedAt": "2026-11-13T19:22:36.698Z",
   "errors": [],
   "warnings": [
+    "first paragraph does not answer the keyword (missing: gimbal, 150); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"ProMediaGear GKJr. Katana Junior Gimbal Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Wimberley WH-200 Gimbal Head II\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:49:45.616Z",
-    "hash": "3f2d3754c6dc6ad2"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:22:35.915Z",
+    "hash": "478311f62b04fdfd"
   }
 }

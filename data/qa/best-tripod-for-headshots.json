@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-headshots",
   "pass": true,
-  "checkedAt": "2026-11-06T15:52:33.993Z",
+  "checkedAt": "2026-11-13T19:20:54.676Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: paragraph style: the review of \"Vanguard VEO 3+ 263AB Aluminum Tripod with VEO BH-160S Ball Head\" is under ~100 words",
@@ -13,17 +13,12 @@
     "product \"Manfrotto Befree GT XPRO Aluminum Travel Tripod with 496 Ball Head (MKBFRA4GTXP-BH)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.cdc.gov/nchs/fastats/body-measurements.htm",
-    "source didn't respond normally (403): https://www.usa.canon.com/shop/p/rf70-200mm-f2-8-l-is-usm-z",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-height.3771895/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/160z4ca/do_you_ever_use_a_tripod_for_portrait_photography/",
-    "source didn't respond normally (403): https://www.reddit.com/r/AskPhotography/comments/1qg45b4/want_a_proper_photo_tripod_with_center_column_and/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-06 (significant: new section on tripod heads/columns, levelling column explained, FAQ answers rewritten). Feisol CT-3442 Rapid figures re-verified on feisol.net for this model (55.12 in max, 68.50 in with column, 2.51 lb, 55 lb, 2.98 lb with column), not the CT-3472LV. Headshot Crew gear page lists CT-3472LV Mark 2 (leveling column) and CT-3442 plus Arca-Swiss monoball p0/p1. 1kCreatives: Manfrotto 322RC2 joystick head, slip fixed via friction adjustment. r/AskPhotography geared column and head quote. Other specs unchanged from maker pages. Year removed from title: 1 of live top-10 titles has a year.",
-    "at": "2026-11-06T15:31:07.370Z",
-    "hash": "7772fd06ea8b7d5c"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:52.300Z",
+    "hash": "bc8153e69a961715"
   }
 }

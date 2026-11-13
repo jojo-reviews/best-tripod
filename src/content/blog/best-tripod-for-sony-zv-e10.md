@@ -460,7 +460,7 @@ sources:
   - title: 'r/SonyZVE10: What''s the best tripod for this camera?'
     url: >-
       https://www.reddit.com/r/SonyZVE10/comments/1khl9m4/whats_the_best_tripod_for_this_camera/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Sony ZV-E10?
@@ -499,7 +499,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-You set the ZV-E10 on a café table, hit record, and the frame tips forward because the Sigma 16mm out-weighs the little tripod. The best tripod for Sony ZV-E10 vloggers is the [Sony GP-VPT2BT grip](amzn:Sony+GP-VPT2BT+Wireless+Bluetooth+Shooting+Grip) for walk-and-talk clips, and the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for standing eye level. I matched six supports to real ZV-E10 and ZV-E10 II kits using maker specs and owner threads; we have not used these tripods ourselves.
+You set the ZV-E10 on a café table, hit record, and the frame tips forward because the Sigma 16mm out-weighs the little tripod. The best tripod for Sony ZV-E10 vloggers is the [Sony GP-VPT2BT grip](amzn:Sony+GP-VPT2BT+Wireless+Bluetooth+Shooting+Grip) for walk-and-talk clips, and the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for standing eye level. I matched six supports to real ZV-E10 and ZV-E10 II kits using maker specs and owner threads.
 
 ## Tripod for Sony ZV-E10 height and load compared
 

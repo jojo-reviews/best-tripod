@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-gym-videos",
   "pass": true,
-  "checkedAt": "2026-11-06T15:52:27.928Z",
+  "checkedAt": "2026-11-13T19:20:51.105Z",
   "errors": [],
   "warnings": [
     "product \"ULANZI MT-44 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,17 +11,12 @@
     "product \"Manfrotto PIXI Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
-    "source didn't respond normally (403): https://www.findingtheuniverse.com/peak-design-travel-tripod-review/",
-    "source didn't respond normally (403): https://metric.coach/articles/best-gym-tripod-for-phones",
-    "source didn't respond normally (403): https://www.reddit.com/r/beginnerfitness/comments/1v6aqkm/etiquette_for_filming_yourself_in_the_gym/",
-    "source didn't respond normally (403): https://www.reddit.com/r/powerlifting/comments/18k5tg9/filming_at_the_gym_thoughts_and_experiences/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-04 semantic pass: no new prices, ratings or tests; specs unchanged (MT-44 60-80 mm clamp per B&H, iPhone 17 Pro Max 78.0 mm per Apple, Element MII 132 cm column down per Manfrotto, SIRUI 4 kg per SIRUI spec chart). FAQ answers and question sections now open with the answer; picks-at-a-glance H2 renamed to a comparison heading; duplicate verdict text trimmed. ASINs, URL, slug, keyword, pubDate unchanged.",
-    "at": "2026-11-04T17:53:42.575Z",
-    "hash": "9fb608cc610fed1b"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:50.038Z",
+    "hash": "46193b34ba67bebe"
   }
 }

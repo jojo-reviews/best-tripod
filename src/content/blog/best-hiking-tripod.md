@@ -471,7 +471,7 @@ sources:
     url: >-
       https://www.dpreview.com/forums/threads/gitzo-traveler-gt1545t-thoughts.4769546/
 updatedDate: '2026-11-11T22:25:41.000Z'
-reviewedDate: '2026-11-11'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 author: ned-diary
 faqs:
   - q: What is the best hiking tripod?
@@ -529,7 +529,7 @@ related:
   - travel-tripod-vs-full-size-tripod-for-landscape-photography
 ---
 
-A solo road trip across the United States is what first pulled me into photography, and I've kept at it since 2017, mostly on travel and landscape work. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge a trail tripod by whether I'd actually carry it. The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. I did not use these tripods myself; every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
+A solo road trip across the United States is what first pulled me into photography, and I've kept at it since 2017, mostly on travel and landscape work. My own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge a trail tripod by whether I'd actually carry it. The best hiking tripod is a camera tripod light enough that you carry it, and stiff enough at the height you shoot. Picture the ridge before sunrise with seven pounds of camera gear on your back: the wind picks up, you raise the center column, and the long exposure comes back soft. For most hikers, my pick is the Peak Design Travel Tripod (Carbon Fiber): 2.8 lb with its head, 15.5 in folded and 51.25 in tall with the column down. I matched five tripods to pack weight, wind and trail ground, for day hikes and multi-day backpacking trips alike. Every figure comes from maker spec pages, retailer listings or owner reports, and I say which.
 
 ## Best hiking tripod picks by pack weight
 
@@ -555,9 +555,9 @@ This table compares the five on the numbers that decide pack weight, height and 
 
 ## How we chose these hiking tripods
 
-**We kept only tripods that at least two of the top-ranking hiking and backpacking guides recommend, then checked each one against maker pages, retailer spec tables and owner reviews.** We read Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier and Matt Purciel; retailer list pages such as Best Buy's did not count. Sirui shows up as the budget carbon brand (the Traveler 5C on Pack Hacker's list, the T-005KX on J.M. Peltier's), but no single Sirui model made two lists, so it's not a pick here. If you're still deciding on material, our [carbon fiber vs aluminum tripod for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) guide covers the trade-off.
+**I kept only tripods that at least two of the top-ranking hiking and backpacking guides recommend, then checked each one against maker pages, retailer spec tables and owner reviews.** I read Pack Hacker, We Seek Travel, Backwoods Pursuit, J.M. Peltier and Matt Purciel; retailer list pages such as Best Buy's did not count. Sirui shows up as the budget carbon brand (the Traveler 5C on Pack Hacker's list, the T-005KX on J.M. Peltier's), but no single Sirui model made two lists, so it's not a pick here. If you're still deciding on material, our [carbon fiber vs aluminum tripod for hiking](/blog/carbon-fiber-vs-aluminum-tripod-for-hiking/) guide covers the trade-off.
 
-What matters to me on a trail is what I already want from my own carbon tripods: real weight with a head and real height without the column. For each tripod we then checked the trail numbers that matter:
+What matters to me on a trail is what I already want from my own carbon tripods: real weight with a head and real height without the column. For each tripod I then checked the trail numbers that matter:
 
 1. Weight with a head, not just the legs.
 2. Folded length for a pack strap or side pocket.
@@ -566,7 +566,7 @@ What matters to me on a trail is what I already want from my own carbon tripods:
 5. Leg sections, leg-lock type and how the head adjusts.
 6. What owners praise and complain about after real hikes.
 
-> **From our notes:** On the Gitzo GT1545T and carbon Peak Design spec sheets, the weight column turned out to be the trap. The Gitzo's 2.3 lb looks like the lightest full-size option, but that figure is legs and a short column only, while the carbon Peak Design's 2.8 lb already includes its ball head. Add even a small head to the Traveler and the gap nearly closes. Those two, by contrast, have almost the same column-down height, 51.2 and 51.25 in. That's why we compare weight with a head and height without the column, not the headline numbers.
+> **From our notes:** On the Gitzo GT1545T and carbon Peak Design spec sheets, the weight column turned out to be the trap. The Gitzo's 2.3 lb looks like the lightest full-size option, but that figure is legs and a short column only, while the carbon Peak Design's 2.8 lb already includes its ball head. Add even a small head to the Traveler and the gap nearly closes. Those two, by contrast, have almost the same column-down height, 51.2 and 51.25 in. That's why I compare weight with a head and height without the column, not the headline numbers.
 
 ## Best tripods for hiking and backpacking, reviewed
 
@@ -618,7 +618,7 @@ Heavier kits push it too far. One B&H owner found the ball head post flexing wit
 
 Since I shoot landscape work, the wide shots I'd take with a zoom like my 16-35mm usually need the horizon above the brush, and a mini can't give me that height. A full-size carbon fiber tripod pays for itself the moment you want a waterfall long exposure with an ND filter, a level horizon above trailside brush, or a 70-200mm at dusk. If your hikes are mostly about landscapes, our [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) go further on low-angle reach. Carrying a mini as well as a full-size tripod is a reasonable compromise for long trips, because 9.4 oz rarely changes a decision.
 
-What about a trekking pole? Some hikers press one into service as a monopod, but a single pole is not a tripod, and for multi-second exposures we would not count on it.
+What about a trekking pole? Some hikers press one into service as a monopod, but a single pole is not a tripod, and for multi-second exposures I would not count on it.
 
 ## Tripod for a Patagonia trek and other windy hikes
 
@@ -636,7 +636,7 @@ Feet matter on trail. Spiked feet grip soft ground, snow and ice; rubber feet ar
 
 ## Hiking tripod problems and the fix for each
 
-**Five complaints come up again and again in hiking-tripod threads, and most have a fix in technique or in which tripod you pick.** We pulled them from DPReview forum threads and Reddit, and we've noted the matching pick for each.
+**Five complaints come up again and again in hiking-tripod threads, and most have a fix in technique or in which tripod you pick.** I pulled them from DPReview forum threads and Reddit, and I've noted the matching pick for each.
 
 ### "Even the light tripods are too heavy"
 
@@ -662,7 +662,7 @@ Compact built-in heads are often on-off only. One DPReview hiker, writing about 
 
 **Choose a hiking tripod in this order: weight with the head, column-down height, load against your real kit, then folded length, locks and plate.**
 
-The checks we would run before buying:
+The checks I would run before buying:
 
 - **Weight and material.** Carbon fiber (carbon-fiber reinforced polymer) is lighter for the same stiffness and damps vibration faster; aluminum costs less and survives knocks. All three full-size picks here are carbon fiber.
 - **Folded length and carry.** 15 to 17 in fits most side pockets and pack straps; the PIXI EVO fits a coat pocket.

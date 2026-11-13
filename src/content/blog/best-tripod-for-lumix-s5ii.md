@@ -439,7 +439,7 @@ sources:
       https://www.reddit.com/r/videography/comments/zwdznx/recommendations_for_a_video_tripod/
   - title: 'Photography Stack Exchange: how to stabilize a tripod'
     url: 'https://photo.stackexchange.com/questions/94720/how-to-stabilize-a-tripod'
-reviewedDate: '2026-11-07'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Lumix S5II?
@@ -507,7 +507,7 @@ heroAlt: >-
   guide
 ---
 
-The best tripod for Lumix S5II shooters depends on how you split photo and video: for landscapes in wind it is the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), and for stills plus slow pans it is the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+Tripod+Lever+Closure+Ball+Head), whose head has its own pan knob. I matched five tripods to Panasonic's weights for the Panasonic Lumix S5II and its lenses; we have not used them ourselves.
+The best tripod for Lumix S5II shooters depends on how you split photo and video: for landscapes in wind it is the columnless [Leofoto LS-284CX kit](amzn:Leofoto+LS-284CX+LH-30+travel+tripod), and for stills plus slow pans it is the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+Tripod+Lever+Closure+Ball+Head), whose head has its own pan knob. I matched five tripods to Panasonic's weights for the Panasonic Lumix S5II and its lenses.
 
 ## Lumix S5II tripod comparison for photo and video
 

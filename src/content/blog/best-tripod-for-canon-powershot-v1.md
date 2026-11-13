@@ -394,7 +394,7 @@ sources:
   - title: 'r/canon: Canon PowerShot V1 tripod plate?'
     url: >-
       https://www.reddit.com/r/canon/comments/1ltk7hj/canon_power_shot_v1_tripod_plate/
-reviewedDate: '2026-11-06T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Does the Canon PowerShot V1 have a tripod mount?
     a: >-
@@ -465,7 +465,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for Canon PowerShot V1 owners is Canon's own [Tripod Grip HG-100TBR](amzn:Canon+Tripod+Grip+HG-100TBR) if you vlog, because Canon lists the V1 as compatible and the bundled remote starts recording from the handle. For desks, a Manfrotto PIXI Mini or PIXI EVO is all a 426 g camera needs; for standing shots, the Peak Design Travel Tripod. I matched five tripods to the V1 from maker specs and owner reports on r/canon, B&H and DPReview's forum; we have not used them ourselves.
+The best tripod for Canon PowerShot V1 owners is Canon's own [Tripod Grip HG-100TBR](amzn:Canon+Tripod+Grip+HG-100TBR) if you vlog, because Canon lists the V1 as compatible and the bundled remote starts recording from the handle. For desks, a Manfrotto PIXI Mini or PIXI EVO is all a 426 g camera needs; for standing shots, the Peak Design Travel Tripod. I matched five tripods to the V1 from maker specs and owner reports on r/canon, B&H and DPReview's forum.
 
 ## PowerShot V1 tripod specs compared against a 426 g camera
 

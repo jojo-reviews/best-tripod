@@ -170,7 +170,7 @@ sources:
   - title: 'r/AskPhotography: My camera lens is too heavy for tripod, what do I do?'
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/14ri6u0/my_camera_lens_is_too_heavy_for_tripod_what_do_i/
-reviewedDate: '2026-11-13T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-13T17:50:26.000Z'
 faqs:
   - q: How much weight should a tripod hold for a telephoto lens?
@@ -299,7 +299,7 @@ Members of the bcgforums 600mm thread ask the same questions before naming a mod
 
 ## One tripod for a heavy telephoto lens that passes all five checks
 
-**The Gitzo GT3543LS is the 3-series tripod DPReview's roundup names, and a Gitzo Series 3 is what bcgforums members recommend for a 600mm lens.** I feature it as my yardstick, not the only answer; I have not tested it, so the details are Gitzo's specs and owner reports.
+**The Gitzo GT3543LS is the 3-series tripod DPReview's roundup names, and a Gitzo Series 3 is what bcgforums members recommend for a 600mm lens.** I feature it as my yardstick, not the only answer; the details are Gitzo's specs and owner reports.
 
 ### Gitzo GT3543LS Systematic Series 3 tripod: Best 3-series legs for lenses up to a 600mm prime
 

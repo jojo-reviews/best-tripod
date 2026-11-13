@@ -73,7 +73,7 @@ sources:
   - title: READ BEFORE buying a Peak Designs Tripod (r/peakdesign)
     url: >-
       https://www.reddit.com/r/peakdesign/comments/1ee58bg/read_before_buying_a_peak_designs_tripod/
-reviewedDate: '2026-11-12T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-12T17:49:21.000Z'
 faqs:
   - q: Why do my tripod legs keep slipping when they are locked?
@@ -201,7 +201,7 @@ Angle-stop latches can also break; one r/peakdesign owner reports "an angle leg 
 
 K&F Concept explains why: oil cuts friction on surfaces meant to grip and attracts more dirt.
 
-> **From our notes:** The grease advice for tripod leg locks looked contradictory in my research, not a repair log: K&F Concept warns that lubricant on gripping surfaces cuts friction, while Improve Photography greases the cleaned threads. The Feisol manual settled it: a pea-size dab on the metal threads, nothing on the compression rings or inside the tubes, and no liquid lubricant. That split became the spine of this guide.
+> **From our notes:** The grease advice for tripod leg locks looked contradictory in my research: K&F Concept warns that lubricant on gripping surfaces cuts friction, while Improve Photography greases the cleaned threads. The Feisol manual settled it: a pea-size dab on the metal threads, nothing on the compression rings or inside the tubes, and no liquid lubricant. That split became the spine of this guide.
 
 ## Stuck tripod leg section instead of slipping
 

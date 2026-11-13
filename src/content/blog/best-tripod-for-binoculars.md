@@ -384,7 +384,7 @@ sources:
   - title: 'Cloudy Nights: I can''t find a stable tripod'
     url: >-
       https://www.cloudynights.com/forums/topic/992218-i-can%E2%80%99t-find-a-stable-tripod/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for binoculars?
@@ -426,7 +426,7 @@ related:
   - best-tripod-for-dwarf-3
 ---
 
-A tripod for binoculars holds 12x50s steady long after your arms start shaking. The best tripod for binoculars for most people is the [Vortex Ridgeview Carbon](amzn:Vortex+Ridgeview+Carbon+Tripod+Kit), tall enough to glass standing; if you glass seated after a long hike, the 2.5 lb [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit) wins. I matched five tripods to how you glass, using maker spec sheets and owner reports from hunting and astronomy forums. We have not used these tripods ourselves.
+A tripod for binoculars holds 12x50s steady long after your arms start shaking. The best tripod for binoculars for most people is the [Vortex Ridgeview Carbon](amzn:Vortex+Ridgeview+Carbon+Tripod+Kit), tall enough to glass standing; if you glass seated after a long hike, the 2.5 lb [Vortex Summit Carbon II](amzn:Vortex+Summit+Carbon+II+Tripod+Kit) wins. I matched five tripods to how you glass, using maker spec sheets and owner reports from hunting and astronomy forums.
 
 ## Tripods for binoculars compared on height, load and head
 

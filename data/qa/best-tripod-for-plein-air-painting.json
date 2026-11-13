@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-plein-air-painting",
   "pass": true,
-  "checkedAt": "2026-11-06T15:53:54.027Z",
+  "checkedAt": "2026-11-13T19:21:00.459Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto Befree Advanced Twist Carbon Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,15 +11,12 @@
     "product \"Benro MeFOTO RoadTrip Pro Carbon Fiber Travel Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.newegg.com/p/3C6-062J-00052",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1646164-REG/benro_bmrtprocblu_mefoto_roadtrip_pro_carbon.html",
-    "source didn't respond normally (403): https://www.diannaandersonart.com/blog/186714/my-plein-air-painting-gear"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "semantic pass 2026-11-05 (TextRazor, 4 of top 5 pages): significant: FAQ answer on tripod height rewritten to open with the answer (Peak Design 51.25 in, Befree about 50 in column-down, from maker specs already in the post); added Gitzo Traveler Series 0 10 kg / 2.3 lb from Lori McNee's live list; section lead sentences reworded (load capacity, paint, canvas, panel holders); video reference fixed; illustration captions added. No product, price, rating or testing claim changed.",
-    "at": "2026-11-05T22:09:32.438Z",
-    "hash": "a80ecd7a3094a55e"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:57.158Z",
+    "hash": "7800342a63d472a8"
   }
 }

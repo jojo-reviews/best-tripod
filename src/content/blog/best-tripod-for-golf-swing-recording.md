@@ -374,7 +374,7 @@ sources:
     url: 'https://www.wickedsmartgolf.com/blog/irange-sports-stick-review'
   - title: 'techtracker: Sensyne tripod review'
     url: 'https://techtracker.blog/sensyne-tripod-review/'
-reviewedDate: '2026-11-06'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-06T15:29:20.000Z'
 author: ned-diary
 faqs:
@@ -436,7 +436,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for golf swing recording holds your smartphone at hand height, behind the ball, on your practice surface. For grass I pick the [iRange Sports Stick EXT](amzn:iRangeSports+Stick+EXT+MagSafe+golf+monopod), a ground-spike stick; for range mats and a golf simulator, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) stands on its own and has a remote. I matched five holders to surfaces from maker specs and golfer reports, not hands-on use.
+The best tripod for golf swing recording holds your smartphone at hand height, behind the ball, on your practice surface. For grass I pick the [iRange Sports Stick EXT](amzn:iRangeSports+Stick+EXT+MagSafe+golf+monopod), a ground-spike stick; for range mats and a golf simulator, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) stands on its own and has a remote. I matched five holders to surfaces from maker specs and golfer reports.
 
 ## Golf swing tripod comparison by height and surface
 

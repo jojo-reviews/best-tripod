@@ -224,7 +224,7 @@ sources:
       https://www.bestbinocularsreviews.com/blog/my-best-tripod-for-binoculars-astronomy-terrestrial-surveillance-04/
   - title: 'Transcontinenta: what is a good tripod for a spotting scope?'
     url: 'https://www.transcontinenta.co.uk/en/blog/good-tripod-spotting-scope.html'
-reviewedDate: '2026-11-12'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-12T12:00:00.000Z'
 author: ned-diary
 faqs:
@@ -269,7 +269,7 @@ heroAlt: >-
   Tripod guide
 ---
 
-I have been shooting since 2017, mostly travel, landscape, video and wildlife, and for wildlife I put a 200-600mm lens on carbon fiber tripods with ball heads and Arca-Swiss plates. A spotting scope asks the same thing of a tripod as that long lens: hold a lot of weight far out front and stay still at high magnification. Picture yourself on a glassing knob before first light, the scope at 40x, and the view shivering every time the wind touches the legs. The best tripod for a spotting scope is chosen from the scope's weight: weigh the scope, add the tripod head, and pick legs rated well above that total that reach your eye with the center column down. For a 56-65mm angled scope you carry far, my pick is the SLIK PRO CF-634 legs with a light pan head. For an 80-85mm scope at a hide, rifle range or shoreline, it is the Manfrotto MVH502AH fluid head on sturdy legs. I have not used these two myself; every figure comes from maker spec sheets, retailer listings, ranking reviews and owner reports, and I say which.
+I have been shooting since 2017, mostly travel, landscape, video and wildlife, and for wildlife I put a 200-600mm lens on carbon fiber tripods with ball heads and Arca-Swiss plates. A spotting scope asks the same thing of a tripod as that long lens: hold a lot of weight far out front and stay still at high magnification. Picture yourself on a glassing knob before first light, the scope at 40x, and the view shivering every time the wind touches the legs. The best tripod for a spotting scope is chosen from the scope's weight: weigh the scope, add the tripod head, and pick legs rated well above that total that reach your eye with the center column down. For a 56-65mm angled scope you carry far, my pick is the SLIK PRO CF-634 legs with a light pan head. For an 80-85mm scope at a hide, rifle range or shoreline, it is the Manfrotto MVH502AH fluid head on sturdy legs. Every figure comes from maker spec sheets, retailer listings, ranking reviews and owner reports, and I say which.
 
 ## The short answer: a tripod for spotting scope use is legs plus a head
 
@@ -284,7 +284,7 @@ I have been shooting since 2017, mostly travel, landscape, video and wildlife, a
 | Locks / controls | 4-section twist locks | Separate pan and tilt drag |
 | Best for | Carrying to a glassing spot | Hide, range, shoreline, digiscoping |
 
-## Our two picks for a spotting scope tripod
+## My two picks for a spotting scope tripod
 
 **I'd pick the CF-634 if you carry the scope; pick the MVH502AH if the scope is heavy and the tripod stays near the car or hide.** They are not a pair, as the weight math below shows.
 
@@ -313,7 +313,7 @@ Here is how I'd match the two setups to readers:
 
 **A tripod for spotting scope work needs a load rating well above the scope, head and anything on the eyepiece combined.** I treat ratings as the maker's maximum, not a comfortable working load, the same caution a heavy lens like my 200-600mm calls for, and a scope at 60x shows every tremor. The same holds for a [tripod for a telescope](/blog/best-tripod-for-telescope/).
 
-> **From our notes:** On paper, the CF-634 and the MVH502AH, the two most recommended items, looked like an obvious kit for a spotting scope. Then we added the numbers. Vortex lists the Razor HD 27-60x85 at 65.6 oz, about 1.86 kg. The MVH502AH weighs 1.691 kg. Together that is roughly 3.55 kg before a phone adapter, already past the CF-634's 3 kg rating. That is why this guide splits them into two setups: light legs and a light head for a mid-size scope you carry, and the heavy fluid head on stronger legs for an 85mm.
+> **From our notes:** On paper, the CF-634 and the MVH502AH, the two most recommended items, looked like an obvious kit for a spotting scope. Then I added the numbers. Vortex lists the Razor HD 27-60x85 at 65.6 oz, about 1.86 kg. The MVH502AH weighs 1.691 kg. Together that is roughly 3.55 kg before a phone adapter, already past the CF-634's 3 kg rating. That is why this guide splits them into two setups: light legs and a light head for a mid-size scope you carry, and the heavy fluid head on stronger legs for an 85mm.
 
 I use maker weights, not guesses:
 
@@ -361,6 +361,6 @@ For more on the trade, see our comparison of [ball head vs pan-tilt head](/blog/
 
 If you also put binoculars on the same tripod, our [binocular tripod adapter guide](/blog/binocular-tripod-adapter/) explains which adapters lock onto a pan head.
 
-## Our verdict on the best tripod for a spotting scope
+## My verdict on the best tripod for a spotting scope
 
 **Weigh the scope first, then buy the legs and head that carry it with room to spare.** The same logic holds for a heavy lens like my 200-600mm. For that hunter on the glassing knob: if the scope is a 56-65mm angled model and you sit to glass, the SLIK PRO CF-634 with a light pan head is the setup most owners and reviewers point to. If you run an 85mm scope at a hide, a range or the shoreline, put the Manfrotto MVH502AH on legs rated well above the scope-plus-head total and enjoy the smooth drag. Before you order, run your own numbers through our [tripod buying checklist](/tripod-buying-checklist/) and check how we rate support gear on [how we score](/how-we-score/).

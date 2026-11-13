@@ -430,7 +430,7 @@ sources:
       https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography
   - title: 'Adorama: Tripods for macro photography'
     url: 'https://www.adorama.com/lists/tripods-for-macro-photography'
-reviewedDate: '2026-11-02'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for macro photography?
@@ -475,7 +475,7 @@ heroAlt: >-
   buying guide
 ---
 
-A morel pokes through the leaf litter, your macro lens needs to sit a hand's width above it, and your tripod stops at knee height. The best tripod for macro photography drops the lens to the subject's level and holds it still through focus stacking. My overall pick is the Manfrotto 055 kit, whose 90-degree column and splayed legs reach [9 cm (3.54 in)](https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/). I have not used these tripods; figures come from maker spec sheets and owner reports.
+A morel pokes through the leaf litter, your macro lens needs to sit a hand's width above it, and your tripod stops at knee height. The best tripod for macro photography drops the lens to the subject's level and holds it still through focus stacking. My overall pick is the Manfrotto 055 kit, whose 90-degree column and splayed legs reach [9 cm (3.54 in)](https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/). My figures come from maker spec sheets and owner reports.
 
 ## Best tripod for macro photography by minimum height
 

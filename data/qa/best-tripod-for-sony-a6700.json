@@ -1,10 +1,10 @@
 {
   "slug": "best-tripod-for-sony-a6700",
   "pass": true,
-  "checkedAt": "2026-11-10T15:43:47.024Z",
+  "checkedAt": "2026-11-13T19:20:56.540Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1644 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "LIVE POST, FIX: body has 1637 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-224CX Ranger Carbon Fiber Tripod with LH-25 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-sony-a6400, no claim changed",
-    "at": "2026-11-10T15:43:46.579Z",
-    "hash": "8368ec8ffcea59a6"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:54.027Z",
+    "hash": "fd28887cfbcfdd1b"
   }
 }

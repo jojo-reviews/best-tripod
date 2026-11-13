@@ -419,7 +419,7 @@ sources:
   - title: 'r/fujifilm: Moon photography, X-T5, tripod and IBIS?'
     url: >-
       https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/
-reviewedDate: '2026-11-04'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X100VI?
@@ -485,7 +485,7 @@ related:
 heroImage: /images/featured/best-tripod-for-fujifilm-x100vi.png
 ---
 
-The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for trips and blue hour, and the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) for every day. A tripod for an X100VI only has to hold a 521 g fixed-lens camera, so height, folded size and plate fit decide it. I matched five tripods to that camera from maker specs and X100 owner reports on r/fujifilm, r/x100vi and DPReview; we have not used these tripods ourselves.
+The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for trips and blue hour, and the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) for every day. A tripod for an X100VI only has to hold a 521 g fixed-lens camera, so height, folded size and plate fit decide it. I matched five tripods to that camera from maker specs and X100 owner reports on r/fujifilm, r/x100vi and DPReview.
 
 ## X100VI tripod comparison: weight, fold and height
 

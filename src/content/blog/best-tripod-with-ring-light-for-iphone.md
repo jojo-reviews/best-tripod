@@ -375,7 +375,7 @@ sources:
   - title: 'r/NewTubers: Ring light glare on glasses advice please'
     url: >-
       https://www.reddit.com/r/NewTubers/comments/1veadxb/ring_light_glare_on_glasses_advice_please/
-reviewedDate: '2026-11-06T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod with ring light for iPhone?
@@ -444,7 +444,7 @@ videos:
 heroImage: /images/featured/best-tripod-with-ring-light-for-iphone.png
 ---
 
-The best tripod with ring light for iPhone puts round, even lighting around the phone's lens and holds the smartphone at face height, so a selfie, a TikTok, YouTube or Zoom video and a makeup clip all look lit without a second stand. My overall pick is the [UBeesize Ring Light with 50" Extendable Tripod Stand](amzn:UBeesize+ring+light+with+stand+50+inch+extendable+tripod+phone+holder): a 50 in tripod with legs that spread 30 in, a 3-way pan head and a phone holder inside the ring. For standing videos or a Pro Max in a thick case, two other picks fit better. I have not used these kits; every figure comes from a maker or retailer page or an owner report. If you also film with a camera, my [tripods for content creators](/blog/best-tripod-for-content-creators/) cover non-lit setups.
+The best tripod with ring light for iPhone puts round, even lighting around the phone's lens and holds the smartphone at face height, so a selfie, a TikTok, YouTube or Zoom video and a makeup clip all look lit without a second stand. My overall pick is the [UBeesize Ring Light with 50" Extendable Tripod Stand](amzn:UBeesize+ring+light+with+stand+50+inch+extendable+tripod+phone+holder): a 50 in tripod with legs that spread 30 in, a 3-way pan head and a phone holder inside the ring. For standing videos or a Pro Max in a thick case, two other picks fit better. Every figure comes from a maker or retailer page or an owner report. If you also film with a camera, my [tripods for content creators](/blog/best-tripod-for-content-creators/) cover non-lit setups.
 
 ## Ring Light Tripod for iPhone Comparison
 

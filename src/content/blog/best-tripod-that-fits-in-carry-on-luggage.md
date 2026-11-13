@@ -325,7 +325,7 @@ sources:
   - title: 'DPReview forum: lightest tripod for hiking'
     url: >-
       https://www.dpreview.com/forums/threads/lightest-tripod-for-hiking.4678070/
-reviewedDate: '2026-11-11'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-11T22:25:00.000Z'
 author: ned-diary
 faqs:
@@ -342,7 +342,7 @@ faqs:
       Peak Design Travel Tripod (Carbon Fiber).
   - q: What is the shortest folding full-height tripod?
     a: >-
-      Of the three we picked, the SIRUI Traveler 5C folds shortest at 13 in (33
+      Of the three I picked, the SIRUI Traveler 5C folds shortest at 13 in (33
       cm) and still reaches 54.3 in with the column up. It weighs 1.87 lb with
       its ball head and is rated to 8.8 lb.
   - q: Is a carry-on tripod stable enough for long exposures?
@@ -374,7 +374,7 @@ related:
 
 I've been shooting since 2017, and a solo road trip across the United States is what got me into photography, so travel is where most of my work starts. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. The first thing I ask of a travel tripod: is it a tripod that fits in carry-on luggage? If it's two inches longer than the roller bag, it stays home and you handhold the blue hour.
 
-The best tripod that fits in carry on luggage folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. Good tripod photography on the road starts with a tripod you actually pack. For most mirrorless travelers, my pick is the SIRUI Traveler 5C: 13 in folded and 1.87 lb with its ball head. I picked three, from that 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. I haven't used these three tripods myself, so I say where each number comes from.
+The best tripod that fits in carry on luggage folds short enough for a carry-on suitcase or daypack, then stands tall and steady enough for travel photography. Good tripod photography on the road starts with a tripod you actually pack. For most mirrorless travelers, my pick is the SIRUI Traveler 5C: 13 in folded and 1.87 lb with its ball head. I picked three, from that 13 in carbon travel tripod to a pocket mini, and compared folded length, column-down height, rated load and head from maker spec pages, retailer listings and owner reports. I say where each number comes from.
 
 ## Quick answer: the best tripod that fits in carry-on luggage
 
@@ -419,9 +419,9 @@ Packing a carry-on tripod well takes about a minute, and this is the order I'd f
 4. Lay the legs along the long side of the bag in a padded sleeve or the included case.
 5. Keep the hex keys and plate in one small pouch so screening or unpacking doesn't scatter them.
 
-## How we picked each tripod that fits in carry-on luggage
+## How I picked each tripod that fits in carry-on luggage
 
-**I kept only tripods named by at least two of the top-ranking carry-on and travel tripod pages, then checked each one against maker spec pages, B&H and owner reviews.** Pack Hacker and Golden Lens Traveler both named all three; other models turned up on only one page or had no matching US Amazon listing. The Leofoto Ranger LS-225C was named by two pages, but we found no US Amazon listing for it, and the Vanguard VEO 3GO 235CB appeared on only one page, so I don't review either here.
+**I kept only tripods named by at least two of the top-ranking carry-on and travel tripod pages, then checked each one against maker spec pages, B&H and owner reviews.** Pack Hacker and Golden Lens Traveler both named all three; other models turned up on only one page or had no matching US Amazon listing. The Leofoto Ranger LS-225C was named by two pages, but I found no US Amazon listing for it, and the Vanguard VEO 3GO 235CB appeared on only one page, so I don't review either here.
 
 > **From our notes:** On these three carry-on spec sheets, the load figure was where the pages disagreed. Golden Lens Traveler says the 5C handles 15 lb, but the maker's own table lists 4 kg, or 8.8 lb, so I use the maker's number throughout. Pack Hacker lists 3.4 lb for my premium pick while B&H gives 2.8 lb for the carbon model, so I use B&H's figure. And the First Quadcopter review of the 5C that I lean on was written by a reviewer who received the unit through a review collaboration with the maker, which I keep in mind when I weigh its praise.
 
@@ -431,7 +431,7 @@ Packing a carry-on tripod well takes about a minute, and this is the order I'd f
 
 ### SIRUI Traveler 5C Carbon Fiber Tripod: best overall for carry-on
 
-The SIRUI Traveler 5C is a five-section carbon fiber travel tripod from SIRUI, and its 13 in folded length earns it the top spot. At 1.87 lb (0.85 kg) with its 3T-35K ball head, it is the shortest full-height tripod we found. It reaches 54.3 in with the column up and drops to 6.3 in for low shots, per [SIRUI's spec table](https://store.sirui.com/products/sirui-traveler-5a-5c). The legs reverse-fold, lock with twists across five sections and set at three angles. The Amazon listing title names an Arca Swiss quick-release plate.
+The SIRUI Traveler 5C is a five-section carbon fiber travel tripod from SIRUI, and its 13 in folded length earns it the top spot. At 1.87 lb (0.85 kg) with its 3T-35K ball head, it is the shortest full-height tripod I found. It reaches 54.3 in with the column up and drops to 6.3 in for low shots, per [SIRUI's spec table](https://store.sirui.com/products/sirui-traveler-5a-5c). The legs reverse-fold, lock with twists across five sections and set at three angles. The Amazon listing title names an Arca Swiss quick-release plate.
 
 What matters to me here is the load rating. The rated 8.8 lb is plenty for a mirrorless camera with a 24-70mm, the zoom I reach for most when I travel. It's thin for a full-frame camera and a 70-200mm f/2.8 once you count a grip or filter holder. A tripod for airline carry on is rarely built for big glass. Rated load is the ceiling, not a comfortable working load. SIRUI's table lists a 24.2 in "retracted height" but doesn't define it, so I don't use it as a column-down figure. I found no maker column-down height for the 5C, so plan on raising the column for anything above waist level and expect less stability when you do.
 

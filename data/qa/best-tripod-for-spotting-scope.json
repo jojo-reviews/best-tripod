@@ -1,17 +1,18 @@
 {
   "slug": "best-tripod-for-spotting-scope",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:39.489Z",
+  "checkedAt": "2026-11-13T19:21:37.207Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"SLIK PRO CF-634 Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MVH502AH Video Head\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass 2026-11-11: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-12T17:49:38.467Z",
-    "hash": "995924099fbd6bc8"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:59.937Z",
+    "hash": "0d9de5ed243b5b4f"
   }
 }

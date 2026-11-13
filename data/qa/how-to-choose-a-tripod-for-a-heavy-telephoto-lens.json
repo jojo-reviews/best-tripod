@@ -1,9 +1,10 @@
 {
   "slug": "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
   "pass": true,
-  "checkedAt": "2026-11-13T17:51:02.230Z",
+  "checkedAt": "2026-11-13T19:21:30.316Z",
   "errors": [],
   "warnings": [
+    "first paragraph does not answer the keyword (missing: choose, heavy, telephoto); open with the answer and the exact keyword, put Ned's story in paragraph 2",
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration \"Heavy telephoto lens balanced on a gimba\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Thick upper tripod leg tubes meeting at \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
@@ -12,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-13T17:51:01.213Z",
-    "hash": "6a72a6ad1b3908d2"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:28.392Z",
+    "hash": "9feab243b6e66fb9"
   }
 }

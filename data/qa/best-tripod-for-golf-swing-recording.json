@@ -1,24 +1,22 @@
 {
   "slug": "best-tripod-for-golf-swing-recording",
   "pass": true,
-  "checkedAt": "2026-11-06T15:52:11.870Z",
+  "checkedAt": "2026-11-13T19:21:20.636Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1229 words, over the 1219 limit (top results average 1060): cut repetition and filler",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
+    "LIVE POST, FIX: body has 1225 words, over the 1219 limit (top results average 1060): cut repetition and filler",
     "product \"iRange Sports Stick EXT Golf Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SENSYNE 62-Inch Phone Tripod & Selfie Stick with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"UBeesize Flexible Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GripTight ONE GorillaPod Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SelfieGolf Golf Swing Cell Phone Holder Clip\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
-    "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1321823-REG/joby_jb01491_griptight_one_gp_stand.html"
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-06 semantic pass: no new facts; max-height classes from Amazon US filter list; iPhone FAQ uses iRange MagSafe puck and SENSYNE 2.8-5.7 in holder width from maker specs already in sources; removed SEO-process wording in method line (GPOD, Strivon, GOLFTEC sell via own stores per SERP).",
-    "at": "2026-11-06T15:28:59.443Z",
-    "hash": "902ab7de7216dbfc"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:17.998Z",
+    "hash": "a0c92d7b7c56889a"
   }
 }

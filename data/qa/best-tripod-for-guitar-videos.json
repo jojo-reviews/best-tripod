@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-guitar-videos",
   "pass": true,
-  "checkedAt": "2026-11-06T15:52:23.545Z",
+  "checkedAt": "2026-11-13T19:20:48.943Z",
   "errors": [],
   "warnings": [
     "product \"KraftGeek JustTap Magnetic Phone Tripod (226M)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,15 +12,12 @@
     "product \"UBeesize Flexible Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1833060-REG/ulanzi_2503a_mt_44_extendable_vlog_tripod.html",
-    "source didn't respond normally (403): https://www.reddit.com/r/Guitar/comments/1axmh04/how_do_people_make_videos_of_themselves_playing/",
-    "source didn't respond normally (403): https://www.reddit.com/r/synthesizers/comments/axxkgo/how_do_you_record_your_jams_i_dont_have_a_tripod/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-06 (re-verified after trims): JustTap 455 g, N52 magnet, Bluetooth remote claimed 10 m range verified at digitalreviews.net review; USB-C remote and magnet through MagSafe cases from existing owner sources; KraftGeek product URL 404 replaced by Digital Reviews source; Element MII 132 cm column down per Manfrotto (in sources); Amazon max-height bands from Amazon US search filters; guitar-mounted holders and overhead arms added as non-pick guidance; no new products, prices, ratings or tests.",
-    "at": "2026-11-06T15:30:48.251Z",
-    "hash": "2c95a27036e5c270"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:47.775Z",
+    "hash": "fd8c8341b356f0e9"
   }
 }

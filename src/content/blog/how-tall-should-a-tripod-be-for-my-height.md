@@ -190,7 +190,7 @@ sources:
   - title: 'Avoid Using the Center Column (The Landscape Photography Book, O''Reilly)'
     url: >-
       https://oreilly.com/library/view/the-landscape-photography/9781681984346/Text/chapter04a.xhtml
-reviewedDate: '2026-11-11T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 updatedDate: '2026-11-11T20:55:00.000Z'
 faqs:
   - q: How tall is a tripod?
@@ -276,9 +276,9 @@ Adjust for your gear. A compact ball head and small mirrorless body sit near the
 
 **Tripod height for a 6-foot photographer should be about 60 to 61 inches without the center column for a true eye-level viewfinder.**
 
-My chart math and Ulanzi's height guide land on the same figure: [about 60 inches without the center column for a shooter around 6 feet tall](https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography). Few full-size tripods reach 60 inches on legs alone. Most sturdy aluminum models we compare land around 55 inches, which leaves a 6-foot shooter's viewfinder 5 to 6 inches below eye level: a slight stoop or a few inches of column.
+My chart math and Ulanzi's height guide land on the same figure: [about 60 inches without the center column for a shooter around 6 feet tall](https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography). Few full-size tripods reach 60 inches on legs alone. Most sturdy aluminum models I compare land around 55 inches, which leaves a 6-foot shooter's viewfinder 5 to 6 inches below eye level: a slight stoop or a few inches of column.
 
-For a tripod height for a tall person at 6'3" and up, the gap grows to 9 to 12 inches on a 55 inch tripod. At that point we would look specifically for a taller legs-only figure (our roundup of the [best tripods for tall photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) compares four tall models), accept using the column for the last few inches on calm days, or lean on a tilting screen.
+For a tripod height for a tall person at 6'3" and up, the gap grows to 9 to 12 inches on a 55 inch tripod. At that point I would look specifically for a taller legs-only figure (our roundup of the [best tripods for tall photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) compares four tall models), accept using the column for the last few inches on calm days, or lean on a tilting screen.
 
 The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/). Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections. For landscape photography from low vantage points, a shorter, steadier tripod can be the better tool.
 
@@ -313,9 +313,9 @@ I treat the center column as a last resort. It is the tube in the middle of the 
 - **Thinner tube:** the column is narrower than the combined leg stance, so vibrations take longer to settle.
 - **Wind stability:** more height catches more wind, and a long lens adds sail area at the very top.
 
-The O'Reilly-published *Landscape Photography Book* puts it bluntly in its chapter on [avoiding the center column](https://oreilly.com/library/view/the-landscape-photography/9781681984346/Text/chapter04a.xhtml). We agree with that advice for long exposures and long lenses. For a quick snapshot on a still day, an inch or two of column is fine.
+The O'Reilly-published *Landscape Photography Book* puts it bluntly in its chapter on [avoiding the center column](https://oreilly.com/library/view/the-landscape-photography/9781681984346/Text/chapter04a.xhtml). I agree with that advice for long exposures and long lenses. For a quick snapshot on a still day, an inch or two of column is fine.
 
-> **From our notes:** The Vanguard Alta Pro 263AB Gen 2 showed us why column-up figures can't be trusted: its height with the column raised differed between retailer listings. We ignored that number and used Adorama's legs-only figure of about 55 inches. That is why our tripod height chart is built on height without the center column.
+> **From our notes:** The Vanguard Alta Pro 263AB Gen 2 showed me why column-up figures can't be trusted: its height with the column raised differed between retailer listings. I ignored that number and used Adorama's legs-only figure of about 55 inches. That is why my tripod height chart is built on height without the center column.
 
 ## Other Factors That Change the Tripod Height You Need
 
@@ -349,7 +349,7 @@ This is the method I'd use for any camera and head combination:
 
 **Both tripods below reach about 55 inches without the center column, which suits photographers up to roughly 5'6" at true eye level and taller shooters with a small stoop or a little column.**
 
-I picked these two because their legs-only heights are published and they rank well on the height criterion in [how we score tripods](/how-we-score/). Their scores come from manufacturer specs and retailer listings, not hands-on use, and neither is part of my own kit.
+I picked these two because their legs-only heights are published and they rank well on the height criterion in [how we score tripods](/how-we-score/). Their scores come from manufacturer specs and retailer listings.
 
 ### Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3): Best for tall shooters
 
@@ -357,7 +357,7 @@ The [Manfrotto 055 Aluminum 3-Section Tripod (MT055XPRO3)](amzn:Manfrotto+MT055X
 
 ### Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head): Best tall tripod with head included
 
-The [Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)](amzn:Vanguard+Alta+Pro+263AB+Gen+2+aluminum+tripod+BH-60+ball+head) is a 3-section aluminum tripod from Vanguard sold with its BH-60 ball head. Adorama lists it at about 55 in (140.5 cm) without the center column, on 26 mm legs, with a 22 lb (10 kg) rated load, which leaves margin for a full-frame body with a 70-200mm f/2.8. Treat that rating as the maker's claim and keep your working load well below it, especially with the column up. The included head saves a separate purchase but adds its own few inches to the total height. On the downside, it weighs about 2.3 kg (5.1 lb) and folds to 27.4 in, long for a carry-on, and its column-up height differs between retailers, so we rely on the legs-only figure. I'd pick this if you want height and a head in one box; just check that the listing says Gen 2 before you order.
+The [Vanguard Alta Pro 2+ 263AB Gen 2 (with BH-60 ball head)](amzn:Vanguard+Alta+Pro+263AB+Gen+2+aluminum+tripod+BH-60+ball+head) is a 3-section aluminum tripod from Vanguard sold with its BH-60 ball head. Adorama lists it at about 55 in (140.5 cm) without the center column, on 26 mm legs, with a 22 lb (10 kg) rated load, which leaves margin for a full-frame body with a 70-200mm f/2.8. Treat that rating as the maker's claim and keep your working load well below it, especially with the column up. The included head saves a separate purchase but adds its own few inches to the total height. On the downside, it weighs about 2.3 kg (5.1 lb) and folds to 27.4 in, long for a carry-on, and its column-up height differs between retailers, so I rely on the legs-only figure. I'd pick this if you want height and a head in one box; just check that the listing says Gen 2 before you order.
 
 **Which one I'd get, by reader:**
 

@@ -416,7 +416,7 @@ sources:
     url: 'https://www.packhacker.com/blog/general/best-travel-tripod/'
   - title: 'Digital Camera World: The best tripod for photography'
     url: 'https://www.digitalcameraworld.com/buying-guides/best-tripod'
-reviewedDate: '2026-11-09T00:00:00.000Z'
+reviewedDate: '2026-11-13'
 faqs:
   - q: Can any tripod shoot vertically?
     a: >-
@@ -488,7 +488,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for vertical shooting is the one whose head turns the camera to portrait without remounting it or letting it sag. For vertical video I pick the [Manfrotto ONE Hybrid with 500X head](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), whose hinged plate flips to 9:16 in seconds. For vertical photos on the move, the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) drops into a 90-degree notch, and three lighter picks take an [L-bracket for vertical frames](/blog/l-bracket-for-landscape-photography/). I built this list from maker specs and owner reports; I have not used these tripods myself.
+The best tripod for vertical shooting is the one whose head turns the camera to portrait without remounting it or letting it sag. For vertical video I pick the [Manfrotto ONE Hybrid with 500X head](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), whose hinged plate flips to 9:16 in seconds. For vertical photos on the move, the [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) drops into a 90-degree notch, and three lighter picks take an [L-bracket for vertical frames](/blog/l-bracket-for-landscape-photography/). I built this list from maker specs and owner reports.
 
 ## Tripod for vertical shooting: how each pick turns the camera
 

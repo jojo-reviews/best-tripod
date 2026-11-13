@@ -401,7 +401,7 @@ sources:
   - title: 'Canon Rumors forum: What is the best travel tripod for Canon RF systems?'
     url: >-
       https://forum.canonrumors.co/rf-forum/what-is-the-best-travel-tripod-for-canon-rf-systems-54031/
-reviewedDate: '2026-11-10'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Canon R5?
@@ -468,7 +468,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod for Canon R5 owners is a stiff camera tripod, because the 45 MP sensor of the Canon EOS R5 shows every tremor: for most stills and hybrid work I'd pick the columnless [Benro Tortoise 35C kit](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35), and for 8K pans the [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). I matched five tripods to real R5 kits with heavy RF L lenses, using Canon's weights, maker specs and R5 owner threads; we have not used these tripods ourselves. Lighter body? Our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/) are sorted for a 24-105.
+The best tripod for Canon R5 owners is a stiff camera tripod, because the 45 MP sensor of the Canon EOS R5 shows every tremor: for most stills and hybrid work I'd pick the columnless [Benro Tortoise 35C kit](amzn:Benro+Tortoise+Columnless+Carbon+Fiber+Three+Series+Tripod+GX35+TTOR35CGX35), and for 8K pans the [SmallRig AD-01](amzn:SmallRig+AD-01+Heavy+Duty+Video+Tripod+with+Fluid+Head). I matched five tripods to real R5 kits with heavy RF L lenses, using Canon's weights, maker specs and R5 owner threads. Lighter body? Our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/) are sorted for a 24-105.
 
 ## Canon R5 tripod comparison by height, legs and head
 

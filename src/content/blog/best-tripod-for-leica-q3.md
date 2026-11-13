@@ -455,7 +455,7 @@ heroAlt: >-
 
 I have been shooting travel and landscape work since 2017, on carbon fiber tripods, ball heads and Arca-Swiss plates. My cameras are a Sony A7 IV and a Canon EOS R6 Mark II, not a Leica, so for a tripod for Leica Q3 owners I asked my usual packing question: what will I actually carry?
 
-The best tripod for Leica Q3 owners is the one you will actually carry, for blue hour in a cobbled square or a second-long exposure you can't hold by hand: for most people the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for city days a tabletop tripod such as the [Benro TablePod](amzn:Benro+TablePod+Tripod+Kit+carbon+fiber). I matched five tripods to where Q3 owners shoot, from maker specs and owner reports on the Leica Forum and r/Leica (for a lighter pocket camera, see our [Ricoh GR III tripod picks](/blog/best-tripod-for-ricoh-gr-iii/)). We have not used these tripods ourselves.
+The best tripod for Leica Q3 owners is the one you will actually carry, for blue hour in a cobbled square or a second-long exposure you can't hold by hand: for most people the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), and for city days a tabletop tripod such as the [Benro TablePod](amzn:Benro+TablePod+Tripod+Kit+carbon+fiber). I matched five tripods to where Q3 owners shoot, from maker specs and owner reports on the Leica Forum and r/Leica (for a lighter pocket camera, see our [Ricoh GR III tripod picks](/blog/best-tripod-for-ricoh-gr-iii/)).
 
 ## Leica Q3 tripod comparison: height, fold and load
 

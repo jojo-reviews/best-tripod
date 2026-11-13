@@ -1,13 +1,12 @@
 {
   "slug": "best-tripod-feet-for-sand-snow-and-rock",
   "pass": true,
-  "checkedAt": "2026-11-06T15:50:42.853Z",
+  "checkedAt": "2026-11-13T19:21:19.535Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: paragraph style: the review of \"Manfrotto 230 Tripod Snow Shoes\" is under ~100 words",
     "LIVE POST, FIX: paragraph style: the review of \"Manfrotto 204SPK3 Spiked Feet\" is under ~100 words",
-    "LIVE POST, FIX: body has 1386 words, over the 1357 limit (top results average 1180): cut repetition and filler",
-    "LIVE POST, FIX: the text changed after the fact check: verify the new text and run `node scripts/routine.mjs factcheck <slug> \"<notes>\"` again",
+    "LIVE POST, FIX: body has 1379 words, over the 1357 limit (top results average 1180): cut repetition and filler",
     "product \"Leofoto TFS-US Long Spike Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Really Right Stuff Rock Claw Tripod Foot Set\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto 230 Tripod Snow Shoes\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -16,18 +15,12 @@
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/5548-REG/Manfrotto_230_230_3255_All_Weather.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/631092-REG/Manfrotto_204SPK3_Retractable_Spiked_Feet_Set.html",
-    "source didn't respond normally (403): https://photographylife.com/how-to-make-tripod-more-stable",
-    "source didn't respond normally (403): https://bcgforums.com/threads/to-spike-or-not.8525/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (review only): TextRazor 5 live pages; added monopod + Gitzo spikes sentence (Lens Notes: 3/8in thread fits any tripod or monopod; Gitzo offers spikes of different lengths); Lincoln Harrison 4 in sand depth re-verified; renamed first H2 to Tripod feet by surface: footprint and fit; section openers made checkable; video reference fixed; illustration captions added; no product, price, rating or ASIN changed.",
-    "at": "2026-11-03T17:53:26.609Z",
-    "hash": "7d57d33d2ac3cc8c"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:21:16.825Z",
+    "hash": "44824dd150740098"
   }
 }

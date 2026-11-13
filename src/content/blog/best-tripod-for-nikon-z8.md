@@ -410,7 +410,7 @@ sources:
   - title: 'r/nikon_Zseries: Nikon Z8 L plate advice with a Peak Design tripod'
     url: >-
       https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/
-reviewedDate: '2026-11-03'
+reviewedDate: '2026-11-13'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Nikon Z8?
@@ -447,7 +447,7 @@ related:
   - best-tripod-for-nikon-p1000
 ---
 
-A tripod for Nikon Z8 shooting is sized by the lens, not the body: a 70-200mm on slim legs in wind gives a soft 30-second frame. For travel with a 24-120mm, my pick is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber); for a 70-200mm or 180-600mm, it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)). We have not used these tripods ourselves.
+A tripod for Nikon Z8 shooting is sized by the lens, not the body: a 70-200mm on slim legs in wind gives a soft 30-second frame. For travel with a 24-120mm, my pick is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber); for a 70-200mm or 180-600mm, it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).
 
 ## Nikon Z8 tripod specs compared: weight, height and load
 

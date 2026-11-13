@@ -1,26 +1,19 @@
 {
   "slug": "best-tripod-for-nikon-z8",
   "pass": true,
-  "checkedAt": "2026-11-06T15:53:26.339Z",
+  "checkedAt": "2026-11-13T19:20:51.660Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Carbon Fiber)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto Befree Advanced Lever Travel Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-284CX Ranger Carbon Fiber Tripod with LH-30 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LS-324CX Ranger Carbon Fiber Tripod with LH-40 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Gitzo GT1542 Mountaineer Series 1 Carbon Tripod (Legs Only)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1367494-REG/manfrotto_mkbfrla4bk_bhus_befree_advanced_travel_tripod.html",
-    "source didn't respond normally (403): https://hi.manuals.plus/asin/B079CRJC8C",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1896123-REG/leofoto_ls_284cx_lh_30_ranger_ls_284cx_carbon_fiber.html",
-    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1034911-REG/gitzo_gt1542_mountaineer_series_1.html",
-    "source didn't respond normally (403): https://bcgforums.com/threads/small-tripods-for-z8.41591/",
-    "source didn't respond normally (403): https://cameradecision.com/accessories/Nikon-Z8",
-    "source didn't respond normally (403): https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/"
+    "product \"Gitzo GT1542 Mountaineer Series 1 Carbon Tripod (Legs Only)\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (review only): TextRazor on 3 top pages (Packapop, CameraEgg, Transcontinenta); added Nikon Z-mount, tripod head, gear, carbon fiber weight line (from spec table: carbon picks 2.8/3.2/2.82 lb vs aluminum Befree 3.6 lb); renamed 'picks at a glance' H2 to a spec-comparison heading (patent rule 2026-10-31); trimmed intro; closing example now matches the 70-200 pick (LS-324CX). No new prices, ratings or tests; ASINs unchanged.",
-    "at": "2026-11-03T17:52:42.561Z",
-    "hash": "1e1264eb3283be92"
+    "notes": "first-person pass: non-testing statements removed, no new claims",
+    "at": "2026-11-13T19:20:50.102Z",
+    "hash": "12a58c22fb9c5933"
   }
 }

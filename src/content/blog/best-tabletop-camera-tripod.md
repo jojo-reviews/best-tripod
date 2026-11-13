@@ -421,7 +421,7 @@ sources:
       tripod?)
     url: >-
       https://www.dpreview.com/forums/threads/joby-gorillapod-3k-and-nikon-zf-or-maybe-smallrig-mini-tripod.4752230/
-reviewedDate: '2026-11-05'
+reviewedDate: '2026-11-13'
 faqs:
   - q: What is the best tabletop camera tripod?
     a: >-
@@ -480,7 +480,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tabletop camera tripod is the one whose head is rated well above your camera and lens, and whose legs suit the surface you shoot from. For most mirrorless and compact cameras I pick the [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK). Manfrotto rates it for [2.5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/), and its legs adjust from 10.5 to 20 cm. I compared five tabletop tripods from maker specs and owner reports; I did not test them myself. If you mostly film at a desk, my [mini tripod for desk video calls](/blog/best-mini-tripod-for-desk-video-calls/) guide covers webcam height.
+The best tabletop camera tripod is the one whose head is rated well above your camera and lens, and whose legs suit the surface you shoot from. For most mirrorless and compact cameras I pick the [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK). Manfrotto rates it for [2.5 kg](https://www.manfrotto.com/global-en/pixi-evo-2-section-mini-tripod-black-light-and-compact-mtpixievo-bk/), and its legs adjust from 10.5 to 20 cm. I compared five tabletop tripods from maker specs and owner reports. If you mostly film at a desk, my [mini tripod for desk video calls](/blog/best-mini-tripod-for-desk-video-calls/) guide covers webcam height.
 
 ## Tabletop Camera Tripod Comparison Table
 
