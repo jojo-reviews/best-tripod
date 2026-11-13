@@ -1,64 +1,203 @@
 {
-  "note": "Owner rule 2026-11-13 (pillar + supporting posts): 10 pillars chosen by Ahrefs US volume/KD (2026-11-13). Each pillar gets 3-5 supporting informational posts, one real reader question each. Topic sources, in order: data/pain-points.json (Reddit/Quora/forums), Ahrefs matching-terms questions for the pillar keyword, the pillar SERP People-also-ask + competitor pages (data/serps.json, brief), Search Console queries of the pillar when access is back. A topic qualifies only with measured volume or 3+ independent threads, and no same-intent live post (routine.mjs cannibal). Supporting post: answer in paragraph 1, length as needed (about 300-900 words, never padded), 1 in-body link to the pillar; the pillar links back at go-live. Queue items carry supports: <pillar slug>. Fill pillars in this order, max 1 supporting post per day. Owner rule 2026-11-13 (\"search console sa leny chye pillar pages\"): pillars are chosen from Search Console (pages with the most impressions at positions 5-30). Tripod GSC data is stale (last snapshot 2026-10-22, the key gsc-reader@carbide-primer-441807-u7 has no access to the property), so this list is provisional (Ahrefs volume + the old GSC snapshot); re-pick the pillars from GSC as soon as access is back, keeping pillars that already have supporting posts.",
+  "note": "Owner rules 2026-11-13 (pillar + supporting posts; \"search console sa leny chye pillar pages\"): 10 pillars = the live English roundups with the most Search Console impressions from REAL queries (junk patterns such as 'best bamboo tripod 2026' and other year-stamped or nonsense queries are excluded: they mirror the spam backlink anchors, not reader demand), position roughly 5-32 (28 days to 2026-11-10; data in rentersmarthome.us/data/gsc/best-tripod.com/). Each pillar gets 3-5 supporting informational posts, one real reader question each, max 1 per day, pillars filled in this order. Topic sources, in order: the pillar's own Search Console queries (rentersmarthome.us/data/gsc/best-tripod.com/<date>.queries.json: question or problem queries the pillar shows for but does not answer well), data/pain-points.json (Reddit/Quora/forums), Ahrefs matching-terms questions, the pillar SERP People-also-ask and competitor pages. A topic qualifies only with GSC impressions, measured volume or 3+ independent threads, and no same-intent live post (routine.mjs cannibal). Supporting post: answer in paragraph 1, length as needed (about 300-900 words, never padded), 1 in-body link to the pillar; the pillar links back at go-live. Queue items carry supports: <pillar slug>. Re-pick pillars from fresh GSC data on the first Monday of each month, keeping pillars that already have supporting posts.",
   "pillars": {
-    "best-travel-tripod-for-mirrorless-camera": {
-      "keyword": "best travel tripod for mirrorless camera",
-      "usVolume": 50,
-      "gsc": "139 impressions, position 16.8 (28 days to 2026-10-22)",
+    "best-tripod-for-tall-photographers-over-6-feet": {
+      "keyword": "best tripod for tall photographers over 6 feet",
+      "gsc": {
+        "realQueryImpressions": 235,
+        "clicks": 0,
+        "position": 21.1
+      },
+      "topQueries": [
+        "best tall tripods for photographers",
+        "tripod with extra height for photographers",
+        "photography equipment for tall people",
+        "tall camera tripod",
+        "best tripod for tall people",
+        "best tall tripod for video and photography",
+        "tall tripod",
+        "best pet camera for tall people"
+      ],
       "target": 4,
       "supporting": []
     },
-    "best-tripod-for-hunting": {
-      "keyword": "best tripod for hunting",
-      "usVolume": 500,
+    "best-tripod-for-gopro": {
+      "keyword": "best tripod for gopro",
+      "gsc": {
+        "realQueryImpressions": 221,
+        "clicks": 0,
+        "position": 33.3
+      },
+      "topQueries": [
+        "gopro tripod",
+        "tripod for gopro",
+        "gopro tripods",
+        "go pro tripod",
+        "gopro volta vs shorty grip comparison",
+        "gopro tripod review",
+        "best gopro monopod",
+        "best tripod for gopro"
+      ],
       "target": 4,
       "supporting": []
     },
-    "best-tripod-for-camera": {
-      "keyword": "best tripod for camera",
-      "usVolume": 700,
+    "best-monopod-with-feet-for-wildlife-photography": {
+      "keyword": "best monopod with feet for wildlife photography",
+      "gsc": {
+        "realQueryImpressions": 167,
+        "clicks": 3,
+        "position": 18.8
+      },
+      "topQueries": [
+        "monopod with feet",
+        "best monopod for wildlife photography",
+        "monopods with feet",
+        "monopod with foot",
+        "best monopod",
+        "best monopod with feet",
+        "best monopod with legs",
+        "best monopod for bird photography"
+      ],
       "target": 4,
       "supporting": []
     },
-    "best-tripod-for-content-creators": {
-      "keyword": "best tripod for content creators",
-      "usVolume": 450,
+    "best-tripod-for-dji-osmo-pocket-3": {
+      "keyword": "best tripod for dji osmo pocket 3",
+      "gsc": {
+        "realQueryImpressions": 133,
+        "clicks": 0,
+        "position": 9.8
+      },
+      "topQueries": [
+        "dji osmo pocket 3 tripod",
+        "best tripod for dji osmo pocket 3",
+        "tripod for dji osmo pocket 3",
+        "osmo pocket 3 tripod",
+        "dji pocket 3 tripod",
+        "tripod for osmo pocket 3",
+        "tripod for pocket 3",
+        "best tripod for osmo pocket 3"
+      ],
       "target": 4,
       "supporting": []
     },
-    "ball-head-tripod": {
-      "keyword": "ball head tripod",
-      "usVolume": 400,
+    "best-phone-tripod-for-vlogging-with-remote": {
+      "keyword": "best phone tripod for vlogging with remote",
+      "gsc": {
+        "realQueryImpressions": 107,
+        "clicks": 0,
+        "position": 13.4
+      },
+      "topQueries": [
+        "iphone tripod mount with remote",
+        "tripod with remote",
+        "phone tripod with remote",
+        "iphone tripod with remote",
+        "tripod for phone with remote",
+        "best tripod for remote workers",
+        "cell phone tripod with remote",
+        "best wireless tripod"
+      ],
       "target": 4,
       "supporting": []
     },
-    "binocular-tripod-adapter": {
-      "keyword": "binocular tripod adapter",
-      "usVolume": 500,
+    "best-tripod-for-filming-sports": {
+      "keyword": "best tripod for filming sports",
+      "gsc": {
+        "realQueryImpressions": 34,
+        "clicks": 0,
+        "position": 17.0
+      },
+      "topQueries": [
+        "tripod for sports broadcast",
+        "eng tripod for sports coverage",
+        "best tripod for runners",
+        "tripods for sports video",
+        "tripod for sports video",
+        "tripod for sports recording",
+        "best tripod for gamers",
+        "video monopods for sports"
+      ],
       "target": 4,
       "supporting": []
     },
-    "best-tripod-for-spotting-scope": {
-      "keyword": "best tripod for spotting scope",
-      "usVolume": 200,
-      "target": 4,
-      "supporting": []
-    },
-    "best-tripod-for-real-estate-photography": {
-      "keyword": "best tripod for real estate photography",
-      "usVolume": 150,
-      "target": 4,
-      "supporting": []
-    },
-    "best-tripod-for-astrophotography": {
-      "keyword": "best tripod for astrophotography",
-      "usVolume": 90,
+    "best-tripod-for-youtube-videos": {
+      "keyword": "best tripod for youtube videos",
+      "gsc": {
+        "realQueryImpressions": 72,
+        "clicks": 0,
+        "position": 21.4
+      },
+      "topQueries": [
+        "best tripod for youtubers",
+        "studio tripod for youtube content",
+        "video tripod",
+        "video tripods",
+        "best tripod for youtube video production",
+        "best tripod for video",
+        "video tripods with heads",
+        "tripod for youtube videos"
+      ],
       "target": 4,
       "supporting": []
     },
     "landscape-photography-tripod": {
       "keyword": "landscape photography tripod",
-      "usVolume": 70,
+      "gsc": {
+        "realQueryImpressions": 66,
+        "clicks": 0,
+        "position": 19.1
+      },
+      "topQueries": [
+        "which low-profile tripod handles uneven terrain and puddles?",
+        "best tripod for landscape photography",
+        "tall camera tripod for landscape photography",
+        "best landscape tripod",
+        "tripod for landscape photography",
+        "camera tripod for uneven terrain stability",
+        "best tripod head for landscape photography",
+        "tripods for landscape photography"
+      ],
+      "target": 4,
+      "supporting": []
+    },
+    "best-tripod-for-laser-level": {
+      "keyword": "best tripod for laser level",
+      "gsc": {
+        "realQueryImpressions": 64,
+        "clicks": 0,
+        "position": 23.2
+      },
+      "topQueries": [
+        "laser level tripod for construction",
+        "tripod for laser",
+        "laser level tripod",
+        "tripod laser",
+        "tripod for laser level",
+        "laser tripod",
+        "tall tripod for laser level",
+        "laser level tripods"
+      ],
+      "target": 4,
+      "supporting": []
+    },
+    "best-video-tripod-with-fluid-head-for-beginners": {
+      "keyword": "best video tripod with fluid head for beginners",
+      "gsc": {
+        "realQueryImpressions": 61,
+        "clicks": 0,
+        "position": 22.1
+      },
+      "topQueries": [
+        "best budget video tripod with fluid head",
+        "video tripod with fluid head",
+        "fluid video heads for travel",
+        "best tripod with fluid head",
+        "best fluid head tripod",
+        "best cheap fluid head tripod",
+        "best video tripod head",
+        "best video fluid head"
+      ],
       "target": 4,
       "supporting": []
     }
