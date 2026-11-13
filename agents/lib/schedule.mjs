@@ -89,6 +89,29 @@ export function releaseTimes(date, count) {
     });
 }
 
+/**
+ * Owner rule 2026-11-13 ("kabhi b same time pa posting nhi karni"): today's posts go live in ONE deploy,
+ * but the clock time changes every day. Start = random minute between 13:00 and 20:00 UTC (seeded by
+ * date + domain, so every run that day agrees; never on :00/:15/:30/:45), then each next post 11-43 min
+ * later (random, seeded). goliveAt = last pubDate + 3-9 min. If the start has already passed, the
+ * sequence is shifted to begin 25-55 min from now.
+ */
+export function goliveTimes(date, count, now = Date.now()) {
+  const r = (k) => seededRandom(`${date}:${SITE.domain}:golive:${k}`);
+  let m = 13 * 60 + Math.floor(r('start') * 7 * 60);
+  if (m % 15 === 0) m += 1 + Math.floor(r('nudge') * 13);
+  let t = Date.parse(`${date}T00:00:00Z`) + m * 60000;
+  if (t < now) t = now + (25 + Math.floor(r('late') * 30)) * 60000;
+  t = Math.floor(t / 60000) * 60000;
+  const out = [];
+  for (let i = 0; i < count; i++) {
+    out.push(new Date(t).toISOString());
+    t += (11 + Math.floor(r(`gap${i}`) * 33)) * 60000;
+  }
+  const last = Date.parse(out.at(-1) ?? new Date(now).toISOString());
+  return { pubDates: out, goliveAt: new Date(last + (3 + Math.floor(r('wake') * 7)) * 60000).toISOString() };
+}
+
 export function dueNow({ date, hour }, startDate) {
   const q = quotaFor(date, startDate);
   const due = slotsFor(q.quota).filter((h) => h <= hour).length;

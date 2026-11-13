@@ -24,7 +24,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { DATA_DIR, SITE, ROOT } from '../agents/lib/config.mjs';
 import { loadQueue, saveQueue, loadState, saveState, listPosts, saveReport, listTranslations, parseRef, readPost } from '../agents/lib/store.mjs';
-import { localNow, quotaFor, releaseTimes } from '../agents/lib/schedule.mjs';
+import { localNow, quotaFor, releaseTimes, goliveTimes } from '../agents/lib/schedule.mjs';
 import { slugify } from '../agents/lib/nlp.mjs';
 import { audit, pickLinkTargets, addBacklinks } from '../agents/seo-agent.mjs';
 import { nextKeyword, collectSources } from '../agents/orchestrator.mjs';
@@ -283,6 +283,14 @@ if (cmd === 'status') {
     queue[l] = ready.filter((p) => !done.has(p.slug)).map((p) => ({ slug: p.slug, pubDate: new Date(p.data.pubDate).toISOString(), title: p.data.title }));
   }
   out({ backlogPerDay: SITE.translations?.backlogPerDay ?? 2, pending: Object.fromEntries(langs.map((l) => [l, queue[l].length])), queue });
+} else if (cmd === 'golive-slots') {
+  // Owner rule 2026-11-13: pubDates for today's remaining posts (one deploy), at a different clock time every day.
+  const state = loadState();
+  const now = localNow();
+  const q = quotaFor(now.date, state.startDate ?? now.date);
+  const done = state.published.filter((p) => p.date === now.date).length;
+  const n = Number(arg) || Math.max(0, q.quota - done);
+  out({ date: new Date().toISOString().slice(0, 10), count: n, ...goliveTimes(new Date().toISOString().slice(0, 10), n) });
 } else if (cmd === 'translate-slots') {
   // Random go-live times for translations of one language: the first a few hours from now
   // (or after the English post's pubDate with --after), each at least 2h after the language's
@@ -340,6 +348,6 @@ if (cmd === 'status') {
   saveReport(arg, { keyword: it.keyword, createdAt: new Date().toISOString(), via: 'claude-routine', brief, sources: collectSources(post.data.products ?? []), backlinks });
   out({ finalized: arg, backlinks });
 } else {
-  console.log('usage: node scripts/routine.mjs status|slots|next|cannibal "<kw>"|links <slug>|add-keywords <file>|audit <ref>|qa <ref>|factcheck <ref> "<notes>"|finalize <ref>|translate-queue [lang]|translate-slots <lang> [--count N] [--after <slug>]   (<ref> = <slug> or <lang>/<slug>)');
+  console.log('usage: node scripts/routine.mjs status|slots|golive-slots [n]|next|cannibal "<kw>"|links <slug>|add-keywords <file>|audit <ref>|qa <ref>|factcheck <ref> "<notes>"|finalize <ref>|translate-queue [lang]|translate-slots <lang> [--count N] [--after <slug>]   (<ref> = <slug> or <lang>/<slug>)');
   process.exitCode = 1;
 }
