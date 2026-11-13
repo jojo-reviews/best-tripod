@@ -1,0 +1,20 @@
+{
+  "slug": "es/rotula-para-tripode-de-tiro",
+  "lang": "es",
+  "translationOf": "best-tripod-ball-head-for-rifle-shooting",
+  "pass": true,
+  "checkedAt": "2026-11-13T16:11:21.809Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/ball-head-sags-after-tightening/; link the es version once it exists",
+    "internal link to the English post /blog/best-tripod-for-spotting-scope/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-ball-head-for-rifle-shooting (passes QA): same 5 products/ASINs/scores/spec keys, all specs, ratios and FAQ answers match; metric conversions same as de (15,9/20/22,6/6,8/7,3/3,6 kg, 431/414/491 g, 6,8/7,6/8,7/10,2/10,6 cm, 3,8 cm). Number links kept on nrlhunter.org (16 lbs); Acratech 50 lb and Tricer 15 lb links dropped to plain text for the 3-outside-link cap; local links added: PRS Espana reglamento (re-opened: Production ESP weight under 9.250 incl. scope, bipod, accessories; only Harris/Versapod/Atlas bipods, tripods not allowed) and cazayarmas.org t18447 (quotes verbatim: se vino abajo el invento..., No me gusta porque en monteria..., endeble). Armas.es t=1052232 dust/sand point paraphrased. Leofoto Europe Juggernaut S3 set figures from leofoto.net. Neutral notes for Anvil (unknown) and Tricer (mainly US). No probado/testing claims, no prices or currency, no local Amazon store. Personal angle only from data/author-stories.json. Proofread.",
+    "at": "2026-11-13T16:11:20.426Z",
+    "hash": "94ae5f14a3cc9804"
+  }
+}

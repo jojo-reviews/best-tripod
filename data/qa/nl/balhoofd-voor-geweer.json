@@ -1,0 +1,20 @@
+{
+  "slug": "nl/balhoofd-voor-geweer",
+  "lang": "nl",
+  "translationOf": "best-tripod-ball-head-for-rifle-shooting",
+  "pass": true,
+  "checkedAt": "2026-11-13T16:11:22.385Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/ball-head-sags-after-tightening/; link the nl version once it exists",
+    "internal link to the English post /blog/best-tripod-for-spotting-scope/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-ball-head-for-rifle-shooting (passes QA): same 5 products/ASINs/scores/spec keys, all specs, ratios and FAQ answers match; metric conversions as in de/es. Number link kept on nrlhunter.org (16 lbs); Acratech and Tricer number links dropped to plain text for the 3-outside-link cap; local links: KNSA Precisiegeweer reglement PDF (re-opened: PG300/100 Open max 10,00 kg incl. richtkijker, tweepoot, magazijn, mondingsrem; TR 8,25 kg) and De Jacht article Schietstok (quotes verbatim: Mijn geweer weegt ruim vijf kilo..., op het zwaartepunt vastgeklemd..., een heel gesleep met geweer, driepoot, stoeltje...). Leofoto Europe Juggernaut S3 set figures from leofoto.net. Neutral notes: Anvil (no EU dealer), Acratech (no NL/BE dealer on Acratech dealer list; DE and ES dealers listed), Tricer (mainly US). No testing/ownership claims, no prices or currency, no local Amazon store. Personal angle only from data/author-stories.json. Proofread.",
+    "at": "2026-11-13T16:11:20.700Z",
+    "hash": "0c6f10e0733b6b7d"
+  }
+}

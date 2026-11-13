@@ -1,0 +1,165 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-ball-head-for-rifle-shooting",
+  "checkedAt": "2026-11-13T16:03:14.757Z",
+  "productFit": [
+    {
+      "name": "Really Right Stuff Anvil-30 ARC Shooting Ball Head",
+      "asin": "B0FCBNMJHF",
+      "status": "unknown",
+      "metricSpecs": "RRS gives imperial figures only: 15.2 oz = 431 g, 35 lb = 15.9 kg, 2.67 in = 6.8 cm (67.8 mm); 30 mm ball; 3/8\"-16.",
+      "reason": "No official RRS distributor in Europe found. The German dealer Augenblicke-eingefangen (Rostock) stocks other RRS heads (e.g. BH-40 LR II, BH-55 PCLR) but its RRS brand page does not list the Anvil-30 ARC. A Wild und Hund forum member (Germany) recommends the Anvil 30 and says he ordered RRS, so it reaches German buyers, but no EU retail listing was confirmed.",
+      "source": "https://www.augenblicke-eingefangen.de/en/Brands/Really-Right-Stuff/"
+    },
+    {
+      "name": "Leofoto Juggernaut Head",
+      "asin": "B0HJ6BP8JJ",
+      "status": "localVariant",
+      "variant": "Leofoto Europe (leofoto.net) sells the Juggernaut Head as part of the X Mountain Forged Juggernaut S2 and S3 tripod sets ('The set version includes the next-generation Juggernaut Head'); a standalone head listing was not found on leofoto.net.",
+      "metricSpecs": "Leofoto USA: 20 kg (44.09 lb), 491 g, 76.2 mm high, 57 mm base, 40 mm ball. Leofoto Europe S3 set: tripod max 168.7 cm, min 54.6 cm, folded 84.5 cm, load 54 kg, 3.62 kg.",
+      "reason": "Same head, sold in the EU inside the Juggernaut tripod sets; the Amazon link stays the standalone head.",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "name": "Acratech GXP Ball-Head",
+      "asin": "B085CNHR7Q",
+      "status": "unknown",
+      "metricSpecs": "English post/maker: 22.6 kg (50 lb), 0.45 kg (1 lb), 106 mm (4.2 in), 38 mm ball, 60 mm base.",
+      "reason": "Acratech's dealer list names dealers in Germany (Augenblicke-eingefangen, Rostock) and Spain (Microgamma, Igualada) but none in the Netherlands or Belgium.",
+      "source": "https://www.acratech.net/dealers/"
+    },
+    {
+      "name": "Leofoto LH-40 Ball Head",
+      "asin": "B01IYJUO5Y",
+      "status": "fits",
+      "metricSpecs": "Leofoto Europe: load capacity 20 kg, 3/8\" base thread, 1/4\" camera screw, tilt 90°, pan 360°, weight 0.54 kg (listing with QP-70N plate); Leofoto USA: 491 g, 87 mm, 57 mm base.",
+      "reason": "Leofoto Europe lists 'Tripod ball-head LH-40 + quick release plate QP-70N' in stock with shipping within the EU; EU responsible person in Amsterdam.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "name": "Tricer-DZ Hybrid Panhead",
+      "asin": "B0DMYT8TGG",
+      "status": "notForMarket",
+      "metricSpecs": "Tricer gives imperial only: 14.6 oz = 414 g, 4 in = 10.2 cm, 15 lb = 6.8 kg.",
+      "reason": "No EU dealer found. Tricer is a US brand that ships international orders from the US via Passport, Delivered Duty Paid, and does not accept returns on international orders (Tricer FAQ). Treat it as mainly sold in the US.",
+      "source": "https://tricer.com/pages/faq"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Het KNSA-reglement Precisiegeweer (PG300/100 Open) staat maximaal 10,00 kg per wapen toe, inclusief richtkijker, tweepoot, magazijn en mondingsrem; PG300/100 TR maximaal 8,25 kg.",
+      "source": "https://svpgsn.nl/wp-content/uploads/2024/06/PG-SWR-PG300-100-50-v20-10.pdf"
+    },
+    {
+      "fact": "Leofoto Europe geeft voor de LH-40 een draagvermogen van 20 kg, 3/8-inch aansluiting, 1/4-inch cameraschroef, 90° kanteling en 360° panorama; de verantwoordelijke EU-partij zit in Amsterdam.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "fact": "Leofoto Europe verkoopt de Juggernaut-kop in de Juggernaut S2- en S3-sets (S3: max. 168,7 cm, 54 kg draagvermogen, 3,62 kg).",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "fact": "Nederlandse termen: schietstok, driepoot met klem, statiefkop, balhoofd, Arca-klem, Picatinny-rail, aanzitten, bersen.",
+      "source": "https://dejacht.nl/artikelen/schietstok"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Een zwaar geweer (ruim 5 kg) lang gericht houden.",
+      "fix": "Kies een kop met 2 tot 3 keer het geweergewicht aan draagvermogen (load-sectie van het Engelse artikel).",
+      "quotes": [
+        {
+          "text": "Mijn geweer weegt ruim vijf kilo, ik ben niet meer zo sterk als ik dertig jaar geleden was",
+          "url": "https://dejacht.nl/artikelen/schietstok"
+        }
+      ],
+      "sources": [
+        "https://dejacht.nl/artikelen/schietstok"
+      ]
+    },
+    {
+      "pain": "Het geweer moet uit zichzelf in positie blijven.",
+      "fix": "Klem op de rail en de frictie zo zetten dat het geweer blijft staan (stappen 3-5).",
+      "quotes": [
+        {
+          "text": "De stabiliteit is heel goed, het geweer wordt op het zwaartepunt vastgeklemd en blijft zo uit zichzelf in positie.",
+          "url": "https://dejacht.nl/artikelen/schietstok"
+        }
+      ],
+      "sources": [
+        "https://dejacht.nl/artikelen/schietstok"
+      ]
+    },
+    {
+      "pain": "Het gesleep met geweer, driepoot en stoeltje naar de aanzitplek.",
+      "fix": "Lichte koppen: Tricer-DZ 414 g, Anvil-30 431 g (vergelijkingstabel).",
+      "quotes": [
+        {
+          "text": "het is een heel gesleep met geweer, driepoot, stoeltje en wat je verder nog wil meenemen",
+          "url": "https://dejacht.nl/artikelen/schietstok"
+        }
+      ],
+      "sources": [
+        "https://dejacht.nl/artikelen/schietstok"
+      ]
+    },
+    {
+      "pain": "Tijdens het aanzitten wil je beide handen vrij voor de verrekijker.",
+      "fix": "Geweer in de klem laten; voor kijker en geweer op één statief de Tricer-DZ (probleem 'grabby for glassing').",
+      "quotes": [
+        {
+          "text": "Geweer in de klem in globaal de richting van waaruit ik het wild verwacht en beide handen vrij voor de verrekijker.",
+          "url": "https://dejacht.nl/artikelen/schietstok"
+        }
+      ],
+      "sources": [
+        "https://dejacht.nl/artikelen/schietstok"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Lokale gewichtsgrens: KNSA PG300 Open max. 10,00 kg, TR 8,25 kg, naast de 7,3 kg (16 lb) van NRL Hunter in de VS.",
+      "source": "https://svpgsn.nl/wp-content/uploads/2024/06/PG-SWR-PG300-100-50-v20-10.pdf"
+    },
+    {
+      "point": "Antwoord op de ervaring uit De Jacht: geweer in de klem, handen vrij voor de verrekijker.",
+      "source": "https://dejacht.nl/artikelen/schietstok"
+    },
+    {
+      "point": "Maker-waarde 20 kg voor LH-40 en Juggernaut.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "point": "Juggernaut-kop is in de EU verkrijgbaar in de Juggernaut-sets van Leofoto Europe.",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The 16 lb NRL Hunter Open Heavy cap used as the heavy-rifle case (table column, load section, notes block, cons)",
+      "action": "replace",
+      "with": "Keep it as a clearly US competition reference (NRL Hunter, 7,3 kg / 16 lb) and add the local weight figure where the brief has one."
+    },
+    {
+      "english": "each has its own Amazon US listing / Sunwayfoto IB-30, Aziak and Leofoto MA-30L had no clear Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific selection rule (Amazon US), no local store claims."
+    },
+    {
+      "english": "Western hunters who spot with a scope (Tricer-DZ renterNote)",
+      "action": "replace",
+      "with": "hunters who glass with a spotting scope or binoculars first (drop the US 'Western' framing)."
+    },
+    {
+      "english": "more load per dollar (Juggernaut section)",
+      "action": "replace",
+      "with": "more load for the money (no currency)."
+    },
+    {
+      "english": "All imperial figures (lb, oz, in)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets: 35 lb = 15,9 kg, 44.09 lb = 20 kg, 50 lb = 22,6 kg, 15 lb = 6,8 kg, 16 lb = 7,3 kg, 8 lb = 3,6 kg, 11 lb = 5 kg, 11.25 lb = 5,1 kg; 15.2 oz = 431 g, 14.6 oz = 414 g, 1.08 lb = 491 g, 1 lb = 0,45 kg; 2.67 in = 6,8 cm, 3 in = 7,6 cm (76,2 mm), 3.42 in = 8,7 cm (87 mm), 4 in = 10,2 cm, 4.2 in = 10,6 cm (106 mm), 1.5 in = 3,8 cm. 'lb of rating per ounce' becomes 'times its own weight' (GXP about 50x, Juggernaut/LH-40 about 41x, Anvil about 37x, Tricer about 16x)."
+    }
+  ]
+}

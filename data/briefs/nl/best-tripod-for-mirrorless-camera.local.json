@@ -1,0 +1,161 @@
+{
+  "lang": "nl",
+  "translationOf": "best-tripod-for-mirrorless-camera",
+  "checkedAt": "2026-11-13T16:00:03.528Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs, 494 ball head and 200PL PRO plate.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload.",
+      "reason": "German retailer Foto Erhardt lists MKBFRLA4BK-BH (checked for best-tripod-for-camera).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (same as the English specs).",
+      "reason": "Sold in the Netherlands/Belgium as the Peak Design Travel Tripod Carbon by Kamera Express.",
+      "source": "https://www.kamera-express.nl/products/peak-design-travel-carbon-statief"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "K&F spec table (re-read 2026-11-13): 1,6 m max., 116 cm without centre column, 400 mm min. working height, 390 mm folded, 1,24 kg, 8 kg load. (The English specs pair 19.68 in with 40 cm; the maker table prints the same pair, so the metric figure 40 cm is used.)",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post (SIRUI spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload.",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK (Calumet.de, Amazon.es, Manfrotto global-es page).",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "No EU maker page read; use the English post figures (B&H): 3 kg load, 247 g, 24 cm closed, about 30 cm tall.",
+      "reason": "Amazon.es sells \"JOBY JB01507 GorillaPod Kit 3K\" under the same ASIN B074WC9YKL.",
+      "source": "https://www.amazon.es/Joby-GorillaPod-Digitales-C%C3%A1maras-Pel%C3%ADcula/dp/B074WC9YKL"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "KLM staat 1 stuk handbagage toe van max. 55 x 35 x 25 cm inclusief handvatten en wieltjes. Alle zes statieven zijn ingeklapt ruim korter: Befree Advanced 40 cm, Peak Design 39,4 cm, K&F 39 cm, SIRUI 33 cm, GorillaPod 3K 24 cm, PIXI EVO 20,5 cm.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Photofacts (Liesbeth van Asselt) geeft als vuistregel dat camera plus objectief hoogstens de helft van het draagvermogen van het statief mag wegen voor optimale stabiliteit; dat is dezelfde 2x-marge als in het artikel.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "fact": "Rijksmuseum Boerhaave in Leiden: fotograferen en filmen mag, maar zonder flits en zonder statief.",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "fact": "Het KNMI noemt windkracht 6 \"krachtig\", 39-49 km/u; aan de kust is dat het moment om de middenzuil laag te houden.",
+      "source": "https://www.knmi.nl/kennis-en-datacentrum/uitleg/windschaal-van-beaufort"
+    },
+    {
+      "fact": "Termen: statiefkop, balhoofd, middenzuil, snelkoppelingsplaat, klemsluiting, draaisluiting, systeemcamera; Arca-Swiss heet overal hetzelfde.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Een volledig uitgeschoven middenzuil kost veel stabiliteit.",
+      "fix": "Vergelijk de hoogte zonder middenzuil (Peak Design 130,2 cm, Befree 128 cm, K&F 116 cm); dikke segmenten eerst uitschuiven, zuil als laatste.",
+      "quotes": [
+        {
+          "text": "Hij verliest wel enorm aan stabiliteit als de middenzuil in de hoogste stand staat.",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": [
+        "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+      ]
+    },
+    {
+      "pain": "Ook op een stevig statief gaan lange objectieven trillen in de wind.",
+      "fix": "Voor een 200-600mm-kit (2.773 g) alleen de statieven van 8 kg en meer; middenzuil omlaag, dunste segmenten ingeschoven.",
+      "quotes": [
+        {
+          "text": "zelfs op een stevig statief kunnen ze onder invloed van de wind in een soort trilling raken",
+          "url": "https://forum.fok.nl/topic/2533087/1/999"
+        }
+      ],
+      "sources": [
+        "https://forum.fok.nl/topic/2533087/1/999"
+      ]
+    },
+    {
+      "pain": "Twijfel of een statief in de handbagage mag.",
+      "fix": "KLM-maat 55 x 35 x 25 cm: alle zes statieven zijn ingeklapt 40 cm of korter.",
+      "quotes": [
+        {
+          "text": "je mag je statief gewoon in je handbagage vervoeren.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15"
+        }
+      ],
+      "sources": [
+        "https://forum.nikon-club-nederland.nl/viewtopic.php?t=71461&start=15",
+        "https://www.klm.com/information/baggage/hand-baggage-allowance"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Nederlandse vuistregel (Photofacts): kit hoogstens de helft van het draagvermogen, toegepast op elk statief met de reservefactor.",
+      "source": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+    },
+    {
+      "point": "Handbagage-check met de KLM-maat 55 x 35 x 25 cm: alle zes passen in de lengte.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Waar het statief thuisblijft: Rijksmuseum Boerhaave (geen statief).",
+      "source": "https://www.rijksmuseumboerhaave.nl/huisregels"
+    },
+    {
+      "point": "Metrische fabriekswaarden in plaats van omrekeningen (Manfrotto, Peak Design, K&F-tabel).",
+      "source": "https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Amazon US shows it in stock / showed them as unavailable (How I picked)",
+      "action": "replace",
+      "with": "\"has its own Amazon listing in stock\" / \"were unavailable or down to one unit on Amazon\" without naming the US store and without any local-store claim"
+    },
+    {
+      "english": "Body links to Sony 24-70mm GM II (695 g) and FE 200-600mm G (2,115 g) spec pages",
+      "action": "replace",
+      "with": "keep the figures as plain text (both pages stay in sources) so the body keeps the A7 IV link plus two local-fact links within the 3-outside-link limit"
+    },
+    {
+      "english": "Befree Advanced kit code MKBFRLA4BK-BHUS (US source page)",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH once in the Befree section"
+    },
+    {
+      "english": "Imperial-first figures (lb, in) everywhere",
+      "action": "replace",
+      "with": "maker metric first (Manfrotto, Peak Design, K&F tables), imperial in brackets"
+    }
+  ],
+  "notes": "Product statuses, local facts and most forum quotes reuse entries verified for earlier local briefs on this site (best-tripod-for-camera, best-carbon-fiber-travel-tripod, best-tabletop-camera-tripod, best-tripod-for-sony-a7r-v, best-tripod-for-canon-r6-mark-ii) for the same products and markets; K&F metric table and the Nikonistas telephoto thread were read fresh on 2026-11-13."
+}

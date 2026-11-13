@@ -1,0 +1,169 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-ball-head-for-rifle-shooting",
+  "checkedAt": "2026-11-13T16:03:14.757Z",
+  "productFit": [
+    {
+      "name": "Really Right Stuff Anvil-30 ARC Shooting Ball Head",
+      "asin": "B0FCBNMJHF",
+      "status": "unknown",
+      "metricSpecs": "RRS gives imperial figures only: 15.2 oz = 431 g, 35 lb = 15.9 kg, 2.67 in = 6.8 cm (67.8 mm); 30 mm ball; 3/8\"-16.",
+      "reason": "No official RRS distributor in Europe found. The German dealer Augenblicke-eingefangen (Rostock) stocks other RRS heads (e.g. BH-40 LR II, BH-55 PCLR) but its RRS brand page does not list the Anvil-30 ARC. A Wild und Hund forum member (Germany) recommends the Anvil 30 and says he ordered RRS, so it reaches German buyers, but no EU retail listing was confirmed.",
+      "source": "https://www.augenblicke-eingefangen.de/en/Brands/Really-Right-Stuff/"
+    },
+    {
+      "name": "Leofoto Juggernaut Head",
+      "asin": "B0HJ6BP8JJ",
+      "status": "localVariant",
+      "variant": "Leofoto Europe (leofoto.net) sells the Juggernaut Head as part of the X Mountain Forged Juggernaut S2 and S3 tripod sets ('The set version includes the next-generation Juggernaut Head'); a standalone head listing was not found on leofoto.net.",
+      "metricSpecs": "Leofoto USA: 20 kg (44.09 lb), 491 g, 76.2 mm high, 57 mm base, 40 mm ball. Leofoto Europe S3 set: tripod max 168.7 cm, min 54.6 cm, folded 84.5 cm, load 54 kg, 3.62 kg.",
+      "reason": "Same head, sold in the EU inside the Juggernaut tripod sets; the Amazon link stays the standalone head.",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "name": "Acratech GXP Ball-Head",
+      "asin": "B085CNHR7Q",
+      "status": "fits",
+      "metricSpecs": "English post/maker: 22.6 kg (50 lb), 0.45 kg (1 lb), 106 mm (4.2 in), 38 mm ball, 60 mm base.",
+      "reason": "Acratech's dealer list names Augenblicke-eingefangen GbR in Rostock as its German dealer.",
+      "source": "https://www.acratech.net/dealers/"
+    },
+    {
+      "name": "Leofoto LH-40 Ball Head",
+      "asin": "B01IYJUO5Y",
+      "status": "fits",
+      "metricSpecs": "Leofoto Europe: load capacity 20 kg, 3/8\" base thread, 1/4\" camera screw, tilt 90°, pan 360°, weight 0.54 kg (listing with QP-70N plate); Leofoto USA: 491 g, 87 mm, 57 mm base.",
+      "reason": "Leofoto Europe lists 'Tripod ball-head LH-40 + quick release plate QP-70N' in stock with shipping within the EU; EU responsible person in Amsterdam.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "name": "Tricer-DZ Hybrid Panhead",
+      "asin": "B0DMYT8TGG",
+      "status": "notForMarket",
+      "metricSpecs": "Tricer gives imperial only: 14.6 oz = 414 g, 4 in = 10.2 cm, 15 lb = 6.8 kg.",
+      "reason": "No EU dealer found. Tricer is a US brand that ships international orders from the US via Passport, Delivered Duty Paid, and does not accept returns on international orders (Tricer FAQ). Treat it as mainly sold in the US.",
+      "source": "https://tricer.com/pages/faq"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Leofoto Europe führt Schießstative im deutschen Shop unter 'Zielstöcke & Stative' mit der Bauart 'Zielstock'; der Juggernaut S3 steht dort mit Juggernaut-Kopf (40-mm-Kugel, Arca-Picatinny-Doppelklemme, sechs Sicherungsschrauben).",
+      "source": "https://www.leofoto.net/fotostative/zielstoecke-stative/24_20_30/m,Leofoto/a,Zielfernrohre.Leistung.Bauart-Zubehoer=Zielstock"
+    },
+    {
+      "fact": "Leofoto Europe gibt für das Juggernaut-S3-Set metrische Werte an: max. 168,7 cm, min. 54,6 cm, Packmaß 84,5 cm, Tragkraft 54 kg, 3,62 kg; als Einsatzbereiche nennt der Shop Hochsitz, Drückjagd und Pirsch (gut) sowie weite Distanz (sehr gut).",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "fact": "Leofoto Europe nennt für den LH-40 eine Tragkraft von 20 kg, 3/8-Zoll-Anschluss, 1/4-Zoll-Kameraschraube, 90° Neigung und 360° Schwenk.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "fact": "Gängige deutsche Begriffe: Kugelkopf, Arca-Klemme, Picatinny-Schiene, Zielstock, Dreibein, Waffenstativ, Hog Saddle / Gewehrklemme, Friktionseinstellung, Ansitz, Pirsch, Drückjagd.",
+      "source": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Zielstöcke mit vier Beinen lassen schlecht mitschwenken und halten die Waffe nicht von allein.",
+      "fix": "Ein Kugelkopf mit Arca- oder Picatinny-Klemme hält die Büchse allein; Panoramabasis zum Mitschwenken, Friktion so einstellen, dass die Waffe stehen bleibt (English: setup steps 4 and 6).",
+      "quotes": [
+        {
+          "text": "Besonders stört mich an den Vierbeinern, dass man schlecht mitschwenken kann und die Waffe nicht von alleine fixiert wird",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+      ]
+    },
+    {
+      "pain": "Viele kaufen zuerst ein teures Dreibein, dabei entscheidet der Kopf über die Ruhe.",
+      "fix": "Kopf nach Tragkraft (2- bis 3-fach Waffengewicht) und Klemme wählen (English: load section and comparison table).",
+      "quotes": [
+        {
+          "text": "Grundsätzlich gilt, die Stabilität kommt nicht vom Dreibein sondern vom Kugelkopf.",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+      ]
+    },
+    {
+      "pain": "In einer Gewehrklemme (Hog Saddle) überträgt sich jede Bewegung auf die Waffe.",
+      "fix": "Arca-Schiene in einer Kugelkopf-Klemme statt Sattel (English problem 'The rifle wiggles in a saddle').",
+      "quotes": [
+        {
+          "text": "dass die Waffe zwar fest eingespannt ist, sich aber jede Form von Bewegung/Spannung stärker auf die Waffe überträgt",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+        },
+        {
+          "text": "Die beste Verbindung zwischen Waffe und Stativ ist meiner Meinung nach eine Arca-Schiene. Danach kommt Picatinny und dann HOG-Saddel",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+      ]
+    },
+    {
+      "pain": "Zweifel, ob ein Kugelkopf ruhiger hält als eine einfache Gabel.",
+      "fix": "Die Friktionseinstellung des Kopfes nutzen (English: setup step 4, drag).",
+      "quotes": [
+        {
+          "text": "Hochwertige Kugelköpfe haben eine Friktionseinstellung, da sollte die Stabilität schon deutlich höher sein, als frei in die Gabel gelegt",
+          "url": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+        }
+      ],
+      "sources": [
+        "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Antwort auf die Wild-und-Hund-Frage Zielstock vs. Dreibein mit Kugelkopf: Stabilität kommt vom Kopf, Arca vor Picatinny vor Hog Saddle.",
+      "source": "https://forum.wildundhund.de/threads/empfehlung-zielstock-waffenstativ.143396/page-2"
+    },
+    {
+      "point": "Juggernaut-Kopf ist in der EU im Juggernaut-S2/S3-Set von Leofoto Europe erhältlich, mit metrischen Set-Werten.",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "point": "Maker-Wert 20 kg für LH-40 und Juggernaut statt umgerechneter Pfund.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "point": "Deutsche Fachbegriffe (Zielstock, Waffenstativ, Ansitz, Pirsch, Drückjagd) statt US-Wording.",
+      "source": "https://www.leofoto.net/fotostative/zielstoecke-stative/24_20_30/m,Leofoto/a,Zielfernrohre.Leistung.Bauart-Zubehoer=Zielstock"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The 16 lb NRL Hunter Open Heavy cap used as the heavy-rifle case (table column, load section, notes block, cons)",
+      "action": "replace",
+      "with": "Keep it as a clearly US competition reference (NRL Hunter, 7,3 kg / 16 lb) and add the local weight figure where the brief has one."
+    },
+    {
+      "english": "each has its own Amazon US listing / Sunwayfoto IB-30, Aziak and Leofoto MA-30L had no clear Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific selection rule (Amazon US), no local store claims."
+    },
+    {
+      "english": "Western hunters who spot with a scope (Tricer-DZ renterNote)",
+      "action": "replace",
+      "with": "hunters who glass with a spotting scope or binoculars first (drop the US 'Western' framing)."
+    },
+    {
+      "english": "more load per dollar (Juggernaut section)",
+      "action": "replace",
+      "with": "more load for the money (no currency)."
+    },
+    {
+      "english": "All imperial figures (lb, oz, in)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets: 35 lb = 15,9 kg, 44.09 lb = 20 kg, 50 lb = 22,6 kg, 15 lb = 6,8 kg, 16 lb = 7,3 kg, 8 lb = 3,6 kg, 11 lb = 5 kg, 11.25 lb = 5,1 kg; 15.2 oz = 431 g, 14.6 oz = 414 g, 1.08 lb = 491 g, 1 lb = 0,45 kg; 2.67 in = 6,8 cm, 3 in = 7,6 cm (76,2 mm), 3.42 in = 8,7 cm (87 mm), 4 in = 10,2 cm, 4.2 in = 10,6 cm (106 mm), 1.5 in = 3,8 cm. 'lb of rating per ounce' becomes 'times its own weight' (GXP about 50x, Juggernaut/LH-40 about 41x, Anvil about 37x, Tricer about 16x)."
+    }
+  ]
+}

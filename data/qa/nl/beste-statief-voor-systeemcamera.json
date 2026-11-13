@@ -1,0 +1,19 @@
+{
+  "slug": "nl/beste-statief-voor-systeemcamera",
+  "lang": "nl",
+  "translationOf": "best-tripod-for-mirrorless-camera",
+  "pass": true,
+  "checkedAt": "2026-11-13T16:07:48.682Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/best-tripod-for-sony-a7iv/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with best-tripod-for-mirrorless-camera: all 6 products, ASINs, scores, spec keys, FAQ answers, kit weights (658/695/1353/2115/2773/670/343 g) and headroom ratios match; metric-first conversions checked against maker metric figures (Manfrotto Befree 151/128/40/40 cm, 1,59 kg, 9 kg; Peak Design 152,4/130,2/14/39,4 cm, 1,3 kg, 9,1 kg; K&F spec table re-read on kfconcept.com 160/116/40/39 cm, 1,24 kg, 8 kg; SIRUI 138/16/33 cm, 0,85 kg, 4 kg; PIXI EVO 20/10,5/20,5 cm, 0,26 kg, 2,5 kg; GorillaPod 3K 24 cm, 247 g, 3 kg). Local facts from data/briefs/nl local brief (KLM 55x35x25 cm, Photofacts half-of-load rule and middenzuil quote, Rijksmuseum Boerhaave no tripod, KNMI windkracht 6 39-49 km/u); FOK! and Nikon Club Nederland quotes verbatim from the brief. No testing/ownership claims, no prices/currency, no local Amazon store claims; Sony 24-70/200-600 figures as plain text (pages stay in sources) for the 3-outside-link limit.",
+    "at": "2026-11-13T16:07:47.970Z",
+    "hash": "9f8323d9efaf48da"
+  }
+}

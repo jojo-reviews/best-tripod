@@ -1,0 +1,169 @@
+{
+  "lang": "es",
+  "translationOf": "best-tripod-ball-head-for-rifle-shooting",
+  "checkedAt": "2026-11-13T16:03:14.757Z",
+  "productFit": [
+    {
+      "name": "Really Right Stuff Anvil-30 ARC Shooting Ball Head",
+      "asin": "B0FCBNMJHF",
+      "status": "unknown",
+      "metricSpecs": "RRS gives imperial figures only: 15.2 oz = 431 g, 35 lb = 15.9 kg, 2.67 in = 6.8 cm (67.8 mm); 30 mm ball; 3/8\"-16.",
+      "reason": "No official RRS distributor in Europe found. The German dealer Augenblicke-eingefangen (Rostock) stocks other RRS heads (e.g. BH-40 LR II, BH-55 PCLR) but its RRS brand page does not list the Anvil-30 ARC. A Wild und Hund forum member (Germany) recommends the Anvil 30 and says he ordered RRS, so it reaches German buyers, but no EU retail listing was confirmed.",
+      "source": "https://www.augenblicke-eingefangen.de/en/Brands/Really-Right-Stuff/"
+    },
+    {
+      "name": "Leofoto Juggernaut Head",
+      "asin": "B0HJ6BP8JJ",
+      "status": "localVariant",
+      "variant": "Leofoto Europe (leofoto.net) sells the Juggernaut Head as part of the X Mountain Forged Juggernaut S2 and S3 tripod sets ('The set version includes the next-generation Juggernaut Head'); a standalone head listing was not found on leofoto.net.",
+      "metricSpecs": "Leofoto USA: 20 kg (44.09 lb), 491 g, 76.2 mm high, 57 mm base, 40 mm ball. Leofoto Europe S3 set: tripod max 168.7 cm, min 54.6 cm, folded 84.5 cm, load 54 kg, 3.62 kg.",
+      "reason": "Same head, sold in the EU inside the Juggernaut tripod sets; the Amazon link stays the standalone head.",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    },
+    {
+      "name": "Acratech GXP Ball-Head",
+      "asin": "B085CNHR7Q",
+      "status": "fits",
+      "metricSpecs": "English post/maker: 22.6 kg (50 lb), 0.45 kg (1 lb), 106 mm (4.2 in), 38 mm ball, 60 mm base.",
+      "reason": "Acratech's dealer list names Microgamma (Igualada, Barcelona) as its Spanish dealer.",
+      "source": "https://www.acratech.net/dealers/"
+    },
+    {
+      "name": "Leofoto LH-40 Ball Head",
+      "asin": "B01IYJUO5Y",
+      "status": "fits",
+      "metricSpecs": "Leofoto Europe: load capacity 20 kg, 3/8\" base thread, 1/4\" camera screw, tilt 90°, pan 360°, weight 0.54 kg (listing with QP-70N plate); Leofoto USA: 491 g, 87 mm, 57 mm base.",
+      "reason": "Leofoto Europe lists 'Tripod ball-head LH-40 + quick release plate QP-70N' in stock with shipping within the EU; EU responsible person in Amsterdam.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "name": "Tricer-DZ Hybrid Panhead",
+      "asin": "B0DMYT8TGG",
+      "status": "notForMarket",
+      "metricSpecs": "Tricer gives imperial only: 14.6 oz = 414 g, 4 in = 10.2 cm, 15 lb = 6.8 kg.",
+      "reason": "No EU dealer found. Tricer is a US brand that ships international orders from the US via Passport, Delivered Duty Paid, and does not accept returns on international orders (Tricer FAQ). Treat it as mainly sold in the US.",
+      "source": "https://tricer.com/pages/faq"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "En la división Production ESP de PRS España el rifle debe pesar menos de 9,25 kg contando visor, bípode y accesorios; solo se admiten bípodes Harris, Versapod o Atlas, y los trípodes, por ejemplo, no se permiten como apoyo.",
+      "source": "https://xn--prsespaa-j3a.com/prsreglamento/"
+    },
+    {
+      "fact": "Los términos que usa el mercado español: trípode de tiro, rótula, pinza Arca-Swiss, carril Picatinny (Vanguard España describe su Endeavor L 303CPR como trípode de tiro compatible con Arca-Swiss y carril Picatinny).",
+      "source": "https://www.vanguardworld.es/products/endeavorl303cpr"
+    },
+    {
+      "fact": "Leofoto Europa da para la LH-40 una carga de 20 kg, rosca de 3/8, tornillo de cámara de 1/4, inclinación de 90° y giro de 360°.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    },
+    {
+      "fact": "Leofoto Europa vende la rótula Juggernaut dentro de los kits Juggernaut S2 y S3 (S3: 168,7 cm de altura máxima, 54 kg de carga, 3,62 kg).",
+      "source": "https://www.leofoto.net/en/rifle-stick/leofoto-x-mountain-forged-juggernaut-s3/p,90848"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "El trípode clásico se viene abajo mientras apuntas y se pierde el tiro.",
+      "fix": "Rótula con carga de 2 a 3 veces el peso del rifle y una pinza que lo sujete (sección de carga y tabla del post inglés).",
+      "quotes": [
+        {
+          "text": "mientras apuntaba, se vino abajo el invento. Lo volví a poner derecho pero había perdido la concentración y fallé.",
+          "url": "https://www.cazayarmas.org/t18447-tripode"
+        }
+      ],
+      "sources": [
+        "https://www.cazayarmas.org/t18447-tripode"
+      ]
+    },
+    {
+      "pain": "En la montería no se puede dejar el rifle sobre una horquilla.",
+      "fix": "Una pinza Arca o Picatinny en la rótula deja el rifle fijo y las manos libres (pasos 3 y 4 del montaje).",
+      "quotes": [
+        {
+          "text": "No me gusta porque en montería no puedo dejar el rifle sobre él.",
+          "url": "https://www.cazayarmas.org/t18447-tripode"
+        },
+        {
+          "text": "Ambos consienten dejar el arma sobre la rótula.",
+          "url": "https://www.cazayarmas.org/t18447-tripode"
+        }
+      ],
+      "sources": [
+        "https://www.cazayarmas.org/t18447-tripode"
+      ]
+    },
+    {
+      "pain": "Al abrir las patas para tirar más bajo, el trípode se mueve.",
+      "fix": "Una rótula baja (Anvil-30 a 6,8 cm) acerca el rifle a las patas; bloquear la rótula después de nivelar (sección de altura y paso 5).",
+      "quotes": [
+        {
+          "text": "cuando tienes que estirar las patas para tirar más agachado. En esas situaciones lo veo endeble y se mueve mucho.",
+          "url": "https://www.cazayarmas.org/t18447-tripode"
+        }
+      ],
+      "sources": [
+        "https://www.cazayarmas.org/t18447-tripode"
+      ]
+    },
+    {
+      "pain": "Polvo y arena acaban bloqueando el mecanismo.",
+      "fix": "El diseño abierto de la Acratech GXP suelta la suciedad y se limpia fácil (opiniones de propietarios en el post inglés).",
+      "quotes": [
+        {
+          "text": "el problema es el polvo, arena y demas particulas que entran entre los dos tubos del mismo pie",
+          "url": "https://www.armas.es/foros/viewtopic.php?t=1052232"
+        }
+      ],
+      "sources": [
+        "https://www.armas.es/foros/viewtopic.php?t=1052232"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Referencia de peso local: menos de 9,25 kg en la Production ESP de PRS España, frente a los 7,3 kg (16 lb) de NRL Hunter en EE. UU.",
+      "source": "https://xn--prsespaa-j3a.com/prsreglamento/"
+    },
+    {
+      "point": "Aviso: en esa división de PRS España no se permiten trípodes como apoyo, así que la rótula sirve para caza, rececho, esperas y entrenamiento.",
+      "source": "https://xn--prsespaa-j3a.com/prsreglamento/"
+    },
+    {
+      "point": "Respuesta a los cazadores de cazayarmas.org: dejar el rifle fijo en la rótula en montería y espera.",
+      "source": "https://www.cazayarmas.org/t18447-tripode"
+    },
+    {
+      "point": "Cifra métrica del fabricante (20 kg) para LH-40 y Juggernaut.",
+      "source": "https://www.leofoto.net/en/ballheads/leofoto-tripod-ball-head-lh-40-quick-release-plate-qp-70n/p,70228"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "The 16 lb NRL Hunter Open Heavy cap used as the heavy-rifle case (table column, load section, notes block, cons)",
+      "action": "replace",
+      "with": "Keep it as a clearly US competition reference (NRL Hunter, 7,3 kg / 16 lb) and add the local weight figure where the brief has one."
+    },
+    {
+      "english": "each has its own Amazon US listing / Sunwayfoto IB-30, Aziak and Leofoto MA-30L had no clear Amazon US listing",
+      "action": "replace",
+      "with": "keep as a clearly US-specific selection rule (Amazon US), no local store claims."
+    },
+    {
+      "english": "Western hunters who spot with a scope (Tricer-DZ renterNote)",
+      "action": "replace",
+      "with": "hunters who glass with a spotting scope or binoculars first (drop the US 'Western' framing)."
+    },
+    {
+      "english": "more load per dollar (Juggernaut section)",
+      "action": "replace",
+      "with": "more load for the money (no currency)."
+    },
+    {
+      "english": "All imperial figures (lb, oz, in)",
+      "action": "replace",
+      "with": "metric first, imperial in brackets: 35 lb = 15,9 kg, 44.09 lb = 20 kg, 50 lb = 22,6 kg, 15 lb = 6,8 kg, 16 lb = 7,3 kg, 8 lb = 3,6 kg, 11 lb = 5 kg, 11.25 lb = 5,1 kg; 15.2 oz = 431 g, 14.6 oz = 414 g, 1.08 lb = 491 g, 1 lb = 0,45 kg; 2.67 in = 6,8 cm, 3 in = 7,6 cm (76,2 mm), 3.42 in = 8,7 cm (87 mm), 4 in = 10,2 cm, 4.2 in = 10,6 cm (106 mm), 1.5 in = 3,8 cm. 'lb of rating per ounce' becomes 'times its own weight' (GXP about 50x, Juggernaut/LH-40 about 41x, Anvil about 37x, Tricer about 16x)."
+    }
+  ]
+}

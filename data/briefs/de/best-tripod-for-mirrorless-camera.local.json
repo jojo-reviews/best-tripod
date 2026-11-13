@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-for-mirrorless-camera",
+  "checkedAt": "2026-11-13T16:00:03.528Z",
+  "productFit": [
+    {
+      "name": "Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head)",
+      "asin": "B0772WLSHZ",
+      "status": "localVariant",
+      "variant": "In the EU the lever aluminium kit is sold as MKBFRLA4BK-BH (the English source page is the US code MKBFRLA4BK-BHUS); same legs, 494 ball head and 200PL PRO plate.",
+      "metricSpecs": "Manfrotto: 151 cm column up, 128 cm column down, 40 cm min., 40 cm folded, 1,59 kg with head, 9 kg safety payload.",
+      "reason": "German retailer Foto Erhardt lists MKBFRLA4BK-BH (checked for best-tripod-for-camera).",
+      "source": "https://www.foto-erhardt.com/tripods/manfrotto/manfrotto-mkbfrla4bk-bh-befree-advanced-alu-travel-tripod-kit-qpl.html"
+    },
+    {
+      "name": "Peak Design Travel Tripod (Carbon Fiber)",
+      "asin": "B085BQTQMN",
+      "status": "fits",
+      "metricSpecs": "Peak Design: 152,4 cm max., 130,2 cm column down, 14 cm min., 39,4 cm folded, about 1,3 kg with head, 9,1 kg load (same as the English specs).",
+      "reason": "Foto Erhardt (DE) lists the Peak Design Travel Tripod Carbon; Peak Design EU sells the carbon version too.",
+      "source": "https://www.foto-erhardt.com/tripods/other-manufacturers/peak-design-travel-tripod-carbon-travel-tripod.html"
+    },
+    {
+      "name": "K&F Concept 64 inch Aluminum Travel Tripod",
+      "asin": "B0B1HYVVTV",
+      "status": "fits",
+      "metricSpecs": "K&F spec table (re-read 2026-11-13): 1,6 m max., 116 cm without centre column, 400 mm min. working height, 390 mm folded, 1,24 kg, 8 kg load. (The English specs pair 19.68 in with 40 cm; the maker table prints the same pair, so the metric figure 40 cm is used.)",
+      "reason": "Sold in the EU under the same model code O234A1+BH-36 and the same ASIN on amazon.es.",
+      "source": "https://www.amazon.es/Concept-Tr%C3%ADpode-Aluminio-Soporte-Tel%C3%A9fono/dp/B0B1HYVVTV"
+    },
+    {
+      "name": "SIRUI Traveler 5C Carbon Fiber Tripod",
+      "asin": "B07KD181B3",
+      "status": "fits",
+      "metricSpecs": "amazon.de listing of the same ASIN: 138 cm, 0,85 kg, 4 kg load; 33 cm folded and 16 cm min. from the English post (SIRUI spec chart).",
+      "reason": "The same ASIN is listed on amazon.de as SIRUI Traveler 5C Carbon Travel Tripod 138/0.85/4 kg.",
+      "source": "https://www.amazon.de/-/en/Traveler-Carbon-Travel-capacity-Arca-Swiss/dp/B07KD181B3"
+    },
+    {
+      "name": "Manfrotto PIXI EVO 2-Section Mini Tripod",
+      "asin": "B0149KBPB4",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 10,5-20 cm height, 20,5 cm closed, 0,26 kg, 2,5 kg safety payload.",
+      "reason": "Sold in the EU under the same code MTPIXIEVO-BK (Calumet.de, Amazon.es, Manfrotto global-es page).",
+      "source": "https://www.calumet.de/product/manfrotto-pixi-evo-mini-stativ-2-segmente-schwarz"
+    },
+    {
+      "name": "JOBY GorillaPod 3K Kit",
+      "asin": "B074WC9YKL",
+      "status": "fits",
+      "metricSpecs": "No EU maker page read; use the English post figures (B&H): 3 kg load, 247 g, 24 cm closed, about 30 cm tall.",
+      "reason": "Amazon.es sells \"JOBY JB01507 GorillaPod Kit 3K\" under the same ASIN B074WC9YKL.",
+      "source": "https://www.amazon.es/Joby-GorillaPod-Digitales-C%C3%A1maras-Pel%C3%ADcula/dp/B074WC9YKL"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa erlaubt ein Handgepäckstück bis 55 x 40 x 23 cm. Alle sechs Stative sind gefaltet deutlich kürzer: Befree Advanced 40 cm, Peak Design 39,4 cm, K&F 39 cm, SIRUI 33 cm, GorillaPod 3K 24 cm, PIXI EVO 20,5 cm.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): private Fotos ohne Blitz sind erlaubt, \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\".",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Humboldt Forum Berlin: private Fotos sind erlaubt, Stative im Innenbereich nicht; ein Tischstativ ist dort keine Lösung.",
+      "source": "https://www.humboldtforum.org/de/richtlinie-fuer-foto-und-filmaufnahmen-im-humboldt-forum-im-berliner-schloss/"
+    },
+    {
+      "fact": "Der Deutsche Wetterdienst führt Windstärke 6 als \"starker Wind\" mit 40 bis 45 km/h; bei solchen Böen gilt: Mittelsäule unten, dünnste Segmente eingefahren.",
+      "source": "https://www.wettergefahren.de/warnungen/windwarnskala.html"
+    },
+    {
+      "fact": "Fachbegriffe: Stativkopf, Kugelkopf, Mittelsäule, Schnellwechselplatte, Klemmhebel, Drehverschluss, Tischstativ, Systemkamera / spiegellose Kamera; Arca-Swiss behält den Namen.",
+      "source": "https://www.vanguardworld.de/products/alta-pro-263ab-g2-aluminiumstativ-mit-kugelkopf-traglast-10-kg"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Forennutzer raten, sich nicht auf die Tragkraftangabe des Herstellers zu verlassen.",
+      "fix": "Der Reserve-Check des Beitrags: Tragkraft durch das Gewicht von Kamera plus schwerstem Objektiv teilen, mindestens 2x für Fotos, mehr bei Wind.",
+      "quotes": [
+        {
+          "text": "Noch ein Tipp: Orientiere dich nicht an der Tragfähigkeit, die der Hersteller angibt.",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        },
+        {
+          "text": "Reisestative mit diesen dünnen Beinchen brechen nicht unter deiner Kamera zusammen. Aber sie fangen schon bei leichtem Wind an zu schwingen",
+          "url": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+        }
+      ],
+      "sources": [
+        "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+      ]
+    },
+    {
+      "pain": "Lange Mittelsäulen gelten als wackelig.",
+      "fix": "Höhe ohne Mittelsäule in der Tabelle vergleichen (Peak Design 130,2 cm, Befree 128 cm, K&F 116 cm), dicke Segmente zuerst ausziehen, Säule zuletzt.",
+      "quotes": [
+        {
+          "text": "Auf lange, windige Mittelsäulenkonstruktionen würde ich jedenfalls verzichten.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    },
+    {
+      "pain": "Unsicherheit, ob das Stativ ins Handgepäck darf.",
+      "fix": "Lufthansa-Maß 55 x 40 x 23 cm: alle sechs Stative sind gefaltet höchstens 40 cm lang.",
+      "quotes": [
+        {
+          "text": "Meine Erfahrung bei über 30 Flügen mit Reisestativ im Handgepäck: es gibt so gut wie nie Probleme.",
+          "url": "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/stativ-im-flugzeug-mitnehmen.1807005/",
+        "https://www.lufthansa.com/fi/de/handgepaeck"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Handgepäck-Check mit dem Lufthansa-Maß 55 x 40 x 23 cm: alle sechs Stative passen der Länge nach (20,5 bis 40 cm).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Wo das Stativ trotz guter Wahl zu Hause bleibt: Kölner Dom (Genehmigung nötig), Humboldt Forum (keine Stative innen).",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "point": "Antwort auf den Foren-Rat \"nicht an der Tragfähigkeit orientieren\": der Reserve-Faktor pro Stativ statt der nackten Angabe.",
+      "source": "https://www.canon-eos-r-forum.de/topic/3801-welches-stativ-nutzt-ihr/"
+    },
+    {
+      "point": "Metrische Herstellerwerte statt Umrechnung (Manfrotto, Peak Design, K&F-Tabelle).",
+      "source": "https://www.kfconcept.com/KF09.101V1_64-aluminum-travel-camera-tripod-ball-head"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "Amazon US shows it in stock / showed them as unavailable (How I picked)",
+      "action": "replace",
+      "with": "\"has its own Amazon listing in stock\" / \"were unavailable or down to one unit on Amazon\" without naming the US store and without any local-store claim"
+    },
+    {
+      "english": "Body links to Sony 24-70mm GM II (695 g) and FE 200-600mm G (2,115 g) spec pages",
+      "action": "replace",
+      "with": "keep the figures as plain text (both pages stay in sources) so the body keeps the A7 IV link plus two local-fact links within the 3-outside-link limit"
+    },
+    {
+      "english": "Befree Advanced kit code MKBFRLA4BK-BHUS (US source page)",
+      "action": "replace",
+      "with": "name the EU kit code MKBFRLA4BK-BH once in the Befree section"
+    },
+    {
+      "english": "Imperial-first figures (lb, in) everywhere",
+      "action": "replace",
+      "with": "maker metric first (Manfrotto, Peak Design, K&F tables), imperial in brackets"
+    }
+  ],
+  "notes": "Product statuses, local facts and most forum quotes reuse entries verified for earlier local briefs on this site (best-tripod-for-camera, best-carbon-fiber-travel-tripod, best-tabletop-camera-tripod, best-tripod-for-sony-a7r-v, best-tripod-for-canon-r6-mark-ii) for the same products and markets; K&F metric table and the Nikonistas telephoto thread were read fresh on 2026-11-13."
+}
