@@ -38,3 +38,5 @@ Never weaken a check to make it pass. Report pass/fail, the fixes made, and any 
 
 ## Personal angle check (owner rule 2026-11-11)
 Every new post has Ned Diary's first-person angle, taken only from data/author-stories.json. Fail the post if a personal claim (trip, shoot, test, ownership, result) is not in that file, or if a product is described as tested/used/owned without a story naming that exact product. Fail a new post with no personal angle at all.
+
+Owner rule 2026-11-13 ("I did not test ya remove kar do site ma kahi b ... first person tone"): no page, template or post says the author or site did not test, use or own the products; the first-person-agent (.claude/agents/first-person-agent.md) removes such statements and keeps Ned Diary's first-person voice. The older rule still stands: never ADD a testing, hands-on, ownership or purchase claim that is not in data/author-stories.json (QA errors on those).

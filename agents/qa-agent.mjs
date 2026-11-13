@@ -330,6 +330,9 @@ export async function qaPost(post, { posts = listPosts(), online = false, live =
     const m = text.match(re);
     if (m) err(`${why}: "${m[0]}"`);
   }
+  // Owner rule 2026-11-13: no "I did not test / have not used" statements; the first-person-agent removes them.
+  const notTested = text.match(/\b(I|we)\s+(did not|didn't|have not|haven't|do not|don't|never)\s+(personally\s+)?(test|tested|use|used|handle|handled|own|owned|try|tried)\b[^.\n]{0,40}|\bnot hands-on\b|\bwithout (hands-on|testing)\b/i);
+  if (notTested) (pub >= Date.parse('2026-11-14T00:00:00Z') ? err : warn)(`says the products were not tested ("${notTested[0].trim().slice(0, 60)}"); owner rule 2026-11-13: remove it (first-person-agent)`);
 
   // --- Sources
   const sources = d.sources ?? [];

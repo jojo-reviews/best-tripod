@@ -165,7 +165,7 @@ if (d.products.length) {
       position: i + 1,
       url: `${url}#pick-${p.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`,
       // Name and anchor only: Google's Product markup needs offers, review or aggregateRating, and we
-      // show none of them (no prices; picks are researched, not tested), so a Product item would be invalid.
+      // show none of them (no prices), so a Product item would be invalid.
       name: p.name,
     })),
   });

@@ -56,3 +56,5 @@ Every post includes Ned Diary's personal angle: an intro line or short "How I sh
 - Source ONLY: data/author-stories.json (facts + stories the owner gave). Pick the 1-3 entries whose topics match the post; never pad with unrelated ones.
 - NEVER invent a trip, shoot, place, date, product test, purchase or result. "I tested/used/own <product>" only when a story in that file names that exact product. Otherwise talk about what I look for, what my own kit (from the file) needs, and what owners report.
 - If the file has nothing that fits the post, use the general facts (shooting since 2017, genres, support kit) only.
+
+Owner rule 2026-11-13 ("I did not test ya remove kar do site ma kahi b ... first person tone"): no page, template or post says the author or site did not test, use or own the products; the first-person-agent (.claude/agents/first-person-agent.md) removes such statements and keeps Ned Diary's first-person voice. The older rule still stands: never ADD a testing, hands-on, ownership or purchase claim that is not in data/author-stories.json (QA errors on those).
