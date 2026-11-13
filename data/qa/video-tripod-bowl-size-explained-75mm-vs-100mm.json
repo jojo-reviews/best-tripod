@@ -1,23 +1,22 @@
 {
   "slug": "video-tripod-bowl-size-explained-75mm-vs-100mm",
   "pass": true,
-  "checkedAt": "2026-11-08T16:25:06.852Z",
+  "checkedAt": "2026-11-13T17:50:16.381Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
-    "LIVE POST, FIX: body has 868 words, over the 851 limit (top results average 740): cut repetition and filler",
+    "LIVE POST, FIX: body has 949 words, over the 851 limit (top results average 740): cut repetition and filler",
     "illustration \"A tape measure across the rim of a video\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A bowl reducer ring inside a larger trip\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A videographer leveling a fluid head in \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-red-komodo, no claim changed",
-    "at": "2026-11-08T16:25:06.506Z",
-    "hash": "0d497182e6308415"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-13T17:50:14.661Z",
+    "hash": "7e6e90f318943844"
   }
 }

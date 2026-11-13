@@ -1,23 +1,21 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-12T15:27:17.861Z",
+  "checkedAt": "2026-11-13T17:50:18.216Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
-    "only 17 first-person words; owner rule wants at least 18 (about 1 per 100 words: I, my, me, we, our, us)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration \"A travel tripod and a full-size tripod s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A full-size tripod standing in a stream \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "keyword overlaps /blog/landscape-photography-tripod/ (4 of the top-10 Google results are shared with \"landscape photography tripod\" (same intent))"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-carbon-fiber-travel-tripod, no claim changed",
-    "at": "2026-11-12T15:27:17.375Z",
-    "hash": "ecef6b138e3b4cb3"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-13T17:50:17.205Z",
+    "hash": "9a0078f5a89ac86e"
   }
 }

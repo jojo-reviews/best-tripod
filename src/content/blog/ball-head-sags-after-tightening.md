@@ -77,7 +77,8 @@ sources:
   - title: A tripod that should exist but doesn't seem to (r/photography)
     url: >-
       https://www.reddit.com/r/photography/comments/1bqqzrw/a_tripod_that_should_exist_but_doesnt_seem_to/
-reviewedDate: '2026-11-02T00:00:00.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
+updatedDate: '2026-11-13T17:50:00.000Z'
 faqs:
   - q: Why does my ball head sag after I tighten it?
     a: >-
@@ -147,13 +148,15 @@ heroAlt: >-
   how-to
 ---
 
-You frame the shot, crank the knob, let go, and the horizon slides down the viewfinder. Ball head sag like this mostly happens during the locking action itself. When a [ball head](/blog/ball-head-tripod/) sags after tightening, the rest usually comes from the plate, the camera or the tripod legs, not a worn ball. We sorted the fixes from cheapest to most drastic.
+I have been shooting since 2017, and my support kit is carbon fiber tripods, ball heads and Arca-Swiss plates. For wildlife I use a 200-600mm lens, where a small drop at the head moves the subject a long way.
+
+You frame the shot, crank the knob, let go, and the horizon slides down the viewfinder. Ball head sag like this mostly happens during the locking action itself. When a [ball head](/blog/ball-head-tripod/) sags after tightening, the rest usually comes from the plate, the camera or the tripod legs, not a worn ball. I sorted the fixes from cheapest to most drastic.
 
 ## Ball head sag after tightening: find what moves first
 
 **Ball head sag after tightening is either the ball shifting as the main lock knob clamps it, creep under too little friction, or movement elsewhere in the chain.** In [DPReview's ball head test](https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/), with a 3.1 kg 500mm lens at 45 degrees, creep under friction stayed tiny, as low as [0.12% of the frame over 30 seconds](https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/). Locking was the problem: one head moved [7.3% of the frame](https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/) as the knob closed, while the best moved [just 0.18%](https://www.dpreview.com/reviews/8192473209/battle-of-the-titans-top-ball-heads-tested/).
 
-We start every diagnosis with the camera removed, as K&F Concept suggests:
+My diagnosis starts with the camera removed, as K&F Concept suggests:
 
 - **Ball moves when the knob is firm, or the knob spins:** the head is worn or broken (last section).
 - **Ball is solid empty but drops with the camera on:** friction, balance or capacity.
@@ -163,7 +166,7 @@ An r/photography owner describes the classic case: “it "creeps" or slides for 
 
 ## Set the friction control first, then lock
 
-**Dial in enough friction that the camera stays where you leave it, then lock; the lock then has less work to do and moves the ball less.** A DPReview reply puts it well: a dedicated friction knob "helps tremendously to prevent dropping while setting".
+**Dial in enough friction that the camera stays where you leave it, then lock; the lock then has less work to do and moves the ball less.** My first fix costs nothing. A DPReview reply puts it well: a dedicated friction knob "helps tremendously to prevent dropping while setting".
 
 1. Loosen the main lock knob and set the friction control until the camera holds its angle with your hands off.
 2. Frame the shot by pushing the camera against that drag.
@@ -173,44 +176,44 @@ Really Right Stuff's BH-30 manual says to "Use more drag for heavy cameras and l
 
 ## Aim slightly high and lock gently
 
-**Because the drop at lock-down repeats in the same direction, we aim a touch above the target and let the lock settle the frame onto it.** On the Unique Photo Q&A, an owner of the Manfrotto 494RC2 ball head saw the framing drop "slightly and points lower" each time he locked.
+**Because the drop at lock-down repeats in the same direction, I aim a touch above the target and let the lock settle the frame onto it.** On the Unique Photo Q&A, an owner of the Manfrotto 494RC2 ball head saw the framing drop "slightly and points lower" each time he locked.
 
 - **Overshoot:** after one test lock, aim that much higher on the next try.
 - **Lock by the head, not the grip:** a Fred Miranda owner saw far more creep when he held the camera body while locking than when he held the head's stem, and traced it to his battery grip flexing.
-- **Separate axes for fine work:** as one r/photography poster says, "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head." A geared head avoids that; our [ball head vs pan tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) weighs the trade-offs for landscapes.
+- **Separate axes for fine work:** as one r/photography poster says, "The issue with a ball head is that if I want to change the angle slightly, I have to loosen the head." A geared head avoids that; my [ball head vs pan tilt comparison](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) weighs the trade-offs for landscapes.
 
 ## Plate, clamp or camera: ball head sag that isn't the ball
 
-**Ball head sag with a solid ball means the camera is rotating on its quick-release plate or flexing above the head.** A DPReview owner wrote: "I thought my Slik ball head was slipping, but in fact it was the lack of body rigidity of my Pentax k20d", worse with the battery grip on.
+**Ball head sag with a solid ball means the camera is rotating on its quick-release plate or flexing above the head.** I check the plate next. A DPReview owner wrote: "I thought my Slik ball head was slipping, but in fact it was the lack of body rigidity of my Pentax k20d", worse with the battery grip on.
 
 - Tighten the plate screw and check the plate sits flat and fully home in the clamp.
 - Use an Arca-Swiss plate with an anti-twist lip or a body-specific plate; a Fred Miranda owner cured his sag by fitting a better clamp and plate.
 - In portrait orientation, an L-bracket keeps the camera over the ball instead of hanging off one screw.
 
-Our guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers which plates resist rotation.
+My guide to [Arca-Swiss plates and anti-twist designs](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers which plates resist rotation.
 
 ## Heavy lens or small head: ball head sag from leverage
 
-**Ball head sag with a long lens is leverage: a front-heavy lens levers the ball far beyond its static weight, so we mount it by its lens collar before buying a bigger head.** Load capacity ratings assume a centered load. One Luminous Landscape owner had drift with a kit of about 4 lb on a head rated 26 lb, and a reply noted ratings refer to vertical load; the same leverage tips a [Nikon P1000 on a tripod](/blog/best-tripod-for-nikon-p1000/) at full zoom.
+**Ball head sag with a long lens is leverage: a front-heavy lens levers the ball far beyond its static weight, so I'd mount it by its lens collar before buying a bigger head.** Load capacity ratings assume a centered load. One Luminous Landscape owner had drift with a kit of about 4 lb on a head rated 26 lb, and a reply noted ratings refer to vertical load; the same leverage tips a [Nikon P1000 on a tripod](/blog/best-tripod-for-nikon-p1000/) at full zoom.
 
 - **Collar first:** a lens collar (tripod foot) puts the center of gravity over the ball (K&F Concept, Unique Photo).
 - **Size to the real load:** ball diameter and load capacity set the ceiling. Really Right Stuff rates its 30mm-ball BH-30 at [15 pounds (6.8kg)](https://kb.reallyrightstuff.com/knowledge/bh-30-user-manual), K&F its 28mm head at [22 lb / 10 kg](https://www.kfconcept.com/learning-center/tripod-ball-head-loose); the number alone doesn't predict droop. Some heads use an elliptical ball that adds friction as it tilts; DPReview found it helps but still needs firm friction.
 - **Margin matters:** one r/AskPhotography owner chose a head rated slightly above the rig and still got sag that frustrated them; a friend's next model up, with a much higher capacity, held solid.
 
-> **From our notes:** This is research, not a bench test. When we lined up DPReview's ball head results, we expected the cheap heads to creep and the expensive ones to hold. The numbers told a different story. With friction set, every head held the 3.1 kg lens to well under half a percent of the frame over 30 seconds. The difference came the moment the knob closed: one large head moved the frame 7.3%, another barely 0.18%. That changed how we think about this complaint. Most sag isn't a weak ball letting go; it's the lock pushing the ball as it clamps. That is why friction and aim fix more than force.
+> **From our notes:** This is research, not a bench test. When I lined up DPReview's ball head results, I expected the cheap heads to creep and the expensive ones to hold. The numbers told a different story. With friction set, every head held the 3.1 kg lens to well under half a percent of the frame over 30 seconds. The difference came the moment the knob closed: one large head moved the frame 7.3%, another barely 0.18%. That changed how I think about this complaint. Most sag isn't a weak ball letting go; it's the lock pushing the ball as it clamps. That is why friction and aim fix more than force.
 
 ## Clean the ball, never oil it
 
-**Ball head sag from a dirty ball is fixed with cleaning, not oil: grit spoils lock-up, and lubricant makes slipping worse.** Really Right Stuff is blunt: "DO NOT LUBRICATE THE BALL as this will decrease the lock-up capacity and tend to attract dirt/dust." K&F Concept adds that WD-40 is not a fix.
+**Ball head sag from a dirty ball is fixed with cleaning, not oil: grit spoils lock-up, and lubricant makes slipping worse.** I'd never reach for oil here, and Really Right Stuff is blunt: "DO NOT LUBRICATE THE BALL as this will decrease the lock-up capacity and tend to attract dirt/dust." K&F Concept adds that WD-40 is not a fix.
 
 Really Right Stuff recommends compressed air as the best tool, and water only sparingly with gentle dish soap, because water can be trapped inside a sealed head. The maker video in this section walks through it.
 
 ## Legs, ground and stabilization
 
-**When the head checks out, look below it: legs flex, feet settle and stabilization can nudge the frame.** A Fred Miranda owner found his "sag" was "actually the tripod feet setling into the ground in loose sand or soil". A Luminous Landscape poster found image stabilization (IBIS or lens IS) left on can cause drift on a tripod, and another fixed a thread adapter whose collar stopped the head sitting flat. If a leg section creeps, our guide on [a tripod leg lock that won't hold](/blog/tripod-leg-lock-wont-hold/) has fixes by lock type.
+**When the head checks out, I look below it: legs flex, feet settle and stabilization can nudge the frame.** A Fred Miranda owner found his "sag" was "actually the tripod feet setling into the ground in loose sand or soil". A Luminous Landscape poster found image stabilization (IBIS or lens IS) left on can cause drift on a tripod, and another fixed a thread adapter whose collar stopped the head sitting flat. If a leg section creeps, my guide on [a tripod leg lock that won't hold](/blog/tripod-leg-lock-wont-hold/) has fixes by lock type.
 
 ## When to repair, replace or switch heads
 
 **Replace the head when the knob spins without tightening, or the ball still moves with the knob firm and no camera on it.** K&F Concept warns that forcing a spinning knob makes the damage worse; check the warranty first.
 
-If your head works but can't hold your heaviest lens with the collar and friction set, size up. Our [ball head tripod guide](/blog/ball-head-tripod/) sizes heads to real lens weights rather than the rated load. For that horizon sliding down the viewfinder, our order is: friction, aim high, plate, balance, clean, then legs.
+If your head works but can't hold your heaviest lens with the collar and friction set, size up. My [ball head tripod guide](/blog/ball-head-tripod/) sizes heads to real lens weights rather than the rated load. For that horizon sliding down the viewfinder, my order is: friction, aim high, plate, balance, clean, then legs. With a light landscape kit, I'd start with the first two; with a long wildlife lens, the collar.

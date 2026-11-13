@@ -172,7 +172,8 @@ sources:
   - title: 'DPReview forums: travel tripod stability comparison'
     url: >-
       https://www.dpreview.com/forums/threads/travel-tripod-stability-comparison.4834397/
-reviewedDate: '2026-11-01T00:00:00.000Z'
+updatedDate: '2026-11-13T17:50:08.000Z'
+reviewedDate: '2026-11-13T00:00:00.000Z'
 faqs:
   - q: Can a travel tripod replace a full size tripod for landscape photography?
     a: >-
@@ -234,15 +235,15 @@ related:
   - flexible-tripod-vs-mini-tripod-for-travel-vlogging
 ---
 
-In the travel tripod vs full size tripod for landscape photography choice, the travel tripod is enough for most shoots. With a wide or standard zoom, the center column down and a calm-to-breezy day, a good carbon fiber travel tripod gives the same sharp frame as a big one. The full-size tripod earns its extra weight in four places: strong wind, moving water, steep slopes and lenses of 200mm and longer.
+A solo road trip across the United States is what got me into photography, and I've been shooting since 2017, with landscape among my main genres. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I weigh this choice against my own bag. My answer on travel tripod vs full size tripod for landscape photography: the travel tripod is enough for most shoots. With a wide or standard zoom, the center column down and a calm-to-breezy day, a good carbon fiber travel tripod gives the same sharp frame as a big one. The full-size tripod earns its extra weight in four places: strong wind, moving water, steep slopes and lenses of 200mm and longer.
 
-Picture the shot most readers describe: a ridge before sunrise, an ND filter on, and a 30-second long exposure that comes back soft because the little tripod hummed in the wind. We built this guide around that shot; if the lightest tripod for the trail is your real question, see our [best hiking tripod](/blog/best-hiking-tripod/) picks.
+Picture the shot most readers describe: a ridge before sunrise, an ND filter on, and a 30-second long exposure that comes back soft because the little tripod hummed in the wind. I built this guide around that shot; if the lightest tripod for the trail is your real question, see my [best hiking tripod](/blog/best-hiking-tripod/) picks.
 
 ## Travel tripod vs full-size tripod from one maker – the numbers
 
-**A travel tripod vs full-size tripod comparison is cleanest within one maker's lineup, built from the same carbon fiber tubing.** Gitzo sells the Traveler Series 1 (GT1545T) as its reverse-folding travel tripod and the Mountaineer Series 2 (GT2542) as its full-size all-rounder. Both have four leg sections and a twist lock on each joint.
+**A travel tripod vs full-size tripod comparison is cleanest within one maker's lineup, built from the same carbon fiber tubing.** So I started with Gitzo, which sells the Traveler Series 1 (GT1545T) as its reverse-folding travel tripod and the Mountaineer Series 2 (GT2542) as its full-size all-rounder. Both have four leg sections and a twist lock on each joint.
 
-This table compares the maker's published figures for the two sets of legs, without heads:
+My table compares the maker's published figures for the two sets of legs, without heads:
 
 | Spec (legs only, maker figures) | Traveler Series 1 GT1545T | Mountaineer Series 2 GT2542 |
 |---|---|---|
@@ -258,62 +259,62 @@ This table compares the maker's published figures for the two sets of legs, with
 
 So the full-size tripod costs you 625 g and 13.5 cm of folded length, often the difference between fitting inside a backpack and strapping to its side. In return you get more than twice the payload, a thicker top tube, 7.5 cm more height before the column moves and a third leg angle for low foregrounds.
 
-The lens line is the most useful row. Gitzo says the Traveler is recommended for use with 135mm lenses (200mm max.), while the Mountaineer [reliably supports DSLRs with 200mm lenses (up to 300mm)](https://www.gitzo.com/us-en/tripod-mountaineer-series-2-4-sections-gt2542/). If your landscape kit stops at a 70-200mm, you sit right on the border.
+The lens line is the row I find most useful. Gitzo says the Traveler is recommended for use with 135mm lenses (200mm max.), while the Mountaineer [reliably supports DSLRs with 200mm lenses (up to 300mm)](https://www.gitzo.com/us-en/tripod-mountaineer-series-2-4-sections-gt2542/). If your landscape kit stops at a 70-200mm, you sit right on the border. My main lenses, a 16-35mm and a 24-70mm, sit well inside the travel line; the 200-600mm I use for wildlife is far past it.
 
 > **From our notes:** On Gitzo's Traveler and Mountaineer spec pages, we expected the weight gap to be the headline. It isn't: 625 g is roughly one standard zoom. The rows that changed our view were further down. The full-size legs carry more than twice the rated payload, add a third leg angle, and Gitzo itself moves the recommended lens from 135mm to 200mm. That told us the real question isn't "how heavy," it's "which lens and which weather."
 
 ## Where a travel tripod falls short and a full-size tripod wins
 
-**A full-size tripod pulls ahead in wind, in water, with long lenses and on slopes, where a travel tripod runs out of stiffness or height first.** The top guides agree on the basics: more leg sections mean more locks and more flex, and a raised center column costs stability. Landscape photographer Jeff Schultz tells readers to "throw the compact idea out the window," while a Talk Photography owner found his travel tripod held up in Iceland's wind with the column down.
+**A full-size tripod pulls ahead in wind, in water, with long lenses and on slopes, where a travel tripod runs out of stiffness or height first.** That's the problem I'm solving here. The top guides agree on the basics: more leg sections mean more locks and more flex, and a raised center column costs stability. Landscape photographer Jeff Schultz tells readers to "throw the compact idea out the window," while a Talk Photography owner found his travel tripod held up in Iceland's wind with the column down.
 
 ### Wind and long-exposure photography
 
-The most common complaint in DPReview threads: a small travel tripod feels too wobbly once ND filters, astro or a 100-400mm join the kit. One owner put the rule simply: "The center column make the Travel Tripod less stable so you should not extend it" (thread). Another long-exposure shooter wrote: "For long time exposures and astro I would not buy a tripod with more than 3 leg locks" (thread).
+The most common complaint I found in DPReview threads: a small travel tripod feels too wobbly once ND filters, astro or a 100-400mm join the kit. One owner put the rule simply: "The center column make the Travel Tripod less stable so you should not extend it" (thread). Another long-exposure shooter wrote: "For long time exposures and astro I would not buy a tripod with more than 3 leg locks" (thread).
 
-A landscape owner of both classes on Fred Miranda found his Series 1 Traveler fine in wind with wide lenses. The Series 2, he wrote, "REALLY shines" in moving water, heavy wind or with a telephoto in wind. We'd use the National Weather Service's Beaufort scale as a practical line: by force 5, a [fresh breeze of 19-24 mph](https://www.weather.gov/mfl/beaufort), small trees in leaf begin to sway, and that's where we'd want the full-size legs for anything longer than a standard zoom.
+A landscape owner of both classes on Fred Miranda found his Series 1 Traveler fine in wind with wide lenses. The Series 2, he wrote, "REALLY shines" in moving water, heavy wind or with a telephoto in wind. I'd use the National Weather Service's Beaufort scale as a practical line: by force 5, a [fresh breeze of 19-24 mph](https://www.weather.gov/mfl/beaufort), small trees in leaf begin to sway, and that's where I'd want the full-size legs for anything longer than a standard zoom.
 
-Hanging your bag to fight vibration helps less than you'd think. The Center Column hung weight from tripods 2.5 lbs at a time up to 20 lbs and found no change in stiffness and very little in damping. It does lower the center of gravity, so the tripod is less likely to blow over. Our [fixes for tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) cover what does work.
+Hanging your bag to fight vibration helps less than you'd think. The Center Column hung weight from tripods 2.5 lbs at a time up to 20 lbs and found no change in stiffness and very little in damping. It does lower the center of gravity, so the tripod is less likely to blow over. My [fixes for tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) cover what does work.
 
 ### Height on slopes and the center column
 
-**A full-size tripod is taller with the column down, which matters most on uneven terrain; on level ground a travel tripod is often tall enough.** A recurring point in the DPReview hiking thread is that "a travel pod will be shorter requiring you to bend over to look through the VF," and the same poster added: "I avoid using the center post when possible but in a travel pod thats even more important" (thread).
+**A full-size tripod is taller with the column down, which matters most on uneven terrain; on level ground a travel tripod is often tall enough.** A point I kept seeing in the DPReview hiking thread is that "a travel pod will be shorter requiring you to bend over to look through the VF," and the same poster added: "I avoid using the center post when possible but in a travel pod thats even more important" (thread).
 
-Andrea Livieri, who moved from a Benro travel tripod to a tall full-size FLM model, describes the slope problem in his review. Stretch one or two legs downhill and even a short photographer finds the tripod at navel height. He also swaps rubber feet for spikes on soft ground. The video below shows his side-by-side check of a travel tripod with a center column against taller legs without one. Before you buy, add your head's height to the column-down figure and compare it with your eye level; our guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math, and the [center column up or down for landscapes](/blog/tripod-center-column-up-or-down-for-landscapes/) guide covers when raising it is acceptable.
+Andrea Livieri, who moved from a Benro travel tripod to a tall full-size FLM model, describes the slope problem in his review. Stretch one or two legs downhill and even a short photographer finds the tripod at navel height. He also swaps rubber feet for spikes on soft ground. The video in this section shows his side-by-side check of a travel tripod with a center column against taller legs without one. Before you buy, add your head's height to the column-down figure and compare it with your eye level; my guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math, and the [center column up or down for landscapes](/blog/tripod-center-column-up-or-down-for-landscapes/) guide covers when raising it is acceptable.
 
 ### Small tripod heads without friction control
 
-A travel tripod kit pairs slim legs with a slim tripod head. One hiker noted of a compact integrated head: "there is no friction control of the ball (it is pretty much on or off with a leaver)" (thread). Gitzo states that its Traveler kit head "does not feature a friction control knob." With a light wide-angle that rarely matters; with a heavy lens it makes fine framing slower.
+A travel tripod kit pairs slim legs with a slim tripod head, and as a ball head user I look at this part closely. One hiker noted of a compact integrated head: "there is no friction control of the ball (it is pretty much on or off with a leaver)" (thread). Gitzo states that its Traveler kit head "does not feature a friction control knob." With a light wide-angle that rarely matters; with a heavy lens it makes fine framing slower.
 
 ## When a travel tripod is all you need (and a full-size tripod stays home)
 
-**If your landscape kit is a mirrorless or DSLR body with lenses up to about 135mm, a carbon fiber travel tripod covers most shoots.** That fits city trips, carry-on-only flights and long day hikes, where Gitzo's 42.5 cm fold and roughly 1 kg of legs decide whether the tripod comes along at all. A [carbon fiber travel tripod](/blog/best-carbon-fiber-travel-tripod/) is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on.
+**If your landscape kit is a mirrorless or DSLR body with lenses up to about 135mm, a carbon fiber travel tripod covers most shoots.** That's where I'd put my own wide and standard zooms. It fits city trips, carry-on-only flights and long day hikes, where Gitzo's 42.5 cm fold and roughly 1 kg of legs decide whether the tripod comes along at all. A [carbon fiber travel tripod](/blog/best-carbon-fiber-travel-tripod/) is the usual choice here: the top guides note it weighs less than aluminum and damps vibration better, so an aluminum travel tripod gives up some of the stiffness you were already short on.
 
-Make it work like a bigger tripod:
+Here's how I'd make it work like a bigger tripod:
 
 1. Extend the thick upper sections first and leave the thinnest bottom section in if you don't need the height.
 2. Keep the center column down; raise it last and only a few centimeters.
 3. Fire with a 2-second timer or remote, and turn lens stabilization off when the camera is locked down.
 4. Lower the whole tripod when the wind picks up; a shorter tripod is a stiffer tripod.
 
-On section count, we compared [4-section vs 5-section legs](/blog/4-section-vs-5-section-tripod/) separately: for landscapes we'd stop at four.
+On section count, I compared [4-section vs 5-section legs](/blog/4-section-vs-5-section-tripod/) separately: for landscapes I'd stop at four.
 
-## Our travel pick for landscape shooters
+## My travel pick for landscape shooters
 
 **For a travel tripod that still handles landscape photography, the Gitzo Series 1 Traveler kit is the model the ranking pages and owners mention most.** Matt Purciel calls it his top pick for landscapes, and several Fred Miranda posters shoot landscapes on Series 1 Traveler legs.
 
 ### Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T): carry-everywhere landscape tripod
 
-The Gitzo Series 1 Traveler GK1545T is a 4-section carbon fiber travel tripod kit from Gitzo. Its legs fold back around the GH1382TQD center ball head to 42.5 cm, and it weighs 1.45 kg complete, per Gitzo. With the head it reaches 140.5 cm without raising the column and 163.5 cm fully up, and it carries a 10 kg safety payload. The plate is [Arca-Swiss compatible](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) and the head has an independent pan lock, which helps for panoramas. Owners on DPReview and Fred Miranda praise its weight, size and stability balance; one owner who bought the kit found the column-down height right at 5 ft 7 in, and another, about 5 ft 11 in, found it tall enough for hiking. The common complaints are the head and the limit: an owner of several Gitzos says the head "lacks a real friction control" and the tripod isn't stable enough for a Canon 200-800, and another swapped the stock head for a compact third-party one. Two leg angles keep it from going very low. Treat it as a wide-to-standard-zoom tripod, and check the [Gitzo Series 1 Traveler kit on Amazon](amzn:Gitzo+Lightweight+Series+1+Traveler+Carbon+Fiber+Tripod+with+Center+Ball+Head+GK1545T-82TQDUS) if that matches your kit.
+The Gitzo Series 1 Traveler GK1545T is a 4-section carbon fiber travel tripod kit from Gitzo. Its legs fold back around the GH1382TQD center ball head to 42.5 cm, and it weighs 1.45 kg complete, per Gitzo. With the head it reaches 140.5 cm without raising the column and 163.5 cm fully up, and it carries a 10 kg safety payload. The plate is [Arca-Swiss compatible](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) and the head has an independent pan lock, which helps for panoramas. Owners on DPReview and Fred Miranda praise its weight, size and stability balance; one owner who bought the kit found the column-down height right at 5 ft 7 in, and another, about 5 ft 11 in, found it tall enough for hiking. The common complaints are the head and the limit: an owner of several Gitzos says the head "lacks a real friction control" and the tripod isn't stable enough for a Canon 200-800, and another swapped the stock head for a compact third-party one. Two leg angles keep it from going very low. I'd treat it as a wide-to-standard-zoom tripod, so check the [Gitzo Series 1 Traveler kit on Amazon](amzn:Gitzo+Lightweight+Series+1+Traveler+Carbon+Fiber+Tripod+with+Center+Ball+Head+GK1545T-82TQDUS) if that matches your kit.
 
-For more travel options, see our [travel tripods for mirrorless kits](/blog/best-travel-tripod-for-mirrorless-camera/).
+For more travel options, see my [travel tripods for mirrorless kits](/blog/best-travel-tripod-for-mirrorless-camera/).
 
 ## Travel or full-size tripod – how to choose
 
-**The travel or full-size tripod choice comes down to your longest lens and your worst weather, not the spec sheet's weight line.** We'd use this checklist:
+**The travel or full-size tripod choice comes down to your longest lens and your worst weather, not the spec sheet's weight line.** I'd use this checklist:
 
 - **Longest lens 135mm or shorter, mostly calm or breezy days, flights or long hikes:** a carbon travel tripod.
 - **Lenses of 200mm and longer, coast and river work, strong wind, steep ground, focus stacking:** a full-size tripod with a third leg angle and a top tube near 29 mm.
 - **Both kinds of trips:** many owners keep one of each, the travel tripod for planes and trails and the full-size one for drive-up spots.
-- **Either way:** an Arca-Swiss plate on the camera so it fits both heads, and our [tripod buying checklist](/tripod-buying-checklist/) before you order.
+- **Either way:** an Arca-Swiss plate on the camera so it fits both heads, and my [tripod buying checklist](/tripod-buying-checklist/) before you order.
 
-So for that shooter on the windy ridge: if the lens was a 16-35mm, lower the travel tripod, drop the column and wait for a lull. If it was a 100-400mm, that shot needed the full-size legs. Our [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) cover the full-size side, and if you've settled on travel, the [Peak Design Travel Tripod vs Manfrotto Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) comparison is the next decision.
+So for that shooter on the windy ridge: if the lens was a 16-35mm, lower the travel tripod, drop the column and wait for a lull. If it was a 100-400mm, that shot needed the full-size legs. My [landscape photography tripod picks for low angles and wind](/blog/landscape-photography-tripod/) cover the full-size side, and if you've settled on travel, the [Peak Design Travel Tripod vs Manfrotto Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) comparison is the next decision.
