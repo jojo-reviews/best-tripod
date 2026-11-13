@@ -494,10 +494,10 @@ videos:
   - id: jBXM1bwCMCA
     afterHeading: 7
 related:
+  - best-tripod-ball-head-for-rifle-shooting
   - best-rifle-tripod-for-long-range-shooting
   - best-tripod-for-vertical-shooting
   - best-tripod-for-zwo-am5
-  - best-tripod-for-dwarf-3
 heroImage: /images/featured/best-tripod-for-hunting.png
 heroAlt: Best Tripod for Hunting – 6 Picks by How You Hunt – Best Tripod buying guide
 ---

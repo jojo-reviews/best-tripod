@@ -1,0 +1,689 @@
+{
+  "keyword": "best tripod ball head for rifle shooting",
+  "createdAt": "2026-11-13T11:32:11.310Z",
+  "via": "claude-routine",
+  "brief": {
+    "centralEntity": "tripod ball head for rifle shooting",
+    "entityVariants": [
+      "shooting ball head",
+      "rifle ball head",
+      "tripod ball head for rifles",
+      "shooting tripod head",
+      "precision rifle head",
+      "ball head for a shooting tripod"
+    ],
+    "secondaryKeywords": [
+      "tripod ball head for rifle shooting",
+      "best shooting ball head",
+      "best ball head for shooting tripod",
+      "best tripod head for rifle"
+    ],
+    "entities": [
+      {
+        "name": "tripod",
+        "type": "Product",
+        "relation": "what the head mounts on",
+        "salience": 0.86,
+        "pages": 2,
+        "textrazorName": "Tripod"
+      },
+      {
+        "name": "camera tripod",
+        "type": "Product",
+        "relation": "the photo tripods these heads come from",
+        "salience": 0.61,
+        "pages": 4,
+        "textrazorName": "Tripod (photography)"
+      },
+      {
+        "name": "tripod head",
+        "type": "Product",
+        "relation": "central entity class",
+        "salience": 0.6,
+        "pages": 2,
+        "textrazorName": "Tripod head"
+      },
+      {
+        "name": "Leofoto",
+        "type": "Company",
+        "relation": "maker of two picks",
+        "salience": 0.52,
+        "pages": 2,
+        "textrazorName": "leofoto"
+      },
+      {
+        "name": "rifle",
+        "type": "Product",
+        "relation": "what the head holds",
+        "salience": 0.51,
+        "pages": 3,
+        "textrazorName": "Rifle"
+      },
+      {
+        "name": "legs",
+        "type": "Part",
+        "relation": "tripod legs under the head",
+        "salience": 0.51,
+        "pages": 2,
+        "textrazorName": "Leg"
+      },
+      {
+        "name": "ball",
+        "type": "Part",
+        "relation": "the ball whose diameter sets locking strength",
+        "salience": 0.45,
+        "pages": 2,
+        "textrazorName": "Ball"
+      },
+      {
+        "name": "Arca-Swiss clamp",
+        "type": "Standard",
+        "relation": "the rail clamp standard",
+        "salience": 0.55,
+        "pages": 5
+      },
+      {
+        "name": "Picatinny rail",
+        "type": "Standard",
+        "relation": "second rail standard on dual clamps",
+        "salience": 0.45,
+        "pages": 4
+      },
+      {
+        "name": "Really Right Stuff",
+        "type": "Company",
+        "relation": "maker of the Anvil-30",
+        "salience": 0.5,
+        "pages": 4
+      },
+      {
+        "name": "Anvil-30",
+        "type": "Product",
+        "relation": "the reference shooting head",
+        "salience": 0.55,
+        "pages": 4
+      },
+      {
+        "name": "spotting scope",
+        "type": "Product",
+        "relation": "glassing optic people swap with the rifle",
+        "salience": 0.35,
+        "pages": 3
+      }
+    ],
+    "entitiesNote": "TextRazor sharedEntities from 5 top pages (final-rest.com, rokslide 444022, reallyrightstuff.com/tripod-heads, longrangeonly 14461, fatboytripods.com/tripod-heads). Dropped off-topic: Gear. Arca-Swiss clamp, Picatinny rail, Really Right Stuff, Anvil-30 and spotting scope added by hand from headings on 3+ pages (salience estimated). Must-cover (salience >= 0.5): tripod, camera tripod, tripod head, Leofoto, rifle, legs, Arca-Swiss clamp, Really Right Stuff, Anvil-30.",
+    "attributes": [
+      "rated load vs rifle weight",
+      "ball diameter (30, 38, 40 mm)",
+      "head height above the tripod apex",
+      "head weight",
+      "clamp type (Arca only vs dual Arca and Picatinny)",
+      "lever vs knob clamp",
+      "lever-lock vs knob ball control",
+      "independent pan lock",
+      "tension (drag) control",
+      "bubble level",
+      "mounting thread (3/8-16)",
+      "glassing smoothness"
+    ],
+    "ngrams": [
+      "ball head",
+      "shooting ball head",
+      "Arca clamp",
+      "Picatinny rail",
+      "load capacity",
+      "lever clamp",
+      "pan lock",
+      "spotting scope",
+      "Anvil 30",
+      "lock up",
+      "tripod head",
+      "rifle on a tripod"
+    ],
+    "skipgrams": [
+      "ball…head",
+      "Arca…clamp",
+      "Arca…Picatinny",
+      "lever…clamp",
+      "load…capacity",
+      "rifle…tripod",
+      "pan…tilt",
+      "glass…shoot"
+    ],
+    "nlpTerms": [
+      "precision rifle",
+      "PRS",
+      "NRL Hunter",
+      "recoil",
+      "cant",
+      "dovetail",
+      "rail",
+      "lockup",
+      "grabby",
+      "drag",
+      "panning base",
+      "glassing",
+      "bipod",
+      "rear bag",
+      "MOA",
+      "mil"
+    ],
+    "questions": [
+      {
+        "q": "What is the best tripod ball head for rifle shooting?",
+        "maps": "intro + comparison table",
+        "answerTerms": [
+          "Anvil-30",
+          "Arca",
+          "Picatinny",
+          "load capacity"
+        ]
+      },
+      {
+        "q": "How much load capacity does a rifle ball head need?",
+        "maps": "H2 load rating vs rifle weight",
+        "answerTerms": [
+          "load capacity",
+          "rifle weight",
+          "16 lb",
+          "pounds"
+        ]
+      },
+      {
+        "q": "Is an Arca or Picatinny clamp better for a rifle ball head?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "Arca rail",
+          "Picatinny",
+          "dual clamp",
+          "dovetail"
+        ]
+      },
+      {
+        "q": "Lever or knob clamp for a shooting ball head?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "lever",
+          "knob",
+          "rail width",
+          "tension"
+        ]
+      },
+      {
+        "q": "Can you glass and shoot off the same ball head?",
+        "maps": "FAQ + Tricer DZ section",
+        "answerTerms": [
+          "grabby",
+          "pan head",
+          "spotting scope",
+          "glassing"
+        ]
+      },
+      {
+        "q": "Does ball size matter on a rifle ball head?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "40mm",
+          "30mm",
+          "ball diameter",
+          "locking"
+        ]
+      },
+      {
+        "q": "Can I use a camera ball head for a rifle?",
+        "maps": "FAQ",
+        "answerTerms": [
+          "Arca clamp",
+          "load rating",
+          "camera ball head"
+        ]
+      },
+      {
+        "q": "How do I set up a ball head for rifle shooting?",
+        "maps": "H2 how to set up",
+        "answerTerms": [
+          "level",
+          "tension",
+          "clamp",
+          "rail"
+        ]
+      }
+    ],
+    "contentGaps": [
+      "No top result divides each head's rated load by a real heavy-rifle weight",
+      "No top result compares head height above the apex, which sets how far the rifle sits over the legs",
+      "No chooser by rail type (Arca only vs Arca and Picatinny) and by glassing need",
+      "Forum threads mention that lever clamps fit some Arca rails loosely, but no page gives the fix"
+    ],
+    "outline": [
+      {
+        "h2": "Rifle ball head comparison by load, height and clamp",
+        "intent": "comparison table on the deciding specs",
+        "h3": []
+      },
+      {
+        "h2": "How we picked these rifle ball heads",
+        "intent": "method + From our notes",
+        "h3": []
+      },
+      {
+        "h2": "The best tripod ball heads for rifle shooting, reviewed",
+        "intent": "picks",
+        "h3": [
+          "RRS Anvil-30 ARC",
+          "Leofoto Juggernaut Head",
+          "Acratech GXP Ball-Head",
+          "Leofoto LH-40",
+          "Tricer-DZ Hybrid Head"
+        ]
+      },
+      {
+        "h2": "Which rifle ball head should you get?",
+        "intent": "decision rule by rail and use",
+        "h3": []
+      },
+      {
+        "h2": "Rifle ball head load rating vs rifle weight",
+        "intent": "analysis: rating / 16 lb rifle, rating per ounce, height",
+        "h3": []
+      },
+      {
+        "h2": "How to set up a ball head for rifle shooting",
+        "intent": "numbered steps",
+        "h3": []
+      },
+      {
+        "h2": "Rifle ball head problems shooters run into, and the fix",
+        "intent": "pain points",
+        "h3": []
+      }
+    ],
+    "targetWords": 1650,
+    "serpStructure": {
+      "analyzedUrls": [
+        "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+        "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+        "https://www.hunttalk.com/threads/ball-head-recommendations.328859/",
+        "https://www.final-rest.com/pages/final-rest-ball-heads",
+        "https://reallyrightstuff.com/tripod-heads/",
+        "https://fatboytripods.com/tripod-heads"
+      ],
+      "productStyle": "pros-cons",
+      "productStyleReason": "The forum threads list each head with what owners like and what goes wrong (grabby for glassing, rail fit, price); the maker pages list features. Pros and cons map that best.",
+      "avgWords": 1500,
+      "avgProducts": 5,
+      "commonSections": [
+        "which head is best",
+        "Anvil-30 vs cheaper clones",
+        "Arca vs Picatinny clamp",
+        "lever vs knob",
+        "shooting vs glassing"
+      ],
+      "usesComparisonTable": false,
+      "usesFaq": false,
+      "usesBuyingGuide": false
+    },
+    "serpTitles": [
+      {
+        "position": 1,
+        "url": "https://www.final-rest.com/pages/final-rest-ball-heads",
+        "title": "Final Rest Ball Heads"
+      },
+      {
+        "position": 2,
+        "url": "https://predatorhunteroutdoors.com/product-category/hunting-tripods-ball-heads-shooting-rests/",
+        "title": "Hunting Tripods / Ball Heads"
+      },
+      {
+        "position": 3,
+        "url": "https://sunwayfoto.com/collections/hunting-heads",
+        "title": "Hunting Heads"
+      },
+      {
+        "position": 4,
+        "url": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+        "title": "BEST Tripod ball heads for shooting?"
+      },
+      {
+        "position": 5,
+        "url": "https://www.amazon.com/XILETU-Panoramic-Compatible-Picatinny-Photography/dp/B0DN9T2LNC",
+        "title": "54mm Aluminum Alloy Tripod Ball Head, 35kg Heavy Load ..."
+      },
+      {
+        "position": 6,
+        "url": "https://www.reddit.com/r/longrange/comments/1ea628w/which_tripod_ball_head/",
+        "title": "Which tripod ball head? : r/longrange"
+      },
+      {
+        "position": 7,
+        "url": "https://www.youtube.com/watch?v=H17hw2J5K2Y",
+        "title": "Tricer DZ Tripod Head - Best Ball Head for Rifle Shooting ..."
+      },
+      {
+        "position": 8,
+        "url": "https://reallyrightstuff.com/tripod-heads/",
+        "title": "RRS Tripod Heads"
+      },
+      {
+        "position": 9,
+        "url": "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+        "title": "Best shooting tripod head?"
+      },
+      {
+        "position": 10,
+        "url": "https://fatboytripods.com/tripod-heads",
+        "title": "tripod heads for shooting and spotting"
+      }
+    ],
+    "titlePattern": {
+      "keywordAtStart": 0,
+      "withYear": 0,
+      "withNumber": 1,
+      "commonModifiers": [
+        "shooting",
+        "hunting",
+        "ball heads",
+        "best"
+      ],
+      "gap": "The SERP is maker pages, stores and forum threads; no title compares heads by clamp type or load against rifle weight. Year rule: 0 of 10 titles show a year, so no year in title, seoTitle or heroAlt."
+    },
+    "commonPoints": [
+      "The RRS Anvil-30 is the reference shooting head that others are compared with",
+      "Leofoto makes cheaper heads in the same style",
+      "A lever clamp is faster than a knob, but a knob adapts to rails of different widths",
+      "Dual Arca and Picatinny clamps save adapters",
+      "Shooting heads are poor for glassing; many stack a pan head or use a hybrid"
+    ],
+    "ourGain": [
+      {
+        "type": "analysis",
+        "point": "Rated load divided by the 16 lb NRL Hunter Open Heavy limit: Acratech GXP 50 lb (about 3.1x), Leofoto LH-40 and Juggernaut about 44 lb (2.75x), Anvil-30 ARC 35 lb (about 2.2x), Tricer-DZ 15 lb (below one heavy rifle).",
+        "source": "https://www.nrlhunter.org/rules; https://reallyrightstuff.com/anvil-30-arc-lever-lock-ball-head-rrs-lock-dual-arca-pic-clamp/; https://www.acratech.net/gxp-ball-head/; https://leofotousa.com/products/leofoto-lh-40-40mm-low-profile-ball-head-arca-compatible-w-independent-pan-lock; https://tricer.com/products/tricer-dz-ball-pan-hyrbid-head",
+        "absentFrom": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/",
+          "https://www.final-rest.com/pages/final-rest-ball-heads"
+        ]
+      },
+      {
+        "type": "analysis",
+        "point": "Head height above the apex from maker specs: Anvil-30 ARC 2.67 in, Juggernaut 3 in, LH-40 3.42 in, Tricer-DZ 4 in, GXP 4.2 in; a lower head keeps the rifle closer to the legs.",
+        "source": "maker spec pages of each head",
+        "absentFrom": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/"
+        ]
+      },
+      {
+        "type": "decision",
+        "point": "Chooser by rail and use: Picatinny on the rifle -> Anvil-30 ARC or Juggernaut (dual clamps); Arca rail only and heavy rifle -> GXP; light hunting rifle on a budget -> LH-40; one tripod for spotting scope and rifle -> Tricer-DZ.",
+        "source": "maker clamp specs + owner threads",
+        "absentFrom": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/"
+        ]
+      },
+      {
+        "type": "situation",
+        "point": "A lever clamp that is tight on one Arca rail and loose on another: set the clamp's jaw width for your rail (the Anvil-30 ARC has user-adjustable jaws, the Juggernaut a fine-adjustment lever) or use a knob clamp.",
+        "source": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/; RRS and Leofoto spec pages",
+        "absentFrom": [
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/"
+        ]
+      }
+    ],
+    "serpProducts": [
+      {
+        "name": "Really Right Stuff Anvil-30 ARC",
+        "pages": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+          "https://www.longrangeonly.com/forum/threads/best-shooting-tripod-head.14461/",
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/",
+          "https://www.reddit.com/r/longrange/comments/1hiu6m3/recommendations_for_an_arca_clamp_for_my_camera/",
+          "https://www.reddit.com/r/longrange/comments/1h8a60q/ballhead_for_tripod_helprecommendations_leofoto/",
+          "https://www.rifleshootermag.com/editorial/best-rifle-tripods/467814"
+        ]
+      },
+      {
+        "name": "Tricer-DZ Hybrid Head",
+        "pages": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+          "https://rokslide.com/forums/threads/tricer-dz-head-first-impression.379498/",
+          "https://www.huntinfool.com/articles/topic/gear/tricer-jc-and-tricer-dz",
+          "https://www.youtube.com/watch?v=H17hw2J5K2Y"
+        ]
+      },
+      {
+        "name": "Leofoto Juggernaut Head",
+        "pages": [
+          "https://www.reddit.com/r/longrange/comments/1u8feu8/leofoto_juggernaut_vs_rrs/",
+          "https://www.reddit.com/r/longrange/comments/1ub4s96/buyers_guide_to_tripods_for_long_range_precision/",
+          "https://gunsamerica.com/digest/leofoto-juggernaut-s2-and-s3-review/",
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+        ]
+      },
+      {
+        "name": "Acratech GXP Ball-Head",
+        "pages": [
+          "https://www.exploringexposure.com/blogs/articles/the-ultimate-camera-ballhead-comparison",
+          "https://shuttermuse.com/acratech-gxp-ball-head-review/",
+          "https://www.reddit.com/r/longrange/comments/1ea628w/which_tripod_ball_head/",
+          "https://www.reddit.com/r/longrange/comments/1hiu6m3/recommendations_for_an_arca_clamp_for_my_camera/"
+        ]
+      },
+      {
+        "name": "Leofoto LH-40",
+        "pages": [
+          "https://www.reddit.com/r/longrange/comments/1hiu6m3/recommendations_for_an_arca_clamp_for_my_camera/",
+          "https://www.airgunnation.com/threads/to-the-users-of-leofoto-ball-head-tripod-set-ups.1202404/",
+          "https://www.reddit.com/r/longrange/comments/1h8a60q/ballhead_for_tripod_helprecommendations_leofoto/"
+        ]
+      }
+    ],
+    "serpProductsNote": "Left out: Sunwayfoto IB-30/IB-65, Aziak heads, Fatboy Invert 50 and FlexShooter Pro (no clear Amazon US listing or only one independent page). Leofoto MA-30L was named often but owners say it was pulled from most US retail sites. The r/longrange threads name the smaller Acratech GXP-SS; the full GXP is the Amazon-listed model and is backed by two camera ball head comparisons.",
+    "painPoints": [
+      {
+        "id": "camera-tripods-rifle-wiggles-in-saddle",
+        "pain": "The rifle wiggles in the clamp, cradle or saddle on top of the tripod",
+        "details": "Long-range shooters say a saddle bolted straight to the tripod cannot pan or tilt and is less stable than a ball head with an Arca clamp.",
+        "sources": [
+          "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/"
+        ],
+        "quotes": [
+          {
+            "text": "A saddle directly to the tripod doesn't have the ability to pan and tilt, not as stable.",
+            "url": "https://www.reddit.com/r/longrange/comments/1twshqa/tripod_setup_need_help/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-accessories-arca-plate-loose-in-lever-clamp",
+        "pain": "An Arca rail is loose or tight in another brand's lever clamp",
+        "details": "Arca rails vary in width, so a lever clamp can be tight on one rifle rail and loose on another; knob clamps adapt.",
+        "sources": [
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+        ],
+        "quotes": [
+          {
+            "text": "The lever may be tight on some and loose on others (they can be adjusted, just frustrating).",
+            "url": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-shooting-head-grabby-for-glassing",
+        "pain": "A shooting ball head is grabby and poor for glassing",
+        "details": "Heads built to lock a rifle, such as the Anvil-30, feel grabby when you pan a spotting scope; owners stack a pan head or use a hybrid head.",
+        "sources": [
+          "https://www.hunttalk.com/threads/ball-head-recommendations.328859/",
+          "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+        ],
+        "quotes": [
+          {
+            "text": "But it makes your tripod essentially only convenient for shooting off of, its hard to glass with an anvil.",
+            "url": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+          }
+        ]
+      },
+      {
+        "id": "tripod-heads-small-ball-moves-under-rifle",
+        "pain": "A small ball head locks but the rifle still settles or out-levers it",
+        "details": "Owners report rifles settling after locking on sub-40 mm balls and heavy rifles out-levering light hybrid heads.",
+        "sources": [
+          "https://www.airgunnation.com/threads/to-the-users-of-leofoto-ball-head-tripod-set-ups.1202404/",
+          "https://rokslide.com/forums/threads/tricer-dz-head-first-impression.379498/"
+        ],
+        "quotes": [
+          {
+            "text": "With the smaller sub 40mm ball heads you will lock the gun in place but it will still move about 10-15 Mil once you let the weight settle it.",
+            "url": "https://www.airgunnation.com/threads/to-the-users-of-leofoto-ball-head-tripod-set-ups.1202404/"
+          }
+        ]
+      }
+    ],
+    "stats": [
+      {
+        "number": "16 lbs",
+        "claim": "NRL Hunter Open Heavy Division rifle weight maximum",
+        "url": "https://www.nrlhunter.org/rules",
+        "quote": "Open Heavy Division is any rifle configuration over 12lbs and up to a 16 lbs. maximum."
+      },
+      {
+        "number": "50lbs",
+        "claim": "Acratech GXP maximum load",
+        "url": "https://www.acratech.net/gxp-ball-head/",
+        "quote": "Max Weight Load 50lbs (22.6kg)"
+      },
+      {
+        "number": "35 lb",
+        "claim": "RRS Anvil-30 ARC load support",
+        "url": "https://reallyrightstuff.com/anvil-30-arc-lever-lock-ball-head-rrs-lock-dual-arca-pic-clamp/",
+        "quote": "dual Arca/Picatinny clamp, and low-profile 35 lb support"
+      },
+      {
+        "number": "15lbs",
+        "claim": "Tricer-DZ load",
+        "url": "https://tricer.com/products/tricer-dz-ball-pan-hyrbid-head",
+        "quote": "Built from our heavier duty BP Pan head for large optics and spotting scopes, the DZ can handle 15lbs"
+      },
+      {
+        "number": "44 lbs",
+        "claim": "Leofoto LH-40 load",
+        "url": "https://leofotousa.com/products/leofoto-lh-40-40mm-low-profile-ball-head-arca-compatible-w-independent-pan-lock",
+        "quote": "is a mid-sized ball head that will support camera-lens combinations weighing up to 44 lbs."
+      }
+    ],
+    "videos": [],
+    "videosNote": "Top YouTube results are single-product promos (Tricer DZ, Anvil-30); none compares heads, so no video.",
+    "googleModifiers": [
+      "amazon",
+      "reddit",
+      "ar15",
+      "how to use a shooting tripod",
+      "tripod shooting tips"
+    ],
+    "amazonFilters": [
+      {
+        "group": "Brands",
+        "options": [
+          "Manfrotto",
+          "SMALLRIG",
+          "NEEWER",
+          "Sirui",
+          "K&F CONCEPT",
+          "LEOFOTO",
+          "FANAUE",
+          "Benro",
+          "VANGUARD"
+        ]
+      },
+      {
+        "group": "Price",
+        "options": [
+          "Up to $80",
+          "$80 to $200",
+          "$200 to $350",
+          "$350 to $400",
+          "$400 & above"
+        ]
+      },
+      {
+        "group": "Width",
+        "options": [
+          "Up to 2.9 in",
+          "3 to 4.9 in",
+          "5 to 6.9 in",
+          "7 in & above"
+        ]
+      },
+      {
+        "group": "Height",
+        "options": [
+          "Up to 3.9 in",
+          "4 to 6.9 in",
+          "7 to 9.9 in",
+          "10 in & above"
+        ]
+      },
+      {
+        "group": "Department",
+        "options": [
+          "Camera Tripods & Monopods",
+          "Tripod Heads",
+          "Complete Tripod Units"
+        ]
+      },
+      {
+        "group": "Seller",
+        "options": [
+          "EuroOptic",
+          "Amazon Resale",
+          "Amazon.com",
+          "Desmond Photographic +",
+          "SmallRig",
+          "Adorama",
+          "Gritr"
+        ]
+      }
+    ],
+    "amazonFiltersUsed": "Height (up to 3.9 in vs 4 to 6.9 in) became the head-height column; LEOFOTO brand appears in two picks; price, delivery, deal and seller chips skipped. Google suggest: reddit (owner reports cited), ar15 (Picatinny rail answer), how to use a shooting tripod (set-up steps).",
+    "internalLinkCandidates": [
+      "best-rifle-tripod-for-long-range-shooting",
+      "what-is-an-arca-swiss-plate-and-do-i-need-one",
+      "ball-head-sags-after-tightening",
+      "best-tripod-for-spotting-scope",
+      "best-tripod-for-coyote-hunting"
+    ],
+    "pendingInlinks": [
+      {
+        "slug": "best-rifle-tripod-for-long-range-shooting",
+        "find": "Only the Fatboy ships without a head, so its real carry weight and cost go up once you add a ball head or leveling base.",
+        "replace": "Only the Fatboy ships without a head, so its real carry weight and cost go up once you add a [shooting ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base."
+      },
+      {
+        "slug": "best-tripod-for-coyote-hunting",
+        "find": "The Fatboy and SLIK ship without a head, so I add a ball head or leveling base to their cost.",
+        "replace": "The Fatboy and SLIK ship without a head, so I add a [rifle ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base to their cost."
+      }
+    ]
+  },
+  "sources": [],
+  "backlinks": [
+    {
+      "slug": "ball-head-tripod",
+      "mode": "related-box"
+    },
+    {
+      "slug": "ball-head-sags-after-tightening",
+      "mode": "related-box"
+    },
+    {
+      "slug": "best-tripod-for-hunting",
+      "mode": "related-box"
+    }
+  ]
+}

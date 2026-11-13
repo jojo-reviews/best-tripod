@@ -7667,7 +7667,7 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "pending",
+    "status": "published",
     "keyword": "best tripod for mirrorless camera",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -7691,7 +7691,9 @@
       "parentTopic": "best travel tripods",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "startedAt": "2026-11-13T11:19:14.193Z",
+    "publishedAt": "2026-11-13T11:32:29.784Z"
   },
   {
     "status": "merged",
@@ -8385,7 +8387,7 @@
     "publishedAt": "2026-11-12T11:35:12.186Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [],
@@ -8409,7 +8411,9 @@
       "parentTopic": "best tripod head for hunting",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "startedAt": "2026-11-13T11:19:10.130Z",
+    "publishedAt": "2026-11-13T11:32:11.308Z"
   },
   {
     "status": "pending",

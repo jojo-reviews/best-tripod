@@ -246,9 +246,10 @@ faqs:
 author: ned-diary
 heroImage: /images/featured/ball-head-tripod.png
 heroAlt: >-
-  Ball Head Tripod Guide – 2 Heads Worth Buying and Sag Fixes – Best
-  Tripod guide
+  Ball Head Tripod Guide – 2 Heads Worth Buying and Sag Fixes – Best Tripod
+  guide
 related:
+  - best-tripod-ball-head-for-rifle-shooting
   - ball-head-sags-after-tightening
   - best-gimbal-head-for-150-600mm-lens
   - are-cheap-gimbal-heads-any-good

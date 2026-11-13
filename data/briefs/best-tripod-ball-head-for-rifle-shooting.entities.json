@@ -1,0 +1,76 @@
+{
+  "keyword": "best tripod ball head for rifle shooting",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Rifle",
+      "type": "/book/book_subject",
+      "pages": 3,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Rifle",
+      "wikidata": "Q124072",
+      "kgmid": "/m/06c54"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.86,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.6,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
+    },
+    {
+      "entity": "leofoto",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": ""
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "Ball",
+      "type": "/interests/collection_category",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Ball",
+      "wikidata": "Q18545",
+      "kgmid": "/m/018xm"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    }
+  ]
+}

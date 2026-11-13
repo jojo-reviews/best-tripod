@@ -137,10 +137,10 @@ videos:
     afterHeading: 6
 author: ned-diary
 related:
+  - best-tripod-ball-head-for-rifle-shooting
   - ball-head-tripod
   - ball-head-vs-pan-tilt-head-for-landscape-photography
   - what-is-an-arca-swiss-plate-and-do-i-need-one
-  - tripod-leg-lock-wont-hold
 heroImage: /images/featured/ball-head-sags-after-tightening.png
 heroAlt: >-
   Ball Head Sags After Tightening – Why It Happens and 6 Fixes – Best Tripod

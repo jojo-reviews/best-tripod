@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-ball-head-for-rifle-shooting",
+  "pass": true,
+  "checkedAt": "2026-11-13T11:32:05.396Z",
+  "errors": [],
+  "warnings": [
+    "product \"Really Right Stuff Anvil-30 ARC Shooting Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Leofoto Juggernaut Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Acratech GXP Ball-Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Leofoto LH-40 Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Tricer-DZ Hybrid Panhead\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-13 against maker pages: RRS Anvil-30 ARC (15.2 oz, 35 lb, 2.67 in, 30 mm ball, 3/8-16, dual Arca/Picatinny lever clamp, adjustable jaws, two bubble levels, RRS-LOCK) at reallyrightstuff.com; Leofoto Juggernaut Head (40 mm, 44.09 lb/20 kg, 491 g, 76.2 mm, 57 mm base, Arca lever + Picatinny knob, six set screws) at leofotousa.com; Acratech GXP (50 lb, 1 lb, 38 mm, 4.2 in, 60 mm base, lever safety zone 25%, ball/gimbal/leveling modes; GXP-SS 35 lb) at acratech.net and its Amazon listing; Leofoto LH-40 (40 mm, 44 lb, 491 g/1.08 lb, 87 mm, 57 mm base, 2.5 deg pan marks, QP-70N) at leofotousa.com and Amazon; Tricer-DZ (14.6 oz, 4 in, 15 lb, 360 pan, +90/-90 tilt, quick-throw Arca clamp, 3/8 1/4 Arca base) at tricer.com and Amazon. NRL Hunter Open Heavy 16 lbs re-opened at nrlhunter.org/rules. Number links (50 lb Acratech, 15 lb Tricer, 16 lbs NRL) checked on their pages. Owner claims checked in Rokslide 444022 and 379498, Hunt Talk 328859, Long Range Only 14461, Airgun Nation 1202404, RRS reviews, Shutter Muse and Exploring Exposure excerpts, r/longrange search excerpts (1u8feu8, 1ub4s96, 1hiu6m3). Pain-point quotes verbatim at their URLs (Reddit 1twshqa quote from pain-points.json). All 5 ASINs opened on Amazon US 2026-11-13, titles match, in stock (asinVerified). Ratios computed from these specs.",
+    "at": "2026-11-13T11:32:04.878Z",
+    "hash": "480ce62584e49721"
+  }
+}
