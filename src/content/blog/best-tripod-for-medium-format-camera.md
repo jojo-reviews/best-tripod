@@ -473,9 +473,9 @@ faqs:
       and 120 back is 2,645 g and the GFX100S II is 883 g; add the head too.
   - q: Is a ball head OK for a Mamiya RB67 or Pentax 67?
     a: >-
-      A ball head is OK on an RB67 or Pentax 67 only if it is large and rated far
-      above the camera; heavy bodies tend to droop as you lock it. A 3-way or
-      geared head moves one axis at a time and holds a heavy body better.
+      A ball head is OK on an RB67 or Pentax 67 only if it is large and rated
+      far above the camera; heavy bodies tend to droop as you lock it. A 3-way
+      or geared head moves one axis at a time and holds a heavy body better.
   - q: Is carbon fiber stable enough for medium format?
     a: >-
       Yes, if the tubes are thick. The Gitzo GT3543LS has a 32.9 mm top tube and
@@ -494,7 +494,7 @@ illustrations:
     alt: >-
       Hand weighing a medium format film camera on a kitchen scale to size a
       tripod load rating
-    caption: Weigh camera, lens and back before you compare load ratings.
+    caption: 'Weigh camera, lens and back before you compare load ratings.'
     afterHeading: 5
   - prompt: >-
       A photographer standing beside a tripod in a field at dawn, looking down
@@ -505,7 +505,7 @@ illustrations:
     alt: >-
       Photographer looking down into a waist-level finder on a tripod with the
       center column lowered
-    caption: With a waist-level finder, keep the center column down.
+    caption: 'With a waist-level finder, keep the center column down.'
     afterHeading: 6
   - prompt: >-
       Close-up of a hand pressing the plunger of a thin cable release attached
@@ -515,12 +515,14 @@ illustrations:
     alt: >-
       Hand firing a medium format camera on a tripod with a cable release to
       avoid shake
-    caption: Fire long exposures with a cable release, not your finger.
+    caption: 'Fire long exposures with a cable release, not your finger.'
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-medium-format-camera.png
 heroAlt: >-
-  Best Tripod for Medium Format Camera – 5 Picks for RB67 and GFX – Best
-  Tripod buying guide
+  Best Tripod for Medium Format Camera – 5 Picks for RB67 and GFX – Best Tripod
+  buying guide
+related:
+  - best-tripod-for-mirrorless-camera
 ---
 
 The best tripod for medium format camera kits has thick legs rated many times the camera's weight, height without the center column, and a head that holds a heavy body. Miss one and a one-second exposure on a Mamiya RB67 comes back soft because the legs flexed. My pick is the [Gitzo GT3543LS Systematic Series 3](amzn:Gitzo+GT3543LS+Systematic+Series+3+Carbon+Tripod); for film near the car, the [Manfrotto 055 aluminum kit with a 3-way head](amzn:Manfrotto+MK055XPRO3-3W). I matched five tripods to real camera weights using maker specs and owner threads; we have not used these tripods ourselves. Our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) covers field technique.

@@ -1,0 +1,168 @@
+{
+  "keyword": "best tripod for mirrorless camera",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.97,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Manfrotto",
+      "type": "Agent",
+      "pages": 3,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Manfrotto",
+      "wikidata": "Q635963",
+      "kgmid": "/m/025_1lk"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.64,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
+    },
+    {
+      "entity": "Lightweight",
+      "type": "/sports/boxing_weight_division",
+      "pages": 3,
+      "relevance": 0.48,
+      "wiki": "http://en.wikipedia.org/wiki/Lightweight",
+      "wikidata": "Q1051922",
+      "kgmid": "/m/034z2h"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 3,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 3,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "wikidata": "Q208826",
+      "kgmid": "/m/01jtb2"
+    },
+    {
+      "entity": "Befree",
+      "type": "Company",
+      "pages": 2,
+      "relevance": 0.66,
+      "wiki": "",
+      "wikidata": "Q4034966"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.61,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.58,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "wikidata": "Q25288",
+      "kgmid": "/m/085x_"
+    },
+    {
+      "entity": "Photographer",
+      "type": "/organization/role",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Photographer",
+      "wikidata": "Q33231",
+      "kgmid": "/m/0lgw7"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "wikidata": "Q5843",
+      "kgmid": "/m/01940j"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "5",
+      "type": "Temperature",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": ""
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Vlog",
+      "type": "/business/industry",
+      "pages": 2,
+      "relevance": 0.25,
+      "wiki": "http://en.wikipedia.org/wiki/Vlog",
+      "wikidata": "Q674926",
+      "kgmid": "/m/04rh6b"
+    },
+    {
+      "entity": "Camera lens",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.23,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_lens",
+      "wikidata": "Q192234",
+      "kgmid": "/m/01bjxx"
+    },
+    {
+      "entity": "Mirrorless camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.22,
+      "wiki": "http://en.wikipedia.org/wiki/Mirrorless_camera",
+      "wikidata": "Q209918",
+      "kgmid": "/m/05p4z41"
+    }
+  ],
+  "errors": [
+    "https://www.dpreview.com/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-u3JHAF6bq9Oyd9GBiQWCQz&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"u3JHAF6bq9Oyd9GBiQWCQz\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'oZJ5uyLEOGZ8R9avNgOpzLUy9m1g0K3jHMDqHCTP9JY-1794568945-1.2.1.1-8hpVrLipynPqkIeA66hVlv854mfQyI_BcxljUnpJZGkwMUGmdN9M.hZJ8rbFCs6w',cITimeS: '1794568945',cN: 'u3JHAF6bq9Oyd9GBiQWCQz',cRay: 'a59d66055c5455e9',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/?__cf_chl_tk=zdpDjWhwXN4yB54IykdkUT12PGka5X.Vdg3TxzI8aQI-1794568945-1.0.1.1-CebXmd6opxyTvNPfadTWgmGqPWKIpllDVl6s_MCckHQ\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/?__cf_chl_f_tk=zdpDjWhwXN4yB54IykdkUT12PGka5X.Vdg3TxzI8aQI-1794568945-1.0.1.1-CebXmd6opxyTvNPfadTWgmGqPWKIpllDVl6s_MCckHQ\",md: 'vgMMrRAumep3diwJ5ZuTfJh2nP0sT.h_cd3SqxbNW.0-1794568945-1.2.1.1-x3pSgbwFr8OuhwOVdLkwaIeT3Cg2G93Lt8iHJ8sdnRenKWHnKHGE0S_z6PfJVQ1v.6JumeoAgJ.1qhXfkP0Ujh07TP9CqDeyrbpVWJjHE3OK9KVNzzXzBYong_Isw057_gDGnlAsubkN1foghGWv8_VJsxHiX_hDWVHeIj7.Zsu861r06_EtYt4roE.vyhToMNGzDwK1y8bfi_eJgzwz7FlRVayUBTl85ebbO4s3rtCqTI8zRxVuvNV3b5hohXFwYMDV_FzYg12SViFZs.kTB.16zt7v5JWaT9o1j6uyyxHMQr7o6DHWapZ0yA4k6Kk71WIEUZHBetclYTrFI0d1T5R..bE72NbHsAEhcvG.DDB2r4bSUNkoljcqh.BxDM1wGEJXGQhVRQ9N1y9jZ3Vb03xI81NtcDA8qxTQZRDdiq65EOmLWL4MjVb_xHdnsH05WmPhTwBXb5ukAUPO8jL8gT.LEc1L_0eA31sxI.BCvSeto05deI4_h1J.Ll6Uz7jcz0L6vuw3e1VSzIZbNwWPiKgL3.a4mkDmBA6GKhR2mHhjYgCT6tmQYXChGrKU17Z6sD1Cza.8lh7AyssurvWAAaczqUufpZwfX6LI.35GroQf.ws.VJQa0uz8Vlv3E_MemJQqk56cnki1hHWHL9haYaJG2AWJI49uJM.cgiwljecD9hCJWvEF.P1VtUvcSuehUlf9MAsoe8sEKYeEmsf2_um1qKxHI9qH9yp.XhlQKyHRZ2HHBSm5C5lcAdRf5Xr05aySJF2aO6dQKsrTpTGYO8MYEDFl8sESYeYKw2Bk7Bm1g94Qa_ER7CHNvzTAjj0Gc_WW0izqg.2Ap7LutS_IRAvA8fL2HD31wXLK7vPJieaFMpxp1_JEhVfpEtlpyCwyy247UVSNLUIgJE1v0hBkQYbjzEfksRwK9H65Btl8bNIy23SYPqpQsVOy6wJIPHuA10L0NO5JUjdOS7AyV_vdqIQdNi7s9_nq6FisCFWpelSHo7fuQ1tK5jojxe7dvh442nFUaOWz9Tu5sool4QKg976pYqDzmCaf24lB1AFONdvDTHugrHWq8bNJocy7DKSGFQ_lI4zQw3iv15ACoUV7sXjQNBk8Y5JSR6OI3rRLWvclq_SfRpfucTRW4cIPXqmj_fJI0mF_vt..jv4wAe.46j.9.q2Mqv5r7S8hdusjVndEZWn.D2fQFLguOWFj0KyY',mdrd: 'qFFz8q.Nd13rru7XsLc9wRyS4L7xDYDJoklAg34RYtw-1794568945-1.2.1.1-s67k3ZFEZ4FcX5xQI11ueqAXmQp5fKPY_e1ykB.VmzJj4LF4_LN4eSDqW8NZsVmmmIQv.JBlBCwMTseMtzhxP2pHZxIpu4jTOv2_d0IzA3AL87Y5F5LxZyD.WrofwAbZl_xFaM1KgR9tBzi47av0ohXuILL3fIsjsiQoCXjThcRH1cSlVPTu.VOIdiPwDlgml.B2y9oLV.zqRIFXAJUlEPJ4PonaV.KjHasji.xTI6gmzl_LIgtp4ZR5kyWNDSzshlD23kOG6PAGhLHYTxN9Hw',};var a = document.createElement('script');a.nonce = 'u3JHAF6bq9Oyd9GBiQWCQz';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a59d66055c5455e9';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/reviews/5833867741/four-travel-tripods-for-every-budget-tested-in-the-real-world/?__cf_chl_rt_tk=zdpDjWhwXN4yB54IykdkUT12PGka5X.Vdg3TxzI8aQI-1794568945-1.0.1.1-CebXmd6opxyTvNPfadTWgmGqPWKIpllDVl6s_MCckHQ\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

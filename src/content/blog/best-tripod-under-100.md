@@ -477,12 +477,13 @@ videos:
   - id: 6iNRbT6Nsgg
     afterHeading: 5
 related:
+  - best-tripod-for-mirrorless-camera
   - best-tripod-for-camera
   - best-tripod-for-medium-format-camera
 heroImage: /images/featured/best-tripod-under-100.png
 heroAlt: >-
-  Best Tripod Under 100 – 5 Picks Matched to Your Camera – Best Tripod
-  buying guide
+  Best Tripod Under 100 – 5 Picks Matched to Your Camera – Best Tripod buying
+  guide
 ---
 
 The best tripod under 100 dollars for most people is the [K&F Concept 64 inch](amzn:K%26F+Concept+64+inch+aluminum+travel+camera+tripod), a 4-section aluminum travel tripod with a ball head that reaches 64 in, folds to 15.5 in and is rated for 17.6 lb. If you only shoot now and then with a light camera, the [Amazon Basics 60-Inch](amzn:Amazon+Basics+60-inch+lightweight+tripod+with+bag) is the simpler buy. I matched five budget tripods to camera sizes from maker specs and owner reports, without using them myself.
