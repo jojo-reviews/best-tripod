@@ -1073,7 +1073,8 @@
           "best tripod for hunting"
         ],
         "coveredBy": [
-          "best-tripod-for-hunting"
+          "best-tripod-for-hunting",
+          "best-tripod-ball-head-for-rifle-shooting"
         ],
         "foundAt": "2026-10-24"
       },
@@ -6427,6 +6428,79 @@
           "best-tripod-for-macro-photography"
         ],
         "foundAt": "2026-10-29"
+      },
+      {
+        "id": "tripod-heads-shooting-head-grabby-for-glassing",
+        "pain": "A shooting ball head is grabby and poor for glassing",
+        "details": "Heads built to lock a rifle, such as the RRS Anvil-30, feel grabby when panning a spotting scope; owners stack a pan head on top or use a hybrid pan and ball head.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.hunttalk.com/threads/ball-head-recommendations.328859/",
+            "platform": "forum",
+            "title": "Ball Head Recommendations? (Hunt Talk)",
+            "seen": "2026-11-13"
+          },
+          {
+            "url": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/",
+            "platform": "forum",
+            "title": "BEST Tripod ball heads for shooting? (Rokslide)",
+            "seen": "2026-11-13"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "But it makes your tripod essentially only convenient for shooting off of, its hard to glass with an anvil.",
+            "url": "https://rokslide.com/forums/threads/best-tripod-ball-heads-for-shooting.444022/"
+          }
+        ],
+        "searches": [
+          "shooting ball head for glassing",
+          "anvil 30 glassing"
+        ],
+        "keywords": [
+          "best tripod ball head for rifle shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-ball-head-for-rifle-shooting"
+        ],
+        "foundAt": "2026-11-13"
+      },
+      {
+        "id": "tripod-heads-small-ball-moves-under-rifle",
+        "pain": "A small ball head locks but the rifle still settles or out-levers it",
+        "details": "Shooters report a rifle settling several mils after locking on sub-40 mm balls, and an 11 lb rifle out-levering a light hybrid head even fully tightened.",
+        "mentions": 2,
+        "sources": [
+          {
+            "url": "https://www.airgunnation.com/threads/to-the-users-of-leofoto-ball-head-tripod-set-ups.1202404/",
+            "platform": "forum",
+            "title": "To the users of leofoto ball head/tripod set ups (Airgun Nation)",
+            "seen": "2026-11-13"
+          },
+          {
+            "url": "https://rokslide.com/forums/threads/tricer-dz-head-first-impression.379498/",
+            "platform": "forum",
+            "title": "Tricer DZ head first impression (Rokslide)",
+            "seen": "2026-11-13"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "With the smaller sub 40mm ball heads you will lock the gun in place but it will still move about 10-15 Mil once you let the weight settle it.",
+            "url": "https://www.airgunnation.com/threads/to-the-users-of-leofoto-ball-head-tripod-set-ups.1202404/"
+          }
+        ],
+        "searches": [
+          "rifle moves on ball head after locking"
+        ],
+        "keywords": [
+          "best tripod ball head for rifle shooting"
+        ],
+        "coveredBy": [
+          "best-tripod-ball-head-for-rifle-shooting"
+        ],
+        "foundAt": "2026-11-13"
       }
     ],
     "tripod-accessories": [
@@ -6749,7 +6823,8 @@
           "best tripod quick release plate"
         ],
         "coveredBy": [
-          "best-tripod-quick-release-plate"
+          "best-tripod-quick-release-plate",
+          "best-tripod-ball-head-for-rifle-shooting"
         ],
         "foundAt": "2026-10-31",
         "searches": [
