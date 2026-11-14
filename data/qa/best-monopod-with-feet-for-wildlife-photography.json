@@ -1,20 +1,19 @@
 {
   "slug": "best-monopod-with-feet-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-13T19:30:07.289Z",
+  "checkedAt": "2026-11-14T12:38:41.828Z",
   "errors": [],
   "warnings": [
-    "body has 1879 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "body has 1834 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"IFOOTAGE Cobra 3 C180F-P Carbon Fiber Camera Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S AM-264TR Monopod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "section \"Which Monopod With Feet Should You Get?\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)"
+    "product \"NEEWER T222 Extendable Camera Monopod with Stand Base\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "intro order: answer first, story in paragraph 2",
-    "at": "2026-11-13T19:30:06.656Z",
-    "hash": "907b4ec04d32c67f"
+    "notes": "significant: added What Is a Monopod With Feet section (Better With Birds foot types, verified 2026-11-14), rewrote lens-matching section as Best Monopod for Bird Photography (Better With Birds walk/flight/400mm rules, verified), new FAQ monopod with legs, removed duplicate Quick Picks H2, first-person scoreNotes; no product, number or safety note changed",
+    "at": "2026-11-14T12:38:40.510Z",
+    "hash": "10d1c61062667c63"
   }
 }

@@ -284,7 +284,7 @@ The tripod collar matters as much as the head; a superzoom without one, like the
 
 ## Check 5 – Carry weight of a tripod for a long lens
 
-**The right tripod for a long lens is the heaviest one you will actually carry, because stable, light and cheap rarely come together.** I shoot travel and landscape as well as wildlife, so mine has to do both. DPReview opens its roundup with the saying "Cheap, light, stable – you can pick only two." Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack (our [Sony A7 IV tripod picks](/blog/best-tripod-for-sony-a7iv/) cover both).
+**The right tripod for a long lens is the heaviest one you will actually carry, because stable, light and cheap rarely come together.** I shoot travel and landscape as well as wildlife, so mine has to do both. DPReview opens its roundup with the saying "Cheap, light, stable – you can pick only two." Legs that live beside the car at an airshow can be big and slow; legs that walk three miles to a blind have to strap to a pack (our [Sony A7 IV tripod picks](/blog/best-tripod-for-sony-a7iv/) cover both). Walkers can try a [monopod with feet](/blog/best-monopod-with-feet-for-wildlife-photography/).
 
 Members of the bcgforums 600mm thread ask the same questions before naming a model: budget, the weight you will tolerate, whether it flies with you, and whether you need a head, since many better tripods are legs only. Tom Mason's advice in the Check 4 video fits here: if you can buy one tripod, buy the bigger one first.
 

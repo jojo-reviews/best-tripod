@@ -465,13 +465,165 @@
     "gap": "Whether a footed monopod can stand on its own and which suits a long telephoto lens"
   },
   "textrazor": {
-    "date": "2026-10-29",
+    "date": "2026-11-14",
     "urls": [
       "https://www.digitalcameraworld.com/buying-guides/best-monopods",
       "https://www.naturettl.com/best-monopod-for-wildlife-photography/",
       "https://betterwithbirds.com/blogs/bird-photography-and-sound-tips/best-tripod",
-      "https://www.talkphotography.co.uk/threads/ive-finally-found-the-best-monopod-for-wildlife-photography-updated-with-replacement-spike-foot-information.760602/"
+      "https://photographylife.com/tripod-vs-monopod-wildlife-photography (fetch failed)",
+      "https://www.adorama.com/lists/monopods-with-feet"
     ],
-    "file": "data/briefs/best-monopod-with-feet-for-wildlife-photography.entities.json"
-  }
+    "file": "data/briefs/best-monopod-with-feet-for-wildlife-photography.entities.json",
+    "sharedEntities": [
+      {
+        "entity": "Monopod",
+        "salience": 0.93,
+        "pages": 3
+      },
+      {
+        "entity": "Camera",
+        "salience": 0.79,
+        "pages": 3
+      },
+      {
+        "entity": "Photography",
+        "salience": 0.68,
+        "pages": 3
+      },
+      {
+        "entity": "Weight",
+        "salience": 0.39,
+        "pages": 3
+      },
+      {
+        "entity": "Tripod (photography)",
+        "salience": 0.71,
+        "pages": 2
+      },
+      {
+        "entity": "Wildlife photography",
+        "salience": 0.64,
+        "pages": 2
+      },
+      {
+        "entity": "Tripod head",
+        "salience": 0.55,
+        "pages": 2
+      },
+      {
+        "entity": "Telephoto lens",
+        "salience": 0.5,
+        "pages": 2
+      },
+      {
+        "entity": "Lens",
+        "salience": 0.42,
+        "pages": 2
+      },
+      {
+        "entity": "Sports photography",
+        "salience": 0.33,
+        "pages": 2
+      },
+      {
+        "entity": "Shutter speed",
+        "salience": 0.32,
+        "pages": 2
+      },
+      {
+        "entity": "Full-frame DSLR",
+        "salience": 0.29,
+        "pages": 2
+      },
+      {
+        "entity": "Exposure (photography)",
+        "salience": 0.29,
+        "pages": 2
+      },
+      {
+        "entity": "Gimbal",
+        "salience": 0.27,
+        "pages": 2
+      },
+      {
+        "entity": "Zoom lens",
+        "salience": 0.26,
+        "pages": 2
+      }
+    ],
+    "missingFromPost": []
+  },
+  "googleModifiers": [
+    "monopod with legs",
+    "monopod with tri feet",
+    "monopod with three feet",
+    "monopod with tripod feet",
+    "carbon fiber monopod with feet",
+    "heavy duty monopod with feet",
+    "lightweight monopod with feet",
+    "monopod with foot pedal",
+    "monopod foot spike",
+    "vs tripod",
+    "and head"
+  ],
+  "amazonFilters": {
+    "Max Height": [
+      "Up to 39 in",
+      "40 to 49 in",
+      "50 to 64 in",
+      "65 in & above"
+    ],
+    "Min Height": [
+      "Up to 7.9 in",
+      "8.0 to 13.9 in",
+      "14.0 to 19.9 in",
+      "20.0 in & above"
+    ],
+    "Head Type": [
+      "Ball Heads",
+      "Gimbal Heads",
+      "Pan Heads",
+      "Pistol Grip Heads"
+    ],
+    "Special Features": [
+      "Lightweight",
+      "Foldable",
+      "Quick-Release",
+      "Telescopic",
+      "Slip Resistant",
+      "Spirit Level",
+      "Remote Control"
+    ],
+    "Brands": [
+      "Manfrotto",
+      "Sirui",
+      "NEEWER",
+      "Benro",
+      "VANGUARD",
+      "IFOOTAGE",
+      "Gitzo"
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2026-11-14",
+      "source": "GSC last 24h 2026-11-13",
+      "queries": {
+        "monopod with feet": "pos 15.1 (7d), 28 impr, 0 clicks",
+        "best monopod for wildlife photography": "pos 7 (7d), 1 click",
+        "best monopod for bird photography": "pos 19.8 (7d), gap word 'bird'",
+        "best monopod with legs": "pos 27.8 (7d)",
+        "monopod with foot": "pos 14.5 (7d)"
+      },
+      "changes": "significant: added 'What Is a Monopod With Feet?' section and FAQ 'monopod with legs'; rewrote 'Which Monopod...' as 'Best Monopod for Bird Photography and Wildlife, by Lens'; removed body Quick Picks H2 (duplicated template picks, patent rule 2026-10-31); first-person scoreNotes; renamed verdict H2; trimmed filler (1879 -> ~1830 words)",
+      "seoTitle": {
+        "old": "Best Monopod With Feet for Wildlife Photography (3 Picks)",
+        "new": "unchanged (no ctr reason)"
+      },
+      "description": {
+        "old": "The best monopod with feet for wildlife photography, compared on load, height, folded length and feet type, with 3 picks for long lenses and birding walks.",
+        "new": "The IFOOTAGE Cobra 3 C180F-P is the best monopod with feet for wildlife photography with long lenses; 3 picks for bird photography compared on load and height."
+      }
+    }
+  ]
 }
