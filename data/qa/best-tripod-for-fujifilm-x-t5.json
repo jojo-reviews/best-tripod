@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:10.898Z",
-    "hash": "d0c85aab797f1744"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-14T17:49:59.965Z",
+    "hash": "53abd5f23abb27e0"
   }
 }

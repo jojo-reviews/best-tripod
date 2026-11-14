@@ -446,5 +446,17 @@
   "best-carbon-fiber-travel-tripod": {
     "at": "2026-11-13T17:49:30.495Z",
     "note": "written with TextRazor entities on 2026-11-12 (no pass needed)"
+  },
+  "best-tripod-ball-head-for-rifle-shooting": {
+    "at": "2026-11-14T17:48:48.577Z",
+    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
+  },
+  "best-tripod-for-mirrorless-camera": {
+    "at": "2026-11-14T17:48:48.619Z",
+    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
+  },
+  "tall-tripod-vs-regular-tripod": {
+    "at": "2026-11-14T17:48:48.652Z",
+    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
   }
 }

@@ -410,7 +410,8 @@ sources:
   - title: 'r/nikon_Zseries: Nikon Z8 L plate advice with a Peak Design tripod'
     url: >-
       https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-14'
+updatedDate: '2026-11-14T17:50:07.000Z'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Nikon Z8?
@@ -447,11 +448,13 @@ related:
   - best-tripod-for-nikon-p1000
 ---
 
-A tripod for Nikon Z8 shooting is sized by the lens, not the body: a 70-200mm on slim legs in wind gives a soft 30-second frame. For travel with a 24-120mm, my pick is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber); for a 70-200mm or 180-600mm, it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod). I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).
+The best tripod for Nikon Z8 shooting is sized by the lens, not the body: a 70-200mm on slim legs in wind gives a soft 30-second frame. For travel with a 24-120mm, my pick is the [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber); for a 70-200mm or 180-600mm, it is the columnless [Leofoto LS-324CX kit](amzn:Leofoto+LS-324CX+LH-40+carbon+fiber+tripod).
+
+I have been shooting since 2017, and my own kit is carbon fiber tripods, ball heads and Arca-Swiss plates, plus a 200-600mm for wildlife, so the lens is the first thing I check when I size a tripod. Here is how I matched five tripods to real Nikon kits using maker specs, Nikon's lens weights and Z8 owner threads (Canon owners can see our [Canon R6 Mark II tripod picks](/blog/best-tripod-for-canon-r6-mark-ii/)).
 
 ## Nikon Z8 tripod specs compared: weight, height and load
 
-**A tripod for Nikon Z8 use with a 24-120mm can be a light travel model; with a 70-200mm or 180-600mm you want columnless legs with thick tubes.** Our guide to [tripods for heavy telephoto lenses](/blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/) explains why tube diameter matters more than the load number. Carbon fiber keeps three of the four carbon picks at or under 3.2 lb; the aluminum Befree weighs 3.6 lb.
+**The problem I'm solving is simple: a Nikon Z8 tripod for a 24-120mm can be a light travel model, but with a 70-200mm or 180-600mm I want columnless legs with thick tubes.** Our guide to [tripods for heavy telephoto lenses](/blog/how-to-choose-a-tripod-for-a-heavy-telephoto-lens/) explains why tube diameter matters more than the load number. Carbon fiber keeps three of the four carbon picks at or under 3.2 lb; the aluminum Befree weighs 3.6 lb.
 
 | Tripod | Weight | Folded length | Height without raising a column | Load rating | Arca plate |
 |---|---|---|---|---|---|
@@ -463,17 +466,17 @@ A tripod for Nikon Z8 shooting is sized by the lens, not the body: a 70-200mm on
 
 ## How I picked each Nikon Z8 tripod
 
-**A tripod for Nikon Z8 owners made this list only if at least two top-ranking pages for this search recommend it and it has an in-stock Amazon US listing.** Those pages were Packapop, Transcontinenta, Camera Decision, two CameraEgg threads, a Camera Rumors thread and a BCG Forums thread. The Benro Mach3 and SIRUI AM-series also came up, but no single model of either was named twice.
+**I let a tripod for Nikon Z8 owners onto this list only if at least two top-ranking pages for this search recommend it and it has an in-stock Amazon US listing.** Those pages were Packapop, Transcontinenta, Camera Decision, two CameraEgg threads, a Camera Rumors thread and a BCG Forums thread. The Benro Mach3 and SIRUI AM-series also came up, but no single model of either was named twice.
 
-> **From our notes:** Nikon's 910 g for the Z8 barely moved my ranking; the 180-600mm did. Gitzo rates the GT1542 at 18 kg, yet its own page suggests it for lenses up to 200mm. So the load number was the wrong filter for a Z8, and I sorted by top tube diameter, column-down height and what owners said about wind instead. That made Leofoto's 32 mm LS-324CX the long-lens pick, even though the Gitzo carries more on paper.
+> **From our notes:** Nikon's 910 g for the Z8 barely moved my ranking; the 180-600mm did, and I sorted what I look for accordingly. Gitzo rates the GT1542 at 18 kg, yet its own page suggests it for lenses up to 200mm. So the load number was the wrong filter for a Z8, and I sorted by top tube diameter, column-down height and what owners said about wind instead. That made Leofoto's 32 mm LS-324CX the long-lens pick, even though the Gitzo carries more on paper.
 
 ## The 5 best tripods for the Nikon Z8, reviewed
 
-**Each tripod for the Nikon Z8 here suits a different lens and trip, so start from the lens you mount most.**
+**Here is how I'd match each tripod for the Nikon Z8 to a lens and a trip, so start from the lens you mount most.**
 
 ### Peak Design Travel Tripod (Carbon Fiber): best travel pick for the Z8
 
-The Peak Design Travel Tripod (Carbon Fiber) is a five-section carbon travel tripod from Peak Design: 2.8 lb, 15.5 in folded, 51.25 in with the column down and rated to 20 lb with an Arca-type compatible plate. I'd start here if the tripod has to fly. Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/)). The catch is long lenses in wind: CameraEgg owners report it "really vibrates" with the 100-400mm when gusts hit, and that its thin lower legs flex under a Z8. Keep the column down and it suits a 24-120mm on most travel days.
+The Peak Design Travel Tripod (Carbon Fiber) is a five-section carbon travel tripod from Peak Design: 2.8 lb, 15.5 in folded, 51.25 in with the column down and rated to 20 lb with an Arca-type compatible plate. I'd start here if my tripod had to fly. Three BCG Forums members use one with a Z8 or Z-series kit, one on Himalayan treks with a 24-120mm (lighter bodies have their own [tripods for the Nikon Zf](/blog/best-tripod-for-nikon-zf/)). The catch is long lenses in wind: CameraEgg owners report it "really vibrates" with the 100-400mm when gusts hit, and that its thin lower legs flex under a Z8. Keep the column down and it suits a 24-120mm on most travel days.
 
 ### Manfrotto Befree Advanced Lever Travel Tripod Kit: best value travel kit
 
@@ -493,9 +496,9 @@ The Gitzo GT1542 Mountaineer Series 1 is a four-section carbon fiber tripod from
 
 ## How much load a Nikon Z8 and its lenses put on a tripod
 
-**Nikon lists the Z8 at [about 910 g with battery and card](https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/), so the lens decides the load, and every pick here carries the common kits with room to spare.**
+**Nikon lists the Z8 at [about 910 g with battery and card](https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/), so the lens decides the load, and I check that every pick carries the common kits with room to spare.**
 
-I added each Nikon Z-mount lens weight from Nikon to the body, before the head:
+I added up each Nikon Z-mount lens weight from Nikon to the body, before the head:
 
 - With the NIKKOR Z 24-120mm f/4 S (630 g): 1,540 g, about 3.4 lb.
 - With the NIKKOR Z 70-200mm f/2.8 VR S (1,440 g with collar): 2,350 g, about 5.2 lb.
@@ -505,7 +508,7 @@ With the 180-600 kit, headroom is about 3 times on the Peak Design and Befree, 3
 
 ## Nikon Z8 tripod problems owners run into, and the fix
 
-**A Nikon Z8 tripod complaint usually comes from slim legs under long lenses, a raised column in wind or a plate that doesn't fit, not from the camera.**
+**When I read what owners complain about, a Nikon Z8 tripod problem usually comes from slim legs under long lenses, a raised column in wind or a plate that doesn't fit, not from the camera, and I'd fix each one like this.**
 
 - **Slim legs shake with long glass.** A CameraEgg Z8 owner says the Peak Design "really vibrates with the Nikon NIKKOR Z 100-400mm f/4.5-5.6 VR S when things get wild". Move to the LS-284CX or LS-324CX and mount the lens by its collar.
 - **The column is the weak link.** Another CameraEgg owner learned that "Center columns are usually the weakest link in high wind". Columnless legs remove the problem; on the others, keep the column down.
@@ -515,9 +518,9 @@ With the 180-600 kit, headroom is about 3 times on the Peak Design and Befree, 3
 
 ## Which Nikon Z8 tripod should you get?
 
-**The right Nikon Z8 tripod follows the lens you mount most, then how far you carry your gear.**
+**Here is which one I'd pick: the right Nikon Z8 tripod follows the lens you mount most, then how far you carry your gear.**
 
-1. 24-120mm and flights: Peak Design carbon, or the Befree Advanced to save money.
+1. 24-120mm and flights: I'd take the Peak Design carbon, or the Befree Advanced to save money.
 2. Landscapes, ND filters and waterfalls with an L-bracket: Leofoto LS-284CX kit.
 3. 70-200mm or 180-600mm for wildlife: Leofoto LS-324CX, with a gimbal head for tracking.
 4. You own a good head and want premium legs for a 24-120 or 70-200: Gitzo GT1542.

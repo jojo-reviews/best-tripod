@@ -1,22 +1,20 @@
 {
   "slug": "best-tripod-for-macro-photography",
   "pass": true,
-  "checkedAt": "2026-11-13T19:20:43.719Z",
+  "checkedAt": "2026-11-14T17:50:00.763Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: only 18 first-person words; owner rule wants at least 19 (about 1 per 100 words: I, my, me, we, our, us)",
-    "LIVE POST, FIX: body has 1822 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "LIVE POST, FIX: body has 1911 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"Manfrotto 055 Aluminum Tripod Kit with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 3+ 263AB 160S\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Manfrotto MT190XPRO3 Aluminum Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "section \"The 5 best tripods for macro photography, reviewed\" lead is narration; make it a self-contained answer that names the topic (patent rule 2026-11-03)"
+    "product \"JOBY GorillaPod 3K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:20:42.830Z",
-    "hash": "982a8122a7e69ca3"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-14T17:49:59.299Z",
+    "hash": "71b0a8a97d2d0e79"
   }
 }

@@ -158,5 +158,45 @@
   "best-tripod-for-leica-q3": {
     "at": "2026-11-13T17:51:52.500450+00:00",
     "note": "story pass: Ned Diary first-person narrative from author-stories.json facts"
+  },
+  "best-tripod-for-telescope": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-dji-osmo-pocket-3": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-astrophotography": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-macro-photography": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-sony-a7iv": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-fujifilm-x-t5": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-sony-zv-e10": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-sony-a6700": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-nikon-z8": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
+  },
+  "best-tripod-for-binoculars": {
+    "at": "2026-11-14T17:50:00.000Z",
+    "note": "start-2017/genres/support facts; answer-first, no stories in file"
   }
 }

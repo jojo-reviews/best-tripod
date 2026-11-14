@@ -414,7 +414,8 @@ sources:
   - title: 'r/fujifilm: X-T5 tripod mount is loose'
     url: >-
       https://www.reddit.com/r/fujifilm/comments/1rq3ilt/xt5_tripod_mount_is_loose/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-14'
+updatedDate: '2026-11-14T12:00:00.000Z'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X-T5?
@@ -456,11 +457,13 @@ related:
 heroImage: /images/featured/best-tripod-for-fujifilm-x-t5.png
 ---
 
-The best tripod for Fujifilm X-T5 owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot the heavy 16-55mm zoom lens in wind, I'd pick the [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) with no center column. A Fujifilm X-T5 tripod is sized by the lens you mount, not the camera. I matched five to it using maker specs and Fuji owner reports from r/fujifilm and FujiX-Forum.
+The best tripod for Fujifilm X-T5 owners is, for most people, the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum); if you shoot the heavy 16-55mm zoom lens in wind, I'd pick the [SmallRig AP-10](amzn:SmallRig+AP-10+carbon+fiber+tripod) with no center column. A Fujifilm X-T5 tripod is sized by the lens you mount, not the camera.
+
+I've shot travel and landscape since 2017, and my own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so I judge any tripod by how it folds, how tall it gets and whether it takes an Arca plate. I matched these five to the X-T5 using maker specs and Fuji owner reports from r/fujifilm and FujiX-Forum.
 
 ## Fujifilm X-T5 tripod comparison: height with the column down
 
-**A tripod for Fujifilm X-T5 owners should reach about 50 in with the column down and take an Arca-type plate; load capacity is rarely the limit.** Shooting other mirrorless camera bodies too? See our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/).
+**I look for about 50 in with the column down and an Arca-type plate in a tripod for Fujifilm X-T5 owners; load capacity is rarely the limit.** Shooting other mirrorless camera bodies too? See our [travel tripods for mirrorless cameras](/blog/best-travel-tripod-for-mirrorless-camera/).
 
 | Tripod | Weight | Folded | Height, column down | Max height | Rated load |
 |---|---|---|---|---|---|
@@ -478,7 +481,7 @@ The best tripod for Fujifilm X-T5 owners is, for most people, the [Peak Design T
 
 ## The 5 best tripods for the Fujifilm X-T5, reviewed
 
-**The Peak Design Travel Tripod (Aluminum) suits most Fujifilm X-T5 owners; the SmallRig AP-10 is the pick for the 16-55mm zoom lens in wind.**
+**I'd put the Peak Design Travel Tripod (Aluminum) first for most Fujifilm X-T5 owners, and the SmallRig AP-10 first for the 16-55mm zoom lens in wind.**
 
 ### Peak Design Travel Tripod (Aluminum): best overall for the X-T5
 
@@ -502,7 +505,7 @@ The [Manfrotto PIXI EVO 2-Section Mini Tripod](amzn:Manfrotto+PIXI+EVO+2-Section
 
 ## Which Fujifilm X-T5 tripod should you get?
 
-**The right Fujifilm X-T5 tripod depends on the lens you mount most and how windy your spots are, because the X-T5 never strains these tripods' ratings.**
+**I'd choose a Fujifilm X-T5 tripod by the lens you mount most and how windy your spots are, because the X-T5 never strains these tripods' ratings.**
 
 1. Primes or the 16-55mm on carry-on trips: Peak Design Travel Tripod (Aluminum).
 2. Travel and local landscapes with a head you can pan: Manfrotto Befree Advanced, compared head to head in our [Peak Design vs Befree Advanced](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) guide.
@@ -528,7 +531,7 @@ Height without the column matters more: 52.4 in (AP-10), 51.25 in (Peak Design),
 
 ## Fujifilm X-T5 tripod problems owners run into, and the fix
 
-**Most Fujifilm X-T5 tripod complaints come from thin legs, a raised column, wind and the camera's own settings, not weight.**
+**Most Fujifilm X-T5 tripod complaints I read come from thin legs, a raised column, wind and the camera's own settings, not weight.**
 
 - **Thin legs with the 16-55mm.** One Cameraegg forum poster admits "honestly those skinny legs make me so anxious", and another writes: "Unfortunately, those Peak Design legs feel too thin for heavy Fuji glass." Leave the thinnest leg section in, or pick the column-free AP-10.
 - **A raised center column.** In tripod photography, legs that are steady on their own ring once the column goes up, a recurring complaint in r/AskPhotography threads. Pick legs that reach your eye level with the column down.

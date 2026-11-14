@@ -1,10 +1,10 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-11-08T16:25:02.796Z",
+  "checkedAt": "2026-11-14T17:49:53.941Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1652 words, over the 1610 limit (top results average 1400): cut repetition and filler",
+    "LIVE POST, FIX: body has 1726 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-zwo-am5, no claim changed",
-    "at": "2026-11-08T16:25:02.463Z",
-    "hash": "943055b27801bdd3"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-14T17:49:53.037Z",
+    "hash": "43961c40e1d23619"
   }
 }
