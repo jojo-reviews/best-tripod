@@ -467,7 +467,7 @@ Several CAMBOFOTO 74 in variants exist, so check the exact model. The two review
 
 **The rule of thumb I use: a tripod for tall people needs a tripod height of roughly your height minus 10 to 12 inches with the center column down.** That puts the viewfinder at eye level once the head and camera (roughly 5 to 8 in) sit on top.
 
-At 6 feet tall, that is about 60 to 62 in of legs-only height; at 6'4", about 64 to 66 in; at 6'6", about 66 to 68 in. Only the K&F's published column-down figure (63.8 in) comes close. If you shoot mostly on a tilting rear screen, chin level is fine and you can work a few inches lower without hunching.
+At 6 feet tall, that is about 60 to 62 in of legs-only height; at 6'4", about 64 to 66 in; at 6'6", about 66 to 68 in. Only the K&F's published column-down figure (63.8 in) comes close; for the rest, a [tripod extension column](/blog/tripod-extension/) is a calm-day stopgap. If you shoot mostly on a tilting rear screen, chin level is fine and you can work a few inches lower without hunching.
 
 ## Stability, Load Capacity and Leg Locks on a Tripod for Tall Photographers
 

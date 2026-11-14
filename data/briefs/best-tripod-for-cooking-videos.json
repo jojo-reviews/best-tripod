@@ -944,12 +944,14 @@
     {
       "slug": "best-tripod-for-content-creators",
       "find": "Angling a phone tripod over a desk puts the weight outside its feet.",
-      "replace": "Angling a phone tripod over a desk puts the weight outside its feet, which is why my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) start with free-standing overhead stands."
+      "replace": "Angling a phone tripod over a desk puts the weight outside its feet, which is why my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) start with free-standing overhead stands.",
+      "appliedAt": "2026-11-14T17:14:14.026Z"
     },
     {
       "slug": "best-tripod-for-youtube-videos",
       "find": "It is my overhead pick because its 90-degree center column swings sideways, so the camera hangs over a desk, cutting board or sketchbook without a boom arm.",
-      "replace": "It is my overhead pick because its 90-degree center column swings sideways, so the camera hangs over a desk, cutting board or sketchbook without a boom arm (my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) cover the counter rigs)."
+      "replace": "It is my overhead pick because its 90-degree center column swings sideways, so the camera hangs over a desk, cutting board or sketchbook without a boom arm (my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) cover the counter rigs).",
+      "appliedAt": "2026-11-14T17:14:14.865Z"
     }
   ]
 }

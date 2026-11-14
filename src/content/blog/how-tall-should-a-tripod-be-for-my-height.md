@@ -278,7 +278,7 @@ Adjust for your gear. A compact ball head and small mirrorless body sit near the
 
 **Tripod height for a 6-foot photographer should be about 60 to 61 inches without the center column for a true eye-level viewfinder.**
 
-My chart math and Ulanzi's height guide land on the same figure: [about 60 inches without the center column for a shooter around 6 feet tall](https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography). Few full-size tripods reach 60 inches on legs alone. Most sturdy aluminum models I compare land around 55 inches, which leaves a 6-foot shooter's viewfinder 5 to 6 inches below eye level: a slight stoop or a few inches of column.
+My chart math and Ulanzi's height guide land on the same figure: [about 60 inches without the center column for a shooter around 6 feet tall](https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography). Few full-size tripods reach 60 inches on legs alone, which is why some shooters add a [tripod extension](/blog/tripod-extension/) on top. Most sturdy aluminum models I compare land around 55 inches, which leaves a 6-foot shooter's viewfinder 5 to 6 inches below eye level: a slight stoop or a few inches of column.
 
 For a tripod height for a tall person at 6'3" and up, the gap grows to 9 to 12 inches on a 55 inch tripod. At that point I would look specifically for a taller legs-only figure (our roundup of the [best tripods for tall photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) compares four tall models), accept using the column for the last few inches on calm days, or lean on a tilting screen.
 

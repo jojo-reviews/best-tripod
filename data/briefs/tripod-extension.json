@@ -532,12 +532,14 @@
     {
       "slug": "best-tripod-for-tall-photographers-over-6-feet",
       "find": "Only the K&F's published column-down figure (63.8 in) comes close.",
-      "replace": "Only the K&F's published column-down figure (63.8 in) comes close; for the rest, a [tripod extension column](/blog/tripod-extension/) is a calm-day stopgap."
+      "replace": "Only the K&F's published column-down figure (63.8 in) comes close; for the rest, a [tripod extension column](/blog/tripod-extension/) is a calm-day stopgap.",
+      "appliedAt": "2026-11-14T17:14:12.094Z"
     },
     {
       "slug": "how-tall-should-a-tripod-be-for-my-height",
       "find": "Few full-size tripods reach 60 inches on legs alone.",
-      "replace": "Few full-size tripods reach 60 inches on legs alone, which is why some shooters add a [tripod extension](/blog/tripod-extension/) on top."
+      "replace": "Few full-size tripods reach 60 inches on legs alone, which is why some shooters add a [tripod extension](/blog/tripod-extension/) on top.",
+      "appliedAt": "2026-11-14T17:14:12.972Z"
     }
   ],
   "supports": "best-tripod-for-tall-photographers-over-6-feet"
