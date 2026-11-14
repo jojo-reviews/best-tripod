@@ -7162,6 +7162,54 @@
         "answeredBy": [
           "best-tripod-for-zoom-recorder"
         ]
+      },
+      {
+        "id": "tripod-accessories-extension-pole-wobble",
+        "pain": "The tripod stops well below eye level, and an extension pole on top makes it wobble",
+        "details": "Owners of short tripods ask for a screw-on extension pole or column to gain 6 to 24 inches; forum replies warn that height added above the legs introduces wobble, that columns are for minor adjustment only, and that extending from the bottom or buying a taller tripod is steadier.",
+        "mentions": 3,
+        "sources": [
+          {
+            "url": "https://www.photo.net/forums/topic/188334-tripod-extension-raise-height/",
+            "platform": "forum",
+            "title": "TRIPOD EXTENSION - Raise Height",
+            "seen": "2026-11-14"
+          },
+          {
+            "url": "https://www.reddit.com/r/AskPhotography/comments/1invye9/clever_ways_to_extend_height_of_the_tripod/",
+            "platform": "reddit",
+            "title": "Clever ways to extend height of the tripod?",
+            "seen": "2026-11-14"
+          },
+          {
+            "url": "https://www.reddit.com/r/photography/comments/3ug2u2/is_there_any_way_of_making_my_tripod_612_taller/",
+            "platform": "reddit",
+            "title": "Is there any way of making my tripod 6-12\" taller?",
+            "seen": "2026-11-14"
+          }
+        ],
+        "quotes": [
+          {
+            "text": "extending the top pole is not a good idea. This will introduce wobble into your video. You want to extend from the bottom.",
+            "url": "https://www.photo.net/forums/topic/188334-tripod-extension-raise-height/"
+          },
+          {
+            "text": "Elevating poles on usual pods are only for minor adjustment,not for adding a foot in height.",
+            "url": "https://www.photo.net/forums/topic/188334-tripod-extension-raise-height/"
+          }
+        ],
+        "searches": [
+          "tripod extension",
+          "how to make a tripod taller",
+          "tripod extension pole stable"
+        ],
+        "keywords": [
+          "tripod extension"
+        ],
+        "coveredBy": [
+          "tripod-extension"
+        ],
+        "foundAt": "2026-11-14"
       }
     ],
     "video-tripods": [

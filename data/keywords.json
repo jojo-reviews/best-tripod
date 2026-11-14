@@ -8750,7 +8750,7 @@
     "publishedAt": "2026-11-13T21:33:28.221Z"
   },
   {
-    "status": "pending",
+    "status": "published",
     "attempts": 0,
     "addedAt": "2026-11-14T11:18:23.969Z",
     "secondaryKeywords": [
@@ -8782,6 +8782,7 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-14"
     },
-    "slug": "tripod-extension"
+    "slug": "tripod-extension",
+    "publishedAt": "2026-11-14T11:28:11.881Z"
   }
 ]

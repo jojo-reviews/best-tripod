@@ -466,6 +466,7 @@ heroAlt: >-
   Best tripod dolly picks by tripod foot type, from folding clamp dollies to
   spiked-leg floor dollies
 related:
+  - tripod-extension
   - best-tripod-for-starlink-mini
 ---
 

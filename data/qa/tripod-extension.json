@@ -1,0 +1,17 @@
+{
+  "slug": "tripod-extension",
+  "pass": true,
+  "checkedAt": "2026-11-14T11:28:03.675Z",
+  "errors": [],
+  "warnings": [
+    "product \"SIRUI SL-200 Carbon Fiber Tripod Extension Pole\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-11-14: Sirui SL-200 specs (7.9 to 12.6 in, 4.7 in travel, 8 oz, reversible 1/4-20 to 3/8-16 screw, for select Sirui tripods) against the B&H product page; 26 lb / 12 kg load, half-turn twist lock, 0.21 kg against Sirui dealer Mile High Astronomy; Amazon US listing B07KD4LR97 title, in stock, sold by Amazon. 15% stiffness loss and four-times-slower vibration decay against The Center Column article. Owner voices read on the pages: Jim (B&H verified buyer review, quote verbatim), Bazza (Talk Photography thread, BeFree Live 5 ft + 1 ft, quote verbatim). Photo.net thread quote (joel_jimenez1) and the 4 ft to 5-6 ft case read in full on the thread. Author facts only from data/author-stories.json (since 2017, support kit, 200-600mm lens).",
+    "at": "2026-11-14T11:28:03.231Z",
+    "hash": "91c44e2ff5bacf0e"
+  }
+}

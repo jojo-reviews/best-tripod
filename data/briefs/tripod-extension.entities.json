@@ -1,0 +1,110 @@
+{
+  "keyword": "tripod extension",
+  "pagesAnalyzed": 2,
+  "sharedEntities": [
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.92,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Column",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.76,
+      "wiki": "http://en.wikipedia.org/wiki/Column",
+      "wikidata": "Q4817",
+      "kgmid": "/m/01_m7"
+    },
+    {
+      "entity": "Torque",
+      "type": "/measurement_unit/common_dimension",
+      "pages": 2,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Torque",
+      "wikidata": "Q48103",
+      "kgmid": "/m/07h3n"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Center of mass",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Center_of_mass",
+      "wikidata": "Q2945123",
+      "kgmid": "/m/017gpx"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.44,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "wikidata": "Q25288",
+      "kgmid": "/m/085x_"
+    },
+    {
+      "entity": "Vibration",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.35,
+      "wiki": "http://en.wikipedia.org/wiki/Vibration",
+      "wikidata": "Q3695508",
+      "kgmid": "/m/01jwx6"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Mass",
+      "type": "/measurement_unit/common_dimension",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Mass",
+      "wikidata": "Q11423",
+      "kgmid": "/m/04t9l"
+    }
+  ],
+  "errors": [
+    "https://www.photo.net/forums/topic/188334-tripod-extension-raise-height/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-MAttqrYvdfAQiTXmn4qgAL&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"MAttqrYvdfAQiTXmn4qgAL\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: '1mbSeiVxh90sk81KOuhDSNHSmiP4DcifdBfduqOAuNg-1794655374-1.2.1.1-MuuqL718XhYPo2oYw8EgAoO23VXS0IRO6C2U8Ccu36oNeFuFq.nGoN8bH4cX27qT',cITimeS: '1794655374',cN: 'MAttqrYvdfAQiTXmn4qgAL',cRay: 'a5a5a41ace698846',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/topic/188334-tripod-extension-raise-height/?__cf_chl_tk=Zc8fQWJPDg1z4nxypf1hloBYY70_WMdZ0142yVi4_.E-1794655374-1.0.1.1-Pb1wCpmHe8RD3Zwo2EXerIZWMr4rXNgyR_6hlf6YHIE\",cvId: '3',cZone: 'www.photo.net',fa:\"/forums/topic/188334-tripod-extension-raise-height/?__cf_chl_f_tk=Zc8fQWJPDg1z4nxypf1hloBYY70_WMdZ0142yVi4_.E-1794655374-1.0.1.1-Pb1wCpmHe8RD3Zwo2EXerIZWMr4rXNgyR_6hlf6YHIE\",md: '9P19h06zt28XAuciuNtNEslStYfHQo0ixCh.yGCqijg-1794655374-1.2.1.1-WUx.vXMhfNRJah9bCJbenso5VBf13kmoaI0SXXpObF2FBX3Rs.0qFVC8bXQcwBUphsltvLMUGRGETLv.1VprvJye7LG9lq.zREkipiaHCd._hXwOqS3_asJDtVf4MmaAUCS0RRekrAS7DtnB_fHlhy1hy7gxTuB0Ukr5AZF4BHr7r24ImGT8W4hr4gP_tRwXZrqy_AHZ4JBgM2XETgRcTmj0XMzxfB2qmQ0Gs18xd9DAzi.YxmETtO1FVAAqiQcPMYyR.T9WHvoAxxxHjGzPqYJcDTGIpOFsfe.nYkWE7raepuTHLHOarHbc6_3EsqpppojER11WOzf.LnP1et96F8vvwvEAg2rvEAEPDijtL3Fvj0cxwJToNauwAee8sjiEdTR9Q2OVKF86FPd7fjD6I1ujHmqMXTHiFM3cSMV4NCaHvpak4SVaQnl_Iv2fk2mdRuB6Bz69FaYFHadpEBiU81WiE1VlyVBXwjuDyV1_4ohuWA5I4pHwQwUaqL32moo8GCtM73K0ysicSMytkgI2lHF0utPC.i8I3PGTPytedANOAdbqn8tOraFhvjy4qjV.bV3GjQhDHoBXQo3UwPfC8415.KSpm4C8xmsj2Ap1IXlNJfyJ85c7qpvFza4_YaGlx.wdprMDPZHaTaTp05Uob9vRJhfTTSc2wHEmavwomeZKcgA4MQyWF7VOsnd.iqztDgMMDg1HyMHbdggnOgESIK0PLo9RxFf4R80y5sMJMJKbDdLLF_i14NjwD8XgbMhqKQooUoDC7wq2mSknMqzcsqfxGHL2AwxjKdi755VKBebHrEPfyAAUDrPiTEbmSK9ZwBud5DCQdXGFUZNassfhOqpdS7Ocx59lIukGqRnDp0Laop1bB..QmHCBEvJ77FNMZBgQq0.KMzZ6j6WpnaO3ZH7.FQASQsuTzNl.eB1.A100HUAk23zBsDkJIihl7RYNF4R95vIYswum6QIXUQX9YpzKm_IDO04Jy36.UyAhsm2O2TEzNo3Zoh6Y1ZYaW4IJbAXKWB9SqWRx_Fd7FB5pZndminVZWhOP8EjMgU4Jvq_qp1IxCdLYkFaz67VDrhS1Bi39fZtX2gHausy1DNdLJZ8UDGGfy84M2avx20e4XMZNwMWIJaN4Dr8NK44.AcdK2k1ef7WLw3Z_qArpdweY7A',mdrd: 'c0s_mXcjRfoHZDiJOiv4kYU_Tp8T604pNASyvNJ6.wM-1794655374-1.2.1.1-ZqpRRFwpWxgxjyO5M3DWifwoHD1qDkjwbRHrSi2nURhtLaOiMYXCq3S3.KDG6LS04HghFGwZUkWmSRB8fX4PHdJ63zVyw7ZF_tchh2blf2fJti5mzbAMMM0cHfrJ2vkqBopl0frC5DK_hh6hjzOKTK6HwvYZYFGy46Rziv4rkxWWoNWgtEMWNd5FNO7FSJaUhDKzXwcgV2Voq4rpoVCBSrVEn_6sR9z3jDJwI29ML7kall9374nnMecOaWxm8WcXDdfwE_SWNgOSmdI_H3hpCQ',};var a = document.createElement('script');a.nonce = 'MAttqrYvdfAQiTXmn4qgAL';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5a5a41ace698846';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/topic/188334-tripod-extension-raise-height/?__cf_chl_rt_tk=Zc8fQWJPDg1z4nxypf1hloBYY70_WMdZ0142yVi4_.E-1794655374-1.0.1.1-Pb1wCpmHe8RD3Zwo2EXerIZWMr4rXNgyR_6hlf6YHIE\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://www.bhphotovideo.com/c/product/1583060-REG/leofoto_add_on_column_dc_282c.html: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-ouM0j6mcCSNsb2QJW7KV1C&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"ouM0j6mcCSNsb2QJW7KV1C\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'xG9So2tsc0gnHJ_rrnBlyELTu9JO0.w4C__ugaICxYY-1794655377-1.2.1.1-G3bukjL0k82z10d4Nm5dpYEl9.y2r3OS91SlS4QW9L.SEzDKHzBDDe8lEhYbWegf',cITimeS: '1794655377',cN: 'ouM0j6mcCSNsb2QJW7KV1C',cRay: 'a5a5a42cbceda124',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/c/product/1583060-REG/leofoto_add_on_column_dc_282c.html?__cf_chl_tk=WvyDRraxa.ddVn.opZw7GirpdFYASJV5ycRQMFoIJ6M-1794655377-1.0.1.1-eoKknBoCrg7nm1rhO5xWSEgMlngxPRMAjabMldPmUmE\",cvId: '3',cZone: 'www.bhphotovideo.com',fa:\"/c/product/1583060-REG/leofoto_add_on_column_dc_282c.html?__cf_chl_f_tk=WvyDRraxa.ddVn.opZw7GirpdFYASJV5ycRQMFoIJ6M-1794655377-1.0.1.1-eoKknBoCrg7nm1rhO5xWSEgMlngxPRMAjabMldPmUmE\",md: '5U4qYckQBqNeYrijnU.VTrHJ2hfh2NFGMEvfQF.UXgA-1794655377-1.2.1.1-y_0OLMN2BZ2kBlsECLMnjc9MibO0mgHN5jv.93B5.a8X3X2FEv9VBqRDyyACD_cCaawJJ4aDfREdSN4HJhXfR0hex4L1bPyA_xdDnoNhP3kG6LP4wycZYniv0jHFApOdNtBF_pQSWLvxKFvW26IJeRAYwH_lnguMgGkRwHM9r4noCmfl27bNL07awwJFXBXZzPDApqBwvRghNzURaC3azdkyxVmXPyCWWmLOG3i56ORuElO_wRgQbN7CC05dIW1PkQcq6CbNn6uwCFy5meMf0WMJy01ejyuUklX.5ZKyI6_PQi22AFlGJH4qgB8Ul3erP6hWsQKq27OTSbmWbmkz6hYQs5Xg1F7V8uW3Fngb2qVTlR2d38Oft_AMO52i8OZITNSW77Cmb7fctNWkhSDH05iOxoFo4L8PFC62gHvSIpf_oQOz.FkfGCQQyVOSk5Hu1vvzyQA0H1IvWbAu9ZmZvSOdrm.u7YWhM1aEjFwfGOC8yBRrz_QTht0o1hfR1poujCb1oPt76TyLCEzfuNg99Xv0LjwROl0Zrfx_0tF6PeyJa5Ciba_ZeLWDHNtr7eU8sciFgiXk0mGpk903GWXTDPRb0zP6ih_QXREo8NtmahODChLdq_6jSyRe1WUI8xgPbJhyHO2V6eG4kEGHhy7dHF3NOZKbVD5eUzyc_bUrZ_UyzxGOo698XYIXOr.DVshVbEPRnykUUN7x7gYnSyUJpq8Ps8A89KDmdA.VDtK2Uijt_blICEDQvOh3GDDNocTtU_9os7DVr.I8OxSZVymKttpCwSQja.JBDkxkSnxCNBGrpSI93Uib_5vbbIJdIPcPbpJ8gCH7UfO5yB0SHDh5LX3WCLfvftnHfltAtXXKRpnDieKdTKkdJiypxg8RvkjE1W4xOOJIGxZYhPcesnd3dFAmsljU7JTA0.38BAHJYiWD6B0VtDdY625EBzkirH5PdVwwmMRzc7rGQ8spgF2PMNiO670P0_uH2Q3yHF4.dynkB5180HzWnEVRfvrYIMeJE3.zqMmLOR4sjhr0yLIUPGIExSNCIN7rtnHuwMb2EstTf48dYDFBh.YGewFjmx9ulS6sL1r7nxKYI6aLCFbF79NtyHUhuTTZXelkSY2o8pI_9e7bcUlrA9YRfCIOXCzUDaRj0FdHOx1MvTj2VRfO079s2UAFR_dRzVtkbY8rqCE',mdrd: 'eDjwZBgWw7ueUNdORk3vF7gcS_3hlTwueNNpcy.5Iuo-1794655377-1.2.1.1-PTYEvxfDTFIMTVC79anoZSPaImn4udVj4HIyv6nglrn6qcRl3P2WDvKwVTGwvWVRURtXscOTatNmR.QPS5UZkY_i38BdrCVTrDnbKaaTqOOYphiZzEGgcxnrloEDiNoUy4OVkTEnA96uJHZUtmeqwBPcfQVkZ1afrheIhXveVfmyYEXpo9a5xMX85dwlXOxGDQbsFf9JsfNg6TeVHGcrx52md6lqD6T7CsgQLkvjapfhreutOfI0Cc2LBucgf2ZuekMi4HwUpyCGinsX74S5sg',};var a = document.createElement('script');a.nonce = 'ouM0j6mcCSNsb2QJW7KV1C';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5a5a42cbceda124';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/c/product/1583060-REG/leofoto_add_on_column_dc_282c.html?__cf_chl_rt_tk=WvyDRraxa.ddVn.opZw7GirpdFYASJV5ycRQMFoIJ6M-1794655377-1.0.1.1-eoKknBoCrg7nm1rhO5xWSEgMlngxPRMAjabMldPmUmE\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://www.cloudynights.com/forums/topic/777044-tripod-stability-tripod-extension-or-extend-the-legs/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-jOBpQ1AlxkpfEnrTIYcHA5&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"jOBpQ1AlxkpfEnrTIYcHA5\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'jqbmaMSJMgDMAW1WUqVGkcBrA.UZiGCrah_blHN8a.4-1794655380-1.2.1.1-toBrQhBZTw5bFVHnRcWw7rmnRUIdWuKFM19oqr_CK0ciKZtDB.Xhh72oydGV4s0H',cITimeS: '1794655380',cN: 'jOBpQ1AlxkpfEnrTIYcHA5',cRay: 'a5a5a4421e74966d',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/topic/777044-tripod-stability-tripod-extension-or-extend-the-legs/?__cf_chl_tk=vyIp9o9d4koZfoun0TmcVO_oX9HUaiVvxHxBxMaRyVU-1794655380-1.0.1.1-xTjf.q5YRxZolJMaQwrZB1CEXhmwltdmi_g25Jhr8sw\",cvId: '3',cZone: 'www.cloudynights.com',fa:\"/forums/topic/777044-tripod-stability-tripod-extension-or-extend-the-legs/?__cf_chl_f_tk=vyIp9o9d4koZfoun0TmcVO_oX9HUaiVvxHxBxMaRyVU-1794655380-1.0.1.1-xTjf.q5YRxZolJMaQwrZB1CEXhmwltdmi_g25Jhr8sw\",md: '1c3oMYbyMRBNEiRlenM4ReQWV2nBCBfC_AapffG8Mcs-1794655380-1.2.1.1-ynWUcSBfdyMPf4Sx_IckPMhsDri1_Twtw7ipC9Q__yhO.e7QROZ8k5PmPlX6LgP3W8q1_u40TeXfqa1ZBL89oDNpi4HPvWAr98ccH3cFZQyoftZCtq..xWmSb0xdlgLIKQKC6OAznpZmBqmLoixEZ68EAjdE5o7qvFQwMY0oOiaUEC9a4BEtIYxS.x5V5AgaWVIhnExItBTEtj5ibRt1_zDQCunzzPO4_QE_8Qrw6dwRhQ8m30zJ7N7iN5Hg5rCsLDudXjfaf7wEdNWeY3uhZ36LzCun3O7To.flcFceplHWAdQpWrWYcNNjFpuW73kSOQt45CI3gm4_9WNofnuemZIcs5BhBLeT9uMRMKvLMnW988fD5i8_8.ozr9o69VnucUy06rJOfB2t.azYiuwgX8.O1MdNmKIQfSczVpcoU5J6loYtjqDyZ.UOa8e1ltKL7tJxLN5NbcaE04mBM9eVIKFOXm0rZQF711tbB_HVXjvMK5ZF4XBTk.fVjlCDWBPd4hPohN7JgF5ayFl1wlxVCIP8VJnh9V0i1raRsBuZmHMkWSAsi1q_o732UwVjywDw7rYNvjsSA55N2BKQU92FoRTsxgSENFHoOu4hkmzE6FO3DKT0kkzelt5031CDPiUPS8cZgYsS8x_WM6.8OpFSlLHkCvWggjmy5tdVO1aAG6ru6eKLpQK.cHJ.J8qHnhm4FFylXo6TJ9ttyjBbCRkplNZfta7gUtoZKJl7HDppR2m.HVSXTJe10khUHkufFxiEONTwP2utOoAzSi5T2qn.1DasrLbFrpWxtectu_JEpDaVeQ9AY1c9sR7Ye3.1F2v1zWvRtt2tjoCf3rhsjDEeQQQ.W81E3KaPpD.h90Q9XbV8oAoxJjEngEZ_daoaHajcKnREk0gWSxKePR7Oo6F5t6reCoK6SFyLJSqE1RkjCTSZ6VQQr_iY2PxsUcUgnoB71tpEsyvyrDDMGbulOGicepIvupNBahr_paU_DODBJvgZDoNEVNfmr.CSjOUxfWzka0ttOMihoZNZIDJ5qjYfPaTe.eP036bi59SrF1o7qMI8AhMTQEuhDK5XOG5Lwzgc.fgvxT7XRmYlccCwUhaICn72ca5Cn3ClkCaXnNSL6hrYfmmQ5s_C30gbUgtSjR71zkpXNB5VZw7FmQe5Dv3LlkDoOMQFt8eZpCrS_Wo8YOSAuaL6uKy5UJ7E.cmjvBKA',mdrd: 'c85X0nZZz1PLf8LxClJn1yqd8gXHSKWXiEAsct5Pdrg-1794655380-1.2.1.1-ljGoUK4rHnNn2x1672swP2WGk8lOdBljIXvzvdhjlBgBeI1FGwWSVRIdRtWwcBWCYT9TTEqK6pUxU5EYjgfA0gGOfSP1LpcDmxV5tVBH929hLJmO3uuumpCwGAGbxmpTFk9WPfvAnF71i7EeuKV3lOU8kSqHckPhtQ3FeFDm4eMbWld1SEhOHCaxoYX1LdecNg_pHbtfGXQJEgqQKBKc6qLuIC6BFgezXtuSLJG7y9M8Esarx6gt0hZfAHrNqyCdmtOyBJbfzSQ8WjX3x9CN.Q',};var a = document.createElement('script');a.nonce = 'jOBpQ1AlxkpfEnrTIYcHA5';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5a5a4421e74966d';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/topic/777044-tripod-stability-tripod-extension-or-extend-the-legs/?__cf_chl_rt_tk=vyIp9o9d4koZfoun0TmcVO_oX9HUaiVvxHxBxMaRyVU-1794655380-1.0.1.1-xTjf.q5YRxZolJMaQwrZB1CEXhmwltdmi_g25Jhr8sw\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}
