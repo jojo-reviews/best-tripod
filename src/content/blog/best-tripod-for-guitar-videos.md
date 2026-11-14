@@ -484,8 +484,9 @@ faqs:
   - q: How do I get good audio in guitar videos recorded on a phone?
     a: >-
       Record the sound on a separate recorder, or run a cable from an audio
-      interface into the phone, and sync it to the video. Virtual Guitar Orchestra places the recorder about 40 cm from
-      the guitar, pointing at the 12th fret.
+      interface into the phone, and sync it to the video. Virtual Guitar
+      Orchestra places the recorder about 40 cm from the guitar, pointing at the
+      12th fret.
 illustrations:
   - prompt: >-
       A seated person holding an acoustic guitar on a wooden chair in a bright
@@ -520,8 +521,10 @@ videos:
     afterHeading: 4
 heroImage: /images/featured/best-tripod-for-guitar-videos.png
 heroAlt: >-
-  Best Tripod for Guitar Videos – 6 Picks by Camera Angle – Best Tripod
-  buying guide
+  Best Tripod for Guitar Videos – 6 Picks by Camera Angle – Best Tripod buying
+  guide
+related:
+  - best-tripod-for-cooking-videos
 ---
 
 The best tripod for guitar videos holds your smartphone or camera at seated eye level, keeps your face and both hands in frame and stays still for a whole take. For an iPhone I pick the [KraftGeek JustTap](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote); for a camera, or the steadiest seated shot, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head). I sorted six tripods by the camera angle a guitarist films, from maker specs and owner reports. Camera shooters can also compare our [tripods for YouTube videos](/blog/best-tripod-for-youtube-videos/).

@@ -1,0 +1,955 @@
+{
+  "centralEntity": "tripod for cooking videos",
+  "entityVariants": [
+    "cooking video tripod",
+    "overhead tripod for cooking videos",
+    "phone tripod for cooking videos",
+    "tripod for recipe videos",
+    "overhead camera rig for food videos"
+  ],
+  "entities": [
+    {
+      "name": "tripod",
+      "type": "camera support",
+      "relation": "the product type compared (TextRazor: Tripod (photography))",
+      "salience": 0.87,
+      "pages": 4
+    },
+    {
+      "name": "camera",
+      "type": "device",
+      "relation": "what the tripod or overhead platform holds over the food",
+      "salience": 0.77,
+      "pages": 5
+    },
+    {
+      "name": "iPhone",
+      "type": "device",
+      "relation": "the phone most food creators film with; needs a clamp up to 3.9 in wide",
+      "salience": 0.92,
+      "pages": 2
+    },
+    {
+      "name": "smartphone",
+      "type": "device",
+      "relation": "phone filming needs an overhead phone stand rather than a camera tripod",
+      "salience": 0.57,
+      "pages": 2
+    },
+    {
+      "name": "food photography",
+      "type": "genre",
+      "relation": "the stills genre whose 90-degree-column tripods also serve cooking videos",
+      "salience": 0.55,
+      "pages": 2
+    },
+    {
+      "name": "food blogging",
+      "type": "activity",
+      "relation": "the creators who publish recipe video gear lists",
+      "salience": 0.53,
+      "pages": 2
+    },
+    {
+      "name": "gear",
+      "type": "category",
+      "relation": "recipe video gear lists are where top results name tripods",
+      "salience": 0.4,
+      "pages": 2
+    },
+    {
+      "name": "angle",
+      "type": "attribute",
+      "relation": "overhead, 45-degree and side angles decide the support type",
+      "salience": 0.37,
+      "pages": 2
+    },
+    {
+      "name": "Instagram",
+      "type": "platform",
+      "relation": "Reels drive the demand for overhead phone video",
+      "salience": 0.43,
+      "pages": 2
+    },
+    {
+      "name": "center column",
+      "type": "tripod part",
+      "relation": "a 90-degree or multi-angle column turns a floor tripod into an overhead arm",
+      "salience": 0.5
+    },
+    {
+      "name": "ball head",
+      "type": "tripod head",
+      "relation": "points the camera straight down from a horizontal column",
+      "salience": 0.4
+    },
+    {
+      "name": "counter",
+      "type": "surface",
+      "relation": "a 36 in work surface sets how tall a floor tripod must be",
+      "salience": 0.5
+    },
+    {
+      "name": "Arkon",
+      "type": "brand",
+      "relation": "maker of the Remarkable Creator Pro overhead phone stand",
+      "salience": 0.5
+    },
+    {
+      "name": "Glide Gear",
+      "type": "brand",
+      "relation": "maker of the OH100 overhead camera platform",
+      "salience": 0.4
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 055 and 190XPRO 90-degree-column tripods",
+      "salience": 0.5
+    },
+    {
+      "name": "Vanguard",
+      "type": "brand",
+      "relation": "maker of the Alta Pro 2+ multi-angle column tripod",
+      "salience": 0.4
+    }
+  ],
+  "attributes": [
+    "height above the counter",
+    "max height from the floor",
+    "height with center column down",
+    "arm or column reach",
+    "load capacity",
+    "phone clamp width",
+    "leg lock type (flip vs twist)",
+    "center column type (90-degree, multi-angle)",
+    "head included",
+    "footprint on the counter",
+    "counterweight"
+  ],
+  "ngrams": [
+    "tripod for cooking videos",
+    "overhead shots",
+    "recipe videos",
+    "phone tripod",
+    "center column",
+    "ball head",
+    "overhead arm",
+    "cooking videos",
+    "food videos",
+    "phone holder",
+    "quick release plate",
+    "overhead phone mount",
+    "top down"
+  ],
+  "skipgrams": [
+    "tripod…cooking videos",
+    "overhead…shots",
+    "center…column",
+    "phone…mount",
+    "camera…counter",
+    "horizontal…column",
+    "flip…locks",
+    "recipe…videos"
+  ],
+  "nlpTerms": [
+    "overhead",
+    "top-down",
+    "countertop",
+    "stove",
+    "cutting board",
+    "steam",
+    "chopping",
+    "boom arm",
+    "counterweight",
+    "flat lay",
+    "reels",
+    "hands-free",
+    "wobble",
+    "sandbag",
+    "clamp",
+    "sled",
+    "crossbar",
+    "flip locks",
+    "twist locks",
+    "fluid head"
+  ],
+  "questions": [
+    {
+      "q": "What kind of tripod do you need for cooking videos?",
+      "mapsTo": "FAQ",
+      "answerTerms": [
+        "overhead",
+        "center column",
+        "phone",
+        "counter"
+      ]
+    },
+    {
+      "q": "Can I use a regular tripod for overhead cooking videos?",
+      "mapsTo": "FAQ",
+      "answerTerms": [
+        "90-degree column",
+        "horizontal",
+        "ball head",
+        "counterweight"
+      ]
+    },
+    {
+      "q": "How tall should a tripod be for cooking videos?",
+      "mapsTo": "How to Choose a Tripod for Cooking Videos / FAQ",
+      "answerTerms": [
+        "36 inches",
+        "65 to 75 inches",
+        "max height",
+        "counter"
+      ]
+    },
+    {
+      "q": "What is the best phone tripod for cooking videos?",
+      "mapsTo": "FAQ",
+      "answerTerms": [
+        "overhead phone mount",
+        "free-standing base",
+        "3.9 in",
+        "arm"
+      ]
+    },
+    {
+      "q": "Does an overhead tripod shake when you chop?",
+      "mapsTo": "Cooking Video Tripod Problems and Fixes / FAQ",
+      "answerTerms": [
+        "base",
+        "counter",
+        "vibration",
+        "floor"
+      ]
+    },
+    {
+      "q": "Overhead stand vs tripod with a horizontal column for cooking videos",
+      "mapsTo": "Cooking Video Tripod Comparison by Height Over the Counter",
+      "answerTerms": [
+        "counter",
+        "floor",
+        "height",
+        "column"
+      ]
+    },
+    {
+      "q": "Which tripod is good for cooking videos with a camera?",
+      "mapsTo": "Which Tripod for Cooking Videos Should You Get?",
+      "answerTerms": [
+        "camera",
+        "platform",
+        "load",
+        "head"
+      ]
+    }
+  ],
+  "contentGaps": [
+    "No top result compares height above the counter: tabletop stands (17-29 in arm, 12-27 in camera bar) against floor tripods with the column swung flat over a 36 in counter",
+    "No top result separates phone rigs from camera rigs with load and clamp numbers",
+    "Tipping with a horizontal column and how to place the legs",
+    "Flip locks vs twist locks with messy hands, per pick",
+    "What owners say goes wrong: height limits, ball head controls, quality checks"
+  ],
+  "outline": [
+    {
+      "h2": "Cooking Video Tripod Comparison by Height Over the Counter",
+      "intent": "direct answer, comparison table on the deciding spec",
+      "h3": []
+    },
+    {
+      "h2": "How I Picked These Cooking Video Tripods",
+      "intent": "method, evidence, From our notes, video",
+      "h3": []
+    },
+    {
+      "h2": "The 5 Best Tripods for Cooking Videos",
+      "intent": "product reviews with named owner voices",
+      "h3": [
+        "ARKON Mounts Remarkable Creator Pro Overhead Phone Mount (HD8RV29)",
+        "Glide Gear OH100 Overhead Camera Platform",
+        "Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)",
+        "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+        "Vanguard Alta Pro 2+ 263AB G2"
+      ]
+    },
+    {
+      "h2": "Cooking Video Tripod Problems and Fixes",
+      "intent": "pain points answered with fixes",
+      "h3": [
+        "A tripod standing on the counter tips",
+        "Cheap overhead phone tripods break",
+        "A horizontal column has no counterweight hook",
+        "The overhead rig is too low for a wide shot"
+      ]
+    },
+    {
+      "h2": "How to Choose a Tripod for Cooking Videos",
+      "intent": "numbered buying steps",
+      "h3": []
+    },
+    {
+      "h2": "Which Tripod for Cooking Videos Should You Get?",
+      "intent": "chooser block, next-question links",
+      "h3": []
+    }
+  ],
+  "targetWords": 1400,
+  "serpStructure": {
+    "analyzedUrls": [
+      "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+      "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+      "https://wildflourmedia.com/blog/recipe-video-gear",
+      "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+      "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/",
+      "https://twolovesstudio.com/blog/quick-food-photography-tripod-guide/"
+    ],
+    "productStyle": "paragraph",
+    "productStyleReason": "The Little Plantation, Food Blogger Pro, Wild Flour Media and Food Photography Blog each describe a product in a short paragraph or bullet sentence; none shows pros/cons lists or spec tables.",
+    "avgWords": 1285,
+    "avgWordsNote": "The Little Plantation about 450, Food Blogger Pro about 2,330, Wild Flour Media about 910, Food Photography Blog about 2,056, Regan Baroni about 680 (Two Loves Studio about 285, not counted).",
+    "avgProducts": 4,
+    "commonSections": [
+      "what I use and why",
+      "overhead options",
+      "side-angle options",
+      "phone holder or mount",
+      "tripod features to look for"
+    ],
+    "usesComparisonTable": false,
+    "usesFaq": false,
+    "usesBuyingGuide": true
+  },
+  "serpTitles": [
+    {
+      "position": 1,
+      "url": "https://www.amazon.com/tripod-cooking-videos/s?k=tripod+for+cooking+videos",
+      "title": "Tripod For Cooking Videos"
+    },
+    {
+      "position": 2,
+      "url": "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+      "title": "THE BEST PHONE CAMERA TRIPODS - A REVIEW FOR ..."
+    },
+    {
+      "position": 3,
+      "url": "https://www.reddit.com/r/videography/comments/1se19t3/total_noob_decent_tripod_for_filming_cooking/",
+      "title": "decent tripod for filming cooking videos in my own kitchen?"
+    },
+    {
+      "position": 4,
+      "url": "https://www.youtube.com/watch?v=-eEyua0aGzc",
+      "title": "The BEST Tripod For Cooking Videos"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/CottageFoodBusiness/posts/1952882401989136/",
+      "title": "Tripod for overhead recipe video recording?"
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=-qidt1vTFfM",
+      "title": "Best Tripod For Cooking Videos With Light"
+    },
+    {
+      "position": 7,
+      "url": "https://www.bestbuy.com/site/shop/phone-tripod-for-food-photography",
+      "title": "Phone Tripod For Food Photography"
+    },
+    {
+      "position": 8,
+      "url": "https://www.scoolinary.com/forums/discussion/tripod-recommendation-please",
+      "title": "Tripod recommendation please?"
+    },
+    {
+      "position": 9,
+      "url": "https://www.youtube.com/watch?v=zOpkgZUtnoY",
+      "title": "Cooking Channel Best Tripods For Beginners"
+    },
+    {
+      "position": 10,
+      "url": "https://techenclave.com/t/basic-beginner-tripod-for-content-creation-food-and-product-still-shoots/269022",
+      "title": "Basic beginner tripod for content creation (food and ..."
+    }
+  ],
+  "titlePattern": {
+    "keywordAtStart": 1,
+    "withYear": 0,
+    "withNumber": 0,
+    "commonModifiers": [
+      "overhead",
+      "phone",
+      "food",
+      "beginner",
+      "with light"
+    ],
+    "gap": "No top result is a written roundup that sorts picks by overhead versus side angle and by phone versus camera, with height over the counter."
+  },
+  "commonPoints": [
+    "A tripod or stand is essential so food footage is not shaky",
+    "Overhead (top-down) shots are the signature recipe video angle and need an arm, platform or a center column that swings horizontal",
+    "Food creators use more than one support: an overhead rig plus a small or regular tripod for side angles",
+    "A phone needs a separate phone holder or mount on a 1/4 in thread",
+    "Manfrotto tripods with a 90-degree center column are the food photography standard for overhead work"
+  ],
+  "ourGain": [
+    {
+      "type": "analysis",
+      "point": "Height above the food per pick: Arkon arm 17-29 in, Glide Gear camera bar 12-27 in, and floor tripods whose column-down height (55.1, 57.68 and 55.6 in) leaves about 19 to 22 in over a 36 in counter",
+      "source": "https://arkon.com/products/remarkable-creator-pro-mount; https://glidegear.net/products/glide-gear-oh100-professional-metal-overhead-table-top-mount-stand-studio-video-camera-top-down-platform; https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/; https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html",
+      "absentFrom": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/"
+      ]
+    },
+    {
+      "type": "decision",
+      "point": "Chooser by device and angle: phone overhead (Arkon), camera overhead on the counter (Glide Gear), heavy camera from the floor (055), kit with head (190XPRO), any angle between flat and upright (Alta Pro 2+)",
+      "source": "maker specs and the named owner reviews in this post",
+      "absentFrom": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "A tripod with the column swung out tips: keep it on the floor, point one leg under the camera and weight that leg; a B&H owner broke the 190 kit plate lever when it fell",
+      "source": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/; https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html/reviews",
+      "absentFrom": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/"
+      ]
+    },
+    {
+      "type": "situation",
+      "point": "Overhead platforms run out of height for wide shots: owners of the Glide Gear OH100 wish it went higher; mount the sled above the crossbar, use a wider lens or move to a floor tripod",
+      "source": "https://www.bhphotovideo.com/c/product/1335754-REG/glide_gear_oh_100_adjustable_overhead_camera_platform.html/reviews; https://glidegear.net/products/glide-gear-oh100-professional-metal-overhead-table-top-mount-stand-studio-video-camera-top-down-platform",
+      "absentFrom": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/"
+      ]
+    },
+    {
+      "type": "analysis",
+      "point": "Flip locks (Manfrotto 055 and 190) versus twist locks (Alta Pro 2+) when your hands are messy mid-recipe",
+      "source": "https://www.youtube.com/watch?v=-eEyua0aGzc; https://www.bhphotovideo.com/c/product/1934043-REG/vanguard_alta_pro_2_263ab.html/reviews",
+      "absentFrom": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/",
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/"
+      ]
+    }
+  ],
+  "painPoints": [
+    {
+      "id": "video-tripods-youtube-overhead-tipping",
+      "pain": "Overhead desk shots need height, and a tripod perched on a table tips",
+      "details": "YouTubers filming unboxing, art or cooking from above stand a fully extended tripod on the table to get height and end up with legs at the edge; owners put the weight over one leg.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/ejyk29/what_would_you_use_to_mount_a_camera_for_overhead/",
+        "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/"
+      ],
+      "quotes": [
+        {
+          "text": "Align the boom arm over a tripod leg, and put the weight on that leg.",
+          "url": "https://www.reddit.com/r/synthesizers/comments/182wb5a/what_do_you_use_to_record_your_top_down_videos/"
+        }
+      ]
+    },
+    {
+      "id": "phone-tripods-overhead-unboxing",
+      "pain": "Overhead shots for unboxing, recipes and study vlogs tip or break cheap tripods",
+      "details": "Creators filming top-down product or food clips report tripods breaking or tipping when angled over a desk, and ask r/videography and r/foodphotography for overhead rigs.",
+      "sources": [
+        "https://www.reddit.com/r/videography/comments/1ef7bj1/what_is_a_good_overhead_tripod_for_iphone_the/",
+        "https://www.reddit.com/r/foodphotography/comments/1hzpmya/overhead_phone_mounttripod_suggestions/"
+      ],
+      "quotes": []
+    },
+    {
+      "id": "camera-tripods-horizontal-column-counterweight",
+      "pain": "A horizontal column is hard to balance because there is nowhere to hang a counterweight on the far end",
+      "details": "With the camera swung out to the side the tripod gets top-heavy; a leg goes under the camera instead.",
+      "sources": [
+        "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+      ],
+      "quotes": [
+        {
+          "text": "the serious defect of not putting hooks at the non-camera end of the center column",
+          "url": "https://photo.stackexchange.com/questions/33673/which-tripod-should-i-get-for-macro-photography"
+        }
+      ]
+    },
+    {
+      "id": "cooking-videos-overhead-rig-too-low",
+      "pain": "A tabletop overhead rig is not tall enough for a wide shot of the whole board or stove",
+      "details": "B&H buyers of the Glide Gear OH 100 wish the height went higher; a small tabletop tripod is not enough for overhead chopping shots, per an r/videography cooking thread.",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1335754-REG/glide_gear_oh_100_adjustable_overhead_camera_platform.html/reviews",
+        "https://www.reddit.com/r/videography/comments/1se19t3/total_noob_decent_tripod_for_filming_cooking/"
+      ],
+      "quotes": [
+        {
+          "text": "My only complaint is I wish you could adjust the height to go a little bit higher.",
+          "url": "https://www.bhphotovideo.com/c/product/1335754-REG/glide_gear_oh_100_adjustable_overhead_camera_platform.html/reviews"
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "number": "17\" to 29\"",
+      "claim": "Arkon Remarkable Creator Pro arm height range",
+      "url": "https://arkon.com/products/remarkable-creator-pro-mount",
+      "quote": "Extendable arm from 17\" to 29\" provides perfect overhead and eye-level shots"
+    },
+    {
+      "number": "3.9\"",
+      "claim": "Widest phone the Arkon holder takes",
+      "url": "https://arkon.com/products/remarkable-creator-pro-mount",
+      "quote": "securely holds smartphones with cases up to 3.9\" wide"
+    },
+    {
+      "number": "12\" to 27\"",
+      "claim": "Glide Gear OH 100 camera bar height range",
+      "url": "https://glidegear.net/products/glide-gear-oh100-professional-metal-overhead-table-top-mount-stand-studio-video-camera-top-down-platform",
+      "quote": "The camera mount bar on the OH 100 allows the user to adjust the height from 12\" to 27\" with just a few turns of a screw."
+    },
+    {
+      "number": "34\"",
+      "claim": "Glide Gear OH 100 width",
+      "url": "https://glidegear.net/products/glide-gear-oh100-professional-metal-overhead-table-top-mount-stand-studio-video-camera-top-down-platform",
+      "quote": "The width of the OH 100 is 34\"."
+    },
+    {
+      "number": "57.68 in",
+      "claim": "Manfrotto MK190XPRO3-BHQ2 height with the center column down",
+      "url": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+      "quote": "Maximum Height (with Center Column Down)146.5 cm57.68 in"
+    },
+    {
+      "number": "33.07 lbs",
+      "claim": "Manfrotto MK190XPRO3-BHQ2 safety payload",
+      "url": "https://www.manfrotto.com/global-en/190-aluminium-3-section-tripod-and-xpro-ball-head-mk190xpro3-bhq2/",
+      "quote": "Safety Payload UNI/PdR 105:2021:15 kg33.07 lbs"
+    }
+  ],
+  "videos": [
+    {
+      "id": "-eEyua0aGzc",
+      "title": "The BEST Tripod For Cooking Videos",
+      "channel": "Philip Lemoine",
+      "url": "https://www.youtube.com/watch?v=-eEyua0aGzc",
+      "section": "How I Picked These Cooking Video Tripods"
+    }
+  ],
+  "serpProducts": [
+    {
+      "name": "Arkon overhead phone mount (Remarkable Creator Pro family)",
+      "pages": [
+        "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+        "https://clarelangan.substack.com/p/what-you-need-to-shoot-food-videos",
+        "https://www.foodbloggerpro.com/blog/best-tools-for-food-videos/",
+        "https://bitesbybianca.com/my-food-photography-gear-2024/",
+        "https://benable.com/immigrantstable/everything-i-use-to-shoot-the-food-photos-on-my-blog"
+      ]
+    },
+    {
+      "name": "Glide Gear OH 100 overhead camera platform",
+      "pages": [
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://www.becomebetty.com/food-blogger-resources/",
+        "https://www.foodbloggerpro.com/podcast/video-in-2019-emily-caruso/"
+      ]
+    },
+    {
+      "name": "Manfrotto 055 (MT055XPRO3) with 90-degree center column",
+      "pages": [
+        "https://reganbaroni.com/blog/photography-gear/the-best-iphone-tripod-for-food-photography/",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://www.reddit.com/r/AskPhotography/comments/1ndha3m/what_is_the_best_tripod_for_food_photography/"
+      ]
+    },
+    {
+      "name": "Manfrotto 190XPRO with ball head",
+      "pages": [
+        "https://reganbaroni.com/blog/food-photography/simple-overhead-setup-for-food-photography/",
+        "https://www.diyvideostudio.com/how-to-set-up-the-perfect-overhead-food-image-shoot-for-bloggers/",
+        "https://www.reddit.com/r/AskPhotography/comments/1ndha3m/what_is_the_best_tripod_for_food_photography/"
+      ]
+    },
+    {
+      "name": "Vanguard Alta Pro (multi-angle column; current model Alta Pro 2+ 263AB G2)",
+      "pages": [
+        "https://wildflourmedia.com/blog/recipe-video-gear",
+        "https://foodphotographyblog.com/food-photography-tripod-buying-guide/",
+        "https://www.techgearlab.com/topics/electronics/best-tripod"
+      ]
+    },
+    {
+      "name": "Not picked: JOBY GorillaPod / Manfrotto PIXI (model unclear, already in many posts)",
+      "pages": [
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/"
+      ]
+    },
+    {
+      "name": "Not picked: NEEWER Pro C-Stand with Boom Arm (one page names the model)",
+      "pages": [
+        "https://www.foodbloggerpro.com/blog/recipe-video-gear/"
+      ]
+    }
+  ],
+  "googleModifiers": [
+    "reddit",
+    "with light",
+    "iphone",
+    "overhead",
+    "phone",
+    "filming",
+    "recording",
+    "stand",
+    "camera"
+  ],
+  "googleSuggestions": [
+    "best tripod for cooking videos",
+    "best tripod for cooking videos in india",
+    "best tripod for cooking videos reddit",
+    "best tripod for cooking videos with light",
+    "best tripod for cooking videos iphone",
+    "best tripod for food videos",
+    "best tripod for baking videos",
+    "good tripod for cooking videos",
+    "best tripod for recipe videos",
+    "best tripod for cooking video shoot",
+    "best tripod for mobile for cooking videos",
+    "best tripod for iphone for cooking videos",
+    "which tripod is best for cooking videos",
+    "best tripod with ring light for cooking videos",
+    "tripod for cooking videos",
+    "tripod for cooking videos with light",
+    "tripod for cooking videos amazon",
+    "tripod for cooking videos under 300",
+    "tripod for cooking videos reddit",
+    "tripod for cooking videos nearby",
+    "which tripod is good for cooking videos",
+    "tripod for recording cooking videos",
+    "best camera tripod for cooking videos",
+    "best tripod for filming cooking videos",
+    "best iphone tripod for food videos"
+  ],
+  "amazonFilters": [
+    {
+      "group": "Brands",
+      "options": [
+        "UBeesize"
+      ]
+    },
+    {
+      "group": "Height",
+      "options": [
+        "4 in & above"
+      ]
+    },
+    {
+      "group": "Length",
+      "options": [
+        "7 in & above"
+      ]
+    },
+    {
+      "group": "Condition",
+      "options": [
+        "New",
+        "Used"
+      ]
+    },
+    {
+      "group": "Skipped (shopping-only)",
+      "options": [
+        "Eligible for Free Shipping",
+        "Delivery Day",
+        "Customer Review",
+        "Price",
+        "Deals & Discounts",
+        "Seller"
+      ]
+    }
+  ],
+  "amazonFiltersNote": "Read from https://www.amazon.com/s?k=tripod+for+cooking+videos on 2026-11-14 (Firecrawl). Only Height fits the post: it becomes the height-over-the-counter column.",
+  "ownerVoices": [
+    {
+      "product": "ARKON Mounts Remarkable Creator Pro Overhead Phone Mount (HD8RV29)",
+      "name": "Clare Langan",
+      "source": "her Substack post \"What You Need to Shoot Food Videos\"",
+      "url": "https://clarelangan.substack.com/p/what-you-need-to-shoot-food-videos",
+      "usedFor": "overhead, hands-only food videos",
+      "quote": "I have tried the table-clip versions and switched over to free-standing. They’re easier to move around and work on any surface."
+    },
+    {
+      "product": "ARKON Mounts Remarkable Creator Pro Overhead Phone Mount (HD8RV29)",
+      "name": "K J Espinel",
+      "source": "The Little Plantation blog (she reviews the Pro+Plus bundle of the same stand family)",
+      "url": "https://thelittleplantation.co.uk/blog/best-phone-tripods-holders-review-food-videos",
+      "usedFor": "phone recipe videos and overhead shots",
+      "quote": "it’s not portable and really works best when capturing closer up content"
+    },
+    {
+      "product": "Glide Gear OH100 Overhead Camera Platform",
+      "name": "Dawn",
+      "source": "verified buyer at B&H Photo (7/7/2022)",
+      "url": "https://www.bhphotovideo.com/c/product/1335754-REG/glide_gear_oh_100_adjustable_overhead_camera_platform.html/reviews",
+      "usedFor": "overhead cooking videos with an iPhone, DSLR and mirrorless camera",
+      "quote": "I struggled to get good overhead shots which made my cooking videos look cheesy"
+    },
+    {
+      "product": "Glide Gear OH100 Overhead Camera Platform",
+      "name": "Eric",
+      "source": "verified buyer at B&H Photo (4/27/2022)",
+      "url": "https://www.bhphotovideo.com/c/product/1335754-REG/glide_gear_oh_100_adjustable_overhead_camera_platform.html/reviews",
+      "usedFor": "overhead shooting",
+      "quote": "My only complaint is I wish you could adjust the height to go a little bit higher."
+    },
+    {
+      "product": "Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)",
+      "name": "Shawn",
+      "source": "verified buyer at B&H Photo (7/8/2026)",
+      "url": "https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html/reviews",
+      "usedFor": "replacing a Manfrotto 055 he had used since 1986",
+      "quote": "the horizontal center post is brilliant"
+    },
+    {
+      "product": "Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)",
+      "name": "Bryan",
+      "source": "verified buyer at B&H Photo (4/27/2026)",
+      "url": "https://www.bhphotovideo.com/c/product/1034139-REG/manfrotto_mt055xpro3_aluminum_tripod.html/reviews",
+      "usedFor": "tripod legs",
+      "quote": "I had to go through 2 tripods before receiving my 3rd tripod that was acceptable."
+    },
+    {
+      "product": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "name": "Jenny",
+      "source": "verified buyer at B&H Photo (8/8/2023)",
+      "url": "https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html/reviews",
+      "usedFor": "studio work, shooting down",
+      "quote": "The top pulls up, out, down and level, for shooting down."
+    },
+    {
+      "product": "Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)",
+      "name": "John",
+      "source": "verified buyer at B&H Photo (12/4/2025)",
+      "url": "https://www.bhphotovideo.com/c/product/1162344-REG/manfrotto_mk190xpro3_bhq2_aluminum_tripod_with.html/reviews",
+      "usedFor": "general use",
+      "quote": "(paraphrase) the ball head is so short that its controls interfere with each other"
+    },
+    {
+      "product": "Vanguard Alta Pro 2+ 263AB G2",
+      "name": "William",
+      "source": "verified buyer at B&H Photo (9/15/2026)",
+      "url": "https://www.bhphotovideo.com/c/product/1934043-REG/vanguard_alta_pro_2_263ab.html/reviews",
+      "usedFor": "an Olympus camera",
+      "quote": "the rotating telescoping arm makes this very versatile"
+    },
+    {
+      "product": "Vanguard Alta Pro 2+ 263AB G2",
+      "name": "Gregory",
+      "source": "verified buyer at B&H Photo (8/9/2026)",
+      "url": "https://www.bhphotovideo.com/c/product/1934043-REG/vanguard_alta_pro_2_263ab.html/reviews",
+      "usedFor": "using the center column as a horizontal arm",
+      "quote": "(paraphrase) the black line on the black twist locks is hard to see at a glance"
+    }
+  ],
+  "textrazor": {
+    "keyword": "best tripod for cooking videos",
+    "pagesAnalyzed": 5,
+    "sharedEntities": [
+      {
+        "entity": "Camera",
+        "type": "/fictional_universe/character_species",
+        "pages": 5,
+        "relevance": 0.77,
+        "wiki": "http://en.wikipedia.org/wiki/Camera",
+        "wikidata": "Q15328",
+        "kgmid": "/m/0dv5r"
+      },
+      {
+        "entity": "Tripod (photography)",
+        "type": "",
+        "pages": 4,
+        "relevance": 0.87,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+        "wikidata": "Q683906",
+        "kgmid": "/m/073bxn"
+      },
+      {
+        "entity": "Photography",
+        "type": "/broadcast/genre",
+        "pages": 3,
+        "relevance": 0.38,
+        "wiki": "http://en.wikipedia.org/wiki/Photography",
+        "wikidata": "Q11633",
+        "kgmid": "/m/05wkw"
+      },
+      {
+        "entity": "IPhone",
+        "type": "Device",
+        "pages": 2,
+        "relevance": 0.92,
+        "wiki": "http://en.wikipedia.org/wiki/IPhone",
+        "wikidata": "Q2766",
+        "kgmid": "/m/027lnzs"
+      },
+      {
+        "entity": "Gear",
+        "type": "/business/product_category",
+        "pages": 2,
+        "relevance": 0.87,
+        "wiki": "http://en.wikipedia.org/wiki/Gear",
+        "wikidata": "Q143873",
+        "kgmid": "/m/0l7xg"
+      },
+      {
+        "entity": "Tripod",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.72,
+        "wiki": "http://en.wikipedia.org/wiki/Tripod",
+        "wikidata": "Q1444534",
+        "kgmid": "/m/0119d4g8"
+      },
+      {
+        "entity": "Image",
+        "type": "/book/book_subject",
+        "pages": 2,
+        "relevance": 0.63,
+        "wiki": "http://en.wikipedia.org/wiki/Image",
+        "wikidata": "Q478798",
+        "kgmid": "/m/0jg24"
+      },
+      {
+        "entity": "Smartphone",
+        "type": "/book/book_subject",
+        "pages": 2,
+        "relevance": 0.57,
+        "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+        "wikidata": "Q22645",
+        "kgmid": "/m/0169zh"
+      },
+      {
+        "entity": "Food photography",
+        "type": "/book/book_subject",
+        "pages": 2,
+        "relevance": 0.55,
+        "wiki": "http://en.wikipedia.org/wiki/Food_photography",
+        "wikidata": "Q1321148",
+        "kgmid": "/m/02p86fd"
+      },
+      {
+        "entity": "Food blogging",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.53,
+        "wiki": "http://en.wikipedia.org/wiki/Food_blogging",
+        "wikidata": "Q24977398"
+      },
+      {
+        "entity": "Canon Inc.",
+        "type": "Agent",
+        "pages": 2,
+        "relevance": 0.52,
+        "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+        "wikidata": "Q62621",
+        "kgmid": "/m/01bvx1"
+      },
+      {
+        "entity": "Camera phone",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.51,
+        "wiki": "http://en.wikipedia.org/wiki/Camera_phone",
+        "wikidata": "Q210820",
+        "kgmid": "/m/0316cs"
+      },
+      {
+        "entity": "Instagram",
+        "type": "Work",
+        "pages": 2,
+        "relevance": 0.43,
+        "wiki": "http://en.wikipedia.org/wiki/Instagram",
+        "wikidata": "Q209330",
+        "kgmid": "/m/0glpjll"
+      },
+      {
+        "entity": "Autofocus",
+        "type": "/law/invention",
+        "pages": 2,
+        "relevance": 0.42,
+        "wiki": "http://en.wikipedia.org/wiki/Autofocus",
+        "wikidata": "Q210008",
+        "kgmid": "/m/03xp6r"
+      },
+      {
+        "entity": "Angle",
+        "type": "/measurement_unit/common_dimension",
+        "pages": 2,
+        "relevance": 0.37,
+        "wiki": "http://en.wikipedia.org/wiki/Angle",
+        "wikidata": "Q11352",
+        "kgmid": "/m/0mwc"
+      },
+      {
+        "entity": "Image stabilization",
+        "type": "",
+        "pages": 2,
+        "relevance": 0.36,
+        "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+        "wikidata": "Q31009",
+        "kgmid": "/m/0bphfx"
+      },
+      {
+        "entity": "Amazon (company)",
+        "type": "Agent",
+        "pages": 2,
+        "relevance": 0.29,
+        "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
+        "wikidata": "Q3884",
+        "kgmid": "/m/0mgkg"
+      },
+      {
+        "entity": "Canon EOS",
+        "type": "/business/consumer_product",
+        "pages": 2,
+        "relevance": 0.28,
+        "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+        "wikidata": "Q62944",
+        "kgmid": "/m/03lwkk"
+      }
+    ]
+  },
+  "pendingInlinks": [
+    {
+      "slug": "best-tripod-for-content-creators",
+      "find": "Angling a phone tripod over a desk puts the weight outside its feet.",
+      "replace": "Angling a phone tripod over a desk puts the weight outside its feet, which is why my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) start with free-standing overhead stands."
+    },
+    {
+      "slug": "best-tripod-for-youtube-videos",
+      "find": "It is my overhead pick because its 90-degree center column swings sideways, so the camera hangs over a desk, cutting board or sketchbook without a boom arm.",
+      "replace": "It is my overhead pick because its 90-degree center column swings sideways, so the camera hangs over a desk, cutting board or sketchbook without a boom arm (my [tripods for cooking videos](/blog/best-tripod-for-cooking-videos/) cover the counter rigs)."
+    }
+  ]
+}

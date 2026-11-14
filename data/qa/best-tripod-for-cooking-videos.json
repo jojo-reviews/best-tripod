@@ -1,0 +1,21 @@
+{
+  "slug": "best-tripod-for-cooking-videos",
+  "pass": true,
+  "checkedAt": "2026-11-14T11:34:34.444Z",
+  "errors": [],
+  "warnings": [
+    "product \"ARKON Mounts Remarkable Creator Pro Overhead Phone Mount (HD8RV29)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Glide Gear OH100 Overhead Camera Platform\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 055 Aluminum 3-Section Tripod with Horizontal Column (MT055XPRO3)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 190XPRO Aluminum 3-Section Tripod Kit with Ball Head (MK190XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Vanguard Alta Pro 2+ 263AB G2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-14 with Firecrawl. Arkon HD8RV29: arm 17-29 in, phones to 3.9 in, reinforced composite, vibration-resistant base (arkon.com); Amazon B01I4N1SW8 model HD8RV29, In Stock, 1.8 kg. Glide Gear OH100: camera bar 12-27 in, 34 in wide, steel and aluminum, sled above/below crossbar (glidegear.net); 10 lb load (B&H listing); Amazon B06XPFJJ4T In Stock, 8 lb. Manfrotto MT055XPRO3: 67 in max, 3.5 in min, 24 in folded, 5.5 lb, 3 sections, flip locks, 90-degree column (B&H; 55.1 in column-down from B&H specs as in live posts); load left out (B&H shows both 44 lb and 19.8 lb); Amazon B00IQ7PT50 in stock. Manfrotto MK190XPRO3-BHQ2: 57.68 in column down, 27.76 in closed, 2.5 kg, 33.07 lb safety payload, flip lock, 200PL-14 (manfrotto.com), 67.5 in max, 3.5 in min (B&H); Amazon B010BOA6V2 in stock. Vanguard Alta Pro 2+ 263AB G2: 8.4-68.2 in, 28.3 in folded, 22 lb, 4.8 lb, twist locks, Arca-compatible plate (B&H), 55.6 in column down (Vanguard page, as in live posts); Amazon B0FXN2JLPM In Stock. Named owner voices read on the pages, quotes verbatim: Clare Langan (Substack) and K J Espinel (The Little Plantation, Pro+Plus bundle) for Arkon; Dawn and Eric (B&H verified buyers) for Glide Gear; Shawn and Bryan (B&H) for the 055; Jenny and John (B&H) for the 190 kit; William and Gregory (B&H) for the Alta Pro. Philip Lemoine video transcript: 36 in stove, 65-75 in max height, locking leg clips. Pain-point quotes from data/pain-points.json (r/synthesizers, Photography Stack Exchange). Number links: 17 to 29 in on arkon.com, 12 to 27 in on glidegear.net.",
+    "at": "2026-11-14T11:34:33.841Z",
+    "hash": "d57cf9ac20836eb9"
+  }
+}

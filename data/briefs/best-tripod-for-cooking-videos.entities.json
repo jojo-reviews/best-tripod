@@ -1,0 +1,167 @@
+{
+  "keyword": "best tripod for cooking videos",
+  "pagesAnalyzed": 5,
+  "sharedEntities": [
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 5,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 4,
+      "relevance": 0.87,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 3,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "IPhone",
+      "type": "Device",
+      "pages": 2,
+      "relevance": 0.92,
+      "wiki": "http://en.wikipedia.org/wiki/IPhone",
+      "wikidata": "Q2766",
+      "kgmid": "/m/027lnzs"
+    },
+    {
+      "entity": "Gear",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.87,
+      "wiki": "http://en.wikipedia.org/wiki/Gear",
+      "wikidata": "Q143873",
+      "kgmid": "/m/0l7xg"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.72,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Image",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.63,
+      "wiki": "http://en.wikipedia.org/wiki/Image",
+      "wikidata": "Q478798",
+      "kgmid": "/m/0jg24"
+    },
+    {
+      "entity": "Smartphone",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.57,
+      "wiki": "http://en.wikipedia.org/wiki/Smartphone",
+      "wikidata": "Q22645",
+      "kgmid": "/m/0169zh"
+    },
+    {
+      "entity": "Food photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.55,
+      "wiki": "http://en.wikipedia.org/wiki/Food_photography",
+      "wikidata": "Q1321148",
+      "kgmid": "/m/02p86fd"
+    },
+    {
+      "entity": "Food blogging",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.53,
+      "wiki": "http://en.wikipedia.org/wiki/Food_blogging",
+      "wikidata": "Q24977398"
+    },
+    {
+      "entity": "Canon Inc.",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.52,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_Inc.",
+      "wikidata": "Q62621",
+      "kgmid": "/m/01bvx1"
+    },
+    {
+      "entity": "Camera phone",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.51,
+      "wiki": "http://en.wikipedia.org/wiki/Camera_phone",
+      "wikidata": "Q210820",
+      "kgmid": "/m/0316cs"
+    },
+    {
+      "entity": "Instagram",
+      "type": "Work",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Instagram",
+      "wikidata": "Q209330",
+      "kgmid": "/m/0glpjll"
+    },
+    {
+      "entity": "Autofocus",
+      "type": "/law/invention",
+      "pages": 2,
+      "relevance": 0.42,
+      "wiki": "http://en.wikipedia.org/wiki/Autofocus",
+      "wikidata": "Q210008",
+      "kgmid": "/m/03xp6r"
+    },
+    {
+      "entity": "Angle",
+      "type": "/measurement_unit/common_dimension",
+      "pages": 2,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Angle",
+      "wikidata": "Q11352",
+      "kgmid": "/m/0mwc"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx"
+    },
+    {
+      "entity": "Amazon (company)",
+      "type": "Agent",
+      "pages": 2,
+      "relevance": 0.29,
+      "wiki": "http://en.wikipedia.org/wiki/Amazon_(company)",
+      "wikidata": "Q3884",
+      "kgmid": "/m/0mgkg"
+    },
+    {
+      "entity": "Canon EOS",
+      "type": "/business/consumer_product",
+      "pages": 2,
+      "relevance": 0.28,
+      "wiki": "http://en.wikipedia.org/wiki/Canon_EOS",
+      "wikidata": "Q62944",
+      "kgmid": "/m/03lwkk"
+    }
+  ]
+}

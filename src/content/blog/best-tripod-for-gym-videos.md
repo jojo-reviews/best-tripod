@@ -469,10 +469,10 @@ heroAlt: >-
   Best Tripod for Gym Videos – 5 Picks From Bench to Platform – Best Tripod
   buying guide
 related:
+  - best-tripod-for-cooking-videos
   - best-tripod-for-ipad
   - best-tripod-with-ring-light-for-iphone
   - best-tripod-for-guitar-videos
-  - best-tripod-for-golf-swing-recording
 ---
 
 The best tripod for gym videos is a small phone tripod that sets up in seconds, stays out of walkways and holds your smartphone at the height of the lift for a clean form check. For most gym-goers I pick the [ULANZI MT-44](amzn:ULANZI+MT-44+extendable+tripod); to film lifts from one spot in a home gym, the [Manfrotto Element MII](amzn:Manfrotto+Element+MII+aluminum+tripod+ball+head) is steadier. I matched five tripods to gym situations from maker specs and owner reports.

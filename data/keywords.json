@@ -6866,7 +6866,7 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "pending",
+    "status": "published",
     "keyword": "best tripod for cooking videos",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -6892,7 +6892,9 @@
       "parentTopic": "phone tripod for cooking videos",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "startedAt": "2026-11-14T11:30:03.856Z",
+    "publishedAt": "2026-11-14T11:34:55.492Z"
   },
   {
     "status": "merged",
