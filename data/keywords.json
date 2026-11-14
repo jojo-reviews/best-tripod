@@ -8748,5 +8748,40 @@
     "rationale": "Owner rule 2026-11-13 pillar clusters: GSC query (16 impressions, position 31.8, shown on how-tall-should-a-tripod-be-for-my-height) with no dedicated post; supports pillar 1",
     "slug": "tall-tripod-vs-regular-tripod",
     "publishedAt": "2026-11-13T21:33:28.221Z"
+  },
+  {
+    "status": "pending",
+    "attempts": 0,
+    "addedAt": "2026-11-14T11:18:23.969Z",
+    "secondaryKeywords": [
+      "tripod extension pole",
+      "tripod center column extension",
+      "tripod extender",
+      "how to make a tripod taller"
+    ],
+    "questions": [
+      "can you add height to a tripod",
+      "is a tripod extension pole stable",
+      "what is a center column extension"
+    ],
+    "priority": 999,
+    "keyword": "tripod extension",
+    "category": "tripod-accessories",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "mofu",
+    "cluster": "tall-photographers",
+    "source": "gsc+ahrefs",
+    "supports": "best-tripod-for-tall-photographers-over-6-feet",
+    "rationale": "Owner rule 2026-11-13 pillar clusters: Ahrefs US volume 100, KD 0 (2026-11-14); the pillar shows in GSC for \"tripod with extra height for photographers\" (28 impressions) and has no post on adding height; supports pillar 1",
+    "ahrefs": {
+      "volume": 100,
+      "kd": 0,
+      "trafficPotential": 30,
+      "parentTopic": "tripod extension pole",
+      "source": "ahrefs keywords-explorer-overview us",
+      "date": "2026-11-14"
+    },
+    "slug": "tripod-extension"
   }
 ]
