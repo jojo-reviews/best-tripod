@@ -5,10 +5,7 @@ name: Amazon product refresh
 on:
   # Owner rule 2026-10-27: no schedule here (no Amazon secrets in this repo, it only failed); launch-site.yml in rentersmarthome.us refreshes this site.
   workflow_dispatch:
-  # New posts get their ASINs and product photos right after they are pushed.
-  push:
-    paths:
-      - 'src/content/blog/**'
+  # Owner rule 2026-11-15 ("extra nhi use hona chye", GitHub free quota): no push trigger; launch-site.yml refreshes this site's Amazon data at each deploy.
 
 permissions:
   contents: write
