@@ -458,5 +458,13 @@
   "tall-tripod-vs-regular-tripod": {
     "at": "2026-11-14T17:48:48.652Z",
     "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
+  },
+  "tripod-extension": {
+    "at": "2026-11-15T17:48:27.674Z",
+    "note": "written with TextRazor entities; no extra pass needed"
+  },
+  "best-tripod-for-cooking-videos": {
+    "at": "2026-11-15T17:48:27.702Z",
+    "note": "written with TextRazor entities; no extra pass needed"
   }
 }

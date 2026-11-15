@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-nikon-p1000",
   "pass": true,
-  "checkedAt": "2026-11-13T19:20:49.038Z",
+  "checkedAt": "2026-11-15T17:50:22.274Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 290 Xtra Tripod Kit with 3-Way Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:20:47.938Z",
-    "hash": "f3769fe662773ff6"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-15T17:50:21.579Z",
+    "hash": "2cc46350b7162147"
   }
 }

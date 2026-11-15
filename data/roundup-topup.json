@@ -2,12 +2,16 @@
   "note": "Audit fix 2026-11-13: live roundups with fewer than 5 products; top up 2 per day (product-agent rule: 2+ independent pages per exact model, never pad). status: pending | done | no-products",
   "posts": {
     "best-tripod-for-iphone-night-mode-photos": {
-      "products": 3,
-      "status": "pending"
+      "products": 5,
+      "status": "done",
+      "at": "2026-11-15",
+      "note": "UBeesize remote tripod + Peak Design Mobile Tripod added; title 3 -> 5 Picks"
     },
     "best-tripod-for-telescope": {
-      "products": 4,
-      "status": "pending"
+      "products": 5,
+      "status": "done",
+      "at": "2026-11-15",
+      "note": "INNOREL RT90C added (Stargazers Lounge + Cloudy Nights); title 4 -> 5 Picks"
     },
     "best-mini-tripod-for-desk-video-calls": {
       "products": 3,

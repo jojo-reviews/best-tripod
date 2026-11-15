@@ -1,10 +1,9 @@
 ---
-title: Best Tripod for Telescope – 4 Picks Matched to Your Mount
-seoTitle: Best Tripod for Telescope – 4 Picks by Mount Type
+title: Best Tripod for Telescope – 5 Picks Matched to Your Mount
+seoTitle: Best Tripod for Telescope – 5 Picks by Mount Type
 description: >-
-  The best tripod for telescope use matches your mount and its thread. 4 picks
-  for small Maks, travel scopes, AZ-GTi or Star Adventurer heads and Wave
-  mounts.
+  The best tripod for telescope use matches your mount and its thread. 5 picks
+  for small Maks, travel scopes, AZ-GTi heads, Wave mounts and heavier rigs.
 pubDate: '2026-10-28T14:36:00.000Z'
 category: camera-tripods
 keyword: best tripod for telescope
@@ -28,6 +27,7 @@ entities:
   - Celestron Heavy-Duty Alt-Azimuth Tripod
   - Sky-Watcher Star Adventurer Tripod
   - Sky-Watcher Wave Carbon Fiber Tripod
+  - Innorel RT90C
 tags:
   - telescope tripods
   - astronomy
@@ -36,7 +36,7 @@ tags:
 articleType: roundup
 funnel: bofu
 productStyle: pros-cons
-productCount: 4
+productCount: 5
 readingTime: 8
 tldr:
   - >-
@@ -53,6 +53,9 @@ tldr:
   - >-
     For a Wave 100i or 150i, the Sky-Watcher Wave Carbon Fiber Tripod carries 44
     lb but tops out at 29 in, so I would add the extension for long tubes.
+  - >-
+    For a Mak 127 or 80mm refractor on an AZ-GTi-class head, I pick the INNOREL
+    RT90C: 88 lb rating, 63 in tall, about 6 lb in carbon.
 products:
   - name: Celestron Heavy-Duty Alt-Azimuth Tripod
     brand: Celestron
@@ -201,7 +204,7 @@ products:
       astronomy binoculars who carry the tripod far. Key caveat: the 8.8 lb
       rating is low, and one owner snapped a leg joint by overloading it.
     pros:
-      - 'Tallest here: 58 in column down, so I can observe standing'
+      - '58 in with the column down, so I can observe standing'
       - >-
         Fluid pan head and quick-release plate move easily between scope and
         camera
@@ -264,7 +267,7 @@ products:
       imaging. Key caveat: 29 in is short for long refractors, and owners say a
       heavy head on it can be nudged by hand.
     pros:
-      - '44 lb payload on a 5.3 lb carbon tripod, the most headroom in my list'
+      - '44 lb payload on a 5.3 lb carbon tripod, the most of the Sky-Watcher pair'
       - Bolts straight to Wave mounts; a 7 in extension column is available
       - Low height keeps the center of gravity down in wind
     cons:
@@ -306,6 +309,80 @@ products:
       Sky-Watcher Wave Carbon Fiber Tripod - Lightweight Tripod for Grab-and-Go
       for Outreach, Obserbing, and Imaging Wave Mount Setups, Black (S30910)
     asinVerified: true
+  - name: INNOREL RT90C Carbon Fiber Tripod
+    brand: INNOREL
+    query: INNOREL RT90C Carbon Fiber Bowl Tripod 40mm
+    matchName: INNOREL RT90C Carbon Fiber Tripod
+    badge: Best heavy-duty carbon tripod for small mounts
+    summary: >-
+      My pick when a Mak 127 or an 80mm refractor outgrows a light tripod: 40mm
+      carbon top tubes, an 88 lb rating, 63 in of height with no center column
+      and about 6 lb of weight, with a plate bolt that flips between 1/4-20 and
+      3/8-16.
+    renterNote: >-
+      Owners of an AZ-GTi, a small alt-az head or a harmonic mount with a Mak
+      127 or 80mm refractor who also want a heavy-duty photo tripod. Key
+      caveat: there is no spreader or tray, and some astronomy heads need an
+      adapter plate.
+    pros:
+      - '88 lb rating on 40mm carbon top tubes, the highest load in my list'
+      - '63 in with no center column, so I can sit the eyepiece at standing height'
+      - Plate bolt flips between 1/4-20 and 3/8-16; a 75mm bowl option makes levelling quick
+    cons:
+      - No leg spreader or accessory tray, unlike the astronomy tripods here
+      - 'One center screw holds the mount, so I would check it cannot rotate'
+    specs:
+      Max height: 63 in (160 cm), no center column
+      Folded length: 23.2 in (59 cm)
+      Weight: 6 lb (2.72 kg)
+      Max load: 88 lb (40 kg)
+      Leg sections: '4'
+      Leg lock: Twist lock
+      Leg angles: '9°, 37°, 69°'
+      Tube diameter: '40 / 36 / 32.5 / 29 mm'
+      Material: 'Carbon fiber legs, aluminum alloy body'
+      Plate: '85 mm mounting plate with a double-sided 1/4"-20 / 3/8"-16 bolt; 75 mm bowl option'
+    scores:
+      stability: 7
+      portability: 6
+      height: 8
+      build: 8
+      value: 6
+    scoreNote: >-
+      I score its 88 lb rating, 40mm carbon legs and 63 in reach well, but my
+      portability and value scores sit lower because it is the heaviest carbon
+      pick here and lacks a spreader for astronomy use.
+    owners:
+      read: 4
+      praise:
+        - >-
+          Steady with a Mak 127 and an 80mm doublet on a Skytee 2 or AZ-GTi, and
+          packs for flights better than a steel EQ5 tripod
+        - Stable and rigid enough for small to mid-size refractors
+      complaints:
+        - Some mounts need a custom or machined adapter plate on top
+        - >-
+          A mount on the single 3/8 in screw can rotate loose and start to
+          wobble
+        - 'No leg spreader, which the ZWO TC40 includes'
+      sources:
+        - title: "Cloudy Nights: What's a good tripod for travel?"
+          url: >-
+            https://www.cloudynights.com/forums/topic/693040-whats-a-good-tripod-for-travel/
+        - title: >-
+            Stargazers Lounge: What tripod and mount do you use for visual
+            viewing and why?
+          url: >-
+            https://stargazerslounge.com/topic/422309-what-tripod-and-mount-do-you-use-for-visual-viewing-and-why/
+        - title: 'minenko.org: Comparing the Innorel RT90C and the ZWO TC40 tripods'
+          url: >-
+            https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/
+    asin: B091CS41ZB
+    amazonTitle: >-
+      Carbon Fiber Tripod INNOREL RT90C Bowl Tripods Professional Heavy Duty
+      Camera Stand for DSLR Cameras Compatible with Ball Head and Fluid Head, 63
+      inch, 40mm Tube 40kg Load Black
+    asinVerified: true
 sources:
   - title: 'Celestron: Heavy Duty Alt-Azimuth Tripod (93607) specifications'
     url: 'https://www.celestron.com/products/heavy-duty-alt-azimuth-tripod'
@@ -331,8 +408,21 @@ sources:
   - title: 'Cloudy Nights: Considering a New Heavy Duty Tripod'
     url: >-
       https://www.cloudynights.com/forums/topic/889687-considering-a-new-heavy-duty-tripod/
-reviewedDate: '2026-11-14T00:00:00.000Z'
-updatedDate: '2026-11-14T12:00:00.000Z'
+  - title: 'INNOREL: RT90C carbon fiber tripod specifications'
+    url: >-
+      https://innoreltech.com/products/carbon-fiber-heavy-duty-tripod-innorel-rt90c
+  - title: 'minenko.org: Comparing the Innorel RT90C and the ZWO TC40 tripods'
+    url: 'https://minenko.org/comparing-the-innorel-rt90c-and-the-zwo-tc40-tripods/'
+  - title: "Cloudy Nights: What's a good tripod for travel?"
+    url: >-
+      https://www.cloudynights.com/forums/topic/693040-whats-a-good-tripod-for-travel/
+  - title: >-
+      Stargazers Lounge: What tripod and mount do you use for visual viewing and
+      why?
+    url: >-
+      https://stargazerslounge.com/topic/422309-what-tripod-and-mount-do-you-use-for-visual-viewing-and-why/
+reviewedDate: '2026-11-15T00:00:00.000Z'
+updatedDate: '2026-11-15T17:52:17.000Z'
 author: ned-diary
 faqs:
   - q: Can I use a camera tripod for a telescope?
@@ -369,7 +459,7 @@ videos:
     afterHeading: 6
 heroImage: /images/featured/best-tripod-for-telescope.png
 heroAlt: >-
-  Best Tripod for Telescope – 4 Picks Matched to Your Mount – Best Tripod
+  Best Tripod for Telescope – 5 Picks Matched to Your Mount – Best Tripod
   buying guide
 related:
   - can-you-use-any-tripod-for-a-camera
@@ -389,8 +479,9 @@ I have been shooting since 2017, and my support kit is carbon fiber tripods, bal
 | Sky-Watcher Star Adventurer | AZ-GTi, Star Adventurer 2i/GTi, AZ5 | 3/8"-16 stud | 25-44.75 in | 5.2 lb | Not published |
 | Celestron TrailSeeker | Travel scopes, spotting scopes, binoculars | 1/4"-20 quick-release plate | 18.9-70.5 in (58 in column down) | 3.94 lb | 8.8 lb |
 | Sky-Watcher Wave Carbon Fiber | Wave 100i and 150i | 3/8"-16 center bolt | 19.7-29 in | 5.3 lb | [44 lb](https://www.skywatcherusa.com/products/wave-carbon-fiber-tripod) |
+| INNOREL RT90C | Mak 127 or 80mm refractor on AZ-GTi-class heads | 1/4"-20 / 3/8"-16 flip bolt | Up to 63 in | 6 lb | 88 lb |
 
-A weight capacity is a maximum, not a working load. A Cloudy Nights imager derates a mount to about 60% for imaging: roughly 6.6 lb on the Celestron alt-az, 5.3 lb on the TrailSeeker and 26 lb on the Wave tripod. Tube length matters too: one owner's 8 lb C5 sat fine on the Celestron alt-az, but longer tubes of similar weight swayed.
+A weight capacity is a maximum, not a working load. A Cloudy Nights imager derates a mount to about 60% for imaging: roughly 6.6 lb on the Celestron alt-az, 5.3 lb on the TrailSeeker, 26 lb on the Wave tripod and 53 lb on the RT90C. Tube length matters too: one owner's 8 lb C5 sat fine on the Celestron alt-az, but longer tubes of similar weight swayed.
 
 ## How I Picked These Telescope Tripods
 
@@ -402,9 +493,9 @@ A weight capacity is a maximum, not a working load. A Cloudy Nights imager derat
 
 The ZWO TC40 and iOptron 8061A failed the Amazon check; Celestron's tabletop Dob tripod failed the owner check.
 
-> **From our notes:** The thread size sorted this list before any spec did. Two of the four tripods take a 1/4-20 camera bolt and two take the 3/8-16 stud that small astronomy mounts use. Then I lined up the load ratings: 11 lb, 8.8 lb, 44 lb and one blank, because Sky-Watcher prints no rating for the Star Adventurer legs. That blank is why I lean on owner reports for that one.
+> **From our notes:** The thread size sorted this list before any spec did. Two of the five tripods take a 1/4-20 camera bolt, two take the 3/8-16 stud that small astronomy mounts use, and the RT90C's bolt flips between both. Then I lined up the load ratings: 11 lb, 8.8 lb, 44 lb, 88 lb and one blank, because Sky-Watcher prints no rating for the Star Adventurer legs. That blank is why I lean on owner reports for that one.
 
-## The 4 Best Tripods for Telescopes, Reviewed
+## The 5 Best Tripods for Telescopes, Reviewed
 
 **Each telescope tripod suits one kind of scope or mount, and I give you the catch I would want to know first.** The video in this section reviews the Celestron alt-az tripod in detail.
 
@@ -422,15 +513,21 @@ Sky-Watcher publishes no load rating, and owners are split. A High Point reviewe
 
 ### Celestron TrailSeeker Tripod: best camera-style tripod for travel scopes
 
-I see the Celestron TrailSeeker Tripod (82050) as a 4-section aluminum photo-style tripod from Celestron with a two-way fluid pan head. If one tripod has to carry a travel telescope at night and a camera by day, it is the one I'd take. The head takes a 1/4-20 quick-release plate, and at 58 in with the column down it is the only pick tall enough for standing observing. It weighs 3.94 lb.
+I see the Celestron TrailSeeker Tripod (82050) as a 4-section aluminum photo-style tripod from Celestron with a two-way fluid pan head. If one tripod has to carry a travel telescope at night and a camera by day, it is the one I'd take. The head takes a 1/4-20 quick-release plate, and at 58 in with the column down it is tall enough for standing observing. It weighs 3.94 lb.
 
 The 8.8 lb rating is the catch. A High Point reviewer overloaded it with 100x25 binoculars and snapped the top leg joint. Another uses it happily with a 70mm travel scope and a camera. Binoculars mount with a [binocular tripod adapter](/blog/binocular-tripod-adapter/). I would keep it to small scopes; for heavy binoculars, see our [best tripods for binoculars](/blog/best-tripod-for-binoculars/).
 
 ### Sky-Watcher Wave Carbon Fiber Tripod: best for Wave strain-wave mounts
 
-I see the Sky-Watcher Wave Carbon Fiber Tripod (S30910) as a carbon fiber telescope tripod from Sky-Watcher, built for its Wave 100i and 150i strain-wave mounts. It bolts on with a 3/8-16 center bolt and carries 44 lb for 5.3 lb of weight, the most headroom in my list. The two-section legs run 19.7 to 29 in, which keeps the center of gravity low.
+I see the Sky-Watcher Wave Carbon Fiber Tripod (S30910) as a carbon fiber telescope tripod from Sky-Watcher, built for its Wave 100i and 150i strain-wave mounts. It bolts on with a 3/8-16 center bolt and carries 44 lb for 5.3 lb of weight, more than eight times its own weight. The two-section legs run 19.7 to 29 in, which keeps the center of gravity low.
 
 Cloudy Nights owners disagree. One could nudge it in every direction with the mount fitted; another uses his as is. A third calls it too short and light for long tubes. My take: add the 7 in extension column for refractors, and hang weight from it.
+
+### INNOREL RT90C Carbon Fiber Tripod: best heavy-duty carbon telescope tripod for small mounts
+
+I see the INNOREL RT90C Carbon Fiber Tripod as a 4-section carbon fiber tripod from Innorel, built for big photo lenses, that astronomers put under small telescope mounts. Its 40mm top tubes carry an 88 lb rating for 6 lb of weight, and the legs reach 63 in with no center column. The 85 mm plate holds a bolt that flips between 1/4-20 and 3/8-16, so an AZ-GTi or a small alt-az head screws straight on. My own support kit is carbon legs, so this is the build I trust to damp a long tube.
+
+Owners on Cloudy Nights run a Mak 127 and an 80mm doublet on it with a Skytee 2 or an AZ-GTi, and one flies with it in place of a steel EQ5 tripod. The catch is the top. Two owners needed an adapter plate for their heads, and a minenko.org comparison found a mount on the single screw can rotate loose. There is no spreader either, so I would hang weight from the hook under the plate. For a [ZWO AM5 on this tripod](/blog/best-tripod-for-zwo-am5/), the plate details matter even more.
 
 ## Can You Use a Camera Tripod for a Telescope?
 
@@ -446,9 +543,10 @@ Cloudy Nights owners disagree. One could nudge it in every direction with the mo
 | Travel refractor you also use by day | Celestron TrailSeeker | 58 in column down, 3.94 lb |
 | AZ-GTi, Star Adventurer 2i/GTi, AZ5, small smart scope | Sky-Watcher Star Adventurer | Matched 3/8-16 stud |
 | Wave 100i or 150i | Sky-Watcher Wave Carbon Fiber | 44 lb payload, matched bolt |
+| Mak 127 or 80mm refractor on an AZ-GTi or small alt-az head | INNOREL RT90C | 88 lb rating, 63 in, flip bolt |
 | 120mm+ refractor or a big equatorial mount | None of these | Needs a heavy duty tripod in steel or wood |
 
-An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here, like our [tripods for the ZWO AM5](/blog/best-tripod-for-zwo-am5/).
+An equatorial mount with counterweights for astrophotography puts the most load on a tripod, so it needs a heavier stand than any pick here.
 
 ## Telescope Tripod Problems Owners Run Into, and the Fix
 

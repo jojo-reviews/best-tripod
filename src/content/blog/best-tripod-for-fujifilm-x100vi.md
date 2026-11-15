@@ -419,7 +419,8 @@ sources:
   - title: 'r/fujifilm: Moon photography, X-T5, tripod and IBIS?'
     url: >-
       https://www.reddit.com/r/fujifilm/comments/14a0ule/moon_photography_xt5_tripod_and_ibis/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-15'
+updatedDate: '2026-11-15T17:49:36.000Z'
 author: ned-diary
 faqs:
   - q: What is the best tripod for a Fujifilm X100VI?
@@ -485,11 +486,15 @@ related:
 heroImage: /images/featured/best-tripod-for-fujifilm-x100vi.png
 ---
 
-The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for trips and blue hour, and the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) for every day. A tripod for an X100VI only has to hold a 521 g fixed-lens camera, so height, folded size and plate fit decide it. I matched five tripods to that camera from maker specs and X100 owner reports on r/fujifilm, r/x100vi and DPReview.
+The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum) for trips and blue hour, and the pocket-size [Manfrotto PIXI EVO](amzn:Manfrotto+PIXI+EVO+2-Section+Mini+Tripod+MTPIXIEVO-BK) for every day. A tripod for an X100VI only has to hold a 521 g fixed-lens camera, so height, folded size and plate fit decide it.
+
+I've shot travel and landscape since 2017, when a solo road trip across the United States got me into photography, and my own support kit is carbon fiber tripods, ball heads and Arca-Swiss plates under a Sony A7 IV and a Canon EOS R6 Mark II. Those bodies need stiff legs; a 521 g X100VI doesn't, so I set load aside and matched five tripods to it from maker specs and X100 owner reports on r/fujifilm, r/x100vi and DPReview.
 
 ## X100VI tripod comparison: weight, fold and height
 
 **A tripod for the Fujifilm X100VI should weigh under about three times the camera and reach about 50 in with the center column down; load capacity is never the limit.** Shooting a Leica Q3 too? Our [Leica Q3 tripod picks](/blog/best-tripod-for-leica-q3/) cover a similar compact.
+
+This is the table I sorted first, by weight and folded length rather than load.
 
 | Tripod | Weight | Folded | Height, column down | Max height | Rated load |
 |---|---|---|---|---|---|
@@ -507,19 +512,19 @@ The best tripod for Fujifilm X100VI owners is the [Peak Design Travel Tripod (Al
 
 ## The 5 best tripods for the Fujifilm X100VI, reviewed
 
-**The five X100VI tripods split into three full-size travel tripods (2 to 3.51 lb) and two minis under 1 lb, so how much tripod you'll carry decides the pick.**
+**The five X100VI tripods split into three full-size travel tripods (2 to 3.51 lb) and two minis under 1 lb, so how much tripod you'll carry decides the pick.** I'll go from the tripod I'd hand most owners to the two I'd keep in a pocket.
 
 ### Peak Design Travel Tripod (Aluminum): best overall X100VI tripod
 
-The Peak Design Travel Tripod (Aluminum) is a five-section travel tripod from Peak Design that folds to 15.5 in, stands 51.25 in with the column down and is rated to 20 lb. That is about 17 times an X100VI, and its plate is Arca-type compatible. X100VI owners in a Fuji Facebook group point to it for portability, and a Fstoppers writer found it made more sense on compact fixed-lens cameras than on full-frame kits. The weak spot is the head: no separate pan axis and limited tilt, and the same writer says it isn't built for very windy spots. I'd pick aluminum over carbon here, since the camera is light and the legs are what you pay for.
+The Peak Design Travel Tripod (Aluminum) is a five-section travel tripod from Peak Design, and it's the one I'd hand most X100VI owners: it folds to 15.5 in, stands 51.25 in with the column down and is rated to 20 lb. That is about 17 times an X100VI, and its plate is Arca-type compatible. X100VI owners in a Fuji Facebook group point to it for portability, and a Fstoppers writer found it made more sense on compact fixed-lens cameras than on full-frame kits. The weak spot is the head: no separate pan axis and limited tilt, and the same writer says it isn't built for very windy spots. I'd pick aluminum over carbon here, since the camera is light and the legs are what you pay for.
 
 ### SIRUI Traveler 5CX Carbon Fiber Tripod: lightest full-size pick
 
-The [SIRUI Traveler 5CX](amzn:SIRUI+Traveler+5CX+carbon+fiber+travel+tripod) is a five-section carbon fiber travel tripod from SIRUI, about 2 lb with its head, and it [folds to just 12.4 in](https://store.sirui.com/products/sirui-traveler-5cx-carbon-fiber-travel-tripod). That makes it the only full-size pick under twice the camera's weight. It reaches 51.97 in with the column up, and SIRUI rates the legs to 4 kg. An r/fujifilm owner chose it for an X100VI because it is very light and compact, and an r/AskPhotography owner straps it to a carry-on camera backpack. A DPReview member, though, dislikes the reverse-folding legs, twist locks and a column that won't collapse. For stability, keep the column low in wind.
+The [SIRUI Traveler 5CX](amzn:SIRUI+Traveler+5CX+carbon+fiber+travel+tripod) is a five-section carbon fiber travel tripod from SIRUI, about 2 lb with its head, and it [folds to just 12.4 in](https://store.sirui.com/products/sirui-traveler-5cx-carbon-fiber-travel-tripod). That makes it the only full-size pick under twice the camera's weight, which is why I'd take it for one-bag trips. It reaches 51.97 in with the column up, and SIRUI rates the legs to 4 kg. An r/fujifilm owner chose it for an X100VI because it is very light and compact, and an r/AskPhotography owner straps it to a carry-on camera backpack. A DPReview member, though, dislikes the reverse-folding legs, twist locks and a column that won't collapse. For stability, I'd keep the column low in wind.
 
 ### Manfrotto Befree Advanced Aluminum Travel Tripod (Lever, Ball Head): steadiest full-size tripod
 
-The [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) is a four-section aluminum travel tripod from Manfrotto, and it is my long exposure pick for night scenes and waterfalls with the X100VI. Its flip locks are quick, and its 494 head has separate pan and friction knobs for smooth panning, which neither the Peak Design nor the minis offer. Manfrotto lists 50.39 in with the column down, a 15.75 in fold and a 9 kg safety payload, and the plate fits Manfrotto and Arca-Swiss clamps. A FujiX-Forum owner has taken his up mountains, into sea water and down to -10 C. He also says it nearly toppled in a gale on an open beach, so keep it low in strong wind. At 3.51 lb it's the heaviest pick.
+The [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) is a four-section aluminum travel tripod from Manfrotto, and it is my long exposure pick for night scenes and waterfalls with the X100VI. Its flip locks are quick, and its 494 head has separate pan and friction knobs I want for smooth panning, which neither the Peak Design nor the minis offer. Manfrotto lists 50.39 in with the column down, a 15.75 in fold and a 9 kg safety payload, and the plate fits Manfrotto and Arca-Swiss clamps. A FujiX-Forum owner has taken his up mountains, into sea water and down to -10 C. He also says it nearly toppled in a gale on an open beach, so keep it low in strong wind. At 3.51 lb it's the heaviest pick.
 
 ### Manfrotto PIXI EVO 2-Section Mini Tripod: best tabletop tripod
 
@@ -527,7 +532,7 @@ The Manfrotto PIXI EVO is a two-section aluminum mini tripod from Manfrotto that
 
 ### JOBY GorillaPod 3K Kit: best flexible tripod for railings
 
-The [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) is a flexible-leg mini tripod from JOBY with a ball head, a quick-release plate and a 3 kg (6.6 lb) rating. That is about 5.8 times an X100VI, and B&H lists about 12 in of height. Its legs wrap railings, fences and branches where the PIXI EVO can't stand, which helps for a travel selfie on the self-timer. An r/x100v owner takes a GorillaPod because it is smaller than an umbrella and fits anywhere. I chose the 3K over the 1K on purpose: an r/Fujifilm_X100VI owner says "1kg feels kinda flimsy imo." with this camera, and the 1K's rating is under twice the X100VI's weight.
+The [JOBY GorillaPod 3K Kit](amzn:Joby+GorillaPod+3K+Kit+ball+head) is a flexible-leg mini tripod from JOBY with a ball head, a quick-release plate and a 3 kg (6.6 lb) rating, and I'd reach for it where nothing flat exists. That is about 5.8 times an X100VI, and B&H lists about 12 in of height. Its legs wrap railings, fences and branches where the PIXI EVO can't stand, which helps for a travel selfie on the self-timer. An r/x100v owner takes a GorillaPod because it is smaller than an umbrella and fits anywhere. I chose the 3K over the 1K on purpose: an r/Fujifilm_X100VI owner says "1kg feels kinda flimsy imo." with this camera, and the 1K's rating is under twice the X100VI's weight.
 
 ## What a tripod for Fujifilm X100VI has to carry
 
@@ -542,11 +547,11 @@ Headroom each rating gives an X100VI:
 - PIXI EVO (2.5 kg): about 4.8 times.
 - GorillaPod 1K (1 kg), for comparison: under 2 times.
 
-Tripod weight against camera weight matters more. The SIRUI is under twice the camera; the Peak Design and Befree are about three times. Height with the column down is 51.25 in (Peak Design) and 50.39 in (Befree), and the X100VI's tilting screen lets you compose from chest height. Four of the five picks take an Arca-type plate; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the fit.
+Tripod weight against camera weight matters more to me. The SIRUI is under twice the camera; the Peak Design and Befree are about three times. Height with the column down is 51.25 in (Peak Design) and 50.39 in (Befree), and the X100VI's tilting screen lets you compose from chest height. Four of the five picks take an Arca-type plate; our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/) covers the fit.
 
 ## How to set up an X100VI on a tripod
 
-**An X100VI goes on a tripod with a plate made for the X100VI, the column down and a hands-off release.**
+**An X100VI goes on a tripod with a plate made for the X100VI, the column down and a hands-off release.** This is the same order I follow with my own Arca-Swiss plates.
 
 1. Screw a plate or L-grip listed for the X100VI into its tripod socket, which sits further forward than the X100V's.
 2. Spread the legs to their widest stop and extend the thicker sections first.
@@ -558,7 +563,7 @@ The video in this section shows an X100VI L-shape grip that doubles as an Arca b
 
 ## X100VI tripod problems owners run into, and the fix
 
-**Most X100VI tripod complaints come from a moved socket, wind and weak mini heads, not weight.**
+**Most X100VI tripod complaints come from a moved socket, wind and weak mini heads, not weight.** Here's what I'd watch for, and the fix owners settled on.
 
 - **Old plates don't fit.** The X100VI's thread moved forward, and one owner warns that "not all existing X100 accessories are compatible with the X100VI". Buy a plate made for the X100VI.
 - **A light tripod blows over.** An r/x100vi owner says "when fully extended it doesn't need much wind to blow over my x100vi". Keep the column down, spread the legs and hang your bag from the hook; our guide to [stopping tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) has more fixes.
@@ -575,4 +580,4 @@ The video in this section shows an X100VI L-shape grip that doubles as an Arca b
 4. Every day in a pocket, on tables and walls: Manfrotto PIXI EVO.
 5. Railings, fences and branches: JOBY GorillaPod 3K Kit, compared with rigid minis in our [flexible vs mini tripod guide](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/).
 
-So for that harbor wall at blue hour, I'd have the PIXI EVO in my pocket and the Peak Design waiting for planned shots. If you shoot vertical often, our [L-bracket guide](/blog/l-bracket-for-landscape-photography/) explains the upgrade.
+If I were carrying an X100VI on a travel day, I'd have the PIXI EVO in my pocket and the Peak Design waiting for planned blue-hour shots. If you shoot vertical often, our [L-bracket guide](/blog/l-bracket-for-landscape-photography/) explains the upgrade.

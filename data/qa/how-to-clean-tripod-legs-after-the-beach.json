@@ -1,24 +1,18 @@
 {
   "slug": "how-to-clean-tripod-legs-after-the-beach",
   "pass": true,
-  "checkedAt": "2026-11-03T18:02:50.265Z",
+  "checkedAt": "2026-11-15T17:49:45.688Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "illustration 4 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://visualwilderness.com/equipment/how-to-clean-your-tripod",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/20202/how-to-use-a-tripod-on-the-beach-without-damaging-it",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1500935/",
-    "source didn't respond normally (403): https://www.fredmiranda.com/forum/topic/1027725/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/"
+    "illustration 4 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "Semantic pass 2026-11-03 (TextRazor, 3/5 top pages; no missingFromPost). Significant: first H2 rewritten from a 6-step list duplicating the tldr into a rinse-vs-strip decision table built from existing sourced facts (Ulanzi 24h dry, 10-15 min soak, owner reports). Quotes trimmed to exact substrings of the sources; 'video below' replaced; captions added; no new prices, ratings or tests; 3 outside links kept.",
-    "at": "2026-11-03T17:51:43.438Z",
-    "hash": "71b2b14c8a2783f0"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-15T17:49:44.902Z",
+    "hash": "2462601f412679e5"
   }
 }

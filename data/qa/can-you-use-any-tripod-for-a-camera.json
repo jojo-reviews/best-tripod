@@ -1,7 +1,7 @@
 {
   "slug": "can-you-use-any-tripod-for-a-camera",
   "pass": true,
-  "checkedAt": "2026-11-11T15:25:00.950Z",
+  "checkedAt": "2026-11-15T17:49:49.050Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-phone-mount-for-tripod, no claim changed",
-    "at": "2026-11-11T15:25:00.460Z",
-    "hash": "a487270f4ac8a94e"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-15T17:49:48.173Z",
+    "hash": "91e7e53e79a10a8e"
   }
 }

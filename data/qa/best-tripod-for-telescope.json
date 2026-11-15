@@ -1,20 +1,20 @@
 {
   "slug": "best-tripod-for-telescope",
   "pass": true,
-  "checkedAt": "2026-11-14T17:49:53.941Z",
+  "checkedAt": "2026-11-15T17:52:41.687Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1726 words, over the 1610 limit (top results average 1400): cut repetition and filler",
-    "roundup has 4 products; commercial posts need at least 5 (owner rule 2026-10-28)",
+    "LIVE POST, FIX: body has 1984 words, over the 1610 limit (top results average 1400): cut repetition and filler",
     "product \"Celestron Heavy-Duty Alt-Azimuth Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sky-Watcher Star Adventurer Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Celestron TrailSeeker Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "product \"Sky-Watcher Wave Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"INNOREL RT90C Carbon Fiber Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-14T17:49:53.037Z",
-    "hash": "43961c40e1d23619"
+    "notes": "roundup top-up: 1 product added",
+    "at": "2026-11-15T17:52:49.582Z",
+    "hash": "9774893fd27f26a8"
   }
 }

@@ -1,10 +1,10 @@
 {
   "slug": "l-bracket-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-09T15:45:23.580Z",
+  "checkedAt": "2026-11-15T17:49:46.881Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1099 words, over the 1093 limit (top results average 950): cut repetition and filler",
+    "LIVE POST, FIX: body has 1194 words, over the 1093 limit (top results average 950): cut repetition and filler",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
     "illustration 3 not generated yet (the AI images workflow adds it after push)",
@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-vertical-shooting, no claim changed",
-    "at": "2026-11-09T15:45:22.875Z",
-    "hash": "7d963eb97183d7f5"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-15T17:49:46.480Z",
+    "hash": "4cb94ce368220206"
   }
 }

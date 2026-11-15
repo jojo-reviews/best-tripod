@@ -78,7 +78,8 @@ sources:
   - title: Nikon Z8 L plate advice with Peak Design tripod (r/nikon_Zseries)
     url: >-
       https://www.reddit.com/r/nikon_Zseries/comments/1urxn1x/nikon_z8_l_plate_advice_w_peak_design_tripod/
-reviewedDate: '2026-11-04T00:00:00.000Z'
+reviewedDate: '2026-11-15T00:00:00.000Z'
+updatedDate: '2026-11-15T17:49:29.000Z'
 faqs:
   - q: Do I need an L bracket for landscape photography?
     a: >-
@@ -156,19 +157,21 @@ heroAlt: >-
   Tripod guide
 ---
 
-An L bracket for landscape photography lets the camera turn from a horizontal to a vertical composition in the quick release clamp, so it stays centered over the tripod. With a plain plate you flop the camera into the drop notch instead, and the frame drops and slides sideways. I'd fit one if you shoot tripod verticals more than now and then.
+An L bracket for landscape photography lets the camera turn from a horizontal to a vertical composition in the quick release clamp, so it stays centered over the tripod instead of flopping into the drop notch, where the frame drops and slides sideways.
+
+A solo road trip across the United States got me into photography, and landscape has been one of my main genres since 2017. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, so when I frame a vertical on my Sony A7 IV or Canon EOS R6 Mark II, I want the camera to stay centered.
 
 ## What an L bracket does on a landscape tripod
 
-**An L bracket is a right-angle Arca-Swiss plate: one dovetail rail under the camera and one up its side, so the clamp holds the camera either way up.** You unclamp, turn the camera and clamp the other rail, without tipping the ball head. Makers such as Really Right Stuff, Kirk and SmallRig sell both camera-specific and universal versions, for DSLR and mirrorless camera bodies. The camera stays centered over the tripod apex at nearly the same height, so the optical axis and the composition barely move.
+**An L bracket is a right-angle Arca-Swiss plate: one dovetail rail under the camera and one up its side, so the clamp holds the camera either way up.** My heads already take Arca-Swiss plates, so this is the piece I look at first. You unclamp, turn the camera and clamp the other rail, without tipping the ball head. Really Right Stuff, Kirk and SmallRig sell camera-specific and universal versions. The camera stays centered at nearly the same height, so the composition barely moves.
 
-Centered weight matters most on light legs and uneven ground, as in our [landscape photography tripod picks](/blog/landscape-photography-tripod/).
+I care about centered weight most on light carbon legs and uneven ground, as in our [landscape photography tripod picks](/blog/landscape-photography-tripod/).
 
 ## L bracket vs drop notch for vertical landscapes
 
 **The drop notch tips the camera off to the side and lower, while an L bracket keeps it centered.** A DPReview owner put the risk plainly: "Using the notch changes the weight distribution. If you have a heavy camera/lens combination, it can tip the tripod over sideways if you don't align the legs correctly."
 
-The notch also shifts the lens sideways, so foreground rocks move against the background. For a stitched panorama, off-center rotation adds parallax. I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one.
+The notch also shifts the lens sideways, so with a wide zoom like my 16-35mm, foreground rocks move against the background. For a stitched panorama, off-center rotation adds parallax. I'd still use the notch for the odd vertical on a light hike; for frequent switching, the bracket wins, and our [tripods for vertical shooting](/blog/best-tripod-for-vertical-shooting/) show which clamps take one.
 
 ## How to fit an L bracket to your camera
 
@@ -190,7 +193,7 @@ The notch also shifts the lens sideways, so foreground rocks move against the ba
 3. Slide it until the centering mark lines up, then close the clamp.
 4. Check the safety stop screw would catch the clamp before you let go.
 
-Views Infinitum's author says his switch took less than 10 seconds. Kyle Goetsch's video in this section explains why he keeps an L bracket on. With a heavy telephoto, I'd clamp the lens's tripod collar instead, sparing the lens mount.
+Views Infinitum's author says his switch took less than 10 seconds. Kyle Goetsch's video in this section explains why he keeps an L bracket on. With a heavy telephoto like the 200-600mm I use for wildlife, I'd clamp the lens's tripod collar instead, sparing the lens mount.
 
 ## L bracket problems landscape shooters run into, and the fix
 
@@ -219,14 +222,14 @@ Views Infinitum's author says his switch took less than 10 seconds. Kyle Goetsch
 
 **Pick a dedicated or universal L bracket by how often your composition goes portrait and how long you'll keep the body.**
 
-| Your habit | Our pick |
+| Your habit | My pick |
 |---|---|
 | Verticals on most outings, one main body | Dedicated L bracket, left on |
 | Several bodies, or only for rails and panoramas | Universal L bracket |
 | Rare verticals, ultralight hikes | Base plate and the drop notch |
 
-A DPReview owner agrees: a bracket you leave on should be camera-specific, so doors stay reachable. Our [ball head vs pan tilt guide](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) helps you pick the head to pair it with.
+A DPReview owner agrees: a bracket you leave on should be camera-specific, so doors stay reachable. With two bodies, I'd weigh one dedicated bracket each against one universal bracket. Our [ball head vs pan tilt guide](/blog/ball-head-vs-pan-tilt-head-for-landscape-photography/) helps you pick the head to pair it with.
 
 ## Our verdict on an L bracket for landscape photography
 
-**An L bracket is one of the simplest stability upgrades I'd make for vertical landscapes on a tripod.** At a waterfall at dawn, you turn the camera in the clamp and keep shooting while the light lasts. Next, check whether to raise your [tripod center column for landscapes](/blog/tripod-center-column-up-or-down-for-landscapes/).
+**An L bracket is one of the simplest stability upgrades I'd make for vertical landscapes on a tripod.** If you shoot verticals on most outings, I'd fit a dedicated one and leave it on; for rare verticals, the drop notch will do. At a waterfall at dawn, you turn the camera in the clamp and keep shooting while the light lasts. Next, check whether to raise your [tripod center column for landscapes](/blog/tripod-center-column-up-or-down-for-landscapes/).

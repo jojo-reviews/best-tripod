@@ -1,7 +1,7 @@
 {
   "slug": "how-to-weigh-down-a-tripod-without-a-sandbag",
   "pass": true,
-  "checkedAt": "2026-11-09T15:45:27.116Z",
+  "checkedAt": "2026-11-15T17:50:05.328Z",
   "errors": [],
   "warnings": [
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
@@ -12,8 +12,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "added one internal link to best-tripod-for-starlink-mini, no claim changed",
-    "at": "2026-11-09T15:45:26.653Z",
-    "hash": "06b86989b1f88db9"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-15T17:50:04.560Z",
+    "hash": "df8040d507282c00"
   }
 }

@@ -82,8 +82,8 @@ sources:
     url: 'https://www.dpreview.com/forums/threads/ocean-water-tripod.4290653/'
   - title: Twist locks or flip locks? (DPReview forums)
     url: 'https://www.dpreview.com/forums/threads/twist-locks-or-flip-locks.4581258/'
-reviewedDate: '2026-11-03T00:00:00.000Z'
-updatedDate: '2026-11-03T00:00:00.000Z'
+reviewedDate: '2026-11-15T00:00:00.000Z'
+updatedDate: '2026-11-15T17:49:16.000Z'
 faqs:
   - q: >-
       Do I need to rinse my tripod after the beach if it never touched the
@@ -160,11 +160,13 @@ heroAlt: >-
   Tripod how-to
 ---
 
-Tripod legs come through the beach fine if they get a fresh-water rinse before they collapse, a warm flush at home, a strip-down only when the locks feel gritty, and a full dry before the threads get a light coat of grease. The routine works for twist locks and flip locks.
+How to clean tripod legs after the beach comes down to a fresh-water rinse before they collapse, a warm flush at home, a strip-down only when the locks feel gritty, and a full dry before the threads get a light coat of grease. The routine works for twist locks and flip locks.
+
+I have been shooting travel and landscape work since 2017, and my support kit is carbon fiber tripods with ball heads and Arca-Swiss plates. Carbon legs still have metal collars and threaded locks, so salt and sand worry me near the water.
 
 ## Tripod legs cleaning rule: rinse every time, strip when it grinds
 
-**Tripod legs need a fresh-water rinse after every beach shoot, but a full strip-down only when sand gets inside the leg locks.** What you hear and feel decides how far to go.
+**Tripod legs need a fresh-water rinse after every beach shoot, but a full strip-down only when sand gets inside the leg locks.** What I hear and feel decides how far I go.
 
 | What the tripod legs show | What I do |
 |---|---|
@@ -173,7 +175,7 @@ Tripod legs come through the beach fine if they get a fresh-water rinse before t
 | Grinding sound or stiff collar | Strip the leg locks, scrub threads and shims |
 | Seized section or white crust | Warm soak first, then scrub |
 
-The same habit matters when choosing a [landscape photography tripod for seascapes](/blog/landscape-photography-tripod/): legs you can strip easily are legs you will actually clean.
+I keep that in mind when choosing a [landscape photography tripod for seascapes](/blog/landscape-photography-tripod/): legs that strip easily get cleaned.
 
 ## Rinse tripod legs at the beach before you collapse them
 
@@ -189,9 +191,9 @@ The same habit matters when choosing a [landscape photography tripod for seascap
 
 - Pull off rubber feet and spikes and rinse underneath.
 - Run warm water through each open section; Lincoln Harrison showers his Gitzo's upper legs for 5 minutes.
-- Legs that won't come apart can be slid in and out under soapy water.
+- Slide legs that won't come apart in and out under soapy water.
 
-A carbon fiber tripod doesn't rust, but its aluminum collars, nuts and spikes can corrode, so I rinse it as carefully as an aluminum one.
+A carbon fiber tripod doesn't rust, but its aluminum collars, nuts and spikes can corrode. Since my own tripods are carbon, I rinse them as carefully as an aluminum one.
 
 ## Take the tripod legs apart when they feel gritty
 
@@ -202,7 +204,7 @@ A carbon fiber tripod doesn't rust, but its aluminum collars, nuts and spikes ca
 3. Brush warm, soapy water along the threads and shims with a toothbrush.
 4. Rinse, then towel each part.
 
-Wear gloves against carbon splinters; Visual Wilderness needed [about an hour](https://visualwilderness.com/equipment/how-to-clean-your-tripod) for two tripods. Todd Dominey's video in this section shows a full strip-down.
+I wear gloves against carbon splinters; Visual Wilderness needed [about an hour](https://visualwilderness.com/equipment/how-to-clean-your-tripod) for two tripods. Todd Dominey's video in this section shows a full strip-down.
 
 | Part | Twist-lock legs | Flip-lock legs |
 |---|---|---|
@@ -218,13 +220,13 @@ Our [twist lock vs flip lock comparison](/blog/twist-lock-vs-flip-lock-tripod-le
 
 Really Right Stuff puts a thin layer of synthetic grease on the twist-lock grooves; Visual Wilderness uses lithium grease. Keep it off the leg tubes (Lincoln Harrison) and never use WD-40 on threads (Ulanzi). Grease also holds sand: one dune shooter called it "a dust and sand magnet". So I use less, wipe the excess and clean sooner.
 
-> **From our notes:** The FM Forums report of salt caked inside Induro legs changed this guide. We had planned a simple rinse-and-dry routine, until one owner found salt crusted inside the lower tubes after a cold tub flush and an overnight dry. That is why warm water and feet-off rinsing come before grease, and why I check inside one lower section before calling a beach tripod clean.
+> **From our notes:** The FM Forums report of salt caked inside Induro legs changed this guide. We had planned a simple rinse-and-dry routine until then. That is why warm water and feet-off rinsing come before grease, and why I check inside one lower section before calling a beach tripod clean.
 
 ## Tripod leg problems after the beach, and the fix
 
-**Most tripod leg problems after the beach come from salt that dried or sand that stayed inside.**
+**Most problems I see come from dried salt or sand left inside.**
 
-- **White crust on flip-lock nuts.** A Manfrotto owner on FM Forums feared corrosion, then wrote "I thought it was salt corrosion, but it was just coated with salt." Soak and scrub first.
+- **White crust on flip-lock nuts.** A Manfrotto owner on FM Forums wrote "I thought it was salt corrosion, but it was just coated with salt." Soak and scrub first.
 - **A seized section.** Ulanzi soaks it in warm fresh water for [10 to 15 minutes](https://www.ulanzi.com/blogs/guides/clean-tripod-after-beach) before twisting it apart.
 - **Threads still gritty.** DPReview owners call stripping twist locks after sand "definitely a pain", but it is the fix: strip again and replace scored shims.
 - **A shim breaks on reassembly.** A Gitzo owner on DPReview warns "The grommets between legs are pretty fragile and it's hard to get replacements". I'd keep spares.
@@ -233,6 +235,6 @@ If a cleaned section still slips, our [tripod leg lock won't hold fixes](/blog/t
 
 ## Keep tripod legs cleaner on the next beach shoot
 
-**Tripod legs stay cleaner when the leg locks never touch sand or water.** Extend the lowest sections first so the joints sit above the splash line. Taped plastic bags over the lower legs keep sand out, and a Feisol owner on DPReview never retracts the legs until they are rinsed.
+**Tripod legs stay cleaner when the leg locks never touch sand or water.** I extend the lowest sections first so the joints sit above the splash line. Taped plastic bags over the lower legs keep sand out, and a Feisol owner on DPReview never retracts the legs until they are rinsed.
 
-So for salty tripod legs: rinse open, flush warm, strip when they grind, dry before greasing.
+So my answer for salty tripod legs: rinse open, flush warm, strip when they grind, dry before greasing.
