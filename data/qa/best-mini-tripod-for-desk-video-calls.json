@@ -1,20 +1,21 @@
 {
   "slug": "best-mini-tripod-for-desk-video-calls",
   "pass": true,
-  "checkedAt": "2026-11-13T19:30:05.017Z",
+  "checkedAt": "2026-11-16T17:55:35.737Z",
   "errors": [],
   "warnings": [
-    "body has 2157 words, over the 1495 limit (top results average 1300): cut repetition and filler",
-    "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
+    "body has 2805 words, over the 1495 limit (top results average 1300): cut repetition and filler",
     "product \"Manfrotto PIXI Mini Tripod (MTPIXI-B)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Ulanzi MT-16 Extendable Tripod with Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig Mini Tabletop Tripod with Panoramic Ball Head (BUT2664)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"SmallRig VT-20 Aluminum Mini Tripod (4289)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Neewer M521 Desktop Mini Tripod (TP-AAM521)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "intro order: answer first, story in paragraph 2",
-    "at": "2026-11-13T19:30:04.410Z",
-    "hash": "5e2cd85f9978fbee"
+    "notes": "roundup top-up: 2 products added (SmallRig VT-20 B0CP4WX98N, Neewer M521 B07FKDH3BC); specs from SmallRig, B&H and Amazon listings; owner praise/complaints from B&H, SmallRig store and DPReview",
+    "at": "2026-11-16T17:55:34.783Z",
+    "hash": "c65d45f42bf1d6b2"
   }
 }
