@@ -1,9 +1,9 @@
 ---
-title: Best Phone Tripod for Vlogging With Remote – 3 Picks + Pairing Tips
-seoTitle: Best Phone Tripod for Vlogging With Remote – 3 Picks
+title: Best Phone Tripod for Vlogging With Remote – 4 Picks + Pairing Tips
+seoTitle: Best Phone Tripod for Vlogging With Remote – 4 Picks
 description: >-
   The best phone tripod for vlogging with remote, compared on real height,
-  remote range, mount type and what owners report, with 3 picks for solo
+  remote range, mount type and what owners report, with 4 picks for solo
   creators.
 pubDate: '2026-10-17T12:31:00.000Z'
 category: phone-tripods
@@ -24,6 +24,7 @@ entities:
   - KraftGeek JustTap
   - UBeesize
   - SENSYNE
+  - EUCOS
   - iPhone and Android phones
 tags:
   - phone tripods
@@ -34,7 +35,7 @@ tags:
 articleType: roundup
 funnel: bofu
 productStyle: pros-cons
-productCount: 3
+productCount: 4
 readingTime: 9
 tldr:
   - >-
@@ -48,8 +49,12 @@ tldr:
     The UBeesize flexible tripod is only about 10 to 11 in tall, so treat it as
     a desk or wrap-around tripod, not a standing-height one.
   - >-
-    None of these has a center column, and owners of both tall picks report
-    wobble at full extension, so plan to film a little below maximum height.
+    The EUCOS 62" Phone Tripod adds a cold shoe and a 2.2 lb listed load to the
+    standing-height budget kit, for a mic or light on top.
+  - >-
+    None of these has a center column, and owners of all three tall picks
+    report wobble at full extension, so plan to film a little below maximum
+    height.
 products:
   - name: KraftGeek JustTap Magnetic Phone Tripod (226M)
     brand: KraftGeek
@@ -287,6 +292,77 @@ products:
             https://kimola.com/reports/unlock-insights-sensyne-62-tripod-selfie-stick-report-amazon-en-us-142307
         - title: 'Calcalist: shopping guide'
           url: 'https://calcalistech.com/ctechnews/article/hyh62k4oa'
+  - name: EUCOS 62" Phone Tripod
+    brand: EUCOS
+    query: EUCOS 62 inch phone tripod selfie stick with remote
+    matchName: EUCOS 62 Phone Tripod
+    asin: B09XHZ8F7F
+    amazonTitle: 'EUCOS 62" Phone Tripod, Tripod for iPhone & Selfie Stick with Remote'
+    asinVerified: true
+    badge: Best for a mic or light on top
+    summary: >-
+      My pick for a standing-height vlog rig that carries a small mic or light:
+      a 62 in selfie stick tripod whose phone holder has a cold shoe and a 1/4
+      in thread on top, plus a wireless remote listed to 33 ft.
+    renterNote: >-
+      Solo vloggers who want eye-level framing and a spot for a mic or light
+      without buying a cage. Key caveat: a single pole on small legs still
+      wobbles near full height, and switching orientation means loosening the
+      holder.
+    pros:
+      - Cold shoe on the phone holder takes a small mic or light
+      - 'Folds to about 12 in and reaches 62 in, per the listing'
+      - Remote pairs easily and the kit stores in a small sling pouch
+    cons:
+      - >-
+        Wobble near full height; an r/videography owner asked whether that much
+        sway is normal
+      - >-
+        Changing portrait to landscape means loosening or removing the phone,
+        and the mount can shift at its locking knob
+    specs:
+      Max height: 62 in (with phone holder)
+      Folded length: About 12 in
+      Weight: About 12.8 oz
+      Max load: 2.2 lb (listing)
+      Material: Aluminum and modified nylon PA6/6
+      Head: 'Phone holder with cold shoe and 1/4 in thread on top'
+      Plate: Phone holder for phones 2.2 to 3.6 in wide
+    scores:
+      stability: 5
+      portability: 8
+      height: 8
+      build: 6
+      value: 9
+    scoreNote: >-
+      I score it well on height and packing, and the cold shoe sets it apart
+      from the SENSYNE, but the same single-pole wobble keeps stability middling.
+    owners:
+      read: 5
+      praise:
+        - 'Grippy handle, smooth ring lock and a secure-feeling phone clamp'
+        - Bluetooth remote set up easily for the Voltage Castle reviewer
+        - 'Works as a floor tripod and a selfie stick, and packs into a pouch'
+      complaints:
+        - Single-pole sway near full height
+        - >-
+          Mount can shift a little at the locking knob, and it feels a bit heavy
+          as a selfie stick
+      sources:
+        - title: 'Voltage Castle: EUCOS 62" phone tripod review'
+          url: >-
+            https://www.voltagecastle.com/post/eucos-newest-62-phone-tripod-review
+        - title: 'Finding the Universe: Best phone tripod for travel'
+          url: 'https://www.findingtheuniverse.com/best-phone-tripod/'
+        - title: 'r/youtubers: Phone tripod for vlogging recommendations'
+          url: >-
+            https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/
+        - title: 'r/videography: Eucos tripod supposed to be this wobbly?'
+          url: >-
+            https://www.reddit.com/r/videography/comments/1blcm3i/eucos_tripod_supposed_to_be_this_wobbly_atumtek/
+        - title: 'USA Today: Eucos tripod and selfie stick deal'
+          url: >-
+            https://www.usatoday.com/story/shopping/deals/retailers/amazon/2026/10/21/tripod-and-selfie-stick-with-remote-deal/92360399007/
 sources:
   - title: 'KraftGeek: JustTap Magnetic Phone Tripod (226M)'
     url: >-
@@ -308,13 +384,17 @@ sources:
     url: 'https://www.popsci.com/gear/best-iphone-tripods/'
   - title: 'Manuals+: SENSYNE phone tripod manual'
     url: 'https://manuals.plus/asin/B09TQY66NH.pdf'
-reviewedDate: '2026-11-13T00:00:00.000Z'
-updatedDate: '2026-11-11T20:55:34.000Z'
+  - title: 'Finding the Universe: Best phone tripod for travel'
+    url: 'https://www.findingtheuniverse.com/best-phone-tripod/'
+  - title: 'Voltage Castle: EUCOS 62" phone tripod review'
+    url: 'https://www.voltagecastle.com/post/eucos-newest-62-phone-tripod-review'
+reviewedDate: '2026-11-16T00:00:00.000Z'
+updatedDate: '2026-11-16T17:52:56.000Z'
 faqs:
   - q: Do phone tripod remotes work with iPhone and Android?
     a: >-
-      The Bluetooth shutter remotes bundled with these phone tripods are
-      Bluetooth devices, but only the SENSYNE listing names both iPhone and
+      Yes, the shutter remotes bundled with these phone tripods are Bluetooth
+      devices, but only the SENSYNE and EUCOS listings name both iPhone and
       Android. One
       SENSYNE reviewer reported quick pairing on Android. The KraftGeek JustTap
       is built around iPhone MagSafe, and a third-party review lists its remote
@@ -323,7 +403,8 @@ faqs:
   - q: How far does a phone tripod remote work?
     a: >-
       Listed ranges sit around 30 ft. KraftGeek's JustTap remote is listed at 32
-      ft by B&H and 33 ft by KraftGeek, and the UBeesize remote at about 30 ft.
+      ft by B&H and 33 ft by KraftGeek, the EUCOS remote at 33 ft, and the
+      UBeesize remote at about 30 ft.
       Owners of the UBeesize report dropped connections near the edge of that
       range, so stay closer when it matters.
   - q: What is the best phone tripod height for vlogging?
@@ -334,10 +415,11 @@ faqs:
       the UBeesize only reaches eye level on a desk or wrapped around a railing.
   - q: Can a phone tripod hold a phone with a ring light and microphone?
     a: >-
-      Only the KraftGeek has a published rating, and that 2.5 kg figure from
-      Macworld and Digital Reviews is for the magnetic mount, not the whole
-      tripod. Load ratings for the UBeesize and SENSYNE are not listed, so keep
-      accessories light and lower the tripod when you add them.
+      A phone tripod can hold a phone plus a light mic or small light if you
+      stay inside its rating: the EUCOS lists 2.2 lb and has a cold shoe, while
+      the KraftGeek's 2.5 kg figure from Macworld and Digital Reviews covers
+      only its magnetic mount. Load ratings for the UBeesize and SENSYNE are not
+      listed, so keep accessories light and lower the tripod when you add them.
   - q: Is a flexible tripod or a selfie stick tripod better for vlogging?
     a: >-
       A selfie stick tripod is better for standing-height talking shots and
@@ -346,7 +428,7 @@ faqs:
 author: ned-diary
 heroImage: /images/featured/best-phone-tripod-for-vlogging-with-remote.png
 heroAlt: >-
-  Best Phone Tripod for Vlogging With Remote – 3 Picks + Pairing Tips – Best
+  Best Phone Tripod for Vlogging With Remote – 4 Picks + Pairing Tips – Best
   Tripod buying guide
 related:
   - best-phone-mount-for-tripod
@@ -354,32 +436,32 @@ related:
   - best-tripod-for-iphone-night-mode-photos
 ---
 
-I've been shooting since 2017, and video is one of the genres I work in alongside travel and landscape. For camera video I lean on a DJI RS 3 Pro gimbal and carbon fiber tripods with ball heads, but a phone vlog is a different problem: I'm the operator and the subject at once. The best phone tripod for vlogging with remote puts your smartphone near eye level, holds it steady hands-free, and starts the clip from where you stand. I compared three popular kits on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. Everything below comes from published specs, owner reviews and roundups.
+I've been shooting since 2017, and video is one of the genres I work in alongside travel and landscape. For camera video I lean on a DJI RS 3 Pro gimbal and carbon fiber tripods with ball heads, but a phone vlog is a different problem: I'm the operator and the subject at once. The best phone tripod for vlogging with remote puts your smartphone near eye level, holds it steady hands-free, and starts the clip from where you stand. I compared four popular kits on maker specs, retailer listings, editorial reviews and owner reports: the [KraftGeek JustTap Magnetic Phone Tripod](amzn:KraftGeek+JustTap+magnetic+phone+tripod+selfie+stick+with+remote) for iPhone creators, the [SENSYNE 62-Inch Phone Tripod](amzn:Sensyne+62+inch+phone+tripod+selfie+stick+wireless+remote) as the tall budget kit, the [EUCOS 62" Phone Tripod](amzn:EUCOS+62+inch+phone+tripod+selfie+stick+with+remote) for a mic or light on top, and the [UBeesize Portable Phone Tripod](amzn:UBeesize+phone+tripod+portable+flexible+with+wireless+remote) as a pocketable flexible pick. Everything below comes from published specs, owner reviews and roundups.
 
 ## Phone Tripod for Vlogging With Remote: Height, Mount and Remote Compared
 
-**In my view, a phone tripod for vlogging with remote lives or dies on height, mount type and remote range, and these three differ sharply on all three.** Figures are maker or retailer claims; "Unlisted" means not published. For the eye-level math, see my guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/).
+**In my view, a phone tripod for vlogging with remote lives or dies on height, mount type and remote range, and these four differ sharply on all three.** Figures are maker or retailer claims; "Unlisted" means not published. For the eye-level math, see my guide on [how tall a tripod should be for your height](/blog/how-tall-should-a-tripod-be-for-my-height/).
 
-| Spec | KraftGeek JustTap (226M) | SENSYNE 62-Inch | UBeesize Flexible |
-|---|---|---|---|
-| Max height | 66 in | 62 in | About 10-11 in (sources differ) |
-| Center column | None | None | None |
-| Folded length | 13 in | Unlisted | Unlisted |
-| Weight | About 455 g (15.8 oz) | About 650 g | Unlisted (sources differ) |
-| Max load | 2.5 kg magnetic mount (Macworld, Digital Reviews); no tripod rating | Unlisted | Unlisted |
-| Phone mount | MagSafe-style magnet, adhesive ring for other phones | Holder for 2.8-5.7 in wide phones, 1/4 in adapter | Spring-loaded clamp on a 360 degree ball head |
-| Remote | Bluetooth, USB-C rechargeable, 32 ft (B&H) or 33 ft (KraftGeek) | Wireless shutter remote, range unlisted | Bluetooth, about 30 ft |
-| Legs | Three tap-to-open legs on a 10-section pole | Leg lock type unlisted | Bendable foam-coated legs |
+| Spec | KraftGeek JustTap (226M) | SENSYNE 62-Inch | EUCOS 62" | UBeesize Flexible |
+|---|---|---|---|---|
+| Max height | 66 in | 62 in | 62 in | About 10-11 in (sources differ) |
+| Center column | None | None | None | None |
+| Folded length | 13 in | Unlisted | About 12 in | Unlisted |
+| Weight | About 455 g (15.8 oz) | About 650 g | About 12.8 oz | Unlisted (sources differ) |
+| Max load | 2.5 kg magnetic mount (Macworld, Digital Reviews); no tripod rating | Unlisted | 2.2 lb (listing) | Unlisted |
+| Phone mount | MagSafe-style magnet, adhesive ring for other phones | Holder for 2.8-5.7 in wide phones, 1/4 in adapter | Holder for 2.2-3.6 in wide phones, cold shoe, 1/4 in thread | Spring-loaded clamp on a 360 degree ball head |
+| Remote | Bluetooth, USB-C rechargeable, 32 ft (B&H) or 33 ft (KraftGeek) | Wireless shutter remote, range unlisted | Wireless remote, 33 ft | Bluetooth, about 30 ft |
+| Legs | Three tap-to-open legs on a 10-section pole | Leg lock type unlisted | Small tripod base on a single pole | Bendable foam-coated legs |
 
 ## How We Chose Each Phone Tripod for Vlogging With Remote
 
-**I picked the three phone tripods with remotes that came up repeatedly in vlogging and iPhone tripod roundups, then checked each against maker and retailer spec pages and owner reviews.** What matters to me is the same thing I want from my own carbon tripods: a steady top at working height and a setup I can trust when I walk away from it.
+**I picked the four phone tripods with remotes that came up repeatedly in vlogging and iPhone tripod roundups, then checked each against maker and retailer spec pages and owner reviews.** What matters to me is the same thing I want from my own carbon tripods: a steady top at working height and a setup I can trust when I walk away from it.
 
-The owner evidence is uneven. For the KraftGeek I read 10 sources, including Macworld, Digital Camera World and a B&H customer review. For the UBeesize I read 6, including Bustle, PopSci, a ShopSavvy summary and eBay buyer ratings. For the SENSYNE I found only 4, none a retailer review page, so treat that verdict as an early signal.
+The owner evidence is uneven. For the KraftGeek I read 10 sources, including Macworld, Digital Camera World and a B&H customer review. For the UBeesize I read 6, including Bustle, PopSci, a ShopSavvy summary and eBay buyer ratings. For the SENSYNE I found only 4, none a retailer review page, so treat that verdict as an early signal. I added the EUCOS after a travel tripod guide and an r/youtubers vlogging thread both named it; I read 5 sources on it, including two Reddit threads.
 
 > **From our notes:** Remote range and tripod height were the two specs that never matched across sources. B&H lists the KraftGeek JustTap remote at 32 ft while KraftGeek's own pages say 33 ft. Bustle puts the UBeesize at about 10 in, other pages nearer 11 in. The SENSYNE manual and its listing disagree on minimum height. My rule: use the lower number and plan your framing around it.
 
-## The 3 Best Phone Tripods for Vlogging With Remote
+## The 4 Best Phone Tripods for Vlogging With Remote
 
 **I give each phone tripod for vlogging with remote below a plain take on who it suits, what owners like and what goes wrong.** The pros and cons lists sit beside each review.
 
@@ -397,6 +479,12 @@ The SENSYNE 62-Inch Phone Tripod & Selfie Stick is a 62 in aluminum phone tripod
 
 I'd pick it if standing height on a small budget matters most to you, but independent evidence is thin, and I would rather say so. Reviews describe smooth telescoping, solid-feeling aluminum and quick remote pairing on Android for one reviewer. They also report a bit of wobble at full height (it takes a real push to tip), a remote magnet that can come loose, an unreliable double-tap selfie toggle, and a tricky leg lock.
 
+### EUCOS 62" Phone Tripod: best phone tripod for a mic or light on top
+
+The EUCOS 62" Phone Tripod is a 62 in selfie stick tripod from EUCOS, and the one I'd pick if your vlog rig needs a mic or a small light. Its phone holder grips phones 2.2 to 3.6 in wide and carries a cold shoe and a 1/4 in thread on top, the listing rates it for 2.2 lb, and it folds to about 12 in at roughly 12.8 oz. The wireless remote is listed to 33 ft.
+
+Owners like the grippy handle, the smooth ring lock and a clamp that feels secure, and the Voltage Castle reviewer found the remote easy to set up. The catches are familiar: an r/videography owner asked whether the sway near full height is normal, the mount can shift at its locking knob, and switching to landscape means loosening the holder. Against the SENSYNE, I'd take the EUCOS for the cold shoe and published load.
+
 ### UBeesize Portable Phone Tripod with Wireless Remote: best budget flexible pick
 
 The UBeesize Portable Phone Tripod with Wireless Remote is a flexible phone tripod from UBeesize, not a standing tripod; I'd pick it for desks, tables and railings. Bustle lists it at about 10 in tall, other pages nearer 11 in. Its foam-coated legs wrap around rails, branches and chair backs, and a 360 degree ball head with a spring-loaded clamp switches between portrait and landscape. For a fixed desk setup, our [mini tripods for desk video calls](/blog/best-mini-tripod-for-desk-video-calls/) are steadier.
@@ -409,19 +497,19 @@ Owners like the grippy clamp that holds an iPhone securely, legs that sit well o
 
 ### Extendable selfie stick tripod vs flexible tripod legs
 
-A phone tripod for vlogging with remote comes in two shapes. An extendable selfie stick tripod such as the KraftGeek or SENSYNE reaches standing height and doubles as a handheld stick for walking shots, while [an iPhone tripod that follows you](/blog/best-iphone-tripod-that-follows-you/) turns to keep you in frame. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but never reaches eye level by itself. Magnetic auto-open designs such as the Ulanzi MT44M follow the stick-tripod idea.
+A phone tripod for vlogging with remote comes in two shapes. An extendable selfie stick tripod such as the KraftGeek, SENSYNE or EUCOS reaches standing height and doubles as a handheld stick for walking shots, while [an iPhone tripod that follows you](/blog/best-iphone-tripod-that-follows-you/) turns to keep you in frame. A flexible tripod in the style of the Joby GorillaPod, like the UBeesize, packs smaller and grips odd surfaces, but never reaches eye level by itself. Magnetic auto-open designs such as the Ulanzi MT44M follow the stick-tripod idea.
 
 ### Tripod remote range and battery
 
-A cell phone tripod with remote control is only as useful as its remote. These remotes are meant for iPhone and Android phones, but only the SENSYNE listing names both. Every Bluetooth shutter remote here is listed around 30 ft, and only the KraftGeek publishes its battery type (USB-C rechargeable). Check the box for the other two and pack a spare if the battery is replaceable. Given the dropout reports, I stay well inside the listed range.
+A cell phone tripod with remote control is only as useful as its remote. These remotes are meant for iPhone and Android phones, but only the SENSYNE and EUCOS listings name both. Every shutter remote here is listed around 30 ft, and only the KraftGeek publishes its battery type (USB-C rechargeable). Check the box for the others and pack a spare if the battery is replaceable. Given the dropout reports, I stay well inside the listed range.
 
 ### Phone clamp size and case compatibility
 
-A spring phone clamp is the jaw that grips the sides of your phone, and its width limits which phones and cases fit. The SENSYNE phone holder is listed for phones 2.8 to 5.7 in wide. The UBeesize clamp width is unlisted, so measure a Pro Max phone in its case first. The KraftGeek uses a MagSafe mount instead, which reviewers say holds through cases.
+A spring phone clamp is the jaw that grips the sides of your phone, and its width limits which phones and cases fit. The SENSYNE phone holder is listed for phones 2.8 to 5.7 in wide and the EUCOS holder for 2.2 to 3.6 in. The UBeesize clamp width is unlisted, so measure a Pro Max phone in its case first. The KraftGeek uses a MagSafe mount instead, which reviewers say holds through cases.
 
 ### Tripod height and load for a ring light and microphone
 
-From balancing my own gimbal, I know how fast extra weight up top changes a rig. A ring light and microphone on a cold shoe make a phone rig heavier and top-heavy, which is when a light stick tripod starts to sway. Only the KraftGeek has a published figure, and that 2.5 kg rating covers the magnetic mount, not the whole tripod. I treat any rating as a ceiling, not a target.
+From balancing my own gimbal, I know how fast extra weight up top changes a rig. A ring light and microphone on a cold shoe make a phone rig heavier and top-heavy, which is when a light stick tripod starts to sway. The EUCOS lists 2.2 lb and adds a cold shoe for the mic; the KraftGeek's 2.5 kg rating covers only its magnetic mount, not the whole tripod. I treat any rating as a ceiling, not a target.
 
 ## How to Pair a Phone Tripod Remote and Set Up Your Vlog Shot
 
@@ -436,7 +524,7 @@ From balancing my own gimbal, I know how fast extra weight up top changes a rig.
 
 ### Tripod framing at eye level
 
-None of these tripods has a center column. Both tall picks wobble at full extension, so I collapse the top section or two and stand back a little. Spread the legs fully, keep out of gusts, and hang nothing from the pole. If you later move up to a mirrorless camera, our [travel tripod for mirrorless camera guide](/blog/best-travel-tripod-for-mirrorless-camera/) covers proper load ratings and Arca-Swiss plates.
+None of these tripods has a center column. All three tall picks wobble at full extension, so I collapse the top section or two and stand back a little. Spread the legs fully, keep out of gusts, and hang nothing from the pole. If you later move up to a mirrorless camera, our [travel tripod for mirrorless camera guide](/blog/best-travel-tripod-for-mirrorless-camera/) covers proper load ratings and Arca-Swiss plates.
 
 ### Portrait vs landscape orientation on a phone tripod
 
@@ -453,10 +541,11 @@ TikTok, Reels and YouTube Shorts want portrait; long YouTube videos want landsca
 
 ## Which Phone Tripod for Vlogging With Remote Should You Buy?
 
-**My short answer: if you vlog on an iPhone, get the KraftGeek JustTap; for standing height for less, get the SENSYNE; for a desk or on the move, get the UBeesize.**
+**My short answer: if you vlog on an iPhone, get the KraftGeek JustTap; for standing height for less, get the SENSYNE; for a mic or light on top, get the EUCOS; for a desk or on the move, get the UBeesize.**
 
 - **Choose the KraftGeek JustTap if** you use MagSafe, want the fastest setup and a rechargeable remote, and accept some wobble at 66 in.
 - **Choose the SENSYNE 62-Inch if** you want a phone tripod with Bluetooth remote at standing height and a 1/4 in adapter, and can live with thin independent evidence.
+- **Choose the EUCOS 62" if** you want a cold shoe for a mic or light, a 2.2 lb listed load and a 12 in folded length, and accept some sway near full height.
 - **Choose the UBeesize if** you want a lightweight portable travel tripod with remote for tables and railings, not eye-level standing shots.
 
 If you are eyeing a full camera tripod for travel, our [Peak Design Travel Tripod vs Manfrotto Befree Advanced comparison](/blog/peak-design-travel-tripod-vs-manfrotto-befree-advanced/) is a good next read.

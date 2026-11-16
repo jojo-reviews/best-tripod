@@ -310,6 +310,27 @@
     "https://aiwealth.digitalpress.blog/5-best-phone-tripods-for-vlogging-in-2026/",
     "https://www.mayfairfarms.com/?p=69746"
    ]
+  },
+  {
+   "name": "EUCOS 62\" Phone Tripod",
+   "pages": [
+    "https://www.findingtheuniverse.com/best-phone-tripod/",
+    "https://www.reddit.com/r/youtubers/comments/1oh1cvu/phone_tripod_for_vlogging_recommendations/",
+    "https://www.usatoday.com/story/shopping/deals/retailers/amazon/2026/10/21/tripod-and-selfie-stick-with-remote-deal/92360399007/"
+   ]
   }
- ]
+ ],
+ "topup": {
+  "at": "2026-11-16",
+  "added": [
+   "EUCOS 62\" Phone Tripod (B09XHZ8F7F)"
+  ],
+  "rejected": {
+   "Ulanzi MT-44M (B0GYN8JXXB)": "only 1 independent page (Finding the Universe)",
+   "JOBY TelePod TP09 Grip (B0H73W9XJK)": "only 1 independent page (Finding the Universe)",
+   "ATUMTEK 3-in-1 (B07TV5BCVW)": "31 in max height (TechGearLab), not a standing vlog tripod",
+   "UBeesize ring light tripod": "Bustle and PopSci list different heights (67.3 vs 62 in), exact model unclear",
+   "Ulanzi MT-44 (B09T92NK4J)": "no remote included; already in 4 posts"
+  }
+ }
 }
