@@ -1,7 +1,7 @@
 {
   "slug": "best-tabletop-camera-tripod",
   "pass": true,
-  "checkedAt": "2026-11-13T19:21:11.046Z",
+  "checkedAt": "2026-11-16T17:50:23.257Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto PIXI EVO 2-Section Mini Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,14 +11,13 @@
     "product \"Ulanzi MT-16 Extendable Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration \"Weighing a camera and lens on a kitchen \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Turning a tabletop tripod so one leg sit\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
-    "video is placed after the section heading; reword \"the video below/above\" to \"the video in this section\"",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:21:08.738Z",
-    "hash": "950cf9a774d658f4"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-16T17:50:32.026Z",
+    "hash": "6aa367ba06c1dfc8"
   }
 }

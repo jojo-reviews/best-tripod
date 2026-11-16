@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-product-photography",
   "pass": true,
-  "checkedAt": "2026-11-13T19:20:42.611Z",
+  "checkedAt": "2026-11-16T17:51:10.889Z",
   "errors": [],
   "warnings": [
     "product \"Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:20:41.656Z",
-    "hash": "00c3bd7c3f959241"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-16T17:51:09.741Z",
+    "hash": "42431f9806b332c2"
   }
 }

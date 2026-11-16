@@ -1,10 +1,11 @@
 {
   "slug": "ball-head-tripod",
   "pass": true,
-  "checkedAt": "2026-11-11T22:25:38.345Z",
+  "checkedAt": "2026-11-16T17:49:45.323Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: body has 1822 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Really Right Stuff BH-40 Ballhead with Full-Size Lever-Release Clamp\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Benro GX35 Three Series Arca-Swiss Style Low Profile Aluminum Ballhead with PU56 Camera Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"

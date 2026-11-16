@@ -1,12 +1,13 @@
 {
   "slug": "twist-lock-vs-flip-lock-tripod-legs",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:51.866Z",
+  "checkedAt": "2026-11-16T17:49:55.925Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "LIVE POST, FIX: body has 1386 words, over the 1265 limit (top results average 1100): cut repetition and filler",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"A tripod leg with twist lock collars bes\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Sand dusting the lower leg sections and \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Gloved hands opening a lever lock on a t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

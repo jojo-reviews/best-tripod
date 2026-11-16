@@ -1,12 +1,14 @@
 {
   "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-11T20:56:10.530Z",
+  "checkedAt": "2026-11-16T17:49:45.442Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto 496RC2 Compact Ball Head; Leofoto LH-40; Sirui K-30X Ball Head; Manfrotto XPRO 3-Way Head MHXPRO-3W; Benro GD3WH 3-Way Geared Head",
     "body has 3028 words, over the 1840 limit (top results average 1600): cut repetition and filler",
+    "first paragraph does not answer the keyword (missing: pan, tilt, landscape); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Manfrotto 496RC2 Compact Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Leofoto LH-40\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Sirui K-30X Ball Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",

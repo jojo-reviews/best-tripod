@@ -1,9 +1,11 @@
 {
   "slug": "tripod-shake-when-pressing-shutter",
   "pass": true,
-  "checkedAt": "2026-11-12T17:49:33.164Z",
+  "checkedAt": "2026-11-16T17:49:55.841Z",
   "errors": [],
   "warnings": [
+    "first paragraph does not answer the keyword (missing: shake, when, pressing, shutter); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"A hand stepping back from a camera on a \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A remote shutter release held a step awa\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A telephoto lens mounted by its collar o\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

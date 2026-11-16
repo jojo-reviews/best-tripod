@@ -1,10 +1,12 @@
 {
   "slug": "carbon-fiber-vs-aluminum-tripod-for-hiking",
   "pass": true,
-  "checkedAt": "2026-11-11T22:26:01.958Z",
+  "checkedAt": "2026-11-16T17:49:54.170Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
+    "first paragraph does not answer the keyword (missing: aluminum, hiking); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"A carbon fiber tripod leg next to an alu\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A light hiking tripod set low on a windy\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"Gloved hands wrapping tape around alumin\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

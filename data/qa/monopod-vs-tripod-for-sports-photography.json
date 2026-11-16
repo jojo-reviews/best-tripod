@@ -1,10 +1,12 @@
 {
   "slug": "monopod-vs-tripod-for-sports-photography",
   "pass": true,
-  "checkedAt": "2026-11-11T22:25:44.857Z",
+  "checkedAt": "2026-11-16T17:49:55.081Z",
   "errors": [],
   "warnings": [
     "body has 1957 words, over the 1495 limit (top results average 1300): cut repetition and filler",
+    "first paragraph does not answer the keyword (missing: monopod, sports, photography); open with the answer and the exact keyword, put Ned's story in paragraph 2",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"iFootage Cobra 3 C180F-P\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Vanguard VEO 2S CM-264TR\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "0 sourced numbers; put at least 1 statistic in the text with the number itself linked to the page it comes from, e.g. [about 1 in 4 renters](https://source)"

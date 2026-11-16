@@ -1,10 +1,11 @@
 {
   "slug": "travel-tripod-vs-full-size-tripod-for-landscape-photography",
   "pass": true,
-  "checkedAt": "2026-11-13T17:50:18.216Z",
+  "checkedAt": "2026-11-16T17:49:55.381Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration \"A travel tripod and a full-size tripod s\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A full-size tripod standing in a stream \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

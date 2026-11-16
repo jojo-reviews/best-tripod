@@ -1,10 +1,11 @@
 {
   "slug": "how-to-stop-tripod-shake-in-wind",
   "pass": true,
-  "checkedAt": "2026-11-11T22:26:02.353Z",
+  "checkedAt": "2026-11-16T17:49:54.625Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: body has 960 words, over the 834 limit (top results average 725): cut repetition and filler",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "illustration \"A tripod set low with its center column \" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A stone-filled bag on the ground tied ta\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",
     "illustration \"A photographer shielding a tripod from t\" has no caption (owner rule 2026-11-02: one short caption naming the reader's action)",

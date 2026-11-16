@@ -1,11 +1,12 @@
 {
   "slug": "tripod-for-wildlife-photography",
   "pass": true,
-  "checkedAt": "2026-11-11T22:25:40.656Z",
+  "checkedAt": "2026-11-16T17:49:55.625Z",
   "errors": [],
   "warnings": [
     "LIVE POST, FIX: seoTitle needs a number (e.g. \"7 Picks\", \"12 Tips\") to earn the click; a year does not count (owner rule 2026-11-06)",
     "no internal /blog/ link in the first third of the body: put one in running text in the intro or first two H2 sections",
+    "first paragraph opens with the author bio; open with the answer, move the story hook to paragraph 2 (patent rule 2026-11-13)",
     "product \"Leofoto LS-284C Ranger\" has no \"### Leofoto LS-284C Ranger: ...\" section, so it gets a card instead",
     "product \"Leofoto LS-284C Ranger\" has no Amazon photo yet (the Amazon refresh adds it after push)"
   ],

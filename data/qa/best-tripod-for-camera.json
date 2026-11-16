@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-camera",
   "pass": true,
-  "checkedAt": "2026-11-13T15:54:43.715Z",
+  "checkedAt": "2026-11-16T17:49:47.388Z",
   "errors": [],
   "warnings": [
     "product \"Peak Design Travel Tripod (Aluminum)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -12,7 +12,8 @@
     "product \"Gitzo Series 1 Traveler Carbon Fiber Tripod with Center Ball Head (GK1545T-82TQD)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "keyword overlaps /blog/tall-tripod-vs-regular-tripod/ (\"best tripod for camera\" overlaps \"tall camera tripod\" (100%))"
   ],
   "factCheck": {
     "verified": true,

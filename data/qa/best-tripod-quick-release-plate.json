@@ -1,9 +1,10 @@
 {
   "slug": "best-tripod-quick-release-plate",
   "pass": true,
-  "checkedAt": "2026-11-06T15:55:20.690Z",
+  "checkedAt": "2026-11-16T17:50:37.867Z",
   "errors": [],
   "warnings": [
+    "LIVE POST, FIX: body has 1297 words, over the 1208 limit (top results average 1050): cut repetition and filler",
     "product \"FALCAM F38 Quick Release Kit V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"Peak Design Standard Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"PGYTECH Quick Release Plate & Clamp V2\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,16 +12,12 @@
     "product \"NEEWER QPR-5 Quick Release Plate\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)",
-    "source didn't respond normally (403): https://www.pgytech.com/products/arca-type-quick-release-clamp-plate-v2",
-    "source didn't respond normally (403): https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems",
-    "source didn't respond normally (403): https://www.dpreview.com/forums/threads/quick-release-plate.4823610/",
-    "source didn't respond normally (403): https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "2026-11-04 semantic pass: TextRazor on live top 5 (4 analyzed); no new facts, prices, ratings or products; first H2 renamed to a rated-load comparison (5 kg NEEWER QPR-5 to 15 kg FALCAM F38, from maker/listing specs already sourced); FAQ answers reopened with the answer; lens-foot tip is general mounting practice; captions added; trims; reviewedDate only.",
-    "at": "2026-11-04T17:53:23.526Z",
-    "hash": "b6bc0589b808ce19"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-16T17:50:36.758Z",
+    "hash": "98749ab952601625"
   }
 }

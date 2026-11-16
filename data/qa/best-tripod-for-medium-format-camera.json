@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-medium-format-camera",
   "pass": true,
-  "checkedAt": "2026-11-13T19:20:45.338Z",
+  "checkedAt": "2026-11-16T17:50:36.731Z",
   "errors": [],
   "warnings": [
     "product \"Gitzo GT3543LS Systematic Series 3\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:20:44.376Z",
-    "hash": "6128ade6de6334e7"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-16T17:50:35.520Z",
+    "hash": "bae8c03b0402dc96"
   }
 }

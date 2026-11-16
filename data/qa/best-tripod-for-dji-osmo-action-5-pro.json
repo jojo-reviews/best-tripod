@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-dji-osmo-action-5-pro",
   "pass": true,
-  "checkedAt": "2026-11-13T19:20:51.258Z",
+  "checkedAt": "2026-11-16T17:51:06.424Z",
   "errors": [],
   "warnings": [
     "product \"DJI Osmo Action Mini Extension Rod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -14,8 +14,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "first-person pass: non-testing statements removed, no new claims",
-    "at": "2026-11-13T19:20:49.990Z",
-    "hash": "3ef97291c4e6b855"
+    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
+    "at": "2026-11-16T17:51:05.516Z",
+    "hash": "36094795cd98f4d1"
   }
 }
