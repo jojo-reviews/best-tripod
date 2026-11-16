@@ -1,0 +1,550 @@
+{
+  "date": "2026-11-16",
+  "site": "best-tripod.com",
+  "agent": "audit-agent",
+  "reportOnly": true,
+  "context": "GitHub Actions blocked until 2026-12-01 (free quota used); last deploy 2026-11-13; GSC dashboard data to 2026-11-13 (generated 2026-11-14). Repo checks use committed+working-tree post files; the live site is the 13 Nov build.",
+  "status": {
+    "domainRating": 10,
+    "liveRefdomains": 63,
+    "liveBacklinks": 65,
+    "ahrefsOrganicKeywords": {
+      "all": 1,
+      "us": 0,
+      "list": [
+        {
+          "keyword": "tripod met afstandsbediening",
+          "country": "NL",
+          "position": 8,
+          "volume": 10,
+          "url": "/nl/blog/beste-telefoonstatief-voor-vloggen-met-afstandsbediening/"
+        }
+      ]
+    },
+    "gsc7d": {
+      "clicks": 102,
+      "impressions": 5915,
+      "prev7Clicks": 80,
+      "prev7Impressions": 4896,
+      "window": "2026-11-07..2026-11-13",
+      "avgPositionLastDays": "11.2-14.0"
+    },
+    "livePosts": {
+      "englishLive": 115,
+      "informational": 30,
+      "roundups": 85,
+      "notYetLive": [
+        "best-tripod-for-cooking-videos",
+        "tripod-extension"
+      ],
+      "draft": [
+        "best-tripod-for-xbotgo"
+      ],
+      "translationsInRepo": 177
+    }
+  },
+  "checks": {
+    "qaLiveEnglish": {
+      "firstParagraphOpensWithBio": {
+        "count": 15,
+        "posts": [
+          "4-section-vs-5-section-tripod",
+          "ball-head-tripod",
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "best-phone-tripod-for-vlogging-with-remote",
+          "best-travel-tripod-for-mirrorless-camera",
+          "best-tripod-for-real-estate-photography",
+          "carbon-fiber-vs-aluminum-tripod-for-hiking",
+          "how-to-stop-tripod-shake-in-wind",
+          "monopod-vs-tripod-for-sports-photography",
+          "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+          "travel-tripod-vs-full-size-tripod-for-landscape-photography",
+          "tripod-center-column-up-or-down-for-landscapes",
+          "tripod-for-wildlife-photography",
+          "tripod-shake-when-pressing-shutter",
+          "twist-lock-vs-flip-lock-tripod-legs"
+        ]
+      },
+      "firstParagraphMissingKeyword": {
+        "count": 5,
+        "posts": [
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "carbon-fiber-vs-aluminum-tripod-for-hiking",
+          "monopod-vs-tripod-for-sports-photography",
+          "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+          "tripod-shake-when-pressing-shutter"
+        ]
+      },
+      "notTested": {
+        "count": 1,
+        "posts": [
+          "best-tripod-that-fits-in-carry-on-luggage"
+        ],
+        "note": "false positive: the flagged sentence is \"I don't use it as a column-down figure\" (a spec statement, not a testing claim)"
+      },
+      "roundupsUnder5Products": {
+        "count": 9,
+        "posts": [
+          "best-gimbal-head-for-150-600mm-lens",
+          "best-mini-tripod-for-desk-video-calls",
+          "best-monopod-with-feet-for-wildlife-photography",
+          "best-phone-tripod-for-vlogging-with-remote",
+          "best-tripod-for-content-creators",
+          "best-tripod-for-tall-photographers-over-6-feet",
+          "best-tripod-for-youtube-videos",
+          "best-tripod-that-fits-in-carry-on-luggage",
+          "best-video-tripod-with-fluid-head-for-beginners"
+        ]
+      },
+      "bodyOverLengthLimit": {
+        "count": 31,
+        "posts": [
+          "ball-head-tripod",
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "best-hiking-tripod",
+          "best-mini-tripod-for-desk-video-calls",
+          "best-monopod-with-feet-for-wildlife-photography",
+          "best-phone-tripod-for-vlogging-with-remote",
+          "best-travel-tripod-for-mirrorless-camera",
+          "best-tripod-feet-for-sand-snow-and-rock",
+          "best-tripod-for-canon-r8",
+          "best-tripod-for-golf-swing-recording",
+          "best-tripod-for-iphone-night-mode-photos",
+          "best-tripod-for-macro-photography",
+          "best-tripod-for-real-estate-photography",
+          "best-tripod-for-sony-a6700",
+          "best-tripod-for-sony-a7iv",
+          "best-tripod-for-sony-fx3",
+          "best-tripod-for-tall-photographers-over-6-feet",
+          "best-tripod-for-telescope",
+          "best-tripod-that-fits-in-carry-on-luggage",
+          "best-video-tripod-with-fluid-head-for-beginners",
+          "binocular-tripod-adapter",
+          "how-tall-should-a-tripod-be-for-my-height",
+          "how-to-stop-tripod-shake-in-wind",
+          "l-bracket-for-landscape-photography",
+          "landscape-photography-tripod",
+          "leveling-base-vs-leveling-column",
+          "monopod-vs-tripod-for-sports-photography",
+          "tripod-leg-lock-wont-hold",
+          "twist-lock-vs-flip-lock-tripod-legs",
+          "video-tripod-bowl-size-explained-75mm-vs-100mm",
+          "what-is-an-arca-swiss-plate-and-do-i-need-one"
+        ]
+      },
+      "illustrationsWithoutCaption": {
+        "count": 15,
+        "posts": [
+          "4-section-vs-5-section-tripod",
+          "ball-head-sags-after-tightening",
+          "best-tabletop-camera-tripod",
+          "best-tripod-for-canon-r6-mark-ii",
+          "best-tripod-for-live-streaming",
+          "best-tripod-for-northern-lights",
+          "carbon-fiber-vs-aluminum-tripod-for-hiking",
+          "how-to-choose-a-tripod-for-a-heavy-telephoto-lens",
+          "how-to-stop-tripod-shake-in-wind",
+          "travel-tripod-vs-full-size-tripod-for-landscape-photography",
+          "tripod-center-column-up-or-down-for-landscapes",
+          "tripod-leg-lock-wont-hold",
+          "tripod-shake-when-pressing-shutter",
+          "twist-lock-vs-flip-lock-tripod-legs",
+          "video-tripod-bowl-size-explained-75mm-vs-100mm"
+        ]
+      },
+      "seoTitleWithoutNumber": {
+        "count": 12,
+        "posts": [
+          "ball-head-vs-pan-tilt-head-for-landscape-photography",
+          "best-tripod-for-spotting-scope",
+          "binocular-tripod-adapter",
+          "carbon-fiber-vs-aluminum-tripod-for-hiking",
+          "flexible-tripod-vs-mini-tripod-for-travel-vlogging",
+          "how-tall-should-a-tripod-be-for-my-height",
+          "leveling-base-vs-leveling-column",
+          "peak-design-travel-tripod-vs-manfrotto-befree-advanced",
+          "travel-tripod-vs-full-size-tripod-for-landscape-photography",
+          "tripod-for-wildlife-photography",
+          "twist-lock-vs-flip-lock-tripod-legs",
+          "video-tripod-bowl-size-explained-75mm-vs-100mm"
+        ]
+      },
+      "other": {
+        "productNotFirstPerson": {
+          "count": 1,
+          "posts": [
+            "ball-head-vs-pan-tilt-head-for-landscape-photography"
+          ]
+        },
+        "noSourcedNumber": {
+          "count": 7,
+          "posts": [
+            "ball-head-tripod",
+            "best-mini-tripod-for-desk-video-calls",
+            "best-tripod-for-real-estate-photography",
+            "best-tripod-that-fits-in-carry-on-luggage",
+            "binocular-tripod-adapter",
+            "landscape-photography-tripod",
+            "monopod-vs-tripod-for-sports-photography"
+          ]
+        },
+        "sectionOpensWithDeferral": {
+          "count": 6,
+          "posts": [
+            "ball-head-vs-pan-tilt-head-for-landscape-photography",
+            "best-tripod-for-youtube-videos",
+            "best-tripod-that-fits-in-carry-on-luggage",
+            "how-to-stop-tripod-shake-in-wind",
+            "landscape-photography-tripod",
+            "leveling-base-vs-leveling-column"
+          ]
+        },
+        "salesWords3plus": {
+          "count": 0,
+          "posts": []
+        }
+      },
+      "localOnlyWarningsIgnored": "549 illustration-not-generated and 473 no-Amazon-photo warnings are local (filled by CI at deploy); live pages checked show Amazon photos."
+    },
+    "internalLinks": {
+      "fewerThan2InlinksFromLivePosts": [
+        "best-tripod-for-real-estate-photography (0)",
+        "tripod-mistakes-lessons-from-reddit (0)",
+        "best-monopod-for-hiking (1)",
+        "best-tripod-for-canon-r8 (1)"
+      ],
+      "informationalWithoutRoundupLink": [],
+      "roundupsNoInformationalLinksTo": {
+        "count": 43,
+        "pillarsAmongThem": [
+          "best-tripod-for-youtube-videos"
+        ],
+        "examples": [
+          "best-tripod-for-youtube-videos",
+          "best-tripod-for-hunting",
+          "best-tripod-for-macro-photography",
+          "best-tripod-for-live-streaming",
+          "best-tripod-for-product-photography",
+          "best-tripod-for-real-estate-photography",
+          "best-tripod-for-mirrorless-camera",
+          "best-tripod-for-content-creators"
+        ]
+      }
+    },
+    "contentMix": {
+      "informationalShareLive": "26.1% (30/115), target 35%+",
+      "pillarsSupporting": "9 of 10 pillars have 0 supporting posts; tall pillar 2/4 (1 not live yet)",
+      "productsIn6PlusPosts": [
+        [
+          "Manfrotto Befree Advanced Aluminum (MKBFRLA4BK-BH)",
+          23
+        ],
+        [
+          "Peak Design Travel Tripod Carbon",
+          21
+        ],
+        [
+          "Peak Design Travel Tripod Aluminum",
+          18
+        ],
+        [
+          "K&F Concept 64in Aluminum",
+          12
+        ],
+        [
+          "SIRUI Traveler 5C",
+          11
+        ],
+        [
+          "JOBY GorillaPod 3K Kit",
+          9
+        ],
+        [
+          "Manfrotto PIXI EVO (two name variants)",
+          13
+        ],
+        [
+          "Manfrotto 055 Aluminum kit",
+          7
+        ],
+        [
+          "Manfrotto PIXI Mini",
+          7
+        ],
+        [
+          "Leofoto LS-284CX Ranger",
+          7
+        ],
+        [
+          "Vanguard Alta Pro 2+ 263AB",
+          6
+        ]
+      ],
+      "sameTopTwoPicks": [
+        [
+          "B0772WLSHZ+B085BQTQMN",
+          [
+            "best-tripod-for-canon-r6-mark-ii",
+            "best-tripod-for-mirrorless-camera",
+            "best-tripod-for-nikon-z8",
+            "best-tripod-for-sony-a6700",
+            "best-tripod-for-sony-a7iv"
+          ]
+        ],
+        [
+          "B0772WLSHZ+B085BQS6K4",
+          [
+            "best-tripod-for-canon-r8",
+            "best-tripod-for-fujifilm-x-t5",
+            "landscape-photography-tripod"
+          ]
+        ],
+        [
+          "B071F31XLR+B085BQTQMN",
+          [
+            "best-carbon-fiber-travel-tripod",
+            "best-tripod-for-northern-lights"
+          ]
+        ],
+        [
+          "B07KD181B3+B085BQTQMN",
+          [
+            "best-tripod-for-leica-q3",
+            "best-tripod-that-fits-in-carry-on-luggage"
+          ]
+        ]
+      ],
+      "keywordOverlapWarnings": [
+        "landscape-photography-tripod (pillar) vs travel-tripod-vs-full-size-tripod-for-landscape-photography: 4 of top-10 shared, same intent",
+        "tripod-center-column-up-or-down-for-landscapes vs leveling-base-vs-leveling-column (75%)",
+        "best-tripod-for-canon-r6-mark-ii vs best-tripod-for-canon-m50 (80% word overlap)"
+      ]
+    },
+    "authority": {
+      "ahrefsUnitsUsed": 322,
+      "newRefdomainsSince": "2026-11-09",
+      "newRefdomains": [
+        {
+          "domain": "mavicpilots.com",
+          "dr": 44,
+          "dofollow": false,
+          "firstSeen": "2026-11-16",
+          "onTopic": "yes (drone/camera forum)",
+          "status": "not in any list; looks natural"
+        },
+        {
+          "domain": "barracksrow.org",
+          "dr": 42,
+          "dofollow": true,
+          "firstSeen": "2026-11-14",
+          "onTopic": "no (neighbourhood site)",
+          "status": "not in the owner-built list; same pattern as owner-built links; ask owner, do not disavow"
+        },
+        {
+          "domain": "stefanopolitimarkovina.com",
+          "dr": 6,
+          "dofollow": false,
+          "firstSeen": "2026-11-14",
+          "onTopic": "unclear",
+          "status": "not in any list; low value, no spam pattern"
+        },
+        {
+          "domain": "dsr.org.au",
+          "dr": 45,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "altrevue.com",
+          "dr": 26,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "canadiancitizens.org",
+          "dr": 11,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "uicradio.net",
+          "dr": 25,
+          "dofollow": true,
+          "status": "owner-built (Ahrefs flags is_spam=true)"
+        },
+        {
+          "domain": "greatbridalexpo.com",
+          "dr": 37,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "candybasketinc.com",
+          "dr": 2,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "claremontindependent.com",
+          "dr": 38,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "larryedmunds.com",
+          "dr": 37,
+          "dofollow": true,
+          "status": "owner-built"
+        },
+        {
+          "domain": "completestorageandlogistics.com.au",
+          "dr": 28,
+          "dofollow": true,
+          "status": "owner-built"
+        }
+      ],
+      "newSpamDomains": [],
+      "note": "No new numbered .xyz, list.show-type or a8q9.cn-type domains; disavow file needs no change. Anchors not available from the exposed Ahrefs tools (referring-domains has no anchor column)."
+    },
+    "rankings": {
+      "gscPositions5to20TopRealQueries": [
+        {
+          "query": "tripod specs",
+          "impr": 120,
+          "pos": 5.3,
+          "url": "/blog/how-tall-should-a-tripod-be-for-my-height/"
+        },
+        {
+          "query": "monopod with feet",
+          "impr": 71,
+          "pos": 19.4,
+          "url": "/blog/best-monopod-with-feet-for-wildlife-photography/"
+        },
+        {
+          "query": "best tripod for athletes",
+          "impr": 69,
+          "pos": 6.3,
+          "url": "/blog/best-tripod-for-filming-sports/"
+        },
+        {
+          "query": "arca swiss plate",
+          "impr": 48,
+          "pos": 17.3,
+          "url": "/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/"
+        },
+        {
+          "query": "dji osmo pocket 3 tripod",
+          "impr": 47,
+          "pos": 10.5,
+          "url": "/blog/best-tripod-for-dji-osmo-pocket-3/"
+        },
+        {
+          "query": "revic ms1 binocular mounting stud",
+          "impr": 42,
+          "pos": 15.3,
+          "url": "/blog/binocular-tripod-adapter/"
+        },
+        {
+          "query": "tripod dolly",
+          "impr": 36,
+          "pos": 19.2,
+          "url": "/blog/best-tripod-dolly/"
+        },
+        {
+          "query": "photography equipment for tall people",
+          "impr": 35,
+          "pos": 5.5,
+          "url": "/blog/best-tripod-for-tall-photographers-over-6-feet/"
+        },
+        {
+          "query": "how to clean tripod",
+          "impr": 34,
+          "pos": 5.6,
+          "url": "/blog/how-to-clean-tripod-legs-after-the-beach/"
+        },
+        {
+          "query": "iphone tripod mount with remote",
+          "impr": 32,
+          "pos": 16.3,
+          "url": "/blog/best-phone-tripod-for-vlogging-with-remote/"
+        },
+        {
+          "query": "tripod height for 6 feet",
+          "impr": 30,
+          "pos": 8.8,
+          "url": "/blog/how-tall-should-a-tripod-be-for-my-height/"
+        },
+        {
+          "query": "best tripod for youtubers",
+          "impr": 25,
+          "pos": 6.6,
+          "url": "/blog/best-tripod-for-youtube-videos/"
+        }
+      ],
+      "junkQueriesIgnored": "year-stamped nonsense queries (best bamboo/quiet/classic/healthiest tripod 2025/2026) mirror spam anchors; ignored"
+    },
+    "liveChecks": {
+      "randomUrls": {
+        "/blog/best-tripod-for-iphone-night-mode-photos/": "200, Amazon photos",
+        "/blog/best-tripod-for-canon-r6-mark-ii/": "200, Amazon photos",
+        "/blog/best-tripod-for-long-exposure/": "200, Amazon photos",
+        "/blog/best-tripod-for-zwo-am5/": "200, Amazon photos",
+        "/blog/best-tripod-for-gopro/": "200, Amazon photos"
+      },
+      "robotsTxt": "200, User-agent: * Allow: /, sitemap listed",
+      "sitemap": "sitemap-0.xml 200; newest live post tall-tripod-vs-regular-tripod (2026-11-13) listed; 115 English posts + 7 blog index pages",
+      "note": "data/published-urls.json is stale (96 URLs; the 19 posts live since 2026-11-08 are missing). It is the 301 safety net, so it should be refreshed at the next build."
+    }
+  },
+  "fixes": [
+    {
+      "p": 1,
+      "fix": "Top up the pillar roundups under 5 products first (youtube-videos 3, phone-vlogging-remote 3, monopod-with-feet 3, fluid-head-beginners 3, tall-photographers 4), then desk-video-calls, carry-on, gimbal-150-600, content-creators. Topup 2/day per data/roundup-topup.json; only 2 done so far.",
+      "agent": "product",
+      "owner": false
+    },
+    {
+      "p": 2,
+      "fix": "Next new posts = supporting informational posts for the 9 pillars with 0 support (first gopro, monopod-with-feet, dji-osmo-pocket-3); informational share is 26%, target 35% (~14 more info posts with no new roundups).",
+      "agent": "keyword",
+      "owner": false
+    },
+    {
+      "p": 3,
+      "fix": "Internal links: give real-estate-photography and tripod-mistakes-lessons-from-reddit 2+ in-body links (both 0), monopod-for-hiking and canon-r8 one more; each pillar and the 43 orphaned roundups need a link from a relevant informational post.",
+      "agent": "improve",
+      "owner": false
+    },
+    {
+      "p": 4,
+      "fix": "Improve titles/H2/first paragraph for GSC queries at positions 5-10 with 0 clicks: tripod specs (120 impr, 5.3), best tripod for athletes (6.3), photography equipment for tall people (5.5), how to clean tripod (5.6), best tripod for youtubers (6.6), tripod height for 6 feet (8.8).",
+      "agent": "improve",
+      "owner": false
+    },
+    {
+      "p": 5,
+      "fix": "First paragraph: 15 live posts open with the bio and 5 miss the keyword; give the direct answer + exact keyword first, story in paragraph 2.",
+      "agent": "writer",
+      "owner": false
+    },
+    {
+      "p": 6,
+      "fix": "Reduce overlap: landscape-photography-tripod (pillar) vs travel-tripod-vs-full-size (same intent, 4/10 shared) and center-column vs leveling-base; sharpen each angle and cross-link; never change URL, slug or keyword. Vary picks: 5 camera roundups share the same top two (Befree Advanced + Peak Design); Befree is in 23 posts.",
+      "agent": "improve + product",
+      "owner": false
+    },
+    {
+      "p": 7,
+      "fix": "Deploy is stuck since 13 Nov (Actions blocked until 1 Dec); top-ups and story passes are waiting locally. Owner decides: wait for 1 Dec, or a free manual deploy.",
+      "agent": "none (owner)",
+      "owner": true
+    },
+    {
+      "p": 8,
+      "fix": "Cleanup in the story pass: 16 live posts flagged over the length limit (31 in total), 12 seoTitles without a number, 15 posts with uncaptioned illustrations. QA \"not tested\" warning on carry-on is a false positive.",
+      "agent": "writer",
+      "owner": false
+    }
+  ],
+  "backlinksNote": "3 new domains not in any list (mavicpilots.com nofollow on-topic, barracksrow.org dofollow off-topic, stefanopolitimarkovina.com nofollow); none matches the spam patterns; owner to confirm whether barracksrow.org is his. No disavow change."
+}
