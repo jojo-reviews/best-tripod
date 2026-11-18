@@ -1,5 +1,7 @@
 # Daily publishing routine (Claude Routine playbook)
 
+> **Owner rule 2026-11-18 ("site ko jis din hum na author add kiya os sa 1 din pahly ki repository sa backup restore kar do foran", owner chose the full restore): best-tripod.com site content (src/, public/, data/, site.config.json) was restored to its 2026-11-10 state (commit abedf54; pre-restore backup bundle in rentersmarthome.us/backups/). This SUSPENDS for best-tripod.com, until the owner says otherwise: the Ned Diary author (author is "Best Tripod Editorial Team" again, as on 10 Nov), the story pass, Ned story hooks in paragraph 2, the first-person-agent pass and the 2026-11-13 "remove did-not-test lines" pass. New posts are written in the 10 Nov style (editorial team, "we/our"), with the answer and exact keyword in paragraph 1. Still in force: no testing/ownership claims, pillar clusters (supporting posts restart from zero), named owner voices trial, 1-2 posts/day, GitHub free-quota rules. The posts published 11-14 Nov were removed (owner accepted their URLs returning 404).**
+
 A scheduled Claude Code session runs this playbook once a day. It does the work of
 the four agents in `agents/` itself (no Anthropic API key needed), then pushes,
 which triggers the Cloudflare deploy and the Amazon image refresh.
