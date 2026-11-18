@@ -334,7 +334,7 @@ sources:
   url: https://www.reddit.com/r/smartphonefilming/comments/1v6kixl/recommend_me_a_face_tracking_tripod_for_iphone/
 - title: 'r/MagSafe: DockKit stands and gimbals in late 2025'
   url: https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-09'
 faqs:
 - q: Funktioniert ein iPhone Stativ mit Tracking in der normalen Kamera-App?
   a: Ja, ein iPhone Stativ mit Tracking funktioniert in der Kamera-App, wenn es Apple DockKit unterstützt oder ein eigenes Tracking-Modul mitbringt. Flow 2 Pro, Osmo Mobile 8 und 8P nutzen DockKit; Osmo Mobile 7P und iSteady M7 nutzen ein aufsteckbares Modul, das in allen Kamera-Apps arbeitet.
@@ -348,7 +348,7 @@ faqs:
   a: Ja, ein Tracking-Gimbal lässt sich für Aufnahmen auf Augenhöhe auf ein normales Stativ setzen. ProVideo Coalition zeigt den Osmo Mobile 8 auf einem regulären Stativ, und DJI nennt für die Osmo-Mobile-7-Serie ein 1/4-Zoll-Gewinde, dasselbe 1/4"-20-Gewinde wie bei einer Stativplatte; spreize die Beine weit, weil die Motoren das Gewicht verlagern.
 - q: Kann ich den Belkin Auto-Tracking Stand Pro noch kaufen?
   a: Nein, der Belkin Auto-Tracking Stand Pro (Modell MMA008) wurde am 26. November 2025 zurückgerufen, weil sein Lithium-Ionen-Akku überhitzen und Feuer fangen kann. Besitzer sollen ihn nicht mehr benutzen und bei Belkin Erstattung oder Ersatz anfordern.
-author: ned-diary
+author: editorial-team
 videos:
 - id: xpGQbxokbhY
   afterHeading: 5
@@ -369,7 +369,7 @@ heroImage: /images/featured/best-iphone-tripod-that-follows-you.png
 heroAlt: iPhone Stativ mit Tracking – 5 Gimbals, die dir folgen, im Vergleich – Kaufratgeber von Best Tripod
 ---
 
-Das beste iPhone Stativ mit Tracking ist ein Gimbal mit integriertem Stativ, und für die meisten iPhone-Besitzer ist meine Wahl der [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Er trackt über Apple DockKit, sodass dir die Kamera-App und über 200 iOS-Apps folgen, und er schwenkt volle 360°. Der [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) ist die nahe Alternative mit Tracking-Modul im Lieferumfang. Ich habe fünf Modelle anhand von Herstellerangaben und Erfahrungen von Besitzern verglichen. Wenn dir ein starres Stativ mit Fernbedienung reicht, sind meine [Handy-Stative für Vlogging mit Fernbedienung](/de/blog/bestes-handy-stativ-fuer-vlogging-mit-fernbedienung/) günstiger.
+Das beste iPhone Stativ mit Tracking ist ein Gimbal mit integriertem Stativ, und für die meisten iPhone-Besitzer ist meine Wahl der [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Er trackt über Apple DockKit, sodass dir die Kamera-App und über 200 iOS-Apps folgen, und er schwenkt volle 360°. Der [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) ist die nahe Alternative mit Tracking-Modul im Lieferumfang. Ich habe fünf Modelle anhand von Herstellerangaben und Erfahrungen von Besitzern verglichen; ich habe sie nicht selbst getestet. Wenn dir ein starres Stativ mit Fernbedienung reicht, sind meine [Handy-Stative für Vlogging mit Fernbedienung](/de/blog/bestes-handy-stativ-fuer-vlogging-mit-fernbedienung/) günstiger.
 
 ## iPhone-Stative mit Tracking im Vergleich – Tracking-Art, Schwenk und Akku
 

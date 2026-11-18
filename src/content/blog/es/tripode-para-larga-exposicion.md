@@ -396,7 +396,7 @@ sources:
 - title: 'Scott Wyden Kivowitz: long exposure photography choices, tripod'
   url: https://scottwyden.com/long-exposure-photography-choices-tripod/
 reviewedDate: '2026-11-06T00:00:00.000Z'
-author: ned-diary
+author: editorial-team
 faqs:
 - q: ¿Un trípode más pesado ayuda en las largas exposiciones?
   a: Sí, un trípode más pesado ayuda en las largas exposiciones, porque el viento

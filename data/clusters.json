@@ -1,5 +1,5 @@
 {
-  "note": "Owner rules 2026-11-13 (pillar + supporting posts; \"search console sa leny chye pillar pages\"): 10 pillars = the live English roundups with the most Search Console impressions from REAL queries (junk patterns such as 'best bamboo tripod 2026' and other year-stamped or nonsense queries are excluded: they mirror the spam backlink anchors, not reader demand), position roughly 5-32 (28 days to 2026-11-10; data in rentersmarthome.us/data/gsc/best-tripod.com/). Each pillar gets 3-5 supporting informational posts, one real reader question each, max 1 per day, pillars filled in this order. Topic sources, in order: the pillar's own Search Console queries (rentersmarthome.us/data/gsc/best-tripod.com/<date>.queries.json: question or problem queries the pillar shows for but does not answer well), data/pain-points.json (Reddit/Quora/forums), Ahrefs matching-terms questions, the pillar SERP People-also-ask and competitor pages. A topic qualifies only with GSC impressions, measured volume or 3+ independent threads, and no same-intent live post (routine.mjs cannibal). Supporting post: answer in paragraph 1, length as needed (about 300-900 words, never padded), 1 in-body link to the pillar; the pillar links back at go-live. Queue items carry supports: <pillar slug>. Re-pick pillars from fresh GSC data on the first Monday of each month, keeping pillars that already have supporting posts.",
+  "note": "Owner rules 2026-11-13 (pillar + supporting posts; \"search console sa leny chye pillar pages\"): 10 pillars = the live English roundups with the most Search Console impressions from REAL queries (junk patterns such as 'best bamboo tripod 2026' and other year-stamped or nonsense queries are excluded: they mirror the spam backlink anchors, not reader demand), position roughly 5-32 (28 days to 2026-11-10; data in rentersmarthome.us/data/gsc/best-tripod.com/). Each pillar gets 3-5 supporting informational posts, one real reader question each, max 1 per day, pillars filled in this order. Topic sources, in order: the pillar's own Search Console queries (rentersmarthome.us/data/gsc/best-tripod.com/<date>.queries.json: question or problem queries the pillar shows for but does not answer well), data/pain-points.json (Reddit/Quora/forums), Ahrefs matching-terms questions, the pillar SERP People-also-ask and competitor pages. A topic qualifies only with GSC impressions, measured volume or 3+ independent threads, and no same-intent live post (routine.mjs cannibal). Supporting post: answer in paragraph 1, length as needed (about 300-900 words, never padded), 1 in-body link to the pillar; the pillar links back at go-live. Queue items carry supports: <pillar slug>. Re-pick pillars from fresh GSC data on the first Monday of each month, keeping pillars that already have supporting posts. Restored 2026-11-18: the site was rolled back to its 2026-11-10 content (owner), so the supporting posts written 13-14 Nov were removed; start again.",
   "pillars": {
     "best-tripod-for-tall-photographers-over-6-feet": {
       "keyword": "best tripod for tall photographers over 6 feet",
@@ -19,20 +19,7 @@
         "best pet camera for tall people"
       ],
       "target": 4,
-      "supporting": [
-        {
-          "keyword": "tall tripod vs regular tripod",
-          "slug": "tall-tripod-vs-regular-tripod",
-          "status": "published",
-          "pubDate": "2026-11-13T21:32:00.000Z"
-        },
-        {
-          "keyword": "tripod extension",
-          "slug": "tripod-extension",
-          "status": "published",
-          "pubDate": "2026-11-14T16:32:00.000Z"
-        }
-      ]
+      "supporting": []
     },
     "best-tripod-for-gopro": {
       "keyword": "best tripod for gopro",

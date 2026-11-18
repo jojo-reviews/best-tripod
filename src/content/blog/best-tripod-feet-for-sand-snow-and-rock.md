@@ -340,8 +340,7 @@ sources:
     url: 'https://www.dpreview.com/forums/threads/tripod-mud-sand-shoes.4158396/'
   - title: 'Mark Denney, 6 Essential Tripod Accessories for Landscape Photography'
     url: 'https://www.youtube.com/watch?v=IL4bL--NUk8'
-reviewedDate: '2026-11-15'
-updatedDate: '2026-11-15T17:49:00.000Z'
+reviewedDate: '2026-11-03'
 faqs:
   - q: What are the best tripod feet for sand?
     a: >-
@@ -367,7 +366,7 @@ faqs:
       You can if they have rubber caps, like the TFS-US. Bare spikes mark
       floors, catch on bags and car seats, and are a hazard when you carry the
       tripod on your shoulder.
-author: ned-diary
+author: editorial-team
 illustrations:
   - prompt: >-
       Close-up of two hands pressing a tripod leg with a long steel spike foot
@@ -413,13 +412,11 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod feet for sand, snow and rock are three different feet: long spikes for wet sand, rock claws for wet rock, and wide snow shoes for powder and dry sand. I matched five sets to the surface each handles best.
-
-I have been shooting since 2017, ever since a solo road trip across the United States got me into photography, and landscape is still one of my main genres. My support kit is carbon fiber tripods, ball heads and Arca-Swiss plates, but the part that touches the ground decides whether a long exposure stays sharp. If you still need the legs themselves, start with our [tripods for landscape photography](/blog/landscape-photography-tripod/).
+The best tripod feet for sand, snow and rock are three different feet: long spikes for wet sand, rock claws for wet rock, and wide snow shoes for powder and dry sand. I matched five sets to the surface each handles best. If you still need the legs themselves, start with our [tripods for landscape photography](/blog/landscape-photography-tripod/).
 
 ## Tripod feet by surface: footprint and fit
 
-**I match tripod feet to the ground: spikes dig into sand, claws bite rock, snow shoes float on snow.** The problem I'm solving is simple: stock rubber feet slide on ice and wear out on rock.
+**Tripod feet should match the ground: spikes dig into sand, claws bite rock, snow shoes float on snow.** Stock rubber feet slide on ice and wear out on rock.
 
 | Tripod feet | Type | Best surface | Fit |
 |---|---|---|---|
@@ -431,7 +428,7 @@ I have been shooting since 2017, ever since a solo road trip across the United S
 
 ## The 5 best tripod feet, pick by pick
 
-**As I see it, each type of tripod feet solves one surface, so most landscape shooters carry two sets.** Here is what I look for in each: the right contact shape for the ground, a thread or strap that fits my legs, and caps or packability for the walk in.
+**Each type of tripod feet solves one surface, so most landscape shooters carry two sets.**
 
 ### Leofoto TFS-US Long Spike Set: Best tripod feet for sand and soft ground
 
@@ -455,8 +452,6 @@ The Manfrotto 204SPK3 Spiked Feet are a set of three rubber tripod feet with a r
 
 ### Which tripod feet should you get
 
-This is the set I'd point each reader to:
-
 - Wet sand, surf and mud: Leofoto TFS-US.
 - Streams and wet granite: Really Right Stuff Rock Claw.
 - Deep snow on mid-size legs: Manfrotto 230.
@@ -465,7 +460,7 @@ This is the set I'd point each reader to:
 
 ## How to set tripod feet in sand and surf
 
-**In my view, tripod spikes hold in wet sand once driven about 4 in down, past the layer each wave washes away.** A recurring r/photography tip adds old CDs under the legs on a sandy creek bed.
+**Tripod spikes hold in wet sand once driven about 4 in down, past the layer each wave washes away.** A recurring r/photography tip adds old CDs under the legs on a sandy creek bed.
 
 1. Fit long spikes, or a disc for dry sand.
 2. Angle the legs in slightly; driving them down spreads them.
@@ -474,7 +469,7 @@ This is the set I'd point each reader to:
 
 ## How to keep tripod feet from slipping on wet rock
 
-**I'd choose rock claws over tripod spikes on wet rock, because several teeth share the load and add traction where one point skids.** A Backcountry Gallery forum member reports spiked feet that skid on smooth granite.
+**Rock claws grip wet rock better than tripod spikes, because several teeth share the load and add traction where one point skids.** A Backcountry Gallery forum member reports spiked feet that skid on smooth granite.
 
 1. Fit rock claws or keep rubber feet on.
 2. Seat each foot in a crack or rough patch, not on slick moss.
@@ -484,7 +479,7 @@ ScottymanPhoto's video in this section compares spikes, claws and rubber feet.
 
 ## How to fit tripod snow shoes in deep snow
 
-**My answer for deep snow is tripod snow shoes, because a wide disc spreads the load far more than a claw or spike.** A [5.7 in (144 mm) TFW-2 disc](https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html) has about 163 cm² of surface area against 7.5 cm² for a 31 mm claw. For a 4 kg rig, that is roughly 8 g/cm² versus 177 g/cm², so the legs sink far less.
+**Tripod snow shoes stop legs sinking in deep snow because a wide disc spreads the load far more than a claw or spike.** A [5.7 in (144 mm) TFW-2 disc](https://www.bhphotovideo.com/c/product/1627939-REG/leofoto_tfw_2_snow_shoes_set.html) has about 163 cm² of surface area against 7.5 cm² for a 31 mm claw. For a 4 kg rig, that is roughly 8 g/cm² versus 177 g/cm², so the legs sink far less.
 
 1. Wrap the strap around the lowest leg section.
 2. Set the disc flat and stamp each leg in once.
@@ -492,7 +487,7 @@ ScottymanPhoto's video in this section compares spikes, claws and rubber feet.
 
 ## How to swap tripod feet without losing one
 
-**I'd swap tripod feet at the car, not on the trail: sand in the threads jams them and bare spikes cut through bags.** Most interchangeable feet use a standard 3/8" thread, so one set fits any tripod or monopod with a 3/8" thread socket, as Lens Notes explains. Gitzo also sells spikes in different lengths, plus sand feet that clip onto them.
+**Swap tripod feet at the car, not on the trail: sand in the threads jams them and bare spikes cut through bags.** Most interchangeable feet use a standard 3/8" thread, so one set fits any tripod or monopod with a 3/8" thread socket, as Lens Notes explains. Gitzo also sells spikes in different lengths, plus sand feet that clip onto them.
 
 1. Check the leg end for a 3/8"-16 socket; our [hiking tripods with threaded feet](/blog/best-hiking-tripod/) note which legs take spikes.
 2. Turn the foot with the hex key through its hole.
@@ -500,7 +495,7 @@ ScottymanPhoto's video in this section compares spikes, claws and rubber feet.
 
 ## How I picked these tripod feet
 
-**These tripod feet are the ones landscape photographers name in their own write-ups and videos, checked against maker specs.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing.
+**These tripod feet are the ones landscape photographers name in their own write-ups and videos, checked against maker specs.** Each pick is named or shown on at least two independent pages, from Hudson Henry, Scott Davenport and ScottymanPhoto to Photography Life readers and DPReview threads. I verified dimensions on maker and B&H pages and checked each Amazon US listing. This is research, not hands-on testing.
 
 > **From our notes:** A 144 mm Leofoto TFW-2 disc covers about 21 times the area of a 31 mm claw, a number we worked out from the two spec sheets. Picture a seascape shooter at low tide walking from wet sand onto a barnacled ledge: we would fit spikes for the sand, pack claws for the rock, and leave the snow shoes for winter.
 

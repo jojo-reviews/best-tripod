@@ -314,7 +314,7 @@ sources:
   - title: 'Markus Hagner Photography: Best tabletop tripods for product photography'
     url: >-
       https://markus-hagner-photography.com/best-tabletop-tripods-for-product-photography/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-10-30T00:00:00.000Z'
 faqs:
   - q: ¿A qué altura debe estar la webcam o la cámara en una videollamada?
     a: >-
@@ -348,14 +348,14 @@ faqs:
       rápida tipo Arca. Las tiendas la describen como estándar, pero un usuario
       dice que su tamaño no lo es, así que comprueba que encaja con tus pinzas
       antes de fiarte.
-author: ned-diary
+author: editorial-team
 heroImage: /images/featured/best-mini-tripod-for-desk-video-calls.png
 heroAlt: >-
   Mejor mini trípode para videollamadas – 3 trípodes de mesa – guía de
   compra de Best Tripod
 ---
 
-El mejor mini trípode para videollamadas sujeta tu webcam, tu móvil o tu cámara sin moverse y la apunta a tu cara, no a tu nariz desde abajo. He comparado tres trípodes de mesa que aparecen una y otra vez en las guías de minitrípodes: el [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) para la mayoría de escritorios, el [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) para una cámara sin espejo usada como webcam y el [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) como el soporte de mesa más sencillo. Todo lo que sigue sale de especificaciones de fabricantes y tiendas, análisis editoriales y las pocas opiniones de usuarios que hemos encontrado.
+El mejor mini trípode para videollamadas sujeta tu webcam, tu móvil o tu cámara sin moverse y la apunta a tu cara, no a tu nariz desde abajo. He comparado tres trípodes de mesa que aparecen una y otra vez en las guías de minitrípodes: el [Ulanzi MT-16 Extendable Tripod](amzn:Ulanzi+MT-16+extendable+tripod+with+ball+head+2052) para la mayoría de escritorios, el [SmallRig BUT2664](amzn:SmallRig+mini+tabletop+tripod+Arca-type+QR+plate+BUT2664) para una cámara sin espejo usada como webcam y el [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+mini+tripod+black+MTPIXI-B) como el soporte de mesa más sencillo. No hemos probado ninguno; todo lo que sigue sale de especificaciones de fabricantes y tiendas, análisis editoriales y las pocas opiniones de usuarios que hemos encontrado.
 
 ## Los mejores mini trípodes para videollamadas: nuestras recomendaciones
 
@@ -367,7 +367,7 @@ El mejor mini trípode para videollamadas sujeta tu webcam, tu móvil o tu cáma
 
 ## Tabla comparativa de mini trípodes para videollamadas
 
-**Un mini trípode para videollamadas se juega todo en la altura de trabajo, la carga frente a tu cámara real y la forma de sujetar la cámara.** Son cifras de fabricantes o tiendas; cuando las fuentes no coinciden, mostramos las dos.
+**Un mini trípode para videollamadas se juega todo en la altura de trabajo, la carga frente a tu cámara real y la forma de sujetar la cámara.** Son cifras de fabricantes o tiendas, no medidas nuestras; cuando las fuentes no coinciden, mostramos las dos.
 
 | Dato | Manfrotto PIXI Mini | Ulanzi MT-16 | SmallRig BUT2664 |
 |---|---|---|---|
@@ -381,7 +381,7 @@ El mejor mini trípode para videollamadas sujeta tu webcam, tu móvil o tu cáma
 
 ## Cómo elegimos cada mini trípode para videollamadas
 
-**Partimos de los minitrípodes y trípodes de mesa que recomiendan varias guías, nos quedamos solo con modelos con un anuncio claro en Amazon de Estados Unidos y comprobamos cada uno con especificaciones de fabricantes y tiendas y con opiniones de usuarios.**
+**Partimos de los minitrípodes y trípodes de mesa que recomiendan varias guías, nos quedamos solo con modelos con un anuncio claro en Amazon de Estados Unidos y comprobamos cada uno con especificaciones de fabricantes y tiendas y con opiniones de usuarios.** No los hemos comprado ni probado.
 
 También miré el Joby GorillaPod con sus [patas flexibles](/blog/flexible-tripod-vs-mini-tripod-for-travel-vlogging/), un trípode de mesa de Neewer, trípodes para móvil de UBeesize y el minitrípode de mesa de K&F Concept. Se quedaron fuera por aparecer en muy pocas guías, por falta de opiniones de usuarios o, en el caso del kit GorillaPod, por no tener anuncio en Amazon de Estados Unidos.
 

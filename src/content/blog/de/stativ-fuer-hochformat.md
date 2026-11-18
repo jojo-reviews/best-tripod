@@ -330,7 +330,7 @@ sources:
     url: https://www.packhacker.com/blog/general/best-travel-tripod/
   - title: 'Digital Camera World: The best tripod for photography'
     url: https://www.digitalcameraworld.com/buying-guides/best-tripod
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-09T00:00:00.000Z'
 faqs:
   - q: Kann jedes Stativ Hochformat?
     a: 'Ja, die meisten Stative schaffen Hochformat, wenn sich der Stativkopf um 90 Grad neigt: Ein Kugelkopf kippt in seine Kerbe, ein 3-Wege-Neiger hat eine eigene Hochformat-Achse. Der Haken ist die Balance, denn die Kamera sitzt dann neben der Mittelsäule, und ein leichtes Stativ mit schwerer Kamera kann absacken oder kippen.'
@@ -342,7 +342,7 @@ faqs:
     a: Für Hochformat mit dem iPhone brauchst du eine Smartphone-Halterung, die sich ins Hochformat drehen lässt. Das Peak Design Travel Tripod hat eine eingebaute Handyhalterung, und jedes Arca-Modell hier nimmt eine Smartphone-Klemme auf; für reines Handy-Video gibt es unsere Ratgeber zu Smartphone-Stativen.
   - q: Warum sackt meine Kamera im Hochformat auf dem Stativ ab?
     a: Eine Kamera sackt im Hochformat ab, weil ihr Gewicht außermittig in der Kerbe sitzt und den Kugelkopf seitlich belastet. Zieh die Kugel fester an, nimm einen Kopf, dessen Tragkraft deutlich über Kamera und Objektiv liegt, oder wechsle zu einem L-Winkel, der das Gewicht über der Säule hält.
-author: ned-diary
+author: editorial-team
 illustrations:
   - prompt: Close-up of two hands loosening the knob of a black travel ball head on a tripod and tipping a mirrorless camera sideways into the head's side slot so the camera stands in portrait orientation, outdoor overlook at golden hour, three-quarter angle, soft warm light, shallow depth of field
     alt: Hände kippen eine Kamera in die Kerbe des Kugelkopfs, um auf dem Stativ im Hochformat zu fotografieren
@@ -366,7 +366,7 @@ heroImage: /images/featured/best-tripod-for-vertical-shooting.png
 heroAlt: Stativ für Hochformat – 5 Modelle, die die Kamera sauber drehen – Best-Tripod-Ratgeber
 ---
 
-Ein gutes Stativ für Hochformat ist eines, dessen Kopf die Kamera ins Hochkant dreht, ohne dass du sie neu montieren musst oder sie absackt. Für Hochkant-Video nehme ich das [Manfrotto ONE Hybrid mit 500X-Kopf](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), dessen Klappplatte in Sekunden auf 9:16 umschwenkt. Für Hochformat-Fotos unterwegs kippt das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in eine 90-Grad-Kerbe, und drei leichtere Modelle nehmen einen [L-Winkel für Hochformat-Aufnahmen](/blog/l-bracket-for-landscape-photography/) auf. Ich habe die Liste aus Herstellerangaben und Besitzerberichten zusammengestellt.
+Ein gutes Stativ für Hochformat ist eines, dessen Kopf die Kamera ins Hochkant dreht, ohne dass du sie neu montieren musst oder sie absackt. Für Hochkant-Video nehme ich das [Manfrotto ONE Hybrid mit 500X-Kopf](amzn:Manfrotto+500X+Fluid+Video+Head+with+ONE+Hybrid+Aluminum+Tripod), dessen Klappplatte in Sekunden auf 9:16 umschwenkt. Für Hochformat-Fotos unterwegs kippt das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head) in eine 90-Grad-Kerbe, und drei leichtere Modelle nehmen einen [L-Winkel für Hochformat-Aufnahmen](/blog/l-bracket-for-landscape-photography/) auf. Ich habe die Liste aus Herstellerangaben und Besitzerberichten zusammengestellt; ich habe diese Stative nicht selbst benutzt.
 
 ## Stativ für Hochformat: wie jedes Modell die Kamera dreht
 

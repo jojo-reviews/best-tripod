@@ -1,20 +1,22 @@
 {
   "slug": "best-tripod-for-iphone-night-mode-photos",
   "pass": true,
-  "checkedAt": "2026-11-15T17:53:21.306Z",
+  "checkedAt": "2026-11-03T17:59:50.507Z",
   "errors": [],
   "warnings": [
-    "body has 2461 words, over the 1897 limit (top results average 1650): cut repetition and filler",
+    "product write-ups not in first person (summary/scoreNote need I/my/we/our, e.g. \"I picked it because…\"): Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK); JOBY GorillaPod 1K Kit; JOBY GripTight ONE GP Stand",
+    "roundup has 3 products; commercial posts need at least 5 (owner rule 2026-10-28)",
     "product \"Manfrotto PIXI Mini Tripod Kit with Smartphone Clamp (MKPIXICLAMP-BK)\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GorillaPod 1K Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"JOBY GripTight ONE GP Stand\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"UBeesize Phone Tripod with Wireless Remote\" has no Amazon photo yet (the Amazon refresh adds it after push)",
-    "product \"Peak Design Mobile Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)"
+    "source didn't respond normally (403): https://www.bhphotovideo.com/c/product/1359599-REG/joby_jb01503_gorillapod_1k_kit.html",
+    "source didn't respond normally (403): https://www.vistek.ca/store/424822/joby-griptight-one-gorillapod-stand",
+    "source didn't respond normally (403): https://skiesandscopes.com/best-phone-tripods-milky-way/"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "roundup top-up: 2 products added",
-    "at": "2026-11-15T17:53:08.972Z",
-    "hash": "e8f92e4bb9798ae9"
+    "notes": "Semantic pass 2026-10-31 (TextRazor, 4 top pages). significant: removed Quick Picks H2, comparison table is first body H2, added Which one should you get block and Night mode Time-lapse section, rewrote verdict. Time-lapse (iPhone 12+, tripod, longer interval frames) and iPhone 11+ Night mode verified on support.apple.com/en-us/102519 today. No new prices, ratings, tests or products; ASINs unchanged.",
+    "at": "2026-10-31T17:54:59.018Z",
+    "hash": "4aa60a37dd95e12d"
   }
 }

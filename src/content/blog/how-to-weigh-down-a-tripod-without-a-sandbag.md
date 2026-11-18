@@ -70,8 +70,7 @@ sources:
       (r/AskPhotography)
     url: >-
       https://www.reddit.com/r/AskPhotography/comments/1axem02/what_is_the_silliest_thing_youve_had_to_use_as_a/
-reviewedDate: '2026-11-15T00:00:00.000Z'
-updatedDate: '2026-11-15T17:49:28.000Z'
+reviewedDate: '2026-11-03T00:00:00.000Z'
 faqs:
   - q: What can I use instead of a sandbag on a tripod?
     a: >-
@@ -148,7 +147,7 @@ illustrations:
 videos:
   - id: 9Cb0rVXWcRw
     afterHeading: 2
-author: ned-diary
+author: editorial-team
 related:
   - how-to-stop-tripod-shake-in-wind
   - landscape-photography-tripod
@@ -160,13 +159,11 @@ heroAlt: >-
   Tripod guide
 ---
 
-How to weigh down a tripod without a sandbag: set a weight you already have on the ground under it and tie it taut to the center column hook. A camera bag, filled water bottles or a mesh bag of rocks all work, on a camera tripod or a [Starlink Mini tripod](/blog/best-tripod-for-starlink-mini/); on soft ground, tent stakes replace weight entirely.
-
-I have been shooting since 2017, and a solo road trip across the United States is what got me into photography. My support kit is carbon fiber tripods, light to carry but light in a gust too, so I'd rather find the counterweight at the spot than haul a sandbag.
+A tripod weighed down without a sandbag needs only a weight you already have, set on the ground under it and tied taut to the center column hook. A camera bag, filled water bottles or a mesh bag of rocks all work, on a camera tripod or a [Starlink Mini tripod](/blog/best-tripod-for-starlink-mini/); on soft ground, tent stakes replace weight entirely.
 
 ## How to weigh down a tripod without a sandbag in 5 steps
 
-**A tripod gets steadier from any counterweight pulling down below its apex, because it lowers the center of mass; the sandbag itself is optional.** This is the order I work in:
+**A tripod gets steadier from any counterweight pulling down below its apex, because it lowers the center of mass; the sandbag itself is optional.**
 
 1. Spread the legs wide on their thickest sections, center column down.
 2. Pick a weight you already carry: camera bag, water bottles or rocks bagged on site.
@@ -174,29 +171,29 @@ I have been shooting since 2017, and a solo road trip across the United States i
 4. Tie it to the hook or leg apex with paracord or a bungee cord, pulled taut.
 5. Check at full live-view magnification that nothing swings.
 
-For the long exposures in my landscape work, our [landscape photography tripod picks](/blog/landscape-photography-tripod/) favor legs that stay stiff with the column down.
+For long-exposure photography, our [landscape photography tripod picks](/blog/landscape-photography-tripod/) favor legs that stay stiff with the column down.
 
 ## Tether the tripod to a weight on the ground
 
 **A tripod tethered to a ground weight works only if the cord is taut; that settles whether the weight should touch the ground.** Ulanzi says a counterweight must hang freely, because a weight on the ground adds nothing. DPReview posters and the tester at The Center Column rest it on the ground on a bungee so it cannot sway.
 
-I think both are half right: a grounded bag on a slack cord does nothing, while a taut cord pulls the tripod down like a hanging weight, without the swing. The video in this section shows a taut-line hitch for setting the tension.
+I think both are half right: a grounded bag on a slack cord does nothing, while a taut cord pulls the tripod down like a hanging weight, without the swing. That swing is what one DPReview thread opener feared: "I've read that a hanging camera bag on a hook can also sway in the wind." The video in this section shows a taut-line hitch for setting the tension.
 
 ## Water bottles as a tripod weight
 
-**Water bottles are the easiest sandbag alternative for me to size, because water weighs [1 kilogram per liter](https://www.usgs.gov/water-science-school/science/facts-about-water) (8.33 lb per gallon), per the USGS.** Ulanzi suggests starting with [roughly 2–5 kg](https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability), so two to five 1-liter bottles cover it.
+**Water bottles are the easiest sandbag alternative to size, because water weighs [1 kilogram per liter](https://www.usgs.gov/water-science-school/science/facts-about-water) (8.33 lb per gallon), per the USGS.** Ulanzi suggests starting with [roughly 2–5 kg](https://www.ulanzi.com/blogs/news/how-to-counterweight-tripod-stability), so two to five 1-liter bottles cover it.
 
-Carry them empty, fill them on site, pour them out after. I'd clip them in a mesh bag to the hook, bag on the ground and cord taut, caps tight so nothing drips onto the leg locks.
+Carry them empty, fill them on site and pour them out before leaving. I'd clip them in a mesh bag to the hook, bag on the ground and cord taut, caps tight so nothing drips onto the leg locks.
 
 ## Fill a rock bag on site for zero carry weight
 
-**My favorite trick for a long walk is a tripod rock bag, an empty net or stuff sack that weighs almost nothing until you fill it at the spot.** A DPReview poster suggests a fishing-type net or laundry bag for this reason.
+**A tripod rock bag, an empty net or stuff sack, weighs almost nothing until you fill it at the spot.** A DPReview poster suggests a fishing-type net or laundry bag for this reason; another put it bluntly: "The point is that carrying an extra kilo or so of dead weight (OP's photo) isn't the best solution."
 
-On r/photography, one landscape shooter warned that "the combined carbon fiber tripod and added weight of carrying a sandbag may actually weigh more than an aluminum tripod." That is why my carbon kit goes without one. I keep the net in the bag; on a beach, fill it with wet sand.
+On r/photography, one landscape shooter warned that "the combined carbon fiber tripod and added weight of carrying a sandbag may actually weigh more than an aluminum tripod." I keep the net in the bag; on a beach, fill it with wet sand.
 
 ## Stake the tripod down with cord, no weight at all
 
-**On soil, sand or snow, I'd reach for tent stakes and cord, which hold a tripod down without adding weight.** One DPReview poster uses tent cord and anchors instead, noting even rocky ground usually has a crack for one.
+**On soil, sand or snow, tent stakes and cord hold a tripod down without adding weight.** One DPReview poster uses tent cord and anchors instead, noting even rocky ground usually has a crack for one.
 
 1. Tie cord to the hook or around the leg apex.
 2. Run it straight down to a tent stake under the tripod.
@@ -205,27 +202,27 @@ On r/photography, one landscape shooter warned that "the combined carbon fiber t
 
 ## Tripod with no hook – drape, strap or loop the weight
 
-**If your tripod has no center column hook, I'd put the weight at the leg apex or on the legs instead.** What owners do:
+**A tripod with no center column hook can still take weight at the leg apex or on the legs.** One Quora question even calls it the "non-existent hook". What owners do instead:
 
-- Drape the camera bag over the top of all three legs, as a DPReview poster prefers.
+- Drape the camera bag over the top of all three legs, as a DPReview poster prefers, so nothing swings.
 - Strap ankle weights around a leg; owners on DPReview and r/AskPhotography both do.
 - Loop cord around the leg joint; Ulanzi warns straps there can block leg adjustments, so keep clear of the angle locks.
 
-Short travel tripods leave little room under the apex to hang a backpack. Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
+Short travel tripods leave little room under the apex; one DPReview poster found "there is extremely little room to hang my camera backpack from the hook for stability". Our [lightweight hiking tripods](/blog/best-hiking-tripod/) roundup notes which have a hook.
 
 ## What tripod weight fixes, and what it doesn't
 
-**I treat weight as a fix for tipping in wind, not for vibration.** The Center Column hung weight from seven tripods in 2.5 lb steps [up to 20 lbs](https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/) and saw no effect on side-to-side stiffness and only a small damping gain. The real gain is a lower center of gravity against gusts and bumps.
+**A weighted tripod resists tipping in wind, but the weight does little for vibration.** The Center Column hung weight from seven tripods in 2.5 lb steps [up to 20 lbs](https://thecentercolumn.com/2018/02/18/stiffness-and-damping-vs/) and saw no effect on side-to-side stiffness and only a small damping gain. A resting hand damps more, the tester notes; the real gain is a lower center of gravity against gusts and bumps.
 
 - If the frame still shimmers, go lower; our guide on [center column height for landscapes](/blog/tripod-center-column-up-or-down-for-landscapes/) explains why.
-- With a long telephoto lens like my 200-600mm for wildlife, the camera's center of mass sits forward of the tripod head, so I point one leg under the lens.
+- With a long telephoto lens, the camera's center of mass sits forward of the tripod head, so I point one leg under the lens.
 - Count a hung counterweight against the load rating with the camera, lens and head, as Ulanzi advises.
 
 > **From our notes:** Three 1-liter water bottles came out as our lightest no-sandbag answer: by the USGS figure that is 3 kg, inside Ulanzi's 2-5 kg range, yet empty they weigh only the plastic.
 
 ## Which tripod weight to use where
 
-**The best tripod weight is the lightest one that suits the ground and how far you walk; here is how I match them.**
+**The best tripod weight is the lightest one that suits the ground and how far you walk.**
 
 | Situation | My pick | Why |
 |---|---|---|

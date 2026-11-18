@@ -356,7 +356,7 @@ sources:
   url: https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/
 - title: 'r/photography: Quick-release tripod for a Canon G7X III'
   url: https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-07T00:00:00.000Z'
 faqs:
 - q: Werkt de Canon HG-100TBR met de G7X Mark III?
   a: Ja. Canon noemt de PowerShot G7 X Mark III compatibel met de HG-100TBR, en de
@@ -378,7 +378,7 @@ faqs:
   a: Alleen voor foto’s op ooghoogte, lange sluitertijden en staande intro’s. De ministatieven
     halen 13,5 tot 26 cm; de Peak Design Travel Tripod staat met de kolom omlaag 130,2
     cm (51.25 in) hoog en klapt toch in tot 39,4 cm (15.5 in).
-author: ned-diary
+author: editorial-team
 related:
 - nl/beste-statief-voor-canon-powershot-v1
 - nl/beste-tafelstatief-voor-camera
@@ -408,7 +408,7 @@ heroAlt: Beste statief voor Canon G7X Mark III – 5 modellen voor vlog en reis 
   Tripod koopgids
 ---
 
-Het beste statief voor Canon G7X Mark III vloggers is Canons [statiefgrip HG-100TBR](amzn:B07Z5LZ92N), omdat Canon de camera als compatibel noemt en de ingeklikte afstandsbediening de opname start terwijl het opgeklapte scherm naar je toe staat. Voor tafels zou ik de Manfrotto PIXI Mini nemen, voor relingen de Joby GorillaPod 1K, voor verticale clips de PIXI EVO en voor staande opnamen de Peak Design Travel Tripod (Aluminum). Ik heb alle vijf op de camera afgestemd op basis van fabrikantspecificaties en gebruikerservaringen bij B&H, op r/canon en op het forum van DPReview.
+Het beste statief voor Canon G7X Mark III vloggers is Canons [statiefgrip HG-100TBR](amzn:B07Z5LZ92N), omdat Canon de camera als compatibel noemt en de ingeklikte afstandsbediening de opname start terwijl het opgeklapte scherm naar je toe staat. Voor tafels zou ik de Manfrotto PIXI Mini nemen, voor relingen de Joby GorillaPod 1K, voor verticale clips de PIXI EVO en voor staande opnamen de Peak Design Travel Tripod (Aluminum). Ik heb alle vijf op de camera afgestemd op basis van fabrikantspecificaties en gebruikerservaringen bij B&H, op r/canon en op het forum van DPReview; we hebben ze zelf niet gebruikt.
 
 ## G7X Mark III-statieven vergeleken met een camera van 304 g
 

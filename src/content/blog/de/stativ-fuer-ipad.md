@@ -319,7 +319,7 @@ sources:
   url: https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/
 - title: 'r/videography: Filming in strong winds'
   url: https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-08'
 faqs:
 - q: Welches ist das beste Stativ für iPad?
   a: 'Das beste Stativ für iPad ist eine Metallhalterung auf einem stabilen Stativ, wenn du eins hast: Ich nehme die Ulanzi U-Pad III, deren Klemme von 10 bis 23 cm zu jedem aktuellen iPad passt. Ohne Stativ würde ich den elitehood Metal iPad Tripod Stand kaufen, der 183 cm erreicht.'
@@ -331,7 +331,7 @@ faqs:
   a: Ja, die meisten iPad-Stativhalterungen passen an ein iPad mini, das 132,6 mm breit ist. Ulanzi U-Pad III und JOBY GripTight PRO greifen die kurze Seite; die KobraTech beginnt bei 15,9 cm und hält das mini nur über die lange Seite, und die große Grifiti-Halterung ist nicht dafür gedacht.
 - q: Ist ein iPad-Ständer mit Schwanenhals oder eine Stativhalterung besser?
   a: Eine Stativhalterung ist für Video ruhiger, weil ein Schwanenhals unter einem großen iPad federn und schwanken kann. Ein Schwanenhals-Ständer wie der elitehood ist besser zum Lesen, für Noten und Videocalls, wo Reichweite und Winkel mehr zählen als ein ruhiges Bild.
-author: ned-diary
+author: editorial-team
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: Die kurze Seite des iPads mit Hülle messen, bevor man eine iPad-Stativhalterung wählt
@@ -349,7 +349,7 @@ heroAlt: Stativ für iPad – 5 Halterungen und Ständer passend zur iPad-Größ
 heroImage: /images/featured/best-tripod-for-ipad.png
 ---
 
-Das beste Stativ für iPad ist das, dessen Klemme wirklich zur Breite deines iPads mit Hülle passt. Hast du ein Kamerastativ, würde ich die [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe) ergänzen, eine Aluminiumhalterung, die bis 23 cm öffnet, breit genug für ein iPad Pro 13". Hast du keins, ist der [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) ein kompletter Ständer, der 183 cm erreicht. Ich habe fünf Modelle anhand von Herstellerdaten und Besitzerberichten verglichen. Du filmst Spiele vom Spielfeldrand? Mein Ratgeber zu [Stativen zum Filmen von Sport](/blog/best-tripod-for-filming-sports/) zeigt höhere Stative.
+Das beste Stativ für iPad ist das, dessen Klemme wirklich zur Breite deines iPads mit Hülle passt. Hast du ein Kamerastativ, würde ich die [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe) ergänzen, eine Aluminiumhalterung, die bis 23 cm öffnet, breit genug für ein iPad Pro 13". Hast du keins, ist der [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) ein kompletter Ständer, der 183 cm erreicht. Ich habe fünf Modelle anhand von Herstellerdaten und Besitzerberichten verglichen; ich habe sie nicht selbst getestet. Du filmst Spiele vom Spielfeldrand? Mein Ratgeber zu [Stativen zum Filmen von Sport](/blog/best-tripod-for-filming-sports/) zeigt höhere Stative.
 
 ## iPad-Stative im Vergleich nach Klemmbreite und Höhe
 

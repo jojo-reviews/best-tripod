@@ -1081,7 +1081,7 @@ sources:
   - title: 'B&H: Ulanzi Zero F38'
     url: >-
       https://www.bhphotovideo.com/c/product/803502832-USE/ulanzi_3131_zero_f38_quick_release.html
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-10-15'
 faqs:
   - q: Welk formaat statief heb ik nodig voor een systeemcamera?
     a: >-
@@ -1141,7 +1141,7 @@ faqs:
       alleen voor lichte sets: de Sirui draagt 4 kg (8.8 lb) en de Leofoto reikt
       tot ongeveer 114 cm (45 in), ruim onder ooghoogte voor de meeste
       volwassenen.
-author: ned-diary
+author: editorial-team
 heroImage: /images/featured/best-travel-tripod-for-mirrorless-camera.png
 heroAlt: >-
   Beste reisstatief voor systeemcamera – 15 aanraders, koopgids van Best
@@ -1197,7 +1197,7 @@ Twee patronen springen eruit. Ten eerste geven maar acht van deze 15 een hoogte 
 
 ## Hoe we deze reisstatieven kozen
 
-**We rangschikten deze statieven op basis van specificatiebladen van fabrikanten, winkelaanbiedingen en gepubliceerde reviews, en scoorden ze daarna op stabiliteit, draagbaarheid, hoogte, bouwkwaliteit en prijs-kwaliteit.** Elk getal hier is de opgave van fabrikant of winkel.
+**We rangschikten deze statieven op basis van specificatiebladen van fabrikanten, winkelaanbiedingen en gepubliceerde reviews, en scoorden ze daarna op stabiliteit, draagbaarheid, hoogte, bouwkwaliteit en prijs-kwaliteit.** We hebben deze statieven niet zelf in handen gehad, dus elk getal hier is de opgave van fabrikant of winkel, geen gemeten waarde.
 
 > **Uit onze notities:** Toen ik de specificatiebladen van deze vijftien reisstatieven naast elkaar legde, viel me eerst op hoe ver de twee hoogtegetallen uit elkaar liggen. De Vanguard VEO 3 GO 235CB noemt 136 cm met de zuil omhoog maar 106 cm met de zuil omlaag, en de Manfrotto Befree Advanced-set met hendels zakt van zo'n 150 cm naar zo'n 128 cm. Maar een handvol fabrikanten publiceert het getal met de zuil omlaag überhaupt, dus ik voegde er een aparte kolom voor toe in ons overzicht en markeerde elk gat als „niet opgegeven” in plaats van te gokken. Die ene kolom verschoof onze ranglijst meer dan het gewicht.
 

@@ -288,7 +288,7 @@ sources:
     url: https://www.irv2.com/threads/starlink-tripod.2091720/
   - title: 'r/Starlink: Trouble finding tripod adapter for new Starlink Mini'
     url: https://www.reddit.com/r/Starlink/comments/1k7nfk9/trouble_finding_tripod_adapter_for_new_starlink/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-09'
 faqs:
   - q: ¿Cuál es el mejor trípode para Starlink Mini?
     a: El mejor trípode para Starlink Mini para la mayoría es el Boltwasp Starlink Mini Tripod Mount, porque su rótula permite orientar la antena y sus patas la elevan sobre la maleza. Elige el EXNOVFC para ir de mochila o el ROVEDGE MK-1 si además necesitas una batería de 189 Wh.
@@ -300,7 +300,7 @@ faqs:
     a: 'Un trípode con batería alimenta una Starlink Mini aproximadamente sus vatios-hora divididos entre 25-40 W, el consumo medio que da Starlink: unas 3 a 4 horas con 108 Wh y 5 a 7 horas con 166-189 Wh. DISHYtech midió más de 6,5 horas con el Saunyoto de 166 Wh.'
   - q: ¿Puedo volar con un trípode con batería para Starlink Mini?
     a: 'No con los dos grandes: las baterías de más de 160 Wh están prohibidas en los aviones de pasajeros, lo que deja fuera al Saunyoto de 166 Wh y al ROVEDGE de 189 Wh. El Daqa de 108 Wh entra en la franja de más de 100 Wh y hasta 160 Wh, para la que Iberia Express limita a dos baterías por pasajero en cabina. Los trípodes sin batería vuelan sin problema.'
-author: ned-diary
+author: editorial-team
 videos:
   - id: L_lt9aX3JA4
     afterHeading: 5
@@ -317,7 +317,7 @@ heroAlt: Trípode para Starlink Mini – 5 modelos con y sin batería – guía 
 heroImage: /images/featured/best-tripod-for-starlink-mini.png
 ---
 
-El mejor trípode para Starlink Mini eleva la antena por encima de la hierba y de los coches aparcados y aun así deja orientarla. Para la mayoría de campistas es el [Boltwasp Starlink Mini Tripod Mount](amzn:B0GH7SYNV3), un trípode de acero aleado con rótula de 360°. Sin enchufe en el camping, un trípode con batería como el [ROVEDGE MK-1](amzn:B0H7J8XTX7) alimenta la antena durante horas. He comparado cinco modelos a partir de las especificaciones de los fabricantes y de reseñas de propietarios. ¿Parcela con viento? Mira cómo [lastrar un trípode sin saco de arena](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/).
+El mejor trípode para Starlink Mini eleva la antena por encima de la hierba y de los coches aparcados y aun así deja orientarla. Para la mayoría de campistas es el [Boltwasp Starlink Mini Tripod Mount](amzn:B0GH7SYNV3), un trípode de acero aleado con rótula de 360°. Sin enchufe en el camping, un trípode con batería como el [ROVEDGE MK-1](amzn:B0H7J8XTX7) alimenta la antena durante horas. He comparado cinco modelos a partir de las especificaciones de los fabricantes y de reseñas de propietarios; no los he probado yo. ¿Parcela con viento? Mira cómo [lastrar un trípode sin saco de arena](/blog/how-to-weigh-down-a-tripod-without-a-sandbag/).
 
 ## Comparativa de trípodes para Starlink Mini por peso, orientación y energía
 

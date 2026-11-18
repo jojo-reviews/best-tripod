@@ -282,7 +282,7 @@ sources:
       https://www.lynnbarsigianphotography.com/best-arca-swiss-compatible-quick-release-plates-and-clamps/
   - title: 'DSLR Video Shooter: Arca Swiss Plates, Goodbye Manfrotto'
     url: https://dslrvideoshooter.com/arca-swiss-plates-goodbye-manfrotto/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-10-29'
 faqs:
   - q: ¿Arca-Swiss es una medida estándar?
     a: >-
@@ -319,7 +319,7 @@ faqs:
       cámara con tope o un segundo tornillo en jaulas y pies de objetivo lo
       reducen, y apretar bien antes de cada salida importa más de lo que la
       mayoría cree.
-author: ned-diary
+author: editorial-team
 heroImage: /images/featured/what-is-an-arca-swiss-plate-and-do-i-need-one.png
 heroAlt: Qué es una placa Arca Swiss y si necesitas una – guía de Best Tripod
 ---
@@ -395,7 +395,7 @@ Entonces, ¿Arca-Swiss es compatible con Manfrotto? No directamente. Algunas pla
 
 **Estas tres aparecen una y otra vez en las páginas que posicionan para placas Arca-Swiss: una placa universal de cámara, un par de placas cuadradas diminutas y una pinza que añade Arca a cualquier soporte.**
 
-Al menos dos listas bien posicionadas recomiendan cada una. Las especificaciones vienen de fabricantes y tiendas, y las opiniones de dueños, de reseñas que hemos leído.
+Al menos dos listas bien posicionadas recomiendan cada una. Las especificaciones vienen de fabricantes y tiendas, y las opiniones de dueños, de reseñas que hemos leído; no las hemos usado nosotros.
 
 ### SmallRig Quick Release Plate for Arca Swiss 2146B, la mejor placa universal para cámara
 

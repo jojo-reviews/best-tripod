@@ -400,7 +400,7 @@ sources:
     url: >-
       https://www.reddit.com/r/videography/comments/1h7ci73/robust_tripod_solution_for_static_concert_camera/
 reviewedDate: '2026-11-04'
-author: ned-diary
+author: editorial-team
 faqs:
   - q: Welches Stativ ist das beste, um eine Schulaufführung zu filmen?
     a: >-

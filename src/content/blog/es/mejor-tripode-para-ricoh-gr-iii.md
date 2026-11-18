@@ -433,8 +433,8 @@ sources:
   - title: 'r/ricohGR: How often do you shoot using a tripod?'
     url: >-
       https://www.reddit.com/r/ricohGR/comments/1n9qji5/how_often_do_you_shoot_using_a_tripod/
-reviewedDate: '2026-11-13'
-author: ned-diary
+reviewedDate: '2026-11-03'
+author: editorial-team
 faqs:
   - q: ¿Cuál es el mejor trípode para una Ricoh GR III?
     a: >-
@@ -492,7 +492,7 @@ heroAlt: >-
   de compra de Best Tripod
 ---
 
-Una Ricoh GR III vive en el bolsillo, así que su trípode tiene que ser lo bastante pequeño para acompañarla cada día. Por eso el mejor trípode para Ricoh GR III, para fotografía de calle y paseos nocturnos, suele ser un minitrípode. Para la mayoría es el [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); para largas exposiciones a la altura de los ojos, el [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). He emparejado cinco trípodes con la cámara a partir de las especificaciones de los fabricantes y de hilos de usuarios de la GR en r/ricohGR, DPReview, FM Forums y PentaxForums. Los cinco pesan menos de 0,9 kg (2 lb).
+Una Ricoh GR III vive en el bolsillo, así que su trípode tiene que ser lo bastante pequeño para acompañarla cada día. Por eso el mejor trípode para Ricoh GR III, para fotografía de calle y paseos nocturnos, suele ser un minitrípode. Para la mayoría es el [Manfrotto PIXI Mini](amzn:Manfrotto+PIXI+Mini+Tripod+MTPIXIMII-B); para largas exposiciones a la altura de los ojos, el [SIRUI Traveler 5C](amzn:SIRUI+Traveler+5C+carbon+fiber+travel+tripod). He emparejado cinco trípodes con la cámara a partir de las especificaciones de los fabricantes y de hilos de usuarios de la GR en r/ricohGR, DPReview, FM Forums y PentaxForums. Los cinco pesan menos de 0,9 kg (2 lb), y no he usado estos trípodes personalmente.
 
 ## Trípodes para la Ricoh GR III comparados con una cámara de 257 g
 

@@ -319,7 +319,7 @@ sources:
   url: https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/
 - title: 'r/videography: Filming in strong winds'
   url: https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-08'
 faqs:
 - q: Wat is het beste iPad statief?
   a: 'Het beste iPad statief is een metalen houder op een stevig statief als je er een hebt: ik kies de Ulanzi U-Pad III, waarvan de klem van 10 tot 23 cm op elke huidige iPad past. Zonder statief zou ik de elitehood Metal iPad Tripod Stand kopen, die 183 cm haalt.'
@@ -331,7 +331,7 @@ faqs:
   a: Ja, de meeste iPad-statiefhouders passen op een iPad mini, die 132,6 mm breed is. De Ulanzi U-Pad III en de JOBY GripTight PRO pakken de korte zijde; de KobraTech begint bij 15,9 cm en houdt de mini dus alleen over de lange zijde vast, en de grote Grifiti-houder is er niet voor bedoeld.
 - q: Is een iPad-standaard met zwanenhals of een statiefhouder beter?
   a: Een statiefhouder is rustiger voor video, omdat een zwanenhals kan veren en zwaaien onder een grote iPad. Een standaard met zwanenhals zoals de elitehood is beter voor lezen, bladmuziek en videobellen, waar bereik en hoek meer tellen dan een stilstaand beeld.
-author: ned-diary
+author: editorial-team
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: De korte zijde van een iPad met hoes opmeten voordat je een iPad-statiefhouder kiest
@@ -349,7 +349,7 @@ heroAlt: iPad statief – 5 houders en standaards die passen bij jouw iPad – B
 heroImage: /images/featured/best-tripod-for-ipad.png
 ---
 
-Het beste iPad statief is het statief waarvan de klem echt past op de breedte van je iPad mét hoes. Heb je een camerastatief, dan zou ik de [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe) toevoegen, een aluminium houder die tot 23 cm opent, breed genoeg voor een 13-inch iPad Pro. Heb je er geen, dan is de [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) een complete standaard die 183 cm haalt. Ik vergeleek vijf keuzes op basis van fabrieksspecificaties en ervaringen van eigenaren. Film je wedstrijden langs de lijn? Mijn gids over [statieven om sport te filmen](/blog/best-tripod-for-filming-sports/) behandelt hogere statieven.
+Het beste iPad statief is het statief waarvan de klem echt past op de breedte van je iPad mét hoes. Heb je een camerastatief, dan zou ik de [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe) toevoegen, een aluminium houder die tot 23 cm opent, breed genoeg voor een 13-inch iPad Pro. Heb je er geen, dan is de [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) een complete standaard die 183 cm haalt. Ik vergeleek vijf keuzes op basis van fabrieksspecificaties en ervaringen van eigenaren; ik heb ze niet zelf getest. Film je wedstrijden langs de lijn? Mijn gids over [statieven om sport te filmen](/blog/best-tripod-for-filming-sports/) behandelt hogere statieven.
 
 ## iPad-statieven vergeleken op klembreedte en hoogte
 

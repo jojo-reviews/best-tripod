@@ -403,7 +403,7 @@ sources:
   - title: 'r/videography: Filming in strong winds'
     url: >-
       https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-08'
 faqs:
   - q: What is the best tripod for iPad?
     a: >-
@@ -435,7 +435,7 @@ faqs:
       sway under a full-size iPad. A gooseneck stand like the elitehood is
       better for reading, music and video calls, where reach and angle matter
       more than a still frame.
-author: ned-diary
+author: editorial-team
 illustrations:
   - prompt: >-
       Close-up of two hands measuring the short edge of a large tablet in a slim
@@ -473,7 +473,7 @@ related:
   - best-iphone-tripod-that-follows-you
 ---
 
-The best tripod for iPad is the one whose clamp actually fits your iPad's width with its case on. If you own a camera tripod, I'd add the [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe), an aluminum mount that opens to 9 in, wide enough for a 13-inch iPad Pro. If you don't, the [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) is a complete stand that reaches 72 in. I compared five picks from maker specs and owner reports. Filming games from the sideline? My [tripods for filming sports](/blog/best-tripod-for-filming-sports/) guide covers taller stands.
+The best tripod for iPad is the one whose clamp actually fits your iPad's width with its case on. If you own a camera tripod, I'd add the [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe), an aluminum mount that opens to 9 in, wide enough for a 13-inch iPad Pro. If you don't, the [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) is a complete stand that reaches 72 in. I compared five picks from maker specs and owner reports; I did not test them myself. Filming games from the sideline? My [tripods for filming sports](/blog/best-tripod-for-filming-sports/) guide covers taller stands.
 
 ## iPad Tripod Comparison by Clamp Width and Height
 

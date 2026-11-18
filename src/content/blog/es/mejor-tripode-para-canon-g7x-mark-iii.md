@@ -352,7 +352,7 @@ sources:
   url: https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/
 - title: 'r/photography: Quick-release tripod for a Canon G7X III'
   url: https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-07T00:00:00.000Z'
 faqs:
 - q: ¿La Canon HG-100TBR sirve para la G7X Mark III?
   a: Sí. Canon incluye la PowerShot G7 X Mark III entre las cámaras compatibles con
@@ -376,7 +376,7 @@ faqs:
   a: Solo para fotos a la altura de los ojos, exposiciones largas e intros de pie.
     Los minis llegan a entre 13,5 y 26 cm; el Peak Design Travel Tripod mide 130,2
     cm (51.25 in) con la columna bajada y aun así se pliega a 39,4 cm (15.5 in).
-author: ned-diary
+author: editorial-team
 related:
 - es/mejor-tripode-para-canon-powershot-v1
 - es/mejor-tripode-de-mesa-para-camara
@@ -406,7 +406,7 @@ heroAlt: Mejor trípode para Canon G7X Mark III – 5 opciones para vlog y viaje
   de compra de Best Tripod
 ---
 
-El mejor trípode para Canon G7X Mark III si haces vlogs es la [empuñadura Tripod Grip HG-100TBR](amzn:B07Z5LZ92N) de Canon, porque Canon incluye la cámara entre las compatibles y el mando encajado inicia la grabación mientras la pantalla abatida te mira. Para mesas me quedaría con el Manfrotto PIXI Mini, para barandillas con el Joby GorillaPod 1K, para clips verticales con el PIXI EVO y para tomas de pie con el Peak Design Travel Tripod (Aluminum). He emparejado los cinco con la cámara a partir de especificaciones del fabricante y opiniones de usuarios en B&H, r/canon y el foro de DPReview.
+El mejor trípode para Canon G7X Mark III si haces vlogs es la [empuñadura Tripod Grip HG-100TBR](amzn:B07Z5LZ92N) de Canon, porque Canon incluye la cámara entre las compatibles y el mando encajado inicia la grabación mientras la pantalla abatida te mira. Para mesas me quedaría con el Manfrotto PIXI Mini, para barandillas con el Joby GorillaPod 1K, para clips verticales con el PIXI EVO y para tomas de pie con el Peak Design Travel Tripod (Aluminum). He emparejado los cinco con la cámara a partir de especificaciones del fabricante y opiniones de usuarios en B&H, r/canon y el foro de DPReview; no los hemos usado nosotros.
 
 ## Trípodes para la G7X Mark III comparados con una cámara de 304 g
 

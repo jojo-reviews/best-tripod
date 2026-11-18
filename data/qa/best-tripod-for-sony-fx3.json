@@ -1,10 +1,10 @@
 {
   "slug": "best-tripod-for-sony-fx3",
   "pass": true,
-  "checkedAt": "2026-11-16T17:50:51.757Z",
+  "checkedAt": "2026-11-08T16:25:07.508Z",
   "errors": [],
   "warnings": [
-    "LIVE POST, FIX: body has 1850 words, over the 1725 limit (top results average 1500): cut repetition and filler",
+    "LIVE POST, FIX: body has 1732 words, over the 1725 limit (top results average 1500): cut repetition and filler",
     "product \"Manfrotto Befree Live Aluminum Travel Video Tripod Kit\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"SmallRig AD-01 Heavy Duty Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "product \"NEEWER TP74 74 inch Video Tripod with Fluid Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -15,8 +15,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-16T17:50:50.640Z",
-    "hash": "7762e5b9370e1ce2"
+    "notes": "added one internal link to best-tripod-for-red-komodo, no claim changed",
+    "at": "2026-11-08T16:25:07.151Z",
+    "hash": "a5a604f3c94413f5"
   }
 }

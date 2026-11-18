@@ -395,8 +395,8 @@ sources:
   - title: 'Reddit r/Hunting: Furthest distance for a tripod shot'
     url: >-
       https://www.reddit.com/r/Hunting/comments/1x1rwjo/whats_the_furthest_distance_you_would_attempt_a/
-reviewedDate: '2026-11-13'
-author: ned-diary
+reviewedDate: '2026-11-08T00:00:00.000Z'
+author: editorial-team
 faqs:
   - q: What is the best tripod for coyote hunting at night?
     a: >-
@@ -457,7 +457,7 @@ heroAlt: >-
   Tripod buying guide
 ---
 
-The best tripod for coyote hunting holds your rifle hands-free at the height you shoot from, which on most night stands means standing. My top pick is the [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42.5 mm carbon legs, a 150 lb rating and 71.5 in on the legs alone. Thermal hunters who want inverted legs should look at the Warrior Commander, and the SLIK Pro 700 DX is the budget base. I compared these five on maker spec sheets and owner reports from predator hunting forums. For deer stands, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
+The best tripod for coyote hunting holds your rifle hands-free at the height you shoot from, which on most night stands means standing. My top pick is the [Fatboy Traverse 2 Section](amzn:Fatboy+Tripods+Traverse+2+Section+Carbon+Fiber+Hunting+Tripod): 42.5 mm carbon legs, a 150 lb rating and 71.5 in on the legs alone. Thermal hunters who want inverted legs should look at the Warrior Commander, and the SLIK Pro 700 DX is the budget base. I compared these five on maker spec sheets and owner reports from predator hunting forums; I did not use them myself. For deer stands, see my [hunting tripod picks by hunting style](/blog/best-tripod-for-hunting/).
 
 ## Coyote hunting tripod comparison by standing height, legs and weight
 
@@ -471,9 +471,9 @@ The best tripod for coyote hunting holds your rifle hands-free at the height you
 | BOG DeathGrip Infinite | 59.5 in | Carbon | 6 lb 8 oz | Not published | Rifle clamp on ball head |
 | SLIK Pro 700 DX | 55.5 in (70.7 in column up) | 30.2 mm aluminum | 5.5 lb | 19.8 or 44.1 lb (SLIK lists both) | None |
 
-The Fatboy and SLIK ship without a head, so I add a [rifle ball head](/blog/best-tripod-ball-head-for-rifle-shooting/) or leveling base to their cost.
+The Fatboy and SLIK ship without a head, so I add a ball head or leveling base to their cost.
 
-## How I picked these coyote hunting tripods
+## How we picked these coyote hunting tripods
 
 **I kept only shooting tripods that two or more predator hunting pages recommend and that have their own Amazon listing.** The BOG and Fatboy each appear on four of those pages, the Radian and SLIK on three, and the Commander on two. I left out the Hog Saddle PIG0311 and Leofoto LS-364C because Amazon sells only a short PIG0311 variant and a newer Leofoto.
 
@@ -499,7 +499,7 @@ On Rokslide, one hunter calls it, with the Chief base, the best coyote tripod fo
 
 The Vortex Radian Carbon is a 4-section carbon fiber tripod kit from Vortex Optics with a ball head and Arca-Swiss clamp in the box. Vortex lists 8.3 to 67.3 in, 7.3 lb and a 55 lb max load, with independent pan, spiked feet and a counterweight hook.
 
-Rokslide reviewers found it very stable and smooth to pan, and it also leads my [rifle tripods for long range shooting](/blog/best-rifle-tripod-for-long-range-shooting/). One warns a top-heavy rifle will flop if the ball is loose, and one Predator Masters owner prefers a cheaper Leofoto. I'd choose the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head) when one tripod must glass and shoot.
+Rokslide reviewers found it very stable and smooth to pan. One warns a top-heavy rifle will flop if the ball is loose, and one Predator Masters owner prefers a cheaper Leofoto. I'd choose the [Vortex Radian Carbon](amzn:Vortex+Radian+Carbon+Tripod+Kit+Ball+Head) when one tripod must glass and shoot.
 
 ### BOG DeathGrip Infinite Carbon Fiber Tripod: best clamp tripod for stocks without a rail
 

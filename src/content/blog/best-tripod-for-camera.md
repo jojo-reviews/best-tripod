@@ -487,7 +487,7 @@ sources:
     url: >-
       https://www.reddit.com/r/photography/comments/441t66/has_anyone_used_one_of_the_higher_end_amazon/
 reviewedDate: '2026-11-05'
-author: ned-diary
+author: editorial-team
 faqs:
   - q: What is the best tripod for a camera?
     a: >-
@@ -557,16 +557,13 @@ heroImage: /images/featured/best-tripod-for-camera.png
 heroAlt: >-
   Best Tripod for Camera (2026) – 6 Picks With a Load and Height Check – Best
   Tripod buying guide
-related:
-  - tall-tripod-vs-regular-tripod
-  - best-tripod-for-mirrorless-camera
 ---
 
 The best tripod for camera owners who want one tripod for everything is the [Peak Design Travel Tripod (Aluminum)](amzn:Peak+Design+Travel+Tripod+aluminum): a 5-section travel tripod that reaches 60 in, folds flat to 15.5 in and is rated for 20 lb. If your kit is heavy and rarely leaves the car, the [Manfrotto 190XPRO3 kit](amzn:Manfrotto+190XPRO+aluminum+3-section+tripod+kit+ball+head+MK190XPRO3-BHQ2) is steadier and taller with the column down. I compared six camera tripods on maker specs and owner reports, without using them myself.
 
 ## Camera tripods compared by column-down height and load
 
-**A camera tripod should reach close to eye level with the center column down and carry at least twice your camera and lens.** Those two numbers sit at the end of the table, because they decide more shots than weight alone; our [tripods for mirrorless cameras](/blog/best-tripod-for-mirrorless-camera/) run the same check by kit weight. If you are not sure what height you need, our guide on [tripod height for your own height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math.
+**A camera tripod should reach close to eye level with the center column down and carry at least twice your camera and lens.** Those two numbers sit at the end of the table, because they decide more shots than weight alone. If you are not sure what height you need, our guide on [tripod height for your own height](/blog/how-tall-should-a-tripod-be-for-my-height/) does the math.
 
 | Camera tripod | Best for | Folded | Weight | Column down | Rated load |
 |---|---|---|---|---|---|

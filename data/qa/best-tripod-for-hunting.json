@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-hunting",
   "pass": true,
-  "checkedAt": "2026-11-13T19:29:42.804Z",
+  "checkedAt": "2026-11-05T21:23:43.252Z",
   "errors": [],
   "warnings": [
     "product \"Primos Trigger Stick Gen3 Tall Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -13,8 +13,8 @@
   ],
   "factCheck": {
     "verified": true,
-    "notes": "intro order: answer first, story in paragraph 2",
-    "at": "2026-11-13T19:29:42.210Z",
-    "hash": "59b43278c94a6996"
+    "notes": "added one internal link to best-tripod-for-coyote-hunting, no claim changed",
+    "at": "2026-11-08T16:25:01.023Z",
+    "hash": "ffd52bbe2e202306"
   }
 }

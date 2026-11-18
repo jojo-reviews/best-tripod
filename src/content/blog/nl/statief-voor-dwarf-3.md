@@ -438,7 +438,7 @@ sources:
   - title: 'Stargazers Lounge: Seestar and Dwarf tripods'
     url: https://stargazerslounge.com/topic/430500-seestardwarf-tripods/
 reviewedDate: '2026-11-08'
-author: ned-diary
+author: editorial-team
 faqs:
   - q: Welke schroefdraad heeft de DWARF 3 voor een statief?
     a: >-

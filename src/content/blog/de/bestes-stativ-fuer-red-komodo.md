@@ -466,7 +466,7 @@ faqs:
     halten, und REDUSER-Besitzer nutzen Carbon-Reisebeine so. Ein Reise-Kugelkopf
     hat keine Dämpfung, Schwenks wirken also ruckelig; für bewegte Einstellungen würde
     ich das TRIBEX SE oder ein Fluidkopf-Set nehmen.
-author: ned-diary
+author: editorial-team
 illustrations:
 - prompt: >-
     A pair of hands lifting a compact cube-shaped cinema camera rig with a cage, small

@@ -376,8 +376,7 @@ sources:
     url: 'https://www.dpreview.com/forums/threads/quick-release-plate.4823610/'
   - title: 'BCG Forums, Locking in lens with Arca-Swiss plate'
     url: 'https://bcgforums.com/threads/locking-in-lens-with-arca-swiss-plate.6572/'
-reviewedDate: '2026-11-16'
-updatedDate: '2026-11-16T17:50:20.000Z'
+reviewedDate: '2026-11-04'
 faqs:
   - q: Are all tripod quick release plates universal?
     a: >-
@@ -405,7 +404,7 @@ faqs:
       Yes, a Peak Design plate fits most Arca-type tripod clamps. Peak Design says it fits most Arca-type
       tripods, but it has no safety stop, so close the clamp fully and tug-test
       it.
-author: ned-diary
+author: editorial-team
 illustrations:
   - prompt: >-
       Close-up of two hands sliding a small square aluminum camera plate into
@@ -446,11 +445,7 @@ heroAlt: >-
   buying guide
 ---
 
-The best tripod quick release plate is the one that fits the clamp on your tripod head. For most shooters that is an Arca-Swiss type plate, and my top pick is the FALCAM F38 Quick Release Kit V2, a quick release system that moves one camera between tripod, gimbal and strap.
-
-Since 2017 I've put my cameras, a Sony A7 IV and a Canon EOS R6 Mark II, on Arca-Swiss plates over carbon fiber tripods and ball heads. I also use a DJI RS 3 Pro gimbal for video, so I want one plate standard every support takes.
-
-So I sort plates by clamp, not brand. On a Manfrotto RC2 head, get the Manfrotto 200PL-PRO. New to the dovetail idea? Read our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/).
+The best tripod quick release plate is the one that fits the clamp on your tripod head. For most shooters that is an Arca-Swiss type plate, and my top pick is the FALCAM F38 Quick Release Kit V2, a quick release system that moves one camera between tripod, gimbal and strap. On a Manfrotto RC2 head, get the Manfrotto 200PL-PRO. New to the dovetail idea? Read our [Arca-Swiss plate explainer](/blog/what-is-an-arca-swiss-plate-and-do-i-need-one/).
 
 ## Tripod quick release plate systems and rated loads compared
 
@@ -466,11 +461,11 @@ So I sort plates by clamp, not brand. On a Manfrotto RC2 head, get the Manfrotto
 
 ## The 5 best tripod quick release plates, pick by pick
 
-**Every tripod quick release plate below fits Arca-Swiss type clamps, and the Manfrotto 200PL-PRO also fits RC2 heads.** I kept to plates for the Arca-Swiss setup on my heads.
+**Every tripod quick release plate below fits Arca-Swiss type clamps, and the Manfrotto 200PL-PRO also fits RC2 heads.**
 
 ### FALCAM F38 Quick Release Kit V2: Best quick release plate system for tripod and gimbal
 
-The FALCAM F38 Quick Release Kit V2 is an Arca-compatible quick release plate and base plate set from FALCAM, Ulanzi's camera-support brand. The [FALCAM F38 Quick Release Kit V2](amzn:FALCAM+F38+Quick+Release+Kit+V2+F38B3404) adds a redundant security lock and is rated to 15 kg in vertical use. I like that one plate locks into F38 shoulder strap clip mounts, tripod bases and gimbals. Brendan Wiltse and r/peakdesign owners call the fit stiff, and r/Photography_Gear owners report the plate working loose, so I'd tighten the screw with the tool and recheck it. For my photo-and-video kit, I'd start here.
+The FALCAM F38 Quick Release Kit V2 is an Arca-compatible quick release plate and base plate set from FALCAM, Ulanzi's camera-support brand. The [FALCAM F38 Quick Release Kit V2](amzn:FALCAM+F38+Quick+Release+Kit+V2+F38B3404) adds a redundant security lock and is rated to 15 kg in vertical use. I like that one plate locks into F38 shoulder strap clip mounts, tripod bases and gimbals. The catch: Brendan Wiltse and r/peakdesign owners call the fit stiff, and r/Photography_Gear owners report the plate working loose, so I'd tighten the screw with the tool and recheck it.
 
 ### Peak Design Standard Plate: Best for Capture clip users
 
@@ -478,7 +473,7 @@ The Peak Design Standard Plate is a machined aluminum Arca-type tripod plate fro
 
 ### PGYTECH Quick Release Plate & Clamp V2: Best clamp and plate set
 
-The PGYTECH Quick Release Plate & Clamp V2 is an Arca-type clamp and plate set from PGYTECH that screws onto a 1/4" or 3/8" stud. The [PGYTECH Quick Release Plate & Clamp V2](amzn:PGYTECH+Quick+Release+Plate+Clamp+V2+Arca+Swiss) slides in with one step and adds dual locking and dual stop pins. An r/AskPhotography owner switches easily between a mini and a full tripod. DPReview owners find it small for heavy kit, and one worries about any lever snagging open. I'd use it for mirrorless kits, not long telephotos; with my 200-600mm wildlife lens I'd want a bigger plate on the lens foot.
+The PGYTECH Quick Release Plate & Clamp V2 is an Arca-type clamp and plate set from PGYTECH that screws onto a 1/4" or 3/8" stud. The [PGYTECH Quick Release Plate & Clamp V2](amzn:PGYTECH+Quick+Release+Plate+Clamp+V2+Arca+Swiss) slides in with one step and adds dual locking and dual stop pins. An r/AskPhotography owner with clamps on a mini and a full tripod now switches easily. DPReview owners find it small for heavy kit, and one worries about any lever snagging open. I'd use it for mirrorless kits, not long telephotos.
 
 ### Manfrotto Quick Release Plate 200PL-PRO: Best for Manfrotto RC2 heads
 
@@ -490,7 +485,7 @@ The NEEWER QPR-5 Quick Release Plate is a 38 mm square Arca-type quick release p
 
 ### Which tripod quick release plate should you get
 
-**I'd pick the tripod quick release plate by the clamp or clip you already own.**
+**Pick the tripod quick release plate by the clamp or clip you already own.**
 
 - **You swap between tripod, gimbal and strap:** FALCAM F38 Quick Release Kit V2.
 - **You carry a Peak Design Capture clip:** Peak Design Standard Plate.
@@ -500,17 +495,17 @@ The NEEWER QPR-5 Quick Release Plate is a 38 mm square Arca-type quick release p
 
 ## How we picked these tripod quick release plates
 
-**I only kept a tripod quick release plate that two or more top-ranking pages recommend and that has its own Amazon US listing.** They include Photography Stack Exchange, Ulanzi's compatibility guide and Pascal Basel's video; I ranked the plates on maker specs and owner threads.
+**Every tripod quick release plate here is recommended by two or more top-ranking pages and has its own Amazon US listing.** They include Photography Stack Exchange, Ulanzi's compatibility guide and Pascal Basel's video; I ranked them on maker specs and owner threads.
 
 > **From our notes:** The 200PL-PRO thread on DPReview changed our order. One owner tried the Manfrotto plate and the Peak Design plate in the same Markins lever clamp: the Peak Design plate fit, the Manfrotto sat loose. Both fit Manfrotto heads perfectly, and neither had trouble on a Sirui knob clamp. So we sorted plates by the clamp you own, not by brand.
 
 ## Will a quick release plate fit your tripod clamp?
 
-**I find an Arca-Swiss type plate fits most screw-knob clamps, but lever clamps are picky because widths differ.** The common Arca width in the US is [about 38.1 mm, while European plates are mostly 35 mm](https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems). A knob closes on either; a preset lever can stay loose. Manfrotto RC2 heads take only RC2 plates or the dual-fit 200PL-PRO. Pascal Basel's video here compares the Peak Design, Ulanzi and PGYTECH systems.
+**An Arca-Swiss type plate fits most screw-knob clamps, but lever clamps are picky because widths differ.** The common Arca width in the US is [about 38.1 mm, while European plates are mostly 35 mm](https://photo.stackexchange.com/questions/101284/which-are-the-most-common-quick-release-plate-systems). A knob closes on either; a preset lever can stay loose. Manfrotto RC2 heads take only RC2 plates or the dual-fit 200PL-PRO. Pascal Basel's video in this section compares the Peak Design, Ulanzi and PGYTECH systems.
 
 ## How to mount a tripod quick release plate so it doesn't twist
 
-**I tighten the plate with a tool, not fingers, so the camera can't twist.**
+**Tighten the plate with a tool, not fingers, so the camera can't twist.**
 
 1. Wipe the camera base and the plate's non-slip rubber pad clean.
 2. Align the plate so its grooves run parallel with the back of the camera, as Jim Doty advises.
@@ -521,6 +516,6 @@ The NEEWER QPR-5 Quick Release Plate is a 38 mm square Arca-type quick release p
 
 ## Quick release plate problems owners run into, and the fix
 
-**Most quick release plate problems owners describe are twist, a loose fit in a lever clamp, or a plate with no stop.** On twist, BCG Forums owners say "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." An anti-twist plate or [an L-bracket for landscapes](/blog/l-bracket-for-landscape-photography/) cures it; with a long lens, put the plate on the lens foot instead of the camera. If a plate rattles in a lever clamp, switch to a screw knob. With no stop pins, keep a hand on the camera when you open the clamp. If the head droops, check whether [your ball head sags after tightening](/blog/ball-head-sags-after-tightening/).
+**Most quick release plate problems are twist, a loose fit in a lever clamp, or a plate with no stop.** On twist, BCG Forums owners say "Generic plates with a single mounting screw and no anti-twist lip do tend to loosen over time." An anti-twist plate or [an L-bracket for landscapes](/blog/l-bracket-for-landscape-photography/) cures it; with a long lens, put the plate on the lens foot instead of the camera. If a plate rattles in a lever clamp, switch to a screw knob. With no stop pins, keep a hand on the camera when you open the clamp. If the head droops, check whether [your ball head sags after tightening](/blog/ball-head-sags-after-tightening/).
 
 Next, pair your plate with a head from our [ball head tripod guide](/blog/ball-head-tripod/).

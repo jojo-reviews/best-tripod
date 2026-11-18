@@ -1075,8 +1075,7 @@
     "slug": "best-tripod-head-for-real-estate-photography",
     "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)",
     "source": "owner list 2026-11-10",
-    "note": "owner request 2026-11-10",
-    "productCount": 13
+    "note": "owner request 2026-11-10"
   },
   {
     "status": "published",
@@ -6266,7 +6265,7 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "merged",
+    "status": "pending",
     "keyword": "best tripod for android phone",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -6293,9 +6292,7 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
-    "lastError": "cannibalization: 4 of the top-10 Google results are shared with \"best phone tripod for vlogging with remote\" (same intent)"
+    }
   },
   {
     "status": "merged",
@@ -6866,7 +6863,7 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "published",
+    "status": "pending",
     "keyword": "best tripod for cooking videos",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -6892,9 +6889,7 @@
       "parentTopic": "phone tripod for cooking videos",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-14T11:30:03.856Z",
-    "publishedAt": "2026-11-14T11:34:55.492Z"
+    }
   },
   {
     "status": "merged",
@@ -7390,12 +7385,12 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "published",
+    "status": "pending",
     "keyword": "best tripod for iphone travel",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
     "note": "owner request 2026-11-10",
-    "attempts": 1,
+    "attempts": 0,
     "secondaryKeywords": [
       "best travel tripod for iphone",
       "best iphone tripod for travel",
@@ -7421,9 +7416,7 @@
       "parentTopic": "best tripod for iphone travel",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-11T11:27:17.803Z",
-    "publishedAt": "2026-11-11T11:42:04.922Z"
+    }
   },
   {
     "status": "merged",
@@ -7669,7 +7662,7 @@
     "note": "owner list 2026-10-22: covered by a live post"
   },
   {
-    "status": "published",
+    "status": "pending",
     "keyword": "best tripod for mirrorless camera",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -7693,9 +7686,7 @@
       "parentTopic": "best travel tripods",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-13T11:19:14.193Z",
-    "publishedAt": "2026-11-13T11:32:29.784Z"
+    }
   },
   {
     "status": "merged",
@@ -8288,17 +8279,10 @@
     "publishedAt": "2026-11-10T11:34:48.691Z"
   },
   {
-    "status": "published",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
-    "secondaryKeywords": [
-      "best iphone mount for tripod",
-      "best smartphone mount for tripod",
-      "best cell phone mount for tripod",
-      "best phone tripod mount adapter",
-      "how to mount phone on camera tripod",
-      "phone mount for tripod magsafe"
-    ],
+    "secondaryKeywords": [],
     "questions": [],
     "priority": 1199,
     "keyword": "best phone mount for tripod",
@@ -8319,13 +8303,10 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "productCount": 5,
-    "startedAt": "2026-11-11T11:27:16.849Z",
-    "publishedAt": "2026-11-11T11:40:33.615Z"
+    }
   },
   {
-    "status": "published",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8351,12 +8332,10 @@
       "parentTopic": "rifle tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-12T11:20:51.543Z",
-    "publishedAt": "2026-11-12T11:35:02.370Z"
+    }
   },
   {
-    "status": "published",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8383,13 +8362,10 @@
       "parentTopic": "best travel tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-12T11:20:48.780Z",
-    "productCount": 6,
-    "publishedAt": "2026-11-12T11:35:12.186Z"
+    }
   },
   {
-    "status": "published",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [],
@@ -8413,9 +8389,7 @@
       "parentTopic": "best tripod head for hunting",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "startedAt": "2026-11-13T11:19:10.130Z",
-    "publishedAt": "2026-11-13T11:32:11.308Z"
+    }
   },
   {
     "status": "pending",
@@ -8553,7 +8527,7 @@
     }
   },
   {
-    "status": "parked",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8581,11 +8555,10 @@
       "parentTopic": "video tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "lastError": "KD 11 > 10 cap"
+    }
   },
   {
-    "status": "merged",
+    "status": "pending",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8611,9 +8584,7 @@
       "parentTopic": "best budget tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    },
-    "mergedInto": "best-tripod-for-camera",
-    "lastError": "cannibalization: \"best camera tripod under 200\" overlaps \"best tripod for camera\" (100%)"
+    }
   },
   {
     "status": "pending",
@@ -8722,69 +8693,5 @@
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
     }
-  },
-  {
-    "status": "published",
-    "attempts": 0,
-    "addedAt": "2026-11-13T21:23:10.166Z",
-    "secondaryKeywords": [
-      "tall tripod",
-      "tall camera tripod",
-      "6 foot tripod",
-      "tripod height for 6 feet"
-    ],
-    "questions": [
-      "is a tall tripod less stable than a regular tripod",
-      "do i need a tall tripod if i am over 6 feet",
-      "how tall is a regular tripod"
-    ],
-    "priority": 999,
-    "keyword": "tall tripod vs regular tripod",
-    "category": "camera-tripods",
-    "intent": "informational",
-    "articleType": "comparison",
-    "funnel": "mofu",
-    "cluster": "tall-photographers",
-    "source": "gsc",
-    "supports": "best-tripod-for-tall-photographers-over-6-feet",
-    "rationale": "Owner rule 2026-11-13 pillar clusters: GSC query (16 impressions, position 31.8, shown on how-tall-should-a-tripod-be-for-my-height) with no dedicated post; supports pillar 1",
-    "slug": "tall-tripod-vs-regular-tripod",
-    "publishedAt": "2026-11-13T21:33:28.221Z"
-  },
-  {
-    "status": "published",
-    "attempts": 0,
-    "addedAt": "2026-11-14T11:18:23.969Z",
-    "secondaryKeywords": [
-      "tripod extension pole",
-      "tripod center column extension",
-      "tripod extender",
-      "how to make a tripod taller"
-    ],
-    "questions": [
-      "can you add height to a tripod",
-      "is a tripod extension pole stable",
-      "what is a center column extension"
-    ],
-    "priority": 999,
-    "keyword": "tripod extension",
-    "category": "tripod-accessories",
-    "intent": "informational",
-    "articleType": "guide",
-    "funnel": "mofu",
-    "cluster": "tall-photographers",
-    "source": "gsc+ahrefs",
-    "supports": "best-tripod-for-tall-photographers-over-6-feet",
-    "rationale": "Owner rule 2026-11-13 pillar clusters: Ahrefs US volume 100, KD 0 (2026-11-14); the pillar shows in GSC for \"tripod with extra height for photographers\" (28 impressions) and has no post on adding height; supports pillar 1",
-    "ahrefs": {
-      "volume": 100,
-      "kd": 0,
-      "trafficPotential": 30,
-      "parentTopic": "tripod extension pole",
-      "source": "ahrefs keywords-explorer-overview us",
-      "date": "2026-11-14"
-    },
-    "slug": "tripod-extension",
-    "publishedAt": "2026-11-14T11:28:11.881Z"
   }
 ]

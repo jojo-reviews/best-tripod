@@ -319,7 +319,7 @@ sources:
   url: https://www.provideocoalition.com/tablet-holders-the-essential-buying-guide-for-2022/
 - title: 'r/videography: Filming in strong winds'
   url: https://www.reddit.com/r/videography/comments/pxdgsx/filming_in_strong_winds/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-08'
 faqs:
 - q: ¿Cuál es el mejor trípode para iPad?
   a: 'El mejor trípode para iPad es un soporte metálico sobre un trípode firme si ya tienes uno: yo elijo el Ulanzi U-Pad III, cuya abrazadera de 10 a 23 cm vale para cualquier iPad actual. Sin trípode, compraría el elitehood Metal iPad Tripod Stand, que llega a 183 cm.'
@@ -331,7 +331,7 @@ faqs:
   a: Sí, la mayoría de soportes de trípode para iPad valen para el iPad mini, que mide 132,6 mm de ancho. El Ulanzi U-Pad III y el JOBY GripTight PRO lo sujetan por el lado corto; el KobraTech empieza en 15,9 cm, así que solo lo sujeta por el lado largo, y el soporte grande de Grifiti no está pensado para él.
 - q: ¿Es mejor un soporte de cuello de cisne o un soporte de trípode para iPad?
   a: Un soporte de trípode es más estable para vídeo, porque un cuello de cisne puede rebotar y balancearse con un iPad grande. Un pie con cuello de cisne como el elitehood es mejor para leer, partituras y videollamadas, donde el alcance y el ángulo importan más que una imagen quieta.
-author: ned-diary
+author: editorial-team
 illustrations:
 - prompt: Close-up of two hands measuring the short edge of a large tablet in a slim case with a yellow tape measure on a wooden desk, an open metal tablet clamp lying beside it, soft daylight from a window, shallow depth of field, no logos, no text, no readable screen.
   alt: Medir el lado corto de un iPad con funda antes de elegir un soporte de trípode para iPad
@@ -349,7 +349,7 @@ heroAlt: Trípode para iPad – 5 soportes y pies según el tamaño de tu iPad �
 heroImage: /images/featured/best-tripod-for-ipad.png
 ---
 
-El mejor trípode para iPad es aquel cuya abrazadera encaja de verdad con el ancho de tu iPad con la funda puesta. Si tienes un trípode de cámara, yo añadiría el [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe), un soporte de aluminio que abre hasta 23 cm, suficiente para un iPad Pro de 13". Si no lo tienes, el [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) es un pie completo que llega a 183 cm. Comparé cinco opciones a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios. ¿Grabas partidos desde la banda? Mi guía de [trípodes para grabar deporte](/blog/best-tripod-for-filming-sports/) cubre pies más altos.
+El mejor trípode para iPad es aquel cuya abrazadera encaja de verdad con el ancho de tu iPad con la funda puesta. Si tienes un trípode de cámara, yo añadiría el [Ulanzi U-Pad III](amzn:Ulanzi+U-Pad+III+aluminum+iPad+tripod+mount+cold+shoe), un soporte de aluminio que abre hasta 23 cm, suficiente para un iPad Pro de 13". Si no lo tienes, el [elitehood Metal iPad Tripod Stand](amzn:elitehood+Metal+iPad+Tripod+Stand+72in+Gooseneck+Tablet+Floor+Stand) es un pie completo que llega a 183 cm. Comparé cinco opciones a partir de las especificaciones de los fabricantes y de lo que cuentan los propietarios; no las he probado yo. ¿Grabas partidos desde la banda? Mi guía de [trípodes para grabar deporte](/blog/best-tripod-for-filming-sports/) cubre pies más altos.
 
 ## Comparativa de trípodes para iPad por ancho de abrazadera y altura
 

@@ -428,7 +428,7 @@ sources:
   - title: 'Think Media: The best tripods for video in 2026'
     url: https://www.youtube.com/watch?v=4xQznj8WZ4U
 reviewedDate: '2026-11-05'
-author: ned-diary
+author: editorial-team
 faqs:
   - q: Welk statief heb ik nodig voor de Elgato Prompter XL?
     a: >-

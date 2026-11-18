@@ -334,7 +334,7 @@ sources:
   url: https://www.reddit.com/r/smartphonefilming/comments/1v6kixl/recommend_me_a_face_tracking_tripod_for_iphone/
 - title: 'r/MagSafe: DockKit stands and gimbals in late 2025'
   url: https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-09'
 faqs:
 - q: Werkt een iPhone statief dat je volgt met de gewone Camera-app?
   a: Ja, een iPhone statief dat je volgt werkt in de Camera-app als het Apple DockKit ondersteunt of een eigen trackingmodule heeft. De Flow 2 Pro, Osmo Mobile 8 en 8P gebruiken DockKit; de Osmo Mobile 7P en iSteady M7 gebruiken een opklikbare module die in alle camera-apps werkt.
@@ -348,7 +348,7 @@ faqs:
   a: Ja, een tracking-gimbal kan op een gewoon statief voor opnames op ooghoogte. ProVideo Coalition laat de Osmo Mobile 8 op een normaal statief zien, en DJI noemt voor de Osmo Mobile 7-serie een 1/4 inch-schroefgat, dezelfde 1/4"-20-schroefdraad als op een statiefplaat; zet de poten wijd, want de motoren verplaatsen het gewicht.
 - q: Is de Belkin Auto-Tracking Stand Pro nog veilig om te kopen?
   a: Nee, de Belkin Auto-Tracking Stand Pro (model MMA008) is op 26 november 2025 teruggeroepen, omdat de lithium-ionaccu oververhit kan raken en vlam kan vatten. Eigenaren moeten hem niet meer gebruiken en bij Belkin om terugbetaling of vervanging vragen.
-author: ned-diary
+author: editorial-team
 videos:
 - id: xpGQbxokbhY
   afterHeading: 5
@@ -369,7 +369,7 @@ heroImage: /images/featured/best-iphone-tripod-that-follows-you.png
 heroAlt: iPhone statief dat je volgt – 5 tracking-gimbals vergeleken – koopgids van Best Tripod
 ---
 
-Het beste iPhone statief dat je volgt is een tracking-gimbal met ingebouwd statief, en voor de meeste iPhone-bezitters is mijn keuze de [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Hij volgt je via Apple DockKit, zodat de Camera-app en meer dan 200 iOS-apps je volgen, en hij draait volledig 360°. De [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) is het naaste alternatief, met een trackingmodule in de doos. Ik vergeleek vijf keuzes op basis van fabrieksspecificaties en ervaringen van eigenaren. Heb je alleen een vast statiefje met afstandsbediening nodig, dan zijn mijn [telefoonstatieven voor vloggen met afstandsbediening](/nl/blog/beste-telefoonstatief-voor-vloggen-met-afstandsbediening/) goedkoper.
+Het beste iPhone statief dat je volgt is een tracking-gimbal met ingebouwd statief, en voor de meeste iPhone-bezitters is mijn keuze de [Insta360 Flow 2 Pro](amzn:B0DPKV8LP7). Hij volgt je via Apple DockKit, zodat de Camera-app en meer dan 200 iOS-apps je volgen, en hij draait volledig 360°. De [DJI Osmo Mobile 8](amzn:B0FJ2L67HJ) is het naaste alternatief, met een trackingmodule in de doos. Ik vergeleek vijf keuzes op basis van fabrieksspecificaties en ervaringen van eigenaren; ik heb ze niet zelf getest. Heb je alleen een vast statiefje met afstandsbediening nodig, dan zijn mijn [telefoonstatieven voor vloggen met afstandsbediening](/nl/blog/beste-telefoonstatief-voor-vloggen-met-afstandsbediening/) goedkoper.
 
 ## iPhone-statieven met tracking vergeleken op soort tracking, draaien en accu
 

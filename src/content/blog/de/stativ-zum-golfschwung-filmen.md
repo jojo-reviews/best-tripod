@@ -386,7 +386,7 @@ sources:
   - title: 'techtracker: Sensyne tripod review'
     url: 'https://techtracker.blog/sensyne-tripod-review/'
 reviewedDate: '2026-11-03'
-author: ned-diary
+author: editorial-team
 faqs:
   - q: Welches Stativ ist das beste zum Golfschwung filmen?
     a: >-

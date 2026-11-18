@@ -1,7 +1,7 @@
 {
   "slug": "best-tripod-for-laser-level",
   "pass": true,
-  "checkedAt": "2026-11-16T17:50:41.050Z",
+  "checkedAt": "2026-11-06T15:52:46.726Z",
   "errors": [],
   "warnings": [
     "product \"Bosch BT150 Compact Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
@@ -11,12 +11,15 @@
     "product \"Bosch BT300HD Elevator Tripod\" has no Amazon photo yet (the Amazon refresh adds it after push)",
     "illustration 1 not generated yet (the AI images workflow adds it after push)",
     "illustration 2 not generated yet (the AI images workflow adds it after push)",
-    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "source didn't respond normally (403): https://www.ofzenandcomputing.com/best-tripods-for-laser-levels-and-transits/",
+    "source didn't respond normally (403): https://www.reddit.com/r/Tile/comments/1dm48im/what_tripod_do_you_guys_use_for_your_laser_level/",
+    "source didn't respond normally (403): https://www.reddit.com/r/HomeImprovement/comments/dgkyo8/sturdy_tall_80_tripod_suggestions_for_laser_level/"
   ],
   "factCheck": {
     "verified": true,
-    "notes": "story pass: first-person narrative from author-stories.json, no new claims",
-    "at": "2026-11-16T17:50:39.889Z",
-    "hash": "6d8f0a77126d9828"
+    "notes": "2026-11-04 semantic pass (TextRazor, 5 top pages): added spirit level (DW0881T built-in level per DeWalt page), laser distance measurement tools (Bosch BT150 listing), surveying (5/8-11 standard thread); first H2 renamed to thread/height comparison; FAQ answers answer-first; no new prices, ratings or product changes. Review only, no updatedDate.",
+    "at": "2026-11-04T17:55:22.020Z",
+    "hash": "a54d4888b22c8c1f"
   }
 }

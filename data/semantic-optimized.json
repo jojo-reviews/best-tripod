@@ -414,57 +414,5 @@
   "best-tripod-for-starlink-mini": {
     "at": "2026-11-10T17:50:40.208Z",
     "note": "new post 2026-11-09 written with TextRazor entities, Google words and Amazon filters; no separate pass needed"
-  },
-  "best-tripod-for-canon-m50": {
-    "at": "2026-11-11T17:49:04.077Z",
-    "note": "written with TextRazor entities on 2026-11-10 (no pass needed)"
-  },
-  "best-tripod-for-sony-a6400": {
-    "at": "2026-11-11T17:49:04.105Z",
-    "note": "written with TextRazor entities on 2026-11-10 (no pass needed)"
-  },
-  "best-tripod-for-canon-r5": {
-    "at": "2026-11-11T17:49:04.132Z",
-    "note": "written with TextRazor entities on 2026-11-10 (no pass needed)"
-  },
-  "best-tripod-for-iphone-travel": {
-    "at": "2026-11-12T17:48:29.360Z",
-    "note": "written with TextRazor entities on 2026-11-11 (no pass needed)"
-  },
-  "best-phone-mount-for-tripod": {
-    "at": "2026-11-12T17:48:29.400Z",
-    "note": "written with TextRazor entities on 2026-11-11 (no pass needed)"
-  },
-  "tripod-mistakes-lessons-from-reddit": {
-    "at": "2026-11-13T17:49:30.425Z",
-    "note": "written with TextRazor entities on 2026-11-12 (no pass needed)"
-  },
-  "best-rifle-tripod-for-long-range-shooting": {
-    "at": "2026-11-13T17:49:30.458Z",
-    "note": "written with TextRazor entities on 2026-11-12 (no pass needed)"
-  },
-  "best-carbon-fiber-travel-tripod": {
-    "at": "2026-11-13T17:49:30.495Z",
-    "note": "written with TextRazor entities on 2026-11-12 (no pass needed)"
-  },
-  "best-tripod-ball-head-for-rifle-shooting": {
-    "at": "2026-11-14T17:48:48.577Z",
-    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
-  },
-  "best-tripod-for-mirrorless-camera": {
-    "at": "2026-11-14T17:48:48.619Z",
-    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
-  },
-  "tall-tripod-vs-regular-tripod": {
-    "at": "2026-11-14T17:48:48.652Z",
-    "note": "written with TextRazor entities (brief + entities file); no extra pass needed"
-  },
-  "tripod-extension": {
-    "at": "2026-11-15T17:48:27.674Z",
-    "note": "written with TextRazor entities; no extra pass needed"
-  },
-  "best-tripod-for-cooking-videos": {
-    "at": "2026-11-15T17:48:27.702Z",
-    "note": "written with TextRazor entities; no extra pass needed"
   }
 }

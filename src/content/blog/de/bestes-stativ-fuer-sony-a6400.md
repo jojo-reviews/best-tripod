@@ -439,8 +439,8 @@ sources:
   url: https://forum.cameraegg.org/sony-forum/what-are-the-best-budget-tripods-for-a-sony-a6400-63007/
 - title: 'r/SonyAlpha: Sony a6400 tripod bolt replacement'
   url: https://www.reddit.com/r/SonyAlpha/comments/1dhu6qm/sony_a6400_tripod_bolt_replacement/
-reviewedDate: '2026-11-13'
-author: ned-diary
+reviewedDate: '2026-11-10'
+author: editorial-team
 faqs:
 - q: Welches ist das beste Stativ für die Sony a6400?
   a: 'Das Manfrotto Befree Advanced ist für die meisten Besitzer einer Sony a6400
@@ -470,7 +470,7 @@ heroAlt: Bestes Stativ für Sony a6400 – 6 Modelle vom Kitobjektiv bis 70-350 
   Best Tripod Kaufberatung
 ---
 
-Das beste Stativ für Sony a6400 Besitzer ist für die meisten das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), und das Sirui T-025SK mit 31 cm (12.2 in) Packmaß, wenn nur Handgepäck mitkommt. Die a6400, eine spiegellose APS-C-Kamera, wiegt [etwa 403 g mit Akku und Karte](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), jedes Stativ hier trägt sie also; ich habe nach Packmaß, Höhe und Aufnahmeart ausgewählt. Fürs Vloggen mit dem Klappdisplay würde ich ein Ministativ dazunehmen. Ich habe Herstellerdaten und Beiträge von Besitzern aus Sony-Foren verglichen.
+Das beste Stativ für Sony a6400 Besitzer ist für die meisten das [Manfrotto Befree Advanced](amzn:Manfrotto+Befree+Advanced+lever+aluminum+travel+tripod+ball+head), und das Sirui T-025SK mit 31 cm (12.2 in) Packmaß, wenn nur Handgepäck mitkommt. Die a6400, eine spiegellose APS-C-Kamera, wiegt [etwa 403 g mit Akku und Karte](https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6400/specifications), jedes Stativ hier trägt sie also; ich habe nach Packmaß, Höhe und Aufnahmeart ausgewählt. Fürs Vloggen mit dem Klappdisplay würde ich ein Ministativ dazunehmen. Ich habe Herstellerdaten und Beiträge von Besitzern aus Sony-Foren verglichen; ich habe diese Stative nicht selbst benutzt.
 
 ## Sony a6400 Stative im Vergleich: Packmaß, Höhe und Tragkraft
 

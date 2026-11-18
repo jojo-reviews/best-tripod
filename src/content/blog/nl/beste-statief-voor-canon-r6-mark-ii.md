@@ -434,8 +434,8 @@ sources:
   - title: 'DPReview forum: Recommend tripod for Astro & Landscape for R6'
     url: >-
       https://www.dpreview.com/forums/threads/recommend-tripod-for-astro-landscape-for-r6.4650572/
-reviewedDate: '2026-11-13'
-author: ned-diary
+reviewedDate: '2026-11-02'
+author: editorial-team
 faqs:
   - q: Wat is het beste statief voor een Canon R6 Mark II?
     a: >-
@@ -491,7 +491,7 @@ heroAlt: >-
   Tripod koopgids
 ---
 
-Een R6 Mark II met een 24-105 aan een winderige kust, een belichting van 30 seconden en een zachte foto omdat de dunne poten zoemden. Het beste statief voor Canon R6 Mark II bezitters hangt af van de RF-lens die je gebruikt: voor reizen met een 24-105 is dat de [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), voor wind de [Leofoto LS-284CX set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) zonder middenzuil. Ik heb vijf statieven gekoppeld aan echte Canon-combinaties op basis van fabrieksspecificaties, de lensgewichten van Canon en topics van R6-bezitters.
+Een R6 Mark II met een 24-105 aan een winderige kust, een belichting van 30 seconden en een zachte foto omdat de dunne poten zoemden. Het beste statief voor Canon R6 Mark II bezitters hangt af van de RF-lens die je gebruikt: voor reizen met een 24-105 is dat de [Peak Design Travel Tripod (Carbon Fiber)](amzn:Peak+Design+Travel+Tripod+Carbon+Fiber), voor wind de [Leofoto LS-284CX set](amzn:Leofoto+LS-284CX+LH-30+travel+tripod) zonder middenzuil. Ik heb vijf statieven gekoppeld aan echte Canon-combinaties op basis van fabrieksspecificaties, de lensgewichten van Canon en topics van R6-bezitters. We hebben deze statieven niet zelf gebruikt.
 
 ## Statieven voor de Canon R6 Mark II vergeleken op lensgewicht
 

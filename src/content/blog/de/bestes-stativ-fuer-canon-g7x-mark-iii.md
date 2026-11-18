@@ -357,7 +357,7 @@ sources:
   url: https://www.reddit.com/r/canon/comments/1i5ae6y/tripod_to_film_vertical_with_mark_ii_g7/
 - title: 'r/photography: Quick-release tripod for a Canon G7X III'
   url: https://www.reddit.com/r/photography/comments/1jthgyz/can_anyone_recommend_a_quickrelease_tripod_that/
-reviewedDate: '2026-11-13'
+reviewedDate: '2026-11-07T00:00:00.000Z'
 faqs:
 - q: Passt das Canon HG-100TBR zur G7X Mark III?
   a: Ja. Canon führt die PowerShot G7 X Mark III als kompatibel mit dem HG-100TBR,
@@ -381,7 +381,7 @@ faqs:
   a: Nur für Fotos auf Augenhöhe, Langzeitbelichtungen und Intros im Stehen. Die Ministative
     erreichen 13,5 bis 26 cm; das Peak Design Travel Tripod steht mit eingefahrener
     Säule 130,2 cm (51.25 in) hoch und packt trotzdem auf 39,4 cm (15.5 in).
-author: ned-diary
+author: editorial-team
 related:
 - de/bestes-stativ-fuer-canon-powershot-v1
 - de/bestes-tischstativ-fuer-kamera
@@ -410,7 +410,7 @@ heroAlt: Bestes Stativ für Canon G7X Mark III – 5 Modelle für Vlog und Reise
   Tripod Kaufberatung
 ---
 
-Das beste Stativ für Canon G7X Mark III Vlogger ist Canons [Griffstativ HG-100TBR](amzn:B07Z5LZ92N), denn Canon führt die Kamera als kompatibel, und die eingeklipste Fernbedienung startet die Aufnahme, während das hochgeklappte Display zu dir zeigt. Für Tische würde ich das Manfrotto PIXI Mini nehmen, für Geländer das Joby GorillaPod 1K, für Hochformat-Clips das PIXI EVO und für Aufnahmen im Stehen das Peak Design Travel Tripod (Aluminum). Alle fünf habe ich anhand von Herstellerdaten und Besitzerberichten bei B&H, r/canon und im DPReview-Forum auf die Kamera abgestimmt.
+Das beste Stativ für Canon G7X Mark III Vlogger ist Canons [Griffstativ HG-100TBR](amzn:B07Z5LZ92N), denn Canon führt die Kamera als kompatibel, und die eingeklipste Fernbedienung startet die Aufnahme, während das hochgeklappte Display zu dir zeigt. Für Tische würde ich das Manfrotto PIXI Mini nehmen, für Geländer das Joby GorillaPod 1K, für Hochformat-Clips das PIXI EVO und für Aufnahmen im Stehen das Peak Design Travel Tripod (Aluminum). Alle fünf habe ich anhand von Herstellerdaten und Besitzerberichten bei B&H, r/canon und im DPReview-Forum auf die Kamera abgestimmt; wir haben sie nicht selbst benutzt.
 
 ## G7X Mark III Stative im Vergleich mit einer 304-g-Kamera
 

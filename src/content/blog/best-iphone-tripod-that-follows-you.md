@@ -425,7 +425,7 @@ sources:
   - title: 'r/MagSafe: DockKit stands and gimbals in late 2025'
     url: >-
       https://www.reddit.com/r/MagSafe/comments/1oekzrg/dockkit_stands_and_gimbals_in_late_2025/
-reviewedDate: '2026-11-13T00:00:00.000Z'
+reviewedDate: '2026-11-09'
 faqs:
   - q: Does an iPhone tripod that follows you work with the iPhone Camera app?
     a: >-
@@ -458,7 +458,7 @@ faqs:
       November 2025 because its lithium-ion battery can overheat and catch fire.
       Owners are told to stop using it and claim a refund or replacement from
       Belkin.
-author: ned-diary
+author: editorial-team
 videos:
   - id: xpGQbxokbhY
     afterHeading: 5
@@ -497,11 +497,9 @@ heroImage: /images/featured/best-iphone-tripod-that-follows-you.png
 heroAlt: >-
   Best iPhone Tripod That Follows You – 5 Tracking Gimbals Compared – Best
   Tripod buying guide
-related:
-  - best-tripod-for-iphone-travel
 ---
 
-The best iPhone tripod that follows you is a tracking gimbal with a built-in tripod, and for most iPhone owners my pick is the [Insta360 Flow 2 Pro](amzn:Insta360+Flow+2+Pro+AI+tracking+phone+gimbal). It tracks through Apple DockKit, so the Camera app and over 200 iOS apps follow you, and it pans a full 360°. The [DJI Osmo Mobile 8](amzn:DJI+Osmo+Mobile+8+gimbal+stabilizer) is the close alternative with a tracking module in the box. I compared five picks from maker specs and owner reports. If you only need a static stick tripod and a remote, my [phone tripods for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) cost less.
+The best iPhone tripod that follows you is a tracking gimbal with a built-in tripod, and for most iPhone owners my pick is the [Insta360 Flow 2 Pro](amzn:Insta360+Flow+2+Pro+AI+tracking+phone+gimbal). It tracks through Apple DockKit, so the Camera app and over 200 iOS apps follow you, and it pans a full 360°. The [DJI Osmo Mobile 8](amzn:DJI+Osmo+Mobile+8+gimbal+stabilizer) is the close alternative with a tracking module in the box. I compared five picks from maker specs and owner reports; I did not test them myself. If you only need a static stick tripod and a remote, my [phone tripods for vlogging with a remote](/blog/best-phone-tripod-for-vlogging-with-remote/) cost less.
 
 ## iPhone Tracking Tripod Comparison by Tracking Method, Pan and Battery
 
