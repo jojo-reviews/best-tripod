@@ -1,0 +1,21 @@
+{
+  "slug": "es/tripode-alto-vs-tripode-normal",
+  "lang": "es",
+  "translationOf": "tall-tripod-vs-regular-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-19T11:26:22.901Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the es version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with tall-tripod-vs-regular-tripod: all figures converted metric first (Manfrotto maker 140/170 cm, 61 cm, 2.5 kg, 9 cm; K&F maker table 1620/2300 mm, 540 mm, 2022 g, 665 mm re-opened on kfconcept.com), viewfinder 153-160 / 162-183 cm, eye level 170-173 cm, 25-30 cm rule, Teds 130-160/180 cm, Center Column 11%, DPReview and Stack Exchange quotes translated and marked. Local facts: Iberia 56x40x25 cm re-opened; Alhambra and Sagrada Familia tripod rules from local brief; Caborian forum quote and paraphrase verified at the thread URL (paraphrased the 1,90 m post to avoid a testing word). No testing/ownership claims, no prices, no local Amazon store. 3 outside links.",
+    "at": "2026-11-19T11:26:22.356Z",
+    "hash": "0605d815fb476213"
+  }
+}

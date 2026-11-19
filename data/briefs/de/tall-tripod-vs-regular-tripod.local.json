@@ -1,0 +1,122 @@
+{
+  "lang": "de",
+  "translationOf": "tall-tripod-vs-regular-tripod",
+  "checkedAt": "2026-11-19T11:21:43Z",
+  "note": "English post has productCount 0; the two tripods are reference rows in the comparison table, listed here for EU availability and metric specs only.",
+  "productFit": [
+    {
+      "name": "Manfrotto MT055XPRO3 (regular reference tripod in the comparison table; not a product block)",
+      "asin": "B00IQ7PT50",
+      "status": "fits",
+      "metricSpecs": "Maker (manfrotto.com global-de): 170 cm max, 140 cm with centre column down, 9 cm min, 61 cm closed, 2.5 kg, 3 leg sections.",
+      "reason": "Sold in the EU under the same model code (Manfrotto German maker page; EU dealers).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "name": "K&F Concept 90 inch Tripod (KF09.119, T254A7+BH-28L; tall reference tripod in the comparison table; not a product block)",
+      "asin": "B0C7BX47VW",
+      "status": "fits",
+      "metricSpecs": "Maker spec table (kfconcept.com): 2300 mm max, 1620 mm without centre column, 665 mm min, 540 mm folded, 2022 g, 4 leg sections, 16-25 mm legs, 10 kg load.",
+      "reason": "The same ASIN is listed in the EU as the K&F Concept 230 cm tripod (T254A7+BH-28L); maker spec table gives metric figures.",
+      "source": "https://www.amazon.de/CONCEPT-230cm-Dreibein-Stativ-Kamera/dp/B0C7BX47VW"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Lufthansa allows carry-on bags of max. 55 x 40 x 23 cm. The Manfrotto MT055XPRO3 closes to 61 cm (maker), so it does not fit lengthwise; the K&F (54 cm folded) is just under 55 cm.",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "fact": "Destatis: the average man in Germany is 1.79 m tall (woman 1.66 m), so the 6 ft (183 cm) threshold of the post is only a little above the German male average.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\" – a tall tripod for shooting over crowds is not an option inside without permission.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Manfrotto's German spec sheet gives the MT055XPRO3 140 cm with the column down and 170 cm with it up (30 cm from the column), 61 cm closed, 2.5 kg.",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "German forum users blame a raised centre column for shake, especially at long focal lengths.",
+      "fix": "Compare the legs-only height and keep the column down (tall legs instead of column height), as the post explains.",
+      "quotes": [
+        {
+          "text": "Ich würde also dringen raten, die MS nicht zu verwenden. Die scheint in den meisten Fällen der Grund allen Übels zu sein.",
+          "url": "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+        },
+        {
+          "text": "Bei einem Billigstativ mit ausgefahrener Mittelsäule (!) braucht es wohl nicht viel, um den Kuhschwanz-Effekt zu erreichen.",
+          "url": "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+      ]
+    },
+    {
+      "pain": "Tall beginners (190 cm) worry they must spend more and carry a bigger tripod to look through the viewfinder upright.",
+      "fix": "The rule 'body height minus 25-30 cm vs legs-only height' shows when a tall tripod is needed; the K&F reaches 162 cm legs only at 2.0 kg.",
+      "quotes": [
+        {
+          "text": "Muss ich bei 190cm Körpergröße zwangsweise mehr investieren und vor allem auch ein größeres Stativ schleppen?",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    },
+    {
+      "pain": "The Manfrotto 055 is known in German forums for only 140 cm working height without the column.",
+      "fix": "Shown in the table: 140 cm legs only, about 152-160 cm at the viewfinder, short of eye level at 183 cm.",
+      "quotes": [
+        {
+          "text": "Ein Manfrotto MT055XPRO3 055. Allerdings eine Arbeitshöhe von nur 140cm.",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Maker metric figures (Manfrotto 140/170 cm, 61 cm; K&F 162/230 cm, 54 cm) instead of converted inches.",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "point": "Lufthansa cabin-bag length 55 cm vs folded lengths (Manfrotto 61 cm too long, K&F 54 cm fits).",
+      "source": "https://www.lufthansa.com/fi/de/handgepaeck"
+    },
+    {
+      "point": "Destatis average height 1.79 m frames the 183 cm threshold for German readers.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "German forum voice on centre-column shake (dslr-forum.de).",
+      "source": "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights, lengths and weights in inches/feet/lb (6 feet, 50-63 in, 55 in, 63.8 in, 67 in, 90.6 in, 21.3 in, 24 in, 5.5 lb, 4.46 lb, 3.5 in, 26.2 in)",
+      "action": "replace",
+      "with": "metric first using maker figures (Manfrotto 140/170 cm, 61 cm, 2.5 kg, 9 cm; K&F 162/230 cm, 54 cm, 2.0 kg, 66.5 cm), 6 ft = 183 cm, imperial in brackets"
+    },
+    {
+      "english": "\"Measure the suitcase or backpack before the tripod\" / FAQ 'measure your suitcase' (no airline named)",
+      "action": "replace",
+      "with": "the local airline cabin-bag size from localFacts compared with 54 cm vs 61 cm folded"
+    },
+    {
+      "english": "\"cheaper\" in the regular-tripod bullet",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}

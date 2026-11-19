@@ -1878,6 +1878,27 @@
       "lang": "nl",
       "translationOf": "best-tripod-for-sony-a6400",
       "pubDate": "2026-11-11T05:20:00.000Z"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "de/hohes-stativ-vs-normales-stativ",
+      "lang": "de",
+      "translationOf": "tall-tripod-vs-regular-tripod",
+      "pubDate": "2026-11-19T15:10:00.000Z"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "es/tripode-alto-vs-tripode-normal",
+      "lang": "es",
+      "translationOf": "tall-tripod-vs-regular-tripod",
+      "pubDate": "2026-11-19T14:15:00.000Z"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "nl/hoog-statief-vs-normaal-statief",
+      "lang": "nl",
+      "translationOf": "tall-tripod-vs-regular-tripod",
+      "pubDate": "2026-11-19T13:45:00.000Z"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "nl/hoog-statief-vs-normaal-statief",
+  "lang": "nl",
+  "translationOf": "tall-tripod-vs-regular-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-19T11:26:23.719Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/how-to-stop-tripod-shake-in-wind/; link the nl version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with tall-tripod-vs-regular-tripod: all figures converted metric first (Manfrotto maker 140/170 cm, 61 cm, 2.5 kg, 9 cm; K&F maker table 1620/2300 mm, 540 mm, 2022 g, 665 mm re-opened on kfconcept.com), viewfinder 153-160 / 162-183 cm, eye level 170-173 cm, 25-30 cm rule, Teds 130-160/180 cm, Center Column 11%, DPReview and Stack Exchange quotes translated and marked. Local facts: KLM 55x35x25 cm and Rijksmuseum 'geen statieven en geen extra belichting' re-opened; CBS 182.9 cm from local brief; natuurfotografie.nl quote verified verbatim. No testing/ownership claims, no prices, no local Amazon store. 3 outside links.",
+    "at": "2026-11-19T11:26:23.161Z",
+    "hash": "d231ca55b7ac44a9"
+  }
+}

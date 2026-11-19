@@ -1,0 +1,114 @@
+{
+  "lang": "nl",
+  "translationOf": "tall-tripod-vs-regular-tripod",
+  "checkedAt": "2026-11-19T11:21:43Z",
+  "note": "English post has productCount 0; the two tripods are reference rows in the comparison table, listed here for EU availability and metric specs only.",
+  "productFit": [
+    {
+      "name": "Manfrotto MT055XPRO3 (regular reference tripod in the comparison table; not a product block)",
+      "asin": "B00IQ7PT50",
+      "status": "fits",
+      "metricSpecs": "Maker (manfrotto.com global-de): 170 cm max, 140 cm with centre column down, 9 cm min, 61 cm closed, 2.5 kg, 3 leg sections.",
+      "reason": "Sold in the EU under the same model code (Manfrotto German maker page; EU dealers).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "name": "K&F Concept 90 inch Tripod (KF09.119, T254A7+BH-28L; tall reference tripod in the comparison table; not a product block)",
+      "asin": "B0C7BX47VW",
+      "status": "fits",
+      "metricSpecs": "Maker spec table (kfconcept.com): 2300 mm max, 1620 mm without centre column, 665 mm min, 540 mm folded, 2022 g, 4 leg sections, 16-25 mm legs, 10 kg load.",
+      "reason": "The same ASIN is listed in the EU as the K&F Concept 230 cm tripod (T254A7+BH-28L); maker spec table gives metric figures.",
+      "source": "https://www.amazon.nl/dp/B0C7BX47VW"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: Dutch-born 19-year-old men were on average 182.9 cm tall in 2020 (women 169.3 cm), so the 6 ft (183 cm) threshold of the post is the average young Dutch man.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "KLM: hand baggage max. 55 x 35 x 25 cm including handles and wheels. The Manfrotto (61 cm closed) does not fit lengthwise; the K&F (54 cm folded) just fits.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "fact": "Rijksmuseum: photographing and filming is allowed without disturbing others; for bridal shoots \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Manfrotto maker spec sheet: 170 cm max, 140 cm with the centre column down, 61 cm closed, 2.5 kg.",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Very tall Dutch photographers need close to 2 m including hiking boots and want to stand upright without the centre column.",
+      "fix": "Compare legs-only height; the K&F publishes 162 cm column down.",
+      "quotes": [
+        {
+          "text": "Inclusief de dikke zolen van de wandelschoenen tik ikzelf bijna de 2 meter aan.",
+          "url": "https://www.natuurfotografie.nl/het-statief-met-de-lange-poten/"
+        }
+      ],
+      "sources": [
+        "https://www.natuurfotografie.nl/het-statief-met-de-lange-poten/"
+      ]
+    },
+    {
+      "pain": "Tall tripods have very thin lowest leg sections, which hurts stability.",
+      "fix": "Keep the thinnest (16 mm) section retracted where possible, as the post advises for the K&F.",
+      "quotes": [
+        {
+          "text": "Bij hoge statieven zijn de onderste poten soms wel heel erg dun.",
+          "url": "https://www.natuurfotografie.nl/het-statief-met-de-lange-poten/"
+        }
+      ],
+      "sources": [
+        "https://www.natuurfotografie.nl/het-statief-met-de-lange-poten/"
+      ]
+    },
+    {
+      "pain": "Tall gear that is also light is hard to find (Tweakers, 1.96 m photographer).",
+      "fix": "The weight trade-off section: the K&F is 2.0 kg with head, the Manfrotto 2.5 kg legs only; carbon if you hike.",
+      "quotes": [
+        {
+          "text": "Maar nu zijn er weinig monopods die lang en licht zijn.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1591449"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1591449"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "CBS average height (182.9 cm, 19-year-old men): the 6 ft threshold is the Dutch average.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "KLM hand-baggage length 55 cm vs folded lengths.",
+      "source": "https://www.klm.com/information/baggage/hand-baggage-allowance"
+    },
+    {
+      "point": "Maker metric figures (Manfrotto 140/170 cm; K&F 162/230 cm).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights, lengths and weights in inches/feet/lb (6 feet, 50-63 in, 55 in, 63.8 in, 67 in, 90.6 in, 21.3 in, 24 in, 5.5 lb, 4.46 lb, 3.5 in, 26.2 in)",
+      "action": "replace",
+      "with": "metric first using maker figures (Manfrotto 140/170 cm, 61 cm, 2.5 kg, 9 cm; K&F 162/230 cm, 54 cm, 2.0 kg, 66.5 cm), 6 ft = 183 cm, imperial in brackets"
+    },
+    {
+      "english": "\"Measure the suitcase or backpack before the tripod\" / FAQ 'measure your suitcase' (no airline named)",
+      "action": "replace",
+      "with": "the local airline cabin-bag size from localFacts compared with 54 cm vs 61 cm folded"
+    },
+    {
+      "english": "\"cheaper\" in the regular-tripod bullet",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}

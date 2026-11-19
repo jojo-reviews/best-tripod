@@ -1,0 +1,101 @@
+{
+  "lang": "es",
+  "translationOf": "tall-tripod-vs-regular-tripod",
+  "checkedAt": "2026-11-19T11:21:43Z",
+  "note": "English post has productCount 0; the two tripods are reference rows in the comparison table, listed here for EU availability and metric specs only.",
+  "productFit": [
+    {
+      "name": "Manfrotto MT055XPRO3 (regular reference tripod in the comparison table; not a product block)",
+      "asin": "B00IQ7PT50",
+      "status": "fits",
+      "metricSpecs": "Maker (manfrotto.com global-de): 170 cm max, 140 cm with centre column down, 9 cm min, 61 cm closed, 2.5 kg, 3 leg sections.",
+      "reason": "Sold in the EU under the same model code (Manfrotto German maker page; EU dealers).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "name": "K&F Concept 90 inch Tripod (KF09.119, T254A7+BH-28L; tall reference tripod in the comparison table; not a product block)",
+      "asin": "B0C7BX47VW",
+      "status": "fits",
+      "metricSpecs": "Maker spec table (kfconcept.com): 2300 mm max, 1620 mm without centre column, 665 mm min, 540 mm folded, 2022 g, 4 leg sections, 16-25 mm legs, 10 kg load.",
+      "reason": "The same ASIN is listed in the EU as the K&F Concept 230 cm tripod (T254A7+BH-28L); maker spec table gives metric figures.",
+      "source": "https://www.amazon.es/-/en/CONCEPT-Tripod-Camera-230CM-Aluminium/dp/B0C7BX47VW"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Iberia allows a cabin bag of up to 56 x 40 x 25 cm. The Manfrotto MT055XPRO3 (61 cm closed, maker) is too long; the K&F (54 cm folded) fits within 56 cm.",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "fact": "Alhambra (Patronato): photos only without flash and without tripod, monopod or other stabilising element – a tall tripod does not help inside the monument.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Sagrada Família normativa: no photos or videos with a tripod inside the grounds unless accredited by the press department.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Manfrotto's maker spec sheet: 170 cm max, 140 cm with the centre column down, 61 cm closed, 2.5 kg.",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Tall Spanish photographers (1.90 m) say short supports force them to stoop a lot.",
+      "fix": "Check legs-only height against 'height minus 25-30 cm'; the K&F reaches 162 cm without the column.",
+      "quotes": [
+        {
+          "text": "Mido 1,90 y he probado algunos monopies y todos ellos me obligan a agacharme mucho.",
+          "url": "https://www.caborian.com/foro/index.php?topic=516.0"
+        }
+      ],
+      "sources": [
+        "https://www.caborian.com/foro/index.php?topic=516.0"
+      ]
+    },
+    {
+      "pain": "Forum users ask whether there is gear for tall people at all.",
+      "fix": "The post shows the legs-only figure to compare and when a tall tripod class (180 cm+) is worth it.",
+      "quotes": [
+        {
+          "text": "¿Y no hay monopiés para gente alta?",
+          "url": "https://www.caborian.com/foro/index.php?topic=516.0"
+        }
+      ],
+      "sources": [
+        "https://www.caborian.com/foro/index.php?topic=516.0"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Tripod bans at the Alhambra and Sagrada Família: the 'shoot over crowds' case is for outdoor spots, not these interiors.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "point": "Iberia cabin-bag length 56 cm vs folded lengths (Manfrotto 61 cm too long, K&F 54 cm fits).",
+      "source": "https://www.iberia.com/us/equipajes/de-mano/"
+    },
+    {
+      "point": "Maker metric figures (Manfrotto 140/170 cm; K&F 162/230 cm).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights, lengths and weights in inches/feet/lb (6 feet, 50-63 in, 55 in, 63.8 in, 67 in, 90.6 in, 21.3 in, 24 in, 5.5 lb, 4.46 lb, 3.5 in, 26.2 in)",
+      "action": "replace",
+      "with": "metric first using maker figures (Manfrotto 140/170 cm, 61 cm, 2.5 kg, 9 cm; K&F 162/230 cm, 54 cm, 2.0 kg, 66.5 cm), 6 ft = 183 cm, imperial in brackets"
+    },
+    {
+      "english": "\"Measure the suitcase or backpack before the tripod\" / FAQ 'measure your suitcase' (no airline named)",
+      "action": "replace",
+      "with": "the local airline cabin-bag size from localFacts compared with 54 cm vs 61 cm folded"
+    },
+    {
+      "english": "\"cheaper\" in the regular-tripod bullet",
+      "action": "drop",
+      "with": ""
+    }
+  ]
+}
