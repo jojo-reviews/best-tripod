@@ -1,0 +1,162 @@
+{
+  "keyword": "tall tripod vs regular tripod",
+  "pagesAnalyzed": 4,
+  "sharedEntities": [
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 4,
+      "relevance": 0.8,
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "wikidata": "Q208826",
+      "kgmid": "/m/01jtb2"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.98,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 3,
+      "relevance": 0.94,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 3,
+      "relevance": 0.56,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 3,
+      "relevance": 0.49,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Eye",
+      "type": "AnatomicalStructure",
+      "pages": 3,
+      "relevance": 0.37,
+      "wiki": "http://en.wikipedia.org/wiki/Eye",
+      "wikidata": "Q7364",
+      "kgmid": "/m/014sv8"
+    },
+    {
+      "entity": "Macro photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 3,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "wikidata": "Q272444",
+      "kgmid": "/m/010f1nbq"
+    },
+    {
+      "entity": "Tripod head",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.77,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_head",
+      "wikidata": "Q3275242",
+      "kgmid": "/m/0g5qnbh"
+    },
+    {
+      "entity": "Monopod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.5,
+      "wiki": "http://en.wikipedia.org/wiki/Monopod",
+      "wikidata": "Q1306072",
+      "kgmid": "/m/047sxn"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Viewfinder",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Viewfinder",
+      "wikidata": "Q209906",
+      "kgmid": "/m/04bkwp"
+    },
+    {
+      "entity": "Digital single-lens reflex camera",
+      "type": "/digicams/camera_format",
+      "pages": 2,
+      "relevance": 0.36,
+      "wiki": "http://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera",
+      "wikidata": "Q196342",
+      "kgmid": "/m/04f20t"
+    },
+    {
+      "entity": "Carbon-fiber reinforced polymer",
+      "type": "/projects/project_focus",
+      "pages": 2,
+      "relevance": 0.34,
+      "wiki": "http://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer",
+      "wikidata": "Q910977",
+      "kgmid": "/m/0155k0"
+    },
+    {
+      "entity": "Weight",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Weight",
+      "wikidata": "Q25288",
+      "kgmid": "/m/085x_"
+    },
+    {
+      "entity": "Image stabilization",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.31,
+      "wiki": "http://en.wikipedia.org/wiki/Image_stabilization",
+      "wikidata": "Q31009",
+      "kgmid": "/m/0bphfx"
+    },
+    {
+      "entity": "Backpack",
+      "type": "/business/product_category",
+      "pages": 2,
+      "relevance": 0.3,
+      "wiki": "http://en.wikipedia.org/wiki/Backpack",
+      "wikidata": "Q5843",
+      "kgmid": "/m/01940j"
+    },
+    {
+      "entity": "Length",
+      "type": "/measurement_unit/dimension",
+      "pages": 2,
+      "relevance": 0.26,
+      "wiki": "http://en.wikipedia.org/wiki/Length",
+      "wikidata": "Q36253",
+      "kgmid": "/m/04psy"
+    }
+  ],
+  "errors": [
+    "https://www.dpreview.com/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-5GZ54n40HpBFdZ764i4P3b&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"5GZ54n40HpBFdZ764i4P3b\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'O0Vvjglvtk5ITsS.ImLA4oS8VZXaKHtmVBLB5BgYlsQ-1794605221-1.2.1.1-gR.vsHAeYkVcydVkBLxgl3pSN2ietWWNbir4ExG2ilhwOlcySPxlClhtuJOgcQMV',cITimeS: '1794605221',cN: '5GZ54n40HpBFdZ764i4P3b',cRay: 'a5a0dbabec44c48c',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/?__cf_chl_tk=8wuvi2KuiCajMk9cheUg2Oq2fA8E9XO7zdUzovEZQN8-1794605221-1.0.1.1-bikU2W5FG0rvkPX0skxe_YANj6fOvSbuO8E7xhRNA6M\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/?__cf_chl_f_tk=8wuvi2KuiCajMk9cheUg2Oq2fA8E9XO7zdUzovEZQN8-1794605221-1.0.1.1-bikU2W5FG0rvkPX0skxe_YANj6fOvSbuO8E7xhRNA6M\",md: 'AadobqOFWLAzZWH_9Ms0HyIsyRHAUOsuXRvaKrlDGvM-1794605221-1.2.1.1-Lzxlnfy6EoQ_bdy4LsBrkzTpi9Da.lK9ZRmwLwg6lbkIs2gY7p542AegFNElKMiO.4cQAB4stZfhCtDLsjN7lYcUR4aNOpJCouxEaz.Y39JVsGC30vwQ4bN1HsOven0JPo5HUUDhCQfTWAbvZ1dN8wZ.sjkinfX6O3bk.Yv2edxM1Kqa2gwmLZWwyk.3Yv7AaZrAv38GHmEJrSRPaXZok1fvMoNwocmBMpuFg4nYCXdygKiTIHuttRkudiNCRft8oCmTXDglbY5RgBhA94KFpzvgKhPqcHkVw_AeIo6dGUpcyLKr48u05X7bBYoYQwa3XaDUGm2OT49owwEsykqQu9KLB9.EC2r525Bhncq7485a3gCAmvO1CocErdTIow.KK2SDUGziX4emQmZ18a0U9BUUg1AVppGgvboNnsBt3NRWJ_.q9B3OM_VvBJjunGgcj.fFMsgf9Hhq9WTcVwl_N_sgYqO1EROWXM4P_r9VnFJmd9cDQjeW7EdXKFfL8DyoaGVO3zy1dY7MwMJv8K29fUjeyOSm7w4QsfUA.tI0xjw8ANGZ6M58FJQb23VGj2dMOOiWemL1bPM51yHsvtCpYi3nUiSD4G0xcFX12I6kt9.5yUTDHx5NyxerdHKQ0Ev19dCylPl2VFxQUny1sTWobP4HhtwYvcXWBkPlLEyf1TFw9sLHQbBR5vDLepe1RCvbkC8t4__p1VerhnhaVSZLGPyCpPMzjr_XDqQN5siBTOZMEGiJ6oNjWlBv.x.K4Clrv3EciWp99jOas5JvZMNAESW0kozH2ktYM41q0exzN8ZfspHwTDuB2ArdjPVZV6zSgxMmtwWxZ_HKorP7ALl9Zp.50g3QLHeOikc8Shij1u9D7O8syr3i2tv3bj0PSVfp7mNvM2Oe4lbPMm63A7jGqA.eYKQ5UbtapB7YVuBLzhrevC.pe32YBk0nPJkZDxssoR6BaNuynGHeWGdgkixJDpF8DUpfoTy4f5_F0Jc3J4sK7x_0edS2Li.hTwD3GKa1EzPLsGngLm6lT1_XA1Gvp9FVF_4AjUsYXFVucJfBOyGneC8BV14PTcFN3JaucF4MjnyvUlVGXdt09QY8_yEru_.Fu3V773kLEjkj0XoPvA241.4SP8s5X1B5.lyhdfNbeF3LLSajyDzdfok0D7nRv6MgsTRKZPOGkyDS57ZcLsY',mdrd: 'kUD3F4IBnz0b32bjE65V.o7lju.3bSOwoT.hjKD7TaQ-1794605221-1.2.1.1-tThjmyngwK19Rt6BqBJ1g0uv8I6T70OjaUg2Ap3kOEoCHAaXm6g32.wC5tECovsHK68acyfiIkKSt_.BMQAUdryNslz2VhfxH9N8Kw_mGOulZatA3XMYk6X4IWhoMUumenhN7C6BQFx4MKCOIOPVOgOWJKLVRRD3mYPzcfERH0FgAN2qu1di7HFnWIxZNhowWkaxGblcyKKTcyJiPAedTxS6ovyt_M1890RHWu9z.k49cqR3gnw.GV4Kc0mK97__0NRF1A8C2YXY3AYeKXY1hg',};var a = document.createElement('script');a.nonce = '5GZ54n40HpBFdZ764i4P3b';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5a0dbabec44c48c';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/3-reasons-to-have-a-tall-tripod.4481770/?__cf_chl_rt_tk=8wuvi2KuiCajMk9cheUg2Oq2fA8E9XO7zdUzovEZQN8-1794605221-1.0.1.1-bikU2W5FG0rvkPX0skxe_YANj6fOvSbuO8E7xhRNA6M\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

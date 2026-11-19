@@ -1,0 +1,18 @@
+{
+  "slug": "tall-tripod-vs-regular-tripod",
+  "pass": true,
+  "checkedAt": "2026-11-19T09:27:46.973Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-11-19 final text re-verified after edits: Breathing Color (legs 50-63 in / 126-160 cm); The Center Column (long TVC-34L 11% lower than TVC-33 at same height); K&F Concept KF09.119 maker page (90.6 in max, 63.8 in without column, 26.2 in min, 21.3 in folded, 4.46 lb, 4 sections, 16-25 mm legs, detachable monopod); B&H MT055XPRO3 specs (67 in column up, 55 in column down, 3.5 in min, 24 in folded, 5.5 lb, 3 sections); Teds Cameras (regular 130-160 cm, tall 180 cm+); DPReview '3 reasons to have a tall tripod' thread (OP traded Gitzo GT5531S for taller version; hedges/fences/walls, steep slopes, high winds; quotes 'The big problem is weight' and '~70cm ... basically to long to fly with' verbatim, attributed to members of the thread); Photography Stack Exchange center-post quote verbatim. Eye level 67-68 in at 6 ft and 5-8 in head+camera allowance are labelled estimates. No featured products, no testing/ownership claims, no prices, editorial-team author, no Ned Diary.",
+    "at": "2026-11-19T09:27:46.485Z",
+    "hash": "78a26a3872429ce3"
+  }
+}

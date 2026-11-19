@@ -182,11 +182,13 @@ sources:
     url: >-
       https://www.bhphotovideo.com/c/product/1934044-REG/vanguard_alta_pro_263ab_g2.html
   - title: What is a Good Tripod Height? (Ulanzi)
-    url: 'https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography'
-  - title: 'Peak Design Travel Tripod vs Pro Tripod specs (ShutterMuse)'
+    url: >-
+      https://www.ulanzi.com/blogs/guides/tripod-height-guide-perfect-photography
+  - title: Peak Design Travel Tripod vs Pro Tripod specs (ShutterMuse)
     url: 'https://shuttermuse.com/peak-design-travel-tripod-vs-pro-tripod/'
   - title: What Is the Ideal Tripod Height for You? (ProMediaGear)
-    url: 'https://promediagear.com/blogs/guides/what-is-the-ideal-tripod-height-for-you'
+    url: >-
+      https://promediagear.com/blogs/guides/what-is-the-ideal-tripod-height-for-you
   - title: 'Avoid Using the Center Column (The Landscape Photography Book, O''Reilly)'
     url: >-
       https://oreilly.com/library/view/the-landscape-photography/9781681984346/Text/chapter04a.xhtml
@@ -233,10 +235,10 @@ author: editorial-team
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: How Tall Should a Tripod Be for My Height? Chart and Math – Best Tripod guide
 related:
+  - tall-tripod-vs-regular-tripod
   - tripod-center-column-up-or-down-for-landscapes
   - best-tripod-for-real-estate-photography
   - best-tripod-for-tall-photographers-over-6-feet
-  - best-phone-tripod-for-vlogging-with-remote
 ---
 
 How tall should a tripod be for my height? The short answer: the legs of a camera tripod alone, with the center column down, should reach roughly your height minus 10 to 12 inches. I use that rule of thumb because it puts the viewfinder at eye level without leaning on the tripod's weakest part. Below are the math, a tripod height chart from 5 feet to 6'6", the center column trade-off, and two tall tripods that fit.
@@ -278,7 +280,7 @@ Ulanzi's height guide lands on the same figure: [about 60 inches without the cen
 
 For a tripod height for a tall person at 6'3" and up, the gap grows to 9 to 12 inches on a 55 inch tripod. At that point we would look specifically for a taller legs-only figure (our roundup of the [best tripods for tall photographers over 6 feet](/blog/best-tripod-for-tall-photographers-over-6-feet/) compares four tall models), accept using the column for the last few inches on calm days, or lean on a tilting screen.
 
-The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/). Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections. For landscape photography from low vantage points, a shorter, steadier tripod can be the better tool.
+The tallest tripod is not always the right one, even among [tripods under 100 dollars](/blog/best-tripod-under-100/). Taller legs mean longer, heavier tubes, a longer folded length and thinner bottom sections, the heart of the [tall tripod vs regular tripod](/blog/tall-tripod-vs-regular-tripod/) choice. For landscape photography from low vantage points, a shorter, steadier tripod can be the better tool.
 
 ## How Tall Is a Tripod? Typical Tripod Heights
 
