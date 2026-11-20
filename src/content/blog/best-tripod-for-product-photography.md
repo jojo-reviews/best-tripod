@@ -462,6 +462,8 @@ videos:
   - id: RCWN2UtXtQ4
     afterHeading: 7
 heroImage: /images/featured/best-tripod-for-product-photography.png
+related:
+  - best-tripod-head-for-real-estate-photography
 ---
 
 A product photography tripod holds the camera in one spot, so every photograph in a set shares the same framing, which a hand-held camera cannot match. The best ones also swing the camera over the table for flat lays. My overall pick is the [Manfrotto 055 Aluminum 3-Section Tripod Kit with Ball Head (MK055XPRO3-BHQ2)](amzn:Manfrotto+055+Aluminum+3-Section+Tripod+Kit+Ball+Head+MK055XPRO3-BHQ2): Manfrotto lists [59.65 in with the column down](https://www.manfrotto.com/global-en/055-aluminum-3-section-tripod-kit-with-ball-head-mk055xpro3-bhq2/) and a 90-degree horizontal center column. I have not used these five; every figure here comes from a maker spec sheet or an owner report. For 1:1 detail work, my [tripods for macro photography](/blog/best-tripod-for-macro-photography/) go lower.

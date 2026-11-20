@@ -1,0 +1,22 @@
+{
+  "slug": "best-tripod-head-for-real-estate-photography",
+  "pass": true,
+  "checkedAt": "2026-11-20T11:32:25.692Z",
+  "errors": [],
+  "warnings": [
+    "product \"Benro GD3WH 3-Way Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 410 Junior Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"K&F Concept 3-Way Geared Tripod Head GD3W\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto XPRO Geared 3-Way Pan/Tilt Head MHXPRO-3WG\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Arca-Swiss d4 Geared Tripod Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "product \"Manfrotto 405 Geared Head\" has no Amazon photo yet (the Amazon refresh adds it after push)",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified after proofreading edits (wording only, no fact changes). Earlier 2026-11-20 check stands: Benro GD3WH 6 kg/870 g (benrousa.com), 740 g, 4.3 in, magnesium alloy, 3 levels, Arca-type (B&H); Manfrotto 410 5 kg, 1.22 kg, 13 cm, 410PL, tilt -30/+90 and -90/+30, 1 level; XPRO MHXPRO-3WG 4 kg, 0.75 kg, 200PL-14, 3 levels, tilt -20/+90 and -90/+20, 10-year warranty with registration; 405 7.5 kg, 1.6 kg, 16 cm, 410PL, 3 levels, disengaging gears (all manfrotto.com); K&F GD3W 6 kg, 810 g, 3/8 in mount, Arca-type plate, independent micrometric knobs (kfconcept.com), 4.5 in (B&H); Arca-Swiss d4 30 kg, 980 g, tilt +90/-40 and +/-40, dual 360 panning, 2 levels (arca-swiss-usa.com), Amazon listing 44 lb, Classic quick set without plate. ASINs hand-checked on Amazon US product pages (same model, in stock): B07C326563, B000JLI4Q2, B0BTD7K2W8, B00URXUC9O, B01ICJ3BK6, B000RTW9S0. Named owner quotes verbatim on public pages: DPReview thread 4782698 (Macro guy, Nick5, MikeInOr, Abbott Schindler), DPReview thread 4163068 (ball head drop), Show&Tour Nathan Cool transcript, Rick McEvoy blog, APALMANAC (Usman Dawood), Scott Prokop YouTube transcript, BCG Forums. Number links checked: 1.25KGs, 5 kg, 0.75 kg. No testing/ownership claims, no prices.",
+    "at": "2026-11-20T11:32:25.306Z",
+    "hash": "91a037c768a00b24"
+  }
+}
