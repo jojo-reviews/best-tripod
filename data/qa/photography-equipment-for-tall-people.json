@@ -1,0 +1,18 @@
+{
+  "slug": "photography-equipment-for-tall-people",
+  "pass": true,
+  "checkedAt": "2026-11-20T11:25:24.497Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "2026-11-20 (re-check after edits): every claim re-read against the opened pages. NPR (Hansraj): head 10-12 lb, 15 degrees = 27 lb. Breathing Color: tripod legs extend 50-63 in. Photography Stack Exchange q19438: user50555 (6'4\") quote verbatim; Itai: middle column 'transmits more vibrations'; Eric (185 cm) Benro 170 cm without column, slightly above eye level, helps pointing downhill; Mark J P (6'6\") Manfrotto 055XPROB 187 cm fully extended without head, easily reaches eye level; MikeW: right angle viewfinder or articulating LCD, 'just look down instead of bending over'; cabbey (6'2\") takes a knee, considered a knee pad; Dave (6'6\") mid-size tripod + chair-height stool, about the same bulk and weight as a tall tripod, stability better. DPReview 4356628: Ellis Vener (Forum Moderator, 6'5\") 70-72 in monopod for video/super-telephoto; crowley213 (1.86 m) Gitzo GM3550 max 192 cm, 4 of 5 sections plus Manfrotto 3232 tilt head reach his chin; MichaelFrederickPhoto (6'4\") Benro CF monopod to 6 ft with tri-foot base, very sturdy. Height minus 10-12 in rule = our own how-tall-should-a-tripod-be-for-my-height post. Internal: monopod-with-feet post heights up to 71 in. No products, no testing/ownership claims, proofread.",
+    "at": "2026-11-20T11:25:24.107Z",
+    "hash": "04e9cb92c50f03c9"
+  }
+}

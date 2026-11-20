@@ -1050,7 +1050,7 @@
     "replacedAt": "2026-10-22T00:00:00.000Z"
   },
   {
-    "status": "pending",
+    "status": "in-progress",
     "attempts": 0,
     "addedAt": "2026-10-18T13:44:47.103Z",
     "secondaryKeywords": [],
@@ -1073,9 +1073,10 @@
       "date": "2026-11-10"
     },
     "slug": "best-tripod-head-for-real-estate-photography",
-    "lastError": "cannibalization: \"best tripod head for real estate photography\" overlaps \"best tripod for real estate photography\" (100%)",
     "source": "owner list 2026-11-10",
-    "note": "owner request 2026-11-10"
+    "note": "owner request 2026-11-10",
+    "productCount": 13,
+    "startedAt": "2026-11-20T11:20:18.987Z"
   },
   {
     "status": "published",
@@ -6265,7 +6266,7 @@
     "note": "owner list 2026-10-22: same Google intent as a live post"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "keyword": "best tripod for android phone",
     "addedAt": "2026-10-22T00:00:00.000Z",
     "source": "owner list 2026-11-10",
@@ -6292,7 +6293,9 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "mergedInto": "best-phone-tripod-for-vlogging-with-remote",
+    "lastError": "cannibalization: 4 of the top-10 Google results are shared with \"best phone tripod for vlogging with remote\" (same intent)"
   },
   {
     "status": "merged",
@@ -8527,7 +8530,7 @@
     }
   },
   {
-    "status": "pending",
+    "status": "parked",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8555,10 +8558,11 @@
       "parentTopic": "video tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "lastError": "KD 11 > 10 cap"
   },
   {
-    "status": "pending",
+    "status": "merged",
     "attempts": 0,
     "addedAt": "2026-11-10T16:06:05.986715Z",
     "secondaryKeywords": [
@@ -8584,7 +8588,9 @@
       "parentTopic": "best budget tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "mergedInto": "best-tripod-for-camera",
+    "lastError": "cannibalization: \"best camera tripod under 200\" overlaps \"best tripod for camera\" (100%)"
   },
   {
     "status": "pending",
@@ -8730,5 +8736,42 @@
     "rationale": "Owner rule 2026-11-13 pillar clusters: Ahrefs US volume 50 (2026-11-19) and a Search Console query on the pillar (best-tripod-for-tall-photographers-over-6-feet, 2026-11-11 snapshot, position 27); the earlier post on this URL was removed in the 2026-11-18 restore, so the URL is free and returns to life; cannibal check clean.",
     "slug": "tall-tripod-vs-regular-tripod",
     "publishedAt": "2026-11-19T09:27:53.072Z"
+  },
+  {
+    "status": "published",
+    "attempts": 0,
+    "addedAt": "2026-11-20T10:00:00.000Z",
+    "secondaryKeywords": [
+      "camera gear for tall people",
+      "gear for tall photographers",
+      "monopod for a tall person",
+      "right angle viewfinder for tall photographers"
+    ],
+    "questions": [
+      "what photography equipment do tall people need",
+      "how tall should a monopod be for a tall person",
+      "is a flip screen or right angle viewfinder better for tall photographers",
+      "should tall photographers raise the center column"
+    ],
+    "priority": 999,
+    "keyword": "photography equipment for tall people",
+    "category": "camera-tripods",
+    "intent": "informational",
+    "articleType": "guide",
+    "funnel": "tofu",
+    "cluster": "tall-photographers",
+    "source": "gsc",
+    "supports": "best-tripod-for-tall-photographers-over-6-feet",
+    "ahrefs": {
+      "volume": 0,
+      "kd": null,
+      "trafficPotential": null,
+      "country": "us",
+      "checked": "2026-11-20"
+    },
+    "rationale": "Owner rule 2026-11-13 pillar clusters: pillar topQuery in Search Console (2026-11-11 snapshot: 24 impressions, position 6.9 on the pillar, plus 1 on how-tall-should-a-tripod-be-for-my-height) and 3+ independent threads (r/photography Tall photographers, Photography Stack Exchange 19438, DPReview monopod for a tall person). Ahrefs US volume 0 (2026-11-20). Cannibal check clean; distinct from tall-tripod-vs-regular-tripod (which tripod class) and how-tall-should-a-tripod-be-for-my-height (height math).",
+    "slug": "photography-equipment-for-tall-people",
+    "startedAt": "2026-11-20T11:23:30.953Z",
+    "publishedAt": "2026-11-20T11:25:30.845Z"
   }
 ]

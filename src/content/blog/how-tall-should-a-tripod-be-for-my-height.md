@@ -235,9 +235,9 @@ author: editorial-team
 heroImage: /images/featured/how-tall-should-a-tripod-be-for-my-height.png
 heroAlt: How Tall Should a Tripod Be for My Height? Chart and Math – Best Tripod guide
 related:
+  - photography-equipment-for-tall-people
   - tall-tripod-vs-regular-tripod
   - tripod-center-column-up-or-down-for-landscapes
-  - best-tripod-for-real-estate-photography
   - best-tripod-for-tall-photographers-over-6-feet
 ---
 
