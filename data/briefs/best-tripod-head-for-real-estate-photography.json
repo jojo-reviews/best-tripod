@@ -9,25 +9,96 @@
     "3-way geared head"
   ],
   "entities": [
-    { "name": "tripod head", "type": "central entity", "relation": "the part between tripod legs and camera that aims and locks it; TextRazor Tripod head on all 5 top pages", "salience": 1 },
-    { "name": "geared head", "type": "head type", "relation": "3-axis head moved by gear knobs; every top page recommends it for interiors over a ball head", "salience": 0.9 },
-    { "name": "ball head", "type": "head type", "relation": "the head every top page says to avoid for interiors because small moves shift several axes and the camera can sag", "salience": 0.6 },
-    { "name": "Manfrotto", "type": "brand", "relation": "maker of the 410 Junior, 405 and XPRO geared heads; TextRazor relevance 0.8 on 4 pages", "salience": 0.8 },
-    { "name": "Arca-Swiss", "type": "brand and plate standard", "relation": "maker of the d4 and the dovetail plate standard most heads use; TextRazor relevance 0.79 on 3 pages", "salience": 0.79 },
-    { "name": "Benro", "type": "brand", "relation": "maker of the GD3WH geared head; TextRazor relevance 0.56 on 2 pages", "salience": 0.56 },
-    { "name": "architectural photography", "type": "genre", "relation": "the neighbouring genre whose head advice the real estate pages borrow; TextRazor relevance 0.61", "salience": 0.61 },
-    { "name": "tripod", "type": "parent product", "relation": "the legs the head mounts on (3/8-inch screw); TextRazor Tripod (photography) 0.81 on 5 pages", "salience": 0.81 },
-    { "name": "camera", "type": "payload", "relation": "the mirrorless or DSLR body plus wide lens the head must hold level; TextRazor 0.58", "salience": 0.58 },
-    { "name": "quick release plate", "type": "component", "relation": "Arca-type vs Manfrotto 410PL / 200PL; clamp and plate quality is a recurring failure point", "salience": 0.55 },
-    { "name": "bubble level", "type": "component", "relation": "built-in levels on the head for leveling verticals", "salience": 0.4 },
-    { "name": "L-bracket", "type": "accessory", "relation": "needed for vertical framing on heads with limited tilt (d4 tilts 90 degrees)", "salience": 0.35 },
-    { "name": "HDR bracketing", "type": "technique", "relation": "multi-exposure interiors that need the camera not to move between frames", "salience": 0.3 }
+    {
+      "name": "tripod head",
+      "type": "central entity",
+      "relation": "the part between tripod legs and camera that aims and locks it; TextRazor Tripod head on all 5 top pages",
+      "salience": 1
+    },
+    {
+      "name": "geared head",
+      "type": "head type",
+      "relation": "3-axis head moved by gear knobs; every top page recommends it for interiors over a ball head",
+      "salience": 0.9
+    },
+    {
+      "name": "ball head",
+      "type": "head type",
+      "relation": "the head every top page says to avoid for interiors because small moves shift several axes and the camera can sag",
+      "salience": 0.6
+    },
+    {
+      "name": "Manfrotto",
+      "type": "brand",
+      "relation": "maker of the 410 Junior, 405 and XPRO geared heads; TextRazor relevance 0.8 on 4 pages",
+      "salience": 0.8
+    },
+    {
+      "name": "Arca-Swiss",
+      "type": "brand and plate standard",
+      "relation": "maker of the d4 and the dovetail plate standard most heads use; TextRazor relevance 0.79 on 3 pages",
+      "salience": 0.79
+    },
+    {
+      "name": "Benro",
+      "type": "brand",
+      "relation": "maker of the GD3WH geared head; TextRazor relevance 0.56 on 2 pages",
+      "salience": 0.56
+    },
+    {
+      "name": "architectural photography",
+      "type": "genre",
+      "relation": "the neighbouring genre whose head advice the real estate pages borrow; TextRazor relevance 0.61",
+      "salience": 0.61
+    },
+    {
+      "name": "tripod",
+      "type": "parent product",
+      "relation": "the legs the head mounts on (3/8-inch screw); TextRazor Tripod (photography) 0.81 on 5 pages",
+      "salience": 0.81
+    },
+    {
+      "name": "camera",
+      "type": "payload",
+      "relation": "the mirrorless or DSLR body plus wide lens the head must hold level; TextRazor 0.58",
+      "salience": 0.58
+    },
+    {
+      "name": "quick release plate",
+      "type": "component",
+      "relation": "Arca-type vs Manfrotto 410PL / 200PL; clamp and plate quality is a recurring failure point",
+      "salience": 0.55
+    },
+    {
+      "name": "bubble level",
+      "type": "component",
+      "relation": "built-in levels on the head for leveling verticals",
+      "salience": 0.4
+    },
+    {
+      "name": "L-bracket",
+      "type": "accessory",
+      "relation": "needed for vertical framing on heads with limited tilt (d4 tilts 90 degrees)",
+      "salience": 0.35
+    },
+    {
+      "name": "HDR bracketing",
+      "type": "technique",
+      "relation": "multi-exposure interiors that need the camera not to move between frames",
+      "salience": 0.3
+    }
   ],
   "textrazor": {
     "date": "2026-11-20",
     "pagesAnalyzed": 5,
     "file": "data/briefs/best-tripod-head-for-real-estate-photography.entities.json",
-    "ignored": ["Switzerland (country name in Arca-Swiss)", "Amazon (company) (affiliate links)", "Budget", "Ball (generic word)", "Gear (generic)"]
+    "ignored": [
+      "Switzerland (country name in Arca-Swiss)",
+      "Amazon (company) (affiliate links)",
+      "Budget",
+      "Ball (generic word)",
+      "Gear (generic)"
+    ]
   },
   "attributes": [
     "max load (kg / lb) vs camera and wide lens weight",
@@ -90,11 +161,57 @@
     "HDR"
   ],
   "questions": [
-    { "q": "Is a geared head better than a ball head for real estate photography?", "mapsTo": "H2 Geared head vs ball head for real estate photography + FAQ", "answerTerms": ["geared head", "ball head", "fine adjustments", "verticals", "sag"] },
-    { "q": "How much load capacity does a real estate tripod head need?", "mapsTo": "H2 Tripod head load capacity for a real estate kit + FAQ", "answerTerms": ["load capacity", "kg", "camera and lens", "mirrorless"] },
-    { "q": "Do I need an Arca-Swiss compatible head for real estate?", "mapsTo": "H2 Real estate tripod head plates + FAQ", "answerTerms": ["Arca Swiss plate", "Manfrotto plate", "410PL", "L-bracket"] },
-    { "q": "Is the Manfrotto 410 still worth it?", "mapsTo": "Manfrotto 410 section + FAQ", "answerTerms": ["410PL", "5 kg", "reliability", "rubber knobs"] },
-    { "q": "Is the Arca-Swiss d4 worth it for real estate?", "mapsTo": "Arca-Swiss d4 section + FAQ", "answerTerms": ["load", "weight", "geared pan", "L-bracket"] }
+    {
+      "q": "Is a geared head better than a ball head for real estate photography?",
+      "mapsTo": "H2 Geared head vs ball head for real estate photography + FAQ",
+      "answerTerms": [
+        "geared head",
+        "ball head",
+        "fine adjustments",
+        "verticals",
+        "sag"
+      ]
+    },
+    {
+      "q": "How much load capacity does a real estate tripod head need?",
+      "mapsTo": "H2 Tripod head load capacity for a real estate kit + FAQ",
+      "answerTerms": [
+        "load capacity",
+        "kg",
+        "camera and lens",
+        "mirrorless"
+      ]
+    },
+    {
+      "q": "Do I need an Arca-Swiss compatible head for real estate?",
+      "mapsTo": "H2 Real estate tripod head plates + FAQ",
+      "answerTerms": [
+        "Arca Swiss plate",
+        "Manfrotto plate",
+        "410PL",
+        "L-bracket"
+      ]
+    },
+    {
+      "q": "Is the Manfrotto 410 still worth it?",
+      "mapsTo": "Manfrotto 410 section + FAQ",
+      "answerTerms": [
+        "410PL",
+        "5 kg",
+        "reliability",
+        "rubber knobs"
+      ]
+    },
+    {
+      "q": "Is the Arca-Swiss d4 worth it for real estate?",
+      "mapsTo": "Arca-Swiss d4 section + FAQ",
+      "answerTerms": [
+        "load",
+        "weight",
+        "geared pan",
+        "L-bracket"
+      ]
+    }
   ],
   "contentGaps": [
     "Load headroom per head against a typical real estate kit (mirrorless body + wide zoom + L-bracket), as a ratio",
@@ -104,12 +221,43 @@
     "Named owner voices for each head instead of reviewer opinions"
   ],
   "outline": [
-    { "h2": "Real estate tripod head comparison by load, weight and plate", "intent": "comparison table of the 6 heads plus load headroom for a typical interior kit", "h3": [] },
-    { "h2": "How we picked these real estate tripod heads", "intent": "selection rule, independent pages, From our notes", "h3": [] },
-    { "h2": "The 6 best tripod heads for real estate photography, reviewed", "intent": "product sections", "h3": ["Benro GD3WH", "Manfrotto 410 Junior", "K&F Concept GD3W", "Manfrotto XPRO Geared", "Arca-Swiss d4", "Manfrotto 405"] },
-    { "h2": "Which real estate tripod head should you get?", "intent": "decision rule mapping situations to picks", "h3": [] },
-    { "h2": "Geared head vs ball head for real estate photography", "intent": "why geared heads win for interiors (commonPoint, short)", "h3": [] },
-    { "h2": "Real estate tripod head problems owners run into, and the fix", "intent": "pain points: plate mismatch, slipping stock plate, clamp knob, leveling by legs, sag", "h3": [] }
+    {
+      "h2": "Real estate tripod head comparison by load, weight and plate",
+      "intent": "comparison table of the 6 heads plus load headroom for a typical interior kit",
+      "h3": []
+    },
+    {
+      "h2": "How we picked these real estate tripod heads",
+      "intent": "selection rule, independent pages, From our notes",
+      "h3": []
+    },
+    {
+      "h2": "The 6 best tripod heads for real estate photography, reviewed",
+      "intent": "product sections",
+      "h3": [
+        "Benro GD3WH",
+        "Manfrotto 410 Junior",
+        "K&F Concept GD3W",
+        "Manfrotto XPRO Geared",
+        "Arca-Swiss d4",
+        "Manfrotto 405"
+      ]
+    },
+    {
+      "h2": "Which real estate tripod head should you get?",
+      "intent": "decision rule mapping situations to picks",
+      "h3": []
+    },
+    {
+      "h2": "Geared head vs ball head for real estate photography",
+      "intent": "why geared heads win for interiors (commonPoint, short)",
+      "h3": []
+    },
+    {
+      "h2": "Real estate tripod head problems owners run into, and the fix",
+      "intent": "pain points: plate mismatch, slipping stock plate, clamp knob, leveling by legs, sag",
+      "h3": []
+    }
   ],
   "targetWords": 1850,
   "serpStructure": {
@@ -126,28 +274,79 @@
     "avgWords": 1800,
     "avgWordsNote": "Estimated from the scraped main text: APALMANAC ~900, Jak Spedding ~950, Rick McEvoy ~850, Show&Tour ~3,300 (summary plus transcript), Digital Camera World ~3,000 (6 products; the page renders in JavaScript, product list read with Firecrawl).",
     "avgProducts": 4,
-    "commonSections": ["ball heads vs geared heads", "entry-level geared head (Manfrotto 410)", "premium geared head (Arca-Swiss d4 / C1)", "plate system and clamp", "budget vs buy-once advice"],
+    "commonSections": [
+      "ball heads vs geared heads",
+      "entry-level geared head (Manfrotto 410)",
+      "premium geared head (Arca-Swiss d4 / C1)",
+      "plate system and clamp",
+      "budget vs buy-once advice"
+    ],
     "usesComparisonTable": false,
     "usesFaq": true,
     "usesBuyingGuide": true
   },
   "serpTitles": [
-    { "position": 1, "url": "https://www.reddit.com/r/RealEstatePhotography/comments/1x3pciq/real_estate_photographers_what_tripods_heads_are/", "title": "Real estate photographers, what tripods / heads are you using?" },
-    { "position": 2, "url": "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "title": "What Tripod Head Should You Buy for Real Estate and Architectural ..." },
-    { "position": 3, "url": "https://www.youtube.com/watch?v=fymaqAI30JQ", "title": "The BEST tripod head for real estate photography" },
-    { "position": 4, "url": "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head", "title": "Best geared tripod head in 2026: set up your shots with perfect precision" },
-    { "position": 5, "url": "https://www.facebook.com/groups/4153459468310920/posts/4242987916024741/", "title": "What is your favorite tripod and tripod head? I've been shooting million- ..." },
-    { "position": 6, "url": "https://www.youtube.com/watch?v=latxN8lYu5w", "title": "Best Geared Tripod Head for Real Estate Photography" },
-    { "position": 7, "url": "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use", "title": "Best Tripod Head for Building Photography (What I Use)" },
-    { "position": 8, "url": "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/", "title": "Which Tripod Head Is Best for Architectural Photography?" },
-    { "position": 9, "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/", "title": "The Best Tripod Head for Real Estate Photography, by Nathan Cool" },
-    { "position": 10, "url": "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/", "title": "Geared Head + Tripod for Real Estate/Architecture" }
+    {
+      "position": 1,
+      "url": "https://www.reddit.com/r/RealEstatePhotography/comments/1x3pciq/real_estate_photographers_what_tripods_heads_are/",
+      "title": "Real estate photographers, what tripods / heads are you using?"
+    },
+    {
+      "position": 2,
+      "url": "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+      "title": "What Tripod Head Should You Buy for Real Estate and Architectural ..."
+    },
+    {
+      "position": 3,
+      "url": "https://www.youtube.com/watch?v=fymaqAI30JQ",
+      "title": "The BEST tripod head for real estate photography"
+    },
+    {
+      "position": 4,
+      "url": "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head",
+      "title": "Best geared tripod head in 2026: set up your shots with perfect precision"
+    },
+    {
+      "position": 5,
+      "url": "https://www.facebook.com/groups/4153459468310920/posts/4242987916024741/",
+      "title": "What is your favorite tripod and tripod head? I've been shooting million- ..."
+    },
+    {
+      "position": 6,
+      "url": "https://www.youtube.com/watch?v=latxN8lYu5w",
+      "title": "Best Geared Tripod Head for Real Estate Photography"
+    },
+    {
+      "position": 7,
+      "url": "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use",
+      "title": "Best Tripod Head for Building Photography (What I Use)"
+    },
+    {
+      "position": 8,
+      "url": "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+      "title": "Which Tripod Head Is Best for Architectural Photography?"
+    },
+    {
+      "position": 9,
+      "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/",
+      "title": "The Best Tripod Head for Real Estate Photography, by Nathan Cool"
+    },
+    {
+      "position": 10,
+      "url": "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/",
+      "title": "Geared Head + Tripod for Real Estate/Architecture"
+    }
   ],
   "titlePattern": {
     "keywordAtStart": 0,
     "withYear": 1,
     "withNumber": 0,
-    "commonModifiers": ["geared", "what to buy", "what I use", "architectural"],
+    "commonModifiers": [
+      "geared",
+      "what to buy",
+      "what I use",
+      "architectural"
+    ],
     "gap": "No top-10 title compares several heads by name for real estate; most are single-owner picks or forum threads. Ours leads with the exact keyword and promises 6 geared heads compared (no year: only 1 of 10 titles has one)."
   },
   "commonPoints": [
@@ -162,25 +361,40 @@
       "type": "analysis",
       "point": "Load headroom against a real interior kit (Rick McEvoy's Canon 6D + 17-40mm, 1.25 kg): the 4 kg XPRO gives 3.2x, the 410's 5 kg 4x, the Benro and K&F 6 kg 4.8x, the 405's 7.5 kg 6x, the d4's 30 kg 24x. Every head clears the /how-we-score/ 3x mark for that kit; only the XPRO gets tight once a heavier body and L-bracket go on.",
       "source": "maker specs (Manfrotto, Benro, K&F, Arca-Swiss USA) + Rick McEvoy's stated kit weight",
-      "absentFrom": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/", "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"]
+      "absentFrom": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+      ]
     },
     {
       "type": "analysis",
       "point": "Carry weight across a day of houses: the Manfrotto 405 (1.6 kg) weighs more than twice the XPRO geared (0.75 kg) and almost twice the Benro GD3WH (0.87 kg).",
       "source": "Manfrotto and Benro spec pages",
-      "absentFrom": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/"]
+      "absentFrom": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/"
+      ]
     },
     {
       "type": "decision",
       "point": "Pick the plate system first: if your bodies already wear Arca-type plates or an L-bracket, the Benro, K&F or d4 drop in; the Manfrotto 410/405 (410PL) and XPRO (200PL) need their own plates or an Arca clamp adapter.",
       "source": "maker specs + DPReview owners (Abbott Schindler, MikeInOr)",
-      "absentFrom": ["https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use", "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"]
+      "absentFrom": [
+        "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use",
+        "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"
+      ]
     },
     {
       "type": "situation",
       "point": "The clamp and stock plate fail before the gears: Nathan Cool broke a Benro two-stage clamp knob and found the K&F stock plate slips; fix = do not over-torque the Benro knob, swap the K&F plate for a 70 mm Arca plate.",
       "source": "Show&Tour (Nathan Cool) transcript",
-      "absentFrom": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/", "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use"]
+      "absentFrom": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+        "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use"
+      ]
     }
   ],
   "painPoints": [
@@ -188,47 +402,109 @@
       "id": "camera-tripods-budget-ball-head-drops",
       "pain": "A budget ball head drops a little after you tighten it, so the framing shifts",
       "details": "Owners report a ball head settling after tightening; for interiors that undoes a leveled frame, which is why the top pages push geared heads.",
-      "sources": ["https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/"],
-      "quotes": [{ "text": "The ball head drops about a centimeter after you tighten it but after that it doesn't move at all.", "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/" }]
+      "sources": [
+        "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/"
+      ],
+      "quotes": [
+        {
+          "text": "The ball head drops about a centimeter after you tighten it but after that it doesn't move at all.",
+          "url": "https://www.dpreview.com/forums/threads/best-travel-tripod-under-100.4163068/"
+        }
+      ]
     },
     {
       "id": "camera-tripods-proprietary-plate-mismatch",
       "pain": "A quick release plate from one tripod does not fit another brand's head",
       "details": "Manfrotto geared heads use the 410PL plate; owners add an Arca clamp on top or buy an adapter.",
-      "sources": ["https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/", "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/"],
-      "quotes": [{ "text": "Its drawback is that it uses an odd Manfrotto QR plate.", "url": "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/" }]
+      "sources": [
+        "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/",
+        "https://www.reddit.com/r/photography/comments/332f5u/how_proprietary_are_the_quick_release_plates_for/"
+      ],
+      "quotes": [
+        {
+          "text": "Its drawback is that it uses an odd Manfrotto QR plate.",
+          "url": "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/"
+        }
+      ]
     },
     {
       "id": "camera-tripods-leveling-by-legs-uneven-ground",
       "pain": "Leveling a tripod by adjusting the legs on uneven ground takes forever",
       "details": "A geared head's roll and pitch knobs level the camera without touching the legs.",
-      "sources": ["https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"],
-      "quotes": [{ "text": "Leveling the load by adjusting legs is an exercise in pain and frustration", "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/" }]
+      "sources": [
+        "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+      ],
+      "quotes": [
+        {
+          "text": "Leveling the load by adjusting legs is an exercise in pain and frustration",
+          "url": "https://bcgforums.com/threads/leveling-bases-for-tripods.3794/"
+        }
+      ]
     },
     {
       "id": "tripod-heads-stock-arca-plate-slips",
       "pain": "The Arca-type plate that ships with a budget geared head lets the camera twist",
       "details": "Nathan Cool found the K&F stock plate moves on any head; he recommends a 70 mm plate with good grip material.",
-      "sources": ["https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"],
-      "quotes": [{ "text": "The KNF plate that comes with the KNF head is terrible.", "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/" }]
+      "sources": [
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+      ],
+      "quotes": [
+        {
+          "text": "The KNF plate that comes with the KNF head is terrible.",
+          "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+        }
+      ]
     },
     {
       "id": "tripod-heads-clamp-knob-breaks",
       "pain": "The clamp knob on a geared head breaks or sticks when over-tightened",
       "details": "Nathan Cool broke the two-stage clamp knob on one Benro head and had another stick.",
-      "sources": ["https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"],
-      "quotes": [{ "text": "On one Benro head, I actually did break that.", "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/" }]
+      "sources": [
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+      ],
+      "quotes": [
+        {
+          "text": "On one Benro head, I actually did break that.",
+          "url": "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+        }
+      ]
     }
   ],
   "painPointsNote": "Two new pain points (stock Arca plate slips, clamp knob breaks) come from the Show&Tour transcript read on 2026-11-20; not added to data/pain-points.json because this run only touches files for its own slug.",
   "stats": [
-    { "number": "0.75 kg", "claim": "weight of the Manfrotto XPRO geared head, with a 4 kg payload", "url": "https://www.manfrotto.com/us-en/xpro-geared-three-way-pan-tilt-tripod-head-mhxpro-3wg/", "quote": "With a payload of up to 4kg and a head weighing only 0.75kg, you benefit from a sturdy, stable tripod head that's incredibly light to carry." },
-    { "number": "66 lbs / 30 kg", "claim": "load capacity of the Arca-Swiss d4 geared head at 980 g", "url": "https://arca-swiss-usa.com/products/d4-geared-tripod-head", "quote": "Load Capacity: 66 lbs / 30 kg" },
-    { "number": "5 kg", "claim": "safety payload of the Manfrotto 410 Junior at 1.22 kg", "url": "https://www.manfrotto.com/us-en/410-junior-geared-tripod-head-easy-to-use-ergonomic-knobs-410/", "quote": "Safety Payload Weight 5 kg 11.02 lbs" },
-    { "number": "1.25KGs", "claim": "Rick McEvoy's Canon 6D and 17-40mm real estate kit", "url": "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use", "quote": "my Canon 6D and Canon 17-40mm lens weigh a paltry 1.25KGs" }
+    {
+      "number": "0.75 kg",
+      "claim": "weight of the Manfrotto XPRO geared head, with a 4 kg payload",
+      "url": "https://www.manfrotto.com/us-en/xpro-geared-three-way-pan-tilt-tripod-head-mhxpro-3wg/",
+      "quote": "With a payload of up to 4kg and a head weighing only 0.75kg, you benefit from a sturdy, stable tripod head that's incredibly light to carry."
+    },
+    {
+      "number": "66 lbs / 30 kg",
+      "claim": "load capacity of the Arca-Swiss d4 geared head at 980 g",
+      "url": "https://arca-swiss-usa.com/products/d4-geared-tripod-head",
+      "quote": "Load Capacity: 66 lbs / 30 kg"
+    },
+    {
+      "number": "5 kg",
+      "claim": "safety payload of the Manfrotto 410 Junior at 1.22 kg",
+      "url": "https://www.manfrotto.com/us-en/410-junior-geared-tripod-head-easy-to-use-ergonomic-knobs-410/",
+      "quote": "Safety Payload Weight 5 kg 11.02 lbs"
+    },
+    {
+      "number": "1.25KGs",
+      "claim": "Rick McEvoy's Canon 6D and 17-40mm real estate kit",
+      "url": "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use",
+      "quote": "my Canon 6D and Canon 17-40mm lens weigh a paltry 1.25KGs"
+    }
   ],
   "videos": [
-    { "id": "latxN8lYu5w", "title": "Best Geared Tripod Head for Real Estate Photography", "channel": "Scott Prokop | RE Media Systems", "url": "https://www.youtube.com/watch?v=latxN8lYu5w", "section": "Geared head vs ball head for real estate photography" }
+    {
+      "id": "latxN8lYu5w",
+      "title": "Best Geared Tripod Head for Real Estate Photography",
+      "channel": "Scott Prokop | RE Media Systems",
+      "url": "https://www.youtube.com/watch?v=latxN8lYu5w",
+      "section": "Geared head vs ball head for real estate photography"
+    }
   ],
   "googleModifiers": [
     "best geared tripod head for real estate photography",
@@ -237,41 +513,127 @@
     "best tripods for real estate"
   ],
   "amazonFilters": {
-    "Price": ["Up to $40", "$40 to $100", "$100 to $350", "$350 to $500", "$500 & above"],
-    "Condition": ["New", "Used"],
-    "Brands": ["SMALLRIG", "K&F CONCEPT", "Manfrotto"],
-    "Height": ["Up to 3.9 in", "4 to 6.9 in", "10 in & above"],
-    "Width": ["Up to 2.9 in", "3 to 4.9 in", "5 to 6.9 in", "7 in & above"],
-    "Depth": ["Up to 1.9 in", "2 to 2.9 in", "3 to 3.9 in", "4 to 4.9 in", "5 in & above"],
-    "Customer Review": ["4 Stars & Up"],
-    "Deals & Discounts": ["Black Friday deals"]
+    "Price": [
+      "Up to $40",
+      "$40 to $100",
+      "$100 to $350",
+      "$350 to $500",
+      "$500 & above"
+    ],
+    "Condition": [
+      "New",
+      "Used"
+    ],
+    "Brands": [
+      "SMALLRIG",
+      "K&F CONCEPT",
+      "Manfrotto"
+    ],
+    "Height": [
+      "Up to 3.9 in",
+      "4 to 6.9 in",
+      "10 in & above"
+    ],
+    "Width": [
+      "Up to 2.9 in",
+      "3 to 4.9 in",
+      "5 to 6.9 in",
+      "7 in & above"
+    ],
+    "Depth": [
+      "Up to 1.9 in",
+      "2 to 2.9 in",
+      "3 to 3.9 in",
+      "4 to 4.9 in",
+      "5 in & above"
+    ],
+    "Customer Review": [
+      "4 Stars & Up"
+    ],
+    "Deals & Discounts": [
+      "Black Friday deals"
+    ]
   },
   "amazonFiltersNote": "Used: brand (Manfrotto, K&F Concept) and head height (4 to 6.9 in) as table columns; price and shipping chips skipped.",
   "serpProducts": [
-    { "name": "Manfrotto 410 Junior Geared Head", "pages": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/", "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head", "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/"] },
-    { "name": "Benro GD3WH", "pages": ["https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/", "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head", "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/"] },
-    { "name": "Arca-Swiss d4 Geared", "pages": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/", "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"] },
-    { "name": "K&F Concept 3-Way Geared Head (GD3W)", "pages": ["https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/", "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"] },
-    { "name": "Manfrotto XPRO Geared 3-Way (MHXPRO-3WG)", "pages": ["https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use", "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"] },
-    { "name": "Manfrotto 405 Geared Head", "pages": ["https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209", "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/"] }
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "pages": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+        "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head",
+        "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/"
+      ]
+    },
+    {
+      "name": "Benro GD3WH",
+      "pages": [
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/",
+        "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head",
+        "https://www.dpreview.com/forums/threads/geared-head-tripod-for-real-estate-architecture.4782698/"
+      ]
+    },
+    {
+      "name": "Arca-Swiss d4 Geared",
+      "pages": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/",
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/"
+      ]
+    },
+    {
+      "name": "K&F Concept 3-Way Geared Head (GD3W)",
+      "pages": [
+        "https://showandtour.com/resource/the-best-tripod-head-for-real-estate-photography-by-nathan-cool/",
+        "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"
+      ]
+    },
+    {
+      "name": "Manfrotto XPRO Geared 3-Way (MHXPRO-3WG)",
+      "pages": [
+        "https://rickmcevoyphotography.com/blog/which-tripod-head-is-best-for-building-photography-this-is-what-i-use",
+        "https://www.digitalcameraworld.com/buying-guides/best-geared-tripod-head"
+      ]
+    },
+    {
+      "name": "Manfrotto 405 Geared Head",
+      "pages": [
+        "https://apalmanac.com/architecture/what-tripod-head-should-you-buy-for-real-estate-and-architectural-photography-3209",
+        "https://jakspedding.co.uk/which-tripod-head-is-best-for-architectural-photography/"
+      ]
+    }
   ],
   "droppedCandidates": [
-    { "name": "Arca-Swiss C1 Cube", "reason": "2 pages (APALMANAC, Jak Spedding); APALMANAC says many consider it overkill; no clear in-stock Amazon US listing found." },
-    { "name": "Sunwayfoto GH-PRO II", "reason": "Jak Spedding and a DPReview owner recommend it, but Show&Tour advises against Sunwayfoto (4 kg load); Amazon US stock thin (third-party sellers, 2 left)." },
-    { "name": "Neewer geared head (TH15/TH16)", "reason": "Only Digital Camera World recommends it; Show&Tour mentions it untested." },
-    { "name": "Leofoto G4 / GW-01", "reason": "Only Jak Spedding (G4) among the top-10 pages; GW-01 only in a video." }
+    {
+      "name": "Arca-Swiss C1 Cube",
+      "reason": "2 pages (APALMANAC, Jak Spedding); APALMANAC says many consider it overkill; no clear in-stock Amazon US listing found."
+    },
+    {
+      "name": "Sunwayfoto GH-PRO II",
+      "reason": "Jak Spedding and a DPReview owner recommend it, but Show&Tour advises against Sunwayfoto (4 kg load); Amazon US stock thin (third-party sellers, 2 left)."
+    },
+    {
+      "name": "Neewer geared head (TH15/TH16)",
+      "reason": "Only Digital Camera World recommends it; Show&Tour mentions it untested."
+    },
+    {
+      "name": "Leofoto G4 / GW-01",
+      "reason": "Only Jak Spedding (G4) among the top-10 pages; GW-01 only in a video."
+    }
   ],
   "productNote": "Queue productCount was 13; only 6 heads met the 2+ independent top-10 pages + own in-stock Amazon US listing rule, so the post features 6.",
   "pendingInlinks": [
     {
       "slug": "best-tripod-for-real-estate-photography",
       "find": "As a first real estate tripod it covers the basics; tighten the head screw before each shoot, and expect the ball head to level a wide-angle frame more slowly than geared knobs.",
-      "replace": "As a first real estate tripod it covers the basics; tighten the head screw before each shoot, and expect the ball head to level a wide-angle frame more slowly than [a geared real estate tripod head](/blog/best-tripod-head-for-real-estate-photography/)."
+      "replace": "As a first real estate tripod it covers the basics; tighten the head screw before each shoot, and expect the ball head to level a wide-angle frame more slowly than [a geared real estate tripod head](/blog/best-tripod-head-for-real-estate-photography/).",
+      "appliedAt": "2026-11-21T17:48:27.918Z"
     },
     {
       "slug": "ball-head-vs-pan-tilt-head-for-landscape-photography",
       "find": "For car-based locations and slow, exact compositions, though, few head types give you this much control.",
-      "replace": "For car-based locations, [real estate interiors](/blog/best-tripod-head-for-real-estate-photography/) and slow, exact compositions, though, few head types give you this much control."
+      "replace": "For car-based locations, [real estate interiors](/blog/best-tripod-head-for-real-estate-photography/) and slow, exact compositions, though, few head types give you this much control.",
+      "appliedAt": "2026-11-21T17:48:28.961Z"
     }
   ]
 }

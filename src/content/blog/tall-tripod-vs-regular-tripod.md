@@ -178,7 +178,7 @@ The clearest case we found is a DPReview member who traded a Gitzo GT5531S that 
 - **Steep slopes.** The downhill leg can extend much further, so the camera stays high instead of dropping toward the hillside.
 - **High winds.** Long legs can be spread wider for a lower, steadier stance while still giving a usable working height.
 
-We add a fourth reason to his list: your own height. Stooping over a short tripod is a recurring complaint in tall-photographer threads, and cranking the column up to avoid it brings its own problem: one Photography Stack Exchange answer warns that "center post can cause vibration and cost rigidity (especially in a windy environment)". Our fixes for [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) start with exactly that column.
+We add a fourth reason to his list: your own height, which also shapes the rest of the [photography equipment for tall people](/blog/photography-equipment-for-tall-people/). Stooping over a short tripod is a recurring complaint in tall-photographer threads, and cranking the column up to avoid it brings its own problem: one Photography Stack Exchange answer warns that "center post can cause vibration and cost rigidity (especially in a windy environment)". Our fixes for [tripod shake in wind](/blog/how-to-stop-tripod-shake-in-wind/) start with exactly that column.
 
 ## What a tall tripod costs in weight, folded length and stiffness
 

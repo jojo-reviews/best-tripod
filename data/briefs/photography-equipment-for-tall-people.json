@@ -398,12 +398,14 @@
     {
       "slug": "tall-tripod-vs-regular-tripod",
       "find": "We add a fourth reason to his list: your own height.",
-      "replace": "We add a fourth reason to his list: your own height, which also shapes the rest of the [photography equipment for tall people](/blog/photography-equipment-for-tall-people/)."
+      "replace": "We add a fourth reason to his list: your own height, which also shapes the rest of the [photography equipment for tall people](/blog/photography-equipment-for-tall-people/).",
+      "appliedAt": "2026-11-21T17:48:25.690Z"
     },
     {
       "slug": "best-monopod-for-hiking",
       "find": "The catch: six locks are slow to open, and tall hikers need a head on top to reach eye level.",
-      "replace": "The catch: six locks are slow to open, and tall hikers need a head on top to reach eye level (more in our [gear guide for tall photographers](/blog/photography-equipment-for-tall-people/))."
+      "replace": "The catch: six locks are slow to open, and tall hikers need a head on top to reach eye level (more in our [gear guide for tall photographers](/blog/photography-equipment-for-tall-people/)).",
+      "appliedAt": "2026-11-21T17:48:26.716Z"
     }
   ],
   "supports": "best-tripod-for-tall-photographers-over-6-feet",

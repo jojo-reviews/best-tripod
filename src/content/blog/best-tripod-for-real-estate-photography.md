@@ -624,7 +624,7 @@ The-Digital-Picture's reviewer praised the Quick Power Lock levers and the tool-
 
 The [GEEKOTO 75 inch Camera Tripod](amzn:GEEKOTO+75+inch+camera+tripod+X25) (X25) is a budget four-section tripod with a ball head from GEEKOTO, picked by PhotoUp and PixelShouters. B&H lists 75 in maximum, 24 in minimum, an 18.9 in folded length, 4.4 lb and a 22.04 lb load, with twist locks, a horizontal and reversible column, a leg that converts to a monopod and an Arca-type ball head.
 
-Owners in the reviews we read like the value, the sturdiness and the range of angles. The recurring complaint is screws in the mounting system working loose, and one owner would rather have lever clamps than twist locks. As a first real estate tripod it covers the basics; tighten the head screw before each shoot, and expect the ball head to level a wide-angle frame more slowly than geared knobs.
+Owners in the reviews we read like the value, the sturdiness and the range of angles. The recurring complaint is screws in the mounting system working loose, and one owner would rather have lever clamps than twist locks. As a first real estate tripod it covers the basics; tighten the head screw before each shoot, and expect the ball head to level a wide-angle frame more slowly than [a geared real estate tripod head](/blog/best-tripod-head-for-real-estate-photography/).
 
 ### Manfrotto 410 Junior Geared Head: best geared head for a real estate tripod
 

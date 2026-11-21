@@ -265,7 +265,7 @@ Every figure is the maker's or retailer's claim, not my measured value.
 
 The SIRUI P-326 is a six-section carbon fiber camera monopod from SIRUI, rated for [22 lb on a 0.9 lb body](https://www.bhphotovideo.com/c/product/822252-REG/Sirui_BSRP326_P_326_6_Section_Carbon_Fiber.html/specs). At 15.6 in folded, it straps flat to a daypack, and the rating leaves room for a body, a 100-400mm class zoom and a small tilt head. Twist locks extend it to 61.4 in, and the foot hides a spike for dirt and grass, per B&H and Shotkit. The screw reverses between 1/4 in-20 and 3/8 in-16; no head comes in the box.
 
-Owners back the durability. Shotkit's Athol Hill used his in beach sand and salt water for 12 months with almost no wear, though the wrist-strap collar squeaks. On BCG Forums, one owner calls it "very lightweight but stable" with a 500mm lens, and another bought hers 9 years ago. The catch: six locks are slow to open, and tall hikers need a head on top to reach eye level.
+Owners back the durability. Shotkit's Athol Hill used his in beach sand and salt water for 12 months with almost no wear, though the wrist-strap collar squeaks. On BCG Forums, one owner calls it "very lightweight but stable" with a 500mm lens, and another bought hers 9 years ago. The catch: six locks are slow to open, and tall hikers need a head on top to reach eye level (more in our [gear guide for tall photographers](/blog/photography-equipment-for-tall-people/)).
 
 ### Mountainsmith Trekker FX Lite Trekking Pole: best trekking pole monopod hybrid
 

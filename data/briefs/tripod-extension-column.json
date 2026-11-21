@@ -437,12 +437,14 @@
     {
       "slug": "tripod-center-column-up-or-down-for-landscapes",
       "find": "We use that six-inch rule as our ceiling for landscape work and drop to zero when any \"keep it down\" condition below applies.",
-      "replace": "We use that six-inch rule as our ceiling for landscape work, and for any [screw-on tripod extension column](/blog/tripod-extension-column/) too, and drop to zero when any \"keep it down\" condition below applies."
+      "replace": "We use that six-inch rule as our ceiling for landscape work, and for any [screw-on tripod extension column](/blog/tripod-extension-column/) too, and drop to zero when any \"keep it down\" condition below applies.",
+      "appliedAt": "2026-11-21T17:48:29.937Z"
     },
     {
       "slug": "best-tripod-for-tall-photographers-over-6-feet",
       "find": "Adding my 5 to 8 in allowance gives about 60 to 63 in at the viewfinder, short of eye level for most people over 6 feet.",
-      "replace": "Adding my 5 to 8 in allowance gives about 60 to 63 in at the viewfinder, short of eye level for most people over 6 feet without the column or a [tripod extension column](/blog/tripod-extension-column/)."
+      "replace": "Adding my 5 to 8 in allowance gives about 60 to 63 in at the viewfinder, short of eye level for most people over 6 feet without the column or a [tripod extension column](/blog/tripod-extension-column/).",
+      "appliedAt": "2026-11-21T17:48:30.874Z"
     }
   ],
   "supports": "best-tripod-for-tall-photographers-over-6-feet",
