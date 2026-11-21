@@ -1,0 +1,20 @@
+{
+  "slug": "de/stativ-verlaengerung",
+  "lang": "de",
+  "translationOf": "tripod-extension-column",
+  "pass": true,
+  "checkedAt": "2026-11-21T18:10:32.520Z",
+  "errors": [],
+  "warnings": [
+    "internal link to the English post /blog/tripod-center-column-up-or-down-for-landscapes/; link the de version once it exists",
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with tripod-extension-column: same sections, spec table (Sunwayfoto ET-01 vs Benro), The Center Column figures (4x slower decay, ~15% stiffness, 65% vs 29%, ~5 s settle), Rokslide voices (briscoetab, pyrotechnic) paraphrased, MT055XPRO3 height example, decision bands and fitting steps, FAQ answers identical. Conversions: 12-16 in=30-41 cm (Benro maker metric 40,5 cm), 7.4/7.9 in=19/20 cm, 4.1 oz=116 g, 0.48 lb=218 g, 22 lb=10 kg, 3-8 in=8-20 cm, 4-5 in=10-13 cm, 5-8 in=13-20 cm, 6'2\"=1,88 m, 69-70 in=175-178 cm, 55 in=140 cm (Manfrotto global-de also 140 cm), 60-63 in=152-160 cm, 6-10 in=15-25 cm, 6 in=15 cm. Number links unchanged (12 in B&H, four times, 65%). Local brief: grossformatfotografie.de thread re-opened 2026-11-21 (quotes verbatim), Benro metric figure, Manfrotto German spec. No testing/ownership claims, no prices, 3 outside links, editorial-team author.",
+    "at": "2026-11-21T18:10:31.957Z",
+    "hash": "2c2732ceeedef15f"
+  }
+}

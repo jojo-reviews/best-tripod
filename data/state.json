@@ -1920,6 +1920,69 @@
       "lang": "nl",
       "translationOf": "tall-tripod-vs-regular-tripod",
       "pubDate": "2026-11-19T13:45:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "de/fotoausruestung-fuer-grosse-menschen",
+      "lang": "de",
+      "translationOf": "photography-equipment-for-tall-people",
+      "pubDate": "2026-11-21T21:40:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "es/equipo-fotografico-para-personas-altas",
+      "lang": "es",
+      "translationOf": "photography-equipment-for-tall-people",
+      "pubDate": "2026-11-21T21:45:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "nl/fotoapparatuur-voor-lange-mensen",
+      "lang": "nl",
+      "translationOf": "photography-equipment-for-tall-people",
+      "pubDate": "2026-11-21T21:20:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "de/stativkopf-fuer-immobilienfotografie",
+      "lang": "de",
+      "translationOf": "best-tripod-head-for-real-estate-photography",
+      "pubDate": "2026-11-22T00:20:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "es/rotula-para-fotografia-inmobiliaria",
+      "lang": "es",
+      "translationOf": "best-tripod-head-for-real-estate-photography",
+      "pubDate": "2026-11-21T23:55:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "nl/statiefkop-voor-vastgoedfotografie",
+      "lang": "nl",
+      "translationOf": "best-tripod-head-for-real-estate-photography",
+      "pubDate": "2026-11-21T23:20:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "de/stativ-verlaengerung",
+      "lang": "de",
+      "translationOf": "tripod-extension-column",
+      "pubDate": "2026-11-22T02:20:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "es/extension-de-columna-para-tripode",
+      "lang": "es",
+      "translationOf": "tripod-extension-column",
+      "pubDate": "2026-11-22T02:20:00.000Z"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "nl/verlengstuk-voor-statief",
+      "lang": "nl",
+      "translationOf": "tripod-extension-column",
+      "pubDate": "2026-11-22T02:00:00.000Z"
     }
   ]
 }

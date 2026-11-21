@@ -1,0 +1,83 @@
+{
+  "lang": "de",
+  "translationOf": "photography-equipment-for-tall-people",
+  "checkedAt": "2026-11-21T18:05:00Z",
+  "note": "English post has productCount 0 (guide). The only named gear (Benro, Manfrotto 055XPROB, Gitzo GM3550, Benro carbon monopod) are owner examples from the Stack Exchange and DPReview threads, not product blocks; none is dropped or swapped.",
+  "productFit": [],
+  "localFacts": [
+    {
+      "fact": "Destatis: the average man in Germany is 1.79 m tall (woman 1.66 m); the post's 6 ft (1.83 m) threshold is only a little above the German male average.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "fact": "Kölner Dom (Domordnung): \"Aufnahmen mit Stativen bedürfen einer Genehmigung durch den Dompropst\" – tripods (tall or not) need permission inside.",
+      "source": "https://www.koelner-dom.de/besuchen/wichtige-hinweise"
+    },
+    {
+      "fact": "Local terms: Winkelsucher (right-angle viewfinder), Klappdisplay/Schwenkdisplay (articulating screen), Mittelsäule (centre column), Einbeinstativ (monopod), Sitzhocker/Anglerhocker (camp stool).",
+      "source": "https://www.fotocommunity.de/forum/d-slr-anschaffung-grundlagen/winkelsucher--3---75038"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Tall beginners (190 cm) worry they must spend more and carry a bigger tripod to stand upright.",
+      "fix": "Legs-only height near eye level first; a screen or Winkelsucher and a stool cover the rest without a giant tripod (Mark J P's 187 cm Manfrotto example).",
+      "quotes": [
+        {
+          "text": "Muss ich bei 190cm Körpergröße zwangsweise mehr investieren und vor allem auch ein größeres Stativ schleppen?",
+          "url": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+      ]
+    },
+    {
+      "pain": "Looking through the eyepiece on a tripod or near the ground is uncomfortable.",
+      "fix": "A Winkelsucher (right-angle viewfinder) or a tilted screen, as the post's section explains.",
+      "quotes": [
+        {
+          "text": "Wenn die Kamera auf dem Stativ montiert ist, oder in Bodennähe aufgestellt ist, ist das Durchblicken schon komfortabler.",
+          "url": "https://www.fotocommunity.de/forum/d-slr-anschaffung-grundlagen/winkelsucher--3---75038"
+        }
+      ],
+      "sources": [
+        "https://www.fotocommunity.de/forum/d-slr-anschaffung-grundlagen/winkelsucher--3---75038"
+      ]
+    },
+    {
+      "pain": "German forum users blame a raised centre column for shake.",
+      "fix": "Legs first, column only for the last few cm (Itai's point in the post).",
+      "quotes": [
+        {
+          "text": "Ich würde also dringen raten, die MS nicht zu verwenden. Die scheint in den meisten Fällen der Grund allen Übels zu sein.",
+          "url": "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/was-wackelt.965623/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Destatis average height (1.79 m) frames the 1.83 m threshold for German readers.",
+      "source": "https://www.destatis.de/DE/Im-Fokus/Durchschnittsmensch/_inhalt.html"
+    },
+    {
+      "point": "German forum voice (fotocommunity.de, Piet M.) on the Winkelsucher making tripod and ground-level viewing more comfortable.",
+      "source": "https://www.fotocommunity.de/forum/d-slr-anschaffung-grundlagen/winkelsucher--3---75038"
+    },
+    {
+      "point": "190 cm fotocommunity.de beginner's worry answered: bigger tripod is not the only fix.",
+      "source": "https://www.fotocommunity.de/forum/zubehoer/welches-stativ-bis-100eur-bei-190cm-koerpergroesse---395627"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights in feet/inches and loads in lb (6 ft, 6 ft 4 in, 50-63 in, 70-72 in, 10-12 lb, 27 lb, 10-12 in, 71 in)",
+      "action": "replace",
+      "with": "metric first (1,83 m, 1,93 m, 127-160 cm, 178-183 cm, 4,5-5,4 kg, about 12 kg, 25-30 cm, 180 cm), imperial in brackets; force in kg-equivalent as in the NPR source (pounds)"
+    }
+  ]
+}

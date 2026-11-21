@@ -1,0 +1,87 @@
+{
+  "lang": "nl",
+  "translationOf": "tripod-extension-column",
+  "checkedAt": "2026-11-21T18:30:00Z",
+  "note": "English post has productCount 0 (guide); the Sunwayfoto ET-01 and Benro extension column are reference rows in a spec table, the MT055XPRO3 an example in a calculation. The English body already has 3 outside links, so local facts are named in the text without extra links.",
+  "productFit": [
+    {
+      "name": "Sunwayfoto ET-01 Carbon Fiber Tripod Extension Tube (reference row in the spec table; not a product block)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Keep the English B&H figures converted: 30 cm (12 in) extra, 19 cm (7.4 in) folded, 116 g (4.1 oz), 10 kg (22 lb).",
+      "reason": "Sold worldwide through the maker's own international store (sunwayfoto.com) under the same ET-01 code; no local-availability claim in the post.",
+      "source": "https://sunwayfoto.com/products/et-01-02-carbon-fiber-tripod-extension-tube"
+    },
+    {
+      "name": "Benro carbon fiber extension column (reference row; not a product block)",
+      "asin": "",
+      "status": "unknown",
+      "metricSpecs": "Benro gives the metric figure itself: extends to a maximum of 16 inches (40.5 cm).",
+      "reason": "Only Benro USA pages found for the extension columns; no EU dealer page checked. Not a product block, so no note is needed; no availability claim in the post.",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "name": "Manfrotto MT055XPRO3 (example tripod in the height calculation)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global-de: 140 cm with the centre column down, 170 cm max (matches B&H 55 in).",
+      "reason": "Sold in the EU under the same code (Manfrotto German maker page).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "CBS: Dutch-born 19-year-old men were on average 182,9 cm tall in 2020, so many Dutch readers are near the post's 1,88 m example.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "Benro gives the extension column's metric maximum itself: 16 inches (40,5 cm).",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "fact": "Dutch terms: verlengstuk / verlengkolom (extension column), middenzuil of middenkolom, statiefkop, schroefdraad 1/4\" en 3/8\".",
+      "source": "https://fotografieles.nl/fotografietips/aankooptips-voor-een-statief/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The centre column is the least stable part of the tripod, so Dutch photographers keep it down outdoors.",
+      "fix": "An extension column behaves the same; legs first, column last and short.",
+      "quotes": [
+        {
+          "text": "De middenzuil is het minst stabiele gedeelte van je statief.",
+          "url": "https://fotografieles.nl/fotografietips/aankooptips-voor-een-statief/"
+        },
+        {
+          "text": "Nu zal ik de middenzuil buiten niet zo snel omhoog zetten in verband met het verlies van stabiliteit",
+          "url": "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+        }
+      ],
+      "sources": [
+        "https://fotografieles.nl/fotografietips/aankooptips-voor-een-statief/",
+        "https://photofacts.nl/reviews/hoe-kies-je-het-juiste-statief"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "CBS average height: the 1,88 m example is close to the Dutch average young man.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "Dutch voices (fotografieles.nl, Photofacts) on the middenzuil as the weakest part.",
+      "source": "https://fotografieles.nl/fotografietips/aankooptips-voor-een-statief/"
+    },
+    {
+      "point": "Benro's own metric figure (40,5 cm).",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights/lengths/weights in inches, ounces and pounds (12-16 in, 7.4/7.9 in, 4.1 oz, 0.48 lb, 22 lb, 3-8 in, 4-5 in, 5-8 in, 6'2\", 69-70 in, 55 in, 60-63 in, 6-10 in, six inches)",
+      "action": "replace",
+      "with": "metric first (30-41 cm, 19/20 cm, 116 g, 218 g, 10 kg, 8-20 cm, 10-13 cm, 13-20 cm, 1,88 m, 175-178 cm, 140 cm, 152-160 cm, 15-25 cm, 15 cm), imperial in brackets; Benro column 40,5 cm (maker figure)"
+    }
+  ]
+}

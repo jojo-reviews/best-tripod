@@ -1,0 +1,93 @@
+{
+  "lang": "es",
+  "translationOf": "tripod-extension-column",
+  "checkedAt": "2026-11-21T18:30:00Z",
+  "note": "English post has productCount 0 (guide); the Sunwayfoto ET-01 and Benro extension column are reference rows in a spec table, the MT055XPRO3 an example in a calculation. The English body already has 3 outside links, so local facts are named in the text without extra links.",
+  "productFit": [
+    {
+      "name": "Sunwayfoto ET-01 Carbon Fiber Tripod Extension Tube (reference row in the spec table; not a product block)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Keep the English B&H figures converted: 30 cm (12 in) extra, 19 cm (7.4 in) folded, 116 g (4.1 oz), 10 kg (22 lb).",
+      "reason": "Sold worldwide through the maker's own international store (sunwayfoto.com) under the same ET-01 code; no local-availability claim in the post.",
+      "source": "https://sunwayfoto.com/products/et-01-02-carbon-fiber-tripod-extension-tube"
+    },
+    {
+      "name": "Benro carbon fiber extension column (reference row; not a product block)",
+      "asin": "",
+      "status": "unknown",
+      "metricSpecs": "Benro gives the metric figure itself: extends to a maximum of 16 inches (40.5 cm).",
+      "reason": "Only Benro USA pages found for the extension columns; no EU dealer page checked. Not a product block, so no note is needed; no availability claim in the post.",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "name": "Manfrotto MT055XPRO3 (example tripod in the height calculation)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global-de: 140 cm with the centre column down, 170 cm max (matches B&H 55 in).",
+      "reason": "Sold in the EU under the same code (Manfrotto German maker page).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Benro gives the extension column's metric maximum itself: 16 inches (40,5 cm).",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "fact": "Manfrotto's spec sheet: MT055XPRO3 140 cm with the column down, 170 cm max (the post's 55 in example).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "fact": "Spanish terms: columna de extensión / alargador de columna / extensor (extension column), columna central, cabeza del trípode, rosca de 1/4\" y 3/8\".",
+      "source": "https://avesforum.seo.org/viewtopic.php?t=2689"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Spanish birders note the Manfrotto 055 is very stable only as long as the centre column stays down.",
+      "fix": "The post's 055 example: 140 cm legs-only; an extension column adds the same weakness as a raised column, so use it only for small gaps.",
+      "quotes": [
+        {
+          "text": "El 055 es muy buen trípode en cuanto a estabilidad (siempre que no saques la columna central)",
+          "url": "https://avesforum.seo.org/viewtopic.php?t=2689"
+        }
+      ],
+      "sources": [
+        "https://avesforum.seo.org/viewtopic.php?t=2689"
+      ],
+      "note": "Quote from the Firecrawl search excerpt at that URL."
+    },
+    {
+      "pain": "The centre column adds a lot of instability; touching the camera lightly shows movement.",
+      "fix": "Extend legs first, column last, hang a bag low and fire with a self-timer.",
+      "quotes": [
+        {
+          "text": "La columna central añade mucha inestabilidad al conjunto",
+          "url": "https://fujistas.com/foro/threads/experiencia-con-tripode-y-estabilizador.67708/"
+        }
+      ],
+      "sources": [
+        "https://fujistas.com/foro/threads/experiencia-con-tripode-y-estabilizador.67708/"
+      ],
+      "note": "Quote from the Firecrawl search excerpt at that URL."
+    }
+  ],
+  "localGain": [
+    {
+      "point": "SEO/BirdLife forum voice on the 055 tied to the post's 055 height example.",
+      "source": "https://avesforum.seo.org/viewtopic.php?t=2689"
+    },
+    {
+      "point": "Benro's own metric figure (40,5 cm).",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights/lengths/weights in inches, ounces and pounds (12-16 in, 7.4/7.9 in, 4.1 oz, 0.48 lb, 22 lb, 3-8 in, 4-5 in, 5-8 in, 6'2\", 69-70 in, 55 in, 60-63 in, 6-10 in, six inches)",
+      "action": "replace",
+      "with": "metric first (30-41 cm, 19/20 cm, 116 g, 218 g, 10 kg, 8-20 cm, 10-13 cm, 13-20 cm, 1,88 m, 175-178 cm, 140 cm, 152-160 cm, 15-25 cm, 15 cm), imperial in brackets; Benro column 40,5 cm (maker figure)"
+    }
+  ]
+}

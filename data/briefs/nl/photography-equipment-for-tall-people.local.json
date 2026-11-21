@@ -1,0 +1,67 @@
+{
+  "lang": "nl",
+  "translationOf": "photography-equipment-for-tall-people",
+  "checkedAt": "2026-11-21T18:05:00Z",
+  "note": "English post has productCount 0 (guide). The only named gear (Benro, Manfrotto 055XPROB, Gitzo GM3550, Benro carbon monopod) are owner examples from the Stack Exchange and DPReview threads, not product blocks; none is dropped or swapped.",
+  "productFit": [],
+  "localFacts": [
+    {
+      "fact": "CBS: Dutch-born 19-year-old men were on average 182.9 cm tall in 2020 (women 169.3 cm), so the post's 6 ft (183 cm) threshold is the average young Dutch man.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "fact": "Rijksmuseum: photographing and filming is allowed without disturbing others; for bridal shoots \"geen statieven en geen extra belichting\".",
+      "source": "https://www.rijksmuseum.nl/nl/pers/filmen-en-fotograferen"
+    },
+    {
+      "fact": "Local terms: haakse zoeker (right-angle viewfinder), klapscherm/kantelscherm, middenkolom, monopod/eenpootstatief, krukje, kniebeschermer.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1591449"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Tall gear that is also light is hard to find (Tweakers, 1.96 m photographer looking for a monopod).",
+      "fix": "Check the monopod's maximum height before the head (about 178-183 cm / 70-72 in); a 192 cm Gitzo with four of five sections reaches chin height for a 1.86 m owner.",
+      "quotes": [
+        {
+          "text": "Maar nu zijn er weinig monopods die lang en licht zijn.",
+          "url": "https://gathering.tweakers.net/forum/list_messages/1591449"
+        }
+      ],
+      "sources": [
+        "https://gathering.tweakers.net/forum/list_messages/1591449"
+      ]
+    },
+    {
+      "pain": "Some Dutch forum members would rather bend or kneel than carry an unwieldy, expensive tall tripod.",
+      "fix": "The post's stool/knee-pad + mid-size tripod route (Dave's bundle), and a tilting screen so you look down instead of bending.",
+      "quotes": [
+        {
+          "text": "Vaak kun je dus beter een stukje bukken of door je knieen dan een onhandelbaar en duur statief mee te sjouwen.",
+          "url": "https://forum.nikon-club-nederland.nl/viewtopic.php?t=55573"
+        }
+      ],
+      "sources": [
+        "https://forum.nikon-club-nederland.nl/viewtopic.php?t=55573"
+      ],
+      "note": "Quote taken from the Firecrawl search excerpt at that URL; the page itself returned a proxy error on scrape."
+    }
+  ],
+  "localGain": [
+    {
+      "point": "CBS average height 182.9 cm: in the Netherlands the 'tall photographer' is the average young man.",
+      "source": "https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang"
+    },
+    {
+      "point": "Tweakers voice on long-and-light monopods, answered with the 178-183 cm target.",
+      "source": "https://gathering.tweakers.net/forum/list_messages/1591449"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights in feet/inches and loads in lb",
+      "action": "replace",
+      "with": "metric first (1,83 m, 1,93 m, 127-160 cm, 178-183 cm, 4,5-5,4 kg, about 12 kg, 25-30 cm), imperial in brackets"
+    }
+  ]
+}

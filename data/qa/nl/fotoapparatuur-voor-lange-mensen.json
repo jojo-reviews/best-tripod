@@ -1,0 +1,20 @@
+{
+  "slug": "nl/fotoapparatuur-voor-lange-mensen",
+  "lang": "nl",
+  "translationOf": "photography-equipment-for-tall-people",
+  "pass": true,
+  "checkedAt": "2026-11-21T17:59:57.787Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Compared section by section with photography-equipment-for-tall-people: same sections, table, FAQ answers and owner examples (user50555, Itai, Eric 185 cm/170 cm Benro, Mark J P 187 cm Manfrotto 055XPROB, MikeW, Ellis Vener 6 ft 5 in, crowley213 192 cm Gitzo GM3550, MichaelFrederickPhoto 6 ft Benro, cabbey, Dave). Conversions checked: 10-12 lb=4,5-5,4 kg, 27 lb=12 kg, 50-63 in=127-160 cm, 70-72 in=178-183 cm, 10-12 in=25-30 cm, 71 in=180 cm, 6 ft=1,83 m, 6 ft 2/4/5/6=1,88/1,93/1,96/1,98 m. Local brief facts: CBS 182,9 cm (cbs.nl), Rijksmuseum bridal-shoot 'geen statieven' rule, Tweakers monopod quote, Nikon Club Nederland quote (verbatim in the Firecrawl search excerpt at that thread URL; page scrape hit a proxy error). No testing/ownership claims, no prices, 3 outside links. Editorial team author.",
+    "at": "2026-11-21T17:59:57.084Z",
+    "hash": "6e72e340b3f31104"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "lang": "de",
+  "translationOf": "best-tripod-head-for-real-estate-photography",
+  "checkedAt": "2026-11-21T18:20:00Z",
+  "note": "Product availability checked 2026-11-21 (Foto Erhardt, Foto Koch, arca-shop.de, Manfrotto global, K&F international store); local facts and quotes partly reused from the verified local brief of best-tripod-for-real-estate-photography (2026-11-01/02). The English body already has 3 outside links, so local facts are named in the text without extra links.",
+  "productFit": [
+    {
+      "name": "Benro GD3WH 3-Way Geared Head",
+      "asin": "B07C326563",
+      "status": "fits",
+      "metricSpecs": "Benro: 6 kg load, 870 g (as in the English post; B&H 740 g). Height 4.3 in = 11 cm (B&H).",
+      "reason": "Sold by German dealer Foto Erhardt as 'Benro GD3WH Präzisions-Getriebeneiger Arca-Style' under the same code.",
+      "source": "https://www.foto-erhardt.de/stative/stativkoepfe/benro-gd3wh-praezisions-getriebeneiger-arca-style.html"
+    },
+    {
+      "name": "Manfrotto 410 Junior Geared Head",
+      "asin": "B000JLI4Q2",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 5 kg load, 1,22 kg, 13 cm working height (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto 410 Getriebeneiger Junior'.",
+      "source": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+    },
+    {
+      "name": "K&F Concept 3-Way Geared Tripod Head GD3W",
+      "asin": "B0BTD7K2W8",
+      "status": "fits",
+      "metricSpecs": "K&F: 6 kg load, 810 g; height 4.5 in = 11 cm (B&H).",
+      "reason": "K&F Concept sells the same SKU (KF31.047, GD3W) worldwide through its own international store; no country-specific EU dealer page was checked, so no local-availability claim is made in the post.",
+      "source": "https://www.kentfaith.com/KF31.047_kf-concept-3-way-geared-tripod-head"
+    },
+    {
+      "name": "Manfrotto XPRO Geared 3-Way Pan/Tilt Head MHXPRO-3WG",
+      "asin": "B00URXUC9O",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 4 kg payload, 0,75 kg, 13 cm working height (as in the English post).",
+      "reason": "Listed on Manfrotto's global (international) site under the same code MHXPRO-3WG; also sold second-hand in Germany as 'Manfrotto MHXPRO-3WG Getriebeneiger'.",
+      "source": "https://www.manfrotto.com/global-en/xpro-geared-three-way-pan-tilt-tripod-head-mhxpro-3wg/"
+    },
+    {
+      "name": "Arca-Swiss d4 Geared Tripod Head",
+      "asin": "B01ICJ3BK6",
+      "status": "fits",
+      "metricSpecs": "Arca-Swiss USA: 30 kg, 980 g (as in the English post); keep the English figures.",
+      "reason": "Arca-Swiss is a European maker; the German Arca-Swiss shop lists the d4 series ('Symbiose aus einem 3-Wege Neiger und einem Getriebeneiger').",
+      "source": "https://arca-shop.de/D4-Serie"
+    },
+    {
+      "name": "Manfrotto 405 Geared Head",
+      "asin": "B000RTW9S0",
+      "status": "fits",
+      "metricSpecs": "Manfrotto: 7,5 kg load, 1,6 kg, 16 cm working height (as in the English post).",
+      "reason": "Sold by German dealer Foto Koch as 'Manfrotto Pro Digital Getriebe-Neiger 405'.",
+      "source": "https://www.fotokoch.de/Manfrotto-Pro-Digital-Getriebe-Neiger_38072.html"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "ImmoScout24 tells sellers to shoot listing photos in landscape format, from a corner of the room, and to level the camera on a tripod at hip height (Hüfthöhe) – the levelling a geared head does axis by axis.",
+      "source": "https://www.immobilienscout24.de/wissen/vermieten/sieben-foto-tipps-fuer-ihr-immobilieninserat.html"
+    },
+    {
+      "fact": "German terms: Getriebeneiger (geared head), 3-Wege-Neiger, Kugelkopf, Schnellwechselplatte, Wasserwaage/Libelle, L-Winkel; Arca-Swiss keeps its name.",
+      "source": "https://www.fotokoch.de/Manfrotto-Pro-Digital-Getriebe-Neiger_38072.html"
+    },
+    {
+      "fact": "Arca-Swiss's German shop describes the d4 as the combination of a 3-way head and a geared head (speed plus precision).",
+      "source": "https://arca-shop.de/D4-Serie"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "The Manfrotto 410 plate is proprietary and hard to remove one-handed; geared heads are slow for quick changes.",
+      "fix": "Pick the plate system first (410PL vs Arca-type) and use the geared head where precision beats speed, as in the post.",
+      "quotes": [
+        {
+          "text": "Leider kann nur die Manfrotto Kameraplatte genutzt werden, aber diese hält bombenfest in der Kopfaufnahme.",
+          "url": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+        },
+        {
+          "text": "Die Kameraplatte ist aufgrund ihrer Arretierung, einhändig nur schwer vom Getriebeneiger zu entfernen, was mit unter zeitaufwendig sein kann.",
+          "url": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+        }
+      ],
+      "sources": [
+        "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+      ]
+    },
+    {
+      "pain": "German photographers ask whether the Arca-Swiss d4 is worth its price.",
+      "fix": "The post's answer: worth it for full-time architecture work; the Benro GD3WH covers a typical interior kit.",
+      "quotes": [
+        {
+          "text": "Getriebeneiger Arca Swiss D4 Kennt jemand diesen Kopf? Ist er den Preis wert",
+          "url": "https://www.dslr-forum.de/threads/getriebeneiger-arca-swiss-d4-kennt-jemand-diesen-kopf-ist-er-den-preis-wert.1719942/"
+        }
+      ],
+      "sources": [
+        "https://www.dslr-forum.de/threads/getriebeneiger-arca-swiss-d4-kennt-jemand-diesen-kopf-ist-er-den-preis-wert.1719942/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "ImmoScout24's level-camera-on-a-tripod advice tied to the geared head's one-axis-at-a-time levelling.",
+      "source": "https://www.immobilienscout24.de/wissen/vermieten/sieben-foto-tipps-fuer-ihr-immobilieninserat.html"
+    },
+    {
+      "point": "Foto Koch buyer voices on the 410PL plate, answered with the plate-system advice.",
+      "source": "https://www.fotokoch.de/Manfrotto-410-Getriebeneiger-Junior_38053_bewertungen.html"
+    },
+    {
+      "point": "dslr-forum.de 'is the d4 worth it' question answered.",
+      "source": "https://www.dslr-forum.de/threads/getriebeneiger-arca-swiss-d4-kennt-jemand-diesen-kopf-ist-er-den-preis-wert.1719942/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All weights, loads and heights in lb/in (13.2 lb, 4.3 in, 5.12 in, 4.5 in, 6.3 in, 2.7 lb, 44 lb, 66 lb, 70 mm)",
+      "action": "replace",
+      "with": "metric first (maker kg/g/cm figures from the specs), imperial in brackets; 4.3 in = 11 cm, 4.5 in = 11 cm, 5.12 in = 13 cm, 6.3 in = 16 cm, 2.7 lb = 1,2 kg, 44 lb = 20 kg"
+    },
+    {
+      "english": "has its own in-stock Amazon US listing (selection rule)",
+      "action": "replace",
+      "with": "keep as a clearly US-specific selection rule; never claim local store availability"
+    },
+    {
+      "english": "Rick McEvoy is a UK architectural and real estate photographer",
+      "action": "replace",
+      "with": "keep (European source); no change"
+    }
+  ]
+}

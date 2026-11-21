@@ -1,0 +1,99 @@
+{
+  "lang": "de",
+  "translationOf": "tripod-extension-column",
+  "checkedAt": "2026-11-21T18:30:00Z",
+  "note": "English post has productCount 0 (guide); the Sunwayfoto ET-01 and Benro extension column are reference rows in a spec table, the MT055XPRO3 an example in a calculation. The English body already has 3 outside links, so local facts are named in the text without extra links.",
+  "productFit": [
+    {
+      "name": "Sunwayfoto ET-01 Carbon Fiber Tripod Extension Tube (reference row in the spec table; not a product block)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Keep the English B&H figures converted: 30 cm (12 in) extra, 19 cm (7.4 in) folded, 116 g (4.1 oz), 10 kg (22 lb).",
+      "reason": "Sold worldwide through the maker's own international store (sunwayfoto.com) under the same ET-01 code; no local-availability claim in the post.",
+      "source": "https://sunwayfoto.com/products/et-01-02-carbon-fiber-tripod-extension-tube"
+    },
+    {
+      "name": "Benro carbon fiber extension column (reference row; not a product block)",
+      "asin": "",
+      "status": "unknown",
+      "metricSpecs": "Benro gives the metric figure itself: extends to a maximum of 16 inches (40.5 cm).",
+      "reason": "Only Benro USA pages found for the extension columns; no EU dealer page checked. Not a product block, so no note is needed; no availability claim in the post.",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "name": "Manfrotto MT055XPRO3 (example tripod in the height calculation)",
+      "asin": "",
+      "status": "fits",
+      "metricSpecs": "Manfrotto global-de: 140 cm with the centre column down, 170 cm max (matches B&H 55 in).",
+      "reason": "Sold in the EU under the same code (Manfrotto German maker page).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "localFacts": [
+    {
+      "fact": "Benro gives the extension column's metric maximum itself: 16 inches (40,5 cm).",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "fact": "Manfrotto's German spec sheet: MT055XPRO3 140 cm with the column down, 170 cm max (the post's 55 in example).",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    },
+    {
+      "fact": "German terms: Verlängerungssäule / Stativverlängerung / Säulenverlängerung (extension column), Mittelsäule, Stativschulter (apex), Gewinde 1/4\" und 3/8\".",
+      "source": "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "Tall photographers' tripod is sometimes not high enough and constant stooping is a torment; they think about screw-on extensions instead of a 4th or 5th tripod.",
+      "fix": "Extension column for a 8-20 cm gap with light kit; beyond that, taller legs (post's decision rule).",
+      "quotes": [
+        {
+          "text": "Hin und wieder ist mein Stativ nicht hoch genug",
+          "url": "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+        },
+        {
+          "text": "Aber wenn man groß gebaut ist, ist die ständige Bückerei wirklich eine Qual.",
+          "url": "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+        }
+      ],
+      "sources": [
+        "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+      ]
+    },
+    {
+      "pain": "A column with weight on top makes the camera sway more than a tripod without a column.",
+      "fix": "Extend the column last and as little as possible, hang weight low, use a self-timer (post's fitting steps).",
+      "quotes": [
+        {
+          "text": "Eine Mittelsäule mit hohem Gewicht darauf lässt die Kamera stärker schwanken als ein Stativ ohne Mittelsäule",
+          "url": "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+        }
+      ],
+      "sources": [
+        "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Benro's own metric figure (40,5 cm) instead of a conversion.",
+      "source": "https://benrousa.com/carbon-fiber-extension-column-for-0-series-tripods/"
+    },
+    {
+      "point": "German large-format forum voices: stooping is a torment for tall people, and a column with weight on top sways more.",
+      "source": "https://forum.grossformatfotografie.de/forum/thread/20941-stativverl%C3%A4ngerung/"
+    },
+    {
+      "point": "Manfrotto German spec (140 cm column down) for the height example.",
+      "source": "https://www.manfrotto.com/global-de/055-alu-stativ-qpl-3-segmente-mt055xpro3/"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights/lengths/weights in inches, ounces and pounds (12-16 in, 7.4/7.9 in, 4.1 oz, 0.48 lb, 22 lb, 3-8 in, 4-5 in, 5-8 in, 6'2\", 69-70 in, 55 in, 60-63 in, 6-10 in, six inches)",
+      "action": "replace",
+      "with": "metric first (30-41 cm, 19/20 cm, 116 g, 218 g, 10 kg, 8-20 cm, 10-13 cm, 13-20 cm, 1,88 m, 175-178 cm, 140 cm, 152-160 cm, 15-25 cm, 15 cm), imperial in brackets; Benro column 40,5 cm (maker figure)"
+    }
+  ]
+}

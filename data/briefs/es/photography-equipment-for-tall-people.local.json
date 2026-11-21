@@ -1,0 +1,70 @@
+{
+  "lang": "es",
+  "translationOf": "photography-equipment-for-tall-people",
+  "checkedAt": "2026-11-21T18:05:00Z",
+  "note": "English post has productCount 0 (guide). The only named gear (Benro, Manfrotto 055XPROB, Gitzo GM3550, Benro carbon monopod) are owner examples from the Stack Exchange and DPReview threads, not product blocks; none is dropped or swapped.",
+  "productFit": [],
+  "localFacts": [
+    {
+      "fact": "Alhambra (Patronato): photos only without flash and without tripod, monopod or other stabilising element inside the monument – a long monopod does not help there either.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    },
+    {
+      "fact": "Sagrada Família normativa: no photos or videos with a tripod inside the grounds unless accredited by the press department.",
+      "source": "https://sagradafamilia.org/es/normativa"
+    },
+    {
+      "fact": "Local terms: visor de ángulo recto / visor angular, pantalla abatible o articulada, columna central, monopié, taburete plegable, rodillera.",
+      "source": "https://www.caborian.com/foro/index.php?topic=516.0"
+    }
+  ],
+  "localPainPoints": [
+    {
+      "pain": "A 1.90 m Spanish photographer says the monopods he tried all make him stoop a lot; forum members ask whether there are monopods for tall people.",
+      "fix": "Aim for a monopod of about 178-183 cm (70-72 in) before the head, as the post explains; a 1.86 m owner reaches chin height with a 192 cm monopod.",
+      "quotes": [
+        {
+          "text": "¿Y no hay monopiés para gente alta?",
+          "url": "https://www.caborian.com/foro/index.php?topic=516.0"
+        },
+        {
+          "text": "Con un bicho que solo se levanta del suelo 1,66m, maese Koldo se nos va a pilllar una lumbalgia del carajo",
+          "url": "https://www.caborian.com/foro/index.php?topic=516.0"
+        }
+      ],
+      "sources": [
+        "https://www.caborian.com/foro/index.php?topic=516.0"
+      ]
+    },
+    {
+      "pain": "Readers confuse the support's height with their own height.",
+      "fix": "Compare the support's height with eye/chin height, not head height (body height minus 25-30 cm rule for tripod legs).",
+      "quotes": [
+        {
+          "text": "piensa que una cosa es la altura del monopie y la otra la de nuestra cima de la cabeza.",
+          "url": "https://www.caborian.com/foro/index.php?topic=516.0"
+        }
+      ],
+      "sources": [
+        "https://www.caborian.com/foro/index.php?topic=516.0"
+      ]
+    }
+  ],
+  "localGain": [
+    {
+      "point": "Caborian forum thread: 1,66 m monopod for a 1,90 m photographer means back pain ('lumbalgia'), the posture problem of the post in Spanish words.",
+      "source": "https://www.caborian.com/foro/index.php?topic=516.0"
+    },
+    {
+      "point": "Alhambra bans tripods AND monopods inside; Sagrada Família bans tripods without accreditation – the flip screen is the only fix that works there.",
+      "source": "https://www.alhambra-patronato.es/visitar/prepara-tu-visita/momento-de-la-visita"
+    }
+  ],
+  "dropOrChange": [
+    {
+      "english": "All heights in feet/inches and loads in lb",
+      "action": "replace",
+      "with": "metric first (1,83 m, 1,93 m, 127-160 cm, 178-183 cm, 4,5-5,4 kg, about 12 kg, 25-30 cm), imperial in brackets"
+    }
+  ]
+}
