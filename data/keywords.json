@@ -8307,7 +8307,8 @@
       "parentTopic": "best phone tripod",
       "source": "ahrefs keywords-explorer-overview us",
       "date": "2026-11-10"
-    }
+    },
+    "productCount": 18
   },
   {
     "status": "pending",
@@ -8774,5 +8775,47 @@
     "slug": "photography-equipment-for-tall-people",
     "startedAt": "2026-11-20T11:23:30.953Z",
     "publishedAt": "2026-11-20T11:25:30.845Z"
+  },
+  {
+    "status": "published",
+    "attempts": 0,
+    "addedAt": "2026-11-21T11:21:35.689Z",
+    "secondaryKeywords": [
+      "tripod column extender",
+      "tripod center column extension",
+      "tripod extension tube",
+      "tripod extender",
+      "tripod riser"
+    ],
+    "questions": [
+      "does a tripod extension column reduce stability",
+      "how much height does a tripod extension column add",
+      "will an extension column fit my tripod",
+      "is an extension column better than a taller tripod"
+    ],
+    "priority": 999,
+    "keyword": "tripod extension column",
+    "slug": "tripod-extension-column",
+    "category": "camera-tripods",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "mofu",
+    "cluster": "tall-photographers",
+    "supports": "best-tripod-for-tall-photographers-over-6-feet",
+    "source": "pillar-cluster",
+    "workingTitle": "Tripod Extension Column – Worth It for Tall Photographers?",
+    "painPoints": [
+      "travel-tripods-too-short-bend-over",
+      "travel-tripods-center-column-tradeoff"
+    ],
+    "rationale": "Owner rule 2026-11-13 pillar clusters, supporting post #3 for best-tripod-for-tall-photographers-over-6-feet: Ahrefs US volume 30 (tripod extension column; parent topic tripod extension 100, tripod extender 30, tripod riser 40; checked 2026-11-21) plus 3+ independent threads asking how to add height (r/AskPhotography 'Clever ways to extend height of the tripod?', Rokslide 'Tripod- Center column or no center column?', DPReview 'Appropriate Height for Tripod', Cloudy Nights 'Tripods for tall guys'); cannibal check clean; distinct from tall-tripod-vs-regular-tripod (which tripod class), photography-equipment-for-tall-people (kit list), how-tall-should-a-tripod-be-for-my-height (height chart) and tripod-center-column-up-or-down-for-landscapes (built-in column use).",
+    "ahrefs": {
+      "volume": 30,
+      "kd": null,
+      "trafficPotential": null,
+      "country": "us",
+      "checked": "2026-11-21"
+    },
+    "publishedAt": "2026-11-21T11:25:43.349Z"
   }
 ]

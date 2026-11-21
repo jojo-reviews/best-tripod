@@ -10,6 +10,11 @@
       "from": "/blog/best-tripod-for-photography/",
       "to": "/",
       "note": "2026-10-20: draft never published; same intent as the home page (best tripod), merged into it to avoid cannibalization"
+    },
+    {
+      "from": "/blog/tripod-extension/",
+      "to": "/blog/tripod-extension-column/",
+      "note": "Post of 13 Nov removed by the 18 Nov restore; same topic re-published 21 Nov"
     }
   ]
 }

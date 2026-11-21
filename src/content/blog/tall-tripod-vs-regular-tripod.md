@@ -137,10 +137,10 @@ illustrations:
     caption: Measure the folded length against your bag before buying.
     afterHeading: 3
 related:
+  - tripod-extension-column
   - photography-equipment-for-tall-people
   - best-tripod-for-tall-photographers-over-6-feet
   - how-tall-should-a-tripod-be-for-my-height
-  - how-to-stop-tripod-shake-in-wind
 heroImage: /images/featured/tall-tripod-vs-regular-tripod.png
 heroAlt: >-
   Tall Tripod vs Regular Tripod – Who Needs the Extra Height – Best Tripod

@@ -1,0 +1,17 @@
+{
+  "slug": "tripod-extension-column",
+  "pass": true,
+  "checkedAt": "2026-11-21T11:25:35.848Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Re-verified 2026-11-21 (final wording): Sunwayfoto ET-01 per B&H spec page (adds up to 12 in, folds 7.4 in, 4.1 oz, 22 lb, 2 sections twist lock, 1/4-20 adaptable to 3/8-16, bushing adapters); Benro carbon extension column per benrousa.com (column extends to 16 in, collapses 7.9 in, 3 sections, Series 0-3, 0.48 lb on #3 page, no load rating); The Center Column 2021 (four times slower decay fully extended, ~5 s to settle with GFX50S + 32-64, ~15% stiffness loss from adding a column, lever/torque and inertia); The Center Column 2018 (65% vs 29% yaw stiffness loss, carbon vs aluminum column); MT055XPRO3 55 in column down (B&H spec); Rokslide quotes by briscoetab and pyrotechnic verbatim; DPReview quote verbatim from pain-points.json; eye-level and head+camera allowances are the site's stated rules of thumb. No products, prices or testing claims.",
+    "at": "2026-11-21T11:25:35.337Z",
+    "hash": "11732727a21de488"
+  }
+}

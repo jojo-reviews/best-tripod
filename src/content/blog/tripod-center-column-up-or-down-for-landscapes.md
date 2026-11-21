@@ -133,6 +133,7 @@ heroAlt: >-
   Tripod Center Column Up or Down for Landscapes – When to Raise It – Best
   Tripod guide
 related:
+  - tripod-extension-column
   - leveling-base-vs-leveling-column
 ---
 
