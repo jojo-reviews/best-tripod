@@ -1,0 +1,19 @@
+{
+  "slug": "travel-tripod-for-tall-person",
+  "pass": true,
+  "checkedAt": "2026-11-22T11:29:06.038Z",
+  "errors": [],
+  "warnings": [
+    "illustration 1 not generated yet (the AI images workflow adds it after push)",
+    "illustration 2 not generated yet (the AI images workflow adds it after push)",
+    "illustration 3 not generated yet (the AI images workflow adds it after push)",
+    "no YouTube video; embed one that shows the task when a good one exists (frontmatter videos: id, afterHeading)",
+    "keyword overlaps /blog/how-tall-should-a-tripod-be-for-my-height/ (\"travel tripod for tall person\" overlaps \"tripod height for tall person\" (75%))"
+  ],
+  "factCheck": {
+    "verified": true,
+    "notes": "Verified 2026-11-22: Vanguard VEO 3T 265HCP 64.4 in full, 48.7 in column down, 17.3 in folded, carbon fiber legs (vanguardworld.com product page); Manfrotto Befree Advanced Aluminum 151 cm/59.45 in max, 128 cm/50.39 in column down, 40 cm/15.75 in closed (manfrotto.com spec page); Peak Design Travel 60/51.25/15.5 in, Pro 66.3/54.3/19.7 in, Pro Tall 77/63.8/22.9 in (Shutter Muse dimension table; Pro 54.3 in legs-only also Pack Hacker; Pro Tall 77 in and 22.9 in folded also B&H listing); Delta carry-on 22 x 14 x 9 in (delta.com); TSA tripods allowed in carry-on and checked bags (tsa.gov); Ulanzi about 60 in without center column at 6 ft (ulanzi.com guide); both DPReview quotes verbatim by Dan W in 'Lightest tripod for hiking?' (search excerpt at the thread URL). Eye-level rule (height minus 4-5 in; head+camera 5-8 in) matches the pillar; gap math and 26 in diagonal of 22x14 computed. No products, prices, ratings or testing claims.",
+    "at": "2026-11-22T11:29:05.655Z",
+    "hash": "9009ba26fc3a0090"
+  }
+}

@@ -8817,5 +8817,47 @@
       "checked": "2026-11-21"
     },
     "publishedAt": "2026-11-21T11:25:43.349Z"
+  },
+  {
+    "status": "published",
+    "attempts": 0,
+    "addedAt": "2026-11-22T10:00:00.000Z",
+    "secondaryKeywords": [
+      "best travel tripod for tall person",
+      "travel tripod tall",
+      "tall travel tripod",
+      "tallest travel tripod",
+      "travel tripod height"
+    ],
+    "questions": [
+      "can a tall person use a travel tripod",
+      "how tall should a travel tripod be for a 6 foot person",
+      "do tall travel tripods fit in carry-on luggage",
+      "should a tall photographer raise the center column on a travel tripod"
+    ],
+    "priority": 999,
+    "keyword": "travel tripod for tall person",
+    "slug": "travel-tripod-for-tall-person",
+    "category": "travel-tripods",
+    "articleType": "guide",
+    "intent": "informational",
+    "funnel": "mofu",
+    "cluster": "tall-photographers",
+    "supports": "best-tripod-for-tall-photographers-over-6-feet",
+    "source": "pillar-cluster",
+    "workingTitle": "Travel Tripod for Tall Person – How Much Height You Really Get",
+    "painPoints": [
+      "travel-tripods-too-short-bend-over",
+      "travel-tripods-center-column-tradeoff"
+    ],
+    "ahrefs": {
+      "volume": 0,
+      "kd": null,
+      "trafficPotential": null,
+      "country": "us",
+      "checked": "2026-11-22"
+    },
+    "rationale": "Owner rule 2026-11-13 pillar clusters, supporting post #4 for best-tripod-for-tall-photographers-over-6-feet: 3+ independent threads on travel tripods being too short for tall users (data/pain-points.json travel-tripods-too-short-bend-over: DPReview 'Lightest tripod for hiking?', 'Tripod for travel/hiking/long exposure: Stability vs portability?', 'Mirrorless Travel Tripod: FLM CP-26, Sirui 025/24x...'; plus DPReview 'For our tall members (6ft+)' and r/photography 'Tripods for tall people' which both mention travel tripods), Google autocomplete lists 'best travel tripod for tall person' and 'travel tripod tall' first for the prefix (data/briefs/travel-tripod-for-tall-person.suggest.json, 2026-11-22), and Vanguard runs a 'Tall Travel-Sized Tripods' collection. Ahrefs US volume 0 (2026-11-22). Cannibal check flags only word overlap with how-tall-should-a-tripod-be-for-my-height's secondary 'tripod height for tall person' (height math for any tripod); this post answers a different question (can a packable travel tripod reach eye level, and what folded length that costs), and no live post targets it.",
+    "publishedAt": "2026-11-22T11:29:18.267Z"
   }
 ]

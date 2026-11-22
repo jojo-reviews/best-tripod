@@ -1,0 +1,118 @@
+{
+  "keyword": "travel tripod for tall person",
+  "pagesAnalyzed": 3,
+  "sharedEntities": [
+    {
+      "entity": "Height",
+      "type": "/people/measured_body_part",
+      "pages": 2,
+      "relevance": 0.99,
+      "wiki": "http://en.wikipedia.org/wiki/Height",
+      "wikidata": "Q208826",
+      "kgmid": "/m/01jtb2"
+    },
+    {
+      "entity": "Tripod (photography)",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod_(photography)",
+      "wikidata": "Q683906",
+      "kgmid": "/m/073bxn"
+    },
+    {
+      "entity": "Tripod",
+      "type": "",
+      "pages": 2,
+      "relevance": 0.91,
+      "wiki": "http://en.wikipedia.org/wiki/Tripod",
+      "wikidata": "Q1444534",
+      "kgmid": "/m/0119d4g8"
+    },
+    {
+      "entity": "Portrait photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.46,
+      "wiki": "http://en.wikipedia.org/wiki/Portrait_photography",
+      "wikidata": "Q182956",
+      "kgmid": "/m/0chml9"
+    },
+    {
+      "entity": "Eye",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Eye",
+      "wikidata": "Q7364",
+      "kgmid": "/m/014sv8"
+    },
+    {
+      "entity": "Leg",
+      "type": "AnatomicalStructure",
+      "pages": 2,
+      "relevance": 0.45,
+      "wiki": "http://en.wikipedia.org/wiki/Leg",
+      "wikidata": "Q133105",
+      "kgmid": "/m/035r7c"
+    },
+    {
+      "entity": "Photography",
+      "type": "/broadcast/genre",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Photography",
+      "wikidata": "Q11633",
+      "kgmid": "/m/05wkw"
+    },
+    {
+      "entity": "Camera",
+      "type": "/fictional_universe/character_species",
+      "pages": 2,
+      "relevance": 0.43,
+      "wiki": "http://en.wikipedia.org/wiki/Camera",
+      "wikidata": "Q15328",
+      "kgmid": "/m/0dv5r"
+    },
+    {
+      "entity": "Landscape",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape",
+      "wikidata": "Q107425",
+      "kgmid": "/m/025s3q0"
+    },
+    {
+      "entity": "Landscape photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.4,
+      "wiki": "http://en.wikipedia.org/wiki/Landscape_photography",
+      "wikidata": "Q1353984",
+      "kgmid": "/m/04p_zwq"
+    },
+    {
+      "entity": "Sports photography",
+      "type": "/book/book_subject",
+      "pages": 2,
+      "relevance": 0.38,
+      "wiki": "http://en.wikipedia.org/wiki/Sports_photography",
+      "wikidata": "Q181169",
+      "kgmid": "/m/026q1b1"
+    },
+    {
+      "entity": "Macro photography",
+      "type": "/visual_art/visual_art_genre",
+      "pages": 2,
+      "relevance": 0.32,
+      "wiki": "http://en.wikipedia.org/wiki/Macro_photography",
+      "wikidata": "Q272444",
+      "kgmid": "/m/010f1nbq"
+    }
+  ],
+  "errors": [
+    "https://www.dpreview.com/forums/threads/for-our-tall-members-6ft-what-height-tripod-do-you-use.4301945/: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-BVjWfogI0oxHlWTJUDG3JL&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"BVjWfogI0oxHlWTJUDG3JL\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'xpVn04oPUzkqwn0xDagy5p7PBBmQMaeIya7WEt4u8.Q-1795346616-1.2.1.1-KNW3d7qGthfIe29L11HqVzq0cbhi5xXl9F6jj2nSe0ThH1Gb9RTm9_ia7H5Kc7fg',cITimeS: '1795346616',cN: 'BVjWfogI0oxHlWTJUDG3JL',cRay: 'a5e7901e5d860be5',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/forums/threads/for-our-tall-members-6ft-what-height-tripod-do-you-use.4301945/?__cf_chl_tk=6zF_yruPXMzjy3af3LVW1EjU8OZmj_.OMNCYA5A8uEM-1795346616-1.0.1.1-5N9PWEEVBwSRGWm.ykibVzlrf7wQc9hfF4ToCgMxRvA\",cvId: '3',cZone: 'www.dpreview.com',fa:\"/forums/threads/for-our-tall-members-6ft-what-height-tripod-do-you-use.4301945/?__cf_chl_f_tk=6zF_yruPXMzjy3af3LVW1EjU8OZmj_.OMNCYA5A8uEM-1795346616-1.0.1.1-5N9PWEEVBwSRGWm.ykibVzlrf7wQc9hfF4ToCgMxRvA\",md: 'Q..YEvwg72si.HUcwIBvMKKbQwAGtIP4PAxmsneiOiA-1795346616-1.2.1.1-Zu9Sg5ta1czvN5mBTedhyRcOrSR37BPtxQyMkfDPLpQOYwqu2iyQcRO9lCRxQxwe5dt9i5cKMY.BeuoLWG5Dpf5BdgpQpjGbzk7r2pat06YsyRgIxZZ7IlgYUxcQBE0zd2McnfNByRFFw.qi3RVV9EOXqYH4e.24N0zYe5udsDfwlszg0WBplcRw1o_Gubbelcg1639Tudzeius1DnWGlO1x7dsQMQVAAmtjNyiBYCfL8CerTFbWC45.zz3XXHipL8yWVCVT1shjS9WUutu6JY5mICs4ScEZogX3O_m9C8YbTCyrR4r2UR1_ZIw114hihFff5IXbkIkWWSlolkCpNDYpqY_H92qcC2mIRmA8nCXyOqOQEDYj1qVOf6EyJ1EoWAO6V4q1KD8rh3d6IWOkdARrgqWlVSZYVQRNYgYCaTScVbN.kFZ5mJAyyRhJLm9rjThDJgr9rIC25sQm3lbA8mB2DZFVGAV.fI4ZLAOQq0HaZE31nDp5YiQz9627qQkzt2xjxeOp7CZz4SfoKl95ThHRIuTWbUxiC9gZ5sKxY_4iQpratY0A4RvM53da2Jt34OhLwnZAB9TBENo0biQKCHgczJLVmuxvwEGYH2TzP0438x7GBDZsWM_KtEI8ulsMMQP70Sl.hUtnrlpOqWNFZ1FTWagqVSkGOsH5CIE4BH5.9aG8QbzXrxV.lrEXnzhbeSqU.VKwRU3kdCfOecY7lA8j.BdndeqsfrW6_yP_2zXUIZ8i_w8vClk009EoReEplBDSG19nW6lxVQRSc65vk7EwNTDn8lI_fdjWfAh.hZfr_2KcAmw6WSxvTB_vJMJiRA3ttB33Sa3jMmKEUAN0UYi1VAHNWQtzAg3FPdDOh_9PszxMuYnOVBoW4B2vw3xCblAnhBx68AV9GGpS_NA45aPGV5Qyg9qufVgD5JScxuC59bX3GZ.AZQGdsmPpqhuQw51y_xxR.tjusZ.Nl77h9QY6Hp0MbBxNKGkGasUk4Z1NCafamdq9fkfol2NeOMV.m9CwZ.grf7TYX3tVMaDNL0JyV3TmTwwKqMbLk7Yxv_4.bRENVCxNfJoX9ODctV6Oog51ZmcfbL3A51sq1zQbIPm_j2MLySDsSawcjfeqXHKd1R_9WL3x66au1umalcJXuXSU51UbAqZu3_E_3.Jlv_VWcHflvLuIzFz993B2abLVd2nf56aDnUqRlanHlzb1',mdrd: 'K7xrC5ZaMADsuMqfw5BVUH.txo67eX91Vh8GeRC62pA-1795346616-1.2.1.1-z58hCmxvQLdejuPjlPr5JEUis5y2ZDjvJmrPBKTzzFcqKMdjmIl7C3QDDCEO7XoqWzo5NbAZmx9mclo2b3NVTfQns4yR9PPGZENaZj57W0Z1Uw5dkEzyuRg_Z2leRPzO0LUXgBnEgloKkkGdAbA8T31PpAZ9aqvkp4XY8ktbAZpHR29EelASMZWErCN_Tu3Mq6PUQs0S9NRfFneWZhyWbBkZ0jcBMB.m2IrZBor4Qf8uroEr5qqBbNBpGe4Q_QizdKM_RMINS9YguBgfamNwWg',};var a = document.createElement('script');a.nonce = 'BVjWfogI0oxHlWTJUDG3JL';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a5e7901e5d860be5';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/forums/threads/for-our-tall-members-6ft-what-height-tripod-do-you-use.4301945/?__cf_chl_rt_tk=6zF_yruPXMzjy3af3LVW1EjU8OZmj_.OMNCYA5A8uEM-1795346616-1.0.1.1-5N9PWEEVBwSRGWm.ykibVzlrf7wQc9hfF4ToCgMxRvA\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>",
+    "https://photo.stackexchange.com/questions/26871/what-are-the-logistical-pros-and-cons-of-traveling-with-a-full-size-tripod: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-wMYcg7PlB380UXJnLjLAhJ&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"wMYcg7PlB380UXJnLjLAhJ\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'iCE7bHuv0lR.OdBizr2pGC0wl4ZLWqLlRyO1mm.5WS4-1795346616-1.2.1.1-41RazpsE6bkadkfyno3dxqNVlAPnnoE0l1aKBpO8Bmbn2eDC_JekIyg6Tor7i1pi',cITimeS: '1795346616',cN: 'wMYcg7PlB380UXJnLjLAhJ',cRay: 'a5e79021da16a5ba',cTplC:0,cTplO:0,cTplV:5,cType: 'precursor_interstitial',cUPMDTk:\"/questions/26871/what-are-the-logistical-pros-and-cons-of-traveling-with-a-full-size-tripod?__cf_chl_tk=dh84XuJxxsdXYBjQyIQ_K8xJQSSGAMpcZ5pO5EHLwbs-1795346616-1.0.1.1-hQREWHND1Hqe0MWFhScMCaj2m9FGHLIUOPNURSOHx88\",cvId: '3',cZone: 'photo.stackexchange.com',fa:\"/questions/26871/what-are-the-logistical-pros-and-cons-of-traveling-with-a-full-size-tripod?__cf_chl_f_tk=dh84XuJxxsdXYBjQyIQ_K8xJQSSGAMpcZ5pO5EHLwbs-1795346616-1.0.1.1-hQREWHND1Hqe0MWFhScMCaj2m9FGHLIUOPNURSOHx88\",md: 'FWT958tTzCqmUtMwjMXCWuhgoSAKW4_5P8IvyR4LLFY-1795346616-1.2.1.1-FKlCqunY3ajJs2skwdrq2QOtDlFNUdvAl0PJ1akeO0y.53NKFlBb41Nai41MsE2ROs6KHZgkKYd7rrwaAwI8z6RHYHMh3IDWJwTORy7MYcxHKossJcYxyBStVUq0buFBtzVAJy654z5w.anYxPTHDLvvWd8W5fF7L17VXcZgBXDumB4k2CLQBzDI7vCCMfMv248m4WFUbBrLMPVepIndYZV8Gjmqa8wSnbxlFwFEdCYAfdPl7upVLaw_D9AcInmQdOQc1r5hwrRs8hQj9U4C4zkMUac2n2M8LID4Zui44Q8VL96tCGYO1e8Ir2oG7B_o_RwACwvJytjwLRXKUsvXHNMZ9etMc_nTfFFP9nVfOvsCjNOxwS959XVwvdvfE2.OLOwAqaw.YFMskz18m10MohHPBSc12P5ESwsY0mymitXY0M_DyBWAVIvo3BLDFnLI1Kikn1sIb5HerfW2QbH4fC2Rf6MZxNE80oMrt8BEIEgekpfsW.3dLt5HCGNo4S.DsHvP0ApEeziixNAU9QjyXV7xaYCU0fsVEFX6O4AjvFTkYBkYtnCEsr7igQRol.bKFX6RgHkBw4IFeuDL7XdKM4WqzXESUfZwtzWiXEu6.ILoAeTBNOCq9tmlgeiOluqu1ovR3azT44XR6aQbtWoB.gmxjY51_O1L..3eBc8QLQaafNw68tx.cVCN33.AfpiBZwlrMargbnhIpb1ucnAxK2sAvF5UYc9TQXWjsCCRSGu4.OEFZdZQJ5cch7sRIpZRlLycz5cVVLxq5NQBkJuDYF5zagIKh1M1s3G.i76moxuKs6PdHd8VAomPz5Pqv2LtaLvLFX6.b5.M6FL3QZruD.SHdZG2Q6aog8DKjRShdrb9rTyxmpJjCFoW0_iGPQ1FQNrKPttkOc2yhaWMbISrCpa1OVRaE22waPHJXI4eDJOhwavfr31PrbiOlaMF4ud2EVoS_vRgVTmTM.UBbMApXT.Iodxull6P9i0Zu.zUQYZHRt4yYZZ_01G2ul9ZV3ff1kDnDel934kwshrwERKltVD_swcruAM5ZXDhj.uPu6UtR5uHTZvXHS21pRcQLQ41okmhJEwqDc7Zm8p1I.VJ4BqnwOVhe_lWk2k_sr2elNJVvRaS4mzGG0Sn7yszBqX2HykGhtecDMJKZvcO79APBQAt_TI0IemMJHgMx8fueyx.E9g8h1ZXj6J2kzpPy63kMMRhYxsppmaSMT0gCeMA_g',mdrd: 'jbfpPAbwD7Ri6IvoqIvICvTE1spyB1Z.wjNEPCmxBSU-1795346616-1.2.1.1-8v402kdk9qjeApcrvLN1IPyLc4QpzXyPlEk8Cm49fnwPErXGcRXQltMHri5V0PfaE2fVdJBhZ0mRMRYl1Hp84U_Rprma74etYT0VgbIN5JIfHv8em0wn.IZfawGwkg8Q0s2KWT7bhIQ_VRfPwu5.wmxenJ_qWO9SikioPwk3qj8P4GtpGpeu1viRcXyWN86iUK5Ynh9sKWRAVlPooc656SzDYrC5sdG4ZyWDrllb2MVIvsHy3A2nbL4sZXzKVgc0VM_0O9WCmUQMYicEXkhg3A',pi: true,pp: {r: 'a5e79021da16a5ba',t: btoa(String(1795346616))},};var a = document.createElement('script');a.nonce = 'wMYcg7PlB380UXJnLjLAhJ';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/precursor_interstitial/v1?ray=a5e79021da16a5ba';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/questions/26871/what-are-the-logistical-pros-and-cons-of-traveling-with-a-full-size-tripod?__cf_chl_rt_tk=dh84XuJxxsdXYBjQyIQ_K8xJQSSGAMpcZ5pO5EHLwbs-1795346616-1.0.1.1-hQREWHND1Hqe0MWFhScMCaj2m9FGHLIUOPNURSOHx88\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+  ]
+}

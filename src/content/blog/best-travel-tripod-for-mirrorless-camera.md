@@ -812,7 +812,7 @@ products:
       height and a head included for little money; heavy telephoto users should
       expect to re-tighten the head.
     pros:
-      - About 160 cm (63 in) maximum height per K&F, for a budget price
+      - 'About 160 cm (63 in) maximum height per K&F, for a budget price'
       - Folds to about 39 cm (15.35 in) at about 1.24 kg (2.73 lb)
       - Reversible center column for low-angle shots
     cons:
@@ -875,12 +875,12 @@ products:
       - 22 lb (10 kg) tripod rating
       - Up to 61.4 in
     cons:
-      - Head damping is fixed, not adjustable
+      - 'Head damping is fixed, not adjustable'
       - Column-down height not listed
     specs:
       Weight: 2.38 lb (1.08 kg)
       Material: Carbon fiber
-      Head: Video head, 360° pan, -55° to 90° tilt
+      Head: 'Video head, 360° pan, -55° to 90° tilt'
       Max height: 61.4 in (1560 mm)
       Min height: 17 in (440 mm)
       Folded length: 18 in (460 mm)
@@ -892,7 +892,7 @@ products:
       height: 9
       build: 7
       value: 8
-    scoreNote: 'Tall and light; I would pick it for video pans.'
+    scoreNote: Tall and light; I would pick it for video pans.
     owners:
       read: 3
       praise:
@@ -1073,6 +1073,7 @@ heroAlt: >-
   Best Travel Tripod for Mirrorless Camera Kits in 2026 (15 Picks) – Best Tripod
   buying guide
 related:
+  - travel-tripod-for-tall-person
   - best-tripod-for-leica-q3
 ---
 
